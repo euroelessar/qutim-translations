@@ -1,0 +1,2563 @@
+<!DOCTYPE QPH>
+<QPH language="bg_BG">
+<phrase>
+    <source>Default</source>
+    <target>Подразбиращ се</target>
+</phrase>
+<phrase>
+    <source>Simple</source>
+    <target>Опростен</target>
+</phrase>
+<phrase>
+    <source>Send file</source>
+    <target>Изпращане на файл</target>
+</phrase>
+<phrase>
+    <source>Open File</source>
+    <target>Отваряне на файл</target>
+</phrase>
+<phrase>
+    <source>Choose</source>
+    <target>Избиране</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>Отказ</target>
+</phrase>
+<phrase>
+    <source>Confirm</source>
+    <target>Потвърждение</target>
+</phrase>
+<phrase>
+    <source>Yes</source>
+    <target>Да</target>
+</phrase>
+<phrase>
+    <source>No</source>
+    <target>Не</target>
+</phrase>
+<phrase>
+    <source>deleteContactDialog</source>
+    <target>Изтриване на контакт</target>
+</phrase>
+<phrase>
+    <source>Contact will be deleted. Are you sure?</source>
+    <target>Контактът ще бъде изтрит. Сигурни ли сте?</target>
+</phrase>
+<phrase>
+    <source>Save File</source>
+    <target>Запис на файл</target>
+</phrase>
+<phrase>
+    <source>All files (*)</source>
+    <target>Всички файлове (*)</target>
+</phrase>
+<phrase>
+    <source>From:</source>
+    <target>От:</target>
+</phrase>
+<phrase>
+    <source>Accept</source>
+    <target>Приемане</target>
+</phrase>
+<phrase>
+    <source>Decline</source>
+    <target>Отхвърляне</target>
+</phrase>
+<phrase>
+    <source>%1 is typing</source>
+    <target>%1 пише</target>
+</phrase>
+<phrase>
+    <source>typing</source>
+    <target>пише</target>
+</phrase>
+<phrase>
+    <source>Sign in</source>
+    <target>Влизане</target>
+</phrase>
+<phrase>
+    <source>Show on startup</source>
+    <target>Показване при стартиране</target>
+</phrase>
+<phrase>
+    <source>Send multiple</source>
+    <target>Многократно изпращане</target>
+</phrase>
+<phrase>
+    <source>Stop</source>
+    <target>Спиране</target>
+</phrase>
+<phrase>
+    <source>Change</source>
+    <target>Промяна</target>
+</phrase>
+<phrase>
+    <source>&amp;Quit</source>
+    <target>&amp;Изход</target>
+</phrase>
+<phrase>
+    <source>Apply</source>
+    <target>Прилагане</target>
+</phrase>
+<phrase>
+    <source>Close</source>
+    <target>Затваряне</target>
+</phrase>
+<phrase>
+    <source>Return</source>
+    <target>Връщане</target>
+</phrase>
+<phrase>
+    <source>Account suspended because of your age (age &lt; 13)</source>
+    <target>Сметката е преустановена поради възрастта ви (възраст &lt; 13)</target>
+</phrase>
+<phrase>
+    <source>Mismatch nick or password</source>
+    <target>Псевдонима или паролата не съвпадат</target>
+</phrase>
+<phrase>
+    <source> Suspended account</source>
+    <target>Преустановена сметка</target>
+</phrase>
+<phrase>
+    <source>User too heavily warned</source>
+    <target>Потребителят е предупреден твърде сериозно</target>
+</phrase>
+<phrase>
+    <source>No access to database</source>
+    <target>Няма достъп до базата данни</target>
+</phrase>
+<phrase>
+    <source>Can&apos;t register on the ICQ network. Reconnect in a few minutes</source>
+    <target>Невъзможно регистриране в ICQ мрежата. Моля опитайте отново след няколко минути</target>
+</phrase>
+<phrase>
+    <source>Invalid database fields</source>
+    <target>Невалидни полета в базата данни</target>
+</phrase>
+<phrase>
+    <source>Invalid account</source>
+    <target>Невалидна сметка</target>
+</phrase>
+<phrase>
+    <source>Invalid SecurID</source>
+    <target>Невалиден SecurID</target>
+</phrase>
+<phrase>
+    <source>The users num connected from this IP has reached the maximum</source>
+    <target>Надвишен максимален брой потребители, свързани от този адрес</target>
+</phrase>
+<phrase>
+    <source>Rate limit exceeded. Please try to reconnect in a few minutes</source>
+    <target>Надвишен брой опити. Моля опитайте отново след няколко минути</target>
+</phrase>
+<phrase>
+    <source>Bad database status</source>
+    <target>Лош статус на базата данни</target>
+</phrase>
+<phrase>
+    <source>Deleted account</source>
+    <target>Изтрита сметка</target>
+</phrase>
+<phrase>
+    <source>Reservation timeout</source>
+    <target>Изтекло време на резервация</target>
+</phrase>
+<phrase>
+    <source>Expired account</source>
+    <target>Изтекла сметка</target>
+</phrase>
+<phrase>
+    <source>DB link error</source>
+    <target>Грешка при свързване с базата данни</target>
+</phrase>
+<phrase>
+    <source>Connection Error</source>
+    <target>Грешка при свързване</target>
+</phrase>
+<phrase>
+    <source>DB send error</source>
+    <target>Грешка при изпращане на базата данни</target>
+</phrase>
+<phrase>
+    <source>Internal error</source>
+    <target>Вътрешна грешка</target>
+</phrase>
+<phrase>
+    <source>Service temporarily offline</source>
+    <target>Временно услугата не е на линия</target>
+</phrase>
+<phrase>
+    <source>You are using an older version of ICQ. Upgrade required</source>
+    <target>Използвате стара версия на ICQ. Необходимо е да обновите клиента</target>
+</phrase>
+<phrase>
+    <source>You are using an older version of ICQ. Upgrade recommended</source>
+    <target>Използвате стара версия на ICQ. Препоръчително е да обновите клиента</target>
+</phrase>
+<phrase>
+    <source>Connection Error: %1</source>
+    <target>Грешка при свързване: %1</target>
+</phrase>
+<phrase>
+    <source>] : %1 is reading your away message</source>
+    <target>] : %1 прочита вашето съобщение при отсъствие</target>
+</phrase>
+<phrase>
+    <source>Widowed</source>
+    <target>Вдовец/Вдовица</target>
+</phrase>
+<phrase>
+    <source>Skills</source>
+    <target>Умения</target>
+</phrase>
+<phrase>
+    <source>Social science</source>
+    <target>Социални науки</target>
+</phrase>
+<phrase>
+    <source>searchUser</source>
+    <target>Търсене на потребител</target>
+</phrase>
+<phrase>
+    <source>Women</source>
+    <target>Жени</target>
+</phrase>
+<phrase>
+    <source>Widowed</source>
+    <target>Вдовец/Вдовица</target>
+</phrase>
+<phrase>
+    <source>Wales</source>
+    <target>Уелс</target>
+</phrase>
+<phrase>
+    <source>Travel</source>
+    <target>Пътуване</target>
+</phrase>
+<phrase>
+    <source>Sports</source>
+    <target>Спорт</target>
+</phrase>
+<phrase>
+    <source>Sporting and athletic</source>
+    <target>Спортуване и атлетика</target>
+</phrase>
+<phrase>
+    <source>Single</source>
+    <target>Свободен/Свободна</target>
+</phrase>
+<phrase>
+    <source>Separated</source>
+    <target>Разделен(а)</target>
+</phrase>
+<phrase>
+    <source>Search by:</source>
+    <target>Търсене по:</target>
+</phrase>
+<phrase>
+    <source>Search</source>
+    <target>Търсене</target>
+</phrase>
+<phrase>
+    <source>Science/Technology</source>
+    <target>Наука/Технологии</target>
+</phrase>
+<phrase>
+    <source>Science &amp; Research</source>
+    <target>Наука и изследвания</target>
+</phrase>
+<phrase>
+    <source>Science &amp; Research</source>
+    <target>Наука и изследователска дейност</target>
+</phrase>
+<phrase>
+    <source>Retired</source>
+    <target>Пенсионер(ка)</target>
+</phrase>
+<phrase>
+    <source>Other services</source>
+    <target>Други услуги</target>
+</phrase>
+<phrase>
+    <source>Nick name:</source>
+    <target>Псевдоним:</target>
+</phrase>
+<phrase>
+    <source>Nick name</source>
+    <target>Псевдоним</target>
+</phrase>
+<phrase>
+    <source>News &amp; Media</source>
+    <target>Новини и медии</target>
+</phrase>
+<phrase>
+    <source>Nature and Environment</source>
+    <target>Природа и околна среда</target>
+</phrase>
+<phrase>
+    <source>Mystics</source>
+    <target>Мистерии</target>
+</phrase>
+<phrase>
+    <source>Music</source>
+    <target>Музика</target>
+</phrase>
+<phrase>
+    <source>Movies/TV</source>
+    <target>Филми/Телевизия</target>
+</phrase>
+<phrase>
+    <source>More &gt;&gt;</source>
+    <target>Още &gt;&gt;</target>
+</phrase>
+<phrase>
+    <source>Medical/Health</source>
+    <target>Медицина/Здраве</target>
+</phrase>
+<phrase>
+    <source>Married</source>
+    <target>Женен/Омъжена</target>
+</phrase>
+<phrase>
+    <source>Outdoor Activities</source>
+    <target>Занимания на открито</target>
+</phrase>
+<phrase>
+    <source>Manufacturing</source>
+    <target>Производство</target>
+</phrase>
+<phrase>
+    <source>Managerial</source>
+    <target>Управление</target>
+</phrase>
+<phrase>
+    <source>Last name:</source>
+    <target>Фамилия:</target>
+</phrase>
+<phrase>
+    <source>Last name</source>
+    <target>Фамилия</target>
+</phrase>
+<phrase>
+    <source>Language:</source>
+    <target>Език:</target>
+</phrase>
+<phrase>
+    <source>Keywords:</source>
+    <target>Ключови думи:</target>
+</phrase>
+<phrase>
+    <source>Interests:</source>
+    <target>Интереси:</target>
+</phrase>
+<phrase>
+    <source>Household products</source>
+    <target>Стоки за бита</target>
+</phrase>
+<phrase>
+    <source>Hobbies</source>
+    <target>Хобита</target>
+</phrase>
+<phrase>
+    <source>High School Student</source>
+    <target>Гимназист(ка)</target>
+</phrase>
+<phrase>
+    <source>Health and beauty</source>
+    <target>Здраве и красота</target>
+</phrase>
+<phrase>
+    <source>Government</source>
+    <target>Правителство</target>
+</phrase>
+<phrase>
+    <source>Gender:</source>
+    <target>Пол:</target>
+</phrase>
+<phrase>
+    <source>First name</source>
+    <target>Име</target>
+</phrase>
+<phrase>
+    <source>Financial Services</source>
+    <target>Финансови услуги</target>
+</phrase>
+<phrase>
+    <source>Finance and corporate</source>
+    <target>Финанси и корпорации</target>
+</phrase>
+<phrase>
+    <source>Female</source>
+    <target>Жена</target>
+</phrase>
+<phrase>
+    <source>Engaged</source>
+    <target>Сгоден(а)</target>
+</phrase>
+<phrase>
+    <source>Email</source>
+    <target>Email</target>
+</phrase>
+<phrase>
+    <source>Divorced</source>
+    <target>Разведен(а)</target>
+</phrase>
+<phrase>
+    <source>Culture &amp; Literature</source>
+    <target>Култура и литература</target>
+</phrase>
+<phrase>
+    <source>Country:</source>
+    <target>Държава:</target>
+</phrase>
+<phrase>
+    <source>Consumer electronics</source>
+    <target>Потребителска електроника</target>
+</phrase>
+<phrase>
+    <source>Computers</source>
+    <target>Компютри</target>
+</phrase>
+<phrase>
+    <source>Clear</source>
+    <target>Изчистване</target>
+</phrase>
+<phrase>
+    <source>College Student</source>
+    <target>Студент(ка)</target>
+</phrase>
+<phrase>
+    <source>City:</source>
+    <target>Град:</target>
+</phrase>
+<phrase>
+    <source>Business services</source>
+    <target>Бизнес услуги</target>
+</phrase>
+<phrase>
+    <source>Business &amp; Economy</source>
+    <target>Бизнес и икономика</target>
+</phrase>
+<phrase>
+    <source>Bulgarian</source>
+    <target>български</target>
+</phrase>
+<phrase>
+    <source>Bulgaria</source>
+    <target>България</target>
+</phrase>
+<phrase>
+    <source>Authorize</source>
+    <target>Удостоверяване</target>
+</phrase>
+<phrase>
+    <source>Audio and visual</source>
+    <target>Аудио и видео</target>
+</phrase>
+<phrase>
+    <source>Astronomy</source>
+    <target>Астрономия</target>
+</phrase>
+<phrase>
+    <source>Art/Entertainment</source>
+    <target>Изкуство/Забава</target>
+</phrase>
+<phrase>
+    <source>Art</source>
+    <target>Изкуство</target>
+</phrase>
+<phrase>
+    <source>Age:</source>
+    <target>Възраст:</target>
+</phrase>
+<phrase>
+    <source>Other</source>
+    <target>Други</target>
+</phrase>
+<phrase>
+    <source>Male</source>
+    <target>Мъж</target>
+</phrase>
+<phrase>
+    <source>Cars</source>
+    <target>Автомобили</target>
+</phrase>
+<phrase>
+    <source>Lifestyle</source>
+    <target>Начин на живот</target>
+</phrase>
+<phrase>
+    <source>Parenting</source>
+    <target>Отглеждане на деца</target>
+</phrase>
+<phrase>
+    <source>Pets/Animals</source>
+    <target>Домашни любимци/Животни</target>
+</phrase>
+<phrase>
+    <source>Entertainment</source>
+    <target>Забава</target>
+</phrase>
+<phrase>
+    <source>Password:</source>
+    <target>Парола:</target>
+</phrase>
+<phrase>
+    <source>ICQ General</source>
+    <target>ICQ Общи</target>
+</phrase>
+<phrase>
+    <source>Network</source>
+    <target>Мрежа</target>
+</phrase>
+<phrase>
+    <source>Statuses</source>
+    <target>Статуси</target>
+</phrase>
+<phrase>
+    <source>Contacts</source>
+    <target>Контакти</target>
+</phrase>
+<phrase>
+    <source>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;External ip:&lt;/b&gt; %1.%2.%3.%4&lt;br&gt;&lt;/font&gt;</source>
+    <target>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Външен IP:&lt;/b&gt; %1.%2.%3.%4&lt;br&gt;&lt;/font&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Internal ip:&lt;/b&gt; %1.%2.%3.%4&lt;br&gt;&lt;/font&gt;</source>
+    <target>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Вътрешен IP:&lt;/b&gt; %1.%2.%3.%4&lt;br&gt;&lt;/font&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Away since:&lt;/b&gt; %1&lt;br&gt;</source>
+    <target>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Отсъства от:&lt;/b&gt; %1&lt;br&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;N/A since:&lt;/b&gt; %1&lt;br&gt;</source>
+    <target>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Недостъпен от:&lt;/b&gt; %1&lt;br&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Reg. date:&lt;/b&gt; %1&lt;br&gt;</source>
+    <target>&lt;b&gt;Регистрация от:&lt;/b&gt; %1&lt;br&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Possible client:&lt;/b&gt; %1&lt;/font&gt;</source>
+    <target>&lt;b&gt;Вероятен клиент:&lt;/b&gt; %1&lt;/font&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;External ip:&lt;/b&gt; %1.%2.%3.%4&lt;br&gt;</source>
+    <target>&lt;b&gt;Външен IP:&lt;/b&gt; %1.%2.%3.%4&lt;br&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Internal ip:&lt;/b&gt; %1.%2.%3.%4&lt;br&gt;</source>
+    <target>&lt;b&gt;Вътрешен IP:&lt;/b&gt; %1.%2.%3.%4&lt;br&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Away since:&lt;/b&gt; %1&lt;br&gt;</source>
+    <target>&lt;b&gt;Отсъства от:&lt;/b&gt; %1&lt;br&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;N/A since:&lt;/b&gt; %1&lt;br&gt;</source>
+    <target>&lt;b&gt;Недостъпен от:&lt;/b&gt; %1&lt;br&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Possible client:&lt;/b&gt; %1&lt;br&gt;</source>
+    <target>&lt;b&gt;Вероятен клиент:&lt;/b&gt; %1&lt;br&gt;</target>
+</phrase>
+<phrase>
+    <source>Authorize</source>
+    <target>Удостоверяване</target>
+</phrase>
+<phrase>
+    <source>Move</source>
+    <target>Преместване</target>
+</phrase>
+<phrase>
+    <source>Local name:</source>
+    <target>Име:</target>
+</phrase>
+<phrase>
+    <source>Group:</source>
+    <target>Група:</target>
+</phrase>
+<phrase>
+    <source>Add</source>
+    <target>Добавяне</target>
+</phrase>
+<phrase>
+    <source>Name:</source>
+    <target>Име:</target>
+</phrase>
+<phrase>
+    <source>OK</source>
+    <target>ОК</target>
+</phrase>
+<phrase>
+    <source>Invalid nick or password</source>
+    <target>Невалидни псевдоним или парола</target>
+</phrase>
+<phrase>
+    <source>Service temporarily unavailable</source>
+    <target>Услугата е временно недостъпна</target>
+</phrase>
+<phrase>
+    <source>Incorrect nick or password</source>
+    <target>Сгрешени псевдоним или парола</target>
+</phrase>
+<phrase>
+    <source>Mismatch nick or password</source>
+    <target>Псевдонимът или паролата не съвпадат</target>
+</phrase>
+<phrase>
+    <source>Internal client error (bad input to authorizer)</source>
+    <target>Вътрешна грешка на клиента (неуспешно удостоверяване)</target>
+</phrase>
+<phrase>
+    <source> The users num connected from this IP has reached the maximum (reservation)</source>
+    <target>Надвишен максимален брой потребители, свързани от този адрес (резервация)</target>
+</phrase>
+<phrase>
+    <source>Rate limit exceeded (reservation). Please try to reconnect in a few minutes</source>
+    <target>Надвишен брой опити (резервация). Моля опитайте отново след няколко минути</target>
+</phrase>
+<phrase>
+    <source>is online</source>
+    <target>е на линия</target>
+</phrase>
+<phrase>
+    <source>is dnd</source>
+    <target>не желае да бъде обезпокояван</target>
+</phrase>
+<phrase>
+    <source>is n/a</source>
+    <target>е недостъпен</target>
+</phrase>
+<phrase>
+    <source>is occupied</source>
+    <target>е зает</target>
+</phrase>
+<phrase>
+    <source>is free for chat</source>
+    <target>е свободен за разговор</target>
+</phrase>
+<phrase>
+    <source>is invisible</source>
+    <target>е невидим</target>
+</phrase>
+<phrase>
+    <source>is offline</source>
+    <target>е извън линия</target>
+</phrase>
+<phrase>
+    <source>is away</source>
+    <target>липсва</target>
+</phrase>
+<phrase>
+    <source>at home</source>
+    <target>е вкъщи</target>
+</phrase>
+<phrase>
+    <source>at work</source>
+    <target>е на работа</target>
+</phrase>
+<phrase>
+    <source>having lunch</source>
+    <target>се храни</target>
+</phrase>
+<phrase>
+    <source>is evil</source>
+    <target>е зъл</target>
+</phrase>
+<phrase>
+    <source>in depression</source>
+    <target>е депресиран</target>
+</phrase>
+<phrase>
+    <source>%1 is reading your away message</source>
+    <target>%1 прочита съобщението ви при отсъствие</target>
+</phrase>
+<phrase>
+    <source>is away</source>
+    <target>отсъства</target>
+</phrase>
+<phrase>
+    <source>%1 is reading your x-status message</source>
+    <target>%1 прочита съобщението на разширения ви статус</target>
+</phrase>
+<phrase>
+    <source>Password is successfully changed</source>
+    <target>Паролата е променена успешно</target>
+</phrase>
+<phrase>
+    <source>Password is not changed</source>
+    <target>Паролата не бе променена</target>
+</phrase>
+<phrase>
+    <source>Privacy lists</source>
+    <target>Лични списъци</target>
+</phrase>
+<phrase>
+    <source>View/change my details</source>
+    <target>Преглед/Промяна на моите подробности</target>
+</phrase>
+<phrase>
+    <source>Change my password</source>
+    <target>Промяна на моята парола</target>
+</phrase>
+<phrase>
+    <source>You were added</source>
+    <target>Бяхте добавен</target>
+</phrase>
+<phrase>
+    <source>New group</source>
+    <target>Нова група</target>
+</phrase>
+<phrase>
+    <source>Rename group</source>
+    <target>Преименуване на група</target>
+</phrase>
+<phrase>
+    <source>Delete group</source>
+    <target>Изтриване на група</target>
+</phrase>
+<phrase>
+    <source>Send message</source>
+    <target>Изпращане на съобщение</target>
+</phrase>
+<phrase>
+    <source>Copy UIN to clipboard</source>
+    <target>Копиране на UIN в клипборда</target>
+</phrase>
+<phrase>
+    <source>Contact status check</source>
+    <target>Проверка за статуса на контакта</target>
+</phrase>
+<phrase>
+    <source>Message history</source>
+    <target>Хронология на съобщенията</target>
+</phrase>
+<phrase>
+    <source>Read away message</source>
+    <target>Прочитане на съобщението при отсъствие</target>
+</phrase>
+<phrase>
+    <source>Rename contact</source>
+    <target>Преименуване на контакта</target>
+</phrase>
+<phrase>
+    <source>Delete contact</source>
+    <target>Изтриване на контакта</target>
+</phrase>
+<phrase>
+    <source>Move to group</source>
+    <target>Преместване в група</target>
+</phrase>
+<phrase>
+    <source>Add to visible list</source>
+    <target>Добавяне в списък &quot;Видими&quot;</target>
+</phrase>
+<phrase>
+    <source>Add to invisible list</source>
+    <target>Добавяне в списък &quot;Невидими&quot;</target>
+</phrase>
+<phrase>
+    <source>Add to ignore list</source>
+    <target>Добавяне в списък &quot;Пренебрегнати&quot;</target>
+</phrase>
+<phrase>
+    <source>Add to ignore list</source>
+    <target>Добавяне в списък &quot;Пренебрегнати&quot;</target>
+</phrase>
+<phrase>
+    <source>Delete from visible list</source>
+    <target>Изтриване от списък &quot;Видими&quot;</target>
+</phrase>
+<phrase>
+    <source>Delete from invisible list</source>
+    <target>Изтриване от списък &quot;Невидими&quot;</target>
+</phrase>
+<phrase>
+    <source>Delete from ignore list</source>
+    <target>Изтриване от списък &quot;Пренебрегнати&quot;</target>
+</phrase>
+<phrase>
+    <source>Authorization request</source>
+    <target>Заявка за удостоверяване</target>
+</phrase>
+<phrase>
+    <source>Add to contact list</source>
+    <target>Добавяне в списъка с контакти</target>
+</phrase>
+<phrase>
+    <source>Allow contact to add me</source>
+    <target>Позволяване да бъда добавен</target>
+</phrase>
+<phrase>
+    <source>Remove myself from contact&apos;s list</source>
+    <target>Премахване от списъка на контакта</target>
+</phrase>
+<phrase>
+    <source>Read custom status</source>
+    <target>Прочитане на разширения статус</target>
+</phrase>
+<phrase>
+    <source>Edit note</source>
+    <target>Редактиране на бележка</target>
+</phrase>
+<phrase>
+    <source>Create group</source>
+    <target>Създаване на група</target>
+</phrase>
+<phrase>
+    <source>Delete group &quot;%1&quot;?</source>
+    <target>Група &quot;%1&quot; да бъде изтрита?</target>
+</phrase>
+<phrase>
+    <source>%1 away message</source>
+    <target>%1 съобщение при отсъствие</target>
+</phrase>
+<phrase>
+    <source>Delete %1</source>
+    <target>Изтриване на %1</target>
+</phrase>
+<phrase>
+    <source>Move %1 to:</source>
+    <target>Преместване на %1 в:</target>
+</phrase>
+<phrase>
+    <source>Authorization accepted</source>
+    <target>Удостоверението е дадено</target>
+</phrase>
+<phrase>
+    <source>Authorization declined</source>
+    <target>Удостоверението бе отхвърлено</target>
+</phrase>
+<phrase>
+    <source>%1 xStatus message</source>
+    <target>Съобщение на разширения статус на %1</target>
+</phrase>
+<phrase>
+    <source>Contact does not support file transfer</source>
+    <target>Контактът не поддържа предаване на файлове</target>
+</phrase>
+<phrase>
+    <source>Angry</source>
+    <target>Бесен</target>
+</phrase>
+<phrase>
+    <source>Taking a bath</source>
+    <target>В банята съм ...</target>
+</phrase>
+<phrase>
+    <source>Tired</source>
+    <target>Уморен съм</target>
+</phrase>
+<phrase>
+    <source>Party</source>
+    <target>Купонясвам</target>
+</phrase>
+<phrase>
+    <source>Drinking beer</source>
+    <target>Жуля бира</target>
+</phrase>
+<phrase>
+    <source>Thinking</source>
+    <target>Размишлявам</target>
+</phrase>
+<phrase>
+    <source>Eating</source>
+    <target>Хапвам</target>
+</phrase>
+<phrase>
+    <source>Watching TV</source>
+    <target>Гледам телевизия</target>
+</phrase>
+<phrase>
+    <source>Meeting</source>
+    <target>На среща съм</target>
+</phrase>
+<phrase>
+    <source>Listening to music</source>
+    <target>Слушам музика</target>
+</phrase>
+<phrase>
+    <source>Business</source>
+    <target>Имам работа</target>
+</phrase>
+<phrase>
+    <source>Shooting</source>
+    <target>Снимам</target>
+</phrase>
+<phrase>
+    <source>Having fun</source>
+    <target>Забавлявам се</target>
+</phrase>
+<phrase>
+    <source>On the phone</source>
+    <target>На телефона</target>
+</phrase>
+<phrase>
+    <source>Gaming</source>
+    <target>Играя</target>
+</phrase>
+<phrase>
+    <source>Shopping</source>
+    <target>Пазарувам</target>
+</phrase>
+<phrase>
+    <source>Feeling sick</source>
+    <target>Боледувам</target>
+</phrase>
+<phrase>
+    <source>Sleeping</source>
+    <target>Спя</target>
+</phrase>
+<phrase>
+    <source>Surfing</source>
+    <target>Сърфирам</target>
+</phrase>
+<phrase>
+    <source>Browsing</source>
+    <target>Ровя се в нета</target>
+</phrase>
+<phrase>
+    <source>Working</source>
+    <target>Бачкам</target>
+</phrase>
+<phrase>
+    <source>Typing</source>
+    <target>Набирам</target>
+</phrase>
+<phrase>
+    <source>Picnic</source>
+    <target>На тиферич</target>
+</phrase>
+<phrase>
+    <source>On WC</source>
+    <target>Друсам крушата</target>
+</phrase>
+<phrase>
+    <source>To be or not to be</source>
+    <target>Да бъда или да не бъда ...</target>
+</phrase>
+<phrase>
+    <source>Custom status</source>
+    <target>Разширен статус</target>
+</phrase>
+<phrase>
+    <source>File request</source>
+    <target>Заявка за предаване на файл</target>
+</phrase>
+<phrase>
+    <source>File name:</source>
+    <target>Име на файла:</target>
+</phrase>
+<phrase>
+    <source>File size:</source>
+    <target>Размер:</target>
+</phrase>
+<phrase>
+    <source>File transfer: %1</source>
+    <target>Предаване на файла: %1</target>
+</phrase>
+<phrase>
+    <source>Waiting...</source>
+    <target>Изчакване...</target>
+</phrase>
+<phrase>
+    <source>Declined by remote user</source>
+    <target>Отхвърлено от отдалечения потребител</target>
+</phrase>
+<phrase>
+    <source>Accepted</source>
+    <target>Приет</target>
+</phrase>
+<phrase>
+    <source>Sending...</source>
+    <target>Изпращане...</target>
+</phrase>
+<phrase>
+    <source>Done</source>
+    <target>Завършено</target>
+</phrase>
+<phrase>
+    <source>Getting...</source>
+    <target>Получаване...</target>
+</phrase>
+<phrase>
+    <source>File transfer</source>
+    <target>Предаване на файл</target>
+</phrase>
+<phrase>
+    <source>Current file:</source>
+    <target>Текущ файл:</target>
+</phrase>
+<phrase>
+    <source>Speed:</source>
+    <target>Скорост:</target>
+</phrase>
+<phrase>
+    <source>Files:</source>
+    <target>Файлове:</target>
+</phrase>
+<phrase>
+    <source>Last time:</source>
+    <target>Изминало време:</target>
+</phrase>
+<phrase>
+    <source>Remained time:</source>
+    <target>Оставащо време:</target>
+</phrase>
+<phrase>
+    <source>Sender&apos;s IP:</source>
+    <target>IP на изпращача:</target>
+</phrase>
+<phrase>
+    <source>Status:</source>
+    <target>Статус:</target>
+</phrase>
+<phrase>
+    <source>Online</source>
+    <target>На линия</target>
+</phrase>
+<phrase>
+    <source>Offline</source>
+    <target>Извън линия</target>
+</phrase>
+<phrase>
+    <source>Free for chat</source>
+    <target>Свободен за разговор</target>
+</phrase>
+<phrase>
+    <source>Away</source>
+    <target>Отсъства</target>
+</phrase>
+<phrase>
+    <source>NA</source>
+    <target>Недостъпен</target>
+</phrase>
+<phrase>
+    <source>Occupied</source>
+    <target>Зает</target>
+</phrase>
+<phrase>
+    <source>DND</source>
+    <target>Не безпокойте</target>
+</phrase>
+<phrase>
+    <source>Invisible</source>
+    <target>Невидим</target>
+</phrase>
+<phrase>
+    <source>Lunch</source>
+    <target>Храня се</target>
+</phrase>
+<phrase>
+    <source>Evil</source>
+    <target>Зъл</target>
+</phrase>
+<phrase>
+    <source>Depression</source>
+    <target>Депресиран</target>
+</phrase>
+<phrase>
+    <source>At Home</source>
+    <target>Вкъщи</target>
+</phrase>
+<phrase>
+    <source>At Work</source>
+    <target>На работа</target>
+</phrase>
+<phrase>
+    <source>Custom status</source>
+    <target>Разширен статус</target>
+</phrase>
+<phrase>
+    <source>Privacy status</source>
+    <target>Личен статус</target>
+</phrase>
+<phrase>
+    <source>Visible for all</source>
+    <target>Видим за всички</target>
+</phrase>
+<phrase>
+    <source>Visible only for visible list</source>
+    <target>Видим само за списък &quot;Видими&quot;</target>
+</phrase>
+<phrase>
+    <source>Invisible only for invisible list</source>
+    <target>Невидим само за списък &quot;Невидими&quot;</target>
+</phrase>
+<phrase>
+    <source>Visible only for contact list</source>
+    <target>Видим само за списъка с контакти</target>
+</phrase>
+<phrase>
+    <source>Invisible for all</source>
+    <target>Невидим за всички</target>
+</phrase>
+<phrase>
+    <source>Additional</source>
+    <target>Допълнителни</target>
+</phrase>
+<phrase>
+    <source>is reading your away message</source>
+    <target>прочита съобщението ви при отсъствие</target>
+</phrase>
+<phrase>
+    <source>is reading your x-status message</source>
+    <target>прочита съобщението на разширения ви статус</target>
+</phrase>
+<phrase>
+    <source>Main</source>
+    <target>Основни</target>
+</phrase>
+<phrase>
+    <source>Autoconnect on start</source>
+    <target>Автоматично свързване при стартиране</target>
+</phrase>
+<phrase>
+    <source>Save my status on exit</source>
+    <target>Запазване на статуса ми при излизане</target>
+</phrase>
+<phrase>
+    <source>Don&apos;t send requests for avatarts</source>
+    <target>Да не се изпращат заявки за аватари</target>
+</phrase>
+<phrase>
+    <source>Reconnect after disconnect</source>
+    <target>Повторно свързване при загуба на връзка</target>
+</phrase>
+<phrase>
+    <source>Client ID:</source>
+    <target>Идентификация на клиента:</target>
+</phrase>
+<phrase>
+    <source>qutIM</source>
+    <target>qutIM</target>
+</phrase>
+<phrase>
+    <source>Protocol version:</source>
+    <target>Версия на протокола:</target>
+</phrase>
+<phrase>
+    <source>Client capability list:</source>
+    <target>Възможности на клиента:</target>
+</phrase>
+<phrase>
+    <source>Advanced</source>
+    <target>Разширени</target>
+</phrase>
+<phrase>
+    <source>Account button and tray icon</source>
+    <target>Бутон на регистрацията в системния поднос</target>
+</phrase>
+<phrase>
+    <source>Show main status icon</source>
+    <target>Показване иконата на основния статус</target>
+</phrase>
+<phrase>
+    <source>Show custom status icon</source>
+    <target>Показване иконата на разширения статус</target>
+</phrase>
+<phrase>
+    <source>Show last choosen</source>
+    <target>Показване иконата на последно избрания статус</target>
+</phrase>
+<phrase>
+    <source>Codepage( note that online messages use utf-8 in most cases ):</source>
+    <target>Кодировка (имайте предвид, че в повечето случаи съобщенията са в UTF-8)</target>
+</phrase>
+<phrase>
+    <source>Send</source>
+    <target>Изпращане</target>
+</phrase>
+<phrase>
+    <source>Connection</source>
+    <target>Връзка</target>
+</phrase>
+<phrase>
+    <source>Server</source>
+    <target>Сървър</target>
+</phrase>
+<phrase>
+    <source>Host:</source>
+    <target>Хост:</target>
+</phrase>
+<phrase>
+    <source>Port:</source>
+    <target>Порт:</target>
+</phrase>
+<phrase>
+    <source>Keep connection alive</source>
+    <target>Поддържане на връзката</target>
+</phrase>
+<phrase>
+    <source>Secure login</source>
+    <target>Сигурно влизане</target>
+</phrase>
+<phrase>
+    <source>Proxy connection</source>
+    <target>Връзка през прокси</target>
+</phrase>
+<phrase>
+    <source>Listen port for file transfer:</source>
+    <target>Порт за предаване на файлове:</target>
+</phrase>
+<phrase>
+    <source>Proxy</source>
+    <target>Прокси</target>
+</phrase>
+<phrase>
+    <source>Type:</source>
+    <target>Тип:</target>
+</phrase>
+<phrase>
+    <source>None</source>
+    <target>Без</target>
+</phrase>
+<phrase>
+    <source>Authentication</source>
+    <target>Удостоверяване</target>
+</phrase>
+<phrase>
+    <source>User name:</source>
+    <target>Потребителско име:</target>
+</phrase>
+<phrase>
+    <source>The remote host closed the connection.</source>
+    <target>Отдалеченият хост затвори връзката.</target>
+</phrase>
+<phrase>
+    <source>The host address was not found.</source>
+    <target>Адресът на хоста не бе намерен.</target>
+</phrase>
+<phrase>
+    <source>The socket operation failed because the application lacked the required privileges.</source>
+    <target>Сокет операцията бе неуспешна, поради липса на необходимите права.</target>
+</phrase>
+<phrase>
+    <source>The local system ran out of resources (e.g., too many sockets).</source>
+    <target>Ресурсите на локалната система са изчерпани (напр. твърде много сокети).</target>
+</phrase>
+<phrase>
+    <source>The socket operation timed out.</source>
+    <target>Изтекло време на сокет операцията.</target>
+</phrase>
+<phrase>
+    <source>The socket is using a proxy, and the proxy requires authentication.</source>
+    <target>Сокетът ползва прокси, което изисква удостоверяване.</target>
+</phrase>
+<phrase>
+    <source>An unidentified network error occurred.</source>
+    <target>Възникна мрежови проблем, който не може да бъде определен.</target>
+</phrase>
+<phrase>
+    <source>The connection was refused by the peer (or timed out).</source>
+    <target>Отказана, от отсрещната страна, връзка (или изтекло време).</target>
+</phrase>
+<phrase>
+    <source>An error occurred with the network (e.g., the network cable was accidentally plugged out).</source>
+    <target>Възникна проблем с мрежата (напр. мрежовия кабел е измъкнат по погрешка).</target>
+</phrase>
+<phrase>
+    <source>The requested socket operation is not supported by the local operating system (e.g., lack of IPv6 support).</source>
+    <target>Заявената сокет операция не се поддържа от локалната операционна система (напр. липсва поддръжка на IPv6).</target>
+</phrase>
+<phrase>
+    <source>The socket is using a proxy, and the proxy requires authentication.</source>
+    <target>Сокетът ползва прокси, изискващо удостоверяване.</target>
+</phrase>
+<phrase>
+    <source>Current password is invalid</source>
+    <target>Текущата парола е невалидна</target>
+</phrase>
+<phrase>
+    <source>Change password</source>
+    <target>Промяна на парола</target>
+</phrase>
+<phrase>
+    <source>Current password:</source>
+    <target>Настояща парола:</target>
+</phrase>
+<phrase>
+    <source>New password:</source>
+    <target>Нова парола:</target>
+</phrase>
+<phrase>
+    <source>Retype new password:</source>
+    <target>Повторение на новата парола:</target>
+</phrase>
+<phrase>
+    <source>Change</source>
+    <target>Промяна</target>
+</phrase>
+<phrase>
+    <source>Enter %1 password</source>
+    <target>Въведете парола за %1</target>
+</phrase>
+<phrase>
+    <source>Enter your password</source>
+    <target>Въведете вашата парола</target>
+</phrase>
+<phrase>
+    <source>Your password:</source>
+    <target>Вашата парола:</target>
+</phrase>
+<phrase>
+    <source>Save password</source>
+    <target>Запис на паролата</target>
+</phrase>
+<phrase>
+    <source>Visible list</source>
+    <target>Списък &quot;Видими&quot;</target>
+</phrase>
+<phrase>
+    <source>I</source>
+    <target>Информация</target>
+</phrase>
+<phrase>
+    <source>D</source>
+    <target>Изтриване</target>
+</phrase>
+<phrase>
+    <source>Invisible list</source>
+    <target>Списък &quot;Невидими&quot;</target>
+</phrase>
+<phrase>
+    <source>Ignore list</source>
+    <target>Списък &quot;Пренебрегнати&quot;</target>
+</phrase>
+<phrase>
+    <source>Searching</source>
+    <target>Търсене</target>
+</phrase>
+<phrase>
+    <source>Nothing found</source>
+    <target>Не са намерени резултати</target>
+</phrase>
+<phrase>
+    <source>Always</source>
+    <target>Винаги</target>
+</phrase>
+<phrase>
+    <source>Authorize</source>
+    <target>Удостоверяване</target>
+</phrase>
+<phrase>
+    <source>Contact details</source>
+    <target>Подробности за контакта</target>
+</phrase>
+<phrase>
+    <source>Accept messages only from contact list</source>
+    <target>Приемане на съобщения само от контакти в списъка</target>
+</phrase>
+<phrase>
+    <source>Notify when blocking message</source>
+    <target>Уведомяване при блокиране на съобщение</target>
+</phrase>
+<phrase>
+    <source>Do not accept NIL messages concerning authorization</source>
+    <target>Да не се приемат съобщения касаещи удостоверяване</target>
+</phrase>
+<phrase>
+    <source>Do not accept NIL messages with URLs</source>
+    <target>Да не се приемат съобщения с URL адреси</target>
+</phrase>
+<phrase>
+    <source>Enable anti-spam bot</source>
+    <target>Включване защитата срещу спам</target>
+</phrase>
+<phrase>
+    <source>Anti-spam question:</source>
+    <target>Въпрос за защитата срещу спам:</target>
+</phrase>
+<phrase>
+    <source>Answer to question:</source>
+    <target>Отговор на въпроса:</target>
+</phrase>
+<phrase>
+    <source>Message after right answer:</source>
+    <target>Съобщение при верен отговор:</target>
+</phrase>
+<phrase>
+    <source>Don&apos;t send question/reply if my status is &quot;invisible&quot;</source>
+    <target>Да не се изпраща въпрос/отговор ако статуса ми е &quot;Невидим&quot;</target>
+</phrase>
+<phrase>
+    <source>Tabbed messaging mode</source>
+    <target>Включване на раздели</target>
+</phrase>
+<phrase>
+    <source>Remember opened tabs after closing chat window</source>
+    <target>Запомняне на отворените раздели след затваряне на прозореца със съобщения</target>
+</phrase>
+<phrase>
+    <source>Hide empty groups</source>
+    <target>Скриване на празните групи</target>
+</phrase>
+<phrase>
+    <source>Hide offline users</source>
+    <target>Скриване на потребителите извън линия</target>
+</phrase>
+<phrase>
+    <source>Hide online/offline separators</source>
+    <target>Скриване на разделителя &quot;На линия&quot;/&quot;Извън линия&quot;</target>
+</phrase>
+<phrase>
+    <source>Sort contacts by status</source>
+    <target>Подреждане на контактите по статус</target>
+</phrase>
+<phrase>
+    <source>Draw the background with using alternating colors</source>
+    <target>Запълване на фона с редуващи се цветове</target>
+</phrase>
+<phrase>
+    <source>Show client icons</source>
+    <target>Показване иконите на клиентите</target>
+</phrase>
+<phrase>
+    <source>Show avatars</source>
+    <target>Показване на аватари</target>
+</phrase>
+<phrase>
+    <source>Look&apos;n&apos;Feel</source>
+    <target>Външен вид</target>
+</phrase>
+<phrase>
+    <source>Opacity:</source>
+    <target>Прозрачност:</target>
+</phrase>
+<phrase>
+    <source>Window Style:</source>
+    <target>Стил на прозореца:</target>
+</phrase>
+<phrase>
+    <source>Regular Window</source>
+    <target>Нормален прозорец</target>
+</phrase>
+<phrase>
+    <source>Borderless Window</source>
+    <target>Прозорец без ограждение</target>
+</phrase>
+<phrase>
+    <source>Show groups</source>
+    <target>Показване на групи</target>
+</phrase>
+<phrase>
+    <source>Customize font:</source>
+    <target>Персонализиране на шрифтове:</target>
+</phrase>
+<phrase>
+    <source>Theme border</source>
+    <target>Тема на ограждението</target>
+</phrase>
+<phrase>
+    <source>Emoticon menu</source>
+    <target>Емотикони</target>
+</phrase>
+<phrase>
+    <source>Show popup windows</source>
+    <target>Показване на изскачащи прозорци</target>
+</phrase>
+<phrase>
+    <source>Width:</source>
+    <target>Ширина:</target>
+</phrase>
+<phrase>
+    <source>Height:</source>
+    <target>Височина:</target>
+</phrase>
+<phrase>
+    <source>Position:</source>
+    <target>Позиция:</target>
+</phrase>
+<phrase>
+    <source>Style:</source>
+    <target>Стил:</target>
+</phrase>
+<phrase>
+    <source>Upper left corner</source>
+    <target>Горен ляв ъгъл</target>
+</phrase>
+<phrase>
+    <source>Upper right corner</source>
+    <target>Горен десен ъгъл</target>
+</phrase>
+<phrase>
+    <source>Lower left corner</source>
+    <target>Долен ляв ъгъл</target>
+</phrase>
+<phrase>
+    <source>Lower right corner</source>
+    <target>Долен десен ъгъл</target>
+</phrase>
+<phrase>
+    <source>No slide</source>
+    <target>Без плъзгане</target>
+</phrase>
+<phrase>
+    <source>Slide vertically</source>
+    <target>Вертикално плъзгане</target>
+</phrase>
+<phrase>
+    <source>Slide horizontally</source>
+    <target>Хоризонтално плъзгане</target>
+</phrase>
+<phrase>
+    <source>Delete profile</source>
+    <target>Изтриване на профил</target>
+</phrase>
+<phrase>
+    <source>Remember password</source>
+    <target>Запомняне на паролата</target>
+</phrase>
+<phrase>
+    <source>Don&apos;t show on startup</source>
+    <target>Да не се показва при стартиране</target>
+</phrase>
+<phrase>
+    <source>Please choose IM protocol</source>
+    <target>Моля изберете протокол</target>
+</phrase>
+<phrase>
+    <source>System message for : %1</source>
+    <target>Системно съобщение: %1</target>
+</phrase>
+<phrase>
+    <source>Message from %1:
+%2</source>
+    <target>Съобщение от %1:
+%2</target>
+</phrase>
+<phrase>
+    <source>Blocked message from %1:
+%2</source>
+    <target>Блокирано съобщение от %1:
+%2</target>
+</phrase>
+<phrase>
+    <source>(BLOCKED)
+</source>
+    <target>(БЛОКИРАНО)
+</target>
+</phrase>
+<phrase>
+    <source>%1 has birthday today!!</source>
+    <target>%1 има рожден ден днес!!!</target>
+</phrase>
+<phrase>
+    <source>has birthday today!!</source>
+    <target>има рожден ден днес!!!</target>
+</phrase>
+<phrase>
+    <source>Images (*.gif *.png *.bmp *.jpg *.jpeg)</source>
+    <target>Изображения (*.gif *.png *.bmp *.jpg *.jpeg)</target>
+</phrase>
+<phrase>
+    <source>Open error</source>
+    <target>Грешка при отваряне</target>
+</phrase>
+<phrase>
+    <source>Image size is too big</source>
+    <target>Твърде голям размер на изображението</target>
+</phrase>
+<phrase>
+    <source>System event</source>
+    <target>Системно събитие</target>
+</phrase>
+<phrase>
+    <source>Outgoing message</source>
+    <target>Изходящо съобщение</target>
+</phrase>
+<phrase>
+    <source>Incoming message</source>
+    <target>Входящо съобщение</target>
+</phrase>
+<phrase>
+    <source>Contact is online</source>
+    <target>Контакт влиза на линия</target>
+</phrase>
+<phrase>
+    <source>Command</source>
+    <target>Команда</target>
+</phrase>
+<phrase>
+    <source>Executables</source>
+    <target>Изпълними</target>
+</phrase>
+<phrase>
+    <source>Sound files (*.wav)
+</source>
+    <target>Звукови файлове (*.wav)
+</target>
+</phrase>
+<phrase>
+    <source>Open sound file</source>
+    <target>Отваряне на звуков файл</target>
+</phrase>
+<phrase>
+    <source>Export sound style</source>
+    <target>Експортиране на звукова схема</target>
+</phrase>
+<phrase>
+    <source>XML files (*.xml)</source>
+    <target>XML файлове (*.xml)</target>
+</phrase>
+<phrase>
+    <source>Export...</source>
+    <target>Експортиране...</target>
+</phrase>
+<phrase>
+    <source>Import sound style</source>
+    <target>Импортиране на звукова схема</target>
+</phrase>
+<phrase>
+    <source>Could not open file &quot;%1&quot; for reading.</source>
+    <target>Файлът &quot;%1&quot; не може да бъде отворен за четене.</target>
+</phrase>
+<phrase>
+    <source>Error</source>
+    <target>Грешка</target>
+</phrase>
+<phrase>
+    <source>Events</source>
+    <target>Събития</target>
+</phrase>
+<phrase>
+    <source>No sound</source>
+    <target>Без звук</target>
+</phrase>
+<phrase>
+    <source>Sound file:</source>
+    <target>Звуков файл:</target>
+</phrase>
+<phrase>
+    <source>Import...</source>
+    <target>Импортиране...</target>
+</phrase>
+<phrase>
+    <source>Write your status message</source>
+    <target>Въведете съобщение за вашия статус</target>
+</phrase>
+<phrase>
+    <source>Do not show this dialog</source>
+    <target>Да не се показва диалога повече</target>
+</phrase>
+<phrase>
+    <source>Save</source>
+    <target>Запис</target>
+</phrase>
+<phrase>
+    <source>Not available</source>
+    <target>Недостъпен</target>
+</phrase>
+<phrase>
+    <source>Without authorization</source>
+    <target>Без удостоверение</target>
+</phrase>
+<phrase>
+    <source>Delete account</source>
+    <target>Изтриване на сметка</target>
+</phrase>
+<phrase>
+    <source>Delete %1 account?</source>
+    <target>Изтриване на сметката %1?</target>
+</phrase>
+<phrase>
+    <source>Account</source>
+    <target>Сметка</target>
+</phrase>
+<phrase>
+    <source>Autoconnect</source>
+    <target>Автоматично свързване</target>
+</phrase>
+<phrase>
+    <source>Add accounts to system tray menu</source>
+    <target>Добавяне на сметките в менюто на системния поднос</target>
+</phrase>
+<phrase>
+    <source>Always on top</source>
+    <target>Винаги отгоре</target>
+</phrase>
+<phrase>
+    <source>Auto-hide:</source>
+    <target>Автоматично скриване след:</target>
+</phrase>
+<phrase>
+    <source>Street address:</source>
+    <target>Улица:</target>
+</phrase>
+<phrase>
+    <source>Home address:</source>
+    <target>Домашен адрес:</target>
+</phrase>
+<phrase>
+    <source>Work address</source>
+    <target>Служебен адрес:</target>
+</phrase>
+<phrase>
+    <source>Occupation:</source>
+    <target>Длъжност:</target>
+</phrase>
+<phrase>
+    <source>Occupation:</source>
+    <target>Сфера:</target>
+</phrase>
+<phrase>
+    <source>Position:</source>
+    <target>Длъжност:</target>
+</phrase>
+<phrase>
+    <source>Web site:</source>
+    <target>Уеб страница:</target>
+</phrase>
+<phrase>
+    <source>Personal</source>
+    <target>Лични данни</target>
+</phrase>
+<phrase>
+    <source>Marital status:</source>
+    <target>Семеен статус:</target>
+</phrase>
+<phrase>
+    <source>Home page:</source>
+    <target>Лична страница:</target>
+</phrase>
+<phrase>
+    <source>Spoken language:</source>
+    <target>Говорими езици:</target>
+</phrase>
+<phrase>
+    <source>Authorization/webaware</source>
+    <target>Удостоверяване/Видимост в мрежата</target>
+</phrase>
+<phrase>
+    <source>My authorization is required</source>
+    <target>Изисква се моето удостоверение</target>
+</phrase>
+<phrase>
+    <source>All uses can add me without authorization</source>
+    <target>Всички потребители могат да ме добавят без удостоверение</target>
+</phrase>
+<phrase>
+    <source>Summary</source>
+    <target>Обобщени</target>
+</phrase>
+<phrase>
+    <source>General</source>
+    <target>Общи</target>
+</phrase>
+<phrase>
+    <source>About</source>
+    <target>За мен</target>
+</phrase>
+<phrase>
+    <source>Additinonal</source>
+    <target>Допълнителни</target>
+</phrase>
+<phrase>
+    <source>Request details</source>
+    <target>Заявка за подробности</target>
+</phrase>
+<phrase>
+    <source>Room:</source>
+    <target>Стая:</target>
+</phrase>
+<phrase>
+    <source>Nickname:</source>
+    <target>Псевдоним:</target>
+</phrase>
+<phrase>
+    <source>Join</source>
+    <target>Присъединяване</target>
+</phrase>
+<phrase>
+    <source>Contact list</source>
+    <target>Списък с контакти</target>
+</phrase>
+<phrase>
+    <source>Incorrect email</source>
+    <target>Сгрешен Email</target>
+</phrase>
+<phrase>
+    <source>Add to group:</source>
+    <target>Добавяне в група</target>
+</phrase>
+<phrase>
+    <source>Away</source>
+    <target>Отсъствам</target>
+</phrase>
+<phrase>
+    <source>Add contact</source>
+    <target>Добавяне на контакт</target>
+</phrase>
+<phrase>
+    <source>Open mailbox</source>
+    <target>Отваряне на пощата</target>
+</phrase>
+<phrase>
+    <source>Messages in mailbox: </source>
+    <target>Съобщения в пощата:</target>
+</phrase>
+<phrase>
+    <source>Rename</source>
+    <target>Преименуване</target>
+</phrase>
+<phrase>
+    <source>Remove</source>
+    <target>Премахване</target>
+</phrase>
+<phrase>
+    <source>Request authorization</source>
+    <target>Заявка за удостоверение</target>
+</phrase>
+<phrase>
+    <source>The Ram</source>
+    <target>Овен</target>
+</phrase>
+<phrase>
+    <source>The Bull</source>
+    <target>Телец</target>
+</phrase>
+<phrase>
+    <source>The Twins</source>
+    <target>Близнаци</target>
+</phrase>
+<phrase>
+    <source>The Crab</source>
+    <target>Рак</target>
+</phrase>
+<phrase>
+    <source>The Lion</source>
+    <target>Лъв</target>
+</phrase>
+<phrase>
+    <source>The Virgin</source>
+    <target>Дева</target>
+</phrase>
+<phrase>
+    <source>The Balance</source>
+    <target>Везни</target>
+</phrase>
+<phrase>
+    <source>The Scorpion</source>
+    <target>Скорпион</target>
+</phrase>
+<phrase>
+    <source>The Archer</source>
+    <target>Стрелец</target>
+</phrase>
+<phrase>
+    <source>The Capricorn</source>
+    <target>Козирог</target>
+</phrase>
+<phrase>
+    <source>The Water-bearer</source>
+    <target>Водолей</target>
+</phrase>
+<phrase>
+    <source>The Fish</source>
+    <target>Риби</target>
+</phrase>
+<phrase>
+    <source>January</source>
+    <target>януари</target>
+</phrase>
+<phrase>
+    <source>February</source>
+    <target>февруари</target>
+</phrase>
+<phrase>
+    <source>March</source>
+    <target>март</target>
+</phrase>
+<phrase>
+    <source>April</source>
+    <target>април</target>
+</phrase>
+<phrase>
+    <source>May</source>
+    <target>май</target>
+</phrase>
+<phrase>
+    <source>June</source>
+    <target>юни</target>
+</phrase>
+<phrase>
+    <source>July</source>
+    <target>юли</target>
+</phrase>
+<phrase>
+    <source>August</source>
+    <target>август</target>
+</phrase>
+<phrase>
+    <source>September</source>
+    <target>септември</target>
+</phrase>
+<phrase>
+    <source>October</source>
+    <target>октомври</target>
+</phrase>
+<phrase>
+    <source>November</source>
+    <target>ноември</target>
+</phrase>
+<phrase>
+    <source>December</source>
+    <target>декември</target>
+</phrase>
+<phrase>
+    <source>Search contact</source>
+    <target>Търсене на контакт</target>
+</phrase>
+<phrase>
+    <source>Surname:</source>
+    <target>Фамилия:</target>
+</phrase>
+<phrase>
+    <source>Sex:</source>
+    <target>Пол:</target>
+</phrase>
+<phrase>
+    <source>Region:</source>
+    <target>Област:</target>
+</phrase>
+<phrase>
+    <source>Birthday:</source>
+    <target>Рожден ден:</target>
+</phrase>
+<phrase>
+    <source>Day:</source>
+    <target>Ден:</target>
+</phrase>
+<phrase>
+    <source>Month:</source>
+    <target>Месец:</target>
+</phrase>
+<phrase>
+    <source>Zodiac:</source>
+    <target>Зодия:</target>
+</phrase>
+<phrase>
+    <source>Reject</source>
+    <target>Отхвърляне</target>
+</phrase>
+<phrase>
+    <source>Join groupchat</source>
+    <target>Присъединяване към групов разговор</target>
+</phrase>
+<phrase>
+    <source>(personal)</source>
+    <target>(личен)</target>
+</phrase>
+<phrase>
+    <source>(work)</source>
+    <target>(служебен)</target>
+</phrase>
+<phrase>
+    <source>(home)</source>
+    <target>(домашен)</target>
+</phrase>
+<phrase>
+    <source>(celluar)</source>
+    <target>(мобилен)</target>
+</phrase>
+<phrase>
+    <source>Resource:</source>
+    <target>Ресурс:</target>
+</phrase>
+<phrase>
+    <source>Priority:</source>
+    <target>Приоритет:</target>
+</phrase>
+<phrase>
+    <source>Priority:</source>
+    <target>Приоритет:</target>
+</phrase>
+<phrase>
+    <source>Change resource</source>
+    <target>Промяна на ресурс</target>
+</phrase>
+<phrase>
+    <source>Unknown error: No description.</source>
+    <target>Неизвестна грешка: Липсва описание.</target>
+</phrase>
+<phrase>
+    <source>Any</source>
+    <target>Всички</target>
+</phrase>
+<phrase>
+    <source>Any</source>
+    <target>Всяка</target>
+</phrase>
+<phrase>
+    <source>Any</source>
+    <target>Всеки</target>
+</phrase>
+<phrase>
+    <source>M</source>
+    <target>М</target>
+</phrase>
+<phrase>
+    <source>F</source>
+    <target>Ж</target>
+</phrase>
+<phrase>
+    <source>Nick</source>
+    <target>Псевдоним</target>
+</phrase>
+<phrase>
+    <source>Info</source>
+    <target>Информация</target>
+</phrase>
+<phrase>
+    <source>Show contact xStatus icon</source>
+    <target>Показване на икони за разширен статус на контактите</target>
+</phrase>
+<phrase>
+    <source>Show birthday/happy icon</source>
+    <target>Показване на икона за рожден/празничен ден</target>
+</phrase>
+<phrase>
+    <source>Show not authorized icon</source>
+    <target>Показване на икони за &quot;Без удостоверение&quot;</target>
+</phrase>
+<phrase>
+    <source>Show &quot;visible&quot; icon if contact in visible list</source>
+    <target>Показване на икона за &quot;видим&quot; ако контакта е в списък &quot;Видими&quot;</target>
+</phrase>
+<phrase>
+    <source>Show &quot;invisible&quot; icon if contact in invisible list</source>
+    <target>Показване на икона за &quot;невидим&quot; ако контакта е в списък &quot;Невидими&quot;</target>
+</phrase>
+<phrase>
+    <source>Show &quot;ignore&quot; icon if contact in ignore list</source>
+    <target>Показване на икона за &quot;пренебрегнат&quot; ако контакта е в списък &quot;Пренебреганти&quot;</target>
+</phrase>
+<phrase>
+    <source>Show contact&apos;s xStatus text in contact list</source>
+    <target>Показване текста на разширения статус на контакта в списъка</target>
+</phrase>
+<phrase>
+    <source>Show contact xStatus icon</source>
+    <target>Показване на икона за разширен статус на контактите</target>
+</phrase>
+<phrase>
+    <source>Show birthday/happy icon</source>
+    <target>Показване на икона за рожден/празничен ден</target>
+</phrase>
+<phrase>
+    <source>Show not authorized icon</source>
+    <target>Показване на икона за &quot;Без удостоверение&quot;</target>
+</phrase>
+<phrase>
+    <source>DND</source>
+    <target>Не ме безпокойте</target>
+</phrase>
+<phrase>
+    <source>Another client is loggin with this uin</source>
+    <target>Друг клиент с този UIN се свързва</target>
+</phrase>
+<phrase>
+    <source>Any</source>
+    <target>без значение</target>
+</phrase>
+<phrase>
+    <source>Birthday:</source>
+    <target>Роден:</target>
+</phrase>
+<phrase>
+    <source>Global proxy</source>
+    <target>Общо прокси</target>
+</phrase>
+<phrase>
+    <source>Other</source>
+    <target>Друго</target>
+</phrase>
+<phrase>
+    <source>Close tab/message window after sending a message</source>
+    <target>Затваряне на раздела/прозореца след изпращане на съобщение</target>
+</phrase>
+<phrase>
+    <source>Rate limit exceeded (reservation). Please try to reconnect in a few minutes</source>
+    <target>Надвишен брой опити (резервация). Моля опитайте отново след няколко минути</target>
+</phrase>
+<phrase>
+    <source>icqSettings</source>
+    <target>Настройки за ICQ</target>
+</phrase>
+<phrase>
+    <source>ChatWindowSettings</source>
+    <target>Настройки на прозореца със съобщения</target>
+</phrase>
+<phrase>
+    <source>JoinConferenceForm</source>
+    <target>Конференция</target>
+</phrase>
+<phrase>
+    <source>LoginForm</source>
+    <target>Детайли за вход</target>
+</phrase>
+<phrase>
+    <source>Arabic</source>
+    <target>арабски</target>
+</phrase>
+<phrase>
+    <source>Do not disturb</source>
+    <target>Не безпокойте</target>
+</phrase>
+<phrase>
+    <source>Phone</source>
+    <target>Телефон</target>
+</phrase>
+<phrase>
+    <source>Home</source>
+    <target>Домашен</target>
+</phrase>
+<phrase>
+    <source>Add new contact</source>
+    <target>Добавяне на нов контакт</target>
+</phrase>
+<phrase>
+    <source>Add User</source>
+    <target>Добавяне на потребител</target>
+</phrase>
+<phrase>
+    <source>Select</source>
+    <target>Избор</target>
+</phrase>
+<phrase>
+    <source>Add/find users</source>
+    <target>Добавяне/Намиране на потребители</target>
+</phrase>
+<phrase>
+    <source>General settings</source>
+    <target>Общи настройки</target>
+</phrase>
+<phrase>
+    <source>Connection settings</source>
+    <target>Настройки на връзката</target>
+</phrase>
+<phrase>
+    <source>Visitor</source>
+    <target>Посетител</target>
+</phrase>
+<phrase>
+    <source>Participant</source>
+    <target>Участник</target>
+</phrase>
+<phrase>
+    <source>Moderator</source>
+    <target>Модератор</target>
+</phrase>
+<phrase>
+    <source>banned</source>
+    <target>със забрана</target>
+</phrase>
+<phrase>
+    <source>member</source>
+    <target>член</target>
+</phrase>
+<phrase>
+    <source>owner</source>
+    <target>собственик</target>
+</phrase>
+<phrase>
+    <source>administrator</source>
+    <target>администратор</target>
+</phrase>
+<phrase>
+    <source>guest</source>
+    <target>гост</target>
+</phrase>
+<phrase>
+    <source>AccountManagement</source>
+    <target>Управление на сметки</target>
+</phrase>
+<phrase>
+    <source>Edit</source>
+    <target>Редактиране</target>
+</phrase>
+<phrase>
+    <source>new chat</source>
+    <target>нов разговор</target>
+</phrase>
+<phrase>
+    <source>Finish</source>
+    <target>Приключване</target>
+</phrase>
+<phrase>
+    <source>About</source>
+    <target>За добавката</target>
+</phrase>
+<phrase>
+    <source>Reciever:</source>
+    <target>Получател:</target>
+</phrase>
+<phrase>
+    <source>Size</source>
+    <target>Размер</target>
+</phrase>
+<phrase>
+    <source>Play</source>
+    <target>Просвирване</target>
+</phrase>
+<phrase>
+    <source>Unspecified</source>
+    <target>Неопределен</target>
+</phrase>
+<phrase>
+    <source>Location</source>
+    <target>Местонахождение</target>
+</phrase>
+<phrase>
+    <source>&amp;Settings...</source>
+    <target>&amp;Настройки...</target>
+</phrase>
+<phrase>
+    <source>&amp;User interface settings...</source>
+    <target>&amp;Настройки на потребителския интерфейс...</target>
+</phrase>
+<phrase>
+    <source>Plug-in settings...</source>
+    <target>Настройки на добавките...</target>
+</phrase>
+<phrase>
+    <source>Switch profile</source>
+    <target>Смяна на профил</target>
+</phrase>
+<phrase>
+    <source>Install</source>
+    <target>Инсталиране</target>
+</phrase>
+<phrase>
+    <source>Upgrade</source>
+    <target>Надграждане</target>
+</phrase>
+<phrase>
+    <source>Packages</source>
+    <target>Пакети</target>
+</phrase>
+<phrase>
+    <source>Not yet implemented</source>
+    <target>В процес на разработка</target>
+</phrase>
+<phrase>
+    <source>Actions</source>
+    <target>Действия</target>
+</phrase>
+<phrase>
+    <source>Images</source>
+    <target>Изображения</target>
+</phrase>
+<phrase>
+    <source>Remember</source>
+    <target>Запомняне</target>
+</phrase>
+<phrase>
+    <source>Loading</source>
+    <target>Зареждане</target>
+</phrase>
+<phrase>
+    <source>About</source>
+    <target>За програмата</target>
+</phrase>
+<phrase>
+    <source>Profile</source>
+    <target>Профил</target>
+</phrase>
+<phrase>
+    <source>Notifications</source>
+    <target>Уведомления</target>
+</phrase>
+<phrase>
+    <source>Update</source>
+    <target>Актуализиране</target>
+</phrase>
+<phrase>
+    <source>Insert</source>
+    <target>Вмъкване</target>
+</phrase>
+<phrase>
+    <source>Delete</source>
+    <target>Изтриване</target>
+</phrase>
+<phrase>
+    <source>Name</source>
+    <target>Име</target>
+</phrase>
+<phrase>
+    <source>&amp;OK</source>
+    <target>&amp;OK</target>
+</phrase>
+<phrase>
+    <source>Back</source>
+    <target>Назад</target>
+</phrase>
+<phrase>
+    <source>List View</source>
+    <target>Списък</target>
+</phrase>
+<phrase>
+    <source>File</source>
+    <target>Файл</target>
+</phrase>
+<phrase>
+    <source>Open</source>
+    <target>Отваряне</target>
+</phrase>
+<phrase>
+    <source>Save As</source>
+    <target>Запис като</target>
+</phrase>
+<phrase>
+    <source>New Folder</source>
+    <target>Нова папка</target>
+</phrase>
+<phrase>
+    <source>Directory:</source>
+    <target>Директория</target>
+</phrase>
+<phrase>
+    <source>Help</source>
+    <target>Помощ</target>
+</phrase>
+<phrase>
+    <source>Defaults</source>
+    <target>По подразбиране</target>
+</phrase>
+<phrase>
+    <source>Select All</source>
+    <target>Избор на всички</target>
+</phrase>
+<phrase>
+    <source>Reset</source>
+    <target>Нулиране</target>
+</phrase>
+<phrase>
+    <source>Discard</source>
+    <target>Отхвърляне</target>
+</phrase>
+<phrase>
+    <source>Retry</source>
+    <target>Повторен опит</target>
+</phrase>
+<phrase>
+    <source>Abort</source>
+    <target>Прекратяване</target>
+</phrase>
+<phrase>
+    <source>Save All</source>
+    <target>Запис на всички</target>
+</phrase>
+<phrase>
+    <source>Drive</source>
+    <target>Устройство</target>
+</phrase>
+<phrase>
+    <source>Show </source>
+    <target>Показване</target>
+</phrase>
+<phrase>
+    <source>Execute</source>
+    <target>Изпълнение</target>
+</phrase>
+<phrase>
+    <source>Value</source>
+    <target>Стойност</target>
+</phrase>
+<phrase>
+    <source>Preview</source>
+    <target>Предварителен преглед</target>
+</phrase>
+<phrase>
+    <source>Host found</source>
+    <target>Хостът е намерен</target>
+</phrase>
+<phrase>
+    <source>Computer</source>
+    <target>Компютър</target>
+</phrase>
+<phrase>
+    <source>Italic</source>
+    <target>Курсив</target>
+</phrase>
+<phrase>
+    <source>Bold</source>
+    <target>Получер</target>
+</phrase>
+<phrase>
+    <source>Oblique</source>
+    <target>Полегат</target>
+</phrase>
+<phrase>
+    <source>Space</source>
+    <target>Интервал</target>
+</phrase>
+<phrase>
+    <source>Refresh</source>
+    <target>Обновяване</target>
+</phrase>
+<phrase>
+    <source>Favorites</source>
+    <target>Любими</target>
+</phrase>
+<phrase>
+    <source>Continue</source>
+    <target>Продължаване</target>
+</phrase>
+<phrase>
+    <source>Reload</source>
+    <target>Презареждане</target>
+</phrase>
+<phrase>
+    <source>Paste</source>
+    <target>Поставяне</target>
+</phrase>
+<phrase>
+    <source>Open in New Window</source>
+    <target>Отваряне в нов прозорец</target>
+</phrase>
+<phrase>
+    <source>Open Link</source>
+    <target>Отваряне на препратката</target>
+</phrase>
+<phrase>
+    <source>Open Image</source>
+    <target>Отваряне на изображението</target>
+</phrase>
+<phrase>
+    <source>Open Frame</source>
+    <target>Отваряне на рамката</target>
+</phrase>
+<phrase>
+    <source>Cut</source>
+    <target>Изрязване</target>
+</phrase>
+<phrase>
+    <source>Copy Link</source>
+    <target>Копиране препратката</target>
+</phrase>
+<phrase>
+    <source>Copy Image</source>
+    <target>Копиране на избражението</target>
+</phrase>
+<phrase>
+    <source>Check Spelling</source>
+    <target>Проверка на правописа</target>
+</phrase>
+<phrase>
+    <source>&lt;empty&gt;</source>
+    <target>&lt;празно&gt;</target>
+</phrase>
+<phrase>
+    <source>Inspect</source>
+    <target>Изследване</target>
+</phrase>
+<phrase>
+    <source>Ignore</source>
+    <target>Пренебрегване</target>
+</phrase>
+<phrase>
+    <source>Warning</source>
+    <target>Внимание</target>
+</phrase>
+<phrase>
+    <source>Default</source>
+    <target>По подразбиране</target>
+</phrase>
+<phrase>
+    <source>Party!</source>
+    <target>Купон!</target>
+</phrase>
+<phrase>
+    <source>Description</source>
+    <target>Описание</target>
+</phrase>
+<phrase>
+    <source>Settings</source>
+    <target>Настройки</target>
+</phrase>
+<phrase>
+    <source>Format</source>
+    <target>Формат</target>
+</phrase>
+<phrase>
+    <source>Image:</source>
+    <target>Изображение:</target>
+</phrase>
+<phrase>
+    <source>Down</source>
+    <target>Надолу</target>
+</phrase>
+<phrase>
+    <source>Up</source>
+    <target>Нагоре</target>
+</phrase>
+<phrase>
+    <source>Import</source>
+    <target>Импортиране</target>
+</phrase>
+<phrase>
+    <source>Export</source>
+    <target>Експортиране</target>
+</phrase>
+<phrase>
+    <source>Information</source>
+    <target>Информация</target>
+</phrase>
+<phrase>
+    <source>&lt;default&gt;</source>
+    <target>&lt;по подразбиране&gt;</target>
+</phrase>
+<phrase>
+    <source>Shortcuts</source>
+    <target>Бързи клавиши</target>
+</phrase>
+<phrase>
+    <source>Age:</source>
+    <target>Възраст:</target>
+</phrase>
+<phrase>
+    <source>Bad resolver status</source>
+    <target>Лош статус на DNS</target>
+</phrase>
+<phrase>
+    <source>Author</source>
+    <target>Автор</target>
+</phrase>
+<phrase>
+    <source>Download</source>
+    <target>Изтегляне</target>
+</phrase>
+<phrase>
+    <source>Connecting</source>
+    <target>Свързване</target>
+</phrase>
+<phrase>
+    <source>Sounds</source>
+    <target>Звуци</target>
+</phrase>
+<phrase>
+    <source>Protocols</source>
+    <target>Протоколи</target>
+</phrase>
+<phrase>
+    <source>Appearance</source>
+    <target>Външен вид</target>
+</phrase>
+<phrase>
+    <source>Plugins</source>
+    <target>Добавки</target>
+</phrase>
+<phrase>
+    <source>Login:</source>
+    <target>Потребителско име:</target>
+</phrase>
+<phrase>
+    <source>Not In List</source>
+    <target>Извън списъка</target>
+</phrase>
+</QPH>
