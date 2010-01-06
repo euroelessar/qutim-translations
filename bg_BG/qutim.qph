@@ -2560,4 +2560,36 @@
     <source>Not In List</source>
     <target>Извън списъка</target>
 </phrase>
+<phrase>
+    <source>Localization</source>
+    <target>Локализация</target>
+</phrase>
+<phrase>
+    <source>Studying</source>
+    <target>Уча</target>
+</phrase>
+<phrase>
+    <source>Cooking</source>
+    <target>Готвя</target>
+</phrase>
+<phrase>
+    <source>Smoking</source>
+    <target>Пуша</target>
+</phrase>
+<phrase>
+    <source>Unknown error</source>
+    <target>Неизвестна грешка</target>
+</phrase>
+<phrase>
+    <source>To:</source>
+    <target>До:</target>
+</phrase>
+<phrase>
+    <source>Xml console</source>
+    <target>XML конзола</target>
+</phrase>
+<phrase>
+    <source>System error</source>
+    <target>Системна грешка</target>
+</phrase>
 </QPH>
