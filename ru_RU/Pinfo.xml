@@ -5,9 +5,10 @@
 <platform>all</platform>
 <name>ru</name>
 <version>--VERSION--</version>
-<shortdesc>Russian languages for qutIM 0.2 Beta</shortdesc>
+<shortdesc>Russian languages for qutIM 0.3a</shortdesc>
+<descriptions>Начальная попытка перевода qutIM codename "sdk03"</descriptions>
 <url>--URL--</url>
-<author>Mr.Peabody, MrFree (f1.mrfree@gmail.com), skpy, NightWolf_NG</author>
+<author>MrFree (f1.mrfree@gmail.com)</author>
 <licence>Creative Commons BY-SA 3.0</licence>
 <icon>http://sites.google.com/site/mrfreeproject/_/rsrc/1241599747240/Home/ru_qutim.png</icon>
 </package> 
