@@ -111,7 +111,7 @@
 <context>
     <name>AdiumChat::ChatSessionImpl</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+95"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+96"/>
         <source>Message %1 must have a ChatUnit</source>
         <translation>Съобщението %1 изисква ChatUnit</translation>
     </message>
@@ -695,7 +695,7 @@ p, li { white-space: pre-wrap; }
         <translation>Предварителен преглед на съобщението</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+7"/>
         <source>Hello!</source>
         <translation>Здравей!</translation>
     </message>
@@ -713,6 +713,11 @@ p, li { white-space: pre-wrap; }
         <location line="+3"/>
         <source>/me is thinking!</source>
         <translation>/me мисли!</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Vasya is reading you mind</source>
+        <translation>Вася чете мислите ви</translation>
     </message>
 </context>
 <context>
@@ -1362,7 +1367,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+26"/>
         <source>Helper for chat layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Помощник за слоя за разговори</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1478,7 +1483,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/qticons/iconsloaderimpl.cpp" line="+30"/>
         <source>Xdg Icon Loader</source>
-        <translation type="unfinished">Xdg Icon Loader</translation>
+        <translation type="unfinished">Поддръжка на Xdg икони</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2872,7 +2877,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/emoticonssettings/emoticonsselector.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
