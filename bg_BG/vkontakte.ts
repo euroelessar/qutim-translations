@@ -103,7 +103,7 @@
         <location filename="../../../../qutim/trunk/plugins/vkontakte/trunk/core/edditaccount.ui" line="+7"/>
         <location filename="../../../../qutim/trunk/plugins/vkontakte/trunk/ui_edditaccount.h" line="+1"/>
         <source>Insert fullsize URL on new photos notifications</source>
-        <translation>Вмъкване на пълноразмерен преглед на URL при известие за нова снимка</translation>
+        <translation>Вмъкване на пълно-размерен преглед на URL при известие за нова снимка</translation>
     </message>
     <message>
         <location line="+42"/>

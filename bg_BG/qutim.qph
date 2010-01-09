@@ -726,7 +726,7 @@
 </phrase>
 <phrase>
     <source>Copy UIN to clipboard</source>
-    <target>Копиране на UIN в клипборда</target>
+    <target>Копиране на UIN в клип-борда</target>
 </phrase>
 <phrase>
     <source>Contact status check</source>
@@ -2034,7 +2034,7 @@
 </phrase>
 <phrase>
     <source>Show &quot;ignore&quot; icon if contact in ignore list</source>
-    <target>Показване на икона за &quot;пренебрегнат&quot; ако контакта е в списък &quot;Пренебреганти&quot;</target>
+    <target>Показване на икона за &quot;пренебрегнат&quot; ако контакта е в списък &quot;Пренебрегнати&quot;</target>
 </phrase>
 <phrase>
     <source>Show contact&apos;s xStatus text in contact list</source>
@@ -2442,7 +2442,7 @@
 </phrase>
 <phrase>
     <source>Copy Image</source>
-    <target>Копиране на избражението</target>
+    <target>Копиране на изображението</target>
 </phrase>
 <phrase>
     <source>Check Spelling</source>

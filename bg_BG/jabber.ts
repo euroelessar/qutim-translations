@@ -791,7 +791,7 @@
     <name>LoginForm</name>
     <message>
         <source>Registration</source>
-        <translation type="obsolete">Регистраране</translation>
+        <translation type="obsolete">Регистриране</translation>
     </message>
     <message>
         <source>You must enter a valid jid</source>
