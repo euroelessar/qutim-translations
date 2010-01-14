@@ -70,7 +70,7 @@
         <translation type="obsolete">Руслан Нигматуллин</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/jplugin.cpp" line="+23"/>
+        <location filename="../../qutim/plugins/jabber/src/jplugin.cpp" line="+23"/>
         <source>Denis Daschenko</source>
         <translation>Денис Дасченко</translation>
     </message>
@@ -133,7 +133,7 @@
 <context>
     <name>JAccountWizardPage</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jaccountwizardpage.ui" line="+14"/>
+        <location filename="../../qutim/plugins/jabber/src/protocol/jaccountwizardpage.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Магьосник</translation>
     </message>
@@ -161,7 +161,7 @@
 <context>
     <name>JAdHocWidget</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/adhoc/jadhocwidget.ui" line="+14"/>
+        <location filename="../../qutim/plugins/jabber/src/protocol/modules/adhoc/jadhocwidget.ui" line="+14"/>
         <source>Form</source>
         <translation>Ad-Hoc</translation>
     </message>
@@ -169,17 +169,17 @@
 <context>
     <name>JCertInfo</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/connection/jcertinfo.ui" line="+14"/>
+        <location filename="../../qutim/plugins/jabber/src/protocol/account/connection/jcertinfo.ui" line="+14"/>
         <source>Cert Info</source>
         <translation>Информация за сертификата</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+93"/>
         <source>Accept</source>
         <translation>Приемане</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="-85"/>
         <source>Cipher:</source>
         <translation>Шифър:</translation>
     </message>
@@ -204,12 +204,12 @@
         <translation>До:</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+64"/>
         <source>Reject</source>
         <translation>Отхвърляне</translation>
     </message>
     <message>
-        <location line="+42"/>
+        <location line="+9"/>
         <source>Remember choice for this server</source>
         <translation>Запомняне на избора за този сървър</translation>
     </message>
@@ -217,7 +217,7 @@
 <context>
     <name>JInputPassword</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/jinputpassword.ui" line="+14"/>
+        <location filename="../../qutim/plugins/jabber/src/protocol/account/jinputpassword.ui" line="+14"/>
         <source>Dialog</source>
         <translation>Диалог</translation>
     </message>
@@ -245,12 +245,12 @@
 <context>
     <name>Jabber</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/adhoc/jadhocmodule.cpp" line="+32"/>
+        <location filename="../../qutim/plugins/jabber/src/protocol/modules/adhoc/jadhocmodule.cpp" line="+32"/>
         <source>Execute command</source>
         <translation>Изпълнение на команда</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+31"/>
+        <location filename="../../qutim/plugins/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+31"/>
         <source>Xml console</source>
         <translation>XML конзола</translation>
     </message>
@@ -258,7 +258,7 @@
 <context>
     <name>Jabber::JAdHocWidget</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/adhoc/jadhocwidget.cpp" line="+38"/>
+        <location filename="../../qutim/plugins/jabber/src/protocol/modules/adhoc/jadhocwidget.cpp" line="+38"/>
         <location line="+34"/>
         <source>Next</source>
         <translation>Следващ</translation>
@@ -292,9 +292,9 @@
 <context>
     <name>Jabber::JConnectionListener</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/connection/jconnectionlistener.cpp" line="+42"/>
+        <location filename="../../qutim/plugins/jabber/src/protocol/account/connection/jconnectionlistener.cpp" line="+42"/>
         <source>The entity has sent XML that cannot be processed.</source>
-        <translation>Изпращачът прати XML, който не може да бъде обработен.</translation>
+        <translation type="unfinished">Изпращачът прати XML, който не може да бъде обработен.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -384,7 +384,7 @@
     <message>
         <location line="+3"/>
         <source>The server is being shut down and all active streams are being closed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сървърът бе спрян и всички активни потоци бяха затворени.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -516,57 +516,203 @@
     <message>
         <location line="+3"/>
         <source>The data provided by the initiating entity could not be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данните предоставени от иницииращата страна не могат да бъдат обработени.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The authzid provided by the initiating entity is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>authzid предоставен от иницииращата страна не е валиден.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The initiating entity did not provide a mechanism or requested a mechanism that is not supported by the receiving entity.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Иницииращата страна не предостави механизъм или заяви механизъм, който не се поддържа от получаваща страна.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The request is malformed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Заявката е деформирана.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The mechanism requested by the initiating entity is weaker than server policy permits for that initiating entity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Заявеният от иницииращата страна механизъм е по-слаб от колкото политиката на сървъра позволява за него.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The authentication failed because the initiating entity did not provide valid credentials (this includes but is not limited to the case of an unknown username).</source>
-        <translation type="unfinished"></translation>
+        <translation>Удостоверяването е неуспешно, защото иницииращата страна не предостави валидни детайли за вхох (това включва, но не се ограничава само до неизвестено потребителско име).</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The authentication failed because of a temporary error condition within the receiving entity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Удостоверяването е неуспешно, поради временно условие за грешка в получаващата страна.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>XEP-0078: Resource Conflict.</source>
-        <translation type="unfinished"></translation>
+        <translation>XEP-0078: Конфликт на ресурси.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>XEP-0078: Required Information Not Provided.</source>
-        <translation type="unfinished"></translation>
+        <translation>XEP-0078: Не е предоставена изискваната информация.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>XEP-0078: Incorrect Credentials.</source>
-        <translation type="unfinished"></translation>
+        <translation>XEP-0078: Неверни детайли за вход.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>System error</source>
         <translation>Системна грешка</translation>
+    </message>
+</context>
+<context>
+    <name>Jabber::JServiceBrowser</name>
+    <message>
+        <location filename="../../qutim/plugins/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+97"/>
+        <source>&lt;br/&gt;&lt;b&gt;Identities:&lt;/b&gt;&lt;br/&gt;</source>
+        <translation>&lt;br/&gt;&lt;b&gt;Самоличности:&lt;/b&gt;&lt;br/&gt;</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>category: </source>
+        <translation>категория:</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>type: </source>
+        <translation>тип:</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>&lt;br/&gt;&lt;b&gt;Features:&lt;/b&gt;&lt;br/&gt;</source>
+        <translation>&lt;br/&gt;&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br/&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>Jabber::JServiceDiscovery</name>
+    <message>
+        <location filename="../../qutim/plugins/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+93"/>
+        <source>The sender has sent XML that is malformed or that cannot be processed.</source>
+        <translation>Изпращачът прати деформиран XML, който не може да бъде обработен.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
+        <translation>Не може да бъде даден достъп, защото вече съществува ресурс или сесия със същото име или адрес.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
+        <translation>Заявената характеристика не се поддържа от ответния сървър затова не може да бъде използвана.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The requesting entity does not possess the required permissions to perform the action.</source>
+        <translation>Заявяващият обект не притежава изискваните права за изпълнение на действието.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The recipient or server can no longer be contacted at this address.</source>
+        <translation>Ответният сървър повече не е достъпен на този адрес. </translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
+        <translation>Сървърът не може да обработи строфата, поради неправилна конфигурация или друга неопределена вътрешна сървърна грешка.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The addressed JID or item requested cannot be found.</source>
+        <translation>Адресираният JID или заявеният елемент не може да бъде открит.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The sending entity has provided or communicated an XMPP address or aspect thereof that does not adhere to the syntax defined in Addressing Scheme.</source>
+        <translation>Изпращащият обект предостави или съобщи XMPP адрес или аспект от него, които не се придържат към синтаксиса определен в Адресиращата схема. </translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server.</source>
+        <translation>Получателят или ответният сървър разбира заявката, но отказва да я изпълни, тъй като тя не отговаря на изискванията на получателят или ответният сървър.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The recipient or server does not allow any entity to perform the action.</source>
+        <translation>Получателят или ответният сървър не позволява никой обект да извърши това действие.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The sender must provide proper credentials before being allowed to perform the action, or has provided impreoper credentials.</source>
+        <translation>Изпращачът трябва да предостави подходящи пълномощия, преди да бъде разрешено извършването на действието, или предоставените пълномощия са неподходящи.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The item requested has not changed since it was last requested.</source>
+        <translation>Заявеният елемент не се е променил след като последно е бил заявен.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
+        <translation>Заявяващият обект няма разрешение да достъпва заявената услуга, защото тя изисква плащане.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The intended recipient is temporarily unavailable.</source>
+        <translation>Избраният получател е временно недостъпен.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
+        <translation>Получателят или ответният сървър пренасочва заявките за тази информация към друг обект, обикновено временно.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
+        <translation>Заявяващият обект няма разрешение да достъпва заявената услуга, защото тя изисква регистрация.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
+        <translation>Отдалеченият сървър или услуга зададени като част от (или) целия JID на избрания получател не съществуват.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>A remote server or service specified as part or all of the JID of the intended recipient could not be contacted within a reasonable amount of time.</source>
+        <translation>Отдалеченият сървър или услуга зададени като част от (или) целия JID на избрания получател не могат да бъдат достъпени в рамките на разумен период от време.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The server or recipient lacks the system resources necessary to service the request.</source>
+        <translation>Получателят или ответният сървър не притежава необходимите системни ресурси, за да обслужи заявката.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The server or recipient does not currently provide the requested service.</source>
+        <translation>Получателят или ответният сървър в момента не предоставя заявената услуга.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
+        <translation>Заявяващият обект няма разрешение да достъпва заявената услуга, защото тя изисква абонамент.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The unknown error condition.</source>
+        <translation>Неизвестна (условие на) грешка.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The recipient or server understood the request but was not expecting it at this time.</source>
+        <translation>Получателят или ответният сървър разбра заявката, но не я очакваше в този момент.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The stanza &apos;from&apos; address specified by a connected client is not valid for the stream.</source>
+        <translation>Строфата &apos;от&apos; адрес, зададена от свързания клиент е невалидна за потока.</translation>
     </message>
 </context>
 <context>
@@ -867,7 +1013,7 @@
         <translation type="obsolete">Модуларизирана поддръжка на XMPP</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/jplugin.cpp" line="-7"/>
+        <location filename="../../qutim/plugins/jabber/src/jplugin.cpp" line="-7"/>
         <location line="+10"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
@@ -1852,8 +1998,9 @@
 <context>
     <name>SearchService</name>
     <message>
+        <location filename="../../qutim/plugins/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="-87"/>
         <source>Search service</source>
-        <translation type="obsolete">Търсене на услуги</translation>
+        <translation>Търсене на услуги</translation>
     </message>
 </context>
 <context>
@@ -1866,58 +2013,70 @@
 <context>
     <name>ServiceBrowser</name>
     <message>
+        <location filename="../../qutim/plugins/jabber/src/protocol/account/servicediscovery/jservicebrowser.ui" line="+14"/>
         <source>jServiceBrowser</source>
-        <translation type="obsolete">Разглеждане на услуги</translation>
+        <translation>Разглеждане на услуги</translation>
     </message>
     <message>
+        <location line="+14"/>
         <source>Server:</source>
-        <translation type="obsolete">Сървър:</translation>
+        <translation>Сървър:</translation>
     </message>
     <message>
+        <location line="+41"/>
         <source>Close</source>
-        <translation type="obsolete">Затваряне</translation>
+        <translation>Затваряне</translation>
     </message>
     <message>
+        <location line="+187"/>
         <source>Name</source>
-        <translation type="obsolete">Име</translation>
+        <translation>Име</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>JID</source>
-        <translation type="obsolete">JID</translation>
+        <translation>JID</translation>
     </message>
     <message>
+        <location line="-174"/>
         <source>Join conference</source>
-        <translation type="obsolete">Присъединяване към конференция</translation>
+        <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>Register</source>
-        <translation type="obsolete">Регистрация</translation>
+        <translation>Регистрация</translation>
     </message>
     <message>
+        <location line="+16"/>
         <source>Search</source>
-        <translation type="obsolete">Търсене</translation>
+        <translation>Търсене</translation>
     </message>
     <message>
+        <location line="+16"/>
         <source>Execute command</source>
-        <translation type="obsolete">Изпълнение на команда</translation>
+        <translation>Изпълнение на команда</translation>
     </message>
     <message>
+        <location line="+16"/>
         <source>Show VCard</source>
-        <translation type="obsolete">Показване на VCard</translation>
+        <translation>Показване на VCard</translation>
     </message>
     <message>
+        <location line="+16"/>
         <source>Add to roster</source>
-        <translation type="obsolete">Добавяне към списъка</translation>
+        <translation>Добавяне към списъка</translation>
     </message>
     <message>
+        <location line="+16"/>
         <source>Add to proxy list</source>
-        <translation type="obsolete">Добавяне към списъка с проксита</translation>
+        <translation>Добавяне към списъка с проксита</translation>
     </message>
 </context>
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+46"/>
+        <location filename="../../qutim/plugins/jabber/src/protocol/jprotocol.cpp" line="+46"/>
         <source>Online</source>
         <translation>На линия</translation>
     </message>
@@ -1950,7 +2109,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/jplugin.cpp" line="-38"/>
+        <location filename="../../qutim/plugins/jabber/src/jplugin.cpp" line="-38"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
@@ -1959,7 +2118,7 @@
 <context>
     <name>Test</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+16"/>
+        <location filename="../../qutim/plugins/jabber/src/protocol/jprotocol.cpp" line="+16"/>
         <source>Test action</source>
         <translation>Тестово действие</translation>
     </message>
@@ -2032,7 +2191,7 @@
 <context>
     <name>XmlConsole</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+14"/>
+        <location filename="../../qutim/plugins/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+14"/>
         <source>Form</source>
         <translation>XML</translation>
     </message>
