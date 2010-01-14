@@ -595,7 +595,7 @@
 <context>
     <name>Jabber::JServiceDiscovery</name>
     <message>
-        <location filename="../../qutim/plugins/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+93"/>
+        <location filename="../../qutim/plugins/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+88"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
         <translation>Изпращачът прати деформиран XML, който не може да бъде обработен.</translation>
     </message>
