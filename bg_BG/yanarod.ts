@@ -2,6 +2,24 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="bg_BG">
 <context>
+    <name>YandexNarodAuthorizator</name>
+    <message>
+        <location filename="../../qutim/plugins/plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="+70"/>
+        <source>Has no login or password</source>
+        <translation>Липсват потребителско име и парола</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Authorization succeed</source>
+        <translation>Успешно удостоверяване</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Authorization failured</source>
+        <translation>Неуспешно удостоверяване</translation>
+    </message>
+</context>
+<context>
     <name>YandexNarodManager</name>
     <message>
         <location filename="../../qutim/plugins/plugins/yandexnarod/src/yandexnarodmanage.cpp" line="+25"/>
@@ -9,9 +27,8 @@
         <translation>Yandex.Narod файлов организатор</translation>
     </message>
     <message>
-        <location line="+127"/>
         <source>Choose file</source>
-        <translation>Избор на файл</translation>
+        <translation type="obsolete">Избор на файл</translation>
     </message>
 </context>
 <context>
@@ -25,14 +42,12 @@
 <context>
     <name>YandexNarodSettings</name>
     <message>
-        <location filename="../../qutim/plugins/plugins/yandexnarod/src/yandexnarodsettings.cpp" line="+77"/>
         <source>Authorization succeed</source>
-        <translation>Успешно удостоверяване</translation>
+        <translation type="obsolete">Успешно удостоверяване</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Authorization failured</source>
-        <translation>Неуспешно удостоверяване</translation>
+        <translation type="obsolete">Неуспешно удостоверяване</translation>
     </message>
 </context>
 <context>
@@ -56,7 +71,7 @@
     <message>
         <location line="+7"/>
         <source>Test Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка на удостоверението</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -121,6 +136,34 @@ p, li { white-space: pre-wrap; }
 &lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Bitstream Vera Sans&apos;; text-decoration: underline; color:#000000;&quot;&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Bitstream Vera Sans&apos;; text-decoration: underline; color:#000000;&quot;&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; color:#000000;&quot;&gt;(c) 2009&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>YandexNarodUploadDialog</name>
+    <message>
+        <location filename="../../qutim/plugins/plugins/yandexnarod/src/uploaddialog.cpp" line="+116"/>
+        <source>Choose file for %1</source>
+        <translation>Избор на файл за %1</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Choose file for uploading</source>
+        <translation>Избор на файл за качване</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Authorizing...</source>
+        <translation>Удостоверяване...</translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>Getting storage...</source>
+        <translation>Получаване на хранилището...</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Uploading...</source>
+        <translation>Качване...</translation>
     </message>
 </context>
 <context>
