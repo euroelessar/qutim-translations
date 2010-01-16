@@ -572,7 +572,7 @@
 <context>
     <name>Jabber::JServiceBrowser</name>
     <message>
-        <location filename="../../qutim/plugins/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+97"/>
+        <location filename="../../qutim/plugins/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+101"/>
         <source>&lt;br/&gt;&lt;b&gt;Identities:&lt;/b&gt;&lt;br/&gt;</source>
         <translation>&lt;br/&gt;&lt;b&gt;Самоличности:&lt;/b&gt;&lt;br/&gt;</translation>
     </message>
@@ -595,7 +595,7 @@
 <context>
     <name>Jabber::JServiceDiscovery</name>
     <message>
-        <location filename="../../qutim/plugins/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+93"/>
+        <location filename="../../qutim/plugins/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+88"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
         <translation>Изпращачът прати деформиран XML, който не може да бъде обработен.</translation>
     </message>
@@ -1998,7 +1998,7 @@
 <context>
     <name>SearchService</name>
     <message>
-        <location filename="../../qutim/plugins/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="-87"/>
+        <location filename="../../qutim/plugins/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="-90"/>
         <source>Search service</source>
         <translation>Търсене на услуги</translation>
     </message>
