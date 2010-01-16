@@ -58,42 +58,42 @@
         <translation type="unfinished">Информация о сертификате</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="22"/>
+        <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="107"/>
         <source>Accept</source>
         <translation type="unfinished">Принять</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="29"/>
+        <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="22"/>
         <source>Cipher:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="36"/>
+        <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="29"/>
         <source>Compression:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="43"/>
+        <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="36"/>
         <source>Server:</source>
         <translation>Сервер:</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="50"/>
+        <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="43"/>
         <source>From:</source>
         <translation>От:</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="57"/>
+        <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="50"/>
         <source>To:</source>
         <translation>До:</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="64"/>
+        <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="114"/>
         <source>Reject</source>
         <translation type="unfinished">Отклонить</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="106"/>
+        <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="123"/>
         <source>Remember choice for this server</source>
         <translation type="unfinished">Запомнить выбор для этого сервера</translation>
     </message>
@@ -454,6 +454,152 @@
     </message>
 </context>
 <context>
+    <name>Jabber::JServiceBrowser</name>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="101"/>
+        <source>&lt;br/&gt;&lt;b&gt;Identities:&lt;/b&gt;&lt;br/&gt;</source>
+        <translation type="unfinished">&lt;br/&gt;&lt;b&gt;Идентификаторы:&lt;/b&gt;&lt;br/&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="109"/>
+        <source>category: </source>
+        <translation type="unfinished">Категория:</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="109"/>
+        <source>type: </source>
+        <translation type="unfinished">тип:</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="113"/>
+        <source>&lt;br/&gt;&lt;b&gt;Features:&lt;/b&gt;&lt;br/&gt;</source>
+        <translation type="unfinished">&lt;br/&gt;&lt;b&gt;Возможности:&lt;/b&gt;&lt;br/&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>Jabber::JServiceDiscovery</name>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="88"/>
+        <source>The sender has sent XML that is malformed or that cannot be processed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="91"/>
+        <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="94"/>
+        <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="97"/>
+        <source>The requesting entity does not possess the required permissions to perform the action.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="100"/>
+        <source>The recipient or server can no longer be contacted at this address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="103"/>
+        <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="106"/>
+        <source>The addressed JID or item requested cannot be found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="109"/>
+        <source>The sending entity has provided or communicated an XMPP address or aspect thereof that does not adhere to the syntax defined in Addressing Scheme.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="112"/>
+        <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="115"/>
+        <source>The recipient or server does not allow any entity to perform the action.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="118"/>
+        <source>The sender must provide proper credentials before being allowed to perform the action, or has provided impreoper credentials.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="121"/>
+        <source>The item requested has not changed since it was last requested.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="124"/>
+        <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="127"/>
+        <source>The intended recipient is temporarily unavailable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="130"/>
+        <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="133"/>
+        <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="136"/>
+        <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="139"/>
+        <source>A remote server or service specified as part or all of the JID of the intended recipient could not be contacted within a reasonable amount of time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="142"/>
+        <source>The server or recipient lacks the system resources necessary to service the request.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="145"/>
+        <source>The server or recipient does not currently provide the requested service.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="148"/>
+        <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="151"/>
+        <source>The unknown error condition.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="154"/>
+        <source>The recipient or server understood the request but was not expecting it at this time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="157"/>
+        <source>The stanza &apos;from&apos; address specified by a connected client is not valid for the stream.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Plugin</name>
     <message>
         <location filename="../../src/jplugin.cpp" line="19"/>
@@ -545,6 +691,77 @@
     <message>
         <location filename="../../src/jplugin.cpp" line="62"/>
         <source>Implementation of client remote controlling</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SearchService</name>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="23"/>
+        <source>Search service</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ServiceBrowser</name>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="14"/>
+        <source>jServiceBrowser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="28"/>
+        <source>Server:</source>
+        <translation type="unfinished">Сервер:</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="69"/>
+        <source>Close</source>
+        <translation type="unfinished">Закрыть</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="87"/>
+        <source>Join conference</source>
+        <translation type="unfinished">Войти в конференцию</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="106"/>
+        <source>Register</source>
+        <translation type="unfinished">Регистрация</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="122"/>
+        <source>Search</source>
+        <translation type="unfinished">Поиск</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="138"/>
+        <source>Execute command</source>
+        <translation type="unfinished">Выполнить команду</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="154"/>
+        <source>Show VCard</source>
+        <translation type="unfinished">Показать vCard (анкету)</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="170"/>
+        <source>Add to roster</source>
+        <translation type="unfinished">Добавить в ростер (список)</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="186"/>
+        <source>Add to proxy list</source>
+        <translation type="unfinished">Добавить в список прокси</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="256"/>
+        <source>Name</source>
+        <translation type="unfinished">Имя</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="261"/>
+        <source>JID</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

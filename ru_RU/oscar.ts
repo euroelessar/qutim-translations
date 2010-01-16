@@ -4,28 +4,16 @@
 <context>
     <name>AddAccountFormClass</name>
     <message>
-        <location filename="../../src/addaccountform.ui" line="14"/>
-        <location filename="../../src/ui/addaccountform.ui" line="14"/>
         <source>AddAccountForm</source>
-        <translation type="unfinished">Новая учетная запись</translation>
+        <translation type="obsolete">Новая учетная запись</translation>
     </message>
     <message>
-        <location filename="../../src/addaccountform.ui" line="25"/>
-        <location filename="../../src/ui/addaccountform.ui" line="25"/>
-        <source>UIN:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/addaccountform.ui" line="35"/>
-        <location filename="../../src/ui/addaccountform.ui" line="35"/>
         <source>Password:</source>
-        <translation>Пароль:</translation>
+        <translation type="obsolete">Пароль:</translation>
     </message>
     <message>
-        <location filename="../../src/addaccountform.ui" line="49"/>
-        <location filename="../../src/ui/addaccountform.ui" line="49"/>
         <source>Save password</source>
-        <translation type="unfinished">Сохранить пароль</translation>
+        <translation type="obsolete">Сохранить пароль</translation>
     </message>
 </context>
 <context>
@@ -39,170 +27,170 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../src/util.cpp" line="32"/>
+        <location filename="../../src/util.cpp" line="31"/>
         <source>Invalid nick or password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Плохой ник или пароль</translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="34"/>
+        <location filename="../../src/util.cpp" line="33"/>
         <source>Service temporarily unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сервис временно не доступен</translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="36"/>
+        <location filename="../../src/util.cpp" line="35"/>
         <source>Incorrect nick or password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Некорректный ник или пароль</translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="38"/>
+        <location filename="../../src/util.cpp" line="37"/>
         <source>Mismatch nick or password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Неверный ник или пароль</translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="40"/>
+        <location filename="../../src/util.cpp" line="39"/>
         <source>Internal client error (bad input to authorizer)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Внутренняя ошибка клиента (введены неверные данные авторизации)</translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="42"/>
+        <location filename="../../src/util.cpp" line="41"/>
         <source>Invalid account</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Плохой аккаунт</translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="44"/>
+        <location filename="../../src/util.cpp" line="43"/>
         <source>Deleted account</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Удаленный аккаунт</translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="46"/>
+        <location filename="../../src/util.cpp" line="45"/>
         <source>Expired account</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="48"/>
+        <location filename="../../src/util.cpp" line="47"/>
         <source>No access to database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Нет доступа к базе</translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="50"/>
+        <location filename="../../src/util.cpp" line="49"/>
         <source>No access to resolver</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="52"/>
+        <location filename="../../src/util.cpp" line="51"/>
         <source>Invalid database fields</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="54"/>
+        <location filename="../../src/util.cpp" line="53"/>
         <source>Bad database status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="56"/>
+        <location filename="../../src/util.cpp" line="55"/>
         <source>Bad resolver status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="58"/>
+        <location filename="../../src/util.cpp" line="57"/>
         <source>Internal error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="60"/>
+        <location filename="../../src/util.cpp" line="59"/>
         <source>Service temporarily offline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сервис временно отключен</translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="62"/>
+        <location filename="../../src/util.cpp" line="61"/>
         <source> Suspended account</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="64"/>
+        <location filename="../../src/util.cpp" line="63"/>
         <source>DB send error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="66"/>
+        <location filename="../../src/util.cpp" line="65"/>
         <source>DB link error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="68"/>
+        <location filename="../../src/util.cpp" line="67"/>
         <source>Reservation map error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="70"/>
+        <location filename="../../src/util.cpp" line="69"/>
         <source>Reservation link error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="72"/>
+        <location filename="../../src/util.cpp" line="71"/>
         <source>The users num connected from this IP has reached the maximum</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Количество пользователей подключенных с этого IP превысило допустимое</translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="74"/>
+        <location filename="../../src/util.cpp" line="73"/>
         <source> The users num connected from this IP has reached the maximum (reservation)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Количество пользователей подключенных с этого IP превысило допустимое (резервировано)</translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="76"/>
+        <location filename="../../src/util.cpp" line="75"/>
         <source>Rate limit exceeded (reservation). Please try to reconnect in a few minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Слишком часто подключаетесь (резерв.). Попробуйте подключиться через несколько минут</translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="78"/>
+        <location filename="../../src/util.cpp" line="77"/>
         <source>User too heavily warned</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="80"/>
+        <location filename="../../src/util.cpp" line="79"/>
         <source>Reservation timeout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="82"/>
+        <location filename="../../src/util.cpp" line="81"/>
         <source>You are using an older version of ICQ. Upgrade required</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сообщение сервера: Версия клиента ICQ слишком старая, требуется обновление</translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="84"/>
+        <location filename="../../src/util.cpp" line="83"/>
         <source>You are using an older version of ICQ. Upgrade recommended</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сообщение сервера: Версия клиента ICQ слишком старая, рекомендуется обновление</translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="86"/>
+        <location filename="../../src/util.cpp" line="85"/>
         <source>Rate limit exceeded. Please try to reconnect in a few minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Слишком часто подключаетесь. Попробуйте подключиться через несколько минут</translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="88"/>
+        <location filename="../../src/util.cpp" line="87"/>
         <source>Can&apos;t register on the ICQ network. Reconnect in a few minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не могу  войти в сеть ICQ. Попробуйте подключиться через несколько минут</translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="90"/>
+        <location filename="../../src/util.cpp" line="89"/>
         <source>Invalid SecurID</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="92"/>
+        <location filename="../../src/util.cpp" line="91"/>
         <source>Account suspended because of your age (age &lt; 13)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ваш аккаунт заблокирован по ричине малого (менее 13 лет) возраста</translation>
     </message>
     <message>
-        <location filename="../../src/util.cpp" line="94"/>
+        <location filename="../../src/util.cpp" line="93"/>
         <source>Connection Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ошибка одключения</translation>
     </message>
 </context>
 <context>
     <name>Icq::OscarConnection</name>
     <message>
-        <location filename="../../src/oscarconnection.cpp" line="203"/>
+        <location filename="../../src/oscarconnection.cpp" line="201"/>
         <source>Another client is loggin with this uin</source>
         <translation type="unfinished">Другой клиент вошел с этим же номером</translation>
     </message>
@@ -210,7 +198,7 @@
 <context>
     <name>Icq::Roster</name>
     <message>
-        <location filename="../../src/roster.cpp" line="397"/>
+        <location filename="../../src/roster.cpp" line="380"/>
         <source>Not In List</source>
         <translation type="unfinished">Не в списке</translation>
     </message>
@@ -524,6 +512,29 @@
     </message>
 </context>
 <context>
+    <name>LoginForm</name>
+    <message>
+        <location filename="../../src/ui/loginform.ui" line="14"/>
+        <source>AddAccountForm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/ui/loginform.ui" line="25"/>
+        <source>UIN:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/ui/loginform.ui" line="35"/>
+        <source>Password:</source>
+        <translation type="unfinished">Пароль:</translation>
+    </message>
+    <message>
+        <location filename="../../src/ui/loginform.ui" line="49"/>
+        <source>Save password</source>
+        <translation type="unfinished">Сохранить пароль</translation>
+    </message>
+</context>
+<context>
     <name>Plugin</name>
     <message>
         <location filename="../../src/oscarplugin.cpp" line="33"/>
@@ -538,7 +549,7 @@
     <message>
         <location filename="../../src/oscarplugin.cpp" line="39"/>
         <source>ICQ</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/oscarplugin.cpp" line="40"/>
@@ -559,127 +570,127 @@
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../src/connection.cpp" line="48"/>
+        <location filename="../../src/connection.cpp" line="47"/>
         <source>Invalid SNAC header</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="50"/>
+        <location filename="../../src/connection.cpp" line="49"/>
         <source>Server rate limit exceeded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="52"/>
+        <location filename="../../src/connection.cpp" line="51"/>
         <source>Client rate limit exceeded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="54"/>
+        <location filename="../../src/connection.cpp" line="53"/>
         <source>Recipient is not logged in</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="56"/>
+        <location filename="../../src/connection.cpp" line="55"/>
         <source>Requested service unavailable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="58"/>
+        <location filename="../../src/connection.cpp" line="57"/>
         <source>Requested service not defined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="60"/>
+        <location filename="../../src/connection.cpp" line="59"/>
         <source>You sent obsolete SNAC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="62"/>
+        <location filename="../../src/connection.cpp" line="61"/>
         <source>Not supported by server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="64"/>
+        <location filename="../../src/connection.cpp" line="63"/>
         <source>Not supported by client</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="66"/>
+        <location filename="../../src/connection.cpp" line="65"/>
         <source>Refused by client</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="68"/>
+        <location filename="../../src/connection.cpp" line="67"/>
         <source>Reply too big</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="70"/>
+        <location filename="../../src/connection.cpp" line="69"/>
         <source>Responses lost</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="72"/>
+        <location filename="../../src/connection.cpp" line="71"/>
         <source>Request denied</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="74"/>
+        <location filename="../../src/connection.cpp" line="73"/>
         <source>Incorrect SNAC format</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="76"/>
+        <location filename="../../src/connection.cpp" line="75"/>
         <source>Insufficient rights</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="78"/>
+        <location filename="../../src/connection.cpp" line="77"/>
         <source>In local permit/deny (recipient blocked)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="80"/>
+        <location filename="../../src/connection.cpp" line="79"/>
         <source>Sender too evil</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="82"/>
+        <location filename="../../src/connection.cpp" line="81"/>
         <source>Receiver too evil</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="84"/>
+        <location filename="../../src/connection.cpp" line="83"/>
         <source>User temporarily unavailable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="86"/>
+        <location filename="../../src/connection.cpp" line="85"/>
         <source>No match</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="88"/>
+        <location filename="../../src/connection.cpp" line="87"/>
         <source>List overflow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="90"/>
+        <location filename="../../src/connection.cpp" line="89"/>
         <source>Request ambiguous</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="92"/>
+        <location filename="../../src/connection.cpp" line="91"/>
         <source>Server queue full</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="94"/>
+        <location filename="../../src/connection.cpp" line="93"/>
         <source>Not while on AOL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="96"/>
+        <location filename="../../src/connection.cpp" line="95"/>
         <source>Unknown error</source>
         <translation type="unfinished"></translation>
     </message>
@@ -689,7 +700,7 @@
     <message>
         <location filename="../../src/oscarplugin.cpp" line="50"/>
         <source>Icq</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -840,7 +851,8 @@
     <message>
         <location filename="../../src/xtraz.cpp" line="144"/>
         <source>I&apos;m high</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>полудурок</translatorcomment>
+        <translation type="unfinished">Я высокий</translation>
     </message>
     <message>
         <location filename="../../src/xtraz.cpp" line="147"/>

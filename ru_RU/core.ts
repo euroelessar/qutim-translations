@@ -233,7 +233,7 @@
     <message>
         <location filename="../../src/corelayers/emoticonssettings/emoticonssettings.cpp" line="11"/>
         <source>Emoticons settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Настройки смайлов</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/emoticonssettings/emoticonssettings.cpp" line="12"/>
@@ -577,12 +577,12 @@
     <message>
         <location filename="../../src/corelayers/xsettingsdialog/xtoolbar.cpp" line="84"/>
         <source>Follow the style</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Следовать стилю</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/xsettingsdialog/xtoolbar.cpp" line="96"/>
         <source>Tool button style</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Стиль кнопок &quot;инструментов&quot;</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/xsettingsdialog/xtoolbar.cpp" line="104"/>
