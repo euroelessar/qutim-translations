@@ -4,12 +4,12 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/jplugin.cpp" line="23"/>
+        <location filename="../../src/jplugin.cpp" line="24"/>
         <source>Denis Daschenko</source>
         <translation>Денис Дащенко</translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="26"/>
+        <location filename="../../src/jplugin.cpp" line="27"/>
         <source>Nikita Belov</source>
         <translation>Никита Белов</translation>
     </message>
@@ -137,6 +137,11 @@
         <location filename="../../src/protocol/modules/adhoc/jadhocmodule.cpp" line="32"/>
         <source>Execute command</source>
         <translation>Выполнить команду</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="20"/>
+        <source>Service discovery</source>
+        <translation type="unfinished">Обзор служб</translation>
     </message>
 </context>
 <context>
@@ -456,22 +461,22 @@
 <context>
     <name>Jabber::JServiceBrowser</name>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="101"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="123"/>
         <source>&lt;br/&gt;&lt;b&gt;Identities:&lt;/b&gt;&lt;br/&gt;</source>
         <translation type="unfinished">&lt;br/&gt;&lt;b&gt;Идентификаторы:&lt;/b&gt;&lt;br/&gt;</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="109"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="131"/>
         <source>category: </source>
         <translation type="unfinished">Категория:</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="109"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="131"/>
         <source>type: </source>
         <translation type="unfinished">тип:</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="113"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="135"/>
         <source>&lt;br/&gt;&lt;b&gt;Features:&lt;/b&gt;&lt;br/&gt;</source>
         <translation type="unfinished">&lt;br/&gt;&lt;b&gt;Возможности:&lt;/b&gt;&lt;br/&gt;</translation>
     </message>
@@ -479,122 +484,122 @@
 <context>
     <name>Jabber::JServiceDiscovery</name>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="88"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="84"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="91"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="87"/>
         <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="94"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="90"/>
         <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="97"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="93"/>
         <source>The requesting entity does not possess the required permissions to perform the action.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="100"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="96"/>
         <source>The recipient or server can no longer be contacted at this address.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="103"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="99"/>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="106"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="102"/>
         <source>The addressed JID or item requested cannot be found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="109"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="105"/>
         <source>The sending entity has provided or communicated an XMPP address or aspect thereof that does not adhere to the syntax defined in Addressing Scheme.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="112"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="108"/>
         <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="115"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="111"/>
         <source>The recipient or server does not allow any entity to perform the action.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="118"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="114"/>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided impreoper credentials.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="121"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="117"/>
         <source>The item requested has not changed since it was last requested.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="124"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="120"/>
         <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="127"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="123"/>
         <source>The intended recipient is temporarily unavailable.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="130"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="126"/>
         <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="133"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="129"/>
         <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="136"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="132"/>
         <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="139"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="135"/>
         <source>A remote server or service specified as part or all of the JID of the intended recipient could not be contacted within a reasonable amount of time.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="142"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="138"/>
         <source>The server or recipient lacks the system resources necessary to service the request.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="145"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="141"/>
         <source>The server or recipient does not currently provide the requested service.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="148"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="144"/>
         <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="151"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="147"/>
         <source>The unknown error condition.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="154"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="150"/>
         <source>The recipient or server understood the request but was not expecting it at this time.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="157"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="153"/>
         <source>The stanza &apos;from&apos; address specified by a connected client is not valid for the stream.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -602,104 +607,114 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../src/jplugin.cpp" line="19"/>
-        <location filename="../../src/jplugin.cpp" line="29"/>
+        <location filename="../../src/jplugin.cpp" line="20"/>
+        <location filename="../../src/jplugin.cpp" line="30"/>
         <source>Jabber</source>
         <translation type="unfinished">Jabber/XMPP</translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="20"/>
-        <location filename="../../src/jplugin.cpp" line="30"/>
+        <location filename="../../src/jplugin.cpp" line="21"/>
+        <location filename="../../src/jplugin.cpp" line="31"/>
         <source>Jabber protocol</source>
         <translation type="unfinished">Протокол Jabber</translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="33"/>
+        <location filename="../../src/jplugin.cpp" line="34"/>
         <source>Jabber account creator</source>
         <translation type="unfinished">Создание аккаунта Jabber</translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="34"/>
+        <location filename="../../src/jplugin.cpp" line="35"/>
         <source>Account creator for Jabber protocol</source>
         <translation type="unfinished">Универсальный, Jabber</translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="37"/>
+        <location filename="../../src/jplugin.cpp" line="38"/>
         <source>LiveJournal account creator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="38"/>
+        <location filename="../../src/jplugin.cpp" line="39"/>
         <source>Account creator for LiveJournal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="41"/>
+        <location filename="../../src/jplugin.cpp" line="42"/>
         <source>Google Talk account creator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="42"/>
+        <location filename="../../src/jplugin.cpp" line="43"/>
         <source>Account creator for Google Talk</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="45"/>
+        <location filename="../../src/jplugin.cpp" line="46"/>
         <source>Yandex.Online account creator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="46"/>
+        <location filename="../../src/jplugin.cpp" line="47"/>
         <source>Account creator for Yandex.Online</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="49"/>
+        <location filename="../../src/jplugin.cpp" line="50"/>
         <source>QIP account creator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="50"/>
+        <location filename="../../src/jplugin.cpp" line="51"/>
         <source>Account creator for QIP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="53"/>
+        <location filename="../../src/jplugin.cpp" line="54"/>
         <source>Jabber XML console</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="54"/>
+        <location filename="../../src/jplugin.cpp" line="55"/>
         <source>XML console for low-level protocol debugging</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="57"/>
+        <location filename="../../src/jplugin.cpp" line="58"/>
         <source>Jabber AdHoc</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="58"/>
+        <location filename="../../src/jplugin.cpp" line="59"/>
         <source>Implementation of Ad-hoc Commands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="61"/>
+        <location filename="../../src/jplugin.cpp" line="62"/>
         <source>Jabber Remote Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="62"/>
+        <location filename="../../src/jplugin.cpp" line="63"/>
         <source>Implementation of client remote controlling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/jplugin.cpp" line="66"/>
+        <source>Jabber Service Browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/jplugin.cpp" line="67"/>
+        <source>Implementation of service browser</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SearchService</name>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="23"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="49"/>
         <source>Search service</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Служба поиска</translation>
     </message>
 </context>
 <context>
@@ -715,54 +730,79 @@
         <translation type="unfinished">Сервер:</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="69"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="56"/>
+        <source>Searching...</source>
+        <translation type="unfinished">Поиск...</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="76"/>
         <source>Close</source>
         <translation type="unfinished">Закрыть</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="87"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="135"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="138"/>
         <source>Join conference</source>
         <translation type="unfinished">Войти в конференцию</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="106"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="143"/>
         <source>Register</source>
         <translation type="unfinished">Регистрация</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="122"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="146"/>
+        <source>Register on the service</source>
+        <translation type="unfinished">Зарегестрироваться в службе</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="151"/>
         <source>Search</source>
         <translation type="unfinished">Поиск</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="138"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="154"/>
+        <source>Search on the service</source>
+        <translation type="unfinished">Поиск в службе</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="159"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="162"/>
         <source>Execute command</source>
         <translation type="unfinished">Выполнить команду</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="154"/>
-        <source>Show VCard</source>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="167"/>
+        <source>Show vCard</source>
         <translation type="unfinished">Показать vCard (анкету)</translation>
     </message>
     <message>
         <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="170"/>
+        <source>Show information about service</source>
+        <translation type="unfinished">Показать информацию о службе</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="178"/>
+        <source>Add service to roster</source>
+        <translation type="unfinished">Добавить сервис в ростер (список)</translation>
+    </message>
+    <message>
+        <source>Show VCard</source>
+        <translation type="obsolete">Показать vCard (анкету)</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="175"/>
         <source>Add to roster</source>
         <translation type="unfinished">Добавить в ростер (список)</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="186"/>
         <source>Add to proxy list</source>
-        <translation type="unfinished">Добавить в список прокси</translation>
+        <translation type="obsolete">Добавить в список прокси</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="256"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="110"/>
         <source>Name</source>
         <translation type="unfinished">Имя</translation>
-    </message>
-    <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="261"/>
-        <source>JID</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -801,8 +841,8 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../src/jplugin.cpp" line="24"/>
-        <location filename="../../src/jplugin.cpp" line="27"/>
+        <location filename="../../src/jplugin.cpp" line="25"/>
+        <location filename="../../src/jplugin.cpp" line="28"/>
         <source>Author</source>
         <translation type="unfinished">Автор</translation>
     </message>
