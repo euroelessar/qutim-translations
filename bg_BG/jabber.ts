@@ -70,7 +70,7 @@
         <translation type="obsolete">Руслан Нигматуллин</translation>
     </message>
     <message>
-        <location filename="../../qutim/plugins/jabber/src/jplugin.cpp" line="+23"/>
+        <location filename="../../qutim/plugins/jabber/src/jplugin.cpp" line="+24"/>
         <source>Denis Daschenko</source>
         <translation>Денис Дасченко</translation>
     </message>
@@ -253,6 +253,11 @@
         <location filename="../../qutim/plugins/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+31"/>
         <source>Xml console</source>
         <translation>XML конзола</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/plugins/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+20"/>
+        <source>Service discovery</source>
+        <translation>Откриване на услуги</translation>
     </message>
 </context>
 <context>
@@ -572,7 +577,7 @@
 <context>
     <name>Jabber::JServiceBrowser</name>
     <message>
-        <location filename="../../qutim/plugins/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+101"/>
+        <location filename="../../qutim/plugins/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+103"/>
         <source>&lt;br/&gt;&lt;b&gt;Identities:&lt;/b&gt;&lt;br/&gt;</source>
         <translation>&lt;br/&gt;&lt;b&gt;Самоличности:&lt;/b&gt;&lt;br/&gt;</translation>
     </message>
@@ -595,7 +600,7 @@
 <context>
     <name>Jabber::JServiceDiscovery</name>
     <message>
-        <location filename="../../qutim/plugins/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+88"/>
+        <location filename="../../qutim/plugins/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+84"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
         <translation>Изпращачът прати деформиран XML, който не може да бъде обработен.</translation>
     </message>
@@ -1103,6 +1108,16 @@
         <location line="+1"/>
         <source>Implementation of client remote controlling</source>
         <translation>Реализация на отдалечено управление на клиента</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Jabber Service Browser</source>
+        <translation>Разглеждане на услуги на Jabber</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Implementation of service browser</source>
+        <translation>Реализация на разглеждане на услуги</translation>
     </message>
     <message>
         <source>Module-based realization of Jabber protocol</source>
@@ -1998,7 +2013,7 @@
 <context>
     <name>SearchService</name>
     <message>
-        <location filename="../../qutim/plugins/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="-90"/>
+        <location filename="../../qutim/plugins/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="-86"/>
         <source>Search service</source>
         <translation>Търсене на услуги</translation>
     </message>
@@ -2023,54 +2038,83 @@
         <translation>Сървър:</translation>
     </message>
     <message>
-        <location line="+41"/>
+        <location line="+28"/>
+        <source>Searching...</source>
+        <translation>Търсене...</translation>
+    </message>
+    <message>
+        <location line="+20"/>
         <source>Close</source>
         <translation>Затваряне</translation>
     </message>
     <message>
-        <location line="+187"/>
+        <location line="+34"/>
         <source>Name</source>
         <translation>Име</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>JID</source>
-        <translation>JID</translation>
+        <translation type="obsolete">JID</translation>
     </message>
     <message>
-        <location line="-174"/>
+        <location line="+25"/>
+        <location line="+3"/>
         <source>Join conference</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location line="+19"/>
+        <location line="+5"/>
         <source>Register</source>
         <translation>Регистрация</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="+3"/>
+        <source>Register on the service</source>
+        <translation>Регистриране за услугата</translation>
+    </message>
+    <message>
+        <location line="+5"/>
         <source>Search</source>
         <translation>Търсене</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="+3"/>
+        <source>Search on the service</source>
+        <translation>Търсене в услугата</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <location line="+3"/>
         <source>Execute command</source>
         <translation>Изпълнение на команда</translation>
     </message>
     <message>
-        <location line="+16"/>
-        <source>Show VCard</source>
+        <location line="+5"/>
+        <source>Show vCard</source>
         <translation>Показване на VCard</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="+3"/>
+        <source>Show information about service</source>
+        <translation>Показване на информация за услугата</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Add service to roster</source>
+        <translation>Добавяне на услугата в списъка</translation>
+    </message>
+    <message>
+        <source>Show VCard</source>
+        <translation type="obsolete">Показване на VCard</translation>
+    </message>
+    <message>
+        <location line="-3"/>
         <source>Add to roster</source>
         <translation>Добавяне към списъка</translation>
     </message>
     <message>
-        <location line="+16"/>
         <source>Add to proxy list</source>
-        <translation>Добавяне към списъка с проксита</translation>
+        <translation type="obsolete">Добавяне към списъка с проксита</translation>
     </message>
 </context>
 <context>
@@ -2109,7 +2153,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../qutim/plugins/jabber/src/jplugin.cpp" line="-38"/>
+        <location filename="../../qutim/plugins/jabber/src/jplugin.cpp" line="-42"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>

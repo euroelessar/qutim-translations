@@ -11,28 +11,20 @@
 <context>
     <name>AddAccountFormClass</name>
     <message>
-        <location filename="../../qutim/plugins/oscar/src/ui/addaccountform.ui" line="+14"/>
-        <location filename="../../qutim/plugins/oscar/src/addaccountform.ui" line="+14"/>
         <source>AddAccountForm</source>
-        <translation>Добавяне на сметка</translation>
+        <translation type="obsolete">Добавяне на сметка</translation>
     </message>
     <message>
-        <location line="+11"/>
-        <location filename="../../qutim/plugins/oscar/src/addaccountform.ui" line="+11"/>
         <source>UIN:</source>
-        <translation>UIN:</translation>
+        <translation type="obsolete">UIN:</translation>
     </message>
     <message>
-        <location line="+10"/>
-        <location filename="../../qutim/plugins/oscar/src/addaccountform.ui" line="+10"/>
         <source>Password:</source>
-        <translation>Парола:</translation>
+        <translation type="obsolete">Парола:</translation>
     </message>
     <message>
-        <location line="+14"/>
-        <location filename="../../qutim/plugins/oscar/src/addaccountform.ui" line="+14"/>
         <source>Save password</source>
-        <translation>Запис на паролата</translation>
+        <translation type="obsolete">Запис на паролата</translation>
     </message>
 </context>
 <context>
@@ -251,7 +243,7 @@
 <context>
     <name>Icq::OscarConnection</name>
     <message>
-        <location filename="../../qutim/plugins/oscar/src/oscarconnection.cpp" line="+203"/>
+        <location filename="../../qutim/plugins/oscar/src/oscarconnection.cpp" line="+201"/>
         <source>Another client is loggin with this uin</source>
         <translation>Друг клиент с този UIN се свързва</translation>
     </message>
@@ -259,7 +251,7 @@
 <context>
     <name>Icq::Roster</name>
     <message>
-        <location filename="../../qutim/plugins/oscar/src/roster.cpp" line="+397"/>
+        <location filename="../../qutim/plugins/oscar/src/roster.cpp" line="+380"/>
         <source>Not In List</source>
         <translation>Извън списъка</translation>
     </message>
@@ -573,6 +565,29 @@
     </message>
 </context>
 <context>
+    <name>LoginForm</name>
+    <message>
+        <location filename="../../qutim/plugins/oscar/src/ui/loginform.ui" line="+14"/>
+        <source>AddAccountForm</source>
+        <translation>Добавяне на сметка</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>UIN:</source>
+        <translation>UIN:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Password:</source>
+        <translation>Парола:</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Save password</source>
+        <translation>Запис на паролата</translation>
+    </message>
+</context>
+<context>
     <name>Plugin</name>
     <message>
         <location filename="../../qutim/plugins/oscar/src/oscarplugin.cpp" line="-3"/>
@@ -608,7 +623,7 @@
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../qutim/plugins/oscar/src/connection.cpp" line="+48"/>
+        <location filename="../../qutim/plugins/oscar/src/connection.cpp" line="+47"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>
