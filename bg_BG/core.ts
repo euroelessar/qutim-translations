@@ -129,7 +129,7 @@
         <translation>Проба на действията</translation>
     </message>
     <message>
-        <location line="+70"/>
+        <location line="+71"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
