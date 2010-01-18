@@ -30,7 +30,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim/plugins/oscar/src/oscarplugin.cpp" line="+36"/>
+        <location filename="../../oscar/src/oscarplugin.cpp" line="+36"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -38,7 +38,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../qutim/plugins/oscar/src/util.cpp" line="+31"/>
+        <location filename="../../oscar/src/util.cpp" line="+31"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -243,7 +243,7 @@
 <context>
     <name>Icq::OscarConnection</name>
     <message>
-        <location filename="../../qutim/plugins/oscar/src/oscarconnection.cpp" line="+201"/>
+        <location filename="../../oscar/src/oscarconnection.cpp" line="+201"/>
         <source>Another client is loggin with this uin</source>
         <translation>Друг клиент с този UIN се свързва</translation>
     </message>
@@ -251,7 +251,7 @@
 <context>
     <name>Icq::Roster</name>
     <message>
-        <location filename="../../qutim/plugins/oscar/src/roster.cpp" line="+380"/>
+        <location filename="../../oscar/src/roster.cpp" line="+380"/>
         <source>Not In List</source>
         <translation>Извън списъка</translation>
     </message>
@@ -259,7 +259,7 @@
 <context>
     <name>IcqMainSettings</name>
     <message>
-        <location filename="../../qutim/plugins/oscar/src/ui/icqmainsettings.ui" line="+14"/>
+        <location filename="../../oscar/src/ui/icqmainsettings.ui" line="+14"/>
         <source>Form</source>
         <translation></translation>
     </message>
@@ -567,7 +567,7 @@
 <context>
     <name>LoginForm</name>
     <message>
-        <location filename="../../qutim/plugins/oscar/src/ui/loginform.ui" line="+14"/>
+        <location filename="../../oscar/src/ui/loginform.ui" line="+14"/>
         <source>AddAccountForm</source>
         <translation>Добавяне на сметка</translation>
     </message>
@@ -590,7 +590,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim/plugins/oscar/src/oscarplugin.cpp" line="-3"/>
+        <location filename="../../oscar/src/oscarplugin.cpp" line="-3"/>
         <source>Oscar</source>
         <translation>Oscar</translation>
     </message>
@@ -623,7 +623,7 @@
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../qutim/plugins/oscar/src/connection.cpp" line="+47"/>
+        <location filename="../../oscar/src/connection.cpp" line="+47"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>
@@ -845,7 +845,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim/plugins/oscar/src/oscarplugin.cpp" line="+6"/>
+        <location filename="../../oscar/src/oscarplugin.cpp" line="+6"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
@@ -861,7 +861,7 @@
 <context>
     <name>XStatus</name>
     <message>
-        <location filename="../../qutim/plugins/oscar/src/xtraz.cpp" line="+63"/>
+        <location filename="../../oscar/src/xtraz.cpp" line="+63"/>
         <source>Angry</source>
         <translation>Бесен</translation>
     </message>
