@@ -139,7 +139,7 @@
         <translation>Выполнить команду</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="20"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="25"/>
         <source>Service discovery</source>
         <translation type="unfinished">Обзор служб</translation>
     </message>
@@ -147,33 +147,34 @@
 <context>
     <name>Jabber::JAdHocWidget</name>
     <message>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="38"/>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="72"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="39"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="100"/>
         <source>Next</source>
         <translation>Следующий</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="63"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="91"/>
         <source>Finish</source>
         <translation>Завершить</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="66"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="94"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="69"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="97"/>
         <source>Previous</source>
         <translation>Назад</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="75"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="103"/>
         <source>Complete</source>
         <translation>Закончить</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="78"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="86"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="106"/>
         <source>Ok</source>
         <translation type="unfinished">Ок</translation>
     </message>
@@ -181,279 +182,279 @@
 <context>
     <name>Jabber::JConnectionListener</name>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="42"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="39"/>
         <source>The entity has sent XML that cannot be processed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="45"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="42"/>
         <source>The entity has sent a namespace prefix that is unsupported, or has sent no namespace prefix on an element that requires such a prefix.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="48"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="45"/>
         <source>The server is closing the active stream for this entity because a new stream has been initiated that conflicts with the existing stream.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="51"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="48"/>
         <source>The entity has not generated any traffic over the stream for some period of time (configurable according to a local service policy).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="54"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="51"/>
         <source>The value of the &apos;to&apos; attribute provided by the initiating entity in the stream header corresponds to a hostname that is no longer hosted by the server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="57"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="54"/>
         <source>The value of the &apos;to&apos; attribute provided by the initiating entity in the stream header does not correspond to a hostname that is hosted by the server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="60"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="57"/>
         <source>A stanza sent between two servers lacks a &apos;to&apos; or &apos;from&apos; attribute (or the attribute has no value).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="63"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="60"/>
         <source>The server has experienced a misconfiguration or an otherwise-undefined internal error that prevents it from servicing the stream.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="66"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="63"/>
         <source>The JID or hostname provided in a &apos;from&apos; address does not match an authorized JID or validated domain negotiated between servers via SASL or dialback, or between a client and a server via authentication and resource binding.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="69"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="66"/>
         <source>The stream ID or dialback ID is invalid or does not match an ID previously provided.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="72"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="69"/>
         <source>The streams namespace name is something other than &apos;http://etherx.jabber.org/streams&apos; or the dialback namespace name is something other than &apos;jabber:server:dialback&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="75"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="72"/>
         <source>The entity has sent invalid XML over the stream to a server that performs validation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="78"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="75"/>
         <source>The entity has attempted to send data before the stream has been authenticated, or otherwise is not authorized to perform an action related to stream negotiation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="81"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="78"/>
         <source>The entity has violated some local service policy.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="84"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="81"/>
         <source>The server is unable to properly connect to a remote entity that is required for authentication or authorization.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="87"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="84"/>
         <source>The server lacks the system resources necessary to service the stream.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="90"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="87"/>
         <source>The entity has attempted to send restricted XML features such as a comment, processing instruction, DTD, entity reference, or unescaped character.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="93"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="90"/>
         <source>The server will not provide service to the initiating entity but is redirecting traffic to another host.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="96"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="93"/>
         <source>The server is being shut down and all active streams are being closed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="99"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="96"/>
         <source>The error condition is not one of those defined by the other conditions in this list.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="102"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="99"/>
         <source>The initiating entity has encoded the stream in an encoding that is not supported by the server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="105"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="102"/>
         <source>The initiating entity has sent a first-level child of the stream that is not supported by the server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="108"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="105"/>
         <source>The value of the &apos;version&apos; attribute provided by the initiating entity in the stream header specifies a version of XMPP that is not supported by the server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="111"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="108"/>
         <source>The initiating entity has sent XML that is not well-formed as defined by [XML].</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="116"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="113"/>
         <source>An undefined/unknown error occured.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="119"/>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="212"/>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="217"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="116"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="209"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="214"/>
         <source>WHAT?! Unknown error?! OH SHI~~</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="124"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="121"/>
         <source>The incoming stream&apos;s version is not supported.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="127"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="124"/>
         <source>The stream has been closed (by the server).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="130"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="127"/>
         <source>The HTTP/SOCKS5 proxy requires authentication.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="133"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="130"/>
         <source>HTTP/SOCKS5 proxy authentication failed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="136"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="133"/>
         <source>The HTTP/SOCKS5 proxy requires an unsupported auth mechanism.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="139"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="136"/>
         <source>An I/O error occured.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="142"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="139"/>
         <source>An XML parse error occurred.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="145"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="142"/>
         <source>The connection was refused by the server (on the socket level).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="148"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="145"/>
         <source>Creation of the socket failed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="151"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="148"/>
         <source>Resolving the server&apos;s hostname failed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="154"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="151"/>
         <source>Out of memory. Uhoh.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="157"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="154"/>
         <source>The auth mechanisms the server offers are not supported or the server offered no auth mechanisms at all.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="160"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="157"/>
         <source>The server&apos;s certificate could not be verified or the TLS handshake did not complete successfully.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="163"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="160"/>
         <source>The server didn&apos;t offer TLS while it was set to be required, or TLS was not compiled in.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="166"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="163"/>
         <source>Negotiating/initializing compression failed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="169"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="166"/>
         <source>TLS was required but is not compiled in.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="176"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="173"/>
         <source>Authentication failed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="179"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="176"/>
         <source>The receiving entity acknowledges an &lt;abort/&gt; element sent by the initiating entity.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="182"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="179"/>
         <source>The data provided by the initiating entity could not be processed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="185"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="182"/>
         <source>The authzid provided by the initiating entity is invalid.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="188"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="185"/>
         <source>The initiating entity did not provide a mechanism or requested a mechanism that is not supported by the receiving entity.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="191"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="188"/>
         <source>The request is malformed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="194"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="191"/>
         <source>The mechanism requested by the initiating entity is weaker than server policy permits for that initiating entity.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="197"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="194"/>
         <source>The authentication failed because the initiating entity did not provide valid credentials (this includes but is not limited to the case of an unknown username).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="200"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="197"/>
         <source>The authentication failed because of a temporary error condition within the receiving entity.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="203"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="200"/>
         <source>XEP-0078: Resource Conflict.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="206"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="203"/>
         <source>XEP-0078: Required Information Not Provided.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="209"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="206"/>
         <source>XEP-0078: Incorrect Credentials.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="221"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="218"/>
         <source>System error</source>
         <translation type="unfinished"></translation>
     </message>
@@ -461,24 +462,37 @@
 <context>
     <name>Jabber::JServiceBrowser</name>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="123"/>
         <source>&lt;br/&gt;&lt;b&gt;Identities:&lt;/b&gt;&lt;br/&gt;</source>
-        <translation type="unfinished">&lt;br/&gt;&lt;b&gt;Идентификаторы:&lt;/b&gt;&lt;br/&gt;</translation>
+        <translation type="obsolete">&lt;br/&gt;&lt;b&gt;Идентификаторы:&lt;/b&gt;&lt;br/&gt;</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="131"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="57"/>
+        <source>Search service</source>
+        <translation type="unfinished">Служба поиска</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="133"/>
         <source>category: </source>
         <translation type="unfinished">Категория:</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="131"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="135"/>
+        <source>Identities:</source>
+        <translation type="unfinished">Идентификаторы:</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="148"/>
+        <source>Features:</source>
+        <translation type="unfinished">Возможности:</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="132"/>
         <source>type: </source>
         <translation type="unfinished">тип:</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="135"/>
         <source>&lt;br/&gt;&lt;b&gt;Features:&lt;/b&gt;&lt;br/&gt;</source>
-        <translation type="unfinished">&lt;br/&gt;&lt;b&gt;Возможности:&lt;/b&gt;&lt;br/&gt;</translation>
+        <translation type="obsolete">&lt;br/&gt;&lt;b&gt;Возможности:&lt;/b&gt;&lt;br/&gt;</translation>
     </message>
 </context>
 <context>
@@ -712,9 +726,8 @@
 <context>
     <name>SearchService</name>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="49"/>
         <source>Search service</source>
-        <translation type="unfinished">Служба поиска</translation>
+        <translation type="obsolete">Служба поиска</translation>
     </message>
 </context>
 <context>
