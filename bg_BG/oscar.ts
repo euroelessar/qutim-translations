@@ -38,7 +38,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../oscar/src/util.cpp" line="+31"/>
+        <location filename="../../oscar/src/connection.cpp" line="+345"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -114,11 +114,30 @@
     </message>
     <message>
         <location line="+2"/>
-        <source> Suspended account</source>
+        <source>Suspended account</source>
         <translation>Преустановена сметка</translation>
     </message>
     <message>
+        <location line="+12"/>
+        <source>The users num connected from this IP has reached the maximum (reservation)</source>
+        <translation>Надвишен максимален брой потребители, свързани от този адрес</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Another client is loggin with this uin</source>
+        <translation>Друг клиент с този UIN се свързва</translation>
+    </message>
+    <message>
         <location line="+2"/>
+        <source>Unknown error</source>
+        <translation>Неизвестна грешка</translation>
+    </message>
+    <message>
+        <source> Suspended account</source>
+        <translation type="obsolete">Преустановена сметка</translation>
+    </message>
+    <message>
+        <location line="-32"/>
         <source>DB send error</source>
         <translation>Грешка при изпращане на базата данни</translation>
     </message>
@@ -143,12 +162,11 @@
         <translation>Надвишен максимален брой потребители, свързани от този адрес</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source> The users num connected from this IP has reached the maximum (reservation)</source>
-        <translation>Надвишен максимален брой потребители, свързани от този адрес (резервация)</translation>
+        <translation type="obsolete">Надвишен максимален брой потребители, свързани от този адрес (резервация)</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+4"/>
         <source>Rate limit exceeded (reservation). Please try to reconnect in a few minutes</source>
         <translation>Надвишен брой опити (резервация). Моля опитайте отново след няколко минути</translation>
     </message>
@@ -193,9 +211,8 @@
         <translation>Сметката е преустановена поради възрастта ви (възраст &lt; 13)</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Connection Error</source>
-        <translation>Грешка при свързване</translation>
+        <translation type="obsolete">Грешка при свързване</translation>
     </message>
 </context>
 <context>
@@ -243,9 +260,8 @@
 <context>
     <name>Icq::OscarConnection</name>
     <message>
-        <location filename="../../oscar/src/oscarconnection.cpp" line="+201"/>
         <source>Another client is loggin with this uin</source>
-        <translation>Друг клиент с този UIN се свързва</translation>
+        <translation type="obsolete">Друг клиент с този UIN се свързва</translation>
     </message>
 </context>
 <context>
@@ -623,7 +639,7 @@
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../oscar/src/connection.cpp" line="+47"/>
+        <location filename="../../oscar/src/connection.cpp" line="-357"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>
