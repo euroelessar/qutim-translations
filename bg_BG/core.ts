@@ -236,6 +236,69 @@
     </message>
 </context>
 <context>
+    <name>BehaviorSettings</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/kineticpopups/settings/notifications.ui" line="+14"/>
+        <source>Form</source>
+        <translation>Поведение</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Notification types</source>
+        <translation>Типове уведомления</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Timeout, msec:</source>
+        <translation>Интервал, msec:</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>5000</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Animation speed:</source>
+        <translation>Скорост на анимацията:</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>No Animation</source>
+        <translation>Без анимация</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Very fast</source>
+        <translation>Много бърза</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Fast</source>
+        <translation>Бърза</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Normal</source>
+        <translation>Нормална</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Slow</source>
+        <translation>Бавна</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Very slow</source>
+        <translation>Много бавна</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Custom</source>
+        <translation type="unfinished">Собствена</translation>
+    </message>
+</context>
+<context>
     <name>ChatAppearance</name>
     <message>
         <source>Vasya Pupkin</source>
@@ -761,20 +824,17 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+72"/>
-        <location line="+4"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+87"/>
         <source>Main menu</source>
         <translation>Основно меню</translation>
     </message>
     <message>
-        <location line="-3"/>
         <source>&amp;Settings...</source>
-        <translation>&amp;Настройки...</translation>
+        <translation type="obsolete">&amp;Настройки...</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>&amp;Quit</source>
-        <translation>&amp;Изход</translation>
+        <translation type="obsolete">&amp;Изход</translation>
     </message>
 </context>
 <context>
@@ -1194,6 +1254,64 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Notifications</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/kineticpopups/settings/popupbehavior.cpp" line="+28"/>
+        <source>User online</source>
+        <translation>Потребител идва на линия</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User offline</source>
+        <translation>Потребител излиза извън линия</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Status changed</source>
+        <translation>Променя статуса си</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User has birthday today!</source>
+        <translation>Потребител има рожден ден днес!</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>qutIM Launched</source>
+        <translation>qutIM е стартиран</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Message recieved</source>
+        <translation>Получено съобщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Message sent</source>
+        <translation>Изпратено съобщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>System notification</source>
+        <translation>Системно уведомление</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Typing</source>
+        <translation>Пише</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Message blocked</source>
+        <translation>Блокирано съобщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Count</source>
+        <translation>Брой</translation>
+    </message>
+</context>
+<context>
     <name>NotificationsLayerSettingsClass</name>
     <message>
         <source>NotificationsLayerSettings</source>
@@ -1335,7 +1453,7 @@ p, li { white-space: pre-wrap; }
         <translation>Допълнителна конфигурация на qutIM за Apple plists</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-49"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-62"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
@@ -3075,6 +3193,19 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Cancel</source>
         <translation type="obsolete">Отказ</translation>
+    </message>
+</context>
+<context>
+    <name>simplecontactlist</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+47"/>
+        <source>&amp;Settings...</source>
+        <translation>&amp;Настройки...</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>&amp;Quit</source>
+        <translation>&amp;Изход</translation>
     </message>
 </context>
 </TS>
