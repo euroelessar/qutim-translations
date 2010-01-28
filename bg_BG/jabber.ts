@@ -70,7 +70,7 @@
         <translation type="obsolete">Руслан Нигматуллин</translation>
     </message>
     <message>
-        <location filename="../../jabber/src/jplugin.cpp" line="+24"/>
+        <location filename="../../protocols/jabber/src/jplugin.cpp" line="+24"/>
         <source>Denis Daschenko</source>
         <translation>Денис Дасченко</translation>
     </message>
@@ -133,7 +133,7 @@
 <context>
     <name>JAccountWizardPage</name>
     <message>
-        <location filename="../../jabber/src/protocol/jaccountwizardpage.ui" line="+14"/>
+        <location filename="../../protocols/jabber/src/protocol/jaccountwizardpage.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Магьосник</translation>
     </message>
@@ -161,7 +161,7 @@
 <context>
     <name>JAdHocWidget</name>
     <message>
-        <location filename="../../jabber/src/protocol/modules/adhoc/jadhocwidget.ui" line="+14"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/adhoc/jadhocwidget.ui" line="+14"/>
         <source>Form</source>
         <translation>Ad-Hoc</translation>
     </message>
@@ -169,7 +169,7 @@
 <context>
     <name>JCertInfo</name>
     <message>
-        <location filename="../../jabber/src/protocol/account/connection/jcertinfo.ui" line="+14"/>
+        <location filename="../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui" line="+14"/>
         <source>Cert Info</source>
         <translation>Информация за сертификата</translation>
     </message>
@@ -217,7 +217,7 @@
 <context>
     <name>JInputPassword</name>
     <message>
-        <location filename="../../jabber/src/protocol/account/jinputpassword.ui" line="+14"/>
+        <location filename="../../protocols/jabber/src/protocol/account/jinputpassword.ui" line="+14"/>
         <source>Dialog</source>
         <translation>Диалог</translation>
     </message>
@@ -245,17 +245,17 @@
 <context>
     <name>Jabber</name>
     <message>
-        <location filename="../../jabber/src/protocol/modules/adhoc/jadhocmodule.cpp" line="+32"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/adhoc/jadhocmodule.cpp" line="+32"/>
         <source>Execute command</source>
         <translation>Изпълнение на команда</translation>
     </message>
     <message>
-        <location filename="../../jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+31"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+31"/>
         <source>Xml console</source>
         <translation>XML конзола</translation>
     </message>
     <message>
-        <location filename="../../jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+25"/>
+        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+25"/>
         <source>Service discovery</source>
         <translation>Откриване на услуги</translation>
     </message>
@@ -263,7 +263,7 @@
 <context>
     <name>Jabber::JAdHocWidget</name>
     <message>
-        <location filename="../../jabber/src/protocol/modules/adhoc/jadhocwidget.cpp" line="+39"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/adhoc/jadhocwidget.cpp" line="+39"/>
         <location line="+61"/>
         <source>Next</source>
         <translation>Следващ</translation>
@@ -298,7 +298,7 @@
 <context>
     <name>Jabber::JConnectionListener</name>
     <message>
-        <location filename="../../jabber/src/protocol/account/connection/jconnectionlistener.cpp" line="+39"/>
+        <location filename="../../protocols/jabber/src/protocol/account/connection/jconnectionlistener.cpp" line="+39"/>
         <source>The entity has sent XML that cannot be processed.</source>
         <translation type="unfinished">Изпращачът прати XML, който не може да бъде обработен.</translation>
     </message>
@@ -582,7 +582,7 @@
         <translation type="obsolete">&lt;br/&gt;&lt;b&gt;Самоличности:&lt;/b&gt;&lt;br/&gt;</translation>
     </message>
     <message>
-        <location filename="../../jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+32"/>
+        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+32"/>
         <source>Search service</source>
         <translation>Търсене на услуги</translation>
     </message>
@@ -614,7 +614,7 @@
 <context>
     <name>Jabber::JServiceDiscovery</name>
     <message>
-        <location filename="../../jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+84"/>
+        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+84"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
         <translation>Изпращачът прати деформиран XML, който не може да бъде обработен.</translation>
     </message>
@@ -1032,7 +1032,7 @@
         <translation type="obsolete">Модуларизирана поддръжка на XMPP</translation>
     </message>
     <message>
-        <location filename="../../jabber/src/jplugin.cpp" line="-7"/>
+        <location filename="../../protocols/jabber/src/jplugin.cpp" line="-7"/>
         <location line="+10"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
@@ -2041,7 +2041,7 @@
 <context>
     <name>ServiceBrowser</name>
     <message>
-        <location filename="../../jabber/src/protocol/account/servicediscovery/jservicebrowser.ui" line="+14"/>
+        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.ui" line="+14"/>
         <source>jServiceBrowser</source>
         <translation>Разглеждане на услуги</translation>
     </message>
@@ -2133,7 +2133,7 @@
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../jabber/src/protocol/jprotocol.cpp" line="+46"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+46"/>
         <source>Online</source>
         <translation>На линия</translation>
     </message>
@@ -2166,7 +2166,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../jabber/src/jplugin.cpp" line="-42"/>
+        <location filename="../../protocols/jabber/src/jplugin.cpp" line="-42"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
@@ -2175,7 +2175,7 @@
 <context>
     <name>Test</name>
     <message>
-        <location filename="../../jabber/src/protocol/jprotocol.cpp" line="+16"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+16"/>
         <source>Test action</source>
         <translation>Тестово действие</translation>
     </message>
@@ -2248,7 +2248,7 @@
 <context>
     <name>XmlConsole</name>
     <message>
-        <location filename="../../jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+14"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+14"/>
         <source>Form</source>
         <translation>XML</translation>
     </message>

@@ -11,26 +11,34 @@
 <context>
     <name>AddAccountFormClass</name>
     <message>
+        <location filename="../../protocols/oscar/src/ui/addaccountform.ui" line="+14"/>
+        <location filename="../../protocols/oscar/src/addaccountform.ui" line="+14"/>
         <source>AddAccountForm</source>
-        <translation type="obsolete">Добавяне на сметка</translation>
+        <translation>Добавяне на сметка</translation>
     </message>
     <message>
+        <location line="+11"/>
+        <location filename="../../protocols/oscar/src/addaccountform.ui" line="+11"/>
         <source>UIN:</source>
-        <translation type="obsolete">UIN:</translation>
+        <translation>UIN:</translation>
     </message>
     <message>
+        <location line="+10"/>
+        <location filename="../../protocols/oscar/src/addaccountform.ui" line="+10"/>
         <source>Password:</source>
-        <translation type="obsolete">Парола:</translation>
+        <translation>Парола:</translation>
     </message>
     <message>
+        <location line="+14"/>
+        <location filename="../../protocols/oscar/src/addaccountform.ui" line="+14"/>
         <source>Save password</source>
-        <translation type="obsolete">Запис на паролата</translation>
+        <translation>Запис на паролата</translation>
     </message>
 </context>
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../oscar/src/oscarplugin.cpp" line="+36"/>
+        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+36"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -38,7 +46,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../oscar/src/connection.cpp" line="+345"/>
+        <location filename="../../protocols/oscar/src/util.cpp" line="+31"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -113,31 +121,28 @@
         <translation>Временно услугата не е на линия</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Suspended account</source>
-        <translation>Преустановена сметка</translation>
-    </message>
-    <message>
-        <location line="+12"/>
-        <source>The users num connected from this IP has reached the maximum (reservation)</source>
-        <translation>Надвишен максимален брой потребители, свързани от този адрес</translation>
-    </message>
-    <message>
-        <location line="+20"/>
-        <source>Another client is loggin with this uin</source>
-        <translation>Друг клиент с този UIN се свързва</translation>
-    </message>
-    <message>
-        <location line="+2"/>
-        <source>Unknown error</source>
-        <translation>Неизвестна грешка</translation>
-    </message>
-    <message>
-        <source> Suspended account</source>
         <translation type="obsolete">Преустановена сметка</translation>
     </message>
     <message>
-        <location line="-32"/>
+        <source>The users num connected from this IP has reached the maximum (reservation)</source>
+        <translation type="obsolete">Надвишен максимален брой потребители, свързани от този адрес</translation>
+    </message>
+    <message>
+        <source>Another client is loggin with this uin</source>
+        <translation type="obsolete">Друг клиент с този UIN се свързва</translation>
+    </message>
+    <message>
+        <source>Unknown error</source>
+        <translation type="obsolete">Неизвестна грешка</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source> Suspended account</source>
+        <translation type="unfinished">Преустановена сметка</translation>
+    </message>
+    <message>
+        <location line="+2"/>
         <source>DB send error</source>
         <translation>Грешка при изпращане на базата данни</translation>
     </message>
@@ -162,11 +167,12 @@
         <translation>Надвишен максимален брой потребители, свързани от този адрес</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source> The users num connected from this IP has reached the maximum (reservation)</source>
-        <translation type="obsolete">Надвишен максимален брой потребители, свързани от този адрес (резервация)</translation>
+        <translation type="unfinished">Надвишен максимален брой потребители, свързани от този адрес (резервация)</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+2"/>
         <source>Rate limit exceeded (reservation). Please try to reconnect in a few minutes</source>
         <translation>Надвишен брой опити (резервация). Моля опитайте отново след няколко минути</translation>
     </message>
@@ -211,8 +217,9 @@
         <translation>Сметката е преустановена поради възрастта ви (възраст &lt; 13)</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Connection Error</source>
-        <translation type="obsolete">Грешка при свързване</translation>
+        <translation type="unfinished">Грешка при свързване</translation>
     </message>
 </context>
 <context>
@@ -260,14 +267,15 @@
 <context>
     <name>Icq::OscarConnection</name>
     <message>
+        <location filename="../../protocols/oscar/src/oscarconnection.cpp" line="+203"/>
         <source>Another client is loggin with this uin</source>
-        <translation type="obsolete">Друг клиент с този UIN се свързва</translation>
+        <translation type="unfinished">Друг клиент с този UIN се свързва</translation>
     </message>
 </context>
 <context>
     <name>Icq::Roster</name>
     <message>
-        <location filename="../../oscar/src/roster.cpp" line="+380"/>
+        <location filename="../../protocols/oscar/src/roster.cpp" line="+397"/>
         <source>Not In List</source>
         <translation>Извън списъка</translation>
     </message>
@@ -275,7 +283,7 @@
 <context>
     <name>IcqMainSettings</name>
     <message>
-        <location filename="../../oscar/src/ui/icqmainsettings.ui" line="+14"/>
+        <location filename="../../protocols/oscar/src/ui/icqmainsettings.ui" line="+14"/>
         <source>Form</source>
         <translation></translation>
     </message>
@@ -583,30 +591,26 @@
 <context>
     <name>LoginForm</name>
     <message>
-        <location filename="../../oscar/src/ui/loginform.ui" line="+14"/>
         <source>AddAccountForm</source>
-        <translation>Добавяне на сметка</translation>
+        <translation type="obsolete">Добавяне на сметка</translation>
     </message>
     <message>
-        <location line="+11"/>
         <source>UIN:</source>
-        <translation>UIN:</translation>
+        <translation type="obsolete">UIN:</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Password:</source>
-        <translation>Парола:</translation>
+        <translation type="obsolete">Парола:</translation>
     </message>
     <message>
-        <location line="+14"/>
         <source>Save password</source>
-        <translation>Запис на паролата</translation>
+        <translation type="obsolete">Запис на паролата</translation>
     </message>
 </context>
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../oscar/src/oscarplugin.cpp" line="-3"/>
+        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-3"/>
         <source>Oscar</source>
         <translation>Oscar</translation>
     </message>
@@ -639,7 +643,7 @@
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../oscar/src/connection.cpp" line="-357"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="+48"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>
@@ -861,7 +865,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../oscar/src/oscarplugin.cpp" line="+6"/>
+        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+6"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
@@ -877,7 +881,7 @@
 <context>
     <name>XStatus</name>
     <message>
-        <location filename="../../oscar/src/xtraz.cpp" line="+63"/>
+        <location filename="../../protocols/oscar/src/xtraz.cpp" line="+63"/>
         <source>Angry</source>
         <translation>Бесен</translation>
     </message>

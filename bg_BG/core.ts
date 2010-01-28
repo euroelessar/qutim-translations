@@ -1413,7 +1413,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/backend.cpp" line="+34"/>
+        <location filename="../../qutim/src/corelayers/kineticpopups/backend.cpp" line="+33"/>
         <source>Kinetic popups</source>
         <translation>Изскачащи прозорци (Kinetic)</translation>
     </message>
@@ -1823,7 +1823,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/settings/popupsettings.cpp" line="+5"/>
+        <location filename="../../qutim/src/corelayers/kineticpopups/settings/popupsettings.cpp" line="+4"/>
         <source>Notifications</source>
         <translation>Уведомления</translation>
     </message>
@@ -1836,7 +1836,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Тема на прозореца със съобщения</translation>
     </message>
     <message>
-        <location line="-1"/>
+        <location filename="../../qutim/src/corelayers/kineticpopups/backend.cpp" line="+6"/>
         <source>Popups</source>
         <translation>Изскачащи прозорци</translation>
     </message>
