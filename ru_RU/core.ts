@@ -43,13 +43,7 @@
 <context>
     <name>AdiumChat::ChatWidget</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="58"/>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="60"/>
-        <source>Testing action</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="130"/>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="124"/>
         <source>Chat with %1</source>
         <translation type="unfinished">Чат с %1</translation>
     </message>
@@ -64,12 +58,12 @@
     <message>
         <location filename="../../src/corelayers/adiumchat/chatwidget.ui" line="56"/>
         <source>about:blank</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.ui" line="97"/>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.ui" line="94"/>
         <source>Send</source>
-        <translation type="unfinished">Отправить</translation>
+        <translation>Отправить</translation>
     </message>
 </context>
 <context>
@@ -83,6 +77,69 @@
         <location filename="../../src/corelayers/kineticpopups/settings/popupappearance.ui" line="42"/>
         <source>test</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>BehaviorSettings</name>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/notifications.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/notifications.ui" line="23"/>
+        <source>Notification types</source>
+        <translation type="unfinished">Уведомления</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/notifications.ui" line="33"/>
+        <source>Timeout, msec:</source>
+        <translation type="unfinished">Время отображения,  мс:</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/notifications.ui" line="46"/>
+        <source>5000</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/notifications.ui" line="53"/>
+        <source>Animation speed:</source>
+        <translation type="unfinished">Скорость анимации:</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/notifications.ui" line="64"/>
+        <source>No Animation</source>
+        <translation type="unfinished">Без анимации</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/notifications.ui" line="69"/>
+        <source>Very fast</source>
+        <translation type="unfinished">Очень быстро</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/notifications.ui" line="74"/>
+        <source>Fast</source>
+        <translation type="unfinished">Быстро</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/notifications.ui" line="79"/>
+        <source>Normal</source>
+        <translation type="unfinished">Нормально</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/notifications.ui" line="84"/>
+        <source>Slow</source>
+        <translation type="unfinished">Медленно</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/notifications.ui" line="89"/>
+        <source>Very slow</source>
+        <translation type="unfinished">Адски медленно</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/notifications.ui" line="94"/>
+        <source>Custom</source>
+        <translation type="unfinished">Иная скорость</translation>
     </message>
 </context>
 <context>
@@ -196,26 +253,23 @@
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="72"/>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="76"/>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="87"/>
         <source>Main menu</source>
         <translation type="unfinished">Главное меню</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="73"/>
         <source>&amp;Settings...</source>
-        <translation>&amp;Настройки...</translation>
+        <translation type="obsolete">&amp;Настройки...</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="74"/>
         <source>&amp;Quit</source>
-        <translation>&amp;Выход</translation>
+        <translation type="obsolete">&amp;Выход</translation>
     </message>
 </context>
 <context>
     <name>KineticPopups::Popup</name>
     <message>
-        <location filename="../../src/corelayers/kineticpopups/popup.cpp" line="84"/>
+        <location filename="../../src/corelayers/kineticpopups/popup.cpp" line="65"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
         <translation type="unfinished">&lt;p&gt; + %1 больше уведомлений &lt;/p&gt;</translation>
     </message>
@@ -226,6 +280,64 @@
         <location filename="../../src/corelayers/localization/localizationsettings.ui" line="14"/>
         <source>Form</source>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>Notifications</name>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/popupbehavior.cpp" line="28"/>
+        <source>User online</source>
+        <translation type="unfinished">Пользователь в сети</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/popupbehavior.cpp" line="29"/>
+        <source>User offline</source>
+        <translation type="unfinished">Пользователь отключен</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/popupbehavior.cpp" line="30"/>
+        <source>Status changed</source>
+        <translation type="unfinished">Статус изменен</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/popupbehavior.cpp" line="31"/>
+        <source>User has birthday today!</source>
+        <translation type="unfinished">Сегодня день рождения!</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/popupbehavior.cpp" line="32"/>
+        <source>qutIM Launched</source>
+        <translation type="unfinished">кутим запущен</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/popupbehavior.cpp" line="33"/>
+        <source>Message recieved</source>
+        <translation type="unfinished">Прнято сообщение</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/popupbehavior.cpp" line="34"/>
+        <source>Message sent</source>
+        <translation type="unfinished">Сообщение отправленно</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/popupbehavior.cpp" line="35"/>
+        <source>System notification</source>
+        <translation type="unfinished">Системное уведомление</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/popupbehavior.cpp" line="36"/>
+        <source>Typing</source>
+        <translation type="unfinished">Печатаю</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/popupbehavior.cpp" line="37"/>
+        <source>Message blocked</source>
+        <translation type="unfinished">Сообщение заблокировано</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/kineticpopups/settings/popupbehavior.cpp" line="38"/>
+        <source>Count</source>
+        <translation type="unfinished">Количество</translation>
     </message>
 </context>
 <context>
@@ -381,12 +493,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/kineticpopups/backend.cpp" line="34"/>
+        <location filename="../../src/corelayers/kineticpopups/backend.cpp" line="33"/>
         <source>Kinetic popups</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/kineticpopups/backend.cpp" line="35"/>
+        <location filename="../../src/corelayers/kineticpopups/backend.cpp" line="34"/>
         <source>Default qutIM popup realization. Powered by Kinetic</source>
         <translation type="unfinished"></translation>
     </message>
@@ -429,12 +541,12 @@
         <translation>Оформление чата</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/kineticpopups/settings/popupsettings.cpp" line="18"/>
+        <location filename="../../src/corelayers/kineticpopups/backend.cpp" line="40"/>
         <source>Popups</source>
         <translation type="unfinished">Всплывающие сообщения</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/kineticpopups/settings/popupsettings.cpp" line="19"/>
+        <location filename="../../src/corelayers/kineticpopups/settings/popupsettings.cpp" line="18"/>
         <source>Notifications</source>
         <translation>Уведомления</translation>
     </message>
@@ -609,6 +721,19 @@
         <location filename="../../src/corelayers/emoticonssettings/emoticonsselector.ui" line="14"/>
         <source>Form</source>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>simplecontactlist</name>
+    <message>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="73"/>
+        <source>&amp;Settings...</source>
+        <translation type="unfinished">&amp;Настройки...</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="78"/>
+        <source>&amp;Quit</source>
+        <translation type="unfinished">&amp;Выход</translation>
     </message>
 </context>
 </TS>
