@@ -300,7 +300,7 @@
     <message>
         <location filename="../../protocols/jabber/src/protocol/account/connection/jconnectionlistener.cpp" line="+39"/>
         <source>The entity has sent XML that cannot be processed.</source>
-        <translation type="unfinished">Изпращачът прати XML, който не може да бъде обработен.</translation>
+        <translation type="unfinished">Единицата изпрати XML, който не може да бъде обработен.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -365,17 +365,17 @@
     <message>
         <location line="+3"/>
         <source>The entity has violated some local service policy.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Единицата наруши някои от местнте полики на услугата.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The server is unable to properly connect to a remote entity that is required for authentication or authorization.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сървърът не е в състояние да установи връзка с отдалечената единица, което се изисква с цел удостоверяване или разрешаване.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The server lacks the system resources necessary to service the stream.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сървърът няма системните ресурси, необходими за обслужване на потока.</translation>
     </message>
     <message>
         <location line="+3"/>
