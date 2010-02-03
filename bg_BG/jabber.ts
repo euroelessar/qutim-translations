@@ -300,52 +300,52 @@
     <message>
         <location filename="../../protocols/jabber/src/protocol/account/connection/jconnectionlistener.cpp" line="+39"/>
         <source>The entity has sent XML that cannot be processed.</source>
-        <translation type="unfinished">Единицата изпрати XML, който не може да бъде обработен.</translation>
+        <translation>Ответната страна изпрати XML, който не може да бъде обработен.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The entity has sent a namespace prefix that is unsupported, or has sent no namespace prefix on an element that requires such a prefix.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ответната страна изпрати префикс на пространство от имена, което не се поддържа или не изпрати такъв за елемент, който го изисква.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The server is closing the active stream for this entity because a new stream has been initiated that conflicts with the existing stream.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сървърът затваря активния поток за тази страна, тъй като е иницииран нов такъв, който е в конфликт със съществуващия.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The entity has not generated any traffic over the stream for some period of time (configurable according to a local service policy).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ответната страна не е генерирала трафик по потока, за известен период от време (конфигурируемо според местната политика на услугата).</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The value of the &apos;to&apos; attribute provided by the initiating entity in the stream header corresponds to a hostname that is no longer hosted by the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Стойността на &quot;до&quot; атрибута, предоставен от иницииращата страна, в заглавната част на потока, отговаря на име на хост, който вече не се подслонява на сървъра.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The value of the &apos;to&apos; attribute provided by the initiating entity in the stream header does not correspond to a hostname that is hosted by the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Стойността на &quot;до&quot; атрибута, предоставен от иницииращата страна, в заглавната част на потока, не отговаря на име на хост, който се подслонява на сървъра.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>A stanza sent between two servers lacks a &apos;to&apos; or &apos;from&apos; attribute (or the attribute has no value).</source>
-        <translation type="unfinished">Строфата &apos;от&apos; адрес, зададена от свързания клиент е невалидна за потока.</translation>
+        <translation>На строфата, изпратена между двата сървъра, й липсва &quot;до&quot; или &quot;от&quot; атрибут (или атрибута няма стойност).</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The server has experienced a misconfiguration or an otherwise-undefined internal error that prevents it from servicing the stream.</source>
-        <translation type="unfinished"></translation>
+        <translation>Лоша конфигурация или друга неопределена, вътрешна грешка в сървъра, която му пречи да обслужи потока.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The JID or hostname provided in a &apos;from&apos; address does not match an authorized JID or validated domain negotiated between servers via SASL or dialback, or between a client and a server via authentication and resource binding.</source>
-        <translation type="unfinished"></translation>
+        <translation>Предоставените в &quot;от&quot; адреса, JID или име на хост не отговарят на упълномощен JID или потвърден домейн, договорени между сървърите чрез SASL или dialback, или между клиент и сървър чрез удостоверяването и свързването на ресурси.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The stream ID or dialback ID is invalid or does not match an ID previously provided.</source>
-        <translation type="unfinished"></translation>
+        <translation>Идентификаторите на потока или dialback са невалидни или не отговарят на предходно предоставен идентификатор.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -355,32 +355,32 @@
     <message>
         <location line="+3"/>
         <source>The entity has sent invalid XML over the stream to a server that performs validation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ответната страна изпрати невалиден XML по потока до сървъра, осъществяващ потвърждението.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The entity has attempted to send data before the stream has been authenticated, or otherwise is not authorized to perform an action related to stream negotiation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ответната страна се опита да изпрати данни преди потокът да бъде удостоверен или по друг начин, няма разрешение да извършва действия, свързани с договаряне на потока.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The entity has violated some local service policy.</source>
-        <translation type="unfinished">Единицата наруши някои от местнте полики на услугата.</translation>
+        <translation>Ответната страна наруши някои от местните политики на услугата.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The server is unable to properly connect to a remote entity that is required for authentication or authorization.</source>
-        <translation type="unfinished">Сървърът не е в състояние да установи връзка с отдалечената единица, което се изисква с цел удостоверяване или разрешаване.</translation>
+        <translation>Сървърът не е в състояние да установи връзка с отдалечената страна, което се изисква с цел удостоверяване или упълномощаване.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The server lacks the system resources necessary to service the stream.</source>
-        <translation type="unfinished">Сървърът няма системните ресурси, необходими за обслужване на потока.</translation>
+        <translation>Сървърът няма системните ресурси, необходими за обслужване на потока.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The entity has attempted to send restricted XML features such as a comment, processing instruction, DTD, entity reference, or unescaped character.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ответната страна се опита изпрати ограничени XML характеристики, като коментар, инструкции за обработка, DTD, връзка към обект или неекраниран символ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -390,7 +390,7 @@
     <message>
         <location line="+3"/>
         <source>The server is being shut down and all active streams are being closed.</source>
-        <translation type="unfinished">Сървърът бе спрян и всички активни потоци бяха затворени.</translation>
+        <translation>Сървърът бе спрян и всички активни потоци бяха затворени.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -432,7 +432,7 @@
     <message>
         <location line="-93"/>
         <source>The incoming stream&apos;s version is not supported.</source>
-        <translation>Версията на входящия поток не се поддържа</translation>
+        <translation>Версията на входящия поток не се поддържа.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -532,7 +532,7 @@
     <message>
         <location line="+3"/>
         <source>The initiating entity did not provide a mechanism or requested a mechanism that is not supported by the receiving entity.</source>
-        <translation type="unfinished">Иницииращата страна не предостави механизъм или заяви механизъм, който не се поддържа от получаваща страна.</translation>
+        <translation>Иницииращата страна не предостави механизъм или заяви механизъм, който не се поддържа от получаваща страна.</translation>
     </message>
     <message>
         <location line="+3"/>
