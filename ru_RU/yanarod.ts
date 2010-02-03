@@ -70,7 +70,7 @@
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/yandexnarodsettings.ui" line="116"/>
@@ -126,29 +126,44 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>YandexNarodUploadDialog</name>
     <message>
-        <location filename="../../src/uploaddialog.cpp" line="116"/>
+        <location filename="../../src/uploaddialog.cpp" line="118"/>
         <source>Choose file for %1</source>
         <translation type="unfinished">Выберите файл для %1</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.cpp" line="116"/>
+        <location filename="../../src/uploaddialog.cpp" line="118"/>
         <source>Choose file for uploading</source>
         <translation type="unfinished">Выберите файл для загрузки</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.cpp" line="128"/>
+        <location filename="../../src/uploaddialog.cpp" line="133"/>
         <source>Authorizing...</source>
         <translation type="unfinished">Авторизация...</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.cpp" line="164"/>
+        <location filename="../../src/uploaddialog.cpp" line="169"/>
         <source>Getting storage...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Загрузка...</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.cpp" line="187"/>
+        <location filename="../../src/uploaddialog.cpp" line="194"/>
         <source>Uploading...</source>
         <translation type="unfinished">Загрузка на сервер...</translation>
+    </message>
+    <message>
+        <location filename="../../src/uploaddialog.cpp" line="288"/>
+        <source>Will finish in: %1m %2s</source>
+        <translation type="unfinished">Будет закончено через %1м %2с</translation>
+    </message>
+    <message>
+        <location filename="../../src/uploaddialog.cpp" line="318"/>
+        <source>Upload complete.</source>
+        <translation type="unfinished">Загрузка на сервер завершена.</translation>
+    </message>
+    <message>
+        <location filename="../../src/uploaddialog.cpp" line="319"/>
+        <source>Finish</source>
+        <translation type="unfinished">Завершить</translation>
     </message>
 </context>
 <context>
@@ -187,37 +202,41 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>uploadDialogClass</name>
     <message>
-        <location filename="../../src/uploaddialog.ui" line="19"/>
+        <location filename="../../src/uploaddialog.ui" line="20"/>
         <source>Uploading...</source>
         <translation type="unfinished">Загрузка на сервер...</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.ui" line="29"/>
+        <location filename="../../src/uploaddialog.ui" line="30"/>
         <source>Upload started.</source>
         <translation type="unfinished">Выполняется загрузка.</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.ui" line="39"/>
+        <location filename="../../src/uploaddialog.ui" line="40"/>
         <source>File: </source>
         <translation type="unfinished">файл:</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.ui" line="49"/>
+        <location filename="../../src/uploaddialog.ui" line="50"/>
         <source>Progress:</source>
         <translation type="unfinished">Прогресс:</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.ui" line="56"/>
-        <source>Elapsed time:</source>
-        <translation type="unfinished">Осталось времени:</translation>
+        <location filename="../../src/uploaddialog.ui" line="57"/>
+        <source>Will finish in:</source>
+        <translation type="unfinished">Будет завершено в:</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.ui" line="63"/>
+        <source>Elapsed time:</source>
+        <translation type="obsolete">Осталось времени:</translation>
+    </message>
+    <message>
+        <location filename="../../src/uploaddialog.ui" line="64"/>
         <source>Speed:</source>
         <translation type="unfinished">Скорость:</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.ui" line="92"/>
+        <location filename="../../src/uploaddialog.ui" line="93"/>
         <source>Cancel</source>
         <translation type="unfinished">Отменить</translation>
     </message>
