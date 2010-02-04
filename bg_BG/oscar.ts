@@ -220,6 +220,14 @@
     </message>
 </context>
 <context>
+    <name>ContactList</name>
+    <message>
+        <location filename="../../protocols/oscar/src/roster.cpp" line="+398"/>
+        <source>Not In List</source>
+        <translation>Извън списъка</translation>
+    </message>
+</context>
+<context>
     <name>ContactSettingsClass</name>
     <message>
         <source>ContactSettings</source>
@@ -255,6 +263,49 @@
     </message>
 </context>
 <context>
+    <name>FeedbagError</name>
+    <message>
+        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+135"/>
+        <source>No error</source>
+        <translation>Без грешка</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Item you want to modify not found in list</source>
+        <translation>Записът, който се опитвате да редактирате не е открит в списъка</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Item you want to add allready exists</source>
+        <translation>Записът, който се опитвате да добавите вече съществува</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Error adding item (invalid id, allready in list, invalid data)</source>
+        <translation>Грешка при добавяне на записа (невалиден идентификатор, вече съществува в списъка, невалидни данни)</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Can&apos;t add item. Limit for this type of items exceeded</source>
+        <translation>Записът не може да бъде добавен. Надхвърлено е ограничението за този тип записи</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Trying to add ICQ contact to an AIM list</source>
+        <translation>Опит за добавяне на ICQ контакт към AIM списък</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Can&apos;t add this contact because it requires authorization</source>
+        <translation>Контактът не може да бъде добавен, тъй като изисква удостоверение</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Unknown error</source>
+        <translation>Неизвестна грешка</translation>
+    </message>
+</context>
+<context>
     <name>FileTransfer</name>
     <message>
         <source>Send file</source>
@@ -271,9 +322,8 @@
 <context>
     <name>Icq::Roster</name>
     <message>
-        <location filename="../../protocols/oscar/src/roster.cpp" line="+380"/>
         <source>Not In List</source>
-        <translation>Извън списъка</translation>
+        <translation type="obsolete">Извън списъка</translation>
     </message>
 </context>
 <context>
