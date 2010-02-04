@@ -11,26 +11,22 @@
 <context>
     <name>AddAccountFormClass</name>
     <message>
-        <location filename="../../protocols/oscar/src/addaccountform.ui" line="+14"/>
         <location filename="../../protocols/oscar/src/ui/addaccountform.ui" line="+14"/>
         <source>AddAccountForm</source>
         <translation>Добавяне на сметка</translation>
     </message>
     <message>
         <location line="+11"/>
-        <location filename="../../protocols/oscar/src/ui/addaccountform.ui" line="+11"/>
         <source>UIN:</source>
         <translation>UIN:</translation>
     </message>
     <message>
         <location line="+10"/>
-        <location filename="../../protocols/oscar/src/ui/addaccountform.ui" line="+10"/>
         <source>Password:</source>
         <translation>Парола:</translation>
     </message>
     <message>
         <location line="+14"/>
-        <location filename="../../protocols/oscar/src/ui/addaccountform.ui" line="+14"/>
         <source>Save password</source>
         <translation>Запис на паролата</translation>
     </message>
@@ -46,7 +42,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../protocols/oscar/src/util.cpp" line="+31"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="+345"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -121,28 +117,31 @@
         <translation>Временно услугата не е на линия</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Suspended account</source>
+        <translation>Преустановена сметка</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>The users num connected from this IP has reached the maximum (reservation)</source>
+        <translation>Надвишен максимален брой потребители, свързани от този адрес (резервация)</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Another client is loggin with this uin</source>
+        <translation>Свързва се друг клиент с този UIN</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Unknown error</source>
+        <translation>Неизвестна грешка</translation>
+    </message>
+    <message>
+        <source> Suspended account</source>
         <translation type="obsolete">Преустановена сметка</translation>
     </message>
     <message>
-        <source>The users num connected from this IP has reached the maximum (reservation)</source>
-        <translation type="obsolete">Надвишен максимален брой потребители, свързани от този адрес (резервация)</translation>
-    </message>
-    <message>
-        <source>Another client is loggin with this uin</source>
-        <translation type="obsolete">Свързва се друг клиент с този UIN</translation>
-    </message>
-    <message>
-        <source>Unknown error</source>
-        <translation type="obsolete">Неизвестна грешка</translation>
-    </message>
-    <message>
-        <location line="+2"/>
-        <source> Suspended account</source>
-        <translation type="unfinished">Преустановена сметка</translation>
-    </message>
-    <message>
-        <location line="+2"/>
+        <location line="-32"/>
         <source>DB send error</source>
         <translation>Грешка при изпращане на базата данни</translation>
     </message>
@@ -167,12 +166,11 @@
         <translation>Надвишен максимален брой потребители, свързани от този адрес</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source> The users num connected from this IP has reached the maximum (reservation)</source>
-        <translation type="unfinished">Надвишен максимален брой потребители, свързани от този адрес (резервация)</translation>
+        <translation type="obsolete">Надвишен максимален брой потребители, свързани от този адрес (резервация)</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+4"/>
         <source>Rate limit exceeded (reservation). Please try to reconnect in a few minutes</source>
         <translation>Надвишен брой опити (резервация). Моля опитайте отново след няколко минути</translation>
     </message>
@@ -217,9 +215,8 @@
         <translation>Сметката е преустановена поради възрастта ви (възраст &lt; 13)</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Connection Error</source>
-        <translation>Грешка при свързване</translation>
+        <translation type="obsolete">Грешка при свързване</translation>
     </message>
 </context>
 <context>
@@ -267,15 +264,14 @@
 <context>
     <name>Icq::OscarConnection</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarconnection.cpp" line="+203"/>
         <source>Another client is loggin with this uin</source>
-        <translation>Свързва се друг клиент с този UIN</translation>
+        <translation type="obsolete">Свързва се друг клиент с този UIN</translation>
     </message>
 </context>
 <context>
     <name>Icq::Roster</name>
     <message>
-        <location filename="../../protocols/oscar/src/roster.cpp" line="+397"/>
+        <location filename="../../protocols/oscar/src/roster.cpp" line="+380"/>
         <source>Not In List</source>
         <translation>Извън списъка</translation>
     </message>
@@ -591,20 +587,24 @@
 <context>
     <name>LoginForm</name>
     <message>
+        <location filename="../../protocols/oscar/src/ui/loginform.ui" line="+14"/>
         <source>AddAccountForm</source>
-        <translation type="obsolete">Добавяне на сметка</translation>
+        <translation>Добавяне на сметка</translation>
     </message>
     <message>
+        <location line="+11"/>
         <source>UIN:</source>
-        <translation type="obsolete">UIN:</translation>
+        <translation>UIN:</translation>
     </message>
     <message>
+        <location line="+10"/>
         <source>Password:</source>
-        <translation type="obsolete">Парола:</translation>
+        <translation>Парола:</translation>
     </message>
     <message>
+        <location line="+14"/>
         <source>Save password</source>
-        <translation type="obsolete">Запис на паролата</translation>
+        <translation>Запис на паролата</translation>
     </message>
 </context>
 <context>
@@ -643,7 +643,7 @@
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="+48"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="-357"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>
@@ -670,7 +670,7 @@
     <message>
         <location line="+2"/>
         <source>Requested service not defined</source>
-        <translation type="unfinished">Заявената услугата не зададена</translation>
+        <translation>Заявената услугата не е зададена</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -888,7 +888,7 @@
     <message>
         <location line="+3"/>
         <source>Taking a bath</source>
-        <translation>В банята съм ...</translation>
+        <translation>В банята съм</translation>
     </message>
     <message>
         <location line="+3"/>
