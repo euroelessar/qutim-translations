@@ -222,9 +222,13 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/oscar/src/roster.cpp" line="+398"/>
         <source>Not In List</source>
-        <translation>Извън списъка</translation>
+        <translation type="obsolete">Извън списъка</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+161"/>
+        <source>General</source>
+        <translation>Общи</translation>
     </message>
 </context>
 <context>
@@ -265,7 +269,7 @@
 <context>
     <name>FeedbagError</name>
     <message>
-        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+135"/>
+        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+113"/>
         <source>No error</source>
         <translation>Без грешка</translation>
     </message>
