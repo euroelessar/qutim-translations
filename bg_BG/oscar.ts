@@ -9,7 +9,7 @@
     </message>
 </context>
 <context>
-    <name>AddAccountFormClass</name>
+    <name>AddAccountForm</name>
     <message>
         <location filename="../../protocols/oscar/src/ui/addaccountform.ui" line="+14"/>
         <source>AddAccountForm</source>
@@ -32,6 +32,25 @@
     </message>
 </context>
 <context>
+    <name>AddAccountFormClass</name>
+    <message>
+        <source>AddAccountForm</source>
+        <translation type="obsolete">Добавяне на сметка</translation>
+    </message>
+    <message>
+        <source>UIN:</source>
+        <translation type="obsolete">UIN:</translation>
+    </message>
+    <message>
+        <source>Password:</source>
+        <translation type="obsolete">Парола:</translation>
+    </message>
+    <message>
+        <source>Save password</source>
+        <translation type="obsolete">Запис на паролата</translation>
+    </message>
+</context>
+<context>
     <name>Author</name>
     <message>
         <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+36"/>
@@ -42,7 +61,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="+345"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="+344"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -641,22 +660,31 @@
 <context>
     <name>LoginForm</name>
     <message>
-        <location filename="../../protocols/oscar/src/ui/loginform.ui" line="+14"/>
         <source>AddAccountForm</source>
-        <translation>Добавяне на сметка</translation>
+        <translation type="obsolete">Добавяне на сметка</translation>
     </message>
     <message>
-        <location line="+11"/>
         <source>UIN:</source>
-        <translation>UIN:</translation>
+        <translation type="obsolete">UIN:</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <source>Password:</source>
+        <translation type="obsolete">Парола:</translation>
+    </message>
+    <message>
+        <source>Save password</source>
+        <translation type="obsolete">Запис на паролата</translation>
+    </message>
+</context>
+<context>
+    <name>PasswordForm</name>
+    <message>
+        <location filename="../../protocols/oscar/src/ui/passwordform.ui" line="+30"/>
         <source>Password:</source>
         <translation>Парола:</translation>
     </message>
     <message>
-        <location line="+14"/>
+        <location line="+7"/>
         <source>Save password</source>
         <translation>Запис на паролата</translation>
     </message>
@@ -697,7 +725,7 @@
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="-357"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="-356"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>
