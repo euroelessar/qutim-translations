@@ -245,7 +245,7 @@
         <translation type="obsolete">Извън списъка</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+161"/>
+        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+180"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
@@ -288,7 +288,7 @@
 <context>
     <name>FeedbagError</name>
     <message>
-        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+113"/>
+        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+119"/>
         <source>No error</source>
         <translation>Без грешка</translation>
     </message>

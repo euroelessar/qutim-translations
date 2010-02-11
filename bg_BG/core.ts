@@ -822,7 +822,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+87"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+88"/>
         <source>Main menu</source>
         <translation>Основно меню</translation>
     </message>
@@ -1451,7 +1451,7 @@ p, li { white-space: pre-wrap; }
         <translation>Допълнителна конфигурация на qutIM за Apple plists</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-62"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-63"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
@@ -3196,7 +3196,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>simplecontactlist</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+47"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+48"/>
         <source>&amp;Settings...</source>
         <translation>&amp;Настройки...</translation>
     </message>

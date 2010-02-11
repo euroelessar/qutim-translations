@@ -35,7 +35,7 @@ if [ "$#" -gt "0" ];
 then
 	LANGUAGES="$@"
 else
-	LANGUAGES=`find . -mindepth 1 -maxdepth 1 -type d -not -name ".svn" -and -not -name "__trans" -and -not -name "__tmp" -and -not -name "debian" -print`
+	LANGUAGES=`find . -mindepth 1 -maxdepth 1 -type d -not -name ".git" -not -name ".svn" -and -not -name "__trans" -and -not -name "__tmp" -and -not -name "debian" -print`
 fi
 
 # Check command
@@ -61,6 +61,7 @@ then
 	for language in $LANGUAGES;
 	do
 		rm -rf $language/binaries/*.qm
+		rm -rf $language/binaries/
 	done
 	cd $STARTDIR && exit
 fi
@@ -130,7 +131,7 @@ do
 	if [ "$COMPILE" -eq "1" ];
 	then
 		[ -d "${language}/binaries" ] || mkdir -p "${language}/binaries"
-		for ts in `ls ${language}/sources/*.ts`; do
+		for ts in `ls ${language}/*.ts`; do
 			qm="${language}/binaries/`basename $ts | sed 's/ts$/qm/'`"
 			$LRELEASE $ts -qm $qm
 		done
