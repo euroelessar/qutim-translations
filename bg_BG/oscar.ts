@@ -11,7 +11,7 @@
 <context>
     <name>AddAccountForm</name>
     <message>
-        <location filename="../../protocols/oscar/src/ui/addaccountform.ui" line="+14"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/ui/addaccountform.ui" line="+14"/>
         <source>AddAccountForm</source>
         <translation>Добавяне на сметка</translation>
     </message>
@@ -53,7 +53,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+36"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="+36"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -61,7 +61,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="+344"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="+344"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -245,7 +245,7 @@
         <translation type="obsolete">Извън списъка</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+180"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/icqcontact.cpp" line="+35"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
@@ -288,7 +288,7 @@
 <context>
     <name>FeedbagError</name>
     <message>
-        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+119"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/feedbag.cpp" line="+116"/>
         <source>No error</source>
         <translation>Без грешка</translation>
     </message>
@@ -352,7 +352,7 @@
 <context>
     <name>IcqMainSettings</name>
     <message>
-        <location filename="../../protocols/oscar/src/ui/icqmainsettings.ui" line="+14"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/ui/icqmainsettings.ui" line="+14"/>
         <source>Form</source>
         <translation></translation>
     </message>
@@ -679,7 +679,7 @@
 <context>
     <name>PasswordForm</name>
     <message>
-        <location filename="../../protocols/oscar/src/ui/passwordform.ui" line="+30"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/ui/passwordform.ui" line="+30"/>
         <source>Password:</source>
         <translation>Парола:</translation>
     </message>
@@ -692,7 +692,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-3"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="-3"/>
         <source>Oscar</source>
         <translation>Oscar</translation>
     </message>
@@ -725,7 +725,7 @@
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="-356"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="-356"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>
@@ -947,15 +947,23 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+6"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="+6"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
 </context>
 <context>
+    <name>Status</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/oscar/src/icqprotocol.cpp" line="+87"/>
+        <source>Busy</source>
+        <translation>Зает</translation>
+    </message>
+</context>
+<context>
     <name>Task</name>
     <message>
-        <location line="-13"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="-13"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -963,7 +971,7 @@
 <context>
     <name>XStatus</name>
     <message>
-        <location filename="../../protocols/oscar/src/xtraz.cpp" line="+63"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/xtraz.cpp" line="+63"/>
         <source>Angry</source>
         <translation>Бесен</translation>
     </message>
