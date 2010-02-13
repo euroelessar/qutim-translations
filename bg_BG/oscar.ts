@@ -955,7 +955,7 @@
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/icqprotocol.cpp" line="+87"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/icqprotocol.cpp" line="+51"/>
         <source>Busy</source>
         <translation>Зает</translation>
     </message>
