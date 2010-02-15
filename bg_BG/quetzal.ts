@@ -4,7 +4,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalplugin.cpp" line="+487"/>
+        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalplugin.cpp" line="+468"/>
         <source>Quetzal</source>
         <translation>Quetzal</translation>
     </message>
@@ -18,7 +18,7 @@
 <context>
     <name>Quetzal</name>
     <message>
-        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalaccount.cpp" line="+69"/>
+        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalaccount.cpp" line="+72"/>
         <source>Join groupchat</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>

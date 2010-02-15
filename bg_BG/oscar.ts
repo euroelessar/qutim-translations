@@ -249,6 +249,36 @@
         <source>General</source>
         <translation>Общи</translation>
     </message>
+    <message>
+        <location filename="../../qutim-meta/protocols/oscar/src/roster.cpp" line="+127"/>
+        <source>Add to visible list</source>
+        <translation>Добавяне в списък &quot;Видими&quot;</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Remove from visible list</source>
+        <translation>Премахване от списък &quot;Видими&quot;</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Add to invisible list</source>
+        <translation>Добавяне в списък &quot;Невидими&quot;</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Remove from invisible list</source>
+        <translation>Премахване от списък &quot;Невидими&quot;</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Add to ignore list</source>
+        <translation>Добавяне в списък &quot;Пренебрегнати&quot;</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Remove from ignore list</source>
+        <translation>Премахване от списък &quot;Пренебрегнати&quot;</translation>
+    </message>
 </context>
 <context>
     <name>ContactSettingsClass</name>
