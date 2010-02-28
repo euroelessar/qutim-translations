@@ -43,7 +43,13 @@
 <context>
     <name>AdiumChat::ChatWidget</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="124"/>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="62"/>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="64"/>
+        <source>Testing action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="132"/>
         <source>Chat with %1</source>
         <translation type="unfinished">Чат с %1</translation>
     </message>
@@ -99,7 +105,7 @@
     <message>
         <location filename="../../src/corelayers/kineticpopups/settings/notifications.ui" line="46"/>
         <source>5000</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/corelayers/kineticpopups/settings/notifications.ui" line="53"/>
@@ -179,7 +185,7 @@
     <message>
         <location filename="../../src/corelayers/adiumchat/settings/chatappearance.cpp" line="150"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/corelayers/adiumchat/settings/chatappearance.cpp" line="184"/>
@@ -227,7 +233,7 @@
         <location filename="../../src/corelayers/kineticpopups/settings/popupappearance.cpp" line="101"/>
         <location filename="../../src/corelayers/kineticpopups/settings/popupappearance.cpp" line="111"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Миниатюра (подсказка)//</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/kineticpopups/settings/popupappearance.cpp" line="101"/>
@@ -253,7 +259,7 @@
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="87"/>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="88"/>
         <source>Main menu</source>
         <translation type="unfinished">Главное меню</translation>
     </message>
@@ -425,7 +431,7 @@
     <message>
         <location filename="../../src/corelayers/localization/localizationmodule.cpp" line="29"/>
         <source>Localization</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Локализация</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/localization/localizationmodule.cpp" line="30"/>
@@ -726,12 +732,12 @@
 <context>
     <name>simplecontactlist</name>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="73"/>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="74"/>
         <source>&amp;Settings...</source>
         <translation type="unfinished">&amp;Настройки...</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="78"/>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="79"/>
         <source>&amp;Quit</source>
         <translation type="unfinished">&amp;Выход</translation>
     </message>

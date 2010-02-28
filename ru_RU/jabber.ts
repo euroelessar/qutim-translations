@@ -65,12 +65,12 @@
     <message>
         <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="22"/>
         <source>Cipher:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Шифр:</translation>
     </message>
     <message>
         <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="29"/>
         <source>Compression:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сжатие:</translation>
     </message>
     <message>
         <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="36"/>
@@ -148,33 +148,33 @@
     <name>Jabber::JAdHocWidget</name>
     <message>
         <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="39"/>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="100"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="102"/>
         <source>Next</source>
         <translation>Следующий</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="91"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="93"/>
         <source>Finish</source>
         <translation>Завершить</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="94"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="96"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="97"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="99"/>
         <source>Previous</source>
         <translation>Назад</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="103"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="105"/>
         <source>Complete</source>
         <translation>Закончить</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="86"/>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="106"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="88"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="108"/>
         <source>Ok</source>
         <translation type="unfinished">Ок</translation>
     </message>
@@ -615,6 +615,11 @@
     <message>
         <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="153"/>
         <source>The stanza &apos;from&apos; address specified by a connected client is not valid for the stream.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="156"/>
+        <source>No stanza error occured. You&apos;re just sleeping.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
