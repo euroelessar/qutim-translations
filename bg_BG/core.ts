@@ -1473,7 +1473,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayerimpl.cpp" line="-15"/>
         <source>Webkit chat layer</source>
-        <translation type="unfinished">WebKit слой за разговор</translation>
+        <translation>WebKit слой за разговор</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1816,6 +1816,20 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Chat with %1</source>
         <translation type="obsolete">Разговор с %1</translation>
+    </message>
+</context>
+<context>
+    <name>QmlContactList::Module</name>
+    <message>
+        <source>Main menu</source>
+        <translation type="obsolete">Основно меню</translation>
+    </message>
+</context>
+<context>
+    <name>QmlPopups::Popup</name>
+    <message>
+        <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
+        <translation type="obsolete">&lt;p&gt; + %1 оставащи уведомления &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
