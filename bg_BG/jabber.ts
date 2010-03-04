@@ -264,7 +264,7 @@
     <name>Jabber::JAdHocWidget</name>
     <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/adhoc/jadhocwidget.cpp" line="+39"/>
-        <location line="+61"/>
+        <location line="+63"/>
         <source>Next</source>
         <translation>Следващ</translation>
     </message>
@@ -734,8 +734,9 @@
         <translation>Строфата &apos;от&apos; адрес, зададена от свързания клиент е невалидна за потока.</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>No stanza error occured. You&apos;re just sleeping.</source>
-        <translation type="obsolete">Няма никаква грешка в строфата. Просто сънувате.</translation>
+        <translation type="unfinished">Няма никаква грешка в строфата. Просто сънувате.</translation>
     </message>
 </context>
 <context>

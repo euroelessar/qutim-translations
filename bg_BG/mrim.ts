@@ -1073,7 +1073,7 @@
 <context>
     <name>Roster</name>
     <message>
-        <location filename="../../qutim-meta/protocols/mrim/src/base/roster.cpp" line="+195"/>
+        <location filename="../../qutim-meta/protocols/mrim/src/base/roster.cpp" line="+197"/>
         <source>Phone contacts</source>
         <translation>Контакти от телефона</translation>
     </message>
