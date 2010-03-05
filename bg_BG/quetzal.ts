@@ -18,7 +18,7 @@
 <context>
     <name>Quetzal</name>
     <message>
-        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalaccount.cpp" line="+72"/>
+        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalaccount.cpp" line="+73"/>
         <source>Join groupchat</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>
@@ -26,7 +26,7 @@
 <context>
     <name>QuetzalAccount</name>
     <message>
-        <location line="+63"/>
+        <location line="+60"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>

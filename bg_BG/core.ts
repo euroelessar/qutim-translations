@@ -123,13 +123,11 @@
         <translation type="obsolete">Основни действия</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatwidget.cpp" line="+62"/>
-        <location line="+2"/>
         <source>Testing action</source>
-        <translation type="unfinished">Проба на действията</translation>
+        <translation type="obsolete">Проба на действията</translation>
     </message>
     <message>
-        <location line="+68"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatwidget.cpp" line="+124"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -238,27 +236,20 @@
 <context>
     <name>AuthDialog</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialog.ui" line="+14"/>
         <source>Dialog</source>
-        <translation>Удостоверяване</translation>
+        <translation type="obsolete">Удостоверяване</translation>
     </message>
     <message>
-        <location line="+22"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="obsolete">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <location line="+14"/>
-        <source>TextLabel</source>
-        <translation></translation>
     </message>
 </context>
 <context>
@@ -848,9 +839,16 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::SimpleContactList::Model</name>
+    <message>
+        <source>Contacts</source>
+        <translation type="obsolete">Контакти</translation>
+    </message>
+</context>
+<context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/contactlist/simplecontactlist.cpp" line="+89"/>
+        <location filename="../../qutim-meta/core/src/corelayers/contactlist/simplecontactlist.cpp" line="+88"/>
         <source>Main menu</source>
         <translation>Основно меню</translation>
     </message>
@@ -1635,24 +1633,20 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM реализация на икони. На базата на Q-XDG библиотеката</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogimpl.cpp" line="+11"/>
         <source>Authorization dialog</source>
-        <translation>Диалог за удостоверяване</translation>
+        <translation type="obsolete">Диалог за удостоверяване</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Simple authorization dialog</source>
-        <translation>Прост диалог за удостоверяване</translation>
+        <translation type="obsolete">Прост диалог за удостоверяване</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/password/simplepassworddialog.cpp" line="+8"/>
         <source>Simple password dialog</source>
-        <translation>Прост диалог за парола</translation>
+        <translation type="obsolete">Прост диалог за парола</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Default qutIM password dialog</source>
-        <translation>Подразбиращ се за qutIM диалог за парола</translation>
+        <translation type="obsolete">Подразбиращ се за qutIM диалог за парола</translation>
     </message>
 </context>
 <context>
@@ -1940,24 +1934,20 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>SimplePasswordWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/password/simplepasswordwidget.ui" line="+14"/>
         <source>Dialog</source>
-        <translation>Удостоверяване</translation>
+        <translation type="obsolete">Удостоверяване</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Enter password for account %1 (%2):</source>
-        <translation>Въвеждане на парола за сметка %1 (%2):</translation>
+        <translation type="obsolete">Въвеждане на парола за сметка %1 (%2):</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Enter password:</source>
-        <translation>Парола:</translation>
+        <translation type="obsolete">Парола:</translation>
     </message>
     <message>
-        <location line="+14"/>
         <source>Remember password</source>
-        <translation>Запомняне на паролата</translation>
+        <translation type="obsolete">Запомняне на паролата</translation>
     </message>
 </context>
 <context>
