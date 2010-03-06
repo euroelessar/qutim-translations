@@ -43,13 +43,13 @@
 <context>
     <name>AdiumChat::ChatWidget</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="62"/>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="64"/>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="63"/>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="65"/>
         <source>Testing action</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="132"/>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="133"/>
         <source>Chat with %1</source>
         <translation type="unfinished">Чат с %1</translation>
     </message>
@@ -86,11 +86,33 @@
     </message>
 </context>
 <context>
+    <name>AuthDialog</name>
+    <message>
+        <location filename="../../src/corelayers/authdialog/authdialog.ui" line="14"/>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/authdialog/authdialog.ui" line="36"/>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/authdialog/authdialog.ui" line="50"/>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BehaviorSettings</name>
     <message>
         <location filename="../../src/corelayers/kineticpopups/settings/notifications.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/corelayers/kineticpopups/settings/notifications.ui" line="23"/>
@@ -257,9 +279,17 @@
     </message>
 </context>
 <context>
+    <name>Core::SimpleContactList::Model</name>
+    <message>
+        <location filename="../../src/corelayers/contactlist/simplecontactlistmodel.cpp" line="337"/>
+        <source>Contacts</source>
+        <translation type="unfinished">Контакты</translation>
+    </message>
+</context>
+<context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="88"/>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="97"/>
         <source>Main menu</source>
         <translation type="unfinished">Главное меню</translation>
     </message>
@@ -275,7 +305,7 @@
 <context>
     <name>KineticPopups::Popup</name>
     <message>
-        <location filename="../../src/corelayers/kineticpopups/popup.cpp" line="65"/>
+        <location filename="../../src/corelayers/kineticpopups/popup.cpp" line="66"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
         <translation type="unfinished">&lt;p&gt; + %1 больше уведомлений &lt;/p&gt;</translation>
     </message>
@@ -409,12 +439,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="25"/>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="26"/>
         <source>Simple ContactList</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="26"/>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="27"/>
         <source>Default qutIM contact list realization. Just simple</source>
         <translation type="unfinished"></translation>
     </message>
@@ -528,6 +558,26 @@
         <source>Default qutIM account creator</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../src/corelayers/password/simplepassworddialog.cpp" line="7"/>
+        <source>Simple password dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/password/simplepassworddialog.cpp" line="8"/>
+        <source>Default qutIM password dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/authdialog/authdialogimpl.cpp" line="11"/>
+        <source>Authorization dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/authdialog/authdialogimpl.cpp" line="12"/>
+        <source>Simple authorization dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Settings</name>
@@ -560,6 +610,29 @@
         <location filename="../../src/corelayers/accountcreator/accountcreator.cpp" line="17"/>
         <source>Accounts</source>
         <translation>Учетные записи</translation>
+    </message>
+</context>
+<context>
+    <name>SimplePasswordWidget</name>
+    <message>
+        <location filename="../../src/corelayers/password/simplepasswordwidget.ui" line="14"/>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/password/simplepasswordwidget.ui" line="20"/>
+        <source>Enter password for account %1 (%2):</source>
+        <translation type="unfinished">ВВедите пароль к аккаунту %1 (%2):</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/password/simplepasswordwidget.ui" line="27"/>
+        <source>Enter password:</source>
+        <translation type="unfinished">Пароль:</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/password/simplepasswordwidget.ui" line="41"/>
+        <source>Remember password</source>
+        <translation type="unfinished">Запомнить</translation>
     </message>
 </context>
 <context>
@@ -732,12 +805,12 @@
 <context>
     <name>simplecontactlist</name>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="74"/>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="83"/>
         <source>&amp;Settings...</source>
         <translation type="unfinished">&amp;Настройки...</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="79"/>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="88"/>
         <source>&amp;Quit</source>
         <translation type="unfinished">&amp;Выход</translation>
     </message>

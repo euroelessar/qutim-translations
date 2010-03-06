@@ -139,7 +139,7 @@
     <message>
         <location filename="../../src/metainfo.cpp" line="514"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Иное</translation>
     </message>
 </context>
 <context>
@@ -183,12 +183,12 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="38"/>
+        <location filename="../../src/oscarplugin.cpp" line="39"/>
         <source>Ruslan Nigmatullin</source>
         <translation type="unfinished">Руслан Нигматуллин</translation>
     </message>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="41"/>
+        <location filename="../../src/oscarplugin.cpp" line="42"/>
         <source>Alexey Prokhin</source>
         <translation type="unfinished">Алексей Прохин</translation>
     </message>
@@ -412,7 +412,7 @@
     <message>
         <location filename="../../src/metainfo.cpp" line="27"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Иное</translation>
     </message>
     <message>
         <location filename="../../src/metainfo.cpp" line="28"/>
@@ -2073,7 +2073,7 @@
     <message>
         <location filename="../../src/metainfo.cpp" line="453"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Иное</translation>
     </message>
     <message>
         <location filename="../../src/metainfo.cpp" line="454"/>
@@ -2763,7 +2763,7 @@
     <message>
         <location filename="../../src/metainfo.cpp" line="541"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Иное</translation>
     </message>
 </context>
 <context>
@@ -2856,7 +2856,7 @@
     <message>
         <location filename="../../src/metainfo.cpp" line="479"/>
         <source>Military</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вояка</translation>
     </message>
     <message>
         <location filename="../../src/metainfo.cpp" line="480"/>
@@ -2912,14 +2912,12 @@
 <context>
     <name>PasswordForm</name>
     <message>
-        <location filename="../../src/ui/passwordform.ui" line="30"/>
         <source>Password:</source>
-        <translation type="unfinished">Пароль:</translation>
+        <translation type="obsolete">Пароль:</translation>
     </message>
     <message>
-        <location filename="../../src/ui/passwordform.ui" line="37"/>
         <source>Save password</source>
-        <translation type="unfinished">Сохранить пароль</translation>
+        <translation type="obsolete">Сохранить пароль</translation>
     </message>
 </context>
 <context>
@@ -2968,34 +2966,40 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="35"/>
+        <location filename="../../src/oscarplugin.cpp" line="36"/>
         <source>Oscar</source>
         <translation type="unfinished">ICQ/Oscar</translation>
     </message>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="36"/>
+        <location filename="../../src/oscarplugin.cpp" line="37"/>
         <source>Module-based realization of Oscar protocol</source>
         <translation type="unfinished">Модуль начальной реализации Oscar протокола</translation>
     </message>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="44"/>
+        <location filename="../../src/oscarplugin.cpp" line="45"/>
         <source>ICQ</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="45"/>
+        <location filename="../../src/oscarplugin.cpp" line="46"/>
         <source>Module-based realization of ICQ protocol</source>
         <translation type="unfinished">Модуль начальной реализации ICQ протокола</translation>
     </message>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="48"/>
+        <location filename="../../src/oscarplugin.cpp" line="49"/>
         <source>ICQ account creator</source>
         <translation type="unfinished">Мастер создания учетной записи ICQ</translation>
     </message>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="49"/>
+        <location filename="../../src/oscarplugin.cpp" line="50"/>
         <source>Account creator for module-based realization of ICQ protocol</source>
         <translation type="unfinished">Мастер создания учетной записи ICQ для начальной реализации ICQ протокола</translation>
+    </message>
+    <message>
+        <location filename="../../src/oscarplugin.cpp" line="53"/>
+        <location filename="../../src/oscarplugin.cpp" line="54"/>
+        <source>Oscar file transfer protocol</source>
+        <translation type="unfinished">Протокол фередачи файлов OSCAR&apos;a</translation>
     </message>
 </context>
 <context>
@@ -3129,7 +3133,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="55"/>
+        <location filename="../../src/oscarplugin.cpp" line="60"/>
         <source>Icq</source>
         <translation></translation>
     </message>
@@ -3188,8 +3192,8 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="39"/>
-        <location filename="../../src/oscarplugin.cpp" line="42"/>
+        <location filename="../../src/oscarplugin.cpp" line="40"/>
+        <location filename="../../src/oscarplugin.cpp" line="43"/>
         <source>Author</source>
         <translation type="unfinished">Автор</translation>
     </message>
