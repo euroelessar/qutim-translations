@@ -11,7 +11,7 @@
 <context>
     <name>AddAccountForm</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/ui/addaccountform.ui" line="+14"/>
+        <location filename="../../protocols/oscar/src/ui/addaccountform.ui" line="+14"/>
         <source>AddAccountForm</source>
         <translation>Добавяне на сметка</translation>
     </message>
@@ -53,133 +53,161 @@
 <context>
     <name>Affiliation</name>
     <message>
+        <location filename="../../protocols/oscar/src/metainfo.cpp" line="+495"/>
         <source>Alumni Org.</source>
-        <translation type="obsolete">Алумни организации</translation>
+        <translation>Алумни организации</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Charity Org.</source>
-        <translation type="obsolete">Благотворителни организации</translation>
+        <translation>Благотворителни организации</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Club/Social Org.</source>
-        <translation type="obsolete">Клубни/Социални организации</translation>
+        <translation>Клубни/Социални организации</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Community Org.</source>
-        <translation type="obsolete">Общностни организации</translation>
+        <translation>Общностни организации</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Cultural Org.</source>
-        <translation type="obsolete">Културни организации</translation>
+        <translation>Културни организации</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Fan Clubs</source>
-        <translation type="obsolete">Фен клубове</translation>
+        <translation>Фен клубове</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Fraternity/Sorority</source>
-        <translation type="obsolete">Братства / Женски клубове</translation>
+        <translation>Братства / Женски клубове</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Hobbyists Org.</source>
-        <translation type="obsolete">Хоби организации</translation>
+        <translation>Хоби организации</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>International Org.</source>
-        <translation type="obsolete">Международни организации</translation>
+        <translation>Международни организации</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Nature and Environment Org.</source>
-        <translation type="obsolete">Организации природа и околна среда</translation>
+        <translation>Организации природа и околна среда</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Professional Org.</source>
-        <translation type="obsolete">Професионални организации</translation>
+        <translation>Професионални организации</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Scientific/Technical Org.</source>
-        <translation type="obsolete">Научни/Технологични организации</translation>
+        <translation>Научни/Технологични организации</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Self Improvement Group</source>
-        <translation type="obsolete">Групи за самоусъвършенстване</translation>
+        <translation>Групи за самоусъвършенстване</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Spiritual/Religious Org.</source>
-        <translation type="obsolete">Духовни/Религиозни организации</translation>
+        <translation>Духовни/Религиозни организации</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Sports Org.</source>
-        <translation type="obsolete">Спортни организации</translation>
+        <translation>Спортни организации</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Support Org.</source>
-        <translation type="obsolete">Организации за поддръжка</translation>
+        <translation>Организации за поддръжка</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Trade and Business Org.</source>
-        <translation type="obsolete">Търговски и бизнес организации</translation>
+        <translation>Търговски и бизнес организации</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Union</source>
-        <translation type="obsolete">Съюз</translation>
+        <translation>Съюз</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Volunteer Org.</source>
-        <translation type="obsolete">Доброволчески организации</translation>
+        <translation>Доброволчески организации</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Other</source>
-        <translation type="obsolete">Други</translation>
+        <translation>Други</translation>
     </message>
 </context>
 <context>
     <name>Age</name>
     <message>
+        <location line="+7"/>
         <source>13-17</source>
-        <translation type="obsolete">13-17</translation>
+        <translation>13-17</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>18-22</source>
-        <translation type="obsolete">18-22</translation>
+        <translation>18-22</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>23-29</source>
-        <translation type="obsolete">23-29</translation>
+        <translation>23-29</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>30-39</source>
-        <translation type="obsolete">30-39</translation>
+        <translation>30-39</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>40-49</source>
-        <translation type="obsolete">40-49</translation>
+        <translation>40-49</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>50-59</source>
-        <translation type="obsolete">50-59</translation>
+        <translation>50-59</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>60-above</source>
-        <translation type="obsolete">60 и нагоре</translation>
+        <translation>60 и нагоре</translation>
     </message>
 </context>
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="+36"/>
+        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+39"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Alexey Prokhin</source>
-        <translation type="obsolete">Алексей Прокин</translation>
+        <translation>Алексей Прокин</translation>
     </message>
 </context>
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="+344"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="+243"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -363,33 +391,38 @@
         <translation type="obsolete">Извън списъка</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/icqcontact.cpp" line="+35"/>
         <source>General</source>
-        <translation>Общи</translation>
+        <translation type="obsolete">Общи</translation>
     </message>
     <message>
+        <location filename="../../protocols/oscar/src/roster.cpp" line="+82"/>
         <source>Add to visible list</source>
-        <translation type="obsolete">Добавяне в списък &quot;Видими&quot;</translation>
+        <translation>Добавяне в списък &quot;Видими&quot;</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Remove from visible list</source>
-        <translation type="obsolete">Премахване от списък &quot;Видими&quot;</translation>
+        <translation>Премахване от списък &quot;Видими&quot;</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Add to invisible list</source>
-        <translation type="obsolete">Добавяне в списък &quot;Невидими&quot;</translation>
+        <translation>Добавяне в списък &quot;Невидими&quot;</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Remove from invisible list</source>
-        <translation type="obsolete">Премахване от списък &quot;Невидими&quot;</translation>
+        <translation>Премахване от списък &quot;Невидими&quot;</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Add to ignore list</source>
-        <translation type="obsolete">Добавяне в списък &quot;Пренебрегнати&quot;</translation>
+        <translation>Добавяне в списък &quot;Пренебрегнати&quot;</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Remove from ignore list</source>
-        <translation type="obsolete">Премахване от списък &quot;Пренебрегнати&quot;</translation>
+        <translation>Премахване от списък &quot;Пренебрегнати&quot;</translation>
     </message>
 </context>
 <context>
@@ -430,978 +463,1220 @@
 <context>
     <name>Country</name>
     <message>
+        <location filename="../../protocols/oscar/src/metainfo.cpp" line="-500"/>
         <source>Other</source>
-        <translation type="obsolete">Друга</translation>
+        <translation>Друга</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Afghanistan</source>
-        <translation type="obsolete">Афганистан</translation>
+        <translation>Афганистан</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Albania</source>
-        <translation type="obsolete">Албания</translation>
+        <translation>Албания</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Algeria</source>
-        <translation type="obsolete">Алжир</translation>
+        <translation>Алжир</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Andorra</source>
-        <translation type="obsolete">Андора</translation>
+        <translation>Андора</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Angola</source>
-        <translation type="obsolete">Ангола</translation>
+        <translation>Ангола</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Anguilla</source>
-        <translation type="obsolete">Ангила</translation>
+        <translation>Ангила</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Antigua and Barbuda</source>
-        <translation type="obsolete">Антигуа и Барбуда</translation>
+        <translation>Антигуа и Барбуда</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Antilles</source>
-        <translation type="obsolete">Антилските о-ви</translation>
+        <translation>Антилските о-ви</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Argentina</source>
-        <translation type="obsolete">Аржентина</translation>
+        <translation>Аржентина</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Armenia</source>
-        <translation type="obsolete">Армения</translation>
+        <translation>Армения</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Aruba</source>
-        <translation type="obsolete">Аруба</translation>
+        <translation>Аруба</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Ascension Island</source>
-        <translation type="obsolete">О-в Възнесение</translation>
+        <translation>О-в Възнесение</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Australia</source>
-        <translation type="obsolete">Австралия</translation>
+        <translation>Австралия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Austria</source>
-        <translation type="obsolete">Австрия</translation>
+        <translation>Австрия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Azerbaijan</source>
-        <translation type="obsolete">Азербайджан</translation>
+        <translation>Азербайджан</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Bahamas</source>
-        <translation type="obsolete">Бахамските о-ви</translation>
+        <translation>Бахамските о-ви</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Bahrain</source>
-        <translation type="obsolete">Бахрейн</translation>
+        <translation>Бахрейн</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Bangladesh</source>
-        <translation type="obsolete">Бангладеш</translation>
+        <translation>Бангладеш</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Barbados</source>
-        <translation type="obsolete">Барбейдос</translation>
+        <translation>Барбейдос</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Barbuda</source>
-        <translation type="obsolete">Барбуда</translation>
+        <translation>Барбуда</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Belarus</source>
-        <translation type="obsolete">Беларус</translation>
+        <translation>Беларус</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Belgium</source>
-        <translation type="obsolete">Белгия</translation>
+        <translation>Белгия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Belize</source>
-        <translation type="obsolete">Белийз</translation>
+        <translation>Белийз</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Benin</source>
-        <translation type="obsolete">Бенин</translation>
+        <translation>Бенин</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Bermuda</source>
-        <translation type="obsolete">Бермуда</translation>
+        <translation>Бермуда</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Bhutan</source>
-        <translation type="obsolete">Бутан</translation>
+        <translation>Бутан</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Bolivia</source>
-        <translation type="obsolete">Боливия</translation>
+        <translation>Боливия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Bosnia and Herzegovina</source>
-        <translation type="obsolete">Босна и Херцеговина</translation>
+        <translation>Босна и Херцеговина</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Botswana</source>
-        <translation type="obsolete">Боцвана</translation>
+        <translation>Боцвана</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Brazil</source>
-        <translation type="obsolete">Бразилия</translation>
+        <translation>Бразилия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>British Virgin Islands</source>
-        <translation type="obsolete">Британски Вирджински о-ви</translation>
+        <translation>Британски Вирджински о-ви</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Brunei</source>
-        <translation type="obsolete">Бруней</translation>
+        <translation>Бруней</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Bulgaria</source>
-        <translation type="obsolete">България</translation>
+        <translation>България</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Burkina Faso</source>
-        <translation type="obsolete">Буркина Фасо</translation>
+        <translation>Буркина Фасо</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Burundi</source>
-        <translation type="obsolete">Бурунди</translation>
+        <translation>Бурунди</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Cambodia</source>
-        <translation type="obsolete">Камбоджа</translation>
+        <translation>Камбоджа</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Cameroon</source>
-        <translation type="obsolete">Камерун</translation>
+        <translation>Камерун</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Canada</source>
-        <translation type="obsolete">Канада</translation>
+        <translation>Канада</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Canary Islands</source>
-        <translation type="obsolete">Канарски о-ви</translation>
+        <translation>Канарски о-ви</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Cape Verde Islands</source>
-        <translation type="obsolete">Кабо Верде о-ви</translation>
+        <translation>Кабо Верде о-ви</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Cayman Islands</source>
-        <translation type="obsolete">Каймански о-ви</translation>
+        <translation>Каймански о-ви</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Central African Republic</source>
-        <translation type="obsolete">Централна Африканска Република</translation>
+        <translation>Централна Африканска Република</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Chad</source>
-        <translation type="obsolete">Чад</translation>
+        <translation>Чад</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Chile, Republic of</source>
-        <translation type="obsolete">Република Чили</translation>
+        <translation>Република Чили</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>China</source>
-        <translation type="obsolete">Китай</translation>
+        <translation>Китай</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Christmas Island</source>
-        <translation type="obsolete">О-в Рождество</translation>
+        <translation>О-в Рождество</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Cocos (Keeling) Islands</source>
-        <translation type="obsolete">Кокосови о-ви</translation>
+        <translation>Кокосови о-ви</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Colombia</source>
-        <translation type="obsolete">Колумбия</translation>
+        <translation>Колумбия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Comoros</source>
-        <translation type="obsolete">Коморски о-ви</translation>
+        <translation>Коморски о-ви</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Congo, (Republic of the)</source>
-        <translation type="obsolete">Република Конго</translation>
+        <translation>Република Конго</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Congo, Democratic Republic of (Zaire)</source>
-        <translation type="obsolete">Демократична република Конго (бивш Заир)</translation>
+        <translation>Демократична република Конго (бивш Заир)</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Cook Islands</source>
-        <translation type="obsolete">О-ви Кук</translation>
+        <translation>О-ви Кук</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Costa Rica</source>
-        <translation type="obsolete">Коста Рика</translation>
+        <translation>Коста Рика</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Cote d&apos;Ivoire (Ivory Coast)</source>
-        <translation type="obsolete">Бряг на Слоновата Кост</translation>
+        <translation>Бряг на Слоновата Кост</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Croatia</source>
-        <translation type="obsolete">Хърватска</translation>
+        <translation>Хърватска</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Cuba</source>
-        <translation type="obsolete">Куба</translation>
+        <translation>Куба</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Cyprus</source>
-        <translation type="obsolete">Кипър</translation>
+        <translation>Кипър</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Czech Republic</source>
-        <translation type="obsolete">Чешката република</translation>
+        <translation>Чешката република</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Denmark</source>
-        <translation type="obsolete">Дания</translation>
+        <translation>Дания</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Diego Garcia</source>
-        <translation type="obsolete">Диего Гарсия</translation>
+        <translation>Диего Гарсия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Djibouti</source>
-        <translation type="obsolete">Джибути</translation>
+        <translation>Джибути</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Dominica</source>
-        <translation type="obsolete">Доминика</translation>
+        <translation>Доминика</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Dominican Republic</source>
-        <translation type="obsolete">Доминиканска Република</translation>
+        <translation>Доминиканска Република</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Ecuador</source>
-        <translation type="obsolete">Еквадор</translation>
+        <translation>Еквадор</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Egypt</source>
-        <translation type="obsolete">Египет</translation>
+        <translation>Египет</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>El Salvador</source>
-        <translation type="obsolete">Ел Салвадор</translation>
+        <translation>Ел Салвадор</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Equatorial Guinea</source>
-        <translation type="obsolete">Екваториална Гвинея</translation>
+        <translation>Екваториална Гвинея</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Eritrea</source>
-        <translation type="obsolete">Еритрея</translation>
+        <translation>Еритрея</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Estonia</source>
-        <translation type="obsolete">Естония</translation>
+        <translation>Естония</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Ethiopia</source>
-        <translation type="obsolete">Етиопия</translation>
+        <translation>Етиопия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Faeroe Islands</source>
-        <translation type="obsolete">Фарьорски о-ви</translation>
+        <translation>Фарьорски о-ви</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Falkland Islands</source>
-        <translation type="obsolete">Фолкленски о-ви</translation>
+        <translation>Фолкленски о-ви</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Fiji</source>
-        <translation type="obsolete">Фиджи</translation>
+        <translation>Фиджи</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Finland</source>
-        <translation type="obsolete">Финландия</translation>
+        <translation>Финландия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>France</source>
-        <translation type="obsolete">Франция</translation>
+        <translation>Франция</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>French Antilles</source>
-        <translation type="obsolete">Френски Антили</translation>
+        <translation>Френски Антили</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>French Guiana</source>
-        <translation type="obsolete">Френска Гана</translation>
+        <translation>Френска Гана</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>French Polynesia</source>
-        <translation type="obsolete">Френска Полинезия</translation>
+        <translation>Френска Полинезия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Gabon</source>
-        <translation type="obsolete">Габон</translation>
+        <translation>Габон</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Gambia</source>
-        <translation type="obsolete">Гамбия</translation>
+        <translation>Гамбия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Georgia</source>
-        <translation type="obsolete">Грузия</translation>
+        <translation>Грузия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Germany</source>
-        <translation type="obsolete">Германия</translation>
+        <translation>Германия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Ghana</source>
-        <translation type="obsolete">Гана</translation>
+        <translation>Гана</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Gibraltar</source>
-        <translation type="obsolete">Гибралтар</translation>
+        <translation>Гибралтар</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Greece</source>
-        <translation type="obsolete">Гърция</translation>
+        <translation>Гърция</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Greenland</source>
-        <translation type="obsolete">Гренландия</translation>
+        <translation>Гренландия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Grenada</source>
-        <translation type="obsolete">Гренада</translation>
+        <translation>Гренада</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Guadeloupe</source>
-        <translation type="obsolete">Гваделупе</translation>
+        <translation>Гваделупе</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Guam, US Territory of</source>
-        <translation type="obsolete">Гуам</translation>
+        <translation>Гуам</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Guatemala</source>
-        <translation type="obsolete">Гватемала</translation>
+        <translation>Гватемала</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Guinea</source>
-        <translation type="obsolete">Гвинея</translation>
+        <translation>Гвинея</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Guinea-Bissau</source>
-        <translation type="obsolete">Гвинея-Бисау</translation>
+        <translation>Гвинея-Бисау</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Guyana</source>
-        <translation type="obsolete">Гвиана</translation>
+        <translation>Гвиана</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Haiti</source>
-        <translation type="obsolete">Хаити</translation>
+        <translation>Хаити</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Honduras</source>
-        <translation type="obsolete">Хондурас</translation>
+        <translation>Хондурас</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Hong Kong</source>
-        <translation type="obsolete">Хонг Конг</translation>
+        <translation>Хонг Конг</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Hungary</source>
-        <translation type="obsolete">Унгария</translation>
+        <translation>Унгария</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Iceland</source>
-        <translation type="obsolete">Исландия</translation>
+        <translation>Исландия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>India</source>
-        <translation type="obsolete">Индия</translation>
+        <translation>Индия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Indonesia</source>
-        <translation type="obsolete">Индонезия</translation>
+        <translation>Индонезия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Iran (Islamic Republic of)</source>
-        <translation type="obsolete">Иран</translation>
+        <translation>Иран</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Iraq</source>
-        <translation type="obsolete">Ирак</translation>
+        <translation>Ирак</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Ireland</source>
-        <translation type="obsolete">Ирландия</translation>
+        <translation>Ирландия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Israel</source>
-        <translation type="obsolete">Израел</translation>
+        <translation>Израел</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Italy</source>
-        <translation type="obsolete">Италия</translation>
+        <translation>Италия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Jamaica</source>
-        <translation type="obsolete">Ямайка</translation>
+        <translation>Ямайка</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Japan</source>
-        <translation type="obsolete">Япония</translation>
+        <translation>Япония</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Jordan</source>
-        <translation type="obsolete">Йордания</translation>
+        <translation>Йордания</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Kazakhstan</source>
-        <translation type="obsolete">Казахстан</translation>
+        <translation>Казахстан</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Kenya</source>
-        <translation type="obsolete">Кения</translation>
+        <translation>Кения</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Kiribati</source>
-        <translation type="obsolete">Кирибати</translation>
+        <translation>Кирибати</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Korea (North Korea), Democratic People&apos;s Republic of</source>
-        <translation type="obsolete">Корейската народнодемократична република (Северна Корея)</translation>
+        <translation>Корейската народнодемократична република (Северна Корея)</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Korea (South Korea), Republic of</source>
-        <translation type="obsolete">Република Корея (Южна Корея)</translation>
+        <translation>Република Корея (Южна Корея)</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Kuwait</source>
-        <translation type="obsolete">Кувейт</translation>
+        <translation>Кувейт</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Kyrgyzstan</source>
-        <translation type="obsolete">Киргизстан</translation>
+        <translation>Киргизстан</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Lao People&apos;s Democratic Republic</source>
-        <translation type="obsolete">Норднодемократична Република Лаос</translation>
+        <translation>Норднодемократична Република Лаос</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Latvia</source>
-        <translation type="obsolete">Латвия</translation>
+        <translation>Латвия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Lebanon</source>
-        <translation type="obsolete">Ливан</translation>
+        <translation>Ливан</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Lesotho</source>
-        <translation type="obsolete">Лесото</translation>
+        <translation>Лесото</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Liberia</source>
-        <translation type="obsolete">Либерия</translation>
+        <translation>Либерия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Libyan Arab Jamahiriya</source>
-        <translation type="obsolete">Либийско-арабска народна джамахирия</translation>
+        <translation>Либийско-арабска народна джамахирия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Liechtenstein</source>
-        <translation type="obsolete">Лихтенщайн</translation>
+        <translation>Лихтенщайн</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Lithuania</source>
-        <translation type="obsolete">Литва</translation>
+        <translation>Литва</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Luxembourg</source>
-        <translation type="obsolete">Люксембург</translation>
+        <translation>Люксембург</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Macau</source>
-        <translation type="obsolete">Макао</translation>
+        <translation>Макао</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Macedonia (F.Y.R.O.M.)</source>
-        <translation type="obsolete">Република Македония</translation>
+        <translation>Република Македония</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Madagascar</source>
-        <translation type="obsolete">О-в Мадагаскар</translation>
+        <translation>О-в Мадагаскар</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Malawi</source>
-        <translation type="obsolete">Малави</translation>
+        <translation>Малави</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Malaysia</source>
-        <translation type="obsolete">Малайзия</translation>
+        <translation>Малайзия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Maldives</source>
-        <translation type="obsolete">Малдиви</translation>
+        <translation>Малдиви</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Mali</source>
-        <translation type="obsolete">Мали</translation>
+        <translation>Мали</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Malta</source>
-        <translation type="obsolete">Малта</translation>
+        <translation>Малта</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Marshall Islands</source>
-        <translation type="obsolete">Маршалски о-ви</translation>
+        <translation>Маршалски о-ви</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Martinique</source>
-        <translation type="obsolete">Мартиника</translation>
+        <translation>Мартиника</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Mauritania</source>
-        <translation type="obsolete">Мавритания</translation>
+        <translation>Мавритания</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Mauritius</source>
-        <translation type="obsolete">Мавриций</translation>
+        <translation>Мавриций</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Mayotte Island</source>
-        <translation type="obsolete">О-в Майот</translation>
+        <translation>О-в Майот</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Mexico</source>
-        <translation type="obsolete">Мексико</translation>
+        <translation>Мексико</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Micronesia, Federated States of</source>
-        <translation type="obsolete">Федерални Щати на Микронезия</translation>
+        <translation>Федерални Щати на Микронезия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Moldova, Republic of</source>
-        <translation type="obsolete">Република Молдова</translation>
+        <translation>Република Молдова</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Monaco</source>
-        <translation type="obsolete">Монако</translation>
+        <translation>Монако</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Mongolia</source>
-        <translation type="obsolete">Монголия</translation>
+        <translation>Монголия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Montserrat</source>
-        <translation type="obsolete">Монсерат</translation>
+        <translation>Монсерат</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Morocco</source>
-        <translation type="obsolete">Мароко</translation>
+        <translation>Мароко</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Mozambique</source>
-        <translation type="obsolete">Мозамбик</translation>
+        <translation>Мозамбик</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Myanmar</source>
-        <translation type="obsolete">Мианмар</translation>
+        <translation>Мианмар</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Namibia</source>
-        <translation type="obsolete">Намибия</translation>
+        <translation>Намибия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Nauru</source>
-        <translation type="obsolete">Науру</translation>
+        <translation>Науру</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Nepal</source>
-        <translation type="obsolete">Непал</translation>
+        <translation>Непал</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Netherlands</source>
-        <translation type="obsolete">Холандия</translation>
+        <translation>Холандия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Netherlands Antilles</source>
-        <translation type="obsolete">Холандски Антили</translation>
+        <translation>Холандски Антили</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Nevis</source>
-        <translation type="obsolete">Невис</translation>
+        <translation>Невис</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>New Caledonia</source>
-        <translation type="obsolete">Нова Каледония</translation>
+        <translation>Нова Каледония</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>New Zealand</source>
-        <translation type="obsolete">Нова Зеландия</translation>
+        <translation>Нова Зеландия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Nicaragua</source>
-        <translation type="obsolete">Никарагуа</translation>
+        <translation>Никарагуа</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Niger</source>
-        <translation type="obsolete">Нигер</translation>
+        <translation>Нигер</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Nigeria</source>
-        <translation type="obsolete">Нигерия</translation>
+        <translation>Нигерия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Niue</source>
-        <translation type="obsolete">Ниуе</translation>
+        <translation>Ниуе</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Norfolk Island</source>
-        <translation type="obsolete">Норфолкски о-ви</translation>
+        <translation>Норфолкски о-ви</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Norway</source>
-        <translation type="obsolete">Норвегия</translation>
+        <translation>Норвегия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Oman</source>
-        <translation type="obsolete">Оман</translation>
+        <translation>Оман</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Pakistan</source>
-        <translation type="obsolete">Пакистан</translation>
+        <translation>Пакистан</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Palau</source>
-        <translation type="obsolete">Палау</translation>
+        <translation>Палау</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Panama</source>
-        <translation type="obsolete">Панама</translation>
+        <translation>Панама</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Papua New Guinea</source>
-        <translation type="obsolete">Папуа и Нова Гвинея</translation>
+        <translation>Папуа и Нова Гвинея</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Paraguay</source>
-        <translation type="obsolete">Парагвай</translation>
+        <translation>Парагвай</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Peru</source>
-        <translation type="obsolete">Перу</translation>
+        <translation>Перу</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Philippines</source>
-        <translation type="obsolete">Филипини</translation>
+        <translation>Филипини</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Poland</source>
-        <translation type="obsolete">Полша</translation>
+        <translation>Полша</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Portugal</source>
-        <translation type="obsolete">Португалия</translation>
+        <translation>Португалия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Puerto Rico, Common Wealth of</source>
-        <translation type="obsolete">Пуерто Рико</translation>
+        <translation>Пуерто Рико</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Qatar</source>
-        <translation type="obsolete">Катар</translation>
+        <translation>Катар</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Reunion Island</source>
-        <translation type="obsolete">О-в Съединение</translation>
+        <translation>О-в Съединение</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Romania</source>
-        <translation type="obsolete">Румъния</translation>
+        <translation>Румъния</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Rota Island</source>
-        <translation type="obsolete">О-в Рота</translation>
+        <translation>О-в Рота</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Russia</source>
-        <translation type="obsolete">Русия</translation>
+        <translation>Русия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Rwanda</source>
-        <translation type="obsolete">Руанда</translation>
+        <translation>Руанда</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Saint Helena</source>
-        <translation type="obsolete">Св. Елена</translation>
+        <translation>Св. Елена</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Saint Kitts</source>
-        <translation type="obsolete">Св. Китс</translation>
+        <translation>Св. Китс</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Saint Kitts and Nevis</source>
-        <translation type="obsolete">Св. Китс и Невис</translation>
+        <translation>Св. Китс и Невис</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Saint Lucia</source>
-        <translation type="obsolete">Санта Лучия</translation>
+        <translation>Санта Лучия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Saint Pierre and Miquelon</source>
-        <translation type="obsolete">Сен Пиер и Микелон</translation>
+        <translation>Сен Пиер и Микелон</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Saint Vincent and the Grenadines</source>
-        <translation type="obsolete">Сейнт Винсент и Гренадини</translation>
+        <translation>Сейнт Винсент и Гренадини</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Saipan Island</source>
-        <translation type="obsolete">О-в Сайпан</translation>
+        <translation>О-в Сайпан</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Samoa</source>
-        <translation type="obsolete">Самоа</translation>
+        <translation>Самоа</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>San Marino</source>
-        <translation type="obsolete">Сан Марино</translation>
+        <translation>Сан Марино</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Sao Tome &amp; Principe</source>
-        <translation type="obsolete">Демократична република Сао Томе и Принсипи</translation>
+        <translation>Демократична република Сао Томе и Принсипи</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Saudi Arabia</source>
-        <translation type="obsolete">Саудитска Арабия</translation>
+        <translation>Саудитска Арабия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Scotland</source>
-        <translation type="obsolete">Шотландия</translation>
+        <translation>Шотландия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Senegal</source>
-        <translation type="obsolete">Сенегал</translation>
+        <translation>Сенегал</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Seychelles</source>
-        <translation type="obsolete">Сейшелски о-ви</translation>
+        <translation>Сейшелски о-ви</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Sierra Leone</source>
-        <translation type="obsolete">Сиера Леоне</translation>
+        <translation>Сиера Леоне</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Singapore</source>
-        <translation type="obsolete">Сингапур</translation>
+        <translation>Сингапур</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Slovakia</source>
-        <translation type="obsolete">Словакия</translation>
+        <translation>Словакия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Slovenia</source>
-        <translation type="obsolete">Словения</translation>
+        <translation>Словения</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Solomon Islands</source>
-        <translation type="obsolete">Соломонови о-ви</translation>
+        <translation>Соломонови о-ви</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Somalia</source>
-        <translation type="obsolete">Сомалия</translation>
+        <translation>Сомалия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>South Africa</source>
-        <translation type="obsolete">ЮАР</translation>
+        <translation>ЮАР</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Spain</source>
-        <translation type="obsolete">Испания</translation>
+        <translation>Испания</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Sri Lanka</source>
-        <translation type="obsolete">Шри Ланка</translation>
+        <translation>Шри Ланка</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Sudan</source>
-        <translation type="obsolete">Судан</translation>
+        <translation>Судан</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Suriname</source>
-        <translation type="obsolete">Суринам</translation>
+        <translation>Суринам</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Swaziland</source>
-        <translation type="obsolete">Свазиленд</translation>
+        <translation>Свазиленд</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Sweden</source>
-        <translation type="obsolete">Швеция</translation>
+        <translation>Швеция</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Switzerland</source>
-        <translation type="obsolete">Швейцария</translation>
+        <translation>Швейцария</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Syrian Arab Republic</source>
-        <translation type="obsolete">Сирийската арабска република</translation>
+        <translation>Сирийската арабска република</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Taiwan</source>
-        <translation type="obsolete">Тайван</translation>
+        <translation>Тайван</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Tajikistan</source>
-        <translation type="obsolete">Таджикистан</translation>
+        <translation>Таджикистан</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Tanzania, United Republic of</source>
-        <translation type="obsolete">Обединена република Танзания</translation>
+        <translation>Обединена република Танзания</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Thailand</source>
-        <translation type="obsolete">Тайланд</translation>
+        <translation>Тайланд</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Tinian Island</source>
-        <translation type="obsolete">О-в Тиниан</translation>
+        <translation>О-в Тиниан</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Togo</source>
-        <translation type="obsolete">Того</translation>
+        <translation>Того</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Tokelau</source>
-        <translation type="obsolete">Токелау</translation>
+        <translation>Токелау</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Tonga</source>
-        <translation type="obsolete">Тонга</translation>
+        <translation>Тонга</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Trinidad and Tobago</source>
-        <translation type="obsolete">Тринидад и Тобаго</translation>
+        <translation>Тринидад и Тобаго</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Tunisia</source>
-        <translation type="obsolete">Тунис</translation>
+        <translation>Тунис</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Turkey</source>
-        <translation type="obsolete">Турция</translation>
+        <translation>Турция</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Turkmenistan</source>
-        <translation type="obsolete">Туркменистан</translation>
+        <translation>Туркменистан</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Turks and Caicos Islands</source>
-        <translation type="obsolete">Търкс и Кайкос</translation>
+        <translation>Търкс и Кайкос</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Tuvalu</source>
-        <translation type="obsolete">Тувалу</translation>
+        <translation>Тувалу</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Uganda</source>
-        <translation type="obsolete">Уганда</translation>
+        <translation>Уганда</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Ukraine</source>
-        <translation type="obsolete">Украйна</translation>
+        <translation>Украйна</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>United Arab Emirates</source>
-        <translation type="obsolete">Обединени Арабски Емирства</translation>
+        <translation>Обединени Арабски Емирства</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>United Kingdom</source>
-        <translation type="obsolete">Обединено кралство</translation>
+        <translation>Обединено кралство</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Uruguay</source>
-        <translation type="obsolete">Уругвай</translation>
+        <translation>Уругвай</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>USA</source>
-        <translation type="obsolete">САЩ</translation>
+        <translation>САЩ</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Uzbekistan</source>
-        <translation type="obsolete">Узбекистан</translation>
+        <translation>Узбекистан</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Vanuatu</source>
-        <translation type="obsolete">Вануату</translation>
+        <translation>Вануату</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Vatican City</source>
-        <translation type="obsolete">Ватикан</translation>
+        <translation>Ватикан</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Venezuela</source>
-        <translation type="obsolete">Венесуела</translation>
+        <translation>Венесуела</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Viet Nam</source>
-        <translation type="obsolete">Виетнам</translation>
+        <translation>Виетнам</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Virgin Islands of the United States</source>
-        <translation type="obsolete">Американски Вирджински о-ви</translation>
+        <translation>Американски Вирджински о-ви</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Wales</source>
-        <translation type="obsolete">Уелс</translation>
+        <translation>Уелс</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Wallis and Futuna Islands</source>
-        <translation type="obsolete">Уолис и Футуна</translation>
+        <translation>Уолис и Футуна</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Western Samoa</source>
-        <translation type="obsolete">Западна Самоа</translation>
+        <translation>Западна Самоа</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Yemen</source>
-        <translation type="obsolete">Йемен</translation>
+        <translation>Йемен</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Yugoslavia</source>
-        <translation type="obsolete">Югославия</translation>
+        <translation>Югославия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Yugoslavia - Montenegro</source>
-        <translation type="obsolete">Черна Гора</translation>
+        <translation>Черна Гора</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Yugoslavia - Serbia</source>
-        <translation type="obsolete">Сърбия</translation>
+        <translation>Сърбия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Zambia</source>
-        <translation type="obsolete">Замбия</translation>
+        <translation>Замбия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Zimbabwe</source>
-        <translation type="obsolete">Зимбабве</translation>
+        <translation>Зимбабве</translation>
     </message>
 </context>
 <context>
     <name>FeedbagError</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/feedbag.cpp" line="+116"/>
+        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+111"/>
         <source>No error</source>
         <translation>Без грешка</translation>
     </message>
@@ -1451,12 +1726,14 @@
 <context>
     <name>Gender</name>
     <message>
+        <location filename="../../protocols/oscar/src/metainfo.cpp" line="+151"/>
         <source>Female</source>
-        <translation type="obsolete">Жена</translation>
+        <translation>Жена</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Male</source>
-        <translation type="obsolete">Мъж</translation>
+        <translation>Мъж</translation>
     </message>
 </context>
 <context>
@@ -1476,7 +1753,7 @@
 <context>
     <name>IcqMainSettings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/ui/icqmainsettings.ui" line="+14"/>
+        <location filename="../../protocols/oscar/src/ui/icqmainsettings.ui" line="+14"/>
         <source>Form</source>
         <translation></translation>
     </message>
@@ -1784,570 +2061,710 @@
 <context>
     <name>Industry</name>
     <message>
+        <location filename="../../protocols/oscar/src/metainfo.cpp" line="+19"/>
         <source>Agriculture</source>
-        <translation type="obsolete">Селско стопанство</translation>
+        <translation>Селско стопанство</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Arts</source>
-        <translation type="obsolete">Изкуство</translation>
+        <translation>Изкуство</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Construction</source>
-        <translation type="obsolete">Строителство</translation>
+        <translation>Строителство</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Consumer Goods</source>
-        <translation type="obsolete">Потребителски стоки</translation>
+        <translation>Потребителски стоки</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Corporate Services</source>
-        <translation type="obsolete">Корпоративни услуги</translation>
+        <translation>Корпоративни услуги</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Education</source>
-        <translation type="obsolete">Образование</translation>
+        <translation>Образование</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Finance</source>
-        <translation type="obsolete">Финанси</translation>
+        <translation>Финанси</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Government</source>
-        <translation type="obsolete">Правителство</translation>
+        <translation>Правителство</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>High Tech</source>
-        <translation type="obsolete">Високи технологии</translation>
+        <translation>Високи технологии</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Legal</source>
-        <translation type="obsolete">Право</translation>
+        <translation>Право</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Manufacturing</source>
-        <translation type="obsolete">Производство</translation>
+        <translation>Производство</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Media</source>
-        <translation type="obsolete">Медия</translation>
+        <translation>Медия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Medical &amp; Health Care</source>
-        <translation type="obsolete">Медицина и здраве</translation>
+        <translation>Медицина и здраве</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Non-Profit Organization Management</source>
-        <translation type="obsolete">Управление на организации с идеална цел</translation>
+        <translation>Управление на организации с идеална цел</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Other</source>
-        <translation type="obsolete">Друго</translation>
+        <translation>Друго</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Recreation, Travel &amp; Entertainment</source>
-        <translation type="obsolete">Отдих, пътуване и развлечения</translation>
+        <translation>Отдих, пътуване и развлечения</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Service Industry</source>
-        <translation type="obsolete">Сферата на услугите</translation>
+        <translation>Сферата на услугите</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Transportation</source>
-        <translation type="obsolete">Транспорт</translation>
+        <translation>Транспорт</translation>
     </message>
 </context>
 <context>
     <name>Interest</name>
     <message>
+        <location line="-182"/>
         <source>50&apos;s</source>
-        <translation type="obsolete">50-те</translation>
+        <translation>50-те</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>60&apos;s</source>
-        <translation type="obsolete">60-те</translation>
+        <translation>60-те</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>70&apos;s</source>
-        <translation type="obsolete">70-те</translation>
+        <translation>70-те</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>80&apos;s</source>
-        <translation type="obsolete">80-те</translation>
+        <translation>80-те</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Art</source>
-        <translation type="obsolete">Изкуство</translation>
+        <translation>Изкуство</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Astronomy</source>
-        <translation type="obsolete">Астрономия</translation>
+        <translation>Астрономия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Audio and Visual</source>
-        <translation type="obsolete">Аудио и видео</translation>
+        <translation>Аудио и видео</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Business</source>
-        <translation type="obsolete">Бизнес</translation>
+        <translation>Бизнес</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Business Services</source>
-        <translation type="obsolete">Бизнес услуги</translation>
+        <translation>Бизнес услуги</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Cars</source>
-        <translation type="obsolete">Автомобили</translation>
+        <translation>Автомобили</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Celebrity Fans</source>
-        <translation type="obsolete">Почитатели на известни личности</translation>
+        <translation>Почитатели на известни личности</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Clothing</source>
-        <translation type="obsolete">Дрехи</translation>
+        <translation>Дрехи</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Collections</source>
-        <translation type="obsolete">Колекциониране</translation>
+        <translation>Колекциониране</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Computers</source>
-        <translation type="obsolete">Компютри</translation>
+        <translation>Компютри</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Culture</source>
-        <translation type="obsolete">Култура</translation>
+        <translation>Култура</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Ecology</source>
-        <translation type="obsolete">Екология</translation>
+        <translation>Екология</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Entertainment</source>
-        <translation type="obsolete">Забава</translation>
+        <translation>Забава</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Finance and Corporate</source>
-        <translation type="obsolete">Финанси и корпорации</translation>
+        <translation>Финанси и корпорации</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Fitness</source>
-        <translation type="obsolete">Фитнес</translation>
+        <translation>Фитнес</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Health and Beauty</source>
-        <translation type="obsolete">Здраве и красота</translation>
+        <translation>Здраве и красота</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Hobbies</source>
-        <translation type="obsolete">Хобита</translation>
+        <translation>Хобита</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Home Automation</source>
-        <translation type="obsolete">Автоматизация за бита</translation>
+        <translation>Автоматизация за бита</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Household Products</source>
-        <translation type="obsolete">Стоки за бита</translation>
+        <translation>Стоки за бита</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Games</source>
-        <translation type="obsolete">Игри</translation>
+        <translation>Игри</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Government</source>
-        <translation type="obsolete">Правителство</translation>
+        <translation>Правителство</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>ICQ - Help</source>
-        <translation type="obsolete">ICQ - помощ</translation>
+        <translation>ICQ - помощ</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Internet</source>
-        <translation type="obsolete">Интернет</translation>
+        <translation>Интернет</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Lifestyle</source>
-        <translation type="obsolete">Начин на живот</translation>
+        <translation>Начин на живот</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Mail Order Catalog</source>
-        <translation type="obsolete">Каталог за поръчка по поща</translation>
+        <translation>Каталог за поръчка по поща</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Media</source>
-        <translation type="obsolete">Медия</translation>
+        <translation>Медия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Movies and TV</source>
-        <translation type="obsolete">Филми и Телевизия</translation>
+        <translation>Филми и Телевизия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Music</source>
-        <translation type="obsolete">Музика</translation>
+        <translation>Музика</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Mystics</source>
-        <translation type="obsolete">Мистерии</translation>
+        <translation>Мистерии</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>News and Media</source>
-        <translation type="obsolete">Новини и медии</translation>
+        <translation>Новини и медии</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Outdoors</source>
-        <translation type="obsolete">Занимания на открито</translation>
+        <translation>Занимания на открито</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Parenting</source>
-        <translation type="obsolete">Отглеждане на деца</translation>
+        <translation>Отглеждане на деца</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Parties</source>
-        <translation type="obsolete">Партита</translation>
+        <translation>Партита</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Pets and Animals</source>
-        <translation type="obsolete">Домашни любимци/Животни</translation>
+        <translation>Домашни любимци/Животни</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Publishing</source>
-        <translation type="obsolete">Издателска дейност</translation>
+        <translation>Издателска дейност</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Religion</source>
-        <translation type="obsolete">Религия</translation>
+        <translation>Религия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Retail Stores</source>
-        <translation type="obsolete">Складове на едро</translation>
+        <translation>Складове на едро</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Science</source>
-        <translation type="obsolete">Наука</translation>
+        <translation>Наука</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Skills</source>
-        <translation type="obsolete">Умения</translation>
+        <translation>Умения</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Social science</source>
-        <translation type="obsolete">Социални науки</translation>
+        <translation>Социални науки</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Space</source>
-        <translation type="obsolete">Космос</translation>
+        <translation>Космос</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Sporting and Athletic</source>
-        <translation type="obsolete">Спортуване и атлетика</translation>
+        <translation>Спортуване и атлетика</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Sports</source>
-        <translation type="obsolete">Спорт</translation>
+        <translation>Спорт</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Travel</source>
-        <translation type="obsolete">Пътуване</translation>
+        <translation>Пътуване</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Web Design</source>
-        <translation type="obsolete">Уеб дизайн</translation>
+        <translation>Уеб дизайн</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Women</source>
-        <translation type="obsolete">Жени</translation>
+        <translation>Жени</translation>
     </message>
 </context>
 <context>
     <name>Language</name>
     <message>
+        <location line="+6"/>
         <source>Afrikaans</source>
-        <translation type="obsolete">африкански</translation>
+        <translation>африкански</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Albanian</source>
-        <translation type="obsolete">албански</translation>
+        <translation>албански</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Arabic</source>
-        <translation type="obsolete">арабски</translation>
+        <translation>арабски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Armenian</source>
-        <translation type="obsolete">арменски</translation>
+        <translation>арменски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Azerbaijani</source>
-        <translation type="obsolete">азерски</translation>
+        <translation>азерски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Belorussian</source>
-        <translation type="obsolete">белоруски</translation>
+        <translation>белоруски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Bhojpuri</source>
-        <translation type="obsolete">божпури</translation>
+        <translation>божпури</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Bosnian</source>
-        <translation type="obsolete">босненски</translation>
+        <translation>босненски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Bulgarian</source>
-        <translation type="obsolete">български</translation>
+        <translation>български</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Burmese</source>
-        <translation type="obsolete">бирмански</translation>
+        <translation>бирмански</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Cantonese</source>
-        <translation type="obsolete">кантонски</translation>
+        <translation>кантонски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Catalan</source>
-        <translation type="obsolete">каталонски</translation>
+        <translation>каталонски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Chamorro</source>
-        <translation type="obsolete">каморски</translation>
+        <translation>каморски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Chinese</source>
-        <translation type="obsolete">китайски</translation>
+        <translation>китайски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Croatian</source>
-        <translation type="obsolete">хърватски</translation>
+        <translation>хърватски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Czech</source>
-        <translation type="obsolete">чешки</translation>
+        <translation>чешки</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Danish</source>
-        <translation type="obsolete">датски</translation>
+        <translation>датски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Dutch</source>
-        <translation type="obsolete">холандски</translation>
+        <translation>холандски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>English</source>
-        <translation type="obsolete">английски</translation>
+        <translation>английски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Esperanto</source>
-        <translation type="obsolete">есперанто</translation>
+        <translation>есперанто</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Estonian</source>
-        <translation type="obsolete">естонски</translation>
+        <translation>естонски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Farsi</source>
-        <translation type="obsolete">фарси</translation>
+        <translation>фарси</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Finnish</source>
-        <translation type="obsolete">фински</translation>
+        <translation>фински</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>French</source>
-        <translation type="obsolete">френски</translation>
+        <translation>френски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Gaelic</source>
-        <translation type="obsolete">келтски</translation>
+        <translation>келтски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>German</source>
-        <translation type="obsolete">немски</translation>
+        <translation>немски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Greek</source>
-        <translation type="obsolete">гръцки</translation>
+        <translation>гръцки</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Gujarati</source>
-        <translation type="obsolete">гуджаратски</translation>
+        <translation>гуджаратски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Hebrew</source>
-        <translation type="obsolete">иврит</translation>
+        <translation>иврит</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Hindi</source>
-        <translation type="obsolete">хинди</translation>
+        <translation>хинди</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Hungarian</source>
-        <translation type="obsolete">унгарски</translation>
+        <translation>унгарски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Icelandic</source>
-        <translation type="obsolete">исландски</translation>
+        <translation>исландски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Indonesian</source>
-        <translation type="obsolete">индонезийски</translation>
+        <translation>индонезийски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Italian</source>
-        <translation type="obsolete">италиански</translation>
+        <translation>италиански</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Japanese</source>
-        <translation type="obsolete">японски</translation>
+        <translation>японски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Khmer</source>
-        <translation type="obsolete">кхмерски</translation>
+        <translation>кхмерски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Korean</source>
-        <translation type="obsolete">корейски</translation>
+        <translation>корейски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Kurdish</source>
-        <translation type="obsolete">кюрдски</translation>
+        <translation>кюрдски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Lao</source>
-        <translation type="obsolete">лаоски</translation>
+        <translation>лаоски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Latvian</source>
-        <translation type="obsolete">латвийски</translation>
+        <translation>латвийски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Lithuanian</source>
-        <translation type="obsolete">литовски</translation>
+        <translation>литовски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Macedonian</source>
-        <translation type="obsolete">македонски?!?!?!</translation>
+        <translation>македонски?!?!?!</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Malay</source>
-        <translation type="obsolete">малайски</translation>
+        <translation>малайски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Mandarin</source>
-        <translation type="obsolete">мандарински</translation>
+        <translation>мандарински</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Mongolian</source>
-        <translation type="obsolete">монголски</translation>
+        <translation>монголски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Norwegian</source>
-        <translation type="obsolete">норвежки</translation>
+        <translation>норвежки</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Persian</source>
-        <translation type="obsolete">персийски</translation>
+        <translation>персийски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Polish</source>
-        <translation type="obsolete">полски</translation>
+        <translation>полски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Portuguese</source>
-        <translation type="obsolete">португалски</translation>
+        <translation>португалски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Punjabi</source>
-        <translation type="obsolete">пунджаби</translation>
+        <translation>пунджаби</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Romanian</source>
-        <translation type="obsolete">румънски</translation>
+        <translation>румънски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Russian</source>
-        <translation type="obsolete">руски</translation>
+        <translation>руски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Serbian</source>
-        <translation type="obsolete">сръбски</translation>
+        <translation>сръбски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Sindhi</source>
-        <translation type="obsolete">синдхи</translation>
+        <translation>синдхи</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Slovak</source>
-        <translation type="obsolete">словашки</translation>
+        <translation>словашки</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Slovenian</source>
-        <translation type="obsolete">словенски</translation>
+        <translation>словенски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Somali</source>
-        <translation type="obsolete">сомалийски</translation>
+        <translation>сомалийски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Spanish</source>
-        <translation type="obsolete">испански</translation>
+        <translation>испански</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Swahili</source>
-        <translation type="obsolete">суахили</translation>
+        <translation>суахили</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Swedish</source>
-        <translation type="obsolete">шведски</translation>
+        <translation>шведски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Tagalog</source>
-        <translation type="obsolete">тагалог</translation>
+        <translation>тагалог</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Taiwanese</source>
-        <translation type="obsolete">тайвански</translation>
+        <translation>тайвански</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Tamil</source>
-        <translation type="obsolete">тамилски</translation>
+        <translation>тамилски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Tatar</source>
-        <translation type="obsolete">татарски</translation>
+        <translation>татарски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Thai</source>
-        <translation type="obsolete">тайландски</translation>
+        <translation>тайландски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Turkish</source>
-        <translation type="obsolete">турски</translation>
+        <translation>турски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Ukrainian</source>
-        <translation type="obsolete">украински</translation>
+        <translation>украински</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Urdu</source>
-        <translation type="obsolete">урду</translation>
+        <translation>урду</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Vietnamese</source>
-        <translation type="obsolete">виетнамски</translation>
+        <translation>виетнамски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Welsh</source>
-        <translation type="obsolete">уелски</translation>
+        <translation>уелски</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Yiddish</source>
-        <translation type="obsolete">идиш</translation>
+        <translation>идиш</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Yoruba</source>
-        <translation type="obsolete">йоруба</translation>
+        <translation>йоруба</translation>
     </message>
 </context>
 <context>
@@ -2372,209 +2789,252 @@
 <context>
     <name>Marital</name>
     <message>
+        <location line="+133"/>
         <source>Single</source>
-        <translation type="obsolete">Свободен/Свободна</translation>
+        <translation>Свободен/Свободна</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Close relationships</source>
-        <translation type="obsolete">Със сериозна връзка</translation>
+        <translation>Със сериозна връзка</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Engaged</source>
-        <translation type="obsolete">Сгоден(а)</translation>
+        <translation>Сгоден(а)</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Married</source>
-        <translation type="obsolete">Женен/Омъжена</translation>
+        <translation>Женен/Омъжена</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Divorced</source>
-        <translation type="obsolete">Разведен(а)</translation>
+        <translation>Разведен(а)</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Separated</source>
-        <translation type="obsolete">Разделен(а)</translation>
+        <translation>Разделен(а)</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Widowed</source>
-        <translation type="obsolete">Вдовец/Вдовица</translation>
+        <translation>Вдовец/Вдовица</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Open relationship</source>
-        <translation type="obsolete">С отворена връзка</translation>
+        <translation>С отворена връзка</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Other</source>
-        <translation type="obsolete">Друго</translation>
+        <translation>Друго</translation>
     </message>
 </context>
 <context>
     <name>Occupation</name>
     <message>
+        <location line="-79"/>
         <source>Academic</source>
-        <translation type="obsolete">Академична</translation>
+        <translation>Академична</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Administrative</source>
-        <translation type="obsolete">Административна</translation>
+        <translation>Административна</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Art/Entertainment</source>
-        <translation type="obsolete">Изкуство/Забава</translation>
+        <translation>Изкуство/Забава</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>College Student</source>
-        <translation type="obsolete">Студент(ка) в колеж</translation>
+        <translation>Студент(ка) в колеж</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Computers</source>
-        <translation type="obsolete">Компютри</translation>
+        <translation>Компютри</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Community &amp; Social</source>
-        <translation type="obsolete">Обществена</translation>
+        <translation>Обществена</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Education</source>
-        <translation type="obsolete">Образование</translation>
+        <translation>Образование</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Engineering</source>
-        <translation type="obsolete">Инженерни дейности</translation>
+        <translation>Инженерни дейности</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Financial Services</source>
-        <translation type="obsolete">Финансови услуги</translation>
+        <translation>Финансови услуги</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Government</source>
-        <translation type="obsolete">Правителство</translation>
+        <translation>Правителство</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>High School Student</source>
-        <translation type="obsolete">Гимназист(ка)</translation>
+        <translation>Гимназист(ка)</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Home</source>
-        <translation type="obsolete">Домашен</translation>
+        <translation>Домашен</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>ICQ - Providing Help</source>
-        <translation type="obsolete">ICQ - Помощ</translation>
+        <translation>ICQ - Помощ</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Law</source>
-        <translation type="obsolete">Правна</translation>
+        <translation>Правна</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Managerial</source>
-        <translation type="obsolete">Управление</translation>
+        <translation>Управление</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Manufacturing</source>
-        <translation type="obsolete">Производство</translation>
+        <translation>Производство</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Medical/Health</source>
-        <translation type="obsolete">Медицина/Здраве</translation>
+        <translation>Медицина/Здраве</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Military</source>
-        <translation type="obsolete">Военна</translation>
+        <translation>Военна</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Non-Government Organization</source>
-        <translation type="obsolete">Не-правителствена организация</translation>
+        <translation>Не-правителствена организация</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Professional</source>
-        <translation type="obsolete">Професионална</translation>
+        <translation>Професионална</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Retail</source>
-        <translation type="obsolete">Продажби на дребно</translation>
+        <translation>Продажби на дребно</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Retired</source>
-        <translation type="obsolete">Пенсионер(ка)</translation>
+        <translation>Пенсионер(ка)</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Science &amp; Research</source>
-        <translation type="obsolete">Наука и изследователска дейност</translation>
+        <translation>Наука и изследователска дейност</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Sports</source>
-        <translation type="obsolete">Спорт</translation>
+        <translation>Спорт</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Technical</source>
-        <translation type="obsolete">Техническа</translation>
+        <translation>Техническа</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>University Student</source>
-        <translation type="obsolete">Студент(ка) в университет</translation>
+        <translation>Студент(ка) в университет</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Web Building</source>
-        <translation type="obsolete">Уеб разработка</translation>
+        <translation>Уеб разработка</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Other Services</source>
-        <translation type="obsolete">Други услуги</translation>
+        <translation>Други услуги</translation>
     </message>
 </context>
 <context>
     <name>PasswordForm</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/ui/passwordform.ui" line="+30"/>
         <source>Password:</source>
-        <translation>Парола:</translation>
+        <translation type="obsolete">Парола:</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Save password</source>
-        <translation>Запис на паролата</translation>
+        <translation type="obsolete">Запис на паролата</translation>
     </message>
 </context>
 <context>
     <name>Past</name>
     <message>
+        <location line="-83"/>
         <source>Elementary School</source>
-        <translation type="obsolete">Начално училище</translation>
+        <translation>Начално училище</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>High School</source>
-        <translation type="obsolete">Гимназия</translation>
+        <translation>Гимназия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>College</source>
-        <translation type="obsolete">Колеж</translation>
+        <translation>Колеж</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>University</source>
-        <translation type="obsolete">Университет</translation>
+        <translation>Университет</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Military</source>
-        <translation type="obsolete">Военна служба</translation>
+        <translation>Военна служба</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Past Work Place</source>
-        <translation type="obsolete">Предишно работно място</translation>
+        <translation>Предишно работно място</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Past Organization</source>
-        <translation type="obsolete">Предишна организация</translation>
+        <translation>Предишна организация</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Other</source>
-        <translation type="obsolete">Друго</translation>
+        <translation>Друго</translation>
     </message>
 </context>
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="-3"/>
+        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-6"/>
         <source>Oscar</source>
         <translation>Oscar</translation>
     </message>
@@ -2584,7 +3044,7 @@
         <translation>Модулна реализация на OSCAR протокола</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+8"/>
         <source>ICQ</source>
         <translation>ICQ</translation>
     </message>
@@ -2603,11 +3063,17 @@
         <source>Account creator for module-based realization of ICQ protocol</source>
         <translation>Създаване на сметки за модулната реализация на ICQ протокола</translation>
     </message>
+    <message>
+        <location line="+3"/>
+        <location line="+1"/>
+        <source>Oscar file transfer protocol</source>
+        <translation>Предаване на файлове (Oscar)</translation>
+    </message>
 </context>
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="-356"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="-262"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>
@@ -2829,7 +3295,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="+6"/>
+        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+6"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
@@ -2837,7 +3303,7 @@
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/icqprotocol.cpp" line="+87"/>
+        <location filename="../../protocols/oscar/src/oscarstatus.cpp" line="+46"/>
         <source>Busy</source>
         <translation>Зает</translation>
     </message>
@@ -2845,42 +3311,51 @@
 <context>
     <name>StudyLevel</name>
     <message>
+        <location filename="../../protocols/oscar/src/metainfo.cpp" line="+13"/>
         <source>Associated degree</source>
-        <translation type="obsolete">Специалист</translation>
+        <translation>Специалист</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Bachelor&apos;s degree</source>
-        <translation type="obsolete">Бакалавър</translation>
+        <translation>Бакалавър</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Elementary</source>
-        <translation type="obsolete">Начално образование</translation>
+        <translation>Начално образование</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>High-school</source>
-        <translation type="obsolete">Гимназия</translation>
+        <translation>Гимназия</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Master&apos;s degree</source>
-        <translation type="obsolete">Магистър</translation>
+        <translation>Магистър</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>PhD</source>
-        <translation type="obsolete">Д-р</translation>
+        <translation>Д-р</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Postdoctoral</source>
-        <translation type="obsolete">След докторантура</translation>
+        <translation>След докторантура</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>University / College</source>
-        <translation type="obsolete">Университет / Колеж</translation>
+        <translation>Университет / Колеж</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="-13"/>
+        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-20"/>
+        <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -2888,164 +3363,132 @@
 <context>
     <name>XStatus</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/xtraz.cpp" line="+63"/>
         <source>Angry</source>
-        <translation>Бесен съм</translation>
+        <translation type="obsolete">Бесен съм</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Taking a bath</source>
-        <translation>В банята съм</translation>
+        <translation type="obsolete">В банята съм</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Tired</source>
-        <translation>Уморен съм</translation>
+        <translation type="obsolete">Уморен съм</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Party</source>
-        <translation>Купонясвам</translation>
+        <translation type="obsolete">Купонясвам</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Drinking beer</source>
-        <translation>Жуля бира</translation>
+        <translation type="obsolete">Жуля бира</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Thinking</source>
-        <translation>Размишлявам</translation>
+        <translation type="obsolete">Размишлявам</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Eating</source>
-        <translation>Хапвам</translation>
+        <translation type="obsolete">Хапвам</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Watching TV</source>
-        <translation>Гледам телевизия</translation>
+        <translation type="obsolete">Гледам телевизия</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Meeting</source>
-        <translation>На среща съм</translation>
+        <translation type="obsolete">На среща съм</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Coffee</source>
-        <translation>Жулвам кафенце</translation>
+        <translation type="obsolete">Жулвам кафенце</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Listening to music</source>
-        <translation>Слушам музика</translation>
+        <translation type="obsolete">Слушам музика</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Business</source>
-        <translation>Имам работа</translation>
+        <translation type="obsolete">Имам работа</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Shooting</source>
-        <translation>Снимам</translation>
+        <translation type="obsolete">Снимам</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Having fun</source>
-        <translation>Забавлявам се</translation>
+        <translation type="obsolete">Забавлявам се</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>On the phone</source>
-        <translation>На телефона</translation>
+        <translation type="obsolete">На телефона</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Gaming</source>
-        <translation>Играя</translation>
+        <translation type="obsolete">Играя</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Studying</source>
-        <translation>Уча</translation>
+        <translation type="obsolete">Уча</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Shopping</source>
-        <translation>Пазарувам</translation>
+        <translation type="obsolete">Пазарувам</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Feeling sick</source>
-        <translation>Боледувам</translation>
+        <translation type="obsolete">Боледувам</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Sleeping</source>
-        <translation>Спя</translation>
+        <translation type="obsolete">Спя</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Surfing</source>
-        <translation>Сърфирам</translation>
+        <translation type="obsolete">Сърфирам</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Browsing</source>
-        <translation>Ровя се в нета</translation>
+        <translation type="obsolete">Ровя се в нета</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Working</source>
-        <translation>Бачкам</translation>
+        <translation type="obsolete">Бачкам</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Typing</source>
-        <translation>Набирам</translation>
+        <translation type="obsolete">Набирам</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Picnic</source>
-        <translation>На тиферич</translation>
+        <translation type="obsolete">На тиферич</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Cooking</source>
-        <translation>Готвя</translation>
+        <translation type="obsolete">Готвя</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Smoking</source>
-        <translation>Пуша</translation>
+        <translation type="obsolete">Пуша</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>I&apos;m high</source>
-        <translation>Надрусан съм</translation>
+        <translation type="obsolete">Надрусан съм</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>On WC</source>
-        <translation>Друсам крушата</translation>
+        <translation type="obsolete">Друсам крушата</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>To be or not to be</source>
-        <translation>Да бъда или да не бъда</translation>
+        <translation type="obsolete">Да бъда или да не бъда</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Watching pro7 on TV</source>
-        <translation>Гледам PRO7 по телевизията</translation>
+        <translation type="obsolete">Гледам PRO7 по телевизията</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Love</source>
-        <translation>Влюбен съм</translation>
+        <translation type="obsolete">Влюбен съм</translation>
     </message>
 </context>
 <context>
