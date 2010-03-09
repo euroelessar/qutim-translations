@@ -810,6 +810,19 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::MigrationStartPage</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/migration02x03/migrationstartpage.cpp" line="+22"/>
+        <source>Migration wizard</source>
+        <translation>Помощник за мигриране</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>qutIM has discovered configuration from 0.2 version, choose profile to import history and configuration from.</source>
+        <translation>qutIM откри конфигурация от версия 0.2. Изберете профил, за да импортирате хронологията и конфигурация му.</translation>
+    </message>
+</context>
+<context>
     <name>Core::PListConfigBackend</name>
     <message>
         <location filename="../../qutim/src/corelayers/configbackends/plistconfigbackend.cpp" line="+249"/>
@@ -848,17 +861,34 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::ProfileDialog</name>
+    <message>
+        <location filename="../../qutim/src/profiledialog.cpp" line="+130"/>
+        <source>Incorrect password</source>
+        <translation>Сгрешена парола</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Passwords doesn&apos;t match each other</source>
+        <translation>Паролите не съвпадат</translation>
+    </message>
+</context>
+<context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+334"/>
         <source>Contacts</source>
-        <translation>Контакти</translation>
+        <translation type="obsolete">Контакти</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+334"/>
+        <source>All tags</source>
+        <translation>Всички етикети</translation>
     </message>
 </context>
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+98"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+108"/>
         <source>Main menu</source>
         <translation>Основно меню</translation>
     </message>
@@ -1240,7 +1270,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>KineticPopups::Popup</name>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/popup.cpp" line="+66"/>
+        <location filename="../../qutim/src/corelayers/kineticpopups/popup.cpp" line="+72"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
         <translation>&lt;p&gt; + %1 оставащи уведомления &lt;/p&gt;</translation>
     </message>
@@ -1269,6 +1299,19 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KineticPopups::PopupWidget</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/kineticpopups/popupwidget.cpp" line="+83"/>
+        <source>Message from %1</source>
+        <translation>Съобщение от %1</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Message to %1</source>
+        <translation>Съобщение до %1</translation>
+    </message>
+</context>
+<context>
     <name>LastLoginPage</name>
     <message>
         <source>Please type chosen protocol login data</source>
@@ -1285,6 +1328,29 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/localization/localizationsettings.ui" line="+14"/>
         <source>Form</source>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>MigrationStartPage</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/migration02x03/migrationstartpage.ui" line="+14"/>
+        <source>WizardPage</source>
+        <translation>Магьосник</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>I want to import configuration and history</source>
+        <translation>Да се импортират конфигурацията и хронологията</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Choose profile:</source>
+        <translation>Избор на профил:</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Choose accounts:</source>
+        <translation>Избор на сметка:</translation>
     </message>
 </context>
 <context>
@@ -1487,7 +1553,7 @@ p, li { white-space: pre-wrap; }
         <translation>Допълнителна конфигурация на qutIM за Apple plists</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-71"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-78"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
@@ -1676,6 +1742,16 @@ p, li { white-space: pre-wrap; }
         <source>Default qutIM system tray icon implementation</source>
         <translation>Подразбираща се за qutIM реализация на икона в системния поднос</translation>
     </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/migration02x03/migrationpagecreator.cpp" line="+8"/>
+        <source>Mirgation 0.2 to 0.3</source>
+        <translation>Миграция от 0.2 към 0.3</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Module for migration from 0.2 to 0.3</source>
+        <translation>Модул за миграция от 0.2 към 0.3</translation>
+    </message>
 </context>
 <context>
     <name>PluginSettingsClass</name>
@@ -1712,6 +1788,111 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>PopupWindow</source>
         <translation type="obsolete">Изскачащи прозорци</translation>
+    </message>
+</context>
+<context>
+    <name>ProfileCreationPage</name>
+    <message>
+        <location filename="../../qutim/src/profilecreationpage.ui" line="+14"/>
+        <source>WizardPage</source>
+        <translation>Профил</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Name:</source>
+        <translation>Име:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>It will be shown in chat dialogs</source>
+        <translation>Ще се показва в прозореца със съобщения</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Profile id:</source>
+        <translation>Идентификатор:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Used for profile identification</source>
+        <translation>Използва се за идентифициране на профила</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Config dir:</source>
+        <translation>Директория на конфигурацията:</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <location line="+14"/>
+        <location line="+14"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>History dir:</source>
+        <translation>Директория на хронологията:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Data dir:</source>
+        <translation>Директория на данните:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Store data at application dir</source>
+        <translation>Да се записват данните в директорията на приложнието</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Choose cryptograhic module:</source>
+        <translation>Модул за шифриране:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Choose config backend:</source>
+        <translation>Тип на конфигурационните файлове:</translation>
+    </message>
+</context>
+<context>
+    <name>ProfileDialog</name>
+    <message>
+        <location filename="../../qutim/src/profiledialog.ui" line="+32"/>
+        <location line="+46"/>
+        <source>Login</source>
+        <translation>Потребителско име</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Choose profile:</source>
+        <translation>Профил:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location line="+32"/>
+        <source>Enter password:</source>
+        <translation>Парола:</translation>
+    </message>
+    <message>
+        <location line="-16"/>
+        <source>Create profile</source>
+        <translation>Създаване на профил</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Name:</source>
+        <translation>Име:</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Repeat password:</source>
+        <translation>Паролата (повторно):</translation>
+    </message>
+    <message>
+        <location line="+40"/>
+        <source>Create</source>
+        <translation>Създаване</translation>
     </message>
 </context>
 <context>
@@ -3303,7 +3484,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>simplecontactlist</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+56"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+67"/>
         <source>&amp;Settings...</source>
         <translation>&amp;Настройки...</translation>
     </message>
