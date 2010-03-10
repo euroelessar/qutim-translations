@@ -1270,7 +1270,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>KineticPopups::Popup</name>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/popup.cpp" line="+72"/>
+        <location filename="../../qutim/src/corelayers/kineticpopups/popup.cpp" line="+73"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
         <translation>&lt;p&gt; + %1 оставащи уведомления &lt;/p&gt;</translation>
     </message>
