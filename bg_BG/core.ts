@@ -111,7 +111,7 @@
 <context>
     <name>AdiumChat::ChatSessionImpl</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+100"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+102"/>
         <source>Message %1 must have a ChatUnit</source>
         <translation>Съобщението %1 изисква ChatUnit</translation>
     </message>
@@ -123,13 +123,19 @@
         <translation type="obsolete">Основни действия</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+64"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+66"/>
         <location line="+2"/>
         <source>Testing action</source>
-        <translation type="unfinished">Проба на действията</translation>
+        <translation>Пробно действие</translation>
     </message>
     <message>
-        <location line="+76"/>
+        <location line="+20"/>
+        <source>Ctrl+Return</source>
+        <comment>Send message</comment>
+        <translation>Ctrl+Return</translation>
+    </message>
+    <message>
+        <location line="+58"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -162,7 +168,7 @@
         <translation>about:blank</translation>
     </message>
     <message>
-        <location line="+50"/>
+        <location line="+53"/>
         <source>Send</source>
         <translation>Изпращане</translation>
     </message>
@@ -864,13 +870,29 @@ p, li { white-space: pre-wrap; }
     <name>Core::ProfileDialog</name>
     <message>
         <location filename="../../qutim/src/profiledialog.cpp" line="+130"/>
+        <source>Invalid name</source>
+        <translation>Невалидно име</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Name can not be empty!</source>
+        <translation>Името не може да е празно!</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <location line="+5"/>
         <source>Incorrect password</source>
         <translation>Сгрешена парола</translation>
     </message>
     <message>
-        <location line="+0"/>
+        <location line="-5"/>
         <source>Passwords doesn&apos;t match each other</source>
         <translation>Паролите не съвпадат</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Password can not be empty!</source>
+        <translation>Паролата не може да е празна!</translation>
     </message>
 </context>
 <context>
@@ -888,7 +910,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+108"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+116"/>
         <source>Main menu</source>
         <translation>Основно меню</translation>
     </message>
@@ -1301,14 +1323,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>KineticPopups::PopupWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/popupwidget.cpp" line="+83"/>
         <source>Message from %1</source>
-        <translation>Съобщение от %1</translation>
+        <translation type="obsolete">Съобщение от %1</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>Message to %1</source>
-        <translation>Съобщение до %1</translation>
+        <translation type="obsolete">Съобщение до %1</translation>
     </message>
 </context>
 <context>
@@ -1513,7 +1533,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/backend.cpp" line="+33"/>
+        <location filename="../../qutim/src/corelayers/kineticpopups/backend.cpp" line="+35"/>
         <source>Kinetic popups</source>
         <translation>Изскачащи прозорци (Kinetic)</translation>
     </message>
@@ -1553,7 +1573,7 @@ p, li { white-space: pre-wrap; }
         <translation>Допълнителна конфигурация на qutIM за Apple plists</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-78"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-86"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
@@ -3485,6 +3505,7 @@ p, li { white-space: pre-wrap; }
     <name>simplecontactlist</name>
     <message>
         <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+67"/>
+        <location line="+7"/>
         <source>&amp;Settings...</source>
         <translation>&amp;Настройки...</translation>
     </message>
