@@ -2592,4 +2592,8 @@
     <source>System error</source>
     <target>Системна грешка</target>
 </phrase>
+<phrase>
+    <source>X-Status</source>
+    <target>Разширен статус</target>
+</phrase>
 </QPH>
