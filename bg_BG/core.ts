@@ -111,7 +111,7 @@
 <context>
     <name>AdiumChat::ChatSessionImpl</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+102"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+104"/>
         <source>Message %1 must have a ChatUnit</source>
         <translation>Съобщението %1 изисква ChatUnit</translation>
     </message>
@@ -135,7 +135,7 @@
         <translation>Ctrl+Return</translation>
     </message>
     <message>
-        <location line="+58"/>
+        <location line="+54"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -902,7 +902,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Контакти</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+334"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+454"/>
         <source>All tags</source>
         <translation>Всички етикети</translation>
     </message>
@@ -1533,7 +1533,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/backend.cpp" line="+35"/>
+        <location filename="../../qutim/src/corelayers/kineticpopups/backend.cpp" line="+39"/>
         <source>Kinetic popups</source>
         <translation>Изскачащи прозорци (Kinetic)</translation>
     </message>

@@ -243,6 +243,82 @@
     </message>
 </context>
 <context>
+    <name>JMUCJoin</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucjoin.ui" line="+14"/>
+        <source>Dialog</source>
+        <translation>Групов разговор</translation>
+    </message>
+    <message>
+        <location line="+75"/>
+        <location line="+130"/>
+        <source>Bookmarks:</source>
+        <translation>Отметки:</translation>
+    </message>
+    <message>
+        <location line="-114"/>
+        <location line="+146"/>
+        <source>Conference:</source>
+        <translation>Конференция:</translation>
+    </message>
+    <message>
+        <location line="-126"/>
+        <location line="+142"/>
+        <source>Nick:</source>
+        <translation>Псевдоним:</translation>
+    </message>
+    <message>
+        <location line="-126"/>
+        <source>Password</source>
+        <translation>Парола</translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Bookmark&apos;s name:</source>
+        <translation>Име на отметката:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Save to bookmarks</source>
+        <translation>Запазване в отметки</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Search</source>
+        <translation>Търсене</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Join</source>
+        <translation>Присъединяване</translation>
+    </message>
+    <message>
+        <location line="+35"/>
+        <source>Name:</source>
+        <translation>Име:</translation>
+    </message>
+    <message>
+        <location line="+48"/>
+        <source>Password:</source>
+        <translation>Парола:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Auto join</source>
+        <translation>Автоматично присъединяване</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Save</source>
+        <translation>Запис</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Delete</source>
+        <translation>Изтриване</translation>
+    </message>
+</context>
+<context>
     <name>Jabber</name>
     <message>
         <location filename="../../protocols/jabber/src/protocol/modules/adhoc/jadhocmodule.cpp" line="+32"/>
