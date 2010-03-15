@@ -395,8 +395,9 @@
         <translation type="obsolete">Извън списъка</translation>
     </message>
     <message>
+        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+49"/>
         <source>General</source>
-        <translation type="obsolete">Обща</translation>
+        <translation type="unfinished">Обща</translation>
     </message>
     <message>
         <location filename="../../protocols/oscar/src/roster.cpp" line="+82"/>
