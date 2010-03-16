@@ -111,7 +111,7 @@
 <context>
     <name>AdiumChat::ChatSessionImpl</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+104"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+105"/>
         <source>Message %1 must have a ChatUnit</source>
         <translation>Съобщението %1 изисква ChatUnit</translation>
     </message>
@@ -135,7 +135,7 @@
         <translation>Ctrl+Return</translation>
     </message>
     <message>
-        <location line="+54"/>
+        <location line="+53"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -632,6 +632,24 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>ContactList</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+99"/>
+        <source>&amp;Settings...</source>
+        <translation>&amp;Настройки...</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>&amp;Quit</source>
+        <translation>&amp;Изход</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+37"/>
+        <source>Rename contact</source>
+        <translation>Преименуване на контакта</translation>
+    </message>
+</context>
+<context>
     <name>ContactListProxyModel</name>
     <message>
         <source>Online</source>
@@ -869,7 +887,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileDialog</name>
     <message>
-        <location filename="../../qutim/src/profiledialog.cpp" line="+130"/>
+        <location filename="../../qutim/src/profiledialog.cpp" line="+140"/>
         <source>Invalid name</source>
         <translation>Невалидно име</translation>
     </message>
@@ -902,7 +920,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Контакти</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+454"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+579"/>
         <source>All tags</source>
         <translation>Всички етикети</translation>
     </message>
@@ -910,7 +928,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+116"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+6"/>
         <source>Main menu</source>
         <translation>Основно меню</translation>
     </message>
@@ -1573,7 +1591,7 @@ p, li { white-space: pre-wrap; }
         <translation>Допълнителна конфигурация на qutIM за Apple plists</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-86"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-83"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
@@ -3504,15 +3522,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>simplecontactlist</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+67"/>
-        <location line="+7"/>
         <source>&amp;Settings...</source>
-        <translation>&amp;Настройки...</translation>
+        <translation type="obsolete">&amp;Настройки...</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>&amp;Quit</source>
-        <translation>&amp;Изход</translation>
+        <translation type="obsolete">&amp;Изход</translation>
     </message>
 </context>
 </TS>

@@ -652,6 +652,35 @@
     </message>
 </context>
 <context>
+    <name>Jabber::JInviteManager</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jinvitemanager.cpp" line="+32"/>
+        <source>User %1 invite you
+to conference %2</source>
+        <translation>Потребителят %1 ви кани
+в конференцията %2</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>
+with reason &quot;%1&quot;</source>
+        <translation>
+по следната причина &quot;%1&quot;</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>
+Accept invitation?</source>
+        <translation>
+Приемате ли поканата?</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Invite to groupchat</source>
+        <translation>Показа на групов разговор</translation>
+    </message>
+</context>
+<context>
     <name>Jabber::JServiceBrowser</name>
     <message>
         <source>&lt;br/&gt;&lt;b&gt;Identities:&lt;/b&gt;&lt;br/&gt;</source>
