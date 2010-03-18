@@ -201,7 +201,7 @@
     <message>
         <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+38"/>
         <source>Alexey Ignatiev</source>
-        <translation>Алексей Игнатиев</translation>
+        <translation type="unfinished">Алексей Игнатиев</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -214,7 +214,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="+243"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="+248"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -1684,7 +1684,7 @@
 <context>
     <name>FeedbagError</name>
     <message>
-        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+111"/>
+        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+112"/>
         <source>No error</source>
         <translation>Без грешка</translation>
     </message>
@@ -3257,13 +3257,13 @@
     <message>
         <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-6"/>
         <source>OscarIdentify</source>
-        <translation>Oscar идентификация</translation>
+        <translation type="unfinished">Oscar идентификация</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+9"/>
         <source>Client identificaton for oscar contacts</source>
-        <translation>Идентификация на клиента за Oscar контактите</translation>
+        <translation type="unfinished">Идентификация на клиента за Oscar контактите</translation>
     </message>
     <message>
         <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-6"/>
@@ -3312,19 +3312,19 @@
     <message>
         <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-7"/>
         <source>OscarXStatus</source>
-        <translation>Разширен Oscar статус</translation>
+        <translation type="unfinished">Разширен Oscar статус</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+7"/>
         <source>Additional statuses for oscar protocol</source>
-        <translation>Допълнителни статуси за Oscar протокола</translation>
+        <translation type="unfinished">Допълнителни статуси за Oscar протокола</translation>
     </message>
 </context>
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="-262"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="-267"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>
@@ -3561,27 +3561,27 @@
     <message>
         <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+15"/>
         <source>Angry</source>
-        <translation>Бесен</translation>
+        <translation type="unfinished">Бесен</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Depression</source>
-        <translation>Депресиран</translation>
+        <translation type="unfinished">Депресиран</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>At home</source>
-        <translation>Вкъщи</translation>
+        <translation type="unfinished">Вкъщи</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>At work</source>
-        <translation>На работа</translation>
+        <translation type="unfinished">На работа</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Eating</source>
-        <translation>Хапващ</translation>
+        <translation type="unfinished">Хапващ</translation>
     </message>
 </context>
 <context>
@@ -3644,167 +3644,167 @@
     <message>
         <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-122"/>
         <source>Angry</source>
-        <translation>Бесен съм</translation>
+        <translation type="unfinished">Бесен съм</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Taking a bath</source>
-        <translation>В банята съм</translation>
+        <translation type="unfinished">В банята съм</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Tired</source>
-        <translation>Уморен съм</translation>
+        <translation type="unfinished">Уморен съм</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Party</source>
-        <translation>Купонясвам</translation>
+        <translation type="unfinished">Купонясвам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Drinking beer</source>
-        <translation>Жуля бира</translation>
+        <translation type="unfinished">Жуля бира</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Thinking</source>
-        <translation>Размишлявам</translation>
+        <translation type="unfinished">Размишлявам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Eating</source>
-        <translation>Хапвам</translation>
+        <translation type="unfinished">Хапвам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Watching TV</source>
-        <translation>Гледам телевизия</translation>
+        <translation type="unfinished">Гледам телевизия</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Meeting</source>
-        <translation>На среща съм</translation>
+        <translation type="unfinished">На среща съм</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Coffee</source>
-        <translation>Жулвам кафенце</translation>
+        <translation type="unfinished">Жулвам кафенце</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Listening to music</source>
-        <translation>Слушам музика</translation>
+        <translation type="unfinished">Слушам музика</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Business</source>
-        <translation>Имам работа</translation>
+        <translation type="unfinished">Имам работа</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Shooting</source>
-        <translation>Снимам</translation>
+        <translation type="unfinished">Снимам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Having fun</source>
-        <translation>Забавлявам се</translation>
+        <translation type="unfinished">Забавлявам се</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>On the phone</source>
-        <translation>На телефона</translation>
+        <translation type="unfinished">На телефона</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Gaming</source>
-        <translation>Играя</translation>
+        <translation type="unfinished">Играя</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Studying</source>
-        <translation>Уча</translation>
+        <translation type="unfinished">Уча</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Shopping</source>
-        <translation>Пазарувам</translation>
+        <translation type="unfinished">Пазарувам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Feeling sick</source>
-        <translation>Боледувам</translation>
+        <translation type="unfinished">Боледувам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sleeping</source>
-        <translation>Спя</translation>
+        <translation type="unfinished">Спя</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Surfing</source>
-        <translation>Сърфирам</translation>
+        <translation type="unfinished">Сърфирам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Browsing</source>
-        <translation>Ровя се в нета</translation>
+        <translation type="unfinished">Ровя се в нета</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Working</source>
-        <translation>Бачкам</translation>
+        <translation type="unfinished">Бачкам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Typing</source>
-        <translation>Набирам</translation>
+        <translation type="unfinished">Набирам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Picnic</source>
-        <translation>На тиферич</translation>
+        <translation type="unfinished">На тиферич</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cooking</source>
-        <translation>Готвя</translation>
+        <translation type="unfinished">Готвя</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Smoking</source>
-        <translation>Пуша</translation>
+        <translation type="unfinished">Пуша</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>I&apos;m high</source>
-        <translation>Надрусан съм</translation>
+        <translation type="unfinished">Надрусан съм</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>On WC</source>
-        <translation>Друсам крушата</translation>
+        <translation type="unfinished">Друсам крушата</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>To be or not to be</source>
-        <translation>Да бъда или да не бъда</translation>
+        <translation type="unfinished">Да бъда или да не бъда</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Watching pro7 on TV</source>
-        <translation>Гледам PRO7 по телевизията</translation>
+        <translation type="unfinished">Гледам PRO7 по телевизията</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Love</source>
-        <translation>Влюбен съм</translation>
+        <translation type="unfinished">Влюбен съм</translation>
     </message>
     <message>
         <location line="+172"/>
         <source>X-Status</source>
-        <translation>Разширен статус</translation>
+        <translation type="unfinished">Разширен статус</translation>
     </message>
 </context>
 <context>

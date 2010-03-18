@@ -70,7 +70,7 @@
         <translation type="obsolete">Руслан Нигматуллин</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/jplugin.cpp" line="+24"/>
+        <location filename="../../protocols/jabber/src/jplugin.cpp" line="+25"/>
         <source>Denis Daschenko</source>
         <translation>Денис Дасченко</translation>
     </message>
@@ -251,29 +251,29 @@
     </message>
     <message>
         <location line="+75"/>
-        <location line="+130"/>
+        <location line="+134"/>
         <source>Bookmarks:</source>
         <translation>Отметки:</translation>
     </message>
     <message>
-        <location line="-114"/>
-        <location line="+146"/>
+        <location line="-118"/>
+        <location line="+150"/>
         <source>Conference:</source>
         <translation>Конференция:</translation>
     </message>
     <message>
-        <location line="-126"/>
-        <location line="+142"/>
+        <location line="-130"/>
+        <location line="+146"/>
         <source>Nick:</source>
         <translation>Псевдоним:</translation>
     </message>
     <message>
-        <location line="-126"/>
+        <location line="-130"/>
         <source>Password</source>
         <translation>Парола</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="+20"/>
         <source>Bookmark&apos;s name:</source>
         <translation>Име на отметката:</translation>
     </message>
@@ -303,7 +303,7 @@
         <translation>Парола:</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+14"/>
         <source>Auto join</source>
         <translation>Автоматично присъединяване</translation>
     </message>
@@ -331,9 +331,14 @@
         <translation>XML конзола</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+25"/>
+        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+26"/>
         <source>Service discovery</source>
         <translation>Откриване на услуги</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucjoinmodule.cpp" line="+16"/>
+        <source>Join groupchat</source>
+        <translation>Присъединяване към групов разговор</translation>
     </message>
 </context>
 <context>
@@ -654,7 +659,7 @@
 <context>
     <name>Jabber::JInviteManager</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jinvitemanager.cpp" line="+32"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jinvitemanager.cpp" line="+34"/>
         <source>User %1 invite you
 to conference %2</source>
         <translation>Потребителят %1 ви кани
@@ -681,6 +686,14 @@ Accept invitation?</source>
     </message>
 </context>
 <context>
+    <name>Jabber::JMUCJoin</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucjoin.cpp" line="+23"/>
+        <source>Join groupchat</source>
+        <translation>Присъединяване към групов разговор</translation>
+    </message>
+</context>
+<context>
     <name>Jabber::JServiceBrowser</name>
     <message>
         <source>&lt;br/&gt;&lt;b&gt;Identities:&lt;/b&gt;&lt;br/&gt;</source>
@@ -692,7 +705,7 @@ Accept invitation?</source>
         <translation>Търсене на услуги</translation>
     </message>
     <message>
-        <location line="+76"/>
+        <location line="+75"/>
         <source>category: </source>
         <translation>категория:</translation>
     </message>
@@ -1242,6 +1255,16 @@ Accept invitation?</source>
         <location line="+1"/>
         <source>Implementation of service browser</source>
         <translation>Реализация на разглеждане на услуги</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Jabber MUC Join Window</source>
+        <translation>Прозорец за присъединяване към Jabber групов разговор</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Implementation of groupchat join window</source>
+        <translation>Реализация на прозорец за присъединяване към групов разговор</translation>
     </message>
     <message>
         <source>Module-based realization of Jabber protocol</source>
@@ -2276,7 +2299,7 @@ Accept invitation?</source>
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../protocols/jabber/src/jplugin.cpp" line="-42"/>
+        <location filename="../../protocols/jabber/src/jplugin.cpp" line="-46"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
