@@ -123,13 +123,16 @@
         <translation type="obsolete">Основни действия</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+64"/>
-        <location line="+2"/>
         <source>Testing action</source>
-        <translation>Пробно действие</translation>
+        <translation type="obsolete">Пробно действие</translation>
     </message>
     <message>
-        <location line="+20"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+66"/>
+        <source>Emoticons</source>
+        <translation>Емотикони</translation>
+    </message>
+    <message>
+        <location line="+29"/>
         <source>Ctrl+Return</source>
         <comment>Send message</comment>
         <translation>Ctrl+Return</translation>
@@ -949,14 +952,17 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleTagsEditor</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simpletagseditor/simpletagseditor.cpp" line="+16"/>
         <source>Edit tags</source>
-        <translation>Редактиране на етикети</translation>
+        <translation type="obsolete">Редактиране на етикети</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Add tag</source>
-        <translation>Добавяне на етикет</translation>
+        <translation type="obsolete">Добавяне на етикет</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/contactlist/simpletagseditor/simpletagseditor.cpp" line="+16"/>
+        <source>Edit tags for %1</source>
+        <translation>Редактиране на етикети на %1</translation>
     </message>
 </context>
 <context>
@@ -2222,14 +2228,17 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>SimpleTagsEditor</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simpletagseditor/simpletagseditor.ui" line="+14"/>
         <source>Form</source>
-        <translation>Етикет</translation>
+        <translation type="obsolete">Етикет</translation>
     </message>
     <message>
-        <location line="+32"/>
         <source>Name</source>
-        <translation>Име</translation>
+        <translation type="obsolete">Име</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/contactlist/simpletagseditor/simpletagseditor.ui" line="+39"/>
+        <source>Add</source>
+        <translation>Добавяне</translation>
     </message>
 </context>
 <context>
