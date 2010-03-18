@@ -201,7 +201,7 @@
     <message>
         <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+38"/>
         <source>Alexey Ignatiev</source>
-        <translation type="unfinished">Алексей Игнатиев</translation>
+        <translation>Алексей Игнатиев</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3257,13 +3257,13 @@
     <message>
         <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-6"/>
         <source>OscarIdentify</source>
-        <translation type="unfinished">Oscar идентификация</translation>
+        <translation>Oscar идентификация</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+9"/>
         <source>Client identificaton for oscar contacts</source>
-        <translation type="unfinished">Идентификация на клиента за Oscar контактите</translation>
+        <translation>Идентификация на клиента за Oscar контактите</translation>
     </message>
     <message>
         <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-6"/>
@@ -3312,13 +3312,13 @@
     <message>
         <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-7"/>
         <source>OscarXStatus</source>
-        <translation type="unfinished">Разширен Oscar статус</translation>
+        <translation>Разширен Oscar статус</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+7"/>
         <source>Additional statuses for oscar protocol</source>
-        <translation type="unfinished">Допълнителни статуси за Oscar протокола</translation>
+        <translation>Допълнителни статуси за Oscar протокола</translation>
     </message>
 </context>
 <context>
@@ -3401,7 +3401,7 @@
     <message>
         <location line="+2"/>
         <source>In local permit/deny (recipient blocked)</source>
-        <translation type="unfinished">Получателят е блокиран</translation>
+        <translation>Получателят е блокиран</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3561,27 +3561,27 @@
     <message>
         <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+15"/>
         <source>Angry</source>
-        <translation type="unfinished">Бесен</translation>
+        <translation>Бесен</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Depression</source>
-        <translation type="unfinished">Депресиран</translation>
+        <translation>Депресиран</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>At home</source>
-        <translation type="unfinished">Вкъщи</translation>
+        <translation>Вкъщи</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>At work</source>
-        <translation type="unfinished">На работа</translation>
+        <translation>На работа</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Eating</source>
-        <translation type="unfinished">Хапващ</translation>
+        <translation>Хапващ</translation>
     </message>
 </context>
 <context>
@@ -3644,167 +3644,167 @@
     <message>
         <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-122"/>
         <source>Angry</source>
-        <translation type="unfinished">Бесен съм</translation>
+        <translation>Бесен съм</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Taking a bath</source>
-        <translation type="unfinished">В банята съм</translation>
+        <translation>В банята съм</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Tired</source>
-        <translation type="unfinished">Уморен съм</translation>
+        <translation>Уморен съм</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Party</source>
-        <translation type="unfinished">Купонясвам</translation>
+        <translation>Купонясвам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Drinking beer</source>
-        <translation type="unfinished">Жуля бира</translation>
+        <translation>Жуля бира</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Thinking</source>
-        <translation type="unfinished">Размишлявам</translation>
+        <translation>Размишлявам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Eating</source>
-        <translation type="unfinished">Хапвам</translation>
+        <translation>Хапвам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Watching TV</source>
-        <translation type="unfinished">Гледам телевизия</translation>
+        <translation>Гледам телевизия</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Meeting</source>
-        <translation type="unfinished">На среща съм</translation>
+        <translation>На среща съм</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Coffee</source>
-        <translation type="unfinished">Жулвам кафенце</translation>
+        <translation>Жулвам кафенце</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Listening to music</source>
-        <translation type="unfinished">Слушам музика</translation>
+        <translation>Слушам музика</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Business</source>
-        <translation type="unfinished">Имам работа</translation>
+        <translation>Имам работа</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Shooting</source>
-        <translation type="unfinished">Снимам</translation>
+        <translation>Снимам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Having fun</source>
-        <translation type="unfinished">Забавлявам се</translation>
+        <translation>Забавлявам се</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>On the phone</source>
-        <translation type="unfinished">На телефона</translation>
+        <translation>На телефона</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Gaming</source>
-        <translation type="unfinished">Играя</translation>
+        <translation>Играя</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Studying</source>
-        <translation type="unfinished">Уча</translation>
+        <translation>Уча</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Shopping</source>
-        <translation type="unfinished">Пазарувам</translation>
+        <translation>Пазарувам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Feeling sick</source>
-        <translation type="unfinished">Боледувам</translation>
+        <translation>Боледувам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sleeping</source>
-        <translation type="unfinished">Спя</translation>
+        <translation>Спя</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Surfing</source>
-        <translation type="unfinished">Сърфирам</translation>
+        <translation>Сърфирам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Browsing</source>
-        <translation type="unfinished">Ровя се в нета</translation>
+        <translation>Ровя се в нета</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Working</source>
-        <translation type="unfinished">Бачкам</translation>
+        <translation>Бачкам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Typing</source>
-        <translation type="unfinished">Набирам</translation>
+        <translation>Набирам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Picnic</source>
-        <translation type="unfinished">На тиферич</translation>
+        <translation>На тиферич</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cooking</source>
-        <translation type="unfinished">Готвя</translation>
+        <translation>Готвя</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Smoking</source>
-        <translation type="unfinished">Пуша</translation>
+        <translation>Пуша</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>I&apos;m high</source>
-        <translation type="unfinished">Надрусан съм</translation>
+        <translation>Надрусан съм</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>On WC</source>
-        <translation type="unfinished">Друсам крушата</translation>
+        <translation>Друсам крушата</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>To be or not to be</source>
-        <translation type="unfinished">Да бъда или да не бъда</translation>
+        <translation>Да бъда или да не бъда</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Watching pro7 on TV</source>
-        <translation type="unfinished">Гледам PRO7 по телевизията</translation>
+        <translation>Гледам PRO7 по телевизията</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Love</source>
-        <translation type="unfinished">Влюбен съм</translation>
+        <translation>Влюбен съм</translation>
     </message>
     <message>
         <location line="+172"/>
         <source>X-Status</source>
-        <translation type="unfinished">Разширен статус</translation>
+        <translation>Разширен статус</translation>
     </message>
 </context>
 <context>
