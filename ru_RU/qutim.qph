@@ -1,0 +1,247 @@
+<!DOCTYPE QPH>
+<QPH language="ru_RU">
+<phrase>
+    <source>Name:</source>
+    <target>Имя:</target>
+</phrase>
+<phrase>
+    <source>Animation speed:</source>
+    <target>Скорость анимации:</target>
+</phrase>
+<phrase>
+    <source>No Animation</source>
+    <target>Без анимации</target>
+</phrase>
+<phrase>
+    <source>Very fast</source>
+    <target>Очень быстро</target>
+</phrase>
+<phrase>
+    <source>Fast</source>
+    <target>Быстро</target>
+</phrase>
+<phrase>
+    <source>Normal</source>
+    <target>Нормально</target>
+</phrase>
+<phrase>
+    <source>Slow</source>
+    <target>Медленно</target>
+</phrase>
+<phrase>
+    <source>Very slow</source>
+    <target>Адски медленно</target>
+</phrase>
+<phrase>
+    <source>Custom</source>
+    <target>Иная скорость</target>
+</phrase>
+<phrase>
+    <source>Notification types</source>
+    <target>Уведомления</target>
+</phrase>
+<phrase>
+    <source>Emoticons</source>
+    <target>Смайлы</target>
+</phrase>
+<phrase>
+    <source>Send message</source>
+    <target>Отправить сообщение</target>
+</phrase>
+<phrase>
+    <source>Rename contact</source>
+    <target>Переименовать</target>
+</phrase>
+<phrase>
+    <source>Edit tags</source>
+    <target>Исменить теги</target>
+</phrase>
+<phrase>
+    <source>Hide offline</source>
+    <target>Скрыть отключенных</target>
+</phrase>
+<phrase>
+    <source>Remove account</source>
+    <target>Удалить аккаунт</target>
+</phrase>
+<phrase>
+    <source>Noname</source>
+    <target>Безымяшка</target>
+</phrase>
+<phrase>
+    <source>Unable to create chat session</source>
+    <target>Не могу начать сессию чата</target>
+</phrase>
+<phrase>
+    <source>Hello!</source>
+    <target>Привет!</target>
+</phrase>
+<phrase>
+    <source>How are you?</source>
+    <target>Как дела?</target>
+</phrase>
+<phrase>
+    <source>I am fine!</source>
+    <target>Я в порядке!</target>
+</phrase>
+<phrase>
+    <source>/me is thinking!</source>
+    <target>/me думаю!</target>
+</phrase>
+<phrase>
+    <source>Vasya is reading you mind</source>
+    <target>Васяня читает твои мысли</target>
+</phrase>
+<phrase>
+    <source>Invalid name</source>
+    <target>Неправильное име</target>
+</phrase>
+<phrase>
+    <source>Name can not be empty!</source>
+    <target>Имя не может быть пустым!</target>
+</phrase>
+<phrase>
+    <source>Incorrect password</source>
+    <target>Неверный пароль</target>
+</phrase>
+<phrase>
+    <source>Choose profile:</source>
+    <target>Выберите профиль:</target>
+</phrase>
+<phrase>
+    <source>Choose accounts:</source>
+    <target>Выберите учетную запись:</target>
+</phrase>
+<phrase>
+    <source>User online</source>
+    <target>Пользователь в сети</target>
+</phrase>
+<phrase>
+    <source>User offline</source>
+    <target>Пользователь отключен</target>
+</phrase>
+<phrase>
+    <source>Status changed</source>
+    <target>Статус изменен</target>
+</phrase>
+<phrase>
+    <source>User has birthday today!</source>
+    <target>Сегодня день рождения!</target>
+</phrase>
+<phrase>
+    <source>qutIM Launched</source>
+    <target>кутим запущен</target>
+</phrase>
+<phrase>
+    <source>Message recieved</source>
+    <target>Прнято сообщение</target>
+</phrase>
+<phrase>
+    <source>Message sent</source>
+    <target>Сообщение отправленно</target>
+</phrase>
+<phrase>
+    <source>System notification</source>
+    <target>Системное уведомление</target>
+</phrase>
+<phrase>
+    <source>Typing</source>
+    <target>Печатаю</target>
+</phrase>
+<phrase>
+    <source>Message blocked</source>
+    <target>Сообщение заблокировано</target>
+</phrase>
+<phrase>
+    <source>Count</source>
+    <target>Количество</target>
+</phrase>
+<phrase>
+    <source>Nick</source>
+    <target>Ник</target>
+</phrase>
+<phrase>
+    <source>Age</source>
+    <target>Возраст</target>
+</phrase>
+<phrase>
+    <source>Authorization</source>
+    <target>Авторизация</target>
+</phrase>
+<phrase>
+    <source>Age</source>
+    <target>Возраст</target>
+</phrase>
+<phrase>
+    <source>Join groupchat</source>
+    <target>Войти в конференцию</target>
+</phrase>
+<phrase>
+    <source>Bookmarks:</source>
+    <target>Закладки:</target>
+</phrase>
+<phrase>
+    <source>Conference:</source>
+    <target>Конференция:</target>
+</phrase>
+<phrase>
+    <source>Nick:</source>
+    <target>Ник:</target>
+</phrase>
+<phrase>
+    <source>Password</source>
+    <target>Пароль</target>
+</phrase>
+<phrase>
+    <source>Join</source>
+    <target>Войти</target>
+</phrase>
+<phrase>
+    <source>Search</source>
+    <target>Поиск</target>
+</phrase>
+<phrase>
+    <source>Save to bookmarks</source>
+    <target>Сохранить в закладках</target>
+</phrase>
+<phrase>
+    <source>Password:</source>
+    <target>Пароль:</target>
+</phrase>
+<phrase>
+    <source>Name:</source>
+    <target>Имя:</target>
+</phrase>
+<phrase>
+    <source>Save</source>
+    <target>Сохранить</target>
+</phrase>
+<phrase>
+    <source>Delete</source>
+    <target>Удалить</target>
+</phrase>
+<phrase>
+    <source>Ok</source>
+    <target>Ок</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>Отмена</target>
+</phrase>
+<phrase>
+    <source>Save password</source>
+    <target>Сохранить пароль</target>
+</phrase>
+<phrase>
+    <source>About</source>
+    <target>О плагине</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>Отменить</target>
+</phrase>
+<phrase>
+    <source>Clipboard</source>
+    <target>Ссылку в буфер</target>
+</phrase>
+</QPH>
