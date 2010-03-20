@@ -4,7 +4,7 @@
 <context>
     <name>YandexNarodAuthorizator</name>
     <message>
-        <location filename="../../qutim/plugins/plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="+70"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="+70"/>
         <source>Has no login or password</source>
         <translation>Липсват потребителско име и парола</translation>
     </message>
@@ -22,7 +22,7 @@
 <context>
     <name>YandexNarodManager</name>
     <message>
-        <location filename="../../qutim/plugins/plugins/yandexnarod/src/yandexnarodmanage.cpp" line="+25"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnarodmanage.cpp" line="+25"/>
         <source>Yandex.Narod file manager</source>
         <translation>Yandex.Narod файлов организатор</translation>
     </message>
@@ -34,7 +34,7 @@
 <context>
     <name>YandexNarodNetMan</name>
     <message>
-        <location filename="../../qutim/plugins/plugins/yandexnarod/src/yandexnarodnetman.cpp" line="+139"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnarodnetman.cpp" line="+139"/>
         <source>Authorizing...</source>
         <translation>Удостоверяване...</translation>
     </message>
@@ -53,7 +53,7 @@
 <context>
     <name>YandexNarodSettingsClass</name>
     <message>
-        <location filename="../../qutim/plugins/plugins/yandexnarod/src/yandexnarodsettings.ui" line="+14"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnarodsettings.ui" line="+14"/>
         <location line="+10"/>
         <source>Settings</source>
         <translation>Настройки</translation>
@@ -141,7 +141,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>YandexNarodUploadDialog</name>
     <message>
-        <location filename="../../qutim/plugins/plugins/yandexnarod/src/uploaddialog.cpp" line="+116"/>
+        <location filename="../../plugins/yandexnarod/src/uploaddialog.cpp" line="+118"/>
         <source>Choose file for %1</source>
         <translation>Избор на файл за %1</translation>
     </message>
@@ -151,7 +151,7 @@ p, li { white-space: pre-wrap; }
         <translation>Избор на файл за качване</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+15"/>
         <source>Authorizing...</source>
         <translation>Удостоверяване...</translation>
     </message>
@@ -161,15 +161,30 @@ p, li { white-space: pre-wrap; }
         <translation>Получаване на хранилището...</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+25"/>
         <source>Uploading...</source>
         <translation>Качване...</translation>
+    </message>
+    <message>
+        <location line="+94"/>
+        <source>Will finish in: %1m %2s</source>
+        <translation>Приключване след %1&quot; %2&apos;</translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Upload complete.</source>
+        <translation>Качването приключи.</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Finish</source>
+        <translation>Приключване</translation>
     </message>
 </context>
 <context>
     <name>requestAuthDialogClass</name>
     <message>
-        <location filename="../../qutim/plugins/plugins/yandexnarod/src/requestauthdialog.ui" line="+26"/>
+        <location filename="../../plugins/yandexnarod/src/requestauthdialog.ui" line="+26"/>
         <source>Authorization</source>
         <translation>Удостоверяване</translation>
     </message>
@@ -213,7 +228,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>uploadDialogClass</name>
     <message>
-        <location filename="../../qutim/plugins/plugins/yandexnarod/src/uploaddialog.ui" line="+19"/>
+        <location filename="../../plugins/yandexnarod/src/uploaddialog.ui" line="+20"/>
         <source>Uploading...</source>
         <translation></translation>
     </message>
@@ -234,8 +249,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+7"/>
+        <source>Will finish in:</source>
+        <translation>Приключване след:</translation>
+    </message>
+    <message>
         <source>Elapsed time:</source>
-        <translation>Изтекло време:</translation>
+        <translation type="obsolete">Изтекло време:</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -262,7 +281,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>yandexnarodManageClass</name>
     <message>
-        <location filename="../../qutim/plugins/plugins/yandexnarod/src/yandexnarodmanage.ui" line="+20"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnarodmanage.ui" line="+20"/>
         <source>Form</source>
         <translation>От</translation>
     </message>

@@ -70,7 +70,7 @@
         <translation type="obsolete">Руслан Нигматуллин</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/jplugin.cpp" line="+24"/>
+        <location filename="../../protocols/jabber/src/jplugin.cpp" line="+25"/>
         <source>Denis Daschenko</source>
         <translation>Денис Дасченко</translation>
     </message>
@@ -243,6 +243,82 @@
     </message>
 </context>
 <context>
+    <name>JMUCJoin</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucjoin.ui" line="+14"/>
+        <source>Dialog</source>
+        <translation>Групов разговор</translation>
+    </message>
+    <message>
+        <location line="+75"/>
+        <location line="+134"/>
+        <source>Bookmarks:</source>
+        <translation>Отметки:</translation>
+    </message>
+    <message>
+        <location line="-118"/>
+        <location line="+150"/>
+        <source>Conference:</source>
+        <translation>Конференция:</translation>
+    </message>
+    <message>
+        <location line="-130"/>
+        <location line="+146"/>
+        <source>Nick:</source>
+        <translation>Псевдоним:</translation>
+    </message>
+    <message>
+        <location line="-130"/>
+        <source>Password</source>
+        <translation>Парола</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Bookmark&apos;s name:</source>
+        <translation>Име на отметката:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Save to bookmarks</source>
+        <translation>Запазване в отметки</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Search</source>
+        <translation>Търсене</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Join</source>
+        <translation>Присъединяване</translation>
+    </message>
+    <message>
+        <location line="+35"/>
+        <source>Name:</source>
+        <translation>Име:</translation>
+    </message>
+    <message>
+        <location line="+48"/>
+        <source>Password:</source>
+        <translation>Парола:</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Auto join</source>
+        <translation>Автоматично присъединяване</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Save</source>
+        <translation>Запис</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Delete</source>
+        <translation>Изтриване</translation>
+    </message>
+</context>
+<context>
     <name>Jabber</name>
     <message>
         <location filename="../../protocols/jabber/src/protocol/modules/adhoc/jadhocmodule.cpp" line="+32"/>
@@ -255,9 +331,14 @@
         <translation>XML конзола</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+25"/>
+        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+26"/>
         <source>Service discovery</source>
         <translation>Откриване на услуги</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucjoinmodule.cpp" line="+16"/>
+        <source>Join groupchat</source>
+        <translation>Присъединяване към групов разговор</translation>
     </message>
 </context>
 <context>
@@ -576,6 +657,43 @@
     </message>
 </context>
 <context>
+    <name>Jabber::JInviteManager</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jinvitemanager.cpp" line="+34"/>
+        <source>User %1 invite you
+to conference %2</source>
+        <translation>Потребителят %1 ви кани
+в конференцията %2</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>
+with reason &quot;%1&quot;</source>
+        <translation>
+по следната причина &quot;%1&quot;</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>
+Accept invitation?</source>
+        <translation>
+Приемате ли поканата?</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Invite to groupchat</source>
+        <translation>Показа на групов разговор</translation>
+    </message>
+</context>
+<context>
+    <name>Jabber::JMUCJoin</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucjoin.cpp" line="+23"/>
+        <source>Join groupchat</source>
+        <translation>Присъединяване към групов разговор</translation>
+    </message>
+</context>
+<context>
     <name>Jabber::JServiceBrowser</name>
     <message>
         <source>&lt;br/&gt;&lt;b&gt;Identities:&lt;/b&gt;&lt;br/&gt;</source>
@@ -587,7 +705,7 @@
         <translation>Търсене на услуги</translation>
     </message>
     <message>
-        <location line="+76"/>
+        <location line="+75"/>
         <source>category: </source>
         <translation>категория:</translation>
     </message>
@@ -1137,6 +1255,16 @@
         <location line="+1"/>
         <source>Implementation of service browser</source>
         <translation>Реализация на разглеждане на услуги</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Jabber MUC Join Window</source>
+        <translation>Прозорец за присъединяване към Jabber групов разговор</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Implementation of groupchat join window</source>
+        <translation>Реализация на прозорец за присъединяване към групов разговор</translation>
     </message>
     <message>
         <source>Module-based realization of Jabber protocol</source>
@@ -2171,7 +2299,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../protocols/jabber/src/jplugin.cpp" line="-42"/>
+        <location filename="../../protocols/jabber/src/jplugin.cpp" line="-46"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
