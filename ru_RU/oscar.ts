@@ -42,102 +42,102 @@
 <context>
     <name>Affiliation</name>
     <message>
-        <location filename="../../src/metainfo.cpp" line="495"/>
+        <location filename="../../src/metainfofields_p.h" line="500"/>
         <source>Alumni Org.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="496"/>
+        <location filename="../../src/metainfofields_p.h" line="501"/>
         <source>Charity Org.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="497"/>
+        <location filename="../../src/metainfofields_p.h" line="502"/>
         <source>Club/Social Org.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="498"/>
+        <location filename="../../src/metainfofields_p.h" line="503"/>
         <source>Community Org.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="499"/>
+        <location filename="../../src/metainfofields_p.h" line="504"/>
         <source>Cultural Org.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="500"/>
+        <location filename="../../src/metainfofields_p.h" line="505"/>
         <source>Fan Clubs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="501"/>
+        <location filename="../../src/metainfofields_p.h" line="506"/>
         <source>Fraternity/Sorority</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="502"/>
+        <location filename="../../src/metainfofields_p.h" line="507"/>
         <source>Hobbyists Org.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="503"/>
+        <location filename="../../src/metainfofields_p.h" line="508"/>
         <source>International Org.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="504"/>
+        <location filename="../../src/metainfofields_p.h" line="509"/>
         <source>Nature and Environment Org.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="505"/>
+        <location filename="../../src/metainfofields_p.h" line="510"/>
         <source>Professional Org.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="506"/>
+        <location filename="../../src/metainfofields_p.h" line="511"/>
         <source>Scientific/Technical Org.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="507"/>
+        <location filename="../../src/metainfofields_p.h" line="512"/>
         <source>Self Improvement Group</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="508"/>
+        <location filename="../../src/metainfofields_p.h" line="513"/>
         <source>Spiritual/Religious Org.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="509"/>
+        <location filename="../../src/metainfofields_p.h" line="514"/>
         <source>Sports Org.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="510"/>
+        <location filename="../../src/metainfofields_p.h" line="515"/>
         <source>Support Org.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="511"/>
+        <location filename="../../src/metainfofields_p.h" line="516"/>
         <source>Trade and Business Org.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="512"/>
+        <location filename="../../src/metainfofields_p.h" line="517"/>
         <source>Union</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="513"/>
+        <location filename="../../src/metainfofields_p.h" line="518"/>
         <source>Volunteer Org.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="514"/>
+        <location filename="../../src/metainfofields_p.h" line="519"/>
         <source>Other</source>
         <translation type="unfinished">Иное</translation>
     </message>
@@ -145,37 +145,37 @@
 <context>
     <name>Age</name>
     <message>
-        <location filename="../../src/metainfo.cpp" line="521"/>
+        <location filename="../../src/metainfofields_p.h" line="526"/>
         <source>13-17</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="522"/>
+        <location filename="../../src/metainfofields_p.h" line="527"/>
         <source>18-22</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="523"/>
+        <location filename="../../src/metainfofields_p.h" line="528"/>
         <source>23-29</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="524"/>
+        <location filename="../../src/metainfofields_p.h" line="529"/>
         <source>30-39</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="525"/>
+        <location filename="../../src/metainfofields_p.h" line="530"/>
         <source>40-49</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="526"/>
+        <location filename="../../src/metainfofields_p.h" line="531"/>
         <source>50-59</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="527"/>
+        <location filename="../../src/metainfofields_p.h" line="532"/>
         <source>60-above</source>
         <translation>60-и старше</translation>
     </message>
@@ -183,12 +183,12 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="39"/>
+        <location filename="../../src/oscarplugin.cpp" line="40"/>
         <source>Ruslan Nigmatullin</source>
         <translation type="unfinished">Руслан Нигматуллин</translation>
     </message>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="42"/>
+        <location filename="../../src/oscarplugin.cpp" line="43"/>
         <source>Alexey Prokhin</source>
         <translation type="unfinished">Алексей Прохин</translation>
     </message>
@@ -196,122 +196,122 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../src/connection.cpp" line="243"/>
+        <location filename="../../src/connection.cpp" line="248"/>
         <source>Invalid nick or password</source>
         <translation type="unfinished">Плохой ник или пароль</translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="245"/>
+        <location filename="../../src/connection.cpp" line="250"/>
         <source>Service temporarily unavailable</source>
         <translation type="unfinished">Сервис временно не доступен</translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="247"/>
+        <location filename="../../src/connection.cpp" line="252"/>
         <source>Incorrect nick or password</source>
         <translation type="unfinished">Некорректный ник или пароль</translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="249"/>
+        <location filename="../../src/connection.cpp" line="254"/>
         <source>Mismatch nick or password</source>
         <translation type="unfinished">Неверный ник или пароль</translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="251"/>
+        <location filename="../../src/connection.cpp" line="256"/>
         <source>Internal client error (bad input to authorizer)</source>
         <translation type="unfinished">Внутренняя ошибка клиента (введены неверные данные авторизации)</translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="253"/>
+        <location filename="../../src/connection.cpp" line="258"/>
         <source>Invalid account</source>
         <translation type="unfinished">Плохой аккаунт</translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="255"/>
+        <location filename="../../src/connection.cpp" line="260"/>
         <source>Deleted account</source>
         <translation type="unfinished">Удаленный аккаунт</translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="257"/>
+        <location filename="../../src/connection.cpp" line="262"/>
         <source>Expired account</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="259"/>
+        <location filename="../../src/connection.cpp" line="264"/>
         <source>No access to database</source>
         <translation type="unfinished">Нет доступа к базе</translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="261"/>
+        <location filename="../../src/connection.cpp" line="266"/>
         <source>No access to resolver</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="263"/>
+        <location filename="../../src/connection.cpp" line="268"/>
         <source>Invalid database fields</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="265"/>
+        <location filename="../../src/connection.cpp" line="270"/>
         <source>Bad database status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="267"/>
+        <location filename="../../src/connection.cpp" line="272"/>
         <source>Bad resolver status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="269"/>
+        <location filename="../../src/connection.cpp" line="274"/>
         <source>Internal error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="271"/>
+        <location filename="../../src/connection.cpp" line="276"/>
         <source>Service temporarily offline</source>
         <translation type="unfinished">Сервис временно отключен</translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="273"/>
+        <location filename="../../src/connection.cpp" line="278"/>
         <source>Suspended account</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="285"/>
+        <location filename="../../src/connection.cpp" line="290"/>
         <source>The users num connected from this IP has reached the maximum (reservation)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="305"/>
+        <location filename="../../src/connection.cpp" line="310"/>
         <source>Another client is loggin with this uin</source>
         <translation type="unfinished">Другой клиент вошел с этим же номером</translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="307"/>
+        <location filename="../../src/connection.cpp" line="312"/>
         <source>Unknown error</source>
         <translation type="unfinished">Неизвестная ошибка</translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="275"/>
+        <location filename="../../src/connection.cpp" line="280"/>
         <source>DB send error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="277"/>
+        <location filename="../../src/connection.cpp" line="282"/>
         <source>DB link error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="279"/>
+        <location filename="../../src/connection.cpp" line="284"/>
         <source>Reservation map error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="281"/>
+        <location filename="../../src/connection.cpp" line="286"/>
         <source>Reservation link error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="283"/>
+        <location filename="../../src/connection.cpp" line="288"/>
         <source>The users num connected from this IP has reached the maximum</source>
         <translation type="unfinished">Количество пользователей подключенных с этого IP превысило допустимое</translation>
     </message>
@@ -320,47 +320,47 @@
         <translation type="obsolete">Количество пользователей подключенных с этого IP превысило допустимое (резервировано)</translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="287"/>
+        <location filename="../../src/connection.cpp" line="292"/>
         <source>Rate limit exceeded (reservation). Please try to reconnect in a few minutes</source>
         <translation type="unfinished">Слишком часто подключаетесь (резерв.). Попробуйте подключиться через несколько минут</translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="289"/>
+        <location filename="../../src/connection.cpp" line="294"/>
         <source>User too heavily warned</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="291"/>
+        <location filename="../../src/connection.cpp" line="296"/>
         <source>Reservation timeout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="293"/>
+        <location filename="../../src/connection.cpp" line="298"/>
         <source>You are using an older version of ICQ. Upgrade required</source>
         <translation type="unfinished">Сообщение сервера: Версия клиента ICQ слишком старая, требуется обновление</translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="295"/>
+        <location filename="../../src/connection.cpp" line="300"/>
         <source>You are using an older version of ICQ. Upgrade recommended</source>
         <translation type="unfinished">Сообщение сервера: Версия клиента ICQ слишком старая, рекомендуется обновление</translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="297"/>
+        <location filename="../../src/connection.cpp" line="302"/>
         <source>Rate limit exceeded. Please try to reconnect in a few minutes</source>
         <translation type="unfinished">Слишком часто подключаетесь. Попробуйте подключиться через несколько минут</translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="299"/>
+        <location filename="../../src/connection.cpp" line="304"/>
         <source>Can&apos;t register on the ICQ network. Reconnect in a few minutes</source>
         <translation type="unfinished">Не могу  войти в сеть ICQ. Попробуйте подключиться через несколько минут</translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="301"/>
+        <location filename="../../src/connection.cpp" line="306"/>
         <source>Invalid SecurID</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/connection.cpp" line="303"/>
+        <location filename="../../src/connection.cpp" line="308"/>
         <source>Account suspended because of your age (age &lt; 13)</source>
         <translation type="unfinished">Ваш аккаунт заблокирован по ричине малого (менее 13 лет) возраста</translation>
     </message>
@@ -372,7 +372,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../src/icqcontact.cpp" line="38"/>
+        <location filename="../../src/icqcontact.cpp" line="71"/>
         <source>General</source>
         <translation type="unfinished">Главные</translation>
     </message>
@@ -410,1212 +410,1212 @@
 <context>
     <name>Country</name>
     <message>
-        <location filename="../../src/metainfo.cpp" line="27"/>
+        <location filename="../../src/metainfofields_p.h" line="28"/>
         <source>Other</source>
         <translation type="unfinished">Иное</translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="28"/>
+        <location filename="../../src/metainfofields_p.h" line="29"/>
         <source>Afghanistan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="29"/>
+        <location filename="../../src/metainfofields_p.h" line="30"/>
         <source>Albania</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="30"/>
+        <location filename="../../src/metainfofields_p.h" line="31"/>
         <source>Algeria</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="31"/>
+        <location filename="../../src/metainfofields_p.h" line="32"/>
         <source>Andorra</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="32"/>
+        <location filename="../../src/metainfofields_p.h" line="33"/>
         <source>Angola</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="33"/>
+        <location filename="../../src/metainfofields_p.h" line="34"/>
         <source>Anguilla</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="34"/>
+        <location filename="../../src/metainfofields_p.h" line="35"/>
         <source>Antigua and Barbuda</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="35"/>
+        <location filename="../../src/metainfofields_p.h" line="36"/>
         <source>Antilles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="36"/>
+        <location filename="../../src/metainfofields_p.h" line="37"/>
         <source>Argentina</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="37"/>
+        <location filename="../../src/metainfofields_p.h" line="38"/>
         <source>Armenia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="38"/>
+        <location filename="../../src/metainfofields_p.h" line="39"/>
         <source>Aruba</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="39"/>
+        <location filename="../../src/metainfofields_p.h" line="40"/>
         <source>Ascension Island</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="40"/>
+        <location filename="../../src/metainfofields_p.h" line="41"/>
         <source>Australia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="41"/>
+        <location filename="../../src/metainfofields_p.h" line="42"/>
         <source>Austria</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="42"/>
+        <location filename="../../src/metainfofields_p.h" line="43"/>
         <source>Azerbaijan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="43"/>
+        <location filename="../../src/metainfofields_p.h" line="44"/>
         <source>Bahamas</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="44"/>
+        <location filename="../../src/metainfofields_p.h" line="45"/>
         <source>Bahrain</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="45"/>
+        <location filename="../../src/metainfofields_p.h" line="46"/>
         <source>Bangladesh</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="46"/>
+        <location filename="../../src/metainfofields_p.h" line="47"/>
         <source>Barbados</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="47"/>
+        <location filename="../../src/metainfofields_p.h" line="48"/>
         <source>Barbuda</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="48"/>
+        <location filename="../../src/metainfofields_p.h" line="49"/>
         <source>Belarus</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="49"/>
+        <location filename="../../src/metainfofields_p.h" line="50"/>
         <source>Belgium</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="50"/>
+        <location filename="../../src/metainfofields_p.h" line="51"/>
         <source>Belize</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="51"/>
+        <location filename="../../src/metainfofields_p.h" line="52"/>
         <source>Benin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="52"/>
+        <location filename="../../src/metainfofields_p.h" line="53"/>
         <source>Bermuda</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="53"/>
+        <location filename="../../src/metainfofields_p.h" line="54"/>
         <source>Bhutan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="54"/>
+        <location filename="../../src/metainfofields_p.h" line="55"/>
         <source>Bolivia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="55"/>
+        <location filename="../../src/metainfofields_p.h" line="56"/>
         <source>Bosnia and Herzegovina</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="56"/>
+        <location filename="../../src/metainfofields_p.h" line="57"/>
         <source>Botswana</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="57"/>
+        <location filename="../../src/metainfofields_p.h" line="58"/>
         <source>Brazil</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="58"/>
+        <location filename="../../src/metainfofields_p.h" line="59"/>
         <source>British Virgin Islands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="59"/>
+        <location filename="../../src/metainfofields_p.h" line="60"/>
         <source>Brunei</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="60"/>
+        <location filename="../../src/metainfofields_p.h" line="61"/>
         <source>Bulgaria</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="61"/>
+        <location filename="../../src/metainfofields_p.h" line="62"/>
         <source>Burkina Faso</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="62"/>
+        <location filename="../../src/metainfofields_p.h" line="63"/>
         <source>Burundi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="63"/>
+        <location filename="../../src/metainfofields_p.h" line="64"/>
         <source>Cambodia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="64"/>
+        <location filename="../../src/metainfofields_p.h" line="65"/>
         <source>Cameroon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="65"/>
+        <location filename="../../src/metainfofields_p.h" line="66"/>
         <source>Canada</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="66"/>
+        <location filename="../../src/metainfofields_p.h" line="67"/>
         <source>Canary Islands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="67"/>
+        <location filename="../../src/metainfofields_p.h" line="68"/>
         <source>Cape Verde Islands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="68"/>
+        <location filename="../../src/metainfofields_p.h" line="69"/>
         <source>Cayman Islands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="69"/>
+        <location filename="../../src/metainfofields_p.h" line="70"/>
         <source>Central African Republic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="70"/>
+        <location filename="../../src/metainfofields_p.h" line="71"/>
         <source>Chad</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="71"/>
+        <location filename="../../src/metainfofields_p.h" line="72"/>
         <source>Chile, Republic of</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="72"/>
+        <location filename="../../src/metainfofields_p.h" line="73"/>
         <source>China</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="73"/>
+        <location filename="../../src/metainfofields_p.h" line="74"/>
         <source>Christmas Island</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="74"/>
+        <location filename="../../src/metainfofields_p.h" line="75"/>
         <source>Cocos (Keeling) Islands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="75"/>
+        <location filename="../../src/metainfofields_p.h" line="76"/>
         <source>Colombia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="76"/>
+        <location filename="../../src/metainfofields_p.h" line="77"/>
         <source>Comoros</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="77"/>
+        <location filename="../../src/metainfofields_p.h" line="78"/>
         <source>Congo, (Republic of the)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="78"/>
+        <location filename="../../src/metainfofields_p.h" line="79"/>
         <source>Congo, Democratic Republic of (Zaire)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="79"/>
+        <location filename="../../src/metainfofields_p.h" line="80"/>
         <source>Cook Islands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="80"/>
+        <location filename="../../src/metainfofields_p.h" line="81"/>
         <source>Costa Rica</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="81"/>
+        <location filename="../../src/metainfofields_p.h" line="82"/>
         <source>Cote d&apos;Ivoire (Ivory Coast)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="82"/>
+        <location filename="../../src/metainfofields_p.h" line="83"/>
         <source>Croatia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="83"/>
+        <location filename="../../src/metainfofields_p.h" line="84"/>
         <source>Cuba</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="84"/>
+        <location filename="../../src/metainfofields_p.h" line="85"/>
         <source>Cyprus</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="85"/>
+        <location filename="../../src/metainfofields_p.h" line="86"/>
         <source>Czech Republic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="86"/>
+        <location filename="../../src/metainfofields_p.h" line="87"/>
         <source>Denmark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="87"/>
+        <location filename="../../src/metainfofields_p.h" line="88"/>
         <source>Diego Garcia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="88"/>
+        <location filename="../../src/metainfofields_p.h" line="89"/>
         <source>Djibouti</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="89"/>
+        <location filename="../../src/metainfofields_p.h" line="90"/>
         <source>Dominica</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="90"/>
+        <location filename="../../src/metainfofields_p.h" line="91"/>
         <source>Dominican Republic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="91"/>
+        <location filename="../../src/metainfofields_p.h" line="92"/>
         <source>Ecuador</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="92"/>
+        <location filename="../../src/metainfofields_p.h" line="93"/>
         <source>Egypt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="93"/>
+        <location filename="../../src/metainfofields_p.h" line="94"/>
         <source>El Salvador</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="94"/>
+        <location filename="../../src/metainfofields_p.h" line="95"/>
         <source>Equatorial Guinea</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="95"/>
+        <location filename="../../src/metainfofields_p.h" line="96"/>
         <source>Eritrea</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="96"/>
+        <location filename="../../src/metainfofields_p.h" line="97"/>
         <source>Estonia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="97"/>
+        <location filename="../../src/metainfofields_p.h" line="98"/>
         <source>Ethiopia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="98"/>
+        <location filename="../../src/metainfofields_p.h" line="99"/>
         <source>Faeroe Islands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="99"/>
+        <location filename="../../src/metainfofields_p.h" line="100"/>
         <source>Falkland Islands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="100"/>
+        <location filename="../../src/metainfofields_p.h" line="101"/>
         <source>Fiji</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="101"/>
+        <location filename="../../src/metainfofields_p.h" line="102"/>
         <source>Finland</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="102"/>
+        <location filename="../../src/metainfofields_p.h" line="103"/>
         <source>France</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="103"/>
+        <location filename="../../src/metainfofields_p.h" line="104"/>
         <source>French Antilles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="104"/>
+        <location filename="../../src/metainfofields_p.h" line="105"/>
         <source>French Guiana</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="105"/>
+        <location filename="../../src/metainfofields_p.h" line="106"/>
         <source>French Polynesia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="106"/>
+        <location filename="../../src/metainfofields_p.h" line="107"/>
         <source>Gabon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="107"/>
+        <location filename="../../src/metainfofields_p.h" line="108"/>
         <source>Gambia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="108"/>
+        <location filename="../../src/metainfofields_p.h" line="109"/>
         <source>Georgia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="109"/>
+        <location filename="../../src/metainfofields_p.h" line="110"/>
         <source>Germany</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="110"/>
+        <location filename="../../src/metainfofields_p.h" line="111"/>
         <source>Ghana</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="111"/>
+        <location filename="../../src/metainfofields_p.h" line="112"/>
         <source>Gibraltar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="112"/>
+        <location filename="../../src/metainfofields_p.h" line="113"/>
         <source>Greece</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="113"/>
+        <location filename="../../src/metainfofields_p.h" line="114"/>
         <source>Greenland</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="114"/>
+        <location filename="../../src/metainfofields_p.h" line="115"/>
         <source>Grenada</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="115"/>
+        <location filename="../../src/metainfofields_p.h" line="116"/>
         <source>Guadeloupe</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="116"/>
+        <location filename="../../src/metainfofields_p.h" line="117"/>
         <source>Guam, US Territory of</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="117"/>
+        <location filename="../../src/metainfofields_p.h" line="118"/>
         <source>Guatemala</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="118"/>
+        <location filename="../../src/metainfofields_p.h" line="119"/>
         <source>Guinea</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="119"/>
+        <location filename="../../src/metainfofields_p.h" line="120"/>
         <source>Guinea-Bissau</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="120"/>
+        <location filename="../../src/metainfofields_p.h" line="121"/>
         <source>Guyana</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="121"/>
+        <location filename="../../src/metainfofields_p.h" line="122"/>
         <source>Haiti</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="122"/>
+        <location filename="../../src/metainfofields_p.h" line="123"/>
         <source>Honduras</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="123"/>
+        <location filename="../../src/metainfofields_p.h" line="124"/>
         <source>Hong Kong</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="124"/>
+        <location filename="../../src/metainfofields_p.h" line="125"/>
         <source>Hungary</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="125"/>
+        <location filename="../../src/metainfofields_p.h" line="126"/>
         <source>Iceland</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="126"/>
+        <location filename="../../src/metainfofields_p.h" line="127"/>
         <source>India</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="127"/>
+        <location filename="../../src/metainfofields_p.h" line="128"/>
         <source>Indonesia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="128"/>
+        <location filename="../../src/metainfofields_p.h" line="129"/>
         <source>Iran (Islamic Republic of)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="129"/>
+        <location filename="../../src/metainfofields_p.h" line="130"/>
         <source>Iraq</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="130"/>
+        <location filename="../../src/metainfofields_p.h" line="131"/>
         <source>Ireland</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="131"/>
+        <location filename="../../src/metainfofields_p.h" line="132"/>
         <source>Israel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="132"/>
+        <location filename="../../src/metainfofields_p.h" line="133"/>
         <source>Italy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="133"/>
+        <location filename="../../src/metainfofields_p.h" line="134"/>
         <source>Jamaica</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="134"/>
+        <location filename="../../src/metainfofields_p.h" line="135"/>
         <source>Japan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="135"/>
+        <location filename="../../src/metainfofields_p.h" line="136"/>
         <source>Jordan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="136"/>
+        <location filename="../../src/metainfofields_p.h" line="137"/>
         <source>Kazakhstan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="137"/>
+        <location filename="../../src/metainfofields_p.h" line="138"/>
         <source>Kenya</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="138"/>
+        <location filename="../../src/metainfofields_p.h" line="139"/>
         <source>Kiribati</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="139"/>
+        <location filename="../../src/metainfofields_p.h" line="140"/>
         <source>Korea (North Korea), Democratic People&apos;s Republic of</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="140"/>
+        <location filename="../../src/metainfofields_p.h" line="141"/>
         <source>Korea (South Korea), Republic of</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="141"/>
+        <location filename="../../src/metainfofields_p.h" line="142"/>
         <source>Kuwait</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="142"/>
+        <location filename="../../src/metainfofields_p.h" line="143"/>
         <source>Kyrgyzstan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="143"/>
+        <location filename="../../src/metainfofields_p.h" line="144"/>
         <source>Lao People&apos;s Democratic Republic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="144"/>
+        <location filename="../../src/metainfofields_p.h" line="145"/>
         <source>Latvia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="145"/>
+        <location filename="../../src/metainfofields_p.h" line="146"/>
         <source>Lebanon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="146"/>
+        <location filename="../../src/metainfofields_p.h" line="147"/>
         <source>Lesotho</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="147"/>
+        <location filename="../../src/metainfofields_p.h" line="148"/>
         <source>Liberia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="148"/>
+        <location filename="../../src/metainfofields_p.h" line="149"/>
         <source>Libyan Arab Jamahiriya</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="149"/>
+        <location filename="../../src/metainfofields_p.h" line="150"/>
         <source>Liechtenstein</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="150"/>
+        <location filename="../../src/metainfofields_p.h" line="151"/>
         <source>Lithuania</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="151"/>
+        <location filename="../../src/metainfofields_p.h" line="152"/>
         <source>Luxembourg</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="152"/>
+        <location filename="../../src/metainfofields_p.h" line="153"/>
         <source>Macau</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="153"/>
+        <location filename="../../src/metainfofields_p.h" line="154"/>
         <source>Macedonia (F.Y.R.O.M.)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="154"/>
+        <location filename="../../src/metainfofields_p.h" line="155"/>
         <source>Madagascar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="155"/>
+        <location filename="../../src/metainfofields_p.h" line="156"/>
         <source>Malawi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="156"/>
+        <location filename="../../src/metainfofields_p.h" line="157"/>
         <source>Malaysia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="157"/>
+        <location filename="../../src/metainfofields_p.h" line="158"/>
         <source>Maldives</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="158"/>
+        <location filename="../../src/metainfofields_p.h" line="159"/>
         <source>Mali</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="159"/>
+        <location filename="../../src/metainfofields_p.h" line="160"/>
         <source>Malta</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="160"/>
+        <location filename="../../src/metainfofields_p.h" line="161"/>
         <source>Marshall Islands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="161"/>
+        <location filename="../../src/metainfofields_p.h" line="162"/>
         <source>Martinique</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="162"/>
+        <location filename="../../src/metainfofields_p.h" line="163"/>
         <source>Mauritania</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="163"/>
+        <location filename="../../src/metainfofields_p.h" line="164"/>
         <source>Mauritius</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="164"/>
+        <location filename="../../src/metainfofields_p.h" line="165"/>
         <source>Mayotte Island</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="165"/>
+        <location filename="../../src/metainfofields_p.h" line="166"/>
         <source>Mexico</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="166"/>
+        <location filename="../../src/metainfofields_p.h" line="167"/>
         <source>Micronesia, Federated States of</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="167"/>
+        <location filename="../../src/metainfofields_p.h" line="168"/>
         <source>Moldova, Republic of</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="168"/>
+        <location filename="../../src/metainfofields_p.h" line="169"/>
         <source>Monaco</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="169"/>
+        <location filename="../../src/metainfofields_p.h" line="170"/>
         <source>Mongolia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="170"/>
+        <location filename="../../src/metainfofields_p.h" line="171"/>
         <source>Montserrat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="171"/>
+        <location filename="../../src/metainfofields_p.h" line="172"/>
         <source>Morocco</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="172"/>
+        <location filename="../../src/metainfofields_p.h" line="173"/>
         <source>Mozambique</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="173"/>
+        <location filename="../../src/metainfofields_p.h" line="174"/>
         <source>Myanmar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="174"/>
+        <location filename="../../src/metainfofields_p.h" line="175"/>
         <source>Namibia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="175"/>
+        <location filename="../../src/metainfofields_p.h" line="176"/>
         <source>Nauru</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="176"/>
+        <location filename="../../src/metainfofields_p.h" line="177"/>
         <source>Nepal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="177"/>
+        <location filename="../../src/metainfofields_p.h" line="178"/>
         <source>Netherlands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="178"/>
+        <location filename="../../src/metainfofields_p.h" line="179"/>
         <source>Netherlands Antilles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="179"/>
+        <location filename="../../src/metainfofields_p.h" line="180"/>
         <source>Nevis</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="180"/>
+        <location filename="../../src/metainfofields_p.h" line="181"/>
         <source>New Caledonia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="181"/>
+        <location filename="../../src/metainfofields_p.h" line="182"/>
         <source>New Zealand</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="182"/>
+        <location filename="../../src/metainfofields_p.h" line="183"/>
         <source>Nicaragua</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="183"/>
+        <location filename="../../src/metainfofields_p.h" line="184"/>
         <source>Niger</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="184"/>
+        <location filename="../../src/metainfofields_p.h" line="185"/>
         <source>Nigeria</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="185"/>
+        <location filename="../../src/metainfofields_p.h" line="186"/>
         <source>Niue</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="186"/>
+        <location filename="../../src/metainfofields_p.h" line="187"/>
         <source>Norfolk Island</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="187"/>
+        <location filename="../../src/metainfofields_p.h" line="188"/>
         <source>Norway</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="188"/>
+        <location filename="../../src/metainfofields_p.h" line="189"/>
         <source>Oman</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="189"/>
+        <location filename="../../src/metainfofields_p.h" line="190"/>
         <source>Pakistan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="190"/>
+        <location filename="../../src/metainfofields_p.h" line="191"/>
         <source>Palau</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="191"/>
+        <location filename="../../src/metainfofields_p.h" line="192"/>
         <source>Panama</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="192"/>
+        <location filename="../../src/metainfofields_p.h" line="193"/>
         <source>Papua New Guinea</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="193"/>
+        <location filename="../../src/metainfofields_p.h" line="194"/>
         <source>Paraguay</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="194"/>
+        <location filename="../../src/metainfofields_p.h" line="195"/>
         <source>Peru</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="195"/>
+        <location filename="../../src/metainfofields_p.h" line="196"/>
         <source>Philippines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="196"/>
+        <location filename="../../src/metainfofields_p.h" line="197"/>
         <source>Poland</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="197"/>
+        <location filename="../../src/metainfofields_p.h" line="198"/>
         <source>Portugal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="198"/>
+        <location filename="../../src/metainfofields_p.h" line="199"/>
         <source>Puerto Rico, Common Wealth of</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="199"/>
+        <location filename="../../src/metainfofields_p.h" line="200"/>
         <source>Qatar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="200"/>
+        <location filename="../../src/metainfofields_p.h" line="201"/>
         <source>Reunion Island</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="201"/>
+        <location filename="../../src/metainfofields_p.h" line="202"/>
         <source>Romania</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="202"/>
+        <location filename="../../src/metainfofields_p.h" line="203"/>
         <source>Rota Island</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="203"/>
+        <location filename="../../src/metainfofields_p.h" line="204"/>
         <source>Russia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="204"/>
+        <location filename="../../src/metainfofields_p.h" line="205"/>
         <source>Rwanda</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="205"/>
+        <location filename="../../src/metainfofields_p.h" line="206"/>
         <source>Saint Helena</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="206"/>
+        <location filename="../../src/metainfofields_p.h" line="207"/>
         <source>Saint Kitts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="207"/>
+        <location filename="../../src/metainfofields_p.h" line="208"/>
         <source>Saint Kitts and Nevis</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="208"/>
+        <location filename="../../src/metainfofields_p.h" line="209"/>
         <source>Saint Lucia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="209"/>
+        <location filename="../../src/metainfofields_p.h" line="210"/>
         <source>Saint Pierre and Miquelon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="210"/>
+        <location filename="../../src/metainfofields_p.h" line="211"/>
         <source>Saint Vincent and the Grenadines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="211"/>
+        <location filename="../../src/metainfofields_p.h" line="212"/>
         <source>Saipan Island</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="212"/>
+        <location filename="../../src/metainfofields_p.h" line="213"/>
         <source>Samoa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="213"/>
+        <location filename="../../src/metainfofields_p.h" line="214"/>
         <source>San Marino</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="214"/>
+        <location filename="../../src/metainfofields_p.h" line="215"/>
         <source>Sao Tome &amp; Principe</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="215"/>
+        <location filename="../../src/metainfofields_p.h" line="216"/>
         <source>Saudi Arabia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="216"/>
+        <location filename="../../src/metainfofields_p.h" line="217"/>
         <source>Scotland</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="217"/>
+        <location filename="../../src/metainfofields_p.h" line="218"/>
         <source>Senegal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="218"/>
+        <location filename="../../src/metainfofields_p.h" line="219"/>
         <source>Seychelles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="219"/>
+        <location filename="../../src/metainfofields_p.h" line="220"/>
         <source>Sierra Leone</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="220"/>
+        <location filename="../../src/metainfofields_p.h" line="221"/>
         <source>Singapore</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="221"/>
+        <location filename="../../src/metainfofields_p.h" line="222"/>
         <source>Slovakia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="222"/>
+        <location filename="../../src/metainfofields_p.h" line="223"/>
         <source>Slovenia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="223"/>
+        <location filename="../../src/metainfofields_p.h" line="224"/>
         <source>Solomon Islands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="224"/>
+        <location filename="../../src/metainfofields_p.h" line="225"/>
         <source>Somalia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="225"/>
+        <location filename="../../src/metainfofields_p.h" line="226"/>
         <source>South Africa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="226"/>
+        <location filename="../../src/metainfofields_p.h" line="227"/>
         <source>Spain</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="227"/>
+        <location filename="../../src/metainfofields_p.h" line="228"/>
         <source>Sri Lanka</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="228"/>
+        <location filename="../../src/metainfofields_p.h" line="229"/>
         <source>Sudan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="229"/>
+        <location filename="../../src/metainfofields_p.h" line="230"/>
         <source>Suriname</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="230"/>
+        <location filename="../../src/metainfofields_p.h" line="231"/>
         <source>Swaziland</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="231"/>
+        <location filename="../../src/metainfofields_p.h" line="232"/>
         <source>Sweden</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="232"/>
+        <location filename="../../src/metainfofields_p.h" line="233"/>
         <source>Switzerland</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="233"/>
+        <location filename="../../src/metainfofields_p.h" line="234"/>
         <source>Syrian Arab Republic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="234"/>
+        <location filename="../../src/metainfofields_p.h" line="235"/>
         <source>Taiwan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="235"/>
+        <location filename="../../src/metainfofields_p.h" line="236"/>
         <source>Tajikistan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="236"/>
+        <location filename="../../src/metainfofields_p.h" line="237"/>
         <source>Tanzania, United Republic of</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="237"/>
+        <location filename="../../src/metainfofields_p.h" line="238"/>
         <source>Thailand</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="238"/>
+        <location filename="../../src/metainfofields_p.h" line="239"/>
         <source>Tinian Island</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="239"/>
+        <location filename="../../src/metainfofields_p.h" line="240"/>
         <source>Togo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="240"/>
+        <location filename="../../src/metainfofields_p.h" line="241"/>
         <source>Tokelau</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="241"/>
+        <location filename="../../src/metainfofields_p.h" line="242"/>
         <source>Tonga</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="242"/>
+        <location filename="../../src/metainfofields_p.h" line="243"/>
         <source>Trinidad and Tobago</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="243"/>
+        <location filename="../../src/metainfofields_p.h" line="244"/>
         <source>Tunisia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="244"/>
+        <location filename="../../src/metainfofields_p.h" line="245"/>
         <source>Turkey</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="245"/>
+        <location filename="../../src/metainfofields_p.h" line="246"/>
         <source>Turkmenistan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="246"/>
+        <location filename="../../src/metainfofields_p.h" line="247"/>
         <source>Turks and Caicos Islands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="247"/>
+        <location filename="../../src/metainfofields_p.h" line="248"/>
         <source>Tuvalu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="248"/>
+        <location filename="../../src/metainfofields_p.h" line="249"/>
         <source>Uganda</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="249"/>
+        <location filename="../../src/metainfofields_p.h" line="250"/>
         <source>Ukraine</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="250"/>
+        <location filename="../../src/metainfofields_p.h" line="251"/>
         <source>United Arab Emirates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="251"/>
+        <location filename="../../src/metainfofields_p.h" line="252"/>
         <source>United Kingdom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="252"/>
+        <location filename="../../src/metainfofields_p.h" line="253"/>
         <source>Uruguay</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="253"/>
+        <location filename="../../src/metainfofields_p.h" line="254"/>
         <source>USA</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="254"/>
+        <location filename="../../src/metainfofields_p.h" line="255"/>
         <source>Uzbekistan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="255"/>
+        <location filename="../../src/metainfofields_p.h" line="256"/>
         <source>Vanuatu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="256"/>
+        <location filename="../../src/metainfofields_p.h" line="257"/>
         <source>Vatican City</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="257"/>
+        <location filename="../../src/metainfofields_p.h" line="258"/>
         <source>Venezuela</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="258"/>
+        <location filename="../../src/metainfofields_p.h" line="259"/>
         <source>Viet Nam</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="259"/>
+        <location filename="../../src/metainfofields_p.h" line="260"/>
         <source>Virgin Islands of the United States</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="260"/>
+        <location filename="../../src/metainfofields_p.h" line="261"/>
         <source>Wales</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="261"/>
+        <location filename="../../src/metainfofields_p.h" line="262"/>
         <source>Wallis and Futuna Islands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="262"/>
+        <location filename="../../src/metainfofields_p.h" line="263"/>
         <source>Western Samoa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="263"/>
+        <location filename="../../src/metainfofields_p.h" line="264"/>
         <source>Yemen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="264"/>
+        <location filename="../../src/metainfofields_p.h" line="265"/>
         <source>Yugoslavia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="265"/>
+        <location filename="../../src/metainfofields_p.h" line="266"/>
         <source>Yugoslavia - Montenegro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="266"/>
+        <location filename="../../src/metainfofields_p.h" line="267"/>
         <source>Yugoslavia - Serbia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="267"/>
+        <location filename="../../src/metainfofields_p.h" line="268"/>
         <source>Zambia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="268"/>
+        <location filename="../../src/metainfofields_p.h" line="269"/>
         <source>Zimbabwe</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1623,42 +1623,42 @@
 <context>
     <name>FeedbagError</name>
     <message>
-        <location filename="../../src/feedbag.cpp" line="111"/>
+        <location filename="../../src/feedbag.cpp" line="112"/>
         <source>No error</source>
         <translation type="unfinished">Нет ошибок</translation>
     </message>
     <message>
-        <location filename="../../src/feedbag.cpp" line="113"/>
+        <location filename="../../src/feedbag.cpp" line="114"/>
         <source>Item you want to modify not found in list</source>
         <translation type="unfinished">Желаемый к изменению лемент не найден в списке</translation>
     </message>
     <message>
-        <location filename="../../src/feedbag.cpp" line="115"/>
+        <location filename="../../src/feedbag.cpp" line="116"/>
         <source>Item you want to add allready exists</source>
         <translation type="unfinished">Добавляемый уже есть в списке</translation>
     </message>
     <message>
-        <location filename="../../src/feedbag.cpp" line="117"/>
+        <location filename="../../src/feedbag.cpp" line="118"/>
         <source>Error adding item (invalid id, allready in list, invalid data)</source>
         <translation type="unfinished">Ошибка добавления (не верный id, уже в списке итп)</translation>
     </message>
     <message>
-        <location filename="../../src/feedbag.cpp" line="119"/>
+        <location filename="../../src/feedbag.cpp" line="120"/>
         <source>Can&apos;t add item. Limit for this type of items exceeded</source>
         <translation type="unfinished">Не могу добавить в список. Достигнут предел элементов этого типа</translation>
     </message>
     <message>
-        <location filename="../../src/feedbag.cpp" line="121"/>
+        <location filename="../../src/feedbag.cpp" line="122"/>
         <source>Trying to add ICQ contact to an AIM list</source>
         <translation type="unfinished">Пробую добавить ICQ конакт в AIM список</translation>
     </message>
     <message>
-        <location filename="../../src/feedbag.cpp" line="123"/>
+        <location filename="../../src/feedbag.cpp" line="124"/>
         <source>Can&apos;t add this contact because it requires authorization</source>
         <translation type="unfinished">Не могу добавить контакт, тк требуется авторизация</translation>
     </message>
     <message>
-        <location filename="../../src/feedbag.cpp" line="125"/>
+        <location filename="../../src/feedbag.cpp" line="126"/>
         <source>Unknown error</source>
         <translation type="unfinished">Неизвестная ошибка</translation>
     </message>
@@ -1666,12 +1666,12 @@
 <context>
     <name>Gender</name>
     <message>
-        <location filename="../../src/metainfo.cpp" line="419"/>
+        <location filename="../../src/metainfofields_p.h" line="421"/>
         <source>Female</source>
         <translation type="unfinished">Жен</translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="420"/>
+        <location filename="../../src/metainfofields_p.h" line="420"/>
         <source>Male</source>
         <translation type="unfinished">Муж</translation>
     </message>
@@ -2001,92 +2001,92 @@
 <context>
     <name>Industry</name>
     <message>
-        <location filename="../../src/metainfo.cpp" line="439"/>
+        <location filename="../../src/metainfofields_p.h" line="444"/>
         <source>Agriculture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="440"/>
+        <location filename="../../src/metainfofields_p.h" line="445"/>
         <source>Arts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="441"/>
+        <location filename="../../src/metainfofields_p.h" line="446"/>
         <source>Construction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="442"/>
+        <location filename="../../src/metainfofields_p.h" line="447"/>
         <source>Consumer Goods</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="443"/>
+        <location filename="../../src/metainfofields_p.h" line="448"/>
         <source>Corporate Services</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="444"/>
+        <location filename="../../src/metainfofields_p.h" line="449"/>
         <source>Education</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="445"/>
+        <location filename="../../src/metainfofields_p.h" line="450"/>
         <source>Finance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="446"/>
+        <location filename="../../src/metainfofields_p.h" line="451"/>
         <source>Government</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="447"/>
+        <location filename="../../src/metainfofields_p.h" line="452"/>
         <source>High Tech</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="448"/>
+        <location filename="../../src/metainfofields_p.h" line="453"/>
         <source>Legal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="449"/>
+        <location filename="../../src/metainfofields_p.h" line="454"/>
         <source>Manufacturing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="450"/>
+        <location filename="../../src/metainfofields_p.h" line="455"/>
         <source>Media</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="451"/>
+        <location filename="../../src/metainfofields_p.h" line="456"/>
         <source>Medical &amp; Health Care</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="452"/>
+        <location filename="../../src/metainfofields_p.h" line="457"/>
         <source>Non-Profit Organization Management</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="453"/>
+        <location filename="../../src/metainfofields_p.h" line="458"/>
         <source>Other</source>
         <translation type="unfinished">Иное</translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="454"/>
+        <location filename="../../src/metainfofields_p.h" line="459"/>
         <source>Recreation, Travel &amp; Entertainment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="455"/>
+        <location filename="../../src/metainfofields_p.h" line="460"/>
         <source>Service Industry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="456"/>
+        <location filename="../../src/metainfofields_p.h" line="461"/>
         <source>Transportation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2094,252 +2094,252 @@
 <context>
     <name>Interest</name>
     <message>
-        <location filename="../../src/metainfo.cpp" line="274"/>
+        <location filename="../../src/metainfofields_p.h" line="275"/>
         <source>50&apos;s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="275"/>
+        <location filename="../../src/metainfofields_p.h" line="276"/>
         <source>60&apos;s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="276"/>
+        <location filename="../../src/metainfofields_p.h" line="277"/>
         <source>70&apos;s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="277"/>
+        <location filename="../../src/metainfofields_p.h" line="278"/>
         <source>80&apos;s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="278"/>
+        <location filename="../../src/metainfofields_p.h" line="279"/>
         <source>Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="279"/>
+        <location filename="../../src/metainfofields_p.h" line="280"/>
         <source>Astronomy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="280"/>
+        <location filename="../../src/metainfofields_p.h" line="281"/>
         <source>Audio and Visual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="281"/>
+        <location filename="../../src/metainfofields_p.h" line="282"/>
         <source>Business</source>
         <translation type="unfinished">Дела</translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="282"/>
+        <location filename="../../src/metainfofields_p.h" line="283"/>
         <source>Business Services</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="283"/>
+        <location filename="../../src/metainfofields_p.h" line="284"/>
         <source>Cars</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="284"/>
+        <location filename="../../src/metainfofields_p.h" line="285"/>
         <source>Celebrity Fans</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="285"/>
+        <location filename="../../src/metainfofields_p.h" line="286"/>
         <source>Clothing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="286"/>
+        <location filename="../../src/metainfofields_p.h" line="287"/>
         <source>Collections</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="287"/>
+        <location filename="../../src/metainfofields_p.h" line="288"/>
         <source>Computers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="288"/>
+        <location filename="../../src/metainfofields_p.h" line="289"/>
         <source>Culture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="289"/>
+        <location filename="../../src/metainfofields_p.h" line="290"/>
         <source>Ecology</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="290"/>
+        <location filename="../../src/metainfofields_p.h" line="291"/>
         <source>Entertainment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="291"/>
+        <location filename="../../src/metainfofields_p.h" line="292"/>
         <source>Finance and Corporate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="292"/>
+        <location filename="../../src/metainfofields_p.h" line="293"/>
         <source>Fitness</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="293"/>
+        <location filename="../../src/metainfofields_p.h" line="294"/>
         <source>Health and Beauty</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="294"/>
+        <location filename="../../src/metainfofields_p.h" line="295"/>
         <source>Hobbies</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="295"/>
+        <location filename="../../src/metainfofields_p.h" line="296"/>
         <source>Home Automation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="296"/>
+        <location filename="../../src/metainfofields_p.h" line="297"/>
         <source>Household Products</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="297"/>
+        <location filename="../../src/metainfofields_p.h" line="298"/>
         <source>Games</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="298"/>
+        <location filename="../../src/metainfofields_p.h" line="299"/>
         <source>Government</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="299"/>
+        <location filename="../../src/metainfofields_p.h" line="300"/>
         <source>ICQ - Help</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="300"/>
+        <location filename="../../src/metainfofields_p.h" line="301"/>
         <source>Internet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="301"/>
+        <location filename="../../src/metainfofields_p.h" line="302"/>
         <source>Lifestyle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="302"/>
+        <location filename="../../src/metainfofields_p.h" line="303"/>
         <source>Mail Order Catalog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="303"/>
+        <location filename="../../src/metainfofields_p.h" line="304"/>
         <source>Media</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="304"/>
+        <location filename="../../src/metainfofields_p.h" line="305"/>
         <source>Movies and TV</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="305"/>
+        <location filename="../../src/metainfofields_p.h" line="306"/>
         <source>Music</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="306"/>
+        <location filename="../../src/metainfofields_p.h" line="307"/>
         <source>Mystics</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="307"/>
+        <location filename="../../src/metainfofields_p.h" line="308"/>
         <source>News and Media</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="308"/>
+        <location filename="../../src/metainfofields_p.h" line="309"/>
         <source>Outdoors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="309"/>
+        <location filename="../../src/metainfofields_p.h" line="310"/>
         <source>Parenting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="310"/>
+        <location filename="../../src/metainfofields_p.h" line="311"/>
         <source>Parties</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="311"/>
+        <location filename="../../src/metainfofields_p.h" line="312"/>
         <source>Pets and Animals</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="312"/>
+        <location filename="../../src/metainfofields_p.h" line="313"/>
         <source>Publishing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="313"/>
+        <location filename="../../src/metainfofields_p.h" line="314"/>
         <source>Religion</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="314"/>
+        <location filename="../../src/metainfofields_p.h" line="315"/>
         <source>Retail Stores</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="315"/>
+        <location filename="../../src/metainfofields_p.h" line="316"/>
         <source>Science</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="316"/>
+        <location filename="../../src/metainfofields_p.h" line="317"/>
         <source>Skills</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="317"/>
+        <location filename="../../src/metainfofields_p.h" line="318"/>
         <source>Social science</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="318"/>
+        <location filename="../../src/metainfofields_p.h" line="319"/>
         <source>Space</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="319"/>
+        <location filename="../../src/metainfofields_p.h" line="320"/>
         <source>Sporting and Athletic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="320"/>
+        <location filename="../../src/metainfofields_p.h" line="321"/>
         <source>Sports</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="321"/>
+        <location filename="../../src/metainfofields_p.h" line="322"/>
         <source>Travel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="322"/>
+        <location filename="../../src/metainfofields_p.h" line="323"/>
         <source>Web Design</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="323"/>
+        <location filename="../../src/metainfofields_p.h" line="324"/>
         <source>Women</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2347,362 +2347,362 @@
 <context>
     <name>Language</name>
     <message>
-        <location filename="../../src/metainfo.cpp" line="329"/>
+        <location filename="../../src/metainfofields_p.h" line="330"/>
         <source>Afrikaans</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="330"/>
+        <location filename="../../src/metainfofields_p.h" line="331"/>
         <source>Albanian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="331"/>
+        <location filename="../../src/metainfofields_p.h" line="332"/>
         <source>Arabic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="332"/>
+        <location filename="../../src/metainfofields_p.h" line="333"/>
         <source>Armenian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="333"/>
+        <location filename="../../src/metainfofields_p.h" line="334"/>
         <source>Azerbaijani</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="334"/>
+        <location filename="../../src/metainfofields_p.h" line="335"/>
         <source>Belorussian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="335"/>
+        <location filename="../../src/metainfofields_p.h" line="336"/>
         <source>Bhojpuri</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="336"/>
+        <location filename="../../src/metainfofields_p.h" line="337"/>
         <source>Bosnian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="337"/>
+        <location filename="../../src/metainfofields_p.h" line="338"/>
         <source>Bulgarian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="338"/>
+        <location filename="../../src/metainfofields_p.h" line="339"/>
         <source>Burmese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="339"/>
+        <location filename="../../src/metainfofields_p.h" line="340"/>
         <source>Cantonese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="340"/>
+        <location filename="../../src/metainfofields_p.h" line="341"/>
         <source>Catalan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="341"/>
+        <location filename="../../src/metainfofields_p.h" line="342"/>
         <source>Chamorro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="342"/>
+        <location filename="../../src/metainfofields_p.h" line="343"/>
         <source>Chinese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="343"/>
+        <location filename="../../src/metainfofields_p.h" line="344"/>
         <source>Croatian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="344"/>
+        <location filename="../../src/metainfofields_p.h" line="345"/>
         <source>Czech</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="345"/>
+        <location filename="../../src/metainfofields_p.h" line="346"/>
         <source>Danish</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="346"/>
+        <location filename="../../src/metainfofields_p.h" line="347"/>
         <source>Dutch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="347"/>
+        <location filename="../../src/metainfofields_p.h" line="348"/>
         <source>English</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="348"/>
+        <location filename="../../src/metainfofields_p.h" line="349"/>
         <source>Esperanto</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="349"/>
+        <location filename="../../src/metainfofields_p.h" line="350"/>
         <source>Estonian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="350"/>
+        <location filename="../../src/metainfofields_p.h" line="351"/>
         <source>Farsi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="351"/>
+        <location filename="../../src/metainfofields_p.h" line="352"/>
         <source>Finnish</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="352"/>
+        <location filename="../../src/metainfofields_p.h" line="353"/>
         <source>French</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="353"/>
+        <location filename="../../src/metainfofields_p.h" line="354"/>
         <source>Gaelic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="354"/>
+        <location filename="../../src/metainfofields_p.h" line="355"/>
         <source>German</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="355"/>
+        <location filename="../../src/metainfofields_p.h" line="356"/>
         <source>Greek</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="356"/>
+        <location filename="../../src/metainfofields_p.h" line="357"/>
         <source>Gujarati</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="357"/>
+        <location filename="../../src/metainfofields_p.h" line="358"/>
         <source>Hebrew</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="358"/>
+        <location filename="../../src/metainfofields_p.h" line="359"/>
         <source>Hindi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="359"/>
+        <location filename="../../src/metainfofields_p.h" line="360"/>
         <source>Hungarian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="360"/>
+        <location filename="../../src/metainfofields_p.h" line="361"/>
         <source>Icelandic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="361"/>
+        <location filename="../../src/metainfofields_p.h" line="362"/>
         <source>Indonesian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="362"/>
+        <location filename="../../src/metainfofields_p.h" line="363"/>
         <source>Italian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="363"/>
+        <location filename="../../src/metainfofields_p.h" line="364"/>
         <source>Japanese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="364"/>
+        <location filename="../../src/metainfofields_p.h" line="365"/>
         <source>Khmer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="365"/>
+        <location filename="../../src/metainfofields_p.h" line="366"/>
         <source>Korean</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="366"/>
+        <location filename="../../src/metainfofields_p.h" line="367"/>
         <source>Kurdish</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="367"/>
+        <location filename="../../src/metainfofields_p.h" line="368"/>
         <source>Lao</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="368"/>
+        <location filename="../../src/metainfofields_p.h" line="369"/>
         <source>Latvian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="369"/>
+        <location filename="../../src/metainfofields_p.h" line="370"/>
         <source>Lithuanian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="370"/>
+        <location filename="../../src/metainfofields_p.h" line="371"/>
         <source>Macedonian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="371"/>
+        <location filename="../../src/metainfofields_p.h" line="372"/>
         <source>Malay</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="372"/>
+        <location filename="../../src/metainfofields_p.h" line="373"/>
         <source>Mandarin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="373"/>
+        <location filename="../../src/metainfofields_p.h" line="374"/>
         <source>Mongolian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="374"/>
+        <location filename="../../src/metainfofields_p.h" line="375"/>
         <source>Norwegian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="375"/>
+        <location filename="../../src/metainfofields_p.h" line="376"/>
         <source>Persian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="376"/>
+        <location filename="../../src/metainfofields_p.h" line="377"/>
         <source>Polish</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="377"/>
+        <location filename="../../src/metainfofields_p.h" line="378"/>
         <source>Portuguese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="378"/>
+        <location filename="../../src/metainfofields_p.h" line="379"/>
         <source>Punjabi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="379"/>
+        <location filename="../../src/metainfofields_p.h" line="380"/>
         <source>Romanian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="380"/>
+        <location filename="../../src/metainfofields_p.h" line="381"/>
         <source>Russian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="381"/>
+        <location filename="../../src/metainfofields_p.h" line="382"/>
         <source>Serbian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="382"/>
+        <location filename="../../src/metainfofields_p.h" line="383"/>
         <source>Sindhi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="383"/>
+        <location filename="../../src/metainfofields_p.h" line="384"/>
         <source>Slovak</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="384"/>
+        <location filename="../../src/metainfofields_p.h" line="385"/>
         <source>Slovenian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="385"/>
+        <location filename="../../src/metainfofields_p.h" line="386"/>
         <source>Somali</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="386"/>
+        <location filename="../../src/metainfofields_p.h" line="387"/>
         <source>Spanish</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="387"/>
+        <location filename="../../src/metainfofields_p.h" line="388"/>
         <source>Swahili</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="388"/>
+        <location filename="../../src/metainfofields_p.h" line="389"/>
         <source>Swedish</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="389"/>
+        <location filename="../../src/metainfofields_p.h" line="390"/>
         <source>Tagalog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="390"/>
+        <location filename="../../src/metainfofields_p.h" line="391"/>
         <source>Taiwanese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="391"/>
+        <location filename="../../src/metainfofields_p.h" line="392"/>
         <source>Tamil</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="392"/>
+        <location filename="../../src/metainfofields_p.h" line="393"/>
         <source>Tatar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="393"/>
+        <location filename="../../src/metainfofields_p.h" line="394"/>
         <source>Thai</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="394"/>
+        <location filename="../../src/metainfofields_p.h" line="395"/>
         <source>Turkish</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="395"/>
+        <location filename="../../src/metainfofields_p.h" line="396"/>
         <source>Ukrainian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="396"/>
+        <location filename="../../src/metainfofields_p.h" line="397"/>
         <source>Urdu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="397"/>
+        <location filename="../../src/metainfofields_p.h" line="398"/>
         <source>Vietnamese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="398"/>
+        <location filename="../../src/metainfofields_p.h" line="399"/>
         <source>Welsh</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="399"/>
+        <location filename="../../src/metainfofields_p.h" line="400"/>
         <source>Yiddish</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="400"/>
+        <location filename="../../src/metainfofields_p.h" line="401"/>
         <source>Yoruba</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2721,190 +2721,404 @@
 <context>
     <name>Marital</name>
     <message>
-        <location filename="../../src/metainfo.cpp" line="533"/>
+        <location filename="../../src/metainfofields_p.h" line="538"/>
         <source>Single</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="534"/>
+        <location filename="../../src/metainfofields_p.h" line="539"/>
         <source>Close relationships</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="535"/>
+        <location filename="../../src/metainfofields_p.h" line="540"/>
         <source>Engaged</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="536"/>
+        <location filename="../../src/metainfofields_p.h" line="541"/>
         <source>Married</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="537"/>
+        <location filename="../../src/metainfofields_p.h" line="542"/>
         <source>Divorced</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="538"/>
+        <location filename="../../src/metainfofields_p.h" line="543"/>
         <source>Separated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="539"/>
+        <location filename="../../src/metainfofields_p.h" line="544"/>
         <source>Widowed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="540"/>
+        <location filename="../../src/metainfofields_p.h" line="545"/>
         <source>Open relationship</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="541"/>
+        <location filename="../../src/metainfofields_p.h" line="546"/>
         <source>Other</source>
         <translation type="unfinished">Иное</translation>
     </message>
 </context>
 <context>
+    <name>MetaInfo</name>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="552"/>
+        <source>Nick</source>
+        <translation type="unfinished">Ник</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="553"/>
+        <source>First name</source>
+        <translation type="unfinished">Имя</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="554"/>
+        <source>Last name</source>
+        <translation type="unfinished">Имя2</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="555"/>
+        <source>Email</source>
+        <translation type="unfinished">Эл.Почта</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="556"/>
+        <source>Home city</source>
+        <translation type="unfinished">Дом. Город</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="557"/>
+        <source>Home state</source>
+        <translation type="unfinished">Дом. Штат</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="558"/>
+        <source>Home phone</source>
+        <translation type="unfinished">Дом. Телефон</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="559"/>
+        <source>Home fax</source>
+        <translation type="unfinished">Дом. Факс</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="560"/>
+        <source>Home address</source>
+        <translation type="unfinished">Дом. Адрес</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="561"/>
+        <source>Cell phone</source>
+        <translation type="unfinished">Телефон</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="562"/>
+        <source>Home zip code</source>
+        <translation type="unfinished">Дом. Индекс</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="563"/>
+        <source>Home country</source>
+        <translation type="unfinished">Дом. Страна</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="564"/>
+        <source>GMT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="565"/>
+        <source>Authorization</source>
+        <translation type="unfinished">Авторизация</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="566"/>
+        <source>Webaware</source>
+        <translation type="unfinished">Видимость на web</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="567"/>
+        <source>Direct connection</source>
+        <translation type="unfinished">Прямое соединение</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="568"/>
+        <source>Public primary email</source>
+        <translation type="unfinished">Примари эл.почта (публичная)</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="569"/>
+        <source>Age</source>
+        <translation type="unfinished">Возраст</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="570"/>
+        <source>Gender</source>
+        <translatorcomment>паркетный</translatorcomment>
+        <translation type="unfinished">Пол</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="571"/>
+        <source>Homepage</source>
+        <translation type="unfinished">Хомяк</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="572"/>
+        <source>Birthday</source>
+        <translation type="unfinished">День рождения</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="573"/>
+        <source>Languages</source>
+        <translation type="unfinished">Языки</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="574"/>
+        <source>Original city</source>
+        <translation type="unfinished">Откуда (город)</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="575"/>
+        <source>Original state</source>
+        <translation type="unfinished">Откуда (штат)</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="576"/>
+        <source>Original country</source>
+        <translation type="unfinished">Откуда (страна)</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="577"/>
+        <source>Work city</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="578"/>
+        <source>Work state</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="579"/>
+        <source>Work phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="580"/>
+        <source>Work fax</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="581"/>
+        <source>Work address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="582"/>
+        <source>Work zip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="583"/>
+        <source>Work country</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="584"/>
+        <source>Work company</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="585"/>
+        <source>Work department</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="586"/>
+        <source>Work position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="587"/>
+        <source>Work occupation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="588"/>
+        <source>Work webpage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="589"/>
+        <source>Emails</source>
+        <translation type="unfinished">Эл почта</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="590"/>
+        <source>Notes</source>
+        <translation type="unfinished">Заметки</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="591"/>
+        <source>Interests</source>
+        <translation type="unfinished">Интересы</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="592"/>
+        <source>Pasts</source>
+        <translation type="unfinished">Прошлое</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfofields_p.h" line="593"/>
+        <source>Affilations</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Occupation</name>
     <message>
-        <location filename="../../src/metainfo.cpp" line="462"/>
+        <location filename="../../src/metainfofields_p.h" line="467"/>
         <source>Academic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="463"/>
+        <location filename="../../src/metainfofields_p.h" line="468"/>
         <source>Administrative</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="464"/>
+        <location filename="../../src/metainfofields_p.h" line="469"/>
         <source>Art/Entertainment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="465"/>
+        <location filename="../../src/metainfofields_p.h" line="470"/>
         <source>College Student</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="466"/>
+        <location filename="../../src/metainfofields_p.h" line="471"/>
         <source>Computers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="467"/>
+        <location filename="../../src/metainfofields_p.h" line="472"/>
         <source>Community &amp; Social</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="468"/>
+        <location filename="../../src/metainfofields_p.h" line="473"/>
         <source>Education</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="469"/>
+        <location filename="../../src/metainfofields_p.h" line="474"/>
         <source>Engineering</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="470"/>
+        <location filename="../../src/metainfofields_p.h" line="475"/>
         <source>Financial Services</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="471"/>
+        <location filename="../../src/metainfofields_p.h" line="476"/>
         <source>Government</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="472"/>
+        <location filename="../../src/metainfofields_p.h" line="477"/>
         <source>High School Student</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="473"/>
+        <location filename="../../src/metainfofields_p.h" line="478"/>
         <source>Home</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="474"/>
+        <location filename="../../src/metainfofields_p.h" line="479"/>
         <source>ICQ - Providing Help</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="475"/>
+        <location filename="../../src/metainfofields_p.h" line="480"/>
         <source>Law</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="476"/>
+        <location filename="../../src/metainfofields_p.h" line="481"/>
         <source>Managerial</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="477"/>
+        <location filename="../../src/metainfofields_p.h" line="482"/>
         <source>Manufacturing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="478"/>
+        <location filename="../../src/metainfofields_p.h" line="483"/>
         <source>Medical/Health</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="479"/>
+        <location filename="../../src/metainfofields_p.h" line="484"/>
         <source>Military</source>
         <translation type="unfinished">Вояка</translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="480"/>
+        <location filename="../../src/metainfofields_p.h" line="485"/>
         <source>Non-Government Organization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="481"/>
+        <location filename="../../src/metainfofields_p.h" line="486"/>
         <source>Professional</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="482"/>
+        <location filename="../../src/metainfofields_p.h" line="487"/>
         <source>Retail</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="483"/>
+        <location filename="../../src/metainfofields_p.h" line="488"/>
         <source>Retired</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="484"/>
+        <location filename="../../src/metainfofields_p.h" line="489"/>
         <source>Science &amp; Research</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="485"/>
+        <location filename="../../src/metainfofields_p.h" line="490"/>
         <source>Sports</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="486"/>
+        <location filename="../../src/metainfofields_p.h" line="491"/>
         <source>Technical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="487"/>
+        <location filename="../../src/metainfofields_p.h" line="492"/>
         <source>University Student</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="488"/>
+        <location filename="../../src/metainfofields_p.h" line="493"/>
         <source>Web Building</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="489"/>
+        <location filename="../../src/metainfofields_p.h" line="494"/>
         <source>Other Services</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2923,42 +3137,42 @@
 <context>
     <name>Past</name>
     <message>
-        <location filename="../../src/metainfo.cpp" line="406"/>
+        <location filename="../../src/metainfofields_p.h" line="407"/>
         <source>Elementary School</source>
         <translation type="unfinished">Начальная школа</translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="407"/>
+        <location filename="../../src/metainfofields_p.h" line="408"/>
         <source>High School</source>
         <translation type="unfinished">Школота</translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="408"/>
+        <location filename="../../src/metainfofields_p.h" line="409"/>
         <source>College</source>
         <translation type="unfinished">Технарь</translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="409"/>
+        <location filename="../../src/metainfofields_p.h" line="410"/>
         <source>University</source>
         <translation type="unfinished">Универ</translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="410"/>
+        <location filename="../../src/metainfofields_p.h" line="411"/>
         <source>Military</source>
         <translation type="unfinished">Вояка</translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="411"/>
+        <location filename="../../src/metainfofields_p.h" line="412"/>
         <source>Past Work Place</source>
         <translation type="unfinished">Прошлое место работы</translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="412"/>
+        <location filename="../../src/metainfofields_p.h" line="413"/>
         <source>Past Organization</source>
         <translation type="unfinished">Бывшая работа</translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="413"/>
+        <location filename="../../src/metainfofields_p.h" line="414"/>
         <source>Other</source>
         <translation type="unfinished">Иное</translation>
     </message>
@@ -2966,40 +3180,46 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="36"/>
+        <location filename="../../src/oscarplugin.cpp" line="37"/>
         <source>Oscar</source>
         <translation type="unfinished">ICQ/Oscar</translation>
     </message>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="37"/>
+        <location filename="../../src/oscarplugin.cpp" line="38"/>
         <source>Module-based realization of Oscar protocol</source>
         <translation type="unfinished">Модуль начальной реализации Oscar протокола</translation>
     </message>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="45"/>
+        <location filename="../../src/oscarplugin.cpp" line="46"/>
         <source>ICQ</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="46"/>
+        <location filename="../../src/oscarplugin.cpp" line="47"/>
         <source>Module-based realization of ICQ protocol</source>
         <translation type="unfinished">Модуль начальной реализации ICQ протокола</translation>
     </message>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="49"/>
+        <location filename="../../src/oscarplugin.cpp" line="50"/>
         <source>ICQ account creator</source>
         <translation type="unfinished">Мастер создания учетной записи ICQ</translation>
     </message>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="50"/>
+        <location filename="../../src/oscarplugin.cpp" line="51"/>
         <source>Account creator for module-based realization of ICQ protocol</source>
         <translation type="unfinished">Мастер создания учетной записи ICQ для начальной реализации ICQ протокола</translation>
     </message>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="53"/>
         <location filename="../../src/oscarplugin.cpp" line="54"/>
+        <location filename="../../src/oscarplugin.cpp" line="55"/>
         <source>Oscar file transfer protocol</source>
         <translation type="unfinished">Протокол фередачи файлов OSCAR&apos;a</translation>
+    </message>
+    <message>
+        <location filename="../../src/oscarplugin.cpp" line="58"/>
+        <location filename="../../src/oscarplugin.cpp" line="59"/>
+        <source>MetaInfo icq service</source>
+        <translation type="unfinished">Метаинформация icq службы</translation>
     </message>
 </context>
 <context>
@@ -3133,7 +3353,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="60"/>
+        <location filename="../../src/oscarplugin.cpp" line="65"/>
         <source>Icq</source>
         <translation></translation>
     </message>
@@ -3141,7 +3361,7 @@
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../src/oscarstatus.cpp" line="46"/>
+        <location filename="../../src/oscarstatus.cpp" line="45"/>
         <source>Busy</source>
         <translation type="unfinished">Занят</translation>
     </message>
@@ -3149,42 +3369,42 @@
 <context>
     <name>StudyLevel</name>
     <message>
-        <location filename="../../src/metainfo.cpp" line="426"/>
+        <location filename="../../src/metainfofields_p.h" line="431"/>
         <source>Associated degree</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="427"/>
+        <location filename="../../src/metainfofields_p.h" line="432"/>
         <source>Bachelor&apos;s degree</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="428"/>
+        <location filename="../../src/metainfofields_p.h" line="433"/>
         <source>Elementary</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="429"/>
+        <location filename="../../src/metainfofields_p.h" line="434"/>
         <source>High-school</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="430"/>
+        <location filename="../../src/metainfofields_p.h" line="435"/>
         <source>Master&apos;s degree</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="431"/>
+        <location filename="../../src/metainfofields_p.h" line="436"/>
         <source>PhD</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="432"/>
+        <location filename="../../src/metainfofields_p.h" line="437"/>
         <source>Postdoctoral</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="433"/>
+        <location filename="../../src/metainfofields_p.h" line="438"/>
         <source>University / College</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3192,8 +3412,8 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="40"/>
-        <location filename="../../src/oscarplugin.cpp" line="43"/>
+        <location filename="../../src/oscarplugin.cpp" line="41"/>
+        <location filename="../../src/oscarplugin.cpp" line="44"/>
         <source>Author</source>
         <translation type="unfinished">Автор</translation>
     </message>

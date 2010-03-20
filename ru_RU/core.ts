@@ -35,7 +35,7 @@
 <context>
     <name>AdiumChat::ChatSessionImpl</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatsessionimpl.cpp" line="96"/>
+        <location filename="../../src/corelayers/adiumchat/chatsessionimpl.cpp" line="105"/>
         <source>Message %1 must have a ChatUnit</source>
         <translation type="unfinished"></translation>
     </message>
@@ -43,13 +43,13 @@
 <context>
     <name>AdiumChat::ChatWidget</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="63"/>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="65"/>
-        <source>Testing action</source>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="95"/>
+        <source>Ctrl+Return</source>
+        <comment>Send message</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="133"/>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="148"/>
         <source>Chat with %1</source>
         <translation type="unfinished">Чат с %1</translation>
     </message>
@@ -62,12 +62,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.ui" line="56"/>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.ui" line="60"/>
         <source>about:blank</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.ui" line="94"/>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.ui" line="113"/>
         <source>Send</source>
         <translation>Отправить</translation>
     </message>
@@ -171,11 +171,52 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Chat</name>
+    <message>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="68"/>
+        <source>Emoticons</source>
+        <translation type="unfinished">Смайлы</translation>
+    </message>
+</context>
+<context>
     <name>ChatLayer</name>
     <message>
         <location filename="../../src/corelayers/adiumchat/chatlayerimpl.cpp" line="43"/>
         <source>Send message</source>
         <translation>Отправить сообщение</translation>
+    </message>
+</context>
+<context>
+    <name>ContactList</name>
+    <message>
+        <location filename="../../src/corelayers/contactlist/simplecontactlistmodel.cpp" line="38"/>
+        <source>Rename contact</source>
+        <translation type="unfinished">Переименовать</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/contactlist/simplecontactlistmodel.cpp" line="42"/>
+        <source>Edit tags</source>
+        <translation type="unfinished">Исменить теги</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="95"/>
+        <source>&amp;Settings...</source>
+        <translation type="unfinished">&amp;Настройки...</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="100"/>
+        <source>Main menu</source>
+        <translation type="unfinished">Главное меню</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="104"/>
+        <source>&amp;Quit</source>
+        <translation type="unfinished">&amp;Выход</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="127"/>
+        <source>Hide offline</source>
+        <translation type="unfinished">Скрыть отключенных</translation>
     </message>
 </context>
 <context>
@@ -241,6 +282,19 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::MigrationStartPage</name>
+    <message>
+        <location filename="../../src/corelayers/migration02x03/migrationstartpage.cpp" line="22"/>
+        <source>Migration wizard</source>
+        <translation type="unfinished">Волшебник миграции</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/migration02x03/migrationstartpage.cpp" line="23"/>
+        <source>qutIM has discovered configuration from 0.2 version, choose profile to import history and configuration from.</source>
+        <translation type="unfinished">qutIM  обнаружил конфигурацию из версии 0.2; выберте профиль для импорта истории и конфигурации.</translation>
+    </message>
+</context>
+<context>
     <name>Core::PListConfigBackend</name>
     <message>
         <location filename="../../src/corelayers/configbackends/plistconfigbackend.cpp" line="249"/>
@@ -279,19 +333,51 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::ProfileDialog</name>
+    <message>
+        <location filename="../../src/profiledialog.cpp" line="140"/>
+        <source>Invalid name</source>
+        <translation type="unfinished">Неправильное име</translation>
+    </message>
+    <message>
+        <location filename="../../src/profiledialog.cpp" line="140"/>
+        <source>Name can not be empty!</source>
+        <translation type="unfinished">Имя не может быть пустым!</translation>
+    </message>
+    <message>
+        <location filename="../../src/profiledialog.cpp" line="145"/>
+        <location filename="../../src/profiledialog.cpp" line="150"/>
+        <source>Incorrect password</source>
+        <translation type="unfinished">Неверный пароль</translation>
+    </message>
+    <message>
+        <location filename="../../src/profiledialog.cpp" line="145"/>
+        <source>Passwords doesn&apos;t match each other</source>
+        <translation type="unfinished">Пароль не совпадает с другим</translation>
+    </message>
+    <message>
+        <location filename="../../src/profiledialog.cpp" line="150"/>
+        <source>Password can not be empty!</source>
+        <translation type="unfinished">Пароль не может быть пустым!</translation>
+    </message>
+</context>
+<context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlistmodel.cpp" line="337"/>
         <source>Contacts</source>
-        <translation type="unfinished">Контакты</translation>
+        <translation type="obsolete">Контакты</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/contactlist/simplecontactlistmodel.cpp" line="635"/>
+        <source>All tags</source>
+        <translation type="unfinished">Все теги</translation>
     </message>
 </context>
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="97"/>
         <source>Main menu</source>
-        <translation type="unfinished">Главное меню</translation>
+        <translation type="obsolete">Главное меню</translation>
     </message>
     <message>
         <source>&amp;Settings...</source>
@@ -303,9 +389,17 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::SimpleTagsEditor</name>
+    <message>
+        <location filename="../../src/corelayers/contactlist/simpletagseditor/simpletagseditor.cpp" line="16"/>
+        <source>Edit tags for %1</source>
+        <translation type="unfinished">Изменить теги для %1</translation>
+    </message>
+</context>
+<context>
     <name>KineticPopups::Popup</name>
     <message>
-        <location filename="../../src/corelayers/kineticpopups/popup.cpp" line="66"/>
+        <location filename="../../src/corelayers/kineticpopups/popup.cpp" line="73"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
         <translation type="unfinished">&lt;p&gt; + %1 больше уведомлений &lt;/p&gt;</translation>
     </message>
@@ -316,6 +410,29 @@ p, li { white-space: pre-wrap; }
         <location filename="../../src/corelayers/localization/localizationsettings.ui" line="14"/>
         <source>Form</source>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>MigrationStartPage</name>
+    <message>
+        <location filename="../../src/corelayers/migration02x03/migrationstartpage.ui" line="14"/>
+        <source>WizardPage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/migration02x03/migrationstartpage.ui" line="20"/>
+        <source>I want to import configuration and history</source>
+        <translation type="unfinished">Я хочу импортировать конфигурацию и историю</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/migration02x03/migrationstartpage.ui" line="30"/>
+        <source>Choose profile:</source>
+        <translation type="unfinished">Выберите профиль:</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/migration02x03/migrationstartpage.ui" line="47"/>
+        <source>Choose accounts:</source>
+        <translation type="unfinished">Выберите учетную запись:</translation>
     </message>
 </context>
 <context>
@@ -439,12 +556,12 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="26"/>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="30"/>
         <source>Simple ContactList</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="27"/>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="31"/>
         <source>Default qutIM contact list realization. Just simple</source>
         <translation type="unfinished"></translation>
     </message>
@@ -495,7 +612,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../src/corelayers/adiumchat/chatlayerimpl.cpp" line="29"/>
-        <source>Default qutIM chat realization, based on Adium chat styles</source>
+        <source>Default qutIM chat implementation, based on Adium chat styles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -529,12 +646,12 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/kineticpopups/backend.cpp" line="33"/>
+        <location filename="../../src/corelayers/kineticpopups/backend.cpp" line="39"/>
         <source>Kinetic popups</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/kineticpopups/backend.cpp" line="34"/>
+        <location filename="../../src/corelayers/kineticpopups/backend.cpp" line="40"/>
         <source>Default qutIM popup realization. Powered by Kinetic</source>
         <translation type="unfinished"></translation>
     </message>
@@ -578,6 +695,131 @@ p, li { white-space: pre-wrap; }
         <source>Simple authorization dialog</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../src/corelayers/migration02x03/migrationpagecreator.cpp" line="8"/>
+        <source>Mirgation 0.2 to 0.3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/migration02x03/migrationpagecreator.cpp" line="9"/>
+        <source>Module for migration from 0.2 to 0.3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/trayicon/simpletray.cpp" line="9"/>
+        <source>Simple tray</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/trayicon/simpletray.cpp" line="10"/>
+        <source>Default qutIM system tray icon implementation</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ProfileCreationPage</name>
+    <message>
+        <location filename="../../src/profilecreationpage.ui" line="14"/>
+        <source>WizardPage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/profilecreationpage.ui" line="20"/>
+        <source>Name:</source>
+        <translation type="unfinished">Имя:</translation>
+    </message>
+    <message>
+        <location filename="../../src/profilecreationpage.ui" line="27"/>
+        <source>It will be shown in chat dialogs</source>
+        <translation type="unfinished">Как будет видно в чате</translation>
+    </message>
+    <message>
+        <location filename="../../src/profilecreationpage.ui" line="34"/>
+        <source>Profile id:</source>
+        <translation type="unfinished">Идент. профиля:</translation>
+    </message>
+    <message>
+        <location filename="../../src/profilecreationpage.ui" line="41"/>
+        <source>Used for profile identification</source>
+        <translation type="unfinished">Используется для определения профиля</translation>
+    </message>
+    <message>
+        <location filename="../../src/profilecreationpage.ui" line="48"/>
+        <source>Config dir:</source>
+        <translation type="unfinished">Настройки:</translation>
+    </message>
+    <message>
+        <location filename="../../src/profilecreationpage.ui" line="60"/>
+        <location filename="../../src/profilecreationpage.ui" line="74"/>
+        <location filename="../../src/profilecreationpage.ui" line="88"/>
+        <source>...</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../src/profilecreationpage.ui" line="97"/>
+        <source>History dir:</source>
+        <translation type="unfinished">История:</translation>
+    </message>
+    <message>
+        <location filename="../../src/profilecreationpage.ui" line="104"/>
+        <source>Data dir:</source>
+        <translation type="unfinished">Данные:</translation>
+    </message>
+    <message>
+        <location filename="../../src/profilecreationpage.ui" line="111"/>
+        <source>Store data at application dir</source>
+        <translation type="unfinished">Конфиг рядом с программой (портабельно)</translation>
+    </message>
+    <message>
+        <location filename="../../src/profilecreationpage.ui" line="131"/>
+        <source>Choose cryptograhic module:</source>
+        <translation type="unfinished">Выберите модуль шифрования:</translation>
+    </message>
+    <message>
+        <location filename="../../src/profilecreationpage.ui" line="138"/>
+        <source>Choose config backend:</source>
+        <translation type="unfinished">Выберите модуль хранения настроек:</translation>
+    </message>
+</context>
+<context>
+    <name>ProfileDialog</name>
+    <message>
+        <location filename="../../src/profiledialog.ui" line="32"/>
+        <location filename="../../src/profiledialog.ui" line="78"/>
+        <source>Login</source>
+        <translation type="unfinished">Вход</translation>
+    </message>
+    <message>
+        <location filename="../../src/profiledialog.ui" line="85"/>
+        <source>Choose profile:</source>
+        <translation type="unfinished">Выберите профиль:</translation>
+    </message>
+    <message>
+        <location filename="../../src/profiledialog.ui" line="92"/>
+        <location filename="../../src/profiledialog.ui" line="124"/>
+        <source>Enter password:</source>
+        <translation type="unfinished">Пароль:</translation>
+    </message>
+    <message>
+        <location filename="../../src/profiledialog.ui" line="108"/>
+        <source>Create profile</source>
+        <translation type="unfinished">Создать профиль</translation>
+    </message>
+    <message>
+        <location filename="../../src/profiledialog.ui" line="114"/>
+        <source>Name:</source>
+        <translation type="unfinished">Имя:</translation>
+    </message>
+    <message>
+        <location filename="../../src/profiledialog.ui" line="138"/>
+        <source>Repeat password:</source>
+        <translation type="unfinished">Повторите пароль:</translation>
+    </message>
+    <message>
+        <location filename="../../src/profiledialog.ui" line="178"/>
+        <source>Create</source>
+        <translation type="unfinished">Создать</translation>
+    </message>
 </context>
 <context>
     <name>Settings</name>
@@ -597,7 +839,7 @@ p, li { white-space: pre-wrap; }
         <translation>Оформление чата</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/kineticpopups/backend.cpp" line="40"/>
+        <location filename="../../src/corelayers/kineticpopups/backend.cpp" line="46"/>
         <source>Popups</source>
         <translation type="unfinished">Всплывающие сообщения</translation>
     </message>
@@ -636,6 +878,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>SimpleTagsEditor</name>
+    <message>
+        <location filename="../../src/corelayers/contactlist/simpletagseditor/simpletagseditor.ui" line="39"/>
+        <source>Add</source>
+        <translation type="unfinished">Добавить</translation>
+    </message>
+</context>
+<context>
     <name>XSettingsDialog</name>
     <message>
         <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.ui" line="14"/>
@@ -648,57 +898,57 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Извините, категория не имеет настроек. Вообще</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="44"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="47"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="45"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="48"/>
         <source>General configuration</source>
         <translation type="unfinished">Общие настройки</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="50"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="54"/>
         <source>Protocols</source>
         <translation type="unfinished">Протоколы</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="51"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="55"/>
         <source>Accounts and protocols settings</source>
         <translation type="unfinished">Настройки протоколов и учетных записей</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="54"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="59"/>
         <source>Appearance</source>
         <translation type="unfinished">Оформление</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="55"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="60"/>
         <source>Appearance settings</source>
         <translation type="unfinished">Настройки оформления</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="58"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="64"/>
         <source>Plugins</source>
         <translation>Плагины</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="59"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="65"/>
         <source>Additional plugins settings</source>
         <translation type="unfinished">Прочие настройки плагинов</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="214"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="223"/>
         <source>qutIM settings - %1</source>
         <translation type="unfinished">Настройки qutIM - %1</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="243"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="252"/>
         <source>Apply Settings - System Settings</source>
         <translation type="unfinished">Применить настройки - Системные настройки</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="244"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="253"/>
         <source>The settings of the current module have changed. 
  Do you want to apply the changes or discard them?</source>
         <translation type="unfinished">Настройки текущего модуля изменены.
@@ -805,14 +1055,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>simplecontactlist</name>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="83"/>
         <source>&amp;Settings...</source>
-        <translation type="unfinished">&amp;Настройки...</translation>
+        <translation type="obsolete">&amp;Настройки...</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="88"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished">&amp;Выход</translation>
+        <translation type="obsolete">&amp;Выход</translation>
     </message>
 </context>
 </TS>

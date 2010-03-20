@@ -4,12 +4,12 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/jplugin.cpp" line="24"/>
+        <location filename="../../src/jplugin.cpp" line="25"/>
         <source>Denis Daschenko</source>
         <translation>Денис Дащенко</translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="27"/>
+        <location filename="../../src/jplugin.cpp" line="28"/>
         <source>Nikita Belov</source>
         <translation>Никита Белов</translation>
     </message>
@@ -127,6 +127,82 @@
     </message>
 </context>
 <context>
+    <name>JMUCJoin</name>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucjoin.ui" line="14"/>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucjoin.ui" line="89"/>
+        <location filename="../../src/protocol/account/muc/jmucjoin.ui" line="223"/>
+        <source>Bookmarks:</source>
+        <translation type="unfinished">Закладки:</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucjoin.ui" line="105"/>
+        <location filename="../../src/protocol/account/muc/jmucjoin.ui" line="255"/>
+        <source>Conference:</source>
+        <translation type="unfinished">Конференция:</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucjoin.ui" line="125"/>
+        <location filename="../../src/protocol/account/muc/jmucjoin.ui" line="271"/>
+        <source>Nick:</source>
+        <translation type="unfinished">Ник:</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucjoin.ui" line="141"/>
+        <source>Password</source>
+        <translation type="unfinished">Пароль</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucjoin.ui" line="161"/>
+        <source>Bookmark&apos;s name:</source>
+        <translation type="unfinished">Имя закладки:</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucjoin.ui" line="168"/>
+        <source>Save to bookmarks</source>
+        <translation type="unfinished">Сохранить в закладках</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucjoin.ui" line="197"/>
+        <source>Search</source>
+        <translation type="unfinished">Поиск</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucjoin.ui" line="204"/>
+        <source>Join</source>
+        <translation type="unfinished">Войти</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucjoin.ui" line="239"/>
+        <source>Name:</source>
+        <translation>Имя:</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucjoin.ui" line="287"/>
+        <source>Password:</source>
+        <translation type="unfinished">Пароль:</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucjoin.ui" line="301"/>
+        <source>Auto join</source>
+        <translation type="unfinished">Авто-вход</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucjoin.ui" line="323"/>
+        <source>Save</source>
+        <translation>Сохранить</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucjoin.ui" line="330"/>
+        <source>Delete</source>
+        <translation>Удалить</translation>
+    </message>
+</context>
+<context>
     <name>Jabber</name>
     <message>
         <location filename="../../src/protocol/modules/xmlconsole/xmlconsole.cpp" line="31"/>
@@ -139,9 +215,14 @@
         <translation>Выполнить команду</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="25"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="26"/>
         <source>Service discovery</source>
         <translation type="unfinished">Обзор служб</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucjoinmodule.cpp" line="16"/>
+        <source>Join groupchat</source>
+        <translation type="unfinished">Войти в конференцию</translation>
     </message>
 </context>
 <context>
@@ -460,13 +541,50 @@
     </message>
 </context>
 <context>
+    <name>Jabber::JInviteManager</name>
+    <message>
+        <location filename="../../src/protocol/account/muc/jinvitemanager.cpp" line="34"/>
+        <source>User %1 invite you
+to conference %2</source>
+        <translation type="unfinished">Пользователь %1 пригласил тебя
+в конференцию: %2</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jinvitemanager.cpp" line="36"/>
+        <source>
+with reason &quot;%1&quot;</source>
+        <translation type="unfinished">
+по причине &quot;%1&quot;</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jinvitemanager.cpp" line="37"/>
+        <source>
+Accept invitation?</source>
+        <translation type="unfinished">
+Принять приглашение?</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jinvitemanager.cpp" line="38"/>
+        <source>Invite to groupchat</source>
+        <translation type="unfinished">Пригласить в конференцию</translation>
+    </message>
+</context>
+<context>
+    <name>Jabber::JMUCJoin</name>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucjoin.cpp" line="23"/>
+        <source>Join groupchat</source>
+        <translation type="unfinished">Войти в конференцию</translation>
+    </message>
+</context>
+<context>
     <name>Jabber::JServiceBrowser</name>
     <message>
         <source>&lt;br/&gt;&lt;b&gt;Identities:&lt;/b&gt;&lt;br/&gt;</source>
         <translation type="obsolete">&lt;br/&gt;&lt;b&gt;Идентификаторы:&lt;/b&gt;&lt;br/&gt;</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="57"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="58"/>
         <source>Search service</source>
         <translation type="unfinished">Служба поиска</translation>
     </message>
@@ -626,105 +744,115 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../src/jplugin.cpp" line="20"/>
-        <location filename="../../src/jplugin.cpp" line="30"/>
+        <location filename="../../src/jplugin.cpp" line="21"/>
+        <location filename="../../src/jplugin.cpp" line="31"/>
         <source>Jabber</source>
         <translation type="unfinished">Jabber/XMPP</translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="21"/>
-        <location filename="../../src/jplugin.cpp" line="31"/>
+        <location filename="../../src/jplugin.cpp" line="22"/>
+        <location filename="../../src/jplugin.cpp" line="32"/>
         <source>Jabber protocol</source>
         <translation type="unfinished">Протокол Jabber</translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="34"/>
+        <location filename="../../src/jplugin.cpp" line="35"/>
         <source>Jabber account creator</source>
         <translation type="unfinished">Создание аккаунта Jabber</translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="35"/>
+        <location filename="../../src/jplugin.cpp" line="36"/>
         <source>Account creator for Jabber protocol</source>
         <translation type="unfinished">Универсальный, Jabber</translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="38"/>
+        <location filename="../../src/jplugin.cpp" line="39"/>
         <source>LiveJournal account creator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="39"/>
+        <location filename="../../src/jplugin.cpp" line="40"/>
         <source>Account creator for LiveJournal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="42"/>
+        <location filename="../../src/jplugin.cpp" line="43"/>
         <source>Google Talk account creator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="43"/>
+        <location filename="../../src/jplugin.cpp" line="44"/>
         <source>Account creator for Google Talk</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="46"/>
+        <location filename="../../src/jplugin.cpp" line="47"/>
         <source>Yandex.Online account creator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="47"/>
+        <location filename="../../src/jplugin.cpp" line="48"/>
         <source>Account creator for Yandex.Online</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="50"/>
+        <location filename="../../src/jplugin.cpp" line="51"/>
         <source>QIP account creator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="51"/>
+        <location filename="../../src/jplugin.cpp" line="52"/>
         <source>Account creator for QIP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="54"/>
+        <location filename="../../src/jplugin.cpp" line="55"/>
         <source>Jabber XML console</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="55"/>
+        <location filename="../../src/jplugin.cpp" line="56"/>
         <source>XML console for low-level protocol debugging</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="58"/>
+        <location filename="../../src/jplugin.cpp" line="59"/>
         <source>Jabber AdHoc</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="59"/>
+        <location filename="../../src/jplugin.cpp" line="60"/>
         <source>Implementation of Ad-hoc Commands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="62"/>
+        <location filename="../../src/jplugin.cpp" line="63"/>
         <source>Jabber Remote Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="63"/>
+        <location filename="../../src/jplugin.cpp" line="64"/>
         <source>Implementation of client remote controlling</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="66"/>
+        <location filename="../../src/jplugin.cpp" line="67"/>
         <source>Jabber Service Browser</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/jplugin.cpp" line="67"/>
+        <location filename="../../src/jplugin.cpp" line="68"/>
         <source>Implementation of service browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/jplugin.cpp" line="71"/>
+        <source>Jabber MUC Join Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/jplugin.cpp" line="72"/>
+        <source>Implementation of groupchat join window</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -826,41 +954,35 @@
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../src/protocol/jprotocol.cpp" line="46"/>
         <source>Online</source>
-        <translation>В сети</translation>
+        <translation type="obsolete">В сети</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/jprotocol.cpp" line="51"/>
         <source>Free for chat</source>
-        <translation>Свободен для разговора</translation>
+        <translation type="obsolete">Свободен для разговора</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/jprotocol.cpp" line="56"/>
         <source>Away</source>
-        <translation>Отошел</translation>
+        <translation type="obsolete">Отошел</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/jprotocol.cpp" line="61"/>
         <source>NA</source>
-        <translation>Недоступен</translation>
+        <translation type="obsolete">Недоступен</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/jprotocol.cpp" line="66"/>
         <source>DND</source>
-        <translation>Не беспокоить</translation>
+        <translation type="obsolete">Не беспокоить</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/jprotocol.cpp" line="71"/>
         <source>Offline</source>
-        <translation>Отключен</translation>
+        <translation type="obsolete">Отключен</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../src/jplugin.cpp" line="25"/>
-        <location filename="../../src/jplugin.cpp" line="28"/>
+        <location filename="../../src/jplugin.cpp" line="26"/>
+        <location filename="../../src/jplugin.cpp" line="29"/>
         <source>Author</source>
         <translation type="unfinished">Автор</translation>
     </message>
@@ -868,7 +990,7 @@
 <context>
     <name>Test</name>
     <message>
-        <location filename="../../src/protocol/jprotocol.cpp" line="87"/>
+        <location filename="../../src/protocol/jprotocol.cpp" line="72"/>
         <source>Test action</source>
         <translation type="unfinished"></translation>
     </message>
