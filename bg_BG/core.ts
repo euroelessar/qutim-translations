@@ -644,7 +644,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+95"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+99"/>
         <source>&amp;Settings...</source>
         <translation>&amp;Настройки...</translation>
     </message>
@@ -1631,7 +1631,7 @@ p, li { white-space: pre-wrap; }
         <translation>Допълнителна конфигурация на qutIM за Apple plists</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-97"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-101"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
@@ -2687,7 +2687,7 @@ Please, disable it to set sounds manually.</source>
 <context>
     <name>XSettingsDialog</name>
     <message>
-        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="+47"/>
+        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="+51"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>

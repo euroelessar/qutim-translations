@@ -245,9 +245,13 @@
 <context>
     <name>JMUCJoin</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucjoin.ui" line="+14"/>
         <source>Dialog</source>
-        <translation>Групов разговор</translation>
+        <translation type="obsolete">Групов разговор</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucjoin.ui" line="+14"/>
+        <source>Join to groupchat</source>
+        <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
         <location line="+75"/>
@@ -340,6 +344,36 @@
         <source>Join groupchat</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+162"/>
+        <source>Join to conference</source>
+        <translation>Присъединяване към конференция</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Leave from conference</source>
+        <translation>Напускане на конференцията</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Copy room address to clipboard</source>
+        <translation>Копиране на адреса на стаята в клип-борда</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Save to bookmarks</source>
+        <translation>Запазване в отметките</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Remove from bookmarks</source>
+        <translation>Премахване от отметките</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Room&apos;s configuration</source>
+        <translation>Настройване на стаята</translation>
+    </message>
 </context>
 <context>
     <name>Jabber::JAdHocWidget</name>
@@ -374,6 +408,14 @@
         <location line="+20"/>
         <source>Ok</source>
         <translation>ОК</translation>
+    </message>
+</context>
+<context>
+    <name>Jabber::JConferenceConfig</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.cpp" line="+26"/>
+        <source>Room configuration: %1</source>
+        <translation>Настройване на стая: %1</translation>
     </message>
 </context>
 <context>
@@ -688,9 +730,61 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCJoin</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucjoin.cpp" line="+23"/>
         <source>Join groupchat</source>
-        <translation>Присъединяване към групов разговор</translation>
+        <translation type="obsolete">Присъединяване към групов разговор</translation>
+    </message>
+</context>
+<context>
+    <name>Jabber::JMUCSession</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+176"/>
+        <source>Not authorized: Password required.</source>
+        <translation>Липсва удостоверение: Изисква се парола.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Forbidden: Access denied, user is banned.</source>
+        <translation>Забрана: Отказан достъп на потребителя.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Item not found: The room does not exist.</source>
+        <translation>Няма намерени резултати: Стаята не съществува.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Not allowed: Room creation is restricted.</source>
+        <translation>Непозволено: Създаването на стая е ограничено.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Not acceptable: Room nicks are locked down.</source>
+        <translation>Неприемливо: Псевдонимите на стаите са заключени.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Registration required: User is not on the member list.</source>
+        <translation>Изисква се регистрация: Потребителят не е в списъка с членове.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Conflict: Desired room nickname is in use or registered by another user.</source>
+        <translation>Конфликт: Желаният псевдоним на стая или вече се използва или е регистриран от друг потребител.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Service unavailable: Maximum number of users has been reached.</source>
+        <translation>Услугата недостъпна: Достигнат е максималният брой потребители .</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Unknown error: No description.</source>
+        <translation>Неизвестна грешка: Липсва описание.</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Join groupchat on</source>
+        <translation>Присъединяване към групов разговор за</translation>
     </message>
 </context>
 <context>
@@ -2037,16 +2131,24 @@ Accept invitation?</source>
 <context>
     <name>RoomConfig</name>
     <message>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui" line="+14"/>
+        <source>Form</source>
+        <translation> </translation>
+    </message>
+    <message>
+        <location line="+44"/>
         <source>Apply</source>
-        <translation type="obsolete">Прилагане</translation>
+        <translation>Прилагане</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>Ok</source>
-        <translation type="obsolete">ОК</translation>
+        <translation>ОК</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>Cancel</source>
-        <translation type="obsolete">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
 </context>
 <context>
@@ -2266,34 +2368,28 @@ Accept invitation?</source>
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+46"/>
         <source>Online</source>
-        <translation>На линия</translation>
+        <translation type="obsolete">На линия</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Free for chat</source>
-        <translation>Свободен за разговор</translation>
+        <translation type="obsolete">Свободен за разговор</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Away</source>
-        <translation>Отсъствам</translation>
+        <translation type="obsolete">Отсъствам</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>NA</source>
-        <translation>Недостъпен съм</translation>
+        <translation type="obsolete">Недостъпен съм</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>DND</source>
-        <translation>Не ме безпокойте</translation>
+        <translation type="obsolete">Не ме безпокойте</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Offline</source>
-        <translation>Извън линия</translation>
+        <translation type="obsolete">Извън линия</translation>
     </message>
 </context>
 <context>
@@ -2308,9 +2404,8 @@ Accept invitation?</source>
 <context>
     <name>Test</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+16"/>
         <source>Test action</source>
-        <translation>Тестово действие</translation>
+        <translation type="obsolete">Тестово действие</translation>
     </message>
 </context>
 <context>
