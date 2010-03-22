@@ -214,7 +214,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="+248"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="+296"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -394,6 +394,11 @@
 <context>
     <name>ContactList</name>
     <message>
+        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+141"/>
+        <source>Possible client</source>
+        <translation>Вероятен клиент</translation>
+    </message>
+    <message>
         <source>Not In List</source>
         <translation type="obsolete">Извън списъка</translation>
     </message>
@@ -401,6 +406,26 @@
         <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+71"/>
         <source>General</source>
         <translation>Общи</translation>
+    </message>
+    <message>
+        <location line="+303"/>
+        <source>Online time</source>
+        <translation>На линия от</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Signed on</source>
+        <translation>Влязъл в</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Away since</source>
+        <translation>Отсъства от</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Reg. date</source>
+        <translation>Регистрация от</translation>
     </message>
     <message>
         <location filename="../../protocols/oscar/src/roster.cpp" line="+82"/>
@@ -3255,7 +3280,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-6"/>
+        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-147"/>
         <source>OscarIdentify</source>
         <translation>Oscar идентификация</translation>
     </message>
@@ -3324,7 +3349,7 @@
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="-267"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="-314"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>
