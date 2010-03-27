@@ -335,7 +335,7 @@
         <translation>XML конзола</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+26"/>
+        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+25"/>
         <source>Service discovery</source>
         <translation>Откриване на услуги</translation>
     </message>
@@ -345,32 +345,32 @@
         <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+162"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+175"/>
         <source>Join to conference</source>
         <translation>Присъединяване към конференция</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+6"/>
         <source>Leave from conference</source>
         <translation>Напускане на конференцията</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+6"/>
         <source>Copy room address to clipboard</source>
         <translation>Копиране на адреса на стаята в клип-борда</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+6"/>
         <source>Save to bookmarks</source>
         <translation>Запазване в отметките</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+6"/>
         <source>Remove from bookmarks</source>
         <translation>Премахване от отметките</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+6"/>
         <source>Room&apos;s configuration</source>
         <translation>Настройване на стаята</translation>
     </message>
@@ -378,8 +378,8 @@
 <context>
     <name>Jabber::JAdHocWidget</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/modules/adhoc/jadhocwidget.cpp" line="+39"/>
-        <location line="+63"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/adhoc/jadhocwidget.cpp" line="+38"/>
+        <location line="+62"/>
         <source>Next</source>
         <translation>Следващ</translation>
     </message>
@@ -737,7 +737,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCSession</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+176"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+233"/>
         <source>Not authorized: Password required.</source>
         <translation>Липсва удостоверение: Изисква се парола.</translation>
     </message>
@@ -794,12 +794,12 @@ Accept invitation?</source>
         <translation type="obsolete">&lt;br/&gt;&lt;b&gt;Самоличности:&lt;/b&gt;&lt;br/&gt;</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+32"/>
+        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+31"/>
         <source>Search service</source>
         <translation>Търсене на услуги</translation>
     </message>
     <message>
-        <location line="+75"/>
+        <location line="+82"/>
         <source>category: </source>
         <translation>категория:</translation>
     </message>

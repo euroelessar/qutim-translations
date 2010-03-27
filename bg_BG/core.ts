@@ -111,7 +111,7 @@
 <context>
     <name>AdiumChat::ChatSessionImpl</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+105"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+107"/>
         <source>Message %1 must have a ChatUnit</source>
         <translation>Съобщението %1 изисква ChatUnit</translation>
     </message>
@@ -131,13 +131,13 @@
         <translation type="obsolete">Емотикони</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+95"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+105"/>
         <source>Ctrl+Return</source>
         <comment>Send message</comment>
         <translation>Ctrl+Return</translation>
     </message>
     <message>
-        <location line="+53"/>
+        <location line="+70"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -335,7 +335,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="-80"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="-102"/>
+        <source>View History</source>
+        <translation>Преглед на хронологията</translation>
+    </message>
+    <message>
+        <location line="+5"/>
         <source>Emoticons</source>
         <translation>Емотикони</translation>
     </message>
@@ -1210,8 +1215,14 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">От:</translation>
     </message>
     <message>
+        <location filename="../../qutim/src/corelayers/jsonhistory/historywindow.ui" line="+14"/>
+        <source>Form</source>
+        <translation>Хронология</translation>
+    </message>
+    <message>
+        <location line="+45"/>
         <source>Search</source>
-        <translation type="obsolete">Търсене</translation>
+        <translation>Търсене</translation>
     </message>
     <message>
         <source>Return</source>
@@ -1350,7 +1361,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>KineticPopups::Popup</name>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/popup.cpp" line="+73"/>
+        <location filename="../../qutim/src/corelayers/kineticpopups/popup.cpp" line="+77"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
         <translation>&lt;p&gt; + %1 оставащи уведомления &lt;/p&gt;</translation>
     </message>
@@ -1665,7 +1676,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM реализация на разговор. На базата на Adium стилове за разговора</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+27"/>
         <source>Helper for chat layer</source>
         <translation type="unfinished">Помощник за слоя за разговори</translation>
     </message>
@@ -1701,7 +1712,7 @@ p, li { white-space: pre-wrap; }
         <translation>Модифициране на %time% и %timeOpened% параметри, на базата на документацията на Apple</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/jsonhistory/jsonhistory.cpp" line="+13"/>
+        <location filename="../../qutim/src/corelayers/jsonhistory/jsonhistory.cpp" line="+14"/>
         <source>Json History</source>
         <translation>JSON хронология</translation>
     </message>

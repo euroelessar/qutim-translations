@@ -10,7 +10,8 @@
     </message>
     <message>
         <location line="+1"/>
-        <location line="+13"/>
+        <location line="+14"/>
+        <location line="+4"/>
         <source>&apos;Quetzal&apos; is set of protocols, powered by libpurple</source>
         <translation>&quot;Quetzal&quot; е набор от протоколи, поддържани от libpurple</translation>
     </message>
@@ -18,7 +19,7 @@
 <context>
     <name>Quetzal</name>
     <message>
-        <location filename="../../protocols/quetzal/src/quetzalaccount.cpp" line="+73"/>
+        <location filename="../../protocols/quetzal/src/quetzalaccount.cpp" line="+74"/>
         <source>Join groupchat</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>
