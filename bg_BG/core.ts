@@ -136,7 +136,7 @@
         <translation type="obsolete">Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+174"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+178"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -164,7 +164,7 @@
         <translation>Главен прозорец</translation>
     </message>
     <message>
-        <location line="+46"/>
+        <location line="+53"/>
         <source>about:blank</source>
         <translation>about:blank</translation>
     </message>
@@ -334,7 +334,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="-100"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="-104"/>
         <source>View History</source>
         <translation>Преглед на хронологията</translation>
     </message>
@@ -450,6 +450,16 @@ p, li { white-space: pre-wrap; }
         <location line="+6"/>
         <source>Close chat</source>
         <translation>Затваряне на разговора</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Next chat</source>
+        <translation>Следващ разговор</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Previous chat</source>
+        <translation>Предходен разговор</translation>
     </message>
 </context>
 <context>
@@ -1711,7 +1721,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбиращ се за qutIM диалог за настройване, с OS X стил на заглавната лента</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatlayerimpl.cpp" line="-26"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayerimpl.cpp" line="-36"/>
         <source>Webkit chat layer</source>
         <translation>WebKit слой за разговор</translation>
     </message>
@@ -1725,7 +1735,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM реализация на разговор. На базата на Adium стилове за разговора</translation>
     </message>
     <message>
-        <location line="+39"/>
+        <location line="+49"/>
         <source>Helper for chat layer</source>
         <translation type="unfinished">Помощник за слоя за разговори</translation>
     </message>
