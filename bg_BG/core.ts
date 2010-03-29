@@ -131,13 +131,12 @@
         <translation type="obsolete">Емотикони</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+105"/>
         <source>Ctrl+Return</source>
         <comment>Send message</comment>
-        <translation>Ctrl+Return</translation>
+        <translation type="obsolete">Ctrl+Return</translation>
     </message>
     <message>
-        <location line="+70"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+174"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -335,7 +334,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="-102"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="-100"/>
         <source>View History</source>
         <translation>Преглед на хронологията</translation>
     </message>
@@ -442,9 +441,15 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatLayer</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatlayerimpl.cpp" line="+43"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayerimpl.cpp" line="+44"/>
+        <location line="+5"/>
         <source>Send message</source>
         <translation>Изпращане на съобщение</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Close chat</source>
+        <translation>Затваряне на разговора</translation>
     </message>
 </context>
 <context>
@@ -649,7 +654,17 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+99"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+78"/>
+        <source>Change global status</source>
+        <translation>Промяна на общия статус</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Activate main menu</source>
+        <translation>Активиране на главното меню</translation>
+    </message>
+    <message>
+        <location line="+29"/>
         <source>&amp;Settings...</source>
         <translation>&amp;Настройки...</translation>
     </message>
@@ -664,7 +679,7 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Изход</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+19"/>
         <source>Hide offline</source>
         <translation>Скриване на потребителите извън линия</translation>
     </message>
@@ -861,6 +876,33 @@ p, li { white-space: pre-wrap; }
         <location line="+3"/>
         <source>Vasya is reading you mind</source>
         <translation>Вася чете мислите ви</translation>
+    </message>
+</context>
+<context>
+    <name>Core::HistoryWindow</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/jsonhistory/historywindow.cpp" line="+40"/>
+        <location line="+58"/>
+        <source>No History</source>
+        <translation>Няма хронология</translation>
+    </message>
+    <message>
+        <location line="-57"/>
+        <location line="+378"/>
+        <source>In: %L1</source>
+        <translation>Входящи: %L1</translation>
+    </message>
+    <message>
+        <location line="-377"/>
+        <location line="+378"/>
+        <source>Out: %L1</source>
+        <translation>Изходящи: %L1</translation>
+    </message>
+    <message>
+        <location line="-377"/>
+        <location line="+378"/>
+        <source>All: %L1</source>
+        <translation>Общо: %L1</translation>
     </message>
 </context>
 <context>
@@ -1203,46 +1245,53 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HistoryWindowClass</name>
     <message>
-        <source>HistoryWindow</source>
-        <translation type="obsolete">Хронология</translation>
-    </message>
-    <message>
-        <source>Account:</source>
-        <translation type="obsolete">Сметка:</translation>
-    </message>
-    <message>
-        <source>From:</source>
-        <translation type="obsolete">От:</translation>
-    </message>
-    <message>
         <location filename="../../qutim/src/corelayers/jsonhistory/historywindow.ui" line="+14"/>
-        <source>Form</source>
+        <source>HistoryWindow</source>
         <translation>Хронология</translation>
     </message>
     <message>
-        <location line="+45"/>
+        <location line="+13"/>
+        <source>Account:</source>
+        <translation>Сметка:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>From:</source>
+        <translation>От:</translation>
+    </message>
+    <message>
+        <source>Form</source>
+        <translation type="obsolete">Хронология</translation>
+    </message>
+    <message>
+        <location line="+60"/>
         <source>Search</source>
         <translation>Търсене</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Return</source>
-        <translation type="obsolete">Връщане</translation>
+        <translation>Връщане</translation>
     </message>
     <message>
+        <location line="+36"/>
         <source>1</source>
-        <translation type="obsolete">1</translation>
+        <translation>1</translation>
     </message>
     <message>
+        <location line="-73"/>
         <source>In: %L1</source>
-        <translation type="obsolete">Входящи: %L1</translation>
+        <translation>Входящи: %L1</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>Out: %L1</source>
-        <translation type="obsolete">Изходящи: %L1</translation>
+        <translation>Изходящи: %L1</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>All: %L1</source>
-        <translation type="obsolete">Общо: %L1</translation>
+        <translation>Общо: %L1</translation>
     </message>
 </context>
 <context>
@@ -1642,7 +1691,7 @@ p, li { white-space: pre-wrap; }
         <translation>Допълнителна конфигурация на qutIM за Apple plists</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-101"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-115"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
@@ -1662,7 +1711,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбиращ се за qutIM диалог за настройване, с OS X стил на заглавната лента</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatlayerimpl.cpp" line="-15"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayerimpl.cpp" line="-26"/>
         <source>Webkit chat layer</source>
         <translation>WebKit слой за разговор</translation>
     </message>
@@ -1676,7 +1725,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM реализация на разговор. На базата на Adium стилове за разговора</translation>
     </message>
     <message>
-        <location line="+27"/>
+        <location line="+39"/>
         <source>Helper for chat layer</source>
         <translation type="unfinished">Помощник за слоя за разговори</translation>
     </message>
@@ -3531,6 +3580,11 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Switch profile</source>
         <translation type="obsolete">Смяна на профил</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+52"/>
+        <source>Find</source>
+        <translation>Намиране</translation>
     </message>
 </context>
 <context>

@@ -2596,4 +2596,8 @@
     <source>X-Status</source>
     <target>Разширен статус</target>
 </phrase>
+<phrase>
+    <source>Find</source>
+    <target>Намиране</target>
+</phrase>
 </QPH>
