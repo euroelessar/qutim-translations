@@ -111,7 +111,7 @@
 <context>
     <name>AdiumChat::ChatSessionImpl</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+107"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+109"/>
         <source>Message %1 must have a ChatUnit</source>
         <translation>Съобщението %1 изисква ChatUnit</translation>
     </message>
@@ -136,7 +136,7 @@
         <translation type="obsolete">Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+178"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+187"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -334,7 +334,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="-104"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="-111"/>
         <source>View History</source>
         <translation>Преглед на хронологията</translation>
     </message>
