@@ -662,6 +662,29 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>ContactInfo</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="+72"/>
+        <source>the field is not set</source>
+        <translation>не е зададено</translation>
+    </message>
+    <message>
+        <location line="+47"/>
+        <source>About contact %1 &lt;%2&gt;</source>
+        <translation>За контакта %1 &lt;%2&gt;</translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>General</source>
+        <translation>Общо</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Show information</source>
+        <translation>Показване на информация</translation>
+    </message>
+</context>
+<context>
     <name>ContactList</name>
     <message>
         <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+78"/>
@@ -1931,6 +1954,16 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Module for migration from 0.2 to 0.3</source>
         <translation>Модул за миграция от 0.2 към 0.3</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="-145"/>
+        <source>Simple information window about a contact</source>
+        <translation>Опростен прозорец с информация за контакта</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Default qutIM implementation of the information window</source>
+        <translation>Подразбираща се за qutIM реализация на прозорец с информация</translation>
     </message>
 </context>
 <context>

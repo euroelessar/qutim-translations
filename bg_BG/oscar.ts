@@ -403,12 +403,12 @@
         <translation type="obsolete">Извън списъка</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+73"/>
+        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+131"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+314"/>
+        <location line="+319"/>
         <source>Online time</source>
         <translation>На линия от</translation>
     </message>
@@ -3075,7 +3075,23 @@
         <translation>Минало</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../protocols/oscar/src/metainfo.cpp" line="+82"/>
+        <source>Basic</source>
+        <translation>Основна</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>More</source>
+        <translation>Повече</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Work</source>
+        <translation>Служебна</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+1"/>
         <source>Affilations</source>
         <translation>Принадлежности</translation>
     </message>
@@ -3083,7 +3099,7 @@
 <context>
     <name>Occupation</name>
     <message>
-        <location line="-126"/>
+        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="-126"/>
         <source>Academic</source>
         <translation>Академична</translation>
     </message>
