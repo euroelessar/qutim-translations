@@ -1667,8 +1667,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+1"/>
+        <source>Default qutIM popup implementation. Powered by Kinetic</source>
+        <translation>Подразбираща се за qutIM реализация на изскачащи прозорци. На базата на Kinetic</translation>
+    </message>
+    <message>
         <source>Default qutIM popup realization. Powered by Kinetic</source>
-        <translation>Конфигурация на qutIM по подразбиране. Базирана на Kinetic</translation>
+        <translation type="obsolete">Конфигурация на qutIM по подразбиране. Базирана на Kinetic</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/aescrypto/aescryptoservice.cpp" line="+8"/>
@@ -1677,8 +1681,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+1"/>
-        <source>Default qutIM crypto realization. Based on algorithm aes256</source>
+        <source>Default qutIM crypto implementation. Based on algorithm aes256</source>
         <translation>Подразбираща се за qutIM реализация на шифриране. На базата на aes256 алгоритъма</translation>
+    </message>
+    <message>
+        <source>Default qutIM crypto realization. Based on algorithm aes256</source>
+        <translation type="obsolete">Подразбираща се за qutIM реализация на шифриране. На базата на aes256 алгоритъма</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/configbackends/jsonconfigbackend.cpp" line="+29"/>
@@ -1687,18 +1695,26 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+1"/>
-        <source>Default qutIM config realization. Based on JSON.</source>
-        <translation>Конфигурация на qutIM по подразбиране. Базирана на JSON.</translation>
+        <source>Default qutIM config implementation. Based on JSON.</source>
+        <translation>Подразбираща се за qutIM реализация на конфигурационни файлове. На базата на JSON</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+2"/>
+        <source>Additional qutIM config implementation for Apple plists</source>
+        <translation>Допълнителна реализация на конфигурационни файлове на qutIM за Apple plists</translation>
+    </message>
+    <message>
+        <source>Default qutIM config realization. Based on JSON.</source>
+        <translation type="obsolete">Конфигурация на qutIM по подразбиране. Базирана на JSON.</translation>
+    </message>
+    <message>
+        <location line="-1"/>
         <source>PList config</source>
         <translation>PList конфигурация</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Additional qutIM config realization for Apple plists</source>
-        <translation>Допълнителна конфигурация на qutIM за Apple plists</translation>
+        <translation type="obsolete">Допълнителна конфигурация на qutIM за Apple plists</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-115"/>
@@ -1707,8 +1723,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+1"/>
+        <source>Default qutIM contact list implementation. Just simple</source>
+        <translation>Подразбираща се за qutIM реализация на списък с контакти. Опростена</translation>
+    </message>
+    <message>
         <source>Default qutIM contact list realization. Just simple</source>
-        <translation>Конфигурация на qutIM по подразбиране. Опростена</translation>
+        <translation type="obsolete">Конфигурация на qutIM по подразбиране. Опростена</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingslayerimpl.cpp" line="+22"/>
@@ -1717,8 +1737,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+1"/>
-        <source>Default qutIM settings dialog realization with OS X style top bar</source>
+        <source>Default qutIM settings dialog implementation with OS X style top bar</source>
         <translation>Подразбиращ се за qutIM диалог за настройване, с OS X стил на заглавната лента</translation>
+    </message>
+    <message>
+        <source>Default qutIM settings dialog realization with OS X style top bar</source>
+        <translation type="obsolete">Подразбиращ се за qutIM диалог за настройване, с OS X стил на заглавната лента</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatlayerimpl.cpp" line="-36"/>
@@ -1777,8 +1801,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+1"/>
-        <source>Default qutIM history realization, based on JavaScript Object Notation</source>
+        <source>Default qutIM history implementation, based on JavaScript Object Notation</source>
         <translation>Подразбираща се за qutIM конфигурация на хронология. На базата на JSON</translation>
+    </message>
+    <message>
+        <source>Default qutIM history realization, based on JavaScript Object Notation</source>
+        <translation type="obsolete">Подразбираща се за qutIM конфигурация на хронология. На базата на JSON</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/accountcreator/accountcreator.cpp" line="+9"/>
@@ -1857,8 +1885,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+1"/>
-        <source>Default qutIM icon loader realization. Based on Q-XDG library</source>
+        <source>Default qutIM icon loader implementation. Based on Q-XDG library</source>
         <translation>Подразбираща се за qutIM реализация на икони. На базата на Q-XDG библиотеката</translation>
+    </message>
+    <message>
+        <source>Default qutIM icon loader realization. Based on Q-XDG library</source>
+        <translation type="obsolete">Подразбираща се за qutIM реализация на икони. На базата на Q-XDG библиотеката</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/authdialog/authdialogimpl.cpp" line="+11"/>

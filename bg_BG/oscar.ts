@@ -399,24 +399,29 @@
         <translation type="obsolete">Извън списъка</translation>
     </message>
     <message>
+        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+73"/>
         <source>General</source>
-        <translation type="obsolete">Общи</translation>
+        <translation type="unfinished">Общи</translation>
     </message>
     <message>
+        <location line="+314"/>
         <source>Online time</source>
-        <translation type="obsolete">На линия от</translation>
+        <translation type="unfinished">На линия от</translation>
     </message>
     <message>
+        <location line="+6"/>
         <source>Signed on</source>
-        <translation type="obsolete">Влязъл в</translation>
+        <translation type="unfinished">Влязъл в</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>Away since</source>
-        <translation type="obsolete">Отсъства от</translation>
+        <translation type="unfinished">Отсъства от</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>Reg. date</source>
-        <translation type="obsolete">Регистрация от</translation>
+        <translation type="unfinished">Регистрация от</translation>
     </message>
     <message>
         <location filename="../../protocols/oscar/src/roster.cpp" line="+82"/>
