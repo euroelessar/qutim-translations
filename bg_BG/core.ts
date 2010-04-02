@@ -1019,6 +1019,72 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::ProtocolChooserWidget</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/servicechooser/protocolchooserwidget.cpp" line="+111"/>
+        <source>&lt;b&gt;Name: &lt;/b&gt; %1 &lt;br /&gt;</source>
+        <translation>&lt;b&gt;Наименование: &lt;/b&gt; %1 &lt;br /&gt;</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&lt;b&gt;Description: &lt;/b&gt; %1 &lt;br /&gt;</source>
+        <translation>&lt;b&gt;Описание: &lt;/b&gt; %1 &lt;br /&gt;</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>&lt;b&gt;Name:&lt;/b&gt; %1&lt;/br&gt;</source>
+        <translation>&lt;b&gt;Име:&lt;/b&gt; %1&lt;/br&gt;</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&lt;b&gt;Task:&lt;/b&gt; %1&lt;/br&gt;</source>
+        <translation>&lt;b&gt;Задача:&lt;/b&gt; %1&lt;/br&gt;</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</source>
+        <translation>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&lt;b&gt;Webpage:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</source>
+        <translation>&lt;b&gt;Страница:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>Core::ServiceChooserWidget</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/servicechooser/servicechooserwidget.cpp" line="+119"/>
+        <source>&lt;b&gt;Name: &lt;/b&gt; %1 &lt;br /&gt;</source>
+        <translation>&lt;b&gt;Наименование: &lt;/b&gt; %1 &lt;br /&gt;</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&lt;b&gt;Description: &lt;/b&gt; %1 &lt;br /&gt;</source>
+        <translation>&lt;b&gt;Описание: &lt;/b&gt; %1 &lt;br /&gt;</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>&lt;b&gt;Name:&lt;/b&gt; %1&lt;/br&gt;</source>
+        <translation>&lt;b&gt;Име:&lt;/b&gt; %1&lt;/br&gt;</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&lt;b&gt;Task:&lt;/b&gt; %1&lt;/br&gt;</source>
+        <translation>&lt;b&gt;Задача:&lt;/b&gt; %1&lt;/br&gt;</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</source>
+        <translation>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&lt;b&gt;Webpage:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</source>
+        <translation>&lt;b&gt;Страница:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
+    </message>
+</context>
+<context>
     <name>Core::SimpleContactList::Model</name>
     <message>
         <source>Contacts</source>
@@ -1862,7 +1928,7 @@ p, li { white-space: pre-wrap; }
         <translation>Прозорец на настройки по подразбиране за Adium разговор</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/emoticonssettings/emoticonssettings.cpp" line="+11"/>
+        <location filename="../../qutim/src/corelayers/emoticonssettings/emoticonssettings.cpp" line="+26"/>
         <source>Emoticons settings</source>
         <translation>Настройки на емотикони</translation>
     </message>
@@ -1964,6 +2030,16 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Default qutIM implementation of the information window</source>
         <translation>Подразбираща се за qutIM реализация на прозорец с информация</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/servicechooser/servicechooser.cpp" line="+26"/>
+        <source>Service shooser</source>
+        <translation>Избор на услуги</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>TODO</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2297,6 +2373,19 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>ServiceChooser</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/servicechooser/servicechooserwidget.ui" line="+14"/>
+        <source>Form</source>
+        <translation>Услуги</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+</context>
+<context>
     <name>Settings</name>
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/settings/popupsettings.cpp" line="+4"/>
@@ -2351,6 +2440,16 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/localization/localizationmodule.cpp" line="+8"/>
         <source>Localization</source>
         <translation>Локализация</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/servicechooser/servicechooser.cpp" line="+5"/>
+        <source>Service Chooser</source>
+        <translation>Избор на услуги</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Protocol chooser</source>
+        <translation>Избор на протоколи</translation>
     </message>
 </context>
 <context>
