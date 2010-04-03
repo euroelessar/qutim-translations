@@ -676,7 +676,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+26"/>
         <source>General</source>
-        <translation>Общо</translation>
+        <translation>Общи</translation>
     </message>
     <message>
         <location line="+22"/>
