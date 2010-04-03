@@ -244,4 +244,2124 @@
     <source>Clipboard</source>
     <target>Ссылку в буфер</target>
 </phrase>
+<phrase>
+    <source>Appearance</source>
+    <target>Оформление</target>
+</phrase>
+<phrase>
+    <source>Close chat</source>
+    <target>Закрыть чат</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Name: &lt;/b&gt; %1 &lt;br /&gt;</source>
+    <target>&lt;b&gt;Имя: &lt;/b&gt; %1 &lt;br /&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Description: &lt;/b&gt; %1 &lt;br /&gt;</source>
+    <target>&lt;b&gt;Описание: &lt;/b&gt; %1 &lt;br /&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Name:&lt;/b&gt; %1&lt;/br&gt;</source>
+    <target>&lt;b&gt;Имя:&lt;/b&gt; %1&lt;/br&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Task:&lt;/b&gt; %1&lt;/br&gt;</source>
+    <target>&lt;b&gt;Задача:&lt;/b&gt; %1&lt;/br&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</source>
+    <target>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot; title=&quot;Электропочта&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Webpage:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</source>
+    <target>&lt;b&gt;Веб-страничка:&lt;/b&gt; &lt;a href=&quot;%1&quot; title=&quot;Хомячок&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</target>
+</phrase>
+<phrase>
+    <source>No History</source>
+    <target>Нет истории (x_X)</target>
+</phrase>
+<phrase>
+    <source>In: %L1</source>
+    <target>Пришло: %L1</target>
+</phrase>
+<phrase>
+    <source>Out: %L1</source>
+    <target>Ушло: %L1</target>
+</phrase>
+<phrase>
+    <source>All: %L1</source>
+    <target>Всего: %L1</target>
+</phrase>
+<phrase>
+    <source>Chat settings</source>
+    <target>Настройки чата</target>
+</phrase>
+<phrase>
+    <source>Resource</source>
+    <target>Ресурс</target>
+</phrase>
+<phrase>
+    <source>Possible client</source>
+    <target>Возможный клиент</target>
+</phrase>
+<phrase>
+    <source>Filter:</source>
+    <target>Фильтр:</target>
+</phrase>
+<phrase>
+    <source>Editing %1</source>
+    <target>Редактирование %1</target>
+</phrase>
+<phrase>
+    <source>AddAccountForm</source>
+    <target>Добавление учетных записей</target>
+</phrase>
+<phrase>
+    <source>UIN:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Password:</source>
+    <target>Пароль:</target>
+</phrase>
+<phrase>
+    <source>Save password</source>
+    <target>Сохранить пароль</target>
+</phrase>
+<phrase>
+    <source>Send file</source>
+    <target>Отправить файл</target>
+</phrase>
+<phrase>
+    <source>Open File</source>
+    <target>Открыть файл</target>
+</phrase>
+<phrase>
+    <source>All files (*)</source>
+    <target>Все файлы (*)</target>
+</phrase>
+<phrase>
+    <source>ICQ General</source>
+    <target>ICQ главные</target>
+</phrase>
+<phrase>
+    <source>Statuses</source>
+    <target>Статусы</target>
+</phrase>
+<phrase>
+    <source>Contacts</source>
+    <target>Контакты</target>
+</phrase>
+<phrase>
+    <source>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;External ip:&lt;/b&gt; %1.%2.%3.%4&lt;br&gt;&lt;/font&gt;</source>
+    <target>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Внешний IP:&lt;/b&gt; %1.%2.%3.%4&lt;br&gt;&lt;/font&gt;</target>
+</phrase>
+<phrase>
+    <source>Authorize</source>
+    <target>Авторизовать</target>
+</phrase>
+<phrase>
+    <source>Decline</source>
+    <target>Отклонить</target>
+</phrase>
+<phrase>
+    <source>OK</source>
+    <target>Ок</target>
+</phrase>
+<phrase>
+    <source>Apply</source>
+    <target>Применить</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>Отмена</target>
+</phrase>
+<phrase>
+    <source>Icq settings</source>
+    <target>Настройки ICQ</target>
+</phrase>
+<phrase>
+    <source>AOL expert settings</source>
+    <target>Точные настройки AOL для специалистов</target>
+</phrase>
+<phrase>
+    <source>Client id:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Server</source>
+    <target>Сервер</target>
+</phrase>
+<phrase>
+    <source>Host:</source>
+    <target>Хост:</target>
+</phrase>
+<phrase>
+    <source>Port:</source>
+    <target>Порт:</target>
+</phrase>
+<phrase>
+    <source>Autoconnect on start</source>
+    <target>Автоматически подключаться при старте</target>
+</phrase>
+<phrase>
+    <source>Save password:</source>
+    <target>Сохранить пароль:</target>
+</phrase>
+<phrase>
+    <source>Keep connection alive</source>
+    <target>Поддерживать соединение</target>
+</phrase>
+<phrase>
+    <source>Secure login</source>
+    <target>Безопасный вход</target>
+</phrase>
+<phrase>
+    <source>Proxy connection</source>
+    <target>Соединение через прокси</target>
+</phrase>
+<phrase>
+    <source>Listen port for file transfer:</source>
+    <target>Порт для передачи файлов:</target>
+</phrase>
+<phrase>
+    <source>Proxy</source>
+    <target>Прокси</target>
+</phrase>
+<phrase>
+    <source>Type:</source>
+    <target>Тип:</target>
+</phrase>
+<phrase>
+    <source>None</source>
+    <target>Нет</target>
+</phrase>
+<phrase>
+    <source>HTTP</source>
+    <target>HTTP</target>
+</phrase>
+<phrase>
+    <source>SOCKS 5</source>
+    <target>SOCKS5</target>
+</phrase>
+<phrase>
+    <source>Authentication</source>
+    <target>Аутентификация</target>
+</phrase>
+<phrase>
+    <source>User name:</source>
+    <target>Имя пользователя:</target>
+</phrase>
+<phrase>
+    <source>Move</source>
+    <target>Переместить</target>
+</phrase>
+<phrase>
+    <source>Add %1</source>
+    <target>Добавить %1</target>
+</phrase>
+<phrase>
+    <source>Invalid nick or password</source>
+    <target>Недействительный ник или пароль</target>
+</phrase>
+<phrase>
+    <source>Service temporarily unavailable</source>
+    <target>Сервис временно недоступен</target>
+</phrase>
+<phrase>
+    <source>Incorrect nick or password</source>
+    <target>Некорректный ник или пароль</target>
+</phrase>
+<phrase>
+    <source>Mismatch nick or password</source>
+    <target>Несовпадение ника или пароля</target>
+</phrase>
+<phrase>
+    <source>Internal client error (bad input to authorizer)</source>
+    <target>Внутренняя ошибка клиента (неправильный ввод авторизации)</target>
+</phrase>
+<phrase>
+    <source>Invalid account</source>
+    <target>Недействительная учетная запись</target>
+</phrase>
+<phrase>
+    <source>Deleted account</source>
+    <target>Удалённая учетная запись</target>
+</phrase>
+<phrase>
+    <source>Expired account</source>
+    <target>Просроченная учетная запись</target>
+</phrase>
+<phrase>
+    <source>No access to database</source>
+    <target>Нет доступа к базе данных</target>
+</phrase>
+<phrase>
+    <source>No access to resolver</source>
+    <target>Нет доступа к DNS</target>
+</phrase>
+<phrase>
+    <source>Invalid database fields</source>
+    <target>Недействительные поля в базе данных</target>
+</phrase>
+<phrase>
+    <source>Bad database status</source>
+    <target>Плохой статус базы данных</target>
+</phrase>
+<phrase>
+    <source>Bad resolver status</source>
+    <target>Плохой статус DNS</target>
+</phrase>
+<phrase>
+    <source>Internal error</source>
+    <target>Внутренняя ошибка</target>
+</phrase>
+<phrase>
+    <source>Service temporarily offline</source>
+    <target>Сервис временно отключен</target>
+</phrase>
+<phrase>
+    <source> Suspended account</source>
+    <target>Замороженная учетная запись</target>
+</phrase>
+<phrase>
+    <source>DB send error</source>
+    <target>Ошибка запроса базы данных</target>
+</phrase>
+<phrase>
+    <source>DB link error</source>
+    <target>Ошибка связи с базой данных</target>
+</phrase>
+<phrase>
+    <source>The users num connected from this IP has reached the maximum</source>
+    <target>Количество пользователей с данного IP адреса достигло максимума</target>
+</phrase>
+<phrase>
+    <source> The users num connected from this IP has reached the maximum (reservation)</source>
+    <target>Количество пользователей с данного IP адреса достигло максимума</target>
+</phrase>
+<phrase>
+    <source>Rate limit exceeded (reservation). Please try to reconnect in a few minutes</source>
+    <target>Лимит частоты подключений достигнут. Пожалуйста, попробуйте заново через несколько минут</target>
+</phrase>
+<phrase>
+    <source>Reservation timeout</source>
+    <target>Превышено время подключения</target>
+</phrase>
+<phrase>
+    <source>You are using an older version of ICQ. Upgrade required</source>
+    <target>Вы используете старую версию ICQ. Необходимо обновление</target>
+</phrase>
+<phrase>
+    <source>You are using an older version of ICQ. Upgrade recommended</source>
+    <target>Вы используете старую версию ICQ. Рекомендуется обновление</target>
+</phrase>
+<phrase>
+    <source>Rate limit exceeded. Please try to reconnect in a few minutes</source>
+    <target>Лимит частоты подключений достигнут. Пожалуйста, попробуйте заново через несколько минут</target>
+</phrase>
+<phrase>
+    <source>Can&apos;t register on the ICQ network. Reconnect in a few minutes</source>
+    <target>Невозможно зарегистрироваться в ICQ. Пожалуйста попробуйте заново через несколько минут</target>
+</phrase>
+<phrase>
+    <source>Invalid SecurID</source>
+    <target>Недействительный SecurID</target>
+</phrase>
+<phrase>
+    <source>Account suspended because of your age (age &lt; 13)</source>
+    <target>Учетная запись заморожена из-за вашего возраста (возраст &lt; 13)</target>
+</phrase>
+<phrase>
+    <source>Connection Error</source>
+    <target>Ошибка соединения</target>
+</phrase>
+<phrase>
+    <source>Another client is loggin with this uin</source>
+    <target>Другой клиент с этим номером  зашёл в сеть</target>
+</phrase>
+<phrase>
+    <source>is online</source>
+    <target>в сети</target>
+</phrase>
+<phrase>
+    <source>Angry</source>
+    <target>Злой</target>
+</phrase>
+<phrase>
+    <source>is away</source>
+    <target>отошел</target>
+</phrase>
+<phrase>
+    <source>is dnd</source>
+    <target>не беспокоить</target>
+</phrase>
+<phrase>
+    <source>is n/a</source>
+    <target>недоступен</target>
+</phrase>
+<phrase>
+    <source>is occupied</source>
+    <target>занят</target>
+</phrase>
+<phrase>
+    <source>is free for chat</source>
+    <target>готов поболтать</target>
+</phrase>
+<phrase>
+    <source>is invisible</source>
+    <target>невидимый</target>
+</phrase>
+<phrase>
+    <source>is offline</source>
+    <target>отключен</target>
+</phrase>
+<phrase>
+    <source>at home</source>
+    <target>дома</target>
+</phrase>
+<phrase>
+    <source>at work</source>
+    <target>на работе</target>
+</phrase>
+<phrase>
+    <source>having lunch</source>
+    <target>ест</target>
+</phrase>
+<phrase>
+    <source>is evil</source>
+    <target>злой</target>
+</phrase>
+<phrase>
+    <source>in depression</source>
+    <target>в депрессии</target>
+</phrase>
+<phrase>
+    <source>%1 is reading your away message</source>
+    <target>%1 читает ваше сообщение об отсутствии</target>
+</phrase>
+<phrase>
+    <source>%1 is reading your x-status message</source>
+    <target>%1 читает ваше х-статус сообщение</target>
+</phrase>
+<phrase>
+    <source>Password is successfully changed</source>
+    <target>Пароль успешно изменен</target>
+</phrase>
+<phrase>
+    <source>Password is not changed</source>
+    <target>Пароль не изменен</target>
+</phrase>
+<phrase>
+    <source>Add/find users</source>
+    <target>Найти/добавить пользователей</target>
+</phrase>
+<phrase>
+    <source>Send multiple</source>
+    <target>Групповая отправка</target>
+</phrase>
+<phrase>
+    <source>Privacy lists</source>
+    <target>Списки приватности</target>
+</phrase>
+<phrase>
+    <source>View/change my details</source>
+    <target>Посмотреть/изменить мои данные</target>
+</phrase>
+<phrase>
+    <source>Change my password</source>
+    <target>Изменить мой пароль</target>
+</phrase>
+<phrase>
+    <source>You were added</source>
+    <target>Вас добавили</target>
+</phrase>
+<phrase>
+    <source>New group</source>
+    <target>Новая группа</target>
+</phrase>
+<phrase>
+    <source>Rename group</source>
+    <target>Переименовать группу</target>
+</phrase>
+<phrase>
+    <source>Delete group</source>
+    <target>Удалить группу</target>
+</phrase>
+<phrase>
+    <source>Send message</source>
+    <target>Отправить сообщение</target>
+</phrase>
+<phrase>
+    <source>Contact details</source>
+    <target>Детали контакта</target>
+</phrase>
+<phrase>
+    <source>Copy UIN to clipboard</source>
+    <target>Скопировать UIN в буфер</target>
+</phrase>
+<phrase>
+    <source>Contact status check</source>
+    <target>Проверить статус контакта</target>
+</phrase>
+<phrase>
+    <source>Message history</source>
+    <target>История сообщения</target>
+</phrase>
+<phrase>
+    <source>Read away message</source>
+    <target>Прочитать сообщение об отсутствии</target>
+</phrase>
+<phrase>
+    <source>Rename contact</source>
+    <target>Переименовать контакт</target>
+</phrase>
+<phrase>
+    <source>Delete contact</source>
+    <target>Удалить контакт</target>
+</phrase>
+<phrase>
+    <source>Move to group</source>
+    <target>Переместить в группу</target>
+</phrase>
+<phrase>
+    <source>Add to visible list</source>
+    <target>Добавить в список видимости</target>
+</phrase>
+<phrase>
+    <source>Add to invisible list</source>
+    <target>Добавить в список невидимости</target>
+</phrase>
+<phrase>
+    <source>Add to ignore list</source>
+    <target>Добавить в список игнорирования</target>
+</phrase>
+<phrase>
+    <source>Delete from visible list</source>
+    <target>Удалить из списка видимости</target>
+</phrase>
+<phrase>
+    <source>Delete from invisible list</source>
+    <target>Удалить из списка невидимости</target>
+</phrase>
+<phrase>
+    <source>Delete from ignore list</source>
+    <target>Удалить из списка игнорирования</target>
+</phrase>
+<phrase>
+    <source>Authorization request</source>
+    <target>Запрос авторизации</target>
+</phrase>
+<phrase>
+    <source>Add to contact list</source>
+    <target>Добавить в список контактов</target>
+</phrase>
+<phrase>
+    <source>Allow contact to add me</source>
+    <target>Разрешить контакту добавить меня</target>
+</phrase>
+<phrase>
+    <source>Remove myself from contact&apos;s list</source>
+    <target>Удалить себя из его списка контактов</target>
+</phrase>
+<phrase>
+    <source>Read custom status</source>
+    <target>Прочитать статус</target>
+</phrase>
+<phrase>
+    <source>Edit note</source>
+    <target>Редактировать заметку</target>
+</phrase>
+<phrase>
+    <source>Create group</source>
+    <target>Создать группу</target>
+</phrase>
+<phrase>
+    <source>Delete group &quot;%1&quot;?</source>
+    <target>Удалить группу &quot;%1&quot;?</target>
+</phrase>
+<phrase>
+    <source>%1 away message</source>
+    <target>Сообщение об отсутствии %1</target>
+</phrase>
+<phrase>
+    <source>Delete %1</source>
+    <target>Удалить %1</target>
+</phrase>
+<phrase>
+    <source>Move %1 to:</source>
+    <target>Переместить %1 в:</target>
+</phrase>
+<phrase>
+    <source>Accept authorization from %1</source>
+    <target>Принять авторизацию от %1</target>
+</phrase>
+<phrase>
+    <source>Authorization accepted</source>
+    <target>Авторизация принята</target>
+</phrase>
+<phrase>
+    <source>Authorization declined</source>
+    <target>Авторизация отклонена</target>
+</phrase>
+<phrase>
+    <source>%1 xStatus message</source>
+    <target>%1 х-статус</target>
+</phrase>
+<phrase>
+    <source>Contact does not support file transfer</source>
+    <target>Контакт не поддерживает передачу файлов</target>
+</phrase>
+<phrase>
+    <source>Taking a bath</source>
+    <target>Принимаю душ/ванну</target>
+</phrase>
+<phrase>
+    <source>Tired</source>
+    <target>Устал</target>
+</phrase>
+<phrase>
+    <source>Party</source>
+    <target>Вечеринка</target>
+</phrase>
+<phrase>
+    <source>Drinking beer</source>
+    <target>Пью пиво</target>
+</phrase>
+<phrase>
+    <source>Thinking</source>
+    <target>Думаю</target>
+</phrase>
+<phrase>
+    <source>Eating</source>
+    <target>Ем</target>
+</phrase>
+<phrase>
+    <source>Watching TV</source>
+    <target>Смотрю ТВ</target>
+</phrase>
+<phrase>
+    <source>Meeting</source>
+    <target>Встреча</target>
+</phrase>
+<phrase>
+    <source>Coffee</source>
+    <target>Кофе</target>
+</phrase>
+<phrase>
+    <source>Listening to music</source>
+    <target>Слушаю музыку</target>
+</phrase>
+<phrase>
+    <source>Business</source>
+    <target>Дела</target>
+</phrase>
+<phrase>
+    <source>Shooting</source>
+    <target>Кино</target>
+</phrase>
+<phrase>
+    <source>Having fun</source>
+    <target>Развлекаюсь</target>
+</phrase>
+<phrase>
+    <source>On the phone</source>
+    <target>На телефоне</target>
+</phrase>
+<phrase>
+    <source>Gaming</source>
+    <target>Играю</target>
+</phrase>
+<phrase>
+    <source>Studying</source>
+    <target>Учусь</target>
+</phrase>
+<phrase>
+    <source>Shopping</source>
+    <target>Покупки</target>
+</phrase>
+<phrase>
+    <source>Feeling sick</source>
+    <target>Приболел</target>
+</phrase>
+<phrase>
+    <source>Sleeping</source>
+    <target>Сплю</target>
+</phrase>
+<phrase>
+    <source>Surfing</source>
+    <target>Отрываюсь</target>
+</phrase>
+<phrase>
+    <source>Browsing</source>
+    <target>В интернете</target>
+</phrase>
+<phrase>
+    <source>Working</source>
+    <target>Работаю</target>
+</phrase>
+<phrase>
+    <source>Typing</source>
+    <target>Печатаю</target>
+</phrase>
+<phrase>
+    <source>Picnic</source>
+    <target>Пикник</target>
+</phrase>
+<phrase>
+    <source>On WC</source>
+    <target>В туалете</target>
+</phrase>
+<phrase>
+    <source>To be or not to be</source>
+    <target>Быть или не быть</target>
+</phrase>
+<phrase>
+    <source>PRO 7</source>
+    <target>Про7</target>
+</phrase>
+<phrase>
+    <source>Love</source>
+    <target>Любовь</target>
+</phrase>
+<phrase>
+    <source>Sex</source>
+    <target>Секс</target>
+</phrase>
+<phrase>
+    <source>Smoking</source>
+    <target>Курю</target>
+</phrase>
+<phrase>
+    <source>Cold</source>
+    <target>Замерз</target>
+</phrase>
+<phrase>
+    <source>Crying</source>
+    <target>Плачу</target>
+</phrase>
+<phrase>
+    <source>Fear</source>
+    <target>Испуган</target>
+</phrase>
+<phrase>
+    <source>Reading</source>
+    <target>Читаю</target>
+</phrase>
+<phrase>
+    <source>Sport</source>
+    <target>Спорт</target>
+</phrase>
+<phrase>
+    <source>In tansport</source>
+    <target>В транспорте</target>
+</phrase>
+<phrase>
+    <source>?</source>
+    <target>?</target>
+</phrase>
+<phrase>
+    <source>Contact will be deleted. Are you sure?</source>
+    <target>Контакт будет удален. Вы уверены?</target>
+</phrase>
+<phrase>
+    <source>Delete contact history</source>
+    <target>Удалить историю контакта</target>
+</phrase>
+<phrase>
+    <source>File request</source>
+    <target>Передача файла</target>
+</phrase>
+<phrase>
+    <source>From:</source>
+    <target>От:</target>
+</phrase>
+<phrase>
+    <source>IP:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>File name:</source>
+    <target>Имя файла:</target>
+</phrase>
+<phrase>
+    <source>File size:</source>
+    <target>Размер файла:</target>
+</phrase>
+<phrase>
+    <source>Accept</source>
+    <target>Принять</target>
+</phrase>
+<phrase>
+    <source>Accept</source>
+    <target>Принять</target>
+</phrase>
+<phrase>
+    <source>Decline</source>
+    <target>Отклонить</target>
+</phrase>
+<phrase>
+    <source>File transfer: %1</source>
+    <target>Передача файла: %1</target>
+</phrase>
+<phrase>
+    <source>Waiting...</source>
+    <target>Ожидание...</target>
+</phrase>
+<phrase>
+    <source>Declined by remote user</source>
+    <target>Отклонено удаленным пользователем</target>
+</phrase>
+<phrase>
+    <source>Accepted</source>
+    <target>Принято</target>
+</phrase>
+<phrase>
+    <source>Sending...</source>
+    <target>Отправка...</target>
+</phrase>
+<phrase>
+    <source>Done</source>
+    <target>Готово</target>
+</phrase>
+<phrase>
+    <source>Getting...</source>
+    <target>Прием...</target>
+</phrase>
+<phrase>
+    <source> B</source>
+    <target>б</target>
+</phrase>
+<phrase>
+    <source> KB</source>
+    <target>Кб</target>
+</phrase>
+<phrase>
+    <source> MB</source>
+    <target>Мб</target>
+</phrase>
+<phrase>
+    <source> GB</source>
+    <target>Гб</target>
+</phrase>
+<phrase>
+    <source>File transfer</source>
+    <target>Передача файла</target>
+</phrase>
+<phrase>
+    <source>Current file:</source>
+    <target>Текущий файл:</target>
+</phrase>
+<phrase>
+    <source>Done:</source>
+    <target>Готово:</target>
+</phrase>
+<phrase>
+    <source>Speed:</source>
+    <target>Скорость:</target>
+</phrase>
+<phrase>
+    <source>File size:</source>
+    <target>Размер файла:</target>
+</phrase>
+<phrase>
+    <source>Files:</source>
+    <target>Файлы:</target>
+</phrase>
+<phrase>
+    <source>Last time:</source>
+    <target>Времени прошло:</target>
+</phrase>
+<phrase>
+    <source>Remained time:</source>
+    <target>Времени осталось:</target>
+</phrase>
+<phrase>
+    <source>Sender&apos;s IP:</source>
+    <target>IP отправителя:</target>
+</phrase>
+<phrase>
+    <source>Status:</source>
+    <target>Статус:</target>
+</phrase>
+<phrase>
+    <source>Open</source>
+    <target>Открыть</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>Отмена</target>
+</phrase>
+<phrase>
+    <source>Online</source>
+    <target>В сети</target>
+</phrase>
+<phrase>
+    <source>Offline</source>
+    <target>Отключен</target>
+</phrase>
+<phrase>
+    <source>Free for chat</source>
+    <target>Готов поболтать</target>
+</phrase>
+<phrase>
+    <source>Away</source>
+    <target>Отошел</target>
+</phrase>
+<phrase>
+    <source>NA</source>
+    <target>Недоступен</target>
+</phrase>
+<phrase>
+    <source>Occupied</source>
+    <target>Занят</target>
+</phrase>
+<phrase>
+    <source>DND</source>
+    <target>Не беспокоить</target>
+</phrase>
+<phrase>
+    <source>Invisible</source>
+    <target>Невидимый</target>
+</phrase>
+<phrase>
+    <source>Lunch</source>
+    <target>Ем</target>
+</phrase>
+<phrase>
+    <source>Evil</source>
+    <target>Злой</target>
+</phrase>
+<phrase>
+    <source>Depression</source>
+    <target>Депрессия</target>
+</phrase>
+<phrase>
+    <source>At Home</source>
+    <target>Дома</target>
+</phrase>
+<phrase>
+    <source>At Work</source>
+    <target>На работе</target>
+</phrase>
+<phrase>
+    <source>Custom status</source>
+    <target>Расширенный статус</target>
+</phrase>
+<phrase>
+    <source>Privacy status</source>
+    <target>Приватный статус</target>
+</phrase>
+<phrase>
+    <source>Visible for all</source>
+    <target>Видимый для всех</target>
+</phrase>
+<phrase>
+    <source>Visible only for visible list</source>
+    <target>Видимый только для списка видимости</target>
+</phrase>
+<phrase>
+    <source>Invisible only for invisible list</source>
+    <target>Невидимый только для списка невидимости</target>
+</phrase>
+<phrase>
+    <source>Visible only for contact list</source>
+    <target>Видимый только для списка контактов</target>
+</phrase>
+<phrase>
+    <source>Invisible for all</source>
+    <target>Невидимый для всех</target>
+</phrase>
+<phrase>
+    <source>Additional</source>
+    <target>Дополнительно</target>
+</phrase>
+<phrase>
+    <source>is reading your away message</source>
+    <target>читает ваше сообщение об отсутствии</target>
+</phrase>
+<phrase>
+    <source>is reading your x-status message</source>
+    <target>читает ваше х-статус сообщение</target>
+</phrase>
+<phrase>
+    <source>The connection was refused by the peer (or timed out).</source>
+    <target>Соединение отклонено (или превышено время ожидания).</target>
+</phrase>
+<phrase>
+    <source>The remote host closed the connection.</source>
+    <target>Удаленный хост закрыл соединение.</target>
+</phrase>
+<phrase>
+    <source>The host address was not found.</source>
+    <target>Удаленный адрес не найден.</target>
+</phrase>
+<phrase>
+    <source>The socket operation failed because the application lacked the required privileges.</source>
+    <target>Ошибка! Для работы с сокетом требуются повышенные привелегии.</target>
+</phrase>
+<phrase>
+    <source>The local system ran out of resources (e.g., too many sockets).</source>
+    <target>Не достаточно ресурсов системы (напр. открыто много сокетов).</target>
+</phrase>
+<phrase>
+    <source>The socket operation timed out.</source>
+    <target>Превышено время ожидания при работе с сокетом.</target>
+</phrase>
+<phrase>
+    <source>An error occurred with the network (e.g., the network cable was accidentally plugged out).</source>
+    <target>Ошибка работы с сетью (напр. отключен кабель).</target>
+</phrase>
+<phrase>
+    <source>The requested socket operation is not supported by the local operating system (e.g., lack of IPv6 support).</source>
+    <target>Требуемая операция с сокетом не поддерживается операционой системой (наgр. IPv6).</target>
+</phrase>
+<phrase>
+    <source>The socket is using a proxy, and the proxy requires authentication.</source>
+    <target>Используемый прокси требует аутентификации.</target>
+</phrase>
+<phrase>
+    <source>An unidentified network error occurred.</source>
+    <target>Ой! Неизвестная ошибка сети.</target>
+</phrase>
+<phrase>
+    <source>Password error</source>
+    <target>Ошибка пароля</target>
+</phrase>
+<phrase>
+    <source>Current password is invalid</source>
+    <target>Текущий пароль недействителен</target>
+</phrase>
+<phrase>
+    <source>Confirm password does not match</source>
+    <target>Пароль и подтверждение не совпадают</target>
+</phrase>
+<phrase>
+    <source>Change password</source>
+    <target>Изменить пароль</target>
+</phrase>
+<phrase>
+    <source>Current password:</source>
+    <target>Текущий пароль:</target>
+</phrase>
+<phrase>
+    <source>New password:</source>
+    <target>Новый пароль:</target>
+</phrase>
+<phrase>
+    <source>Retype new password:</source>
+    <target>Подтверждение нового пароля:</target>
+</phrase>
+<phrase>
+    <source>Change</source>
+    <target>Изменить</target>
+</phrase>
+<phrase>
+    <source>searchUser</source>
+    <target>Поиск пользователей</target>
+</phrase>
+<phrase>
+    <source>Search by:</source>
+    <target>Искать по:</target>
+</phrase>
+<phrase>
+    <source>UIN</source>
+    <target>UIN (номер ICQ)</target>
+</phrase>
+<phrase>
+    <source>Email</source>
+    <target>Электронная почта</target>
+</phrase>
+<phrase>
+    <source>Other</source>
+    <target>Другое</target>
+</phrase>
+<phrase>
+    <source>Nick name:</source>
+    <target>Ник:</target>
+</phrase>
+<phrase>
+    <source>First name:</source>
+    <target>Имя:</target>
+</phrase>
+<phrase>
+    <source>Last name:</source>
+    <target>Фамилия:</target>
+</phrase>
+<phrase>
+    <source>Online only</source>
+    <target>Только &quot;В сети&quot;</target>
+</phrase>
+<phrase>
+    <source>More &gt;&gt;</source>
+    <target>Больше &gt;&gt;</target>
+</phrase>
+<phrase>
+    <source>Advanced</source>
+    <target>Дополнительно</target>
+</phrase>
+<phrase>
+    <source>Gender:</source>
+    <target>Пол:</target>
+</phrase>
+<phrase>
+    <source>Female</source>
+    <target>Женский</target>
+</phrase>
+<phrase>
+    <source>Male</source>
+    <target>Мужской</target>
+</phrase>
+<phrase>
+    <source>Age:</source>
+    <target>Возраст:</target>
+</phrase>
+<phrase>
+    <source>Country:</source>
+    <target>Страна:</target>
+</phrase>
+<phrase>
+    <source>Afghanistan</source>
+    <target>Афганистан</target>
+</phrase>
+<phrase>
+    <source>Albania</source>
+    <target>Албания</target>
+</phrase>
+<phrase>
+    <source>Andorra</source>
+    <target>Андорра</target>
+</phrase>
+<phrase>
+    <source>Angola</source>
+    <target>Ангола</target>
+</phrase>
+<phrase>
+    <source>Argentina</source>
+    <target>Аргентина</target>
+</phrase>
+<phrase>
+    <source>Armenia</source>
+    <target>Армения</target>
+</phrase>
+<phrase>
+    <source>Australia</source>
+    <target>Австралия</target>
+</phrase>
+<phrase>
+    <source>Austria</source>
+    <target>Австрия</target>
+</phrase>
+<phrase>
+    <source>Azerbaijan</source>
+    <target>Азербайджан</target>
+</phrase>
+<phrase>
+    <source>Bahamas</source>
+    <target>Багамы</target>
+</phrase>
+<phrase>
+    <source>Bahrain</source>
+    <target>Бахрейн</target>
+</phrase>
+<phrase>
+    <source>Bangladesh</source>
+    <target>Бангладеж</target>
+</phrase>
+<phrase>
+    <source>Belarus</source>
+    <target>Белоруссия</target>
+</phrase>
+<phrase>
+    <source>Belgium</source>
+    <target>Бельгия</target>
+</phrase>
+<phrase>
+    <source>Bhutan</source>
+    <target>Бутан</target>
+</phrase>
+<phrase>
+    <source>Bolivia</source>
+    <target>Боливия</target>
+</phrase>
+<phrase>
+    <source>Brazil</source>
+    <target>Бразилия</target>
+</phrase>
+<phrase>
+    <source>Brunei</source>
+    <target>Бруней</target>
+</phrase>
+<phrase>
+    <source>Bulgaria</source>
+    <target>Болгария</target>
+</phrase>
+<phrase>
+    <source>Cameroon</source>
+    <target>Камерун</target>
+</phrase>
+<phrase>
+    <source>Canada</source>
+    <target>Канада</target>
+</phrase>
+<phrase>
+    <source>Cayman Islands</source>
+    <target>Каймановы острова</target>
+</phrase>
+<phrase>
+    <source>Chad</source>
+    <target>Чад</target>
+</phrase>
+<phrase>
+    <source>Chile, Rep. of</source>
+    <target>Республика Чили</target>
+</phrase>
+<phrase>
+    <source>China</source>
+    <target>Китай</target>
+</phrase>
+<phrase>
+    <source>Colombia</source>
+    <target>Колумбия</target>
+</phrase>
+<phrase>
+    <source>Costa Rica</source>
+    <target>Коста-Рика</target>
+</phrase>
+<phrase>
+    <source>Cuba</source>
+    <target>Куба</target>
+</phrase>
+<phrase>
+    <source>Czech Rep.</source>
+    <target>Чешская Республика</target>
+</phrase>
+<phrase>
+    <source>Denmark</source>
+    <target>Дания</target>
+</phrase>
+<phrase>
+    <source>Dominican Rep.</source>
+    <target>Доминиканская Респ.</target>
+</phrase>
+<phrase>
+    <source>Ecuador</source>
+    <target>Эквадор</target>
+</phrase>
+<phrase>
+    <source>Egypt</source>
+    <target>Египет</target>
+</phrase>
+<phrase>
+    <source>Estonia</source>
+    <target>Эстония</target>
+</phrase>
+<phrase>
+    <source>Ethiopia</source>
+    <target>Эфиопия</target>
+</phrase>
+<phrase>
+    <source>Fiji</source>
+    <target>Фиджи</target>
+</phrase>
+<phrase>
+    <source>Finland</source>
+    <target>Финляндия</target>
+</phrase>
+<phrase>
+    <source>France</source>
+    <target>Франция</target>
+</phrase>
+<phrase>
+    <source>Georgia</source>
+    <target>Грузия</target>
+</phrase>
+<phrase>
+    <source>Germany</source>
+    <target>Германия</target>
+</phrase>
+<phrase>
+    <source>Ghana</source>
+    <target>Гана</target>
+</phrase>
+<phrase>
+    <source>Gibraltar</source>
+    <target>Гибралтар</target>
+</phrase>
+<phrase>
+    <source>Greece</source>
+    <target>Греция</target>
+</phrase>
+<phrase>
+    <source>Greenland</source>
+    <target>Гренландия</target>
+</phrase>
+<phrase>
+    <source>Hong Kong</source>
+    <target>Гон-Конг</target>
+</phrase>
+<phrase>
+    <source>Hungary</source>
+    <target>Венгрия</target>
+</phrase>
+<phrase>
+    <source>Iceland</source>
+    <target>Исландия</target>
+</phrase>
+<phrase>
+    <source>India</source>
+    <target>Индия</target>
+</phrase>
+<phrase>
+    <source>Indonesia</source>
+    <target>Индонезия</target>
+</phrase>
+<phrase>
+    <source>Iraq</source>
+    <target>Ирак</target>
+</phrase>
+<phrase>
+    <source>Ireland</source>
+    <target>Ирландия</target>
+</phrase>
+<phrase>
+    <source>Ireland</source>
+    <target>Ирландия</target>
+</phrase>
+<phrase>
+    <source>Israel</source>
+    <target>Израиль</target>
+</phrase>
+<phrase>
+    <source>Italy</source>
+    <target>Италия</target>
+</phrase>
+<phrase>
+    <source>Jamaica</source>
+    <target>Ямайка</target>
+</phrase>
+<phrase>
+    <source>Japan</source>
+    <target>Япония</target>
+</phrase>
+<phrase>
+    <source>Jordan</source>
+    <target>Иордания</target>
+</phrase>
+<phrase>
+    <source>Kazakhstan</source>
+    <target>Казахстан</target>
+</phrase>
+<phrase>
+    <source>Kenya</source>
+    <target>Кения</target>
+</phrase>
+<phrase>
+    <source>Korea, North</source>
+    <target>Северная Корея</target>
+</phrase>
+<phrase>
+    <source>Korea, South</source>
+    <target>Южная Корея</target>
+</phrase>
+<phrase>
+    <source>Kuwait</source>
+    <target>Кувейт</target>
+</phrase>
+<phrase>
+    <source>Kyrgyzstan</source>
+    <target>Кыргызстан</target>
+</phrase>
+<phrase>
+    <source>Laos</source>
+    <target>Лаос</target>
+</phrase>
+<phrase>
+    <source>Latvia</source>
+    <target>Латвия</target>
+</phrase>
+<phrase>
+    <source>Luxembourg</source>
+    <target>Люксембург</target>
+</phrase>
+<phrase>
+    <source>Madagascar</source>
+    <target>Мадагаскар</target>
+</phrase>
+<phrase>
+    <source>Malaysia</source>
+    <target>Малайзия</target>
+</phrase>
+<phrase>
+    <source>Maldives</source>
+    <target>Мальдивы</target>
+</phrase>
+<phrase>
+    <source>Malta</source>
+    <target>Мальта</target>
+</phrase>
+<phrase>
+    <source>Mexico</source>
+    <target>Мексика</target>
+</phrase>
+<phrase>
+    <source>Moldova, Rep. of</source>
+    <target>Республика Молдова</target>
+</phrase>
+<phrase>
+    <source>Monaco</source>
+    <target>Монако</target>
+</phrase>
+<phrase>
+    <source>Mongolia</source>
+    <target>Монголия</target>
+</phrase>
+<phrase>
+    <source>Morocco</source>
+    <target>Марокко</target>
+</phrase>
+<phrase>
+    <source>Namibia</source>
+    <target>Намибия</target>
+</phrase>
+<phrase>
+    <source>Nepal</source>
+    <target>Непал</target>
+</phrase>
+<phrase>
+    <source>Netherlands</source>
+    <target>Нидерланды</target>
+</phrase>
+<phrase>
+    <source>New Zealand</source>
+    <target>Новая Зеландия</target>
+</phrase>
+<phrase>
+    <source>Nicaragua</source>
+    <target>Никарагуа</target>
+</phrase>
+<phrase>
+    <source>Niger</source>
+    <target>Нигерия</target>
+</phrase>
+<phrase>
+    <source>Norfolk Island</source>
+    <target>Остров Норфолк</target>
+</phrase>
+<phrase>
+    <source>Norway</source>
+    <target>Норвегия</target>
+</phrase>
+<phrase>
+    <source>Pakistan</source>
+    <target>Пакистан</target>
+</phrase>
+<phrase>
+    <source>Panama</source>
+    <target>Панама</target>
+</phrase>
+<phrase>
+    <source>Papua New Guinea</source>
+    <target>Папуа-Новая Гвинея</target>
+</phrase>
+<phrase>
+    <source>Paraguay</source>
+    <target>Парагвай</target>
+</phrase>
+<phrase>
+    <source>Peru</source>
+    <target>Перу</target>
+</phrase>
+<phrase>
+    <source>Philippines</source>
+    <target>Филиппины</target>
+</phrase>
+<phrase>
+    <source>Poland</source>
+    <target>Польша</target>
+</phrase>
+<phrase>
+    <source>Portugal</source>
+    <target>Португалия</target>
+</phrase>
+<phrase>
+    <source>Puerto Rico</source>
+    <target>Пуэрто-Рико</target>
+</phrase>
+<phrase>
+    <source>Qatar</source>
+    <target>Катар</target>
+</phrase>
+<phrase>
+    <source>Romania</source>
+    <target>Румыния</target>
+</phrase>
+<phrase>
+    <source>Russia</source>
+    <target>Россия</target>
+</phrase>
+<phrase>
+    <source>Scotland</source>
+    <target>Шотландия</target>
+</phrase>
+<phrase>
+    <source>Singapore</source>
+    <target>Сингапур</target>
+</phrase>
+<phrase>
+    <source>Slovakia</source>
+    <target>Словакия</target>
+</phrase>
+<phrase>
+    <source>Slovenia</source>
+    <target>Словения</target>
+</phrase>
+<phrase>
+    <source>SouthAfrica</source>
+    <target>ЮАР</target>
+</phrase>
+<phrase>
+    <source>Spain</source>
+    <target>Испания</target>
+</phrase>
+<phrase>
+    <source>Sri Lanka</source>
+    <target>Шри-Ланка</target>
+</phrase>
+<phrase>
+    <source>Sudan</source>
+    <target>Судан</target>
+</phrase>
+<phrase>
+    <source>Sweden</source>
+    <target>Швеция</target>
+</phrase>
+<phrase>
+    <source>Switzerland</source>
+    <target>Швейцария</target>
+</phrase>
+<phrase>
+    <source>Taiwan</source>
+    <target>Тайвань</target>
+</phrase>
+<phrase>
+    <source>Tajikistan</source>
+    <target>Таджикистан</target>
+</phrase>
+<phrase>
+    <source>Thailand</source>
+    <target>Таиланд</target>
+</phrase>
+<phrase>
+    <source>Turkey</source>
+    <target>Турция</target>
+</phrase>
+<phrase>
+    <source>Turkmenistan</source>
+    <target>Туркменистан</target>
+</phrase>
+<phrase>
+    <source>Ukraine</source>
+    <target>Украина</target>
+</phrase>
+<phrase>
+    <source>United Kingdom</source>
+    <target>Великобритания</target>
+</phrase>
+<phrase>
+    <source>Uruguay</source>
+    <target>Уругвай</target>
+</phrase>
+<phrase>
+    <source>USA</source>
+    <target>США</target>
+</phrase>
+<phrase>
+    <source>Uzbekistan</source>
+    <target>Узбекистан</target>
+</phrase>
+<phrase>
+    <source>Vatican City</source>
+    <target>Ватикан</target>
+</phrase>
+<phrase>
+    <source>Venezuela</source>
+    <target>Венесуэла</target>
+</phrase>
+<phrase>
+    <source>Vietnam</source>
+    <target>Вьетнам</target>
+</phrase>
+<phrase>
+    <source>Yemen</source>
+    <target>Йемен</target>
+</phrase>
+<phrase>
+    <source>Yugoslavia</source>
+    <target>Югославия</target>
+</phrase>
+<phrase>
+    <source>Yugoslavia - Montenegro</source>
+    <target>Югославия - Черногория</target>
+</phrase>
+<phrase>
+    <source>Yugoslavia - Serbia</source>
+    <target>Югославия - Сербия</target>
+</phrase>
+<phrase>
+    <source>Zimbabwe</source>
+    <target>Зимбабве</target>
+</phrase>
+<phrase>
+    <source>City:</source>
+    <target>Город:</target>
+</phrase>
+<phrase>
+    <source>Interests:</source>
+    <target>Интересы:</target>
+</phrase>
+<phrase>
+    <source>Art</source>
+    <target>Искусство</target>
+</phrase>
+<phrase>
+    <source>Cars</source>
+    <target>Автомобили</target>
+</phrase>
+<phrase>
+    <source>Collections</source>
+    <target>Коллекционирование</target>
+</phrase>
+<phrase>
+    <source>Computers</source>
+    <target>Компьютеры</target>
+</phrase>
+<phrase>
+    <source>Culture &amp; Literature</source>
+    <target>Культура и литература</target>
+</phrase>
+<phrase>
+    <source>Fitness</source>
+    <target>Фитнес</target>
+</phrase>
+<phrase>
+    <source>Games</source>
+    <target>Игры</target>
+</phrase>
+<phrase>
+    <source>Hobbies</source>
+    <target>Хобби</target>
+</phrase>
+<phrase>
+    <source>Internet</source>
+    <target>Интернет</target>
+</phrase>
+<phrase>
+    <source>Lifestyle</source>
+    <target>Стиль жизни</target>
+</phrase>
+<phrase>
+    <source>Movies/TV</source>
+    <target>Фильмы/ТВ</target>
+</phrase>
+<phrase>
+    <source>Music</source>
+    <target>Музыка</target>
+</phrase>
+<phrase>
+    <source>Language:</source>
+    <target>Язык:</target>
+</phrase>
+<phrase>
+    <source>Occupation:</source>
+    <target>Род занятий:</target>
+</phrase>
+<phrase>
+    <source>Home</source>
+    <target>Дом</target>
+</phrase>
+<phrase>
+    <source>Keywords:</source>
+    <target>Ключевые слова:</target>
+</phrase>
+<phrase>
+    <source>Marital status:</source>
+    <target>Супружеский статус:</target>
+</phrase>
+<phrase>
+    <source>Do not clear previous results</source>
+    <target>Не очищать предудущие результаты</target>
+</phrase>
+<phrase>
+    <source>Clear</source>
+    <target>Очистить</target>
+</phrase>
+<phrase>
+    <source>Search</source>
+    <target>Поиск</target>
+</phrase>
+<phrase>
+    <source>Return</source>
+    <target>Вернуться</target>
+</phrase>
+<phrase>
+    <source>Account</source>
+    <target>Учетная запись</target>
+</phrase>
+<phrase>
+    <source>Nick name</source>
+    <target>Ник</target>
+</phrase>
+<phrase>
+    <source>First name</source>
+    <target>Имя</target>
+</phrase>
+<phrase>
+    <source>Last name</source>
+    <target>Фамилия</target>
+</phrase>
+<phrase>
+    <source>Gender/Age</source>
+    <target>Пол/Возраст</target>
+</phrase>
+<phrase>
+    <source>Authorize</source>
+    <target>Авторизация</target>
+</phrase>
+<phrase>
+    <source>Invalid nick or password</source>
+    <target>Недействительный ник или пароль</target>
+</phrase>
+<phrase>
+    <source>statusSettings</source>
+    <target>Настройки статуса</target>
+</phrase>
+<phrase>
+    <source>Service temporarily unavailable</source>
+    <target>Сервис временно недоступен</target>
+</phrase>
+<phrase>
+    <source>Incorrect nick or password</source>
+    <target>Некорректный ник или пароль</target>
+</phrase>
+<phrase>
+    <source>Mismatch nick or password</source>
+    <target>Несовпадение ника или пароля</target>
+</phrase>
+<phrase>
+    <source>Internal client error (bad input to authorizer)</source>
+    <target>Внутренняя ошибка клиента</target>
+</phrase>
+<phrase>
+    <source>Invalid account</source>
+    <target>Недействительная учетная запись</target>
+</phrase>
+<phrase>
+    <source>Deleted account</source>
+    <target>Удаленная учетная запись</target>
+</phrase>
+<phrase>
+    <source>Expired account</source>
+    <target>Устаревшая учетная запись</target>
+</phrase>
+<phrase>
+    <source>No access to database</source>
+    <target>Нет доступа к базе данных</target>
+</phrase>
+<phrase>
+    <source>No access to resolver</source>
+    <target>Нет доступа к DNS</target>
+</phrase>
+<phrase>
+    <source>Invalid database fields</source>
+    <target>Недействительные поля базы данных</target>
+</phrase>
+<phrase>
+    <source>Bad database status</source>
+    <target>Плохой статус базы данных</target>
+</phrase>
+<phrase>
+    <source>Bad resolver status</source>
+    <target>Плохой статус DNS</target>
+</phrase>
+<phrase>
+    <source>Internal error</source>
+    <target>Внутренняя ошибка</target>
+</phrase>
+<phrase>
+    <source>Service temporarily offline</source>
+    <target>Сервис временно отключен</target>
+</phrase>
+<phrase>
+    <source> Suspended account</source>
+    <target>Замороженная учетная запись</target>
+</phrase>
+<phrase>
+    <source>DB send error</source>
+    <target>Ошибка посыла в базу данных</target>
+</phrase>
+<phrase>
+    <source>DB link error</source>
+    <target>Ошибка связи с базой данных</target>
+</phrase>
+<phrase>
+    <source>Reservation map error</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The users num connected from this IP has reached the maximum</source>
+    <target>Количество пользователей, подключенных с данного IP достигло максимума</target>
+</phrase>
+<phrase>
+    <source> The users num connected from this IP has reached the maximum (reservation)</source>
+    <target>Количество пользователей, подключенных с данного IP достигло максимума (reservation)</target>
+</phrase>
+<phrase>
+    <source>Rate limit exceeded (reservation). Please try to reconnect in a few minutes</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>User too heavily warned</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Reservation timeout</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>You are using an older version of ICQ. Upgrade required</source>
+    <target>Вы используете старую версию ICQ. Необходимо обновление</target>
+</phrase>
+<phrase>
+    <source>You are using an older version of ICQ. Upgrade recommended</source>
+    <target>Вы используете старую версию ICQ. Рекомендуется обновление</target>
+</phrase>
+<phrase>
+    <source>Rate limit exceeded. Please try to reconnect in a few minutes</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Can&apos;t register on the ICQ network. Reconnect in a few minutes</source>
+    <target>Не могу зарегистрироваться в сети ICQ. Попробуйте подключиться через несколько минут</target>
+</phrase>
+<phrase>
+    <source>Invalid SecurID</source>
+    <target>Недействительный SecurID</target>
+</phrase>
+<phrase>
+    <source>Account suspended because of your age (age &lt; 13)</source>
+    <target>Учетная запись заморожена, из-за возраста (&lt; 13 лет)</target>
+</phrase>
+<phrase>
+    <source>Connection Error: %1</source>
+    <target>Ошибка соединения: %1</target>
+</phrase>
+<phrase>
+    <source>Allow other to view my status from the Web</source>
+    <target>Позволять другим видеть мой статус через Web</target>
+</phrase>
+<phrase>
+    <source>Add additional statuses to status menu</source>
+    <target>Добавить расширенные статусы в статусное меню</target>
+</phrase>
+<phrase>
+    <source>Ask for xStauses automatically</source>
+    <target>Запрашивать х-статусы автоматически</target>
+</phrase>
+<phrase>
+    <source>Notify about reading your status</source>
+    <target>Уведомлять о чтении статуса</target>
+</phrase>
+<phrase>
+    <source>Away</source>
+    <target>Отошел</target>
+</phrase>
+<phrase>
+    <source>Lunch</source>
+    <target>Ем</target>
+</phrase>
+<phrase>
+    <source>Evil</source>
+    <target>Злой</target>
+</phrase>
+<phrase>
+    <source>Depression</source>
+    <target>Депрессия</target>
+</phrase>
+<phrase>
+    <source>At home</source>
+    <target>Дома</target>
+</phrase>
+<phrase>
+    <source>At work</source>
+    <target>На работе</target>
+</phrase>
+<phrase>
+    <source>N/A</source>
+    <target>Недоступен</target>
+</phrase>
+<phrase>
+    <source>Occupied</source>
+    <target>Занят</target>
+</phrase>
+<phrase>
+    <source>DND</source>
+    <target>Не беспокоить</target>
+</phrase>
+<phrase>
+    <source>Don&apos;t show autoreply dialog</source>
+    <target>Не показывать диалог автоовета</target>
+</phrase>
+<phrase>
+    <source>Name</source>
+    <target>Имя</target>
+</phrase>
+<phrase>
+    <source>Nick name:</source>
+    <target>Ник:</target>
+</phrase>
+<phrase>
+    <source>Last login:</source>
+    <target>Последний раз был онлайн:</target>
+</phrase>
+<phrase>
+    <source>First name:</source>
+    <target>Имя:</target>
+</phrase>
+<phrase>
+    <source>Last name:</source>
+    <target>Фамилия:</target>
+</phrase>
+<phrase>
+    <source>UIN:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Account info:</source>
+    <target>Информация об учетной записи:</target>
+</phrase>
+<phrase>
+    <source>Registration:</source>
+    <target>Регистрация:</target>
+</phrase>
+<phrase>
+    <source>Email:</source>
+    <target>Электронная почта:</target>
+</phrase>
+<phrase>
+    <source>Don&apos;t publish for all</source>
+    <target>Не публиковать всем</target>
+</phrase>
+<phrase>
+    <source>Home address:</source>
+    <target>Домашний адрес:</target>
+</phrase>
+<phrase>
+    <source>Country</source>
+    <target>Страна</target>
+</phrase>
+<phrase>
+    <source>City:</source>
+    <target>Город:</target>
+</phrase>
+<phrase>
+    <source>State:</source>
+    <target>Область:</target>
+</phrase>
+<phrase>
+    <source>Zip:</source>
+    <target>Индекс:</target>
+</phrase>
+<phrase>
+    <source>Phone:</source>
+    <target>Телефон:</target>
+</phrase>
+<phrase>
+    <source>City:</source>
+    <target>Город:</target>
+</phrase>
+<phrase>
+    <source>State:</source>
+    <target>Область:</target>
+</phrase>
+<phrase>
+    <source>Zip:</source>
+    <target>Индекс:</target>
+</phrase>
+<phrase>
+    <source>Phone:</source>
+    <target>Телефон:</target>
+</phrase>
+<phrase>
+    <source>Fax:</source>
+    <target>Факс:</target>
+</phrase>
+<phrase>
+    <source>Cellular:</source>
+    <target>Мобильный:</target>
+</phrase>
+<phrase>
+    <source>Street address:</source>
+    <target>Улица:</target>
+</phrase>
+<phrase>
+    <source>Originally from:</source>
+    <target>Уроженец:</target>
+</phrase>
+<phrase>
+    <source>Work address</source>
+    <target>Работа</target>
+</phrase>
+<phrase>
+    <source>Street:</source>
+    <target>Улица:</target>
+</phrase>
+<phrase>
+    <source>Company</source>
+    <target>Компания</target>
+</phrase>
+<phrase>
+    <source>Company name:</source>
+    <target>Название компании:</target>
+</phrase>
+<phrase>
+    <source>Occupation:</source>
+    <target>Род занятий:</target>
+</phrase>
+<phrase>
+    <source>Div/dept:</source>
+    <target>Подазделение/отдел:</target>
+</phrase>
+<phrase>
+    <source>Position:</source>
+    <target>Местоположение:</target>
+</phrase>
+<phrase>
+    <source>Web site:</source>
+    <target>Web-страница:</target>
+</phrase>
+<phrase>
+    <source>Account info</source>
+    <target>Информация об учетной записи</target>
+</phrase>
+<phrase>
+    <source>Originally from</source>
+    <target>Уроженец</target>
+</phrase>
+<phrase>
+    <source>Home address</source>
+    <target>Домашний адрес</target>
+</phrase>
+<phrase>
+    <source>Personal</source>
+    <target>Персональное</target>
+</phrase>
+<phrase>
+    <source>Marital status:</source>
+    <target>Супружеский статус:</target>
+</phrase>
+<phrase>
+    <source>Gender:</source>
+    <target>Пол:</target>
+</phrase>
+<phrase>
+    <source>Female</source>
+    <target>Женский</target>
+</phrase>
+<phrase>
+    <source>Male</source>
+    <target>Мужской</target>
+</phrase>
+<phrase>
+    <source>Home page:</source>
+    <target>Домашняя страница:</target>
+</phrase>
+<phrase>
+    <source>Age:</source>
+    <target>Возраст:</target>
+</phrase>
+<phrase>
+    <source>Birth date</source>
+    <target>Дата рождения</target>
+</phrase>
+<phrase>
+    <source>Spoken language:</source>
+    <target>Знание языков:</target>
+</phrase>
+<phrase>
+    <source>Interests</source>
+    <target>Интересы</target>
+</phrase>
+<phrase>
+    <source>Authorization/webaware</source>
+    <target>Авторизация/webaware</target>
+</phrase>
+<phrase>
+    <source>My authorization is required</source>
+    <target>Требуется моя авторизация</target>
+</phrase>
+<phrase>
+    <source>All uses can add me without authorization</source>
+    <target>Все пользователи могут добавлять меня без авторизации</target>
+</phrase>
+<phrase>
+    <source>Allow others to view my status in search and from the web</source>
+    <target>Позволять другим видеть мой статус при поиске и через Web</target>
+</phrase>
+<phrase>
+    <source>Save</source>
+    <target>Сохранить</target>
+</phrase>
+<phrase>
+    <source>Close</source>
+    <target>Закрыть</target>
+</phrase>
+<phrase>
+    <source>Summary</source>
+    <target>Краткая сводка</target>
+</phrase>
+<phrase>
+    <source>General</source>
+    <target>Главные</target>
+</phrase>
+<phrase>
+    <source>Home</source>
+    <target>Дом</target>
+</phrase>
+<phrase>
+    <source>Work</source>
+    <target>Работа</target>
+</phrase>
+<phrase>
+    <source>About</source>
+    <target>О пользователе</target>
+</phrase>
+<phrase>
+    <source>Additinonal</source>
+    <target>Дополнительно</target>
+</phrase>
+<phrase>
+    <source>Request details</source>
+    <target>Запросить детали</target>
+</phrase>
+<phrase>
+    <source>Other</source>
+    <target>Другое</target>
+</phrase>
+<phrase>
+    <source>Email</source>
+    <target>Эл.Почта</target>
+</phrase>
+<phrase>
+    <source>Ruslan Nigmatullin</source>
+    <target>Руслан Нигматуллин</target>
+</phrase>
+<phrase>
+    <source>Developer</source>
+    <target>Разработчик</target>
+</phrase>
+<phrase>
+    <source>Open chat</source>
+    <target>Открыть чат</target>
+</phrase>
 </QPH>
