@@ -35,7 +35,7 @@
 <context>
     <name>AdiumChat::ChatSessionImpl</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatsessionimpl.cpp" line="105"/>
+        <location filename="../../src/corelayers/adiumchat/chatsessionimpl.cpp" line="109"/>
         <source>Message %1 must have a ChatUnit</source>
         <translation type="unfinished"></translation>
     </message>
@@ -43,13 +43,7 @@
 <context>
     <name>AdiumChat::ChatWidget</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="95"/>
-        <source>Ctrl+Return</source>
-        <comment>Send message</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="148"/>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="187"/>
         <source>Chat with %1</source>
         <translation type="unfinished">Чат с %1</translation>
     </message>
@@ -62,12 +56,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.ui" line="60"/>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.ui" line="67"/>
         <source>about:blank</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.ui" line="113"/>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.ui" line="120"/>
         <source>Send</source>
         <translation>Отправить</translation>
     </message>
@@ -82,7 +76,7 @@
     <message>
         <location filename="../../src/corelayers/kineticpopups/settings/popupappearance.ui" line="42"/>
         <source>test</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тест</translation>
     </message>
 </context>
 <context>
@@ -173,7 +167,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="68"/>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="76"/>
+        <source>View History</source>
+        <translation type="unfinished">История</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="81"/>
         <source>Emoticons</source>
         <translation type="unfinished">Смайлы</translation>
     </message>
@@ -181,9 +180,48 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatLayer</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatlayerimpl.cpp" line="43"/>
+        <location filename="../../src/corelayers/adiumchat/chatlayerimpl.cpp" line="44"/>
+        <location filename="../../src/corelayers/adiumchat/chatlayerimpl.cpp" line="49"/>
         <source>Send message</source>
         <translation>Отправить сообщение</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/adiumchat/chatlayerimpl.cpp" line="55"/>
+        <source>Close chat</source>
+        <translation type="unfinished">Закрыть чат</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/adiumchat/chatlayerimpl.cpp" line="60"/>
+        <source>Next chat</source>
+        <translation type="unfinished">Далее</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/adiumchat/chatlayerimpl.cpp" line="65"/>
+        <source>Previous chat</source>
+        <translation type="unfinished">Назад</translation>
+    </message>
+</context>
+<context>
+    <name>ContactInfo</name>
+    <message>
+        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="72"/>
+        <source>the field is not set</source>
+        <translation type="unfinished">Поле не заполнено</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="119"/>
+        <source>About contact %1 &lt;%2&gt;</source>
+        <translation type="unfinished">Информация о %1 &lt;%2&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="145"/>
+        <source>General</source>
+        <translation type="unfinished">Главные</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="167"/>
+        <source>Show information</source>
+        <translation type="unfinished">Показать информацию</translation>
     </message>
 </context>
 <context>
@@ -199,22 +237,32 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Исменить теги</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="95"/>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="78"/>
+        <source>Change global status</source>
+        <translation type="unfinished">Измениь общий статус</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="83"/>
+        <source>Activate main menu</source>
+        <translation type="unfinished">Активировать главное меню</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="112"/>
         <source>&amp;Settings...</source>
         <translation type="unfinished">&amp;Настройки...</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="100"/>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="117"/>
         <source>Main menu</source>
         <translation type="unfinished">Главное меню</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="104"/>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="121"/>
         <source>&amp;Quit</source>
         <translation type="unfinished">&amp;Выход</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="127"/>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="140"/>
         <source>Hide offline</source>
         <translation type="unfinished">Скрыть отключенных</translation>
     </message>
@@ -279,6 +327,33 @@ p, li { white-space: pre-wrap; }
         <location filename="../../src/corelayers/adiumchat/settings/chatappearance.cpp" line="203"/>
         <source>Vasya is reading you mind</source>
         <translation type="unfinished">Васяня читает твои мысли</translation>
+    </message>
+</context>
+<context>
+    <name>Core::HistoryWindow</name>
+    <message>
+        <location filename="../../src/corelayers/jsonhistory/historywindow.cpp" line="40"/>
+        <location filename="../../src/corelayers/jsonhistory/historywindow.cpp" line="98"/>
+        <source>No History</source>
+        <translation type="unfinished">Нет истории (x_X)</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/jsonhistory/historywindow.cpp" line="41"/>
+        <location filename="../../src/corelayers/jsonhistory/historywindow.cpp" line="419"/>
+        <source>In: %L1</source>
+        <translation type="unfinished">Пришло: %L1</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/jsonhistory/historywindow.cpp" line="42"/>
+        <location filename="../../src/corelayers/jsonhistory/historywindow.cpp" line="420"/>
+        <source>Out: %L1</source>
+        <translation type="unfinished">Ушло: %L1</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/jsonhistory/historywindow.cpp" line="43"/>
+        <location filename="../../src/corelayers/jsonhistory/historywindow.cpp" line="421"/>
+        <source>All: %L1</source>
+        <translation type="unfinished">Всего: %L1</translation>
     </message>
 </context>
 <context>
@@ -362,6 +437,72 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::ProtocolChooserWidget</name>
+    <message>
+        <location filename="../../src/corelayers/servicechooser/protocolchooserwidget.cpp" line="111"/>
+        <source>&lt;b&gt;Name: &lt;/b&gt; %1 &lt;br /&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Имя: &lt;/b&gt; %1 &lt;br /&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/servicechooser/protocolchooserwidget.cpp" line="112"/>
+        <source>&lt;b&gt;Description: &lt;/b&gt; %1 &lt;br /&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Описание: &lt;/b&gt; %1 &lt;br /&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/servicechooser/protocolchooserwidget.cpp" line="116"/>
+        <source>&lt;b&gt;Name:&lt;/b&gt; %1&lt;/br&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Имя:&lt;/b&gt; %1&lt;/br&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/servicechooser/protocolchooserwidget.cpp" line="117"/>
+        <source>&lt;b&gt;Task:&lt;/b&gt; %1&lt;/br&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Задача:&lt;/b&gt; %1&lt;/br&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/servicechooser/protocolchooserwidget.cpp" line="118"/>
+        <source>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot; title=&quot;Электропочта&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/servicechooser/protocolchooserwidget.cpp" line="119"/>
+        <source>&lt;b&gt;Webpage:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Веб-страничка:&lt;/b&gt; &lt;a href=&quot;%1&quot; title=&quot;Хомячок&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>Core::ServiceChooserWidget</name>
+    <message>
+        <location filename="../../src/corelayers/servicechooser/servicechooserwidget.cpp" line="119"/>
+        <source>&lt;b&gt;Name: &lt;/b&gt; %1 &lt;br /&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Имя: &lt;/b&gt; %1 &lt;br /&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/servicechooser/servicechooserwidget.cpp" line="120"/>
+        <source>&lt;b&gt;Description: &lt;/b&gt; %1 &lt;br /&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Описание: &lt;/b&gt; %1 &lt;br /&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/servicechooser/servicechooserwidget.cpp" line="124"/>
+        <source>&lt;b&gt;Name:&lt;/b&gt; %1&lt;/br&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Имя:&lt;/b&gt; %1&lt;/br&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/servicechooser/servicechooserwidget.cpp" line="125"/>
+        <source>&lt;b&gt;Task:&lt;/b&gt; %1&lt;/br&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Задача:&lt;/b&gt; %1&lt;/br&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/servicechooser/servicechooserwidget.cpp" line="126"/>
+        <source>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot; title=&quot;Электропочта&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/servicechooser/servicechooserwidget.cpp" line="127"/>
+        <source>&lt;b&gt;Webpage:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Веб-страничка:&lt;/b&gt; &lt;a href=&quot;%1&quot; title=&quot;Хомячок&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
+    </message>
+</context>
+<context>
     <name>Core::SimpleContactList::Model</name>
     <message>
         <source>Contacts</source>
@@ -397,9 +538,57 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>HistoryWindowClass</name>
+    <message>
+        <location filename="../../src/corelayers/jsonhistory/historywindow.ui" line="14"/>
+        <source>HistoryWindow</source>
+        <translation type="unfinished">История</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/jsonhistory/historywindow.ui" line="27"/>
+        <source>Account:</source>
+        <translation type="unfinished">Уч.Запись:</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/jsonhistory/historywindow.ui" line="34"/>
+        <source>From:</source>
+        <translation type="unfinished">Из:</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/jsonhistory/historywindow.ui" line="60"/>
+        <source>In: %L1</source>
+        <translation type="unfinished">Пришло: %L1</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/jsonhistory/historywindow.ui" line="67"/>
+        <source>Out: %L1</source>
+        <translation type="unfinished">Ушло: %L1</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/jsonhistory/historywindow.ui" line="74"/>
+        <source>All: %L1</source>
+        <translation type="unfinished">Всего: %L1</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/jsonhistory/historywindow.ui" line="94"/>
+        <source>Search</source>
+        <translation>Поиск</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/jsonhistory/historywindow.ui" line="97"/>
+        <source>Return</source>
+        <translation type="unfinished">Назад</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/jsonhistory/historywindow.ui" line="133"/>
+        <source>1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KineticPopups::Popup</name>
     <message>
-        <location filename="../../src/corelayers/kineticpopups/popup.cpp" line="73"/>
+        <location filename="../../src/corelayers/kineticpopups/popup.cpp" line="77"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
         <translation type="unfinished">&lt;p&gt; + %1 больше уведомлений &lt;/p&gt;</translation>
     </message>
@@ -417,7 +606,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/migration02x03/migrationstartpage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Волшебник миграции :-D</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/migration02x03/migrationstartpage.ui" line="20"/>
@@ -496,84 +685,84 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../src/corelayers/emoticonssettings/emoticonssettings.cpp" line="11"/>
+        <location filename="../../src/corelayers/emoticonssettings/emoticonssettings.cpp" line="26"/>
         <source>Emoticons settings</source>
         <translation type="unfinished">Настройки смайлов</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/emoticonssettings/emoticonssettings.cpp" line="12"/>
+        <location filename="../../src/corelayers/emoticonssettings/emoticonssettings.cpp" line="27"/>
         <source>Default settings widget set for emoticons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/corelayers/configbackends/jsonconfigbackend.cpp" line="29"/>
         <source>JSON config</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модуль JSON конфигурации</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/configbackends/jsonconfigbackend.cpp" line="30"/>
-        <source>Default qutIM config realization. Based on JSON.</source>
-        <translation type="unfinished"></translation>
+        <source>Default qutIM config implementation. Based on JSON.</source>
+        <translation type="unfinished">Модуль хранения конфигурации qutIM.Основан на JSON. 9по умолчанию).</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/configbackends/jsonconfigbackend.cpp" line="32"/>
+        <source>Additional qutIM config implementation for Apple plists</source>
+        <translation type="unfinished">Модуль хранения конфигурации qutIM в виде Apple plists</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/configbackends/jsonconfigbackend.cpp" line="31"/>
         <source>PList config</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/corelayers/configbackends/jsonconfigbackend.cpp" line="32"/>
-        <source>Additional qutIM config realization for Apple plists</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модуль PList конфигурации</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/qticons/iconsloaderimpl.cpp" line="30"/>
         <source>Xdg Icon Loader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модуль Xdg загрузки иконок</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/qticons/iconsloaderimpl.cpp" line="31"/>
-        <source>Default qutIM icon loader realization. Based on Q-XDG library</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/corelayers/jsonhistory/jsonhistory.cpp" line="13"/>
-        <source>Json History</source>
-        <translation type="unfinished"></translation>
+        <source>Default qutIM icon loader implementation. Based on Q-XDG library</source>
+        <translation type="unfinished">Модуль для использоания qutIM&apos;ом системных иконок. Основан на Q-XDG  библиотеке</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/jsonhistory/jsonhistory.cpp" line="14"/>
-        <source>Default qutIM history realization, based on JavaScript Object Notation</source>
-        <translation type="unfinished"></translation>
+        <source>Json History</source>
+        <translation type="unfinished">История JSON</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/jsonhistory/jsonhistory.cpp" line="15"/>
+        <source>Default qutIM history implementation, based on JavaScript Object Notation</source>
+        <translation type="unfinished">Модуль хранения истории qutIM, основан на JavaScript Object Notation</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/kopeteemoticonsbackend/kopeteemoticonsbackend.cpp" line="23"/>
         <source>qutIM and Kopete emoticons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Смайлы qutIM и Kopete</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/kopeteemoticonsbackend/kopeteemoticonsbackend.cpp" line="24"/>
         <source>Default qutIM emoticons backend</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="30"/>
-        <source>Simple ContactList</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Движок смайлов для qutIM</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="31"/>
-        <source>Default qutIM contact list realization. Just simple</source>
-        <translation type="unfinished"></translation>
+        <source>Simple ContactList</source>
+        <translation type="unfinished">Прстой ростер</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="32"/>
+        <source>Default qutIM contact list implementation. Just simple</source>
+        <translation type="unfinished">Простая реализация списка контактов qutIM&apos;а. Самая простая</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/xsettingsdialog/xsettingslayerimpl.cpp" line="22"/>
         <source>X Settings dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модуль настроек qutIM</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/xsettingsdialog/xsettingslayerimpl.cpp" line="23"/>
-        <source>Default qutIM settings dialog realization with OS X style top bar</source>
-        <translation type="unfinished"></translation>
+        <source>Default qutIM settings dialog implementation with OS X style top bar</source>
+        <translation type="unfinished">Окно настроек qutIM выполенное в стиле OS X</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/localization/localizationmodule.cpp" line="29"/>
@@ -583,52 +772,52 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/localization/localizationmodule.cpp" line="30"/>
         <source>Default qutIM localization engine</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Движок перевода qutIM</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/adiumsrvicons/serviceicons.cpp" line="26"/>
         <source>Adium service icons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Служебные иконки Adium</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/adiumsrvicons/serviceicons.cpp" line="27"/>
         <source>Protocol icons powered by Adium ServiceIcons packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Иконки протоколов в виде пакетов системных иконок Adium</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/aescrypto/aescryptoservice.cpp" line="8"/>
         <source>AES crypto</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Шифрование AES</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/aescrypto/aescryptoservice.cpp" line="9"/>
-        <source>Default qutIM crypto realization. Based on algorithm aes256</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/corelayers/adiumchat/chatlayerimpl.cpp" line="28"/>
-        <source>Webkit chat layer</source>
-        <translation type="unfinished"></translation>
+        <source>Default qutIM crypto implementation. Based on algorithm aes256</source>
+        <translation type="unfinished">Модуль шифрования. Базовая реализация. Основан на aes256</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/adiumchat/chatlayerimpl.cpp" line="29"/>
+        <source>Webkit chat layer</source>
+        <translation type="unfinished">Модуль чата WebKit</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/adiumchat/chatlayerimpl.cpp" line="30"/>
         <source>Default qutIM chat implementation, based on Adium chat styles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модуль чата qutIM по умолчанию, основан на WebKit и темах чата для adium</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatlayerimpl.cpp" line="55"/>
+        <location filename="../../src/corelayers/adiumchat/chatlayerimpl.cpp" line="79"/>
         <source>Helper for chat layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вспомогательный модуль для модуля чата</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatlayerimpl.cpp" line="56"/>
+        <location filename="../../src/corelayers/adiumchat/chatlayerimpl.cpp" line="80"/>
         <source>Adds &quot;Start chat&quot; action to conact&apos;s menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Добавляет &quot;Начать чат&quot; в меню контакта</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/adiumchat/settings/chatsettings.cpp" line="11"/>
         <source>Chat settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Настройки чата</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/adiumchat/settings/chatsettings.cpp" line="12"/>
@@ -643,7 +832,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/adiumchat/modifiers/timemodifier.cpp" line="10"/>
         <source>Modifier for %time% and %timeOpened% param, based on Apple&apos;s documentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модификатор параметров %time% и %timeOpened%, основан на документации Apple</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/kineticpopups/backend.cpp" line="39"/>
@@ -652,68 +841,88 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../src/corelayers/kineticpopups/backend.cpp" line="40"/>
-        <source>Default qutIM popup realization. Powered by Kinetic</source>
-        <translation type="unfinished"></translation>
+        <source>Default qutIM popup implementation. Powered by Kinetic</source>
+        <translation type="unfinished">Модуль уведомлений qutIM. Powered by Kinetic</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/kineticpopups/settings/popupsettings.cpp" line="13"/>
         <source>Notifications settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Настройки уведомлений</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/kineticpopups/settings/popupsettings.cpp" line="14"/>
         <source>Default settings widgets for kinetic notifications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модуль настроек уведомлений kinetic</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/accountcreator/accountcreator.cpp" line="9"/>
         <source>Account creator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модуль создания учетных записей</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/accountcreator/accountcreator.cpp" line="10"/>
         <source>Default qutIM account creator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модуль qutIM для создания учетных записей</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/password/simplepassworddialog.cpp" line="7"/>
         <source>Simple password dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Простой запрос пароля</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/password/simplepassworddialog.cpp" line="8"/>
         <source>Default qutIM password dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Простой запрос пароля (по умолчанию)</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/authdialog/authdialogimpl.cpp" line="11"/>
         <source>Authorization dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Диалог авторизации</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/authdialog/authdialogimpl.cpp" line="12"/>
         <source>Simple authorization dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Простой диалог авторизации</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/migration02x03/migrationpagecreator.cpp" line="8"/>
         <source>Mirgation 0.2 to 0.3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Миграция с 0.2 на 0.3</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/migration02x03/migrationpagecreator.cpp" line="9"/>
         <source>Module for migration from 0.2 to 0.3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модуль для Миграции с 0.2 на 0.3</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/trayicon/simpletray.cpp" line="9"/>
         <source>Simple tray</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Простой трей</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/trayicon/simpletray.cpp" line="10"/>
         <source>Default qutIM system tray icon implementation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Простой модуль для размещения иконки qutIM в трее</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="22"/>
+        <source>Simple information window about a contact</source>
+        <translation type="unfinished">Простое информационное окно о контакте</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="23"/>
+        <source>Default qutIM implementation of the information window</source>
+        <translation type="unfinished">Простая реализация  информационного окна о контакте</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/servicechooser/servicechooser.cpp" line="26"/>
+        <source>Service shooser</source>
+        <translation type="unfinished">обуватель служб</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/servicechooser/servicechooser.cpp" line="27"/>
+        <source>TODO</source>
+        <translation type="unfinished">Задумано</translation>
     </message>
 </context>
 <context>
@@ -822,9 +1031,22 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>ServiceChooser</name>
+    <message>
+        <location filename="../../src/corelayers/servicechooser/servicechooserwidget.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/servicechooser/servicechooserwidget.ui" line="26"/>
+        <source>...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Settings</name>
     <message>
-        <location filename="../../src/corelayers/emoticonssettings/emoticonssettings.cpp" line="17"/>
+        <location filename="../../src/corelayers/emoticonssettings/emoticonssettings.cpp" line="32"/>
         <source>Emoticons</source>
         <translation>Смайлы</translation>
     </message>
@@ -852,6 +1074,17 @@ p, li { white-space: pre-wrap; }
         <location filename="../../src/corelayers/accountcreator/accountcreator.cpp" line="17"/>
         <source>Accounts</source>
         <translation>Учетные записи</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/servicechooser/servicechooser.cpp" line="32"/>
+        <source>Service Chooser</source>
+        <translation type="unfinished">Выбор служб</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/servicechooser/servicechooser.cpp" line="34"/>
+        <source>Protocol chooser</source>
+        <translatorcomment>Выбор приоритетных реализаций протоколов, если загружено неколько реализаций, например кутимовский оскар и аська через кецалькоатля</translatorcomment>
+        <translation type="unfinished">Управление протоколами</translation>
     </message>
 </context>
 <context>
@@ -898,57 +1131,57 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Извините, категория не имеет настроек. Вообще</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="47"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="51"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="48"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="52"/>
         <source>General configuration</source>
         <translation type="unfinished">Общие настройки</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="54"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="58"/>
         <source>Protocols</source>
         <translation type="unfinished">Протоколы</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="55"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="59"/>
         <source>Accounts and protocols settings</source>
         <translation type="unfinished">Настройки протоколов и учетных записей</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="59"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="63"/>
         <source>Appearance</source>
         <translation type="unfinished">Оформление</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="60"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="64"/>
         <source>Appearance settings</source>
         <translation type="unfinished">Настройки оформления</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="64"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="68"/>
         <source>Plugins</source>
         <translation>Плагины</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="65"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="69"/>
         <source>Additional plugins settings</source>
         <translation type="unfinished">Прочие настройки плагинов</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="223"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="227"/>
         <source>qutIM settings - %1</source>
         <translation type="unfinished">Настройки qutIM - %1</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="252"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="256"/>
         <source>Apply Settings - System Settings</source>
         <translation type="unfinished">Применить настройки - Системные настройки</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="253"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="257"/>
         <source>The settings of the current module have changed. 
  Do you want to apply the changes or discard them?</source>
         <translation type="unfinished">Настройки текущего модуля изменены.
@@ -968,7 +1201,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/xsettingsdialog/xtoolbar.cpp" line="33"/>
         <source>XBar appearance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Оформление XBar</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/xsettingsdialog/xtoolbar.cpp" line="35"/>
@@ -1050,6 +1283,13 @@ p, li { white-space: pre-wrap; }
         <location filename="../../src/corelayers/emoticonssettings/emoticonsselector.ui" line="14"/>
         <source>Form</source>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>qutIM</name>
+    <message>
+        <source>Find</source>
+        <translation type="obsolete">Поиск</translation>
     </message>
 </context>
 <context>
