@@ -199,11 +199,14 @@
         <translation>Руслан Нигматуллин</translation>
     </message>
     <message>
+        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+38"/>
         <source>Alexey Ignatiev</source>
-        <translation type="obsolete">Алексей Игнатиев</translation>
+        <translation>Алексей Игнатиев</translation>
     </message>
     <message>
         <location line="+3"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+155"/>
+        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+3"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прокин</translation>
     </message>
@@ -391,32 +394,38 @@
 <context>
     <name>ContactList</name>
     <message>
+        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+141"/>
         <source>Possible client</source>
-        <translation type="obsolete">Вероятен клиент</translation>
+        <translation>Вероятен клиент</translation>
     </message>
     <message>
         <source>Not In List</source>
         <translation type="obsolete">Извън списъка</translation>
     </message>
     <message>
+        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+131"/>
         <source>General</source>
-        <translation type="obsolete">Общи</translation>
+        <translation>Общи</translation>
     </message>
     <message>
+        <location line="+319"/>
         <source>Online time</source>
-        <translation type="obsolete">На линия от</translation>
+        <translation>На линия от</translation>
     </message>
     <message>
+        <location line="+6"/>
         <source>Signed on</source>
-        <translation type="obsolete">Влязъл в</translation>
+        <translation>Влязъл в</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>Away since</source>
-        <translation type="obsolete">Отсъства от</translation>
+        <translation>Отсъства от</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>Reg. date</source>
-        <translation type="obsolete">Регистрация от</translation>
+        <translation>Регистрация от</translation>
     </message>
     <message>
         <location filename="../../protocols/oscar/src/roster.cpp" line="+82"/>
@@ -3287,12 +3296,15 @@
 <context>
     <name>Plugin</name>
     <message>
+        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-147"/>
         <source>OscarIdentify</source>
-        <translation type="obsolete">Oscar идентификация</translation>
+        <translation>Oscar идентификация</translation>
     </message>
     <message>
+        <location line="+1"/>
+        <location line="+9"/>
         <source>Client identificaton for oscar contacts</source>
-        <translation type="obsolete">Идентификация на клиента за Oscar контактите</translation>
+        <translation>Идентификация на клиента за Oscar контактите</translation>
     </message>
     <message>
         <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-6"/>
@@ -3305,12 +3317,14 @@
         <translation>Модулна реализация на OSCAR протокола</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-1"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+4"/>
+        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+8"/>
         <source>ICQ</source>
         <translation>ICQ</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+1"/>
         <source>Module-based realization of ICQ protocol</source>
         <translation>Модулна реализация на ICQ протокола</translation>
     </message>
@@ -3337,12 +3351,15 @@
         <translation>Услуга за ICQ мета-информация</translation>
     </message>
     <message>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-7"/>
         <source>OscarXStatus</source>
-        <translation type="obsolete">Разширен Oscar статус</translation>
+        <translation>Разширен Oscar статус</translation>
     </message>
     <message>
+        <location line="+1"/>
+        <location line="+7"/>
         <source>Additional statuses for oscar protocol</source>
-        <translation type="obsolete">Допълнителни статуси за Oscar протокола</translation>
+        <translation>Допълнителни статуси за Oscar протокола</translation>
     </message>
 </context>
 <context>
@@ -3583,24 +3600,29 @@
         <translation>Зает</translation>
     </message>
     <message>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+15"/>
         <source>Angry</source>
-        <translation type="obsolete">Бесен</translation>
+        <translation>Бесен</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Depression</source>
-        <translation type="obsolete">Депресиран</translation>
+        <translation>Депресиран</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>At home</source>
-        <translation type="obsolete">Вкъщи</translation>
+        <translation>Вкъщи</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>At work</source>
-        <translation type="obsolete">На работа</translation>
+        <translation>На работа</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Eating</source>
-        <translation type="obsolete">Хапващ</translation>
+        <translation>Хапващ</translation>
     </message>
 </context>
 <context>
@@ -3649,6 +3671,9 @@
 <context>
     <name>Task</name>
     <message>
+        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-5"/>
+        <location line="+3"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-27"/>
         <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-24"/>
         <location line="+3"/>
         <source>Author</source>
@@ -3658,136 +3683,169 @@
 <context>
     <name>XStatus</name>
     <message>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-122"/>
         <source>Angry</source>
-        <translation type="obsolete">Бесен съм</translation>
+        <translation>Бесен съм</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Taking a bath</source>
-        <translation type="obsolete">В банята съм</translation>
+        <translation>В банята съм</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Tired</source>
-        <translation type="obsolete">Уморен съм</translation>
+        <translation>Уморен съм</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Party</source>
-        <translation type="obsolete">Купонясвам</translation>
+        <translation>Купонясвам</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Drinking beer</source>
-        <translation type="obsolete">Жуля бира</translation>
+        <translation>Жуля бира</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Thinking</source>
-        <translation type="obsolete">Размишлявам</translation>
+        <translation>Размишлявам</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Eating</source>
-        <translation type="obsolete">Хапвам</translation>
+        <translation>Хапвам</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Watching TV</source>
-        <translation type="obsolete">Гледам телевизия</translation>
+        <translation>Гледам телевизия</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Meeting</source>
-        <translation type="obsolete">На среща съм</translation>
+        <translation>На среща съм</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Coffee</source>
-        <translation type="obsolete">Жулвам кафенце</translation>
+        <translation>Жулвам кафенце</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Listening to music</source>
-        <translation type="obsolete">Слушам музика</translation>
+        <translation>Слушам музика</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Business</source>
-        <translation type="obsolete">Имам работа</translation>
+        <translation>Имам работа</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Shooting</source>
-        <translation type="obsolete">Снимам</translation>
+        <translation>Снимам</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Having fun</source>
-        <translation type="obsolete">Забавлявам се</translation>
+        <translation>Забавлявам се</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>On the phone</source>
-        <translation type="obsolete">На телефона</translation>
+        <translation>На телефона</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Gaming</source>
-        <translation type="obsolete">Играя</translation>
+        <translation>Играя</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Studying</source>
-        <translation type="obsolete">Уча</translation>
+        <translation>Уча</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Shopping</source>
-        <translation type="obsolete">Пазарувам</translation>
+        <translation>Пазарувам</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Feeling sick</source>
-        <translation type="obsolete">Боледувам</translation>
+        <translation>Боледувам</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Sleeping</source>
-        <translation type="obsolete">Спя</translation>
+        <translation>Спя</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Surfing</source>
-        <translation type="obsolete">Сърфирам</translation>
+        <translation>Сърфирам</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Browsing</source>
-        <translation type="obsolete">Ровя се в нета</translation>
+        <translation>Ровя се в нета</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Working</source>
-        <translation type="obsolete">Бачкам</translation>
+        <translation>Бачкам</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Typing</source>
-        <translation type="obsolete">Набирам</translation>
+        <translation>Набирам</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Picnic</source>
-        <translation type="obsolete">На тиферич</translation>
+        <translation>На тиферич</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Cooking</source>
-        <translation type="obsolete">Готвя</translation>
+        <translation>Готвя</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Smoking</source>
-        <translation type="obsolete">Пуша</translation>
+        <translation>Пуша</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>I&apos;m high</source>
-        <translation type="obsolete">Надрусан съм</translation>
+        <translation>Надрусан съм</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>On WC</source>
-        <translation type="obsolete">Друсам крушата</translation>
+        <translation>Друсам крушата</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>To be or not to be</source>
-        <translation type="obsolete">Да бъда или да не бъда</translation>
+        <translation>Да бъда или да не бъда</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Watching pro7 on TV</source>
-        <translation type="obsolete">Гледам PRO7 по телевизията</translation>
+        <translation>Гледам PRO7 по телевизията</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Love</source>
-        <translation type="obsolete">Влюбен съм</translation>
+        <translation>Влюбен съм</translation>
     </message>
     <message>
+        <location line="+172"/>
         <source>X-Status</source>
-        <translation type="obsolete">Разширен статус</translation>
+        <translation>Разширен статус</translation>
     </message>
 </context>
 <context>
