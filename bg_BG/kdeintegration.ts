@@ -109,7 +109,7 @@
     <message>
         <location line="+6"/>
         <source>Installed plugins:</source>
-        <translation>Инсталирани добавки</translation>
+        <translation>Инсталирани добавки:</translation>
     </message>
     <message>
         <location line="+20"/>

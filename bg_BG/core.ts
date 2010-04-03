@@ -441,7 +441,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatLayer</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatlayerimpl.cpp" line="+44"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayerimpl.cpp" line="+45"/>
         <location line="+5"/>
         <source>Send message</source>
         <translation>Изпращане на съобщение</translation>
@@ -2063,9 +2063,13 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM реализация на прозорец с информация</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/servicechooser/servicechooser.cpp" line="-28"/>
         <source>Service shooser</source>
-        <translation>Избор на услуги</translation>
+        <translation type="obsolete">Избор на услуги</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/servicechooser/servicechooser.cpp" line="-28"/>
+        <source>Service chooser</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
