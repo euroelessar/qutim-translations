@@ -2344,4 +2344,12 @@
     <source>Request details</source>
     <target>Запросить детали</target>
 </phrase>
+<phrase>
+    <source>Other</source>
+    <target>Другое</target>
+</phrase>
+<phrase>
+    <source>Email</source>
+    <target>Эл.Почта</target>
+</phrase>
 </QPH>

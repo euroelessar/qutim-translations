@@ -139,7 +139,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="519"/>
         <source>Other</source>
-        <translation type="unfinished">Иное</translation>
+        <translation type="unfinished">Другое</translation>
     </message>
 </context>
 <context>
@@ -233,7 +233,7 @@
     <message>
         <location filename="../../src/connection.cpp" line="310"/>
         <source>Expired account</source>
-        <translation type="unfinished"></translation>
+        <translation>Просроченная учетная запись</translation>
     </message>
     <message>
         <location filename="../../src/connection.cpp" line="312"/>
@@ -243,27 +243,27 @@
     <message>
         <location filename="../../src/connection.cpp" line="314"/>
         <source>No access to resolver</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет доступа к DNS</translation>
     </message>
     <message>
         <location filename="../../src/connection.cpp" line="316"/>
         <source>Invalid database fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Недействительные поля в базе данных</translation>
     </message>
     <message>
         <location filename="../../src/connection.cpp" line="318"/>
         <source>Bad database status</source>
-        <translation type="unfinished"></translation>
+        <translation>Плохой статус базы данных</translation>
     </message>
     <message>
         <location filename="../../src/connection.cpp" line="320"/>
         <source>Bad resolver status</source>
-        <translation type="unfinished"></translation>
+        <translation>Плохой статус DNS</translation>
     </message>
     <message>
         <location filename="../../src/connection.cpp" line="322"/>
         <source>Internal error</source>
-        <translation type="unfinished"></translation>
+        <translation>Внутренняя ошибка</translation>
     </message>
     <message>
         <location filename="../../src/connection.cpp" line="324"/>
@@ -293,17 +293,17 @@
     <message>
         <location filename="../../src/connection.cpp" line="328"/>
         <source>DB send error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка запроса базы данных</translation>
     </message>
     <message>
         <location filename="../../src/connection.cpp" line="330"/>
         <source>DB link error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка связи с базой данных</translation>
     </message>
     <message>
         <location filename="../../src/connection.cpp" line="332"/>
         <source>Reservation map error</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/connection.cpp" line="334"/>
@@ -327,12 +327,12 @@
     <message>
         <location filename="../../src/connection.cpp" line="342"/>
         <source>User too heavily warned</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/connection.cpp" line="344"/>
         <source>Reservation timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>Превышено время подключения</translation>
     </message>
     <message>
         <location filename="../../src/connection.cpp" line="346"/>
@@ -357,7 +357,7 @@
     <message>
         <location filename="../../src/connection.cpp" line="354"/>
         <source>Invalid SecurID</source>
-        <translation type="unfinished"></translation>
+        <translation>Недействительный SecurID</translation>
     </message>
     <message>
         <location filename="../../src/connection.cpp" line="356"/>
@@ -437,12 +437,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="29"/>
         <source>Afghanistan</source>
-        <translation type="unfinished"></translation>
+        <translation>Афганистан</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="30"/>
         <source>Albania</source>
-        <translation type="unfinished"></translation>
+        <translation>Албания</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="31"/>
@@ -452,12 +452,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="32"/>
         <source>Andorra</source>
-        <translation type="unfinished"></translation>
+        <translation>Андорра</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="33"/>
         <source>Angola</source>
-        <translation type="unfinished"></translation>
+        <translation>Ангола</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="34"/>
@@ -477,12 +477,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="37"/>
         <source>Argentina</source>
-        <translation type="unfinished"></translation>
+        <translation>Аргентина</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="38"/>
         <source>Armenia</source>
-        <translation type="unfinished"></translation>
+        <translation>Армения</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="39"/>
@@ -497,32 +497,32 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="41"/>
         <source>Australia</source>
-        <translation type="unfinished"></translation>
+        <translation>Австралия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="42"/>
         <source>Austria</source>
-        <translation type="unfinished"></translation>
+        <translation>Австрия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="43"/>
         <source>Azerbaijan</source>
-        <translation type="unfinished"></translation>
+        <translation>Азербайджан</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="44"/>
         <source>Bahamas</source>
-        <translation type="unfinished"></translation>
+        <translation>Багамы</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="45"/>
         <source>Bahrain</source>
-        <translation type="unfinished"></translation>
+        <translation>Бахрейн</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="46"/>
         <source>Bangladesh</source>
-        <translation type="unfinished"></translation>
+        <translation>Бангладеж</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="47"/>
@@ -537,12 +537,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="49"/>
         <source>Belarus</source>
-        <translation type="unfinished"></translation>
+        <translation>Белоруссия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="50"/>
         <source>Belgium</source>
-        <translation type="unfinished"></translation>
+        <translation>Бельгия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="51"/>
@@ -562,12 +562,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="54"/>
         <source>Bhutan</source>
-        <translation type="unfinished"></translation>
+        <translation>Бутан</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="55"/>
         <source>Bolivia</source>
-        <translation type="unfinished"></translation>
+        <translation>Боливия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="56"/>
@@ -582,7 +582,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="58"/>
         <source>Brazil</source>
-        <translation type="unfinished"></translation>
+        <translation>Бразилия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="59"/>
@@ -592,12 +592,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="60"/>
         <source>Brunei</source>
-        <translation type="unfinished"></translation>
+        <translation>Бруней</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="61"/>
         <source>Bulgaria</source>
-        <translation type="unfinished"></translation>
+        <translation>Болгария</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="62"/>
@@ -617,12 +617,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="65"/>
         <source>Cameroon</source>
-        <translation type="unfinished"></translation>
+        <translation>Камерун</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="66"/>
         <source>Canada</source>
-        <translation type="unfinished"></translation>
+        <translation>Канада</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="67"/>
@@ -637,7 +637,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="69"/>
         <source>Cayman Islands</source>
-        <translation type="unfinished"></translation>
+        <translation>Каймановы острова</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="70"/>
@@ -647,7 +647,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="71"/>
         <source>Chad</source>
-        <translation type="unfinished"></translation>
+        <translation>Чад</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="72"/>
@@ -657,7 +657,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="73"/>
         <source>China</source>
-        <translation type="unfinished"></translation>
+        <translation>Китай</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="74"/>
@@ -672,7 +672,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="76"/>
         <source>Colombia</source>
-        <translation type="unfinished"></translation>
+        <translation>Колумбия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="77"/>
@@ -697,7 +697,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="81"/>
         <source>Costa Rica</source>
-        <translation type="unfinished"></translation>
+        <translation>Коста-Рика</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="82"/>
@@ -712,7 +712,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="84"/>
         <source>Cuba</source>
-        <translation type="unfinished"></translation>
+        <translation>Куба</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="85"/>
@@ -727,7 +727,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="87"/>
         <source>Denmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Дания</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="88"/>
@@ -752,12 +752,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="92"/>
         <source>Ecuador</source>
-        <translation type="unfinished"></translation>
+        <translation>Эквадор</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="93"/>
         <source>Egypt</source>
-        <translation type="unfinished"></translation>
+        <translation>Египет</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="94"/>
@@ -777,12 +777,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="97"/>
         <source>Estonia</source>
-        <translation type="unfinished"></translation>
+        <translation>Эстония</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="98"/>
         <source>Ethiopia</source>
-        <translation type="unfinished"></translation>
+        <translation>Эфиопия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="99"/>
@@ -797,17 +797,17 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="101"/>
         <source>Fiji</source>
-        <translation type="unfinished"></translation>
+        <translation>Фиджи</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="102"/>
         <source>Finland</source>
-        <translation type="unfinished"></translation>
+        <translation>Финляндия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="103"/>
         <source>France</source>
-        <translation type="unfinished"></translation>
+        <translation>Франция</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="104"/>
@@ -837,32 +837,32 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="109"/>
         <source>Georgia</source>
-        <translation type="unfinished"></translation>
+        <translation>Грузия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="110"/>
         <source>Germany</source>
-        <translation type="unfinished"></translation>
+        <translation>Германия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="111"/>
         <source>Ghana</source>
-        <translation type="unfinished"></translation>
+        <translation>Гана</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="112"/>
         <source>Gibraltar</source>
-        <translation type="unfinished"></translation>
+        <translation>Гибралтар</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="113"/>
         <source>Greece</source>
-        <translation type="unfinished"></translation>
+        <translation>Греция</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="114"/>
         <source>Greenland</source>
-        <translation type="unfinished"></translation>
+        <translation>Гренландия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="115"/>
@@ -912,27 +912,27 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="124"/>
         <source>Hong Kong</source>
-        <translation type="unfinished"></translation>
+        <translation>Гон-Конг</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="125"/>
         <source>Hungary</source>
-        <translation type="unfinished"></translation>
+        <translation>Венгрия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="126"/>
         <source>Iceland</source>
-        <translation type="unfinished"></translation>
+        <translation>Исландия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="127"/>
         <source>India</source>
-        <translation type="unfinished"></translation>
+        <translation>Индия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="128"/>
         <source>Indonesia</source>
-        <translation type="unfinished"></translation>
+        <translation>Индонезия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="129"/>
@@ -942,47 +942,47 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="130"/>
         <source>Iraq</source>
-        <translation type="unfinished"></translation>
+        <translation>Ирак</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="131"/>
         <source>Ireland</source>
-        <translation type="unfinished"></translation>
+        <translation>Ирландия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="132"/>
         <source>Israel</source>
-        <translation type="unfinished"></translation>
+        <translation>Израиль</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="133"/>
         <source>Italy</source>
-        <translation type="unfinished"></translation>
+        <translation>Италия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="134"/>
         <source>Jamaica</source>
-        <translation type="unfinished"></translation>
+        <translation>Ямайка</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="135"/>
         <source>Japan</source>
-        <translation type="unfinished"></translation>
+        <translation>Япония</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="136"/>
         <source>Jordan</source>
-        <translation type="unfinished"></translation>
+        <translation>Иордания</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="137"/>
         <source>Kazakhstan</source>
-        <translation type="unfinished"></translation>
+        <translation>Казахстан</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="138"/>
         <source>Kenya</source>
-        <translation type="unfinished"></translation>
+        <translation>Кения</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="139"/>
@@ -1002,12 +1002,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="142"/>
         <source>Kuwait</source>
-        <translation type="unfinished"></translation>
+        <translation>Кувейт</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="143"/>
         <source>Kyrgyzstan</source>
-        <translation type="unfinished"></translation>
+        <translation>Кыргызстан</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="144"/>
@@ -1017,7 +1017,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="145"/>
         <source>Latvia</source>
-        <translation type="unfinished"></translation>
+        <translation>Латвия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="146"/>
@@ -1052,7 +1052,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="152"/>
         <source>Luxembourg</source>
-        <translation type="unfinished"></translation>
+        <translation>Люксембург</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="153"/>
@@ -1067,7 +1067,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="155"/>
         <source>Madagascar</source>
-        <translation type="unfinished"></translation>
+        <translation>Мадагаскар</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="156"/>
@@ -1077,12 +1077,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="157"/>
         <source>Malaysia</source>
-        <translation type="unfinished"></translation>
+        <translation>Малайзия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="158"/>
         <source>Maldives</source>
-        <translation type="unfinished"></translation>
+        <translation>Мальдивы</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="159"/>
@@ -1092,7 +1092,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="160"/>
         <source>Malta</source>
-        <translation type="unfinished"></translation>
+        <translation>Мальта</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="161"/>
@@ -1122,7 +1122,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="166"/>
         <source>Mexico</source>
-        <translation type="unfinished"></translation>
+        <translation>Мексика</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="167"/>
@@ -1137,12 +1137,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="169"/>
         <source>Monaco</source>
-        <translation type="unfinished"></translation>
+        <translation>Монако</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="170"/>
         <source>Mongolia</source>
-        <translation type="unfinished"></translation>
+        <translation>Монголия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="171"/>
@@ -1152,7 +1152,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="172"/>
         <source>Morocco</source>
-        <translation type="unfinished"></translation>
+        <translation>Марокко</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="173"/>
@@ -1167,7 +1167,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="175"/>
         <source>Namibia</source>
-        <translation type="unfinished"></translation>
+        <translation>Намибия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="176"/>
@@ -1177,12 +1177,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="177"/>
         <source>Nepal</source>
-        <translation type="unfinished"></translation>
+        <translation>Непал</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="178"/>
         <source>Netherlands</source>
-        <translation type="unfinished"></translation>
+        <translation>Нидерланды</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="179"/>
@@ -1202,17 +1202,17 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="182"/>
         <source>New Zealand</source>
-        <translation type="unfinished"></translation>
+        <translation>Новая Зеландия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="183"/>
         <source>Nicaragua</source>
-        <translation type="unfinished"></translation>
+        <translation>Никарагуа</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="184"/>
         <source>Niger</source>
-        <translation type="unfinished"></translation>
+        <translation>Нигерия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="185"/>
@@ -1227,12 +1227,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="187"/>
         <source>Norfolk Island</source>
-        <translation type="unfinished"></translation>
+        <translation>Остров Норфолк</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="188"/>
         <source>Norway</source>
-        <translation type="unfinished"></translation>
+        <translation>Норвегия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="189"/>
@@ -1242,7 +1242,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="190"/>
         <source>Pakistan</source>
-        <translation type="unfinished"></translation>
+        <translation>Пакистан</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="191"/>
@@ -1252,37 +1252,37 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="192"/>
         <source>Panama</source>
-        <translation type="unfinished"></translation>
+        <translation>Панама</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="193"/>
         <source>Papua New Guinea</source>
-        <translation type="unfinished"></translation>
+        <translation>Папуа-Новая Гвинея</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="194"/>
         <source>Paraguay</source>
-        <translation type="unfinished"></translation>
+        <translation>Парагвай</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="195"/>
         <source>Peru</source>
-        <translation type="unfinished"></translation>
+        <translation>Перу</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="196"/>
         <source>Philippines</source>
-        <translation type="unfinished"></translation>
+        <translation>Филиппины</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="197"/>
         <source>Poland</source>
-        <translation type="unfinished"></translation>
+        <translation>Польша</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="198"/>
         <source>Portugal</source>
-        <translation type="unfinished"></translation>
+        <translation>Португалия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="199"/>
@@ -1292,7 +1292,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="200"/>
         <source>Qatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Катар</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="201"/>
@@ -1302,7 +1302,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="202"/>
         <source>Romania</source>
-        <translation type="unfinished"></translation>
+        <translation>Румыния</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="203"/>
@@ -1377,7 +1377,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="217"/>
         <source>Scotland</source>
-        <translation type="unfinished"></translation>
+        <translation>Шотландия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="218"/>
@@ -1397,17 +1397,17 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="221"/>
         <source>Singapore</source>
-        <translation type="unfinished"></translation>
+        <translation>Сингапур</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="222"/>
         <source>Slovakia</source>
-        <translation type="unfinished"></translation>
+        <translation>Словакия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="223"/>
         <source>Slovenia</source>
-        <translation type="unfinished"></translation>
+        <translation>Словения</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="224"/>
@@ -1427,17 +1427,17 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="227"/>
         <source>Spain</source>
-        <translation type="unfinished"></translation>
+        <translation>Испания</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="228"/>
         <source>Sri Lanka</source>
-        <translation type="unfinished"></translation>
+        <translation>Шри-Ланка</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="229"/>
         <source>Sudan</source>
-        <translation type="unfinished"></translation>
+        <translation>Судан</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="230"/>
@@ -1452,12 +1452,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="232"/>
         <source>Sweden</source>
-        <translation type="unfinished"></translation>
+        <translation>Швеция</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="233"/>
         <source>Switzerland</source>
-        <translation type="unfinished"></translation>
+        <translation>Швейцария</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="234"/>
@@ -1467,12 +1467,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="235"/>
         <source>Taiwan</source>
-        <translation type="unfinished"></translation>
+        <translation>Тайвань</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="236"/>
         <source>Tajikistan</source>
-        <translation type="unfinished"></translation>
+        <translation>Таджикистан</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="237"/>
@@ -1482,7 +1482,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="238"/>
         <source>Thailand</source>
-        <translation type="unfinished"></translation>
+        <translation>Таиланд</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="239"/>
@@ -1517,12 +1517,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="245"/>
         <source>Turkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Турция</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="246"/>
         <source>Turkmenistan</source>
-        <translation type="unfinished"></translation>
+        <translation>Туркменистан</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="247"/>
@@ -1542,7 +1542,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="250"/>
         <source>Ukraine</source>
-        <translation type="unfinished"></translation>
+        <translation>Украина</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="251"/>
@@ -1552,22 +1552,22 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="252"/>
         <source>United Kingdom</source>
-        <translation type="unfinished"></translation>
+        <translation>Великобритания</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="253"/>
         <source>Uruguay</source>
-        <translation type="unfinished"></translation>
+        <translation>Уругвай</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="254"/>
         <source>USA</source>
-        <translation type="unfinished">Соединенные Штаны</translation>
+        <translation type="unfinished">США</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="255"/>
         <source>Uzbekistan</source>
-        <translation type="unfinished"></translation>
+        <translation>Узбекистан</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="256"/>
@@ -1577,12 +1577,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="257"/>
         <source>Vatican City</source>
-        <translation type="unfinished"></translation>
+        <translation>Ватикан</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="258"/>
         <source>Venezuela</source>
-        <translation type="unfinished"></translation>
+        <translation>Венесуэла</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="259"/>
@@ -1612,22 +1612,22 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="264"/>
         <source>Yemen</source>
-        <translation type="unfinished"></translation>
+        <translation>Йемен</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="265"/>
         <source>Yugoslavia</source>
-        <translation type="unfinished"></translation>
+        <translation>Югославия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="266"/>
         <source>Yugoslavia - Montenegro</source>
-        <translation type="unfinished"></translation>
+        <translation>Югославия - Черногория</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="267"/>
         <source>Yugoslavia - Serbia</source>
-        <translation type="unfinished"></translation>
+        <translation>Югославия - Сербия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="268"/>
@@ -1637,7 +1637,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="269"/>
         <source>Zimbabwe</source>
-        <translation type="unfinished"></translation>
+        <translation>Зимбабве</translation>
     </message>
 </context>
 <context>
@@ -2093,7 +2093,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="458"/>
         <source>Other</source>
-        <translation type="unfinished">Иное</translation>
+        <translation type="unfinished">Другое</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="459"/>
@@ -2136,7 +2136,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="279"/>
         <source>Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Искусство</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="280"/>
@@ -2161,7 +2161,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="284"/>
         <source>Cars</source>
-        <translation type="unfinished"></translation>
+        <translation>Автомобили</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="285"/>
@@ -2176,12 +2176,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="287"/>
         <source>Collections</source>
-        <translation type="unfinished"></translation>
+        <translation>Коллекционирование</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="288"/>
         <source>Computers</source>
-        <translation type="unfinished"></translation>
+        <translation>Компьютеры</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="289"/>
@@ -2206,7 +2206,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="293"/>
         <source>Fitness</source>
-        <translation type="unfinished"></translation>
+        <translation>Фитнес</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="294"/>
@@ -2216,7 +2216,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="295"/>
         <source>Hobbies</source>
-        <translation type="unfinished"></translation>
+        <translation>Хобби</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="296"/>
@@ -2231,7 +2231,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="298"/>
         <source>Games</source>
-        <translation type="unfinished"></translation>
+        <translation>Игры</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="299"/>
@@ -2246,12 +2246,12 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="301"/>
         <source>Internet</source>
-        <translation type="unfinished"></translation>
+        <translation>Интернет</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="302"/>
         <source>Lifestyle</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль жизни</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="303"/>
@@ -2271,7 +2271,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="306"/>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Музыка</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="307"/>
@@ -2783,7 +2783,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="546"/>
         <source>Other</source>
-        <translation type="unfinished">Иное</translation>
+        <translation type="unfinished">Другое</translation>
     </message>
 </context>
 <context>
@@ -2801,7 +2801,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="554"/>
         <source>Last name</source>
-        <translation type="unfinished">Имя2</translation>
+        <translation type="unfinished">Фамилия</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="555"/>
@@ -2831,7 +2831,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="560"/>
         <source>Home address</source>
-        <translation type="unfinished">Дом. Адрес</translation>
+        <translation type="unfinished">Домашний адрес</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="561"/>
@@ -2937,7 +2937,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="581"/>
         <source>Work address</source>
-        <translation type="unfinished"></translation>
+        <translation>Работа</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="582"/>
@@ -3007,7 +3007,7 @@
     <message>
         <location filename="../../src/metainfo.cpp" line="86"/>
         <source>Work</source>
-        <translation type="unfinished"></translation>
+        <translation>Работа</translation>
     </message>
     <message>
         <location filename="../../src/metainfo.cpp" line="88"/>
@@ -3041,7 +3041,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="471"/>
         <source>Computers</source>
-        <translation type="unfinished"></translation>
+        <translation>Компьютеры</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="472"/>
@@ -3076,7 +3076,7 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="478"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Дом</translation>
     </message>
     <message>
         <location filename="../../src/metainfofields_p.h" line="479"/>
