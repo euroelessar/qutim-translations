@@ -15,6 +15,19 @@
     </message>
 </context>
 <context>
+    <name>Contact</name>
+    <message>
+        <location filename="../../src/protocol/account/roster/jcontact.cpp" line="170"/>
+        <source>Resource</source>
+        <translation type="unfinished">Ресурс</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/roster/jcontact.cpp" line="173"/>
+        <source>Possible client</source>
+        <translation type="unfinished">Возможный клиент</translation>
+    </message>
+</context>
+<context>
     <name>JAccountWizardPage</name>
     <message>
         <location filename="../../src/protocol/jaccountwizardpage.ui" line="14"/>
@@ -130,7 +143,7 @@
     <name>JMUCJoin</name>
     <message>
         <location filename="../../src/protocol/account/muc/jmucjoin.ui" line="14"/>
-        <source>Dialog</source>
+        <source>Join to groupchat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -210,7 +223,7 @@
         <translation>Консоль XML</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/modules/adhoc/jadhocmodule.cpp" line="32"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocmodule.cpp" line="33"/>
         <source>Execute command</source>
         <translation>Выполнить команду</translation>
     </message>
@@ -224,40 +237,78 @@
         <source>Join groupchat</source>
         <translation type="unfinished">Войти в конференцию</translation>
     </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="175"/>
+        <source>Join to conference</source>
+        <translation type="unfinished">Войти в конференцию</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="181"/>
+        <source>Leave from conference</source>
+        <translation type="unfinished">Покинуть конференцию</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="187"/>
+        <source>Copy room address to clipboard</source>
+        <translation type="unfinished">Адрес конференции в буфер</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="193"/>
+        <source>Save to bookmarks</source>
+        <translation type="unfinished">Сохранить в закладках</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="199"/>
+        <source>Remove from bookmarks</source>
+        <translation type="unfinished">Удалить из закладок</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="205"/>
+        <source>Room&apos;s configuration</source>
+        <translation type="unfinished">Настройки комнаты</translation>
+    </message>
 </context>
 <context>
     <name>Jabber::JAdHocWidget</name>
     <message>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="39"/>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="102"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="38"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="100"/>
         <source>Next</source>
         <translation>Следующий</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="93"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="91"/>
         <source>Finish</source>
         <translation>Завершить</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="96"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="94"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="99"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="97"/>
         <source>Previous</source>
         <translation>Назад</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="105"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="103"/>
         <source>Complete</source>
         <translation>Закончить</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="88"/>
-        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="108"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="86"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="106"/>
         <source>Ok</source>
         <translation type="unfinished">Ок</translation>
+    </message>
+</context>
+<context>
+    <name>Jabber::JConferenceConfig</name>
+    <message>
+        <location filename="../../src/protocol/account/muc/jconferenceconfig.cpp" line="26"/>
+        <source>Room configuration: %1</source>
+        <translation type="unfinished">Настройки комнаты: %1</translation>
     </message>
 </context>
 <context>
@@ -572,9 +623,62 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCJoin</name>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucjoin.cpp" line="23"/>
         <source>Join groupchat</source>
-        <translation type="unfinished">Войти в конференцию</translation>
+        <translation type="obsolete">Войти в конференцию</translation>
+    </message>
+</context>
+<context>
+    <name>Jabber::JMUCSession</name>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="235"/>
+        <source>Not authorized: Password required.</source>
+        <translation type="unfinished">Не авторизован: Требуется пароль.</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="238"/>
+        <source>Forbidden: Access denied, user is banned.</source>
+        <translation type="unfinished">Запрещено: Доступ закрыт, пользоватль заблокирован.</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="241"/>
+        <source>Item not found: The room does not exist.</source>
+        <translation type="unfinished">Элемент не найден. Комната не существует.</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="244"/>
+        <source>Not allowed: Room creation is restricted.</source>
+        <translation type="unfinished">Не разрешено. Создание комнат запрещено.</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="247"/>
+        <source>Not acceptable: Room nicks are locked down.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="250"/>
+        <source>Registration required: User is not on the member list.</source>
+        <translation type="unfinished">Требуется регистрация. Пользователь не в списке участников.</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="253"/>
+        <source>Conflict: Desired room nickname is in use or registered by another user.</source>
+        <translation type="unfinished">Конфликт: Ник используется в комнате или зарегестрирован другим пользователем.</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="256"/>
+        <source>Service unavailable: Maximum number of users has been reached.</source>
+        <translation type="unfinished">Служба не доступна. Достугнуто предельное число пользователей.</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="260"/>
+        <source>Unknown error: No description.</source>
+        <translation type="unfinished">Неизвестная ошибка, да еще без описаня, НЯ.</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="266"/>
+        <source>Join groupchat on</source>
+        <translatorcomment>что к чему, когда наконец я смогу сам плагин пощупать???</translatorcomment>
+        <translation type="unfinished">Войти в конференцию on</translation>
     </message>
 </context>
 <context>
@@ -584,27 +688,26 @@ Accept invitation?</source>
         <translation type="obsolete">&lt;br/&gt;&lt;b&gt;Идентификаторы:&lt;/b&gt;&lt;br/&gt;</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="58"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="57"/>
         <source>Search service</source>
         <translation type="unfinished">Служба поиска</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="133"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="140"/>
         <source>category: </source>
         <translation type="unfinished">Категория:</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="135"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="142"/>
         <source>Identities:</source>
         <translation type="unfinished">Идентификаторы:</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="148"/>
         <source>Features:</source>
-        <translation type="unfinished">Возможности:</translation>
+        <translation type="obsolete">Возможности:</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="132"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="139"/>
         <source>type: </source>
         <translation type="unfinished">тип:</translation>
     </message>
@@ -857,6 +960,29 @@ Accept invitation?</source>
     </message>
 </context>
 <context>
+    <name>RoomConfig</name>
+    <message>
+        <location filename="../../src/protocol/account/muc/jconferenceconfig.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jconferenceconfig.ui" line="58"/>
+        <source>Apply</source>
+        <translation>Применить</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jconferenceconfig.ui" line="65"/>
+        <source>Ok</source>
+        <translation type="unfinished">Ок</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jconferenceconfig.ui" line="72"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Отмена</translation>
+    </message>
+</context>
+<context>
     <name>SearchService</name>
     <message>
         <source>Search service</source>
@@ -876,59 +1002,63 @@ Accept invitation?</source>
         <translation type="unfinished">Сервер:</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="56"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="74"/>
+        <source>Filter:</source>
+        <translation type="unfinished">Фильтр:</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="159"/>
         <source>Searching...</source>
         <translation type="unfinished">Поиск...</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="76"/>
         <source>Close</source>
-        <translation type="unfinished">Закрыть</translation>
+        <translation type="obsolete">Закрыть</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="135"/>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="138"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="181"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="184"/>
         <source>Join conference</source>
         <translation type="unfinished">Войти в конференцию</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="143"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="189"/>
         <source>Register</source>
         <translation type="unfinished">Регистрация</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="146"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="192"/>
         <source>Register on the service</source>
         <translation type="unfinished">Зарегестрироваться в службе</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="151"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="197"/>
         <source>Search</source>
         <translation type="unfinished">Поиск</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="154"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="200"/>
         <source>Search on the service</source>
         <translation type="unfinished">Поиск в службе</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="159"/>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="162"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="205"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="208"/>
         <source>Execute command</source>
         <translation type="unfinished">Выполнить команду</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="167"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="213"/>
         <source>Show vCard</source>
         <translation type="unfinished">Показать vCard (анкету)</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="170"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="216"/>
         <source>Show information about service</source>
         <translation type="unfinished">Показать информацию о службе</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="178"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="224"/>
         <source>Add service to roster</source>
         <translation type="unfinished">Добавить сервис в ростер (список)</translation>
     </message>
@@ -937,7 +1067,7 @@ Accept invitation?</source>
         <translation type="obsolete">Показать vCard (анкету)</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="175"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="221"/>
         <source>Add to roster</source>
         <translation type="unfinished">Добавить в ростер (список)</translation>
     </message>
@@ -946,7 +1076,7 @@ Accept invitation?</source>
         <translation type="obsolete">Добавить в список прокси</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="110"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="141"/>
         <source>Name</source>
         <translation type="unfinished">Имя</translation>
     </message>
@@ -985,14 +1115,6 @@ Accept invitation?</source>
         <location filename="../../src/jplugin.cpp" line="29"/>
         <source>Author</source>
         <translation type="unfinished">Автор</translation>
-    </message>
-</context>
-<context>
-    <name>Test</name>
-    <message>
-        <location filename="../../src/protocol/jprotocol.cpp" line="72"/>
-        <source>Test action</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
