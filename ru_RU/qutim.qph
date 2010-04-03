@@ -2352,4 +2352,16 @@
     <source>Email</source>
     <target>Эл.Почта</target>
 </phrase>
+<phrase>
+    <source>Ruslan Nigmatullin</source>
+    <target>Руслан Нигматуллин</target>
+</phrase>
+<phrase>
+    <source>Developer</source>
+    <target>Разработчик</target>
+</phrase>
+<phrase>
+    <source>Open chat</source>
+    <target>Открыть чат</target>
+</phrase>
 </QPH>
