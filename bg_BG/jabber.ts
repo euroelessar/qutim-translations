@@ -81,6 +81,19 @@
     </message>
 </context>
 <context>
+    <name>Contact</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+170"/>
+        <source>Resource</source>
+        <translation>Ресурс</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Possible client</source>
+        <translation>Вероятен клиент</translation>
+    </message>
+</context>
+<context>
     <name>Contacts</name>
     <message>
         <source>Show contact status text in contact list</source>
@@ -325,7 +338,7 @@
 <context>
     <name>Jabber</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/modules/adhoc/jadhocmodule.cpp" line="+32"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/adhoc/jadhocmodule.cpp" line="+33"/>
         <source>Execute command</source>
         <translation>Изпълнение на команда</translation>
     </message>
@@ -335,7 +348,7 @@
         <translation>XML конзола</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+25"/>
+        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+26"/>
         <source>Service discovery</source>
         <translation>Откриване на услуги</translation>
     </message>
@@ -737,7 +750,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCSession</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+233"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+235"/>
         <source>Not authorized: Password required.</source>
         <translation>Липсва удостоверение: Изисква се парола.</translation>
     </message>
@@ -799,7 +812,7 @@ Accept invitation?</source>
         <translation>Търсене на услуги</translation>
     </message>
     <message>
-        <location line="+82"/>
+        <location line="+83"/>
         <source>category: </source>
         <translation>категория:</translation>
     </message>
@@ -809,12 +822,11 @@ Accept invitation?</source>
         <translation>Самоличности:</translation>
     </message>
     <message>
-        <location line="+13"/>
         <source>Features:</source>
-        <translation>Характеристики:</translation>
+        <translation type="obsolete">Характеристики:</translation>
     </message>
     <message>
-        <location line="-16"/>
+        <location line="-3"/>
         <source>type: </source>
         <translation>тип:</translation>
     </message>
@@ -2286,17 +2298,21 @@ Accept invitation?</source>
         <translation>Сървър:</translation>
     </message>
     <message>
-        <location line="+28"/>
+        <location line="+46"/>
+        <source>Filter:</source>
+        <translation>Филтър:</translation>
+    </message>
+    <message>
+        <location line="+85"/>
         <source>Searching...</source>
         <translation>Търсене...</translation>
     </message>
     <message>
-        <location line="+20"/>
         <source>Close</source>
-        <translation>Затваряне</translation>
+        <translation type="obsolete">Затваряне</translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="-18"/>
         <source>Name</source>
         <translation>Име</translation>
     </message>
@@ -2305,7 +2321,7 @@ Accept invitation?</source>
         <translation type="obsolete">JID</translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+40"/>
         <location line="+3"/>
         <source>Join conference</source>
         <translation>Присъединяване към групов разговор</translation>

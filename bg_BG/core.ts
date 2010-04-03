@@ -692,7 +692,7 @@ p, li { white-space: pre-wrap; }
         <translation>Промяна на общия статус</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+5"/>
         <source>Activate main menu</source>
         <translation>Активиране на главното меню</translation>
     </message>
@@ -1806,7 +1806,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Допълнителна конфигурация на qutIM за Apple plists</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-115"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-109"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
@@ -3756,9 +3756,8 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Смяна на профил</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+52"/>
         <source>Find</source>
-        <translation>Намиране</translation>
+        <translation type="obsolete">Намиране</translation>
     </message>
 </context>
 <context>
