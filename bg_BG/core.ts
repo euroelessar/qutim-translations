@@ -111,7 +111,7 @@
 <context>
     <name>AdiumChat::ChatSessionImpl</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+109"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+111"/>
         <source>Message %1 must have a ChatUnit</source>
         <translation>Съобщението %1 изисква ChatUnit</translation>
     </message>
@@ -1021,7 +1021,39 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProtocolChooserWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/servicechooser/protocolchooserwidget.cpp" line="+111"/>
+        <source>&lt;b&gt;Name: &lt;/b&gt; %1 &lt;br /&gt;</source>
+        <translation type="obsolete">&lt;b&gt;Наименование: &lt;/b&gt; %1 &lt;br /&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Description: &lt;/b&gt; %1 &lt;br /&gt;</source>
+        <translation type="obsolete">&lt;b&gt;Описание: &lt;/b&gt; %1 &lt;br /&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Name:&lt;/b&gt; %1&lt;/br&gt;</source>
+        <translation type="obsolete">&lt;b&gt;Име:&lt;/b&gt; %1&lt;/br&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Task:&lt;/b&gt; %1&lt;/br&gt;</source>
+        <translation type="obsolete">&lt;b&gt;Задача:&lt;/b&gt; %1&lt;/br&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</source>
+        <translation type="obsolete">&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Webpage:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</source>
+        <translation type="obsolete">&lt;b&gt;Страница:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/servicechooser/protocolchooserwidget.cpp" line="+108"/>
+        <source>To take effect you must restart qutIM</source>
+        <translation>За да влязат в сила промените, qutIM трябва да бъде рестартиран</translation>
+    </message>
+</context>
+<context>
+    <name>Core::ServiceChooser</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/servicechooser/servicechooser.cpp" line="+47"/>
         <source>&lt;b&gt;Name: &lt;/b&gt; %1 &lt;br /&gt;</source>
         <translation>&lt;b&gt;Наименование: &lt;/b&gt; %1 &lt;br /&gt;</translation>
     </message>
@@ -1054,34 +1086,33 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ServiceChooserWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/servicechooser/servicechooserwidget.cpp" line="+119"/>
         <source>&lt;b&gt;Name: &lt;/b&gt; %1 &lt;br /&gt;</source>
-        <translation>&lt;b&gt;Наименование: &lt;/b&gt; %1 &lt;br /&gt;</translation>
+        <translation type="obsolete">&lt;b&gt;Наименование: &lt;/b&gt; %1 &lt;br /&gt;</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>&lt;b&gt;Description: &lt;/b&gt; %1 &lt;br /&gt;</source>
-        <translation>&lt;b&gt;Описание: &lt;/b&gt; %1 &lt;br /&gt;</translation>
+        <translation type="obsolete">&lt;b&gt;Описание: &lt;/b&gt; %1 &lt;br /&gt;</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>&lt;b&gt;Name:&lt;/b&gt; %1&lt;/br&gt;</source>
-        <translation>&lt;b&gt;Име:&lt;/b&gt; %1&lt;/br&gt;</translation>
+        <translation type="obsolete">&lt;b&gt;Име:&lt;/b&gt; %1&lt;/br&gt;</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>&lt;b&gt;Task:&lt;/b&gt; %1&lt;/br&gt;</source>
-        <translation>&lt;b&gt;Задача:&lt;/b&gt; %1&lt;/br&gt;</translation>
+        <translation type="obsolete">&lt;b&gt;Задача:&lt;/b&gt; %1&lt;/br&gt;</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</source>
-        <translation>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
+        <translation type="obsolete">&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>&lt;b&gt;Webpage:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</source>
-        <translation>&lt;b&gt;Страница:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
+        <translation type="obsolete">&lt;b&gt;Страница:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/servicechooser/servicechooserwidget.cpp" line="+116"/>
+        <source>To take effect you must restart qutIM</source>
+        <translation>За да влязат в сила промените, qutIM трябва да бъде рестартиран</translation>
     </message>
 </context>
 <context>
@@ -2032,7 +2063,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM реализация на прозорец с информация</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/servicechooser/servicechooser.cpp" line="+26"/>
+        <location filename="../../qutim/src/corelayers/servicechooser/servicechooser.cpp" line="-28"/>
         <source>Service shooser</source>
         <translation>Избор на услуги</translation>
     </message>
@@ -2921,7 +2952,7 @@ Please, disable it to set sounds manually.</source>
 <context>
     <name>XSettingsDialog</name>
     <message>
-        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="+51"/>
+        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="+50"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
@@ -2961,7 +2992,7 @@ Please, disable it to set sounds manually.</source>
         <translation>Допълнителни настройки на добавките</translation>
     </message>
     <message>
-        <location line="+158"/>
+        <location line="+103"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки на qutIM - %1</translation>
     </message>
@@ -3063,9 +3094,8 @@ Please, disable it to set sounds manually.</source>
         <translation type="unfinished">Стил на бутона</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Animated</source>
-        <translation>Анимирани</translation>
+        <translation type="obsolete">Анимирани</translation>
     </message>
 </context>
 <context>
