@@ -35,7 +35,7 @@
 <context>
     <name>AdiumChat::ChatSessionImpl</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatsessionimpl.cpp" line="+111"/>
+        <location filename="../../src/corelayers/adiumchat/chatsessionimpl.cpp" line="+110"/>
         <source>Message %1 must have a ChatUnit</source>
         <translation type="unfinished"></translation>
     </message>
@@ -278,8 +278,9 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AuthDialogPrivate</name>
     <message>
+        <location filename="../../src/corelayers/authdialog/authdialogimpl_p.h" line="+22"/>
         <source>Recieved authorizarion request from %1:</source>
-        <translation type="obsolete">Принята авторизация от %1:</translation>
+        <translation type="unfinished">Принята авторизация от %1:</translation>
     </message>
 </context>
 <context>
@@ -391,27 +392,27 @@ p, li { white-space: pre-wrap; }
         <location line="+65"/>
         <location line="+10"/>
         <source>Preview</source>
-        <translation type="unfinished">Тестовое уведомление</translation>
+        <translation>Тестовое уведомление</translation>
     </message>
     <message>
         <location line="-10"/>
         <source>This is a simple popup</source>
-        <translation type="unfinished">Это простое уведомление</translation>
+        <translation>Это простое уведомление</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Simple message</source>
-        <translation type="unfinished">Простое уведомление</translation>
+        <translation>Простое уведомление</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Another message</source>
-        <translation type="unfinished">Другое уведомление</translation>
+        <translation>Другое уведомление</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Simple messagebox</source>
-        <translation type="unfinished">Простое сообщение</translation>
+        <translation>Простое сообщение</translation>
     </message>
 </context>
 <context>
@@ -576,6 +577,29 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>FileTransferDialog</name>
+    <message>
+        <location filename="../../src/corelayers/filetransfer/filetransferdialog.ui" line="+14"/>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>File name:</source>
+        <translation>Имя файла:</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Total size:</source>
+        <translation>Общий размер:</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>File size:</source>
+        <translation>Размер файла:</translation>
+    </message>
+</context>
+<context>
     <name>HistoryWindowClass</name>
     <message>
         <location filename="../../src/corelayers/jsonhistory/historywindow.ui" line="+14"/>
@@ -621,6 +645,31 @@ p, li { white-space: pre-wrap; }
         <location line="+36"/>
         <source>1</source>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>IdleStatusWidget</name>
+    <message>
+        <location filename="../../src/corelayers/idlestatuschanger/idlestatuswidget.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Set status away after:</source>
+        <translation>&quot;Отошел&quot; через:</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Set status not available after:</source>
+        <translation>&quot;Не доступен&quot; через:</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <location line="+13"/>
+        <source>s</source>
+        <comment>seconds</comment>
+        <translation>с</translation>
     </message>
 </context>
 <context>
@@ -753,7 +802,7 @@ p, li { white-space: pre-wrap; }
         <translation>Модуль PList конфигурации</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/qticons/iconsloaderimpl.cpp" line="+30"/>
+        <location filename="../../src/corelayers/qticons/iconsloaderimpl.cpp" line="+41"/>
         <source>Xdg Icon Loader</source>
         <translation>Модуль Xdg загрузки иконок</translation>
     </message>
@@ -966,6 +1015,46 @@ p, li { white-space: pre-wrap; }
         <source>TODO</source>
         <translation type="unfinished">Задумано</translation>
     </message>
+    <message>
+        <location filename="../../src/corelayers/idlestatuschanger/idlestatuschanger.cpp" line="+9"/>
+        <source>Idle status changer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Change status of accounts by idle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/idledetector/idle.cpp" line="+25"/>
+        <source>Idle detector</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Native idle detector, based on system api</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../examples/autosettingsitem/autosettings.cpp" line="+9"/>
+        <source>Autosettings example</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Simple example of auto settings item generator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../examples/simplesettingsdialog/settingslayerimpl.cpp" line="+7"/>
+        <source>Simple Settings dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>SDK03 example</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProfileCreationPage</name>
@@ -1075,64 +1164,79 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>QObject</name>
     <message>
+        <location filename="../../libqutim/notificationslayer.cpp" line="+100"/>
         <source>System message from %1:</source>
-        <translation type="obsolete">Системное сообщение от %1:</translation>
+        <translation>Системное сообщение от %1:</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>%1 changed status</source>
-        <translation type="obsolete">%1 изменил статус</translation>
+        <translation>%1 изменил статус</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Message from %1:</source>
-        <translation type="obsolete">Сообщение от %1:</translation>
+        <translation>Сообщение от %1:</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Message to %1:</source>
-        <translation type="obsolete">Сообщение для %1:</translation>
+        <translation>Сообщение для %1:</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>%1 is typing</source>
-        <translation type="obsolete">%1 печатает</translation>
+        <translation>%1 печатает</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Blocked message from %1</source>
-        <translation type="obsolete">Заблокировано сообщение от %1</translation>
+        <translation>Заблокировано сообщение от %1</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>%1 has birthday today!!</source>
-        <translation type="obsolete">Сегодня день рождения у %1!!</translation>
+        <translation>Сегодня день рождения у %1!!</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>%1 is online</source>
-        <translation type="obsolete">%1 в сети</translation>
+        <translation>%1 в сети</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>%1 is offline</source>
-        <translation type="obsolete">%1 отключился</translation>
+        <translation>%1 отключился</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>qutIM launched</source>
-        <translation type="obsolete">qutIM запущен</translation>
+        <translation>qutIM запущен</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Count</source>
-        <translation type="obsolete">Количество</translation>
+        <translation>Количество</translation>
     </message>
     <message>
+        <location filename="../../libqutim/utils.cpp" line="+115"/>
         <source>1st quarter</source>
-        <translation type="obsolete">1я четверть</translation>
+        <translation>1я четверть</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>2nd quarter</source>
-        <translation type="obsolete">2я четверть</translation>
+        <translation>2я четверть</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>3rd quarter</source>
-        <translation type="obsolete">3я четверть</translation>
+        <translation>3я четверть</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>4th quarter</source>
-        <translation type="obsolete">4я четверть</translation>
+        <translation>4я четверть</translation>
     </message>
 </context>
 <context>
@@ -1191,36 +1295,81 @@ p, li { white-space: pre-wrap; }
         <translatorcomment>Выбор приоритетных реализаций протоколов, если загружено неколько реализаций, например кутимовский оскар и аська через кецалькоатля</translatorcomment>
         <translation>Управление протоколами</translation>
     </message>
+    <message>
+        <location filename="../../examples/autosettingsitem/autosettings.cpp" line="+5"/>
+        <source>Test settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Combo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SettingsDialog</name>
+    <message>
+        <location filename="../../examples/simplesettingsdialog/settingsdialog.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Shortcut</name>
     <message>
+        <location filename="../../libqutim/shortcut.cpp" line="+72"/>
         <source>Close</source>
-        <translation type="obsolete">Закрыть</translation>
+        <translation type="unfinished">Закрыть</translation>
     </message>
     <message>
+        <location line="+16"/>
+        <source>Next child</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Previous child</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Find</source>
-        <translation type="obsolete">Поиск</translation>
+        <translation>Поиск</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Find next</source>
-        <translation type="obsolete">Найти далее</translation>
+        <translation>Найти далее</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Find previous</source>
-        <translation type="obsolete">Найти предыдущее</translation>
+        <translation>Найти предыдущее</translation>
     </message>
     <message>
+        <location line="+40"/>
         <source>Preferences</source>
-        <translation type="obsolete">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Quit</source>
-        <translation type="obsolete">Выход</translation>
+        <translation>Выход</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>System</source>
-        <translation type="obsolete">Система</translation>
+        <translation>Система</translation>
     </message>
 </context>
 <context>
