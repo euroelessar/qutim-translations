@@ -2364,4 +2364,44 @@
     <source>Open chat</source>
     <target>Открыть чат</target>
 </phrase>
+<phrase>
+    <source>Account:</source>
+    <target>Уч.Запись:</target>
+</phrase>
+<phrase>
+    <source>From:</source>
+    <target>Из:</target>
+</phrase>
+<phrase>
+    <source>Return</source>
+    <target>Назад</target>
+</phrase>
+<phrase>
+    <source>Other</source>
+    <target>Другой</target>
+</phrase>
+<phrase>
+    <source>qutIM launched</source>
+    <target>qutIM запущен</target>
+</phrase>
+<phrase>
+    <source>This is a simple popup</source>
+    <target>Это простое уведомление</target>
+</phrase>
+<phrase>
+    <source>Simple message</source>
+    <target>Простое уведомление</target>
+</phrase>
+<phrase>
+    <source>Another message</source>
+    <target>Другое уведомление</target>
+</phrase>
+<phrase>
+    <source>Simple messagebox</source>
+    <target>Простое сообщение</target>
+</phrase>
+<phrase>
+    <source>test</source>
+    <target>Тест</target>
+</phrase>
 </QPH>
