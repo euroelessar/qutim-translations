@@ -2404,4 +2404,8 @@
     <source>test</source>
     <target>Тест</target>
 </phrase>
+<phrase>
+    <source>Total size:</source>
+    <target>Общий размер:</target>
+</phrase>
 </QPH>
