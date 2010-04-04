@@ -296,7 +296,7 @@
         <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+179"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+181"/>
         <source>Join to conference</source>
         <translation>Присъединяване към конференция</translation>
     </message>
@@ -372,7 +372,7 @@
 <context>
     <name>Jabber::JConnectionListener</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/connection/jconnectionlistener.cpp" line="+39"/>
+        <location filename="../../protocols/jabber/src/protocol/account/connection/jconnectionlistener.cpp" line="+41"/>
         <source>The entity has sent XML that cannot be processed.</source>
         <translation>Ответната страна изпрати XML, който не може да бъде обработен.</translation>
     </message>
@@ -739,7 +739,7 @@ Accept invitation?</source>
         <translation>Търсене на услуги</translation>
     </message>
     <message>
-        <location line="+83"/>
+        <location line="+84"/>
         <source>category: </source>
         <translation>категория: </translation>
     </message>
@@ -749,7 +749,12 @@ Accept invitation?</source>
         <translation>Самоличности:</translation>
     </message>
     <message>
-        <location line="-3"/>
+        <location line="+159"/>
+        <source>Features:</source>
+        <translation>Характеристики:</translation>
+    </message>
+    <message>
+        <location line="-162"/>
         <source>type: </source>
         <translation>тип: </translation>
     </message>
