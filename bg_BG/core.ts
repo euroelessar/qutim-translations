@@ -208,22 +208,32 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="+72"/>
+        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="+71"/>
+        <source>yes</source>
+        <translation>Да</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>no</source>
+        <translation>Не</translation>
+    </message>
+    <message>
+        <location line="+8"/>
         <source>the field is not set</source>
         <translation>не е зададено</translation>
     </message>
     <message>
-        <location line="+47"/>
+        <location line="+42"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>За контакта %1 &lt;%2&gt;</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+34"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+22"/>
+        <location line="+13"/>
         <source>Show information</source>
         <translation>Показване на информация</translation>
     </message>
@@ -921,7 +931,7 @@ p, li { white-space: pre-wrap; }
         <translation>Модул за миграция от 0.2 към 0.3</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="-145"/>
+        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="-147"/>
         <source>Simple information window about a contact</source>
         <translation>Опростен прозорец с информация за контакта</translation>
     </message>
@@ -1286,7 +1296,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+4"/>
         <source>Follow the style</source>
-        <translation type="unfinished">В зависимост от стила</translation>
+        <translation>В зависимост от стила</translation>
     </message>
     <message>
         <location line="+12"/>

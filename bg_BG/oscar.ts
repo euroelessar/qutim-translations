@@ -391,7 +391,7 @@
         <translation>Вероятен клиент</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+131"/>
+        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+137"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
