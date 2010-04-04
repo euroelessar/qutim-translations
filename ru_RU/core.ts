@@ -391,27 +391,27 @@ p, li { white-space: pre-wrap; }
         <location line="+65"/>
         <location line="+10"/>
         <source>Preview</source>
-        <translation>Миниатюра (подсказка)//</translation>
+        <translation type="unfinished">Тестовое уведомление</translation>
     </message>
     <message>
         <location line="-10"/>
         <source>This is a simple popup</source>
-        <translation>Это /простое/ уведомление</translation>
+        <translation type="unfinished">Это простое уведомление</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Simple message</source>
-        <translation>/Простое/ уведомление</translation>
+        <translation type="unfinished">Простое уведомление</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Another message</source>
-        <translation>/Другое/ уведомление</translation>
+        <translation type="unfinished">Другое уведомление</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Simple messagebox</source>
-        <translation>/Простое/ сообщение</translation>
+        <translation type="unfinished">Простое сообщение</translation>
     </message>
 </context>
 <context>
