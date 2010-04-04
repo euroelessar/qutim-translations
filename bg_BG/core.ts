@@ -35,7 +35,7 @@
 <context>
     <name>AdiumChat::ChatSessionImpl</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+111"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+110"/>
         <source>Message %1 must have a ChatUnit</source>
         <translation>Съобщението %1 изисква ChatUnit</translation>
     </message>
@@ -506,6 +506,29 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>FileTransferDialog</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/filetransfer/filetransferdialog.ui" line="+14"/>
+        <source>Dialog</source>
+        <translation>Предаване</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>File name:</source>
+        <translation>Име на файла:</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Total size:</source>
+        <translation>Общ размер:</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>File size:</source>
+        <translation>Размер на файла:</translation>
+    </message>
+</context>
+<context>
     <name>HistoryWindowClass</name>
     <message>
         <location filename="../../qutim/src/corelayers/jsonhistory/historywindow.ui" line="+14"/>
@@ -551,6 +574,31 @@ p, li { white-space: pre-wrap; }
         <location line="+7"/>
         <source>All: %L1</source>
         <translation>Общо: %L1</translation>
+    </message>
+</context>
+<context>
+    <name>IdleStatusWidget</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/idlestatuschanger/idlestatuswidget.ui" line="+14"/>
+        <source>Form</source>
+        <translation>Бездействие</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Set status away after:</source>
+        <translation>Установяване на статуса в &quot;Отсъства&quot; след:</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Set status not available after:</source>
+        <translation>Установяване на статуса в &quot;Недостъпен&quot; след:</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <location line="+13"/>
+        <source>s</source>
+        <comment>seconds</comment>
+        <translation>&apos;</translation>
     </message>
 </context>
 <context>
@@ -823,7 +871,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM работа с локали</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/qticons/iconsloaderimpl.cpp" line="+30"/>
+        <location filename="../../qutim/src/corelayers/qticons/iconsloaderimpl.cpp" line="+41"/>
         <source>Xdg Icon Loader</source>
         <translation type="unfinished">Поддръжка на Xdg икони</translation>
     </message>
@@ -891,6 +939,26 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>TODO</source>
         <translation></translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/idledetector/idle.cpp" line="+25"/>
+        <source>Idle detector</source>
+        <translation>Установяване на бездействието</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Native idle detector, based on system api</source>
+        <translation>Установяване на бездействието, на базата на вградения, системен API</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/idlestatuschanger/idlestatuschanger.cpp" line="+9"/>
+        <source>Idle status changer</source>
+        <translation>Промяна на статуса при бездействие</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Change status of accounts by idle</source>
+        <translation>Промяна на статусите на сметките при бездействие</translation>
     </message>
 </context>
 <context>
