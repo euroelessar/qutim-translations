@@ -354,6 +354,69 @@
     </message>
 </context>
 <context>
+    <name>ContactInfo</name>
+    <message>
+        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+74"/>
+        <source>Other</source>
+        <translation>Друго</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Internal IP</source>
+        <translation>Вътрешен IP</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>External IP</source>
+        <translation>Външен IP</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Port</source>
+        <translation>Порт</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Protocol version</source>
+        <translation>Версия на протокола</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Capabilities</source>
+        <translation>Възможности</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Direct connection extra info</source>
+        <translation>Допълнителна информация за директната връзка</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Last info update</source>
+        <translation>Последна актуализация на информацията</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Last ext info update</source>
+        <translation>Последна актуализация на разширената информация</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Last ext status update</source>
+        <translation>Последна актуализация на разширеня статус</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Client features</source>
+        <translation>Характеристики на клиента</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Cookie</source>
+        <translation>Бисквитка</translation>
+    </message>
+</context>
+<context>
     <name>ContactList</name>
     <message>
         <location filename="../../protocols/oscar/src/roster.cpp" line="+82"/>
@@ -386,17 +449,17 @@
         <translation>Премахване от списък &quot;Пренебрегнати&quot;</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+141"/>
+        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+133"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+137"/>
+        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+71"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+319"/>
+        <location line="+324"/>
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>
@@ -3178,7 +3241,7 @@
         <translation>Модулна реализация на OSCAR протокола</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-147"/>
+        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-139"/>
         <source>OscarIdentify</source>
         <translation>Oscar идентификация</translation>
     </message>
