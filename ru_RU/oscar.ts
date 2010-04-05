@@ -2253,7 +2253,7 @@
     <message>
         <location line="+1"/>
         <source>ICQ - Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Помощь ICQ</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2373,7 +2373,7 @@
     <message>
         <location line="+1"/>
         <source>Women</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Женщины</translation>
     </message>
 </context>
 <context>
@@ -2386,7 +2386,7 @@
     <message>
         <location line="+1"/>
         <source>Albanian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Албанский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2406,7 +2406,7 @@
     <message>
         <location line="+1"/>
         <source>Belorussian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Белорусский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2446,7 +2446,7 @@
     <message>
         <location line="+1"/>
         <source>Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Китайский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2456,7 +2456,7 @@
     <message>
         <location line="+1"/>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Чешский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2471,27 +2471,27 @@
     <message>
         <location line="+1"/>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Инглишъ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Esperanto</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Эсперанто</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Estonian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Эстонский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Farsi</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Фарси</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Finnish</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Финский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2506,12 +2506,12 @@
     <message>
         <location line="+1"/>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Немецкий</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Greek</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Греческий</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2546,12 +2546,12 @@
     <message>
         <location line="+1"/>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Итальянский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Japanese</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Японский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2561,7 +2561,7 @@
     <message>
         <location line="+1"/>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Корейский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2616,7 +2616,7 @@
     <message>
         <location line="+1"/>
         <source>Polish</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Польский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2631,12 +2631,12 @@
     <message>
         <location line="+1"/>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Румынский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Русский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2666,7 +2666,7 @@
     <message>
         <location line="+1"/>
         <source>Spanish</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Испанский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2711,7 +2711,7 @@
     <message>
         <location line="+1"/>
         <source>Ukrainian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Украинский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3419,7 +3419,7 @@
     <message>
         <location line="+2"/>
         <source>Unknown error</source>
-        <translation type="unfinished">Неизвестная ошибка</translation>
+        <translation>Неизвестная ошибка</translation>
     </message>
 </context>
 <context>

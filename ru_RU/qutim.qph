@@ -2408,4 +2408,24 @@
     <source>Total size:</source>
     <target>Общий размер:</target>
 </phrase>
+<phrase>
+    <source>Online:</source>
+    <target>В сети:</target>
+</phrase>
+<phrase>
+    <source>Free for chat:</source>
+    <target>Готов поболтать:</target>
+</phrase>
+<phrase>
+    <source>Away:</source>
+    <target>Отошел:</target>
+</phrase>
+<phrase>
+    <source>NA:</source>
+    <target>Недоступен:</target>
+</phrase>
+<phrase>
+    <source>DND:</source>
+    <target>Не беспокоить:</target>
+</phrase>
 </QPH>

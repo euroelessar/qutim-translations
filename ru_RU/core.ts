@@ -204,22 +204,32 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="+72"/>
+        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="+71"/>
+        <source>yes</source>
+        <translation type="unfinished">Да</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>no</source>
+        <translation type="unfinished">Нет</translation>
+    </message>
+    <message>
+        <location line="+8"/>
         <source>the field is not set</source>
         <translation>Поле не заполнено</translation>
     </message>
     <message>
-        <location line="+47"/>
+        <location line="+42"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>Информация о %1 &lt;%2&gt;</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+34"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
     <message>
-        <location line="+22"/>
+        <location line="+13"/>
         <source>Show information</source>
         <translation>Показать информацию</translation>
     </message>
@@ -922,7 +932,7 @@ p, li { white-space: pre-wrap; }
         <translation>Модификатор параметров %time% и %timeOpened%, основан на документации Apple</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/kineticpopups/backend.cpp" line="+39"/>
+        <location filename="../../src/corelayers/kineticpopups/backend.cpp" line="+40"/>
         <source>Kinetic popups</source>
         <translation type="unfinished"></translation>
     </message>
@@ -932,14 +942,12 @@ p, li { white-space: pre-wrap; }
         <translation>Модуль уведомлений qutIM. Powered by Kinetic</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/kineticpopups/settings/popupsettings.cpp" line="+13"/>
         <source>Notifications settings</source>
-        <translation>Настройки уведомлений</translation>
+        <translation type="obsolete">Настройки уведомлений</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Default settings widgets for kinetic notifications</source>
-        <translation>Модуль настроек уведомлений kinetic</translation>
+        <translation type="obsolete">Модуль настроек уведомлений kinetic</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/accountcreator/accountcreator.cpp" line="+9"/>
@@ -992,7 +1000,7 @@ p, li { white-space: pre-wrap; }
         <translation>Простой модуль для размещения иконки qutIM в трее</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="-145"/>
+        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="-147"/>
         <source>Simple information window about a contact</source>
         <translation>Простое информационное окно о контакте</translation>
     </message>
@@ -1023,7 +1031,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Change status of accounts by idle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Изменение статуса при простое компьютера</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/idledetector/idle.cpp" line="+25"/>
@@ -1033,7 +1041,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Native idle detector, based on system api</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Детектор простоя, основан на системном API</translation>
     </message>
     <message>
         <location filename="../../examples/autosettingsitem/autosettings.cpp" line="+9"/>
@@ -1164,7 +1172,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../libqutim/notificationslayer.cpp" line="+100"/>
+        <location filename="../../libqutim/notificationslayer.cpp" line="+102"/>
         <source>System message from %1:</source>
         <translation>Системное сообщение от %1:</translation>
     </message>
@@ -1275,7 +1283,7 @@ p, li { white-space: pre-wrap; }
         <translation>Всплывающие сообщения</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/kineticpopups/settings/popupsettings.cpp" line="+4"/>
+        <location line="+2"/>
         <source>Notifications</source>
         <translation>Уведомления</translation>
     </message>
@@ -1344,32 +1352,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Find</source>
-        <translation>Поиск</translation>
+        <translation type="unfinished">Поиск</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Find next</source>
-        <translation>Найти далее</translation>
+        <translation type="unfinished">Найти далее</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Find previous</source>
-        <translation>Найти предыдущее</translation>
+        <translation type="unfinished">Найти предыдущее</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Preferences</source>
-        <translation>Настройки</translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Quit</source>
-        <translation>Выход</translation>
+        <translation type="unfinished">Выход</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>System</source>
-        <translation>Система</translation>
+        <translation type="unfinished">Система</translation>
     </message>
 </context>
 <context>
