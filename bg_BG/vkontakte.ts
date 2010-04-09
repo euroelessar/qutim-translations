@@ -6,7 +6,7 @@
     <message>
         <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+11"/>
         <source>Aleksey Sidorov</source>
-        <translation type="unfinished"></translation>
+        <translation>Алексей Сидоров</translation>
     </message>
 </context>
 <context>
@@ -104,18 +104,18 @@
     <message>
         <location line="-3"/>
         <source>Vkontakte</source>
-        <translation type="unfinished"></translation>
+        <translation>ВКонтакте</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+10"/>
         <source>Simple implementation of vkontakte, based on userapi.ru</source>
-        <translation type="unfinished"></translation>
+        <translation>Опростена реализация на ВКонтакте, на базата на userapi.ru</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Userapi</source>
-        <translation type="unfinished"></translation>
+        <translation>Userapi</translation>
     </message>
 </context>
 <context>
@@ -123,7 +123,7 @@
     <message>
         <location line="-6"/>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Автор</translation>
     </message>
 </context>
 <context>

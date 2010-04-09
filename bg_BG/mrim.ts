@@ -57,37 +57,37 @@
     <message>
         <location filename="../../protocols/mrim/src/base/messages.cpp" line="+106"/>
         <source>No such user</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма такъв потребител</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Message too large</source>
-        <translation type="unfinished"></translation>
+        <translation>Съобщението е твърде голямо</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Limit exceeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Надхвърлен лимит</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>User denied receiving offline messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Потребителят не приема съобщения, когато е извън линия</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>User denied receiving offline flash movies</source>
-        <translation type="unfinished"></translation>
+        <translation>Потребителят не приема flash филми, когато е извън линия</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Internal error</source>
-        <translation type="unfinished"></translation>
+        <translation>Вътрешна грешка</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Message was not delivered!</source>
-        <translation type="unfinished"></translation>
+        <translation>Съобщението не бе доставено!</translation>
     </message>
 </context>
 <context>
@@ -104,7 +104,7 @@
     <message>
         <location line="+182"/>
         <source>Authentication failed! Access denied!</source>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешно удостоверяване! Отказан достъп!</translation>
     </message>
 </context>
 <context>
