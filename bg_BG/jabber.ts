@@ -114,29 +114,24 @@
 <context>
     <name>JInputPassword</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/jinputpassword.ui" line="+14"/>
         <source>Dialog</source>
-        <translation>Диалог</translation>
+        <translation type="obsolete">Диалог</translation>
     </message>
     <message>
-        <location line="+13"/>
         <source>Password:</source>
-        <translation>Парола:</translation>
+        <translation type="obsolete">Парола:</translation>
     </message>
     <message>
-        <location line="+35"/>
         <source>Ok</source>
-        <translation>ОК</translation>
+        <translation type="obsolete">ОК</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Cancel</source>
-        <translation>Отказ</translation>
+        <translation type="obsolete">Отказ</translation>
     </message>
     <message>
-        <location line="+9"/>
         <source>Save password</source>
-        <translation>Запис на паролата</translation>
+        <translation type="obsolete">Запис на паролата</translation>
     </message>
 </context>
 <context>

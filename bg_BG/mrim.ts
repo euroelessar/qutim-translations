@@ -53,16 +53,58 @@
     </message>
 </context>
 <context>
-    <name>MrimConnection</name>
+    <name>Messages</name>
     <message>
-        <location filename="../../protocols/mrim/src/base/mrimconnection.cpp" line="+210"/>
-        <source>Authentication failed!</source>
-        <translation>Неуспешно удостоверяване!</translation>
+        <location filename="../../protocols/mrim/src/base/messages.cpp" line="+106"/>
+        <source>No such user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Message too large</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Limit exceeded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>User denied receiving offline messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>User denied receiving offline flash movies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Internal error</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+9"/>
+        <source>Message was not delivered!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MrimConnection</name>
+    <message>
+        <source>Authentication failed!</source>
+        <translation type="obsolete">Неуспешно удостоверяване!</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/mrim/src/base/mrimconnection.cpp" line="+238"/>
         <source>Another client with same login connected!</source>
         <translation>Друг клиент, със същите детайли за вход се е свързал!</translation>
+    </message>
+    <message>
+        <location line="+182"/>
+        <source>Authentication failed! Access denied!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

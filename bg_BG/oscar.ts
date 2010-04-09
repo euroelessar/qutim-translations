@@ -168,7 +168,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+40"/>
+        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+44"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -356,12 +356,98 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+74"/>
+        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+56"/>
+        <source>General</source>
+        <translation>Общи</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Name</source>
+        <translation>Име</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Account info</source>
+        <translation>Информация за сметката</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>UIN</source>
+        <translation>UIN</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Registration</source>
+        <translation>Регистрация</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source> (private)</source>
+        <translation>(личен)</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email</source>
+        <translation>Email</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Home</source>
+        <translation>Домашна</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Home address</source>
+        <translation>Домашен адрес</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Originally from</source>
+        <translation>Роден в</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Work</source>
+        <translation>Служебна</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Work address</source>
+        <translation>Служебен адрес</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Company</source>
+        <translation>Компания</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <location line="+2"/>
+        <source>Personal</source>
+        <translation>Лична</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Interests</source>
+        <translation>Интереси</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>About</source>
+        <translation>За</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Notes</source>
+        <translation>Бележки</translation>
+    </message>
+    <message>
+        <location line="+8"/>
         <source>Other</source>
         <translation>Друго</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+3"/>
         <source>Internal IP</source>
         <translation>Вътрешен IP</translation>
     </message>
@@ -419,7 +505,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/oscar/src/roster.cpp" line="+82"/>
+        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+59"/>
         <source>Add to visible list</source>
         <translation>Добавяне в списък &quot;Видими&quot;</translation>
     </message>
@@ -454,12 +540,12 @@
         <translation>Вероятен клиент</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+71"/>
+        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+96"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+324"/>
+        <location line="+306"/>
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>
@@ -477,6 +563,16 @@
         <location line="+4"/>
         <source>Reg. date</source>
         <translation>Регистрация от</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/oscar/src/authorization.cpp" line="+15"/>
+        <source>Ask authorization</source>
+        <translation>Удостоверяване</translation>
+    </message>
+    <message>
+        <location line="+99"/>
+        <source>Please, authorize me</source>
+        <translation>Моля за удостоверение</translation>
     </message>
 </context>
 <context>
@@ -1695,7 +1791,7 @@
 <context>
     <name>FeedbagError</name>
     <message>
-        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+112"/>
+        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+111"/>
         <source>No error</source>
         <translation>Без грешка</translation>
     </message>
@@ -1766,12 +1862,24 @@
         <translation>Повторно свързване при загуба на връзка</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Codepage: (note that online messages use utf-8 in most cases)</source>
-        <translation>Кодировка (имайте предвид, че в повечето случаи съобщенията са в UTF-8)</translation>
+        <translation type="obsolete">Кодировка (имайте предвид, че в повечето случаи съобщенията са в UTF-8)</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+7"/>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Codepage: &lt;/span&gt;(note that online messages use utf-8 in most cases)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Кодировка: &lt;/span&gt;(имайте предвид, че в повечето случаи съобщенията са в UTF-8)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location line="+21"/>
         <source>System</source>
         <translation>Системна</translation>
     </message>
@@ -2836,47 +2944,40 @@
         <translation>Email</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Home city</source>
-        <translation>Град (домашен)</translation>
+        <translation type="obsolete">Град (домашен)</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Home state</source>
-        <translation>Щат (домашен)</translation>
+        <translation type="obsolete">Щат (домашен)</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Home phone</source>
-        <translation>Телефон (домашен)</translation>
+        <translation type="obsolete">Телефон (домашен)</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Home fax</source>
-        <translation>Факс (домашен)</translation>
+        <translation type="obsolete">Факс (домашен)</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Home address</source>
-        <translation>Домашен адрес</translation>
+        <translation type="obsolete">Домашен адрес</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+6"/>
         <source>Cell phone</source>
         <translation>Мобилен</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Home zip code</source>
-        <translation>Пощенски код (домашен)</translation>
+        <translation type="obsolete">Пощенски код (домашен)</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Home country</source>
-        <translation>Държава</translation>
+        <translation type="obsolete">Държава</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+3"/>
         <source>GMT</source>
         <translation>GMT</translation>
     </message>
@@ -2926,82 +3027,67 @@
         <translation>Говорими езици</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Original city</source>
-        <translation>Град (роден)</translation>
+        <translation type="obsolete">Град (роден)</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Original state</source>
-        <translation>Щат (роден)</translation>
+        <translation type="obsolete">Щат (роден)</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Original country</source>
-        <translation>Държава (роден)</translation>
+        <translation type="obsolete">Държава (роден)</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Work city</source>
-        <translation>Град (служебен)</translation>
+        <translation type="obsolete">Град (служебен)</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Work state</source>
-        <translation>Щат (служебен)</translation>
+        <translation type="obsolete">Щат (служебен)</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Work phone</source>
-        <translation>Телефон (служебен)</translation>
+        <translation type="obsolete">Телефон (служебен)</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Work fax</source>
-        <translation>Факс (служебен)</translation>
+        <translation type="obsolete">Факс (служебен)</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Work address</source>
-        <translation>Служебен адрес</translation>
+        <translation type="obsolete">Служебен адрес</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Work zip</source>
-        <translation>Пощенски код (служебен)</translation>
+        <translation type="obsolete">Пощенски код (служебен)</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Work country</source>
-        <translation>Държава (служебен)</translation>
+        <translation type="obsolete">Държава (служебен)</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Work company</source>
-        <translation>Компания (служебен)</translation>
+        <translation type="obsolete">Компания (служебен)</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Work department</source>
-        <translation>Отдел (служебен)</translation>
+        <translation type="obsolete">Отдел (служебен)</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Work position</source>
-        <translation>Позиция</translation>
+        <translation type="obsolete">Позиция</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Work occupation</source>
-        <translation>Длъжност</translation>
+        <translation type="obsolete">Длъжност</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Work webpage</source>
-        <translation>Служебна страница</translation>
+        <translation type="obsolete">Служебна страница</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+16"/>
         <source>Emails</source>
         <translation>Email</translation>
     </message>
@@ -3043,9 +3129,128 @@
     </message>
 </context>
 <context>
+    <name>MetaInfoHome</name>
+    <message>
+        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="-37"/>
+        <source>City</source>
+        <translation>Град</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>State</source>
+        <translation>Щат</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Phone</source>
+        <translation>Телефон</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Fax</source>
+        <translation>Факс</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Address</source>
+        <translation>Адрес</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Zip code</source>
+        <translation>Пощенски код</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Country</source>
+        <translation>Държава</translation>
+    </message>
+</context>
+<context>
+    <name>MetaInfoOriginal</name>
+    <message>
+        <location line="+11"/>
+        <source>City</source>
+        <translation>Град</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>State</source>
+        <translation>Щат</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Country</source>
+        <translation>Държава</translation>
+    </message>
+</context>
+<context>
+    <name>MetaInfoWork</name>
+    <message>
+        <location line="+1"/>
+        <source>City</source>
+        <translation>Град</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>State</source>
+        <translation>Щат</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Phone</source>
+        <translation>Телефон</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Fax</source>
+        <translation>Факс</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Address</source>
+        <translation>Адрес</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Zip</source>
+        <translation>Код</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Country</source>
+        <translation>Държава</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Company</source>
+        <translation>Компания</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Department</source>
+        <translation>Отдел</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Position</source>
+        <translation>Позиция</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Occupation</source>
+        <translation>Длъжност</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Webpage</source>
+        <translation>Web страница</translation>
+    </message>
+</context>
+<context>
     <name>Occupation</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="-126"/>
+        <location line="-121"/>
         <source>Academic</source>
         <translation>Академична</translation>
     </message>
@@ -3276,6 +3481,18 @@
     <message>
         <location line="+3"/>
         <location line="+1"/>
+        <source>Oscar roster</source>
+        <translation>Oscar контакти</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <location line="+1"/>
+        <source>Oscar messages</source>
+        <translation>Oscar съобщения</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <location line="+1"/>
         <source>Oscar file transfer protocol</source>
         <translation>Предаване на файлове (Oscar)</translation>
     </message>
@@ -3286,9 +3503,21 @@
         <translation>Услуга за ICQ мета-информация</translation>
     </message>
     <message>
+        <location line="+3"/>
+        <location line="+1"/>
+        <source>Oscar authorization support</source>
+        <translation>Oscar поддръжка на удостоверяване</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <location line="+1"/>
+        <source>Oscar privacy lists</source>
+        <translation>Oscar лични списъци</translation>
+    </message>
+    <message>
         <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-7"/>
         <source>OscarXStatus</source>
-        <translation>Разширен статус</translation>
+        <translation>Oscar разширен статус</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3515,7 +3744,7 @@
         <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-5"/>
         <location line="+3"/>
         <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-27"/>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-18"/>
+        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-34"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
