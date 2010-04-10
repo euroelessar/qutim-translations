@@ -2428,4 +2428,84 @@
     <source>DND:</source>
     <target>Не беспокоить:</target>
 </phrase>
+<phrase>
+    <source>Recieved authorizarion request from %1:</source>
+    <target>Принята авторизация от %1:</target>
+</phrase>
+<phrase>
+    <source>Protocol version</source>
+    <target>Версия протокола</target>
+</phrase>
+<phrase>
+    <source>Internal IP</source>
+    <target>Внутренний IP</target>
+</phrase>
+<phrase>
+    <source>External IP</source>
+    <target>Внешний IP</target>
+</phrase>
+<phrase>
+    <source>Port</source>
+    <target>Порт</target>
+</phrase>
+<phrase>
+    <source>Ask authorization</source>
+    <target>Запротить авторизацию</target>
+</phrase>
+<phrase>
+    <source>City</source>
+    <target>Город</target>
+</phrase>
+<phrase>
+    <source>State</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Phone</source>
+    <target>Телефон</target>
+</phrase>
+<phrase>
+    <source>State</source>
+    <target>Область</target>
+</phrase>
+<phrase>
+    <source>Fax</source>
+    <target>Факс</target>
+</phrase>
+<phrase>
+    <source>Address</source>
+    <target>Адрес</target>
+</phrase>
+<phrase>
+    <source>Zip code</source>
+    <target>Индекс</target>
+</phrase>
+<phrase>
+    <source>Position</source>
+    <target>Положение</target>
+</phrase>
+<phrase>
+    <source>Occupation</source>
+    <target>Род занятий</target>
+</phrase>
+<phrase>
+    <source>Aleksey Sidorov</source>
+    <target>Алексей Сидоров</target>
+</phrase>
+<phrase>
+    <source>Author</source>
+    <target>Автор</target>
+</phrase>
+<phrase>
+    <source>Friends</source>
+    <target>Друзья</target>
+</phrase>
+<phrase>
+    <source>Favorites</source>
+    <target>Закладки</target>
+</phrase>
+<phrase>
+    <source>Open user page</source>
+    <target>Открыть страницу</target>
+</phrase>
 </QPH>

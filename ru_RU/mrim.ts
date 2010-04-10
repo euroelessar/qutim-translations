@@ -4,42 +4,42 @@
 <context>
     <name>AccountWizardMain</name>
     <message>
-        <location filename="../../src/ui/wizards/accountwizardmain.ui" line="14"/>
+        <location filename="../../src/ui/wizards/accountwizardmain.ui" line="+14"/>
         <source>WizardPage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/ui/wizards/accountwizardmain.ui" line="20"/>
+        <location line="+6"/>
         <source>Email:</source>
         <translation>Электропочта:</translation>
     </message>
     <message>
-        <location filename="../../src/ui/wizards/accountwizardmain.ui" line="33"/>
+        <location line="+13"/>
         <source>@mail.ru</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/ui/wizards/accountwizardmain.ui" line="38"/>
+        <location line="+5"/>
         <source>@inbox.ru</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/ui/wizards/accountwizardmain.ui" line="43"/>
+        <location line="+5"/>
         <source>@bk.ru</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/ui/wizards/accountwizardmain.ui" line="48"/>
+        <location line="+5"/>
         <source>@list.ru</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/ui/wizards/accountwizardmain.ui" line="53"/>
+        <location line="+5"/>
         <source>@corp.mail.ru</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/ui/wizards/accountwizardmain.ui" line="63"/>
+        <location line="+10"/>
         <source>Password:</source>
         <translation>Пароль:</translation>
     </message>
@@ -47,75 +47,117 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/base/mrimplugin.cpp" line="39"/>
+        <location filename="../../src/base/mrimplugin.cpp" line="+38"/>
         <source>Peter Rusanov</source>
-        <translation type="unfinished"></translation>
+        <translation>Пётр Русанов</translation>
+    </message>
+</context>
+<context>
+    <name>Messages</name>
+    <message>
+        <location filename="../../src/base/messages.cpp" line="+124"/>
+        <source>No such user</source>
+        <translation>Нет человека</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Message too large</source>
+        <translation>Сообщение слишком длинное</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Limit exceeded</source>
+        <translation>Превышение лимита</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>User denied receiving offline messages</source>
+        <translation>Пользователь запретил приём оффлайн сообщений</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>User denied receiving offline flash movies</source>
+        <translation>Пользователь запретил приём оффлайн флеш-роликов</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Internal error</source>
+        <translation>Внутренняя ошибка</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Message was not delivered!</source>
+        <translation type="unfinished">Сообщение не доставлено |-_-| !</translation>
     </message>
 </context>
 <context>
     <name>MrimConnection</name>
     <message>
-        <location filename="../../src/base/mrimconnection.cpp" line="210"/>
         <source>Authentication failed!</source>
-        <translation type="unfinished">Ошибка аутентификации!</translation>
+        <translation type="obsolete">Ошибка аутентификации!</translation>
     </message>
     <message>
-        <location filename="../../src/base/mrimconnection.cpp" line="219"/>
+        <location filename="../../src/base/mrimconnection.cpp" line="+238"/>
         <source>Another client with same login connected!</source>
-        <translation type="unfinished">Другой клиент подключился с тем же логином!</translation>
+        <translation>Другой клиент подключился с тем же логином!</translation>
+    </message>
+    <message>
+        <location line="+185"/>
+        <source>Authentication failed! Access denied!</source>
+        <translation>Ошибка аутентификации! Доступ запрещён!</translation>
     </message>
 </context>
 <context>
     <name>MrimPacket</name>
     <message>
-        <location filename="../../src/base/mrimpacket.cpp" line="175"/>
+        <location filename="../../src/base/mrimpacket.cpp" line="+175"/>
         <source>No error</source>
         <translatorcomment>!?</translatorcomment>
-        <translation type="unfinished">Без ошибок</translation>
+        <translation>Без ошибок</translation>
     </message>
     <message>
-        <location filename="../../src/base/mrimpacket.cpp" line="177"/>
+        <location line="+2"/>
         <source>Cannot read from socket</source>
-        <translation type="unfinished">Ошибка чтения из сокета</translation>
+        <translation>Ошибка чтения из сокета</translation>
     </message>
     <message>
-        <location filename="../../src/base/mrimpacket.cpp" line="179"/>
+        <location line="+2"/>
         <source>Header is corrupted</source>
-        <translation type="unfinished">Заголовок поврежден</translation>
+        <translation>Заголовок поврежден</translation>
     </message>
     <message>
-        <location filename="../../src/base/mrimpacket.cpp" line="181"/>
+        <location line="+2"/>
         <source>Unknown error</source>
-        <translation type="unfinished">Неизвестная ошибка</translation>
+        <translation>Неизвестная ошибка</translation>
     </message>
 </context>
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../src/base/mrimplugin.cpp" line="33"/>
+        <location filename="../../src/base/mrimplugin.cpp" line="-6"/>
         <source>Module-based realization of Mail.Ru IM protocol</source>
-        <translation type="unfinished">Модуль реализации Mail.ru IM протокола (MRIM)</translation>
+        <translation>Модуль реализации Mail.ru IM протокола (MRIM)</translation>
     </message>
     <message>
-        <location filename="../../src/base/mrimplugin.cpp" line="34"/>
+        <location line="+1"/>
         <source>MRIM</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../../src/base/mrimplugin.cpp" line="47"/>
+        <location line="+13"/>
         <source>MRIM account creator</source>
-        <translation type="unfinished">Мастер создания учетной записи MRIM </translation>
+        <translation>Мастер создания учетной записи MRIM </translation>
     </message>
     <message>
-        <location filename="../../src/base/mrimplugin.cpp" line="48"/>
+        <location line="+1"/>
         <source>Account creator for module-based realization of Mail.Ru IM protocol</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Создание учетной записи, модуля реализации Mail.ru агента</translation>
     </message>
 </context>
 <context>
     <name>Roster</name>
     <message>
-        <location filename="../../src/base/roster.cpp" line="195"/>
+        <location filename="../../src/base/roster.cpp" line="+197"/>
         <source>Phone contacts</source>
         <translation type="unfinished">Телефонные контакты</translation>
     </message>
@@ -123,7 +165,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../src/base/mrimplugin.cpp" line="40"/>
+        <location filename="../../src/base/mrimplugin.cpp" line="-8"/>
         <source>Author</source>
         <translation type="unfinished">Автор</translation>
     </message>

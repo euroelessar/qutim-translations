@@ -35,7 +35,7 @@
 <context>
     <name>AdiumChat::ChatSessionImpl</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatsessionimpl.cpp" line="+110"/>
+        <location filename="../../src/corelayers/adiumchat/chatsessionimpl.cpp" line="+120"/>
         <source>Message %1 must have a ChatUnit</source>
         <translation type="unfinished"></translation>
     </message>
@@ -43,7 +43,7 @@
 <context>
     <name>AdiumChat::ChatWidget</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="+187"/>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="+221"/>
         <source>Chat with %1</source>
         <translation>Чат с %1</translation>
     </message>
@@ -61,7 +61,7 @@
         <translation></translation>
     </message>
     <message>
-        <location line="+53"/>
+        <location line="+84"/>
         <source>Send</source>
         <translation>Отправить</translation>
     </message>
@@ -167,7 +167,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="-111"/>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="-132"/>
         <source>View History</source>
         <translation>История</translation>
     </message>
@@ -204,34 +204,51 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="+71"/>
+        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="+84"/>
+        <location line="+172"/>
         <source>yes</source>
         <translation type="unfinished">Да</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-171"/>
+        <location line="+172"/>
         <source>no</source>
         <translation type="unfinished">Нет</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="-152"/>
         <source>the field is not set</source>
         <translation>Поле не заполнено</translation>
     </message>
     <message>
-        <location line="+42"/>
+        <location line="+48"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>Информация о %1 &lt;%2&gt;</translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="+51"/>
+        <source>Summary</source>
+        <translation>Краткая сводка</translation>
+    </message>
+    <message>
+        <location line="+20"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="+45"/>
         <source>Show information</source>
         <translation>Показать информацию</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/authdialog/authdialogimpl_p.h" line="+23"/>
+        <source>Recieved authorizarion request from %1:</source>
+        <translation type="unfinished">Принята авторизация от %1:</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Send authorizarion request to %1:</source>
+        <translation type="unfinished">Отправить запрос авторизации  %1:</translation>
     </message>
 </context>
 <context>
@@ -244,7 +261,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+4"/>
         <source>Edit tags</source>
-        <translation>Исменить теги</translation>
+        <translation type="unfinished">Изменить теги</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="+78"/>
@@ -288,15 +305,14 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AuthDialogPrivate</name>
     <message>
-        <location filename="../../src/corelayers/authdialog/authdialogimpl_p.h" line="+22"/>
         <source>Recieved authorizarion request from %1:</source>
-        <translation type="unfinished">Принята авторизация от %1:</translation>
+        <translation type="obsolete">Принята авторизация от %1:</translation>
     </message>
 </context>
 <context>
     <name>Core::ChatAppearance</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/settings/chatappearance.cpp" line="+37"/>
+        <location filename="../../src/corelayers/adiumchat/settings/chatappearance.cpp" line="+42"/>
         <source>Vasya Pupkin</source>
         <translation>Вася Пупкин</translation>
     </message>
@@ -306,18 +322,13 @@ p, li { white-space: pre-wrap; }
         <translation>Безымяшка</translation>
     </message>
     <message>
-        <location line="+62"/>
-        <location line="+75"/>
+        <location line="+65"/>
+        <location line="+70"/>
         <source>Unable to create chat session</source>
         <translation>Не могу начать сессию чата</translation>
     </message>
     <message>
-        <location line="-31"/>
-        <source>%1 (%2)</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+34"/>
+        <location line="+3"/>
         <source>Preview message</source>
         <translation>Пред. просмотр сообщения</translation>
     </message>
@@ -343,8 +354,25 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+3"/>
+        <source>Vasya Pupkin is reading you mind</source>
+        <translation type="unfinished">Васяня Попкин читает твои мысли</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Style variant:</source>
+        <translation type="unfinished">Варианты стиля:</translation>
+    </message>
+    <message>
         <source>Vasya is reading you mind</source>
-        <translation>Васяня читает твои мысли</translation>
+        <translation type="obsolete">Васяня читает твои мысли</translation>
+    </message>
+</context>
+<context>
+    <name>Core::ChatFont</name>
+    <message>
+        <location filename="../../src/corelayers/adiumchat/settings/chatvariable.cpp" line="+15"/>
+        <source>Change</source>
+        <translation>Изменить</translation>
     </message>
 </context>
 <context>
@@ -990,7 +1018,7 @@ p, li { white-space: pre-wrap; }
         <translation>Модуль для Миграции с 0.2 на 0.3</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/trayicon/simpletray.cpp" line="+9"/>
+        <location filename="../../src/corelayers/trayicon/simpletray.cpp" line="+10"/>
         <source>Simple tray</source>
         <translation>Простой трей</translation>
     </message>
@@ -1000,7 +1028,7 @@ p, li { white-space: pre-wrap; }
         <translation>Простой модуль для размещения иконки qutIM в трее</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="-147"/>
+        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="-245"/>
         <source>Simple information window about a contact</source>
         <translation>Простое информационное окно о контакте</translation>
     </message>
@@ -1424,7 +1452,7 @@ p, li { white-space: pre-wrap; }
         <translation>Извините, категория не имеет настроек. Вообще</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="+50"/>
+        <location filename="../../src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="+52"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
@@ -1464,7 +1492,7 @@ p, li { white-space: pre-wrap; }
         <translation>Прочие настройки плагинов</translation>
     </message>
     <message>
-        <location line="+103"/>
+        <location line="+104"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки qutIM - %1</translation>
     </message>
@@ -1564,7 +1592,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+22"/>
+        <location line="+32"/>
         <source>about:blank</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1593,6 +1621,29 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>&amp;Quit</source>
         <translation type="obsolete">&amp;Выход</translation>
+    </message>
+</context>
+<context>
+    <name>userInformationClass</name>
+    <message>
+        <location filename="../../src/corelayers/contactinfo/userinformation.ui" line="+14"/>
+        <source>userInformation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+65"/>
+        <source>Save</source>
+        <translation>Сохранить</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Close</source>
+        <translation type="unfinished">Закрыть</translation>
+    </message>
+    <message>
+        <location line="+41"/>
+        <source>Request details</source>
+        <translation>Запросить детали</translation>
     </message>
 </context>
 </TS>
