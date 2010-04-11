@@ -47,7 +47,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/mrim/src/base/mrimplugin.cpp" line="+39"/>
+        <location filename="../../protocols/mrim/src/base/mrimplugin.cpp" line="+38"/>
         <source>Peter Rusanov</source>
         <translation>Петер Русанов</translation>
     </message>
@@ -55,7 +55,7 @@
 <context>
     <name>Messages</name>
     <message>
-        <location filename="../../protocols/mrim/src/base/messages.cpp" line="+106"/>
+        <location filename="../../protocols/mrim/src/base/messages.cpp" line="+124"/>
         <source>No such user</source>
         <translation>Няма такъв потребител</translation>
     </message>
@@ -102,7 +102,7 @@
         <translation>Друг клиент, със същите детайли за вход се е свързал!</translation>
     </message>
     <message>
-        <location line="+182"/>
+        <location line="+185"/>
         <source>Authentication failed! Access denied!</source>
         <translation>Неуспешно удостоверяване! Отказан достъп!</translation>
     </message>

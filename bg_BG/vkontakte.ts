@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+11"/>
+        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+12"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -108,22 +108,59 @@
     </message>
     <message>
         <location line="+1"/>
-        <location line="+10"/>
+        <location line="+12"/>
         <source>Simple implementation of vkontakte, based on userapi.ru</source>
         <translation>Опростена реализация на ВКонтакте, на базата на userapi.ru</translation>
     </message>
     <message>
         <location line="-1"/>
+        <source>vkontakte</source>
+        <translation>ВКонтакте</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Vkontakte account creator</source>
+        <translation>Създаване на ВКонтакте сметка</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Account creator for Vkontakte</source>
+        <translation>Създаване на сметка за ВКонтакте</translation>
+    </message>
+    <message>
         <source>Userapi</source>
-        <translation>Userapi</translation>
+        <translation type="obsolete">Userapi</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location line="-6"/>
+        <location line="-14"/>
         <source>Author</source>
         <translation>Автор</translation>
+    </message>
+</context>
+<context>
+    <name>VAccountWizardPage</name>
+    <message>
+        <location filename="../../protocols/vkontakte/src/ui/vaccountwizardpage.ui" line="+14"/>
+        <source>WizardPage</source>
+        <translation>Създаване на сметка</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Email:</source>
+        <translation>E-mail:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Password:</source>
+        <translation>Парола:</translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Save password</source>
+        <translation>Запис на паролата</translation>
     </message>
 </context>
 <context>
