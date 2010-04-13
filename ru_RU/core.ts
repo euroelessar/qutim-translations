@@ -43,7 +43,7 @@
 <context>
     <name>AdiumChat::ChatWidget</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="+221"/>
+        <location filename="../../src/corelayers/adiumchat/chatwidget.cpp" line="+225"/>
         <source>Chat with %1</source>
         <translation>Чат с %1</translation>
     </message>
@@ -205,28 +205,28 @@ p, li { white-space: pre-wrap; }
     <name>ContactInfo</name>
     <message>
         <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="+84"/>
-        <location line="+172"/>
+        <location line="+174"/>
         <source>yes</source>
         <translation type="unfinished">Да</translation>
     </message>
     <message>
-        <location line="-171"/>
-        <location line="+172"/>
+        <location line="-173"/>
+        <location line="+174"/>
         <source>no</source>
         <translation type="unfinished">Нет</translation>
     </message>
     <message>
-        <location line="-152"/>
+        <location line="-154"/>
         <source>the field is not set</source>
         <translation>Поле не заполнено</translation>
     </message>
     <message>
-        <location line="+48"/>
+        <location line="+49"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>Информация о %1 &lt;%2&gt;</translation>
     </message>
     <message>
-        <location line="+51"/>
+        <location line="+52"/>
         <source>Summary</source>
         <translation>Краткая сводка</translation>
     </message>
@@ -910,7 +910,7 @@ p, li { white-space: pre-wrap; }
         <translation>Иконки протоколов в виде пакетов системных иконок Adium</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/aescrypto/aescryptoservice.cpp" line="+8"/>
+        <location filename="../../src/corelayers/aescrypto/aescryptoservice.cpp" line="+9"/>
         <source>AES crypto</source>
         <translation>Шифрование AES</translation>
     </message>
@@ -1028,7 +1028,7 @@ p, li { white-space: pre-wrap; }
         <translation>Простой модуль для размещения иконки qutIM в трее</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="-245"/>
+        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="-247"/>
         <source>Simple information window about a contact</source>
         <translation>Простое информационное окно о контакте</translation>
     </message>
@@ -1070,6 +1070,16 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Native idle detector, based on system api</source>
         <translation type="unfinished">Детектор простоя, основан на системном API</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/NoCryptoService/nocryptoservice.cpp" line="+7"/>
+        <source>No crypto</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Store passwords in plaintext. Easy to read. Easy to recover.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../examples/autosettingsitem/autosettings.cpp" line="+9"/>
@@ -1628,7 +1638,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/contactinfo/userinformation.ui" line="+14"/>
         <source>userInformation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Информация о пользователе (vCard)</translation>
     </message>
     <message>
         <location line="+65"/>
