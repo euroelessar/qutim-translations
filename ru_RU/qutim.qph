@@ -2768,4 +2768,8 @@
     <source>Select accounts for each protocol in the list.</source>
     <target>Выберите аккаунты для каждого протокола в списке.</target>
 </phrase>
+<phrase>
+    <source>WizardPage</source>
+    <target>Волшебник миграции :-D</target>
+</phrase>
 </QPH>

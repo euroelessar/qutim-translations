@@ -207,18 +207,18 @@ p, li { white-space: pre-wrap; }
         <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="+84"/>
         <location line="+174"/>
         <source>yes</source>
-        <translation type="unfinished">Да</translation>
+        <translation>Да</translation>
     </message>
     <message>
         <location line="-173"/>
         <location line="+174"/>
         <source>no</source>
-        <translation type="unfinished">Нет</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <location line="-154"/>
         <source>the field is not set</source>
-        <translation>Поле не заполнено</translation>
+        <translation>-</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -243,12 +243,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/authdialog/authdialogimpl_p.h" line="+23"/>
         <source>Recieved authorizarion request from %1:</source>
-        <translation type="unfinished">Принята авторизация от %1:</translation>
+        <translation>Принята авторизация от %1:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Send authorizarion request to %1:</source>
-        <translation type="unfinished">Отправить запрос авторизации  %1:</translation>
+        <translation>Отправить запрос авторизации  %1:</translation>
     </message>
 </context>
 <context>
@@ -261,7 +261,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+4"/>
         <source>Edit tags</source>
-        <translation type="unfinished">Изменить теги</translation>
+        <translation>Изменить теги</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="+78"/>
