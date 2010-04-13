@@ -4,9 +4,9 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/vkontakteplugin.cpp" line="+11"/>
+        <location filename="../../src/vkontakteplugin.cpp" line="+12"/>
         <source>Aleksey Sidorov</source>
-        <translation type="unfinished">Алексей Сидоров</translation>
+        <translation>Алексей Сидоров</translation>
     </message>
 </context>
 <context>
@@ -34,49 +34,49 @@
     <message>
         <location line="+7"/>
         <source>Show status text in contact list</source>
-        <translation type="unfinished">Показывать текст статуса в ростере</translation>
+        <translation>Показывать текст статуса в ростере</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Refresh friend list every:</source>
-        <translation type="unfinished">Обновлять список друзей каждые:</translation>
+        <translation>Обновлять список друзей каждые:</translation>
     </message>
     <message>
         <location line="+20"/>
         <location line="+34"/>
         <location line="+54"/>
         <source> s</source>
-        <translation type="unfinished">с</translation>
+        <translation>с</translation>
     </message>
     <message>
         <location line="-74"/>
         <source>Check for new messages every:</source>
-        <translation type="unfinished">Проверять новые сообщения каждые:</translation>
+        <translation>Проверять новые сообщения каждые:</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Updates</source>
-        <translation type="unfinished">Обновления</translation>
+        <translation>Обновления</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Check for friends updates every:</source>
-        <translation type="unfinished">Проверять обновления друзей каждые:</translation>
+        <translation>Проверять обновления друзей каждые:</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Enable friends photo updates notifications</source>
-        <translation type="unfinished">Разрешить уведомления о смене фото у друзей</translation>
+        <translation>Разрешить уведомления о смене фото у друзей</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Insert preview URL on new photos notifications</source>
-        <translation type="unfinished">Вставить ссылку на миниатюру фотографии в уведомление</translation>
+        <translation>Вставить ссылку на миниатюру фотографии в уведомление</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Insert fullsize URL on new photos notifications</source>
-        <translation type="unfinished">Вставить ссылку на фотографию в уведомление</translation>
+        <translation>Вставить ссылку на фотографию в уведомление</translation>
     </message>
     <message>
         <location line="+42"/>
@@ -109,7 +109,7 @@
     <message>
         <location line="+6"/>
         <source>E-mail:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+10"/>
@@ -127,26 +127,59 @@
     <message>
         <location filename="../../src/vkontakteplugin.cpp" line="-3"/>
         <source>Vkontakte</source>
-        <translation type="unfinished">Вконтакте</translation>
+        <translation>Вконтакте</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location line="+10"/>
+        <location line="+12"/>
         <source>Simple implementation of vkontakte, based on userapi.ru</source>
-        <translation type="unfinished">Простая реализация Вконтакте, основана на userapi.ru</translation>
+        <translation>Простая реализация Вконтакте, основана на userapi.ru</translation>
     </message>
     <message>
         <location line="-1"/>
-        <source>Userapi</source>
-        <translation type="unfinished"></translation>
+        <source>vkontakte</source>
+        <translation>Вконтакте</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Vkontakte account creator</source>
+        <translation>Создание учетной записи Вконтакте</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Account creator for Vkontakte</source>
+        <translation>Мастер создания создание учетной записи Вконтакте</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location line="-6"/>
+        <location line="-14"/>
         <source>Author</source>
-        <translation type="unfinished">Автор</translation>
+        <translation>Автор</translation>
+    </message>
+</context>
+<context>
+    <name>VAccountWizardPage</name>
+    <message>
+        <location filename="../../src/ui/vaccountwizardpage.ui" line="+14"/>
+        <source>WizardPage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Email:</source>
+        <translation>Электронная почта:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Password:</source>
+        <translation>Пароль:</translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Save password</source>
+        <translation>Сохранить пароль</translation>
     </message>
 </context>
 <context>
@@ -154,22 +187,22 @@
     <message>
         <location filename="../../core/vcontactlist.cpp" line="+48"/>
         <source>Friends</source>
-        <translation type="unfinished">Друзья</translation>
+        <translation>Друзья</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Favorites</source>
-        <translation type="unfinished">Закладки</translation>
+        <translation>Закладки</translation>
     </message>
     <message>
         <location line="+453"/>
         <source>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Status message:&lt;/b&gt;&amp;nbsp;%1&lt;/font</source>
-        <translation type="unfinished">&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Статус:&lt;/b&gt;&amp;nbsp;%1&lt;/font</translation>
+        <translation>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Статус:&lt;/b&gt;&amp;nbsp;%1&lt;/font</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>Open user page</source>
-        <translation type="unfinished">Открыть страницу</translation>
+        <translation>Открыть страницу</translation>
     </message>
 </context>
 <context>
@@ -182,17 +215,17 @@
     <message>
         <location line="+126"/>
         <source>Vkontakte.ru updates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ВТентакле обновлён</translation>
     </message>
     <message>
         <location line="+210"/>
         <source>%1 was tagged on photo</source>
-        <translation type="unfinished">%1 отметил на фото</translation>
+        <translation>%1 отметил на фото</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>%1 added new photo</source>
-        <translation type="unfinished">%1 добавил фотографию</translation>
+        <translation>%1 добавил фотографию</translation>
     </message>
 </context>
 <context>
