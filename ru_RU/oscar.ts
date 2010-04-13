@@ -190,7 +190,7 @@
     <message>
         <location filename="../../plugins/identify/clientidentify.cpp" line="+38"/>
         <source>Alexey Ignatiev</source>
-        <translation type="unfinished">Алексей Игнатьев</translation>
+        <translation>Алексей Игнатьев</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -381,7 +381,7 @@
     <message>
         <location filename="../../src/icqcontact.cpp" line="+56"/>
         <source>General</source>
-        <translation type="unfinished">Главные</translation>
+        <translation>Главные</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -401,27 +401,27 @@
     <message>
         <location line="+1"/>
         <source>Registration</source>
-        <translation type="unfinished">Регистрация</translation>
+        <translation>Регистрация</translation>
     </message>
     <message>
         <location line="+4"/>
         <source> (private)</source>
-        <translation type="unfinished"> (приватно)</translation>
+        <translation> (приватно)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Email</source>
-        <translation type="unfinished">Эл.Почта</translation>
+        <translation>Эл.Почта</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Home</source>
-        <translation type="unfinished">Дом</translation>
+        <translation>Дом</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Home address</source>
-        <translation type="unfinished">Домашний адрес</translation>
+        <translation>Домашний адрес</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -431,12 +431,12 @@
     <message>
         <location line="+10"/>
         <source>Work</source>
-        <translation type="unfinished">Работа</translation>
+        <translation>Работа</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Work address</source>
-        <translation type="unfinished">Работа</translation>
+        <translation>Работа</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -452,7 +452,7 @@
     <message>
         <location line="+8"/>
         <source>Interests</source>
-        <translation type="unfinished">Интересы</translation>
+        <translation>Интересы</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -462,7 +462,7 @@
     <message>
         <location line="+2"/>
         <source>Notes</source>
-        <translation type="unfinished">Заметки</translation>
+        <translation>Заметки</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -472,27 +472,27 @@
     <message>
         <location line="+3"/>
         <source>Internal IP</source>
-        <translation type="unfinished">Внутренний IP</translation>
+        <translation>Внутренний IP</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>External IP</source>
-        <translation type="unfinished">Внешний IP</translation>
+        <translation>Внешний IP</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Port</source>
-        <translation type="unfinished">Порт</translation>
+        <translation>Порт</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Protocol version</source>
-        <translation type="unfinished">Версия протокола</translation>
+        <translation>Версия протокола</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Capabilities</source>
-        <translation type="unfinished">Совместимости</translation>
+        <translation>Совместимости</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -502,7 +502,7 @@
     <message>
         <location line="+1"/>
         <source>Last info update</source>
-        <translation type="unfinished">Последнее обновление инфы</translation>
+        <translation>Последнее обновление инфы</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -517,7 +517,7 @@
     <message>
         <location line="+2"/>
         <source>Client features</source>
-        <translation type="unfinished">Возможности клиента</translation>
+        <translation>Возможности клиента</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -585,17 +585,17 @@
     <message>
         <location filename="../../plugins/identify/clientidentify.cpp" line="+133"/>
         <source>Possible client</source>
-        <translation type="unfinished">Возможный клиент</translation>
+        <translation>Возможный клиент</translation>
     </message>
     <message>
         <location filename="../../src/authorization.cpp" line="+15"/>
         <source>Ask authorization</source>
-        <translation type="unfinished">Запротить авторизацию</translation>
+        <translation>Запротить авторизацию</translation>
     </message>
     <message>
         <location line="+99"/>
         <source>Please, authorize me</source>
-        <translation type="unfinished">Пожалуйста, авторизуйте меня</translation>
+        <translation>Пожалуйста, авторизуйте меня</translation>
     </message>
 </context>
 <context>
@@ -1909,7 +1909,7 @@
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Codepage: &lt;/span&gt;(note that online messages use utf-8 in most cases)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -1928,7 +1928,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+5"/>
         <source>Big5</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2276,7 +2276,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Other</source>
-        <translation type="unfinished">Другое</translation>
+        <translation>Другое</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3138,32 +3138,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/metainfofields_p.h" line="-37"/>
         <source>City</source>
-        <translation type="unfinished">Город</translation>
+        <translation>Город</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>State</source>
-        <translation type="unfinished">Область</translation>
+        <translation>Область</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Phone</source>
-        <translation type="unfinished">Телефон</translation>
+        <translation>Телефон</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Fax</source>
-        <translation type="unfinished">Факс</translation>
+        <translation>Факс</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Address</source>
-        <translation type="unfinished">Адрес</translation>
+        <translation>Адрес</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Zip code</source>
-        <translation type="unfinished">Индекс</translation>
+        <translation>Индекс</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3176,12 +3176,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+11"/>
         <source>City</source>
-        <translation type="unfinished">Город</translation>
+        <translation>Город</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>State</source>
-        <translation type="unfinished">Область</translation>
+        <translation>Область</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3219,7 +3219,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Zip</source>
-        <translation type="unfinished">Индекс</translation>
+        <translation>Индекс</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3234,22 +3234,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Department</source>
-        <translation type="unfinished">Департамент</translation>
+        <translation>Департамент</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Position</source>
-        <translation type="unfinished">Положение</translation>
+        <translation>Положение</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Occupation</source>
-        <translation type="unfinished">Род занятий</translation>
+        <translation>Род занятий</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Webpage</source>
-        <translation type="unfinished">Вэб страница</translation>
+        <translation>Вэб страница</translation>
     </message>
 </context>
 <context>
@@ -3470,7 +3470,7 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <location line="+9"/>
         <source>Client identificaton for oscar contacts</source>
-        <translation type="unfinished">Идентификация аськоклиентов</translation>
+        <translation>Идентификация аськоклиентов</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -3498,13 +3498,13 @@ p, li { white-space: pre-wrap; }
         <location line="+3"/>
         <location line="+1"/>
         <source>Oscar roster</source>
-        <translation type="unfinished">Список контактов аськи</translation>
+        <translation>Список контактов аськи</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+1"/>
         <source>Oscar messages</source>
-        <translation type="unfinished">Сообщеня аськи</translation>
+        <translation>Сообщеня аськи</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3522,13 +3522,13 @@ p, li { white-space: pre-wrap; }
         <location line="+3"/>
         <location line="+1"/>
         <source>Oscar authorization support</source>
-        <translation type="unfinished">Поддержка авторизации аськи</translation>
+        <translation>Поддержка авторизации аськи</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+1"/>
         <source>Oscar privacy lists</source>
-        <translation type="unfinished">писки доступа аськи</translation>
+        <translation>писки доступа аськи</translation>
     </message>
     <message>
         <location filename="../../plugins/xstatus/xstatus.cpp" line="-7"/>
@@ -3539,7 +3539,7 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <location line="+7"/>
         <source>Additional statuses for oscar protocol</source>
-        <translation type="unfinished">Дополнительные X-статуы для аськи</translation>
+        <translation>Дополнительные X-статуы для аськи</translation>
     </message>
 </context>
 <context>
@@ -3688,27 +3688,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../plugins/xstatus/xstatus.cpp" line="+15"/>
         <source>Angry</source>
-        <translation type="unfinished">Злой</translation>
+        <translation>Злой</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Depression</source>
-        <translation type="unfinished">Депрессия</translation>
+        <translation>Депрессия</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>At home</source>
-        <translation type="unfinished">Дома</translation>
+        <translation>Дома</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>At work</source>
-        <translation type="unfinished">На работе</translation>
+        <translation>На работе</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Eating</source>
-        <translation type="unfinished">Ем</translation>
+        <translation>Ем</translation>
     </message>
 </context>
 <context>
@@ -3771,163 +3771,163 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../plugins/xstatus/xstatus.cpp" line="-122"/>
         <source>Angry</source>
-        <translation type="unfinished">Злой</translation>
+        <translation>Злой</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Taking a bath</source>
-        <translation type="unfinished">Принимаю душ/ванну</translation>
+        <translation>Принимаю душ/ванну</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Tired</source>
-        <translation type="unfinished">Устал</translation>
+        <translation>Устал</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Party</source>
-        <translation type="unfinished">Вечеринка</translation>
+        <translation>Вечеринка</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Drinking beer</source>
-        <translation type="unfinished">Пью пиво</translation>
+        <translation>Пью пиво</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Thinking</source>
-        <translation type="unfinished">Думаю</translation>
+        <translation>Думаю</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Eating</source>
-        <translation type="unfinished">Ем</translation>
+        <translation>Ем</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Watching TV</source>
-        <translation type="unfinished">Смотрю ТВ</translation>
+        <translation>Смотрю ТВ</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Meeting</source>
-        <translation type="unfinished">Встреча</translation>
+        <translation>Встреча</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Coffee</source>
-        <translation type="unfinished">Кофе</translation>
+        <translation>Кофе</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Listening to music</source>
-        <translation type="unfinished">Слушаю музыку</translation>
+        <translation>Слушаю музыку</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Business</source>
-        <translation type="unfinished">Дела</translation>
+        <translation>Дела</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Shooting</source>
-        <translation type="unfinished">Кино</translation>
+        <translation>Кино</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Having fun</source>
-        <translation type="unfinished">Развлекаюсь</translation>
+        <translation>Развлекаюсь</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>On the phone</source>
-        <translation type="unfinished">На телефоне</translation>
+        <translation>На телефоне</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Gaming</source>
-        <translation type="unfinished">Играю</translation>
+        <translation>Играю</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Studying</source>
-        <translation type="unfinished">Учусь</translation>
+        <translation>Учусь</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Shopping</source>
-        <translation type="unfinished">Покупки</translation>
+        <translation>Покупки</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Feeling sick</source>
-        <translation type="unfinished">Приболел</translation>
+        <translation>Приболел</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sleeping</source>
-        <translation type="unfinished">Сплю</translation>
+        <translation>Сплю</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Surfing</source>
-        <translation type="unfinished">Отрываюсь</translation>
+        <translation>Отрываюсь</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Browsing</source>
-        <translation type="unfinished">В интернете</translation>
+        <translation>В интернете</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Working</source>
-        <translation type="unfinished">Работаю</translation>
+        <translation>Работаю</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Typing</source>
-        <translation type="unfinished">Печатаю</translation>
+        <translation>Печатаю</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Picnic</source>
-        <translation type="unfinished">Пикник</translation>
+        <translation>Пикник</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cooking</source>
-        <translation type="unfinished">Готовлю</translation>
+        <translation>Готовлю</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Smoking</source>
-        <translation type="unfinished">Курю</translation>
+        <translation>Курю</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>I&apos;m high</source>
         <translatorcomment>полудурок</translatorcomment>
-        <translation type="unfinished">Я высокий</translation>
+        <translation>Я высокий</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>On WC</source>
-        <translation type="unfinished">В туалете</translation>
+        <translation>В туалете</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>To be or not to be</source>
-        <translation type="unfinished">Быть или не быть</translation>
+        <translation>Быть или не быть</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Watching pro7 on TV</source>
-        <translation type="unfinished">Смотрю pro7 на ТВ</translation>
+        <translation>Смотрю pro7 на ТВ</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Love</source>
-        <translation type="unfinished">Любовь</translation>
+        <translation>Любовь</translation>
     </message>
     <message>
         <location line="+172"/>
