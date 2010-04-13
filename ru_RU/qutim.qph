@@ -54,7 +54,7 @@
 </phrase>
 <phrase>
     <source>Edit tags</source>
-    <target>Исменить теги</target>
+    <target>Изменить теги</target>
 </phrase>
 <phrase>
     <source>Hide offline</source>
@@ -2507,5 +2507,265 @@
 <phrase>
     <source>Open user page</source>
     <target>Открыть страницу</target>
+</phrase>
+<phrase>
+    <source>Edit tags</source>
+    <target>Изменить теги</target>
+</phrase>
+<phrase>
+    <source>Import history from one more client</source>
+    <target>Импортировать историю</target>
+</phrase>
+<phrase>
+    <source>Dump history</source>
+    <target>Сбросить историю в файл</target>
+</phrase>
+<phrase>
+    <source>Dumping</source>
+    <target>Сожранение</target>
+</phrase>
+<phrase>
+    <source>Choose appropriate format of history, binary is default qutIM format nowadays.</source>
+    <target>Выберите формат истории, бинарный - стандартный для qutIM на сегодня.</target>
+</phrase>
+<phrase>
+    <source>Last step. Click &apos;Dump&apos; to start dumping process.</source>
+    <target>Последний шаг. Нажмите &quot;Сохранить&quot; для обьединения историй.</target>
+</phrase>
+<phrase>
+    <source>Manager merges history, it make take several minutes.</source>
+    <target>Обьединение истории, это займет некоторое время.</target>
+</phrase>
+<phrase>
+    <source>History has been succesfully imported.</source>
+    <target>История успешно импортирована.</target>
+</phrase>
+<phrase>
+    <source>Select your Jabber account.</source>
+    <target>Выберите ваш Jabber/XMPP аккаунт.</target>
+</phrase>
+<phrase>
+    <source>Select accounts for each protocol in the list.</source>
+    <target>Выберите аккаунт для каждого протокола в списке.</target>
+</phrase>
+<phrase>
+    <source>Path to profile:</source>
+    <target>Путь к профилю:</target>
+</phrase>
+<phrase>
+    <source>...</source>
+    <target>...</target>
+</phrase>
+<phrase>
+    <source>Encoding:</source>
+    <target>Кодировка:</target>
+</phrase>
+<phrase>
+    <source>WizardPage</source>
+    <target>Мастер</target>
+</phrase>
+<phrase>
+    <source>Choose format:</source>
+    <target>Выберите формат:</target>
+</phrase>
+<phrase>
+    <source>Binary</source>
+    <target>Бинарный</target>
+</phrase>
+<phrase>
+    <source>Merging history state:</source>
+    <target>Обьединение истории:</target>
+</phrase>
+<phrase>
+    <source>Dumping history state:</source>
+    <target>Сохранение истории:</target>
+</phrase>
+<phrase>
+    <source>Client</source>
+    <target>Клиент</target>
+</phrase>
+<phrase>
+    <source>Choose client which history you want to import to qutIM.</source>
+    <target>Выберите клиент, историю которого нужно импортировать в qutIM.</target>
+</phrase>
+<phrase>
+    <source>What to do next?</source>
+    <target>Что дальше?</target>
+</phrase>
+<phrase>
+    <source>It is possible to choose another client for import history or dump history to the disk.</source>
+    <target>Можно выбрать другой клиент для импортирования или сохранения истории на диск.</target>
+</phrase>
+<phrase>
+    <source>System</source>
+    <target>Система</target>
+</phrase>
+<phrase>
+    <source>Configuration</source>
+    <target>Настройки</target>
+</phrase>
+<phrase>
+    <source>Enter path of your %1 profile file.</source>
+    <target>Укажите путь к файлу профиля %1.</target>
+</phrase>
+<phrase>
+    <source>Enter path of your %1 profile dir.</source>
+    <target>Укажите путь к папке профиля %1.</target>
+</phrase>
+<phrase>
+    <source>If your history encoding differs from the system one, choose the appropriate encoding for history.</source>
+    <target>Если кодировка истории отличается от ;системной, выберите требуемую.</target>
+</phrase>
+<phrase>
+    <source>Select path</source>
+    <target>Укажите путь</target>
+</phrase>
+<phrase>
+    <source>Dumping</source>
+    <target>Сожранение</target>
+</phrase>
+<phrase>
+    <source>Choose appropriate format of history, binary is default qutIM format nowadays.</source>
+    <target>Выберите формат истории, бинарный - стандартный для qutIM на сегодня.</target>
+</phrase>
+<phrase>
+    <source>Last step. Click &apos;Dump&apos; to start dumping process.</source>
+    <target>Последний шаг. Нажмите &quot;Сохранить&quot; для обьединения историй.</target>
+</phrase>
+<phrase>
+    <source>Manager merges history, it make take several minutes.</source>
+    <target>Обьединение истории, это займет некоторое время.</target>
+</phrase>
+<phrase>
+    <source>History has been succesfully imported.</source>
+    <target>История успешно импортирована.</target>
+</phrase>
+<phrase>
+    <source>History manager</source>
+    <target>Менеджер истории</target>
+</phrase>
+<phrase>
+    <source>&amp;Dump</source>
+    <target>&amp;Сохранить</target>
+</phrase>
+<phrase>
+    <source>Loading</source>
+    <target>Загрузка</target>
+</phrase>
+<phrase>
+    <source>Manager loads all history to memory, it may take several minutes.</source>
+    <target>Менеджер загружает всю историю в память, это может занять несколько минут.</target>
+</phrase>
+<phrase>
+    <source>%n message(s) have been succesfully loaded to memory.</source>
+    <target>%n сообщение было полностью заружено в память.</target>
+</phrase>
+<phrase>
+    <source>It has taken %n ms.</source>
+    <target>Это потребует %n минуту.</target>
+</phrase>
+<phrase>
+    <source>Import history</source>
+    <target>Импорт истории</target>
+</phrase>
+<phrase>
+    <source>WizardPage</source>
+    <target>Масте</target>
+</phrase>
+<phrase>
+    <source>Multiply Sending</source>
+    <target>Спамилка</target>
+</phrase>
+<phrase>
+    <source>Items</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Message</source>
+    <target>Сообщение</target>
+</phrase>
+<phrase>
+    <source>15</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Interval (in seconds):</source>
+    <target>Интервал отправки (в секундах):</target>
+</phrase>
+<phrase>
+    <source>Actions</source>
+    <target>Действия</target>
+</phrase>
+<phrase>
+    <source>Stop</source>
+    <target>Остановить</target>
+</phrase>
+<phrase>
+    <source>Send</source>
+    <target>Спамить</target>
+</phrase>
+<phrase>
+    <source>Accounts</source>
+    <target>Учетные записи</target>
+</phrase>
+<phrase>
+    <source>Unknown</source>
+    <target>Неизвестно</target>
+</phrase>
+<phrase>
+    <source>Error: message is empty</source>
+    <target>Ошибка: сообщение пусто</target>
+</phrase>
+<phrase>
+    <source>Error: unknown account : %1</source>
+    <target>Ошибка: неизвестная учетная запись: %1</target>
+</phrase>
+<phrase>
+    <source>Multiply Sending</source>
+    <target>Спамилка</target>
+</phrase>
+<phrase>
+    <source>Actions</source>
+    <target>Действия</target>
+</phrase>
+<phrase>
+    <source>Load buddy list</source>
+    <target>Загрузить список</target>
+</phrase>
+<phrase>
+    <source>Save buddy list</source>
+    <target>Сохранить список</target>
+</phrase>
+<phrase>
+    <source>Multiply sending: all jobs finished</source>
+    <target>Спамилка: все сообщения разосланы</target>
+</phrase>
+<phrase>
+    <source>Load custom buddy list</source>
+    <target>Загрузить особый список</target>
+</phrase>
+<phrase>
+    <source>Sending message to %1: %v/%m</source>
+    <target>Отправка сообщения: %1: %v/%m</target>
+</phrase>
+<phrase>
+    <source>Sending message to %1</source>
+    <target>Отправка ообщения к %1</target>
+</phrase>
+<phrase>
+    <source>Sending message to %1 (%2/%3), time remains: %4</source>
+    <target>Отправка сообщения %1 (%2/%3), времени осталось: %4</target>
+</phrase>
+<phrase>
+    <source>Dump history</source>
+    <target>Сохранить историю</target>
+</phrase>
+<phrase>
+    <source>Select your Jabber account.</source>
+    <target>Выберите ваш Jabber аккаунт.</target>
+</phrase>
+<phrase>
+    <source>Select accounts for each protocol in the list.</source>
+    <target>Выберите аккаунты для каждого протокола в списке.</target>
 </phrase>
 </QPH>
