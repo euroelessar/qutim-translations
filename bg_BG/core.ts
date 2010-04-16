@@ -43,7 +43,7 @@
 <context>
     <name>AdiumChat::ChatWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+221"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+225"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -209,28 +209,28 @@ p, li { white-space: pre-wrap; }
     <name>ContactInfo</name>
     <message>
         <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="+84"/>
-        <location line="+172"/>
+        <location line="+174"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
     <message>
-        <location line="-171"/>
-        <location line="+172"/>
+        <location line="-173"/>
+        <location line="+174"/>
         <source>no</source>
         <translation>Не</translation>
     </message>
     <message>
-        <location line="-152"/>
+        <location line="-154"/>
         <source>the field is not set</source>
         <translation>не е зададено</translation>
     </message>
     <message>
-        <location line="+48"/>
+        <location line="+49"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>За контакта %1 &lt;%2&gt;</translation>
     </message>
     <message>
-        <location line="+51"/>
+        <location line="+52"/>
         <source>Summary</source>
         <translation>Резюме</translation>
     </message>
@@ -967,7 +967,7 @@ p, li { white-space: pre-wrap; }
         <translation>Модул за миграция от 0.2 към 0.3</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="-245"/>
+        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="-247"/>
         <source>Simple information window about a contact</source>
         <translation>Опростен прозорец с информация за контакта</translation>
     </message>

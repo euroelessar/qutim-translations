@@ -164,6 +164,14 @@
     </message>
 </context>
 <context>
+    <name>VRosterPrivate</name>
+    <message>
+        <location filename="../../protocols/vkontakte/src/vroster.cpp" line="+32"/>
+        <source>Friends</source>
+        <translation>Приятели</translation>
+    </message>
+</context>
+<context>
     <name>VcontactList</name>
     <message>
         <source>Friends</source>

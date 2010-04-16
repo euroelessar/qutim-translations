@@ -1103,7 +1103,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+31"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+52"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
