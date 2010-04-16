@@ -164,7 +164,7 @@
     <message>
         <location filename="../../src/ui/vaccountwizardpage.ui" line="+14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>Мастер</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -180,6 +180,14 @@
         <location line="+27"/>
         <source>Save password</source>
         <translation>Сохранить пароль</translation>
+    </message>
+</context>
+<context>
+    <name>VRosterPrivate</name>
+    <message>
+        <location filename="../../src/vroster.cpp" line="+32"/>
+        <source>Friends</source>
+        <translation>Друзья</translation>
     </message>
 </context>
 <context>
@@ -215,7 +223,7 @@
     <message>
         <location line="+126"/>
         <source>Vkontakte.ru updates</source>
-        <translation type="unfinished">ВТентакле обновлён</translation>
+        <translation>ВТентакле обновлён</translation>
     </message>
     <message>
         <location line="+210"/>
