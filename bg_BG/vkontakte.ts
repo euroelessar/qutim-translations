@@ -10,6 +10,14 @@
     </message>
 </context>
 <context>
+    <name>ContactList</name>
+    <message>
+        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+118"/>
+        <source>Activity</source>
+        <translation>Дейност</translation>
+    </message>
+</context>
+<context>
     <name>EdditAccount</name>
     <message>
         <source>Editing %1</source>
@@ -102,7 +110,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location line="-3"/>
+        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="-3"/>
         <source>Vkontakte</source>
         <translation>ВКонтакте</translation>
     </message>
@@ -164,9 +172,17 @@
     </message>
 </context>
 <context>
+    <name>VConnectionPrivate</name>
+    <message>
+        <location filename="../../protocols/vkontakte/src/vconnection.cpp" line="+34"/>
+        <source>Error! (TODO)</source>
+        <translation>Грешка</translation>
+    </message>
+</context>
+<context>
     <name>VRosterPrivate</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vroster.cpp" line="+32"/>
+        <location filename="../../protocols/vkontakte/src/vroster.cpp" line="+37"/>
         <source>Friends</source>
         <translation>Приятели</translation>
     </message>

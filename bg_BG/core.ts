@@ -264,7 +264,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+78"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+94"/>
         <source>Change global status</source>
         <translation>Промяна на общия статус</translation>
     </message>
@@ -427,6 +427,16 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>qutIM has discovered configuration from 0.2 version, choose profile to import history and configuration from.</source>
         <translation>qutIM откри конфигурация от версия 0.2. Изберете профил, за да импортирате хронологията и конфигурация му.</translation>
+    </message>
+    <message>
+        <location line="+52"/>
+        <source>Unable to find profile dir</source>
+        <translation>Не бе открита директория съдържаща профил</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Unable to find any profile</source>
+        <translation>Не бе открит профил</translation>
     </message>
 </context>
 <context>
@@ -797,7 +807,7 @@ p, li { white-space: pre-wrap; }
         <translation>PList конфигурация</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-109"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-125"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
