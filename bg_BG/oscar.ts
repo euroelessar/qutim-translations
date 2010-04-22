@@ -1787,7 +1787,7 @@
 <context>
     <name>FeedbagError</name>
     <message>
-        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+111"/>
+        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+119"/>
         <source>No error</source>
         <translation>Без грешка</translation>
     </message>
@@ -3103,7 +3103,7 @@ p, li { white-space: pre-wrap; }
         <translation>Минало</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo.cpp" line="+82"/>
+        <location filename="../../protocols/oscar/src/metainfo.cpp" line="+83"/>
         <source>Basic</source>
         <translation>Основна</translation>
     </message>
@@ -3437,9 +3437,8 @@ p, li { white-space: pre-wrap; }
         <translation>Oscar</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Module-based realization of Oscar protocol</source>
-        <translation>Модулна реализация на OSCAR протокола</translation>
+        <translation type="obsolete">Модулна реализация на OSCAR протокола</translation>
     </message>
     <message>
         <source>OscarIdentify</source>
@@ -3450,23 +3449,36 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Идентификация на клиентите на Oscar контактите</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+9"/>
         <source>ICQ</source>
         <translation>ICQ</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Module-based realization of ICQ protocol</source>
-        <translation>Модулна реализация на ICQ протокола</translation>
+        <translation type="obsolete">Модулна реализация на ICQ протокола</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>ICQ account creator</source>
         <translation>Създаване на ICQ сметка</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Account creator for module-based realization of ICQ protocol</source>
+        <translation type="obsolete">Създаване на сметки за модулната реализация на ICQ протокола</translation>
+    </message>
+    <message>
+        <location line="-12"/>
+        <source>Module-based implementation of Oscar protocol</source>
+        <translation>Модулна реализация на Oscar протокола</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Module-based implementation of ICQ protocol</source>
+        <translation>Модулна реализация на ICQ протокола</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Account creator for module-based implementation of ICQ protocol</source>
         <translation>Създаване на сметки за модулната реализация на ICQ протокола</translation>
     </message>
     <message>
