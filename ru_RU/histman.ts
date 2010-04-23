@@ -210,15 +210,21 @@
     <message numerus="yes">
         <location line="+26"/>
         <source>%n message(s) have been succesfully loaded to memory.</source>
-        <translation>
+        <translatorcomment>ну никак</translatorcomment>
+        <translation type="unfinished">
             <numerusform>%n сообщение было полностью заружено в память.</numerusform>
+            <numerusform>%n сообщения было полностью заружено в память.</numerusform>
+            <numerusform>%n сообщений было полностью заружено в память.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location line="+1"/>
         <source>It has taken %n ms.</source>
-        <translation>
+        <translatorcomment>ну никкак по русски</translatorcomment>
+        <translation type="unfinished">
             <numerusform>Это потребует %n минуту.</numerusform>
+            <numerusform>Это потребует %n минуты.</numerusform>
+            <numerusform>Это потребует %n минут.</numerusform>
         </translation>
     </message>
 </context>
@@ -227,7 +233,7 @@
     <message>
         <location filename="../../src/historymanagerwindow.ui" line="+16"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -243,12 +249,12 @@
     <message>
         <location filename="../../src/historymanagerplugin.cpp" line="+3"/>
         <source>HistMan</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Plugin makes possible to import history to qutIM from different messengers</source>
-        <translation type="unfinished">Плагин дающий возможность импортировать историю в qutIM из прочих IM</translation>
+        <translation>Плагин дающий возможность импортировать историю в qutIM из прочих IM</translation>
     </message>
     <message>
         <location line="+9"/>

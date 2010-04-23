@@ -2,19 +2,45 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="ru_RU">
 <context>
+    <name>Plugin</name>
+    <message>
+        <location filename="../../src/yandexnarod.cpp" line="+32"/>
+        <source>Yandex Narod</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Send files via Yandex.Narod filehosting service</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Yandex</name>
+    <message>
+        <location line="+8"/>
+        <source>Send file via Yandex.Narod</source>
+        <translation>Отправить файл в Яндекс.Народ</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Yandex Narod</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>YandexNarodAuthorizator</name>
     <message>
-        <location filename="../../src/yandexnarodauthorizator.cpp" line="70"/>
+        <location filename="../../src/yandexnarodauthorizator.cpp" line="+70"/>
         <source>Has no login or password</source>
         <translation type="unfinished">Не указан ник или пароль</translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodauthorizator.cpp" line="79"/>
+        <location line="+9"/>
         <source>Authorization succeed</source>
         <translation type="unfinished">Авторизация выполнена</translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodauthorizator.cpp" line="83"/>
+        <location line="+4"/>
         <source>Authorization failured</source>
         <translation type="unfinished">Не удалось авторизоваться</translation>
     </message>
@@ -22,15 +48,15 @@
 <context>
     <name>YandexNarodManager</name>
     <message>
-        <location filename="../../src/yandexnarodmanage.cpp" line="25"/>
+        <location filename="../../src/yandexnarodmanage.cpp" line="+25"/>
         <source>Yandex.Narod file manager</source>
-        <translation type="unfinished">Менеджер файлов Yandex.Narod</translation>
+        <translation type="unfinished">Управление файлами Yandex.Narod</translation>
     </message>
 </context>
 <context>
     <name>YandexNarodNetMan</name>
     <message>
-        <location filename="../../src/yandexnarodnetman.cpp" line="139"/>
+        <location filename="../../src/yandexnarodnetman.cpp" line="+139"/>
         <source>Authorizing...</source>
         <translation type="unfinished">Авторизация...</translation>
     </message>
@@ -38,33 +64,33 @@
 <context>
     <name>YandexNarodSettingsClass</name>
     <message>
-        <location filename="../../src/yandexnarodsettings.ui" line="14"/>
-        <location filename="../../src/yandexnarodsettings.ui" line="24"/>
+        <location filename="../../src/yandexnarodsettings.ui" line="+14"/>
+        <location line="+10"/>
         <source>Settings</source>
         <translation type="unfinished">Настройки</translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodsettings.ui" line="48"/>
+        <location line="+24"/>
         <source>Password</source>
         <translation type="unfinished">пароль</translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodsettings.ui" line="68"/>
+        <location line="+20"/>
         <source>Login</source>
         <translation type="unfinished">Логин</translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodsettings.ui" line="75"/>
+        <location line="+7"/>
         <source>Test Authorization</source>
         <translation type="unfinished">Проверить логин</translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodsettings.ui" line="82"/>
+        <location line="+7"/>
         <source>status</source>
         <translation type="unfinished">статус</translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodsettings.ui" line="105"/>
+        <location line="+23"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -73,22 +99,22 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodsettings.ui" line="116"/>
+        <location line="+11"/>
         <source>Send file template</source>
         <translation type="unfinished">Шаблон сообщения</translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodsettings.ui" line="129"/>
+        <location line="+13"/>
         <source>%N - file name; %U - file URL; %S - file size</source>
         <translation type="unfinished">%N -имя файла; %U - ссылка; %S - размер файла</translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodsettings.ui" line="139"/>
+        <location line="+10"/>
         <source>About</source>
         <translation type="unfinished">О плагине</translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodsettings.ui" line="145"/>
+        <location line="+6"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -126,75 +152,85 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>YandexNarodUploadDialog</name>
     <message>
-        <location filename="../../src/uploaddialog.cpp" line="118"/>
+        <location filename="../../src/uploaddialog.cpp" line="+118"/>
         <source>Choose file for %1</source>
         <translation type="unfinished">Выберите файл для %1</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.cpp" line="118"/>
+        <location line="+0"/>
         <source>Choose file for uploading</source>
         <translation type="unfinished">Выберите файл для загрузки</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.cpp" line="133"/>
+        <location line="+15"/>
         <source>Authorizing...</source>
         <translation type="unfinished">Авторизация...</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.cpp" line="169"/>
+        <location line="+36"/>
         <source>Getting storage...</source>
-        <translation type="unfinished">Загрузка...</translation>
+        <translation type="unfinished">Получение хранилища...</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.cpp" line="194"/>
+        <location line="+25"/>
         <source>Uploading...</source>
         <translation type="unfinished">Загрузка на сервер...</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.cpp" line="288"/>
+        <location line="+94"/>
         <source>Will finish in: %1m %2s</source>
         <translation type="unfinished">Будет закончено через %1м %2с</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.cpp" line="318"/>
+        <location line="+30"/>
         <source>Upload complete.</source>
         <translation type="unfinished">Загрузка на сервер завершена.</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.cpp" line="319"/>
+        <location line="+1"/>
         <source>Finish</source>
         <translation type="unfinished">Завершить</translation>
+    </message>
+    <message>
+        <location filename="../../src/uploaddialog.h" line="+86"/>
+        <source>Uploading</source>
+        <translation>Загрузка на север</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Done</source>
+        <translation>Готово</translation>
     </message>
 </context>
 <context>
     <name>requestAuthDialogClass</name>
     <message>
-        <location filename="../../src/requestauthdialog.ui" line="26"/>
+        <location filename="../../src/requestauthdialog.ui" line="+26"/>
         <source>Authorization</source>
         <translation type="unfinished">Авторизация</translation>
     </message>
     <message>
-        <location filename="../../src/requestauthdialog.ui" line="38"/>
+        <location line="+12"/>
         <source>Login:</source>
         <translation type="unfinished">Логин:</translation>
     </message>
     <message>
-        <location filename="../../src/requestauthdialog.ui" line="55"/>
+        <location line="+17"/>
         <source>Password:</source>
         <translation type="unfinished">Пароль:</translation>
     </message>
     <message>
-        <location filename="../../src/requestauthdialog.ui" line="75"/>
+        <location line="+20"/>
         <source>Remember</source>
         <translation type="unfinished">Запомнить</translation>
     </message>
     <message>
-        <location filename="../../src/requestauthdialog.ui" line="96"/>
+        <location line="+21"/>
         <source>Captcha:</source>
         <translation type="unfinished">Капча:</translation>
     </message>
     <message>
-        <location filename="../../src/requestauthdialog.ui" line="104"/>
+        <location line="+8"/>
         <source>about:blank</source>
         <translation></translation>
     </message>
@@ -202,27 +238,27 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>uploadDialogClass</name>
     <message>
-        <location filename="../../src/uploaddialog.ui" line="20"/>
+        <location filename="../../src/uploaddialog.ui" line="+20"/>
         <source>Uploading...</source>
         <translation type="unfinished">Загрузка на сервер...</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.ui" line="30"/>
+        <location line="+10"/>
         <source>Upload started.</source>
-        <translation type="unfinished">Выполняется загрузка.</translation>
+        <translation type="unfinished">Выгрузка запущена.</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.ui" line="40"/>
+        <location line="+10"/>
         <source>File: </source>
         <translation type="unfinished">файл:</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.ui" line="50"/>
+        <location line="+10"/>
         <source>Progress:</source>
         <translation type="unfinished">Прогресс:</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.ui" line="57"/>
+        <location line="+7"/>
         <source>Will finish in:</source>
         <translation type="unfinished">Будет завершено в:</translation>
     </message>
@@ -231,12 +267,12 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Осталось времени:</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.ui" line="64"/>
+        <location line="+7"/>
         <source>Speed:</source>
         <translation type="unfinished">Скорость:</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.ui" line="93"/>
+        <location line="+29"/>
         <source>Cancel</source>
         <translation type="unfinished">Отменить</translation>
     </message>
@@ -244,55 +280,55 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>yandexnarodManageClass</name>
     <message>
-        <location filename="../../src/yandexnarodmanage.ui" line="20"/>
+        <location filename="../../src/yandexnarodmanage.ui" line="+20"/>
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodmanage.ui" line="71"/>
+        <location line="+51"/>
         <source>Get Filelist</source>
-        <translation type="unfinished">Получить файлов</translation>
+        <translation type="unfinished">Получить список</translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodmanage.ui" line="82"/>
+        <location line="+11"/>
         <source>Upload File</source>
         <translation type="unfinished">Загрузить файл</translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodmanage.ui" line="126"/>
+        <location line="+44"/>
         <source>Actions:</source>
         <translation type="unfinished">Действия:</translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodmanage.ui" line="139"/>
+        <location line="+13"/>
         <source>Clipboard</source>
         <translation type="unfinished">Ссылку в буфер</translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodmanage.ui" line="159"/>
+        <location line="+20"/>
         <source>Delete File</source>
-        <translation type="unfinished">Удалить</translation>
+        <translation type="unfinished">Удалить файл</translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodmanage.ui" line="210"/>
+        <location line="+51"/>
         <source>line1
 line2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodmanage.ui" line="252"/>
+        <location line="+42"/>
         <source>Close</source>
         <translation type="unfinished">Закрыть</translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodmanage.ui" line="287"/>
+        <location line="+35"/>
         <source>Files list:</source>
         <translation type="unfinished">Список файлов:</translation>
     </message>
     <message>
-        <location filename="../../src/yandexnarodmanage.ui" line="304"/>
+        <location line="+17"/>
         <source>New Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый</translation>
     </message>
 </context>
 </TS>

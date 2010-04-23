@@ -2780,4 +2780,439 @@
     <source>Auto</source>
     <target>Авто</target>
 </phrase>
+<phrase>
+    <source>Not available</source>
+    <target>Не доступен</target>
+</phrase>
+<phrase>
+    <source>Do not disturb</source>
+    <target>Не беспокоить</target>
+</phrase>
+<phrase>
+    <source>Sick</source>
+    <target>Болею</target>
+</phrase>
+<phrase>
+    <source>At home</source>
+    <target>Дома</target>
+</phrase>
+<phrase>
+    <source>Lunch</source>
+    <target>Ем</target>
+</phrase>
+<phrase>
+    <source>Where am I?</source>
+    <target>Где я?</target>
+</phrase>
+<phrase>
+    <source>WC</source>
+    <target>Клозет</target>
+</phrase>
+<phrase>
+    <source>Cooking</source>
+    <target>Готовка</target>
+</phrase>
+<phrase>
+    <source>Walking</source>
+    <target>Прогулка</target>
+</phrase>
+<phrase>
+    <source>I&apos;m an alien!</source>
+    <target>Я инопланетянко!</target>
+</phrase>
+<phrase>
+    <source>I&apos;m a shrimp!</source>
+    <target>Я креведко!</target>
+</phrase>
+<phrase>
+    <source>I&apos;m lost :(</source>
+    <target>Я потерялся :(</target>
+</phrase>
+<phrase>
+    <source>Crazy %)</source>
+    <target>Веселюсь %)</target>
+</phrase>
+<phrase>
+    <source>Duck</source>
+    <target>Утя</target>
+</phrase>
+<phrase>
+    <source>Playing</source>
+    <target>Играю</target>
+</phrase>
+<phrase>
+    <source>Smoke</source>
+    <target>Курю</target>
+</phrase>
+<phrase>
+    <source>At work</source>
+    <target>На работе</target>
+</phrase>
+<phrase>
+    <source>On the meeting</source>
+    <target>На совещании</target>
+</phrase>
+<phrase>
+    <source>Beer</source>
+    <target>Пивасик</target>
+</phrase>
+<phrase>
+    <source>Coffee</source>
+    <target>Кофе</target>
+</phrase>
+<phrase>
+    <source>Shovel</source>
+    <target>Лопата</target>
+</phrase>
+<phrase>
+    <source>Sleeping</source>
+    <target>Сплю</target>
+</phrase>
+<phrase>
+    <source>On the phone</source>
+    <target>На телефоне</target>
+</phrase>
+<phrase>
+    <source>In the university</source>
+    <target>В универе</target>
+</phrase>
+<phrase>
+    <source>School</source>
+    <target>Школа</target>
+</phrase>
+<phrase>
+    <source>You have the wrong number!</source>
+    <target>У вас не верный номер!</target>
+</phrase>
+<phrase>
+    <source>LOL</source>
+    <target>ЛОЛ</target>
+</phrase>
+<phrase>
+    <source>Tongue</source>
+    <target>Язык</target>
+</phrase>
+<phrase>
+    <source>Smiley</source>
+    <target>Лыбюсь</target>
+</phrase>
+<phrase>
+    <source>Hippy</source>
+    <target>Хиппи</target>
+</phrase>
+<phrase>
+    <source>Depression</source>
+    <target>Депрессия</target>
+</phrase>
+<phrase>
+    <source>Crying</source>
+    <target>Плачу</target>
+</phrase>
+<phrase>
+    <source>Surprised</source>
+    <target>Сюрприз</target>
+</phrase>
+<phrase>
+    <source>Angry</source>
+    <target>Злой</target>
+</phrase>
+<phrase>
+    <source>Evil</source>
+    <target>Злой</target>
+</phrase>
+<phrase>
+    <source>Ass</source>
+    <target>Задница</target>
+</phrase>
+<phrase>
+    <source>Heart</source>
+    <target>Сердечко</target>
+</phrase>
+<phrase>
+    <source>Crescent</source>
+    <target>Полумесяц</target>
+</phrase>
+<phrase>
+    <source>Coool!</source>
+    <target>Клево!</target>
+</phrase>
+<phrase>
+    <source>Horns</source>
+    <target>Рога</target>
+</phrase>
+<phrase>
+    <source>Figa</source>
+    <target>Фига</target>
+</phrase>
+<phrase>
+    <source>F*ck you!</source>
+    <target>ПНХ!</target>
+</phrase>
+<phrase>
+    <source>Skull</source>
+    <target>Череп</target>
+</phrase>
+<phrase>
+    <source>Rocket</source>
+    <target>Ракета</target>
+</phrase>
+<phrase>
+    <source>Ktulhu</source>
+    <target>Ктулху</target>
+</phrase>
+<phrase>
+    <source>Goat</source>
+    <target>Коза</target>
+</phrase>
+<phrase>
+    <source>Must die!!</source>
+    <target>Должен сдохнуть!</target>
+</phrase>
+<phrase>
+    <source>Squirrel</source>
+    <target>Белка</target>
+</phrase>
+<phrase>
+    <source>Party!</source>
+    <target>Вечеринка!</target>
+</phrase>
+<phrase>
+    <source>Music</source>
+    <target>Музыка</target>
+</phrase>
+<phrase>
+    <source>?</source>
+    <target>?</target>
+</phrase>
+<phrase>
+    <source>Cooking</source>
+    <target>Готовлю</target>
+</phrase>
+<phrase>
+    <source>Authorization</source>
+    <target>Авторизация</target>
+</phrase>
+<phrase>
+    <source>Uploading</source>
+    <target>Загрузка на север</target>
+</phrase>
+<phrase>
+    <source>Login:</source>
+    <target>Логин:</target>
+</phrase>
+<phrase>
+    <source>Password:</source>
+    <target>Пароль:</target>
+</phrase>
+<phrase>
+    <source>Captcha:</source>
+    <target>Капча:</target>
+</phrase>
+<phrase>
+    <source>about:blank</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Done</source>
+    <target>Готово</target>
+</phrase>
+<phrase>
+    <source>Uploading...</source>
+    <target>Выгрузка...</target>
+</phrase>
+<phrase>
+    <source>Upload started.</source>
+    <target>Выгрузка запущена.</target>
+</phrase>
+<phrase>
+    <source>File: </source>
+    <target>Файл:</target>
+</phrase>
+<phrase>
+    <source>Speed:</source>
+    <target>Скорость:</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>Отмена</target>
+</phrase>
+<phrase>
+    <source>Progress:</source>
+    <target>Прогресс:</target>
+</phrase>
+<phrase>
+    <source>Elapsed time:</source>
+    <target>Осталось:</target>
+</phrase>
+<phrase>
+    <source>Yandex.Narod file manager</source>
+    <target>Управление файлами Yandex.Narod</target>
+</phrase>
+<phrase>
+    <source>Choose file</source>
+    <target>Выберите файл</target>
+</phrase>
+<phrase>
+    <source>New Item</source>
+    <target>Новый</target>
+</phrase>
+<phrase>
+    <source>Get Filelist</source>
+    <target>Получить список</target>
+</phrase>
+<phrase>
+    <source>Upload File</source>
+    <target>Загрузить файл</target>
+</phrase>
+<phrase>
+    <source>Actions:</source>
+    <target>Действия:</target>
+</phrase>
+<phrase>
+    <source>Clipboard</source>
+    <target>Буфер обмена</target>
+</phrase>
+<phrase>
+    <source>Delete File</source>
+    <target>Удалить файл</target>
+</phrase>
+<phrase>
+    <source>Close</source>
+    <target>Закрыть</target>
+</phrase>
+<phrase>
+    <source>Files list:</source>
+    <target>Список файлов:</target>
+</phrase>
+<phrase>
+    <source>line1
+line2</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Authorizing...</source>
+    <target>Авторизация...</target>
+</phrase>
+<phrase>
+    <source>Canceled</source>
+    <target>Отменено</target>
+</phrase>
+<phrase>
+    <source>Downloading filelist...</source>
+    <target>Загрузка списка файлов...</target>
+</phrase>
+<phrase>
+    <source>Deleting files...</source>
+    <target>Удаление файлов...</target>
+</phrase>
+<phrase>
+    <source>Getting storage...</source>
+    <target>Получение хранилища...</target>
+</phrase>
+<phrase>
+    <source>File size is null</source>
+    <target>Файл нулегого размера</target>
+</phrase>
+<phrase>
+    <source>Starting upload...</source>
+    <target>Начало загрузки...</target>
+</phrase>
+<phrase>
+    <source>Verifying...</source>
+    <target>Проверка...</target>
+</phrase>
+<phrase>
+    <source>Authorizing OK</source>
+    <target>Авторизация успешна</target>
+</phrase>
+<phrase>
+    <source>Authorization captcha request</source>
+    <target>Авторизация просит ввода Капчи</target>
+</phrase>
+<phrase>
+    <source>Authorizing failed</source>
+    <target>ПРОВАЛЕНА Авторизация</target>
+</phrase>
+<phrase>
+    <source>Filelist downloaded
+(%1 files)</source>
+    <target>Список файлов получен
+(%1 файл(ов) )</target>
+</phrase>
+<phrase>
+    <source>File(s) deleted</source>
+    <target>Файл(ы) удалены</target>
+</phrase>
+<phrase>
+    <source>Uploaded successfully</source>
+    <target>Загрузка завершена</target>
+</phrase>
+<phrase>
+    <source>Verifying failed</source>
+    <target>Ошибка проверки</target>
+</phrase>
+<phrase>
+    <source>Authorization failed</source>
+    <target>ПРОВАЛЕНА Авторизация</target>
+</phrase>
+<phrase>
+    <source>Send file via Yandex.Narod</source>
+    <target>Отправить файл в Яндекс.Народ</target>
+</phrase>
+<phrase>
+    <source>Choose file</source>
+    <target>Выберите файл</target>
+</phrase>
+<phrase>
+    <source>Manage Yandex.Narod files</source>
+    <target>Управление Yandex.Narod</target>
+</phrase>
+<phrase>
+    <source>File sent</source>
+    <target>Файл отправлен</target>
+</phrase>
+<phrase>
+    <source>Settings</source>
+    <target>Настройки</target>
+</phrase>
+<phrase>
+    <source>Password</source>
+    <target>Пароль</target>
+</phrase>
+<phrase>
+    <source>Login</source>
+    <target>Логин</target>
+</phrase>
+<phrase>
+    <source>Test Authorization</source>
+    <target>Тест авторизации</target>
+</phrase>
+<phrase>
+    <source>status</source>
+    <target>статус</target>
+</phrase>
+<phrase>
+    <source>Send file template</source>
+    <target>Послать шаблон файла</target>
+</phrase>
+<phrase>
+    <source>%N - file name; %U - file URL; %S - file size</source>
+    <target>%N - Имя файла; %U - ссылка; %S - размер</target>
+</phrase>
+<phrase>
+    <source>About</source>
+    <target>О плагине</target>
+</phrase>
+<phrase>
+    <source>Test Authorization</source>
+    <target>Проверить логин</target>
+</phrase>
+<phrase>
+    <source>Send file template</source>
+    <target>Шаблон сообщения</target>
+</phrase>
+<phrase>
+    <source>Uploading...</source>
+    <target>Загрузка на сервер...</target>
+</phrase>
 </QPH>
