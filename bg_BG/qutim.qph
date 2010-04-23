@@ -2600,4 +2600,8 @@
     <source>Find</source>
     <target>Намиране</target>
 </phrase>
+<phrase>
+    <source>Unknown</source>
+    <target>Неизвестен</target>
+</phrase>
 </QPH>
