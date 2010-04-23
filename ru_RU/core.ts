@@ -249,12 +249,14 @@ p, li { white-space: pre-wrap; }
         <translation>Показать информацию</translation>
     </message>
     <message>
+        <location filename="../../src/corelayers/authdialog/authdialogimpl_p.h" line="+23"/>
         <source>Recieved authorizarion request from %1:</source>
-        <translation type="obsolete">Принята авторизация от %1:</translation>
+        <translation type="unfinished">Принята авторизация от %1:</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Send authorizarion request to %1:</source>
-        <translation type="obsolete">Отправить запрос авторизации  %1:</translation>
+        <translation type="unfinished">Отправить запрос авторизации  %1:</translation>
     </message>
 </context>
 <context>
@@ -628,6 +630,14 @@ p, li { white-space: pre-wrap; }
         <location filename="../../src/corelayers/contactlist/simpletagseditor/simpletagseditor.cpp" line="+16"/>
         <source>Edit tags for %1</source>
         <translation>Изменить теги для %1</translation>
+    </message>
+</context>
+<context>
+    <name>FileTransfer</name>
+    <message>
+        <location filename="../../src/corelayers/filetransfer/simplefiletransfer.cpp" line="+23"/>
+        <source>Send file</source>
+        <translation>Отправить файл</translation>
     </message>
 </context>
 <context>
@@ -1090,11 +1100,41 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/NoCryptoService/nocryptoservice.cpp" line="+7"/>
         <source>No crypto</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Без шифрования</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Store passwords in plaintext. Easy to read. Easy to recover.</source>
+        <translation type="unfinished">Хранение паролей простым текстом. Прост в использовании. Прост в востановлении.</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/filetransfer/simplefiletransfer.cpp" line="-9"/>
+        <source>File transfer menager</source>
+        <translation type="unfinished">Менеджер передачи фацлов</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Default qutIM file transfer manager</source>
+        <translation type="unfinished">Модуль qutIM для передачи файлов (по умолчанию)</translation>
+    </message>
+    <message>
+        <location filename="../../examples/autosettingsitem/autosettings.cpp" line="+9"/>
+        <source>Autosettings example</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Simple example of auto settings item generator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../examples/simplesettingsdialog/settingslayerimpl.cpp" line="+7"/>
+        <source>Simple Settings dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>SDK03 example</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1206,64 +1246,79 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>QObject</name>
     <message>
+        <location filename="../../libqutim/notificationslayer.cpp" line="+102"/>
         <source>System message from %1:</source>
-        <translation type="obsolete">Системное сообщение от %1:</translation>
+        <translation>Системное сообщение от %1:</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>%1 changed status</source>
-        <translation type="obsolete">%1 изменил статус</translation>
+        <translation>%1 изменил статус</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Message from %1:</source>
-        <translation type="obsolete">Сообщение от %1:</translation>
+        <translation>Сообщение от %1:</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Message to %1:</source>
-        <translation type="obsolete">Сообщение для %1:</translation>
+        <translation>Сообщение для %1:</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>%1 is typing</source>
-        <translation type="obsolete">%1 печатает</translation>
+        <translation>%1 печатает</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Blocked message from %1</source>
-        <translation type="obsolete">Заблокировано сообщение от %1</translation>
+        <translation>Заблокировано сообщение от %1</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>%1 has birthday today!!</source>
-        <translation type="obsolete">Сегодня день рождения у %1!!</translation>
+        <translation>Сегодня день рождения у %1!!</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>%1 is online</source>
-        <translation type="obsolete">%1 в сети</translation>
+        <translation>%1 в сети</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>%1 is offline</source>
-        <translation type="obsolete">%1 отключился</translation>
+        <translation>%1 отключился</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>qutIM launched</source>
-        <translation type="obsolete">qutIM запущен</translation>
+        <translation>qutIM запущен</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Count</source>
-        <translation type="obsolete">Количество</translation>
+        <translation>Количество</translation>
     </message>
     <message>
+        <location filename="../../libqutim/utils.cpp" line="+115"/>
         <source>1st quarter</source>
-        <translation type="obsolete">1я четверть</translation>
+        <translation>1я четверть</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>2nd quarter</source>
-        <translation type="obsolete">2я четверть</translation>
+        <translation>2я четверть</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>3rd quarter</source>
-        <translation type="obsolete">3я четверть</translation>
+        <translation>3я четверть</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>4th quarter</source>
-        <translation type="obsolete">4я четверть</translation>
+        <translation>4я четверть</translation>
     </message>
 </context>
 <context>
@@ -1322,36 +1377,81 @@ p, li { white-space: pre-wrap; }
         <translatorcomment>Выбор приоритетных реализаций протоколов, если загружено неколько реализаций, например кутимовский оскар и аська через кецалькоатля</translatorcomment>
         <translation>Управление протоколами</translation>
     </message>
+    <message>
+        <location filename="../../examples/autosettingsitem/autosettings.cpp" line="+5"/>
+        <source>Test settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Combo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SettingsDialog</name>
+    <message>
+        <location filename="../../examples/simplesettingsdialog/settingsdialog.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Shortcut</name>
     <message>
+        <location filename="../../libqutim/shortcut.cpp" line="+72"/>
         <source>Close</source>
-        <translation type="obsolete">Закрыть</translation>
+        <translation type="unfinished">Закрыть</translation>
     </message>
     <message>
+        <location line="+16"/>
+        <source>Next child</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Previous child</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Find</source>
-        <translation type="obsolete">Поиск</translation>
+        <translation type="unfinished">Поиск</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Find next</source>
-        <translation type="obsolete">Найти далее</translation>
+        <translation type="unfinished">Найти далее</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Find previous</source>
-        <translation type="obsolete">Найти предыдущее</translation>
+        <translation type="unfinished">Найти предыдущее</translation>
     </message>
     <message>
+        <location line="+40"/>
         <source>Preferences</source>
-        <translation type="obsolete">Настройки</translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Quit</source>
-        <translation type="obsolete">Выход</translation>
+        <translation type="unfinished">Выход</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>System</source>
-        <translation type="obsolete">Система</translation>
+        <translation type="unfinished">Система</translation>
     </message>
 </context>
 <context>
@@ -1383,6 +1483,49 @@ p, li { white-space: pre-wrap; }
         <location filename="../../src/corelayers/contactlist/simpletagseditor/simpletagseditor.ui" line="+39"/>
         <source>Add</source>
         <translation>Добавить</translation>
+    </message>
+</context>
+<context>
+    <name>Status</name>
+    <message>
+        <location filename="../../libqutim/status.cpp" line="+102"/>
+        <source>Online</source>
+        <translation>В сети</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Free for chat</source>
+        <translation>Готов поболтать</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Away</source>
+        <translation>Отошел</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Not available</source>
+        <translation>Не доступен</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Do not disturb</source>
+        <translation>Не беспокоить</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Invisible</source>
+        <translation>Невидимый</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Offline</source>
+        <translation>Отключен</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Unknown</source>
+        <translation>Неизвестно</translation>
     </message>
 </context>
 <context>
