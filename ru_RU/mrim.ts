@@ -6,7 +6,7 @@
     <message>
         <location filename="../../src/ui/wizards/accountwizardmain.ui" line="+14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>Мастер</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -151,15 +151,263 @@
     <message>
         <location line="+1"/>
         <source>Account creator for module-based realization of Mail.Ru IM protocol</source>
-        <translation type="unfinished">Создание учетной записи, модуля реализации Mail.ru агента</translation>
+        <translation>Создание учетной записи, модуля реализации Mail.ru агента</translation>
     </message>
 </context>
 <context>
     <name>Roster</name>
     <message>
-        <location filename="../../src/base/roster.cpp" line="+197"/>
+        <location filename="../../src/base/roster.cpp" line="+206"/>
         <source>Phone contacts</source>
-        <translation type="unfinished">Телефонные контакты</translation>
+        <translation>Телефонные контакты</translation>
+    </message>
+</context>
+<context>
+    <name>Status</name>
+    <message>
+        <location filename="../../src/base/mrimstatus.cpp" line="+76"/>
+        <source>Sick</source>
+        <translation>Болею</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>At home</source>
+        <translation>Дома</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Lunch</source>
+        <translation>Ем</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Where am I?</source>
+        <translation>Где я?</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>WC</source>
+        <translation>Клозет</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Cooking</source>
+        <translation>Готовка</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Walking</source>
+        <translation>Прогулка</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>I&apos;m an alien!</source>
+        <translation>Я инопланетянко!</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>I&apos;m a shrimp!</source>
+        <translation>Я креведко!</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>I&apos;m lost :(</source>
+        <translation>Я потерялся :(</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Crazy %)</source>
+        <translation>Веселюсь %)</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Duck</source>
+        <translation>Утя</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Playing</source>
+        <translation>Играю</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Smoke</source>
+        <translation>Курю</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>At work</source>
+        <translation>На работе</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Meeting</source>
+        <translation>Встреча</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Beer</source>
+        <translation>Пивасик</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Coffee</source>
+        <translation>Кофе</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Shovel</source>
+        <translation>Лопата</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Sleeping</source>
+        <translation>Сплю</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>On the phone</source>
+        <translation>На телефоне</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>University</source>
+        <translation type="unfinished">Универ</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>School</source>
+        <translation>Школа</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Wrong number!</source>
+        <translation type="unfinished">Неправильный номер!</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>LOL</source>
+        <translation>ЛОЛ</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Tongue</source>
+        <translation>Язык</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Smiley</source>
+        <translation>Лыбюсь</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Hippy</source>
+        <translation>Хиппи</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Depression</source>
+        <translation>Депрессия</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Crying</source>
+        <translation>Плачу</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Surprised</source>
+        <translation>Сюрприз</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Angry</source>
+        <translation>Злой</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Evil</source>
+        <translation>Злой</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Ass</source>
+        <translation>Задница</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Heart</source>
+        <translation>Сердечко</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Crescent</source>
+        <translation>Полумесяц</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Coool!</source>
+        <translation>Клево!</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Horns</source>
+        <translation>Рога</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Figa</source>
+        <translation>Фига</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>F*ck you!</source>
+        <translation>ПНХ!</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Skull</source>
+        <translation>Череп</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Rocket</source>
+        <translation>Ракета</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Ktulhu</source>
+        <translation>Ктулху</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Goat</source>
+        <translation>Коза</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Must die!</source>
+        <translation type="unfinished">Должен сдохнуть!</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Squirrel</source>
+        <translation>Белка</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Party!</source>
+        <translation>Вечеринка!</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Music</source>
+        <translation>Музыка</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>?</source>
+        <translation>?</translation>
     </message>
 </context>
 <context>
@@ -167,7 +415,7 @@
     <message>
         <location filename="../../src/base/mrimplugin.cpp" line="-8"/>
         <source>Author</source>
-        <translation type="unfinished">Автор</translation>
+        <translation>Автор</translation>
     </message>
 </context>
 </TS>
