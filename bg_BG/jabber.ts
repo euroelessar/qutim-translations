@@ -678,12 +678,12 @@ Accept invitation?</source>
     <message>
         <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-166"/>
         <source>Join groupchat on</source>
-        <translation type="unfinished">Присъединяване към групов разговор за</translation>
+        <translation>Присъединяване към групов разговор за</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>You already in conference with another nick</source>
-        <translation type="unfinished"></translation>
+        <translation>Вече сте в конференцията с друг псевдоним</translation>
     </message>
 </context>
 <context>
