@@ -291,7 +291,7 @@
         <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+181"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+226"/>
         <source>Join to conference</source>
         <translation>Присъединяване към конференция</translation>
     </message>
@@ -674,9 +674,22 @@ Accept invitation?</source>
     </message>
 </context>
 <context>
+    <name>Jabber::JMUCManager</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-166"/>
+        <source>Join groupchat on</source>
+        <translation type="unfinished">Присъединяване към групов разговор за</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>You already in conference with another nick</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Jabber::JMUCSession</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+241"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+253"/>
         <source>Not authorized: Password required.</source>
         <translation>Липсва удостоверение: Изисква се парола.</translation>
     </message>
