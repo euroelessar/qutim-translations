@@ -9,19 +9,16 @@
         <translation></translation>
     </message>
     <message>
-        <location line="+29"/>
         <source>Add</source>
-        <translation>Добавяне</translation>
+        <translation type="obsolete">Добавяне</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Up</source>
-        <translation>Нагоре</translation>
+        <translation type="obsolete">Нагоре</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Down</source>
-        <translation>Надолу</translation>
+        <translation type="obsolete">Надолу</translation>
     </message>
 </context>
 <context>
@@ -43,7 +40,7 @@
 <context>
     <name>AdiumChat::ChatWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+225"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+221"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -219,7 +216,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+248"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+251"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -320,7 +317,22 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AccountCreatorList</name>
     <message>
-        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+27"/>
+        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+25"/>
+        <source>Add new account</source>
+        <translation>Добавяне на нова сметка</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Just add or create new account</source>
+        <translation>Добавяне или създаване на нова сметка</translation>
+    </message>
+    <message>
+        <location line="+87"/>
+        <source>Edit info</source>
+        <translation>Редактиране на информацията</translation>
+    </message>
+    <message>
+        <location line="+4"/>
         <source>Remove account</source>
         <translation>Премахване на сметка</translation>
     </message>
@@ -587,7 +599,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>FileTransfer</name>
     <message>
-        <location filename="../../qutim/src/corelayers/filetransfer/simplefiletransfer.cpp" line="+23"/>
+        <location filename="../../qutim/src/corelayers/filetransfer/simplefiletransfer.cpp" line="+24"/>
         <source>Send file</source>
         <translation>Изпращане на файл</translation>
     </message>
@@ -858,7 +870,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM реализация на разговор. На базата на Adium стилове за разговора</translation>
     </message>
     <message>
-        <location line="+49"/>
+        <location line="+42"/>
         <source>Helper for chat layer</source>
         <translation type="unfinished">Помощник за слоя за разговори</translation>
     </message>
@@ -1076,7 +1088,7 @@ p, li { white-space: pre-wrap; }
         <translation>Съхраняване на паролите като чист текст. Лесно за прочитане, лесно за възстановяване.</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/filetransfer/simplefiletransfer.cpp" line="-9"/>
+        <location filename="../../qutim/src/corelayers/filetransfer/simplefiletransfer.cpp" line="-10"/>
         <source>File transfer menager</source>
         <translation>Управление на предаването на файлове</translation>
     </message>
@@ -1194,7 +1206,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+102"/>
+        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+99"/>
         <source>System message from %1:</source>
         <translation>Системно съобщение от %1:</translation>
     </message>
