@@ -166,212 +166,212 @@
     <message>
         <location filename="../../protocols/mrim/src/base/mrimstatus.cpp" line="+76"/>
         <source>Sick</source>
-        <translation type="unfinished"></translation>
+        <translation>Болен</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>At home</source>
-        <translation type="unfinished"></translation>
+        <translation>Вкъщи</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Lunch</source>
-        <translation type="unfinished"></translation>
+        <translation>Храня се</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Where am I?</source>
-        <translation type="unfinished"></translation>
+        <translation>Къде съм?</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>WC</source>
-        <translation type="unfinished"></translation>
+        <translation>В кенефа</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Cooking</source>
-        <translation type="unfinished"></translation>
+        <translation>Готвя</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Walking</source>
-        <translation type="unfinished"></translation>
+        <translation>Разхождам се</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>I&apos;m an alien!</source>
-        <translation type="unfinished"></translation>
+        <translation>Извънземен съм!</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>I&apos;m a shrimp!</source>
-        <translation type="unfinished"></translation>
+        <translation>Аз съм скарида!</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>I&apos;m lost :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Изгубен :-(</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Crazy %)</source>
-        <translation type="unfinished"></translation>
+        <translation>Луд %)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Duck</source>
-        <translation type="unfinished"></translation>
+        <translation>Патка</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Playing</source>
-        <translation type="unfinished"></translation>
+        <translation>Играя</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Smoke</source>
-        <translation type="unfinished"></translation>
+        <translation>Пуша</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>At work</source>
-        <translation type="unfinished"></translation>
+        <translation>На работа</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>На среща</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Beer</source>
-        <translation type="unfinished"></translation>
+        <translation>Бира</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Coffee</source>
-        <translation type="unfinished"></translation>
+        <translation>Кафе</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Shovel</source>
-        <translation type="unfinished"></translation>
+        <translation>Копая</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Sleeping</source>
-        <translation type="unfinished"></translation>
+        <translation>Спя</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>On the phone</source>
-        <translation type="unfinished"></translation>
+        <translation>На телефона</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>University</source>
-        <translation type="unfinished"></translation>
+        <translation>В университета</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>School</source>
-        <translation type="unfinished"></translation>
+        <translation>На училище</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Wrong number!</source>
-        <translation type="unfinished"></translation>
+        <translation>Грешен номер!</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>LOL</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Tongue</source>
-        <translation type="unfinished"></translation>
+        <translation>Плезя се</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Smiley</source>
-        <translation type="unfinished"></translation>
+        <translation>Усмивка</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Hippy</source>
-        <translation type="unfinished"></translation>
+        <translation>Хипи</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Depression</source>
-        <translation type="unfinished"></translation>
+        <translation>Депресиран</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Crying</source>
-        <translation type="unfinished"></translation>
+        <translation>Ревящ</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Surprised</source>
-        <translation type="unfinished"></translation>
+        <translation>Учуден</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Angry</source>
-        <translation type="unfinished"></translation>
+        <translation>Бесен</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Evil</source>
-        <translation type="unfinished"></translation>
+        <translation>Зъл</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Ass</source>
-        <translation type="unfinished"></translation>
+        <translation>Задник</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Heart</source>
-        <translation type="unfinished"></translation>
+        <translation>Жега</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Crescent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Полумесец</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Coool!</source>
-        <translation type="unfinished"></translation>
+        <translation>Якооо!</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Horns</source>
-        <translation type="unfinished"></translation>
+        <translation>Рога</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Figa</source>
-        <translation type="unfinished"></translation>
+        <translation>Котенце</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>F*ck you!</source>
-        <translation type="unfinished"></translation>
+        <translation>Да те е*а!</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Skull</source>
-        <translation type="unfinished"></translation>
+        <translation>Череп</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Rocket</source>
-        <translation type="unfinished"></translation>
+        <translation>Ракета</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -381,32 +381,32 @@
     <message>
         <location line="+2"/>
         <source>Goat</source>
-        <translation type="unfinished"></translation>
+        <translation>Козел</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Must die!</source>
-        <translation type="unfinished"></translation>
+        <translation>Умри!</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Squirrel</source>
-        <translation type="unfinished"></translation>
+        <translation>Катерица</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Party!</source>
-        <translation type="unfinished"></translation>
+        <translation>Купон!</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Музика</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>?</source>
-        <translation type="unfinished"></translation>
+        <translation>?</translation>
     </message>
 </context>
 <context>
