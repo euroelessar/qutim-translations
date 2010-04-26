@@ -32,7 +32,7 @@
     <message>
         <location filename="../../src/protocol/jaccountwizardpage.ui" line="+14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>Мастер</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -114,29 +114,20 @@
 <context>
     <name>JInputPassword</name>
     <message>
-        <location filename="../../src/protocol/account/jinputpassword.ui" line="+14"/>
-        <source>Dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+13"/>
         <source>Password:</source>
-        <translation>Пароль:</translation>
+        <translation type="obsolete">Пароль:</translation>
     </message>
     <message>
-        <location line="+35"/>
         <source>Ok</source>
-        <translation>Ок</translation>
+        <translation type="obsolete">Ок</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Cancel</source>
-        <translation>Отмена</translation>
+        <translation type="obsolete">Отмена</translation>
     </message>
     <message>
-        <location line="+9"/>
         <source>Save password</source>
-        <translation>Сохранить пароль</translation>
+        <translation type="obsolete">Сохранить пароль</translation>
     </message>
 </context>
 <context>
@@ -296,7 +287,7 @@
         <translation>Войти в конференцию</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="+181"/>
+        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="+226"/>
         <source>Join to conference</source>
         <translation>Войти в конференцию</translation>
     </message>
@@ -686,9 +677,125 @@ Accept invitation?</source>
     </message>
 </context>
 <context>
+    <name>Jabber::JMUCManager</name>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="-166"/>
+        <source>Join groupchat on</source>
+        <translation type="unfinished">Войти в конференцию</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>You already in conference with another nick</source>
+        <translation type="unfinished">Вы уже в конференции с другим ником</translation>
+    </message>
+</context>
+<context>
     <name>Jabber::JMUCSession</name>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="+241"/>
+        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="+177"/>
+        <source>%1 has been banned</source>
+        <translation>%1 был забанен</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>You has been banned at %1
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <location line="+10"/>
+        <source>with reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-7"/>
+        <source>%1 has been kicked</source>
+        <translation>%1 был кикнут</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>You has been kicked from %1
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Do you want to rejoin?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>You have been kicked</source>
+        <translation>Вы были кикнуты</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>%1 is now known as %2</source>
+        <translation>%1 теперь известен как %2</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>has joined the room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <location line="+2"/>
+        <location line="+2"/>
+        <location line="+2"/>
+        <location line="+2"/>
+        <source> as</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-8"/>
+        <location line="+28"/>
+        <source> owner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-26"/>
+        <location line="+28"/>
+        <source> administrator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-26"/>
+        <location line="+28"/>
+        <source> registered member</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-26"/>
+        <location line="+28"/>
+        <source> member</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-26"/>
+        <location line="+28"/>
+        <source> visitor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-18"/>
+        <source>%1 has left the room</source>
+        <translation>%1 покинул комнату</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>%1 now is</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+96"/>
+        <source>Subject:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+21"/>
         <source>Not authorized: Password required.</source>
         <translation>Не авторизован: Требуется пароль.</translation>
     </message>
@@ -710,7 +817,7 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>Not acceptable: Room nicks are locked down.</source>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимо: Ники в комнате заблокированы.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1143,7 +1250,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../src/protocol/jprotocol.cpp" line="+31"/>
+        <location filename="../../src/protocol/jprotocol.cpp" line="+52"/>
         <source>Jabber</source>
         <translation>Jabber/XMPP</translation>
     </message>
