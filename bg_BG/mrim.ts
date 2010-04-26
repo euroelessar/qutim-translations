@@ -97,7 +97,7 @@
         <translation type="obsolete">Неуспешно удостоверяване!</translation>
     </message>
     <message>
-        <location filename="../../protocols/mrim/src/base/mrimconnection.cpp" line="+238"/>
+        <location filename="../../protocols/mrim/src/base/mrimconnection.cpp" line="+239"/>
         <source>Another client with same login connected!</source>
         <translation>Друг клиент, със същите детайли за вход се е свързал!</translation>
     </message>
@@ -156,7 +156,7 @@
 <context>
     <name>Roster</name>
     <message>
-        <location filename="../../protocols/mrim/src/base/roster.cpp" line="+206"/>
+        <location filename="../../protocols/mrim/src/base/roster.cpp" line="+226"/>
         <source>Phone contacts</source>
         <translation>Контакти от телефона</translation>
     </message>
@@ -164,7 +164,7 @@
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../protocols/mrim/src/base/mrimstatus.cpp" line="+76"/>
+        <location filename="../../protocols/mrim/src/base/mrimstatus.cpp" line="+83"/>
         <source>Sick</source>
         <translation>Болен</translation>
     </message>
