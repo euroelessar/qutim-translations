@@ -15,6 +15,19 @@
     </message>
 </context>
 <context>
+    <name>Conference</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+58"/>
+        <source>Kick</source>
+        <translation>Изритване (Kick)</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Ban</source>
+        <translation>Забрана (Ban)</translation>
+    </message>
+</context>
+<context>
     <name>Contact</name>
     <message>
         <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+170"/>
@@ -689,30 +702,29 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCSession</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+177"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+174"/>
         <source>%1 has been banned</source>
         <translation>На %1 бе наложена забрана</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+5"/>
         <source>You has been banned at %1
 </source>
         <translation>Беше ви наложена забрана за %1
 </translation>
     </message>
     <message>
-        <location line="+4"/>
-        <location line="+10"/>
+        <location line="+3"/>
         <source>with reason: %1</source>
         <translation>по следната причина: %1</translation>
     </message>
     <message>
-        <location line="-7"/>
+        <location line="-8"/>
         <source>%1 has been kicked</source>
         <translation>%1 беше изритан</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+5"/>
         <source>You has been kicked from %1
 </source>
         <translation>Бяхте изритан от %1
@@ -729,7 +741,7 @@ Accept invitation?</source>
         <translation>Бяхте изритан</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+16"/>
         <source>%1 is now known as %2</source>
         <translation>%1 сега се подвизава като %2</translation>
     </message>
@@ -842,6 +854,29 @@ Accept invitation?</source>
         <location line="+6"/>
         <source>Join groupchat on</source>
         <translation>Присъединяване към групов разговор за</translation>
+    </message>
+</context>
+<context>
+    <name>Jabber::JProtocol</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+21"/>
+        <source>Kick</source>
+        <translation>Изритване (Kick)</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Enter kick reason for %1</source>
+        <translation>Въведете причина за изритването на %1</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Ban</source>
+        <translation>Забрана (Ban)</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Enter ban reason for %1</source>
+        <translation>Въведете причина за забраната на %1</translation>
     </message>
 </context>
 <context>
@@ -1221,7 +1256,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+52"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-35"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
