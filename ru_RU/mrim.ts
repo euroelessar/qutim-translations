@@ -97,7 +97,7 @@
         <translation type="obsolete">Ошибка аутентификации!</translation>
     </message>
     <message>
-        <location filename="../../src/base/mrimconnection.cpp" line="+238"/>
+        <location filename="../../src/base/mrimconnection.cpp" line="+239"/>
         <source>Another client with same login connected!</source>
         <translation>Другой клиент подключился с тем же логином!</translation>
     </message>
@@ -157,7 +157,7 @@
 <context>
     <name>Roster</name>
     <message>
-        <location filename="../../src/base/roster.cpp" line="+206"/>
+        <location filename="../../src/base/roster.cpp" line="+226"/>
         <source>Phone contacts</source>
         <translation>Телефонные контакты</translation>
     </message>
@@ -165,7 +165,7 @@
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../src/base/mrimstatus.cpp" line="+76"/>
+        <location filename="../../src/base/mrimstatus.cpp" line="+83"/>
         <source>Sick</source>
         <translation>Болею</translation>
     </message>
@@ -272,7 +272,7 @@
     <message>
         <location line="+2"/>
         <source>University</source>
-        <translation type="unfinished">Универ</translation>
+        <translation>Универ</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -282,7 +282,7 @@
     <message>
         <location line="+2"/>
         <source>Wrong number!</source>
-        <translation type="unfinished">Неправильный номер!</translation>
+        <translation>Неправильный номер!</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -387,7 +387,7 @@
     <message>
         <location line="+2"/>
         <source>Must die!</source>
-        <translation type="unfinished">Должен сдохнуть!</translation>
+        <translation>Должен сдохнуть!</translation>
     </message>
     <message>
         <location line="+2"/>
