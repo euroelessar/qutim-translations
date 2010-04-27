@@ -15,6 +15,19 @@
     </message>
 </context>
 <context>
+    <name>Conference</name>
+    <message>
+        <location filename="../../src/protocol/jprotocol.cpp" line="+58"/>
+        <source>Kick</source>
+        <translation>Кик</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Ban</source>
+        <translation>Бан</translation>
+    </message>
+</context>
+<context>
     <name>Contact</name>
     <message>
         <location filename="../../src/protocol/account/roster/jcontact.cpp" line="+170"/>
@@ -681,48 +694,49 @@ Accept invitation?</source>
     <message>
         <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="-166"/>
         <source>Join groupchat on</source>
-        <translation type="unfinished">Войти в конференцию</translation>
+        <translation>Войти в конференцию</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>You already in conference with another nick</source>
-        <translation type="unfinished">Вы уже в конференции с другим ником</translation>
+        <translation>Вы уже в конференции с другим ником</translation>
     </message>
 </context>
 <context>
     <name>Jabber::JMUCSession</name>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="+177"/>
+        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="+174"/>
         <source>%1 has been banned</source>
         <translation>%1 был забанен</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+5"/>
         <source>You has been banned at %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Вы были заблкированы %1
+</translation>
     </message>
     <message>
-        <location line="+4"/>
-        <location line="+10"/>
+        <location line="+3"/>
         <source>with reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>по причине: %1</translation>
     </message>
     <message>
-        <location line="-7"/>
+        <location line="-8"/>
         <source>%1 has been kicked</source>
         <translation>%1 был кикнут</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+5"/>
         <source>You has been kicked from %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Вас выкинули из  %1
+</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Do you want to rejoin?</source>
-        <translation type="unfinished"></translation>
+        <translation>Желаете перезайти?</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -730,14 +744,14 @@ Accept invitation?</source>
         <translation>Вы были кикнуты</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+16"/>
         <source>%1 is now known as %2</source>
         <translation>%1 теперь известен как %2</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>has joined the room</source>
-        <translation type="unfinished"></translation>
+        <translation>вошел в комнату</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -746,37 +760,37 @@ Accept invitation?</source>
         <location line="+2"/>
         <location line="+2"/>
         <source> as</source>
-        <translation type="unfinished"></translation>
+        <translation>как</translation>
     </message>
     <message>
         <location line="-8"/>
         <location line="+28"/>
         <source> owner</source>
-        <translation type="unfinished"></translation>
+        <translation>владелец</translation>
     </message>
     <message>
         <location line="-26"/>
         <location line="+28"/>
         <source> administrator</source>
-        <translation type="unfinished"></translation>
+        <translation>администратор</translation>
     </message>
     <message>
         <location line="-26"/>
         <location line="+28"/>
         <source> registered member</source>
-        <translation type="unfinished"></translation>
+        <translation>регистрированный</translation>
     </message>
     <message>
         <location line="-26"/>
         <location line="+28"/>
         <source> member</source>
-        <translation type="unfinished"></translation>
+        <translation>участник</translation>
     </message>
     <message>
         <location line="-26"/>
         <location line="+28"/>
         <source> visitor</source>
-        <translation type="unfinished"></translation>
+        <translation>посетитель</translation>
     </message>
     <message>
         <location line="-18"/>
@@ -786,13 +800,14 @@ Accept invitation?</source>
     <message>
         <location line="+8"/>
         <source>%1 now is</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 теперь</translation>
     </message>
     <message>
         <location line="+96"/>
         <source>Subject:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Тема:
+%1</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -802,17 +817,17 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>Forbidden: Access denied, user is banned.</source>
-        <translation>Запрещено: Доступ закрыт, пользоватль заблокирован.</translation>
+        <translation>Запрещено: Доступ закрыт, пользователь заблокирован.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Item not found: The room does not exist.</source>
-        <translation>Элемент не найден. Комната не существует.</translation>
+        <translation>Пункт не найден: Комната не существует.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Not allowed: Room creation is restricted.</source>
-        <translation>Не разрешено. Создание комнат запрещено.</translation>
+        <translation>Не разрешено: Создание комнат ограничено.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -822,12 +837,12 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>Registration required: User is not on the member list.</source>
-        <translation>Требуется регистрация. Пользователь не в списке участников.</translation>
+        <translation>Требуется регистрация: Пользователь не в списке регистрированных.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Conflict: Desired room nickname is in use or registered by another user.</source>
-        <translation>Конфликт: Ник используется в комнате или зарегестрирован другим пользователем.</translation>
+        <translation>Конфликт: Желаемый ник используется в комнате или зарегистрирован другим пользователем.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -837,13 +852,36 @@ Accept invitation?</source>
     <message>
         <location line="+4"/>
         <source>Unknown error: No description.</source>
-        <translation>Неизвестная ошибка, да еще без описаня, НЯ.</translation>
+        <translation>Неизвестна ошибка: Нет описания.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Join groupchat on</source>
         <translatorcomment>что к чему, когда наконец я смогу сам плагин пощупать???</translatorcomment>
         <translation>Войти в конференцию on</translation>
+    </message>
+</context>
+<context>
+    <name>Jabber::JProtocol</name>
+    <message>
+        <location filename="../../src/protocol/jprotocol.cpp" line="+21"/>
+        <source>Kick</source>
+        <translation>Кик</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Enter kick reason for %1</source>
+        <translation type="unfinished">Укажите причину кика %1</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Ban</source>
+        <translation>Бан</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Enter ban reason for %1</source>
+        <translation type="unfinished">Укажите причину блокировки %1</translation>
     </message>
 </context>
 <context>
@@ -1250,7 +1288,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../src/protocol/jprotocol.cpp" line="+52"/>
+        <location filename="../../src/protocol/jprotocol.cpp" line="-35"/>
         <source>Jabber</source>
         <translation>Jabber/XMPP</translation>
     </message>
