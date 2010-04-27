@@ -3215,4 +3215,560 @@ line2</source>
     <source>Uploading...</source>
     <target>Загрузка на сервер...</target>
 </phrase>
+<phrase>
+    <source>Kick</source>
+    <target>Кик</target>
+</phrase>
+<phrase>
+    <source>Ban</source>
+    <target>Бан</target>
+</phrase>
+<phrase>
+    <source>Visitor</source>
+    <target>Гость</target>
+</phrase>
+<phrase>
+    <source>Participant</source>
+    <target>Участник</target>
+</phrase>
+<phrase>
+    <source>Moderator</source>
+    <target>Модератор</target>
+</phrase>
+<phrase>
+    <source>Invite to groupchat</source>
+    <target>Пригласить в групповой чат</target>
+</phrase>
+<phrase>
+    <source>User %1 invite you
+to conference %2
+with reason &quot;%3&quot;
+Accept invitation?</source>
+    <target>Пользователь %1 приглашает вас
+в конференцию %2
+с причиной &quot;%3&quot;
+Принять приглашение?</target>
+</phrase>
+<phrase>
+    <source>%1 has set the subject to:
+%2</source>
+    <target>%1 установил тему:
+%2</target>
+</phrase>
+<phrase>
+    <source>The subject is:
+%2</source>
+    <target>Тема:
+%2</target>
+</phrase>
+<phrase>
+    <source>Not authorized: Password required.</source>
+    <target>Не авторизован: требуется пароль.</target>
+</phrase>
+<phrase>
+    <source>Forbidden: Access denied, user is banned.</source>
+    <target>Запрещено: Отказано в доступе, пользователь забанен.</target>
+</phrase>
+<phrase>
+    <source>Item not found: The room does not exist.</source>
+    <target>Пункт не найден: Комната не существует.</target>
+</phrase>
+<phrase>
+    <source>Not allowed: Room creation is restricted.</source>
+    <target>Не разрешено: Создание комнат ограничено.</target>
+</phrase>
+<phrase>
+    <source>Not acceptable: Room nicks are locked down.</source>
+    <target>Недопустимо: Ники в комнате заблокированы.</target>
+</phrase>
+<phrase>
+    <source>Registration required: User is not on the member list.</source>
+    <target>Требуется регистрация: Пользователь не в списке регистрированных.</target>
+</phrase>
+<phrase>
+    <source>Conflict: Desired room nickname is in use or registered by another user.</source>
+    <target>Конфликт: Желаемый ник используется в комнате или зарегистрирован другим пользователем.</target>
+</phrase>
+<phrase>
+    <source>Service unavailable: Maximum number of users has been reached.</source>
+    <target>Сервис недоступен: Достигнуто максимальное количество пользователей.</target>
+</phrase>
+<phrase>
+    <source>Unknown error: No description.</source>
+    <target>Неизвестна ошибка: Нет описания.</target>
+</phrase>
+<phrase>
+    <source>Join groupchat on</source>
+    <target>Войти в групповой чат</target>
+</phrase>
+<phrase>
+    <source>%1 is now known as %2</source>
+    <target>%1 теперь известен как %2</target>
+</phrase>
+<phrase>
+    <source>You have been kicked from</source>
+    <target>Вы были кикнуты из</target>
+</phrase>
+<phrase>
+    <source>with reason:</source>
+    <target>с причиной:</target>
+</phrase>
+<phrase>
+    <source>without reason</source>
+    <target>без причины</target>
+</phrase>
+<phrase>
+    <source>You have been kicked</source>
+    <target>Вы были кикнуты</target>
+</phrase>
+<phrase>
+    <source>You have been banned from</source>
+    <target>Вы были забанены из</target>
+</phrase>
+<phrase>
+    <source>You have been banned</source>
+    <target>Вы были забанены</target>
+</phrase>
+<phrase>
+    <source>%1 has been kicked</source>
+    <target>%1 был кикнут</target>
+</phrase>
+<phrase>
+    <source>%1 has been banned</source>
+    <target>%1 был забанен</target>
+</phrase>
+<phrase>
+    <source>%1 has left the room</source>
+    <target>%1 покинул комнату</target>
+</phrase>
+<phrase>
+    <source>%3 has joined the room as %1 and %2</source>
+    <target>%3 вошел в комнату как %1 и %2</target>
+</phrase>
+<phrase>
+    <source>%2 has joined the room as %1</source>
+    <target>%2 вошел в комнату как %1</target>
+</phrase>
+<phrase>
+    <source>%2 has joined the room</source>
+    <target>%2 вошел в комнату</target>
+</phrase>
+<phrase>
+    <source>%4 (%3) has joined the room as %1 and %2</source>
+    <target>%4 (%3) вошел в комнату как %1 и %2</target>
+</phrase>
+<phrase>
+    <source>%3 (%2) has joined the room as %1</source>
+    <target>%3 (%2) вошел в комнату как %1</target>
+</phrase>
+<phrase>
+    <source>%2 (%1) has joined the room</source>
+    <target>%2 (%1) вошел в комнату</target>
+</phrase>
+<phrase>
+    <source>%3 now is %1 and %2</source>
+    <target>%3 теперь %1 и %2</target>
+</phrase>
+<phrase>
+    <source>%2 now is %1</source>
+    <target>%2 теперь %1</target>
+</phrase>
+<phrase>
+    <source>%4 (%3) now is %1 and %2</source>
+    <target>%4 (%3) теперь %1 и %2</target>
+</phrase>
+<phrase>
+    <source>%3 (%2) now is %1</source>
+    <target>%3 (%2) теперь %1</target>
+</phrase>
+<phrase>
+    <source>moderator</source>
+    <target>модератор</target>
+</phrase>
+<phrase>
+    <source>participant</source>
+    <target>участник</target>
+</phrase>
+<phrase>
+    <source>visitor</source>
+    <target>посетитель</target>
+</phrase>
+<phrase>
+    <source>banned</source>
+    <target>забаненый</target>
+</phrase>
+<phrase>
+    <source>member</source>
+    <target>регистрированный</target>
+</phrase>
+<phrase>
+    <source>owner</source>
+    <target>владелец</target>
+</phrase>
+<phrase>
+    <source>administrator</source>
+    <target>администратор</target>
+</phrase>
+<phrase>
+    <source>guest</source>
+    <target>гость</target>
+</phrase>
+<phrase>
+    <source>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Affiliation:&lt;/b&gt; %1&lt;/font&gt;</source>
+    <target>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Присоединения:&lt;/b&gt; %1&lt;/font&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Role:&lt;/b&gt; %1&lt;/font&gt;</source>
+    <target>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Роль:&lt;/b&gt; %1&lt;/font&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;JID:&lt;/b&gt; %1&lt;/font&gt;</source>
+    <target>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;JID:&lt;/b&gt; %1&lt;/font&gt;</target>
+</phrase>
+<phrase>
+    <source>Copy JID to clipboard</source>
+    <target>Скопировать JID в буфер обмена</target>
+</phrase>
+<phrase>
+    <source>Add to contact list</source>
+    <target>Добавить в список контактов</target>
+</phrase>
+<phrase>
+    <source>Kick message</source>
+    <target>Кик-сообщение</target>
+</phrase>
+<phrase>
+    <source>Ban message</source>
+    <target>Бан-сообщение</target>
+</phrase>
+<phrase>
+    <source>Rejoin to conference</source>
+    <target>Войти в конференцию</target>
+</phrase>
+<phrase>
+    <source>Save to bookmarks</source>
+    <target>Сохранить в закладки</target>
+</phrase>
+<phrase>
+    <source>Room configuration</source>
+    <target>Конфигурация комнаты</target>
+</phrase>
+<phrase>
+    <source>Room participants</source>
+    <target>Участники комнаты</target>
+</phrase>
+<phrase>
+    <source>Room configuration: %1</source>
+    <target>Конфигурация комнаты: %1</target>
+</phrase>
+<phrase>
+    <source>Room participants: %1</source>
+    <target>Участники комнаты: %1</target>
+</phrase>
+<phrase>
+    <source>Room participants: %1</source>
+    <target>Участники комнаты: %1</target>
+</phrase>
+<phrase>
+    <source>Join groupchat on</source>
+    <target>Войти в конференцию</target>
+</phrase>
+<phrase>
+    <source>Login</source>
+    <target>Вход</target>
+</phrase>
+<phrase>
+    <source>Room configuration: %1</source>
+    <target>Настройки комнаты: %1</target>
+</phrase>
+<phrase>
+    <source>Invite to groupchat</source>
+    <target>Пригласить в конференцию</target>
+</phrase>
+<phrase>
+    <source> member</source>
+    <target>участник</target>
+</phrase>
+<phrase>
+    <source> owner</source>
+    <target>владелец</target>
+</phrase>
+<phrase>
+    <source> administrator</source>
+    <target>администратор</target>
+</phrase>
+<phrase>
+    <source> registered member</source>
+    <target>регистрированный</target>
+</phrase>
+<phrase>
+    <source> member</source>
+    <target>участник</target>
+</phrase>
+<phrase>
+    <source> visitor</source>
+    <target>посетитель</target>
+</phrase>
+<phrase>
+    <source>Forbidden: Access denied, user is banned.</source>
+    <target>Запрещено: Доступ закрыт, пользователь заблокирован.</target>
+</phrase>
+<phrase>
+    <source>You has been banned at %1
+</source>
+    <target>Вы были заблкированы %1
+</target>
+</phrase>
+<phrase>
+    <source>with reason: %1</source>
+    <target>по причине: %1</target>
+</phrase>
+<phrase>
+    <source>with reason: %1</source>
+    <target>по причине: %1</target>
+</phrase>
+<phrase>
+    <source>You has been kicked from %1
+</source>
+    <target>Вас выкинули из  %1
+</target>
+</phrase>
+<phrase>
+    <source>Do you want to rejoin?</source>
+    <target>Желаете перезайти?</target>
+</phrase>
+<phrase>
+    <source>has joined the room</source>
+    <target>вошел в комнату</target>
+</phrase>
+<phrase>
+    <source> as</source>
+    <target>как</target>
+</phrase>
+<phrase>
+    <source> owner</source>
+    <target>владелец</target>
+</phrase>
+<phrase>
+    <source> administrator</source>
+    <target>администратор</target>
+</phrase>
+<phrase>
+    <source>%1 now is</source>
+    <target>%1 теперь</target>
+</phrase>
+<phrase>
+    <source>Subject:
+%1</source>
+    <target>Тема:
+%1</target>
+</phrase>
+<phrase>
+    <source>Not authorized: Password required.</source>
+    <target>Не авторизован: Требуется пароль.</target>
+</phrase>
+<phrase>
+    <source>Forbidden: Access denied, user is banned.</source>
+    <target>Запрещено: Доступ закрыт, пользователь заблокирован.</target>
+</phrase>
+<phrase>
+    <source>Item not found: The room does not exist.</source>
+    <target>Пункт не найден: Комната не существует.</target>
+</phrase>
+<phrase>
+    <source>Not allowed: Room creation is restricted.</source>
+    <target>Не разрешено: Создание комнат ограничено.</target>
+</phrase>
+<phrase>
+    <source>Not acceptable: Room nicks are locked down.</source>
+    <target>Недопустимо: Ники в комнате заблокированы.</target>
+</phrase>
+<phrase>
+    <source>Registration required: User is not on the member list.</source>
+    <target>Требуется регистрация: Пользователь не в списке регистрированных.</target>
+</phrase>
+<phrase>
+    <source>Conflict: Desired room nickname is in use or registered by another user.</source>
+    <target>Конфликт: Желаемый ник используется в комнате или зарегистрирован другим пользователем.</target>
+</phrase>
+<phrase>
+    <source>Service unavailable: Maximum number of users has been reached.</source>
+    <target>Служба не доступна. Достугнуто предельное число пользователей.</target>
+</phrase>
+<phrase>
+    <source>Unknown error: No description.</source>
+    <target>Неизвестна ошибка: Нет описания.</target>
+</phrase>
+<phrase>
+    <source>Join groupchat on</source>
+    <target>Войти в конференцию on</target>
+</phrase>
+<phrase>
+    <source>Editing %1</source>
+    <target>Правка %1</target>
+</phrase>
+<phrase>
+    <source>Form</source>
+    <target>Настройки</target>
+</phrase>
+<phrase>
+    <source>General</source>
+    <target>Главные</target>
+</phrase>
+<phrase>
+    <source>Password:</source>
+    <target>Пароль:</target>
+</phrase>
+<phrase>
+    <source>Autoconnect on start</source>
+    <target>Автоматически подключаться</target>
+</phrase>
+<phrase>
+    <source>Keep-alive every:</source>
+    <target>Поддерживать подключение:</target>
+</phrase>
+<phrase>
+    <source> s</source>
+    <target>с</target>
+</phrase>
+<phrase>
+    <source>Refresh friend list every:</source>
+    <target>Обновлять список друзей каждые:</target>
+</phrase>
+<phrase>
+    <source>Show status text in contact list</source>
+    <target>Показывать статусы в списке контактов</target>
+</phrase>
+<phrase>
+    <source>Check for new messages every:</source>
+    <target>Проверять сообщения каждые:</target>
+</phrase>
+<phrase>
+    <source>Updates</source>
+    <target>Обновления</target>
+</phrase>
+<phrase>
+    <source>Check for friends updates every:</source>
+    <target>Проверять друзей каждые:</target>
+</phrase>
+<phrase>
+    <source>Enable friends photo updates notifications</source>
+    <target>Уведомлять о смене фото друга</target>
+</phrase>
+<phrase>
+    <source>Insert preview URL on new photos notifications</source>
+    <target>Включать ссылку на превью в уведомление</target>
+</phrase>
+<phrase>
+    <source>Insert fullsize URL on new photos notifications</source>
+    <target>Включать ссылку на фото в уведомление</target>
+</phrase>
+<phrase>
+    <source>OK</source>
+    <target>Ок</target>
+</phrase>
+<phrase>
+    <source>Apply</source>
+    <target>Применить</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>Отмена</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>Отмена</target>
+</phrase>
+<phrase>
+    <source>Form</source>
+    <target>Настройки</target>
+</phrase>
+<phrase>
+    <source>Friends</source>
+    <target>Друзья</target>
+</phrase>
+<phrase>
+    <source>E-mail:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Password:</source>
+    <target>Пароль:</target>
+</phrase>
+<phrase>
+    <source>Autoconnect on start</source>
+    <target>Подключаться при старте</target>
+</phrase>
+<phrase>
+    <source>Friends</source>
+    <target>Друзья</target>
+</phrase>
+<phrase>
+    <source>Favorites</source>
+    <target>Фавориты</target>
+</phrase>
+<phrase>
+    <source>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Status message:&lt;/b&gt;&amp;nbsp;%1&lt;/font</source>
+    <target>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Статус:&lt;/b&gt;&amp;nbsp;%1&lt;/font</target>
+</phrase>
+<phrase>
+    <source>Open user page</source>
+    <target>Открыть страницу пользователя</target>
+</phrase>
+<phrase>
+    <source>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Status message:&lt;/b&gt;%1&lt;/font</source>
+    <target>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Статус:&lt;/b&gt;%1&lt;/font</target>
+</phrase>
+<phrase>
+    <source>Mismatch nick or password</source>
+    <target>Неверный ник или пароль</target>
+</phrase>
+<phrase>
+    <source>Vkontakte.ru updates</source>
+    <target>Vkontakte.ru обновлен</target>
+</phrase>
+<phrase>
+    <source>%1 was tagged on photo</source>
+    <target>%1был отмечен на фото</target>
+</phrase>
+<phrase>
+    <source>%1 added new photo</source>
+    <target>%1 добавил новую фотку</target>
+</phrase>
+<phrase>
+    <source>Online</source>
+    <target>В сети</target>
+</phrase>
+<phrase>
+    <source>Online</source>
+    <target>В сети</target>
+</phrase>
+<phrase>
+    <source>Offline</source>
+    <target>Отключен</target>
+</phrase>
+<phrase>
+    <source>Show status text in contact list</source>
+    <target>Показывать текст статуса в ростере</target>
+</phrase>
+<phrase>
+    <source>Check for new messages every:</source>
+    <target>Проверять новые сообщения каждые:</target>
+</phrase>
+<phrase>
+    <source>Check for friends updates every:</source>
+    <target>Проверять обновления друзей каждые:</target>
+</phrase>
+<phrase>
+    <source>Enable friends photo updates notifications</source>
+    <target>Разрешить уведомления о смене фото у друзей</target>
+</phrase>
+<phrase>
+    <source>Insert preview URL on new photos notifications</source>
+    <target>Вставить ссылку на миниатюру фотографии в уведомление</target>
+</phrase>
+<phrase>
+    <source>Insert fullsize URL on new photos notifications</source>
+    <target>Вставить ссылку на фотографию в уведомление</target>
+</phrase>
 </QPH>
