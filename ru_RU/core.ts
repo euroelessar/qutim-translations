@@ -47,7 +47,7 @@
     <message>
         <location line="+4"/>
         <source>Conference %1 (%2)</source>
-        <translation type="unfinished">Конференция %1 (%2)</translation>
+        <translation>Конференция %1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -55,7 +55,7 @@
     <message>
         <location filename="../../src/corelayers/adiumchat/chatwidget.ui" line="+14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+53"/>
@@ -314,18 +314,18 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/accountcreator/accountcreatorlist.cpp" line="+25"/>
         <source>Add new account</source>
-        <translation type="unfinished">Создать учетную запись</translation>
+        <translation>Создать учетную запись</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Just add or create new account</source>
-        <translation type="unfinished">Просто добавить или создать учетную запись</translation>
+        <translation>Просто добавить или создать учетную запись</translation>
     </message>
     <message>
         <location line="+88"/>
         <source>Edit info</source>
         <translatorcomment>анкету??</translatorcomment>
-        <translation type="unfinished">Править инфо</translation>
+        <translation>Править инфо</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -1093,12 +1093,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/servicechooser/servicechooser.cpp" line="-28"/>
         <source>Service chooser</source>
-        <translation type="unfinished">Выбор служб</translation>
+        <translation>Выбор служб</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>TODO</source>
-        <translation type="unfinished">Задумано</translation>
+        <translation>Задумано</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/idlestatuschanger/idlestatuschanger.cpp" line="+9"/>
@@ -1108,7 +1108,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Change status of accounts by idle</source>
-        <translation type="unfinished">Изменение статуса при простое компьютера</translation>
+        <translation>Изменение статуса при простое компьютера</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/idledetector/idle.cpp" line="+25"/>
@@ -1118,27 +1118,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Native idle detector, based on system api</source>
-        <translation type="unfinished">Детектор простоя, основан на системном API</translation>
+        <translation>Детектор простоя, основан на системном API</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/NoCryptoService/nocryptoservice.cpp" line="+7"/>
         <source>No crypto</source>
-        <translation type="unfinished">Без шифрования</translation>
+        <translation>Без шифрования</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Store passwords in plaintext. Easy to read. Easy to recover.</source>
-        <translation type="unfinished">Хранение паролей простым текстом. Прост в использовании. Прост в востановлении.</translation>
+        <translation>Хранение паролей простым текстом. Прост в использовании. Прост в востановлении.</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/filetransfer/simplefiletransfer.cpp" line="-8"/>
         <source>File transfer menager</source>
-        <translation type="unfinished">Менеджер передачи фацлов</translation>
+        <translation>Менеджер передачи фацлов</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Default qutIM file transfer manager</source>
-        <translation type="unfinished">Модуль qutIM для передачи файлов (по умолчанию)</translation>
+        <translation>Модуль qutIM для передачи файлов (по умолчанию)</translation>
     </message>
     <message>
         <location filename="../../examples/autosettingsitem/autosettings.cpp" line="+9"/>
@@ -1349,7 +1349,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/servicechooser/servicechooserwidget.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+12"/>
@@ -1434,47 +1434,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../libqutim/shortcut.cpp" line="+72"/>
         <source>Close</source>
-        <translation type="unfinished">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Next child</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Следующий потомок</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Previous child</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Предыдущий потомок</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Find</source>
-        <translation type="unfinished">Поиск</translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Find next</source>
-        <translation type="unfinished">Найти далее</translation>
+        <translation>Найти далее</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Find previous</source>
-        <translation type="unfinished">Найти предыдущее</translation>
+        <translation>Найти предыдущее</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Preferences</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Quit</source>
-        <translation type="unfinished">Выход</translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>System</source>
-        <translation type="unfinished">Система</translation>
+        <translation>Система</translation>
     </message>
 </context>
 <context>
@@ -1722,6 +1722,19 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Find</source>
         <translation type="obsolete">Поиск</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::ModuleManager</name>
+    <message>
+        <location filename="../../libqutim/modulemanager.cpp" line="+265"/>
+        <source>Library: %1</source>
+        <translation type="unfinished">Библиотека: %1</translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Plugin: %1</source>
+        <translation type="unfinished">Плагин: %1</translation>
     </message>
 </context>
 <context>
