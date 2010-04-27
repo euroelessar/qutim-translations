@@ -6,12 +6,12 @@
     <message>
         <location filename="../../src/yandexnarod.cpp" line="+32"/>
         <source>Yandex Narod</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send files via Yandex.Narod filehosting service</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить файл через Диск Яндекса</translation>
     </message>
 </context>
 <context>
@@ -24,7 +24,7 @@
     <message>
         <location line="+11"/>
         <source>Yandex Narod</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -32,17 +32,17 @@
     <message>
         <location filename="../../src/yandexnarodauthorizator.cpp" line="+70"/>
         <source>Has no login or password</source>
-        <translation type="unfinished">Не указан ник или пароль</translation>
+        <translation>Не указан ник или пароль</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Authorization succeed</source>
-        <translation type="unfinished">Авторизация выполнена</translation>
+        <translation>Авторизация выполнена</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Authorization failured</source>
-        <translation type="unfinished">Не удалось авторизоваться</translation>
+        <translation>Не удалось авторизоваться</translation>
     </message>
 </context>
 <context>
@@ -50,7 +50,7 @@
     <message>
         <location filename="../../src/yandexnarodmanage.cpp" line="+25"/>
         <source>Yandex.Narod file manager</source>
-        <translation type="unfinished">Управление файлами Yandex.Narod</translation>
+        <translation>Управление файлами Yandex.Narod</translation>
     </message>
 </context>
 <context>
@@ -58,7 +58,7 @@
     <message>
         <location filename="../../src/yandexnarodnetman.cpp" line="+139"/>
         <source>Authorizing...</source>
-        <translation type="unfinished">Авторизация...</translation>
+        <translation>Авторизация...</translation>
     </message>
 </context>
 <context>
@@ -67,27 +67,27 @@
         <location filename="../../src/yandexnarodsettings.ui" line="+14"/>
         <location line="+10"/>
         <source>Settings</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Password</source>
-        <translation type="unfinished">пароль</translation>
+        <translation>пароль</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Login</source>
-        <translation type="unfinished">Логин</translation>
+        <translation>Логин</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Test Authorization</source>
-        <translation type="unfinished">Проверить логин</translation>
+        <translation>Проверить логин</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>status</source>
-        <translation type="unfinished">статус</translation>
+        <translation>статус</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -101,17 +101,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+11"/>
         <source>Send file template</source>
-        <translation type="unfinished">Шаблон сообщения</translation>
+        <translation>Шаблон сообщения</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>%N - file name; %U - file URL; %S - file size</source>
-        <translation type="unfinished">%N -имя файла; %U - ссылка; %S - размер файла</translation>
+        <translation>%N -имя файла; %U - ссылка; %S - размер файла</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>About</source>
-        <translation type="unfinished">О плагине</translation>
+        <translation>О плагине</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -131,7 +131,7 @@ p, li { white-space: pre-wrap; }
 &lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Bitstream Vera Sans&apos;; text-decoration: underline; color:#000000;&quot;&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Bitstream Vera Sans&apos;; text-decoration: underline; color:#000000;&quot;&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; color:#000000;&quot;&gt;(c) 2008-2009&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Tahoma&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -154,42 +154,42 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/uploaddialog.cpp" line="+118"/>
         <source>Choose file for %1</source>
-        <translation type="unfinished">Выберите файл для %1</translation>
+        <translation>Выберите файл для %1</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Choose file for uploading</source>
-        <translation type="unfinished">Выберите файл для загрузки</translation>
+        <translation>Выберите файл для загрузки</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Authorizing...</source>
-        <translation type="unfinished">Авторизация...</translation>
+        <translation>Авторизация...</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Getting storage...</source>
-        <translation type="unfinished">Получение хранилища...</translation>
+        <translation>Получение хранилища...</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Uploading...</source>
-        <translation type="unfinished">Загрузка на сервер...</translation>
+        <translation>Загрузка на сервер...</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>Will finish in: %1m %2s</source>
-        <translation type="unfinished">Будет закончено через %1м %2с</translation>
+        <translation>Будет закончено через %1м %2с</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Upload complete.</source>
-        <translation type="unfinished">Загрузка на сервер завершена.</translation>
+        <translation>Загрузка на сервер завершена.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Finish</source>
-        <translation type="unfinished">Завершить</translation>
+        <translation>Завершить</translation>
     </message>
     <message>
         <location filename="../../src/uploaddialog.h" line="+86"/>
@@ -207,27 +207,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/requestauthdialog.ui" line="+26"/>
         <source>Authorization</source>
-        <translation type="unfinished">Авторизация</translation>
+        <translation>Авторизация</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Login:</source>
-        <translation type="unfinished">Логин:</translation>
+        <translation>Логин:</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Password:</source>
-        <translation type="unfinished">Пароль:</translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Remember</source>
-        <translation type="unfinished">Запомнить</translation>
+        <translation>Запомнить</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Captcha:</source>
-        <translation type="unfinished">Капча:</translation>
+        <translation>Капча:</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -240,27 +240,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/uploaddialog.ui" line="+20"/>
         <source>Uploading...</source>
-        <translation type="unfinished">Загрузка на сервер...</translation>
+        <translation>Загрузка на сервер...</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Upload started.</source>
-        <translation type="unfinished">Выгрузка запущена.</translation>
+        <translation>Выгрузка запущена.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>File: </source>
-        <translation type="unfinished">файл:</translation>
+        <translation>файл:</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Progress:</source>
-        <translation type="unfinished">Прогресс:</translation>
+        <translation>Прогресс:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Will finish in:</source>
-        <translation type="unfinished">Будет завершено в:</translation>
+        <translation>Будет завершено в:</translation>
     </message>
     <message>
         <source>Elapsed time:</source>
@@ -269,12 +269,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+7"/>
         <source>Speed:</source>
-        <translation type="unfinished">Скорость:</translation>
+        <translation>Скорость:</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Cancel</source>
-        <translation type="unfinished">Отменить</translation>
+        <translation>Отменить</translation>
     </message>
 </context>
 <context>
@@ -282,32 +282,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/yandexnarodmanage.ui" line="+20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Get Filelist</source>
-        <translation type="unfinished">Получить список</translation>
+        <translation>Получить список</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Upload File</source>
-        <translation type="unfinished">Загрузить файл</translation>
+        <translation>Загрузить файл</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Actions:</source>
-        <translation type="unfinished">Действия:</translation>
+        <translation>Действия:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Clipboard</source>
-        <translation type="unfinished">Ссылку в буфер</translation>
+        <translation>Ссылку в буфер</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Delete File</source>
-        <translation type="unfinished">Удалить файл</translation>
+        <translation>Удалить файл</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -318,12 +318,12 @@ line2</source>
     <message>
         <location line="+42"/>
         <source>Close</source>
-        <translation type="unfinished">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Files list:</source>
-        <translation type="unfinished">Список файлов:</translation>
+        <translation>Список файлов:</translation>
     </message>
     <message>
         <location line="+17"/>
