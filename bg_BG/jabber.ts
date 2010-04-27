@@ -26,6 +26,11 @@
         <source>Ban</source>
         <translation>Забрана (Ban)</translation>
     </message>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+108"/>
+        <source>Real JID</source>
+        <translation>Реален JID</translation>
+    </message>
 </context>
 <context>
     <name>Contact</name>
@@ -35,7 +40,8 @@
         <translation>Ресурс</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+5"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+3"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
@@ -702,36 +708,31 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCSession</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+174"/>
         <source>%1 has been banned</source>
-        <translation>На %1 бе наложена забрана</translation>
+        <translation type="obsolete">На %1 бе наложена забрана</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>You has been banned at %1
 </source>
-        <translation>Беше ви наложена забрана за %1
+        <translation type="obsolete">Беше ви наложена забрана за %1
 </translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>with reason: %1</source>
-        <translation>по следната причина: %1</translation>
+        <translation type="obsolete">по следната причина: %1</translation>
     </message>
     <message>
-        <location line="-8"/>
         <source>%1 has been kicked</source>
-        <translation>%1 беше изритан</translation>
+        <translation type="obsolete">%1 беше изритан</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>You has been kicked from %1
 </source>
-        <translation>Бяхте изритан от %1
+        <translation type="obsolete">Бяхте изритан от %1
 </translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+183"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете ли да се присъедините повторно?</translation>
     </message>
@@ -741,17 +742,15 @@ Accept invitation?</source>
         <translation>Бяхте изритан</translation>
     </message>
     <message>
-        <location line="+16"/>
         <source>%1 is now known as %2</source>
-        <translation>%1 сега се подвизава като %2</translation>
+        <translation type="obsolete">%1 сега се подвизава като %2</translation>
     </message>
     <message>
-        <location line="+14"/>
         <source>has joined the room</source>
-        <translation>влезе в стаята</translation>
+        <translation type="obsolete">влезе в стаята</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+35"/>
         <location line="+2"/>
         <location line="+2"/>
         <location line="+2"/>
@@ -761,49 +760,101 @@ Accept invitation?</source>
     </message>
     <message>
         <location line="-8"/>
-        <location line="+28"/>
+        <location line="+25"/>
         <source> owner</source>
         <translation> собственик</translation>
     </message>
     <message>
-        <location line="-26"/>
-        <location line="+28"/>
+        <location line="-23"/>
+        <location line="+25"/>
         <source> administrator</source>
         <translation> администратор</translation>
     </message>
     <message>
-        <location line="-26"/>
-        <location line="+28"/>
+        <location line="-23"/>
+        <location line="+25"/>
         <source> registered member</source>
         <translation> регистриран член</translation>
     </message>
     <message>
-        <location line="-26"/>
-        <location line="+28"/>
+        <location line="-23"/>
+        <location line="+25"/>
         <source> member</source>
         <translation> член</translation>
     </message>
     <message>
-        <location line="-26"/>
-        <location line="+28"/>
+        <location line="-23"/>
+        <location line="+25"/>
         <source> visitor</source>
         <translation>.посетител</translation>
     </message>
     <message>
-        <location line="-18"/>
         <source>%1 has left the room</source>
-        <translation>%1 напусна стаята</translation>
+        <translation type="obsolete">%1 напусна стаята</translation>
+    </message>
+    <message>
+        <source>%1 now is</source>
+        <translation type="obsolete">%1 сега е</translation>
+    </message>
+    <message>
+        <source>Subject:
+%1</source>
+        <translation type="obsolete">Тема: %1</translation>
+    </message>
+    <message>
+        <location line="-78"/>
+        <source> has been banned</source>
+        <translation> е с наложена забрана</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source> has been kicked</source>
+        <translation> беше изритан</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>You has been banned at </source>
+        <translation>Беше ви наложена забрана за </translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>You has been kicked from </source>
+        <translation>Бяхте изритан от </translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>with reason: </source>
+        <translation>по следната причина: </translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>You have been banned</source>
+        <translation>Беше ви наложена забрана</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source> is now known as </source>
+        <translation> сега се подвизава като </translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source> has joined the room</source>
+        <translation> влезе в стаята</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source> has left the room</source>
+        <translation> напусна стаята</translation>
     </message>
     <message>
         <location line="+8"/>
-        <source>%1 now is</source>
-        <translation>%1 сега е</translation>
+        <source> now is</source>
+        <translation> сега е</translation>
     </message>
     <message>
-        <location line="+96"/>
-        <source>Subject:
-%1</source>
-        <translation>Тема: %1</translation>
+        <location line="+97"/>
+        <source>Subject:</source>
+        <translation>Тема:</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -852,8 +903,12 @@ Accept invitation?</source>
     </message>
     <message>
         <location line="+6"/>
+        <source>Join groupchat on </source>
+        <translation>Присъединяване към групов разговор за </translation>
+    </message>
+    <message>
         <source>Join groupchat on</source>
-        <translation>Присъединяване към групов разговор за</translation>
+        <translation type="obsolete">Присъединяване към групов разговор за</translation>
     </message>
 </context>
 <context>
