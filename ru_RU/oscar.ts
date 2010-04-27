@@ -190,7 +190,7 @@
     <message>
         <location filename="../../plugins/identify/clientidentify.cpp" line="+38"/>
         <source>Alexey Ignatiev</source>
-        <translation type="unfinished">Алексей Игнатьев</translation>
+        <translation>Алексей Игнатьев</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -585,7 +585,7 @@
     <message>
         <location filename="../../plugins/identify/clientidentify.cpp" line="+133"/>
         <source>Possible client</source>
-        <translation type="unfinished">Возможный клиент</translation>
+        <translation>Возможный клиент</translation>
     </message>
     <message>
         <location filename="../../src/authorization.cpp" line="+15"/>
@@ -3783,163 +3783,163 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../plugins/xstatus/xstatus.cpp" line="-122"/>
         <source>Angry</source>
-        <translation type="unfinished">Злой</translation>
+        <translation>Злой</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Taking a bath</source>
-        <translation type="unfinished">Принимаю душ/ванну</translation>
+        <translation>Принимаю душ/ванну</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Tired</source>
-        <translation type="unfinished">Устал</translation>
+        <translation>Устал</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Party</source>
-        <translation type="unfinished">Вечеринка</translation>
+        <translation>Вечеринка</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Drinking beer</source>
-        <translation type="unfinished">Пью пиво</translation>
+        <translation>Пью пиво</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Thinking</source>
-        <translation type="unfinished">Думаю</translation>
+        <translation>Думаю</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Eating</source>
-        <translation type="unfinished">Ем</translation>
+        <translation>Ем</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Watching TV</source>
-        <translation type="unfinished">Смотрю ТВ</translation>
+        <translation>Смотрю ТВ</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Meeting</source>
-        <translation type="unfinished">Встреча</translation>
+        <translation>Встреча</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Coffee</source>
-        <translation type="unfinished">Кофе</translation>
+        <translation>Кофе</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Listening to music</source>
-        <translation type="unfinished">Слушаю музыку</translation>
+        <translation>Слушаю музыку</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Business</source>
-        <translation type="unfinished">Дела</translation>
+        <translation>Дела</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Shooting</source>
-        <translation type="unfinished">Кино</translation>
+        <translation>Кино</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Having fun</source>
-        <translation type="unfinished">Развлекаюсь</translation>
+        <translation>Развлекаюсь</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>On the phone</source>
-        <translation type="unfinished">На телефоне</translation>
+        <translation>На телефоне</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Gaming</source>
-        <translation type="unfinished">Играю</translation>
+        <translation>Играю</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Studying</source>
-        <translation type="unfinished">Учусь</translation>
+        <translation>Учусь</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Shopping</source>
-        <translation type="unfinished">Покупки</translation>
+        <translation>Покупки</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Feeling sick</source>
-        <translation type="unfinished">Приболел</translation>
+        <translation>Приболел</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sleeping</source>
-        <translation type="unfinished">Сплю</translation>
+        <translation>Сплю</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Surfing</source>
-        <translation type="unfinished">Отрываюсь</translation>
+        <translation>Отрываюсь</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Browsing</source>
-        <translation type="unfinished">В интернете</translation>
+        <translation>В интернете</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Working</source>
-        <translation type="unfinished">Работаю</translation>
+        <translation>Работаю</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Typing</source>
-        <translation type="unfinished">Печатаю</translation>
+        <translation>Печатаю</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Picnic</source>
-        <translation type="unfinished">Пикник</translation>
+        <translation>Пикник</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cooking</source>
-        <translation type="unfinished">Готовлю</translation>
+        <translation>Готовлю</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Smoking</source>
-        <translation type="unfinished">Курю</translation>
+        <translation>Курю</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>I&apos;m high</source>
         <translatorcomment>полудурок</translatorcomment>
-        <translation type="unfinished">Я высокий</translation>
+        <translation>Я высокий</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>On WC</source>
-        <translation type="unfinished">В туалете</translation>
+        <translation>В туалете</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>To be or not to be</source>
-        <translation type="unfinished">Быть или не быть</translation>
+        <translation>Быть или не быть</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Watching pro7 on TV</source>
-        <translation type="unfinished">Смотрю pro7 на ТВ</translation>
+        <translation>Смотрю pro7 на ТВ</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Love</source>
-        <translation type="unfinished">Любовь</translation>
+        <translation>Любовь</translation>
     </message>
     <message>
         <location line="+172"/>
