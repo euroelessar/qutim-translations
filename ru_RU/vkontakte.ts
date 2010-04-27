@@ -22,7 +22,7 @@
     <message>
         <location filename="../../core/edditaccount.ui" line="+14"/>
         <source>Form</source>
-        <translation></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -112,7 +112,7 @@
     <message>
         <location filename="../../core/loginform.ui" line="+14"/>
         <source>Form</source>
-        <translation></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -239,17 +239,17 @@
     <message>
         <location line="+126"/>
         <source>Vkontakte.ru updates</source>
-        <translation>ВТентакле обновлён</translation>
+        <translation type="unfinished">ВТентакле обновлён</translation>
     </message>
     <message>
         <location line="+210"/>
         <source>%1 was tagged on photo</source>
-        <translation>%1 отметил на фото</translation>
+        <translation type="unfinished">%1 отметил на фото</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>%1 added new photo</source>
-        <translation>%1 добавил фотографию</translation>
+        <translation type="unfinished">%1 добавил фотографию</translation>
     </message>
 </context>
 <context>
@@ -257,12 +257,12 @@
     <message>
         <location filename="../../core/vstatusobject.cpp" line="+32"/>
         <source>Online</source>
-        <translation>В сети</translation>
+        <translation type="unfinished">В сети</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Offline</source>
-        <translation>Отключен</translation>
+        <translation type="unfinished">Отключен</translation>
     </message>
 </context>
 </TS>
