@@ -759,37 +759,37 @@ Accept invitation?</source>
         <location line="+2"/>
         <location line="+2"/>
         <source> as</source>
-        <translation>как</translation>
+        <translation type="unfinished"> как</translation>
     </message>
     <message>
         <location line="-8"/>
         <location line="+25"/>
         <source> owner</source>
-        <translation>владелец</translation>
+        <translation type="unfinished"> владелец</translation>
     </message>
     <message>
         <location line="-23"/>
         <location line="+25"/>
         <source> administrator</source>
-        <translation>администратор</translation>
+        <translation type="unfinished"> администратор</translation>
     </message>
     <message>
         <location line="-23"/>
         <location line="+25"/>
         <source> registered member</source>
-        <translation>регистрированный</translation>
+        <translation type="unfinished"> регистрированный</translation>
     </message>
     <message>
         <location line="-23"/>
         <location line="+25"/>
         <source> member</source>
-        <translation>участник</translation>
+        <translation type="unfinished"> участник</translation>
     </message>
     <message>
         <location line="-23"/>
         <location line="+25"/>
         <source> visitor</source>
-        <translation>посетитель</translation>
+        <translation type="unfinished"> посетитель</translation>
     </message>
     <message>
         <source>%1 has left the room</source>
@@ -808,12 +808,12 @@ Accept invitation?</source>
     <message>
         <location line="-78"/>
         <source> has been banned</source>
-        <translation type="unfinished">был заблокирован</translation>
+        <translation type="unfinished"> был заблокирован</translation>
     </message>
     <message>
         <location line="+0"/>
         <source> has been kicked</source>
-        <translation type="unfinished">был выкинут</translation>
+        <translation type="unfinished"> был выкинут</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -838,22 +838,22 @@ Accept invitation?</source>
     <message>
         <location line="+11"/>
         <source> is now known as </source>
-        <translation type="unfinished">теперь известен как</translation>
+        <translation type="unfinished"> теперь известен как</translation>
     </message>
     <message>
         <location line="+18"/>
         <source> has joined the room</source>
-        <translation type="unfinished">вошел в комнату</translation>
+        <translation type="unfinished"> вошел в комнату</translation>
     </message>
     <message>
         <location line="+17"/>
         <source> has left the room</source>
-        <translation type="unfinished">покинул комнату</translation>
+        <translation type="unfinished"> покинул комнату</translation>
     </message>
     <message>
         <location line="+8"/>
         <source> now is</source>
-        <translation type="unfinished">теперь</translation>
+        <translation type="unfinished"> теперь</translation>
     </message>
     <message>
         <location line="+97"/>
@@ -1125,12 +1125,12 @@ Accept invitation?</source>
     <message>
         <location line="+1"/>
         <source>Account creator for Jabber protocol</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Создание учетной записи Jabber/XMPP</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>LiveJournal account creator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Создание учетной записи LiveJournal / ЖЖшечка</translation>
     </message>
     <message>
         <location line="+1"/>
