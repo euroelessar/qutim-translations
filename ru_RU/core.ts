@@ -219,51 +219,61 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="+84"/>
-        <location line="+175"/>
+        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="+217"/>
+        <location filename="../../src/corelayers/contactinfo/readonlyinfolayout.cpp" line="+64"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
     <message>
-        <location line="-174"/>
-        <location line="+175"/>
+        <location line="+1"/>
+        <location filename="../../src/corelayers/contactinfo/readonlyinfolayout.cpp" line="+1"/>
         <source>no</source>
         <translation>Нет</translation>
     </message>
     <message>
-        <location line="-155"/>
+        <location filename="../../src/corelayers/contactinfo/readonlyinfolayout.cpp" line="+23"/>
         <source>the field is not set</source>
         <translation>-</translation>
     </message>
     <message>
-        <location line="+47"/>
+        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="-165"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>Информация о %1 &lt;%2&gt;</translation>
     </message>
     <message>
-        <location line="+55"/>
+        <location line="+6"/>
+        <source>About account %1</source>
+        <translation type="unfinished">О учетной записи %1</translation>
+    </message>
+    <message>
+        <location line="+93"/>
         <source>Summary</source>
         <translation>Краткая сводка</translation>
     </message>
     <message>
-        <location line="+20"/>
+        <location line="+30"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
     <message>
-        <location line="+45"/>
+        <location line="+48"/>
         <source>Show information</source>
         <translation>Показать информацию</translation>
     </message>
     <message>
+        <location line="+4"/>
+        <source>Edit information</source>
+        <translation type="unfinished">Править инфо</translation>
+    </message>
+    <message>
         <location filename="../../src/corelayers/authdialog/authdialogimpl_p.h" line="+23"/>
         <source>Recieved authorizarion request from %1:</source>
-        <translation>Принята авторизация от %1:</translation>
+        <translation type="unfinished">Принята авторизация от %1:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Send authorizarion request to %1:</source>
-        <translation>Отправить запрос авторизации  %1:</translation>
+        <translation type="unfinished">Отправить запрос авторизации  %1:</translation>
     </message>
 </context>
 <context>
@@ -739,7 +749,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/idlestatuschanger/idlestatuswidget.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -1077,7 +1087,7 @@ p, li { white-space: pre-wrap; }
         <translation>Простой модуль для размещения иконки qutIM в трее</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="-248"/>
+        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="-219"/>
         <source>Simple information window about a contact</source>
         <translation>Простое информационное окно о контакте</translation>
     </message>
@@ -1426,7 +1436,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../examples/simplesettingsdialog/settingsdialog.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
 </context>
 <context>
@@ -1439,12 +1449,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+16"/>
         <source>Next child</source>
-        <translation type="unfinished">Следующий потомок</translation>
+        <translation>Следующий потомок</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Previous child</source>
-        <translation type="unfinished">Предыдущий потомок</translation>
+        <translation>Предыдущий потомок</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1729,12 +1739,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../libqutim/modulemanager.cpp" line="+265"/>
         <source>Library: %1</source>
-        <translation type="unfinished">Библиотека: %1</translation>
+        <translation>Библиотека: %1</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Plugin: %1</source>
-        <translation type="unfinished">Плагин: %1</translation>
+        <translation>Плагин: %1</translation>
     </message>
 </context>
 <context>

@@ -3771,4 +3771,64 @@ Accept invitation?</source>
     <source>Insert fullsize URL on new photos notifications</source>
     <target>Вставить ссылку на фотографию в уведомление</target>
 </phrase>
+<phrase>
+    <source> has been banned</source>
+    <target>был заблокирован</target>
+</phrase>
+<phrase>
+    <source> has been kicked</source>
+    <target>был выкинут</target>
+</phrase>
+<phrase>
+    <source>You has been banned at </source>
+    <target>Вы были завлокированы в</target>
+</phrase>
+<phrase>
+    <source>You has been kicked from </source>
+    <target>Вы были выкинуты из</target>
+</phrase>
+<phrase>
+    <source>You has been banned at </source>
+    <target>Вы были завлокированы в</target>
+</phrase>
+<phrase>
+    <source>with reason: </source>
+    <target>с причиной:</target>
+</phrase>
+<phrase>
+    <source> is now known as </source>
+    <target>теперь известен как</target>
+</phrase>
+<phrase>
+    <source> has joined the room</source>
+    <target>вошел в комнату</target>
+</phrase>
+<phrase>
+    <source> has left the room</source>
+    <target>покинул комнату</target>
+</phrase>
+<phrase>
+    <source> now is</source>
+    <target>теперь</target>
+</phrase>
+<phrase>
+    <source>Subject:</source>
+    <target>Тема:</target>
+</phrase>
+<phrase>
+    <source>Join groupchat on </source>
+    <target>Войти в конференцию on</target>
+</phrase>
+<phrase>
+    <source>Enter kick reason for %1</source>
+    <target>Укажите причину кика %1</target>
+</phrase>
+<phrase>
+    <source>Enter ban reason for %1</source>
+    <target>Укажите причину блокировки %1</target>
+</phrase>
+<phrase>
+    <source>Send</source>
+    <target>Отправить</target>
+</phrase>
 </QPH>

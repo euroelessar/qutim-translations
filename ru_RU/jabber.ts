@@ -26,6 +26,11 @@
         <source>Ban</source>
         <translation>Бан</translation>
     </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucuser.cpp" line="+108"/>
+        <source>Real JID</source>
+        <translation type="unfinished">Настоящий JID</translation>
+    </message>
 </context>
 <context>
     <name>Contact</name>
@@ -35,7 +40,8 @@
         <translation>Ресурс</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../src/protocol/account/muc/jmucuser.cpp" line="+3"/>
+        <location filename="../../src/protocol/account/roster/jcontact.cpp" line="+5"/>
         <source>Possible client</source>
         <translation>Возможный клиент</translation>
     </message>
@@ -224,7 +230,7 @@
     <message>
         <location filename="../../src/protocol/jmainsettings.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -705,36 +711,31 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCSession</name>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="+174"/>
         <source>%1 has been banned</source>
-        <translation>%1 был забанен</translation>
+        <translation type="obsolete">%1 был забанен</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>You has been banned at %1
 </source>
-        <translation>Вы были заблкированы %1
+        <translation type="obsolete">Вы были заблкированы %1
 </translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>with reason: %1</source>
-        <translation>по причине: %1</translation>
+        <translation type="obsolete">по причине: %1</translation>
     </message>
     <message>
-        <location line="-8"/>
         <source>%1 has been kicked</source>
-        <translation>%1 был кикнут</translation>
+        <translation type="obsolete">%1 был кикнут</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>You has been kicked from %1
 </source>
-        <translation>Вас выкинули из  %1
+        <translation type="obsolete">Вас выкинули из  %1
 </translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="+183"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете перезайти?</translation>
     </message>
@@ -744,17 +745,15 @@ Accept invitation?</source>
         <translation>Вы были кикнуты</translation>
     </message>
     <message>
-        <location line="+16"/>
         <source>%1 is now known as %2</source>
-        <translation>%1 теперь известен как %2</translation>
+        <translation type="obsolete">%1 теперь известен как %2</translation>
     </message>
     <message>
-        <location line="+14"/>
         <source>has joined the room</source>
-        <translation>вошел в комнату</translation>
+        <translation type="obsolete">вошел в комнату</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+35"/>
         <location line="+2"/>
         <location line="+2"/>
         <location line="+2"/>
@@ -764,50 +763,102 @@ Accept invitation?</source>
     </message>
     <message>
         <location line="-8"/>
-        <location line="+28"/>
+        <location line="+25"/>
         <source> owner</source>
         <translation>владелец</translation>
     </message>
     <message>
-        <location line="-26"/>
-        <location line="+28"/>
+        <location line="-23"/>
+        <location line="+25"/>
         <source> administrator</source>
         <translation>администратор</translation>
     </message>
     <message>
-        <location line="-26"/>
-        <location line="+28"/>
+        <location line="-23"/>
+        <location line="+25"/>
         <source> registered member</source>
         <translation>регистрированный</translation>
     </message>
     <message>
-        <location line="-26"/>
-        <location line="+28"/>
+        <location line="-23"/>
+        <location line="+25"/>
         <source> member</source>
         <translation>участник</translation>
     </message>
     <message>
-        <location line="-26"/>
-        <location line="+28"/>
+        <location line="-23"/>
+        <location line="+25"/>
         <source> visitor</source>
         <translation>посетитель</translation>
     </message>
     <message>
-        <location line="-18"/>
         <source>%1 has left the room</source>
-        <translation>%1 покинул комнату</translation>
+        <translation type="obsolete">%1 покинул комнату</translation>
+    </message>
+    <message>
+        <source>%1 now is</source>
+        <translation type="obsolete">%1 теперь</translation>
+    </message>
+    <message>
+        <source>Subject:
+%1</source>
+        <translation type="obsolete">Тема:
+%1</translation>
+    </message>
+    <message>
+        <location line="-78"/>
+        <source> has been banned</source>
+        <translation type="unfinished">был заблокирован</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source> has been kicked</source>
+        <translation type="unfinished">был выкинут</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>You has been banned at </source>
+        <translation type="unfinished">Вы были завлокированы в</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>You has been kicked from </source>
+        <translation type="unfinished">Вы были выкинуты из</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>with reason: </source>
+        <translation type="unfinished">с причиной:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>You have been banned</source>
+        <translation>Вы были забанены</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source> is now known as </source>
+        <translation type="unfinished">теперь известен как</translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source> has joined the room</source>
+        <translation type="unfinished">вошел в комнату</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source> has left the room</source>
+        <translation type="unfinished">покинул комнату</translation>
     </message>
     <message>
         <location line="+8"/>
-        <source>%1 now is</source>
-        <translation>%1 теперь</translation>
+        <source> now is</source>
+        <translation type="unfinished">теперь</translation>
     </message>
     <message>
-        <location line="+96"/>
-        <source>Subject:
-%1</source>
-        <translation>Тема:
-%1</translation>
+        <location line="+97"/>
+        <source>Subject:</source>
+        <translation type="unfinished">Тема:</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -856,9 +907,13 @@ Accept invitation?</source>
     </message>
     <message>
         <location line="+6"/>
+        <source>Join groupchat on </source>
+        <translation type="unfinished">Войти в конференцию on</translation>
+    </message>
+    <message>
         <source>Join groupchat on</source>
         <translatorcomment>что к чему, когда наконец я смогу сам плагин пощупать???</translatorcomment>
-        <translation>Войти в конференцию on</translation>
+        <translation type="obsolete">Войти в конференцию on</translation>
     </message>
 </context>
 <context>
@@ -1168,7 +1223,7 @@ Accept invitation?</source>
     <message>
         <location filename="../../src/protocol/account/muc/jconferenceconfig.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location line="+44"/>
