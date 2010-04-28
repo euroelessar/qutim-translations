@@ -356,7 +356,7 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+56"/>
+        <location filename="../../protocols/oscar/src/inforequest.cpp" line="+37"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
@@ -371,7 +371,7 @@
         <translation>Информация за сметката</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+2"/>
         <source>UIN</source>
         <translation>UIN</translation>
     </message>
@@ -387,11 +387,12 @@
     </message>
     <message>
         <location line="+1"/>
+        <location line="+2"/>
         <source>Email</source>
         <translation>Email</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+10"/>
         <source>Home</source>
         <translation>Домашна</translation>
     </message>
@@ -427,12 +428,11 @@
         <translation>Лична</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Interests</source>
-        <translation>Интереси</translation>
+        <translation type="obsolete">Интереси</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+14"/>
         <source>About</source>
         <translation>За</translation>
     </message>
@@ -442,7 +442,7 @@
         <translation>Бележки</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+9"/>
         <source>Other</source>
         <translation>Друго</translation>
     </message>
@@ -540,12 +540,12 @@
         <translation>Вероятен клиент</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+96"/>
+        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+74"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+306"/>
+        <location line="+301"/>
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>
