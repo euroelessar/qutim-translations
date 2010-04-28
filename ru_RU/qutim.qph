@@ -3827,4 +3827,8 @@ Accept invitation?</source>
     <source>Enter ban reason for %1</source>
     <target>Укажите причину блокировки %1</target>
 </phrase>
+<phrase>
+    <source>Send</source>
+    <target>Отправить</target>
+</phrase>
 </QPH>
