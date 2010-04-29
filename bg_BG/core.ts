@@ -42,7 +42,7 @@
 <context>
     <name>AdiumChat::ChatWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+203"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+204"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -200,7 +200,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="-118"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="-119"/>
         <source>View History</source>
         <translation>Преглед на хронологията</translation>
     </message>
@@ -248,7 +248,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+248"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+252"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -379,7 +379,7 @@ p, li { white-space: pre-wrap; }
         <translation>Редактиране на информацията</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+5"/>
         <source>Remove account</source>
         <translation>Премахване на сметка</translation>
     </message>
@@ -1392,21 +1392,6 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim/examples/autosettingsitem/autosettings.cpp" line="+7"/>
-        <source>Text</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Combo</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Check</source>
-        <translation></translation>
-    </message>
-    <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/backend.cpp" line="+8"/>
         <source>Notifications</source>
         <translation>Уведомления</translation>
@@ -1447,9 +1432,24 @@ p, li { white-space: pre-wrap; }
         <translation>Избор на протоколи</translation>
     </message>
     <message>
-        <location filename="../../qutim/examples/autosettingsitem/autosettings.cpp" line="-4"/>
+        <location filename="../../qutim/examples/autosettingsitem/autosettings.cpp" line="+5"/>
         <source>Test settings</source>
         <translation>Изпробване на настройките</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Combo</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Check</source>
+        <translation></translation>
     </message>
 </context>
 <context>
