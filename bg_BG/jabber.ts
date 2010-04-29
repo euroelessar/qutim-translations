@@ -35,7 +35,7 @@
 <context>
     <name>Contact</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+170"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+171"/>
         <source>Resource</source>
         <translation>Ресурс</translation>
     </message>
@@ -852,7 +852,7 @@ Accept invitation?</source>
         <translation> сега е</translation>
     </message>
     <message>
-        <location line="+97"/>
+        <location line="+99"/>
         <source>Subject:</source>
         <translation>Тема:</translation>
     </message>

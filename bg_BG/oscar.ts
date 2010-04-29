@@ -3230,12 +3230,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Position</source>
-        <translation>Позиция</translation>
+        <translation>Длъжност</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Occupation</source>
-        <translation>Длъжност</translation>
+        <translation>Сфера</translation>
     </message>
     <message>
         <location line="+1"/>
