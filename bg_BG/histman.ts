@@ -63,8 +63,8 @@
         <translation>Изберете сметки за всеки протокол в списъка.</translation>
     </message>
     <message>
-        <location filename="../../plugins/histman/src/clients/gajim.cpp" line="+99"/>
         <location filename="../../plugins/histman/src/clients/psi.cpp" line="+162"/>
+        <location filename="../../plugins/histman/src/clients/gajim.cpp" line="+99"/>
         <source>Select your Jabber account.</source>
         <translation>Изберете Jabber сметка.</translation>
     </message>
@@ -133,34 +133,28 @@
 <context>
     <name>HistoryManager::ClientConfigPage</name>
     <message>
-        <location filename="../../plugins/histman/src/clientconfigpage.cpp" line="+45"/>
         <source>Configuration</source>
-        <translation>Конфигурация</translation>
+        <translation type="obsolete">Конфигурация</translation>
     </message>
     <message>
         <source>System</source>
         <translation type="obsolete">системен</translation>
     </message>
     <message>
-        <location line="+21"/>
         <source>Enter path of your %1 profile file.</source>
-        <translation>Въведете път до папката, съдържаща профила %1.</translation>
+        <translation type="obsolete">Въведете път до папката, съдържаща профила %1.</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Enter path of your %1 profile dir.</source>
-        <translation>Въведете път до папката, съдържаща профила %1.</translation>
+        <translation type="obsolete">Въведете път до папката, съдържаща профила %1.</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>If your history encoding differs from the system one, choose the appropriate encoding for history.</source>
-        <translation>Ако кодировката на хронологията ви се различава от системната, изберете подходящата кодировка.</translation>
+        <translation type="obsolete">Ако кодировката на хронологията ви се различава от системната, изберете подходящата кодировка.</translation>
     </message>
     <message>
-        <location line="+89"/>
-        <location line="+2"/>
         <source>Select path</source>
-        <translation>Избор на път</translation>
+        <translation type="obsolete">Избор на път</translation>
     </message>
 </context>
 <context>
@@ -193,12 +187,15 @@
 <context>
     <name>HistoryManager::HistoryManagerWindow</name>
     <message>
+        <location filename="../../plugins/histman/src/historymanagerwindow.cpp" line="+75"/>
+        <location line="+202"/>
         <source>History manager</source>
-        <translation type="obsolete">Управление на хронологията</translation>
+        <translation>Управление на хронологията</translation>
     </message>
     <message>
+        <location line="-192"/>
         <source>&amp;Dump</source>
-        <translation type="obsolete">&amp;Запис</translation>
+        <translation>&amp;Запис</translation>
     </message>
 </context>
 <context>
