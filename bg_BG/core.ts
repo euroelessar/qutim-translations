@@ -34,15 +34,14 @@
 <context>
     <name>AdiumChat::ChatSessionImpl</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+126"/>
         <source>Message %1 must have a ChatUnit</source>
-        <translation>Съобщението %1 изисква ChatUnit</translation>
+        <translation type="obsolete">Съобщението %1 изисква ChatUnit</translation>
     </message>
 </context>
 <context>
     <name>AdiumChat::ChatWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+204"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+194"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -200,7 +199,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="-119"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="-107"/>
         <source>View History</source>
         <translation>Преглед на хронологията</translation>
     </message>
@@ -248,7 +247,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+252"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+379"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -1439,17 +1438,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+2"/>
         <source>Text</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Combo</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Check</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
