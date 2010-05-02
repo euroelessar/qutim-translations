@@ -99,7 +99,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MassMessaging</name>
     <message>
-        <location filename="../../plugins/massmessaging/src/messaging.cpp" line="+13"/>
+        <location filename="../../plugins/massmessaging/src/messaging.cpp" line="+16"/>
         <source>&amp;Mass Messaging</source>
         <translation>&amp;Многократно изпращане</translation>
     </message>
