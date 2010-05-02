@@ -309,12 +309,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/authdialog/authdialogimpl_p.h" line="+23"/>
         <source>Recieved authorizarion request from %1:</source>
-        <translation type="unfinished">Получена заявка за удостоверяване от %1:</translation>
+        <translation>Получена заявка за удостоверяване от %1:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Send authorizarion request to %1:</source>
-        <translation type="unfinished">Заявка за удостоверяване от %1:</translation>
+        <translation>Заявка за удостоверяване от %1:</translation>
     </message>
 </context>
 <context>
@@ -1129,22 +1129,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/examples/autosettingsitem/autosettings.cpp" line="+9"/>
         <source>Autosettings example</source>
-        <translation type="unfinished">Пример за автоматични настройки</translation>
+        <translation>Пример за автоматични настройки</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Simple example of auto settings item generator</source>
-        <translation type="unfinished">Прост пример за генериране на автоматични настройки</translation>
+        <translation>Прост пример за генериране на автоматични настройки</translation>
     </message>
     <message>
         <location filename="../../qutim/examples/simplesettingsdialog/settingslayerimpl.cpp" line="+7"/>
         <source>Simple Settings dialog</source>
-        <translation type="unfinished">Автоматични настройки</translation>
+        <translation>Автоматични настройки</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>SDK03 example</source>
-        <translation type="unfinished">Пример от SDK03</translation>
+        <translation>Пример от SDK03</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/NoCryptoService/nocryptoservice.cpp" line="+7"/>
@@ -1300,77 +1300,77 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+99"/>
         <source>System message from %1:</source>
-        <translation type="unfinished">Системно съобщение от %1:</translation>
+        <translation>Системно съобщение от %1:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>%1 changed status</source>
-        <translation type="unfinished">%1 промени статуса си</translation>
+        <translation>%1 промени статуса си</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Message from %1:</source>
-        <translation type="unfinished">Съобщение от %1:</translation>
+        <translation>Съобщение от %1:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Message to %1:</source>
-        <translation type="unfinished">Съобщение до %1:</translation>
+        <translation>Съобщение до %1:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>%1 is typing</source>
-        <translation type="unfinished">%1 пише</translation>
+        <translation>%1 пише</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Blocked message from %1</source>
-        <translation type="unfinished">Блокирано съобщение от %1</translation>
+        <translation>Блокирано съобщение от %1</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>%1 has birthday today!!</source>
-        <translation type="unfinished">%1 има рожден ден днес!!</translation>
+        <translation>%1 има рожден ден днес!!</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>%1 is online</source>
-        <translation type="unfinished">%1 е на линия</translation>
+        <translation>%1 е на линия</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>%1 is offline</source>
-        <translation type="unfinished">%1 е извън линия</translation>
+        <translation>%1 е извън линия</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>qutIM launched</source>
-        <translation type="unfinished">qutIM е стартиран</translation>
+        <translation>qutIM е стартиран</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Count</source>
-        <translation type="unfinished">Брой</translation>
+        <translation>Брой</translation>
     </message>
     <message>
         <location filename="../../qutim/libqutim/utils.cpp" line="+115"/>
         <source>1st quarter</source>
-        <translation type="unfinished">Първо тримесечие</translation>
+        <translation>Първо тримесечие</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>2nd quarter</source>
-        <translation type="unfinished">Второ тримесечие</translation>
+        <translation>Второ тримесечие</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>3rd quarter</source>
-        <translation type="unfinished">Трето тримесечие</translation>
+        <translation>Трето тримесечие</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>4th quarter</source>
-        <translation type="unfinished">Четвърто тримесечие</translation>
+        <translation>Четвърто тримесечие</translation>
     </message>
 </context>
 <context>
@@ -1433,7 +1433,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/examples/autosettingsitem/autosettings.cpp" line="+5"/>
         <source>Test settings</source>
-        <translation type="unfinished">Изпробване на настройките</translation>
+        <translation>Изпробване на настройките</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1456,7 +1456,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/examples/simplesettingsdialog/settingsdialog.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
 </context>
 <context>
@@ -1464,47 +1464,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/libqutim/shortcut.cpp" line="+72"/>
         <source>Close</source>
-        <translation type="unfinished">Затваряне</translation>
+        <translation>Затваряне</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Next child</source>
-        <translation type="unfinished">Следващ наследник</translation>
+        <translation>Следващ наследник</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Previous child</source>
-        <translation type="unfinished">Предходен наследник</translation>
+        <translation>Предходен наследник</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Find</source>
-        <translation type="unfinished">Намиране</translation>
+        <translation>Намиране</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Find next</source>
-        <translation type="unfinished">Намиране на следващ</translation>
+        <translation>Намиране на следващ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Find previous</source>
-        <translation type="unfinished">Намиране на предходен</translation>
+        <translation>Намиране на предходен</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Preferences</source>
-        <translation type="unfinished">Предпочитания</translation>
+        <translation>Предпочитания</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Quit</source>
-        <translation type="unfinished">Изход</translation>
+        <translation>Изход</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>System</source>
-        <translation type="unfinished">Системен</translation>
+        <translation>Системен</translation>
     </message>
 </context>
 <context>
@@ -1548,42 +1548,42 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/libqutim/status.cpp" line="+102"/>
         <source>Online</source>
-        <translation type="unfinished">На линия</translation>
+        <translation>На линия</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Free for chat</source>
-        <translation type="unfinished">Свободен за разговор</translation>
+        <translation>Свободен за разговор</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Away</source>
-        <translation type="unfinished">Отсъствам</translation>
+        <translation>Отсъствам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Not available</source>
-        <translation type="unfinished">Недостъпен</translation>
+        <translation>Недостъпен</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Do not disturb</source>
-        <translation type="unfinished">Не безпокойте</translation>
+        <translation>Не безпокойте</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Invisible</source>
-        <translation type="unfinished">Невидим</translation>
+        <translation>Невидим</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Offline</source>
-        <translation type="unfinished">Извън линия</translation>
+        <translation>Извън линия</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unknown</source>
-        <translation type="unfinished">Неизвестен</translation>
+        <translation>Неизвестен</translation>
     </message>
 </context>
 <context>
@@ -1758,12 +1758,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/libqutim/modulemanager.cpp" line="+265"/>
         <source>Library: %1</source>
-        <translation type="unfinished">Библиотека: %1</translation>
+        <translation>Библиотека: %1</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Plugin: %1</source>
-        <translation type="unfinished">Добавка: %1</translation>
+        <translation>Добавка: %1</translation>
     </message>
 </context>
 <context>
