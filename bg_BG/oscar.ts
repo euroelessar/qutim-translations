@@ -1782,7 +1782,7 @@
 <context>
     <name>FeedbagError</name>
     <message>
-        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+119"/>
+        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+125"/>
         <source>No error</source>
         <translation>Без грешка</translation>
     </message>
