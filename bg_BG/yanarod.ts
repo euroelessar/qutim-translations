@@ -4,42 +4,41 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../plugins/yandexnarod/src/yandexnarod.cpp" line="+32"/>
         <source>Yandex Narod</source>
-        <translation>Yandex.Narod файлов организатор</translation>
+        <translation type="obsolete">Yandex.Narod файлов организатор</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Send files via Yandex.Narod filehosting service</source>
-        <translation>Изпращане на файлoве чрез Yandex.Narod</translation>
+        <translation type="obsolete">Изпращане на файлoве чрез Yandex.Narod</translation>
     </message>
 </context>
 <context>
     <name>Yandex</name>
     <message>
-        <location line="+8"/>
         <source>Send file via Yandex.Narod</source>
-        <translation>Изпращане на файл чрез Yandex.Narod</translation>
+        <translation type="obsolete">Изпращане на файл чрез Yandex.Narod</translation>
     </message>
     <message>
-        <location line="+11"/>
         <source>Yandex Narod</source>
-        <translation>Yandex.Narod</translation>
+        <translation type="obsolete">Yandex.Narod</translation>
     </message>
 </context>
 <context>
     <name>YandexNarodAuthorizator</name>
     <message>
+        <location filename="../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="+70"/>
         <source>Has no login or password</source>
-        <translation type="obsolete">Липсват потребителско име и парола</translation>
+        <translation>Липсват потребителско име и парола</translation>
     </message>
     <message>
+        <location line="+9"/>
         <source>Authorization succeed</source>
-        <translation type="obsolete">Успешно удостоверяване</translation>
+        <translation>Успешно удостоверяване</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>Authorization failured</source>
-        <translation type="obsolete">Неуспешно удостоверяване</translation>
+        <translation>Неуспешно удостоверяване</translation>
     </message>
 </context>
 <context>
