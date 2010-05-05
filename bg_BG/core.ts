@@ -80,7 +80,7 @@
         <translation></translation>
     </message>
     <message>
-        <location line="+22"/>
+        <location line="+25"/>
         <source>test</source>
         <translation></translation>
     </message>
@@ -605,6 +605,19 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::ShortcutItemDelegate</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/shortcutsettings/shortcutitemdelegate.cpp" line="+51"/>
+        <source> (global)</source>
+        <translation> (глобална)</translation>
+    </message>
+    <message>
+        <location line="+41"/>
+        <source>%1 : input</source>
+        <translation>%1 : въвеждане</translation>
+    </message>
+</context>
+<context>
     <name>Core::SimpleContactList::Model</name>
     <message>
         <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+593"/>
@@ -722,6 +735,19 @@ p, li { white-space: pre-wrap; }
         <source>s</source>
         <comment>seconds</comment>
         <translation>&apos;</translation>
+    </message>
+</context>
+<context>
+    <name>KeySequenceWidget</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/shortcutsettings/keysequencewidget.cpp" line="+240"/>
+        <source>What the user inputs now will be taken as the new shortcut</source>
+        <translation>Въведеното ще ползва като нова клавишна комбинация</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>No shortcut defined</source>
+        <translation>Не е зададена клавишна комбинация</translation>
     </message>
 </context>
 <context>
@@ -1323,7 +1349,7 @@ p, li { white-space: pre-wrap; }
         <translation>Услуги</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+15"/>
         <source>...</source>
         <translation>...</translation>
     </message>
@@ -1577,7 +1603,7 @@ p, li { white-space: pre-wrap; }
         <translation>Допълнителни настройки на добавките</translation>
     </message>
     <message>
-        <location line="+104"/>
+        <location line="+105"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки на qutIM - %1</translation>
     </message>
@@ -1683,7 +1709,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+32"/>
+        <location line="+35"/>
         <source>about:blank</source>
         <translation>about:blank</translation>
     </message>
