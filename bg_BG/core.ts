@@ -203,8 +203,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatLayer</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatlayerimpl.cpp" line="+45"/>
-        <location line="+5"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayerimpl.cpp" line="+44"/>
         <source>Send message</source>
         <translation>Изпращане на съобщение</translation>
     </message>
@@ -227,7 +226,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+381"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+382"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -910,7 +909,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбиращ се за qutIM диалог за настройване, с OS X стил на заглавната лента</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatlayerimpl.cpp" line="-36"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayerimpl.cpp" line="-30"/>
         <source>Webkit chat layer</source>
         <translation>WebKit слой за разговор</translation>
     </message>
@@ -920,7 +919,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM реализация на разговор. На базата на Adium стилове за разговора</translation>
     </message>
     <message>
-        <location line="+42"/>
+        <location line="+36"/>
         <source>Helper for chat layer</source>
         <translation>Помощник на слоя за разговори</translation>
     </message>
@@ -1389,7 +1388,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/settings/chatsettings.cpp" line="+5"/>
         <source>Chat appearance</source>
-        <translation>Външен вид на разговора</translation>
+        <translation>Облик на разговора</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/emoticonssettings/emoticonssettings.cpp" line="+5"/>
@@ -1475,7 +1474,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+2"/>
         <source>System</source>
-        <translation>Системен</translation>
+        <translation>Системни</translation>
     </message>
 </context>
 <context>
@@ -1585,12 +1584,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+4"/>
         <source>Appearance</source>
-        <translation>Външен вид</translation>
+        <translation>Облик</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Appearance settings</source>
-        <translation>Настройки на външния вид</translation>
+        <translation>Настройки на облика</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -1643,7 +1642,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/xsettingsdialog/xtoolbar.cpp" line="+33"/>
         <source>XBar appearance</source>
-        <translation>Външен вид на Х лентата</translation>
+        <translation>Облик на Х лентата</translation>
     </message>
     <message>
         <location line="+2"/>
