@@ -12,9 +12,8 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+118"/>
         <source>Activity</source>
-        <translation>Дейност</translation>
+        <translation type="obsolete">Дейност</translation>
     </message>
 </context>
 <context>
@@ -110,7 +109,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="-3"/>
+        <location line="-3"/>
         <source>Vkontakte</source>
         <translation>ВКонтакте</translation>
     </message>
