@@ -12,7 +12,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../src/vcontact.cpp" line="+118"/>
+        <location filename="../../src/vcontact.cpp" line="+120"/>
         <source>Activity</source>
         <translation>Активность</translation>
     </message>
@@ -117,7 +117,7 @@
     <message>
         <location line="+6"/>
         <source>E-mail:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Электропочта:</translation>
     </message>
     <message>
         <location line="+10"/>
