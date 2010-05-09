@@ -797,12 +797,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/shortcutsettings/keysequencewidget.cpp" line="+240"/>
         <source>What the user inputs now will be taken as the new shortcut</source>
-        <translation>Въведеното ще ползва като нова клавишна комбинация</translation>
+        <translation>Въведеното ще се ползва като нов бърз клавиш</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>No shortcut defined</source>
-        <translation>Не е зададена клавишна комбинация</translation>
+        <translation>Не е зададен бърз клавиш</translation>
     </message>
 </context>
 <context>
@@ -879,12 +879,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Message recieved</source>
-        <translation>Получено съобщение</translation>
+        <translation>Полученото съобщение</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Message sent</source>
-        <translation>Изпратено съобщение</translation>
+        <translation>Изпратеното съобщение</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1229,12 +1229,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/shortcutsettings/shortcutsettings.cpp" line="+10"/>
         <source>Shortcut settings</source>
-        <translation>Настройки на клавишните комбинации</translation>
+        <translation>Настройки на бързите клавиши</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Shortcut editor</source>
-        <translation>Редактиране на клавишните комбинации</translation>
+        <translation>Редактиране на бързите клавиши</translation>
     </message>
 </context>
 <context>
@@ -1523,7 +1523,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/shortcutsettings/shortcutsettings.cpp" line="+6"/>
         <source>Shortcuts</source>
-        <translation></translation>
+        <translation>Бързи клавиши</translation>
     </message>
 </context>
 <context>
