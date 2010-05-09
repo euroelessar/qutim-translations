@@ -183,14 +183,14 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="+44"/>
+        <location filename="../../src/oscarplugin.cpp" line="+43"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
     <message>
         <location filename="../../plugins/identify/clientidentify.cpp" line="+38"/>
         <source>Alexey Ignatiev</source>
-        <translation type="unfinished">Алексей Игнатьев</translation>
+        <translation>Алексей Игнатьев</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -205,7 +205,7 @@
     <message>
         <location filename="../../src/connection.cpp" line="+296"/>
         <source>Invalid nick or password</source>
-        <translation type="unfinished">Неверный ник или пароль</translation>
+        <translation>Неверный ник или пароль</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -230,7 +230,7 @@
     <message>
         <location line="+2"/>
         <source>Invalid account</source>
-        <translation type="unfinished">Неверная учетная запись</translation>
+        <translation>Неверная учетная запись</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1814,7 +1814,7 @@
 <context>
     <name>FeedbagError</name>
     <message>
-        <location filename="../../src/feedbag.cpp" line="+125"/>
+        <location filename="../../src/feedbag.cpp" line="+113"/>
         <source>No error</source>
         <translation>Нет ошибок</translation>
     </message>
@@ -1859,17 +1859,17 @@
     <message>
         <location filename="../../src/metainfofields_p.h" line="+151"/>
         <source>Not specified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не указан</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Female</source>
-        <translation>Жен</translation>
+        <translation type="unfinished">Женский</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Male</source>
-        <translation>Муж</translation>
+        <translation type="unfinished">Мужской</translation>
     </message>
 </context>
 <context>
