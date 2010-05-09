@@ -3855,4 +3855,8 @@ Accept invitation?</source>
     <source>Business</source>
     <target>Бизнес</target>
 </phrase>
+<phrase>
+    <source>Message recieved</source>
+    <target>Принято сообщение</target>
+</phrase>
 </QPH>
