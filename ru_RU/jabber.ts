@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/jplugin.cpp" line="+25"/>
+        <location filename="../../src/jplugin.cpp" line="+27"/>
         <source>Denis Daschenko</source>
         <translation>Денис Дащенко</translation>
     </message>
@@ -12,6 +12,11 @@
         <location line="+3"/>
         <source>Nikita Belov</source>
         <translation>Никита Белов</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Ruslan Nigmatullin</source>
+        <translation>Руслан Нигматуллин</translation>
     </message>
 </context>
 <context>
@@ -35,7 +40,7 @@
 <context>
     <name>Contact</name>
     <message>
-        <location filename="../../src/protocol/account/roster/jcontact.cpp" line="+170"/>
+        <location filename="../../src/protocol/account/roster/jcontact.cpp" line="+181"/>
         <source>Resource</source>
         <translation>Ресурс</translation>
     </message>
@@ -306,7 +311,7 @@
         <translation>Войти в конференцию</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="+226"/>
+        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="+233"/>
         <source>Join to conference</source>
         <translation>Войти в конференцию</translation>
     </message>
@@ -382,7 +387,7 @@
 <context>
     <name>Jabber::JConnectionListener</name>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="+41"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="+42"/>
         <source>The entity has sent XML that cannot be processed.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -698,7 +703,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCManager</name>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="-166"/>
+        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="-171"/>
         <source>Join groupchat on</source>
         <translation>Войти в конференцию</translation>
     </message>
@@ -735,7 +740,7 @@ Accept invitation?</source>
 </translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="+183"/>
+        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="+186"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете перезайти?</translation>
     </message>
@@ -753,7 +758,7 @@ Accept invitation?</source>
         <translation type="obsolete">вошел в комнату</translation>
     </message>
     <message>
-        <location line="+35"/>
+        <location line="+40"/>
         <location line="+2"/>
         <location line="+2"/>
         <location line="+2"/>
@@ -775,19 +780,19 @@ Accept invitation?</source>
     </message>
     <message>
         <location line="-23"/>
-        <location line="+25"/>
+        <location line="+29"/>
         <source> registered member</source>
         <translation type="unfinished"> регистрированный</translation>
     </message>
     <message>
-        <location line="-23"/>
-        <location line="+25"/>
         <source> member</source>
-        <translation type="unfinished"> участник</translation>
+        <translation type="obsolete"> участник</translation>
     </message>
     <message>
-        <location line="-23"/>
-        <location line="+25"/>
+        <location line="-25"/>
+        <location line="+23"/>
+        <location line="+6"/>
+        <location line="+6"/>
         <source> visitor</source>
         <translation type="unfinished"> посетитель</translation>
     </message>
@@ -806,7 +811,7 @@ Accept invitation?</source>
 %1</translation>
     </message>
     <message>
-        <location line="-78"/>
+        <location line="-93"/>
         <source> has been banned</source>
         <translation type="unfinished"> был заблокирован</translation>
     </message>
@@ -841,12 +846,19 @@ Accept invitation?</source>
         <translation type="unfinished"> теперь известен как</translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+23"/>
         <source> has joined the room</source>
         <translation type="unfinished"> вошел в комнату</translation>
     </message>
     <message>
-        <location line="+17"/>
+        <location line="+8"/>
+        <location line="+23"/>
+        <location line="+12"/>
+        <source> participant</source>
+        <translation type="unfinished"> участник</translation>
+    </message>
+    <message>
+        <location line="-26"/>
         <source> has left the room</source>
         <translation type="unfinished"> покинул комнату</translation>
     </message>
@@ -856,7 +868,21 @@ Accept invitation?</source>
         <translation type="unfinished"> теперь</translation>
     </message>
     <message>
-        <location line="+97"/>
+        <location line="+6"/>
+        <location line="+2"/>
+        <location line="+4"/>
+        <location line="+2"/>
+        <source> and</source>
+        <translation type="unfinished"> и</translation>
+    </message>
+    <message>
+        <location line="-2"/>
+        <location line="+4"/>
+        <source> moderator</source>
+        <translation type="unfinished"> модератор</translation>
+    </message>
+    <message>
+        <location line="+94"/>
         <source>Subject:</source>
         <translation type="unfinished">Тема:</translation>
     </message>
@@ -1106,14 +1132,14 @@ Accept invitation?</source>
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../src/jplugin.cpp" line="-7"/>
-        <location line="+10"/>
+        <location filename="../../src/jplugin.cpp" line="-10"/>
+        <location line="+13"/>
         <source>Jabber</source>
         <translation>Jabber/XMPP</translation>
     </message>
     <message>
-        <location line="-9"/>
-        <location line="+10"/>
+        <location line="-12"/>
+        <location line="+13"/>
         <source>Jabber protocol</source>
         <translation>Протокол Jabber</translation>
     </message>
@@ -1215,6 +1241,16 @@ Accept invitation?</source>
     <message>
         <location line="+1"/>
         <source>Implementation of groupchat join window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Jabber File Transfer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Implementation of XEP-0096</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1378,7 +1414,8 @@ Accept invitation?</source>
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../src/jplugin.cpp" line="-46"/>
+        <location filename="../../src/jplugin.cpp" line="-53"/>
+        <location line="+3"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>

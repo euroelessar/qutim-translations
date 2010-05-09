@@ -3831,4 +3831,32 @@ Accept invitation?</source>
     <source>Send</source>
     <target>Отправить</target>
 </phrase>
+<phrase>
+    <source>Invalid nick or password</source>
+    <target>Неверный ник или пароль</target>
+</phrase>
+<phrase>
+    <source>The users num connected from this IP has reached the maximum (reservation)</source>
+    <target>Количество пользователей подключенных с этого IP превысило допустимое (reservation)</target>
+</phrase>
+<phrase>
+    <source> (global)</source>
+    <target> (глобально)</target>
+</phrase>
+<phrase>
+    <source>Invalid account</source>
+    <target>Неверная учетная запись</target>
+</phrase>
+<phrase>
+    <source>Form</source>
+    <target>Форма</target>
+</phrase>
+<phrase>
+    <source>Business</source>
+    <target>Бизнес</target>
+</phrase>
+<phrase>
+    <source>Message recieved</source>
+    <target>Принято сообщение</target>
+</phrase>
 </QPH>

@@ -12,7 +12,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../src/vcontact.cpp" line="+118"/>
+        <location filename="../../src/vcontact.cpp" line="+120"/>
         <source>Activity</source>
         <translation>Активность</translation>
     </message>
@@ -22,89 +22,89 @@
     <message>
         <location filename="../../core/edditaccount.ui" line="+14"/>
         <source>Form</source>
-        <translation>Настройки</translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>General</source>
-        <translation>Главные</translation>
+        <translation type="unfinished">Главные</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Password:</source>
-        <translation>Пароль:</translation>
+        <translation type="unfinished">Пароль:</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Autoconnect on start</source>
-        <translation>Автоматически подключаться при старте</translation>
+        <translation type="unfinished">Автоматически подключаться при старте</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show status text in contact list</source>
-        <translation>Показывать текст статуса в ростере</translation>
+        <translation type="unfinished">Показывать текст статуса в ростере</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Refresh friend list every:</source>
-        <translation>Обновлять список друзей каждые:</translation>
+        <translation type="unfinished">Обновлять список друзей каждые:</translation>
     </message>
     <message>
         <location line="+20"/>
         <location line="+34"/>
         <location line="+54"/>
         <source> s</source>
-        <translation>с</translation>
+        <translation type="unfinished">с</translation>
     </message>
     <message>
         <location line="-74"/>
         <source>Check for new messages every:</source>
-        <translation>Проверять новые сообщения каждые:</translation>
+        <translation type="unfinished">Проверять новые сообщения каждые:</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Updates</source>
-        <translation>Обновления</translation>
+        <translation type="unfinished">Обновления</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Check for friends updates every:</source>
-        <translation>Проверять обновления друзей каждые:</translation>
+        <translation type="unfinished">Проверять обновления друзей каждые:</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Enable friends photo updates notifications</source>
-        <translation>Разрешить уведомления о смене фото у друзей</translation>
+        <translation type="unfinished">Разрешить уведомления о смене фото у друзей</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Insert preview URL on new photos notifications</source>
-        <translation>Вставить ссылку на миниатюру фотографии в уведомление</translation>
+        <translation type="unfinished">Вставить ссылку на миниатюру фотографии в уведомление</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Insert fullsize URL on new photos notifications</source>
-        <translation>Вставить ссылку на фотографию в уведомление</translation>
+        <translation type="unfinished">Вставить ссылку на фотографию в уведомление</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>OK</source>
-        <translation>Ок</translation>
+        <translation type="unfinished">Ок</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Apply</source>
-        <translation>Применить</translation>
+        <translation type="unfinished">Применить</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Cancel</source>
-        <translation>Отмена</translation>
+        <translation type="unfinished">Отмена</translation>
     </message>
     <message>
         <location filename="../../core/edditaccount.cpp" line="+32"/>
         <source>Editing %1</source>
-        <translation>Редактирование %1</translation>
+        <translation type="unfinished">Редактирование %1</translation>
     </message>
 </context>
 <context>
@@ -112,22 +112,22 @@
     <message>
         <location filename="../../core/loginform.ui" line="+14"/>
         <source>Form</source>
-        <translation>Настройки</translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>E-mail:</source>
-        <translation></translation>
+        <translation type="unfinished">Электропочта:</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Password:</source>
-        <translation>Пароль:</translation>
+        <translation type="unfinished">Пароль:</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Autoconnect on start</source>
-        <translation>Автоматически подключаться при старте</translation>
+        <translation type="unfinished">Автоматически подключаться при старте</translation>
     </message>
 </context>
 <context>
@@ -211,22 +211,22 @@
     <message>
         <location filename="../../core/vcontactlist.cpp" line="+48"/>
         <source>Friends</source>
-        <translation>Друзья</translation>
+        <translation type="unfinished">Друзья</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Favorites</source>
-        <translation>Закладки</translation>
+        <translation type="unfinished">Закладки</translation>
     </message>
     <message>
         <location line="+453"/>
         <source>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Status message:&lt;/b&gt;&amp;nbsp;%1&lt;/font</source>
-        <translation>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Статус:&lt;/b&gt;&amp;nbsp;%1&lt;/font</translation>
+        <translation type="unfinished">&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Статус:&lt;/b&gt;&amp;nbsp;%1&lt;/font</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>Open user page</source>
-        <translation>Открыть страницу</translation>
+        <translation type="unfinished">Открыть страницу</translation>
     </message>
 </context>
 <context>
@@ -234,7 +234,7 @@
     <message>
         <location filename="../../protocol/vprotocolwrap.cpp" line="+159"/>
         <source>Mismatch nick or password</source>
-        <translation>Несовпадение ника или пароля</translation>
+        <translation type="unfinished">Несовпадение ника или пароля</translation>
     </message>
     <message>
         <location line="+126"/>
