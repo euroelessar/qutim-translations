@@ -341,7 +341,7 @@
     <message>
         <location line="+2"/>
         <source>Crescent</source>
-        <translation type="unfinished">Полумесец</translation>
+        <translation>Полумесец</translation>
     </message>
     <message>
         <location line="+2"/>

@@ -3663,7 +3663,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+2"/>
         <source>Not while on AOL</source>
-        <translation type="unfinished"></translation>
+        <translation>Не е в AOL</translation>
     </message>
     <message>
         <location line="+2"/>

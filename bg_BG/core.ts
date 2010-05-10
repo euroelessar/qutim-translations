@@ -41,7 +41,7 @@
 <context>
     <name>AdiumChat::ChatWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+195"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="+197"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -197,7 +197,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="-108"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatwidget.cpp" line="-110"/>
         <source>View History</source>
         <translation>Преглед на хронологията</translation>
     </message>
@@ -244,7 +244,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+388"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+387"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
