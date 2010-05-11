@@ -244,7 +244,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+385"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+386"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -1256,6 +1256,26 @@ p, li { white-space: pre-wrap; }
         <source>Default qutIM sound theme engine</source>
         <translation>Подразбираща се за qutIM звукова тема</translation>
     </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/multimediabackend/multimediasoundbackend.cpp" line="+26"/>
+        <source>Mulimedia engine</source>
+        <translation>Поддръжка на мултимедия</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sound engine based on QtMultimedia</source>
+        <translation>Поддръжка на звук на базата на QtMultimedia</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemesettings.cpp" line="+10"/>
+        <source>Sound theme selector</source>
+        <translation>Избор на звукови теми</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Simple sound theme selector</source>
+        <translation>Опростен избор на звукови теми</translation>
+    </message>
 </context>
 <context>
     <name>ProfileCreationPage</name>
@@ -1545,6 +1565,11 @@ p, li { white-space: pre-wrap; }
         <source>Shortcuts</source>
         <translation>Бързи клавиши</translation>
     </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemesettings.cpp" line="+6"/>
+        <source>Sounds</source>
+        <translation>Звуци</translation>
+    </message>
 </context>
 <context>
     <name>SettingsDialog</name>
@@ -1645,6 +1670,15 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/build/ui_simpletagseditor.h" line="+75"/>
         <source>Add</source>
         <translation>Добавяне</translation>
+    </message>
+</context>
+<context>
+    <name>SoundThemeSelector</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.ui" line="+14"/>
+        <location filename="../../qutim/build/ui_soundthemeselector.h" line="+57"/>
+        <source>Form</source>
+        <translation>Звукови теми</translation>
     </message>
 </context>
 <context>
