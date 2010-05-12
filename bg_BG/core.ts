@@ -327,7 +327,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+95"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+96"/>
         <source>Change global status</source>
         <translation>Промяна на общия статус</translation>
     </message>
@@ -337,7 +337,7 @@ p, li { white-space: pre-wrap; }
         <translation>Активиране на главното меню</translation>
     </message>
     <message>
-        <location line="+29"/>
+        <location line="+31"/>
         <source>&amp;Settings...</source>
         <translation>&amp;Настройки...</translation>
     </message>
@@ -864,7 +864,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Status changed</source>
-        <translation>Променя статуса си</translation>
+        <translation>Промяна на статуса</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -965,7 +965,7 @@ p, li { white-space: pre-wrap; }
         <translation>PList конфигурация</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-135"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-137"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>

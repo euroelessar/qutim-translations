@@ -9,7 +9,7 @@
         <translation>Настройки на изгледа</translation>
     </message>
     <message>
-        <location line="+22"/>
+        <location line="+25"/>
         <source>test</source>
         <translation>Проба</translation>
     </message>
@@ -22,12 +22,11 @@
         <translation>Настройки на изгледа</translation>
     </message>
     <message>
-        <location line="+9"/>
         <source>Notification types</source>
-        <translation>Тип на уведомленията</translation>
+        <translation type="obsolete">Тип на уведомленията</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+9"/>
         <source>Timeout, msec:</source>
         <translation>Интервал (мсек):</translation>
     </message>
@@ -49,27 +48,27 @@
     <message>
         <location line="+5"/>
         <source>Very fast</source>
-        <translation>Много бързо</translation>
+        <translation>Много бърза</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Fast</source>
-        <translation>Бързо</translation>
+        <translation>Бърза</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Normal</source>
-        <translation>Нормално</translation>
+        <translation>Нормална</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Slow</source>
-        <translation>Бавно</translation>
+        <translation>Бавна</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Very slow</source>
-        <translation>Много бавно</translation>
+        <translation>Много бавна</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -107,12 +106,12 @@
     <message>
         <location line="+1"/>
         <source>Message recieved</source>
-        <translation>Получено съобщение</translation>
+        <translation>Полученото съобщение</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Message sent</source>
-        <translation>Изпратено съобщение</translation>
+        <translation>Изпратеното съобщение</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -133,6 +132,21 @@
         <location line="+1"/>
         <source>Count</source>
         <translation>Брой</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Type</source>
+        <translation>Тип</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Play sound</source>
+        <translation>Възпроизвеждане на звук</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show popup</source>
+        <translation>Показване на изскачащ прозорец</translation>
     </message>
 </context>
 <context>
@@ -155,9 +169,8 @@
 <context>
     <name>QmlPopups::Popup</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/popup.cpp" line="+74"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
-        <translation>&lt;p&gt; + още %1 уведомления &lt;/p&gt;</translation>
+        <translation type="obsolete">&lt;p&gt; + още %1 уведомления &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -193,7 +206,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+3"/>
+        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+7"/>
         <source>Notifications</source>
         <translation>Уведомления</translation>
     </message>
@@ -206,7 +219,7 @@
 <context>
     <name>plugin</name>
     <message>
-        <location line="-3"/>
+        <location line="-7"/>
         <source>Qml popups</source>
         <translation>Qml изскачащи прозорци</translation>
     </message>
