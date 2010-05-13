@@ -2604,4 +2604,8 @@
     <source>Unknown</source>
     <target>Неизвестен</target>
 </phrase>
+<phrase>
+    <source>Enter</source>
+    <target>Влизане</target>
+</phrase>
 </QPH>

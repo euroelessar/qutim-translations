@@ -166,7 +166,7 @@
         <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location line="+75"/>
+        <location line="+33"/>
         <location line="+134"/>
         <source>Bookmarks:</source>
         <translation>Отметки:</translation>
@@ -520,7 +520,7 @@
         <location line="+93"/>
         <location line="+5"/>
         <source>WHAT?! Unknown error?! OH SHI~~</source>
-        <translation>Ъ?! Неизвестна грешка?! Лошо ...</translation>
+        <translation>Ъ?! Неизвестна грешка?! Шиб~~</translation>
     </message>
     <message>
         <location line="-93"/>
@@ -695,6 +695,19 @@ Accept invitation?</source>
         <location line="+1"/>
         <source>Invite to groupchat</source>
         <translation>Показа на групов разговор</translation>
+    </message>
+</context>
+<context>
+    <name>Jabber::JMUCJoin</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucjoin.cpp" line="+203"/>
+        <source>Enter</source>
+        <translation>Влизане</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Edit Bookmarks</source>
+        <translation>Редактиране на отметките</translation>
     </message>
 </context>
 <context>
