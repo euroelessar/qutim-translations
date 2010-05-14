@@ -327,7 +327,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+96"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+98"/>
         <source>Change global status</source>
         <translation>Промяна на общия статус</translation>
     </message>
@@ -337,7 +337,7 @@ p, li { white-space: pre-wrap; }
         <translation>Активиране на главното меню</translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+33"/>
         <source>&amp;Settings...</source>
         <translation>&amp;Настройки...</translation>
     </message>
@@ -636,7 +636,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ShortcutItemDelegate</name>
     <message>
-        <location filename="../../qutim/src/corelayers/shortcutsettings/shortcutitemdelegate.cpp" line="+51"/>
+        <location filename="../../qutim/src/corelayers/shortcutsettings/shortcutitemdelegate.cpp" line="+61"/>
         <source> (global)</source>
         <translation> (глобална)</translation>
     </message>
@@ -657,9 +657,19 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+9"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-39"/>
+        <source>Main Toolbar</source>
+        <translation>Главна лентата с инструменти</translation>
+    </message>
+    <message>
+        <location line="+48"/>
         <source>Status</source>
         <translation>Статус</translation>
+    </message>
+    <message>
+        <location line="+47"/>
+        <source>Set Status Text</source>
+        <translation>Задаване текст на статуса</translation>
     </message>
 </context>
 <context>
@@ -965,7 +975,7 @@ p, li { white-space: pre-wrap; }
         <translation>PList конфигурация</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-137"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-187"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
@@ -1359,9 +1369,9 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProfileDialog</name>
     <message>
-        <location filename="../../qutim/src/profiledialog.ui" line="+32"/>
+        <location filename="../../qutim/src/profiledialog.ui" line="+38"/>
         <location line="+46"/>
-        <location filename="../../qutim/build/ui_profiledialog.h" line="+172"/>
+        <location filename="../../qutim/build/ui_profiledialog.h" line="+173"/>
         <location line="+3"/>
         <source>Login</source>
         <translation>Потребителско име</translation>
@@ -1661,6 +1671,15 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/build/ui_simplepasswordwidget.h" line="+1"/>
         <source>Remember password</source>
         <translation>Запомняне на паролата</translation>
+    </message>
+</context>
+<context>
+    <name>SimpleStatusDialog</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/contactlist/simplestatusdialog.ui" line="+14"/>
+        <location filename="../../qutim/build/ui_simplestatusdialog.h" line="+61"/>
+        <source>Set Status Text</source>
+        <translation>Задаване текст на статуса</translation>
     </message>
 </context>
 <context>
