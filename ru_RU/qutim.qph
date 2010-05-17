@@ -3859,4 +3859,8 @@ Accept invitation?</source>
     <source>Message recieved</source>
     <target>Принято сообщение</target>
 </phrase>
+<phrase>
+    <source>Set Status Text</source>
+    <target>Установить текст статуса</target>
+</phrase>
 </QPH>
