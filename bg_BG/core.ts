@@ -221,7 +221,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+413"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+414"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -703,7 +703,7 @@ p, li { white-space: pre-wrap; }
         <translation>Статус</translation>
     </message>
     <message>
-        <location line="+47"/>
+        <location line="+49"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
@@ -988,7 +988,7 @@ p, li { white-space: pre-wrap; }
         <translation>PList конфигурация</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-187"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-189"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
