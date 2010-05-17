@@ -4,12 +4,12 @@
 <context>
     <name>AppearanceSettings</name>
     <message>
-        <location filename="../../settings/popupappearance.ui" line="+20"/>
+        <location filename="../../src/settings/popupappearance.ui" line="+20"/>
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+22"/>
+        <location line="+25"/>
         <source>test</source>
         <translation type="unfinished">Тест</translation>
     </message>
@@ -17,17 +17,16 @@
 <context>
     <name>BehaviorSettings</name>
     <message>
-        <location filename="../../settings/notifications.ui" line="+14"/>
+        <location filename="../../src/settings/notifications.ui" line="+14"/>
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+9"/>
         <source>Notification types</source>
-        <translation>Уведомления</translation>
+        <translation type="obsolete">Уведомления</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+9"/>
         <source>Timeout, msec:</source>
         <translation type="unfinished">Время, мс:</translation>
     </message>
@@ -80,7 +79,7 @@
 <context>
     <name>Notifications</name>
     <message>
-        <location filename="../../settings/popupbehavior.cpp" line="+28"/>
+        <location filename="../../src/settings/popupbehavior.cpp" line="+28"/>
         <source>User online</source>
         <translation>Пользователь в сети</translation>
     </message>
@@ -134,24 +133,39 @@
         <source>Count</source>
         <translation>Количество</translation>
     </message>
+    <message>
+        <location line="+5"/>
+        <source>Type</source>
+        <translation type="unfinished">Тип</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Play sound</source>
+        <translation type="unfinished">Воспроизведение звуков</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show popup</source>
+        <translation type="unfinished">Всплывающее уведомление</translation>
+    </message>
 </context>
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qmlpopups.cpp" line="+15"/>
+        <location filename="../../src/qmlpopups.cpp" line="+15"/>
         <source>Qml popups</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Nice popups ^_^ TODO</source>
+        <source>Modern popups, based on power of Qt Quick</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>QmlPopups::Popup</name>
     <message>
-        <location filename="../../popup.cpp" line="+74"/>
+        <location filename="../../src/popup.cpp" line="+74"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
         <translation type="unfinished">&lt;p&gt; + %1 уведомлений &lt;/p&gt;</translation>
     </message>
@@ -159,8 +173,8 @@
 <context>
     <name>QmlPopups::PopupAppearance</name>
     <message>
-        <location filename="../../settings/popupappearance.cpp" line="+33"/>
-        <location line="+63"/>
+        <location filename="../../src/settings/popupappearance.cpp" line="+33"/>
+        <location line="+64"/>
         <location line="+9"/>
         <source>Preview</source>
         <translation type="unfinished">Тестовое уведомление</translation>
@@ -189,7 +203,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qmlpopups.cpp" line="+3"/>
+        <location filename="../../src/qmlpopups.cpp" line="+7"/>
         <source>Notifications</source>
         <translation type="unfinished">Уведомления</translation>
     </message>
@@ -202,14 +216,18 @@
 <context>
     <name>plugin</name>
     <message>
-        <location line="-3"/>
+        <location line="-7"/>
         <source>Qml popups</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+0"/>
+        <source>Modern popups, based on power of Qt Quick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>description</source>
-        <translation type="unfinished">описание</translation>
+        <translation type="obsolete">описание</translation>
     </message>
 </context>
 </TS>
