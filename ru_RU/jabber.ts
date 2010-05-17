@@ -162,7 +162,7 @@
         <translation>Войти в конференцию</translation>
     </message>
     <message>
-        <location line="+75"/>
+        <location line="+33"/>
         <location line="+134"/>
         <source>Bookmarks:</source>
         <translation>Закладки:</translation>
@@ -698,6 +698,16 @@ Accept invitation?</source>
     <message>
         <source>Join groupchat</source>
         <translation type="obsolete">Войти в конференцию</translation>
+    </message>
+    <message>
+        <location filename="../../src/protocol/account/muc/jmucjoin.cpp" line="+203"/>
+        <source>Enter</source>
+        <translation type="unfinished">Войти</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Edit Bookmarks</source>
+        <translation type="unfinished">Править закладки</translation>
     </message>
 </context>
 <context>
