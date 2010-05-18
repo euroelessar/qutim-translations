@@ -27,7 +27,7 @@
 <context>
     <name>Affiliation</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+497"/>
+        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+500"/>
         <source>Alumni Org.</source>
         <translation>Алумни организации</translation>
     </message>
@@ -168,7 +168,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+43"/>
+        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+44"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -576,9 +576,47 @@
     </message>
 </context>
 <context>
+    <name>ContactSearch</name>
+    <message>
+        <location filename="../../protocols/oscar/src/contactsearch.cpp" line="+76"/>
+        <source>UIN</source>
+        <translation>UIN</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Nick</source>
+        <translation>Псевдоним</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>First name</source>
+        <translation>Име</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Last name</source>
+        <translation>Фамилия</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Email</source>
+        <translation>Email</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Gender</source>
+        <translation>Пол</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Age</source>
+        <translation>Възраст</translation>
+    </message>
+</context>
+<context>
     <name>Country</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="-501"/>
+        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="-504"/>
         <source>Other</source>
         <translation>Друга</translation>
     </message>
@@ -1834,12 +1872,11 @@
 <context>
     <name>Gender</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+151"/>
         <source>Not specified</source>
-        <translation>Не е зададен</translation>
+        <translation type="obsolete">Не е зададен</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+152"/>
         <source>Female</source>
         <translation>Жена</translation>
     </message>
@@ -2172,7 +2209,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Industry</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+20"/>
+        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+24"/>
         <source>Agriculture</source>
         <translation>Селско стопанство</translation>
     </message>
@@ -2265,7 +2302,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Interest</name>
     <message>
-        <location line="-183"/>
+        <location line="-186"/>
         <source>50&apos;s</source>
         <translation>50-те</translation>
     </message>
@@ -2881,7 +2918,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Marital</name>
     <message>
-        <location line="+134"/>
+        <location line="+137"/>
         <source>Single</source>
         <translation>Свободен/Свободна</translation>
     </message>
@@ -3008,11 +3045,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+1"/>
+        <location line="+26"/>
         <source>Age</source>
         <translation>Възраст</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-25"/>
         <source>Gender</source>
         <translation>Пол</translation>
     </message>
@@ -3030,6 +3068,16 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Languages</source>
         <translation>Говорими езици</translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>UIN</source>
+        <translation>UIN</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>online only</source>
+        <translation>само на линия</translation>
     </message>
     <message>
         <source>Original city</source>
@@ -3092,7 +3140,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Служебна страница</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="-7"/>
         <source>Emails</source>
         <translation>Email</translation>
     </message>
@@ -3112,7 +3160,7 @@ p, li { white-space: pre-wrap; }
         <translation>Минало</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo.cpp" line="+72"/>
+        <location filename="../../protocols/oscar/src/metainfo.cpp" line="+116"/>
         <source>Basic</source>
         <translation>Основна</translation>
     </message>
@@ -3398,7 +3446,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Past</name>
     <message>
-        <location line="-84"/>
+        <location line="-87"/>
         <source>Elementary School</source>
         <translation>Начално училище</translation>
     </message>
@@ -3530,6 +3578,16 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Oscar privacy lists</source>
         <translation>Oscar лични списъци</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Oscar contact search</source>
+        <translation>Търсене на Oscar контакти</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Oscar contact search implementation</source>
+        <translation>Реализация на търсене на Oscar контакти</translation>
     </message>
     <message>
         <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-7"/>
@@ -3715,7 +3773,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>StudyLevel</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+14"/>
+        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+17"/>
         <source>Associated degree</source>
         <translation>Специалист</translation>
     </message>
@@ -3761,7 +3819,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-5"/>
         <location line="+3"/>
         <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-27"/>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-34"/>
+        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-38"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
