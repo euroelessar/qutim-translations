@@ -17,12 +17,14 @@
 <context>
     <name>KDENotificationLayer</name>
     <message>
+        <location filename="../../kde-integration/src/notification/kdenotificationlayer.cpp" line="+121"/>
         <source>Open chat</source>
-        <translation type="obsolete">Отваряне на разговор</translation>
+        <translation>Отваряне на разговор</translation>
     </message>
     <message>
+        <location line="+0"/>
         <source>Close</source>
-        <translation type="obsolete">Затваряне</translation>
+        <translation>Затваряне</translation>
     </message>
 </context>
 <context>
@@ -109,8 +111,9 @@
         <translation>Проверка на правописа</translation>
     </message>
     <message>
+        <location filename="../../kde-integration/src/notification/kdenotificationlayer.cpp" line="-83"/>
         <source>Popups</source>
-        <translation type="obsolete">Изскачащи прозорци</translation>
+        <translation>Изскачащи прозорци</translation>
     </message>
 </context>
 <context>
