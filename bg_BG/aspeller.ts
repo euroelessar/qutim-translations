@@ -4,26 +4,32 @@
 <context>
     <name>Author</name>
     <message>
+        <location filename="../../plugins/aspeller/src/aspellplugin.cpp" line="+26"/>
         <source>Ruslan Nigmatullin</source>
-        <translation type="obsolete">Руслан Нигматуллин</translation>
+        <translation>Руслан Нигматуллин</translation>
     </message>
 </context>
 <context>
     <name>Plugin</name>
     <message>
+        <location line="+3"/>
+        <location line="+3"/>
         <source>ASpell checker</source>
-        <translation type="obsolete">ASpell проверка на правописа</translation>
+        <translation>ASpell проверка на правописа</translation>
     </message>
     <message>
+        <location line="-2"/>
+        <location line="+3"/>
         <source>Check spelling by ASpell library</source>
-        <translation type="obsolete">Проверка на правописа с помощта на ASpell библиотеката</translation>
+        <translation>Проверка на правописа с помощта на ASpell библиотеката</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
+        <location line="-6"/>
         <source>Developer</source>
-        <translation type="obsolete">Разработчик</translation>
+        <translation>Разработчик</translation>
     </message>
 </context>
 </TS>
