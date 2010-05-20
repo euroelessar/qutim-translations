@@ -754,11 +754,11 @@
 </phrase>
 <phrase>
     <source>Add to visible list</source>
-    <target>Добавяне в списък &quot;Видими&quot;</target>
+    <target>Добавяне в списък &quot;Видим за&quot;</target>
 </phrase>
 <phrase>
     <source>Add to invisible list</source>
-    <target>Добавяне в списък &quot;Невидими&quot;</target>
+    <target>Добавяне в списък &quot;Невидим за&quot;</target>
 </phrase>
 <phrase>
     <source>Add to ignore list</source>
@@ -1082,11 +1082,11 @@
 </phrase>
 <phrase>
     <source>Visible only for visible list</source>
-    <target>Видим само за списък &quot;Видими&quot;</target>
+    <target>Видим само за списък &quot;Видим за&quot;</target>
 </phrase>
 <phrase>
     <source>Invisible only for invisible list</source>
-    <target>Невидим само за списък &quot;Невидими&quot;</target>
+    <target>Невидим само за списък &quot;Невидим за&quot;</target>
 </phrase>
 <phrase>
     <source>Visible only for contact list</source>
@@ -1310,7 +1310,7 @@
 </phrase>
 <phrase>
     <source>Visible list</source>
-    <target>Списък &quot;Видими&quot;</target>
+    <target>Списък &quot;Видим за&quot;</target>
 </phrase>
 <phrase>
     <source>I</source>
@@ -1322,7 +1322,7 @@
 </phrase>
 <phrase>
     <source>Invisible list</source>
-    <target>Списък &quot;Невидими&quot;</target>
+    <target>Списък &quot;Невидим за&quot;</target>
 </phrase>
 <phrase>
     <source>Ignore list</source>

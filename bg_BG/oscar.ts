@@ -205,7 +205,7 @@
     <message>
         <location line="+2"/>
         <source>Mismatch nick or password</source>
-        <translation>Псевдонимът или паролата не съвпадат</translation>
+        <translation>Псевдонима или паролата не съвпадат</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -275,7 +275,7 @@
     <message>
         <location line="+20"/>
         <source>Another client is loggin with this uin</source>
-        <translation>Свързва се друг клиент с този UIN</translation>
+        <translation>Друг клиент с този UIN се свързва</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -394,7 +394,7 @@
     <message>
         <location line="+10"/>
         <source>Home</source>
-        <translation>Домашна</translation>
+        <translation>Домашен</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -414,7 +414,7 @@
     <message>
         <location line="+2"/>
         <source>Work address</source>
-        <translation>Служебен адрес</translation>
+        <translation>Служебен адрес:</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -425,7 +425,7 @@
         <location line="+12"/>
         <location line="+2"/>
         <source>Personal</source>
-        <translation>Лична</translation>
+        <translation>Лични данни</translation>
     </message>
     <message>
         <source>Interests</source>
@@ -434,7 +434,7 @@
     <message>
         <location line="+14"/>
         <source>About</source>
-        <translation>За</translation>
+        <translation>За мен</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -444,7 +444,7 @@
     <message>
         <location line="+9"/>
         <source>Other</source>
-        <translation>Друго</translation>
+        <translation>Други</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -505,24 +505,24 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+59"/>
+        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+150"/>
         <source>Add to visible list</source>
-        <translation>Добавяне в списък &quot;Видими&quot;</translation>
+        <translation>Добавяне в списък &quot;Видим за&quot;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Remove from visible list</source>
-        <translation>Премахване от списък &quot;Видими&quot;</translation>
+        <translation>Премахване от списък &quot;Видим за&quot;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Add to invisible list</source>
-        <translation>Добавяне в списък &quot;Невидими&quot;</translation>
+        <translation>Добавяне в списък &quot;Невидим за&quot;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Remove from invisible list</source>
-        <translation>Премахване от списък &quot;Невидими&quot;</translation>
+        <translation>Премахване от списък &quot;Невидим за&quot;</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -618,7 +618,7 @@
     <message>
         <location filename="../../protocols/oscar/src/metainfofields_p.h" line="-504"/>
         <source>Other</source>
-        <translation>Друга</translation>
+        <translation>Други</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2281,7 +2281,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Other</source>
-        <translation>Друго</translation>
+        <translation>Други</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2339,7 +2339,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Business</source>
-        <translation>Бизнес</translation>
+        <translation>Имам работа</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2524,7 +2524,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Space</source>
-        <translation>Космос</translation>
+        <translation>Интервал</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2960,13 +2960,21 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Other</source>
-        <translation>Друго</translation>
+        <translation>Други</translation>
+    </message>
+</context>
+<context>
+    <name>MetaController</name>
+    <message>
+        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+14"/>
+        <source>Additional</source>
+        <translation>Допълнителни</translation>
     </message>
 </context>
 <context>
     <name>MetaInfo</name>
     <message>
-        <location line="+6"/>
+        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+6"/>
         <source>Nick</source>
         <translation>Псевдоним</translation>
     </message>
@@ -3320,7 +3328,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>College Student</source>
-        <translation>Студент(ка) в колеж</translation>
+        <translation>Студент(ка)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3415,7 +3423,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Science &amp; Research</source>
-        <translation>Наука и изследователска дейност</translation>
+        <translation>Наука и изследвания</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3483,7 +3491,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Other</source>
-        <translation>Друго</translation>
+        <translation>Други</translation>
     </message>
 </context>
 <context>
@@ -3599,6 +3607,49 @@ p, li { white-space: pre-wrap; }
         <location line="+7"/>
         <source>Additional statuses for oscar protocol</source>
         <translation>Допълнителни статуси за Oscar протокола</translation>
+    </message>
+</context>
+<context>
+    <name>Privacy</name>
+    <message>
+        <location filename="../../protocols/oscar/src/privacylists.cpp" line="-92"/>
+        <source>Visible for all</source>
+        <translation>Видим за всички</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Invisible for all</source>
+        <translation>Невидим за всички</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Visible only for visible list</source>
+        <translation>Видим само за списък &quot;Видим за&quot;</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Invisible only for invisible list</source>
+        <translation>Невидим само за списък &quot;Невидим за&quot;</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Visible only for contact list</source>
+        <translation>Видим само за списъка с контакти</translation>
+    </message>
+    <message>
+        <location line="+71"/>
+        <source>Visible mode:</source>
+        <translation>Режим на видимост:</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Invisible mode:</source>
+        <translation>Режим на невидимост:</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Privacy status</source>
+        <translation>Личен статус</translation>
     </message>
 </context>
 <context>
