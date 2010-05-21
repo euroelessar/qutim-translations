@@ -240,7 +240,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+419"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+417"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -274,7 +274,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="+223"/>
+        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="+226"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -288,7 +288,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">не е зададено</translation>
     </message>
     <message>
-        <location line="-167"/>
+        <location line="-170"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>За контакта %1 &lt;%2&gt;</translation>
     </message>
@@ -323,7 +323,7 @@ p, li { white-space: pre-wrap; }
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+75"/>
+        <location line="+78"/>
         <source>Show information</source>
         <translation>Показване на информация</translation>
     </message>
@@ -389,7 +389,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactSearch</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactsearch/contactsearchlayer.cpp" line="+264"/>
+        <location filename="../../qutim/src/corelayers/contactsearch/contactsearchlayer.cpp" line="+267"/>
         <source>Search contact</source>
         <translation>Търсене на контакт</translation>
     </message>
@@ -746,7 +746,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>DataForms</name>
     <message>
-        <location filename="../../qutim/src/corelayers/dataformsbackend/readonlydatalayout.cpp" line="+70"/>
+        <location filename="../../qutim/src/corelayers/dataformsbackend/readonlydatalayout.cpp" line="+69"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -761,7 +761,7 @@ p, li { white-space: pre-wrap; }
         <translation>полето не е попълнено</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/dataformsbackend/editabledatalayout.cpp" line="+23"/>
+        <location filename="../../qutim/src/corelayers/dataformsbackend/editablewidgets.h" line="+19"/>
         <source>Not specified</source>
         <translation>Не е зададено</translation>
     </message>
@@ -1239,7 +1239,7 @@ p, li { white-space: pre-wrap; }
         <translation>Модул за миграция от 0.2 към 0.3</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="-242"/>
+        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="-245"/>
         <source>Simple information window about a contact</source>
         <translation>Опростен прозорец с информация за контакта</translation>
     </message>
@@ -1393,7 +1393,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM реализация на прозореца на разговори</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactsearch/contactsearchlayer.cpp" line="-250"/>
+        <location filename="../../qutim/src/corelayers/contactsearch/contactsearchlayer.cpp" line="-253"/>
         <source>Contact search</source>
         <translation>Търсене на контакти</translation>
     </message>
