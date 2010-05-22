@@ -4,14 +4,12 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../kde-integration/src/kdeintegration.cpp" line="+42"/>
         <source>Ruslan Nigmatullin</source>
-        <translation>Руслан Нигматуллин</translation>
+        <translation type="obsolete">Руслан Нигматуллин</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Sidorov Aleksey</source>
-        <translation>Сергей Сидоров</translation>
+        <translation type="obsolete">Сергей Сидоров</translation>
     </message>
 </context>
 <context>
@@ -31,19 +29,16 @@
     <name>KdeSpellerSettings</name>
     <message>
         <location filename="../../kde-integration/src/speller/kdespellersettings.ui" line="+14"/>
-        <location filename="../../kde-integration/build/ui_kdespellersettings.h" line="+82"/>
         <source>Form</source>
         <translation>Проверка на правописа</translation>
     </message>
     <message>
         <location line="+15"/>
-        <location filename="../../kde-integration/build/ui_kdespellersettings.h" line="+1"/>
         <source>Select dictionary:</source>
         <translation>Избор на речник:</translation>
     </message>
     <message>
         <location line="+10"/>
-        <location filename="../../kde-integration/build/ui_kdespellersettings.h" line="+1"/>
         <source>Autodetect of language</source>
         <translation>Автоматично разпознаване на езика</translation>
     </message>
@@ -51,59 +46,48 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../kde-integration/src/kdeintegration.cpp" line="+3"/>
         <source>KDE integration</source>
-        <translation>Интеграция с KDE</translation>
+        <translation type="obsolete">Интеграция с KDE</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Integration with K Desktop Environment</source>
-        <translation>Интеграция с K Desktop Environment</translation>
+        <translation type="obsolete">Интеграция с K Desktop Environment</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>KDE Emoticons</source>
-        <translation>KDE емотикони</translation>
+        <translation type="obsolete">KDE емотикони</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Using KDE emoticons packs</source>
-        <translation>Използване на пакети с емотикони от KDE</translation>
+        <translation type="obsolete">Използване на пакети с емотикони от KDE</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>KDE Crash handler</source>
-        <translation>Справяне на KDE с провали</translation>
+        <translation type="obsolete">Справяне на KDE с провали</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Handles qutIM&apos;s craches by KCrash</source>
-        <translation>Докладване провалите на qutIM посредством KCrash</translation>
+        <translation type="obsolete">Докладване провалите на qutIM посредством KCrash</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>KDE Spell checker</source>
-        <translation>Проверка на правописа в KDE</translation>
+        <translation type="obsolete">Проверка на правописа в KDE</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>KDE Icon engine</source>
-        <translation>KDE икони</translation>
+        <translation type="obsolete">KDE икони</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Uses KDE Icon engine for providing icons</source>
-        <translation>Използване на пакети с икони от KDE</translation>
+        <translation type="obsolete">Използване на пакети с икони от KDE</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>KDE Notifications</source>
-        <translation>KDE уведомления</translation>
+        <translation type="obsolete">KDE уведомления</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Uses KDE notifications</source>
-        <translation>Използване на KDE уведомления</translation>
+        <translation type="obsolete">Използване на KDE уведомления</translation>
     </message>
 </context>
 <context>
@@ -122,53 +106,44 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../kde-integration/src/kdeintegration.cpp" line="-21"/>
-        <location line="+3"/>
         <source>Developer</source>
-        <translation>Разработчици</translation>
+        <translation type="obsolete">Разработчици</translation>
     </message>
 </context>
 <context>
     <name>plugmanSettings</name>
     <message>
         <location filename="../../kde-integration/src/notification/settings.ui" line="+13"/>
-        <location filename="../../kde-integration/build/ui_settings.h" line="+121"/>
         <source>Form</source>
         <translation>Добавки</translation>
     </message>
     <message>
         <location line="+10"/>
-        <location filename="../../kde-integration/build/ui_settings.h" line="+4"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
         <location line="+6"/>
-        <location filename="../../kde-integration/build/ui_settings.h" line="-3"/>
         <source>Installed plugins:</source>
         <translation>Инсталирани добавки:</translation>
     </message>
     <message>
         <location line="+20"/>
-        <location filename="../../kde-integration/build/ui_settings.h" line="+1"/>
         <source>Install from internet</source>
         <translation>Инсталиране от Интернет</translation>
     </message>
     <message>
         <location line="+11"/>
-        <location filename="../../kde-integration/build/ui_settings.h" line="+1"/>
         <source>Install from file</source>
         <translation>Инсталиране от файл</translation>
     </message>
     <message>
         <location line="+32"/>
-        <location filename="../../kde-integration/build/ui_settings.h" line="+12"/>
         <source>About</source>
         <translation>За добавката</translation>
     </message>
     <message>
         <location line="+12"/>
-        <location filename="../../kde-integration/build/ui_settings.h" line="-10"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }

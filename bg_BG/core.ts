@@ -5,7 +5,6 @@
     <name>AccountCreatorList</name>
     <message>
         <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorlist.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_accountcreatorlist.h" line="+53"/>
         <source>Form</source>
         <translation></translation>
     </message>
@@ -26,7 +25,6 @@
     <name>AccountCreatorProtocols</name>
     <message>
         <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorprotocols.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_accountcreatorprotocols.h" line="+65"/>
         <source>WizardPage</source>
         <translation>Магьосник</translation>
     </message>
@@ -53,7 +51,6 @@
     <name>AdiumChatForm</name>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_adiumchatwidget.h" line="+130"/>
         <source>MainWindow</source>
         <translation>Главен прозорец</translation>
     </message>
@@ -75,13 +72,11 @@
     <name>AppearanceSettings</name>
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/settings/popupappearance.ui" line="+20"/>
-        <location filename="../../qutim/build/ui_popupappearance.h" line="+73"/>
         <source>Form</source>
         <translation></translation>
     </message>
     <message>
         <location line="+25"/>
-        <location filename="../../qutim/build/ui_popupappearance.h" line="+1"/>
         <source>test</source>
         <translation></translation>
     </message>
@@ -90,13 +85,11 @@
     <name>AuthDialog</name>
     <message>
         <location filename="../../qutim/src/corelayers/authdialog/authdialog.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_authdialog.h" line="+70"/>
         <source>Dialog</source>
         <translation>Удостоверяване</translation>
     </message>
     <message>
         <location line="+22"/>
-        <location filename="../../qutim/build/ui_authdialog.h" line="+2"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -110,7 +103,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+14"/>
-        <location filename="../../qutim/build/ui_authdialog.h" line="+5"/>
         <source>TextLabel</source>
         <translation></translation>
     </message>
@@ -119,7 +111,6 @@ p, li { white-space: pre-wrap; }
     <name>BehaviorSettings</name>
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/settings/notifications.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_notifications.h" line="+95"/>
         <source>Form</source>
         <translation>Поведение</translation>
     </message>
@@ -129,61 +120,51 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+9"/>
-        <location filename="../../qutim/build/ui_notifications.h" line="+1"/>
         <source>Timeout, msec:</source>
         <translation>Интервал, msec:</translation>
     </message>
     <message>
         <location line="+13"/>
-        <location filename="../../qutim/build/ui_notifications.h" line="+1"/>
         <source>5000</source>
         <translation></translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../qutim/build/ui_notifications.h" line="+1"/>
         <source>Animation speed:</source>
         <translation>Скорост на анимацията:</translation>
     </message>
     <message>
         <location line="+11"/>
-        <location filename="../../qutim/build/ui_notifications.h" line="+3"/>
         <source>No Animation</source>
         <translation>Без анимация</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../../qutim/build/ui_notifications.h" line="+1"/>
         <source>Very fast</source>
         <translation>Много бърза</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../../qutim/build/ui_notifications.h" line="+1"/>
         <source>Fast</source>
         <translation>Бърза</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../../qutim/build/ui_notifications.h" line="+1"/>
         <source>Normal</source>
         <translation>Нормална</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../../qutim/build/ui_notifications.h" line="+1"/>
         <source>Slow</source>
         <translation>Бавна</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../../qutim/build/ui_notifications.h" line="+1"/>
         <source>Very slow</source>
         <translation>Много бавна</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../../qutim/build/ui_notifications.h" line="+1"/>
         <source>Custom</source>
         <translation>Собствена</translation>
     </message>
@@ -240,7 +221,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+417"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+430"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -249,7 +230,6 @@ p, li { white-space: pre-wrap; }
     <name>ClassicChatForm</name>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatwidget.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_classicchatwidget.h" line="+174"/>
         <source>MainWindow</source>
         <translation>Главен прозорец</translation>
     </message>
@@ -260,13 +240,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+59"/>
-        <location filename="../../qutim/build/ui_classicchatwidget.h" line="+2"/>
         <source>Chats</source>
         <translation>Разговори</translation>
     </message>
     <message>
         <location line="+28"/>
-        <location filename="../../qutim/build/ui_classicchatwidget.h" line="+3"/>
         <source>Send</source>
         <translation>Изпращане</translation>
     </message>
@@ -333,14 +311,12 @@ p, li { white-space: pre-wrap; }
         <translation>Редактиране на информацията</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/authdialog/authdialogimpl_p.h" line="+23"/>
         <source>Recieved authorizarion request from %1:</source>
-        <translation>Получена заявка за удостоверяване от %1:</translation>
+        <translation type="obsolete">Получена заявка за удостоверяване от %1:</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Send authorizarion request to %1:</source>
-        <translation>Заявка за удостоверяване от %1:</translation>
+        <translation type="obsolete">Заявка за удостоверяване от %1:</translation>
     </message>
 </context>
 <context>
@@ -761,9 +737,8 @@ p, li { white-space: pre-wrap; }
         <translation>полето не е попълнено</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/dataformsbackend/editablewidgets.h" line="+19"/>
         <source>Not specified</source>
-        <translation>Не е зададено</translation>
+        <translation type="obsolete">Не е зададено</translation>
     </message>
 </context>
 <context>
@@ -778,25 +753,21 @@ p, li { white-space: pre-wrap; }
     <name>FileTransferDialog</name>
     <message>
         <location filename="../../qutim/src/corelayers/filetransfer/filetransferdialog.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_filetransferdialog.h" line="+91"/>
         <source>Dialog</source>
         <translation>Предаване</translation>
     </message>
     <message>
         <location line="+6"/>
-        <location filename="../../qutim/build/ui_filetransferdialog.h" line="+1"/>
         <source>File name:</source>
         <translation>Име на файла:</translation>
     </message>
     <message>
         <location line="+14"/>
-        <location filename="../../qutim/build/ui_filetransferdialog.h" line="+1"/>
         <source>Total size:</source>
         <translation>Общ размер:</translation>
     </message>
     <message>
         <location line="+14"/>
-        <location filename="../../qutim/build/ui_filetransferdialog.h" line="+1"/>
         <source>File size:</source>
         <translation>Размер на файла:</translation>
     </message>
@@ -805,55 +776,46 @@ p, li { white-space: pre-wrap; }
     <name>HistoryWindowClass</name>
     <message>
         <location filename="../../qutim/src/corelayers/jsonhistory/historywindow.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_historywindow.h" line="+173"/>
         <source>HistoryWindow</source>
         <translation>Хронология</translation>
     </message>
     <message>
         <location line="+13"/>
-        <location filename="../../qutim/build/ui_historywindow.h" line="+1"/>
         <source>Account:</source>
         <translation>Сметка:</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../qutim/build/ui_historywindow.h" line="+1"/>
         <source>From:</source>
         <translation>От:</translation>
     </message>
     <message>
         <location line="+60"/>
-        <location filename="../../qutim/build/ui_historywindow.h" line="+4"/>
         <source>Search</source>
         <translation>Търсене</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../qutim/build/ui_historywindow.h" line="+1"/>
         <source>Return</source>
         <translation>Връщане</translation>
     </message>
     <message>
         <location line="+36"/>
-        <location filename="../../qutim/build/ui_historywindow.h" line="+2"/>
         <source>1</source>
         <translation>1</translation>
     </message>
     <message>
         <location line="-73"/>
-        <location filename="../../qutim/build/ui_historywindow.h" line="-6"/>
         <source>In: %L1</source>
         <translation>Входящи: %L1</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../qutim/build/ui_historywindow.h" line="+1"/>
         <source>Out: %L1</source>
         <translation>Изходящи: %L1</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../qutim/build/ui_historywindow.h" line="+1"/>
         <source>All: %L1</source>
         <translation>Общо: %L1</translation>
     </message>
@@ -862,27 +824,22 @@ p, li { white-space: pre-wrap; }
     <name>IdleStatusWidget</name>
     <message>
         <location filename="../../qutim/src/corelayers/idlestatuschanger/idlestatuswidget.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_idlestatuswidget.h" line="+70"/>
         <source>Form</source>
         <translation>Бездействие</translation>
     </message>
     <message>
         <location line="+12"/>
-        <location filename="../../qutim/build/ui_idlestatuswidget.h" line="+1"/>
         <source>Set status away after:</source>
         <translation>Установяване на статуса в &quot;Отсъства&quot; след:</translation>
     </message>
     <message>
         <location line="+13"/>
-        <location filename="../../qutim/build/ui_idlestatuswidget.h" line="+1"/>
         <source>Set status not available after:</source>
         <translation>Установяване на статуса в &quot;Недостъпен&quot; след:</translation>
     </message>
     <message>
         <location line="+13"/>
         <location line="+13"/>
-        <location filename="../../qutim/build/ui_idlestatuswidget.h" line="+1"/>
-        <location line="+1"/>
         <source>s</source>
         <comment>seconds</comment>
         <translation>&apos;</translation>
@@ -913,7 +870,6 @@ p, li { white-space: pre-wrap; }
     <name>LocalizationSettings</name>
     <message>
         <location filename="../../qutim/src/corelayers/localization/localizationsettings.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_localizationsettings.h" line="+52"/>
         <source>Form</source>
         <translation></translation>
     </message>
@@ -922,25 +878,21 @@ p, li { white-space: pre-wrap; }
     <name>MigrationStartPage</name>
     <message>
         <location filename="../../qutim/src/corelayers/migration02x03/migrationstartpage.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_migrationstartpage.h" line="+85"/>
         <source>WizardPage</source>
         <translation>Магьосник</translation>
     </message>
     <message>
         <location line="+6"/>
-        <location filename="../../qutim/build/ui_migrationstartpage.h" line="+1"/>
         <source>I want to import configuration and history</source>
         <translation>Да се импортират конфигурацията и хронологията</translation>
     </message>
     <message>
         <location line="+10"/>
-        <location filename="../../qutim/build/ui_migrationstartpage.h" line="+1"/>
         <source>Choose profile:</source>
         <translation>Избор на профил:</translation>
     </message>
     <message>
         <location line="+17"/>
-        <location filename="../../qutim/build/ui_migrationstartpage.h" line="+1"/>
         <source>Choose accounts:</source>
         <translation>Избор на сметка:</translation>
     </message>
@@ -1279,24 +1231,20 @@ p, li { white-space: pre-wrap; }
         <translation>Промяна на статусите на сметките при бездействие</translation>
     </message>
     <message>
-        <location filename="../../qutim/examples/autosettingsitem/autosettings.cpp" line="+9"/>
         <source>Autosettings example</source>
-        <translation>Пример за автоматични настройки</translation>
+        <translation type="obsolete">Пример за автоматични настройки</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Simple example of auto settings item generator</source>
-        <translation>Прост пример за генериране на автоматични настройки</translation>
+        <translation type="obsolete">Прост пример за генериране на автоматични настройки</translation>
     </message>
     <message>
-        <location filename="../../qutim/examples/simplesettingsdialog/settingslayerimpl.cpp" line="+7"/>
         <source>Simple Settings dialog</source>
-        <translation>Автоматични настройки</translation>
+        <translation type="obsolete">Автоматични настройки</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>SDK03 example</source>
-        <translation>Пример от SDK03</translation>
+        <translation type="obsolete">Пример от SDK03</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/NoCryptoService/nocryptoservice.cpp" line="+7"/>
@@ -1417,37 +1365,31 @@ p, li { white-space: pre-wrap; }
     <name>ProfileCreationPage</name>
     <message>
         <location filename="../../qutim/src/profilecreationpage.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_profilecreationpage.h" line="+191"/>
         <source>WizardPage</source>
         <translation>Профил</translation>
     </message>
     <message>
         <location line="+6"/>
-        <location filename="../../qutim/build/ui_profilecreationpage.h" line="+1"/>
         <source>Name:</source>
         <translation>Име:</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../qutim/build/ui_profilecreationpage.h" line="+2"/>
         <source>It will be shown in chat dialogs</source>
         <translation>Ще се показва в прозореца със съобщения</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../qutim/build/ui_profilecreationpage.h" line="+2"/>
         <source>Profile id:</source>
         <translation>Идентификатор:</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../qutim/build/ui_profilecreationpage.h" line="+2"/>
         <source>Used for profile identification</source>
         <translation>Използва се за идентифициране на профила</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../qutim/build/ui_profilecreationpage.h" line="+2"/>
         <source>Config dir:</source>
         <translation>Директория на конфигурацията:</translation>
     </message>
@@ -1455,39 +1397,31 @@ p, li { white-space: pre-wrap; }
         <location line="+12"/>
         <location line="+14"/>
         <location line="+14"/>
-        <location filename="../../qutim/build/ui_profilecreationpage.h" line="+1"/>
-        <location line="+1"/>
-        <location line="+1"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
         <location line="+9"/>
-        <location filename="../../qutim/build/ui_profilecreationpage.h" line="+1"/>
         <source>History dir:</source>
         <translation>Директория на хронологията:</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../qutim/build/ui_profilecreationpage.h" line="+1"/>
         <source>Data dir:</source>
         <translation>Директория на данните:</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../qutim/build/ui_profilecreationpage.h" line="+1"/>
         <source>Store data at application dir</source>
         <translation>Да се записват данните в директорията на приложнието</translation>
     </message>
     <message>
         <location line="+20"/>
-        <location filename="../../qutim/build/ui_profilecreationpage.h" line="+1"/>
         <source>Choose cryptograhic module:</source>
         <translation>Модул за шифриране:</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../qutim/build/ui_profilecreationpage.h" line="+1"/>
         <source>Choose config backend:</source>
         <translation>Тип на конфигурационните файлове:</translation>
     </message>
@@ -1497,46 +1431,37 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/profiledialog.ui" line="+38"/>
         <location line="+46"/>
-        <location filename="../../qutim/build/ui_profiledialog.h" line="+173"/>
-        <location line="+3"/>
         <source>Login</source>
         <translation>Потребителско име</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../qutim/build/ui_profiledialog.h" line="-2"/>
         <source>Choose profile:</source>
         <translation>Профил:</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+32"/>
-        <location filename="../../qutim/build/ui_profiledialog.h" line="+1"/>
-        <location line="+3"/>
         <source>Enter password:</source>
         <translation>Парола:</translation>
     </message>
     <message>
         <location line="-16"/>
-        <location filename="../../qutim/build/ui_profiledialog.h" line="+3"/>
         <source>Create profile</source>
         <translation>Създаване на профил</translation>
     </message>
     <message>
         <location line="+6"/>
-        <location filename="../../qutim/build/ui_profiledialog.h" line="-4"/>
         <source>Name:</source>
         <translation>Име:</translation>
     </message>
     <message>
         <location line="+24"/>
-        <location filename="../../qutim/build/ui_profiledialog.h" line="+2"/>
         <source>Repeat password:</source>
         <translation>Паролата (повторно):</translation>
     </message>
     <message>
         <location line="+40"/>
-        <location filename="../../qutim/build/ui_profiledialog.h" line="+1"/>
         <source>Create</source>
         <translation>Създаване</translation>
     </message>
@@ -1544,104 +1469,85 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+117"/>
         <source>System message from %1:</source>
-        <translation>Системно съобщение от %1:</translation>
+        <translation type="obsolete">Системно съобщение от %1:</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>%1 changed status</source>
-        <translation>%1 промени статуса си</translation>
+        <translation type="obsolete">%1 промени статуса си</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Message from %1:</source>
-        <translation>Съобщение от %1:</translation>
+        <translation type="obsolete">Съобщение от %1:</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Message to %1:</source>
-        <translation>Съобщение до %1:</translation>
+        <translation type="obsolete">Съобщение до %1:</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>%1 is typing</source>
-        <translation>%1 пише</translation>
+        <translation type="obsolete">%1 пише</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Blocked message from %1</source>
-        <translation>Блокирано съобщение от %1</translation>
+        <translation type="obsolete">Блокирано съобщение от %1</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>%1 has birthday today!!</source>
-        <translation>%1 има рожден ден днес!!</translation>
+        <translation type="obsolete">%1 има рожден ден днес!!</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>%1 is online</source>
-        <translation>%1 е на линия</translation>
+        <translation type="obsolete">%1 е на линия</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>%1 is offline</source>
-        <translation>%1 е извън линия</translation>
+        <translation type="obsolete">%1 е извън линия</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>qutIM launched</source>
-        <translation>qutIM е стартиран</translation>
+        <translation type="obsolete">qutIM е стартиран</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Count</source>
-        <translation>Брой</translation>
+        <translation type="obsolete">Брой</translation>
     </message>
     <message>
-        <location filename="../../qutim/libqutim/utils.cpp" line="+115"/>
         <source>1st quarter</source>
-        <translation>Първо тримесечие</translation>
+        <translation type="obsolete">Първо тримесечие</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>2nd quarter</source>
-        <translation>Второ тримесечие</translation>
+        <translation type="obsolete">Второ тримесечие</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>3rd quarter</source>
-        <translation>Трето тримесечие</translation>
+        <translation type="obsolete">Трето тримесечие</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>4th quarter</source>
-        <translation>Четвърто тримесечие</translation>
+        <translation type="obsolete">Четвърто тримесечие</translation>
     </message>
 </context>
 <context>
     <name>SearchContactForm</name>
     <message>
         <location filename="../../qutim/src/corelayers/contactsearch/searchcontactform.ui" line="+20"/>
-        <location filename="../../qutim/build/ui_searchcontactform.h" line="+171"/>
         <source>Search contact</source>
         <translation>Търсене на контакт</translation>
     </message>
     <message>
         <location line="+58"/>
-        <location filename="../../qutim/build/ui_searchcontactform.h" line="+2"/>
         <source>Search</source>
         <translation>Търсене</translation>
     </message>
     <message>
         <location line="+10"/>
-        <location filename="../../qutim/build/ui_searchcontactform.h" line="+1"/>
         <source>Cancel</source>
         <translation>Отказ</translation>
     </message>
     <message>
         <location line="+56"/>
-        <location filename="../../qutim/build/ui_searchcontactform.h" line="+1"/>
         <source>Add contact</source>
         <translation>Добавяне на контакт</translation>
     </message>
@@ -1650,13 +1556,11 @@ p, li { white-space: pre-wrap; }
     <name>ServiceChooser</name>
     <message>
         <location filename="../../qutim/src/corelayers/servicechooser/servicechooserwidget.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_servicechooserwidget.h" line="+81"/>
         <source>Form</source>
         <translation>Услуги</translation>
     </message>
     <message>
         <location line="+15"/>
-        <location filename="../../qutim/build/ui_servicechooserwidget.h" line="+1"/>
         <source>...</source>
         <translation>...</translation>
     </message>
@@ -1704,24 +1608,8 @@ p, li { white-space: pre-wrap; }
         <translation>Избор на протоколи</translation>
     </message>
     <message>
-        <location filename="../../qutim/examples/autosettingsitem/autosettings.cpp" line="+5"/>
         <source>Test settings</source>
-        <translation>Изпробване на настройките</translation>
-    </message>
-    <message>
-        <location line="+2"/>
-        <source>Text</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Combo</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Check</source>
-        <translation></translation>
+        <translation type="obsolete">Изпробване на настройките</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/shortcutsettings/shortcutsettings.cpp" line="+6"/>
@@ -1737,64 +1625,53 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>SettingsDialog</name>
     <message>
-        <location filename="../../qutim/examples/simplesettingsdialog/settingsdialog.ui" line="+14"/>
         <source>Form</source>
-        <translation>Настройки</translation>
+        <translation type="obsolete">Настройки</translation>
     </message>
 </context>
 <context>
     <name>Shortcut</name>
     <message>
-        <location filename="../../qutim/libqutim/shortcut.cpp" line="+73"/>
         <source>Close</source>
-        <translation>Затваряне</translation>
+        <translation type="obsolete">Затваряне</translation>
     </message>
     <message>
-        <location line="+16"/>
         <source>Next child</source>
-        <translation>Преминаване през подпрозорците</translation>
+        <translation type="obsolete">Преминаване през подпрозорците</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Previous child</source>
-        <translation>Преминаване през подпрозорците (обратно)</translation>
+        <translation type="obsolete">Преминаване през подпрозорците (обратно)</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Find</source>
-        <translation>Намиране</translation>
+        <translation type="obsolete">Намиране</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Find next</source>
-        <translation>Намиране на следващ</translation>
+        <translation type="obsolete">Намиране на следващ</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Find previous</source>
-        <translation>Намиране на предходен</translation>
+        <translation type="obsolete">Намиране на предходен</translation>
     </message>
     <message>
-        <location line="+40"/>
         <source>Preferences</source>
-        <translation>Предпочитания</translation>
+        <translation type="obsolete">Предпочитания</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Quit</source>
-        <translation>Изход</translation>
+        <translation type="obsolete">Изход</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>System</source>
-        <translation>Системни</translation>
+        <translation type="obsolete">Системни</translation>
     </message>
 </context>
 <context>
     <name>ShortcutSettingsWidget</name>
     <message>
         <location filename="../../qutim/src/corelayers/shortcutsettings/shortcutsettingswidget.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_shortcutsettingswidget.h" line="+54"/>
         <source>Form</source>
         <translation>Настройки на клавишни комбинации</translation>
     </message>
@@ -1803,25 +1680,21 @@ p, li { white-space: pre-wrap; }
     <name>SimplePasswordWidget</name>
     <message>
         <location filename="../../qutim/src/corelayers/password/simplepasswordwidget.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_simplepasswordwidget.h" line="+82"/>
         <source>Dialog</source>
         <translation>Удостоверяване</translation>
     </message>
     <message>
         <location line="+6"/>
-        <location filename="../../qutim/build/ui_simplepasswordwidget.h" line="+1"/>
         <source>Enter password for account %1 (%2):</source>
         <translation>Въвеждане на парола за сметка %1 (%2):</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../qutim/build/ui_simplepasswordwidget.h" line="+1"/>
         <source>Enter password:</source>
         <translation>Парола:</translation>
     </message>
     <message>
         <location line="+14"/>
-        <location filename="../../qutim/build/ui_simplepasswordwidget.h" line="+1"/>
         <source>Remember password</source>
         <translation>Запомняне на паролата</translation>
     </message>
@@ -1830,7 +1703,6 @@ p, li { white-space: pre-wrap; }
     <name>SimpleStatusDialog</name>
     <message>
         <location filename="../../qutim/src/corelayers/contactlist/simplestatusdialog.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_simplestatusdialog.h" line="+61"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
@@ -1839,7 +1711,6 @@ p, li { white-space: pre-wrap; }
     <name>SimpleTagsEditor</name>
     <message>
         <location filename="../../qutim/src/corelayers/contactlist/simpletagseditor/simpletagseditor.ui" line="+39"/>
-        <location filename="../../qutim/build/ui_simpletagseditor.h" line="+75"/>
         <source>Add</source>
         <translation>Добавяне</translation>
     </message>
@@ -1848,7 +1719,6 @@ p, li { white-space: pre-wrap; }
     <name>SoundThemeSelector</name>
     <message>
         <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_soundthemeselector.h" line="+57"/>
         <source>Form</source>
         <translation>Звукови теми</translation>
     </message>
@@ -1856,44 +1726,36 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../qutim/libqutim/status.cpp" line="+102"/>
         <source>Online</source>
-        <translation>На линия</translation>
+        <translation type="obsolete">На линия</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Free for chat</source>
-        <translation>Свободен за разговор</translation>
+        <translation type="obsolete">Свободен за разговор</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Away</source>
-        <translation>Отсъствам</translation>
+        <translation type="obsolete">Отсъствам</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Not available</source>
-        <translation>Недостъпен</translation>
+        <translation type="obsolete">Недостъпен</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Do not disturb</source>
-        <translation>Не безпокойте</translation>
+        <translation type="obsolete">Не безпокойте</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Invisible</source>
-        <translation>Невидим</translation>
+        <translation type="obsolete">Невидим</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Offline</source>
-        <translation>Извън линия</translation>
+        <translation type="obsolete">Извън линия</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Unknown</source>
-        <translation>Неизвестен</translation>
+        <translation type="obsolete">Неизвестен</translation>
     </message>
 </context>
 <context>
@@ -1957,13 +1819,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsdialog.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_xsettingsdialog.h" line="+129"/>
         <source>XSettingsDialog</source>
         <translation>Х настройки</translation>
     </message>
     <message>
         <location line="+27"/>
-        <location filename="../../qutim/build/ui_xsettingsdialog.h" line="+1"/>
         <source>Sorry, this category doesn&apos;t contain any settings</source>
         <translation>Извинете, но тази категория не съдържа никакви настройки</translation>
     </message>
@@ -1972,7 +1832,6 @@ p, li { white-space: pre-wrap; }
     <name>XSettingsGroup</name>
     <message>
         <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsgroup.ui" line="+20"/>
-        <location filename="../../qutim/build/ui_xsettingsgroup.h" line="+79"/>
         <source>Form</source>
         <translation></translation>
     </message>
@@ -2044,7 +1903,6 @@ p, li { white-space: pre-wrap; }
     <name>chatAppearance</name>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/settings/chatappearance.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_chatappearance.h" line="+100"/>
         <source>Form</source>
         <translation></translation>
     </message>
@@ -2058,7 +1916,6 @@ p, li { white-space: pre-wrap; }
     <name>emoticonsSelector</name>
     <message>
         <location filename="../../qutim/src/corelayers/emoticonssettings/emoticonsselector.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_emoticonsselector.h" line="+57"/>
         <source>Form</source>
         <translation></translation>
     </message>
@@ -2066,39 +1923,33 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::ModuleManager</name>
     <message>
-        <location filename="../../qutim/libqutim/modulemanager.cpp" line="+267"/>
         <source>Library: %1</source>
-        <translation>Библиотека: %1</translation>
+        <translation type="obsolete">Библиотека: %1</translation>
     </message>
     <message>
-        <location line="+27"/>
         <source>Plugin: %1</source>
-        <translation>Добавка: %1</translation>
+        <translation type="obsolete">Добавка: %1</translation>
     </message>
 </context>
 <context>
     <name>userInformationClass</name>
     <message>
         <location filename="../../qutim/src/corelayers/contactinfo/userinformation.ui" line="+14"/>
-        <location filename="../../qutim/build/ui_userinformation.h" line="+141"/>
         <source>userInformation</source>
         <translation>Информация за потребителя</translation>
     </message>
     <message>
         <location line="+65"/>
-        <location filename="../../qutim/build/ui_userinformation.h" line="+3"/>
         <source>Save</source>
         <translation>Запис</translation>
     </message>
     <message>
         <location line="+11"/>
-        <location filename="../../qutim/build/ui_userinformation.h" line="+1"/>
         <source>Close</source>
         <translation>Затваряне</translation>
     </message>
     <message>
         <location line="+41"/>
-        <location filename="../../qutim/build/ui_userinformation.h" line="+2"/>
         <source>Request details</source>
         <translation>Заявка за подробности</translation>
     </message>
