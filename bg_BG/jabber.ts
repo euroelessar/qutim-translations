@@ -45,8 +45,8 @@
         <translation>Ресурс</translation>
     </message>
     <message>
-        <location line="+9"/>
         <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+8"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+9"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
