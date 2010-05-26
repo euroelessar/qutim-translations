@@ -349,7 +349,7 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Изход</translation>
     </message>
     <message>
-        <location line="+19"/>
+        <location line="+18"/>
         <source>Hide offline</source>
         <translation>Скриване на потребителите извън линия</translation>
     </message>
@@ -385,7 +385,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавяне или създаване на нова сметка</translation>
     </message>
     <message>
-        <location line="+88"/>
+        <location line="+76"/>
         <source>Edit info</source>
         <translation>Редактиране на информацията</translation>
     </message>
@@ -403,7 +403,7 @@ p, li { white-space: pre-wrap; }
         <translation>Направление</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+12"/>
         <source>Session list</source>
         <translation>Списък на сесиите</translation>
     </message>
@@ -690,7 +690,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+593"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+597"/>
         <source>All tags</source>
         <translation>Всички етикети</translation>
     </message>
@@ -698,12 +698,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-39"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-38"/>
         <source>Main Toolbar</source>
         <translation>Главна лентата с инструменти</translation>
     </message>
     <message>
-        <location line="+48"/>
+        <location line="+47"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
@@ -903,62 +903,74 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Notifications</name>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/settings/popupbehavior.cpp" line="+28"/>
+        <location filename="../../qutim/src/corelayers/kineticpopups/settings/popupbehavior.cpp" line="+29"/>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+78"/>
         <source>User online</source>
         <translation>Потребител идва на линия</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>User offline</source>
         <translation>Потребител излиза извън линия</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Status changed</source>
         <translation>Промяна на статуса</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>User has birthday today!</source>
         <translation>Потребител има рожден ден днес!</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>qutIM Launched</source>
         <translation>qutIM е стартиран</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Message recieved</source>
         <translation>Полученото съобщение</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Message sent</source>
         <translation>Изпратеното съобщение</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>System notification</source>
         <translation>Системно уведомление</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Typing</source>
         <translation>Пише</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Message blocked</source>
         <translation>Блокирано съобщение</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Count</source>
         <translation>Брой</translation>
     </message>
     <message>
         <location line="+5"/>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="-18"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
@@ -1016,7 +1028,7 @@ p, li { white-space: pre-wrap; }
         <translation>PList конфигурация</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-189"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-188"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
@@ -1761,6 +1773,29 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/contactlist/simpletagseditor/simpletagseditor.ui" line="+39"/>
         <source>Add</source>
         <translation>Добавяне</translation>
+    </message>
+</context>
+<context>
+    <name>SoundTheme</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
+        <source>Filename</source>
+        <translation>Име на файла</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Preview</source>
+        <translation>Предварителен преглед</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Type</source>
+        <translation>Тип</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Play</source>
+        <translation>Възпроизвеждане</translation>
     </message>
 </context>
 <context>
