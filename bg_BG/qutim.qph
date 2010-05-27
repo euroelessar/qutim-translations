@@ -854,43 +854,43 @@
 </phrase>
 <phrase>
     <source>Party</source>
-    <target>Купонясвам</target>
+    <target>Купонясващ</target>
 </phrase>
 <phrase>
     <source>Drinking beer</source>
-    <target>Жуля бира</target>
+    <target>Жулещ бира</target>
 </phrase>
 <phrase>
     <source>Thinking</source>
-    <target>Размишлявам</target>
+    <target>Размишляващ</target>
 </phrase>
 <phrase>
     <source>Eating</source>
-    <target>Хапвам</target>
+    <target>Хапващ</target>
 </phrase>
 <phrase>
     <source>Watching TV</source>
-    <target>Гледам телевизия</target>
+    <target>Гледащ телевизия</target>
 </phrase>
 <phrase>
     <source>Meeting</source>
-    <target>На среща съм</target>
+    <target>На среща</target>
 </phrase>
 <phrase>
     <source>Listening to music</source>
-    <target>Слушам музика</target>
+    <target>Слушащ музика</target>
 </phrase>
 <phrase>
     <source>Business</source>
-    <target>Имам работа</target>
+    <target>По работа</target>
 </phrase>
 <phrase>
     <source>Shooting</source>
-    <target>Снимам</target>
+    <target>Снимащ</target>
 </phrase>
 <phrase>
     <source>Having fun</source>
-    <target>Забавлявам се</target>
+    <target>Забавляващ се</target>
 </phrase>
 <phrase>
     <source>On the phone</source>
@@ -898,35 +898,35 @@
 </phrase>
 <phrase>
     <source>Gaming</source>
-    <target>Играя</target>
+    <target>Играещ</target>
 </phrase>
 <phrase>
     <source>Shopping</source>
-    <target>Пазарувам</target>
+    <target>Пазаруващ</target>
 </phrase>
 <phrase>
     <source>Feeling sick</source>
-    <target>Боледувам</target>
+    <target>Болен</target>
 </phrase>
 <phrase>
     <source>Sleeping</source>
-    <target>Спя</target>
+    <target>Спящ</target>
 </phrase>
 <phrase>
     <source>Surfing</source>
-    <target>Сърфирам</target>
+    <target>Сърфиращ</target>
 </phrase>
 <phrase>
     <source>Browsing</source>
-    <target>Ровя се в нета</target>
+    <target>Ровещ се в Нета</target>
 </phrase>
 <phrase>
     <source>Working</source>
-    <target>Бачкам</target>
+    <target>Бачкащ</target>
 </phrase>
 <phrase>
     <source>Typing</source>
-    <target>Набирам</target>
+    <target>Набиращ</target>
 </phrase>
 <phrase>
     <source>Picnic</source>
@@ -934,7 +934,7 @@
 </phrase>
 <phrase>
     <source>On WC</source>
-    <target>Друсам крушата</target>
+    <target>Друсащ крушата</target>
 </phrase>
 <phrase>
     <source>To be or not to be</source>
@@ -2566,15 +2566,15 @@
 </phrase>
 <phrase>
     <source>Studying</source>
-    <target>Уча</target>
+    <target>Учащ</target>
 </phrase>
 <phrase>
     <source>Cooking</source>
-    <target>Готвя</target>
+    <target>Готвещ</target>
 </phrase>
 <phrase>
     <source>Smoking</source>
-    <target>Пуша</target>
+    <target>Пушещ</target>
 </phrase>
 <phrase>
     <source>Unknown error</source>
@@ -2607,5 +2607,29 @@
 <phrase>
     <source>Enter</source>
     <target>Влизане</target>
+</phrase>
+<phrase>
+    <source>Alexey Ignatiev</source>
+    <target>Алексей Игнатиев</target>
+</phrase>
+<phrase>
+    <source>Alexey Prokhin</source>
+    <target>Елексей Прокхин</target>
+</phrase>
+<phrase>
+    <source>Possible client</source>
+    <target>Вероятен клиент</target>
+</phrase>
+<phrase>
+    <source>Coffee</source>
+    <target>На кафе</target>
+</phrase>
+<phrase>
+    <source>I&apos;m high</source>
+    <target>Надрусан</target>
+</phrase>
+<phrase>
+    <source>Love</source>
+    <target>Влюбен</target>
 </phrase>
 </QPH>
