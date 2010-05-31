@@ -32,7 +32,7 @@
         <translation>Бан</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucuser.cpp" line="+108"/>
+        <location filename="../../src/protocol/account/muc/jmucuser.cpp" line="+109"/>
         <source>Real JID</source>
         <translation type="unfinished">Настоящий JID</translation>
     </message>
@@ -45,8 +45,8 @@
         <translation>Ресурс</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucuser.cpp" line="+3"/>
-        <location filename="../../src/protocol/account/roster/jcontact.cpp" line="+5"/>
+        <location filename="../../src/protocol/account/muc/jmucuser.cpp" line="+8"/>
+        <location filename="../../src/protocol/account/roster/jcontact.cpp" line="+9"/>
         <source>Possible client</source>
         <translation>Возможный клиент</translation>
     </message>
@@ -311,32 +311,32 @@
         <translation>Войти в конференцию</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="+233"/>
+        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="+237"/>
         <source>Join to conference</source>
         <translation>Войти в конференцию</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+7"/>
         <source>Leave from conference</source>
         <translation>Покинуть конференцию</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+7"/>
         <source>Copy room address to clipboard</source>
         <translation>Адрес конференции в буфер</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+7"/>
         <source>Save to bookmarks</source>
         <translation>Сохранить в закладках</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+7"/>
         <source>Remove from bookmarks</source>
         <translation>Удалить из закладок</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+7"/>
         <source>Room&apos;s configuration</source>
         <translation>Настройки комнаты</translation>
     </message>
@@ -516,7 +516,7 @@
         <location line="+93"/>
         <location line="+5"/>
         <source>WHAT?! Unknown error?! OH SHI~~</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Чо?! Неизвестная ошибка?! ВОТ БЛ~~</translation>
     </message>
     <message>
         <location line="-93"/>
@@ -713,7 +713,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCManager</name>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="-171"/>
+        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="-178"/>
         <source>Join groupchat on</source>
         <translation>Войти в конференцию</translation>
     </message>
@@ -768,7 +768,7 @@ Accept invitation?</source>
         <translation type="obsolete">вошел в комнату</translation>
     </message>
     <message>
-        <location line="+40"/>
+        <location line="+41"/>
         <location line="+2"/>
         <location line="+2"/>
         <location line="+2"/>
@@ -778,19 +778,19 @@ Accept invitation?</source>
     </message>
     <message>
         <location line="-8"/>
-        <location line="+25"/>
+        <location line="+26"/>
         <source> owner</source>
         <translation type="unfinished"> владелец</translation>
     </message>
     <message>
-        <location line="-23"/>
-        <location line="+25"/>
+        <location line="-24"/>
+        <location line="+26"/>
         <source> administrator</source>
         <translation type="unfinished"> администратор</translation>
     </message>
     <message>
-        <location line="-23"/>
-        <location line="+29"/>
+        <location line="-24"/>
+        <location line="+30"/>
         <source> registered member</source>
         <translation type="unfinished"> регистрированный</translation>
     </message>
@@ -799,8 +799,8 @@ Accept invitation?</source>
         <translation type="obsolete"> участник</translation>
     </message>
     <message>
-        <location line="-25"/>
-        <location line="+23"/>
+        <location line="-26"/>
+        <location line="+24"/>
         <location line="+6"/>
         <location line="+6"/>
         <source> visitor</source>
@@ -821,7 +821,7 @@ Accept invitation?</source>
 %1</translation>
     </message>
     <message>
-        <location line="-93"/>
+        <location line="-95"/>
         <source> has been banned</source>
         <translation type="unfinished"> был заблокирован</translation>
     </message>
@@ -851,7 +851,7 @@ Accept invitation?</source>
         <translation>Вы были забанены</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+12"/>
         <source> is now known as </source>
         <translation type="unfinished"> теперь известен как</translation>
     </message>
@@ -862,18 +862,18 @@ Accept invitation?</source>
     </message>
     <message>
         <location line="+8"/>
-        <location line="+23"/>
+        <location line="+24"/>
         <location line="+12"/>
         <source> participant</source>
         <translation type="unfinished"> участник</translation>
     </message>
     <message>
-        <location line="-26"/>
+        <location line="-27"/>
         <source> has left the room</source>
         <translation type="unfinished"> покинул комнату</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+9"/>
         <source> now is</source>
         <translation type="unfinished"> теперь</translation>
     </message>
@@ -892,7 +892,7 @@ Accept invitation?</source>
         <translation type="unfinished"> модератор</translation>
     </message>
     <message>
-        <location line="+94"/>
+        <location line="+96"/>
         <source>Subject:</source>
         <translation type="unfinished">Тема:</translation>
     </message>
@@ -973,6 +973,29 @@ Accept invitation?</source>
         <location line="+0"/>
         <source>Enter ban reason for %1</source>
         <translation type="unfinished">Укажите причину блокировки %1</translation>
+    </message>
+</context>
+<context>
+    <name>Jabber::JRoster</name>
+    <message>
+        <location filename="../../src/protocol/account/roster/jroster.cpp" line="+174"/>
+        <source>Not in list</source>
+        <translation type="unfinished">Yt d cgbcrt</translation>
+    </message>
+    <message>
+        <location line="+87"/>
+        <source>You were authorized</source>
+        <translation type="unfinished">Вас авторизовали</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Your authorization was removed</source>
+        <translation type="unfinished">Вашу авторизацию отозвали</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Contacts&apos;s authorization was removed</source>
+        <translation type="unfinished">Авторизация контакта удалена</translation>
     </message>
 </context>
 <context>

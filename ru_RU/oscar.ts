@@ -42,7 +42,7 @@
 <context>
     <name>Affiliation</name>
     <message>
-        <location filename="../../src/metainfofields_p.h" line="+497"/>
+        <location filename="../../src/metainfofields_p.h" line="+500"/>
         <source>Alumni Org.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -183,7 +183,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="+43"/>
+        <location filename="../../src/oscarplugin.cpp" line="+44"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -528,7 +528,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../src/icqcontact.cpp" line="+74"/>
+        <location filename="../../src/icqcontact.cpp" line="+67"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
@@ -553,7 +553,7 @@
         <translation>Зарегестрирован</translation>
     </message>
     <message>
-        <location filename="../../src/privacylists.cpp" line="+59"/>
+        <location filename="../../src/privacylists.cpp" line="+150"/>
         <source>Add to visible list</source>
         <translation>Добавить в список видимости</translation>
     </message>
@@ -599,9 +599,47 @@
     </message>
 </context>
 <context>
+    <name>ContactSearch</name>
+    <message>
+        <location filename="../../src/contactsearch.cpp" line="+76"/>
+        <source>UIN</source>
+        <translation type="unfinished">UIN (номер ICQ)</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Nick</source>
+        <translation type="unfinished">Ник</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>First name</source>
+        <translation type="unfinished">Имя</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Last name</source>
+        <translation type="unfinished">Фамилия</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Email</source>
+        <translation type="unfinished">Эл.Почта</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Gender</source>
+        <translation type="unfinished">Пол</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Age</source>
+        <translation type="unfinished">Возраст</translation>
+    </message>
+</context>
+<context>
     <name>Country</name>
     <message>
-        <location filename="../../src/metainfofields_p.h" line="-501"/>
+        <location filename="../../src/metainfofields_p.h" line="-504"/>
         <source>Other</source>
         <translation type="unfinished">Другое</translation>
     </message>
@@ -1857,12 +1895,11 @@
 <context>
     <name>Gender</name>
     <message>
-        <location filename="../../src/metainfofields_p.h" line="+151"/>
         <source>Not specified</source>
-        <translation type="unfinished">Не указан</translation>
+        <translation type="obsolete">Не указан</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../src/metainfofields_p.h" line="+152"/>
         <source>Female</source>
         <translation type="unfinished">Женский</translation>
     </message>
@@ -2209,7 +2246,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Industry</name>
     <message>
-        <location filename="../../src/metainfofields_p.h" line="+20"/>
+        <location filename="../../src/metainfofields_p.h" line="+24"/>
         <source>Agriculture</source>
         <translation type="unfinished">Сельское хозяйство</translation>
     </message>
@@ -2302,7 +2339,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Interest</name>
     <message>
-        <location line="-183"/>
+        <location line="-186"/>
         <source>50&apos;s</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2929,7 +2966,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Marital</name>
     <message>
-        <location line="+134"/>
+        <location line="+137"/>
         <source>Single</source>
         <translation type="unfinished">Один</translation>
     </message>
@@ -2975,9 +3012,17 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>MetaController</name>
+    <message>
+        <location filename="../../src/privacylists.cpp" line="+14"/>
+        <source>Additional</source>
+        <translation type="unfinished">Дополнительно</translation>
+    </message>
+</context>
+<context>
     <name>MetaInfo</name>
     <message>
-        <location line="+6"/>
+        <location filename="../../src/metainfofields_p.h" line="+6"/>
         <source>Nick</source>
         <translation>Ник</translation>
     </message>
@@ -3056,11 +3101,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+1"/>
+        <location line="+26"/>
         <source>Age</source>
         <translation>Возраст</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-25"/>
         <source>Gender</source>
         <translatorcomment>паркетный</translatorcomment>
         <translation>Пол</translation>
@@ -3081,6 +3127,16 @@ p, li { white-space: pre-wrap; }
         <translation>Языки</translation>
     </message>
     <message>
+        <location line="+21"/>
+        <source>UIN</source>
+        <translation type="unfinished">UIN (номер ICQ)</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>online only</source>
+        <translation type="unfinished">только &quot;в сети&quot;</translation>
+    </message>
+    <message>
         <source>Original city</source>
         <translation type="obsolete">Откуда (город)</translation>
     </message>
@@ -3097,7 +3153,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Работа</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="-7"/>
         <source>Emails</source>
         <translation>Эл почта</translation>
     </message>
@@ -3117,7 +3173,7 @@ p, li { white-space: pre-wrap; }
         <translation>Прошлое</translation>
     </message>
     <message>
-        <location filename="../../src/metainfo.cpp" line="+72"/>
+        <location filename="../../src/metainfo.cpp" line="+116"/>
         <source>Basic</source>
         <translation type="unfinished">Основной</translation>
     </message>
@@ -3414,7 +3470,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Past</name>
     <message>
-        <location line="-84"/>
+        <location line="-87"/>
         <source>Elementary School</source>
         <translation>Начальная школа</translation>
     </message>
@@ -3548,6 +3604,16 @@ p, li { white-space: pre-wrap; }
         <translation>писки доступа аськи</translation>
     </message>
     <message>
+        <location line="+3"/>
+        <source>Oscar contact search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Oscar contact search implementation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../plugins/xstatus/xstatus.cpp" line="-7"/>
         <source>OscarXStatus</source>
         <translation type="unfinished">X-Статус</translation>
@@ -3557,6 +3623,49 @@ p, li { white-space: pre-wrap; }
         <location line="+7"/>
         <source>Additional statuses for oscar protocol</source>
         <translation type="unfinished">Дополнительные X-статуы для аськи</translation>
+    </message>
+</context>
+<context>
+    <name>Privacy</name>
+    <message>
+        <location filename="../../src/privacylists.cpp" line="-92"/>
+        <source>Visible for all</source>
+        <translation>Видимый для всех</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Invisible for all</source>
+        <translation>Невидимый для всех</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Visible only for visible list</source>
+        <translation>Видимый только для списка видимости</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Invisible only for invisible list</source>
+        <translation>Невидимый только для списка невидимости</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Visible only for contact list</source>
+        <translation>Видимый только для списка контактов</translation>
+    </message>
+    <message>
+        <location line="+71"/>
+        <source>Visible mode:</source>
+        <translation type="unfinished">Видимый режим:</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Invisible mode:</source>
+        <translation type="unfinished">Невидимый режим:</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Privacy status</source>
+        <translation>Приватный статус</translation>
     </message>
 </context>
 <context>
@@ -3731,7 +3840,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>StudyLevel</name>
     <message>
-        <location filename="../../src/metainfofields_p.h" line="+14"/>
+        <location filename="../../src/metainfofields_p.h" line="+17"/>
         <source>Associated degree</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3777,7 +3886,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../plugins/identify/clientidentify.cpp" line="-5"/>
         <location line="+3"/>
         <location filename="../../plugins/xstatus/xstatus.cpp" line="-27"/>
-        <location filename="../../src/oscarplugin.cpp" line="-34"/>
+        <location filename="../../src/oscarplugin.cpp" line="-38"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
