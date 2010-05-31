@@ -10,6 +10,13 @@
     </message>
 </context>
 <context>
+    <name>Interest</name>
+    <message>
+        <source>Business</source>
+        <translation type="obsolete">По работа</translation>
+    </message>
+</context>
+<context>
     <name>Plugin</name>
     <message>
         <location line="+4"/>

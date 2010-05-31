@@ -172,8 +172,8 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.cpp" line="+111"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatwidget.cpp" line="+102"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.cpp" line="+98"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatwidget.cpp" line="+80"/>
         <source>View History</source>
         <translation>Преглед на хронологията</translation>
     </message>
@@ -198,12 +198,11 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatLayer</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatlayerimpl.cpp" line="+46"/>
         <source>Send message</source>
-        <translation>Изпращане на съобщение</translation>
+        <translation type="obsolete">Изпращане на съобщение</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayerimpl.cpp" line="+46"/>
         <source>Close chat</source>
         <translation>Затваряне на разговора</translation>
     </message>
@@ -408,7 +407,7 @@ p, li { white-space: pre-wrap; }
         <translation>Списък на сесиите</translation>
     </message>
     <message>
-        <location line="+112"/>
+        <location line="+93"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -421,7 +420,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ClassicChatWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatwidget.cpp" line="+102"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatwidget.cpp" line="+85"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -509,6 +508,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::Game::PListConfigBackend</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/configbackends/plistconfigbackend.cpp" line="+159"/>
+        <source>Cannot write to file %1</source>
+        <translation>Невъзможен е записът във файла %1</translation>
+    </message>
+</context>
+<context>
     <name>Core::HistoryWindow</name>
     <message>
         <location filename="../../qutim/src/corelayers/jsonhistory/historywindow.cpp" line="+40"/>
@@ -553,7 +560,7 @@ p, li { white-space: pre-wrap; }
         <translation>Не бе открита директория съдържаща профил</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="+22"/>
         <source>Unable to find any profile</source>
         <translation>Не бе открит профил</translation>
     </message>
@@ -561,7 +568,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::PListConfigBackend</name>
     <message>
-        <location filename="../../qutim/src/corelayers/configbackends/plistconfigbackend.cpp" line="+249"/>
+        <location filename="../../qutim/src/corelayers/configbackends/plistconfigbackend.cpp" line="+197"/>
         <source>Cannot write to file %1</source>
         <translation>Невъзможен е записът във файла %1</translation>
     </message>
@@ -599,7 +606,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileDialog</name>
     <message>
-        <location filename="../../qutim/src/profiledialog.cpp" line="+156"/>
+        <location filename="../../qutim/src/profiledialog.cpp" line="+152"/>
         <source>Invalid name</source>
         <translation>Невалидно име</translation>
     </message>
@@ -690,7 +697,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+597"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+599"/>
         <source>All tags</source>
         <translation>Всички етикети</translation>
     </message>
@@ -1008,22 +1015,26 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM реализация на шифриране. На базата на aes256 алгоритъма</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/configbackends/jsonconfigbackend.cpp" line="+29"/>
+        <location filename="../../qutim/src/corelayers/configbackends/jsonconfigbackend.cpp" line="+31"/>
+        <location line="+7"/>
         <source>JSON config</source>
         <translation>JSON конфигурация</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-6"/>
+        <location line="+7"/>
         <source>Default qutIM config implementation. Based on JSON.</source>
         <translation>Подразбираща се за qutIM реализация на конфигурационни файлове. На базата на JSON</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="-5"/>
+        <location line="+7"/>
         <source>Additional qutIM config implementation for Apple plists</source>
         <translation>Допълнителна реализация на конфигурационни файлове на qutIM за Apple plists</translation>
     </message>
     <message>
-        <location line="-1"/>
+        <location line="-8"/>
+        <location line="+7"/>
         <source>PList config</source>
         <translation>PList конфигурация</translation>
     </message>
@@ -1048,7 +1059,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбиращ се за qutIM диалог за настройване, с OS X стил на заглавната лента</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatlayerimpl.cpp" line="-30"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayerimpl.cpp" line="-24"/>
         <source>Webkit chat layer</source>
         <translation>WebKit слой за разговор</translation>
     </message>
@@ -1058,7 +1069,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM реализация на разговор. На базата на Adium стилове за разговора</translation>
     </message>
     <message>
-        <location line="+36"/>
+        <location line="+30"/>
         <source>Helper for chat layer</source>
         <translation>Помощник на слоя за разговори</translation>
     </message>
@@ -1340,7 +1351,7 @@ p, li { white-space: pre-wrap; }
         <translation>Опростен избор на звукови теми</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatform.cpp" line="+15"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatform.cpp" line="+12"/>
         <source>Adium</source>
         <translation>Adium</translation>
     </message>
@@ -1350,7 +1361,7 @@ p, li { white-space: pre-wrap; }
         <translation>Реализация на Adium подобен изглед на прозореца на разговори</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatform.cpp" line="+15"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatform.cpp" line="+12"/>
         <source>Classic</source>
         <translation>Клисически</translation>
     </message>

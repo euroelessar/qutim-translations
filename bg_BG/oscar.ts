@@ -536,7 +536,7 @@
         <translation type="obsolete">Вероятен клиент</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+74"/>
+        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+67"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
