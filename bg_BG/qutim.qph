@@ -2632,4 +2632,12 @@
     <source>Love</source>
     <target>Влюбен</target>
 </phrase>
+<phrase>
+    <source>Aleksey Sidorov</source>
+    <target>Алексей Сидоров</target>
+</phrase>
+<phrase>
+    <source>Developer</source>
+    <target>Разработчик</target>
+</phrase>
 </QPH>

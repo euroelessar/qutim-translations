@@ -172,8 +172,8 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.cpp" line="+98"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatwidget.cpp" line="+80"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.cpp" line="+94"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatwidget.cpp" line="+76"/>
         <source>View History</source>
         <translation>Преглед на хронологията</translation>
     </message>
@@ -407,7 +407,7 @@ p, li { white-space: pre-wrap; }
         <translation>Списък на сесиите</translation>
     </message>
     <message>
-        <location line="+93"/>
+        <location line="+79"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -420,7 +420,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ClassicChatWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatwidget.cpp" line="+85"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatwidget.cpp" line="+69"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -606,7 +606,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileDialog</name>
     <message>
-        <location filename="../../qutim/src/profiledialog.cpp" line="+152"/>
+        <location filename="../../qutim/src/profiledialog.cpp" line="+156"/>
         <source>Invalid name</source>
         <translation>Невалидно име</translation>
     </message>
@@ -2025,7 +2025,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::ModuleManager</name>
     <message>
-        <location filename="../../qutim/libqutim/modulemanager.cpp" line="+267"/>
+        <location filename="../../qutim/libqutim/modulemanager.cpp" line="+273"/>
         <source>Library: %1</source>
         <translation>Библиотека: %1</translation>
     </message>

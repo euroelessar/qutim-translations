@@ -953,7 +953,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JProtocol</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+21"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+22"/>
         <source>Kick</source>
         <translation>Изритване (Kick)</translation>
     </message>
@@ -1383,7 +1383,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-35"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-36"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
