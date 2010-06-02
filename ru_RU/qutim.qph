@@ -3863,4 +3863,8 @@ Accept invitation?</source>
     <source>Set Status Text</source>
     <target>Установить текст статуса</target>
 </phrase>
+<phrase>
+    <source>Vsevolod Velichko</source>
+    <target>Всеволод Величко</target>
+</phrase>
 </QPH>
