@@ -4,12 +4,14 @@
 <context>
     <name>Author</name>
     <message>
+        <location filename="../../kde-integration/src/kdeintegration.cpp" line="+42"/>
         <source>Ruslan Nigmatullin</source>
-        <translation type="obsolete">Руслан Нигматуллин</translation>
+        <translation>Руслан Нигматуллин</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Sidorov Aleksey</source>
-        <translation type="obsolete">Сергей Сидоров</translation>
+        <translation>Алексей Сидоров</translation>
     </message>
 </context>
 <context>
@@ -46,48 +48,59 @@
 <context>
     <name>Plugin</name>
     <message>
+        <location filename="../../kde-integration/src/kdeintegration.cpp" line="+3"/>
         <source>KDE integration</source>
-        <translation type="obsolete">Интеграция с KDE</translation>
+        <translation>Интеграция с KDE</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Integration with K Desktop Environment</source>
-        <translation type="obsolete">Интеграция с K Desktop Environment</translation>
+        <translation>Интеграция с K Desktop Environment</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>KDE Emoticons</source>
-        <translation type="obsolete">KDE емотикони</translation>
+        <translation>KDE емотикони</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Using KDE emoticons packs</source>
-        <translation type="obsolete">Използване на пакети с емотикони от KDE</translation>
+        <translation>Използване на пакети с емотикони от KDE</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>KDE Crash handler</source>
-        <translation type="obsolete">Справяне на KDE с провали</translation>
+        <translation>Справяне на KDE с провали</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Handles qutIM&apos;s craches by KCrash</source>
-        <translation type="obsolete">Докладване провалите на qutIM посредством KCrash</translation>
+        <translation>Докладване провалите на qutIM посредством KCrash</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>KDE Spell checker</source>
-        <translation type="obsolete">Проверка на правописа в KDE</translation>
+        <translation>Проверка на правописа в KDE</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>KDE Icon engine</source>
-        <translation type="obsolete">KDE икони</translation>
+        <translation>KDE икони</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Uses KDE Icon engine for providing icons</source>
-        <translation type="obsolete">Използване на пакети с икони от KDE</translation>
+        <translation>Използване на пакети с икони от KDE</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>KDE Notifications</source>
-        <translation type="obsolete">KDE уведомления</translation>
+        <translation>KDE уведомления</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Uses KDE notifications</source>
-        <translation type="obsolete">Използване на KDE уведомления</translation>
+        <translation>Използване на KDE уведомления</translation>
     </message>
 </context>
 <context>
@@ -106,8 +119,10 @@
 <context>
     <name>Task</name>
     <message>
+        <location filename="../../kde-integration/src/kdeintegration.cpp" line="-21"/>
+        <location line="+3"/>
         <source>Developer</source>
-        <translation type="obsolete">Разработчици</translation>
+        <translation>Разработчик</translation>
     </message>
 </context>
 <context>

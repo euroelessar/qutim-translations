@@ -185,7 +185,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="+296"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="+295"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -502,7 +502,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+150"/>
+        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+149"/>
         <source>Add to visible list</source>
         <translation>Добавяне в списък &quot;Видим за&quot;</translation>
     </message>
@@ -3600,7 +3600,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Privacy</name>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="-92"/>
+        <location filename="../../protocols/oscar/src/privacylists.cpp" line="-91"/>
         <source>Visible for all</source>
         <translation>Видим за всички</translation>
     </message>
@@ -3625,7 +3625,7 @@ p, li { white-space: pre-wrap; }
         <translation>Видим само за списъка с контакти</translation>
     </message>
     <message>
-        <location line="+71"/>
+        <location line="+70"/>
         <source>Visible mode:</source>
         <translation>Режим на видимост:</translation>
     </message>
@@ -3643,7 +3643,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="-314"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="-313"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>

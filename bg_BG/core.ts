@@ -451,7 +451,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+65"/>
-        <location line="+70"/>
+        <location line="+75"/>
         <source>Unable to create chat session</source>
         <translation>Невъзможно е създаването на сесия за разговор</translation>
     </message>
@@ -510,9 +510,8 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::Game::PListConfigBackend</name>
     <message>
-        <location filename="../../qutim/src/corelayers/configbackends/plistconfigbackend.cpp" line="+159"/>
         <source>Cannot write to file %1</source>
-        <translation>Невъзможен е записът във файла %1</translation>
+        <translation type="obsolete">Невъзможен е записът във файла %1</translation>
     </message>
 </context>
 <context>
@@ -568,7 +567,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::PListConfigBackend</name>
     <message>
-        <location filename="../../qutim/src/corelayers/configbackends/plistconfigbackend.cpp" line="+197"/>
+        <location filename="../../qutim/src/corelayers/configbackends/plistconfigbackend.cpp" line="+159"/>
         <source>Cannot write to file %1</source>
         <translation>Невъзможен е записът във файла %1</translation>
     </message>
@@ -606,7 +605,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileDialog</name>
     <message>
-        <location filename="../../qutim/src/profiledialog.cpp" line="+156"/>
+        <location filename="../../qutim/src/profiledialog.cpp" line="+157"/>
         <source>Invalid name</source>
         <translation>Невалидно име</translation>
     </message>
@@ -1016,25 +1015,21 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/configbackends/jsonconfigbackend.cpp" line="+31"/>
-        <location line="+7"/>
         <source>JSON config</source>
         <translation>JSON конфигурация</translation>
     </message>
     <message>
-        <location line="-6"/>
-        <location line="+7"/>
+        <location line="+1"/>
         <source>Default qutIM config implementation. Based on JSON.</source>
         <translation>Подразбираща се за qutIM реализация на конфигурационни файлове. На базата на JSON</translation>
     </message>
     <message>
-        <location line="-5"/>
-        <location line="+7"/>
+        <location line="+2"/>
         <source>Additional qutIM config implementation for Apple plists</source>
         <translation>Допълнителна реализация на конфигурационни файлове на qutIM за Apple plists</translation>
     </message>
     <message>
-        <location line="-8"/>
-        <location line="+7"/>
+        <location line="-1"/>
         <source>PList config</source>
         <translation>PList конфигурация</translation>
     </message>
@@ -2025,7 +2020,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::ModuleManager</name>
     <message>
-        <location filename="../../qutim/libqutim/modulemanager.cpp" line="+273"/>
+        <location filename="../../qutim/libqutim/modulemanager.cpp" line="+269"/>
         <source>Library: %1</source>
         <translation>Библиотека: %1</translation>
     </message>
