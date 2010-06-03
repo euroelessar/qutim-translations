@@ -4,23 +4,27 @@
 <context>
     <name>Plugin</name>
     <message>
+        <location filename="../../plugins/yandexnarod/src/yandexnarod.cpp" line="+32"/>
         <source>Yandex Narod</source>
-        <translation type="obsolete">Yandex.Narod файлов организатор</translation>
+        <translation>Yandex.Narod файлов организатор</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Send files via Yandex.Narod filehosting service</source>
-        <translation type="obsolete">Изпращане на файлoве чрез Yandex.Narod</translation>
+        <translation>Изпращане на файлoве чрез Yandex.Narod</translation>
     </message>
 </context>
 <context>
     <name>Yandex</name>
     <message>
+        <location line="+8"/>
         <source>Send file via Yandex.Narod</source>
-        <translation type="obsolete">Изпращане на файл чрез Yandex.Narod</translation>
+        <translation>Изпращане на файл чрез Yandex.Narod</translation>
     </message>
     <message>
+        <location line="+11"/>
         <source>Yandex Narod</source>
-        <translation type="obsolete">Yandex.Narod</translation>
+        <translation>Yandex.Narod</translation>
     </message>
 </context>
 <context>
@@ -201,6 +205,16 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Finish</source>
         <translation>Приключване</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/yandexnarod/src/uploaddialog.h" line="+86"/>
+        <source>Uploading</source>
+        <translation>Качване</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Done</source>
+        <translation>Завършено</translation>
     </message>
 </context>
 <context>
