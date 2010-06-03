@@ -4,37 +4,43 @@
 <context>
     <name>AntiBoss</name>
     <message>
+        <location filename="../../plugins/antiboss/src/antibossplugin.cpp" line="+36"/>
         <source>Show/hide all windows</source>
-        <translation type="obsolete">Скриване/Показване на всички прозорци</translation>
+        <translation>Скриване/Показване на всички прозорци</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Antiboss</source>
-        <translation type="obsolete">Анти-бос</translation>
+        <translation>Анти-бос</translation>
     </message>
 </context>
 <context>
     <name>Author</name>
     <message>
+        <location line="-9"/>
         <source>Ruslan Nigmatullin</source>
-        <translation type="obsolete">Руслан Нигматуллин</translation>
+        <translation>Руслан Нигматуллин</translation>
     </message>
 </context>
 <context>
     <name>Plugin</name>
     <message>
+        <location line="+3"/>
         <source>Anti-boss plugin</source>
-        <translation type="obsolete">Анти-бос добавка</translation>
+        <translation>Анти-бос добавка</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Plugin makes your chatting invisible for boss</source>
-        <translation type="obsolete">Добавката позволява разговорите да са невидими за началниците</translation>
+        <translation>Добавката позволява разговорите да са невидими за началниците</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
+        <location line="-3"/>
         <source>Developer</source>
-        <translation type="obsolete">Разработчик</translation>
+        <translation>Разработчик</translation>
     </message>
 </context>
 </TS>
