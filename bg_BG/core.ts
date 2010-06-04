@@ -209,6 +209,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+15"/>
+        <source>Number of previous messages shown in new chats</source>
+        <translation>Брой на последните показвани съобщения в новите разговори:</translation>
+    </message>
+    <message>
+        <location line="+3"/>
         <source>Number of shown previous messages:</source>
         <translation>Брой на последните показвани съобщения:</translation>
     </message>
@@ -217,7 +222,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Клавиши за изпращане</translation>
     </message>
     <message>
-        <location line="-7"/>
+        <location line="-10"/>
         <source>Store service messages in history</source>
         <translation>Съхраняване на служебните съобщения в хронологията</translation>
     </message>
@@ -384,7 +389,7 @@ p, li { white-space: pre-wrap; }
         <translation>Скриване на потребителите извън линия</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+42"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+43"/>
         <source>Remove contact</source>
         <translation>Прeмахване на контакта</translation>
     </message>
@@ -755,9 +760,14 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+604"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+630"/>
         <source>All tags</source>
         <translation>Всички етикети</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Custom tags</source>
+        <translation>Собствени етикети</translation>
     </message>
 </context>
 <context>
@@ -776,6 +786,19 @@ p, li { white-space: pre-wrap; }
         <location line="+49"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
+    </message>
+</context>
+<context>
+    <name>Core::SimpleContactList::TreeView</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistview.cpp" line="+59"/>
+        <source>Select tags</source>
+        <translation>Избор на етикети</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Reset</source>
+        <translation>Нулиране</translation>
     </message>
 </context>
 <context>
@@ -1921,6 +1944,14 @@ p, li { white-space: pre-wrap; }
         <location line="+3"/>
         <source>Unknown</source>
         <translation>Неизвестен</translation>
+    </message>
+</context>
+<context>
+    <name>TagsFilterDialog</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/contactlist/tagsfilterdialog.ui" line="+14"/>
+        <source>Select tags</source>
+        <translation>Избор на етикети</translation>
     </message>
 </context>
 <context>
