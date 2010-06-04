@@ -502,7 +502,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+149"/>
+        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+153"/>
         <source>Add to visible list</source>
         <translation>Добавяне в списък &quot;Видим за&quot;</translation>
     </message>
@@ -541,7 +541,7 @@
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+301"/>
+        <location line="+305"/>
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>
