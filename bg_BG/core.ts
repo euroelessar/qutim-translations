@@ -205,7 +205,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+18"/>
         <source>SendKey</source>
-        <translation type="unfinished">Клавиш за изпращане</translation>
+        <translation>Клавиши за изпращане</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -378,7 +378,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+42"/>
         <source>Remove contact</source>
-        <translation>Преименуване на контакта</translation>
+        <translation>Прeмахване на контакта</translation>
     </message>
     <message>
         <location line="+3"/>
