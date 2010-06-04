@@ -204,18 +204,26 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+18"/>
-        <source>SendKey</source>
+        <source>Send Key</source>
         <translation>Клавиши за изпращане</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+15"/>
+        <source>Number of shown previous messages:</source>
+        <translation>Брой на последните показвани съобщения:</translation>
+    </message>
+    <message>
+        <source>SendKey</source>
+        <translation type="obsolete">Клавиши за изпращане</translation>
+    </message>
+    <message>
+        <location line="-7"/>
         <source>Store service messages in history</source>
         <translation>Съхраняване на служебните съобщения в хронологията</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Number of recent messages:</source>
-        <translation>Брой на последните показвани съобщения:</translation>
+        <translation type="obsolete">Брой на последните показвани съобщения:</translation>
     </message>
 </context>
 <context>
@@ -747,7 +755,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+608"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+604"/>
         <source>All tags</source>
         <translation>Всички етикети</translation>
     </message>
@@ -1674,14 +1682,12 @@ p, li { white-space: pre-wrap; }
         <translation>Сметки</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/settings/chatsettings.cpp" line="+5"/>
         <source>Chat appearance</source>
-        <translation>Облик на разговора</translation>
+        <translation type="obsolete">Облик на разговора</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Chat behavior</source>
-        <translation>Разговор</translation>
+        <translation type="obsolete">Разговор</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/emoticonssettings/emoticonssettings.cpp" line="+5"/>
@@ -1732,6 +1738,12 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemesettings.cpp" line="+6"/>
         <source>Sounds</source>
         <translation>Звуци</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/settings/chatsettings.cpp" line="+5"/>
+        <location line="+2"/>
+        <source>Chat</source>
+        <translation>Разговор</translation>
     </message>
 </context>
 <context>
