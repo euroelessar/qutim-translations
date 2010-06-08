@@ -40,7 +40,7 @@
 <context>
     <name>Contact</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+181"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+182"/>
         <source>Resource</source>
         <translation>Ресурс</translation>
     </message>
@@ -750,7 +750,7 @@ Accept invitation?</source>
 </translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+186"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+191"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете ли да се присъедините повторно?</translation>
     </message>
@@ -953,7 +953,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JProtocol</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+21"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+22"/>
         <source>Kick</source>
         <translation>Изритване (Kick)</translation>
     </message>
@@ -981,7 +981,7 @@ Accept invitation?</source>
         <translation>Извън списъка</translation>
     </message>
     <message>
-        <location line="+85"/>
+        <location line="+86"/>
         <source>You were authorized</source>
         <translation>Дадено ви бе удостоверение</translation>
     </message>
@@ -1383,7 +1383,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-35"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-36"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>

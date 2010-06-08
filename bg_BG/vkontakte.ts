@@ -12,7 +12,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+120"/>
+        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+124"/>
         <source>Activity</source>
         <translation>Дейност</translation>
     </message>

@@ -541,7 +541,7 @@
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+305"/>
+        <location line="+310"/>
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>
