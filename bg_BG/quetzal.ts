@@ -19,7 +19,7 @@
 <context>
     <name>Quetzal</name>
     <message>
-        <location filename="../../protocols/quetzal/src/quetzalaccount.cpp" line="+74"/>
+        <location filename="../../protocols/quetzal/src/quetzalaccount.cpp" line="+73"/>
         <source>Join groupchat</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>

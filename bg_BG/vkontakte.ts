@@ -186,7 +186,7 @@
 <context>
     <name>VRosterPrivate</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vroster.cpp" line="+37"/>
+        <location filename="../../protocols/vkontakte/src/vroster.cpp" line="+36"/>
         <source>Friends</source>
         <translation>Приятели</translation>
     </message>

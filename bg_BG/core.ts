@@ -173,7 +173,7 @@ p, li { white-space: pre-wrap; }
     <name>Chat</name>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.cpp" line="+94"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatwidget.cpp" line="+76"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatwidget.cpp" line="+77"/>
         <source>View History</source>
         <translation>Преглед на хронологията</translation>
     </message>
@@ -203,12 +203,17 @@ p, li { white-space: pre-wrap; }
         <translation>Поведение на разговора</translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+51"/>
         <source>Send Key</source>
         <translation>Клавиши за изпращане</translation>
     </message>
     <message>
-        <location line="+15"/>
+        <location line="+28"/>
+        <source>Don&apos;t group messages after (sec):</source>
+        <translation>Да не се групират съобщенията след (след):</translation>
+    </message>
+    <message>
+        <location line="-51"/>
         <source>Number of previous messages shown in new chats</source>
         <translation>Брой на последните показвани съобщения в новите разговори:</translation>
     </message>
@@ -256,7 +261,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+430"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+450"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -438,6 +443,24 @@ p, li { white-space: pre-wrap; }
         <location line="+5"/>
         <source>Remove account</source>
         <translation>Премахване на сметка</translation>
+    </message>
+</context>
+<context>
+    <name>Core::AdiumChat::AbstractChatWidget</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/abstractchatwidget.cpp" line="+57"/>
+        <source>Chat</source>
+        <translation>Разговор</translation>
+    </message>
+    <message>
+        <location line="+46"/>
+        <source>Unable to send empty message!</source>
+        <translation>Невъзможно е изпрщането на празно съобщение!</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Unable to send message to %1</source>
+        <translation>Невъзможно е изпрщането на съобщението до %1</translation>
     </message>
 </context>
 <context>
@@ -760,7 +783,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+630"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+636"/>
         <source>All tags</source>
         <translation>Всички етикети</translation>
     </message>
@@ -1076,7 +1099,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/backend.cpp" line="+40"/>
+        <location filename="../../qutim/src/corelayers/kineticpopups/backend.cpp" line="+39"/>
         <source>Kinetic popups</source>
         <translation>Изскачащи прозорци (Kinetic)</translation>
     </message>
@@ -2119,7 +2142,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::ModuleManager</name>
     <message>
-        <location filename="../../qutim/libqutim/modulemanager.cpp" line="+269"/>
+        <location filename="../../qutim/libqutim/modulemanager.cpp" line="+268"/>
         <source>Library: %1</source>
         <translation>Библиотека: %1</translation>
     </message>
