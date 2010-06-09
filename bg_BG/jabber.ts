@@ -32,9 +32,19 @@
         <translation>Забрана (Ban)</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+109"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+111"/>
         <source>Real JID</source>
         <translation>Реален JID</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Affiliation</source>
+        <translation>Връзка</translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Role</source>
+        <translation>Роля</translation>
     </message>
 </context>
 <context>
@@ -45,7 +55,7 @@
         <translation>Ресурс</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+8"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+7"/>
         <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+9"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
@@ -1308,7 +1318,7 @@ Accept invitation?</source>
         <translation>Разглеждане на услуги</translation>
     </message>
     <message>
-        <location line="+14"/>
+        <location line="+17"/>
         <source>Server:</source>
         <translation>Сървър:</translation>
     </message>
@@ -1318,7 +1328,7 @@ Accept invitation?</source>
         <translation>Филтър:</translation>
     </message>
     <message>
-        <location line="+85"/>
+        <location line="+91"/>
         <source>Searching...</source>
         <translation>Търсене...</translation>
     </message>
