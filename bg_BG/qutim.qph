@@ -2648,4 +2648,8 @@
     <source>Double Enter</source>
     <target>Двоен Enter</target>
 </phrase>
+<phrase>
+    <source>Avatar</source>
+    <target>Аватар</target>
+</phrase>
 </QPH>

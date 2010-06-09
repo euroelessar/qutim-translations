@@ -292,7 +292,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="+226"/>
+        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="+213"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -306,7 +306,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">не е зададено</translation>
     </message>
     <message>
-        <location line="-170"/>
+        <location line="-159"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>За контакта %1 &lt;%2&gt;</translation>
     </message>
@@ -321,17 +321,20 @@ p, li { white-space: pre-wrap; }
         <translation>За контакта %1 &lt;%2&gt;</translation>
     </message>
     <message>
-        <location line="+64"/>
         <source>Open avatar</source>
-        <translation>Избор на аватар</translation>
+        <translation type="obsolete">Избор на аватар</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Images (*.gif *.bmp *.jpg *.jpeg *.png);;All files (*.*)</source>
-        <translation>Изображения (*.gif *.bmp *.jpg *.jpeg *.png);;Всички файлове (*.*)</translation>
+        <translation type="obsolete">Изображения (*.gif *.bmp *.jpg *.jpeg *.png);;Всички файлове (*.*)</translation>
     </message>
     <message>
-        <location line="+30"/>
+        <location line="+9"/>
+        <source>Avatar</source>
+        <translation>Аватар</translation>
+    </message>
+    <message>
+        <location line="+76"/>
         <source>Summary</source>
         <translation>Резюме</translation>
     </message>
@@ -341,7 +344,7 @@ p, li { white-space: pre-wrap; }
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+78"/>
+        <location line="+73"/>
         <source>Show information</source>
         <translation>Показване на информация</translation>
     </message>
@@ -783,7 +786,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+636"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+638"/>
         <source>All tags</source>
         <translation>Всички етикети</translation>
     </message>
@@ -835,7 +838,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>DataForms</name>
     <message>
-        <location filename="../../qutim/src/corelayers/dataformsbackend/readonlydatalayout.cpp" line="+69"/>
+        <location filename="../../qutim/src/corelayers/dataformsbackend/readonlydatalayout.cpp" line="+72"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -850,9 +853,19 @@ p, li { white-space: pre-wrap; }
         <translation>полето не е попълнено</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/dataformsbackend/editablewidgets.h" line="+19"/>
+        <location filename="../../qutim/src/corelayers/dataformsbackend/editablewidgets.h" line="+22"/>
         <source>Not specified</source>
         <translation>Не е зададено</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/dataformsbackend/editablewidgets.cpp" line="+289"/>
+        <source>Open image</source>
+        <translation>Отваряне на изображение</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Images (*.gif *.bmp *.jpg *.jpeg *.png);;All files (*.*)</source>
+        <translation>Изображения (*.gif *.bmp *.jpg *.jpeg *.png);;Всички файлове (*.*)</translation>
     </message>
 </context>
 <context>
@@ -1317,7 +1330,7 @@ p, li { white-space: pre-wrap; }
         <translation>Модул за миграция от 0.2 към 0.3</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="-245"/>
+        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="-226"/>
         <source>Simple information window about a contact</source>
         <translation>Опростен прозорец с информация за контакта</translation>
     </message>
@@ -2160,7 +2173,7 @@ p, li { white-space: pre-wrap; }
         <translation>Информация за потребителя</translation>
     </message>
     <message>
-        <location line="+65"/>
+        <location line="+33"/>
         <source>Save</source>
         <translation>Запис</translation>
     </message>
@@ -2170,7 +2183,7 @@ p, li { white-space: pre-wrap; }
         <translation>Затваряне</translation>
     </message>
     <message>
-        <location line="+41"/>
+        <location line="+34"/>
         <source>Request details</source>
         <translation>Заявка за подробности</translation>
     </message>
