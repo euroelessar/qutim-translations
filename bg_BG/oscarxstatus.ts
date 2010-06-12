@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+155"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+156"/>
         <source>Alexey Prokhin</source>
         <translation>Елексей Прокхин</translation>
     </message>

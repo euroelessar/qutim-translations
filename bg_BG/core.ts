@@ -261,7 +261,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+450"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+466"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -1942,7 +1942,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../qutim/libqutim/status.cpp" line="+102"/>
+        <location filename="../../qutim/libqutim/status.cpp" line="+108"/>
         <source>Online</source>
         <translation>На линия</translation>
     </message>
