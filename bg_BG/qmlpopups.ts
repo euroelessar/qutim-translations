@@ -142,7 +142,7 @@
     <message>
         <location filename="../../plugins/qmlpopups/src/popup.cpp" line="+74"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt; + още %1 уведомления &lt;/p&gt;</translation>
+        <translation>&lt;p&gt; + още %1 уведомления &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
