@@ -110,7 +110,6 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>BehaviorSettings</name>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/settings/notifications.ui" line="+14"/>
         <location filename="../../qutim/src/corelayers/notificationssettings/notifications.ui" line="+14"/>
         <source>Form</source>
         <translation>Поведение</translation>
@@ -121,61 +120,51 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+9"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/notifications.ui" line="+9"/>
         <source>Timeout, msec:</source>
         <translation>Интервал, msec:</translation>
     </message>
     <message>
         <location line="+13"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/notifications.ui" line="+13"/>
         <source>5000</source>
         <translation>5000</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/notifications.ui" line="+7"/>
         <source>Animation speed:</source>
         <translation>Скорост на анимацията:</translation>
     </message>
     <message>
         <location line="+11"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/notifications.ui" line="+11"/>
         <source>No Animation</source>
         <translation>Без анимация</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/notifications.ui" line="+5"/>
         <source>Very fast</source>
         <translation>Много бърза</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/notifications.ui" line="+5"/>
         <source>Fast</source>
         <translation>Бърза</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/notifications.ui" line="+5"/>
         <source>Normal</source>
         <translation>Нормална</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/notifications.ui" line="+5"/>
         <source>Slow</source>
         <translation>Бавна</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/notifications.ui" line="+5"/>
         <source>Very slow</source>
         <translation>Много бавна</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/notifications.ui" line="+5"/>
         <source>Custom</source>
         <translation>Собствена</translation>
     </message>
@@ -1038,7 +1027,6 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Notifications</name>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/settings/popupbehavior.cpp" line="+29"/>
         <location filename="../../qutim/src/corelayers/notificationssettings/popupbehavior.cpp" line="+29"/>
         <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+78"/>
         <source>User online</source>
@@ -1046,90 +1034,77 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/popupbehavior.cpp" line="+1"/>
         <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>User offline</source>
         <translation>Потребител излиза извън линия</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/popupbehavior.cpp" line="+1"/>
         <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Status changed</source>
         <translation>Промяна на статуса</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/popupbehavior.cpp" line="+1"/>
         <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>User has birthday today!</source>
         <translation>Потребител има рожден ден днес!</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/popupbehavior.cpp" line="+1"/>
         <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>qutIM Launched</source>
         <translation>qutIM е стартиран</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/popupbehavior.cpp" line="+1"/>
         <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Message recieved</source>
         <translation>Полученото съобщение</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/popupbehavior.cpp" line="+1"/>
         <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Message sent</source>
         <translation>Изпратеното съобщение</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/popupbehavior.cpp" line="+1"/>
         <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>System notification</source>
         <translation>Системно уведомление</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/popupbehavior.cpp" line="+1"/>
         <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Typing</source>
         <translation>Пише</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/popupbehavior.cpp" line="+1"/>
         <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Message blocked</source>
         <translation>Блокирано съобщение</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/popupbehavior.cpp" line="+1"/>
         <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Count</source>
         <translation>Брой</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/popupbehavior.cpp" line="+5"/>
         <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="-18"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/popupbehavior.cpp" line="+1"/>
         <source>Play sound</source>
         <translation>Възпроизвеждане на звук</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/popupbehavior.cpp" line="+1"/>
         <source>Show popup</source>
         <translation>Показване на изскачащ прозорец</translation>
     </message>
@@ -1147,14 +1122,12 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM реализация на изскачащи прозорци. На базата на Kinetic</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/aescrypto/aescryptoservice.cpp" line="+9"/>
         <source>AES crypto</source>
-        <translation>AES шифриране</translation>
+        <translation type="obsolete">AES шифриране</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Default qutIM crypto implementation. Based on algorithm aes256</source>
-        <translation>Подразбираща се за qutIM реализация на шифриране. На базата на aes256 алгоритъма</translation>
+        <translation type="obsolete">Подразбираща се за qutIM реализация на шифриране. На базата на aes256 алгоритъма</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/configbackends/jsonconfigbackend.cpp" line="+31"/>
