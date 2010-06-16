@@ -172,7 +172,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.cpp" line="+97"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.cpp" line="+98"/>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatwidget.cpp" line="+77"/>
         <source>View History</source>
         <translation>Преглед на хронологията</translation>
@@ -203,17 +203,17 @@ p, li { white-space: pre-wrap; }
         <translation>Поведение на разговора</translation>
     </message>
     <message>
-        <location line="+51"/>
+        <location line="+24"/>
         <source>Send Key</source>
         <translation>Клавиши за изпращане</translation>
     </message>
     <message>
-        <location line="+28"/>
+        <location line="+25"/>
         <source>Don&apos;t group messages after (sec):</source>
         <translation>Да не се групират съобщенията след (след):</translation>
     </message>
     <message>
-        <location line="-51"/>
+        <location line="-10"/>
         <source>Number of previous messages shown in new chats</source>
         <translation>Брой на последните показвани съобщения в новите разговори:</translation>
     </message>
@@ -469,7 +469,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::AdiumChatWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.cpp" line="+11"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.cpp" line="-16"/>
+        <source>Chat actions</source>
+        <translation>Действия</translation>
+    </message>
+    <message>
+        <location line="+27"/>
         <source>Destination</source>
         <translation>Направление</translation>
     </message>
