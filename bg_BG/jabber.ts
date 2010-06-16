@@ -986,7 +986,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JRoster</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+174"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+179"/>
         <source>Not in list</source>
         <translation>Извън списъка</translation>
     </message>
