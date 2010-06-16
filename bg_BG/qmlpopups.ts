@@ -17,142 +17,113 @@
 <context>
     <name>BehaviorSettings</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/settings/notifications.ui" line="+14"/>
         <source>Form</source>
-        <translation>Настройки на изгледа</translation>
+        <translation type="obsolete">Настройки на изгледа</translation>
     </message>
     <message>
         <source>Notification types</source>
         <translation type="obsolete">Тип на уведомленията</translation>
     </message>
     <message>
-        <location line="+9"/>
         <source>Timeout, msec:</source>
-        <translation>Интервал (мсек):</translation>
+        <translation type="obsolete">Интервал (мсек):</translation>
     </message>
     <message>
-        <location line="+13"/>
-        <source>5000</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+7"/>
         <source>Animation speed:</source>
-        <translation>Скорост на анимацията:</translation>
+        <translation type="obsolete">Скорост на анимацията:</translation>
     </message>
     <message>
-        <location line="+11"/>
         <source>No Animation</source>
-        <translation>Без анимация</translation>
+        <translation type="obsolete">Без анимация</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Very fast</source>
-        <translation>Много бърза</translation>
+        <translation type="obsolete">Много бърза</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Fast</source>
-        <translation>Бърза</translation>
+        <translation type="obsolete">Бърза</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Normal</source>
-        <translation>Нормална</translation>
+        <translation type="obsolete">Нормална</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Slow</source>
-        <translation>Бавна</translation>
+        <translation type="obsolete">Бавна</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Very slow</source>
-        <translation>Много бавна</translation>
+        <translation type="obsolete">Много бавна</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Custom</source>
-        <translation>Собсвена</translation>
+        <translation type="obsolete">Собсвена</translation>
     </message>
 </context>
 <context>
     <name>Notifications</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/settings/popupbehavior.cpp" line="+28"/>
         <source>User online</source>
-        <translation>Потребител идва на линия</translation>
+        <translation type="obsolete">Потребител идва на линия</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>User offline</source>
-        <translation>Потребител излиза извън линия</translation>
+        <translation type="obsolete">Потребител излиза извън линия</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Status changed</source>
-        <translation>Промяна на статуса</translation>
+        <translation type="obsolete">Промяна на статуса</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>User has birthday today!</source>
-        <translation>Потребител има рожден ден днес!</translation>
+        <translation type="obsolete">Потребител има рожден ден днес!</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>qutIM Launched</source>
-        <translation>qutIM е стартиран</translation>
+        <translation type="obsolete">qutIM е стартиран</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Message recieved</source>
-        <translation>Полученото съобщение</translation>
+        <translation type="obsolete">Полученото съобщение</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Message sent</source>
-        <translation>Изпратеното съобщение</translation>
+        <translation type="obsolete">Изпратеното съобщение</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>System notification</source>
-        <translation>Системно уведомление</translation>
+        <translation type="obsolete">Системно уведомление</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Typing</source>
-        <translation>Пише</translation>
+        <translation type="obsolete">Пише</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Message blocked</source>
-        <translation>Блокирано съобщение</translation>
+        <translation type="obsolete">Блокирано съобщение</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Count</source>
-        <translation>Брой</translation>
+        <translation type="obsolete">Брой</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Type</source>
-        <translation>Тип</translation>
+        <translation type="obsolete">Тип</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Play sound</source>
-        <translation>Възпроизвеждане на звук</translation>
+        <translation type="obsolete">Възпроизвеждане на звук</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Show popup</source>
-        <translation>Показване на изскачащ прозорец</translation>
+        <translation type="obsolete">Показване на изскачащ прозорец</translation>
     </message>
 </context>
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+15"/>
+        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+12"/>
         <source>Qml popups</source>
         <translation>Qml изскачащи прозорци</translation>
     </message>
@@ -169,8 +140,9 @@
 <context>
     <name>QmlPopups::Popup</name>
     <message>
+        <location filename="../../plugins/qmlpopups/src/popup.cpp" line="+74"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
-        <translation type="obsolete">&lt;p&gt; + още %1 уведомления &lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt; + още %1 уведомления &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -206,12 +178,11 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+7"/>
         <source>Notifications</source>
-        <translation>Уведомления</translation>
+        <translation type="obsolete">Уведомления</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../plugins/qmlpopups/src/backend.cpp" line="+35"/>
         <source>Popups</source>
         <translation>Изскачащи прозорци</translation>
     </message>
@@ -219,7 +190,7 @@
 <context>
     <name>plugin</name>
     <message>
-        <location line="-7"/>
+        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+2"/>
         <source>Qml popups</source>
         <translation>Qml изскачащи прозорци</translation>
     </message>
