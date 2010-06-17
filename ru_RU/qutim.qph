@@ -3867,4 +3867,28 @@ Accept invitation?</source>
     <source>Vsevolod Velichko</source>
     <target>Всеволод Величко</target>
 </phrase>
+<phrase>
+    <source>Reset</source>
+    <target>Сброс</target>
+</phrase>
+<phrase>
+    <source>Invalid name</source>
+    <target>Неправильное имя</target>
+</phrase>
+<phrase>
+    <source>Add to contact list</source>
+    <target>Добавить в ростер</target>
+</phrase>
+<phrase>
+    <source>%1 was tagged on photo</source>
+    <target>%1 отметился на фото</target>
+</phrase>
+<phrase>
+    <source>%1 added new photo</source>
+    <target>%1 добавил фотографию</target>
+</phrase>
+<phrase>
+    <source>Alexander Kazarin</source>
+    <target>Александр Казарин</target>
+</phrase>
 </QPH>
