@@ -12,7 +12,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../src/vcontact.cpp" line="+120"/>
+        <location filename="../../src/vcontact.cpp" line="+124"/>
         <source>Activity</source>
         <translation>Активность</translation>
     </message>
@@ -22,89 +22,89 @@
     <message>
         <location filename="../../core/edditaccount.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>General</source>
-        <translation type="unfinished">Главные</translation>
+        <translation>Главные</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Password:</source>
-        <translation type="unfinished">Пароль:</translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Autoconnect on start</source>
-        <translation type="unfinished">Автоматически подключаться при старте</translation>
+        <translation>Автоматически подключаться при старте</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show status text in contact list</source>
-        <translation type="unfinished">Показывать текст статуса в ростере</translation>
+        <translation>Показывать текст статуса в ростере</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Refresh friend list every:</source>
-        <translation type="unfinished">Обновлять список друзей каждые:</translation>
+        <translation>Обновлять список друзей каждые:</translation>
     </message>
     <message>
         <location line="+20"/>
         <location line="+34"/>
         <location line="+54"/>
         <source> s</source>
-        <translation type="unfinished">с</translation>
+        <translation>с</translation>
     </message>
     <message>
         <location line="-74"/>
         <source>Check for new messages every:</source>
-        <translation type="unfinished">Проверять новые сообщения каждые:</translation>
+        <translation>Проверять новые сообщения каждые:</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Updates</source>
-        <translation type="unfinished">Обновления</translation>
+        <translation>Обновления</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Check for friends updates every:</source>
-        <translation type="unfinished">Проверять обновления друзей каждые:</translation>
+        <translation>Проверять обновления друзей каждые:</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Enable friends photo updates notifications</source>
-        <translation type="unfinished">Разрешить уведомления о смене фото у друзей</translation>
+        <translation>Разрешить уведомления о смене фото у друзей</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Insert preview URL on new photos notifications</source>
-        <translation type="unfinished">Вставить ссылку на миниатюру фотографии в уведомление</translation>
+        <translation>Вставить ссылку на миниатюру фотографии в уведомление</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Insert fullsize URL on new photos notifications</source>
-        <translation type="unfinished">Вставить ссылку на фотографию в уведомление</translation>
+        <translation>Вставить ссылку на фотографию в уведомление</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>OK</source>
-        <translation type="unfinished">Ок</translation>
+        <translation>Ок</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Apply</source>
-        <translation type="unfinished">Применить</translation>
+        <translation>Применить</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <location filename="../../core/edditaccount.cpp" line="+32"/>
         <source>Editing %1</source>
-        <translation type="unfinished">Редактирование %1</translation>
+        <translation>Редактирование %1</translation>
     </message>
 </context>
 <context>
@@ -112,22 +112,22 @@
     <message>
         <location filename="../../core/loginform.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>E-mail:</source>
-        <translation type="unfinished">Электропочта:</translation>
+        <translation>Электропочта:</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Password:</source>
-        <translation type="unfinished">Пароль:</translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Autoconnect on start</source>
-        <translation type="unfinished">Автоматически подключаться при старте</translation>
+        <translation>Автоматически подключаться при старте</translation>
     </message>
 </context>
 <context>
@@ -201,7 +201,7 @@
 <context>
     <name>VRosterPrivate</name>
     <message>
-        <location filename="../../src/vroster.cpp" line="+37"/>
+        <location filename="../../src/vroster.cpp" line="+36"/>
         <source>Friends</source>
         <translation>Друзья</translation>
     </message>
@@ -211,22 +211,22 @@
     <message>
         <location filename="../../core/vcontactlist.cpp" line="+48"/>
         <source>Friends</source>
-        <translation type="unfinished">Друзья</translation>
+        <translation>Друзья</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Favorites</source>
-        <translation type="unfinished">Закладки</translation>
+        <translation>Закладки</translation>
     </message>
     <message>
         <location line="+453"/>
         <source>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Status message:&lt;/b&gt;&amp;nbsp;%1&lt;/font</source>
-        <translation type="unfinished">&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Статус:&lt;/b&gt;&amp;nbsp;%1&lt;/font</translation>
+        <translation>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Статус:&lt;/b&gt;&amp;nbsp;%1&lt;/font</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>Open user page</source>
-        <translation type="unfinished">Открыть страницу</translation>
+        <translation>Открыть страницу</translation>
     </message>
 </context>
 <context>
@@ -234,7 +234,7 @@
     <message>
         <location filename="../../protocol/vprotocolwrap.cpp" line="+159"/>
         <source>Mismatch nick or password</source>
-        <translation type="unfinished">Несовпадение ника или пароля</translation>
+        <translation>Несовпадение ника или пароля</translation>
     </message>
     <message>
         <location line="+126"/>
@@ -244,7 +244,7 @@
     <message>
         <location line="+210"/>
         <source>%1 was tagged on photo</source>
-        <translation type="unfinished">%1 отметил на фото</translation>
+        <translation type="unfinished">%1 отметился на фото</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -257,12 +257,12 @@
     <message>
         <location filename="../../core/vstatusobject.cpp" line="+32"/>
         <source>Online</source>
-        <translation type="unfinished">В сети</translation>
+        <translation>В сети</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Offline</source>
-        <translation type="unfinished">Отключен</translation>
+        <translation>Отключен</translation>
     </message>
 </context>
 </TS>
