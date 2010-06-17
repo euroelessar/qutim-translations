@@ -32,20 +32,31 @@
         <translation>Бан</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucuser.cpp" line="+109"/>
+        <location filename="../../src/protocol/account/muc/jmucuser.cpp" line="+111"/>
         <source>Real JID</source>
         <translation type="unfinished">Настоящий JID</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Affiliation</source>
+        <translatorcomment>Разрешения?</translatorcomment>
+        <translation type="unfinished">Ранг</translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Role</source>
+        <translation type="unfinished">Роль</translation>
     </message>
 </context>
 <context>
     <name>Contact</name>
     <message>
-        <location filename="../../src/protocol/account/roster/jcontact.cpp" line="+181"/>
+        <location filename="../../src/protocol/account/roster/jcontact.cpp" line="+182"/>
         <source>Resource</source>
         <translation>Ресурс</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucuser.cpp" line="+8"/>
+        <location filename="../../src/protocol/account/muc/jmucuser.cpp" line="+7"/>
         <location filename="../../src/protocol/account/roster/jcontact.cpp" line="+9"/>
         <source>Possible client</source>
         <translation>Возможный клиент</translation>
@@ -311,7 +322,7 @@
         <translation>Войти в конференцию</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="+237"/>
+        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="+236"/>
         <source>Join to conference</source>
         <translation>Войти в конференцию</translation>
     </message>
@@ -750,7 +761,7 @@ Accept invitation?</source>
 </translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="+186"/>
+        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="+191"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете перезайти?</translation>
     </message>
@@ -955,7 +966,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JProtocol</name>
     <message>
-        <location filename="../../src/protocol/jprotocol.cpp" line="+21"/>
+        <location filename="../../src/protocol/jprotocol.cpp" line="+22"/>
         <source>Kick</source>
         <translation>Кик</translation>
     </message>
@@ -978,12 +989,12 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JRoster</name>
     <message>
-        <location filename="../../src/protocol/account/roster/jroster.cpp" line="+174"/>
+        <location filename="../../src/protocol/account/roster/jroster.cpp" line="+179"/>
         <source>Not in list</source>
         <translation type="unfinished">Yt d cgbcrt</translation>
     </message>
     <message>
-        <location line="+87"/>
+        <location line="+86"/>
         <source>You were authorized</source>
         <translation type="unfinished">Вас авторизовали</translation>
     </message>
@@ -1325,7 +1336,7 @@ Accept invitation?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+14"/>
+        <location line="+17"/>
         <source>Server:</source>
         <translation>Сервер:</translation>
     </message>
@@ -1335,7 +1346,7 @@ Accept invitation?</source>
         <translation>Фильтр:</translation>
     </message>
     <message>
-        <location line="+85"/>
+        <location line="+91"/>
         <source>Searching...</source>
         <translation>Поиск...</translation>
     </message>
@@ -1412,7 +1423,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../src/protocol/jprotocol.cpp" line="-35"/>
+        <location filename="../../src/protocol/jprotocol.cpp" line="-36"/>
         <source>Jabber</source>
         <translation>Jabber/XMPP</translation>
     </message>
