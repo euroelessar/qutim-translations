@@ -1492,7 +1492,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/adiumchat/chatforms/classicchatform.cpp" line="+12"/>
         <source>Classic</source>
-        <translation>Классссика</translation>
+        <translation type="unfinished">Классика</translation>
     </message>
     <message>
         <location line="+1"/>
