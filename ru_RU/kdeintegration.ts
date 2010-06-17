@@ -4,12 +4,12 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/kdeintegration.cpp" line="42"/>
+        <location filename="../../src/kdeintegration.cpp" line="+42"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
     <message>
-        <location filename="../../src/kdeintegration.cpp" line="45"/>
+        <location line="+3"/>
         <source>Sidorov Aleksey</source>
         <translation type="unfinished">Сидоров Алексей</translation>
     </message>
@@ -17,12 +17,12 @@
 <context>
     <name>KDENotificationLayer</name>
     <message>
-        <location filename="../../src/notification/kdenotificationlayer.cpp" line="121"/>
+        <location filename="../../src/notification/kdenotificationlayer.cpp" line="+121"/>
         <source>Open chat</source>
         <translation type="unfinished">Открыть чат</translation>
     </message>
     <message>
-        <location filename="../../src/notification/kdenotificationlayer.cpp" line="121"/>
+        <location line="+0"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
@@ -30,17 +30,17 @@
 <context>
     <name>KdeSpellerSettings</name>
     <message>
-        <location filename="../../src/speller/kdespellersettings.ui" line="14"/>
+        <location filename="../../src/speller/kdespellersettings.ui" line="+14"/>
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/speller/kdespellersettings.ui" line="29"/>
+        <location line="+15"/>
         <source>Select dictionary:</source>
         <translation type="unfinished">Словарь:</translation>
     </message>
     <message>
-        <location filename="../../src/speller/kdespellersettings.ui" line="39"/>
+        <location line="+10"/>
         <source>Autodetect of language</source>
         <translation type="unfinished">Автоматически определить язык</translation>
     </message>
@@ -48,57 +48,57 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../src/kdeintegration.cpp" line="48"/>
+        <location filename="../../src/kdeintegration.cpp" line="+3"/>
         <source>KDE integration</source>
         <translation type="unfinished">Интеграция с KDE</translation>
     </message>
     <message>
-        <location filename="../../src/kdeintegration.cpp" line="49"/>
+        <location line="+1"/>
         <source>Integration with K Desktop Environment</source>
         <translation type="unfinished">Модуль интеграции с графической средой KDE</translation>
     </message>
     <message>
-        <location filename="../../src/kdeintegration.cpp" line="51"/>
+        <location line="+2"/>
         <source>KDE Emoticons</source>
         <translation type="unfinished">Смайлы KDE</translation>
     </message>
     <message>
-        <location filename="../../src/kdeintegration.cpp" line="52"/>
+        <location line="+1"/>
         <source>Using KDE emoticons packs</source>
         <translation type="unfinished">Модуль для использования смайлов KDE</translation>
     </message>
     <message>
-        <location filename="../../src/kdeintegration.cpp" line="54"/>
+        <location line="+2"/>
         <source>KDE Crash handler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/kdeintegration.cpp" line="55"/>
+        <location line="+1"/>
         <source>Handles qutIM&apos;s craches by KCrash</source>
         <translation type="unfinished">Перехват падения qutim программой KCrash</translation>
     </message>
     <message>
-        <location filename="../../src/kdeintegration.cpp" line="57"/>
+        <location line="+2"/>
         <source>KDE Spell checker</source>
         <translation type="unfinished">Проверка орфографии KDE</translation>
     </message>
     <message>
-        <location filename="../../src/kdeintegration.cpp" line="60"/>
+        <location line="+3"/>
         <source>KDE Icon engine</source>
-        <translation type="unfinished">Двидок иконок KDE</translation>
+        <translation type="unfinished">Движок иконок KDE</translation>
     </message>
     <message>
-        <location filename="../../src/kdeintegration.cpp" line="61"/>
+        <location line="+1"/>
         <source>Uses KDE Icon engine for providing icons</source>
         <translation type="unfinished">Использует движок KDE для иконок</translation>
     </message>
     <message>
-        <location filename="../../src/kdeintegration.cpp" line="63"/>
+        <location line="+2"/>
         <source>KDE Notifications</source>
         <translation type="unfinished">Уведомления KDE</translation>
     </message>
     <message>
-        <location filename="../../src/kdeintegration.cpp" line="64"/>
+        <location line="+1"/>
         <source>Uses KDE notifications</source>
         <translation type="unfinished">Модуль уведомлений KDE, так то</translation>
     </message>
@@ -106,12 +106,12 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../src/speller/kdespellerlayer.cpp" line="29"/>
+        <location filename="../../src/speller/kdespellerlayer.cpp" line="+29"/>
         <source>Spell checker</source>
         <translation type="unfinished">Проверялка орфограции</translation>
     </message>
     <message>
-        <location filename="../../src/notification/kdenotificationlayer.cpp" line="38"/>
+        <location filename="../../src/notification/kdenotificationlayer.cpp" line="-83"/>
         <source>Popups</source>
         <translation type="unfinished">Уведомления</translation>
     </message>
@@ -119,8 +119,8 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../src/kdeintegration.cpp" line="43"/>
-        <location filename="../../src/kdeintegration.cpp" line="46"/>
+        <location filename="../../src/kdeintegration.cpp" line="-21"/>
+        <location line="+3"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
     </message>
@@ -128,37 +128,37 @@
 <context>
     <name>plugmanSettings</name>
     <message>
-        <location filename="../../src/notification/settings.ui" line="13"/>
+        <location filename="../../src/notification/settings.ui" line="+13"/>
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/notification/settings.ui" line="23"/>
+        <location line="+10"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="../../src/notification/settings.ui" line="29"/>
+        <location line="+6"/>
         <source>Installed plugins:</source>
-        <translation type="unfinished">Установленые плагинов:</translation>
+        <translation type="unfinished">Установленые плагины:</translation>
     </message>
     <message>
-        <location filename="../../src/notification/settings.ui" line="49"/>
+        <location line="+20"/>
         <source>Install from internet</source>
         <translation type="unfinished">Установить из сети</translation>
     </message>
     <message>
-        <location filename="../../src/notification/settings.ui" line="60"/>
+        <location line="+11"/>
         <source>Install from file</source>
         <translation type="unfinished">Установить из файла</translation>
     </message>
     <message>
-        <location filename="../../src/notification/settings.ui" line="92"/>
+        <location line="+32"/>
         <source>About</source>
         <translation>О плагине</translation>
     </message>
     <message>
-        <location filename="../../src/notification/settings.ui" line="104"/>
+        <location line="+12"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
