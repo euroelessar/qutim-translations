@@ -261,7 +261,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+466"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+498"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -451,7 +451,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::AbstractChatWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/abstractchatwidget.cpp" line="+57"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/abstractchatwidget.cpp" line="+58"/>
         <source>Chat</source>
         <translation>Разговор</translation>
     </message>
@@ -2164,14 +2164,40 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::ModuleManager</name>
     <message>
-        <location filename="../../qutim/libqutim/modulemanager.cpp" line="+268"/>
         <source>Library: %1</source>
-        <translation>Библиотека: %1</translation>
+        <translation type="obsolete">Библиотека: %1</translation>
     </message>
     <message>
-        <location line="+27"/>
         <source>Plugin: %1</source>
-        <translation>Добавка: %1</translation>
+        <translation type="obsolete">Добавка: %1</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/libqutim/modulemanager.cpp" line="+217"/>
+        <source>Could not load plugin: 
+ %1</source>
+        <translation>Неуспешно зареждане на добавка: 
+ %1</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Loaded plugin: 
+ %1</source>
+        <translation>Заредена добавка: 
+ %1</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Inited plugin: 
+ %1</source>
+        <translation>Инициализирана добавка: 
+ %1</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Could not init plugin: 
+ %1</source>
+        <translation>Неуспешно инициализиране на добавка: 
+ %1</translation>
     </message>
 </context>
 <context>
