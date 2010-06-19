@@ -30,6 +30,35 @@
     </message>
 </context>
 <context>
+    <name>AddContact</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="+28"/>
+        <source>Add contact</source>
+        <translation>Добавяне на контакт</translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>TextLabel</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Name:</source>
+        <translation>Име:</translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>Add</source>
+        <translation>Добавяне</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Cancel</source>
+        <translation>Отказ</translation>
+    </message>
+</context>
+<context>
     <name>AdiumChat::ChatSessionImpl</name>
     <message>
         <source>Message %1 must have a ChatUnit</source>
@@ -1511,6 +1540,16 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Default qutIM implementation of the data forms</source>
         <translation>Подразбираща се за qutIM реализация на даннови формуляри</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="-16"/>
+        <source>Add contact dialog</source>
+        <translation>Диалог за добавяне на контакт</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Simple add contact dialog</source>
+        <translation>Опростен диалог за добавяне на контакт</translation>
     </message>
 </context>
 <context>

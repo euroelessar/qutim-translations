@@ -1024,12 +1024,12 @@ Accept invitation?</source>
         <translation>Самоличности:</translation>
     </message>
     <message>
-        <location line="+159"/>
+        <location line="+160"/>
         <source>Features:</source>
         <translation>Характеристики:</translation>
     </message>
     <message>
-        <location line="-162"/>
+        <location line="-163"/>
         <source>type: </source>
         <translation>тип: </translation>
     </message>
