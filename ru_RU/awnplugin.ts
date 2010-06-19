@@ -26,7 +26,7 @@
     <message>
         <location filename="../../src/awnservice.cpp" line="278"/>
         <source>Exit QutIM</source>
-        <translation type="unfinished">Закрыть qutIM</translation>
+        <translation type="unfinished">Закрыть QutIM</translation>
     </message>
 </context>
 <context>
@@ -34,7 +34,7 @@
     <message>
         <location filename="../../src/awn.cpp" line="27"/>
         <source>Stanislav (proDOOMman) Kosolapov</source>
-        <translation type="unfinished">Станислав (proDOOMman)  Косолапов</translation>
+        <translation type="unfinished">Станислав (proDOOMman) Косолапов</translation>
     </message>
 </context>
 <context>
@@ -49,7 +49,7 @@
         <location filename="../../src/awn.cpp" line="32"/>
         <location filename="../../src/awn.cpp" line="37"/>
         <source>Avant window navigator dock integration</source>
-        <translation type="unfinished">Интеграция в панель Авант дока</translation>
+        <translation type="unfinished">Интеграция в панель Avant dock</translation>
     </message>
 </context>
 <context>

@@ -32,7 +32,7 @@
     <message>
         <location line="+1"/>
         <source>Plugin makes your chatting invisible for boss</source>
-        <translation type="unfinished">Плагин делающий невидимым кутим для вашего босса</translation>
+        <translation type="unfinished">Плагин делающий невидимым QutIM для вашего босса</translation>
     </message>
 </context>
 <context>

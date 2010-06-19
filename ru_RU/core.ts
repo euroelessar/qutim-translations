@@ -26,7 +26,7 @@
     <message>
         <location filename="../../src/corelayers/accountcreator/accountcreatorprotocols.ui" line="+14"/>
         <source>WizardPage</source>
-        <translation>Волшебник миграции :-D</translation>
+        <translation>Помошник миграции</translation>
     </message>
 </context>
 <context>
@@ -66,7 +66,7 @@
     <message>
         <location filename="../../src/corelayers/kineticpopups/settings/popupappearance.ui" line="+20"/>
         <source>Form</source>
-        <translation></translation>
+        <translation type="unfinished">Вид</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -93,7 +93,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+14"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Поле текста</translation>
     </message>
 </context>
 <context>
@@ -101,7 +101,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/notificationssettings/notifications.ui" line="+14"/>
         <source>Form</source>
-        <translation></translation>
+        <translation>Вид</translation>
     </message>
     <message>
         <source>Notification types</source>
@@ -110,12 +110,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+9"/>
         <source>Timeout, msec:</source>
-        <translation>Время отображения,  мс:</translation>
+        <translation>Время отображения, мс:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>5000</source>
-        <translation></translation>
+        <translation>5000</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -150,7 +150,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+5"/>
         <source>Very slow</source>
-        <translation>Адски медленно</translation>
+        <translation>Очень медленно</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -183,7 +183,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+24"/>
         <source>Send Key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отправлять сообщения при нажатии</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -203,7 +203,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+7"/>
         <source>Don&apos;t group messages after (sec):</source>
-        <translation type="unfinished">Не группировать сообщения через (сек):</translation>
+        <translation type="unfinished">Не группировать сообщения после (сек):</translation>
     </message>
 </context>
 <context>
@@ -241,7 +241,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/adiumchat/chatforms/classicchatwidget.ui" line="+14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Главное окно</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -331,7 +331,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+3"/>
         <source>Send authorizarion request to %1:</source>
-        <translation>Отправить запрос авторизации  %1:</translation>
+        <translation>Отправить запрос авторизации %1:</translation>
     </message>
 </context>
 <context>
@@ -411,7 +411,7 @@ p, li { white-space: pre-wrap; }
         <location line="+76"/>
         <source>Edit info</source>
         <translatorcomment>анкету??</translatorcomment>
-        <translation>Править инфо</translation>
+        <translation>Править информацию</translation>
     </message>
     <message>
         <location line="+5"/>
