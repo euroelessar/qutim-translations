@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/vkontakteplugin.cpp" line="+12"/>
+        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+12"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../src/vcontact.cpp" line="+124"/>
+        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+124"/>
         <source>Activity</source>
         <translation>Активность</translation>
     </message>
@@ -20,7 +20,7 @@
 <context>
     <name>EdditAccount</name>
     <message>
-        <location filename="../../core/edditaccount.ui" line="+14"/>
+        <location filename="../../protocols/vkontakte/core/edditaccount.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -102,7 +102,7 @@
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="../../core/edditaccount.cpp" line="+32"/>
+        <location filename="../../protocols/vkontakte/core/edditaccount.cpp" line="+32"/>
         <source>Editing %1</source>
         <translation>Редактирование %1</translation>
     </message>
@@ -110,7 +110,7 @@
 <context>
     <name>LoginForm</name>
     <message>
-        <location filename="../../core/loginform.ui" line="+14"/>
+        <location filename="../../protocols/vkontakte/core/loginform.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -133,7 +133,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../src/vkontakteplugin.cpp" line="-3"/>
+        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="-3"/>
         <source>Vkontakte</source>
         <translation>Вконтакте</translation>
     </message>
@@ -170,7 +170,7 @@
 <context>
     <name>VAccountWizardPage</name>
     <message>
-        <location filename="../../src/ui/vaccountwizardpage.ui" line="+14"/>
+        <location filename="../../protocols/vkontakte/src/ui/vaccountwizardpage.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Мастер</translation>
     </message>
@@ -193,7 +193,7 @@
 <context>
     <name>VConnectionPrivate</name>
     <message>
-        <location filename="../../src/vconnection.cpp" line="+34"/>
+        <location filename="../../protocols/vkontakte/src/vconnection.cpp" line="+34"/>
         <source>Error! (TODO)</source>
         <translation>Ашипка! (TODO)</translation>
     </message>
@@ -201,7 +201,7 @@
 <context>
     <name>VRosterPrivate</name>
     <message>
-        <location filename="../../src/vroster.cpp" line="+36"/>
+        <location filename="../../protocols/vkontakte/src/vroster.cpp" line="+36"/>
         <source>Friends</source>
         <translation>Друзья</translation>
     </message>
@@ -209,7 +209,7 @@
 <context>
     <name>VcontactList</name>
     <message>
-        <location filename="../../core/vcontactlist.cpp" line="+48"/>
+        <location filename="../../protocols/vkontakte/core/vcontactlist.cpp" line="+48"/>
         <source>Friends</source>
         <translation>Друзья</translation>
     </message>
@@ -232,7 +232,7 @@
 <context>
     <name>VprotocolWrap</name>
     <message>
-        <location filename="../../protocol/vprotocolwrap.cpp" line="+159"/>
+        <location filename="../../protocols/vkontakte/protocol/vprotocolwrap.cpp" line="+159"/>
         <source>Mismatch nick or password</source>
         <translation>Несовпадение ника или пароля</translation>
     </message>
@@ -255,7 +255,7 @@
 <context>
     <name>VstatusObject</name>
     <message>
-        <location filename="../../core/vstatusobject.cpp" line="+32"/>
+        <location filename="../../protocols/vkontakte/core/vstatusobject.cpp" line="+32"/>
         <source>Online</source>
         <translation>В сети</translation>
     </message>

@@ -4,64 +4,65 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../src/quetzalplugin.cpp" line="486"/>
+        <location filename="../../protocols/quetzal/src/quetzalplugin.cpp" line="+489"/>
         <source>Quetzal</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../../src/quetzalplugin.cpp" line="487"/>
-        <location filename="../../src/quetzalplugin.cpp" line="500"/>
+        <location line="+1"/>
+        <location line="+14"/>
+        <location line="+4"/>
         <source>&apos;Quetzal&apos; is set of protocols, powered by libpurple</source>
-        <translation type="unfinished">&apos;Quetzal&apos; это набор протоколов, реализваных через libpurple (pidgin/adium)</translation>
+        <translation>&apos;Quetzal&apos; это набор протоколов, реализваных через libpurple (pidgin/adium)</translation>
     </message>
 </context>
 <context>
     <name>Quetzal</name>
     <message>
-        <location filename="../../src/quetzalaccount.cpp" line="72"/>
+        <location filename="../../protocols/quetzal/src/quetzalaccount.cpp" line="+73"/>
         <source>Join groupchat</source>
-        <translation type="unfinished">Войти в конференцию</translation>
+        <translation>Войти в конференцию</translation>
     </message>
 </context>
 <context>
     <name>QuetzalAccount</name>
     <message>
-        <location filename="../../src/quetzalaccount.cpp" line="135"/>
+        <location line="+60"/>
         <source>General</source>
-        <translation type="unfinished">Общее</translation>
+        <translation>Общее</translation>
     </message>
 </context>
 <context>
     <name>QuetzalActionDialog</name>
     <message>
-        <location filename="../../src/quatzelactiondialog.ui" line="14"/>
+        <location filename="../../protocols/quetzal/src/quatzelactiondialog.ui" line="+14"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>QuetzalJoinChatDialog</name>
     <message>
-        <location filename="../../src/quetzaljoinchatdialog.ui" line="14"/>
+        <location filename="../../protocols/quetzal/src/quetzaljoinchatdialog.ui" line="+14"/>
         <source>Join group chat</source>
-        <translation type="unfinished">Вйти в чат</translation>
+        <translation>Войти в чат</translation>
     </message>
     <message>
-        <location filename="../../src/quetzaljoinchatdialog.ui" line="33"/>
+        <location line="+19"/>
         <source>Save to bookmarks</source>
-        <translation type="unfinished">В закладки</translation>
+        <translation>В закладки</translation>
     </message>
     <message>
-        <location filename="../../src/quetzaljoinchatdialog.cpp" line="43"/>
-        <location filename="../../src/quetzaljoinchatdialog.cpp" line="160"/>
+        <location filename="../../protocols/quetzal/src/quetzaljoinchatdialog.cpp" line="+43"/>
+        <location line="+117"/>
         <source>Search</source>
-        <translation type="unfinished">Поиск</translation>
+        <translation>Поиск</translation>
     </message>
     <message>
-        <location filename="../../src/quetzaljoinchatdialog.cpp" line="44"/>
-        <location filename="../../src/quetzaljoinchatdialog.cpp" line="161"/>
+        <location line="-116"/>
+        <location line="+117"/>
         <source>Join</source>
-        <translation type="unfinished">Войти</translation>
+        <translation>Войти</translation>
     </message>
 </context>
 </TS>

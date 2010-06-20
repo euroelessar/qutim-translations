@@ -3891,4 +3891,16 @@ Accept invitation?</source>
     <source>Alexander Kazarin</source>
     <target>Александр Казарин</target>
 </phrase>
+<phrase>
+    <source>On WC</source>
+    <target>В сортире</target>
+</phrase>
+<phrase>
+    <source>General</source>
+    <target>Общее</target>
+</phrase>
+<phrase>
+    <source>Save to bookmarks</source>
+    <target>В закладки</target>
+</phrase>
 </QPH>
