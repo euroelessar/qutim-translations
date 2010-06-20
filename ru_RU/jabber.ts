@@ -45,7 +45,8 @@
     <message>
         <location line="+16"/>
         <source>Role</source>
-        <translation type="unfinished">Роль</translation>
+	<translatorcomment>Может лучше обязанность?</translatorcomment>
+        <translation type="unfinished">Обязанность</translation>
     </message>
 </context>
 <context>
@@ -77,7 +78,7 @@
     <message>
         <location line="+18"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Поле текста</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -133,7 +134,7 @@
     <message>
         <location line="+7"/>
         <source>To:</source>
-        <translation>До:</translation>
+        <translation>Кому:</translation>
     </message>
     <message>
         <location line="+64"/>
@@ -400,7 +401,7 @@
     <message>
         <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="+42"/>
         <source>The entity has sent XML that cannot be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Принят XML запрос, который не может быть обработан.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -542,37 +543,39 @@
     <message>
         <location line="+3"/>
         <source>The HTTP/SOCKS5 proxy requires authentication.</source>
-        <translation type="unfinished"></translation>
+	<translatorcomment>Прокся негодуэ.</translatorcomment>
+        <translation type="unfinished">Прокси-сервер требует авторизацию.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>HTTP/SOCKS5 proxy authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Авторизация в прокси сервере не удалась.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The HTTP/SOCKS5 proxy requires an unsupported auth mechanism.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">HTTP/SOCKS5 прокси сервер трубует неизвесный метод авторизации О_о.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>An I/O error occured.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Произошла ошибка ввода/вывода.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>An XML parse error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ошибка парсинга XML.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The connection was refused by the server (on the socket level).</source>
-        <translation type="unfinished"></translation>
+	<translatorcomment>Может убрать то что в кавычках?</translatorcomment>
+        <translation type="unfinished">Соединение было отклонено сервером (на уровне сокетов).</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Creation of the socket failed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Создание сокета провалилось о_о.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -582,12 +585,12 @@
     <message>
         <location line="+3"/>
         <source>Out of memory. Uhoh.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Мало памяти! Нужно больше памяти! Постройте больше казарм.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The auth mechanisms the server offers are not supported or the server offered no auth mechanisms at all.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Механизмы авторизации не поддерживаются или на сервере их вообще нет.</translation>
     </message>
     <message>
         <location line="+3"/>

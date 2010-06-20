@@ -24,7 +24,7 @@
     <message>
         <location line="-10"/>
         <source>Yandex Narod</source>
-        <translation></translation>
+        <translation>Я.Народ</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -56,7 +56,7 @@
     <message>
         <location line="+11"/>
         <source>Yandex Narod</source>
-        <translation></translation>
+        <translation>Я.Народ</translation>
     </message>
 </context>
 <context>
@@ -280,12 +280,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+10"/>
         <source>Upload started.</source>
-        <translation>Выгрузка запущена.</translation>
+        <translation>Загрузка запущена.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>File: </source>
-        <translation>файл:</translation>
+        <translation>Файл:</translation>
     </message>
     <message>
         <location line="+10"/>

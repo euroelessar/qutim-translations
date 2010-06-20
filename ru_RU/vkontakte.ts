@@ -239,7 +239,7 @@
     <message>
         <location line="+126"/>
         <source>Vkontakte.ru updates</source>
-        <translation type="unfinished">ВТентакле обновлён</translation>
+        <translation type="unfinished">ВКонтакте обновлён</translation>
     </message>
     <message>
         <location line="+210"/>

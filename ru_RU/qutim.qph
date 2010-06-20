@@ -30,7 +30,7 @@
 </phrase>
 <phrase>
     <source>Very slow</source>
-    <target>Адски медленно</target>
+    <target>Очень медленно</target>
 </phrase>
 <phrase>
     <source>Custom</source>
@@ -66,7 +66,7 @@
 </phrase>
 <phrase>
     <source>Noname</source>
-    <target>Безымяшка</target>
+    <target>Без имени</target>
 </phrase>
 <phrase>
     <source>Unable to create chat session</source>
@@ -86,11 +86,11 @@
 </phrase>
 <phrase>
     <source>/me is thinking!</source>
-    <target>/me думаю!</target>
+    <target>/me думает!</target>
 </phrase>
 <phrase>
     <source>Vasya is reading you mind</source>
-    <target>Васяня читает твои мысли</target>
+    <target>Вася читает твои мысли</target>
 </phrase>
 <phrase>
     <source>Invalid name</source>
@@ -130,11 +130,11 @@
 </phrase>
 <phrase>
     <source>qutIM Launched</source>
-    <target>кутим запущен</target>
+    <target>QutIM запущен</target>
 </phrase>
 <phrase>
     <source>Message recieved</source>
-    <target>Прнято сообщение</target>
+    <target>Принято сообщение</target>
 </phrase>
 <phrase>
     <source>Message sent</source>
@@ -318,7 +318,7 @@
 </phrase>
 <phrase>
     <source>UIN:</source>
-    <target></target>
+    <target>Номер:</target>
 </phrase>
 <phrase>
     <source>Password:</source>
@@ -342,7 +342,7 @@
 </phrase>
 <phrase>
     <source>ICQ General</source>
-    <target>ICQ главные</target>
+    <target>ICQ общие</target>
 </phrase>
 <phrase>
     <source>Statuses</source>
@@ -386,7 +386,7 @@
 </phrase>
 <phrase>
     <source>Client id:</source>
-    <target></target>
+    <target>Id клиента:</target>
 </phrase>
 <phrase>
     <source>Server</source>
@@ -446,7 +446,7 @@
 </phrase>
 <phrase>
     <source>Authentication</source>
-    <target>Аутентификация</target>
+    <target>Авторизация</target>
 </phrase>
 <phrase>
     <source>User name:</source>
@@ -978,7 +978,7 @@
 </phrase>
 <phrase>
     <source>IP:</source>
-    <target></target>
+    <target>IP:</target>
 </phrase>
 <phrase>
     <source>File name:</source>
@@ -2038,7 +2038,7 @@
 </phrase>
 <phrase>
     <source>Rate limit exceeded. Please try to reconnect in a few minutes</source>
-    <target></target>
+    <target>Превышен лимит. Попробуйте подключиться через несколько минут</target>
 </phrase>
 <phrase>
     <source>Can&apos;t register on the ICQ network. Reconnect in a few minutes</source>
@@ -2050,7 +2050,7 @@
 </phrase>
 <phrase>
     <source>Account suspended because of your age (age &lt; 13)</source>
-    <target>Учетная запись заморожена, из-за возраста (&lt; 13 лет)</target>
+    <target>Учетная запись заморожена из-за возраста (&lt; 13 лет)</target>
 </phrase>
 <phrase>
     <source>Connection Error: %1</source>
@@ -2382,7 +2382,7 @@
 </phrase>
 <phrase>
     <source>qutIM launched</source>
-    <target>qutIM запущен</target>
+    <target>QutIM запущен</target>
 </phrase>
 <phrase>
     <source>This is a simple popup</source>
@@ -2458,7 +2458,7 @@
 </phrase>
 <phrase>
     <source>State</source>
-    <target></target>
+    <target>Штат/область</target>
 </phrase>
 <phrase>
     <source>Phone</source>
@@ -2670,15 +2670,15 @@
 </phrase>
 <phrase>
     <source>WizardPage</source>
-    <target>Масте</target>
+    <target>Мастер</target>
 </phrase>
 <phrase>
     <source>Multiply Sending</source>
-    <target>Спамилка</target>
+    <target>Рассылка а-ля спамилка</target>
 </phrase>
 <phrase>
     <source>Items</source>
-    <target></target>
+    <target>Пункты</target>
 </phrase>
 <phrase>
     <source>Message</source>
@@ -2686,7 +2686,7 @@
 </phrase>
 <phrase>
     <source>15</source>
-    <target></target>
+    <target>15</target>
 </phrase>
 <phrase>
     <source>Interval (in seconds):</source>
@@ -2770,11 +2770,11 @@
 </phrase>
 <phrase>
     <source>WizardPage</source>
-    <target>Волшебник миграции :-D</target>
+    <target>Мастер</target>
 </phrase>
 <phrase>
     <source>Auto</source>
-    <target>Fdnj</target>
+    <target>Авто</target>
 </phrase>
 <phrase>
     <source>Auto</source>
@@ -2806,7 +2806,7 @@
 </phrase>
 <phrase>
     <source>WC</source>
-    <target>Клозет</target>
+    <target>Ватерклозет</target>
 </phrase>
 <phrase>
     <source>Cooking</source>
@@ -2822,7 +2822,7 @@
 </phrase>
 <phrase>
     <source>I&apos;m a shrimp!</source>
-    <target>Я креведко!</target>
+    <target>Йа креведко!</target>
 </phrase>
 <phrase>
     <source>I&apos;m lost :(</source>
@@ -2894,7 +2894,7 @@
 </phrase>
 <phrase>
     <source>Smiley</source>
-    <target>Лыбюсь</target>
+    <target>Улыбаюсь</target>
 </phrase>
 <phrase>
     <source>Hippy</source>
@@ -3153,7 +3153,7 @@ line2</source>
 </phrase>
 <phrase>
     <source>Authorization failed</source>
-    <target>ПРОВАЛЕНА Авторизация</target>
+    <target>Авторизация провалена</target>
 </phrase>
 <phrase>
     <source>Send file via Yandex.Narod</source>
@@ -3487,27 +3487,27 @@ Accept invitation?</source>
 </phrase>
 <phrase>
     <source> member</source>
-    <target>участник</target>
+    <target> участник</target>
 </phrase>
 <phrase>
     <source> owner</source>
-    <target>владелец</target>
+    <target> владелец</target>
 </phrase>
 <phrase>
     <source> administrator</source>
-    <target>администратор</target>
+    <target> администратор</target>
 </phrase>
 <phrase>
     <source> registered member</source>
-    <target>регистрированный</target>
+    <target> регистрированный</target>
 </phrase>
 <phrase>
     <source> member</source>
-    <target>участник</target>
+    <target> участник</target>
 </phrase>
 <phrase>
     <source> visitor</source>
-    <target>посетитель</target>
+    <target> посетитель</target>
 </phrase>
 <phrase>
     <source>Forbidden: Access denied, user is banned.</source>
@@ -3530,7 +3530,7 @@ Accept invitation?</source>
 <phrase>
     <source>You has been kicked from %1
 </source>
-    <target>Вас выкинули из  %1
+    <target>Вас выкинули из %1
 </target>
 </phrase>
 <phrase>
@@ -3543,15 +3543,15 @@ Accept invitation?</source>
 </phrase>
 <phrase>
     <source> as</source>
-    <target>как</target>
+    <target> как</target>
 </phrase>
 <phrase>
     <source> owner</source>
-    <target>владелец</target>
+    <target> владелец</target>
 </phrase>
 <phrase>
     <source> administrator</source>
-    <target>администратор</target>
+    <target> администратор</target>
 </phrase>
 <phrase>
     <source>%1 now is</source>
@@ -3773,11 +3773,11 @@ Accept invitation?</source>
 </phrase>
 <phrase>
     <source> has been banned</source>
-    <target>был заблокирован</target>
+    <target> был заблокирован</target>
 </phrase>
 <phrase>
     <source> has been kicked</source>
-    <target>был выкинут</target>
+    <target> был выкинут</target>
 </phrase>
 <phrase>
     <source>You has been banned at </source>
@@ -3797,19 +3797,19 @@ Accept invitation?</source>
 </phrase>
 <phrase>
     <source> is now known as </source>
-    <target>теперь известен как</target>
+    <target> теперь известен как </target>
 </phrase>
 <phrase>
     <source> has joined the room</source>
-    <target>вошел в комнату</target>
+    <target> вошел в комнату</target>
 </phrase>
 <phrase>
     <source> has left the room</source>
-    <target>покинул комнату</target>
+    <target> покинул комнату</target>
 </phrase>
 <phrase>
     <source> now is</source>
-    <target>теперь</target>
+    <target> теперь</target>
 </phrase>
 <phrase>
     <source>Subject:</source>

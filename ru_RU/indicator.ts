@@ -21,12 +21,12 @@
         <location line="-4"/>
         <location line="+5"/>
         <source>Ubuntu Indicator applet integration</source>
-        <translation type="unfinished">Интеграция в апплет панели гнома Убунту</translation>
+        <translation type="unfinished">Интеграция в апплет панели GNOME для Ubuntu</translation>
     </message>
     <message>
         <location filename="../../src/indicatorservice.cpp" line="+36"/>
         <source>Close qutIM</source>
-        <translation type="unfinished">Закрыть qutIM</translation>
+        <translation type="unfinished">Закрыть QutIM</translation>
     </message>
 </context>
 <context>

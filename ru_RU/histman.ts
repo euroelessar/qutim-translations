@@ -112,7 +112,7 @@
     <message>
         <location line="+1"/>
         <source>Choose client which history you want to import to qutIM.</source>
-        <translation>Выберите клиент, историю которого нужно импортировать в qutIM.</translation>
+        <translation>Выберите клиент, историю которого нужно импортировать в QutIM.</translation>
     </message>
 </context>
 <context>
@@ -149,7 +149,7 @@
     <message>
         <location line="+5"/>
         <source>If your history encoding differs from the system one, choose the appropriate encoding for history.</source>
-        <translation>Если кодировка истории отличается от ;системной, выберите требуемую.</translation>
+        <translation>Если кодировка истории отличается от системной, выберите требуемую.</translation>
     </message>
     <message>
         <location line="+89"/>
@@ -163,7 +163,8 @@
     <message>
         <location filename="../../src/dumphistorypage.cpp" line="+58"/>
         <source>Dumping</source>
-        <translation>Сожранение</translation>
+	<translatorcomment>Сожранение в бумарки! :DDD</translatorcomment>
+        <translation>Сохранение</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -220,11 +221,11 @@
     <message numerus="yes">
         <location line="+1"/>
         <source>It has taken %n ms.</source>
-        <translatorcomment>ну никкак по русски</translatorcomment>
+        <translatorcomment>ну никкак по русски. ==//== Дааа. может так?</translatorcomment>
         <translation type="unfinished">
-            <numerusform>Это потребует %n минуту.</numerusform>
-            <numerusform>Это потребует %n минуты.</numerusform>
-            <numerusform>Это потребует %n минут.</numerusform>
+            <numerusform>Это действие заняло %n минуту.</numerusform>
+            <numerusform>Это действие заняло %n минуты.</numerusform>
+            <numerusform>Это действие заняло %n минут.</numerusform>
         </translation>
     </message>
 </context>
@@ -249,12 +250,12 @@
     <message>
         <location filename="../../src/historymanagerplugin.cpp" line="+3"/>
         <source>HistMan</source>
-        <translation></translation>
+        <translation>Менеджер истории</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Plugin makes possible to import history to qutIM from different messengers</source>
-        <translation>Плагин дающий возможность импортировать историю в qutIM из прочих IM</translation>
+        <translation>Плагин дающий возможность импортировать историю в QutIM из прочих IM</translation>
     </message>
     <message>
         <location line="+9"/>
