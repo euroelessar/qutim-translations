@@ -3903,4 +3903,8 @@ Accept invitation?</source>
     <source>Save to bookmarks</source>
     <target>В закладки</target>
 </phrase>
+<phrase>
+    <source>Upload File</source>
+    <target>Выложить файл</target>
+</phrase>
 </QPH>
