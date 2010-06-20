@@ -318,7 +318,7 @@
 </phrase>
 <phrase>
     <source>UIN:</source>
-    <target>Номер:</target>
+    <target>UIN (Номер):</target>
 </phrase>
 <phrase>
     <source>Password:</source>
@@ -446,7 +446,7 @@
 </phrase>
 <phrase>
     <source>Authentication</source>
-    <target>Авторизация</target>
+    <target>Аутентификация</target>
 </phrase>
 <phrase>
     <source>User name:</source>
