@@ -33,7 +33,7 @@
     <name>AddContact</name>
     <message>
         <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.ui" line="+14"/>
-        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="+28"/>
+        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="+29"/>
         <source>Add contact</source>
         <translation>Добавяне на контакт</translation>
     </message>
@@ -475,6 +475,14 @@ p, li { white-space: pre-wrap; }
         <location line="+5"/>
         <source>Remove account</source>
         <translation>Премахване на сметка</translation>
+    </message>
+</context>
+<context>
+    <name>Core::AddContact</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="+89"/>
+        <source>Account must be online</source>
+        <translation>Статусът на сметката трябва да е &quot;На линия&quot;</translation>
     </message>
 </context>
 <context>
@@ -1542,7 +1550,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM реализация на даннови формуляри</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="-16"/>
+        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="-106"/>
         <source>Add contact dialog</source>
         <translation>Диалог за добавяне на контакт</translation>
     </message>
@@ -2218,21 +2226,19 @@ p, li { white-space: pre-wrap; }
  %1</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Loaded plugin: 
  %1</source>
-        <translation>Заредена добавка: 
+        <translation type="obsolete">Заредена добавка: 
  %1</translation>
     </message>
     <message>
-        <location line="+13"/>
         <source>Inited plugin: 
  %1</source>
-        <translation>Инициализирана добавка: 
+        <translation type="obsolete">Инициализирана добавка: 
  %1</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+22"/>
         <source>Could not init plugin: 
  %1</source>
         <translation>Неуспешно инициализиране на добавка: 
