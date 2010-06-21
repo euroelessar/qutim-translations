@@ -37,7 +37,6 @@
     <message>
         <location filename="../../protocols/quetzal/src/quatzelactiondialog.ui" line="+14"/>
         <source>Dialog</source>
-        <translation></translation>
         <translation type="unfinished">Диалог</translation>
     </message>
 </context>
