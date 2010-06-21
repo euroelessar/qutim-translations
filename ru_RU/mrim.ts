@@ -16,27 +16,27 @@
     <message>
         <location line="+13"/>
         <source>@mail.ru</source>
-        <translation></translation>
+        <translation>@mail.ru</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>@inbox.ru</source>
-        <translation></translation>
+        <translation>@inbox.ru</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>@bk.ru</source>
-        <translation></translation>
+        <translation>@bk.ru</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>@list.ru</source>
-        <translation></translation>
+        <translation>@list.ru</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>@corp.mail.ru</source>
-        <translation></translation>
+        <translation>@corp.mail.ru</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -187,7 +187,7 @@
     <message>
         <location line="+2"/>
         <source>WC</source>
-        <translation type="unfinished">Ватерклозет</translation>
+        <translation>Ватерклозет</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -207,7 +207,7 @@
     <message>
         <location line="+2"/>
         <source>I&apos;m a shrimp!</source>
-        <translation type="unfinished">Йа креведко!</translation>
+        <translation>Йа креведко!</translation>
     </message>
     <message>
         <location line="+2"/>

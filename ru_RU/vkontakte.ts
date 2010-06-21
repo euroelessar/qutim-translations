@@ -54,7 +54,7 @@
         <location line="+34"/>
         <location line="+54"/>
         <source> s</source>
-        <translation>с</translation>
+        <translation> с</translation>
     </message>
     <message>
         <location line="-74"/>

@@ -112,7 +112,7 @@
     <message>
         <location line="+1"/>
         <source>Choose client which history you want to import to qutIM.</source>
-        <translation>Выберите клиент, историю которого нужно импортировать в QutIM.</translation>
+        <translation>Выберите клиент, историю которого нужно импортировать в qutIM.</translation>
     </message>
 </context>
 <context>
@@ -234,7 +234,7 @@
     <message>
         <location filename="../../src/historymanagerwindow.ui" line="+16"/>
         <source>Form</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -255,7 +255,7 @@
     <message>
         <location line="+1"/>
         <source>Plugin makes possible to import history to qutIM from different messengers</source>
-        <translation>Плагин дающий возможность импортировать историю в QutIM из прочих IM</translation>
+        <translation>Плагин дающий возможность импортировать историю в qutIM из прочих IM</translation>
     </message>
     <message>
         <location line="+9"/>

@@ -778,7 +778,7 @@ Accept invitation?</source>
         <translation type="obsolete">влезе в стаята</translation>
     </message>
     <message>
-        <location line="+41"/>
+        <location line="+42"/>
         <location line="+2"/>
         <location line="+2"/>
         <location line="+2"/>
@@ -830,7 +830,7 @@ Accept invitation?</source>
         <translation type="obsolete">Тема: %1</translation>
     </message>
     <message>
-        <location line="-95"/>
+        <location line="-96"/>
         <source> has been banned</source>
         <translation> е с наложена забрана</translation>
     </message>
@@ -865,7 +865,7 @@ Accept invitation?</source>
         <translation> сега се подвизава като </translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+24"/>
         <source> has joined the room</source>
         <translation> влезе в стаята</translation>
     </message>
@@ -986,7 +986,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JRoster</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+179"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+185"/>
         <source>Not in list</source>
         <translation>Извън списъка</translation>
     </message>
