@@ -24,15 +24,12 @@
         <translation>Отключиться</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location line="+1"/>
         <source>Exit QutIM</source>
         <translation>Закрыть QutIM</translation>
-=======
         <location filename="../../src/awnservice.cpp" line="278"/>
         <source>Exit qutIM</source>
         <translation type="unfinished">Закрыть qutIM</translation>
->>>>>>> 8d3edd0b771eebfa7e4ed5e6acf38d2630bcd068
     </message>
 </context>
 <context>
