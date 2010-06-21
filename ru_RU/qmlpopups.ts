@@ -86,6 +86,10 @@
         <translation>Принято сообщение</translation>
     </message>
     <message>
+		<source>Message sent</source>
+		<translation type="obsolete">Сообщение отправленно</translation>
+    </message>
+    <message>
         <source>System notification</source>
         <translation type="obsolete">Системное уведомление</translation>
     </message>
