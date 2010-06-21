@@ -14,7 +14,8 @@
     <message>
         <location line="-3"/>
         <source>AES crypto service loader</source>
-        <translation type="unfinished"></translation>
+	<translatorcomment>Ну нифкакую не могу придумать. Вот разьве что так.</translatorcomment>
+        <translation type="unfinished">Плагин шифрования AES</translation>
     </message>
     <message>
         <location line="+1"/>

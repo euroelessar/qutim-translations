@@ -29,7 +29,7 @@
     <message>
         <location line="+1"/>
         <source>Send files via Yandex.Narod filehosting service</source>
-        <translation>Отправить файл через Диск Яндекса</translation>
+        <translation>Отправить файл через Яндекс.Диск</translation>
     </message>
 </context>
 <context>
@@ -51,7 +51,7 @@
     <message>
         <location line="+8"/>
         <source>Send file via Yandex.Narod</source>
-        <translation>Отправить файл в Яндекс.Народ</translation>
+        <translation>Отправить файл через Яндекс.Народ</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -285,7 +285,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+10"/>
         <source>File: </source>
-        <translation>Файл:</translation>
+        <translation>Файл: </translation>
     </message>
     <message>
         <location line="+10"/>

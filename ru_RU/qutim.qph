@@ -90,7 +90,7 @@
 </phrase>
 <phrase>
     <source>Vasya is reading you mind</source>
-    <target>Вася читает твои мысли</target>
+    <target>Васяня читает твои мысли</target>
 </phrase>
 <phrase>
     <source>Invalid name</source>
@@ -130,7 +130,7 @@
 </phrase>
 <phrase>
     <source>qutIM Launched</source>
-    <target>QutIM запущен</target>
+    <target>qutIM запущен</target>
 </phrase>
 <phrase>
     <source>Message recieved</source>
@@ -2382,7 +2382,7 @@
 </phrase>
 <phrase>
     <source>qutIM launched</source>
-    <target>QutIM запущен</target>
+    <target>qutIM запущен</target>
 </phrase>
 <phrase>
     <source>This is a simple popup</source>

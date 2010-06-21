@@ -15,13 +15,13 @@
         <location filename="../../src/libnotificator.cpp" line="30"/>
         <location filename="../../src/libnotificator.cpp" line="35"/>
         <source>Libnotificator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Libnotificator</translation>
     </message>
     <message>
         <location filename="../../src/libnotificator.cpp" line="31"/>
         <location filename="../../src/libnotificator.cpp" line="36"/>
         <source>Ubuntu libnotify popups provider</source>
-        <translation type="unfinished">Уведомления через прозрачные убунту уведомления</translation>
+        <translation type="unfinished">Уведомления через прозрачные Ubuntu уведомления</translation>
     </message>
 </context>
 <context>

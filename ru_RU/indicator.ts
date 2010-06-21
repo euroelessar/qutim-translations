@@ -26,7 +26,7 @@
     <message>
         <location filename="../../src/indicatorservice.cpp" line="+36"/>
         <source>Close qutIM</source>
-        <translation type="unfinished">Закрыть QutIM</translation>
+        <translation type="unfinished">Закрыть qutIM</translation>
     </message>
 </context>
 <context>

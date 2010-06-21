@@ -22,11 +22,7 @@
     </message>
     <message>
         <source>Timeout, msec:</source>
-        <translation type="obsolete">Время, мс:</translation>
-    </message>
-    <message>
-        <source>Animation speed:</source>
-        <translation type="obsolete">Скорость анимации:</translation>
+        <translation type="unfinished">Время, мс:</translation>
     </message>
     <message>
         <source>No Animation</source>
@@ -50,9 +46,10 @@
     </message>
     <message>
         <source>Very slow</source>
-        <translation type="obsolete">Адски медленно</translation>
+        <translation>Очень медленно</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Custom</source>
         <translation type="obsolete">Иная скорость</translation>
     </message>
@@ -77,15 +74,12 @@
     </message>
     <message>
         <source>qutIM Launched</source>
-        <translation type="obsolete">кутим запущен</translation>
+        <translation>qutIM запущен</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Message recieved</source>
-        <translation type="obsolete">Прнято сообщение</translation>
-    </message>
-    <message>
-        <source>Message sent</source>
-        <translation type="obsolete">Сообщение отправленно</translation>
+        <translation>Принято сообщение</translation>
     </message>
     <message>
         <source>System notification</source>
@@ -121,12 +115,12 @@
     <message>
         <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+12"/>
         <source>Qml popups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Всплывающие уведомления Qml</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Modern popups, based on power of Qt Quick</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Современные всплывающие сообщения, основанные на Qt Quick</translation>
     </message>
 </context>
 <context>
@@ -176,7 +170,7 @@
     <message>
         <location filename="../../plugins/qmlpopups/src/backend.cpp" line="+35"/>
         <source>Popups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Уведомления</translation>
     </message>
 </context>
 <context>
@@ -184,12 +178,12 @@
     <message>
         <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+2"/>
         <source>Qml popups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Qml уведомления</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Modern popups, based on power of Qt Quick</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Современные уведомления, основанные на Qt Quick</translation>
     </message>
     <message>
         <source>description</source>
