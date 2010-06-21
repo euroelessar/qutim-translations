@@ -29,6 +29,10 @@
         <translation type="obsolete">Без анимации</translation>
     </message>
     <message>
+	<source>Animation speed:</source>
+	<translation type="obsolete">Скорость анимации:</translation>
+	</message>
+    <message>
         <source>Very fast</source>
         <translation type="obsolete">Очень быстро</translation>
     </message>
