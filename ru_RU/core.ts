@@ -389,7 +389,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+98"/>
         <source>Change global status</source>
-        <translation>Измениь общий статус</translation>
+        <translation>Изменить общий статус</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1124,7 +1124,8 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>qutIM Launched</source>
-        <translation>qutIM запущен</translation>
+        <translatorcomment>Именно тут большая буква нужна, ибо в началек предложения. можешь сам посмотреть как выглядит с мелкой.</translatorcomment>
+        <translation>QutIM запущен</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1891,7 +1892,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/adiumchat/settings/chatsettings.cpp" line="+5"/>
         <location line="+2"/>
         <source>Chat</source>
-        <translation type="unfinished">Чат</translation>
+        <translation>Чат</translation>
     </message>
 </context>
 <context>
