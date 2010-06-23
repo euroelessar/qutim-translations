@@ -1216,7 +1216,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/qticons/iconsloaderimpl.cpp" line="+41"/>
         <source>Xdg Icon Loader</source>
-        <translation>Модуль Xdg загрузки иконок</translation>
+        <translation>Модуль загрузки иконок</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1589,12 +1589,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="-16"/>
         <source>Add contact dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модуль добавления контакта</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Simple add contact dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Простой модуль добавления контакта</translation>
     </message>
 </context>
 <context>
@@ -1866,7 +1866,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/examples/autosettingsitem/autosettings.cpp" line="+5"/>
         <source>Test settings</source>
-        <translation>Тестовые настройки</translation>
+        <translation>Проверить настройки</translation>
     </message>
     <message>
         <location line="+2"/>
