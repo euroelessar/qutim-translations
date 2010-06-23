@@ -141,7 +141,7 @@
     <message>
         <location line="+1"/>
         <source>MRIM</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+13"/>

@@ -267,7 +267,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+8"/>
         <source>about:blank</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -348,7 +348,7 @@ p, li { white-space: pre-wrap; }
         <location line="+51"/>
         <source>line1
 line2</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+42"/>
