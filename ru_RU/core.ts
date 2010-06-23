@@ -1752,7 +1752,8 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+3"/>
         <source>qutIM launched</source>
-        <translation>qutIM запущен</translation>
+        <translatorcomment>Аналогично</translatorcomment>
+        <translation>QutIM запущен</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2275,7 +2276,7 @@ p, li { white-space: pre-wrap; }
         <location line="+22"/>
         <source>Could not init plugin: 
  %1</source>
-        <translation type="unfinished">Не могу запуститьь плагин: 
+        <translation type="unfinished">Не могу запустить плагин: 
  %1</translation>
     </message>
 </context>
