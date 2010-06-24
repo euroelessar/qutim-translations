@@ -3907,4 +3907,24 @@ Accept invitation?</source>
     <source>Upload File</source>
     <target>Выложить файл</target>
 </phrase>
+<phrase>
+    <source>Edit tags</source>
+    <target>Изменить метки</target>
+</phrase>
+<phrase>
+    <source>Service message</source>
+    <target>Сервисное сообщение</target>
+</phrase>
+<phrase>
+    <source>You has been banned at </source>
+    <target>Вы были заблокированы в</target>
+</phrase>
+<phrase>
+    <source>You have been banned</source>
+    <target>Вы были заблокированы</target>
+</phrase>
+<phrase>
+    <source>Registration required: User is not on the member list.</source>
+    <target>Требуется регистрация: Пользователь не в списке зарегистрированных.</target>
+</phrase>
 </QPH>
