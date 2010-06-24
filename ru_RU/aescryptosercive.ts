@@ -15,18 +15,18 @@
         <location line="-3"/>
         <source>AES crypto service loader</source>
 	<translatorcomment>Ну нифкакую не могу придумать. Вот разьве что так.</translatorcomment>
-        <translation type="unfinished">Плагин шифрования AES</translation>
+        <translation>Плагин шифрования AES</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+6"/>
         <source>Default qutIM crypto implementation. Based on algorithm aes256</source>
-        <translation type="unfinished">Реализация шифрования для qutIM. Основана на aes256</translation>
+        <translation>Реализация шифрования для qutIM. Основана на aes256</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>AES crypto</source>
-        <translation type="unfinished">Шифрование AES</translation>
+        <translation>Шифрование AES</translation>
     </message>
 </context>
 <context>

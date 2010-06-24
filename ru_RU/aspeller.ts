@@ -15,14 +15,14 @@
         <location filename="../../src/aspellplugin.cpp" line="29"/>
         <location filename="../../src/aspellplugin.cpp" line="32"/>
         <source>ASpell checker</source>
-        <translation type="unfinished">Проверка орфографии</translation>
+        <translation>Проверка орфографии</translation>
     </message>
     <message>
         <location filename="../../src/aspellplugin.cpp" line="30"/>
         <location filename="../../src/aspellplugin.cpp" line="33"/>
         <source>Check spelling by ASpell library</source>
 	<translatorcomment>орфограции - дооооолго читал, не мог понять где ошибка. Вот вам и орфограция!</translatorcomment>
-        <translation type="unfinished">Модуль проверки орфографии основанный на ASpell</translation>
+        <translation>Модуль проверки орфографии основанный на ASpell</translation>
     </message>
 </context>
 <context>
@@ -30,7 +30,7 @@
     <message>
         <location filename="../../src/aspellplugin.cpp" line="27"/>
         <source>Developer</source>
-        <translation type="unfinished">Разработчик</translation>
+        <translation>Разработчик</translation>
     </message>
 </context>
 </TS>

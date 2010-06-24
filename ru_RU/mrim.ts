@@ -87,7 +87,7 @@
     <message>
         <location line="+9"/>
         <source>Message was not delivered!</source>
-        <translation type="unfinished">Сообщение не доставлено |-_-| !</translation>
+        <translation>Сообщение не доставлено |-_-| !</translation>
     </message>
 </context>
 <context>
@@ -141,7 +141,7 @@
     <message>
         <location line="+1"/>
         <source>MRIM</source>
-        <translation type="unfinished"></translation>
+        <translation>Mail.ru IM</translation>
     </message>
     <message>
         <location line="+13"/>

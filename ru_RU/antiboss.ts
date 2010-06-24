@@ -6,12 +6,12 @@
     <message>
         <location filename="antibossplugin.cpp" line="+36"/>
         <source>Show/hide all windows</source>
-        <translation type="unfinished">Показать/скрыть все окна</translation>
+        <translation>Показать/скрыть все окна</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Antiboss</source>
-        <translation type="unfinished">АнтиБосс</translation>
+        <translation>АнтиБосс</translation>
     </message>
 </context>
 <context>
@@ -27,12 +27,12 @@
     <message>
         <location line="+3"/>
         <source>Anti-boss plugin</source>
-        <translation type="unfinished">Плагин АнтиБосс</translation>
+        <translation>Плагин АнтиБосс</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Plugin makes your chatting invisible for boss</source>
-        <translation type="unfinished">Плагин делающий невидимым qutIM для вашего босса</translation>
+        <translation>Плагин делающий невидимым qutIM для вашего босса</translation>
     </message>
 </context>
 <context>

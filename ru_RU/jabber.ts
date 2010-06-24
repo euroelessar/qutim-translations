@@ -1182,7 +1182,7 @@ Accept invitation?</source>
         <location filename="../../protocols/jabber/src/jplugin.cpp" line="-10"/>
         <location line="+13"/>
         <source>Jabber</source>
-        <translation>Jabber/XMPP</translation>
+        <translation>Jabber</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1428,7 +1428,7 @@ Accept invitation?</source>
     <message>
         <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-36"/>
         <source>Jabber</source>
-        <translation>Jabber/XMPP</translation>
+        <translation>Jabber</translation>
     </message>
 </context>
 <context>

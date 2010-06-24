@@ -579,7 +579,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/settings/chatbehavior.cpp" line="+15"/>
         <source>Ctrl+Enter</source>
-        <translation type="unfinished">Ctrl+Enter</translation>
+        <translation>Ctrl+Enter</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -589,7 +589,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+3"/>
         <source>Enter</source>
-        <translation type="unfinished">Enter</translation>
+        <translation>Enter</translation>
     </message>
 </context>
 <context>
@@ -1578,13 +1578,13 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/dataformsbackend/dataformsbackend.cpp" line="+12"/>
         <source>Data forms backend</source>
 	<translatorcomment>Wtf? Эташто такое?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Простая рисовалка форм</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Default qutIM implementation of the data forms</source>
 	<translatorcomment>Wtf? Эташто такое?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Простая реализация рисовалки форм для qutIM (по умолчанию).</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="-16"/>
@@ -2087,7 +2087,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsdialog.ui" line="+14"/>
         <source>XSettingsDialog</source>
-        <translation type="unfinished">Настройки чего-то там</translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
     <message>
         <location line="+27"/>
