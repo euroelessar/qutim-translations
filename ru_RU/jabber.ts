@@ -958,7 +958,7 @@ Accept invitation?</source>
     <message>
         <location line="+6"/>
         <source>Join groupchat on </source>
-        <translation type="unfinished">Войти в конференцию on</translation>
+        <translation type="unfinished">Войти в конференцию on </translation>
     </message>
     <message>
         <source>Join groupchat on</source>
