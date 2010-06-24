@@ -74,7 +74,7 @@
     <message>
         <location line="+32"/>
         <source>Enable friends photo updates notifications</source>
-        <translation>Разрешить уведомления о смене фото у друзей</translation>
+        <translation>Включить уведомления о смене фото у друзей</translation>
     </message>
     <message>
         <location line="+22"/>
