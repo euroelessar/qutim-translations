@@ -29,7 +29,7 @@
         <translation>Закрыть QutIM</translation>
         <location filename="../../src/awnservice.cpp" line="278"/>
         <source>Exit qutIM</source>
-        <translation type="unfinished">Закрыть qutIM</translation>
+        <translation>Закрыть qutIM</translation>
     </message>
 </context>
 <context>
@@ -46,7 +46,7 @@
         <location line="+4"/>
         <location line="+5"/>
         <source>AWN</source>
-        <translation type="unfinished">AWN</translation>
+        <translation type="unfinished">Avant dock integration</translation>
     </message>
     <message>
         <location line="-4"/>

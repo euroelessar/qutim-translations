@@ -986,12 +986,12 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JRoster</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+185"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+135"/>
         <source>Not in list</source>
         <translation>Извън списъка</translation>
     </message>
     <message>
-        <location line="+86"/>
+        <location line="+83"/>
         <source>You were authorized</source>
         <translation>Дадено ви бе удостоверение</translation>
     </message>

@@ -185,7 +185,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="+295"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="+304"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -541,7 +541,7 @@
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+310"/>
+        <location line="+311"/>
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>
@@ -3643,7 +3643,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="-313"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="-322"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>

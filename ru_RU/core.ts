@@ -6,7 +6,7 @@
     <message>
         <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorlist.ui" line="+14"/>
         <source>Form</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add</source>
@@ -74,12 +74,12 @@
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.ui" line="+14"/>
         <source>MainWindow</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+43"/>
         <source>about:blank</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chats</source>
@@ -276,7 +276,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+53"/>
         <source>about:blank</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+59"/>
@@ -389,7 +389,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+98"/>
         <source>Change global status</source>
-        <translation>Измениь общий статус</translation>
+        <translation>Изменить общий статус</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -579,7 +579,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/settings/chatbehavior.cpp" line="+15"/>
         <source>Ctrl+Enter</source>
-        <translation type="unfinished">Ctrl+Enter</translation>
+        <translation>Ctrl+Enter</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -589,7 +589,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+3"/>
         <source>Enter</source>
-        <translation type="unfinished">Enter</translation>
+        <translation>Enter</translation>
     </message>
 </context>
 <context>
@@ -1068,7 +1068,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/localization/localizationsettings.ui" line="+14"/>
         <source>Form</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1124,7 +1124,8 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>qutIM Launched</source>
-        <translation>qutIM запущен</translation>
+        <translatorcomment>Именно тут большая буква нужна, ибо в началек предложения. можешь сам посмотреть как выглядит с мелкой.</translatorcomment>
+        <translation>QutIM запущен</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1215,7 +1216,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/qticons/iconsloaderimpl.cpp" line="+41"/>
         <source>Xdg Icon Loader</source>
-        <translation>Модуль Xdg загрузки иконок</translation>
+        <translation>Модуль загрузки иконок</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1577,23 +1578,23 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/dataformsbackend/dataformsbackend.cpp" line="+12"/>
         <source>Data forms backend</source>
 	<translatorcomment>Wtf? Эташто такое?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Простая рисовалка форм</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Default qutIM implementation of the data forms</source>
 	<translatorcomment>Wtf? Эташто такое?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Простая реализация рисовалки форм для qutIM (по умолчанию).</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="-16"/>
         <source>Add contact dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модуль добавления контакта</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Simple add contact dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Простой модуль добавления контакта</translation>
     </message>
 </context>
 <context>
@@ -1751,7 +1752,8 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+3"/>
         <source>qutIM launched</source>
-        <translation>qutIM запущен</translation>
+        <translatorcomment>Аналогично</translatorcomment>
+        <translation>QutIM запущен</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1855,7 +1857,7 @@ p, li { white-space: pre-wrap; }
         <location line="+2"/>
         <source>Protocol chooser</source>
         <translatorcomment>Выбор приоритетных реализаций протоколов, если загружено неколько реализаций, например кутимовский оскар и аська через кецалькоатля</translatorcomment>
-        <translation>Управление протоколами</translation>
+        <translation>Протоколы</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/shortcutsettings/shortcutsettings.cpp" line="+6"/>
@@ -1865,7 +1867,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/examples/autosettingsitem/autosettings.cpp" line="+5"/>
         <source>Test settings</source>
-        <translation>Тестовые настройки</translation>
+        <translation>Проверить настройки</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1891,7 +1893,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/adiumchat/settings/chatsettings.cpp" line="+5"/>
         <location line="+2"/>
         <source>Chat</source>
-        <translation type="unfinished">Чат</translation>
+        <translation>Чат</translation>
     </message>
 </context>
 <context>
@@ -2085,7 +2087,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsdialog.ui" line="+14"/>
         <source>XSettingsDialog</source>
-        <translation type="unfinished">Настройки чего-то там</translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -2274,7 +2276,7 @@ p, li { white-space: pre-wrap; }
         <location line="+22"/>
         <source>Could not init plugin: 
  %1</source>
-        <translation type="unfinished">Не могу запуститьь плагин: 
+        <translation type="unfinished">Не могу запустить плагин: 
  %1</translation>
     </message>
 </context>

@@ -96,7 +96,7 @@
     <message>
         <location filename="../../protocols/jabber/src/protocol/modules/adhoc/jadhocwidget.ui" line="+14"/>
         <source>Form</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -867,7 +867,7 @@ Accept invitation?</source>
     <message>
         <location line="+12"/>
         <source> is now known as </source>
-        <translation type="unfinished"> теперь известен как</translation>
+        <translation type="unfinished"> теперь известен как </translation>
     </message>
     <message>
         <location line="+23"/>
@@ -938,7 +938,7 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>Registration required: User is not on the member list.</source>
-        <translation>Требуется регистрация: Пользователь не в списке регистрированных.</translation>
+        <translation>Требуется регистрация: Пользователь не в списке зарегистрированных.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -953,7 +953,7 @@ Accept invitation?</source>
     <message>
         <location line="+4"/>
         <source>Unknown error: No description.</source>
-        <translation>Неизвестна ошибка: Нет описания.</translation>
+        <translation>Неизвестная ошибка: Нет описания.</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -962,7 +962,7 @@ Accept invitation?</source>
     </message>
     <message>
         <source>Join groupchat on</source>
-        <translatorcomment>что к чему, когда наконец я смогу сам плагин пощупать???</translatorcomment>
+        <translatorcomment>что к чему, когда наконец я смогу сам плагин пощупать??? ==//== Ага</translatorcomment>
         <translation type="obsolete">Войти в конференцию on</translation>
     </message>
 </context>
@@ -1182,7 +1182,7 @@ Accept invitation?</source>
         <location filename="../../protocols/jabber/src/jplugin.cpp" line="-10"/>
         <location line="+13"/>
         <source>Jabber</source>
-        <translation>Jabber/XMPP</translation>
+        <translation>Jabber</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1228,12 +1228,12 @@ Accept invitation?</source>
     <message>
         <location line="+1"/>
         <source>Account creator for Yandex.Online</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Регистратор аккаунтов для Я.Онлайн.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>QIP account creator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Регистратор аккаунтов QIP.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1428,7 +1428,7 @@ Accept invitation?</source>
     <message>
         <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-36"/>
         <source>Jabber</source>
-        <translation>Jabber/XMPP</translation>
+        <translation>Jabber</translation>
     </message>
 </context>
 <context>
@@ -1473,7 +1473,7 @@ Accept invitation?</source>
     <message>
         <location filename="../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+14"/>
         <source>Form</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+9"/>
