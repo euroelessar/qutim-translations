@@ -244,7 +244,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-10"/>
         <source>Number of previous messages shown in new chats</source>
-        <translation>Брой на последните показвани съобщения в новите разговори:</translation>
+        <translation>Брой на последните показвани съобщения в новите разговори</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -272,7 +272,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Изпращане на съобщение</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatlayerimpl.cpp" line="+46"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayerimpl.cpp" line="+47"/>
         <source>Close chat</source>
         <translation>Затваряне на разговора</translation>
     </message>
@@ -396,7 +396,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+98"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+100"/>
         <source>Change global status</source>
         <translation>Промяна на общия статус</translation>
     </message>
@@ -426,7 +426,7 @@ p, li { white-space: pre-wrap; }
         <translation>Скриване на потребителите извън линия</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+43"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+57"/>
         <source>Remove contact</source>
         <translation>Прeмахване на контакта</translation>
     </message>
@@ -833,7 +833,27 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+638"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+570"/>
+        <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
+        <translation>Желаете ли да обедините контактите &quot;%1&quot; &lt;%2&gt; и &quot;%3&quot; &lt;%4&gt;?</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Would you like to merge metacontacts &quot;%1&quot; and &quot;%2&quot;?</source>
+        <translation>Желаете ли да обедините метаконтактите &quot;%1&quot; и &quot;%2&quot;?</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Would you like to add &quot;%1&quot; &lt;%2&gt; to metacontact &quot;%3&quot;?</source>
+        <translation>Желаете ли да добавите &quot;%1&quot; &lt;%2&gt; към метаконтакта &quot;%3&quot;?</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Contacts&apos; merging</source>
+        <translation>Обединяване на контакти</translation>
+    </message>
+    <message>
+        <location line="+171"/>
         <source>All tags</source>
         <translation>Всички етикети</translation>
     </message>
@@ -856,7 +876,7 @@ p, li { white-space: pre-wrap; }
         <translation>Статус</translation>
     </message>
     <message>
-        <location line="+49"/>
+        <location line="+52"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
@@ -1184,7 +1204,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Default qutIM config implementation. Based on JSON.</source>
-        <translation>Подразбираща се за qutIM реализация на конфигурационни файлове. На базата на JSON</translation>
+        <translation>Подразбираща се за qutIM реализация на конфигурационни файлове. На базата на JSON.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1197,7 +1217,7 @@ p, li { white-space: pre-wrap; }
         <translation>PList конфигурация</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-188"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-192"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
@@ -1563,6 +1583,16 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Simple add contact dialog</source>
         <translation>Опростен диалог за добавяне на контакт</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/metacontacts/manager.cpp" line="+26"/>
+        <source>Simple MetaContacts</source>
+        <translation>Опростени Метаконтакти</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Default qutIM MetaContacts implementation, very stupid one</source>
+        <translation>Подразбираща се за qutIM реализация на метаконтакти</translation>
     </message>
 </context>
 <context>
@@ -2224,7 +2254,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Добавка: %1</translation>
     </message>
     <message>
-        <location filename="../../qutim/libqutim/modulemanager.cpp" line="+217"/>
+        <location filename="../../qutim/libqutim/modulemanager.cpp" line="+256"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Неуспешно зареждане на добавка: 
@@ -2243,7 +2273,7 @@ p, li { white-space: pre-wrap; }
  %1</translation>
     </message>
     <message>
-        <location line="+22"/>
+        <location line="+23"/>
         <source>Could not init plugin: 
  %1</source>
         <translation>Неуспешно инициализиране на добавка: 
