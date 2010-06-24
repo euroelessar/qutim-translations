@@ -656,21 +656,26 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-57"/>
-        <location line="+379"/>
+        <location line="+388"/>
         <source>In: %L1</source>
         <translation>Входящи: %L1</translation>
     </message>
     <message>
-        <location line="-378"/>
-        <location line="+379"/>
+        <location line="-387"/>
+        <location line="+388"/>
         <source>Out: %L1</source>
         <translation>Изходящи: %L1</translation>
     </message>
     <message>
-        <location line="-378"/>
-        <location line="+379"/>
+        <location line="-387"/>
+        <location line="+388"/>
         <source>All: %L1</source>
         <translation>Общо: %L1</translation>
+    </message>
+    <message>
+        <location line="-36"/>
+        <source>Service message</source>
+        <translation>Служебно съобщение</translation>
     </message>
 </context>
 <context>
