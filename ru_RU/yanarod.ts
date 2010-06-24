@@ -114,7 +114,7 @@
     <message>
         <location line="+7"/>
         <source>Test Authorization</source>
-        <translation>Проверить логин</translation>
+        <translation>Проверить информацию</translation>
     </message>
     <message>
         <location line="+7"/>
