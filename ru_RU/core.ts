@@ -33,7 +33,7 @@
     <name>AddContact</name>
     <message>
         <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.ui" line="+14"/>
-        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="+28"/>
+        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="+29"/>
         <source>Add contact</source>
         <translation>Добавить</translation>
     </message>
@@ -74,7 +74,7 @@
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.ui" line="+14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Главное окно</translation>
     </message>
     <message>
         <location line="+43"/>
@@ -117,7 +117,7 @@
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-	<translatorcomment>А что мешает скопировать вышеперечисленное и вставить без изменений?</translatorcomment>
+        <translatorcomment>А что мешает скопировать вышеперечисленное и вставить без изменений?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -384,7 +384,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+4"/>
         <source>Edit tags</source>
-        <translation>Изменить теги</translation>
+        <translation>Изменить метки</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+98"/>
@@ -447,6 +447,14 @@ p, li { white-space: pre-wrap; }
         <location line="+5"/>
         <source>Remove account</source>
         <translation>Удалить аккаунт</translation>
+    </message>
+</context>
+<context>
+    <name>Core::AddContact</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="+89"/>
+        <source>Account must be online</source>
+        <translation type="unfinished">Учетная запись должна быть В Сети</translation>
     </message>
 </context>
 <context>
@@ -604,7 +612,7 @@ p, li { white-space: pre-wrap; }
     <name>Core::Game::PListConfigBackend</name>
     <message>
         <source>Cannot write to file %1</source>
-	<translatorcomment>Кто куда писает?</translatorcomment>
+        <translatorcomment>Кто куда писает?</translatorcomment>
         <translation type="obsolete">Невозможно записать в файл %1</translation>
     </message>
 </context>
@@ -618,21 +626,26 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-57"/>
-        <location line="+379"/>
+        <location line="+388"/>
         <source>In: %L1</source>
         <translation>Пришло: %L1</translation>
     </message>
     <message>
-        <location line="-378"/>
-        <location line="+379"/>
+        <location line="-387"/>
+        <location line="+388"/>
         <source>Out: %L1</source>
         <translation>Ушло: %L1</translation>
     </message>
     <message>
-        <location line="-378"/>
-        <location line="+379"/>
+        <location line="-387"/>
+        <location line="+388"/>
         <source>All: %L1</source>
         <translation>Всего: %L1</translation>
+    </message>
+    <message>
+        <location line="-36"/>
+        <source>Service message</source>
+        <translation type="unfinished">Сервисное сообщение</translation>
     </message>
 </context>
 <context>
@@ -663,7 +676,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/configbackends/plistconfigbackend.cpp" line="+159"/>
         <source>Cannot write to file %1</source>
-	<translatorcomment>Опять кто-то куда-то писает, да что же такое!</translatorcomment>
+        <translatorcomment>Опять кто-то куда-то писает, да что же такое!</translatorcomment>
         <translation>Невозможно записать в файл %1</translation>
     </message>
 </context>
@@ -845,12 +858,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+638"/>
         <source>All tags</source>
-        <translation>Все теги</translation>
+        <translation type="unfinished">Все метки</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Custom tags</source>
-        <translation type="unfinished">Прочие теги</translation>
+        <translation type="unfinished">Прочие метки</translation>
     </message>
 </context>
 <context>
@@ -888,7 +901,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistview.cpp" line="+59"/>
         <source>Select tags</source>
-        <translation>Выбрать теги</translation>
+        <translation type="unfinished">Выбрать метки</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -901,7 +914,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/contactlist/simpletagseditor/simpletagseditor.cpp" line="+16"/>
         <source>Edit tags for %1</source>
-        <translation>Изменить теги для %1</translation>
+        <translation type="unfinished">Изменить метки для %1</translation>
     </message>
 </context>
 <context>
@@ -1013,7 +1026,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+36"/>
         <source>1</source>
-        <translation type="unfinished">адин</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1068,7 +1081,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/localization/localizationsettings.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1324,7 +1337,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/modifiers/timemodifier.cpp" line="+11"/>
         <source>Time modifier</source>
-	<translatorcomment>Аяхз как перевести по другому, ну не модификатор времени же? // беру слова обратно, как бы короче сделать?</translatorcomment>
+        <translatorcomment>Аяхз как перевести по другому, ну не модификатор времени же? // беру слова обратно, как бы короче сделать?</translatorcomment>
         <translation type="unfinished">Изменение параметров отображения времени (?)</translation>
     </message>
     <message>
@@ -1517,17 +1530,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatform.cpp" line="+12"/>
         <source>Adium</source>
-        <translation type="unfinished">Адиумчег</translation>
+        <translation type="unfinished">Adium-подобная форма чата</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Adium-like chatform implementation for adiumchat</source>
-        <translation type="unfinished">Реализация формы чата похожая на Adium'овскую реализацию.</translation>
+        <translation type="unfinished">Реализация формы чата похожая на Adium&apos;овскую реализацию</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatform.cpp" line="+12"/>
         <source>Classic</source>
-        <translation type="unfinished">Классическая</translation>
+        <translation type="unfinished">Классическая форма чата</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1577,17 +1590,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/dataformsbackend/dataformsbackend.cpp" line="+12"/>
         <source>Data forms backend</source>
-	<translatorcomment>Wtf? Эташто такое?</translatorcomment>
+        <translatorcomment>Wtf? Эташто такое?</translatorcomment>
         <translation>Простая рисовалка форм</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Default qutIM implementation of the data forms</source>
-	<translatorcomment>Wtf? Эташто такое?</translatorcomment>
-        <translation>Простая реализация рисовалки форм для qutIM (по умолчанию).</translation>
+        <translatorcomment>Wtf? Эташто такое?</translatorcomment>
+        <translation type="unfinished">Простая реализация рисовалки форм для qutIM (по умолчанию)</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="-16"/>
+        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="-106"/>
         <source>Add contact dialog</source>
         <translation type="unfinished">Модуль добавления контакта</translation>
     </message>
