@@ -96,7 +96,7 @@
     <message>
         <location filename="../../protocols/jabber/src/protocol/modules/adhoc/jadhocwidget.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
 </context>
 <context>
@@ -782,7 +782,7 @@ Accept invitation?</source>
         <translation type="obsolete">вошел в комнату</translation>
     </message>
     <message>
-        <location line="+41"/>
+        <location line="+42"/>
         <location line="+2"/>
         <location line="+2"/>
         <location line="+2"/>
@@ -835,7 +835,7 @@ Accept invitation?</source>
 %1</translation>
     </message>
     <message>
-        <location line="-95"/>
+        <location line="-96"/>
         <source> has been banned</source>
         <translation type="unfinished"> был заблокирован</translation>
     </message>
@@ -847,12 +847,12 @@ Accept invitation?</source>
     <message>
         <location line="+5"/>
         <source>You has been banned at </source>
-        <translation type="unfinished">Вы были завлокированы в</translation>
+        <translation type="unfinished">Вы были заблокированы в</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>You has been kicked from </source>
-        <translation type="unfinished">Вы были выкинуты из</translation>
+        <translation type="unfinished">Вы были выкинуты из </translation>
     </message>
     <message>
         <location line="+2"/>
@@ -862,7 +862,7 @@ Accept invitation?</source>
     <message>
         <location line="+7"/>
         <source>You have been banned</source>
-        <translation>Вы были забанены</translation>
+        <translation type="unfinished">Вы были заблокированы</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -870,7 +870,7 @@ Accept invitation?</source>
         <translation type="unfinished"> теперь известен как </translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+24"/>
         <source> has joined the room</source>
         <translation type="unfinished"> вошел в комнату</translation>
     </message>
@@ -958,6 +958,7 @@ Accept invitation?</source>
     <message>
         <location line="+6"/>
         <source>Join groupchat on </source>
+        <translatorcomment>не понятно, не могу увидеть что и как здесь</translatorcomment>
         <translation type="unfinished">Войти в конференцию on </translation>
     </message>
     <message>
@@ -992,12 +993,12 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JRoster</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+191"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+135"/>
         <source>Not in list</source>
         <translation type="unfinished">Не в списке</translation>
     </message>
     <message>
-        <location line="+86"/>
+        <location line="+83"/>
         <source>You were authorized</source>
         <translation type="unfinished">Вас авторизовали</translation>
     </message>
@@ -1228,12 +1229,12 @@ Accept invitation?</source>
     <message>
         <location line="+1"/>
         <source>Account creator for Yandex.Online</source>
-        <translation type="unfinished">Регистратор аккаунтов для Я.Онлайн.</translation>
+        <translation type="unfinished">Регистратор аккаунтов для Я.Онлайн</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>QIP account creator</source>
-        <translation type="unfinished">Регистратор аккаунтов QIP.</translation>
+        <translation type="unfinished">Регистратор аккаунтов QIP</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1473,7 +1474,7 @@ Accept invitation?</source>
     <message>
         <location filename="../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
     <message>
         <location line="+9"/>
