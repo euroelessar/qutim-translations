@@ -1857,7 +1857,7 @@ p, li { white-space: pre-wrap; }
         <location line="+2"/>
         <source>Protocol chooser</source>
         <translatorcomment>Выбор приоритетных реализаций протоколов, если загружено неколько реализаций, например кутимовский оскар и аська через кецалькоатля</translatorcomment>
-        <translation>Управление протоколами</translation>
+        <translation>Протоколы</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/shortcutsettings/shortcutsettings.cpp" line="+6"/>
