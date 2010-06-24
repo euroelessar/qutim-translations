@@ -133,7 +133,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+34"/>
         <source>Manage files</source>
-        <translation type="unfinished">Управлять файлами</translation>
+        <translation type="unfinished">Управление файлами</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -280,7 +280,8 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+10"/>
         <source>Upload started.</source>
-        <translation type="unfinished">Выгрузка запущена.</translation>
+        <translatorcomment>Всё-таки загрузка. Ибо download это скачка. </translatorcomment>
+        <translation type="unfinished">Загрузка запущена.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -348,7 +349,7 @@ p, li { white-space: pre-wrap; }
         <location line="+51"/>
         <source>line1
 line2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+42"/>
