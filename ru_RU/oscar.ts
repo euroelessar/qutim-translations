@@ -203,7 +203,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="+295"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="+304"/>
         <source>Invalid nick or password</source>
         <translation>Неверный ник или пароль</translation>
     </message>
@@ -533,7 +533,7 @@
         <translation>Главные</translation>
     </message>
     <message>
-        <location line="+310"/>
+        <location line="+311"/>
         <source>Online time</source>
         <translation>В сети</translation>
     </message>
@@ -3260,7 +3260,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Область</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3606,7 +3606,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+3"/>
         <source>Oscar contact search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Поиск контактов в сети ICQ©</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3671,7 +3671,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="-313"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="-322"/>
         <source>Invalid SNAC header</source>
         <translation type="unfinished">Неверный заголовок SNAC</translation>
     </message>
