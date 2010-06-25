@@ -6,7 +6,7 @@
     <message>
         <location filename="../../src/aspellplugin.cpp" line="26"/>
         <source>Ruslan Nigmatullin</source>
-        <translation type="unfinished">Руслан Нигматуллин</translation>
+        <translation>Руслан Нигматуллин</translation>
     </message>
 </context>
 <context>

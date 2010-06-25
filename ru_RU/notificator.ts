@@ -15,7 +15,7 @@
         <location filename="../../src/libnotificator.cpp" line="30"/>
         <location filename="../../src/libnotificator.cpp" line="35"/>
         <source>Libnotificator</source>
-        <translation type="unfinished">Libnotificator</translation>
+        <translation>Libnotificator</translation>
     </message>
     <message>
         <location filename="../../src/libnotificator.cpp" line="31"/>

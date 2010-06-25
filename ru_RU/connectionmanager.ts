@@ -19,7 +19,7 @@
     <message>
         <location filename="../../src/managersettings.ui" line="42"/>
         <source>Autoconnect on startup</source>
-        <translation type="unfinished">Подключаться при старте</translation>
+        <translation>Подключаться при старте</translation>
     </message>
 </context>
 <context>
@@ -27,7 +27,7 @@
     <message>
         <location filename="../../src/connectionmanager.cpp" line="61"/>
         <source>Connection manager</source>
-        <translation type="unfinished">Менеджер подключений</translation>
+        <translation>Менеджер подключений</translation>
     </message>
 </context>
 <context>

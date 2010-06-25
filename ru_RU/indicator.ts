@@ -6,7 +6,7 @@
     <message>
         <location filename="../../src/indicator.cpp" line="+26"/>
         <source>Vsevolod Velichko</source>
-        <translation type="unfinished">Всеволод Величко</translation>
+        <translation>Всеволод Величко</translation>
     </message>
 </context>
 <context>
@@ -15,18 +15,18 @@
         <location line="+4"/>
         <location line="+5"/>
         <source>Indicator</source>
-        <translation type="unfinished">Индикатор</translation>
+        <translation>Индикатор</translation>
     </message>
     <message>
         <location line="-4"/>
         <location line="+5"/>
         <source>Ubuntu Indicator applet integration</source>
-        <translation type="unfinished">Интеграция в апплет панели GNOME для Ubuntu</translation>
+        <translation>Интеграция в апплет панели GNOME для Ubuntu</translation>
     </message>
     <message>
         <location filename="../../src/indicatorservice.cpp" line="+36"/>
         <source>Close qutIM</source>
-        <translation type="unfinished">Закрыть qutIM</translation>
+        <translation>Закрыть qutIM</translation>
     </message>
 </context>
 <context>
