@@ -1464,6 +1464,17 @@ p, li { white-space: pre-wrap; }
         <translation>Детектор простоя, основан на системном API</translation>
     </message>
     <message>
+        <location filename="../../qutim/src/corelayers/metacontacts/manager.cpp" line="+26"/>
+        <source>Simple MetaContacts</source>
+        <translation>Простые метаконтакты</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Default qutIM MetaContacts implementation, very stupid one</source>
+        <comment>Не трогать!</comment>
+        <translation>Реализация метаконтактов в qutIM по умолчанию, очень и очень тупая.</translation>
+    </message>
+    <message>
         <location filename="../../qutim/src/corelayers/NoCryptoService/nocryptoservice.cpp" line="+7"/>
         <source>No crypto</source>
         <translation>Без шифрования</translation>
@@ -1475,7 +1486,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>File transfer menager</source>
-        <translation type="obsolete">Менеджер передачи фацлов</translation>
+        <translation type="obsolete">Менеджер передачи файлов</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/filetransfer/simplefiletransfer.cpp" line="-8"/>

@@ -19,7 +19,7 @@
     <message>
         <location line="+1"/>
         <source>Added ability to control qutIM by DBus</source>
-        <translation type="unfinished">Позволяет управлять qutIM&apos;ом через DBus</translation>
+        <translation>Позволяет управлять qutIM&apos;ом через DBus</translation>
     </message>
 </context>
 <context>

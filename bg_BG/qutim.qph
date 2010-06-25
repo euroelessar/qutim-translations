@@ -1069,10 +1069,6 @@
     <target>На работа</target>
 </phrase>
 <phrase>
-    <source>Custom status</source>
-    <target>Разширен статус</target>
-</phrase>
-<phrase>
     <source>Privacy status</source>
     <target>Личен статус</target>
 </phrase>
@@ -2614,7 +2610,7 @@
 </phrase>
 <phrase>
     <source>Alexey Prokhin</source>
-    <target>Елексей Прокхин</target>
+    <target>Алексей Прокхин</target>
 </phrase>
 <phrase>
     <source>Possible client</source>
@@ -2651,5 +2647,13 @@
 <phrase>
     <source>Avatar</source>
     <target>Аватар</target>
+</phrase>
+<phrase>
+    <source>Custom status</source>
+    <target>Собствен статус</target>
+</phrase>
+<phrase>
+    <source>Taking a bath</source>
+    <target>В банята</target>
 </phrase>
 </QPH>

@@ -46,7 +46,7 @@
         <location line="+4"/>
         <location line="+5"/>
         <source>AWN</source>
-        <translation type="unfinished">Avant dock integration</translation>
+        <translation>Avant dock integration</translation>
     </message>
     <message>
         <location line="-4"/>
