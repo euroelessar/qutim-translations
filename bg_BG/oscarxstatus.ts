@@ -6,7 +6,7 @@
     <message>
         <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+165"/>
         <source>Alexey Prokhin</source>
-        <translation>Елексей Прокхин</translation>
+        <translation>Алексей Прокхин</translation>
     </message>
 </context>
 <context>

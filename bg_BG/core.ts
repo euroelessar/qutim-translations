@@ -2033,7 +2033,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../qutim/libqutim/status.cpp" line="+108"/>
+        <location filename="../../qutim/libqutim/status.cpp" line="+109"/>
         <source>Online</source>
         <translation>На линия</translation>
     </message>
