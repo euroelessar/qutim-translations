@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+156"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+165"/>
         <source>Alexey Prokhin</source>
         <translation>Елексей Прокхин</translation>
     </message>
@@ -62,11 +62,16 @@
         <source>Eating</source>
         <translation>Хапващ</translation>
     </message>
+    <message>
+        <location line="+5"/>
+        <source>Custom status</source>
+        <translation>Собствен статус</translation>
+    </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location line="-27"/>
+        <location line="-32"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -74,7 +79,7 @@
 <context>
     <name>XStatus</name>
     <message>
-        <location line="-122"/>
+        <location line="-128"/>
         <source>Angry</source>
         <translation>Бесен</translation>
     </message>
@@ -234,9 +239,33 @@
         <translation>Влюбен</translation>
     </message>
     <message>
-        <location line="+172"/>
+        <location line="+184"/>
+        <location line="+12"/>
         <source>X-Status</source>
         <translation>Разширен статус</translation>
+    </message>
+</context>
+<context>
+    <name>statusDialogClass</name>
+    <message>
+        <location filename="../../protocols/oscar/plugins/xstatus/statusdialog.ui" line="+14"/>
+        <source>Custom status</source>
+        <translation>Собствен статус</translation>
+    </message>
+    <message>
+        <location line="+79"/>
+        <source>Choose</source>
+        <translation>Избиране</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Cancel</source>
+        <translation>Отказ</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Set birthday/happy flag</source>
+        <translation>Установяване на флага за рожден/празничен ден</translation>
     </message>
 </context>
 </TS>
