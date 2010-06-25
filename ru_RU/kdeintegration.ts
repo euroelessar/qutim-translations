@@ -70,7 +70,7 @@
     <message>
         <location line="+2"/>
         <source>KDE Crash handler</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Перехватчик падений и крэшей</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -100,7 +100,7 @@
     <message>
         <location line="+1"/>
         <source>Uses KDE notifications</source>
-        <translation type="unfinished">Модуль уведомлений KDE, так то</translation>
+        <translation type="unfinished">Модуль уведомлений KDE, так-то!</translation>
     </message>
 </context>
 <context>
@@ -108,7 +108,8 @@
     <message>
         <location filename="../../src/speller/kdespellerlayer.cpp" line="+29"/>
         <source>Spell checker</source>
-        <translation type="unfinished">Проверялка орфограции</translation>
+        <translatorcomment>Не смешные шутки.</translatorcomment>
+        <translation type="unfinished">Проверка орфографии</translation>
     </message>
     <message>
         <location filename="../../src/notification/kdenotificationlayer.cpp" line="-83"/>
