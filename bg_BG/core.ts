@@ -457,7 +457,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AccountCreatorList</name>
     <message>
-        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+25"/>
+        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+31"/>
         <source>Add new account</source>
         <translation>Добавяне на нова сметка</translation>
     </message>
@@ -475,6 +475,22 @@ p, li { white-space: pre-wrap; }
         <location line="+5"/>
         <source>Remove account</source>
         <translation>Премахване на сметка</translation>
+    </message>
+</context>
+<context>
+    <name>Core::AccountCreatorProtocols</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+49"/>
+        <source>Select protocol</source>
+        <translation>Избор на протокол</translation>
+    </message>
+</context>
+<context>
+    <name>Core::AccountCreatorWizard</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorwizard.cpp" line="+10"/>
+        <source>Add a new account</source>
+        <translation>Добавяне на нова сметка</translation>
     </message>
 </context>
 <context>

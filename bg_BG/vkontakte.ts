@@ -20,118 +20,95 @@
 <context>
     <name>EdditAccount</name>
     <message>
-        <location filename="../../protocols/vkontakte/core/edditaccount.cpp" line="+32"/>
         <source>Editing %1</source>
-        <translation type="unfinished">Редактиране на %1</translation>
+        <translation type="obsolete">Редактиране на %1</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/core/edditaccount.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished">Настройки на сметка</translation>
+        <translation type="obsolete">Настройки на сметка</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>General</source>
-        <translation type="unfinished">Общи</translation>
+        <translation type="obsolete">Общи</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Password:</source>
-        <translation type="unfinished">Парола:</translation>
+        <translation type="obsolete">Парола:</translation>
     </message>
     <message>
-        <location line="+14"/>
         <source>Autoconnect on start</source>
-        <translation type="unfinished">Автоматично свързване при стартиране</translation>
+        <translation type="obsolete">Автоматично свързване при стартиране</translation>
     </message>
     <message>
         <source>Keep-alive every:</source>
         <translation type="obsolete">Поддържане връзката на всеки:</translation>
     </message>
     <message>
-        <location line="+36"/>
-        <location line="+34"/>
-        <location line="+54"/>
         <source> s</source>
-        <translation type="unfinished"> &quot;</translation>
+        <translation type="obsolete"> &quot;</translation>
     </message>
     <message>
-        <location line="-108"/>
         <source>Refresh friend list every:</source>
-        <translation type="unfinished">Обновяване на списъка с приятели на всеки:</translation>
+        <translation type="obsolete">Обновяване на списъка с приятели на всеки:</translation>
     </message>
     <message>
-        <location line="+34"/>
         <source>Check for new messages every:</source>
-        <translation type="unfinished">Проверка за ново съобщение на всеки:</translation>
+        <translation type="obsolete">Проверка за ново съобщение на всеки:</translation>
     </message>
     <message>
-        <location line="+46"/>
         <source>Updates</source>
-        <translation type="unfinished">Актуализации</translation>
+        <translation type="obsolete">Актуализации</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Check for friends updates every:</source>
-        <translation type="unfinished">Проверка за актуализации на приятелите на всеки:</translation>
+        <translation type="obsolete">Проверка за актуализации на приятелите на всеки:</translation>
     </message>
     <message>
-        <location line="+32"/>
         <source>Enable friends photo updates notifications</source>
-        <translation type="unfinished">Известяване за актуализации в снимките на приятелите</translation>
+        <translation type="obsolete">Известяване за актуализации в снимките на приятелите</translation>
     </message>
     <message>
-        <location line="+22"/>
         <source>Insert preview URL on new photos notifications</source>
-        <translation type="unfinished">Вмъкване на предварителен преглед на URL при известие за нова снимка</translation>
+        <translation type="obsolete">Вмъкване на предварителен преглед на URL при известие за нова снимка</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Insert fullsize URL on new photos notifications</source>
-        <translation type="unfinished">Вмъкване на пълно-размерен преглед на URL при известие за нова снимка</translation>
+        <translation type="obsolete">Вмъкване на пълно-размерен преглед на URL при известие за нова снимка</translation>
     </message>
     <message>
-        <location line="+42"/>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation type="obsolete">ОК</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Apply</source>
-        <translation type="unfinished">Прилагане</translation>
+        <translation type="obsolete">Прилагане</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation type="obsolete">Отказ</translation>
     </message>
     <message>
-        <location line="-214"/>
         <source>Show status text in contact list</source>
-        <translation type="unfinished">Показване на текста на статуса в списъка с контакти</translation>
+        <translation type="obsolete">Показване на текста на статуса в списъка с контакти</translation>
     </message>
 </context>
 <context>
     <name>LoginForm</name>
     <message>
-        <location filename="../../protocols/vkontakte/core/loginform.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished">Настройки на сметка</translation>
+        <translation type="obsolete">Настройки на сметка</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>E-mail:</source>
-        <translation type="unfinished">E-mail:</translation>
+        <translation type="obsolete">E-mail:</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Password:</source>
-        <translation type="unfinished">Парола:</translation>
+        <translation type="obsolete">Парола:</translation>
     </message>
     <message>
-        <location line="+27"/>
         <source>Autoconnect on start</source>
-        <translation type="unfinished">Автоматично свързване при стартиране</translation>
+        <translation type="obsolete">Автоматично свързване при стартиране</translation>
     </message>
 </context>
 <context>
@@ -217,24 +194,20 @@
 <context>
     <name>VcontactList</name>
     <message>
-        <location filename="../../protocols/vkontakte/core/vcontactlist.cpp" line="+48"/>
         <source>Friends</source>
-        <translation type="unfinished">Приятели</translation>
+        <translation type="obsolete">Приятели</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Favorites</source>
-        <translation type="unfinished">Любими</translation>
+        <translation type="obsolete">Любими</translation>
     </message>
     <message>
-        <location line="+453"/>
         <source>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Status message:&lt;/b&gt;&amp;nbsp;%1&lt;/font</source>
-        <translation type="unfinished">&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Съобщение на статуса:&lt;/b&gt;&amp;nbsp;%1&lt;/font&gt;</translation>
+        <translation type="obsolete">&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Съобщение на статуса:&lt;/b&gt;&amp;nbsp;%1&lt;/font&gt;</translation>
     </message>
     <message>
-        <location line="+94"/>
         <source>Open user page</source>
-        <translation type="unfinished">Отваряне страницата на потребителя</translation>
+        <translation type="obsolete">Отваряне страницата на потребителя</translation>
     </message>
     <message>
         <source>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Status message:&lt;/b&gt;%1&lt;/font</source>
@@ -244,37 +217,31 @@
 <context>
     <name>VprotocolWrap</name>
     <message>
-        <location filename="../../protocols/vkontakte/protocol/vprotocolwrap.cpp" line="+159"/>
         <source>Mismatch nick or password</source>
-        <translation type="unfinished">Псевдонимът или паролата не съвпадат</translation>
+        <translation type="obsolete">Псевдонимът или паролата не съвпадат</translation>
     </message>
     <message>
-        <location line="+126"/>
         <source>Vkontakte.ru updates</source>
-        <translation type="unfinished">Vkontakte.ru актуализации</translation>
+        <translation type="obsolete">Vkontakte.ru актуализации</translation>
     </message>
     <message>
-        <location line="+210"/>
         <source>%1 was tagged on photo</source>
-        <translation type="unfinished">%1 бе отбелязан(а) на снимка</translation>
+        <translation type="obsolete">%1 бе отбелязан(а) на снимка</translation>
     </message>
     <message>
-        <location line="+25"/>
         <source>%1 added new photo</source>
-        <translation type="unfinished">%1 е добавил(а) нова снимка</translation>
+        <translation type="obsolete">%1 е добавил(а) нова снимка</translation>
     </message>
 </context>
 <context>
     <name>VstatusObject</name>
     <message>
-        <location filename="../../protocols/vkontakte/core/vstatusobject.cpp" line="+32"/>
         <source>Online</source>
-        <translation type="unfinished">На линия</translation>
+        <translation type="obsolete">На линия</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Offline</source>
-        <translation type="unfinished">Извън линия</translation>
+        <translation type="obsolete">Извън линия</translation>
     </message>
 </context>
 </TS>

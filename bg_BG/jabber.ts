@@ -1037,7 +1037,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JServiceDiscovery</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+84"/>
+        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+86"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
         <translation>Изпращачът прати деформиран XML, който не може да бъде обработен.</translation>
     </message>
