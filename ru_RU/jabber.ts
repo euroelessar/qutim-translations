@@ -335,7 +335,7 @@
     <message>
         <location line="+7"/>
         <source>Copy room address to clipboard</source>
-        <translation>Адрес конференции в буфер</translation>
+        <translation>Копировать адрес конференции в буфер</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -406,12 +406,12 @@
     <message>
         <location line="+3"/>
         <source>The entity has sent a namespace prefix that is unsupported, or has sent no namespace prefix on an element that requires such a prefix.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Объект послал префикс который не поддерживается, или вообще не прислал префикс элементу который требует этот префикс.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The server is closing the active stream for this entity because a new stream has been initiated that conflicts with the existing stream.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сервер закрыл активное соединение потому, что было создано новое соединение, которое конфликтовало с существующим.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -640,7 +640,7 @@
     <message>
         <location line="+3"/>
         <source>The request is malformed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Неправильный запрос.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -660,12 +660,12 @@
     <message>
         <location line="+3"/>
         <source>XEP-0078: Resource Conflict.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">XEP-0078: Конфликт ресурсов</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>XEP-0078: Required Information Not Provided.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">XEP-0078: Необходимая информация не предоставлена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -675,7 +675,7 @@
     <message>
         <location line="+12"/>
         <source>System error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Системная ошибка</translation>
     </message>
 </context>
 <context>
@@ -857,7 +857,7 @@ Accept invitation?</source>
     <message>
         <location line="+2"/>
         <source>with reason: </source>
-        <translation type="unfinished">с причиной:</translation>
+        <translation type="unfinished">с причиной: </translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1027,7 +1027,7 @@ Accept invitation?</source>
     <message>
         <location line="+84"/>
         <source>category: </source>
-        <translation>Категория:</translation>
+        <translation>Категория: </translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1042,7 +1042,7 @@ Accept invitation?</source>
     <message>
         <location line="-163"/>
         <source>type: </source>
-        <translation>тип:</translation>
+        <translation>тип: </translation>
     </message>
     <message>
         <source>&lt;br/&gt;&lt;b&gt;Features:&lt;/b&gt;&lt;br/&gt;</source>
@@ -1054,17 +1054,17 @@ Accept invitation?</source>
     <message>
         <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+84"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отправитель послал неправильный XML запрос который не может быть обработан.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Доступ не может быть предоставлен, поскольку уже существует ресурс или сессия с совпадающим именем или адресом.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Необходимая фича не поддерживается сервером или получаетелм и поэтому невозможно продолжить.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1084,7 +1084,7 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>The addressed JID or item requested cannot be found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Адресуемый JID не может быть найден.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1199,32 +1199,32 @@ Accept invitation?</source>
     <message>
         <location line="+1"/>
         <source>Account creator for Jabber protocol</source>
-        <translation type="unfinished">Создание учетной записи Jabber/XMPP</translation>
+        <translation type="unfinished">Создание учетной записи Jabber</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>LiveJournal account creator</source>
-        <translation type="unfinished">Создание учетной записи LiveJournal / ЖЖшечка</translation>
+        <translation type="unfinished">Создание учетной записи LiveJournal / Жежечки</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Account creator for LiveJournal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Создание учётной записи LiveJournal / Жежечки</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Google Talk account creator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Создание аккаунтов Goolge Talk</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Account creator for Google Talk</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Создание аккаунтов Google Talk</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Yandex.Online account creator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Регистратор аккаунтов Я.Онлайн</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1239,67 +1239,67 @@ Accept invitation?</source>
     <message>
         <location line="+1"/>
         <source>Account creator for QIP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Создание аккаунтов QIP</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Jabber XML console</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">XML консоль</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>XML console for low-level protocol debugging</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">XML консоль для низкоуровнего деббагинга протокола</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Jabber AdHoc</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jabber AdHoc</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Implementation of Ad-hoc Commands</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Реализация команд AdHoc</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Jabber Remote Control</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Удалённый контроль Jabber'а</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Implementation of client remote controlling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Реализация клиента удалённого контроля</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Jabber Service Browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Браузер сервисов jabber</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Implementation of service browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Реализация браузера сервисов</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Jabber MUC Join Window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Окошко входа jabber</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Implementation of groupchat join window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Реализация окошка для входа в конференции</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Jabber File Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Передача файлов по Jabber'у</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Implementation of XEP-0096</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Реализация XEP-0096</translation>
     </message>
 </context>
 <context>
@@ -1337,7 +1337,7 @@ Accept invitation?</source>
     <message>
         <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.ui" line="+14"/>
         <source>jServiceBrowser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Браузер сервисов</translation>
     </message>
     <message>
         <location line="+17"/>
