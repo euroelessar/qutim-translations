@@ -457,7 +457,7 @@
     <message>
         <location line="+14"/>
         <source>About</source>
-        <translation>О плагине</translation>
+        <translation type="unfinished">О себе</translation>
     </message>
     <message>
         <location line="+2"/>
