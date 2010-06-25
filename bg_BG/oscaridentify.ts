@@ -11,7 +11,7 @@
     <message>
         <location line="+3"/>
         <source>Alexey Prokhin</source>
-        <translation>Елексей Прокхин</translation>
+        <translation>Алексей Прокхин</translation>
     </message>
 </context>
 <context>

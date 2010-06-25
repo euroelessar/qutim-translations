@@ -50,7 +50,7 @@
 <context>
     <name>Contact</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+182"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+183"/>
         <source>Resource</source>
         <translation>Ресурс</translation>
     </message>
@@ -986,12 +986,12 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JRoster</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+135"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+151"/>
         <source>Not in list</source>
         <translation>Извън списъка</translation>
     </message>
     <message>
-        <location line="+83"/>
+        <location line="+84"/>
         <source>You were authorized</source>
         <translation>Дадено ви бе удостоверение</translation>
     </message>

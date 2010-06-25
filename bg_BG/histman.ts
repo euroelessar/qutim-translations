@@ -193,12 +193,15 @@
 <context>
     <name>HistoryManager::HistoryManagerWindow</name>
     <message>
+        <location filename="../../plugins/histman/src/historymanagerwindow.cpp" line="+75"/>
+        <location line="+202"/>
         <source>History manager</source>
-        <translation type="obsolete">Управление на хронологията</translation>
+        <translation>Управление на хронологията</translation>
     </message>
     <message>
+        <location line="-192"/>
         <source>&amp;Dump</source>
-        <translation type="obsolete">&amp;Запис</translation>
+        <translation>&amp;Запис</translation>
     </message>
 </context>
 <context>
