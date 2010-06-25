@@ -22,7 +22,7 @@
 <context>
     <name>Conference</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+58"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+59"/>
         <source>Kick</source>
         <translation>Изритване (Kick)</translation>
     </message>
@@ -30,6 +30,11 @@
         <location line="+3"/>
         <source>Ban</source>
         <translation>Забрана (Ban)</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Convert to conference</source>
+        <translation>Преобразуване в конференция</translation>
     </message>
     <message>
         <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+111"/>
@@ -325,7 +330,7 @@
         <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+236"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+242"/>
         <source>Join to conference</source>
         <translation>Присъединяване към конференция</translation>
     </message>
@@ -681,7 +686,7 @@
 <context>
     <name>Jabber::JInviteManager</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jinvitemanager.cpp" line="+34"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jinvitemanager.cpp" line="+53"/>
         <source>User %1 invite you
 to conference %2</source>
         <translation>Потребителят %1 ви кани
@@ -723,7 +728,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCManager</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-178"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-184"/>
         <source>Join groupchat on</source>
         <translation>Присъединяване към групов разговор за</translation>
     </message>
@@ -760,7 +765,7 @@ Accept invitation?</source>
 </translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+191"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+202"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете ли да се присъедините повторно?</translation>
     </message>
@@ -901,7 +906,7 @@ Accept invitation?</source>
         <translation> модератор</translation>
     </message>
     <message>
-        <location line="+96"/>
+        <location line="+102"/>
         <source>Subject:</source>
         <translation>Тема:</translation>
     </message>
@@ -1037,7 +1042,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JServiceDiscovery</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+86"/>
+        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+89"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
         <translation>Изпращачът прати деформиран XML, който не може да бъде обработен.</translation>
     </message>
@@ -1393,7 +1398,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-36"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-39"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>

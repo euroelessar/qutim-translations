@@ -201,7 +201,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.cpp" line="+98"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.cpp" line="+91"/>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatwidget.cpp" line="+77"/>
         <source>View History</source>
         <translation>Преглед на хронологията</translation>
@@ -290,7 +290,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+498"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+510"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -537,7 +537,7 @@ p, li { white-space: pre-wrap; }
         <translation>Списък на сесиите</translation>
     </message>
     <message>
-        <location line="+79"/>
+        <location line="+100"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -550,7 +550,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ClassicChatWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatwidget.cpp" line="+69"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatwidget.cpp" line="+70"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
