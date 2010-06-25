@@ -1229,12 +1229,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/qticons/iconsloaderimpl.cpp" line="+41"/>
         <source>Xdg Icon Loader</source>
-        <translation>Модуль загрузки иконок</translation>
+        <translation>Модуль загрузки пиктограмм</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Default qutIM icon loader implementation. Based on Q-XDG library</source>
-        <translation>Модуль для использования qutIM&apos;ом системных иконок. Основан на Q-XDG библиотеке</translation>
+        <translation>Модуль для использования qutIM&apos;ом системных пиктограмм. Основан на Q-XDG библиотеке</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/jsonhistory/jsonhistory.cpp" line="+14"/>
@@ -1259,7 +1259,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-188"/>
         <source>Simple ContactList</source>
-        <translation>Простой ростер</translation>
+        <translation>Обычный список контактов</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1294,7 +1294,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Protocol icons powered by Adium ServiceIcons packs</source>
-        <translation>Иконки протоколов в виде пакетов системных иконок Adium</translation>
+        <translation>Иконки протоколов в виде пакетов системных пиктограмм Adium</translation>
     </message>
     <message>
         <source>AES crypto</source>
@@ -1446,7 +1446,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/idlestatuschanger/idlestatuschanger.cpp" line="+9"/>
         <source>Idle status changer</source>
-        <translation>Смена статуса при простое</translation>
+        <translation>Модуль автоматической смены статуса при бездействии</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1456,12 +1456,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/idledetector/idle.cpp" line="+25"/>
         <source>Idle detector</source>
-        <translation>Детектор простоя</translation>
+        <translation>Модуль обнаружения простоя</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Native idle detector, based on system api</source>
-        <translation>Детектор простоя, основан на системном API</translation>
+        <translation>Модуль обнаружения простоя, основан на системном API</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/metacontacts/manager.cpp" line="+26"/>
@@ -1472,7 +1472,7 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Default qutIM MetaContacts implementation, very stupid one</source>
         <comment>Не трогать!</comment>
-        <translation>Реализация метаконтактов в qutIM по умолчанию, очень и очень тупая.</translation>
+        <translation>Реализация метаконтактов в qutIM по умолчанию. Очень и очень тупая.</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/NoCryptoService/nocryptoservice.cpp" line="+7"/>
@@ -1591,7 +1591,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/contactsearch/contactsearchlayer.cpp" line="-253"/>
         <source>Contact search</source>
-        <translation type="unfinished">Поиск контакта</translation>
+        <translation type="unfinished">Модуль поиска контакта</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2121,7 +2121,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="+53"/>
         <source>General</source>
-        <translation>Главные</translation>
+        <translation>Основные</translation>
     </message>
     <message>
         <location line="+1"/>

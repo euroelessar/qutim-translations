@@ -85,12 +85,12 @@
     <message>
         <location line="+3"/>
         <source>KDE Icon engine</source>
-        <translation type="unfinished">Движок иконок KDE</translation>
+        <translation type="unfinished">Движок пиктограмм KDE</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Uses KDE Icon engine for providing icons</source>
-        <translation type="unfinished">Использует движок KDE для иконок</translation>
+        <translation type="unfinished">Использует движок KDE для пиктограмм</translation>
     </message>
     <message>
         <location line="+2"/>
