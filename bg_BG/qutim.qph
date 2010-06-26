@@ -2656,4 +2656,36 @@
     <source>Taking a bath</source>
     <target>В банята</target>
 </phrase>
+<phrase>
+    <source>Mobile</source>
+    <target>На мобилния</target>
+</phrase>
+<phrase>
+    <source>Sex</source>
+    <target>Секс</target>
+</phrase>
+<phrase>
+    <source>Cold</source>
+    <target>Мръзнещ</target>
+</phrase>
+<phrase>
+    <source>Crying</source>
+    <target>Ревящ</target>
+</phrase>
+<phrase>
+    <source>Fear</source>
+    <target>Страхуващ се</target>
+</phrase>
+<phrase>
+    <source>Reading</source>
+    <target>Четящ</target>
+</phrase>
+<phrase>
+    <source>Sport</source>
+    <target>Спортуващ</target>
+</phrase>
+<phrase>
+    <source>In tansport</source>
+    <target>В транспорта</target>
+</phrase>
 </QPH>

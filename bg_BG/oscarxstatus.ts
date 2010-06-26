@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+165"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+196"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
     </message>
@@ -79,7 +79,7 @@
 <context>
     <name>XStatus</name>
     <message>
-        <location line="-128"/>
+        <location line="-159"/>
         <source>Angry</source>
         <translation>Бесен</translation>
     </message>
@@ -210,11 +210,31 @@
     </message>
     <message>
         <location line="+3"/>
+        <source>Mobile</source>
+        <translation>На мобилния</translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>?</source>
+        <translation>?</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Writing</source>
+        <translation>Пишещ</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Sex</source>
+        <translation>Секс</translation>
+    </message>
+    <message>
+        <location line="+3"/>
         <source>Smoking</source>
         <translation>Пушещ</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="-24"/>
         <source>I&apos;m high</source>
         <translation>Надрусан</translation>
     </message>
@@ -239,8 +259,38 @@
         <translation>Влюбен</translation>
     </message>
     <message>
-        <location line="+184"/>
-        <location line="+12"/>
+        <location line="+16"/>
+        <source>Cold</source>
+        <translation>Мръзнещ</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Crying</source>
+        <translation>Ревящ</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Fear</source>
+        <translation>Страхуващ се</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Reading</source>
+        <translation>Четящ</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sport</source>
+        <translation>Спортуващ</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>In tansport</source>
+        <translation>В транспорта</translation>
+    </message>
+    <message>
+        <location line="+195"/>
+        <location line="+30"/>
         <source>X-Status</source>
         <translation>Разширен статус</translation>
     </message>
