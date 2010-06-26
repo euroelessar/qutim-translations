@@ -179,7 +179,7 @@
     <message>
         <location line="+3"/>
         <source>Alexey Prokhin</source>
-        <translation>Алексей Прокхин</translation>
+        <translation>Алексей Прохин</translation>
     </message>
 </context>
 <context>

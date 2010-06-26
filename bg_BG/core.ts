@@ -537,7 +537,7 @@ p, li { white-space: pre-wrap; }
         <translation>Списък на сесиите</translation>
     </message>
     <message>
-        <location line="+100"/>
+        <location line="+102"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
