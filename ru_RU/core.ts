@@ -1077,6 +1077,21 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Localization</name>
+    <message>
+        <location filename="../../core/src/corelayers/localization/localizationsettings.cpp" line="+39"/>
+        <source>&lt;Language&gt;</source>
+        <comment>Localized language name</comment>
+        <translation type="unfinished">Русский</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&lt;Country&gt;</source>
+        <comment>Localized country name, empty if localization is country-independent</comment>
+        <translation type="unfinished">Российская Федерация</translation>
+    </message>
+</context>
+<context>
     <name>LocalizationSettings</name>
     <message>
         <location filename="../../qutim/src/corelayers/localization/localizationsettings.ui" line="+14"/>
