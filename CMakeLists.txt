@@ -13,7 +13,6 @@ foreach( LANGUAGE ${LANGUAGES} )
 	string( REGEX REPLACE "/*\\\\*[a-zA-Z0-9_-]+\\.ts" "" LANGUAGE_DIRECTORY_NAME ${LANGUAGE} )
 	file( MAKE_DIRECTORY "${CMAKE_CURRENT_BINARY_DIR}/translations/${LANGUAGE_DIRECTORY_NAME}" )
 	execute_process( COMMAND ${QT_LRELEASE_EXECUTABLE}
-		-nounfinished
 		-silent
 		"${CMAKE_CURRENT_SOURCE_DIR}/${LANGUAGE}"
 		-qm "${CMAKE_CURRENT_BINARY_DIR}/translations/${LANGUAGE_NAME}.qm"
