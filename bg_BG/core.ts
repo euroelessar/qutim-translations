@@ -1077,6 +1077,21 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Localization</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/localization/localizationsettings.cpp" line="+47"/>
+        <source>&lt;Language&gt;</source>
+        <comment>Localized language name</comment>
+        <translation>български</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>&lt;Country&gt;</source>
+        <comment>Localized country name, empty if localization is country-independent</comment>
+        <translation>България</translation>
+    </message>
+</context>
+<context>
     <name>LocalizationSettings</name>
     <message>
         <location filename="../../qutim/src/corelayers/localization/localizationsettings.ui" line="+14"/>
@@ -2100,7 +2115,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>XSettingsDialog</name>
     <message>
-        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="+53"/>
+        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="+60"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
@@ -2110,7 +2125,7 @@ p, li { white-space: pre-wrap; }
         <translation>Общи настройки</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+2"/>
         <source>Protocols</source>
         <translation>Протоколи</translation>
     </message>
@@ -2120,7 +2135,7 @@ p, li { white-space: pre-wrap; }
         <translation>Настройки на сметки и протоколи</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+2"/>
         <source>Appearance</source>
         <translation>Облик</translation>
     </message>
@@ -2130,7 +2145,7 @@ p, li { white-space: pre-wrap; }
         <translation>Настройки на облика</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+2"/>
         <source>Plugins</source>
         <translation>Добавки</translation>
     </message>
@@ -2140,7 +2155,7 @@ p, li { white-space: pre-wrap; }
         <translation>Допълнителни настройки на добавките</translation>
     </message>
     <message>
-        <location line="+105"/>
+        <location line="+121"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки на qutIM - %1</translation>
     </message>
