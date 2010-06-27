@@ -509,7 +509,7 @@ p, li { white-space: pre-wrap; }
         <translation>Разговор</translation>
     </message>
     <message>
-        <location line="+46"/>
+        <location line="+47"/>
         <source>Unable to send empty message!</source>
         <translation>Невъзможно е изпрщането на празно съобщение!</translation>
     </message>
@@ -1906,8 +1906,8 @@ p, li { white-space: pre-wrap; }
         <translation>Звуци</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/settings/chatsettings.cpp" line="+5"/>
-        <location line="+2"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/settings/chatsettings.cpp" line="+12"/>
+        <location line="+4"/>
         <source>Chat</source>
         <translation>Разговор</translation>
     </message>
