@@ -2338,4 +2338,17 @@ p, li { white-space: pre-wrap; }
         <translation>Запросить детали</translation>
     </message>
 </context>
+<context>
+    <name>Localisation</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/localization/localizationsettings.cpp" line="+39"/>
+        <source>&lt;Language&gt;</source>
+        <translation>Русский</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&lt;Country&gt;</source>
+        <translation>Российская Федерация</translation>
+    </message>
+</context>
 </TS>
