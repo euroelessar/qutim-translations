@@ -739,7 +739,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::PluginChooserWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/servicechooser/pluginchooserwidget.cpp" line="+112"/>
+        <location filename="../../qutim/src/corelayers/servicechooser/pluginchooserwidget.cpp" line="+110"/>
         <source>To take effect you must restart qutIM</source>
         <translation>За да влязат в сила промените, qutIM трябва да бъде рестартиран</translation>
     </message>
@@ -756,22 +756,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+5"/>
         <source>&lt;b&gt;Name:&lt;/b&gt; %1&lt;br/&gt;</source>
-        <translation>&lt;b&gt;Име:&lt;/b&gt; %1&lt;/br&gt;</translation>
+        <translation>&lt;b&gt;Име:&lt;/b&gt; %1&lt;br/&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&lt;b&gt;Task:&lt;/b&gt; %1&lt;br/&gt;</source>
-        <translation>&lt;b&gt;Задача:&lt;/b&gt; %1&lt;/br&gt;</translation>
+        <translation>&lt;b&gt;Задача:&lt;/b&gt; %1&lt;br/&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;br/&gt;</source>
-        <translation>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
+        <translation>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;br/&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&lt;b&gt;Webpage:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;br/&gt;</source>
-        <translation>&lt;b&gt;Страница:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
+        <translation>&lt;b&gt;Страница:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;br/&gt;</translation>
     </message>
 </context>
 <context>
@@ -886,22 +886,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+5"/>
         <source>&lt;b&gt;Name:&lt;/b&gt; %1&lt;br/&gt;</source>
-        <translation>&lt;b&gt;Име:&lt;/b&gt; %1&lt;/br&gt;</translation>
+        <translation>&lt;b&gt;Име:&lt;/b&gt; %1&lt;br/&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&lt;b&gt;Task:&lt;/b&gt; %1&lt;br/&gt;</source>
-        <translation>&lt;b&gt;Задача:&lt;/b&gt; %1&lt;/br&gt;</translation>
+        <translation>&lt;b&gt;Задача:&lt;/b&gt; %1&lt;br/&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;br/&gt;</source>
-        <translation>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
+        <translation>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;br/&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&lt;b&gt;Webpage:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;br/&gt;</source>
-        <translation>&lt;b&gt;Страница:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
+        <translation>&lt;b&gt;Страница:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;br/&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;Name:&lt;/b&gt; %1&lt;/br&gt;</source>
