@@ -201,7 +201,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.cpp" line="+101"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.cpp" line="+102"/>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatwidget.cpp" line="+77"/>
         <source>View History</source>
         <translation>Преглед на хронологията</translation>
@@ -373,7 +373,7 @@ p, li { white-space: pre-wrap; }
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+73"/>
+        <location line="+72"/>
         <source>Show information</source>
         <translation>Показване на информация</translation>
     </message>
@@ -406,7 +406,7 @@ p, li { white-space: pre-wrap; }
         <translation>Активиране на главното меню</translation>
     </message>
     <message>
-        <location line="+33"/>
+        <location line="+34"/>
         <source>&amp;Settings...</source>
         <translation>&amp;Настройки...</translation>
     </message>
@@ -421,7 +421,7 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Изход</translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+19"/>
         <source>Hide offline</source>
         <translation>Скриване на потребителите извън линия</translation>
     </message>
@@ -485,7 +485,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AccountCreatorProtocols</name>
     <message>
-        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+65"/>
+        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+59"/>
         <source>Select protocol</source>
         <translation>Избор на протокол</translation>
     </message>
@@ -739,7 +739,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::PluginChooserWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/servicechooser/pluginchooserwidget.cpp" line="+112"/>
+        <location filename="../../qutim/src/corelayers/servicechooser/pluginchooserwidget.cpp" line="+110"/>
         <source>To take effect you must restart qutIM</source>
         <translation>За да влязат в сила промените, qutIM трябва да бъде рестартиран</translation>
     </message>
@@ -807,7 +807,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileDialog</name>
     <message>
-        <location filename="../../qutim/src/profiledialog.cpp" line="+194"/>
+        <location filename="../../qutim/src/profiledialog.cpp" line="+183"/>
         <source>Enter name</source>
         <translation>Въведете име</translation>
     </message>
@@ -977,12 +977,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-42"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-44"/>
         <source>Main Toolbar</source>
         <translation>Главна лентата с инструменти</translation>
     </message>
     <message>
-        <location line="+53"/>
+        <location line="+55"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
@@ -1343,7 +1343,7 @@ p, li { white-space: pre-wrap; }
         <translation>PList конфигурация</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-199"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-201"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
@@ -1527,7 +1527,7 @@ p, li { white-space: pre-wrap; }
         <translation>Модул за миграция от 0.2 към 0.3</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="-226"/>
+        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="-225"/>
         <source>Simple information window about a contact</source>
         <translation>Опростен прозорец с информация за контакта</translation>
     </message>
@@ -1817,7 +1817,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Създаване</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/profiledialog.ui" line="+79"/>
+        <location filename="../../qutim/src/profiledialog.ui" line="+49"/>
         <source>Profiles</source>
         <translation>Профили</translation>
     </message>

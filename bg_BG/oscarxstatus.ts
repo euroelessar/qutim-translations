@@ -290,7 +290,7 @@
     </message>
     <message>
         <location line="+195"/>
-        <location line="+30"/>
+        <location line="+28"/>
         <source>X-Status</source>
         <translation>Разширен статус</translation>
     </message>
