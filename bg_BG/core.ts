@@ -396,7 +396,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+102"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+120"/>
         <source>Change global status</source>
         <translation>Промяна на общия статус</translation>
     </message>
@@ -426,12 +426,12 @@ p, li { white-space: pre-wrap; }
         <translation>Скриване на потребителите извън линия</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="-144"/>
         <source>Copy id to clipboard</source>
         <translation>Копиране в клипборда</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+57"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+56"/>
         <source>Remove contact</source>
         <translation>Прeмахване на контакта</translation>
     </message>
@@ -441,7 +441,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавяне в списъка с контакти</translation>
     </message>
     <message>
-        <location line="+14"/>
+        <location line="+16"/>
         <source>Rename contact</source>
         <translation>Преименуване на контакта</translation>
     </message>
@@ -807,7 +807,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileDialog</name>
     <message>
-        <location filename="../../qutim/src/profiledialog.cpp" line="+183"/>
+        <location filename="../../qutim/src/profiledialog.cpp" line="+184"/>
         <source>Enter name</source>
         <translation>Въведете име</translation>
     </message>
@@ -977,7 +977,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-44"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+104"/>
         <source>Main Toolbar</source>
         <translation>Главна лентата с инструменти</translation>
     </message>
@@ -1343,7 +1343,7 @@ p, li { white-space: pre-wrap; }
         <translation>PList конфигурация</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-201"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-219"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
@@ -1507,7 +1507,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбиращ се за qutIM диалог за парола</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/trayicon/simpletray.cpp" line="+10"/>
+        <location filename="../../qutim/src/corelayers/trayicon/simpletray.cpp" line="+12"/>
         <source>Simple tray</source>
         <translation>Опростен системен поднос</translation>
     </message>
@@ -1817,7 +1817,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Създаване</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/profiledialog.ui" line="+49"/>
+        <location filename="../../qutim/src/profiledialog.ui" line="+53"/>
         <source>Profiles</source>
         <translation>Профили</translation>
     </message>
@@ -1898,6 +1898,11 @@ p, li { white-space: pre-wrap; }
         <location line="+3"/>
         <source>4th quarter</source>
         <translation>Четвърто тримесечие</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+17"/>
+        <source>Copy %1 to clipboard</source>
+        <translation>Копиране на %1 в клипборда</translation>
     </message>
 </context>
 <context>

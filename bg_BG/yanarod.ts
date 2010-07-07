@@ -54,7 +54,7 @@
         <translation>Изпращане на файл чрез Yandex.Narod</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+5"/>
         <source>Yandex Narod</source>
         <translation>Yandex.Narod</translation>
     </message>
