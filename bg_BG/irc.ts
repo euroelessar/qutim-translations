@@ -368,15 +368,30 @@
 <context>
     <name>IRC</name>
     <message>
-        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+39"/>
+        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+40"/>
+        <source>Join channel...</source>
+        <translation>Присъединяване към канал...</translation>
+    </message>
+    <message>
+        <location line="+68"/>
         <source>Join channel</source>
         <translation>Присъединяване към канал</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Channel</source>
+        <translation>Канал</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Password</source>
+        <translation>Парола</translation>
     </message>
 </context>
 <context>
     <name>IrcChannel</name>
     <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+102"/>
+        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+112"/>
         <source>You are now known as %1</source>
         <translation>В момента се подвизавате като %1</translation>
     </message>
@@ -436,16 +451,14 @@
         <translation>Създаване на сметка за IRC протокола</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+68"/>
-        <location line="+1"/>
         <source>Channel</source>
-        <translation>Канал</translation>
+        <translation type="obsolete">Канал</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../protocols/irc/src/ircplugin.cpp" line="-7"/>
+        <location line="-7"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>

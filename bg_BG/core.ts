@@ -1036,7 +1036,7 @@ p, li { white-space: pre-wrap; }
         <translation>Не е зададено</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/dataformsbackend/editablewidgets.cpp" line="+289"/>
+        <location filename="../../qutim/src/corelayers/dataformsbackend/editablewidgets.cpp" line="+265"/>
         <source>Open image</source>
         <translation>Отваряне на изображение</translation>
     </message>
@@ -1507,7 +1507,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбиращ се за qutIM диалог за парола</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/trayicon/simpletray.cpp" line="+12"/>
+        <location filename="../../qutim/src/corelayers/trayicon/simpletray.cpp" line="+13"/>
         <source>Simple tray</source>
         <translation>Опростен системен поднос</translation>
     </message>
@@ -1691,7 +1691,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM реализация на прозорец за търсене на контакти</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/dataformsbackend/dataformsbackend.cpp" line="+12"/>
+        <location filename="../../qutim/src/corelayers/dataformsbackend/dataformsbackend.cpp" line="+13"/>
         <source>Data forms backend</source>
         <translation>Реализация на даннови формуляри</translation>
     </message>
