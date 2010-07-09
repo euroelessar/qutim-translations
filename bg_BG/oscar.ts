@@ -3779,7 +3779,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarstatus.cpp" line="+45"/>
+        <location filename="../../protocols/oscar/src/oscarstatus.cpp" line="+38"/>
         <source>Busy</source>
         <translation>Зает</translation>
     </message>

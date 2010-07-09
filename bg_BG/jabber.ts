@@ -22,7 +22,7 @@
 <context>
     <name>Conference</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+59"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+60"/>
         <source>Kick</source>
         <translation>Изритване (Kick)</translation>
     </message>
@@ -968,7 +968,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JProtocol</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+22"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+23"/>
         <source>Kick</source>
         <translation>Изритване (Kick)</translation>
     </message>
@@ -978,7 +978,7 @@ Accept invitation?</source>
         <translation>Въведете причина за изритването на %1</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+9"/>
         <source>Ban</source>
         <translation>Забрана (Ban)</translation>
     </message>
@@ -1398,7 +1398,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-39"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-41"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>

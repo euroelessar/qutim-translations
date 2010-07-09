@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+196"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+194"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
     </message>
@@ -38,7 +38,7 @@
 <context>
     <name>Status</name>
     <message>
-        <location line="+15"/>
+        <location line="+14"/>
         <source>Angry</source>
         <translation>Бесен</translation>
     </message>
@@ -63,7 +63,7 @@
         <translation>Хапващ</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+6"/>
         <source>Custom status</source>
         <translation>Собствен статус</translation>
     </message>
@@ -79,7 +79,7 @@
 <context>
     <name>XStatus</name>
     <message>
-        <location line="-159"/>
+        <location line="-157"/>
         <source>Angry</source>
         <translation>Бесен</translation>
     </message>
@@ -289,7 +289,7 @@
         <translation>В транспорта</translation>
     </message>
     <message>
-        <location line="+195"/>
+        <location line="+189"/>
         <location line="+28"/>
         <source>X-Status</source>
         <translation>Разширен статус</translation>

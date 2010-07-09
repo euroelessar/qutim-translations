@@ -70,12 +70,26 @@
         <translation>Редактиране на псевдоним</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Nicks:</source>
-        <translation>Псевдоними:</translation>
+        <translation type="obsolete">Псевдоними:</translation>
     </message>
     <message>
-        <location line="+85"/>
+        <location line="+6"/>
+        <source>Nick:</source>
+        <translation>Псевдоним:</translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Full name:</source>
+        <translation>Пълно име:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Alternative nick:</source>
+        <translation>Алтернативен псевдоним:</translation>
+    </message>
+    <message>
+        <location line="+46"/>
         <source>System</source>
         <translation>Системна</translation>
     </message>
@@ -360,7 +374,12 @@
         <translation></translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+17"/>
+        <source>Password:</source>
+        <translation>Парола:</translation>
+    </message>
+    <message>
+        <location line="-363"/>
         <source>Encoding:</source>
         <translation>Кодировка:</translation>
     </message>

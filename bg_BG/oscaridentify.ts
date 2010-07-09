@@ -17,7 +17,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location line="+133"/>
+        <location line="+134"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
@@ -25,7 +25,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location line="-139"/>
+        <location line="-140"/>
         <source>OscarIdentify</source>
         <translation>Oscar идентификация</translation>
     </message>
