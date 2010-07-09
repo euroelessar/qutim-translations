@@ -2696,4 +2696,8 @@
     <source>Profiles</source>
     <target>Профили</target>
 </phrase>
+<phrase>
+    <source>Conferences</source>
+    <target>Конференции</target>
+</phrase>
 </QPH>

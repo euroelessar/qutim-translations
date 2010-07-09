@@ -321,7 +321,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="+213"/>
+        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="+214"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -335,7 +335,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">не е зададено</translation>
     </message>
     <message>
-        <location line="-159"/>
+        <location line="-160"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>За контакта %1 &lt;%2&gt;</translation>
     </message>
@@ -373,7 +373,7 @@ p, li { white-space: pre-wrap; }
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+72"/>
+        <location line="+73"/>
         <source>Show information</source>
         <translation>Показване на информация</translation>
     </message>
@@ -1527,7 +1527,7 @@ p, li { white-space: pre-wrap; }
         <translation>Модул за миграция от 0.2 към 0.3</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="-225"/>
+        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="-226"/>
         <source>Simple information window about a contact</source>
         <translation>Опростен прозорец с информация за контакта</translation>
     </message>
@@ -2434,7 +2434,7 @@ p, li { white-space: pre-wrap; }
         <translation>Затваряне</translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="+40"/>
         <source>Request details</source>
         <translation>Заявка за подробности</translation>
     </message>
