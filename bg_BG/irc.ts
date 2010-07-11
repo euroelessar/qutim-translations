@@ -387,12 +387,12 @@
 <context>
     <name>IRC</name>
     <message>
-        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+40"/>
+        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+41"/>
         <source>Join channel...</source>
         <translation>Присъединяване към канал...</translation>
     </message>
     <message>
-        <location line="+68"/>
+        <location line="+70"/>
         <source>Join channel</source>
         <translation>Присъединяване към канал</translation>
     </message>
@@ -410,7 +410,7 @@
 <context>
     <name>IrcChannel</name>
     <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+112"/>
+        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+120"/>
         <source>You are now known as %1</source>
         <translation>В момента се подвизавате като %1</translation>
     </message>
@@ -420,22 +420,52 @@
         <translation>%1 вече се подвизава като %2</translation>
     </message>
     <message>
-        <location line="+49"/>
+        <location line="+64"/>
         <source>%1 (%2) has joined the channel</source>
         <translation>%1 (%2) се присъедини към канала</translation>
     </message>
     <message>
-        <location line="+21"/>
+        <location line="+18"/>
+        <source>You left this channel</source>
+        <translation>Напуснахте канала</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>You left this channel (%1)</source>
+        <translation>Напуснахте канала (%1)</translation>
+    </message>
+    <message>
+        <location line="+11"/>
         <source>%1 has left this channel (%2)</source>
         <translation>%1 напусна канала (%2)</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+2"/>
         <source>%1 has left this channel</source>
         <translation>%1 напусна канала</translation>
     </message>
     <message>
         <location line="+16"/>
+        <source>%1 has kicked you from the channel (%2)</source>
+        <translation>%1 ви изрита от канала (%2)</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>%1 has kicked you from the channel</source>
+        <translation>%1 ви изрита от канала</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>%1 has kicked %2 (%3)</source>
+        <translation>%1 изрита %2 (%3)</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>%1 has kicked %2</source>
+        <translation>%1 изрита %2</translation>
+    </message>
+    <message>
+        <location line="+15"/>
         <source>The channel topic is &quot;%1&quot;</source>
         <translation>Заглавието на канала е &quot;%1&quot;</translation>
     </message>
