@@ -289,8 +289,8 @@
         <translation>В транспорта</translation>
     </message>
     <message>
-        <location line="+189"/>
-        <location line="+28"/>
+        <location line="+194"/>
+        <location line="+29"/>
         <source>X-Status</source>
         <translation>Разширен статус</translation>
     </message>

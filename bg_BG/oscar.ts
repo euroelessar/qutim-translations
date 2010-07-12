@@ -536,12 +536,12 @@
         <translation type="obsolete">Вероятен клиент</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+67"/>
+        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+73"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+311"/>
+        <location line="+313"/>
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>
