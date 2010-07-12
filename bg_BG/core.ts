@@ -137,6 +137,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>AutoAway</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/idlestatuschanger/idlestatuschanger.cpp" line="+31"/>
+        <source>Auto-away</source>
+        <translation>Автоматично отсъствие</translation>
+    </message>
+</context>
+<context>
     <name>BehaviorSettings</name>
     <message>
         <location filename="../../qutim/src/corelayers/notificationssettings/notifications.ui" line="+14"/>
@@ -1132,22 +1140,31 @@ p, li { white-space: pre-wrap; }
         <source>Form</source>
         <translation>Бездействие</translation>
     </message>
+    <message utf8="true">
+        <location line="+22"/>
+        <location line="+57"/>
+        <source>Set status «%1» after:</source>
+        <translation>Установяване на статуса в &quot;%1&quot; след:</translation>
+    </message>
     <message>
-        <location line="+12"/>
+        <location line="-37"/>
+        <location line="+57"/>
+        <source> min</source>
+        <comment>seconds</comment>
+        <translation> мин</translation>
+    </message>
+    <message>
         <source>Set status away after:</source>
-        <translation>Установяване на статуса в &quot;Отсъства&quot; след:</translation>
+        <translation type="obsolete">Установяване на статуса в &quot;Отсъства&quot; след:</translation>
     </message>
     <message>
-        <location line="+13"/>
         <source>Set status not available after:</source>
-        <translation>Установяване на статуса в &quot;Недостъпен&quot; след:</translation>
+        <translation type="obsolete">Установяване на статуса в &quot;Недостъпен&quot; след:</translation>
     </message>
     <message>
-        <location line="+13"/>
-        <location line="+13"/>
         <source>s</source>
         <comment>seconds</comment>
-        <translation>&apos;</translation>
+        <translation type="obsolete">&apos;</translation>
     </message>
 </context>
 <context>
@@ -1557,14 +1574,12 @@ p, li { white-space: pre-wrap; }
         <translation>Установяване на бездействието, на базата на вградения, системен API</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/idlestatuschanger/idlestatuschanger.cpp" line="+9"/>
         <source>Idle status changer</source>
-        <translation>Промяна на статуса при бездействие</translation>
+        <translation type="obsolete">Промяна на статуса при бездействие</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Change status of accounts by idle</source>
-        <translation>Промяна на статусите на сметките при бездействие</translation>
+        <translation type="obsolete">Промяна на статусите на сметките при бездействие</translation>
     </message>
     <message>
         <location filename="../../qutim/examples/autosettingsitem/autosettings.cpp" line="+9"/>
@@ -1719,6 +1734,16 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Default qutIM MetaContacts implementation, very stupid one</source>
         <translation>Подразбираща се за qutIM реализация на метаконтакти</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/idlestatuschanger/idlestatuschanger.cpp" line="-14"/>
+        <source>AutoAway</source>
+        <translation>Автоматично отсъствие</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Automatically changes status of accounts on inactivity</source>
+        <translation>Автоматична промяна на статусите на сметките при бездействие</translation>
     </message>
 </context>
 <context>
