@@ -209,16 +209,19 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.cpp" line="+102"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatwidget.cpp" line="+77"/>
+        <location filename="../../qutim/src/corelayers/jsonhistory/jsonhistory.cpp" line="+18"/>
         <source>View History</source>
         <translation>Преглед на хронологията</translation>
     </message>
     <message>
-        <location line="+5"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatwidget.cpp" line="+5"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/abstractchatwidget.cpp" line="+184"/>
         <source>Emoticons</source>
         <translation>Емотикони</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Clear chat field</source>
+        <translation>Изчистване на разговора</translation>
     </message>
 </context>
 <context>
@@ -298,7 +301,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+512"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+518"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -517,7 +520,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::AbstractChatWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/abstractchatwidget.cpp" line="+59"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/abstractchatwidget.cpp" line="-130"/>
         <source>Chat</source>
         <translation>Разговор</translation>
     </message>
@@ -532,7 +535,7 @@ p, li { white-space: pre-wrap; }
         <translation>Невъзможно е изпрщането на съобщението до %1</translation>
     </message>
     <message>
-        <location line="+250"/>
+        <location line="+272"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -545,12 +548,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::AdiumChatWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.cpp" line="-16"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.cpp" line="+89"/>
         <source>Chat actions</source>
         <translation>Действия</translation>
     </message>
     <message>
-        <location line="+27"/>
+        <location line="+10"/>
         <source>Destination</source>
         <translation>Направление</translation>
     </message>
@@ -990,7 +993,7 @@ p, li { white-space: pre-wrap; }
         <translation>Главна лентата с инструменти</translation>
     </message>
     <message>
-        <location line="+55"/>
+        <location line="+54"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
@@ -1360,7 +1363,7 @@ p, li { white-space: pre-wrap; }
         <translation>PList конфигурация</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-219"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-218"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
@@ -1396,8 +1399,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+1"/>
-        <source>Adds &quot;Start chat&quot; action to conact&apos;s menu</source>
+        <source>Adds &quot;Start chat&quot; action to contact&apos;s menu</source>
         <translation>Добавя &quot;Начало на разговор&quot; в контекстното меню на контакта</translation>
+    </message>
+    <message>
+        <source>Adds &quot;Start chat&quot; action to conact&apos;s menu</source>
+        <translation type="obsolete">Добавя &quot;Начало на разговор&quot; в контекстното меню на контакта</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/modifiers/timemodifier.cpp" line="+11"/>
@@ -1410,7 +1417,17 @@ p, li { white-space: pre-wrap; }
         <translation>Модифициране на %time% и %timeOpened% параметри, на базата на документацията на Apple</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/jsonhistory/jsonhistory.cpp" line="+14"/>
+        <location filename="../../qutim/src/corelayers/jsonhistory/jsonhistory.cpp" line="+9"/>
+        <source>Helper for history layer</source>
+        <translation>Помощник на слоя за хронология</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Adds &quot;View history&quot; action to contact&apos;s menu</source>
+        <translation>Добавя &quot;Преглед на хронологията&quot; в контекстното меню на контакта</translation>
+    </message>
+    <message>
+        <location line="+4"/>
         <source>Json History</source>
         <translation>JSON хронология</translation>
     </message>
