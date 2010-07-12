@@ -655,7 +655,7 @@
     <message>
         <location line="+3"/>
         <source>The authentication failed because the initiating entity did not provide valid credentials (this includes but is not limited to the case of an unknown username).</source>
-        <translation>Удостоверяването е неуспешно, защото иницииращата страна не предостави валидни детайли за вхох (това включва, но не се ограничава само до неизвестено потребителско име).</translation>
+        <translation>Удостоверяването е неуспешно, защото иницииращата страна не предостави валидни детайли за вход (това включва, но не се ограничава само до неизвестено потребителско име).</translation>
     </message>
     <message>
         <location line="+3"/>
