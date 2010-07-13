@@ -541,7 +541,7 @@
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+313"/>
+        <location line="+314"/>
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>
@@ -1825,7 +1825,7 @@
 <context>
     <name>FeedbagError</name>
     <message>
-        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+113"/>
+        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+115"/>
         <source>No error</source>
         <translation>Без грешка</translation>
     </message>

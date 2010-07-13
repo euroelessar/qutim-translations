@@ -387,12 +387,12 @@
 <context>
     <name>IRC</name>
     <message>
-        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+41"/>
+        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+40"/>
         <source>Join channel...</source>
         <translation>Присъединяване към канал...</translation>
     </message>
     <message>
-        <location line="+70"/>
+        <location line="+75"/>
         <source>Join channel</source>
         <translation>Присъединяване към канал</translation>
     </message>
@@ -410,7 +410,7 @@
 <context>
     <name>IrcChannel</name>
     <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+120"/>
+        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+126"/>
         <source>You are now known as %1</source>
         <translation>В момента се подвизавате като %1</translation>
     </message>
@@ -473,6 +473,36 @@
         <location line="+14"/>
         <source>The topic was set by %1 on %2.</source>
         <translation>Заглавието на канала е зададено от %1 на %2.</translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>%1 gives channel operator privileges to %2.</source>
+        <translation>%1 даде операторски права в канала на %2.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>%1 gives channel halfop privileges to %2.</source>
+        <translation>%1 даде полуоператорски права в канала на %2.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>%1 gives %2 the permission to talk.</source>
+        <translation>%1 даде на %2 право да говори.</translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>%1 takes channel operator privileges from %2.</source>
+        <translation>%1 отне операторските права в канала от %2.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>%1 takes channel halfop privileges from %2.</source>
+        <translation>%1 отне полуоператорските права в канала от %2.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>%1 takes the permission to talk from %2.</source>
+        <translation>%1 отне на %2 правото да говори.</translation>
     </message>
 </context>
 <context>
