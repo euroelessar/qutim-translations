@@ -387,12 +387,17 @@
 <context>
     <name>IRC</name>
     <message>
-        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+40"/>
+        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+54"/>
         <source>Join channel...</source>
         <translation>Присъединяване към канал...</translation>
     </message>
     <message>
-        <location line="+75"/>
+        <location line="+7"/>
+        <source>Show console...</source>
+        <translation>Показване на конзолата...</translation>
+    </message>
+    <message>
+        <location line="+74"/>
         <source>Join channel</source>
         <translation>Присъединяване към канал</translation>
     </message>
@@ -410,7 +415,7 @@
 <context>
     <name>IrcChannel</name>
     <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+126"/>
+        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+136"/>
         <source>You are now known as %1</source>
         <translation>В момента се подвизавате като %1</translation>
     </message>
@@ -506,6 +511,14 @@
     </message>
 </context>
 <context>
+    <name>IrcConsoleForm</name>
+    <message>
+        <location filename="../../protocols/irc/src/ui/console.ui" line="+14"/>
+        <source>IRC Server Console</source>
+        <translation>Конзола на IRC сървъра</translation>
+    </message>
+</context>
+<context>
     <name>Plugin</name>
     <message>
         <location filename="../../protocols/irc/src/ircplugin.cpp" line="-3"/>
@@ -540,6 +553,14 @@
         <location line="-7"/>
         <source>Author</source>
         <translation>Автор</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::irc::IrcAccount</name>
+    <message>
+        <location filename="../../protocols/irc/src/ircaccount.cpp" line="+76"/>
+        <source>Away</source>
+        <translation>Отсъствам</translation>
     </message>
 </context>
 </TS>

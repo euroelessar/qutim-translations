@@ -906,7 +906,7 @@ Accept invitation?</source>
         <translation> модератор</translation>
     </message>
     <message>
-        <location line="+102"/>
+        <location line="+103"/>
         <source>Subject:</source>
         <translation>Тема:</translation>
     </message>
