@@ -415,7 +415,7 @@
 <context>
     <name>IrcChannel</name>
     <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+136"/>
+        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+144"/>
         <source>You are now known as %1</source>
         <translation>В момента се подвизавате като %1</translation>
     </message>
@@ -561,6 +561,24 @@
         <location filename="../../protocols/irc/src/ircaccount.cpp" line="+76"/>
         <source>Away</source>
         <translation>Отсъствам</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::irc::IrcConnection</name>
+    <message>
+        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+106"/>
+        <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
+        <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
+    </message>
+    <message>
+        <location line="+124"/>
+        <source>Message of the day:</source>
+        <translation>Съобщение за деня:</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>End of message of the day</source>
+        <translation>Край на съобщението за деня</translation>
     </message>
 </context>
 </TS>
