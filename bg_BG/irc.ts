@@ -566,12 +566,12 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+106"/>
+        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+120"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
     </message>
     <message>
-        <location line="+124"/>
+        <location line="+118"/>
         <source>Message of the day:</source>
         <translation>Съобщение за деня:</translation>
     </message>
@@ -579,6 +579,14 @@
         <location line="+2"/>
         <source>End of message of the day</source>
         <translation>Край на съобщението за деня</translation>
+    </message>
+    <message numerus="yes">
+        <location line="+36"/>
+        <source>Received CTCP-PING reply from %1: %2 seconds</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
     </message>
 </context>
 </TS>

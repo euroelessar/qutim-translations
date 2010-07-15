@@ -566,7 +566,7 @@
         <translation>Удостоверяване</translation>
     </message>
     <message>
-        <location line="+93"/>
+        <location line="+94"/>
         <source>Please, authorize me</source>
         <translation>Моля за удостоверение</translation>
     </message>

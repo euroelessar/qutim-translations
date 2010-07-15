@@ -111,14 +111,12 @@
         <translation>Име:</translation>
     </message>
     <message>
-        <location line="+25"/>
         <source>Add</source>
-        <translation>Добавяне</translation>
+        <translation type="obsolete">Добавяне</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Cancel</source>
-        <translation>Отказ</translation>
+        <translation type="obsolete">Отказ</translation>
     </message>
 </context>
 <context>
@@ -575,7 +573,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AddContact</name>
     <message>
-        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="+89"/>
+        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="+102"/>
         <source>Account must be online</source>
         <translation>Статусът на сметката трябва да е &quot;На линия&quot;</translation>
     </message>
@@ -1796,7 +1794,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM реализация на даннови формуляри</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="-106"/>
+        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="-119"/>
         <source>Add contact dialog</source>
         <translation>Диалог за добавяне на контакт</translation>
     </message>
@@ -2307,6 +2305,11 @@ p, li { white-space: pre-wrap; }
         <location line="+3"/>
         <source>Offline</source>
         <translation>Извън линия</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Connecting</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
