@@ -2,6 +2,14 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="bg_BG">
 <context>
+    <name>Author</name>
+    <message>
+        <location filename="../../plugins/massmessaging/src/messaging.cpp" line="+14"/>
+        <source>Aleksey Sidorov</source>
+        <translation>Алексей Сидоров</translation>
+    </message>
+</context>
+<context>
     <name>Dialog</name>
     <message>
         <location filename="../../plugins/massmessaging/src/messagingdialog.ui" line="+14"/>
@@ -99,7 +107,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MassMessaging</name>
     <message>
-        <location filename="../../plugins/massmessaging/src/messaging.cpp" line="+17"/>
+        <location filename="../../plugins/massmessaging/src/messaging.cpp" line="+12"/>
         <source>&amp;Mass Messaging</source>
         <translation>&amp;Многократно изпращане</translation>
     </message>
@@ -172,6 +180,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Sending message to %1 (%2/%3), time remains: %4</source>
         <translation type="obsolete">Изпращане на съобщение до %1 (%2/%3), оставащо време: %4</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin</name>
+    <message>
+        <location filename="../../plugins/massmessaging/src/messaging.cpp" line="-8"/>
+        <source>MassMessaging</source>
+        <translation>Многократно изпращане</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Simple messaging to contact list</source>
+        <translation>Опростено средство за многократно изпращане на съобщения</translation>
+    </message>
+</context>
+<context>
+    <name>Task</name>
+    <message>
+        <location line="-4"/>
+        <source>Author</source>
+        <translation>Автор</translation>
     </message>
 </context>
 </TS>
