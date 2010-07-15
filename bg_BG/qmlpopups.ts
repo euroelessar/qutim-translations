@@ -15,6 +15,14 @@
     </message>
 </context>
 <context>
+    <name>Author</name>
+    <message>
+        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+15"/>
+        <source>Aleksey Sidorov</source>
+        <translation>Алексей Сидоров</translation>
+    </message>
+</context>
+<context>
     <name>BehaviorSettings</name>
     <message>
         <source>Form</source>
@@ -123,8 +131,12 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+12"/>
         <source>Qml popups</source>
+        <translation type="obsolete">Qml изскачащи прозорци</translation>
+    </message>
+    <message>
+        <location line="-3"/>
+        <source>QmlPopups</source>
         <translation>Qml изскачащи прозорци</translation>
     </message>
     <message>
@@ -188,9 +200,17 @@
     </message>
 </context>
 <context>
+    <name>Task</name>
+    <message>
+        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+3"/>
+        <source>Author</source>
+        <translation>Автор</translation>
+    </message>
+</context>
+<context>
     <name>plugin</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+2"/>
+        <location line="+3"/>
         <source>Qml popups</source>
         <translation>Qml изскачащи прозорци</translation>
     </message>
