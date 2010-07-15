@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/urlpreview/src/urlpreview.cpp" line="+30"/>
+        <location filename="../../plugins/urlpreview/src/urlpreview.cpp" line="+33"/>
         <source>Alexander Kazarin</source>
         <translation>Александър Казарин</translation>
     </message>
@@ -15,9 +15,22 @@
     </message>
 </context>
 <context>
+    <name>Plugin</name>
+    <message>
+        <location line="-6"/>
+        <source>UrlPreview</source>
+        <translation>Предварителен преглед на адреси</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Preview images directly in the chat window</source>
+        <translation>Предварителен преглед на адреси директно в прозореца със съобщения</translation>
+    </message>
+</context>
+<context>
     <name>Task</name>
     <message>
-        <location line="-2"/>
+        <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
