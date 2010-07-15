@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="+45"/>
+        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="+47"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -23,9 +23,22 @@
     </message>
 </context>
 <context>
+    <name>Plugin</name>
+    <message>
+        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="-3"/>
+        <source>ConnectionManager</source>
+        <translation>Управление на връзката</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Used to monitor the availability of network.</source>
+        <translation>Използва се за наблюдение на свързаността към мрежата.</translation>
+    </message>
+</context>
+<context>
     <name>Settings</name>
     <message>
-        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="+16"/>
+        <location line="+18"/>
         <source>Connection manager</source>
         <translation>Управление на връзката</translation>
     </message>
