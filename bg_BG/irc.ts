@@ -583,8 +583,8 @@
     <message numerus="yes">
         <location line="+36"/>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Получен CTCP-PING отговор от %1: %2 секунди</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>

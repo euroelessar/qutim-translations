@@ -2309,7 +2309,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+3"/>
         <source>Connecting</source>
-        <translation type="unfinished"></translation>
+        <translation>Свързване</translation>
     </message>
     <message>
         <location line="+3"/>
