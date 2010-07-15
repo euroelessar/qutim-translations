@@ -30,6 +30,69 @@
     </message>
 </context>
 <context>
+    <name>ActionToolBar</name>
+    <message>
+        <location filename="../../qutim/libqutim/actiontoolbar.cpp" line="+29"/>
+        <source>Small (16x16)</source>
+        <translation>Малък (16x16)</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Medium (22x22)</source>
+        <translation>Среден (22x22)</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Big (32x32)</source>
+        <translation>Голям (32х32)</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Huge (64x64)</source>
+        <translation>Огромен (64x64)</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Only display the icon</source>
+        <translation>Показване само на иконата</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Only display the text</source>
+        <translation>Показване само на текста</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>The text appears beside the icon</source>
+        <translation>Текстът се появява до иконата</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>The text appears under the icon</source>
+        <translation>Текстът се появява под иконата</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Follow the style</source>
+        <translation>В зависимост от стила</translation>
+    </message>
+    <message>
+        <location line="+34"/>
+        <source>ToolBar appearance</source>
+        <translation>Облик на лентата с инструменти</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Icon size</source>
+        <translation>Размер на иконите</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Tool button style</source>
+        <translation>Стил на бутоните</translation>
+    </message>
+</context>
+<context>
     <name>AddContact</name>
     <message>
         <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.ui" line="+14"/>
@@ -1144,14 +1207,14 @@ p, li { white-space: pre-wrap; }
         <translation>Бездействие</translation>
     </message>
     <message utf8="true">
-        <location line="+22"/>
-        <location line="+57"/>
+        <location line="+18"/>
+        <location line="+30"/>
         <source>Set status «%1» after:</source>
         <translation>Установяване на статуса в &quot;%1&quot; след:</translation>
     </message>
     <message>
-        <location line="-37"/>
-        <location line="+57"/>
+        <location line="-23"/>
+        <location line="+30"/>
         <source> min</source>
         <comment>seconds</comment>
         <translation> мин</translation>
