@@ -22,8 +22,12 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location line="-10"/>
         <source>Yandex Narod</source>
+        <translation type="obsolete">Yandex.Narod файлов организатор</translation>
+    </message>
+    <message>
+        <location line="-10"/>
+        <source>YandexNarod</source>
         <translation>Yandex.Narod файлов организатор</translation>
     </message>
     <message>
