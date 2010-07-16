@@ -493,7 +493,12 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Изход</translation>
     </message>
     <message>
-        <location line="+19"/>
+        <location line="+16"/>
+        <source>Show/Hide offline</source>
+        <translation>Показване/Скриване на потребителите извън линия</translation>
+    </message>
+    <message>
+        <location line="+3"/>
         <source>Hide offline</source>
         <translation>Скриване на потребителите извън линия</translation>
     </message>
