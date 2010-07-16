@@ -387,7 +387,7 @@
 <context>
     <name>IRC</name>
     <message>
-        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+54"/>
+        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+60"/>
         <source>Join channel...</source>
         <translation>Присъединяване към канал...</translation>
     </message>
@@ -397,7 +397,7 @@
         <translation>Показване на конзолата...</translation>
     </message>
     <message>
-        <location line="+74"/>
+        <location line="+84"/>
         <source>Join channel</source>
         <translation>Присъединяване към канал</translation>
     </message>
@@ -415,7 +415,7 @@
 <context>
     <name>IrcChannel</name>
     <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+144"/>
+        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+147"/>
         <source>You are now known as %1</source>
         <translation>В момента се подвизавате като %1</translation>
     </message>
@@ -566,7 +566,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+120"/>
+        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+137"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
     </message>
@@ -584,9 +584,14 @@
         <location line="+36"/>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
         <translation>
+            <numerusform>Получен CTCP-PING отговор от %1: %2 секунда</numerusform>
             <numerusform>Получен CTCP-PING отговор от %1: %2 секунди</numerusform>
-            <numerusform></numerusform>
         </translation>
+    </message>
+    <message>
+        <location line="+35"/>
+        <source>Not enough parameters for command %1</source>
+        <translation>Липсват достатъчно параметри за командата %1</translation>
     </message>
 </context>
 </TS>

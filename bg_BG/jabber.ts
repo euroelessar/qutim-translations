@@ -330,7 +330,7 @@
         <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+242"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+246"/>
         <source>Join to conference</source>
         <translation>Присъединяване към конференция</translation>
     </message>
