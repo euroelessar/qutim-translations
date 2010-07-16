@@ -1710,7 +1710,7 @@
 </phrase>
 <phrase>
     <source>Personal</source>
-    <target>Лични данни</target>
+    <target>Лична</target>
 </phrase>
 <phrase>
     <source>Marital status:</source>
@@ -2422,7 +2422,7 @@
 </phrase>
 <phrase>
     <source>Open Image</source>
-    <target>Отваряне на изображението</target>
+    <target>Отваряне на изображение</target>
 </phrase>
 <phrase>
     <source>Open Frame</source>

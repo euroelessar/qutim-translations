@@ -437,12 +437,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+76"/>
         <source>Summary</source>
-        <translation>Резюме</translation>
+        <translation>Обобщена</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>General</source>
-        <translation>Общи</translation>
+        <translation>Основна</translation>
     </message>
     <message>
         <location line="+73"/>
