@@ -26,7 +26,7 @@
     <message>
         <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorprotocols.ui" line="+14"/>
         <source>WizardPage</source>
-        <translation>Магьосник</translation>
+        <translation>Добавяне на протоколи</translation>
     </message>
 </context>
 <context>
@@ -163,7 +163,7 @@
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/settings/popupappearance.ui" line="+20"/>
         <source>Form</source>
-        <translation>Облик</translation>
+        <translation>Настройки на облика</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -372,7 +372,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/classicchatwidget.ui" line="+14"/>
         <source>MainWindow</source>
-        <translation>Главен прозорец</translation>
+        <translation>Прозорец за разговори</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -409,7 +409,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-160"/>
         <source>About contact %1 &lt;%2&gt;</source>
-        <translation>За контакта %1 &lt;%2&gt;</translation>
+        <translation>Информация за %1 &lt;%2&gt;</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -475,7 +475,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+5"/>
         <source>Activate main menu</source>
-        <translation>Активиране на главното меню</translation>
+        <translation>Активиране на основното меню</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -495,12 +495,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+16"/>
         <source>Show/Hide offline</source>
-        <translation>Показване/Скриване на потребителите извън линия</translation>
+        <translation>Показване/Скриване на контактите извън линия</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Hide offline</source>
-        <translation>Скриване на потребителите извън линия</translation>
+        <translation>Скриване на контактите извън линия</translation>
     </message>
     <message>
         <location line="-144"/>
@@ -598,7 +598,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+13"/>
         <source>Unable to send message to %1</source>
-        <translation>Невъзможно е изпрщането на съобщението до %1</translation>
+        <translation>Невъзможно е изпращането на съобщение до %1</translation>
     </message>
     <message>
         <location line="+272"/>
@@ -616,7 +616,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/adiumchatwidget.cpp" line="+89"/>
         <source>Chat actions</source>
-        <translation>Действия</translation>
+        <translation>Действия в разговора</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -868,7 +868,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Simple message</source>
-        <translation>Обикновенно съобщение</translation>
+        <translation>Обикновено съобщение</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1087,7 +1087,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/contactlist/simpletagseditor/simpletagseditor.cpp" line="+16"/>
         <source>Edit tags for %1</source>
-        <translation>Редактиране на етикети на %1</translation>
+        <translation>Редактиране етикетите на %1</translation>
     </message>
 </context>
 <context>
@@ -1436,7 +1436,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Default qutIM contact list implementation. Just simple</source>
-        <translation>Подразбираща се за qutIM реализация на (опростен) списък с контакти.</translation>
+        <translation>Подразбираща се за qutIM реализация на (опростен) списък с контакти</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingslayerimpl.cpp" line="+22"/>
