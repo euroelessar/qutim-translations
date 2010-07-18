@@ -22,7 +22,7 @@
 <context>
     <name>Conference</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+58"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+60"/>
         <source>Kick</source>
         <translation>Кик</translation>
     </message>
@@ -30,6 +30,11 @@
         <location line="+3"/>
         <source>Ban</source>
         <translation>Бан</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Convert to conference</source>
+        <translation type="unfinished">Превратить в конфу</translation>
     </message>
     <message>
         <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+111"/>
@@ -52,7 +57,7 @@
 <context>
     <name>Contact</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+182"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+183"/>
         <source>Resource</source>
         <translation>Ресурс</translation>
     </message>
@@ -323,7 +328,7 @@
         <translation>Войти в конференцию</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+236"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+246"/>
         <source>Join to conference</source>
         <translation>Войти в конференцию</translation>
     </message>
@@ -660,7 +665,7 @@
     <message>
         <location line="+3"/>
         <source>XEP-0078: Resource Conflict.</source>
-        <translation type="unfinished">XEP-0078: Конфликт ресурсов</translation>
+        <translation type="unfinished">XEP-0078: Конфликт ресурсов.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -681,7 +686,7 @@
 <context>
     <name>Jabber::JInviteManager</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jinvitemanager.cpp" line="+34"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jinvitemanager.cpp" line="+53"/>
         <source>User %1 invite you
 to conference %2</source>
         <translation>Пользователь %1 пригласил тебя
@@ -727,7 +732,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCManager</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-178"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-184"/>
         <source>Join groupchat on</source>
         <translation>Войти в конференцию</translation>
     </message>
@@ -764,7 +769,7 @@ Accept invitation?</source>
 </translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+191"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+202"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете перезайти?</translation>
     </message>
@@ -906,7 +911,7 @@ Accept invitation?</source>
         <translation type="unfinished"> модератор</translation>
     </message>
     <message>
-        <location line="+96"/>
+        <location line="+103"/>
         <source>Subject:</source>
         <translation type="unfinished">Тема:</translation>
     </message>
@@ -970,7 +975,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JProtocol</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+22"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+23"/>
         <source>Kick</source>
         <translation>Кик</translation>
     </message>
@@ -980,7 +985,7 @@ Accept invitation?</source>
         <translation type="unfinished">Укажите причину кика %1</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+9"/>
         <source>Ban</source>
         <translation>Бан</translation>
     </message>
@@ -993,12 +998,12 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JRoster</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+135"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+151"/>
         <source>Not in list</source>
         <translation type="unfinished">Не в списке</translation>
     </message>
     <message>
-        <location line="+83"/>
+        <location line="+84"/>
         <source>You were authorized</source>
         <translation type="unfinished">Вас авторизовали</translation>
     </message>
@@ -1052,7 +1057,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JServiceDiscovery</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+84"/>
+        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+89"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
         <translation type="unfinished">Отправитель послал неправильный XML запрос который не может быть обработан.</translation>
     </message>
@@ -1264,7 +1269,7 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>Jabber Remote Control</source>
-        <translation type="unfinished">Удалённый контроль Jabber'а</translation>
+        <translation type="unfinished">Удалённый контроль Jabber&apos;а</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1294,7 +1299,7 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>Jabber File Transfer</source>
-        <translation type="unfinished">Передача файлов по Jabber'у</translation>
+        <translation type="unfinished">Передача файлов по Jabber&apos;у</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1427,7 +1432,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-36"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-41"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
