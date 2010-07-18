@@ -5,11 +5,13 @@
     <name>AppearanceSettings</name>
     <message>
         <location filename="../../plugins/qmlpopups/src/settings/popupappearance.ui" line="+20"/>
+        <location filename="../../plugins/qmlpopups/build/ui_popupappearance.h" line="+86"/>
         <source>Form</source>
         <translation>Настройки на изгледа</translation>
     </message>
     <message>
         <location line="+25"/>
+        <location filename="../../plugins/qmlpopups/build/ui_popupappearance.h" line="+1"/>
         <source>test</source>
         <translation>Проба</translation>
     </message>

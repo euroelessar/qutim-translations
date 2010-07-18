@@ -13,11 +13,13 @@
     <name>ManagerSettings</name>
     <message>
         <location filename="../../plugins/connectionmanager/src/managersettings.ui" line="+14"/>
+        <location filename="../../plugins/connectionmanager/build/ui_managersettings.h" line="+60"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
     <message>
         <location line="+28"/>
+        <location filename="../../plugins/connectionmanager/build/ui_managersettings.h" line="+1"/>
         <source>Autoconnect on startup</source>
         <translation>Автоматично свързване при стартиране</translation>
     </message>

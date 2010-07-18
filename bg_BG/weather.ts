@@ -35,56 +35,68 @@
     <message>
         <location filename="../../plugins/weather/src/wsettings.ui" line="+14"/>
         <location line="+62"/>
+        <location filename="../../plugins/weather/build/ui_wsettings.h" line="+200"/>
+        <location line="+9"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
         <location line="-52"/>
+        <location filename="../../plugins/weather/build/ui_wsettings.h" line="-8"/>
         <source>Cities</source>
         <translation>Градове</translation>
     </message>
     <message>
         <location line="+21"/>
+        <location filename="../../plugins/weather/build/ui_wsettings.h" line="+2"/>
         <source>Search</source>
         <translation>Търсене</translation>
     </message>
     <message>
         <location line="+20"/>
+        <location filename="../../plugins/weather/build/ui_wsettings.h" line="-1"/>
         <source>Enter city&apos;s name</source>
         <translation>Въведете име на град</translation>
     </message>
     <message>
         <location line="+17"/>
+        <location filename="../../plugins/weather/build/ui_wsettings.h" line="+2"/>
         <source>Refresh period:</source>
         <translation>Период на обновяване:</translation>
     </message>
     <message>
         <location line="+17"/>
+        <location filename="../../plugins/weather/build/ui_wsettings.h" line="+1"/>
         <source>Show weather in the status row</source>
         <translation>Показване на времето в реда със статуси</translation>
     </message>
     <message>
         <location line="+10"/>
+        <location filename="../../plugins/weather/build/ui_wsettings.h" line="+1"/>
         <source>Use default theme</source>
         <translation>Използване на подразбиращата се тема</translation>
     </message>
     <message>
         <location line="+10"/>
+        <location filename="../../plugins/weather/build/ui_wsettings.h" line="+1"/>
         <source>Use custom theme:</source>
         <translation>Използване на собствена тема:</translation>
     </message>
     <message>
         <location line="+17"/>
+        <location filename="../../plugins/weather/build/ui_wsettings.h" line="+1"/>
         <source>Choose...</source>
         <translation>Избиране...</translation>
     </message>
     <message>
         <location line="+21"/>
+        <location filename="../../plugins/weather/build/ui_wsettings.h" line="+18"/>
         <source>About</source>
         <translation>За добавката</translation>
     </message>
     <message>
         <location line="+6"/>
+        <location filename="../../plugins/weather/build/ui_wsettings.h" line="-16"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
