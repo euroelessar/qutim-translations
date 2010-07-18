@@ -3927,4 +3927,380 @@ Accept invitation?</source>
     <source>Registration required: User is not on the member list.</source>
     <target>Требуется регистрация: Пользователь не в списке зарегистрированных.</target>
 </phrase>
+<phrase>
+    <source>AddAccountForm</source>
+    <target>Добавление учетных записей</target>
+</phrase>
+<phrase>
+    <source>Password:</source>
+    <target>Пароль:</target>
+</phrase>
+<phrase>
+    <source>Save password</source>
+    <target>Сохранить пароль</target>
+</phrase>
+<phrase>
+    <source>Server:</source>
+    <target>Сервер:</target>
+</phrase>
+<phrase>
+    <source>irc.freenode.net</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Port:</source>
+    <target>Порт:</target>
+</phrase>
+<phrase>
+    <source>6667</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Nick:</source>
+    <target>Ник:</target>
+</phrase>
+<phrase>
+    <source>Real Name:</source>
+    <target>Настоящее имя:</target>
+</phrase>
+<phrase>
+    <source>IRC Server Console</source>
+    <target>Консоль IRC сервера</target>
+</phrase>
+<phrase>
+    <source>Channel owner</source>
+    <target>Хозяин канала</target>
+</phrase>
+<phrase>
+    <source>IRC Account Settings</source>
+    <target>IRC</target>
+</phrase>
+<phrase>
+    <source>Channel administrator</source>
+    <target>Администратор канала</target>
+</phrase>
+<phrase>
+    <source>Channel operator</source>
+    <target>Оператор канала</target>
+</phrase>
+<phrase>
+    <source>Channel half-operator</source>
+    <target>Модератор канала</target>
+</phrase>
+<phrase>
+    <source>Voice</source>
+    <target>Голос</target>
+</phrase>
+<phrase>
+    <source>Banned</source>
+    <target>Забанен</target>
+</phrase>
+<phrase>
+    <source>Online</source>
+    <target>В сети</target>
+</phrase>
+<phrase>
+    <source>Offline</source>
+    <target>Отключен</target>
+</phrase>
+<phrase>
+    <source>Away</source>
+    <target>Отошел</target>
+</phrase>
+<phrase>
+    <source>Console</source>
+    <target>Консоль</target>
+</phrase>
+<phrase>
+    <source>Channels List</source>
+    <target>Список каналов</target>
+</phrase>
+<phrase>
+    <source>Join Channel</source>
+    <target>Подключиться к каналу</target>
+</phrase>
+<phrase>
+    <source>Change topic</source>
+    <target>Изменить тему</target>
+</phrase>
+<phrase>
+    <source>IRC operator</source>
+    <target>Оператор IRC</target>
+</phrase>
+<phrase>
+    <source>Mode</source>
+    <target>Режим</target>
+</phrase>
+<phrase>
+    <source>Private chat</source>
+    <target>Личный чат</target>
+</phrase>
+<phrase>
+    <source>Give Op</source>
+    <target>Дать Опа</target>
+</phrase>
+<phrase>
+    <source>Take Op</source>
+    <target>Взять Опа</target>
+</phrase>
+<phrase>
+    <source>Give HalfOp</source>
+    <target>Дать полуОпа</target>
+</phrase>
+<phrase>
+    <source>Take HalfOp</source>
+    <target>Взять полуопа</target>
+</phrase>
+<phrase>
+    <source>Give Voice</source>
+    <target>Дать голос</target>
+</phrase>
+<phrase>
+    <source>Take Voice</source>
+    <target>взять Голос</target>
+</phrase>
+<phrase>
+    <source>Kick</source>
+    <target>Выкинуть</target>
+</phrase>
+<phrase>
+    <source>Kick with...</source>
+    <target>Выкинуть 7...</target>
+</phrase>
+<phrase>
+    <source>Ban</source>
+    <target>Забанить</target>
+</phrase>
+<phrase>
+    <source>UnBan</source>
+    <target>Разбанить</target>
+</phrase>
+<phrase>
+    <source>Information</source>
+    <target>Информация</target>
+</phrase>
+<phrase>
+    <source>CTCP</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Modes</source>
+    <target>Режимы</target>
+</phrase>
+<phrase>
+    <source>Kick / Ban</source>
+    <target>Кик / Бан</target>
+</phrase>
+<phrase>
+    <source>Kick reason</source>
+    <target>Причина кика</target>
+</phrase>
+<phrase>
+    <source>General</source>
+    <target>Главные</target>
+</phrase>
+<phrase>
+    <source>Nick:</source>
+    <target>Ник:</target>
+</phrase>
+<phrase>
+    <source>Alternate Nick:</source>
+    <target>Альтернативный ник:</target>
+</phrase>
+<phrase>
+    <source>Real Name:</source>
+    <target>Настоящее имя:</target>
+</phrase>
+<phrase>
+    <source>Autologin on start</source>
+    <target>Автоматически входить при запуске</target>
+</phrase>
+<phrase>
+    <source>Server:</source>
+    <target>Сервер:</target>
+</phrase>
+<phrase>
+    <source>Port:</source>
+    <target>Порт:</target>
+</phrase>
+<phrase>
+    <source>Codepage:</source>
+    <target>Кодировка:</target>
+</phrase>
+<phrase>
+    <source>Apple Roman</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Identify</source>
+    <target>Идентификация</target>
+</phrase>
+<phrase>
+    <source>Age:</source>
+    <target>Возраст:</target>
+</phrase>
+<phrase>
+    <source>Gender:</source>
+    <target>Пол:</target>
+</phrase>
+<phrase>
+    <source>Unspecified</source>
+    <target>Не указано</target>
+</phrase>
+<phrase>
+    <source>Male</source>
+    <target>Мужской</target>
+</phrase>
+<phrase>
+    <source>Female</source>
+    <target>Женский</target>
+</phrase>
+<phrase>
+    <source>Location</source>
+    <target>Местоположение</target>
+</phrase>
+<phrase>
+    <source>Languages:</source>
+    <target>Языки:</target>
+</phrase>
+<phrase>
+    <source>Avatar URL:</source>
+    <target>URL аватара:</target>
+</phrase>
+<phrase>
+    <source>Other:</source>
+    <target>Другое:</target>
+</phrase>
+<phrase>
+    <source>Advanced</source>
+    <target>Дополнительно</target>
+</phrase>
+<phrase>
+    <source>Quit message:</source>
+    <target>Сообщение при выходе:</target>
+</phrase>
+<phrase>
+    <source>Autosend commands after connect:</source>
+    <target>Автоматически посылать команду после соединения:</target>
+</phrase>
+<phrase>
+    <source>OK</source>
+    <target>Ок</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>Отмена</target>
+</phrase>
+<phrase>
+    <source>Apply</source>
+    <target>Применить</target>
+</phrase>
+<phrase>
+    <source>Connecting to %1</source>
+    <target>Подключение к %1</target>
+</phrase>
+<phrase>
+    <source>Trying alternate nick: %1</source>
+    <target>Пробуем другой ник: %1</target>
+</phrase>
+<phrase>
+    <source>%1 requests %2</source>
+    <target>%1 запрашивает %2</target>
+</phrase>
+<phrase>
+    <source>%1 requests unknown command %2</source>
+    <target>%1запрашивает неизвестную команду %2</target>
+</phrase>
+<phrase>
+    <source>%1 reply from %2: %3</source>
+    <target>%1 ответил от: %2: %3</target>
+</phrase>
+<phrase>
+    <source>%1 has set mode %2</source>
+    <target>%1установил режим %2</target>
+</phrase>
+<phrase>
+    <source>ircSettings</source>
+    <target>IRC</target>
+</phrase>
+<phrase>
+    <source>Main</source>
+    <target>Главные</target>
+</phrase>
+<phrase>
+    <source>Advanced</source>
+    <target>Дополнительно</target>
+</phrase>
+<phrase>
+    <source></source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Join Channel</source>
+    <target>Подключиться к каналу</target>
+</phrase>
+<phrase>
+    <source>Sending channels list request...</source>
+    <target>Отправка запроса на список каналов...</target>
+</phrase>
+<phrase>
+    <source>Channel:</source>
+    <target>Канал:</target>
+</phrase>
+<phrase>
+    <source>Fetching channels list... %1</source>
+    <target>Получение списка каналов... %1</target>
+</phrase>
+<phrase>
+    <source>Channels list loaded. (%1)</source>
+    <target>Список каналов загружен (%1)</target>
+</phrase>
+<phrase>
+    <source>Fetching channels list... (%1)</source>
+    <target>Получение списка каналов... (%1)</target>
+</phrase>
+<phrase>
+    <source>Channels List</source>
+    <target>Список каналов</target>
+</phrase>
+<phrase>
+    <source>Filter by:</source>
+    <target>Фильтровать с учетом:</target>
+</phrase>
+<phrase>
+    <source>Request list</source>
+    <target>Запросить список</target>
+</phrase>
+<phrase>
+    <source>Users</source>
+    <target>Пользователи</target>
+</phrase>
+<phrase>
+    <source>Channel</source>
+    <target>Канал</target>
+</phrase>
+<phrase>
+    <source>Topic</source>
+    <target>Тема</target>
+</phrase>
+<phrase>
+    <source>textDialog</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Alexey Prokhin</source>
+    <target>Алексей Прохин</target>
+</phrase>
+<phrase>
+    <source>Join channel...</source>
+    <target>Войти в канал...</target>
+</phrase>
+<phrase>
+    <source>Scientific/Technical Org.</source>
+    <target>Научная организация</target>
+</phrase>
+<phrase>
+    <source>About</source>
+    <target>О себе</target>
+</phrase>
 </QPH>
