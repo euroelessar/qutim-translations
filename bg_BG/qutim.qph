@@ -2704,4 +2704,8 @@
     <source>General</source>
     <target>Основна</target>
 </phrase>
+<phrase>
+    <source>Writing</source>
+    <target>Пишещ</target>
+</phrase>
 </QPH>
