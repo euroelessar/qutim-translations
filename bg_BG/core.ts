@@ -1021,7 +1021,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+572"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+576"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
         <translation>Желаете ли да обедините контактите &quot;%1&quot; &lt;%2&gt; и &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
@@ -1234,6 +1234,60 @@ p, li { white-space: pre-wrap; }
         <source>s</source>
         <comment>seconds</comment>
         <translation type="obsolete">&apos;</translation>
+    </message>
+</context>
+<context>
+    <name>JoinGroupChat</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp" line="+45"/>
+        <source>Join groupchat</source>
+        <translation>Присъединяване към групов разговор</translation>
+    </message>
+    <message>
+        <location line="+35"/>
+        <source>Select account:</source>
+        <translation>Сметка:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Bookmarks:</source>
+        <translation>Отметки:</translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Save to bookmarks</source>
+        <translation>Запис в отметките</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+57"/>
+        <source>Enter</source>
+        <translation>Влизане</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Bookmarks</source>
+        <translation>Отметки</translation>
+    </message>
+    <message>
+        <location line="+56"/>
+        <source>Join</source>
+        <translation>Присъединяване</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Search</source>
+        <translation>Търсене</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Save</source>
+        <translation>Запис</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Delete</source>
+        <translation>Изтриване</translation>
     </message>
 </context>
 <context>
@@ -1827,6 +1881,16 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Automatically changes status of accounts on inactivity</source>
         <translation>Автоматична промяна на статусите на сметките при бездействие</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp" line="-35"/>
+        <source>Join GroupChat dialog</source>
+        <translation>Присъединяване към групов разговор</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Simple groupchat join dialog</source>
+        <translation>Опростен диалог за присъединяване към групов разговор</translation>
     </message>
 </context>
 <context>

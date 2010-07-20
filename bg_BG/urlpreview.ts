@@ -103,49 +103,41 @@
     <name>urlpreviewSettingsClass</name>
     <message>
         <location filename="../../plugins/urlpreview/settings.ui" line="+14"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="+257"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
         <location line="+10"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="+9"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
     <message>
         <location line="+6"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="-8"/>
         <source>Enable on incoming messages</source>
         <translation>Включване за входящите съобщения</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="+1"/>
         <source>Enable on outgoing messages</source>
         <translation>Включване за изходящите съобщения</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="+1"/>
         <source>Don&apos;t show info for text/html content type</source>
         <translation>Да не се показва информация за text/html content type</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="+1"/>
         <source>Ignore SSL warnings</source>
         <translation>Пренебрегване на SSL предупрежденията</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="+1"/>
         <source>Info template:</source>
         <translation>Шаблон на информацията:</translation>
     </message>
     <message>
         <location line="+17"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="+1"/>
         <source>Macros:
 %TYPE% - Content-Type
 %SIZE% - Content-Length</source>
@@ -155,37 +147,31 @@
     </message>
     <message>
         <location line="+23"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="+14"/>
         <source>Images</source>
         <translation>Изображения</translation>
     </message>
     <message>
         <location line="+21"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="-9"/>
         <source>Max file size limit (in bytes)</source>
         <translation>Максимален размер на файла (в Байтове)</translation>
     </message>
     <message>
         <location line="+37"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="+2"/>
         <source>%MAXW% macro</source>
         <translation>%MAXW% макрос</translation>
     </message>
     <message>
         <location line="+37"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="+2"/>
         <source>%MAXH% macro</source>
         <translation>%MAXH% макрос</translation>
     </message>
     <message>
         <location line="+22"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="+1"/>
         <source>Image preview template:</source>
         <translation>Шаблон за предварителен преглед изображения:</translation>
     </message>
     <message>
         <location line="+10"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="+1"/>
         <source>Macros:
 %URL% - Image URL
 %UID% - Generated unique ID</source>
@@ -195,25 +181,21 @@
     </message>
     <message>
         <location line="+10"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="+8"/>
         <source>YouTube</source>
         <translation>YouTube</translation>
     </message>
     <message>
         <location line="+6"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="-4"/>
         <source>Enable preview for YouTube links</source>
         <translation>Включване на предварителен преглед на връзки към YouTube</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="+1"/>
         <source>YouTube links template:</source>
         <translation>Шаблон за предварителен преглед YouTube връзки:</translation>
     </message>
     <message>
         <location line="+10"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="+1"/>
         <source>Macros:
 %YTID% - YouTube ID</source>
         <translation>Макрос:
@@ -221,7 +203,6 @@
     </message>
     <message>
         <location line="+15"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="+3"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -259,7 +240,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-6"/>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="+20"/>
         <source>About</source>
         <translation>За добавката</translation>
     </message>

@@ -13,7 +13,6 @@
     <name>ChooseClientPage</name>
     <message>
         <location filename="../../plugins/histman/src/chooseclientpage.ui" line="+14"/>
-        <location filename="../../plugins/histman/build/ui_chooseclientpage.h" line="+50"/>
         <source>WizardPage</source>
         <translation>Магьосник</translation>
     </message>
@@ -22,19 +21,16 @@
     <name>ChooseOrDumpPage</name>
     <message>
         <location filename="../../plugins/histman/src/chooseordumppage.ui" line="+14"/>
-        <location filename="../../plugins/histman/build/ui_chooseordumppage.h" line="+57"/>
         <source>WizardPage</source>
         <translation>Магьосник</translation>
     </message>
     <message>
         <location line="+6"/>
-        <location filename="../../plugins/histman/build/ui_chooseordumppage.h" line="+1"/>
         <source>Import history from one more client</source>
         <translation>Импортиране на хронологията от друг клиент</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../plugins/histman/build/ui_chooseordumppage.h" line="+1"/>
         <source>Dump history</source>
         <translation>Запис на хронологията</translation>
     </message>
@@ -43,25 +39,21 @@
     <name>ClientConfigPage</name>
     <message>
         <location filename="../../plugins/histman/src/clientconfigpage.ui" line="+14"/>
-        <location filename="../../plugins/histman/build/ui_clientconfigpage.h" line="+90"/>
         <source>WizardPage</source>
         <translation>Магьосник</translation>
     </message>
     <message>
         <location line="+6"/>
-        <location filename="../../plugins/histman/build/ui_clientconfigpage.h" line="+1"/>
         <source>Path to profile:</source>
         <translation>Път до профила:</translation>
     </message>
     <message>
         <location line="+12"/>
-        <location filename="../../plugins/histman/build/ui_clientconfigpage.h" line="+1"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
         <location line="+16"/>
-        <location filename="../../plugins/histman/build/ui_clientconfigpage.h" line="+2"/>
         <source>Encoding:</source>
         <translation>Кодировка:</translation>
     </message>
@@ -81,37 +73,31 @@
     <name>DumpHistoryPage</name>
     <message>
         <location filename="../../plugins/histman/src/dumphistorypage.ui" line="+14"/>
-        <location filename="../../plugins/histman/build/ui_dumphistorypage.h" line="+90"/>
         <source>WizardPage</source>
         <translation>Магьосник</translation>
     </message>
     <message>
         <location line="+6"/>
-        <location filename="../../plugins/histman/build/ui_dumphistorypage.h" line="+1"/>
         <source>Choose format:</source>
         <translation>Избор на формат:</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../plugins/histman/build/ui_dumphistorypage.h" line="+1"/>
         <source>JSON</source>
         <translation>JSON</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../plugins/histman/build/ui_dumphistorypage.h" line="+1"/>
         <source>Binary</source>
         <translation>Двоичен</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../plugins/histman/build/ui_dumphistorypage.h" line="+1"/>
         <source>Merging history state:</source>
         <translation>Състояние на обединяването на хронологията:</translation>
     </message>
     <message>
         <location line="+14"/>
-        <location filename="../../plugins/histman/build/ui_dumphistorypage.h" line="+1"/>
         <source>Dumping history state:</source>
         <translation>Състояние на записа на хронологията:</translation>
     </message>
@@ -259,7 +245,6 @@
     <name>HistoryManagerWindow</name>
     <message>
         <location filename="../../plugins/histman/src/historymanagerwindow.ui" line="+16"/>
-        <location filename="../../plugins/histman/build/ui_historymanagerwindow.h" line="+39"/>
         <source>Form</source>
         <translation></translation>
     </message>
@@ -268,7 +253,6 @@
     <name>ImportHistoryPage</name>
     <message>
         <location filename="../../plugins/histman/src/importhistorypage.ui" line="+14"/>
-        <location filename="../../plugins/histman/build/ui_importhistorypage.h" line="+51"/>
         <source>WizardPage</source>
         <translation>Магьосник</translation>
     </message>

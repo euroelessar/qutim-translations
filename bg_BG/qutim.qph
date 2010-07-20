@@ -2708,4 +2708,8 @@
     <source>Writing</source>
     <target>Пишещ</target>
 </phrase>
+<phrase>
+    <source>Bookmarks</source>
+    <target>Отметки</target>
+</phrase>
 </QPH>

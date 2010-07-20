@@ -117,38 +117,31 @@
     <message>
         <location filename="../../plugins/yandexnarod/src/yandexnarodsettings.ui" line="+14"/>
         <location line="+16"/>
-        <location filename="../../plugins/yandexnarod/build/ui_yandexnarodsettings.h" line="+145"/>
-        <location line="+12"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
         <location line="+24"/>
-        <location filename="../../plugins/yandexnarod/build/ui_yandexnarodsettings.h" line="-11"/>
         <source>Password</source>
         <translation>Парола</translation>
     </message>
     <message>
         <location line="+20"/>
-        <location filename="../../plugins/yandexnarod/build/ui_yandexnarodsettings.h" line="+1"/>
         <source>Login</source>
         <translation>Потребителско име</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../plugins/yandexnarod/build/ui_yandexnarodsettings.h" line="+1"/>
         <source>Test Authorization</source>
         <translation>Проверка на удостоверението</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../plugins/yandexnarod/build/ui_yandexnarodsettings.h" line="+1"/>
         <source>status</source>
         <translation>статус</translation>
     </message>
     <message>
         <location line="+23"/>
-        <location filename="../../plugins/yandexnarod/build/ui_yandexnarodsettings.h" line="+1"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -162,19 +155,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+34"/>
-        <location filename="../../plugins/yandexnarod/build/ui_yandexnarodsettings.h" line="+8"/>
         <source>Manage files</source>
         <translation>Упраление на файловете</translation>
     </message>
     <message>
         <location line="-23"/>
-        <location filename="../../plugins/yandexnarod/build/ui_yandexnarodsettings.h" line="-3"/>
         <source>Send file template</source>
         <translation>Изпращане на шаблон за файл</translation>
     </message>
     <message>
         <location line="+13"/>
-        <location filename="../../plugins/yandexnarod/build/ui_yandexnarodsettings.h" line="+1"/>
         <source>%N - file name; %U - file URL; %S - file size</source>
         <translation>%N - име на файла; %U - връзка към файла; %S - размер на файла</translation>
     </message>
@@ -274,31 +264,26 @@ p, li { white-space: pre-wrap; }
     <name>requestAuthDialogClass</name>
     <message>
         <location filename="../../plugins/yandexnarod/src/requestauthdialog.ui" line="+26"/>
-        <location filename="../../plugins/yandexnarod/build/ui_requestauthdialog.h" line="+158"/>
         <source>Authorization</source>
         <translation>Удостоверяване</translation>
     </message>
     <message>
         <location line="+12"/>
-        <location filename="../../plugins/yandexnarod/build/ui_requestauthdialog.h" line="+1"/>
         <source>Login:</source>
         <translation>Потребителско име:</translation>
     </message>
     <message>
         <location line="+17"/>
-        <location filename="../../plugins/yandexnarod/build/ui_requestauthdialog.h" line="+1"/>
         <source>Password:</source>
         <translation>Парола:</translation>
     </message>
     <message>
         <location line="+20"/>
-        <location filename="../../plugins/yandexnarod/build/ui_requestauthdialog.h" line="+1"/>
         <source>Remember</source>
         <translation>Запомняне</translation>
     </message>
     <message>
         <location line="+21"/>
-        <location filename="../../plugins/yandexnarod/build/ui_requestauthdialog.h" line="+1"/>
         <source>Captcha:</source>
         <translation>Captcha:</translation>
     </message>
@@ -323,31 +308,26 @@ p, li { white-space: pre-wrap; }
     <name>uploadDialogClass</name>
     <message>
         <location filename="../../plugins/yandexnarod/src/uploaddialog.ui" line="+20"/>
-        <location filename="../../plugins/yandexnarod/build/ui_uploaddialog.h" line="+113"/>
         <source>Uploading...</source>
         <translation></translation>
     </message>
     <message>
         <location line="+10"/>
-        <location filename="../../plugins/yandexnarod/build/ui_uploaddialog.h" line="+1"/>
         <source>Upload started.</source>
         <translation>Качването е стартирано.</translation>
     </message>
     <message>
         <location line="+10"/>
-        <location filename="../../plugins/yandexnarod/build/ui_uploaddialog.h" line="+1"/>
         <source>File: </source>
         <translation>Файл: </translation>
     </message>
     <message>
         <location line="+10"/>
-        <location filename="../../plugins/yandexnarod/build/ui_uploaddialog.h" line="+1"/>
         <source>Progress:</source>
         <translation>Напредък:</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../plugins/yandexnarod/build/ui_uploaddialog.h" line="+1"/>
         <source>Will finish in:</source>
         <translation>Приключване след:</translation>
     </message>
@@ -357,13 +337,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../plugins/yandexnarod/build/ui_uploaddialog.h" line="+1"/>
         <source>Speed:</source>
         <translation>Скорост:</translation>
     </message>
     <message>
         <location line="+29"/>
-        <location filename="../../plugins/yandexnarod/build/ui_uploaddialog.h" line="+1"/>
         <source>Cancel</source>
         <translation>Отказ</translation>
     </message>
@@ -383,43 +361,36 @@ p, li { white-space: pre-wrap; }
     <name>yandexnarodManageClass</name>
     <message>
         <location filename="../../plugins/yandexnarod/src/yandexnarodmanage.ui" line="+20"/>
-        <location filename="../../plugins/yandexnarod/build/ui_yandexnarodmanage.h" line="+227"/>
         <source>Form</source>
         <translation>От</translation>
     </message>
     <message>
         <location line="+51"/>
-        <location filename="../../plugins/yandexnarod/build/ui_yandexnarodmanage.h" line="+1"/>
         <source>Get Filelist</source>
         <translation>Получаване на списък от полета</translation>
     </message>
     <message>
         <location line="+11"/>
-        <location filename="../../plugins/yandexnarod/build/ui_yandexnarodmanage.h" line="+1"/>
         <source>Upload File</source>
         <translation>Качване на файл</translation>
     </message>
     <message>
         <location line="+44"/>
-        <location filename="../../plugins/yandexnarod/build/ui_yandexnarodmanage.h" line="+1"/>
         <source>Actions:</source>
         <translation>Действия:</translation>
     </message>
     <message>
         <location line="+13"/>
-        <location filename="../../plugins/yandexnarod/build/ui_yandexnarodmanage.h" line="+1"/>
         <source>Clipboard</source>
         <translation>Клип-борд</translation>
     </message>
     <message>
         <location line="+20"/>
-        <location filename="../../plugins/yandexnarod/build/ui_yandexnarodmanage.h" line="+1"/>
         <source>Delete File</source>
         <translation>Изтриване на файл</translation>
     </message>
     <message>
         <location line="+51"/>
-        <location filename="../../plugins/yandexnarod/build/ui_yandexnarodmanage.h" line="+1"/>
         <source>line1
 line2</source>
         <translation>ред 1
@@ -427,19 +398,16 @@ line2</source>
     </message>
     <message>
         <location line="+42"/>
-        <location filename="../../plugins/yandexnarod/build/ui_yandexnarodmanage.h" line="+2"/>
         <source>Close</source>
         <translation>Затваряне</translation>
     </message>
     <message>
         <location line="+35"/>
-        <location filename="../../plugins/yandexnarod/build/ui_yandexnarodmanage.h" line="+1"/>
         <source>Files list:</source>
         <translation>Списък от файлове:</translation>
     </message>
     <message>
         <location line="+17"/>
-        <location filename="../../plugins/yandexnarod/build/ui_yandexnarodmanage.h" line="+5"/>
         <source>New Item</source>
         <translation>Нов елемент</translation>
     </message>
