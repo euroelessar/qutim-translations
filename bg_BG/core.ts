@@ -2397,7 +2397,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>XSettingsDialog</name>
     <message>
-        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="+53"/>
+        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="+52"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
@@ -2475,64 +2475,52 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>XToolBar</name>
     <message>
-        <location filename="../../qutim/src/corelayers/xsettingsdialog/xtoolbar.cpp" line="+33"/>
         <source>XBar appearance</source>
-        <translation>Облик на Х лентата</translation>
+        <translation type="obsolete">Облик на Х лентата</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Small (16x16)</source>
-        <translation>Малък (16x16)</translation>
+        <translation type="obsolete">Малък (16x16)</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Normal (32x32)</source>
-        <translation>Нормален (32х32)</translation>
+        <translation type="obsolete">Нормален (32х32)</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Big (48x48)</source>
-        <translation>Голям (48х48)</translation>
+        <translation type="obsolete">Голям (48х48)</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Other</source>
-        <translation>Друг</translation>
+        <translation type="obsolete">Друг</translation>
     </message>
     <message>
-        <location line="+13"/>
         <source>Icon size</source>
-        <translation>Размер на иконите</translation>
+        <translation type="obsolete">Размер на иконите</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Only display the icon</source>
-        <translation>Показване само на икона</translation>
+        <translation type="obsolete">Показване само на икона</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Only display the text</source>
-        <translation>Показване само на текст</translation>
+        <translation type="obsolete">Показване само на текст</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>The text appears beside the icon</source>
-        <translation>Текстът се появява до иконата</translation>
+        <translation type="obsolete">Текстът се появява до иконата</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>The text appears under the icon</source>
-        <translation>Текстът се появява под иконата</translation>
+        <translation type="obsolete">Текстът се появява под иконата</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Follow the style</source>
-        <translation>В зависимост от стила</translation>
+        <translation type="obsolete">В зависимост от стила</translation>
     </message>
     <message>
-        <location line="+12"/>
         <source>Tool button style</source>
-        <translation>Стил на бутона</translation>
+        <translation type="obsolete">Стил на бутона</translation>
     </message>
 </context>
 <context>

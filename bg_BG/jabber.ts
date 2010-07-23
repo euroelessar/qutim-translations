@@ -330,22 +330,21 @@
         <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+246"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+222"/>
         <source>Join to conference</source>
         <translation>Присъединяване към конференция</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+3"/>
         <source>Leave from conference</source>
         <translation>Напускане на конференцията</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Copy room address to clipboard</source>
-        <translation>Копиране на адреса на стаята в клип-борда</translation>
+        <translation type="obsolete">Копиране на адреса на стаята в клип-борда</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+7"/>
         <source>Save to bookmarks</source>
         <translation>Запазване в отметките</translation>
     </message>
@@ -355,7 +354,7 @@
         <translation>Премахване от отметките</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+6"/>
         <source>Room&apos;s configuration</source>
         <translation>Настройване на стаята</translation>
     </message>
@@ -728,7 +727,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCManager</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-184"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-139"/>
         <source>Join groupchat on</source>
         <translation>Присъединяване към групов разговор за</translation>
     </message>
@@ -765,7 +764,7 @@ Accept invitation?</source>
 </translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+202"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+207"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете ли да се присъедините повторно?</translation>
     </message>
@@ -783,7 +782,7 @@ Accept invitation?</source>
         <translation type="obsolete">влезе в стаята</translation>
     </message>
     <message>
-        <location line="+42"/>
+        <location line="+43"/>
         <location line="+2"/>
         <location line="+2"/>
         <location line="+2"/>
@@ -835,7 +834,7 @@ Accept invitation?</source>
         <translation type="obsolete">Тема: %1</translation>
     </message>
     <message>
-        <location line="-96"/>
+        <location line="-97"/>
         <source> has been banned</source>
         <translation> е с наложена забрана</translation>
     </message>
@@ -870,7 +869,7 @@ Accept invitation?</source>
         <translation> сега се подвизава като </translation>
     </message>
     <message>
-        <location line="+24"/>
+        <location line="+25"/>
         <source> has joined the room</source>
         <translation> влезе в стаята</translation>
     </message>
@@ -968,7 +967,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JProtocol</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+23"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+28"/>
         <source>Kick</source>
         <translation>Изритване (Kick)</translation>
     </message>
@@ -1398,7 +1397,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-41"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-55"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>

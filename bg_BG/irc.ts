@@ -558,7 +558,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcAccount</name>
     <message>
-        <location filename="../../protocols/irc/src/ircaccount.cpp" line="+76"/>
+        <location filename="../../protocols/irc/src/ircaccount.cpp" line="+77"/>
         <source>Away</source>
         <translation>Отсъствам</translation>
     </message>
@@ -566,7 +566,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+137"/>
+        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+141"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
     </message>
@@ -589,7 +589,7 @@
         </translation>
     </message>
     <message>
-        <location line="+35"/>
+        <location line="+36"/>
         <source>Not enough parameters for command %1</source>
         <translation>Липсват достатъчно параметри за командата %1</translation>
     </message>
