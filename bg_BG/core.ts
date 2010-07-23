@@ -393,7 +393,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="+214"/>
+        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="+215"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -445,7 +445,7 @@ p, li { white-space: pre-wrap; }
         <translation>Основна</translation>
     </message>
     <message>
-        <location line="+73"/>
+        <location line="+121"/>
         <source>Show information</source>
         <translation>Показване на информация</translation>
     </message>
@@ -468,7 +468,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+120"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+112"/>
         <source>Change global status</source>
         <translation>Промяна на общия статус</translation>
     </message>
@@ -503,12 +503,12 @@ p, li { white-space: pre-wrap; }
         <translation>Скриване на контактите извън линия</translation>
     </message>
     <message>
-        <location line="-144"/>
+        <location line="-136"/>
         <source>Copy id to clipboard</source>
         <translation>Копиране в клипборда</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+56"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+716"/>
         <source>Remove contact</source>
         <translation>Прeмахване на контакта</translation>
     </message>
@@ -518,7 +518,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавяне в списъка с контакти</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="-660"/>
         <source>Rename contact</source>
         <translation>Преименуване на контакта</translation>
     </message>
@@ -1041,7 +1041,7 @@ p, li { white-space: pre-wrap; }
         <translation>Обединяване на контакти</translation>
     </message>
     <message>
-        <location line="+171"/>
+        <location line="+194"/>
         <source>All tags</source>
         <translation>Всички етикети</translation>
     </message>
@@ -1054,12 +1054,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+104"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+96"/>
         <source>Main Toolbar</source>
         <translation>Главна лентата с инструменти</translation>
     </message>
     <message>
-        <location line="+54"/>
+        <location line="+55"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
@@ -1483,7 +1483,7 @@ p, li { white-space: pre-wrap; }
         <translation>PList конфигурация</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-218"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-211"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
@@ -1681,7 +1681,7 @@ p, li { white-space: pre-wrap; }
         <translation>Модул за миграция от 0.2 към 0.3</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="-226"/>
+        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="-274"/>
         <source>Simple information window about a contact</source>
         <translation>Опростен прозорец с информация за контакта</translation>
     </message>
@@ -2072,7 +2072,7 @@ p, li { white-space: pre-wrap; }
         <translation>Четвърто тримесечие</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+17"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+409"/>
         <source>Copy %1 to clipboard</source>
         <translation>Копиране на %1 в клипборда</translation>
     </message>

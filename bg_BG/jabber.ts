@@ -22,7 +22,7 @@
 <context>
     <name>Conference</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+60"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+70"/>
         <source>Kick</source>
         <translation>Изритване (Kick)</translation>
     </message>
@@ -330,12 +330,13 @@
         <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+222"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+3"/>
+        <location line="+190"/>
         <source>Join to conference</source>
         <translation>Присъединяване към конференция</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+3"/>
+        <location line="+2"/>
         <source>Leave from conference</source>
         <translation>Напускане на конференцията</translation>
     </message>
@@ -344,17 +345,18 @@
         <translation type="obsolete">Копиране на адреса на стаята в клип-борда</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+7"/>
+        <location line="-179"/>
+        <location line="+188"/>
         <source>Save to bookmarks</source>
         <translation>Запазване в отметките</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+2"/>
         <source>Remove from bookmarks</source>
         <translation>Премахване от отметките</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+6"/>
+        <location line="-196"/>
         <source>Room&apos;s configuration</source>
         <translation>Настройване на стаята</translation>
     </message>
@@ -727,7 +729,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCManager</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-139"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+84"/>
         <source>Join groupchat on</source>
         <translation>Присъединяване към групов разговор за</translation>
     </message>
@@ -967,7 +969,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JProtocol</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+28"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+36"/>
         <source>Kick</source>
         <translation>Изритване (Kick)</translation>
     </message>
@@ -1397,7 +1399,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-55"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-64"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
