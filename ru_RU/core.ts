@@ -34,62 +34,62 @@
     <message>
         <location filename="../../qutim/libqutim/actiontoolbar.cpp" line="+29"/>
         <source>Small (16x16)</source>
-        <translation type="unfinished">Малый (16x16)</translation>
+        <translation>Малый (16x16)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Medium (22x22)</source>
-        <translation type="unfinished">Средний (22x22)</translation>
+        <translation>Средний (22x22)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Big (32x32)</source>
-        <translation type="unfinished">Большой (32х32)</translation>
+        <translation>Большой (32х32)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Huge (64x64)</source>
-        <translation type="unfinished">Огромный (64x64)</translation>
+        <translation>Огромный (64x64)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Only display the icon</source>
-        <translation type="unfinished">Только иконки</translation>
+        <translation>Только иконки</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Only display the text</source>
-        <translation type="unfinished">Только текcт</translation>
+        <translation>Только текcт</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The text appears beside the icon</source>
-        <translation type="unfinished">Текст сбоку от картинок</translation>
+        <translation>Текст сбоку от картинок</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The text appears under the icon</source>
-        <translation type="unfinished">Текст под картинками</translation>
+        <translation>Текст под картинками</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Follow the style</source>
-        <translation type="unfinished">Следовать стилю</translation>
+        <translation>Следовать стилю</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>ToolBar appearance</source>
-        <translation type="unfinished">Оформление панелей</translation>
+        <translation>Оформление панелей</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Icon size</source>
-        <translation type="unfinished">Размер пиктограмм</translation>
+        <translation>Размер пиктограмм</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Tool button style</source>
-        <translation type="unfinished">Стиль кнопок &quot;инструментов&quot;</translation>
+        <translation>Стиль кнопок &quot;инструментов&quot;</translation>
     </message>
 </context>
 <context>
@@ -364,7 +364,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="+214"/>
+        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="+215"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -416,7 +416,7 @@ p, li { white-space: pre-wrap; }
         <translation>Главные</translation>
     </message>
     <message>
-        <location line="+73"/>
+        <location line="+121"/>
         <source>Show information</source>
         <translation>Показать информацию</translation>
     </message>
@@ -439,7 +439,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+56"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+716"/>
         <source>Remove contact</source>
         <translation>Удалить контакт</translation>
     </message>
@@ -449,7 +449,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавить в ростер</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="-660"/>
         <source>Rename contact</source>
         <translation>Переименовать</translation>
     </message>
@@ -464,7 +464,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Копировать id в буфер</translation>
     </message>
     <message>
-        <location line="+77"/>
+        <location line="+69"/>
         <source>Change global status</source>
         <translation>Изменить общий статус</translation>
     </message>
@@ -1044,7 +1044,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Контакты</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+572"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+576"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
         <translation type="unfinished">Желаете обьеденить контакты &quot;%1&quot; &lt;%2&gt; И &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
@@ -1064,7 +1064,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Слияние контактов</translation>
     </message>
     <message>
-        <location line="+171"/>
+        <location line="+194"/>
         <source>All tags</source>
         <translation type="unfinished">Все метки</translation>
     </message>
@@ -1094,7 +1094,7 @@ p, li { white-space: pre-wrap; }
         <translation>Главная панель</translation>
     </message>
     <message>
-        <location line="+54"/>
+        <location line="+55"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
@@ -1270,6 +1270,60 @@ p, li { white-space: pre-wrap; }
         <source>s</source>
         <comment>seconds</comment>
         <translation type="obsolete">с</translation>
+    </message>
+</context>
+<context>
+    <name>JoinGroupChat</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp" line="+45"/>
+        <source>Join groupchat</source>
+        <translation>Войти в конференцию</translation>
+    </message>
+    <message>
+        <location line="+35"/>
+        <source>Select account:</source>
+        <translation type="unfinished">Выбор учетной записи:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Bookmarks:</source>
+        <translation>Закладки:</translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Save to bookmarks</source>
+        <translation>Сохранить в закладках</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+57"/>
+        <source>Enter</source>
+        <translation type="unfinished">Enter</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Bookmarks</source>
+        <translation type="unfinished">Закладки</translation>
+    </message>
+    <message>
+        <location line="+56"/>
+        <source>Join</source>
+        <translation>Войти</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Search</source>
+        <translation type="unfinished">Поиск</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Save</source>
+        <translation type="unfinished">Сохранить</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Delete</source>
+        <translation>Удалить</translation>
     </message>
 </context>
 <context>
@@ -1501,7 +1555,7 @@ p, li { white-space: pre-wrap; }
         <translation>Движок смайлов для qutIM</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-218"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-211"/>
         <source>Simple ContactList</source>
         <translation>Обычный список контактов</translation>
     </message>
@@ -1668,7 +1722,7 @@ p, li { white-space: pre-wrap; }
         <translation>Простой модуль для размещения иконки qutIM в трее</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="-226"/>
+        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="-274"/>
         <source>Simple information window about a contact</source>
         <translation>Простое информационное окно о контакте</translation>
     </message>
@@ -1880,6 +1934,16 @@ p, li { white-space: pre-wrap; }
         <source>Automatically changes status of accounts on inactivity</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp" line="-35"/>
+        <source>Join GroupChat dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Simple groupchat join dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProfileCreationPage</name>
@@ -2061,7 +2125,7 @@ p, li { white-space: pre-wrap; }
         <translation>4я четверть</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+17"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+409"/>
         <source>Copy %1 to clipboard</source>
         <translation type="unfinished">Копировать %1 в буфер</translation>
     </message>
@@ -2394,7 +2458,7 @@ p, li { white-space: pre-wrap; }
         <translation>Извините, категория не имеет настроек. Вообще.</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="+53"/>
+        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="+52"/>
         <source>General</source>
         <translation>Основные</translation>
     </message>
@@ -2462,64 +2526,52 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>XToolBar</name>
     <message>
-        <location filename="../../qutim/src/corelayers/xsettingsdialog/xtoolbar.cpp" line="+33"/>
         <source>XBar appearance</source>
-        <translation>Оформление XBar</translation>
+        <translation type="obsolete">Оформление XBar</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Small (16x16)</source>
-        <translation>Малый (16x16)</translation>
+        <translation type="obsolete">Малый (16x16)</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Normal (32x32)</source>
-        <translation>Стандартный (32x32)</translation>
+        <translation type="obsolete">Стандартный (32x32)</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Big (48x48)</source>
-        <translation>Большой (48x48)</translation>
+        <translation type="obsolete">Большой (48x48)</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Other</source>
-        <translation>Другой</translation>
+        <translation type="obsolete">Другой</translation>
     </message>
     <message>
-        <location line="+13"/>
         <source>Icon size</source>
-        <translation type="unfinished">Размер пиктограмм</translation>
+        <translation type="obsolete">Размер пиктограмм</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Only display the icon</source>
-        <translation>Только иконки</translation>
+        <translation type="obsolete">Только иконки</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Only display the text</source>
-        <translation type="unfinished">Только текcт</translation>
+        <translation type="obsolete">Только текcт</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>The text appears beside the icon</source>
-        <translation>Текст сбоку от картинок</translation>
+        <translation type="obsolete">Текст сбоку от картинок</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>The text appears under the icon</source>
-        <translation>Текст под картинками</translation>
+        <translation type="obsolete">Текст под картинками</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Follow the style</source>
-        <translation>Следовать стилю</translation>
+        <translation type="obsolete">Следовать стилю</translation>
     </message>
     <message>
-        <location line="+12"/>
         <source>Tool button style</source>
-        <translation>Стиль кнопок &quot;инструментов&quot;</translation>
+        <translation type="obsolete">Стиль кнопок &quot;инструментов&quot;</translation>
     </message>
     <message>
         <source>Animated</source>

@@ -4,7 +4,7 @@
 <context>
     <name>AWNService</name>
     <message>
-        <location filename="../../plugins/awn/src/awnservice.cpp" line="+274"/>
+        <location filename="../../plugins/awn/src/awnservice.cpp" line="+275"/>
         <source>Show/Hide</source>
         <translation>Показать/Скрыть</translation>
     </message>
@@ -26,10 +26,11 @@
     <message>
         <location line="+1"/>
         <source>Exit QutIM</source>
-        <translation>Закрыть QutIM</translation>
-        <location filename="../../src/awnservice.cpp" line="278"/>
+        <translation type="unfinished">Закрыть qutIM</translation>
+    </message>
+    <message>
         <source>Exit qutIM</source>
-        <translation>Закрыть qutIM</translation>
+        <translation type="obsolete">Закрыть qutIM</translation>
     </message>
 </context>
 <context>

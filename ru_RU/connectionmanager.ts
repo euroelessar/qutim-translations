@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/connectionmanager.cpp" line="45"/>
+        <location filename="../../src/connectionmanager.cpp" line="+47"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -12,20 +12,33 @@
 <context>
     <name>ManagerSettings</name>
     <message>
-        <location filename="../../src/managersettings.ui" line="14"/>
+        <location filename="../../src/managersettings.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="../../src/managersettings.ui" line="42"/>
+        <location line="+28"/>
         <source>Autoconnect on startup</source>
         <translation>Подключаться при старте</translation>
     </message>
 </context>
 <context>
+    <name>Plugin</name>
+    <message>
+        <location filename="../../src/connectionmanager.cpp" line="-3"/>
+        <source>ConnectionManager</source>
+        <translation type="unfinished">Менеджер соединения</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Used to monitor the availability of network.</source>
+        <translation type="unfinished">Используется для отслеживания доступности сети.</translation>
+    </message>
+</context>
+<context>
     <name>Settings</name>
     <message>
-        <location filename="../../src/connectionmanager.cpp" line="61"/>
+        <location line="+18"/>
         <source>Connection manager</source>
         <translation>Менеджер подключений</translation>
     </message>
@@ -33,7 +46,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../src/connectionmanager.cpp" line="46"/>
+        <location line="-15"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>

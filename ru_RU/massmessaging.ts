@@ -2,9 +2,17 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="ru_RU">
 <context>
+    <name>Author</name>
+    <message>
+        <location filename="../../plugins/massmessaging/src/messaging.cpp" line="+14"/>
+        <source>Aleksey Sidorov</source>
+        <translation>Алексей Сидоров</translation>
+    </message>
+</context>
+<context>
     <name>Dialog</name>
     <message>
-        <location filename="../../src/messagingdialog.ui" line="+14"/>
+        <location filename="../../plugins/massmessaging/src/messagingdialog.ui" line="+14"/>
         <source>Multiply Sending</source>
         <translation>Спамилка</translation>
     </message>
@@ -69,15 +77,15 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MassMessaging</name>
     <message>
-        <location filename="../../src/messaging.cpp" line="+13"/>
+        <location filename="../../plugins/massmessaging/src/messaging.cpp" line="+12"/>
         <source>&amp;Mass Messaging</source>
-        <translation>Спамилка</translation>
+        <translation type="unfinished">&amp;Спамилка</translation>
     </message>
 </context>
 <context>
     <name>MassMessaging::MessagingDialog</name>
     <message>
-        <location filename="../../src/messagingdialog.cpp" line="+54"/>
+        <location filename="../../plugins/massmessaging/src/messagingdialog.cpp" line="+54"/>
         <source>Stop</source>
         <translation>Остановить</translation>
     </message>
@@ -100,6 +108,27 @@ p, li { white-space: pre-wrap; }
         <location line="+13"/>
         <source>Start</source>
         <translation>Спамить</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin</name>
+    <message>
+        <location filename="../../plugins/massmessaging/src/messaging.cpp" line="-8"/>
+        <source>MassMessaging</source>
+        <translation type="unfinished">Спамилка</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Simple messaging to contact list</source>
+        <translation type="unfinished">Простая отправка сообщений группам людей из списка контактов</translation>
+    </message>
+</context>
+<context>
+    <name>Task</name>
+    <message>
+        <location line="-4"/>
+        <source>Author</source>
+        <translation>Автор</translation>
     </message>
 </context>
 </TS>
