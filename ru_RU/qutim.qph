@@ -4303,4 +4303,12 @@ Accept invitation?</source>
     <source>About</source>
     <target>О себе</target>
 </phrase>
+<phrase>
+    <source>Nikita Belov</source>
+    <target>Никита Белов</target>
+</phrase>
+<phrase>
+    <source>Upload started.</source>
+    <target>Загрузка запущена.</target>
+</phrase>
 </QPH>

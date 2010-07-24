@@ -6,12 +6,20 @@
     <message>
         <location filename="../../plugins/qmlpopups/src/settings/popupappearance.ui" line="+20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>test</source>
-        <translation type="unfinished">Тест</translation>
+        <translation>Тест</translation>
+    </message>
+</context>
+<context>
+    <name>Author</name>
+    <message>
+        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+15"/>
+        <source>Aleksey Sidorov</source>
+        <translation>Алексей Сидоров</translation>
     </message>
 </context>
 <context>
@@ -22,16 +30,16 @@
     </message>
     <message>
         <source>Timeout, msec:</source>
-        <translation type="unfinished">Время, мс:</translation>
+        <translation type="obsolete">Время, мс:</translation>
     </message>
     <message>
         <source>No Animation</source>
         <translation type="obsolete">Без анимации</translation>
     </message>
     <message>
-	<source>Animation speed:</source>
-	<translation type="obsolete">Скорость анимации:</translation>
-	</message>
+        <source>Animation speed:</source>
+        <translation type="obsolete">Скорость анимации:</translation>
+    </message>
     <message>
         <source>Very fast</source>
         <translation type="obsolete">Очень быстро</translation>
@@ -50,10 +58,9 @@
     </message>
     <message>
         <source>Very slow</source>
-        <translation>Очень медленно</translation>
+        <translation type="obsolete">Очень медленно</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Custom</source>
         <translation type="obsolete">Иная скорость</translation>
     </message>
@@ -78,16 +85,15 @@
     </message>
     <message>
         <source>qutIM Launched</source>
-        <translation>qutIM запущен</translation>
+        <translation type="obsolete">qutIM запущен</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Message recieved</source>
-        <translation>Принято сообщение</translation>
+        <translation type="obsolete">Принято сообщение</translation>
     </message>
     <message>
-		<source>Message sent</source>
-		<translation type="obsolete">Сообщение отправленно</translation>
+        <source>Message sent</source>
+        <translation type="obsolete">Сообщение отправленно</translation>
     </message>
     <message>
         <source>System notification</source>
@@ -121,14 +127,18 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+12"/>
         <source>Qml popups</source>
-        <translation type="unfinished">Всплывающие уведомления Qml</translation>
+        <translation type="obsolete">Всплывающие уведомления Qml</translation>
+    </message>
+    <message>
+        <location line="-3"/>
+        <source>QmlPopups</source>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Modern popups, based on power of Qt Quick</source>
-        <translation type="unfinished">Современные всплывающие сообщения, основанные на Qt Quick</translation>
+        <translation>Современные всплывающие сообщения, основанные на Qt Quick</translation>
     </message>
 </context>
 <context>
@@ -136,7 +146,7 @@
     <message>
         <location filename="../../plugins/qmlpopups/src/popup.cpp" line="+74"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt; + %1 уведомлений &lt;/p&gt;</translation>
+        <translation>&lt;p&gt; + %1 уведомлений &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -146,7 +156,7 @@
         <location line="+64"/>
         <location line="+9"/>
         <source>Preview</source>
-        <translation type="unfinished">Тестовое уведомление</translation>
+        <translation>Тестовое уведомление</translation>
     </message>
     <message>
         <location line="-9"/>
@@ -178,20 +188,28 @@
     <message>
         <location filename="../../plugins/qmlpopups/src/backend.cpp" line="+35"/>
         <source>Popups</source>
-        <translation type="unfinished">Уведомления</translation>
+        <translation>Уведомления</translation>
+    </message>
+</context>
+<context>
+    <name>Task</name>
+    <message>
+        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+3"/>
+        <source>Author</source>
+        <translation>Автор</translation>
     </message>
 </context>
 <context>
     <name>plugin</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+2"/>
+        <location line="+3"/>
         <source>Qml popups</source>
-        <translation type="unfinished">Qml уведомления</translation>
+        <translation>Qml уведомления</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Modern popups, based on power of Qt Quick</source>
-        <translation type="unfinished">Современные уведомления, основанные на Qt Quick</translation>
+        <translation>Современные уведомления, основанные на Qt Quick</translation>
     </message>
     <message>
         <source>description</source>

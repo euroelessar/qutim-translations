@@ -22,8 +22,12 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location line="-10"/>
         <source>Yandex Narod</source>
+        <translation type="obsolete">Я.Народ</translation>
+    </message>
+    <message>
+        <location line="-10"/>
+        <source>YandexNarod</source>
         <translation>Я.Народ</translation>
     </message>
     <message>
@@ -54,7 +58,7 @@
         <translation>Отправить файл через Яндекс.Народ</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+5"/>
         <source>Yandex Narod</source>
         <translation>Я.Народ</translation>
     </message>
