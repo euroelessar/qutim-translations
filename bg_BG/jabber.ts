@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/jabber/src/jplugin.cpp" line="+27"/>
+        <location filename="../../protocols/jabber/src/jplugin.cpp" line="+30"/>
         <source>Denis Daschenko</source>
         <translation>Денис Дасченко</translation>
     </message>
@@ -1292,6 +1292,46 @@ Accept invitation?</source>
         <source>Implementation of XEP-0096</source>
         <translation>Реализация на XEP-0096</translation>
     </message>
+    <message>
+        <location line="+3"/>
+        <source>Jabber Personal Events support</source>
+        <translation>Поддръжка на лични събития в Jabber</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Implementation of personal events protocol</source>
+        <translation>Реализация на протокола за лични събития</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Jabber Personal Events support (Message filter factory)</source>
+        <translation>Поддръжка на лични събития (Филтриране на съобщения)</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Implementation detail for Jabber Personal Events support</source>
+        <translation>Реализация на лични събития (Филтриране на съобщения)</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Jabber User Mood support</source>
+        <translation>Поддръжка на потребителски настроения в Jabber</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Convertes internal XMPP data of mood to Qt data types</source>
+        <translation>Конвертира вътрешните XMPP данни за настроение в Qt даннови типове</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Jabber User Tune support</source>
+        <translation>Поддръжка на потребителски мелодии в Jabber</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Convertes internal XMPP data of tune to Qt data types</source>
+        <translation>Конвертира вътрешните XMPP данни за мелодия в Qt даннови типове</translation>
+    </message>
 </context>
 <context>
     <name>RoomConfig</name>
@@ -1407,7 +1447,7 @@ Accept invitation?</source>
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../protocols/jabber/src/jplugin.cpp" line="-53"/>
+        <location filename="../../protocols/jabber/src/jplugin.cpp" line="-69"/>
         <location line="+3"/>
         <location line="+3"/>
         <source>Author</source>
