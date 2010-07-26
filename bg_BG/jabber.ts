@@ -992,12 +992,12 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JRoster</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+151"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+182"/>
         <source>Not in list</source>
         <translation>Извън списъка</translation>
     </message>
     <message>
-        <location line="+84"/>
+        <location line="+114"/>
         <source>You were authorized</source>
         <translation>Дадено ви бе удостоверение</translation>
     </message>

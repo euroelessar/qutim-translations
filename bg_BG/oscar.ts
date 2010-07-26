@@ -4102,7 +4102,7 @@ p, li { white-space: pre-wrap; }
         <translation>В транспорта</translation>
     </message>
     <message>
-        <location line="+194"/>
+        <location line="+198"/>
         <location line="+29"/>
         <source>X-Status</source>
         <translation>Разширен статус</translation>

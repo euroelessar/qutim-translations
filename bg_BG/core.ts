@@ -1335,6 +1335,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>MetaContact</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/metacontacts/manager.cpp" line="+35"/>
+        <source>Split Metacontact</source>
+        <translation>Разделяне на метаконтакта</translation>
+    </message>
+</context>
+<context>
     <name>MigrationStartPage</name>
     <message>
         <location filename="../../qutim/src/corelayers/migration02x03/migrationstartpage.ui" line="+14"/>
@@ -1863,7 +1871,7 @@ p, li { white-space: pre-wrap; }
         <translation>Опростен диалог за добавяне на контакт</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/metacontacts/manager.cpp" line="+26"/>
+        <location filename="../../qutim/src/corelayers/metacontacts/manager.cpp" line="-6"/>
         <source>Simple MetaContacts</source>
         <translation>Опростени Метаконтакти</translation>
     </message>
