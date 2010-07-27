@@ -562,7 +562,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AccountCreatorProtocols</name>
     <message>
-        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+55"/>
+        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+58"/>
         <source>Select protocol</source>
         <translation>Избор на протокол</translation>
     </message>
@@ -1245,49 +1245,79 @@ p, li { white-space: pre-wrap; }
         <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location line="+38"/>
+        <location line="+19"/>
         <source>Select account:</source>
-        <translation>Сметка:</translation>
+        <translation>Избор на сметка:</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+77"/>
+        <source>Select bookmark:</source>
+        <translation>Избор на отметка:</translation>
+    </message>
+    <message>
         <source>Bookmarks:</source>
-        <translation>Отметки:</translation>
+        <translation type="obsolete">Отметки:</translation>
     </message>
     <message>
-        <location line="+36"/>
+        <location line="-21"/>
         <source>Save to bookmarks</source>
         <translation>Запис в отметките</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+40"/>
         <source>Enter</source>
-        <translation>Влизане</translation>
+        <translation type="obsolete">Влизане</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+36"/>
+        <source>Close</source>
+        <translation>Затваряне</translation>
+    </message>
+    <message>
+        <location line="+80"/>
         <source>Bookmarks</source>
         <translation>Отметки</translation>
     </message>
     <message>
-        <location line="+67"/>
+        <location line="+0"/>
+        <source>Recent</source>
+        <translation>Последни</translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>New groupchat</source>
+        <translation>Нов групов разговор</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Manage bookmarks</source>
+        <translation>Управление на отметки</translation>
+    </message>
+    <message>
+        <location line="+151"/>
+        <source>Add</source>
+        <translation>Добавяне</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Remove</source>
+        <translation>Премахване</translation>
+    </message>
+    <message>
+        <location line="-212"/>
         <source>Join</source>
         <translation>Присъединяване</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Search</source>
-        <translation>Търсене</translation>
+        <translation type="obsolete">Търсене</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Save</source>
-        <translation>Запис</translation>
+        <translation type="obsolete">Запис</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Delete</source>
-        <translation>Изтриване</translation>
+        <translation type="obsolete">Изтриване</translation>
     </message>
 </context>
 <context>
