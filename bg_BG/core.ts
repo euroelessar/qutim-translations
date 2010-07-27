@@ -562,7 +562,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AccountCreatorProtocols</name>
     <message>
-        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+59"/>
+        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+55"/>
         <source>Select protocol</source>
         <translation>Избор на протокол</translation>
     </message>
@@ -1093,7 +1093,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>DataForms</name>
     <message>
-        <location filename="../../qutim/src/corelayers/dataformsbackend/readonlydatalayout.cpp" line="+72"/>
+        <location filename="../../qutim/src/corelayers/dataformsbackend/readonlydatalayout.cpp" line="+71"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -1255,7 +1255,7 @@ p, li { white-space: pre-wrap; }
         <translation>Отметки:</translation>
     </message>
     <message>
-        <location line="+33"/>
+        <location line="+36"/>
         <source>Save to bookmarks</source>
         <translation>Запис в отметките</translation>
     </message>
@@ -1270,7 +1270,7 @@ p, li { white-space: pre-wrap; }
         <translation>Отметки</translation>
     </message>
     <message>
-        <location line="+66"/>
+        <location line="+67"/>
         <source>Join</source>
         <translation>Присъединяване</translation>
     </message>

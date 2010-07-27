@@ -387,17 +387,21 @@
 <context>
     <name>IRC</name>
     <message>
-        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+60"/>
         <source>Join channel...</source>
-        <translation>Присъединяване към канал...</translation>
+        <translation type="obsolete">Присъединяване към канал...</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+59"/>
         <source>Show console...</source>
         <translation>Показване на конзолата...</translation>
     </message>
     <message>
-        <location line="+84"/>
+        <location line="+6"/>
+        <source>Search channel...</source>
+        <translation>Търсене на канал...</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/irc/src/ircaccount.cpp" line="+338"/>
         <source>Join channel</source>
         <translation>Присъединяване към канал</translation>
     </message>
@@ -511,6 +515,29 @@
     </message>
 </context>
 <context>
+    <name>IrcChannelListForm</name>
+    <message>
+        <location filename="../../protocols/irc/src/ui/ircchannellist.ui" line="+14"/>
+        <source>Form</source>
+        <translation>Канали</translation>
+    </message>
+    <message>
+        <location line="+41"/>
+        <source>Channel</source>
+        <translation>Канал</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Users</source>
+        <translation>Потребители</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Topic</source>
+        <translation>Тема</translation>
+    </message>
+</context>
+<context>
     <name>IrcConsoleForm</name>
     <message>
         <location filename="../../protocols/irc/src/ui/console.ui" line="+14"/>
@@ -558,20 +585,38 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcAccount</name>
     <message>
-        <location filename="../../protocols/irc/src/ircaccount.cpp" line="+77"/>
+        <location filename="../../protocols/irc/src/ircaccount.cpp" line="-264"/>
         <source>Away</source>
         <translation>Отсъствам</translation>
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::irc::IrcChannelListForm</name>
+    <message>
+        <location filename="../../protocols/irc/src/ui/ircchannellist.cpp" line="+49"/>
+        <source>Fetching channels list...</source>
+        <translation>Изтегляне на списъка с канали...</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Channels list loaded. (%1)</source>
+        <translation>Списъкът с канали е зареден. (%1)</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Fetching channels list... (%1)</source>
+        <translation>Изтегляне на списъка с канали... (%1)</translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+141"/>
+        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+148"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
     </message>
     <message>
-        <location line="+118"/>
+        <location line="+121"/>
         <source>Message of the day:</source>
         <translation>Съобщение за деня:</translation>
     </message>
@@ -580,8 +625,26 @@
         <source>End of message of the day</source>
         <translation>Край на съобщението за деня</translation>
     </message>
+    <message>
+        <location line="+6"/>
+        <location line="+17"/>
+        <source>End of /LIST</source>
+        <translation>Край на /LIST</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Bad list syntax, type /QUOTE HELP LIST</source>
+        <translation>Грешен синтаксис, напишете /QUOTE HELP LIST</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Server load is temporarily too heavy.
+Please wait a while and try again.</source>
+        <translation>Временно сървърът е натоврен.
+Моля, изчакайте малко и опитайте отново.</translation>
+    </message>
     <message numerus="yes">
-        <location line="+36"/>
+        <location line="+37"/>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
         <translation>
             <numerusform>Получен CTCP-PING отговор от %1: %2 секунда</numerusform>
