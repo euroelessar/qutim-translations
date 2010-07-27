@@ -12,7 +12,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+124"/>
+        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+150"/>
         <source>Activity</source>
         <translation>Дейност</translation>
     </message>
@@ -201,17 +201,15 @@
 <context>
     <name>VConnectionPrivate</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vconnection.cpp" line="+34"/>
         <source>Error! (TODO)</source>
-        <translation>Грешка</translation>
+        <translation type="obsolete">Грешка</translation>
     </message>
 </context>
 <context>
     <name>VRosterPrivate</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vroster.cpp" line="+36"/>
         <source>Friends</source>
-        <translation>Приятели</translation>
+        <translation type="obsolete">Приятели</translation>
     </message>
 </context>
 <context>
