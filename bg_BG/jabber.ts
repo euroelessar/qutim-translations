@@ -326,12 +326,13 @@
     </message>
     <message>
         <location filename="../../protocols/jabber/src/protocol/account/muc/jmucjoinmodule.cpp" line="+16"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+202"/>
         <source>Join groupchat</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
         <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+3"/>
-        <location line="+190"/>
+        <location line="+192"/>
         <source>Join to conference</source>
         <translation>Присъединяване към конференция</translation>
     </message>
@@ -345,8 +346,8 @@
         <translation type="obsolete">Копиране на адреса на стаята в клип-борда</translation>
     </message>
     <message>
-        <location line="-179"/>
-        <location line="+188"/>
+        <location line="-181"/>
+        <location line="+190"/>
         <source>Save to bookmarks</source>
         <translation>Запазване в отметките</translation>
     </message>
@@ -356,9 +357,26 @@
         <translation>Премахване от отметките</translation>
     </message>
     <message>
-        <location line="-196"/>
+        <location line="-198"/>
         <source>Room&apos;s configuration</source>
         <translation>Настройване на стаята</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+213"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+2"/>
+        <source>Conference</source>
+        <translation>Конференция</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+6"/>
+        <source>Nick</source>
+        <translation>Псевдоним</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+4"/>
+        <source>Password</source>
+        <translation>Парола</translation>
     </message>
 </context>
 <context>
@@ -729,7 +747,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCManager</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+84"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-130"/>
         <source>Join groupchat on</source>
         <translation>Присъединяване към групов разговор за</translation>
     </message>

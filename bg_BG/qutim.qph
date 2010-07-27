@@ -2712,4 +2712,8 @@
     <source>Bookmarks</source>
     <target>Отметки</target>
 </phrase>
+<phrase>
+    <source>Conference</source>
+    <target>Конференция</target>
+</phrase>
 </QPH>

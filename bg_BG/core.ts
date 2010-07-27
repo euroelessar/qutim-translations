@@ -445,7 +445,7 @@ p, li { white-space: pre-wrap; }
         <translation>Основна</translation>
     </message>
     <message>
-        <location line="+121"/>
+        <location line="+125"/>
         <source>Show information</source>
         <translation>Показване на информация</translation>
     </message>
@@ -1245,7 +1245,7 @@ p, li { white-space: pre-wrap; }
         <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location line="+35"/>
+        <location line="+38"/>
         <source>Select account:</source>
         <translation>Сметка:</translation>
     </message>
@@ -1260,7 +1260,7 @@ p, li { white-space: pre-wrap; }
         <translation>Запис в отметките</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+57"/>
+        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+40"/>
         <source>Enter</source>
         <translation>Влизане</translation>
     </message>
@@ -1270,7 +1270,7 @@ p, li { white-space: pre-wrap; }
         <translation>Отметки</translation>
     </message>
     <message>
-        <location line="+56"/>
+        <location line="+66"/>
         <source>Join</source>
         <translation>Присъединяване</translation>
     </message>
@@ -1689,7 +1689,7 @@ p, li { white-space: pre-wrap; }
         <translation>Модул за миграция от 0.2 към 0.3</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="-274"/>
+        <location filename="../../qutim/src/corelayers/contactinfo/contactinfo.cpp" line="-278"/>
         <source>Simple information window about a contact</source>
         <translation>Опростен прозорец с информация за контакта</translation>
     </message>
