@@ -1245,12 +1245,12 @@ p, li { white-space: pre-wrap; }
         <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location line="+19"/>
+        <location line="+16"/>
         <source>Select account:</source>
         <translation>Избор на сметка:</translation>
     </message>
     <message>
-        <location line="+77"/>
+        <location line="+80"/>
         <source>Select bookmark:</source>
         <translation>Избор на отметка:</translation>
     </message>
@@ -1268,32 +1268,42 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Влизане</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+36"/>
+        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+35"/>
         <source>Close</source>
         <translation>Затваряне</translation>
     </message>
     <message>
-        <location line="+80"/>
+        <location line="+81"/>
         <source>Bookmarks</source>
         <translation>Отметки</translation>
     </message>
     <message>
         <location line="+0"/>
+        <location line="+53"/>
         <source>Recent</source>
         <translation>Последни</translation>
     </message>
     <message>
-        <location line="+31"/>
-        <source>New groupchat</source>
-        <translation>Нов групов разговор</translation>
+        <location line="-26"/>
+        <source>Join to a new groupchat</source>
+        <translation>Присъединяване към нов групов разговор</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <source>New groupchat</source>
+        <translation type="obsolete">Нов групов разговор</translation>
+    </message>
+    <message>
+        <location line="+4"/>
         <source>Manage bookmarks</source>
         <translation>Управление на отметки</translation>
     </message>
     <message>
-        <location line="+151"/>
+        <location line="+1"/>
+        <source>Edit saved bookmarks</source>
+        <translation>Редактиране на съхранените отметки</translation>
+    </message>
+    <message>
+        <location line="+158"/>
         <source>Add</source>
         <translation>Добавяне</translation>
     </message>
@@ -1303,7 +1313,8 @@ p, li { white-space: pre-wrap; }
         <translation>Премахване</translation>
     </message>
     <message>
-        <location line="-212"/>
+        <location line="-218"/>
+        <location line="+52"/>
         <source>Join</source>
         <translation>Присъединяване</translation>
     </message>
