@@ -391,7 +391,7 @@
         <translation type="obsolete">Присъединяване към канал...</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+59"/>
+        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+61"/>
         <source>Show console...</source>
         <translation>Показване на конзолата...</translation>
     </message>
@@ -401,7 +401,7 @@
         <translation>Търсене на канал...</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircaccount.cpp" line="+338"/>
+        <location filename="../../protocols/irc/src/ircaccount.cpp" line="+253"/>
         <source>Join channel</source>
         <translation>Присъединяване към канал</translation>
     </message>
@@ -522,19 +522,16 @@
         <translation>Канали</translation>
     </message>
     <message>
-        <location line="+41"/>
         <source>Channel</source>
-        <translation>Канал</translation>
+        <translation type="obsolete">Канал</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Users</source>
-        <translation>Потребители</translation>
+        <translation type="obsolete">Потребители</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Topic</source>
-        <translation>Тема</translation>
+        <translation type="obsolete">Тема</translation>
     </message>
 </context>
 <context>
@@ -583,9 +580,27 @@
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::irc::ChannelsModel</name>
+    <message>
+        <location filename="../../protocols/irc/src/ui/ircchannellist.cpp" line="+81"/>
+        <source>Channel</source>
+        <translation>Канал</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Users</source>
+        <translation>Потребители</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Topic</source>
+        <translation>Тема</translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::irc::IrcAccount</name>
     <message>
-        <location filename="../../protocols/irc/src/ircaccount.cpp" line="-264"/>
+        <location filename="../../protocols/irc/src/ircaccount.cpp" line="-180"/>
         <source>Away</source>
         <translation>Отсъствам</translation>
     </message>
@@ -593,12 +608,12 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcChannelListForm</name>
     <message>
-        <location filename="../../protocols/irc/src/ui/ircchannellist.cpp" line="+49"/>
+        <location filename="../../protocols/irc/src/ui/ircchannellist.cpp" line="+93"/>
         <source>Fetching channels list...</source>
         <translation>Изтегляне на списъка с канали...</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+7"/>
         <source>Channels list loaded. (%1)</source>
         <translation>Списъкът с канали е зареден. (%1)</translation>
     </message>
@@ -627,7 +642,7 @@
     </message>
     <message>
         <location line="+6"/>
-        <location line="+17"/>
+        <location line="+16"/>
         <source>End of /LIST</source>
         <translation>Край на /LIST</translation>
     </message>
