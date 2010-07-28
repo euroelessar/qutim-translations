@@ -143,17 +143,21 @@
     </message>
     <message>
         <location line="+1"/>
-        <location line="+12"/>
         <source>Simple implementation of vkontakte, based on userapi.ru</source>
         <translation>Опростена реализация на ВКонтакте, на базата на userapi.ru</translation>
     </message>
     <message>
-        <location line="-1"/>
+        <location line="+11"/>
         <source>vkontakte</source>
         <translation>ВКонтакте</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+1"/>
+        <source>Simple implementation of vkontakte, based on desktop.api</source>
+        <translation>Опростена реализация на ВКонтакте, на базата на desktop.api</translation>
+    </message>
+    <message>
+        <location line="+4"/>
         <source>Vkontakte account creator</source>
         <translation>Създаване на ВКонтакте сметка</translation>
     </message>
