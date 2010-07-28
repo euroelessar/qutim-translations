@@ -1211,13 +1211,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message utf8="true">
         <location line="+18"/>
-        <location line="+30"/>
+        <location line="+24"/>
         <source>Set status «%1» after:</source>
         <translation>Установяване на статуса в &quot;%1&quot; след:</translation>
     </message>
     <message>
-        <location line="-23"/>
-        <location line="+30"/>
+        <location line="-17"/>
+        <location line="+24"/>
         <source> min</source>
         <comment>seconds</comment>
         <translation> мин</translation>
@@ -1268,12 +1268,18 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Влизане</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+35"/>
+        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+34"/>
+        <location line="+52"/>
         <source>Close</source>
         <translation>Затваряне</translation>
     </message>
     <message>
-        <location line="+81"/>
+        <location line="+8"/>
+        <source>Back</source>
+        <translation>Назад</translation>
+    </message>
+    <message>
+        <location line="+32"/>
         <source>Bookmarks</source>
         <translation>Отметки</translation>
     </message>
@@ -1303,7 +1309,7 @@ p, li { white-space: pre-wrap; }
         <translation>Редактиране на съхранените отметки</translation>
     </message>
     <message>
-        <location line="+158"/>
+        <location line="+161"/>
         <source>Add</source>
         <translation>Добавяне</translation>
     </message>
@@ -1313,7 +1319,7 @@ p, li { white-space: pre-wrap; }
         <translation>Премахване</translation>
     </message>
     <message>
-        <location line="-218"/>
+        <location line="-221"/>
         <location line="+52"/>
         <source>Join</source>
         <translation>Присъединяване</translation>
