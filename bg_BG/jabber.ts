@@ -358,12 +358,12 @@
     <message>
         <location line="+2"/>
         <source>Autojoin</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматично присъединяване</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Да</translation>
     </message>
     <message>
         <location line="+17"/>
