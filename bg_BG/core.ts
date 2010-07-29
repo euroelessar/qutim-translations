@@ -2,6 +2,24 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="bg_BG">
 <context>
+    <name>Account</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+30"/>
+        <source>Add new account</source>
+        <translation>Добавяне на нова сметка</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Just add or create new account</source>
+        <translation>Добавяне или създаване на нова сметка</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Accounts</source>
+        <translation>Сметки</translation>
+    </message>
+</context>
+<context>
     <name>AccountCreatorList</name>
     <message>
         <source>Add</source>
@@ -539,17 +557,15 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AccountCreatorList</name>
     <message>
-        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+31"/>
         <source>Add new account</source>
-        <translation>Добавяне на нова сметка</translation>
+        <translation type="obsolete">Добавяне на нова сметка</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Just add or create new account</source>
-        <translation>Добавяне или създаване на нова сметка</translation>
+        <translation type="obsolete">Добавяне или създаване на нова сметка</translation>
     </message>
     <message>
-        <location line="+76"/>
+        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+95"/>
         <source>Edit info</source>
         <translation>Редактиране на информацията</translation>
     </message>
@@ -557,6 +573,16 @@ p, li { white-space: pre-wrap; }
         <location line="+5"/>
         <source>Remove account</source>
         <translation>Премахване на сметка</translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>Delete account</source>
+        <translation>Изтриване на сметка</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Are you sure want to delete %1</source>
+        <translation>Сигурни ли сте, че желаете да изтриете %1</translation>
     </message>
 </context>
 <context>
@@ -2135,7 +2161,7 @@ p, li { white-space: pre-wrap; }
         <translation>Четвърто тримесечие</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+410"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+411"/>
         <source>Copy %1 to clipboard</source>
         <translation>Копиране на %1 в клипборда</translation>
     </message>
