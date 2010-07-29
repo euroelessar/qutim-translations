@@ -576,7 +576,7 @@
     <message>
         <location filename="../../protocols/irc/src/irccommandalias.cpp" line="+71"/>
         <source>Not enough parameters for command %1</source>
-        <translation type="unfinished">Липсват достатъчно параметри за командата %1</translation>
+        <translation>Липсват достатъчно параметри за командата %1</translation>
     </message>
 </context>
 <context>
@@ -677,7 +677,7 @@ Please wait a while and try again.</source>
     <message>
         <location line="+6"/>
         <source>Received CTCP-%1 reply from %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Получен CTCP-%1 отговор от %2: %3</translation>
     </message>
     <message>
         <source>Not enough parameters for command %1</source>
