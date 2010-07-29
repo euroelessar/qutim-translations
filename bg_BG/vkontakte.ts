@@ -244,6 +244,14 @@
     </message>
 </context>
 <context>
+    <name>VkontakteProtocol</name>
+    <message>
+        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+76"/>
+        <source>Email</source>
+        <translation>Email</translation>
+    </message>
+</context>
+<context>
     <name>VprotocolWrap</name>
     <message>
         <location filename="../../protocols/vkontakte/protocol/vprotocolwrap.cpp" line="+159"/>
