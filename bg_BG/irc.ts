@@ -391,7 +391,7 @@
         <translation type="obsolete">Присъединяване към канал...</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+61"/>
+        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+56"/>
         <source>Show console...</source>
         <translation>Показване на конзолата...</translation>
     </message>
@@ -572,9 +572,17 @@
     </message>
 </context>
 <context>
+    <name>QObject</name>
+    <message>
+        <location filename="../../protocols/irc/src/irccommandalias.cpp" line="+71"/>
+        <source>Not enough parameters for command %1</source>
+        <translation type="unfinished">Липсват достатъчно параметри за командата %1</translation>
+    </message>
+</context>
+<context>
     <name>Task</name>
     <message>
-        <location line="-7"/>
+        <location filename="../../protocols/irc/src/ircplugin.cpp" line="-7"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -626,7 +634,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+148"/>
+        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+165"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
     </message>
@@ -641,8 +649,8 @@
         <translation>Край на съобщението за деня</translation>
     </message>
     <message>
-        <location line="+6"/>
-        <location line="+16"/>
+        <location line="+7"/>
+        <location line="+18"/>
         <source>End of /LIST</source>
         <translation>Край на /LIST</translation>
     </message>
@@ -659,7 +667,7 @@ Please wait a while and try again.</source>
 Моля, изчакайте малко и опитайте отново.</translation>
     </message>
     <message numerus="yes">
-        <location line="+37"/>
+        <location line="+44"/>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
         <translation>
             <numerusform>Получен CTCP-PING отговор от %1: %2 секунда</numerusform>
@@ -667,9 +675,13 @@ Please wait a while and try again.</source>
         </translation>
     </message>
     <message>
-        <location line="+36"/>
+        <location line="+6"/>
+        <source>Received CTCP-%1 reply from %2: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Not enough parameters for command %1</source>
-        <translation>Липсват достатъчно параметри за командата %1</translation>
+        <translation type="obsolete">Липсват достатъчно параметри за командата %1</translation>
     </message>
 </context>
 </TS>

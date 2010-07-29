@@ -13,6 +13,7 @@
     <name>Dialog</name>
     <message>
         <location filename="../../plugins/massmessaging/src/messagingdialog.ui" line="+14"/>
+        <location filename="../../plugins/massmessaging/build/ui_messagingdialog.h" line="+183"/>
         <source>Multiply Sending</source>
         <translation>Многократно изпращане</translation>
     </message>
@@ -22,21 +23,25 @@
     </message>
     <message>
         <location line="+60"/>
+        <location filename="../../plugins/massmessaging/build/ui_messagingdialog.h" line="+1"/>
         <source>Message</source>
         <translation>Съобщение</translation>
     </message>
     <message>
         <location line="+30"/>
+        <location filename="../../plugins/massmessaging/build/ui_messagingdialog.h" line="+1"/>
         <source>15</source>
         <translation>15</translation>
     </message>
     <message>
         <location line="+16"/>
+        <location filename="../../plugins/massmessaging/build/ui_messagingdialog.h" line="+1"/>
         <source>Interval (in seconds):</source>
         <translation>Интервал (в сек.):</translation>
     </message>
     <message>
         <location line="+22"/>
+        <location filename="../../plugins/massmessaging/build/ui_messagingdialog.h" line="+1"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -60,6 +65,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+28"/>
+        <location filename="../../plugins/massmessaging/build/ui_messagingdialog.h" line="+11"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -81,6 +87,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+59"/>
+        <location filename="../../plugins/massmessaging/build/ui_messagingdialog.h" line="+6"/>
         <source>Send</source>
         <translation>Изпращане</translation>
     </message>

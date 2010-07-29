@@ -483,7 +483,7 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Настройки...</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+6"/>
         <source>Main menu</source>
         <translation>Основно меню</translation>
     </message>
@@ -503,7 +503,7 @@ p, li { white-space: pre-wrap; }
         <translation>Скриване на контактите извън линия</translation>
     </message>
     <message>
-        <location line="-136"/>
+        <location line="-137"/>
         <source>Copy id to clipboard</source>
         <translation>Копиране в клипборда</translation>
     </message>
@@ -1059,7 +1059,7 @@ p, li { white-space: pre-wrap; }
         <translation>Главна лентата с инструменти</translation>
     </message>
     <message>
-        <location line="+55"/>
+        <location line="+56"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
@@ -1240,7 +1240,7 @@ p, li { white-space: pre-wrap; }
     <name>JoinGroupChat</name>
     <message>
         <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.ui" line="+14"/>
-        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp" line="+45"/>
+        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp" line="+78"/>
         <source>Join groupchat</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>
@@ -1268,7 +1268,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Влизане</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+34"/>
+        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+50"/>
         <location line="+52"/>
         <source>Close</source>
         <translation>Затваряне</translation>
@@ -1285,31 +1285,39 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+0"/>
-        <location line="+53"/>
+        <location line="+55"/>
         <source>Recent</source>
         <translation>Последни</translation>
     </message>
     <message>
         <location line="-26"/>
+        <source>Join an existing or create a new groupchat</source>
+        <translation>Присъединяване към съществуващ или създаване нов групов разговор</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Create, edit, or delete saved bookmarks</source>
+        <translation>Създаване, редактиране или изтриване на отметки</translation>
+    </message>
+    <message>
         <source>Join to a new groupchat</source>
-        <translation>Присъединяване към нов групов разговор</translation>
+        <translation type="obsolete">Присъединяване към нов групов разговор</translation>
     </message>
     <message>
         <source>New groupchat</source>
         <translation type="obsolete">Нов групов разговор</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="-1"/>
         <source>Manage bookmarks</source>
         <translation>Управление на отметки</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Edit saved bookmarks</source>
-        <translation>Редактиране на съхранените отметки</translation>
+        <translation type="obsolete">Редактиране на съхранените отметки</translation>
     </message>
     <message>
-        <location line="+161"/>
+        <location line="+162"/>
         <source>Add</source>
         <translation>Добавяне</translation>
     </message>
@@ -1319,8 +1327,8 @@ p, li { white-space: pre-wrap; }
         <translation>Премахване</translation>
     </message>
     <message>
-        <location line="-221"/>
-        <location line="+52"/>
+        <location line="-223"/>
+        <location line="+54"/>
         <source>Join</source>
         <translation>Присъединяване</translation>
     </message>
@@ -1538,7 +1546,7 @@ p, li { white-space: pre-wrap; }
         <translation>PList конфигурация</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-211"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-212"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
@@ -1938,7 +1946,7 @@ p, li { white-space: pre-wrap; }
         <translation>Автоматична промяна на статусите на сметките при бездействие</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp" line="-35"/>
+        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp" line="-51"/>
         <source>Join GroupChat dialog</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>
@@ -2127,7 +2135,7 @@ p, li { white-space: pre-wrap; }
         <translation>Четвърто тримесечие</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+409"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+410"/>
         <source>Copy %1 to clipboard</source>
         <translation>Копиране на %1 в клипборда</translation>
     </message>

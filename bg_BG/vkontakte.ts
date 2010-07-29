@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+12"/>
+        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+27"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+150"/>
+        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+165"/>
         <source>Activity</source>
         <translation>Дейност</translation>
     </message>
