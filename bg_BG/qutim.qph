@@ -2716,4 +2716,8 @@
     <source>Conference</source>
     <target>Конференция</target>
 </phrase>
+<phrase>
+    <source>Business</source>
+    <target>Бизнес</target>
+</phrase>
 </QPH>

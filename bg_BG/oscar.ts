@@ -2347,7 +2347,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Business</source>
-        <translation>Имам работа</translation>
+        <translation>Бизнес</translation>
     </message>
     <message>
         <location line="+1"/>

@@ -293,7 +293,7 @@ p, li { white-space: pre-wrap; }
         <translation>Преглед на хронологията</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/abstractchatwidget.cpp" line="+184"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/abstractchatwidget.cpp" line="+178"/>
         <source>Emoticons</source>
         <translation>Емотикони</translation>
     </message>
@@ -380,7 +380,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+518"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+562"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -612,12 +612,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::AbstractChatWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/abstractchatwidget.cpp" line="-130"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/abstractchatwidget.cpp" line="-124"/>
         <source>Chat</source>
         <translation>Разговор</translation>
     </message>
     <message>
-        <location line="+47"/>
+        <location line="+41"/>
         <source>Unable to send empty message!</source>
         <translation>Невъзможно е изпрщането на празно съобщение!</translation>
     </message>
@@ -689,12 +689,12 @@ p, li { white-space: pre-wrap; }
         <translation>Вася Пупкин</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+11"/>
         <source>Noname</source>
         <translation>Безименен</translation>
     </message>
     <message>
-        <location line="+65"/>
+        <location line="+73"/>
         <location line="+75"/>
         <source>Unable to create chat session</source>
         <translation>Невъзможно е създаването на сесия за разговор</translation>
@@ -2486,7 +2486,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>XSettingsDialog</name>
     <message>
-        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="+52"/>
+        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="+53"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
@@ -2526,12 +2526,12 @@ p, li { white-space: pre-wrap; }
         <translation>Допълнителни настройки на добавките</translation>
     </message>
     <message>
-        <location line="+115"/>
+        <location line="+122"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки на qutIM - %1</translation>
     </message>
     <message>
-        <location line="+29"/>
+        <location line="+37"/>
         <source>Apply Settings - System Settings</source>
         <translation>Прилагане на настройките - Системни настройки</translation>
     </message>

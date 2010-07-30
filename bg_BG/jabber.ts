@@ -344,7 +344,7 @@
         <translation>Настройване на стаята</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+214"/>
+        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+219"/>
         <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+8"/>
         <source>Conference</source>
         <translation>Конференция</translation>
@@ -926,12 +926,12 @@ Accept invitation?</source>
         <translation> модератор</translation>
     </message>
     <message>
-        <location line="+103"/>
+        <location line="+104"/>
         <source>Subject:</source>
         <translation>Тема:</translation>
     </message>
     <message>
-        <location line="+21"/>
+        <location line="+22"/>
         <source>Not authorized: Password required.</source>
         <translation>Липсва удостоверение: Изисква се парола.</translation>
     </message>
