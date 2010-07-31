@@ -586,7 +586,7 @@
 <context>
     <name>ContactSearch</name>
     <message>
-        <location filename="../../protocols/oscar/src/contactsearch.cpp" line="+76"/>
+        <location filename="../../protocols/oscar/src/contactsearch.cpp" line="+72"/>
         <source>UIN</source>
         <translation>UIN</translation>
     </message>

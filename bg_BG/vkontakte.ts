@@ -10,9 +10,112 @@
     </message>
 </context>
 <context>
+    <name>ContactInfo</name>
+    <message>
+        <location filename="../../protocols/vkontakte/src/vinforequest.cpp" line="+52"/>
+        <source>Nickname</source>
+        <translation>Псевдоним</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>First name</source>
+        <translation>Име</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Last name</source>
+        <translation>Фамилия</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Gender</source>
+        <translation>Пол</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Birthday</source>
+        <translation>Роден</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>City</source>
+        <translation>Град</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Country</source>
+        <translation>Държава</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Photo</source>
+        <translation>Снимка</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Home phone</source>
+        <translation>Телефон (дом.)</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Mobile phone</source>
+        <translation>Телефон (моб.)</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>University</source>
+        <translation>Университет</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Faculty</source>
+        <translation>Факултет</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Graduation year</source>
+        <translation>Година на завършване</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Undefined</source>
+        <translation>Незададен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Female</source>
+        <translation>Жена</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Male</source>
+        <translation>Мъж</translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>General</source>
+        <translation>Обща</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Person</source>
+        <translation>Човек</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Home address</source>
+        <translation>Домашен адрес</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Education</source>
+        <translation>Образование</translation>
+    </message>
+</context>
+<context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+165"/>
+        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+177"/>
         <source>Activity</source>
         <translation>Дейност</translation>
     </message>
@@ -203,6 +306,14 @@
     </message>
 </context>
 <context>
+    <name>VConnection</name>
+    <message>
+        <location filename="../../protocols/vkontakte/src/vconnection.cpp" line="+122"/>
+        <source>qutIM - VKontakte authorization</source>
+        <translation>qutIM -ВКонтакте удостоверяване</translation>
+    </message>
+</context>
+<context>
     <name>VConnectionPrivate</name>
     <message>
         <source>Error! (TODO)</source>
@@ -246,7 +357,7 @@
 <context>
     <name>VkontakteProtocol</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+76"/>
+        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+79"/>
         <source>Email</source>
         <translation>Email</translation>
     </message>
