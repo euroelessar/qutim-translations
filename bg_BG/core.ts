@@ -486,7 +486,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+112"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+111"/>
         <source>Change global status</source>
         <translation>Промяна на общия статус</translation>
     </message>
@@ -521,12 +521,12 @@ p, li { white-space: pre-wrap; }
         <translation>Скриване на контактите извън линия</translation>
     </message>
     <message>
-        <location line="-137"/>
+        <location line="-136"/>
         <source>Copy id to clipboard</source>
         <translation>Копиране в клипборда</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+716"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+719"/>
         <source>Remove contact</source>
         <translation>Прeмахване на контакта</translation>
     </message>
@@ -536,7 +536,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавяне в списъка с контакти</translation>
     </message>
     <message>
-        <location line="-660"/>
+        <location line="-663"/>
         <source>Rename contact</source>
         <translation>Преименуване на контакта</translation>
     </message>
@@ -549,7 +549,8 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactSearch</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactsearch/contactsearchlayer.cpp" line="+267"/>
+        <location filename="../../qutim/src/corelayers/searchdialog/searchdialoglayer.cpp" line="+37"/>
+        <location line="+22"/>
         <source>Search contact</source>
         <translation>Търсене на контакт</translation>
     </message>
@@ -1047,7 +1048,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+576"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+579"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
         <translation>Желаете ли да обедините контактите &quot;%1&quot; &lt;%2&gt; и &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
@@ -1080,7 +1081,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+96"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+95"/>
         <source>Main Toolbar</source>
         <translation>Главна лентата с инструменти</translation>
     </message>
@@ -1147,6 +1148,24 @@ p, li { white-space: pre-wrap; }
         <location line="+2"/>
         <source>Images (*.gif *.bmp *.jpg *.jpeg *.png);;All files (*.*)</source>
         <translation>Изображения (*.gif *.bmp *.jpg *.jpeg *.png);;Всички файлове (*.*)</translation>
+    </message>
+</context>
+<context>
+    <name>DefaultSearchForm</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/searchdialog/defaultform/defaultsearchform.ui" line="+20"/>
+        <source>Search window</source>
+        <translation>Търсене</translation>
+    </message>
+    <message>
+        <location line="+64"/>
+        <source>Search</source>
+        <translation>Търсене</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Cancel</source>
+        <translation>Отказ</translation>
     </message>
 </context>
 <context>
@@ -1447,6 +1466,24 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>MobileSearchForm</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/searchdialog/mobileform/mobilesearchform.ui" line="+20"/>
+        <source>Search window</source>
+        <translation>Търсене</translation>
+    </message>
+    <message>
+        <location line="+56"/>
+        <source>Search</source>
+        <translation>Търсене</translation>
+    </message>
+    <message>
+        <location line="+56"/>
+        <source>Back</source>
+        <translation>Назад</translation>
+    </message>
+</context>
+<context>
     <name>Notifications</name>
     <message>
         <location filename="../../qutim/src/corelayers/notificationssettings/popupbehavior.cpp" line="+29"/>
@@ -1572,7 +1609,7 @@ p, li { white-space: pre-wrap; }
         <translation>PList конфигурация</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-212"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-211"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
@@ -1922,14 +1959,12 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM реализация на прозореца на разговори</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactsearch/contactsearchlayer.cpp" line="-253"/>
         <source>Contact search</source>
-        <translation>Търсене на контакти</translation>
+        <translation type="obsolete">Търсене на контакти</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Default qutIM implementation of contact search window</source>
-        <translation>Подразбираща се за qutIM реализация на прозорец за търсене на контакти</translation>
+        <translation type="obsolete">Подразбираща се за qutIM реализация на прозорец за търсене на контакти</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/dataformsbackend/dataformsbackend.cpp" line="+13"/>
@@ -1980,6 +2015,32 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Simple groupchat join dialog</source>
         <translation>Опростен диалог за присъединяване към групов разговор</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/searchdialog/defaultform/defaultsearchform.cpp" line="+24"/>
+        <location line="+1"/>
+        <source>Default search form</source>
+        <translation>Подразбиращ се формуляр за търсене</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp" line="+24"/>
+        <source>Mobile search form</source>
+        <translation>Формуляр за търсене за мобилни устройства</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Search form for mobile phones</source>
+        <translation>Формуляр за търсене за мобилни устройства</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/searchdialog/searchdialoglayer.cpp" line="-33"/>
+        <source>Search window</source>
+        <translation>Прозорец за търсене</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Default qutIM implementation of search window</source>
+        <translation>Подразбираща се за qutIM реализация на прозорец за търсене</translation>
     </message>
 </context>
 <context>
@@ -2161,7 +2222,7 @@ p, li { white-space: pre-wrap; }
         <translation>Четвърто тримесечие</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+411"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+410"/>
         <source>Copy %1 to clipboard</source>
         <translation>Копиране на %1 в клипборда</translation>
     </message>
@@ -2169,24 +2230,20 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>SearchContactForm</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactsearch/searchcontactform.ui" line="+20"/>
         <source>Search contact</source>
-        <translation>Търсене на контакт</translation>
+        <translation type="obsolete">Търсене на контакт</translation>
     </message>
     <message>
-        <location line="+58"/>
         <source>Search</source>
-        <translation>Търсене</translation>
+        <translation type="obsolete">Търсене</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Cancel</source>
-        <translation>Отказ</translation>
+        <translation type="obsolete">Отказ</translation>
     </message>
     <message>
-        <location line="+56"/>
         <source>Add contact</source>
-        <translation>Добавяне на контакт</translation>
+        <translation type="obsolete">Добавяне на контакт</translation>
     </message>
 </context>
 <context>
@@ -2631,6 +2688,14 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/emoticonssettings/emoticonsselector.ui" line="+14"/>
         <source>Form</source>
         <translation>Избор на емотикони</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::ContactSearchRequest</name>
+    <message>
+        <location filename="../../qutim/libqutim/contactsearch.cpp" line="+62"/>
+        <source>Add contact</source>
+        <translation>Добавяне на контакт</translation>
     </message>
 </context>
 <context>
