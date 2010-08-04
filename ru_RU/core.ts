@@ -2150,7 +2150,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+56"/>
         <source>Add contact</source>
-        <translation>Добавить</translation>
+        <translation type="unfinished">Добавить контакт</translation>
     </message>
 </context>
 <context>
