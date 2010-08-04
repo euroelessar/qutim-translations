@@ -71,82 +71,82 @@
     <message>
         <location filename="../../protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="+35"/>
         <source>Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Псевдоним</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>First name</source>
-        <translation type="unfinished"></translation>
+        <translation>Име</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Middle name</source>
-        <translation type="unfinished"></translation>
+        <translation>Презиме</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Last name</source>
-        <translation type="unfinished"></translation>
+        <translation>Фамилия</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Gender</source>
-        <translation type="unfinished"></translation>
+        <translation>Пол</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Birthday</source>
-        <translation type="unfinished"></translation>
+        <translation>Роден</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>City</source>
-        <translation type="unfinished"></translation>
+        <translation>Град</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation>Държава</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Photo</source>
-        <translation type="unfinished"></translation>
+        <translation>Снимка</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Home phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Домашен телефон</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mobile phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Мобилен телефон</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>University</source>
-        <translation type="unfinished"></translation>
+        <translation>Университет</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Faculty</source>
-        <translation type="unfinished"></translation>
+        <translation>Факултет</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Graduation year</source>
-        <translation type="unfinished"></translation>
+        <translation>Година на завършване</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Основна</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Name</source>
-        <translation type="unfinished">Име</translation>
+        <translation>Име</translation>
     </message>
 </context>
 <context>

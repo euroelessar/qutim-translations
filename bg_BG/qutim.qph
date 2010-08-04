@@ -2728,4 +2728,12 @@
     <source>Mode</source>
     <target>Режим</target>
 </phrase>
+<phrase>
+    <source>Middle name</source>
+    <target>Презиме</target>
+</phrase>
+<phrase>
+    <source>Photo</source>
+    <target>Снимка</target>
+</phrase>
 </QPH>
