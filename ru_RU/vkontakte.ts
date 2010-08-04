@@ -14,7 +14,7 @@
     <message>
         <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+124"/>
         <source>Activity</source>
-        <translation>Активность</translation>
+        <translation type="unfinished">Занятие</translation>
     </message>
 </context>
 <context>

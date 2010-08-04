@@ -4311,4 +4311,16 @@ Accept invitation?</source>
     <source>Upload started.</source>
     <target>Загрузка запущена.</target>
 </phrase>
+<phrase>
+    <source>Remove account</source>
+    <target>Удалить учетную запись</target>
+</phrase>
+<phrase>
+    <source>Remove</source>
+    <target>Удалить</target>
+</phrase>
+<phrase>
+    <source>Remove</source>
+    <target>Удалить</target>
+</phrase>
 </QPH>
