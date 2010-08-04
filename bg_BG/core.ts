@@ -380,9 +380,14 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+562"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+564"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Last active</source>
+        <translation>Последният активен</translation>
     </message>
 </context>
 <context>
