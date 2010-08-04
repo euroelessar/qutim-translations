@@ -55,7 +55,7 @@
 <context>
     <name>Contact</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+183"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+185"/>
         <source>Resource</source>
         <translation>Ресурс</translation>
     </message>
@@ -427,7 +427,7 @@
         <translation>Настройване на стаята</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+219"/>
+        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+216"/>
         <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+8"/>
         <source>Conference</source>
         <translation>Конференция</translation>
@@ -1009,7 +1009,7 @@ Accept invitation?</source>
         <translation> модератор</translation>
     </message>
     <message>
-        <location line="+104"/>
+        <location line="+103"/>
         <source>Subject:</source>
         <translation>Тема:</translation>
     </message>

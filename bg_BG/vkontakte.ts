@@ -308,7 +308,7 @@
 <context>
     <name>VConnection</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vconnection.cpp" line="+122"/>
+        <location filename="../../protocols/vkontakte/src/vconnection.cpp" line="+111"/>
         <source>qutIM - VKontakte authorization</source>
         <translation>qutIM -ВКонтакте удостоверяване</translation>
     </message>
@@ -355,10 +355,22 @@
     </message>
 </context>
 <context>
+    <name>Vkontakte</name>
+    <message>
+        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+71"/>
+        <source>Open homepage</source>
+        <translation>Отваряне страницата</translation>
+    </message>
+</context>
+<context>
     <name>VkontakteProtocol</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+79"/>
         <source>Email</source>
+        <translation type="obsolete">Email</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>email</source>
         <translation>Email</translation>
     </message>
 </context>
