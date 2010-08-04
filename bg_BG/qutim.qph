@@ -2720,4 +2720,12 @@
     <source>Business</source>
     <target>Бизнес</target>
 </phrase>
+<phrase>
+    <source>Start</source>
+    <target>Стартиране</target>
+</phrase>
+<phrase>
+    <source>Mode</source>
+    <target>Режим</target>
+</phrase>
 </QPH>
