@@ -347,10 +347,49 @@
 <context>
     <name>VWallSessionPrivate</name>
     <message>
-        <location line="+137"/>
         <source>Multimedia messages is unsupported</source>
         <translatorcomment>И слава богу!</translatorcomment>
-        <translation type="unfinished">Мультимедийные сообщения не поддерживаются</translation>
+        <translation type="obsolete">Мультимедийные сообщения не поддерживаются</translation>
+    </message>
+    <message>
+        <location line="+129"/>
+        <source>Unknown</source>
+        <translation type="unfinished">Неизвестно</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Audio</source>
+        <translation type="unfinished">Аудио</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Video</source>
+        <translation type="unfinished">Видео</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Application</source>
+        <translation type="unfinished">Приложение</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Graffiti</source>
+        <translation type="unfinished">Графити</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Photo</source>
+        <translation type="unfinished">Фото</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Posted photo</source>
+        <translation type="unfinished">Добавлено фото</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Multimedia message: %1</source>
+        <translation type="unfinished">Мультимедиа сообщение: %1</translation>
     </message>
 </context>
 <context>

@@ -4363,4 +4363,20 @@ Accept invitation?</source>
     <source>Undefined</source>
     <target>Не определено</target>
 </phrase>
+<phrase>
+    <source>Audio</source>
+    <target>Аудио</target>
+</phrase>
+<phrase>
+    <source>Video</source>
+    <target>Видео</target>
+</phrase>
+<phrase>
+    <source>Application</source>
+    <target>Приложение</target>
+</phrase>
+<phrase>
+    <source>Graffiti</source>
+    <target>Графити</target>
+</phrase>
 </QPH>
