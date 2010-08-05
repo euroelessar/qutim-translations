@@ -6,7 +6,7 @@
     <message>
         <location filename="../../protocols/quetzal/src/quetzalplugin.cpp" line="+489"/>
         <source>Quetzal</source>
-        <translation type="unfinished">Quetzal</translation>
+        <translation>Quetzal</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -37,7 +37,7 @@
     <message>
         <location filename="../../protocols/quetzal/src/quatzelactiondialog.ui" line="+14"/>
         <source>Dialog</source>
-        <translation type="unfinished">Диалог</translation>
+        <translation>Диалог</translation>
     </message>
 </context>
 <context>
@@ -45,7 +45,7 @@
     <message>
         <location filename="../../protocols/quetzal/src/quetzaljoinchatdialog.ui" line="+14"/>
         <source>Join group chat</source>
-        <translation type="unfinished">Войти в чат</translation>
+        <translation>Войти в чат</translation>
     </message>
     <message>
         <location line="+19"/>

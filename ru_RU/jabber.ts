@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/jabber/src/jplugin.cpp" line="+27"/>
+        <location filename="../../protocols/jabber/src/jplugin.cpp" line="+29"/>
         <source>Denis Daschenko</source>
         <translation>Денис Дащенко</translation>
     </message>
@@ -22,7 +22,7 @@
 <context>
     <name>Conference</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+60"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+70"/>
         <source>Kick</source>
         <translation>Кик</translation>
     </message>
@@ -34,30 +34,30 @@
     <message>
         <location line="+3"/>
         <source>Convert to conference</source>
-        <translation type="unfinished">Превратить в конфу</translation>
+        <translation>Превратить в конференцию</translation>
     </message>
     <message>
         <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+111"/>
         <source>Real JID</source>
-        <translation type="unfinished">Настоящий JID</translation>
+        <translation>Настоящий JID</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Affiliation</source>
         <translatorcomment>Разрешения? мм, а что там? модерирование или модератор?</translatorcomment>
-        <translation type="unfinished">Ранг</translation>
+        <translation>Ранг</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Role</source>
         <translatorcomment>Может лучше обязанность? / а я думаю роль, пси рулит.</translatorcomment>
-        <translation type="unfinished">Роль</translation>
+        <translation>Роль</translation>
     </message>
 </context>
 <context>
     <name>Contact</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+183"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+185"/>
         <source>Resource</source>
         <translation>Ресурс</translation>
     </message>
@@ -66,6 +66,89 @@
         <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+9"/>
         <source>Possible client</source>
         <translation>Возможный клиент</translation>
+    </message>
+</context>
+<context>
+    <name>ContactInfo</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="+35"/>
+        <source>Nickname</source>
+        <translation type="unfinished">Ник</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>First name</source>
+        <translation>Имя</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Middle name</source>
+        <translation>Отчество</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Last name</source>
+        <translation>Фамилия</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Gender</source>
+        <translation>Пол</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Birthday</source>
+        <translation type="unfinished">Дата рождения</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>City</source>
+        <translation>Город</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Country</source>
+        <translation>Страна</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Photo</source>
+        <translation>Фото</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Home phone</source>
+        <translation>Дом.Телефон</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Mobile phone</source>
+        <translation>Мобильный</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>University</source>
+        <translation>Университет</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Faculty</source>
+        <translation>Факультет</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Graduation year</source>
+        <translation type="unfinished">Год выпуска</translation>
+    </message>
+    <message>
+        <location line="+45"/>
+        <source>General</source>
+        <translation>Главные</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Name</source>
+        <translation type="unfinished">Имя</translation>
     </message>
 </context>
 <context>
@@ -174,77 +257,60 @@
 <context>
     <name>JMUCJoin</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucjoin.ui" line="+14"/>
         <source>Join to groupchat</source>
-        <translation>Войти в конференцию</translation>
+        <translation type="obsolete">Войти в конференцию</translation>
     </message>
     <message>
-        <location line="+33"/>
-        <location line="+134"/>
         <source>Bookmarks:</source>
-        <translation>Закладки:</translation>
+        <translation type="obsolete">Закладки:</translation>
     </message>
     <message>
-        <location line="-118"/>
-        <location line="+150"/>
         <source>Conference:</source>
-        <translation>Конференция:</translation>
+        <translation type="obsolete">Конференция:</translation>
     </message>
     <message>
-        <location line="-130"/>
-        <location line="+146"/>
         <source>Nick:</source>
-        <translation>Ник:</translation>
+        <translation type="obsolete">Ник:</translation>
     </message>
     <message>
-        <location line="-130"/>
         <source>Password</source>
-        <translation>Пароль</translation>
+        <translation type="obsolete">Пароль</translation>
     </message>
     <message>
-        <location line="+20"/>
         <source>Bookmark&apos;s name:</source>
-        <translation>Имя закладки:</translation>
+        <translation type="obsolete">Имя закладки:</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Save to bookmarks</source>
-        <translation>Сохранить в закладках</translation>
+        <translation type="obsolete">Сохранить в закладках</translation>
     </message>
     <message>
-        <location line="+29"/>
         <source>Search</source>
-        <translation>Поиск</translation>
+        <translation type="obsolete">Поиск</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Join</source>
-        <translation>Войти</translation>
+        <translation type="obsolete">Войти</translation>
     </message>
     <message>
-        <location line="+35"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation type="obsolete">Имя:</translation>
     </message>
     <message>
-        <location line="+48"/>
         <source>Password:</source>
-        <translation>Пароль:</translation>
+        <translation type="obsolete">Пароль:</translation>
     </message>
     <message>
-        <location line="+14"/>
         <source>Auto join</source>
-        <translation>Авто-вход</translation>
+        <translation type="obsolete">Авто-вход</translation>
     </message>
     <message>
-        <location line="+22"/>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation type="obsolete">Сохранить</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Delete</source>
-        <translation>Удалить</translation>
+        <translation type="obsolete">Удалить</translation>
     </message>
 </context>
 <context>
@@ -323,39 +389,78 @@
         <translation>Обзор служб</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucjoinmodule.cpp" line="+16"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+195"/>
         <source>Join groupchat</source>
         <translation>Войти в конференцию</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+246"/>
+        <location line="+19"/>
+        <source>Password</source>
+        <translation type="unfinished">Пароль</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Auto-join</source>
+        <translation>Автовход</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+3"/>
+        <location line="+197"/>
         <source>Join to conference</source>
         <translation>Войти в конференцию</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+2"/>
         <source>Leave from conference</source>
         <translation>Покинуть конференцию</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Copy room address to clipboard</source>
-        <translation>Копировать адрес конференции в буфер</translation>
+        <translation type="obsolete">Копировать адрес конференции в буфер</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="-186"/>
+        <location line="+195"/>
         <source>Save to bookmarks</source>
         <translation>Сохранить в закладках</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+2"/>
         <source>Remove from bookmarks</source>
         <translation>Удалить из закладок</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="-203"/>
         <source>Room&apos;s configuration</source>
         <translation>Настройки комнаты</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+216"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-17"/>
+        <source>Conference</source>
+        <translation>Конференция</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+7"/>
+        <source>Nick</source>
+        <translation>Ник</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Autojoin</source>
+        <translation>АвтоАвтовход</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Yes</source>
+        <translation>Да</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-12"/>
+        <source>Name</source>
+        <translation>Имя</translation>
     </message>
 </context>
 <context>
@@ -707,7 +812,7 @@ Accept invitation?</source>
 Принять приглашение?</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+3"/>
         <source>Invite to groupchat</source>
         <translation>Пригласить в конференцию</translation>
     </message>
@@ -719,20 +824,18 @@ Accept invitation?</source>
         <translation type="obsolete">Войти в конференцию</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucjoin.cpp" line="+203"/>
         <source>Enter</source>
-        <translation type="unfinished">Войти</translation>
+        <translation type="obsolete">Войти</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Edit Bookmarks</source>
-        <translation type="unfinished">Править закладки</translation>
+        <translation type="obsolete">Править закладки</translation>
     </message>
 </context>
 <context>
     <name>Jabber::JMUCManager</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-184"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-124"/>
         <source>Join groupchat on</source>
         <translation>Войти в конференцию</translation>
     </message>
@@ -769,7 +872,7 @@ Accept invitation?</source>
 </translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+202"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+207"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете перезайти?</translation>
     </message>
@@ -787,7 +890,7 @@ Accept invitation?</source>
         <translation type="obsolete">вошел в комнату</translation>
     </message>
     <message>
-        <location line="+42"/>
+        <location line="+43"/>
         <location line="+2"/>
         <location line="+2"/>
         <location line="+2"/>
@@ -840,7 +943,7 @@ Accept invitation?</source>
 %1</translation>
     </message>
     <message>
-        <location line="-96"/>
+        <location line="-97"/>
         <source> has been banned</source>
         <translation type="unfinished"> был заблокирован</translation>
     </message>
@@ -875,7 +978,7 @@ Accept invitation?</source>
         <translation type="unfinished"> теперь известен как </translation>
     </message>
     <message>
-        <location line="+24"/>
+        <location line="+25"/>
         <source> has joined the room</source>
         <translation type="unfinished"> вошел в комнату</translation>
     </message>
@@ -916,7 +1019,7 @@ Accept invitation?</source>
         <translation type="unfinished">Тема:</translation>
     </message>
     <message>
-        <location line="+21"/>
+        <location line="+22"/>
         <source>Not authorized: Password required.</source>
         <translation>Не авторизован: Требуется пароль.</translation>
     </message>
@@ -975,7 +1078,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JProtocol</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+23"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+36"/>
         <source>Kick</source>
         <translation>Кик</translation>
     </message>
@@ -998,12 +1101,12 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JRoster</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+151"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+182"/>
         <source>Not in list</source>
         <translation type="unfinished">Не в списке</translation>
     </message>
     <message>
-        <location line="+84"/>
+        <location line="+114"/>
         <source>You were authorized</source>
         <translation type="unfinished">Вас авторизовали</translation>
     </message>
@@ -1287,17 +1390,55 @@ Accept invitation?</source>
         <translation type="unfinished">Реализация браузера сервисов</translation>
     </message>
     <message>
-        <location line="+3"/>
-        <source>Jabber MUC Join Window</source>
-        <translation type="unfinished">Окошко входа jabber</translation>
+        <location line="+7"/>
+        <source>Jabber Personal Events support</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Implementation of groupchat join window</source>
-        <translation type="unfinished">Реализация окошка для входа в конференции</translation>
+        <source>Implementation of personal events protocol</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
+        <source>Jabber Personal Events support (Message filter factory)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Implementation detail for Jabber Personal Events support</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Jabber User Mood support</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Convertes internal XMPP data of mood to Qt data types</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Jabber User Tune support</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Convertes internal XMPP data of tune to Qt data types</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Jabber MUC Join Window</source>
+        <translation type="obsolete">Окошко входа jabber</translation>
+    </message>
+    <message>
+        <source>Implementation of groupchat join window</source>
+        <translation type="obsolete">Реализация окошка для входа в конференции</translation>
+    </message>
+    <message>
+        <location line="-17"/>
         <source>Jabber File Transfer</source>
         <translation type="unfinished">Передача файлов по Jabber&apos;у</translation>
     </message>
@@ -1432,7 +1573,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-41"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-64"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
@@ -1467,7 +1608,7 @@ Accept invitation?</source>
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../protocols/jabber/src/jplugin.cpp" line="-53"/>
+        <location filename="../../protocols/jabber/src/jplugin.cpp" line="-49"/>
         <location line="+3"/>
         <location line="+3"/>
         <source>Author</source>

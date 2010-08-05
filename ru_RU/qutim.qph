@@ -4323,4 +4323,44 @@ Accept invitation?</source>
     <source>Remove</source>
     <target>Удалить</target>
 </phrase>
+<phrase>
+    <source>Nickname</source>
+    <target>Ник</target>
+</phrase>
+<phrase>
+    <source>Gender</source>
+    <target>Пол</target>
+</phrase>
+<phrase>
+    <source>Birthday</source>
+    <target>Дата рождения</target>
+</phrase>
+<phrase>
+    <source>Photo</source>
+    <target>Фото</target>
+</phrase>
+<phrase>
+    <source>Home phone</source>
+    <target>Дом. Телефон</target>
+</phrase>
+<phrase>
+    <source>Mobile phone</source>
+    <target>Мобильный</target>
+</phrase>
+<phrase>
+    <source>University</source>
+    <target>Университет</target>
+</phrase>
+<phrase>
+    <source>Faculty</source>
+    <target>Факультет</target>
+</phrase>
+<phrase>
+    <source>Graduation year</source>
+    <target>Год выпуска</target>
+</phrase>
+<phrase>
+    <source>Undefined</source>
+    <target>Не определено</target>
+</phrase>
 </QPH>

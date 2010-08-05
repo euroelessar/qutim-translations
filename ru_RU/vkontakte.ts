@@ -4,15 +4,123 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+12"/>
+        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+27"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+17"/>
+        <source>Alexey Sidorov</source>
+        <translation type="unfinished">Алексей Сидоров</translation>
+    </message>
+</context>
+<context>
+    <name>ContactInfo</name>
+    <message>
+        <location filename="../../protocols/vkontakte/src/vinforequest.cpp" line="+52"/>
+        <source>Nickname</source>
+        <translation>Ник</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>First name</source>
+        <translation>Имя</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Last name</source>
+        <translation>Фамилия</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Gender</source>
+        <translation>Пол</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Birthday</source>
+        <translation>Дата рождения</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>City</source>
+        <translation>Город</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Country</source>
+        <translation>Страна</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Photo</source>
+        <translation>Фото</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Home phone</source>
+        <translation type="unfinished">Дом. Телефон</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Mobile phone</source>
+        <translation type="unfinished">Мобильный</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>University</source>
+        <translation type="unfinished">Университет</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Faculty</source>
+        <translation type="unfinished">Факультет</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Graduation year</source>
+        <translation type="unfinished">Год выпуска</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Undefined</source>
+        <translation type="unfinished">Не определено</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Female</source>
+        <translation>Женский</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Male</source>
+        <translation>Мужской</translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>General</source>
+        <translation type="unfinished">Главные</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Person</source>
+        <translation type="unfinished">Личное</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Home address</source>
+        <translation>Домашний адрес</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Education</source>
+        <translation type="unfinished">Образование</translation>
     </message>
 </context>
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+124"/>
+        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+177"/>
         <source>Activity</source>
         <translation type="unfinished">Занятие</translation>
     </message>
@@ -139,17 +247,21 @@
     </message>
     <message>
         <location line="+1"/>
-        <location line="+12"/>
         <source>Simple implementation of vkontakte, based on userapi.ru</source>
         <translation>Простая реализация Вконтакте, основана на userapi.ru</translation>
     </message>
     <message>
-        <location line="-1"/>
+        <location line="+11"/>
         <source>vkontakte</source>
         <translation>Вконтакте</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+1"/>
+        <source>Simple implementation of vkontakte, based on desktop.api</source>
+        <translation type="unfinished">Простая реализация ВКонтакте, основана на desktop.api</translation>
+    </message>
+    <message>
+        <location line="+4"/>
         <source>Vkontakte account creator</source>
         <translation>Создание учетной записи Вконтакте</translation>
     </message>
@@ -158,11 +270,23 @@
         <source>Account creator for Vkontakte</source>
         <translation>Мастер создания создание учетной записи Вконтакте</translation>
     </message>
+    <message>
+        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="-3"/>
+        <source>Wall</source>
+        <translatorcomment>Убей себя с разбегу</translatorcomment>
+        <translation type="unfinished">Стена</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Vkontakte wall support for qutIM</source>
+        <translation type="unfinished">Поддержка стены для qutIM (биться с разбегу)</translation>
+    </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location line="-14"/>
+        <location line="+3"/>
+        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="-14"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -191,19 +315,42 @@
     </message>
 </context>
 <context>
+    <name>VConnection</name>
+    <message>
+        <location filename="../../protocols/vkontakte/src/vconnection.cpp" line="+111"/>
+        <source>qutIM - VKontakte authorization</source>
+        <translation type="unfinished">qutIM - авторизация Вконтакте</translation>
+    </message>
+</context>
+<context>
     <name>VConnectionPrivate</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vconnection.cpp" line="+34"/>
         <source>Error! (TODO)</source>
-        <translation>Ашипка! (TODO)</translation>
+        <translation type="obsolete">Ашипка! (TODO)</translation>
     </message>
 </context>
 <context>
     <name>VRosterPrivate</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vroster.cpp" line="+36"/>
         <source>Friends</source>
-        <translation>Друзья</translation>
+        <translation type="obsolete">Друзья</translation>
+    </message>
+</context>
+<context>
+    <name>VWallSession</name>
+    <message>
+        <location filename="../../protocols/vkontakte/plugins/wall/vwallsession.cpp" line="+42"/>
+        <source>%1 (Wall)</source>
+        <translation type="unfinished">%1 (Стена)</translation>
+    </message>
+</context>
+<context>
+    <name>VWallSessionPrivate</name>
+    <message>
+        <location line="+137"/>
+        <source>Multimedia messages is unsupported</source>
+        <translatorcomment>И слава богу!</translatorcomment>
+        <translation type="unfinished">Мультимедийные сообщения не поддерживаются</translation>
     </message>
 </context>
 <context>
@@ -227,6 +374,29 @@
         <location line="+94"/>
         <source>Open user page</source>
         <translation>Открыть страницу</translation>
+    </message>
+</context>
+<context>
+    <name>Vkontakte</name>
+    <message>
+        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+9"/>
+        <source>View wall</source>
+        <translatorcomment>Что бы видеть куда разбегаться</translatorcomment>
+        <translation type="unfinished">Показать стену</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+71"/>
+        <source>Open homepage</source>
+        <translatorcomment>Открыть хомяка - так значительно короче, но хомячки (сорь за тафтологию) не поймут^_^&apos;</translatorcomment>
+        <translation type="unfinished">Открыть домашнюю страничку</translation>
+    </message>
+</context>
+<context>
+    <name>VkontakteProtocol</name>
+    <message>
+        <location line="+20"/>
+        <source>id</source>
+        <translation></translation>
     </message>
 </context>
 <context>
