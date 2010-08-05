@@ -8,6 +8,11 @@
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
+    <message>
+        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+17"/>
+        <source>Alexey Sidorov</source>
+        <translation>Алексей Сидоров</translation>
+    </message>
 </context>
 <context>
     <name>ContactInfo</name>
@@ -273,11 +278,22 @@
         <source>Userapi</source>
         <translation type="obsolete">Userapi</translation>
     </message>
+    <message>
+        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="-3"/>
+        <source>Wall</source>
+        <translation>Стена</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Vkontakte wall support for qutIM</source>
+        <translation>Поддръжка на ВКонтакте стена в qutIM</translation>
+    </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location line="-14"/>
+        <location line="+3"/>
+        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="-14"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -328,6 +344,57 @@
     </message>
 </context>
 <context>
+    <name>VWallSession</name>
+    <message>
+        <location filename="../../protocols/vkontakte/plugins/wall/vwallsession.cpp" line="+42"/>
+        <source>%1 (Wall)</source>
+        <translation>%1 (Стена)</translation>
+    </message>
+</context>
+<context>
+    <name>VWallSessionPrivate</name>
+    <message>
+        <location line="+129"/>
+        <source>Unknown</source>
+        <translation>Неизвестен</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Audio</source>
+        <translation>Звуков</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Video</source>
+        <translation>Видео</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Application</source>
+        <translation>Приложение</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Graffiti</source>
+        <translation>Графити</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Photo</source>
+        <translation>Снимка</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Posted photo</source>
+        <translation>Публикува снимка</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Multimedia message: %1</source>
+        <translation>Мултимедийно съобщение: %1</translation>
+    </message>
+</context>
+<context>
     <name>VcontactList</name>
     <message>
         <location filename="../../protocols/vkontakte/core/vcontactlist.cpp" line="+48"/>
@@ -361,6 +428,11 @@
         <source>Open homepage</source>
         <translation>Отваряне страницата</translation>
     </message>
+    <message>
+        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+9"/>
+        <source>View wall</source>
+        <translation>Преглед на всички</translation>
+    </message>
 </context>
 <context>
     <name>VkontakteProtocol</name>
@@ -369,9 +441,13 @@
         <translation type="obsolete">Email</translation>
     </message>
     <message>
-        <location line="+20"/>
         <source>email</source>
-        <translation>Email</translation>
+        <translation type="obsolete">Email</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+20"/>
+        <source>id</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
