@@ -396,28 +396,36 @@
         <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+3"/>
-        <location line="+197"/>
         <source>Join to conference</source>
-        <translation>Присъединяване към конференция</translation>
+        <translation type="obsolete">Присъединяване към конференция</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Leave from conference</source>
-        <translation>Напускане на конференцията</translation>
+        <translation type="obsolete">Напускане на конференцията</translation>
     </message>
     <message>
         <source>Copy room address to clipboard</source>
         <translation type="obsolete">Копиране на адреса на стаята в клип-борда</translation>
     </message>
     <message>
-        <location line="-186"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+3"/>
+        <location line="+197"/>
+        <source>Join conference</source>
+        <translation>Присъединяване към групов разговор</translation>
+    </message>
+    <message>
+        <location line="-184"/>
         <location line="+195"/>
         <source>Save to bookmarks</source>
         <translation>Запазване в отметките</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="-9"/>
+        <source>Leave conference</source>
+        <translation>Напускане на конференцията</translation>
+    </message>
+    <message>
+        <location line="+11"/>
         <source>Remove from bookmarks</source>
         <translation>Премахване от отметките</translation>
     </message>
