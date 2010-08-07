@@ -196,7 +196,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="+304"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="+308"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -286,12 +286,12 @@
         <translation>Друг клиент с този UIN се свързва</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+4"/>
         <source>Unknown error</source>
         <translation>Неизвестна грешка</translation>
     </message>
     <message>
-        <location line="-32"/>
+        <location line="-34"/>
         <source>DB send error</source>
         <translation>Грешка при изпращане на базата данни</translation>
     </message>
@@ -553,7 +553,7 @@
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+314"/>
+        <location line="+315"/>
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>
@@ -3663,7 +3663,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="-322"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="-326"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>
