@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/urlpreview/src/urlpreview.cpp" line="+30"/>
+        <location filename="../../plugins/urlpreview/src/urlpreview.cpp" line="+33"/>
         <source>Alexander Kazarin</source>
         <translation>Александр Казарин</translation>
     </message>
@@ -15,9 +15,22 @@
     </message>
 </context>
 <context>
+    <name>Plugin</name>
+    <message>
+        <location line="-6"/>
+        <source>UrlPreview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Preview images directly in the chat window</source>
+        <translation type="unfinished">Просмотр картинок в окне чата</translation>
+    </message>
+</context>
+<context>
     <name>Task</name>
     <message>
-        <location line="-2"/>
+        <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -54,26 +67,34 @@
 <context>
     <name>urlpreviewPlugin</name>
     <message>
+        <location filename="../../plugins/urlpreview/urlpreview.cpp" line="+52"/>
         <source>URL Preview</source>
         <translation>Предпросмотр URL</translation>
     </message>
     <message>
+        <location line="+0"/>
         <source>bytes</source>
         <translation>байт</translation>
     </message>
     <message>
+        <location line="+132"/>
         <source>YouTube video</source>
         <translation>YouTube видео</translation>
     </message>
     <message>
+        <location line="+43"/>
         <source>Authentication Required</source>
         <translation>Необходима аутентификация</translation>
     </message>
     <message>
+        <location line="-40"/>
+        <location line="+8"/>
+        <location line="+33"/>
         <source>Unknown</source>
         <translation>Неизвесно</translation>
     </message>
     <message>
+        <location filename="../../plugins/urlpreview/urlpreview.h" line="+44"/>
         <source>Make URL previews in messages</source>
         <translation>Предпросмотр URL в сообщении</translation>
     </message>
@@ -81,63 +102,77 @@
 <context>
     <name>urlpreviewSettingsClass</name>
     <message>
+        <location filename="../../plugins/urlpreview/settings.ui" line="+14"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
+        <location line="+10"/>
         <source>General</source>
         <translation>Общие</translation>
     </message>
     <message>
+        <location line="+6"/>
         <source>Enable on incoming messages</source>
         <translation>Включить для входящих сообщений</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>Enable on outgoing messages</source>
         <translation>Включить для исходящих сообщений</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>Don&apos;t show info for text/html content type</source>
         <translation>Не показывать информацию для страниц text/html</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>Ignore SSL warnings</source>
         <translation>Игнорировать предупреждения SSL</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>Info template:</source>
         <translation>Шаблон отображения:</translation>
     </message>
     <message>
+        <location line="+17"/>
         <source>Macros:
 %TYPE% - Content-Type
 %SIZE% - Content-Length</source>
-		<translatorcomment>Может всё-таки переменные?</translatorcomment>
+        <translatorcomment>Может всё-таки переменные?</translatorcomment>
         <translation>Макросы:
 %TYPE% — тип содержимого
 %SIZE% — размер содержимого</translation>
     </message>
     <message>
+        <location line="+23"/>
         <source>Images</source>
         <translation>Изображения</translation>
     </message>
     <message>
+        <location line="+21"/>
         <source>Max file size limit (in bytes)</source>
         <translation>Максимальный размер файла (в байтах)</translation>
     </message>
     <message>
+        <location line="+37"/>
         <source>%MAXW% macro</source>
         <translation>Макрос %MAXW%</translation>
     </message>
     <message>
+        <location line="+37"/>
         <source>%MAXH% macro</source>
         <translation>Макрос %MAXH%</translation>
     </message>
     <message>
+        <location line="+22"/>
         <source>Image preview template:</source>
         <translation>Шаблон отображения изображения:</translation>
     </message>
     <message>
+        <location line="+10"/>
         <source>Macros:
 %URL% - Image URL
 %UID% - Generated unique ID</source>
@@ -146,24 +181,29 @@
 %UID% — Уник. идентификатор</translation>
     </message>
     <message>
+        <location line="+10"/>
         <source>YouTube</source>
         <translation>YouTube</translation>
     </message>
     <message>
+        <location line="+6"/>
         <source>Enable preview for YouTube links</source>
         <translation>Включить предпросмотр ссылок на YouTube</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>YouTube links template:</source>
         <translation>Шаблон отображения вставок с YouTube:</translation>
     </message>
     <message>
+        <location line="+10"/>
         <source>Macros:
 %YTID% - YouTube ID</source>
         <translation>Переменная:
 %YTID% - YouTube ID</translation>
     </message>
     <message>
+        <location line="+15"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -200,6 +240,7 @@ p, li { white-space: pre-wrap; }
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; color:#000000;&quot;&gt;(c) 2008-2009&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
+        <location line="-6"/>
         <source>About</source>
         <translation>О плагине</translation>
     </message>

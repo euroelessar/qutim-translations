@@ -4383,4 +4383,8 @@ Accept invitation?</source>
     <source>with reason: </source>
     <target>по причинне: </target>
 </phrase>
+<phrase>
+    <source>General</source>
+    <target>Общие</target>
+</phrase>
 </QPH>
