@@ -211,7 +211,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="+304"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="+308"/>
         <source>Invalid nick or password</source>
         <translation>Неверный ник или пароль</translation>
     </message>
@@ -301,12 +301,12 @@
         <translation>Другой клиент вошел с этим же номером</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+4"/>
         <source>Unknown error</source>
         <translation>Неизвестная ошибка</translation>
     </message>
     <message>
-        <location line="-32"/>
+        <location line="-34"/>
         <source>DB send error</source>
         <translation>Ошибка запроса базы данных</translation>
     </message>
@@ -542,7 +542,7 @@
         <translation>Главные</translation>
     </message>
     <message>
-        <location line="+314"/>
+        <location line="+315"/>
         <source>Online time</source>
         <translation>В сети</translation>
     </message>
@@ -3683,7 +3683,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="-322"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="-326"/>
         <source>Invalid SNAC header</source>
         <translation>Неверный заголовок SNAC</translation>
     </message>
@@ -3760,6 +3760,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+2"/>
         <source>In local permit/deny (recipient blocked)</source>
+        <translatorcomment>wtf ? не помню что ы я это писал</translatorcomment>
         <translation type="unfinished">ЧЯДНТ? Получатель заблокирован.</translation>
     </message>
     <message>
