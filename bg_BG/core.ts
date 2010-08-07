@@ -4,7 +4,7 @@
 <context>
     <name>Account</name>
     <message>
-        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+29"/>
+        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+30"/>
         <source>Add new account</source>
         <translation>Добавяне на нова сметка</translation>
     </message>
@@ -577,12 +577,16 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Добавяне или създаване на нова сметка</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+95"/>
         <source>Edit info</source>
-        <translation>Редактиране на информацията</translation>
+        <translation type="obsolete">Редактиране на информацията</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+95"/>
+        <source>Properties</source>
+        <translation>Свойства</translation>
+    </message>
+    <message>
+        <location line="+7"/>
         <source>Remove account</source>
         <translation>Премахване на сметка</translation>
     </message>
