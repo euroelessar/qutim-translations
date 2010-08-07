@@ -2627,6 +2627,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>ToolTip</name>
+    <message>
+        <location filename="../../qutim/libqutim/buddy.cpp" line="+101"/>
+        <source>Account</source>
+        <translation>Сметка</translation>
+    </message>
+</context>
+<context>
     <name>XSettingsDialog</name>
     <message>
         <source>General</source>
