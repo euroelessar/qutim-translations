@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+27"/>
+        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+31"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -62,13 +62,13 @@
         <translation>Телефон (дом.)</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+183"/>
+        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+184"/>
         <location filename="../../protocols/vkontakte/src/vinforequest.cpp" line="+1"/>
         <source>Mobile phone</source>
         <translation>Телефон (моб.)</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+4"/>
         <source>Activity</source>
         <translation>Дейност</translation>
     </message>
@@ -281,6 +281,24 @@
     </message>
 </context>
 <context>
+    <name>VAccountSettings</name>
+    <message>
+        <location filename="../../protocols/vkontakte/src/ui/vaccountsettings.ui" line="+14"/>
+        <source>Account settings</source>
+        <translation>Настройки на сметката</translation>
+    </message>
+    <message>
+        <location line="+35"/>
+        <source>Password:</source>
+        <translation>Парола:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>To be desided...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>VAccountWizardPage</name>
     <message>
         <location filename="../../protocols/vkontakte/src/ui/vaccountwizardpage.ui" line="+14"/>
@@ -410,6 +428,11 @@
         <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+9"/>
         <source>View wall</source>
         <translation>Преглед на всички</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+17"/>
+        <source>Account settings</source>
+        <translation>Настройки на сметката</translation>
     </message>
 </context>
 <context>

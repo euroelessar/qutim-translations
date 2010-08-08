@@ -553,22 +553,22 @@
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+315"/>
+        <location line="+317"/>
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+7"/>
         <source>Signed on</source>
         <translation>Влизане в</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+5"/>
         <source>Away since</source>
         <translation>Отсъства от</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+5"/>
         <source>Reg. date</source>
         <translation>Регистрация от</translation>
     </message>
