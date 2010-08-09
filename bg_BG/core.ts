@@ -1182,19 +1182,19 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+228"/>
         <source>qutIM settings - %1</source>
-        <translation type="unfinished">Настройки на qutIM - %1</translation>
+        <translation>Настройки на qutIM - %1</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Apply Settings - System Settings</source>
-        <translation type="unfinished">Прилагане на настройките - Системни настройки</translation>
+        <translation>Прилагане на настройките - Системни настройки</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The settings of the current module have changed. 
  Do you want to apply the changes or discard them?</source>
-        <translation type="unfinished">Настройките за текущия модул бяха променени.
-Желаете ли да ги приложите или да бъдат отменени?</translation>
+        <translation>Настройките за текущия модул бяха променени.
+ Желаете ли да ги приложите или да бъдат отменени?</translation>
     </message>
 </context>
 <context>
