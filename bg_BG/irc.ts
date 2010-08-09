@@ -401,7 +401,7 @@
         <translation>Търсене на канал...</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircaccount.cpp" line="+253"/>
+        <location filename="../../protocols/irc/src/ircaccount.cpp" line="+254"/>
         <source>Join channel</source>
         <translation>Присъединяване към канал</translation>
     </message>
@@ -694,7 +694,7 @@
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
     </message>
     <message>
-        <location line="+121"/>
+        <location line="+122"/>
         <source>Message of the day:</source>
         <translation>Съобщение за деня:</translation>
     </message>

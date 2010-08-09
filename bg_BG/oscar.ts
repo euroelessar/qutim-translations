@@ -553,7 +553,7 @@
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+314"/>
+        <location line="+315"/>
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>

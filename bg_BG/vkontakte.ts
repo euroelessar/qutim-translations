@@ -120,7 +120,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+177"/>
+        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+181"/>
         <source>Activity</source>
         <translation>Дейност</translation>
     </message>
@@ -324,7 +324,7 @@
 <context>
     <name>VConnection</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vconnection.cpp" line="+111"/>
+        <location filename="../../protocols/vkontakte/src/vconnection.cpp" line="+81"/>
         <source>qutIM - VKontakte authorization</source>
         <translation>qutIM -ВКонтакте удостоверяване</translation>
     </message>

@@ -55,7 +55,7 @@
 <context>
     <name>Contact</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+185"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+189"/>
         <source>Resource</source>
         <translation>Ресурс</translation>
     </message>
@@ -427,7 +427,7 @@
         <translation>Настройване на стаята</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+216"/>
+        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+219"/>
         <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+8"/>
         <source>Conference</source>
         <translation>Конференция</translation>
@@ -886,7 +886,7 @@ Accept invitation?</source>
         <translation type="obsolete">влезе в стаята</translation>
     </message>
     <message>
-        <location line="+43"/>
+        <location line="+44"/>
         <location line="+2"/>
         <location line="+2"/>
         <location line="+2"/>
@@ -938,7 +938,7 @@ Accept invitation?</source>
         <translation type="obsolete">Тема: %1</translation>
     </message>
     <message>
-        <location line="-97"/>
+        <location line="-98"/>
         <source> has been banned</source>
         <translation> е с наложена забрана</translation>
     </message>
@@ -973,7 +973,7 @@ Accept invitation?</source>
         <translation> сега се подвизава като </translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+26"/>
         <source> has joined the room</source>
         <translation> влезе в стаята</translation>
     </message>
