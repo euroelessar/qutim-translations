@@ -60,8 +60,8 @@
         <translation>Ресурс</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+7"/>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+9"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+2"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+4"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
@@ -1276,6 +1276,14 @@ Accept invitation?</source>
         <location line="+3"/>
         <source>No stanza error occured. You&apos;re just sleeping.</source>
         <translation>Няма никаква грешка в строфата. Просто сънувате.</translation>
+    </message>
+</context>
+<context>
+    <name>Jabber::JSoftwareDetection</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp" line="+193"/>
+        <source>Possible client</source>
+        <translation>Вероятен клиент</translation>
     </message>
 </context>
 <context>

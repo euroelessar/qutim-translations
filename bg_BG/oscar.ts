@@ -513,7 +513,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+157"/>
+        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+158"/>
         <source>Add to visible list</source>
         <translation>Добавяне в списък &quot;Видим за&quot;</translation>
     </message>
@@ -577,7 +577,7 @@
         <translation>Удостоверяване</translation>
     </message>
     <message>
-        <location line="+94"/>
+        <location line="+95"/>
         <source>Please, authorize me</source>
         <translation>Моля за удостоверение</translation>
     </message>
@@ -3657,7 +3657,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Privacy</name>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="-87"/>
+        <location filename="../../protocols/oscar/src/privacylists.cpp" line="-88"/>
         <source>Visible for all</source>
         <translation>Видим за всички</translation>
     </message>
@@ -3682,7 +3682,7 @@ p, li { white-space: pre-wrap; }
         <translation>Видим само за списъка с контакти</translation>
     </message>
     <message>
-        <location line="+66"/>
+        <location line="+67"/>
         <source>Visible mode:</source>
         <translation>Режим на видимост:</translation>
     </message>
