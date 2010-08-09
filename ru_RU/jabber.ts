@@ -57,7 +57,7 @@
 <context>
     <name>Contact</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+185"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+189"/>
         <source>Resource</source>
         <translation>Ресурс</translation>
     </message>
@@ -73,7 +73,7 @@
     <message>
         <location filename="../../protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="+35"/>
         <source>Nickname</source>
-        <translation type="unfinished">Ник</translation>
+        <translation>Ник</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -98,7 +98,7 @@
     <message>
         <location line="+1"/>
         <source>Birthday</source>
-        <translation type="unfinished">Дата рождения</translation>
+        <translation>Дата рождения</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -138,7 +138,7 @@
     <message>
         <location line="+1"/>
         <source>Graduation year</source>
-        <translation type="unfinished">Год выпуска</translation>
+        <translation>Год выпуска</translation>
     </message>
     <message>
         <location line="+45"/>
@@ -148,7 +148,7 @@
     <message>
         <location line="+2"/>
         <source>Name</source>
-        <translation type="unfinished">Имя</translation>
+        <translation>Имя</translation>
     </message>
 </context>
 <context>
@@ -166,7 +166,7 @@
     <message>
         <location line="+18"/>
         <source>TextLabel</source>
-        <translation type="unfinished">Поле текста</translation>
+        <translation>Поле текста</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -184,7 +184,7 @@
     <message>
         <location filename="../../protocols/jabber/src/protocol/modules/adhoc/jadhocwidget.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
 </context>
 <context>
@@ -389,14 +389,14 @@
         <translation>Обзор служб</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+195"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+196"/>
         <source>Join groupchat</source>
         <translation>Войти в конференцию</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Password</source>
-        <translation type="unfinished">Пароль</translation>
+        <translation>Пароль</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -435,7 +435,7 @@
         <translation>Настройки комнаты</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+216"/>
+        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+219"/>
         <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-17"/>
         <source>Conference</source>
         <translation>Конференция</translation>
@@ -509,19 +509,19 @@
 <context>
     <name>Jabber::JConnectionListener</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/connection/jconnectionlistener.cpp" line="+42"/>
+        <location filename="../../protocols/jabber/src/protocol/account/connection/jconnectionlistener.cpp" line="+43"/>
         <source>The entity has sent XML that cannot be processed.</source>
-        <translation type="unfinished">Принят XML запрос, который не может быть обработан.</translation>
+        <translation>Принят XML запрос, который не может быть обработан.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The entity has sent a namespace prefix that is unsupported, or has sent no namespace prefix on an element that requires such a prefix.</source>
-        <translation type="unfinished">Объект послал префикс который не поддерживается, или вообще не прислал префикс элементу который требует этот префикс.</translation>
+        <translation>Объект послал префикс который не поддерживается, или вообще не прислал префикс элементу который требует этот префикс.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The server is closing the active stream for this entity because a new stream has been initiated that conflicts with the existing stream.</source>
-        <translation type="unfinished">Сервер закрыл активное соединение потому, что было создано новое соединение, которое конфликтовало с существующим.</translation>
+        <translation>Сервер закрыл активное соединение потому, что было создано новое соединение, которое конфликтовало с существующим.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -835,7 +835,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCManager</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-124"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-125"/>
         <source>Join groupchat on</source>
         <translation>Войти в конференцию</translation>
     </message>
@@ -872,7 +872,7 @@ Accept invitation?</source>
 </translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+207"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+209"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете перезайти?</translation>
     </message>
@@ -890,31 +890,31 @@ Accept invitation?</source>
         <translation type="obsolete">вошел в комнату</translation>
     </message>
     <message>
-        <location line="+43"/>
+        <location line="+44"/>
         <location line="+2"/>
         <location line="+2"/>
         <location line="+2"/>
         <location line="+2"/>
         <source> as</source>
-        <translation type="unfinished"> как</translation>
+        <translation> как</translation>
     </message>
     <message>
         <location line="-8"/>
         <location line="+26"/>
         <source> owner</source>
-        <translation type="unfinished"> владелец</translation>
+        <translation> владелец</translation>
     </message>
     <message>
         <location line="-24"/>
         <location line="+26"/>
         <source> administrator</source>
-        <translation type="unfinished"> администратор</translation>
+        <translation> администратор</translation>
     </message>
     <message>
         <location line="-24"/>
         <location line="+30"/>
         <source> registered member</source>
-        <translation type="unfinished"> регистрированный</translation>
+        <translation> регистрированный</translation>
     </message>
     <message>
         <source> member</source>
@@ -926,7 +926,7 @@ Accept invitation?</source>
         <location line="+6"/>
         <location line="+6"/>
         <source> visitor</source>
-        <translation type="unfinished"> посетитель</translation>
+        <translation> посетитель</translation>
     </message>
     <message>
         <source>%1 has left the room</source>
@@ -943,61 +943,61 @@ Accept invitation?</source>
 %1</translation>
     </message>
     <message>
-        <location line="-97"/>
+        <location line="-98"/>
         <source> has been banned</source>
-        <translation type="unfinished"> был заблокирован</translation>
+        <translation> был заблокирован</translation>
     </message>
     <message>
         <location line="+0"/>
         <source> has been kicked</source>
-        <translation type="unfinished"> был выкинут</translation>
+        <translation> был выкинут</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>You has been banned at </source>
-        <translation type="unfinished">Вы были заблокированы в</translation>
+        <translation>Вы были заблокированы в</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>You has been kicked from </source>
-        <translation type="unfinished">Вы были выкинуты из </translation>
+        <translation>Вы были выкинуты из </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>with reason: </source>
-        <translation type="unfinished">с причиной: </translation>
+        <translation type="unfinished">по причинне: </translation>
     </message>
     <message>
         <location line="+7"/>
         <source>You have been banned</source>
-        <translation type="unfinished">Вы были заблокированы</translation>
+        <translation>Вы были заблокированы</translation>
     </message>
     <message>
         <location line="+12"/>
         <source> is now known as </source>
-        <translation type="unfinished"> теперь известен как </translation>
+        <translation> теперь известен как </translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+26"/>
         <source> has joined the room</source>
-        <translation type="unfinished"> вошел в комнату</translation>
+        <translation> вошел в комнату</translation>
     </message>
     <message>
         <location line="+8"/>
         <location line="+24"/>
         <location line="+12"/>
         <source> participant</source>
-        <translation type="unfinished"> участник</translation>
+        <translation> участник</translation>
     </message>
     <message>
         <location line="-27"/>
         <source> has left the room</source>
-        <translation type="unfinished"> покинул комнату</translation>
+        <translation> покинул комнату</translation>
     </message>
     <message>
         <location line="+9"/>
         <source> now is</source>
-        <translation type="unfinished"> теперь</translation>
+        <translation> теперь</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1005,18 +1005,18 @@ Accept invitation?</source>
         <location line="+4"/>
         <location line="+2"/>
         <source> and</source>
-        <translation type="unfinished"> и</translation>
+        <translation> и</translation>
     </message>
     <message>
         <location line="-2"/>
         <location line="+4"/>
         <source> moderator</source>
-        <translation type="unfinished"> модератор</translation>
+        <translation> модератор</translation>
     </message>
     <message>
-        <location line="+103"/>
+        <location line="+105"/>
         <source>Subject:</source>
-        <translation type="unfinished">Тема:</translation>
+        <translation>Тема:</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -1067,7 +1067,7 @@ Accept invitation?</source>
         <location line="+6"/>
         <source>Join groupchat on </source>
         <translatorcomment>не понятно, не могу увидеть что и как здесь</translatorcomment>
-        <translation type="unfinished">Войти в конференцию on </translation>
+        <translation type="unfinished">Войти в конференцию на </translation>
     </message>
     <message>
         <source>Join groupchat on</source>
@@ -1085,7 +1085,7 @@ Accept invitation?</source>
     <message>
         <location line="+0"/>
         <source>Enter kick reason for %1</source>
-        <translation type="unfinished">Укажите причину кика %1</translation>
+        <translation>Укажите причину кика %1</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1095,7 +1095,7 @@ Accept invitation?</source>
     <message>
         <location line="+0"/>
         <source>Enter ban reason for %1</source>
-        <translation type="unfinished">Укажите причину блокировки %1</translation>
+        <translation>Укажите причину блокировки %1</translation>
     </message>
 </context>
 <context>
@@ -1103,22 +1103,22 @@ Accept invitation?</source>
     <message>
         <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+182"/>
         <source>Not in list</source>
-        <translation type="unfinished">Не в списке</translation>
+        <translation>Не в списке</translation>
     </message>
     <message>
         <location line="+114"/>
         <source>You were authorized</source>
-        <translation type="unfinished">Вас авторизовали</translation>
+        <translation>Вас авторизовали</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Your authorization was removed</source>
-        <translation type="unfinished">Вашу авторизацию отозвали</translation>
+        <translation>Вашу авторизацию отозвали</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Contacts&apos;s authorization was removed</source>
-        <translation type="unfinished">Авторизация контакта удалена</translation>
+        <translation>Авторизация контакта удалена</translation>
     </message>
 </context>
 <context>
@@ -1307,22 +1307,22 @@ Accept invitation?</source>
     <message>
         <location line="+1"/>
         <source>Account creator for Jabber protocol</source>
-        <translation type="unfinished">Создание учетной записи Jabber</translation>
+        <translation>Создание учетной записи Jabber</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>LiveJournal account creator</source>
-        <translation type="unfinished">Создание учетной записи LiveJournal / Жежечки</translation>
+        <translation type="unfinished">Создание учетной записи LiveJournal / Жежешечки</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Account creator for LiveJournal</source>
-        <translation type="unfinished">Создание учётной записи LiveJournal / Жежечки</translation>
+        <translation type="unfinished">Создание учётной записи LiveJournal / Жежешечки</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Google Talk account creator</source>
-        <translation type="unfinished">Создание аккаунтов Goolge Talk</translation>
+        <translation type="unfinished">Создание аккаунтов Goolge Talk (GTalk)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1357,7 +1357,7 @@ Accept invitation?</source>
     <message>
         <location line="+1"/>
         <source>XML console for low-level protocol debugging</source>
-        <translation type="unfinished">XML консоль для низкоуровнего деббагинга протокола</translation>
+        <translation type="unfinished">XML консоль для низкоуровневой отладки</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1382,7 +1382,7 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>Jabber Service Browser</source>
-        <translation type="unfinished">Браузер сервисов jabber</translation>
+        <translation type="unfinished">Обзор сервисов jabber</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1483,7 +1483,7 @@ Accept invitation?</source>
     <message>
         <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.ui" line="+14"/>
         <source>jServiceBrowser</source>
-        <translation type="unfinished">Браузер сервисов</translation>
+        <translation type="unfinished">Обзор сервисов</translation>
     </message>
     <message>
         <location line="+17"/>

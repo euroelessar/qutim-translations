@@ -4379,4 +4379,12 @@ Accept invitation?</source>
     <source>Graffiti</source>
     <target>Графити</target>
 </phrase>
+<phrase>
+    <source>with reason: </source>
+    <target>по причинне: </target>
+</phrase>
+<phrase>
+    <source>General</source>
+    <target>Общие</target>
+</phrase>
 </QPH>

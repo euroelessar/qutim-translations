@@ -27,7 +27,7 @@
 <context>
     <name>Affiliation</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+500"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+553"/>
         <source>Alumni Org.</source>
         <translation>Алумни организации</translation>
     </message>
@@ -130,7 +130,7 @@
 <context>
     <name>Age</name>
     <message>
-        <location line="+7"/>
+        <location line="+13"/>
         <source>13-17</source>
         <translation>13-17</translation>
     </message>
@@ -173,7 +173,7 @@
         <translation>Руслан Нигматуллин</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+38"/>
+        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+42"/>
         <source>Alexey Ignatiev</source>
         <translation>Алексей Игнатиев</translation>
     </message>
@@ -188,7 +188,7 @@
 <context>
     <name>ClientIdentify</name>
     <message>
-        <location line="+141"/>
+        <location line="+170"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
@@ -196,7 +196,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="+304"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="+308"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -286,12 +286,12 @@
         <translation>Друг клиент с този UIN се свързва</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+4"/>
         <source>Unknown error</source>
         <translation>Неизвестна грешка</translation>
     </message>
     <message>
-        <location line="-32"/>
+        <location line="-34"/>
         <source>DB send error</source>
         <translation>Грешка при изпращане на базата данни</translation>
     </message>
@@ -543,32 +543,35 @@
         <translation>Премахване от списък &quot;Пренебрегнати&quot;</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-2"/>
         <source>Possible client</source>
-        <translation>Вероятен клиент</translation>
+        <translation type="obsolete">Вероятен клиент</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+73"/>
+        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+67"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location line="+315"/>
+=======
+        <location line="+307"/>
+>>>>>>> 077b839727d58a06fab6347f4b0a3f2551f97f70
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+7"/>
         <source>Signed on</source>
         <translation>Влизане в</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+5"/>
         <source>Away since</source>
         <translation>Отсъства от</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+5"/>
         <source>Reg. date</source>
         <translation>Регистрация от</translation>
     </message>
@@ -624,7 +627,7 @@
 <context>
     <name>Country</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="-504"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="-566"/>
         <source>Other</source>
         <translation>Други</translation>
     </message>
@@ -1884,7 +1887,7 @@
         <translation type="obsolete">Не е зададен</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+152"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+180"/>
         <source>Female</source>
         <translation>Жена</translation>
     </message>
@@ -1892,6 +1895,44 @@
         <location line="-1"/>
         <source>Male</source>
         <translation>Мъж</translation>
+    </message>
+</context>
+<context>
+    <name>IcqAccountMainSettings</name>
+    <message>
+        <location filename="../../protocols/oscar/src/ui/icqaccountmainsettings.ui" line="+14"/>
+        <source>Form</source>
+        <translation>Настройки</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>UIN:</source>
+        <translation>UIN:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Password:</source>
+        <translation>Парола:</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>User name:</source>
+        <translation>Потребителско име:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Server:</source>
+        <translation>Сървър:</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Port:</source>
+        <translation>Порт:</translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Use ssl (experimental)</source>
+        <translation>Използване на SSL (експериментално)</translation>
     </message>
 </context>
 <context>
@@ -2217,7 +2258,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Industry</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+24"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+38"/>
         <source>Agriculture</source>
         <translation>Селско стопанство</translation>
     </message>
@@ -2310,7 +2351,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Interest</name>
     <message>
-        <location line="-186"/>
+        <location line="-221"/>
         <source>50&apos;s</source>
         <translation>50-те</translation>
     </message>
@@ -2563,7 +2604,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Language</name>
     <message>
-        <location line="+6"/>
+        <location line="+13"/>
         <source>Afrikaans</source>
         <translation>африкански</translation>
     </message>
@@ -2926,7 +2967,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Marital</name>
     <message>
-        <location line="+137"/>
+        <location line="+192"/>
         <source>Single</source>
         <translation>Свободен/Свободна</translation>
     </message>
@@ -2982,7 +3023,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MetaInfo</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+6"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+13"/>
         <source>Nick</source>
         <translation>Псевдоним</translation>
     </message>
@@ -3176,7 +3217,7 @@ p, li { white-space: pre-wrap; }
         <translation>Минало</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo.cpp" line="+116"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafield.cpp" line="+99"/>
         <source>Basic</source>
         <translation>Основна</translation>
     </message>
@@ -3192,7 +3233,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+2"/>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+1"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+1"/>
         <source>Affilations</source>
         <translation>Принадлежности</translation>
     </message>
@@ -3200,7 +3241,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MetaInfoHome</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="-37"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="-37"/>
         <source>City</source>
         <translation>Град</translation>
     </message>
@@ -3319,7 +3360,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Occupation</name>
     <message>
-        <location line="-121"/>
+        <location line="-148"/>
         <source>Academic</source>
         <translation>Академична</translation>
     </message>
@@ -3462,7 +3503,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Past</name>
     <message>
-        <location line="-87"/>
+        <location line="-115"/>
         <source>Elementary School</source>
         <translation>Начално училище</translation>
     </message>
@@ -3514,7 +3555,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Модулна реализация на OSCAR протокола</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-145"/>
+        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-176"/>
         <source>OscarIdentify</source>
         <translation>Oscar идентификация</translation>
     </message>
@@ -3663,7 +3704,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="-322"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="-326"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>
@@ -3791,9 +3832,14 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/oscar/src/icqprotocol.cpp" line="+42"/>
+        <location filename="../../protocols/oscar/src/icqprotocol.cpp" line="+44"/>
         <source>Icq</source>
         <translation>ICQ</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Icq account settings</source>
+        <translation>Настройки на ICQ сметката</translation>
     </message>
 </context>
 <context>
@@ -3837,7 +3883,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>StudyLevel</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+17"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+31"/>
         <source>Associated degree</source>
         <translation>Специалист</translation>
     </message>

@@ -391,33 +391,41 @@
         <translation>Откриване на услуги</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+195"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+196"/>
         <source>Join groupchat</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+3"/>
-        <location line="+197"/>
         <source>Join to conference</source>
-        <translation>Присъединяване към конференция</translation>
+        <translation type="obsolete">Присъединяване към конференция</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Leave from conference</source>
-        <translation>Напускане на конференцията</translation>
+        <translation type="obsolete">Напускане на конференцията</translation>
     </message>
     <message>
         <source>Copy room address to clipboard</source>
         <translation type="obsolete">Копиране на адреса на стаята в клип-борда</translation>
     </message>
     <message>
-        <location line="-186"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+3"/>
+        <location line="+197"/>
+        <source>Join conference</source>
+        <translation>Присъединяване към групов разговор</translation>
+    </message>
+    <message>
+        <location line="-184"/>
         <location line="+195"/>
         <source>Save to bookmarks</source>
         <translation>Запазване в отметките</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="-9"/>
+        <source>Leave conference</source>
+        <translation>Напускане на конференцията</translation>
+    </message>
+    <message>
+        <location line="+11"/>
         <source>Remove from bookmarks</source>
         <translation>Премахване от отметките</translation>
     </message>
@@ -511,7 +519,7 @@
 <context>
     <name>Jabber::JConnectionListener</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/connection/jconnectionlistener.cpp" line="+42"/>
+        <location filename="../../protocols/jabber/src/protocol/account/connection/jconnectionlistener.cpp" line="+43"/>
         <source>The entity has sent XML that cannot be processed.</source>
         <translation>Ответната страна изпрати XML, който не може да бъде обработен.</translation>
     </message>
@@ -831,7 +839,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCManager</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-146"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-147"/>
         <source>Join groupchat on</source>
         <translation>Присъединяване към групов разговор за</translation>
     </message>
@@ -868,7 +876,7 @@ Accept invitation?</source>
 </translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+207"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+209"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете ли да се присъедините повторно?</translation>
     </message>
@@ -1009,7 +1017,7 @@ Accept invitation?</source>
         <translation> модератор</translation>
     </message>
     <message>
-        <location line="+103"/>
+        <location line="+105"/>
         <source>Subject:</source>
         <translation>Тема:</translation>
     </message>

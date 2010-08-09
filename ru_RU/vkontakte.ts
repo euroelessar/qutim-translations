@@ -11,7 +11,7 @@
     <message>
         <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+17"/>
         <source>Alexey Sidorov</source>
-        <translation type="unfinished">Алексей Сидоров</translation>
+        <translation>Алексей Сидоров</translation>
     </message>
 </context>
 <context>
@@ -59,32 +59,38 @@
     <message>
         <location line="+1"/>
         <source>Home phone</source>
-        <translation type="unfinished">Дом. Телефон</translation>
+        <translation>Дом. Телефон</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+183"/>
+        <location filename="../../protocols/vkontakte/src/vinforequest.cpp" line="+1"/>
         <source>Mobile phone</source>
-        <translation type="unfinished">Мобильный</translation>
+        <translation>Мобильный</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+5"/>
+        <source>Activity</source>
+        <translation>Занятие</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/vkontakte/src/vinforequest.cpp" line="+1"/>
         <source>University</source>
-        <translation type="unfinished">Университет</translation>
+        <translation>Университет</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Faculty</source>
-        <translation type="unfinished">Факультет</translation>
+        <translation>Факультет</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Graduation year</source>
-        <translation type="unfinished">Год выпуска</translation>
+        <translation>Год выпуска</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Undefined</source>
-        <translation type="unfinished">Не определено</translation>
+        <translation>Не определено</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -99,12 +105,12 @@
     <message>
         <location line="+39"/>
         <source>General</source>
-        <translation type="unfinished">Главные</translation>
+        <translation>Главные</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Person</source>
-        <translation type="unfinished">Личное</translation>
+        <translation>Личное</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -114,15 +120,14 @@
     <message>
         <location line="+8"/>
         <source>Education</source>
-        <translation type="unfinished">Образование</translation>
+        <translation>Образование</translation>
     </message>
 </context>
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+177"/>
         <source>Activity</source>
-        <translation type="unfinished">Занятие</translation>
+        <translation type="obsolete">Занятие</translation>
     </message>
 </context>
 <context>
@@ -258,7 +263,7 @@
     <message>
         <location line="+1"/>
         <source>Simple implementation of vkontakte, based on desktop.api</source>
-        <translation type="unfinished">Простая реализация ВКонтакте, основана на desktop.api</translation>
+        <translation>Простая реализация ВКонтакте, основана на desktop.api</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -274,12 +279,12 @@
         <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="-3"/>
         <source>Wall</source>
         <translatorcomment>Убей себя с разбегу</translatorcomment>
-        <translation type="unfinished">Стена</translation>
+        <translation>Стена</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Vkontakte wall support for qutIM</source>
-        <translation type="unfinished">Поддержка стены для qutIM (биться с разбегу)</translation>
+        <translation>Поддержка стены для qutIM (биться с разбегу)</translation>
     </message>
 </context>
 <context>
@@ -317,9 +322,9 @@
 <context>
     <name>VConnection</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vconnection.cpp" line="+111"/>
+        <location filename="../../protocols/vkontakte/src/vconnection.cpp" line="+81"/>
         <source>qutIM - VKontakte authorization</source>
-        <translation type="unfinished">qutIM - авторизация Вконтакте</translation>
+        <translation>qutIM - авторизация Вконтакте</translation>
     </message>
 </context>
 <context>
@@ -341,7 +346,7 @@
     <message>
         <location filename="../../protocols/vkontakte/plugins/wall/vwallsession.cpp" line="+42"/>
         <source>%1 (Wall)</source>
-        <translation type="unfinished">%1 (Стена)</translation>
+        <translation>%1 (Стена)</translation>
     </message>
 </context>
 <context>
@@ -354,42 +359,42 @@
     <message>
         <location line="+129"/>
         <source>Unknown</source>
-        <translation type="unfinished">Неизвестно</translation>
+        <translation>Неизвестно</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Audio</source>
-        <translation type="unfinished">Аудио</translation>
+        <translation>Аудио</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Video</source>
-        <translation type="unfinished">Видео</translation>
+        <translation>Видео</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Application</source>
-        <translation type="unfinished">Приложение</translation>
+        <translation>Приложение</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Graffiti</source>
-        <translation type="unfinished">Графити</translation>
+        <translation>Графити</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Photo</source>
-        <translation type="unfinished">Фото</translation>
+        <translation>Фото</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Posted photo</source>
-        <translation type="unfinished">Добавлено фото</translation>
+        <translation>Добавлено фото</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Multimedia message: %1</source>
-        <translation type="unfinished">Мультимедиа сообщение: %1</translation>
+        <translation>Мультимедиа сообщение: %1</translation>
     </message>
 </context>
 <context>
@@ -421,21 +426,39 @@
         <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+9"/>
         <source>View wall</source>
         <translatorcomment>Что бы видеть куда разбегаться</translatorcomment>
-        <translation type="unfinished">Показать стену</translation>
+        <translation>Показать стену</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+71"/>
+        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+77"/>
         <source>Open homepage</source>
         <translatorcomment>Открыть хомяка - так значительно короче, но хомячки (сорь за тафтологию) не поймут^_^&apos;</translatorcomment>
-        <translation type="unfinished">Открыть домашнюю страничку</translation>
+        <translation>Открыть домашнюю страничку</translation>
     </message>
 </context>
 <context>
     <name>VkontakteProtocol</name>
     <message>
-        <location line="+20"/>
+        <location line="+27"/>
         <source>id</source>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>VkontakteProtocolPrivate</name>
+    <message>
+        <location line="+29"/>
+        <source>Send sms</source>
+        <translation>Отправить sms</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>text:</source>
+        <translation>текст:</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>sms</source>
+        <translation>смс</translation>
     </message>
 </context>
 <context>
@@ -453,12 +476,12 @@
     <message>
         <location line="+210"/>
         <source>%1 was tagged on photo</source>
-        <translation type="unfinished">%1 отметился на фото</translation>
+        <translation>%1 отметился на фото</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>%1 added new photo</source>
-        <translation type="unfinished">%1 добавил фотографию</translation>
+        <translation>%1 добавил фотографию</translation>
     </message>
 </context>
 <context>

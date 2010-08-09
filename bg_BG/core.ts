@@ -4,7 +4,7 @@
 <context>
     <name>Account</name>
     <message>
-        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+29"/>
+        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+30"/>
         <source>Add new account</source>
         <translation>Добавяне на нова сметка</translation>
     </message>
@@ -380,7 +380,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+565"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatsessionimpl.cpp" line="+570"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -577,12 +577,16 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Добавяне или създаване на нова сметка</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+95"/>
         <source>Edit info</source>
-        <translation>Редактиране на информацията</translation>
+        <translation type="obsolete">Редактиране на информацията</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+95"/>
+        <source>Properties</source>
+        <translation>Свойства</translation>
+    </message>
+    <message>
+        <location line="+7"/>
         <source>Remove account</source>
         <translation>Премахване на сметка</translation>
     </message>
@@ -2401,6 +2405,36 @@ p, li { white-space: pre-wrap; }
         <source>Chat</source>
         <translation>Разговор</translation>
     </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="+47"/>
+        <source>General</source>
+        <translation>Общи</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Protocols</source>
+        <translation>Протоколи</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Appearance</source>
+        <translation>Облик</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Plugins</source>
+        <translation>Добавки</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Special</source>
+        <translation>Специални</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Invalid</source>
+        <translation>Невалидни</translation>
+    </message>
 </context>
 <context>
     <name>SettingsDialog</name>
@@ -2593,49 +2627,49 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>ToolTip</name>
+    <message>
+        <location filename="../../qutim/libqutim/buddy.cpp" line="+101"/>
+        <source>Account</source>
+        <translation>Сметка</translation>
+    </message>
+</context>
+<context>
     <name>XSettingsDialog</name>
     <message>
-        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="+53"/>
         <source>General</source>
-        <translation>Общи</translation>
+        <translation type="obsolete">Общи</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>General configuration</source>
-        <translation>Общи настройки</translation>
+        <translation type="obsolete">Общи настройки</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Protocols</source>
-        <translation>Протоколи</translation>
+        <translation type="obsolete">Протоколи</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Accounts and protocols settings</source>
-        <translation>Настройки на сметки и протоколи</translation>
+        <translation type="obsolete">Настройки на сметки и протоколи</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Appearance</source>
-        <translation>Облик</translation>
+        <translation type="obsolete">Облик</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Appearance settings</source>
-        <translation>Настройки на облика</translation>
+        <translation type="obsolete">Настройки на облика</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Plugins</source>
-        <translation>Добавки</translation>
+        <translation type="obsolete">Добавки</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Additional plugins settings</source>
-        <translation>Допълнителни настройки на добавките</translation>
+        <translation type="obsolete">Допълнителни настройки на добавките</translation>
     </message>
     <message>
-        <location line="+122"/>
+        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingsdialog.cpp" line="+161"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки на qutIM - %1</translation>
     </message>

@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../kde-integration/src/kdeintegration.cpp" line="+42"/>
+        <location filename="../../src/kdeintegration.cpp" line="+42"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -17,7 +17,7 @@
 <context>
     <name>KDENotificationLayer</name>
     <message>
-        <location filename="../../kde-integration/src/notification/kdenotificationlayer.cpp" line="+121"/>
+        <location filename="../../src/notification/kdenotificationlayer.cpp" line="+121"/>
         <source>Open chat</source>
         <translation>Открыть чат</translation>
     </message>
@@ -30,7 +30,7 @@
 <context>
     <name>KdeSpellerSettings</name>
     <message>
-        <location filename="../../kde-integration/src/speller/kdespellersettings.ui" line="+14"/>
+        <location filename="../../src/speller/kdespellersettings.ui" line="+14"/>
         <source>Form</source>
         <translation></translation>
     </message>
@@ -48,7 +48,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../kde-integration/src/kdeintegration.cpp" line="+3"/>
+        <location filename="../../src/kdeintegration.cpp" line="+3"/>
         <source>KDE integration</source>
         <translation>Интеграция с KDE</translation>
     </message>
@@ -106,13 +106,13 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../kde-integration/src/speller/kdespellerlayer.cpp" line="+29"/>
+        <location filename="../../src/speller/kdespellerlayer.cpp" line="+29"/>
         <source>Spell checker</source>
         <translatorcomment>Не смешные шутки. / А что тут было написано???</translatorcomment>
         <translation>Проверка орфографии</translation>
     </message>
     <message>
-        <location filename="../../kde-integration/src/notification/kdenotificationlayer.cpp" line="-83"/>
+        <location filename="../../src/notification/kdenotificationlayer.cpp" line="-83"/>
         <source>Popups</source>
         <translation>Уведомления</translation>
     </message>
@@ -120,7 +120,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../kde-integration/src/kdeintegration.cpp" line="-21"/>
+        <location filename="../../src/kdeintegration.cpp" line="-21"/>
         <location line="+3"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
@@ -129,7 +129,7 @@
 <context>
     <name>plugmanSettings</name>
     <message>
-        <location filename="../../kde-integration/src/notification/settings.ui" line="+13"/>
+        <location filename="../../src/notification/settings.ui" line="+13"/>
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>

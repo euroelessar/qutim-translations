@@ -397,7 +397,7 @@
         <translation type="unfinished">Искать канал...</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircaccount.cpp" line="+253"/>
+        <location filename="../../protocols/irc/src/ircaccount.cpp" line="+254"/>
         <source>Join channel</source>
         <translation type="unfinished">Подключиться к каналу</translation>
     </message>
@@ -467,7 +467,7 @@
         <translation type="obsolete">%1 сменил топик на %2.</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+321"/>
+        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+322"/>
         <source>%1 gives channel operator privileges to %2.</source>
         <translation>%1 дал опа %2.</translation>
     </message>
@@ -584,7 +584,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcChannel</name>
     <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="-204"/>
+        <location filename="../../protocols/irc/src/ircchannel.cpp" line="-205"/>
         <source>You are now known as %1</source>
         <translation>Теперь вы известны как %1</translation>
     </message>
@@ -639,7 +639,7 @@
         <translation>%1 был выкинут %2</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="+14"/>
         <source>The channel topic is &quot;%1&quot;</source>
         <translation>Тема канала &quot;%1&quot;</translation>
     </message>
@@ -675,7 +675,7 @@
         <translation>Сервер %1 (Версия %2), Режимы пользователей: %3, Режимы каналов: %4</translation>
     </message>
     <message>
-        <location line="+121"/>
+        <location line="+122"/>
         <source>Message of the day:</source>
         <translation>Сообщение дня:</translation>
     </message>

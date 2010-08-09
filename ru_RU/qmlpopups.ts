@@ -4,7 +4,7 @@
 <context>
     <name>AppearanceSettings</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/settings/popupappearance.ui" line="+20"/>
+        <location filename="../../src/settings/popupappearance.ui" line="+20"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -17,7 +17,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+15"/>
+        <location filename="../../src/qmlpopups.cpp" line="+15"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -144,7 +144,7 @@
 <context>
     <name>QmlPopups::Popup</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/popup.cpp" line="+74"/>
+        <location filename="../../src/popup.cpp" line="+74"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
         <translation>&lt;p&gt; + %1 уведомлений &lt;/p&gt;</translation>
     </message>
@@ -152,7 +152,7 @@
 <context>
     <name>QmlPopups::PopupAppearance</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/settings/popupappearance.cpp" line="+33"/>
+        <location filename="../../src/settings/popupappearance.cpp" line="+33"/>
         <location line="+64"/>
         <location line="+9"/>
         <source>Preview</source>
@@ -186,7 +186,7 @@
         <translation type="obsolete">Уведомления</translation>
     </message>
     <message>
-        <location filename="../../plugins/qmlpopups/src/backend.cpp" line="+35"/>
+        <location filename="../../src/backend.cpp" line="+35"/>
         <source>Popups</source>
         <translation>Уведомления</translation>
     </message>
@@ -194,7 +194,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+3"/>
+        <location filename="../../src/qmlpopups.cpp" line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>

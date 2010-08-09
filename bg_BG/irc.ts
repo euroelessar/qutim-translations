@@ -471,7 +471,7 @@
         <translation type="obsolete">Заглавието на канала е зададено от %1 на %2.</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+321"/>
+        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+322"/>
         <source>%1 gives channel operator privileges to %2.</source>
         <translation>%1 даде операторски права в канала на %2.</translation>
     </message>
@@ -603,7 +603,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcChannel</name>
     <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="-204"/>
+        <location filename="../../protocols/irc/src/ircchannel.cpp" line="-205"/>
         <source>You are now known as %1</source>
         <translation>В момента се подвизавате като %1</translation>
     </message>
@@ -658,7 +658,7 @@
         <translation>%1 изрита %2</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="+14"/>
         <source>The channel topic is &quot;%1&quot;</source>
         <translation>Заглавието на канала е &quot;%1&quot;</translation>
     </message>
