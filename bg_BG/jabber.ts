@@ -55,7 +55,7 @@
 <context>
     <name>Contact</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+189"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+188"/>
         <source>Resource</source>
         <translation>Ресурс</translation>
     </message>

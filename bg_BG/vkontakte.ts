@@ -62,7 +62,7 @@
         <translation>Телефон (дом.)</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+184"/>
+        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+183"/>
         <location filename="../../protocols/vkontakte/src/vinforequest.cpp" line="+1"/>
         <source>Mobile phone</source>
         <translation>Телефон (моб.)</translation>
@@ -126,10 +126,6 @@
 <context>
     <name>ContactList</name>
     <message>
-<<<<<<< HEAD
-        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+181"/>
-=======
->>>>>>> 077b839727d58a06fab6347f4b0a3f2551f97f70
         <source>Activity</source>
         <translation type="obsolete">Дейност</translation>
     </message>

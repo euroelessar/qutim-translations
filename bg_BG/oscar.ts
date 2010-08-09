@@ -552,11 +552,7 @@
         <translation>Общи</translation>
     </message>
     <message>
-<<<<<<< HEAD
-        <location line="+315"/>
-=======
-        <location line="+307"/>
->>>>>>> 077b839727d58a06fab6347f4b0a3f2551f97f70
+        <location line="+306"/>
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>
