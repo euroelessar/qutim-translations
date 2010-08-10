@@ -173,7 +173,7 @@
         <translation>Руслан Нигматуллин</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+42"/>
+        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+41"/>
         <source>Alexey Ignatiev</source>
         <translation>Алексей Игнатиев</translation>
     </message>

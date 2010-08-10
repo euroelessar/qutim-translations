@@ -55,13 +55,11 @@
 <context>
     <name>Contact</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+188"/>
         <source>Resource</source>
-        <translation>Ресурс</translation>
+        <translation type="obsolete">Ресурс</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+2"/>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+4"/>
+        <location line="+2"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
@@ -147,6 +145,19 @@
         <location line="+2"/>
         <source>Name</source>
         <translation>Име</translation>
+    </message>
+</context>
+<context>
+    <name>ContactResource</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp" line="+116"/>
+        <source>Resource</source>
+        <translation>Ресурс</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Possible client</source>
+        <translation>Вероятен клиент</translation>
     </message>
 </context>
 <context>
@@ -1281,7 +1292,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JSoftwareDetection</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp" line="+193"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp" line="+191"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
