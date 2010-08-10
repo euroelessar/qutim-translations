@@ -188,7 +188,7 @@
 <context>
     <name>ClientIdentify</name>
     <message>
-        <location line="+170"/>
+        <location line="+171"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
@@ -3551,7 +3551,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Модулна реализация на OSCAR протокола</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-176"/>
+        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-177"/>
         <source>OscarIdentify</source>
         <translation>Oscar идентификация</translation>
     </message>

@@ -51,6 +51,16 @@
         <source>Role</source>
         <translation>Роля</translation>
     </message>
+    <message>
+        <location line="+2"/>
+        <source>Possible client</source>
+        <translation>Вероятен клиент</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>OS</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>Contact</name>
@@ -59,9 +69,8 @@
         <translation type="obsolete">Ресурс</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Possible client</source>
-        <translation>Вероятен клиент</translation>
+        <translation type="obsolete">Вероятен клиент</translation>
     </message>
 </context>
 <context>
@@ -158,6 +167,11 @@
         <location line="+7"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>OS</source>
+        <translation></translation>
     </message>
 </context>
 <context>
