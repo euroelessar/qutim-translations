@@ -497,7 +497,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+112"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+115"/>
         <source>Change global status</source>
         <translation>Промяна на общия статус</translation>
     </message>
@@ -507,7 +507,12 @@ p, li { white-space: pre-wrap; }
         <translation>Активиране на основното меню</translation>
     </message>
     <message>
-        <location line="+35"/>
+        <location line="+7"/>
+        <source>ContactList</source>
+        <translation>Списък с контакти</translation>
+    </message>
+    <message>
+        <location line="+33"/>
         <source>&amp;Settings...</source>
         <translation>&amp;Настройки...</translation>
     </message>
@@ -532,7 +537,7 @@ p, li { white-space: pre-wrap; }
         <translation>Скриване на контактите извън линия</translation>
     </message>
     <message>
-        <location line="-138"/>
+        <location line="-144"/>
         <source>Copy id to clipboard</source>
         <translation>Копиране в клипборда</translation>
     </message>
@@ -555,6 +560,36 @@ p, li { white-space: pre-wrap; }
         <location line="+4"/>
         <source>Edit tags</source>
         <translation>Редактиране на етикети</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/contactlist/settings/simplecontactlistsettings.cpp" line="+17"/>
+        <source>Default (depends on platform)</source>
+        <translation>Подразбиращ се (според платформата)</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Small (16x16)</source>
+        <translation>Малък (16x16)</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Medium (22x22)</source>
+        <translation>Среден (22x22)</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Large (32x32)</source>
+        <translation>Голям (32х32)</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Very large (48x48)</source>
+        <translation>Много голям (48х48)</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hige (64x64)</source>
+        <translation>Огромен (64x64)</translation>
     </message>
 </context>
 <context>
@@ -1109,12 +1144,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+97"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+103"/>
         <source>Main Toolbar</source>
         <translation>Главна лентата с инструменти</translation>
     </message>
     <message>
-        <location line="+56"/>
+        <location line="+58"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
@@ -1128,7 +1163,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::TreeView</name>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistview.cpp" line="+59"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlistview.cpp" line="+58"/>
         <source>Select tags</source>
         <translation>Избор на етикети</translation>
     </message>
@@ -1149,7 +1184,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::XSettingsWindow</name>
     <message>
-        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+228"/>
+        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+230"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки на qutIM - %1</translation>
     </message>
@@ -1661,7 +1696,7 @@ p, li { white-space: pre-wrap; }
         <translation>PList конфигурация</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-440"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="-448"/>
         <source>Simple ContactList</source>
         <translation>Опростен списък с контакти</translation>
     </message>
@@ -2284,7 +2319,7 @@ p, li { white-space: pre-wrap; }
         <translation>Четвърто тримесечие</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+417"/>
+        <location filename="../../qutim/src/corelayers/contactlist/simplecontactlist.cpp" line="+425"/>
         <source>Copy %1 to clipboard</source>
         <translation>Копиране на %1 в клипборда</translation>
     </message>
@@ -2426,7 +2461,7 @@ p, li { white-space: pre-wrap; }
         <translation>Разговор</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="-194"/>
+        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="-196"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
@@ -2518,6 +2553,34 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/shortcutsettings/shortcutsettingswidget.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки на клавишни комбинации</translation>
+    </message>
+</context>
+<context>
+    <name>SimpleContactlistSettings</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/contactlist/settings/simplecontactlistsettings.ui" line="+14"/>
+        <source>Form</source>
+        <translation>Настройки на списъка с контакти</translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>Show extended icons</source>
+        <translation>Показване на разширени икони</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show avatars</source>
+        <translation>Показване на аватари</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Status icons size:</source>
+        <translation>Размер на иконите за статус:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Show status text</source>
+        <translation>Показване текста на статуса</translation>
     </message>
 </context>
 <context>
