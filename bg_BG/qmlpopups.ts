@@ -5,13 +5,11 @@
     <name>AppearanceSettings</name>
     <message>
         <location filename="../../plugins/qmlpopups/src/settings/popupappearance.ui" line="+20"/>
-        <location filename="../../plugins/qmlpopups/build/ui_popupappearance.h" line="+86"/>
         <source>Form</source>
         <translation>Настройки на изгледа</translation>
     </message>
     <message>
         <location line="+25"/>
-        <location filename="../../plugins/qmlpopups/build/ui_popupappearance.h" line="+1"/>
         <source>test</source>
         <translation>Проба</translation>
     </message>
@@ -19,7 +17,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+15"/>
+        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+19"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -196,7 +194,7 @@
         <translation type="obsolete">Уведомления</translation>
     </message>
     <message>
-        <location filename="../../plugins/qmlpopups/src/backend.cpp" line="+35"/>
+        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+11"/>
         <source>Popups</source>
         <translation>Изскачащи прозорци</translation>
     </message>
@@ -204,7 +202,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+3"/>
+        <location line="-8"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
