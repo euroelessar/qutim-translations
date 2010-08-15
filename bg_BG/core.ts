@@ -562,7 +562,7 @@ p, li { white-space: pre-wrap; }
         <translation>Редактиране на етикети</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/contactlist/settings/simplecontactlistsettings.cpp" line="+17"/>
+        <location filename="../../qutim/src/corelayers/contactlist/settings/simplecontactlistsettings.cpp" line="+16"/>
         <source>Default (depends on platform)</source>
         <translation>Подразбиращ се (според платформата)</translation>
     </message>
