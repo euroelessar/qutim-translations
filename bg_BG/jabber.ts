@@ -626,12 +626,12 @@
     <message>
         <location line="+3"/>
         <source>The entity has attempted to send restricted XML features such as a comment, processing instruction, DTD, entity reference, or unescaped character.</source>
-        <translation>Ответната страна се опита изпрати ограничени XML характеристики, като коментар, инструкции за обработка, DTD, връзка към обект или неекраниран символ.</translation>
+        <translation>Ответната страна се опита изпрати ограничени XML характеристики, като коментар, инструкции за обработка, DTD, връзка към обект или не-екраниран символ.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The server will not provide service to the initiating entity but is redirecting traffic to another host.</source>
-        <translation>Сървърът няма да предостави услуга на инициирацата страна, но пренасочва трафика към друг хост.</translation>
+        <translation>Сървърът няма да предостави услуга на иницииращата страна, но пренасочва трафика към друг хост.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -656,12 +656,12 @@
     <message>
         <location line="+3"/>
         <source>The value of the &apos;version&apos; attribute provided by the initiating entity in the stream header specifies a version of XMPP that is not supported by the server.</source>
-        <translation>Стойността на &quot;версия&quot; атрибута, предоставен от иницииращата страна, в заглавната част на потока, задава верия на XMPP, която не се поддържа от сървъра.</translation>
+        <translation>Стойността на &quot;версия&quot; атрибута, предоставен от иницииращата страна, в заглавната част на потока, задава версия на XMPP, която не се поддържа от сървъра.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The initiating entity has sent XML that is not well-formed as defined by [XML].</source>
-        <translation>Иницииращата страна испрати XML, който не е добре изграден, както се изисква по [XML]..</translation>
+        <translation>Иницииращата страна изпрати XML, който не е добре изграден, както се изисква по [XML]..</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1240,7 +1240,7 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
-        <translation>Заявяващият обект няма разрешение да достъпва заявената услуга, защото тя изисква плащане.</translation>
+        <translation>Заявяващият обект няма разрешение за достъп до заявената услуга, защото тя изисква плащане.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,7 +1255,7 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
-        <translation>Заявяващият обект няма разрешение да достъпва заявената услуга, защото тя изисква регистрация.</translation>
+        <translation>Заявяващият обект няма разрешение за достъп до заявената услуга, защото тя изисква регистрация.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1280,7 +1280,7 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
-        <translation>Заявяващият обект няма разрешение да достъпва заявената услуга, защото тя изисква абонамент.</translation>
+        <translation>Заявяващият обект няма разрешение за достъп до заявената услуга, защото тя изисква абонамент.</translation>
     </message>
     <message>
         <location line="+3"/>
