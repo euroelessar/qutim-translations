@@ -497,7 +497,7 @@
     <message>
         <location line="+2"/>
         <source>Last ext status update</source>
-        <translation>Последна актуализация на разширеня статус</translation>
+        <translation>Последна актуализация на разширения статус</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1065,7 +1065,7 @@
     <message>
         <location line="+1"/>
         <source>Guadeloupe</source>
-        <translation>Гваделупе</translation>
+        <translation>Гваделупа</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2737,7 +2737,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Gujarati</source>
-        <translation>гуджаратски</translation>
+        <translation>гуджарати</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2847,7 +2847,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Punjabi</source>
-        <translation>пунджаби</translation>
+        <translation>панджаби</translation>
     </message>
     <message>
         <location line="+1"/>
