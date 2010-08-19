@@ -718,7 +718,7 @@
         <location line="+5"/>
         <source>Server load is temporarily too heavy.
 Please wait a while and try again.</source>
-        <translation>Временно сървърът е натоврен.
+        <translation>Временно сървърът е натоварен.
 Моля, изчакайте малко и опитайте отново.</translation>
     </message>
     <message numerus="yes">
