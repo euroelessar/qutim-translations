@@ -4,7 +4,7 @@
 <context>
     <name>AppearanceSettings</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/settings/popupappearance.ui" line="+20"/>
+        <location filename="../../qutim-meta/plugins/qmlpopups/src/settings/popupappearance.ui" line="+20"/>
         <source>Form</source>
         <translation>Настройки на изгледа</translation>
     </message>
@@ -17,7 +17,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+19"/>
+        <location filename="../../qutim-meta/plugins/qmlpopups/src/qmlpopups.cpp" line="+19"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -152,7 +152,7 @@
 <context>
     <name>QmlPopups::Popup</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/popup.cpp" line="+74"/>
+        <location filename="../../qutim-meta/plugins/qmlpopups/src/popup.cpp" line="+74"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
         <translation>&lt;p&gt; + още %1 уведомления &lt;/p&gt;</translation>
     </message>
@@ -160,7 +160,7 @@
 <context>
     <name>QmlPopups::PopupAppearance</name>
     <message>
-        <location filename="../../plugins/qmlpopups/src/settings/popupappearance.cpp" line="+33"/>
+        <location filename="../../qutim-meta/plugins/qmlpopups/src/settings/popupappearance.cpp" line="+33"/>
         <location line="+64"/>
         <location line="+9"/>
         <source>Preview</source>
@@ -194,7 +194,7 @@
         <translation type="obsolete">Уведомления</translation>
     </message>
     <message>
-        <location filename="../../plugins/qmlpopups/src/qmlpopups.cpp" line="+11"/>
+        <location filename="../../qutim-meta/plugins/qmlpopups/src/qmlpopups.cpp" line="+11"/>
         <source>Popups</source>
         <translation>Изскачащи прозорци</translation>
     </message>

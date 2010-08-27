@@ -4,7 +4,7 @@
 <context>
     <name>AddAccountForm</name>
     <message>
-        <location filename="../../protocols/irc/src/ui/addaccountform.ui" line="+14"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ui/addaccountform.ui" line="+14"/>
         <source>AddAccountForm</source>
         <translation>Добавяне на сметка</translation>
     </message>
@@ -57,7 +57,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/irc/src/ircplugin.cpp" line="+33"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircplugin.cpp" line="+33"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
     </message>
@@ -65,7 +65,7 @@
 <context>
     <name>EditNickForm</name>
     <message>
-        <location filename="../../protocols/irc/src/ui/editnickform.ui" line="+14"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ui/editnickform.ui" line="+14"/>
         <source>Form</source>
         <translation>Редактиране на псевдоним</translation>
     </message>
@@ -391,7 +391,7 @@
         <translation type="obsolete">Присъединяване към канал...</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+56"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircprotocol.cpp" line="+56"/>
         <source>Show console...</source>
         <translation>Показване на конзолата...</translation>
     </message>
@@ -401,7 +401,7 @@
         <translation>Търсене на канал...</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircaccount.cpp" line="+254"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircaccount.cpp" line="+254"/>
         <source>Join channel</source>
         <translation>Присъединяване към канал</translation>
     </message>
@@ -471,7 +471,7 @@
         <translation type="obsolete">Заглавието на канала е зададено от %1 на %2.</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+322"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="+322"/>
         <source>%1 gives channel operator privileges to %2.</source>
         <translation>%1 даде операторски права в канала на %2.</translation>
     </message>
@@ -504,7 +504,7 @@
 <context>
     <name>IrcChannelListForm</name>
     <message>
-        <location filename="../../protocols/irc/src/ui/ircchannellist.ui" line="+14"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ui/ircchannellist.ui" line="+14"/>
         <source>Form</source>
         <translation>Канали</translation>
     </message>
@@ -524,7 +524,7 @@
 <context>
     <name>IrcConsoleForm</name>
     <message>
-        <location filename="../../protocols/irc/src/ui/console.ui" line="+14"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ui/console.ui" line="+14"/>
         <source>IRC Server Console</source>
         <translation>Конзола на IRC сървъра</translation>
     </message>
@@ -532,7 +532,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../protocols/irc/src/ircplugin.cpp" line="-3"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircplugin.cpp" line="-3"/>
         <location line="+6"/>
         <source>IRC</source>
         <translation>IRC</translation>
@@ -561,7 +561,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../protocols/irc/src/irccommandalias.cpp" line="+71"/>
+        <location filename="../../qutim-meta/protocols/irc/src/irccommandalias.cpp" line="+71"/>
         <source>Not enough parameters for command %1</source>
         <translation>Липсват достатъчно параметри за командата %1</translation>
     </message>
@@ -569,7 +569,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../protocols/irc/src/ircplugin.cpp" line="-7"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircplugin.cpp" line="-7"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -577,7 +577,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::ChannelsModel</name>
     <message>
-        <location filename="../../protocols/irc/src/ui/ircchannellist.cpp" line="+81"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ui/ircchannellist.cpp" line="+81"/>
         <source>Channel</source>
         <translation>Канал</translation>
     </message>
@@ -595,7 +595,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcAccount</name>
     <message>
-        <location filename="../../protocols/irc/src/ircaccount.cpp" line="-180"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircaccount.cpp" line="-180"/>
         <source>Away</source>
         <translation>Отсъствам</translation>
     </message>
@@ -603,7 +603,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcChannel</name>
     <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="-205"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="-205"/>
         <source>You are now known as %1</source>
         <translation>В момента се подвизавате като %1</translation>
     </message>
@@ -671,7 +671,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcChannelListForm</name>
     <message>
-        <location filename="../../protocols/irc/src/ui/ircchannellist.cpp" line="+93"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ui/ircchannellist.cpp" line="+93"/>
         <source>Fetching channels list...</source>
         <translation>Изтегляне на списъка с канали...</translation>
     </message>
@@ -689,7 +689,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+165"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircconnection.cpp" line="+165"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
     </message>

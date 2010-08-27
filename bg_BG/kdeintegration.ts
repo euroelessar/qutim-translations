@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../kde-integration/src/kdeintegration.cpp" line="+42"/>
+        <location filename="../../qutim-meta/integrations/kde/src/kdeintegration.cpp" line="+60"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -17,7 +17,7 @@
 <context>
     <name>KDENotificationLayer</name>
     <message>
-        <location filename="../../kde-integration/src/notification/kdenotificationlayer.cpp" line="+121"/>
+        <location filename="../../qutim-meta/integrations/kde/src/notification/kdenotificationlayer.cpp" line="+121"/>
         <source>Open chat</source>
         <translation>Отваряне на разговор</translation>
     </message>
@@ -30,7 +30,7 @@
 <context>
     <name>KdeSpellerSettings</name>
     <message>
-        <location filename="../../kde-integration/src/speller/kdespellersettings.ui" line="+14"/>
+        <location filename="../../qutim-meta/integrations/kde/src/speller/kdespellersettings.ui" line="+14"/>
         <source>Form</source>
         <translation>Проверка на правописа</translation>
     </message>
@@ -48,7 +48,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../kde-integration/src/kdeintegration.cpp" line="+3"/>
+        <location filename="../../qutim-meta/integrations/kde/src/kdeintegration.cpp" line="+3"/>
         <source>KDE integration</source>
         <translation>Интеграция с KDE</translation>
     </message>
@@ -102,16 +102,26 @@
         <source>Uses KDE notifications</source>
         <translation>Използване на KDE уведомления</translation>
     </message>
+    <message>
+        <location line="+2"/>
+        <source>KDE Status Notifier</source>
+        <translation>Уведомления за статуса в KDE</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Using new KDE DBus tray specification</source>
+        <translation>Използване на новите KDE DBus спецификации за системния поднос</translation>
+    </message>
 </context>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../kde-integration/src/speller/kdespellerlayer.cpp" line="+29"/>
+        <location filename="../../qutim-meta/integrations/kde/src/speller/kdespellerlayer.cpp" line="+29"/>
         <source>Spell checker</source>
         <translation>Проверка на правописа</translation>
     </message>
     <message>
-        <location filename="../../kde-integration/src/notification/kdenotificationlayer.cpp" line="-83"/>
+        <location filename="../../qutim-meta/integrations/kde/src/notification/kdenotificationlayer.cpp" line="-83"/>
         <source>Popups</source>
         <translation>Изскачащи прозорци</translation>
     </message>
@@ -119,7 +129,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../kde-integration/src/kdeintegration.cpp" line="-21"/>
+        <location filename="../../qutim-meta/integrations/kde/src/kdeintegration.cpp" line="-24"/>
         <location line="+3"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
@@ -128,7 +138,7 @@
 <context>
     <name>plugmanSettings</name>
     <message>
-        <location filename="../../kde-integration/src/notification/settings.ui" line="+13"/>
+        <location filename="../../qutim-meta/integrations/kde/src/notification/settings.ui" line="+13"/>
         <source>Form</source>
         <translation>Добавки</translation>
     </message>

@@ -4,7 +4,7 @@
 <context>
     <name>AWNService</name>
     <message>
-        <location filename="../../plugins/awn/src/awnservice.cpp" line="+275"/>
+        <location filename="../../qutim-meta/plugins/awn/src/awnservice.cpp" line="+275"/>
         <source>Show/Hide</source>
         <translation>Показване/Скриване</translation>
     </message>
@@ -32,7 +32,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/awn/src/awn.cpp" line="+27"/>
+        <location filename="../../qutim-meta/plugins/awn/src/awn.cpp" line="+27"/>
         <source>Stanislav (proDOOMman) Kosolapov</source>
         <translation>Станислав (proDOOMman) Косолапов</translation>
     </message>
@@ -49,7 +49,7 @@
         <location line="-4"/>
         <location line="+5"/>
         <source>Avant window navigator dock integration</source>
-        <translation>Интеграция с Avant window navigator dock</translation>
+        <translation>Интеграция за Avant window navigator dock</translation>
     </message>
 </context>
 <context>

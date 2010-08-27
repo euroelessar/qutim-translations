@@ -4,12 +4,13 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+31"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="+31"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+17"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="+17"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+17"/>
         <source>Alexey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -17,7 +18,7 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vinforequest.cpp" line="+52"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vinforequest.cpp" line="+52"/>
         <source>Nickname</source>
         <translation>Псевдоним</translation>
     </message>
@@ -62,8 +63,8 @@
         <translation>Телефон (дом.)</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+183"/>
-        <location filename="../../protocols/vkontakte/src/vinforequest.cpp" line="+1"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vcontact.cpp" line="+183"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vinforequest.cpp" line="+1"/>
         <source>Mobile phone</source>
         <translation>Телефон (моб.)</translation>
     </message>
@@ -73,7 +74,7 @@
         <translation>Дейност</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/src/vinforequest.cpp" line="+1"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vinforequest.cpp" line="+1"/>
         <source>University</source>
         <translation>Университет</translation>
     </message>
@@ -227,7 +228,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="-3"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="-3"/>
         <source>Vkontakte</source>
         <translation>ВКонтакте</translation>
     </message>
@@ -261,7 +262,7 @@
         <translation type="obsolete">Userapi</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="-3"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="-3"/>
         <source>Wall</source>
         <translation>Стена</translation>
     </message>
@@ -270,12 +271,23 @@
         <source>Vkontakte wall support for qutIM</source>
         <translation>Поддръжка на ВКонтакте стена в qutIM</translation>
     </message>
+    <message>
+        <location filename="../../qutim-meta/protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="-3"/>
+        <source>Photoalbum</source>
+        <translation>Фото албум</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Vkontakte photoalbum support for qutIM</source>
+        <translation>Поддръжка на ВКонтакте фото албум в qutIM</translation>
+    </message>
 </context>
 <context>
     <name>Task</name>
     <message>
         <location line="+3"/>
-        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="-14"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+3"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="-14"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -283,7 +295,7 @@
 <context>
     <name>VAccountSettings</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/ui/vaccountsettings.ui" line="+14"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/ui/vaccountsettings.ui" line="+14"/>
         <source>Account settings</source>
         <translation>Настройки на сметката</translation>
     </message>
@@ -301,7 +313,7 @@
 <context>
     <name>VAccountWizardPage</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/ui/vaccountwizardpage.ui" line="+14"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/ui/vaccountwizardpage.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Създаване на сметка</translation>
     </message>
@@ -324,7 +336,7 @@
 <context>
     <name>VConnection</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vconnection.cpp" line="+81"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vconnection.cpp" line="+81"/>
         <source>qutIM - VKontakte authorization</source>
         <translation>qutIM -ВКонтакте удостоверяване</translation>
     </message>
@@ -346,7 +358,7 @@
 <context>
     <name>VWallSession</name>
     <message>
-        <location filename="../../protocols/vkontakte/plugins/wall/vwallsession.cpp" line="+42"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/plugins/wall/vwallsession.cpp" line="+42"/>
         <source>%1 (Wall)</source>
         <translation>%1 (Стена)</translation>
     </message>
@@ -420,19 +432,24 @@
 <context>
     <name>Vkontakte</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+77"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteprotocol.cpp" line="+77"/>
         <source>Open homepage</source>
         <translation>Отваряне страницата</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+9"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+9"/>
         <source>View wall</source>
         <translation>Преглед на всички</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+17"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="+17"/>
         <source>Account settings</source>
         <translation>Настройки на сметката</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="+10"/>
+        <source>View photoalbum</source>
+        <translation>Преглед на фото албума</translation>
     </message>
 </context>
 <context>
@@ -446,7 +463,7 @@
         <translation type="obsolete">Email</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+27"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteprotocol.cpp" line="+27"/>
         <source>id</source>
         <translation></translation>
     </message>

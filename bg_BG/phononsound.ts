@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/phononsound/src/phononsoundplugin.cpp" line="+22"/>
+        <location filename="../../qutim-meta/plugins/phononsound/src/phononsoundplugin.cpp" line="+22"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>

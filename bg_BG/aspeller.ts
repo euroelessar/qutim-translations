@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/aspeller/src/aspellplugin.cpp" line="+26"/>
+        <location filename="../../qutim-meta/plugins/aspeller/src/aspellplugin.cpp" line="+26"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>

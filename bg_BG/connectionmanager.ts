@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="+47"/>
+        <location filename="../../qutim-meta/plugins/connectionmanager/src/connectionmanager.cpp" line="+47"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -12,14 +12,12 @@
 <context>
     <name>ManagerSettings</name>
     <message>
-        <location filename="../../plugins/connectionmanager/src/managersettings.ui" line="+14"/>
-        <location filename="../../plugins/connectionmanager/build/ui_managersettings.h" line="+60"/>
+        <location filename="../../qutim-meta/plugins/connectionmanager/src/managersettings.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
     <message>
         <location line="+28"/>
-        <location filename="../../plugins/connectionmanager/build/ui_managersettings.h" line="+1"/>
         <source>Autoconnect on startup</source>
         <translation>Автоматично свързване при стартиране</translation>
     </message>
@@ -27,7 +25,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="-3"/>
+        <location filename="../../qutim-meta/plugins/connectionmanager/src/connectionmanager.cpp" line="-3"/>
         <source>ConnectionManager</source>
         <translation>Управление на връзката</translation>
     </message>

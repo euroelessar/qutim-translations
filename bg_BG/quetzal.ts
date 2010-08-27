@@ -4,7 +4,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../protocols/quetzal/src/quetzalplugin.cpp" line="+489"/>
+        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalplugin.cpp" line="+489"/>
         <source>Quetzal</source>
         <translation>Quetzal</translation>
     </message>
@@ -19,7 +19,7 @@
 <context>
     <name>Quetzal</name>
     <message>
-        <location filename="../../protocols/quetzal/src/quetzalaccount.cpp" line="+73"/>
+        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalaccount.cpp" line="+73"/>
         <source>Join groupchat</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>
@@ -35,7 +35,7 @@
 <context>
     <name>QuetzalActionDialog</name>
     <message>
-        <location filename="../../protocols/quetzal/src/quatzelactiondialog.ui" line="+14"/>
+        <location filename="../../qutim-meta/protocols/quetzal/src/quatzelactiondialog.ui" line="+14"/>
         <source>Dialog</source>
         <translation></translation>
     </message>
@@ -43,7 +43,7 @@
 <context>
     <name>QuetzalJoinChatDialog</name>
     <message>
-        <location filename="../../protocols/quetzal/src/quetzaljoinchatdialog.ui" line="+14"/>
+        <location filename="../../qutim-meta/protocols/quetzal/src/quetzaljoinchatdialog.ui" line="+14"/>
         <source>Join group chat</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>
@@ -53,7 +53,7 @@
         <translation>Запис в отметките</translation>
     </message>
     <message>
-        <location filename="../../protocols/quetzal/src/quetzaljoinchatdialog.cpp" line="+43"/>
+        <location filename="../../qutim-meta/protocols/quetzal/src/quetzaljoinchatdialog.cpp" line="+43"/>
         <location line="+117"/>
         <source>Search</source>
         <translation>Търсене</translation>

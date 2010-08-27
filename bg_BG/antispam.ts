@@ -4,15 +4,28 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/antispam/src/antispamplugin.cpp" line="+12"/>
+        <location filename="../../qutim-meta/plugins/antispam/src/antispamplugin.cpp" line="+13"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
 </context>
 <context>
-    <name>Task</name>
+    <name>Plugin</name>
+    <message>
+        <location line="+4"/>
+        <source>Antispam</source>
+        <translation>Защита от SPAM</translation>
+    </message>
     <message>
         <location line="+1"/>
+        <source>Blocks messages from unknown contacts by question-answer pair</source>
+        <translation>Блокира съобщения от неизвестни контакти, чрез двойка: въпрос и отговор</translation>
+    </message>
+</context>
+<context>
+    <name>Task</name>
+    <message>
+        <location line="-4"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>

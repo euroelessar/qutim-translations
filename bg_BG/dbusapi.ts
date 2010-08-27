@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/dbusapi/src/dbusplugin.cpp" line="+138"/>
+        <location filename="../../qutim-meta/plugins/dbusapi/src/dbusplugin.cpp" line="+138"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>

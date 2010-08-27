@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/urlpreview/src/urlpreview.cpp" line="+33"/>
+        <location filename="../../qutim-meta/plugins/urlpreview/src/urlpreview.cpp" line="+33"/>
         <source>Alexander Kazarin</source>
         <translation>Александър Казарин</translation>
     </message>
@@ -94,107 +94,88 @@
 <context>
     <name>urlpreviewSettingsClass</name>
     <message>
-        <location filename="../../plugins/urlpreview/ui_settings.h" line="+257"/>
         <source>Settings</source>
-        <translation>Настройки</translation>
+        <translation type="obsolete">Настройки</translation>
     </message>
     <message>
-        <location line="+9"/>
         <source>General</source>
-        <translation>Общи</translation>
+        <translation type="obsolete">Общи</translation>
     </message>
     <message>
-        <location line="-8"/>
         <source>Enable on incoming messages</source>
-        <translation>Включване за входящите съобщения</translation>
+        <translation type="obsolete">Включване за входящите съобщения</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Enable on outgoing messages</source>
-        <translation>Включване за изходящите съобщения</translation>
+        <translation type="obsolete">Включване за изходящите съобщения</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Don&apos;t show info for text/html content type</source>
-        <translation>Да не се показва информация за text/html content type</translation>
+        <translation type="obsolete">Да не се показва информация за text/html content type</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Ignore SSL warnings</source>
-        <translation>Пренебрегване на SSL предупрежденията</translation>
+        <translation type="obsolete">Пренебрегване на SSL предупрежденията</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Info template:</source>
-        <translation>Шаблон на информацията:</translation>
+        <translation type="obsolete">Шаблон на информацията:</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Macros:
 %TYPE% - Content-Type
 %SIZE% - Content-Length</source>
-        <translation>Макроси:
+        <translation type="obsolete">Макроси:
 %TYPE% - тип на съдържанието
 %SIZE% - размер на съдържанието</translation>
     </message>
     <message>
-        <location line="+14"/>
         <source>Images</source>
-        <translation>Изображения</translation>
+        <translation type="obsolete">Изображения</translation>
     </message>
     <message>
-        <location line="-9"/>
         <source>Max file size limit (in bytes)</source>
-        <translation>Максимален размер на файла (в Байтове)</translation>
+        <translation type="obsolete">Максимален размер на файла (в Байтове)</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>%MAXW% macro</source>
-        <translation>%MAXW% макрос</translation>
+        <translation type="obsolete">%MAXW% макрос</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>%MAXH% macro</source>
-        <translation>%MAXH% макрос</translation>
+        <translation type="obsolete">%MAXH% макрос</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Image preview template:</source>
-        <translation>Шаблон за предварителен преглед изображения:</translation>
+        <translation type="obsolete">Шаблон за предварителен преглед изображения:</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Macros:
 %URL% - Image URL
 %UID% - Generated unique ID</source>
-        <translation>Макрос:
+        <translation type="obsolete">Макрос:
 %URL% - Адрес на изображението
 %UID% - Генериран уникален идентификатор</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>YouTube</source>
-        <translation>YouTube</translation>
+        <translation type="obsolete">YouTube</translation>
     </message>
     <message>
-        <location line="-4"/>
         <source>Enable preview for YouTube links</source>
-        <translation>Включване на предварителен преглед на връзки към YouTube</translation>
+        <translation type="obsolete">Включване на предварителен преглед на връзки към YouTube</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>YouTube links template:</source>
-        <translation>Шаблон за предварителен преглед YouTube връзки:</translation>
+        <translation type="obsolete">Шаблон за предварителен преглед YouTube връзки:</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Macros:
 %YTID% - YouTube ID</source>
-        <translation>Макрос:
+        <translation type="obsolete">Макрос:
 %YTID% - YouTube ID</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -212,7 +193,7 @@ p, li { white-space: pre-wrap; }
 &lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; text-decoration: underline; color:#000000;&quot;&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; text-decoration: underline; color:#000000;&quot;&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; color:#000000;&quot;&gt;(c) 2008-2009&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="obsolete">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Verdana&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -231,9 +212,8 @@ p, li { white-space: pre-wrap; }
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; color:#000000;&quot;&gt;(c) 2008-2009&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location line="+20"/>
         <source>About</source>
-        <translation>За добавката</translation>
+        <translation type="obsolete">За добавката</translation>
     </message>
 </context>
 </TS>

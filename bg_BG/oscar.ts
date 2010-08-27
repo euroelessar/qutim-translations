@@ -4,7 +4,7 @@
 <context>
     <name>AddAccountForm</name>
     <message>
-        <location filename="../../protocols/oscar/src/ui/addaccountform.ui" line="+14"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/ui/addaccountform.ui" line="+14"/>
         <source>AddAccountForm</source>
         <translation>Добавяне на сметка</translation>
     </message>
@@ -27,7 +27,7 @@
 <context>
     <name>Affiliation</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+553"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/metafields.cpp" line="+553"/>
         <source>Alumni Org.</source>
         <translation>Алумни организации</translation>
     </message>
@@ -168,19 +168,19 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+46"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="+46"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+41"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="+41"/>
         <source>Alexey Ignatiev</source>
         <translation>Алексей Игнатиев</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+194"/>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+3"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+194"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="+3"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
     </message>
@@ -196,7 +196,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="+308"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="+308"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -364,7 +364,7 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../protocols/oscar/src/inforequest.cpp" line="+37"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/inforequest.cpp" line="+37"/>
         <source>General</source>
         <translation>Обща</translation>
     </message>
@@ -513,7 +513,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+158"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="+161"/>
         <source>Add to visible list</source>
         <translation>Добавяне в списък &quot;Видим за&quot;</translation>
     </message>
@@ -547,7 +547,7 @@
         <translation type="obsolete">Вероятен клиент</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+67"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/icqcontact.cpp" line="+67"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
@@ -572,7 +572,7 @@
         <translation>Регистрация от</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/authorization.cpp" line="+15"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/authorization.cpp" line="+15"/>
         <source>Ask authorization</source>
         <translation>Удостоверяване</translation>
     </message>
@@ -585,7 +585,7 @@
 <context>
     <name>ContactSearch</name>
     <message>
-        <location filename="../../protocols/oscar/src/contactsearch.cpp" line="+72"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/contactsearch.cpp" line="+72"/>
         <source>UIN</source>
         <translation>UIN</translation>
     </message>
@@ -623,7 +623,7 @@
 <context>
     <name>Country</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="-566"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/metafields.cpp" line="-566"/>
         <source>Other</source>
         <translation>Други</translation>
     </message>
@@ -1836,7 +1836,7 @@
 <context>
     <name>FeedbagError</name>
     <message>
-        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+115"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/feedbag.cpp" line="+115"/>
         <source>No error</source>
         <translation>Без грешка</translation>
     </message>
@@ -1883,7 +1883,7 @@
         <translation type="obsolete">Не е зададен</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+180"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/metafields.cpp" line="+180"/>
         <source>Female</source>
         <translation>Жена</translation>
     </message>
@@ -1896,7 +1896,7 @@
 <context>
     <name>IcqAccountMainSettings</name>
     <message>
-        <location filename="../../protocols/oscar/src/ui/icqaccountmainsettings.ui" line="+14"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/ui/icqaccountmainsettings.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -1934,7 +1934,7 @@
 <context>
     <name>IcqMainSettings</name>
     <message>
-        <location filename="../../protocols/oscar/src/ui/icqmainsettings.ui" line="+14"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/ui/icqmainsettings.ui" line="+14"/>
         <source>Form</source>
         <translation></translation>
     </message>
@@ -2254,7 +2254,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Industry</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+38"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/metafields.cpp" line="+38"/>
         <source>Agriculture</source>
         <translation>Селско стопанство</translation>
     </message>
@@ -3011,7 +3011,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MetaController</name>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+14"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="+14"/>
         <source>Additional</source>
         <translation>Допълнителни</translation>
     </message>
@@ -3019,7 +3019,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MetaInfo</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+13"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/metafields.cpp" line="+13"/>
         <source>Nick</source>
         <translation>Псевдоним</translation>
     </message>
@@ -3213,7 +3213,7 @@ p, li { white-space: pre-wrap; }
         <translation>Минало</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metafield.cpp" line="+99"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/metafield.cpp" line="+99"/>
         <source>Basic</source>
         <translation>Основна</translation>
     </message>
@@ -3229,7 +3229,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+2"/>
-        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+1"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/metafields.cpp" line="+1"/>
         <source>Affilations</source>
         <translation>Принадлежности</translation>
     </message>
@@ -3237,7 +3237,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MetaInfoHome</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="-37"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/metafields.cpp" line="-37"/>
         <source>City</source>
         <translation>Град</translation>
     </message>
@@ -3542,7 +3542,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-6"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="-6"/>
         <source>Oscar</source>
         <translation>Oscar</translation>
     </message>
@@ -3551,7 +3551,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Модулна реализация на OSCAR протокола</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-177"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="-177"/>
         <source>OscarIdentify</source>
         <translation>Oscar идентификация</translation>
     </message>
@@ -3563,8 +3563,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-1"/>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+4"/>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+9"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+4"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="+9"/>
         <source>ICQ</source>
         <translation>ICQ</translation>
     </message>
@@ -3573,7 +3573,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Модулна реализация на ICQ протокола</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+4"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="+4"/>
         <source>ICQ account creator</source>
         <translation>Създаване на ICQ сметка</translation>
     </message>
@@ -3643,7 +3643,7 @@ p, li { white-space: pre-wrap; }
         <translation>Реализация на търсене на Oscar контакти</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-7"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-7"/>
         <source>OscarXStatus</source>
         <translation>Oscar разширен статус</translation>
     </message>
@@ -3657,7 +3657,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Privacy</name>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="-88"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="-91"/>
         <source>Visible for all</source>
         <translation>Видим за всички</translation>
     </message>
@@ -3682,7 +3682,7 @@ p, li { white-space: pre-wrap; }
         <translation>Видим само за списъка с контакти</translation>
     </message>
     <message>
-        <location line="+67"/>
+        <location line="+70"/>
         <source>Visible mode:</source>
         <translation>Режим на видимост:</translation>
     </message>
@@ -3700,7 +3700,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="-326"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="-326"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>
@@ -3828,7 +3828,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/oscar/src/icqprotocol.cpp" line="+44"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/icqprotocol.cpp" line="+44"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
@@ -3841,12 +3841,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarstatus.cpp" line="+38"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarstatus.cpp" line="+38"/>
         <source>Busy</source>
         <translation>Зает</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+14"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+14"/>
         <source>Angry</source>
         <translation>Бесен</translation>
     </message>
@@ -3879,7 +3879,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>StudyLevel</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+31"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/metafields.cpp" line="+31"/>
         <source>Associated degree</source>
         <translation>Специалист</translation>
     </message>
@@ -3922,10 +3922,10 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-5"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="-5"/>
         <location line="+3"/>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-32"/>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-38"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-32"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="-38"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
@@ -3934,7 +3934,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>XStatus</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-157"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-157"/>
         <source>Angry</source>
         <translation>Бесен</translation>
     </message>
@@ -4153,7 +4153,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>statusDialogClass</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/statusdialog.ui" line="+14"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/statusdialog.ui" line="+14"/>
         <source>Custom status</source>
         <translation>Собствен статус</translation>
     </message>

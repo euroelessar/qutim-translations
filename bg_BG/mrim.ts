@@ -4,7 +4,7 @@
 <context>
     <name>AccountWizardMain</name>
     <message>
-        <location filename="../../protocols/mrim/src/ui/wizards/accountwizardmain.ui" line="+14"/>
+        <location filename="../../qutim-meta/protocols/mrim/src/ui/wizards/accountwizardmain.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Магьосник за настройване</translation>
     </message>
@@ -47,7 +47,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/mrim/src/base/mrimplugin.cpp" line="+38"/>
+        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimplugin.cpp" line="+38"/>
         <source>Peter Rusanov</source>
         <translation>Петер Русанов</translation>
     </message>
@@ -55,7 +55,7 @@
 <context>
     <name>Messages</name>
     <message>
-        <location filename="../../protocols/mrim/src/base/messages.cpp" line="+124"/>
+        <location filename="../../qutim-meta/protocols/mrim/src/base/messages.cpp" line="+124"/>
         <source>No such user</source>
         <translation>Няма такъв потребител</translation>
     </message>
@@ -97,7 +97,7 @@
         <translation type="obsolete">Неуспешно удостоверяване!</translation>
     </message>
     <message>
-        <location filename="../../protocols/mrim/src/base/mrimconnection.cpp" line="+239"/>
+        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimconnection.cpp" line="+239"/>
         <source>Another client with same login connected!</source>
         <translation>Друг клиент, със същите детайли за вход се е свързал!</translation>
     </message>
@@ -110,7 +110,7 @@
 <context>
     <name>MrimPacket</name>
     <message>
-        <location filename="../../protocols/mrim/src/base/mrimpacket.cpp" line="+175"/>
+        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimpacket.cpp" line="+175"/>
         <source>No error</source>
         <translation>Без грешка</translation>
     </message>
@@ -133,7 +133,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../protocols/mrim/src/base/mrimplugin.cpp" line="-5"/>
+        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimplugin.cpp" line="-5"/>
         <source>MRIM</source>
         <translation>MRIM</translation>
     </message>
@@ -156,7 +156,7 @@
 <context>
     <name>Roster</name>
     <message>
-        <location filename="../../protocols/mrim/src/base/roster.cpp" line="+226"/>
+        <location filename="../../qutim-meta/protocols/mrim/src/base/roster.cpp" line="+226"/>
         <source>Phone contacts</source>
         <translation>Контакти от телефона</translation>
     </message>
@@ -164,7 +164,7 @@
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../protocols/mrim/src/base/mrimstatus.cpp" line="+83"/>
+        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimstatus.cpp" line="+83"/>
         <source>Sick</source>
         <translation>Болен</translation>
     </message>
@@ -412,7 +412,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../protocols/mrim/src/base/mrimplugin.cpp" line="+7"/>
+        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimplugin.cpp" line="+7"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
