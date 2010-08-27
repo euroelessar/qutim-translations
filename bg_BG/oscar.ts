@@ -188,9 +188,8 @@
 <context>
     <name>ClientIdentify</name>
     <message>
-        <location line="+171"/>
         <source>Possible client</source>
-        <translation>Вероятен клиент</translation>
+        <translation type="obsolete">Вероятен клиент</translation>
     </message>
 </context>
 <context>
@@ -552,7 +551,7 @@
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+306"/>
+        <location line="+305"/>
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>
@@ -3551,7 +3550,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Модулна реализация на OSCAR протокола</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="-177"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="-6"/>
         <source>OscarIdentify</source>
         <translation>Oscar идентификация</translation>
     </message>
@@ -4144,10 +4143,53 @@ p, li { white-space: pre-wrap; }
         <translation>В транспорта</translation>
     </message>
     <message>
-        <location line="+198"/>
-        <location line="+29"/>
+        <source>X-Status</source>
+        <translation type="obsolete">Разширен статус</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::oscar::ClientIdentify</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="+50"/>
+        <location line="+129"/>
+        <source>Possible client</source>
+        <translation>Вероятен клиент</translation>
+    </message>
+    <message>
+        <location line="-128"/>
+        <source>Show client icon</source>
+        <translation>Показване иконата на клиента</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::oscar::PrivacyLists</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="+110"/>
+        <source>Show &quot;visible&quot; icon if contact in visible list</source>
+        <translation>Показване на икона за &quot;видим&quot; ако контакта е в списък &quot;Видим за&quot;</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Show &quot;invisible&quot; icon if contact in invisible list</source>
+        <translation>Показване на икона за &quot;невидим&quot; ако контакта е в списък &quot;Невидим за&quot;</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Show &quot;ignore&quot; icon if contact in ignore list</source>
+        <translation>Показване на икона за &quot;пренебрегнат&quot; ако контакта е в списък &quot;Пренебрегнати&quot;</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+215"/>
         <source>X-Status</source>
         <translation>Разширен статус</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show contact X-Status icon</source>
+        <translation>Показване иконата на разширения статус</translation>
     </message>
 </context>
 <context>

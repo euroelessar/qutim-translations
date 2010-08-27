@@ -562,7 +562,7 @@ p, li { white-space: pre-wrap; }
         <translation>Редактиране на етикети</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/contactlist/settings/simplecontactlistsettings.cpp" line="+16"/>
+        <location filename="../../qutim-meta/core/src/corelayers/contactlist/settings/simplecontactlistsettings.cpp" line="+18"/>
         <source>Default (depends on platform)</source>
         <translation>Подразбиращ се (според платформата)</translation>
     </message>
@@ -2491,22 +2491,22 @@ p, li { white-space: pre-wrap; }
         <translation>Настройки на списъка с контакти</translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+39"/>
         <source>Show extended icons</source>
         <translation>Показване на разширени икони</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="-14"/>
         <source>Show avatars</source>
         <translation>Показване на аватари</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="-10"/>
         <source>Status icons size:</source>
         <translation>Размер на иконите за статус:</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+17"/>
         <source>Show status text</source>
         <translation>Показване текста на статуса</translation>
     </message>
@@ -2584,7 +2584,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/status.cpp" line="+109"/>
+        <location filename="../../qutim-meta/core/libqutim/status.cpp" line="+112"/>
         <source>Online</source>
         <translation>На линия</translation>
     </message>

@@ -1123,6 +1123,16 @@ Accept invitation?</source>
         <source>Enter ban reason for %1</source>
         <translation>Въведете причина за забраната на %1</translation>
     </message>
+    <message>
+        <location line="+169"/>
+        <source>Possible client</source>
+        <translation>Вероятен клиент</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show client icon</source>
+        <translation>Показване иконата на клиента</translation>
+    </message>
 </context>
 <context>
     <name>Jabber::JRoster</name>
@@ -1306,9 +1316,8 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JSoftwareDetection</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp" line="+191"/>
         <source>Possible client</source>
-        <translation>Вероятен клиент</translation>
+        <translation type="obsolete">Вероятен клиент</translation>
     </message>
 </context>
 <context>
@@ -1580,7 +1589,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-64"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-234"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
