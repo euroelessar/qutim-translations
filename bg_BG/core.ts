@@ -542,7 +542,7 @@ p, li { white-space: pre-wrap; }
         <translation>Копиране в клипборда</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+738"/>
+        <location filename="../../qutim-meta/core/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+813"/>
         <source>Remove contact</source>
         <translation>Прeмахване на контакта</translation>
     </message>
@@ -552,7 +552,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавяне в списъка с контакти</translation>
     </message>
     <message>
-        <location line="-682"/>
+        <location line="-748"/>
         <source>Rename contact</source>
         <translation>Преименуване на контакта</translation>
     </message>
@@ -1121,7 +1121,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+598"/>
+        <location filename="../../qutim-meta/core/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+653"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
         <translation>Желаете ли да обедините контактите &quot;%1&quot; &lt;%2&gt; и &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
@@ -1141,7 +1141,7 @@ p, li { white-space: pre-wrap; }
         <translation>Обединяване на контакти</translation>
     </message>
     <message>
-        <location line="+195"/>
+        <location line="+206"/>
         <source>All tags</source>
         <translation>Всички етикети</translation>
     </message>
@@ -1764,12 +1764,14 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Подразбираща се за qutIM конфигурация на хронология. На базата на JSON</translation>
     </message>
     <message>
+        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreator.cpp" line="+11"/>
         <source>Account creator</source>
-        <translation type="obsolete">Създаване на сметка</translation>
+        <translation>Създаване на сметка</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Default qutIM account creator</source>
-        <translation type="obsolete">Създаване на сметка в qutIM по подразбиране</translation>
+        <translation>Създаване на сметка в qutIM по подразбиране</translation>
     </message>
     <message>
         <source>Adium service icons</source>
@@ -1780,7 +1782,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Икони на протоколите с помощта на Adium ServiceIcons пакети</translation>
     </message>
     <message>
-        <location line="-4"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayerplugin.cpp" line="-4"/>
         <source>Chat settings</source>
         <translation>Настройки на разговора</translation>
     </message>
@@ -2311,7 +2313,7 @@ p, li { white-space: pre-wrap; }
         <translation>Изскачащи прозорци</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreator.cpp" line="+13"/>
+        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreator.cpp" line="+8"/>
         <source>Accounts</source>
         <translation>Сметки</translation>
     </message>
@@ -2800,7 +2802,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Добавка: %1</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+276"/>
+        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+291"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Неуспешно зареждане на добавка: 
@@ -2819,7 +2821,7 @@ p, li { white-space: pre-wrap; }
  %1</translation>
     </message>
     <message>
-        <location line="+92"/>
+        <location line="+100"/>
         <source>Could not init plugin: 
  %1</source>
         <translation>Неуспешно инициализиране на добавка: 
