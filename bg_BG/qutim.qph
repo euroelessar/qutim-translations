@@ -2022,11 +2022,11 @@
 </phrase>
 <phrase>
     <source>Show &quot;visible&quot; icon if contact in visible list</source>
-    <target>Показване на икона за &quot;видим&quot; ако контакта е в списък &quot;Видими&quot;</target>
+    <target>Показване на икона за &quot;видим&quot; ако контакта е в списък &quot;Видими за&quot;</target>
 </phrase>
 <phrase>
     <source>Show &quot;invisible&quot; icon if contact in invisible list</source>
-    <target>Показване на икона за &quot;невидим&quot; ако контакта е в списък &quot;Невидими&quot;</target>
+    <target>Показване на икона за &quot;невидим&quot; ако контакта е в списък &quot;Невидими за&quot;</target>
 </phrase>
 <phrase>
     <source>Show &quot;ignore&quot; icon if contact in ignore list</source>
