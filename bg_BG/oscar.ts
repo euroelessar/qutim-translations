@@ -4068,12 +4068,16 @@ p, li { white-space: pre-wrap; }
         <translation>На мобилния</translation>
     </message>
     <message>
-        <location line="+18"/>
-        <source>?</source>
-        <translation>?</translation>
+        <location line="+12"/>
+        <source>Watching movie</source>
+        <translation>Гледащ филм</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <source>?</source>
+        <translation type="obsolete">?</translation>
+    </message>
+    <message>
+        <location line="+9"/>
         <source>Writing</source>
         <translation>Пишещ</translation>
     </message>
@@ -4103,17 +4107,21 @@ p, li { white-space: pre-wrap; }
         <translation>Да бъда или да не бъда</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Watching pro7 on TV</source>
-        <translation>Гледащ телевизия PRO7</translation>
+        <translation type="obsolete">Гледащ телевизия PRO7</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+6"/>
         <source>Love</source>
         <translation>Влюбен</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="+3"/>
+        <source>Searching</source>
+        <translation>Търсещ</translation>
+    </message>
+    <message>
+        <location line="+13"/>
         <source>Cold</source>
         <translation>Мръзнещ</translation>
     </message>
@@ -4150,7 +4158,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::ClientIdentify</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="+50"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="+55"/>
         <location line="+129"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
@@ -4182,7 +4190,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+215"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+222"/>
         <source>X-Status</source>
         <translation>Разширен статус</translation>
     </message>

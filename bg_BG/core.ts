@@ -114,7 +114,7 @@
     <name>AddContact</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.ui" line="+14"/>
-        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+38"/>
+        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+41"/>
         <source>Add contact</source>
         <translation>Добавяне на контакт</translation>
     </message>
@@ -655,7 +655,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AddContact</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+74"/>
+        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+70"/>
         <source>Start chat</source>
         <translation>Започване на разговор</translation>
     </message>
