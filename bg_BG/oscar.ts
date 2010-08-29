@@ -4166,12 +4166,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="+110"/>
         <source>Show &quot;visible&quot; icon if contact in visible list</source>
-        <translation>Показване на икона за &quot;видим&quot; ако контакта е в списък &quot;Видими за&quot;</translation>
+        <translation>Показване на икона за &quot;видим&quot; ако контакта е в списък &quot;Видим за&quot;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Show &quot;invisible&quot; icon if contact in invisible list</source>
-        <translation>Показване на икона за &quot;невидим&quot; ако контакта е в списък &quot;Невидими за&quot;</translation>
+        <translation>Показване на икона за &quot;невидим&quot; ако контакта е в списък &quot;Невидим за&quot;</translation>
     </message>
     <message>
         <location line="+4"/>
