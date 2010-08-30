@@ -551,7 +551,7 @@
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+305"/>
+        <location line="+294"/>
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>
@@ -4158,7 +4158,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::ClientIdentify</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="+55"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="+24"/>
         <location line="+129"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>

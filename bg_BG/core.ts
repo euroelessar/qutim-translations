@@ -1194,7 +1194,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::XSettingsWindow</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+237"/>
+        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+245"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки на qutIM - %1</translation>
     </message>
@@ -2391,7 +2391,7 @@ p, li { white-space: pre-wrap; }
         <translation>Разговор</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="-203"/>
+        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="-210"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>

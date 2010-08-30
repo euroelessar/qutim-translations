@@ -1102,6 +1102,19 @@ Accept invitation?</source>
     </message>
 </context>
 <context>
+    <name>Jabber::JPersonMoodRegistrator</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp" line="+184"/>
+        <source>Mood</source>
+        <translation>Настроение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show contact mood icon</source>
+        <translation>Показване иконата за настроение</translation>
+    </message>
+</context>
+<context>
     <name>Jabber::JProtocol</name>
     <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+36"/>
@@ -1316,8 +1329,443 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JSoftwareDetection</name>
     <message>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp" line="+207"/>
         <source>Possible client</source>
-        <translation type="obsolete">Вероятен клиент</translation>
+        <translation>Вероятен клиент</translation>
+    </message>
+</context>
+<context>
+    <name>Mood</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp" line="-156"/>
+        <source>Afraid</source>
+        <translation>Изплашен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Amazed</source>
+        <translation>Смаян</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Amorous</source>
+        <translation>Влюбчив</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Angry</source>
+        <translation>Бесен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Annoyed</source>
+        <translation>Раздразнен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Anxious</source>
+        <translation>Загрижен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Aroused</source>
+        <translatorcomment>Буден</translatorcomment>
+        <translation>Ококорен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Ashamed</source>
+        <translation>Засрамен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Bored</source>
+        <translation>Отегчен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Brave</source>
+        <translation>Смел</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Calm</source>
+        <translation>Спокоен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Cautious</source>
+        <translation>Предпазлив</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Cold</source>
+        <translation>Мръзнещ</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Confident</source>
+        <translation>Уверен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Confused</source>
+        <translation>Объркан</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Contemplative</source>
+        <translatorcomment>Съзерцателен</translatorcomment>
+        <translation>Замислен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Contented</source>
+        <translation>Доволен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Cranky</source>
+        <translatorcomment>Ексцентричен, Опак</translatorcomment>
+        <translation>Раздразнителен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Crazy</source>
+        <translation>Луд</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Creative</source>
+        <translation>Градивен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Curious</source>
+        <translation>Любопитен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Dejected</source>
+        <translatorcomment>Мрачен, Обезсърчен</translatorcomment>
+        <translation>Унил</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Depressed</source>
+        <translation>Подтиснат</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Disappointed</source>
+        <translation>Разочарован</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Disgusted</source>
+        <translation>Отвратен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Dismayed</source>
+        <translatorcomment>Смаян, Разтревожен</translatorcomment>
+        <translation>Поразен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Distracted</source>
+        <translatorcomment>Подлудял</translatorcomment>
+        <translation>Обезумял</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Embarrassed</source>
+        <translatorcomment>Притеснен</translatorcomment>
+        <translation>Смутен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Envious</source>
+        <translation>Завистлив</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Excited</source>
+        <translation>Възбуден</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Flirtatious</source>
+        <translation>Флиртуващ</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Frustrated</source>
+        <translation>Обезсърчен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Grateful</source>
+        <translation>Признателен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Grieving</source>
+        <translation>Огорчен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Grumpy</source>
+        <translatorcomment>Нацупен</translatorcomment>
+        <translation>Намусен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Guilty</source>
+        <translation>Виновен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Happy</source>
+        <translation>Щастлив</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hopeful</source>
+        <translation>Надяващ се</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hot</source>
+        <translation>Сексапилен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Humbled</source>
+        <translation>Скромен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Humiliated</source>
+        <translatorcomment>Обиден</translatorcomment>
+        <translation>Унижен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hungry</source>
+        <translation>Гладен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hurt</source>
+        <translation>Наранен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Impressed</source>
+        <translation>Впечатлен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>In awe</source>
+        <translation>Благоговеещ</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>In love</source>
+        <translation>Влюбен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Iindignant</source>
+        <translation>Възмутен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Interested</source>
+        <translatorcomment>Заинтригуван</translatorcomment>
+        <translation>Заинтересован</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Intoxicated</source>
+        <translation>Опиянен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Invincible</source>
+        <translation>Непобедим</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Jealous</source>
+        <translation>Ревнив</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Lonely</source>
+        <translation>Самотен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Lost</source>
+        <translation>Изгубен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Lucky</source>
+        <translation>Късметлия</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Mean</source>
+        <translation>Подъл</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Moody</source>
+        <translatorcomment>Унил</translatorcomment>
+        <translation>На настроения</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Nervous</source>
+        <translation>Нервен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Neutral</source>
+        <translation>Неутрален</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Offended</source>
+        <translation>Засегнат</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Outraged</source>
+        <translation>Жесток</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Playful</source>
+        <translation>Игрив</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Proud</source>
+        <translation>Горд</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Relaxed</source>
+        <translation>Отпуснат</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Relieved</source>
+        <translation>Облекчен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Remorseful</source>
+        <translation>Разкайващ се</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Restless</source>
+        <translation>Неспокоен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sad</source>
+        <translation>Тъжен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sarcastic</source>
+        <translation>Саркастичен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Satisfied</source>
+        <translation>Задоволен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Serious</source>
+        <translation>Сериозен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Shocked</source>
+        <translation>Шокиран</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Shy</source>
+        <translation>Срамежлив</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sick</source>
+        <translation>Болен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sleepy</source>
+        <translation>Сънлив</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Spontaneous</source>
+        <translation>Спонтанен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Stressed</source>
+        <translation>Под напрежение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Strong</source>
+        <translation>Силен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Surprised</source>
+        <translation>Учуден</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Thankful</source>
+        <translation>Благодарен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Thirsty</source>
+        <translation>Жаден</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Tired</source>
+        <translation>Уморен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Undefined</source>
+        <translation>Неопределен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Weak</source>
+        <translation>Слаб</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Worried</source>
+        <translation>Разтревожен</translation>
     </message>
 </context>
 <context>
