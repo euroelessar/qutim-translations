@@ -2495,7 +2495,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+39"/>
         <source>Show extended icons</source>
-        <translation>Показване на икони за разширен статус</translation>
+        <translation>Показване на допълнителни икони</translation>
     </message>
     <message>
         <location line="-14"/>
