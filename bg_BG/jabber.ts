@@ -397,7 +397,7 @@
     <message>
         <location line="+2"/>
         <source>Show contact activity icon</source>
-        <translation>Показване иконата за дейност</translation>
+        <translation>Показване иконите за дейност</translation>
     </message>
 </context>
 <context>
@@ -1593,7 +1593,7 @@ Accept invitation?</source>
     <message>
         <location line="+1"/>
         <source>Show client icon</source>
-        <translation>Показване иконата на клиента</translation>
+        <translation>Показване иконите на клиентите</translation>
     </message>
 </context>
 <context>
@@ -2224,7 +2224,7 @@ Accept invitation?</source>
     <message>
         <location line="+2"/>
         <source>Show contact mood icon</source>
-        <translation>Показване иконата за настроение</translation>
+        <translation>Показване иконите за настроение</translation>
     </message>
 </context>
 <context>
