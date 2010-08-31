@@ -6,398 +6,398 @@
     <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="+23"/>
         <source>Doing chores</source>
-        <translation type="unfinished"></translation>
+        <translation>Домакинска работа</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Buying groceries</source>
-        <translation type="unfinished"></translation>
+        <translation>Пазаруващ в бакалията</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cleaning</source>
-        <translation type="unfinished"></translation>
+        <translation>Чистещ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cooking</source>
-        <translation type="unfinished"></translation>
+        <translation>Готвещ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Doing maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Правещ ремонт</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Doing the dishes</source>
-        <translation type="unfinished"></translation>
+        <translation>Миещ чинии</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Doing the laundry</source>
-        <translation type="unfinished"></translation>
+        <translation>Перящ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Gardening</source>
-        <translation type="unfinished"></translation>
+        <translation>Работещ в градината</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Running an errand</source>
-        <translation type="unfinished"></translation>
+        <translation>Изпълняващ поръчки</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Walking the dog</source>
-        <translation type="unfinished"></translation>
+        <translation>Разхождащ кучето</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Drinking</source>
-        <translation type="unfinished"></translation>
+        <translation>Пиещ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Having a beer</source>
-        <translation type="unfinished"></translation>
+        <translation>Бира</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Having coffee</source>
-        <translation type="unfinished"></translation>
+        <translation>Кафе</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Having tea</source>
-        <translation type="unfinished"></translation>
+        <translation>Чай</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Eeating</source>
-        <translation type="unfinished"></translation>
+        <translation>Ядящ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Having a snack</source>
-        <translation type="unfinished"></translation>
+        <translation>Бърза закуска</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Having breakfast</source>
-        <translation type="unfinished"></translation>
+        <translation>Сутрешна закуска</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Having dinner</source>
-        <translation type="unfinished"></translation>
+        <translation>Вечеря</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Having lunch</source>
-        <translation type="unfinished"></translation>
+        <translation>Обяд</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Exercising</source>
-        <translation type="unfinished"></translation>
+        <translation>Физически упражнения</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+62"/>
         <source>Cycling</source>
-        <translation type="unfinished"></translation>
+        <translation>Каращ колело</translation>
     </message>
     <message>
         <location line="-61"/>
         <source>Dancing</source>
-        <translation type="unfinished"></translation>
+        <translation>Танцуващ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Hiking</source>
-        <translation type="unfinished"></translation>
+        <translation>Вървящ пеша</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Jogging</source>
-        <translation type="unfinished"></translation>
+        <translation>Джогинг</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Playing sports</source>
-        <translation type="unfinished"></translation>
+        <translation>Спортуващ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Running</source>
-        <translation type="unfinished"></translation>
+        <translation>Бягащ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Skiing</source>
-        <translation type="unfinished"></translation>
+        <translation>Каращ ски</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Swimming</source>
-        <translation type="unfinished"></translation>
+        <translation>Плуващ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Working out</source>
-        <translation type="unfinished"></translation>
+        <translation>Трениращ</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Grooming</source>
-        <translation type="unfinished"></translation>
+        <translation>Грижа за себе си</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>At the spa</source>
-        <translation type="unfinished"></translation>
+        <translation>На спа</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Brushing teeth</source>
-        <translation type="unfinished"></translation>
+        <translation>Миещ зъби</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Getting a haircut</source>
-        <translation type="unfinished"></translation>
+        <translation>Подстригващ се</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Shaving</source>
-        <translation type="unfinished"></translation>
+        <translation>Бръснещ се</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Taking a bath</source>
-        <translation type="unfinished"></translation>
+        <translation>В банята</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Taking a shower</source>
-        <translation type="unfinished"></translation>
+        <translation>Вземащ душ</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Having appointment</source>
-        <translation type="unfinished"></translation>
+        <translation>На стреща</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Inactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Неактивен</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Day off</source>
-        <translation type="unfinished"></translation>
+        <translation>В отпуск</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Hanging out</source>
-        <translation type="unfinished"></translation>
+        <translation>Шляещ се</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Hiding</source>
-        <translation type="unfinished"></translation>
+        <translation>Криещ се</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>On vacation</source>
-        <translation type="unfinished"></translation>
+        <translation>На почивка</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Praying</source>
-        <translation type="unfinished"></translation>
+        <translation>Молещ се</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Scheduled holiday</source>
-        <translation type="unfinished"></translation>
+        <translation>На планирана почивка</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Sleeping</source>
-        <translation type="unfinished"></translation>
+        <translation>Спящ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Thinking</source>
-        <translation type="unfinished"></translation>
+        <translation>Размишляващ</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Relaxing</source>
-        <translation type="unfinished"></translation>
+        <translation>Отпочиващ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ffishing</source>
-        <translation type="unfinished"></translation>
+        <translation>На риболов</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Gaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Играещ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Going out</source>
-        <translation type="unfinished"></translation>
+        <translation>Излизащ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Partying</source>
-        <translation type="unfinished"></translation>
+        <translation>На купон</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Четящ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rehearsing</source>
-        <translation type="unfinished"></translation>
+        <translation>Репетиращ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Shopping</source>
-        <translation type="unfinished"></translation>
+        <translation>Пазаруващ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Smoking</source>
-        <translation type="unfinished"></translation>
+        <translation>Пушещ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Socializing</source>
-        <translation type="unfinished"></translation>
+        <translation>Създаващ контакти</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Sunbathing</source>
-        <translation type="unfinished"></translation>
+        <translation>Препичащ се</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Watching tv</source>
-        <translation type="unfinished"></translation>
+        <translation>Гледащ телевизия</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Watching a movie</source>
-        <translation type="unfinished"></translation>
+        <translation>Гледащ филм</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Talking</source>
-        <translation type="unfinished"></translation>
+        <translation>Разговарящ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>In real life</source>
-        <translation type="unfinished"></translation>
+        <translation>В истинкия живот</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>On the phone</source>
-        <translation type="unfinished"></translation>
+        <translation>На телефона</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>On video phone</source>
-        <translation type="unfinished"></translation>
+        <translation>На видеофона</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Traveling</source>
-        <translation type="unfinished"></translation>
+        <translation>Пътуващ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Commuting</source>
-        <translation type="unfinished"></translation>
+        <translation>В транспорта</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Driving</source>
-        <translation type="unfinished"></translation>
+        <translation>Шофиращ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>In a car</source>
-        <translation type="unfinished"></translation>
+        <translation>В колата</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>On a bus</source>
-        <translation type="unfinished"></translation>
+        <translation>В автобуса</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>On a plane</source>
-        <translation type="unfinished"></translation>
+        <translation>В самолета</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>On a train</source>
-        <translation type="unfinished"></translation>
+        <translation>Във влака</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>On a trip</source>
-        <translation type="unfinished"></translation>
+        <translation>На път</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Walking</source>
-        <translation type="unfinished"></translation>
+        <translation>Разхождащ се</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Working</source>
-        <translation type="unfinished"></translation>
+        <translation>Работещ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Coding</source>
-        <translation type="unfinished"></translation>
+        <translation>Пишещ код</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>In a meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>На среща</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Studying</source>
-        <translation type="unfinished"></translation>
+        <translation>Учащ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Writing</source>
-        <translation type="unfinished"></translation>
+        <translation>Пишещ</translation>
     </message>
     <message>
         <location line="+119"/>
         <source>Activity</source>
-        <translation type="unfinished"></translation>
+        <translation>Дейност</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Show contact activity icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Показване иконата за дейност</translation>
     </message>
 </context>
 <context>
@@ -902,7 +902,7 @@
     <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="+110"/>
         <source>Set activity</source>
-        <translation type="unfinished"></translation>
+        <translation>Задаване на дейност</translation>
     </message>
 </context>
 <context>
@@ -910,17 +910,17 @@
     <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.ui" line="+20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Избор на дейност</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="-88"/>
         <source>Choose your activity</source>
-        <translation type="unfinished"></translation>
+        <translation>Изберете дейност</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>No activity</source>
-        <translation type="unfinished"></translation>
+        <translation>Без дейност</translation>
     </message>
 </context>
 <context>
@@ -1531,7 +1531,7 @@ Accept invitation?</source>
     <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="+74"/>
         <source>Set mood</source>
-        <translation type="unfinished"></translation>
+        <translation>Задаване на настроение</translation>
     </message>
 </context>
 <context>
@@ -1539,17 +1539,17 @@ Accept invitation?</source>
     <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Избор на настроение</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="-56"/>
         <source>Choose your mood</source>
-        <translation type="unfinished"></translation>
+        <translation>Изберете настроение</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>No mood</source>
-        <translation type="unfinished"></translation>
+        <translation>Без настроение</translation>
     </message>
 </context>
 <context>
@@ -2219,12 +2219,12 @@ Accept invitation?</source>
     <message>
         <location line="+77"/>
         <source>Mood</source>
-        <translation type="unfinished">Настроение</translation>
+        <translation>Настроение</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Show contact mood icon</source>
-        <translation type="unfinished">Показване иконата за настроение</translation>
+        <translation>Показване иконата за настроение</translation>
     </message>
 </context>
 <context>
@@ -2334,22 +2334,22 @@ Accept invitation?</source>
     <message>
         <location line="+27"/>
         <source>Jabber User Activity support</source>
-        <translation type="unfinished"></translation>
+        <translation>Поддръжка на потребителски настроения в Jabber</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Convertes internal XMPP data of activity to Qt data types</source>
-        <translation type="unfinished"></translation>
+        <translation>Конвертира вътрешните XMPP данни за дейност в Qt даннови типове</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Jabber Activity Chooser</source>
-        <translation type="unfinished"></translation>
+        <translation>Избор на Jabber дейност</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Provides the dialog to set your activity</source>
-        <translation type="unfinished"></translation>
+        <translation>Средство за задаване на вашата дейност</translation>
     </message>
     <message>
         <source>Jabber MUC Join Window</source>
@@ -2402,12 +2402,12 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>Jabber Mood Chooser</source>
-        <translation type="unfinished"></translation>
+        <translation>Избор на Jabber настроение</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Provides the dialog to set your mood</source>
-        <translation type="unfinished"></translation>
+        <translation>Средство за задаване на вашето настроение</translation>
     </message>
     <message>
         <location line="+3"/>
