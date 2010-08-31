@@ -216,6 +216,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Author</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/searchdialog/searchdialogplugin.cpp" line="+29"/>
+        <source>Alexey Prokhin</source>
+        <translation>Алексей Прохин</translation>
+    </message>
+</context>
+<context>
     <name>AutoAway</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/idlestatuschanger/idlestatuschanger.cpp" line="+25"/>
@@ -2055,12 +2063,36 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Формуляр за търсене за мобилни устройства</translation>
     </message>
     <message>
+        <location filename="../../qutim-meta/core/src/corelayers/searchdialog/searchdialogplugin.cpp" line="-3"/>
+        <location line="+7"/>
         <source>Search window</source>
-        <translation type="obsolete">Прозорец за търсене</translation>
+        <translation>Прозорец за търсене</translation>
     </message>
     <message>
+        <location line="-6"/>
+        <location line="+7"/>
         <source>Default qutIM implementation of search window</source>
-        <translation type="obsolete">Подразбираща се за qutIM реализация на прозорец за търсене</translation>
+        <translation>Подразбираща се за qutIM реализация на прозорец за търсене</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Desktop Search Form</source>
+        <translation>Десктоп формуляр за търсене</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Default search form optimized for Desktop systems</source>
+        <translation>Подразбиращ се за qutIM формуляр за търсене, оптимизиран за десктоп системи</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Mobile Search Form</source>
+        <translation>Формуляр за търсене за мобилни устройства</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Search form optimized for Mobile systems</source>
+        <translation>Подразбиращ се за qutIM формуляр за търсене, оптимизиран за мобилни устройства</translation>
     </message>
     <message>
         <source>Mobile information window about a contact</source>
@@ -2637,6 +2669,14 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/src/corelayers/contactlist/tagsfilterdialog.ui" line="+14"/>
         <source>Select tags</source>
         <translation>Избор на етикети</translation>
+    </message>
+</context>
+<context>
+    <name>Task</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/searchdialog/searchdialogplugin.cpp" line="-10"/>
+        <source>Author</source>
+        <translation>Автор</translation>
     </message>
 </context>
 <context>
