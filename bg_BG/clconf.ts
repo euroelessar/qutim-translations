@@ -12,7 +12,7 @@
 <context>
     <name>ClConf</name>
     <message>
-        <location filename="../../qutim-meta/plugins/clconf/src/proxycontact.cpp" line="+38"/>
+        <location filename="../../qutim-meta/plugins/clconf/src/proxycontact.cpp" line="+42"/>
         <source>Conferences</source>
         <translation>Конференции</translation>
     </message>

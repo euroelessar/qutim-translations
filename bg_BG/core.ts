@@ -301,7 +301,7 @@ p, li { white-space: pre-wrap; }
         <translation>Преглед на хронологията</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="+178"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="+179"/>
         <source>Emoticons</source>
         <translation>Емотикони</translation>
     </message>
@@ -388,7 +388,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+571"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+572"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -550,7 +550,7 @@ p, li { white-space: pre-wrap; }
         <translation>Копиране в клипборда</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+813"/>
+        <location filename="../../qutim-meta/core/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+827"/>
         <source>Remove contact</source>
         <translation>Прeмахване на контакта</translation>
     </message>
@@ -560,7 +560,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавяне в списъка с контакти</translation>
     </message>
     <message>
-        <location line="-748"/>
+        <location line="-755"/>
         <source>Rename contact</source>
         <translation>Преименуване на контакта</translation>
     </message>
@@ -696,7 +696,7 @@ p, li { white-space: pre-wrap; }
         <translation>Невъзможно е изпращането на съобщение до %1</translation>
     </message>
     <message>
-        <location line="+272"/>
+        <location line="+289"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -1129,7 +1129,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+653"/>
+        <location filename="../../qutim-meta/core/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+660"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
         <translation>Желаете ли да обедините контактите &quot;%1&quot; &lt;%2&gt; и &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>

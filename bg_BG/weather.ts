@@ -152,5 +152,15 @@ p, li { white-space: pre-wrap; }
         <source>Found: %1</source>
         <translation>Открито: %1</translation>
     </message>
+    <message>
+        <location filename="../../qutim-meta/plugins/weather/src/weather.cpp" line="+7"/>
+        <source>Get weather</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Get weather forecast</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

@@ -179,7 +179,7 @@
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+194"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+200"/>
         <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="+3"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
@@ -3565,7 +3565,7 @@ p, li { white-space: pre-wrap; }
         <translation>Зает</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+14"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+17"/>
         <source>Angry</source>
         <translation>Бесен</translation>
     </message>
@@ -3590,7 +3590,7 @@ p, li { white-space: pre-wrap; }
         <translation>Хапващ</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+6"/>
         <source>Custom status</source>
         <translation>Собствен статус</translation>
     </message>
@@ -3643,7 +3643,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="-5"/>
         <location line="+3"/>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-33"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-35"/>
         <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="-38"/>
         <location line="+3"/>
         <source>Author</source>
@@ -3653,7 +3653,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>XStatus</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-157"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-162"/>
         <source>Angry</source>
         <translation>Бесен</translation>
     </message>
@@ -3910,7 +3910,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+223"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+262"/>
         <source>X-Status</source>
         <translation>Разширен статус</translation>
     </message>

@@ -250,6 +250,14 @@ p, li { white-space: pre-wrap; }
         <translation>Приключване</translation>
     </message>
     <message>
+        <location line="+11"/>
+        <source>File sent: %N (%S bytes)
+%U</source>
+        <comment>Don&apos;t remove format arguments</comment>
+        <translation>Изпратен файл: %N (%S Байта)
+%U</translation>
+    </message>
+    <message>
         <location filename="../../qutim-meta/plugins/yandexnarod/src/uploaddialog.h" line="+86"/>
         <source>Uploading</source>
         <translation>Качване</translation>
