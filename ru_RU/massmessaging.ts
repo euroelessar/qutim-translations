@@ -14,7 +14,7 @@
     <message>
         <location filename="../../plugins/massmessaging/src/messagingdialog.ui" line="+14"/>
         <source>Multiply Sending</source>
-        <translation>Спамилка</translation>
+        <translation>Массовая рассылка</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -66,7 +66,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;В процессе спама...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;В процессе рассылки...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+59"/>
@@ -79,7 +79,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../plugins/massmessaging/src/messaging.cpp" line="+12"/>
         <source>&amp;Mass Messaging</source>
-        <translation type="unfinished">&amp;Спамилка</translation>
+        <translation>&amp;Массовая рассылка</translation>
     </message>
 </context>
 <context>
@@ -107,7 +107,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+13"/>
         <source>Start</source>
-        <translation>Спамить</translation>
+        <translation>Начать</translation>
     </message>
 </context>
 <context>
@@ -115,12 +115,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../plugins/massmessaging/src/messaging.cpp" line="-8"/>
         <source>MassMessaging</source>
-        <translation type="unfinished">Спамилка</translation>
+        <translation>Массовая рассылка</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Simple messaging to contact list</source>
-        <translation type="unfinished">Простая отправка сообщений группам людей из списка контактов</translation>
+        <translation>Простая отправка сообщений группам людей из списка контактов</translation>
     </message>
 </context>
 <context>
