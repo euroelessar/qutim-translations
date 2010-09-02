@@ -512,7 +512,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="+161"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="+165"/>
         <source>Add to visible list</source>
         <translation>Добавяне в списък &quot;Видим за&quot;</translation>
     </message>
@@ -3401,7 +3401,12 @@ p, li { white-space: pre-wrap; }
         <translation>Видим само за списъка с контакти</translation>
     </message>
     <message>
-        <location line="+70"/>
+        <location line="+3"/>
+        <source>Unknown privacy</source>
+        <translation>Неизвестно уединение</translation>
+    </message>
+    <message>
+        <location line="+67"/>
         <source>Visible mode:</source>
         <translation>Режим на видимост:</translation>
     </message>
@@ -3413,7 +3418,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+4"/>
         <source>Privacy status</source>
-        <translation>Личен статус</translation>
+        <translation>Статус на уединение</translation>
     </message>
 </context>
 <context>

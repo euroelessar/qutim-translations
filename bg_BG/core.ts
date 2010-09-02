@@ -1051,7 +1051,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProtocolChooserWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/protocolchooserwidget.cpp" line="+103"/>
+        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/protocolchooserwidget.cpp" line="+100"/>
         <source>To take effect you must restart qutIM</source>
         <translation>За да влязат в сила промените, qutIM трябва да бъде рестартиран</translation>
     </message>
