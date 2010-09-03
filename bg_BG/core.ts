@@ -2452,6 +2452,16 @@ p, li { white-space: pre-wrap; }
         <source>Invalid</source>
         <translation>Невалидни</translation>
     </message>
+    <message>
+        <location filename="../../qutim-meta/core/libqutim/settingslayer.cpp" line="+291"/>
+        <source>Open File</source>
+        <translation>Отваряне на файл</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Log file (*.log)</source>
+        <translation>Файл (*.log)</translation>
+    </message>
 </context>
 <context>
     <name>SettingsDialog</name>
