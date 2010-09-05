@@ -2,9 +2,411 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="ru_RU">
 <context>
+    <name>Activity</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="+23"/>
+        <source>Doing chores</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Buying groceries</source>
+        <translation type="unfinished">Покупаю продукты</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Cleaning</source>
+        <translation type="unfinished">Убираюсь</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Cooking</source>
+        <translation>Готовка</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Doing maintenance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Doing the dishes</source>
+        <translation type="unfinished">Готовлю поесть</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Doing the laundry</source>
+        <translation type="unfinished">Стираю бельё</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Gardening</source>
+        <translation type="unfinished">Занимаюсь садоводством</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Running an errand</source>
+        <translation type="unfinished">Бегаю на посылках у старухи</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Walking the dog</source>
+        <translation type="unfinished">Гуляю с бобиком</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Drinking</source>
+        <translatorcomment>Слепой Пью</translatorcomment>
+        <translation type="unfinished">Пью</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having a beer</source>
+        <translation type="unfinished">Пиво</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having coffee</source>
+        <translation type="unfinished">Кофе</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having tea</source>
+        <translation type="unfinished">Чай</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Eeating</source>
+        <translation type="unfinished">Ем</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having a snack</source>
+        <translation type="unfinished">Закусываю</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having breakfast</source>
+        <translation type="unfinished">Завтракаю</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having dinner</source>
+        <translation type="unfinished">Обедаю</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having lunch</source>
+        <translation type="unfinished">Ланч</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Exercising</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+62"/>
+        <source>Cycling</source>
+        <translation type="unfinished">Катаюсь на велике</translation>
+    </message>
+    <message>
+        <location line="-61"/>
+        <source>Dancing</source>
+        <translation type="unfinished">Танцую</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hiking</source>
+        <translation type="unfinished">Пешком гуляю</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Jogging</source>
+        <translation type="unfinished">Бегаю</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Playing sports</source>
+        <translation type="unfinished">Играю на площадке</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Running</source>
+        <translation type="unfinished">Работаю</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Skiing</source>
+        <translation type="unfinished">Катаюсь на лыжах</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Swimming</source>
+        <translation type="unfinished">Плаваю</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Working out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Grooming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>At the spa</source>
+        <translation type="unfinished">В СПА салоне</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Brushing teeth</source>
+        <translation type="unfinished">Чищу зубы</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Getting a haircut</source>
+        <translation type="unfinished">Стригусь</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Shaving</source>
+        <translation type="unfinished">Бреюсь</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Taking a bath</source>
+        <translation>Принимаю душ/ванну</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Taking a shower</source>
+        <translation type="unfinished">Принимаю душ</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Having appointment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Inactive</source>
+        <translation type="unfinished">Бездельничаю</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Day off</source>
+        <translation type="unfinished">Выходной</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hanging out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hiding</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On vacation</source>
+        <translation type="unfinished">На отдыхе</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Praying</source>
+        <translation type="unfinished">Молюсь</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Scheduled holiday</source>
+        <translation type="unfinished">Отпуск</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sleeping</source>
+        <translation>Сплю</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Thinking</source>
+        <translation>Думаю</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Relaxing</source>
+        <translation type="unfinished">Отдыхаю</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Ffishing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Gaming</source>
+        <translation>Играю</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Going out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Partying</source>
+        <translation type="unfinished">Вечеринка</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Reading</source>
+        <translation>Читаю</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Rehearsing</source>
+        <translation type="unfinished">Репетиция</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Shopping</source>
+        <translation>Покупки</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Smoking</source>
+        <translation>Курю</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Socializing</source>
+        <translation type="unfinished">Общение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sunbathing</source>
+        <translation type="unfinished">Солнечные ванны</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Watching tv</source>
+        <translation type="unfinished">Смотрю ящик</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Watching a movie</source>
+        <translation type="unfinished">Смотрю кино</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Talking</source>
+        <translation type="unfinished">Болтаю</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>In real life</source>
+        <translation type="unfinished">Ушел в реалный мир, вернусь не скоро</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On the phone</source>
+        <translation>На телефоне</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On video phone</source>
+        <translation type="unfinished">На видеофоне</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Traveling</source>
+        <translation type="unfinished">Путешествую</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Commuting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Driving</source>
+        <translation type="unfinished">Веду авто</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>In a car</source>
+        <translatorcomment>стиральной</translatorcomment>
+        <translation type="unfinished">В машине</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On a bus</source>
+        <translation type="unfinished">На автобусе</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On a plane</source>
+        <translatorcomment>лучше на плане (без самолёта)</translatorcomment>
+        <translation type="unfinished">На самолёте</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On a train</source>
+        <translation type="unfinished">В поезде</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On a trip</source>
+        <translation type="unfinished">В поездке</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Walking</source>
+        <translation>Прогулка</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Working</source>
+        <translation>Работаю</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Coding</source>
+        <translation type="unfinished">Лячкаю говнокод</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>In a meeting</source>
+        <translation type="unfinished">На встрече</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Studying</source>
+        <translation>Учусь</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Writing</source>
+        <translation type="unfinished">Пишу</translation>
+    </message>
+    <message>
+        <location line="+119"/>
+        <source>Activity</source>
+        <translation type="unfinished">Занятие</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Show contact activity icon</source>
+        <translation type="unfinished">Показывать иконку занятия</translation>
+    </message>
+</context>
+<context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/jabber/src/jplugin.cpp" line="+29"/>
+        <location filename="../../protocols/jabber/src/jplugin.cpp" line="+32"/>
         <source>Denis Daschenko</source>
         <translation>Денис Дащенко</translation>
     </message>
@@ -53,19 +455,26 @@
         <translatorcomment>Может лучше обязанность? / а я думаю роль, пси рулит.</translatorcomment>
         <translation>Роль</translation>
     </message>
+    <message>
+        <location line="+2"/>
+        <source>Possible client</source>
+        <translation>Возможный клиент</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>OS</source>
+        <translation>ОС</translation>
+    </message>
 </context>
 <context>
     <name>Contact</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+189"/>
         <source>Resource</source>
-        <translation>Ресурс</translation>
+        <translation type="obsolete">Ресурс</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+7"/>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+9"/>
         <source>Possible client</source>
-        <translation>Возможный клиент</translation>
+        <translation type="obsolete">Возможный клиент</translation>
     </message>
 </context>
 <context>
@@ -149,6 +558,24 @@
         <location line="+2"/>
         <source>Name</source>
         <translation>Имя</translation>
+    </message>
+</context>
+<context>
+    <name>ContactResource</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp" line="+116"/>
+        <source>Resource</source>
+        <translation>Ресурс</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Possible client</source>
+        <translation>Возможный клиент</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>OS</source>
+        <translation>ОС</translation>
     </message>
 </context>
 <context>
@@ -404,28 +831,36 @@
         <translation>Автовход</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+3"/>
-        <location line="+197"/>
         <source>Join to conference</source>
-        <translation>Войти в конференцию</translation>
+        <translation type="obsolete">Войти в конференцию</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Leave from conference</source>
-        <translation>Покинуть конференцию</translation>
+        <translation type="obsolete">Покинуть конференцию</translation>
     </message>
     <message>
         <source>Copy room address to clipboard</source>
         <translation type="obsolete">Копировать адрес конференции в буфер</translation>
     </message>
     <message>
-        <location line="-186"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+3"/>
+        <location line="+197"/>
+        <source>Join conference</source>
+        <translation>Войти в конференцию</translation>
+    </message>
+    <message>
+        <location line="-184"/>
         <location line="+195"/>
         <source>Save to bookmarks</source>
         <translation>Сохранить в закладках</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="-9"/>
+        <source>Leave conference</source>
+        <translation>Поканить конференцию</translation>
+    </message>
+    <message>
+        <location line="+11"/>
         <source>Remove from bookmarks</source>
         <translation>Удалить из закладок</translation>
     </message>
@@ -461,6 +896,32 @@
         <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-12"/>
         <source>Name</source>
         <translation>Имя</translation>
+    </message>
+</context>
+<context>
+    <name>Jabber::JActivityChooser</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="+110"/>
+        <source>Set activity</source>
+        <translation>Занятие</translation>
+    </message>
+</context>
+<context>
+    <name>Jabber::JActivityChooserWindow</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.ui" line="+20"/>
+        <source>Form</source>
+        <translation>Настройки</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="-88"/>
+        <source>Choose your activity</source>
+        <translation>Выберите ваше занятие</translation>
+    </message>
+    <message>
+        <location line="+49"/>
+        <source>No activity</source>
+        <translation>Нет занятия</translation>
     </message>
 </context>
 <context>
@@ -720,7 +1181,7 @@
     <message>
         <location line="+3"/>
         <source>TLS was required but is not compiled in.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Требуется TLS, но увы не включен при сборке.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1076,6 +1537,32 @@ Accept invitation?</source>
     </message>
 </context>
 <context>
+    <name>Jabber::JMoodChooser</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="+74"/>
+        <source>Set mood</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Jabber::JMoodChooserWindow</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished">Настройки</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="-56"/>
+        <source>Choose your mood</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>No mood</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Jabber::JProtocol</name>
     <message>
         <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+36"/>
@@ -1097,16 +1584,26 @@ Accept invitation?</source>
         <source>Enter ban reason for %1</source>
         <translation>Укажите причину блокировки %1</translation>
     </message>
+    <message>
+        <location line="+169"/>
+        <source>Possible client</source>
+        <translation type="unfinished">Возможный клиент</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show client icon</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Jabber::JRoster</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+182"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+183"/>
         <source>Not in list</source>
         <translation>Не в списке</translation>
     </message>
     <message>
-        <location line="+114"/>
+        <location line="+115"/>
         <source>You were authorized</source>
         <translation>Вас авторизовали</translation>
     </message>
@@ -1286,6 +1783,447 @@ Accept invitation?</source>
     </message>
 </context>
 <context>
+    <name>Jabber::JSoftwareDetection</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp" line="+207"/>
+        <source>Possible client</source>
+        <translation type="unfinished">Возможный клиент</translation>
+    </message>
+</context>
+<context>
+    <name>Mood</name>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp" line="+28"/>
+        <source>Afraid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Amazed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Amorous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Angry</source>
+        <translation>Злой</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Annoyed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Anxious</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Aroused</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Ashamed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Bored</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Brave</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Calm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Cautious</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Cold</source>
+        <translation>Замерз</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Confident</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Confused</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Contemplative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Contented</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Cranky</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Crazy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Creative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Curious</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Dejected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Depressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Disappointed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Disgusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Dismayed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Distracted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Embarrassed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Envious</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Excited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Flirtatious</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Frustrated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Grateful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Grieving</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Grumpy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Guilty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Happy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hopeful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Humbled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Humiliated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hungry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hurt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Impressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>In awe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>In love</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Iindignant</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Interested</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Intoxicated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Invincible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Jealous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Lonely</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Lost</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Lucky</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Mean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Moody</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Nervous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Neutral</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Offended</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Outraged</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Playful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Proud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Relaxed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Relieved</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Remorseful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Restless</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sad</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sarcastic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Satisfied</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Serious</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Shocked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Shy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sick</source>
+        <translation>Болею</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sleepy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Spontaneous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Stressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Strong</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Surprised</source>
+        <translation>Сюрприз</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Thankful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Thirsty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Tired</source>
+        <translation>Устал</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Undefined</source>
+        <translation>Не определено</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Weak</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Worried</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+77"/>
+        <source>Mood</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Show contact mood icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Plugin</name>
     <message>
         <location filename="../../protocols/jabber/src/jplugin.cpp" line="-10"/>
@@ -1421,12 +2359,42 @@ Accept invitation?</source>
     </message>
     <message>
         <location line="+3"/>
+        <source>Jabber Mood Chooser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Provides the dialog to set your mood</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
         <source>Jabber User Tune support</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Convertes internal XMPP data of tune to Qt data types</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Jabber User Activity support</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Convertes internal XMPP data of activity to Qt data types</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Jabber Activity Chooser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Provides the dialog to set your activity</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1438,7 +2406,7 @@ Accept invitation?</source>
         <translation type="obsolete">Реализация окошка для входа в конференции</translation>
     </message>
     <message>
-        <location line="-17"/>
+        <location line="-29"/>
         <source>Jabber File Transfer</source>
         <translation type="unfinished">Передача файлов по Jabber&apos;у</translation>
     </message>
@@ -1573,7 +2541,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-64"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-234"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>

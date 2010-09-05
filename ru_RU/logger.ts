@@ -14,7 +14,8 @@
     <message>
         <location line="+12"/>
         <source>New session started, happy debuging ^_^</source>
-        <translation type="unfinished">Новая сессия запущена, удачной отладки ^_^</translation>
+        <translation type="unfinished">New session started, happy debuging ^_^
+Новая сессия запущена, удачной отладки ^_^</translation>
     </message>
 </context>
 <context>

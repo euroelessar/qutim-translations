@@ -67,143 +67,116 @@
 <context>
     <name>urlpreviewPlugin</name>
     <message>
-        <location filename="../../plugins/urlpreview/urlpreview.cpp" line="+52"/>
         <source>URL Preview</source>
-        <translation>Предпросмотр URL</translation>
+        <translation type="obsolete">Предпросмотр URL</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>bytes</source>
-        <translation>байт</translation>
+        <translation type="obsolete">байт</translation>
     </message>
     <message>
-        <location line="+132"/>
         <source>YouTube video</source>
-        <translation>YouTube видео</translation>
+        <translation type="obsolete">YouTube видео</translation>
     </message>
     <message>
-        <location line="+43"/>
         <source>Authentication Required</source>
-        <translation>Необходима аутентификация</translation>
+        <translation type="obsolete">Необходима аутентификация</translation>
     </message>
     <message>
-        <location line="-40"/>
-        <location line="+8"/>
-        <location line="+33"/>
         <source>Unknown</source>
-        <translation>Неизвесно</translation>
+        <translation type="obsolete">Неизвесно</translation>
     </message>
     <message>
-        <location filename="../../plugins/urlpreview/urlpreview.h" line="+44"/>
         <source>Make URL previews in messages</source>
-        <translation>Предпросмотр URL в сообщении</translation>
+        <translation type="obsolete">Предпросмотр URL в сообщении</translation>
     </message>
 </context>
 <context>
     <name>urlpreviewSettingsClass</name>
     <message>
-        <location filename="../../plugins/urlpreview/settings.ui" line="+14"/>
         <source>Settings</source>
-        <translation>Настройки</translation>
+        <translation type="obsolete">Настройки</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>General</source>
-        <translation>Общие</translation>
+        <translation type="obsolete">Общие</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Enable on incoming messages</source>
-        <translation>Включить для входящих сообщений</translation>
+        <translation type="obsolete">Включить для входящих сообщений</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Enable on outgoing messages</source>
-        <translation>Включить для исходящих сообщений</translation>
+        <translation type="obsolete">Включить для исходящих сообщений</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Don&apos;t show info for text/html content type</source>
-        <translation>Не показывать информацию для страниц text/html</translation>
+        <translation type="obsolete">Не показывать информацию для страниц text/html</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Ignore SSL warnings</source>
-        <translation>Игнорировать предупреждения SSL</translation>
+        <translation type="obsolete">Игнорировать предупреждения SSL</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Info template:</source>
-        <translation>Шаблон отображения:</translation>
+        <translation type="obsolete">Шаблон отображения:</translation>
     </message>
     <message>
-        <location line="+17"/>
         <source>Macros:
 %TYPE% - Content-Type
 %SIZE% - Content-Length</source>
         <translatorcomment>Может всё-таки переменные?</translatorcomment>
-        <translation>Макросы:
+        <translation type="obsolete">Макросы:
 %TYPE% — тип содержимого
 %SIZE% — размер содержимого</translation>
     </message>
     <message>
-        <location line="+23"/>
         <source>Images</source>
-        <translation>Изображения</translation>
+        <translation type="obsolete">Изображения</translation>
     </message>
     <message>
-        <location line="+21"/>
         <source>Max file size limit (in bytes)</source>
-        <translation>Максимальный размер файла (в байтах)</translation>
+        <translation type="obsolete">Максимальный размер файла (в байтах)</translation>
     </message>
     <message>
-        <location line="+37"/>
         <source>%MAXW% macro</source>
-        <translation>Макрос %MAXW%</translation>
+        <translation type="obsolete">Макрос %MAXW%</translation>
     </message>
     <message>
-        <location line="+37"/>
         <source>%MAXH% macro</source>
-        <translation>Макрос %MAXH%</translation>
+        <translation type="obsolete">Макрос %MAXH%</translation>
     </message>
     <message>
-        <location line="+22"/>
         <source>Image preview template:</source>
-        <translation>Шаблон отображения изображения:</translation>
+        <translation type="obsolete">Шаблон отображения изображения:</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Macros:
 %URL% - Image URL
 %UID% - Generated unique ID</source>
-        <translation>Макросы:
+        <translation type="obsolete">Макросы:
 %URL% — Адрес на изображение
 %UID% — Уник. идентификатор</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>YouTube</source>
-        <translation>YouTube</translation>
+        <translation type="obsolete">YouTube</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Enable preview for YouTube links</source>
-        <translation>Включить предпросмотр ссылок на YouTube</translation>
+        <translation type="obsolete">Включить предпросмотр ссылок на YouTube</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>YouTube links template:</source>
-        <translation>Шаблон отображения вставок с YouTube:</translation>
+        <translation type="obsolete">Шаблон отображения вставок с YouTube:</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Macros:
 %YTID% - YouTube ID</source>
-        <translation>Переменная:
+        <translation type="obsolete">Переменная:
 %YTID% - YouTube ID</translation>
     </message>
     <message>
-        <location line="+15"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -221,7 +194,7 @@ p, li { white-space: pre-wrap; }
 &lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; text-decoration: underline; color:#000000;&quot;&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; text-decoration: underline; color:#000000;&quot;&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; color:#000000;&quot;&gt;(c) 2008-2009&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="obsolete">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Verdana&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -240,9 +213,8 @@ p, li { white-space: pre-wrap; }
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; color:#000000;&quot;&gt;(c) 2008-2009&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location line="-6"/>
         <source>About</source>
-        <translation>О плагине</translation>
+        <translation type="obsolete">О плагине</translation>
     </message>
 </context>
 </TS>

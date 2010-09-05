@@ -42,7 +42,7 @@
 <context>
     <name>Affiliation</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+500"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+553"/>
         <source>Alumni Org.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -145,7 +145,7 @@
 <context>
     <name>Age</name>
     <message>
-        <location line="+7"/>
+        <location line="+13"/>
         <source>13-17</source>
         <translation>13-17</translation>
     </message>
@@ -188,13 +188,13 @@
         <translation>Руслан Нигматуллин</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+38"/>
+        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+41"/>
         <source>Alexey Ignatiev</source>
         <translation>Алексей Игнатьев</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+194"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+200"/>
         <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+3"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
@@ -203,9 +203,8 @@
 <context>
     <name>ClientIdentify</name>
     <message>
-        <location line="+141"/>
         <source>Possible client</source>
-        <translation>Возможный клиент</translation>
+        <translation type="obsolete">Возможный клиент</translation>
     </message>
 </context>
 <context>
@@ -537,32 +536,32 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+73"/>
+        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+67"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
     <message>
-        <location line="+315"/>
+        <location line="+294"/>
         <source>Online time</source>
         <translation>В сети</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+7"/>
         <source>Signed on</source>
         <translation>Вошел</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+5"/>
         <source>Away since</source>
         <translation>Отошел</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+5"/>
         <source>Reg. date</source>
         <translation>Зарегестрирован</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+157"/>
+        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+165"/>
         <source>Add to visible list</source>
         <translation>Добавить в список видимости</translation>
     </message>
@@ -592,9 +591,8 @@
         <translation>Удалить из игнора</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-2"/>
         <source>Possible client</source>
-        <translation>Возможный клиент</translation>
+        <translation type="obsolete">Возможный клиент</translation>
     </message>
     <message>
         <location filename="../../protocols/oscar/src/authorization.cpp" line="+15"/>
@@ -602,7 +600,7 @@
         <translation>Запротить авторизацию</translation>
     </message>
     <message>
-        <location line="+94"/>
+        <location line="+95"/>
         <source>Please, authorize me</source>
         <translation>Пожалуйста, авторизуйте меня</translation>
     </message>
@@ -648,7 +646,7 @@
 <context>
     <name>Country</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="-504"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="-566"/>
         <source>Other</source>
         <translation>Другое</translation>
     </message>
@@ -1909,7 +1907,7 @@
         <translation type="obsolete">Не указан</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+152"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+180"/>
         <source>Female</source>
         <translation>Женский</translation>
     </message>
@@ -1931,6 +1929,44 @@
     <message>
         <source>Not In List</source>
         <translation type="obsolete">Не в списке</translation>
+    </message>
+</context>
+<context>
+    <name>IcqAccountMainSettings</name>
+    <message>
+        <location filename="../../protocols/oscar/src/ui/icqaccountmainsettings.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished">Форма</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>UIN:</source>
+        <translation type="unfinished">UIN (номер ICQ):</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Password:</source>
+        <translation type="unfinished">Пароль:</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>User name:</source>
+        <translation type="unfinished">Имя:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Server:</source>
+        <translation type="unfinished">Сервер:</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Port:</source>
+        <translation type="unfinished">Порт:</translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Use ssl (experimental)</source>
+        <translation type="unfinished">Задействовать SSL (эксперементальная возможность)</translation>
     </message>
 </context>
 <context>
@@ -1972,291 +2008,11 @@ p, li { white-space: pre-wrap; }
         <source>System</source>
         <translation>Системная</translation>
     </message>
-    <message>
-        <location line="+5"/>
-        <source>Apple Roman</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Big5</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Big5-HKSCS</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>EUC-JP</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>EUC-KR</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>GB18030-0</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>IBM 850</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>IBM 866</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>IBM 874</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>ISO 2022-JP</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>ISO 8859-1</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>ISO 8859-2</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>ISO 8859-3</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>ISO 8859-4</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>ISO 8859-5</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>ISO 8859-6</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>ISO 8859-7</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>ISO 8859-8</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>ISO 8859-9</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>ISO 8859-10</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>ISO 8859-13</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>ISO 8859-14</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>ISO 8859-15</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>ISO 8859-16</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Iscii-Bng</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Iscii-Dev</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Iscii-Gjr</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Iscii-Knd</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Iscii-Mlm</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Iscii-Ori</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Iscii-Pnj</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Iscii-Tlg</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Iscii-Tml</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>JIS X 0201</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>JIS X 0208</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>KOI8-R</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>KOI8-U</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>MuleLao-1</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>ROMAN8</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Shift-JIS</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>TIS-620</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>TSCII</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>UTF-8</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>UTF-16</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>UTF-16BE</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>UTF-16LE</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Windows-1250</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Windows-1251</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Windows-1252</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Windows-1253</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Windows-1254</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Windows-1255</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Windows-1256</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Windows-1257</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Windows-1258</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>WINSAMI2</source>
-        <translation></translation>
-    </message>
 </context>
 <context>
     <name>Industry</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+24"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+38"/>
         <source>Agriculture</source>
         <translation>Сельское хозяйство</translation>
     </message>
@@ -2349,7 +2105,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Interest</name>
     <message>
-        <location line="-186"/>
+        <location line="-221"/>
         <source>50&apos;s</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2602,7 +2358,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Language</name>
     <message>
-        <location line="+6"/>
+        <location line="+13"/>
         <source>Afrikaans</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2976,7 +2732,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Marital</name>
     <message>
-        <location line="+137"/>
+        <location line="+192"/>
         <source>Single</source>
         <translation>Один</translation>
     </message>
@@ -3032,7 +2788,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MetaInfo</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+6"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+13"/>
         <source>Nick</source>
         <translation>Ник</translation>
     </message>
@@ -3184,7 +2940,7 @@ p, li { white-space: pre-wrap; }
         <translation>Прошлое</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo.cpp" line="+116"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafield.cpp" line="+99"/>
         <source>Basic</source>
         <translation>Основной</translation>
     </message>
@@ -3200,7 +2956,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+2"/>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+1"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+1"/>
         <source>Affilations</source>
         <translation>Разрешения</translation>
     </message>
@@ -3208,7 +2964,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MetaInfoHome</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="-37"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="-37"/>
         <source>City</source>
         <translation>Город</translation>
     </message>
@@ -3327,7 +3083,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Occupation</name>
     <message>
-        <location line="-121"/>
+        <location line="-148"/>
         <source>Academic</source>
         <translation>Учусь</translation>
     </message>
@@ -3481,7 +3237,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Past</name>
     <message>
-        <location line="-87"/>
+        <location line="-115"/>
         <source>Elementary School</source>
         <translation>Начальная школа</translation>
     </message>
@@ -3534,7 +3290,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Модуль начальной реализации Oscar протокола</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-145"/>
+        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-6"/>
         <source>OscarIdentify</source>
         <translation>Аськологин</translation>
     </message>
@@ -3640,7 +3396,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Privacy</name>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="-87"/>
+        <location filename="../../protocols/oscar/src/privacylists.cpp" line="-91"/>
         <source>Visible for all</source>
         <translation>Видимый для всех</translation>
     </message>
@@ -3665,7 +3421,12 @@ p, li { white-space: pre-wrap; }
         <translation>Видимый только для списка контактов</translation>
     </message>
     <message>
-        <location line="+66"/>
+        <location line="+3"/>
+        <source>Unknown privacy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+67"/>
         <source>Visible mode:</source>
         <translation>Режим видимости:</translation>
     </message>
@@ -3812,9 +3573,14 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/oscar/src/icqprotocol.cpp" line="+42"/>
+        <location filename="../../protocols/oscar/src/icqprotocol.cpp" line="+44"/>
         <source>Icq</source>
         <translation>ICQ</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Icq account settings</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3825,7 +3591,7 @@ p, li { white-space: pre-wrap; }
         <translation>Занят</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+14"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+17"/>
         <source>Angry</source>
         <translation>Злой</translation>
     </message>
@@ -3858,10 +3624,10 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>StudyLevel</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfofields_p.h" line="+17"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+31"/>
         <source>Associated degree</source>
         <translatorcomment>Associate’s degree (Associate) — степень в США, полученная после двугодичного обучения в колледже, который может стать промежуточной ступенью к получению бакалаврской степени (после еще двух лет обучения). </translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Закончил фазанку</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3904,7 +3670,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-5"/>
         <location line="+3"/>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-32"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-35"/>
         <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-38"/>
         <location line="+3"/>
         <source>Author</source>
@@ -3914,7 +3680,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>XStatus</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-157"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-162"/>
         <source>Angry</source>
         <translation>Злой</translation>
     </message>
@@ -4049,12 +3815,12 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Мобила</translation>
     </message>
     <message>
-        <location line="+18"/>
-        <source>?</source>
-        <translation></translation>
+        <location line="+12"/>
+        <source>Watching movie</source>
+        <translation type="unfinished">Смотрю кино</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+9"/>
         <source>Writing</source>
         <translation>Пишу</translation>
     </message>
@@ -4085,17 +3851,21 @@ p, li { white-space: pre-wrap; }
         <translation>Быть или не быть</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Watching pro7 on TV</source>
-        <translation>Смотрю pro7 на ТВ</translation>
+        <translation type="obsolete">Смотрю pro7 на ТВ</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+6"/>
         <source>Love</source>
         <translation>Любовь</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="+3"/>
+        <source>Searching</source>
+        <translation type="unfinished">В поиске</translation>
+    </message>
+    <message>
+        <location line="+13"/>
         <source>Cold</source>
         <translation>Холодно</translation>
     </message>
@@ -4125,10 +3895,53 @@ p, li { white-space: pre-wrap; }
         <translation>В транспорте</translation>
     </message>
     <message>
-        <location line="+198"/>
-        <location line="+29"/>
         <source>X-Status</source>
-        <translation>X-Статус</translation>
+        <translation type="obsolete">X-Статус</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::oscar::ClientIdentify</name>
+    <message>
+        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+24"/>
+        <location line="+129"/>
+        <source>Possible client</source>
+        <translation type="unfinished">Возможный клиент</translation>
+    </message>
+    <message>
+        <location line="-128"/>
+        <source>Show client icon</source>
+        <translation type="unfinished">Показывать иконку клиента</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::oscar::PrivacyLists</name>
+    <message>
+        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+110"/>
+        <source>Show &quot;visible&quot; icon if contact in visible list</source>
+        <translation type="unfinished">Показывать &quot;глаз видящего&quot;</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Show &quot;invisible&quot; icon if contact in invisible list</source>
+        <translation type="unfinished">Показывать &quot;глаз слепого&quot;</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Show &quot;ignore&quot; icon if contact in ignore list</source>
+        <translation type="unfinished">Показывать &quot;жопу игнора&quot; в списке контактов</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
+    <message>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+262"/>
+        <source>X-Status</source>
+        <translation type="unfinished">X-Статус</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show contact X-Status icon</source>
+        <translation type="unfinished">Показывать иконку X-статуса</translation>
     </message>
 </context>
 <context>

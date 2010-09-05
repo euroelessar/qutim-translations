@@ -4,11 +4,12 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+27"/>
+        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+31"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
     <message>
+        <location filename="../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="+17"/>
         <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+17"/>
         <source>Alexey Sidorov</source>
         <translation>Алексей Сидоров</translation>
@@ -68,7 +69,7 @@
         <translation>Мобильный</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+4"/>
         <source>Activity</source>
         <translation>Занятие</translation>
     </message>
@@ -133,114 +134,91 @@
 <context>
     <name>EdditAccount</name>
     <message>
-        <location filename="../../protocols/vkontakte/core/edditaccount.ui" line="+14"/>
         <source>Form</source>
-        <translation>Настройки</translation>
+        <translation type="obsolete">Настройки</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>General</source>
-        <translation>Главные</translation>
+        <translation type="obsolete">Главные</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Password:</source>
-        <translation>Пароль:</translation>
+        <translation type="obsolete">Пароль:</translation>
     </message>
     <message>
-        <location line="+14"/>
         <source>Autoconnect on start</source>
-        <translation>Автоматически подключаться при старте</translation>
+        <translation type="obsolete">Автоматически подключаться при старте</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Show status text in contact list</source>
-        <translation>Показывать текст статуса в ростере</translation>
+        <translation type="obsolete">Показывать текст статуса в ростере</translation>
     </message>
     <message>
-        <location line="+9"/>
         <source>Refresh friend list every:</source>
-        <translation>Обновлять список друзей каждые:</translation>
+        <translation type="obsolete">Обновлять список друзей каждые:</translation>
     </message>
     <message>
-        <location line="+20"/>
-        <location line="+34"/>
-        <location line="+54"/>
         <source> s</source>
-        <translation> с</translation>
+        <translation type="obsolete"> с</translation>
     </message>
     <message>
-        <location line="-74"/>
         <source>Check for new messages every:</source>
-        <translation>Проверять новые сообщения каждые:</translation>
+        <translation type="obsolete">Проверять новые сообщения каждые:</translation>
     </message>
     <message>
-        <location line="+46"/>
         <source>Updates</source>
-        <translation>Обновления</translation>
+        <translation type="obsolete">Обновления</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Check for friends updates every:</source>
-        <translation>Проверять обновления друзей каждые:</translation>
+        <translation type="obsolete">Проверять обновления друзей каждые:</translation>
     </message>
     <message>
-        <location line="+32"/>
         <source>Enable friends photo updates notifications</source>
-        <translation>Включить уведомления о смене фото у друзей</translation>
+        <translation type="obsolete">Включить уведомления о смене фото у друзей</translation>
     </message>
     <message>
-        <location line="+22"/>
         <source>Insert preview URL on new photos notifications</source>
-        <translation>Вставить ссылку на миниатюру фотографии в уведомление</translation>
+        <translation type="obsolete">Вставить ссылку на миниатюру фотографии в уведомление</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Insert fullsize URL on new photos notifications</source>
-        <translation>Вставить ссылку на фотографию в уведомление</translation>
+        <translation type="obsolete">Вставить ссылку на фотографию в уведомление</translation>
     </message>
     <message>
-        <location line="+42"/>
         <source>OK</source>
-        <translation>Ок</translation>
+        <translation type="obsolete">Ок</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Apply</source>
-        <translation>Применить</translation>
+        <translation type="obsolete">Применить</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Cancel</source>
-        <translation>Отмена</translation>
+        <translation type="obsolete">Отмена</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/core/edditaccount.cpp" line="+32"/>
         <source>Editing %1</source>
-        <translation>Редактирование %1</translation>
+        <translation type="obsolete">Редактирование %1</translation>
     </message>
 </context>
 <context>
     <name>LoginForm</name>
     <message>
-        <location filename="../../protocols/vkontakte/core/loginform.ui" line="+14"/>
         <source>Form</source>
-        <translation>Настройки</translation>
+        <translation type="obsolete">Настройки</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>E-mail:</source>
-        <translation>Электропочта:</translation>
+        <translation type="obsolete">Электропочта:</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Password:</source>
-        <translation>Пароль:</translation>
+        <translation type="obsolete">Пароль:</translation>
     </message>
     <message>
-        <location line="+27"/>
         <source>Autoconnect on start</source>
-        <translation>Автоматически подключаться при старте</translation>
+        <translation type="obsolete">Автоматически подключаться при старте</translation>
     </message>
 </context>
 <context>
@@ -286,14 +264,43 @@
         <source>Vkontakte wall support for qutIM</source>
         <translation>Поддержка стены для qutIM (биться с разбегу)</translation>
     </message>
+    <message>
+        <location filename="../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="-3"/>
+        <source>Photoalbum</source>
+        <translation type="unfinished">Фотоальбом</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Vkontakte photoalbum support for qutIM</source>
+        <translation type="unfinished">Фотоальбом вконтакте для qutIM</translation>
+    </message>
 </context>
 <context>
     <name>Task</name>
     <message>
         <location line="+3"/>
+        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+3"/>
         <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="-14"/>
         <source>Author</source>
         <translation>Автор</translation>
+    </message>
+</context>
+<context>
+    <name>VAccountSettings</name>
+    <message>
+        <location filename="../../protocols/vkontakte/src/ui/vaccountsettings.ui" line="+14"/>
+        <source>Account settings</source>
+        <translation type="unfinished">Настройки учетной записи</translation>
+    </message>
+    <message>
+        <location line="+35"/>
+        <source>Password:</source>
+        <translation type="unfinished">Пароль:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>To be desided...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -400,24 +407,20 @@
 <context>
     <name>VcontactList</name>
     <message>
-        <location filename="../../protocols/vkontakte/core/vcontactlist.cpp" line="+48"/>
         <source>Friends</source>
-        <translation>Друзья</translation>
+        <translation type="obsolete">Друзья</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Favorites</source>
-        <translation>Закладки</translation>
+        <translation type="obsolete">Закладки</translation>
     </message>
     <message>
-        <location line="+453"/>
         <source>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Status message:&lt;/b&gt;&amp;nbsp;%1&lt;/font</source>
-        <translation>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Статус:&lt;/b&gt;&amp;nbsp;%1&lt;/font</translation>
+        <translation type="obsolete">&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Статус:&lt;/b&gt;&amp;nbsp;%1&lt;/font</translation>
     </message>
     <message>
-        <location line="+94"/>
         <source>Open user page</source>
-        <translation>Открыть страницу</translation>
+        <translation type="obsolete">Открыть страницу</translation>
     </message>
 </context>
 <context>
@@ -434,11 +437,21 @@
         <translatorcomment>Открыть хомяка - так значительно короче, но хомячки (сорь за тафтологию) не поймут^_^&apos;</translatorcomment>
         <translation>Открыть домашнюю страничку</translation>
     </message>
+    <message>
+        <location filename="../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="+10"/>
+        <source>View photoalbum</source>
+        <translation type="unfinished">Просмотреть фотоальбом</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+17"/>
+        <source>Account settings</source>
+        <translation type="unfinished">Настройки учетной записи</translation>
+    </message>
 </context>
 <context>
     <name>VkontakteProtocol</name>
     <message>
-        <location line="+27"/>
+        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+27"/>
         <source>id</source>
         <translation></translation>
     </message>
@@ -464,37 +477,31 @@
 <context>
     <name>VprotocolWrap</name>
     <message>
-        <location filename="../../protocols/vkontakte/protocol/vprotocolwrap.cpp" line="+159"/>
         <source>Mismatch nick or password</source>
-        <translation>Несовпадение ника или пароля</translation>
+        <translation type="obsolete">Несовпадение ника или пароля</translation>
     </message>
     <message>
-        <location line="+126"/>
         <source>Vkontakte.ru updates</source>
-        <translation type="unfinished">ВТентакле обновлён</translation>
+        <translation type="obsolete">ВТентакле обновлён</translation>
     </message>
     <message>
-        <location line="+210"/>
         <source>%1 was tagged on photo</source>
-        <translation>%1 отметился на фото</translation>
+        <translation type="obsolete">%1 отметился на фото</translation>
     </message>
     <message>
-        <location line="+25"/>
         <source>%1 added new photo</source>
-        <translation>%1 добавил фотографию</translation>
+        <translation type="obsolete">%1 добавил фотографию</translation>
     </message>
 </context>
 <context>
     <name>VstatusObject</name>
     <message>
-        <location filename="../../protocols/vkontakte/core/vstatusobject.cpp" line="+32"/>
         <source>Online</source>
-        <translation>В сети</translation>
+        <translation type="obsolete">В сети</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Offline</source>
-        <translation>Отключен</translation>
+        <translation type="obsolete">Отключен</translation>
     </message>
 </context>
 </TS>

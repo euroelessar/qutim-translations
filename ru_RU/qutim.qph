@@ -4387,4 +4387,52 @@ Accept invitation?</source>
     <source>General</source>
     <target>Общие</target>
 </phrase>
+<phrase>
+    <source>OS</source>
+    <target>ОС</target>
+</phrase>
+<phrase>
+    <source>Having lunch</source>
+    <target>Ланч</target>
+</phrase>
+<phrase>
+    <source>Inactive</source>
+    <target>Бездельничаю</target>
+</phrase>
+<phrase>
+    <source>Watching tv</source>
+    <target>Смотрю ящик</target>
+</phrase>
+<phrase>
+    <source>User name:</source>
+    <target>Имя:</target>
+</phrase>
+<phrase>
+    <source>Server:</source>
+    <target>Сервер:</target>
+</phrase>
+<phrase>
+    <source>Port:</source>
+    <target>Порт:</target>
+</phrase>
+<phrase>
+    <source>Watching movie</source>
+    <target>Смотрю кино</target>
+</phrase>
+<phrase>
+    <source>Searching</source>
+    <target>В поиске</target>
+</phrase>
+<phrase>
+    <source>Account settings</source>
+    <target>Настройки учетной записи</target>
+</phrase>
+<phrase>
+    <source>Searching...</source>
+    <target>Поиск...</target>
+</phrase>
+<phrase>
+    <source>URL:</source>
+    <target>Ссылка:</target>
+</phrase>
 </QPH>

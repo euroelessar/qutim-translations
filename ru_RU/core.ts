@@ -2114,22 +2114,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/examples/autosettingsitem/autosettings.cpp" line="+9"/>
         <source>Autosettings example</source>
-        <translation type="unfinished">Пример автонастроек</translation>
+        <translation>Пример автонастроек</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Simple example of auto settings item generator</source>
-        <translation type="unfinished">Простой пример автоматического генератора пунктов настроек</translation>
+        <translation>Простой пример автоматического генератора пунктов настроек</translation>
     </message>
     <message>
         <location filename="../../qutim/examples/simplesettingsdialog/settingslayerimpl.cpp" line="+7"/>
         <source>Simple Settings dialog</source>
-        <translation type="unfinished">Простой диалог настроек</translation>
+        <translation>Простой диалог настроек</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>SDK03 example</source>
-        <translation type="unfinished">Пример SDK03</translation>
+        <translation>Пример SDK03</translation>
     </message>
     <message>
         <source>Contact search</source>
@@ -2149,79 +2149,79 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Default qutIM implementation of the data forms</source>
         <translatorcomment>Wtf? Эташто такое?</translatorcomment>
-        <translation type="unfinished">Простая реализация рисовалки форм для qutIM (по умолчанию)</translation>
+        <translation>Простая реализация рисовалки форм для qutIM (по умолчанию)</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/addcontactdlg/addcontactdlgplugin.cpp" line="+11"/>
         <source>Add contact dialog</source>
-        <translation type="unfinished">Модуль добавления контакта</translation>
+        <translation>Модуль добавления контакта</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Simple add contact dialog</source>
-        <translation type="unfinished">Простой модуль добавления контакта</translation>
+        <translation>Простой модуль добавления контакта</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/idlestatuschanger/idlestatuschangerplugin.cpp" line="+11"/>
         <source>AutoAway</source>
-        <translation type="unfinished">Автостатус</translation>
+        <translation>Автостатус</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Automatically changes status of accounts on inactivity</source>
-        <translation type="unfinished">Автоматически изменяет статус при бездействии</translation>
+        <translation>Автоматически изменяет статус при бездействии</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchatdlgplugin.cpp" line="+11"/>
         <source>Join GroupChat dialog</source>
-        <translation type="unfinished">Окно входа в конференцию</translation>
+        <translation>Окно входа в конференцию</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Simple groupchat join dialog</source>
-        <translation type="unfinished">Простой модуль входа в конференцию</translation>
+        <translation>Простой модуль входа в конференцию</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/searchdialog/searchdialogplugin.cpp" line="-3"/>
         <location line="+7"/>
         <source>Search window</source>
-        <translation type="unfinished">Окно поиска</translation>
+        <translation>Окно поиска</translation>
     </message>
     <message>
         <location line="-6"/>
         <location line="+7"/>
         <source>Default qutIM implementation of search window</source>
-        <translation type="unfinished">Простая реализация окна пойска</translation>
+        <translation>Простая реализация окна пойска</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Desktop Search Form</source>
-        <translation type="unfinished">Окно поиска для PC платформы</translation>
+        <translation>Окно поиска для PC платформы</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Default search form optimized for Desktop systems</source>
-        <translation type="unfinished">Простая реализация окна поиска для Полноразмерных экранов, клавиату итп</translation>
+        <translation>Простая реализация окна поиска для Полноразмерных экранов, клавиату итп</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Mobile Search Form</source>
-        <translation type="unfinished">Окно поиска для Мобилок</translation>
+        <translation>Окно поиска для Мобилок</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Search form optimized for Mobile systems</source>
-        <translation type="unfinished">Окно поиска для экранов смартфонов, тачскринов и клавиатур телефонов</translation>
+        <translation>Окно поиска для экранов смартфонов, тачскринов и клавиатур телефонов</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/mobilecontactinfo/mobilecontactinfoplugin.cpp" line="+11"/>
         <source>Mobile information window about a contact</source>
-        <translation type="unfinished">Окно информации для мобилок</translation>
+        <translation>Окно информации для мобилок</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>qutIM implementation of the information window for mobiles</source>
-        <translation type="unfinished">Реализация окна информации для экранов смартфонов, тачскринов и клавиатур телефонов</translation>
+        <translation>Реализация окна информации для экранов смартфонов, тачскринов и клавиатур телефонов</translation>
     </message>
 </context>
 <context>
@@ -2322,7 +2322,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/profiledialog.ui" line="+53"/>
         <source>Profiles</source>
-        <translation type="unfinished">Профили</translation>
+        <translation>Профили</translation>
     </message>
 </context>
 <context>
