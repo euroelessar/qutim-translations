@@ -21,4 +21,4 @@ foreach( LANGUAGE ${LANGUAGES} )
 	message(STATUS "Make ${LANGUAGE_NAME}")
 endforeach( LANGUAGE )
 
-install(DIRECTORY ${LANG_DIR} DESTINATION ${CMAKE_INSTALL_PREFIX}/share/qutim)
+install(DIRECTORY ${LANG_DIR} DESTINATION share/qutim)
