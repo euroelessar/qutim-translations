@@ -2740,4 +2740,8 @@
     <source>Properties</source>
     <target>Свойства</target>
 </phrase>
+<phrase>
+    <source>Floaties</source>
+    <target>Плаващи контакти</target>
+</phrase>
 </QPH>
