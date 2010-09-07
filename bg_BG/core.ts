@@ -902,7 +902,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-10"/>
         <source>This is a simple popup</source>
-        <translation>Това е опростен изскачащ прозорец</translation>
+        <translation>Това е oбикновен изскачащ прозорец</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -917,7 +917,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+8"/>
         <source>Simple messagebox</source>
-        <translation>Опростен прозорец със съобщения</translation>
+        <translation>Обикновен прозорец със съобщения</translation>
     </message>
 </context>
 <context>
