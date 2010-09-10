@@ -114,7 +114,7 @@
     <name>AddContact</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.ui" line="+14"/>
-        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+41"/>
+        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+42"/>
         <source>Add contact</source>
         <translation>Добавяне на контакт</translation>
     </message>
@@ -197,7 +197,7 @@
         <translation>Удостоверяване</translation>
     </message>
     <message>
-        <location line="+22"/>
+        <location line="+25"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -306,12 +306,12 @@ p, li { white-space: pre-wrap; }
         <translation>Преглед на хронологията</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="+179"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="+211"/>
         <source>Emoticons</source>
         <translation>Емотикони</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+11"/>
         <source>Clear chat field</source>
         <translation>Изчистване на разговора</translation>
     </message>
@@ -510,7 +510,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/contactlist/simplecontactlist.cpp" line="+109"/>
+        <location filename="../../qutim-meta/core/src/corelayers/contactlist/simplecontactlist.cpp" line="+108"/>
         <source>Change global status</source>
         <translation>Промяна на общия статус</translation>
     </message>
@@ -555,7 +555,7 @@ p, li { white-space: pre-wrap; }
         <translation>Копиране в клипборда</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+828"/>
+        <location filename="../../qutim-meta/core/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+833"/>
         <source>Remove contact</source>
         <translation>Прeмахване на контакта</translation>
     </message>
@@ -565,7 +565,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавяне в списъка с контакти</translation>
     </message>
     <message>
-        <location line="-756"/>
+        <location line="-761"/>
         <source>Rename contact</source>
         <translation>Преименуване на контакта</translation>
     </message>
@@ -686,12 +686,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::AbstractChatWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="-124"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="-155"/>
         <source>Chat</source>
         <translation>Разговор</translation>
     </message>
     <message>
-        <location line="+41"/>
+        <location line="+42"/>
         <source>Unable to send empty message!</source>
         <translation>Невъзможно е изпрщането на празно съобщение!</translation>
     </message>
@@ -701,7 +701,7 @@ p, li { white-space: pre-wrap; }
         <translation>Невъзможно е изпращането на съобщение до %1</translation>
     </message>
     <message>
-        <location line="+309"/>
+        <location line="+339"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -714,7 +714,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::AdiumChatWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/adiumchatform/adiumchatwidget.cpp" line="+89"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/adiumchatform/adiumchatwidget.cpp" line="+90"/>
         <source>Chat actions</source>
         <translation>Действия в разговора</translation>
     </message>
@@ -1165,7 +1165,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+661"/>
+        <location filename="../../qutim-meta/core/src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+666"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
         <translation>Желаете ли да обедините контактите &quot;%1&quot; &lt;%2&gt; и &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
@@ -1304,6 +1304,14 @@ p, li { white-space: pre-wrap; }
         <location line="+10"/>
         <source>Cancel</source>
         <translation>Отказ</translation>
+    </message>
+</context>
+<context>
+    <name>EmoticonsSelector</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/emoticonssettings/emoticonsselector.cpp" line="+44"/>
+        <source>No emoticons</source>
+        <translation>Без емотикони</translation>
     </message>
 </context>
 <context>
@@ -1468,12 +1476,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+0"/>
-        <location line="+55"/>
+        <location line="+58"/>
         <source>Recent</source>
         <translation>Последни</translation>
     </message>
     <message>
-        <location line="-26"/>
+        <location line="-22"/>
         <source>Join an existing or create a new groupchat</source>
         <translation>Присъединяване към съществуващ или създаване нов групов разговор</translation>
     </message>
@@ -1500,7 +1508,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Редактиране на съхранените отметки</translation>
     </message>
     <message>
-        <location line="+162"/>
+        <location line="+158"/>
         <source>Add</source>
         <translation>Добавяне</translation>
     </message>
@@ -1510,8 +1518,8 @@ p, li { white-space: pre-wrap; }
         <translation>Премахване</translation>
     </message>
     <message>
-        <location line="-223"/>
-        <location line="+54"/>
+        <location line="-226"/>
+        <location line="+61"/>
         <source>Join</source>
         <translation>Присъединяване</translation>
     </message>
@@ -1577,6 +1585,14 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/src/corelayers/metacontacts/manager.cpp" line="+31"/>
         <source>Split Metacontact</source>
         <translation>Разделяне на метаконтакта</translation>
+    </message>
+</context>
+<context>
+    <name>Metacontact</name>
+    <message>
+        <location line="+89"/>
+        <source>You</source>
+        <translation>Вие</translation>
     </message>
 </context>
 <context>
@@ -2907,7 +2923,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Добавка: %1</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+291"/>
+        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+287"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Неуспешно зареждане на добавка: 
