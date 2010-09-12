@@ -2232,27 +2232,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Default search form optimized for Desktop systems</source>
-        <translation>Простая реализация окна поиска для Полноразмерных экранов, клавиату итп</translation>
+        <translation type="unfinished">Простая реализация окна поиска для персональных компьютеров</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Mobile Search Form</source>
-        <translation>Окно поиска для Мобилок</translation>
+        <translation type="unfinished">Окно поиска для мобильных устройств</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Search form optimized for Mobile systems</source>
-        <translation>Окно поиска для экранов смартфонов, тачскринов и клавиатур телефонов</translation>
+        <translation type="unfinished">Окно поиска для мобильных систем</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/mobilecontactinfo/mobilecontactinfoplugin.cpp" line="+11"/>
         <source>Mobile information window about a contact</source>
-        <translation>Окно информации для мобилок</translation>
+        <translation type="unfinished">Окно информации для мобильных устройств</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>qutIM implementation of the information window for mobiles</source>
-        <translation>Реализация окна информации для экранов смартфонов, тачскринов и клавиатур телефонов</translation>
+        <translation type="unfinished">Реализация окна информации для телефонов</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/simpleactionbox/simpleactionboxplugin.cpp" line="+11"/>
