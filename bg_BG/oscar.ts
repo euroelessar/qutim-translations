@@ -287,7 +287,7 @@
     <message>
         <location line="+2"/>
         <source>No IP addresses were found for the host</source>
-        <translation type="unfinished"></translation>
+        <translation>Не са открити IP адреси за хоста</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -3904,7 +3904,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/protocols/oscar/src/md5login.cpp" line="+75"/>
         <source>No IP addresses were found for the host &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Не са открити IP адреси за хоста &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
