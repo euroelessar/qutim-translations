@@ -401,19 +401,40 @@
         <translation>Търсене на канал...</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircaccount.cpp" line="+254"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircaccount.cpp" line="+369"/>
         <source>Join channel</source>
         <translation>Присъединяване към канал</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="-310"/>
+        <location line="+314"/>
         <source>Channel</source>
         <translation>Канал</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="-312"/>
+        <source>Autojoin</source>
+        <translation>Автоматично присъединяване</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Yes</source>
+        <translation>Да</translation>
+    </message>
+    <message>
+        <location line="+310"/>
+        <source>Name</source>
+        <translation>Име</translation>
+    </message>
+    <message>
+        <location line="+8"/>
         <source>Password</source>
         <translation>Парола</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Auto-join</source>
+        <translation>Автоматично присъединяване</translation>
     </message>
 </context>
 <context>
@@ -471,7 +492,7 @@
         <translation type="obsolete">Заглавието на канала е зададено от %1 на %2.</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="+322"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="+341"/>
         <source>%1 gives channel operator privileges to %2.</source>
         <translation>%1 даде операторски права в канала на %2.</translation>
     </message>
@@ -595,7 +616,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcAccount</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircaccount.cpp" line="-180"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircaccount.cpp" line="-210"/>
         <source>Away</source>
         <translation>Отсъствам</translation>
     </message>
@@ -603,7 +624,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcChannel</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="-205"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="-208"/>
         <source>You are now known as %1</source>
         <translation>В момента се подвизавате като %1</translation>
     </message>
@@ -613,7 +634,7 @@
         <translation>%1 вече се подвизава като %2</translation>
     </message>
     <message>
-        <location line="+59"/>
+        <location line="+62"/>
         <source>%1 (%2) has joined the channel</source>
         <translation>%1 (%2) се присъедини към канала</translation>
     </message>
@@ -689,12 +710,12 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircconnection.cpp" line="+165"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircconnection.cpp" line="+172"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
     </message>
     <message>
-        <location line="+122"/>
+        <location line="+116"/>
         <source>Message of the day:</source>
         <translation>Съобщение за деня:</translation>
     </message>
