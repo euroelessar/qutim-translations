@@ -1026,7 +1026,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Simple messagebox</source>
-        <translation type="obsolete">Опростен прозорец със съобщения</translation>
+        <translation type="obsolete">Обикновен прозорец със съобщения</translation>
     </message>
 </context>
 <context>
@@ -1480,12 +1480,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+0"/>
-        <location line="+58"/>
+        <location line="+60"/>
         <source>Recent</source>
         <translation>Последни</translation>
     </message>
     <message>
-        <location line="-22"/>
+        <location line="-24"/>
         <source>Join an existing or create a new groupchat</source>
         <translation>Присъединяване към съществуващ или създаване нов групов разговор</translation>
     </message>
@@ -1512,7 +1512,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Редактиране на съхранените отметки</translation>
     </message>
     <message>
-        <location line="+158"/>
+        <location line="+160"/>
         <source>Add</source>
         <translation>Добавяне</translation>
     </message>
@@ -1522,7 +1522,7 @@ p, li { white-space: pre-wrap; }
         <translation>Премахване</translation>
     </message>
     <message>
-        <location line="-226"/>
+        <location line="-228"/>
         <location line="+61"/>
         <source>Join</source>
         <translation>Присъединяване</translation>
@@ -1770,7 +1770,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Simple ContactList</source>
-        <translation type="obsolete">Опростен списък с контакти</translation>
+        <translation type="obsolete">Обикновен списък с контакти</translation>
     </message>
     <message>
         <source>Default qutIM contact list implementation. Just simple</source>
@@ -1909,11 +1909,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Simple authorization dialog</source>
-        <translation type="obsolete">Опростен диалог за удостоверяване</translation>
+        <translation type="obsolete">Обикновен диалог за удостоверяване</translation>
     </message>
     <message>
         <source>Simple password dialog</source>
-        <translation type="obsolete">Опростен диалог за парола</translation>
+        <translation type="obsolete">Обикновен диалог за парола</translation>
     </message>
     <message>
         <source>Default qutIM password dialog</source>
@@ -1921,7 +1921,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Simple tray</source>
-        <translation type="obsolete">Опростен системен поднос</translation>
+        <translation type="obsolete">Обикновен системен поднос</translation>
     </message>
     <message>
         <source>Default qutIM system tray icon implementation</source>
@@ -1937,7 +1937,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Simple information window about a contact</source>
-        <translation type="obsolete">Опростен прозорец с информация за контакта</translation>
+        <translation type="obsolete">Обикновен прозорец с информация за контакта</translation>
     </message>
     <message>
         <source>Default qutIM implementation of the information window</source>
@@ -2041,7 +2041,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Simple sound theme selector</source>
-        <translation type="obsolete">Опростен избор на звукови теми</translation>
+        <translation type="obsolete">Обикновен избор на звукови теми</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayerplugin.cpp" line="-3"/>
@@ -2085,11 +2085,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Simple add contact dialog</source>
-        <translation type="obsolete">Опростен диалог за добавяне на контакт</translation>
+        <translation type="obsolete">Обикновен диалог за добавяне на контакт</translation>
     </message>
     <message>
         <source>Simple MetaContacts</source>
-        <translation type="obsolete">Опростени Метаконтакти</translation>
+        <translation type="obsolete">Обикновени Метаконтакти</translation>
     </message>
     <message>
         <source>Default qutIM MetaContacts implementation, very stupid one</source>
@@ -2109,7 +2109,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Simple groupchat join dialog</source>
-        <translation type="obsolete">Опростен диалог за присъединяване към групов разговор</translation>
+        <translation type="obsolete">Обикновен диалог за присъединяване към групов разговор</translation>
     </message>
     <message>
         <source>Default search form</source>
