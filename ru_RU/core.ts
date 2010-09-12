@@ -1530,12 +1530,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+0"/>
-        <location line="+58"/>
+        <location line="+60"/>
         <source>Recent</source>
         <translation>Недавние</translation>
     </message>
     <message>
-        <location line="-22"/>
+        <location line="-24"/>
         <source>Join an existing or create a new groupchat</source>
         <translation>Войти в существующую или создать новую комнату чата</translation>
     </message>
@@ -1550,7 +1550,7 @@ p, li { white-space: pre-wrap; }
         <translation>Создать, изменить или удалить закладку</translation>
     </message>
     <message>
-        <location line="+157"/>
+        <location line="+159"/>
         <source>Add</source>
         <translation>Добавить</translation>
     </message>
@@ -1560,7 +1560,7 @@ p, li { white-space: pre-wrap; }
         <translation>Удалить</translation>
     </message>
     <message>
-        <location line="-226"/>
+        <location line="-228"/>
         <location line="+61"/>
         <source>Join</source>
         <translation>Войти</translation>
@@ -3030,7 +3030,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+0"/>
         <source>Default qutIM popups based on QTextDocument</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Всплывающие уведомления qutIM, основаны на QTextDocument</translation>
     </message>
 </context>
 <context>

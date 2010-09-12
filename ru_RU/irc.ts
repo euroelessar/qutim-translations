@@ -397,19 +397,40 @@
         <translation type="unfinished">Искать канал...</translation>
     </message>
     <message>
-        <location filename="../../src/ircaccount.cpp" line="+254"/>
+        <location filename="../../src/ircaccount.cpp" line="+365"/>
         <source>Join channel</source>
         <translation type="unfinished">Подключиться к каналу</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="-305"/>
+        <location line="+309"/>
         <source>Channel</source>
         <translation>Канал</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="-307"/>
+        <source>Autojoin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Yes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+305"/>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
         <source>Password</source>
         <translation>Пароль</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Auto-join</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -467,7 +488,7 @@
         <translation type="obsolete">%1 сменил топик на %2.</translation>
     </message>
     <message>
-        <location filename="../../src/ircchannel.cpp" line="+322"/>
+        <location filename="../../src/ircchannel.cpp" line="+323"/>
         <source>%1 gives channel operator privileges to %2.</source>
         <translation>%1 дал опа %2.</translation>
     </message>
@@ -576,7 +597,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcAccount</name>
     <message>
-        <location filename="../../src/ircaccount.cpp" line="-180"/>
+        <location filename="../../src/ircaccount.cpp" line="-213"/>
         <source>Away</source>
         <translation>Отошел</translation>
     </message>
@@ -670,7 +691,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../src/ircconnection.cpp" line="+165"/>
+        <location filename="../../src/ircconnection.cpp" line="+167"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сервер %1 (Версия %2), Режимы пользователей: %3, Режимы каналов: %4</translation>
     </message>
