@@ -307,7 +307,7 @@
     <message>
         <location filename="../../qutim-meta/protocols/vkontakte/src/ui/vaccountsettings.cpp" line="+42"/>
         <source>%1 settings</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 настройки</translation>
     </message>
 </context>
 <context>
