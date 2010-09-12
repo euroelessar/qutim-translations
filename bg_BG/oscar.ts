@@ -195,7 +195,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="+308"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="+307"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -285,12 +285,17 @@
         <translation>Друг клиент с този UIN се свързва</translation>
     </message>
     <message>
+        <location line="+2"/>
+        <source>No IP addresses were found for the host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location line="+4"/>
         <source>Unknown error</source>
         <translation>Неизвестна грешка</translation>
     </message>
     <message>
-        <location line="-34"/>
+        <location line="-36"/>
         <source>DB send error</source>
         <translation>Грешка при изпращане на базата данни</translation>
     </message>
@@ -2932,7 +2937,7 @@ p, li { white-space: pre-wrap; }
         <translation>Минало</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/metafield.cpp" line="+99"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/metafield.cpp" line="+96"/>
         <source>Basic</source>
         <translation>Основна</translation>
     </message>
@@ -3424,7 +3429,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="-326"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="-325"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>
@@ -3570,7 +3575,7 @@ p, li { white-space: pre-wrap; }
         <translation>Зает</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+17"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+21"/>
         <source>Angry</source>
         <translation>Бесен</translation>
     </message>
@@ -3648,7 +3653,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="-5"/>
         <location line="+3"/>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-35"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-39"/>
         <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="-38"/>
         <location line="+3"/>
         <source>Author</source>
@@ -3883,7 +3888,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::ClientIdentify</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="+24"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="+27"/>
         <location line="+129"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
@@ -3892,6 +3897,14 @@ p, li { white-space: pre-wrap; }
         <location line="-128"/>
         <source>Show client icon</source>
         <translation>Показване иконите на клиентите</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::oscar::Md5Login</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/oscar/src/md5login.cpp" line="+75"/>
+        <source>No IP addresses were found for the host &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3915,7 +3928,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+262"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+266"/>
         <source>X-Status</source>
         <translation>Разширен статус</translation>
     </message>

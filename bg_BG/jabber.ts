@@ -545,7 +545,7 @@
         <translation>Година на завършване</translation>
     </message>
     <message>
-        <location line="+45"/>
+        <location line="+46"/>
         <source>General</source>
         <translation>Основна</translation>
     </message>
@@ -1326,7 +1326,7 @@ Accept invitation?</source>
 </translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+209"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+210"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете ли да се присъедините повторно?</translation>
     </message>
@@ -1778,7 +1778,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JSoftwareDetection</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp" line="+207"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp" line="+217"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>

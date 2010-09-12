@@ -179,7 +179,7 @@
 <context>
     <name>AppearanceSettings</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/settings/popupappearance.ui" line="+20"/>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/settings/popupappearance.ui" line="+20"/>
         <source>Form</source>
         <translation>Настройки на облика</translation>
     </message>
@@ -223,7 +223,7 @@ p, li { white-space: pre-wrap; }
         <translation>Алексей Прохин</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/kineticpopups.cpp" line="+19"/>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+19"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -306,7 +306,7 @@ p, li { white-space: pre-wrap; }
         <translation>Преглед на хронологията</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="+211"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="+212"/>
         <source>Emoticons</source>
         <translation>Емотикони</translation>
     </message>
@@ -686,7 +686,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::AbstractChatWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="-155"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="-156"/>
         <source>Chat</source>
         <translation>Разговор</translation>
     </message>
@@ -701,7 +701,7 @@ p, li { white-space: pre-wrap; }
         <translation>Невъзможно е изпращането на съобщение до %1</translation>
     </message>
     <message>
-        <location line="+339"/>
+        <location line="+340"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -885,7 +885,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::KineticPopups::Popup</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/popup.cpp" line="+79"/>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/popup.cpp" line="+77"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
         <translation>&lt;p&gt; + %1 оставащи уведомления &lt;/p&gt;</translation>
     </message>
@@ -893,14 +893,14 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::KineticPopups::PopupAppearance</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/settings/popupappearance.cpp" line="+37"/>
-        <location line="+65"/>
-        <location line="+10"/>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="+36"/>
+        <location line="+70"/>
+        <location line="+9"/>
         <source>Preview</source>
         <translation>Предварителен преглед</translation>
     </message>
     <message>
-        <location line="-10"/>
+        <location line="-9"/>
         <source>This is a simple popup</source>
         <translation>Това е oбикновен изскачащ прозорец</translation>
     </message>
@@ -915,9 +915,13 @@ p, li { white-space: pre-wrap; }
         <translation>Друго съобщение</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+7"/>
+        <source>Simple kinetic popup widget.</source>
+        <translation>Обикновен kinetic изскачащ прозорец.</translation>
+    </message>
+    <message>
         <source>Simple messagebox</source>
-        <translation>Обикновен прозорец със съобщения</translation>
+        <translation type="obsolete">Обикновен прозорец със съобщения</translation>
     </message>
 </context>
 <context>
@@ -1258,7 +1262,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>DataForms</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/dataformsbackend/readonlydatalayout.cpp" line="+72"/>
+        <location filename="../../qutim-meta/core/src/corelayers/dataformsbackend/widgets.cpp" line="+62"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -1273,12 +1277,12 @@ p, li { white-space: pre-wrap; }
         <translation>полето не е попълнено</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/dataformsbackend/editablewidgets.h" line="+22"/>
+        <location filename="../../qutim-meta/core/src/corelayers/dataformsbackend/widgets.h" line="+25"/>
         <source>Not specified</source>
         <translation>Не е зададено</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/dataformsbackend/editablewidgets.cpp" line="+282"/>
+        <location filename="../../qutim-meta/core/src/corelayers/dataformsbackend/widgets.cpp" line="+276"/>
         <source>Open image</source>
         <translation>Отваряне на изображение</translation>
     </message>
@@ -1727,7 +1731,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/kineticpopups.cpp" line="-3"/>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="-3"/>
         <source>Kinetic popups</source>
         <translation>Изскачащи прозорци (Kinetic)</translation>
     </message>
@@ -2397,7 +2401,7 @@ p, li { white-space: pre-wrap; }
         <translation>Уведомления</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/backend.cpp" line="+39"/>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/backend.cpp" line="+37"/>
         <source>Popups</source>
         <translation>Изскачащи прозорци</translation>
     </message>
@@ -2510,7 +2514,7 @@ p, li { white-space: pre-wrap; }
         <translation>Невалидни</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/settingslayer.cpp" line="+291"/>
+        <location filename="../../qutim-meta/core/libqutim/settingslayer.cpp" line="+315"/>
         <source>Open File</source>
         <translation>Отваряне на файл</translation>
     </message>
@@ -2741,7 +2745,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/kineticpopups.cpp" line="+3"/>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+3"/>
         <location filename="../../qutim-meta/core/src/corelayers/searchdialog/searchdialogplugin.cpp" line="-10"/>
         <source>Author</source>
         <translation>Автор</translation>
@@ -2894,7 +2898,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>plugin</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/kineticpopups.cpp" line="+3"/>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+3"/>
         <source>Kinetic Popups</source>
         <translation>Изскачащи прозорци (Kinetic)</translation>
     </message>
