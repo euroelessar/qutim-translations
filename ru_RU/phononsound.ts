@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/phononsound/src/phononsoundplugin.cpp" line="+22"/>
+        <location filename="../../src/phononsoundplugin.cpp" line="+22"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -15,13 +15,13 @@
         <location line="+3"/>
         <location line="+5"/>
         <source>Phonon sound engine</source>
-        <translation type="unfinished">Звуковой движок Phonon</translation>
+        <translation>Звуковой движок Phonon</translation>
     </message>
     <message>
         <location line="-4"/>
         <location line="+5"/>
         <source>Sound engine based on KDE sound engine</source>
-        <translation type="unfinished">Вывод звука основанный на звуковом движке KDE</translation>
+        <translation>Вывод звука основанный на звуковом движке KDE</translation>
     </message>
 </context>
 <context>

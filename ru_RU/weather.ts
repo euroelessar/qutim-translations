@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/weather/src/weather.cpp" line="+26"/>
+        <location filename="../../src/weather.cpp" line="+26"/>
         <source>Nikita Belov</source>
         <translation>Никита Белов</translation>
     </message>
@@ -33,7 +33,7 @@
 <context>
     <name>WSettingsClass</name>
     <message>
-        <location filename="../../plugins/weather/src/wsettings.ui" line="+14"/>
+        <location filename="../../src/wsettings.ui" line="+14"/>
         <location line="+62"/>
         <source>Settings</source>
         <translation>Настройки</translation>
@@ -118,12 +118,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Weather</name>
     <message>
-        <location filename="../../plugins/weather/src/waccount.cpp" line="+20"/>
+        <location filename="../../src/waccount.cpp" line="+20"/>
         <source>Weather</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/weather/src/wsettings.cpp" line="+101"/>
+        <location filename="../../src/wsettings.cpp" line="+101"/>
         <source>Enter here city&apos;s code</source>
         <translation type="unfinished">Введите сюда код города</translation>
     </message>
@@ -151,6 +151,16 @@ p, li { white-space: pre-wrap; }
         <location line="+2"/>
         <source>Found: %1</source>
         <translation type="unfinished">Найдено: %1</translation>
+    </message>
+    <message>
+        <location filename="../../src/weather.cpp" line="+7"/>
+        <source>Get weather</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Get weather forecast</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

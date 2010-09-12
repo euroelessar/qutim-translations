@@ -231,6 +231,14 @@ p, li { white-space: pre-wrap; }
         <translation>Завершить</translation>
     </message>
     <message>
+        <location line="+12"/>
+        <source>File sent: %N (%S bytes)
+%U</source>
+        <comment>Don&apos;t remove format arguments</comment>
+        <translation type="unfinished">Файл отправлен: %N (%S байт)
+%U</translation>
+    </message>
+    <message>
         <location filename="../../src/uploaddialog.h" line="+86"/>
         <source>Uploading</source>
         <translation>Загрузка на север</translation>

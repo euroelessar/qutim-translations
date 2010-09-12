@@ -4,13 +4,13 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+31"/>
+        <location filename="../../src/vkontakteplugin.cpp" line="+31"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="+17"/>
-        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+17"/>
+        <location filename="../../plugins/photoalbum/vphotoalbumplugin.cpp" line="+17"/>
+        <location filename="../../plugins/wall/vwallmanager.cpp" line="+17"/>
         <source>Alexey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -18,7 +18,7 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vinforequest.cpp" line="+52"/>
+        <location filename="../../src/vinforequest.cpp" line="+52"/>
         <source>Nickname</source>
         <translation>Ник</translation>
     </message>
@@ -63,8 +63,8 @@
         <translation>Дом. Телефон</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+183"/>
-        <location filename="../../protocols/vkontakte/src/vinforequest.cpp" line="+1"/>
+        <location filename="../../src/vcontact.cpp" line="+184"/>
+        <location filename="../../src/vinforequest.cpp" line="+1"/>
         <source>Mobile phone</source>
         <translation>Мобильный</translation>
     </message>
@@ -74,7 +74,7 @@
         <translation>Занятие</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/src/vinforequest.cpp" line="+1"/>
+        <location filename="../../src/vinforequest.cpp" line="+1"/>
         <source>University</source>
         <translation>Университет</translation>
     </message>
@@ -224,7 +224,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="-3"/>
+        <location filename="../../src/vkontakteplugin.cpp" line="-3"/>
         <source>Vkontakte</source>
         <translation>Вконтакте</translation>
     </message>
@@ -254,20 +254,20 @@
         <translation>Мастер создания создание учетной записи Вконтакте</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="-3"/>
+        <location filename="../../plugins/wall/vwallmanager.cpp" line="-3"/>
         <source>Wall</source>
         <translatorcomment>Убей себя с разбегу</translatorcomment>
-        <translation>Стена</translation>
+        <translation type="unfinished">Стена ВКонтакте</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Vkontakte wall support for qutIM</source>
-        <translation>Поддержка стены для qutIM (биться с разбегу)</translation>
+        <translation type="unfinished">Поддержка стены ВКонтакте для qutIM</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="-3"/>
+        <location filename="../../plugins/photoalbum/vphotoalbumplugin.cpp" line="-3"/>
         <source>Photoalbum</source>
-        <translation type="unfinished">Фотоальбом</translation>
+        <translation type="unfinished">Фотоальбом ВКонтакте</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -279,8 +279,8 @@
     <name>Task</name>
     <message>
         <location line="+3"/>
-        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+3"/>
-        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="-14"/>
+        <location filename="../../plugins/wall/vwallmanager.cpp" line="+3"/>
+        <location filename="../../src/vkontakteplugin.cpp" line="-14"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -288,7 +288,7 @@
 <context>
     <name>VAccountSettings</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/ui/vaccountsettings.ui" line="+14"/>
+        <location filename="../../src/ui/vaccountsettings.ui" line="+14"/>
         <source>Account settings</source>
         <translation type="unfinished">Настройки учетной записи</translation>
     </message>
@@ -298,15 +298,15 @@
         <translation type="unfinished">Пароль:</translation>
     </message>
     <message>
-        <location line="+7"/>
-        <source>To be desided...</source>
-        <translation type="unfinished"></translation>
+        <location filename="../../src/ui/vaccountsettings.cpp" line="+42"/>
+        <source>%1 settings</source>
+        <translation type="unfinished">%1 настройки</translation>
     </message>
 </context>
 <context>
     <name>VAccountWizardPage</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/ui/vaccountwizardpage.ui" line="+14"/>
+        <location filename="../../src/ui/vaccountwizardpage.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Мастер</translation>
     </message>
@@ -329,7 +329,7 @@
 <context>
     <name>VConnection</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vconnection.cpp" line="+81"/>
+        <location filename="../../src/vconnection.cpp" line="+81"/>
         <source>qutIM - VKontakte authorization</source>
         <translation>qutIM - авторизация Вконтакте</translation>
     </message>
@@ -351,7 +351,7 @@
 <context>
     <name>VWallSession</name>
     <message>
-        <location filename="../../protocols/vkontakte/plugins/wall/vwallsession.cpp" line="+42"/>
+        <location filename="../../plugins/wall/vwallsession.cpp" line="+42"/>
         <source>%1 (Wall)</source>
         <translation>%1 (Стена)</translation>
     </message>
@@ -426,24 +426,24 @@
 <context>
     <name>Vkontakte</name>
     <message>
-        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+9"/>
+        <location filename="../../plugins/wall/vwallmanager.cpp" line="+9"/>
         <source>View wall</source>
         <translatorcomment>Что бы видеть куда разбегаться</translatorcomment>
         <translation>Показать стену</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+77"/>
+        <location filename="../../src/vkontakteprotocol.cpp" line="+77"/>
         <source>Open homepage</source>
         <translatorcomment>Открыть хомяка - так значительно короче, но хомячки (сорь за тафтологию) не поймут^_^&apos;</translatorcomment>
         <translation>Открыть домашнюю страничку</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="+10"/>
+        <location filename="../../plugins/photoalbum/vphotoalbumplugin.cpp" line="+10"/>
         <source>View photoalbum</source>
         <translation type="unfinished">Просмотреть фотоальбом</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+17"/>
+        <location filename="../../src/vkontakteplugin.cpp" line="+17"/>
         <source>Account settings</source>
         <translation type="unfinished">Настройки учетной записи</translation>
     </message>
@@ -451,7 +451,7 @@
 <context>
     <name>VkontakteProtocol</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+27"/>
+        <location filename="../../src/vkontakteprotocol.cpp" line="+27"/>
         <source>id</source>
         <translation></translation>
     </message>

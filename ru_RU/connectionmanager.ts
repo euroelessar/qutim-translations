@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="+47"/>
+        <location filename="../../src/connectionmanager.cpp" line="+41"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>ManagerSettings</name>
     <message>
-        <location filename="../../plugins/connectionmanager/src/managersettings.ui" line="+14"/>
+        <location filename="../../src/managersettings.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -25,20 +25,20 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="-3"/>
+        <location filename="../../src/connectionmanager.cpp" line="-3"/>
         <source>ConnectionManager</source>
-        <translation type="unfinished">Менеджер соединения</translation>
+        <translation>Менеджер соединения</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Used to monitor the availability of network.</source>
-        <translation type="unfinished">Используется для отслеживания доступности сети.</translation>
+        <translation>Используется для отслеживания доступности сети.</translation>
     </message>
 </context>
 <context>
     <name>Settings</name>
     <message>
-        <location line="+21"/>
+        <location line="+22"/>
         <source>Connection manager</source>
         <translation>Менеджер подключений</translation>
     </message>
@@ -46,7 +46,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location line="-18"/>
+        <location line="-19"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>

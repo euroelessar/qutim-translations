@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/histman/src/historymanagerplugin.cpp" line="+25"/>
+        <location filename="../../src/historymanagerplugin.cpp" line="+25"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>ChooseClientPage</name>
     <message>
-        <location filename="../../plugins/histman/src/chooseclientpage.ui" line="+14"/>
+        <location filename="../../src/chooseclientpage.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Мастер</translation>
     </message>
@@ -20,7 +20,7 @@
 <context>
     <name>ChooseOrDumpPage</name>
     <message>
-        <location filename="../../plugins/histman/src/chooseordumppage.ui" line="+14"/>
+        <location filename="../../src/chooseordumppage.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Мастер</translation>
     </message>
@@ -38,7 +38,7 @@
 <context>
     <name>ClientConfigPage</name>
     <message>
-        <location filename="../../plugins/histman/src/clientconfigpage.ui" line="+14"/>
+        <location filename="../../src/clientconfigpage.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Мастер</translation>
     </message>
@@ -58,13 +58,13 @@
         <translation>Кодировка:</translation>
     </message>
     <message>
-        <location filename="../../plugins/histman/src/clients/gajim.cpp" line="+99"/>
-        <location filename="../../plugins/histman/src/clients/psi.cpp" line="+162"/>
+        <location filename="../../src/clients/gajim.cpp" line="+99"/>
+        <location filename="../../src/clients/psi.cpp" line="+162"/>
         <source>Select your Jabber account.</source>
         <translation>Выберите ваш Jabber аккаунт.</translation>
     </message>
     <message>
-        <location filename="../../plugins/histman/src/clients/qipinfium.cpp" line="+180"/>
+        <location filename="../../src/clients/qipinfium.cpp" line="+180"/>
         <source>Select accounts for each protocol in the list.</source>
         <translation>Выберите аккаунты для каждого протокола в списке.</translation>
     </message>
@@ -72,7 +72,7 @@
 <context>
     <name>DumpHistoryPage</name>
     <message>
-        <location filename="../../plugins/histman/src/dumphistorypage.ui" line="+14"/>
+        <location filename="../../src/dumphistorypage.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Мастер</translation>
     </message>
@@ -105,7 +105,7 @@
 <context>
     <name>HistoryManager::ChooseClientPage</name>
     <message>
-        <location filename="../../plugins/histman/src/chooseclientpage.cpp" line="+45"/>
+        <location filename="../../src/chooseclientpage.cpp" line="+45"/>
         <source>Client</source>
         <translation>Клиент</translation>
     </message>
@@ -118,7 +118,7 @@
 <context>
     <name>HistoryManager::ChooseOrDumpPage</name>
     <message>
-        <location filename="../../plugins/histman/src/chooseordumppage.cpp" line="+27"/>
+        <location filename="../../src/chooseordumppage.cpp" line="+27"/>
         <source>What to do next?</source>
         <comment>Dump history or choose next client</comment>
         <translation>Что дальше?</translation>
@@ -132,7 +132,7 @@
 <context>
     <name>HistoryManager::ClientConfigPage</name>
     <message>
-        <location filename="../../plugins/histman/src/clientconfigpage.cpp" line="+45"/>
+        <location filename="../../src/clientconfigpage.cpp" line="+45"/>
         <source>Configuration</source>
         <translation>Настройки</translation>
     </message>
@@ -161,7 +161,7 @@
 <context>
     <name>HistoryManager::DumpHistoryPage</name>
     <message>
-        <location filename="../../plugins/histman/src/dumphistorypage.cpp" line="+58"/>
+        <location filename="../../src/dumphistorypage.cpp" line="+58"/>
         <source>Dumping</source>
         <translatorcomment>Сожранение в бумарки! :DDD</translatorcomment>
         <translation>Сохранение</translation>
@@ -185,7 +185,7 @@
 <context>
     <name>HistoryManager::HistoryManagerWindow</name>
     <message>
-        <location filename="../../plugins/histman/src/historymanagerwindow.cpp" line="+75"/>
+        <location filename="../../src/historymanagerwindow.cpp" line="+75"/>
         <location line="+202"/>
         <source>History manager</source>
         <translation>Менеджер истории</translation>
@@ -199,7 +199,7 @@
 <context>
     <name>HistoryManager::ImportHistoryPage</name>
     <message>
-        <location filename="../../plugins/histman/src/importhistorypage.cpp" line="+44"/>
+        <location filename="../../src/importhistorypage.cpp" line="+44"/>
         <source>Loading</source>
         <translation>Загрузка</translation>
     </message>
@@ -232,7 +232,7 @@
 <context>
     <name>HistoryManagerWindow</name>
     <message>
-        <location filename="../../plugins/histman/src/historymanagerwindow.ui" line="+16"/>
+        <location filename="../../src/historymanagerwindow.ui" line="+16"/>
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
@@ -240,7 +240,7 @@
 <context>
     <name>ImportHistoryPage</name>
     <message>
-        <location filename="../../plugins/histman/src/importhistorypage.ui" line="+14"/>
+        <location filename="../../src/importhistorypage.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Мастер</translation>
     </message>
@@ -248,7 +248,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../plugins/histman/src/historymanagerplugin.cpp" line="+3"/>
+        <location filename="../../src/historymanagerplugin.cpp" line="+3"/>
         <source>HistMan</source>
         <translation>Менеджер истории</translation>
     </message>

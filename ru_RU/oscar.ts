@@ -4,24 +4,24 @@
 <context>
     <name>AddAccountForm</name>
     <message>
-        <location filename="../../protocols/oscar/src/ui/addaccountform.ui" line="+14"/>
+        <location filename="../../src/ui/addaccountform.ui" line="+14"/>
         <source>AddAccountForm</source>
-        <translation>Новая учетная запись</translation>
+        <translation type="unfinished">Новая учетная запись</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>UIN:</source>
-        <translation>UIN (номер ICQ):</translation>
+        <translation type="unfinished">UIN (номер ICQ):</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Password:</source>
-        <translation>Пароль:</translation>
+        <translation type="unfinished">Пароль:</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Save password</source>
-        <translation>Сохранить пароль</translation>
+        <translation type="unfinished">Сохранить пароль</translation>
     </message>
 </context>
 <context>
@@ -42,7 +42,7 @@
 <context>
     <name>Affiliation</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+553"/>
+        <location filename="../../src/metainfo/metafields.cpp" line="+553"/>
         <source>Alumni Org.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -183,19 +183,19 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+46"/>
+        <location filename="../../src/oscarplugin.cpp" line="+46"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+41"/>
+        <location filename="../../plugins/identify/clientidentify.cpp" line="+41"/>
         <source>Alexey Ignatiev</source>
         <translation>Алексей Игнатьев</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+200"/>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+3"/>
+        <location filename="../../plugins/xstatus/xstatus.cpp" line="+200"/>
+        <location filename="../../src/oscarplugin.cpp" line="+3"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
     </message>
@@ -210,7 +210,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="+308"/>
+        <location filename="../../src/connection.cpp" line="+307"/>
         <source>Invalid nick or password</source>
         <translation>Неверный ник или пароль</translation>
     </message>
@@ -300,12 +300,17 @@
         <translation>Другой клиент вошел с этим же номером</translation>
     </message>
     <message>
+        <location line="+2"/>
+        <source>No IP addresses were found for the host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location line="+4"/>
         <source>Unknown error</source>
         <translation>Неизвестная ошибка</translation>
     </message>
     <message>
-        <location line="-34"/>
+        <location line="-36"/>
         <source>DB send error</source>
         <translation>Ошибка запроса базы данных</translation>
     </message>
@@ -387,7 +392,7 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../protocols/oscar/src/inforequest.cpp" line="+37"/>
+        <location filename="../../src/inforequest.cpp" line="+37"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
@@ -536,7 +541,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+67"/>
+        <location filename="../../src/icqcontact.cpp" line="+67"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
@@ -561,7 +566,7 @@
         <translation>Зарегестрирован</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+165"/>
+        <location filename="../../src/privacylists.cpp" line="+165"/>
         <source>Add to visible list</source>
         <translation>Добавить в список видимости</translation>
     </message>
@@ -595,7 +600,7 @@
         <translation type="obsolete">Возможный клиент</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/authorization.cpp" line="+15"/>
+        <location filename="../../src/authorization.cpp" line="+15"/>
         <source>Ask authorization</source>
         <translation>Запротить авторизацию</translation>
     </message>
@@ -608,7 +613,7 @@
 <context>
     <name>ContactSearch</name>
     <message>
-        <location filename="../../protocols/oscar/src/contactsearch.cpp" line="+72"/>
+        <location filename="../../src/contactsearch.cpp" line="+72"/>
         <source>UIN</source>
         <translation>UIN (номер ICQ)</translation>
     </message>
@@ -646,7 +651,7 @@
 <context>
     <name>Country</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="-566"/>
+        <location filename="../../src/metainfo/metafields.cpp" line="-566"/>
         <source>Other</source>
         <translation>Другое</translation>
     </message>
@@ -1860,7 +1865,7 @@
 <context>
     <name>FeedbagError</name>
     <message>
-        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+115"/>
+        <location filename="../../src/feedbag.cpp" line="+115"/>
         <source>No error</source>
         <translation>Нет ошибок</translation>
     </message>
@@ -1907,7 +1912,7 @@
         <translation type="obsolete">Не указан</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+180"/>
+        <location filename="../../src/metainfo/metafields.cpp" line="+180"/>
         <source>Female</source>
         <translation>Женский</translation>
     </message>
@@ -1934,7 +1939,7 @@
 <context>
     <name>IcqAccountMainSettings</name>
     <message>
-        <location filename="../../protocols/oscar/src/ui/icqaccountmainsettings.ui" line="+14"/>
+        <location filename="../../src/ui/icqaccountmainsettings.ui" line="+14"/>
         <source>Form</source>
         <translation type="unfinished">Форма</translation>
     </message>
@@ -1972,19 +1977,19 @@
 <context>
     <name>IcqMainSettings</name>
     <message>
-        <location filename="../../protocols/oscar/src/ui/icqmainsettings.ui" line="+14"/>
+        <location filename="../../src/ui/icqmainsettings.ui" line="+14"/>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation type="unfinished">Форма</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Don&apos;t send requests for avatarts</source>
-        <translation>Не запрашивать аватары</translation>
+        <translation type="unfinished">Не запрашивать аватары</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Reconnect after disconnect</source>
-        <translation>Подключаться после отключений</translation>
+        <translation type="unfinished">Подключаться после отключений</translation>
     </message>
     <message>
         <source>Codepage: (note that online messages use utf-8 in most cases)</source>
@@ -1997,7 +2002,7 @@
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Codepage: &lt;/span&gt;(note that online messages use utf-8 in most cases)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -2006,13 +2011,13 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+21"/>
         <source>System</source>
-        <translation>Системная</translation>
+        <translation type="unfinished">Системная</translation>
     </message>
 </context>
 <context>
     <name>Industry</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+38"/>
+        <location filename="../../src/metainfo/metafields.cpp" line="+38"/>
         <source>Agriculture</source>
         <translation>Сельское хозяйство</translation>
     </message>
@@ -2780,7 +2785,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MetaController</name>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+14"/>
+        <location filename="../../src/privacylists.cpp" line="+14"/>
         <source>Additional</source>
         <translation>Дополнительно</translation>
     </message>
@@ -2788,7 +2793,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MetaInfo</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+13"/>
+        <location filename="../../src/metainfo/metafields.cpp" line="+13"/>
         <source>Nick</source>
         <translation>Ник</translation>
     </message>
@@ -2940,7 +2945,7 @@ p, li { white-space: pre-wrap; }
         <translation>Прошлое</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metafield.cpp" line="+99"/>
+        <location filename="../../src/metainfo/metafield.cpp" line="+96"/>
         <source>Basic</source>
         <translation>Основной</translation>
     </message>
@@ -2956,7 +2961,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+2"/>
-        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+1"/>
+        <location filename="../../src/metainfo/metafields.cpp" line="+1"/>
         <source>Affilations</source>
         <translation>Разрешения</translation>
     </message>
@@ -2964,7 +2969,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MetaInfoHome</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="-37"/>
+        <location filename="../../src/metainfo/metafields.cpp" line="-37"/>
         <source>City</source>
         <translation>Город</translation>
     </message>
@@ -3281,7 +3286,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-6"/>
+        <location filename="../../src/oscarplugin.cpp" line="-6"/>
         <source>Oscar</source>
         <translation>ICQ/Oscar</translation>
     </message>
@@ -3290,7 +3295,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Модуль начальной реализации Oscar протокола</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-6"/>
+        <location filename="../../plugins/identify/clientidentify.cpp" line="-6"/>
         <source>OscarIdentify</source>
         <translation>Аськологин</translation>
     </message>
@@ -3302,8 +3307,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-1"/>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+4"/>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+9"/>
+        <location filename="../../plugins/xstatus/xstatus.cpp" line="+4"/>
+        <location filename="../../src/oscarplugin.cpp" line="+9"/>
         <source>ICQ</source>
         <translation>ICQ</translation>
     </message>
@@ -3312,7 +3317,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Модуль начальной реализации ICQ протокола</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+4"/>
+        <location filename="../../src/oscarplugin.cpp" line="+4"/>
         <source>ICQ account creator</source>
         <translation>Мастер создания учетной записи ICQ</translation>
     </message>
@@ -3382,7 +3387,7 @@ p, li { white-space: pre-wrap; }
         <translation>Реализация поиска контактов для ICQ</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-7"/>
+        <location filename="../../plugins/xstatus/xstatus.cpp" line="-7"/>
         <source>OscarXStatus</source>
         <translation>X-Статус</translation>
     </message>
@@ -3396,7 +3401,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Privacy</name>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="-91"/>
+        <location filename="../../src/privacylists.cpp" line="-91"/>
         <source>Visible for all</source>
         <translation>Видимый для всех</translation>
     </message>
@@ -3444,7 +3449,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="-326"/>
+        <location filename="../../src/connection.cpp" line="-325"/>
         <source>Invalid SNAC header</source>
         <translation>Неверный заголовок SNAC</translation>
     </message>
@@ -3522,7 +3527,7 @@ p, li { white-space: pre-wrap; }
         <location line="+2"/>
         <source>In local permit/deny (recipient blocked)</source>
         <translatorcomment>wtf ? не помню что ы я это писал</translatorcomment>
-        <translation type="unfinished">ЧЯДНТ? Получатель заблокирован.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3573,25 +3578,25 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/oscar/src/icqprotocol.cpp" line="+44"/>
+        <location filename="../../src/icqprotocol.cpp" line="+44"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Icq account settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Настройки учетной записи ICQ/oscar</translation>
     </message>
 </context>
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarstatus.cpp" line="+38"/>
+        <location filename="../../src/oscarstatus.cpp" line="+38"/>
         <source>Busy</source>
         <translation>Занят</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+17"/>
+        <location filename="../../plugins/xstatus/xstatus.cpp" line="+21"/>
         <source>Angry</source>
         <translation>Злой</translation>
     </message>
@@ -3624,7 +3629,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>StudyLevel</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+31"/>
+        <location filename="../../src/metainfo/metafields.cpp" line="+31"/>
         <source>Associated degree</source>
         <translatorcomment>Associate’s degree (Associate) — степень в США, полученная после двугодичного обучения в колледже, который может стать промежуточной ступенью к получению бакалаврской степени (после еще двух лет обучения). </translatorcomment>
         <translation type="unfinished">Закончил фазанку</translation>
@@ -3668,10 +3673,10 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-5"/>
+        <location filename="../../plugins/identify/clientidentify.cpp" line="-5"/>
         <location line="+3"/>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-35"/>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-38"/>
+        <location filename="../../plugins/xstatus/xstatus.cpp" line="-39"/>
+        <location filename="../../src/oscarplugin.cpp" line="-38"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
@@ -3680,7 +3685,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>XStatus</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-162"/>
+        <location filename="../../plugins/xstatus/xstatus.cpp" line="-162"/>
         <source>Angry</source>
         <translation>Злой</translation>
     </message>
@@ -3837,8 +3842,11 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-24"/>
         <source>I&apos;m high</source>
-        <translatorcomment>полудурок</translatorcomment>
-        <translation>Я высокий</translation>
+        <translatorcomment>да, икс статус именно такой нарисован - ганджубас</translatorcomment>
+        <translation type="unfinished" variants="yes">
+            <lengthvariant>Ганджубас</lengthvariant>
+            <lengthvariant>Я высокий</lengthvariant>
+        </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3902,7 +3910,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::ClientIdentify</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+24"/>
+        <location filename="../../plugins/identify/clientidentify.cpp" line="+27"/>
         <location line="+129"/>
         <source>Possible client</source>
         <translation type="unfinished">Возможный клиент</translation>
@@ -3914,27 +3922,35 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::oscar::Md5Login</name>
+    <message>
+        <location filename="../../src/md5login.cpp" line="+75"/>
+        <source>No IP addresses were found for the host &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::oscar::PrivacyLists</name>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+110"/>
+        <location filename="../../src/privacylists.cpp" line="+110"/>
         <source>Show &quot;visible&quot; icon if contact in visible list</source>
-        <translation type="unfinished">Показывать &quot;глаз видящего&quot;</translation>
+        <translation type="unfinished">Показывать иконку &quot;видящего&quot;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Show &quot;invisible&quot; icon if contact in invisible list</source>
-        <translation type="unfinished">Показывать &quot;глаз слепого&quot;</translation>
+        <translation type="unfinished">Показывать иконку &quot;невидящего&quot;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Show &quot;ignore&quot; icon if contact in ignore list</source>
-        <translation type="unfinished">Показывать &quot;жопу игнора&quot; в списке контактов</translation>
+        <translation type="unfinished">Показывать иконку &quot;игнора&quot; в списке контактов</translation>
     </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+262"/>
+        <location filename="../../plugins/xstatus/xstatus.cpp" line="+266"/>
         <source>X-Status</source>
         <translation type="unfinished">X-Статус</translation>
     </message>
@@ -3947,19 +3963,19 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>statusDialogClass</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/statusdialog.ui" line="+14"/>
+        <location filename="../../plugins/xstatus/statusdialog.ui" line="+14"/>
         <source>Custom status</source>
-        <translation>Расширенный статус</translation>
+        <translation type="unfinished">Расширенный статус</translation>
     </message>
     <message>
         <location line="+79"/>
         <source>Choose</source>
-        <translation>Выбрать</translation>
+        <translation type="unfinished">Выбрать</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Cancel</source>
-        <translation>Отмена</translation>
+        <translation type="unfinished">Отмена</translation>
     </message>
     <message>
         <location line="+17"/>

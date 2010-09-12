@@ -4,7 +4,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../protocols/quetzal/src/quetzalplugin.cpp" line="+490"/>
+        <location filename="../../src/quetzalplugin.cpp" line="+490"/>
         <source>Quetzal</source>
         <translation>Quetzal</translation>
     </message>
@@ -19,7 +19,7 @@
 <context>
     <name>Quetzal</name>
     <message>
-        <location filename="../../protocols/quetzal/src/quetzalaccount.cpp" line="+73"/>
+        <location filename="../../src/quetzalaccount.cpp" line="+73"/>
         <source>Join groupchat</source>
         <translation>Войти в конференцию</translation>
     </message>
@@ -35,7 +35,7 @@
 <context>
     <name>QuetzalActionDialog</name>
     <message>
-        <location filename="../../protocols/quetzal/src/quatzelactiondialog.ui" line="+14"/>
+        <location filename="../../src/quatzelactiondialog.ui" line="+14"/>
         <source>Dialog</source>
         <translation>Диалог</translation>
     </message>
@@ -43,7 +43,7 @@
 <context>
     <name>QuetzalJoinChatDialog</name>
     <message>
-        <location filename="../../protocols/quetzal/src/quetzaljoinchatdialog.ui" line="+14"/>
+        <location filename="../../src/quetzaljoinchatdialog.ui" line="+14"/>
         <source>Join group chat</source>
         <translation>Войти в чат</translation>
     </message>
@@ -53,7 +53,7 @@
         <translation>В закладки</translation>
     </message>
     <message>
-        <location filename="../../protocols/quetzal/src/quetzaljoinchatdialog.cpp" line="+43"/>
+        <location filename="../../src/quetzaljoinchatdialog.cpp" line="+43"/>
         <location line="+117"/>
         <source>Search</source>
         <translation>Поиск</translation>

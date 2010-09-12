@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/antispam/src/antispamplugin.cpp" line="+13"/>
+        <location filename="../../src/antispamplugin.cpp" line="+13"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -14,12 +14,12 @@
     <message>
         <location line="+4"/>
         <source>Antispam</source>
-        <translation type="unfinished">Антиспам</translation>
+        <translation>Антиспам</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Blocks messages from unknown contacts by question-answer pair</source>
-        <translation type="unfinished">Блокировка сообщений от неизвестных контактов, до ответа на вопрос</translation>
+        <translation>Блокировка сообщений от неизвестных контактов, до ответа на вопрос</translation>
     </message>
 </context>
 <context>

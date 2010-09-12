@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/logger.cpp" line="+36"/>
+        <location filename="../../src/logger.cpp" line="+38"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -22,19 +22,25 @@
     <name>Plugin</name>
     <message>
         <location line="-15"/>
+        <location line="+19"/>
         <source>Logger</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-18"/>
         <source>Simple file based logger for debug</source>
         <translation type="unfinished">Простое логирование в файл для отладки</translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>Select log path</source>
+        <translation type="unfinished">Выберите путь к логам</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location line="+3"/>
+        <location line="-18"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
