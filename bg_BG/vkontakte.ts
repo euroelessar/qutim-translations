@@ -63,7 +63,7 @@
         <translation>Телефон (дом.)</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/vkontakte/src/vcontact.cpp" line="+183"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vcontact.cpp" line="+184"/>
         <location filename="../../qutim-meta/protocols/vkontakte/src/vinforequest.cpp" line="+1"/>
         <source>Mobile phone</source>
         <translation>Телефон (моб.)</translation>
@@ -305,9 +305,9 @@
         <translation>Парола:</translation>
     </message>
     <message>
-        <location line="+7"/>
-        <source>To be desided...</source>
-        <translation type="unfinished"></translation>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/ui/vaccountsettings.cpp" line="+42"/>
+        <source>%1 settings</source>
+        <translation>%1 настройки</translation>
     </message>
 </context>
 <context>

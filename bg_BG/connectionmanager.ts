@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/connectionmanager/src/connectionmanager.cpp" line="+47"/>
+        <location filename="../../qutim-meta/plugins/connectionmanager/src/connectionmanager.cpp" line="+41"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -38,7 +38,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location line="+18"/>
+        <location line="+22"/>
         <source>Connection manager</source>
         <translation>Управление на връзката</translation>
     </message>
@@ -46,7 +46,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location line="-15"/>
+        <location line="-19"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
