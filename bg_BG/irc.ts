@@ -710,7 +710,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircconnection.cpp" line="+172"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircconnection.cpp" line="+173"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
     </message>
