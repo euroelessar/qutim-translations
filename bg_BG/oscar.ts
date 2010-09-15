@@ -556,7 +556,7 @@
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+294"/>
+        <location line="+359"/>
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>
@@ -3928,7 +3928,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+266"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+269"/>
         <source>X-Status</source>
         <translation>Разширен статус</translation>
     </message>
