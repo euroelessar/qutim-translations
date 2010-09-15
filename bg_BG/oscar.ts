@@ -556,7 +556,7 @@
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+294"/>
+        <location line="+359"/>
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>

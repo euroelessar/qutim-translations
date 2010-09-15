@@ -1463,8 +1463,8 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Влизане</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+50"/>
-        <location line="+52"/>
+        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+59"/>
+        <location line="+51"/>
         <source>Close</source>
         <translation>Затваряне</translation>
     </message>
@@ -1474,23 +1474,23 @@ p, li { white-space: pre-wrap; }
         <translation>Назад</translation>
     </message>
     <message>
-        <location line="+32"/>
+        <location line="+27"/>
         <source>Bookmarks</source>
         <translation>Отметки</translation>
     </message>
     <message>
-        <location line="+0"/>
-        <location line="+60"/>
+        <location line="-1"/>
+        <location line="+39"/>
         <source>Recent</source>
         <translation>Последни</translation>
     </message>
     <message>
-        <location line="-24"/>
+        <location line="-17"/>
         <source>Join an existing or create a new groupchat</source>
         <translation>Присъединяване към съществуващ или създаване нов групов разговор</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+4"/>
         <source>Create, edit, or delete saved bookmarks</source>
         <translation>Създаване, редактиране или изтриване на отметки</translation>
     </message>
@@ -1503,7 +1503,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Нов групов разговор</translation>
     </message>
     <message>
-        <location line="-1"/>
+        <location line="+2"/>
         <source>Manage bookmarks</source>
         <translation>Управление на отметки</translation>
     </message>
@@ -1512,18 +1512,18 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Редактиране на съхранените отметки</translation>
     </message>
     <message>
-        <location line="+160"/>
+        <location line="+141"/>
         <source>Add</source>
         <translation>Добавяне</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="-1"/>
         <source>Remove</source>
         <translation>Премахване</translation>
     </message>
     <message>
-        <location line="-228"/>
-        <location line="+61"/>
+        <location line="-188"/>
+        <location line="+44"/>
         <source>Join</source>
         <translation>Присъединяване</translation>
     </message>
