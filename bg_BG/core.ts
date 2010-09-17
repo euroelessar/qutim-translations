@@ -4,7 +4,7 @@
 <context>
     <name>Account</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+30"/>
+        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+31"/>
         <source>Add new account</source>
         <translation>Добавяне на нова сметка</translation>
     </message>
@@ -114,7 +114,7 @@
     <name>AddContact</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.ui" line="+14"/>
-        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+42"/>
+        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+43"/>
         <source>Add contact</source>
         <translation>Добавяне на контакт</translation>
     </message>
@@ -231,7 +231,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>AutoAway</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/idlestatuschanger/idlestatuschanger.cpp" line="+25"/>
+        <location filename="../../qutim-meta/core/src/corelayers/idlestatuschanger/idlestatuschanger.cpp" line="+26"/>
         <source>Auto-away</source>
         <translation>Автоматично отсъствие</translation>
     </message>
@@ -375,7 +375,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Изпращане на съобщение</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="+41"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="+42"/>
         <source>Close chat</source>
         <translation>Затваряне на разговора</translation>
     </message>
@@ -608,7 +608,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactSearch</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/searchdialog/searchdialoglayer.cpp" line="+30"/>
+        <location filename="../../qutim-meta/core/src/corelayers/searchdialog/searchdialoglayer.cpp" line="+31"/>
         <location line="+24"/>
         <source>Search contact</source>
         <translation>Търсене на контакт</translation>
@@ -652,7 +652,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AccountCreatorProtocols</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+58"/>
+        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+59"/>
         <source>Select protocol</source>
         <translation>Избор на протокол</translation>
     </message>
@@ -701,7 +701,7 @@ p, li { white-space: pre-wrap; }
         <translation>Невъзможно е изпращането на съобщение до %1</translation>
     </message>
     <message>
-        <location line="+340"/>
+        <location line="+346"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
@@ -893,7 +893,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::KineticPopups::PopupAppearance</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="+36"/>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="+37"/>
         <location line="+70"/>
         <location line="+9"/>
         <source>Preview</source>
@@ -1091,7 +1091,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProtocolChooserWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/protocolchooserwidget.cpp" line="+100"/>
+        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/protocolchooserwidget.cpp" line="+101"/>
         <source>To take effect you must restart qutIM</source>
         <translation>За да влязат в сила промените, qutIM трябва да бъде рестартиран</translation>
     </message>
@@ -1148,7 +1148,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ServiceChooserWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/servicechooserwidget.cpp" line="+112"/>
+        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/servicechooserwidget.cpp" line="+113"/>
         <source>To take effect you must restart qutIM</source>
         <translation>За да влязат в сила промените, qutIM трябва да бъде рестартиран</translation>
     </message>
@@ -1435,7 +1435,7 @@ p, li { white-space: pre-wrap; }
     <name>JoinGroupChat</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchat.ui" line="+14"/>
-        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp" line="+71"/>
+        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp" line="+72"/>
         <source>Join groupchat</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>
@@ -1563,7 +1563,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Localization</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/localization/localizationsettings.cpp" line="+47"/>
+        <location filename="../../qutim-meta/core/src/corelayers/localization/localizationsettings.cpp" line="+48"/>
         <source>&lt;Language&gt;</source>
         <comment>Localized language name</comment>
         <translation>български</translation>
@@ -1646,7 +1646,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Notifications</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/notificationssettings/popupbehavior.cpp" line="+29"/>
+        <location filename="../../qutim-meta/core/src/corelayers/notificationssettings/popupbehavior.cpp" line="+31"/>
         <location filename="../../qutim-meta/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+78"/>
         <source>User online</source>
         <translation>Потребител идва на линия</translation>
@@ -2268,7 +2268,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/notificationslayer.cpp" line="+117"/>
+        <location filename="../../qutim-meta/core/libqutim/notificationslayer.cpp" line="+118"/>
         <source>System message from %1:</source>
         <translation>Системно съобщение от %1:</translation>
     </message>
@@ -2424,7 +2424,7 @@ p, li { white-space: pre-wrap; }
         <translation>Емотикони</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/localization/localizationmodule.cpp" line="+34"/>
+        <location filename="../../qutim-meta/core/src/corelayers/localization/localizationmodule.cpp" line="+35"/>
         <source>Localization</source>
         <translation>Локализация</translation>
     </message>
@@ -2478,7 +2478,7 @@ p, li { white-space: pre-wrap; }
         <translation>Звуци</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/settings/chatsettings.cpp" line="+19"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/settings/chatsettings.cpp" line="+20"/>
         <location line="+4"/>
         <source>Chat</source>
         <translation>Разговор</translation>
@@ -2927,7 +2927,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Добавка: %1</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+287"/>
+        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+220"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Неуспешно зареждане на добавка: 

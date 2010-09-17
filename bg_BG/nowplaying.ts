@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/nowplaying/src/nowplaying.cpp" line="+31"/>
+        <location filename="../../qutim-meta/plugins/nowplaying/src/nowplaying.cpp" line="+32"/>
         <source>Kazlauskas Ian</source>
         <translation>Ян Казлаускас</translation>
     </message>
