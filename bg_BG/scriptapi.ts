@@ -5,7 +5,7 @@
     <name>Author</name>
     <message>
         <location filename="../../qutim-meta/plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js" line="+30"/>
-        <location filename="../../qutim-meta/plugins/scriptapi/src/scriptplugin.cpp" line="+28"/>
+        <location filename="../../qutim-meta/plugins/scriptapi/src/scriptplugin.cpp" line="+29"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
