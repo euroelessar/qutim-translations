@@ -61,7 +61,7 @@
         <location line="+3"/>
         <location line="+8"/>
         <source>Unknown</source>
-        <translation>Неизвесно</translation>
+        <translation type="unfinished">Неизвестно</translation>
     </message>
 </context>
 <context>
