@@ -24,7 +24,7 @@
         <translation>Интеграция в апплет панели GNOME для Ubuntu</translation>
     </message>
     <message>
-        <location filename="../../src/indicatorservice.cpp" line="+36"/>
+        <location filename="../../src/indicatorservice.cpp" line="+37"/>
         <source>Close qutIM</source>
         <translation>Закрыть qutIM</translation>
     </message>

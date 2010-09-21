@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/historymanagerplugin.cpp" line="+25"/>
+        <location filename="../../src/historymanagerplugin.cpp" line="+26"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>

@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/clconfplugin.cpp" line="+28"/>
+        <location filename="../../src/clconfplugin.cpp" line="+29"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>ClConf</name>
     <message>
-        <location filename="../../src/proxycontact.cpp" line="+42"/>
+        <location filename="../../src/proxycontact.cpp" line="+43"/>
         <source>Conferences</source>
         <translation type="unfinished">Конференции</translation>
     </message>
