@@ -4,50 +4,60 @@
 <context>
     <name>AddAccountForm</name>
     <message>
+        <location filename="../../src/ui/addaccountform.ui" line="+14"/>
         <source>AddAccountForm</source>
-        <translation type="obsolete">Добавление учетных записей</translation>
+        <translation type="unfinished">Добавление учетных записей</translation>
     </message>
     <message>
+        <location line="+6"/>
         <source>Network name:</source>
-        <translation type="obsolete">Сетевое имя:</translation>
+        <translation type="unfinished">Сетевое имя:</translation>
     </message>
     <message>
+        <location line="+10"/>
         <source>Servers:</source>
-        <translation type="obsolete">Сервера:</translation>
+        <translation type="unfinished">Сервера:</translation>
     </message>
     <message>
+        <location line="+9"/>
         <source>Add server</source>
-        <translation type="obsolete">Добавить сервер</translation>
+        <translation type="unfinished">Добавить сервер</translation>
     </message>
     <message>
+        <location line="+10"/>
         <source>Update server</source>
-        <translation type="obsolete">Обновить сервер</translation>
+        <translation type="unfinished">Обновить сервер</translation>
     </message>
     <message>
+        <location line="+27"/>
         <source>Password:</source>
-        <translation type="obsolete">Пароль:</translation>
+        <translation type="unfinished">Пароль:</translation>
     </message>
     <message>
+        <location line="+27"/>
         <source>Port:</source>
-        <translation type="obsolete">Порт:</translation>
+        <translation type="unfinished">Порт:</translation>
     </message>
     <message>
+        <location line="+10"/>
         <source>Server:</source>
-        <translation type="obsolete">Сервер:</translation>
+        <translation type="unfinished">Сервер:</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>Protected by password</source>
-        <translation type="obsolete">Защищено паролем</translation>
+        <translation type="unfinished">Защищено паролем</translation>
     </message>
     <message>
+        <location line="+10"/>
         <source>Save password</source>
-        <translation type="obsolete">Сохранить пароль</translation>
+        <translation type="unfinished">Сохранить пароль</translation>
     </message>
 </context>
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/irc/src/ircplugin.cpp" line="+33"/>
+        <location filename="../../src/ircplugin.cpp" line="+33"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
     </message>
@@ -55,32 +65,319 @@
 <context>
     <name>EditNickForm</name>
     <message>
+        <location filename="../../src/ui/editnickform.ui" line="+14"/>
         <source>Form</source>
-        <translation type="obsolete">Настройки</translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
     <message>
+        <location line="+6"/>
         <source>Nick:</source>
-        <translation type="obsolete">Ник:</translation>
+        <translation type="unfinished">Ник:</translation>
     </message>
     <message>
+        <location line="+23"/>
         <source>Encoding:</source>
-        <translation type="obsolete">Кодировка:</translation>
+        <translation type="unfinished">Кодировка:</translation>
     </message>
     <message>
+        <location line="+10"/>
         <source>Full name:</source>
-        <translation type="obsolete">Полное имя:</translation>
+        <translation type="unfinished">Полное имя:</translation>
     </message>
     <message>
+        <location line="+10"/>
         <source>Alternative nick:</source>
-        <translation type="obsolete">Альтернативный ник:</translation>
+        <translation type="unfinished">Альтернативный ник:</translation>
     </message>
     <message>
+        <location line="+46"/>
         <source>System</source>
-        <translation type="obsolete">Система</translation>
+        <translation type="unfinished">Система</translation>
     </message>
     <message>
+        <location line="+5"/>
+        <source>Apple Roman</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Big5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Big5-HKSCS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>EUC-JP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>EUC-KR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>GB18030-0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>IBM 850</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>IBM 866</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>IBM 874</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>ISO 2022-JP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>ISO 8859-1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>ISO 8859-2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>ISO 8859-3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>ISO 8859-4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>ISO 8859-5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>ISO 8859-6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>ISO 8859-7</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>ISO 8859-8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>ISO 8859-9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>ISO 8859-10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>ISO 8859-13</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>ISO 8859-14</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>ISO 8859-15</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>ISO 8859-16</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Iscii-Bng</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Iscii-Dev</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Iscii-Gjr</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Iscii-Knd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Iscii-Mlm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Iscii-Ori</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Iscii-Pnj</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Iscii-Tlg</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Iscii-Tml</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>JIS X 0201</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>JIS X 0208</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>KOI8-R</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>KOI8-U</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>MuleLao-1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>ROMAN8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Shift-JIS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>TIS-620</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>TSCII</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>UTF-8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>UTF-16</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>UTF-16BE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>UTF-16LE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Windows-1250</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Windows-1251</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Windows-1252</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Windows-1253</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Windows-1254</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Windows-1255</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Windows-1256</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Windows-1257</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Windows-1258</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>WINSAMI2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
         <source>Password:</source>
-        <translation type="obsolete">Пароль:</translation>
+        <translation type="unfinished">Пароль:</translation>
     </message>
 </context>
 <context>
@@ -90,7 +387,7 @@
         <translation type="obsolete">Войти в канал...</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+56"/>
+        <location filename="../../src/ircprotocol.cpp" line="+56"/>
         <source>Show console...</source>
         <translation>Показать консоль...</translation>
     </message>
@@ -100,7 +397,7 @@
         <translation type="unfinished">Искать канал...</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircaccount.cpp" line="+369"/>
+        <location filename="../../src/ircaccount.cpp" line="+369"/>
         <source>Join channel</source>
         <translation type="unfinished">Подключиться к каналу</translation>
     </message>
@@ -191,7 +488,7 @@
         <translation type="obsolete">%1 сменил топик на %2.</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+341"/>
+        <location filename="../../src/ircchannel.cpp" line="+341"/>
         <source>%1 gives channel operator privileges to %2.</source>
         <translation>%1 дал опа %2.</translation>
     </message>
@@ -224,21 +521,23 @@
 <context>
     <name>IrcChannelListForm</name>
     <message>
+        <location filename="../../src/ui/ircchannellist.ui" line="+14"/>
         <source>Form</source>
-        <translation type="obsolete">Настройки</translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
 </context>
 <context>
     <name>IrcConsoleForm</name>
     <message>
+        <location filename="../../src/ui/console.ui" line="+14"/>
         <source>IRC Server Console</source>
-        <translation type="obsolete">Консоль IRC сервера</translation>
+        <translation type="unfinished">Консоль IRC сервера</translation>
     </message>
 </context>
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../protocols/irc/src/ircplugin.cpp" line="-3"/>
+        <location filename="../../src/ircplugin.cpp" line="-3"/>
         <location line="+6"/>
         <source>IRC</source>
         <translation></translation>
@@ -264,7 +563,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../protocols/irc/src/irccommandalias.cpp" line="+71"/>
+        <location filename="../../src/irccommandalias.cpp" line="+71"/>
         <source>Not enough parameters for command %1</source>
         <translation type="unfinished">Не хавтает параметров команде %1</translation>
     </message>
@@ -272,7 +571,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../protocols/irc/src/ircplugin.cpp" line="-7"/>
+        <location filename="../../src/ircplugin.cpp" line="-7"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -280,22 +579,25 @@
 <context>
     <name>qutim_sdk_0_3::irc::ChannelsModel</name>
     <message>
+        <location filename="../../src/ui/ircchannellist.cpp" line="+81"/>
         <source>Channel</source>
-        <translation type="obsolete">Канал</translation>
+        <translation type="unfinished">Канал</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Users</source>
-        <translation type="obsolete">Пользователи</translation>
+        <translation type="unfinished">Пользователи</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Topic</source>
-        <translation type="obsolete">Тема</translation>
+        <translation type="unfinished">Тема</translation>
     </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::irc::IrcAccount</name>
     <message>
-        <location filename="../../protocols/irc/src/ircaccount.cpp" line="-210"/>
+        <location filename="../../src/ircaccount.cpp" line="-210"/>
         <source>Away</source>
         <translation>Отошел</translation>
     </message>
@@ -303,7 +605,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcChannel</name>
     <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="-208"/>
+        <location filename="../../src/ircchannel.cpp" line="-208"/>
         <source>You are now known as %1</source>
         <translation>Теперь вы известны как %1</translation>
     </message>
@@ -371,22 +673,25 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcChannelListForm</name>
     <message>
+        <location filename="../../src/ui/ircchannellist.cpp" line="+93"/>
         <source>Fetching channels list...</source>
-        <translation type="obsolete">Получение списка каналов...</translation>
+        <translation type="unfinished">Получение списка каналов...</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>Channels list loaded. (%1)</source>
-        <translation type="obsolete">Список каналов загружен (%1)</translation>
+        <translation type="unfinished">Список каналов загружен (%1)</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Fetching channels list... (%1)</source>
-        <translation type="obsolete">Получение списка каналов... (%1)</translation>
+        <translation type="unfinished">Получение списка каналов... (%1)</translation>
     </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+173"/>
+        <location filename="../../src/ircconnection.cpp" line="+173"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сервер %1 (Версия %2), Режимы пользователей: %3, Режимы каналов: %4</translation>
     </message>

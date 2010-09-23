@@ -4,7 +4,7 @@
 <context>
     <name>Activity</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="+23"/>
+        <location filename="../../src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="+23"/>
         <source>Doing chores</source>
         <translation type="unfinished"></translation>
     </message>
@@ -406,7 +406,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/jabber/src/jplugin.cpp" line="+32"/>
+        <location filename="../../src/jplugin.cpp" line="+32"/>
         <source>Denis Daschenko</source>
         <translation>Денис Дащенко</translation>
     </message>
@@ -424,7 +424,7 @@
 <context>
     <name>Conference</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+70"/>
+        <location filename="../../src/protocol/jprotocol.cpp" line="+70"/>
         <source>Kick</source>
         <translation>Кик</translation>
     </message>
@@ -439,7 +439,7 @@
         <translation>Превратить в конференцию</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+111"/>
+        <location filename="../../src/protocol/account/muc/jmucuser.cpp" line="+111"/>
         <source>Real JID</source>
         <translation>Настоящий JID</translation>
     </message>
@@ -480,7 +480,7 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="+35"/>
+        <location filename="../../src/protocol/account/vcard/jinforequest.cpp" line="+35"/>
         <source>Nickname</source>
         <translation>Ник</translation>
     </message>
@@ -563,7 +563,7 @@
 <context>
     <name>ContactResource</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp" line="+116"/>
+        <location filename="../../src/protocol/account/roster/jcontactresource.cpp" line="+116"/>
         <source>Resource</source>
         <translation>Ресурс</translation>
     </message>
@@ -581,70 +581,85 @@
 <context>
     <name>JAccountWizardPage</name>
     <message>
+        <location filename="../../src/protocol/jaccountwizardpage.ui" line="+14"/>
         <source>WizardPage</source>
-        <translation type="obsolete">Мастер</translation>
+        <translation type="unfinished">Мастер</translation>
     </message>
     <message>
+        <location line="+17"/>
         <source>Login:</source>
-        <translation type="obsolete">Логин:</translation>
+        <translation type="unfinished">Логин:</translation>
     </message>
     <message>
+        <location line="+18"/>
         <source>TextLabel</source>
-        <translation type="obsolete">Поле текста</translation>
+        <translation type="unfinished">Поле текста</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>Password:</source>
-        <translation type="obsolete">Пароль:</translation>
+        <translation type="unfinished">Пароль:</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>Save password</source>
-        <translation type="obsolete">Сохранить пароль</translation>
+        <translation type="unfinished">Сохранить пароль</translation>
     </message>
 </context>
 <context>
     <name>JAdHocWidget</name>
     <message>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.ui" line="+14"/>
         <source>Form</source>
-        <translation type="obsolete">Настройки</translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
 </context>
 <context>
     <name>JCertInfo</name>
     <message>
+        <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="+14"/>
         <source>Cert Info</source>
-        <translation type="obsolete">Информация о сертификате</translation>
+        <translation type="unfinished">Информация о сертификате</translation>
     </message>
     <message>
+        <location line="+93"/>
         <source>Accept</source>
-        <translation type="obsolete">Принять</translation>
+        <translation type="unfinished">Принять</translation>
     </message>
     <message>
+        <location line="-85"/>
         <source>Cipher:</source>
-        <translation type="obsolete">Шифр:</translation>
+        <translation type="unfinished">Шифр:</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>Compression:</source>
-        <translation type="obsolete">Сжатие:</translation>
+        <translation type="unfinished">Сжатие:</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>Server:</source>
-        <translation type="obsolete">Сервер:</translation>
+        <translation type="unfinished">Сервер:</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>From:</source>
-        <translation type="obsolete">От:</translation>
+        <translation type="unfinished">От:</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>To:</source>
-        <translation type="obsolete">Кому:</translation>
+        <translation type="unfinished">Кому:</translation>
     </message>
     <message>
+        <location line="+64"/>
         <source>Reject</source>
-        <translation type="obsolete">Отклонить</translation>
+        <translation type="unfinished">Отклонить</translation>
     </message>
     <message>
+        <location line="+9"/>
         <source>Remember choice for this server</source>
-        <translation type="obsolete">Запомнить выбор для этого сервера</translation>
+        <translation type="unfinished">Запомнить выбор для этого сервера</translation>
     </message>
 </context>
 <context>
@@ -728,67 +743,80 @@
 <context>
     <name>JMainSettings</name>
     <message>
+        <location filename="../../src/protocol/jmainsettings.ui" line="+14"/>
         <source>Form</source>
-        <translation type="obsolete">Настройки</translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
     <message>
+        <location line="+29"/>
         <source>Default resource:</source>
-        <translation type="obsolete">Ресурс (по ум.):</translation>
+        <translation type="unfinished">Ресурс (по ум.):</translation>
     </message>
     <message>
+        <location line="+28"/>
         <source>Reconnect after disconnect</source>
-        <translation type="obsolete">Переподключаться при разъединении</translation>
+        <translation type="unfinished">Переподключаться при разъединении</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>Don&apos;t send request for avatars</source>
-        <translation type="obsolete">Не запрашивать аватары</translation>
+        <translation type="unfinished">Не запрашивать аватары</translation>
     </message>
     <message>
+        <location line="+18"/>
         <source>Listen port for filetransfer:</source>
-        <translation type="obsolete">Порт передачи файлов:</translation>
+        <translation type="unfinished">Порт передачи файлов:</translation>
     </message>
     <message>
+        <location line="+41"/>
         <source>Priority depends on status</source>
-        <translation type="obsolete">Приоритет зависит от статуса</translation>
+        <translation type="unfinished">Приоритет зависит от статуса</translation>
     </message>
     <message>
+        <location line="+9"/>
         <source>Online:</source>
-        <translation type="obsolete">В сети:</translation>
+        <translation type="unfinished">В сети:</translation>
     </message>
     <message>
+        <location line="+17"/>
         <source>Free for chat:</source>
-        <translation type="obsolete">Готов поболтать:</translation>
+        <translation type="unfinished">Готов поболтать:</translation>
     </message>
     <message>
+        <location line="+17"/>
         <source>Away:</source>
-        <translation type="obsolete">Отошел:</translation>
+        <translation type="unfinished">Отошел:</translation>
     </message>
     <message>
+        <location line="+17"/>
         <source>NA:</source>
-        <translation type="obsolete">Недоступен:</translation>
+        <translation type="unfinished">Недоступен:</translation>
     </message>
     <message>
+        <location line="+17"/>
         <source>DND:</source>
-        <translation type="obsolete">Не беспокоить:</translation>
+        <translation type="unfinished">Не беспокоить:</translation>
     </message>
 </context>
 <context>
     <name>Jabber</name>
     <message>
+        <location filename="../../src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+31"/>
         <source>Xml console</source>
-        <translation type="obsolete">Консоль XML</translation>
+        <translation type="unfinished">Консоль XML</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/modules/adhoc/jadhocmodule.cpp" line="+33"/>
+        <location filename="../../src/protocol/modules/adhoc/jadhocmodule.cpp" line="+33"/>
         <source>Execute command</source>
         <translation>Выполнить команду</translation>
     </message>
     <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+26"/>
         <source>Service discovery</source>
-        <translation type="obsolete">Обзор служб</translation>
+        <translation type="unfinished">Обзор служб</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+196"/>
+        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="+196"/>
         <source>Join groupchat</source>
         <translation>Войти в конференцию</translation>
     </message>
@@ -815,7 +843,7 @@
         <translation type="obsolete">Копировать адрес конференции в буфер</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+3"/>
+        <location filename="../../src/protocol/jprotocol.cpp" line="+3"/>
         <location line="+197"/>
         <source>Join conference</source>
         <translation>Войти в конференцию</translation>
@@ -842,14 +870,14 @@
         <translation>Настройки комнаты</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+219"/>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-17"/>
+        <location filename="../../src/protocol/account/jaccount.cpp" line="+219"/>
+        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="-17"/>
         <source>Conference</source>
         <translation>Конференция</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+7"/>
+        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="+7"/>
         <source>Nick</source>
         <translation>Ник</translation>
     </message>
@@ -865,7 +893,7 @@
     </message>
     <message>
         <location line="+17"/>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-12"/>
+        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="-12"/>
         <source>Name</source>
         <translation>Имя</translation>
     </message>
@@ -873,63 +901,76 @@
 <context>
     <name>Jabber::JActivityChooser</name>
     <message>
+        <location filename="../../src/protocol/modules/activitypep/jactivitychooser.cpp" line="+110"/>
         <source>Set activity</source>
-        <translation type="obsolete">Занятие</translation>
+        <translation type="unfinished">Занятие</translation>
     </message>
 </context>
 <context>
     <name>Jabber::JActivityChooserWindow</name>
     <message>
+        <location filename="../../src/protocol/modules/activitypep/jactivitychooser.ui" line="+20"/>
         <source>Form</source>
-        <translation type="obsolete">Настройки</translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
     <message>
+        <location filename="../../src/protocol/modules/activitypep/jactivitychooser.cpp" line="-88"/>
         <source>Choose your activity</source>
-        <translation type="obsolete">Выберите ваше занятие</translation>
+        <translation type="unfinished">Выберите ваше занятие</translation>
     </message>
     <message>
+        <location line="+49"/>
         <source>No activity</source>
-        <translation type="obsolete">Нет занятия</translation>
+        <translation type="unfinished">Нет занятия</translation>
     </message>
 </context>
 <context>
     <name>Jabber::JAdHocWidget</name>
     <message>
+        <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="+38"/>
+        <location line="+62"/>
         <source>Next</source>
-        <translation type="obsolete">Следующий</translation>
+        <translation type="unfinished">Следующий</translation>
     </message>
     <message>
+        <location line="-9"/>
         <source>Finish</source>
-        <translation type="obsolete">Завершить</translation>
+        <translation type="unfinished">Завершить</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Cancel</source>
-        <translation type="obsolete">Отмена</translation>
+        <translation type="unfinished">Отмена</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Previous</source>
-        <translation type="obsolete">Назад</translation>
+        <translation type="unfinished">Назад</translation>
     </message>
     <message>
+        <location line="+6"/>
         <source>Complete</source>
-        <translation type="obsolete">Закончить</translation>
+        <translation type="unfinished">Закончить</translation>
     </message>
     <message>
+        <location line="-17"/>
+        <location line="+20"/>
         <source>Ok</source>
-        <translation type="obsolete">Ок</translation>
+        <translation type="unfinished">Ок</translation>
     </message>
 </context>
 <context>
     <name>Jabber::JConferenceConfig</name>
     <message>
+        <location filename="../../src/protocol/account/muc/jconferenceconfig.cpp" line="+26"/>
         <source>Room configuration: %1</source>
-        <translation type="obsolete">Настройки комнаты: %1</translation>
+        <translation type="unfinished">Настройки комнаты: %1</translation>
     </message>
 </context>
 <context>
     <name>Jabber::JConnectionListener</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/connection/jconnectionlistener.cpp" line="+43"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="+43"/>
         <source>The entity has sent XML that cannot be processed.</source>
         <translation>Принят XML запрос, который не может быть обработан.</translation>
     </message>
@@ -1211,7 +1252,7 @@
 <context>
     <name>Jabber::JInviteManager</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jinvitemanager.cpp" line="+53"/>
+        <location filename="../../src/protocol/account/muc/jinvitemanager.cpp" line="+53"/>
         <source>User %1 invite you
 to conference %2</source>
         <translation>Пользователь %1 пригласил тебя
@@ -1255,7 +1296,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCManager</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-125"/>
+        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="-125"/>
         <source>Join groupchat on</source>
         <translation>Войти в конференцию</translation>
     </message>
@@ -1292,7 +1333,7 @@ Accept invitation?</source>
 </translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+210"/>
+        <location filename="../../src/protocol/account/muc/jmucsession.cpp" line="+210"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете перезайти?</translation>
     </message>
@@ -1498,29 +1539,33 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMoodChooser</name>
     <message>
+        <location filename="../../src/protocol/modules/moodpep/jmoodchooser.cpp" line="+74"/>
         <source>Set mood</source>
-        <translation type="obsolete">Указать настроение</translation>
+        <translation type="unfinished">Указать настроение</translation>
     </message>
 </context>
 <context>
     <name>Jabber::JMoodChooserWindow</name>
     <message>
+        <location filename="../../src/protocol/modules/moodpep/jmoodchooser.ui" line="+14"/>
         <source>Form</source>
-        <translation type="obsolete">Настроение</translation>
+        <translation type="unfinished">Настроение</translation>
     </message>
     <message>
+        <location filename="../../src/protocol/modules/moodpep/jmoodchooser.cpp" line="-56"/>
         <source>Choose your mood</source>
-        <translation type="obsolete">Выберите настроение</translation>
+        <translation type="unfinished">Выберите настроение</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>No mood</source>
-        <translation type="obsolete">Без настроения</translation>
+        <translation type="unfinished">Без настроения</translation>
     </message>
 </context>
 <context>
     <name>Jabber::JProtocol</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+36"/>
+        <location filename="../../src/protocol/jprotocol.cpp" line="+36"/>
         <source>Kick</source>
         <translation>Кик</translation>
     </message>
@@ -1553,7 +1598,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JRoster</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+183"/>
+        <location filename="../../src/protocol/account/roster/jroster.cpp" line="+183"/>
         <source>Not in list</source>
         <translation>Не в списке</translation>
     </message>
@@ -1580,24 +1625,29 @@ Accept invitation?</source>
         <translation type="obsolete">&lt;br/&gt;&lt;b&gt;Идентификаторы:&lt;/b&gt;&lt;br/&gt;</translation>
     </message>
     <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+31"/>
         <source>Search service</source>
-        <translation type="obsolete">Служба поиска</translation>
+        <translation type="unfinished">Служба поиска</translation>
     </message>
     <message>
+        <location line="+84"/>
         <source>category: </source>
-        <translation type="obsolete">Категория: </translation>
+        <translation type="unfinished">Категория: </translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Identities:</source>
-        <translation type="obsolete">Идентификаторы:</translation>
+        <translation type="unfinished">Идентификаторы:</translation>
     </message>
     <message>
+        <location line="+160"/>
         <source>Features:</source>
-        <translation type="obsolete">Возможности:</translation>
+        <translation type="unfinished">Возможности:</translation>
     </message>
     <message>
+        <location line="-163"/>
         <source>type: </source>
-        <translation type="obsolete">тип: </translation>
+        <translation type="unfinished">тип: </translation>
     </message>
     <message>
         <source>&lt;br/&gt;&lt;b&gt;Features:&lt;/b&gt;&lt;br/&gt;</source>
@@ -1607,7 +1657,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JServiceDiscovery</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+89"/>
+        <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+89"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
         <translation type="unfinished">Отправитель послал неправильный XML запрос который не может быть обработан.</translation>
     </message>
@@ -1735,7 +1785,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JSoftwareDetection</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp" line="+217"/>
+        <location filename="../../src/protocol/account/roster/jsoftwaredetection.cpp" line="+217"/>
         <source>Possible client</source>
         <translation type="unfinished">Возможный клиент</translation>
     </message>
@@ -1743,7 +1793,7 @@ Accept invitation?</source>
 <context>
     <name>Mood</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp" line="+28"/>
+        <location filename="../../src/protocol/modules/moodpep/jpersonmoodconverter.cpp" line="+28"/>
         <source>Afraid</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2176,7 +2226,7 @@ Accept invitation?</source>
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../protocols/jabber/src/jplugin.cpp" line="-10"/>
+        <location filename="../../src/jplugin.cpp" line="-10"/>
         <location line="+13"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
@@ -2345,7 +2395,7 @@ Accept invitation?</source>
     <message>
         <location line="+1"/>
         <source>Provides the dialog to set your activity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Обеспечивает диалог для установки вашей деятельности</translation>
     </message>
     <message>
         <source>Jabber MUC Join Window</source>
@@ -2369,20 +2419,24 @@ Accept invitation?</source>
 <context>
     <name>RoomConfig</name>
     <message>
+        <location filename="../../src/protocol/account/muc/jconferenceconfig.ui" line="+14"/>
         <source>Form</source>
-        <translation type="obsolete">Настройки</translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
     <message>
+        <location line="+44"/>
         <source>Apply</source>
-        <translation type="obsolete">Применить</translation>
+        <translation type="unfinished">Применить</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>Ok</source>
-        <translation type="obsolete">Ок</translation>
+        <translation type="unfinished">Ок</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>Cancel</source>
-        <translation type="obsolete">Отмена</translation>
+        <translation type="unfinished">Отмена</translation>
     </message>
 </context>
 <context>
@@ -2395,82 +2449,99 @@ Accept invitation?</source>
 <context>
     <name>ServiceBrowser</name>
     <message>
+        <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="+14"/>
         <source>jServiceBrowser</source>
-        <translation type="obsolete">Обзор сервисов</translation>
+        <translation type="unfinished">Обзор сервисов</translation>
     </message>
     <message>
+        <location line="+17"/>
         <source>Server:</source>
-        <translation type="obsolete">Сервер:</translation>
+        <translation type="unfinished">Сервер:</translation>
     </message>
     <message>
+        <location line="+46"/>
         <source>Filter:</source>
-        <translation type="obsolete">Фильтр:</translation>
+        <translation type="unfinished">Фильтр:</translation>
     </message>
     <message>
+        <location line="+91"/>
         <source>Searching...</source>
-        <translation type="obsolete">Поиск...</translation>
+        <translation type="unfinished">Поиск...</translation>
     </message>
     <message>
         <source>Close</source>
         <translation type="obsolete">Закрыть</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location line="+3"/>
         <source>Join conference</source>
-        <translation type="obsolete">Войти в конференцию</translation>
+        <translation type="unfinished">Войти в конференцию</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Register</source>
-        <translation type="obsolete">Регистрация</translation>
+        <translation type="unfinished">Регистрация</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Register on the service</source>
-        <translation type="obsolete">Зарегестрироваться в службе</translation>
+        <translation type="unfinished">Зарегестрироваться в службе</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Search</source>
-        <translation type="obsolete">Поиск</translation>
+        <translation type="unfinished">Поиск</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Search on the service</source>
-        <translation type="obsolete">Поиск в службе</translation>
+        <translation type="unfinished">Поиск в службе</translation>
     </message>
     <message>
+        <location line="+5"/>
+        <location line="+3"/>
         <source>Execute command</source>
-        <translation type="obsolete">Выполнить команду</translation>
+        <translation type="unfinished">Выполнить команду</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Show vCard</source>
-        <translation type="obsolete">Показать vCard (анкету)</translation>
+        <translation type="unfinished">Показать vCard (анкету)</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Show information about service</source>
-        <translation type="obsolete">Показать информацию о службе</translation>
+        <translation type="unfinished">Показать информацию о службе</translation>
     </message>
     <message>
+        <location line="+8"/>
         <source>Add service to roster</source>
-        <translation type="obsolete">Добавить сервис в ростер (список)</translation>
+        <translation type="unfinished">Добавить сервис в ростер (список)</translation>
     </message>
     <message>
         <source>Show VCard</source>
         <translation type="obsolete">Показать vCard (анкету)</translation>
     </message>
     <message>
+        <location line="-3"/>
         <source>Add to roster</source>
-        <translation type="obsolete">Добавить в ростер (список)</translation>
+        <translation type="unfinished">Добавить в ростер (список)</translation>
     </message>
     <message>
         <source>Add to proxy list</source>
         <translation type="obsolete">Добавить в список прокси</translation>
     </message>
     <message>
+        <location line="-80"/>
         <source>Name</source>
-        <translation type="obsolete">Имя</translation>
+        <translation type="unfinished">Имя</translation>
     </message>
 </context>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-234"/>
+        <location filename="../../src/protocol/jprotocol.cpp" line="-234"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
@@ -2505,7 +2576,7 @@ Accept invitation?</source>
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../protocols/jabber/src/jplugin.cpp" line="-49"/>
+        <location filename="../../src/jplugin.cpp" line="-49"/>
         <location line="+3"/>
         <location line="+3"/>
         <source>Author</source>
@@ -2515,8 +2586,18 @@ Accept invitation?</source>
 <context>
     <name>XmlConsole</name>
     <message>
+        <location filename="../../src/protocol/modules/xmlconsole/xmlconsole.ui" line="+14"/>
         <source>Form</source>
-        <translation type="obsolete">Настройки</translation>
+        <translation type="unfinished">Настройки</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot; bgcolor=&quot;#000000&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

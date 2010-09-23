@@ -366,7 +366,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+578"/>
+        <location filename="../../src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+585"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
@@ -776,7 +776,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+3"/>
         <source>/me is thinking!</source>
-        <translation type="unfinished">/me думаю!</translation>
+        <translation type="unfinished">/me думает!</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -971,7 +971,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+2"/>
         <source>&lt;b&gt;Task:&lt;/b&gt; %1&lt;br/&gt;</source>
-        <translation>&lt;b&gt;Задача:&lt;/b&gt; %1&lt;br/&gt;</translation>
+        <translation type="unfinished">&lt;b&gt;Роль:&lt;/b&gt; %1&lt;br/&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1118,7 +1118,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+2"/>
         <source>&lt;b&gt;Task:&lt;/b&gt; %1&lt;br/&gt;</source>
-        <translation>&lt;b&gt;Задача:&lt;/b&gt; %1&lt;/br&gt;</translation>
+        <translation type="unfinished">&lt;b&gt;Роль:&lt;/b&gt; %1&lt;/br&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2227,27 +2227,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Default search form optimized for Desktop systems</source>
-        <translation type="unfinished">Простая реализация окна поиска для персональных компьютеров</translation>
+        <translation>Простая реализация окна поиска для персональных компьютеров</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Mobile Search Form</source>
-        <translation type="unfinished">Окно поиска для мобильных устройств</translation>
+        <translation>Окно поиска для мобильных устройств</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Search form optimized for Mobile systems</source>
-        <translation type="unfinished">Окно поиска для мобильных систем</translation>
+        <translation>Окно поиска для мобильных систем</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/mobilecontactinfo/mobilecontactinfoplugin.cpp" line="+11"/>
         <source>Mobile information window about a contact</source>
-        <translation type="unfinished">Окно информации для мобильных устройств</translation>
+        <translation>Окно информации для мобильных устройств</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>qutIM implementation of the information window for mobiles</source>
-        <translation type="unfinished">Реализация окна информации для телефонов</translation>
+        <translation>Реализация окна информации для телефонов</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/simpleactionbox/simpleactionboxplugin.cpp" line="+11"/>
@@ -2267,17 +2267,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Modern popups, based on power of Qt Quick</source>
-        <translation type="unfinished">Всплываюшие уведомления qutIM, типа &quot;Modern&quot;. Основаны на Qt Quick</translation>
+        <translation>Всплываюшие уведомления qutIM, типа &quot;Modern&quot;. Основаны на Qt Quick</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/kineticpopups/popupwidgets/text/textpopupwidgetplugin.cpp" line="+11"/>
         <source>Text Popups</source>
-        <translation type="unfinished">Текстовые всплывающие уведомления</translation>
+        <translation>Текстовые всплывающие уведомления</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Standart textbrowser based popups</source>
-        <translation type="unfinished">Стандартные текстовые всплывающие уведомления</translation>
+        <translation>Стандартные текстовые всплывающие уведомления</translation>
     </message>
 </context>
 <context>
@@ -2285,64 +2285,64 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/profilecreationpage.ui" line="+14"/>
         <source>WizardPage</source>
-        <translation type="unfinished">Помошник миграции</translation>
+        <translation>Помошник миграции</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Name:</source>
-        <translation type="unfinished">Имя:</translation>
+        <translation>Имя:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>It will be shown in chat dialogs</source>
-        <translation type="unfinished">Имя в вашем чате</translation>
+        <translation>Имя в вашем чате</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Profile id:</source>
-        <translation type="unfinished">Идент. профиля:</translation>
+        <translation>Идент. профиля:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Used for profile identification</source>
-        <translation type="unfinished">Используется для определения профиля</translation>
+        <translation>Используется для определения профиля</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Config dir:</source>
-        <translation type="unfinished">Папка с конфигурацией:</translation>
+        <translation>Папка с конфигурацией:</translation>
     </message>
     <message>
         <location line="+12"/>
         <location line="+14"/>
         <location line="+14"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>History dir:</source>
-        <translation type="unfinished">Папка с историей:</translation>
+        <translation>Папка с историей:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Data dir:</source>
-        <translation type="unfinished">Папка с историей:</translation>
+        <translation>Папка с историей:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Store data at application dir</source>
-        <translation type="unfinished">Конфиг рядом с программой (портабельно)</translation>
+        <translation>Конфиг рядом с программой (портабельно)</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Choose cryptograhic module:</source>
-        <translation type="unfinished">Выберите модуль шифрования:</translation>
+        <translation>Выберите модуль шифрования:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Choose config backend:</source>
-        <translation type="unfinished">Выберите модуль хранения настроек:</translation>
+        <translation>Выберите модуль хранения настроек:</translation>
     </message>
 </context>
 <context>
@@ -2378,7 +2378,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/profiledialog.ui" line="+53"/>
         <source>Profiles</source>
-        <translation type="unfinished">Профили</translation>
+        <translation>Профили</translation>
     </message>
 </context>
 <context>
@@ -2490,12 +2490,12 @@ p, li { white-space: pre-wrap; }
         <location filename="../../src/corelayers/searchdialog/mobileform/mobilesearchform.cpp" line="+42"/>
         <location line="+90"/>
         <source>Search</source>
-        <translation type="unfinished">Поиск</translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Back</source>
-        <translation type="unfinished">Назад</translation>
+        <translation>Назад</translation>
     </message>
 </context>
 <context>

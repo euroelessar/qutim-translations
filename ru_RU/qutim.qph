@@ -4439,4 +4439,12 @@ Accept invitation?</source>
     <source>working</source>
     <target>работает</target>
 </phrase>
+<phrase>
+    <source>Unable to create chat session</source>
+    <target>Не могу создать сессию чата</target>
+</phrase>
+<phrase>
+    <source>Noname</source>
+    <target>Безымянный</target>
+</phrase>
 </QPH>
