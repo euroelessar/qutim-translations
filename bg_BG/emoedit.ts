@@ -19,7 +19,7 @@
     <message>
         <location line="+1"/>
         <source>Add emoticons to text edit widget</source>
-        <translation>Добавя емотикони към text edit widget</translation>
+        <translation>Показва емотиконите в полето за въвеждане на текст</translation>
     </message>
 </context>
 <context>
