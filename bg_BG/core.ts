@@ -961,6 +961,32 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::MobileSettingsWindow</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp" line="+100"/>
+        <source>Back</source>
+        <translation>Назад</translation>
+    </message>
+    <message>
+        <location line="+85"/>
+        <location line="+24"/>
+        <source>qutIM settings - %1</source>
+        <translation>Настройки на qutIM - %1</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Apply Settings - System Settings</source>
+        <translation>Прилагане на настройките - Системни настройки</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>The settings of the current module have changed. 
+ Do you want to apply the changes or discard them?</source>
+        <translation>Настройките за текущия модул бяха променени. 
+ Желаете ли да ги приложите или да бъдат отменени?</translation>
+    </message>
+</context>
+<context>
     <name>Core::PListConfigBackend</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/plistconfig/plistconfigbackend.cpp" line="+159"/>
@@ -2484,32 +2510,38 @@ p, li { white-space: pre-wrap; }
         <translation>Разговор</translation>
     </message>
     <message>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp" line="-170"/>
         <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="-212"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+1"/>
         <source>Protocols</source>
         <translation>Протоколи</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+1"/>
         <source>Appearance</source>
         <translation>Облик</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+1"/>
         <source>Plugins</source>
         <translation>Добавки</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+1"/>
         <source>Special</source>
         <translation>Специални</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+1"/>
         <source>Invalid</source>
         <translation>Невалидни</translation>
     </message>
