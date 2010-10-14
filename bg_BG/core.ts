@@ -393,7 +393,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+585"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+475"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -738,27 +738,9 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>Core::AdiumChat::ClassicChatWidget</name>
+    <name>Core::AdiumChat::ChatAppearance</name>
     <message>
-        <source>Chat with %1</source>
-        <translation type="obsolete">Разговор с %1</translation>
-    </message>
-    <message>
-        <source>Conference %1 (%2)</source>
-        <translation type="obsolete">Конференция %1 (%2)</translation>
-    </message>
-</context>
-<context>
-    <name>Core::AuthDialogPrivate</name>
-    <message>
-        <source>Recieved authorizarion request from %1:</source>
-        <translation type="obsolete">Получена заявка за удостоверяване от %1:</translation>
-    </message>
-</context>
-<context>
-    <name>Core::ChatAppearance</name>
-    <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/settings/chatappearance.cpp" line="+42"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/webkitchat/settings/chatappearance.cpp" line="+46"/>
         <source>Vasya Pupkin</source>
         <translation>Вася Пупкин</translation>
     </message>
@@ -768,14 +750,10 @@ p, li { white-space: pre-wrap; }
         <translation>Безименен</translation>
     </message>
     <message>
-        <location line="+73"/>
-        <location line="+75"/>
+        <location line="+65"/>
+        <location line="+80"/>
         <source>Unable to create chat session</source>
         <translation>Невъзможно е създаването на сесия за разговор</translation>
-    </message>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="obsolete">%1 (%2)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -812,6 +790,79 @@ p, li { white-space: pre-wrap; }
         <source>Style variant:</source>
         <translation>Вариант на стила:</translation>
     </message>
+</context>
+<context>
+    <name>Core::AdiumChat::ChatFont</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/webkitchat/settings/chatvariable.cpp" line="+18"/>
+        <source>Change</source>
+        <translation>Промяна</translation>
+    </message>
+</context>
+<context>
+    <name>Core::AdiumChat::ClassicChatWidget</name>
+    <message>
+        <source>Chat with %1</source>
+        <translation type="obsolete">Разговор с %1</translation>
+    </message>
+    <message>
+        <source>Conference %1 (%2)</source>
+        <translation type="obsolete">Конференция %1 (%2)</translation>
+    </message>
+</context>
+<context>
+    <name>Core::AuthDialogPrivate</name>
+    <message>
+        <source>Recieved authorizarion request from %1:</source>
+        <translation type="obsolete">Получена заявка за удостоверяване от %1:</translation>
+    </message>
+</context>
+<context>
+    <name>Core::ChatAppearance</name>
+    <message>
+        <source>Vasya Pupkin</source>
+        <translation type="obsolete">Вася Пупкин</translation>
+    </message>
+    <message>
+        <source>Noname</source>
+        <translation type="obsolete">Безименен</translation>
+    </message>
+    <message>
+        <source>Unable to create chat session</source>
+        <translation type="obsolete">Невъзможно е създаването на сесия за разговор</translation>
+    </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="obsolete">%1 (%2)</translation>
+    </message>
+    <message>
+        <source>Preview message</source>
+        <translation type="obsolete">Предварителен преглед на съобщението</translation>
+    </message>
+    <message>
+        <source>Hello!</source>
+        <translation type="obsolete">Здравей!</translation>
+    </message>
+    <message>
+        <source>How are you?</source>
+        <translation type="obsolete">Как си?</translation>
+    </message>
+    <message>
+        <source>I am fine!</source>
+        <translation type="obsolete">Бивам!</translation>
+    </message>
+    <message>
+        <source>/me is thinking!</source>
+        <translation type="obsolete">/me мисли!</translation>
+    </message>
+    <message>
+        <source>Vasya Pupkin is reading you mind</source>
+        <translation type="obsolete">Вася Пупкин чете мислите ви</translation>
+    </message>
+    <message>
+        <source>Style variant:</source>
+        <translation type="obsolete">Вариант на стила:</translation>
+    </message>
     <message>
         <source>Vasya is reading you mind</source>
         <translation type="obsolete">Вася чете мислите ви</translation>
@@ -838,9 +889,8 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ChatFont</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/settings/chatvariable.cpp" line="+15"/>
         <source>Change</source>
-        <translation>Промяна</translation>
+        <translation type="obsolete">Промяна</translation>
     </message>
 </context>
 <context>
@@ -963,18 +1013,23 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::MobileSettingsWindow</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp" line="+100"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp" line="+72"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
     <message>
-        <location line="+85"/>
-        <location line="+24"/>
+        <location line="+5"/>
+        <source>Close</source>
+        <translation>Затваряне</translation>
+    </message>
+    <message>
+        <location line="+106"/>
+        <location line="+25"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки на qutIM - %1</translation>
     </message>
     <message>
-        <location line="+15"/>
+        <location line="+21"/>
         <source>Apply Settings - System Settings</source>
         <translation>Прилагане на настройките - Системни настройки</translation>
     </message>
@@ -1268,7 +1323,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::XSettingsWindow</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+247"/>
+        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+219"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки на qutIM - %1</translation>
     </message>
@@ -1811,12 +1866,13 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Подразбиращ се за qutIM диалог за настройване, с OS X стил на заглавната лента</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayerplugin.cpp" line="+32"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayerplugin.cpp" line="+39"/>
         <source>Webkit chat layer</source>
         <translation>WebKit слой за разговор</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location line="+14"/>
         <source>Default qutIM chat implementation, based on Adium chat styles</source>
         <translation>Подразбираща се за qutIM реализация на разговор. На базата на Adium стилове за разговора</translation>
     </message>
@@ -1833,7 +1889,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Добавя &quot;Начало на разговор&quot; в контекстното меню на контакта</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="-7"/>
         <source>Time modifier</source>
         <translation>Редактиране на време</translation>
     </message>
@@ -1877,9 +1933,8 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Икони на протоколите с помощта на Adium ServiceIcons пакети</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayerplugin.cpp" line="-4"/>
         <source>Chat settings</source>
-        <translation>Настройки на разговора</translation>
+        <translation type="obsolete">Настройки на разговора</translation>
     </message>
     <message>
         <source>Default settings widgets for adium chat</source>
@@ -2070,7 +2125,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Обикновен избор на звукови теми</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayerplugin.cpp" line="-3"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayerplugin.cpp" line="-4"/>
         <source>Adium</source>
         <translation>Adium</translation>
     </message>
@@ -2080,7 +2135,7 @@ p, li { white-space: pre-wrap; }
         <translation>Реализация на Adium подобен изглед на прозореца на разговори</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+5"/>
         <source>Classic</source>
         <translation>Клисически</translation>
     </message>
@@ -2088,6 +2143,11 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Default qutIM chatform implementation for adiumchat</source>
         <translation>Подразбираща се за qutIM реализация на прозореца на разговори</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Webkit</source>
+        <translation>WebKit</translation>
     </message>
     <message>
         <source>Contact search</source>
@@ -2504,49 +2564,43 @@ p, li { white-space: pre-wrap; }
         <translation>Звуци</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/settings/chatsettings.cpp" line="+20"/>
-        <location line="+4"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayerplugin.cpp" line="+12"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/webkitchat/webkitviewfactory.cpp" line="+16"/>
         <source>Chat</source>
         <translation>Разговор</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp" line="-170"/>
-        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="-212"/>
+        <location filename="../../qutim-meta/core/libqutim/settingslayer.cpp" line="+348"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+1"/>
         <source>Protocols</source>
         <translation>Протоколи</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+1"/>
         <source>Appearance</source>
         <translation>Облик</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+1"/>
         <source>Plugins</source>
         <translation>Добавки</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+1"/>
         <source>Special</source>
         <translation>Специални</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+1"/>
         <source>Invalid</source>
         <translation>Невалидни</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/settingslayer.cpp" line="+315"/>
+        <location line="-58"/>
         <source>Open File</source>
         <translation>Отваряне на файл</translation>
     </message>
@@ -2909,7 +2963,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>chatAppearance</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/settings/chatappearance.ui" line="+14"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/webkitchat/settings/chatappearance.ui" line="+14"/>
         <source>Form</source>
         <translation>Облик на разговора</translation>
     </message>
