@@ -2556,7 +2556,7 @@ Accept invitation?</source>
     <message>
         <location line="+2"/>
         <source>Show tune icon</source>
-        <translation>Показване икона за мелодия</translation>
+        <translation>Показване иконите за мелодия</translation>
     </message>
 </context>
 <context>
