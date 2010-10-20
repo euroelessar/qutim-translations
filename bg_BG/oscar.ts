@@ -195,7 +195,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="+307"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="+314"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -556,7 +556,7 @@
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+359"/>
+        <location line="+369"/>
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>
@@ -3429,7 +3429,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="-325"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="-332"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>
@@ -3902,7 +3902,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::Md5Login</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/md5login.cpp" line="+75"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/md5login.cpp" line="+82"/>
         <source>No IP addresses were found for the host &apos;%1&apos;</source>
         <translation>Не са открити IP адреси за хоста &apos;%1&apos;</translation>
     </message>
