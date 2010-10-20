@@ -859,7 +859,7 @@
         <translation>Настройване на стаята</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/jaccount.cpp" line="+219"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/jaccount.cpp" line="+202"/>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+8"/>
         <source>Conference</source>
         <translation>Конференция</translation>
@@ -969,7 +969,7 @@
 <context>
     <name>Jabber::JConnectionListener</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/connection/jconnectionlistener.cpp" line="+43"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/connection/jconnectionlistener.cpp" line="+46"/>
         <source>The entity has sent XML that cannot be processed.</source>
         <translation>Ответната страна изпрати XML, който не може да бъде обработен.</translation>
     </message>
@@ -2539,6 +2539,24 @@ Accept invitation?</source>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
+    </message>
+</context>
+<context>
+    <name>Tune</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/tunepep/jpersontuneconverter.cpp" line="+108"/>
+        <source>Now listening</source>
+        <translation>В момента слушам</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Tune</source>
+        <translation>Мелодия</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Show tune icon</source>
+        <translation>Показване икона за мелодия</translation>
     </message>
 </context>
 <context>
