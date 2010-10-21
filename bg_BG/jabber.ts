@@ -475,7 +475,7 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="+35"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="+49"/>
         <source>Nickname</source>
         <translation>Псевдоним</translation>
     </message>
@@ -495,9 +495,8 @@
         <translation>Фамилия</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Gender</source>
-        <translation>Пол</translation>
+        <translation type="obsolete">Пол</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -506,53 +505,150 @@
     </message>
     <message>
         <location line="+1"/>
+        <source>Homepage</source>
+        <translation>Лична страница</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Work phone</source>
+        <translation>Служебен телефон</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Phone</source>
+        <translation>Телефон</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Personal email</source>
+        <translation>Личен email</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Work email</source>
+        <translation>Служебен email</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email</source>
+        <translation>Email</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Home address</source>
+        <translation>Домашен адрес</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Work address</source>
+        <translation>Служебен адрес</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+6"/>
+        <source>Address</source>
+        <translation>Адрес</translation>
+    </message>
+    <message>
+        <location line="-4"/>
+        <source>Region</source>
+        <translation>Област</translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>City</source>
         <translation>Град</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Postcode</source>
+        <translation>ПК</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Street</source>
+        <translation>Улица</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Postbox</source>
+        <translation>Пощенска кутия</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Company</source>
+        <translation>Фирма</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Department</source>
+        <translation>Подразделение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Position</source>
+        <translation>Длъжност</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Role</source>
+        <translation>Позиция</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+132"/>
+        <source>About</source>
+        <translation>За мен</translation>
+    </message>
+    <message>
+        <location line="-37"/>
+        <source>Addresses</source>
+        <translation>Адреси</translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>Work</source>
+        <translation>Служебен</translation>
+    </message>
+    <message>
+        <location line="-134"/>
         <source>Country</source>
         <translation>Държава</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Photo</source>
-        <translation>Снимка</translation>
+        <translation type="obsolete">Снимка</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-10"/>
         <source>Home phone</source>
         <translation>Домашен телефон</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+2"/>
         <source>Mobile phone</source>
         <translation>Мобилен телефон</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>University</source>
-        <translation>Университет</translation>
+        <translation type="obsolete">Университет</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Faculty</source>
-        <translation>Факултет</translation>
+        <translation type="obsolete">Факултет</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Graduation year</source>
-        <translation>Година на завършване</translation>
+        <translation type="obsolete">Година на завършване</translation>
     </message>
     <message>
-        <location line="+46"/>
+        <location line="+56"/>
         <source>General</source>
         <translation>Основна</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Name</source>
-        <translation>Име</translation>
+        <translation type="obsolete">Име</translation>
     </message>
 </context>
 <context>
