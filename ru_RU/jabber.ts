@@ -480,7 +480,7 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../src/protocol/account/vcard/jinforequest.cpp" line="+35"/>
+        <location filename="../../src/protocol/account/vcard/jinforequest.cpp" line="+49"/>
         <source>Nickname</source>
         <translation>Ник</translation>
     </message>
@@ -500,9 +500,8 @@
         <translation>Фамилия</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Gender</source>
-        <translation>Пол</translation>
+        <translation type="obsolete">Пол</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -511,53 +510,150 @@
     </message>
     <message>
         <location line="+1"/>
+        <source>Homepage</source>
+        <translation type="unfinished">Дом.Телефон</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Work phone</source>
+        <translation type="unfinished">Hf,jxbq ntktajy</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Phone</source>
+        <translation>Телефон</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Personal email</source>
+        <translation type="unfinished">Эл.Почта</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Work email</source>
+        <translation type="unfinished">Эл.Почта на работе</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email</source>
+        <translation>Электронная почта</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Home address</source>
+        <translation>Домашний адрес</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Work address</source>
+        <translation>Работа</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+6"/>
+        <source>Address</source>
+        <translation>Адрес</translation>
+    </message>
+    <message>
+        <location line="-4"/>
+        <source>Region</source>
+        <translation type="unfinished">Регион</translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>City</source>
         <translation>Город</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Postcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Street</source>
+        <translation type="unfinished">Улица</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Postbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Company</source>
+        <translation>Компания</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Department</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Position</source>
+        <translation>Положение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Role</source>
+        <translation type="unfinished">Роль</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+132"/>
+        <source>About</source>
+        <translation>О плагине</translation>
+    </message>
+    <message>
+        <location line="-37"/>
+        <source>Addresses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>Work</source>
+        <translation>Работа</translation>
+    </message>
+    <message>
+        <location line="-134"/>
         <source>Country</source>
         <translation>Страна</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Photo</source>
-        <translation>Фото</translation>
+        <translation type="obsolete">Фото</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-10"/>
         <source>Home phone</source>
         <translation>Дом.Телефон</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+2"/>
         <source>Mobile phone</source>
         <translation>Мобильный</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>University</source>
-        <translation>Университет</translation>
+        <translation type="obsolete">Университет</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Faculty</source>
-        <translation>Факультет</translation>
+        <translation type="obsolete">Факультет</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Graduation year</source>
-        <translation>Год выпуска</translation>
+        <translation type="obsolete">Год выпуска</translation>
     </message>
     <message>
-        <location line="+46"/>
+        <location line="+56"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Name</source>
-        <translation>Имя</translation>
+        <translation type="obsolete">Имя</translation>
     </message>
 </context>
 <context>
@@ -583,27 +679,27 @@
     <message>
         <location filename="../../src/protocol/jaccountwizardpage.ui" line="+14"/>
         <source>WizardPage</source>
-        <translation type="unfinished">Мастер</translation>
+        <translation>Мастер</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Login:</source>
-        <translation type="unfinished">Логин:</translation>
+        <translation>Логин:</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>TextLabel</source>
-        <translation type="unfinished">Поле текста</translation>
+        <translation>Поле текста</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Password:</source>
-        <translation type="unfinished">Пароль:</translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Save password</source>
-        <translation type="unfinished">Сохранить пароль</translation>
+        <translation>Сохранить пароль</translation>
     </message>
 </context>
 <context>
@@ -611,7 +707,7 @@
     <message>
         <location filename="../../src/protocol/modules/adhoc/jadhocwidget.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
 </context>
 <context>
@@ -619,47 +715,47 @@
     <message>
         <location filename="../../src/protocol/account/connection/jcertinfo.ui" line="+14"/>
         <source>Cert Info</source>
-        <translation type="unfinished">Информация о сертификате</translation>
+        <translation>Информация о сертификате</translation>
     </message>
     <message>
         <location line="+93"/>
         <source>Accept</source>
-        <translation type="unfinished">Принять</translation>
+        <translation>Принять</translation>
     </message>
     <message>
         <location line="-85"/>
         <source>Cipher:</source>
-        <translation type="unfinished">Шифр:</translation>
+        <translation>Шифр:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Compression:</source>
-        <translation type="unfinished">Сжатие:</translation>
+        <translation>Сжатие:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Server:</source>
-        <translation type="unfinished">Сервер:</translation>
+        <translation>Сервер:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>From:</source>
-        <translation type="unfinished">От:</translation>
+        <translation>От:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>To:</source>
-        <translation type="unfinished">Кому:</translation>
+        <translation>Кому:</translation>
     </message>
     <message>
         <location line="+64"/>
         <source>Reject</source>
-        <translation type="unfinished">Отклонить</translation>
+        <translation>Отклонить</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Remember choice for this server</source>
-        <translation type="unfinished">Запомнить выбор для этого сервера</translation>
+        <translation>Запомнить выбор для этого сервера</translation>
     </message>
 </context>
 <context>
@@ -745,57 +841,57 @@
     <message>
         <location filename="../../src/protocol/jmainsettings.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Default resource:</source>
-        <translation type="unfinished">Ресурс (по ум.):</translation>
+        <translation>Ресурс (по ум.):</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Reconnect after disconnect</source>
-        <translation type="unfinished">Переподключаться при разъединении</translation>
+        <translation>Переподключаться при разъединении</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Don&apos;t send request for avatars</source>
-        <translation type="unfinished">Не запрашивать аватары</translation>
+        <translation>Не запрашивать аватары</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Listen port for filetransfer:</source>
-        <translation type="unfinished">Порт передачи файлов:</translation>
+        <translation>Порт передачи файлов:</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Priority depends on status</source>
-        <translation type="unfinished">Приоритет зависит от статуса</translation>
+        <translation>Приоритет зависит от статуса</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Online:</source>
-        <translation type="unfinished">В сети:</translation>
+        <translation>В сети:</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Free for chat:</source>
-        <translation type="unfinished">Готов поболтать:</translation>
+        <translation>Готов поболтать:</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Away:</source>
-        <translation type="unfinished">Отошел:</translation>
+        <translation>Отошел:</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>NA:</source>
-        <translation type="unfinished">Недоступен:</translation>
+        <translation>Недоступен:</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>DND:</source>
-        <translation type="unfinished">Не беспокоить:</translation>
+        <translation>Не беспокоить:</translation>
     </message>
 </context>
 <context>
@@ -803,7 +899,7 @@
     <message>
         <location filename="../../src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+31"/>
         <source>Xml console</source>
-        <translation type="unfinished">Консоль XML</translation>
+        <translation>Консоль XML</translation>
     </message>
     <message>
         <location filename="../../src/protocol/modules/adhoc/jadhocmodule.cpp" line="+33"/>
@@ -813,7 +909,7 @@
     <message>
         <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+26"/>
         <source>Service discovery</source>
-        <translation type="unfinished">Обзор служб</translation>
+        <translation>Обзор служб</translation>
     </message>
     <message>
         <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="+196"/>
@@ -844,20 +940,20 @@
     </message>
     <message>
         <location filename="../../src/protocol/jprotocol.cpp" line="+3"/>
-        <location line="+197"/>
+        <location line="+199"/>
         <source>Join conference</source>
         <translation>Войти в конференцию</translation>
     </message>
     <message>
-        <location line="-184"/>
-        <location line="+195"/>
+        <location line="-186"/>
+        <location line="+197"/>
         <source>Save to bookmarks</source>
         <translation>Сохранить в закладках</translation>
     </message>
     <message>
         <location line="-9"/>
         <source>Leave conference</source>
-        <translation>Поканить конференцию</translation>
+        <translation>Покинуть конференцию</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -865,12 +961,12 @@
         <translation>Удалить из закладок</translation>
     </message>
     <message>
-        <location line="-203"/>
+        <location line="-205"/>
         <source>Room&apos;s configuration</source>
         <translation>Настройки комнаты</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/jaccount.cpp" line="+219"/>
+        <location filename="../../src/protocol/account/jaccount.cpp" line="+209"/>
         <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="-17"/>
         <source>Conference</source>
         <translation>Конференция</translation>
@@ -903,7 +999,7 @@
     <message>
         <location filename="../../src/protocol/modules/activitypep/jactivitychooser.cpp" line="+110"/>
         <source>Set activity</source>
-        <translation type="unfinished">Занятие</translation>
+        <translation>Занятие</translation>
     </message>
 </context>
 <context>
@@ -911,17 +1007,17 @@
     <message>
         <location filename="../../src/protocol/modules/activitypep/jactivitychooser.ui" line="+20"/>
         <source>Form</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="../../src/protocol/modules/activitypep/jactivitychooser.cpp" line="-88"/>
         <source>Choose your activity</source>
-        <translation type="unfinished">Выберите ваше занятие</translation>
+        <translation>Выберите ваше занятие</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>No activity</source>
-        <translation type="unfinished">Нет занятия</translation>
+        <translation>Нет занятия</translation>
     </message>
 </context>
 <context>
@@ -930,33 +1026,33 @@
         <location filename="../../src/protocol/modules/adhoc/jadhocwidget.cpp" line="+38"/>
         <location line="+62"/>
         <source>Next</source>
-        <translation type="unfinished">Следующий</translation>
+        <translation>Следующий</translation>
     </message>
     <message>
         <location line="-9"/>
         <source>Finish</source>
-        <translation type="unfinished">Завершить</translation>
+        <translation>Завершить</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Previous</source>
-        <translation type="unfinished">Назад</translation>
+        <translation>Назад</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Complete</source>
-        <translation type="unfinished">Закончить</translation>
+        <translation>Закончить</translation>
     </message>
     <message>
         <location line="-17"/>
         <location line="+20"/>
         <source>Ok</source>
-        <translation type="unfinished">Ок</translation>
+        <translation>Ок</translation>
     </message>
 </context>
 <context>
@@ -964,13 +1060,13 @@
     <message>
         <location filename="../../src/protocol/account/muc/jconferenceconfig.cpp" line="+26"/>
         <source>Room configuration: %1</source>
-        <translation type="unfinished">Настройки комнаты: %1</translation>
+        <translation>Настройки комнаты: %1</translation>
     </message>
 </context>
 <context>
     <name>Jabber::JConnectionListener</name>
     <message>
-        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="+43"/>
+        <location filename="../../src/protocol/account/connection/jconnectionlistener.cpp" line="+46"/>
         <source>The entity has sent XML that cannot be processed.</source>
         <translation>Принят XML запрос, который не может быть обработан.</translation>
     </message>
@@ -1549,17 +1645,17 @@ Accept invitation?</source>
     <message>
         <location filename="../../src/protocol/modules/moodpep/jmoodchooser.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished">Настроение</translation>
+        <translation>Настроение</translation>
     </message>
     <message>
         <location filename="../../src/protocol/modules/moodpep/jmoodchooser.cpp" line="-56"/>
         <source>Choose your mood</source>
-        <translation type="unfinished">Выберите настроение</translation>
+        <translation>Выберите настроение</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>No mood</source>
-        <translation type="unfinished">Без настроения</translation>
+        <translation>Без настроения</translation>
     </message>
 </context>
 <context>
@@ -1585,14 +1681,14 @@ Accept invitation?</source>
         <translation>Укажите причину блокировки %1</translation>
     </message>
     <message>
-        <location line="+169"/>
+        <location line="+171"/>
         <source>Possible client</source>
-        <translation type="unfinished">Возможный клиент</translation>
+        <translation>Возможный клиент</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show client icon</source>
-        <translation type="unfinished">Показывать иконку клиента</translation>
+        <translation>Показывать иконку клиента</translation>
     </message>
 </context>
 <context>
@@ -1627,27 +1723,27 @@ Accept invitation?</source>
     <message>
         <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+31"/>
         <source>Search service</source>
-        <translation type="unfinished">Служба поиска</translation>
+        <translation>Служба поиска</translation>
     </message>
     <message>
         <location line="+84"/>
         <source>category: </source>
-        <translation type="unfinished">Категория: </translation>
+        <translation>Категория: </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Identities:</source>
-        <translation type="unfinished">Идентификаторы:</translation>
+        <translation>Идентификаторы:</translation>
     </message>
     <message>
         <location line="+160"/>
         <source>Features:</source>
-        <translation type="unfinished">Возможности:</translation>
+        <translation>Возможности:</translation>
     </message>
     <message>
         <location line="-163"/>
         <source>type: </source>
-        <translation type="unfinished">тип: </translation>
+        <translation>тип: </translation>
     </message>
     <message>
         <source>&lt;br/&gt;&lt;b&gt;Features:&lt;/b&gt;&lt;br/&gt;</source>
@@ -1659,17 +1755,17 @@ Accept invitation?</source>
     <message>
         <location filename="../../src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+89"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation type="unfinished">Отправитель послал неправильный XML запрос который не может быть обработан.</translation>
+        <translation>Отправитель послал неправильный XML запрос который не может быть обработан.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation type="unfinished">Доступ не может быть предоставлен, поскольку уже существует ресурс или сессия с совпадающим именем или адресом.</translation>
+        <translation>Доступ не может быть предоставлен, поскольку уже существует ресурс или сессия с совпадающим именем или адресом.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
-        <translation type="unfinished">Необходимая фича не поддерживается сервером или получаетелм и поэтому невозможно продолжить.</translation>
+        <translation>Необходимая фича не поддерживается сервером или получаетелм и поэтому невозможно продолжить.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1787,7 +1883,7 @@ Accept invitation?</source>
     <message>
         <location filename="../../src/protocol/account/roster/jsoftwaredetection.cpp" line="+217"/>
         <source>Possible client</source>
-        <translation type="unfinished">Возможный клиент</translation>
+        <translation>Возможный клиент</translation>
     </message>
 </context>
 <context>
@@ -2421,22 +2517,22 @@ Accept invitation?</source>
     <message>
         <location filename="../../src/protocol/account/muc/jconferenceconfig.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Apply</source>
-        <translation type="unfinished">Применить</translation>
+        <translation>Применить</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Ok</source>
-        <translation type="unfinished">Ок</translation>
+        <translation>Ок</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
 </context>
 <context>
@@ -2451,22 +2547,22 @@ Accept invitation?</source>
     <message>
         <location filename="../../src/protocol/account/servicediscovery/jservicebrowser.ui" line="+14"/>
         <source>jServiceBrowser</source>
-        <translation type="unfinished">Обзор сервисов</translation>
+        <translation>Обзор сервисов</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Server:</source>
-        <translation type="unfinished">Сервер:</translation>
+        <translation>Сервер:</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Filter:</source>
-        <translation type="unfinished">Фильтр:</translation>
+        <translation>Фильтр:</translation>
     </message>
     <message>
         <location line="+91"/>
         <source>Searching...</source>
-        <translation type="unfinished">Поиск...</translation>
+        <translation>Поиск...</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2476,48 +2572,48 @@ Accept invitation?</source>
         <location line="+22"/>
         <location line="+3"/>
         <source>Join conference</source>
-        <translation type="unfinished">Войти в конференцию</translation>
+        <translation>Войти в конференцию</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Register</source>
-        <translation type="unfinished">Регистрация</translation>
+        <translation>Регистрация</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Register on the service</source>
-        <translation type="unfinished">Зарегестрироваться в службе</translation>
+        <translation>Зарегистрироваться в службе</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Search</source>
-        <translation type="unfinished">Поиск</translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Search on the service</source>
-        <translation type="unfinished">Поиск в службе</translation>
+        <translation>Поиск в службе</translation>
     </message>
     <message>
         <location line="+5"/>
         <location line="+3"/>
         <source>Execute command</source>
-        <translation type="unfinished">Выполнить команду</translation>
+        <translation>Выполнить команду</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Show vCard</source>
-        <translation type="unfinished">Показать vCard (анкету)</translation>
+        <translation>Показать vCard (анкету)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Show information about service</source>
-        <translation type="unfinished">Показать информацию о службе</translation>
+        <translation>Показать информацию о службе</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Add service to roster</source>
-        <translation type="unfinished">Добавить сервис в ростер (список)</translation>
+        <translation>Добавить сервис в ростер (список)</translation>
     </message>
     <message>
         <source>Show VCard</source>
@@ -2526,7 +2622,7 @@ Accept invitation?</source>
     <message>
         <location line="-3"/>
         <source>Add to roster</source>
-        <translation type="unfinished">Добавить в ростер (список)</translation>
+        <translation>Добавить в ростер (список)</translation>
     </message>
     <message>
         <source>Add to proxy list</source>
@@ -2535,13 +2631,13 @@ Accept invitation?</source>
     <message>
         <location line="-80"/>
         <source>Name</source>
-        <translation type="unfinished">Имя</translation>
+        <translation>Имя</translation>
     </message>
 </context>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../src/protocol/jprotocol.cpp" line="-234"/>
+        <location filename="../../src/protocol/jprotocol.cpp" line="-236"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
@@ -2581,6 +2677,24 @@ Accept invitation?</source>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
+    </message>
+</context>
+<context>
+    <name>Tune</name>
+    <message>
+        <location filename="../../src/protocol/modules/tunepep/jpersontuneconverter.cpp" line="+108"/>
+        <source>Now listening</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Tune</source>
+        <translation type="unfinished">Музыка</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Show tune icon</source>
+        <translation type="unfinished">Показывать значок  музыки</translation>
     </message>
 </context>
 <context>

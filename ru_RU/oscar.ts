@@ -210,7 +210,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../src/connection.cpp" line="+307"/>
+        <location filename="../../src/connection.cpp" line="+314"/>
         <source>Invalid nick or password</source>
         <translation>Неверный ник или пароль</translation>
     </message>
@@ -546,7 +546,7 @@
         <translation>Главные</translation>
     </message>
     <message>
-        <location line="+359"/>
+        <location line="+369"/>
         <source>Online time</source>
         <translation>В сети</translation>
     </message>
@@ -3449,7 +3449,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../src/connection.cpp" line="-325"/>
+        <location filename="../../src/connection.cpp" line="-332"/>
         <source>Invalid SNAC header</source>
         <translation>Неверный заголовок SNAC</translation>
     </message>
@@ -3578,7 +3578,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../src/icqprotocol.cpp" line="+44"/>
+        <location filename="../../src/icqprotocol.cpp" line="+50"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
@@ -3924,7 +3924,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::Md5Login</name>
     <message>
-        <location filename="../../src/md5login.cpp" line="+75"/>
+        <location filename="../../src/md5login.cpp" line="+82"/>
         <source>No IP addresses were found for the host &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
