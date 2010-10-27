@@ -396,12 +396,22 @@ p, li { white-space: pre-wrap; }
         <translation>Предходен разговор</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayerplugin.cpp" line="+50"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayerplugin.cpp" line="+51"/>
         <source>Insert Emoticon</source>
         <translation>Вмъкване на емотикона</translation>
     </message>
     <message>
-        <location line="+40"/>
+        <location line="+38"/>
+        <source>Show Emoticons</source>
+        <translation>Показване на емотикони</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Clear Chat</source>
+        <translation>Изчистване на разговора</translation>
+    </message>
+    <message>
+        <location line="+9"/>
         <source>Clear chat</source>
         <translation>Изчистване на разговора</translation>
     </message>
@@ -410,11 +420,16 @@ p, li { white-space: pre-wrap; }
         <source>Clear chat field</source>
         <translation>Изчистване полето на разговора</translation>
     </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/tabbedchatform/tabbedchatform.cpp" line="+24"/>
+        <source>Open session list</source>
+        <translation>Отваряне на списъка на сесиите</translation>
+    </message>
 </context>
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+489"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+487"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -868,7 +883,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::TabbedChatWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/tabbedchatform/tabbedchatwidget.cpp" line="+43"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/tabbedchatform/tabbedchatwidget.cpp" line="+44"/>
         <source>Chat Actions</source>
         <translation>Действия в разговора</translation>
     </message>
@@ -883,17 +898,22 @@ p, li { white-space: pre-wrap; }
         <translation>Списък на сесиите</translation>
     </message>
     <message>
-        <location line="+45"/>
+        <location line="+46"/>
         <source>Send</source>
         <translation>Изпращане</translation>
     </message>
     <message>
-        <location line="+133"/>
+        <location line="+222"/>
+        <source>Chat with %1 (have %2 unread messages)</source>
+        <translation>Разговорът с %1 (има %2 непрочетени съобщения)</translation>
+    </message>
+    <message>
+        <location line="+2"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+4"/>
         <source>Conference %1 (%2)</source>
         <translation>Конференция %1 (%2)</translation>
     </message>
@@ -1951,7 +1971,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Подразбиращ се за qutIM диалог за настройване, с OS X стил на заглавната лента</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayerplugin.cpp" line="-28"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayerplugin.cpp" line="-40"/>
         <source>Webkit chat layer</source>
         <translation>WebKit слой за разговор</translation>
     </message>
@@ -2647,7 +2667,7 @@ p, li { white-space: pre-wrap; }
         <translation>Звуци</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/tabbedchatform/tabbedchatform.cpp" line="+19"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/tabbedchatform/tabbedchatform.cpp" line="-4"/>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/webkitchat/webkitviewfactory.cpp" line="+18"/>
         <source>Chat</source>
         <translation>Разговор</translation>
