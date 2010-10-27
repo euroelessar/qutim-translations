@@ -929,13 +929,13 @@
     </message>
     <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+3"/>
-        <location line="+197"/>
+        <location line="+199"/>
         <source>Join conference</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location line="-184"/>
-        <location line="+195"/>
+        <location line="-186"/>
+        <location line="+197"/>
         <source>Save to bookmarks</source>
         <translation>Запазване в отметките</translation>
     </message>
@@ -950,12 +950,12 @@
         <translation>Премахване от отметките</translation>
     </message>
     <message>
-        <location line="-203"/>
+        <location line="-205"/>
         <source>Room&apos;s configuration</source>
         <translation>Настройване на стаята</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/jaccount.cpp" line="+202"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/jaccount.cpp" line="+209"/>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+8"/>
         <source>Conference</source>
         <translation>Конференция</translation>
@@ -1682,7 +1682,7 @@ Accept invitation?</source>
         <translation>Въведете причина за забраната на %1</translation>
     </message>
     <message>
-        <location line="+169"/>
+        <location line="+171"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
@@ -2622,7 +2622,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-234"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-236"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>

@@ -3557,7 +3557,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/icqprotocol.cpp" line="+44"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/icqprotocol.cpp" line="+50"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
