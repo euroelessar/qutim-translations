@@ -13,6 +13,11 @@
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
     </message>
+    <message>
+        <location line="+3"/>
+        <source>Ruslan Nigmatullin</source>
+        <translation>Руслан Нигматуллин</translation>
+    </message>
 </context>
 <context>
     <name>IcqSettings</name>
@@ -145,12 +150,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>NowPlaying</name>
     <message>
-        <location filename="../../qutim-meta/plugins/nowplaying/src/nowplaying.cpp" line="+38"/>
+        <location filename="../../qutim-meta/plugins/nowplaying/src/nowplaying.cpp" line="+39"/>
         <source>Now Playing</source>
         <translation>В момента слушам</translation>
     </message>
     <message>
-        <location line="+144"/>
+        <location line="+183"/>
         <source>Stop now playing</source>
         <translation>Спиране на &quot;В момента слушам&quot;</translation>
     </message>
@@ -223,7 +228,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/plugins/nowplaying/src/nowplaying.cpp" line="-189"/>
+        <location filename="../../qutim-meta/plugins/nowplaying/src/nowplaying.cpp" line="-232"/>
         <source>Now Playing</source>
         <translation>В момента слушам</translation>
     </message>
@@ -233,14 +238,22 @@ p, li { white-space: pre-wrap; }
         <translation>Добавка &quot;В момента слушам&quot;</translation>
     </message>
     <message>
-        <location line="+8"/>
-        <source>MPRIS support</source>
-        <translation>Поддръжка на MPRIS</translation>
+        <location line="+11"/>
+        <source>Now Playing Mpris</source>
+        <translation>&quot;В момента слушам&quot; (Mpris)</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Mpris support for now playing plugin</source>
+        <translation>Поддръжка на Mpris в добавката &quot;В момента слушам&quot;</translation>
+    </message>
+    <message>
+        <source>MPRIS support</source>
+        <translation type="obsolete">Поддръжка на MPRIS</translation>
+    </message>
+    <message>
         <source>Media Player Remote Interfacing Specification (MPRIS) support for now playing plugin</source>
-        <translation>Поддръжка на Media Player Remote Interfacing Specification (MPRIS), за добавката</translation>
+        <translation type="obsolete">Поддръжка на Media Player Remote Interfacing Specification (MPRIS), за добавката</translation>
     </message>
     <message>
         <source>Now Playing Amarok 2</source>
@@ -254,7 +267,8 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Task</name>
     <message>
-        <location line="-6"/>
+        <location line="-9"/>
+        <location line="+3"/>
         <location line="+3"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
@@ -263,7 +277,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::nowplaying::SettingsUI</name>
     <message>
-        <location filename="../../qutim-meta/plugins/nowplaying/src/settingsui.cpp" line="+154"/>
+        <location filename="../../qutim-meta/plugins/nowplaying/src/settingsui.cpp" line="+136"/>
         <source>working</source>
         <translation>пусната</translation>
     </message>
