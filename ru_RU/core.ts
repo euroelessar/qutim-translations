@@ -392,13 +392,13 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/adiumchat/tabbedchatform/tabbedchatform.cpp" line="+24"/>
         <source>Open session list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Открыть список сеансов</translation>
     </message>
 </context>
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+487"/>
+        <location filename="../../src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+490"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
@@ -857,12 +857,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/adiumchat/tabbedchatform/tabbedchatwidget.cpp" line="+44"/>
         <source>Chat Actions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Действия чата</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Send to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отправить в</translation>
     </message>
     <message>
         <location line="+30"/>
@@ -877,7 +877,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+222"/>
         <source>Chat with %1 (have %2 unread messages)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Чат с %1 (%2 не прочитанных сообщений(е))</translation>
     </message>
     <message>
         <location line="+2"/>

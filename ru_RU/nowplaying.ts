@@ -13,6 +13,11 @@
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
     </message>
+    <message>
+        <location line="+3"/>
+        <source>Ruslan Nigmatullin</source>
+        <translation>Руслан Нигматуллин</translation>
+    </message>
 </context>
 <context>
     <name>IcqSettings</name>
@@ -145,12 +150,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>NowPlaying</name>
     <message>
-        <location filename="../../src/nowplaying.cpp" line="+38"/>
+        <location filename="../../src/nowplaying.cpp" line="+39"/>
         <source>Now Playing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+138"/>
+        <location line="+183"/>
         <source>Stop now playing</source>
         <translation type="unfinished">Стоп &quot;Сейчас играет&quot;</translation>
     </message>
@@ -208,35 +213,22 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Музыкальный плеер</translation>
     </message>
     <message>
-        <location line="+28"/>
         <source>Hostname</source>
-        <translation type="unfinished">Имя  хоста</translation>
+        <translation type="obsolete">Имя  хоста</translation>
     </message>
     <message>
-        <location line="+7"/>
-        <source>127.0.0.1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+7"/>
         <source>Port</source>
-        <translation>Порт</translation>
+        <translation type="obsolete">Порт</translation>
     </message>
     <message>
-        <location line="+7"/>
-        <source>6600</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+7"/>
         <source>Password</source>
-        <translation>Пароль</translation>
+        <translation type="obsolete">Пароль</translation>
     </message>
 </context>
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../src/nowplaying.cpp" line="-183"/>
+        <location filename="../../src/nowplaying.cpp" line="-232"/>
         <source>Now Playing</source>
         <translation type="unfinished"></translation>
     </message>
@@ -246,20 +238,25 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Now playing плагин</translation>
     </message>
     <message>
-        <location line="+8"/>
-        <source>Now Playing Amarok 2</source>
+        <location line="+11"/>
+        <source>Now Playing Mpris</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Mpris support for now playing plugin</source>
+        <translation type="unfinished">Поддержка Mpris для now playing плагина</translation>
+    </message>
+    <message>
         <source>Amarok 2 support for now playing plugin</source>
-        <translation type="unfinished">Поддержка Amarok2 для плагина now playing</translation>
+        <translation type="obsolete">Поддержка Amarok2 для плагина now playing</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location line="-6"/>
+        <location line="-9"/>
+        <location line="+3"/>
         <location line="+3"/>
         <source>Developer</source>
         <translation type="unfinished">Разработчик</translation>
@@ -268,7 +265,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::nowplaying::SettingsUI</name>
     <message>
-        <location filename="../../src/settingsui.cpp" line="+132"/>
+        <location filename="../../src/settingsui.cpp" line="+136"/>
         <source>working</source>
         <translation type="unfinished">работает</translation>
     </message>
