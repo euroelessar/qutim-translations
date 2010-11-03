@@ -343,15 +343,20 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+56"/>
         <source>Tab position:</source>
-        <translation>Позиция на раздела</translation>
+        <translation>Позиция на раздела:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Form layout:</source>
-        <translation>Разположение на формуляра</translation>
+        <translation>Разположение на формуляра:</translation>
     </message>
     <message>
-        <location line="-73"/>
+        <location line="+13"/>
+        <source>Chat state icons on tabs</source>
+        <translation>Покоазване на икони за състояние на разговора в разделите</translation>
+    </message>
+    <message>
+        <location line="-86"/>
         <source>Number of previous messages shown in new chats</source>
         <translation>Брой на последните показвани съобщения в новите разговори</translation>
     </message>
@@ -818,7 +823,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ChatBehavior</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/tabbedchatform/settings/chatbehavior.cpp" line="+17"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/tabbedchatform/settings/chatbehavior.cpp" line="+18"/>
         <source>Ctrl+Enter</source>
         <translation>Ctrl+Enter</translation>
     </message>
@@ -835,12 +840,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+4"/>
         <source>North</source>
-        <translation>На север</translation>
+        <translation>Север</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>South</source>
-        <translation>На юг</translation>
+        <translation>Юг</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -903,7 +908,7 @@ p, li { white-space: pre-wrap; }
         <translation>Изпращане</translation>
     </message>
     <message>
-        <location line="+222"/>
+        <location line="+227"/>
         <source>Chat with %1 (have %2 unread messages)</source>
         <translation>Разговорът с %1 (има %2 непрочетени съобщения)</translation>
     </message>
