@@ -194,7 +194,7 @@
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../plugins/xstatus/xstatus.cpp" line="+200"/>
+        <location filename="../../plugins/xstatus/xstatus.cpp" line="+202"/>
         <location filename="../../src/oscarplugin.cpp" line="+3"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
@@ -210,7 +210,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../src/connection.cpp" line="+314"/>
+        <location filename="../../src/connection.cpp" line="+326"/>
         <source>Invalid nick or password</source>
         <translation>Неверный ник или пароль</translation>
     </message>
@@ -541,12 +541,12 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../src/icqcontact.cpp" line="+67"/>
+        <location filename="../../src/icqcontact.cpp" line="+122"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
     <message>
-        <location line="+369"/>
+        <location line="+244"/>
         <source>Online time</source>
         <translation>В сети</translation>
     </message>
@@ -3449,7 +3449,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../src/connection.cpp" line="-332"/>
+        <location filename="../../src/connection.cpp" line="-344"/>
         <source>Invalid SNAC header</source>
         <translation>Неверный заголовок SNAC</translation>
     </message>
@@ -3950,7 +3950,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="../../plugins/xstatus/xstatus.cpp" line="+269"/>
+        <location filename="../../plugins/xstatus/xstatus.cpp" line="+248"/>
         <source>X-Status</source>
         <translation type="unfinished">X-Статус</translation>
     </message>
