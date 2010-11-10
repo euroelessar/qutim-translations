@@ -392,12 +392,12 @@ p, li { white-space: pre-wrap; }
         <translation>Предходен разговор</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayerplugin.cpp" line="+52"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="+50"/>
         <source>Insert Emoticon</source>
         <translation>Вмъкване на емотикона</translation>
     </message>
     <message>
-        <location line="+42"/>
+        <location line="+32"/>
         <source>Show Emoticons</source>
         <translation>Показване на емотикони</translation>
     </message>
@@ -426,7 +426,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+490"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+470"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -681,7 +681,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AccountCreatorProtocols</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+74"/>
+        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+58"/>
         <source>Select protocol</source>
         <translation>Избор на протокол</translation>
     </message>
@@ -727,19 +727,16 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Невъзможно е изпращането на съобщение до %1</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatforms/abstractchatwidget.cpp" line="+51"/>
         <source>Chat with %1 (have %2 unread messages)</source>
-        <translation>Разговорът с %1 (има %2 непрочетени съобщения)</translation>
+        <translation type="obsolete">Разговорът с %1 (има %2 непрочетени съобщения)</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Chat with %1</source>
-        <translation>Разговор с %1</translation>
+        <translation type="obsolete">Разговор с %1</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Conference %1 (%2)</source>
-        <translation>Конференция %1 (%2)</translation>
+        <translation type="obsolete">Конференция %1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -898,7 +895,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::StackedChatWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/stackedchatform/stackedchatwidget.cpp" line="+45"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/stackedchatform/stackedchatwidget.cpp" line="+46"/>
         <source>Chat Actions</source>
         <translation>Действия в разговора</translation>
     </message>
@@ -906,6 +903,16 @@ p, li { white-space: pre-wrap; }
         <location line="+3"/>
         <source>Send to</source>
         <translation>Изпращане до</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Actions</source>
+        <translation>Действия</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Navigation</source>
+        <translation>Управление</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -2049,13 +2056,12 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Подразбиращ се за qutIM диалог за настройване, с OS X стил на заглавната лента</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayerplugin.cpp" line="-44"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-34"/>
         <source>Webkit chat layer</source>
         <translation>WebKit слой за разговор</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location line="+15"/>
         <source>Default qutIM chat implementation, based on Adium chat styles</source>
         <translation>Подразбираща се за qutIM реализация на разговор. На базата на Adium стилове за разговора</translation>
     </message>
@@ -2072,7 +2078,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Добавя &quot;Начало на разговор&quot; в контекстното меню на контакта</translation>
     </message>
     <message>
-        <location line="-11"/>
+        <location line="+4"/>
         <source>Time modifier</source>
         <translation>Редактиране на време</translation>
     </message>
@@ -2316,29 +2322,24 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Реализация на Adium подобен изглед на прозореца на разговори</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayerplugin.cpp" line="+2"/>
         <source>Classic</source>
-        <translation>Клисически</translation>
+        <translation type="obsolete">Клисически</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Default qutIM chatform implementation for adiumchat</source>
-        <translation>Подразбиращ се за qutIM, Adium формуляр за разговори</translation>
+        <translation type="obsolete">Подразбиращ се за qutIM, Adium формуляр за разговори</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Mobile</source>
-        <translation>Мобилен</translation>
+        <translation type="obsolete">Мобилен</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Stacked chatform for mobile devices</source>
-        <translation>Стеков формуляр за разговори за мобилни устройства</translation>
+        <translation type="obsolete">Стеков формуляр за разговори за мобилни устройства</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Webkit</source>
-        <translation>WebKit</translation>
+        <translation type="obsolete">WebKit</translation>
     </message>
     <message>
         <source>Contact search</source>
