@@ -2744,4 +2744,8 @@
     <source>Floaties</source>
     <target>Плаващи контакти</target>
 </phrase>
+<phrase>
+    <source>Navigation</source>
+    <target>Управление</target>
+</phrase>
 </QPH>
