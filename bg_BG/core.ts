@@ -426,7 +426,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+490"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+470"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -681,7 +681,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AccountCreatorProtocols</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+74"/>
+        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+58"/>
         <source>Select protocol</source>
         <translation>Избор на протокол</translation>
     </message>
@@ -898,7 +898,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::StackedChatWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/stackedchatform/stackedchatwidget.cpp" line="+45"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/stackedchatform/stackedchatwidget.cpp" line="+46"/>
         <source>Chat Actions</source>
         <translation>Действия в разговора</translation>
     </message>
