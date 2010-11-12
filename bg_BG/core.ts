@@ -1180,7 +1180,7 @@ p, li { white-space: pre-wrap; }
         <translation>qutIM откри конфигурация от версия 0.2. Изберете профил, за да импортирате хронологията и конфигурация му.</translation>
     </message>
     <message>
-        <location line="+52"/>
+        <location line="+48"/>
         <source>Unable to find profile dir</source>
         <translation>Не бе открита директория съдържаща профил</translation>
     </message>
@@ -1301,6 +1301,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Simple messagebox</source>
         <translation type="obsolete">Обикновен прозорец със съобщения</translation>
+    </message>
+</context>
+<context>
+    <name>Core::ProfileCreationPage</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/profilecreationpage.cpp" line="+96"/>
+        <source>Warning</source>
+        <translation>Внимание</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Unable to create profile hash</source>
+        <translation>Невъзможно е създаването на хеш за профила</translation>
+    </message>
+</context>
+<context>
+    <name>Core::ProfileCreationWizard</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/profilecreationwizard.cpp" line="+123"/>
+        <source>Congratulations</source>
+        <translation>Поздравления</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>You&apos;ve just created a profile for qutIM. Click Finish to proceed to adding user accounts</source>
+        <translation>Току що създадохте профил в qutIM. Щракнете бутона &quot;Приключване&quot;, за да продължите с добавянето на потребителски сметки</translation>
     </message>
 </context>
 <context>
