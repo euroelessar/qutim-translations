@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/aescrypto/src/aescryptomodule.cpp" line="+13"/>
+        <location filename="../../qutim-meta/plugins/aescrypto/src/aescryptomodule.cpp" line="+12"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>

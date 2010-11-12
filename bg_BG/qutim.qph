@@ -2748,4 +2748,8 @@
     <source>Navigation</source>
     <target>Управление</target>
 </phrase>
+<phrase>
+    <source>Congratulations</source>
+    <target>Поздравления</target>
+</phrase>
 </QPH>
