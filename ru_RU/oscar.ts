@@ -563,7 +563,7 @@
     <message>
         <location line="+5"/>
         <source>Reg. date</source>
-        <translation>Зарегестрирован</translation>
+        <translation>Зарегистрирован</translation>
     </message>
     <message>
         <location filename="../../src/privacylists.cpp" line="+165"/>

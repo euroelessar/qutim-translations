@@ -357,12 +357,12 @@ p, li { white-space: pre-wrap; }
         <translation>Назад</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatlayerplugin.cpp" line="+52"/>
+        <location filename="../../src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="+50"/>
         <source>Insert Emoticon</source>
         <translation>Вставить смайл</translation>
     </message>
     <message>
-        <location line="+42"/>
+        <location line="+32"/>
         <source>Show Emoticons</source>
         <translation>Показать смайлы</translation>
     </message>
@@ -391,7 +391,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+490"/>
+        <location filename="../../src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+470"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
@@ -504,7 +504,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+833"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+833"/>
         <source>Remove contact</source>
         <translation>Удалить контакт</translation>
     </message>
@@ -524,12 +524,12 @@ p, li { white-space: pre-wrap; }
         <translation>Изменить метки</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="+38"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+38"/>
         <source>Copy id to clipboard</source>
         <translation>Копировать id в буфер</translation>
     </message>
     <message>
-        <location line="+70"/>
+        <location line="+69"/>
         <source>Change global status</source>
         <translation>Изменить общий статус</translation>
     </message>
@@ -539,12 +539,12 @@ p, li { white-space: pre-wrap; }
         <translation>Активировать главное меню</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location filename="../../src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp" line="+57"/>
         <source>ContactList</source>
         <translation>Контакты</translation>
     </message>
     <message>
-        <location line="+33"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+35"/>
         <source>&amp;Settings...</source>
         <translation>&amp;Настройки...</translation>
     </message>
@@ -569,7 +569,7 @@ p, li { white-space: pre-wrap; }
         <translation>Скрыть отключенных</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactlist/settings/simplecontactlistsettings.cpp" line="+18"/>
+        <location filename="../../src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp" line="+16"/>
         <source>Default (depends on platform)</source>
         <translation>По умолчанию (зависит от системы)</translation>
     </message>
@@ -650,7 +650,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+58"/>
         <source>Select protocol</source>
-        <translation>Выбрать протокол</translation>
+        <translation type="unfinished">Выберите протокол</translation>
     </message>
 </context>
 <context>
@@ -694,7 +694,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Не могу отправить сообщение для %1</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatforms/abstractchatwidget.cpp" line="+51"/>
+        <location filename="../../src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="+51"/>
         <source>Chat with %1 (have %2 unread messages)</source>
         <translation>Чат с %1 (%2 не прочитанных сообщений(е))</translation>
     </message>
@@ -874,6 +874,16 @@ p, li { white-space: pre-wrap; }
         <location line="+3"/>
         <source>Send to</source>
         <translation>Отправить в</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Actions</source>
+        <translation>Действия</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Navigation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+49"/>
@@ -1135,7 +1145,7 @@ p, li { white-space: pre-wrap; }
         <translation>qutIM  обнаружил конфигурацию из версии 0.2; выберите профиль для импорта истории и конфигурации.</translation>
     </message>
     <message>
-        <location line="+52"/>
+        <location line="+48"/>
         <source>Unable to find profile dir</source>
         <translation>Не удалось найти папку профиля</translation>
     </message>
@@ -1257,6 +1267,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Simple messagebox</source>
         <translation type="obsolete">Простое сообщение</translation>
+    </message>
+</context>
+<context>
+    <name>Core::ProfileCreationPage</name>
+    <message>
+        <location filename="../../src/profilecreationpage.cpp" line="+96"/>
+        <source>Warning</source>
+        <translation type="unfinished">Предупреждение</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Unable to create profile hash</source>
+        <translation type="unfinished">Не удалось создать хэш профиля</translation>
+    </message>
+</context>
+<context>
+    <name>Core::ProfileCreationWizard</name>
+    <message>
+        <location filename="../../src/profilecreationwizard.cpp" line="+123"/>
+        <source>Congratulations</source>
+        <translation type="unfinished">Уря</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>You&apos;ve just created a profile for qutIM. Click Finish to proceed to adding user accounts</source>
+        <translation type="unfinished">Профиль для qutIM успешно создан. Нажмите &quot;Завершить&quot; для добавления учетных записей в профиль</translation>
     </message>
 </context>
 <context>
@@ -1451,7 +1487,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Контакты</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlistmodel.cpp" line="+666"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+666"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
         <translation>Желаете обьеденить контакты &quot;%1&quot; &lt;%2&gt; И &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
@@ -1496,12 +1532,12 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">&amp;Выход</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="-41"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-41"/>
         <source>Main Toolbar</source>
         <translation>Главная панель</translation>
     </message>
     <message>
-        <location line="+58"/>
+        <location line="+56"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
@@ -1515,7 +1551,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::TreeView</name>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlistview.cpp" line="+63"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlistview.cpp" line="+63"/>
         <source>Select tags</source>
         <translation>Выбрать метки</translation>
     </message>
@@ -1528,7 +1564,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleTagsEditor</name>
     <message>
-        <location filename="../../src/corelayers/contactlist/simpletagseditor/simpletagseditor.cpp" line="+16"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simpletagseditor/simpletagseditor.cpp" line="+16"/>
         <source>Edit tags for %1</source>
         <translation>Изменить метки для %1</translation>
     </message>
@@ -2075,11 +2111,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../src/corelayers/contactlist/contactlistplugin.cpp" line="+11"/>
+        <location filename="../../src/corelayers/simplecontactlist/simplecontactlistplugin.cpp" line="+11"/>
         <source>Simple ContactList</source>
         <translation>Обычный список контактов</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../src/corelayers/simplecontactlist/simplecontactlistplugin.cpp" line="+1"/>
         <source>Default qutIM contact list implementation. Just simple</source>
         <translation>Простая реализация списка контактов qutIM&apos;а. Самая простая</translation>
     </message>
@@ -2122,13 +2160,13 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Модуль шифрования. Базовая реализация. Основан на aes256</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatlayerplugin.cpp" line="-44"/>
+        <location filename="../../src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-34"/>
         <source>Webkit chat layer</source>
         <translation>Модуль чата WebKit</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location line="+15"/>
+        <location filename="../../src/corelayers/adiumchat/webkitchatplugin.cpp" line="+12"/>
         <source>Default qutIM chat implementation, based on Adium chat styles</source>
         <translation>Модуль чата qutIM по умолчанию, основан на WebKit и темах чата для adium</translation>
     </message>
@@ -2153,7 +2191,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Модуль чата AdiumChat</translation>
     </message>
     <message>
-        <location line="-11"/>
+        <location line="+4"/>
         <source>Time modifier</source>
         <translatorcomment>Аяхз как перевести по другому, ну не модификатор времени же? // беру слова обратно, как бы короче сделать?</translatorcomment>
         <translation>Изменение параметров отображения времени</translation>
@@ -2360,15 +2398,16 @@ p, li { white-space: pre-wrap; }
         <translation>Правка звуковых тем qutIM</translation>
     </message>
     <message>
+        <location filename="../../src/corelayers/adiumchat/webkitchatplugin.cpp" line="-1"/>
         <source>Adium</source>
-        <translation type="obsolete">Adium-подобная форма чата</translation>
+        <translation type="unfinished">Adium-подобная форма чата</translation>
     </message>
     <message>
         <source>Adium-like chatform implementation for adiumchat</source>
         <translation type="obsolete">Реализация формы чата похожая на Adium&apos;овскую реализацию</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatlayerplugin.cpp" line="+2"/>
+        <location filename="../../src/corelayers/adiumchat/tabbedchatformplugin.cpp" line="+11"/>
         <source>Classic</source>
         <translation>Классическая форма чата</translation>
     </message>
@@ -2378,7 +2417,7 @@ p, li { white-space: pre-wrap; }
         <translation>Реализация формы чата (по умолчанию)</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../../src/corelayers/adiumchat/stackedchatformplugin.cpp" line="+11"/>
         <source>Mobile</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2386,11 +2425,6 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Stacked chatform for mobile devices</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>Webkit</source>
-        <translation></translation>
     </message>
     <message>
         <location filename="../../src/corelayers/soundthemeselector/soundthemeselectorplugin.cpp" line="+11"/>
@@ -2562,6 +2596,16 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Actionbox module for mobile devices with softkeys support</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/simplecontactlist/simplecontactdelegateplugin.cpp" line="+11"/>
+        <source>ContactDelegate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Just simple</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2745,7 +2789,7 @@ p, li { white-space: pre-wrap; }
         <translation>4я четверть</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplecontactlist.cpp" line="-22"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-22"/>
         <source>Copy %1 to clipboard</source>
         <translation>Копировать %1 в буфер</translation>
     </message>
@@ -2992,7 +3036,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>SimpleContactlistSettings</name>
     <message>
-        <location filename="../../src/corelayers/contactlist/settings/simplecontactlistsettings.ui" line="+14"/>
+        <location filename="../../src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -3044,7 +3088,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>SimpleStatusDialog</name>
     <message>
-        <location filename="../../src/corelayers/contactlist/simplestatusdialog.ui" line="+14"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplestatusdialog.ui" line="+14"/>
         <source>Set Status Text</source>
         <translation>Установить текст статуса</translation>
     </message>
@@ -3052,7 +3096,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>SimpleTagsEditor</name>
     <message>
-        <location filename="../../src/corelayers/contactlist/simpletagseditor/simpletagseditor.ui" line="+39"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simpletagseditor/simpletagseditor.ui" line="+39"/>
         <source>Add</source>
         <translation>Добавить</translation>
     </message>
@@ -3093,7 +3137,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/adiumchat/stackedchatform/settings/stackedchatbehavior.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location line="+48"/>
@@ -3177,7 +3221,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/adiumchat/tabbedchatform/settings/tabbedchatbehavior.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -3226,7 +3270,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>TagsFilterDialog</name>
     <message>
-        <location filename="../../src/corelayers/contactlist/tagsfilterdialog.ui" line="+14"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/tagsfilterdialog.ui" line="+14"/>
         <source>Select tags</source>
         <translation>Выберите метки</translation>
     </message>
