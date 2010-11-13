@@ -995,18 +995,30 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+37"/>
-        <source>Actions</source>
-        <translation>Действия</translation>
+        <source>&amp;Actions</source>
+        <translation>&amp;Действия</translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>Accounts</source>
-        <translation>Сметки</translation>
+        <source>Accoun&amp;ts</source>
+        <translation>Смет&amp;ки</translation>
     </message>
     <message>
         <location line="+5"/>
+        <source>&amp;Chat</source>
+        <translation>&amp;Разговор</translation>
+    </message>
+    <message>
+        <source>Actions</source>
+        <translation type="obsolete">Действия</translation>
+    </message>
+    <message>
+        <source>Accounts</source>
+        <translation type="obsolete">Сметки</translation>
+    </message>
+    <message>
         <source>Chat</source>
-        <translation>Разговор</translation>
+        <translation type="obsolete">Разговор</translation>
     </message>
     <message>
         <source>Chat with %1 (have %2 unread messages)</source>
@@ -3139,8 +3151,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+7"/>
+        <source>Show menubar</source>
+        <translation>Показване на лентата с менюто</translation>
+    </message>
+    <message>
         <source>Menubar</source>
-        <translation>Главна лента</translation>
+        <translation type="obsolete">Главна лента</translation>
     </message>
 </context>
 <context>
