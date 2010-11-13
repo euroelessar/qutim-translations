@@ -974,7 +974,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::TabbedChatWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/tabbedchatform/tabbedchatwidget.cpp" line="+44"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/tabbedchatform/tabbedchatwidget.cpp" line="+46"/>
         <source>Chat Actions</source>
         <translation>Действия в разговора</translation>
     </message>
@@ -984,14 +984,29 @@ p, li { white-space: pre-wrap; }
         <translation>Изпращане до</translation>
     </message>
     <message>
-        <location line="+30"/>
+        <location line="+31"/>
         <source>Session list</source>
         <translation>Списък на сесиите</translation>
     </message>
     <message>
-        <location line="+46"/>
+        <location line="+49"/>
         <source>Send</source>
         <translation>Изпращане</translation>
+    </message>
+    <message>
+        <location line="+37"/>
+        <source>Actions</source>
+        <translation>Действия</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Accounts</source>
+        <translation>Сметки</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Chat</source>
+        <translation>Разговор</translation>
     </message>
     <message>
         <source>Chat with %1 (have %2 unread messages)</source>
@@ -1217,7 +1232,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+111"/>
-        <location line="+26"/>
+        <location line="+30"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки на qutIM - %1</translation>
     </message>
@@ -1512,8 +1527,8 @@ p, li { white-space: pre-wrap; }
         <translation>Статус</translation>
     </message>
     <message>
-        <location line="+54"/>
-        <location line="+225"/>
+        <location line="+55"/>
+        <location line="+223"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
@@ -2904,7 +2919,7 @@ p, li { white-space: pre-wrap; }
         <translation>Настройки на списъка с контакти</translation>
     </message>
     <message>
-        <location line="+57"/>
+        <location line="+33"/>
         <source>Show extended icons</source>
         <translation>Показване на допълнителни икони</translation>
     </message>
@@ -3105,7 +3120,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+7"/>
         <source>Don&apos;t group messages after (sec):</source>
-        <translation>Да не се групират съобщенията след (след):</translation>
+        <translation>Да не се групират съобщенията след (сек.):</translation>
     </message>
     <message>
         <location line="+56"/>
@@ -3120,7 +3135,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+13"/>
         <source>Chat state icons on tabs</source>
-        <translation>Покоазване на икони за състояние на разговора в разделите</translation>
+        <translation>Показване на икони за състояние на разговора в разделите</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Menubar</source>
+        <translation>Главна лента</translation>
     </message>
 </context>
 <context>
