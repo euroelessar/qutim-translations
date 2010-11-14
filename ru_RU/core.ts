@@ -648,7 +648,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AccountCreatorProtocols</name>
     <message>
-        <location filename="../../src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+58"/>
+        <location filename="../../src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+59"/>
         <source>Select protocol</source>
         <translation type="unfinished">Выберите протокол</translation>
     </message>
@@ -883,17 +883,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Навигация</translation>
     </message>
     <message>
-        <location line="+49"/>
+        <location line="+47"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Слева</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Справа</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -942,7 +942,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::TabbedChatWidget</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/tabbedchatform/tabbedchatwidget.cpp" line="+44"/>
+        <location filename="../../src/corelayers/adiumchat/tabbedchatform/tabbedchatwidget.cpp" line="+46"/>
         <source>Chat Actions</source>
         <translation>Действия чата</translation>
     </message>
@@ -952,14 +952,29 @@ p, li { white-space: pre-wrap; }
         <translation>Отправить в</translation>
     </message>
     <message>
-        <location line="+30"/>
+        <location line="+31"/>
         <source>Session list</source>
         <translation>Список сеансов</translation>
     </message>
     <message>
-        <location line="+46"/>
+        <location line="+49"/>
         <source>Send</source>
         <translation>Отправить</translation>
+    </message>
+    <message>
+        <location line="+37"/>
+        <source>&amp;Actions</source>
+        <translation type="unfinished">&amp;Действия</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Accoun&amp;ts</source>
+        <translation type="unfinished">Учетные &amp;записи</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">&amp;Чат</translation>
     </message>
     <message>
         <source>Chat with %1 (have %2 unread messages)</source>
@@ -1182,7 +1197,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+111"/>
-        <location line="+26"/>
+        <location line="+30"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки qutIM - %1</translation>
     </message>
@@ -1542,8 +1557,8 @@ p, li { white-space: pre-wrap; }
         <translation>Статус</translation>
     </message>
     <message>
-        <location line="+54"/>
-        <location line="+225"/>
+        <location line="+55"/>
+        <location line="+223"/>
         <source>Set Status Text</source>
         <translation>Установить текст статуса</translation>
     </message>
@@ -3041,7 +3056,7 @@ p, li { white-space: pre-wrap; }
         <translation>Настройки</translation>
     </message>
     <message>
-        <location line="+33"/>
+        <location line="+9"/>
         <source>Status icons size:</source>
         <translation>Размер иконок статуса:</translation>
     </message>
@@ -3265,6 +3280,11 @@ p, li { white-space: pre-wrap; }
         <location line="+13"/>
         <source>Chat state icons on tabs</source>
         <translation type="unfinished">Значек состояния чата на вкладке</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show menubar</source>
+        <translation type="unfinished">Показывать панель меню</translation>
     </message>
 </context>
 <context>
