@@ -241,8 +241,12 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Ffishing</source>
+        <source>Fishing</source>
         <translation>На риболов</translation>
+    </message>
+    <message>
+        <source>Ffishing</source>
+        <translation type="obsolete">На риболов</translation>
     </message>
     <message>
         <location line="+1"/>
