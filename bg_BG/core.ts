@@ -681,7 +681,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AccountCreatorProtocols</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+58"/>
+        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+59"/>
         <source>Select protocol</source>
         <translation>Избор на протокол</translation>
     </message>
@@ -918,7 +918,7 @@ p, li { white-space: pre-wrap; }
         <translation>Управление</translation>
     </message>
     <message>
-        <location line="+49"/>
+        <location line="+47"/>
         <source>Left</source>
         <translation>Ляво</translation>
     </message>
