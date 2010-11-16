@@ -4,9 +4,32 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/connectionmanager/src/connectionmanager.cpp" line="+41"/>
+        <location filename="../../qutim-meta/plugins/connectionmanager/src/connectionmanager.cpp" line="+45"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
+    </message>
+</context>
+<context>
+    <name>ConnectionManager::ConnectionManager</name>
+    <message>
+        <location line="+71"/>
+        <source>within %1 seconds</source>
+        <translation>в рамките на %1 секунди</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>immediately</source>
+        <translation>незабавно</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>%1 will be reconnected %2</source>
+        <translation>%1 ще се свърже повторно %2</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>ConnectionManager</source>
+        <translation>Управление на връзката</translation>
     </message>
 </context>
 <context>
@@ -25,7 +48,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/plugins/connectionmanager/src/connectionmanager.cpp" line="-3"/>
+        <location filename="../../qutim-meta/plugins/connectionmanager/src/connectionmanager.cpp" line="-79"/>
         <source>ConnectionManager</source>
         <translation>Управление на връзката</translation>
     </message>
@@ -38,7 +61,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location line="+22"/>
+        <location line="+24"/>
         <source>Connection manager</source>
         <translation>Управление на връзката</translation>
     </message>
@@ -46,7 +69,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location line="-19"/>
+        <location line="-21"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>

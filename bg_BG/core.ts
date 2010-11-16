@@ -574,7 +574,7 @@ p, li { white-space: pre-wrap; }
         <translation>Избор на етикети</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+6"/>
         <source>Show/Hide offline</source>
         <translation>Показване/Скриване на контактите извън линия</translation>
     </message>
@@ -584,7 +584,7 @@ p, li { white-space: pre-wrap; }
         <translation>Скриване на контактите извън линия</translation>
     </message>
     <message>
-        <location line="-142"/>
+        <location line="-143"/>
         <source>Copy id to clipboard</source>
         <translation>Копиране в клипборда</translation>
     </message>
@@ -1539,7 +1539,7 @@ p, li { white-space: pre-wrap; }
         <translation>Главна лентата с инструменти</translation>
     </message>
     <message>
-        <location line="+60"/>
+        <location line="+61"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
@@ -3123,12 +3123,12 @@ p, li { white-space: pre-wrap; }
         <translation>Настройки на разделния формуляр</translation>
     </message>
     <message>
-        <location line="+24"/>
+        <location line="+98"/>
         <source>Send Key</source>
         <translation>Клавиши за изпращане</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="-74"/>
         <source>Store service messages in history</source>
         <translation>Съхраняване на служебните съобщения в хронологията</translation>
     </message>
@@ -3143,22 +3143,22 @@ p, li { white-space: pre-wrap; }
         <translation>Брой на последните показвани съобщения:</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+10"/>
         <source>Don&apos;t group messages after (sec):</source>
         <translation>Да не се групират съобщенията след (сек.):</translation>
     </message>
     <message>
-        <location line="+56"/>
+        <location line="+14"/>
         <source>Tab position:</source>
         <translation>Позиция на раздела:</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+10"/>
         <source>Form layout:</source>
         <translation>Разположение на формуляра:</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="+10"/>
         <source>Chat state icons on tabs</source>
         <translation>Показване на икони за състояние на разговора в разделите</translation>
     </message>
