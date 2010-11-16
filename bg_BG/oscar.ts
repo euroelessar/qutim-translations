@@ -368,7 +368,7 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/inforequest.cpp" line="+37"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/inforequest.cpp" line="+38"/>
         <source>General</source>
         <translation>Обща</translation>
     </message>
@@ -551,7 +551,7 @@
         <translation type="obsolete">Вероятен клиент</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/icqcontact.cpp" line="+122"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/icqcontact.cpp" line="+133"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
@@ -3897,6 +3897,14 @@ p, li { white-space: pre-wrap; }
         <location line="-128"/>
         <source>Show client icon</source>
         <translation>Показване иконите на клиентите</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::oscar::IcqInfoRequest</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/oscar/src/inforequest.cpp" line="+39"/>
+        <source>You are sending information requests too often</source>
+        <translation>Изпращате заявки за информация твърде често</translation>
     </message>
 </context>
 <context>

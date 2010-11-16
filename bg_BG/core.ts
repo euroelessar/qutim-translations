@@ -458,7 +458,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/contactinfo/contactinfo.cpp" line="+208"/>
+        <location filename="../../qutim-meta/core/src/corelayers/contactinfo/contactinfo.cpp" line="+212"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -472,7 +472,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">не е зададено</translation>
     </message>
     <message>
-        <location line="-160"/>
+        <location line="-163"/>
         <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+63"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>Информация за %1 &lt;%2&gt;</translation>
@@ -504,7 +504,7 @@ p, li { white-space: pre-wrap; }
         <translation>Аватар</translation>
     </message>
     <message>
-        <location line="+76"/>
+        <location line="+80"/>
         <source>Summary</source>
         <translation>Обобщенa</translation>
     </message>
@@ -514,7 +514,7 @@ p, li { white-space: pre-wrap; }
         <translation>Основна</translation>
     </message>
     <message>
-        <location line="+107"/>
+        <location line="+106"/>
         <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+172"/>
         <source>Show information</source>
         <translation>Показване на информация</translation>
@@ -569,7 +569,12 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Изход</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="+15"/>
+        <source>Select tags</source>
+        <translation>Избор на етикети</translation>
+    </message>
+    <message>
+        <location line="+6"/>
         <source>Show/Hide offline</source>
         <translation>Показване/Скриване на контактите извън линия</translation>
     </message>
@@ -579,7 +584,7 @@ p, li { white-space: pre-wrap; }
         <translation>Скриване на контактите извън линия</translation>
     </message>
     <message>
-        <location line="-138"/>
+        <location line="-143"/>
         <source>Copy id to clipboard</source>
         <translation>Копиране в клипборда</translation>
     </message>
@@ -1534,21 +1539,18 @@ p, li { white-space: pre-wrap; }
         <translation>Главна лентата с инструменти</translation>
     </message>
     <message>
-        <location line="+56"/>
+        <location line="+61"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
     <message>
         <location line="+55"/>
-        <location line="+223"/>
+        <location line="+232"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
-</context>
-<context>
-    <name>Core::SimpleContactList::TreeView</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistview.cpp" line="+63"/>
+        <location line="-25"/>
         <source>Select tags</source>
         <translation>Избор на етикети</translation>
     </message>
@@ -1556,6 +1558,17 @@ p, li { white-space: pre-wrap; }
         <location line="+2"/>
         <source>Reset</source>
         <translation>Нулиране</translation>
+    </message>
+</context>
+<context>
+    <name>Core::SimpleContactList::TreeView</name>
+    <message>
+        <source>Select tags</source>
+        <translation type="obsolete">Избор на етикети</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation type="obsolete">Нулиране</translation>
     </message>
 </context>
 <context>
@@ -1589,7 +1602,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>DataForms</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/dataformsbackend/widgets.cpp" line="+62"/>
+        <location filename="../../qutim-meta/core/src/corelayers/dataformsbackend/widgets.cpp" line="+63"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -2677,7 +2690,7 @@ p, li { white-space: pre-wrap; }
         <translation>Четвърто тримесечие</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-22"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-8"/>
         <source>Copy %1 to clipboard</source>
         <translation>Копиране на %1 в клипборда</translation>
     </message>
@@ -3110,12 +3123,12 @@ p, li { white-space: pre-wrap; }
         <translation>Настройки на разделния формуляр</translation>
     </message>
     <message>
-        <location line="+24"/>
+        <location line="+98"/>
         <source>Send Key</source>
         <translation>Клавиши за изпращане</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="-74"/>
         <source>Store service messages in history</source>
         <translation>Съхраняване на служебните съобщения в хронологията</translation>
     </message>
@@ -3130,22 +3143,22 @@ p, li { white-space: pre-wrap; }
         <translation>Брой на последните показвани съобщения:</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+10"/>
         <source>Don&apos;t group messages after (sec):</source>
         <translation>Да не се групират съобщенията след (сек.):</translation>
     </message>
     <message>
-        <location line="+56"/>
+        <location line="+14"/>
         <source>Tab position:</source>
         <translation>Позиция на раздела:</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+10"/>
         <source>Form layout:</source>
         <translation>Разположение на формуляра:</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="+10"/>
         <source>Chat state icons on tabs</source>
         <translation>Показване на икони за състояние на разговора в разделите</translation>
     </message>
