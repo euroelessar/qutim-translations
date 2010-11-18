@@ -135,7 +135,17 @@ p, li { white-space: pre-wrap; }
         <translation>Изпращане на съобщение до %1 (%2/%3), оставащо време: %4</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="+12"/>
+        <source>Finished</source>
+        <translation>Готово</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Error</source>
+        <translation>Грешка</translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Start</source>
         <translation>Начало</translation>
     </message>

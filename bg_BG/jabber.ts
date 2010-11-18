@@ -1572,7 +1572,7 @@ Accept invitation?</source>
         <translation>Тема:</translation>
     </message>
     <message>
-        <location line="+22"/>
+        <location line="+25"/>
         <source>Not authorized: Password required.</source>
         <translation>Липсва удостоверение: Изисква се парола.</translation>
     </message>
