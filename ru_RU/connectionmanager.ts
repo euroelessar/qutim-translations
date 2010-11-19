@@ -4,9 +4,32 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/connectionmanager.cpp" line="+41"/>
+        <location filename="../../src/connectionmanager.cpp" line="+45"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
+    </message>
+</context>
+<context>
+    <name>ConnectionManager::ConnectionManager</name>
+    <message>
+        <location line="+71"/>
+        <source>within %1 seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>immediately</source>
+        <translation type="unfinished">немедленно</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>%1 will be reconnected %2</source>
+        <translation type="unfinished">%1 будет переподключен %2</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>ConnectionManager</source>
+        <translation type="unfinished">Менеджер соединения</translation>
     </message>
 </context>
 <context>
@@ -25,7 +48,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../src/connectionmanager.cpp" line="-3"/>
+        <location filename="../../src/connectionmanager.cpp" line="-79"/>
         <source>ConnectionManager</source>
         <translation>Менеджер соединения</translation>
     </message>
@@ -38,7 +61,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location line="+22"/>
+        <location line="+24"/>
         <source>Connection manager</source>
         <translation>Менеджер подключений</translation>
     </message>
@@ -46,7 +69,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location line="-19"/>
+        <location line="-21"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>

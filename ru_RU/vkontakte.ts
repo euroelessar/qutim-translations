@@ -63,7 +63,7 @@
         <translation>Дом. Телефон</translation>
     </message>
     <message>
-        <location filename="../../src/vcontact.cpp" line="+184"/>
+        <location filename="../../src/vcontact.cpp" line="+187"/>
         <location filename="../../src/vinforequest.cpp" line="+1"/>
         <source>Mobile phone</source>
         <translation>Мобильный</translation>

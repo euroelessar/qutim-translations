@@ -397,18 +397,18 @@
         <translation type="unfinished">Искать канал...</translation>
     </message>
     <message>
-        <location filename="../../src/ircaccount.cpp" line="+369"/>
+        <location filename="../../src/ircaccount.cpp" line="+370"/>
         <source>Join channel</source>
         <translation type="unfinished">Подключиться к каналу</translation>
     </message>
     <message>
-        <location line="-310"/>
-        <location line="+314"/>
+        <location line="-311"/>
+        <location line="+315"/>
         <source>Channel</source>
         <translation>Канал</translation>
     </message>
     <message>
-        <location line="-312"/>
+        <location line="-313"/>
         <source>Autojoin</source>
         <translation type="unfinished">Автовход</translation>
     </message>
@@ -418,7 +418,7 @@
         <translation type="unfinished">Да</translation>
     </message>
     <message>
-        <location line="+310"/>
+        <location line="+311"/>
         <source>Name</source>
         <translation type="unfinished">Имя</translation>
     </message>
@@ -597,7 +597,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcAccount</name>
     <message>
-        <location filename="../../src/ircaccount.cpp" line="-210"/>
+        <location filename="../../src/ircaccount.cpp" line="-211"/>
         <source>Away</source>
         <translation>Отошел</translation>
     </message>

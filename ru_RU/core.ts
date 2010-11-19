@@ -391,7 +391,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+470"/>
+        <location filename="../../src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+468"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
@@ -423,7 +423,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="+208"/>
+        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="+212"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -437,7 +437,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">-</translation>
     </message>
     <message>
-        <location line="-160"/>
+        <location line="-163"/>
         <location filename="../../src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+63"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>Информация о %1 &lt;%2&gt;</translation>
@@ -469,7 +469,7 @@ p, li { white-space: pre-wrap; }
         <translation>Аватар</translation>
     </message>
     <message>
-        <location line="+76"/>
+        <location line="+80"/>
         <source>Summary</source>
         <translation>Краткая сводка</translation>
     </message>
@@ -479,7 +479,7 @@ p, li { white-space: pre-wrap; }
         <translation>Главные</translation>
     </message>
     <message>
-        <location line="+107"/>
+        <location line="+106"/>
         <location filename="../../src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+172"/>
         <source>Show information</source>
         <translation>Показать информацию</translation>
@@ -504,7 +504,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+833"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+835"/>
         <source>Remove contact</source>
         <translation>Удалить контакт</translation>
     </message>
@@ -514,7 +514,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавить в ростер</translation>
     </message>
     <message>
-        <location line="-761"/>
+        <location line="-763"/>
         <source>Rename contact</source>
         <translation>Переименовать</translation>
     </message>
@@ -559,7 +559,12 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Выход</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="+15"/>
+        <source>Select tags</source>
+        <translation type="unfinished">Выбрать метки</translation>
+    </message>
+    <message>
+        <location line="+6"/>
         <source>Show/Hide offline</source>
         <translation>Показать/Скрыть отключенных</translation>
     </message>
@@ -746,7 +751,7 @@ p, li { white-space: pre-wrap; }
         <translation>Безымянный</translation>
     </message>
     <message>
-        <location line="+65"/>
+        <location line="+63"/>
         <location line="+80"/>
         <source>Unable to create chat session</source>
         <translation>Не могу создать сессию чата</translation>
@@ -1186,7 +1191,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::MobileSettingsWindow</name>
     <message>
-        <location filename="../../src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp" line="+72"/>
+        <location filename="../../src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp" line="+73"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
@@ -1196,8 +1201,8 @@ p, li { white-space: pre-wrap; }
         <translation>Закрыть</translation>
     </message>
     <message>
-        <location line="+111"/>
-        <location line="+30"/>
+        <location line="+105"/>
+        <location line="+31"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки qutIM - %1</translation>
     </message>
@@ -1502,7 +1507,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Контакты</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+666"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+668"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
         <translation>Желаете обьеденить контакты &quot;%1&quot; &lt;%2&gt; И &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
@@ -1547,33 +1552,41 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">&amp;Выход</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-41"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-46"/>
         <source>Main Toolbar</source>
         <translation>Главная панель</translation>
     </message>
     <message>
-        <location line="+56"/>
+        <location line="+61"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
     <message>
         <location line="+55"/>
-        <location line="+223"/>
+        <location line="+232"/>
         <source>Set Status Text</source>
         <translation>Установить текст статуса</translation>
+    </message>
+    <message>
+        <location line="-25"/>
+        <source>Select tags</source>
+        <translation type="unfinished">Выбрать метки</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Reset</source>
+        <translation type="unfinished">Сброс</translation>
     </message>
 </context>
 <context>
     <name>Core::SimpleContactList::TreeView</name>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlistview.cpp" line="+63"/>
         <source>Select tags</source>
-        <translation>Выбрать метки</translation>
+        <translation type="obsolete">Выбрать метки</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Reset</source>
-        <translation>Сброс</translation>
+        <translation type="obsolete">Сброс</translation>
     </message>
 </context>
 <context>
@@ -1612,7 +1625,7 @@ p, li { white-space: pre-wrap; }
         <translation>Не важно</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/dataformsbackend/widgets.cpp" line="+62"/>
+        <location filename="../../src/corelayers/dataformsbackend/widgets.cpp" line="+63"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -2804,7 +2817,7 @@ p, li { white-space: pre-wrap; }
         <translation>4я четверть</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-22"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-8"/>
         <source>Copy %1 to clipboard</source>
         <translation>Копировать %1 в буфер</translation>
     </message>
@@ -3239,12 +3252,12 @@ p, li { white-space: pre-wrap; }
         <translation>Настройки</translation>
     </message>
     <message>
-        <location line="+24"/>
+        <location line="+98"/>
         <source>Send Key</source>
         <translation>Кнопка отправки сообщения</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="-74"/>
         <source>Store service messages in history</source>
         <translation>Хранить служебные сообщения в истории</translation>
     </message>
@@ -3262,22 +3275,22 @@ p, li { white-space: pre-wrap; }
         <translation>Количество предыдущих сообщений:</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+10"/>
         <source>Don&apos;t group messages after (sec):</source>
         <translation>Не группировать сообщения после (сек):</translation>
     </message>
     <message>
-        <location line="+56"/>
+        <location line="+14"/>
         <source>Tab position:</source>
         <translation>Расположение вкладок чата:</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+10"/>
         <source>Form layout:</source>
         <translation>Формат чата:</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="+10"/>
         <source>Chat state icons on tabs</source>
         <translation type="unfinished">Значек состояния чата на вкладке</translation>
     </message>

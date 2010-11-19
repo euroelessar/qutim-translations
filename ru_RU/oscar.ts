@@ -210,7 +210,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../src/connection.cpp" line="+326"/>
+        <location filename="../../src/connection.cpp" line="+322"/>
         <source>Invalid nick or password</source>
         <translation>Неверный ник или пароль</translation>
     </message>
@@ -392,7 +392,7 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../src/inforequest.cpp" line="+37"/>
+        <location filename="../../src/inforequest.cpp" line="+38"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
@@ -541,7 +541,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../src/icqcontact.cpp" line="+122"/>
+        <location filename="../../src/icqcontact.cpp" line="+133"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
@@ -2011,7 +2011,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+21"/>
         <source>System</source>
-        <translation type="unfinished">Системная</translation>
+        <translation type="unfinished">Система</translation>
     </message>
 </context>
 <context>
@@ -3428,6 +3428,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+3"/>
         <source>Unknown privacy</source>
+        <translatorcomment>а как, а что?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3449,7 +3450,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../src/connection.cpp" line="-344"/>
+        <location filename="../../src/connection.cpp" line="-340"/>
         <source>Invalid SNAC header</source>
         <translation>Неверный заголовок SNAC</translation>
     </message>
@@ -3919,6 +3920,14 @@ p, li { white-space: pre-wrap; }
         <location line="-128"/>
         <source>Show client icon</source>
         <translation type="unfinished">Показывать иконку клиента</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::oscar::IcqInfoRequest</name>
+    <message>
+        <location filename="../../src/inforequest.cpp" line="+39"/>
+        <source>You are sending information requests too often</source>
+        <translation type="unfinished">Вы отправляете информационные запросы слишком часто</translation>
     </message>
 </context>
 <context>

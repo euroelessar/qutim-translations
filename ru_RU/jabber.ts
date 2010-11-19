@@ -242,7 +242,7 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Ffishing</source>
+        <source>Fishing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1576,7 +1576,7 @@ Accept invitation?</source>
         <translation>Тема:</translation>
     </message>
     <message>
-        <location line="+22"/>
+        <location line="+25"/>
         <source>Not authorized: Password required.</source>
         <translation>Не авторизован: Требуется пароль.</translation>
     </message>
