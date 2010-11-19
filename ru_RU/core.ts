@@ -116,7 +116,7 @@
         <location filename="../../src/corelayers/addcontactdlg/addcontact.ui" line="+14"/>
         <location filename="../../src/corelayers/addcontactdlg/addcontact.cpp" line="+43"/>
         <source>Add contact</source>
-        <translation>Добавить</translation>
+        <translation>Добавить контакт</translation>
     </message>
     <message>
         <location line="+33"/>
