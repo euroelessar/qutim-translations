@@ -1699,12 +1699,12 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JRoster</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+183"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+184"/>
         <source>Not in list</source>
         <translation>Извън списъка</translation>
     </message>
     <message>
-        <location line="+115"/>
+        <location line="+119"/>
         <source>You were authorized</source>
         <translation>Дадено ви бе удостоверение</translation>
     </message>

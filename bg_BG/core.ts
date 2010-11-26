@@ -221,6 +221,7 @@ p, li { white-space: pre-wrap; }
         <translation>Алексей Прохин</translation>
     </message>
     <message>
+        <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogplugin.cpp" line="+29"/>
         <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+19"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
@@ -426,7 +427,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+468"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+464"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -526,12 +527,12 @@ p, li { white-space: pre-wrap; }
         <translation>Редактиране на информацията</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogimpl_p.h" line="+23"/>
+        <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogimpl_p.h" line="+26"/>
         <source>Recieved authorizarion request from %1:</source>
         <translation>Получена заявка за удостоверяване от %1:</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>Send authorizarion request to %1:</source>
         <translation>Заявка за удостоверяване от %1:</translation>
     </message>
@@ -1238,7 +1239,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::MobileSettingsWindow</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp" line="+72"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp" line="+73"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
@@ -1248,8 +1249,8 @@ p, li { white-space: pre-wrap; }
         <translation>Затваряне</translation>
     </message>
     <message>
-        <location line="+111"/>
-        <location line="+30"/>
+        <location line="+105"/>
+        <location line="+31"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки на qutIM - %1</translation>
     </message>
@@ -1423,7 +1424,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProtocolChooserWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/protocolchooserwidget.cpp" line="+101"/>
+        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/protocolchooserwidget.cpp" line="+105"/>
         <source>To take effect you must restart qutIM</source>
         <translation>За да влязат в сила промените, qutIM трябва да бъде рестартиран</translation>
     </message>
@@ -1480,7 +1481,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ServiceChooserWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/servicechooserwidget.cpp" line="+113"/>
+        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/servicechooserwidget.cpp" line="+117"/>
         <source>To take effect you must restart qutIM</source>
         <translation>За да влязат в сила промените, qutIM трябва да бъде рестартиран</translation>
     </message>
@@ -2243,12 +2244,14 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Подразбираща се за qutIM реализация на икони. На базата на Q-XDG библиотеката</translation>
     </message>
     <message>
+        <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogplugin.cpp" line="-3"/>
         <source>Authorization dialog</source>
-        <translation type="obsolete">Диалог за удостоверяване</translation>
+        <translation>Диалог за удостоверяване</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Simple authorization dialog</source>
-        <translation type="obsolete">Обикновен диалог за удостоверяване</translation>
+        <translation>Обикновен диалог за удостоверяване</translation>
     </message>
     <message>
         <source>Simple password dialog</source>
@@ -3183,6 +3186,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Task</name>
     <message>
+        <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogplugin.cpp" line="+3"/>
         <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+3"/>
         <location filename="../../qutim-meta/core/src/corelayers/searchdialog/searchdialogplugin.cpp" line="-10"/>
         <source>Author</source>
@@ -3192,7 +3196,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ToolTip</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/buddy.cpp" line="+100"/>
+        <location filename="../../qutim-meta/core/libqutim/buddy.cpp" line="+75"/>
         <source>Account</source>
         <translation>Сметка</translation>
     </message>
