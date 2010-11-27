@@ -581,7 +581,17 @@
         <translation>Удостоверяване</translation>
     </message>
     <message>
-        <location line="+87"/>
+        <location line="+54"/>
+        <source>Authorization request accepted</source>
+        <translation>Заявката за удостоверяване бе приета</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Authorization request declined</source>
+        <translation>Заявката за удостоверяване бе отхвърлена</translation>
+    </message>
+    <message>
+        <location line="+38"/>
         <source>Please, authorize me</source>
         <translation>Моля за удостоверение</translation>
     </message>

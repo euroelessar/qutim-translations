@@ -1704,19 +1704,31 @@ Accept invitation?</source>
         <translation>Извън списъка</translation>
     </message>
     <message>
-        <location line="+119"/>
+        <location line="+117"/>
+        <source>You have been added to the list of subscribers</source>
+        <translation>Бяхте добавени в списъка с абонати</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>You have been removed from the list of subscribers</source>
+        <translation>Бяхте премахнати от списъка с абонати</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Received a request for removal from the subscribers</source>
+        <translation>Получи се заявка за премахване от списъка с абонати</translation>
+    </message>
+    <message>
         <source>You were authorized</source>
-        <translation>Дадено ви бе удостоверение</translation>
+        <translation type="obsolete">Дадено ви бе удостоверение</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Your authorization was removed</source>
-        <translation>Удостоверението ви бе премахнато</translation>
+        <translation type="obsolete">Удостоверението ви бе премахнато</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Contacts&apos;s authorization was removed</source>
-        <translation>Удостоверението на контакта бе премахнато</translation>
+        <translation type="obsolete">Удостоверението на контакта бе премахнато</translation>
     </message>
 </context>
 <context>

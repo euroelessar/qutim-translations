@@ -527,7 +527,7 @@ p, li { white-space: pre-wrap; }
         <translation>Редактиране на информацията</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogimpl_p.h" line="+26"/>
+        <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogimpl_p.h" line="+27"/>
         <source>Recieved authorizarion request from %1:</source>
         <translation>Получена заявка за удостоверяване от %1:</translation>
     </message>
