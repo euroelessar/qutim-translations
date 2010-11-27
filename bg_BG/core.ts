@@ -426,7 +426,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+468"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+464"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -1238,7 +1238,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::MobileSettingsWindow</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp" line="+72"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp" line="+73"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
@@ -1248,8 +1248,8 @@ p, li { white-space: pre-wrap; }
         <translation>Затваряне</translation>
     </message>
     <message>
-        <location line="+111"/>
-        <location line="+30"/>
+        <location line="+105"/>
+        <location line="+31"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки на qutIM - %1</translation>
     </message>
@@ -3192,7 +3192,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ToolTip</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/buddy.cpp" line="+100"/>
+        <location filename="../../qutim-meta/core/libqutim/buddy.cpp" line="+75"/>
         <source>Account</source>
         <translation>Сметка</translation>
     </message>
