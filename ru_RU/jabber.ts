@@ -1471,7 +1471,7 @@ Accept invitation?</source>
         <location line="-24"/>
         <location line="+30"/>
         <source> registered member</source>
-        <translation> регистрированный</translation>
+        <translation type="unfinished"> зарегистрированный участник</translation>
     </message>
     <message>
         <source> member</source>

@@ -391,7 +391,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+468"/>
+        <location filename="../../src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+464"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
@@ -1401,7 +1401,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">&lt;b&gt;Веб-страничка:&lt;/b&gt; &lt;a href=&quot;%1&quot; title=&quot;Хомячок&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/servicechooser/protocolchooserwidget.cpp" line="+101"/>
+        <location filename="../../src/corelayers/servicechooser/protocolchooserwidget.cpp" line="+105"/>
         <source>To take effect you must restart qutIM</source>
         <translation>Требуется перезапуск qutIM</translation>
     </message>
@@ -1482,7 +1482,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">&lt;b&gt;Веб-страничка:&lt;/b&gt; &lt;a href=&quot;%1&quot; title=&quot;Хомячок&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/servicechooser/servicechooserwidget.cpp" line="+113"/>
+        <location filename="../../src/corelayers/servicechooser/servicechooserwidget.cpp" line="+117"/>
         <source>To take effect you must restart qutIM</source>
         <translation>Требуется перезапуск qutIM</translation>
     </message>
@@ -3292,7 +3292,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+10"/>
         <source>Chat state icons on tabs</source>
-        <translation type="unfinished">Значек состояния чата на вкладке</translation>
+        <translation type="unfinished">Значок состояния чата на вкладке</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3320,7 +3320,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ToolTip</name>
     <message>
-        <location filename="../../libqutim/buddy.cpp" line="+100"/>
+        <location filename="../../libqutim/buddy.cpp" line="+75"/>
         <source>Account</source>
         <translation>Учетная запись</translation>
     </message>

@@ -551,7 +551,7 @@
         <translation type="obsolete">Вероятен клиент</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/icqcontact.cpp" line="+133"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/icqcontact.cpp" line="+134"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
@@ -576,12 +576,12 @@
         <translation>Регистрация от</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/authorization.cpp" line="+15"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/authorization.cpp" line="+17"/>
         <source>Ask authorization</source>
         <translation>Удостоверяване</translation>
     </message>
     <message>
-        <location line="+95"/>
+        <location line="+87"/>
         <source>Please, authorize me</source>
         <translation>Моля за удостоверение</translation>
     </message>
