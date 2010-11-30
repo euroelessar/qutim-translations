@@ -1339,12 +1339,18 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileCreationPage</name>
     <message>
-        <location filename="../../qutim-meta/core/src/profilecreationpage.cpp" line="+96"/>
+        <location filename="../../qutim-meta/core/src/profilecreationpage.cpp" line="+97"/>
+        <location line="+8"/>
         <source>Warning</source>
         <translation>Внимание</translation>
     </message>
     <message>
-        <location line="+0"/>
+        <location line="-7"/>
+        <source>Profile hash is already exist, override?</source>
+        <translation>Прфилът вече съществува, желаете ли да бъде презаписан?</translation>
+    </message>
+    <message>
+        <location line="+7"/>
         <source>Unable to create profile hash</source>
         <translation>Невъзможно е създаването на хеш за профила</translation>
     </message>
@@ -3388,7 +3394,7 @@ p, li { white-space: pre-wrap; }
  %1</translation>
     </message>
     <message>
-        <location line="+100"/>
+        <location line="+110"/>
         <source>Could not init plugin: 
  %1</source>
         <translation>Неуспешно инициализиране на добавка: 
