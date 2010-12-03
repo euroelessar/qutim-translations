@@ -2752,4 +2752,8 @@
     <source>Congratulations</source>
     <target>Поздравления</target>
 </phrase>
+<phrase>
+    <source>Proxy support</source>
+    <target>Поддръжка на прокси</target>
+</phrase>
 </QPH>

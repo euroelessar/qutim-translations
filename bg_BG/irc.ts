@@ -57,7 +57,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircplugin.cpp" line="+33"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircplugin.cpp" line="+34"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
     </message>
@@ -566,11 +566,25 @@
     </message>
     <message>
         <location line="+3"/>
-        <source>ICQ account creator</source>
+        <source>IRC account creator</source>
         <translation>Създаване на IRC сметка</translation>
     </message>
     <message>
+        <location line="+4"/>
+        <source>Proxy support</source>
+        <translation>Поддръжка на прокси</translation>
+    </message>
+    <message>
         <location line="+1"/>
+        <source>Proxy support for IRC protocol</source>
+        <translation>Поддръжка на прокси за IRC протокола</translation>
+    </message>
+    <message>
+        <source>ICQ account creator</source>
+        <translation type="obsolete">Създаване на IRC сметка</translation>
+    </message>
+    <message>
+        <location line="-4"/>
         <source>Account creator for IRC protocol</source>
         <translation>Създаване на сметка за IRC протокола</translation>
     </message>
@@ -710,7 +724,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircconnection.cpp" line="+173"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircconnection.cpp" line="+176"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
     </message>

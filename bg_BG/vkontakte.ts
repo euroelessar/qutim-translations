@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="+31"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="+32"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -258,6 +258,16 @@
         <translation>Създаване на сметка за ВКонтакте</translation>
     </message>
     <message>
+        <location line="+3"/>
+        <source>Proxy support</source>
+        <translation>Поддръжка на прокси</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Proxy support for Vkontakte</source>
+        <translation>Поддръжка на прокси във ВКонтакте</translation>
+    </message>
+    <message>
         <source>Userapi</source>
         <translation type="obsolete">Userapi</translation>
     </message>
@@ -287,7 +297,7 @@
     <message>
         <location line="+3"/>
         <location filename="../../qutim-meta/protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+3"/>
-        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="-14"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="-18"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -336,7 +346,7 @@
 <context>
     <name>VConnection</name>
     <message>
-        <location filename="../../qutim-meta/protocols/vkontakte/src/vconnection.cpp" line="+81"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vconnection.cpp" line="+84"/>
         <source>qutIM - VKontakte authorization</source>
         <translation>qutIM -ВКонтакте удостоверяване</translation>
     </message>
@@ -442,7 +452,7 @@
         <translation>Преглед на всички</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="+17"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="+21"/>
         <source>Account settings</source>
         <translation>Настройки на сметката</translation>
     </message>
