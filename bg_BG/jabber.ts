@@ -407,7 +407,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/jplugin.cpp" line="+32"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/jplugin.cpp" line="+33"/>
         <source>Denis Daschenko</source>
         <translation>Денис Дасченко</translation>
     </message>
@@ -2464,6 +2464,12 @@ Accept invitation?</source>
         <translation>Средство за задаване на вашата дейност</translation>
     </message>
     <message>
+        <location line="+3"/>
+        <location line="+1"/>
+        <source>Proxy support</source>
+        <translation>Поддръжка на прокси</translation>
+    </message>
+    <message>
         <source>Jabber MUC Join Window</source>
         <translation type="obsolete">Прозорец за присъединяване към Jabber групов разговор</translation>
     </message>
@@ -2472,7 +2478,7 @@ Accept invitation?</source>
         <translation type="obsolete">Реализация на прозорец за присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location line="-29"/>
+        <location line="-33"/>
         <source>Jabber File Transfer</source>
         <translation>Jabber предаване на файлове</translation>
     </message>

@@ -1436,6 +1436,30 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::ProxySettingsWidget</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/proxysettings/proxysettings.cpp" line="+35"/>
+        <source>Type:</source>
+        <translation>Тип:</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Do not use proxy</source>
+        <translation>Без прокси</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Use global proxy</source>
+        <translation>Общо прокси</translation>
+    </message>
+    <message>
+        <location line="+42"/>
+        <location line="+23"/>
+        <source>Type</source>
+        <translation>Тип</translation>
+    </message>
+</context>
+<context>
     <name>Core::ServiceChooser</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/servicechooser/servicechooser.cpp" line="+44"/>
@@ -2622,6 +2646,39 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Proxy</name>
+    <message>
+        <location filename="../../qutim-meta/core/libqutim/networkproxy.cpp" line="+67"/>
+        <source>Host</source>
+        <translation>Хост</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Port</source>
+        <translation>Порт</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User name</source>
+        <translation>Потребителско име</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Password</source>
+        <translation>Парола</translation>
+    </message>
+    <message>
+        <location line="+137"/>
+        <source>Socks 5</source>
+        <translation>Socks 5</translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>HTTP</source>
+        <translation>HTTP</translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
         <location filename="../../qutim-meta/core/libqutim/notificationslayer.cpp" line="+118"/>
@@ -2879,6 +2936,16 @@ p, li { white-space: pre-wrap; }
         <location line="+2"/>
         <source>Log file (*.log)</source>
         <translation>Файл (*.log)</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/proxysettings/proxysettings.cpp" line="+37"/>
+        <source>Global proxy</source>
+        <translation>Общо прокси</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Proxy</source>
+        <translation>Прокси</translation>
     </message>
 </context>
 <context>
@@ -3354,6 +3421,14 @@ p, li { white-space: pre-wrap; }
         <location line="+0"/>
         <source>Default qutIM popups based on QTextDocument</source>
         <translation>Подразбираща се за qutIM реализация на изскачащи прозорци. На базата на QTextDocument</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3</name>
+    <message>
+        <location filename="../../qutim-meta/core/libqutim/networkproxy.cpp" line="-89"/>
+        <source>Type</source>
+        <translation>Тип</translation>
     </message>
 </context>
 <context>

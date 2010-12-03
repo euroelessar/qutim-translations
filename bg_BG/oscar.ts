@@ -168,7 +168,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="+46"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="+47"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -195,7 +195,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="+322"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="+292"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -3377,6 +3377,12 @@ p, li { white-space: pre-wrap; }
         <translation>Реализация на търсене на Oscar контакти</translation>
     </message>
     <message>
+        <location line="+3"/>
+        <location line="+1"/>
+        <source>Oscar proxy support</source>
+        <translation>Поддръжка на прокси в Oscar</translation>
+    </message>
+    <message>
         <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-7"/>
         <source>OscarXStatus</source>
         <translation>Oscar разширен статус</translation>
@@ -3439,7 +3445,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="-340"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="-309"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>
@@ -3664,7 +3670,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="-5"/>
         <location line="+3"/>
         <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-39"/>
-        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="-38"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="-42"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
