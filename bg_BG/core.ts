@@ -459,7 +459,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/contactinfo/contactinfo.cpp" line="+212"/>
+        <location filename="../../qutim-meta/core/src/corelayers/contactinfo/contactinfo.cpp" line="+211"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -473,7 +473,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">не е зададено</translation>
     </message>
     <message>
-        <location line="-163"/>
+        <location line="-162"/>
         <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+63"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>Информация за %1 &lt;%2&gt;</translation>
@@ -505,7 +505,7 @@ p, li { white-space: pre-wrap; }
         <translation>Аватар</translation>
     </message>
     <message>
-        <location line="+80"/>
+        <location line="+79"/>
         <source>Summary</source>
         <translation>Обобщенa</translation>
     </message>
@@ -516,7 +516,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+106"/>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+172"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+170"/>
         <source>Show information</source>
         <translation>Показване на информация</translation>
     </message>
@@ -1226,7 +1226,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::MobileContactInfoWindow</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-229"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-227"/>
         <source>Request details</source>
         <translation>Заявка за подробности</translation>
     </message>
@@ -1633,7 +1633,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>DataForms</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/dataformsbackend/widgets.cpp" line="+63"/>
+        <location filename="../../qutim-meta/core/src/corelayers/dataformsbackend/widgets.cpp" line="+64"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -1653,7 +1653,7 @@ p, li { white-space: pre-wrap; }
         <translation>Не е зададено</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/dataformsbackend/widgets.cpp" line="+276"/>
+        <location filename="../../qutim-meta/core/src/corelayers/dataformsbackend/widgets.cpp" line="+306"/>
         <source>Open image</source>
         <translation>Отваряне на изображение</translation>
     </message>
