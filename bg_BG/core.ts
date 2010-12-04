@@ -1816,16 +1816,15 @@ p, li { white-space: pre-wrap; }
         <translation>Избор на сметка:</translation>
     </message>
     <message>
-        <location line="+80"/>
         <source>Select bookmark:</source>
-        <translation>Избор на отметка:</translation>
+        <translation type="obsolete">Избор на отметка:</translation>
     </message>
     <message>
         <source>Bookmarks:</source>
         <translation type="obsolete">Отметки:</translation>
     </message>
     <message>
-        <location line="-21"/>
+        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joinpage.cpp" line="+33"/>
         <source>Save to bookmarks</source>
         <translation>Запис в отметките</translation>
     </message>
@@ -1834,18 +1833,17 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Влизане</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+59"/>
-        <location line="+51"/>
+        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+57"/>
         <source>Close</source>
         <translation>Затваряне</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+5"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
     <message>
-        <location line="+27"/>
+        <location line="+65"/>
         <source>Bookmarks</source>
         <translation>Отметки</translation>
     </message>
@@ -1883,18 +1881,22 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Редактиране на съхранените отметки</translation>
     </message>
     <message>
-        <location line="+141"/>
         <source>Add</source>
-        <translation>Добавяне</translation>
+        <translation type="obsolete">Добавяне</translation>
     </message>
     <message>
-        <location line="-1"/>
+        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/bookmarkspage.cpp" line="+38"/>
+        <source>Select bookmark</source>
+        <translation>Избор на отметка</translation>
+    </message>
+    <message>
+        <location line="+11"/>
         <source>Remove</source>
         <translation>Премахване</translation>
     </message>
     <message>
-        <location line="-188"/>
-        <location line="+44"/>
+        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="-4"/>
+        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joinpage.cpp" line="+8"/>
         <source>Join</source>
         <translation>Присъединяване</translation>
     </message>
@@ -1903,8 +1905,9 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Търсене</translation>
     </message>
     <message>
+        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/bookmarkspage.cpp" line="-6"/>
         <source>Save</source>
-        <translation type="obsolete">Запис</translation>
+        <translation>Запис</translation>
     </message>
     <message>
         <source>Delete</source>
