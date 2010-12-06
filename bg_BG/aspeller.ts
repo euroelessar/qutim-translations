@@ -65,32 +65,32 @@
     <message>
         <location line="+1"/>
         <source>-ise suffixes</source>
-        <translation type="unfinished"></translation>
+        <translation>с -ise наставки</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>-ize suffixes</source>
-        <translation type="unfinished"></translation>
+        <translation>с -ize наставки</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>-ise suffixes and with accents</source>
-        <translation type="unfinished"></translation>
+        <translation>с -ise наставки и ударения</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>-ise suffixes and without accents</source>
-        <translation type="unfinished"></translation>
+        <translation>с -ise наставки без ударения</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>-ize suffixes and with accents</source>
-        <translation type="unfinished"></translation>
+        <translation>с -ize наставки и ударения</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>-ize suffixes and without accents</source>
-        <translation type="unfinished"></translation>
+        <translation>с -ize наставки без ударения</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -110,42 +110,42 @@
     <message>
         <location line="+1"/>
         <source>variant 0</source>
-        <translation type="unfinished"></translation>
+        <translation>вариант 0</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>variant 1</source>
-        <translation type="unfinished"></translation>
+        <translation>вариант 1</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>variant 2</source>
-        <translation type="unfinished"></translation>
+        <translation>вариант 2</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>without accents</source>
-        <translation type="unfinished"></translation>
+        <translation>без ударения</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>with accents</source>
-        <translation type="unfinished"></translation>
+        <translation>с ударения</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>with ye</source>
-        <translation type="unfinished"></translation>
+        <translation>с йе</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>with yeyo</source>
-        <translation type="unfinished"></translation>
+        <translation>с йе йо</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>with yo</source>
-        <translation type="unfinished"></translation>
+        <translation>с йо</translation>
     </message>
     <message>
         <location line="+1"/>
