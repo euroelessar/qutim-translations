@@ -2756,4 +2756,8 @@
     <source>Proxy support</source>
     <target>Поддръжка на прокси</target>
 </phrase>
+<phrase>
+    <source>Spell checker</source>
+    <target>Проверка на правописа</target>
+</phrase>
 </QPH>

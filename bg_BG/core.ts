@@ -4,7 +4,7 @@
 <context>
     <name>Account</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+35"/>
+        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+37"/>
         <source>Add new account</source>
         <translation>Добавяне на нова сметка</translation>
     </message>
@@ -664,12 +664,20 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Редактиране на информацията</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+95"/>
+        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+72"/>
+        <location line="+47"/>
         <source>Properties</source>
         <translation>Свойства</translation>
     </message>
     <message>
+        <location line="-46"/>
+        <source>Account settings</source>
+        <translation>Настройки на сметката</translation>
+    </message>
+    <message>
         <location line="+7"/>
+        <location line="+2"/>
+        <location line="+44"/>
         <source>Remove account</source>
         <translation>Премахване на сметка</translation>
     </message>
@@ -1117,6 +1125,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Change</source>
         <translation type="obsolete">Промяна</translation>
+    </message>
+</context>
+<context>
+    <name>Core::ChatSpellChecker</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+140"/>
+        <source>Add to dictionary</source>
+        <translation>Добавяне към речника</translation>
     </message>
 </context>
 <context>
@@ -1653,7 +1669,7 @@ p, li { white-space: pre-wrap; }
         <translation>Не е зададено</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/dataformsbackend/widgets.cpp" line="+306"/>
+        <location filename="../../qutim-meta/core/src/corelayers/dataformsbackend/widgets.cpp" line="+308"/>
         <source>Open image</source>
         <translation>Отваряне на изображение</translation>
     </message>
