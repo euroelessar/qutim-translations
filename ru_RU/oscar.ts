@@ -183,7 +183,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/oscarplugin.cpp" line="+46"/>
+        <location filename="../../src/oscarplugin.cpp" line="+47"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -210,7 +210,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../src/connection.cpp" line="+322"/>
+        <location filename="../../src/connection.cpp" line="+297"/>
         <source>Invalid nick or password</source>
         <translation>Неверный ник или пароль</translation>
     </message>
@@ -541,7 +541,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../src/icqcontact.cpp" line="+133"/>
+        <location filename="../../src/icqcontact.cpp" line="+134"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
@@ -600,12 +600,22 @@
         <translation type="obsolete">Возможный клиент</translation>
     </message>
     <message>
-        <location filename="../../src/authorization.cpp" line="+15"/>
+        <location filename="../../src/authorization.cpp" line="+17"/>
         <source>Ask authorization</source>
         <translation>Запротить авторизацию</translation>
     </message>
     <message>
-        <location line="+95"/>
+        <location line="+54"/>
+        <source>Authorization request accepted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Authorization request declined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+38"/>
         <source>Please, authorize me</source>
         <translation>Пожалуйста, авторизуйте меня</translation>
     </message>
@@ -3387,6 +3397,12 @@ p, li { white-space: pre-wrap; }
         <translation>Реализация поиска контактов для ICQ</translation>
     </message>
     <message>
+        <location line="+3"/>
+        <location line="+1"/>
+        <source>Oscar proxy support</source>
+        <translation type="unfinished">Поддержка прокси для протокола Oscar</translation>
+    </message>
+    <message>
         <location filename="../../plugins/xstatus/xstatus.cpp" line="-7"/>
         <source>OscarXStatus</source>
         <translation>X-Статус</translation>
@@ -3450,7 +3466,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../src/connection.cpp" line="-340"/>
+        <location filename="../../src/connection.cpp" line="-314"/>
         <source>Invalid SNAC header</source>
         <translation>Неверный заголовок SNAC</translation>
     </message>
@@ -3677,7 +3693,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../plugins/identify/clientidentify.cpp" line="-5"/>
         <location line="+3"/>
         <location filename="../../plugins/xstatus/xstatus.cpp" line="-39"/>
-        <location filename="../../src/oscarplugin.cpp" line="-38"/>
+        <location filename="../../src/oscarplugin.cpp" line="-42"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
@@ -3818,12 +3834,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+3"/>
         <source>Mobile</source>
-        <translation type="unfinished">Мобила</translation>
+        <translation>Мобила</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Watching movie</source>
-        <translation type="unfinished">Смотрю кино</translation>
+        <translation>Смотрю кино</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -3844,7 +3860,7 @@ p, li { white-space: pre-wrap; }
         <location line="-24"/>
         <source>I&apos;m high</source>
         <translatorcomment>да, икс статус именно такой нарисован - ганджубас</translatorcomment>
-        <translation type="unfinished" variants="yes">
+        <translation variants="yes">
             <lengthvariant>Ганджубас</lengthvariant>
             <lengthvariant>Я высокий</lengthvariant>
         </translation>
@@ -3871,7 +3887,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+3"/>
         <source>Searching</source>
-        <translation type="unfinished">В поиске</translation>
+        <translation>В поиске</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -3886,7 +3902,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Fear</source>
-        <translation type="unfinished">Испуган</translation>
+        <translation>Испуган</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3912,14 +3928,14 @@ p, li { white-space: pre-wrap; }
     <name>qutim_sdk_0_3::oscar::ClientIdentify</name>
     <message>
         <location filename="../../plugins/identify/clientidentify.cpp" line="+27"/>
-        <location line="+129"/>
+        <location line="+130"/>
         <source>Possible client</source>
-        <translation type="unfinished">Возможный клиент</translation>
+        <translation>Возможный клиент</translation>
     </message>
     <message>
-        <location line="-128"/>
+        <location line="-129"/>
         <source>Show client icon</source>
-        <translation type="unfinished">Показывать иконку клиента</translation>
+        <translation>Показывать иконку клиента</translation>
     </message>
 </context>
 <context>
@@ -3927,7 +3943,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/inforequest.cpp" line="+39"/>
         <source>You are sending information requests too often</source>
-        <translation type="unfinished">Вы отправляете информационные запросы слишком часто</translation>
+        <translation>Вы отправляете информационные запросы слишком часто</translation>
     </message>
 </context>
 <context>
@@ -3935,7 +3951,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/md5login.cpp" line="+82"/>
         <source>No IP addresses were found for the host &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не найдено соответствие IP адреса серверу &apos;%1&apos;</translation>
     </message>
 </context>
 <context>

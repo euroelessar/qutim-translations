@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/vkontakteplugin.cpp" line="+31"/>
+        <location filename="../../src/vkontakteplugin.cpp" line="+32"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -254,25 +254,35 @@
         <translation>Мастер создания создание учетной записи Вконтакте</translation>
     </message>
     <message>
+        <location line="+3"/>
+        <source>Proxy support</source>
+        <translation>Поддержка прокси</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Proxy support for Vkontakte</source>
+        <translation>Поддержка прокси для протокола ВКонтакте</translation>
+    </message>
+    <message>
         <location filename="../../plugins/wall/vwallmanager.cpp" line="-3"/>
         <source>Wall</source>
         <translatorcomment>Убей себя с разбегу</translatorcomment>
-        <translation type="unfinished">Стена ВКонтакте</translation>
+        <translation>Стена ВКонтакте</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Vkontakte wall support for qutIM</source>
-        <translation type="unfinished">Поддержка стены ВКонтакте для qutIM</translation>
+        <translation>Поддержка стены ВКонтакте для qutIM</translation>
     </message>
     <message>
         <location filename="../../plugins/photoalbum/vphotoalbumplugin.cpp" line="-3"/>
         <source>Photoalbum</source>
-        <translation type="unfinished">Фотоальбом ВКонтакте</translation>
+        <translation>Фотоальбом ВКонтакте</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Vkontakte photoalbum support for qutIM</source>
-        <translation type="unfinished">Фотоальбом вконтакте для qutIM</translation>
+        <translation>Фотоальбом вконтакте для qutIM</translation>
     </message>
 </context>
 <context>
@@ -280,7 +290,7 @@
     <message>
         <location line="+3"/>
         <location filename="../../plugins/wall/vwallmanager.cpp" line="+3"/>
-        <location filename="../../src/vkontakteplugin.cpp" line="-14"/>
+        <location filename="../../src/vkontakteplugin.cpp" line="-18"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -290,17 +300,17 @@
     <message>
         <location filename="../../src/ui/vaccountsettings.ui" line="+14"/>
         <source>Account settings</source>
-        <translation type="unfinished">Настройки учетной записи</translation>
+        <translation>Настройки учетной записи</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Password:</source>
-        <translation type="unfinished">Пароль:</translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <location filename="../../src/ui/vaccountsettings.cpp" line="+42"/>
         <source>%1 settings</source>
-        <translation type="unfinished">%1 настройки</translation>
+        <translation>%1 настройки</translation>
     </message>
 </context>
 <context>
@@ -329,7 +339,7 @@
 <context>
     <name>VConnection</name>
     <message>
-        <location filename="../../src/vconnection.cpp" line="+81"/>
+        <location filename="../../src/vconnection.cpp" line="+84"/>
         <source>qutIM - VKontakte authorization</source>
         <translation>qutIM - авторизация Вконтакте</translation>
     </message>
@@ -440,12 +450,12 @@
     <message>
         <location filename="../../plugins/photoalbum/vphotoalbumplugin.cpp" line="+10"/>
         <source>View photoalbum</source>
-        <translation type="unfinished">Просмотреть фотоальбом</translation>
+        <translation>Просмотреть фотоальбом</translation>
     </message>
     <message>
-        <location filename="../../src/vkontakteplugin.cpp" line="+17"/>
+        <location filename="../../src/vkontakteplugin.cpp" line="+21"/>
         <source>Account settings</source>
-        <translation type="unfinished">Настройки учетной записи</translation>
+        <translation>Настройки учетной записи</translation>
     </message>
 </context>
 <context>

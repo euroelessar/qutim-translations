@@ -4447,4 +4447,16 @@ Accept invitation?</source>
     <source>Noname</source>
     <target>Безымянный</target>
 </phrase>
+<phrase>
+    <source>User name</source>
+    <target>Логин</target>
+</phrase>
+<phrase>
+    <source>Host</source>
+    <target>Сервер</target>
+</phrase>
+<phrase>
+    <source>Proxy support</source>
+    <target>Поддержка прокси</target>
+</phrase>
 </QPH>

@@ -10,6 +10,24 @@
     </message>
 </context>
 <context>
+    <name>DBusBackend</name>
+    <message>
+        <location filename="../../src/dbusbackend.cpp" line="102"/>
+        <source>Open chat</source>
+        <translation type="unfinished">Открыть чат</translation>
+    </message>
+    <message>
+        <location filename="../../src/dbusbackend.cpp" line="103"/>
+        <source>Ignore</source>
+        <translation type="unfinished">Игнорировать</translation>
+    </message>
+    <message>
+        <location filename="../../src/dbusbackend.cpp" line="105"/>
+        <source>Open</source>
+        <translation type="unfinished">Открыть</translation>
+    </message>
+</context>
+<context>
     <name>Plugin</name>
     <message>
         <location filename="../../src/dplugin.cpp" line="14"/>

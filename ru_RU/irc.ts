@@ -6,58 +6,58 @@
     <message>
         <location filename="../../src/ui/addaccountform.ui" line="+14"/>
         <source>AddAccountForm</source>
-        <translation type="unfinished">Добавление учетных записей</translation>
+        <translation>Добавление учетных записей</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Network name:</source>
-        <translation type="unfinished">Сетевое имя:</translation>
+        <translation>Сетевое имя:</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Servers:</source>
-        <translation type="unfinished">Сервера:</translation>
+        <translation>Сервера:</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Add server</source>
-        <translation type="unfinished">Добавить сервер</translation>
+        <translation>Добавить сервер</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Update server</source>
-        <translation type="unfinished">Обновить сервер</translation>
+        <translation>Обновить сервер</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Password:</source>
-        <translation type="unfinished">Пароль:</translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Port:</source>
-        <translation type="unfinished">Порт:</translation>
+        <translation>Порт:</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Server:</source>
-        <translation type="unfinished">Сервер:</translation>
+        <translation>Сервер:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Protected by password</source>
-        <translation type="unfinished">Защищено паролем</translation>
+        <translation>Защищено паролем</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Save password</source>
-        <translation type="unfinished">Сохранить пароль</translation>
+        <translation>Сохранить пароль</translation>
     </message>
 </context>
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/ircplugin.cpp" line="+33"/>
+        <location filename="../../src/ircplugin.cpp" line="+34"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
     </message>
@@ -67,37 +67,37 @@
     <message>
         <location filename="../../src/ui/editnickform.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Nick:</source>
-        <translation type="unfinished">Ник:</translation>
+        <translation>Ник:</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Encoding:</source>
-        <translation type="unfinished">Кодировка:</translation>
+        <translation>Кодировка:</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Full name:</source>
-        <translation type="unfinished">Полное имя:</translation>
+        <translation>Полное имя:</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alternative nick:</source>
-        <translation type="unfinished">Альтернативный ник:</translation>
+        <translation>Альтернативный ник:</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>System</source>
-        <translation type="unfinished">Система</translation>
+        <translation>Система</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Apple Roman</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
@@ -394,12 +394,12 @@
     <message>
         <location line="+6"/>
         <source>Search channel...</source>
-        <translation type="unfinished">Искать канал...</translation>
+        <translation>Искать канал...</translation>
     </message>
     <message>
         <location filename="../../src/ircaccount.cpp" line="+370"/>
         <source>Join channel</source>
-        <translation type="unfinished">Подключиться к каналу</translation>
+        <translation>Подключиться к каналу</translation>
     </message>
     <message>
         <location line="-311"/>
@@ -410,17 +410,17 @@
     <message>
         <location line="-313"/>
         <source>Autojoin</source>
-        <translation type="unfinished">Автовход</translation>
+        <translation>Автовход</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Yes</source>
-        <translation type="unfinished">Да</translation>
+        <translation>Да</translation>
     </message>
     <message>
         <location line="+311"/>
         <source>Name</source>
-        <translation type="unfinished">Имя</translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -430,7 +430,7 @@
     <message>
         <location line="+5"/>
         <source>Auto-join</source>
-        <translation type="unfinished">Авто-вход</translation>
+        <translation>Авто-вход</translation>
     </message>
 </context>
 <context>
@@ -523,7 +523,7 @@
     <message>
         <location filename="../../src/ui/ircchannellist.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
 </context>
 <context>
@@ -531,7 +531,7 @@
     <message>
         <location filename="../../src/ui/console.ui" line="+14"/>
         <source>IRC Server Console</source>
-        <translation type="unfinished">Консоль IRC сервера</translation>
+        <translation>Консоль IRC сервера</translation>
     </message>
 </context>
 <context>
@@ -550,12 +550,26 @@
     </message>
     <message>
         <location line="+3"/>
-        <source>ICQ account creator</source>
-        <translatorcomment>скопировано с icq ?</translatorcomment>
-        <translation type="unfinished">Создание аккаунта IRC (разработчик IRC, проверьте эту строку в исходниках)</translation>
+        <source>IRC account creator</source>
+        <translation>Создание учетной записи IRC</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Proxy support</source>
+        <translation>Поддержка прокси</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Proxy support for IRC protocol</source>
+        <translation>Поддержка прокси для протокола IRC</translation>
+    </message>
+    <message>
+        <source>ICQ account creator</source>
+        <translatorcomment>скопировано с icq ?</translatorcomment>
+        <translation type="obsolete">Создание аккаунта IRC (разработчик IRC, проверьте эту строку в исходниках)</translation>
+    </message>
+    <message>
+        <location line="-4"/>
         <source>Account creator for IRC protocol</source>
         <translation>Создание аккаунта IRC</translation>
     </message>
@@ -565,7 +579,7 @@
     <message>
         <location filename="../../src/irccommandalias.cpp" line="+71"/>
         <source>Not enough parameters for command %1</source>
-        <translation type="unfinished">Не хавтает параметров команде %1</translation>
+        <translation>Не хавтает параметров команде %1</translation>
     </message>
 </context>
 <context>
@@ -581,17 +595,17 @@
     <message>
         <location filename="../../src/ui/ircchannellist.cpp" line="+81"/>
         <source>Channel</source>
-        <translation type="unfinished">Канал</translation>
+        <translation>Канал</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Users</source>
-        <translation type="unfinished">Пользователи</translation>
+        <translation>Пользователи</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Topic</source>
-        <translation type="unfinished">Тема</translation>
+        <translation>Тема</translation>
     </message>
 </context>
 <context>
@@ -675,23 +689,23 @@
     <message>
         <location filename="../../src/ui/ircchannellist.cpp" line="+93"/>
         <source>Fetching channels list...</source>
-        <translation type="unfinished">Получение списка каналов...</translation>
+        <translation>Получение списка каналов...</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Channels list loaded. (%1)</source>
-        <translation type="unfinished">Список каналов загружен (%1)</translation>
+        <translation>Список каналов загружен (%1)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Fetching channels list... (%1)</source>
-        <translation type="unfinished">Получение списка каналов... (%1)</translation>
+        <translation>Получение списка каналов... (%1)</translation>
     </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../src/ircconnection.cpp" line="+173"/>
+        <location filename="../../src/ircconnection.cpp" line="+176"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сервер %1 (Версия %2), Режимы пользователей: %3, Режимы каналов: %4</translation>
     </message>
@@ -709,25 +723,25 @@
         <location line="+7"/>
         <location line="+18"/>
         <source>End of /LIST</source>
-        <translation type="unfinished">Конец /LIST</translation>
+        <translation>Конец /LIST</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Bad list syntax, type /QUOTE HELP LIST</source>
-        <translation type="unfinished">Неверный синтаксис, введите /QUOTE HELP LIST для получения помощи</translation>
+        <translation>Неверный синтаксис, введите /QUOTE HELP LIST для получения помощи</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Server load is temporarily too heavy.
 Please wait a while and try again.</source>
-        <translation type="unfinished">Нагрузка на сервер сейчас слишком велика.
+        <translation>Нагрузка на сервер сейчас слишком велика.
 Повторите попытку чуть позже.</translation>
     </message>
     <message numerus="yes">
         <location line="+44"/>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
         <translatorcomment>причём тут %n который хочет linguist ?</translatorcomment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Пинг от %1: %2 секунда %n</numerusform>
             <numerusform>Пинг от %1: %2 секунды %n</numerusform>
             <numerusform>Пинг от %1: %2 секунд  %n</numerusform>
@@ -736,7 +750,7 @@ Please wait a while and try again.</source>
     <message>
         <location line="+6"/>
         <source>Received CTCP-%1 reply from %2: %3</source>
-        <translation type="unfinished">Принят CTPC-%1 ответ  от %2: %3</translation>
+        <translation>Принят CTPC-%1 ответ  от %2: %3</translation>
     </message>
     <message>
         <source>Not enough parameters for command %1</source>

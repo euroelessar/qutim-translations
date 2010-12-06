@@ -4,7 +4,7 @@
 <context>
     <name>Account</name>
     <message>
-        <location filename="../../src/corelayers/accountcreator/accountcreatorlist.cpp" line="+35"/>
+        <location filename="../../src/corelayers/accountcreator/accountcreatorlist.cpp" line="+37"/>
         <source>Add new account</source>
         <translation>Создать учетную запись</translation>
     </message>
@@ -201,6 +201,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Author</name>
     <message>
+        <location filename="../../src/corelayers/authdialog/authdialogplugin.cpp" line="+29"/>
         <location filename="../../src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+19"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
@@ -423,7 +424,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="+212"/>
+        <location filename="../../src/corelayers/contactinfo/contactinfo.cpp" line="+211"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -437,7 +438,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">-</translation>
     </message>
     <message>
-        <location line="-163"/>
+        <location line="-162"/>
         <location filename="../../src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+63"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>Информация о %1 &lt;%2&gt;</translation>
@@ -469,7 +470,7 @@ p, li { white-space: pre-wrap; }
         <translation>Аватар</translation>
     </message>
     <message>
-        <location line="+80"/>
+        <location line="+79"/>
         <source>Summary</source>
         <translation>Краткая сводка</translation>
     </message>
@@ -480,7 +481,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+106"/>
-        <location filename="../../src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+172"/>
+        <location filename="../../src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+170"/>
         <source>Show information</source>
         <translation>Показать информацию</translation>
     </message>
@@ -491,12 +492,12 @@ p, li { white-space: pre-wrap; }
         <translation>Править инфо</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/authdialog/authdialogimpl_p.h" line="+23"/>
+        <location filename="../../src/corelayers/authdialog/authdialogimpl_p.h" line="+27"/>
         <source>Recieved authorizarion request from %1:</source>
         <translation>Принята авторизация от %1:</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>Send authorizarion request to %1:</source>
         <translation>Отправить запрос авторизации %1:</translation>
     </message>
@@ -629,12 +630,20 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Править информацию</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/accountcreator/accountcreatorlist.cpp" line="+95"/>
+        <location filename="../../src/corelayers/accountcreator/accountcreatorlist.cpp" line="+72"/>
+        <location line="+47"/>
         <source>Properties</source>
         <translation>Свойства</translation>
     </message>
     <message>
+        <location line="-46"/>
+        <source>Account settings</source>
+        <translation>Настройки учетной записи</translation>
+    </message>
+    <message>
         <location line="+7"/>
+        <location line="+2"/>
+        <location line="+44"/>
         <source>Remove account</source>
         <translation>Удалить учетную запись</translation>
     </message>
@@ -1071,6 +1080,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::ChatSpellChecker</name>
+    <message>
+        <location filename="../../src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+140"/>
+        <source>Add to dictionary</source>
+        <translation type="unfinished">Добавить в словарь</translation>
+    </message>
+</context>
+<context>
     <name>Core::Game::PListConfigBackend</name>
     <message>
         <source>Cannot write to file %1</source>
@@ -1178,7 +1195,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::MobileContactInfoWindow</name>
     <message>
-        <location filename="../../src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-229"/>
+        <location filename="../../src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-227"/>
         <source>Request details</source>
         <translation>Запросить детали</translation>
     </message>
@@ -1292,12 +1309,19 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileCreationPage</name>
     <message>
-        <location filename="../../src/profilecreationpage.cpp" line="+96"/>
+        <location filename="../../src/profilecreationpage.cpp" line="+97"/>
+        <location line="+8"/>
         <source>Warning</source>
         <translation type="unfinished">Предупреждение</translation>
     </message>
     <message>
-        <location line="+0"/>
+        <location line="-7"/>
+        <source>Profile hash is already exist, override?</source>
+        <translatorcomment>какой смысл фразы???</translatorcomment>
+        <translation type="unfinished">Хэш профиля уже существует, переопределить?</translation>
+    </message>
+    <message>
+        <location line="+7"/>
         <source>Unable to create profile hash</source>
         <translation type="unfinished">Не удалось создать хэш профиля</translation>
     </message>
@@ -1404,6 +1428,30 @@ p, li { white-space: pre-wrap; }
         <location filename="../../src/corelayers/servicechooser/protocolchooserwidget.cpp" line="+105"/>
         <source>To take effect you must restart qutIM</source>
         <translation>Требуется перезапуск qutIM</translation>
+    </message>
+</context>
+<context>
+    <name>Core::ProxySettingsWidget</name>
+    <message>
+        <location filename="../../src/corelayers/proxysettings/proxysettings.cpp" line="+35"/>
+        <source>Type:</source>
+        <translation>Тип:</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Do not use proxy</source>
+        <translation type="unfinished">Без прокси</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Use global proxy</source>
+        <translation type="unfinished">Использовать глобальный прокси</translation>
+    </message>
+    <message>
+        <location line="+42"/>
+        <location line="+23"/>
+        <source>Type</source>
+        <translation type="unfinished">Тип</translation>
     </message>
 </context>
 <context>
@@ -1625,7 +1673,7 @@ p, li { white-space: pre-wrap; }
         <translation>Не важно</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/dataformsbackend/widgets.cpp" line="+63"/>
+        <location filename="../../src/corelayers/dataformsbackend/widgets.cpp" line="+64"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -1640,7 +1688,7 @@ p, li { white-space: pre-wrap; }
         <translation>-</translation>
     </message>
     <message>
-        <location line="+276"/>
+        <location line="+308"/>
         <source>Open image</source>
         <translation>Открыть рисунок</translation>
     </message>
@@ -1807,17 +1855,16 @@ p, li { white-space: pre-wrap; }
         <translation>Выбор учетной записи:</translation>
     </message>
     <message>
-        <location line="+80"/>
         <source>Select bookmark:</source>
         <translatorcomment>=_= тут падежи</translatorcomment>
-        <translation>Выбранная закладка:</translation>
+        <translation type="obsolete">Выбранная закладка:</translation>
     </message>
     <message>
         <source>Bookmarks:</source>
         <translation type="obsolete">Закладки:</translation>
     </message>
     <message>
-        <location line="-21"/>
+        <location filename="../../src/corelayers/joingroupchatdlg/joinpage.cpp" line="+33"/>
         <source>Save to bookmarks</source>
         <translation>Сохранить в закладках</translation>
     </message>
@@ -1826,18 +1873,17 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Enter</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+59"/>
-        <location line="+51"/>
+        <location filename="../../src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+57"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+5"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
     <message>
-        <location line="+27"/>
+        <location line="+65"/>
         <source>Bookmarks</source>
         <translation>Закладки</translation>
     </message>
@@ -1863,18 +1909,22 @@ p, li { white-space: pre-wrap; }
         <translation>Создать, изменить или удалить закладку</translation>
     </message>
     <message>
-        <location line="+143"/>
         <source>Add</source>
-        <translation>Добавить</translation>
+        <translation type="obsolete">Добавить</translation>
     </message>
     <message>
-        <location line="-1"/>
+        <location filename="../../src/corelayers/joingroupchatdlg/bookmarkspage.cpp" line="+38"/>
+        <source>Select bookmark</source>
+        <translation type="unfinished">Выбрать закладку</translation>
+    </message>
+    <message>
+        <location line="+11"/>
         <source>Remove</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location line="-188"/>
-        <location line="+44"/>
+        <location filename="../../src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="-2"/>
+        <location filename="../../src/corelayers/joingroupchatdlg/joinpage.cpp" line="+8"/>
         <source>Join</source>
         <translation>Войти</translation>
     </message>
@@ -1883,8 +1933,9 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Поиск</translation>
     </message>
     <message>
+        <location filename="../../src/corelayers/joingroupchatdlg/bookmarkspage.cpp" line="-6"/>
         <source>Save</source>
-        <translation type="obsolete">Сохранить</translation>
+        <translation type="unfinished">Сохранить</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -2138,14 +2189,12 @@ p, li { white-space: pre-wrap; }
         <translation>Движок смайлов для qutIM</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/contactlist/contactlistplugin.cpp" line="+11"/>
         <location filename="../../src/corelayers/simplecontactlist/simplecontactlistplugin.cpp" line="+11"/>
         <source>Simple ContactList</source>
         <translation>Обычный список контактов</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../src/corelayers/simplecontactlist/simplecontactlistplugin.cpp" line="+1"/>
         <source>Default qutIM contact list implementation. Just simple</source>
         <translation>Простая реализация списка контактов qutIM&apos;а. Самая простая</translation>
     </message>
@@ -2278,7 +2327,7 @@ p, li { white-space: pre-wrap; }
         <translation>Простой запрос пароля (по умолчанию)</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/authdialog/authdialogplugin.cpp" line="+11"/>
+        <location filename="../../src/corelayers/authdialog/authdialogplugin.cpp" line="-3"/>
         <source>Authorization dialog</source>
         <translation>Диалог авторизации</translation>
     </message>
@@ -2452,7 +2501,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Stacked chatform for mobile devices</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Форма чата, для мобильных устройств</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/soundthemeselector/soundthemeselectorplugin.cpp" line="+11"/>
@@ -2614,7 +2663,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Kickoff style settings dialog specialy for Maemo/MeeGo</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Улётный стиль настроек qutIM специально для Maemo/Meego</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/softkeysactionbox/softkeysactionboxplugin.cpp" line="+11"/>
@@ -2635,6 +2684,26 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Just simple</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/chatspellchecker/chatspellcheckerplugin.cpp" line="+11"/>
+        <source>Chat spell checker</source>
+        <translation type="unfinished">Проверка орфографии</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Highlights grammar errors and provides spelling suggestions for misspelled words in chats</source>
+        <translation type="unfinished">Подсвечивает грамматические ошибки и подсказывает правильные варианты написания</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/proxysettings/proxysettingsplugin.cpp" line="+11"/>
+        <source>Proxy settings</source>
+        <translation type="unfinished">Настройки прокси</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Default implementation of proxy settings widget</source>
+        <translation type="unfinished">Простая реализация настроек прокси (по умолчанию)</translation>
     </message>
 </context>
 <context>
@@ -2736,6 +2805,39 @@ p, li { white-space: pre-wrap; }
         <location filename="../../src/profiledialog.ui" line="+53"/>
         <source>Profiles</source>
         <translation>Профили</translation>
+    </message>
+</context>
+<context>
+    <name>Proxy</name>
+    <message>
+        <location filename="../../libqutim/networkproxy.cpp" line="+67"/>
+        <source>Host</source>
+        <translation type="unfinished">Сервер</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Port</source>
+        <translation>Порт</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User name</source>
+        <translation type="unfinished">Логин</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Password</source>
+        <translation>Пароль</translation>
+    </message>
+    <message>
+        <location line="+137"/>
+        <source>Socks 5</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>HTTP</source>
+        <translation>HTTP</translation>
     </message>
 </context>
 <context>
@@ -2994,6 +3096,16 @@ p, li { white-space: pre-wrap; }
         <location line="+2"/>
         <source>Log file (*.log)</source>
         <translation>Офл отчета отладки (*.log)</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/proxysettings/proxysettings.cpp" line="+37"/>
+        <source>Global proxy</source>
+        <translation type="unfinished">Глобальный прокси</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Proxy</source>
+        <translation>Прокси</translation>
     </message>
 </context>
 <context>
@@ -3311,6 +3423,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Task</name>
     <message>
+        <location filename="../../src/corelayers/authdialog/authdialogplugin.cpp" line="+3"/>
         <location filename="../../src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+3"/>
         <location filename="../../src/corelayers/searchdialog/searchdialogplugin.cpp" line="-10"/>
         <source>Author</source>
@@ -3486,6 +3599,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3</name>
+    <message>
+        <location filename="../../libqutim/networkproxy.cpp" line="-89"/>
+        <source>Type</source>
+        <translation type="unfinished">Тип</translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::ContactSearchRequest</name>
     <message>
         <location filename="../../libqutim/contactsearch.cpp" line="+62"/>
@@ -3511,7 +3632,7 @@ p, li { white-space: pre-wrap; }
  %1</translation>
     </message>
     <message>
-        <location line="+100"/>
+        <location line="+110"/>
         <source>Could not init plugin: 
  %1</source>
         <translation>Не могу запустить плагин: 

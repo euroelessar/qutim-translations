@@ -406,7 +406,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/jplugin.cpp" line="+32"/>
+        <location filename="../../src/jplugin.cpp" line="+33"/>
         <source>Denis Daschenko</source>
         <translation>Денис Дащенко</translation>
     </message>
@@ -1694,24 +1694,36 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JRoster</name>
     <message>
-        <location filename="../../src/protocol/account/roster/jroster.cpp" line="+183"/>
+        <location filename="../../src/protocol/account/roster/jroster.cpp" line="+184"/>
         <source>Not in list</source>
         <translation>Не в списке</translation>
     </message>
     <message>
-        <location line="+115"/>
+        <location line="+117"/>
+        <source>You have been added to the list of subscribers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>You have been removed from the list of subscribers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Received a request for removal from the subscribers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>You were authorized</source>
-        <translation>Вас авторизовали</translation>
+        <translation type="obsolete">Вас авторизовали</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Your authorization was removed</source>
-        <translation>Вашу авторизацию отозвали</translation>
+        <translation type="obsolete">Вашу авторизацию отозвали</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Contacts&apos;s authorization was removed</source>
-        <translation>Авторизация контакта удалена</translation>
+        <translation type="obsolete">Авторизация контакта удалена</translation>
     </message>
 </context>
 <context>
@@ -2461,7 +2473,7 @@ Accept invitation?</source>
     <message>
         <location line="+1"/>
         <source>Provides the dialog to set your mood</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Диалог выбора настроения</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2494,6 +2506,12 @@ Accept invitation?</source>
         <translation type="unfinished">Обеспечивает диалог для установки вашей деятельности</translation>
     </message>
     <message>
+        <location line="+3"/>
+        <location line="+1"/>
+        <source>Proxy support</source>
+        <translation>Поддержка прокси</translation>
+    </message>
+    <message>
         <source>Jabber MUC Join Window</source>
         <translation type="obsolete">Окошко входа jabber</translation>
     </message>
@@ -2502,7 +2520,7 @@ Accept invitation?</source>
         <translation type="obsolete">Реализация окошка для входа в конференции</translation>
     </message>
     <message>
-        <location line="-29"/>
+        <location line="-33"/>
         <source>Jabber File Transfer</source>
         <translation type="unfinished">Передача файлов по Jabber&apos;у</translation>
     </message>
