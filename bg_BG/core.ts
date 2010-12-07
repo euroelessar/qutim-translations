@@ -1362,8 +1362,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-7"/>
-        <source>Profile hash is already exist, override?</source>
+        <source>Profile already exists, overwrite?</source>
         <translation>Прфилът вече съществува, желаете ли да бъде презаписан?</translation>
+    </message>
+    <message>
+        <source>Profile hash is already exist, override?</source>
+        <translation type="obsolete">Прфилът вече съществува, желаете ли да бъде презаписан?</translation>
     </message>
     <message>
         <location line="+7"/>
