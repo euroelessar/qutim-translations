@@ -179,7 +179,7 @@
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+202"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+203"/>
         <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="+3"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
@@ -190,6 +190,14 @@
     <message>
         <source>Possible client</source>
         <translation type="obsolete">Вероятен клиент</translation>
+    </message>
+</context>
+<context>
+    <name>Codec</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/oscar/src/ui/icqmainsettings.cpp" line="+41"/>
+        <source>System</source>
+        <translation>Системна</translation>
     </message>
 </context>
 <context>
@@ -1948,41 +1956,32 @@
 <context>
     <name>IcqMainSettings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/ui/icqmainsettings.ui" line="+14"/>
-        <source>Form</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+6"/>
         <source>Don&apos;t send requests for avatarts</source>
-        <translation>Да не се изпращат заявки за аватари</translation>
+        <translation type="obsolete">Да не се изпращат заявки за аватари</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Reconnect after disconnect</source>
-        <translation>Повторно свързване при загуба на връзка</translation>
+        <translation type="obsolete">Повторно свързване при загуба на връзка</translation>
     </message>
     <message>
         <source>Codepage: (note that online messages use utf-8 in most cases)</source>
         <translation type="obsolete">Кодировка (имайте предвид, че в повечето случаи съобщенията са в UTF-8)</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Codepage: &lt;/span&gt;(note that online messages use utf-8 in most cases)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="obsolete">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Кодировка: &lt;/span&gt;(имайте предвид, че в повечето случаи съобщенията са в UTF-8)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location line="+21"/>
         <source>System</source>
-        <translation>Системна</translation>
+        <translation type="obsolete">Системна</translation>
     </message>
 </context>
 <context>
@@ -2947,7 +2946,12 @@ p, li { white-space: pre-wrap; }
         <translation>Минало</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/metafield.cpp" line="+96"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/metafield.cpp" line="+23"/>
+        <source>Not specified</source>
+        <translation>Не е зададенo</translation>
+    </message>
+    <message>
+        <location line="+75"/>
         <source>Basic</source>
         <translation>Основна</translation>
     </message>
@@ -3393,6 +3397,12 @@ p, li { white-space: pre-wrap; }
         <source>Additional statuses for oscar protocol</source>
         <translation>Допълнителни статуси за Oscar протокола</translation>
     </message>
+    <message>
+        <location line="+3"/>
+        <location line="+1"/>
+        <source>XStatus settings</source>
+        <translation>Настройки на разширения статус</translation>
+    </message>
 </context>
 <context>
     <name>Privacy</name>
@@ -3669,7 +3679,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="-5"/>
         <location line="+3"/>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-39"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-43"/>
         <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="-42"/>
         <location line="+3"/>
         <source>Author</source>
@@ -3924,6 +3934,19 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::oscar::IcqMainSettings</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/oscar/src/ui/icqmainsettings.cpp" line="+101"/>
+        <source>Codec</source>
+        <translation>Кодировка</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Don&apos;t send requests for avatarts</source>
+        <translation>Да не се изпращат заявки за аватари</translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::oscar::Md5Login</name>
     <message>
         <location filename="../../qutim-meta/protocols/oscar/src/md5login.cpp" line="+82"/>
@@ -3952,7 +3975,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+248"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+254"/>
         <source>X-Status</source>
         <translation>Разширен статус</translation>
     </message>
@@ -3960,6 +3983,14 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Show contact X-Status icon</source>
         <translation>Показване иконите на разширените статуси</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::oscar::XStatusSettings</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatussettings.cpp" line="+29"/>
+        <source>Ask for XStatuses automatically</source>
+        <translation>Автоматично изпращане на заявки за разширен статус</translation>
     </message>
 </context>
 <context>

@@ -427,7 +427,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+464"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+458"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -590,7 +590,7 @@ p, li { white-space: pre-wrap; }
         <translation>Копиране в клипборда</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+835"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+848"/>
         <source>Remove contact</source>
         <translation>Прeмахване на контакта</translation>
     </message>
@@ -600,7 +600,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавяне в списъка с контакти</translation>
     </message>
     <message>
-        <location line="-763"/>
+        <location line="-776"/>
         <source>Rename contact</source>
         <translation>Преименуване на контакта</translation>
     </message>
@@ -1552,7 +1552,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+668"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+681"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
         <translation>Желаете ли да обедините контактите &quot;%1&quot; &lt;%2&gt; и &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
@@ -1653,7 +1653,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>DataForms</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/dataformsbackend/widgets.cpp" line="+64"/>
+        <location filename="../../qutim-meta/core/src/corelayers/dataformsbackend/widgets.cpp" line="+79"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -1668,12 +1668,11 @@ p, li { white-space: pre-wrap; }
         <translation>полето не е попълнено</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/dataformsbackend/widgets.h" line="+25"/>
         <source>Not specified</source>
-        <translation>Не е зададено</translation>
+        <translation type="obsolete">Не е зададено</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/dataformsbackend/widgets.cpp" line="+308"/>
+        <location line="+466"/>
         <source>Open image</source>
         <translation>Отваряне на изображение</translation>
     </message>

@@ -95,17 +95,17 @@
     <message>
         <location line="+1"/>
         <source>large</source>
-        <translation type="unfinished"></translation>
+        <translation>голям</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>medium</source>
-        <translation type="unfinished"></translation>
+        <translation>среден</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>small</source>
-        <translation type="unfinished"></translation>
+        <translation>малък</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -150,7 +150,7 @@
     <message>
         <location line="+1"/>
         <source>extended</source>
-        <translation type="unfinished"></translation>
+        <translation>разширен</translation>
     </message>
 </context>
 <context>
