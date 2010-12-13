@@ -124,7 +124,7 @@
         <translation></translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+10"/>
         <source>Name:</source>
         <translation>Име:</translation>
     </message>
@@ -474,7 +474,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-162"/>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+63"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+64"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>Информация за %1 &lt;%2&gt;</translation>
     </message>
@@ -590,7 +590,7 @@ p, li { white-space: pre-wrap; }
         <translation>Копиране в клипборда</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+848"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+853"/>
         <source>Remove contact</source>
         <translation>Прeмахване на контакта</translation>
     </message>
@@ -600,7 +600,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавяне в списъка с контакти</translation>
     </message>
     <message>
-        <location line="-776"/>
+        <location line="-781"/>
         <source>Rename contact</source>
         <translation>Преименуване на контакта</translation>
     </message>
@@ -665,24 +665,22 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+72"/>
-        <location line="+47"/>
         <source>Properties</source>
         <translation>Свойства</translation>
     </message>
     <message>
-        <location line="-46"/>
+        <location line="+1"/>
         <source>Account settings</source>
         <translation>Настройки на сметката</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+2"/>
-        <location line="+44"/>
         <source>Remove account</source>
         <translation>Премахване на сметка</translation>
     </message>
     <message>
-        <location line="+41"/>
+        <location line="+83"/>
         <source>Delete account</source>
         <translation>Изтриване на сметка</translation>
     </message>
@@ -1552,7 +1550,17 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+681"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+555"/>
+        <source>Without tags</source>
+        <translation>Без тагове</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Not in list</source>
+        <translation>Извън списъка</translation>
+    </message>
+    <message>
+        <location line="+127"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
         <translation>Желаете ли да обедините контактите &quot;%1&quot; &lt;%2&gt; и &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
@@ -1825,7 +1833,7 @@ p, li { white-space: pre-wrap; }
     <name>JoinGroupChat</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchat.ui" line="+14"/>
-        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp" line="+72"/>
+        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp" line="+74"/>
         <source>Join groupchat</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>
@@ -1852,12 +1860,12 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Влизане</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+57"/>
+        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+58"/>
         <source>Close</source>
         <translation>Затваряне</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+8"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>

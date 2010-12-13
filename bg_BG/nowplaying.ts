@@ -155,7 +155,7 @@ p, li { white-space: pre-wrap; }
         <translation>В момента слушам</translation>
     </message>
     <message>
-        <location line="+183"/>
+        <location line="+184"/>
         <source>Stop now playing</source>
         <translation>Спиране на &quot;В момента слушам&quot;</translation>
     </message>
@@ -228,7 +228,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/plugins/nowplaying/src/nowplaying.cpp" line="-232"/>
+        <location filename="../../qutim-meta/plugins/nowplaying/src/nowplaying.cpp" line="-233"/>
         <source>Now Playing</source>
         <translation>В момента слушам</translation>
     </message>
