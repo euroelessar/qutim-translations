@@ -401,38 +401,34 @@
         <translation>Търсене на канал...</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircaccount.cpp" line="+370"/>
         <source>Join channel</source>
-        <translation>Присъединяване към канал</translation>
+        <translation type="obsolete">Присъединяване към канал</translation>
     </message>
     <message>
-        <location line="-311"/>
-        <location line="+315"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircgroupchatmanager.cpp" line="+64"/>
         <source>Channel</source>
         <translation>Канал</translation>
     </message>
     <message>
-        <location line="-313"/>
         <source>Autojoin</source>
-        <translation>Автоматично присъединяване</translation>
+        <translation type="obsolete">Автоматично присъединяване</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>Yes</source>
-        <translation>Да</translation>
+        <translation type="obsolete">Да</translation>
     </message>
     <message>
-        <location line="+311"/>
+        <location line="-6"/>
         <source>Name</source>
         <translation>Име</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+13"/>
         <source>Password</source>
         <translation>Парола</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+6"/>
         <source>Auto-join</source>
         <translation>Автоматично присъединяване</translation>
     </message>
@@ -630,7 +626,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcAccount</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircaccount.cpp" line="-211"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircaccount.cpp" line="+80"/>
         <source>Away</source>
         <translation>Отсъствам</translation>
     </message>

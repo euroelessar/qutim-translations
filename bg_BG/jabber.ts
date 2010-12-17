@@ -915,9 +915,8 @@
         <translation>Откриване на услуги</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+196"/>
         <source>Join groupchat</source>
-        <translation>Присъединяване към групов разговор</translation>
+        <translation type="obsolete">Присъединяване към групов разговор</translation>
     </message>
     <message>
         <source>Join to conference</source>
@@ -959,35 +958,30 @@
         <translation>Настройване на стаята</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/jaccount.cpp" line="+209"/>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+8"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+178"/>
         <source>Conference</source>
         <translation>Конференция</translation>
     </message>
     <message>
-        <location line="+1"/>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+7"/>
+        <location line="+8"/>
         <source>Nick</source>
         <translation>Псевдоним</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Autojoin</source>
-        <translation>Автоматично присъединяване</translation>
+        <translation type="obsolete">Автоматично присъединяване</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>Yes</source>
-        <translation>Да</translation>
+        <translation type="obsolete">Да</translation>
     </message>
     <message>
-        <location line="+17"/>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-12"/>
+        <location line="-15"/>
         <source>Name</source>
         <translation>Име</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+16"/>
+        <location line="+20"/>
         <source>Password</source>
         <translation>Парола</translation>
     </message>
@@ -1389,7 +1383,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCManager</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="-147"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+66"/>
         <source>Join groupchat on</source>
         <translation>Присъединяване към групов разговор за</translation>
     </message>

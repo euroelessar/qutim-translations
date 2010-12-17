@@ -474,7 +474,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-162"/>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+64"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+65"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>Информация за %1 &lt;%2&gt;</translation>
     </message>
@@ -516,7 +516,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+106"/>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+170"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+175"/>
         <source>Show information</source>
         <translation>Показване на информация</translation>
     </message>
@@ -555,7 +555,7 @@ p, li { white-space: pre-wrap; }
         <translation>Списък с контакти</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+35"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+39"/>
         <source>&amp;Settings...</source>
         <translation>&amp;Настройки...</translation>
     </message>
@@ -585,7 +585,7 @@ p, li { white-space: pre-wrap; }
         <translation>Скриване на контактите извън линия</translation>
     </message>
     <message>
-        <location line="-143"/>
+        <location line="-147"/>
         <source>Copy id to clipboard</source>
         <translation>Копиране в клипборда</translation>
     </message>
@@ -643,7 +643,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactSearch</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/searchdialog/searchdialoglayer.cpp" line="+31"/>
+        <location filename="../../qutim-meta/core/src/corelayers/searchdialog/searchdialoglayer.cpp" line="+32"/>
         <location line="+24"/>
         <source>Search contact</source>
         <translation>Търсене на контакт</translation>
@@ -709,7 +709,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AddContact</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+70"/>
+        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+71"/>
         <source>Start chat</source>
         <translation>Започване на разговор</translation>
     </message>
@@ -910,7 +910,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::StackedChatWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/stackedchatform/stackedchatwidget.cpp" line="+46"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/stackedchatform/stackedchatwidget.cpp" line="+48"/>
         <source>Chat Actions</source>
         <translation>Действия в разговора</translation>
     </message>
@@ -920,29 +920,25 @@ p, li { white-space: pre-wrap; }
         <translation>Изпращане до</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+1"/>
         <source>Actions</source>
         <translation>Действия</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Navigation</source>
-        <translation>Управление</translation>
+        <translation type="obsolete">Управление</translation>
     </message>
     <message>
-        <location line="+47"/>
         <source>Left</source>
-        <translation>Ляво</translation>
+        <translation type="obsolete">Ляво</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Right</source>
-        <translation>Дясно</translation>
+        <translation type="obsolete">Дясно</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Close</source>
-        <translation>Затваряне</translation>
+        <translation type="obsolete">Затваряне</translation>
     </message>
 </context>
 <context>
@@ -1144,25 +1140,25 @@ p, li { white-space: pre-wrap; }
     <name>Core::HistoryWindow</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/jsonhistory/historywindow.cpp" line="+40"/>
-        <location line="+58"/>
+        <location line="+63"/>
         <source>No History</source>
         <translation>Няма хронология</translation>
     </message>
     <message>
-        <location line="-57"/>
-        <location line="+388"/>
+        <location line="-62"/>
+        <location line="+393"/>
         <source>In: %L1</source>
         <translation>Входящи: %L1</translation>
     </message>
     <message>
-        <location line="-387"/>
-        <location line="+388"/>
+        <location line="-392"/>
+        <location line="+393"/>
         <source>Out: %L1</source>
         <translation>Изходящи: %L1</translation>
     </message>
     <message>
-        <location line="-387"/>
-        <location line="+388"/>
+        <location line="-392"/>
+        <location line="+393"/>
         <source>All: %L1</source>
         <translation>Общо: %L1</translation>
     </message>
@@ -1240,7 +1236,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::MobileContactInfoWindow</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-227"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-232"/>
         <source>Request details</source>
         <translation>Заявка за подробности</translation>
     </message>
@@ -1555,12 +1551,11 @@ p, li { white-space: pre-wrap; }
         <translation>Без тагове</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Not in list</source>
-        <translation>Извън списъка</translation>
+        <translation type="obsolete">Извън списъка</translation>
     </message>
     <message>
-        <location line="+127"/>
+        <location line="+131"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
         <translation>Желаете ли да обедините контактите &quot;%1&quot; &lt;%2&gt; и &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
@@ -1593,7 +1588,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+97"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+101"/>
         <source>Main Toolbar</source>
         <translation>Главна лентата с инструменти</translation>
     </message>
@@ -1833,7 +1828,7 @@ p, li { white-space: pre-wrap; }
     <name>JoinGroupChat</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchat.ui" line="+14"/>
-        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp" line="+74"/>
+        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp" line="+70"/>
         <source>Join groupchat</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>
@@ -1851,7 +1846,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Отметки:</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joinpage.cpp" line="+33"/>
+        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joinpage.cpp" line="+34"/>
         <source>Save to bookmarks</source>
         <translation>Запис в отметките</translation>
     </message>
@@ -1865,23 +1860,22 @@ p, li { white-space: pre-wrap; }
         <translation>Затваряне</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+4"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
     <message>
-        <location line="+65"/>
+        <location line="+70"/>
         <source>Bookmarks</source>
         <translation>Отметки</translation>
     </message>
     <message>
         <location line="-1"/>
-        <location line="+39"/>
         <source>Recent</source>
         <translation>Последни</translation>
     </message>
     <message>
-        <location line="-17"/>
+        <location line="+31"/>
         <source>Join an existing or create a new groupchat</source>
         <translation>Присъединяване към съществуващ или създаване нов групов разговор</translation>
     </message>
@@ -1923,7 +1917,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="-4"/>
-        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joinpage.cpp" line="+8"/>
+        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joinpage.cpp" line="+4"/>
         <source>Join</source>
         <translation>Присъединяване</translation>
     </message>
@@ -2031,7 +2025,7 @@ p, li { white-space: pre-wrap; }
         <translation>Търсене</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="+31"/>
         <source>Select account:</source>
         <translation>Избор на сметка:</translation>
     </message>
@@ -2234,7 +2228,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Подразбираща се за qutIM конфигурация на хронология. На базата на JSON</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreator.cpp" line="+11"/>
+        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreator.cpp" line="+12"/>
         <source>Account creator</source>
         <translation>Създаване на сметка</translation>
     </message>
