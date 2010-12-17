@@ -665,24 +665,22 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+72"/>
-        <location line="+47"/>
         <source>Properties</source>
         <translation>Свойства</translation>
     </message>
     <message>
-        <location line="-46"/>
+        <location line="+1"/>
         <source>Account settings</source>
         <translation>Настройки на сметката</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+2"/>
-        <location line="+44"/>
         <source>Remove account</source>
         <translation>Премахване на сметка</translation>
     </message>
     <message>
-        <location line="+41"/>
+        <location line="+83"/>
         <source>Delete account</source>
         <translation>Изтриване на сметка</translation>
     </message>
