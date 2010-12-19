@@ -4459,4 +4459,8 @@ Accept invitation?</source>
     <source>Proxy support</source>
     <target>Поддержка прокси</target>
 </phrase>
+<phrase>
+    <source>Denis Daschenko</source>
+    <target>Денис Дащенко</target>
+</phrase>
 </QPH>

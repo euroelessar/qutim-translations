@@ -912,12 +912,11 @@
         <translation>Обзор служб</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="+196"/>
         <source>Join groupchat</source>
-        <translation>Войти в конференцию</translation>
+        <translation type="obsolete">Войти в конференцию</translation>
     </message>
     <message>
-        <location line="+19"/>
+        <location filename="../../src/protocol/account/muc/jbookmarkmanager.cpp" line="+191"/>
         <source>Password</source>
         <translation>Пароль</translation>
     </message>
@@ -966,30 +965,25 @@
         <translation>Настройки комнаты</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/jaccount.cpp" line="+209"/>
-        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="-17"/>
+        <location filename="../../src/protocol/account/muc/jbookmarkmanager.cpp" line="-19"/>
         <source>Conference</source>
         <translation>Конференция</translation>
     </message>
     <message>
-        <location line="+1"/>
-        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="+7"/>
+        <location line="+8"/>
         <source>Nick</source>
         <translation>Ник</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Autojoin</source>
-        <translation>АвтоАвтовход</translation>
+        <translation type="obsolete">АвтоАвтовход</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>Yes</source>
-        <translation>Да</translation>
+        <translation type="obsolete">Да</translation>
     </message>
     <message>
-        <location line="+17"/>
-        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="-12"/>
+        <location line="-15"/>
         <source>Name</source>
         <translation>Имя</translation>
     </message>
@@ -1392,7 +1386,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCManager</name>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="-125"/>
+        <location filename="../../src/protocol/account/muc/jmucmanager.cpp" line="+66"/>
         <source>Join groupchat on</source>
         <translation>Войти в конференцию</translation>
     </message>

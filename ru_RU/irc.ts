@@ -9,7 +9,7 @@
         <translation>Добавление учетных записей</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+30"/>
         <source>Network name:</source>
         <translation>Сетевое имя:</translation>
     </message>
@@ -70,7 +70,7 @@
         <translation>Настройки</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+39"/>
         <source>Nick:</source>
         <translation>Ник:</translation>
     </message>
@@ -397,38 +397,34 @@
         <translation>Искать канал...</translation>
     </message>
     <message>
-        <location filename="../../src/ircaccount.cpp" line="+370"/>
         <source>Join channel</source>
-        <translation>Подключиться к каналу</translation>
+        <translation type="obsolete">Подключиться к каналу</translation>
     </message>
     <message>
-        <location line="-311"/>
-        <location line="+315"/>
+        <location filename="../../src/ircgroupchatmanager.cpp" line="+64"/>
         <source>Channel</source>
         <translation>Канал</translation>
     </message>
     <message>
-        <location line="-313"/>
         <source>Autojoin</source>
-        <translation>Автовход</translation>
+        <translation type="obsolete">Автовход</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>Yes</source>
-        <translation>Да</translation>
+        <translation type="obsolete">Да</translation>
     </message>
     <message>
-        <location line="+311"/>
+        <location line="-6"/>
         <source>Name</source>
         <translation>Имя</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+13"/>
         <source>Password</source>
         <translation>Пароль</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+6"/>
         <source>Auto-join</source>
         <translation>Авто-вход</translation>
     </message>
@@ -611,7 +607,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcAccount</name>
     <message>
-        <location filename="../../src/ircaccount.cpp" line="-211"/>
+        <location filename="../../src/ircaccount.cpp" line="+80"/>
         <source>Away</source>
         <translation>Отошел</translation>
     </message>

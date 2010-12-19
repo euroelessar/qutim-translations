@@ -12,17 +12,17 @@
 <context>
     <name>DBusBackend</name>
     <message>
-        <location filename="../../src/dbusbackend.cpp" line="102"/>
+        <location filename="../../src/dbusbackend.cpp" line="109"/>
         <source>Open chat</source>
         <translation type="unfinished">Открыть чат</translation>
     </message>
     <message>
-        <location filename="../../src/dbusbackend.cpp" line="103"/>
+        <location filename="../../src/dbusbackend.cpp" line="110"/>
         <source>Ignore</source>
         <translation type="unfinished">Игнорировать</translation>
     </message>
     <message>
-        <location filename="../../src/dbusbackend.cpp" line="105"/>
+        <location filename="../../src/dbusbackend.cpp" line="112"/>
         <source>Open</source>
         <translation type="unfinished">Открыть</translation>
     </message>

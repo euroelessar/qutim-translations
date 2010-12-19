@@ -155,7 +155,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+183"/>
+        <location line="+184"/>
         <source>Stop now playing</source>
         <translation type="unfinished">Стоп &quot;Сейчас играет&quot;</translation>
     </message>
@@ -228,7 +228,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../src/nowplaying.cpp" line="-232"/>
+        <location filename="../../src/nowplaying.cpp" line="-233"/>
         <source>Now Playing</source>
         <translation type="unfinished"></translation>
     </message>

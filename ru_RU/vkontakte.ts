@@ -339,7 +339,7 @@
 <context>
     <name>VConnection</name>
     <message>
-        <location filename="../../src/vconnection.cpp" line="+84"/>
+        <location filename="../../src/vconnection.cpp" line="+89"/>
         <source>qutIM - VKontakte authorization</source>
         <translation>qutIM - авторизация Вконтакте</translation>
     </message>
