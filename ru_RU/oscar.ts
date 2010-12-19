@@ -194,7 +194,7 @@
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../plugins/xstatus/xstatus.cpp" line="+202"/>
+        <location filename="../../plugins/xstatus/xstatus.cpp" line="+203"/>
         <location filename="../../src/oscarplugin.cpp" line="+3"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
@@ -205,6 +205,14 @@
     <message>
         <source>Possible client</source>
         <translation type="obsolete">Возможный клиент</translation>
+    </message>
+</context>
+<context>
+    <name>Codec</name>
+    <message>
+        <location filename="../../src/ui/icqmainsettings.cpp" line="+41"/>
+        <source>System</source>
+        <translation type="unfinished">Система</translation>
     </message>
 </context>
 <context>
@@ -607,12 +615,12 @@
     <message>
         <location line="+54"/>
         <source>Authorization request accepted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Принят запрос авторизации</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Authorization request declined</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Запрос авторизации отклонён</translation>
     </message>
     <message>
         <location line="+38"/>
@@ -1987,41 +1995,36 @@
 <context>
     <name>IcqMainSettings</name>
     <message>
-        <location filename="../../src/ui/icqmainsettings.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation type="obsolete">Форма</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Don&apos;t send requests for avatarts</source>
-        <translation type="unfinished">Не запрашивать аватары</translation>
+        <translation type="obsolete">Не запрашивать аватары</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Reconnect after disconnect</source>
-        <translation type="unfinished">Подключаться после отключений</translation>
+        <translation type="obsolete">Подключаться после отключений</translation>
     </message>
     <message>
         <source>Codepage: (note that online messages use utf-8 in most cases)</source>
         <translation type="obsolete">Кодировка: (обратите внимание - для большинства сообщений кодировка определится автоматически)</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Codepage: &lt;/span&gt;(note that online messages use utf-8 in most cases)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="obsolete">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Кодировка: &lt;/span&gt;&lt;br /&gt;(заметка: для сообщений в сети обычно автоматически выбирается utf-8)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location line="+21"/>
         <source>System</source>
-        <translation type="unfinished">Система</translation>
+        <translation type="obsolete">Система</translation>
     </message>
 </context>
 <context>
@@ -2955,7 +2958,12 @@ p, li { white-space: pre-wrap; }
         <translation>Прошлое</translation>
     </message>
     <message>
-        <location filename="../../src/metainfo/metafield.cpp" line="+96"/>
+        <location filename="../../src/metainfo/metafield.cpp" line="+23"/>
+        <source>Not specified</source>
+        <translation type="unfinished">Не указан</translation>
+    </message>
+    <message>
+        <location line="+75"/>
         <source>Basic</source>
         <translation>Основной</translation>
     </message>
@@ -3413,6 +3421,12 @@ p, li { white-space: pre-wrap; }
         <source>Additional statuses for oscar protocol</source>
         <translation>Дополнительные X-статусы для аськи</translation>
     </message>
+    <message>
+        <location line="+3"/>
+        <location line="+1"/>
+        <source>XStatus settings</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Privacy</name>
@@ -3692,7 +3706,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../plugins/identify/clientidentify.cpp" line="-5"/>
         <location line="+3"/>
-        <location filename="../../plugins/xstatus/xstatus.cpp" line="-39"/>
+        <location filename="../../plugins/xstatus/xstatus.cpp" line="-43"/>
         <location filename="../../src/oscarplugin.cpp" line="-42"/>
         <location line="+3"/>
         <source>Author</source>
@@ -3947,6 +3961,19 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::oscar::IcqMainSettings</name>
+    <message>
+        <location filename="../../src/ui/icqmainsettings.cpp" line="+101"/>
+        <source>Codec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Don&apos;t send requests for avatarts</source>
+        <translation type="unfinished">Не запрашивать аватары</translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::oscar::Md5Login</name>
     <message>
         <location filename="../../src/md5login.cpp" line="+82"/>
@@ -3975,7 +4002,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="../../plugins/xstatus/xstatus.cpp" line="+248"/>
+        <location filename="../../plugins/xstatus/xstatus.cpp" line="+254"/>
         <source>X-Status</source>
         <translation type="unfinished">X-Статус</translation>
     </message>
@@ -3983,6 +4010,14 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Show contact X-Status icon</source>
         <translation type="unfinished">Показывать иконку X-статуса</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::oscar::XStatusSettings</name>
+    <message>
+        <location filename="../../plugins/xstatus/xstatussettings.cpp" line="+29"/>
+        <source>Ask for XStatuses automatically</source>
+        <translation type="unfinished">Запрашивать X-статусы автоматически</translation>
     </message>
 </context>
 <context>

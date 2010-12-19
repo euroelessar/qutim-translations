@@ -124,7 +124,7 @@
         <translation>Поле текста</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+10"/>
         <source>Name:</source>
         <translation>Имя:</translation>
     </message>
@@ -363,7 +363,7 @@ p, li { white-space: pre-wrap; }
         <translation>Вставить смайл</translation>
     </message>
     <message>
-        <location line="+32"/>
+        <location line="+34"/>
         <source>Show Emoticons</source>
         <translation>Показать смайлы</translation>
     </message>
@@ -392,7 +392,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+464"/>
+        <location filename="../../src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+458"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
@@ -439,7 +439,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-162"/>
-        <location filename="../../src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+63"/>
+        <location filename="../../src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+65"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>Информация о %1 &lt;%2&gt;</translation>
     </message>
@@ -481,7 +481,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+106"/>
-        <location filename="../../src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+170"/>
+        <location filename="../../src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+175"/>
         <source>Show information</source>
         <translation>Показать информацию</translation>
     </message>
@@ -505,7 +505,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+835"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+854"/>
         <source>Remove contact</source>
         <translation>Удалить контакт</translation>
     </message>
@@ -515,7 +515,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавить в ростер</translation>
     </message>
     <message>
-        <location line="-763"/>
+        <location line="-782"/>
         <source>Rename contact</source>
         <translation>Переименовать</translation>
     </message>
@@ -545,7 +545,7 @@ p, li { white-space: pre-wrap; }
         <translation>Контакты</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+35"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+45"/>
         <source>&amp;Settings...</source>
         <translation>&amp;Настройки...</translation>
     </message>
@@ -608,7 +608,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactSearch</name>
     <message>
-        <location filename="../../src/corelayers/searchdialog/searchdialoglayer.cpp" line="+31"/>
+        <location filename="../../src/corelayers/searchdialog/searchdialoglayer.cpp" line="+32"/>
         <location line="+24"/>
         <source>Search contact</source>
         <translation>Найти контакт</translation>
@@ -631,24 +631,22 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../src/corelayers/accountcreator/accountcreatorlist.cpp" line="+72"/>
-        <location line="+47"/>
         <source>Properties</source>
         <translation>Свойства</translation>
     </message>
     <message>
-        <location line="-46"/>
+        <location line="+1"/>
         <source>Account settings</source>
         <translation>Настройки учетной записи</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+2"/>
-        <location line="+44"/>
         <source>Remove account</source>
         <translation>Удалить учетную запись</translation>
     </message>
     <message>
-        <location line="+41"/>
+        <location line="+83"/>
         <source>Delete account</source>
         <translatorcomment>=_=</translatorcomment>
         <translation>Стереть учетную запись</translation>
@@ -880,7 +878,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::StackedChatWidget</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/stackedchatform/stackedchatwidget.cpp" line="+46"/>
+        <location filename="../../src/corelayers/adiumchat/stackedchatform/stackedchatwidget.cpp" line="+48"/>
         <source>Chat Actions</source>
         <translation>Действия чата</translation>
     </message>
@@ -890,29 +888,25 @@ p, li { white-space: pre-wrap; }
         <translation>Отправить в</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+1"/>
         <source>Actions</source>
         <translation>Действия</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Navigation</source>
-        <translation type="unfinished">Навигация</translation>
+        <translation type="obsolete">Навигация</translation>
     </message>
     <message>
-        <location line="+47"/>
         <source>Left</source>
-        <translation type="unfinished">Слева</translation>
+        <translation type="obsolete">Слева</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Right</source>
-        <translation type="unfinished">Справа</translation>
+        <translation type="obsolete">Справа</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Close</source>
-        <translation>Закрыть</translation>
+        <translation type="obsolete">Закрыть</translation>
     </message>
 </context>
 <context>
@@ -1099,25 +1093,25 @@ p, li { white-space: pre-wrap; }
     <name>Core::HistoryWindow</name>
     <message>
         <location filename="../../src/corelayers/jsonhistory/historywindow.cpp" line="+40"/>
-        <location line="+58"/>
+        <location line="+63"/>
         <source>No History</source>
         <translation>Нет истории</translation>
     </message>
     <message>
-        <location line="-57"/>
-        <location line="+388"/>
+        <location line="-62"/>
+        <location line="+393"/>
         <source>In: %L1</source>
         <translation>Пришло: %L1</translation>
     </message>
     <message>
-        <location line="-387"/>
-        <location line="+388"/>
+        <location line="-392"/>
+        <location line="+393"/>
         <source>Out: %L1</source>
         <translation>Ушло: %L1</translation>
     </message>
     <message>
-        <location line="-387"/>
-        <location line="+388"/>
+        <location line="-392"/>
+        <location line="+393"/>
         <source>All: %L1</source>
         <translation>Всего: %L1</translation>
     </message>
@@ -1195,7 +1189,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::MobileContactInfoWindow</name>
     <message>
-        <location filename="../../src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-227"/>
+        <location filename="../../src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-232"/>
         <source>Request details</source>
         <translation>Запросить детали</translation>
     </message>
@@ -1316,9 +1310,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-7"/>
+        <source>Profile already exists, overwrite?</source>
+        <translation type="unfinished">Профиль уже существует, перезаписать?</translation>
+    </message>
+    <message>
         <source>Profile hash is already exist, override?</source>
         <translatorcomment>какой смысл фразы???</translatorcomment>
-        <translation type="unfinished">Хэш профиля уже существует, переопределить?</translation>
+        <translation type="obsolete">Хэш профиля уже существует, переопределить?</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1555,7 +1553,12 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Контакты</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+668"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+556"/>
+        <source>Without tags</source>
+        <translation type="unfinished">Без меток</translation>
+    </message>
+    <message>
+        <location line="+131"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
         <translation>Желаете обьеденить контакты &quot;%1&quot; &lt;%2&gt; И &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
@@ -1600,18 +1603,18 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">&amp;Выход</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-46"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-52"/>
         <source>Main Toolbar</source>
         <translation>Главная панель</translation>
     </message>
     <message>
-        <location line="+61"/>
+        <location line="+67"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
     <message>
         <location line="+55"/>
-        <location line="+232"/>
+        <location line="+238"/>
         <source>Set Status Text</source>
         <translation>Установить текст статуса</translation>
     </message>
@@ -1668,12 +1671,11 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>DataForms</name>
     <message>
-        <location filename="../../src/corelayers/dataformsbackend/widgets.h" line="+25"/>
         <source>Not specified</source>
-        <translation>Не важно</translation>
+        <translation type="obsolete">Не важно</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/dataformsbackend/widgets.cpp" line="+64"/>
+        <location filename="../../src/corelayers/dataformsbackend/widgets.cpp" line="+79"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -1688,7 +1690,7 @@ p, li { white-space: pre-wrap; }
         <translation>-</translation>
     </message>
     <message>
-        <location line="+308"/>
+        <location line="+466"/>
         <source>Open image</source>
         <translation>Открыть рисунок</translation>
     </message>
@@ -1845,7 +1847,7 @@ p, li { white-space: pre-wrap; }
     <name>JoinGroupChat</name>
     <message>
         <location filename="../../src/corelayers/joingroupchatdlg/joingroupchat.ui" line="+14"/>
-        <location filename="../../src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp" line="+72"/>
+        <location filename="../../src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp" line="+70"/>
         <source>Join groupchat</source>
         <translation>Войти в конференцию</translation>
     </message>
@@ -1864,7 +1866,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Закладки:</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/joingroupchatdlg/joinpage.cpp" line="+33"/>
+        <location filename="../../src/corelayers/joingroupchatdlg/joinpage.cpp" line="+34"/>
         <source>Save to bookmarks</source>
         <translation>Сохранить в закладках</translation>
     </message>
@@ -1873,28 +1875,27 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Enter</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+57"/>
+        <location filename="../../src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+58"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+4"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
     <message>
-        <location line="+65"/>
+        <location line="+70"/>
         <source>Bookmarks</source>
         <translation>Закладки</translation>
     </message>
     <message>
         <location line="-1"/>
-        <location line="+39"/>
         <source>Recent</source>
         <translation>Недавние</translation>
     </message>
     <message>
-        <location line="-17"/>
+        <location line="+31"/>
         <source>Join an existing or create a new groupchat</source>
         <translation>Войти в существующую или создать новую комнату чата</translation>
     </message>
@@ -1924,7 +1925,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="-2"/>
-        <location filename="../../src/corelayers/joingroupchatdlg/joinpage.cpp" line="+8"/>
+        <location filename="../../src/corelayers/joingroupchatdlg/joinpage.cpp" line="+4"/>
         <source>Join</source>
         <translation>Войти</translation>
     </message>
@@ -2034,7 +2035,7 @@ p, li { white-space: pre-wrap; }
         <translation>Окно поиска</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="+31"/>
         <source>Select account:</source>
         <translation>Выбор учетной записи:</translation>
     </message>
@@ -2307,7 +2308,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Модуль настроек уведомлений kinetic</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/accountcreator/accountcreator.cpp" line="+11"/>
+        <location filename="../../src/corelayers/accountcreator/accountcreator.cpp" line="+12"/>
         <source>Account creator</source>
         <translation>Модуль создания учетных записей</translation>
     </message>
