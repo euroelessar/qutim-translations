@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/kdeintegration.cpp" line="+42"/>
+        <location filename="../../src/kdeintegration.cpp" line="+60"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -102,6 +102,16 @@
         <source>Uses KDE notifications</source>
         <translation type="unfinished">Модуль уведомлений KDE, так-то!</translation>
     </message>
+    <message>
+        <location line="+2"/>
+        <source>KDE Status Notifier</source>
+        <translation type="unfinished">Уведомления KDE</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Using new KDE DBus tray specification</source>
+        <translation type="unfinished">Использует новую спецификацию KDE DBus</translation>
+    </message>
 </context>
 <context>
     <name>Settings</name>
@@ -120,7 +130,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../src/kdeintegration.cpp" line="-21"/>
+        <location filename="../../src/kdeintegration.cpp" line="-24"/>
         <location line="+3"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
