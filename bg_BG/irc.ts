@@ -9,7 +9,7 @@
         <translation>Добавяне на сметка</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+30"/>
         <source>Network name:</source>
         <translation>Име на мрежа:</translation>
     </message>
@@ -74,7 +74,7 @@
         <translation type="obsolete">Псевдоними:</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+39"/>
         <source>Nick:</source>
         <translation>Псевдоним:</translation>
     </message>

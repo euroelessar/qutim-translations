@@ -932,13 +932,13 @@
     </message>
     <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+3"/>
-        <location line="+199"/>
+        <location line="+200"/>
         <source>Join conference</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location line="-186"/>
-        <location line="+197"/>
+        <location line="-187"/>
+        <location line="+198"/>
         <source>Save to bookmarks</source>
         <translation>Запазване в отметките</translation>
     </message>
@@ -953,7 +953,7 @@
         <translation>Премахване от отметките</translation>
     </message>
     <message>
-        <location line="-205"/>
+        <location line="-206"/>
         <source>Room&apos;s configuration</source>
         <translation>Настройване на стаята</translation>
     </message>
@@ -1680,7 +1680,7 @@ Accept invitation?</source>
         <translation>Въведете причина за забраната на %1</translation>
     </message>
     <message>
-        <location line="+171"/>
+        <location line="+172"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
@@ -2638,7 +2638,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-236"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-237"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
