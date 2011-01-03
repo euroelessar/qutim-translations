@@ -398,7 +398,7 @@ p, li { white-space: pre-wrap; }
         <translation>Вмъкване на емотикона</translation>
     </message>
     <message>
-        <location line="+32"/>
+        <location line="+34"/>
         <source>Show Emoticons</source>
         <translation>Показване на емотикони</translation>
     </message>
@@ -555,7 +555,7 @@ p, li { white-space: pre-wrap; }
         <translation>Списък с контакти</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+39"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+45"/>
         <source>&amp;Settings...</source>
         <translation>&amp;Настройки...</translation>
     </message>
@@ -585,12 +585,12 @@ p, li { white-space: pre-wrap; }
         <translation>Скриване на контактите извън линия</translation>
     </message>
     <message>
-        <location line="-147"/>
+        <location line="-153"/>
         <source>Copy id to clipboard</source>
         <translation>Копиране в клипборда</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+853"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+877"/>
         <source>Remove contact</source>
         <translation>Прeмахване на контакта</translation>
     </message>
@@ -600,7 +600,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавяне в списъка с контакти</translation>
     </message>
     <message>
-        <location line="-781"/>
+        <location line="-789"/>
         <source>Rename contact</source>
         <translation>Преименуване на контакта</translation>
     </message>
@@ -709,7 +709,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AddContact</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+71"/>
+        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+70"/>
         <source>Start chat</source>
         <translation>Започване на разговор</translation>
     </message>
@@ -865,7 +865,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ChatEdit</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatedit.cpp" line="+110"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatedit.cpp" line="+118"/>
         <source>Unable to send message to %1</source>
         <translation>Невъзможно е изпращането на съобщение до %1</translation>
     </message>
@@ -1546,7 +1546,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+555"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+552"/>
         <source>Without tags</source>
         <translation>Без тагове</translation>
     </message>
@@ -1555,7 +1555,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Извън списъка</translation>
     </message>
     <message>
-        <location line="+131"/>
+        <location line="+109"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
         <translation>Желаете ли да обедините контактите &quot;%1&quot; &lt;%2&gt; и &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
@@ -1575,7 +1575,7 @@ p, li { white-space: pre-wrap; }
         <translation>Обединяване на контакти</translation>
     </message>
     <message>
-        <location line="+206"/>
+        <location line="+313"/>
         <source>All tags</source>
         <translation>Всички етикети</translation>
     </message>
@@ -1593,13 +1593,13 @@ p, li { white-space: pre-wrap; }
         <translation>Главна лентата с инструменти</translation>
     </message>
     <message>
-        <location line="+61"/>
+        <location line="+67"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
     <message>
         <location line="+55"/>
-        <location line="+232"/>
+        <location line="+238"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
