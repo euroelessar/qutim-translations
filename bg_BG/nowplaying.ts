@@ -277,7 +277,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::nowplaying::SettingsUI</name>
     <message>
-        <location filename="../../qutim-meta/plugins/nowplaying/src/settingsui.cpp" line="+136"/>
+        <location filename="../../qutim-meta/plugins/nowplaying/src/settingsui.cpp" line="+53"/>
+        <source>No player</source>
+        <translation>Без плейър</translation>
+    </message>
+    <message>
+        <location line="+107"/>
         <source>working</source>
         <translation>пусната</translation>
     </message>

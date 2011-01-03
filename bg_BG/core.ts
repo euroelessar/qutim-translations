@@ -540,7 +540,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+107"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+108"/>
         <source>Change global status</source>
         <translation>Промяна на общия статус</translation>
     </message>
@@ -590,7 +590,11 @@ p, li { white-space: pre-wrap; }
         <translation>Копиране в клипборда</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+877"/>
+=======
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+876"/>
+>>>>>>> 39754c404925562f744185be4bc655c286b32ff3
         <source>Remove contact</source>
         <translation>Прeмахване на контакта</translation>
     </message>
@@ -600,7 +604,11 @@ p, li { white-space: pre-wrap; }
         <translation>Добавяне в списъка с контакти</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location line="-789"/>
+=======
+        <location line="-792"/>
+>>>>>>> 39754c404925562f744185be4bc655c286b32ff3
         <source>Rename contact</source>
         <translation>Преименуване на контакта</translation>
     </message>
@@ -865,7 +873,11 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ChatEdit</name>
     <message>
+<<<<<<< HEAD
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatedit.cpp" line="+118"/>
+=======
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatedit.cpp" line="+116"/>
+>>>>>>> 39754c404925562f744185be4bc655c286b32ff3
         <source>Unable to send message to %1</source>
         <translation>Невъзможно е изпращането на съобщение до %1</translation>
     </message>
@@ -1546,7 +1558,11 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
+<<<<<<< HEAD
         <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+552"/>
+=======
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+547"/>
+>>>>>>> 39754c404925562f744185be4bc655c286b32ff3
         <source>Without tags</source>
         <translation>Без тагове</translation>
     </message>
@@ -1555,7 +1571,11 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Извън списъка</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location line="+109"/>
+=======
+        <location line="+117"/>
+>>>>>>> 39754c404925562f744185be4bc655c286b32ff3
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
         <translation>Желаете ли да обедините контактите &quot;%1&quot; &lt;%2&gt; и &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
@@ -1575,7 +1595,7 @@ p, li { white-space: pre-wrap; }
         <translation>Обединяване на контакти</translation>
     </message>
     <message>
-        <location line="+313"/>
+        <location line="+315"/>
         <source>All tags</source>
         <translation>Всички етикети</translation>
     </message>
@@ -1628,7 +1648,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleTagsEditor</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simpletagseditor/simpletagseditor.cpp" line="+16"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simpletagseditor/simpletagseditor.cpp" line="+16"/>
         <source>Edit tags for %1</source>
         <translation>Редактиране етикетите на %1</translation>
     </message>
@@ -3098,7 +3118,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>SimpleTagsEditor</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simpletagseditor/simpletagseditor.ui" line="+39"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simpletagseditor/simpletagseditor.ui" line="+39"/>
         <source>Add</source>
         <translation>Добавяне</translation>
     </message>
