@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/win7int.cpp" line="+27"/>
+        <location filename="../../plugins/win-integration/src/win7int.cpp" line="+27"/>
         <source>Vizir Ivan</source>
         <translation type="unfinished"></translation>
     </message>

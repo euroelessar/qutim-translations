@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/mplugin.cpp" line="+20"/>
+        <location filename="../../plugins/mac-integration/src/mplugin.cpp" line="+20"/>
         <source>Denis Daschenko</source>
         <translation type="unfinished">Денис Дащенко</translation>
     </message>

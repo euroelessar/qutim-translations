@@ -505,7 +505,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+854"/>
+        <location filename="../../src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+872"/>
         <source>Remove contact</source>
         <translation>Удалить контакт</translation>
     </message>
@@ -515,7 +515,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавить в ростер</translation>
     </message>
     <message>
-        <location line="-782"/>
+        <location line="-790"/>
         <source>Rename contact</source>
         <translation>Переименовать</translation>
     </message>
@@ -525,7 +525,7 @@ p, li { white-space: pre-wrap; }
         <translation>Изменить метки</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+38"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+39"/>
         <source>Copy id to clipboard</source>
         <translation>Копировать id в буфер</translation>
     </message>
@@ -560,7 +560,7 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Выход</translation>
     </message>
     <message>
-        <location line="+15"/>
+        <location line="+14"/>
         <source>Select tags</source>
         <translation type="unfinished">Выбрать метки</translation>
     </message>
@@ -833,7 +833,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ChatEdit</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatlayer/chatedit.cpp" line="+110"/>
+        <location filename="../../src/corelayers/adiumchat/chatlayer/chatedit.cpp" line="+116"/>
         <source>Unable to send message to %1</source>
         <translation>Не могу отправить сообщение для %1</translation>
     </message>
@@ -1553,12 +1553,12 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Контакты</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+556"/>
+        <location filename="../../src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+547"/>
         <source>Without tags</source>
         <translation type="unfinished">Без меток</translation>
     </message>
     <message>
-        <location line="+131"/>
+        <location line="+115"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
         <translation>Желаете обьеденить контакты &quot;%1&quot; &lt;%2&gt; И &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
@@ -1578,7 +1578,7 @@ p, li { white-space: pre-wrap; }
         <translation>Слияние контактов</translation>
     </message>
     <message>
-        <location line="+206"/>
+        <location line="+304"/>
         <source>All tags</source>
         <translation>Все метки</translation>
     </message>
@@ -1603,12 +1603,12 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">&amp;Выход</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-52"/>
+        <location filename="../../src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-51"/>
         <source>Main Toolbar</source>
         <translation>Главная панель</translation>
     </message>
     <message>
-        <location line="+67"/>
+        <location line="+65"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
@@ -1643,7 +1643,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleTagsEditor</name>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/contactlist/simpletagseditor/simpletagseditor.cpp" line="+16"/>
+        <location filename="../../src/corelayers/simplecontactlist/treecontactsmodel/simpletagseditor/simpletagseditor.cpp" line="+16"/>
         <source>Edit tags for %1</source>
         <translation>Изменить метки для %1</translation>
     </message>
@@ -2706,6 +2706,16 @@ p, li { white-space: pre-wrap; }
         <source>Default implementation of proxy settings widget</source>
         <translation type="unfinished">Простая реализация настроек прокси (по умолчанию)</translation>
     </message>
+    <message>
+        <location filename="../../src/corelayers/simplecontactlist/treecontactsmodelplugin.cpp" line="+11"/>
+        <source>Tree contacts model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Simple contactlist model</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProfileCreationPage</name>
@@ -3237,7 +3247,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>SimpleTagsEditor</name>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/contactlist/simpletagseditor/simpletagseditor.ui" line="+39"/>
+        <location filename="../../src/corelayers/simplecontactlist/treecontactsmodel/simpletagseditor/simpletagseditor.ui" line="+39"/>
         <source>Add</source>
         <translation>Добавить</translation>
     </message>
