@@ -927,7 +927,7 @@
         <translation>Автоматично присъединяване</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+656"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+657"/>
         <location line="+3"/>
         <source>You already in conference with another nick</source>
         <translation>Вече сте в конференцията с друг псевдоним</translation>
@@ -1866,7 +1866,7 @@ Accept invitation?</source>
     <message>
         <location line="+4"/>
         <source>Custom</source>
-        <translation>Собствен</translation>
+        <translation>Собствени</translation>
     </message>
 </context>
 <context>
