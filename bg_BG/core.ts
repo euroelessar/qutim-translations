@@ -570,7 +570,7 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Изход</translation>
     </message>
     <message>
-        <location line="+15"/>
+        <location line="+14"/>
         <source>Select tags</source>
         <translation>Избор на етикети</translation>
     </message>
@@ -585,12 +585,12 @@ p, li { white-space: pre-wrap; }
         <translation>Скриване на контактите извън линия</translation>
     </message>
     <message>
-        <location line="-153"/>
+        <location line="-152"/>
         <source>Copy id to clipboard</source>
         <translation>Копиране в клипборда</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+876"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+872"/>
         <source>Remove contact</source>
         <translation>Прeмахване на контакта</translation>
     </message>
@@ -600,7 +600,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавяне в списъка с контакти</translation>
     </message>
     <message>
-        <location line="-789"/>
+        <location line="-790"/>
         <source>Rename contact</source>
         <translation>Преименуване на контакта</translation>
     </message>
@@ -865,7 +865,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ChatEdit</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatedit.cpp" line="+118"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatedit.cpp" line="+116"/>
         <source>Unable to send message to %1</source>
         <translation>Невъзможно е изпращането на съобщение до %1</translation>
     </message>
@@ -1546,7 +1546,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistmodel.cpp" line="+552"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+547"/>
         <source>Without tags</source>
         <translation>Без тагове</translation>
     </message>
@@ -1555,7 +1555,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Извън списъка</translation>
     </message>
     <message>
-        <location line="+109"/>
+        <location line="+115"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
         <translation>Желаете ли да обедините контактите &quot;%1&quot; &lt;%2&gt; и &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
@@ -1575,7 +1575,7 @@ p, li { white-space: pre-wrap; }
         <translation>Обединяване на контакти</translation>
     </message>
     <message>
-        <location line="+315"/>
+        <location line="+304"/>
         <source>All tags</source>
         <translation>Всички етикети</translation>
     </message>
@@ -1593,7 +1593,7 @@ p, li { white-space: pre-wrap; }
         <translation>Главна лентата с инструменти</translation>
     </message>
     <message>
-        <location line="+67"/>
+        <location line="+65"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
@@ -3474,7 +3474,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Добавка: %1</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+220"/>
+        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+219"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Неуспешно зареждане на добавка: 
