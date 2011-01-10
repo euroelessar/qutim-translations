@@ -2989,7 +2989,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../libqutim/notificationslayer.cpp" line="-114"/>
         <source>Popup</source>
-        <translation type="unfinished">Всплывающее уведомление</translation>
+        <translation type="unfinished">Уведомление</translation>
     </message>
     <message>
         <location line="+1"/>
