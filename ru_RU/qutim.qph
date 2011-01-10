@@ -4463,4 +4463,20 @@ Accept invitation?</source>
     <source>Denis Daschenko</source>
     <target>Денис Дащенко</target>
 </phrase>
+<phrase>
+    <source>Change Subscription</source>
+    <target>Изменить подписку</target>
+</phrase>
+<phrase>
+    <source>Remove subscription</source>
+    <target>Удалить подписку</target>
+</phrase>
+<phrase>
+    <source>Request subscription</source>
+    <target>Запросить подписку</target>
+</phrase>
+<phrase>
+    <source>From</source>
+    <target>выдана вам</target>
+</phrase>
 </QPH>
