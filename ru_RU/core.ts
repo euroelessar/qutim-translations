@@ -2984,7 +2984,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../libqutim/actionbox.cpp" line="+31"/>
         <source>ActionBoxModule</source>
         <translatorcomment>!!!</translatorcomment>
-        <translation type="unfinished">хоть как нибудб</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../libqutim/notificationslayer.cpp" line="-114"/>
@@ -2994,13 +2994,13 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Sound</source>
-        <translation type="unfinished">Звуки</translation>
+        <translation type="unfinished">Звуковой движок</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/kineticpopups/src/backend.cpp" line="+39"/>
         <source>PopupWidget</source>
         <translatorcomment>!!!</translatorcomment>
-        <translation type="unfinished">блять</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

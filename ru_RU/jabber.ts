@@ -1420,27 +1420,27 @@ Accept invitation?</source>
     <message>
         <location filename="../../src/protocol/account/roster/jroster.cpp" line="+334"/>
         <source>You have been added to the list of subscribers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вы были добавлены в список подписчиков</translation>
     </message>
     <message>
         <location line="-8"/>
         <source>You have been removed from the list of subscribers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вы были исключены из списка подписчиков</translation>
     </message>
     <message>
         <location line="-204"/>
         <source>Contact %1 has been added to roster</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Контакт %1 добавлен в ростер</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Contact %1 has been removed from roster</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Контакт %1 удален из ростера</translation>
     </message>
     <message>
         <location line="+168"/>
         <source>Received a request for removal from the subscribers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Принят запрос на удаление из подписок</translation>
     </message>
     <message>
         <source>You were authorized</source>
@@ -1632,17 +1632,17 @@ Accept invitation?</source>
     <message>
         <location filename="../../src/protocol/modules/xmlconsole/xmlconsole.cpp" line="-50"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Фильтр</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отключен</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>By JID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">По JID</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2479,7 +2479,7 @@ Accept invitation?</source>
     <message>
         <location filename="../../src/protocol/modules/xmlconsole/xmlconsole.ui" line="+19"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Фильтр</translation>
     </message>
 </context>
 </TS>

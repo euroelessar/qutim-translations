@@ -4479,4 +4479,8 @@ Accept invitation?</source>
     <source>From</source>
     <target>выдана вам</target>
 </phrase>
+<phrase>
+    <source>Filter</source>
+    <target>Фильтр</target>
+</phrase>
 </QPH>
