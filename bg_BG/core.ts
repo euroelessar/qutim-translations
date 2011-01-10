@@ -1171,7 +1171,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::KineticPopups::Popup</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/popup.cpp" line="+77"/>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/popup.cpp" line="+78"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
         <translation>&lt;p&gt; + %1 оставащи уведомления &lt;/p&gt;</translation>
     </message>
@@ -1179,8 +1179,8 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::KineticPopups::PopupAppearance</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="+37"/>
-        <location line="+70"/>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="+38"/>
+        <location line="+68"/>
         <location line="+9"/>
         <source>Preview</source>
         <translation>Предварителен преглед</translation>
@@ -1525,7 +1525,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ServiceChooserWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/servicechooserwidget.cpp" line="+117"/>
+        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/servicechooserwidget.cpp" line="+118"/>
         <source>To take effect you must restart qutIM</source>
         <translation>За да влязат в сила промените, qutIM трябва да бъде рестартиран</translation>
     </message>
@@ -2705,7 +2705,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/notificationslayer.cpp" line="+118"/>
+        <location filename="../../qutim-meta/core/libqutim/notificationslayer.cpp" line="+120"/>
         <source>System message from %1:</source>
         <translation>Системно съобщение от %1:</translation>
     </message>
@@ -2819,6 +2819,29 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Service</name>
+    <message>
+        <location filename="../../qutim-meta/core/libqutim/actionbox.cpp" line="+31"/>
+        <source>ActionBoxModule</source>
+        <translation>Услуга</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/libqutim/notificationslayer.cpp" line="-114"/>
+        <source>Popup</source>
+        <translation>Изскачащ прозорец</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sound</source>
+        <translation>Звук</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/backend.cpp" line="+39"/>
+        <source>PopupWidget</source>
+        <translation>Изскачащи прозорци</translation>
+    </message>
+</context>
+<context>
     <name>ServiceChooser</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/servicechooser/servicechooserwidget.ui" line="+14"/>
@@ -2838,7 +2861,7 @@ p, li { white-space: pre-wrap; }
         <translation>Уведомления</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/backend.cpp" line="+37"/>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/backend.cpp" line="-2"/>
         <source>Popups</source>
         <translation>Изскачащи прозорци</translation>
     </message>
