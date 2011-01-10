@@ -2716,6 +2716,16 @@ p, li { white-space: pre-wrap; }
         <source>Simple contactlist model</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../src/corelayers/simplerosterstorage/simplerosterstorageplugin.cpp" line="+11"/>
+        <source>Simple roster storage</source>
+        <translation type="unfinished">Простое хранилище ростера</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Stores roster during offline at local storage</source>
+        <translation type="unfinished">Хранение локально списка контактов</translation>
+    </message>
 </context>
 <context>
     <name>ProfileCreationPage</name>
@@ -3636,7 +3646,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Плагин: %1</translation>
     </message>
     <message>
-        <location filename="../../libqutim/modulemanager.cpp" line="+220"/>
+        <location filename="../../libqutim/modulemanager.cpp" line="+219"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Не могу загрузить плагин: 
