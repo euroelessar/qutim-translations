@@ -2823,7 +2823,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/core/libqutim/actionbox.cpp" line="+31"/>
         <source>ActionBoxModule</source>
-        <translation>Услуга</translation>
+        <translation>Област с действия</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/core/libqutim/notificationslayer.cpp" line="-114"/>
