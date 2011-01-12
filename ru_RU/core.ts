@@ -392,7 +392,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+458"/>
+        <location filename="../../src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+477"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>

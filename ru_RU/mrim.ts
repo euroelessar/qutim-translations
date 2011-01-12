@@ -55,39 +55,42 @@
 <context>
     <name>Messages</name>
     <message>
-        <location filename="../../src/base/messages.cpp" line="+124"/>
         <source>No such user</source>
-        <translation>Нет человека</translation>
+        <translation type="obsolete">Нет человека</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Message too large</source>
-        <translation>Сообщение слишком длинное</translation>
+        <translation type="obsolete">Сообщение слишком длинное</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Limit exceeded</source>
-        <translation>Превышение лимита</translation>
+        <translation type="obsolete">Превышение лимита</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>User denied receiving offline messages</source>
-        <translation>Пользователь запретил приём оффлайн сообщений</translation>
+        <translation type="obsolete">Пользователь запретил приём оффлайн сообщений</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>User denied receiving offline flash movies</source>
-        <translation>Пользователь запретил приём оффлайн флеш-роликов</translation>
+        <translation type="obsolete">Пользователь запретил приём оффлайн флеш-роликов</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Internal error</source>
-        <translation>Внутренняя ошибка</translation>
+        <translation type="obsolete">Внутренняя ошибка</translation>
     </message>
     <message>
-        <location line="+9"/>
         <source>Message was not delivered!</source>
-        <translation>Сообщение не доставлено |-_-| !</translation>
+        <translation type="obsolete">Сообщение не доставлено |-_-| !</translation>
+    </message>
+</context>
+<context>
+    <name>MrimAccount</name>
+    <message>
+        <location filename="../../src/base/mrimaccount.cpp" line="+84"/>
+        <source>Messages in mailbox: %1
+Unread messages: %2</source>
+        <translation type="unfinished">Сообщений в ящике: %1
+Не прочитаных: %2</translation>
     </message>
 </context>
 <context>
@@ -97,20 +100,64 @@
         <translation type="obsolete">Ошибка аутентификации!</translation>
     </message>
     <message>
-        <location filename="../../src/base/mrimconnection.cpp" line="+239"/>
+        <location filename="../../src/base/mrimconnection.cpp" line="+244"/>
         <source>Another client with same login connected!</source>
         <translation>Другой клиент подключился с тем же логином!</translation>
     </message>
     <message>
-        <location line="+185"/>
+        <location line="+219"/>
+        <source>Authentication failed!
+Reason: %1</source>
+        <translation type="unfinished">Ошибка Аутентификации
+Причина: %1</translation>
+    </message>
+    <message>
         <source>Authentication failed! Access denied!</source>
-        <translation>Ошибка аутентификации! Доступ запрещён!</translation>
+        <translation type="obsolete">Ошибка аутентификации! Доступ запрещён!</translation>
+    </message>
+</context>
+<context>
+    <name>MrimMessages</name>
+    <message>
+        <location filename="../../src/base/messages.cpp" line="+131"/>
+        <source>No such user</source>
+        <translation type="unfinished">Нет человека</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Message too large</source>
+        <translation type="unfinished">Сообщение слишком длинное</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Limit exceeded</source>
+        <translation type="unfinished">Превышение лимита</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>User denied receiving offline messages</source>
+        <translation type="unfinished">Пользователь запретил приём оффлайн сообщений</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>User denied receiving offline flash movies</source>
+        <translation type="unfinished">Пользователь запретил приём оффлайн флеш-роликов</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Internal error</source>
+        <translation type="unfinished">Внутренняя ошибка</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Message was not delivered!</source>
+        <translation type="unfinished">Сообщение не доставлено |-_-| !</translation>
     </message>
 </context>
 <context>
     <name>MrimPacket</name>
     <message>
-        <location filename="../../src/base/mrimpacket.cpp" line="+175"/>
+        <location filename="../../src/base/mrimpacket.cpp" line="+178"/>
         <source>No error</source>
         <translatorcomment>!?</translatorcomment>
         <translation>Без ошибок</translation>
@@ -129,6 +176,14 @@
         <location line="+2"/>
         <source>Unknown error</source>
         <translation>Неизвестная ошибка</translation>
+    </message>
+</context>
+<context>
+    <name>MrimRoster</name>
+    <message>
+        <location filename="../../src/base/roster.cpp" line="+246"/>
+        <source>Phone contacts</source>
+        <translation type="unfinished">Телефонные контакты</translation>
     </message>
 </context>
 <context>
@@ -155,17 +210,29 @@
     </message>
 </context>
 <context>
+    <name>QObject</name>
+    <message>
+        <location filename="../../src/base/mrimstatus.cpp" line="+61"/>
+        <source>Possible client</source>
+        <translation type="unfinished">Возможный клиент</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Not authorized</source>
+        <translation type="unfinished">Не авторизован</translation>
+    </message>
+</context>
+<context>
     <name>Roster</name>
     <message>
-        <location filename="../../src/base/roster.cpp" line="+226"/>
         <source>Phone contacts</source>
-        <translation>Телефонные контакты</translation>
+        <translation type="obsolete">Телефонные контакты</translation>
     </message>
 </context>
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../src/base/mrimstatus.cpp" line="+83"/>
+        <location line="+90"/>
         <source>Sick</source>
         <translation>Болею</translation>
     </message>
