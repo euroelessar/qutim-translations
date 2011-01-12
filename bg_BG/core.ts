@@ -427,7 +427,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+458"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+477"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>

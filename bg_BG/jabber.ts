@@ -853,23 +853,23 @@
     </message>
     <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+6"/>
-        <location line="+235"/>
+        <location line="+238"/>
         <source>Join conference</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location line="-220"/>
-        <location line="+233"/>
+        <location line="-223"/>
+        <location line="+236"/>
         <source>Save to bookmarks</source>
         <translation>Запазване в отметките</translation>
     </message>
     <message>
-        <location line="-225"/>
+        <location line="-228"/>
         <source>Change Subscription</source>
         <translation>Промяна на абонамента</translation>
     </message>
     <message>
-        <location line="+214"/>
+        <location line="+217"/>
         <source>Leave conference</source>
         <translation>Напускане на конференцията</translation>
     </message>
@@ -889,7 +889,7 @@
         <translation>Заявяване на абонамент</translation>
     </message>
     <message>
-        <location line="-256"/>
+        <location line="-259"/>
         <source>Room&apos;s configuration</source>
         <translation>Настройване на стаята</translation>
     </message>
@@ -971,7 +971,7 @@
 <context>
     <name>Jabber::JAccount</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/jaccount.cpp" line="+163"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/jaccount.cpp" line="+161"/>
         <source>qutIM</source>
         <comment>Local qutIM&apos;s name</comment>
         <translation>qutIM</translation>
@@ -1578,7 +1578,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JProtocol</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+46"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+49"/>
         <source>Kick</source>
         <translation>Изритване (Kick)</translation>
     </message>
@@ -2608,7 +2608,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-292"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-295"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
