@@ -3912,6 +3912,19 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::oscar::AbstractMetaRequest</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/abstractmetarequest.cpp" line="+67"/>
+        <source>The metarequest canceled by user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>The server did not answer on the metarequest</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::oscar::ClientIdentify</name>
     <message>
         <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="+27"/>
@@ -3926,11 +3939,18 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::oscar::FullInfoMetaRequest</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/infometarequest.cpp" line="+282"/>
+        <source>Incorrect format of the metarequest</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::oscar::IcqInfoRequest</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/inforequest.cpp" line="+39"/>
         <source>You are sending information requests too often</source>
-        <translation>Изпращате заявки за информация твърде често</translation>
+        <translation type="obsolete">Изпращате заявки за информация твърде често</translation>
     </message>
 </context>
 <context>
@@ -3955,6 +3975,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::oscar::MetaInfo</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/metainfo.cpp" line="+68"/>
+        <source>Incorrect format of the metarequest</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::oscar::PrivacyLists</name>
     <message>
         <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="+110"/>
@@ -3975,7 +4003,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+254"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+248"/>
         <source>X-Status</source>
         <translation>Разширен статус</translation>
     </message>
