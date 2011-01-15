@@ -74,7 +74,7 @@
         <translation type="obsolete">Псевдоними:</translation>
     </message>
     <message>
-        <location line="+39"/>
+        <location line="+30"/>
         <source>Nick:</source>
         <translation>Псевдоним:</translation>
     </message>
@@ -720,12 +720,12 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircconnection.cpp" line="+176"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircconnection.cpp" line="+181"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
     </message>
     <message>
-        <location line="+116"/>
+        <location line="+117"/>
         <source>Message of the day:</source>
         <translation>Съобщение за деня:</translation>
     </message>
@@ -752,8 +752,28 @@ Please wait a while and try again.</source>
         <translation>Временно сървърът е натоварен.
 Моля, изчакайте малко и опитайте отново.</translation>
     </message>
+    <message>
+        <location line="+10"/>
+        <source>%1 set away message %2</source>
+        <translation>%1 зададе съобщение при отсъствие: %2</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>%1 removed away message</source>
+        <translation>%1 премахна съобщението при отсъствие</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>You are no longer marked as being away</source>
+        <translation>Вече не сте отбелязан(а) като отсъстващ(а)</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>You have been marked as being away</source>
+        <translation>Отбелязан(а) сте като отсъстващ(а)</translation>
+    </message>
     <message numerus="yes">
-        <location line="+44"/>
+        <location line="+41"/>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
         <translation>
             <numerusform>Получен CTCP-PING отговор от %1: %2 секунда</numerusform>
@@ -764,6 +784,26 @@ Please wait a while and try again.</source>
         <location line="+6"/>
         <source>Received CTCP-%1 reply from %2: %3</source>
         <translation>Получен CTCP-%1 отговор от %2: %3</translation>
+    </message>
+    <message>
+        <location line="+152"/>
+        <source>Add at least one server before connecting</source>
+        <translation>Добавте поне един сървър преди да се свържете</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Set at least one nick before connecting</source>
+        <translation>Задайте поне един псевдоним преди да се свържете</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Cannot connect to %1 network</source>
+        <translation>Невъзможно е свързването към мрежата %1</translation>
+    </message>
+    <message>
+        <location line="+148"/>
+        <source>Network error: %1</source>
+        <translation>Мрежова грешка: %1</translation>
     </message>
     <message>
         <source>Not enough parameters for command %1</source>
