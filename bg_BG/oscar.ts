@@ -3916,12 +3916,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/protocols/oscar/src/metainfo/abstractmetarequest.cpp" line="+67"/>
         <source>The metarequest canceled by user</source>
-        <translation type="unfinished"></translation>
+        <translation>Мета-заявката бе отказана от потребителя</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The server did not answer on the metarequest</source>
-        <translation type="unfinished"></translation>
+        <translation>Сървърът не отговори на мета-заявката</translation>
     </message>
 </context>
 <context>
@@ -3943,7 +3943,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/protocols/oscar/src/metainfo/infometarequest.cpp" line="+282"/>
         <source>Incorrect format of the metarequest</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверен формат на мета-заявката</translation>
     </message>
 </context>
 <context>
@@ -3979,7 +3979,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/protocols/oscar/src/metainfo/metainfo.cpp" line="+68"/>
         <source>Incorrect format of the metarequest</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверен формат на мета-заявката</translation>
     </message>
 </context>
 <context>
