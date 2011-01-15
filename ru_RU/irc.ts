@@ -70,7 +70,7 @@
         <translation>Настройки</translation>
     </message>
     <message>
-        <location line="+39"/>
+        <location line="+30"/>
         <source>Nick:</source>
         <translation>Ник:</translation>
     </message>
@@ -701,12 +701,12 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../src/ircconnection.cpp" line="+176"/>
+        <location filename="../../src/ircconnection.cpp" line="+181"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сервер %1 (Версия %2), Режимы пользователей: %3, Режимы каналов: %4</translation>
     </message>
     <message>
-        <location line="+116"/>
+        <location line="+117"/>
         <source>Message of the day:</source>
         <translation>Сообщение дня:</translation>
     </message>
@@ -733,8 +733,28 @@ Please wait a while and try again.</source>
         <translation>Нагрузка на сервер сейчас слишком велика.
 Повторите попытку чуть позже.</translation>
     </message>
+    <message>
+        <location line="+10"/>
+        <source>%1 set away message %2</source>
+        <translation type="unfinished">%1 установил сообщение отсутствия %2</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>%1 removed away message</source>
+        <translation type="unfinished">%1 удалил сообщение отстутствия</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>You are no longer marked as being away</source>
+        <translation type="unfinished">Вы более не &quot;отсутствуете&quot;</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>You have been marked as being away</source>
+        <translation type="unfinished">Теперь вы &quot;отсутствуете&quot;</translation>
+    </message>
     <message numerus="yes">
-        <location line="+44"/>
+        <location line="+41"/>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
         <translatorcomment>причём тут %n который хочет linguist ?</translatorcomment>
         <translation>
@@ -747,6 +767,26 @@ Please wait a while and try again.</source>
         <location line="+6"/>
         <source>Received CTCP-%1 reply from %2: %3</source>
         <translation>Принят CTPC-%1 ответ  от %2: %3</translation>
+    </message>
+    <message>
+        <location line="+152"/>
+        <source>Add at least one server before connecting</source>
+        <translation type="unfinished">Необходимо добавить хотя бы один сервер перед подключением</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Set at least one nick before connecting</source>
+        <translation type="unfinished">Необходимо указать ник, перед подключением</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Cannot connect to %1 network</source>
+        <translation type="unfinished">Не удалось полклюиться к сети %1</translation>
+    </message>
+    <message>
+        <location line="+148"/>
+        <source>Network error: %1</source>
+        <translation type="unfinished">Ошибка сети: %1</translation>
     </message>
     <message>
         <source>Not enough parameters for command %1</source>

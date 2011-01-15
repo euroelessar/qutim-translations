@@ -285,7 +285,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../src/corelayers/jsonhistory/jsonhistory.cpp" line="+16"/>
+        <location filename="../../src/corelayers/jsonhistory/jsonhistory.cpp" line="+32"/>
         <source>View History</source>
         <translation>История</translation>
     </message>
@@ -392,7 +392,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+477"/>
+        <location filename="../../src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+466"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
@@ -1092,31 +1092,31 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::HistoryWindow</name>
     <message>
-        <location filename="../../src/corelayers/jsonhistory/historywindow.cpp" line="+40"/>
+        <location filename="../../src/corelayers/jsonhistory/historywindow.cpp" line="+41"/>
         <location line="+63"/>
         <source>No History</source>
         <translation>Нет истории</translation>
     </message>
     <message>
         <location line="-62"/>
-        <location line="+393"/>
+        <location line="+417"/>
         <source>In: %L1</source>
         <translation>Пришло: %L1</translation>
     </message>
     <message>
-        <location line="-392"/>
-        <location line="+393"/>
+        <location line="-416"/>
+        <location line="+417"/>
         <source>Out: %L1</source>
         <translation>Ушло: %L1</translation>
     </message>
     <message>
-        <location line="-392"/>
-        <location line="+393"/>
+        <location line="-416"/>
+        <location line="+417"/>
         <source>All: %L1</source>
         <translation>Всего: %L1</translation>
     </message>
     <message>
-        <location line="-36"/>
+        <location line="-78"/>
         <source>Service message</source>
         <translation>Сервисное сообщение</translation>
     </message>
@@ -3357,7 +3357,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../libqutim/status.cpp" line="+112"/>
+        <location filename="../../libqutim/status.cpp" line="+145"/>
         <source>Online</source>
         <translation>В сети</translation>
     </message>
