@@ -55,7 +55,71 @@
 <context>
     <name>Messages</name>
     <message>
-        <location filename="../../qutim-meta/protocols/mrim/src/base/messages.cpp" line="+124"/>
+        <source>No such user</source>
+        <translation type="obsolete">Няма такъв потребител</translation>
+    </message>
+    <message>
+        <source>Message too large</source>
+        <translation type="obsolete">Съобщението е твърде голямо</translation>
+    </message>
+    <message>
+        <source>Limit exceeded</source>
+        <translation type="obsolete">Надхвърлен лимит</translation>
+    </message>
+    <message>
+        <source>User denied receiving offline messages</source>
+        <translation type="obsolete">Потребителят не приема съобщения, когато е извън линия</translation>
+    </message>
+    <message>
+        <source>User denied receiving offline flash movies</source>
+        <translation type="obsolete">Потребителят не приема flash филми, когато е извън линия</translation>
+    </message>
+    <message>
+        <source>Internal error</source>
+        <translation type="obsolete">Вътрешна грешка</translation>
+    </message>
+    <message>
+        <source>Message was not delivered!</source>
+        <translation type="obsolete">Съобщението не бе доставено!</translation>
+    </message>
+</context>
+<context>
+    <name>MrimAccount</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimaccount.cpp" line="+84"/>
+        <source>Messages in mailbox: %1
+Unread messages: %2</source>
+        <translation>Съобщения в пощата: %1
+Непрочетени съобщения: %2</translation>
+    </message>
+</context>
+<context>
+    <name>MrimConnection</name>
+    <message>
+        <source>Authentication failed!</source>
+        <translation type="obsolete">Неуспешно удостоверяване!</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimconnection.cpp" line="+244"/>
+        <source>Another client with same login connected!</source>
+        <translation>Друг клиент, със същите детайли за вход се е свързал!</translation>
+    </message>
+    <message>
+        <location line="+219"/>
+        <source>Authentication failed!
+Reason: %1</source>
+        <translation>Неуспешно удостоверяване!
+Причина: %1</translation>
+    </message>
+    <message>
+        <source>Authentication failed! Access denied!</source>
+        <translation type="obsolete">Неуспешно удостоверяване! Отказан достъп!</translation>
+    </message>
+</context>
+<context>
+    <name>MrimMessages</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/mrim/src/base/messages.cpp" line="+131"/>
         <source>No such user</source>
         <translation>Няма такъв потребител</translation>
     </message>
@@ -91,26 +155,9 @@
     </message>
 </context>
 <context>
-    <name>MrimConnection</name>
-    <message>
-        <source>Authentication failed!</source>
-        <translation type="obsolete">Неуспешно удостоверяване!</translation>
-    </message>
-    <message>
-        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimconnection.cpp" line="+239"/>
-        <source>Another client with same login connected!</source>
-        <translation>Друг клиент, със същите детайли за вход се е свързал!</translation>
-    </message>
-    <message>
-        <location line="+185"/>
-        <source>Authentication failed! Access denied!</source>
-        <translation>Неуспешно удостоверяване! Отказан достъп!</translation>
-    </message>
-</context>
-<context>
     <name>MrimPacket</name>
     <message>
-        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimpacket.cpp" line="+175"/>
+        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimpacket.cpp" line="+178"/>
         <source>No error</source>
         <translation>Без грешка</translation>
     </message>
@@ -128,6 +175,14 @@
         <location line="+2"/>
         <source>Unknown error</source>
         <translation>Неизвестна грешка</translation>
+    </message>
+</context>
+<context>
+    <name>MrimRoster</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/mrim/src/base/roster.cpp" line="+246"/>
+        <source>Phone contacts</source>
+        <translation>Контакти от телефона</translation>
     </message>
 </context>
 <context>
@@ -154,17 +209,29 @@
     </message>
 </context>
 <context>
+    <name>QObject</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimstatus.cpp" line="+61"/>
+        <source>Possible client</source>
+        <translation>Вероятен клиент</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Not authorized</source>
+        <translation>Без удостоверение</translation>
+    </message>
+</context>
+<context>
     <name>Roster</name>
     <message>
-        <location filename="../../qutim-meta/protocols/mrim/src/base/roster.cpp" line="+226"/>
         <source>Phone contacts</source>
-        <translation>Контакти от телефона</translation>
+        <translation type="obsolete">Контакти от телефона</translation>
     </message>
 </context>
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimstatus.cpp" line="+83"/>
+        <location line="+90"/>
         <source>Sick</source>
         <translation>Болен</translation>
     </message>
