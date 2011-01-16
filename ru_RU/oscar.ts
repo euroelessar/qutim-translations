@@ -218,7 +218,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../src/connection.cpp" line="+297"/>
+        <location filename="../../src/connection.cpp" line="+296"/>
         <source>Invalid nick or password</source>
         <translation>Неверный ник или пароль</translation>
     </message>
@@ -3480,7 +3480,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../src/connection.cpp" line="-314"/>
+        <location filename="../../src/connection.cpp" line="-313"/>
         <source>Invalid SNAC header</source>
         <translation>Неверный заголовок SNAC</translation>
     </message>
@@ -3941,8 +3941,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::AbstractMetaRequest</name>
     <message>
-        <location filename="../../src/metainfo/abstractmetarequest.cpp" line="+67"/>
         <source>The metarequest canceled by user</source>
+        <translation type="obsolete">Метазапрос отменен пользователем</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfo/abstractmetarequest.cpp" line="+67"/>
+        <source>The metarequest cancelled by user</source>
         <translation type="unfinished">Метазапрос отменен пользователем</translation>
     </message>
     <message>
@@ -4032,7 +4036,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="../../plugins/xstatus/xstatus.cpp" line="+248"/>
+        <location filename="../../plugins/xstatus/xstatus.cpp" line="+250"/>
         <source>X-Status</source>
         <translation type="unfinished">X-Статус</translation>
     </message>
