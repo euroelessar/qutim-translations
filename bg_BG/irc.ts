@@ -391,7 +391,7 @@
         <translation type="obsolete">Присъединяване към канал...</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircprotocol.cpp" line="+56"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircprotocol.cpp" line="+57"/>
         <source>Show console...</source>
         <translation>Показване на конзолата...</translation>
     </message>
@@ -488,7 +488,7 @@
         <translation type="obsolete">Заглавието на канала е зададено от %1 на %2.</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="+341"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="+357"/>
         <source>%1 gives channel operator privileges to %2.</source>
         <translation>%1 даде операторски права в канала на %2.</translation>
     </message>
@@ -592,7 +592,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/irccommandalias.cpp" line="+71"/>
+        <location filename="../../qutim-meta/protocols/irc/src/irccommandalias.cpp" line="+98"/>
         <source>Not enough parameters for command %1</source>
         <translation>Липсват достатъчно параметри за командата %1</translation>
     </message>
@@ -720,7 +720,127 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircconnection.cpp" line="+181"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircconnection.cpp" line="+160"/>
+        <source>Kick / Ban</source>
+        <translation>Изритване/Забрана</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Kick</source>
+        <translation>Изритване</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Kickban</source>
+        <translation>Изритване със забрана</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Ban</source>
+        <translation>Забрана</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Ban *!*@*.host</source>
+        <translation>Забрана *!*@*.host</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Ban *!*@domain</source>
+        <translation>Забрана *!*@domain</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Ban *!user@*.host</source>
+        <translation>Забрана *!user@*.host</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Ban *!user@domain</source>
+        <translation>Забрана *!user@domain</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Kickban *!*@*.host</source>
+        <translation>Изритване със забрана *!*@*.host</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Kickban *!*@domain</source>
+        <translation>Изритване със забрана *!*@domain</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Kickban *!user@*.host</source>
+        <translation>Изритване със забрана *!user@*.host</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Kickban *!user@domain</source>
+        <translation>Изритване със забрана *!user@domain</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Ping</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Request client information</source>
+        <translation>Заявка за информация за клиента</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Request version</source>
+        <translation>Заявка за версия</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Request time</source>
+        <translation>Заявка за време</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Request avatar</source>
+        <translation>Заявка за аватар</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Modes</source>
+        <translation>Режими</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Give Op</source>
+        <translation>Предоставяне на операторски права</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Take Op</source>
+        <translation>Отнемане на операторските права</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Give HalfOp</source>
+        <translation>Предоставяне на полуоператорски права</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Take HalfOp</source>
+        <translation>Отнемане на полуоператорските права</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Give voice</source>
+        <translation>Предоставяне на глас</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Take voice</source>
+        <translation>Отнемане на глас</translation>
+    </message>
+    <message>
+        <location line="+48"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
     </message>
@@ -786,7 +906,7 @@ Please wait a while and try again.</source>
         <translation>Получен CTCP-%1 отговор от %2: %3</translation>
     </message>
     <message>
-        <location line="+152"/>
+        <location line="+153"/>
         <source>Add at least one server before connecting</source>
         <translation>Добавте поне един сървър преди да се свържете</translation>
     </message>
@@ -808,6 +928,19 @@ Please wait a while and try again.</source>
     <message>
         <source>Not enough parameters for command %1</source>
         <translation type="obsolete">Липсват достатъчно параметри за командата %1</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::irc::IrcJoinLeftActionGenerator</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="-293"/>
+        <source>Leave the channel</source>
+        <translation>Напускане на канала</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Join the channel</source>
+        <translation>Присъединяване към канала</translation>
     </message>
 </context>
 </TS>
