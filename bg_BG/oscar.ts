@@ -203,7 +203,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="+297"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="+296"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -3455,7 +3455,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="-314"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="-313"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>
@@ -3914,8 +3914,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::AbstractMetaRequest</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/abstractmetarequest.cpp" line="+67"/>
         <source>The metarequest canceled by user</source>
+        <translation type="obsolete">Мета-заявката бе отказана от потребителя</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/abstractmetarequest.cpp" line="+67"/>
+        <source>The metarequest cancelled by user</source>
         <translation>Мета-заявката бе отказана от потребителя</translation>
     </message>
     <message>
@@ -4003,7 +4007,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+248"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+250"/>
         <source>X-Status</source>
         <translation>Разширен статус</translation>
     </message>
