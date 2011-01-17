@@ -2760,4 +2760,12 @@
     <source>Spell checker</source>
     <target>Проверка на правописа</target>
 </phrase>
+<phrase>
+    <source>Username</source>
+    <target>Потребителско име</target>
+</phrase>
+<phrase>
+    <source>Register</source>
+    <target>Регистриране</target>
+</phrase>
 </QPH>

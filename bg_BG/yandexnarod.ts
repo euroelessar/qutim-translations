@@ -210,7 +210,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>YandexNarodUploadDialog</name>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/uploaddialog.cpp" line="+118"/>
+        <location filename="../../qutim-meta/plugins/yandexnarod/src/uploaddialog.cpp" line="+119"/>
         <source>Choose file for %1</source>
         <translation>Избор на файл за %1</translation>
     </message>
@@ -240,7 +240,7 @@ p, li { white-space: pre-wrap; }
         <translation>Приключване след %1&quot; %2&apos;</translation>
     </message>
     <message>
-        <location line="+30"/>
+        <location line="+31"/>
         <source>Upload complete.</source>
         <translation>Качването приключи.</translation>
     </message>
@@ -258,7 +258,7 @@ p, li { white-space: pre-wrap; }
 %U</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/uploaddialog.h" line="+86"/>
+        <location filename="../../qutim-meta/plugins/yandexnarod/src/uploaddialog.h" line="+87"/>
         <source>Uploading</source>
         <translation>Качване</translation>
     </message>

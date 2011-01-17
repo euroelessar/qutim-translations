@@ -378,7 +378,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Изпращане на съобщение</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="+42"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="+43"/>
         <source>Close chat</source>
         <translation>Затваряне на разговора</translation>
     </message>
@@ -1124,7 +1124,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ChatSpellChecker</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+140"/>
+        <location filename="../../qutim-meta/core/src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+150"/>
         <source>Add to dictionary</source>
         <translation>Добавяне към речника</translation>
     </message>
@@ -1675,7 +1675,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Не е зададено</translation>
     </message>
     <message>
-        <location line="+466"/>
+        <location line="+499"/>
         <source>Open image</source>
         <translation>Отваряне на изображение</translation>
     </message>

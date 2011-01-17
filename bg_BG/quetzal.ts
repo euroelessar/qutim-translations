@@ -4,7 +4,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalplugin.cpp" line="+490"/>
+        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalplugin.cpp" line="+576"/>
         <source>Quetzal</source>
         <translation>Quetzal</translation>
     </message>
@@ -19,17 +19,60 @@
 <context>
     <name>Quetzal</name>
     <message>
-        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalaccount.cpp" line="+73"/>
         <source>Join groupchat</source>
-        <translation>Присъединяване към групов разговор</translation>
+        <translation type="obsolete">Присъединяване към групов разговор</translation>
     </message>
 </context>
 <context>
     <name>QuetzalAccount</name>
     <message>
-        <location line="+60"/>
         <source>General</source>
-        <translation>Общи</translation>
+        <translation type="obsolete">Общи</translation>
+    </message>
+</context>
+<context>
+    <name>QuetzalAccountWizardPage</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalaccountwizard.cpp" line="+28"/>
+        <source>Username</source>
+        <translation>Потребителско име</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Password</source>
+        <translation>Парола</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Save password</source>
+        <translation>Запис на паролата</translation>
+    </message>
+    <message>
+        <location line="+56"/>
+        <source>Unable to save new account</source>
+        <translation>Неуспешен запис на новата сметка</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>An account already exists with the specified criteria.</source>
+        <translation>Вече съществува такава сметка.</translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Register</source>
+        <translation>Регистриране</translation>
+    </message>
+    <message>
+        <location line="+41"/>
+        <source>Registration is succesfull
+Complete account creating by clicking on Finish button</source>
+        <translation>Регистрацията бе успешна
+За да приключите със създаването на сметката, натиснете бутона Приключване</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Registration failed</source>
+        <translation>Неуспешна регистрация</translation>
     </message>
 </context>
 <context>
@@ -53,16 +96,20 @@
         <translation>Запис в отметките</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/quetzal/src/quetzaljoinchatdialog.cpp" line="+43"/>
-        <location line="+117"/>
         <source>Search</source>
-        <translation>Търсене</translation>
+        <translation type="obsolete">Търсене</translation>
     </message>
     <message>
-        <location line="-116"/>
-        <location line="+117"/>
         <source>Join</source>
-        <translation>Присъединяване</translation>
+        <translation type="obsolete">Присъединяване</translation>
+    </message>
+</context>
+<context>
+    <name>Settings</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalprotocol.cpp" line="+64"/>
+        <source>General</source>
+        <translation>Общи</translation>
     </message>
 </context>
 </TS>
