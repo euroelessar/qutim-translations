@@ -74,7 +74,7 @@
         <translation type="obsolete">Псевдоними:</translation>
     </message>
     <message>
-        <location line="+30"/>
+        <location line="+39"/>
         <source>Nick:</source>
         <translation>Псевдоним:</translation>
     </message>
@@ -391,7 +391,7 @@
         <translation type="obsolete">Присъединяване към канал...</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircprotocol.cpp" line="+57"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircprotocol.cpp" line="+56"/>
         <source>Show console...</source>
         <translation>Показване на конзолата...</translation>
     </message>
@@ -488,7 +488,7 @@
         <translation type="obsolete">Заглавието на канала е зададено от %1 на %2.</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="+357"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="+341"/>
         <source>%1 gives channel operator privileges to %2.</source>
         <translation>%1 даде операторски права в канала на %2.</translation>
     </message>
@@ -592,7 +592,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/irccommandalias.cpp" line="+98"/>
+        <location filename="../../qutim-meta/protocols/irc/src/irccommandalias.cpp" line="+71"/>
         <source>Not enough parameters for command %1</source>
         <translation>Липсват достатъчно параметри за командата %1</translation>
     </message>
@@ -720,132 +720,104 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircconnection.cpp" line="+160"/>
         <source>Kick / Ban</source>
-        <translation>Изритване/Забрана</translation>
+        <translation type="obsolete">Изритване/Забрана</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Kick</source>
-        <translation>Изритване</translation>
+        <translation type="obsolete">Изритване</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Kickban</source>
-        <translation>Изритване със забрана</translation>
+        <translation type="obsolete">Изритване със забрана</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Ban</source>
-        <translation>Забрана</translation>
+        <translation type="obsolete">Забрана</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Ban *!*@*.host</source>
-        <translation>Забрана *!*@*.host</translation>
+        <translation type="obsolete">Забрана *!*@*.host</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Ban *!*@domain</source>
-        <translation>Забрана *!*@domain</translation>
+        <translation type="obsolete">Забрана *!*@domain</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Ban *!user@*.host</source>
-        <translation>Забрана *!user@*.host</translation>
+        <translation type="obsolete">Забрана *!user@*.host</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Ban *!user@domain</source>
-        <translation>Забрана *!user@domain</translation>
+        <translation type="obsolete">Забрана *!user@domain</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Kickban *!*@*.host</source>
-        <translation>Изритване със забрана *!*@*.host</translation>
+        <translation type="obsolete">Изритване със забрана *!*@*.host</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Kickban *!*@domain</source>
-        <translation>Изритване със забрана *!*@domain</translation>
+        <translation type="obsolete">Изритване със забрана *!*@domain</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Kickban *!user@*.host</source>
-        <translation>Изритване със забрана *!user@*.host</translation>
+        <translation type="obsolete">Изритване със забрана *!user@*.host</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Kickban *!user@domain</source>
-        <translation>Изритване със забрана *!user@domain</translation>
+        <translation type="obsolete">Изритване със забрана *!user@domain</translation>
     </message>
     <message>
-        <location line="+8"/>
-        <source>Ping</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+8"/>
         <source>Request client information</source>
-        <translation>Заявка за информация за клиента</translation>
+        <translation type="obsolete">Заявка за информация за клиента</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Request version</source>
-        <translation>Заявка за версия</translation>
+        <translation type="obsolete">Заявка за версия</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Request time</source>
-        <translation>Заявка за време</translation>
+        <translation type="obsolete">Заявка за време</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Request avatar</source>
-        <translation>Заявка за аватар</translation>
+        <translation type="obsolete">Заявка за аватар</translation>
     </message>
     <message>
-        <location line="+15"/>
         <source>Modes</source>
-        <translation>Режими</translation>
+        <translation type="obsolete">Режими</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Give Op</source>
-        <translation>Предоставяне на операторски права</translation>
+        <translation type="obsolete">Предоставяне на операторски права</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Take Op</source>
-        <translation>Отнемане на операторските права</translation>
+        <translation type="obsolete">Отнемане на операторските права</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Give HalfOp</source>
-        <translation>Предоставяне на полуоператорски права</translation>
+        <translation type="obsolete">Предоставяне на полуоператорски права</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Take HalfOp</source>
-        <translation>Отнемане на полуоператорските права</translation>
+        <translation type="obsolete">Отнемане на полуоператорските права</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Give voice</source>
-        <translation>Предоставяне на глас</translation>
+        <translation type="obsolete">Предоставяне на глас</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Take voice</source>
-        <translation>Отнемане на глас</translation>
+        <translation type="obsolete">Отнемане на глас</translation>
     </message>
     <message>
-        <location line="+48"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircconnection.cpp" line="+176"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
     </message>
     <message>
-        <location line="+117"/>
+        <location line="+116"/>
         <source>Message of the day:</source>
         <translation>Съобщение за деня:</translation>
     </message>
@@ -873,27 +845,23 @@ Please wait a while and try again.</source>
 Моля, изчакайте малко и опитайте отново.</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>%1 set away message %2</source>
-        <translation>%1 зададе съобщение при отсъствие: %2</translation>
+        <translation type="obsolete">%1 зададе съобщение при отсъствие: %2</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>%1 removed away message</source>
-        <translation>%1 премахна съобщението при отсъствие</translation>
+        <translation type="obsolete">%1 премахна съобщението при отсъствие</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>You are no longer marked as being away</source>
-        <translation>Вече не сте отбелязан(а) като отсъстващ(а)</translation>
+        <translation type="obsolete">Вече не сте отбелязан(а) като отсъстващ(а)</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>You have been marked as being away</source>
-        <translation>Отбелязан(а) сте като отсъстващ(а)</translation>
+        <translation type="obsolete">Отбелязан(а) сте като отсъстващ(а)</translation>
     </message>
     <message numerus="yes">
-        <location line="+41"/>
+        <location line="+44"/>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
         <translation>
             <numerusform>Получен CTCP-PING отговор от %1: %2 секунда</numerusform>
@@ -906,24 +874,20 @@ Please wait a while and try again.</source>
         <translation>Получен CTCP-%1 отговор от %2: %3</translation>
     </message>
     <message>
-        <location line="+153"/>
         <source>Add at least one server before connecting</source>
-        <translation>Добавте поне един сървър преди да се свържете</translation>
+        <translation type="obsolete">Добавте поне един сървър преди да се свържете</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Set at least one nick before connecting</source>
-        <translation>Задайте поне един псевдоним преди да се свържете</translation>
+        <translation type="obsolete">Задайте поне един псевдоним преди да се свържете</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Cannot connect to %1 network</source>
-        <translation>Невъзможно е свързването към мрежата %1</translation>
+        <translation type="obsolete">Невъзможно е свързването към мрежата %1</translation>
     </message>
     <message>
-        <location line="+148"/>
         <source>Network error: %1</source>
-        <translation>Мрежова грешка: %1</translation>
+        <translation type="obsolete">Мрежова грешка: %1</translation>
     </message>
     <message>
         <source>Not enough parameters for command %1</source>
@@ -933,14 +897,12 @@ Please wait a while and try again.</source>
 <context>
     <name>qutim_sdk_0_3::irc::IrcJoinLeftActionGenerator</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="-293"/>
         <source>Leave the channel</source>
-        <translation>Напускане на канала</translation>
+        <translation type="obsolete">Напускане на канала</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Join the channel</source>
-        <translation>Присъединяване към канала</translation>
+        <translation type="obsolete">Присъединяване към канала</translation>
     </message>
 </context>
 </TS>

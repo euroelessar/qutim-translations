@@ -203,7 +203,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="+296"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="+297"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -3455,7 +3455,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="-313"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="-314"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>
@@ -3918,14 +3918,12 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Мета-заявката бе отказана от потребителя</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/abstractmetarequest.cpp" line="+67"/>
         <source>The metarequest cancelled by user</source>
-        <translation>Мета-заявката бе отказана от потребителя</translation>
+        <translation type="obsolete">Мета-заявката бе отказана от потребителя</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>The server did not answer on the metarequest</source>
-        <translation>Сървърът не отговори на мета-заявката</translation>
+        <translation type="obsolete">Сървърът не отговори на мета-заявката</translation>
     </message>
 </context>
 <context>
@@ -3945,16 +3943,16 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::FullInfoMetaRequest</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/infometarequest.cpp" line="+282"/>
         <source>Incorrect format of the metarequest</source>
-        <translation>Неверен формат на мета-заявката</translation>
+        <translation type="obsolete">Неверен формат на мета-заявката</translation>
     </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::oscar::IcqInfoRequest</name>
     <message>
+        <location filename="../../qutim-meta/protocols/oscar/src/inforequest.cpp" line="+39"/>
         <source>You are sending information requests too often</source>
-        <translation type="obsolete">Изпращате заявки за информация твърде често</translation>
+        <translation>Изпращате заявки за информация твърде често</translation>
     </message>
 </context>
 <context>
@@ -3981,9 +3979,8 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::MetaInfo</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/metainfo.cpp" line="+68"/>
         <source>Incorrect format of the metarequest</source>
-        <translation>Неверен формат на мета-заявката</translation>
+        <translation type="obsolete">Неверен формат на мета-заявката</translation>
     </message>
 </context>
 <context>
