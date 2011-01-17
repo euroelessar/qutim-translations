@@ -300,7 +300,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/jsonhistory/jsonhistory.cpp" line="+16"/>
+        <location filename="../../qutim-meta/core/src/corelayers/jsonhistory/jsonhistory.cpp" line="+32"/>
         <source>View History</source>
         <translation>Преглед на хронологията</translation>
     </message>
@@ -427,7 +427,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+477"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+466"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -1139,31 +1139,31 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::HistoryWindow</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/jsonhistory/historywindow.cpp" line="+40"/>
+        <location filename="../../qutim-meta/core/src/corelayers/jsonhistory/historywindow.cpp" line="+41"/>
         <location line="+63"/>
         <source>No History</source>
         <translation>Няма хронология</translation>
     </message>
     <message>
         <location line="-62"/>
-        <location line="+393"/>
+        <location line="+417"/>
         <source>In: %L1</source>
         <translation>Входящи: %L1</translation>
     </message>
     <message>
-        <location line="-392"/>
-        <location line="+393"/>
+        <location line="-416"/>
+        <location line="+417"/>
         <source>Out: %L1</source>
         <translation>Изходящи: %L1</translation>
     </message>
     <message>
-        <location line="-392"/>
-        <location line="+393"/>
+        <location line="-416"/>
+        <location line="+417"/>
         <source>All: %L1</source>
         <translation>Общо: %L1</translation>
     </message>
     <message>
-        <location line="-36"/>
+        <location line="-78"/>
         <source>Service message</source>
         <translation>Служебно съобщение</translation>
     </message>
@@ -3193,7 +3193,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/status.cpp" line="+112"/>
+        <location filename="../../qutim-meta/core/libqutim/status.cpp" line="+145"/>
         <source>Online</source>
         <translation>На линия</translation>
     </message>

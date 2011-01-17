@@ -70,7 +70,7 @@
         <translation>Настройки</translation>
     </message>
     <message>
-        <location line="+39"/>
+        <location line="+30"/>
         <source>Nick:</source>
         <translation>Ник:</translation>
     </message>
@@ -387,7 +387,7 @@
         <translation type="obsolete">Войти в канал...</translation>
     </message>
     <message>
-        <location filename="../../src/ircprotocol.cpp" line="+56"/>
+        <location filename="../../src/ircprotocol.cpp" line="+57"/>
         <source>Show console...</source>
         <translation>Показать консоль...</translation>
     </message>
@@ -484,7 +484,7 @@
         <translation type="obsolete">%1 сменил топик на %2.</translation>
     </message>
     <message>
-        <location filename="../../src/ircchannel.cpp" line="+341"/>
+        <location filename="../../src/ircchannel.cpp" line="+357"/>
         <source>%1 gives channel operator privileges to %2.</source>
         <translation>%1 дал опа %2.</translation>
     </message>
@@ -573,7 +573,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../src/irccommandalias.cpp" line="+71"/>
+        <location filename="../../src/irccommandalias.cpp" line="+98"/>
         <source>Not enough parameters for command %1</source>
         <translation>Не хавтает параметров команде %1</translation>
     </message>
@@ -701,12 +701,132 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../src/ircconnection.cpp" line="+176"/>
+        <location filename="../../src/ircconnection.cpp" line="+160"/>
+        <source>Kick / Ban</source>
+        <translation>Кик / Бан</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Kick</source>
+        <translation>Кик</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Kickban</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Ban</source>
+        <translation>Бан</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Ban *!*@*.host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Ban *!*@domain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Ban *!user@*.host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Ban *!user@domain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Kickban *!*@*.host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Kickban *!*@domain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Kickban *!user@*.host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Kickban *!user@domain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Ping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Request client information</source>
+        <translation type="unfinished">Запросить информацию</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Request version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Request time</source>
+        <translation type="unfinished">Запросить время</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Request avatar</source>
+        <translation type="unfinished">Запросить аватар</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Modes</source>
+        <translation>Режимы</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Give Op</source>
+        <translation>Дать Опа</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Take Op</source>
+        <translation>Взять Опа</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Give HalfOp</source>
+        <translation>Дать полуОпа</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Take HalfOp</source>
+        <translation>Взять полуопа</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Give voice</source>
+        <translation type="unfinished">Дать голос</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Take voice</source>
+        <translation type="unfinished">Забрать голос</translation>
+    </message>
+    <message>
+        <location line="+48"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сервер %1 (Версия %2), Режимы пользователей: %3, Режимы каналов: %4</translation>
     </message>
     <message>
-        <location line="+116"/>
+        <location line="+117"/>
         <source>Message of the day:</source>
         <translation>Сообщение дня:</translation>
     </message>
@@ -733,8 +853,28 @@ Please wait a while and try again.</source>
         <translation>Нагрузка на сервер сейчас слишком велика.
 Повторите попытку чуть позже.</translation>
     </message>
+    <message>
+        <location line="+10"/>
+        <source>%1 set away message %2</source>
+        <translation type="unfinished">%1 установил сообщение отсутствия %2</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>%1 removed away message</source>
+        <translation type="unfinished">%1 удалил сообщение отстутствия</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>You are no longer marked as being away</source>
+        <translation type="unfinished">Вы более не &quot;отсутствуете&quot;</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>You have been marked as being away</source>
+        <translation type="unfinished">Теперь вы &quot;отсутствуете&quot;</translation>
+    </message>
     <message numerus="yes">
-        <location line="+44"/>
+        <location line="+41"/>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
         <translatorcomment>причём тут %n который хочет linguist ?</translatorcomment>
         <translation>
@@ -749,8 +889,41 @@ Please wait a while and try again.</source>
         <translation>Принят CTPC-%1 ответ  от %2: %3</translation>
     </message>
     <message>
+        <location line="+153"/>
+        <source>Add at least one server before connecting</source>
+        <translation type="unfinished">Необходимо добавить хотя бы один сервер перед подключением</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Set at least one nick before connecting</source>
+        <translation type="unfinished">Необходимо указать ник, перед подключением</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Cannot connect to %1 network</source>
+        <translation type="unfinished">Не удалось полклюиться к сети %1</translation>
+    </message>
+    <message>
+        <location line="+148"/>
+        <source>Network error: %1</source>
+        <translation type="unfinished">Ошибка сети: %1</translation>
+    </message>
+    <message>
         <source>Not enough parameters for command %1</source>
         <translation type="obsolete">Не хавтает параметров команде %1</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::irc::IrcJoinLeftActionGenerator</name>
+    <message>
+        <location filename="../../src/ircchannel.cpp" line="-293"/>
+        <source>Leave the channel</source>
+        <translation type="unfinished">Покинуть канал</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Join the channel</source>
+        <translation type="unfinished">Войти на канал</translation>
     </message>
 </context>
 </TS>

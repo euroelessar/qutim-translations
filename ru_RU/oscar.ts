@@ -218,7 +218,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../src/connection.cpp" line="+297"/>
+        <location filename="../../src/connection.cpp" line="+296"/>
         <source>Invalid nick or password</source>
         <translation>Неверный ник или пароль</translation>
     </message>
@@ -3480,7 +3480,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../src/connection.cpp" line="-314"/>
+        <location filename="../../src/connection.cpp" line="-313"/>
         <source>Invalid SNAC header</source>
         <translation>Неверный заголовок SNAC</translation>
     </message>
@@ -3939,6 +3939,23 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::oscar::AbstractMetaRequest</name>
+    <message>
+        <source>The metarequest canceled by user</source>
+        <translation type="obsolete">Метазапрос отменен пользователем</translation>
+    </message>
+    <message>
+        <location filename="../../src/metainfo/abstractmetarequest.cpp" line="+67"/>
+        <source>The metarequest cancelled by user</source>
+        <translation type="unfinished">Метазапрос отменен пользователем</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>The server did not answer on the metarequest</source>
+        <translation type="unfinished">Сервер не ответил на метазапрос</translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::oscar::ClientIdentify</name>
     <message>
         <location filename="../../plugins/identify/clientidentify.cpp" line="+27"/>
@@ -3953,11 +3970,19 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::oscar::FullInfoMetaRequest</name>
+    <message>
+        <location filename="../../src/metainfo/infometarequest.cpp" line="+282"/>
+        <source>Incorrect format of the metarequest</source>
+        <translatorcomment>metarequest - спросить что это такое</translatorcomment>
+        <translation type="unfinished">Неверный формат метазапроса</translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::oscar::IcqInfoRequest</name>
     <message>
-        <location filename="../../src/inforequest.cpp" line="+39"/>
         <source>You are sending information requests too often</source>
-        <translation>Вы отправляете информационные запросы слишком часто</translation>
+        <translation type="obsolete">Вы отправляете информационные запросы слишком часто</translation>
     </message>
 </context>
 <context>
@@ -3965,7 +3990,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/ui/icqmainsettings.cpp" line="+101"/>
         <source>Codec</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Кодек</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3979,6 +4004,15 @@ p, li { white-space: pre-wrap; }
         <location filename="../../src/md5login.cpp" line="+82"/>
         <source>No IP addresses were found for the host &apos;%1&apos;</source>
         <translation type="unfinished">Не найдено соответствие IP адреса серверу &apos;%1&apos;</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::oscar::MetaInfo</name>
+    <message>
+        <location filename="../../src/metainfo/metainfo.cpp" line="+68"/>
+        <source>Incorrect format of the metarequest</source>
+        <translatorcomment> metarequest - спросить что это такое</translatorcomment>
+        <translation type="unfinished">Неверный формат метазапроса</translation>
     </message>
 </context>
 <context>
@@ -4002,7 +4036,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="../../plugins/xstatus/xstatus.cpp" line="+254"/>
+        <location filename="../../plugins/xstatus/xstatus.cpp" line="+250"/>
         <source>X-Status</source>
         <translation type="unfinished">X-Статус</translation>
     </message>
