@@ -191,7 +191,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>YandexNarodUploadDialog</name>
     <message>
-        <location filename="../../src/uploaddialog.cpp" line="+118"/>
+        <location filename="../../src/uploaddialog.cpp" line="+119"/>
         <source>Choose file for %1</source>
         <translation>Выберите файл для %1</translation>
     </message>
@@ -221,7 +221,7 @@ p, li { white-space: pre-wrap; }
         <translation>Будет закончено через %1м %2с</translation>
     </message>
     <message>
-        <location line="+30"/>
+        <location line="+31"/>
         <source>Upload complete.</source>
         <translation>Загрузка на сервер завершена.</translation>
     </message>
@@ -239,7 +239,7 @@ p, li { white-space: pre-wrap; }
 %U</translation>
     </message>
     <message>
-        <location filename="../../src/uploaddialog.h" line="+86"/>
+        <location filename="../../src/uploaddialog.h" line="+87"/>
         <source>Uploading</source>
         <translation>Загрузка на север</translation>
     </message>

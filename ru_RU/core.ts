@@ -343,7 +343,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Отправить сообщение</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="+42"/>
+        <location filename="../../src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="+43"/>
         <source>Close chat</source>
         <translation>Закрыть чат</translation>
     </message>
@@ -505,7 +505,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+872"/>
+        <location filename="../../src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+890"/>
         <source>Remove contact</source>
         <translation>Удалить контакт</translation>
     </message>
@@ -515,7 +515,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавить в ростер</translation>
     </message>
     <message>
-        <location line="-790"/>
+        <location line="-808"/>
         <source>Rename contact</source>
         <translation>Переименовать</translation>
     </message>
@@ -1076,7 +1076,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ChatSpellChecker</name>
     <message>
-        <location filename="../../src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+140"/>
+        <location filename="../../src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+150"/>
         <source>Add to dictionary</source>
         <translation type="unfinished">Добавить в словарь</translation>
     </message>
@@ -1553,7 +1553,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Контакты</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+547"/>
+        <location filename="../../src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+565"/>
         <source>Without tags</source>
         <translation type="unfinished">Без меток</translation>
     </message>
@@ -1578,7 +1578,7 @@ p, li { white-space: pre-wrap; }
         <translation>Слияние контактов</translation>
     </message>
     <message>
-        <location line="+304"/>
+        <location line="-558"/>
         <source>All tags</source>
         <translation>Все метки</translation>
     </message>
@@ -1690,7 +1690,7 @@ p, li { white-space: pre-wrap; }
         <translation>-</translation>
     </message>
     <message>
-        <location line="+466"/>
+        <location line="+529"/>
         <source>Open image</source>
         <translation>Открыть рисунок</translation>
     </message>

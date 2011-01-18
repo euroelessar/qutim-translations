@@ -43,7 +43,7 @@
 <context>
     <name>UrlPreview::UrlPreviewPlugin</name>
     <message>
-        <location line="+27"/>
+        <location line="+30"/>
         <source>URL Preview</source>
         <translation>Предпросмотр URL</translation>
     </message>
@@ -53,7 +53,7 @@
         <translation>байт</translation>
     </message>
     <message>
-        <location line="+121"/>
+        <location line="+127"/>
         <source>YouTube video</source>
         <translation>YouTube видео</translation>
     </message>

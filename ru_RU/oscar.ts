@@ -3959,12 +3959,12 @@ p, li { white-space: pre-wrap; }
     <name>qutim_sdk_0_3::oscar::ClientIdentify</name>
     <message>
         <location filename="../../plugins/identify/clientidentify.cpp" line="+27"/>
-        <location line="+130"/>
+        <location line="+126"/>
         <source>Possible client</source>
         <translation>Возможный клиент</translation>
     </message>
     <message>
-        <location line="-129"/>
+        <location line="-125"/>
         <source>Show client icon</source>
         <translation>Показывать иконку клиента</translation>
     </message>
