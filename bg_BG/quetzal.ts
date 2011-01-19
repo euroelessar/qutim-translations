@@ -4,7 +4,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalplugin.cpp" line="+576"/>
+        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalplugin.cpp" line="+585"/>
         <source>Quetzal</source>
         <translation>Quetzal</translation>
     </message>
@@ -48,7 +48,7 @@
         <translation>Запис на паролата</translation>
     </message>
     <message>
-        <location line="+56"/>
+        <location line="+57"/>
         <source>Unable to save new account</source>
         <translation>Неуспешен запис на новата сметка</translation>
     </message>
@@ -107,7 +107,7 @@ Complete account creating by clicking on Finish button</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalprotocol.cpp" line="+64"/>
+        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalprotocol.cpp" line="+65"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>

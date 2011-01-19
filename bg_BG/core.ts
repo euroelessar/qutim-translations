@@ -590,7 +590,7 @@ p, li { white-space: pre-wrap; }
         <translation>Копиране в клипборда</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+872"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+890"/>
         <source>Remove contact</source>
         <translation>Прeмахване на контакта</translation>
     </message>
@@ -600,7 +600,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавяне в списъка с контакти</translation>
     </message>
     <message>
-        <location line="-790"/>
+        <location line="-808"/>
         <source>Rename contact</source>
         <translation>Преименуване на контакта</translation>
     </message>
@@ -1546,7 +1546,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+547"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+565"/>
         <source>Without tags</source>
         <translation>Без тагове</translation>
     </message>
@@ -1575,7 +1575,7 @@ p, li { white-space: pre-wrap; }
         <translation>Обединяване на контакти</translation>
     </message>
     <message>
-        <location line="+304"/>
+        <location line="-558"/>
         <source>All tags</source>
         <translation>Всички етикети</translation>
     </message>
@@ -1675,7 +1675,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Не е зададено</translation>
     </message>
     <message>
-        <location line="+499"/>
+        <location line="+529"/>
         <source>Open image</source>
         <translation>Отваряне на изображение</translation>
     </message>
