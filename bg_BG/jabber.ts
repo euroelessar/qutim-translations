@@ -894,7 +894,7 @@
         <translation>Настройване на стаята</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+163"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+167"/>
         <source>Conference</source>
         <translation>Конференция</translation>
     </message>
@@ -1615,7 +1615,7 @@ Accept invitation?</source>
         <translation type="obsolete">Извън списъка</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+334"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+335"/>
         <source>You have been added to the list of subscribers</source>
         <translation>Бяхте добавени в списъка с абонати</translation>
     </message>
@@ -1625,7 +1625,7 @@ Accept invitation?</source>
         <translation>Бяхте премахнати от списъка с абонати</translation>
     </message>
     <message>
-        <location line="-204"/>
+        <location line="-205"/>
         <source>Contact %1 has been added to roster</source>
         <translation>Контактът %1 бе добавен към списъка</translation>
     </message>
@@ -1635,7 +1635,7 @@ Accept invitation?</source>
         <translation>Контактът %1 бе премахнат списъка</translation>
     </message>
     <message>
-        <location line="+168"/>
+        <location line="+169"/>
         <source>Received a request for removal from the subscribers</source>
         <translation>Получи се заявка за премахване от списъка с абонати</translation>
     </message>
@@ -2561,7 +2561,7 @@ Accept invitation?</source>
     <message>
         <location line="+5"/>
         <source>Register</source>
-        <translation>Регистрация</translation>
+        <translation>Регистриране</translation>
     </message>
     <message>
         <location line="+3"/>
