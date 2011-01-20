@@ -789,7 +789,7 @@
         <translation type="obsolete">Войти в конференцию</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/muc/jbookmarkmanager.cpp" line="+176"/>
+        <location filename="../../src/protocol/account/muc/jbookmarkmanager.cpp" line="+180"/>
         <source>Password</source>
         <translation>Пароль</translation>
     </message>
@@ -1418,7 +1418,7 @@ Accept invitation?</source>
         <translation type="obsolete">Не в списке</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/roster/jroster.cpp" line="+334"/>
+        <location filename="../../src/protocol/account/roster/jroster.cpp" line="+335"/>
         <source>You have been added to the list of subscribers</source>
         <translation type="unfinished">Вы были добавлены в список подписчиков</translation>
     </message>
@@ -1428,7 +1428,7 @@ Accept invitation?</source>
         <translation type="unfinished">Вы были исключены из списка подписчиков</translation>
     </message>
     <message>
-        <location line="-204"/>
+        <location line="-205"/>
         <source>Contact %1 has been added to roster</source>
         <translation type="unfinished">Контакт %1 добавлен в ростер</translation>
     </message>
@@ -1438,7 +1438,7 @@ Accept invitation?</source>
         <translation type="unfinished">Контакт %1 удален из ростера</translation>
     </message>
     <message>
-        <location line="+168"/>
+        <location line="+169"/>
         <source>Received a request for removal from the subscribers</source>
         <translation type="unfinished">Принят запрос на удаление из подписок</translation>
     </message>
