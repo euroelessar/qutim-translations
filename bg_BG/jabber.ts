@@ -769,36 +769,36 @@
         <translation>Настройки</translation>
     </message>
     <message>
-        <location line="+15"/>
+        <location line="+29"/>
         <source>Default resource:</source>
         <translation>Ресурс по подразбиране:</translation>
     </message>
     <message>
+        <location line="+28"/>
         <source>Reconnect after disconnect</source>
-        <translation type="obsolete">Повторно свързване при загуба на връзка</translation>
+        <translation>Повторно свързване при загуба на връзка</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Password:</source>
-        <translation>Парола:</translation>
+        <translation type="obsolete">Парола:</translation>
     </message>
     <message>
-        <location line="+14"/>
+        <location line="+7"/>
         <source>Don&apos;t send request for avatars</source>
         <translation>Да не се изпращат заявки за аватари</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="+18"/>
         <source>Listen port for filetransfer:</source>
         <translation>Порт за предаване на файлове:</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+41"/>
         <source>Priority depends on status</source>
         <translation>Приоритетът да зависи от статуса</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+9"/>
         <source>Online:</source>
         <translation>На линия:</translation>
     </message>
@@ -2612,13 +2612,13 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-313"/>
         <source>Jabber</source>
-        <translation type="obsolete">Jabber</translation>
+        <translation>Jabber</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-313"/>
         <source>Main settings</source>
-        <translation>Основни настройки</translation>
+        <translation type="obsolete">Основни настройки</translation>
     </message>
 </context>
 <context>
