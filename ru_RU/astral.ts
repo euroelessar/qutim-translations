@@ -22,9 +22,8 @@
         <translation type="unfinished">Протокол использующий Телепатию</translation>
     </message>
     <message>
-        <location filename="../../src/astralplugin.cpp" line="54"/>
         <source>Plugin support by Telepathy</source>
-        <translation type="unfinished">Модуль использует Телепатию</translation>
+        <translation type="obsolete">Модуль использует Телепатию</translation>
     </message>
 </context>
 <context>

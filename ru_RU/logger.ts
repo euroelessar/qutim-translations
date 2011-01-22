@@ -12,7 +12,7 @@
 <context>
     <name>Logger::LoggerPlugin</name>
     <message>
-        <location line="+12"/>
+        <location line="+18"/>
         <source>New session started, happy debuging ^_^</source>
         <translation type="unfinished">New session started, happy debuging ^_^
 Новая сессия запущена, удачной отладки ^_^</translation>
@@ -21,18 +21,18 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location line="-15"/>
-        <location line="+19"/>
+        <location line="-21"/>
+        <location line="+25"/>
         <source>Logger</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-18"/>
+        <location line="-24"/>
         <source>Simple file based logger for debug</source>
         <translation type="unfinished">Простое логирование в файл для отладки</translation>
     </message>
     <message>
-        <location line="+21"/>
+        <location line="+27"/>
         <source>Select log path</source>
         <translation type="unfinished">Выберите путь к логам</translation>
     </message>
@@ -40,7 +40,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location line="-18"/>
+        <location line="-24"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>

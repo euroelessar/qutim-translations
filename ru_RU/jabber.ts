@@ -305,12 +305,12 @@
 <context>
     <name>Conference</name>
     <message>
-        <location filename="../../src/protocol/jprotocol.cpp" line="+72"/>
+        <location filename="../../src/protocol/jprotocol.cpp" line="+74"/>
         <source>Kick</source>
         <translation>Кик</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+6"/>
         <source>Ban</source>
         <translation>Бан</translation>
     </message>
@@ -319,7 +319,7 @@
         <translation type="obsolete">Превратить в конференцию</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucuser.cpp" line="+114"/>
+        <location filename="../../src/protocol/account/muc/jmucuser.cpp" line="+119"/>
         <source>Real JID</source>
         <translation>Настоящий JID</translation>
     </message>
@@ -771,7 +771,7 @@
 <context>
     <name>Jabber</name>
     <message>
-        <location filename="../../src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+88"/>
+        <location filename="../../src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+104"/>
         <source>Xml console</source>
         <translation>Консоль XML</translation>
     </message>
@@ -789,7 +789,7 @@
         <translation type="obsolete">Войти в конференцию</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/muc/jbookmarkmanager.cpp" line="+176"/>
+        <location filename="../../src/protocol/account/muc/jbookmarkmanager.cpp" line="+180"/>
         <source>Password</source>
         <translation>Пароль</translation>
     </message>
@@ -811,7 +811,7 @@
         <translation type="obsolete">Копировать адрес конференции в буфер</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/jprotocol.cpp" line="+6"/>
+        <location filename="../../src/protocol/jprotocol.cpp" line="+10"/>
         <location line="+238"/>
         <source>Join conference</source>
         <translation>Войти в конференцию</translation>
@@ -920,7 +920,7 @@
 <context>
     <name>Jabber::JAccount</name>
     <message>
-        <location filename="../../src/protocol/account/jaccount.cpp" line="+161"/>
+        <location filename="../../src/protocol/account/jaccount.cpp" line="+169"/>
         <source>qutIM</source>
         <comment>Local qutIM&apos;s name</comment>
         <translation type="unfinished"></translation>
@@ -1401,7 +1401,7 @@ Accept invitation?</source>
         <translation>Укажите причину блокировки %1</translation>
     </message>
     <message>
-        <location line="+216"/>
+        <location line="+227"/>
         <source>Possible client</source>
         <translation>Возможный клиент</translation>
     </message>
@@ -1418,7 +1418,7 @@ Accept invitation?</source>
         <translation type="obsolete">Не в списке</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/roster/jroster.cpp" line="+334"/>
+        <location filename="../../src/protocol/account/roster/jroster.cpp" line="+335"/>
         <source>You have been added to the list of subscribers</source>
         <translation type="unfinished">Вы были добавлены в список подписчиков</translation>
     </message>
@@ -1428,7 +1428,7 @@ Accept invitation?</source>
         <translation type="unfinished">Вы были исключены из списка подписчиков</translation>
     </message>
     <message>
-        <location line="-204"/>
+        <location line="-205"/>
         <source>Contact %1 has been added to roster</source>
         <translation type="unfinished">Контакт %1 добавлен в ростер</translation>
     </message>
@@ -1438,7 +1438,7 @@ Accept invitation?</source>
         <translation type="unfinished">Контакт %1 удален из ростера</translation>
     </message>
     <message>
-        <location line="+168"/>
+        <location line="+169"/>
         <source>Received a request for removal from the subscribers</source>
         <translation type="unfinished">Принят запрос на удаление из подписок</translation>
     </message>
@@ -1622,7 +1622,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JSoftwareDetection</name>
     <message>
-        <location filename="../../src/protocol/account/roster/jsoftwaredetection.cpp" line="+284"/>
+        <location filename="../../src/protocol/account/roster/jsoftwaredetection.cpp" line="+291"/>
         <source>Possible client</source>
         <translation>Возможный клиент</translation>
     </message>
@@ -1630,7 +1630,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::XmlConsole</name>
     <message>
-        <location filename="../../src/protocol/modules/xmlconsole/xmlconsole.cpp" line="-50"/>
+        <location filename="../../src/protocol/modules/xmlconsole/xmlconsole.cpp" line="-59"/>
         <source>Filter</source>
         <translation type="unfinished">Фильтр</translation>
     </message>
@@ -2403,7 +2403,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../src/protocol/jprotocol.cpp" line="-295"/>
+        <location filename="../../src/protocol/jprotocol.cpp" line="-313"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>

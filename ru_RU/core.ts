@@ -50,7 +50,7 @@
 <context>
     <name>ActionToolBar</name>
     <message>
-        <location filename="../../libqutim/actiontoolbar.cpp" line="+29"/>
+        <location filename="../../libqutim/actiontoolbar.cpp" line="+37"/>
         <source>Small (16x16)</source>
         <translation>Малый (16x16)</translation>
     </message>
@@ -70,44 +70,41 @@
         <translation>Огромный (64x64)</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+8"/>
         <source>Only display the icon</source>
         <translation>Только иконки</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+2"/>
         <source>Only display the text</source>
         <translation>Только текcт</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+2"/>
         <source>The text appears beside the icon</source>
         <translation>Текст сбоку от иконок</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+2"/>
         <source>The text appears under the icon</source>
         <translation>Текст под иконками</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+2"/>
         <source>Follow the style</source>
         <translation>Следовать стилю</translation>
     </message>
     <message>
-        <location line="+34"/>
         <source>ToolBar appearance</source>
-        <translation>Оформление панелей</translation>
+        <translation type="obsolete">Оформление панелей</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Icon size</source>
-        <translation>Размер пиктограмм</translation>
+        <translation type="obsolete">Размер пиктограмм</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Tool button style</source>
-        <translation>Стиль кнопок &quot;инструментов&quot;</translation>
+        <translation type="obsolete">Стиль кнопок &quot;инструментов&quot;</translation>
     </message>
 </context>
 <context>
@@ -505,7 +502,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+872"/>
+        <location filename="../../src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+891"/>
         <source>Remove contact</source>
         <translation>Удалить контакт</translation>
     </message>
@@ -515,7 +512,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавить в ростер</translation>
     </message>
     <message>
-        <location line="-790"/>
+        <location line="-809"/>
         <source>Rename contact</source>
         <translation>Переименовать</translation>
     </message>
@@ -601,8 +598,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+1"/>
+        <source>Huge (64x64)</source>
+        <translation type="unfinished">Огромный (64x64)</translation>
+    </message>
+    <message>
         <source>Hige (64x64)</source>
-        <translation>Огромный (64x64)</translation>
+        <translation type="obsolete">Огромный (64x64)</translation>
     </message>
 </context>
 <context>
@@ -1099,24 +1100,24 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-62"/>
-        <location line="+417"/>
+        <location line="+435"/>
         <source>In: %L1</source>
         <translation>Пришло: %L1</translation>
     </message>
     <message>
-        <location line="-416"/>
-        <location line="+417"/>
+        <location line="-434"/>
+        <location line="+435"/>
         <source>Out: %L1</source>
         <translation>Ушло: %L1</translation>
     </message>
     <message>
-        <location line="-416"/>
-        <location line="+417"/>
+        <location line="-434"/>
+        <location line="+435"/>
         <source>All: %L1</source>
         <translation>Всего: %L1</translation>
     </message>
     <message>
-        <location line="-78"/>
+        <location line="-93"/>
         <source>Service message</source>
         <translation>Сервисное сообщение</translation>
     </message>
@@ -1553,7 +1554,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Контакты</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+547"/>
+        <location filename="../../src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+565"/>
         <source>Without tags</source>
         <translation type="unfinished">Без меток</translation>
     </message>
@@ -1578,7 +1579,7 @@ p, li { white-space: pre-wrap; }
         <translation>Слияние контактов</translation>
     </message>
     <message>
-        <location line="+304"/>
+        <location line="-558"/>
         <source>All tags</source>
         <translation>Все метки</translation>
     </message>
@@ -1690,7 +1691,7 @@ p, li { white-space: pre-wrap; }
         <translation>-</translation>
     </message>
     <message>
-        <location line="+466"/>
+        <location line="+529"/>
         <source>Open image</source>
         <translation>Открыть рисунок</translation>
     </message>
@@ -2210,7 +2211,7 @@ p, li { white-space: pre-wrap; }
         <translation>Окно настроек qutIM выполенное в стиле OS X</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/localization/localizationplugin.cpp" line="+11"/>
+        <location filename="../../src/corelayers/localization/localizationplugin.cpp" line="+28"/>
         <source>Localization</source>
         <translation>Локализация</translation>
     </message>
@@ -2726,6 +2727,16 @@ p, li { white-space: pre-wrap; }
         <source>Stores roster during offline at local storage</source>
         <translation type="unfinished">Хранение локально списка контактов</translation>
     </message>
+    <message>
+        <location filename="../../src/corelayers/adiumchat/textchatplugin.cpp" line="+11"/>
+        <source>Text view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Fast and light chat view</source>
+        <translation type="unfinished">Быстрый и легкий вид чата</translation>
+    </message>
 </context>
 <context>
     <name>ProfileCreationPage</name>
@@ -2831,7 +2842,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Proxy</name>
     <message>
-        <location filename="../../libqutim/networkproxy.cpp" line="+67"/>
+        <location filename="../../libqutim/networkproxy.cpp" line="+80"/>
         <source>Host</source>
         <translation type="unfinished">Сервер</translation>
     </message>
@@ -3650,6 +3661,42 @@ p, li { white-space: pre-wrap; }
         <location filename="../../libqutim/networkproxy.cpp" line="-89"/>
         <source>Type</source>
         <translation type="unfinished">Тип</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::ActionToolBar</name>
+    <message>
+        <location filename="../../libqutim/actiontoolbar.cpp" line="+179"/>
+        <source>ToolBar appearance</source>
+        <translation type="unfinished">Оформление панелей</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Icon size</source>
+        <translation type="unfinished">Размер пиктограмм</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Tool button style</source>
+        <translation type="unfinished">Стиль кнопок &quot;инструментов&quot;</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::ActionToolBarPrivate</name>
+    <message>
+        <location line="-152"/>
+        <source>ToolBar appearance</source>
+        <translation type="unfinished">Оформление панелей</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Icon size</source>
+        <translation type="unfinished">Размер пиктограмм</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Tool button style</source>
+        <translation type="unfinished">Стиль кнопок &quot;инструментов&quot;</translation>
     </message>
 </context>
 <context>
