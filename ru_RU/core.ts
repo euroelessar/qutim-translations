@@ -50,7 +50,7 @@
 <context>
     <name>ActionToolBar</name>
     <message>
-        <location filename="../../libqutim/actiontoolbar.cpp" line="+29"/>
+        <location filename="../../libqutim/actiontoolbar.cpp" line="+37"/>
         <source>Small (16x16)</source>
         <translation>Малый (16x16)</translation>
     </message>
@@ -70,44 +70,41 @@
         <translation>Огромный (64x64)</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+8"/>
         <source>Only display the icon</source>
         <translation>Только иконки</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+2"/>
         <source>Only display the text</source>
         <translation>Только текcт</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+2"/>
         <source>The text appears beside the icon</source>
         <translation>Текст сбоку от иконок</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+2"/>
         <source>The text appears under the icon</source>
         <translation>Текст под иконками</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+2"/>
         <source>Follow the style</source>
         <translation>Следовать стилю</translation>
     </message>
     <message>
-        <location line="+34"/>
         <source>ToolBar appearance</source>
-        <translation>Оформление панелей</translation>
+        <translation type="obsolete">Оформление панелей</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Icon size</source>
-        <translation>Размер пиктограмм</translation>
+        <translation type="obsolete">Размер пиктограмм</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Tool button style</source>
-        <translation>Стиль кнопок &quot;инструментов&quot;</translation>
+        <translation type="obsolete">Стиль кнопок &quot;инструментов&quot;</translation>
     </message>
 </context>
 <context>
@@ -343,7 +340,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Отправить сообщение</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="+43"/>
+        <location filename="../../src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="+42"/>
         <source>Close chat</source>
         <translation>Закрыть чат</translation>
     </message>
@@ -1080,7 +1077,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ChatSpellChecker</name>
     <message>
-        <location filename="../../src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+150"/>
+        <location filename="../../src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+140"/>
         <source>Add to dictionary</source>
         <translation type="unfinished">Добавить в словарь</translation>
     </message>
@@ -1103,24 +1100,24 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-62"/>
-        <location line="+417"/>
+        <location line="+435"/>
         <source>In: %L1</source>
         <translation>Пришло: %L1</translation>
     </message>
     <message>
-        <location line="-416"/>
-        <location line="+417"/>
+        <location line="-434"/>
+        <location line="+435"/>
         <source>Out: %L1</source>
         <translation>Ушло: %L1</translation>
     </message>
     <message>
-        <location line="-416"/>
-        <location line="+417"/>
+        <location line="-434"/>
+        <location line="+435"/>
         <source>All: %L1</source>
         <translation>Всего: %L1</translation>
     </message>
     <message>
-        <location line="-78"/>
+        <location line="-93"/>
         <source>Service message</source>
         <translation>Сервисное сообщение</translation>
     </message>
@@ -2214,7 +2211,7 @@ p, li { white-space: pre-wrap; }
         <translation>Окно настроек qutIM выполенное в стиле OS X</translation>
     </message>
     <message>
-        <location filename="../../src/corelayers/localization/localizationplugin.cpp" line="+11"/>
+        <location filename="../../src/corelayers/localization/localizationplugin.cpp" line="+28"/>
         <source>Localization</source>
         <translation>Локализация</translation>
     </message>
@@ -2729,6 +2726,16 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Stores roster during offline at local storage</source>
         <translation type="unfinished">Хранение локально списка контактов</translation>
+    </message>
+    <message>
+        <location filename="../../src/corelayers/adiumchat/textchatplugin.cpp" line="+11"/>
+        <source>Text view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Fast and light chat view</source>
+        <translation type="unfinished">Быстрый и легкий вид чата</translation>
     </message>
 </context>
 <context>
@@ -3654,6 +3661,42 @@ p, li { white-space: pre-wrap; }
         <location filename="../../libqutim/networkproxy.cpp" line="-89"/>
         <source>Type</source>
         <translation type="unfinished">Тип</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::ActionToolBar</name>
+    <message>
+        <location filename="../../libqutim/actiontoolbar.cpp" line="+179"/>
+        <source>ToolBar appearance</source>
+        <translation type="unfinished">Оформление панелей</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Icon size</source>
+        <translation type="unfinished">Размер пиктограмм</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Tool button style</source>
+        <translation type="unfinished">Стиль кнопок &quot;инструментов&quot;</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::ActionToolBarPrivate</name>
+    <message>
+        <location line="-152"/>
+        <source>ToolBar appearance</source>
+        <translation type="unfinished">Оформление панелей</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Icon size</source>
+        <translation type="unfinished">Размер пиктограмм</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Tool button style</source>
+        <translation type="unfinished">Стиль кнопок &quot;инструментов&quot;</translation>
     </message>
 </context>
 <context>

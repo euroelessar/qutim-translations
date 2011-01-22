@@ -305,12 +305,12 @@
 <context>
     <name>Conference</name>
     <message>
-        <location filename="../../src/protocol/jprotocol.cpp" line="+72"/>
+        <location filename="../../src/protocol/jprotocol.cpp" line="+74"/>
         <source>Kick</source>
         <translation>Кик</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+6"/>
         <source>Ban</source>
         <translation>Бан</translation>
     </message>
@@ -319,7 +319,7 @@
         <translation type="obsolete">Превратить в конференцию</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/account/muc/jmucuser.cpp" line="+114"/>
+        <location filename="../../src/protocol/account/muc/jmucuser.cpp" line="+119"/>
         <source>Real JID</source>
         <translation>Настоящий JID</translation>
     </message>
@@ -771,7 +771,7 @@
 <context>
     <name>Jabber</name>
     <message>
-        <location filename="../../src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+88"/>
+        <location filename="../../src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+104"/>
         <source>Xml console</source>
         <translation>Консоль XML</translation>
     </message>
@@ -811,7 +811,7 @@
         <translation type="obsolete">Копировать адрес конференции в буфер</translation>
     </message>
     <message>
-        <location filename="../../src/protocol/jprotocol.cpp" line="+6"/>
+        <location filename="../../src/protocol/jprotocol.cpp" line="+10"/>
         <location line="+238"/>
         <source>Join conference</source>
         <translation>Войти в конференцию</translation>
@@ -1401,7 +1401,7 @@ Accept invitation?</source>
         <translation>Укажите причину блокировки %1</translation>
     </message>
     <message>
-        <location line="+216"/>
+        <location line="+227"/>
         <source>Possible client</source>
         <translation>Возможный клиент</translation>
     </message>
@@ -1622,7 +1622,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JSoftwareDetection</name>
     <message>
-        <location filename="../../src/protocol/account/roster/jsoftwaredetection.cpp" line="+284"/>
+        <location filename="../../src/protocol/account/roster/jsoftwaredetection.cpp" line="+291"/>
         <source>Possible client</source>
         <translation>Возможный клиент</translation>
     </message>
@@ -1630,7 +1630,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::XmlConsole</name>
     <message>
-        <location filename="../../src/protocol/modules/xmlconsole/xmlconsole.cpp" line="-50"/>
+        <location filename="../../src/protocol/modules/xmlconsole/xmlconsole.cpp" line="-59"/>
         <source>Filter</source>
         <translation type="unfinished">Фильтр</translation>
     </message>
@@ -2403,7 +2403,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../src/protocol/jprotocol.cpp" line="-295"/>
+        <location filename="../../src/protocol/jprotocol.cpp" line="-313"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
