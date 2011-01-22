@@ -14,8 +14,7 @@
     <message>
         <location line="+18"/>
         <source>New session started, happy debuging ^_^</source>
-        <translation type="unfinished">New session started, happy debuging ^_^
-Новая сессия запущена, удачной отладки ^_^</translation>
+        <translation>Новая сессия запущена, удачной отладки ^_^</translation>
     </message>
 </context>
 <context>
@@ -24,12 +23,13 @@
         <location line="-21"/>
         <location line="+25"/>
         <source>Logger</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Не изменять!</translatorcomment>
+        <translation>Летописец</translation>
     </message>
     <message>
         <location line="-24"/>
         <source>Simple file based logger for debug</source>
-        <translation type="unfinished">Простое логирование в файл для отладки</translation>
+        <translation type="unfinished">Сборщик отладочного вывода в файл (В помощь отладчику)</translation>
     </message>
     <message>
         <location line="+27"/>
