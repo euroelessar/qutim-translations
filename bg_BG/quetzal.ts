@@ -48,7 +48,7 @@
         <translation>Запис на паролата</translation>
     </message>
     <message>
-        <location line="+56"/>
+        <location line="+57"/>
         <source>Unable to save new account</source>
         <translation>Неуспешен запис на новата сметка</translation>
     </message>
