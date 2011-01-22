@@ -7,13 +7,13 @@
         <location filename="../../qutim/src/corelayers/localization/localizationsettings.cpp" line="48"/>
         <source>&lt;Language&gt;</source>
         <comment>Localized language name</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;Язык&gt;</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/localization/localizationsettings.cpp" line="51"/>
         <source>&lt;Country&gt;</source>
         <comment>Localized country name, empty if localization is country-independent</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;Страна&gt;</translation>
     </message>
 </context>
 <context>
@@ -21,7 +21,7 @@
     <message>
         <location filename="../../qutim/src/corelayers/localization/localizationsettings.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
 </context>
 <context>
@@ -29,12 +29,12 @@
     <message>
         <location filename="../../qutim/src/corelayers/localization/localizationplugin.cpp" line="28"/>
         <source>Localization</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Механизм перевода</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/localization/localizationplugin.cpp" line="29"/>
         <source>Default qutIM localization engine</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Механизм перевода qutIM</translation>
     </message>
 </context>
 <context>
@@ -42,7 +42,7 @@
     <message>
         <location filename="../../qutim/src/corelayers/localization/localizationmodule.cpp" line="35"/>
         <source>Localization</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Локализация</translation>
     </message>
 </context>
 </TS>

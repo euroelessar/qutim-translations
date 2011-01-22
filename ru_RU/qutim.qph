@@ -4487,4 +4487,8 @@ Accept invitation?</source>
     <source>Search</source>
     <target>Искать</target>
 </phrase>
+<phrase>
+    <source>Kinetic Popups</source>
+    <target>Кинетические уведомления</target>
+</phrase>
 </QPH>

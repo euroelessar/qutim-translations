@@ -6,12 +6,12 @@
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/settings/popupappearance.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/settings/popupappearance.ui" line="45"/>
         <source>test</source>
-        <translation type="unfinished"></translation>
+        <translation>Тест</translation>
     </message>
 </context>
 <context>
@@ -19,7 +19,7 @@
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="19"/>
         <source>Aleksey Sidorov</source>
-        <translation type="unfinished"></translation>
+        <translation>Алексей Сидоров</translation>
     </message>
 </context>
 <context>
@@ -27,7 +27,7 @@
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/popup.cpp" line="78"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt; + %1уведомлений&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -37,27 +37,27 @@
         <location filename="../../qutim/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="106"/>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="115"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тест уведомления</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="106"/>
         <source>This is a simple popup</source>
-        <translation type="unfinished"></translation>
+        <translation>Это простое уведомление</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="107"/>
         <source>Simple message</source>
-        <translation type="unfinished"></translation>
+        <translation>Простое уведомление</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="108"/>
         <source>Another message</source>
-        <translation type="unfinished"></translation>
+        <translation>Другое уведомление</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="115"/>
         <source>Simple kinetic popup widget.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Простой виджет &quot;кинетического&quot; уведомления.</translation>
     </message>
 </context>
 <context>
@@ -65,17 +65,17 @@
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/popupwidgets/qml/qmlpopupwidgetplugin.cpp" line="11"/>
         <source>Qml Popup Widget</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Виджет уведомлений Qml</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/popupwidgets/qml/qmlpopupwidgetplugin.cpp" line="12"/>
         <source>Modern popups, based on power of Qt Quick</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Красивые уведомления, полные мощи из Qt Quick</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/popupwidgets/text/textpopupwidgetplugin.cpp" line="11"/>
         <source>Text Popups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Текстовые уведомления</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/popupwidgets/text/textpopupwidgetplugin.cpp" line="12"/>
@@ -85,7 +85,7 @@
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="16"/>
         <source>Kinetic popups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Кинетические  уведомления</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="17"/>
@@ -98,7 +98,7 @@
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/backend.cpp" line="39"/>
         <source>PopupWidget</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Виджет уведомлений</translation>
     </message>
 </context>
 <context>
@@ -106,7 +106,7 @@
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/backend.cpp" line="37"/>
         <source>Popups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Уведомления</translation>
     </message>
 </context>
 <context>
@@ -114,7 +114,7 @@
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="20"/>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Автор</translation>
     </message>
 </context>
 <context>
@@ -122,7 +122,7 @@
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="23"/>
         <source>Kinetic Popups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Кинетические уведомления</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="23"/>

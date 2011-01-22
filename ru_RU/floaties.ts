@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/floaties/src/floaties.cpp" line="28"/>
         <source>Ruslan Nigmatullin</source>
-        <translation type="unfinished"></translation>
+        <translation>Руслан Нигматуллин</translation>
     </message>
 </context>
 <context>
@@ -19,7 +19,7 @@
     <message>
         <location filename="../../plugins/floaties/src/floaties.cpp" line="32"/>
         <source>Implementation of floaty contacts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Плавающие контакты.Возможность вынести контакт из ростера на рабочий стол</translation>
     </message>
 </context>
 <context>
@@ -27,7 +27,7 @@
     <message>
         <location filename="../../plugins/floaties/src/floaties.cpp" line="29"/>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Автор</translation>
     </message>
 </context>
 </TS>

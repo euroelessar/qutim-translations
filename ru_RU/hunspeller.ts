@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/hunspeller/src/hunspellplugin.cpp" line="26"/>
         <source>Alexey Prokhin</source>
-        <translation type="unfinished"></translation>
+        <translation>Алексей Прохин</translation>
     </message>
 </context>
 <context>
@@ -14,7 +14,7 @@
     <message>
         <location filename="../../plugins/hunspeller/src/hunspellsettings.cpp" line="11"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Язык</translation>
     </message>
 </context>
 <context>
@@ -23,13 +23,13 @@
         <location filename="../../plugins/hunspeller/src/hunspellplugin.cpp" line="29"/>
         <location filename="../../plugins/hunspeller/src/hunspellplugin.cpp" line="32"/>
         <source>HunSpell checker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Проверка орфографии HunSpell</translation>
     </message>
     <message>
         <location filename="../../plugins/hunspeller/src/hunspellplugin.cpp" line="30"/>
         <location filename="../../plugins/hunspeller/src/hunspellplugin.cpp" line="33"/>
         <source>Check spelling by HunSpell library</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Проверка орфографии посредством HunSpell</translation>
     </message>
 </context>
 <context>
@@ -37,7 +37,7 @@
     <message>
         <location filename="../../plugins/hunspeller/src/hunspellchecker.cpp" line="50"/>
         <source>Spell checker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Проверка орфографии</translation>
     </message>
 </context>
 <context>
@@ -45,7 +45,7 @@
     <message>
         <location filename="../../plugins/hunspeller/src/hunspellplugin.cpp" line="27"/>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Автор</translation>
     </message>
 </context>
 </TS>
