@@ -72,7 +72,7 @@
     <message>
         <location line="+8"/>
         <source>Only display the icon</source>
-        <translation type="unfinished">Только пиктограммы</translation>
+        <translation>Только пиктограммы</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -559,7 +559,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+14"/>
         <source>Select tags</source>
-        <translation type="unfinished">Выбрать метки</translation>
+        <translation>Выбрать метки</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -599,7 +599,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Huge (64x64)</source>
-        <translation type="unfinished">Огромный (64x64)</translation>
+        <translation>Огромный (64x64)</translation>
     </message>
     <message>
         <source>Hige (64x64)</source>
@@ -663,7 +663,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+59"/>
         <source>Select protocol</source>
-        <translation type="unfinished">Выберите протокол</translation>
+        <translation>Выберите протокол</translation>
     </message>
 </context>
 <context>
@@ -1079,7 +1079,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+140"/>
         <source>Add to dictionary</source>
-        <translation type="unfinished">Добавить в словарь</translation>
+        <translation>Добавить в словарь</translation>
     </message>
 </context>
 <context>
@@ -1330,12 +1330,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/profilecreationwizard.cpp" line="+123"/>
         <source>Congratulations</source>
-        <translation type="unfinished">Уря</translation>
+        <translation>Уря-уря-уря</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>You&apos;ve just created a profile for qutIM. Click Finish to proceed to adding user accounts</source>
-        <translation type="unfinished">Профиль для qutIM успешно создан. Нажмите &quot;Завершить&quot; для добавления учетных записей в профиль</translation>
+        <translation>Профиль для qutIM успешно создан. Нажмите «Завершить» для добавления учетных записей в профиль</translation>
     </message>
 </context>
 <context>
@@ -1622,12 +1622,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-25"/>
         <source>Select tags</source>
-        <translation type="unfinished">Выбрать метки</translation>
+        <translation>Выбрать метки</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Reset</source>
-        <translation type="unfinished">Сброс</translation>
+        <translation>Сброс</translation>
     </message>
 </context>
 <context>
@@ -1711,7 +1711,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+64"/>
         <source>Search</source>
-        <translation type="unfinished">Искать</translation>
+        <translation>Искать</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1937,7 +1937,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/joingroupchatdlg/bookmarkspage.cpp" line="-6"/>
         <source>Save</source>
-        <translation type="unfinished">Сохранить</translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -3157,7 +3157,8 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/proxysettings/proxysettings.cpp" line="+37"/>
         <source>Global proxy</source>
-        <translation type="unfinished">Глобальный прокси</translation>
+        <translatorcomment>Глобальный думаю не нужно</translatorcomment>
+        <translation type="unfinished">Прокси</translation>
     </message>
     <message>
         <location line="+7"/>
