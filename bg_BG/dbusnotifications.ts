@@ -12,7 +12,7 @@
 <context>
     <name>DBusBackend</name>
     <message>
-        <location filename="../../qutim-meta/plugins/dbusnotifications/src/dbusbackend.cpp" line="+130"/>
+        <location filename="../../qutim-meta/plugins/dbusnotifications/src/dbusbackend.cpp" line="+141"/>
         <source>Open chat</source>
         <translation>Започване на разговор</translation>
     </message>

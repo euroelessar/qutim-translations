@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/urlpreview/src/urlpreview.cpp" line="+33"/>
+        <location filename="../../qutim-meta/plugins/urlpreview/src/urlpreview.cpp" line="+34"/>
         <source>Alexander Kazarin</source>
         <translation>Александър Казарин</translation>
     </message>
@@ -53,7 +53,7 @@
         <translation>Байта</translation>
     </message>
     <message>
-        <location line="+127"/>
+        <location line="+150"/>
         <source>YouTube video</source>
         <translation>YouTube видео</translation>
     </message>

@@ -350,12 +350,12 @@
 <context>
     <name>Conference</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+72"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+74"/>
         <source>Kick</source>
         <translation>Изритване (Kick)</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+6"/>
         <source>Ban</source>
         <translation>Забрана (Ban)</translation>
     </message>
@@ -364,7 +364,7 @@
         <translation type="obsolete">Преобразуване в конференция</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+114"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+119"/>
         <source>Real JID</source>
         <translation>Реален JID</translation>
     </message>
@@ -826,7 +826,7 @@
         <translation type="obsolete">Изпълнение на команда</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+88"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+104"/>
         <source>Xml console</source>
         <translation>XML конзола</translation>
     </message>
@@ -852,7 +852,7 @@
         <translation type="obsolete">Копиране на адреса на стаята в клип-борда</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+6"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+10"/>
         <location line="+238"/>
         <source>Join conference</source>
         <translation>Присъединяване към групов разговор</translation>
@@ -1598,7 +1598,7 @@ Accept invitation?</source>
         <translation>Въведете причина за забраната на %1</translation>
     </message>
     <message>
-        <location line="+216"/>
+        <location line="+227"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
@@ -1811,7 +1811,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JSoftwareDetection</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp" line="+284"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp" line="+291"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
@@ -1819,7 +1819,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::XmlConsole</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="-50"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="-59"/>
         <source>Filter</source>
         <translation>Филтър</translation>
     </message>
@@ -2608,7 +2608,7 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-295"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-313"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
