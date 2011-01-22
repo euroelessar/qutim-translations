@@ -3874,10 +3874,7 @@ p, li { white-space: pre-wrap; }
         <location line="-24"/>
         <source>I&apos;m high</source>
         <translatorcomment>да, икс статус именно такой нарисован - ганджубас</translatorcomment>
-        <translation variants="yes">
-            <lengthvariant>Ганджубас</lengthvariant>
-            <lengthvariant>Я высокий</lengthvariant>
-        </translation>
+        <translation type="unfinished">Ганджубас</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3966,7 +3963,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-125"/>
         <source>Show client icon</source>
-        <translation>Показывать иконку клиента</translation>
+        <translation type="unfinished">Показывать значок клиента</translation>
     </message>
 </context>
 <context>
@@ -4020,17 +4017,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/privacylists.cpp" line="+110"/>
         <source>Show &quot;visible&quot; icon if contact in visible list</source>
-        <translation type="unfinished">Показывать иконку &quot;видящего&quot;</translation>
+        <translation type="unfinished">Показывать пиктограмму &quot;видящего&quot;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Show &quot;invisible&quot; icon if contact in invisible list</source>
-        <translation type="unfinished">Показывать иконку &quot;невидящего&quot;</translation>
+        <translation type="unfinished">Показывать пиктограмму &quot;невидящего&quot;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Show &quot;ignore&quot; icon if contact in ignore list</source>
-        <translation type="unfinished">Показывать иконку &quot;игнора&quot; в списке контактов</translation>
+        <translation type="unfinished">Показывать пиктограмму &quot;игнора&quot; в списке контактов</translation>
     </message>
 </context>
 <context>
@@ -4043,7 +4040,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Show contact X-Status icon</source>
-        <translation type="unfinished">Показывать иконку X-статуса</translation>
+        <translation type="unfinished">Показывать пиктограмму X-статуса</translation>
     </message>
 </context>
 <context>

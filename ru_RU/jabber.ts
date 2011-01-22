@@ -256,7 +256,7 @@
     </message>
     <message>
         <source>Coding</source>
-        <translation type="obsolete">Лячкаю говнокод</translation>
+        <translation type="obsolete">Программирую</translation>
     </message>
     <message>
         <source>In a meeting</source>
@@ -1408,7 +1408,7 @@ Accept invitation?</source>
     <message>
         <location line="+1"/>
         <source>Show client icon</source>
-        <translation>Показывать иконку клиента</translation>
+        <translation type="unfinished">Показывать значок клиента</translation>
     </message>
 </context>
 <context>
@@ -2110,7 +2110,7 @@ Accept invitation?</source>
     <message>
         <location line="+2"/>
         <source>Show contact mood icon</source>
-        <translation type="unfinished">Показывать иконку настроения контакта</translation>
+        <translation type="unfinished">Показывать пиктограмму настроения контакта</translation>
     </message>
 </context>
 <context>
@@ -2465,7 +2465,7 @@ Accept invitation?</source>
     <message>
         <location line="+2"/>
         <source>Show tune icon</source>
-        <translation type="unfinished">Показывать значок  музыки</translation>
+        <translation type="unfinished">Показывать пиктограмму музыки</translation>
     </message>
 </context>
 <context>

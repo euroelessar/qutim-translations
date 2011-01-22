@@ -72,7 +72,7 @@
     <message>
         <location line="+8"/>
         <source>Only display the icon</source>
-        <translation>Только иконки</translation>
+        <translation type="unfinished">Только пиктограммы</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -82,12 +82,12 @@
     <message>
         <location line="+2"/>
         <source>The text appears beside the icon</source>
-        <translation>Текст сбоку от иконок</translation>
+        <translation type="unfinished">Текст сбоку от пиктограмм</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The text appears under the icon</source>
-        <translation>Текст под иконками</translation>
+        <translation type="unfinished">Текст под пиктограммами</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2223,12 +2223,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../src/corelayers/adiumsrvicons/adiumsrviconsplugin.cpp" line="+11"/>
         <source>Adium service icons</source>
-        <translation>Служебные иконки Adium</translation>
+        <translation type="unfinished">Служебные пиктограммы Adium</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Protocol icons powered by Adium ServiceIcons packs</source>
-        <translation>Иконки протоколов в виде пакетов системных пиктограмм Adium</translation>
+        <translation type="unfinished">Пиктограммы протоколов в виде пакетов системных пиктограмм Adium</translation>
     </message>
     <message>
         <source>AES crypto</source>
@@ -2356,7 +2356,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Default qutIM system tray icon implementation</source>
-        <translation>Простой модуль для размещения иконки qutIM в трее</translation>
+        <translation type="unfinished">Простой модуль для размещения пиктограммы qutIM в трее</translation>
     </message>
     <message>
         <location filename="../../src/corelayers/contactinfo/contactinfoplugin.cpp" line="+11"/>
@@ -3240,7 +3240,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+9"/>
         <source>Status icons size:</source>
-        <translation>Размер иконок статуса:</translation>
+        <translation type="unfinished">Размер пиктограмм статуса:</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -3256,7 +3256,7 @@ p, li { white-space: pre-wrap; }
         <location line="+7"/>
         <source>Show extended icons</source>
         <translatorcomment>расширенные статусы?</translatorcomment>
-        <translation>Показывать дополнительные иконки</translation>
+        <translation type="unfinished">Показывать дополнительные пиктограммы</translation>
     </message>
 </context>
 <context>
