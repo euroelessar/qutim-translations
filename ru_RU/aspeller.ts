@@ -4,7 +4,7 @@
 <context>
     <name>AspellSettings</name>
     <message>
-        <location filename="../../src/aspellsettings.cpp" line="+11"/>
+        <location filename="../../plugins/aspeller/src/aspellsettings.cpp" line="+11"/>
         <source>Language</source>
         <translation>Язык</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/aspellplugin.cpp" line="+26"/>
+        <location filename="../../plugins/aspeller/src/aspellplugin.cpp" line="+26"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -41,7 +41,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../src/aspellchecker.cpp" line="+84"/>
+        <location filename="../../plugins/aspeller/src/aspellchecker.cpp" line="+84"/>
         <source>Spell checker</source>
         <translation>Проверка орфографии</translation>
     </message>
@@ -158,7 +158,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../src/aspellplugin.cpp" line="-9"/>
+        <location filename="../../plugins/aspeller/src/aspellplugin.cpp" line="-9"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
     </message>

@@ -4,7 +4,7 @@
 <context>
     <name>AntiBoss</name>
     <message>
-        <location filename="../../src/antibossplugin.cpp" line="+37"/>
+        <location filename="../../plugins/antiboss/src/antibossplugin.cpp" line="+37"/>
         <source>Show/hide all windows</source>
         <translation>Показать/скрыть все окна</translation>
     </message>

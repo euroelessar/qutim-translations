@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/astralplugin.cpp" line="33"/>
+        <location filename="../../protocols/astral/src/astralplugin.cpp" line="33"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -12,12 +12,12 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../src/astralplugin.cpp" line="30"/>
+        <location filename="../../protocols/astral/src/astralplugin.cpp" line="30"/>
         <source>Astral</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/astralplugin.cpp" line="31"/>
+        <location filename="../../protocols/astral/src/astralplugin.cpp" line="31"/>
         <source>Protocol support by Telepathy</source>
         <translation type="unfinished">Протокол использующий Телепатию</translation>
     </message>
@@ -29,7 +29,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../src/astralplugin.cpp" line="34"/>
+        <location filename="../../protocols/astral/src/astralplugin.cpp" line="34"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>

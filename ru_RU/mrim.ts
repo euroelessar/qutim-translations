@@ -4,7 +4,7 @@
 <context>
     <name>AccountWizardMain</name>
     <message>
-        <location filename="../../src/ui/wizards/accountwizardmain.ui" line="+14"/>
+        <location filename="../../protocols/mrim/src/ui/wizards/accountwizardmain.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Мастер</translation>
     </message>
@@ -47,7 +47,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/base/mrimplugin.cpp" line="+38"/>
+        <location filename="../../protocols/mrim/src/base/mrimplugin.cpp" line="+38"/>
         <source>Peter Rusanov</source>
         <translation>Пётр Русанов</translation>
     </message>
@@ -86,7 +86,7 @@
 <context>
     <name>MrimAccount</name>
     <message>
-        <location filename="../../src/base/mrimaccount.cpp" line="+84"/>
+        <location filename="../../protocols/mrim/src/base/mrimaccount.cpp" line="+84"/>
         <source>Messages in mailbox: %1
 Unread messages: %2</source>
         <translation type="unfinished">Сообщений в ящике: %1
@@ -100,7 +100,7 @@ Unread messages: %2</source>
         <translation type="obsolete">Ошибка аутентификации!</translation>
     </message>
     <message>
-        <location filename="../../src/base/mrimconnection.cpp" line="+244"/>
+        <location filename="../../protocols/mrim/src/base/mrimconnection.cpp" line="+244"/>
         <source>Another client with same login connected!</source>
         <translation>Другой клиент подключился с тем же логином!</translation>
     </message>
@@ -119,7 +119,7 @@ Reason: %1</source>
 <context>
     <name>MrimMessages</name>
     <message>
-        <location filename="../../src/base/messages.cpp" line="+131"/>
+        <location filename="../../protocols/mrim/src/base/messages.cpp" line="+131"/>
         <source>No such user</source>
         <translation type="unfinished">Нет человека</translation>
     </message>
@@ -157,7 +157,7 @@ Reason: %1</source>
 <context>
     <name>MrimPacket</name>
     <message>
-        <location filename="../../src/base/mrimpacket.cpp" line="+178"/>
+        <location filename="../../protocols/mrim/src/base/mrimpacket.cpp" line="+178"/>
         <source>No error</source>
         <translatorcomment>!?</translatorcomment>
         <translation>Без ошибок</translation>
@@ -181,7 +181,7 @@ Reason: %1</source>
 <context>
     <name>MrimRoster</name>
     <message>
-        <location filename="../../src/base/roster.cpp" line="+246"/>
+        <location filename="../../protocols/mrim/src/base/roster.cpp" line="+246"/>
         <source>Phone contacts</source>
         <translation type="unfinished">Телефонные контакты</translation>
     </message>
@@ -189,7 +189,7 @@ Reason: %1</source>
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../src/base/mrimplugin.cpp" line="-6"/>
+        <location filename="../../protocols/mrim/src/base/mrimplugin.cpp" line="-6"/>
         <source>Module-based realization of Mail.Ru IM protocol</source>
         <translation>Модуль реализации Mail.ru IM протокола (MRIM)</translation>
     </message>
@@ -212,7 +212,7 @@ Reason: %1</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../src/base/mrimstatus.cpp" line="+61"/>
+        <location filename="../../protocols/mrim/src/base/mrimstatus.cpp" line="+61"/>
         <source>Possible client</source>
         <translation type="unfinished">Возможный клиент</translation>
     </message>
@@ -480,7 +480,7 @@ Reason: %1</source>
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../src/base/mrimplugin.cpp" line="-8"/>
+        <location filename="../../protocols/mrim/src/base/mrimplugin.cpp" line="-8"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>

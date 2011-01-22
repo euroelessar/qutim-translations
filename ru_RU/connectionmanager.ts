@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/connectionmanager.cpp" line="+45"/>
+        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="+45"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -35,7 +35,7 @@
 <context>
     <name>ManagerSettings</name>
     <message>
-        <location filename="../../src/managersettings.ui" line="+14"/>
+        <location filename="../../plugins/connectionmanager/src/managersettings.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -48,7 +48,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../src/connectionmanager.cpp" line="-79"/>
+        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="-79"/>
         <source>ConnectionManager</source>
         <translation>Менеджер соединения</translation>
     </message>

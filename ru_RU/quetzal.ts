@@ -4,7 +4,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../src/quetzalplugin.cpp" line="+585"/>
+        <location filename="../../protocols/quetzal/src/quetzalplugin.cpp" line="+585"/>
         <source>Quetzal</source>
         <translation>Quetzal</translation>
     </message>
@@ -33,7 +33,7 @@
 <context>
     <name>QuetzalAccountWizardPage</name>
     <message>
-        <location filename="../../src/quetzalaccountwizard.cpp" line="+28"/>
+        <location filename="../../protocols/quetzal/src/quetzalaccountwizard.cpp" line="+28"/>
         <source>Username</source>
         <translation type="unfinished">Имя пользователя</translation>
     </message>
@@ -79,7 +79,7 @@ Complete account creating by clicking on Finish button</source>
 <context>
     <name>QuetzalActionDialog</name>
     <message>
-        <location filename="../../src/quatzelactiondialog.ui" line="+14"/>
+        <location filename="../../protocols/quetzal/src/quatzelactiondialog.ui" line="+14"/>
         <source>Dialog</source>
         <translation>Диалог</translation>
     </message>
@@ -87,7 +87,7 @@ Complete account creating by clicking on Finish button</source>
 <context>
     <name>QuetzalJoinChatDialog</name>
     <message>
-        <location filename="../../src/quetzaljoinchatdialog.ui" line="+14"/>
+        <location filename="../../protocols/quetzal/src/quetzaljoinchatdialog.ui" line="+14"/>
         <source>Join group chat</source>
         <translation>Войти в чат</translation>
     </message>
@@ -108,7 +108,7 @@ Complete account creating by clicking on Finish button</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../src/quetzalprotocol.cpp" line="+65"/>
+        <location filename="../../protocols/quetzal/src/quetzalprotocol.cpp" line="+65"/>
         <source>General</source>
         <translation type="unfinished">Общее</translation>
     </message>

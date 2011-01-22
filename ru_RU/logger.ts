@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/logger.cpp" line="+38"/>
+        <location filename="../../plugins/logger/src/logger.cpp" line="+38"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>

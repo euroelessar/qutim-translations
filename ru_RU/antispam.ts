@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/antispamplugin.cpp" line="+13"/>
+        <location filename="../../plugins/antispam/src/antispamplugin.cpp" line="+13"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>

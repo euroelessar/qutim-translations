@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/urlpreview.cpp" line="+34"/>
+        <location filename="../../plugins/urlpreview/src/urlpreview.cpp" line="+34"/>
         <source>Alexander Kazarin</source>
         <translation>Александр Казарин</translation>
     </message>

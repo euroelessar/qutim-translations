@@ -4,7 +4,7 @@
 <context>
     <name>AddAccountForm</name>
     <message>
-        <location filename="../../src/ui/addaccountform.ui" line="+14"/>
+        <location filename="../../protocols/irc/src/ui/addaccountform.ui" line="+14"/>
         <source>AddAccountForm</source>
         <translation>Добавление учетных записей</translation>
     </message>
@@ -57,7 +57,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/ircplugin.cpp" line="+34"/>
+        <location filename="../../protocols/irc/src/ircplugin.cpp" line="+34"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
     </message>
@@ -65,7 +65,7 @@
 <context>
     <name>EditNickForm</name>
     <message>
-        <location filename="../../src/ui/editnickform.ui" line="+14"/>
+        <location filename="../../protocols/irc/src/ui/editnickform.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -387,7 +387,7 @@
         <translation type="obsolete">Войти в канал...</translation>
     </message>
     <message>
-        <location filename="../../src/ircprotocol.cpp" line="+57"/>
+        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+57"/>
         <source>Show console...</source>
         <translation>Показать консоль...</translation>
     </message>
@@ -401,7 +401,7 @@
         <translation type="obsolete">Подключиться к каналу</translation>
     </message>
     <message>
-        <location filename="../../src/ircgroupchatmanager.cpp" line="+64"/>
+        <location filename="../../protocols/irc/src/ircgroupchatmanager.cpp" line="+64"/>
         <source>Channel</source>
         <translation>Канал</translation>
     </message>
@@ -484,7 +484,7 @@
         <translation type="obsolete">%1 сменил топик на %2.</translation>
     </message>
     <message>
-        <location filename="../../src/ircchannel.cpp" line="+357"/>
+        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+357"/>
         <source>%1 gives channel operator privileges to %2.</source>
         <translation>%1 дал опа %2.</translation>
     </message>
@@ -517,7 +517,7 @@
 <context>
     <name>IrcChannelListForm</name>
     <message>
-        <location filename="../../src/ui/ircchannellist.ui" line="+14"/>
+        <location filename="../../protocols/irc/src/ui/ircchannellist.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -525,7 +525,7 @@
 <context>
     <name>IrcConsoleForm</name>
     <message>
-        <location filename="../../src/ui/console.ui" line="+14"/>
+        <location filename="../../protocols/irc/src/ui/console.ui" line="+14"/>
         <source>IRC Server Console</source>
         <translation>Консоль IRC сервера</translation>
     </message>
@@ -533,7 +533,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../src/ircplugin.cpp" line="-3"/>
+        <location filename="../../protocols/irc/src/ircplugin.cpp" line="-3"/>
         <location line="+6"/>
         <source>IRC</source>
         <translation></translation>
@@ -573,7 +573,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../src/irccommandalias.cpp" line="+98"/>
+        <location filename="../../protocols/irc/src/irccommandalias.cpp" line="+98"/>
         <source>Not enough parameters for command %1</source>
         <translation>Не хавтает параметров команде %1</translation>
     </message>
@@ -581,7 +581,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../src/ircplugin.cpp" line="-7"/>
+        <location filename="../../protocols/irc/src/ircplugin.cpp" line="-7"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -589,7 +589,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::ChannelsModel</name>
     <message>
-        <location filename="../../src/ui/ircchannellist.cpp" line="+81"/>
+        <location filename="../../protocols/irc/src/ui/ircchannellist.cpp" line="+81"/>
         <source>Channel</source>
         <translation>Канал</translation>
     </message>
@@ -607,7 +607,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcAccount</name>
     <message>
-        <location filename="../../src/ircaccount.cpp" line="+80"/>
+        <location filename="../../protocols/irc/src/ircaccount.cpp" line="+80"/>
         <source>Away</source>
         <translation>Отошел</translation>
     </message>
@@ -615,7 +615,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcChannel</name>
     <message>
-        <location filename="../../src/ircchannel.cpp" line="-208"/>
+        <location filename="../../protocols/irc/src/ircchannel.cpp" line="-208"/>
         <source>You are now known as %1</source>
         <translation>Теперь вы известны как %1</translation>
     </message>
@@ -683,7 +683,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcChannelListForm</name>
     <message>
-        <location filename="../../src/ui/ircchannellist.cpp" line="+93"/>
+        <location filename="../../protocols/irc/src/ui/ircchannellist.cpp" line="+93"/>
         <source>Fetching channels list...</source>
         <translation>Получение списка каналов...</translation>
     </message>
@@ -701,7 +701,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../src/ircconnection.cpp" line="+160"/>
+        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+160"/>
         <source>Kick / Ban</source>
         <translation>Кик / Бан</translation>
     </message>
@@ -916,7 +916,7 @@ Please wait a while and try again.</source>
 <context>
     <name>qutim_sdk_0_3::irc::IrcJoinLeftActionGenerator</name>
     <message>
-        <location filename="../../src/ircchannel.cpp" line="-293"/>
+        <location filename="../../protocols/irc/src/ircchannel.cpp" line="-293"/>
         <source>Leave the channel</source>
         <translation type="unfinished">Покинуть канал</translation>
     </message>
