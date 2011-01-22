@@ -6,6 +6,7 @@
     <message>
         <location filename="../../plugins/nowplaying/src/nowplaying.cpp" line="+32"/>
         <source>Kazlauskas Ian</source>
+        <translatorcomment>Каслаускас Йен</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -29,17 +30,17 @@
     <message>
         <location line="+6"/>
         <source>Current mode</source>
-        <translation type="unfinished">Текущий режим</translation>
+        <translation>Текущий режим</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Deactivated</source>
-        <translation type="unfinished">Отключен</translation>
+        <translation>Отключен</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Changes current X-status message</source>
-        <translation type="unfinished">Изменять сообщение текущего Х-статуса</translation>
+        <translation>Изменять сообщение текущего Х-статуса</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -76,7 +77,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-17"/>
         <source>Now playing: %artist - %title</source>
-        <translation type="unfinished">В колонках гремит: %artist - %title</translation>
+        <translation>В колонках гремит: %artist - %title</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -152,7 +153,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../plugins/nowplaying/src/nowplaying.cpp" line="+39"/>
         <source>Now Playing</source>
-        <translation type="unfinished"></translation>
+        <translation>Сейчас играет</translation>
     </message>
     <message>
         <location line="+186"/>
@@ -180,17 +181,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+6"/>
         <source>Current plugin status:</source>
-        <translation type="unfinished">Текущее состояние плагина:</translation>
+        <translation>Текущее состояние плагина:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Is working</source>
-        <translation type="unfinished">работает</translation>
+        <translation>работает</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Stop</source>
-        <translation type="unfinished">Остановить</translation>
+        <translation>Остановить</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -200,7 +201,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+20"/>
         <source>You have no Oscar, Jabber or MRIM accounts.</source>
-        <translation type="unfinished">У вас нет учетных записей ICQ/Oscar, XMPP/jabber или Mail.ru агента.</translation>
+        <translation type="unfinished">У вас нет учетных записей ICQ, Jabber или Mail.ru агента.</translation>
     </message>
     <message>
         <location line="+26"/>
@@ -230,12 +231,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../plugins/nowplaying/src/nowplaying.cpp" line="-235"/>
         <source>Now Playing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сейчас играет</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Now playing plugin</source>
-        <translation type="unfinished">Now playing плагин</translation>
+        <translation type="unfinished">Плагин «Сейчас играет»</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -259,7 +260,7 @@ p, li { white-space: pre-wrap; }
         <location line="+3"/>
         <location line="+3"/>
         <source>Developer</source>
-        <translation type="unfinished">Разработчик</translation>
+        <translation>Разработчик</translation>
     </message>
 </context>
 <context>
@@ -267,12 +268,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../plugins/nowplaying/src/settingsui.cpp" line="+53"/>
         <source>No player</source>
-        <translation type="unfinished">нет проигрователя</translation>
+        <translation type="unfinished">Патефон выключен :(</translation>
     </message>
     <message>
         <location line="+107"/>
         <source>working</source>
-        <translation type="unfinished">работает</translation>
+        <translation>работает</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -282,12 +283,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+2"/>
         <source>not working</source>
-        <translation type="unfinished">не работает</translation>
+        <translation>не работает</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Start</source>
-        <translation type="unfinished">Пуск</translation>
+        <translation>Пуск</translation>
     </message>
 </context>
 </TS>
