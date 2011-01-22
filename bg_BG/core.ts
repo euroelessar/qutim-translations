@@ -220,6 +220,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogplugin.cpp" line="+29"/>
         <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+19"/>
+        <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+29"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -2570,6 +2571,16 @@ p, li { white-space: pre-wrap; }
         <source>qutIM implementation of the information window for mobiles</source>
         <translation type="obsolete">Реализация на прозорец с информация за контакта за мобилни устройства в qutIM</translation>
     </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="-3"/>
+        <source>Session helper</source>
+        <translation>Сессиен Помощник</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Activates the session when certain events</source>
+        <translation>Активира сесиятата при определени събития</translation>
+    </message>
 </context>
 <context>
     <name>ProfileCreationPage</name>
@@ -3314,6 +3325,11 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/src/corelayers/searchdialog/searchdialogplugin.cpp" line="-10"/>
         <source>Author</source>
         <translation>Автор</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+3"/>
+        <source>Developer</source>
+        <translation>Разработчик</translation>
     </message>
 </context>
 <context>

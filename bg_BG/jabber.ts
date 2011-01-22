@@ -769,32 +769,36 @@
         <translation>Настройки</translation>
     </message>
     <message>
-        <location line="+29"/>
+        <location line="+15"/>
         <source>Default resource:</source>
         <translation>Ресурс по подразбиране:</translation>
     </message>
     <message>
-        <location line="+28"/>
         <source>Reconnect after disconnect</source>
-        <translation>Повторно свързване при загуба на връзка</translation>
+        <translation type="obsolete">Повторно свързване при загуба на връзка</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+10"/>
+        <source>Password:</source>
+        <translation type="unfinished">Парола:</translation>
+    </message>
+    <message>
+        <location line="+14"/>
         <source>Don&apos;t send request for avatars</source>
         <translation>Да не се изпращат заявки за аватари</translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+16"/>
         <source>Listen port for filetransfer:</source>
         <translation>Порт за предаване на файлове:</translation>
     </message>
     <message>
-        <location line="+41"/>
+        <location line="+26"/>
         <source>Priority depends on status</source>
         <translation>Приоритетът да зависи от статуса</translation>
     </message>
     <message>
-        <location line="+9"/>
+        <location line="+7"/>
         <source>Online:</source>
         <translation>На линия:</translation>
     </message>
@@ -927,7 +931,7 @@
         <translation>Автоматично присъединяване</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+658"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+654"/>
         <location line="+3"/>
         <source>You already in conference with another nick</source>
         <translation>Вече сте в конференцията с друг псевдоним</translation>
@@ -1348,7 +1352,7 @@ Accept invitation?</source>
 </translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-412"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-410"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете ли да се присъедините повторно?</translation>
     </message>
@@ -1366,7 +1370,7 @@ Accept invitation?</source>
         <translation type="obsolete">влезе в стаята</translation>
     </message>
     <message>
-        <location line="+46"/>
+        <location line="+44"/>
         <location line="+2"/>
         <location line="+2"/>
         <location line="+2"/>
@@ -1418,7 +1422,7 @@ Accept invitation?</source>
         <translation type="obsolete">Тема: %1</translation>
     </message>
     <message>
-        <location line="-103"/>
+        <location line="-101"/>
         <source> has been banned</source>
         <translation> е с наложена забрана</translation>
     </message>
@@ -1453,7 +1457,7 @@ Accept invitation?</source>
         <translation> сега се подвизава като </translation>
     </message>
     <message>
-        <location line="+28"/>
+        <location line="+26"/>
         <source> has joined the room</source>
         <translation> влезе в стаята</translation>
     </message>
@@ -2608,9 +2612,13 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-313"/>
         <source>Jabber</source>
-        <translation>Jabber</translation>
+        <translation type="obsolete">Jabber</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-313"/>
+        <source>Main settings</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
