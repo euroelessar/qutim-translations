@@ -780,7 +780,7 @@
     <message>
         <location line="+10"/>
         <source>Password:</source>
-        <translation type="unfinished">Парола:</translation>
+        <translation>Парола:</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -2618,7 +2618,7 @@ Accept invitation?</source>
     <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-313"/>
         <source>Main settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Основни настройки</translation>
     </message>
 </context>
 <context>
