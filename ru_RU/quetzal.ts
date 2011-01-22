@@ -10,10 +10,10 @@
     </message>
     <message>
         <location line="+1"/>
-        <location line="+14"/>
+        <location line="+37"/>
         <location line="+4"/>
         <source>&apos;Quetzal&apos; is set of protocols, powered by libpurple</source>
-        <translation>&apos;Quetzal&apos; это набор протоколов, реализваных через libpurple (pidgin/adium)</translation>
+        <translation type="unfinished">&apos;Quetzal&apos; это набор протоколов, реализованных через libpurple (pidgin/adium)</translation>
     </message>
 </context>
 <context>

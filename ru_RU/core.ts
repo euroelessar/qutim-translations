@@ -505,7 +505,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+890"/>
+        <location filename="../../src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+891"/>
         <source>Remove contact</source>
         <translation>Удалить контакт</translation>
     </message>
@@ -515,7 +515,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавить в ростер</translation>
     </message>
     <message>
-        <location line="-808"/>
+        <location line="-809"/>
         <source>Rename contact</source>
         <translation>Переименовать</translation>
     </message>
@@ -601,8 +601,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+1"/>
+        <source>Huge (64x64)</source>
+        <translation type="unfinished">Огромный (64x64)</translation>
+    </message>
+    <message>
         <source>Hige (64x64)</source>
-        <translation>Огромный (64x64)</translation>
+        <translation type="obsolete">Огромный (64x64)</translation>
     </message>
 </context>
 <context>
