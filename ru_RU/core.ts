@@ -200,6 +200,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/authdialog/authdialogplugin.cpp" line="+29"/>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+19"/>
+        <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+30"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -282,7 +283,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../qutim/src/corelayers/jsonhistory/jsonhistory.cpp" line="+32"/>
+        <location filename="../../qutim/src/corelayers/jsonhistory/jsonhistory.cpp" line="+34"/>
         <source>View History</source>
         <translation>История</translation>
     </message>
@@ -1330,6 +1331,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/profilecreationwizard.cpp" line="+123"/>
         <source>Congratulations</source>
+        <translatorcomment>!!!</translatorcomment>
         <translation>Уря-уря-уря</translation>
     </message>
     <message>
@@ -1691,7 +1693,7 @@ p, li { white-space: pre-wrap; }
         <translation>-</translation>
     </message>
     <message>
-        <location line="+529"/>
+        <location line="+531"/>
         <source>Open image</source>
         <translation>Открыть рисунок</translation>
     </message>
@@ -2737,6 +2739,16 @@ p, li { white-space: pre-wrap; }
         <source>Fast and light chat view</source>
         <translation type="unfinished">Быстрый и легкий вид чата</translation>
     </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="-3"/>
+        <source>Session helper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Activates the session when certain events</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProfileCreationPage</name>
@@ -3486,6 +3498,11 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/searchdialog/searchdialogplugin.cpp" line="-10"/>
         <source>Author</source>
         <translation>Автор</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+3"/>
+        <source>Developer</source>
+        <translation type="unfinished">Разработчик</translation>
     </message>
 </context>
 <context>

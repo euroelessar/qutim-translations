@@ -268,7 +268,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../plugins/nowplaying/src/settingsui.cpp" line="+53"/>
         <source>No player</source>
-        <translation type="unfinished">Патефон выключен :(</translation>
+        <translation type="unfinished">Фонограф выключен :(</translation>
     </message>
     <message>
         <location line="+107"/>
