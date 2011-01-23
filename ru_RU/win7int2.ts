@@ -58,7 +58,7 @@
     <message>
         <location filename="../../plugins/win-integration/src/win7int.cpp" line="248"/>
         <source>Last received from:</source>
-        <translation type="unfinished">Последний принят:</translation>
+        <translation type="unfinished">Последний принят от:</translation>
     </message>
     <message>
         <location filename="../../plugins/win-integration/src/win7int.cpp" line="257"/>
