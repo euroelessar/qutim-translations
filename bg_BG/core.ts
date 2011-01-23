@@ -220,7 +220,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogplugin.cpp" line="+29"/>
         <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+19"/>
-        <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+29"/>
+        <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+30"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -298,7 +298,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/jsonhistory/jsonhistory.cpp" line="+32"/>
+        <location filename="../../qutim-meta/core/src/corelayers/jsonhistory/jsonhistory.cpp" line="+34"/>
         <source>View History</source>
         <translation>Преглед на хронологията</translation>
     </message>
@@ -1677,7 +1677,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Не е зададено</translation>
     </message>
     <message>
-        <location line="+529"/>
+        <location line="+531"/>
         <source>Open image</source>
         <translation>Отваряне на изображение</translation>
     </message>
