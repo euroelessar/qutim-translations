@@ -14,7 +14,7 @@
     <message>
         <location filename="../../plugins/win-integration/src/win7int.cpp" line="31"/>
         <source>Windows 7 Integration</source>
-        <translation type="unfinished">Интеграция с Windows7®©</translation>
+        <translation type="unfinished">Интеграция с Windows7®©™</translation>
     </message>
     <message>
         <location filename="../../plugins/win-integration/src/win7int.cpp" line="32"/>
