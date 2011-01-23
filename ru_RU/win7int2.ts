@@ -42,8 +42,8 @@
         <source>&amp;middot; %n message(s) from chats.</source>
         <translation type="unfinished">
             <numerusform>&amp;middot; %n сообщение из чата.</numerusform>
-            <numerusform>&amp;middot; %n сообщения из чата.</numerusform>
-            <numerusform>&amp;middot; %n сообщений из чата.</numerusform>
+            <numerusform>&amp;middot; %n сообщения из чатов.</numerusform>
+            <numerusform>&amp;middot; %n сообщений из чатов.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -51,8 +51,8 @@
         <source>&amp;middot; %n message(s) from conferences.</source>
         <translation type="unfinished">
             <numerusform>&amp;middot; %n сообщение из конференции.</numerusform>
-            <numerusform>&amp;middot; %n сообщения из конференции.</numerusform>
-            <numerusform>&amp;middot; %n сообщений из конференции.</numerusform>
+            <numerusform>&amp;middot; %n сообщения из конференций.</numerusform>
+            <numerusform>&amp;middot; %n сообщений из конференций.</numerusform>
         </translation>
     </message>
     <message>
