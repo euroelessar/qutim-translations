@@ -3987,7 +3987,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../protocols/oscar/src/ui/icqmainsettings.cpp" line="+101"/>
         <source>Codec</source>
-        <translation type="unfinished">Кодек</translation>
+        <translation type="unfinished">Кодировка</translation>
     </message>
     <message>
         <location line="+1"/>

@@ -100,7 +100,7 @@
     <message>
         <location line="+1"/>
         <source>Uses KDE notifications</source>
-        <translation type="unfinished">Модуль уведомлений KDE, так-то!</translation>
+        <translation type="unfinished">Модуль уведомлений KDE</translation>
     </message>
     <message>
         <location line="+2"/>

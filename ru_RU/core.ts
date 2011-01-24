@@ -50,7 +50,7 @@
 <context>
     <name>ActionToolBar</name>
     <message>
-        <location filename="../../qutim/libqutim/actiontoolbar.cpp" line="+37"/>
+        <location filename="../../qutim/libqutim/actiontoolbar.cpp" line="+39"/>
         <source>Small (16x16)</source>
         <translation>Малый (16x16)</translation>
     </message>
@@ -200,7 +200,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/authdialog/authdialogplugin.cpp" line="+29"/>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+19"/>
-        <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+30"/>
+        <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+31"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -543,7 +543,7 @@ p, li { white-space: pre-wrap; }
         <translation>Контакты</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+45"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+46"/>
         <source>&amp;Settings...</source>
         <translation>&amp;Настройки...</translation>
     </message>
@@ -967,7 +967,7 @@ p, li { white-space: pre-wrap; }
         <translation>Список сеансов</translation>
     </message>
     <message>
-        <location line="+49"/>
+        <location line="+50"/>
         <source>Send</source>
         <translation>Отправить</translation>
     </message>
@@ -1606,12 +1606,12 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">&amp;Выход</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-51"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-52"/>
         <source>Main Toolbar</source>
         <translation>Главная панель</translation>
     </message>
     <message>
-        <location line="+65"/>
+        <location line="+66"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
@@ -1654,7 +1654,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::XSettingsWindow</name>
     <message>
-        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+214"/>
+        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+215"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки qutIM - %1</translation>
     </message>
@@ -2395,12 +2395,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/idledetector/idledetectorplugin.cpp" line="+11"/>
         <source>Idle detector</source>
-        <translation>Модуль обнаружения простоя</translation>
+        <translation type="unfinished">Модуль обнаружения бездействия пользователя</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Native idle detector, based on system api</source>
-        <translation>Модуль обнаружения простоя, основан на системном API</translation>
+        <translation type="unfinished">Модуль обнаружения бездействия пользователя, основан на системном API</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/metacontacts/metacontactsplugin.cpp" line="+11"/>
@@ -3684,25 +3684,22 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::ActionToolBar</name>
     <message>
-        <location filename="../../qutim/libqutim/actiontoolbar.cpp" line="+179"/>
         <source>ToolBar appearance</source>
-        <translation type="unfinished">Оформление панелей</translation>
+        <translation type="obsolete">Оформление панелей</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Icon size</source>
-        <translation type="unfinished">Размер пиктограмм</translation>
+        <translation type="obsolete">Размер пиктограмм</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Tool button style</source>
-        <translation type="unfinished">Стиль кнопок &quot;инструментов&quot;</translation>
+        <translation type="obsolete">Стиль кнопок &quot;инструментов&quot;</translation>
     </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::ActionToolBarPrivate</name>
     <message>
-        <location line="-152"/>
+        <location filename="../../qutim/libqutim/actiontoolbar.cpp" line="+31"/>
         <source>ToolBar appearance</source>
         <translation type="unfinished">Оформление панелей</translation>
     </message>
@@ -3736,7 +3733,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Плагин: %1</translation>
     </message>
     <message>
-        <location filename="../../qutim/libqutim/modulemanager.cpp" line="+219"/>
+        <location filename="../../qutim/libqutim/modulemanager.cpp" line="+220"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Не могу загрузить плагин: 

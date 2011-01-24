@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="30"/>
+        <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="31"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -12,12 +12,12 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="27"/>
+        <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="28"/>
         <source>Session helper</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="28"/>
+        <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="29"/>
         <source>Activates the session when certain events</source>
         <translation type="unfinished">Активация сессии по событию</translation>
     </message>
@@ -25,7 +25,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="31"/>
+        <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="32"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
     </message>
