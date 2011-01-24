@@ -212,7 +212,7 @@
     <message>
         <location filename="../../protocols/oscar/src/ui/icqmainsettings.cpp" line="+41"/>
         <source>System</source>
-        <translation type="unfinished">Системая</translation>
+        <translation type="unfinished">Системная</translation>
     </message>
 </context>
 <context>
