@@ -1468,7 +1468,7 @@ Accept invitation?</source>
     <message>
         <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+31"/>
         <source>Search service</source>
-        <translation>Служба поиска</translation>
+        <translation>Поиск сервисов</translation>
     </message>
     <message>
         <location line="+84"/>
@@ -2318,7 +2318,7 @@ Accept invitation?</source>
     <name>SearchService</name>
     <message>
         <source>Search service</source>
-        <translation type="obsolete">Служба поиска</translation>
+        <translation type="obsolete">Поиск сервисов</translation>
     </message>
 </context>
 <context>
