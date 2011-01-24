@@ -397,10 +397,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+10"/>
         <source>Last active</source>
-        <translatorcomment>И что тут имелось ввиду?</translatorcomment>
-        <translation variants="yes">
-            <lengthvariant>Последняя активность</lengthvariant>
-            <lengthvariant>Последнее занятие =_=</lengthvariant>
+        <translatorcomment>И что тут имелось ввиду? Последний активный ресурс!</translatorcomment>
+        <translation type="unfinished" variants="yes">
+            <lengthvariant>Последний активный</lengthvariant>
+            <lengthvariant>Последний активный</lengthvariant>
         </translation>
     </message>
 </context>
