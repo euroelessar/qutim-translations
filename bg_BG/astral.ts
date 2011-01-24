@@ -22,15 +22,14 @@
         <translation>Поддръжка на протоколи чрез Telepathy</translation>
     </message>
     <message>
-        <location line="+23"/>
         <source>Plugin support by Telepathy</source>
-        <translation>Поддръжка на добавки чрез Telepathy</translation>
+        <translation type="obsolete">Поддръжка на добавки чрез Telepathy</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location line="-20"/>
+        <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>

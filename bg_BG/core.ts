@@ -2672,7 +2672,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Proxy</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/networkproxy.cpp" line="+67"/>
+        <location filename="../../qutim-meta/core/libqutim/networkproxy.cpp" line="+80"/>
         <source>Host</source>
         <translation>Хост</translation>
     </message>
