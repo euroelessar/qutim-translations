@@ -11,17 +11,17 @@
     <message>
         <location line="+11"/>
         <source>UIN:</source>
-        <translation type="unfinished">UIN (номер ICQ):</translation>
+        <translation>UIN (номер ICQ):</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Password:</source>
-        <translation type="unfinished">Пароль:</translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Save password</source>
-        <translation type="unfinished">Сохранить пароль</translation>
+        <translation>Сохранить пароль</translation>
     </message>
 </context>
 <context>
@@ -212,7 +212,7 @@
     <message>
         <location filename="../../protocols/oscar/src/ui/icqmainsettings.cpp" line="+41"/>
         <source>System</source>
-        <translation type="unfinished">Система</translation>
+        <translation type="unfinished">Системая</translation>
     </message>
 </context>
 <context>
