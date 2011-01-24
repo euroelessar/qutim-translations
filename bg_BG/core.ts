@@ -50,7 +50,7 @@
 <context>
     <name>ActionToolBar</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/actiontoolbar.cpp" line="+29"/>
+        <location filename="../../qutim-meta/core/libqutim/actiontoolbar.cpp" line="+37"/>
         <source>Small (16x16)</source>
         <translation>Малък (16x16)</translation>
     </message>
@@ -70,44 +70,41 @@
         <translation>Огромен (64x64)</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+8"/>
         <source>Only display the icon</source>
         <translation>Показване само на иконата</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+2"/>
         <source>Only display the text</source>
         <translation>Показване само на текста</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+2"/>
         <source>The text appears beside the icon</source>
         <translation>Текстът се появява до иконата</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+2"/>
         <source>The text appears under the icon</source>
         <translation>Текстът се появява под иконата</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+2"/>
         <source>Follow the style</source>
         <translation>В зависимост от стила</translation>
     </message>
     <message>
-        <location line="+34"/>
         <source>ToolBar appearance</source>
-        <translation>Облик на лентата с инструменти</translation>
+        <translation type="obsolete">Облик на лентата с инструменти</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Icon size</source>
-        <translation>Размер на иконите</translation>
+        <translation type="obsolete">Размер на иконите</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Tool button style</source>
-        <translation>Стил на бутоните</translation>
+        <translation type="obsolete">Стил на бутоните</translation>
     </message>
 </context>
 <context>
@@ -223,6 +220,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogplugin.cpp" line="+29"/>
         <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+19"/>
+        <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+30"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -300,7 +298,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/jsonhistory/jsonhistory.cpp" line="+32"/>
+        <location filename="../../qutim-meta/core/src/corelayers/jsonhistory/jsonhistory.cpp" line="+34"/>
         <source>View History</source>
         <translation>Преглед на хронологията</translation>
     </message>
@@ -378,7 +376,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Изпращане на съобщение</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="+43"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="+42"/>
         <source>Close chat</source>
         <translation>Затваряне на разговора</translation>
     </message>
@@ -590,7 +588,7 @@ p, li { white-space: pre-wrap; }
         <translation>Копиране в клипборда</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+890"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+891"/>
         <source>Remove contact</source>
         <translation>Прeмахване на контакта</translation>
     </message>
@@ -600,7 +598,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавяне в списъка с контакти</translation>
     </message>
     <message>
-        <location line="-808"/>
+        <location line="-809"/>
         <source>Rename contact</source>
         <translation>Преименуване на контакта</translation>
     </message>
@@ -636,8 +634,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+1"/>
-        <source>Hige (64x64)</source>
+        <source>Huge (64x64)</source>
         <translation>Огромен (64x64)</translation>
+    </message>
+    <message>
+        <source>Hige (64x64)</source>
+        <translation type="obsolete">Огромен (64x64)</translation>
     </message>
 </context>
 <context>
@@ -1124,7 +1126,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ChatSpellChecker</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+150"/>
+        <location filename="../../qutim-meta/core/src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+140"/>
         <source>Add to dictionary</source>
         <translation>Добавяне към речника</translation>
     </message>
@@ -1146,24 +1148,24 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-62"/>
-        <location line="+417"/>
+        <location line="+435"/>
         <source>In: %L1</source>
         <translation>Входящи: %L1</translation>
     </message>
     <message>
-        <location line="-416"/>
-        <location line="+417"/>
+        <location line="-434"/>
+        <location line="+435"/>
         <source>Out: %L1</source>
         <translation>Изходящи: %L1</translation>
     </message>
     <message>
-        <location line="-416"/>
-        <location line="+417"/>
+        <location line="-434"/>
+        <location line="+435"/>
         <source>All: %L1</source>
         <translation>Общо: %L1</translation>
     </message>
     <message>
-        <location line="-78"/>
+        <location line="-93"/>
         <source>Service message</source>
         <translation>Служебно съобщение</translation>
     </message>
@@ -1675,7 +1677,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Не е зададено</translation>
     </message>
     <message>
-        <location line="+529"/>
+        <location line="+531"/>
         <source>Open image</source>
         <translation>Отваряне на изображение</translation>
     </message>
@@ -2282,12 +2284,14 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Подразбираща се за qutIM работа с емотикони</translation>
     </message>
     <message>
+        <location filename="../../qutim-meta/core/src/corelayers/localization/localizationplugin.cpp" line="+28"/>
         <source>Localization</source>
-        <translation type="obsolete">Локализация</translation>
+        <translation>Локализация</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Default qutIM localization engine</source>
-        <translation type="obsolete">Подразбираща се за qutIM работа с локали</translation>
+        <translation>Подразбираща се за qutIM работа с локали</translation>
     </message>
     <message>
         <source>Xdg Icon Loader</source>
@@ -2566,6 +2570,16 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>qutIM implementation of the information window for mobiles</source>
         <translation type="obsolete">Реализация на прозорец с информация за контакта за мобилни устройства в qutIM</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="-3"/>
+        <source>Session helper</source>
+        <translation>Сессиен Помощник</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Activates the session when certain events</source>
+        <translation>Активира сесиятата при определени събития</translation>
     </message>
 </context>
 <context>
@@ -3312,6 +3326,11 @@ p, li { white-space: pre-wrap; }
         <source>Author</source>
         <translation>Автор</translation>
     </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+3"/>
+        <source>Developer</source>
+        <translation>Разработчик</translation>
+    </message>
 </context>
 <context>
     <name>ToolTip</name>
@@ -3476,6 +3495,42 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/libqutim/networkproxy.cpp" line="-89"/>
         <source>Type</source>
         <translation>Тип</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::ActionToolBar</name>
+    <message>
+        <location filename="../../qutim-meta/core/libqutim/actiontoolbar.cpp" line="+179"/>
+        <source>ToolBar appearance</source>
+        <translation>Облик на лентата с инструменти</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Icon size</source>
+        <translation>Размер на иконите</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Tool button style</source>
+        <translation>Стил на бутоните</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::ActionToolBarPrivate</name>
+    <message>
+        <location line="-152"/>
+        <source>ToolBar appearance</source>
+        <translation>Облик на лентата с инструменти</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Icon size</source>
+        <translation>Размер на иконите</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Tool button style</source>
+        <translation>Стил на бутоните</translation>
     </message>
 </context>
 <context>

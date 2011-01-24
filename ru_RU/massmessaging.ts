@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../src/messaging.cpp" line="+15"/>
+        <location filename="../../plugins/massmessaging/src/messaging.cpp" line="+15"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>Dialog</name>
     <message>
-        <location filename="../../src/messagingdialog.ui" line="+14"/>
+        <location filename="../../plugins/massmessaging/src/messagingdialog.ui" line="+14"/>
         <source>Multiply Sending</source>
         <translation>Массовая рассылка</translation>
     </message>
@@ -77,7 +77,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MassMessaging</name>
     <message>
-        <location filename="../../src/messaging.cpp" line="+12"/>
+        <location filename="../../plugins/massmessaging/src/messaging.cpp" line="+12"/>
         <source>&amp;Mass Messaging</source>
         <translation>&amp;Массовая рассылка</translation>
     </message>
@@ -85,7 +85,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MassMessaging::MessagingDialog</name>
     <message>
-        <location filename="../../src/messagingdialog.cpp" line="+54"/>
+        <location filename="../../plugins/massmessaging/src/messagingdialog.cpp" line="+54"/>
         <source>Stop</source>
         <translation>Остановить</translation>
     </message>
@@ -123,7 +123,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../src/messaging.cpp" line="-8"/>
+        <location filename="../../plugins/massmessaging/src/messaging.cpp" line="-8"/>
         <source>MassMessaging</source>
         <translation>Массовая рассылка</translation>
     </message>
