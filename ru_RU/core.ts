@@ -1617,7 +1617,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+55"/>
-        <location line="+238"/>
+        <location line="+239"/>
         <source>Set Status Text</source>
         <translation>Установить текст статуса</translation>
     </message>

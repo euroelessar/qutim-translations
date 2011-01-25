@@ -1905,7 +1905,7 @@ Accept invitation?</source>
     <message>
         <location line="+1"/>
         <source>Hurt</source>
-        <translatorcomment>вред // Раненый, бле! Картинку посмотри!</translatorcomment>
+        <translatorcomment>вред // Раненый, бле! Картинку посмотри! // где я её увижу юля? яж не юзаю - напиши плагин жуйка, а лучши псишный портируй - да и посмотришь - там нихрена не понятно</translatorcomment>
         <translation>Раненый</translation>
     </message>
     <message>

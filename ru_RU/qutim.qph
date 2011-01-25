@@ -4495,4 +4495,8 @@ Accept invitation?</source>
     <source>Custom</source>
     <target>Другое</target>
 </phrase>
+<phrase>
+    <source>Niger</source>
+    <target>Нигер</target>
+</phrase>
 </QPH>
