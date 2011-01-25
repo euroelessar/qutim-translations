@@ -14,7 +14,7 @@
     <message>
         <location filename="../../plugins/clconf/src/proxycontact.cpp" line="+44"/>
         <source>Conferences</source>
-        <translation type="unfinished">Конференции</translation>
+        <translation>Конференции</translation>
     </message>
 </context>
 <context>
@@ -22,12 +22,12 @@
     <message>
         <location filename="../../plugins/clconf/src/clconfplugin.cpp" line="+3"/>
         <source>Conferences in contact list</source>
-        <translation type="unfinished">Конференции в ростере</translation>
+        <translation>Конференции в ростере</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Plugin adds your conferences to the contact list</source>
-        <translation type="unfinished">Плагин добавляет ваши конференции (групповые чаты) в список контактов</translation>
+        <translation>Плагин добавляет ваши конференции (групповые чаты) в список контактов</translation>
     </message>
 </context>
 <context>

@@ -14,12 +14,12 @@
     <message>
         <location filename="../../protocols/astral/src/astralplugin.cpp" line="30"/>
         <source>Astral</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Астрал</translation>
     </message>
     <message>
         <location filename="../../protocols/astral/src/astralplugin.cpp" line="31"/>
         <source>Protocol support by Telepathy</source>
-        <translation type="unfinished">Протокол использующий Телепатию</translation>
+        <translation>Протокол использующий Телепатию</translation>
     </message>
     <message>
         <source>Plugin support by Telepathy</source>
