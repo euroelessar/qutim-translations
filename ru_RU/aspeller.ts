@@ -96,7 +96,7 @@
     <message>
         <location line="+1"/>
         <source>large</source>
-        <translation type="unfinished">Большой</translation>
+        <translation type="unfinished">большой</translation>
     </message>
     <message>
         <location line="+1"/>

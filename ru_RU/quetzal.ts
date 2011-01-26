@@ -33,7 +33,7 @@
 <context>
     <name>QuetzalAccountWizardPage</name>
     <message>
-        <location filename="../../protocols/quetzal/src/quetzalaccountwizard.cpp" line="+28"/>
+        <location filename="../../protocols/quetzal/src/quetzalaccountwizard.cpp" line="+37"/>
         <source>Username</source>
         <translation type="unfinished">Имя пользователя</translation>
     </message>

@@ -14,7 +14,8 @@
     <message>
         <location line="+71"/>
         <source>within %1 seconds</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Как тут с формами быть, няшка?</translatorcomment>
+        <translation type="unfinished">в течение %1 секунд</translation>
     </message>
     <message>
         <location line="+1"/>

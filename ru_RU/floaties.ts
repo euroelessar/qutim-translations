@@ -14,12 +14,12 @@
     <message>
         <location filename="../../plugins/floaties/src/floaties.cpp" line="31"/>
         <source>Floaties</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../plugins/floaties/src/floaties.cpp" line="32"/>
         <source>Implementation of floaty contacts</source>
-        <translation type="unfinished">Плавающие контакты.Возможность вынести контакт из ростера на рабочий стол</translation>
+        <translation>Плавающие контакты. Возможность вынести контакт из ростера на рабочий стол</translation>
     </message>
 </context>
 <context>

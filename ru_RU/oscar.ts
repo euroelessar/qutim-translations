@@ -11,17 +11,17 @@
     <message>
         <location line="+11"/>
         <source>UIN:</source>
-        <translation type="unfinished">UIN (номер ICQ):</translation>
+        <translation>UIN (номер ICQ):</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Password:</source>
-        <translation type="unfinished">Пароль:</translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Save password</source>
-        <translation type="unfinished">Сохранить пароль</translation>
+        <translation>Сохранить пароль</translation>
     </message>
 </context>
 <context>
@@ -194,7 +194,7 @@
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+203"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+204"/>
         <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+3"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
@@ -212,7 +212,7 @@
     <message>
         <location filename="../../protocols/oscar/src/ui/icqmainsettings.cpp" line="+41"/>
         <source>System</source>
-        <translation type="unfinished">Система</translation>
+        <translation type="unfinished">Системная</translation>
     </message>
 </context>
 <context>
@@ -1051,27 +1051,27 @@
     <message>
         <location line="+1"/>
         <source>French Antilles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Французские Антильские острова</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>French Guiana</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Французская Гвиана</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>French Polynesia</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Французская Полинезия</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Gabon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Габон</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Gambia</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Гамбия</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1106,47 +1106,47 @@
     <message>
         <location line="+1"/>
         <source>Grenada</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Гренада</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Guadeloupe</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Гваделупе</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Guam, US Territory of</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Гуам, территория США</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Guatemala</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Гватемала</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Guinea</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Гвинея</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Guinea-Bissau</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Гвинея-Бисау</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Guyana</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Гайана</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Haiti</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Гаити</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Honduras</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Гондурас</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1176,7 +1176,7 @@
     <message>
         <location line="+1"/>
         <source>Iran (Islamic Republic of)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Иран (Исламская Республика)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1226,17 +1226,17 @@
     <message>
         <location line="+1"/>
         <source>Kiribati</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Кирибати</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Korea (North Korea), Democratic People&apos;s Republic of</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Северная Корея (КНДР)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Korea (South Korea), Republic of</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Южная Корея</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1251,7 +1251,7 @@
     <message>
         <location line="+1"/>
         <source>Lao People&apos;s Democratic Republic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Лаосская Народно-Демократическая Республика</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1261,32 +1261,32 @@
     <message>
         <location line="+1"/>
         <source>Lebanon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ливан</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lesotho</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Лесото</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Liberia</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Либерия</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Libyan Arab Jamahiriya</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ливийская Арабская Джамахирия</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Liechtenstein</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Лихтенштейн</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lithuania</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Литва</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1296,12 +1296,12 @@
     <message>
         <location line="+1"/>
         <source>Macau</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Макао</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Macedonia (F.Y.R.O.M.)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Македония</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1311,7 +1311,7 @@
     <message>
         <location line="+1"/>
         <source>Malawi</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Малави</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1326,7 +1326,8 @@
     <message>
         <location line="+1"/>
         <source>Mali</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>малый???</translatorcomment>
+        <translation type="unfinished">Мали</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1336,27 +1337,27 @@
     <message>
         <location line="+1"/>
         <source>Marshall Islands</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Маршалловы Острова</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Martinique</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Мартиника</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mauritania</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Мавритания</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mauritius</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Маврикий</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mayotte Island</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Остров Майотта</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1366,12 +1367,12 @@
     <message>
         <location line="+1"/>
         <source>Micronesia, Federated States of</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Микронезия, Федеративные Штаты</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Moldova, Republic of</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Республика Молдова</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1386,7 +1387,7 @@
     <message>
         <location line="+1"/>
         <source>Montserrat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Монсеррат</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1396,12 +1397,12 @@
     <message>
         <location line="+1"/>
         <source>Mozambique</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Мозамбик</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Myanmar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Мьянма</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1411,7 +1412,7 @@
     <message>
         <location line="+1"/>
         <source>Nauru</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Науру</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1426,17 +1427,17 @@
     <message>
         <location line="+1"/>
         <source>Netherlands Antilles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Нидерландские Антильские острова</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Nevis</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Невис</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>New Caledonia</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Новая Каледония</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1451,17 +1452,18 @@
     <message>
         <location line="+1"/>
         <source>Niger</source>
-        <translation>Нигерия</translation>
+        <translatorcomment>есть нигер, а есть нигерия</translatorcomment>
+        <translation type="unfinished">Нигер</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Nigeria</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Нигерия</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Niue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ниуэ</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1476,7 +1478,7 @@
     <message>
         <location line="+1"/>
         <source>Oman</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Оман</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1486,7 +1488,7 @@
     <message>
         <location line="+1"/>
         <source>Palau</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Палау</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1526,7 +1528,7 @@
     <message>
         <location line="+1"/>
         <source>Puerto Rico, Common Wealth of</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пуэрто-Рико</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1536,7 +1538,7 @@
     <message>
         <location line="+1"/>
         <source>Reunion Island</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Остров Реюньон</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1546,7 +1548,7 @@
     <message>
         <location line="+1"/>
         <source>Rota Island</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Остров Рота</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1557,62 +1559,62 @@
     <message>
         <location line="+1"/>
         <source>Rwanda</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Руанда</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Saint Helena</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Остров Св. Елены</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Saint Kitts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">о-в Сент-Кристофер</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Saint Kitts and Nevis</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Федерация Сент-Кристофер и Невис</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Saint Lucia</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сент-Люси́я</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Saint Pierre and Miquelon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сен-Пьер и Микелон</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Saint Vincent and the Grenadines</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сент-Ви́нсент и Гренади́ны</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Saipan Island</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">о-в Сайпа́н</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Samoa</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Самоа</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>San Marino</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сан Марино</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Sao Tome &amp; Principe</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Демократическая Республика Сан-Томе́ и При́нсипи</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Saudi Arabia</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Короле́вство Сау́довская Ара́вия</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1622,17 +1624,17 @@
     <message>
         <location line="+1"/>
         <source>Senegal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Синегал</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Seychelles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сейшельские о-ва</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Sierra Leone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сьерра-Леоне</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1652,17 +1654,17 @@
     <message>
         <location line="+1"/>
         <source>Solomon Islands</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Соломо́новы Острова́</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Somalia</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сомали</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>South Africa</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ю́жно-Африка́нская Респу́блика (ЮА́Р)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1682,12 +1684,12 @@
     <message>
         <location line="+1"/>
         <source>Suriname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сурина́м</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Swaziland</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Короле́вство Сва́зиле́нд</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1702,7 +1704,8 @@
     <message>
         <location line="+1"/>
         <source>Syrian Arab Republic</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Сирия ёпт</translatorcomment>
+        <translation type="unfinished">Сири́йская Ара́бская Респу́блика </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1717,7 +1720,7 @@
     <message>
         <location line="+1"/>
         <source>Tanzania, United Republic of</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Объединённая Респу́блика Танзани́я</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1727,32 +1730,32 @@
     <message>
         <location line="+1"/>
         <source>Tinian Island</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">о-в Тиниан</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Togo</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Того</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Tokelau</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Токелау</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Tonga</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тонга</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Trinidad and Tobago</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тринида́д и Тоба́го</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Tunisia</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тунис</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1767,17 +1770,17 @@
     <message>
         <location line="+1"/>
         <source>Turks and Caicos Islands</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тёркс и Ка́йкос</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Tuvalu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тувалу</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Uganda</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Уганда</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1787,7 +1790,7 @@
     <message>
         <location line="+1"/>
         <source>United Arab Emirates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Обьединенные Арабские Эмираты (ОАЭ)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1812,7 +1815,7 @@
     <message>
         <location line="+1"/>
         <source>Vanuatu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вануту</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1827,27 +1830,27 @@
     <message>
         <location line="+1"/>
         <source>Viet Nam</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вьетнам</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Virgin Islands of the United States</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Америка́нские Вирги́нские острова (АВО)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Wales</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Уэ́льс</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Wallis and Futuna Islands</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">о-ва Уоллис и Футуна</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Western Samoa</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Западное Самоа</translation>
     </message>
     <message>
         <location line="+1"/>
