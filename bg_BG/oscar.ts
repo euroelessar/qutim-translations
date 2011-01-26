@@ -179,7 +179,7 @@
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+203"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+204"/>
         <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="+3"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>

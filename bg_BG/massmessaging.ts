@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/massmessaging/src/messaging.cpp" line="+15"/>
+        <location filename="../../qutim-meta/plugins/massmessaging/src/messaging.cpp" line="+16"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>

@@ -50,7 +50,7 @@
 <context>
     <name>ActionToolBar</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/actiontoolbar.cpp" line="+37"/>
+        <location filename="../../qutim-meta/core/libqutim/actiontoolbar.cpp" line="+39"/>
         <source>Small (16x16)</source>
         <translation>Малък (16x16)</translation>
     </message>
@@ -220,7 +220,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogplugin.cpp" line="+29"/>
         <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+19"/>
-        <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+30"/>
+        <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+31"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -553,7 +553,7 @@ p, li { white-space: pre-wrap; }
         <translation>Списък с контакти</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+45"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+46"/>
         <source>&amp;Settings...</source>
         <translation>&amp;Настройки...</translation>
     </message>
@@ -583,7 +583,7 @@ p, li { white-space: pre-wrap; }
         <translation>Скриване на контактите извън линия</translation>
     </message>
     <message>
-        <location line="-152"/>
+        <location line="-153"/>
         <source>Copy id to clipboard</source>
         <translation>Копиране в клипборда</translation>
     </message>
@@ -999,7 +999,7 @@ p, li { white-space: pre-wrap; }
         <translation>Списък на сесиите</translation>
     </message>
     <message>
-        <location line="+49"/>
+        <location line="+50"/>
         <source>Send</source>
         <translation>Изпращане</translation>
     </message>
@@ -1595,13 +1595,13 @@ p, li { white-space: pre-wrap; }
         <translation>Главна лентата с инструменти</translation>
     </message>
     <message>
-        <location line="+65"/>
+        <location line="+66"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
     <message>
         <location line="+55"/>
-        <location line="+238"/>
+        <location line="+239"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
@@ -1638,7 +1638,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::XSettingsWindow</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+214"/>
+        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+215"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки на qutIM - %1</translation>
     </message>
@@ -3500,25 +3500,22 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::ActionToolBar</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/actiontoolbar.cpp" line="+179"/>
         <source>ToolBar appearance</source>
-        <translation>Облик на лентата с инструменти</translation>
+        <translation type="obsolete">Облик на лентата с инструменти</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Icon size</source>
-        <translation>Размер на иконите</translation>
+        <translation type="obsolete">Размер на иконите</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Tool button style</source>
-        <translation>Стил на бутоните</translation>
+        <translation type="obsolete">Стил на бутоните</translation>
     </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::ActionToolBarPrivate</name>
     <message>
-        <location line="-152"/>
+        <location filename="../../qutim-meta/core/libqutim/actiontoolbar.cpp" line="+31"/>
         <source>ToolBar appearance</source>
         <translation>Облик на лентата с инструменти</translation>
     </message>
@@ -3552,7 +3549,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Добавка: %1</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+219"/>
+        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+220"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Неуспешно зареждане на добавка: 

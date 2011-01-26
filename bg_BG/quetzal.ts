@@ -33,7 +33,7 @@
 <context>
     <name>QuetzalAccountWizardPage</name>
     <message>
-        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalaccountwizard.cpp" line="+28"/>
+        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalaccountwizard.cpp" line="+37"/>
         <source>Username</source>
         <translation>Потребителско име</translation>
     </message>
