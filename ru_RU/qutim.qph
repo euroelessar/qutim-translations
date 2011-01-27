@@ -4499,4 +4499,692 @@ Accept invitation?</source>
     <source>Niger</source>
     <target>Нигер</target>
 </phrase>
+<phrase>
+    <source>Other</source>
+    <target>Другое</target>
+</phrase>
+<phrase>
+    <source>Afghanistan</source>
+    <target>Афганистан</target>
+</phrase>
+<phrase>
+    <source>Albania</source>
+    <target>Албания</target>
+</phrase>
+<phrase>
+    <source>Algeria</source>
+    <target>Алжир</target>
+</phrase>
+<phrase>
+    <source>Andorra</source>
+    <target>Андорра</target>
+</phrase>
+<phrase>
+    <source>Angola</source>
+    <target>Ангола</target>
+</phrase>
+<phrase>
+    <source>Anguilla</source>
+    <target>Ангилья</target>
+</phrase>
+<phrase>
+    <source>Antigua and Barbuda</source>
+    <target>Антигуа и Барбуда</target>
+</phrase>
+<phrase>
+    <source>Antilles</source>
+    <target>Антильские острова</target>
+</phrase>
+<phrase>
+    <source>Argentina</source>
+    <target>Аргентина</target>
+</phrase>
+<phrase>
+    <source>Armenia</source>
+    <target>Армения</target>
+</phrase>
+<phrase>
+    <source>Aruba</source>
+    <target>Аруба</target>
+</phrase>
+<phrase>
+    <source>Ascension Island</source>
+    <target>Остров Вознесения</target>
+</phrase>
+<phrase>
+    <source>Australia</source>
+    <target>Австралия</target>
+</phrase>
+<phrase>
+    <source>Austria</source>
+    <target>Австрия</target>
+</phrase>
+<phrase>
+    <source>Azerbaijan</source>
+    <target>Азербайджан</target>
+</phrase>
+<phrase>
+    <source>Bahamas</source>
+    <target>Багамы</target>
+</phrase>
+<phrase>
+    <source>Bahrain</source>
+    <target>Бахрейн</target>
+</phrase>
+<phrase>
+    <source>Bangladesh</source>
+    <target>Бангладеж</target>
+</phrase>
+<phrase>
+    <source>Barbados</source>
+    <target>Барбадос</target>
+</phrase>
+<phrase>
+    <source>Barbuda</source>
+    <target>Барбуда</target>
+</phrase>
+<phrase>
+    <source>Barbuda</source>
+    <target>Барбуда</target>
+</phrase>
+<phrase>
+    <source>Belarus</source>
+    <target>Белоруссия</target>
+</phrase>
+<phrase>
+    <source>Belgium</source>
+    <target>Бельгия</target>
+</phrase>
+<phrase>
+    <source>Belize</source>
+    <target>Белиз</target>
+</phrase>
+<phrase>
+    <source>Benin</source>
+    <target>Бенин</target>
+</phrase>
+<phrase>
+    <source>Benin</source>
+    <target>Бенин</target>
+</phrase>
+<phrase>
+    <source>Benin</source>
+    <target>Бенин</target>
+</phrase>
+<phrase>
+    <source>Bermuda</source>
+    <target>Бермудские острова</target>
+</phrase>
+<phrase>
+    <source>French Antilles</source>
+    <target>Французские Антильские острова</target>
+</phrase>
+<phrase>
+    <source>French Guiana</source>
+    <target>Французская Гвиана</target>
+</phrase>
+<phrase>
+    <source>French Polynesia</source>
+    <target>Французская Полинезия</target>
+</phrase>
+<phrase>
+    <source>Gabon</source>
+    <target>Габон</target>
+</phrase>
+<phrase>
+    <source>Gambia</source>
+    <target>Гамбия</target>
+</phrase>
+<phrase>
+    <source>Georgia</source>
+    <target>Грузия</target>
+</phrase>
+<phrase>
+    <source>Germany</source>
+    <target>Германия</target>
+</phrase>
+<phrase>
+    <source>Ghana</source>
+    <target>Гана</target>
+</phrase>
+<phrase>
+    <source>Gibraltar</source>
+    <target>Гибралтар</target>
+</phrase>
+<phrase>
+    <source>Greece</source>
+    <target>Греция</target>
+</phrase>
+<phrase>
+    <source>Greenland</source>
+    <target>Гренландия</target>
+</phrase>
+<phrase>
+    <source>Grenada</source>
+    <target>Гренада</target>
+</phrase>
+<phrase>
+    <source>Guadeloupe</source>
+    <target>Гваделупе</target>
+</phrase>
+<phrase>
+    <source>Guam, US Territory of</source>
+    <target>Гуам, территория США</target>
+</phrase>
+<phrase>
+    <source>Guatemala</source>
+    <target>Гватемала</target>
+</phrase>
+<phrase>
+    <source>Guinea</source>
+    <target>Гвинея</target>
+</phrase>
+<phrase>
+    <source>Guinea-Bissau</source>
+    <target>Гвинея-Бисау</target>
+</phrase>
+<phrase>
+    <source>Guyana</source>
+    <target>Гайана</target>
+</phrase>
+<phrase>
+    <source>Haiti</source>
+    <target>Гаити</target>
+</phrase>
+<phrase>
+    <source>Honduras</source>
+    <target>Гондурас</target>
+</phrase>
+<phrase>
+    <source>Hong Kong</source>
+    <target>Гон-Конг</target>
+</phrase>
+<phrase>
+    <source>Hungary</source>
+    <target>Венгрия</target>
+</phrase>
+<phrase>
+    <source>Iceland</source>
+    <target>Исландия</target>
+</phrase>
+<phrase>
+    <source>India</source>
+    <target>Индия</target>
+</phrase>
+<phrase>
+    <source>Indonesia</source>
+    <target>Индонезия</target>
+</phrase>
+<phrase>
+    <source>Iran (Islamic Republic of)</source>
+    <target>Иран (Исламская Республика)</target>
+</phrase>
+<phrase>
+    <source>Iraq</source>
+    <target>Ирак</target>
+</phrase>
+<phrase>
+    <source>Ireland</source>
+    <target>Ирландия</target>
+</phrase>
+<phrase>
+    <source>Israel</source>
+    <target>Израиль</target>
+</phrase>
+<phrase>
+    <source>Italy</source>
+    <target>Италия</target>
+</phrase>
+<phrase>
+    <source>Jamaica</source>
+    <target>Ямайка</target>
+</phrase>
+<phrase>
+    <source>Japan</source>
+    <target>Япония</target>
+</phrase>
+<phrase>
+    <source>Jordan</source>
+    <target>Иордания</target>
+</phrase>
+<phrase>
+    <source>Kazakhstan</source>
+    <target>Казахстан</target>
+</phrase>
+<phrase>
+    <source>Kenya</source>
+    <target>Кения</target>
+</phrase>
+<phrase>
+    <source>Kiribati</source>
+    <target>Кирибати</target>
+</phrase>
+<phrase>
+    <source>Korea (North Korea), Democratic People&apos;s Republic of</source>
+    <target>Северная Корея (КНДР)</target>
+</phrase>
+<phrase>
+    <source>Korea (South Korea), Republic of</source>
+    <target>Южная Корея</target>
+</phrase>
+<phrase>
+    <source>Kuwait</source>
+    <target>Кувейт</target>
+</phrase>
+<phrase>
+    <source>Kyrgyzstan</source>
+    <target>Кыргызстан</target>
+</phrase>
+<phrase>
+    <source>Lao People&apos;s Democratic Republic</source>
+    <target>Лаосская Народно-Демократическая Республика</target>
+</phrase>
+<phrase>
+    <source>Latvia</source>
+    <target>Латвия</target>
+</phrase>
+<phrase>
+    <source>Lebanon</source>
+    <target>Ливан</target>
+</phrase>
+<phrase>
+    <source>Lesotho</source>
+    <target>Лесото</target>
+</phrase>
+<phrase>
+    <source>Liberia</source>
+    <target>Либерия</target>
+</phrase>
+<phrase>
+    <source>Libyan Arab Jamahiriya</source>
+    <target>Ливийская Арабская Джамахирия</target>
+</phrase>
+<phrase>
+    <source>Liechtenstein</source>
+    <target>Лихтенштейн</target>
+</phrase>
+<phrase>
+    <source>Lithuania</source>
+    <target>Литва</target>
+</phrase>
+<phrase>
+    <source>Luxembourg</source>
+    <target>Люксембург</target>
+</phrase>
+<phrase>
+    <source>Macau</source>
+    <target>Макао</target>
+</phrase>
+<phrase>
+    <source>Macedonia (F.Y.R.O.M.)</source>
+    <target>Македония</target>
+</phrase>
+<phrase>
+    <source>Madagascar</source>
+    <target>Мадагаскар</target>
+</phrase>
+<phrase>
+    <source>Malawi</source>
+    <target>Малави</target>
+</phrase>
+<phrase>
+    <source>Malaysia</source>
+    <target>Малайзия</target>
+</phrase>
+<phrase>
+    <source>Maldives</source>
+    <target>Мальдивы</target>
+</phrase>
+<phrase>
+    <source>Mali</source>
+    <target>Мали</target>
+</phrase>
+<phrase>
+    <source>Malta</source>
+    <target>Мальта</target>
+</phrase>
+<phrase>
+    <source>Marshall Islands</source>
+    <target>Маршалловы Острова</target>
+</phrase>
+<phrase>
+    <source>Martinique</source>
+    <target>Мартиника</target>
+</phrase>
+<phrase>
+    <source>Mauritania</source>
+    <target>Мавритания</target>
+</phrase>
+<phrase>
+    <source>Mauritius</source>
+    <target>Маврикий</target>
+</phrase>
+<phrase>
+    <source>Mayotte Island</source>
+    <target>Остров Майотта</target>
+</phrase>
+<phrase>
+    <source>Mexico</source>
+    <target>Мексика</target>
+</phrase>
+<phrase>
+    <source>Micronesia, Federated States of</source>
+    <target>Микронезия, Федеративные Штаты</target>
+</phrase>
+<phrase>
+    <source>Moldova, Republic of</source>
+    <target>Республика Молдова</target>
+</phrase>
+<phrase>
+    <source>Monaco</source>
+    <target>Монако</target>
+</phrase>
+<phrase>
+    <source>Mongolia</source>
+    <target>Монголия</target>
+</phrase>
+<phrase>
+    <source>Montserrat</source>
+    <target>Монсеррат</target>
+</phrase>
+<phrase>
+    <source>Morocco</source>
+    <target>Марокко</target>
+</phrase>
+<phrase>
+    <source>Mozambique</source>
+    <target>Мозамбик</target>
+</phrase>
+<phrase>
+    <source>Myanmar</source>
+    <target>Мьянма</target>
+</phrase>
+<phrase>
+    <source>Namibia</source>
+    <target>Намибия</target>
+</phrase>
+<phrase>
+    <source>Nauru</source>
+    <target>Науру</target>
+</phrase>
+<phrase>
+    <source>Nepal</source>
+    <target>Непал</target>
+</phrase>
+<phrase>
+    <source>Netherlands</source>
+    <target>Нидерланды</target>
+</phrase>
+<phrase>
+    <source>Netherlands Antilles</source>
+    <target>Нидерландские Антильские острова</target>
+</phrase>
+<phrase>
+    <source>Nevis</source>
+    <target>Невис</target>
+</phrase>
+<phrase>
+    <source>New Caledonia</source>
+    <target>Новая Каледония</target>
+</phrase>
+<phrase>
+    <source>New Zealand</source>
+    <target>Новая Зеландия</target>
+</phrase>
+<phrase>
+    <source>Nicaragua</source>
+    <target>Никарагуа</target>
+</phrase>
+<phrase>
+    <source>Niger</source>
+    <target>Нигер</target>
+</phrase>
+<phrase>
+    <source>Nigeria</source>
+    <target>Нигерия</target>
+</phrase>
+<phrase>
+    <source>Niue</source>
+    <target>Ниуэ</target>
+</phrase>
+<phrase>
+    <source>Norfolk Island</source>
+    <target>Остров Норфолк</target>
+</phrase>
+<phrase>
+    <source>Oman</source>
+    <target>Оман</target>
+</phrase>
+<phrase>
+    <source>Norway</source>
+    <target>Норвегия</target>
+</phrase>
+<phrase>
+    <source>Pakistan</source>
+    <target>Пакистан</target>
+</phrase>
+<phrase>
+    <source>Palau</source>
+    <target>Палау</target>
+</phrase>
+<phrase>
+    <source>Panama</source>
+    <target>Панама</target>
+</phrase>
+<phrase>
+    <source>Papua New Guinea</source>
+    <target>Папуа-Новая Гвинея</target>
+</phrase>
+<phrase>
+    <source>Paraguay</source>
+    <target>Парагвай</target>
+</phrase>
+<phrase>
+    <source>Peru</source>
+    <target>Перу</target>
+</phrase>
+<phrase>
+    <source>Philippines</source>
+    <target>Филиппины</target>
+</phrase>
+<phrase>
+    <source>Poland</source>
+    <target>Польша</target>
+</phrase>
+<phrase>
+    <source>Portugal</source>
+    <target>Португалия</target>
+</phrase>
+<phrase>
+    <source>Puerto Rico, Common Wealth of</source>
+    <target>Пуэрто-Рико</target>
+</phrase>
+<phrase>
+    <source>Qatar</source>
+    <target>Катар</target>
+</phrase>
+<phrase>
+    <source>Reunion Island</source>
+    <target>Остров Реюньон</target>
+</phrase>
+<phrase>
+    <source>Romania</source>
+    <target>Румыния</target>
+</phrase>
+<phrase>
+    <source>Rota Island</source>
+    <target>Остров Рота</target>
+</phrase>
+<phrase>
+    <source>Russia</source>
+    <target>Россия</target>
+</phrase>
+<phrase>
+    <source>Rwanda</source>
+    <target>Руанда</target>
+</phrase>
+<phrase>
+    <source>Saint Helena</source>
+    <target>Остров Св. Елены</target>
+</phrase>
+<phrase>
+    <source>Saint Helena</source>
+    <target>Остров Св. Елены</target>
+</phrase>
+<phrase>
+    <source>Saint Kitts</source>
+    <target>о-в Сент-Кристофер</target>
+</phrase>
+<phrase>
+    <source>Saint Kitts and Nevis</source>
+    <target>Федерация Сент-Кристофер и Невис</target>
+</phrase>
+<phrase>
+    <source>Saint Lucia</source>
+    <target>Сент-Люси́я</target>
+</phrase>
+<phrase>
+    <source>Saint Pierre and Miquelon</source>
+    <target>Сен-Пьер и Микелон</target>
+</phrase>
+<phrase>
+    <source>Saint Vincent and the Grenadines</source>
+    <target>Сент-Ви́нсент и Гренади́ны</target>
+</phrase>
+<phrase>
+    <source>Saipan Island</source>
+    <target>о-в Сайпа́н</target>
+</phrase>
+<phrase>
+    <source>Samoa</source>
+    <target>Самоа</target>
+</phrase>
+<phrase>
+    <source>San Marino</source>
+    <target>Сан Марино</target>
+</phrase>
+<phrase>
+    <source>Sao Tome &amp; Principe</source>
+    <target>Демократическая Республика Сан-Томе́ и При́нсипи</target>
+</phrase>
+<phrase>
+    <source>Saudi Arabia</source>
+    <target>Короле́вство Сау́довская Ара́вия</target>
+</phrase>
+<phrase>
+    <source>Scotland</source>
+    <target>Шотландия</target>
+</phrase>
+<phrase>
+    <source>Senegal</source>
+    <target>Синегал</target>
+</phrase>
+<phrase>
+    <source>Seychelles</source>
+    <target>Сейшельские о-ва</target>
+</phrase>
+<phrase>
+    <source>Sierra Leone</source>
+    <target>Сьерра-Леоне</target>
+</phrase>
+<phrase>
+    <source>Solomon Islands</source>
+    <target>Соломо́новы Острова́</target>
+</phrase>
+<phrase>
+    <source>Somalia</source>
+    <target>Сомали</target>
+</phrase>
+<phrase>
+    <source>South Africa</source>
+    <target>Ю́жно-Африка́нская Респу́блика (ЮА́Р)</target>
+</phrase>
+<phrase>
+    <source>Suriname</source>
+    <target>Сурина́м</target>
+</phrase>
+<phrase>
+    <source>Swaziland</source>
+    <target>Короле́вство Сва́зиле́нд</target>
+</phrase>
+<phrase>
+    <source>Syrian Arab Republic</source>
+    <target>Сири́йская Ара́бская Респу́блика </target>
+</phrase>
+<phrase>
+    <source>Tanzania, United Republic of</source>
+    <target>Объединённая Респу́блика Танзани́я</target>
+</phrase>
+<phrase>
+    <source>Tinian Island</source>
+    <target>о-в Тиниан</target>
+</phrase>
+<phrase>
+    <source>Togo</source>
+    <target>Того</target>
+</phrase>
+<phrase>
+    <source>Tokelau</source>
+    <target>Токелау</target>
+</phrase>
+<phrase>
+    <source>Tonga</source>
+    <target>Тонга</target>
+</phrase>
+<phrase>
+    <source>Trinidad and Tobago</source>
+    <target>Тринида́д и Тоба́го</target>
+</phrase>
+<phrase>
+    <source>Tunisia</source>
+    <target>Тунис</target>
+</phrase>
+<phrase>
+    <source>Turks and Caicos Islands</source>
+    <target>Тёркс и Ка́йкос</target>
+</phrase>
+<phrase>
+    <source>Tuvalu</source>
+    <target>Тувалу</target>
+</phrase>
+<phrase>
+    <source>Uganda</source>
+    <target>Уганда</target>
+</phrase>
+<phrase>
+    <source>United Arab Emirates</source>
+    <target>Обьединенные Арабские Эмираты (ОАЭ)</target>
+</phrase>
+<phrase>
+    <source>Vanuatu</source>
+    <target>Вануту</target>
+</phrase>
+<phrase>
+    <source>Viet Nam</source>
+    <target>Вьетнам</target>
+</phrase>
+<phrase>
+    <source>Virgin Islands of the United States</source>
+    <target>Америка́нские Вирги́нские острова (АВО)</target>
+</phrase>
+<phrase>
+    <source>Wales</source>
+    <target>Уэ́льс</target>
+</phrase>
+<phrase>
+    <source>Wallis and Futuna Islands</source>
+    <target>о-ва Уоллис и Футуна</target>
+</phrase>
+<phrase>
+    <source>Wales</source>
+    <target>Уэ́льс</target>
+</phrase>
+<phrase>
+    <source>Wallis and Futuna Islands</source>
+    <target>о-ва Уоллис и Футуна</target>
+</phrase>
+<phrase>
+    <source>Western Samoa</source>
+    <target>Западное Самоа</target>
+</phrase>
 </QPH>

@@ -2381,7 +2381,8 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+13"/>
         <source>Afrikaans</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Африкаас</translatorcomment>
+        <translation type="unfinished">Африкаас</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2391,17 +2392,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Арабский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Armenian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Армянский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Azerbaijani</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Азербайджанский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2411,37 +2412,37 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Bhojpuri</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">бхонджпури</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Bosnian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Боснийский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Болгарский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Burmese</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Бирманский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cantonese</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Кантонский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Catalan</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Католонский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Chamorro</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Чаморро</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2451,7 +2452,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Croatian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Хорватский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2461,12 +2462,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Danish</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Датский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Dutch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Голландский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2496,12 +2497,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>French</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Францизский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Gaelic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Гэльский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2516,32 +2517,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Gujarati</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Гуджарати</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Иврит</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Hindi</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Хинди</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Hungarian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Венгерский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Icelandic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Исландский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Индонезийский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2556,7 +2557,8 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Khmer</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>красных</translatorcomment>
+        <translation type="unfinished">Кхмерский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2566,52 +2568,54 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Kurdish</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Курдский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lao</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Лао</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Latvian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Латвийский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lithuanian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Литовский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Macedonian</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>александр</translatorcomment>
+        <translation type="unfinished">Македонский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Malay</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Малайский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mandarin</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Мандаринск???ий??? китайский что ли????</translatorcomment>
+        <translation type="unfinished">Мандарин</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mongolian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Монгольский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Norwegian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Норвежский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Persian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Персидский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2621,12 +2625,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Португальский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Punjabi</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пенджаби</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2641,27 +2645,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сербский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Sindhi</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Синди</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Slovak</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Словацкий</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Slovenian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Словенский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Somali</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сомалийский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2671,42 +2675,43 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Swahili</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Суахили</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Swedish</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Шведский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Tagalog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тагальский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Taiwanese</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тайванский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тамильский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Tatar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Татарский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Thai</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>тай</translatorcomment>
+        <translation type="unfinished">Тай</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Турецкий</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2716,27 +2721,28 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Urdu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Урду</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вьетнавский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Welsh</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Вааааллли - Иииив</translatorcomment>
+        <translation type="unfinished">Валлийский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Yiddish</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Идиш</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Yoruba</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Йоруба</translation>
     </message>
 </context>
 <context>
