@@ -1515,17 +1515,18 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>The requesting entity does not possess the required permissions to perform the action.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>промт</translatorcomment>
+        <translation type="unfinished">Объект запроса не обладает необходимыми полномочиями, чтобы выполнить действие.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The recipient or server can no longer be contacted at this address.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">С получателем или сервером больше нельзя связаться по этому адресу.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сервер не мог обработать stanza из-за неверной конфигурации или иной неопределенной внутренней ошибки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1540,12 +1541,13 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Получатель или сервер понимают запрос, но отказываются обработать его, потому что он не соответствует критериям, определенным получателем или сервером.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The recipient or server does not allow any entity to perform the action.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>промт</translatorcomment>
+        <translation type="unfinished">Получатель или сервер не позволяют никакому объекту выполнять действие.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1620,7 +1622,7 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>No stanza error occured. You&apos;re just sleeping.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Никакой ошибки строфы не было. Ты просто спишь.</translation>
     </message>
 </context>
 <context>
