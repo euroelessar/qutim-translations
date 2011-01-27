@@ -880,7 +880,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::StackedChatWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/stackedchatform/stackedchatwidget.cpp" line="+48"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/stackedchatform/stackedchatwidget.cpp" line="+54"/>
         <source>Chat Actions</source>
         <translation>Действия чата</translation>
     </message>
@@ -1617,7 +1617,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+55"/>
-        <location line="+239"/>
+        <location line="+240"/>
         <source>Set Status Text</source>
         <translation>Установить текст статуса</translation>
     </message>
@@ -2758,7 +2758,7 @@ p, li { white-space: pre-wrap; }
         <translation>Помошник миграции</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+27"/>
         <source>Name:</source>
         <translation>Имя:</translation>
     </message>
@@ -3651,6 +3651,370 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/emoticonssettings/emoticonsselector.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
+    </message>
+</context>
+<context>
+    <name>kb_Qwerty</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/stackedchatform/kb_qwerty.ui" line="+21"/>
+        <source>FastSMS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+54"/>
+        <source>q</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+15"/>
+        <source>qQ1§й</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <location line="+46"/>
+        <location line="+46"/>
+        <location line="+43"/>
+        <location line="+43"/>
+        <location line="+43"/>
+        <location line="+43"/>
+        <location line="+43"/>
+        <location line="+43"/>
+        <location line="+43"/>
+        <location line="+50"/>
+        <location line="+43"/>
+        <location line="+43"/>
+        <location line="+43"/>
+        <location line="+43"/>
+        <location line="+44"/>
+        <location line="+43"/>
+        <location line="+43"/>
+        <location line="+43"/>
+        <location line="+28"/>
+        <location line="+91"/>
+        <location line="+43"/>
+        <location line="+43"/>
+        <location line="+43"/>
+        <location line="+43"/>
+        <location line="+43"/>
+        <location line="+43"/>
+        <location line="+25"/>
+        <location line="+169"/>
+        <location line="+80"/>
+        <location line="+31"/>
+        <source>bgDirectInput</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-1439"/>
+        <source>w</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>wW2$ц</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>e</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+15"/>
+        <source>eE3£у</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>r</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>rR4€к</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>t</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>tT5¥е</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>y</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>yY6-н</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>u</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>uU7&lt;г</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>i</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>iI8&gt;ш</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>o</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>oO9[щ</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>p</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>pP0]з</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+38"/>
+        <source>a</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>aA({ф</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>s</source>
+        <translation type="unfinished">с</translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>sS)}ы</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>d</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>dD+^в</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>f</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>fF*\а</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>g</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>gG=/п</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>h</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>hH&amp;~р</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+32"/>
+        <source>j</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>jJ--о</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>k</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>kK__л</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>l</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>lL^|д</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+9"/>
+        <source>:;`№ж</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+79"/>
+        <source>z</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>zZёёя</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>x</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>xXъъч</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>c</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>cC??с</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>v</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>vV!!м</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>b</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>bB;;и</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>n</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>nN::т</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>m</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>mM,,ь</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+9"/>
+        <source>?!%%б</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+85"/>
+        <source>1#</source>
+        <translation type="unfinished">1#</translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>ru
+en</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+41"/>
+        <source>,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>,(##х</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+68"/>
+        <source>.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+12"/>
+        <source>.)&apos;&apos;э</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+9"/>
+        <source>&quot;&apos;@@ю</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
