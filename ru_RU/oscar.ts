@@ -212,7 +212,7 @@
     <message>
         <location filename="../../protocols/oscar/src/ui/icqmainsettings.cpp" line="+41"/>
         <source>System</source>
-        <translation type="unfinished">Системная</translation>
+        <translation>Системная</translation>
     </message>
 </context>
 <context>
@@ -310,7 +310,8 @@
     <message>
         <location line="+2"/>
         <source>No IP addresses were found for the host</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>я не виновен, я сам ищу где в кутиме это </translatorcomment>
+        <translation type="unfinished">Не найдено соответствие IP адреса серверу</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -335,7 +336,8 @@
     <message>
         <location line="+2"/>
         <source>Reservation link error</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Знаю, что ошибку переводить не надо, но пусть побудет чуток. -_-</translatorcomment>
+        <translation type="unfinished">Пипец подкрался незаметно</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -615,12 +617,12 @@
     <message>
         <location line="+54"/>
         <source>Authorization request accepted</source>
-        <translation type="unfinished">Принят запрос авторизации</translation>
+        <translation>Принят запрос авторизации</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Authorization request declined</source>
-        <translation type="unfinished">Запрос авторизации отклонён</translation>
+        <translation>Запрос авторизации отклонён</translation>
     </message>
     <message>
         <location line="+38"/>
@@ -1306,6 +1308,7 @@
     <message>
         <location line="+1"/>
         <source>Madagascar</source>
+        <translatorcomment>Пингвины!</translatorcomment>
         <translation>Мадагаскар</translation>
     </message>
     <message>
@@ -1579,7 +1582,7 @@
     <message>
         <location line="+1"/>
         <source>Saint Lucia</source>
-        <translation type="unfinished">Сент-Люси́я</translation>
+        <translation type="unfinished">Сент-Люсия</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1589,12 +1592,12 @@
     <message>
         <location line="+1"/>
         <source>Saint Vincent and the Grenadines</source>
-        <translation type="unfinished">Сент-Ви́нсент и Гренади́ны</translation>
+        <translation type="unfinished">Сент-Винсент и Гренадины</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Saipan Island</source>
-        <translation type="unfinished">о-в Сайпа́н</translation>
+        <translation type="unfinished">о-в Сайпан</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1609,12 +1612,12 @@
     <message>
         <location line="+1"/>
         <source>Sao Tome &amp; Principe</source>
-        <translation type="unfinished">Демократическая Республика Сан-Томе́ и При́нсипи</translation>
+        <translation type="unfinished">Демократическая Республика Сан-Томе и Принсипи</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Saudi Arabia</source>
-        <translation type="unfinished">Короле́вство Сау́довская Ара́вия</translation>
+        <translation type="unfinished">Королевство Саудовская Аравия</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1654,7 +1657,7 @@
     <message>
         <location line="+1"/>
         <source>Solomon Islands</source>
-        <translation type="unfinished">Соломо́новы Острова́</translation>
+        <translation type="unfinished">Соломоновы Острова</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1664,7 +1667,7 @@
     <message>
         <location line="+1"/>
         <source>South Africa</source>
-        <translation type="unfinished">Ю́жно-Африка́нская Респу́блика (ЮА́Р)</translation>
+        <translation type="unfinished">Южно-Африканская Республика (ЮАР)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1684,12 +1687,12 @@
     <message>
         <location line="+1"/>
         <source>Suriname</source>
-        <translation type="unfinished">Сурина́м</translation>
+        <translation type="unfinished">Суринам</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Swaziland</source>
-        <translation type="unfinished">Короле́вство Сва́зиле́нд</translation>
+        <translation type="unfinished">Королевство Свазиленд</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1705,7 +1708,7 @@
         <location line="+1"/>
         <source>Syrian Arab Republic</source>
         <translatorcomment>Сирия ёпт</translatorcomment>
-        <translation type="unfinished">Сири́йская Ара́бская Респу́блика </translation>
+        <translation type="unfinished">Сирийская Арабская Республика </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1750,7 +1753,7 @@
     <message>
         <location line="+1"/>
         <source>Trinidad and Tobago</source>
-        <translation type="unfinished">Тринида́д и Тоба́го</translation>
+        <translation>Тринидад и Тобаго</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1770,7 +1773,7 @@
     <message>
         <location line="+1"/>
         <source>Turks and Caicos Islands</source>
-        <translation type="unfinished">Тёркс и Ка́йкос</translation>
+        <translation type="unfinished">Тёркс и Кайкос</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1835,12 +1838,12 @@
     <message>
         <location line="+1"/>
         <source>Virgin Islands of the United States</source>
-        <translation type="unfinished">Америка́нские Вирги́нские острова (АВО)</translation>
+        <translation type="unfinished">Американские Виргинские острова (АВО)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Wales</source>
-        <translation type="unfinished">Уэ́льс</translation>
+        <translation>Уэльс</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2128,22 +2131,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-221"/>
         <source>50&apos;s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">50-е</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>60&apos;s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">60-е</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>70&apos;s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">70-е</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>80&apos;s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">80-е</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2308,6 +2311,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Parties</source>
+        <translatorcomment>пати?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2387,6 +2391,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Albanian</source>
+        <translatorcomment>Олбанский</translatorcomment>
         <translation>Албанский</translation>
     </message>
     <message>
@@ -2412,7 +2417,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Bhojpuri</source>
-        <translation type="unfinished">бхонджпури</translation>
+        <translation>Бходжпури</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2599,8 +2604,8 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Mandarin</source>
-        <translatorcomment>Мандаринск???ий??? китайский что ли????</translatorcomment>
-        <translation type="unfinished">Мандарин</translation>
+        <translatorcomment>Мандаринск???ий??? китайский что ли????  /Nico-izo/В западной литературе севернокитайский обычно называют мандаринский, или мандаринский китайский (англ. Mandarin Chinese). Название возникло как калька c кит. гуаньхуа (букв. — официальная речь), от западного названия высших китайских чиновников (гуань) — мандаринов.</translatorcomment>
+        <translation type="unfinished">Гуаньхуа (Мандаринский)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3434,7 +3439,7 @@ p, li { white-space: pre-wrap; }
         <location line="+3"/>
         <location line="+1"/>
         <source>XStatus settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Настройки Х-статусов</translation>
     </message>
 </context>
 <context>
@@ -3625,7 +3630,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+5"/>
         <source>Icq account settings</source>
-        <translation type="unfinished">Настройки учетной записи ICQ/oscar</translation>
+        <translation type="unfinished">Настройки учетной записи ICQ</translation>
     </message>
 </context>
 <context>
