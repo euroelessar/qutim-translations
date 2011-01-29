@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="+32"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="+33"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
