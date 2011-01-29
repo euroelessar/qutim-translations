@@ -878,22 +878,22 @@
     </message>
     <message>
         <location line="-230"/>
-        <location line="+243"/>
+        <location line="+247"/>
         <source>Save to bookmarks</source>
         <translation>Запазване в отметките</translation>
     </message>
     <message>
-        <location line="-235"/>
+        <location line="-239"/>
         <source>Change Subscription</source>
         <translation>Промяна на абонамента</translation>
     </message>
     <message>
-        <location line="+224"/>
+        <location line="+226"/>
         <source>Leave conference</source>
         <translation>Напускане на конференцията</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="+15"/>
         <source>Remove from bookmarks</source>
         <translation>Премахване от отметките</translation>
     </message>
@@ -908,12 +908,12 @@
         <translation>Заявяване на абонамент</translation>
     </message>
     <message>
-        <location line="-266"/>
+        <location line="-270"/>
         <source>Room&apos;s configuration</source>
         <translation>Настройване на стаята</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+167"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+177"/>
         <source>Conference</source>
         <translation>Конференция</translation>
     </message>
@@ -990,7 +990,7 @@
 <context>
     <name>Jabber::JAccount</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/jaccount.cpp" line="+169"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/jaccount.cpp" line="+187"/>
         <source>qutIM</source>
         <comment>Local qutIM&apos;s name</comment>
         <translation>qutIM</translation>
@@ -1616,7 +1616,7 @@ Accept invitation?</source>
         <translation>Въведете причина за забраната на %1</translation>
     </message>
     <message>
-        <location line="+234"/>
+        <location line="+238"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
@@ -2630,7 +2630,7 @@ Accept invitation?</source>
         <translation type="obsolete">Jabber</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-327"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-331"/>
         <source>Main settings</source>
         <translation>Основни настройки</translation>
     </message>

@@ -18,6 +18,11 @@
         <source>Accounts</source>
         <translation>Сметки</translation>
     </message>
+    <message>
+        <location filename="../../qutim-meta/core/libqutim/account.cpp" line="+103"/>
+        <source>Authorization failed</source>
+        <translation>Неуспешно удостоверяване</translation>
+    </message>
 </context>
 <context>
     <name>AccountCreatorList</name>
@@ -381,7 +386,14 @@ p, li { white-space: pre-wrap; }
         <translation>Затваряне на разговора</translation>
     </message>
     <message>
+        <location line="+1"/>
         <location line="+5"/>
+        <location line="+5"/>
+        <source>ChatWidget</source>
+        <translation>Разговор</translation>
+    </message>
+    <message>
+        <location line="-6"/>
         <source>Next chat</source>
         <translation>Следващ разговор</translation>
     </message>
@@ -420,6 +432,12 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/tabbedchatform/tabbedchatform.cpp" line="+24"/>
         <source>Open session list</source>
         <translation>Отваряне на списъка на сесиите</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+109"/>
+        <location line="+5"/>
+        <source>ContactList</source>
+        <translation>Списък с контакти</translation>
     </message>
 </context>
 <context>
@@ -538,7 +556,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+108"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-6"/>
         <source>Change global status</source>
         <translation>Промяна на общия статус</translation>
     </message>
@@ -3104,9 +3122,13 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>SimplePasswordWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/password/simplepasswordwidget.ui" line="+14"/>
         <source>Dialog</source>
-        <translation>Удостоверяване</translation>
+        <translation type="obsolete">Удостоверяване</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/password/simplepasswordwidget.ui" line="+14"/>
+        <source>Password Request</source>
+        <translation>Запитване за парола</translation>
     </message>
     <message>
         <location line="+6"/>
