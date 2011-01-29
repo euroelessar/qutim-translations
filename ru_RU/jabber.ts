@@ -305,7 +305,7 @@
 <context>
     <name>Conference</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+80"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+82"/>
         <source>Kick</source>
         <translation>Кик</translation>
     </message>
@@ -718,7 +718,7 @@
         <translation>Настройки</translation>
     </message>
     <message>
-        <location line="+15"/>
+        <location line="+21"/>
         <source>Default resource:</source>
         <translation>Ресурс (по ум.):</translation>
     </message>
@@ -771,6 +771,21 @@
         <source>DND:</source>
         <translation>Не беспокоить:</translation>
     </message>
+    <message>
+        <location line="+17"/>
+        <source>Autodetect connection settings</source>
+        <translation type="unfinished">Автоопределение настроек соединения</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Server:</source>
+        <translation type="unfinished">Сервер:</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Port:</source>
+        <translation type="unfinished">Порт:</translation>
+    </message>
 </context>
 <context>
     <name>Jabber</name>
@@ -816,23 +831,23 @@
     </message>
     <message>
         <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+10"/>
-        <location line="+242"/>
+        <location line="+245"/>
         <source>Join conference</source>
         <translation>Войти в конференцию</translation>
     </message>
     <message>
-        <location line="-227"/>
-        <location line="+240"/>
+        <location line="-230"/>
+        <location line="+243"/>
         <source>Save to bookmarks</source>
         <translation>Сохранить в закладках</translation>
     </message>
     <message>
-        <location line="-232"/>
+        <location line="-235"/>
         <source>Change Subscription</source>
         <translation type="unfinished">Изменить подписку</translation>
     </message>
     <message>
-        <location line="+221"/>
+        <location line="+224"/>
         <source>Leave conference</source>
         <translation>Покинуть конференцию</translation>
     </message>
@@ -852,7 +867,7 @@
         <translation type="unfinished">Запросить подписку</translation>
     </message>
     <message>
-        <location line="-263"/>
+        <location line="-266"/>
         <source>Room&apos;s configuration</source>
         <translation>Настройки комнаты</translation>
     </message>
@@ -1405,7 +1420,7 @@ Accept invitation?</source>
         <translation>Укажите причину блокировки %1</translation>
     </message>
     <message>
-        <location line="+231"/>
+        <location line="+234"/>
         <source>Possible client</source>
         <translation>Возможный клиент</translation>
     </message>
@@ -2423,12 +2438,12 @@ Accept invitation?</source>
         <translation type="obsolete">Jabber</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-322"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-327"/>
         <source>Main settings</source>
         <translation type="unfinished">Общее</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+7"/>
         <source>Room configuration</source>
         <translation>Конфигурация комнаты</translation>
     </message>
