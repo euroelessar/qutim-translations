@@ -12,7 +12,7 @@
 <context>
     <name>ConnectionManager::ConnectionManager</name>
     <message>
-        <location line="+71"/>
+        <location line="+82"/>
         <source>within %1 seconds</source>
         <translation>в рамките на %1 секунди</translation>
     </message>
@@ -48,7 +48,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/plugins/connectionmanager/src/connectionmanager.cpp" line="-79"/>
+        <location filename="../../qutim-meta/plugins/connectionmanager/src/connectionmanager.cpp" line="-90"/>
         <source>ConnectionManager</source>
         <translation>Управление на връзката</translation>
     </message>

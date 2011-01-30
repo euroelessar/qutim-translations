@@ -452,7 +452,7 @@
         <translation>Преглед на всички</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="+21"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="+24"/>
         <source>Account settings</source>
         <translation>Настройки на сметката</translation>
     </message>

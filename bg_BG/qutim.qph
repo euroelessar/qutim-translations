@@ -2768,4 +2768,8 @@
     <source>Register</source>
     <target>Регистриране</target>
 </phrase>
+<phrase>
+    <source>Search results</source>
+    <target>Резултати от търсенето</target>
+</phrase>
 </QPH>

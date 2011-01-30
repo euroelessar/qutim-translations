@@ -1231,6 +1231,32 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::MetaContacts::MergeDialog</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/metacontacts/mergedialog.ui" line="+14"/>
+        <source>Manage metacontact</source>
+        <translation>Управление на метаконтакти</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>MetaContact name:</source>
+        <translation>Име на метаконтакта:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Search contacts:</source>
+        <translation>Търсене на контакти:</translation>
+    </message>
+</context>
+<context>
+    <name>Core::MetaContacts::Model</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/metacontacts/model.cpp" line="+83"/>
+        <source>Account</source>
+        <translation>Сметка</translation>
+    </message>
+</context>
+<context>
     <name>Core::MigrationStartPage</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/migration02x03/migrationstartpage.cpp" line="+22"/>
@@ -1656,7 +1682,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::XSettingsWindow</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+230"/>
+        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+233"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки на qutIM - %1</translation>
     </message>
@@ -2001,15 +2027,33 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MetaContact</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/metacontacts/manager.cpp" line="+31"/>
+        <location filename="../../qutim-meta/core/src/corelayers/metacontacts/manager.cpp" line="+35"/>
         <source>Split Metacontact</source>
         <translation>Разделяне на метаконтакта</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Manage metacontacts</source>
+        <translation>Управление на метаконтакти</translation>
+    </message>
+</context>
+<context>
+    <name>MetaContacts</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/metacontacts/model.cpp" line="-50"/>
+        <source>Contacts in metacontact</source>
+        <translation>Контакти в метаконтакта</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Search results</source>
+        <translation>Резултати от търсенето</translation>
     </message>
 </context>
 <context>
     <name>Metacontact</name>
     <message>
-        <location line="+89"/>
+        <location filename="../../qutim-meta/core/src/corelayers/metacontacts/manager.cpp" line="+105"/>
         <source>You</source>
         <translation>Вие</translation>
     </message>
@@ -3038,7 +3082,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Shortcut</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/shortcut.cpp" line="+73"/>
+        <location filename="../../qutim-meta/core/libqutim/shortcut.cpp" line="+75"/>
         <source>Close</source>
         <translation>Затваряне</translation>
     </message>
@@ -3935,7 +3979,7 @@ en</source>
         <translation type="obsolete">Добавка: %1</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+220"/>
+        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+224"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Неуспешно зареждане на добавка: 
@@ -3954,7 +3998,7 @@ en</source>
  %1</translation>
     </message>
     <message>
-        <location line="+110"/>
+        <location line="+131"/>
         <source>Could not init plugin: 
  %1</source>
         <translation>Неуспешно инициализиране на добавка: 
