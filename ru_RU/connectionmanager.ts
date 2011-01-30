@@ -12,7 +12,7 @@
 <context>
     <name>ConnectionManager::ConnectionManager</name>
     <message>
-        <location line="+71"/>
+        <location line="+82"/>
         <source>within %1 seconds</source>
         <translatorcomment>Как тут с формами быть, няшка?</translatorcomment>
         <translation type="unfinished">в течение %1 секунд</translation>
@@ -49,7 +49,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="-79"/>
+        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="-90"/>
         <source>ConnectionManager</source>
         <translation>Менеджер соединения</translation>
     </message>

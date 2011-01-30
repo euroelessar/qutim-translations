@@ -453,7 +453,7 @@
         <translation>Просмотреть фотоальбом</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+21"/>
+        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+24"/>
         <source>Account settings</source>
         <translation>Настройки учетной записи</translation>
     </message>

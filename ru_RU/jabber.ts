@@ -808,7 +808,7 @@
         <translation type="obsolete">Войти в конференцию</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+180"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+190"/>
         <source>Password</source>
         <translation>Пароль</translation>
     </message>
@@ -837,22 +837,22 @@
     </message>
     <message>
         <location line="-230"/>
-        <location line="+243"/>
+        <location line="+247"/>
         <source>Save to bookmarks</source>
         <translation>Сохранить в закладках</translation>
     </message>
     <message>
-        <location line="-235"/>
+        <location line="-239"/>
         <source>Change Subscription</source>
         <translation type="unfinished">Изменить подписку</translation>
     </message>
     <message>
-        <location line="+224"/>
+        <location line="+226"/>
         <source>Leave conference</source>
         <translation>Покинуть конференцию</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="+15"/>
         <source>Remove from bookmarks</source>
         <translation>Удалить из закладок</translation>
     </message>
@@ -867,7 +867,7 @@
         <translation type="unfinished">Запросить подписку</translation>
     </message>
     <message>
-        <location line="-266"/>
+        <location line="-270"/>
         <source>Room&apos;s configuration</source>
         <translation>Настройки комнаты</translation>
     </message>
@@ -939,7 +939,7 @@
 <context>
     <name>Jabber::JAccount</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+169"/>
+        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+187"/>
         <source>qutIM</source>
         <comment>Local qutIM&apos;s name</comment>
         <translation type="unfinished"></translation>
@@ -1420,7 +1420,7 @@ Accept invitation?</source>
         <translation>Укажите причину блокировки %1</translation>
     </message>
     <message>
-        <location line="+234"/>
+        <location line="+238"/>
         <source>Possible client</source>
         <translation>Возможный клиент</translation>
     </message>
@@ -2438,7 +2438,7 @@ Accept invitation?</source>
         <translation type="obsolete">Jabber</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-327"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-331"/>
         <source>Main settings</source>
         <translation type="unfinished">Общее</translation>
     </message>

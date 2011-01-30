@@ -5235,4 +5235,20 @@ Accept invitation?</source>
     <source>Saint Lucia</source>
     <target>Сент-Люсия</target>
 </phrase>
+<phrase>
+    <source>Authorization failed</source>
+    <target>Ошибка авторизации</target>
+</phrase>
+<phrase>
+    <source>MetaContact name:</source>
+    <target>Имя метаконтакта:</target>
+</phrase>
+<phrase>
+    <source>Search contacts:</source>
+    <target>Поиск контактов:</target>
+</phrase>
+<phrase>
+    <source>Manage metacontact</source>
+    <target>Управление метаконтактом</target>
+</phrase>
 </QPH>

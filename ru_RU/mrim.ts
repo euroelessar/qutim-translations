@@ -86,7 +86,7 @@
 <context>
     <name>MrimAccount</name>
     <message>
-        <location filename="../../protocols/mrim/src/base/mrimaccount.cpp" line="+84"/>
+        <location filename="../../protocols/mrim/src/base/mrimaccount.cpp" line="+80"/>
         <source>Messages in mailbox: %1
 Unread messages: %2</source>
         <translation type="unfinished">Сообщений в ящике: %1

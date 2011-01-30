@@ -18,6 +18,11 @@
         <source>Accounts</source>
         <translation>Учетные записи</translation>
     </message>
+    <message>
+        <location filename="../../qutim/libqutim/account.cpp" line="+103"/>
+        <source>Authorization failed</source>
+        <translation type="unfinished">Ошибка авторизации</translation>
+    </message>
 </context>
 <context>
     <name>AccountCreatorList</name>
@@ -346,7 +351,14 @@ p, li { white-space: pre-wrap; }
         <translation>Закрыть чат</translation>
     </message>
     <message>
+        <location line="+1"/>
         <location line="+5"/>
+        <location line="+5"/>
+        <source>ChatWidget</source>
+        <translation type="unfinished">Окно чата</translation>
+    </message>
+    <message>
+        <location line="-6"/>
         <source>Next chat</source>
         <translation>Далее</translation>
     </message>
@@ -385,6 +397,12 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/adiumchat/tabbedchatform/tabbedchatform.cpp" line="+24"/>
         <source>Open session list</source>
         <translation>Открыть список сеансов</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+109"/>
+        <location line="+5"/>
+        <source>ContactList</source>
+        <translation type="unfinished">Контакты</translation>
     </message>
 </context>
 <context>
@@ -523,7 +541,7 @@ p, li { white-space: pre-wrap; }
         <translation>Изменить метки</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+39"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-75"/>
         <source>Copy id to clipboard</source>
         <translation>Копировать id в буфер</translation>
     </message>
@@ -1166,6 +1184,32 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::MetaContacts::MergeDialog</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/metacontacts/mergedialog.ui" line="+14"/>
+        <source>Manage metacontact</source>
+        <translation type="unfinished">Управление метаконтактом</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>MetaContact name:</source>
+        <translation type="unfinished">Имя метаконтакта:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Search contacts:</source>
+        <translation type="unfinished">Поиск контактов:</translation>
+    </message>
+</context>
+<context>
+    <name>Core::MetaContacts::Model</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/metacontacts/model.cpp" line="+83"/>
+        <source>Account</source>
+        <translation type="unfinished">Учетная запись</translation>
+    </message>
+</context>
+<context>
     <name>Core::MigrationStartPage</name>
     <message>
         <location filename="../../qutim/src/corelayers/migration02x03/migrationstartpage.cpp" line="+22"/>
@@ -1654,7 +1698,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::XSettingsWindow</name>
     <message>
-        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+230"/>
+        <location filename="../../qutim/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+233"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки qutIM - %1</translation>
     </message>
@@ -1994,15 +2038,33 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MetaContact</name>
     <message>
-        <location filename="../../qutim/src/corelayers/metacontacts/manager.cpp" line="+31"/>
+        <location filename="../../qutim/src/corelayers/metacontacts/manager.cpp" line="+35"/>
         <source>Split Metacontact</source>
         <translation>Разделить метаконтакт</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Manage metacontacts</source>
+        <translation type="unfinished">Управление списком метаконтактов</translation>
+    </message>
+</context>
+<context>
+    <name>MetaContacts</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/metacontacts/model.cpp" line="-50"/>
+        <source>Contacts in metacontact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Search results</source>
+        <translation type="unfinished">Результаты поиска</translation>
     </message>
 </context>
 <context>
     <name>Metacontact</name>
     <message>
-        <location line="+89"/>
+        <location filename="../../qutim/src/corelayers/metacontacts/manager.cpp" line="+105"/>
         <source>You</source>
         <translation>Вы</translation>
     </message>
@@ -3189,7 +3251,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Shortcut</name>
     <message>
-        <location filename="../../qutim/libqutim/shortcut.cpp" line="+73"/>
+        <location filename="../../qutim/libqutim/shortcut.cpp" line="+75"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
@@ -3275,9 +3337,13 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>SimplePasswordWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/password/simplepasswordwidget.ui" line="+14"/>
         <source>Dialog</source>
-        <translation>Йа окошко</translation>
+        <translation type="obsolete">Йа окошко</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/password/simplepasswordwidget.ui" line="+14"/>
+        <source>Password Request</source>
+        <translation type="unfinished">Запрос пароля</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -3968,7 +4034,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+16"/>
         <source>?</source>
-        <translation type="unfinished"></translation>
+        <translation>?</translation>
     </message>
     <message utf8="true">
         <location line="+9"/>
@@ -4097,14 +4163,14 @@ en</source>
         <translation type="obsolete">Плагин: %1</translation>
     </message>
     <message>
-        <location filename="../../qutim/libqutim/modulemanager.cpp" line="+220"/>
+        <location filename="../../qutim/libqutim/modulemanager.cpp" line="+224"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Не могу загрузить плагин: 
  %1</translation>
     </message>
     <message>
-        <location line="+110"/>
+        <location line="+131"/>
         <source>Could not init plugin: 
  %1</source>
         <translation>Не могу запустить плагин: 
