@@ -5251,4 +5251,8 @@ Accept invitation?</source>
     <source>Manage metacontact</source>
     <target>Управление метаконтактом</target>
 </phrase>
+<phrase>
+    <source>Manage metacontact</source>
+    <target>Управление метаконтактами</target>
+</phrase>
 </QPH>
