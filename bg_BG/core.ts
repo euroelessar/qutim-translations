@@ -434,7 +434,7 @@ p, li { white-space: pre-wrap; }
         <translation>Отваряне на списъка на сесиите</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+109"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+110"/>
         <location line="+5"/>
         <source>ContactList</source>
         <translation>Списък с контакти</translation>
@@ -490,7 +490,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-162"/>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+65"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+74"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>Информация за %1 &lt;%2&gt;</translation>
     </message>
@@ -1251,7 +1251,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::MetaContacts::Model</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/metacontacts/model.cpp" line="+83"/>
+        <location filename="../../qutim-meta/core/src/corelayers/metacontacts/model.cpp" line="+85"/>
         <source>Account</source>
         <translation>Сметка</translation>
     </message>
@@ -1282,14 +1282,19 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::MobileContactInfoWindow</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-232"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-241"/>
         <source>Request details</source>
         <translation>Заявка за подробности</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>Save</source>
         <translation>Запис</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Close</source>
+        <translation>Затваряне</translation>
     </message>
 </context>
 <context>
@@ -2027,7 +2032,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MetaContact</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/metacontacts/manager.cpp" line="+35"/>
+        <location filename="../../qutim-meta/core/src/corelayers/metacontacts/manager.cpp" line="+39"/>
         <source>Split Metacontact</source>
         <translation>Разделяне на метаконтакта</translation>
     </message>
@@ -2040,7 +2045,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MetaContacts</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/metacontacts/model.cpp" line="-50"/>
+        <location filename="../../qutim-meta/core/src/corelayers/metacontacts/model.cpp" line="-52"/>
         <source>Contacts in metacontact</source>
         <translation>Контакти в метаконтакта</translation>
     </message>
@@ -2053,7 +2058,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Metacontact</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/metacontacts/manager.cpp" line="+105"/>
+        <location filename="../../qutim-meta/core/src/corelayers/metacontacts/manager.cpp" line="+56"/>
         <source>You</source>
         <translation>Вие</translation>
     </message>
