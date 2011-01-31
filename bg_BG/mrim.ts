@@ -53,37 +53,6 @@
     </message>
 </context>
 <context>
-    <name>Messages</name>
-    <message>
-        <source>No such user</source>
-        <translation type="obsolete">Няма такъв потребител</translation>
-    </message>
-    <message>
-        <source>Message too large</source>
-        <translation type="obsolete">Съобщението е твърде голямо</translation>
-    </message>
-    <message>
-        <source>Limit exceeded</source>
-        <translation type="obsolete">Надхвърлен лимит</translation>
-    </message>
-    <message>
-        <source>User denied receiving offline messages</source>
-        <translation type="obsolete">Потребителят не приема съобщения, когато е извън линия</translation>
-    </message>
-    <message>
-        <source>User denied receiving offline flash movies</source>
-        <translation type="obsolete">Потребителят не приема flash филми, когато е извън линия</translation>
-    </message>
-    <message>
-        <source>Internal error</source>
-        <translation type="obsolete">Вътрешна грешка</translation>
-    </message>
-    <message>
-        <source>Message was not delivered!</source>
-        <translation type="obsolete">Съобщението не бе доставено!</translation>
-    </message>
-</context>
-<context>
     <name>MrimAccount</name>
     <message>
         <location filename="../../qutim-meta/protocols/mrim/src/base/mrimaccount.cpp" line="+80"/>
@@ -96,10 +65,6 @@ Unread messages: %2</source>
 <context>
     <name>MrimConnection</name>
     <message>
-        <source>Authentication failed!</source>
-        <translation type="obsolete">Неуспешно удостоверяване!</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/protocols/mrim/src/base/mrimconnection.cpp" line="+244"/>
         <source>Another client with same login connected!</source>
         <translation>Друг клиент, със същите детайли за вход се е свързал!</translation>
@@ -110,10 +75,6 @@ Unread messages: %2</source>
 Reason: %1</source>
         <translation>Неуспешно удостоверяване!
 Причина: %1</translation>
-    </message>
-    <message>
-        <source>Authentication failed! Access denied!</source>
-        <translation type="obsolete">Неуспешно удостоверяване! Отказан достъп!</translation>
     </message>
 </context>
 <context>
@@ -219,13 +180,6 @@ Reason: %1</source>
         <location line="+15"/>
         <source>Not authorized</source>
         <translation>Без удостоверение</translation>
-    </message>
-</context>
-<context>
-    <name>Roster</name>
-    <message>
-        <source>Phone contacts</source>
-        <translation type="obsolete">Контакти от телефона</translation>
     </message>
 </context>
 <context>

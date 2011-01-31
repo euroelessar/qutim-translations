@@ -70,10 +70,6 @@
         <translation>Редактиране на псевдоним</translation>
     </message>
     <message>
-        <source>Nicks:</source>
-        <translation type="obsolete">Псевдоними:</translation>
-    </message>
-    <message>
         <location line="+30"/>
         <source>Nick:</source>
         <translation>Псевдоним:</translation>
@@ -387,10 +383,6 @@
 <context>
     <name>IRC</name>
     <message>
-        <source>Join channel...</source>
-        <translation type="obsolete">Присъединяване към канал...</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/protocols/irc/src/ircprotocol.cpp" line="+57"/>
         <source>Show console...</source>
         <translation>Показване на конзолата...</translation>
@@ -401,21 +393,9 @@
         <translation>Търсене на канал...</translation>
     </message>
     <message>
-        <source>Join channel</source>
-        <translation type="obsolete">Присъединяване към канал</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/protocols/irc/src/ircgroupchatmanager.cpp" line="+64"/>
         <source>Channel</source>
         <translation>Канал</translation>
-    </message>
-    <message>
-        <source>Autojoin</source>
-        <translation type="obsolete">Автоматично присъединяване</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="obsolete">Да</translation>
     </message>
     <message>
         <location line="-6"/>
@@ -435,58 +415,6 @@
 </context>
 <context>
     <name>IrcChannel</name>
-    <message>
-        <source>You are now known as %1</source>
-        <translation type="obsolete">В момента се подвизавате като %1</translation>
-    </message>
-    <message>
-        <source>%1 are now known as %2</source>
-        <translation type="obsolete">%1 вече се подвизава като %2</translation>
-    </message>
-    <message>
-        <source>%1 (%2) has joined the channel</source>
-        <translation type="obsolete">%1 (%2) се присъедини към канала</translation>
-    </message>
-    <message>
-        <source>You left this channel</source>
-        <translation type="obsolete">Напуснахте канала</translation>
-    </message>
-    <message>
-        <source>You left this channel (%1)</source>
-        <translation type="obsolete">Напуснахте канала (%1)</translation>
-    </message>
-    <message>
-        <source>%1 has left this channel (%2)</source>
-        <translation type="obsolete">%1 напусна канала (%2)</translation>
-    </message>
-    <message>
-        <source>%1 has left this channel</source>
-        <translation type="obsolete">%1 напусна канала</translation>
-    </message>
-    <message>
-        <source>%1 has kicked you from the channel (%2)</source>
-        <translation type="obsolete">%1 ви изрита от канала (%2)</translation>
-    </message>
-    <message>
-        <source>%1 has kicked you from the channel</source>
-        <translation type="obsolete">%1 ви изрита от канала</translation>
-    </message>
-    <message>
-        <source>%1 has kicked %2 (%3)</source>
-        <translation type="obsolete">%1 изрита %2 (%3)</translation>
-    </message>
-    <message>
-        <source>%1 has kicked %2</source>
-        <translation type="obsolete">%1 изрита %2</translation>
-    </message>
-    <message>
-        <source>The channel topic is &quot;%1&quot;</source>
-        <translation type="obsolete">Заглавието на канала е &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>The topic was set by %1 on %2.</source>
-        <translation type="obsolete">Заглавието на канала е зададено от %1 на %2.</translation>
-    </message>
     <message>
         <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="+357"/>
         <source>%1 gives channel operator privileges to %2.</source>
@@ -524,18 +452,6 @@
         <location filename="../../qutim-meta/protocols/irc/src/ui/ircchannellist.ui" line="+14"/>
         <source>Form</source>
         <translation>Канали</translation>
-    </message>
-    <message>
-        <source>Channel</source>
-        <translation type="obsolete">Канал</translation>
-    </message>
-    <message>
-        <source>Users</source>
-        <translation type="obsolete">Потребители</translation>
-    </message>
-    <message>
-        <source>Topic</source>
-        <translation type="obsolete">Тема</translation>
     </message>
 </context>
 <context>
@@ -576,17 +492,9 @@
         <translation>Поддръжка на прокси за IRC протокола</translation>
     </message>
     <message>
-        <source>ICQ account creator</source>
-        <translation type="obsolete">Създаване на IRC сметка</translation>
-    </message>
-    <message>
         <location line="-4"/>
         <source>Account creator for IRC protocol</source>
         <translation>Създаване на сметка за IRC протокола</translation>
-    </message>
-    <message>
-        <source>Channel</source>
-        <translation type="obsolete">Канал</translation>
     </message>
 </context>
 <context>
@@ -924,10 +832,6 @@ Please wait a while and try again.</source>
         <location line="+148"/>
         <source>Network error: %1</source>
         <translation>Мрежова грешка: %1</translation>
-    </message>
-    <message>
-        <source>Not enough parameters for command %1</source>
-        <translation type="obsolete">Липсват достатъчно параметри за командата %1</translation>
     </message>
 </context>
 <context>

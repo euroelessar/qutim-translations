@@ -138,10 +138,6 @@
         <translation>Конфигурация</translation>
     </message>
     <message>
-        <source>System</source>
-        <translation type="obsolete">системен</translation>
-    </message>
-    <message>
         <location line="+21"/>
         <source>Enter path of your %1 profile file.</source>
         <translation>Въведете път до папката, съдържаща профила %1.</translation>
@@ -169,10 +165,6 @@
         <location filename="../../qutim-meta/plugins/histman/src/dumphistorypage.cpp" line="+58"/>
         <source>Dumping</source>
         <translation>Записване</translation>
-    </message>
-    <message>
-        <source>Choose appropriate format of history, binary is default qutIM format nowadays.</source>
-        <translation type="obsolete">Избор на подходящ формат, по подразбиране е двоичен.</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -231,14 +223,6 @@
         <location line="-27"/>
         <source>Manager loads all history to memory, it may take several minutes.</source>
         <translation>Приставката зарежда цялата хронология в паметта, това може да отнеме няколко минути.</translation>
-    </message>
-</context>
-<context>
-    <name>HistoryManagerPlugin</name>
-    <message>
-        <source>Import history</source>
-        <oldsource>History Manager</oldsource>
-        <translation type="obsolete">Импортиране на хронология</translation>
     </message>
 </context>
 <context>
