@@ -1609,12 +1609,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+115"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
-        <translation>Желаете обьеденить контакты &quot;%1&quot; &lt;%2&gt; И &quot;%3&quot; &lt;%4&gt;?</translation>
+        <translation type="unfinished">Желаете объединить контакты &quot;%1&quot; &lt;%2&gt; И &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Would you like to merge metacontacts &quot;%1&quot; and &quot;%2&quot;?</source>
-        <translation>Желаете обьеденить метаконтакты &quot;%1&quot; И &quot;%2&quot;?</translation>
+        <translation type="unfinished">Желаете объединить метаконтакты &quot;%1&quot; И &quot;%2&quot;?</translation>
     </message>
     <message>
         <location line="+3"/>
