@@ -2843,7 +2843,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Activates the session when certain events</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Активация сессии по событию</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/symbianchatformplugin.cpp" line="+11"/>
@@ -2853,7 +2853,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Stacked chatform for S60 devices</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Окно чата  для S60 устройств</translation>
     </message>
 </context>
 <context>
