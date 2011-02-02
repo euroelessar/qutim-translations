@@ -938,7 +938,7 @@ p, li { white-space: pre-wrap; }
         <translation>Затваряне</translation>
     </message>
     <message>
-        <location line="+105"/>
+        <location line="+109"/>
         <location line="+31"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки на qutIM - %1</translation>
