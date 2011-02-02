@@ -21,10 +21,6 @@
         <source>Protocol support by Telepathy</source>
         <translation>Поддръжка на протоколи чрез Telepathy</translation>
     </message>
-    <message>
-        <source>Plugin support by Telepathy</source>
-        <translation type="obsolete">Поддръжка на добавки чрез Telepathy</translation>
-    </message>
 </context>
 <context>
     <name>Task</name>

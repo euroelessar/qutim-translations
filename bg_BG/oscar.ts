@@ -186,13 +186,6 @@
     </message>
 </context>
 <context>
-    <name>ClientIdentify</name>
-    <message>
-        <source>Possible client</source>
-        <translation type="obsolete">Вероятен клиент</translation>
-    </message>
-</context>
-<context>
     <name>Codec</name>
     <message>
         <location filename="../../qutim-meta/protocols/oscar/src/ui/icqmainsettings.cpp" line="+41"/>
@@ -448,10 +441,6 @@
         <translation>Лична</translation>
     </message>
     <message>
-        <source>Interests</source>
-        <translation type="obsolete">Интереси</translation>
-    </message>
-    <message>
         <location line="+14"/>
         <source>About</source>
         <translation>За контакта</translation>
@@ -553,10 +542,6 @@
         <location line="+1"/>
         <source>Remove from ignore list</source>
         <translation>Премахване от списък &quot;Пренебрегнати&quot;</translation>
-    </message>
-    <message>
-        <source>Possible client</source>
-        <translation type="obsolete">Вероятен клиент</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/protocols/oscar/src/icqcontact.cpp" line="+134"/>
@@ -1901,10 +1886,6 @@
 <context>
     <name>Gender</name>
     <message>
-        <source>Not specified</source>
-        <translation type="obsolete">Не е зададен</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/protocols/oscar/src/metainfo/metafields.cpp" line="+180"/>
         <source>Female</source>
         <translation>Жена</translation>
@@ -1951,37 +1932,6 @@
         <location line="+26"/>
         <source>Use ssl (experimental)</source>
         <translation>Използване на SSL (експериментално)</translation>
-    </message>
-</context>
-<context>
-    <name>IcqMainSettings</name>
-    <message>
-        <source>Don&apos;t send requests for avatarts</source>
-        <translation type="obsolete">Да не се изпращат заявки за аватари</translation>
-    </message>
-    <message>
-        <source>Reconnect after disconnect</source>
-        <translation type="obsolete">Повторно свързване при загуба на връзка</translation>
-    </message>
-    <message>
-        <source>Codepage: (note that online messages use utf-8 in most cases)</source>
-        <translation type="obsolete">Кодировка (имайте предвид, че в повечето случаи съобщенията са в UTF-8)</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Codepage: &lt;/span&gt;(note that online messages use utf-8 in most cases)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="obsolete">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Кодировка: &lt;/span&gt;(имайте предвид, че в повечето случаи съобщенията са в UTF-8)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>System</source>
-        <translation type="obsolete">Системна</translation>
     </message>
 </context>
 <context>
@@ -2772,37 +2722,9 @@ p, li { white-space: pre-wrap; }
         <translation>Email</translation>
     </message>
     <message>
-        <source>Home city</source>
-        <translation type="obsolete">Град (домашен)</translation>
-    </message>
-    <message>
-        <source>Home state</source>
-        <translation type="obsolete">Щат (домашен)</translation>
-    </message>
-    <message>
-        <source>Home phone</source>
-        <translation type="obsolete">Телефон (домашен)</translation>
-    </message>
-    <message>
-        <source>Home fax</source>
-        <translation type="obsolete">Факс (домашен)</translation>
-    </message>
-    <message>
-        <source>Home address</source>
-        <translation type="obsolete">Домашен адрес</translation>
-    </message>
-    <message>
         <location line="+6"/>
         <source>Cell phone</source>
         <translation>Мобилен</translation>
-    </message>
-    <message>
-        <source>Home zip code</source>
-        <translation type="obsolete">Пощенски код (домашен)</translation>
-    </message>
-    <message>
-        <source>Home country</source>
-        <translation type="obsolete">Държава</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2864,66 +2786,6 @@ p, li { white-space: pre-wrap; }
         <location line="+2"/>
         <source>online only</source>
         <translation>само на линия</translation>
-    </message>
-    <message>
-        <source>Original city</source>
-        <translation type="obsolete">Град (роден)</translation>
-    </message>
-    <message>
-        <source>Original state</source>
-        <translation type="obsolete">Щат (роден)</translation>
-    </message>
-    <message>
-        <source>Original country</source>
-        <translation type="obsolete">Държава (роден)</translation>
-    </message>
-    <message>
-        <source>Work city</source>
-        <translation type="obsolete">Град (служебен)</translation>
-    </message>
-    <message>
-        <source>Work state</source>
-        <translation type="obsolete">Щат (служебен)</translation>
-    </message>
-    <message>
-        <source>Work phone</source>
-        <translation type="obsolete">Телефон (служебен)</translation>
-    </message>
-    <message>
-        <source>Work fax</source>
-        <translation type="obsolete">Факс (служебен)</translation>
-    </message>
-    <message>
-        <source>Work address</source>
-        <translation type="obsolete">Служебен адрес</translation>
-    </message>
-    <message>
-        <source>Work zip</source>
-        <translation type="obsolete">Пощенски код (служебен)</translation>
-    </message>
-    <message>
-        <source>Work country</source>
-        <translation type="obsolete">Държава (служебен)</translation>
-    </message>
-    <message>
-        <source>Work company</source>
-        <translation type="obsolete">Компания (служебен)</translation>
-    </message>
-    <message>
-        <source>Work department</source>
-        <translation type="obsolete">Отдел (служебен)</translation>
-    </message>
-    <message>
-        <source>Work position</source>
-        <translation type="obsolete">Позиция</translation>
-    </message>
-    <message>
-        <source>Work occupation</source>
-        <translation type="obsolete">Длъжност</translation>
-    </message>
-    <message>
-        <source>Work webpage</source>
-        <translation type="obsolete">Служебна страница</translation>
     </message>
     <message>
         <location line="-7"/>
@@ -3285,10 +3147,6 @@ p, li { white-space: pre-wrap; }
         <translation>Oscar</translation>
     </message>
     <message>
-        <source>Module-based realization of Oscar protocol</source>
-        <translation type="obsolete">Модулна реализация на OSCAR протокола</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="-6"/>
         <source>OscarIdentify</source>
         <translation>Oscar идентификация</translation>
@@ -3307,17 +3165,9 @@ p, li { white-space: pre-wrap; }
         <translation>ICQ</translation>
     </message>
     <message>
-        <source>Module-based realization of ICQ protocol</source>
-        <translation type="obsolete">Модулна реализация на ICQ протокола</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="+4"/>
         <source>ICQ account creator</source>
         <translation>Създаване на ICQ сметка</translation>
-    </message>
-    <message>
-        <source>Account creator for module-based realization of ICQ protocol</source>
-        <translation type="obsolete">Създаване на сметки за модулната реализация на ICQ протокола</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -3829,10 +3679,6 @@ p, li { white-space: pre-wrap; }
         <translation>Гледащ филм</translation>
     </message>
     <message>
-        <source>?</source>
-        <translation type="obsolete">?</translation>
-    </message>
-    <message>
         <location line="+9"/>
         <source>Writing</source>
         <translation>Пишещ</translation>
@@ -3861,10 +3707,6 @@ p, li { white-space: pre-wrap; }
         <location line="+3"/>
         <source>To be or not to be</source>
         <translation>Да бъда или да не бъда</translation>
-    </message>
-    <message>
-        <source>Watching pro7 on TV</source>
-        <translation type="obsolete">Гледащ телевизия PRO7</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -3906,17 +3748,9 @@ p, li { white-space: pre-wrap; }
         <source>In tansport</source>
         <translation>В транспорта</translation>
     </message>
-    <message>
-        <source>X-Status</source>
-        <translation type="obsolete">Разширен статус</translation>
-    </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::oscar::AbstractMetaRequest</name>
-    <message>
-        <source>The metarequest canceled by user</source>
-        <translation type="obsolete">Мета-заявката бе отказана от потребителя</translation>
-    </message>
     <message>
         <location filename="../../qutim-meta/protocols/oscar/src/metainfo/abstractmetarequest.cpp" line="+67"/>
         <source>The metarequest cancelled by user</source>
@@ -3948,13 +3782,6 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/protocols/oscar/src/metainfo/infometarequest.cpp" line="+282"/>
         <source>Incorrect format of the metarequest</source>
         <translation>Неверен формат на мета-заявката</translation>
-    </message>
-</context>
-<context>
-    <name>qutim_sdk_0_3::oscar::IcqInfoRequest</name>
-    <message>
-        <source>You are sending information requests too often</source>
-        <translation type="obsolete">Изпращате заявки за информация твърде често</translation>
     </message>
 </context>
 <context>

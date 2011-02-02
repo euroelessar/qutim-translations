@@ -212,18 +212,6 @@ p, li { white-space: pre-wrap; }
         <source>Music Player</source>
         <translation>Музикален плейър</translation>
     </message>
-    <message>
-        <source>Hostname</source>
-        <translation type="obsolete">Име на хоста</translation>
-    </message>
-    <message>
-        <source>Port</source>
-        <translation type="obsolete">Порт</translation>
-    </message>
-    <message>
-        <source>Password</source>
-        <translation type="obsolete">Парола</translation>
-    </message>
 </context>
 <context>
     <name>Plugin</name>
@@ -246,22 +234,6 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Mpris support for now playing plugin</source>
         <translation>Поддръжка на Mpris в добавката &quot;В момента слушам&quot;</translation>
-    </message>
-    <message>
-        <source>MPRIS support</source>
-        <translation type="obsolete">Поддръжка на MPRIS</translation>
-    </message>
-    <message>
-        <source>Media Player Remote Interfacing Specification (MPRIS) support for now playing plugin</source>
-        <translation type="obsolete">Поддръжка на Media Player Remote Interfacing Specification (MPRIS), за добавката</translation>
-    </message>
-    <message>
-        <source>Now Playing Amarok 2</source>
-        <translation type="obsolete">Добавка &quot;В момента слушам&quot; Amarok 2</translation>
-    </message>
-    <message>
-        <source>Amarok 2 support for now playing plugin</source>
-        <translation type="obsolete">Поддръжка на Amamrok 2 в добавката &quot;В момента слушам&quot;</translation>
     </message>
 </context>
 <context>

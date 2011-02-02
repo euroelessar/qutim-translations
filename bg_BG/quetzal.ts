@@ -17,20 +17,6 @@
     </message>
 </context>
 <context>
-    <name>Quetzal</name>
-    <message>
-        <source>Join groupchat</source>
-        <translation type="obsolete">Присъединяване към групов разговор</translation>
-    </message>
-</context>
-<context>
-    <name>QuetzalAccount</name>
-    <message>
-        <source>General</source>
-        <translation type="obsolete">Общи</translation>
-    </message>
-</context>
-<context>
     <name>QuetzalAccountWizardPage</name>
     <message>
         <location filename="../../qutim-meta/protocols/quetzal/src/quetzalaccountwizard.cpp" line="+37"/>
@@ -94,14 +80,6 @@ Complete account creating by clicking on Finish button</source>
         <location line="+19"/>
         <source>Save to bookmarks</source>
         <translation>Запис в отметките</translation>
-    </message>
-    <message>
-        <source>Search</source>
-        <translation type="obsolete">Търсене</translation>
-    </message>
-    <message>
-        <source>Join</source>
-        <translation type="obsolete">Присъединяване</translation>
     </message>
 </context>
 <context>

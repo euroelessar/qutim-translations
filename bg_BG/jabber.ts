@@ -2,329 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="bg_BG">
 <context>
-    <name>Activity</name>
-    <message>
-        <source>Doing chores</source>
-        <translation type="obsolete">Домакинска работа</translation>
-    </message>
-    <message>
-        <source>Buying groceries</source>
-        <translation type="obsolete">Пазаруващ в бакалията</translation>
-    </message>
-    <message>
-        <source>Cleaning</source>
-        <translation type="obsolete">Чистещ</translation>
-    </message>
-    <message>
-        <source>Cooking</source>
-        <translation type="obsolete">Готвещ</translation>
-    </message>
-    <message>
-        <source>Doing maintenance</source>
-        <translation type="obsolete">Правещ ремонт</translation>
-    </message>
-    <message>
-        <source>Doing the dishes</source>
-        <translation type="obsolete">Миещ чинии</translation>
-    </message>
-    <message>
-        <source>Doing the laundry</source>
-        <translation type="obsolete">Перящ</translation>
-    </message>
-    <message>
-        <source>Gardening</source>
-        <translation type="obsolete">Работещ в градината</translation>
-    </message>
-    <message>
-        <source>Running an errand</source>
-        <translation type="obsolete">Изпълняващ поръчки</translation>
-    </message>
-    <message>
-        <source>Walking the dog</source>
-        <translation type="obsolete">Разхождащ кучето</translation>
-    </message>
-    <message>
-        <source>Drinking</source>
-        <translation type="obsolete">Пиещ</translation>
-    </message>
-    <message>
-        <source>Having a beer</source>
-        <translation type="obsolete">Бира</translation>
-    </message>
-    <message>
-        <source>Having coffee</source>
-        <translation type="obsolete">Кафе</translation>
-    </message>
-    <message>
-        <source>Having tea</source>
-        <translation type="obsolete">Чай</translation>
-    </message>
-    <message>
-        <source>Eeating</source>
-        <translation type="obsolete">Ядящ</translation>
-    </message>
-    <message>
-        <source>Having a snack</source>
-        <translation type="obsolete">Бърза закуска</translation>
-    </message>
-    <message>
-        <source>Having breakfast</source>
-        <translation type="obsolete">Сутрешна закуска</translation>
-    </message>
-    <message>
-        <source>Having dinner</source>
-        <translation type="obsolete">Вечеря</translation>
-    </message>
-    <message>
-        <source>Having lunch</source>
-        <translation type="obsolete">Обяд</translation>
-    </message>
-    <message>
-        <source>Exercising</source>
-        <translation type="obsolete">Физически упражнения</translation>
-    </message>
-    <message>
-        <source>Cycling</source>
-        <translation type="obsolete">Каращ колело</translation>
-    </message>
-    <message>
-        <source>Dancing</source>
-        <translation type="obsolete">Танцуващ</translation>
-    </message>
-    <message>
-        <source>Hiking</source>
-        <translation type="obsolete">Вървящ пеша</translation>
-    </message>
-    <message>
-        <source>Jogging</source>
-        <translation type="obsolete">Джогинг</translation>
-    </message>
-    <message>
-        <source>Playing sports</source>
-        <translation type="obsolete">Спортуващ</translation>
-    </message>
-    <message>
-        <source>Running</source>
-        <translation type="obsolete">Бягащ</translation>
-    </message>
-    <message>
-        <source>Skiing</source>
-        <translation type="obsolete">Каращ ски</translation>
-    </message>
-    <message>
-        <source>Swimming</source>
-        <translation type="obsolete">Плуващ</translation>
-    </message>
-    <message>
-        <source>Working out</source>
-        <translation type="obsolete">Трениращ</translation>
-    </message>
-    <message>
-        <source>Grooming</source>
-        <translation type="obsolete">Грижа за себе си</translation>
-    </message>
-    <message>
-        <source>At the spa</source>
-        <translation type="obsolete">На спа</translation>
-    </message>
-    <message>
-        <source>Brushing teeth</source>
-        <translation type="obsolete">Миещ зъби</translation>
-    </message>
-    <message>
-        <source>Getting a haircut</source>
-        <translation type="obsolete">Подстригващ се</translation>
-    </message>
-    <message>
-        <source>Shaving</source>
-        <translation type="obsolete">Бръснещ се</translation>
-    </message>
-    <message>
-        <source>Taking a bath</source>
-        <translation type="obsolete">В банята</translation>
-    </message>
-    <message>
-        <source>Taking a shower</source>
-        <translation type="obsolete">Вземащ душ</translation>
-    </message>
-    <message>
-        <source>Having appointment</source>
-        <translation type="obsolete">На стреща</translation>
-    </message>
-    <message>
-        <source>Inactive</source>
-        <translation type="obsolete">Неактивен</translation>
-    </message>
-    <message>
-        <source>Day off</source>
-        <translation type="obsolete">В отпуск</translation>
-    </message>
-    <message>
-        <source>Hanging out</source>
-        <translation type="obsolete">Шляещ се</translation>
-    </message>
-    <message>
-        <source>Hiding</source>
-        <translation type="obsolete">Криещ се</translation>
-    </message>
-    <message>
-        <source>On vacation</source>
-        <translation type="obsolete">На почивка</translation>
-    </message>
-    <message>
-        <source>Praying</source>
-        <translation type="obsolete">Молещ се</translation>
-    </message>
-    <message>
-        <source>Scheduled holiday</source>
-        <translation type="obsolete">На планирана почивка</translation>
-    </message>
-    <message>
-        <source>Sleeping</source>
-        <translation type="obsolete">Спящ</translation>
-    </message>
-    <message>
-        <source>Thinking</source>
-        <translation type="obsolete">Размишляващ</translation>
-    </message>
-    <message>
-        <source>Relaxing</source>
-        <translation type="obsolete">Отпочиващ</translation>
-    </message>
-    <message>
-        <source>Fishing</source>
-        <translation type="obsolete">На риболов</translation>
-    </message>
-    <message>
-        <source>Ffishing</source>
-        <translation type="obsolete">На риболов</translation>
-    </message>
-    <message>
-        <source>Gaming</source>
-        <translation type="obsolete">Играещ</translation>
-    </message>
-    <message>
-        <source>Going out</source>
-        <translation type="obsolete">Излизащ</translation>
-    </message>
-    <message>
-        <source>Partying</source>
-        <translation type="obsolete">На купон</translation>
-    </message>
-    <message>
-        <source>Reading</source>
-        <translation type="obsolete">Четящ</translation>
-    </message>
-    <message>
-        <source>Rehearsing</source>
-        <translation type="obsolete">Репетиращ</translation>
-    </message>
-    <message>
-        <source>Shopping</source>
-        <translation type="obsolete">Пазаруващ</translation>
-    </message>
-    <message>
-        <source>Smoking</source>
-        <translation type="obsolete">Пушещ</translation>
-    </message>
-    <message>
-        <source>Socializing</source>
-        <translation type="obsolete">Създаващ контакти</translation>
-    </message>
-    <message>
-        <source>Sunbathing</source>
-        <translation type="obsolete">Препичащ се</translation>
-    </message>
-    <message>
-        <source>Watching tv</source>
-        <translation type="obsolete">Гледащ телевизия</translation>
-    </message>
-    <message>
-        <source>Watching a movie</source>
-        <translation type="obsolete">Гледащ филм</translation>
-    </message>
-    <message>
-        <source>Talking</source>
-        <translation type="obsolete">Разговарящ</translation>
-    </message>
-    <message>
-        <source>In real life</source>
-        <translation type="obsolete">В истинкия живот</translation>
-    </message>
-    <message>
-        <source>On the phone</source>
-        <translation type="obsolete">На телефона</translation>
-    </message>
-    <message>
-        <source>On video phone</source>
-        <translation type="obsolete">На видеофона</translation>
-    </message>
-    <message>
-        <source>Traveling</source>
-        <translation type="obsolete">Пътуващ</translation>
-    </message>
-    <message>
-        <source>Commuting</source>
-        <translation type="obsolete">В транспорта</translation>
-    </message>
-    <message>
-        <source>Driving</source>
-        <translation type="obsolete">Шофиращ</translation>
-    </message>
-    <message>
-        <source>In a car</source>
-        <translation type="obsolete">В колата</translation>
-    </message>
-    <message>
-        <source>On a bus</source>
-        <translation type="obsolete">В автобуса</translation>
-    </message>
-    <message>
-        <source>On a plane</source>
-        <translation type="obsolete">В самолета</translation>
-    </message>
-    <message>
-        <source>On a train</source>
-        <translation type="obsolete">Във влака</translation>
-    </message>
-    <message>
-        <source>On a trip</source>
-        <translation type="obsolete">На път</translation>
-    </message>
-    <message>
-        <source>Walking</source>
-        <translation type="obsolete">Разхождащ се</translation>
-    </message>
-    <message>
-        <source>Working</source>
-        <translation type="obsolete">Работещ</translation>
-    </message>
-    <message>
-        <source>Coding</source>
-        <translation type="obsolete">Пишещ код</translation>
-    </message>
-    <message>
-        <source>In a meeting</source>
-        <translation type="obsolete">На среща</translation>
-    </message>
-    <message>
-        <source>Studying</source>
-        <translation type="obsolete">Учащ</translation>
-    </message>
-    <message>
-        <source>Writing</source>
-        <translation type="obsolete">Пишещ</translation>
-    </message>
-    <message>
-        <source>Activity</source>
-        <translation type="obsolete">Дейност</translation>
-    </message>
-    <message>
-        <source>Show contact activity icon</source>
-        <translation type="obsolete">Показване иконите за дейност</translation>
-    </message>
-</context>
-<context>
     <name>Author</name>
     <message>
         <location filename="../../qutim-meta/protocols/jabber/src/jplugin.cpp" line="+32"/>
@@ -360,10 +37,6 @@
         <translation>Забрана (Ban)</translation>
     </message>
     <message>
-        <source>Convert to conference</source>
-        <translation type="obsolete">Преобразуване в конференция</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+119"/>
         <source>Real JID</source>
         <translation>Реален JID</translation>
@@ -390,17 +63,6 @@
     </message>
 </context>
 <context>
-    <name>Contact</name>
-    <message>
-        <source>Resource</source>
-        <translation type="obsolete">Ресурс</translation>
-    </message>
-    <message>
-        <source>Possible client</source>
-        <translation type="obsolete">Вероятен клиент</translation>
-    </message>
-</context>
-<context>
     <name>ContactInfo</name>
     <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="+53"/>
@@ -421,10 +83,6 @@
         <location line="+1"/>
         <source>Last name</source>
         <translation>Фамилия</translation>
-    </message>
-    <message>
-        <source>Gender</source>
-        <translation type="obsolete">Пол</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -529,21 +187,9 @@
         <translation>За мен</translation>
     </message>
     <message>
-        <source>Addresses</source>
-        <translation type="obsolete">Адреси</translation>
-    </message>
-    <message>
-        <source>Work</source>
-        <translation type="obsolete">Служебен</translation>
-    </message>
-    <message>
         <location line="-137"/>
         <source>Country</source>
         <translation>Държава</translation>
-    </message>
-    <message>
-        <source>Photo</source>
-        <translation type="obsolete">Снимка</translation>
     </message>
     <message>
         <location line="-10"/>
@@ -556,25 +202,9 @@
         <translation>Мобилен телефон</translation>
     </message>
     <message>
-        <source>University</source>
-        <translation type="obsolete">Университет</translation>
-    </message>
-    <message>
-        <source>Faculty</source>
-        <translation type="obsolete">Факултет</translation>
-    </message>
-    <message>
-        <source>Graduation year</source>
-        <translation type="obsolete">Година на завършване</translation>
-    </message>
-    <message>
         <location line="+52"/>
         <source>General</source>
         <translation>Основна</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">Име</translation>
     </message>
 </context>
 <context>
@@ -680,88 +310,6 @@
     </message>
 </context>
 <context>
-    <name>JInputPassword</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="obsolete">Диалог</translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="obsolete">Парола:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">ОК</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Отказ</translation>
-    </message>
-    <message>
-        <source>Save password</source>
-        <translation type="obsolete">Запис на паролата</translation>
-    </message>
-</context>
-<context>
-    <name>JMUCJoin</name>
-    <message>
-        <source>Join to groupchat</source>
-        <translation type="obsolete">Присъединяване към групов разговор</translation>
-    </message>
-    <message>
-        <source>Bookmarks:</source>
-        <translation type="obsolete">Отметки:</translation>
-    </message>
-    <message>
-        <source>Conference:</source>
-        <translation type="obsolete">Конференция:</translation>
-    </message>
-    <message>
-        <source>Nick:</source>
-        <translation type="obsolete">Псевдоним:</translation>
-    </message>
-    <message>
-        <source>Password</source>
-        <translation type="obsolete">Парола</translation>
-    </message>
-    <message>
-        <source>Bookmark&apos;s name:</source>
-        <translation type="obsolete">Име на отметката:</translation>
-    </message>
-    <message>
-        <source>Save to bookmarks</source>
-        <translation type="obsolete">Запазване в отметки</translation>
-    </message>
-    <message>
-        <source>Search</source>
-        <translation type="obsolete">Търсене</translation>
-    </message>
-    <message>
-        <source>Join</source>
-        <translation type="obsolete">Присъединяване</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation type="obsolete">Име:</translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="obsolete">Парола:</translation>
-    </message>
-    <message>
-        <source>Auto join</source>
-        <translation type="obsolete">Автоматично присъединяване</translation>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation type="obsolete">Запис</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="obsolete">Изтриване</translation>
-    </message>
-</context>
-<context>
     <name>JMainSettings</name>
     <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/jmainsettings.ui" line="+14"/>
@@ -772,10 +320,6 @@
         <location line="+21"/>
         <source>Default resource:</source>
         <translation>Ресурс по подразбиране:</translation>
-    </message>
-    <message>
-        <source>Reconnect after disconnect</source>
-        <translation type="obsolete">Повторно свързване при загуба на връзка</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -841,10 +385,6 @@
 <context>
     <name>Jabber</name>
     <message>
-        <source>Execute command</source>
-        <translation type="obsolete">Изпълнение на команда</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+115"/>
         <source>Xml console</source>
         <translation>XML конзола</translation>
@@ -853,22 +393,6 @@
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+30"/>
         <source>Service discovery</source>
         <translation>Откриване на услуги</translation>
-    </message>
-    <message>
-        <source>Join groupchat</source>
-        <translation type="obsolete">Присъединяване към групов разговор</translation>
-    </message>
-    <message>
-        <source>Join to conference</source>
-        <translation type="obsolete">Присъединяване към конференция</translation>
-    </message>
-    <message>
-        <source>Leave from conference</source>
-        <translation type="obsolete">Напускане на конференцията</translation>
-    </message>
-    <message>
-        <source>Copy room address to clipboard</source>
-        <translation type="obsolete">Копиране на адреса на стаята в клип-борда</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+10"/>
@@ -921,14 +445,6 @@
         <location line="+8"/>
         <source>Nick</source>
         <translation>Псевдоним</translation>
-    </message>
-    <message>
-        <source>Autojoin</source>
-        <translation type="obsolete">Автоматично присъединяване</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="obsolete">Да</translation>
     </message>
     <message>
         <location line="-15"/>
@@ -1003,53 +519,11 @@
     </message>
 </context>
 <context>
-    <name>Jabber::JActivityChooser</name>
-    <message>
-        <source>Set activity</source>
-        <translation type="obsolete">Задаване на дейност</translation>
-    </message>
-</context>
-<context>
     <name>Jabber::JActivityChooserWindow</name>
     <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.ui" line="+20"/>
         <source>Form</source>
         <translation>Избор на дейност</translation>
-    </message>
-    <message>
-        <source>Choose your activity</source>
-        <translation type="obsolete">Изберете дейност</translation>
-    </message>
-    <message>
-        <source>No activity</source>
-        <translation type="obsolete">Без дейност</translation>
-    </message>
-</context>
-<context>
-    <name>Jabber::JAdHocWidget</name>
-    <message>
-        <source>Next</source>
-        <translation type="obsolete">Следващ</translation>
-    </message>
-    <message>
-        <source>Finish</source>
-        <translation type="obsolete">Приключване</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Отказ</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="obsolete">Предходен</translation>
-    </message>
-    <message>
-        <source>Complete</source>
-        <translation type="obsolete">Готово</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">ОК</translation>
     </message>
 </context>
 <context>
@@ -1058,272 +532,6 @@
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+18"/>
         <source>Unable to join groupchat</source>
         <translation>Неуспешно присъединяване към групов разговор</translation>
-    </message>
-</context>
-<context>
-    <name>Jabber::JConferenceConfig</name>
-    <message>
-        <source>Room configuration: %1</source>
-        <translation type="obsolete">Настройване на стая: %1</translation>
-    </message>
-</context>
-<context>
-    <name>Jabber::JConnectionListener</name>
-    <message>
-        <source>The entity has sent XML that cannot be processed.</source>
-        <translation type="obsolete">Ответната страна изпрати XML, който не може да бъде обработен.</translation>
-    </message>
-    <message>
-        <source>The entity has sent a namespace prefix that is unsupported, or has sent no namespace prefix on an element that requires such a prefix.</source>
-        <translation type="obsolete">Ответната страна изпрати префикс на пространство от имена, което не се поддържа или не изпрати такъв за елемент, който го изисква.</translation>
-    </message>
-    <message>
-        <source>The server is closing the active stream for this entity because a new stream has been initiated that conflicts with the existing stream.</source>
-        <translation type="obsolete">Сървърът затваря активния поток за тази страна, тъй като е иницииран нов такъв, който е в конфликт със съществуващия.</translation>
-    </message>
-    <message>
-        <source>The entity has not generated any traffic over the stream for some period of time (configurable according to a local service policy).</source>
-        <translation type="obsolete">Ответната страна не е генерирала трафик по потока, за известен период от време (конфигурируемо според местната политика на услугата).</translation>
-    </message>
-    <message>
-        <source>The value of the &apos;to&apos; attribute provided by the initiating entity in the stream header corresponds to a hostname that is no longer hosted by the server.</source>
-        <translation type="obsolete">Стойността на &quot;до&quot; атрибута, предоставен от иницииращата страна, в заглавната част на потока, отговаря на име на хост, който вече не се подслонява на сървъра.</translation>
-    </message>
-    <message>
-        <source>The value of the &apos;to&apos; attribute provided by the initiating entity in the stream header does not correspond to a hostname that is hosted by the server.</source>
-        <translation type="obsolete">Стойността на &quot;до&quot; атрибута, предоставен от иницииращата страна, в заглавната част на потока, не отговаря на име на хост, който се подслонява на сървъра.</translation>
-    </message>
-    <message>
-        <source>A stanza sent between two servers lacks a &apos;to&apos; or &apos;from&apos; attribute (or the attribute has no value).</source>
-        <translation type="obsolete">На строфата, изпратена между двата сървъра, й липсва &quot;до&quot; или &quot;от&quot; атрибут (или атрибута няма стойност).</translation>
-    </message>
-    <message>
-        <source>The server has experienced a misconfiguration or an otherwise-undefined internal error that prevents it from servicing the stream.</source>
-        <translation type="obsolete">Лоша конфигурация или друга неопределена, вътрешна грешка в сървъра, която му пречи да обслужи потока.</translation>
-    </message>
-    <message>
-        <source>The JID or hostname provided in a &apos;from&apos; address does not match an authorized JID or validated domain negotiated between servers via SASL or dialback, or between a client and a server via authentication and resource binding.</source>
-        <translation type="obsolete">Предоставените в &quot;от&quot; адреса, JID или име на хост не отговарят на упълномощен JID или потвърден домейн, договорени между сървърите чрез SASL или dialback, или между клиент и сървър чрез удостоверяването и свързването на ресурси.</translation>
-    </message>
-    <message>
-        <source>The stream ID or dialback ID is invalid or does not match an ID previously provided.</source>
-        <translation type="obsolete">Идентификаторите на потока или dialback са невалидни или не отговарят на предходно предоставен идентификатор.</translation>
-    </message>
-    <message>
-        <source>The streams namespace name is something other than &apos;http://etherx.jabber.org/streams&apos; or the dialback namespace name is something other than &apos;jabber:server:dialback&apos;.</source>
-        <translation type="obsolete">Пространството от имена на потока е различно от &apos;http://etherx.jabber.org/streams&apos; или dialback пространството от имена е различно от &apos;jabber:server:dialback&apos;.</translation>
-    </message>
-    <message>
-        <source>The entity has sent invalid XML over the stream to a server that performs validation.</source>
-        <translation type="obsolete">Ответната страна изпрати невалиден XML по потока до сървъра, осъществяващ потвърждението.</translation>
-    </message>
-    <message>
-        <source>The entity has attempted to send data before the stream has been authenticated, or otherwise is not authorized to perform an action related to stream negotiation.</source>
-        <translation type="obsolete">Ответната страна се опита да изпрати данни преди потокът да бъде удостоверен или по друг начин, няма разрешение да извършва действия, свързани с договаряне на потока.</translation>
-    </message>
-    <message>
-        <source>The entity has violated some local service policy.</source>
-        <translation type="obsolete">Ответната страна наруши някои от местните политики на услугата.</translation>
-    </message>
-    <message>
-        <source>The server is unable to properly connect to a remote entity that is required for authentication or authorization.</source>
-        <translation type="obsolete">Сървърът не е в състояние да установи връзка с отдалечената страна, което се изисква с цел удостоверяване или упълномощаване.</translation>
-    </message>
-    <message>
-        <source>The server lacks the system resources necessary to service the stream.</source>
-        <translation type="obsolete">Сървърът няма системните ресурси, необходими за обслужване на потока.</translation>
-    </message>
-    <message>
-        <source>The entity has attempted to send restricted XML features such as a comment, processing instruction, DTD, entity reference, or unescaped character.</source>
-        <translation type="obsolete">Ответната страна се опита изпрати ограничени XML характеристики, като коментар, инструкции за обработка, DTD, връзка към обект или не-екраниран символ.</translation>
-    </message>
-    <message>
-        <source>The server will not provide service to the initiating entity but is redirecting traffic to another host.</source>
-        <translation type="obsolete">Сървърът няма да предостави услуга на иницииращата страна, но пренасочва трафика към друг хост.</translation>
-    </message>
-    <message>
-        <source>The server is being shut down and all active streams are being closed.</source>
-        <translation type="obsolete">Сървърът бе спрян и всички активни потоци бяха затворени.</translation>
-    </message>
-    <message>
-        <source>The error condition is not one of those defined by the other conditions in this list.</source>
-        <translation type="obsolete">Условието за грешка не е в списъка от вече зададени условия.</translation>
-    </message>
-    <message>
-        <source>The initiating entity has encoded the stream in an encoding that is not supported by the server.</source>
-        <translation type="obsolete">Кодировката на потока от иницииращата страна не се поддържа от сървъра.</translation>
-    </message>
-    <message>
-        <source>The initiating entity has sent a first-level child of the stream that is not supported by the server.</source>
-        <translation type="obsolete">Елемента от първо ниво на потока, изпратен от иницииращата страна, не се поддържа от сървъра.</translation>
-    </message>
-    <message>
-        <source>The value of the &apos;version&apos; attribute provided by the initiating entity in the stream header specifies a version of XMPP that is not supported by the server.</source>
-        <translation type="obsolete">Стойността на &quot;версия&quot; атрибута, предоставен от иницииращата страна, в заглавната част на потока, задава версия на XMPP, която не се поддържа от сървъра.</translation>
-    </message>
-    <message>
-        <source>The initiating entity has sent XML that is not well-formed as defined by [XML].</source>
-        <translation type="obsolete">Иницииращата страна изпрати XML, който не е добре изграден, както се изисква по [XML]..</translation>
-    </message>
-    <message>
-        <source>An undefined/unknown error occured.</source>
-        <translation type="obsolete">Възникна неопределена/неизвестна грешка.</translation>
-    </message>
-    <message>
-        <source>WHAT?! Unknown error?! OH SHI~~</source>
-        <translation type="obsolete">Ъ?! Неизвестна грешка?! Шиб~~</translation>
-    </message>
-    <message>
-        <source>The incoming stream&apos;s version is not supported.</source>
-        <translation type="obsolete">Версията на входящия поток не се поддържа.</translation>
-    </message>
-    <message>
-        <source>The stream has been closed (by the server).</source>
-        <translation type="obsolete">Потокът бе затворен (от сървъра).</translation>
-    </message>
-    <message>
-        <source>The HTTP/SOCKS5 proxy requires authentication.</source>
-        <translation type="obsolete">HTTP/SOCKS5 проксито изисква удостоверяване.</translation>
-    </message>
-    <message>
-        <source>HTTP/SOCKS5 proxy authentication failed.</source>
-        <translation type="obsolete">Неуспешно удостоверяване в HTTP/SOCKS5 проксито.</translation>
-    </message>
-    <message>
-        <source>The HTTP/SOCKS5 proxy requires an unsupported auth mechanism.</source>
-        <translation type="obsolete">HTTP/SOCKS5 проксито изисква механизъм на удостоверяване, който не се поддържа.</translation>
-    </message>
-    <message>
-        <source>An I/O error occured.</source>
-        <translation type="obsolete">Възникна входно/изходна грешка.</translation>
-    </message>
-    <message>
-        <source>An XML parse error occurred.</source>
-        <translation type="obsolete">Грешка в синтактичния разбор на XML.</translation>
-    </message>
-    <message>
-        <source>The connection was refused by the server (on the socket level).</source>
-        <translation type="obsolete">Връзката бе отказана от сървъра (на ниво сокет).</translation>
-    </message>
-    <message>
-        <source>Creation of the socket failed.</source>
-        <translation type="obsolete">Неуспешно създаване на сокет.</translation>
-    </message>
-    <message>
-        <source>Resolving the server&apos;s hostname failed.</source>
-        <translation type="obsolete">Неуспешно установяване името (на хоста) на сървъра.</translation>
-    </message>
-    <message>
-        <source>Out of memory. Uhoh.</source>
-        <translation type="obsolete">Препълнена памет. Ух, Ах.</translation>
-    </message>
-    <message>
-        <source>The auth mechanisms the server offers are not supported or the server offered no auth mechanisms at all.</source>
-        <translation type="obsolete">Механизмите на удостоверяване, които сървъра предлага или не се поддържат, или изобщо не се предлагат такива.</translation>
-    </message>
-    <message>
-        <source>The server&apos;s certificate could not be verified or the TLS handshake did not complete successfully.</source>
-        <translation type="obsolete">Сертификатът на сървъра не може да бъде проверен или &quot;TLS handshake&quot; операцията не е приключила успешно.</translation>
-    </message>
-    <message>
-        <source>The server didn&apos;t offer TLS while it was set to be required, or TLS was not compiled in.</source>
-        <translation type="obsolete">Сървърът не предлага поддръжка на TLS, въпреки че е указано да се изисква или липсва поддръжка на TLS при компилация.</translation>
-    </message>
-    <message>
-        <source>Negotiating/initializing compression failed.</source>
-        <translation type="obsolete">Неуспешно определяне/задаване на компресия.</translation>
-    </message>
-    <message>
-        <source>TLS was required but is not compiled in.</source>
-        <translation type="obsolete">Изисква се TLS, но липсва такава поддръжка.</translation>
-    </message>
-    <message>
-        <source>Authentication failed.</source>
-        <translation type="obsolete">Неуспешно удостоверяване.</translation>
-    </message>
-    <message>
-        <source>The receiving entity acknowledges an &lt;abort/&gt; element sent by the initiating entity.</source>
-        <translation type="obsolete">Приемащата страна получи &lt;abort/&gt; елемент, изпратен от иницииращата страна.</translation>
-    </message>
-    <message>
-        <source>The data provided by the initiating entity could not be processed.</source>
-        <translation type="obsolete">Данните предоставени от иницииращата страна не могат да бъдат обработени.</translation>
-    </message>
-    <message>
-        <source>The authzid provided by the initiating entity is invalid.</source>
-        <translation type="obsolete">authzid предоставен от иницииращата страна не е валиден.</translation>
-    </message>
-    <message>
-        <source>The initiating entity did not provide a mechanism or requested a mechanism that is not supported by the receiving entity.</source>
-        <translation type="obsolete">Иницииращата страна не предостави механизъм или заяви механизъм, който не се поддържа от получаваща страна.</translation>
-    </message>
-    <message>
-        <source>The request is malformed.</source>
-        <translation type="obsolete">Заявката е деформирана.</translation>
-    </message>
-    <message>
-        <source>The mechanism requested by the initiating entity is weaker than server policy permits for that initiating entity.</source>
-        <translation type="obsolete">Заявеният от иницииращата страна механизъм е по-слаб от колкото политиката на сървъра позволява за него.</translation>
-    </message>
-    <message>
-        <source>The authentication failed because the initiating entity did not provide valid credentials (this includes but is not limited to the case of an unknown username).</source>
-        <translation type="obsolete">Удостоверяването е неуспешно, защото иницииращата страна не предостави валидни детайли за вход (това включва, но не се ограничава само до неизвестено потребителско име).</translation>
-    </message>
-    <message>
-        <source>The authentication failed because of a temporary error condition within the receiving entity.</source>
-        <translation type="obsolete">Удостоверяването е неуспешно, поради временно условие за грешка в получаващата страна.</translation>
-    </message>
-    <message>
-        <source>XEP-0078: Resource Conflict.</source>
-        <translation type="obsolete">XEP-0078: Конфликт на ресурси.</translation>
-    </message>
-    <message>
-        <source>XEP-0078: Required Information Not Provided.</source>
-        <translation type="obsolete">XEP-0078: Не е предоставена изискваната информация.</translation>
-    </message>
-    <message>
-        <source>XEP-0078: Incorrect Credentials.</source>
-        <translation type="obsolete">XEP-0078: Неверни детайли за вход.</translation>
-    </message>
-    <message>
-        <source>System error</source>
-        <translation type="obsolete">Системна грешка</translation>
-    </message>
-</context>
-<context>
-    <name>Jabber::JInviteManager</name>
-    <message>
-        <source>User %1 invite you
-to conference %2</source>
-        <translation type="obsolete">Потребителят %1 ви кани
-в конференцията %2</translation>
-    </message>
-    <message>
-        <source>
-with reason &quot;%1&quot;</source>
-        <translation type="obsolete">
-по следната причина &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>
-Accept invitation?</source>
-        <translation type="obsolete">
-Приемате ли поканата?</translation>
-    </message>
-    <message>
-        <source>Invite to groupchat</source>
-        <translation type="obsolete">Показа на групов разговор</translation>
-    </message>
-</context>
-<context>
-    <name>Jabber::JMUCJoin</name>
-    <message>
-        <source>Enter</source>
-        <translation type="obsolete">Влизане</translation>
-    </message>
-    <message>
-        <source>Edit Bookmarks</source>
-        <translation type="obsolete">Редактиране на отметките</translation>
     </message>
 </context>
 <context>
@@ -1342,30 +550,6 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCSession</name>
     <message>
-        <source>%1 has been banned</source>
-        <translation type="obsolete">На %1 бе наложена забрана</translation>
-    </message>
-    <message>
-        <source>You has been banned at %1
-</source>
-        <translation type="obsolete">Беше ви наложена забрана за %1
-</translation>
-    </message>
-    <message>
-        <source>with reason: %1</source>
-        <translation type="obsolete">по следната причина: %1</translation>
-    </message>
-    <message>
-        <source>%1 has been kicked</source>
-        <translation type="obsolete">%1 беше изритан</translation>
-    </message>
-    <message>
-        <source>You has been kicked from %1
-</source>
-        <translation type="obsolete">Бяхте изритан от %1
-</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-410"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете ли да се присъедините повторно?</translation>
@@ -1374,14 +558,6 @@ Accept invitation?</source>
         <location line="+1"/>
         <source>You have been kicked</source>
         <translation>Бяхте изритан</translation>
-    </message>
-    <message>
-        <source>%1 is now known as %2</source>
-        <translation type="obsolete">%1 сега се подвизава като %2</translation>
-    </message>
-    <message>
-        <source>has joined the room</source>
-        <translation type="obsolete">влезе в стаята</translation>
     </message>
     <message>
         <location line="+44"/>
@@ -1411,29 +587,12 @@ Accept invitation?</source>
         <translation> регистриран член</translation>
     </message>
     <message>
-        <source> member</source>
-        <translation type="obsolete"> член</translation>
-    </message>
-    <message>
         <location line="-29"/>
         <location line="+27"/>
         <location line="+6"/>
         <location line="+6"/>
         <source> visitor</source>
         <translation>.посетител</translation>
-    </message>
-    <message>
-        <source>%1 has left the room</source>
-        <translation type="obsolete">%1 напусна стаята</translation>
-    </message>
-    <message>
-        <source>%1 now is</source>
-        <translation type="obsolete">%1 сега е</translation>
-    </message>
-    <message>
-        <source>Subject:
-%1</source>
-        <translation type="obsolete">Тема: %1</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -1511,50 +670,6 @@ Accept invitation?</source>
         <source>Subject:</source>
         <translation>Тема:</translation>
     </message>
-    <message>
-        <source>Not authorized: Password required.</source>
-        <translation type="obsolete">Липсва удостоверение: Изисква се парола.</translation>
-    </message>
-    <message>
-        <source>Forbidden: Access denied, user is banned.</source>
-        <translation type="obsolete">Забрана: Отказан достъп на потребителя.</translation>
-    </message>
-    <message>
-        <source>Item not found: The room does not exist.</source>
-        <translation type="obsolete">Няма намерени резултати: Стаята не съществува.</translation>
-    </message>
-    <message>
-        <source>Not allowed: Room creation is restricted.</source>
-        <translation type="obsolete">Непозволено: Създаването на стая е ограничено.</translation>
-    </message>
-    <message>
-        <source>Not acceptable: Room nicks are locked down.</source>
-        <translation type="obsolete">Неприемливо: Псевдонимите на стаите са заключени.</translation>
-    </message>
-    <message>
-        <source>Registration required: User is not on the member list.</source>
-        <translation type="obsolete">Изисква се регистрация: Потребителят не е в списъка с членове.</translation>
-    </message>
-    <message>
-        <source>Conflict: Desired room nickname is in use or registered by another user.</source>
-        <translation type="obsolete">Конфликт: Желаният псевдоним на стая или вече се използва или е регистриран от друг потребител.</translation>
-    </message>
-    <message>
-        <source>Service unavailable: Maximum number of users has been reached.</source>
-        <translation type="obsolete">Услугата недостъпна: Достигнат е максималният брой потребители .</translation>
-    </message>
-    <message>
-        <source>Unknown error: No description.</source>
-        <translation type="obsolete">Неизвестна грешка: Липсва описание.</translation>
-    </message>
-    <message>
-        <source>Join groupchat on </source>
-        <translation type="obsolete">Присъединяване към групов разговор за </translation>
-    </message>
-    <message>
-        <source>Join groupchat on</source>
-        <translation type="obsolete">Присъединяване към групов разговор за</translation>
-    </message>
 </context>
 <context>
     <name>Jabber::JMoodChooser</name>
@@ -1580,17 +695,6 @@ Accept invitation?</source>
         <location line="+25"/>
         <source>No mood</source>
         <translation>Без настроение</translation>
-    </message>
-</context>
-<context>
-    <name>Jabber::JPersonMoodRegistrator</name>
-    <message>
-        <source>Mood</source>
-        <translation type="obsolete">Настроение</translation>
-    </message>
-    <message>
-        <source>Show contact mood icon</source>
-        <translation type="obsolete">Показване иконата за настроение</translation>
     </message>
 </context>
 <context>
@@ -1629,10 +733,6 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JRoster</name>
     <message>
-        <source>Not in list</source>
-        <translation type="obsolete">Извън списъка</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+335"/>
         <source>You have been added to the list of subscribers</source>
         <translation>Бяхте добавени в списъка с абонати</translation>
@@ -1656,18 +756,6 @@ Accept invitation?</source>
         <location line="+169"/>
         <source>Received a request for removal from the subscribers</source>
         <translation>Получи се заявка за премахване от списъка с абонати</translation>
-    </message>
-    <message>
-        <source>You were authorized</source>
-        <translation type="obsolete">Дадено ви бе удостоверение</translation>
-    </message>
-    <message>
-        <source>Your authorization was removed</source>
-        <translation type="obsolete">Удостоверението ви бе премахнато</translation>
-    </message>
-    <message>
-        <source>Contacts&apos;s authorization was removed</source>
-        <translation type="obsolete">Удостоверението на контакта бе премахнато</translation>
     </message>
 </context>
 <context>
@@ -2134,10 +1222,6 @@ Accept invitation?</source>
         <translation>Възмутен</translation>
     </message>
     <message>
-        <source>Iindignant</source>
-        <translation type="obsolete">Възмутен</translation>
-    </message>
-    <message>
         <location line="+1"/>
         <source>Interested</source>
         <translatorcomment>Заинтригуван</translatorcomment>
@@ -2410,22 +1494,6 @@ Accept invitation?</source>
         <translation>XML конзола за откриване и отстраняване грешки на ниско ниво на протокола</translation>
     </message>
     <message>
-        <source>Jabber AdHoc</source>
-        <translation type="obsolete">Jabber Ad-Hoc</translation>
-    </message>
-    <message>
-        <source>Implementation of Ad-hoc Commands</source>
-        <translation type="obsolete">Реализация на Ad-Hoc команди</translation>
-    </message>
-    <message>
-        <source>Jabber Remote Control</source>
-        <translation type="obsolete">Отдалечено управление на Jabber</translation>
-    </message>
-    <message>
-        <source>Implementation of client remote controlling</source>
-        <translation type="obsolete">Реализация на отдалечено управление на клиента</translation>
-    </message>
-    <message>
         <location line="+11"/>
         <source>Jabber Service Browser</source>
         <translation>Разглеждане на услуги на Jabber</translation>
@@ -2436,42 +1504,6 @@ Accept invitation?</source>
         <translation>Реализация на разглеждане на услуги</translation>
     </message>
     <message>
-        <source>Jabber User Activity support</source>
-        <translation type="obsolete">Поддръжка на потребителски настроения в Jabber</translation>
-    </message>
-    <message>
-        <source>Convertes internal XMPP data of activity to Qt data types</source>
-        <translation type="obsolete">Конвертира вътрешните XMPP данни за дейност в Qt даннови типове</translation>
-    </message>
-    <message>
-        <source>Jabber Activity Chooser</source>
-        <translation type="obsolete">Избор на Jabber дейност</translation>
-    </message>
-    <message>
-        <source>Provides the dialog to set your activity</source>
-        <translation type="obsolete">Средство за задаване на вашата дейност</translation>
-    </message>
-    <message>
-        <source>Proxy support</source>
-        <translation type="obsolete">Поддръжка на прокси</translation>
-    </message>
-    <message>
-        <source>Jabber MUC Join Window</source>
-        <translation type="obsolete">Прозорец за присъединяване към Jabber групов разговор</translation>
-    </message>
-    <message>
-        <source>Implementation of groupchat join window</source>
-        <translation type="obsolete">Реализация на прозорец за присъединяване към групов разговор</translation>
-    </message>
-    <message>
-        <source>Jabber File Transfer</source>
-        <translation type="obsolete">Jabber предаване на файлове</translation>
-    </message>
-    <message>
-        <source>Implementation of XEP-0096</source>
-        <translation type="obsolete">Реализация на XEP-0096</translation>
-    </message>
-    <message>
         <location line="+7"/>
         <source>Jabber Personal Events support</source>
         <translation>Поддръжка на лични събития в Jabber</translation>
@@ -2480,14 +1512,6 @@ Accept invitation?</source>
         <location line="+1"/>
         <source>Implementation of personal events protocol</source>
         <translation>Реализация на протокола за лични събития</translation>
-    </message>
-    <message>
-        <source>Jabber Personal Events support (Message filter factory)</source>
-        <translation type="obsolete">Поддръжка на лични събития (Филтриране на съобщения)</translation>
-    </message>
-    <message>
-        <source>Implementation detail for Jabber Personal Events support</source>
-        <translation type="obsolete">Реализация на лични събития (Филтриране на съобщения)</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2626,10 +1650,6 @@ Accept invitation?</source>
 <context>
     <name>Settings</name>
     <message>
-        <source>Jabber</source>
-        <translation type="obsolete">Jabber</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-331"/>
         <source>Main settings</source>
         <translation>Основни настройки</translation>
@@ -2680,18 +1700,6 @@ Accept invitation?</source>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+14"/>
         <source>Form</source>
         <translation>XML</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot; bgcolor=&quot;#000000&quot;&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="obsolete">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot; bgcolor=&quot;#000000&quot;&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+19"/>

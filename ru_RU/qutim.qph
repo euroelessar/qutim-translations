@@ -5251,4 +5251,12 @@ Accept invitation?</source>
     <source>Manage metacontact</source>
     <target>Управление метаконтактом</target>
 </phrase>
+<phrase>
+    <source>Manage metacontact</source>
+    <target>Управление метаконтактами</target>
+</phrase>
+<phrase>
+    <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
+    <target>Желаете объединить контакты &quot;%1&quot; &lt;%2&gt; И &quot;%3&quot; &lt;%4&gt;?</target>
+</phrase>
 </QPH>

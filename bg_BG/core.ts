@@ -27,18 +27,6 @@
 <context>
     <name>AccountCreatorList</name>
     <message>
-        <source>Add</source>
-        <translation type="obsolete">Добавяне</translation>
-    </message>
-    <message>
-        <source>Up</source>
-        <translation type="obsolete">Нагоре</translation>
-    </message>
-    <message>
-        <source>Down</source>
-        <translation type="obsolete">Надолу</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorlist.ui" line="+14"/>
         <source>Form</source>
         <translation></translation>
@@ -99,18 +87,6 @@
         <source>Follow the style</source>
         <translation>В зависимост от стила</translation>
     </message>
-    <message>
-        <source>ToolBar appearance</source>
-        <translation type="obsolete">Облик на лентата с инструменти</translation>
-    </message>
-    <message>
-        <source>Icon size</source>
-        <translation type="obsolete">Размер на иконите</translation>
-    </message>
-    <message>
-        <source>Tool button style</source>
-        <translation type="obsolete">Стил на бутоните</translation>
-    </message>
 </context>
 <context>
     <name>AddContact</name>
@@ -129,51 +105,6 @@
         <location line="+10"/>
         <source>Name:</source>
         <translation>Име:</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">Добавяне</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Отказ</translation>
-    </message>
-</context>
-<context>
-    <name>AdiumChat::ChatSessionImpl</name>
-    <message>
-        <source>Message %1 must have a ChatUnit</source>
-        <translation type="obsolete">Съобщението %1 изисква ChatUnit</translation>
-    </message>
-</context>
-<context>
-    <name>AdiumChat::ChatWidget</name>
-    <message>
-        <source>Chat with %1</source>
-        <translation type="obsolete">Разговор с %1</translation>
-    </message>
-    <message>
-        <source>Conference %1 (%2)</source>
-        <translation type="obsolete">Конференция %1 (%2)</translation>
-    </message>
-</context>
-<context>
-    <name>AdiumChatForm</name>
-    <message>
-        <source>MainWindow</source>
-        <translation type="obsolete">Главен прозорец</translation>
-    </message>
-    <message>
-        <source>about:blank</source>
-        <translation type="obsolete">about:blank</translation>
-    </message>
-    <message>
-        <source>Chats</source>
-        <translation type="obsolete">Разговори</translation>
-    </message>
-    <message>
-        <source>Send</source>
-        <translation type="obsolete">Изпращане</translation>
     </message>
 </context>
 <context>
@@ -246,10 +177,6 @@ p, li { white-space: pre-wrap; }
         <translation>Поведение</translation>
     </message>
     <message>
-        <source>Notification types</source>
-        <translation type="obsolete">Типове уведомления</translation>
-    </message>
-    <message>
         <location line="+9"/>
         <source>Timeout, msec:</source>
         <translation>Интервал, msec:</translation>
@@ -307,79 +234,9 @@ p, li { white-space: pre-wrap; }
         <source>View History</source>
         <translation>Преглед на хронологията</translation>
     </message>
-    <message>
-        <source>Emoticons</source>
-        <translation type="obsolete">Емотикони</translation>
-    </message>
-    <message>
-        <source>Clear chat field</source>
-        <translation type="obsolete">Изчистване на разговора</translation>
-    </message>
-</context>
-<context>
-    <name>ChatAppearance</name>
-    <message>
-        <source>Vasya Pupkin</source>
-        <translation type="obsolete">Вася Пупкин</translation>
-    </message>
-    <message>
-        <source>Noname</source>
-        <translation type="obsolete">Безименен</translation>
-    </message>
-</context>
-<context>
-    <name>ChatBehavior</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Поведение на разговора</translation>
-    </message>
-    <message>
-        <source>Send Key</source>
-        <translation type="obsolete">Клавиши за изпращане</translation>
-    </message>
-    <message>
-        <source>Don&apos;t group messages after (sec):</source>
-        <translation type="obsolete">Да не се групират съобщенията след (след):</translation>
-    </message>
-    <message>
-        <source>Tab position:</source>
-        <translation type="obsolete">Позиция на раздела:</translation>
-    </message>
-    <message>
-        <source>Form layout:</source>
-        <translation type="obsolete">Разположение на формуляра:</translation>
-    </message>
-    <message>
-        <source>Chat state icons on tabs</source>
-        <translation type="obsolete">Покоазване на икони за състояние на разговора в разделите</translation>
-    </message>
-    <message>
-        <source>Number of previous messages shown in new chats</source>
-        <translation type="obsolete">Брой на последните показвани съобщения в новите разговори</translation>
-    </message>
-    <message>
-        <source>Number of shown previous messages:</source>
-        <translation type="obsolete">Брой на последните показвани съобщения:</translation>
-    </message>
-    <message>
-        <source>SendKey</source>
-        <translation type="obsolete">Клавиши за изпращане</translation>
-    </message>
-    <message>
-        <source>Store service messages in history</source>
-        <translation type="obsolete">Съхраняване на служебните съобщения в хронологията</translation>
-    </message>
-    <message>
-        <source>Number of recent messages:</source>
-        <translation type="obsolete">Брой на последните показвани съобщения:</translation>
-    </message>
 </context>
 <context>
     <name>ChatLayer</name>
-    <message>
-        <source>Send message</source>
-        <translation type="obsolete">Изпращане на съобщение</translation>
-    </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="+42"/>
         <source>Close chat</source>
@@ -434,7 +291,7 @@ p, li { white-space: pre-wrap; }
         <translation>Отваряне на списъка на сесиите</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+109"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+124"/>
         <location line="+5"/>
         <source>ContactList</source>
         <translation>Списък с контакти</translation>
@@ -454,25 +311,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>ClassicChatForm</name>
-    <message>
-        <source>MainWindow</source>
-        <translation type="obsolete">Прозорец за разговори</translation>
-    </message>
-    <message>
-        <source>about:blank</source>
-        <translation type="obsolete">about:blank</translation>
-    </message>
-    <message>
-        <source>Chats</source>
-        <translation type="obsolete">Разговори</translation>
-    </message>
-    <message>
-        <source>Send</source>
-        <translation type="obsolete">Изпращане</translation>
-    </message>
-</context>
-<context>
     <name>ContactInfo</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/contactinfo/contactinfo.cpp" line="+211"/>
@@ -485,12 +323,8 @@ p, li { white-space: pre-wrap; }
         <translation>Не</translation>
     </message>
     <message>
-        <source>the field is not set</source>
-        <translation type="obsolete">не е зададено</translation>
-    </message>
-    <message>
         <location line="-162"/>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+65"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+74"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>Информация за %1 &lt;%2&gt;</translation>
     </message>
@@ -505,14 +339,6 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+4"/>
         <source>About %1 &lt;%2&gt;</source>
         <translation>За контакта %1 &lt;%2&gt;</translation>
-    </message>
-    <message>
-        <source>Open avatar</source>
-        <translation type="obsolete">Избор на аватар</translation>
-    </message>
-    <message>
-        <source>Images (*.gif *.bmp *.jpg *.jpeg *.png);;All files (*.*)</source>
-        <translation type="obsolete">Изображения (*.gif *.bmp *.jpg *.jpeg *.png);;Всички файлове (*.*)</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -571,7 +397,7 @@ p, li { white-space: pre-wrap; }
         <translation>Списък с контакти</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+46"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+59"/>
         <source>&amp;Settings...</source>
         <translation>&amp;Настройки...</translation>
     </message>
@@ -586,7 +412,7 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Изход</translation>
     </message>
     <message>
-        <location line="+14"/>
+        <location line="+12"/>
         <source>Select tags</source>
         <translation>Избор на етикети</translation>
     </message>
@@ -601,12 +427,12 @@ p, li { white-space: pre-wrap; }
         <translation>Скриване на контактите извън линия</translation>
     </message>
     <message>
-        <location line="-153"/>
+        <location line="-177"/>
         <source>Copy id to clipboard</source>
         <translation>Копиране в клипборда</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+891"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+842"/>
         <source>Remove contact</source>
         <translation>Прeмахване на контакта</translation>
     </message>
@@ -616,7 +442,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавяне в списъка с контакти</translation>
     </message>
     <message>
-        <location line="-809"/>
+        <location line="-759"/>
         <source>Rename contact</source>
         <translation>Преименуване на контакта</translation>
     </message>
@@ -655,10 +481,6 @@ p, li { white-space: pre-wrap; }
         <source>Huge (64x64)</source>
         <translation>Огромен (64x64)</translation>
     </message>
-    <message>
-        <source>Hige (64x64)</source>
-        <translation type="obsolete">Огромен (64x64)</translation>
-    </message>
 </context>
 <context>
     <name>ContactSearch</name>
@@ -671,18 +493,6 @@ p, li { white-space: pre-wrap; }
 </context>
 <context>
     <name>Core::AccountCreatorList</name>
-    <message>
-        <source>Add new account</source>
-        <translation type="obsolete">Добавяне на нова сметка</translation>
-    </message>
-    <message>
-        <source>Just add or create new account</source>
-        <translation type="obsolete">Добавяне или създаване на нова сметка</translation>
-    </message>
-    <message>
-        <source>Edit info</source>
-        <translation type="obsolete">Редактиране на информацията</translation>
-    </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+72"/>
         <source>Properties</source>
@@ -747,18 +557,6 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::AbstractChatWidget</name>
     <message>
-        <source>Chat</source>
-        <translation type="obsolete">Разговор</translation>
-    </message>
-    <message>
-        <source>Unable to send empty message!</source>
-        <translation type="obsolete">Невъзможно е изпрщането на празно съобщение!</translation>
-    </message>
-    <message>
-        <source>Unable to send message to %1</source>
-        <translation type="obsolete">Невъзможно е изпращането на съобщение до %1</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="+51"/>
         <source>Chat with %1 (have %2 unread messages)</source>
         <translation>Разговорът с %1 (има %2 непрочетени съобщения)</translation>
@@ -772,29 +570,6 @@ p, li { white-space: pre-wrap; }
         <location line="+4"/>
         <source>Conference %1 (%2)</source>
         <translation>Конференция %1 (%2)</translation>
-    </message>
-</context>
-<context>
-    <name>Core::AdiumChat::AdiumChatWidget</name>
-    <message>
-        <source>Chat actions</source>
-        <translation type="obsolete">Действия в разговора</translation>
-    </message>
-    <message>
-        <source>Destination</source>
-        <translation type="obsolete">Направление</translation>
-    </message>
-    <message>
-        <source>Session list</source>
-        <translation type="obsolete">Списък на сесиите</translation>
-    </message>
-    <message>
-        <source>Chat with %1</source>
-        <translation type="obsolete">Разговор с %1</translation>
-    </message>
-    <message>
-        <source>Conference %1 (%2)</source>
-        <translation type="obsolete">Конференция %1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -852,37 +627,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>Core::AdiumChat::ChatBehavior</name>
-    <message>
-        <source>Ctrl+Enter</source>
-        <translation type="obsolete">Ctrl+Enter</translation>
-    </message>
-    <message>
-        <source>Double Enter</source>
-        <translation type="obsolete">Двоен Enter</translation>
-    </message>
-    <message>
-        <source>Enter</source>
-        <translation type="obsolete">Enter</translation>
-    </message>
-    <message>
-        <source>North</source>
-        <translation type="obsolete">Север</translation>
-    </message>
-    <message>
-        <source>South</source>
-        <translation type="obsolete">Юг</translation>
-    </message>
-    <message>
-        <source>Classic</source>
-        <translation type="obsolete">Клисически</translation>
-    </message>
-    <message>
-        <source>Adium-like</source>
-        <translation type="obsolete">Като в Adium</translation>
-    </message>
-</context>
-<context>
     <name>Core::AdiumChat::ChatEdit</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatedit.cpp" line="+116"/>
@@ -899,14 +643,11 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>Core::AdiumChat::ClassicChatWidget</name>
+    <name>Core::AdiumChat::SessionListWidget</name>
     <message>
-        <source>Chat with %1</source>
-        <translation type="obsolete">Разговор с %1</translation>
-    </message>
-    <message>
-        <source>Conference %1 (%2)</source>
-        <translation type="obsolete">Конференция %1 (%2)</translation>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp" line="+27"/>
+        <source>Close chat</source>
+        <translation>Затваряне на разговора</translation>
     </message>
 </context>
 <context>
@@ -944,21 +685,23 @@ p, li { white-space: pre-wrap; }
         <source>Actions</source>
         <translation>Действия</translation>
     </message>
+</context>
+<context>
+    <name>Core::AdiumChat::Symbian::StackedChatWidget</name>
     <message>
-        <source>Navigation</source>
-        <translation type="obsolete">Управление</translation>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/symbianchatform/stackedchatwidget.cpp" line="+38"/>
+        <source>Send to</source>
+        <translation>Изпращане до</translation>
     </message>
     <message>
-        <source>Left</source>
-        <translation type="obsolete">Ляво</translation>
+        <location line="+3"/>
+        <source>Actions</source>
+        <translation>Действия</translation>
     </message>
     <message>
-        <source>Right</source>
-        <translation type="obsolete">Дясно</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="obsolete">Затваряне</translation>
+        <location line="+96"/>
+        <source>Send</source>
+        <translation>Изпращане</translation>
     </message>
 </context>
 <context>
@@ -1036,110 +779,6 @@ p, li { white-space: pre-wrap; }
         <source>&amp;Chat</source>
         <translation>&amp;Разговор</translation>
     </message>
-    <message>
-        <source>Actions</source>
-        <translation type="obsolete">Действия</translation>
-    </message>
-    <message>
-        <source>Accounts</source>
-        <translation type="obsolete">Сметки</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="obsolete">Разговор</translation>
-    </message>
-    <message>
-        <source>Chat with %1 (have %2 unread messages)</source>
-        <translation type="obsolete">Разговорът с %1 (има %2 непрочетени съобщения)</translation>
-    </message>
-    <message>
-        <source>Chat with %1</source>
-        <translation type="obsolete">Разговор с %1</translation>
-    </message>
-    <message>
-        <source>Conference %1 (%2)</source>
-        <translation type="obsolete">Конференция %1 (%2)</translation>
-    </message>
-</context>
-<context>
-    <name>Core::AuthDialogPrivate</name>
-    <message>
-        <source>Recieved authorizarion request from %1:</source>
-        <translation type="obsolete">Получена заявка за удостоверяване от %1:</translation>
-    </message>
-</context>
-<context>
-    <name>Core::ChatAppearance</name>
-    <message>
-        <source>Vasya Pupkin</source>
-        <translation type="obsolete">Вася Пупкин</translation>
-    </message>
-    <message>
-        <source>Noname</source>
-        <translation type="obsolete">Безименен</translation>
-    </message>
-    <message>
-        <source>Unable to create chat session</source>
-        <translation type="obsolete">Невъзможно е създаването на сесия за разговор</translation>
-    </message>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="obsolete">%1 (%2)</translation>
-    </message>
-    <message>
-        <source>Preview message</source>
-        <translation type="obsolete">Предварителен преглед на съобщението</translation>
-    </message>
-    <message>
-        <source>Hello!</source>
-        <translation type="obsolete">Здравей!</translation>
-    </message>
-    <message>
-        <source>How are you?</source>
-        <translation type="obsolete">Как си?</translation>
-    </message>
-    <message>
-        <source>I am fine!</source>
-        <translation type="obsolete">Бивам!</translation>
-    </message>
-    <message>
-        <source>/me is thinking!</source>
-        <translation type="obsolete">/me мисли!</translation>
-    </message>
-    <message>
-        <source>Vasya Pupkin is reading you mind</source>
-        <translation type="obsolete">Вася Пупкин чете мислите ви</translation>
-    </message>
-    <message>
-        <source>Style variant:</source>
-        <translation type="obsolete">Вариант на стила:</translation>
-    </message>
-    <message>
-        <source>Vasya is reading you mind</source>
-        <translation type="obsolete">Вася чете мислите ви</translation>
-    </message>
-</context>
-<context>
-    <name>Core::ChatBehavior</name>
-    <message>
-        <source>Ctrl+Enter</source>
-        <translation type="obsolete">Ctrl+Enter</translation>
-    </message>
-    <message>
-        <source>Double Enter</source>
-        <translation type="obsolete">Двоен Enter</translation>
-    </message>
-    <message>
-        <source>Enter</source>
-        <translation type="obsolete">Enter</translation>
-    </message>
-</context>
-<context>
-    <name>Core::ChatFont</name>
-    <message>
-        <source>Change</source>
-        <translation type="obsolete">Промяна</translation>
-    </message>
 </context>
 <context>
     <name>Core::ChatSpellChecker</name>
@@ -1147,13 +786,6 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+140"/>
         <source>Add to dictionary</source>
         <translation>Добавяне към речника</translation>
-    </message>
-</context>
-<context>
-    <name>Core::Game::PListConfigBackend</name>
-    <message>
-        <source>Cannot write to file %1</source>
-        <translation type="obsolete">Невъзможен е записът във файла %1</translation>
     </message>
 </context>
 <context>
@@ -1225,10 +857,6 @@ p, li { white-space: pre-wrap; }
         <source>Simple kinetic popup widget.</source>
         <translation>Обикновен kinetic изскачащ прозорец.</translation>
     </message>
-    <message>
-        <source>Simple messagebox</source>
-        <translation type="obsolete">Обикновен прозорец със съобщения</translation>
-    </message>
 </context>
 <context>
     <name>Core::MetaContacts::MergeDialog</name>
@@ -1282,14 +910,19 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::MobileContactInfoWindow</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-232"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-241"/>
         <source>Request details</source>
         <translation>Заявка за подробности</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>Save</source>
         <translation>Запис</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Close</source>
+        <translation>Затваряне</translation>
     </message>
 </context>
 <context>
@@ -1305,7 +938,7 @@ p, li { white-space: pre-wrap; }
         <translation>Затваряне</translation>
     </message>
     <message>
-        <location line="+105"/>
+        <location line="+109"/>
         <location line="+31"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки на qutIM - %1</translation>
@@ -1370,29 +1003,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>Core::PopupAppearance</name>
-    <message>
-        <source>Preview</source>
-        <translation type="obsolete">Предварителен преглед</translation>
-    </message>
-    <message>
-        <source>This is a simple popup</source>
-        <translation type="obsolete">Това е опростен изскачащ прозорец</translation>
-    </message>
-    <message>
-        <source>Simple message</source>
-        <translation type="obsolete">Обикновено съобщение</translation>
-    </message>
-    <message>
-        <source>Another message</source>
-        <translation type="obsolete">Друго съобщение</translation>
-    </message>
-    <message>
-        <source>Simple messagebox</source>
-        <translation type="obsolete">Обикновен прозорец със съобщения</translation>
-    </message>
-</context>
-<context>
     <name>Core::ProfileCreationPage</name>
     <message>
         <location filename="../../qutim-meta/core/src/profilecreationpage.cpp" line="+97"/>
@@ -1404,10 +1014,6 @@ p, li { white-space: pre-wrap; }
         <location line="-7"/>
         <source>Profile already exists, overwrite?</source>
         <translation>Прфилът вече съществува, желаете ли да бъде презаписан?</translation>
-    </message>
-    <message>
-        <source>Profile hash is already exist, override?</source>
-        <translation type="obsolete">Прфилът вече съществува, желаете ли да бъде презаписан?</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1551,22 +1157,6 @@ p, li { white-space: pre-wrap; }
         <source>&lt;b&gt;Webpage:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;br/&gt;</source>
         <translation>&lt;b&gt;Страница:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;br/&gt;</translation>
     </message>
-    <message>
-        <source>&lt;b&gt;Name:&lt;/b&gt; %1&lt;/br&gt;</source>
-        <translation type="obsolete">&lt;b&gt;Име:&lt;/b&gt; %1&lt;/br&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;Task:&lt;/b&gt; %1&lt;/br&gt;</source>
-        <translation type="obsolete">&lt;b&gt;Задача:&lt;/b&gt; %1&lt;/br&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</source>
-        <translation type="obsolete">&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;Webpage:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</source>
-        <translation type="obsolete">&lt;b&gt;Страница:&lt;/b&gt; &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;&lt;/br&gt;</translation>
-    </message>
 </context>
 <context>
     <name>Core::ServiceChooserWidget</name>
@@ -1592,16 +1182,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+565"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+512"/>
         <source>Without tags</source>
         <translation>Без тагове</translation>
     </message>
     <message>
-        <source>Not in list</source>
-        <translation type="obsolete">Извън списъка</translation>
-    </message>
-    <message>
-        <location line="+115"/>
+        <location line="+118"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
         <translation>Желаете ли да обедините контактите &quot;%1&quot; &lt;%2&gt; и &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
@@ -1621,7 +1207,7 @@ p, li { white-space: pre-wrap; }
         <translation>Обединяване на контакти</translation>
     </message>
     <message>
-        <location line="-558"/>
+        <location line="-508"/>
         <source>All tags</source>
         <translation>Всички етикети</translation>
     </message>
@@ -1634,18 +1220,24 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+101"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+121"/>
         <source>Main Toolbar</source>
         <translation>Главна лентата с инструменти</translation>
     </message>
     <message>
-        <location line="+66"/>
+        <location line="+83"/>
+        <source>Actions</source>
+        <translation>Действия</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <location line="+8"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
     <message>
-        <location line="+55"/>
-        <location line="+240"/>
+        <location line="+43"/>
+        <location line="+245"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
@@ -1661,20 +1253,9 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>Core::SimpleContactList::TreeView</name>
-    <message>
-        <source>Select tags</source>
-        <translation type="obsolete">Избор на етикети</translation>
-    </message>
-    <message>
-        <source>Reset</source>
-        <translation type="obsolete">Нулиране</translation>
-    </message>
-</context>
-<context>
     <name>Core::SimpleTagsEditor</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simpletagseditor/simpletagseditor.cpp" line="+16"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simpletagseditor/simpletagseditor.cpp" line="+17"/>
         <source>Edit tags for %1</source>
         <translation>Редактиране етикетите на %1</translation>
     </message>
@@ -1715,10 +1296,6 @@ p, li { white-space: pre-wrap; }
         <location line="+25"/>
         <source>the field is not set</source>
         <translation>полето не е попълнено</translation>
-    </message>
-    <message>
-        <source>Not specified</source>
-        <translation type="obsolete">Не е зададено</translation>
     </message>
     <message>
         <location line="+531"/>
@@ -1856,19 +1433,6 @@ p, li { white-space: pre-wrap; }
         <comment>seconds</comment>
         <translation> мин</translation>
     </message>
-    <message>
-        <source>Set status away after:</source>
-        <translation type="obsolete">Установяване на статуса в &quot;Отсъства&quot; след:</translation>
-    </message>
-    <message>
-        <source>Set status not available after:</source>
-        <translation type="obsolete">Установяване на статуса в &quot;Недостъпен&quot; след:</translation>
-    </message>
-    <message>
-        <source>s</source>
-        <comment>seconds</comment>
-        <translation type="obsolete">&apos;</translation>
-    </message>
 </context>
 <context>
     <name>JoinGroupChat</name>
@@ -1884,21 +1448,9 @@ p, li { white-space: pre-wrap; }
         <translation>Избор на сметка:</translation>
     </message>
     <message>
-        <source>Select bookmark:</source>
-        <translation type="obsolete">Избор на отметка:</translation>
-    </message>
-    <message>
-        <source>Bookmarks:</source>
-        <translation type="obsolete">Отметки:</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joinpage.cpp" line="+34"/>
         <source>Save to bookmarks</source>
         <translation>Запис в отметките</translation>
-    </message>
-    <message>
-        <source>Enter</source>
-        <translation type="obsolete">Влизане</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+58"/>
@@ -1931,25 +1483,9 @@ p, li { white-space: pre-wrap; }
         <translation>Създаване, редактиране или изтриване на отметки</translation>
     </message>
     <message>
-        <source>Join to a new groupchat</source>
-        <translation type="obsolete">Присъединяване към нов групов разговор</translation>
-    </message>
-    <message>
-        <source>New groupchat</source>
-        <translation type="obsolete">Нов групов разговор</translation>
-    </message>
-    <message>
         <location line="+2"/>
         <source>Manage bookmarks</source>
         <translation>Управление на отметки</translation>
-    </message>
-    <message>
-        <source>Edit saved bookmarks</source>
-        <translation type="obsolete">Редактиране на съхранените отметки</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">Добавяне</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/bookmarkspage.cpp" line="+38"/>
@@ -1968,17 +1504,9 @@ p, li { white-space: pre-wrap; }
         <translation>Присъединяване</translation>
     </message>
     <message>
-        <source>Search</source>
-        <translation type="obsolete">Търсене</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/bookmarkspage.cpp" line="-6"/>
         <source>Save</source>
         <translation>Запис</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="obsolete">Изтриване</translation>
     </message>
 </context>
 <context>
@@ -1992,13 +1520,6 @@ p, li { white-space: pre-wrap; }
         <location line="+8"/>
         <source>No shortcut defined</source>
         <translation>Не е зададен бърз клавиш</translation>
-    </message>
-</context>
-<context>
-    <name>KineticPopups::Popup</name>
-    <message>
-        <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
-        <translation type="obsolete">&lt;p&gt; + %1 оставащи уведомления &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -2092,14 +1613,6 @@ p, li { white-space: pre-wrap; }
         <location line="+31"/>
         <source>Select account:</source>
         <translation>Избор на сметка:</translation>
-    </message>
-    <message>
-        <source>Search</source>
-        <translation type="obsolete">Търсене</translation>
-    </message>
-    <message>
-        <source>Back</source>
-        <translation type="obsolete">Назад</translation>
     </message>
 </context>
 <context>
@@ -2200,50 +1713,6 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM реализация на изскачащи прозорци. На базата на QTextDocument</translation>
     </message>
     <message>
-        <source>Default qutIM popup implementation. Powered by Kinetic</source>
-        <translation type="obsolete">Подразбираща се за qutIM реализация на изскачащи прозорци. На базата на Kinetic</translation>
-    </message>
-    <message>
-        <source>AES crypto</source>
-        <translation type="obsolete">AES шифриране</translation>
-    </message>
-    <message>
-        <source>Default qutIM crypto implementation. Based on algorithm aes256</source>
-        <translation type="obsolete">Подразбираща се за qutIM реализация на шифриране. На базата на aes256 алгоритъма</translation>
-    </message>
-    <message>
-        <source>JSON config</source>
-        <translation type="obsolete">JSON конфигурация</translation>
-    </message>
-    <message>
-        <source>Default qutIM config implementation. Based on JSON.</source>
-        <translation type="obsolete">Подразбираща се за qutIM реализация на конфигурационни файлове. На базата на JSON.</translation>
-    </message>
-    <message>
-        <source>Additional qutIM config implementation for Apple plists</source>
-        <translation type="obsolete">Допълнителна реализация на конфигурационни файлове на qutIM за Apple plists</translation>
-    </message>
-    <message>
-        <source>PList config</source>
-        <translation type="obsolete">PList конфигурация</translation>
-    </message>
-    <message>
-        <source>Simple ContactList</source>
-        <translation type="obsolete">Обикновен списък с контакти</translation>
-    </message>
-    <message>
-        <source>Default qutIM contact list implementation. Just simple</source>
-        <translation type="obsolete">Подразбираща се за qutIM реализация на (опростен) списък с контакти</translation>
-    </message>
-    <message>
-        <source>X Settings dialog</source>
-        <translation type="obsolete">Х настройки</translation>
-    </message>
-    <message>
-        <source>Default qutIM settings dialog implementation with OS X style top bar</source>
-        <translation type="obsolete">Подразбиращ се за qutIM диалог за настройване, с OS X стил на заглавната лента</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-34"/>
         <source>Webkit chat layer</source>
         <translation>WebKit слой за разговор</translation>
@@ -2252,18 +1721,6 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Default qutIM chat implementation, based on Adium chat styles</source>
         <translation>Подразбираща се за qutIM реализация на разговор. На базата на Adium стилове за разговора</translation>
-    </message>
-    <message>
-        <source>Helper for chat layer</source>
-        <translation type="obsolete">Помощник на слоя за разговори</translation>
-    </message>
-    <message>
-        <source>Adds &quot;Start chat&quot; action to contact&apos;s menu</source>
-        <translation type="obsolete">Добавя &quot;Начало на разговор&quot; в контекстното меню на контакта</translation>
-    </message>
-    <message>
-        <source>Adds &quot;Start chat&quot; action to conact&apos;s menu</source>
-        <translation type="obsolete">Добавя &quot;Начало на разговор&quot; в контекстното меню на контакта</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2276,22 +1733,6 @@ p, li { white-space: pre-wrap; }
         <translation>Модифициране на %time% и %timeOpened% параметри, на базата на документацията на Apple</translation>
     </message>
     <message>
-        <source>Helper for history layer</source>
-        <translation type="obsolete">Помощник на слоя за хронология</translation>
-    </message>
-    <message>
-        <source>Adds &quot;View history&quot; action to contact&apos;s menu</source>
-        <translation type="obsolete">Добавя &quot;Преглед на хронологията&quot; в контекстното меню на контакта</translation>
-    </message>
-    <message>
-        <source>Json History</source>
-        <translation type="obsolete">JSON хронология</translation>
-    </message>
-    <message>
-        <source>Default qutIM history implementation, based on JavaScript Object Notation</source>
-        <translation type="obsolete">Подразбираща се за qutIM конфигурация на хронология. На базата на JSON</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreator.cpp" line="+12"/>
         <source>Account creator</source>
         <translation>Създаване на сметка</translation>
@@ -2300,50 +1741,6 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Default qutIM account creator</source>
         <translation>Създаване на сметка в qutIM по подразбиране</translation>
-    </message>
-    <message>
-        <source>Adium service icons</source>
-        <translation type="obsolete">Adium икони на услугите</translation>
-    </message>
-    <message>
-        <source>Protocol icons powered by Adium ServiceIcons packs</source>
-        <translation type="obsolete">Икони на протоколите с помощта на Adium ServiceIcons пакети</translation>
-    </message>
-    <message>
-        <source>Chat settings</source>
-        <translation type="obsolete">Настройки на разговора</translation>
-    </message>
-    <message>
-        <source>Default settings widgets for adium chat</source>
-        <translation type="obsolete">Прозорец с настройки по подразбиране на Adium разговор</translation>
-    </message>
-    <message>
-        <source>Emoticons settings</source>
-        <translation type="obsolete">Настройки на емотикони</translation>
-    </message>
-    <message>
-        <source>Default settings widget set for emoticons</source>
-        <translation type="obsolete">Прозорец с настройки по подразбиране на емотикони</translation>
-    </message>
-    <message>
-        <source>Notifications settings</source>
-        <translation type="obsolete">Настройки на уведомленията</translation>
-    </message>
-    <message>
-        <source>Default settings widget set for notifications</source>
-        <translation type="obsolete">Прозорец с настройки по подразбиране на уведомленията</translation>
-    </message>
-    <message>
-        <source>Default settings widgets for kinetic notifications</source>
-        <translation type="obsolete">Прозорец на настройки по подразбиране за Kinetic уведомленията</translation>
-    </message>
-    <message>
-        <source>qutIM and Kopete emoticons</source>
-        <translation type="obsolete">Емотикони за qutIM и Kopete</translation>
-    </message>
-    <message>
-        <source>Default qutIM emoticons backend</source>
-        <translation type="obsolete">Подразбираща се за qutIM работа с емотикони</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/localization/localizationplugin.cpp" line="+28"/>
@@ -2356,14 +1753,6 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM работа с локали</translation>
     </message>
     <message>
-        <source>Xdg Icon Loader</source>
-        <translation type="obsolete">Xdg поддръжка на икони</translation>
-    </message>
-    <message>
-        <source>Default qutIM icon loader implementation. Based on Q-XDG library</source>
-        <translation type="obsolete">Подразбираща се за qutIM реализация на икони. На базата на Q-XDG библиотеката</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogplugin.cpp" line="-3"/>
         <source>Authorization dialog</source>
         <translation>Диалог за удостоверяване</translation>
@@ -2372,58 +1761,6 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Simple authorization dialog</source>
         <translation>Обикновен диалог за удостоверяване</translation>
-    </message>
-    <message>
-        <source>Simple password dialog</source>
-        <translation type="obsolete">Обикновен диалог за парола</translation>
-    </message>
-    <message>
-        <source>Default qutIM password dialog</source>
-        <translation type="obsolete">Подразбиращ се за qutIM диалог за парола</translation>
-    </message>
-    <message>
-        <source>Simple tray</source>
-        <translation type="obsolete">Обикновен системен поднос</translation>
-    </message>
-    <message>
-        <source>Default qutIM system tray icon implementation</source>
-        <translation type="obsolete">Подразбираща се за qutIM реализация на икона в системния поднос</translation>
-    </message>
-    <message>
-        <source>Mirgation 0.2 to 0.3</source>
-        <translation type="obsolete">Миграция от 0.2 към 0.3</translation>
-    </message>
-    <message>
-        <source>Module for migration from 0.2 to 0.3</source>
-        <translation type="obsolete">Модул за миграция от 0.2 към 0.3</translation>
-    </message>
-    <message>
-        <source>Simple information window about a contact</source>
-        <translation type="obsolete">Обикновен прозорец с информация за контакта</translation>
-    </message>
-    <message>
-        <source>Default qutIM implementation of the information window</source>
-        <translation type="obsolete">Подразбираща се за qutIM реализация на прозорец с информация</translation>
-    </message>
-    <message>
-        <source>Service chooser</source>
-        <translation type="obsolete">Избор на услуги</translation>
-    </message>
-    <message>
-        <source>Idle detector</source>
-        <translation type="obsolete">Установяване на бездействието</translation>
-    </message>
-    <message>
-        <source>Native idle detector, based on system api</source>
-        <translation type="obsolete">Установяване на бездействието, на базата на вградения, системен API</translation>
-    </message>
-    <message>
-        <source>Idle status changer</source>
-        <translation type="obsolete">Промяна на статуса при бездействие</translation>
-    </message>
-    <message>
-        <source>Change status of accounts by idle</source>
-        <translation type="obsolete">Промяна на статусите на сметките при бездействие</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/core/examples/autosettingsitem/autosettings.cpp" line="+9"/>
@@ -2444,154 +1781,6 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>SDK03 example</source>
         <translation>Пример от SDK03</translation>
-    </message>
-    <message>
-        <source>No crypto</source>
-        <translation type="obsolete">Без шифриране</translation>
-    </message>
-    <message>
-        <source>Store passwords in plaintext. Easy to read. Easy to recover.</source>
-        <translation type="obsolete">Съхраняване на паролите като чист текст. Лесно за прочитане, лесно за възстановяване.</translation>
-    </message>
-    <message>
-        <source>File transfer menager</source>
-        <translation type="obsolete">Управление на предаването на файлове</translation>
-    </message>
-    <message>
-        <source>File transfer manager</source>
-        <translation type="obsolete">Управление на предаването на файлове</translation>
-    </message>
-    <message>
-        <source>Default qutIM file transfer manager</source>
-        <translation type="obsolete">Подразбиращо се за qutIM управлнение предаването на файлове</translation>
-    </message>
-    <message>
-        <source>Shortcut settings</source>
-        <translation type="obsolete">Настройки на бързите клавиши</translation>
-    </message>
-    <message>
-        <source>Shortcut editor</source>
-        <translation type="obsolete">Редактиране на бързите клавиши</translation>
-    </message>
-    <message>
-        <source>Default sound engine</source>
-        <translation type="obsolete">Подразбираща се за qutIM поддръжка на звук</translation>
-    </message>
-    <message>
-        <source>Sound engine based on QSound</source>
-        <translation type="obsolete">Поддръжка на звук на базата на QSound</translation>
-    </message>
-    <message>
-        <source>qutIM sound themes</source>
-        <translation type="obsolete">Звукови теми на qutIM</translation>
-    </message>
-    <message>
-        <source>Default qutIM sound theme engine</source>
-        <translation type="obsolete">Подразбираща се за qutIM звукова тема</translation>
-    </message>
-    <message>
-        <source>Mulimedia engine</source>
-        <translation type="obsolete">Поддръжка на мултимедия</translation>
-    </message>
-    <message>
-        <source>Sound engine based on QtMultimedia</source>
-        <translation type="obsolete">Поддръжка на звук на базата на QtMultimedia</translation>
-    </message>
-    <message>
-        <source>Sound theme selector</source>
-        <translation type="obsolete">Избор на звукови теми</translation>
-    </message>
-    <message>
-        <source>Simple sound theme selector</source>
-        <translation type="obsolete">Обикновен избор на звукови теми</translation>
-    </message>
-    <message>
-        <source>Adium</source>
-        <translation type="obsolete">Adium</translation>
-    </message>
-    <message>
-        <source>Adium-like chatform implementation for adiumchat</source>
-        <translation type="obsolete">Реализация на Adium подобен изглед на прозореца на разговори</translation>
-    </message>
-    <message>
-        <source>Classic</source>
-        <translation type="obsolete">Клисически</translation>
-    </message>
-    <message>
-        <source>Default qutIM chatform implementation for adiumchat</source>
-        <translation type="obsolete">Подразбиращ се за qutIM, Adium формуляр за разговори</translation>
-    </message>
-    <message>
-        <source>Mobile</source>
-        <translation type="obsolete">Мобилен</translation>
-    </message>
-    <message>
-        <source>Stacked chatform for mobile devices</source>
-        <translation type="obsolete">Стеков формуляр за разговори за мобилни устройства</translation>
-    </message>
-    <message>
-        <source>Webkit</source>
-        <translation type="obsolete">WebKit</translation>
-    </message>
-    <message>
-        <source>Contact search</source>
-        <translation type="obsolete">Търсене на контакти</translation>
-    </message>
-    <message>
-        <source>Default qutIM implementation of contact search window</source>
-        <translation type="obsolete">Подразбираща се за qutIM реализация на прозорец за търсене на контакти</translation>
-    </message>
-    <message>
-        <source>Data forms backend</source>
-        <translation type="obsolete">Реализация на даннови формуляри</translation>
-    </message>
-    <message>
-        <source>Default qutIM implementation of the data forms</source>
-        <translation type="obsolete">Подразбираща се за qutIM реализация на даннови формуляри</translation>
-    </message>
-    <message>
-        <source>Add contact dialog</source>
-        <translation type="obsolete">Диалог за добавяне на контакт</translation>
-    </message>
-    <message>
-        <source>Simple add contact dialog</source>
-        <translation type="obsolete">Обикновен диалог за добавяне на контакт</translation>
-    </message>
-    <message>
-        <source>Simple MetaContacts</source>
-        <translation type="obsolete">Обикновени Метаконтакти</translation>
-    </message>
-    <message>
-        <source>Default qutIM MetaContacts implementation, very stupid one</source>
-        <translation type="obsolete">Подразбираща се за qutIM реализация на метаконтакти</translation>
-    </message>
-    <message>
-        <source>AutoAway</source>
-        <translation type="obsolete">Автоматично отсъствие</translation>
-    </message>
-    <message>
-        <source>Automatically changes status of accounts on inactivity</source>
-        <translation type="obsolete">Автоматична промяна на статусите на сметките при бездействие</translation>
-    </message>
-    <message>
-        <source>Join GroupChat dialog</source>
-        <translation type="obsolete">Присъединяване към групов разговор</translation>
-    </message>
-    <message>
-        <source>Simple groupchat join dialog</source>
-        <translation type="obsolete">Обикновен диалог за присъединяване към групов разговор</translation>
-    </message>
-    <message>
-        <source>Default search form</source>
-        <translation type="obsolete">Подразбиращ се формуляр за търсене</translation>
-    </message>
-    <message>
-        <source>Mobile search form</source>
-        <translation type="obsolete">Формуляр за търсене за мобилни устройства</translation>
-    </message>
-    <message>
-        <source>Search form for mobile phones</source>
-        <translation type="obsolete">Формуляр за търсене за мобилни устройства</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/searchdialog/searchdialogplugin.cpp" line="-3"/>
@@ -2624,14 +1813,6 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Search form optimized for Mobile systems</source>
         <translation>Подразбиращ се за qutIM формуляр за търсене, оптимизиран за мобилни устройства</translation>
-    </message>
-    <message>
-        <source>Mobile information window about a contact</source>
-        <translation type="obsolete">Прозорец с информация за контакта за мобилни устройства</translation>
-    </message>
-    <message>
-        <source>qutIM implementation of the information window for mobiles</source>
-        <translation type="obsolete">Реализация на прозорец с информация за контакта за мобилни устройства в qutIM</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="-3"/>
@@ -2711,34 +1892,6 @@ p, li { white-space: pre-wrap; }
 </context>
 <context>
     <name>ProfileDialog</name>
-    <message>
-        <source>Login</source>
-        <translation type="obsolete">Потребителско име</translation>
-    </message>
-    <message>
-        <source>Choose profile:</source>
-        <translation type="obsolete">Профил:</translation>
-    </message>
-    <message>
-        <source>Enter password:</source>
-        <translation type="obsolete">Парола:</translation>
-    </message>
-    <message>
-        <source>Create profile</source>
-        <translation type="obsolete">Създаване на профил</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation type="obsolete">Име:</translation>
-    </message>
-    <message>
-        <source>Repeat password:</source>
-        <translation type="obsolete">Паролата (повторно):</translation>
-    </message>
-    <message>
-        <source>Create</source>
-        <translation type="obsolete">Създаване</translation>
-    </message>
     <message>
         <location filename="../../qutim-meta/core/src/profiledialog.ui" line="+53"/>
         <source>Profiles</source>
@@ -2862,25 +2015,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>SearchContactForm</name>
-    <message>
-        <source>Search contact</source>
-        <translation type="obsolete">Търсене на контакт</translation>
-    </message>
-    <message>
-        <source>Search</source>
-        <translation type="obsolete">Търсене</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Отказ</translation>
-    </message>
-    <message>
-        <source>Add contact</source>
-        <translation type="obsolete">Добавяне на контакт</translation>
-    </message>
-</context>
-<context>
     <name>SearchForm</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp" line="+42"/>
@@ -2924,10 +2058,6 @@ p, li { white-space: pre-wrap; }
         <source>Form</source>
         <translation>Услуги</translation>
     </message>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
-    </message>
 </context>
 <context>
     <name>Settings</name>
@@ -2947,14 +2077,6 @@ p, li { white-space: pre-wrap; }
         <translation>Сметки</translation>
     </message>
     <message>
-        <source>Chat appearance</source>
-        <translation type="obsolete">Облик на разговора</translation>
-    </message>
-    <message>
-        <source>Chat behavior</source>
-        <translation type="obsolete">Разговор</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/core/src/corelayers/emoticonssettings/emoticonssettings.cpp" line="+26"/>
         <source>Emoticons</source>
         <translation>Емотикони</translation>
@@ -2963,10 +2085,6 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/src/corelayers/localization/localizationmodule.cpp" line="+35"/>
         <source>Localization</source>
         <translation>Локализация</translation>
-    </message>
-    <message>
-        <source>Service Chooser</source>
-        <translation type="obsolete">Избор на услуги</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/servicechooser/servicechooser.cpp" line="-28"/>
@@ -3015,6 +2133,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/stackedchatform/stackedchatform.cpp" line="-4"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/symbianchatform/stackedchatform.cpp" line="+23"/>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/tabbedchatform/tabbedchatform.cpp" line="-4"/>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/webkitchat/webkitviewfactory.cpp" line="+18"/>
         <source>Chat</source>
@@ -3166,10 +2285,6 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>SimplePasswordWidget</name>
     <message>
-        <source>Dialog</source>
-        <translation type="obsolete">Удостоверяване</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/core/src/corelayers/password/simplepasswordwidget.ui" line="+14"/>
         <source>Password Request</source>
         <translation>Запитване за парола</translation>
@@ -3201,7 +2316,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>SimpleTagsEditor</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simpletagseditor/simpletagseditor.ui" line="+39"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simpletagseditor/simpletagseditor.ui" line="+46"/>
         <source>Add</source>
         <translation>Добавяне</translation>
     </message>
@@ -3241,6 +2356,7 @@ p, li { white-space: pre-wrap; }
     <name>StackedChatBehavior</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/stackedchatform/settings/stackedchatbehavior.ui" line="+14"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/symbianchatform/settings/stackedchatbehavior.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки на стековия формуляр</translation>
     </message>
@@ -3251,21 +2367,25 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+8"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/symbianchatform/settings/stackedchatbehavior.ui" line="+42"/>
         <source>Store service messages in history</source>
         <translation>Съхраняване на служебните съобщения в хронологията</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/symbianchatform/settings/stackedchatbehavior.ui" line="+7"/>
         <source>Number of previous messages shown in new chats</source>
         <translation>Брой на последните показвани съобщения в новите разговори</translation>
     </message>
     <message>
         <location line="+3"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/symbianchatform/settings/stackedchatbehavior.ui" line="+3"/>
         <source>Number of shown previous messages:</source>
         <translation>Брой на последните показвани съобщения:</translation>
     </message>
     <message>
         <location line="+10"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/symbianchatform/settings/stackedchatbehavior.ui" line="+10"/>
         <source>Don&apos;t group messages after (sec):</source>
         <translation>Да не се групират съобщенията след (след):</translation>
     </message>
@@ -3370,10 +2490,6 @@ p, li { white-space: pre-wrap; }
         <source>Show menubar</source>
         <translation>Показване на лентата с менюто</translation>
     </message>
-    <message>
-        <source>Menubar</source>
-        <translation type="obsolete">Главна лента</translation>
-    </message>
 </context>
 <context>
     <name>TagsFilterDialog</name>
@@ -3404,121 +2520,6 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/libqutim/buddy.cpp" line="+75"/>
         <source>Account</source>
         <translation>Сметка</translation>
-    </message>
-</context>
-<context>
-    <name>XSettingsDialog</name>
-    <message>
-        <source>General</source>
-        <translation type="obsolete">Общи</translation>
-    </message>
-    <message>
-        <source>General configuration</source>
-        <translation type="obsolete">Общи настройки</translation>
-    </message>
-    <message>
-        <source>Protocols</source>
-        <translation type="obsolete">Протоколи</translation>
-    </message>
-    <message>
-        <source>Accounts and protocols settings</source>
-        <translation type="obsolete">Настройки на сметки и протоколи</translation>
-    </message>
-    <message>
-        <source>Appearance</source>
-        <translation type="obsolete">Облик</translation>
-    </message>
-    <message>
-        <source>Appearance settings</source>
-        <translation type="obsolete">Настройки на облика</translation>
-    </message>
-    <message>
-        <source>Plugins</source>
-        <translation type="obsolete">Добавки</translation>
-    </message>
-    <message>
-        <source>Additional plugins settings</source>
-        <translation type="obsolete">Допълнителни настройки на добавките</translation>
-    </message>
-    <message>
-        <source>qutIM settings - %1</source>
-        <translation type="obsolete">Настройки на qutIM - %1</translation>
-    </message>
-    <message>
-        <source>Apply Settings - System Settings</source>
-        <translation type="obsolete">Прилагане на настройките - Системни настройки</translation>
-    </message>
-    <message>
-        <source>The settings of the current module have changed. 
- Do you want to apply the changes or discard them?</source>
-        <translation type="obsolete">Настройките за текущия модул бяха променени.
-Желаете ли да ги приложите или да бъдат отменени?</translation>
-    </message>
-    <message>
-        <source>XSettingsDialog</source>
-        <translation type="obsolete">Х настройки</translation>
-    </message>
-    <message>
-        <source>Sorry, this category doesn&apos;t contain any settings</source>
-        <translation type="obsolete">Извинете, но тази категория не съдържа никакви настройки</translation>
-    </message>
-</context>
-<context>
-    <name>XSettingsGroup</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Настройки</translation>
-    </message>
-</context>
-<context>
-    <name>XToolBar</name>
-    <message>
-        <source>XBar appearance</source>
-        <translation type="obsolete">Облик на Х лентата</translation>
-    </message>
-    <message>
-        <source>Small (16x16)</source>
-        <translation type="obsolete">Малък (16x16)</translation>
-    </message>
-    <message>
-        <source>Normal (32x32)</source>
-        <translation type="obsolete">Нормален (32х32)</translation>
-    </message>
-    <message>
-        <source>Big (48x48)</source>
-        <translation type="obsolete">Голям (48х48)</translation>
-    </message>
-    <message>
-        <source>Other</source>
-        <translation type="obsolete">Друг</translation>
-    </message>
-    <message>
-        <source>Icon size</source>
-        <translation type="obsolete">Размер на иконите</translation>
-    </message>
-    <message>
-        <source>Only display the icon</source>
-        <translation type="obsolete">Показване само на икона</translation>
-    </message>
-    <message>
-        <source>Only display the text</source>
-        <translation type="obsolete">Показване само на текст</translation>
-    </message>
-    <message>
-        <source>The text appears beside the icon</source>
-        <translation type="obsolete">Текстът се появява до иконата</translation>
-    </message>
-    <message>
-        <source>The text appears under the icon</source>
-        <translation type="obsolete">Текстът се появява под иконата</translation>
-    </message>
-    <message>
-        <source>Follow the style</source>
-        <translation type="obsolete">В зависимост от стила</translation>
-    </message>
-    <message>
-        <source>Tool button style</source>
-        <translation type="obsolete">Стил на бутона</translation>
     </message>
 </context>
 <context>
@@ -3928,21 +2929,6 @@ en</source>
     </message>
 </context>
 <context>
-    <name>qutim_sdk_0_3::ActionToolBar</name>
-    <message>
-        <source>ToolBar appearance</source>
-        <translation type="obsolete">Облик на лентата с инструменти</translation>
-    </message>
-    <message>
-        <source>Icon size</source>
-        <translation type="obsolete">Размер на иконите</translation>
-    </message>
-    <message>
-        <source>Tool button style</source>
-        <translation type="obsolete">Стил на бутоните</translation>
-    </message>
-</context>
-<context>
     <name>qutim_sdk_0_3::ActionToolBarPrivate</name>
     <message>
         <location filename="../../qutim-meta/core/libqutim/actiontoolbar.cpp" line="+31"/>
@@ -3971,30 +2957,10 @@ en</source>
 <context>
     <name>qutim_sdk_0_3::ModuleManager</name>
     <message>
-        <source>Library: %1</source>
-        <translation type="obsolete">Библиотека: %1</translation>
-    </message>
-    <message>
-        <source>Plugin: %1</source>
-        <translation type="obsolete">Добавка: %1</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+224"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Неуспешно зареждане на добавка: 
- %1</translation>
-    </message>
-    <message>
-        <source>Loaded plugin: 
- %1</source>
-        <translation type="obsolete">Заредена добавка: 
- %1</translation>
-    </message>
-    <message>
-        <source>Inited plugin: 
- %1</source>
-        <translation type="obsolete">Инициализирана добавка: 
  %1</translation>
     </message>
     <message>

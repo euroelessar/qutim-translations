@@ -17,10 +17,6 @@
         <translation>Многократно изпращане</translation>
     </message>
     <message>
-        <source>Items</source>
-        <translation type="obsolete">Списък</translation>
-    </message>
-    <message>
         <location line="+60"/>
         <source>Message</source>
         <translation>Съобщение</translation>
@@ -72,36 +68,9 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;В ход...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <source>Actions</source>
-        <translation type="obsolete">Действия</translation>
-    </message>
-    <message>
-        <source>Stop</source>
-        <translation type="obsolete">Спиране</translation>
-    </message>
-    <message>
         <location line="+59"/>
         <source>Send</source>
         <translation>Изпращане</translation>
-    </message>
-</context>
-<context>
-    <name>Manager</name>
-    <message>
-        <source>Accounts</source>
-        <translation type="obsolete">Сметки</translation>
-    </message>
-    <message>
-        <source>Unknown</source>
-        <translation type="obsolete">Неизвестен</translation>
-    </message>
-    <message>
-        <source>Error: message is empty</source>
-        <translation type="obsolete">Грешка: съобщението е празно</translation>
-    </message>
-    <message>
-        <source>Error: unknown account : %1</source>
-        <translation type="obsolete">Грешка: неизвестна сметка : %1</translation>
     </message>
 </context>
 <context>
@@ -148,48 +117,6 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Start</source>
         <translation>Начало</translation>
-    </message>
-</context>
-<context>
-    <name>Messaging</name>
-    <message>
-        <source>Multiply Sending</source>
-        <translation type="obsolete">Многократно изпращане</translation>
-    </message>
-</context>
-<context>
-    <name>MessagingDialog</name>
-    <message>
-        <source>Actions</source>
-        <translation type="obsolete">Действия</translation>
-    </message>
-    <message>
-        <source>Load buddy list</source>
-        <translation type="obsolete">Зареждане на списък с контакти</translation>
-    </message>
-    <message>
-        <source>Save buddy list</source>
-        <translation type="obsolete">Съхраняване на списъка с контакти</translation>
-    </message>
-    <message>
-        <source>Multiply sending: all jobs finished</source>
-        <translation type="obsolete">Многократно изпращане: всички задачи са приключени</translation>
-    </message>
-    <message>
-        <source>Load custom buddy list</source>
-        <translation type="obsolete">Зареждане на личен списък с контакти</translation>
-    </message>
-    <message>
-        <source>Sending message to %1: %v/%m</source>
-        <translation type="obsolete">Изпращане на съобщение до %1: %v/%m</translation>
-    </message>
-    <message>
-        <source>Sending message to %1</source>
-        <translation type="obsolete">Изпращане на съобщение до %1</translation>
-    </message>
-    <message>
-        <source>Sending message to %1 (%2/%3), time remains: %4</source>
-        <translation type="obsolete">Изпращане на съобщение до %1 (%2/%3), оставащо време: %4</translation>
     </message>
 </context>
 <context>
