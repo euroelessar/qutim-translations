@@ -241,7 +241,7 @@
 <context>
     <name>VConnection</name>
     <message>
-        <location filename="../../qutim-meta/protocols/vkontakte/src/vconnection.cpp" line="+89"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vconnection.cpp" line="+90"/>
         <source>qutIM - VKontakte authorization</source>
         <translation>qutIM -ВКонтакте удостоверяване</translation>
     </message>
