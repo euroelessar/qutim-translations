@@ -518,7 +518,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+841"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+842"/>
         <source>Remove contact</source>
         <translation>Удалить контакт</translation>
     </message>
@@ -875,6 +875,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::AdiumChat::SessionListWidget</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp" line="+27"/>
+        <source>Close chat</source>
+        <translation type="unfinished">Закрыть чат</translation>
+    </message>
+</context>
+<context>
     <name>Core::AdiumChat::StackedChatBehavior</name>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/stackedchatform/settings/stackedchatbehavior.cpp" line="+18"/>
@@ -924,6 +932,24 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Close</source>
         <translation type="obsolete">Закрыть</translation>
+    </message>
+</context>
+<context>
+    <name>Core::AdiumChat::Symbian::StackedChatWidget</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/symbianchatform/stackedchatwidget.cpp" line="+38"/>
+        <source>Send to</source>
+        <translation type="unfinished">Отправить в</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Actions</source>
+        <translation type="unfinished">Действия</translation>
+    </message>
+    <message>
+        <location line="+96"/>
+        <source>Send</source>
+        <translation type="unfinished">Отправить</translation>
     </message>
 </context>
 <context>
@@ -1669,7 +1695,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+43"/>
-        <location line="+243"/>
+        <location line="+245"/>
         <source>Set Status Text</source>
         <translation>Установить текст статуса</translation>
     </message>
@@ -1698,7 +1724,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleTagsEditor</name>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodel/simpletagseditor/simpletagseditor.cpp" line="+16"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodel/simpletagseditor/simpletagseditor.cpp" line="+17"/>
         <source>Edit tags for %1</source>
         <translation>Изменить метки для %1</translation>
     </message>
@@ -2819,6 +2845,16 @@ p, li { white-space: pre-wrap; }
         <source>Activates the session when certain events</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/symbianchatformplugin.cpp" line="+11"/>
+        <source>Symbian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Stacked chatform for S60 devices</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProfileCreationPage</name>
@@ -3191,6 +3227,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/stackedchatform/stackedchatform.cpp" line="-4"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/symbianchatform/stackedchatform.cpp" line="+23"/>
         <location filename="../../qutim/src/corelayers/adiumchat/tabbedchatform/tabbedchatform.cpp" line="-4"/>
         <location filename="../../qutim/src/corelayers/adiumchat/webkitchat/webkitviewfactory.cpp" line="+18"/>
         <source>Chat</source>
@@ -3380,7 +3417,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>SimpleTagsEditor</name>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodel/simpletagseditor/simpletagseditor.ui" line="+39"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodel/simpletagseditor/simpletagseditor.ui" line="+46"/>
         <source>Add</source>
         <translation>Добавить</translation>
     </message>
@@ -3420,6 +3457,7 @@ p, li { white-space: pre-wrap; }
     <name>StackedChatBehavior</name>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/stackedchatform/settings/stackedchatbehavior.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/symbianchatform/settings/stackedchatbehavior.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -3430,11 +3468,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+8"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/symbianchatform/settings/stackedchatbehavior.ui" line="+42"/>
         <source>Store service messages in history</source>
         <translation>Хранить служебные сообщения в истории</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/symbianchatform/settings/stackedchatbehavior.ui" line="+7"/>
         <source>Number of previous messages shown in new chats</source>
         <translation variants="yes">
             <lengthvariant>Кол-во сообщений в новом чате из прошлого диалога</lengthvariant>
@@ -3443,11 +3483,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+3"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/symbianchatform/settings/stackedchatbehavior.ui" line="+3"/>
         <source>Number of shown previous messages:</source>
         <translation>Количество предыдущих сообщений:</translation>
     </message>
     <message>
         <location line="+10"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/symbianchatform/settings/stackedchatbehavior.ui" line="+10"/>
         <source>Don&apos;t group messages after (sec):</source>
         <translation>Не группировать сообщения после (сек):</translation>
     </message>
