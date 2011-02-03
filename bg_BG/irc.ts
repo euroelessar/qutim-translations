@@ -628,7 +628,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircconnection.cpp" line="+160"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircconnection.cpp" line="+171"/>
         <source>Kick / Ban</source>
         <translation>Изритване/Забрана</translation>
     </message>
@@ -753,7 +753,7 @@
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
     </message>
     <message>
-        <location line="+117"/>
+        <location line="+116"/>
         <source>Message of the day:</source>
         <translation>Съобщение за деня:</translation>
     </message>
@@ -763,11 +763,11 @@
         <translation>Край на съобщението за деня</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>Start of /LIST</source>
-        <translation type="obsolete">Начало на /LIST</translation>
+        <translation type="unfinished">Начало на /LIST</translation>
     </message>
     <message>
-        <location line="+7"/>
         <location line="+18"/>
         <source>End of /LIST</source>
         <translation>Край на /LIST</translation>
@@ -785,13 +785,13 @@ Please wait a while and try again.</source>
 Моля, изчакайте малко и опитайте отново.</translation>
     </message>
     <message>
+        <location line="+11"/>
         <source>%1 set away message &quot;%2&quot;</source>
-        <translation type="obsolete">%1 зададе съобщение при отсъствие: &quot;%2&quot;</translation>
+        <translation type="unfinished">%1 зададе съобщение при отсъствие: &quot;%2&quot;</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>%1 set away message %2</source>
-        <translation>%1 зададе съобщение при отсъствие: %2</translation>
+        <translation type="obsolete">%1 зададе съобщение при отсъствие: %2</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -799,7 +799,7 @@ Please wait a while and try again.</source>
         <translation>%1 премахна съобщението при отсъствие</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+3"/>
         <source>You are no longer marked as being away</source>
         <translation>Вече не сте отбелязан(а) като отсъстващ(а)</translation>
     </message>
@@ -809,39 +809,47 @@ Please wait a while and try again.</source>
         <translation>Отбелязан(а) сте като отсъстващ(а)</translation>
     </message>
     <message>
+        <location line="+6"/>
         <source>%1 is %2@%3 (%4)</source>
-        <translation type="obsolete">%1 е %2@%3 (%4)</translation>
+        <translation type="unfinished">%1 е %2@%3 (%4)</translation>
     </message>
     <message>
+        <location line="+13"/>
         <source>%1 is online via %2 (%3)</source>
-        <translation type="obsolete">%1 е на линия през %2 (%3)</translation>
+        <translation type="unfinished">%1 е на линия през %2 (%3)</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>%1 is an IRC operator</source>
-        <translation type="obsolete">%1 е IRC оператор</translation>
+        <translation type="unfinished">%1 е IRC оператор</translation>
     </message>
     <message>
+        <location line="+10"/>
         <source>%1 has been idle since</source>
-        <translation type="obsolete">%1 бездейства от</translation>
+        <translation type="unfinished">%1 бездейства от</translation>
     </message>
     <message>
+        <location line="+6"/>
         <source>%1 has been online since</source>
-        <translation type="obsolete">%1 е бил(а) на линия от</translation>
+        <translation type="unfinished">%1 е бил(а) на линия от</translation>
     </message>
     <message>
+        <location line="+8"/>
         <source>%1 is a user on channels: </source>
-        <translation type="obsolete">%1 е потребител в следните канали: </translation>
+        <translation type="unfinished">%1 е потребител в следните канали: </translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>%1 is logged in as %2</source>
-        <translation type="obsolete">%1 се е вписал като %2</translation>
+        <translation type="unfinished">%1 се е вписал като %2</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>%1 is using a secure connection</source>
-        <translation type="obsolete">%1 използва защитена връзка</translation>
+        <translation type="unfinished">%1 използва защитена връзка</translation>
     </message>
     <message numerus="yes">
-        <location line="+41"/>
+        <location line="+42"/>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
         <translation>
             <numerusform>Получен CTCP-PING отговор от %1: %2 секунда</numerusform>
@@ -854,7 +862,7 @@ Please wait a while and try again.</source>
         <translation>Получен CTCP-%1 отговор от %2: %3</translation>
     </message>
     <message>
-        <location line="+153"/>
+        <location line="+180"/>
         <source>Add at least one server before connecting</source>
         <translation>Добавeте поне един сървър преди да се свържете</translation>
     </message>
@@ -869,7 +877,7 @@ Please wait a while and try again.</source>
         <translation>Невъзможно е свързването към мрежата %1</translation>
     </message>
     <message>
-        <location line="+148"/>
+        <location line="+184"/>
         <source>Network error: %1</source>
         <translation>Мрежова грешка: %1</translation>
     </message>

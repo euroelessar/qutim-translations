@@ -179,7 +179,7 @@
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+204"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+205"/>
         <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="+3"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
@@ -514,7 +514,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="+165"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="+156"/>
         <source>Add to visible list</source>
         <translation>Добавяне в списък &quot;Видим за&quot;</translation>
     </message>
@@ -2694,15 +2694,14 @@
 <context>
     <name>MetaController</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="+14"/>
         <source>Additional</source>
-        <translation>Допълнителни</translation>
+        <translation type="obsolete">Допълнителни</translation>
     </message>
 </context>
 <context>
     <name>MetaInfo</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/metainfo/metafields.cpp" line="+13"/>
+        <location line="+13"/>
         <source>Nick</source>
         <translation>Псевдоним</translation>
     </message>
@@ -3257,7 +3256,7 @@
 <context>
     <name>Privacy</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="-91"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="-60"/>
         <source>Visible for all</source>
         <translation>Видим за всички</translation>
     </message>
@@ -3287,17 +3286,15 @@
         <translation>Неизвестно уединение</translation>
     </message>
     <message>
-        <location line="+67"/>
         <source>Visible mode:</source>
-        <translation>Режим на видимост:</translation>
+        <translation type="obsolete">Режим на видимост:</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Invisible mode:</source>
-        <translation>Режим на невидимост:</translation>
+        <translation type="obsolete">Режим на невидимост:</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+55"/>
         <source>Privacy status</source>
         <translation>Статус на уединение</translation>
     </message>
@@ -3451,7 +3448,7 @@
         <translation>Зает</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+21"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+22"/>
         <source>Angry</source>
         <translation>Бесен</translation>
     </message>
@@ -3476,7 +3473,7 @@
         <translation>Хапващ</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+7"/>
         <source>Custom status</source>
         <translation>Собствен статус</translation>
     </message>
@@ -3529,7 +3526,7 @@
     <message>
         <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="-5"/>
         <location line="+3"/>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-43"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-45"/>
         <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="-42"/>
         <location line="+3"/>
         <source>Author</source>
@@ -3787,7 +3784,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::IcqMainSettings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/ui/icqmainsettings.cpp" line="+101"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/ui/icqmainsettings.cpp" line="+103"/>
         <source>Codec</source>
         <translation>Кодировка</translation>
     </message>
@@ -3816,7 +3813,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::PrivacyLists</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="+110"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="+104"/>
         <source>Show &quot;visible&quot; icon if contact in visible list</source>
         <translation>Показване на икона за &quot;видим&quot; ако контакта е в списък &quot;Видим за&quot;</translation>
     </message>
@@ -3834,7 +3831,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+250"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+257"/>
         <source>X-Status</source>
         <translation>Разширен статус</translation>
     </message>
@@ -3860,17 +3857,15 @@
         <translation>Собствен статус</translation>
     </message>
     <message>
-        <location line="+79"/>
         <source>Choose</source>
-        <translation>Избиране</translation>
+        <translation type="obsolete">Избиране</translation>
     </message>
     <message>
-        <location line="+11"/>
         <source>Cancel</source>
-        <translation>Отказ</translation>
+        <translation type="obsolete">Отказ</translation>
     </message>
     <message>
-        <location line="+17"/>
+        <location line="+85"/>
         <source>Set birthday/happy flag</source>
         <translation>Установяване на флага за рожден/празничен ден</translation>
     </message>
