@@ -768,7 +768,7 @@
     <message>
         <location line="+38"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Затваряне</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -982,7 +982,7 @@
     <message>
         <location line="+26"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Затваряне</translation>
     </message>
 </context>
 <context>
