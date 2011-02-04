@@ -5263,4 +5263,8 @@ Accept invitation?</source>
     <source>Take voice</source>
     <target>Забрать голос</target>
 </phrase>
+<phrase>
+    <source>Unavailable</source>
+    <target>Недоступный</target>
+</phrase>
 </QPH>
