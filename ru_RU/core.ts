@@ -393,8 +393,8 @@ p, li { white-space: pre-wrap; }
         <translation>Очистить чат</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/stackedchatform/stackedchatform.cpp" line="+24"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/tabbedchatform/tabbedchatform.cpp" line="+24"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatform.cpp" line="+24"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatform.cpp" line="+24"/>
         <source>Open session list</source>
         <translation>Открыть список сеансов</translation>
     </message>
@@ -408,7 +408,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+466"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+465"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
@@ -452,7 +452,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-162"/>
-        <location filename="../../qutim/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+74"/>
+        <location filename="../../qutim/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+93"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>Информация о %1 &lt;%2&gt;</translation>
     </message>
@@ -494,7 +494,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+106"/>
-        <location filename="../../qutim/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+175"/>
+        <location filename="../../qutim/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-92"/>
         <source>Show information</source>
         <translation>Показать информацию</translation>
     </message>
@@ -513,6 +513,12 @@ p, li { white-space: pre-wrap; }
         <location line="+4"/>
         <source>Send authorizarion request to %1:</source>
         <translation>Отправить запрос авторизации %1:</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+3"/>
+        <location line="+210"/>
+        <source>Information unavailable</source>
+        <translation type="unfinished">Информация недоступна</translation>
     </message>
 </context>
 <context>
@@ -765,7 +771,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ChatAppearance</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/webkitchat/settings/chatappearance.cpp" line="+46"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+46"/>
         <source>Vasya Pupkin</source>
         <translation>Вася Пупкин</translation>
     </message>
@@ -858,7 +864,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ChatFont</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/webkitchat/settings/chatvariable.cpp" line="+18"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatvariable.cpp" line="+18"/>
         <source>Change</source>
         <translation>Изменить</translation>
     </message>
@@ -875,6 +881,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::AdiumChat::ConferenceContactsView</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="+26"/>
+        <source>Private</source>
+        <translation type="unfinished">Приват</translation>
+    </message>
+</context>
+<context>
     <name>Core::AdiumChat::SessionListWidget</name>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp" line="+27"/>
@@ -885,7 +899,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::StackedChatBehavior</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/stackedchatform/settings/stackedchatbehavior.cpp" line="+18"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.cpp" line="+18"/>
         <source>Ctrl+Enter</source>
         <translation>Ctrl+Enter</translation>
     </message>
@@ -903,7 +917,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::StackedChatWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/stackedchatform/stackedchatwidget.cpp" line="+54"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatwidget.cpp" line="+54"/>
         <source>Chat Actions</source>
         <translation>Действия чата</translation>
     </message>
@@ -937,7 +951,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::Symbian::StackedChatWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/symbianchatform/stackedchatwidget.cpp" line="+38"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatwidget.cpp" line="+37"/>
         <source>Send to</source>
         <translation type="unfinished">Отправить в</translation>
     </message>
@@ -947,7 +961,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Действия</translation>
     </message>
     <message>
-        <location line="+96"/>
+        <location line="+64"/>
         <source>Send</source>
         <translation type="unfinished">Отправить</translation>
     </message>
@@ -955,7 +969,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::TabbedChatBehavior</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/tabbedchatform/settings/tabbedchatbehavior.cpp" line="+18"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp" line="+18"/>
         <source>Ctrl+Enter</source>
         <translation>Ctrl+Enter</translation>
     </message>
@@ -993,7 +1007,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::TabbedChatWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/tabbedchatform/tabbedchatwidget.cpp" line="+46"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="+46"/>
         <source>Chat Actions</source>
         <translation>Действия чата</translation>
     </message>
@@ -1135,31 +1149,36 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::HistoryWindow</name>
     <message>
-        <location filename="../../qutim/src/corelayers/jsonhistory/historywindow.cpp" line="+41"/>
-        <location line="+63"/>
+        <location filename="../../qutim/src/corelayers/jsonhistory/historywindow.cpp" line="+42"/>
+        <location line="+68"/>
         <source>No History</source>
         <translation>Нет истории</translation>
     </message>
     <message>
-        <location line="-62"/>
-        <location line="+435"/>
+        <location line="-67"/>
+        <location line="+440"/>
         <source>In: %L1</source>
         <translation>Пришло: %L1</translation>
     </message>
     <message>
-        <location line="-434"/>
-        <location line="+435"/>
+        <location line="-439"/>
+        <location line="+440"/>
         <source>Out: %L1</source>
         <translation>Ушло: %L1</translation>
     </message>
     <message>
-        <location line="-434"/>
-        <location line="+435"/>
+        <location line="-439"/>
+        <location line="+440"/>
         <source>All: %L1</source>
         <translation>Всего: %L1</translation>
     </message>
     <message>
-        <location line="-93"/>
+        <location line="-400"/>
+        <source>Close</source>
+        <translation type="unfinished">Закрыть</translation>
+    </message>
+    <message>
+        <location line="+307"/>
         <source>Service message</source>
         <translation>Сервисное сообщение</translation>
     </message>
@@ -1258,7 +1277,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::MobileContactInfoWindow</name>
     <message>
-        <location filename="../../qutim/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-241"/>
+        <location filename="../../qutim/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-185"/>
         <source>Request details</source>
         <translation>Запросить детали</translation>
     </message>
@@ -1268,7 +1287,7 @@ p, li { white-space: pre-wrap; }
         <translation>Сохранить</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+5"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
@@ -1286,7 +1305,7 @@ p, li { white-space: pre-wrap; }
         <translation>Закрыть</translation>
     </message>
     <message>
-        <location line="+105"/>
+        <location line="+109"/>
         <location line="+31"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки qutIM - %1</translation>
@@ -1695,12 +1714,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+43"/>
-        <location line="+245"/>
+        <location line="+247"/>
         <source>Set Status Text</source>
         <translation>Установить текст статуса</translation>
     </message>
     <message>
-        <location line="-25"/>
+        <location line="-27"/>
         <source>Select tags</source>
         <translation>Выбрать метки</translation>
     </message>
@@ -1956,7 +1975,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Enter</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+58"/>
+        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+59"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
@@ -1966,7 +1985,7 @@ p, li { white-space: pre-wrap; }
         <translation>Назад</translation>
     </message>
     <message>
-        <location line="+70"/>
+        <location line="+78"/>
         <source>Bookmarks</source>
         <translation>Закладки</translation>
     </message>
@@ -2342,7 +2361,8 @@ p, li { white-space: pre-wrap; }
         <translation>Модуль чата WebKit</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/webkitchatplugin.cpp" line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="+1"/>
         <location filename="../../qutim/src/corelayers/adiumchat/webkitchatplugin.cpp" line="+12"/>
         <source>Default qutIM chat implementation, based on Adium chat styles</source>
         <translation>Модуль чата qutIM по умолчанию, основан на WebKit и темах чата для adium</translation>
@@ -2368,7 +2388,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Модуль чата AdiumChat</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="+4"/>
         <source>Time modifier</source>
         <translatorcomment>Аяхз как перевести по другому, ну не модификатор времени же? // беру слова обратно, как бы короче сделать?</translatorcomment>
         <translation>Изменение параметров отображения времени</translation>
@@ -2575,6 +2595,7 @@ p, li { white-space: pre-wrap; }
         <translation>Правка звуковых тем qutIM</translation>
     </message>
     <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/webkitchatplugin.cpp" line="-1"/>
         <location filename="../../qutim/src/corelayers/adiumchat/webkitchatplugin.cpp" line="-1"/>
         <source>Adium</source>
         <translation>Adium-подобная форма чата</translation>
@@ -2584,22 +2605,26 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Реализация формы чата похожая на Adium&apos;овскую реализацию</translation>
     </message>
     <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatformplugin.cpp" line="+11"/>
         <location filename="../../qutim/src/corelayers/adiumchat/tabbedchatformplugin.cpp" line="+11"/>
         <source>Classic</source>
         <translation>Классическая форма чата</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/tabbedchatformplugin.cpp" line="+1"/>
         <source>Default qutIM chatform implementation for adiumchat</source>
         <translation>Реализация формы чата (по умолчанию)</translation>
     </message>
     <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatformplugin.cpp" line="+11"/>
         <location filename="../../qutim/src/corelayers/adiumchat/stackedchatformplugin.cpp" line="+11"/>
         <source>Mobile</source>
         <translation></translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/stackedchatformplugin.cpp" line="+1"/>
         <source>Stacked chatform for mobile devices</source>
         <translation>Форма чата, для мобильных устройств</translation>
     </message>
@@ -2826,12 +2851,14 @@ p, li { white-space: pre-wrap; }
         <translation>Хранение локально списка контактов</translation>
     </message>
     <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/textchat/textchatplugin.cpp" line="+11"/>
         <location filename="../../qutim/src/corelayers/adiumchat/textchatplugin.cpp" line="+11"/>
         <source>Text view</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/textchatplugin.cpp" line="+1"/>
         <source>Fast and light chat view</source>
         <translation>Быстрый и легкий вид чата</translation>
     </message>
@@ -2846,12 +2873,14 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Активация сессии по событию</translation>
     </message>
     <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/symbianchatform/symbianchatformplugin.cpp" line="+11"/>
         <location filename="../../qutim/src/corelayers/adiumchat/symbianchatformplugin.cpp" line="+11"/>
         <source>Symbian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/symbianchatformplugin.cpp" line="+1"/>
         <source>Stacked chatform for S60 devices</source>
         <translation type="unfinished">Окно чата  для S60 устройств</translation>
     </message>
@@ -3226,10 +3255,10 @@ p, li { white-space: pre-wrap; }
         <translation>Звуки</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/stackedchatform/stackedchatform.cpp" line="-4"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/symbianchatform/stackedchatform.cpp" line="+23"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/tabbedchatform/tabbedchatform.cpp" line="-4"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/webkitchat/webkitviewfactory.cpp" line="+18"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/webkitviewfactory.cpp" line="+18"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatform.cpp" line="-4"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatform.cpp" line="+23"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatform.cpp" line="-4"/>
         <source>Chat</source>
         <translation>Чат</translation>
     </message>
@@ -3456,8 +3485,8 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>StackedChatBehavior</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/stackedchatform/settings/stackedchatbehavior.ui" line="+14"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/symbianchatform/settings/stackedchatbehavior.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/symbianchatform/settings/stackedchatbehavior.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -3468,13 +3497,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+8"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/symbianchatform/settings/stackedchatbehavior.ui" line="+42"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/symbianchatform/settings/stackedchatbehavior.ui" line="+42"/>
         <source>Store service messages in history</source>
         <translation>Хранить служебные сообщения в истории</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/symbianchatform/settings/stackedchatbehavior.ui" line="+7"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/symbianchatform/settings/stackedchatbehavior.ui" line="+7"/>
         <source>Number of previous messages shown in new chats</source>
         <translation variants="yes">
             <lengthvariant>Кол-во сообщений в новом чате из прошлого диалога</lengthvariant>
@@ -3483,13 +3512,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/symbianchatform/settings/stackedchatbehavior.ui" line="+3"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/symbianchatform/settings/stackedchatbehavior.ui" line="+3"/>
         <source>Number of shown previous messages:</source>
         <translation>Количество предыдущих сообщений:</translation>
     </message>
     <message>
         <location line="+10"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/symbianchatform/settings/stackedchatbehavior.ui" line="+10"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/symbianchatform/settings/stackedchatbehavior.ui" line="+10"/>
         <source>Don&apos;t group messages after (sec):</source>
         <translation>Не группировать сообщения после (сек):</translation>
     </message>
@@ -3545,7 +3574,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>TabbedChatBehavior</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/tabbedchatform/settings/tabbedchatbehavior.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -3751,7 +3780,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>chatAppearance</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/webkitchat/settings/chatappearance.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -3772,7 +3801,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>kb_Qwerty</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/stackedchatform/kb_qwerty.ui" line="+21"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="+21"/>
         <source>FastSMS</source>
         <translation type="unfinished"></translation>
     </message>

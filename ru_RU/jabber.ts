@@ -790,7 +790,7 @@
 <context>
     <name>Jabber</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+115"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+121"/>
         <source>Xml console</source>
         <translation>Консоль XML</translation>
     </message>
@@ -799,7 +799,7 @@
         <translation type="obsolete">Выполнить команду</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+30"/>
+        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+31"/>
         <source>Service discovery</source>
         <translation>Обзор служб</translation>
     </message>
@@ -1374,7 +1374,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMoodChooser</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="+81"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="+82"/>
         <source>Set mood</source>
         <translation>Указать настроение</translation>
     </message>
@@ -1486,7 +1486,12 @@ Accept invitation?</source>
         <translation>Поиск сервисов</translation>
     </message>
     <message>
-        <location line="+84"/>
+        <location line="+38"/>
+        <source>Close</source>
+        <translation type="unfinished">Закрыть</translation>
+    </message>
+    <message>
+        <location line="+51"/>
         <source>category: </source>
         <translation>Категория: </translation>
     </message>
@@ -1651,7 +1656,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::XmlConsole</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="-68"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="-73"/>
         <source>Filter</source>
         <translation type="unfinished">Фильтр</translation>
     </message>
@@ -1693,12 +1698,17 @@ Accept invitation?</source>
     <message>
         <location line="+4"/>
         <source>Presence</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Присутствие</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Custom</source>
         <translation type="unfinished">Другое</translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Close</source>
+        <translation type="unfinished">Закрыть</translation>
     </message>
 </context>
 <context>

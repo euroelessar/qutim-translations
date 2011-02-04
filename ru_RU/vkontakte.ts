@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+33"/>
+        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+32"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -442,7 +442,7 @@
         <translation>Показать стену</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+77"/>
+        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+83"/>
         <source>Open homepage</source>
         <translatorcomment>Открыть хомяка - так значительно короче, но хомячки (сорь за тафтологию) не поймут^_^&apos;</translatorcomment>
         <translation>Открыть домашнюю страничку</translation>
@@ -453,7 +453,7 @@
         <translation>Просмотреть фотоальбом</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+24"/>
+        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+22"/>
         <source>Account settings</source>
         <translation>Настройки учетной записи</translation>
     </message>
@@ -461,7 +461,7 @@
 <context>
     <name>VkontakteProtocol</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+27"/>
+        <location line="+8"/>
         <source>id</source>
         <translation></translation>
     </message>
