@@ -385,12 +385,12 @@
 <context>
     <name>Jabber</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+115"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+121"/>
         <source>Xml console</source>
         <translation>XML конзола</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+30"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+31"/>
         <source>Service discovery</source>
         <translation>Откриване на услуги</translation>
     </message>
@@ -674,7 +674,7 @@
 <context>
     <name>Jabber::JMoodChooser</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="+81"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="+82"/>
         <source>Set mood</source>
         <translation>Задаване на настроение</translation>
     </message>
@@ -766,7 +766,12 @@
         <translation>Търсене на услуги</translation>
     </message>
     <message>
-        <location line="+84"/>
+        <location line="+38"/>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+51"/>
         <source>category: </source>
         <translation>категория: </translation>
     </message>
@@ -925,7 +930,7 @@
 <context>
     <name>Jabber::XmlConsole</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="-68"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="-73"/>
         <source>Filter</source>
         <translation>Филтър</translation>
     </message>
@@ -973,6 +978,11 @@
         <location line="+4"/>
         <source>Custom</source>
         <translation>Собствени</translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

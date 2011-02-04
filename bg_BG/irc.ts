@@ -765,7 +765,7 @@
     <message>
         <location line="+7"/>
         <source>Start of /LIST</source>
-        <translation>Начало на /LIST</translation>
+        <translation type="unfinished">Начало на /LIST</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -787,7 +787,7 @@ Please wait a while and try again.</source>
     <message>
         <location line="+11"/>
         <source>%1 set away message &quot;%2&quot;</source>
-        <translation>%1 зададе съобщение при отсъствие: &quot;%2&quot;</translation>
+        <translation type="unfinished">%1 зададе съобщение при отсъствие: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>%1 set away message %2</source>
@@ -811,42 +811,42 @@ Please wait a while and try again.</source>
     <message>
         <location line="+6"/>
         <source>%1 is %2@%3 (%4)</source>
-        <translation>%1 е %2@%3 (%4)</translation>
+        <translation type="unfinished">%1 е %2@%3 (%4)</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>%1 is online via %2 (%3)</source>
-        <translation>%1 е на линия през %2 (%3)</translation>
+        <translation type="unfinished">%1 е на линия през %2 (%3)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>%1 is an IRC operator</source>
-        <translation>%1 е IRC оператор</translation>
+        <translation type="unfinished">%1 е IRC оператор</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>%1 has been idle since</source>
-        <translation>%1 бездейства от</translation>
+        <translation type="unfinished">%1 бездейства от</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>%1 has been online since</source>
-        <translation>%1 е бил(а) на линия от</translation>
+        <translation type="unfinished">%1 е бил(а) на линия от</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>%1 is a user on channels: </source>
-        <translation>%1 е потребител в следните канали: </translation>
+        <translation type="unfinished">%1 е потребител в следните канали: </translation>
     </message>
     <message>
         <location line="+7"/>
         <source>%1 is logged in as %2</source>
-        <translation>%1 се е вписал като %2</translation>
+        <translation type="unfinished">%1 се е вписал като %2</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 is using a secure connection</source>
-        <translation>%1 използва защитена връзка</translation>
+        <translation type="unfinished">%1 използва защитена връзка</translation>
     </message>
     <message numerus="yes">
         <location line="+42"/>
