@@ -102,282 +102,282 @@
     <message>
         <location line="+5"/>
         <source>Big5</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Big5-HKSCS</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>EUC-JP</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>EUC-KR</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>GB18030-0</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>IBM 850</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>IBM 866</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>IBM 874</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>ISO 2022-JP</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>ISO 8859-1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>ISO 8859-2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>ISO 8859-3</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>ISO 8859-4</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>ISO 8859-5</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>ISO 8859-6</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>ISO 8859-7</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>ISO 8859-8</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>ISO 8859-9</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>ISO 8859-10</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>ISO 8859-13</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>ISO 8859-14</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>ISO 8859-15</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>ISO 8859-16</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Iscii-Bng</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Iscii-Dev</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Iscii-Gjr</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Iscii-Knd</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Iscii-Mlm</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Iscii-Ori</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Iscii-Pnj</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Iscii-Tlg</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Iscii-Tml</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>JIS X 0201</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>JIS X 0208</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>KOI8-R</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>KOI8-U</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>MuleLao-1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>ROMAN8</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Shift-JIS</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>TIS-620</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>TSCII</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>UTF-8</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>UTF-16</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>UTF-16BE</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>UTF-16LE</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Windows-1250</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Windows-1251</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Windows-1252</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Windows-1253</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Windows-1254</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Windows-1255</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Windows-1256</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Windows-1257</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Windows-1258</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>WINSAMI2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Password:</source>
-        <translation type="unfinished">Пароль:</translation>
+        <translation>Пароль:</translation>
     </message>
 </context>
 <context>
@@ -701,7 +701,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+160"/>
+        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+171"/>
         <source>Kick / Ban</source>
         <translation>Кик / Бан</translation>
     </message>
@@ -713,7 +713,7 @@
     <message>
         <location line="+5"/>
         <source>Kickban</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Кикбан</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -723,47 +723,47 @@
     <message>
         <location line="+5"/>
         <source>Ban *!*@*.host</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Бан *!*@*.host</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ban *!*@domain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Бан *!*@domain</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ban *!user@*.host</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Бан *!user@*.host</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ban *!user@domain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Бан *!user@domain</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Kickban *!*@*.host</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Кикбан *!*@*.host</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Kickban *!*@domain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Кикбан *!*@domain</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Kickban *!user@*.host</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Кикбан *!user@*.host</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Kickban *!user@domain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Кикбан*!user@domain</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Ping</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пинг</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -773,7 +773,7 @@
     <message>
         <location line="+8"/>
         <source>Request version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Запросить версиб</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -826,7 +826,7 @@
         <translation>Сервер %1 (Версия %2), Режимы пользователей: %3, Режимы каналов: %4</translation>
     </message>
     <message>
-        <location line="+117"/>
+        <location line="+116"/>
         <source>Message of the day:</source>
         <translation>Сообщение дня:</translation>
     </message>
@@ -837,6 +837,10 @@
     </message>
     <message>
         <location line="+7"/>
+        <source>Start of /LIST</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location line="+18"/>
         <source>End of /LIST</source>
         <translation>Конец /LIST</translation>
@@ -854,9 +858,13 @@ Please wait a while and try again.</source>
 Повторите попытку чуть позже.</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+11"/>
+        <source>%1 set away message &quot;%2&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 set away message %2</source>
-        <translation type="unfinished">%1 установил сообщение отсутствия %2</translation>
+        <translation type="obsolete">%1 установил сообщение отсутствия %2</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -864,7 +872,7 @@ Please wait a while and try again.</source>
         <translation type="unfinished">%1 удалил сообщение отстутствия</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+3"/>
         <source>You are no longer marked as being away</source>
         <translation type="unfinished">Вы более не &quot;отсутствуете&quot;</translation>
     </message>
@@ -873,8 +881,48 @@ Please wait a while and try again.</source>
         <source>You have been marked as being away</source>
         <translation type="unfinished">Теперь вы &quot;отсутствуете&quot;</translation>
     </message>
+    <message>
+        <location line="+6"/>
+        <source>%1 is %2@%3 (%4)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>%1 is online via %2 (%3)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>%1 is an IRC operator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>%1 has been idle since</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>%1 has been online since</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>%1 is a user on channels: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>%1 is logged in as %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>%1 is using a secure connection</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message numerus="yes">
-        <location line="+41"/>
+        <location line="+42"/>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
         <translatorcomment>причём тут %n который хочет linguist ?</translatorcomment>
         <translation>
@@ -889,7 +937,7 @@ Please wait a while and try again.</source>
         <translation>Принят CTPC-%1 ответ  от %2: %3</translation>
     </message>
     <message>
-        <location line="+153"/>
+        <location line="+180"/>
         <source>Add at least one server before connecting</source>
         <translation type="unfinished">Необходимо добавить хотя бы один сервер перед подключением</translation>
     </message>
@@ -904,7 +952,7 @@ Please wait a while and try again.</source>
         <translation type="unfinished">Не удалось полклюиться к сети %1</translation>
     </message>
     <message>
-        <location line="+148"/>
+        <location line="+184"/>
         <source>Network error: %1</source>
         <translation type="unfinished">Ошибка сети: %1</translation>
     </message>

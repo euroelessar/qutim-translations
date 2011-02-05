@@ -324,7 +324,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-162"/>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+74"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+93"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>Информация за %1 &lt;%2&gt;</translation>
     </message>
@@ -358,7 +358,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+106"/>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+175"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-92"/>
         <source>Show information</source>
         <translation>Показване на информация</translation>
     </message>
@@ -377,6 +377,12 @@ p, li { white-space: pre-wrap; }
         <location line="+4"/>
         <source>Send authorizarion request to %1:</source>
         <translation>Заявка за удостоверяване от %1:</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+3"/>
+        <location line="+210"/>
+        <source>Information unavailable</source>
+        <translation>Не е достъпна информация</translation>
     </message>
 </context>
 <context>
@@ -643,6 +649,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::AdiumChat::ConferenceContactsView</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="+26"/>
+        <source>Private</source>
+        <translation>Личен разговор</translation>
+    </message>
+</context>
+<context>
     <name>Core::AdiumChat::SessionListWidget</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp" line="+27"/>
@@ -791,31 +805,36 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::HistoryWindow</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/jsonhistory/historywindow.cpp" line="+41"/>
-        <location line="+63"/>
+        <location filename="../../qutim-meta/core/src/corelayers/jsonhistory/historywindow.cpp" line="+42"/>
+        <location line="+68"/>
         <source>No History</source>
         <translation>Няма хронология</translation>
     </message>
     <message>
-        <location line="-62"/>
-        <location line="+435"/>
+        <location line="-67"/>
+        <location line="+440"/>
         <source>In: %L1</source>
         <translation>Входящи: %L1</translation>
     </message>
     <message>
-        <location line="-434"/>
-        <location line="+435"/>
+        <location line="-439"/>
+        <location line="+440"/>
         <source>Out: %L1</source>
         <translation>Изходящи: %L1</translation>
     </message>
     <message>
-        <location line="-434"/>
-        <location line="+435"/>
+        <location line="-439"/>
+        <location line="+440"/>
         <source>All: %L1</source>
         <translation>Общо: %L1</translation>
     </message>
     <message>
-        <location line="-93"/>
+        <location line="-400"/>
+        <source>Close</source>
+        <translation>Затваряне</translation>
+    </message>
+    <message>
+        <location line="+307"/>
         <source>Service message</source>
         <translation>Служебно съобщение</translation>
     </message>
@@ -910,7 +929,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::MobileContactInfoWindow</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-241"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-185"/>
         <source>Request details</source>
         <translation>Заявка за подробности</translation>
     </message>
@@ -920,7 +939,7 @@ p, li { white-space: pre-wrap; }
         <translation>Запис</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+5"/>
         <source>Close</source>
         <translation>Затваряне</translation>
     </message>
@@ -1237,12 +1256,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+43"/>
-        <location line="+245"/>
+        <location line="+247"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
     <message>
-        <location line="-25"/>
+        <location line="-27"/>
         <source>Select tags</source>
         <translation>Избор на етикети</translation>
     </message>
@@ -1453,7 +1472,7 @@ p, li { white-space: pre-wrap; }
         <translation>Запис в отметките</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+58"/>
+        <location filename="../../qutim-meta/core/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+59"/>
         <source>Close</source>
         <translation>Затваряне</translation>
     </message>
@@ -1463,7 +1482,7 @@ p, li { white-space: pre-wrap; }
         <translation>Назад</translation>
     </message>
     <message>
-        <location line="+70"/>
+        <location line="+78"/>
         <source>Bookmarks</source>
         <translation>Отметки</translation>
     </message>

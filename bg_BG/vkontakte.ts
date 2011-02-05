@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="+33"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="+32"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -300,7 +300,7 @@
 <context>
     <name>Vkontakte</name>
     <message>
-        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteprotocol.cpp" line="+77"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteprotocol.cpp" line="+83"/>
         <source>Open homepage</source>
         <translation>Отваряне страницата</translation>
     </message>
@@ -310,7 +310,7 @@
         <translation>Преглед на всички</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="+24"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteprotocol.cpp" line="+22"/>
         <source>Account settings</source>
         <translation>Настройки на сметката</translation>
     </message>
@@ -323,7 +323,7 @@
 <context>
     <name>VkontakteProtocol</name>
     <message>
-        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteprotocol.cpp" line="+27"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteprotocol.cpp" line="+8"/>
         <source>id</source>
         <translation></translation>
     </message>

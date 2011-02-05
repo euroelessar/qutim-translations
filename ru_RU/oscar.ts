@@ -44,12 +44,13 @@
     <message>
         <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+553"/>
         <source>Alumni Org.</source>
+        <translatorcomment>выпускники???</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Charity Org.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Благотворительная орг-я</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -69,17 +70,17 @@
     <message>
         <location line="+1"/>
         <source>Fan Clubs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Фанклуб</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Fraternity/Sorority</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Братство/Женское общество</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Hobbyists Org.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Любители хобби</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -89,7 +90,7 @@
     <message>
         <location line="+1"/>
         <source>Nature and Environment Org.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Природа и окружающая среда</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -129,7 +130,7 @@
     <message>
         <location line="+1"/>
         <source>Union</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Обьединение</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -194,7 +195,7 @@
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+204"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+205"/>
         <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+3"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
@@ -311,7 +312,7 @@
         <location line="+2"/>
         <source>No IP addresses were found for the host</source>
         <translatorcomment>я не виновен, я сам ищу где в кутиме это </translatorcomment>
-        <translation type="unfinished">Не найдено соответствие IP адреса серверу</translation>
+        <translation>Не найдено соответствие IP адреса серверу</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -337,7 +338,7 @@
         <location line="+2"/>
         <source>Reservation link error</source>
         <translatorcomment>Знаю, что ошибку переводить не надо, но пусть побудет чуток. -_-</translatorcomment>
-        <translation type="unfinished">Пипец подкрался незаметно</translation>
+        <translation>Пипец подкрался незаметно</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -576,7 +577,7 @@
         <translation>Зарегистрирован</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+165"/>
+        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+156"/>
         <source>Add to visible list</source>
         <translation>Добавить в список видимости</translation>
     </message>
@@ -2812,15 +2813,14 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MetaController</name>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+14"/>
         <source>Additional</source>
-        <translation>Дополнительно</translation>
+        <translation type="obsolete">Дополнительно</translation>
     </message>
 </context>
 <context>
     <name>MetaInfo</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+13"/>
+        <location line="+13"/>
         <source>Nick</source>
         <translation>Ник</translation>
     </message>
@@ -3445,7 +3445,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Privacy</name>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="-91"/>
+        <location filename="../../protocols/oscar/src/privacylists.cpp" line="-60"/>
         <source>Visible for all</source>
         <translation>Видимый для всех</translation>
     </message>
@@ -3472,21 +3472,19 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+3"/>
         <source>Unknown privacy</source>
-        <translatorcomment>а как, а что?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>покороче бы...</translatorcomment>
+        <translation type="unfinished">Неизвестная конфиденциальность</translation>
     </message>
     <message>
-        <location line="+67"/>
         <source>Visible mode:</source>
-        <translation>Режим видимости:</translation>
+        <translation type="obsolete">Режим видимости:</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Invisible mode:</source>
-        <translation>Режим невидимости:</translation>
+        <translation type="obsolete">Режим невидимости:</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+55"/>
         <source>Privacy status</source>
         <translation>Приватный статус</translation>
     </message>
@@ -3641,7 +3639,7 @@ p, li { white-space: pre-wrap; }
         <translation>Занят</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+21"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+22"/>
         <source>Angry</source>
         <translation>Злой</translation>
     </message>
@@ -3666,7 +3664,7 @@ p, li { white-space: pre-wrap; }
         <translation>Ем</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+7"/>
         <source>Custom status</source>
         <translation>Расширенный статус</translation>
     </message>
@@ -3720,7 +3718,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-5"/>
         <location line="+3"/>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-43"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-45"/>
         <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-42"/>
         <location line="+3"/>
         <source>Author</source>
@@ -3999,7 +3997,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::IcqMainSettings</name>
     <message>
-        <location filename="../../protocols/oscar/src/ui/icqmainsettings.cpp" line="+101"/>
+        <location filename="../../protocols/oscar/src/ui/icqmainsettings.cpp" line="+103"/>
         <source>Codec</source>
         <translation type="unfinished">Кодировка</translation>
     </message>
@@ -4029,7 +4027,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::PrivacyLists</name>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+110"/>
+        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+104"/>
         <source>Show &quot;visible&quot; icon if contact in visible list</source>
         <translation type="unfinished">Показывать пиктограмму &quot;видящего&quot;</translation>
     </message>
@@ -4047,7 +4045,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+250"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+257"/>
         <source>X-Status</source>
         <translation type="unfinished">X-Статус</translation>
     </message>
@@ -4073,17 +4071,15 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Расширенный статус</translation>
     </message>
     <message>
-        <location line="+79"/>
         <source>Choose</source>
-        <translation type="unfinished">Выбрать</translation>
+        <translation type="obsolete">Выбрать</translation>
     </message>
     <message>
-        <location line="+11"/>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation type="obsolete">Отмена</translation>
     </message>
     <message>
-        <location line="+17"/>
+        <location line="+85"/>
         <source>Set birthday/happy flag</source>
         <translatorcomment>да, да, я когда то сидел на квипе, но потом перешел к шарикам миранды</translatorcomment>
         <translation type="unfinished">Шарик День рождения или празную</translation>
