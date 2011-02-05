@@ -92,7 +92,7 @@
     <name>AddContact</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.ui" line="+14"/>
-        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+43"/>
+        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+55"/>
         <source>Add contact</source>
         <translation>Добавяне на контакт</translation>
     </message>
@@ -105,6 +105,21 @@
         <location line="+10"/>
         <source>Name:</source>
         <translation>Име:</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="-35"/>
+        <source>Remove from roster</source>
+        <translation>Премахване от списъка</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Add to roster</source>
+        <translation>Добавяне в списъка </translation>
+    </message>
+    <message>
+        <location line="+42"/>
+        <source>Unavailable</source>
+        <translation>Недостъпен</translation>
     </message>
 </context>
 <context>
@@ -324,7 +339,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-162"/>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+93"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+94"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>Информация за %1 &lt;%2&gt;</translation>
     </message>
@@ -358,7 +373,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+106"/>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-92"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-93"/>
         <source>Show information</source>
         <translation>Показване на информация</translation>
     </message>
@@ -380,7 +395,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+3"/>
-        <location line="+210"/>
+        <location line="+211"/>
         <source>Information unavailable</source>
         <translation>Не е достъпна информация</translation>
     </message>
@@ -438,7 +453,7 @@ p, li { white-space: pre-wrap; }
         <translation>Копиране в клипборда</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+842"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+827"/>
         <source>Remove contact</source>
         <translation>Прeмахване на контакта</translation>
     </message>
@@ -448,7 +463,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавяне в списъка с контакти</translation>
     </message>
     <message>
-        <location line="-759"/>
+        <location line="-750"/>
         <source>Rename contact</source>
         <translation>Преименуване на контакта</translation>
     </message>
@@ -491,7 +506,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactSearch</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/searchdialog/searchdialoglayer.cpp" line="+32"/>
+        <location filename="../../qutim-meta/core/src/corelayers/searchdialog/searchdialoglayer.cpp" line="+33"/>
         <location line="+24"/>
         <source>Search contact</source>
         <translation>Търсене на контакт</translation>
@@ -545,7 +560,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AddContact</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+70"/>
+        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+85"/>
         <source>Start chat</source>
         <translation>Започване на разговор</translation>
     </message>
@@ -641,6 +656,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::AdiumChat::ChatEmoticonsWidget</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/actions/chatemoticonswidget.cpp" line="+40"/>
+        <source>Close</source>
+        <translation>Затваряне</translation>
+    </message>
+</context>
+<context>
     <name>Core::AdiumChat::ChatFont</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatvariable.cpp" line="+18"/>
@@ -651,7 +674,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ConferenceContactsView</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="+26"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="+27"/>
         <source>Private</source>
         <translation>Личен разговор</translation>
     </message>
@@ -659,7 +682,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::SessionListWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp" line="+27"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp" line="+28"/>
         <source>Close chat</source>
         <translation>Затваряне на разговора</translation>
     </message>
@@ -703,7 +726,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::Symbian::StackedChatWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatwidget.cpp" line="+38"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatwidget.cpp" line="+37"/>
         <source>Send to</source>
         <translation>Изпращане до</translation>
     </message>
@@ -713,7 +736,7 @@ p, li { white-space: pre-wrap; }
         <translation>Действия</translation>
     </message>
     <message>
-        <location line="+63"/>
+        <location line="+64"/>
         <source>Send</source>
         <translation>Изпращане</translation>
     </message>
@@ -929,7 +952,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::MobileContactInfoWindow</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-185"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-186"/>
         <source>Request details</source>
         <translation>Заявка за подробности</translation>
     </message>
@@ -939,7 +962,15 @@ p, li { white-space: pre-wrap; }
         <translation>Запис</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+6"/>
+        <source>Close</source>
+        <translation>Затваряне</translation>
+    </message>
+</context>
+<context>
+    <name>Core::MobileSearchForm</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp" line="+52"/>
         <source>Close</source>
         <translation>Затваряне</translation>
     </message>
@@ -947,7 +978,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::MobileSettingsWindow</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp" line="+73"/>
+        <location filename="../../qutim-meta/core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp" line="+79"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
@@ -1201,12 +1232,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+512"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+511"/>
         <source>Without tags</source>
         <translation>Без тагове</translation>
     </message>
     <message>
-        <location line="+118"/>
+        <location line="+110"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
         <translation>Желаете ли да обедините контактите &quot;%1&quot; &lt;%2&gt; и &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
@@ -1226,7 +1257,7 @@ p, li { white-space: pre-wrap; }
         <translation>Обединяване на контакти</translation>
     </message>
     <message>
-        <location line="-508"/>
+        <location line="-500"/>
         <source>All tags</source>
         <translation>Всички етикети</translation>
     </message>
@@ -2036,8 +2067,8 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>SearchForm</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp" line="+42"/>
-        <location line="+90"/>
+        <location filename="../../qutim-meta/core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp" line="-10"/>
+        <location line="+96"/>
         <source>Search</source>
         <translation>Търсене</translation>
     </message>
