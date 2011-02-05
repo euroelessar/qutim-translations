@@ -753,7 +753,7 @@
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
     </message>
     <message>
-        <location line="+117"/>
+        <location line="+116"/>
         <source>Message of the day:</source>
         <translation>Съобщение за деня:</translation>
     </message>
