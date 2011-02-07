@@ -92,7 +92,7 @@
     <name>AddContact</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.ui" line="+14"/>
-        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+55"/>
+        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+56"/>
         <source>Add contact</source>
         <translation>Добавяне на контакт</translation>
     </message>
@@ -120,6 +120,11 @@
         <location line="+42"/>
         <source>Unavailable</source>
         <translation>Недостъпен</translation>
+    </message>
+    <message>
+        <location line="+43"/>
+        <source>Remove contact</source>
+        <translation>Прeмахване на контакта</translation>
     </message>
 </context>
 <context>
@@ -560,7 +565,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AddContact</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+85"/>
+        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+50"/>
         <source>Start chat</source>
         <translation>Започване на разговор</translation>
     </message>
@@ -573,6 +578,14 @@ p, li { white-space: pre-wrap; }
         <location line="+65"/>
         <source>Account must be online</source>
         <translation>Статусът на сметката трябва да е &quot;На линия&quot;</translation>
+    </message>
+</context>
+<context>
+    <name>Core::AddContactModule</name>
+    <message>
+        <location line="-118"/>
+        <source>Are you sure you want to delete a contact %1 from the roster</source>
+        <translation>Сигурни ли сте, че желаете да изтриете контакта %1 от списъка?</translation>
     </message>
 </context>
 <context>
@@ -674,7 +687,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ConferenceContactsView</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="+27"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="+42"/>
         <source>Private</source>
         <translation>Личен разговор</translation>
     </message>
