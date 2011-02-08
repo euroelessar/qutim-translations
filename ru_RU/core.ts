@@ -719,7 +719,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AddContact</name>
     <message>
-        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="+50"/>
+        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="+52"/>
         <source>Start chat</source>
         <translation>Начать чат</translation>
     </message>
@@ -737,8 +737,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AddContactModule</name>
     <message>
-        <location line="-118"/>
         <source>Are you sure you want to delete a contact %1 from the roster</source>
+        <translation type="obsolete">Уверен что хочешь удалить %1 из ростера?</translation>
+    </message>
+    <message>
+        <location line="-120"/>
+        <source>Are you sure you want to delete a contact %1 from the roster?</source>
         <translation type="unfinished">Уверен что хочешь удалить %1 из ростера?</translation>
     </message>
 </context>
@@ -919,7 +923,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ConferenceContactsView</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="+42"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="+48"/>
         <source>Private</source>
         <translation type="unfinished">Приват</translation>
     </message>
@@ -1339,7 +1343,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::MobileSettingsWindow</name>
     <message>
-        <location filename="../../qutim/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp" line="+79"/>
+        <location filename="../../qutim/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp" line="+77"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
@@ -2927,6 +2931,16 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/adiumchat/symbianchatformplugin.cpp" line="+1"/>
         <source>Stacked chatform for S60 devices</source>
         <translation type="unfinished">Окно чата  для S60 устройств</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/kineticscroller/kineticscrollerplugin.cpp" line="+11"/>
+        <source>Qt Kinetic scroller</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Kinetic scroller from upcoming Qt release</source>
+        <translation type="unfinished">Кинетическая прокрутка из грядущего выпуска библотеки Qt</translation>
     </message>
 </context>
 <context>
