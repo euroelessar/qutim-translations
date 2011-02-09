@@ -116,7 +116,7 @@
     <name>AddContact</name>
     <message>
         <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.ui" line="+14"/>
-        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="+55"/>
+        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="+56"/>
         <source>Add contact</source>
         <translation>Добавить контакт</translation>
     </message>
@@ -152,6 +152,11 @@
         <location line="+42"/>
         <source>Unavailable</source>
         <translation type="unfinished">Недоступный</translation>
+    </message>
+    <message>
+        <location line="+43"/>
+        <source>Remove contact</source>
+        <translation type="unfinished">Удалить контакт</translation>
     </message>
 </context>
 <context>
@@ -714,7 +719,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AddContact</name>
     <message>
-        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="+85"/>
+        <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="+52"/>
         <source>Start chat</source>
         <translation>Начать чат</translation>
     </message>
@@ -727,6 +732,18 @@ p, li { white-space: pre-wrap; }
         <location line="+65"/>
         <source>Account must be online</source>
         <translation>Учетная запись должна быть &quot;В Сети&quot;</translation>
+    </message>
+</context>
+<context>
+    <name>Core::AddContactModule</name>
+    <message>
+        <source>Are you sure you want to delete a contact %1 from the roster</source>
+        <translation type="obsolete">Уверен что хочешь удалить %1 из ростера?</translation>
+    </message>
+    <message>
+        <location line="-120"/>
+        <source>Are you sure you want to delete a contact %1 from the roster?</source>
+        <translation type="unfinished">Уверен что хочешь удалить %1 из ростера?</translation>
     </message>
 </context>
 <context>
@@ -906,7 +923,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ConferenceContactsView</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="+26"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="+48"/>
         <source>Private</source>
         <translation type="unfinished">Приват</translation>
     </message>
@@ -914,7 +931,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::SessionListWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp" line="+27"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp" line="+28"/>
         <source>Close chat</source>
         <translation type="unfinished">Закрыть чат</translation>
     </message>
@@ -1326,7 +1343,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::MobileSettingsWindow</name>
     <message>
-        <location filename="../../qutim/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp" line="+73"/>
+        <location filename="../../qutim/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp" line="+77"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
@@ -2914,6 +2931,16 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/adiumchat/symbianchatformplugin.cpp" line="+1"/>
         <source>Stacked chatform for S60 devices</source>
         <translation type="unfinished">Окно чата  для S60 устройств</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/kineticscroller/kineticscrollerplugin.cpp" line="+11"/>
+        <source>Qt Kinetic scroller</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Kinetic scroller from upcoming Qt release</source>
+        <translation type="unfinished">Кинетическая прокрутка из грядущего выпуска библотеки Qt</translation>
     </message>
 </context>
 <context>
