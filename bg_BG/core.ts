@@ -311,7 +311,7 @@ p, li { white-space: pre-wrap; }
         <translation>Отваряне на списъка на сесиите</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+124"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+125"/>
         <location line="+5"/>
         <source>ContactList</source>
         <translation>Списък с контакти</translation>
@@ -453,7 +453,7 @@ p, li { white-space: pre-wrap; }
         <translation>Скриване на контактите извън линия</translation>
     </message>
     <message>
-        <location line="-177"/>
+        <location line="-178"/>
         <source>Copy id to clipboard</source>
         <translation>Копиране в клипборда</translation>
     </message>
@@ -596,16 +596,19 @@ p, li { white-space: pre-wrap; }
     <name>Core::AdiumChat::AbstractChatWidget</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="+51"/>
+        <location line="+19"/>
         <source>Chat with %1 (have %2 unread messages)</source>
         <translation>Разговорът с %1 (има %2 непрочетени съобщения)</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="-17"/>
+        <location line="+19"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="-16"/>
+        <location line="+19"/>
         <source>Conference %1 (%2)</source>
         <translation>Конференция %1 (%2)</translation>
     </message>
@@ -675,7 +678,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ChatEmoticonsWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/actions/chatemoticonswidget.cpp" line="+40"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/actions/chatemoticonswidget.cpp" line="+42"/>
         <source>Close</source>
         <translation>Затваряне</translation>
     </message>
@@ -691,17 +694,29 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ConferenceContactsView</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="+48"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="+50"/>
+        <location line="+69"/>
         <source>Private</source>
         <translation>Личен разговор</translation>
+    </message>
+    <message>
+        <location line="-62"/>
+        <source>Conference participants</source>
+        <translation>Участници в конференцията</translation>
     </message>
 </context>
 <context>
     <name>Core::AdiumChat::SessionListWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp" line="+28"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp" line="+30"/>
+        <location line="+218"/>
         <source>Close chat</source>
         <translation>Затваряне на разговора</translation>
+    </message>
+    <message>
+        <location line="-213"/>
+        <source>Session list</source>
+        <translation>Списък на сесиите</translation>
     </message>
 </context>
 <context>
@@ -748,12 +763,14 @@ p, li { white-space: pre-wrap; }
         <translation>Изпращане до</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+239"/>
+        <location line="+17"/>
         <source>Actions</source>
         <translation>Действия</translation>
     </message>
     <message>
-        <location line="+64"/>
+        <location line="-191"/>
+        <location line="+192"/>
         <source>Send</source>
         <translation>Изпращане</translation>
     </message>
@@ -1287,29 +1304,30 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+121"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+122"/>
         <source>Main Toolbar</source>
         <translation>Главна лентата с инструменти</translation>
     </message>
     <message>
         <location line="+83"/>
+        <location line="+303"/>
         <source>Actions</source>
         <translation>Действия</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="-298"/>
         <location line="+8"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
     <message>
         <location line="+43"/>
-        <location line="+247"/>
+        <location line="+245"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
     <message>
-        <location line="-27"/>
+        <location line="-24"/>
         <source>Select tags</source>
         <translation>Избор на етикети</translation>
     </message>

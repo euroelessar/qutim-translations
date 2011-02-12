@@ -27,7 +27,7 @@
 <context>
     <name>Conference</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+150"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+184"/>
         <source>Kick</source>
         <translation>Изритване (Kick)</translation>
     </message>
@@ -395,14 +395,14 @@
         <translation>Откриване на услуги</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+10"/>
-        <location line="+265"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-107"/>
+        <location line="+117"/>
         <source>Join conference</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location line="-251"/>
-        <location line="+266"/>
+        <location line="-123"/>
+        <location line="+136"/>
         <source>Save to bookmarks</source>
         <translation>Запазване в отметките</translation>
     </message>
@@ -411,17 +411,17 @@
         <translation type="obsolete">Промяна на абонамента</translation>
     </message>
     <message>
-        <location line="-11"/>
+        <location line="-129"/>
         <source>Leave conference</source>
         <translation>Напускане на конференцията</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="-6"/>
         <source>Remove from bookmarks</source>
         <translation>Премахване от отметките</translation>
     </message>
     <message>
-        <location line="-392"/>
+        <location line="-20"/>
         <source>Remove subscription</source>
         <translation>Премахване на абонамента</translation>
     </message>
@@ -431,7 +431,7 @@
         <translation>Заявяване на абонамент</translation>
     </message>
     <message>
-        <location line="+113"/>
+        <location line="+144"/>
         <source>Room&apos;s configuration</source>
         <translation>Настройване на стаята</translation>
     </message>
@@ -461,7 +461,7 @@
         <translation>Автоматично присъединяване</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+658"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+660"/>
         <location line="+3"/>
         <source>You already in conference with another nick</source>
         <translation>Вече сте в конференцията с друг псевдоним</translation>
@@ -498,7 +498,7 @@
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+14"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+13"/>
         <source>Subscription</source>
         <translation>Абонамент</translation>
     </message>
@@ -550,7 +550,7 @@
 <context>
     <name>Jabber::JMUCSession</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-414"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-416"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете ли да се присъедините повторно?</translation>
     </message>
@@ -700,7 +700,7 @@
 <context>
     <name>Jabber::JProtocol</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+33"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+31"/>
         <source>Kick</source>
         <translation>Изритване (Kick)</translation>
     </message>
@@ -720,7 +720,7 @@
         <translation>Въведете причина за забраната на %1</translation>
     </message>
     <message>
-        <location line="+242"/>
+        <location line="+230"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
@@ -1660,7 +1660,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-333"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-317"/>
         <source>Main settings</source>
         <translation>Основни настройки</translation>
     </message>
