@@ -577,7 +577,7 @@
         <translation>Зарегистрирован</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+156"/>
+        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+157"/>
         <source>Add to visible list</source>
         <translation>Добавить в список видимости</translation>
     </message>
@@ -3445,32 +3445,32 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Privacy</name>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="-60"/>
+        <location filename="../../protocols/oscar/src/privacylists.cpp" line="-98"/>
         <source>Visible for all</source>
         <translation>Видимый для всех</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+2"/>
         <source>Invisible for all</source>
         <translation>Невидимый для всех</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+2"/>
         <source>Visible only for visible list</source>
         <translation>Видимый только для списка видимости</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+2"/>
         <source>Invisible only for invisible list</source>
         <translation>Невидимый только для списка невидимости</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+2"/>
         <source>Visible only for contact list</source>
         <translation>Видимый только для списка контактов</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+2"/>
         <source>Unknown privacy</source>
         <translatorcomment>покороче бы...</translatorcomment>
         <translation type="unfinished">Неизвестная конфиденциальность</translation>
@@ -3484,7 +3484,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Режим невидимости:</translation>
     </message>
     <message>
-        <location line="+55"/>
+        <location line="+107"/>
         <source>Privacy status</source>
         <translation>Приватный статус</translation>
     </message>
@@ -4010,7 +4010,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::Md5Login</name>
     <message>
-        <location filename="../../protocols/oscar/src/md5login.cpp" line="+82"/>
+        <location filename="../../protocols/oscar/src/md5login.cpp" line="+83"/>
         <source>No IP addresses were found for the host &apos;%1&apos;</source>
         <translation type="unfinished">Не найдено соответствие IP адреса серверу &apos;%1&apos;</translation>
     </message>
@@ -4027,7 +4027,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::PrivacyLists</name>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+104"/>
+        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+140"/>
         <source>Show &quot;visible&quot; icon if contact in visible list</source>
         <translation type="unfinished">Показывать пиктограмму &quot;видящего&quot;</translation>
     </message>

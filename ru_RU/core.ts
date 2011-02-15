@@ -55,7 +55,7 @@
 <context>
     <name>ActionToolBar</name>
     <message>
-        <location filename="../../qutim/libqutim/actiontoolbar.cpp" line="+39"/>
+        <location filename="../../qutim/libqutim/actiontoolbar.cpp" line="+40"/>
         <source>Small (16x16)</source>
         <translation>Малый (16x16)</translation>
     </message>
@@ -366,7 +366,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Отправить сообщение</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="+42"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="+44"/>
         <source>Close chat</source>
         <translation>Закрыть чат</translation>
     </message>
@@ -419,7 +419,7 @@ p, li { white-space: pre-wrap; }
         <translation>Открыть список сеансов</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+125"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+127"/>
         <location line="+5"/>
         <source>ContactList</source>
         <translation>Контакты</translation>
@@ -428,7 +428,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+465"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+470"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
@@ -564,12 +564,12 @@ p, li { white-space: pre-wrap; }
         <translation>Изменить метки</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-89"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-91"/>
         <source>Copy id to clipboard</source>
         <translation>Копировать id в буфер</translation>
     </message>
     <message>
-        <location line="+83"/>
+        <location line="+85"/>
         <source>Change global status</source>
         <translation>Изменить общий статус</translation>
     </message>
@@ -927,12 +927,12 @@ p, li { white-space: pre-wrap; }
     <name>Core::AdiumChat::ConferenceContactsView</name>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="+50"/>
-        <location line="+69"/>
+        <location line="+67"/>
         <source>Private</source>
         <translation type="unfinished">Приват</translation>
     </message>
     <message>
-        <location line="-62"/>
+        <location line="-60"/>
         <source>Conference participants</source>
         <translatorcomment>груповушка у нас</translatorcomment>
         <translation type="unfinished">Участники группового чата</translation>
@@ -1769,24 +1769,24 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+83"/>
-        <location line="+303"/>
+        <location line="+305"/>
         <source>Actions</source>
         <translation type="unfinished">Действия</translation>
     </message>
     <message>
-        <location line="-298"/>
+        <location line="-300"/>
         <location line="+8"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
     <message>
         <location line="+43"/>
-        <location line="+245"/>
+        <location line="+247"/>
         <source>Set Status Text</source>
         <translation>Установить текст статуса</translation>
     </message>
     <message>
-        <location line="-24"/>
+        <location line="-25"/>
         <source>Select tags</source>
         <translation>Выбрать метки</translation>
     </message>
@@ -2935,6 +2935,16 @@ p, li { white-space: pre-wrap; }
         <source>Kinetic scroller from upcoming Qt release</source>
         <translation type="unfinished">Кинетическая прокрутка из грядущего выпуска библотеки Qt</translation>
     </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/qmlchat/qmlchatplugin.cpp" line="+11"/>
+        <source>Qt Quick view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Modern chat view based on power of QtQuick</source>
+        <translation type="unfinished">Чат использующий энергию Qt Quick</translation>
+    </message>
 </context>
 <context>
     <name>ProfileCreationPage</name>
@@ -3149,7 +3159,7 @@ p, li { white-space: pre-wrap; }
         <translation>4я четверть</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-8"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-9"/>
         <source>Copy %1 to clipboard</source>
         <translation>Копировать %1 в буфер</translation>
     </message>
@@ -3210,6 +3220,16 @@ p, li { white-space: pre-wrap; }
         <source>PopupWidget</source>
         <translatorcomment>!!!</translatorcomment>
         <translation>Виджет уведомлений</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="-13"/>
+        <source>ChatForm</source>
+        <translation type="unfinished">Окно чата</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>ChatViewFactory</source>
+        <translation type="unfinished">Движок тем чата</translation>
     </message>
 </context>
 <context>
