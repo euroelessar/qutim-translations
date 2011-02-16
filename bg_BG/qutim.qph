@@ -2772,4 +2772,268 @@
     <source>Search results</source>
     <target>Резултати от търсенето</target>
 </phrase>
+<phrase>
+    <source>Doing chores</source>
+    <target>Домакинска работа</target>
+</phrase>
+<phrase>
+    <source>Drinking</source>
+    <target>Пиещ</target>
+</phrase>
+<phrase>
+    <source>Eating</source>
+    <target>Ядящ</target>
+</phrase>
+<phrase>
+    <source>Exercising</source>
+    <target>Правещ упражнения</target>
+</phrase>
+<phrase>
+    <source>Grooming</source>
+    <target>Поддръжка</target>
+</phrase>
+<phrase>
+    <source>Having appointment</source>
+    <target>На среща</target>
+</phrase>
+<phrase>
+    <source>Inactive</source>
+    <target>Неактивен</target>
+</phrase>
+<phrase>
+    <source>Relaxing</source>
+    <target>Почиващ</target>
+</phrase>
+<phrase>
+    <source>Talking</source>
+    <target>Говорещ</target>
+</phrase>
+<phrase>
+    <source>Traveling</source>
+    <target>Пътуващ</target>
+</phrase>
+<phrase>
+    <source>Undefined</source>
+    <target>Неопределена</target>
+</phrase>
+<phrase>
+    <source>Working</source>
+    <target>Работещ</target>
+</phrase>
+<phrase>
+    <source>At the spa</source>
+    <target>В спа центъра</target>
+</phrase>
+<phrase>
+    <source>Brushing teeth</source>
+    <target>Миещ зъби</target>
+</phrase>
+<phrase>
+    <source>Buying groceries</source>
+    <target>Пазарящ хранителни стоки</target>
+</phrase>
+<phrase>
+    <source>Cleaning</source>
+    <target>Почистващ</target>
+</phrase>
+<phrase>
+    <source>Coding</source>
+    <target>Пишещ код</target>
+</phrase>
+<phrase>
+    <source>Commuting</source>
+    <target>Пътуващ с градския транспорт</target>
+</phrase>
+<phrase>
+    <source>Cycling</source>
+    <target>Каращ колело</target>
+</phrase>
+<phrase>
+    <source>Day off</source>
+    <target>В отпуск</target>
+</phrase>
+<phrase>
+    <source>Doing maintenance</source>
+    <target>Правещ ремонт</target>
+</phrase>
+<phrase>
+    <source>Doing the dishes</source>
+    <target>Миещ чинии</target>
+</phrase>
+<phrase>
+    <source>Doing the laundry</source>
+    <target>Перящ</target>
+</phrase>
+<phrase>
+    <source>Driving</source>
+    <target>Шофиращ</target>
+</phrase>
+<phrase>
+    <source>Fishing</source>
+    <target>За риба</target>
+</phrase>
+<phrase>
+    <source>Gardening</source>
+    <target>Работещ в градината</target>
+</phrase>
+<phrase>
+    <source>Getting a haircut</source>
+    <target>На фризьор</target>
+</phrase>
+<phrase>
+    <source>Going out</source>
+    <target>Излизащ</target>
+</phrase>
+<phrase>
+    <source>Hanging out</source>
+    <target>Простиращ</target>
+</phrase>
+<phrase>
+    <source>Having a_beer</source>
+    <target>Пиещ бира</target>
+</phrase>
+<phrase>
+    <source>Having a_snack</source>
+    <target>Хапващ на бързо</target>
+</phrase>
+<phrase>
+    <source>Having breakfast</source>
+    <target>Закусващ</target>
+</phrase>
+<phrase>
+    <source>Having coffee</source>
+    <target>Пиещ кафе</target>
+</phrase>
+<phrase>
+    <source>Having dinner</source>
+    <target>Вечерящ</target>
+</phrase>
+<phrase>
+    <source>Having lunch</source>
+    <target>Обядващ</target>
+</phrase>
+<phrase>
+    <source>Having tea</source>
+    <target>Пиещ чай</target>
+</phrase>
+<phrase>
+    <source>Hiding</source>
+    <target>Криещ се</target>
+</phrase>
+<phrase>
+    <source>Hiking</source>
+    <target>Ходещ пеща</target>
+</phrase>
+<phrase>
+    <source>In a car</source>
+    <target>В кола</target>
+</phrase>
+<phrase>
+    <source>In a meeting</source>
+    <target>На среща</target>
+</phrase>
+<phrase>
+    <source>Jogging</source>
+    <target>Бягащ за здраве</target>
+</phrase>
+<phrase>
+    <source>On a bus</source>
+    <target>В автобуса</target>
+</phrase>
+<phrase>
+    <source>On a plane</source>
+    <target>В самолета</target>
+</phrase>
+<phrase>
+    <source>On a train</source>
+    <target>Във влака</target>
+</phrase>
+<phrase>
+    <source>On a trip</source>
+    <target>На екскурзия</target>
+</phrase>
+<phrase>
+    <source>On vacation</source>
+    <target>На почивка</target>
+</phrase>
+<phrase>
+    <source>On video phone</source>
+    <target>На видео-телефона</target>
+</phrase>
+<phrase>
+    <source>Other</source>
+    <target>Друго</target>
+</phrase>
+<phrase>
+    <source>Partying</source>
+    <target>На купон</target>
+</phrase>
+<phrase>
+    <source>Playing sports</source>
+    <target>Спортуващ</target>
+</phrase>
+<phrase>
+    <source>Praying</source>
+    <target>Молещ се</target>
+</phrase>
+<phrase>
+    <source>Rehearsing</source>
+    <target>Репетиращ</target>
+</phrase>
+<phrase>
+    <source>Running</source>
+    <target>Бягащ</target>
+</phrase>
+<phrase>
+    <source>Scheduled holiday</source>
+    <target>На планирана почивка</target>
+</phrase>
+<phrase>
+    <source>Shaving</source>
+    <target>Бръснещ се</target>
+</phrase>
+<phrase>
+    <source>Skiing</source>
+    <target>На ски</target>
+</phrase>
+<phrase>
+    <source>Socializing</source>
+    <target>Създаващ контакти</target>
+</phrase>
+<phrase>
+    <source>Swimming</source>
+    <target>Плуващ</target>
+</phrase>
+<phrase>
+    <source>Sunbathing</source>
+    <target>Правещ слънчеви бани</target>
+</phrase>
+<phrase>
+    <source>Taking a shower</source>
+    <target>Вземащ си душ</target>
+</phrase>
+<phrase>
+    <source>Thinking</source>
+    <target>Мислещ</target>
+</phrase>
+<phrase>
+    <source>Walking</source>
+    <target>Разхождащ се</target>
+</phrase>
+<phrase>
+    <source>Walking the dog</source>
+    <target>Разхождащ кучето</target>
+</phrase>
+<phrase>
+    <source>Watching a movie</source>
+    <target>Гледащ филм</target>
+</phrase>
+<phrase>
+    <source>Working out</source>
+    <target>Трениращ</target>
+</phrase>
+<phrase>
+    <source>Activity</source>
+    <target>Дейност</target>
+</phrase>
 </QPH>
