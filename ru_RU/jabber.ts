@@ -4,53 +4,64 @@
 <context>
     <name>Activity</name>
     <message>
+        <location filename="../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="+29"/>
         <source>Buying groceries</source>
-        <translation type="obsolete">Покупаю продукты</translation>
+        <translation type="unfinished">Покупаю продукты</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Cleaning</source>
-        <translation type="obsolete">Убираюсь</translation>
+        <translation type="unfinished">Убираюсь</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Cooking</source>
-        <translation type="obsolete">Готовка</translation>
+        <translation type="unfinished">Готовка</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Doing the dishes</source>
-        <translation type="obsolete">Готовлю поесть</translation>
+        <translation type="unfinished">Готовлю поесть</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Doing the laundry</source>
-        <translation type="obsolete">Стираю бельё</translation>
+        <translation type="unfinished">Стираю бельё</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>Gardening</source>
-        <translation type="obsolete">Занимаюсь садоводством</translation>
+        <translation type="unfinished">Занимаюсь садоводством</translation>
     </message>
     <message>
+        <location line="+31"/>
         <source>Running an errand</source>
-        <translation type="obsolete">Бегаю на посылках у старухи</translation>
+        <translation type="unfinished">Бегаю на посылках у старухи</translation>
     </message>
     <message>
+        <location line="+15"/>
         <source>Walking the dog</source>
-        <translation type="obsolete">Гуляю с бобиком</translation>
+        <translation type="unfinished">Гуляю с бобиком</translation>
     </message>
     <message>
+        <location line="-77"/>
         <source>Drinking</source>
         <translatorcomment>Слепой Пью</translatorcomment>
-        <translation type="obsolete">Пью</translation>
+        <translation type="unfinished">Пью</translation>
     </message>
     <message>
         <source>Having a beer</source>
         <translation type="obsolete">Пиво</translation>
     </message>
     <message>
+        <location line="+38"/>
         <source>Having coffee</source>
-        <translation type="obsolete">Кофе</translation>
+        <translation type="unfinished">Кофе</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Having tea</source>
-        <translation type="obsolete">Чай</translation>
+        <translation type="unfinished">Чай</translation>
     </message>
     <message>
         <source>Eeating</source>
@@ -61,222 +72,364 @@
         <translation type="obsolete">Закусываю</translation>
     </message>
     <message>
+        <location line="-4"/>
         <source>Having breakfast</source>
-        <translation type="obsolete">Завтракаю</translation>
+        <translation type="unfinished">Завтракаю</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Having dinner</source>
-        <translation type="obsolete">Обедаю</translation>
+        <translation type="unfinished">Обедаю</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Having lunch</source>
-        <translation type="obsolete">Ланч</translation>
+        <translation type="unfinished">Ланч</translation>
     </message>
     <message>
+        <location line="-18"/>
         <source>Cycling</source>
-        <translation type="obsolete">Катаюсь на велике</translation>
+        <translation type="unfinished">Катаюсь на велике</translation>
     </message>
     <message>
         <source>Dancing</source>
         <translation type="obsolete">Танцую</translation>
     </message>
     <message>
+        <location line="+21"/>
         <source>Hiking</source>
-        <translation type="obsolete">Пешком гуляю</translation>
+        <translation type="unfinished">Пешком гуляю</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>Jogging</source>
-        <translation type="obsolete">Бегаю</translation>
+        <translation type="unfinished">Бегаю</translation>
     </message>
     <message>
+        <location line="+10"/>
         <source>Playing sports</source>
-        <translation type="obsolete">Играю на площадке</translation>
+        <translation type="unfinished">Играю на площадке</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>Running</source>
-        <translation type="obsolete">Работаю</translation>
+        <translation type="unfinished">Работаю</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Skiing</source>
-        <translation type="obsolete">Катаюсь на лыжах</translation>
+        <translation type="unfinished">Катаюсь на лыжах</translation>
     </message>
     <message>
+        <location line="+6"/>
         <source>Swimming</source>
-        <translation type="obsolete">Плаваю</translation>
+        <translation type="unfinished">Плаваю</translation>
     </message>
     <message>
+        <location line="-57"/>
         <source>At the spa</source>
-        <translation type="obsolete">В СПА салоне</translation>
+        <translation type="unfinished">В СПА салоне</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Brushing teeth</source>
-        <translation type="obsolete">Чищу зубы</translation>
+        <translation type="unfinished">Чищу зубы</translation>
     </message>
     <message>
+        <location line="+16"/>
         <source>Getting a haircut</source>
-        <translation type="obsolete">Стригусь</translation>
+        <translation type="unfinished">Стригусь</translation>
     </message>
     <message>
+        <location line="+32"/>
         <source>Shaving</source>
-        <translation type="obsolete">Бреюсь</translation>
+        <translation type="unfinished">Бреюсь</translation>
     </message>
     <message>
+        <location line="+9"/>
         <source>Taking a bath</source>
-        <translation type="obsolete">Принимаю душ/ванну</translation>
+        <translation type="unfinished">Принимаю душ/ванну</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Taking a shower</source>
-        <translation type="obsolete">Принимаю душ</translation>
+        <translation type="unfinished">Принимаю душ</translation>
     </message>
     <message>
+        <location line="-69"/>
         <source>Inactive</source>
-        <translation type="obsolete">Бездельничаю</translation>
+        <translation type="unfinished">Бездельничаю</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>Day off</source>
-        <translation type="obsolete">Выходной</translation>
+        <translation type="unfinished">Выходной</translation>
     </message>
     <message>
+        <location line="+29"/>
         <source>On vacation</source>
-        <translation type="obsolete">На отдыхе</translation>
+        <translation type="unfinished">На отдыхе</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Praying</source>
-        <translation type="obsolete">Молюсь</translation>
+        <translation type="unfinished">Молюсь</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Scheduled holiday</source>
-        <translation type="obsolete">Отпуск</translation>
+        <translation type="unfinished">Отпуск</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>Sleeping</source>
-        <translation type="obsolete">Сплю</translation>
+        <translation type="unfinished">Сплю</translation>
     </message>
     <message>
+        <location line="+8"/>
         <source>Thinking</source>
-        <translation type="obsolete">Думаю</translation>
+        <translation type="unfinished">Думаю</translation>
     </message>
     <message>
+        <location line="-69"/>
         <source>Relaxing</source>
-        <translation type="obsolete">Отдыхаю</translation>
+        <translation type="unfinished">Отдыхаю</translation>
     </message>
     <message>
+        <location line="-7"/>
+        <source>Doing chores</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Eating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Exercising</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Grooming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having appointment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Undefined</source>
+        <translation type="unfinished">Не определено</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Commuting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Cancing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Doing maintenance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Fishing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Gaming</source>
-        <translation type="obsolete">Играю</translation>
+        <translation type="unfinished">Играю</translation>
     </message>
     <message>
+        <location line="+3"/>
+        <source>Going out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hanging out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having a_beer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having a_snack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Hiding</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Partying</source>
-        <translation type="obsolete">Вечеринка</translation>
+        <translation type="unfinished">Вечеринка</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Reading</source>
-        <translation type="obsolete">Читаю</translation>
+        <translation type="unfinished">Читаю</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Rehearsing</source>
-        <translation type="obsolete">Репетиция</translation>
+        <translation type="unfinished">Репетиция</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Shopping</source>
-        <translation type="obsolete">Покупки</translation>
+        <translation type="unfinished">Покупки</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Smoking</source>
-        <translation type="obsolete">Курю</translation>
+        <translation type="unfinished">Курю</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Socializing</source>
-        <translation type="obsolete">Общение</translation>
+        <translation type="unfinished">Общение</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Sunbathing</source>
-        <translation type="obsolete">Солнечные ванны</translation>
+        <translation type="unfinished">Солнечные ванны</translation>
     </message>
     <message>
         <source>Watching tv</source>
         <translation type="obsolete">Смотрю ящик</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>Watching a movie</source>
-        <translation type="obsolete">Смотрю кино</translation>
+        <translation type="unfinished">Смотрю кино</translation>
     </message>
     <message>
+        <location line="-71"/>
         <source>Talking</source>
-        <translation type="obsolete">Болтаю</translation>
+        <translation type="unfinished">Болтаю</translation>
     </message>
     <message>
+        <location line="+39"/>
         <source>In real life</source>
-        <translation type="obsolete">Ушел в реалный мир, вернусь не скоро</translation>
+        <translation type="unfinished">Ушел в реалный мир, вернусь не скоро</translation>
     </message>
     <message>
+        <location line="+6"/>
         <source>On the phone</source>
-        <translation type="obsolete">На телефоне</translation>
+        <translation type="unfinished">На телефоне</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>On video phone</source>
-        <translation type="obsolete">На видеофоне</translation>
+        <translation type="unfinished">На видеофоне</translation>
     </message>
     <message>
+        <location line="-46"/>
         <source>Traveling</source>
-        <translation type="obsolete">Путешествую</translation>
+        <translation type="unfinished">Путешествую</translation>
     </message>
     <message>
+        <location line="+20"/>
         <source>Driving</source>
-        <translation type="obsolete">Веду авто</translation>
+        <translation type="unfinished">Веду авто</translation>
     </message>
     <message>
+        <location line="+16"/>
         <source>In a car</source>
         <translatorcomment>стиральной</translatorcomment>
-        <translation type="obsolete">В машине</translation>
+        <translation type="unfinished">В машине</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>On a bus</source>
-        <translation type="obsolete">На автобусе</translation>
+        <translation type="unfinished">На автобусе</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>On a plane</source>
         <translatorcomment>лучше на плане (без самолёта)</translatorcomment>
-        <translation type="obsolete">На самолёте</translation>
+        <translation type="unfinished">На самолёте</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>On a train</source>
-        <translation type="obsolete">В поезде</translation>
+        <translation type="unfinished">В поезде</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>On a trip</source>
-        <translation type="obsolete">В поездке</translation>
+        <translation type="unfinished">В поездке</translation>
     </message>
     <message>
+        <location line="+25"/>
         <source>Walking</source>
-        <translation type="obsolete">Прогулка</translation>
+        <translation type="unfinished">Прогулка</translation>
     </message>
     <message>
+        <location line="-66"/>
         <source>Working</source>
-        <translation type="obsolete">Работаю</translation>
+        <translation type="unfinished">Работаю</translation>
     </message>
     <message>
+        <location line="+9"/>
         <source>Coding</source>
-        <translation type="obsolete">Программирую</translation>
+        <translation type="unfinished">Программирую</translation>
     </message>
     <message>
+        <location line="+26"/>
         <source>In a meeting</source>
-        <translation type="obsolete">На встрече</translation>
+        <translation type="unfinished">На встрече</translation>
     </message>
     <message>
+        <location line="+25"/>
         <source>Studying</source>
-        <translation type="obsolete">Учусь</translation>
+        <translation type="unfinished">Учусь</translation>
     </message>
     <message>
+        <location line="+9"/>
+        <source>Watching TV</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Working out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Writing</source>
-        <translation type="obsolete">Пишу</translation>
+        <translation type="unfinished">Пишу</translation>
     </message>
     <message>
+        <location line="+84"/>
         <source>Activity</source>
-        <translation type="obsolete">Занятие</translation>
+        <translation type="unfinished">Занятие</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Show contact activity icon</source>
-        <translation type="obsolete">Показывать иконку занятия</translation>
+        <translation type="unfinished">Показывать иконку занятия</translation>
     </message>
 </context>
 <context>
@@ -955,8 +1108,9 @@
 <context>
     <name>Jabber::JActivityChooser</name>
     <message>
+        <location filename="../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="+229"/>
         <source>Set activity</source>
-        <translation type="obsolete">Занятие</translation>
+        <translation type="unfinished">Занятие</translation>
     </message>
 </context>
 <context>
@@ -967,12 +1121,14 @@
         <translation>Настройки</translation>
     </message>
     <message>
+        <location filename="../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="-78"/>
         <source>Choose your activity</source>
-        <translation type="obsolete">Выберите ваше занятие</translation>
+        <translation type="unfinished">Выберите ваше занятие</translation>
     </message>
     <message>
+        <location line="+39"/>
         <source>No activity</source>
-        <translation type="obsolete">Нет занятия</translation>
+        <translation type="unfinished">Нет занятия</translation>
     </message>
 </context>
 <context>
@@ -1374,7 +1530,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMoodChooser</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="+82"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="+78"/>
         <source>Set mood</source>
         <translation>Указать настроение</translation>
     </message>
@@ -1387,12 +1543,12 @@ Accept invitation?</source>
         <translation>Настроение</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="-62"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="-58"/>
         <source>Choose your mood</source>
         <translation>Выберите настроение</translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+21"/>
         <source>No mood</source>
         <translation>Без настроения</translation>
     </message>
