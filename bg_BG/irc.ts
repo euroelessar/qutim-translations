@@ -388,7 +388,7 @@
 <context>
     <name>IRC</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircprotocol.cpp" line="+82"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircprotocol.cpp" line="+88"/>
         <source>Show console...</source>
         <translation>Показване на конзолата...</translation>
     </message>
@@ -421,7 +421,7 @@
 <context>
     <name>IrcChannel</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="+357"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="+366"/>
         <source>%1 gives channel operator privileges to %2.</source>
         <translation>%1 даде операторски права в канала на %2.</translation>
     </message>
@@ -513,7 +513,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircprotocol.cpp" line="-25"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircprotocol.cpp" line="-31"/>
         <source>User information</source>
         <translation>Информация за потребителя</translation>
     </message>
@@ -866,7 +866,7 @@
         <translation type="obsolete">Отнемане на глас</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircconnection.cpp" line="+140"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircconnection.cpp" line="+142"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
     </message>
@@ -908,7 +908,7 @@ Please wait a while and try again.</source>
         <translation>%1 зададе съобщение при отсъствие: &quot;%2&quot;</translation>
     </message>
     <message>
-        <location line="+302"/>
+        <location line="+304"/>
         <source>SSL error: %1</source>
         <translation>SSL грешка: %1</translation>
     </message>
@@ -922,7 +922,7 @@ Please wait a while and try again.</source>
         <translation type="obsolete">%1 зададе съобщение при отсъствие: %2</translation>
     </message>
     <message>
-        <location line="-304"/>
+        <location line="-306"/>
         <source>%1 removed away message</source>
         <translation>%1 премахна съобщението при отсъствие</translation>
     </message>
@@ -995,7 +995,7 @@ Please wait a while and try again.</source>
         <translation>Невъзможно е свързването към мрежата %1</translation>
     </message>
     <message>
-        <location line="+175"/>
+        <location line="+177"/>
         <source>Network error: %1</source>
         <translation>Мрежова грешка: %1</translation>
     </message>
@@ -1003,7 +1003,7 @@ Please wait a while and try again.</source>
 <context>
     <name>qutim_sdk_0_3::irc::IrcJoinLeftActionGenerator</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="-293"/>
+        <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="-302"/>
         <source>Leave the channel</source>
         <translation>Напускане на канала</translation>
     </message>
@@ -1011,6 +1011,14 @@ Please wait a while and try again.</source>
         <location line="+2"/>
         <source>Join the channel</source>
         <translation>Присъединяване към канала</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::irc::IrcProtocol</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/irc/src/ircprotocol.cpp" line="+2"/>
+        <source>Auto-join</source>
+        <translation>Автоматично присъединяване</translation>
     </message>
 </context>
 <context>
