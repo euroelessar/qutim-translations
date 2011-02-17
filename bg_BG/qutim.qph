@@ -3036,4 +3036,16 @@
     <source>Activity</source>
     <target>Дейност</target>
 </phrase>
+<phrase>
+    <source>Dancing</source>
+    <target>Танцуващ</target>
+</phrase>
+<phrase>
+    <source>Having a beer</source>
+    <target>Пиещ бира</target>
+</phrase>
+<phrase>
+    <source>Having a snack</source>
+    <target>Хапващ на бързо</target>
+</phrase>
 </QPH>

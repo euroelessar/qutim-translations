@@ -104,12 +104,11 @@
         <translation>Каращ колело</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Cancing</source>
-        <translation>Танцуващ</translation>
+        <translation type="obsolete">Танцуващ</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+2"/>
         <source>Day off</source>
         <translation>В отпуск</translation>
     </message>
@@ -164,13 +163,26 @@
         <translation>Простиращ</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Having a_beer</source>
+        <translation type="obsolete">Пиещ бира</translation>
+    </message>
+    <message>
+        <source>Having a_snack</source>
+        <translation type="obsolete">Хапващ на бързо</translation>
+    </message>
+    <message>
+        <location line="-11"/>
+        <source>Dancing</source>
+        <translation>Танцуващ</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Having a beer</source>
         <translation>Пиещ бира</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Having a_snack</source>
+        <source>Having a snack</source>
         <translation>Хапващ на бързо</translation>
     </message>
     <message>
