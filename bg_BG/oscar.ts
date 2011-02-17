@@ -514,7 +514,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="+156"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="+157"/>
         <source>Add to visible list</source>
         <translation>Добавяне в списък &quot;Видим за&quot;</translation>
     </message>
@@ -3256,32 +3256,32 @@
 <context>
     <name>Privacy</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="-60"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="-98"/>
         <source>Visible for all</source>
         <translation>Видим за всички</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+2"/>
         <source>Invisible for all</source>
         <translation>Невидим за всички</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+2"/>
         <source>Visible only for visible list</source>
         <translation>Видим само за списък &quot;Видим за&quot;</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+2"/>
         <source>Invisible only for invisible list</source>
         <translation>Невидим само за списък &quot;Невидим за&quot;</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+2"/>
         <source>Visible only for contact list</source>
         <translation>Видим само за списъка с контакти</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+2"/>
         <source>Unknown privacy</source>
         <translation>Неизвестно уединение</translation>
     </message>
@@ -3294,7 +3294,7 @@
         <translation type="obsolete">Режим на невидимост:</translation>
     </message>
     <message>
-        <location line="+55"/>
+        <location line="+107"/>
         <source>Privacy status</source>
         <translation>Статус на уединение</translation>
     </message>
@@ -3797,7 +3797,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::Md5Login</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/md5login.cpp" line="+82"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/md5login.cpp" line="+83"/>
         <source>No IP addresses were found for the host &apos;%1&apos;</source>
         <translation>Не са открити IP адреси за хоста &apos;%1&apos;</translation>
     </message>
@@ -3813,7 +3813,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::PrivacyLists</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="+104"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="+140"/>
         <source>Show &quot;visible&quot; icon if contact in visible list</source>
         <translation>Показване на икона за &quot;видим&quot; ако контакта е в списък &quot;Видим за&quot;</translation>
     </message>
