@@ -50,11 +50,12 @@
         <translation type="unfinished">Пью</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Having a beer</source>
-        <translation type="obsolete">Пиво</translation>
+        <translation type="unfinished">Пиво</translation>
     </message>
     <message>
-        <location line="+38"/>
+        <location line="+3"/>
         <source>Having coffee</source>
         <translation type="unfinished">Кофе</translation>
     </message>
@@ -68,11 +69,12 @@
         <translation type="obsolete">Ем</translation>
     </message>
     <message>
+        <location line="-5"/>
         <source>Having a snack</source>
-        <translation type="obsolete">Закусываю</translation>
+        <translation type="unfinished">Закусываю</translation>
     </message>
     <message>
-        <location line="-4"/>
+        <location line="+1"/>
         <source>Having breakfast</source>
         <translation type="unfinished">Завтракаю</translation>
     </message>
@@ -92,11 +94,12 @@
         <translation type="unfinished">Катаюсь на велике</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Dancing</source>
-        <translation type="obsolete">Танцую</translation>
+        <translation type="unfinished">Танцую</translation>
     </message>
     <message>
-        <location line="+21"/>
+        <location line="+20"/>
         <source>Hiking</source>
         <translation type="unfinished">Пешком гуляю</translation>
     </message>
@@ -203,7 +206,7 @@
     <message>
         <location line="+2"/>
         <source>Eating</source>
-        <translation type="unfinished"></translation>
+        <translation>Ем</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -231,12 +234,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+3"/>
-        <source>Cancing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+2"/>
+        <location line="+5"/>
         <source>Doing maintenance</source>
         <translation type="unfinished"></translation>
     </message>
@@ -261,24 +259,14 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+1"/>
-        <source>Having a_beer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Having a_snack</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+6"/>
+        <location line="+8"/>
         <source>Hiding</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Другое</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -409,7 +397,7 @@
     <message>
         <location line="+9"/>
         <source>Watching TV</source>
-        <translation type="unfinished"></translation>
+        <translation>Смотрю ТВ</translation>
     </message>
     <message>
         <location line="+1"/>

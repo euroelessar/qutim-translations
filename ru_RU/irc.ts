@@ -387,7 +387,7 @@
         <translation type="obsolete">Войти в канал...</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+57"/>
+        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+66"/>
         <source>Show console...</source>
         <translation>Показать консоль...</translation>
     </message>
@@ -573,7 +573,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../protocols/irc/src/irccommandalias.cpp" line="+98"/>
+        <location filename="../../protocols/irc/src/irccommandalias.cpp" line="+111"/>
         <source>Not enough parameters for command %1</source>
         <translation>Не хавтает параметров команде %1</translation>
     </message>
@@ -699,16 +699,16 @@
     </message>
 </context>
 <context>
-    <name>qutim_sdk_0_3::irc::IrcConnection</name>
+    <name>qutim_sdk_0_3::irc::IrcCommandAlias</name>
     <message>
-        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+171"/>
+        <location filename="../../protocols/irc/src/irccommandalias.cpp" line="+89"/>
         <source>Kick / Ban</source>
-        <translation>Кик / Бан</translation>
+        <translation type="unfinished">Кик / Бан</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Kick</source>
-        <translation>Кик</translation>
+        <translation type="unfinished">Кик</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -718,10 +718,10 @@
     <message>
         <location line="+3"/>
         <source>Ban</source>
-        <translation>Бан</translation>
+        <translation type="unfinished">Бан</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+4"/>
         <source>Ban *!*@*.host</source>
         <translation type="unfinished">Бан *!*@*.host</translation>
     </message>
@@ -741,7 +741,7 @@
         <translation type="unfinished">Бан *!user@domain</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+3"/>
         <source>Kickban *!*@*.host</source>
         <translation type="unfinished">Кикбан *!*@*.host</translation>
     </message>
@@ -761,54 +761,54 @@
         <translation type="unfinished">Кикбан*!user@domain</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+4"/>
         <source>Ping</source>
         <translation type="unfinished">Пинг</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+1"/>
         <source>Request client information</source>
         <translation type="unfinished">Запросить информацию</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+1"/>
         <source>Request version</source>
         <translation type="unfinished">Запросить версиб</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+1"/>
         <source>Request time</source>
         <translation type="unfinished">Запросить время</translation>
     </message>
     <message>
-        <location line="+8"/>
-        <source>Request avatar</source>
-        <translation type="unfinished">Запросить аватар</translation>
+        <location line="+1"/>
+        <source>Avatar</source>
+        <translation type="unfinished">Аватар</translation>
     </message>
     <message>
-        <location line="+15"/>
+        <location line="+3"/>
         <source>Modes</source>
-        <translation>Режимы</translation>
+        <translation type="unfinished">Режимы</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+1"/>
         <source>Give Op</source>
-        <translation>Дать Опа</translation>
+        <translation type="unfinished">Дать Опа</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Take Op</source>
-        <translation>Взять Опа</translation>
+        <translation type="unfinished">Взять Опа</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Give HalfOp</source>
-        <translation>Дать полуОпа</translation>
+        <translation type="unfinished">Дать полуОпа</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Take HalfOp</source>
-        <translation>Взять полуопа</translation>
+        <translation type="unfinished">Взять полуопа</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -821,7 +821,111 @@
         <translation type="unfinished">Забрать голос</translation>
     </message>
     <message>
-        <location line="+48"/>
+        <location line="+4"/>
+        <source>Send WHOIS request</source>
+        <translation type="unfinished">Отправить запрос WHOIS</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::irc::IrcConnection</name>
+    <message>
+        <source>Kick / Ban</source>
+        <translation type="obsolete">Кик / Бан</translation>
+    </message>
+    <message>
+        <source>Kick</source>
+        <translation type="obsolete">Кик</translation>
+    </message>
+    <message>
+        <source>Kickban</source>
+        <translation type="obsolete">Кикбан</translation>
+    </message>
+    <message>
+        <source>Ban</source>
+        <translation type="obsolete">Бан</translation>
+    </message>
+    <message>
+        <source>Ban *!*@*.host</source>
+        <translation type="obsolete">Бан *!*@*.host</translation>
+    </message>
+    <message>
+        <source>Ban *!*@domain</source>
+        <translation type="obsolete">Бан *!*@domain</translation>
+    </message>
+    <message>
+        <source>Ban *!user@*.host</source>
+        <translation type="obsolete">Бан *!user@*.host</translation>
+    </message>
+    <message>
+        <source>Ban *!user@domain</source>
+        <translation type="obsolete">Бан *!user@domain</translation>
+    </message>
+    <message>
+        <source>Kickban *!*@*.host</source>
+        <translation type="obsolete">Кикбан *!*@*.host</translation>
+    </message>
+    <message>
+        <source>Kickban *!*@domain</source>
+        <translation type="obsolete">Кикбан *!*@domain</translation>
+    </message>
+    <message>
+        <source>Kickban *!user@*.host</source>
+        <translation type="obsolete">Кикбан *!user@*.host</translation>
+    </message>
+    <message>
+        <source>Kickban *!user@domain</source>
+        <translation type="obsolete">Кикбан*!user@domain</translation>
+    </message>
+    <message>
+        <source>Ping</source>
+        <translation type="obsolete">Пинг</translation>
+    </message>
+    <message>
+        <source>Request client information</source>
+        <translation type="obsolete">Запросить информацию</translation>
+    </message>
+    <message>
+        <source>Request version</source>
+        <translation type="obsolete">Запросить версиб</translation>
+    </message>
+    <message>
+        <source>Request time</source>
+        <translation type="obsolete">Запросить время</translation>
+    </message>
+    <message>
+        <source>Request avatar</source>
+        <translation type="obsolete">Запросить аватар</translation>
+    </message>
+    <message>
+        <source>Modes</source>
+        <translation type="obsolete">Режимы</translation>
+    </message>
+    <message>
+        <source>Give Op</source>
+        <translation type="obsolete">Дать Опа</translation>
+    </message>
+    <message>
+        <source>Take Op</source>
+        <translation type="obsolete">Взять Опа</translation>
+    </message>
+    <message>
+        <source>Give HalfOp</source>
+        <translation type="obsolete">Дать полуОпа</translation>
+    </message>
+    <message>
+        <source>Take HalfOp</source>
+        <translation type="obsolete">Взять полуопа</translation>
+    </message>
+    <message>
+        <source>Give voice</source>
+        <translation type="obsolete">Дать голос</translation>
+    </message>
+    <message>
+        <source>Take voice</source>
+        <translation type="obsolete">Забрать голос</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+144"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сервер %1 (Версия %2), Режимы пользователей: %3, Режимы каналов: %4</translation>
     </message>
@@ -838,7 +942,7 @@
     <message>
         <location line="+7"/>
         <source>Start of /LIST</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Начало /LIST</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -860,19 +964,19 @@ Please wait a while and try again.</source>
     <message>
         <location line="+11"/>
         <source>%1 set away message &quot;%2&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 установил сообщение отсутствия &quot;%2&quot;</translation>
     </message>
     <message>
         <source>%1 set away message %2</source>
         <translation type="obsolete">%1 установил сообщение отсутствия %2</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+4"/>
         <source>%1 removed away message</source>
         <translation type="unfinished">%1 удалил сообщение отстутствия</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+5"/>
         <source>You are no longer marked as being away</source>
         <translation type="unfinished">Вы более не &quot;отсутствуете&quot;</translation>
     </message>
@@ -881,20 +985,90 @@ Please wait a while and try again.</source>
         <source>You have been marked as being away</source>
         <translation type="unfinished">Теперь вы &quot;отсутствуете&quot;</translation>
     </message>
+    <message numerus="yes">
+        <source>Received CTCP-PING reply from %1: %2 seconds</source>
+        <translatorcomment>причём тут %n который хочет linguist ?</translatorcomment>
+        <translation type="obsolete">
+            <numerusform>Пинг от %1: %2 секунда %n</numerusform>
+            <numerusform>Пинг от %1: %2 секунды %n</numerusform>
+            <numerusform>Пинг от %1: %2 секунд  %n</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Received CTCP-%1 reply from %2: %3</source>
+        <translation type="obsolete">Принят CTPC-%1 ответ  от %2: %3</translation>
+    </message>
+    <message>
+        <location line="+97"/>
+        <source>Add at least one server before connecting</source>
+        <translation type="unfinished">Необходимо добавить хотя бы один сервер перед подключением</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Set at least one nick before connecting</source>
+        <translation type="unfinished">Необходимо указать ник, перед подключением</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Cannot connect to %1 network</source>
+        <translation type="unfinished">Не удалось полклюиться к сети %1</translation>
+    </message>
+    <message>
+        <location line="+172"/>
+        <source>Network error: %1</source>
+        <translation type="unfinished">Ошибка сети: %1</translation>
+    </message>
+    <message>
+        <source>Not enough parameters for command %1</source>
+        <translation type="obsolete">Не хавтает параметров команде %1</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::irc::IrcJoinLeftActionGenerator</name>
+    <message>
+        <location filename="../../protocols/irc/src/ircchannel.cpp" line="-293"/>
+        <source>Leave the channel</source>
+        <translation type="unfinished">Покинуть канал</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Join the channel</source>
+        <translation type="unfinished">Войти на канал</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::irc::IrcStandartCtpcHandler</name>
+    <message numerus="yes">
+        <location filename="../../protocols/irc/src/ircstandartctpchandler.cpp" line="+68"/>
+        <source>Received CTCP-PING reply from %1: %2 seconds</source>
+        <translation type="unfinished">
+            <numerusform>Пинг от %1: %2 секунда %n</numerusform>
+            <numerusform>Пинг от %1: %2 секунды %n</numerusform>
+            <numerusform>Пинг от %1: %2 секунд  %n</numerusform>
+        </translation>
+    </message>
     <message>
         <location line="+6"/>
+        <source>Received CTCP-%1 reply from %2: %3</source>
+        <translation type="unfinished">Принят CTPC-%1 ответ  от %2: %3</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::irc::IrcWhoisRepliesHandler</name>
+    <message>
+        <location filename="../../protocols/irc/src/ircwhoisreplieshandler.cpp" line="+52"/>
         <source>%1 is %2@%3 (%4)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 - %2@%3 (%4)</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>%1 is online via %2 (%3)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1теперь в сети, через %2 (%3)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>%1 is an IRC operator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 оператор IRC</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -919,59 +1093,7 @@ Please wait a while and try again.</source>
     <message>
         <location line="+5"/>
         <source>%1 is using a secure connection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message numerus="yes">
-        <location line="+42"/>
-        <source>Received CTCP-PING reply from %1: %2 seconds</source>
-        <translatorcomment>причём тут %n который хочет linguist ?</translatorcomment>
-        <translation>
-            <numerusform>Пинг от %1: %2 секунда %n</numerusform>
-            <numerusform>Пинг от %1: %2 секунды %n</numerusform>
-            <numerusform>Пинг от %1: %2 секунд  %n</numerusform>
-        </translation>
-    </message>
-    <message>
-        <location line="+6"/>
-        <source>Received CTCP-%1 reply from %2: %3</source>
-        <translation>Принят CTPC-%1 ответ  от %2: %3</translation>
-    </message>
-    <message>
-        <location line="+180"/>
-        <source>Add at least one server before connecting</source>
-        <translation type="unfinished">Необходимо добавить хотя бы один сервер перед подключением</translation>
-    </message>
-    <message>
-        <location line="+2"/>
-        <source>Set at least one nick before connecting</source>
-        <translation type="unfinished">Необходимо указать ник, перед подключением</translation>
-    </message>
-    <message>
-        <location line="+2"/>
-        <source>Cannot connect to %1 network</source>
-        <translation type="unfinished">Не удалось полклюиться к сети %1</translation>
-    </message>
-    <message>
-        <location line="+184"/>
-        <source>Network error: %1</source>
-        <translation type="unfinished">Ошибка сети: %1</translation>
-    </message>
-    <message>
-        <source>Not enough parameters for command %1</source>
-        <translation type="obsolete">Не хавтает параметров команде %1</translation>
-    </message>
-</context>
-<context>
-    <name>qutim_sdk_0_3::irc::IrcJoinLeftActionGenerator</name>
-    <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="-293"/>
-        <source>Leave the channel</source>
-        <translation type="unfinished">Покинуть канал</translation>
-    </message>
-    <message>
-        <location line="+2"/>
-        <source>Join the channel</source>
-        <translation type="unfinished">Войти на канал</translation>
+        <translation type="unfinished">%1 использует безопасное соединение</translation>
     </message>
 </context>
 </TS>
