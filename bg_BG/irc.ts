@@ -56,7 +56,7 @@
     <message>
         <location line="+7"/>
         <source>Secure Connection (SSL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Защитена връзка (SSL)</translation>
     </message>
 </context>
 <context>
@@ -515,12 +515,12 @@
     <message>
         <location filename="../../qutim-meta/protocols/irc/src/ircprotocol.cpp" line="-25"/>
         <source>User information</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация за потребителя</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Сървъри</translation>
     </message>
 </context>
 <context>
@@ -648,127 +648,127 @@
     <message>
         <location filename="../../qutim-meta/protocols/irc/src/irccommandalias.cpp" line="+89"/>
         <source>Kick / Ban</source>
-        <translation type="unfinished">Изритване/Забрана</translation>
+        <translation>Изритване/Забрана</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Kick</source>
-        <translation type="unfinished">Изритване</translation>
+        <translation>Изритване</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Kickban</source>
-        <translation type="unfinished">Изритване със забрана</translation>
+        <translation>Изритване със забрана</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Ban</source>
-        <translation type="unfinished">Забрана</translation>
+        <translation>Забрана</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Ban *!*@*.host</source>
-        <translation type="unfinished">Забрана *!*@*.host</translation>
+        <translation>Забрана *!*@*.host</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ban *!*@domain</source>
-        <translation type="unfinished">Забрана *!*@domain</translation>
+        <translation>Забрана *!*@domain</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ban *!user@*.host</source>
-        <translation type="unfinished">Забрана *!user@*.host</translation>
+        <translation>Забрана *!user@*.host</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ban *!user@domain</source>
-        <translation type="unfinished">Забрана *!user@domain</translation>
+        <translation>Забрана *!user@domain</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Kickban *!*@*.host</source>
-        <translation type="unfinished">Изритване със забрана *!*@*.host</translation>
+        <translation>Изритване със забрана *!*@*.host</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Kickban *!*@domain</source>
-        <translation type="unfinished">Изритване със забрана *!*@domain</translation>
+        <translation>Изритване със забрана *!*@domain</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Kickban *!user@*.host</source>
-        <translation type="unfinished">Изритване със забрана *!user@*.host</translation>
+        <translation>Изритване със забрана *!user@*.host</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Kickban *!user@domain</source>
-        <translation type="unfinished">Изритване със забрана *!user@domain</translation>
+        <translation>Изритване със забрана *!user@domain</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Ping</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Request client information</source>
-        <translation type="unfinished">Заявка за информация за клиента</translation>
+        <translation>Заявка за информация за клиента</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Request version</source>
-        <translation type="unfinished">Заявка за версия</translation>
+        <translation>Заявка за версия</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Request time</source>
-        <translation type="unfinished">Заявка за време</translation>
+        <translation>Заявка за време</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Аватар</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Modes</source>
-        <translation type="unfinished">Режими</translation>
+        <translation>Режими</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Give Op</source>
-        <translation type="unfinished">Предоставяне на операторски права</translation>
+        <translation>Предоставяне на операторски права</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Take Op</source>
-        <translation type="unfinished">Отнемане на операторските права</translation>
+        <translation>Отнемане на операторските права</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Give HalfOp</source>
-        <translation type="unfinished">Предоставяне на полуоператорски права</translation>
+        <translation>Предоставяне на полуоператорски права</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Take HalfOp</source>
-        <translation type="unfinished">Отнемане на полуоператорските права</translation>
+        <translation>Отнемане на полуоператорските права</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Give voice</source>
-        <translation type="unfinished">Предоставяне на глас</translation>
+        <translation>Предоставяне на глас</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Take voice</source>
-        <translation type="unfinished">Отнемане на глас</translation>
+        <translation>Отнемане на глас</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Send WHOIS request</source>
-        <translation type="unfinished"></translation>
+        <translation>Изпращане WHOIS заявка</translation>
     </message>
 </context>
 <context>
@@ -910,12 +910,12 @@ Please wait a while and try again.</source>
     <message>
         <location line="+302"/>
         <source>SSL error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>SSL грешка: %1</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>SSL handshake completed</source>
-        <translation type="unfinished"></translation>
+        <translation>SSL handshake приключи</translation>
     </message>
     <message>
         <source>%1 set away message %2</source>
@@ -1018,7 +1018,7 @@ Please wait a while and try again.</source>
     <message numerus="yes">
         <location filename="../../qutim-meta/protocols/irc/src/ircstandartctpchandler.cpp" line="+68"/>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Получен CTCP-PING отговор от %1: %2 секунда</numerusform>
             <numerusform>Получен CTCP-PING отговор от %1: %2 секунди</numerusform>
         </translation>
@@ -1026,7 +1026,7 @@ Please wait a while and try again.</source>
     <message>
         <location line="+6"/>
         <source>Received CTCP-%1 reply from %2: %3</source>
-        <translation type="unfinished">Получен CTCP-%1 отговор от %2: %3</translation>
+        <translation>Получен CTCP-%1 отговор от %2: %3</translation>
     </message>
 </context>
 <context>
@@ -1034,42 +1034,42 @@ Please wait a while and try again.</source>
     <message>
         <location filename="../../qutim-meta/protocols/irc/src/ircwhoisreplieshandler.cpp" line="+53"/>
         <source>%1 is %2@%3 (%4)</source>
-        <translation type="unfinished">%1 е %2@%3 (%4)</translation>
+        <translation>%1 е %2@%3 (%4)</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>%1 is online via %2 (%3)</source>
-        <translation type="unfinished">%1 е на линия през %2 (%3)</translation>
+        <translation>%1 е на линия през %2 (%3)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>%1 is an IRC operator</source>
-        <translation type="unfinished">%1 е IRC оператор</translation>
+        <translation>%1 е IRC оператор</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>%1 has been idle since</source>
-        <translation type="unfinished">%1 бездейства от</translation>
+        <translation>%1 бездейства от</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>%1 has been online since</source>
-        <translation type="unfinished">%1 е бил(а) на линия от</translation>
+        <translation>%1 е бил(а) на линия от</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>%1 is a user on channels: </source>
-        <translation type="unfinished">%1 е потребител в следните канали: </translation>
+        <translation>%1 е потребител в следните канали: </translation>
     </message>
     <message>
         <location line="+7"/>
         <source>%1 is logged in as %2</source>
-        <translation type="unfinished">%1 се е вписал като %2</translation>
+        <translation>%1 се е вписал като %2</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 is using a secure connection</source>
-        <translation type="unfinished">%1 използва защитена връзка</translation>
+        <translation>%1 използва защитена връзка</translation>
     </message>
 </context>
 </TS>
