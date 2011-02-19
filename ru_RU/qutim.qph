@@ -5267,4 +5267,8 @@ Accept invitation?</source>
     <source>Unavailable</source>
     <target>Недоступный</target>
 </phrase>
+<phrase>
+    <source>Data dir:</source>
+    <target>Папка с общими файлами:</target>
+</phrase>
 </QPH>

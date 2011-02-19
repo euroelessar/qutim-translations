@@ -53,6 +53,11 @@
         <source>Save password</source>
         <translation>Сохранить пароль</translation>
     </message>
+    <message>
+        <location line="+7"/>
+        <source>Secure Connection (SSL)</source>
+        <translation>Безопасное соединение (SSL)</translation>
+    </message>
 </context>
 <context>
     <name>Author</name>
@@ -387,7 +392,7 @@
         <translation type="obsolete">Войти в канал...</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+66"/>
+        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+88"/>
         <source>Show console...</source>
         <translation>Показать консоль...</translation>
     </message>
@@ -401,7 +406,7 @@
         <translation type="obsolete">Подключиться к каналу</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircgroupchatmanager.cpp" line="+64"/>
+        <location filename="../../protocols/irc/src/ircgroupchatmanager.cpp" line="+63"/>
         <source>Channel</source>
         <translation>Канал</translation>
     </message>
@@ -484,7 +489,7 @@
         <translation type="obsolete">%1 сменил топик на %2.</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+357"/>
+        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+374"/>
         <source>%1 gives channel operator privileges to %2.</source>
         <translation>%1 дал опа %2.</translation>
     </message>
@@ -579,6 +584,19 @@
     </message>
 </context>
 <context>
+    <name>Settings</name>
+    <message>
+        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="-31"/>
+        <source>User information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Servers</source>
+        <translation type="unfinished">Серверы</translation>
+    </message>
+</context>
+<context>
     <name>Task</name>
     <message>
         <location filename="../../protocols/irc/src/ircplugin.cpp" line="-7"/>
@@ -607,7 +625,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcAccount</name>
     <message>
-        <location filename="../../protocols/irc/src/ircaccount.cpp" line="+80"/>
+        <location filename="../../protocols/irc/src/ircaccount.cpp" line="+73"/>
         <source>Away</source>
         <translation>Отошел</translation>
     </message>
@@ -703,127 +721,127 @@
     <message>
         <location filename="../../protocols/irc/src/irccommandalias.cpp" line="+89"/>
         <source>Kick / Ban</source>
-        <translation type="unfinished">Кик / Бан</translation>
+        <translation>Кик / Бан</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Kick</source>
-        <translation type="unfinished">Кик</translation>
+        <translation>Кик</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Kickban</source>
-        <translation type="unfinished">Кикбан</translation>
+        <translation>Кикбан</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Ban</source>
-        <translation type="unfinished">Бан</translation>
+        <translation>Бан</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Ban *!*@*.host</source>
-        <translation type="unfinished">Бан *!*@*.host</translation>
+        <translation>Бан *!*@*.host</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ban *!*@domain</source>
-        <translation type="unfinished">Бан *!*@domain</translation>
+        <translation>Бан *!*@domain</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ban *!user@*.host</source>
-        <translation type="unfinished">Бан *!user@*.host</translation>
+        <translation>Бан *!user@*.host</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ban *!user@domain</source>
-        <translation type="unfinished">Бан *!user@domain</translation>
+        <translation>Бан *!user@domain</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Kickban *!*@*.host</source>
-        <translation type="unfinished">Кикбан *!*@*.host</translation>
+        <translation>Кикбан *!*@*.host</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Kickban *!*@domain</source>
-        <translation type="unfinished">Кикбан *!*@domain</translation>
+        <translation>Кикбан *!*@domain</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Kickban *!user@*.host</source>
-        <translation type="unfinished">Кикбан *!user@*.host</translation>
+        <translation>Кикбан *!user@*.host</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Kickban *!user@domain</source>
-        <translation type="unfinished">Кикбан*!user@domain</translation>
+        <translation>Кикбан*!user@domain</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Ping</source>
-        <translation type="unfinished">Пинг</translation>
+        <translation>Пинг</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Request client information</source>
-        <translation type="unfinished">Запросить информацию</translation>
+        <translation>Запросить информацию</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Request version</source>
-        <translation type="unfinished">Запросить версиб</translation>
+        <translation>Запросить версиб</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Request time</source>
-        <translation type="unfinished">Запросить время</translation>
+        <translation>Запросить время</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Avatar</source>
-        <translation type="unfinished">Аватар</translation>
+        <translation>Аватар</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Modes</source>
-        <translation type="unfinished">Режимы</translation>
+        <translation>Режимы</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Give Op</source>
-        <translation type="unfinished">Дать Опа</translation>
+        <translation>Дать Опа</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Take Op</source>
-        <translation type="unfinished">Взять Опа</translation>
+        <translation>Взять Опа</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Give HalfOp</source>
-        <translation type="unfinished">Дать полуОпа</translation>
+        <translation>Дать полуОпа</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Take HalfOp</source>
-        <translation type="unfinished">Взять полуопа</translation>
+        <translation>Взять полуопа</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Give voice</source>
-        <translation type="unfinished">Дать голос</translation>
+        <translation>Дать голос</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Take voice</source>
-        <translation type="unfinished">Забрать голос</translation>
+        <translation>Забрать голос</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Send WHOIS request</source>
-        <translation type="unfinished">Отправить запрос WHOIS</translation>
+        <translation>Отправить запрос WHOIS</translation>
     </message>
 </context>
 <context>
@@ -925,7 +943,7 @@
         <translation type="obsolete">Забрать голос</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+144"/>
+        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+147"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сервер %1 (Версия %2), Режимы пользователей: %3, Режимы каналов: %4</translation>
     </message>
@@ -940,9 +958,9 @@
         <translation>Конец сообщения дня</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+8"/>
         <source>Start of /LIST</source>
-        <translation type="unfinished">Начало /LIST</translation>
+        <translation>Начало /LIST</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -964,26 +982,36 @@ Please wait a while and try again.</source>
     <message>
         <location line="+11"/>
         <source>%1 set away message &quot;%2&quot;</source>
-        <translation type="unfinished">%1 установил сообщение отсутствия &quot;%2&quot;</translation>
+        <translation>%1 установил сообщение отсутствия &quot;%2&quot;</translation>
+    </message>
+    <message>
+        <location line="+305"/>
+        <source>SSL error: %1</source>
+        <translation>Ошибка SSL: %1</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>SSL handshake completed</source>
+        <translation>Обмен приветствиями SSL завершен</translation>
     </message>
     <message>
         <source>%1 set away message %2</source>
         <translation type="obsolete">%1 установил сообщение отсутствия %2</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="-307"/>
         <source>%1 removed away message</source>
-        <translation type="unfinished">%1 удалил сообщение отстутствия</translation>
+        <translation>%1 удалил сообщение отстутствия</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>You are no longer marked as being away</source>
-        <translation type="unfinished">Вы более не &quot;отсутствуете&quot;</translation>
+        <translation>Вы более не &quot;отсутствуете&quot;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>You have been marked as being away</source>
-        <translation type="unfinished">Теперь вы &quot;отсутствуете&quot;</translation>
+        <translation>Теперь вы &quot;отсутствуете&quot;</translation>
     </message>
     <message numerus="yes">
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
@@ -999,24 +1027,24 @@ Please wait a while and try again.</source>
         <translation type="obsolete">Принят CTPC-%1 ответ  от %2: %3</translation>
     </message>
     <message>
-        <location line="+97"/>
+        <location line="+99"/>
         <source>Add at least one server before connecting</source>
-        <translation type="unfinished">Необходимо добавить хотя бы один сервер перед подключением</translation>
+        <translation>Необходимо добавить хотя бы один сервер перед подключением</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Set at least one nick before connecting</source>
-        <translation type="unfinished">Необходимо указать ник, перед подключением</translation>
+        <translation>Необходимо указать ник, перед подключением</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Cannot connect to %1 network</source>
-        <translation type="unfinished">Не удалось полклюиться к сети %1</translation>
+        <translation>Не удалось полклюиться к сети %1</translation>
     </message>
     <message>
-        <location line="+172"/>
+        <location line="+177"/>
         <source>Network error: %1</source>
-        <translation type="unfinished">Ошибка сети: %1</translation>
+        <translation>Ошибка сети: %1</translation>
     </message>
     <message>
         <source>Not enough parameters for command %1</source>
@@ -1026,14 +1054,22 @@ Please wait a while and try again.</source>
 <context>
     <name>qutim_sdk_0_3::irc::IrcJoinLeftActionGenerator</name>
     <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="-293"/>
+        <location filename="../../protocols/irc/src/ircchannel.cpp" line="-310"/>
         <source>Leave the channel</source>
-        <translation type="unfinished">Покинуть канал</translation>
+        <translation>Покинуть канал</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Join the channel</source>
-        <translation type="unfinished">Войти на канал</translation>
+        <translation>Войти на канал</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::irc::IrcProtocol</name>
+    <message>
+        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+2"/>
+        <source>Auto-join</source>
+        <translation>Авто-вход</translation>
     </message>
 </context>
 <context>
@@ -1041,7 +1077,7 @@ Please wait a while and try again.</source>
     <message numerus="yes">
         <location filename="../../protocols/irc/src/ircstandartctpchandler.cpp" line="+68"/>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Пинг от %1: %2 секунда %n</numerusform>
             <numerusform>Пинг от %1: %2 секунды %n</numerusform>
             <numerusform>Пинг от %1: %2 секунд  %n</numerusform>
@@ -1050,25 +1086,25 @@ Please wait a while and try again.</source>
     <message>
         <location line="+6"/>
         <source>Received CTCP-%1 reply from %2: %3</source>
-        <translation type="unfinished">Принят CTPC-%1 ответ  от %2: %3</translation>
+        <translation>Принят CTPC-%1 ответ  от %2: %3</translation>
     </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::irc::IrcWhoisRepliesHandler</name>
     <message>
-        <location filename="../../protocols/irc/src/ircwhoisreplieshandler.cpp" line="+52"/>
+        <location filename="../../protocols/irc/src/ircwhoisreplieshandler.cpp" line="+53"/>
         <source>%1 is %2@%3 (%4)</source>
-        <translation type="unfinished">%1 - %2@%3 (%4)</translation>
+        <translation>%1 - %2@%3 (%4)</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>%1 is online via %2 (%3)</source>
-        <translation type="unfinished">%1теперь в сети, через %2 (%3)</translation>
+        <translation>%1теперь в сети, через %2 (%3)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>%1 is an IRC operator</source>
-        <translation type="unfinished">%1 оператор IRC</translation>
+        <translation>%1 оператор IRC</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1093,7 +1129,7 @@ Please wait a while and try again.</source>
     <message>
         <location line="+5"/>
         <source>%1 is using a secure connection</source>
-        <translation type="unfinished">%1 использует безопасное соединение</translation>
+        <translation>%1 использует безопасное соединение</translation>
     </message>
 </context>
 </TS>
