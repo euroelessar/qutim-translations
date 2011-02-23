@@ -55,7 +55,7 @@
 <context>
     <name>ActionToolBar</name>
     <message>
-        <location filename="../../qutim/libqutim/actiontoolbar.cpp" line="+40"/>
+        <location filename="../../qutim/libqutim/actiontoolbar.cpp" line="+42"/>
         <source>Small (16x16)</source>
         <translation>Малый (16x16)</translation>
     </message>
@@ -154,7 +154,7 @@
         <translation type="unfinished">Недоступный</translation>
     </message>
     <message>
-        <location line="+43"/>
+        <location line="+54"/>
         <source>Remove contact</source>
         <translation type="unfinished">Удалить контакт</translation>
     </message>
@@ -599,7 +599,7 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Выход</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+13"/>
         <source>Select tags</source>
         <translation>Выбрать метки</translation>
     </message>
@@ -1763,12 +1763,12 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">&amp;Выход</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-56"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-57"/>
         <source>Main Toolbar</source>
         <translation>Главная панель</translation>
     </message>
     <message>
-        <location line="+83"/>
+        <location line="+84"/>
         <location line="+305"/>
         <source>Actions</source>
         <translation type="unfinished">Действия</translation>
@@ -4289,7 +4289,7 @@ en</source>
         <translation>Размер пиктограмм</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+6"/>
         <source>Tool button style</source>
         <translation>Стиль кнопок &quot;инструментов&quot;</translation>
     </message>
