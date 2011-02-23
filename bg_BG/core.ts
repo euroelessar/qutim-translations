@@ -43,7 +43,7 @@
 <context>
     <name>ActionToolBar</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/actiontoolbar.cpp" line="+40"/>
+        <location filename="../../qutim-meta/core/libqutim/actiontoolbar.cpp" line="+42"/>
         <source>Small (16x16)</source>
         <translation>Малък (16x16)</translation>
     </message>
@@ -122,7 +122,7 @@
         <translation>Недостъпен</translation>
     </message>
     <message>
-        <location line="+43"/>
+        <location line="+54"/>
         <source>Remove contact</source>
         <translation>Прeмахване на контакта</translation>
     </message>
@@ -320,7 +320,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+470"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+465"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -438,7 +438,7 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Изход</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+13"/>
         <source>Select tags</source>
         <translation>Избор на етикети</translation>
     </message>
@@ -453,7 +453,7 @@ p, li { white-space: pre-wrap; }
         <translation>Скриване на контактите извън линия</translation>
     </message>
     <message>
-        <location line="-180"/>
+        <location line="-181"/>
         <source>Copy id to clipboard</source>
         <translation>Копиране в клипборда</translation>
     </message>
@@ -1309,7 +1309,7 @@ p, li { white-space: pre-wrap; }
         <translation>Главна лентата с инструменти</translation>
     </message>
     <message>
-        <location line="+83"/>
+        <location line="+84"/>
         <location line="+305"/>
         <source>Actions</source>
         <translation>Действия</translation>
@@ -3036,7 +3036,7 @@ en</source>
         <translation>Размер на иконите</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+6"/>
         <source>Tool button style</source>
         <translation>Стил на бутоните</translation>
     </message>

@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/kde-integration/src/kdeintegration.cpp" line="+60"/>
+        <location filename="../../qutim-meta/plugins/kde-integration/src/kdeintegration.cpp" line="+70"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
