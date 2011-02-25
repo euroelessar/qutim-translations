@@ -464,7 +464,7 @@
     <message>
         <location line="+17"/>
         <source>Affiliation</source>
-        <translation>Връзка</translation>
+        <translation>Ранг</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -856,22 +856,22 @@
         <translation>Настройване на стаята</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+177"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+181"/>
         <source>Conference</source>
         <translation>Конференция</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+10"/>
         <source>Nick</source>
         <translation>Псевдоним</translation>
     </message>
     <message>
-        <location line="-15"/>
+        <location line="-16"/>
         <source>Name</source>
         <translation>Име</translation>
     </message>
     <message>
-        <location line="+20"/>
+        <location line="+21"/>
         <source>Password</source>
         <translation>Парола</translation>
     </message>
