@@ -92,7 +92,7 @@
     <name>AddContact</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.ui" line="+14"/>
-        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+56"/>
+        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+45"/>
         <source>Add contact</source>
         <translation>Добавяне на контакт</translation>
     </message>
@@ -107,7 +107,7 @@
         <translation>Име:</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="-35"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+63"/>
         <source>Remove from roster</source>
         <translation>Премахване от списъка</translation>
     </message>
@@ -117,12 +117,12 @@
         <translation>Добавяне в списъка </translation>
     </message>
     <message>
-        <location line="+42"/>
+        <location line="+48"/>
         <source>Unavailable</source>
         <translation>Недостъпен</translation>
     </message>
     <message>
-        <location line="+54"/>
+        <location line="+101"/>
         <source>Remove contact</source>
         <translation>Прeмахване на контакта</translation>
     </message>
@@ -377,7 +377,7 @@ p, li { white-space: pre-wrap; }
         <translation>Основна</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+46"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-167"/>
         <source>Show information</source>
         <translation>Показване на информация</translation>
     </message>
@@ -398,7 +398,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+3"/>
-        <location line="+36"/>
+        <location line="+49"/>
         <source>Information unavailable</source>
         <translation>Не е достъпна информация</translation>
     </message>
@@ -563,7 +563,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AddContact</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+52"/>
+        <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+54"/>
         <source>Start chat</source>
         <translation>Започване на разговор</translation>
     </message>
@@ -585,9 +585,8 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Сигурни ли сте, че желаете да изтриете контакта %1 от списъка?</translation>
     </message>
     <message>
-        <location line="-120"/>
         <source>Are you sure you want to delete a contact %1 from the roster?</source>
-        <translation>Сигурни ли сте, че желаете да изтриете контакта %1 от списъка?</translation>
+        <translation type="obsolete">Сигурни ли сте, че желаете да изтриете контакта %1 от списъка?</translation>
     </message>
 </context>
 <context>
@@ -1264,7 +1263,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleActions</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+73"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+80"/>
         <source>Rename contact %1</source>
         <translation>Преименуване на контакта %1</translation>
     </message>
@@ -1272,6 +1271,11 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Input new name for contact %1</source>
         <translation>Въведете ново име за контакта %1</translation>
+    </message>
+    <message>
+        <location line="+50"/>
+        <source>Are you sure you want to delete a contact %1 from the roster?</source>
+        <translation>Сигурни ли сте, че желаете да изтриете контакта %1 от списъка?</translation>
     </message>
 </context>
 <context>
@@ -2105,7 +2109,7 @@ p, li { white-space: pre-wrap; }
         <translation>Четвърто тримесечие</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-20"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-70"/>
         <source>Copy %1 to clipboard</source>
         <translation>Копиране на %1 в клипборда</translation>
     </message>
