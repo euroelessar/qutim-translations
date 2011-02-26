@@ -949,7 +949,7 @@
         <translation type="obsolete">Войти в конференцию</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+190"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+196"/>
         <source>Password</source>
         <translation>Пароль</translation>
     </message>
@@ -1012,12 +1012,12 @@
         <translation>Настройки комнаты</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="-19"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="-21"/>
         <source>Conference</source>
         <translation>Конференция</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+10"/>
         <source>Nick</source>
         <translation>Ник</translation>
     </message>
@@ -1030,7 +1030,7 @@
         <translation type="obsolete">Да</translation>
     </message>
     <message>
-        <location line="-15"/>
+        <location line="-16"/>
         <source>Name</source>
         <translation>Имя</translation>
     </message>
@@ -1149,7 +1149,7 @@
 <context>
     <name>Jabber::JBookmarkManager</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+44"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+45"/>
         <source>Unable to join groupchat</source>
         <translation type="unfinished">Не могу присоедениться к групповому чату</translation>
     </message>

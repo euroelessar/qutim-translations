@@ -1012,14 +1012,14 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Отправить в</translation>
     </message>
     <message>
-        <location line="+239"/>
+        <location line="+240"/>
         <location line="+17"/>
         <source>Actions</source>
         <translation type="unfinished">Действия</translation>
     </message>
     <message>
-        <location line="-191"/>
-        <location line="+192"/>
+        <location line="-192"/>
+        <location line="+193"/>
         <source>Send</source>
         <translation type="unfinished">Отправить</translation>
     </message>
@@ -1372,7 +1372,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+109"/>
-        <location line="+31"/>
+        <location line="+41"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки qutIM - %1</translation>
     </message>
@@ -2042,7 +2042,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Enter</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+59"/>
+        <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="+60"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
@@ -2052,7 +2052,7 @@ p, li { white-space: pre-wrap; }
         <translation>Назад</translation>
     </message>
     <message>
-        <location line="+78"/>
+        <location line="+81"/>
         <source>Bookmarks</source>
         <translation>Закладки</translation>
     </message>
