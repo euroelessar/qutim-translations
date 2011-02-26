@@ -177,6 +177,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogplugin.cpp" line="+29"/>
         <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+19"/>
         <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+31"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="+33"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -1957,6 +1958,16 @@ p, li { white-space: pre-wrap; }
         <source>Kinetic scrolling</source>
         <translation>Kinetic превъртане</translation>
     </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="-3"/>
+        <source>Simple Actions</source>
+        <translation>Обикновени действия</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Default actionset for contacts</source>
+        <translation>Подразбиращ се набор от действия с контактите</translation>
+    </message>
 </context>
 <context>
     <name>ProfileCreationPage</name>
@@ -2653,6 +2664,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogplugin.cpp" line="+3"/>
         <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+3"/>
         <location filename="../../qutim-meta/core/src/corelayers/searchdialog/searchdialogplugin.cpp" line="-10"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
