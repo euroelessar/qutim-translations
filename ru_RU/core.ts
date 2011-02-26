@@ -544,7 +544,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+827"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+822"/>
         <source>Remove contact</source>
         <translation>Удалить контакт</translation>
     </message>
@@ -554,12 +554,12 @@ p, li { white-space: pre-wrap; }
         <translation>Добавить в ростер</translation>
     </message>
     <message>
-        <location line="-750"/>
+        <location line="-746"/>
         <source>Rename contact</source>
         <translation>Переименовать</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location filename="../../qutim/src/corelayers/simpleactions/src/simpleactions.cpp" line="+31"/>
         <source>Edit tags</source>
         <translation>Изменить метки</translation>
     </message>
@@ -1810,7 +1810,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleTagsEditor</name>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodel/simpletagseditor/simpletagseditor.cpp" line="+17"/>
+        <location filename="../../qutim/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp" line="+17"/>
         <source>Edit tags for %1</source>
         <translation>Изменить метки для %1</translation>
     </message>
@@ -3517,7 +3517,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>SimpleTagsEditor</name>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodel/simpletagseditor/simpletagseditor.ui" line="+46"/>
+        <location filename="../../qutim/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.ui" line="+46"/>
         <source>Add</source>
         <translation>Добавить</translation>
     </message>
