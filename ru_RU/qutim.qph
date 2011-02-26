@@ -5271,4 +5271,68 @@ Accept invitation?</source>
     <source>Data dir:</source>
     <target>Папка с общими файлами:</target>
 </phrase>
+<phrase>
+    <source>Unavailable</source>
+    <target>Недоступно</target>
+</phrase>
+<phrase>
+    <source>Remove from roster</source>
+    <target>Удалить из ростера</target>
+</phrase>
+<phrase>
+    <source>Add to roster</source>
+    <target>Добавить в ростер</target>
+</phrase>
+<phrase>
+    <source>Remove contact</source>
+    <target>Удалить контакт</target>
+</phrase>
+<phrase>
+    <source>Show information</source>
+    <target>Показать информацию</target>
+</phrase>
+<phrase>
+    <source>Copy id to clipboard</source>
+    <target>Копировать id в буфер обмена</target>
+</phrase>
+<phrase>
+    <source>Edit information</source>
+    <target>Изменить информацию</target>
+</phrase>
+<phrase>
+    <source>Information unavailable</source>
+    <target>Информация недоступна</target>
+</phrase>
+<phrase>
+    <source>Rename contact</source>
+    <target>Переименовать контакт</target>
+</phrase>
+<phrase>
+    <source>Edit tags</source>
+    <target>Изменить теги</target>
+</phrase>
+<phrase>
+    <source>Rename contact %1</source>
+    <target>Переименовать контакт %1</target>
+</phrase>
+<phrase>
+    <source>Input new name for contact %1</source>
+    <target>Дайте новое имя контакту %1</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to delete a contact %1 from the roster?</source>
+    <target>Вы действительно хотите удалить %1 из ростера?</target>
+</phrase>
+<phrase>
+    <source>Edit tags for %1</source>
+    <target>Изменить метки у %1</target>
+</phrase>
+<phrase>
+    <source>Copy %1 to clipboard</source>
+    <target>Копировать %1 в буфер обмена</target>
+</phrase>
+<phrase>
+    <source>Add</source>
+    <target>Добавить</target>
+</phrase>
 </QPH>
