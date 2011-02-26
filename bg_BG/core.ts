@@ -932,6 +932,34 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::KineticScroller</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticscroller/kineticscroller.cpp" line="+36"/>
+        <source>No scrolling</source>
+        <translation>Без</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Touch</source>
+        <translation>Докосване</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Left mouse button</source>
+        <translation>Ляв бутон на мишката</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Middle mouse button</source>
+        <translation>Среден бутон на мишката</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Right mouse button</source>
+        <translation>Десен бутон на мишката</translation>
+    </message>
+</context>
+<context>
     <name>Core::MetaContacts::MergeDialog</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/metacontacts/mergedialog.ui" line="+14"/>
@@ -1924,6 +1952,11 @@ p, li { white-space: pre-wrap; }
         <source>Activates the session when certain events</source>
         <translation>Активира сесиятата при определени събития</translation>
     </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticscroller/kineticscroller.cpp" line="-8"/>
+        <source>Kinetic scrolling</source>
+        <translation>Kinetic превъртане</translation>
+    </message>
 </context>
 <context>
     <name>ProfileCreationPage</name>
@@ -2298,6 +2331,11 @@ p, li { white-space: pre-wrap; }
         <location line="+7"/>
         <source>Proxy</source>
         <translation>Прокси</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticscroller/kineticscroller.cpp" line="+9"/>
+        <source>Scrolling type</source>
+        <translation>Тип на превъртането</translation>
     </message>
 </context>
 <context>

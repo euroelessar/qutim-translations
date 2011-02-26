@@ -967,7 +967,7 @@
 <context>
     <name>Jabber::JBookmarkManager</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+18"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+17"/>
         <source>Unable to join groupchat</source>
         <translation>Неуспешно присъединяване към групов разговор</translation>
     </message>
