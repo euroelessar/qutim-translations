@@ -5335,4 +5335,16 @@ Accept invitation?</source>
     <source>Add</source>
     <target>Добавить</target>
 </phrase>
+<phrase>
+    <source>Simple Actions</source>
+    <target>Простые действия</target>
+</phrase>
+<phrase>
+    <source>Default actionset for contacts</source>
+    <target>Простые действия для контактов</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to delete a contact %1 from the roster?</source>
+    <target>Уверен что хочешь удалить %1 из ростера?</target>
+</phrase>
 </QPH>

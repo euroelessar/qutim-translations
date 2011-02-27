@@ -1149,7 +1149,7 @@
 <context>
     <name>Jabber::JBookmarkManager</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+45"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+44"/>
         <source>Unable to join groupchat</source>
         <translation type="unfinished">Не могу присоедениться к групповому чату</translation>
     </message>

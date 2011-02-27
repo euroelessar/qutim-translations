@@ -141,22 +141,22 @@
     <message>
         <location filename="../../qutim/src/corelayers/simpleactions/src/simpleactions.cpp" line="+63"/>
         <source>Remove from roster</source>
-        <translation type="unfinished">Удалить из ростера</translation>
+        <translation>Удалить из ростера</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Add to roster</source>
-        <translation type="unfinished">Добавить в ростер</translation>
+        <translation>Добавить в ростер</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>Unavailable</source>
-        <translation type="unfinished">Недоступный</translation>
+        <translation>Недоступный</translation>
     </message>
     <message>
         <location line="+101"/>
         <source>Remove contact</source>
-        <translation type="unfinished">Удалить контакт</translation>
+        <translation>Удалить контакт</translation>
     </message>
 </context>
 <context>
@@ -226,6 +226,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/authdialog/authdialogplugin.cpp" line="+29"/>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+19"/>
         <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+31"/>
+        <location filename="../../qutim/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="+33"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -803,53 +804,63 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ChatAppearance</name>
     <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="+45"/>
         <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+46"/>
         <source>Vasya Pupkin</source>
         <translation>Вася Пупкин</translation>
     </message>
     <message>
         <location line="+11"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+11"/>
         <source>Noname</source>
         <translation>Безымянный</translation>
     </message>
     <message>
-        <location line="+63"/>
+        <location line="+67"/>
+        <location line="+53"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+63"/>
         <location line="+80"/>
         <source>Unable to create chat session</source>
         <translation>Не могу создать сессию чата</translation>
     </message>
     <message>
         <location line="+3"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>Preview message</source>
         <translation>Пред. просмотр сообщения</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+7"/>
         <source>Hello!</source>
         <translation>Привет!</translation>
     </message>
     <message>
         <location line="+3"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>How are you?</source>
         <translation>Как дела?</translation>
     </message>
     <message>
         <location line="+3"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>I am fine!</source>
         <translation>Я в порядке!</translation>
     </message>
     <message>
         <location line="+3"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>/me is thinking!</source>
         <translation>/me думает!</translation>
     </message>
     <message>
         <location line="+3"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>Vasya Pupkin is reading you mind</source>
         <translation>Васяня Пупкин читает твои мысли</translation>
     </message>
     <message>
-        <location line="+17"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+17"/>
         <source>Style variant:</source>
         <translation>Варианты стиля:</translation>
     </message>
@@ -1281,6 +1292,34 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::KineticScroller</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/kineticscroller/kineticscroller.cpp" line="+36"/>
+        <source>No scrolling</source>
+        <translation type="unfinished">Тез прокрутки</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Touch</source>
+        <translation type="unfinished">Касанием</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Left mouse button</source>
+        <translation type="unfinished">Левая кнопка мыши</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Middle mouse button</source>
+        <translation type="unfinished">Средняя кнопка мыши</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Right mouse button</source>
+        <translation type="unfinished">Правая кнопка мыши</translation>
+    </message>
+</context>
+<context>
     <name>Core::MetaContacts::MergeDialog</name>
     <message>
         <location filename="../../qutim/src/corelayers/metacontacts/mergedialog.ui" line="+14"/>
@@ -1708,17 +1747,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/simpleactions/src/simpleactions.cpp" line="+89"/>
         <source>Rename contact %1</source>
-        <translation type="unfinished">Переименовать контакт %1</translation>
+        <translation>Переименовать контакт %1</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Input new name for contact %1</source>
-        <translation type="unfinished">Дайте новое имя контакту %1</translation>
+        <translation>Дайте новое имя контакту %1</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>Are you sure you want to delete a contact %1 from the roster?</source>
-        <translation type="unfinished">Уверен что хочешь удалить %1 из ростера?</translation>
+        <translation>Уверен что хочешь удалить %1 из ростера?</translation>
     </message>
 </context>
 <context>
@@ -2960,6 +2999,21 @@ p, li { white-space: pre-wrap; }
         <source>Modern chat view based on power of QtQuick</source>
         <translation type="unfinished">Чат использующий энергию Qt Quick</translation>
     </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/kineticscroller/kineticscroller.cpp" line="-8"/>
+        <source>Kinetic scrolling</source>
+        <translation type="unfinished">Кинетическая прокрутка</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="-3"/>
+        <source>Simple Actions</source>
+        <translation>Простые действия</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Default actionset for contacts</source>
+        <translation>Простые действия для контактов</translation>
+    </message>
 </context>
 <context>
     <name>ProfileCreationPage</name>
@@ -3341,6 +3395,7 @@ p, li { white-space: pre-wrap; }
         <translation>Звуки</translation>
     </message>
     <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/qmlchat/quickchatviewfactory.cpp" line="+31"/>
         <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/webkitviewfactory.cpp" line="+18"/>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatform.cpp" line="-4"/>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatform.cpp" line="+23"/>
@@ -3398,6 +3453,11 @@ p, li { white-space: pre-wrap; }
         <location line="+7"/>
         <source>Proxy</source>
         <translation>Прокси</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/kineticscroller/kineticscroller.cpp" line="+9"/>
+        <source>Scrolling type</source>
+        <translation type="unfinished">Тип прокрутки</translation>
     </message>
 </context>
 <context>
@@ -3727,6 +3787,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/authdialog/authdialogplugin.cpp" line="+3"/>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+3"/>
         <location filename="../../qutim/src/corelayers/searchdialog/searchdialogplugin.cpp" line="-10"/>
+        <location filename="../../qutim/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -4259,6 +4320,19 @@ en</source>
         <location line="+0"/>
         <source>Default qutIM popups based on QTextDocument</source>
         <translation>Всплывающие уведомления qutIM, основаны на QTextDocument</translation>
+    </message>
+</context>
+<context>
+    <name>quickChatAppearance</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.ui" line="+14"/>
+        <source>Form</source>
+        <translation>Настройки</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Enable openGL acceleration</source>
+        <translation type="unfinished">Задействовать OpenGL ускорение</translation>
     </message>
 </context>
 <context>
