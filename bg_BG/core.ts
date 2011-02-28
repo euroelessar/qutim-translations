@@ -614,53 +614,63 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ChatAppearance</name>
     <message>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="+45"/>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+46"/>
         <source>Vasya Pupkin</source>
         <translation>Вася Пупкин</translation>
     </message>
     <message>
         <location line="+11"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+11"/>
         <source>Noname</source>
         <translation>Безименен</translation>
     </message>
     <message>
-        <location line="+63"/>
+        <location line="+67"/>
+        <location line="+53"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+63"/>
         <location line="+80"/>
         <source>Unable to create chat session</source>
         <translation>Невъзможно е създаването на сесия за разговор</translation>
     </message>
     <message>
         <location line="+3"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>Preview message</source>
         <translation>Предварителен преглед на съобщението</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+7"/>
         <source>Hello!</source>
         <translation>Здравей!</translation>
     </message>
     <message>
         <location line="+3"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>How are you?</source>
         <translation>Как си?</translation>
     </message>
     <message>
         <location line="+3"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>I am fine!</source>
         <translation>Бивам!</translation>
     </message>
     <message>
         <location line="+3"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>/me is thinking!</source>
         <translation>/me мисли!</translation>
     </message>
     <message>
         <location line="+3"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>Vasya Pupkin is reading you mind</source>
         <translation>Вася Пупкин чете мислите ви</translation>
     </message>
     <message>
-        <location line="+17"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+17"/>
         <source>Style variant:</source>
         <translation>Вариант на стила:</translation>
     </message>
@@ -2286,6 +2296,7 @@ p, li { white-space: pre-wrap; }
         <translation>Звуци</translation>
     </message>
     <message>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/qmlchat/quickchatviewfactory.cpp" line="+31"/>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/webkitviewfactory.cpp" line="+18"/>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatform.cpp" line="-4"/>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatform.cpp" line="+23"/>
@@ -3078,6 +3089,19 @@ en</source>
         <location line="+0"/>
         <source>Default qutIM popups based on QTextDocument</source>
         <translation>Подразбираща се за qutIM реализация на изскачащи прозорци. На базата на QTextDocument</translation>
+    </message>
+</context>
+<context>
+    <name>quickChatAppearance</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.ui" line="+14"/>
+        <source>Form</source>
+        <translation>Настройко на OpenGL</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Enable openGL acceleration</source>
+        <translation>Включване на OpenGL ускорение</translation>
     </message>
 </context>
 <context>
