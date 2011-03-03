@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/logger/src/logger.cpp" line="+38"/>
+        <location filename="../../qutim-meta/plugins/logger/src/logger.cpp" line="+51"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>Logger::LoggerPlugin</name>
     <message>
-        <location line="+18"/>
+        <location line="+17"/>
         <source>New session started, happy debuging ^_^</source>
         <translation>Стартирана е нова сесия, успешно дебъгване ^_^</translation>
     </message>
@@ -20,13 +20,13 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location line="-21"/>
-        <location line="+25"/>
+        <location line="-20"/>
+        <location line="+24"/>
         <source>Logger</source>
         <translation>Журнал</translation>
     </message>
     <message>
-        <location line="-24"/>
+        <location line="-23"/>
         <source>Simple file based logger for debug</source>
         <translation>Опростен файлово-базиран журнал за дебъгване</translation>
     </message>
@@ -35,11 +35,16 @@
         <source>Select log path</source>
         <translation>Избор на път до журнала</translation>
     </message>
+    <message>
+        <location line="+4"/>
+        <source>Enable dump of debug info</source>
+        <translation>Включване на извеждането на debug инфорнация</translation>
+    </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location line="-24"/>
+        <location line="-28"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
