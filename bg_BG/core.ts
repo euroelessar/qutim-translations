@@ -3096,20 +3096,12 @@ en</source>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.ui" line="+14"/>
         <source>Form</source>
-<<<<<<< HEAD
         <translation>OpenGL конфигуриране</translation>
-=======
-        <translation>Настройко на OpenGL</translation>
->>>>>>> 90d8728784744e5c244276267c7a24407b54f8dd
     </message>
     <message>
         <location line="+6"/>
         <source>Enable openGL acceleration</source>
-<<<<<<< HEAD
         <translation>Включване на OpenGL ускоряването</translation>
-=======
-        <translation>Включване на OpenGL ускорение</translation>
->>>>>>> 90d8728784744e5c244276267c7a24407b54f8dd
     </message>
 </context>
 <context>
