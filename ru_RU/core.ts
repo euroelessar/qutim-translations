@@ -702,7 +702,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AccountCreatorProtocols</name>
     <message>
-        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+59"/>
+        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+60"/>
         <source>Select protocol</source>
         <translation>Выберите протокол</translation>
     </message>
@@ -710,7 +710,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AccountCreatorWizard</name>
     <message>
-        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorwizard.cpp" line="+10"/>
+        <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorwizard.cpp" line="+11"/>
         <source>Add a new account</source>
         <translation>Добавить новый аккаунт</translation>
     </message>
@@ -1437,7 +1437,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::PluginChooserWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/servicechooser/pluginchooserwidget.cpp" line="+110"/>
+        <location filename="../../qutim/src/corelayers/servicechooser/pluginchooserwidget.cpp" line="+111"/>
         <source>To take effect you must restart qutIM</source>
         <translation>Требуется перезапуск qutIM</translation>
     </message>
@@ -2547,7 +2547,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Модуль настроек уведомлений kinetic</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/accountcreator/accountcreator.cpp" line="+12"/>
+        <location filename="../../qutim/src/corelayers/accountcreator/accountcreator.cpp" line="+14"/>
         <source>Account creator</source>
         <translation>Модуль создания учетных записей</translation>
     </message>
