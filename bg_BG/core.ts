@@ -517,6 +517,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleabout/simpleaboutcreator.cpp" line="+32"/>
+        <source>About qutIM</source>
+        <translation>За qutIM</translation>
+    </message>
+</context>
+<context>
     <name>Core::AccountCreatorList</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+72"/>
@@ -548,7 +556,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AccountCreatorProtocols</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+59"/>
+        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorprotocols.cpp" line="+60"/>
         <source>Select protocol</source>
         <translation>Избор на протокол</translation>
     </message>
@@ -556,7 +564,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AccountCreatorWizard</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorwizard.cpp" line="+10"/>
+        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorwizard.cpp" line="+11"/>
         <source>Add a new account</source>
         <translation>Добавяне на нова сметка</translation>
     </message>
@@ -1087,7 +1095,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::PluginChooserWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/pluginchooserwidget.cpp" line="+110"/>
+        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/pluginchooserwidget.cpp" line="+111"/>
         <source>To take effect you must restart qutIM</source>
         <translation>За да влязат в сила промените, qutIM трябва да бъде рестартиран</translation>
     </message>
@@ -1297,6 +1305,14 @@ p, li { white-space: pre-wrap; }
         <location line="+41"/>
         <source>%1 : input</source>
         <translation>%1 : въвеждане</translation>
+    </message>
+</context>
+<context>
+    <name>Core::SimpleAboutDialog</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleabout/simpleaboutdialog.cpp" line="+57"/>
+        <source>qutIM %1&lt;br&gt;Uses Qt %2&lt;p&gt;Developers:&lt;p&gt;</source>
+        <translation>qutIM %1&lt;br&gt;Използва Qt %2&lt;p&gt;Разработчици:&lt;p&gt;</translation>
     </message>
 </context>
 <context>
@@ -1872,7 +1888,7 @@ p, li { white-space: pre-wrap; }
         <translation>Модифициране на %time% и %timeOpened% параметри, на базата на документацията на Apple</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreator.cpp" line="+12"/>
+        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreator.cpp" line="+14"/>
         <source>Account creator</source>
         <translation>Създаване на сметка</translation>
     </message>
@@ -2422,6 +2438,19 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/src/corelayers/shortcutsettings/shortcutsettingswidget.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки на клавишни комбинации</translation>
+    </message>
+</context>
+<context>
+    <name>SimpleAboutDialog</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleabout/simpleaboutdialog.ui" line="+14"/>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
