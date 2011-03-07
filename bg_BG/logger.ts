@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/logger/src/logger.cpp" line="+51"/>
+        <location filename="../../qutim-meta/plugins/logger/src/logger.cpp" line="+54"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
