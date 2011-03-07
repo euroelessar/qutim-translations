@@ -5347,4 +5347,8 @@ Accept invitation?</source>
     <source>Are you sure you want to delete a contact %1 from the roster?</source>
     <target>Уверен что хочешь удалить %1 из ростера?</target>
 </phrase>
+<phrase>
+    <source>About qutIM</source>
+    <target>О qutIM...</target>
+</phrase>
 </QPH>

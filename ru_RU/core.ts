@@ -657,6 +657,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/simpleabout/simpleaboutcreator.cpp" line="+32"/>
+        <source>About qutIM</source>
+        <translation type="unfinished">О qutIM...</translation>
+    </message>
+</context>
+<context>
     <name>Core::AccountCreatorList</name>
     <message>
         <source>Add new account</source>
@@ -1740,6 +1748,14 @@ p, li { white-space: pre-wrap; }
         <location line="+41"/>
         <source>%1 : input</source>
         <translation>%1 : вход</translation>
+    </message>
+</context>
+<context>
+    <name>Core::SimpleAboutDialog</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/simpleabout/simpleaboutdialog.cpp" line="+57"/>
+        <source>qutIM %1&lt;br&gt;Uses Qt %2&lt;p&gt;Developers:&lt;p&gt;</source>
+        <translation type="unfinished">qutIM %1&lt;br&gt;Использует Qt %2&lt;p&gt;Разработчики:&lt;p&gt;</translation>
     </message>
 </context>
 <context>
@@ -3014,6 +3030,16 @@ p, li { white-space: pre-wrap; }
         <source>Default actionset for contacts</source>
         <translation>Простые действия для контактов</translation>
     </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/simpleabout/simpleaboutdialogplugin.cpp" line="+11"/>
+        <source>Simple about dialog</source>
+        <translation type="unfinished">Простое окошко о программе</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Simple dialog about qutIM and it&apos;s authors</source>
+        <translation type="unfinished">Простое окошко о qutIM&apos;е и его авторах</translation>
+    </message>
 </context>
 <context>
     <name>ProfileCreationPage</name>
@@ -3523,6 +3549,19 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/shortcutsettings/shortcutsettingswidget.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
+    </message>
+</context>
+<context>
+    <name>SimpleAboutDialog</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/simpleabout/simpleaboutdialog.ui" line="+14"/>
+        <source>Dialog</source>
+        <translation type="unfinished">Диалог</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>TextLabel</source>
+        <translation type="unfinished">Поле текста</translation>
     </message>
 </context>
 <context>
