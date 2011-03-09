@@ -694,7 +694,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ChatEmoticonsWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/actions/chatemoticonswidget.cpp" line="+42"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/actions/chatemoticonswidget.cpp" line="+45"/>
         <source>Close</source>
         <translation>Затваряне</translation>
     </message>
@@ -725,12 +725,12 @@ p, li { white-space: pre-wrap; }
     <name>Core::AdiumChat::SessionListWidget</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp" line="+30"/>
-        <location line="+218"/>
+        <location line="+215"/>
         <source>Close chat</source>
         <translation>Затваряне на разговора</translation>
     </message>
     <message>
-        <location line="-213"/>
+        <location line="-210"/>
         <source>Session list</source>
         <translation>Списък на сесиите</translation>
     </message>
@@ -1310,7 +1310,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleAboutDialog</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simpleabout/simpleaboutdialog.cpp" line="+57"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleabout/simpleaboutdialog.cpp" line="+58"/>
         <source>qutIM %1&lt;br&gt;Uses Qt %2&lt;p&gt;Developers:&lt;p&gt;</source>
         <translation>qutIM %1&lt;br&gt;Използва Qt %2&lt;p&gt;Разработчици:&lt;p&gt;</translation>
     </message>
@@ -2444,13 +2444,13 @@ p, li { white-space: pre-wrap; }
     <name>SimpleAboutDialog</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/simpleabout/simpleaboutdialog.ui" line="+14"/>
-        <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <source>About qutIM</source>
+        <translation>За qutIM</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+24"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
