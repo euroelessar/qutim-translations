@@ -953,7 +953,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::KineticScroller</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticscroller/kineticscroller.cpp" line="+36"/>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticscroller/kineticscroller.cpp" line="+37"/>
         <source>No scrolling</source>
         <translation>Без</translation>
     </message>
@@ -1095,7 +1095,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::PluginChooserWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/pluginchooserwidget.cpp" line="+111"/>
+        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/pluginchooserwidget.cpp" line="+115"/>
         <source>To take effect you must restart qutIM</source>
         <translation>За да влязат в сила промените, qutIM трябва да бъде рестартиран</translation>
     </message>
@@ -1289,7 +1289,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ServiceChooserWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/servicechooserwidget.cpp" line="+118"/>
+        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/servicechooserwidget.cpp" line="+121"/>
         <source>To take effect you must restart qutIM</source>
         <translation>За да влязат в сила промените, qutIM трябва да бъде рестартиран</translation>
     </message>
@@ -1310,7 +1310,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleAboutDialog</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simpleabout/simpleaboutdialog.cpp" line="+58"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleabout/simpleaboutdialog.cpp" line="+35"/>
         <source>qutIM %1&lt;br&gt;Uses Qt %2&lt;p&gt;Developers:&lt;p&gt;</source>
         <translation>qutIM %1&lt;br&gt;Използва Qt %2&lt;p&gt;Разработчици:&lt;p&gt;</translation>
     </message>
@@ -1980,7 +1980,7 @@ p, li { white-space: pre-wrap; }
         <translation>Активира сесиятата при определени събития</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticscroller/kineticscroller.cpp" line="-8"/>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticscroller/kineticscroller.cpp" line="-9"/>
         <source>Kinetic scrolling</source>
         <translation>Kinetic превъртане</translation>
     </message>
@@ -2262,7 +2262,7 @@ p, li { white-space: pre-wrap; }
         <translation>Емотикони</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/localization/localizationmodule.cpp" line="+35"/>
+        <location filename="../../qutim-meta/core/src/corelayers/localization/localizationmodule.cpp" line="+36"/>
         <source>Localization</source>
         <translation>Локализация</translation>
     </message>
@@ -2371,7 +2371,7 @@ p, li { white-space: pre-wrap; }
         <translation>Прокси</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticscroller/kineticscroller.cpp" line="+9"/>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticscroller/kineticscroller.cpp" line="+10"/>
         <source>Scrolling type</source>
         <translation>Тип на превъртането</translation>
     </message>
@@ -2638,6 +2638,20 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>TRANSLATORS</name>
+    <message>
+        <location filename="../../qutim-meta/core/libqutim/personinfo.cpp" line="+209"/>
+        <source>Your names</source>
+        <translation>Boyan G. Kiroff</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+1"/>
+        <source>Your emails</source>
+        <translation>boyan.kiroff@gmail.com</translation>
+    </message>
+</context>
+<context>
     <name>TabbedChatBehavior</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui" line="+14"/>
@@ -2712,6 +2726,11 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+3"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/libqutim/personinfo.cpp" line="+3"/>
+        <source>Translator</source>
+        <translation>Преводач</translation>
     </message>
 </context>
 <context>
