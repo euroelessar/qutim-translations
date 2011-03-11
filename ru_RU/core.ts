@@ -3771,7 +3771,7 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <location line="+1"/>
         <source>Your emails</source>
-        <translation type="unfinished">f1.mrfree@gmail.com,</translation>
+        <translation type="unfinished">f1.mrfree@gmail.com,nico-izo@yandex.ru</translation>
     </message>
 </context>
 <context>
