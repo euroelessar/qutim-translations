@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/kde-integration/src/kdeintegration.cpp" line="+70"/>
+        <location filename="../../plugins/kde-integration/src/kdeintegration.cpp" line="+72"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -12,6 +12,14 @@
         <location line="+3"/>
         <source>Sidorov Aleksey</source>
         <translation>Сидоров Алексей</translation>
+    </message>
+</context>
+<context>
+    <name>Core</name>
+    <message>
+        <location filename="../../plugins/kde-integration/src/aboutapp/kdeaboutappdialog.cpp" line="+35"/>
+        <source>About qutIM</source>
+        <translation type="unfinished">о qutIM</translation>
     </message>
 </context>
 <context>
@@ -112,6 +120,26 @@
         <source>Using new KDE DBus tray specification</source>
         <translation type="unfinished">Использует новую спецификацию KDE DBus</translation>
     </message>
+    <message>
+        <location line="+2"/>
+        <source>About KDE dialog</source>
+        <translation type="unfinished">О KDE</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show &quot;About KDE&quot; menu option</source>
+        <translation type="unfinished">Показывает &quot;о KDE&quot; опцию в меню</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>KDE About application dialog</source>
+        <translation type="unfinished">Окно о KDE</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Use kde-specific application about dialog</source>
+        <translation type="unfinished">Использует KDE-специфичное окно о программе</translation>
+    </message>
 </context>
 <context>
     <name>Settings</name>
@@ -130,7 +158,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../plugins/kde-integration/src/kdeintegration.cpp" line="-24"/>
+        <location filename="../../plugins/kde-integration/src/kdeintegration.cpp" line="-30"/>
         <location line="+3"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
