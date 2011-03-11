@@ -19,7 +19,7 @@
     <message>
         <location filename="../../qutim-meta/plugins/kde-integration/src/aboutapp/kdeaboutappdialog.cpp" line="+35"/>
         <source>About qutIM</source>
-        <translation type="unfinished"></translation>
+        <translation>За qutIM</translation>
     </message>
 </context>
 <context>
@@ -123,22 +123,22 @@
     <message>
         <location line="+2"/>
         <source>About KDE dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>За KDE</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show &quot;About KDE&quot; menu option</source>
-        <translation type="unfinished"></translation>
+        <translation>Показва менюто &quot;За KDE&quot;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>KDE About application dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>KDE За програмата</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use kde-specific application about dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Използва специфичен за KDE диалог &quot;За програмата&quot;</translation>
     </message>
 </context>
 <context>

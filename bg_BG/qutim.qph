@@ -3052,4 +3052,8 @@
     <source>Translator</source>
     <target>Преводач</target>
 </phrase>
+<phrase>
+    <source>About qutIM</source>
+    <target>За qutIM</target>
+</phrase>
 </QPH>
