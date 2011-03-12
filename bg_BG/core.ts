@@ -2703,7 +2703,8 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/core/libqutim/personinfo.cpp" line="+209"/>
         <source>Your names</source>
-        <translation>Boyan G. Kiroff</translation>
+        <translatorcomment>Boyan G. Kiroff</translatorcomment>
+        <translation>Боян Г. Киров</translation>
     </message>
     <message>
         <location line="+1"/>
