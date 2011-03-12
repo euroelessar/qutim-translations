@@ -17,7 +17,7 @@
 <context>
     <name>Core</name>
     <message>
-        <location filename="../../plugins/kde-integration/src/aboutapp/kdeaboutappdialog.cpp" line="+35"/>
+        <location filename="../../plugins/kde-integration/src/aboutapp/kdeaboutappdialog.cpp" line="+36"/>
         <source>About qutIM</source>
         <translation type="unfinished">о qutIM</translation>
     </message>
