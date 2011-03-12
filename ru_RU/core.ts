@@ -1768,7 +1768,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/simpleabout/simpleaboutdialog.cpp" line="+42"/>
         <source>Based on Qt %1 (%2 bit).</source>
-        <translation type="unfinished">Основан на Qt %1 (%2 битная).</translation>
+        <translation type="unfinished">Основан на Qt %1 (%2 бит).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3606,7 +3606,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+96"/>
         <source>Module based instant messenger.</source>
-        <translation type="unfinished">Модульый интернет пейджер.</translation>
+        <translation type="unfinished">Модульный интернет пейджер.</translation>
     </message>
     <message>
         <location line="+33"/>
