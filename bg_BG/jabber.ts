@@ -434,12 +434,11 @@
         <translation>Никита Белов</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Ruslan Nigmatullin</source>
-        <translation>Руслан Нигматуллин</translation>
+        <translation type="obsolete">Руслан Нигматуллин</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -805,7 +804,7 @@
 <context>
     <name>Jabber</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+121"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+104"/>
         <source>Xml console</source>
         <translation>XML конзола</translation>
     </message>
@@ -1368,7 +1367,7 @@
 <context>
     <name>Jabber::XmlConsole</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="-73"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="-62"/>
         <source>Filter</source>
         <translation>Филтър</translation>
     </message>
@@ -1418,7 +1417,7 @@
         <translation>Собствени</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+16"/>
         <source>Close</source>
         <translation>Затваряне</translation>
     </message>
@@ -1870,14 +1869,14 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/jplugin.cpp" line="-13"/>
-        <location line="+16"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/jplugin.cpp" line="-11"/>
+        <location line="+14"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
     <message>
-        <location line="-15"/>
-        <location line="+16"/>
+        <location line="-13"/>
+        <location line="+14"/>
         <source>Jabber protocol</source>
         <translation>Jabber протокол</translation>
     </message>
@@ -2111,14 +2110,13 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/jplugin.cpp" line="-72"/>
-        <location line="+3"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/jplugin.cpp" line="-70"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
     </message>
