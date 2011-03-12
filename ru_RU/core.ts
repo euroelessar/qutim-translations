@@ -1768,7 +1768,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/simpleabout/simpleaboutdialog.cpp" line="+42"/>
         <source>Based on Qt %1 (%2 bit).</source>
-        <translation type="unfinished">Основан на Qt %1 (%2 битый).</translation>
+        <translation type="unfinished">Основан на Qt %1 (%2 битная).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3606,37 +3606,37 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+96"/>
         <source>Module based instant messenger.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модульый интернет пейджер.</translation>
     </message>
     <message>
         <location line="+33"/>
         <source>Source code repository:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Исходный код:</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Project site:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сайт проекта:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Bug tracker:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Об ошибках сообщать:</translation>
     </message>
     <message>
         <location line="+33"/>
         <source>Developers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Разработчики</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Translators</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Переводчики</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Лицензия</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -3840,7 +3840,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/libqutim/personinfo.cpp" line="+209"/>
         <source>Your names</source>
-        <translation type="unfinished">MrFree, Nico-izo</translation>
+        <translation type="unfinished">MrFree,Nico-izo</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3926,12 +3926,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+3"/>
         <source>Developer</source>
-        <translation>Разработчик</translation>
+        <translation type="unfinished">Разработчики</translation>
     </message>
     <message>
         <location filename="../../qutim/libqutim/personinfo.cpp" line="+3"/>
         <source>Translator</source>
-        <translation type="unfinished">Переводчик</translation>
+        <translation type="unfinished">Переводчики</translation>
     </message>
 </context>
 <context>
