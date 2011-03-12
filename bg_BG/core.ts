@@ -1325,12 +1325,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/simpleabout/simpleaboutdialog.cpp" line="+42"/>
         <source>Based on Qt %1 (%2 bit).</source>
-        <translation>Базирано на Qt %1 (%2 bit).</translation>
+        <translation>Базиран на Qt %1 (%2 bit).</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&lt;div&gt;&lt;b&gt;qutIM&lt;/b&gt; %1 is licensed under GNU General Public License, version 2 or (at your option) any later version.&lt;/div&gt;&lt;div&gt;qutIM resources such as themes, icons, sounds may come along with a different license.&lt;/div&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;</source>
-        <translation>&lt;div&gt;&lt;b&gt;qutIM&lt;/b&gt; %1 е лицензиран под GNU General Public License, version 2 или (по ваше мнение) всяка последваща версия.&lt;/div&gt;&lt;div&gt;Ресурсите, които ползва qutIM напр. теми, икони, звуци може да бъдат под друг лиценз.&lt;/div&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;</translation>
+        <translation>&lt;div&gt;&lt;b&gt;qutIM&lt;/b&gt; %1 е лицензиран под GNU General Public License, версия 2 или (по ваше осмотрение) всяка последваща версия.&lt;/div&gt;&lt;div&gt;Ресурсите, които ползва qutIM напр. теми, икони, звуци може да бъдат под друг лиценз.&lt;/div&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;</translation>
     </message>
 </context>
 <context>
