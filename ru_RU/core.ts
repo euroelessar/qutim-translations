@@ -659,6 +659,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core</name>
     <message>
+        <location filename="../../qutim/src/corelayers/mobileabout/mobileaboutcreator.cpp" line="+33"/>
         <location filename="../../qutim/src/corelayers/simpleabout/simpleaboutcreator.cpp" line="+32"/>
         <source>About qutIM</source>
         <translation type="unfinished">О qutIM...</translation>
@@ -1377,6 +1378,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::MobileAboutDialog</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/mobileabout/mobileaboutdialog.cpp" line="+36"/>
+        <source>qutIM %1&lt;br&gt;Uses Qt %2&lt;p&gt;Developers:&lt;p&gt;</source>
+        <translation type="unfinished">qutIM %1&lt;br&gt;Использует Qt %2&lt;p&gt;Разработчики:&lt;p&gt;</translation>
+    </message>
+</context>
+<context>
     <name>Core::MobileContactInfoWindow</name>
     <message>
         <location filename="../../qutim/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-63"/>
@@ -1753,9 +1762,18 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleAboutDialog</name>
     <message>
-        <location filename="../../qutim/src/corelayers/simpleabout/simpleaboutdialog.cpp" line="+35"/>
         <source>qutIM %1&lt;br&gt;Uses Qt %2&lt;p&gt;Developers:&lt;p&gt;</source>
-        <translation type="unfinished">qutIM %1&lt;br&gt;Использует Qt %2&lt;p&gt;Разработчики:&lt;p&gt;</translation>
+        <translation type="obsolete">qutIM %1&lt;br&gt;Использует Qt %2&lt;p&gt;Разработчики:&lt;p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/simpleabout/simpleaboutdialog.cpp" line="+42"/>
+        <source>Based on Qt %1 (%2 bit).</source>
+        <translation type="unfinished">Основан на Qt %1 (%2 битый).</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>&lt;div&gt;&lt;b&gt;qutIM&lt;/b&gt; %1 is licensed under GNU General Public License, version 2 or (at your option) any later version.&lt;/div&gt;&lt;div&gt;qutIM resources such as themes, icons, sounds may come along with a different license.&lt;/div&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;</source>
+        <translation type="unfinished">&lt;div&gt;&lt;b&gt;qutIM&lt;/b&gt; %1 лицензирован под GNU General Public License, версии 2 или (по вашему желанию) любой поздней версией.&lt;/div&gt;&lt;div&gt;Ресурсы qutIM, такие как темы, иконки, звуки могут поставляться с другой лицензией.&lt;/div&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;</translation>
     </message>
 </context>
 <context>
@@ -2280,6 +2298,19 @@ p, li { white-space: pre-wrap; }
         <location line="+17"/>
         <source>Choose accounts:</source>
         <translation>Выберите учетную запись:</translation>
+    </message>
+</context>
+<context>
+    <name>MobileAboutDialog</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/mobileabout/mobileaboutdialog.ui" line="+14"/>
+        <source>About qutIM</source>
+        <translation type="unfinished">О qutIM...</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>TextLabel</source>
+        <translation type="unfinished">Поле текста</translation>
     </message>
 </context>
 <context>
@@ -3040,6 +3071,16 @@ p, li { white-space: pre-wrap; }
         <source>Simple dialog about qutIM and it&apos;s authors</source>
         <translation type="unfinished">Простое окошко о qutIM&apos;е и его авторах</translation>
     </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/mobileabout/mobileaboutdialogplugin.cpp" line="+11"/>
+        <source>Mobile about dialog</source>
+        <translation type="unfinished">Мобильное окошко о программе</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Mobile dialog about qutIM and it&apos;s authors</source>
+        <translation type="unfinished">Мобильное окошко о qutIM&apos;е и его авторах</translation>
+    </message>
 </context>
 <context>
     <name>ProfileCreationPage</name>
@@ -3563,9 +3604,43 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">О qutIM...</translation>
     </message>
     <message>
-        <location line="+24"/>
+        <location line="+96"/>
+        <source>Module based instant messenger.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Source code repository:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Project site:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Bug tracker:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Developers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Translators</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>License</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>TextLabel</source>
-        <translation type="unfinished">Поле текста</translation>
+        <translation type="obsolete">Поле текста</translation>
     </message>
 </context>
 <context>
