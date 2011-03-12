@@ -519,6 +519,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core</name>
     <message>
+        <location filename="../../qutim-meta/core/src/corelayers/mobileabout/mobileaboutcreator.cpp" line="+33"/>
         <location filename="../../qutim-meta/core/src/corelayers/simpleabout/simpleaboutcreator.cpp" line="+32"/>
         <source>About qutIM</source>
         <translation>За qutIM</translation>
@@ -1028,6 +1029,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::MobileAboutDialog</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/mobileabout/mobileaboutdialog.cpp" line="+36"/>
+        <source>qutIM %1&lt;br&gt;Uses Qt %2&lt;p&gt;Developers:&lt;p&gt;</source>
+        <translation>qutIM %1&lt;br&gt;Използва Qt %2&lt;p&gt;Разработчици:&lt;p&gt;</translation>
+    </message>
+</context>
+<context>
     <name>Core::MobileContactInfoWindow</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-63"/>
@@ -1310,9 +1319,18 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleAboutDialog</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simpleabout/simpleaboutdialog.cpp" line="+35"/>
         <source>qutIM %1&lt;br&gt;Uses Qt %2&lt;p&gt;Developers:&lt;p&gt;</source>
-        <translation>qutIM %1&lt;br&gt;Използва Qt %2&lt;p&gt;Разработчици:&lt;p&gt;</translation>
+        <translation type="obsolete">qutIM %1&lt;br&gt;Използва Qt %2&lt;p&gt;Разработчици:&lt;p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleabout/simpleaboutdialog.cpp" line="+42"/>
+        <source>Based on Qt %1 (%2 bit).</source>
+        <translation>Базирано на Qt %1 (%2 bit).</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>&lt;div&gt;&lt;b&gt;qutIM&lt;/b&gt; %1 is licensed under GNU General Public License, version 2 or (at your option) any later version.&lt;/div&gt;&lt;div&gt;qutIM resources such as themes, icons, sounds may come along with a different license.&lt;/div&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;</source>
+        <translation>&lt;div&gt;&lt;b&gt;qutIM&lt;/b&gt; %1 е лицензиран под GNU General Public License, version 2 или (по ваше мнение) всяка последваща версия.&lt;/div&gt;&lt;div&gt;Ресурсите, които ползва qutIM напр. теми, икони, звуци може да бъдат под друг лиценз.&lt;/div&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;</translation>
     </message>
 </context>
 <context>
@@ -1755,6 +1773,19 @@ p, li { white-space: pre-wrap; }
         <location line="+17"/>
         <source>Choose accounts:</source>
         <translation>Избор на сметка:</translation>
+    </message>
+</context>
+<context>
+    <name>MobileAboutDialog</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/mobileabout/mobileaboutdialog.ui" line="+14"/>
+        <source>About qutIM</source>
+        <translation>За qutIM</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>TextLabel</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2448,9 +2479,39 @@ p, li { white-space: pre-wrap; }
         <translation>За qutIM</translation>
     </message>
     <message>
-        <location line="+24"/>
-        <source>TextLabel</source>
-        <translation></translation>
+        <location line="+96"/>
+        <source>Module based instant messenger.</source>
+        <translation>Модулно базиран клиент за обмяна на моментни съобщения.</translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Source code repository:</source>
+        <translation>Хранилище на изходния код:</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Project site:</source>
+        <translation>Страница на проекта:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Bug tracker:</source>
+        <translation>Проследяване на грешки:</translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Developers</source>
+        <translation>Разработчици</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Translators</source>
+        <translation>Преводачи</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>License</source>
+        <translation>Лиценз</translation>
     </message>
 </context>
 <context>
