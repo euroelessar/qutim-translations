@@ -55,7 +55,7 @@
 <context>
     <name>ActionToolBar</name>
     <message>
-        <location filename="../../qutim/libqutim/actiontoolbar.cpp" line="+42"/>
+        <location filename="../../qutim/libqutim/actiontoolbar.cpp" line="+45"/>
         <source>Small (16x16)</source>
         <translation>Малый (16x16)</translation>
     </message>
@@ -1984,7 +1984,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>FileTransfer</name>
     <message>
-        <location filename="../../qutim/src/corelayers/filetransfer/simplefiletransfer.cpp" line="+15"/>
+        <location filename="../../qutim/src/corelayers/filetransfer/simplefiletransfer.cpp" line="+16"/>
         <source>Send file</source>
         <translation>Отправить файл</translation>
     </message>
@@ -2253,7 +2253,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+6"/>
         <source>Manage metacontacts</source>
-        <translation>Управление списком метаконтактов</translation>
+        <translation type="unfinished">Управление метаконтактами</translation>
     </message>
 </context>
 <context>
@@ -3038,7 +3038,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/qmlchat/qmlchatplugin.cpp" line="+11"/>
-        <source>Qt Quick view</source>
+        <source>Qt Quick view (experimental)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
