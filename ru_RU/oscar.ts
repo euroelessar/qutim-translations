@@ -4025,6 +4025,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::oscar::OftFileTransferFactory</name>
+    <message>
+        <location filename="../../protocols/oscar/src/oscarfiletransfer.cpp" line="+852"/>
+        <source>Oscar file transfer protocol</source>
+        <translation type="unfinished">Протокол фередачи файлов OSCAR&apos;a</translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::oscar::PrivacyLists</name>
     <message>
         <location filename="../../protocols/oscar/src/privacylists.cpp" line="+140"/>
