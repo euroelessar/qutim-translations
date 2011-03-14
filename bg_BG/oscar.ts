@@ -3811,6 +3811,14 @@
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::oscar::OftFileTransferFactory</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarfiletransfer.cpp" line="+864"/>
+        <source>Oscar file transfer protocol</source>
+        <translation>Предаване на файлове (Oscar)</translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::oscar::PrivacyLists</name>
     <message>
         <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="+140"/>
