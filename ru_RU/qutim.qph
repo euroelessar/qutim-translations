@@ -2354,7 +2354,7 @@
 </phrase>
 <phrase>
     <source>Ruslan Nigmatullin</source>
-    <target>Руслан Нигматуллин</target>
+    <target>Нигматуллин Руслан</target>
 </phrase>
 <phrase>
     <source>Developer</source>
@@ -3010,7 +3010,7 @@
 </phrase>
 <phrase>
     <source>about:blank</source>
-    <target></target>
+    <target>about:blank</target>
 </phrase>
 <phrase>
     <source>Done</source>
@@ -3865,7 +3865,7 @@ Accept invitation?</source>
 </phrase>
 <phrase>
     <source>Vsevolod Velichko</source>
-    <target>Всеволод Величко</target>
+    <target>Величко Всеволод</target>
 </phrase>
 <phrase>
     <source>Reset</source>
@@ -3889,7 +3889,7 @@ Accept invitation?</source>
 </phrase>
 <phrase>
     <source>Alexander Kazarin</source>
-    <target>Александр Казарин</target>
+    <target>Казарин Александр</target>
 </phrase>
 <phrase>
     <source>On WC</source>
@@ -4081,7 +4081,7 @@ Accept invitation?</source>
 </phrase>
 <phrase>
     <source>CTCP</source>
-    <target></target>
+    <target>CTCP</target>
 </phrase>
 <phrase>
     <source>Modes</source>
@@ -4232,10 +4232,6 @@ Accept invitation?</source>
     <target>Дополнительно</target>
 </phrase>
 <phrase>
-    <source></source>
-    <target></target>
-</phrase>
-<phrase>
     <source>Join Channel</source>
     <target>Подключиться к каналу</target>
 </phrase>
@@ -4289,7 +4285,7 @@ Accept invitation?</source>
 </phrase>
 <phrase>
     <source>Alexey Prokhin</source>
-    <target>Алексей Прохин</target>
+    <target>Прохин Алексей</target>
 </phrase>
 <phrase>
     <source>Join channel...</source>
@@ -4305,7 +4301,7 @@ Accept invitation?</source>
 </phrase>
 <phrase>
     <source>Nikita Belov</source>
-    <target>Никита Белов</target>
+    <target>Белов Никита</target>
 </phrase>
 <phrase>
     <source>Upload started.</source>
@@ -4461,7 +4457,7 @@ Accept invitation?</source>
 </phrase>
 <phrase>
     <source>Denis Daschenko</source>
-    <target>Денис Дащенко</target>
+    <target>Дащенко Денис</target>
 </phrase>
 <phrase>
     <source>Change Subscription</source>
