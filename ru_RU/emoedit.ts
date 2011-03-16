@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/emoedit/src/emoeditplugin.cpp" line="51"/>
         <source>Ruslan Nigmatullin</source>
-        <translation>Руслан Нигматуллин</translation>
+        <translation>Нигматуллин Руслан</translation>
     </message>
 </context>
 <context>
@@ -14,12 +14,12 @@
     <message>
         <location filename="../../plugins/emoedit/src/emoeditplugin.cpp" line="54"/>
         <source>EmoEdit plugin</source>
-        <translation type="unfinished">Плагин EmoEdit</translation>
+        <translation>Плагин EmoEdit</translation>
     </message>
     <message>
         <location filename="../../plugins/emoedit/src/emoeditplugin.cpp" line="55"/>
         <source>Add emoticons to text edit widget</source>
-        <translation type="unfinished">Добавляет смайлы в поле ввода</translation>
+        <translation>Добавляет смайлы в поле ввода</translation>
     </message>
 </context>
 <context>

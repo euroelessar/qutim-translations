@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/floaties/src/floaties.cpp" line="28"/>
         <source>Ruslan Nigmatullin</source>
-        <translation>Руслан Нигматуллин</translation>
+        <translation type="unfinished">Нигматуллин Руслан</translation>
     </message>
 </context>
 <context>

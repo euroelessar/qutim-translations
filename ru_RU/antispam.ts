@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/antispam/src/antispamplugin.cpp" line="+13"/>
         <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <translation>Сидоров Алексей</translation>
     </message>
 </context>
 <context>

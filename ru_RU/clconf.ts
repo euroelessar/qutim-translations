@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/clconf/src/clconfplugin.cpp" line="+29"/>
         <source>Alexey Prokhin</source>
-        <translation>Алексей Прохин</translation>
+        <translation>Прохин Алексей</translation>
     </message>
 </context>
 <context>

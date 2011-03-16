@@ -29,7 +29,7 @@
     <message>
         <location filename="../../qutim/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="33"/>
         <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <translation type="unfinished">Сидоров Алексей</translation>
     </message>
 </context>
 <context>

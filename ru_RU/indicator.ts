@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/indicator/src/indicator.cpp" line="+26"/>
         <source>Vsevolod Velichko</source>
-        <translation>Всеволод Величко</translation>
+        <translation>Величко Всеволод</translation>
     </message>
 </context>
 <context>

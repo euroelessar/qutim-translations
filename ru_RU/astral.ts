@@ -6,7 +6,7 @@
     <message>
         <location filename="../../protocols/astral/src/astralplugin.cpp" line="33"/>
         <source>Ruslan Nigmatullin</source>
-        <translation>Руслан Нигматуллин</translation>
+        <translation>Нигматуллин Руслан</translation>
     </message>
 </context>
 <context>
@@ -14,7 +14,7 @@
     <message>
         <location filename="../../protocols/astral/src/astralplugin.cpp" line="30"/>
         <source>Astral</source>
-        <translation type="unfinished">Астрал</translation>
+        <translation>Астрал</translation>
     </message>
     <message>
         <location filename="../../protocols/astral/src/astralplugin.cpp" line="31"/>

@@ -38,7 +38,7 @@
     <message>
         <location filename="../../plugins/awn/src/awn.cpp" line="+27"/>
         <source>Stanislav (proDOOMman) Kosolapov</source>
-        <translation>Станислав (proDOOMman) Косолапов</translation>
+        <translation>Косолапов (proDOOMman) Станислав</translation>
     </message>
 </context>
 <context>

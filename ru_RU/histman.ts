@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/histman/src/historymanagerplugin.cpp" line="+26"/>
         <source>Ruslan Nigmatullin</source>
-        <translation>Руслан Нигматуллин</translation>
+        <translation>Нигматуллин Руслан</translation>
     </message>
 </context>
 <context>
@@ -223,9 +223,9 @@
         <source>It has taken %n ms.</source>
         <translatorcomment>ну никкак по русски. ==//== Дааа. может так?</translatorcomment>
         <translation type="unfinished">
-            <numerusform>Это действие заняло %n минуту.</numerusform>
-            <numerusform>Это действие заняло %n минуты.</numerusform>
-            <numerusform>Это действие заняло %n минут.</numerusform>
+            <numerusform>Это действие заняло %n мс.</numerusform>
+            <numerusform>Это действие заняло %n мс.</numerusform>
+            <numerusform>Это действие заняло %n мс.</numerusform>
         </translation>
     </message>
 </context>

@@ -6,7 +6,7 @@
     <message>
         <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+32"/>
         <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <translation>Сидоров Алексей</translation>
     </message>
     <message>
         <location filename="../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="+17"/>

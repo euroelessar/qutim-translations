@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/dbusapi/src/dbusplugin.cpp" line="+141"/>
         <source>Ruslan Nigmatullin</source>
-        <translation>Руслан Нигматуллин</translation>
+        <translation>Нигматуллин Руслан</translation>
     </message>
 </context>
 <context>

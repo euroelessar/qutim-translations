@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/aescrypto/src/aescryptomodule.cpp" line="+12"/>
         <source>Ruslan Nigmatullin</source>
-        <translation>Руслан Нигматуллин</translation>
+        <translation type="unfinished">Нигматуллин Руслан</translation>
     </message>
 </context>
 <context>

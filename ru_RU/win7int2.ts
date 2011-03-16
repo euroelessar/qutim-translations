@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/win-integration/src/win7int.cpp" line="28"/>
         <source>Vizir Ivan</source>
-        <translation>Иван Визир</translation>
+        <translation type="unfinished">Визир Иван</translation>
     </message>
 </context>
 <context>

@@ -7,7 +7,7 @@
         <location filename="../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js" line="+30"/>
         <location filename="../../plugins/scriptapi/src/scriptplugin.cpp" line="+29"/>
         <source>Ruslan Nigmatullin</source>
-        <translation>Руслан Нигматуллин</translation>
+        <translation type="unfinished">Нигматуллин Руслан</translation>
     </message>
 </context>
 <context>

@@ -19,7 +19,7 @@
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="19"/>
         <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <translation>Сидоров Алексей</translation>
     </message>
 </context>
 <context>
@@ -27,7 +27,7 @@
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/popup.cpp" line="78"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt; + %1уведомлений&lt;/p&gt;</translation>
+        <translation>&lt;p&gt; + %1уведомлений&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -57,7 +57,7 @@
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="115"/>
         <source>Simple kinetic popup widget.</source>
-        <translation type="unfinished">Простой виджет &quot;кинетического&quot; уведомления.</translation>
+        <translation>Простой виджет &quot;кинетического&quot; уведомления.</translation>
     </message>
 </context>
 <context>

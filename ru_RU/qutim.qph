@@ -5347,4 +5347,28 @@ Accept invitation?</source>
     <source>About qutIM</source>
     <target>О qutIM...</target>
 </phrase>
+<phrase>
+    <source>Aleksey Sidorov</source>
+    <target>Сидоров Алексей</target>
+</phrase>
+<phrase>
+    <source>Alexey Prokhin</source>
+    <target>Прохин Алексей</target>
+</phrase>
+<phrase>
+    <source>Alexey Ignatiev</source>
+    <target>Игнатьев Алексей</target>
+</phrase>
+<phrase>
+    <source>Peter Rusanov</source>
+    <target>Русанов Пётр</target>
+</phrase>
+<phrase>
+    <source>Stanislav (proDOOMman) Kosolapov</source>
+    <target>Косолапов (proDOOMman) Станислав</target>
+</phrase>
+<phrase>
+    <source>Vizir Ivan</source>
+    <target>Визир Иван</target>
+</phrase>
 </QPH>

@@ -14,12 +14,12 @@
     <message>
         <location filename="../../plugins/aspeller/src/aspellplugin.cpp" line="+26"/>
         <source>Ruslan Nigmatullin</source>
-        <translation>Руслан Нигматуллин</translation>
+        <translation>Нигматуллин Руслан</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Alexey Prokhin</source>
-        <translation>Алексей Прохин</translation>
+        <translation>Прохин Алексей</translation>
     </message>
 </context>
 <context>
@@ -51,62 +51,62 @@
     <message>
         <location line="-45"/>
         <source>40</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>60</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>80</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>-ise suffixes</source>
-        <translation type="unfinished">-ис суффикс</translation>
+        <translation>-ис суффикс</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>-ize suffixes</source>
-        <translation type="unfinished">-из суффикс</translation>
+        <translation>-из суффикс</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>-ise suffixes and with accents</source>
-        <translation type="unfinished">-ис суффикс с акцентом</translation>
+        <translation>-ис суффикс с акцентом</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>-ise suffixes and without accents</source>
-        <translation type="unfinished">-ис суффикс без акцента</translation>
+        <translation>-ис суффикс без акцента</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>-ize suffixes and with accents</source>
-        <translation type="unfinished">-из суффикс с акцентом</translation>
+        <translation>-из суффикс с акцентом</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>-ize suffixes and without accents</source>
-        <translation type="unfinished">-из суффикс без акцента</translation>
+        <translation>-из суффикс без акцента</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>large</source>
-        <translation type="unfinished">большой</translation>
+        <translation>большой</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>medium</source>
-        <translation type="unfinished">средний</translation>
+        <translation>средний</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>small</source>
-        <translation type="unfinished">малый</translation>
+        <translation>малый</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -121,7 +121,7 @@
     <message>
         <location line="+1"/>
         <source>variant 2</source>
-        <translation type="unfinished">вариант 2
+        <translation>вариант 2
 </translation>
     </message>
     <message>
@@ -142,17 +142,17 @@
     <message>
         <location line="+1"/>
         <source>with yeyo</source>
-        <translation type="unfinished">с &quot;её&quot;</translation>
+        <translation>с &quot;её&quot;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>with yo</source>
-        <translation type="unfinished">с &quot;ё&quot;</translation>
+        <translation>с &quot;ё&quot;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>extended</source>
-        <translation type="unfinished">расширенный</translation>
+        <translation>расширенный</translation>
     </message>
 </context>
 <context>

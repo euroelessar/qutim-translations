@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/sdlsound/src/sdlplugin.cpp" line="+22"/>
         <source>Ruslan Nigmatullin</source>
-        <translation>Руслан Нигматуллин</translation>
+        <translation type="unfinished">Нигматуллин Руслан</translation>
     </message>
 </context>
 <context>

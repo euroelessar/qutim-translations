@@ -6,12 +6,12 @@
     <message>
         <location filename="../../plugins/urlpreview/src/urlpreview.cpp" line="+34"/>
         <source>Alexander Kazarin</source>
-        <translation>Александр Казарин</translation>
+        <translation type="unfinished">Казарин Александр</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <translation type="unfinished">Сидоров Алексей</translation>
     </message>
 </context>
 <context>

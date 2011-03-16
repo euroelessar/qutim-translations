@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/massmessaging/src/messaging.cpp" line="+17"/>
         <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <translation>Сидоров Алексей</translation>
     </message>
 </context>
 <context>
@@ -107,7 +107,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+12"/>
         <source>Finished</source>
-        <translation type="unfinished">Завершено</translation>
+        <translation>Завершено</translation>
     </message>
     <message>
         <location line="+0"/>

@@ -186,19 +186,19 @@
     <message>
         <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+47"/>
         <source>Ruslan Nigmatullin</source>
-        <translation>Руслан Нигматуллин</translation>
+        <translation type="unfinished">Нигматуллин Руслан</translation>
     </message>
     <message>
         <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+41"/>
         <source>Alexey Ignatiev</source>
-        <translation>Алексей Игнатьев</translation>
+        <translation type="unfinished">Игнатьев Алексей</translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+205"/>
         <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+3"/>
         <source>Alexey Prokhin</source>
-        <translation>Алексей Прохин</translation>
+        <translation type="unfinished">Прохин Алексей</translation>
     </message>
 </context>
 <context>

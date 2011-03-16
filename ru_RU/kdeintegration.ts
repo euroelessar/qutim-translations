@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/kde-integration/src/kdeintegration.cpp" line="+72"/>
         <source>Ruslan Nigmatullin</source>
-        <translation>Руслан Нигматуллин</translation>
+        <translation>Нигматуллин Руслан</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -19,7 +19,7 @@
     <message>
         <location filename="../../plugins/kde-integration/src/aboutapp/kdeaboutappdialog.cpp" line="+36"/>
         <source>About qutIM</source>
-        <translation type="unfinished">о qutIM</translation>
+        <translation>о qutIM</translation>
     </message>
 </context>
 <context>
@@ -108,37 +108,37 @@
     <message>
         <location line="+1"/>
         <source>Uses KDE notifications</source>
-        <translation type="unfinished">Модуль уведомлений KDE</translation>
+        <translation>Модуль уведомлений KDE</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>KDE Status Notifier</source>
-        <translation type="unfinished">Уведомления KDE</translation>
+        <translation>Уведомления KDE</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Using new KDE DBus tray specification</source>
-        <translation type="unfinished">Использует новую спецификацию KDE DBus</translation>
+        <translation>Использует новую спецификацию KDE DBus</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>About KDE dialog</source>
-        <translation type="unfinished">О KDE</translation>
+        <translation>О KDE</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show &quot;About KDE&quot; menu option</source>
-        <translation type="unfinished">Показывает &quot;о KDE&quot; опцию в меню</translation>
+        <translation>Показывает &quot;о KDE&quot; опцию в меню</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>KDE About application dialog</source>
-        <translation type="unfinished">Окно о KDE</translation>
+        <translation>Окно о KDE</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use kde-specific application about dialog</source>
-        <translation type="unfinished">Использует KDE-специфичное окно о программе</translation>
+        <translation>Использует KDE-специфичное окно о программе</translation>
     </message>
 </context>
 <context>

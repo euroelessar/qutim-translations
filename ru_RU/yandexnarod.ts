@@ -6,17 +6,17 @@
     <message>
         <location filename="../../plugins/yandexnarod/src/yandexnarod.cpp" line="+34"/>
         <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <translation>Сидоров Алексей</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Ruslan Nigmatullin</source>
-        <translation>Руслан Нигматуллин</translation>
+        <translation>Нигматуллин Руслан</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Alexander Kazarin</source>
-        <translation>Александр Казарин</translation>
+        <translation>Казарин Александр</translation>
     </message>
 </context>
 <context>

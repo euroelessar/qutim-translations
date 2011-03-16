@@ -425,12 +425,12 @@
     <message>
         <location filename="../../protocols/jabber/src/jplugin.cpp" line="+32"/>
         <source>Denis Daschenko</source>
-        <translation>Денис Дащенко</translation>
+        <translation type="unfinished">Дащенко Денис</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Nikita Belov</source>
-        <translation>Никита Белов</translation>
+        <translation type="unfinished">Белов Никита</translation>
     </message>
     <message>
         <source>Ruslan Nigmatullin</source>
@@ -439,7 +439,7 @@
     <message>
         <location line="+4"/>
         <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <translation type="unfinished">Сидоров Алексей</translation>
     </message>
 </context>
 <context>

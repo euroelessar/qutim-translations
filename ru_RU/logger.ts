@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/logger/src/logger.cpp" line="+54"/>
         <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <translation>Сидоров Алексей</translation>
     </message>
 </context>
 <context>
@@ -29,17 +29,17 @@
     <message>
         <location line="-23"/>
         <source>Simple file based logger for debug</source>
-        <translation type="unfinished">Сборщик отладочного вывода в файл (В помощь отладчику)</translation>
+        <translation>Сборщик отладочного вывода в файл (В помощь отладчику)</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Select log path</source>
-        <translation type="unfinished">Выберите путь к логам</translation>
+        <translation>Выберите путь к логам</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Enable dump of debug info</source>
-        <translation type="unfinished">Включить dump отладочной информации</translation>
+        <translation>Включить dump отладочной информации</translation>
     </message>
 </context>
 <context>

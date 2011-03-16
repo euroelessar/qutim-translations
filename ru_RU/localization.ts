@@ -7,13 +7,13 @@
         <location filename="../../qutim/src/corelayers/localization/localizationsettings.cpp" line="48"/>
         <source>&lt;Language&gt;</source>
         <comment>Localized language name</comment>
-        <translation type="unfinished">&lt;Язык&gt;</translation>
+        <translation type="unfinished">Русский</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/localization/localizationsettings.cpp" line="51"/>
         <source>&lt;Country&gt;</source>
         <comment>Localized country name, empty if localization is country-independent</comment>
-        <translation type="unfinished">&lt;Страна&gt;</translation>
+        <translation type="unfinished">Российская Федерация</translation>
     </message>
 </context>
 <context>

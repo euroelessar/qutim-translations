@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/phononsound/src/phononsoundplugin.cpp" line="+22"/>
         <source>Ruslan Nigmatullin</source>
-        <translation>Руслан Нигматуллин</translation>
+        <translation>Нигматуллин Руслан</translation>
     </message>
 </context>
 <context>

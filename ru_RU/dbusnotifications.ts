@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/dbusnotifications/src/dplugin.cpp" line="18"/>
         <source>Aleksey Sidorov</source>
-        <translation type="unfinished">Алексей Сидоров</translation>
+        <translation>Сидоров Алексей</translation>
     </message>
 </context>
 <context>
@@ -14,17 +14,17 @@
     <message>
         <location filename="../../plugins/dbusnotifications/src/dbusbackend.cpp" line="141"/>
         <source>Open chat</source>
-        <translation type="unfinished">Открыть чат</translation>
+        <translation>Открыть чат</translation>
     </message>
     <message>
         <location filename="../../plugins/dbusnotifications/src/dbusbackend.cpp" line="142"/>
         <source>Ignore</source>
-        <translation type="unfinished">Игнорировать</translation>
+        <translation>Игнорировать</translation>
     </message>
     <message>
         <location filename="../../plugins/dbusnotifications/src/dbusbackend.cpp" line="144"/>
         <source>Open</source>
-        <translation type="unfinished">Открыть</translation>
+        <translation>Открыть</translation>
     </message>
 </context>
 <context>
@@ -32,12 +32,12 @@
     <message>
         <location filename="../../plugins/dbusnotifications/src/dplugin.cpp" line="14"/>
         <source>DBus notifications</source>
-        <translation type="unfinished">DBus уведомления</translation>
+        <translation>DBus уведомления</translation>
     </message>
     <message>
         <location filename="../../plugins/dbusnotifications/src/dplugin.cpp" line="15"/>
         <source>Notification system based on Freedesktop DBus protocol</source>
-        <translation type="unfinished">Система уведомлений основана на протоколе DBus Freedesktop</translation>
+        <translation>Система уведомлений основана на протоколе DBus Freedesktop</translation>
     </message>
 </context>
 <context>
@@ -45,7 +45,7 @@
     <message>
         <location filename="../../plugins/dbusnotifications/src/dplugin.cpp" line="19"/>
         <source>Author</source>
-        <translation type="unfinished">Автор</translation>
+        <translation>Автор</translation>
     </message>
 </context>
 <context>
@@ -53,12 +53,12 @@
     <message>
         <location filename="../../plugins/dbusnotifications/src/dplugin.cpp" line="22"/>
         <source>DBus notifications</source>
-        <translation type="unfinished">DBus уведомления</translation>
+        <translation>DBus уведомления</translation>
     </message>
     <message>
         <location filename="../../plugins/dbusnotifications/src/dplugin.cpp" line="23"/>
         <source>Notification system based on Freedesktop DBus protocol</source>
-        <translation type="unfinished">Система уведомлений основана на протоколе DBus Freedesktop</translation>
+        <translation>Система уведомлений основана на протоколе DBus Freedesktop</translation>
     </message>
 </context>
 </TS>

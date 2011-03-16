@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="+45"/>
         <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <translation>Сидоров Алексей</translation>
     </message>
 </context>
 <context>
@@ -15,22 +15,22 @@
         <location line="+82"/>
         <source>within %1 seconds</source>
         <translatorcomment>Как тут с формами быть, няшка?</translatorcomment>
-        <translation type="unfinished">в течение %1 секунд</translation>
+        <translation>в течение %1 секунд</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>immediately</source>
-        <translation type="unfinished">немедленно</translation>
+        <translation>немедленно</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>%1 will be reconnected %2</source>
-        <translation type="unfinished">%1 будет переподключен %2</translation>
+        <translation>%1 будет переподключен %2</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>ConnectionManager</source>
-        <translation type="unfinished">Менеджер соединения</translation>
+        <translation>Менеджер соединения</translation>
     </message>
 </context>
 <context>

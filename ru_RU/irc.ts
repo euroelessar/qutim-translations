@@ -64,7 +64,7 @@
     <message>
         <location filename="../../protocols/irc/src/ircplugin.cpp" line="+34"/>
         <source>Alexey Prokhin</source>
-        <translation>Алексей Прохин</translation>
+        <translation>Прохин Алексей</translation>
     </message>
 </context>
 <context>
@@ -588,7 +588,7 @@
     <message>
         <location filename="../../protocols/irc/src/ircprotocol.cpp" line="-31"/>
         <source>User information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Инормация о пользователе</translation>
     </message>
     <message>
         <location line="+5"/>

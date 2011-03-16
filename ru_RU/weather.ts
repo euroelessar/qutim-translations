@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/weather/src/weather.cpp" line="+26"/>
         <source>Nikita Belov</source>
-        <translation>Никита Белов</translation>
+        <translation type="unfinished">Белов Никита</translation>
     </message>
 </context>
 <context>

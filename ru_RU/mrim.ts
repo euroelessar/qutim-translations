@@ -49,7 +49,7 @@
     <message>
         <location filename="../../protocols/mrim/src/base/mrimplugin.cpp" line="+38"/>
         <source>Peter Rusanov</source>
-        <translation>Пётр Русанов</translation>
+        <translation>Русанов Пётр</translation>
     </message>
 </context>
 <context>

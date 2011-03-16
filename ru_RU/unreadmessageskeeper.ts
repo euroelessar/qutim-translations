@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp" line="31"/>
         <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <translation type="unfinished">Сидоров Алексей</translation>
     </message>
 </context>
 <context>

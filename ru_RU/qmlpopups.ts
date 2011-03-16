@@ -19,7 +19,7 @@
     <message>
         <location filename="../../src/qmlpopups.cpp" line="+16"/>
         <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <translation>Сидоров Алексей</translation>
     </message>
 </context>
 <context>

@@ -19,7 +19,7 @@
     <message>
         <location line="-9"/>
         <source>Ruslan Nigmatullin</source>
-        <translation>Руслан Нигматуллин</translation>
+        <translation type="unfinished">Нигматуллин Руслан</translation>
     </message>
 </context>
 <context>
