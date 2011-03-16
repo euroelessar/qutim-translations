@@ -3038,7 +3038,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/qmlchat/qmlchatplugin.cpp" line="+11"/>
-        <source>Qt Quick view (experimental)</source>
+        <source>Qt Quick view</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3471,7 +3471,7 @@ p, li { white-space: pre-wrap; }
         <translation>Чат</translation>
     </message>
     <message>
-        <location filename="../../qutim/libqutim/settingslayer.cpp" line="+348"/>
+        <location filename="../../qutim/libqutim/settingslayer.cpp" line="+428"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
@@ -3501,7 +3501,7 @@ p, li { white-space: pre-wrap; }
         <translation>Некорректный</translation>
     </message>
     <message>
-        <location line="-58"/>
+        <location line="-131"/>
         <source>Open File</source>
         <translation>Открыть файл</translation>
     </message>

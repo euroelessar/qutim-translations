@@ -219,7 +219,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="+299"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="+297"/>
         <source>Invalid nick or password</source>
         <translation>Неверный ник или пароль</translation>
     </message>
@@ -552,7 +552,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+134"/>
+        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+128"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
@@ -1890,7 +1890,7 @@
 <context>
     <name>FeedbagError</name>
     <message>
-        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+115"/>
+        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+116"/>
         <source>No error</source>
         <translation>Нет ошибок</translation>
     </message>
@@ -3492,7 +3492,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="-316"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="-314"/>
         <source>Invalid SNAC header</source>
         <translation>Неверный заголовок SNAC</translation>
     </message>
@@ -4027,7 +4027,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::OftFileTransferFactory</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarfiletransfer.cpp" line="+852"/>
+        <location filename="../../protocols/oscar/src/oscarfiletransfer.cpp" line="+888"/>
         <source>Oscar file transfer protocol</source>
         <translation type="unfinished">Протокол фередачи файлов OSCAR&apos;a</translation>
     </message>
