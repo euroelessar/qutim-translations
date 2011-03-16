@@ -196,7 +196,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="+299"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="+297"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -544,12 +544,12 @@
         <translation>Премахване от списък &quot;Пренебрегнати&quot;</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/icqcontact.cpp" line="+134"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/icqcontact.cpp" line="+128"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+244"/>
+        <location line="+245"/>
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>
@@ -1843,7 +1843,7 @@
 <context>
     <name>FeedbagError</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/feedbag.cpp" line="+115"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/feedbag.cpp" line="+116"/>
         <source>No error</source>
         <translation>Без грешка</translation>
     </message>
@@ -3302,7 +3302,7 @@
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="-316"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="-314"/>
         <source>Invalid SNAC header</source>
         <translation>Невалиднa SNAC заглавна част</translation>
     </message>
@@ -3813,7 +3813,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::OftFileTransferFactory</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/oscarfiletransfer.cpp" line="+864"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarfiletransfer.cpp" line="+888"/>
         <source>Oscar file transfer protocol</source>
         <translation>Предаване на файлове (Oscar)</translation>
     </message>

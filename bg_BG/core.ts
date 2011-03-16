@@ -524,6 +524,26 @@ p, li { white-space: pre-wrap; }
         <source>About qutIM</source>
         <translation>За qutIM</translation>
     </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="+231"/>
+        <source>%1 GB</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>%1 MB</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>%1 KB</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>%1 B</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>Core::AccountCreatorList</name>
@@ -874,6 +894,39 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+140"/>
         <source>Add to dictionary</source>
         <translation>Добавяне към речника</translation>
+    </message>
+</context>
+<context>
+    <name>Core::FileTransferJobModel</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="-37"/>
+        <source>Initiation</source>
+        <translation>Иницииране</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Started</source>
+        <translation>Стартиран</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Finished</source>
+        <translation>Приключен</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Network error</source>
+        <translation>Мрежова грешка</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Canceled</source>
+        <translation>Отказан</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Not supported</source>
+        <translation>Не се поддържа</translation>
     </message>
 </context>
 <context>
@@ -1426,6 +1479,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::SimpleFileTransfer</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="+61"/>
+        <source>Manage file transfers</source>
+        <translation>Управление на предаването на файлове</translation>
+    </message>
+</context>
+<context>
     <name>Core::SimpleTagsEditor</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp" line="+17"/>
@@ -1510,7 +1571,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>FileTransfer</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="+16"/>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="-30"/>
         <source>Send file</source>
         <translation>Изпращане на файл</translation>
     </message>
@@ -1518,24 +1579,25 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>FileTransferDialog</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferdialog.ui" line="+14"/>
         <source>Dialog</source>
-        <translation>Предаване</translation>
+        <translation type="obsolete">Предаване</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>File name:</source>
-        <translation>Име на файла:</translation>
+        <translation type="obsolete">Име на файла:</translation>
     </message>
     <message>
-        <location line="+14"/>
         <source>Total size:</source>
-        <translation>Общ размер:</translation>
+        <translation type="obsolete">Общ размер:</translation>
     </message>
     <message>
-        <location line="+14"/>
         <source>File size:</source>
-        <translation>Размер на файла:</translation>
+        <translation type="obsolete">Размер на файла:</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferdialog.ui" line="+20"/>
+        <source>File transfer manager</source>
+        <translation>Управление на предаването на файлове</translation>
     </message>
 </context>
 <context>
@@ -2352,7 +2414,7 @@ p, li { white-space: pre-wrap; }
         <translation>Разговор</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/settingslayer.cpp" line="+348"/>
+        <location filename="../../qutim-meta/core/libqutim/settingslayer.cpp" line="+428"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
@@ -2382,7 +2444,7 @@ p, li { white-space: pre-wrap; }
         <translation>Невалидни</translation>
     </message>
     <message>
-        <location line="-58"/>
+        <location line="-131"/>
         <source>Open File</source>
         <translation>Отваряне на файл</translation>
     </message>
