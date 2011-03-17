@@ -3813,7 +3813,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::OftFileTransferFactory</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/oscarfiletransfer.cpp" line="+888"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarfiletransfer.cpp" line="+894"/>
         <source>Oscar file transfer protocol</source>
         <translation>Предаване на файлове (Oscar)</translation>
     </message>

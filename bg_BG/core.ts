@@ -4,7 +4,7 @@
 <context>
     <name>Account</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+37"/>
+        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+38"/>
         <source>Add new account</source>
         <translation>Добавяне на нова сметка</translation>
     </message>
@@ -571,6 +571,29 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::ActionWidget</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferdialog.cpp" line="+41"/>
+        <source>Stop</source>
+        <translation>Спиране</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Stop the task</source>
+        <translation>Спиране на задачата</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Remove</source>
+        <translation>Премахване</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Remove the task</source>
+        <translation>Премахване на задачата</translation>
+    </message>
+</context>
+<context>
     <name>Core::AddContact</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/addcontactdlg/addcontact.cpp" line="+54"/>
@@ -879,7 +902,17 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::FileTransferJobModel</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="+201"/>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="+173"/>
+        <source>From</source>
+        <translation>От</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>To</source>
+        <translation>До</translation>
+    </message>
+    <message>
+        <location line="+35"/>
         <source>Initiation</source>
         <translation>Иницииране</translation>
     </message>
@@ -2257,17 +2290,20 @@ p, li { white-space: pre-wrap; }
         <translation>Копиране на %1 в клипборда</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferdialog.cpp" line="+38"/>
         <source>Stop</source>
-        <translation>Спиране</translation>
+        <translation type="obsolete">Спиране</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Remove</source>
-        <translation>Премахване</translation>
+        <translation type="obsolete">Премахване</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferdialog.cpp" line="+28"/>
+        <source>Remove finished tasks</source>
+        <translation>Премахване на приключените задачи</translation>
+    </message>
+    <message>
+        <location line="+6"/>
         <source>Close</source>
         <translation>Затваряне</translation>
     </message>
