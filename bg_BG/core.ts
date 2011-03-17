@@ -524,26 +524,6 @@ p, li { white-space: pre-wrap; }
         <source>About qutIM</source>
         <translation>За qutIM</translation>
     </message>
-    <message>
-        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="+231"/>
-        <source>%1 GB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+2"/>
-        <source>%1 MB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+2"/>
-        <source>%1 KB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>%1 B</source>
-        <translation></translation>
-    </message>
 </context>
 <context>
     <name>Core::AccountCreatorList</name>
@@ -899,7 +879,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::FileTransferJobModel</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="-37"/>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="+201"/>
         <source>Initiation</source>
         <translation>Иницииране</translation>
     </message>
@@ -2275,6 +2255,41 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-70"/>
         <source>Copy %1 to clipboard</source>
         <translation>Копиране на %1 в клипборда</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferdialog.cpp" line="+38"/>
+        <source>Stop</source>
+        <translation>Спиране</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Remove</source>
+        <translation>Премахване</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Close</source>
+        <translation>Затваряне</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="+17"/>
+        <source>%1 GB</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>%1 MB</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>%1 KB</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>%1 B</source>
+        <translation></translation>
     </message>
 </context>
 <context>
