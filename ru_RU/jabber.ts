@@ -1034,13 +1034,16 @@
         <translation>Имя</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+669"/>
-        <location line="+3"/>
         <source>You already in conference with another nick</source>
+        <translation type="obsolete">Вы уже в конференции с другим ником</translation>
+    </message>
+    <message>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+667"/>
+        <source>You are already in conference with another nick</source>
         <translation type="unfinished">Вы уже в конференции с другим ником</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+13"/>
         <source>Please select another nickname</source>
         <translation type="unfinished">Пожалуйста выберите другой ник</translation>
     </message>
@@ -1321,7 +1324,7 @@ Accept invitation?</source>
 </translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-415"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-422"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете перезайти?</translation>
     </message>

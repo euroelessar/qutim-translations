@@ -5371,4 +5371,8 @@ Accept invitation?</source>
     <source>Vizir Ivan</source>
     <target>Визир Иван</target>
 </phrase>
+<phrase>
+    <source>State</source>
+    <target>Состояние</target>
+</phrase>
 </QPH>
