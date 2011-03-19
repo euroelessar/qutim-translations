@@ -1411,7 +1411,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/kineticscroller/kineticscroller.cpp" line="+37"/>
         <source>No scrolling</source>
-        <translation type="unfinished">Тез прокрутки</translation>
+        <translation type="unfinished">Без прокрутки</translation>
     </message>
     <message>
         <location line="+1"/>
