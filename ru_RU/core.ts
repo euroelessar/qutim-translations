@@ -2397,7 +2397,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/migration02x03/migrationstartpage.ui" line="+14"/>
         <source>WizardPage</source>
-        <translation>Помошник миграции</translation>
+        <translation type="unfinished">Помощник миграции</translation>
     </message>
     <message>
         <location line="+6"/>
