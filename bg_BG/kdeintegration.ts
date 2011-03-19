@@ -10,8 +10,12 @@
     </message>
     <message>
         <location line="+3"/>
-        <source>Sidorov Aleksey</source>
+        <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
+    </message>
+    <message>
+        <source>Sidorov Aleksey</source>
+        <translation type="obsolete">Алексей Сидоров</translation>
     </message>
 </context>
 <context>
@@ -56,7 +60,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/plugins/kde-integration/src/kdeintegration.cpp" line="+3"/>
+        <location filename="../../qutim-meta/plugins/kde-integration/src/kdeintegration.cpp" line="+4"/>
         <source>KDE integration</source>
         <translation>Интеграция с KDE</translation>
     </message>
@@ -157,10 +161,14 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../qutim-meta/plugins/kde-integration/src/kdeintegration.cpp" line="-30"/>
-        <location line="+3"/>
+        <location filename="../../qutim-meta/plugins/kde-integration/src/kdeintegration.cpp" line="-31"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Author</source>
+        <translation>Автор</translation>
     </message>
 </context>
 <context>

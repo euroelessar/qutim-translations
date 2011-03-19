@@ -540,18 +540,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+7"/>
         <location line="+2"/>
+        <location line="+83"/>
         <source>Remove account</source>
         <translation>Премахване на сметка</translation>
     </message>
     <message>
-        <location line="+83"/>
-        <source>Delete account</source>
-        <translation>Изтриване на сметка</translation>
+        <location line="+1"/>
+        <source>Are you sure want to remove %1</source>
+        <translation>Сигурни ли сте, че желаете да премахнете %1</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <source>Delete account</source>
+        <translation type="obsolete">Изтриване на сметка</translation>
+    </message>
+    <message>
         <source>Are you sure want to delete %1</source>
-        <translation>Сигурни ли сте, че желаете да изтриете %1</translation>
+        <translation type="obsolete">Сигурни ли сте, че желаете да изтриете %1</translation>
     </message>
 </context>
 <context>
@@ -982,7 +986,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::KineticPopups::Popup</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/popup.cpp" line="+78"/>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/popup.cpp" line="+85"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
         <translation>&lt;p&gt; + %1 оставащи уведомления &lt;/p&gt;</translation>
     </message>
@@ -1170,7 +1174,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::PluginChooserWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/pluginchooserwidget.cpp" line="+115"/>
+        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/pluginchooserwidget.cpp" line="+117"/>
         <source>To take effect you must restart qutIM</source>
         <translation>За да влязат в сила промените, qutIM трябва да бъде рестартиран</translation>
     </message>
@@ -1796,7 +1800,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MetaContact</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/metacontacts/manager.cpp" line="+39"/>
+        <location filename="../../qutim-meta/core/src/corelayers/metacontacts/manager.cpp" line="+102"/>
         <source>Split Metacontact</source>
         <translation>Разделяне на мета-контакта</translation>
     </message>
@@ -1822,7 +1826,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Metacontact</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/metacontacts/manager.cpp" line="+56"/>
+        <location filename="../../qutim-meta/core/src/corelayers/metacontacts/manager.cpp" line="-20"/>
         <source>You</source>
         <translation>Вие</translation>
     </message>

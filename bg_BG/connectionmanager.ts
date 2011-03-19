@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/connectionmanager/src/connectionmanager.cpp" line="+45"/>
+        <location filename="../../qutim-meta/plugins/connectionmanager/src/connectionmanager.cpp" line="+46"/>
         <source>Aleksey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -22,7 +22,7 @@
         <translation>незабавно</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+8"/>
         <source>%1 will be reconnected %2</source>
         <translation>%1 ще се свърже повторно %2</translation>
     </message>
@@ -48,7 +48,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/plugins/connectionmanager/src/connectionmanager.cpp" line="-90"/>
+        <location filename="../../qutim-meta/plugins/connectionmanager/src/connectionmanager.cpp" line="-95"/>
         <source>ConnectionManager</source>
         <translation>Управление на връзката</translation>
     </message>

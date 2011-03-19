@@ -1923,7 +1923,7 @@
         <translation>Създаване на сметка за QIP</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>Jabber XML console</source>
         <translation>Jabber XML конзола</translation>
     </message>
@@ -1933,7 +1933,7 @@
         <translation>XML конзола за откриване и отстраняване грешки на ниско ниво на протокола</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+12"/>
         <source>Jabber Service Browser</source>
         <translation>Разглеждане на услуги на Jabber</translation>
     </message>
@@ -2102,7 +2102,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/jplugin.cpp" line="-70"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/jplugin.cpp" line="-72"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
