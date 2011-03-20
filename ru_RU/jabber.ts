@@ -2365,7 +2365,7 @@ Accept invitation?</source>
         <translation type="unfinished">Создание аккаунтов QIP</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>Jabber XML console</source>
         <translation type="unfinished">XML консоль</translation>
     </message>
@@ -2391,7 +2391,7 @@ Accept invitation?</source>
         <translation type="obsolete">Реализация клиента удалённого контроля</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+12"/>
         <source>Jabber Service Browser</source>
         <translation type="unfinished">Обзор сервисов jabber</translation>
     </message>
@@ -2634,7 +2634,7 @@ Accept invitation?</source>
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../protocols/jabber/src/jplugin.cpp" line="-70"/>
+        <location filename="../../protocols/jabber/src/jplugin.cpp" line="-72"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>

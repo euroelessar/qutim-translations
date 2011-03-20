@@ -10,8 +10,12 @@
     </message>
     <message>
         <location line="+3"/>
+        <source>Aleksey Sidorov</source>
+        <translation type="unfinished">Сидоров Алексей</translation>
+    </message>
+    <message>
         <source>Sidorov Aleksey</source>
-        <translation>Сидоров Алексей</translation>
+        <translation type="obsolete">Сидоров Алексей</translation>
     </message>
 </context>
 <context>
@@ -56,7 +60,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../plugins/kde-integration/src/kdeintegration.cpp" line="+3"/>
+        <location filename="../../plugins/kde-integration/src/kdeintegration.cpp" line="+4"/>
         <source>KDE integration</source>
         <translation>Интеграция с KDE</translation>
     </message>
@@ -158,10 +162,14 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../plugins/kde-integration/src/kdeintegration.cpp" line="-30"/>
-        <location line="+3"/>
+        <location filename="../../plugins/kde-integration/src/kdeintegration.cpp" line="-31"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Author</source>
+        <translation type="unfinished">Автор</translation>
     </message>
 </context>
 <context>

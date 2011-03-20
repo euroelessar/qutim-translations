@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="+45"/>
+        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="+46"/>
         <source>Aleksey Sidorov</source>
         <translation>Сидоров Алексей</translation>
     </message>
@@ -23,7 +23,7 @@
         <translation>немедленно</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+8"/>
         <source>%1 will be reconnected %2</source>
         <translation>%1 будет переподключен %2</translation>
     </message>
@@ -49,7 +49,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="-90"/>
+        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="-95"/>
         <source>ConnectionManager</source>
         <translation>Менеджер соединения</translation>
     </message>

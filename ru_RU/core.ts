@@ -733,19 +733,23 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+7"/>
         <location line="+2"/>
+        <location line="+83"/>
         <source>Remove account</source>
         <translation>Удалить учетную запись</translation>
     </message>
     <message>
-        <location line="+83"/>
-        <source>Delete account</source>
-        <translatorcomment>=_=</translatorcomment>
-        <translation>Стереть учетную запись</translation>
+        <location line="+1"/>
+        <source>Are you sure want to remove %1</source>
+        <translation type="unfinished">Вы действительно хотите удалить %1</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <source>Delete account</source>
+        <translatorcomment>=_=</translatorcomment>
+        <translation type="obsolete">Стереть учетную запись</translation>
+    </message>
+    <message>
         <source>Are you sure want to delete %1</source>
-        <translation>Вы действительно хотите удалить %1</translation>
+        <translation type="obsolete">Вы действительно хотите удалить %1</translation>
     </message>
 </context>
 <context>
@@ -1365,11 +1369,19 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::IconLoaderSettings</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/qticons/iconsloaderimpl.cpp" line="+20"/>
+        <source>Theme</source>
+        <translation type="unfinished">Тема</translation>
+    </message>
+</context>
+<context>
     <name>Core::KineticPopups::Popup</name>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/src/popup.cpp" line="+78"/>
+        <location filename="../../qutim/src/corelayers/kineticpopups/src/popup.cpp" line="+85"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
-        <translation>&lt;p&gt; + %1 больше уведомлений &lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt; + %1 уведомлений &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -1560,7 +1572,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::PluginChooserWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/servicechooser/pluginchooserwidget.cpp" line="+115"/>
+        <location filename="../../qutim/src/corelayers/servicechooser/pluginchooserwidget.cpp" line="+117"/>
         <source>To take effect you must restart qutIM</source>
         <translation>Требуется перезапуск qutIM</translation>
     </message>
@@ -1707,7 +1719,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-5"/>
         <source>Passwords doesn&apos;t match each other</source>
-        <translation>Пароль не совпадает с другим</translation>
+        <translation type="unfinished">Пароли не совпадают</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2361,7 +2373,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MetaContact</name>
     <message>
-        <location filename="../../qutim/src/corelayers/metacontacts/manager.cpp" line="+39"/>
+        <location filename="../../qutim/src/corelayers/metacontacts/manager.cpp" line="+102"/>
         <source>Split Metacontact</source>
         <translation>Разделить метаконтакт</translation>
     </message>
@@ -2387,7 +2399,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Metacontact</name>
     <message>
-        <location filename="../../qutim/src/corelayers/metacontacts/manager.cpp" line="+56"/>
+        <location filename="../../qutim/src/corelayers/metacontacts/manager.cpp" line="-20"/>
         <source>You</source>
         <translation>Вы</translation>
     </message>
@@ -3671,6 +3683,11 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/kineticscroller/kineticscroller.cpp" line="+10"/>
         <source>Scrolling type</source>
         <translation type="unfinished">Тип прокрутки</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/qticons/iconsloaderimpl.cpp" line="+39"/>
+        <source>Icons theme</source>
+        <translation type="unfinished">Тема иконок</translation>
     </message>
 </context>
 <context>
