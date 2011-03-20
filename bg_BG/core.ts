@@ -540,7 +540,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+7"/>
         <location line="+2"/>
-        <location line="+83"/>
+        <location line="+53"/>
         <source>Remove account</source>
         <translation>Премахване на сметка</translation>
     </message>
@@ -981,6 +981,14 @@ p, li { white-space: pre-wrap; }
         <location line="+307"/>
         <source>Service message</source>
         <translation>Служебно съобщение</translation>
+    </message>
+</context>
+<context>
+    <name>Core::IconLoaderSettings</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/qticons/iconsloaderimpl.cpp" line="+20"/>
+        <source>Theme</source>
+        <translation>Тема</translation>
     </message>
 </context>
 <context>
@@ -2522,6 +2530,11 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/src/corelayers/kineticscroller/kineticscroller.cpp" line="+10"/>
         <source>Scrolling type</source>
         <translation>Тип на превъртането</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/qticons/iconsloaderimpl.cpp" line="+39"/>
+        <source>Icons theme</source>
+        <translation>Тема на емотиконите</translation>
     </message>
 </context>
 <context>
