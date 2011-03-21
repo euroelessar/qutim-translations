@@ -733,7 +733,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+7"/>
         <location line="+2"/>
-        <location line="+83"/>
+        <location line="+53"/>
         <source>Remove account</source>
         <translation>Удалить учетную запись</translation>
     </message>
@@ -1371,7 +1371,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::IconLoaderSettings</name>
     <message>
-        <location filename="../../qutim/src/corelayers/qticons/iconsloaderimpl.cpp" line="+20"/>
+        <location filename="../../qutim/src/corelayers/qticons/iconsloaderimpl.cpp" line="+21"/>
         <source>Theme</source>
         <translation type="unfinished">Тема</translation>
     </message>
