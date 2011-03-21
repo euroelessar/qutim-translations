@@ -986,7 +986,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::IconLoaderSettings</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/qticons/iconsloaderimpl.cpp" line="+20"/>
+        <location filename="../../qutim-meta/core/src/corelayers/qticons/iconsloaderimpl.cpp" line="+21"/>
         <source>Theme</source>
         <translation>Тема</translation>
     </message>
@@ -2534,7 +2534,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/qticons/iconsloaderimpl.cpp" line="+39"/>
         <source>Icons theme</source>
-        <translation>Тема на емотиконите</translation>
+        <translation>Тема на иконите</translation>
     </message>
 </context>
 <context>
