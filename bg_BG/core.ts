@@ -2630,7 +2630,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+96"/>
         <source>Module based instant messenger.</source>
-        <translation>Модулно базиран клиент за обмяна на моментни съобщения.</translation>
+        <translation>Клиент за обмяна на мигновени съобщения, изграден на модулен принцип.</translation>
     </message>
     <message>
         <location line="+33"/>
