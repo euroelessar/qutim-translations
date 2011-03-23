@@ -1709,7 +1709,8 @@ p, li { white-space: pre-wrap; }
         <location line="+24"/>
         <source> min</source>
         <comment>seconds</comment>
-        <translation> мин..</translation>
+        <translatorcomment>seconds????</translatorcomment>
+        <translation> мин</translation>
     </message>
 </context>
 <context>
