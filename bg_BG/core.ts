@@ -1476,19 +1476,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+78"/>
-        <location line="+288"/>
+        <location line="+306"/>
         <source>Actions</source>
         <translation>Действия</translation>
     </message>
     <message>
-        <location line="-283"/>
+        <location line="-301"/>
         <location line="+8"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
     <message>
-        <location line="+43"/>
-        <location line="+230"/>
+        <location line="+57"/>
+        <location line="+234"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
@@ -1501,6 +1501,24 @@ p, li { white-space: pre-wrap; }
         <location line="+2"/>
         <source>Reset</source>
         <translation>Нулиране</translation>
+    </message>
+</context>
+<context>
+    <name>Core::SimpleContactList::SimpleWidget</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+68"/>
+        <source>Main Toolbar</source>
+        <translation>Главна лентата с инструменти</translation>
+    </message>
+    <message>
+        <location line="+35"/>
+        <source>Status</source>
+        <translation>Статус</translation>
+    </message>
+    <message>
+        <location line="+40"/>
+        <source>Set Status Text</source>
+        <translation>Задаване текст на статуса</translation>
     </message>
 </context>
 <context>
