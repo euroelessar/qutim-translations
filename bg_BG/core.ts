@@ -1501,7 +1501,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+76"/>
         <source>Main Toolbar</source>
-        <translation>Главна лентата с инструменти</translation>
+        <translation>Главна лента с инструменти</translation>
     </message>
     <message>
         <location line="+35"/>
