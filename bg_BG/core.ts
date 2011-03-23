@@ -437,7 +437,7 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Изход</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+7"/>
         <source>Select tags</source>
         <translation>Избор на етикети</translation>
     </message>
@@ -1499,7 +1499,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::SimpleWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+75"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+76"/>
         <source>Main Toolbar</source>
         <translation>Главна лентата с инструменти</translation>
     </message>
@@ -1510,7 +1510,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+40"/>
-        <location line="+193"/>
+        <location line="+195"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
@@ -2400,14 +2400,14 @@ p, li { white-space: pre-wrap; }
         <translation>Изглед на формуляра на разговор</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-143"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-139"/>
         <source>ContactList</source>
         <translation>Списък с контакти</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>ContactListWidget</source>
-        <translation>Елемент списък с контакти</translation>
+        <translation>Елемент на списъка с контакти</translation>
     </message>
     <message>
         <location line="+1"/>
