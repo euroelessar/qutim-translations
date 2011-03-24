@@ -422,7 +422,7 @@ p, li { white-space: pre-wrap; }
         <translation>Списък с контакти</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+11"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+10"/>
         <source>&amp;Settings...</source>
         <translation>&amp;Настройки...</translation>
     </message>
@@ -437,7 +437,7 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Изход</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+81"/>
         <source>Select tags</source>
         <translation>Избор на етикети</translation>
     </message>
@@ -1471,7 +1471,7 @@ p, li { white-space: pre-wrap; }
     <name>Core::SimpleContactList::Module</name>
     <message>
         <source>Main Toolbar</source>
-        <translation type="obsolete">Главна лентата с инструменти</translation>
+        <translation type="obsolete">Главна лента с инструменти</translation>
     </message>
     <message>
         <source>Actions</source>
@@ -1486,7 +1486,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Задаване текст на статуса</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+88"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-21"/>
         <source>Select tags</source>
         <translation>Избор на етикети</translation>
     </message>
@@ -1497,6 +1497,19 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::SimpleContactList::OldWidget</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/widgets/oldcontactlistwidget/oldwidget.cpp" line="+58"/>
+        <source>Main Toolbar</source>
+        <translation>Главна лента с инструменти</translation>
+    </message>
+    <message>
+        <location line="+37"/>
+        <source>Search contact</source>
+        <translation>Търсене на контакт</translation>
+    </message>
+</context>
+<context>
     <name>Core::SimpleContactList::SimpleWidget</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+76"/>
@@ -1504,15 +1517,44 @@ p, li { white-space: pre-wrap; }
         <translation>Главна лента с инструменти</translation>
     </message>
     <message>
-        <location line="+35"/>
+        <location line="+36"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
     <message>
-        <location line="+40"/>
-        <location line="+195"/>
+        <location line="+10"/>
+        <source>Search contact</source>
+        <translation>Търсене на контакт</translation>
+    </message>
+    <message>
+        <location line="+35"/>
+        <location line="+194"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
+    </message>
+</context>
+<context>
+    <name>Core::SimpleContactList::SymbianWidget</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/widgets/symbiancontactlistwidget/symbianwidget.cpp" line="+65"/>
+        <source>Search contact</source>
+        <translation>Търсене на контакт</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Status</source>
+        <translation>Статус</translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <location line="+46"/>
+        <source>Set Status Text</source>
+        <translation>Задаване текст на статуса</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Actions</source>
+        <translation>Действия</translation>
     </message>
 </context>
 <context>
@@ -2400,7 +2442,7 @@ p, li { white-space: pre-wrap; }
         <translation>Изглед на формуляра на разговор</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-139"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-103"/>
         <source>ContactList</source>
         <translation>Списък с контакти</translation>
     </message>
