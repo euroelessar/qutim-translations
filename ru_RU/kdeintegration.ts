@@ -23,7 +23,7 @@
     <message>
         <location filename="../../plugins/kde-integration/src/aboutapp/kdeaboutappdialog.cpp" line="+36"/>
         <source>About qutIM</source>
-        <translation type="unfinished">О qutIM...</translation>
+        <translation type="unfinished">О qutIM</translation>
     </message>
 </context>
 <context>
