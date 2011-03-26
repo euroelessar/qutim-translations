@@ -3258,7 +3258,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/qmlchat/qmlchatplugin.cpp" line="+11"/>
-        <source>Qt Quick view</source>
+        <source>Qt Quick view (experimental)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
