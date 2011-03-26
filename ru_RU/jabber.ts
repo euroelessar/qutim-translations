@@ -439,7 +439,7 @@
     <message>
         <location line="+4"/>
         <source>Aleksey Sidorov</source>
-        <translation type="unfinished">Сидоров Алексей</translation>
+        <translation>Алексей Сидоров</translation>
     </message>
 </context>
 <context>
@@ -531,12 +531,12 @@
     <message>
         <location line="+1"/>
         <source>Homepage</source>
-        <translation type="unfinished">Дом.Телефон</translation>
+        <translation>Домашняя страница</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Work phone</source>
-        <translation type="unfinished">Hf,jxbq ntktajy</translation>
+        <translation>Рабочий телефон</translation>
     </message>
     <message>
         <location line="+2"/>

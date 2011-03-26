@@ -228,7 +228,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+31"/>
         <location filename="../../qutim/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="+33"/>
         <source>Aleksey Sidorov</source>
-        <translation>Сидоров Алексей</translation>
+        <translation>Алексей Сидоров</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/searchdialog/searchdialogplugin.cpp" line="+29"/>
@@ -1917,38 +1917,38 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="+71"/>
         <source>Main Toolbar</source>
-        <translation type="unfinished">Главная панель</translation>
+        <translation>Главная панель инструментов</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>File</source>
         <translatorcomment>Фэйл</translatorcomment>
-        <translation type="unfinished">Файл</translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Edit</source>
-        <translation type="unfinished">Правка</translation>
+        <translation>Правка</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Accounts</source>
-        <translation type="unfinished">Учетные записи</translation>
+        <translation>Учетные записи</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Opened chats</source>
-        <translation type="unfinished">Открытые чаты</translation>
+        <translation>Открытые чаты</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Roster</source>
-        <translation type="unfinished">Ростер</translation>
+        <translation>Ростер</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Set Status Text</source>
-        <translation type="unfinished">Установить текст статуса</translation>
+        <translation>Установить текст статуса</translation>
     </message>
 </context>
 <context>
