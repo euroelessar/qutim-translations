@@ -174,12 +174,16 @@ p, li { white-space: pre-wrap; }
         <translation>Алексей Прохин</translation>
     </message>
     <message>
+        <source>Sidorov Aleksey</source>
+        <translation type="obsolete">Сидоров Алексей</translation>
+    </message>
+    <message>
         <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogplugin.cpp" line="+29"/>
         <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+19"/>
         <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+31"/>
         <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="+33"/>
-        <source>Sidorov Aleksey</source>
-        <translation>Сидоров Алексей</translation>
+        <source>Aleksey Sidorov</source>
+        <translation>Алексей Сидоров</translation>
     </message>
 </context>
 <context>

@@ -4,9 +4,13 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/massmessaging/src/messaging.cpp" line="+17"/>
         <source>Sidorov Aleksey</source>
-        <translation>Сидоров Алексей</translation>
+        <translation type="obsolete">Сидоров Алексей</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/plugins/massmessaging/src/messaging.cpp" line="+17"/>
+        <source>Aleksey Sidorov</source>
+        <translation>Алексей Сидоров</translation>
     </message>
 </context>
 <context>
@@ -116,7 +120,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Start</source>
-        <translation>Начало</translation>
+        <translation>Стартиране</translation>
     </message>
 </context>
 <context>

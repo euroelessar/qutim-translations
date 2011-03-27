@@ -19,7 +19,7 @@
     <message>
         <location filename="../../qutim-meta/plugins/qmlpopups/src/qmlpopups.cpp" line="+19"/>
         <source>Sidorov Aleksey</source>
-        <translation>Сидоров Алексей</translation>
+        <translation>Алексей Сидоров</translation>
     </message>
 </context>
 <context>

@@ -10,8 +10,12 @@
     </message>
     <message>
         <location line="+3"/>
+        <source>Aleksey Sidorov</source>
+        <translation>Алексей Сидоров</translation>
+    </message>
+    <message>
         <source>Sidorov Aleksey</source>
-        <translation>Сидоров Алексей</translation>
+        <translation type="obsolete">Сидоров Алексей</translation>
     </message>
 </context>
 <context>
