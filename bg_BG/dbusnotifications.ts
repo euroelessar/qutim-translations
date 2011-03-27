@@ -5,8 +5,8 @@
     <name>Author</name>
     <message>
         <location filename="../../qutim-meta/plugins/dbusnotifications/src/dplugin.cpp" line="+18"/>
-        <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <source>Sidorov Aleksey</source>
+        <translation>Сидоров Алексей</translation>
     </message>
 </context>
 <context>

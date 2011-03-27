@@ -5,14 +5,14 @@
     <name>Author</name>
     <message>
         <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="+32"/>
-        <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <source>Sidorov Aleksey</source>
+        <translation>Сидоров Алексей</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="+17"/>
         <location filename="../../qutim-meta/protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+17"/>
         <source>Alexey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <translation>Сидоров Алексей</translation>
     </message>
 </context>
 <context>

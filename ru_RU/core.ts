@@ -227,8 +227,8 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+19"/>
         <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+31"/>
         <location filename="../../qutim/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="+33"/>
-        <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <source>Sidorov Aleksey</source>
+        <translation>Сидоров Алексей</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/searchdialog/searchdialogplugin.cpp" line="+29"/>

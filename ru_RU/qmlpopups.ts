@@ -18,7 +18,7 @@
     <name>Author</name>
     <message>
         <location filename="../../src/qmlpopups.cpp" line="+16"/>
-        <source>Aleksey Sidorov</source>
+        <source>Sidorov Aleksey</source>
         <translation>Сидоров Алексей</translation>
     </message>
 </context>

@@ -5,7 +5,7 @@
     <name>Author</name>
     <message>
         <location filename="../../plugins/massmessaging/src/messaging.cpp" line="+17"/>
-        <source>Aleksey Sidorov</source>
+        <source>Sidorov Aleksey</source>
         <translation>Сидоров Алексей</translation>
     </message>
 </context>

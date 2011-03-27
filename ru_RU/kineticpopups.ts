@@ -18,7 +18,7 @@
     <name>Author</name>
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="19"/>
-        <source>Aleksey Sidorov</source>
+        <source>Sidorov Aleksey</source>
         <translation>Сидоров Алексей</translation>
     </message>
 </context>

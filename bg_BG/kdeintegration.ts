@@ -10,12 +10,12 @@
     </message>
     <message>
         <location line="+3"/>
-        <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <source>Sidorov Aleksey</source>
+        <translation>Сидоров Алексей</translation>
     </message>
     <message>
         <source>Sidorov Aleksey</source>
-        <translation type="obsolete">Алексей Сидоров</translation>
+        <translation type="obsolete">Сидоров Алексей</translation>
     </message>
 </context>
 <context>
@@ -221,7 +221,7 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;img src=&quot;:/icons/plugin-logo.png&quot; /&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Simple qutIM plugin&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Автор: &lt;/span&gt;Алексей Сидоров&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Автор: &lt;/span&gt;Сидоров Алексей&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Контакти &lt;/span&gt;&lt;a href=&quot;mailto::sauron@citadelspb.com&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;sauron@citadeslpb.com&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>

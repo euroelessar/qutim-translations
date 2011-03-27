@@ -5,8 +5,8 @@
     <name>Author</name>
     <message>
         <location filename="../../qutim-meta/plugins/massmessaging/src/messaging.cpp" line="+17"/>
-        <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <source>Sidorov Aleksey</source>
+        <translation>Сидоров Алексей</translation>
     </message>
 </context>
 <context>

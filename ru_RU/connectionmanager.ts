@@ -5,7 +5,7 @@
     <name>Author</name>
     <message>
         <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="+46"/>
-        <source>Aleksey Sidorov</source>
+        <source>Sidorov Aleksey</source>
         <translation>Сидоров Алексей</translation>
     </message>
 </context>

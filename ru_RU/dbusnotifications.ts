@@ -5,7 +5,7 @@
     <name>Author</name>
     <message>
         <location filename="../../plugins/dbusnotifications/src/dplugin.cpp" line="18"/>
-        <source>Aleksey Sidorov</source>
+        <source>Sidorov Aleksey</source>
         <translation>Сидоров Алексей</translation>
     </message>
 </context>

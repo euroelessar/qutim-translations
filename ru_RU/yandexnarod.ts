@@ -5,7 +5,7 @@
     <name>Author</name>
     <message>
         <location filename="../../plugins/yandexnarod/src/yandexnarod.cpp" line="+34"/>
-        <source>Aleksey Sidorov</source>
+        <source>Sidorov Aleksey</source>
         <translation>Сидоров Алексей</translation>
     </message>
     <message>

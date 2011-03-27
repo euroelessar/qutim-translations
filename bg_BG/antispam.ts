@@ -5,8 +5,8 @@
     <name>Author</name>
     <message>
         <location filename="../../qutim-meta/plugins/antispam/src/antispamplugin.cpp" line="+13"/>
-        <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <source>Sidorov Aleksey</source>
+        <translation>Сидоров Алексей</translation>
     </message>
 </context>
 <context>

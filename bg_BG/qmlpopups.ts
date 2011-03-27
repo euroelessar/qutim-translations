@@ -18,8 +18,8 @@
     <name>Author</name>
     <message>
         <location filename="../../qutim-meta/plugins/qmlpopups/src/qmlpopups.cpp" line="+19"/>
-        <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <source>Sidorov Aleksey</source>
+        <translation>Сидоров Алексей</translation>
     </message>
 </context>
 <context>
