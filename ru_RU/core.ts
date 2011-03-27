@@ -3235,7 +3235,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="-3"/>
         <source>Session helper</source>
-        <translation type="unfinished">Помошник сессий</translation>
+        <translation type="unfinished">Помощник сессий</translation>
     </message>
     <message>
         <location line="+1"/>
