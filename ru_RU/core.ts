@@ -1659,8 +1659,8 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/profilecreationwizard.cpp" line="+123"/>
         <source>Congratulations</source>
-        <translatorcomment>!!!</translatorcomment>
-        <translation>Уря-уря-уря</translation>
+        <translatorcomment>Что блять за пиздец? Найду убью!!!</translatorcomment>
+        <translation>Поздравляем</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3165,17 +3165,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/mobilesettingsdialog/mobilesettingsdialogplugin.cpp" line="+11"/>
         <source>Mobile Settings dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Мобильное окно настроек</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Kickoff style settings dialog specialy for Maemo/MeeGo</source>
-        <translation type="unfinished">Улётный стиль настроек qutIM специально для Maemo/Meego</translation>
+        <translation type="unfinished">Kickoff-подобное окно настроек qutIM специально для Maemo/Meego</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/simplecontactlist/simplecontactdelegateplugin.cpp" line="+11"/>
         <source>ContactDelegate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отрисовщик контактов</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3205,7 +3205,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodelplugin.cpp" line="+11"/>
         <source>Tree contacts model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Древовидное представление контактов</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3235,7 +3235,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="-3"/>
         <source>Session helper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Помошник сессий</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3249,7 +3249,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/kineticscroller/kineticscrollerplugin.cpp" line="+11"/>
         <source>Qt Kinetic scroller</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Кинетическая прокрутка</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3259,12 +3259,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/qmlchat/qmlchatplugin.cpp" line="+11"/>
         <source>Qt Quick view (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Qt Quick отображение чата (экспериментально)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Modern chat view based on power of QtQuick</source>
-        <translation type="unfinished">Чат использующий энергию Qt Quick</translation>
+        <translation type="unfinished">Продвинутое отображение чата, основанное на мощи Qt Quick</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/kineticscroller/kineticscroller.cpp" line="-9"/>
@@ -3309,7 +3309,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Default qutIM contactlist widget implementation with global status button</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Стандартная реализация окна контактов с кнопкой глобального статуса</translation>
     </message>
 </context>
 <context>
@@ -3600,7 +3600,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/libqutim/actionbox.cpp" line="+31"/>
         <source>ActionBoxModule</source>
         <translatorcomment>!!!</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модуль действий</translation>
     </message>
     <message>
         <location filename="../../qutim/libqutim/notificationslayer.cpp" line="-114"/>
@@ -3636,17 +3636,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>ContactListWidget</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Окно контактов</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>ContactModel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Представление контактов</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>ContactDelegate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отрисовка контактов</translation>
     </message>
 </context>
 <context>
