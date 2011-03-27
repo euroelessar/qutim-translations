@@ -13,10 +13,6 @@
         <source>Sidorov Aleksey</source>
         <translation>Сидоров Алексей</translation>
     </message>
-    <message>
-        <source>Sidorov Aleksey</source>
-        <translation type="obsolete">Сидоров Алексей</translation>
-    </message>
 </context>
 <context>
     <name>Core</name>
@@ -169,7 +165,7 @@
     <message>
         <location line="+3"/>
         <source>Author</source>
-        <translation type="unfinished">Автор</translation>
+        <translation>Автор</translation>
     </message>
 </context>
 <context>
