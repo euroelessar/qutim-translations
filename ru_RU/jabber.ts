@@ -417,7 +417,7 @@
     <message>
         <location line="+2"/>
         <source>Show contact activity icon</source>
-        <translation type="unfinished">Показывать иконку занятия</translation>
+        <translation type="unfinished">Показывать пиктограмму занятия</translation>
     </message>
 </context>
 <context>

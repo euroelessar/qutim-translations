@@ -1891,7 +1891,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+3"/>
         <source>&lt;div&gt;&lt;b&gt;qutIM&lt;/b&gt; %1 is licensed under GNU General Public License, version 2 or (at your option) any later version.&lt;/div&gt;&lt;div&gt;qutIM resources such as themes, icons, sounds may come along with a different license.&lt;/div&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;</source>
-        <translation>&lt;div&gt;&lt;b&gt;qutIM&lt;/b&gt; %1 лицензирован под GNU General Public License, версии 2 или (по вашему желанию) любой поздней версией.&lt;/div&gt;&lt;div&gt;Ресурсы qutIM, такие как темы, иконки, звуки могут поставляться с другой лицензией.&lt;/div&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;</translation>
+        <translation>&lt;div&gt;&lt;b&gt;qutIM&lt;/b&gt; %1 лицензирован под GNU General Public License, версии 2 или (по вашему желанию) любой поздней версией.&lt;/div&gt;&lt;div&gt;Ресурсы qutIM, такие как темы, пиктограммы, звуки могут поставляться с другой лицензией.&lt;/div&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;</translation>
     </message>
 </context>
 <context>
@@ -3810,7 +3810,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/qticons/iconsloaderimpl.cpp" line="+39"/>
         <source>Icons theme</source>
-        <translation>Тема иконок</translation>
+        <translation>Тема пиктограмм</translation>
     </message>
 </context>
 <context>
@@ -4320,7 +4320,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Only display the icon</source>
-        <translation type="obsolete">Только иконки</translation>
+        <translation type="obsolete">Только пиктограммы</translation>
     </message>
     <message>
         <source>Only display the text</source>
