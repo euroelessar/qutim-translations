@@ -174,16 +174,16 @@ p, li { white-space: pre-wrap; }
         <translation>Алексей Прохин</translation>
     </message>
     <message>
-        <source>Sidorov Aleksey</source>
-        <translation type="obsolete">Сидоров Алексей</translation>
-    </message>
-    <message>
         <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogplugin.cpp" line="+29"/>
         <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+19"/>
         <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+31"/>
         <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="+33"/>
-        <source>Aleksey Sidorov</source>
+        <source>Sidorov Aleksey</source>
         <translation>Алексей Сидоров</translation>
+    </message>
+    <message>
+        <source>Aleksey Sidorov</source>
+        <translation type="obsolete">Алексей Сидоров</translation>
     </message>
 </context>
 <context>
@@ -431,7 +431,7 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Настройки...</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+7"/>
         <source>Main menu</source>
         <translation>Основно меню</translation>
     </message>
@@ -441,7 +441,7 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Изход</translation>
     </message>
     <message>
-        <location line="+84"/>
+        <location line="+85"/>
         <source>Select tags</source>
         <translation>Избор на етикети</translation>
     </message>
@@ -1441,32 +1441,35 @@ p, li { white-space: pre-wrap; }
         <translation>Главна лента с инструменти</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+27"/>
         <source>File</source>
         <translation>Файл</translation>
     </message>
     <message>
-        <location line="+4"/>
-        <source>Edit</source>
-        <translation>Редактиране</translation>
+        <location line="+2"/>
+        <source>Chats</source>
+        <translation>Разговори</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <source>Edit</source>
+        <translation type="obsolete">Редактиране</translation>
+    </message>
+    <message>
+        <location line="-1"/>
         <source>Accounts</source>
         <translation>Сметки</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Opened chats</source>
-        <translation>Отворени разговори</translation>
+        <translation type="obsolete">Отворени разговори</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+2"/>
         <source>Roster</source>
         <translation>Списък с контакти</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+3"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
@@ -2484,7 +2487,7 @@ p, li { white-space: pre-wrap; }
         <translation>Изглед на формуляра на разговор</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-106"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-108"/>
         <source>ContactList</source>
         <translation>Списък с контакти</translation>
     </message>

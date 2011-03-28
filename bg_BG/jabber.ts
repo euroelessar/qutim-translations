@@ -434,17 +434,17 @@
         <translation>Никита Белов</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <translation type="obsolete">Алексей Сидоров</translation>
     </message>
     <message>
         <source>Ruslan Nigmatullin</source>
         <translation type="obsolete">Руслан Нигматуллин</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>Sidorov Aleksey</source>
-        <translation type="obsolete">Сидоров Алексей</translation>
+        <translation>Алексей Сидоров</translation>
     </message>
 </context>
 <context>

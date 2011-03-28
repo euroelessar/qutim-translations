@@ -4,8 +4,9 @@
 <context>
     <name>Author</name>
     <message>
+        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="+32"/>
         <source>Sidorov Aleksey</source>
-        <translation type="obsolete">Сидоров Алексей</translation>
+        <translation>Алексей Сидоров</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="+17"/>
@@ -14,9 +15,8 @@
         <translation>Сидоров Алексей</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="+32"/>
         <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <translation type="obsolete">Алексей Сидоров</translation>
     </message>
 </context>
 <context>

@@ -4,13 +4,13 @@
 <context>
     <name>Author</name>
     <message>
+        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarod.cpp" line="+34"/>
         <source>Sidorov Aleksey</source>
-        <translation type="obsolete">Сидоров Алексей</translation>
+        <translation>Алексей Сидоров</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarod.cpp" line="+34"/>
         <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <translation type="obsolete">Алексей Сидоров</translation>
     </message>
     <message>
         <location line="+4"/>

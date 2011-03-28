@@ -4,13 +4,13 @@
 <context>
     <name>Author</name>
     <message>
+        <location filename="../../qutim-meta/plugins/connectionmanager/src/connectionmanager.cpp" line="+46"/>
         <source>Sidorov Aleksey</source>
-        <translation type="obsolete">Сидоров Алексей</translation>
+        <translation>Алексей Сидоров</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/plugins/connectionmanager/src/connectionmanager.cpp" line="+46"/>
         <source>Aleksey Sidorov</source>
-        <translation>Алексей Сидоров</translation>
+        <translation type="obsolete">Алексей Сидоров</translation>
     </message>
 </context>
 <context>
