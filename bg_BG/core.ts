@@ -1671,8 +1671,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+3"/>
-        <source>ld you like to send details about your current setup?</source>
-        <translation type="unfinished"></translation>
+        <source>Would you like to send details about your current setup?</source>
+        <translation>Желаете ли да изпратите подробности за настоящата инсталация?</translation>
     </message>
     <message>
         <source>Are you want to report about this setup?</source>
