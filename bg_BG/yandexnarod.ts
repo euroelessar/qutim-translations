@@ -20,7 +20,7 @@
     <message>
         <location line="+3"/>
         <source>Alexey Prokhin</source>
-        <translation type="unfinished"></translation>
+        <translation>Алексей Прохин</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -44,7 +44,7 @@
     <message>
         <location line="-1"/>
         <source>Yandex.Narod</source>
-        <translation type="unfinished"></translation>
+        <translation>Yandex.Narod</translation>
     </message>
 </context>
 <context>
@@ -97,7 +97,7 @@
     <message>
         <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarod.cpp" line="+142"/>
         <source>Yandex.Narod</source>
-        <translation type="unfinished"></translation>
+        <translation>Yandex.Narod</translation>
     </message>
 </context>
 <context>
@@ -228,24 +228,24 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="+123"/>
         <source>Authorizing...</source>
-        <translation type="unfinished">Удостоверяване...</translation>
+        <translation>Удостоверяване...</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Getting storage...</source>
-        <translation type="unfinished">Получаване на хранилището...</translation>
+        <translation>Получаване на хранилището...</translation>
     </message>
     <message>
         <location line="+60"/>
         <source>Could not open file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлът %1 не може да бъде отворен</translation>
     </message>
     <message>
         <location line="+112"/>
         <source>File sent: %N (%S bytes)
 %U</source>
         <comment>Don&apos;t remove format arguments</comment>
-        <translation type="unfinished">Изпратен файл: %N (%S Байта)
+        <translation>Изпратен файл: %N (%S Байта)
 %U</translation>
     </message>
 </context>
