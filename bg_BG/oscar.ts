@@ -3205,7 +3205,7 @@
         <location line="+3"/>
         <location line="+1"/>
         <source>Oscar file transfer settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки на предаване на файлове (Oscar)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3792,7 +3792,7 @@
     <message>
         <location filename="../../qutim-meta/protocols/oscar/src/ui/icqmainsettings.cpp" line="+105"/>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>Основни</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3826,7 +3826,7 @@
     <message>
         <location filename="../../qutim-meta/protocols/oscar/src/oscarfiletransfer.cpp" line="+776"/>
         <source>Could not open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 не може да бъде отворен</translation>
     </message>
 </context>
 <context>
@@ -3838,7 +3838,7 @@
     <message>
         <location line="+179"/>
         <source>Oscar</source>
-        <translation type="unfinished">Oscar</translation>
+        <translation>Oscar</translation>
     </message>
 </context>
 <context>
@@ -3846,17 +3846,17 @@
     <message>
         <location line="+187"/>
         <source>File transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>Предаване на файлове</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Accept incoming connections on any port</source>
-        <translation type="unfinished"></translation>
+        <translation>Приемане на входящи връзки на всеки порт</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Local ports</source>
-        <translation type="unfinished"></translation>
+        <translation>Локални портове</translation>
     </message>
 </context>
 <context>
@@ -3895,7 +3895,7 @@
     <message>
         <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatussettings.cpp" line="+29"/>
         <source>Extended status</source>
-        <translation type="unfinished"></translation>
+        <translation>Разширен статус</translation>
     </message>
     <message>
         <location line="+3"/>
