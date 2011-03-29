@@ -1671,8 +1671,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+3"/>
+        <source>ld you like to send details about your current setup?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Are you want to report about this setup?</source>
-        <translation>Желаете ли да уведомите за тази инсталация?</translation>
+        <translation type="obsolete">Желаете ли да уведомите за тази инсталация?</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1960,7 +1964,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/src/corelayers/localization/localizationsettings.cpp" line="+48"/>
         <source>&lt;Language&gt;</source>
         <comment>Localized language name</comment>
-        <translation>български</translation>
+        <translation>Български</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2741,7 +2745,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/filetransfersettings/filetransfersettings.cpp" line="+99"/>
         <source>File transfer</source>
-        <translation>Предаване на файл</translation>
+        <translation>Предаване на файлове</translation>
     </message>
 </context>
 <context>
