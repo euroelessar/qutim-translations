@@ -581,7 +581,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ActionWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferdialog.cpp" line="+41"/>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferdialog.cpp" line="+44"/>
         <source>Stop</source>
         <translation>Спиране</translation>
     </message>
@@ -908,9 +908,32 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::FileTransferDialog</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferdialog.cpp" line="+47"/>
+        <source>Remove</source>
+        <translation>Премахване</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Stop</source>
+        <translation>Спиране</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Open containing folder</source>
+        <translation>Отваряне на съдържащата папка</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Open</source>
+        <translation>Отваряне</translation>
+    </message>
+</context>
+<context>
     <name>Core::FileTransferJobModel</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="+173"/>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="+160"/>
         <source>From</source>
         <translation>От</translation>
     </message>
@@ -920,34 +943,28 @@ p, li { white-space: pre-wrap; }
         <translation>До</translation>
     </message>
     <message>
-        <location line="+35"/>
         <source>Initiation</source>
-        <translation>Иницииране</translation>
+        <translation type="obsolete">Иницииране</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Started</source>
-        <translation>Стартиран</translation>
+        <translation type="obsolete">Стартиран</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Finished</source>
-        <translation>Приключен</translation>
+        <translation type="obsolete">Приключен</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Network error</source>
-        <translation>Мрежова грешка</translation>
+        <translation type="obsolete">Мрежова грешка</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Canceled</source>
-        <translation>Отказан</translation>
+        <translation type="obsolete">Отказан</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Not supported</source>
-        <translation>Не се поддържа</translation>
+        <translation type="obsolete">Не се поддържа</translation>
     </message>
 </context>
 <context>
@@ -1243,14 +1260,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileCreationWizard</name>
     <message>
-        <location filename="../../qutim-meta/core/src/profilecreationwizard.cpp" line="+123"/>
         <source>Congratulations</source>
-        <translation>Поздравления</translation>
+        <translation type="obsolete">Поздравления</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>You&apos;ve just created a profile for qutIM. Click Finish to proceed to adding user accounts</source>
-        <translation>Току що създадохте профил в qutIM. Щракнете бутона &quot;Приключване&quot;, за да продължите с добавянето на потребителски сметки</translation>
+        <translation type="obsolete">Току що създадохте профил в qutIM. Щракнете бутона &quot;Приключване&quot;, за да продължите с добавянето на потребителски сметки</translation>
     </message>
 </context>
 <context>
@@ -1605,9 +1620,33 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleFileTransfer</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="+61"/>
         <source>Manage file transfers</source>
-        <translation>Управление на предаването на файлове</translation>
+        <translation type="obsolete">Управление на предаването на файлове</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="+179"/>
+        <source>Incoming file</source>
+        <translation>Входящ файл</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>%1 wants to send you %2 (%3)</source>
+        <translation>%1 желае да ви изпрати %2 (%3)</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Accept</source>
+        <translation>Приемане</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Ignore</source>
+        <translation>Пренебрегване</translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Choose file for %1</source>
+        <translation>Избиране на файл за %1</translation>
     </message>
 </context>
 <context>
@@ -1616,6 +1655,34 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp" line="+17"/>
         <source>Edit tags for %1</source>
         <translation>Редактиране етикетите на %1</translation>
+    </message>
+</context>
+<context>
+    <name>Core::SubmitPage</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/submitpage.cpp" line="+26"/>
+        <source>Congratulations</source>
+        <translation>Поздравления</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>You&apos;ve just created a profile for qutIM. Click Finish to proceed to adding user accounts</source>
+        <translation>Току що създадохте профил в qutIM. Щракнете бутона &quot;Приключване&quot;, за да продължите с добавянето на потребителски сметки</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Are you want to report about this setup?</source>
+        <translation>Желаете ли да уведомите за тази инсталация?</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Information to be transferred to the qutIM&apos;s authors:</source>
+        <translation>Информация, която бихте изпратили до авторите на qutIM:</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>&lt;b&gt;OS:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Short:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM Version:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt Version:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Screen resolution:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Country:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Language:&lt;/b&gt; %10 &lt;br /&gt;</source>
+        <translation>&lt;b&gt;ОС:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Кратко:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Пълно:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия на qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия на Qt:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Разделителна способност на екрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Държава:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Език:&lt;/b&gt; %10 &lt;br /&gt;</translation>
     </message>
 </context>
 <context>
@@ -1695,9 +1762,14 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>FileTransfer</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="-30"/>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="-178"/>
         <source>Send file</source>
         <translation>Изпращане на файл</translation>
+    </message>
+    <message>
+        <location line="+100"/>
+        <source>Manage file transfers</source>
+        <translation>Управление на предаването на файлове</translation>
     </message>
 </context>
 <context>
@@ -2212,6 +2284,11 @@ p, li { white-space: pre-wrap; }
         <source>Default actionset for contacts</source>
         <translation>Подразбиращ се набор от действия с контактите</translation>
     </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/trayicon/simpletray.cpp" line="+136"/>
+        <source>Notification Area Icon</source>
+        <translation>Икона в областта за уведомления</translation>
+    </message>
 </context>
 <context>
     <name>ProfileCreationPage</name>
@@ -2410,17 +2487,17 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Премахване</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferdialog.cpp" line="+28"/>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferdialog.cpp" line="-23"/>
         <source>Remove finished tasks</source>
         <translation>Премахване на приключените задачи</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+8"/>
         <source>Close</source>
         <translation>Затваряне</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="+17"/>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="+45"/>
         <source>%1 GB</source>
         <translation></translation>
     </message>
@@ -2438,6 +2515,11 @@ p, li { white-space: pre-wrap; }
         <location line="+3"/>
         <source>%1 B</source>
         <translation></translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="-54"/>
+        <source>Auto</source>
+        <translation>Автоматично</translation>
     </message>
 </context>
 <context>
@@ -2656,6 +2738,11 @@ p, li { white-space: pre-wrap; }
         <source>Icons theme</source>
         <translation>Тема на иконите</translation>
     </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfersettings/filetransfersettings.cpp" line="+99"/>
+        <source>File transfer</source>
+        <translation>Предаване на файл</translation>
+    </message>
 </context>
 <context>
     <name>SettingsDialog</name>
@@ -2829,6 +2916,49 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.ui" line="+46"/>
         <source>Add</source>
         <translation>Добавяне</translation>
+    </message>
+</context>
+<context>
+    <name>SimpletraySettings</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/trayicon/simpletraysettings.ui" line="+14"/>
+        <source>Form</source>
+        <translation>Настройки</translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Icon</source>
+        <translation>Икона</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Show number of new messages</source>
+        <translation>Показване на броя непрочетени съобщения</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show number of chats with new messages</source>
+        <translation>Показване на броя разговори с непрочетени съобщения</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show only icon</source>
+        <translation>Показване само на икона</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Other</source>
+        <translation>Други</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Show mail icon if there are new messages</source>
+        <translation>Показване на икона за поща ако има непрочетени съобщения</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Blink icon</source>
+        <translation>Мигане на иконата</translation>
     </message>
 </context>
 <context>
@@ -3495,6 +3625,55 @@ en</source>
         <location filename="../../qutim-meta/core/libqutim/contactsearch.cpp" line="+62"/>
         <source>Add contact</source>
         <translation>Добавяне на контакт</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::FileTransferJob</name>
+    <message>
+        <location filename="../../qutim-meta/core/libqutim/filetransfer.cpp" line="+310"/>
+        <source>Initiation</source>
+        <translation>Иницииране</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Started</source>
+        <translation>Стартиран</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Finished</source>
+        <translation>Приключен</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Error</source>
+        <translation>Грешка</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <location line="+26"/>
+        <source>Unknown</source>
+        <translation>Неизвестен</translation>
+    </message>
+    <message>
+        <location line="-8"/>
+        <source>Network error</source>
+        <translation>Мрежова грешка</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Canceled</source>
+        <translation>Отказан</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Not supported</source>
+        <translation>Не се поддържа</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Input/output error</source>
+        <translation>Входно/Изходна грешка</translation>
     </message>
 </context>
 <context>

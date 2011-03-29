@@ -3204,6 +3204,12 @@
     <message>
         <location line="+3"/>
         <location line="+1"/>
+        <source>Oscar file transfer settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <location line="+1"/>
         <source>MetaInfo icq service</source>
         <translation>Услуга за ICQ мета-информация</translation>
     </message>
@@ -3430,7 +3436,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/icqprotocol.cpp" line="+50"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/icqprotocol.cpp" line="+61"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
@@ -3527,7 +3533,7 @@
         <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="-5"/>
         <location line="+3"/>
         <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-45"/>
-        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="-42"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="-46"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
@@ -3784,7 +3790,12 @@
 <context>
     <name>qutim_sdk_0_3::oscar::IcqMainSettings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/ui/icqmainsettings.cpp" line="+103"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/ui/icqmainsettings.cpp" line="+105"/>
+        <source>Main</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Codec</source>
         <translation>Кодировка</translation>
     </message>
@@ -3811,11 +3822,41 @@
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::oscar::OftConnection</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarfiletransfer.cpp" line="+776"/>
+        <source>Could not open %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::oscar::OftFileTransferFactory</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/oscarfiletransfer.cpp" line="+894"/>
         <source>Oscar file transfer protocol</source>
-        <translation>Предаване на файлове (Oscar)</translation>
+        <translation type="obsolete">Предаване на файлове (Oscar)</translation>
+    </message>
+    <message>
+        <location line="+179"/>
+        <source>Oscar</source>
+        <translation type="unfinished">Oscar</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::oscar::OscarFileTransferSettings</name>
+    <message>
+        <location line="+187"/>
+        <source>File transfer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Accept incoming connections on any port</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Local ports</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3853,6 +3894,11 @@
     <name>qutim_sdk_0_3::oscar::XStatusSettings</name>
     <message>
         <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatussettings.cpp" line="+29"/>
+        <source>Extended status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
         <source>Ask for XStatuses automatically</source>
         <translation>Автоматично изпращане на заявки за разширен статус</translation>
     </message>

@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarod.cpp" line="+34"/>
+        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarod.cpp" line="+48"/>
         <source>Sidorov Aleksey</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -19,6 +19,11 @@
     </message>
     <message>
         <location line="+3"/>
+        <source>Alexey Prokhin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
         <source>Alexander Kazarin</source>
         <translation>Александър Казарин</translation>
     </message>
@@ -26,25 +31,32 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location line="-10"/>
+        <location line="-13"/>
         <source>YandexNarod</source>
         <translation>Yandex.Narod файлов организатор</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location line="+16"/>
         <source>Send files via Yandex.Narod filehosting service</source>
         <translation>Изпращане на файлoве чрез Yandex.Narod</translation>
+    </message>
+    <message>
+        <location line="-1"/>
+        <source>Yandex.Narod</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location line="+3"/>
+        <location line="-12"/>
         <location line="+4"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
     </message>
     <message>
+        <location line="+3"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
@@ -53,12 +65,11 @@
 <context>
     <name>Yandex</name>
     <message>
-        <location line="+8"/>
         <source>Send file via Yandex.Narod</source>
-        <translation>Изпращане на файл чрез Yandex.Narod</translation>
+        <translation type="obsolete">Изпращане на файл чрез Yandex.Narod</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+13"/>
         <source>Yandex Narod</source>
         <translation>Yandex.Narod</translation>
     </message>
@@ -79,6 +90,14 @@
         <location line="+4"/>
         <source>Authorization failured</source>
         <translation>Неуспешно удостоверяване</translation>
+    </message>
+</context>
+<context>
+    <name>YandexNarodFactory</name>
+    <message>
+        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarod.cpp" line="+142"/>
+        <source>Yandex.Narod</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -157,62 +176,77 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>YandexNarodUploadDialog</name>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/uploaddialog.cpp" line="+119"/>
         <source>Choose file for %1</source>
-        <translation>Избор на файл за %1</translation>
+        <translation type="obsolete">Избор на файл за %1</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>Choose file for uploading</source>
-        <translation>Избор на файл за качване</translation>
+        <translation type="obsolete">Избор на файл за качване</translation>
     </message>
     <message>
-        <location line="+15"/>
         <source>Authorizing...</source>
-        <translation>Удостоверяване...</translation>
+        <translation type="obsolete">Удостоверяване...</translation>
     </message>
     <message>
-        <location line="+36"/>
         <source>Getting storage...</source>
-        <translation>Получаване на хранилището...</translation>
+        <translation type="obsolete">Получаване на хранилището...</translation>
     </message>
     <message>
-        <location line="+25"/>
         <source>Uploading...</source>
-        <translation>Качване...</translation>
+        <translation type="obsolete">Качване...</translation>
     </message>
     <message>
-        <location line="+94"/>
         <source>Will finish in: %1m %2s</source>
-        <translation>Приключване след %1&quot; %2&apos;</translation>
+        <translation type="obsolete">Приключване след %1&quot; %2&apos;</translation>
     </message>
     <message>
-        <location line="+31"/>
         <source>Upload complete.</source>
-        <translation>Качването приключи.</translation>
+        <translation type="obsolete">Качването приключи.</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Finish</source>
-        <translation>Приключване</translation>
+        <translation type="obsolete">Приключване</translation>
     </message>
     <message>
-        <location line="+12"/>
         <source>File sent: %N (%S bytes)
 %U</source>
         <comment>Don&apos;t remove format arguments</comment>
-        <translation>Изпратен файл: %N (%S Байта)
+        <translation type="obsolete">Изпратен файл: %N (%S Байта)
 %U</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/uploaddialog.h" line="+87"/>
         <source>Uploading</source>
-        <translation>Качване</translation>
+        <translation type="obsolete">Качване</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Done</source>
-        <translation>Завършено</translation>
+        <translation type="obsolete">Завършено</translation>
+    </message>
+</context>
+<context>
+    <name>YandexNarodUploadJob</name>
+    <message>
+        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="+123"/>
+        <source>Authorizing...</source>
+        <translation type="unfinished">Удостоверяване...</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Getting storage...</source>
+        <translation type="unfinished">Получаване на хранилището...</translation>
+    </message>
+    <message>
+        <location line="+60"/>
+        <source>Could not open file %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+112"/>
+        <source>File sent: %N (%S bytes)
+%U</source>
+        <comment>Don&apos;t remove format arguments</comment>
+        <translation type="unfinished">Изпратен файл: %N (%S Байта)
+%U</translation>
     </message>
 </context>
 <context>
@@ -251,39 +285,28 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>uploadDialogClass</name>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/uploaddialog.ui" line="+20"/>
-        <source>Uploading...</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+10"/>
         <source>Upload started.</source>
-        <translation>Качването е стартирано.</translation>
+        <translation type="obsolete">Качването е стартирано.</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>File: </source>
-        <translation>Файл: </translation>
+        <translation type="obsolete">Файл: </translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Progress:</source>
-        <translation>Напредък:</translation>
+        <translation type="obsolete">Напредък:</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Will finish in:</source>
-        <translation>Приключване след:</translation>
+        <translation type="obsolete">Приключване след:</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Speed:</source>
-        <translation>Скорост:</translation>
+        <translation type="obsolete">Скорост:</translation>
     </message>
     <message>
-        <location line="+29"/>
         <source>Cancel</source>
-        <translation>Отказ</translation>
+        <translation type="obsolete">Отказ</translation>
     </message>
 </context>
 <context>
