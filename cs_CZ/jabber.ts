@@ -520,17 +520,17 @@
     <message>
         <location filename="protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="63"/>
         <source>Personal email</source>
-        <translation type="unfinished"></translation>
+        <translation>Osobní e-mail</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="64"/>
         <source>Work email</source>
-        <translation type="unfinished"></translation>
+        <translation>Pracovní e-mail</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="65"/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="66"/>
@@ -725,13 +725,9 @@
         <translation>Výchozí zdroj:</translation>
     </message>
     <message>
-        <source>Reconnect after disconnect</source>
-        <translation type="obsolete">Obnovit připojení po odpojení</translation>
-    </message>
-    <message>
         <location filename="protocols/jabber/src/protocol/jmainsettings.ui" line="45"/>
         <source>Password:</source>
-        <translation type="unfinished">Heslo:</translation>
+        <translation>Heslo:</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/jmainsettings.ui" line="59"/>
@@ -815,10 +811,6 @@
         <location filename="protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="202"/>
         <source>Auto-join</source>
         <translation>Automaticky vstoupit</translation>
-    </message>
-    <message>
-        <source>You already in conference with another nick</source>
-        <translation type="obsolete">Již jste v konferenci pod jinou přezdívkou</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="667"/>
@@ -929,7 +921,7 @@
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="229"/>
         <source>Set activity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavit činnost</translation>
     </message>
 </context>
 <context>
@@ -942,12 +934,12 @@
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="151"/>
         <source>Choose your activity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyberte činnost</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="190"/>
         <source>No activity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bez činnsoti</translation>
     </message>
 </context>
 <context>
@@ -956,13 +948,6 @@
         <location filename="protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="219"/>
         <source>Unable to join groupchat</source>
         <translation>Nelze vstoupit do konference</translation>
-    </message>
-</context>
-<context>
-    <name>Jabber::JConferenceConfig</name>
-    <message>
-        <source>Room configuration: %1</source>
-        <translation type="obsolete">Nastavení místnosti: %1</translation>
     </message>
 </context>
 <context>
@@ -1120,7 +1105,7 @@
     <message>
         <location filename="protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="20"/>
         <source>Choose your mood</source>
-        <translation>Vyberte vaši naládu</translation>
+        <translation type="unfinished">Vyberte naládu</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="41"/>
@@ -1166,12 +1151,12 @@
     <message>
         <location filename="protocols/jabber/src/protocol/account/roster/jroster.cpp" line="122"/>
         <source>Contact %1 has been added to roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakt %1 byl přidán do seznamu kontaktů</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/account/roster/jroster.cpp" line="150"/>
         <source>Contact %1 has been removed from roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakt %1 byl odstraněn ze seznamu kontaktů</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/account/roster/jroster.cpp" line="319"/>
@@ -1199,7 +1184,7 @@
     <message>
         <location filename="protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="100"/>
         <source>Close</source>
-        <translation type="unfinished">Zavřít</translation>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="150"/>
@@ -1373,17 +1358,17 @@
     <message>
         <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="47"/>
         <source>By JID</source>
-        <translation type="unfinished"></translation>
+        <translation>Podle JID</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="50"/>
         <source>By namespace uri</source>
-        <translation type="unfinished"></translation>
+        <translation>Podle názvu URI</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="53"/>
         <source>By all attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Podle všech atributů</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="58"/>
@@ -1796,7 +1781,7 @@
     <message>
         <location filename="protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp" line="104"/>
         <source>Stressed</source>
-        <translation type="unfinished">Stres</translation>
+        <translation>Stres</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp" line="105"/>
@@ -2069,12 +2054,12 @@
     <message>
         <location filename="protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.ui" line="230"/>
         <source>Add to roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat do seznamu kontaktů</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.ui" line="233"/>
         <source>Add service to roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat službu do seznamu kontaktů</translation>
     </message>
 </context>
 <context>

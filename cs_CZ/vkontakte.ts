@@ -225,7 +225,7 @@
     <message>
         <location filename="protocols/vkontakte/src/ui/vaccountwizardpage.ui" line="26"/>
         <source>Email:</source>
-        <translation></translation>
+        <translation>E-mail:</translation>
     </message>
     <message>
         <location filename="protocols/vkontakte/src/ui/vaccountwizardpage.ui" line="36"/>

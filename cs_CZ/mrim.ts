@@ -11,7 +11,7 @@
     <message>
         <location filename="protocols/mrim/src/ui/wizards/accountwizardmain.ui" line="20"/>
         <source>Email:</source>
-        <translation></translation>
+        <translation>E-mail:</translation>
     </message>
     <message>
         <location filename="protocols/mrim/src/ui/wizards/accountwizardmain.ui" line="33"/>

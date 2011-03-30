@@ -4,17 +4,22 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="34"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="48"/>
         <source>Sidorov Aleksey</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="38"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="52"/>
         <source>Ruslan Nigmatullin</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="41"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="55"/>
+        <source>Alexey Prokhin</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="58"/>
         <source>Alexander Kazarin</source>
         <translation></translation>
     </message>
@@ -22,26 +27,33 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="31"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="45"/>
         <source>YandexNarod</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="32"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="46"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="62"/>
         <source>Send files via Yandex.Narod filehosting service</source>
+        <translation type="unfinished">Poslat soubory přes hostovací službu souborů Yandex.Narod</translation>
+    </message>
+    <message>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="61"/>
+        <source>Yandex.Narod</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="35"/>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="39"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="49"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="53"/>
         <source>Developer</source>
         <translation>Vývojář</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="42"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="56"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="59"/>
         <source>Author</source>
         <translation>Autor</translation>
     </message>
@@ -49,12 +61,11 @@
 <context>
     <name>Yandex</name>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="50"/>
         <source>Send file via Yandex.Narod</source>
-        <translation>Poslat soubor přes Yandex.Narod</translation>
+        <translation type="obsolete">Poslat soubor přes Yandex.Narod</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="55"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="72"/>
         <source>Yandex Narod</source>
         <translation></translation>
     </message>
@@ -75,6 +86,14 @@
         <location filename="plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="83"/>
         <source>Authorization failured</source>
         <translation>Autorizace selhala</translation>
+    </message>
+</context>
+<context>
+    <name>YandexNarodFactory</name>
+    <message>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="214"/>
+        <source>Yandex.Narod</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -133,7 +152,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarodsettings.ui" line="122"/>
         <source>Send file template</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šablona odesílání souboru</translation>
     </message>
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarodsettings.ui" line="135"/>
@@ -149,61 +168,61 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>YandexNarodUploadDialog</name>
     <message>
-        <location filename="plugins/yandexnarod/src/uploaddialog.cpp" line="119"/>
         <source>Choose file for %1</source>
-        <translation>Vybrat soubor pro %1</translation>
+        <translation type="obsolete">Vybrat soubor pro %1</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/uploaddialog.cpp" line="119"/>
         <source>Choose file for uploading</source>
-        <translation>Vybrat soubor pro nahrání</translation>
+        <translation type="obsolete">Vybrat soubor pro nahrání</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/uploaddialog.cpp" line="134"/>
         <source>Authorizing...</source>
-        <translation>Autorizování...</translation>
+        <translation type="obsolete">Autorizování...</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/uploaddialog.cpp" line="170"/>
-        <source>Getting storage...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugins/yandexnarod/src/uploaddialog.cpp" line="195"/>
         <source>Uploading...</source>
-        <translation>Nahrávání...</translation>
+        <translation type="obsolete">Nahrávání...</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/uploaddialog.cpp" line="289"/>
-        <source>Will finish in: %1m %2s</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugins/yandexnarod/src/uploaddialog.cpp" line="320"/>
         <source>Upload complete.</source>
-        <translation>Nahrávání dokončeno.</translation>
+        <translation type="obsolete">Nahrávání dokončeno.</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/uploaddialog.cpp" line="321"/>
         <source>Finish</source>
-        <translation>Dokončit</translation>
+        <translation type="obsolete">Dokončit</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/uploaddialog.cpp" line="333"/>
+        <source>Uploading</source>
+        <translation type="obsolete">Nahrávání</translation>
+    </message>
+    <message>
+        <source>Done</source>
+        <translation type="obsolete">Hotovo</translation>
+    </message>
+</context>
+<context>
+    <name>YandexNarodUploadJob</name>
+    <message>
+        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="123"/>
+        <source>Authorizing...</source>
+        <translation type="unfinished">Autorizování...</translation>
+    </message>
+    <message>
+        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="146"/>
+        <source>Getting storage...</source>
+        <translation type="unfinished">Načítání uložiště</translation>
+    </message>
+    <message>
+        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="206"/>
+        <source>Could not open file %1</source>
+        <translation type="unfinished">Nelze otevřít soubor %1</translation>
+    </message>
+    <message>
+        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="318"/>
         <source>File sent: %N (%S bytes)
 %U</source>
         <comment>Don&apos;t remove format arguments</comment>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugins/yandexnarod/src/uploaddialog.h" line="87"/>
-        <source>Uploading</source>
-        <translation>Nahrávání</translation>
-    </message>
-    <message>
-        <location filename="plugins/yandexnarod/src/uploaddialog.h" line="88"/>
-        <source>Done</source>
-        <translation>Hotovo</translation>
     </message>
 </context>
 <context>
@@ -242,39 +261,24 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>uploadDialogClass</name>
     <message>
-        <location filename="plugins/yandexnarod/src/uploaddialog.ui" line="20"/>
         <source>Uploading...</source>
-        <translation>Nahrávání...</translation>
+        <translation type="obsolete">Nahrávání...</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/uploaddialog.ui" line="30"/>
         <source>Upload started.</source>
-        <translation>Nahrávání začalo.</translation>
+        <translation type="obsolete">Nahrávání začalo.</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/uploaddialog.ui" line="40"/>
         <source>File: </source>
-        <translation>Soubor:</translation>
+        <translation type="obsolete">Soubor:</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/uploaddialog.ui" line="50"/>
-        <source>Progress:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugins/yandexnarod/src/uploaddialog.ui" line="57"/>
-        <source>Will finish in:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugins/yandexnarod/src/uploaddialog.ui" line="64"/>
         <source>Speed:</source>
-        <translation>Rychlost:</translation>
+        <translation type="obsolete">Rychlost:</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/uploaddialog.ui" line="93"/>
         <source>Cancel</source>
-        <translation>Zrušit</translation>
+        <translation type="obsolete">Zrušit</translation>
     </message>
 </context>
 <context>

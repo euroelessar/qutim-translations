@@ -29,10 +29,6 @@
         <source>Author</source>
         <translation>Autor</translation>
     </message>
-    <message>
-        <source>Developer</source>
-        <translation type="obsolete">Vývojář</translation>
-    </message>
 </context>
 <context>
     <name>WPreviews</name>

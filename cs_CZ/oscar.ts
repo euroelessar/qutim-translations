@@ -402,7 +402,7 @@
         <location filename="protocols/oscar/src/inforequest.cpp" line="55"/>
         <location filename="protocols/oscar/src/inforequest.cpp" line="57"/>
         <source>Email</source>
-        <translation></translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/inforequest.cpp" line="67"/>
@@ -521,12 +521,12 @@
     <message>
         <location filename="protocols/oscar/src/authorization.cpp" line="71"/>
         <source>Authorization request accepted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Žádost o autorizaci přijata</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/authorization.cpp" line="72"/>
         <source>Authorization request declined</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Žádost o autorizaci odmítnuta</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/authorization.cpp" line="110"/>
@@ -614,7 +614,7 @@
     <message>
         <location filename="protocols/oscar/src/contactsearch.cpp" line="80"/>
         <source>Email</source>
-        <translation></translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/contactsearch.cpp" line="82"/>
@@ -2692,13 +2692,6 @@
     </message>
 </context>
 <context>
-    <name>MetaController</name>
-    <message>
-        <source>Additional</source>
-        <translation type="obsolete">Doplňující</translation>
-    </message>
-</context>
-<context>
     <name>MetaInfo</name>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafield.cpp" line="23"/>
@@ -2744,7 +2737,7 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="628"/>
         <source>Email</source>
-        <translation></translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="634"/>
@@ -2759,7 +2752,7 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="638"/>
         <source>Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorizace</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="639"/>
@@ -2774,7 +2767,7 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="641"/>
         <source>Public primary email</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Veřejný hlavní e-mail</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="642"/>
@@ -2805,7 +2798,7 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="662"/>
         <source>Emails</source>
-        <translation>Emaily</translation>
+        <translation>E-maily</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="663"/>
@@ -3221,34 +3214,40 @@
     <message>
         <location filename="protocols/oscar/src/oscarplugin.cpp" line="73"/>
         <location filename="protocols/oscar/src/oscarplugin.cpp" line="74"/>
-        <source>MetaInfo icq service</source>
+        <source>Oscar file transfer settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/oscarplugin.cpp" line="77"/>
         <location filename="protocols/oscar/src/oscarplugin.cpp" line="78"/>
-        <source>Oscar authorization support</source>
+        <source>MetaInfo icq service</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/oscarplugin.cpp" line="81"/>
         <location filename="protocols/oscar/src/oscarplugin.cpp" line="82"/>
-        <source>Oscar privacy lists</source>
+        <source>Oscar authorization support</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/oscarplugin.cpp" line="85"/>
-        <source>Oscar contact search</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="protocols/oscar/src/oscarplugin.cpp" line="86"/>
-        <source>Oscar contact search implementation</source>
+        <source>Oscar privacy lists</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/oscarplugin.cpp" line="89"/>
+        <source>Oscar contact search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="protocols/oscar/src/oscarplugin.cpp" line="90"/>
+        <source>Oscar contact search implementation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="protocols/oscar/src/oscarplugin.cpp" line="93"/>
+        <location filename="protocols/oscar/src/oscarplugin.cpp" line="94"/>
         <source>Oscar proxy support</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3284,14 +3283,6 @@
         <location filename="protocols/oscar/src/privacylists.cpp" line="76"/>
         <source>Unknown privacy</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Visible mode:</source>
-        <translation type="obsolete">Režim viditelnosti:</translation>
-    </message>
-    <message>
-        <source>Invisible mode:</source>
-        <translation type="obsolete">Režim neviditelnosti:</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/privacylists.cpp" line="183"/>
@@ -3430,12 +3421,12 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="protocols/oscar/src/icqprotocol.cpp" line="50"/>
+        <location filename="protocols/oscar/src/icqprotocol.cpp" line="61"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/icqprotocol.cpp" line="55"/>
+        <location filename="protocols/oscar/src/icqprotocol.cpp" line="66"/>
         <source>Icq account settings</source>
         <translation type="unfinished">ICQ nastavení účtu</translation>
     </message>
@@ -3784,12 +3775,17 @@
 <context>
     <name>qutim_sdk_0_3::oscar::IcqMainSettings</name>
     <message>
-        <location filename="protocols/oscar/src/ui/icqmainsettings.cpp" line="144"/>
+        <location filename="protocols/oscar/src/ui/icqmainsettings.cpp" line="146"/>
+        <source>Main</source>
+        <translation type="unfinished">Hlavní</translation>
+    </message>
+    <message>
+        <location filename="protocols/oscar/src/ui/icqmainsettings.cpp" line="147"/>
         <source>Codec</source>
         <translation>Kódování</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/ui/icqmainsettings.cpp" line="145"/>
+        <location filename="protocols/oscar/src/ui/icqmainsettings.cpp" line="148"/>
         <source>Don&apos;t send requests for avatarts</source>
         <translation>Neposílat požadavky na avatary</translation>
     </message>
@@ -3811,11 +3807,37 @@
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::oscar::OftConnection</name>
+    <message>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="776"/>
+        <source>Could not open %1</source>
+        <translation type="unfinished">Nepodařilo se otevřít: %1</translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::oscar::OftFileTransferFactory</name>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="894"/>
-        <source>Oscar file transfer protocol</source>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="955"/>
+        <source>Oscar</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::oscar::OscarFileTransferSettings</name>
+    <message>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1142"/>
+        <source>File transfer</source>
+        <translation>Přenos souboru</translation>
+    </message>
+    <message>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1145"/>
+        <source>Accept incoming connections on any port</source>
+        <translation>Přijímat příchozí spojení na všech portech</translation>
+    </message>
+    <message>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1157"/>
+        <source>Local ports</source>
+        <translation>Místní porty</translation>
     </message>
 </context>
 <context>
@@ -3853,6 +3875,11 @@
     <name>qutim_sdk_0_3::oscar::XStatusSettings</name>
     <message>
         <location filename="protocols/oscar/plugins/xstatus/xstatussettings.cpp" line="29"/>
+        <source>Extended status</source>
+        <translation>Rozšířený stav</translation>
+    </message>
+    <message>
+        <location filename="protocols/oscar/plugins/xstatus/xstatussettings.cpp" line="32"/>
         <source>Ask for XStatuses automatically</source>
         <translation type="unfinished"></translation>
     </message>

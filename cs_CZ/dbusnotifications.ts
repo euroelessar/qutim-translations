@@ -19,7 +19,7 @@
     <message>
         <location filename="plugins/dbusnotifications/src/dbusbackend.cpp" line="142"/>
         <source>Ignore</source>
-        <translation>Ignorovat</translation>
+        <translation>Odmítnout</translation>
     </message>
     <message>
         <location filename="plugins/dbusnotifications/src/dbusbackend.cpp" line="144"/>

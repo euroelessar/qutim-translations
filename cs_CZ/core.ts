@@ -85,7 +85,7 @@
     <message>
         <location filename="core/libqutim/actiontoolbar.cpp" line="64"/>
         <source>Follow the style</source>
-        <translation type="unfinished">Závislé na motivu</translation>
+        <translation>Závislé na motivu</translation>
     </message>
 </context>
 <context>
@@ -289,12 +289,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="89"/>
         <source>Clear Chat</source>
-        <translation type="unfinished">Vymazat konverzaci</translation>
+        <translation>Vymazat konverzaci</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="98"/>
         <source>Clear chat</source>
-        <translation type="unfinished">Vymazat konverzaci</translation>
+        <translation>Vymazat konverzaci</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="101"/>
@@ -319,12 +319,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="465"/>
         <source>Auto</source>
-        <translation type="unfinished">Automaticky</translation>
+        <translation>Automaticky</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="475"/>
         <source>Last active</source>
-        <translation type="unfinished">Poslední aktivní</translation>
+        <translation>Poslední aktivní</translation>
     </message>
 </context>
 <context>
@@ -423,27 +423,27 @@ p, li { white-space: pre-wrap; }
         <translation>Na&amp;stavení...</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="80"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="81"/>
         <source>Main menu</source>
         <translation>Hlavní nabídka</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="84"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="85"/>
         <source>&amp;Quit</source>
         <translation>&amp;Ukončit</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="168"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="170"/>
         <source>Select tags</source>
         <translation>Vybrat štítky</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="174"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="176"/>
         <source>Show/Hide offline</source>
         <translation>Zobrazit/skrýt offline kontakty</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="177"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="179"/>
         <source>Hide offline</source>
         <translation>Skrýt offline kontakty</translation>
     </message>
@@ -545,14 +545,6 @@ p, li { white-space: pre-wrap; }
         <source>Are you sure want to remove %1</source>
         <translation>Opravdu chcete odstranit %1</translation>
     </message>
-    <message>
-        <source>Delete account</source>
-        <translation type="obsolete">Odstranit účet</translation>
-    </message>
-    <message>
-        <source>Are you sure want to delete %1</source>
-        <translation type="obsolete">Opravdu chcete odstranit %1</translation>
-    </message>
 </context>
 <context>
     <name>Core::AccountCreatorProtocols</name>
@@ -573,22 +565,22 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ActionWidget</name>
     <message>
-        <location filename="core/src/corelayers/filetransfer/filetransferdialog.cpp" line="41"/>
+        <location filename="core/src/corelayers/filetransfer/filetransferdialog.cpp" line="44"/>
         <source>Stop</source>
         <translation type="unfinished">Přerušit</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/filetransfer/filetransferdialog.cpp" line="42"/>
+        <location filename="core/src/corelayers/filetransfer/filetransferdialog.cpp" line="45"/>
         <source>Stop the task</source>
         <translation type="unfinished">Přerušit úlohu</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/filetransfer/filetransferdialog.cpp" line="49"/>
+        <location filename="core/src/corelayers/filetransfer/filetransferdialog.cpp" line="52"/>
         <source>Remove</source>
         <translation>Odstranit</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/filetransfer/filetransferdialog.cpp" line="50"/>
+        <location filename="core/src/corelayers/filetransfer/filetransferdialog.cpp" line="53"/>
         <source>Remove the task</source>
         <translation>Odstranit úlohu</translation>
     </message>
@@ -638,13 +630,13 @@ p, li { white-space: pre-wrap; }
         <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="45"/>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="46"/>
         <source>Vasya Pupkin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jan Novák</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="56"/>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="57"/>
         <source>Noname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Franta Vopršálek</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="123"/>
@@ -688,7 +680,7 @@ p, li { white-space: pre-wrap; }
         <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="198"/>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="222"/>
         <source>Vasya Pupkin is reading you mind</source>
-        <translation type="unfinished">Vasya Pupkin ti čte myšlenky</translation>
+        <translation type="unfinished">Jan Novák čte tvé myšlenky</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="239"/>
@@ -726,7 +718,7 @@ p, li { white-space: pre-wrap; }
         <location filename="core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="50"/>
         <location filename="core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="117"/>
         <source>Private</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soukromé</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="57"/>
@@ -889,46 +881,63 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::FileTransferDialog</name>
+    <message>
+        <location filename="core/src/corelayers/filetransfer/filetransferdialog.cpp" line="100"/>
+        <source>Remove</source>
+        <translation>Odstranit</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/filetransfer/filetransferdialog.cpp" line="102"/>
+        <source>Stop</source>
+        <translation type="unfinished">Přerušit</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/filetransfer/filetransferdialog.cpp" line="104"/>
+        <source>Open containing folder</source>
+        <translation type="unfinished">Otevřít sloužku obsahovou</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/filetransfer/filetransferdialog.cpp" line="106"/>
+        <source>Open</source>
+        <translation>Otevřít</translation>
+    </message>
+</context>
+<context>
     <name>Core::FileTransferJobModel</name>
     <message>
-        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="173"/>
+        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="160"/>
         <source>From</source>
         <translation>Od</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="174"/>
+        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="161"/>
         <source>To</source>
         <translation>Pro</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="209"/>
         <source>Initiation</source>
-        <translation type="unfinished">Zahájení</translation>
+        <translation type="obsolete">Zahájení</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="211"/>
         <source>Started</source>
-        <translation type="unfinished">Začínáme</translation>
+        <translation type="obsolete">Začínáme</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="213"/>
         <source>Finished</source>
-        <translation>Dokončeno</translation>
+        <translation type="obsolete">Dokončeno</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="218"/>
         <source>Network error</source>
-        <translation>Síťová chyba</translation>
+        <translation type="obsolete">Síťová chyba</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="220"/>
         <source>Canceled</source>
-        <translation>Zrušeno</translation>
+        <translation type="obsolete">Zrušeno</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="222"/>
         <source>Not supported</source>
-        <translation>Není podporováno</translation>
+        <translation type="obsolete">Není podporováno</translation>
     </message>
 </context>
 <context>
@@ -1194,7 +1203,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/servicechooser/pluginchooserwidget.cpp" line="143"/>
         <source>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;br/&gt;</source>
-        <translation></translation>
+        <translation>&lt;b&gt;E-mail:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/servicechooser/pluginchooserwidget.cpp" line="145"/>
@@ -1224,14 +1233,12 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::ProfileCreationWizard</name>
     <message>
-        <location filename="core/src/profilecreationwizard.cpp" line="123"/>
         <source>Congratulations</source>
-        <translation>Gratuluji</translation>
+        <translation type="obsolete">Gratuluji</translation>
     </message>
     <message>
-        <location filename="core/src/profilecreationwizard.cpp" line="124"/>
         <source>You&apos;ve just created a profile for qutIM. Click Finish to proceed to adding user accounts</source>
-        <translation>Byl vytvořen profil pro qutIM. Kliknutím na Dokončit bude následovat přidávání uživatelských účtů</translation>
+        <translation type="obsolete">Byl vytvořen profil pro qutIM. Kliknutím na Dokončit bude následovat přidávání uživatelských účtů</translation>
     </message>
 </context>
 <context>
@@ -1350,7 +1357,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/servicechooser/servicechooser.cpp" line="54"/>
         <source>&lt;b&gt;Email:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;br/&gt;</source>
-        <translation></translation>
+        <translation>&lt;b&gt;E-mail:&lt;/b&gt; &lt;a href=&quot;mailto:%1&quot;&gt;%1&lt;/a&gt;&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/servicechooser/servicechooser.cpp" line="56"/>
@@ -1389,7 +1396,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/simpleabout/simpleaboutdialog.cpp" line="45"/>
         <source>&lt;div&gt;&lt;b&gt;qutIM&lt;/b&gt; %1 is licensed under GNU General Public License, version 2 or (at your option) any later version.&lt;/div&gt;&lt;div&gt;qutIM resources such as themes, icons, sounds may come along with a different license.&lt;/div&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;div&gt;&lt;b&gt;qutIM&lt;/b&gt; %1 je licencován pod GNU General Public License, verze 2 nebo (pokud chcete) kterákoliv pozdější verze.&lt;/div&gt;&lt;div&gt;qutIM zdroje jako jsou motivy, ikony, zvuky mohou mít jinou licenci.&lt;/div&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;</translation>
     </message>
 </context>
 <context>
@@ -1418,32 +1425,35 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <translation type="unfinished">Hlavní lišta</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="94"/>
+        <location filename="core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="98"/>
         <source>File</source>
         <translation>Soubor</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="98"/>
-        <source>Edit</source>
-        <translation>Úpravy</translation>
+        <location filename="core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="100"/>
+        <source>Chats</source>
+        <translation>Konverzace</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="102"/>
+        <source>Edit</source>
+        <translation type="obsolete">Úpravy</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="99"/>
         <source>Accounts</source>
         <translation>Účty</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="106"/>
         <source>Opened chats</source>
-        <translation>Otevřené konverzace</translation>
+        <translation type="obsolete">Otevřené konverzace</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="110"/>
+        <location filename="core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="101"/>
         <source>Roster</source>
-        <translation type="unfinished">Seznam kontaktů</translation>
+        <translation>Seznam kontaktů</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="116"/>
+        <location filename="core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="104"/>
         <source>Set Status Text</source>
         <translation>Nastavit text stavu</translation>
     </message>
@@ -1489,24 +1499,12 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <source>Main Toolbar</source>
-        <translation type="obsolete">Hlavní lišta</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="obsolete">Stav</translation>
-    </message>
-    <message>
-        <source>Set Status Text</source>
-        <translation type="obsolete">Nastavit text stavu</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="156"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="158"/>
         <source>Select tags</source>
         <translation>Vybrat štítky</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="158"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="160"/>
         <source>Reset</source>
         <translation type="unfinished">Resetovat</translation>
     </message>
@@ -1575,9 +1573,33 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::SimpleFileTransfer</name>
     <message>
-        <location filename="core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="61"/>
         <source>Manage file transfers</source>
-        <translation type="unfinished">Správce přenosů soborů</translation>
+        <translation type="obsolete">Správce přenosů soborů</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="179"/>
+        <source>Incoming file</source>
+        <translation>Příchozí soubor</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="180"/>
+        <source>%1 wants to send you %2 (%3)</source>
+        <translation>%1 chce poslat %2 (%3)</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="184"/>
+        <source>Accept</source>
+        <translation>Přijmout</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="185"/>
+        <source>Ignore</source>
+        <translation>Odmítnout</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="218"/>
+        <source>Choose file for %1</source>
+        <translation>Vybrat soubor pro %1</translation>
     </message>
 </context>
 <context>
@@ -1586,6 +1608,34 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <location filename="core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp" line="17"/>
         <source>Edit tags for %1</source>
         <translation>Upravit štítky pro %1</translation>
+    </message>
+</context>
+<context>
+    <name>Core::SubmitPage</name>
+    <message>
+        <location filename="core/src/submitpage.cpp" line="26"/>
+        <source>Congratulations</source>
+        <translation type="unfinished">Gratuluji</translation>
+    </message>
+    <message>
+        <location filename="core/src/submitpage.cpp" line="27"/>
+        <source>You&apos;ve just created a profile for qutIM. Click Finish to proceed to adding user accounts</source>
+        <translation type="unfinished">Byl vytvořen profil pro qutIM. Kliknutím na Dokončit bude následovat přidávání uživatelských účtů</translation>
+    </message>
+    <message>
+        <location filename="core/src/submitpage.cpp" line="30"/>
+        <source>Would you like to send details about your current setup?</source>
+        <translation type="unfinished">Chcete poslat detaily o aktuálním nastavení?</translation>
+    </message>
+    <message>
+        <location filename="core/src/submitpage.cpp" line="31"/>
+        <source>Information to be transferred to the qutIM&apos;s authors:</source>
+        <translation type="unfinished">Informace, které mají být přeneseny autorům qutIMu:</translation>
+    </message>
+    <message>
+        <location filename="core/src/submitpage.cpp" line="36"/>
+        <source>&lt;b&gt;OS:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Short:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM Version:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt Version:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Screen resolution:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Country:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Language:&lt;/b&gt; %10 &lt;br /&gt;</source>
+        <translation type="unfinished">&lt;b&gt;OS:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Stručně:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Vše:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM verze:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt verze:&lt;/b&gt; %5 (%6 bitů) &lt;br /&gt;&lt;b&gt;Rozlišení obrazovky:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Stát:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Jazyk:&lt;/b&gt; %10 &lt;br /&gt;</translation>
     </message>
 </context>
 <context>
@@ -1665,25 +1715,18 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>FileTransfer</name>
     <message>
-        <location filename="core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="31"/>
+        <location filename="core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="40"/>
         <source>Send file</source>
         <translation>Poslat soubor</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="140"/>
+        <source>Manage file transfers</source>
+        <translation type="unfinished">Správce přenosů soborů</translation>
     </message>
 </context>
 <context>
     <name>FileTransferDialog</name>
-    <message>
-        <source>File name:</source>
-        <translation type="obsolete">Název souboru:</translation>
-    </message>
-    <message>
-        <source>Total size:</source>
-        <translation type="obsolete">Celková velikost:</translation>
-    </message>
-    <message>
-        <source>File size:</source>
-        <translation type="obsolete">Velikost souboru:</translation>
-    </message>
     <message>
         <location filename="core/src/corelayers/filetransfer/filetransferdialog.ui" line="20"/>
         <source>File transfer manager</source>
@@ -1839,7 +1882,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/shortcutsettings/keysequencewidget.cpp" line="240"/>
         <source>What the user inputs now will be taken as the new shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Co uživatel nyní zadá bude bráno jako nová klávesová zkratka</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/shortcutsettings/keysequencewidget.cpp" line="248"/>
@@ -2165,7 +2208,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/kineticscroller/kineticscroller.cpp" line="32"/>
         <source>Kinetic scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pohyblivé rolování</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="30"/>
@@ -2175,6 +2218,11 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="31"/>
         <source>Default actionset for contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/trayicon/simpletray.cpp" line="136"/>
+        <source>Notification Area Icon</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2367,42 +2415,39 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <translation>Kopírovat %1 do schránky</translation>
     </message>
     <message>
-        <source>Stop</source>
-        <translation type="obsolete">Přerušit</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="obsolete">Odstranit</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/filetransfer/filetransferdialog.cpp" line="78"/>
+        <location filename="core/src/corelayers/filetransfer/filetransferdialog.cpp" line="83"/>
         <source>Remove finished tasks</source>
         <translation>Odstranit dokončené úlohy</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/filetransfer/filetransferdialog.cpp" line="84"/>
+        <location filename="core/src/corelayers/filetransfer/filetransferdialog.cpp" line="91"/>
         <source>Close</source>
         <translation>Zavřít</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="239"/>
+        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="206"/>
         <source>%1 GB</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="241"/>
+        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="208"/>
         <source>%1 MB</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="243"/>
+        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="210"/>
         <source>%1 KB</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="246"/>
+        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="213"/>
         <source>%1 B</source>
         <translation></translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="86"/>
+        <source>Auto</source>
+        <translation type="unfinished">Automaticky</translation>
     </message>
 </context>
 <context>
@@ -2454,7 +2499,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="52"/>
         <source>ContactList</source>
-        <translation type="unfinished">Seznam kontaktů</translation>
+        <translation>Seznam kontaktů</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="53"/>
@@ -2614,12 +2659,17 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/kineticscroller/kineticscroller.cpp" line="42"/>
         <source>Scrolling type</source>
-        <translation type="unfinished">Typ rolování</translation>
+        <translation>Typ rolování</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/qticons/iconsloaderimpl.cpp" line="60"/>
         <source>Icons theme</source>
-        <translation type="unfinished">Motiv ikon</translation>
+        <translation>Motiv ikon</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/filetransfersettings/filetransfersettings.cpp" line="99"/>
+        <source>File transfer</source>
+        <translation>Přenos souboru</translation>
     </message>
 </context>
 <context>
@@ -2794,6 +2844,49 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <location filename="core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.ui" line="46"/>
         <source>Add</source>
         <translation>Přidat</translation>
+    </message>
+</context>
+<context>
+    <name>SimpletraySettings</name>
+    <message>
+        <location filename="core/src/corelayers/trayicon/simpletraysettings.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/trayicon/simpletraysettings.ui" line="32"/>
+        <source>Icon</source>
+        <translation type="unfinished">Ikona</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/trayicon/simpletraysettings.ui" line="38"/>
+        <source>Show number of new messages</source>
+        <translation type="unfinished">Zobrazit počet nových zpráv</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/trayicon/simpletraysettings.ui" line="45"/>
+        <source>Show number of chats with new messages</source>
+        <translation type="unfinished">Zobrazit počet konverzací s novými zprávami</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/trayicon/simpletraysettings.ui" line="52"/>
+        <source>Show only icon</source>
+        <translation type="unfinished">Zobrazit pouze ikonu</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/trayicon/simpletraysettings.ui" line="62"/>
+        <source>Other</source>
+        <translation type="unfinished">Ostatní</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/trayicon/simpletraysettings.ui" line="68"/>
+        <source>Show mail icon if there are new messages</source>
+        <translation type="unfinished">Zobrazit ikonu pošty pokud jsou nové zprávy</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/trayicon/simpletraysettings.ui" line="75"/>
+        <source>Blink icon</source>
+        <translation type="unfinished">Blikající ikona</translation>
     </message>
 </context>
 <context>
@@ -3460,6 +3553,55 @@ en</source>
         <location filename="core/libqutim/contactsearch.cpp" line="62"/>
         <source>Add contact</source>
         <translation>Přidat kontakt</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::FileTransferJob</name>
+    <message>
+        <location filename="core/libqutim/filetransfer.cpp" line="310"/>
+        <source>Initiation</source>
+        <translation type="unfinished">Zahájení</translation>
+    </message>
+    <message>
+        <location filename="core/libqutim/filetransfer.cpp" line="312"/>
+        <source>Started</source>
+        <translation type="unfinished">Začínáme</translation>
+    </message>
+    <message>
+        <location filename="core/libqutim/filetransfer.cpp" line="314"/>
+        <source>Finished</source>
+        <translation type="unfinished">Dokončeno</translation>
+    </message>
+    <message>
+        <location filename="core/libqutim/filetransfer.cpp" line="316"/>
+        <source>Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="core/libqutim/filetransfer.cpp" line="318"/>
+        <location filename="core/libqutim/filetransfer.cpp" line="344"/>
+        <source>Unknown</source>
+        <translation type="unfinished">Neznámý</translation>
+    </message>
+    <message>
+        <location filename="core/libqutim/filetransfer.cpp" line="336"/>
+        <source>Network error</source>
+        <translation type="unfinished">Síťová chyba</translation>
+    </message>
+    <message>
+        <location filename="core/libqutim/filetransfer.cpp" line="338"/>
+        <source>Canceled</source>
+        <translation type="unfinished">Zrušeno</translation>
+    </message>
+    <message>
+        <location filename="core/libqutim/filetransfer.cpp" line="340"/>
+        <source>Not supported</source>
+        <translation type="unfinished">Není podporováno</translation>
+    </message>
+    <message>
+        <location filename="core/libqutim/filetransfer.cpp" line="342"/>
+        <source>Input/output error</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
