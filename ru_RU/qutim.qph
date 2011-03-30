@@ -5375,4 +5375,32 @@ Accept invitation?</source>
     <source>State</source>
     <target>Состояние</target>
 </phrase>
+<phrase>
+    <source>Open containing folder</source>
+    <target>Открыть папку с файлом</target>
+</phrase>
+<phrase>
+    <source>Open</source>
+    <target>Открыть</target>
+</phrase>
+<phrase>
+    <source>Ignore</source>
+    <target>Отклонить</target>
+</phrase>
+<phrase>
+    <source>Icon</source>
+    <target>Пиктограмма</target>
+</phrase>
+<phrase>
+    <source>AddAccountForm</source>
+    <target>Новая учетная запись</target>
+</phrase>
+<phrase>
+    <source>Could not open %1</source>
+    <target>Не удалось открыть %1</target>
+</phrase>
+<phrase>
+    <source>Could not open file %1</source>
+    <target>Не могу открыть %1</target>
+</phrase>
 </QPH>

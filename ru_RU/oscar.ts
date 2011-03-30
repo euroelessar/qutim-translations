@@ -6,7 +6,7 @@
     <message>
         <location filename="../../protocols/oscar/src/ui/addaccountform.ui" line="+14"/>
         <source>AddAccountForm</source>
-        <translation type="unfinished">Новая учетная запись</translation>
+        <translation>Новая учетная запись</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -45,12 +45,12 @@
         <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+553"/>
         <source>Alumni Org.</source>
         <translatorcomment>выпускники???</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Charity Org.</source>
-        <translation type="unfinished">Благотворительная орг-я</translation>
+        <translation>Благотворительная орг-я</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -70,17 +70,17 @@
     <message>
         <location line="+1"/>
         <source>Fan Clubs</source>
-        <translation type="unfinished">Фанклуб</translation>
+        <translation>Фанклуб</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Fraternity/Sorority</source>
-        <translation type="unfinished">Братство/Женское общество</translation>
+        <translation>Братство/Женское общество</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Hobbyists Org.</source>
-        <translation type="unfinished">Любители хобби</translation>
+        <translation>Любители хобби</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -90,7 +90,7 @@
     <message>
         <location line="+1"/>
         <source>Nature and Environment Org.</source>
-        <translation type="unfinished">Природа и окружающая среда</translation>
+        <translation>Природа и окружающая среда</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -130,7 +130,7 @@
     <message>
         <location line="+1"/>
         <source>Union</source>
-        <translation type="unfinished">Обьединение</translation>
+        <translation>Обьединение</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -186,19 +186,19 @@
     <message>
         <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+47"/>
         <source>Ruslan Nigmatullin</source>
-        <translation type="unfinished">Нигматуллин Руслан</translation>
+        <translation>Нигматуллин Руслан</translation>
     </message>
     <message>
         <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+41"/>
         <source>Alexey Ignatiev</source>
-        <translation type="unfinished">Игнатьев Алексей</translation>
+        <translation>Игнатьев Алексей</translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+205"/>
         <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+3"/>
         <source>Alexey Prokhin</source>
-        <translation type="unfinished">Прохин Алексей</translation>
+        <translation>Прохин Алексей</translation>
     </message>
 </context>
 <context>
@@ -1054,27 +1054,27 @@
     <message>
         <location line="+1"/>
         <source>French Antilles</source>
-        <translation type="unfinished">Французские Антильские острова</translation>
+        <translation>Французские Антильские острова</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>French Guiana</source>
-        <translation type="unfinished">Французская Гвиана</translation>
+        <translation>Французская Гвиана</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>French Polynesia</source>
-        <translation type="unfinished">Французская Полинезия</translation>
+        <translation>Французская Полинезия</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Gabon</source>
-        <translation type="unfinished">Габон</translation>
+        <translation>Габон</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Gambia</source>
-        <translation type="unfinished">Гамбия</translation>
+        <translation>Гамбия</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1109,47 +1109,47 @@
     <message>
         <location line="+1"/>
         <source>Grenada</source>
-        <translation type="unfinished">Гренада</translation>
+        <translation>Гренада</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Guadeloupe</source>
-        <translation type="unfinished">Гваделупе</translation>
+        <translation>Гваделупе</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Guam, US Territory of</source>
-        <translation type="unfinished">Гуам, территория США</translation>
+        <translation>Гуам, территория США</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Guatemala</source>
-        <translation type="unfinished">Гватемала</translation>
+        <translation>Гватемала</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Guinea</source>
-        <translation type="unfinished">Гвинея</translation>
+        <translation>Гвинея</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Guinea-Bissau</source>
-        <translation type="unfinished">Гвинея-Бисау</translation>
+        <translation>Гвинея-Бисау</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Guyana</source>
-        <translation type="unfinished">Гайана</translation>
+        <translation>Гайана</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Haiti</source>
-        <translation type="unfinished">Гаити</translation>
+        <translation>Гаити</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Honduras</source>
-        <translation type="unfinished">Гондурас</translation>
+        <translation>Гондурас</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1179,7 +1179,7 @@
     <message>
         <location line="+1"/>
         <source>Iran (Islamic Republic of)</source>
-        <translation type="unfinished">Иран (Исламская Республика)</translation>
+        <translation>Иран (Исламская Республика)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1229,17 +1229,17 @@
     <message>
         <location line="+1"/>
         <source>Kiribati</source>
-        <translation type="unfinished">Кирибати</translation>
+        <translation>Кирибати</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Korea (North Korea), Democratic People&apos;s Republic of</source>
-        <translation type="unfinished">Северная Корея (КНДР)</translation>
+        <translation>Северная Корея (КНДР)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Korea (South Korea), Republic of</source>
-        <translation type="unfinished">Южная Корея</translation>
+        <translation>Южная Корея</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1254,7 +1254,7 @@
     <message>
         <location line="+1"/>
         <source>Lao People&apos;s Democratic Republic</source>
-        <translation type="unfinished">Лаосская Народно-Демократическая Республика</translation>
+        <translation>Лаосская Народно-Демократическая Республика</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1264,32 +1264,32 @@
     <message>
         <location line="+1"/>
         <source>Lebanon</source>
-        <translation type="unfinished">Ливан</translation>
+        <translation>Ливан</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lesotho</source>
-        <translation type="unfinished">Лесото</translation>
+        <translation>Лесото</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Liberia</source>
-        <translation type="unfinished">Либерия</translation>
+        <translation>Либерия</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Libyan Arab Jamahiriya</source>
-        <translation type="unfinished">Ливийская Арабская Джамахирия</translation>
+        <translation>Ливийская Арабская Джамахирия</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Liechtenstein</source>
-        <translation type="unfinished">Лихтенштейн</translation>
+        <translation>Лихтенштейн</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lithuania</source>
-        <translation type="unfinished">Литва</translation>
+        <translation>Литва</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1299,12 +1299,12 @@
     <message>
         <location line="+1"/>
         <source>Macau</source>
-        <translation type="unfinished">Макао</translation>
+        <translation>Макао</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Macedonia (F.Y.R.O.M.)</source>
-        <translation type="unfinished">Македония</translation>
+        <translation>Македония</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1315,7 +1315,7 @@
     <message>
         <location line="+1"/>
         <source>Malawi</source>
-        <translation type="unfinished">Малави</translation>
+        <translation>Малави</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1331,7 +1331,7 @@
         <location line="+1"/>
         <source>Mali</source>
         <translatorcomment>малый???</translatorcomment>
-        <translation type="unfinished">Мали</translation>
+        <translation>Мали</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1341,27 +1341,27 @@
     <message>
         <location line="+1"/>
         <source>Marshall Islands</source>
-        <translation type="unfinished">Маршалловы Острова</translation>
+        <translation>Маршалловы Острова</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Martinique</source>
-        <translation type="unfinished">Мартиника</translation>
+        <translation>Мартиника</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mauritania</source>
-        <translation type="unfinished">Мавритания</translation>
+        <translation>Мавритания</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mauritius</source>
-        <translation type="unfinished">Маврикий</translation>
+        <translation>Маврикий</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mayotte Island</source>
-        <translation type="unfinished">Остров Майотта</translation>
+        <translation>Остров Майотта</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1371,12 +1371,12 @@
     <message>
         <location line="+1"/>
         <source>Micronesia, Federated States of</source>
-        <translation type="unfinished">Микронезия, Федеративные Штаты</translation>
+        <translation>Микронезия, Федеративные Штаты</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Moldova, Republic of</source>
-        <translation type="unfinished">Республика Молдова</translation>
+        <translation>Республика Молдова</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1391,7 +1391,7 @@
     <message>
         <location line="+1"/>
         <source>Montserrat</source>
-        <translation type="unfinished">Монсеррат</translation>
+        <translation>Монсеррат</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1401,12 +1401,12 @@
     <message>
         <location line="+1"/>
         <source>Mozambique</source>
-        <translation type="unfinished">Мозамбик</translation>
+        <translation>Мозамбик</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Myanmar</source>
-        <translation type="unfinished">Мьянма</translation>
+        <translation>Мьянма</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1416,7 +1416,7 @@
     <message>
         <location line="+1"/>
         <source>Nauru</source>
-        <translation type="unfinished">Науру</translation>
+        <translation>Науру</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1431,17 +1431,17 @@
     <message>
         <location line="+1"/>
         <source>Netherlands Antilles</source>
-        <translation type="unfinished">Нидерландские Антильские острова</translation>
+        <translation>Нидерландские Антильские острова</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Nevis</source>
-        <translation type="unfinished">Невис</translation>
+        <translation>Невис</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>New Caledonia</source>
-        <translation type="unfinished">Новая Каледония</translation>
+        <translation>Новая Каледония</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1457,17 +1457,17 @@
         <location line="+1"/>
         <source>Niger</source>
         <translatorcomment>есть нигер, а есть нигерия</translatorcomment>
-        <translation type="unfinished">Нигер</translation>
+        <translation>Нигер</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Nigeria</source>
-        <translation type="unfinished">Нигерия</translation>
+        <translation>Нигерия</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Niue</source>
-        <translation type="unfinished">Ниуэ</translation>
+        <translation>Ниуэ</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1482,7 +1482,7 @@
     <message>
         <location line="+1"/>
         <source>Oman</source>
-        <translation type="unfinished">Оман</translation>
+        <translation>Оман</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1492,7 +1492,7 @@
     <message>
         <location line="+1"/>
         <source>Palau</source>
-        <translation type="unfinished">Палау</translation>
+        <translation>Палау</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1532,7 +1532,7 @@
     <message>
         <location line="+1"/>
         <source>Puerto Rico, Common Wealth of</source>
-        <translation type="unfinished">Пуэрто-Рико</translation>
+        <translation>Пуэрто-Рико</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1542,7 +1542,7 @@
     <message>
         <location line="+1"/>
         <source>Reunion Island</source>
-        <translation type="unfinished">Остров Реюньон</translation>
+        <translation>Остров Реюньон</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1552,7 +1552,7 @@
     <message>
         <location line="+1"/>
         <source>Rota Island</source>
-        <translation type="unfinished">Остров Рота</translation>
+        <translation>Остров Рота</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1563,62 +1563,62 @@
     <message>
         <location line="+1"/>
         <source>Rwanda</source>
-        <translation type="unfinished">Руанда</translation>
+        <translation>Руанда</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Saint Helena</source>
-        <translation type="unfinished">Остров Св. Елены</translation>
+        <translation>Остров Св. Елены</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Saint Kitts</source>
-        <translation type="unfinished">о-в Сент-Кристофер</translation>
+        <translation>о-в Сент-Кристофер</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Saint Kitts and Nevis</source>
-        <translation type="unfinished">Федерация Сент-Кристофер и Невис</translation>
+        <translation>Федерация Сент-Кристофер и Невис</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Saint Lucia</source>
-        <translation type="unfinished">Сент-Люсия</translation>
+        <translation>Сент-Люсия</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Saint Pierre and Miquelon</source>
-        <translation type="unfinished">Сен-Пьер и Микелон</translation>
+        <translation>Сен-Пьер и Микелон</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Saint Vincent and the Grenadines</source>
-        <translation type="unfinished">Сент-Винсент и Гренадины</translation>
+        <translation>Сент-Винсент и Гренадины</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Saipan Island</source>
-        <translation type="unfinished">о-в Сайпан</translation>
+        <translation>о-в Сайпан</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Samoa</source>
-        <translation type="unfinished">Самоа</translation>
+        <translation>Самоа</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>San Marino</source>
-        <translation type="unfinished">Сан Марино</translation>
+        <translation>Сан Марино</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Sao Tome &amp; Principe</source>
-        <translation type="unfinished">Демократическая Республика Сан-Томе и Принсипи</translation>
+        <translation>Демократическая Республика Сан-Томе и Принсипи</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Saudi Arabia</source>
-        <translation type="unfinished">Королевство Саудовская Аравия</translation>
+        <translation>Королевство Саудовская Аравия</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1628,17 +1628,17 @@
     <message>
         <location line="+1"/>
         <source>Senegal</source>
-        <translation type="unfinished">Синегал</translation>
+        <translation>Синегал</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Seychelles</source>
-        <translation type="unfinished">Сейшельские о-ва</translation>
+        <translation>Сейшельские о-ва</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Sierra Leone</source>
-        <translation type="unfinished">Сьерра-Леоне</translation>
+        <translation>Сьерра-Леоне</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1658,17 +1658,17 @@
     <message>
         <location line="+1"/>
         <source>Solomon Islands</source>
-        <translation type="unfinished">Соломоновы Острова</translation>
+        <translation>Соломоновы Острова</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Somalia</source>
-        <translation type="unfinished">Сомали</translation>
+        <translation>Сомали</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>South Africa</source>
-        <translation type="unfinished">Южно-Африканская Республика (ЮАР)</translation>
+        <translation>Южно-Африканская Республика (ЮАР)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1688,12 +1688,12 @@
     <message>
         <location line="+1"/>
         <source>Suriname</source>
-        <translation type="unfinished">Суринам</translation>
+        <translation>Суринам</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Swaziland</source>
-        <translation type="unfinished">Королевство Свазиленд</translation>
+        <translation>Королевство Свазиленд</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1709,7 +1709,7 @@
         <location line="+1"/>
         <source>Syrian Arab Republic</source>
         <translatorcomment>Сирия ёпт</translatorcomment>
-        <translation type="unfinished">Сирийская Арабская Республика </translation>
+        <translation>Сирийская Арабская Республика </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1724,7 +1724,7 @@
     <message>
         <location line="+1"/>
         <source>Tanzania, United Republic of</source>
-        <translation type="unfinished">Объединённая Респу́блика Танзани́я</translation>
+        <translation>Объединённая Респу́блика Танзани́я</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1734,22 +1734,22 @@
     <message>
         <location line="+1"/>
         <source>Tinian Island</source>
-        <translation type="unfinished">о-в Тиниан</translation>
+        <translation>о-в Тиниан</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Togo</source>
-        <translation type="unfinished">Того</translation>
+        <translation>Того</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Tokelau</source>
-        <translation type="unfinished">Токелау</translation>
+        <translation>Токелау</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Tonga</source>
-        <translation type="unfinished">Тонга</translation>
+        <translation>Тонга</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1759,7 +1759,7 @@
     <message>
         <location line="+1"/>
         <source>Tunisia</source>
-        <translation type="unfinished">Тунис</translation>
+        <translation>Тунис</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1774,17 +1774,17 @@
     <message>
         <location line="+1"/>
         <source>Turks and Caicos Islands</source>
-        <translation type="unfinished">Тёркс и Кайкос</translation>
+        <translation>Тёркс и Кайкос</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Tuvalu</source>
-        <translation type="unfinished">Тувалу</translation>
+        <translation>Тувалу</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Uganda</source>
-        <translation type="unfinished">Уганда</translation>
+        <translation>Уганда</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1794,7 +1794,7 @@
     <message>
         <location line="+1"/>
         <source>United Arab Emirates</source>
-        <translation type="unfinished">Обьединенные Арабские Эмираты (ОАЭ)</translation>
+        <translation>Обьединенные Арабские Эмираты (ОАЭ)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1819,7 +1819,7 @@
     <message>
         <location line="+1"/>
         <source>Vanuatu</source>
-        <translation type="unfinished">Вануту</translation>
+        <translation>Вануту</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1834,12 +1834,12 @@
     <message>
         <location line="+1"/>
         <source>Viet Nam</source>
-        <translation type="unfinished">Вьетнам</translation>
+        <translation>Вьетнам</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Virgin Islands of the United States</source>
-        <translation type="unfinished">Американские Виргинские острова (АВО)</translation>
+        <translation>Американские Виргинские острова (АВО)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1849,12 +1849,12 @@
     <message>
         <location line="+1"/>
         <source>Wallis and Futuna Islands</source>
-        <translation type="unfinished">о-ва Уоллис и Футуна</translation>
+        <translation>о-ва Уоллис и Футуна</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Western Samoa</source>
-        <translation type="unfinished">Западное Самоа</translation>
+        <translation>Западное Самоа</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1966,37 +1966,37 @@
     <message>
         <location filename="../../protocols/oscar/src/ui/icqaccountmainsettings.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>UIN:</source>
-        <translation type="unfinished">UIN (номер ICQ):</translation>
+        <translation>UIN (номер ICQ):</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Password:</source>
-        <translation type="unfinished">Пароль:</translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>User name:</source>
-        <translation type="unfinished">Имя:</translation>
+        <translation>Имя:</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Server:</source>
-        <translation type="unfinished">Сервер:</translation>
+        <translation>Сервер:</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Port:</source>
-        <translation type="unfinished">Порт:</translation>
+        <translation>Порт:</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Use ssl (experimental)</source>
-        <translation type="unfinished">Задействовать SSL (эксперементальная возможность)</translation>
+        <translation>Задействовать SSL (эксперементальная возможность)</translation>
     </message>
 </context>
 <context>
@@ -2132,22 +2132,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-221"/>
         <source>50&apos;s</source>
-        <translation type="unfinished">50-е</translation>
+        <translation>50-е</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>60&apos;s</source>
-        <translation type="unfinished">60-е</translation>
+        <translation>60-е</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>70&apos;s</source>
-        <translation type="unfinished">70-е</translation>
+        <translation>70-е</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>80&apos;s</source>
-        <translation type="unfinished">80-е</translation>
+        <translation>80-е</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2387,7 +2387,7 @@ p, li { white-space: pre-wrap; }
         <location line="+13"/>
         <source>Afrikaans</source>
         <translatorcomment>Африкаас</translatorcomment>
-        <translation type="unfinished">Африкаас</translation>
+        <translation>Африкаас</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2398,17 +2398,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Arabic</source>
-        <translation type="unfinished">Арабский</translation>
+        <translation>Арабский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Armenian</source>
-        <translation type="unfinished">Армянский</translation>
+        <translation>Армянский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Azerbaijani</source>
-        <translation type="unfinished">Азербайджанский</translation>
+        <translation>Азербайджанский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2423,32 +2423,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Bosnian</source>
-        <translation type="unfinished">Боснийский</translation>
+        <translation>Боснийский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Bulgarian</source>
-        <translation type="unfinished">Болгарский</translation>
+        <translation>Болгарский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Burmese</source>
-        <translation type="unfinished">Бирманский</translation>
+        <translation>Бирманский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cantonese</source>
-        <translation type="unfinished">Кантонский</translation>
+        <translation>Кантонский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Catalan</source>
-        <translation type="unfinished">Католонский</translation>
+        <translation>Католонский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Chamorro</source>
-        <translation type="unfinished">Чаморро</translation>
+        <translation>Чаморро</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2458,7 +2458,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Croatian</source>
-        <translation type="unfinished">Хорватский</translation>
+        <translation>Хорватский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2468,12 +2468,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Danish</source>
-        <translation type="unfinished">Датский</translation>
+        <translation>Датский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Dutch</source>
-        <translation type="unfinished">Голландский</translation>
+        <translation>Голландский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2503,12 +2503,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>French</source>
-        <translation type="unfinished">Францизский</translation>
+        <translation>Францизский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Gaelic</source>
-        <translation type="unfinished">Гэльский</translation>
+        <translation>Гэльский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2523,32 +2523,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Gujarati</source>
-        <translation type="unfinished">Гуджарати</translation>
+        <translation>Гуджарати</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Hebrew</source>
-        <translation type="unfinished">Иврит</translation>
+        <translation>Иврит</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Hindi</source>
-        <translation type="unfinished">Хинди</translation>
+        <translation>Хинди</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Hungarian</source>
-        <translation type="unfinished">Венгерский</translation>
+        <translation>Венгерский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Icelandic</source>
-        <translation type="unfinished">Исландский</translation>
+        <translation>Исландский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Indonesian</source>
-        <translation type="unfinished">Индонезийский</translation>
+        <translation>Индонезийский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2564,7 +2564,7 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Khmer</source>
         <translatorcomment>красных</translatorcomment>
-        <translation type="unfinished">Кхмерский</translation>
+        <translation>Кхмерский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2574,54 +2574,54 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Kurdish</source>
-        <translation type="unfinished">Курдский</translation>
+        <translation>Курдский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lao</source>
-        <translation type="unfinished">Лао</translation>
+        <translation>Лао</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Latvian</source>
-        <translation type="unfinished">Латвийский</translation>
+        <translation>Латвийский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lithuanian</source>
-        <translation type="unfinished">Литовский</translation>
+        <translation>Литовский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Macedonian</source>
         <translatorcomment>александр</translatorcomment>
-        <translation type="unfinished">Македонский</translation>
+        <translation>Македонский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Malay</source>
-        <translation type="unfinished">Малайский</translation>
+        <translation>Малайский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mandarin</source>
         <translatorcomment>Мандаринск???ий??? китайский что ли????  /Nico-izo/В западной литературе севернокитайский обычно называют мандаринский, или мандаринский китайский (англ. Mandarin Chinese). Название возникло как калька c кит. гуаньхуа (букв. — официальная речь), от западного названия высших китайских чиновников (гуань) — мандаринов.</translatorcomment>
-        <translation type="unfinished">Гуаньхуа (Мандаринский)</translation>
+        <translation>Гуаньхуа (Мандаринский)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mongolian</source>
-        <translation type="unfinished">Монгольский</translation>
+        <translation>Монгольский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Norwegian</source>
-        <translation type="unfinished">Норвежский</translation>
+        <translation>Норвежский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Persian</source>
-        <translation type="unfinished">Персидский</translation>
+        <translation>Персидский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2631,12 +2631,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Portuguese</source>
-        <translation type="unfinished">Португальский</translation>
+        <translation>Португальский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Punjabi</source>
-        <translation type="unfinished">Пенджаби</translation>
+        <translation>Пенджаби</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2651,27 +2651,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Serbian</source>
-        <translation type="unfinished">Сербский</translation>
+        <translation>Сербский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Sindhi</source>
-        <translation type="unfinished">Синди</translation>
+        <translation>Синди</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Slovak</source>
-        <translation type="unfinished">Словацкий</translation>
+        <translation>Словацкий</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Slovenian</source>
-        <translation type="unfinished">Словенский</translation>
+        <translation>Словенский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Somali</source>
-        <translation type="unfinished">Сомалийский</translation>
+        <translation>Сомалийский</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2681,43 +2681,43 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Swahili</source>
-        <translation type="unfinished">Суахили</translation>
+        <translation>Суахили</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Swedish</source>
-        <translation type="unfinished">Шведский</translation>
+        <translation>Шведский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Tagalog</source>
-        <translation type="unfinished">Тагальский</translation>
+        <translation>Тагальский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Taiwanese</source>
-        <translation type="unfinished">Тайванский</translation>
+        <translation>Тайванский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Tamil</source>
-        <translation type="unfinished">Тамильский</translation>
+        <translation>Тамильский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Tatar</source>
-        <translation type="unfinished">Татарский</translation>
+        <translation>Татарский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Thai</source>
         <translatorcomment>тай</translatorcomment>
-        <translation type="unfinished">Тай</translation>
+        <translation>Тай</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Turkish</source>
-        <translation type="unfinished">Турецкий</translation>
+        <translation>Турецкий</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2727,28 +2727,28 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Urdu</source>
-        <translation type="unfinished">Урду</translation>
+        <translation>Урду</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Vietnamese</source>
-        <translation type="unfinished">Вьетнавский</translation>
+        <translation>Вьетнавский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Welsh</source>
         <translatorcomment>Вааааллли - Иииив</translatorcomment>
-        <translation type="unfinished">Валлийский</translation>
+        <translation>Валлийский</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Yiddish</source>
-        <translation type="unfinished">Идиш</translation>
+        <translation>Идиш</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Yoruba</source>
-        <translation type="unfinished">Йоруба</translation>
+        <translation>Йоруба</translation>
     </message>
 </context>
 <context>
@@ -2974,7 +2974,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../protocols/oscar/src/metainfo/metafield.cpp" line="+23"/>
         <source>Not specified</source>
-        <translation type="unfinished">Не указан</translation>
+        <translation>Не указан</translation>
     </message>
     <message>
         <location line="+75"/>
@@ -3393,6 +3393,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+3"/>
         <location line="+1"/>
+        <source>Oscar file transfer settings</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <location line="+1"/>
         <source>MetaInfo icq service</source>
         <translation>Метаинформация icq службы</translation>
     </message>
@@ -3422,7 +3428,7 @@ p, li { white-space: pre-wrap; }
         <location line="+3"/>
         <location line="+1"/>
         <source>Oscar proxy support</source>
-        <translation type="unfinished">Поддержка прокси для протокола Oscar</translation>
+        <translation>Поддержка прокси для протокола Oscar</translation>
     </message>
     <message>
         <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-7"/>
@@ -3439,7 +3445,7 @@ p, li { white-space: pre-wrap; }
         <location line="+3"/>
         <location line="+1"/>
         <source>XStatus settings</source>
-        <translation type="unfinished">Настройки Х-статусов</translation>
+        <translation>Настройки Х-статусов</translation>
     </message>
 </context>
 <context>
@@ -3473,7 +3479,7 @@ p, li { white-space: pre-wrap; }
         <location line="+2"/>
         <source>Unknown privacy</source>
         <translatorcomment>покороче бы...</translatorcomment>
-        <translation type="unfinished">Неизвестная конфиденциальность</translation>
+        <translation>Неизвестная конфиденциальность</translation>
     </message>
     <message>
         <source>Visible mode:</source>
@@ -3570,7 +3576,7 @@ p, li { white-space: pre-wrap; }
         <location line="+2"/>
         <source>In local permit/deny (recipient blocked)</source>
         <translatorcomment>wtf ? не помню что ы я это писал</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3605,7 +3611,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+2"/>
         <source>Server queue full</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3621,14 +3627,14 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/oscar/src/icqprotocol.cpp" line="+50"/>
+        <location filename="../../protocols/oscar/src/icqprotocol.cpp" line="+61"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Icq account settings</source>
-        <translation type="unfinished">Настройки учетной записи ICQ</translation>
+        <translation>Настройки учетной записи ICQ</translation>
     </message>
 </context>
 <context>
@@ -3675,7 +3681,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+31"/>
         <source>Associated degree</source>
         <translatorcomment>Associate’s degree (Associate) — степень в США, полученная после двугодичного обучения в колледже, который может стать промежуточной ступенью к получению бакалаврской степени (после еще двух лет обучения). </translatorcomment>
-        <translation type="unfinished">Закончил фазанку</translation>
+        <translation>Закончил фазанку</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3719,7 +3725,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-5"/>
         <location line="+3"/>
         <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-45"/>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-42"/>
+        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-46"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
@@ -3886,7 +3892,7 @@ p, li { white-space: pre-wrap; }
         <location line="-24"/>
         <source>I&apos;m high</source>
         <translatorcomment>да, икс статус именно такой нарисован - ганджубас</translatorcomment>
-        <translation type="unfinished">Ганджубас</translation>
+        <translation>Ганджубас</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3956,12 +3962,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../protocols/oscar/src/metainfo/abstractmetarequest.cpp" line="+67"/>
         <source>The metarequest cancelled by user</source>
-        <translation type="unfinished">Метазапрос отменен пользователем</translation>
+        <translation>Метазапрос отменен пользователем</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The server did not answer on the metarequest</source>
-        <translation type="unfinished">Сервер не ответил на метазапрос</translation>
+        <translation>Сервер не ответил на метазапрос</translation>
     </message>
 </context>
 <context>
@@ -3975,7 +3981,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-125"/>
         <source>Show client icon</source>
-        <translation type="unfinished">Показывать значок клиента</translation>
+        <translation>Показывать значок клиента</translation>
     </message>
 </context>
 <context>
@@ -3984,7 +3990,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../protocols/oscar/src/metainfo/infometarequest.cpp" line="+282"/>
         <source>Incorrect format of the metarequest</source>
         <translatorcomment>metarequest - спросить что это такое</translatorcomment>
-        <translation type="unfinished">Неверный формат метазапроса</translation>
+        <translation>Неверный формат метазапроса</translation>
     </message>
 </context>
 <context>
@@ -3997,14 +4003,19 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::IcqMainSettings</name>
     <message>
-        <location filename="../../protocols/oscar/src/ui/icqmainsettings.cpp" line="+103"/>
+        <location filename="../../protocols/oscar/src/ui/icqmainsettings.cpp" line="+105"/>
+        <source>Main</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Codec</source>
-        <translation type="unfinished">Кодировка</translation>
+        <translation>Кодировка</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Don&apos;t send requests for avatarts</source>
-        <translation type="unfinished">Не запрашивать аватары</translation>
+        <translation>Не запрашивать аватары</translation>
     </message>
 </context>
 <context>
@@ -4012,7 +4023,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../protocols/oscar/src/md5login.cpp" line="+83"/>
         <source>No IP addresses were found for the host &apos;%1&apos;</source>
-        <translation type="unfinished">Не найдено соответствие IP адреса серверу &apos;%1&apos;</translation>
+        <translation>Не найдено соответствие IP адреса серверу &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4021,15 +4032,45 @@ p, li { white-space: pre-wrap; }
         <location filename="../../protocols/oscar/src/metainfo/metainfo.cpp" line="+68"/>
         <source>Incorrect format of the metarequest</source>
         <translatorcomment> metarequest - спросить что это такое</translatorcomment>
-        <translation type="unfinished">Неверный формат метазапроса</translation>
+        <translation>Неверный формат метазапроса</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::oscar::OftConnection</name>
+    <message>
+        <location filename="../../protocols/oscar/src/oscarfiletransfer.cpp" line="+776"/>
+        <source>Could not open %1</source>
+        <translation>Не удалось открыть %1</translation>
     </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::oscar::OftFileTransferFactory</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarfiletransfer.cpp" line="+894"/>
         <source>Oscar file transfer protocol</source>
-        <translation type="unfinished">Протокол фередачи файлов OSCAR&apos;a</translation>
+        <translation type="obsolete">Протокол фередачи файлов OSCAR&apos;a</translation>
+    </message>
+    <message>
+        <location line="+179"/>
+        <source>Oscar</source>
+        <translation>ICQ/Oscar</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::oscar::OscarFileTransferSettings</name>
+    <message>
+        <location line="+187"/>
+        <source>File transfer</source>
+        <translation>Передача файла</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Accept incoming connections on any port</source>
+        <translation type="unfinished">Принимать входящие соединения на любом порту</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Local ports</source>
+        <translation type="unfinished">Локальный порт(ы)</translation>
     </message>
 </context>
 <context>
@@ -4037,17 +4078,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../protocols/oscar/src/privacylists.cpp" line="+140"/>
         <source>Show &quot;visible&quot; icon if contact in visible list</source>
-        <translation type="unfinished">Показывать пиктограмму &quot;видящего&quot;</translation>
+        <translation>Показывать пиктограмму &quot;видящего&quot;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Show &quot;invisible&quot; icon if contact in invisible list</source>
-        <translation type="unfinished">Показывать пиктограмму &quot;невидящего&quot;</translation>
+        <translation>Показывать пиктограмму &quot;невидящего&quot;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Show &quot;ignore&quot; icon if contact in ignore list</source>
-        <translation type="unfinished">Показывать пиктограмму &quot;игнора&quot; в списке контактов</translation>
+        <translation>Показывать пиктограмму &quot;игнора&quot; в списке контактов</translation>
     </message>
 </context>
 <context>
@@ -4055,20 +4096,25 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+257"/>
         <source>X-Status</source>
-        <translation type="unfinished">X-Статус</translation>
+        <translation>X-Статус</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show contact X-Status icon</source>
-        <translation type="unfinished">Показывать пиктограмму X-статуса</translation>
+        <translation>Показывать пиктограмму X-статуса</translation>
     </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusSettings</name>
     <message>
         <location filename="../../protocols/oscar/plugins/xstatus/xstatussettings.cpp" line="+29"/>
+        <source>Extended status</source>
+        <translation type="unfinished">Расширенный статус</translation>
+    </message>
+    <message>
+        <location line="+3"/>
         <source>Ask for XStatuses automatically</source>
-        <translation type="unfinished">Запрашивать X-статусы автоматически</translation>
+        <translation>Запрашивать X-статусы автоматически</translation>
     </message>
 </context>
 <context>

@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/yandexnarod/src/yandexnarod.cpp" line="+34"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnarod.cpp" line="+48"/>
         <source>Sidorov Aleksey</source>
         <translation>Сидоров Алексей</translation>
     </message>
@@ -12,6 +12,11 @@
         <location line="+4"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Нигматуллин Руслан</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Alexey Prokhin</source>
+        <translation>Прохин Алексей</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -26,25 +31,32 @@
         <translation type="obsolete">Я.Народ</translation>
     </message>
     <message>
-        <location line="-10"/>
+        <location line="-13"/>
         <source>YandexNarod</source>
         <translation>Я.Народ</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location line="+16"/>
         <source>Send files via Yandex.Narod filehosting service</source>
         <translation>Отправить файл через Яндекс.Диск</translation>
+    </message>
+    <message>
+        <location line="-1"/>
+        <source>Yandex.Narod</source>
+        <translation type="unfinished">Я.Народ</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location line="+3"/>
+        <location line="-12"/>
         <location line="+4"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
     </message>
     <message>
+        <location line="+3"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
@@ -53,12 +65,11 @@
 <context>
     <name>Yandex</name>
     <message>
-        <location line="+8"/>
         <source>Send file via Yandex.Narod</source>
-        <translation>Отправить файл через Яндекс.Народ</translation>
+        <translation type="obsolete">Отправить файл через Яндекс.Народ</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+13"/>
         <source>Yandex Narod</source>
         <translation>Я.Народ</translation>
     </message>
@@ -79,6 +90,14 @@
         <location line="+4"/>
         <source>Authorization failured</source>
         <translation>Не удалось авторизоваться</translation>
+    </message>
+</context>
+<context>
+    <name>YandexNarodFactory</name>
+    <message>
+        <location filename="../../plugins/yandexnarod/src/yandexnarod.cpp" line="+142"/>
+        <source>Yandex.Narod</source>
+        <translation type="unfinished">Я.Народ</translation>
     </message>
 </context>
 <context>
@@ -118,7 +137,7 @@
     <message>
         <location line="+7"/>
         <source>Test Authorization</source>
-        <translation>Проверить информацию</translation>
+        <translation type="unfinished">Проверить логин</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -191,62 +210,77 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>YandexNarodUploadDialog</name>
     <message>
-        <location filename="../../plugins/yandexnarod/src/uploaddialog.cpp" line="+119"/>
         <source>Choose file for %1</source>
-        <translation>Выберите файл для %1</translation>
+        <translation type="obsolete">Выберите файл для %1</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>Choose file for uploading</source>
-        <translation>Выберите файл для загрузки</translation>
+        <translation type="obsolete">Выберите файл для загрузки</translation>
     </message>
     <message>
-        <location line="+15"/>
         <source>Authorizing...</source>
-        <translation>Авторизация...</translation>
+        <translation type="obsolete">Авторизация...</translation>
     </message>
     <message>
-        <location line="+36"/>
         <source>Getting storage...</source>
-        <translation>Получение хранилища...</translation>
+        <translation type="obsolete">Получение хранилища...</translation>
     </message>
     <message>
-        <location line="+25"/>
         <source>Uploading...</source>
-        <translation>Загрузка на сервер...</translation>
+        <translation type="obsolete">Загрузка на сервер...</translation>
     </message>
     <message>
-        <location line="+94"/>
         <source>Will finish in: %1m %2s</source>
-        <translation>Будет закончено через %1м %2с</translation>
+        <translation type="obsolete">Будет закончено через %1м %2с</translation>
     </message>
     <message>
-        <location line="+31"/>
         <source>Upload complete.</source>
-        <translation>Загрузка на сервер завершена.</translation>
+        <translation type="obsolete">Загрузка на сервер завершена.</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Finish</source>
-        <translation>Завершить</translation>
+        <translation type="obsolete">Завершить</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <source>File sent: %N (%S bytes)
+%U</source>
+        <comment>Don&apos;t remove format arguments</comment>
+        <translation type="obsolete">Файл отправлен: %N (%S байт)
+%U</translation>
+    </message>
+    <message>
+        <source>Uploading</source>
+        <translation type="obsolete">Загрузка на север</translation>
+    </message>
+    <message>
+        <source>Done</source>
+        <translation type="obsolete">Готово</translation>
+    </message>
+</context>
+<context>
+    <name>YandexNarodUploadJob</name>
+    <message>
+        <location filename="../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="+123"/>
+        <source>Authorizing...</source>
+        <translation type="unfinished">Авторизация...</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Getting storage...</source>
+        <translation type="unfinished">Получение хранилища...</translation>
+    </message>
+    <message>
+        <location line="+60"/>
+        <source>Could not open file %1</source>
+        <translation type="unfinished">Не могу открыть %1</translation>
+    </message>
+    <message>
+        <location line="+112"/>
         <source>File sent: %N (%S bytes)
 %U</source>
         <comment>Don&apos;t remove format arguments</comment>
         <translation type="unfinished">Файл отправлен: %N (%S байт)
 %U</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/yandexnarod/src/uploaddialog.h" line="+87"/>
-        <source>Uploading</source>
-        <translation>Загрузка на север</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Done</source>
-        <translation>Готово</translation>
     </message>
 </context>
 <context>
@@ -285,44 +319,37 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>uploadDialogClass</name>
     <message>
-        <location filename="../../plugins/yandexnarod/src/uploaddialog.ui" line="+20"/>
         <source>Uploading...</source>
-        <translation>Загрузка на сервер...</translation>
+        <translation type="obsolete">Загрузка на сервер...</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Upload started.</source>
         <translatorcomment>Всё-таки загрузка. Ибо download это скачка. </translatorcomment>
-        <translation type="unfinished">Загрузка запущена.</translation>
+        <translation type="obsolete">Загрузка запущена.</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>File: </source>
-        <translation>Файл: </translation>
+        <translation type="obsolete">Файл: </translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Progress:</source>
-        <translation>Прогресс:</translation>
+        <translation type="obsolete">Прогресс:</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Will finish in:</source>
-        <translation>Будет завершено в:</translation>
+        <translation type="obsolete">Будет завершено в:</translation>
     </message>
     <message>
         <source>Elapsed time:</source>
         <translation type="obsolete">Осталось времени:</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Speed:</source>
-        <translation>Скорость:</translation>
+        <translation type="obsolete">Скорость:</translation>
     </message>
     <message>
-        <location line="+29"/>
         <source>Cancel</source>
-        <translation>Отменить</translation>
+        <translation type="obsolete">Отменить</translation>
     </message>
 </context>
 <context>
