@@ -1559,14 +1559,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::OldWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/widgets/oldcontactlistwidget/oldwidget.cpp" line="+58"/>
         <source>Main Toolbar</source>
-        <translation>Главна лента с инструменти</translation>
+        <translation type="obsolete">Главна лента с инструменти</translation>
     </message>
     <message>
-        <location line="+37"/>
         <source>Search contact</source>
-        <translation>Търсене на контакт</translation>
+        <translation type="obsolete">Търсене на контакт</translation>
     </message>
 </context>
 <context>
@@ -1615,6 +1613,29 @@ p, li { white-space: pre-wrap; }
         <location line="+9"/>
         <source>Actions</source>
         <translation>Действия</translation>
+    </message>
+</context>
+<context>
+    <name>Core::SimpleContactList::ToryWidget</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="+75"/>
+        <source>Main Toolbar</source>
+        <translation>Главна лента с инструменти</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Global status</source>
+        <translation>Общ статус</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Set Status Text</source>
+        <translation>Задаване текст на статуса</translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Search contact</source>
+        <translation>Търсене на контакт</translation>
     </message>
 </context>
 <context>
