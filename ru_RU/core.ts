@@ -154,7 +154,7 @@
         <translation>Недоступный</translation>
     </message>
     <message>
-        <location line="+101"/>
+        <location line="+100"/>
         <source>Remove contact</source>
         <translation>Удалить контакт</translation>
     </message>
@@ -234,6 +234,16 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/searchdialog/searchdialogplugin.cpp" line="+29"/>
         <source>Alexey Prokhin</source>
         <translation>Прохин Алексей</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="+76"/>
+        <source>Perova Gala</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Rederick Asher</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -389,12 +399,12 @@ p, li { white-space: pre-wrap; }
         <translation>Назад</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="+50"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-30"/>
         <source>Insert Emoticon</source>
         <translation>Вставить смайл</translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="+44"/>
         <source>Show Emoticons</source>
         <translation>Показать смайлы</translation>
     </message>
@@ -514,7 +524,7 @@ p, li { white-space: pre-wrap; }
         <translation>Главные</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/simpleactions/src/simpleactions.cpp" line="-167"/>
+        <location filename="../../qutim/src/corelayers/simpleactions/src/simpleactions.cpp" line="-166"/>
         <source>Show information</source>
         <translation>Показать информацию</translation>
     </message>
@@ -1911,7 +1921,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleActions</name>
     <message>
-        <location filename="../../qutim/src/corelayers/simpleactions/src/simpleactions.cpp" line="+89"/>
+        <location filename="../../qutim/src/corelayers/simpleactions/src/simpleactions.cpp" line="+88"/>
         <source>Rename contact %1</source>
         <translation>Переименовать контакт %1</translation>
     </message>
@@ -2179,7 +2189,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleTagsEditor</name>
     <message>
-        <location filename="../../qutim/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp" line="+17"/>
+        <location filename="../../qutim/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp" line="+19"/>
         <source>Edit tags for %1</source>
         <translation>Изменить метки для %1</translation>
     </message>
@@ -2839,7 +2849,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Модуль шифрования. Базовая реализация. Основан на aes256</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-34"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-44"/>
         <source>Webkit chat layer</source>
         <translation>Модуль чата WebKit</translation>
     </message>
@@ -4395,6 +4405,12 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/libqutim/personinfo.cpp" line="+3"/>
         <source>Translator</source>
         <translation>Переводчики</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="+4"/>
+        <location line="+4"/>
+        <source>Artist</source>
+        <translation type="unfinished">Художник</translation>
     </message>
 </context>
 <context>
