@@ -55,7 +55,7 @@
     <message>
         <location filename="plugins/histman/src/clientconfigpage.ui" line="48"/>
         <source>Encoding:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kódování:</translation>
     </message>
     <message>
         <location filename="plugins/histman/src/clients/gajim.cpp" line="99"/>
@@ -121,12 +121,12 @@
         <location filename="plugins/histman/src/chooseordumppage.cpp" line="27"/>
         <source>What to do next?</source>
         <comment>Dump history or choose next client</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Co udělat dál?</translation>
     </message>
     <message>
         <location filename="plugins/histman/src/chooseordumppage.cpp" line="28"/>
         <source>It is possible to choose another client for import history or dump history to the disk.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Je možné vybrat jiného klienta pro import historie nebo uložit historii na disk.</translation>
     </message>
 </context>
 <context>
@@ -134,28 +134,28 @@
     <message>
         <location filename="plugins/histman/src/clientconfigpage.cpp" line="45"/>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení</translation>
     </message>
     <message>
         <location filename="plugins/histman/src/clientconfigpage.cpp" line="66"/>
         <source>Enter path of your %1 profile file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadejte cestu pro soubor s profilem %1.</translation>
     </message>
     <message>
         <location filename="plugins/histman/src/clientconfigpage.cpp" line="68"/>
         <source>Enter path of your %1 profile dir.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadejte cestu pro adresář s profilem %1.</translation>
     </message>
     <message>
         <location filename="plugins/histman/src/clientconfigpage.cpp" line="73"/>
         <source>If your history encoding differs from the system one, choose the appropriate encoding for history.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokud se kódování historie liší od systémového, vyberte vhodné kódování pro historii.</translation>
     </message>
     <message>
         <location filename="plugins/histman/src/clientconfigpage.cpp" line="162"/>
         <location filename="plugins/histman/src/clientconfigpage.cpp" line="164"/>
         <source>Select path</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte cestu</translation>
     </message>
 </context>
 <context>
@@ -200,18 +200,18 @@
     <message>
         <location filename="plugins/histman/src/importhistorypage.cpp" line="44"/>
         <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Načítání</translation>
     </message>
     <message>
         <location filename="plugins/histman/src/importhistorypage.cpp" line="61"/>
         <source>Manager loads all history to memory, it may take several minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Správce načte veškerou historii do paměti, může to trvat několik minut.</translation>
     </message>
     <message numerus="yes">
         <location filename="plugins/histman/src/importhistorypage.cpp" line="87"/>
         <source>%n message(s) have been succesfully loaded to memory.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n zprávy byly úspěště načteny do paměti.</numerusform>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
@@ -220,7 +220,7 @@
         <location filename="plugins/histman/src/importhistorypage.cpp" line="88"/>
         <source>It has taken %n ms.</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>Trvalo %n ms.</numerusform>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>

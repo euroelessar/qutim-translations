@@ -35,13 +35,13 @@
     <message>
         <location filename="plugins/win-integration/src/win7int.cpp" line="257"/>
         <source>&lt;b&gt;You have new messages:&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Máte nové zprávy:&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Máte nové zprávy:&lt;/b&gt;</translation>
     </message>
     <message numerus="yes">
         <location filename="plugins/win-integration/src/win7int.cpp" line="258"/>
         <source>&amp;middot; %n message(s) from chats.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>&amp;middot; %n zpráv z konverzací.</numerusform>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
@@ -49,8 +49,8 @@
     <message numerus="yes">
         <location filename="plugins/win-integration/src/win7int.cpp" line="259"/>
         <source>&amp;middot; %n message(s) from conferences.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>&amp;middot; %n zpráv z konferencí.</numerusform>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
@@ -58,12 +58,12 @@
     <message>
         <location filename="plugins/win-integration/src/win7int.cpp" line="260"/>
         <source>Last received from:</source>
-        <translation type="unfinished"></translation>
+        <translation>Poslední od:</translation>
     </message>
     <message>
         <location filename="plugins/win-integration/src/win7int.cpp" line="269"/>
         <source>You have no new messages.</source>
-        <translation type="unfinished">Nemáte nové zprávy.</translation>
+        <translation>Nemáte nové zprávy.</translation>
     </message>
 </context>
 </TS>

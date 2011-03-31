@@ -29,7 +29,7 @@
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="45"/>
         <source>YandexNarod</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="46"/>
@@ -40,7 +40,7 @@
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="61"/>
         <source>Yandex.Narod</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -61,10 +61,6 @@
 <context>
     <name>Yandex</name>
     <message>
-        <source>Send file via Yandex.Narod</source>
-        <translation type="obsolete">Poslat soubor přes Yandex.Narod</translation>
-    </message>
-    <message>
         <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="72"/>
         <source>Yandex Narod</source>
         <translation></translation>
@@ -75,7 +71,7 @@
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="70"/>
         <source>Has no login or password</source>
-        <translation type="unfinished">Není zadáno přihlašovací jméno nebo heslo</translation>
+        <translation>Není zadáno přihlašovací jméno nebo heslo</translation>
     </message>
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="79"/>
@@ -93,7 +89,7 @@
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="214"/>
         <source>Yandex.Narod</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -166,41 +162,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>YandexNarodUploadDialog</name>
-    <message>
-        <source>Choose file for %1</source>
-        <translation type="obsolete">Vybrat soubor pro %1</translation>
-    </message>
-    <message>
-        <source>Choose file for uploading</source>
-        <translation type="obsolete">Vybrat soubor pro nahrání</translation>
-    </message>
-    <message>
-        <source>Authorizing...</source>
-        <translation type="obsolete">Autorizování...</translation>
-    </message>
-    <message>
-        <source>Uploading...</source>
-        <translation type="obsolete">Nahrávání...</translation>
-    </message>
-    <message>
-        <source>Upload complete.</source>
-        <translation type="obsolete">Nahrávání dokončeno.</translation>
-    </message>
-    <message>
-        <source>Finish</source>
-        <translation type="obsolete">Dokončit</translation>
-    </message>
-    <message>
-        <source>Uploading</source>
-        <translation type="obsolete">Nahrávání</translation>
-    </message>
-    <message>
-        <source>Done</source>
-        <translation type="obsolete">Hotovo</translation>
-    </message>
-</context>
-<context>
     <name>YandexNarodUploadJob</name>
     <message>
         <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="123"/>
@@ -210,7 +171,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="146"/>
         <source>Getting storage...</source>
-        <translation type="unfinished">Načítání uložiště</translation>
+        <translation type="unfinished">Načítání uložiště...</translation>
     </message>
     <message>
         <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="206"/>
@@ -222,7 +183,8 @@ p, li { white-space: pre-wrap; }
         <source>File sent: %N (%S bytes)
 %U</source>
         <comment>Don&apos;t remove format arguments</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odesláno: %N (%S bytů)
+%U</translation>
     </message>
 </context>
 <context>
@@ -259,29 +221,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>uploadDialogClass</name>
-    <message>
-        <source>Uploading...</source>
-        <translation type="obsolete">Nahrávání...</translation>
-    </message>
-    <message>
-        <source>Upload started.</source>
-        <translation type="obsolete">Nahrávání začalo.</translation>
-    </message>
-    <message>
-        <source>File: </source>
-        <translation type="obsolete">Soubor:</translation>
-    </message>
-    <message>
-        <source>Speed:</source>
-        <translation type="obsolete">Rychlost:</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Zrušit</translation>
-    </message>
-</context>
-<context>
     <name>yandexnarodManageClass</name>
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarodmanage.ui" line="20"/>
@@ -301,12 +240,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarodmanage.ui" line="126"/>
         <source>Actions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Akce:</translation>
     </message>
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarodmanage.ui" line="139"/>
         <source>Clipboard</source>
-        <translation type="unfinished">Schránka</translation>
+        <translation>Schránka</translation>
     </message>
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarodmanage.ui" line="159"/>

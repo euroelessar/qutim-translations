@@ -10,13 +10,6 @@
     </message>
 </context>
 <context>
-    <name>MIdleWidget</name>
-    <message utf8="true">
-        <source>Set status «%1» after:</source>
-        <translation type="obsolete">Nastavit stav «%1» po:</translation>
-    </message>
-</context>
-<context>
     <name>MacIdleWidget</name>
     <message>
         <location filename="plugins/mac-integration/src/idle/macidlewidget.ui" line="14"/>
@@ -42,7 +35,7 @@
     <message>
         <location filename="plugins/mac-integration/src/spellchecker/macspellsettings.cpp" line="14"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Jazyk</translation>
     </message>
 </context>
 <context>
