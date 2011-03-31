@@ -257,7 +257,7 @@ p, li { white-space: pre-wrap; }
         <translation>Удостоверяване</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+10"/>
         <source>Login:</source>
         <translation>Потребителско име:</translation>
     </message>
@@ -272,14 +272,9 @@ p, li { white-space: pre-wrap; }
         <translation>Запомняне</translation>
     </message>
     <message>
-        <location line="+21"/>
+        <location line="+19"/>
         <source>Captcha:</source>
         <translation>Captcha:</translation>
-    </message>
-    <message>
-        <location line="+8"/>
-        <source>about:blank</source>
-        <translation></translation>
     </message>
 </context>
 <context>

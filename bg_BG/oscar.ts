@@ -3790,9 +3790,13 @@
 <context>
     <name>qutim_sdk_0_3::oscar::IcqMainSettings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/ui/icqmainsettings.cpp" line="+105"/>
         <source>Main</source>
-        <translation>Основни</translation>
+        <translation type="obsolete">Основни</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/protocols/oscar/src/ui/icqmainsettings.cpp" line="+105"/>
+        <source>General</source>
+        <translation>Общи</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3824,7 +3828,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::OftConnection</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/oscarfiletransfer.cpp" line="+776"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarfiletransfer.cpp" line="+787"/>
         <source>Could not open %1</source>
         <translation>%1 не може да бъде отворен</translation>
     </message>
@@ -3844,7 +3848,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::OscarFileTransferSettings</name>
     <message>
-        <location line="+187"/>
+        <location line="+186"/>
         <source>File transfer</source>
         <translation>Предаване на файлове</translation>
     </message>
