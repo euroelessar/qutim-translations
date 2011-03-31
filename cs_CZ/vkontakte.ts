@@ -61,7 +61,7 @@
     <message>
         <location filename="protocols/vkontakte/src/vinforequest.cpp" line="58"/>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation>Stát</translation>
     </message>
     <message>
         <location filename="protocols/vkontakte/src/vinforequest.cpp" line="59"/>
@@ -96,12 +96,12 @@
     <message>
         <location filename="protocols/vkontakte/src/vinforequest.cpp" line="72"/>
         <source>Female</source>
-        <translation type="unfinished"></translation>
+        <translation>Žena</translation>
     </message>
     <message>
         <location filename="protocols/vkontakte/src/vinforequest.cpp" line="73"/>
         <source>Male</source>
-        <translation type="unfinished"></translation>
+        <translation>Muž</translation>
     </message>
     <message>
         <location filename="protocols/vkontakte/src/vinforequest.cpp" line="112"/>

@@ -56,7 +56,7 @@
     <message>
         <location filename="protocols/irc/src/ui/addaccountform.ui" line="161"/>
         <source>Secure Connection (SSL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zabezpečené připojení (SSL)</translation>
     </message>
 </context>
 <context>
@@ -410,7 +410,7 @@
     <message>
         <location filename="protocols/irc/src/ircprotocol.cpp" line="88"/>
         <source>Show console...</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit konzolu...</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircprotocol.cpp" line="94"/>
@@ -562,67 +562,67 @@
     <message>
         <location filename="protocols/irc/src/ircchannel.cpp" line="194"/>
         <source>You are now known as %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přejmenoval(a) jste na %1</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircchannel.cpp" line="217"/>
         <source>%1 are now known as %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 se přejmenoval(a) na %2</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircchannel.cpp" line="279"/>
         <source>%1 (%2) has joined the channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 (%2) vstoupil(a) do kanálu</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircchannel.cpp" line="290"/>
         <source>You left this channel (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Opustil(a) jste tento kanál (%1)</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircchannel.cpp" line="292"/>
         <source>You left this channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Opustil(a) jste tento kanál</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircchannel.cpp" line="299"/>
         <source>%1 has left this channel (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 opustil(a) tento kanál (%2)</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircchannel.cpp" line="301"/>
         <source>%1 has left this channel</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 opustil(a) tento kanál</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircchannel.cpp" line="312"/>
         <source>%1 has kicked you from the channel (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 vyhodil(a) vás z kanálu (%2)</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircchannel.cpp" line="315"/>
         <source>%1 has kicked you from the channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 vyhodil(a) vás z kanálu</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircchannel.cpp" line="321"/>
         <source>%1 has kicked %2 (%3)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 vyhodil(a) %2 (%3)</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircchannel.cpp" line="324"/>
         <source>%1 has kicked %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 vyhodil(a) %2</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircchannel.cpp" line="338"/>
         <source>The channel topic is &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Téma kanálu je &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircchannel.cpp" line="347"/>
         <source>The topic was set by %1 on %2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Téma nastavil %1 na %2.</translation>
     </message>
 </context>
 <context>
@@ -668,22 +668,22 @@
     <message>
         <location filename="protocols/irc/src/irccommandalias.cpp" line="215"/>
         <source>Ban *!*@*.host</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zabanovat *!*@*.hostitel</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/irccommandalias.cpp" line="216"/>
         <source>Ban *!*@domain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zabanovat *!*@doména</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/irccommandalias.cpp" line="217"/>
         <source>Ban *!user@*.host</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zabanovat *!user@*.hostitel</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/irccommandalias.cpp" line="218"/>
         <source>Ban *!user@domain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zabanovat *!user@doména</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/irccommandalias.cpp" line="221"/>
@@ -728,7 +728,7 @@
     <message>
         <location filename="protocols/irc/src/irccommandalias.cpp" line="232"/>
         <source>Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/irc/src/irccommandalias.cpp" line="235"/>
@@ -774,18 +774,6 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <source>Kick / Ban</source>
-        <translation type="obsolete">Vykopnout / Zabanovat</translation>
-    </message>
-    <message>
-        <source>Kick</source>
-        <translation type="obsolete">Vykopnout</translation>
-    </message>
-    <message>
-        <source>Ban</source>
-        <translation type="obsolete">Zabanovat</translation>
-    </message>
-    <message>
         <location filename="protocols/irc/src/ircconnection.cpp" line="147"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation type="unfinished"></translation>
@@ -793,7 +781,7 @@
     <message>
         <location filename="protocols/irc/src/ircconnection.cpp" line="263"/>
         <source>Message of the day:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zpráva dne:</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircconnection.cpp" line="265"/>
@@ -844,7 +832,7 @@ Please wait a while and try again.</source>
     <message>
         <location filename="protocols/irc/src/ircconnection.cpp" line="614"/>
         <source>SSL error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">SSL chyba: %1</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircconnection.cpp" line="620"/>
@@ -900,8 +888,6 @@ Please wait a while and try again.</source>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -915,12 +901,12 @@ Please wait a while and try again.</source>
     <message>
         <location filename="protocols/irc/src/ircwhoisreplieshandler.cpp" line="53"/>
         <source>%1 is %2@%3 (%4)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 je %2@%3 (%4)</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircwhoisreplieshandler.cpp" line="66"/>
         <source>%1 is online via %2 (%3)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 je online prostřednictvím %2 (%3)</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircwhoisreplieshandler.cpp" line="73"/>
@@ -945,7 +931,7 @@ Please wait a while and try again.</source>
     <message>
         <location filename="protocols/irc/src/ircwhoisreplieshandler.cpp" line="104"/>
         <source>%1 is logged in as %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 je přihlášen jako %2</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircwhoisreplieshandler.cpp" line="109"/>

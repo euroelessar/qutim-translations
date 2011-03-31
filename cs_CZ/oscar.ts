@@ -2072,27 +2072,27 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="287"/>
         <source>Business Services</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podnikatelské služby</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="288"/>
         <source>Cars</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automobily</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="289"/>
         <source>Celebrity Fans</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fankluby</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="290"/>
         <source>Clothing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Móda</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="291"/>
         <source>Collections</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sběratelství</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="292"/>
@@ -2102,22 +2102,22 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="293"/>
         <source>Culture</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kultura</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="294"/>
         <source>Ecology</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ekologie</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="295"/>
         <source>Entertainment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zábava</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="296"/>
         <source>Finance and Corporate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Finance a obchod</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="297"/>
@@ -2127,27 +2127,27 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="298"/>
         <source>Health and Beauty</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zdraví a krása</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="299"/>
         <source>Hobbies</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Koníčky</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="300"/>
         <source>Home Automation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Domácí spotřebiče</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="301"/>
         <source>Household Products</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Potřeby pro domácnost</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="302"/>
         <source>Games</source>
-        <translation type="unfinished"></translation>
+        <translation>Hry</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="303"/>
@@ -2157,22 +2157,22 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="304"/>
         <source>ICQ - Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ICQ - Pomoc</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="305"/>
         <source>Internet</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="306"/>
         <source>Lifestyle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Životní styl</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="307"/>
         <source>Mail Order Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Objednávkové katalogy</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="308"/>
@@ -2182,22 +2182,22 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="309"/>
         <source>Movies and TV</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filmy a TV</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="310"/>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hudba</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="311"/>
         <source>Mystics</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Záhady</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="312"/>
         <source>News and Media</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Noviny a časopisy</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="313"/>
@@ -2207,17 +2207,17 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="314"/>
         <source>Parenting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rodičovství</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="315"/>
         <source>Parties</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Večírky</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="316"/>
         <source>Pets and Animals</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mazlíčci a zvířátka</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="317"/>
@@ -2227,7 +2227,7 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="318"/>
         <source>Religion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Náboženství</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="319"/>
@@ -2237,7 +2237,7 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="320"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Věda</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="321"/>
@@ -2272,7 +2272,7 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="327"/>
         <source>Web Design</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Webový design</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="328"/>
@@ -2696,7 +2696,7 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafield.cpp" line="23"/>
         <source>Not specified</source>
-        <translation type="unfinished"></translation>
+        <translation>není zadáno</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafield.cpp" line="98"/>
@@ -2823,7 +2823,7 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="669"/>
         <source>online only</source>
-        <translation type="unfinished"></translation>
+        <translation>pouze Online</translation>
     </message>
 </context>
 <context>
@@ -3282,7 +3282,7 @@
     <message>
         <location filename="protocols/oscar/src/privacylists.cpp" line="76"/>
         <source>Unknown privacy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neznámé soukromí</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/privacylists.cpp" line="183"/>
@@ -3295,77 +3295,77 @@
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="43"/>
         <source>Invalid SNAC header</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatná SNAC hlavička</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="45"/>
         <source>Server rate limit exceeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Limit požadavků serveru byl překročen</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="47"/>
         <source>Client rate limit exceeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Limit požadavků klienta byl překročen</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="49"/>
         <source>Recipient is not logged in</source>
-        <translation type="unfinished"></translation>
+        <translation>Příjemce není přihlášen</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="51"/>
         <source>Requested service unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Požadovaná služba nedostupná</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="53"/>
         <source>Requested service not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Požadovaná služba není definována</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="55"/>
         <source>You sent obsolete SNAC</source>
-        <translation type="unfinished"></translation>
+        <translation>Poslal jste zastaralé SNAC</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="57"/>
         <source>Not supported by server</source>
-        <translation type="unfinished"></translation>
+        <translation>Není podporováno serverem</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="59"/>
         <source>Not supported by client</source>
-        <translation type="unfinished"></translation>
+        <translation>Není podporováno klientem</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="61"/>
         <source>Refused by client</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamítnuto klientem</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="63"/>
         <source>Reply too big</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpověď je příliš velká</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="65"/>
         <source>Responses lost</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpověď ztracena</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="67"/>
         <source>Request denied</source>
-        <translation type="unfinished"></translation>
+        <translation>Požadavek odmítnut</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="69"/>
         <source>Incorrect SNAC format</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatný SNAC formát</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="71"/>
         <source>Insufficient rights</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedostatečná práva</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="73"/>
@@ -3385,7 +3385,7 @@
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="79"/>
         <source>User temporarily unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Uživatel je dočasně nedostupný</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="81"/>
@@ -3395,17 +3395,17 @@
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="83"/>
         <source>List overflow</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam přetekl</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="85"/>
         <source>Request ambiguous</source>
-        <translation type="unfinished"></translation>
+        <translation>Nejednoznačná žádost</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="87"/>
         <source>Server queue full</source>
-        <translation type="unfinished"></translation>
+        <translation>Fronta na serveru je plná</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="89"/>
@@ -3868,7 +3868,7 @@
     <message>
         <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="416"/>
         <source>Show contact X-Status icon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazit X-Status ikony</translation>
     </message>
 </context>
 <context>
@@ -3881,7 +3881,7 @@
     <message>
         <location filename="protocols/oscar/plugins/xstatus/xstatussettings.cpp" line="32"/>
         <source>Ask for XStatuses automatically</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Požadovat X-Statusy automaticky</translation>
     </message>
 </context>
 <context>
@@ -3890,14 +3890,6 @@
         <location filename="protocols/oscar/plugins/xstatus/statusdialog.ui" line="14"/>
         <source>Custom status</source>
         <translation>Vlastní stav</translation>
-    </message>
-    <message>
-        <source>Choose</source>
-        <translation type="obsolete">Vybrat</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Zrušit</translation>
     </message>
     <message>
         <location filename="protocols/oscar/plugins/xstatus/statusdialog.ui" line="99"/>
