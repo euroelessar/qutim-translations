@@ -2175,12 +2175,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="-3"/>
         <source>Kinetic popups</source>
-        <translation>Изскачащи прозорци (Kinetic)</translation>
+        <translation>Изскачащи прозорци</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Default qutIM popups based on QTextDocument</source>
-        <translation>Подразбираща се за qutIM реализация на изскачащи прозорци. На базата на QTextDocument</translation>
+        <translation>Подразбираща се за qutIM, реализация на уведомления. На базата на QTextDocument</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-34"/>
@@ -2571,7 +2571,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/core/libqutim/notificationslayer.cpp" line="-114"/>
         <source>Popup</source>
-        <translation>Изскачащ прозорец</translation>
+        <translation>Уведомление</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2581,7 +2581,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/backend.cpp" line="+39"/>
         <source>PopupWidget</source>
-        <translation>Изскачащи прозорци</translation>
+        <translation>Изскачащ прозорец</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="-13"/>
@@ -2611,7 +2611,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>ContactDelegate</source>
-        <translation>Делегат на контакта</translation>
+        <translation>Делегат за изобразяване на контакти</translation>
     </message>
 </context>
 <context>
@@ -3597,12 +3597,12 @@ en</source>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+3"/>
         <source>Kinetic Popups</source>
-        <translation>Изскачащи прозорци (Kinetic)</translation>
+        <translation>Kinetic уведомления</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Default qutIM popups based on QTextDocument</source>
-        <translation>Подразбираща се за qutIM реализация на изскачащи прозорци. На базата на QTextDocument</translation>
+        <translation>Подразбираща се за qutIM, реализация на уведомления. На базата на QTextDocument</translation>
     </message>
 </context>
 <context>
