@@ -2601,7 +2601,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>ContactListWidget</source>
-        <translation>Елемент на списъка с контакти</translation>
+        <translation>Управление на списъка с контакти</translation>
     </message>
     <message>
         <location line="+1"/>
