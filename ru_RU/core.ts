@@ -2054,14 +2054,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::OldWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/widgets/oldcontactlistwidget/oldwidget.cpp" line="+58"/>
         <source>Main Toolbar</source>
-        <translation type="unfinished">Главная панель</translation>
+        <translation type="obsolete">Главная панель</translation>
     </message>
     <message>
-        <location line="+37"/>
         <source>Search contact</source>
-        <translation type="unfinished">Найти контакт</translation>
+        <translation type="obsolete">Найти контакт</translation>
     </message>
 </context>
 <context>
@@ -2110,6 +2108,29 @@ p, li { white-space: pre-wrap; }
         <location line="+9"/>
         <source>Actions</source>
         <translation type="unfinished">Действия</translation>
+    </message>
+</context>
+<context>
+    <name>Core::SimpleContactList::ToryWidget</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="+75"/>
+        <source>Main Toolbar</source>
+        <translation type="unfinished">Главная панель</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Global status</source>
+        <translation type="unfinished">Общий статус</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Set Status Text</source>
+        <translation type="unfinished">Установить текст статуса</translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Search contact</source>
+        <translation type="unfinished">Найти контакт</translation>
     </message>
 </context>
 <context>
@@ -3403,6 +3424,16 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/trayicon/simpletray.cpp" line="+136"/>
         <source>Notification Area Icon</source>
         <translation type="unfinished">Пиктограмма области уведомления</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torycontactlistwidgetplugin.cpp" line="+11"/>
+        <source>Tory Contactlist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Tory contactlist</source>
+        <translation type="unfinished">Список контактов Tory</translation>
     </message>
 </context>
 <context>

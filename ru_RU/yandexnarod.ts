@@ -291,7 +291,7 @@ p, li { white-space: pre-wrap; }
         <translation>Авторизация</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+10"/>
         <source>Login:</source>
         <translation>Логин:</translation>
     </message>
@@ -306,14 +306,9 @@ p, li { white-space: pre-wrap; }
         <translation>Запомнить</translation>
     </message>
     <message>
-        <location line="+21"/>
+        <location line="+19"/>
         <source>Captcha:</source>
         <translation>Капча:</translation>
-    </message>
-    <message>
-        <location line="+8"/>
-        <source>about:blank</source>
-        <translation></translation>
     </message>
 </context>
 <context>

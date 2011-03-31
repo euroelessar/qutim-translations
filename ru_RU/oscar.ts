@@ -2272,7 +2272,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Mail Order Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Почтовые заказы</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2313,7 +2313,7 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Parties</source>
         <translatorcomment>пати?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вечеринки</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4004,8 +4004,8 @@ p, li { white-space: pre-wrap; }
     <name>qutim_sdk_0_3::oscar::IcqMainSettings</name>
     <message>
         <location filename="../../protocols/oscar/src/ui/icqmainsettings.cpp" line="+105"/>
-        <source>Main</source>
-        <translation></translation>
+        <source>General</source>
+        <translation type="unfinished">Главные</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4038,7 +4038,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::OftConnection</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarfiletransfer.cpp" line="+776"/>
+        <location filename="../../protocols/oscar/src/oscarfiletransfer.cpp" line="+787"/>
         <source>Could not open %1</source>
         <translation>Не удалось открыть %1</translation>
     </message>
@@ -4058,7 +4058,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::OscarFileTransferSettings</name>
     <message>
-        <location line="+187"/>
+        <location line="+186"/>
         <source>File transfer</source>
         <translation>Передача файла</translation>
     </message>
