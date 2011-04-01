@@ -122,7 +122,7 @@
         <translation>Není k dispozici</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="213"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="212"/>
         <source>Remove contact</source>
         <translation>Odstranit kontakt</translation>
     </message>
@@ -175,6 +175,16 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="core/src/corelayers/searchdialog/searchdialogplugin.cpp" line="29"/>
         <source>Alexey Prokhin</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="76"/>
+        <source>Perova Gala</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="80"/>
+        <source>Rederick Asher</source>
         <translation></translation>
     </message>
 </context>
@@ -282,22 +292,22 @@ p, li { white-space: pre-wrap; }
         <translation>Vložit smajlíka</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="84"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="94"/>
         <source>Show Emoticons</source>
         <translation>Zobrazit smajlíky</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="89"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="99"/>
         <source>Clear Chat</source>
         <translation>Vymazat konverzaci</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="98"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="108"/>
         <source>Clear chat</source>
         <translation>Vymazat konverzaci</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="101"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="111"/>
         <source>Clear chat field</source>
         <translation type="unfinished">Vymazat okno konverzace</translation>
     </message>
@@ -630,13 +640,13 @@ p, li { white-space: pre-wrap; }
         <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="45"/>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="46"/>
         <source>Vasya Pupkin</source>
-        <translation type="unfinished">Jan Novák</translation>
+        <translation>Jan Novák</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="56"/>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="57"/>
         <source>Noname</source>
-        <translation type="unfinished">Franta Vopršálek</translation>
+        <translation>Franta Vopršálek</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="123"/>
@@ -680,12 +690,12 @@ p, li { white-space: pre-wrap; }
         <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="198"/>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="222"/>
         <source>Vasya Pupkin is reading you mind</source>
-        <translation type="unfinished">Jan Novák čte tvé myšlenky</translation>
+        <translation>Jan Novák čte tvé myšlenky</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="239"/>
         <source>Style variant:</source>
-        <translation type="unfinished">Styl:</translation>
+        <translation>Styl:</translation>
     </message>
 </context>
 <context>
@@ -723,7 +733,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="57"/>
         <source>Conference participants</source>
-        <translation type="unfinished">Učastníci konference</translation>
+        <translation>Učastníci konference</translation>
     </message>
 </context>
 <context>
@@ -732,7 +742,7 @@ p, li { white-space: pre-wrap; }
         <location filename="core/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp" line="30"/>
         <location filename="core/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp" line="245"/>
         <source>Close chat</source>
-        <translation type="unfinished">Zavřít konverzaci</translation>
+        <translation>Zavřít konverzaci</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp" line="35"/>
@@ -1004,7 +1014,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="core/src/corelayers/kineticscroller/kineticscroller.cpp" line="37"/>
         <source>No scrolling</source>
-        <translation type="unfinished">Bez rolování</translation>
+        <translation>Bez rolování</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/kineticscroller/kineticscroller.cpp" line="38"/>
@@ -1014,17 +1024,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="core/src/corelayers/kineticscroller/kineticscroller.cpp" line="39"/>
         <source>Left mouse button</source>
-        <translation type="unfinished">Levé tlačítko myši</translation>
+        <translation>Levé tlačítko myši</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/kineticscroller/kineticscroller.cpp" line="40"/>
         <source>Middle mouse button</source>
-        <translation type="unfinished">Prostřední tlačítko myši</translation>
+        <translation>Prostřední tlačítko myši</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/kineticscroller/kineticscroller.cpp" line="41"/>
         <source>Right mouse button</source>
-        <translation type="unfinished">Pravé tlačítko myši</translation>
+        <translation>Pravé tlačítko myši</translation>
     </message>
 </context>
 <context>
@@ -1356,7 +1366,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/simpleabout/simpleaboutdialog.cpp" line="42"/>
         <source>Based on Qt %1 (%2 bit).</source>
-        <translation type="unfinished">Používá Qt %1 (%2 bitů).</translation>
+        <translation>Používá Qt %1 (%2 bitů).</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/simpleabout/simpleaboutdialog.cpp" line="45"/>
@@ -1367,17 +1377,17 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::SimpleActions</name>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="163"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="162"/>
         <source>Rename contact %1</source>
         <translation>Přejmenovat kontakt %1</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="164"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="163"/>
         <source>Input new name for contact %1</source>
         <translation>Zadejte nové jméno pro kontakt %1</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="214"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="213"/>
         <source>Are you sure you want to delete a contact %1 from the roster?</source>
         <translation>Opravdu chcete odstranit kontakt %1 ze seznamu kontaktů?</translation>
     </message>
@@ -1467,19 +1477,6 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     </message>
 </context>
 <context>
-    <name>Core::SimpleContactList::OldWidget</name>
-    <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/oldcontactlistwidget/oldwidget.cpp" line="58"/>
-        <source>Main Toolbar</source>
-        <translation type="unfinished">Hlavní lišta</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/oldcontactlistwidget/oldwidget.cpp" line="95"/>
-        <source>Search contact</source>
-        <translation>Hledat kontakt</translation>
-    </message>
-</context>
-<context>
     <name>Core::SimpleContactList::SimpleWidget</name>
     <message>
         <location filename="core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="76"/>
@@ -1528,6 +1525,29 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     </message>
 </context>
 <context>
+    <name>Core::SimpleContactList::ToryWidget</name>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="75"/>
+        <source>Main Toolbar</source>
+        <translation type="unfinished">Hlavní lišta</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="90"/>
+        <source>Global status</source>
+        <translation type="unfinished">Globální stav</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="91"/>
+        <source>Set Status Text</source>
+        <translation>Nastavit text stavu</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="118"/>
+        <source>Search contact</source>
+        <translation>Hledat kontakt</translation>
+    </message>
+</context>
+<context>
     <name>Core::SimpleFileTransfer</name>
     <message>
         <location filename="core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="179"/>
@@ -1558,7 +1578,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::SimpleTagsEditor</name>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp" line="17"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp" line="19"/>
         <source>Edit tags for %1</source>
         <translation>Upravit štítky pro %1</translation>
     </message>
@@ -1588,7 +1608,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/submitpage.cpp" line="36"/>
         <source>&lt;b&gt;OS:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Short:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM Version:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt Version:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Screen resolution:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Country:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Language:&lt;/b&gt; %10 &lt;br /&gt;</source>
-        <translation type="unfinished">&lt;b&gt;OS:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Stručně:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Vše:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM verze:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt verze:&lt;/b&gt; %5 (%6 bitů) &lt;br /&gt;&lt;b&gt;Rozlišení obrazovky:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Stát:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Jazyk:&lt;/b&gt; %10 &lt;br /&gt;</translation>
+        <translation>&lt;b&gt;OS:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Stručně:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Vše:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM verze:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt verze:&lt;/b&gt; %5 (%6 bitů) &lt;br /&gt;&lt;b&gt;Rozlišení obrazovky:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Stát:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Jazyk:&lt;/b&gt; %10 &lt;br /&gt;</translation>
     </message>
 </context>
 <context>
@@ -1889,7 +1909,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/metacontacts/model.cpp" line="37"/>
         <source>Search results</source>
-        <translation type="unfinished">Výsledky hledání</translation>
+        <translation>Výsledky hledání</translation>
     </message>
 </context>
 <context>
@@ -2363,7 +2383,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <translation>4. čtvrtletí</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="144"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="143"/>
         <source>Copy %1 to clipboard</source>
         <translation>Kopírovat %1 do schránky</translation>
     </message>
@@ -2638,7 +2658,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/libqutim/shortcut.cpp" line="75"/>
         <source>Close</source>
-        <translation type="unfinished">Zavřít</translation>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <location filename="core/libqutim/shortcut.cpp" line="91"/>
@@ -2653,17 +2673,17 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/libqutim/shortcut.cpp" line="93"/>
         <source>Find</source>
-        <translation type="unfinished">Hledat</translation>
+        <translation>Hledat</translation>
     </message>
     <message>
         <location filename="core/libqutim/shortcut.cpp" line="94"/>
         <source>Find next</source>
-        <translation type="unfinished">Hledat další</translation>
+        <translation>Hledat další</translation>
     </message>
     <message>
         <location filename="core/libqutim/shortcut.cpp" line="95"/>
         <source>Find previous</source>
-        <translation type="unfinished">Hledat přechozí</translation>
+        <translation>Hledat přechozí</translation>
     </message>
     <message>
         <location filename="core/libqutim/shortcut.cpp" line="135"/>
@@ -2890,19 +2910,19 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui" line="70"/>
         <location filename="core/src/corelayers/adiumchat/chatforms/symbianchatform/settings/stackedchatbehavior.ui" line="56"/>
         <source>Store service messages in history</source>
-        <translation type="unfinished">Ukládat servisní zprávy do historie</translation>
+        <translation>Ukládat servisní zprávy do historie</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui" line="77"/>
         <location filename="core/src/corelayers/adiumchat/chatforms/symbianchatform/settings/stackedchatbehavior.ui" line="63"/>
         <source>Number of previous messages shown in new chats</source>
-        <translation type="unfinished">Počet předchozích zpráv zobrazovaných v nových konverzacích</translation>
+        <translation>Počet předchozích zpráv zobrazovaných v nových konverzacích</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui" line="80"/>
         <location filename="core/src/corelayers/adiumchat/chatforms/symbianchatform/settings/stackedchatbehavior.ui" line="66"/>
         <source>Number of shown previous messages:</source>
-        <translation type="unfinished">Počet zobrazovaných předchozích zpráv:</translation>
+        <translation>Počet zobrazovaných předchozích zpráv:</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui" line="90"/>
@@ -2956,7 +2976,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/libqutim/status.cpp" line="169"/>
         <source>Unknown</source>
-        <translation type="unfinished">Neznámý</translation>
+        <translation>Neznámý</translation>
     </message>
 </context>
 <context>
@@ -3054,6 +3074,12 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <source>Translator</source>
         <translation>Překladatel</translation>
     </message>
+    <message>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="77"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="81"/>
+        <source>Artist</source>
+        <translation type="unfinished">Umělec</translation>
+    </message>
 </context>
 <context>
     <name>ToolTip</name>
@@ -3094,12 +3120,12 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="75"/>
         <source>q</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="90"/>
         <source>qQ1§й</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="93"/>
@@ -3139,313 +3165,313 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="124"/>
         <source>w</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="136"/>
         <source>wW2$ц</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="167"/>
         <source>e</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="182"/>
         <source>eE3£у</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="213"/>
         <source>r</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="225"/>
         <source>rR4€к</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="256"/>
         <source>t</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="268"/>
         <source>tT5¥е</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="299"/>
         <source>y</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="311"/>
         <source>yY6-н</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="342"/>
         <source>u</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="354"/>
         <source>uU7&lt;г</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="385"/>
         <source>i</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="397"/>
         <source>iI8&gt;ш</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="428"/>
         <source>o</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="440"/>
         <source>oO9[щ</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="471"/>
         <source>p</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="483"/>
         <source>pP0]з</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="521"/>
         <source>a</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="533"/>
         <source>aA({ф</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="564"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="576"/>
         <source>sS)}ы</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="607"/>
         <source>d</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="619"/>
         <source>dD+^в</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="650"/>
         <source>f</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="662"/>
         <source>fF*\а</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="693"/>
         <source>g</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="705"/>
         <source>gG=/п</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="736"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="748"/>
         <source>hH&amp;~р</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="780"/>
         <source>j</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="792"/>
         <source>jJ--о</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="823"/>
         <source>k</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="835"/>
         <source>kK__л</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="866"/>
         <source>l</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="878"/>
         <source>lL^|д</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="897"/>
         <source>:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="906"/>
         <source>:;`№ж</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="985"/>
         <source>z</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="997"/>
         <source>zZёёя</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1028"/>
         <source>x</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1040"/>
         <source>xXъъч</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1071"/>
         <source>c</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1083"/>
         <source>cC??с</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1114"/>
         <source>v</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1126"/>
         <source>vV!!м</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1157"/>
         <source>b</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1169"/>
         <source>bB;;и</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1200"/>
         <source>n</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1212"/>
         <source>nN::т</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1243"/>
         <source>m</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1255"/>
         <source>mM,,ь</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1271"/>
         <source>?</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1280"/>
         <source>?!%%б</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1365"/>
         <source>1#</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1396"/>
         <source>ru
 en</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1437"/>
         <source>,</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1449"/>
         <source>,(##х</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1517"/>
         <source>.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1529"/>
         <source>.)&apos;&apos;э</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1551"/>
         <source>&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="1560"/>
         <source>&quot;&apos;@@ю</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3471,7 +3497,7 @@ en</source>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.ui" line="20"/>
         <source>Enable openGL acceleration</source>
-        <translation type="unfinished">Zapnout openGL akceleraci</translation>
+        <translation>Zapnout openGL akceleraci</translation>
     </message>
 </context>
 <context>
@@ -3513,48 +3539,48 @@ en</source>
     <message>
         <location filename="core/libqutim/filetransfer.cpp" line="310"/>
         <source>Initiation</source>
-        <translation type="unfinished">Zahájení</translation>
+        <translation type="unfinished">Zahajování</translation>
     </message>
     <message>
         <location filename="core/libqutim/filetransfer.cpp" line="312"/>
         <source>Started</source>
-        <translation type="unfinished">Začínáme</translation>
+        <translation type="unfinished">Začínání</translation>
     </message>
     <message>
         <location filename="core/libqutim/filetransfer.cpp" line="314"/>
         <source>Finished</source>
-        <translation type="unfinished">Dokončeno</translation>
+        <translation>Dokončeno</translation>
     </message>
     <message>
         <location filename="core/libqutim/filetransfer.cpp" line="316"/>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <location filename="core/libqutim/filetransfer.cpp" line="318"/>
         <location filename="core/libqutim/filetransfer.cpp" line="344"/>
         <source>Unknown</source>
-        <translation type="unfinished">Neznámý</translation>
+        <translation>Neznámý</translation>
     </message>
     <message>
         <location filename="core/libqutim/filetransfer.cpp" line="336"/>
         <source>Network error</source>
-        <translation type="unfinished">Síťová chyba</translation>
+        <translation>Síťová chyba</translation>
     </message>
     <message>
         <location filename="core/libqutim/filetransfer.cpp" line="338"/>
         <source>Canceled</source>
-        <translation type="unfinished">Zrušeno</translation>
+        <translation>Zrušeno</translation>
     </message>
     <message>
         <location filename="core/libqutim/filetransfer.cpp" line="340"/>
         <source>Not supported</source>
-        <translation type="unfinished">Není podporováno</translation>
+        <translation>Není podporováno</translation>
     </message>
     <message>
         <location filename="core/libqutim/filetransfer.cpp" line="342"/>
         <source>Input/output error</source>
-        <translation type="unfinished">Vstupně/výstupní chyba</translation>
+        <translation>Vstupně/výstupní chyba</translation>
     </message>
 </context>
 <context>

@@ -195,29 +195,24 @@ p, li { white-space: pre-wrap; }
         <translation>Autorizace</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/requestauthdialog.ui" line="38"/>
+        <location filename="plugins/yandexnarod/src/requestauthdialog.ui" line="36"/>
         <source>Login:</source>
         <translation>Přihlašovací jméno:</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/requestauthdialog.ui" line="55"/>
+        <location filename="plugins/yandexnarod/src/requestauthdialog.ui" line="53"/>
         <source>Password:</source>
         <translation>Heslo:</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/requestauthdialog.ui" line="75"/>
+        <location filename="plugins/yandexnarod/src/requestauthdialog.ui" line="73"/>
         <source>Remember</source>
         <translation>Uložit heslo</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/requestauthdialog.ui" line="96"/>
+        <location filename="plugins/yandexnarod/src/requestauthdialog.ui" line="92"/>
         <source>Captcha:</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugins/yandexnarod/src/requestauthdialog.ui" line="104"/>
-        <source>about:blank</source>
-        <translation></translation>
     </message>
 </context>
 <context>

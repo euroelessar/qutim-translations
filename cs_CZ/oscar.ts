@@ -218,7 +218,7 @@
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="305"/>
         <source>Internal client error (bad input to authorizer)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vnitřní chyba klienta (špatný vstup autorizace)</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="307"/>
@@ -3776,8 +3776,8 @@
     <name>qutim_sdk_0_3::oscar::IcqMainSettings</name>
     <message>
         <location filename="protocols/oscar/src/ui/icqmainsettings.cpp" line="146"/>
-        <source>Main</source>
-        <translation type="unfinished">Hlavní</translation>
+        <source>General</source>
+        <translation>Obecné</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/ui/icqmainsettings.cpp" line="147"/>
@@ -3809,33 +3809,33 @@
 <context>
     <name>qutim_sdk_0_3::oscar::OftConnection</name>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="776"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="787"/>
         <source>Could not open %1</source>
-        <translation type="unfinished">Nepodařilo se otevřít: %1</translation>
+        <translation>Nepodařilo se otevřít: %1</translation>
     </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::oscar::OftFileTransferFactory</name>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="955"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="966"/>
         <source>Oscar</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::oscar::OscarFileTransferSettings</name>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1142"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1152"/>
         <source>File transfer</source>
         <translation>Přenos souboru</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1145"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1155"/>
         <source>Accept incoming connections on any port</source>
         <translation>Přijímat příchozí spojení na všech portech</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1157"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1167"/>
         <source>Local ports</source>
         <translation>Místní porty</translation>
     </message>
