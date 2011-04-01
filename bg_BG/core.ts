@@ -122,7 +122,7 @@
         <translation>Недостъпен</translation>
     </message>
     <message>
-        <location line="+101"/>
+        <location line="+100"/>
         <source>Remove contact</source>
         <translation>Премахване на контакта</translation>
     </message>
@@ -184,6 +184,16 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Aleksey Sidorov</source>
         <translation type="obsolete">Алексей Сидоров</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="+76"/>
+        <source>Perova Gala</source>
+        <translation>Гала Перова</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Rederick Asher</source>
+        <translation>Редерик Ашър</translation>
     </message>
 </context>
 <context>
@@ -285,12 +295,12 @@ p, li { white-space: pre-wrap; }
         <translation>Предходен разговор</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="+50"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-30"/>
         <source>Insert Emoticon</source>
         <translation>Вмъкване на емотикона</translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="+44"/>
         <source>Show Emoticons</source>
         <translation>Показване на емотикони</translation>
     </message>
@@ -382,7 +392,7 @@ p, li { white-space: pre-wrap; }
         <translation>Основна</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-167"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-166"/>
         <source>Show information</source>
         <translation>Показване на информация</translation>
     </message>
@@ -1433,7 +1443,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleActions</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+80"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+79"/>
         <source>Rename contact %1</source>
         <translation>Преименуване на контакта %1</translation>
     </message>
@@ -1673,7 +1683,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleTagsEditor</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp" line="+17"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp" line="+19"/>
         <source>Edit tags for %1</source>
         <translation>Редактиране етикетите на %1</translation>
     </message>
@@ -2183,7 +2193,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM, реализация на уведомления. На базата на QTextDocument</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-34"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-44"/>
         <source>Webkit chat layer</source>
         <translation>WebKit слой за разговор</translation>
     </message>
@@ -3197,6 +3207,12 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/libqutim/personinfo.cpp" line="+3"/>
         <source>Translator</source>
         <translation>Преводач</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="+4"/>
+        <location line="+4"/>
+        <source>Artist</source>
+        <translation>Артист</translation>
     </message>
 </context>
 <context>

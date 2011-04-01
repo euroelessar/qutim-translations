@@ -3064,4 +3064,8 @@
     <source>Global status</source>
     <target>Общ статус</target>
 </phrase>
+<phrase>
+    <source>Artist</source>
+    <target>Артист</target>
+</phrase>
 </QPH>
