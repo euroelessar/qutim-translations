@@ -342,7 +342,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="core/src/corelayers/authdialog/authdialogimpl_p.h" line="27"/>
         <source>Recieved authorizarion request from %1:</source>
-        <translation>Požadována autoriazace od %1:</translation>
+        <translation>Požadována autorizace od %1:</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/authdialog/authdialogimpl_p.h" line="31"/>
@@ -733,7 +733,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="57"/>
         <source>Conference participants</source>
-        <translation>Učastníci konference</translation>
+        <translation>Účastníci konference</translation>
     </message>
 </context>
 <context>
@@ -2756,7 +2756,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/libqutim/shortcut.cpp" line="95"/>
         <source>Find previous</source>
-        <translation>Hledat přechozí</translation>
+        <translation>Hledat předchozí</translation>
     </message>
     <message>
         <location filename="core/libqutim/shortcut.cpp" line="135"/>

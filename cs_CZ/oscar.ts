@@ -422,7 +422,7 @@
     <message>
         <location filename="protocols/oscar/src/inforequest.cpp" line="91"/>
         <source>Work</source>
-        <translation type="unfinished">Změstnání</translation>
+        <translation>Zaměstnání</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/inforequest.cpp" line="93"/>
@@ -1242,7 +1242,7 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="147"/>
         <source>Liechtenstein</source>
-        <translation>Lichtnštejnsko</translation>
+        <translation>Lichtenštejnsko</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="148"/>
