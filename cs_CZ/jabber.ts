@@ -6,197 +6,197 @@
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="11"/>
         <source>Doing chores</source>
-        <translation type="unfinished">Běžné povinnosti</translation>
+        <translation>Běžné povinnosti</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="12"/>
         <source>Drinking</source>
-        <translation type="unfinished">Piju</translation>
+        <translation>Piju</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="13"/>
         <source>Eating</source>
-        <translation type="unfinished">Jím</translation>
+        <translation>Jím</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="14"/>
         <source>Exercising</source>
-        <translation type="unfinished">Cvičení</translation>
+        <translation>Cvičení</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="15"/>
         <source>Grooming</source>
-        <translation type="unfinished">Péče o tělo</translation>
+        <translation>Péče o tělo</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="16"/>
         <source>Having appointment</source>
-        <translation type="unfinished">Na schůzce</translation>
+        <translation>Na schůzce</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="17"/>
         <source>Inactive</source>
-        <translation type="unfinished">Nečinný</translation>
+        <translation>Nečinný</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="18"/>
         <source>Relaxing</source>
-        <translation type="unfinished">Odpočinek</translation>
+        <translation>Odpočinek</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="19"/>
         <source>Talking</source>
-        <translation type="unfinished">Mluvení</translation>
+        <translation>Mluvení</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="20"/>
         <source>Traveling</source>
-        <translation type="unfinished">Cestuji</translation>
+        <translation>Cestuji</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="21"/>
         <source>Undefined</source>
-        <translation type="unfinished">Neurčený</translation>
+        <translation>Neurčený</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="22"/>
         <source>Working</source>
-        <translation type="unfinished">Pracuji</translation>
+        <translation>Pracuji</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="27"/>
         <source>At the spa</source>
-        <translation type="unfinished">V lázních</translation>
+        <translation>V lázních</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="28"/>
         <source>Brushing teeth</source>
-        <translation type="unfinished">Čistím si zuby</translation>
+        <translation>Čistím si zuby</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="29"/>
         <source>Buying groceries</source>
-        <translation type="unfinished">Nákup potravin</translation>
+        <translation>Nákup potravin</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="30"/>
         <source>Cleaning</source>
-        <translation type="unfinished">Uklízím</translation>
+        <translation>Uklízím</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="31"/>
         <source>Coding</source>
-        <translation type="unfinished">Programuji</translation>
+        <translation>Programuji</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="32"/>
         <source>Commuting</source>
-        <translation type="unfinished">Dojíždím</translation>
+        <translation>Dojíždím</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="33"/>
         <source>Cooking</source>
-        <translation type="unfinished">Vařím</translation>
+        <translation>Vařím</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="34"/>
         <source>Cycling</source>
-        <translation type="unfinished">Cyklistika</translation>
+        <translation>Cyklistika</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="35"/>
         <source>Dancing</source>
-        <translation type="unfinished">Tancování</translation>
+        <translation>Tancování</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="36"/>
         <source>Day off</source>
-        <translation type="unfinished">Volný den</translation>
+        <translation>Volný den</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="37"/>
         <source>Doing maintenance</source>
-        <translation type="unfinished">Údržba</translation>
+        <translation>Údržba</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="38"/>
         <source>Doing the dishes</source>
-        <translation type="unfinished">Myju nádobí</translation>
+        <translation>Myju nádobí</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="39"/>
         <source>Doing the laundry</source>
-        <translation type="unfinished">Peru prádlo</translation>
+        <translation>Peru prádlo</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="40"/>
         <source>Driving</source>
-        <translation type="unfinished">Řídím</translation>
+        <translation>Řídím</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="41"/>
         <source>Fishing</source>
-        <translation type="unfinished">Rybaření</translation>
+        <translation>Rybaření</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="42"/>
         <source>Gaming</source>
-        <translation type="unfinished">Hraju hru</translation>
+        <translation>Hraju hru</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="43"/>
         <source>Gardening</source>
-        <translation type="unfinished">Na zahrádce</translation>
+        <translation>Na zahrádce</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="44"/>
         <source>Getting a haircut</source>
-        <translation type="unfinished">V kadeřnictví</translation>
+        <translation>V kadeřnictví</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="45"/>
         <source>Going out</source>
-        <translation type="unfinished">Venku</translation>
+        <translation>Venku</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="46"/>
         <source>Hanging out</source>
-        <translation type="unfinished">Vyvěšeno</translation>
+        <translation>Vyvěšeno</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="47"/>
         <source>Having a beer</source>
-        <translation type="unfinished">Piju pivo</translation>
+        <translation>Piju pivo</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="48"/>
         <source>Having a snack</source>
-        <translation type="unfinished">Svačím</translation>
+        <translation>Svačím</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="49"/>
         <source>Having breakfast</source>
-        <translation type="unfinished">Snídám</translation>
+        <translation>Snídám</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="50"/>
         <source>Having coffee</source>
-        <translation type="unfinished">Piju kávu</translation>
+        <translation>Piju kávu</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="51"/>
         <source>Having dinner</source>
-        <translation type="unfinished">Večeřím</translation>
+        <translation>Večeřím</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="52"/>
         <source>Having lunch</source>
-        <translation type="unfinished">Obědvám</translation>
+        <translation>Obědvám</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="53"/>
         <source>Having tea</source>
-        <translation type="unfinished">Piju čaj</translation>
+        <translation>Piju čaj</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="54"/>
@@ -206,22 +206,22 @@
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="55"/>
         <source>Hiking</source>
-        <translation type="unfinished">Turistika</translation>
+        <translation>Turistika</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="56"/>
         <source>In a car</source>
-        <translation type="unfinished">V autě</translation>
+        <translation>V autě</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="57"/>
         <source>In a meeting</source>
-        <translation type="unfinished">Na poradě</translation>
+        <translation>Na poradě</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="58"/>
         <source>In real life</source>
-        <translation type="unfinished">V reálném životě</translation>
+        <translation>V reálném životě</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="59"/>
@@ -231,37 +231,37 @@
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="60"/>
         <source>On a bus</source>
-        <translation type="unfinished">V autobusu</translation>
+        <translation>V autobusu</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="61"/>
         <source>On a plane</source>
-        <translation type="unfinished">V letadle</translation>
+        <translation>V letadle</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="62"/>
         <source>On a train</source>
-        <translation type="unfinished">Ve vlaku</translation>
+        <translation>Ve vlaku</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="63"/>
         <source>On a trip</source>
-        <translation type="unfinished">Na výletě</translation>
+        <translation>Na výletě</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="64"/>
         <source>On the phone</source>
-        <translation type="unfinished">Na telefonu</translation>
+        <translation>Na telefonu</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="65"/>
         <source>On vacation</source>
-        <translation type="unfinished">Na dovolené</translation>
+        <translation>Na dovolené</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="66"/>
         <source>On video phone</source>
-        <translation type="unfinished">Na video telefonu</translation>
+        <translation>Na video telefonu</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="67"/>
@@ -281,22 +281,22 @@
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="70"/>
         <source>Praying</source>
-        <translation type="unfinished">Modlení</translation>
+        <translation>Modlení</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="71"/>
         <source>Reading</source>
-        <translation type="unfinished">Čtení</translation>
+        <translation>Čtení</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="72"/>
         <source>Rehearsing</source>
-        <translation type="unfinished">Nacvičování</translation>
+        <translation>Nacvičování</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="73"/>
         <source>Running</source>
-        <translation type="unfinished">Běhání</translation>
+        <translation>Běhání</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="74"/>
@@ -316,42 +316,42 @@
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="77"/>
         <source>Shopping</source>
-        <translation type="unfinished">Na nákupu</translation>
+        <translation>Na nákupu</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="78"/>
         <source>Skiing</source>
-        <translation type="unfinished">Lyžování</translation>
+        <translation>Lyžování</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="79"/>
         <source>Sleeping</source>
-        <translation type="unfinished">Spím</translation>
+        <translation>Spím</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="80"/>
         <source>Smoking</source>
-        <translation type="unfinished">Kouřím</translation>
+        <translation>Kouřím</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="81"/>
         <source>Socializing</source>
-        <translation type="unfinished">Ve společnosti</translation>
+        <translation>Ve společnosti</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="82"/>
         <source>Studying</source>
-        <translation type="unfinished">Studuji</translation>
+        <translation>Studuji</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="83"/>
         <source>Sunbathing</source>
-        <translation type="unfinished">Opalování</translation>
+        <translation>Opalování</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="84"/>
         <source>Swimming</source>
-        <translation type="unfinished">Plavání</translation>
+        <translation>Plavání</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="85"/>
@@ -366,27 +366,27 @@
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="87"/>
         <source>Thinking</source>
-        <translation type="unfinished">Přemýšlím</translation>
+        <translation>Přemýšlím</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="88"/>
         <source>Walking</source>
-        <translation type="unfinished">Na procházce</translation>
+        <translation>Na procházce</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="89"/>
         <source>Walking the dog</source>
-        <translation type="unfinished">Na procházce se psem</translation>
+        <translation>Na procházce se psem</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="90"/>
         <source>Watching a movie</source>
-        <translation type="unfinished">Sleduji film</translation>
+        <translation>Sleduji film</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="91"/>
         <source>Watching TV</source>
-        <translation type="unfinished">Sleduji TV</translation>
+        <translation>Sleduji TV</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="92"/>
@@ -396,17 +396,17 @@
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="93"/>
         <source>Writing</source>
-        <translation type="unfinished">Píši</translation>
+        <translation>Píši</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="177"/>
         <source>Activity</source>
-        <translation type="unfinished">Činnost</translation>
+        <translation>Činnost</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="179"/>
         <source>Show contact activity icon</source>
-        <translation type="unfinished">Zobrazit ikonu činnosti kontaktu</translation>
+        <translation>Zobrazit ikonu činnosti kontaktu</translation>
     </message>
 </context>
 <context>
@@ -939,7 +939,7 @@
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="190"/>
         <source>No activity</source>
-        <translation type="unfinished">Bez činnsoti</translation>
+        <translation type="unfinished">Bez činnosti</translation>
     </message>
 </context>
 <context>
@@ -1105,7 +1105,7 @@
     <message>
         <location filename="protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="20"/>
         <source>Choose your mood</source>
-        <translation type="unfinished">Vyberte naládu</translation>
+        <translation type="unfinished">Vyberte náladu</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="41"/>
@@ -1816,17 +1816,17 @@
     <message>
         <location filename="protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp" line="111"/>
         <source>Weak</source>
-        <translation type="unfinished">Slabý</translation>
+        <translation>Slabý</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp" line="112"/>
         <source>Worried</source>
-        <translation type="unfinished">Obavy</translation>
+        <translation>Obavy</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp" line="178"/>
         <source>Mood</source>
-        <translation type="unfinished">Nálada</translation>
+        <translation>Nálada</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp" line="180"/>

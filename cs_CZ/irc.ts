@@ -489,12 +489,12 @@
     <message>
         <location filename="protocols/irc/src/ircplugin.cpp" line="42"/>
         <source>Account creator for IRC protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit IRC účet</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircplugin.cpp" line="45"/>
         <source>Proxy support</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy podpora</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ircplugin.cpp" line="46"/>

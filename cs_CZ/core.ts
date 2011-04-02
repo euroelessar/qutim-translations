@@ -1200,20 +1200,25 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::ProfileCreationPage</name>
     <message>
-        <location filename="core/src/profilecreationpage.cpp" line="97"/>
-        <location filename="core/src/profilecreationpage.cpp" line="105"/>
+        <location filename="core/src/profilecreationpage.cpp" line="103"/>
+        <location filename="core/src/profilecreationpage.cpp" line="111"/>
         <source>Warning</source>
         <translation>Varování</translation>
     </message>
     <message>
-        <location filename="core/src/profilecreationpage.cpp" line="98"/>
+        <location filename="core/src/profilecreationpage.cpp" line="104"/>
         <source>Profile already exists, overwrite?</source>
         <translation>Profil již existuje, přepsat ho?</translation>
     </message>
     <message>
-        <location filename="core/src/profilecreationpage.cpp" line="105"/>
+        <location filename="core/src/profilecreationpage.cpp" line="111"/>
         <source>Unable to create profile hash</source>
         <translation>Nelze vytvořit otisk profilu</translation>
+    </message>
+    <message>
+        <location filename="core/src/profilecreationpage.cpp" line="232"/>
+        <source>Select path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1826,7 +1831,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="175"/>
         <source>Join an existing or create a new groupchat</source>
-        <translation type="unfinished">Vstoupit do existujicí nebo vytvořit novou konferenci</translation>
+        <translation type="unfinished">Vstoupit do existující nebo vytvořit novou konferenci</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/joingroupchatdlg/joingroupchat.cpp" line="177"/>
@@ -1855,7 +1860,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/shortcutsettings/keysequencewidget.cpp" line="240"/>
         <source>What the user inputs now will be taken as the new shortcut</source>
-        <translation type="unfinished">Co uživatel nyní zadá bude bráno jako nová klávesová zkratka</translation>
+        <translation type="unfinished">Co uživatel nyní zadá, bude bráno jako nová klávesová zkratka</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/shortcutsettings/keysequencewidget.cpp" line="248"/>
@@ -2528,7 +2533,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/libqutim/settingslayer.cpp" line="304"/>
         <source>Log file (*.log)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Log soubor (*.log)</translation>
     </message>
     <message>
         <location filename="core/libqutim/settingslayer.cpp" line="428"/>

@@ -13,7 +13,7 @@
         <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="623"/>
         <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="627"/>
         <source>&apos;Quetzal&apos; is set of protocols, powered by libpurple</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&apos;Quetzal&apos; je sada protokolů, poháněných knihovnou libpurple</translation>
     </message>
 </context>
 <context>
@@ -52,7 +52,8 @@
         <location filename="protocols/quetzal/src/quetzalaccountwizard.cpp" line="173"/>
         <source>Registration is succesfull
 Complete account creating by clicking on Finish button</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Registrace je úspěšná
+Pro úplné vytvoření účtu pokračujte stisknutím tlačítka Dokončit</translation>
     </message>
     <message>
         <location filename="protocols/quetzal/src/quetzalaccountwizard.cpp" line="181"/>

@@ -139,7 +139,7 @@
     <message>
         <location filename="protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="14"/>
         <source>Wall</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeď</translation>
     </message>
     <message>
         <location filename="protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="15"/>
@@ -149,7 +149,7 @@
     <message>
         <location filename="protocols/vkontakte/src/vkontakteplugin.cpp" line="29"/>
         <source>Vkontakte</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/vkontakte/src/vkontakteplugin.cpp" line="30"/>
@@ -159,7 +159,7 @@
     <message>
         <location filename="protocols/vkontakte/src/vkontakteplugin.cpp" line="41"/>
         <source>vkontakte</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/vkontakte/src/vkontakteplugin.cpp" line="42"/>
@@ -169,7 +169,7 @@
     <message>
         <location filename="protocols/vkontakte/src/vkontakteplugin.cpp" line="46"/>
         <source>Vkontakte account creator</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit Vkontakte účet</translation>
     </message>
     <message>
         <location filename="protocols/vkontakte/src/vkontakteplugin.cpp" line="47"/>
@@ -179,7 +179,7 @@
     <message>
         <location filename="protocols/vkontakte/src/vkontakteplugin.cpp" line="50"/>
         <source>Proxy support</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy podpora</translation>
     </message>
     <message>
         <location filename="protocols/vkontakte/src/vkontakteplugin.cpp" line="51"/>

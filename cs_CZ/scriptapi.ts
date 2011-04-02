@@ -19,7 +19,7 @@
     <message>
         <location filename="plugins/scriptapi/src/scriptplugin.cpp" line="33"/>
         <source>Added ability to create plugins at JavaScript</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidává schopnost vytvářet pluginy v JavaScriptu</translation>
     </message>
 </context>
 <context>

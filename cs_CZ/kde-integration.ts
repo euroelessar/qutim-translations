@@ -101,42 +101,32 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/kde-integration/src/kdeintegration.cpp" line="94"/>
-        <source>KDE Notifications</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugins/kde-integration/src/kdeintegration.cpp" line="95"/>
-        <source>Uses KDE notifications</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugins/kde-integration/src/kdeintegration.cpp" line="97"/>
+        <location filename="plugins/kde-integration/src/kdeintegration.cpp" line="98"/>
         <source>KDE Status Notifier</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/kde-integration/src/kdeintegration.cpp" line="98"/>
+        <location filename="plugins/kde-integration/src/kdeintegration.cpp" line="99"/>
         <source>Using new KDE DBus tray specification</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/kde-integration/src/kdeintegration.cpp" line="100"/>
+        <location filename="plugins/kde-integration/src/kdeintegration.cpp" line="101"/>
         <source>About KDE dialog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/kde-integration/src/kdeintegration.cpp" line="101"/>
+        <location filename="plugins/kde-integration/src/kdeintegration.cpp" line="102"/>
         <source>Show &quot;About KDE&quot; menu option</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/kde-integration/src/kdeintegration.cpp" line="103"/>
+        <location filename="plugins/kde-integration/src/kdeintegration.cpp" line="104"/>
         <source>KDE About application dialog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/kde-integration/src/kdeintegration.cpp" line="104"/>
+        <location filename="plugins/kde-integration/src/kdeintegration.cpp" line="105"/>
         <source>Use kde-specific application about dialog</source>
         <translation type="unfinished"></translation>
     </message>

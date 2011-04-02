@@ -164,22 +164,22 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>YandexNarodUploadJob</name>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="123"/>
+        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="124"/>
         <source>Authorizing...</source>
         <translation type="unfinished">Autorizování...</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="146"/>
+        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="147"/>
         <source>Getting storage...</source>
         <translation type="unfinished">Načítání uložiště...</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="206"/>
+        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="207"/>
         <source>Could not open file %1</source>
         <translation type="unfinished">Nelze otevřít soubor %1</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="318"/>
+        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="319"/>
         <source>File sent: %N (%S bytes)
 %U</source>
         <comment>Don&apos;t remove format arguments</comment>

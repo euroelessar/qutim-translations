@@ -84,7 +84,7 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="564"/>
         <source>Scientific/Technical Org.</source>
-        <translation type="unfinished">Věděcké/technické</translation>
+        <translation type="unfinished">Vědecké/technické</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="565"/>
@@ -422,7 +422,7 @@
     <message>
         <location filename="protocols/oscar/src/inforequest.cpp" line="91"/>
         <source>Work</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Práce</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/inforequest.cpp" line="93"/>
@@ -539,22 +539,22 @@
         <translation>Obecné</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/icqcontact.cpp" line="373"/>
+        <location filename="protocols/oscar/src/icqcontact.cpp" line="374"/>
         <source>Online time</source>
         <translation>Doba připojení</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/icqcontact.cpp" line="380"/>
+        <location filename="protocols/oscar/src/icqcontact.cpp" line="381"/>
         <source>Signed on</source>
         <translation>Přihlášený od</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/icqcontact.cpp" line="385"/>
+        <location filename="protocols/oscar/src/icqcontact.cpp" line="386"/>
         <source>Away since</source>
         <translation>Pryč od</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/icqcontact.cpp" line="390"/>
+        <location filename="protocols/oscar/src/icqcontact.cpp" line="391"/>
         <source>Reg. date</source>
         <translation>Datum registrace</translation>
     </message>
@@ -2701,17 +2701,17 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafield.cpp" line="98"/>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Základní</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafield.cpp" line="100"/>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Více</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafield.cpp" line="102"/>
         <source>Work</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Práce</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafield.cpp" line="104"/>
@@ -2856,7 +2856,7 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="635"/>
         <source>Zip code</source>
-        <translation type="unfinished"></translation>
+        <translation>PSČ</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="636"/>
@@ -2912,7 +2912,7 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="655"/>
         <source>Zip</source>
-        <translation type="unfinished"></translation>
+        <translation>PSČ</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="656"/>
@@ -2927,22 +2927,22 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="658"/>
         <source>Department</source>
-        <translation type="unfinished"></translation>
+        <translation>Oddělení</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="659"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozice</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="660"/>
         <source>Occupation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zaměstnání</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="661"/>
         <source>Webpage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Webová stránka</translation>
     </message>
 </context>
 <context>
@@ -3149,7 +3149,7 @@
         <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="209"/>
         <location filename="protocols/oscar/src/oscarplugin.cpp" line="53"/>
         <source>ICQ</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="202"/>
@@ -3171,7 +3171,7 @@
     <message>
         <location filename="protocols/oscar/src/oscarplugin.cpp" line="44"/>
         <source>Oscar</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/oscarplugin.cpp" line="45"/>
@@ -3186,7 +3186,7 @@
     <message>
         <location filename="protocols/oscar/src/oscarplugin.cpp" line="57"/>
         <source>ICQ account creator</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit ICQ účet</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/oscarplugin.cpp" line="58"/>
@@ -3375,12 +3375,12 @@
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="75"/>
         <source>Sender too evil</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odesílatel je příliš škodlivý</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="77"/>
         <source>Receiver too evil</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Příjemce je příliš škodlivý</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="79"/>
@@ -3390,7 +3390,7 @@
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="81"/>
         <source>No match</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nejsou stejná</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/connection.cpp" line="83"/>
@@ -3428,7 +3428,7 @@
     <message>
         <location filename="protocols/oscar/src/icqprotocol.cpp" line="66"/>
         <source>Icq account settings</source>
-        <translation type="unfinished">ICQ nastavení účtu</translation>
+        <translation>ICQ nastavení účtu</translation>
     </message>
 </context>
 <context>
@@ -3659,7 +3659,7 @@
     <message>
         <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="122"/>
         <source>Mobile</source>
-        <translation type="unfinished">Mobil</translation>
+        <translation>Mobil</translation>
     </message>
     <message>
         <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="125"/>
@@ -3684,12 +3684,12 @@
     <message>
         <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="137"/>
         <source>Love</source>
-        <translation type="unfinished">Láska</translation>
+        <translation>Láska</translation>
     </message>
     <message>
         <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="140"/>
         <source>Searching</source>
-        <translation type="unfinished">Vyhledávám</translation>
+        <translation>Vyhledávám</translation>
     </message>
     <message>
         <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="143"/>
@@ -3729,12 +3729,12 @@
     <message>
         <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="157"/>
         <source>Sport</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="158"/>
         <source>In tansport</source>
-        <translation type="unfinished">Jedu</translation>
+        <translation>Jedu</translation>
     </message>
 </context>
 <context>
@@ -3795,7 +3795,7 @@
     <message>
         <location filename="protocols/oscar/src/md5login.cpp" line="83"/>
         <source>No IP addresses were found for the host &apos;%1&apos;</source>
-        <translation type="unfinished">Nebyly nalezeny IP adresy pro hostitele &apos;%1&apos;</translation>
+        <translation>Nebyly nalezeny IP adresy pro hostitele &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
