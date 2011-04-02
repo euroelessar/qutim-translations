@@ -105,17 +105,15 @@
         <translation>Използване на пакети с икони от KDE</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>KDE Notifications</source>
-        <translation>KDE уведомления</translation>
+        <translation type="obsolete">KDE уведомления</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Uses KDE notifications</source>
-        <translation>Използване на KDE уведомления</translation>
+        <translation type="obsolete">Използване на KDE уведомления</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+6"/>
         <source>KDE Status Notifier</source>
         <translation>Уведомления за статуса в KDE</translation>
     </message>
@@ -161,7 +159,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../qutim-meta/plugins/kde-integration/src/kdeintegration.cpp" line="-31"/>
+        <location filename="../../qutim-meta/plugins/kde-integration/src/kdeintegration.cpp" line="-32"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
     </message>

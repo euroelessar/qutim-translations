@@ -1251,7 +1251,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileCreationPage</name>
     <message>
-        <location filename="../../qutim-meta/core/src/profilecreationpage.cpp" line="+97"/>
+        <location filename="../../qutim-meta/core/src/profilecreationpage.cpp" line="+103"/>
         <location line="+8"/>
         <source>Warning</source>
         <translation>Внимание</translation>
@@ -1265,6 +1265,11 @@ p, li { white-space: pre-wrap; }
         <location line="+7"/>
         <source>Unable to create profile hash</source>
         <translation>Невъзможно е създаването на хеш за профила</translation>
+    </message>
+    <message>
+        <location line="+121"/>
+        <source>Select path</source>
+        <translation>Избор на път</translation>
     </message>
 </context>
 <context>

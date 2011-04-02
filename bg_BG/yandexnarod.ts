@@ -226,7 +226,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>YandexNarodUploadJob</name>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="+123"/>
+        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="+124"/>
         <source>Authorizing...</source>
         <translation>Удостоверяване...</translation>
     </message>
