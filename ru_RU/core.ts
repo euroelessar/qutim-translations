@@ -439,7 +439,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+465"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+466"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
@@ -679,39 +679,32 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Направление</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="+26"/>
         <source>Title</source>
-        <translation>Название</translation>
+        <translation type="obsolete">Название</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>File name</source>
-        <translation>Имя файла</translation>
+        <translation type="obsolete">Имя файла</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>File size</source>
-        <translation>Размер файла</translation>
+        <translation type="obsolete">Размер файла</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Total size</source>
-        <translation>Общий размер</translation>
+        <translation type="obsolete">Общий размер</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Contact</source>
-        <translation>Контакт</translation>
+        <translation type="obsolete">Контакт</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Progress</source>
-        <translation>Прогресс</translation>
+        <translation type="obsolete">Прогресс</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>State</source>
-        <translation>Состояние</translation>
+        <translation type="obsolete">Состояние</translation>
     </message>
 </context>
 <context>
@@ -1105,14 +1098,14 @@ p, li { white-space: pre-wrap; }
         <translation>Отправить в</translation>
     </message>
     <message>
-        <location line="+240"/>
+        <location line="+244"/>
         <location line="+17"/>
         <source>Actions</source>
         <translation>Действия</translation>
     </message>
     <message>
-        <location line="-192"/>
-        <location line="+193"/>
+        <location line="-196"/>
+        <location line="+197"/>
         <source>Send</source>
         <translation>Отправить</translation>
     </message>
@@ -1294,28 +1287,28 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/filetransfer/filetransferdialog.cpp" line="+47"/>
         <source>Remove</source>
-        <translation type="unfinished">Удалить</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Stop</source>
-        <translation type="unfinished">Остановить</translation>
+        <translation>Остановить</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Open containing folder</source>
-        <translation type="unfinished">Открыть папку с файлом</translation>
+        <translation>Открыть папку с файлом</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Open</source>
-        <translation type="unfinished">Открыть</translation>
+        <translation>Открыть</translation>
     </message>
 </context>
 <context>
     <name>Core::FileTransferJobModel</name>
     <message>
-        <location filename="../../qutim/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="+128"/>
+        <location filename="../../qutim/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="+160"/>
         <source>From</source>
         <translation>От</translation>
     </message>
@@ -1659,7 +1652,17 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileCreationPage</name>
     <message>
-        <location filename="../../qutim/src/profilecreationpage.cpp" line="+103"/>
+        <location filename="../../qutim/src/profilecreationpage.cpp" line="+112"/>
+        <source>Error</source>
+        <translation>Ошибка</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Unable to create directory %1. Maybe you are trying to create a directory in a protected system directory</source>
+        <translation type="unfinished">Не удалось создать каталок %1. Возможно вы пытаетесь создать каталог в защищенной системной области</translation>
+    </message>
+    <message>
+        <location line="+13"/>
         <location line="+8"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
@@ -2106,23 +2109,23 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/simplecontactlist/widgets/symbiancontactlistwidget/symbianwidget.cpp" line="+66"/>
         <source>Search contact</source>
-        <translation type="unfinished">Найти контакт</translation>
+        <translation>Найти контакт</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Status</source>
-        <translation type="unfinished">Статус</translation>
+        <translation>Статус</translation>
     </message>
     <message>
         <location line="+31"/>
         <location line="+48"/>
         <source>Set Status Text</source>
-        <translation type="unfinished">Установить текст статуса</translation>
+        <translation>Установить текст статуса</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Actions</source>
-        <translation type="unfinished">Действия</translation>
+        <translation>Действия</translation>
     </message>
 </context>
 <context>
@@ -2130,22 +2133,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="+75"/>
         <source>Main Toolbar</source>
-        <translation type="unfinished">Главная панель</translation>
+        <translation>Главная панель</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Global status</source>
-        <translation type="unfinished">Общий статус</translation>
+        <translation>Общий статус</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set Status Text</source>
-        <translation type="unfinished">Установить текст статуса</translation>
+        <translation>Установить текст статуса</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Search contact</source>
-        <translation type="unfinished">Найти контакт</translation>
+        <translation>Найти контакт</translation>
     </message>
 </context>
 <context>
@@ -2168,27 +2171,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/filetransfer/simplefiletransfer.cpp" line="+179"/>
         <source>Incoming file</source>
-        <translation type="unfinished">Входящий файл</translation>
+        <translation>Входящий файл</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>%1 wants to send you %2 (%3)</source>
-        <translation type="unfinished">%1 отправил вам файл %2 (%3)</translation>
+        <translation>%1 отправил вам файл %2 (%3)</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Accept</source>
-        <translation type="unfinished">Принять</translation>
+        <translation>Принять</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ignore</source>
-        <translation type="unfinished">Отклонить</translation>
+        <translation>Отклонить</translation>
     </message>
     <message>
         <location line="+33"/>
         <source>Choose file for %1</source>
-        <translation type="unfinished">Выберите файл для %1</translation>
+        <translation>Выберите файл для %1</translation>
     </message>
 </context>
 <context>
@@ -2204,27 +2207,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/submitpage.cpp" line="+26"/>
         <source>Congratulations</source>
-        <translation type="unfinished">Поздравляем</translation>
+        <translation>Поздравляем</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>You&apos;ve just created a profile for qutIM. Click Finish to proceed to adding user accounts</source>
-        <translation type="unfinished">Профиль для qutIM успешно создан. Нажмите «Завершить» для добавления учетных записей в профиль</translation>
+        <translation>Профиль для qutIM успешно создан. Нажмите «Завершить» для добавления учетных записей в профиль</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Would you like to send details about your current setup?</source>
-        <translation type="unfinished">Желаете отправить информацию об установке?</translation>
+        <translation>Желаете отправить информацию об установке?</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Information to be transferred to the qutIM&apos;s authors:</source>
-        <translation type="unfinished">Информация для отправки разработчика qutIM:</translation>
+        <translation>Информация для отправки разработчика qutIM:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>&lt;b&gt;OS:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Short:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM Version:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt Version:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Screen resolution:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Country:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Language:&lt;/b&gt; %10 &lt;br /&gt;</source>
-        <translation type="unfinished">&lt;b&gt;ОС:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Кратко:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Полностью:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия библиотеки Qt:&lt;/b&gt; %5 (%6 бит) &lt;br /&gt;&lt;b&gt;Разрешение экрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Страна:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Язык:&lt;/b&gt; %10 &lt;br /&gt;</translation>
+        <translation>&lt;b&gt;ОС:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Кратко:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Полностью:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия библиотеки Qt:&lt;/b&gt; %5 (%6 бит) &lt;br /&gt;&lt;b&gt;Разрешение экрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Страна:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Язык:&lt;/b&gt; %10 &lt;br /&gt;</translation>
     </message>
 </context>
 <context>
@@ -2315,7 +2318,42 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+100"/>
         <source>Manage file transfers</source>
-        <translation type="unfinished">Управление передачей файлов</translation>
+        <translation>Управление передачей файлов</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="-135"/>
+        <source>Title</source>
+        <translation>Название</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>File name</source>
+        <translation>Имя файла</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>File size</source>
+        <translation>Размер файла</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Total size</source>
+        <translation>Общий размер</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Contact</source>
+        <translation>Контакт</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Progress</source>
+        <translation>Прогресс</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>State</source>
+        <translation>Состояние</translation>
     </message>
 </context>
 <context>
@@ -2635,7 +2673,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/mobileabout/mobileaboutdialog.ui" line="+14"/>
         <source>About qutIM</source>
-        <translation type="unfinished">О qutIM</translation>
+        <translation>О qutIM</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -2654,6 +2692,14 @@ p, li { white-space: pre-wrap; }
         <location line="+31"/>
         <source>Select account:</source>
         <translation>Выбор учетной записи:</translation>
+    </message>
+</context>
+<context>
+    <name>NetworkProxy</name>
+    <message>
+        <location filename="../../qutim/libqutim/networkproxy.cpp" line="+161"/>
+        <source>Type</source>
+        <translation>Тип</translation>
     </message>
 </context>
 <context>
@@ -3555,7 +3601,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Proxy</name>
     <message>
-        <location filename="../../qutim/libqutim/networkproxy.cpp" line="+80"/>
+        <location filename="../../qutim/libqutim/networkproxy.cpp" line="-81"/>
         <source>Host</source>
         <translation>Сервер</translation>
     </message>
@@ -3679,7 +3725,7 @@ p, li { white-space: pre-wrap; }
         <translation>Закрыть</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="+45"/>
+        <location filename="../../qutim/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="+174"/>
         <source>%1 GB</source>
         <translatorcomment>1024метра</translatorcomment>
         <translation>%1 ГиБ</translation>
@@ -3703,6 +3749,21 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/filetransfer/simplefiletransfer.cpp" line="-54"/>
         <source>Auto</source>
         <translation type="unfinished">Авто</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/libqutim/actiontoolbar.cpp" line="+31"/>
+        <source>ToolBar appearance</source>
+        <translation type="unfinished">Оформление панелей</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Icon size</source>
+        <translation type="unfinished">Размер пиктограмм</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Tool button style</source>
+        <translation type="unfinished">Стиль кнопок &quot;инструментов&quot;</translation>
     </message>
 </context>
 <context>
@@ -4264,6 +4325,11 @@ p, li { white-space: pre-wrap; }
         <source>Don&apos;t group messages after (sec):</source>
         <translation>Не группировать сообщения после (сек):</translation>
     </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/symbianchatform/settings/stackedchatbehavior.ui" line="+14"/>
+        <source>Notifications in active chat</source>
+        <translation type="unfinished">Все уведомления в активную вкладку</translation>
+    </message>
 </context>
 <context>
     <name>Status</name>
@@ -4382,6 +4448,11 @@ p, li { white-space: pre-wrap; }
         <source>Show menubar</source>
         <translation>Показывать панель меню</translation>
     </message>
+    <message>
+        <location line="+21"/>
+        <source>Show notifications in active chat</source>
+        <translation type="unfinished">Показывать уведомления о сообщении при активном</translation>
+    </message>
 </context>
 <context>
     <name>TagsFilterDialog</name>
@@ -4415,7 +4486,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="+4"/>
         <location line="+4"/>
         <source>Artist</source>
-        <translation type="unfinished">Художник</translation>
+        <translation>Художник</translation>
     </message>
 </context>
 <context>
@@ -4966,9 +5037,8 @@ en</source>
 <context>
     <name>qutim_sdk_0_3</name>
     <message>
-        <location filename="../../qutim/libqutim/networkproxy.cpp" line="-89"/>
         <source>Type</source>
-        <translation>Тип</translation>
+        <translation type="obsolete">Тип</translation>
     </message>
 </context>
 <context>
@@ -4989,19 +5059,16 @@ en</source>
 <context>
     <name>qutim_sdk_0_3::ActionToolBarPrivate</name>
     <message>
-        <location filename="../../qutim/libqutim/actiontoolbar.cpp" line="+31"/>
         <source>ToolBar appearance</source>
-        <translation>Оформление панелей</translation>
+        <translation type="obsolete">Оформление панелей</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Icon size</source>
-        <translation>Размер пиктограмм</translation>
+        <translation type="obsolete">Размер пиктограмм</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Tool button style</source>
-        <translation>Стиль кнопок &quot;инструментов&quot;</translation>
+        <translation type="obsolete">Стиль кнопок &quot;инструментов&quot;</translation>
     </message>
 </context>
 <context>
@@ -5017,48 +5084,48 @@ en</source>
     <message>
         <location filename="../../qutim/libqutim/filetransfer.cpp" line="+310"/>
         <source>Initiation</source>
-        <translation type="unfinished">Запуск</translation>
+        <translation>Запуск</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Started</source>
-        <translation type="unfinished">Запущено</translation>
+        <translation>Запущено</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Finished</source>
-        <translation type="unfinished">Завершено</translation>
+        <translation>Завершено</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error</source>
-        <translation type="unfinished">Ошибка</translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <location line="+2"/>
         <location line="+26"/>
         <source>Unknown</source>
-        <translation type="unfinished">Неизвестно</translation>
+        <translation>Неизвестно</translation>
     </message>
     <message>
         <location line="-8"/>
         <source>Network error</source>
-        <translation type="unfinished">Ошибка сети</translation>
+        <translation>Ошибка сети</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Canceled</source>
-        <translation type="unfinished">Отменено</translation>
+        <translation>Отменено</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not supported</source>
-        <translation type="unfinished">Не поддерживается</translation>
+        <translation>Не поддерживается</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Input/output error</source>
-        <translation type="unfinished">Ошибка ввода/вывода</translation>
+        <translation>Ошибка ввода/вывода</translation>
     </message>
 </context>
 <context>
@@ -5079,7 +5146,7 @@ en</source>
  %1</translation>
     </message>
     <message>
-        <location line="+131"/>
+        <location line="+132"/>
         <source>Could not init plugin: 
  %1</source>
         <translation>Не могу запустить плагин: 
