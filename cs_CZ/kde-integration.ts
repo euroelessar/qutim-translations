@@ -19,7 +19,7 @@
     <message>
         <location filename="plugins/kde-integration/src/aboutapp/kdeaboutappdialog.cpp" line="36"/>
         <source>About qutIM</source>
-        <translation type="unfinished">O qutIMu</translation>
+        <translation>O qutIMu</translation>
     </message>
 </context>
 <context>
@@ -40,7 +40,7 @@
     <message>
         <location filename="plugins/kde-integration/src/speller/kdespellersettings.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="plugins/kde-integration/src/speller/kdespellersettings.ui" line="29"/>
@@ -162,7 +162,7 @@
     <message>
         <location filename="plugins/kde-integration/src/notification/settings.ui" line="13"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="plugins/kde-integration/src/notification/settings.ui" line="23"/>

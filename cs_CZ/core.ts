@@ -29,7 +29,7 @@
     <message>
         <location filename="core/src/corelayers/accountcreator/accountcreatorlist.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -37,7 +37,7 @@
     <message>
         <location filename="core/src/corelayers/accountcreator/accountcreatorprotocols.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -99,7 +99,7 @@
     <message>
         <location filename="core/src/corelayers/addcontactdlg/addcontact.ui" line="47"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/addcontactdlg/addcontact.ui" line="57"/>
@@ -132,7 +132,7 @@
     <message>
         <location filename="core/src/corelayers/kineticpopups/src/settings/popupappearance.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/kineticpopups/src/settings/popupappearance.ui" line="45"/>
@@ -145,7 +145,7 @@
     <message>
         <location filename="core/src/corelayers/authdialog/authdialog.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/authdialog/authdialog.ui" line="39"/>
@@ -159,7 +159,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="core/src/corelayers/authdialog/authdialog.ui" line="53"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -201,7 +201,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="core/src/corelayers/notificationssettings/notifications.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/notificationssettings/notifications.ui" line="23"/>
@@ -1218,7 +1218,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/profilecreationpage.cpp" line="232"/>
         <source>Select path</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte cestu</translation>
     </message>
 </context>
 <context>
@@ -1764,7 +1764,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/idlestatuschanger/idlestatuswidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="core/src/corelayers/idlestatuschanger/idlestatuswidget.ui" line="32"/>
@@ -1888,7 +1888,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/localization/localizationsettings.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1930,7 +1930,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/migration02x03/migrationstartpage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/migration02x03/migrationstartpage.ui" line="20"/>
@@ -1958,7 +1958,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/mobileabout/mobileaboutdialog.ui" line="38"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2209,7 +2209,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/profilecreationpage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/profilecreationpage.ui" line="41"/>
@@ -2500,7 +2500,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/servicechooser/servicechooserwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2655,7 +2655,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/examples/simplesettingsdialog/settingsdialog.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2711,7 +2711,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/shortcutsettings/shortcutsettingswidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2762,7 +2762,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui" line="23"/>
@@ -2829,7 +2829,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/trayicon/simpletraysettings.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/trayicon/simpletraysettings.ui" line="32"/>
@@ -2895,7 +2895,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/soundthemeselector/soundthemeselector.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2904,7 +2904,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui" line="14"/>
         <location filename="core/src/corelayers/adiumchat/chatforms/symbianchatform/settings/stackedchatbehavior.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui" line="62"/>
@@ -3003,7 +3003,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui" line="38"/>
@@ -3099,7 +3099,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.ui" line="49"/>
@@ -3112,7 +3112,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/emoticonssettings/emoticonsselector.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3497,7 +3497,7 @@ en</source>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.ui" line="20"/>
@@ -3610,7 +3610,7 @@ en</source>
     <message>
         <location filename="core/src/corelayers/contactinfo/userinformation.ui" line="14"/>
         <source>userInformation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="core/src/corelayers/contactinfo/userinformation.ui" line="31"/>

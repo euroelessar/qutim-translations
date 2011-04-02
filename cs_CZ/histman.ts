@@ -14,7 +14,7 @@
     <message>
         <location filename="plugins/histman/src/chooseclientpage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -22,7 +22,7 @@
     <message>
         <location filename="plugins/histman/src/chooseordumppage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="plugins/histman/src/chooseordumppage.ui" line="20"/>
@@ -40,7 +40,7 @@
     <message>
         <location filename="plugins/histman/src/clientconfigpage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="plugins/histman/src/clientconfigpage.ui" line="20"/>
@@ -74,7 +74,7 @@
     <message>
         <location filename="plugins/histman/src/dumphistorypage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="plugins/histman/src/dumphistorypage.ui" line="20"/>
@@ -231,7 +231,7 @@
     <message>
         <location filename="plugins/histman/src/historymanagerwindow.ui" line="16"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -239,7 +239,7 @@
     <message>
         <location filename="plugins/histman/src/importhistorypage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>

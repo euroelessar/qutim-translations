@@ -220,7 +220,7 @@
     <message>
         <location filename="protocols/vkontakte/src/ui/vaccountwizardpage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/vkontakte/src/ui/vaccountwizardpage.ui" line="26"/>
@@ -259,7 +259,7 @@
     <message>
         <location filename="protocols/vkontakte/plugins/wall/vwallsession.cpp" line="171"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neznámý</translation>
     </message>
     <message>
         <location filename="protocols/vkontakte/plugins/wall/vwallsession.cpp" line="173"/>

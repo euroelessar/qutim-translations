@@ -6,7 +6,7 @@
     <message>
         <location filename="protocols/oscar/src/ui/addaccountform.ui" line="14"/>
         <source>AddAccountForm</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/ui/addaccountform.ui" line="25"/>
@@ -1901,7 +1901,7 @@
     <message>
         <location filename="protocols/oscar/src/ui/icqaccountmainsettings.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/ui/icqaccountmainsettings.ui" line="23"/>

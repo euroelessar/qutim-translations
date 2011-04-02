@@ -66,7 +66,7 @@ Pro úplné vytvoření účtu pokračujte stisknutím tlačítka Dokončit</tra
     <message>
         <location filename="protocols/quetzal/src/quatzelactiondialog.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>

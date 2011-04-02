@@ -6,7 +6,7 @@
     <message>
         <location filename="protocols/mrim/src/ui/wizards/accountwizardmain.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/mrim/src/ui/wizards/accountwizardmain.ui" line="20"/>
@@ -106,7 +106,7 @@ Reason: %1</source>
     <message>
         <location filename="protocols/mrim/src/base/messages.cpp" line="146"/>
         <source>Internal error</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnitřní chyba</translation>
     </message>
     <message>
         <location filename="protocols/mrim/src/base/messages.cpp" line="155"/>

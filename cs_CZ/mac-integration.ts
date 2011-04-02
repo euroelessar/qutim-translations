@@ -14,7 +14,7 @@
     <message>
         <location filename="plugins/mac-integration/src/idle/macidlewidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="plugins/mac-integration/src/idle/macidlewidget.ui" line="32"/>

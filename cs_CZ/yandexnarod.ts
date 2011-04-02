@@ -220,7 +220,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarodmanage.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarodmanage.ui" line="71"/>

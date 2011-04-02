@@ -157,7 +157,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="plugins/nowplaying/src/nowplayingsettings.ui" line="17"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="plugins/nowplaying/src/nowplayingsettings.ui" line="36"/>
@@ -167,7 +167,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="plugins/nowplaying/src/nowplayingsettings.ui" line="42"/>
         <source>Current plugin status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuální stav pluginu:</translation>
     </message>
     <message>
         <location filename="plugins/nowplaying/src/nowplayingsettings.ui" line="49"/>

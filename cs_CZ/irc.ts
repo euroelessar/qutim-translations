@@ -6,7 +6,7 @@
     <message>
         <location filename="protocols/irc/src/ui/addaccountform.ui" line="14"/>
         <source>AddAccountForm</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ui/addaccountform.ui" line="44"/>
@@ -72,7 +72,7 @@
     <message>
         <location filename="protocols/irc/src/ui/editnickform.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ui/editnickform.ui" line="44"/>
@@ -456,7 +456,7 @@
     <message>
         <location filename="protocols/irc/src/ui/ircchannellist.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -887,8 +887,6 @@ Please wait a while and try again.</source>
         <location filename="protocols/irc/src/ircstandartctpchandler.cpp" line="68"/>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>

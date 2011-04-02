@@ -633,7 +633,7 @@
     <message>
         <location filename="protocols/jabber/src/protocol/jaccountwizardpage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/jaccountwizardpage.ui" line="31"/>
@@ -643,7 +643,7 @@
     <message>
         <location filename="protocols/jabber/src/protocol/jaccountwizardpage.ui" line="49"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/jaccountwizardpage.ui" line="68"/>
@@ -661,7 +661,7 @@
     <message>
         <location filename="protocols/jabber/src/protocol/modules/adhoc/jadhocwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -717,7 +717,7 @@
     <message>
         <location filename="protocols/jabber/src/protocol/jmainsettings.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/jmainsettings.ui" line="35"/>
@@ -929,7 +929,7 @@
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="151"/>
@@ -1100,7 +1100,7 @@
     <message>
         <location filename="protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="20"/>
@@ -1964,7 +1964,7 @@
     <message>
         <location filename="protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui" line="58"/>
@@ -1987,7 +1987,7 @@
     <message>
         <location filename="protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.ui" line="14"/>
         <source>jServiceBrowser</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.ui" line="31"/>
@@ -2112,7 +2112,7 @@
     <message>
         <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="33"/>
