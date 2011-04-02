@@ -14,20 +14,16 @@
     <message>
         <location filename="plugins/weather/src/weather.cpp" line="29"/>
         <source>Weather plugin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Počasí (plugin)</translation>
     </message>
     <message>
         <location filename="plugins/weather/src/weather.cpp" line="30"/>
         <source>Plugin shows a current weather in your city.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugin zobrazuje aktuální počasí ve vaší obci.</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
-    <message>
-        <source>Author</source>
-        <translation type="obsolete">Autor</translation>
-    </message>
     <message>
         <location filename="plugins/weather/src/weather.cpp" line="27"/>
         <source>Developer</source>
@@ -60,7 +56,7 @@
     <message>
         <location filename="plugins/weather/src/wsettings.ui" line="82"/>
         <source>Refresh period:</source>
-        <translation type="unfinished">Obnovovat po:</translation>
+        <translation>Obnovovat po:</translation>
     </message>
     <message>
         <location filename="plugins/weather/src/wsettings.ui" line="99"/>

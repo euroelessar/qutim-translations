@@ -3868,7 +3868,7 @@
     <message>
         <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="416"/>
         <source>Show contact X-Status icon</source>
-        <translation type="unfinished">Zobrazit X-Status ikony</translation>
+        <translation type="unfinished">Zobrazit X-Status ikonu</translation>
     </message>
 </context>
 <context>

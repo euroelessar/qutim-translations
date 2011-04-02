@@ -39,7 +39,7 @@
     <message>
         <location filename="plugins/nowplaying/src/icqsettings.ui" line="36"/>
         <source>Changes current X-status message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Změnit současnou X-status zprávu</translation>
     </message>
     <message>
         <location filename="plugins/nowplaying/src/icqsettings.ui" line="46"/>
@@ -101,7 +101,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="plugins/nowplaying/src/jabbersettings.ui" line="46"/>
         <source>Info to be presented</source>
-        <translation type="unfinished"></translation>
+        <translation>Informace pro zobrazení</translation>
     </message>
     <message>
         <location filename="plugins/nowplaying/src/jabbersettings.ui" line="52"/>
@@ -111,7 +111,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="plugins/nowplaying/src/jabbersettings.ui" line="59"/>
         <source>Track number</source>
-        <translation type="unfinished"></translation>
+        <translation>Číslo stopy</translation>
     </message>
     <message>
         <location filename="plugins/nowplaying/src/jabbersettings.ui" line="66"/>
@@ -121,7 +121,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="plugins/nowplaying/src/jabbersettings.ui" line="73"/>
         <source>Track length</source>
-        <translation type="unfinished"></translation>
+        <translation>Délka stopy</translation>
     </message>
     <message>
         <location filename="plugins/nowplaying/src/jabbersettings.ui" line="80"/>
@@ -131,7 +131,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="plugins/nowplaying/src/jabbersettings.ui" line="87"/>
         <source>Path to file</source>
-        <translation type="unfinished">Cesta k souboru</translation>
+        <translation>Cesta k souboru</translation>
     </message>
 </context>
 <context>
@@ -225,10 +225,6 @@ p, li { white-space: pre-wrap; }
 </context>
 <context>
     <name>Task</name>
-    <message>
-        <source>Author</source>
-        <translation type="obsolete">Autor</translation>
-    </message>
     <message>
         <location filename="plugins/nowplaying/src/nowplaying.cpp" line="33"/>
         <location filename="plugins/nowplaying/src/nowplaying.cpp" line="36"/>

@@ -38,10 +38,6 @@
 <context>
     <name>Task</name>
     <message>
-        <source>Author</source>
-        <translation type="obsolete">Autor</translation>
-    </message>
-    <message>
         <location filename="plugins/antiboss/src/antibossplugin.cpp" line="30"/>
         <source>Developer</source>
         <translation>Vývojář</translation>

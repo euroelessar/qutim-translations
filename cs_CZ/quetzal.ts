@@ -90,11 +90,4 @@ Pro úplné vytvoření účtu pokračujte stisknutím tlačítka Dokončit</tra
         <translation>Obecné</translation>
     </message>
 </context>
-<context>
-    <name>Task</name>
-    <message>
-        <source>Author</source>
-        <translation type="obsolete">Autor</translation>
-    </message>
-</context>
 </TS>
