@@ -3068,4 +3068,20 @@
     <source>Artist</source>
     <target>Артист</target>
 </phrase>
+<phrase>
+    <source>Title</source>
+    <target>Заглавие</target>
+</phrase>
+<phrase>
+    <source>Contact</source>
+    <target>Контакт</target>
+</phrase>
+<phrase>
+    <source>Progress</source>
+    <target>Напредък</target>
+</phrase>
+<phrase>
+    <source>State</source>
+    <target>Състояние</target>
+</phrase>
 </QPH>

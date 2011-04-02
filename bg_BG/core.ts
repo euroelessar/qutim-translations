@@ -335,7 +335,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+465"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+466"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -821,14 +821,14 @@ p, li { white-space: pre-wrap; }
         <translation>Изпращане до</translation>
     </message>
     <message>
-        <location line="+240"/>
+        <location line="+244"/>
         <location line="+17"/>
         <source>Actions</source>
         <translation>Действия</translation>
     </message>
     <message>
-        <location line="-192"/>
-        <location line="+193"/>
+        <location line="-196"/>
+        <location line="+197"/>
         <source>Send</source>
         <translation>Изпращане</translation>
     </message>
@@ -1251,7 +1251,17 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileCreationPage</name>
     <message>
-        <location filename="../../qutim-meta/core/src/profilecreationpage.cpp" line="+103"/>
+        <location filename="../../qutim-meta/core/src/profilecreationpage.cpp" line="+112"/>
+        <source>Error</source>
+        <translation>Грешка</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Unable to create directory %1. Maybe you are trying to create a directory in a protected system directory</source>
+        <translation>Невъзможно е да бъде създадена директорията %1. Вероятно се опитвате да сторите това в защитена системна директория</translation>
+    </message>
+    <message>
+        <location line="+13"/>
         <location line="+8"/>
         <source>Warning</source>
         <translation>Внимание</translation>
@@ -1811,6 +1821,41 @@ p, li { white-space: pre-wrap; }
         <source>Manage file transfers</source>
         <translation>Управление на предаването на файлове</translation>
     </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="-135"/>
+        <source>Title</source>
+        <translation>Заглавие</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>File name</source>
+        <translation>Име на файла</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>File size</source>
+        <translation>Размер на файла</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Total size</source>
+        <translation>Общ размер</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Contact</source>
+        <translation>Контакт</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Progress</source>
+        <translation>Напредък</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>State</source>
+        <translation>Състояние</translation>
+    </message>
 </context>
 <context>
     <name>FileTransferDialog</name>
@@ -2098,6 +2143,14 @@ p, li { white-space: pre-wrap; }
         <location line="+31"/>
         <source>Select account:</source>
         <translation>Избор на сметка:</translation>
+    </message>
+</context>
+<context>
+    <name>NetworkProxy</name>
+    <message>
+        <location filename="../../qutim-meta/core/libqutim/networkproxy.cpp" line="+161"/>
+        <source>Type</source>
+        <translation>Тип</translation>
     </message>
 </context>
 <context>
@@ -2406,7 +2459,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Proxy</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/networkproxy.cpp" line="+80"/>
+        <location filename="../../qutim-meta/core/libqutim/networkproxy.cpp" line="-81"/>
         <source>Host</source>
         <translation>Хост</translation>
     </message>
@@ -2537,7 +2590,7 @@ p, li { white-space: pre-wrap; }
         <translation>Затваряне</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="+45"/>
+        <location filename="../../qutim-meta/core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="+174"/>
         <source>%1 GB</source>
         <translation></translation>
     </message>
@@ -2560,6 +2613,21 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="-54"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/libqutim/actiontoolbar.cpp" line="+31"/>
+        <source>ToolBar appearance</source>
+        <translation>Облик на лентата с инструменти</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Icon size</source>
+        <translation>Размер на иконите</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Tool button style</source>
+        <translation>Стил на бутоните</translation>
     </message>
 </context>
 <context>
@@ -3069,6 +3137,11 @@ p, li { white-space: pre-wrap; }
         <source>Don&apos;t group messages after (sec):</source>
         <translation>Да не се групират съобщенията след (след):</translation>
     </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatforms/symbianchatform/settings/stackedchatbehavior.ui" line="+14"/>
+        <source>Notifications in active chat</source>
+        <translation>Уведомления в активния прозорец със съобщения</translation>
+    </message>
 </context>
 <context>
     <name>Status</name>
@@ -3183,6 +3256,11 @@ p, li { white-space: pre-wrap; }
         <location line="+7"/>
         <source>Show menubar</source>
         <translation>Показване на лентата с менюто</translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>Show notifications in active chat</source>
+        <translation>Показване на уведомления в активния прозорец със съобщения</translation>
     </message>
 </context>
 <context>
@@ -3642,27 +3720,23 @@ en</source>
 <context>
     <name>qutim_sdk_0_3</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/networkproxy.cpp" line="-89"/>
         <source>Type</source>
-        <translation>Тип</translation>
+        <translation type="obsolete">Тип</translation>
     </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::ActionToolBarPrivate</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/actiontoolbar.cpp" line="+31"/>
         <source>ToolBar appearance</source>
-        <translation>Облик на лентата с инструменти</translation>
+        <translation type="obsolete">Облик на лентата с инструменти</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Icon size</source>
-        <translation>Размер на иконите</translation>
+        <translation type="obsolete">Размер на иконите</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Tool button style</source>
-        <translation>Стил на бутоните</translation>
+        <translation type="obsolete">Стил на бутоните</translation>
     </message>
 </context>
 <context>
@@ -3732,7 +3806,7 @@ en</source>
  %1</translation>
     </message>
     <message>
-        <location line="+131"/>
+        <location line="+132"/>
         <source>Could not init plugin: 
  %1</source>
         <translation>Неуспешно инициализиране на добавка: 
