@@ -34,7 +34,7 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="554"/>
         <source>Charity Org.</source>
-        <translation type="unfinished">Charitativní</translation>
+        <translation>Charitativní</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="555"/>
@@ -49,17 +49,17 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="557"/>
         <source>Cultural Org.</source>
-        <translation type="unfinished">Kulturní</translation>
+        <translation>Kulturní</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="558"/>
         <source>Fan Clubs</source>
-        <translation type="unfinished">Fankluby</translation>
+        <translation>Fankluby</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="559"/>
         <source>Fraternity/Sorority</source>
-        <translation type="unfinished">Bratrstvo/sesterstvo</translation>
+        <translation>Bratrstvo/sesterstvo</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="560"/>
@@ -69,12 +69,12 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="561"/>
         <source>International Org.</source>
-        <translation type="unfinished">Mezinárodní</translation>
+        <translation>Mezinárodní</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="562"/>
         <source>Nature and Environment Org.</source>
-        <translation type="unfinished">Příroda a životní prostředí</translation>
+        <translation>Příroda a životní prostředí</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="563"/>
@@ -84,7 +84,7 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="564"/>
         <source>Scientific/Technical Org.</source>
-        <translation type="unfinished">Vědecké/technické</translation>
+        <translation>Vědecké/technické</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="565"/>
@@ -99,17 +99,17 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="567"/>
         <source>Sports Org.</source>
-        <translation type="unfinished">Sportovní</translation>
+        <translation>Sportovní</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="568"/>
         <source>Support Org.</source>
-        <translation type="unfinished">Podpora</translation>
+        <translation>Podpora</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="569"/>
         <source>Trade and Business Org.</source>
-        <translation type="unfinished">Obchod a podnikání</translation>
+        <translation>Obchod a podnikání</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="570"/>
@@ -119,7 +119,7 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="571"/>
         <source>Volunteer Org.</source>
-        <translation type="unfinished">Dobrovolnické</translation>
+        <translation>Dobrovolnické</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="572"/>
@@ -407,7 +407,7 @@
     <message>
         <location filename="protocols/oscar/src/inforequest.cpp" line="67"/>
         <source>Home</source>
-        <translation type="unfinished">V domácnosti</translation>
+        <translation type="unfinished">Bydliště</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/inforequest.cpp" line="69"/>
@@ -417,12 +417,12 @@
     <message>
         <location filename="protocols/oscar/src/inforequest.cpp" line="81"/>
         <source>Originally from</source>
-        <translation type="unfinished"></translation>
+        <translation>Původně z</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/inforequest.cpp" line="91"/>
         <source>Work</source>
-        <translation type="unfinished">Práce</translation>
+        <translation type="unfinished">Změstnání</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/inforequest.cpp" line="93"/>
@@ -438,7 +438,7 @@
         <location filename="protocols/oscar/src/inforequest.cpp" line="116"/>
         <location filename="protocols/oscar/src/inforequest.cpp" line="118"/>
         <source>Personal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Osobní</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/inforequest.cpp" line="132"/>
@@ -503,7 +503,7 @@
     <message>
         <location filename="protocols/oscar/src/inforequest.cpp" line="164"/>
         <source>Client features</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Funkce klienta</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/inforequest.cpp" line="166"/>
@@ -1939,22 +1939,22 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="483"/>
         <source>Agriculture</source>
-        <translation type="unfinished">Zemědělství</translation>
+        <translation>Zemědělství</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="484"/>
         <source>Arts</source>
-        <translation type="unfinished">Umění</translation>
+        <translation>Umění</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="485"/>
         <source>Construction</source>
-        <translation type="unfinished">Stavebnictví</translation>
+        <translation>Stavebnictví</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="486"/>
         <source>Consumer Goods</source>
-        <translation type="unfinished">Spotřební zboží</translation>
+        <translation>Spotřební zboží</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="487"/>
@@ -1964,17 +1964,17 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="488"/>
         <source>Education</source>
-        <translation type="unfinished">Vzdělávání</translation>
+        <translation>Vzdělávání</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="489"/>
         <source>Finance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Finančnictví</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="490"/>
         <source>Government</source>
-        <translation type="unfinished">Státní správa</translation>
+        <translation>Státní správa</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="491"/>
@@ -1989,12 +1989,12 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="493"/>
         <source>Manufacturing</source>
-        <translation type="unfinished">Výroba</translation>
+        <translation>Výroba</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="494"/>
         <source>Media</source>
-        <translation type="unfinished">Média</translation>
+        <translation>Média</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="495"/>
@@ -2052,12 +2052,12 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="283"/>
         <source>Art</source>
-        <translation type="unfinished">Umění</translation>
+        <translation>Umění</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="284"/>
         <source>Astronomy</source>
-        <translation type="unfinished">Astronomie</translation>
+        <translation>Astronomie</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="285"/>
@@ -2077,42 +2077,42 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="288"/>
         <source>Cars</source>
-        <translation type="unfinished">Automobily</translation>
+        <translation>Automobily</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="289"/>
         <source>Celebrity Fans</source>
-        <translation type="unfinished">Fankluby</translation>
+        <translation>Fankluby</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="290"/>
         <source>Clothing</source>
-        <translation type="unfinished">Móda</translation>
+        <translation>Móda</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="291"/>
         <source>Collections</source>
-        <translation type="unfinished">Sběratelství</translation>
+        <translation>Sběratelství</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="292"/>
         <source>Computers</source>
-        <translation type="unfinished">Počítače</translation>
+        <translation>Počítače</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="293"/>
         <source>Culture</source>
-        <translation type="unfinished">Kultura</translation>
+        <translation>Kultura</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="294"/>
         <source>Ecology</source>
-        <translation type="unfinished">Ekologie</translation>
+        <translation>Ekologie</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="295"/>
         <source>Entertainment</source>
-        <translation type="unfinished">Zábava</translation>
+        <translation>Zábava</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="296"/>
@@ -2132,17 +2132,17 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="299"/>
         <source>Hobbies</source>
-        <translation type="unfinished">Koníčky</translation>
+        <translation>Koníčky</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="300"/>
         <source>Home Automation</source>
-        <translation type="unfinished">Domácí spotřebiče</translation>
+        <translation>Domácí spotřebiče</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="301"/>
         <source>Household Products</source>
-        <translation type="unfinished">Potřeby pro domácnost</translation>
+        <translation>Potřeby pro domácnost</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="302"/>
@@ -2152,12 +2152,12 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="303"/>
         <source>Government</source>
-        <translation type="unfinished">Státní správa</translation>
+        <translation>Státní správa</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="304"/>
         <source>ICQ - Help</source>
-        <translation type="unfinished">ICQ - Pomoc</translation>
+        <translation>ICQ - Pomoc</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="305"/>
@@ -2167,37 +2167,37 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="306"/>
         <source>Lifestyle</source>
-        <translation type="unfinished">Životní styl</translation>
+        <translation>Životní styl</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="307"/>
         <source>Mail Order Catalog</source>
-        <translation type="unfinished">Objednávkové katalogy</translation>
+        <translation>Objednávkové katalogy</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="308"/>
         <source>Media</source>
-        <translation type="unfinished">Média</translation>
+        <translation>Média</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="309"/>
         <source>Movies and TV</source>
-        <translation type="unfinished">Filmy a TV</translation>
+        <translation>Filmy a TV</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="310"/>
         <source>Music</source>
-        <translation type="unfinished">Hudba</translation>
+        <translation>Hudba</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="311"/>
         <source>Mystics</source>
-        <translation type="unfinished">Záhady</translation>
+        <translation>Záhady</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="312"/>
         <source>News and Media</source>
-        <translation type="unfinished">Noviny a časopisy</translation>
+        <translation>Noviny a časopisy</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="313"/>
@@ -2207,17 +2207,17 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="314"/>
         <source>Parenting</source>
-        <translation type="unfinished">Rodičovství</translation>
+        <translation>Rodičovství</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="315"/>
         <source>Parties</source>
-        <translation type="unfinished">Večírky</translation>
+        <translation>Večírky</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="316"/>
         <source>Pets and Animals</source>
-        <translation type="unfinished">Mazlíčci a zvířátka</translation>
+        <translation>Mazlíčci a zvířátka</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="317"/>
@@ -2227,7 +2227,7 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="318"/>
         <source>Religion</source>
-        <translation type="unfinished">Náboženství</translation>
+        <translation>Náboženství</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="319"/>
@@ -2237,7 +2237,7 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="320"/>
         <source>Science</source>
-        <translation type="unfinished">Věda</translation>
+        <translation>Věda</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="321"/>
@@ -2247,37 +2247,37 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="322"/>
         <source>Social science</source>
-        <translation type="unfinished">Společenské vědy</translation>
+        <translation>Společenské vědy</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="323"/>
         <source>Space</source>
-        <translation type="unfinished">Vesmír</translation>
+        <translation>Vesmír</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="324"/>
         <source>Sporting and Athletic</source>
-        <translation type="unfinished">Sportování a atletika</translation>
+        <translation>Sportování a atletika</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="325"/>
         <source>Sports</source>
-        <translation type="unfinished">Sporty</translation>
+        <translation>Sporty</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="326"/>
         <source>Travel</source>
-        <translation type="unfinished">Cestování</translation>
+        <translation>Cestování</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="327"/>
         <source>Web Design</source>
-        <translation type="unfinished">Webový design</translation>
+        <translation>Webový design</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="328"/>
         <source>Women</source>
-        <translation type="unfinished">Ženy</translation>
+        <translation>Ženy</translation>
     </message>
 </context>
 <context>

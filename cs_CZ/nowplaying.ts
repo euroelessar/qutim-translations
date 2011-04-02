@@ -131,7 +131,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="plugins/nowplaying/src/jabbersettings.ui" line="87"/>
         <source>Path to file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cesta k souboru</translation>
     </message>
 </context>
 <context>
@@ -172,12 +172,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="plugins/nowplaying/src/nowplayingsettings.ui" line="49"/>
         <source>Is working</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pracuje</translation>
     </message>
     <message>
         <location filename="plugins/nowplaying/src/nowplayingsettings.ui" line="56"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastavit</translation>
     </message>
     <message>
         <location filename="plugins/nowplaying/src/nowplayingsettings.ui" line="83"/>
@@ -242,27 +242,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="plugins/nowplaying/src/settingsui.cpp" line="53"/>
         <source>No player</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádný přehrávač</translation>
     </message>
     <message>
         <location filename="plugins/nowplaying/src/settingsui.cpp" line="160"/>
         <source>working</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pracuje</translation>
     </message>
     <message>
         <location filename="plugins/nowplaying/src/settingsui.cpp" line="161"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastavit</translation>
     </message>
     <message>
         <location filename="plugins/nowplaying/src/settingsui.cpp" line="163"/>
         <source>not working</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nepracuje</translation>
     </message>
     <message>
         <location filename="plugins/nowplaying/src/settingsui.cpp" line="164"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustit</translation>
     </message>
 </context>
 </TS>
