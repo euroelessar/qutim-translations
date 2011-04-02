@@ -1659,7 +1659,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileCreationPage</name>
     <message>
-        <location filename="../../qutim/src/profilecreationpage.cpp" line="+97"/>
+        <location filename="../../qutim/src/profilecreationpage.cpp" line="+103"/>
         <location line="+8"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
@@ -1670,12 +1670,17 @@ p, li { white-space: pre-wrap; }
         <translation>Профиль уже существует, перезаписать?</translation>
     </message>
     <message>
+        <location line="+128"/>
+        <source>Select path</source>
+        <translation type="unfinished">Укажите путь</translation>
+    </message>
+    <message>
         <source>Profile hash is already exist, override?</source>
         <translatorcomment>какой смысл фразы???</translatorcomment>
         <translation type="obsolete">Хэш профиля уже существует, переопределить?</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="-121"/>
         <source>Unable to create profile hash</source>
         <translation>Не удалось создать хэш профиля</translation>
     </message>

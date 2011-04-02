@@ -557,7 +557,7 @@
         <translation>Главные</translation>
     </message>
     <message>
-        <location line="+245"/>
+        <location line="+246"/>
         <source>Online time</source>
         <translation>В сети</translation>
     </message>

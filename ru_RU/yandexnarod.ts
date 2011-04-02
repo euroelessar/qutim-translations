@@ -260,7 +260,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>YandexNarodUploadJob</name>
     <message>
-        <location filename="../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="+123"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="+124"/>
         <source>Authorizing...</source>
         <translation type="unfinished">Авторизация...</translation>
     </message>

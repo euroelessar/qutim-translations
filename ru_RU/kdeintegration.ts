@@ -101,17 +101,15 @@
         <translation>Использует движок KDE для пиктограмм</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>KDE Notifications</source>
-        <translation>Уведомления KDE</translation>
+        <translation type="obsolete">Уведомления KDE</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Uses KDE notifications</source>
-        <translation>Модуль уведомлений KDE</translation>
+        <translation type="obsolete">Модуль уведомлений KDE</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+6"/>
         <source>KDE Status Notifier</source>
         <translation>Уведомления KDE</translation>
     </message>
@@ -158,7 +156,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../plugins/kde-integration/src/kdeintegration.cpp" line="-31"/>
+        <location filename="../../plugins/kde-integration/src/kdeintegration.cpp" line="-32"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
     </message>
