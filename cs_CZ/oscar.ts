@@ -422,7 +422,7 @@
     <message>
         <location filename="protocols/oscar/src/inforequest.cpp" line="91"/>
         <source>Work</source>
-        <translation type="unfinished">Změstnání</translation>
+        <translation>Zaměstnání</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/inforequest.cpp" line="93"/>
@@ -1242,7 +1242,7 @@
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="147"/>
         <source>Liechtenstein</source>
-        <translation>Lichtnštejnsko</translation>
+        <translation>Lichtenštejnsko</translation>
     </message>
     <message>
         <location filename="protocols/oscar/src/metainfo/metafields.cpp" line="148"/>
@@ -3868,7 +3868,7 @@
     <message>
         <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="416"/>
         <source>Show contact X-Status icon</source>
-        <translation type="unfinished">Zobrazit X-Status ikony</translation>
+        <translation type="unfinished">Zobrazit X-Status ikonu</translation>
     </message>
 </context>
 <context>

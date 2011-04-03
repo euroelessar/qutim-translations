@@ -35,7 +35,7 @@
         <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="46"/>
         <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="62"/>
         <source>Send files via Yandex.Narod filehosting service</source>
-        <translation type="unfinished">Poslat soubory přes hostovací službu souborů Yandex.Narod</translation>
+        <translation>Poslat soubory pomocí služby serveru Yandex.Narod</translation>
     </message>
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="61"/>
@@ -134,7 +134,7 @@
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarodsettings.ui" line="88"/>
         <source>status</source>
-        <translation type="unfinished">stav</translation>
+        <translation>stav</translation>
     </message>
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarodsettings.ui" line="111"/>
@@ -148,7 +148,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarodsettings.ui" line="122"/>
         <source>Send file template</source>
-        <translation type="unfinished">Šablona odesílání souboru</translation>
+        <translation>Šablona odeslání souboru</translation>
     </message>
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarodsettings.ui" line="135"/>
@@ -176,7 +176,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="207"/>
         <source>Could not open file %1</source>
-        <translation type="unfinished">Nelze otevřít soubor %1</translation>
+        <translation>Nelze otevřít soubor %1</translation>
     </message>
     <message>
         <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="319"/>
@@ -212,7 +212,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="plugins/yandexnarod/src/requestauthdialog.ui" line="92"/>
         <source>Captcha:</source>
-        <translation type="unfinished"></translation>
+        <translation>CAPTCHA:</translation>
     </message>
 </context>
 <context>
@@ -251,7 +251,7 @@ p, li { white-space: pre-wrap; }
         <location filename="plugins/yandexnarod/src/yandexnarodmanage.ui" line="210"/>
         <source>line1
 line2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarodmanage.ui" line="252"/>

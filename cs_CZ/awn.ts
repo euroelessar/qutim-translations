@@ -55,10 +55,6 @@
 <context>
     <name>Task</name>
     <message>
-        <source>Author</source>
-        <translation type="obsolete">Autor</translation>
-    </message>
-    <message>
         <location filename="plugins/awn/src/awn.cpp" line="28"/>
         <source>Developer</source>
         <translation>Vývojář</translation>

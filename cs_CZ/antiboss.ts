@@ -32,15 +32,11 @@
     <message>
         <location filename="plugins/antiboss/src/antibossplugin.cpp" line="33"/>
         <source>Plugin makes your chatting invisible for boss</source>
-        <translation>Plugin vytváří konverzaci nevidilnou pro šéfa</translation>
+        <translation>Plugin vytváří konverzaci neviditelnou pro šéfa</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
-    <message>
-        <source>Author</source>
-        <translation type="obsolete">Autor</translation>
-    </message>
     <message>
         <location filename="plugins/antiboss/src/antibossplugin.cpp" line="30"/>
         <source>Developer</source>

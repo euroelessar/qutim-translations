@@ -327,12 +327,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="465"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="466"/>
         <source>Auto</source>
         <translation>Automaticky</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="475"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="476"/>
         <source>Last active</source>
         <translation>Poslední aktivní</translation>
     </message>
@@ -342,7 +342,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="core/src/corelayers/authdialog/authdialogimpl_p.h" line="27"/>
         <source>Recieved authorizarion request from %1:</source>
-        <translation>Požadována autoriazace od %1:</translation>
+        <translation>Požadována autorizace od %1:</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/authdialog/authdialogimpl_p.h" line="31"/>
@@ -733,7 +733,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="57"/>
         <source>Conference participants</source>
-        <translation>Učastníci konference</translation>
+        <translation>Účastníci konference</translation>
     </message>
 </context>
 <context>
@@ -794,14 +794,14 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Odeslat do</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatwidget.cpp" line="277"/>
-        <location filename="core/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatwidget.cpp" line="294"/>
+        <location filename="core/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatwidget.cpp" line="281"/>
+        <location filename="core/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatwidget.cpp" line="298"/>
         <source>Actions</source>
         <translation>Akce</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatwidget.cpp" line="102"/>
-        <location filename="core/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatwidget.cpp" line="295"/>
+        <location filename="core/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatwidget.cpp" line="299"/>
         <source>Send</source>
         <translation type="unfinished">Odeslat</translation>
     </message>
@@ -982,29 +982,29 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::KineticPopups::PopupAppearance</name>
     <message>
-        <location filename="core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="38"/>
-        <location filename="core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="106"/>
-        <location filename="core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="115"/>
+        <location filename="core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="39"/>
+        <location filename="core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="107"/>
+        <location filename="core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="116"/>
         <source>Preview</source>
         <translation>Náhled</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="106"/>
+        <location filename="core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="107"/>
         <source>This is a simple popup</source>
         <translation>Toto je jednoduché oznamovací okno</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="107"/>
+        <location filename="core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="108"/>
         <source>Simple message</source>
         <translation>Jednoduchá zpráva</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="108"/>
+        <location filename="core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="109"/>
         <source>Another message</source>
         <translation>Jiná zpráva</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="115"/>
+        <location filename="core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="116"/>
         <source>Simple kinetic popup widget.</source>
         <translation>Jednoduché pohyblivé oznamovací okno.</translation>
     </message>
@@ -1200,23 +1200,33 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::ProfileCreationPage</name>
     <message>
-        <location filename="core/src/profilecreationpage.cpp" line="103"/>
-        <location filename="core/src/profilecreationpage.cpp" line="111"/>
+        <location filename="core/src/profilecreationpage.cpp" line="112"/>
+        <source>Error</source>
+        <translation>Chyba</translation>
+    </message>
+    <message>
+        <location filename="core/src/profilecreationpage.cpp" line="113"/>
+        <source>Unable to create directory %1. Maybe you are trying to create a directory in a protected system directory</source>
+        <translation type="unfinished">Nelze vytvořit složka %1. Možná se snažíte vytvořit složku v systémem chráněné složce</translation>
+    </message>
+    <message>
+        <location filename="core/src/profilecreationpage.cpp" line="126"/>
+        <location filename="core/src/profilecreationpage.cpp" line="134"/>
         <source>Warning</source>
         <translation>Varování</translation>
     </message>
     <message>
-        <location filename="core/src/profilecreationpage.cpp" line="104"/>
+        <location filename="core/src/profilecreationpage.cpp" line="127"/>
         <source>Profile already exists, overwrite?</source>
         <translation>Profil již existuje, přepsat ho?</translation>
     </message>
     <message>
-        <location filename="core/src/profilecreationpage.cpp" line="111"/>
+        <location filename="core/src/profilecreationpage.cpp" line="134"/>
         <source>Unable to create profile hash</source>
         <translation>Nelze vytvořit otisk profilu</translation>
     </message>
     <message>
-        <location filename="core/src/profilecreationpage.cpp" line="232"/>
+        <location filename="core/src/profilecreationpage.cpp" line="255"/>
         <source>Select path</source>
         <translation>Vyberte cestu</translation>
     </message>
@@ -1702,6 +1712,41 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <source>Manage file transfers</source>
         <translation type="unfinished">Správce přenosů soborů</translation>
     </message>
+    <message>
+        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="26"/>
+        <source>Title</source>
+        <translation>Název</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="27"/>
+        <source>File name</source>
+        <translation>Název souboru</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="28"/>
+        <source>File size</source>
+        <translation>Velikost souboru</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="29"/>
+        <source>Total size</source>
+        <translation>Celková velikost</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="30"/>
+        <source>Contact</source>
+        <translation>Kontakt</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="31"/>
+        <source>Progress</source>
+        <translation type="unfinished">Průběh</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/filetransfer/filetransferjobmodel.cpp" line="32"/>
+        <source>State</source>
+        <translation>Stav</translation>
+    </message>
 </context>
 <context>
     <name>FileTransferDialog</name>
@@ -1975,6 +2020,14 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     </message>
 </context>
 <context>
+    <name>NetworkProxy</name>
+    <message>
+        <location filename="core/libqutim/networkproxy.cpp" line="161"/>
+        <source>Type</source>
+        <translation>Typ</translation>
+    </message>
+</context>
+<context>
     <name>Notifications</name>
     <message>
         <location filename="core/src/corelayers/notificationssettings/popupbehavior.cpp" line="31"/>
@@ -2114,12 +2167,12 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/authdialog/authdialogplugin.cpp" line="26"/>
         <source>Authorization dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Autorizační dialog</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/authdialog/authdialogplugin.cpp" line="27"/>
         <source>Simple authorization dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jednoduchý autorizační dialog</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="16"/>
@@ -2427,6 +2480,21 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <source>Auto</source>
         <translation type="unfinished">Automaticky</translation>
     </message>
+    <message>
+        <location filename="core/libqutim/actiontoolbar.cpp" line="95"/>
+        <source>ToolBar appearance</source>
+        <translation type="unfinished">Vzhled nástrojové lišty</translation>
+    </message>
+    <message>
+        <location filename="core/libqutim/actiontoolbar.cpp" line="97"/>
+        <source>Icon size</source>
+        <translation type="unfinished">Velikost ikony</translation>
+    </message>
+    <message>
+        <location filename="core/libqutim/actiontoolbar.cpp" line="103"/>
+        <source>Tool button style</source>
+        <translation type="unfinished">Ploché tlačítka</translation>
+    </message>
 </context>
 <context>
     <name>SearchForm</name>
@@ -2688,7 +2756,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/libqutim/shortcut.cpp" line="95"/>
         <source>Find previous</source>
-        <translation>Hledat přechozí</translation>
+        <translation>Hledat předchozí</translation>
     </message>
     <message>
         <location filename="core/libqutim/shortcut.cpp" line="135"/>
@@ -2724,7 +2792,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/simpleabout/simpleaboutdialog.ui" line="110"/>
         <source>Module based instant messenger.</source>
-        <translation type="unfinished">Modulově založený instant messenger.</translation>
+        <translation>Modulově založený instant messenger.</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/simpleabout/simpleaboutdialog.ui" line="143"/>
@@ -2935,6 +3003,11 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <source>Don&apos;t group messages after (sec):</source>
         <translation>Neseskupovat zprávy po [s]:</translation>
     </message>
+    <message>
+        <location filename="core/src/corelayers/adiumchat/chatforms/symbianchatform/settings/stackedchatbehavior.ui" line="90"/>
+        <source>Notifications in active chat</source>
+        <translation type="unfinished">Oznamování v aktivní konverzaci</translation>
+    </message>
 </context>
 <context>
     <name>Status</name>
@@ -3050,6 +3123,11 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <source>Send Key</source>
         <translation>Klávesa pro odeslání zprávy</translation>
     </message>
+    <message>
+        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui" line="120"/>
+        <source>Show notifications in active chat</source>
+        <translation type="unfinished">Zobrazit oznamování v aktivní konverzaci</translation>
+    </message>
 </context>
 <context>
     <name>TagsFilterDialog</name>
@@ -3089,7 +3167,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>ToolTip</name>
     <message>
-        <location filename="core/libqutim/buddy.cpp" line="75"/>
+        <location filename="core/libqutim/buddy.cpp" line="76"/>
         <source>Account</source>
         <translation>Účet</translation>
     </message>
@@ -3506,32 +3584,6 @@ en</source>
     </message>
 </context>
 <context>
-    <name>qutim_sdk_0_3</name>
-    <message>
-        <location filename="core/libqutim/networkproxy.cpp" line="161"/>
-        <source>Type</source>
-        <translation>Typ</translation>
-    </message>
-</context>
-<context>
-    <name>qutim_sdk_0_3::ActionToolBarPrivate</name>
-    <message>
-        <location filename="core/libqutim/actiontoolbar.cpp" line="95"/>
-        <source>ToolBar appearance</source>
-        <translation type="unfinished">Vzhled nástrojové lišty</translation>
-    </message>
-    <message>
-        <location filename="core/libqutim/actiontoolbar.cpp" line="97"/>
-        <source>Icon size</source>
-        <translation>Velikost ikony</translation>
-    </message>
-    <message>
-        <location filename="core/libqutim/actiontoolbar.cpp" line="103"/>
-        <source>Tool button style</source>
-        <translation type="unfinished">Ploché tlačítka</translation>
-    </message>
-</context>
-<context>
     <name>qutim_sdk_0_3::ContactSearchRequest</name>
     <message>
         <location filename="core/libqutim/contactsearch.cpp" line="62"/>
@@ -3598,7 +3650,7 @@ en</source>
  %1</translation>
     </message>
     <message>
-        <location filename="core/libqutim/modulemanager.cpp" line="355"/>
+        <location filename="core/libqutim/modulemanager.cpp" line="356"/>
         <source>Could not init plugin: 
  %1</source>
         <translation>Nelze inicializovat plugin:

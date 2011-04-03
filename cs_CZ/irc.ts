@@ -888,6 +888,8 @@ Please wait a while and try again.</source>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>

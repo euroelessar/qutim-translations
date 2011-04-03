@@ -32,10 +32,6 @@
 <context>
     <name>Task</name>
     <message>
-        <source>Author</source>
-        <translation type="obsolete">Autor</translation>
-    </message>
-    <message>
         <location filename="plugins/indicator/src/indicator.cpp" line="27"/>
         <source>Developer</source>
         <translation>Vývojář</translation>
