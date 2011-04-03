@@ -1033,7 +1033,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::KineticPopups::PopupAppearance</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="+38"/>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="+39"/>
         <location line="+68"/>
         <location line="+9"/>
         <source>Preview</source>
@@ -3301,7 +3301,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ToolTip</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/buddy.cpp" line="+75"/>
+        <location filename="../../qutim-meta/core/libqutim/buddy.cpp" line="+76"/>
         <source>Account</source>
         <translation>Сметка</translation>
     </message>
