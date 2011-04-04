@@ -471,7 +471,7 @@ p, li { white-space: pre-wrap; }
         <translation>Копиране в клипборда</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+810"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+805"/>
         <source>Remove contact</source>
         <translation>Премахване на контакта</translation>
     </message>
@@ -1251,7 +1251,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileCreationPage</name>
     <message>
-        <location filename="../../qutim-meta/core/src/profilecreationpage.cpp" line="+112"/>
+        <location filename="../../qutim-meta/core/src/profilecreationpage.cpp" line="+128"/>
         <source>Error</source>
         <translation>Грешка</translation>
     </message>
@@ -1277,7 +1277,7 @@ p, li { white-space: pre-wrap; }
         <translation>Невъзможно е създаването на хеш за профила</translation>
     </message>
     <message>
-        <location line="+121"/>
+        <location line="+123"/>
         <source>Select path</source>
         <translation>Избор на път</translation>
     </message>
@@ -1296,7 +1296,33 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileDialog</name>
     <message>
-        <location filename="../../qutim-meta/core/src/profiledialog.cpp" line="+196"/>
+        <location filename="../../qutim-meta/core/src/profiledialog.cpp" line="+135"/>
+        <source>Password is mismatched.</source>
+        <translation>Сгрешена парола.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Crypto service is unknown.</source>
+        <translation>Неизвестна услуга за шифроване.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Wrong profile id.</source>
+        <translation>Сгрешен иденификатор на профил.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <location line="+30"/>
+        <source>Error while loading</source>
+        <translation>Грешка при зареждане</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Can&apos;t open file with hash</source>
+        <translation>Невъзможно е отварянето на хеша</translation>
+    </message>
+    <message>
+        <location line="+25"/>
         <source>Enter name</source>
         <translation>Въведете име</translation>
     </message>
@@ -1517,7 +1543,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="-225"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="-224"/>
         <source>Without tags</source>
         <translation>Без тагове</translation>
     </message>
@@ -1648,7 +1674,7 @@ p, li { white-space: pre-wrap; }
         <translation>Главна лента с инструменти</translation>
     </message>
     <message>
-        <location line="+15"/>
+        <location line="+18"/>
         <source>Global status</source>
         <translation>Общ статус</translation>
     </message>
