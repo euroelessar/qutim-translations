@@ -808,7 +808,7 @@
 <context>
     <name>Jabber</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+104"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+106"/>
         <source>Xml console</source>
         <translation>XML конзола</translation>
     </message>
@@ -1427,6 +1427,16 @@
         <location line="+16"/>
         <source>Close</source>
         <translation>Затваряне</translation>
+    </message>
+    <message>
+        <location line="+261"/>
+        <source>Save XMPP log to file</source>
+        <translation>Запис на XMPP журнала във файл</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>OpenDocument Format (*.odf);;HTML file (*.html);;Plain text (*.txt)</source>
+        <translation>OpenDocument формат (*.odf);;HTML файл (*.html);;Обикновен текст (*.txt)</translation>
     </message>
 </context>
 <context>
@@ -2147,6 +2157,11 @@
         <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+19"/>
         <source>Filter</source>
         <translation>Филтриране</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Save log</source>
+        <translation>Запис на журнала</translation>
     </message>
 </context>
 </TS>

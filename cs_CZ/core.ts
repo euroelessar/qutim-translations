@@ -1200,33 +1200,33 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::ProfileCreationPage</name>
     <message>
-        <location filename="core/src/profilecreationpage.cpp" line="112"/>
+        <location filename="core/src/profilecreationpage.cpp" line="128"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="core/src/profilecreationpage.cpp" line="113"/>
+        <location filename="core/src/profilecreationpage.cpp" line="129"/>
         <source>Unable to create directory %1. Maybe you are trying to create a directory in a protected system directory</source>
         <translation type="unfinished">Nelze vytvořit složka %1. Možná se snažíte vytvořit složku v systémem chráněné složce</translation>
     </message>
     <message>
-        <location filename="core/src/profilecreationpage.cpp" line="126"/>
-        <location filename="core/src/profilecreationpage.cpp" line="134"/>
+        <location filename="core/src/profilecreationpage.cpp" line="142"/>
+        <location filename="core/src/profilecreationpage.cpp" line="150"/>
         <source>Warning</source>
         <translation>Varování</translation>
     </message>
     <message>
-        <location filename="core/src/profilecreationpage.cpp" line="127"/>
+        <location filename="core/src/profilecreationpage.cpp" line="143"/>
         <source>Profile already exists, overwrite?</source>
         <translation>Profil již existuje, přepsat ho?</translation>
     </message>
     <message>
-        <location filename="core/src/profilecreationpage.cpp" line="134"/>
+        <location filename="core/src/profilecreationpage.cpp" line="150"/>
         <source>Unable to create profile hash</source>
         <translation>Nelze vytvořit otisk profilu</translation>
     </message>
     <message>
-        <location filename="core/src/profilecreationpage.cpp" line="255"/>
+        <location filename="core/src/profilecreationpage.cpp" line="273"/>
         <source>Select path</source>
         <translation>Vyberte cestu</translation>
     </message>
@@ -1234,58 +1234,84 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::ProfileDialog</name>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="196"/>
+        <location filename="core/src/profiledialog.cpp" line="135"/>
+        <source>Password is mismatched.</source>
+        <translation>Hesla nesouhlasí.</translation>
+    </message>
+    <message>
+        <location filename="core/src/profiledialog.cpp" line="137"/>
+        <source>Crypto service is unknown.</source>
+        <translation>Šifrovací služba je neznámá.</translation>
+    </message>
+    <message>
+        <location filename="core/src/profiledialog.cpp" line="139"/>
+        <source>Wrong profile id.</source>
+        <translation>Špatné ID profilu.</translation>
+    </message>
+    <message>
+        <location filename="core/src/profiledialog.cpp" line="142"/>
+        <location filename="core/src/profiledialog.cpp" line="172"/>
+        <source>Error while loading</source>
+        <translation>Chyba při načítání</translation>
+    </message>
+    <message>
+        <location filename="core/src/profiledialog.cpp" line="173"/>
+        <source>Can&apos;t open file with hash</source>
+        <translation type="unfinished">Nelze otevřít soubor s hashem</translation>
+    </message>
+    <message>
+        <location filename="core/src/profiledialog.cpp" line="198"/>
         <source>Enter name</source>
         <translation>Zadejte jméno</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="196"/>
+        <location filename="core/src/profiledialog.cpp" line="198"/>
         <source>Profile name:</source>
         <translation>Jméno profilu:</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="198"/>
+        <location filename="core/src/profiledialog.cpp" line="200"/>
         <source>Invalid name</source>
         <translation>Chybné jméno</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="198"/>
+        <location filename="core/src/profiledialog.cpp" line="200"/>
         <source>Name can not be empty!</source>
         <translation>Jméno nemůže být prázdné!</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="202"/>
+        <location filename="core/src/profiledialog.cpp" line="204"/>
         <source>Enter password</source>
         <translation>Zadejte heslo</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="202"/>
+        <location filename="core/src/profiledialog.cpp" line="204"/>
         <source>Password:</source>
         <translation>Heslo:</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="203"/>
+        <location filename="core/src/profiledialog.cpp" line="205"/>
         <source>Repeat password</source>
         <translation>Heslo znovu</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="203"/>
+        <location filename="core/src/profiledialog.cpp" line="205"/>
         <source>Repeat password:</source>
         <translation>Heslo znovu:</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="206"/>
-        <location filename="core/src/profiledialog.cpp" line="211"/>
+        <location filename="core/src/profiledialog.cpp" line="208"/>
+        <location filename="core/src/profiledialog.cpp" line="213"/>
         <source>Incorrect password</source>
         <translation>Nesprávné heslo</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="206"/>
+        <location filename="core/src/profiledialog.cpp" line="208"/>
         <source>Passwords doesn&apos;t match each other</source>
         <translation>Hesla nejsou stejná</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="211"/>
+        <location filename="core/src/profiledialog.cpp" line="213"/>
         <source>Password can not be empty!</source>
         <translation>Heslo nemůže být prázdné!</translation>
     </message>
