@@ -553,7 +553,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+810"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+805"/>
         <source>Remove contact</source>
         <translation>Удалить контакт</translation>
     </message>
@@ -1406,7 +1406,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::KineticPopups::PopupAppearance</name>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="+38"/>
+        <location filename="../../qutim/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="+39"/>
         <location line="+68"/>
         <location line="+9"/>
         <source>Preview</source>
@@ -1652,7 +1652,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileCreationPage</name>
     <message>
-        <location filename="../../qutim/src/profilecreationpage.cpp" line="+112"/>
+        <location filename="../../qutim/src/profilecreationpage.cpp" line="+128"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -1673,7 +1673,7 @@ p, li { white-space: pre-wrap; }
         <translation>Профиль уже существует, перезаписать?</translation>
     </message>
     <message>
-        <location line="+128"/>
+        <location line="+130"/>
         <source>Select path</source>
         <translation type="unfinished">Укажите путь</translation>
     </message>
@@ -1683,7 +1683,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Хэш профиля уже существует, переопределить?</translation>
     </message>
     <message>
-        <location line="-121"/>
+        <location line="-123"/>
         <source>Unable to create profile hash</source>
         <translation>Не удалось создать хэш профиля</translation>
     </message>
@@ -1703,7 +1703,33 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileDialog</name>
     <message>
-        <location filename="../../qutim/src/profiledialog.cpp" line="+196"/>
+        <location filename="../../qutim/src/profiledialog.cpp" line="+135"/>
+        <source>Password is mismatched.</source>
+        <translation type="unfinished">Не совпадение пароля.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Crypto service is unknown.</source>
+        <translation type="unfinished">Система шифрования не известна.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Wrong profile id.</source>
+        <translation type="unfinished">Не верный идентификатор профитя.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <location line="+30"/>
+        <source>Error while loading</source>
+        <translation type="unfinished">Ошибка времени загрузки</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Can&apos;t open file with hash</source>
+        <translation type="unfinished">Не вохможно открыть файл с хэшем</translation>
+    </message>
+    <message>
+        <location line="+25"/>
         <source>Enter name</source>
         <translation>Укажите имя</translation>
     </message>
@@ -1993,7 +2019,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Контакты</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="-225"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="-224"/>
         <source>Without tags</source>
         <translation>Без меток</translation>
     </message>
@@ -2136,7 +2162,7 @@ p, li { white-space: pre-wrap; }
         <translation>Главная панель</translation>
     </message>
     <message>
-        <location line="+15"/>
+        <location line="+18"/>
         <source>Global status</source>
         <translation>Общий статус</translation>
     </message>
@@ -4492,7 +4518,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ToolTip</name>
     <message>
-        <location filename="../../qutim/libqutim/buddy.cpp" line="+75"/>
+        <location filename="../../qutim/libqutim/buddy.cpp" line="+76"/>
         <source>Account</source>
         <translation>Учетная запись</translation>
     </message>

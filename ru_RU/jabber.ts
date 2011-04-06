@@ -425,12 +425,12 @@
     <message>
         <location filename="../../protocols/jabber/src/jplugin.cpp" line="+32"/>
         <source>Denis Daschenko</source>
-        <translation type="unfinished">Дащенко Денис</translation>
+        <translation>Дащенко Денис</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Nikita Belov</source>
-        <translation type="unfinished">Белов Никита</translation>
+        <translation>Белов Никита</translation>
     </message>
     <message>
         <source>Ruslan Nigmatullin</source>
@@ -930,7 +930,7 @@
 <context>
     <name>Jabber</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+104"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+106"/>
         <source>Xml console</source>
         <translation>Консоль XML</translation>
     </message>
@@ -1092,7 +1092,7 @@
         <source>en</source>
         <comment>Default language</comment>
         <translatorcomment>ru ?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ru</translation>
     </message>
 </context>
 <context>
@@ -1855,6 +1855,16 @@ Accept invitation?</source>
         <location line="+16"/>
         <source>Close</source>
         <translation type="unfinished">Закрыть</translation>
+    </message>
+    <message>
+        <location line="+261"/>
+        <source>Save XMPP log to file</source>
+        <translation type="unfinished">Сохранить XMPP лог в файл</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>OpenDocument Format (*.odf);;HTML file (*.html);;Plain text (*.txt)</source>
+        <translation type="unfinished">Формат OpenDocument (*.odf);;HTML файл (*.html);;Простой текст (*.txt)</translation>
     </message>
 </context>
 <context>
@@ -2675,6 +2685,11 @@ Accept invitation?</source>
         <location filename="../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+19"/>
         <source>Filter</source>
         <translation type="unfinished">Фильтр</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Save log</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
