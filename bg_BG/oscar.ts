@@ -3855,7 +3855,7 @@
     <message>
         <location line="+3"/>
         <source>Always use file transfer proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Винаги да се използва прокси за предаване на файлове</translation>
     </message>
     <message>
         <location line="+6"/>
