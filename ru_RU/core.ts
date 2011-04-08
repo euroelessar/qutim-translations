@@ -451,6 +451,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>ChatWidget</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatwidget.cpp" line="+59"/>
+        <source>Toggle fullscreen</source>
+        <translation type="unfinished">Во весь экран</translation>
+    </message>
+</context>
+<context>
     <name>ClassicChatForm</name>
     <message>
         <source>MainWindow</source>
@@ -1093,12 +1101,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::Symbian::StackedChatWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatwidget.cpp" line="+37"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatwidget.cpp" line="-22"/>
         <source>Send to</source>
         <translation>Отправить в</translation>
     </message>
     <message>
-        <location line="+244"/>
+        <location line="+250"/>
         <location line="+17"/>
         <source>Actions</source>
         <translation>Действия</translation>
@@ -2252,8 +2260,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+5"/>
+        <source>&lt;b&gt;Short:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Version:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM Version:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt Version:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Screen resolution:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Country:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Language:&lt;/b&gt; %10 &lt;br /&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Кратко:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Версия:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия Qt:&lt;/b&gt; %5 (%6 бит) &lt;br /&gt;&lt;b&gt;Разрешение экрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Страна:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Язык:&lt;/b&gt; %10 &lt;br /&gt;</translation>
+    </message>
+    <message>
         <source>&lt;b&gt;OS:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Short:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM Version:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt Version:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Screen resolution:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Country:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Language:&lt;/b&gt; %10 &lt;br /&gt;</source>
-        <translation>&lt;b&gt;ОС:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Кратко:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Полностью:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия библиотеки Qt:&lt;/b&gt; %5 (%6 бит) &lt;br /&gt;&lt;b&gt;Разрешение экрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Страна:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Язык:&lt;/b&gt; %10 &lt;br /&gt;</translation>
+        <translation type="obsolete">&lt;b&gt;ОС:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Кратко:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Полностью:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия библиотеки Qt:&lt;/b&gt; %5 (%6 бит) &lt;br /&gt;&lt;b&gt;Разрешение экрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Страна:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Язык:&lt;/b&gt; %10 &lt;br /&gt;</translation>
     </message>
 </context>
 <context>
@@ -3508,7 +3520,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Виджет передачи файлов (по умолчанию)</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/trayicon/simpletray.cpp" line="+136"/>
+        <location filename="../../qutim/src/corelayers/trayicon/simpletray.cpp" line="+147"/>
         <source>Notification Area Icon</source>
         <translation type="unfinished">Пиктограмма области уведомления</translation>
     </message>
@@ -4278,6 +4290,14 @@ p, li { white-space: pre-wrap; }
         <location line="+7"/>
         <source>Blink icon</source>
         <translation type="unfinished">Мигание пиктограммы</translation>
+    </message>
+</context>
+<context>
+    <name>Sound</name>
+    <message>
+        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+282"/>
+        <source>No sound</source>
+        <translation type="unfinished">Без звука</translation>
     </message>
 </context>
 <context>
