@@ -3092,4 +3092,8 @@
     <source>Manage packages</source>
     <target>Управление на пакети</target>
 </phrase>
+<phrase>
+    <source>installed</source>
+    <target>Инсталиран</target>
+</phrase>
 </QPH>

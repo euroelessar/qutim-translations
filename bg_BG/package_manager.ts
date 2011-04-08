@@ -6,7 +6,7 @@
     <message>
         <location filename="../../qutim-meta/plugins/plugman/tools/packgen/choosecategorypage.ui" line="+14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>Пакети</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -74,7 +74,7 @@
     <message>
         <location filename="../../qutim-meta/plugins/plugman/tools/packgen/choosepathpage.ui" line="+14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>Път</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -87,7 +87,7 @@
     <message>
         <location filename="../../qutim-meta/plugins/plugman/tools/packgen/configpackagepage.ui" line="+14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>Пакет</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -224,22 +224,22 @@
     <message>
         <location line="+31"/>
         <source>Not yet implemented</source>
-        <translation type="unfinished"></translation>
+        <translation>В процес на разработка</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Прилагане</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Действия</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>find</source>
-        <translation type="unfinished"></translation>
+        <translation>Намиране</translation>
     </message>
 </context>
 <context>
@@ -247,22 +247,22 @@
     <message>
         <location filename="../../qutim-meta/plugins/plugman/oldsrc/plugdownloader.cpp" line="+92"/>
         <source>bytes/sec</source>
-        <translation type="unfinished"></translation>
+        <translation>байт/сек</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>kB/s</source>
-        <translation type="unfinished"></translation>
+        <translation>кБ/сек</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>MB/s</source>
-        <translation type="unfinished"></translation>
+        <translation>МБ/сек</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Downloading: %1%, speed: %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Сваляне: %1%, скорост: %2 %3</translation>
     </message>
 </context>
 <context>
@@ -270,51 +270,51 @@
     <message>
         <location filename="../../qutim-meta/plugins/plugman/oldsrc/pluginstaller.cpp" line="+60"/>
         <source>Need restart!</source>
-        <translation type="unfinished"></translation>
+        <translation>Изисква се рестартиране!</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Unable to open archive: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Невъзможно е отварянето на архива: %1</translation>
     </message>
     <message>
         <location line="+22"/>
         <location line="+135"/>
         <source>warning: trying to overwrite existing files!</source>
-        <translation type="unfinished"></translation>
+        <translation>Внимание: Опит за презписване на съществуващи файлове!</translation>
     </message>
     <message>
         <location line="-129"/>
         <source>Unable to extract archive: %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Невъзможно е извличането на архива: %1</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+134"/>
         <location line="+10"/>
         <source>Installing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Инсталиране:</translation>
     </message>
     <message>
         <location line="-114"/>
         <source>Invalid package: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Невалиден пакет: %1</translation>
     </message>
     <message>
         <location line="+38"/>
         <location line="+9"/>
         <source>Removing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Премахване:</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Unable to update package %1: installed version is later</source>
-        <translation type="unfinished"></translation>
+        <translation>Невъзможно е актуализирането на пакета %1: инсталираната версия е по-актуална</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Unable to install package: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Невъзможно е инсталирането на пакета %1</translation>
     </message>
 </context>
 <context>
@@ -322,42 +322,42 @@
     <message>
         <location filename="../../qutim-meta/plugins/plugman/oldsrc/plugitemdelegate.cpp" line="+68"/>
         <source>isUpgradable</source>
-        <translation type="unfinished"></translation>
+        <translation>за надграждане</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>isInstallable</source>
-        <translation type="unfinished"></translation>
+        <translation>за инсталиране</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>isDowngradable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">към предходна версия</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Инсталиран</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестен</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Инсталиране</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Премахване</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Upgrade</source>
-        <translation type="unfinished"></translation>
+        <translation>Надграждане</translation>
     </message>
 </context>
 <context>
@@ -365,22 +365,22 @@
     <message>
         <location filename="../../qutim-meta/plugins/plugman/oldsrc/plugmanager.cpp" line="+45"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Действия</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Update packages list</source>
-        <translation type="unfinished"></translation>
+        <translation>Актуализиране на списъка с пакети</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Upgrade all</source>
-        <translation type="unfinished"></translation>
+        <translation>Надграждане на всички</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Revert changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмяна на промените</translation>
     </message>
 </context>
 <context>
@@ -388,7 +388,7 @@
     <message>
         <location filename="../../qutim-meta/plugins/plugman/oldsrc/plugpackagemodel.cpp" line="+98"/>
         <source>Packages</source>
-        <translation type="unfinished"></translation>
+        <translation>Пакети</translation>
     </message>
 </context>
 <context>
@@ -398,41 +398,41 @@
         <location line="+106"/>
         <location line="+15"/>
         <source>Unable to open file</source>
-        <translation type="unfinished"></translation>
+        <translation>Невъзможно е отварянето на файла</translation>
     </message>
     <message>
         <location line="-117"/>
         <location line="+106"/>
         <source>Unable to set content</source>
-        <translation type="unfinished"></translation>
+        <translation>Невъзможно попълването на съдържание</translation>
     </message>
     <message>
         <location line="-92"/>
         <location line="+39"/>
         <source>Unable to write file</source>
-        <translation type="unfinished"></translation>
+        <translation>Невъзможен е записът на файла</translation>
     </message>
     <message>
         <location line="-22"/>
         <location line="+135"/>
         <source>Can&apos;t read database. Check your pesmissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невъзможно е прочитането на базата. Моля преверете правата си.</translation>
     </message>
     <message>
         <location line="-130"/>
         <location line="+136"/>
         <source>Broken package database</source>
-        <translation type="unfinished"></translation>
+        <translation>Повредена база с пакети</translation>
     </message>
     <message>
         <location line="-98"/>
         <source>unable to open file</source>
-        <translation type="unfinished"></translation>
+        <translation>Невъзможно е отварянето на файла</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>unable to set content</source>
-        <translation type="unfinished"></translation>
+        <translation>Невъзможно попълването на съдържание</translation>
     </message>
 </context>
 <context>
@@ -445,12 +445,12 @@
     <message>
         <location line="+19"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>group packages</source>
-        <translation type="unfinished"></translation>
+        <translation>Групиране на пакетите</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -459,22 +459,26 @@
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Mirror list&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Списък на огледалата&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавяне</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Not yet implemented</source>
-        <translation type="unfinished"></translation>
+        <translation>В процес на разработка</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>За добавката</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -488,22 +492,31 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Contacts: &lt;/span&gt;&lt;a href=&quot;mailto::sauron@citadelspb.com&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; text-decoration: underline; color:#0000ff;&quot;&gt;sauron@citadeslpb.com&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Droid Serif&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Droid Serif&apos;; font-size:10pt;&quot;&gt;2008-2009&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Verdana&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt;&quot;&gt;Опростено управление на разширения за qutIM.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Автор: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt;&quot;&gt;Алексей Сидоров&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Контакти: &lt;/span&gt;&lt;a href=&quot;mailto::sauron@citadelspb.com&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; text-decoration: underline; color:#0000ff;&quot;&gt;sauron@citadeslpb.com&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Droid Serif&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Droid Serif&apos;; font-size:10pt;&quot;&gt;2008-2009&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/plugins/plugman/oldsrc/plugmansettings.cpp" line="+18"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Име</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Описание</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Url</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
 </context>
 </TS>
