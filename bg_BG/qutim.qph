@@ -3084,4 +3084,12 @@
     <source>State</source>
     <target>Състояние</target>
 </phrase>
+<phrase>
+    <source>Plugin</source>
+    <target>Добавка</target>
+</phrase>
+<phrase>
+    <source>Manage packages</source>
+    <target>Управление на пакети</target>
+</phrase>
 </QPH>
