@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="46"/>
+        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="50"/>
         <source>Sidorov Aleksey</source>
         <translation></translation>
     </message>
@@ -12,22 +12,22 @@
 <context>
     <name>ConnectionManager::ConnectionManager</name>
     <message>
-        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="128"/>
+        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="132"/>
         <source>within %1 seconds</source>
         <translation>za %1 sekund</translation>
     </message>
     <message>
-        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="129"/>
+        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="133"/>
         <source>immediately</source>
         <translation>okamžitě</translation>
     </message>
     <message>
-        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="137"/>
+        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="141"/>
         <source>%1 will be reconnected %2</source>
         <translation>%1 bude znovu připojeno %2</translation>
     </message>
     <message>
-        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="138"/>
+        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="142"/>
         <source>ConnectionManager</source>
         <translation>Správce připojení</translation>
     </message>
@@ -48,12 +48,12 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="43"/>
+        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="47"/>
         <source>ConnectionManager</source>
         <translation>Správce připojení</translation>
     </message>
     <message>
-        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="44"/>
+        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="48"/>
         <source>Used to monitor the availability of network.</source>
         <translation>Používá se pro sledování dostupnosti sítě.</translation>
     </message>
@@ -61,7 +61,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="68"/>
+        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="72"/>
         <source>Connection manager</source>
         <translation>Správce připojení</translation>
     </message>
@@ -69,7 +69,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="47"/>
+        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="51"/>
         <source>Author</source>
         <translation>Autor</translation>
     </message>
