@@ -3848,12 +3848,17 @@
 <context>
     <name>qutim_sdk_0_3::oscar::OscarFileTransferSettings</name>
     <message>
-        <location line="+186"/>
+        <location line="+188"/>
         <source>File transfer</source>
         <translation>Предаване на файлове</translation>
     </message>
     <message>
         <location line="+3"/>
+        <source>Always use file transfer proxy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
         <source>Accept incoming connections on any port</source>
         <translation>Приемане на входящи връзки на всеки порт</translation>
     </message>

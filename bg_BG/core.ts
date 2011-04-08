@@ -346,6 +346,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>ChatWidget</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatwidget.cpp" line="+59"/>
+        <source>Toggle fullscreen</source>
+        <translation>На цял екран</translation>
+    </message>
+</context>
+<context>
     <name>ContactInfo</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/contactinfo/contactinfo.cpp" line="+212"/>
@@ -816,12 +824,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::Symbian::StackedChatWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatwidget.cpp" line="+37"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatwidget.cpp" line="-22"/>
         <source>Send to</source>
         <translation>Изпращане до</translation>
     </message>
     <message>
-        <location line="+244"/>
+        <location line="+250"/>
         <location line="+17"/>
         <source>Actions</source>
         <translation>Действия</translation>
@@ -1747,18 +1755,23 @@ p, li { white-space: pre-wrap; }
         <translation>Желаете ли да изпратите подробности за настоящата инсталация?</translation>
     </message>
     <message>
+        <location line="+6"/>
+        <source>&lt;b&gt;Short:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Version:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM Version:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt Version:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Screen resolution:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Country:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Language:&lt;/b&gt; %10 &lt;br /&gt;</source>
+        <translatorcomment>&lt;b&gt;ОС:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Кратко:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Пълно:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия на qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия на Qt:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Разделителна способност на екрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Държава:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Език:&lt;/b&gt; %10 &lt;br /&gt;</translatorcomment>
+        <translation>&lt;b&gt;Съкратено:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Версия:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Пълно:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия на qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия на Qt:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Разделителна способност на екрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Държава:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Език:&lt;/b&gt; %10 &lt;br /&gt;</translation>
+    </message>
+    <message>
         <source>Are you want to report about this setup?</source>
         <translation type="obsolete">Желаете ли да уведомите за тази инсталация?</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-5"/>
         <source>Information to be transferred to the qutIM&apos;s authors:</source>
         <translation>Информация, която бихте изпратили до авторите на qutIM:</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>&lt;b&gt;OS:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Short:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM Version:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt Version:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Screen resolution:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Country:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Language:&lt;/b&gt; %10 &lt;br /&gt;</source>
-        <translation>&lt;b&gt;ОС:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Кратко:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Пълно:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия на qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия на Qt:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Разделителна способност на екрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Държава:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Език:&lt;/b&gt; %10 &lt;br /&gt;</translation>
+        <translation type="obsolete">&lt;b&gt;ОС:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Кратко:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Пълно:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия на qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия на Qt:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Разделителна способност на екрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Държава:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Език:&lt;/b&gt; %10 &lt;br /&gt;</translation>
     </message>
 </context>
 <context>
@@ -2404,7 +2417,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбиращ се набор от действия с контактите</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/trayicon/simpletray.cpp" line="+136"/>
+        <location filename="../../qutim-meta/core/src/corelayers/trayicon/simpletray.cpp" line="+147"/>
         <source>Notification Area Icon</source>
         <translation>Икона в областта за уведомления</translation>
     </message>
@@ -3093,6 +3106,14 @@ p, li { white-space: pre-wrap; }
         <location line="+7"/>
         <source>Blink icon</source>
         <translation>Мигане на иконата</translation>
+    </message>
+</context>
+<context>
+    <name>Sound</name>
+    <message>
+        <location filename="../../qutim-meta/core/libqutim/notificationslayer.cpp" line="+282"/>
+        <source>No sound</source>
+        <translation>Без звук</translation>
     </message>
 </context>
 <context>
