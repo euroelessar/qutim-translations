@@ -397,41 +397,43 @@
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="224"/>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="239"/>
         <source>Unable to open file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не удалось открыть файл</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="122"/>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="228"/>
         <source>Unable to set content</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>промт</translatorcomment>
+        <translation type="unfinished">Не возможно установить содержимое</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="136"/>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="175"/>
         <source>Unable to write file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не удалось записать файл</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="153"/>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="288"/>
         <source>Can&apos;t read database. Check your pesmissions.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не могу прочитать базу данных. Проверьте права доступа.</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="158"/>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="294"/>
         <source>Broken package database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сбой базы пакетов</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="196"/>
         <source>unable to open file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">не удалось открыть файл</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="199"/>
         <source>unable to set content</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>промт</translatorcomment>
+        <translation type="unfinished">не возможно установить содержимое</translation>
     </message>
 </context>
 <context>
