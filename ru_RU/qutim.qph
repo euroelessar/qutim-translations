@@ -5435,4 +5435,12 @@ Accept invitation?</source>
     <source>Description</source>
     <target>Описание</target>
 </phrase>
+<phrase>
+    <source>Underline</source>
+    <target>Подчеркивание</target>
+</phrase>
+<phrase>
+    <source>Bold</source>
+    <target>Жирно</target>
+</phrase>
 </QPH>
