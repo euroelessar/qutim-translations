@@ -4058,12 +4058,17 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::OscarFileTransferSettings</name>
     <message>
-        <location line="+186"/>
+        <location line="+188"/>
         <source>File transfer</source>
         <translation>Передача файла</translation>
     </message>
     <message>
         <location line="+3"/>
+        <source>Always use file transfer proxy</source>
+        <translation type="unfinished">Всегда использовать файлопрокси</translation>
+    </message>
+    <message>
+        <location line="+6"/>
         <source>Accept incoming connections on any port</source>
         <translation type="unfinished">Принимать входящие соединения на любом порту</translation>
     </message>
