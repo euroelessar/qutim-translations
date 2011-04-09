@@ -4497,7 +4497,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+21"/>
         <source>Show notifications in active chat</source>
-        <translation type="unfinished">Показывать уведомления о сообщении при активном</translation>
+        <translation type="unfinished">Показывать уведомления о сообщении при активном окне чата</translation>
     </message>
 </context>
 <context>
