@@ -5431,4 +5431,8 @@ Accept invitation?</source>
     <source>Platform:</source>
     <target>Платформа:</target>
 </phrase>
+<phrase>
+    <source>Description</source>
+    <target>Описание</target>
+</phrase>
 </QPH>

@@ -223,7 +223,7 @@
     <message>
         <location filename="../../plugins/plugman/ui/manager.ui" line="51"/>
         <source>Not yet implemented</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пока еще не написано</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/ui/manager.ui" line="61"/>
@@ -238,7 +238,7 @@
     <message>
         <location filename="../../plugins/plugman/ui/manager.ui" line="115"/>
         <source>find</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Поиск</translation>
     </message>
 </context>
 <context>
@@ -274,46 +274,46 @@
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="72"/>
         <source>Unable to open archive: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не могу открыть архив: %1</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="94"/>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="229"/>
         <source>warning: trying to overwrite existing files!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Предупреджение: попытка перезаписи существующих файлов!</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="100"/>
         <source>Unable to extract archive: %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не могу распаковать архив %1 в %2</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="107"/>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="241"/>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="251"/>
         <source>Installing:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Установка:</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="137"/>
         <source>Invalid package: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Некорректный пакет: %1</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="175"/>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="184"/>
         <source>Removing:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Удалиние:</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="237"/>
         <source>Unable to update package %1: installed version is later</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Обновление пакета %1 не возможно: установлена более поздняя версия</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="247"/>
         <source>Unable to install package: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Установка пакета %1 не возможна</translation>
     </message>
 </context>
 <context>
@@ -321,22 +321,22 @@
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugitemdelegate.cpp" line="68"/>
         <source>isUpgradable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Обновление</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugitemdelegate.cpp" line="72"/>
         <source>isInstallable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Установка</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugitemdelegate.cpp" line="76"/>
         <source>isDowngradable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Понижение версии</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugitemdelegate.cpp" line="80"/>
         <source>installed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Установлен</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugitemdelegate.cpp" line="84"/>
@@ -346,7 +346,7 @@
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugitemdelegate.cpp" line="90"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Установить</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugitemdelegate.cpp" line="95"/>
@@ -356,7 +356,7 @@
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugitemdelegate.cpp" line="100"/>
         <source>Upgrade</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Обновить</translation>
     </message>
 </context>
 <context>
@@ -369,17 +369,17 @@
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugmanager.cpp" line="46"/>
         <source>Update packages list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Обновление списка пакетов</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugmanager.cpp" line="48"/>
         <source>Upgrade all</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Обновить все пакеты</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugmanager.cpp" line="52"/>
         <source>Revert changes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отменить изменения</translation>
     </message>
 </context>
 <context>
@@ -387,7 +387,7 @@
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugpackagemodel.cpp" line="98"/>
         <source>Packages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пакеты</translation>
     </message>
 </context>
 <context>
@@ -449,7 +449,7 @@
     <message>
         <location filename="../../plugins/plugman/ui/settings.ui" line="48"/>
         <source>group packages</source>
-        <translation type="unfinished"></translation>
+        <translation>Группы пакетов</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/ui/settings.ui" line="58"/>
@@ -458,7 +458,11 @@
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Mirror list&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Список зеркал&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/ui/settings.ui" line="81"/>
@@ -468,7 +472,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../plugins/plugman/ui/settings.ui" line="97"/>
         <source>Not yet implemented</source>
-        <translation type="unfinished"></translation>
+        <translation>Пока еще не написано</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/ui/settings.ui" line="111"/>
@@ -487,7 +491,16 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Contacts: &lt;/span&gt;&lt;a href=&quot;mailto::sauron@citadelspb.com&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; text-decoration: underline; color:#0000ff;&quot;&gt;sauron@citadeslpb.com&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Droid Serif&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Droid Serif&apos;; font-size:10pt;&quot;&gt;2008-2009&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Verdana&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt;&quot;&gt;простой менеджер  расширений qutIM.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Автор: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt;&quot;&gt;Сидоров Алексей&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Контакты: &lt;/span&gt;&lt;a href=&quot;mailto::sauron@citadelspb.com&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; text-decoration: underline; color:#0000ff;&quot;&gt;sauron@citadeslpb.com&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Droid Serif&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Droid Serif&apos;; font-size:10pt;&quot;&gt;2008-2011&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugmansettings.cpp" line="18"/>
@@ -497,7 +510,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugmansettings.cpp" line="18"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Описание</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugmansettings.cpp" line="18"/>
