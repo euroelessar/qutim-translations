@@ -5403,4 +5403,32 @@ Accept invitation?</source>
     <source>Could not open file %1</source>
     <target>Не могу открыть %1</target>
 </phrase>
+<phrase>
+    <source>Art</source>
+    <target>Оформление</target>
+</phrase>
+<phrase>
+    <source>Core</source>
+    <target>Ядро</target>
+</phrase>
+<phrase>
+    <source>Lib</source>
+    <target>Библиотека</target>
+</phrase>
+<phrase>
+    <source>Short description:</source>
+    <target>Краткое описание:</target>
+</phrase>
+<phrase>
+    <source>Author:</source>
+    <target>Автор:</target>
+</phrase>
+<phrase>
+    <source>License:</source>
+    <target>Лицензия:</target>
+</phrase>
+<phrase>
+    <source>Platform:</source>
+    <target>Платформа:</target>
+</phrase>
 </QPH>

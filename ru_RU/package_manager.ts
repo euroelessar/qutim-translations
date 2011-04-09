@@ -11,27 +11,27 @@
     <message>
         <location filename="../../plugins/plugman/tools/packgen/choosecategorypage.ui" line="23"/>
         <source>Package category:</source>
-        <translation type="unfinished"></translation>
+        <translation>Категория пакета:</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/choosecategorypage.ui" line="31"/>
         <source>Art</source>
-        <translation>Искусство</translation>
+        <translation>Оформление</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/choosecategorypage.ui" line="36"/>
         <source>Core</source>
-        <translation type="unfinished"></translation>
+        <translation>Ядро</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/choosecategorypage.ui" line="41"/>
         <source>Lib</source>
-        <translation type="unfinished"></translation>
+        <translation>Библиотека</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/choosecategorypage.ui" line="46"/>
         <source>Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Модуль/Плагин</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/choosecategorypage.ui" line="66"/>
@@ -41,32 +41,32 @@
     <message>
         <location filename="../../plugins/plugman/tools/packgen/choosecategorypage.cpp" line="42"/>
         <source>Select art</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор оформления</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/choosecategorypage.cpp" line="51"/>
         <source>Select core</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор ядра</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/choosecategorypage.cpp" line="56"/>
         <source>Library (*.dll)</source>
-        <translation type="unfinished"></translation>
+        <translation>Библиотека (*.dll)</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/choosecategorypage.cpp" line="58"/>
         <source>Library (*.dylib *.bundle *.so)</source>
-        <translation type="unfinished"></translation>
+        <translation>Библиотека (*.dylib *.bundle *.so)</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/choosecategorypage.cpp" line="60"/>
         <source>Library (*.so)</source>
-        <translation type="unfinished"></translation>
+        <translation>Библиотека (*.so)</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/choosecategorypage.cpp" line="62"/>
         <source>Select library</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор библиотеки</translation>
     </message>
 </context>
 <context>
@@ -101,37 +101,37 @@
         <location filename="../../plugins/plugman/tools/packgen/configpackagepage.ui" line="134"/>
         <location filename="../../plugins/plugman/tools/packgen/configpackagepage.ui" line="165"/>
         <source>*</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/configpackagepage.ui" line="50"/>
         <source>Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Версия:</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/configpackagepage.ui" line="71"/>
         <source>Category:</source>
-        <translation type="unfinished"></translation>
+        <translation>Категория:</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/configpackagepage.ui" line="90"/>
         <source>Art</source>
-        <translation>Искусство</translation>
+        <translation>Оформление</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/configpackagepage.ui" line="95"/>
         <source>Core</source>
-        <translation type="unfinished"></translation>
+        <translation>Ядро</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/configpackagepage.ui" line="100"/>
         <source>Lib</source>
-        <translation type="unfinished"></translation>
+        <translation>Библиотека</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/configpackagepage.ui" line="105"/>
         <source>Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Модуль/Плагин</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/configpackagepage.ui" line="122"/>
@@ -141,32 +141,32 @@
     <message>
         <location filename="../../plugins/plugman/tools/packgen/configpackagepage.ui" line="143"/>
         <source>Short description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Краткое описание:</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/configpackagepage.ui" line="153"/>
         <source>Url:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ссылка:</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/configpackagepage.ui" line="174"/>
         <source>Author:</source>
-        <translation type="unfinished"></translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/configpackagepage.ui" line="184"/>
         <source>License:</source>
-        <translation type="unfinished"></translation>
+        <translation>Лицензия:</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/configpackagepage.ui" line="194"/>
         <source>Platform:</source>
-        <translation type="unfinished"></translation>
+        <translation>Платформа:</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/tools/packgen/configpackagepage.ui" line="211"/>
         <source>Package name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя пакета:</translation>
     </message>
 </context>
 <context>
@@ -174,7 +174,7 @@
     <message>
         <location filename="../../plugins/plugman/src/plugman.cpp" line="38"/>
         <source>Manage packages</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление пакетами</translation>
     </message>
 </context>
 <context>
@@ -182,7 +182,7 @@
     <message>
         <location filename="../../plugins/plugman/src/plugman.cpp" line="27"/>
         <source>Package manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление пакетами</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/src/plugman.cpp" line="28"/>
@@ -195,22 +195,22 @@
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugpackage.cpp" line="35"/>
         <source>Package name is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Пустое имя пакета</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugpackage.cpp" line="39"/>
         <source>Package type is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип пакета не указан</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugpackage.cpp" line="43"/>
         <source>Invalid package version</source>
-        <translation type="unfinished"></translation>
+        <translation>Неправильная версия пакета</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugpackage.cpp" line="50"/>
         <source>Wrong platform</source>
-        <translation type="unfinished"></translation>
+        <translation>Неправильная платформа</translation>
     </message>
 </context>
 <context>
@@ -246,22 +246,22 @@
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugdownloader.cpp" line="92"/>
         <source>bytes/sec</source>
-        <translation type="unfinished"></translation>
+        <translation>бит/с</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugdownloader.cpp" line="95"/>
         <source>kB/s</source>
-        <translation type="unfinished"></translation>
+        <translation>кБ/с</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugdownloader.cpp" line="98"/>
         <source>MB/s</source>
-        <translation type="unfinished"></translation>
+        <translation>МБ/с</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugdownloader.cpp" line="103"/>
         <source>Downloading: %1%, speed: %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка: %1%, со скоростью: %2 %3</translation>
     </message>
 </context>
 <context>
@@ -269,7 +269,7 @@
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="60"/>
         <source>Need restart!</source>
-        <translation type="unfinished"></translation>
+        <translation>Необходим перезапуск!</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="72"/>
