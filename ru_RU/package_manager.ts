@@ -187,7 +187,7 @@
     <message>
         <location filename="../../plugins/plugman/src/plugman.cpp" line="28"/>
         <source>Provides possibility to Get Hot New Stuff from open community</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Предоставляет возможность получение нового контента (оформление, плагины итп) от сообщества</translation>
     </message>
 </context>
 <context>
