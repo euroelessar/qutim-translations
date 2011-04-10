@@ -1645,7 +1645,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+35"/>
-        <location line="+194"/>
+        <location line="+196"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
@@ -2417,7 +2417,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбиращ се набор от действия с контактите</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/trayicon/simpletray.cpp" line="+147"/>
+        <location filename="../../qutim-meta/core/src/corelayers/trayicon/simpletray.cpp" line="+148"/>
         <source>Notification Area Icon</source>
         <translation>Икона в областта за уведомления</translation>
     </message>

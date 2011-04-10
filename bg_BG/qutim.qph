@@ -3096,4 +3096,8 @@
     <source>installed</source>
     <target>Инсталиран</target>
 </phrase>
+<phrase>
+    <source>Underline</source>
+    <target>Подчертан</target>
+</phrase>
 </QPH>
