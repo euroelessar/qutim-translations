@@ -2133,7 +2133,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+35"/>
-        <location line="+194"/>
+        <location line="+196"/>
         <source>Set Status Text</source>
         <translation>Установить текст статуса</translation>
     </message>
@@ -3520,7 +3520,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Виджет передачи файлов (по умолчанию)</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/trayicon/simpletray.cpp" line="+147"/>
+        <location filename="../../qutim/src/corelayers/trayicon/simpletray.cpp" line="+149"/>
         <source>Notification Area Icon</source>
         <translation type="unfinished">Пиктограмма области уведомления</translation>
     </message>
