@@ -3520,7 +3520,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Виджет передачи файлов (по умолчанию)</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/trayicon/simpletray.cpp" line="+149"/>
+        <location filename="../../qutim/src/corelayers/trayicon/simpletray.cpp" line="+148"/>
         <source>Notification Area Icon</source>
         <translation type="unfinished">Пиктограмма области уведомления</translation>
     </message>
