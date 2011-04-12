@@ -25,51 +25,51 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/juick/src/juicksettings.ui" line="20"/>
+        <location filename="../../plugins/juick/src/juicksettings.ui" line="23"/>
         <source>@user_id</source>
         <translation type="unfinished">@username</translation>
     </message>
     <message>
-        <location filename="../../plugins/juick/src/juicksettings.ui" line="29"/>
-        <location filename="../../plugins/juick/src/juicksettings.ui" line="61"/>
+        <location filename="../../plugins/juick/src/juicksettings.ui" line="46"/>
+        <location filename="../../plugins/juick/src/juicksettings.ui" line="78"/>
         <source>Bold</source>
         <translation type="unfinished">Жирно</translation>
     </message>
     <message>
-        <location filename="../../plugins/juick/src/juicksettings.ui" line="36"/>
-        <location filename="../../plugins/juick/src/juicksettings.ui" line="68"/>
+        <location filename="../../plugins/juick/src/juicksettings.ui" line="39"/>
+        <location filename="../../plugins/juick/src/juicksettings.ui" line="71"/>
         <source>Italic</source>
         <translation type="unfinished">курсив</translation>
     </message>
     <message>
-        <location filename="../../plugins/juick/src/juicksettings.ui" line="43"/>
-        <location filename="../../plugins/juick/src/juicksettings.ui" line="75"/>
+        <location filename="../../plugins/juick/src/juicksettings.ui" line="32"/>
+        <location filename="../../plugins/juick/src/juicksettings.ui" line="64"/>
         <source>Underline</source>
         <translation type="unfinished">Подчеркивание</translation>
     </message>
     <message>
-        <location filename="../../plugins/juick/src/juicksettings.ui" line="52"/>
+        <location filename="../../plugins/juick/src/juicksettings.ui" line="55"/>
         <source>#post_id</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/juick/src/juicksettings.ui" line="84"/>
+        <location filename="../../plugins/juick/src/juicksettings.ui" line="87"/>
         <source>Show additional commands</source>
         <translation type="unfinished">Показывать дополнительные команды</translation>
     </message>
     <message>
-        <location filename="../../plugins/juick/src/juicksettings.ui" line="94"/>
+        <location filename="../../plugins/juick/src/juicksettings.ui" line="97"/>
         <source>User commands</source>
         <translation type="unfinished">Команды на @username</translation>
     </message>
     <message>
-        <location filename="../../plugins/juick/src/juicksettings.ui" line="101"/>
-        <location filename="../../plugins/juick/src/juicksettings.ui" line="115"/>
+        <location filename="../../plugins/juick/src/juicksettings.ui" line="104"/>
+        <location filename="../../plugins/juick/src/juicksettings.ui" line="118"/>
         <source>Commands separated by space</source>
         <translation type="unfinished">Команды разделяются пробелом</translation>
     </message>
     <message>
-        <location filename="../../plugins/juick/src/juicksettings.ui" line="108"/>
+        <location filename="../../plugins/juick/src/juicksettings.ui" line="111"/>
         <source>Post commands</source>
         <translation type="unfinished">Команды на #postid</translation>
     </message>

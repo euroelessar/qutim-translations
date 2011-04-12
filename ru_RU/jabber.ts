@@ -1038,7 +1038,7 @@
         <translation type="obsolete">Вы уже в конференции с другим ником</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+667"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+671"/>
         <source>You are already in conference with another nick</source>
         <translation type="unfinished">Вы уже в конференции с другим ником</translation>
     </message>
@@ -1082,7 +1082,7 @@
 <context>
     <name>Jabber::JAccount</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+187"/>
+        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+188"/>
         <source>qutIM</source>
         <comment>Local qutIM&apos;s name</comment>
         <translation type="unfinished"></translation>
@@ -1324,7 +1324,7 @@ Accept invitation?</source>
 </translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-422"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-426"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете перезайти?</translation>
     </message>
@@ -1342,7 +1342,7 @@ Accept invitation?</source>
         <translation type="obsolete">вошел в комнату</translation>
     </message>
     <message>
-        <location line="+44"/>
+        <location line="+48"/>
         <location line="+2"/>
         <location line="+2"/>
         <location line="+2"/>
@@ -1395,7 +1395,7 @@ Accept invitation?</source>
 %1</translation>
     </message>
     <message>
-        <location line="-101"/>
+        <location line="-105"/>
         <source> has been banned</source>
         <translation> был заблокирован</translation>
     </message>
@@ -1425,7 +1425,7 @@ Accept invitation?</source>
         <translation>Вы были заблокированы</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+16"/>
         <source> is now known as </source>
         <translation> теперь известен как </translation>
     </message>
