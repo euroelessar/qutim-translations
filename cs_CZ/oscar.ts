@@ -3825,17 +3825,22 @@
 <context>
     <name>qutim_sdk_0_3::oscar::OscarFileTransferSettings</name>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1152"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1154"/>
         <source>File transfer</source>
         <translation>Přenos souboru</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1155"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1157"/>
+        <source>Always use file transfer proxy</source>
+        <translation type="unfinished">Vždy použít proxy pro přenos souborů</translation>
+    </message>
+    <message>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1163"/>
         <source>Accept incoming connections on any port</source>
         <translation>Přijímat příchozí spojení na všech portech</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1167"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1175"/>
         <source>Local ports</source>
         <translation>Místní porty</translation>
     </message>

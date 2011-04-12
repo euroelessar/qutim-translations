@@ -1544,7 +1544,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="157"/>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="351"/>
+        <location filename="core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="353"/>
         <source>Set Status Text</source>
         <translation>Nastavit text stavu</translation>
     </message>
@@ -2286,7 +2286,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/trayicon/simpletray.cpp" line="147"/>
+        <location filename="core/src/corelayers/trayicon/simpletray.cpp" line="148"/>
         <source>Notification Area Icon</source>
         <translation type="unfinished"></translation>
     </message>
