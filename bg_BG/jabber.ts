@@ -888,7 +888,7 @@
         <translation type="obsolete">Вече сте в конференцията с друг псевдоним</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+667"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+671"/>
         <source>You are already in conference with another nick</source>
         <translation>Вече сте в конференцията с друг псевдоним</translation>
     </message>
@@ -932,7 +932,7 @@
 <context>
     <name>Jabber::JAccount</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/jaccount.cpp" line="+187"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/jaccount.cpp" line="+188"/>
         <source>qutIM</source>
         <comment>Local qutIM&apos;s name</comment>
         <translation>qutIM</translation>
@@ -994,7 +994,7 @@
 <context>
     <name>Jabber::JMUCSession</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-422"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-426"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете ли да се присъедините повторно?</translation>
     </message>
@@ -1004,7 +1004,7 @@
         <translation>Бяхте изритан</translation>
     </message>
     <message>
-        <location line="+44"/>
+        <location line="+48"/>
         <location line="+2"/>
         <location line="+2"/>
         <location line="+2"/>
@@ -1039,7 +1039,7 @@
         <translation>.посетител</translation>
     </message>
     <message>
-        <location line="-101"/>
+        <location line="-105"/>
         <source> has been banned</source>
         <translation> е с наложена забрана</translation>
     </message>
@@ -1069,7 +1069,7 @@
         <translation>Беше ви наложена забрана</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+16"/>
         <source> is now known as </source>
         <translation> сега се подвизава като </translation>
     </message>

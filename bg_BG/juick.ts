@@ -25,30 +25,30 @@
         <translation>Настройки</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+9"/>
         <source>@user_id</source>
         <translation></translation>
     </message>
     <message>
-        <location line="+9"/>
+        <location line="+23"/>
         <location line="+32"/>
         <source>Bold</source>
         <translation>Получер</translation>
     </message>
     <message>
-        <location line="-25"/>
+        <location line="-39"/>
         <location line="+32"/>
         <source>Italic</source>
         <translation>Курсив</translation>
     </message>
     <message>
-        <location line="-25"/>
+        <location line="-39"/>
         <location line="+32"/>
         <source>Underline</source>
         <translation>Подчертан</translation>
     </message>
     <message>
-        <location line="-23"/>
+        <location line="-9"/>
         <source>#post_id</source>
         <translation></translation>
     </message>
