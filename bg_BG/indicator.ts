@@ -24,7 +24,7 @@
         <translation>Интеграция с Индикатор аплета на Ubuntu</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/plugins/indicator/src/indicatorservice.cpp" line="+36"/>
+        <location filename="../../qutim-meta/plugins/indicator/src/indicatorservice.cpp" line="+39"/>
         <source>Close qutIM</source>
         <translation>Затваряне на qutIM</translation>
     </message>
