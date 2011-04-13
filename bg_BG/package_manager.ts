@@ -16,7 +16,7 @@
     <message>
         <location line="+8"/>
         <source>Art</source>
-        <translation>Графика</translation>
+        <translation>Украса</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -41,7 +41,7 @@
     <message>
         <location filename="../../qutim-meta/plugins/plugman/tools/packgen/choosecategorypage.cpp" line="+42"/>
         <source>Select art</source>
-        <translation>Избор на графика</translation>
+        <translation>Избор на украса</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -116,7 +116,7 @@
     <message>
         <location line="+19"/>
         <source>Art</source>
-        <translation>Графика</translation>
+        <translation>Украса</translation>
     </message>
     <message>
         <location line="+5"/>
