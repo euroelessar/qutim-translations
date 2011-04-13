@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="src/macplugin.cpp" line="+22"/>
+        <location filename="../../plugins/mac-integration/src/macplugin.cpp" line="+22"/>
         <source>Denis Daschenko</source>
         <translation>Дащенко Денис</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>MacIdleWidget</name>
     <message>
-        <location filename="src/idle/macidlewidget.ui" line="+14"/>
+        <location filename="../../plugins/mac-integration/src/idle/macidlewidget.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -20,7 +20,7 @@
         <location line="+18"/>
         <location line="+24"/>
         <source>Set status «%1» after:</source>
-        <translation type="unfinished">Установить статус «%1» после:</translation>
+        <translation type="unfinished">Установить статус «%1» через:</translation>
     </message>
     <message>
         <location line="-17"/>
@@ -33,7 +33,7 @@
 <context>
     <name>MacIntegration::MacSpellSettings</name>
     <message>
-        <location filename="src/spellchecker/macspellsettings.cpp" line="+14"/>
+        <location filename="../../plugins/mac-integration/src/spellchecker/macspellsettings.cpp" line="+14"/>
         <source>Language</source>
         <translation type="unfinished">Язык</translation>
     </message>
@@ -41,7 +41,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="src/macplugin.cpp" line="-4"/>
+        <location filename="../../plugins/mac-integration/src/macplugin.cpp" line="-4"/>
         <source>MacIntegration</source>
         <translation type="unfinished"></translation>
     </message>
