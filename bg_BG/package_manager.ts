@@ -213,6 +213,36 @@
         <source>Wrong platform</source>
         <translation>Неправилна платформа</translation>
     </message>
+    <message>
+        <location filename="../../qutim-meta/plugins/plugman/3rdparty/quasar/lib/savefile.cpp" line="+86"/>
+        <source>No target filename has been given.</source>
+        <translation>Не е зададено име на целевия файл.</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Already opened.</source>
+        <translation>Вече е отворен.</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Insufficient permissions in target directory.</source>
+        <translation>Недостатъчни права за целевата директория.</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Unable to open temporary file.</source>
+        <translation>Невъзможно е отварянето на врменнния файл.</translation>
+    </message>
+    <message>
+        <location line="+105"/>
+        <source>Synchronization to disk failed</source>
+        <translation>Неуспешно синхронизиране с диска</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Error during rename.</source>
+        <translation>Грешка при преимнуването.</translation>
+    </message>
 </context>
 <context>
     <name>manager</name>
