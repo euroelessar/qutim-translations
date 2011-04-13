@@ -187,7 +187,7 @@
     <message>
         <location filename="../../plugins/plugman/src/plugman.cpp" line="28"/>
         <source>Provides possibility to Get Hot New Stuff from open community</source>
-        <translation type="unfinished">Предоставляет возможность получение нового контента (оформление, плагины итп) от сообщества</translation>
+        <translation>Предоставляет возможность получение нового контента (оформление, плагины итп) от сообщества</translation>
     </message>
 </context>
 <context>
@@ -212,18 +212,48 @@
         <source>Wrong platform</source>
         <translation>Неправильная платформа</translation>
     </message>
+    <message>
+        <location filename="../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp" line="86"/>
+        <source>No target filename has been given.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp" line="93"/>
+        <source>Already opened.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp" line="103"/>
+        <source>Insufficient permissions in target directory.</source>
+        <translation type="unfinished">Нет прав доступа в целевой каталог.</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp" line="113"/>
+        <source>Unable to open temporary file.</source>
+        <translation type="unfinished">Не получилось открыть временный файл.</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp" line="218"/>
+        <source>Synchronization to disk failed</source>
+        <translation type="unfinished">Ошибка синхронизации с винтом</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp" line="242"/>
+        <source>Error during rename.</source>
+        <translation type="unfinished">Ошибка переименования.</translation>
+    </message>
 </context>
 <context>
     <name>manager</name>
     <message>
         <location filename="../../plugins/plugman/ui/manager.ui" line="20"/>
         <source>Plugman</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/ui/manager.ui" line="51"/>
         <source>Not yet implemented</source>
-        <translation type="unfinished">Пока еще не написано</translation>
+        <translation>Пока еще не написано</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/ui/manager.ui" line="61"/>
@@ -238,7 +268,7 @@
     <message>
         <location filename="../../plugins/plugman/ui/manager.ui" line="115"/>
         <source>find</source>
-        <translation type="unfinished">Поиск</translation>
+        <translation>Поиск</translation>
     </message>
 </context>
 <context>
@@ -274,46 +304,46 @@
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="72"/>
         <source>Unable to open archive: %1</source>
-        <translation type="unfinished">Не могу открыть архив: %1</translation>
+        <translation>Не могу открыть архив: %1</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="94"/>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="229"/>
         <source>warning: trying to overwrite existing files!</source>
-        <translation type="unfinished">Предупреджение: попытка перезаписи существующих файлов!</translation>
+        <translation>Предупреджение: попытка перезаписи существующих файлов!</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="100"/>
         <source>Unable to extract archive: %1 to %2</source>
-        <translation type="unfinished">Не могу распаковать архив %1 в %2</translation>
+        <translation>Не могу распаковать архив %1 в %2</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="107"/>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="241"/>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="251"/>
         <source>Installing:</source>
-        <translation type="unfinished">Установка:</translation>
+        <translation>Установка:</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="137"/>
         <source>Invalid package: %1</source>
-        <translation type="unfinished">Некорректный пакет: %1</translation>
+        <translation>Некорректный пакет: %1</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="175"/>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="184"/>
         <source>Removing:</source>
-        <translation type="unfinished">Удалиние:</translation>
+        <translation>Удалиние:</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="237"/>
         <source>Unable to update package %1: installed version is later</source>
-        <translation type="unfinished">Обновление пакета %1 не возможно: установлена более поздняя версия</translation>
+        <translation>Обновление пакета %1 не возможно: установлена более поздняя версия</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="247"/>
         <source>Unable to install package: %1</source>
-        <translation type="unfinished">Установка пакета %1 не возможна</translation>
+        <translation>Установка пакета %1 не возможна</translation>
     </message>
 </context>
 <context>
@@ -321,22 +351,22 @@
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugitemdelegate.cpp" line="68"/>
         <source>isUpgradable</source>
-        <translation type="unfinished">Обновление</translation>
+        <translation>Обновление</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugitemdelegate.cpp" line="72"/>
         <source>isInstallable</source>
-        <translation type="unfinished">Установка</translation>
+        <translation>Установка</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugitemdelegate.cpp" line="76"/>
         <source>isDowngradable</source>
-        <translation type="unfinished">Понижение версии</translation>
+        <translation>Понижение версии</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugitemdelegate.cpp" line="80"/>
         <source>installed</source>
-        <translation type="unfinished">Установлен</translation>
+        <translation>Установлен</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugitemdelegate.cpp" line="84"/>
@@ -346,7 +376,7 @@
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugitemdelegate.cpp" line="90"/>
         <source>Install</source>
-        <translation type="unfinished">Установить</translation>
+        <translation>Установить</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugitemdelegate.cpp" line="95"/>
@@ -356,7 +386,7 @@
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugitemdelegate.cpp" line="100"/>
         <source>Upgrade</source>
-        <translation type="unfinished">Обновить</translation>
+        <translation>Обновить</translation>
     </message>
 </context>
 <context>
@@ -369,17 +399,17 @@
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugmanager.cpp" line="46"/>
         <source>Update packages list</source>
-        <translation type="unfinished">Обновление списка пакетов</translation>
+        <translation>Обновление списка пакетов</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugmanager.cpp" line="48"/>
         <source>Upgrade all</source>
-        <translation type="unfinished">Обновить все пакеты</translation>
+        <translation>Обновить все пакеты</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugmanager.cpp" line="52"/>
         <source>Revert changes</source>
-        <translation type="unfinished">Отменить изменения</translation>
+        <translation>Отменить изменения</translation>
     </message>
 </context>
 <context>
@@ -387,7 +417,7 @@
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugpackagemodel.cpp" line="98"/>
         <source>Packages</source>
-        <translation type="unfinished">Пакеты</translation>
+        <translation>Пакеты</translation>
     </message>
 </context>
 <context>
@@ -397,43 +427,43 @@
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="224"/>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="239"/>
         <source>Unable to open file</source>
-        <translation type="unfinished">Не удалось открыть файл</translation>
+        <translation>Не удалось открыть файл</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="122"/>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="228"/>
         <source>Unable to set content</source>
         <translatorcomment>промт</translatorcomment>
-        <translation type="unfinished">Не возможно установить содержимое</translation>
+        <translation>Не возможно установить содержимое</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="136"/>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="175"/>
         <source>Unable to write file</source>
-        <translation type="unfinished">Не удалось записать файл</translation>
+        <translation>Не удалось записать файл</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="153"/>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="288"/>
         <source>Can&apos;t read database. Check your pesmissions.</source>
-        <translation type="unfinished">Не могу прочитать базу данных. Проверьте права доступа.</translation>
+        <translation>Не могу прочитать базу данных. Проверьте права доступа.</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="158"/>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="294"/>
         <source>Broken package database</source>
-        <translation type="unfinished">Сбой базы пакетов</translation>
+        <translation>Сбой базы пакетов</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="196"/>
         <source>unable to open file</source>
-        <translation type="unfinished">не удалось открыть файл</translation>
+        <translation>не удалось открыть файл</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="199"/>
         <source>unable to set content</source>
         <translatorcomment>промт</translatorcomment>
-        <translation type="unfinished">не возможно установить содержимое</translation>
+        <translation>не возможно установить содержимое</translation>
     </message>
 </context>
 <context>
@@ -517,7 +547,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugmansettings.cpp" line="18"/>
         <source>Url</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 </TS>
