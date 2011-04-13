@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="src/winint.cpp" line="+38"/>
+        <location filename="../../plugins/win-integration/src/winint.cpp" line="+38"/>
         <source>Vizir Ivan</source>
         <translation type="unfinished">Визир Иван</translation>
     </message>
@@ -30,7 +30,7 @@
 <context>
     <name>SelectAccDlg</name>
     <message>
-        <location filename="src/selectaccdlg.ui" line="+14"/>
+        <location filename="../../plugins/win-integration/src/selectaccdlg.ui" line="+14"/>
         <source>Dialog</source>
         <translation type="unfinished">Диалог</translation>
     </message>
@@ -42,18 +42,18 @@
     <message>
         <location line="+18"/>
         <source>Please, select one of your accout to chat with Jabber ID %1.</source>
-        <translation type="unfinished">Выберите аккаун jabber, для часа с %1.</translation>
+        <translation type="unfinished">Выберите аккаун jabber, для чата с %1.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Available accounts:</source>
-        <translation type="unfinished">Доступные аккаунты:</translation>
+        <translation>Доступные аккаунты:</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location filename="src/winint.cpp" line="-3"/>
+        <location filename="../../plugins/win-integration/src/winint.cpp" line="-3"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -92,7 +92,7 @@
 <context>
     <name>WSettingsForm</name>
     <message>
-        <location filename="src/wsettings.ui" line="+14"/>
+        <location filename="../../plugins/win-integration/src/wsettings.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -109,7 +109,8 @@
     <message>
         <location line="+6"/>
         <source>Open Jabber links with qutIM. This may require administrative privelegies.</source>
-        <translation type="unfinished">Открытие jabber ссылок в qutIM. Это может поьтребовать административных привелегий.</translation>
+        <translation type="unfinished">Открытие jabber ссылок в qutIM.
+Это может потребовать административных привелегий.</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -124,7 +125,7 @@
     <message>
         <location line="+6"/>
         <source>Overlay Icon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Статусная иконка</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -152,7 +153,7 @@
 <context>
     <name>WThumbnailsProvider</name>
     <message>
-        <location filename="subplugins/win7taskbar/thumbnails-renderer.cpp" line="+91"/>
+        <location filename="../../plugins/win-integration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="+91"/>
         <source>&lt;b&gt;You have new messages.&lt;/b&gt;</source>
         <translation type="unfinished">&lt;b&gt;У тебя новые  сообщения.&lt;/b&gt;</translation>
     </message>
