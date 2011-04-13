@@ -4,7 +4,7 @@
 <context>
     <name>AccSelectionDlg</name>
     <message>
-        <location filename="src/account_selection.ui" line="+14"/>
+        <location filename="../../plugins/urihandler/src/account_selection.ui" line="+14"/>
         <source>Select account</source>
         <translation type="unfinished">Выберите аккаунт</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="src/urihandlerplugin.cpp" line="+10"/>
+        <location filename="../../plugins/urihandler/src/urihandlerplugin.cpp" line="+10"/>
         <source>Vizir Ivan</source>
         <translation>Визир Иван</translation>
     </message>
@@ -33,7 +33,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="src/abstract_handler.cpp" line="+40"/>
+        <location filename="../../plugins/urihandler/src/abstract_handler.cpp" line="+40"/>
         <source>link is invalid or empty.</source>
         <translation type="unfinished">ссылка не верная или пуста.</translation>
     </message>
@@ -93,20 +93,20 @@
         <translation type="unfinished">Действие не указан в ссылке, поэтому просто открываем чат с %1.</translation>
     </message>
     <message>
-        <location filename="src/handler_xmpp.cpp" line="+61"/>
-        <location filename="subplugins/urihandler_jabber/handler_xmpp.cpp" line="+61"/>
+        <location filename="../../plugins/urihandler/src/handler_xmpp.cpp" line="+61"/>
+        <location filename="../../plugins/urihandler/subplugins/urihandler_jabber/handler_xmpp.cpp" line="+61"/>
         <source>Name of contact is being added</source>
         <translation type="unfinished">Имя добавляемого контакта</translation>
     </message>
     <message>
         <location line="+2"/>
-        <location filename="subplugins/urihandler_jabber/handler_xmpp.cpp" line="+2"/>
+        <location filename="../../plugins/urihandler/subplugins/urihandler_jabber/handler_xmpp.cpp" line="+2"/>
         <source>Group of contact is being added</source>
         <translation type="unfinished">Группа добавляемого контакта</translation>
     </message>
     <message>
         <location line="+8"/>
-        <location filename="subplugins/urihandler_jabber/handler_xmpp.cpp" line="+8"/>
+        <location filename="../../plugins/urihandler/subplugins/urihandler_jabber/handler_xmpp.cpp" line="+8"/>
         <source>Message to send</source>
         <translation type="unfinished">Сообщение для отправки</translation>
     </message>
@@ -114,7 +114,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="src/urihandlerplugin.cpp" line="-3"/>
+        <location filename="../../plugins/urihandler/src/urihandlerplugin.cpp" line="-3"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
