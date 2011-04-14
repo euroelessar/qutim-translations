@@ -33,12 +33,12 @@
     <message>
         <location filename="plugins/win-integration/src/selectaccdlg.ui" line="39"/>
         <source>Select your account</source>
-        <translation type="unfinished">Vyberte váš účet</translation>
+        <translation>Vyberte váš účet</translation>
     </message>
     <message>
         <location filename="plugins/win-integration/src/selectaccdlg.ui" line="57"/>
         <source>Please, select one of your accout to chat with Jabber ID %1.</source>
-        <translation type="unfinished">Vyberte účet pro konverzaci s Jabber ID %1.</translation>
+        <translation>Vyberte účet ke konverzaci s Jabber ID %1.</translation>
     </message>
     <message>
         <location filename="plugins/win-integration/src/selectaccdlg.ui" line="69"/>
@@ -69,49 +69,49 @@
     <message>
         <location filename="plugins/win-integration/src/wsettings.ui" line="39"/>
         <source>Links association</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Asociace odkazů</translation>
     </message>
     <message>
         <location filename="plugins/win-integration/src/wsettings.ui" line="45"/>
         <source>Open Jabber links with qutIM. This may require administrative privelegies.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otevře Jabber odkazy pomocí qutIMu. Toto může vyžadovat správcovská práva.</translation>
     </message>
     <message>
         <location filename="plugins/win-integration/src/wsettings.ui" line="65"/>
         <source>Update associations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktualizovat asociace</translation>
     </message>
     <message>
         <location filename="plugins/win-integration/src/wsettings.ui" line="104"/>
         <source>Taskbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavní panel</translation>
     </message>
     <message>
         <location filename="plugins/win-integration/src/wsettings.ui" line="110"/>
         <source>Overlay Icon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Překrývající ikona</translation>
     </message>
     <message>
         <location filename="plugins/win-integration/src/wsettings.ui" line="116"/>
         <location filename="plugins/win-integration/src/wsettings.ui" line="152"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Povoleno</translation>
     </message>
     <message>
         <location filename="plugins/win-integration/src/wsettings.ui" line="126"/>
         <location filename="plugins/win-integration/src/wsettings.ui" line="162"/>
         <source>Show new messages number</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit počet nových zpráv</translation>
     </message>
     <message>
         <location filename="plugins/win-integration/src/wsettings.ui" line="136"/>
         <source>Add new conference messages number</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat počet nových zpráv v konferenci</translation>
     </message>
     <message>
         <location filename="plugins/win-integration/src/wsettings.ui" line="146"/>
         <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Náhledy</translation>
     </message>
 </context>
 <context>

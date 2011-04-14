@@ -342,7 +342,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="core/src/corelayers/adiumchat/chatforms/symbianchatform/stackedchatwidget.cpp" line="59"/>
         <source>Toggle fullscreen</source>
-        <translation type="unfinished">Přepnout na celou obrazovku</translation>
+        <translation>Přepnout na celou obrazovku</translation>
     </message>
 </context>
 <context>
@@ -1583,7 +1583,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="93"/>
         <source>Global status</source>
-        <translation type="unfinished">Globální stav</translation>
+        <translation>Globální stav</translation>
     </message>
     <message>
         <location filename="core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="94"/>
@@ -1637,7 +1637,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <message>
         <location filename="core/src/submitpage.cpp" line="26"/>
         <source>Congratulations</source>
-        <translation type="unfinished">Gratuluji</translation>
+        <translation>Gratuluji</translation>
     </message>
     <message>
         <location filename="core/src/submitpage.cpp" line="27"/>

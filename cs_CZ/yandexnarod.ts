@@ -69,25 +69,40 @@
 <context>
     <name>YandexNarodAuthorizator</name>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="70"/>
+        <location filename="plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="82"/>
         <source>Has no login or password</source>
         <translation>Není zadáno přihlašovací jméno nebo heslo</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="79"/>
+        <location filename="plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="91"/>
         <source>Authorization succeed</source>
         <translation>Autorizace uspěla</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="83"/>
+        <location filename="plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="95"/>
         <source>Authorization failured</source>
         <translation>Autorizace selhala</translation>
+    </message>
+    <message>
+        <location filename="plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="169"/>
+        <source>Unsupported grant type. Inform developers.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="171"/>
+        <source>Invalid request. Inform developers.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="173"/>
+        <source>Invalid login or/and password</source>
+        <translation>Neplatné příhlašovací jméno nebo heslo</translation>
     </message>
 </context>
 <context>
     <name>YandexNarodFactory</name>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="214"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="220"/>
         <source>Yandex.Narod</source>
         <translation></translation>
     </message>
@@ -164,22 +179,22 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>YandexNarodUploadJob</name>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="124"/>
+        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="126"/>
         <source>Authorizing...</source>
         <translation type="unfinished">Autorizování...</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="147"/>
+        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="149"/>
         <source>Getting storage...</source>
         <translation type="unfinished">Načítání uložiště...</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="207"/>
+        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="213"/>
         <source>Could not open file %1</source>
         <translation>Nelze otevřít soubor %1</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="319"/>
+        <location filename="plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="335"/>
         <source>File sent: %N (%S bytes)
 %U</source>
         <comment>Don&apos;t remove format arguments</comment>
