@@ -174,7 +174,7 @@
     <message>
         <location filename="../../qutim-meta/plugins/plugman/src/packagedownloaddialog.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Списък пакети</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -543,7 +543,7 @@
     <message>
         <location filename="../../qutim-meta/plugins/plugman/ui/settings.ui" line="+20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки за пакети</translation>
     </message>
     <message>
         <location line="+19"/>
