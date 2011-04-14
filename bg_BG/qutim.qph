@@ -2434,7 +2434,7 @@
 </phrase>
 <phrase>
     <source>Copy Link</source>
-    <target>Копиране препратката</target>
+    <target>Копиране на препратката</target>
 </phrase>
 <phrase>
     <source>Copy Image</source>
@@ -3115,5 +3115,13 @@
 <phrase>
     <source>Uninstall</source>
     <target>Деинсталиране</target>
+</phrase>
+<phrase>
+    <source>Warning:</source>
+    <target>Предупреждение:</target>
+</phrase>
+<phrase>
+    <source>Location:</source>
+    <target>Местоположение:</target>
 </phrase>
 </QPH>
