@@ -170,9 +170,82 @@
     </message>
 </context>
 <context>
+    <name>PackageDownloadDialog</name>
+    <message>
+        <location filename="../../qutim-meta/plugins/plugman/src/packagedownloaddialog.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Order by:</source>
+        <translation>Подреждане по:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Newest</source>
+        <translation>Най-нови</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Rating</source>
+        <translation>Рейтинг</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Most downloads</source>
+        <translation>Най-изтегляни</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Installed</source>
+        <translation>Инсталирани</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Search:</source>
+        <translation>Търсене:</translation>
+    </message>
+</context>
+<context>
+    <name>PackageEntryWidget</name>
+    <message>
+        <location filename="../../qutim-meta/plugins/plugman/src/packageentrywidget.cpp" line="+90"/>
+        <location line="+3"/>
+        <location line="+3"/>
+        <source>By &lt;i&gt;%1&lt;/i&gt;</source>
+        <translation>От &lt;i&gt;%1&lt;/i&gt;</translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Install</source>
+        <translation>Инсталиране</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Update</source>
+        <translation>Актуализиране</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Installing</source>
+        <translation>Инсталиране</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Updating</source>
+        <translation>Актуализиране</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Uninstall</source>
+        <translation>Деинсталиране</translation>
+    </message>
+</context>
+<context>
     <name>PackageManager</name>
     <message>
-        <location filename="../../qutim-meta/plugins/plugman/src/plugman.cpp" line="+38"/>
+        <location filename="../../qutim-meta/plugins/plugman/src/plugman.cpp" line="+39"/>
         <source>Manage packages</source>
         <translation>Управление на пакети</translation>
     </message>

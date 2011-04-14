@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/urlpreview/src/urlpreview.cpp" line="+34"/>
+        <location filename="../../qutim-meta/plugins/urlpreview/src/urlpreview.cpp" line="+35"/>
         <source>Alexander Kazarin</source>
         <translation>Александър Казарин</translation>
     </message>
@@ -47,17 +47,17 @@
 <context>
     <name>UrlPreview::UrlPreviewPlugin</name>
     <message>
-        <location line="+30"/>
+        <location line="+38"/>
         <source>URL Preview</source>
         <translation>Предварителен преглед на адреси</translation>
     </message>
     <message>
-        <location line="+0"/>
+        <location line="+1"/>
         <source>bytes</source>
         <translation>Байта</translation>
     </message>
     <message>
-        <location line="+154"/>
+        <location line="+174"/>
         <source>YouTube video</source>
         <translation>YouTube видео</translation>
     </message>

@@ -3108,4 +3108,12 @@
     <source>Art</source>
     <target>Украса</target>
 </phrase>
+<phrase>
+    <source>Order by:</source>
+    <target>Подреждане по:</target>
+</phrase>
+<phrase>
+    <source>Uninstall</source>
+    <target>Деинсталиране</target>
+</phrase>
 </QPH>

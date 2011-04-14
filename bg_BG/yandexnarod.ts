@@ -77,7 +77,7 @@
 <context>
     <name>YandexNarodAuthorizator</name>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="+70"/>
+        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="+82"/>
         <source>Has no login or password</source>
         <translation>Липсват потребителско име и парола</translation>
     </message>
@@ -91,11 +91,26 @@
         <source>Authorization failured</source>
         <translation>Неуспешно удостоверяване</translation>
     </message>
+    <message>
+        <location line="+74"/>
+        <source>Unsupported grant type. Inform developers.</source>
+        <translation>Неподдържан тип на предоставяне. Информирайте разрабочиците.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Invalid request. Inform developers.</source>
+        <translation>Невалидна заявка. Информирайте разрабочиците.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Invalid login or/and password</source>
+        <translation>Невалидни потребителско име и/или парола</translation>
+    </message>
 </context>
 <context>
     <name>YandexNarodFactory</name>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarod.cpp" line="+142"/>
+        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarod.cpp" line="+148"/>
         <source>Yandex.Narod</source>
         <translation>Yandex.Narod</translation>
     </message>
@@ -226,7 +241,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>YandexNarodUploadJob</name>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="+124"/>
+        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="+126"/>
         <source>Authorizing...</source>
         <translation>Удостоверяване...</translation>
     </message>
@@ -236,12 +251,12 @@ p, li { white-space: pre-wrap; }
         <translation>Получаване на хранилището...</translation>
     </message>
     <message>
-        <location line="+60"/>
+        <location line="+64"/>
         <source>Could not open file %1</source>
         <translation>Файлът %1 не може да бъде отворен</translation>
     </message>
     <message>
-        <location line="+112"/>
+        <location line="+122"/>
         <source>File sent: %N (%S bytes)
 %U</source>
         <comment>Don&apos;t remove format arguments</comment>
