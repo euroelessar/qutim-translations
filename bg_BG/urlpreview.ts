@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/urlpreview/src/urlpreview.cpp" line="+35"/>
+        <location filename="../../qutim-meta/plugins/urlpreview/src/urlpreview.cpp" line="+33"/>
         <source>Alexander Kazarin</source>
         <translation>Александър Казарин</translation>
     </message>
@@ -45,9 +45,9 @@
     </message>
 </context>
 <context>
-    <name>UrlPreview::UrlPreviewPlugin</name>
+    <name>UrlPreview::UrlHandler</name>
     <message>
-        <location line="+38"/>
+        <location filename="../../qutim-meta/plugins/urlpreview/src/messagehandler.cpp" line="+54"/>
         <source>URL Preview</source>
         <translation>Предварителен преглед на адреси</translation>
     </message>
@@ -57,7 +57,7 @@
         <translation>Байта</translation>
     </message>
     <message>
-        <location line="+174"/>
+        <location line="+149"/>
         <source>YouTube video</source>
         <translation>YouTube видео</translation>
     </message>
@@ -66,6 +66,25 @@
         <location line="+8"/>
         <source>Unknown</source>
         <translation>Неизвестен</translation>
+    </message>
+</context>
+<context>
+    <name>UrlPreview::UrlPreviewPlugin</name>
+    <message>
+        <source>URL Preview</source>
+        <translation type="obsolete">Предварителен преглед на адреси</translation>
+    </message>
+    <message>
+        <source>bytes</source>
+        <translation type="obsolete">Байта</translation>
+    </message>
+    <message>
+        <source>YouTube video</source>
+        <translation type="obsolete">YouTube видео</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="obsolete">Неизвестен</translation>
     </message>
 </context>
 </TS>

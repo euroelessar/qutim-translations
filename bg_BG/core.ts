@@ -107,7 +107,7 @@
         <translation>Име:</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+63"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+65"/>
         <source>Remove from roster</source>
         <translation>Премахване от списъка</translation>
     </message>
