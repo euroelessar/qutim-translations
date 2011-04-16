@@ -28,6 +28,7 @@
     <name>AccountCreatorList</name>
     <message>
         <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorlist.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/accountcreator/ui_accountcreatorlist.h" line="+53"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -48,6 +49,7 @@
     <name>AccountCreatorProtocols</name>
     <message>
         <location filename="../../qutim/src/corelayers/accountcreator/accountcreatorprotocols.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/accountcreator/ui_accountcreatorprotocols.h" line="+55"/>
         <source>WizardPage</source>
         <translation>Помошник миграции</translation>
     </message>
@@ -117,16 +119,19 @@
     <message>
         <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.ui" line="+14"/>
         <location filename="../../qutim/src/corelayers/addcontactdlg/addcontact.cpp" line="+45"/>
+        <location filename="../../qutim/src/corelayers/addcontactdlg/ui_addcontact.h" line="+117"/>
         <source>Add contact</source>
         <translation>Добавить контакт</translation>
     </message>
     <message>
         <location line="+33"/>
+        <location filename="../../qutim/src/corelayers/addcontactdlg/ui_addcontact.h" line="+1"/>
         <source>TextLabel</source>
         <translation>Поле текста</translation>
     </message>
     <message>
         <location line="+10"/>
+        <location filename="../../qutim/src/corelayers/addcontactdlg/ui_addcontact.h" line="+1"/>
         <source>Name:</source>
         <translation>Имя:</translation>
     </message>
@@ -139,7 +144,7 @@
         <translation type="obsolete">Отмена</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/simpleactions/src/simpleactions.cpp" line="+63"/>
+        <location filename="../../qutim/src/corelayers/simpleactions/src/simpleactions.cpp" line="+65"/>
         <source>Remove from roster</source>
         <translation>Удалить из ростера</translation>
     </message>
@@ -189,11 +194,13 @@
     <name>AppearanceSettings</name>
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/src/settings/popupappearance.ui" line="+20"/>
+        <location filename="../../qutim/src/corelayers/kineticpopups/ui_popupappearance.h" line="+86"/>
         <source>Form</source>
         <translation>Вид</translation>
     </message>
     <message>
         <location line="+25"/>
+        <location filename="../../qutim/src/corelayers/kineticpopups/ui_popupappearance.h" line="+1"/>
         <source>test</source>
         <translation>Тест</translation>
     </message>
@@ -202,20 +209,23 @@
     <name>AuthDialog</name>
     <message>
         <location filename="../../qutim/src/corelayers/authdialog/authdialog.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/authdialog/ui_authdialog.h" line="+71"/>
         <source>Dialog</source>
         <translation></translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+19"/>
+        <location filename="../../qutim/src/corelayers/authdialog/ui_authdialog.h" line="+3"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation></translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Ubuntu&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Droid Sans&apos;;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+14"/>
+        <location line="-13"/>
+        <location filename="../../qutim/src/corelayers/authdialog/ui_authdialog.h" line="-2"/>
         <source>TextLabel</source>
         <translation>Поле текста</translation>
     </message>
@@ -258,6 +268,7 @@ p, li { white-space: pre-wrap; }
     <name>BehaviorSettings</name>
     <message>
         <location filename="../../qutim/src/corelayers/notificationssettings/notifications.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+95"/>
         <source>Form</source>
         <translation>Вид</translation>
     </message>
@@ -267,51 +278,61 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+9"/>
+        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+1"/>
         <source>Timeout, msec:</source>
         <translation>Время отображения, мс:</translation>
     </message>
     <message>
         <location line="+13"/>
+        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+1"/>
         <source>5000</source>
         <translation>5000</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+1"/>
         <source>Animation speed:</source>
         <translation>Скорость анимации:</translation>
     </message>
     <message>
         <location line="+11"/>
+        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+3"/>
         <source>No Animation</source>
         <translation>Без анимации</translation>
     </message>
     <message>
         <location line="+5"/>
+        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+1"/>
         <source>Very fast</source>
         <translation>Очень быстро</translation>
     </message>
     <message>
         <location line="+5"/>
+        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+1"/>
         <source>Fast</source>
         <translation>Быстро</translation>
     </message>
     <message>
         <location line="+5"/>
+        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+1"/>
         <source>Normal</source>
         <translation>Нормально</translation>
     </message>
     <message>
         <location line="+5"/>
+        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+1"/>
         <source>Slow</source>
         <translation>Медленно</translation>
     </message>
     <message>
         <location line="+5"/>
+        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+1"/>
         <source>Very slow</source>
         <translation>Очень медленно</translation>
     </message>
     <message>
         <location line="+5"/>
+        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+1"/>
         <source>Custom</source>
         <translation>Иная скорость</translation>
     </message>
@@ -319,7 +340,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../qutim/src/corelayers/jsonhistory/jsonhistory.cpp" line="+34"/>
+        <location filename="../../qutim/src/corelayers/jsonhistory/jsonhistory.cpp" line="+125"/>
         <source>View History</source>
         <translation>История</translation>
     </message>
@@ -542,7 +563,7 @@ p, li { white-space: pre-wrap; }
         <translation>Править инфо</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/authdialog/authdialogimpl_p.h" line="+27"/>
+        <location filename="../../qutim/src/corelayers/authdialog/authdialogimpl_p.h" line="+38"/>
         <source>Recieved authorizarion request from %1:</source>
         <translation>Принята авторизация от %1:</translation>
     </message>
@@ -845,20 +866,20 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Не могу отправить сообщение для %1</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="+51"/>
-        <location line="+19"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="+52"/>
+        <location line="+26"/>
         <source>Chat with %1 (have %2 unread messages)</source>
         <translation>Чат с %1 (%2 не прочитанных сообщений(е))</translation>
     </message>
     <message>
-        <location line="-17"/>
-        <location line="+19"/>
+        <location line="-24"/>
+        <location line="+26"/>
         <source>Chat with %1</source>
         <translation>Чат с %1</translation>
     </message>
     <message>
-        <location line="-16"/>
-        <location line="+19"/>
+        <location line="-23"/>
+        <location line="+26"/>
         <source>Conference %1 (%2)</source>
         <translation>Конференция %1 (%2)</translation>
     </message>
@@ -1212,6 +1233,11 @@ p, li { white-space: pre-wrap; }
         <source>Recieved authorizarion request from %1:</source>
         <translation type="obsolete">Принята авторизация от %1:</translation>
     </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/authdialog/authdialogimpl_p.h" line="-21"/>
+        <source>Actions</source>
+        <translation type="unfinished">Действия</translation>
+    </message>
 </context>
 <context>
     <name>Core::ChatAppearance</name>
@@ -1477,16 +1503,19 @@ p, li { white-space: pre-wrap; }
     <name>Core::MetaContacts::MergeDialog</name>
     <message>
         <location filename="../../qutim/src/corelayers/metacontacts/mergedialog.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/metacontacts/ui_mergedialog.h" line="+92"/>
         <source>Manage metacontact</source>
         <translation>Управление метаконтактами</translation>
     </message>
     <message>
         <location line="+6"/>
+        <location filename="../../qutim/src/corelayers/metacontacts/ui_mergedialog.h" line="+1"/>
         <source>MetaContact name:</source>
         <translation>Имя метаконтакта:</translation>
     </message>
     <message>
         <location line="+10"/>
+        <location filename="../../qutim/src/corelayers/metacontacts/ui_mergedialog.h" line="+1"/>
         <source>Search contacts:</source>
         <translation>Поиск контактов:</translation>
     </message>
@@ -2260,8 +2289,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+5"/>
+        <source>&lt;b&gt;Short:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Version:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM Version:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt Version:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Screen resolution:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;System locale:&lt;/b&gt; %9&lt;br /&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Кратко:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Версия:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Полностью:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия библиотеки Qt:&lt;/b&gt; %5 (%6 бит) &lt;br /&gt;&lt;b&gt;Разрешение экрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Системная локаль:&lt;/b&gt; %9&lt;br /&gt;</translation>
+    </message>
+    <message>
         <source>&lt;b&gt;Short:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Version:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM Version:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt Version:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Screen resolution:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Country:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Language:&lt;/b&gt; %10 &lt;br /&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Кратко:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Версия:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия Qt:&lt;/b&gt; %5 (%6 бит) &lt;br /&gt;&lt;b&gt;Разрешение экрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Страна:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Язык:&lt;/b&gt; %10 &lt;br /&gt;</translation>
+        <translation type="obsolete">&lt;b&gt;Кратко:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Версия:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия Qt:&lt;/b&gt; %5 (%6 бит) &lt;br /&gt;&lt;b&gt;Разрешение экрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Страна:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Язык:&lt;/b&gt; %10 &lt;br /&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;OS:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Short:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM Version:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt Version:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Screen resolution:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Country:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Language:&lt;/b&gt; %10 &lt;br /&gt;</source>
@@ -2324,16 +2357,19 @@ p, li { white-space: pre-wrap; }
     <name>DefaultSearchForm</name>
     <message>
         <location filename="../../qutim/src/corelayers/searchdialog/defaultform/defaultsearchform.ui" line="+20"/>
+        <location filename="../../qutim/src/corelayers/searchdialog/ui_defaultsearchform.h" line="+167"/>
         <source>Search window</source>
         <translation>Окно поиска</translation>
     </message>
     <message>
         <location line="+64"/>
+        <location filename="../../qutim/src/corelayers/searchdialog/ui_defaultsearchform.h" line="+2"/>
         <source>Search</source>
         <translation>Искать</translation>
     </message>
     <message>
         <location line="+10"/>
+        <location filename="../../qutim/src/corelayers/searchdialog/ui_defaultsearchform.h" line="+1"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
@@ -2414,6 +2450,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/filetransfer/filetransferdialog.ui" line="+20"/>
+        <location filename="../../qutim/src/corelayers/filetransfer/ui_filetransferdialog.h" line="+52"/>
         <source>File transfer manager</source>
         <translation>Модуль передачи файлов</translation>
     </message>
@@ -2422,16 +2459,19 @@ p, li { white-space: pre-wrap; }
     <name>HistoryWindowClass</name>
     <message>
         <location filename="../../qutim/src/corelayers/jsonhistory/historywindow.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/jsonhistory/ui_historywindow.h" line="+173"/>
         <source>HistoryWindow</source>
         <translation>История</translation>
     </message>
     <message>
         <location line="+13"/>
+        <location filename="../../qutim/src/corelayers/jsonhistory/ui_historywindow.h" line="+1"/>
         <source>Account:</source>
         <translation>Уч.Запись:</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/src/corelayers/jsonhistory/ui_historywindow.h" line="+1"/>
         <source>From:</source>
         <translation variants="yes">
             <lengthvariant>От:</lengthvariant>
@@ -2440,31 +2480,37 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+26"/>
+        <location filename="../../qutim/src/corelayers/jsonhistory/ui_historywindow.h" line="+1"/>
         <source>In: %L1</source>
         <translation>Пришло: %L1</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/src/corelayers/jsonhistory/ui_historywindow.h" line="+1"/>
         <source>Out: %L1</source>
         <translation>Ушло: %L1</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/src/corelayers/jsonhistory/ui_historywindow.h" line="+1"/>
         <source>All: %L1</source>
         <translation>Всего: %L1</translation>
     </message>
     <message>
         <location line="+20"/>
+        <location filename="../../qutim/src/corelayers/jsonhistory/ui_historywindow.h" line="+1"/>
         <source>Search</source>
         <translation>Поиск</translation>
     </message>
     <message>
         <location line="+3"/>
+        <location filename="../../qutim/src/corelayers/jsonhistory/ui_historywindow.h" line="+1"/>
         <source>Return</source>
         <translation>Назад</translation>
     </message>
     <message>
         <location line="+36"/>
+        <location filename="../../qutim/src/corelayers/jsonhistory/ui_historywindow.h" line="+2"/>
         <source>1</source>
         <translation></translation>
     </message>
@@ -2473,18 +2519,23 @@ p, li { white-space: pre-wrap; }
     <name>IdleStatusWidget</name>
     <message>
         <location filename="../../qutim/src/corelayers/idlestatuschanger/idlestatuswidget.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/idlestatuschanger/ui_idlestatuswidget.h" line="+106"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
     <message utf8="true">
         <location line="+18"/>
         <location line="+24"/>
+        <location filename="../../qutim/src/corelayers/idlestatuschanger/ui_idlestatuswidget.h" line="+1"/>
+        <location line="+2"/>
         <source>Set status «%1» after:</source>
         <translation>Установить статус «%1» через:</translation>
     </message>
     <message>
         <location line="-17"/>
         <location line="+24"/>
+        <location filename="../../qutim/src/corelayers/idlestatuschanger/ui_idlestatuswidget.h" line="-1"/>
+        <location line="+2"/>
         <source> min</source>
         <comment>seconds</comment>
         <translatorcomment>Секунд, нах, лол бля</translatorcomment>
@@ -2509,11 +2560,13 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchat.ui" line="+14"/>
         <location filename="../../qutim/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp" line="+70"/>
+        <location filename="../../qutim/src/corelayers/joingroupchatdlg/ui_joingroupchat.h" line="+110"/>
         <source>Join groupchat</source>
         <translation>Войти в конференцию</translation>
     </message>
     <message>
         <location line="+16"/>
+        <location filename="../../qutim/src/corelayers/joingroupchatdlg/ui_joingroupchat.h" line="+1"/>
         <source>Select account:</source>
         <translation>Выбор учетной записи:</translation>
     </message>
@@ -2645,6 +2698,7 @@ p, li { white-space: pre-wrap; }
     <name>LocalizationSettings</name>
     <message>
         <location filename="../../qutim/src/corelayers/localization/localizationsettings.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/localization/ui_localizationsettings.h" line="+52"/>
         <source>Form</source>
         <translation></translation>
     </message>
@@ -2687,21 +2741,25 @@ p, li { white-space: pre-wrap; }
     <name>MigrationStartPage</name>
     <message>
         <location filename="../../qutim/src/corelayers/migration02x03/migrationstartpage.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/migration02x03/ui_migrationstartpage.h" line="+85"/>
         <source>WizardPage</source>
         <translation>Помощник миграции</translation>
     </message>
     <message>
         <location line="+6"/>
+        <location filename="../../qutim/src/corelayers/migration02x03/ui_migrationstartpage.h" line="+1"/>
         <source>I want to import configuration and history</source>
         <translation>Я хочу импортировать конфигурацию и историю</translation>
     </message>
     <message>
         <location line="+10"/>
+        <location filename="../../qutim/src/corelayers/migration02x03/ui_migrationstartpage.h" line="+1"/>
         <source>Choose profile:</source>
         <translation>Выберите профиль:</translation>
     </message>
     <message>
         <location line="+17"/>
+        <location filename="../../qutim/src/corelayers/migration02x03/ui_migrationstartpage.h" line="+1"/>
         <source>Choose accounts:</source>
         <translation>Выберите учетную запись:</translation>
     </message>
@@ -2710,11 +2768,13 @@ p, li { white-space: pre-wrap; }
     <name>MobileAboutDialog</name>
     <message>
         <location filename="../../qutim/src/corelayers/mobileabout/mobileaboutdialog.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/mobileabout/ui_mobileaboutdialog.h" line="+84"/>
         <source>About qutIM</source>
         <translation>О qutIM</translation>
     </message>
     <message>
         <location line="+24"/>
+        <location filename="../../qutim/src/corelayers/mobileabout/ui_mobileaboutdialog.h" line="+1"/>
         <source>TextLabel</source>
         <translation>Поле текста</translation>
     </message>
@@ -2723,11 +2783,13 @@ p, li { white-space: pre-wrap; }
     <name>MobileSearchForm</name>
     <message>
         <location filename="../../qutim/src/corelayers/searchdialog/mobileform/mobilesearchform.ui" line="+20"/>
+        <location filename="../../qutim/src/corelayers/searchdialog/ui_mobilesearchform.h" line="+167"/>
         <source>Search window</source>
         <translation>Окно поиска</translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/searchdialog/ui_mobilesearchform.h" line="+1"/>
         <source>Select account:</source>
         <translation>Выбор учетной записи:</translation>
     </message>
@@ -3451,13 +3513,9 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Кинетическая прокрутка из грядущего выпуска библотеки Qt</translation>
     </message>
     <message>
-        <source>Qt Quick view (experimental)</source>
-        <translation type="obsolete">Qt Quick отображение чата (экспериментально)</translation>
-    </message>
-    <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/qmlchat/qmlchatplugin.cpp" line="+11"/>
-        <source>Qt Quick view</source>
-        <translation type="unfinished"></translation>
+        <source>Qt Quick view (experimental)</source>
+        <translation type="unfinished">Qt Quick отображение чата (экспериментально)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3525,45 +3583,45 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Пиктограмма области уведомления</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torycontactlistwidgetplugin.cpp" line="+11"/>
-        <source>Tory Contactlist</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
         <source>Tory contactlist</source>
-        <translation type="unfinished">Список контактов Tory</translation>
+        <translation type="obsolete">Список контактов Tory</translation>
     </message>
 </context>
 <context>
     <name>ProfileCreationPage</name>
     <message>
         <location filename="../../qutim/src/profilecreationpage.ui" line="+14"/>
+        <location filename="../../qutim/ui_profilecreationpage.h" line="+211"/>
         <source>WizardPage</source>
         <translation>Помошник миграции</translation>
     </message>
     <message>
         <location line="+27"/>
+        <location filename="../../qutim/ui_profilecreationpage.h" line="+1"/>
         <source>Name:</source>
         <translation>Имя:</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/ui_profilecreationpage.h" line="+2"/>
         <source>It will be shown in chat dialogs</source>
         <translation>Имя в вашем чате</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/ui_profilecreationpage.h" line="+2"/>
         <source>Profile id:</source>
         <translation>Идент. профиля:</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/ui_profilecreationpage.h" line="+2"/>
         <source>Used for profile identification</source>
         <translation>Используется для определения профиля</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/ui_profilecreationpage.h" line="+2"/>
         <source>Config dir:</source>
         <translation>Папка с настройками:</translation>
     </message>
@@ -3571,31 +3629,39 @@ p, li { white-space: pre-wrap; }
         <location line="+12"/>
         <location line="+14"/>
         <location line="+14"/>
+        <location filename="../../qutim/ui_profilecreationpage.h" line="+1"/>
+        <location line="+1"/>
+        <location line="+1"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
         <location line="+9"/>
+        <location filename="../../qutim/ui_profilecreationpage.h" line="+1"/>
         <source>History dir:</source>
         <translation>Папка с историей:</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/ui_profilecreationpage.h" line="+1"/>
         <source>Data dir:</source>
         <translation type="unfinished">Папка с общими файлами:</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/ui_profilecreationpage.h" line="+1"/>
         <source>Store data at application dir</source>
         <translation>Переносной режим, настройки рядом с программой</translation>
     </message>
     <message>
         <location line="+20"/>
+        <location filename="../../qutim/ui_profilecreationpage.h" line="+1"/>
         <source>Choose cryptograhic module:</source>
         <translation>Выберите модуль шифрования:</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/ui_profilecreationpage.h" line="+1"/>
         <source>Choose config backend:</source>
         <translation>Выберите модуль хранения настроек:</translation>
     </message>
@@ -3632,6 +3698,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim/src/profiledialog.ui" line="+53"/>
+        <location filename="../../qutim/ui_profiledialog.h" line="+71"/>
         <source>Profiles</source>
         <translation>Профили</translation>
     </message>
@@ -3900,6 +3967,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/servicechooser/servicechooserwidget.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/servicechooser/ui_servicechooserwidget.h" line="+54"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -4122,6 +4190,7 @@ p, li { white-space: pre-wrap; }
     <name>ShortcutSettingsWidget</name>
     <message>
         <location filename="../../qutim/src/corelayers/shortcutsettings/shortcutsettingswidget.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/shortcutsettings/ui_shortcutsettingswidget.h" line="+54"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -4134,41 +4203,49 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/simpleabout/simpleaboutdialog.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/simpleabout/ui_simpleaboutdialog.h" line="+260"/>
         <source>About qutIM</source>
         <translation type="unfinished">О qutIM</translation>
     </message>
     <message>
         <location line="+96"/>
+        <location filename="../../qutim/src/corelayers/simpleabout/ui_simpleaboutdialog.h" line="+1"/>
         <source>Module based instant messenger.</source>
         <translation>Модульный интернет пейджер.</translation>
     </message>
     <message>
         <location line="+33"/>
+        <location filename="../../qutim/src/corelayers/simpleabout/ui_simpleaboutdialog.h" line="+1"/>
         <source>Source code repository:</source>
         <translation>Исходный код:</translation>
     </message>
     <message>
         <location line="+17"/>
+        <location filename="../../qutim/src/corelayers/simpleabout/ui_simpleaboutdialog.h" line="+1"/>
         <source>Project site:</source>
         <translation>Сайт проекта:</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/src/corelayers/simpleabout/ui_simpleaboutdialog.h" line="+1"/>
         <source>Bug tracker:</source>
         <translation>Об ошибках сообщать:</translation>
     </message>
     <message>
         <location line="+33"/>
+        <location filename="../../qutim/src/corelayers/simpleabout/ui_simpleaboutdialog.h" line="+1"/>
         <source>Developers</source>
         <translation>Разработчики</translation>
     </message>
     <message>
         <location line="+23"/>
+        <location filename="../../qutim/src/corelayers/simpleabout/ui_simpleaboutdialog.h" line="+1"/>
         <source>Translators</source>
         <translation>Переводчики</translation>
     </message>
     <message>
         <location line="+17"/>
+        <location filename="../../qutim/src/corelayers/simpleabout/ui_simpleaboutdialog.h" line="+1"/>
         <source>License</source>
         <translation>Лицензия</translation>
     </message>
@@ -4181,26 +4258,31 @@ p, li { white-space: pre-wrap; }
     <name>SimpleContactlistSettings</name>
     <message>
         <location filename="../../qutim/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/ui_simplecontactlistsettings.h" line="+77"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
     <message>
         <location line="+9"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/ui_simplecontactlistsettings.h" line="+1"/>
         <source>Status icons size:</source>
         <translation>Размер пиктограмм статуса:</translation>
     </message>
     <message>
         <location line="+10"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/ui_simplecontactlistsettings.h" line="+1"/>
         <source>Show avatars</source>
         <translation>Показывать аватары</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/ui_simplecontactlistsettings.h" line="+1"/>
         <source>Show status text</source>
         <translation>Показывать текст статуса</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/ui_simplecontactlistsettings.h" line="+1"/>
         <source>Show extended icons</source>
         <translatorcomment>расширенные статусы?</translatorcomment>
         <translation>Показывать дополнительные пиктограммы</translation>
@@ -4214,21 +4296,25 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/password/simplepasswordwidget.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/password/ui_simplepasswordwidget.h" line="+82"/>
         <source>Password Request</source>
         <translation>Запрос пароля</translation>
     </message>
     <message>
         <location line="+6"/>
+        <location filename="../../qutim/src/corelayers/password/ui_simplepasswordwidget.h" line="+1"/>
         <source>Enter password for account %1 (%2):</source>
         <translation>Введите пароль к аккаунту %1 (%2):</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/src/corelayers/password/ui_simplepasswordwidget.h" line="+1"/>
         <source>Enter password:</source>
         <translation>Пароль:</translation>
     </message>
     <message>
         <location line="+14"/>
+        <location filename="../../qutim/src/corelayers/password/ui_simplepasswordwidget.h" line="+1"/>
         <source>Remember password</source>
         <translation>Запомнить</translation>
     </message>
@@ -4237,6 +4323,7 @@ p, li { white-space: pre-wrap; }
     <name>SimpleStatusDialog</name>
     <message>
         <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/simplestatusdialog.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/ui_simplestatusdialog.h" line="+61"/>
         <source>Set Status Text</source>
         <translation>Установить текст статуса</translation>
     </message>
@@ -4245,6 +4332,7 @@ p, li { white-space: pre-wrap; }
     <name>SimpleTagsEditor</name>
     <message>
         <location filename="../../qutim/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.ui" line="+46"/>
+        <location filename="../../qutim/src/corelayers/simpleactions/ui_simpletagseditor.h" line="+84"/>
         <source>Add</source>
         <translation>Добавить</translation>
     </message>
@@ -4253,41 +4341,49 @@ p, li { white-space: pre-wrap; }
     <name>SimpletraySettings</name>
     <message>
         <location filename="../../qutim/src/corelayers/trayicon/simpletraysettings.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/trayicon/ui_simpletraysettings.h" line="+106"/>
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+18"/>
+        <location filename="../../qutim/src/corelayers/trayicon/ui_simpletraysettings.h" line="+1"/>
         <source>Icon</source>
         <translation type="unfinished">Пиктограмма</translation>
     </message>
     <message>
         <location line="+6"/>
+        <location filename="../../qutim/src/corelayers/trayicon/ui_simpletraysettings.h" line="+1"/>
         <source>Show number of new messages</source>
         <translation type="unfinished">Показывать количество новых сообщений</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/src/corelayers/trayicon/ui_simpletraysettings.h" line="+1"/>
         <source>Show number of chats with new messages</source>
         <translation type="unfinished">Показывать количество чатов с новыми сообщениями</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/src/corelayers/trayicon/ui_simpletraysettings.h" line="+1"/>
         <source>Show only icon</source>
         <translation type="unfinished">Показывать только пиктограмму</translation>
     </message>
     <message>
         <location line="+10"/>
+        <location filename="../../qutim/src/corelayers/trayicon/ui_simpletraysettings.h" line="+1"/>
         <source>Other</source>
         <translation type="unfinished">Другой</translation>
     </message>
     <message>
         <location line="+6"/>
+        <location filename="../../qutim/src/corelayers/trayicon/ui_simpletraysettings.h" line="+1"/>
         <source>Show mail icon if there are new messages</source>
         <translation type="unfinished">Пиктограмма сообщения при новом сообщении</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/src/corelayers/trayicon/ui_simpletraysettings.h" line="+1"/>
         <source>Blink icon</source>
         <translation type="unfinished">Мигание пиктограммы</translation>
     </message>
@@ -4327,6 +4423,7 @@ p, li { white-space: pre-wrap; }
     <name>SoundThemeSelector</name>
     <message>
         <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/ui_soundthemeselector.h" line="+62"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -4336,23 +4433,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui" line="+14"/>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/symbianchatform/settings/stackedchatbehavior.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_stackedchatbehavior.h" line="+113"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
     <message>
         <location line="+48"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_stackedchatbehavior.h" line="+1"/>
         <source>Send Key</source>
         <translation>Кнопка отправки сообщения</translation>
     </message>
     <message>
         <location line="+8"/>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/symbianchatform/settings/stackedchatbehavior.ui" line="+42"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_stackedchatbehavior.h" line="+1"/>
         <source>Store service messages in history</source>
         <translation>Хранить служебные сообщения в истории</translation>
     </message>
     <message>
         <location line="+7"/>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/symbianchatform/settings/stackedchatbehavior.ui" line="+7"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_stackedchatbehavior.h" line="+2"/>
         <source>Number of previous messages shown in new chats</source>
         <translation variants="yes">
             <lengthvariant>Кол-во сообщений в новом чате из прошлого диалога</lengthvariant>
@@ -4362,12 +4463,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+3"/>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/symbianchatform/settings/stackedchatbehavior.ui" line="+3"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_stackedchatbehavior.h" line="+2"/>
         <source>Number of shown previous messages:</source>
         <translation>Количество предыдущих сообщений:</translation>
     </message>
     <message>
         <location line="+10"/>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/symbianchatform/settings/stackedchatbehavior.ui" line="+10"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_stackedchatbehavior.h" line="+1"/>
         <source>Don&apos;t group messages after (sec):</source>
         <translation>Не группировать сообщения после (сек):</translation>
     </message>
@@ -4443,21 +4546,25 @@ p, li { white-space: pre-wrap; }
     <name>TabbedChatBehavior</name>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/ui_tabbedchatbehavior.h" line="+139"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
     <message>
         <location line="+98"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/ui_tabbedchatbehavior.h" line="+11"/>
         <source>Send Key</source>
         <translation>Кнопка отправки сообщения</translation>
     </message>
     <message>
         <location line="-74"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/ui_tabbedchatbehavior.h" line="-10"/>
         <source>Store service messages in history</source>
         <translation>Хранить служебные сообщения в истории</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/ui_tabbedchatbehavior.h" line="+2"/>
         <source>Number of previous messages shown in new chats</source>
         <translation variants="yes">
             <lengthvariant>Кол-во сообщений в новом чате из прошлого диалога</lengthvariant>
@@ -4466,36 +4573,43 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+3"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/ui_tabbedchatbehavior.h" line="+2"/>
         <source>Number of shown previous messages:</source>
         <translation>Количество предыдущих сообщений:</translation>
     </message>
     <message>
         <location line="+10"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/ui_tabbedchatbehavior.h" line="+1"/>
         <source>Don&apos;t group messages after (sec):</source>
         <translation>Не группировать сообщения после (сек):</translation>
     </message>
     <message>
         <location line="+14"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/ui_tabbedchatbehavior.h" line="+1"/>
         <source>Tab position:</source>
         <translation>Расположение вкладок чата:</translation>
     </message>
     <message>
         <location line="+10"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/ui_tabbedchatbehavior.h" line="+1"/>
         <source>Form layout:</source>
         <translation>Формат чата:</translation>
     </message>
     <message>
         <location line="+10"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/ui_tabbedchatbehavior.h" line="+1"/>
         <source>Chat state icons on tabs</source>
         <translation>Пиктограмма состояния чата на вкладке</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/ui_tabbedchatbehavior.h" line="+1"/>
         <source>Show menubar</source>
         <translation>Показывать панель меню</translation>
     </message>
     <message>
         <location line="+21"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/ui_tabbedchatbehavior.h" line="+2"/>
         <source>Show notifications in active chat</source>
         <translation type="unfinished">Показывать уведомления о сообщении при активном окне чата</translation>
     </message>
@@ -4504,6 +4618,7 @@ p, li { white-space: pre-wrap; }
     <name>TagsFilterDialog</name>
     <message>
         <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/tagsfilterdialog.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/ui_tagsfilterdialog.h" line="+61"/>
         <source>Select tags</source>
         <translation>Выберите метки</translation>
     </message>
@@ -4666,6 +4781,7 @@ p, li { white-space: pre-wrap; }
     <name>chatAppearance</name>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/ui_chatappearance.h" line="+100"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -4679,6 +4795,7 @@ p, li { white-space: pre-wrap; }
     <name>emoticonsSelector</name>
     <message>
         <location filename="../../qutim/src/corelayers/emoticonssettings/emoticonsselector.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/emoticonssettings/ui_emoticonsselector.h" line="+57"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -4687,16 +4804,19 @@ p, li { white-space: pre-wrap; }
     <name>kb_Qwerty</name>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="+21"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+649"/>
         <source>FastSMS</source>
         <translation></translation>
     </message>
     <message>
         <location line="+54"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>q</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+15"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>qQ1§й</source>
         <translation></translation>
     </message>
@@ -4737,312 +4857,374 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-1439"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>w</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>wW2$ц</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>e</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+15"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+2"/>
         <source>eE3£у</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>r</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>rR4€к</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>t</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>tT5¥е</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>y</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>yY6-н</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>u</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>uU7&lt;г</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>i</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>iI8&gt;ш</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>o</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>oO9[щ</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>p</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>pP0]з</source>
         <translation></translation>
     </message>
     <message>
         <location line="+38"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>a</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>aA({ф</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>s</source>
         <translation>с</translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>sS)}ы</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>d</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>dD+^в</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>f</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>fF*\а</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>g</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>gG=/п</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>h</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>hH&amp;~р</source>
         <translation></translation>
     </message>
     <message>
         <location line="+32"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>j</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>jJ--о</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>k</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>kK__л</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>l</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>lL^|д</source>
         <translation></translation>
     </message>
     <message>
         <location line="+19"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>:</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+9"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>:;`№ж</source>
         <translation></translation>
     </message>
     <message>
         <location line="+79"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+2"/>
         <source>z</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>zZёёя</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>x</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>xXъъч</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>c</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>cC??с</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>v</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>vV!!м</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>b</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>bB;;и</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>n</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>nN::т</source>
         <translation></translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>m</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>mM,,ь</source>
         <translation></translation>
     </message>
     <message>
         <location line="+16"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>?</source>
         <translation>?</translation>
     </message>
     <message utf8="true">
         <location line="+9"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>?!%%б</source>
         <translation></translation>
     </message>
     <message>
         <location line="+85"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+2"/>
         <source>1#</source>
         <translation>1#</translation>
     </message>
     <message>
         <location line="+31"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>ru
 en</source>
         <translation></translation>
     </message>
     <message>
         <location line="+41"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+2"/>
         <source>,</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>,(##х</source>
         <translation></translation>
     </message>
     <message>
         <location line="+68"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+2"/>
         <source>.</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+12"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>.)&apos;&apos;э</source>
         <translation></translation>
     </message>
     <message>
         <location line="+22"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>&quot;</source>
         <translation></translation>
     </message>
     <message utf8="true">
         <location line="+9"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/ui_kb_qwerty.h" line="+1"/>
         <source>&quot;&apos;@@ю</source>
         <translation></translation>
     </message>
@@ -5064,11 +5246,13 @@ en</source>
     <name>quickChatAppearance</name>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/qmlchat/ui_chatappearance.h" line="+57"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
     <message>
         <location line="+6"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/qmlchat/ui_chatappearance.h" line="+1"/>
         <source>Enable openGL acceleration</source>
         <translation>Задействовать OpenGL ускорение</translation>
     </message>
@@ -5214,21 +5398,25 @@ en</source>
     <name>userInformationClass</name>
     <message>
         <location filename="../../qutim/src/corelayers/contactinfo/userinformation.ui" line="+14"/>
+        <location filename="../../qutim/src/corelayers/contactinfo/ui_userinformation.h" line="+114"/>
         <source>userInformation</source>
         <translation>Информация о пользователе (vCard)</translation>
     </message>
     <message>
         <location line="+41"/>
+        <location filename="../../qutim/src/corelayers/contactinfo/ui_userinformation.h" line="+2"/>
         <source>Save</source>
         <translation>Сохранить</translation>
     </message>
     <message>
         <location line="+11"/>
+        <location filename="../../qutim/src/corelayers/contactinfo/ui_userinformation.h" line="+1"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
     <message>
         <location line="-35"/>
+        <location filename="../../qutim/src/corelayers/contactinfo/ui_userinformation.h" line="-2"/>
         <source>Request details</source>
         <translation>Запросить детали</translation>
     </message>
