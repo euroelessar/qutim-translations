@@ -932,7 +932,7 @@
 <context>
     <name>Jabber::JAccount</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/jaccount.cpp" line="+188"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/jaccount.cpp" line="+207"/>
         <source>qutIM</source>
         <comment>Local qutIM&apos;s name</comment>
         <translation>qutIM</translation>
@@ -981,7 +981,7 @@
 <context>
     <name>Jabber::JMUCManager</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+167"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+176"/>
         <source>Join groupchat on</source>
         <translation>Присъединяване към групов разговор за</translation>
     </message>

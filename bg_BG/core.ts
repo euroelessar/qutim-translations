@@ -148,20 +148,28 @@
         <translation>Удостоверяване</translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+19"/>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Ubuntu&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Droid Sans&apos;;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="obsolete">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location line="+14"/>
+        <location line="-13"/>
         <source>TextLabel</source>
         <translation></translation>
     </message>
@@ -265,7 +273,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/jsonhistory/jsonhistory.cpp" line="+34"/>
+        <location filename="../../qutim-meta/core/src/corelayers/jsonhistory/jsonhistory.cpp" line="+125"/>
         <source>View History</source>
         <translation>Преглед на хронологията</translation>
     </message>
@@ -410,7 +418,7 @@ p, li { white-space: pre-wrap; }
         <translation>Редактиране на информацията</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogimpl_p.h" line="+27"/>
+        <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogimpl_p.h" line="+38"/>
         <source>Recieved authorizarion request from %1:</source>
         <translation>Получена заявка за удостоверяване от %1:</translation>
     </message>
@@ -651,20 +659,20 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::AbstractChatWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="+51"/>
-        <location line="+19"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="+52"/>
+        <location line="+26"/>
         <source>Chat with %1 (have %2 unread messages)</source>
         <translation>Разговорът с %1 (има %2 непрочетени съобщения)</translation>
     </message>
     <message>
-        <location line="-17"/>
-        <location line="+19"/>
+        <location line="-24"/>
+        <location line="+26"/>
         <source>Chat with %1</source>
         <translation>Разговор с %1</translation>
     </message>
     <message>
-        <location line="-16"/>
-        <location line="+19"/>
+        <location line="-23"/>
+        <location line="+26"/>
         <source>Conference %1 (%2)</source>
         <translation>Конференция %1 (%2)</translation>
     </message>
@@ -915,6 +923,14 @@ p, li { white-space: pre-wrap; }
         <location line="+5"/>
         <source>&amp;Chat</source>
         <translation>&amp;Разговор</translation>
+    </message>
+</context>
+<context>
+    <name>Core::AuthDialogPrivate</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogimpl_p.h" line="-21"/>
+        <source>Actions</source>
+        <translation type="unfinished">Действия</translation>
     </message>
 </context>
 <context>
@@ -1756,9 +1772,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+6"/>
+        <source>&lt;b&gt;Short:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Version:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM Version:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt Version:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Screen resolution:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;System locale:&lt;/b&gt; %9&lt;br /&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;b&gt;Short:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Version:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM Version:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt Version:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Screen resolution:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Country:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Language:&lt;/b&gt; %10 &lt;br /&gt;</source>
         <translatorcomment>&lt;b&gt;ОС:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Кратко:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Пълно:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия на qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия на Qt:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Разделителна способност на екрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Държава:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Език:&lt;/b&gt; %10 &lt;br /&gt;</translatorcomment>
-        <translation>&lt;b&gt;Съкратено:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Версия:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Пълно:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия на qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия на Qt:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Разделителна способност на екрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Държава:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Език:&lt;/b&gt; %10 &lt;br /&gt;</translation>
+        <translation type="obsolete">&lt;b&gt;Съкратено:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Версия:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Пълно:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия на qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия на Qt:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Разделителна способност на екрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Държава:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Език:&lt;/b&gt; %10 &lt;br /&gt;</translation>
     </message>
     <message>
         <source>Are you want to report about this setup?</source>
