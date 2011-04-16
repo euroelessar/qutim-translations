@@ -170,9 +170,82 @@
     </message>
 </context>
 <context>
+    <name>PackageDownloadDialog</name>
+    <message>
+        <location filename="../../plugins/plugman/src/packagedownloaddialog.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished">Настройки</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/plugman/src/packagedownloaddialog.ui" line="26"/>
+        <source>Order by:</source>
+        <translation type="unfinished">Сортировать по:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/plugman/src/packagedownloaddialog.ui" line="33"/>
+        <source>Newest</source>
+        <translation type="unfinished">Дате выпуска</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/plugman/src/packagedownloaddialog.ui" line="43"/>
+        <source>Rating</source>
+        <translation type="unfinished">Рейтингу</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/plugman/src/packagedownloaddialog.ui" line="50"/>
+        <source>Most downloads</source>
+        <translation type="unfinished">Загрузкам</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/plugman/src/packagedownloaddialog.ui" line="57"/>
+        <source>Installed</source>
+        <translation type="unfinished">Кол-ву установок</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/plugman/src/packagedownloaddialog.ui" line="64"/>
+        <source>Search:</source>
+        <translation type="unfinished">Поиск:</translation>
+    </message>
+</context>
+<context>
+    <name>PackageEntryWidget</name>
+    <message>
+        <location filename="../../plugins/plugman/src/packageentrywidget.cpp" line="90"/>
+        <location filename="../../plugins/plugman/src/packageentrywidget.cpp" line="93"/>
+        <location filename="../../plugins/plugman/src/packageentrywidget.cpp" line="96"/>
+        <source>By &lt;i&gt;%1&lt;/i&gt;</source>
+        <translation type="unfinished">&lt;i&gt;%1&lt;/i&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/plugman/src/packageentrywidget.cpp" line="112"/>
+        <source>Install</source>
+        <translation type="unfinished">Установить</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/plugman/src/packageentrywidget.cpp" line="116"/>
+        <source>Update</source>
+        <translation type="unfinished">Обновить</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/plugman/src/packageentrywidget.cpp" line="120"/>
+        <source>Installing</source>
+        <translation type="unfinished">Установка</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/plugman/src/packageentrywidget.cpp" line="125"/>
+        <source>Updating</source>
+        <translation type="unfinished">Обновление</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/plugman/src/packageentrywidget.cpp" line="130"/>
+        <source>Uninstall</source>
+        <translation>Удалить</translation>
+    </message>
+</context>
+<context>
     <name>PackageManager</name>
     <message>
-        <location filename="../../plugins/plugman/src/plugman.cpp" line="38"/>
+        <location filename="../../plugins/plugman/src/plugman.cpp" line="39"/>
         <source>Manage packages</source>
         <translation>Управление пакетами</translation>
     </message>
@@ -180,12 +253,12 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../plugins/plugman/src/plugman.cpp" line="27"/>
+        <location filename="../../plugins/plugman/src/plugman.cpp" line="28"/>
         <source>Package manager</source>
         <translation>Управление пакетами</translation>
     </message>
     <message>
-        <location filename="../../plugins/plugman/src/plugman.cpp" line="28"/>
+        <location filename="../../plugins/plugman/src/plugman.cpp" line="29"/>
         <source>Provides possibility to Get Hot New Stuff from open community</source>
         <translation>Предоставляет возможность получение нового контента (оформление, плагины итп) от сообщества</translation>
     </message>

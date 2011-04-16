@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/urlpreview/src/urlpreview.cpp" line="+34"/>
+        <location filename="../../plugins/urlpreview/src/urlpreview.cpp" line="+33"/>
         <source>Alexander Kazarin</source>
         <translation type="unfinished">Казарин Александр</translation>
     </message>
@@ -41,27 +41,46 @@
     </message>
 </context>
 <context>
-    <name>UrlPreview::UrlPreviewPlugin</name>
+    <name>UrlPreview::UrlHandler</name>
     <message>
-        <location line="+30"/>
+        <location filename="../../plugins/urlpreview/src/messagehandler.cpp" line="+54"/>
         <source>URL Preview</source>
-        <translation>Предпросмотр URL</translation>
+        <translation type="unfinished">Предпросмотр URL</translation>
     </message>
     <message>
-        <location line="+0"/>
+        <location line="+1"/>
         <source>bytes</source>
-        <translation>байт</translation>
+        <translation type="unfinished">байт</translation>
     </message>
     <message>
-        <location line="+154"/>
+        <location line="+149"/>
         <source>YouTube video</source>
-        <translation>YouTube видео</translation>
+        <translation type="unfinished">YouTube видео</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+8"/>
         <source>Unknown</source>
         <translation type="unfinished">Неизвестно</translation>
+    </message>
+</context>
+<context>
+    <name>UrlPreview::UrlPreviewPlugin</name>
+    <message>
+        <source>URL Preview</source>
+        <translation type="obsolete">Предпросмотр URL</translation>
+    </message>
+    <message>
+        <source>bytes</source>
+        <translation type="obsolete">байт</translation>
+    </message>
+    <message>
+        <source>YouTube video</source>
+        <translation type="obsolete">YouTube видео</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="obsolete">Неизвестно</translation>
     </message>
 </context>
 <context>

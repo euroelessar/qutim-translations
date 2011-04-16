@@ -5443,4 +5443,16 @@ Accept invitation?</source>
     <source>Bold</source>
     <target>Жирно</target>
 </phrase>
+<phrase>
+    <source>Beer, wine, vodka, champagne: after which drink in this sequence I should stop?</source>
+    <target>Пиво, вино, водка, шампусик: после чего из списка мне стоит прекратить на сегодня пить?</target>
+</phrase>
+<phrase>
+    <source>We are ready to drink with you!</source>
+    <target>Мы готовы выпить с тобой, о юный падаван!</target>
+</phrase>
+<phrase>
+    <source>vodka;Vodka</source>
+    <target>vodka;Vodka;водка;Водка;wodka;Wodka</target>
+</phrase>
 </QPH>

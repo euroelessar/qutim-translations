@@ -6,63 +6,63 @@
     <message>
         <location filename="../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="+29"/>
         <source>Buying groceries</source>
-        <translation type="unfinished">Покупаю продукты</translation>
+        <translation>Покупаю продукты</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cleaning</source>
-        <translation type="unfinished">Убираюсь</translation>
+        <translation>Убираюсь</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cooking</source>
-        <translation type="unfinished">Готовка</translation>
+        <translation>Готовка</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Doing the dishes</source>
-        <translation type="unfinished">Готовлю поесть</translation>
+        <translation>Готовлю поесть</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Doing the laundry</source>
-        <translation type="unfinished">Стираю бельё</translation>
+        <translation>Стираю бельё</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Gardening</source>
-        <translation type="unfinished">Занимаюсь садоводством</translation>
+        <translation>Занимаюсь садоводством</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Running an errand</source>
-        <translation type="unfinished">Бегаю на посылках у старухи</translation>
+        <translation>Бегаю на посылках у старухи</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Walking the dog</source>
-        <translation type="unfinished">Гуляю с бобиком</translation>
+        <translation>Гуляю с бобиком</translation>
     </message>
     <message>
         <location line="-77"/>
         <source>Drinking</source>
         <translatorcomment>Слепой Пью</translatorcomment>
-        <translation type="unfinished">Пью</translation>
+        <translation>Пью</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Having a beer</source>
-        <translation type="unfinished">Пиво</translation>
+        <translation>Пиво</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Having coffee</source>
-        <translation type="unfinished">Кофе</translation>
+        <translation>Кофе</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Having tea</source>
-        <translation type="unfinished">Чай</translation>
+        <translation>Чай</translation>
     </message>
     <message>
         <source>Eeating</source>
@@ -71,132 +71,132 @@
     <message>
         <location line="-5"/>
         <source>Having a snack</source>
-        <translation type="unfinished">Закусываю</translation>
+        <translation>Закусываю</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Having breakfast</source>
-        <translation type="unfinished">Завтракаю</translation>
+        <translation>Завтракаю</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Having dinner</source>
-        <translation type="unfinished">Обедаю</translation>
+        <translation>Обедаю</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Having lunch</source>
-        <translation type="unfinished">Ланч</translation>
+        <translation>Ланч</translation>
     </message>
     <message>
         <location line="-18"/>
         <source>Cycling</source>
-        <translation type="unfinished">Катаюсь на велике</translation>
+        <translation>Катаюсь на велике</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Dancing</source>
-        <translation type="unfinished">Танцую</translation>
+        <translation>Танцую</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Hiking</source>
-        <translation type="unfinished">Пешком гуляю</translation>
+        <translation>Пешком гуляю</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Jogging</source>
-        <translation type="unfinished">Бегаю</translation>
+        <translation>Бегаю</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Playing sports</source>
-        <translation type="unfinished">Играю на площадке</translation>
+        <translation>Играю на площадке</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Running</source>
-        <translation type="unfinished">Работаю</translation>
+        <translation>Работаю</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Skiing</source>
-        <translation type="unfinished">Катаюсь на лыжах</translation>
+        <translation>Катаюсь на лыжах</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Swimming</source>
-        <translation type="unfinished">Плаваю</translation>
+        <translation>Плаваю</translation>
     </message>
     <message>
         <location line="-57"/>
         <source>At the spa</source>
-        <translation type="unfinished">В СПА салоне</translation>
+        <translation>В СПА салоне</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Brushing teeth</source>
-        <translation type="unfinished">Чищу зубы</translation>
+        <translation>Чищу зубы</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Getting a haircut</source>
-        <translation type="unfinished">Стригусь</translation>
+        <translation>Стригусь</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Shaving</source>
-        <translation type="unfinished">Бреюсь</translation>
+        <translation>Бреюсь</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Taking a bath</source>
-        <translation type="unfinished">Принимаю душ/ванну</translation>
+        <translation>Принимаю душ/ванну</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Taking a shower</source>
-        <translation type="unfinished">Принимаю душ</translation>
+        <translation>Принимаю душ</translation>
     </message>
     <message>
         <location line="-69"/>
         <source>Inactive</source>
-        <translation type="unfinished">Бездельничаю</translation>
+        <translation>Бездельничаю</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Day off</source>
-        <translation type="unfinished">Выходной</translation>
+        <translation>Выходной</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>On vacation</source>
-        <translation type="unfinished">На отдыхе</translation>
+        <translation>На отдыхе</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Praying</source>
-        <translation type="unfinished">Молюсь</translation>
+        <translation>Молюсь</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Scheduled holiday</source>
-        <translation type="unfinished">Отпуск</translation>
+        <translation>Отпуск</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Sleeping</source>
-        <translation type="unfinished">Сплю</translation>
+        <translation>Сплю</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Thinking</source>
-        <translation type="unfinished">Думаю</translation>
+        <translation>Думаю</translation>
     </message>
     <message>
         <location line="-69"/>
         <source>Relaxing</source>
-        <translation type="unfinished">Отдыхаю</translation>
+        <translation>Отдыхаю</translation>
     </message>
     <message>
         <location line="-7"/>
@@ -226,7 +226,7 @@
     <message>
         <location line="+5"/>
         <source>Undefined</source>
-        <translation type="unfinished">Не определено</translation>
+        <translation>Не определено</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -246,7 +246,7 @@
     <message>
         <location line="+1"/>
         <source>Gaming</source>
-        <translation type="unfinished">Играю</translation>
+        <translation>Играю</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -271,37 +271,37 @@
     <message>
         <location line="+1"/>
         <source>Partying</source>
-        <translation type="unfinished">Вечеринка</translation>
+        <translation>Вечеринка</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Reading</source>
-        <translation type="unfinished">Читаю</translation>
+        <translation>Читаю</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rehearsing</source>
-        <translation type="unfinished">Репетиция</translation>
+        <translation>Репетиция</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Shopping</source>
-        <translation type="unfinished">Покупки</translation>
+        <translation>Покупки</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Smoking</source>
-        <translation type="unfinished">Курю</translation>
+        <translation>Курю</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Socializing</source>
-        <translation type="unfinished">Общение</translation>
+        <translation>Общение</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Sunbathing</source>
-        <translation type="unfinished">Солнечные ванны</translation>
+        <translation>Солнечные ванны</translation>
     </message>
     <message>
         <source>Watching tv</source>
@@ -310,89 +310,89 @@
     <message>
         <location line="+7"/>
         <source>Watching a movie</source>
-        <translation type="unfinished">Смотрю кино</translation>
+        <translation>Смотрю кино</translation>
     </message>
     <message>
         <location line="-71"/>
         <source>Talking</source>
-        <translation type="unfinished">Болтаю</translation>
+        <translation>Болтаю</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>In real life</source>
-        <translation type="unfinished">Ушел в реалный мир, вернусь не скоро</translation>
+        <translation>Ушел в реалный мир, вернусь не скоро</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>On the phone</source>
-        <translation type="unfinished">На телефоне</translation>
+        <translation>На телефоне</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>On video phone</source>
-        <translation type="unfinished">На видеофоне</translation>
+        <translation>На видеофоне</translation>
     </message>
     <message>
         <location line="-46"/>
         <source>Traveling</source>
-        <translation type="unfinished">Путешествую</translation>
+        <translation>Путешествую</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Driving</source>
-        <translation type="unfinished">Веду авто</translation>
+        <translation>Веду авто</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>In a car</source>
         <translatorcomment>стиральной</translatorcomment>
-        <translation type="unfinished">В машине</translation>
+        <translation>В машине</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>On a bus</source>
-        <translation type="unfinished">На автобусе</translation>
+        <translation>На автобусе</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>On a plane</source>
         <translatorcomment>лучше на плане (без самолёта)</translatorcomment>
-        <translation type="unfinished">На самолёте</translation>
+        <translation>На самолёте</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>On a train</source>
-        <translation type="unfinished">В поезде</translation>
+        <translation>В поезде</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>On a trip</source>
-        <translation type="unfinished">В поездке</translation>
+        <translation>В поездке</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Walking</source>
-        <translation type="unfinished">Прогулка</translation>
+        <translation>Прогулка</translation>
     </message>
     <message>
         <location line="-66"/>
         <source>Working</source>
-        <translation type="unfinished">Работаю</translation>
+        <translation>Работаю</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Coding</source>
-        <translation type="unfinished">Программирую</translation>
+        <translation>Программирую</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>In a meeting</source>
-        <translation type="unfinished">На встрече</translation>
+        <translation>На встрече</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Studying</source>
-        <translation type="unfinished">Учусь</translation>
+        <translation>Учусь</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -407,17 +407,17 @@
     <message>
         <location line="+1"/>
         <source>Writing</source>
-        <translation type="unfinished">Пишу</translation>
+        <translation>Пишу</translation>
     </message>
     <message>
         <location line="+84"/>
         <source>Activity</source>
-        <translation type="unfinished">Занятие</translation>
+        <translation>Занятие</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Show contact activity icon</source>
-        <translation type="unfinished">Показывать пиктограмму занятия</translation>
+        <translation>Показывать пиктограмму занятия</translation>
     </message>
 </context>
 <context>
@@ -546,12 +546,12 @@
     <message>
         <location line="+1"/>
         <source>Personal email</source>
-        <translation type="unfinished">Эл.Почта</translation>
+        <translation>Эл.Почта</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Work email</source>
-        <translation type="unfinished">Эл.Почта на работе</translation>
+        <translation>Эл.Почта на работе</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -577,7 +577,7 @@
     <message>
         <location line="-4"/>
         <source>Region</source>
-        <translation type="unfinished">Регион</translation>
+        <translation>Регион</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -587,17 +587,17 @@
     <message>
         <location line="+1"/>
         <source>Postcode</source>
-        <translation type="unfinished">Почтовый код</translation>
+        <translation>Почтовый код</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Street</source>
-        <translation type="unfinished">Улица</translation>
+        <translation>Улица</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Postbox</source>
-        <translation type="unfinished">Почтовый ящик</translation>
+        <translation>Почтовый ящик</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -607,7 +607,7 @@
     <message>
         <location line="+1"/>
         <source>Department</source>
-        <translation type="unfinished">Департамент</translation>
+        <translation>Департамент</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -617,7 +617,7 @@
     <message>
         <location line="+1"/>
         <source>Role</source>
-        <translation type="unfinished">Роль</translation>
+        <translation>Роль</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -869,7 +869,7 @@
     <message>
         <location line="+10"/>
         <source>Password:</source>
-        <translation type="unfinished">Пароль:</translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -914,17 +914,17 @@
     <message>
         <location line="+17"/>
         <source>Autodetect connection settings</source>
-        <translation type="unfinished">Автоопределение настроек соединения</translation>
+        <translation>Автоопределение настроек соединения</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Server:</source>
-        <translation type="unfinished">Сервер:</translation>
+        <translation>Сервер:</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Port:</source>
-        <translation type="unfinished">Порт:</translation>
+        <translation>Порт:</translation>
     </message>
 </context>
 <context>
@@ -998,12 +998,12 @@
     <message>
         <location line="-20"/>
         <source>Remove subscription</source>
-        <translation type="unfinished">Удалить подписку</translation>
+        <translation>Удалить подписку</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Request subscription</source>
-        <translation type="unfinished">Запросить подписку</translation>
+        <translation>Запросить подписку</translation>
     </message>
     <message>
         <location line="+144"/>
@@ -1040,12 +1040,12 @@
     <message>
         <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+671"/>
         <source>You are already in conference with another nick</source>
-        <translation type="unfinished">Вы уже в конференции с другим ником</translation>
+        <translation>Вы уже в конференции с другим ником</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Please select another nickname</source>
-        <translation type="unfinished">Пожалуйста выберите другой ник</translation>
+        <translation>Пожалуйста выберите другой ник</translation>
     </message>
     <message>
         <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+178"/>
@@ -1055,17 +1055,17 @@
     <message>
         <location line="+3"/>
         <source>From</source>
-        <translation type="unfinished">выдана вам</translation>
+        <translation>выдана вам</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>To</source>
-        <translation type="unfinished">выдана вами</translation>
+        <translation>выдана вами</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Both</source>
-        <translation type="unfinished">Обоюдно</translation>
+        <translation>Обоюдно</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1076,13 +1076,13 @@
         <location line="+5"/>
         <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="+13"/>
         <source>Subscription</source>
-        <translation type="unfinished">Подписка</translation>
+        <translation>Подписка</translation>
     </message>
 </context>
 <context>
     <name>Jabber::JAccount</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+188"/>
+        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+207"/>
         <source>qutIM</source>
         <comment>Local qutIM&apos;s name</comment>
         <translation type="unfinished"></translation>
@@ -1100,7 +1100,7 @@
     <message>
         <location filename="../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="+229"/>
         <source>Set activity</source>
-        <translation type="unfinished">Занятие</translation>
+        <translation>Занятие</translation>
     </message>
 </context>
 <context>
@@ -1113,12 +1113,12 @@
     <message>
         <location filename="../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="-78"/>
         <source>Choose your activity</source>
-        <translation type="unfinished">Выберите ваше занятие</translation>
+        <translation>Выберите ваше занятие</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>No activity</source>
-        <translation type="unfinished">Нет занятия</translation>
+        <translation>Нет занятия</translation>
     </message>
 </context>
 <context>
@@ -1153,7 +1153,7 @@
     <message>
         <location filename="../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+44"/>
         <source>Unable to join groupchat</source>
-        <translation type="unfinished">Не могу присоедениться к групповому чату</translation>
+        <translation>Не могу присоедениться к групповому чату</translation>
     </message>
 </context>
 <context>
@@ -1287,7 +1287,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMUCManager</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+167"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+176"/>
         <source>Join groupchat on</source>
         <translation>Войти в конференцию</translation>
     </message>
@@ -1585,27 +1585,27 @@ Accept invitation?</source>
     <message>
         <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+335"/>
         <source>You have been added to the list of subscribers</source>
-        <translation type="unfinished">Вы были добавлены в список подписчиков</translation>
+        <translation>Вы были добавлены в список подписчиков</translation>
     </message>
     <message>
         <location line="-8"/>
         <source>You have been removed from the list of subscribers</source>
-        <translation type="unfinished">Вы были исключены из списка подписчиков</translation>
+        <translation>Вы были исключены из списка подписчиков</translation>
     </message>
     <message>
         <location line="-205"/>
         <source>Contact %1 has been added to roster</source>
-        <translation type="unfinished">Контакт %1 добавлен в ростер</translation>
+        <translation>Контакт %1 добавлен в ростер</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Contact %1 has been removed from roster</source>
-        <translation type="unfinished">Контакт %1 удален из ростера</translation>
+        <translation>Контакт %1 удален из ростера</translation>
     </message>
     <message>
         <location line="+169"/>
         <source>Received a request for removal from the subscribers</source>
-        <translation type="unfinished">Принят запрос на удаление из подписок</translation>
+        <translation>Принят запрос на удаление из подписок</translation>
     </message>
     <message>
         <source>You were authorized</source>
@@ -1634,7 +1634,7 @@ Accept invitation?</source>
     <message>
         <location line="+38"/>
         <source>Close</source>
-        <translation type="unfinished">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -2689,7 +2689,7 @@ Accept invitation?</source>
     <message>
         <location line="+10"/>
         <source>Save log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сохранить лог</translation>
     </message>
 </context>
 </TS>

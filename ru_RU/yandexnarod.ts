@@ -77,7 +77,7 @@
 <context>
     <name>YandexNarodAuthorizator</name>
     <message>
-        <location filename="../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="+70"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="+82"/>
         <source>Has no login or password</source>
         <translation>Не указан ник или пароль</translation>
     </message>
@@ -91,11 +91,26 @@
         <source>Authorization failured</source>
         <translation>Не удалось авторизоваться</translation>
     </message>
+    <message>
+        <location line="+74"/>
+        <source>Unsupported grant type. Inform developers.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Invalid request. Inform developers.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Invalid login or/and password</source>
+        <translation type="unfinished">Неверный логин и/или пароль</translation>
+    </message>
 </context>
 <context>
     <name>YandexNarodFactory</name>
     <message>
-        <location filename="../../plugins/yandexnarod/src/yandexnarod.cpp" line="+142"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnarod.cpp" line="+148"/>
         <source>Yandex.Narod</source>
         <translation type="unfinished">Я.Народ</translation>
     </message>
@@ -260,7 +275,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>YandexNarodUploadJob</name>
     <message>
-        <location filename="../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="+124"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="+126"/>
         <source>Authorizing...</source>
         <translation type="unfinished">Авторизация...</translation>
     </message>
@@ -270,12 +285,12 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Получение хранилища...</translation>
     </message>
     <message>
-        <location line="+60"/>
+        <location line="+64"/>
         <source>Could not open file %1</source>
         <translation type="unfinished">Не могу открыть %1</translation>
     </message>
     <message>
-        <location line="+112"/>
+        <location line="+122"/>
         <source>File sent: %N (%S bytes)
 %U</source>
         <comment>Don&apos;t remove format arguments</comment>
