@@ -904,13 +904,13 @@
 <context>
     <name>Jabber::JAccount</name>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/jaccount.cpp" line="188"/>
+        <location filename="protocols/jabber/src/protocol/account/jaccount.cpp" line="207"/>
         <source>qutIM</source>
         <comment>Local qutIM&apos;s name</comment>
         <translation></translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/jaccount.cpp" line="189"/>
+        <location filename="protocols/jabber/src/protocol/account/jaccount.cpp" line="208"/>
         <source>en</source>
         <comment>Default language</comment>
         <translation>cs-CZ</translation>
@@ -953,12 +953,12 @@
 <context>
     <name>Jabber::JMUCManager</name>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="167"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="176"/>
         <source>Join groupchat on</source>
         <translation type="unfinished">Vstoupit do konference na</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="168"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="177"/>
         <source>You already in conference with another nick</source>
         <translation type="unfinished">Již jste v konferenci pod jinou přezdívkou</translation>
     </message>

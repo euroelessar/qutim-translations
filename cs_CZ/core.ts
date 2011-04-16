@@ -107,22 +107,22 @@
         <translation>Jméno:</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="63"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="65"/>
         <source>Remove from roster</source>
         <translation>Odstranit ze seznamu kontaktů</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="64"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="66"/>
         <source>Add to roster</source>
         <translation>Přidat do seznamu kontaktů</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="112"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="114"/>
         <source>Unavailable</source>
         <translation>Není k dispozici</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="212"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="214"/>
         <source>Remove contact</source>
         <translation>Odstranit kontakt</translation>
     </message>
@@ -148,16 +148,16 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/authdialog/authdialog.ui" line="39"/>
+        <location filename="core/src/corelayers/authdialog/authdialog.ui" line="33"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation></translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Ubuntu&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Droid Sans&apos;;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/authdialog/authdialog.ui" line="53"/>
+        <location filename="core/src/corelayers/authdialog/authdialog.ui" line="20"/>
         <source>TextLabel</source>
         <translation></translation>
     </message>
@@ -257,7 +257,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="core/src/corelayers/jsonhistory/jsonhistory.cpp" line="34"/>
+        <location filename="core/src/corelayers/jsonhistory/jsonhistory.cpp" line="125"/>
         <source>View History</source>
         <translation>Zobrazit historii</translation>
     </message>
@@ -348,12 +348,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="core/src/corelayers/authdialog/authdialogimpl_p.h" line="27"/>
+        <location filename="core/src/corelayers/authdialog/authdialogimpl_p.h" line="38"/>
         <source>Recieved authorizarion request from %1:</source>
         <translation>Požadována autorizace od %1:</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/authdialog/authdialogimpl_p.h" line="31"/>
+        <location filename="core/src/corelayers/authdialog/authdialogimpl_p.h" line="42"/>
         <source>Send authorizarion request to %1:</source>
         <translation>Odeslat požadavek na autorizaci pro %1:</translation>
     </message>
@@ -402,18 +402,18 @@ p, li { white-space: pre-wrap; }
         <translation>ne</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="46"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="48"/>
         <source>Show information</source>
         <translation>Zobrazit informace</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="48"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="50"/>
         <source>Edit information</source>
         <translation>Upravit informace</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="51"/>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="100"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="53"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="102"/>
         <source>Information unavailable</source>
         <translation>Informace nejsou k dispozici</translation>
     </message>
@@ -421,7 +421,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="74"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="76"/>
         <source>Copy id to clipboard</source>
         <translation>Kopírovat ID do schránky</translation>
     </message>
@@ -501,12 +501,12 @@ p, li { white-space: pre-wrap; }
         <translation>Obrovská (64x64)</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="94"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="96"/>
         <source>Rename contact</source>
         <translation>Přejmenovat kontakt</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="83"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="85"/>
         <source>Edit tags</source>
         <translation>Upravit štítky</translation>
     </message>
@@ -624,20 +624,20 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::AbstractChatWidget</name>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="51"/>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="70"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="52"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="78"/>
         <source>Chat with %1 (have %2 unread messages)</source>
         <translation>Konverzace s %1 (máte %2 nepřečtené zprávy)</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="53"/>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="72"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="54"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="80"/>
         <source>Chat with %1</source>
         <translation>Konverzace s %1</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="56"/>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="75"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="57"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp" line="83"/>
         <source>Conference %1 (%2)</source>
         <translation>Konference %1 (%2)</translation>
     </message>
@@ -888,6 +888,14 @@ p, li { white-space: pre-wrap; }
         <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="176"/>
         <source>&amp;Chat</source>
         <translation>Konverza&amp;ce</translation>
+    </message>
+</context>
+<context>
+    <name>Core::AuthDialogPrivate</name>
+    <message>
+        <location filename="core/src/corelayers/authdialog/authdialogimpl_p.h" line="21"/>
+        <source>Actions</source>
+        <translation type="unfinished">Akce</translation>
     </message>
 </context>
 <context>
@@ -1426,17 +1434,17 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::SimpleActions</name>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="162"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="164"/>
         <source>Rename contact %1</source>
         <translation>Přejmenovat kontakt %1</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="163"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="165"/>
         <source>Input new name for contact %1</source>
         <translation>Zadejte nové jméno pro kontakt %1</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="213"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="215"/>
         <source>Are you sure you want to delete a contact %1 from the roster?</source>
         <translation>Opravdu chcete odstranit kontakt %1 ze seznamu kontaktů?</translation>
     </message>
@@ -1656,8 +1664,8 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     </message>
     <message>
         <location filename="core/src/submitpage.cpp" line="36"/>
-        <source>&lt;b&gt;Short:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Version:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM Version:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt Version:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Screen resolution:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Country:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Language:&lt;/b&gt; %10 &lt;br /&gt;</source>
-        <translation>&lt;b&gt;Stručně:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Verze:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Plné znění:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM verze:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt verze:&lt;/b&gt; %5 (%6 bitů) &lt;br /&gt;&lt;b&gt;Rozlišení obrazovky:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Stát:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Jazyk:&lt;/b&gt; %10 &lt;br /&gt;</translation>
+        <source>&lt;b&gt;Short:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Version:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM Version:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt Version:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Screen resolution:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;System locale:&lt;/b&gt; %9&lt;br /&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Stručně:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Verze:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Plné znění:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM verze:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt verze:&lt;/b&gt; %5 (%6 bitů) &lt;br /&gt;&lt;b&gt;Rozlišení obrazovky:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Lokalizace systému:&lt;/b&gt; %9&lt;br /&gt;</translation>
     </message>
 </context>
 <context>
@@ -2475,7 +2483,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <translation>4. čtvrtletí</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="143"/>
+        <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="145"/>
         <source>Copy %1 to clipboard</source>
         <translation>Kopírovat %1 do schránky</translation>
     </message>
