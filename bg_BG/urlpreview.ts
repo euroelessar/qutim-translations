@@ -57,7 +57,7 @@
         <translation>Байта</translation>
     </message>
     <message>
-        <location line="+149"/>
+        <location line="+150"/>
         <source>YouTube video</source>
         <translation>YouTube видео</translation>
     </message>

@@ -12,7 +12,7 @@
 <context>
     <name>Antispam::Handler</name>
     <message>
-        <location filename="../../qutim-meta/plugins/antispam/src/handler.cpp" line="+42"/>
+        <location filename="../../qutim-meta/plugins/antispam/src/handler.cpp" line="+41"/>
         <source>Beer, wine, vodka, champagne: after which drink in this sequence I should stop?</source>
         <translation>Бира, вино, водка, шампанско: след кое питие от поредицата трябва да спра?</translation>
     </message>
@@ -41,6 +41,11 @@
     </message>
     <message>
         <location line="+7"/>
+        <source>Handle auth requests</source>
+        <translation>Да се обработват заявките за удостоверяване</translation>
+    </message>
+    <message>
+        <location line="+7"/>
         <source>Question:</source>
         <translation>Въпрос:</translation>
     </message>
@@ -55,7 +60,7 @@
         <translation>Съобщение при верен отговор:</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/plugins/antispam/src/settingswidget.cpp" line="+46"/>
+        <location filename="../../qutim-meta/plugins/antispam/src/settingswidget.cpp" line="+47"/>
         <source>Beer, wine, vodka, champagne: after which drink in this sequence I should stop?</source>
         <translation>Бира, вино, водка, шампанско: след кое питие от поредицата трябва да спра?</translation>
     </message>
@@ -98,7 +103,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../qutim-meta/plugins/antispam/src/handler.cpp" line="+27"/>
+        <location filename="../../qutim-meta/plugins/antispam/src/handler.cpp" line="+34"/>
         <source>Message from %1 blocked  on suspicion of spam.</source>
         <translation>Блокирано бе съобщение от %1 по подозрение, че е SPAM.</translation>
     </message>

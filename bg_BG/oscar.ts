@@ -569,12 +569,17 @@
         <translation>Регистрация от</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/authorization.cpp" line="+17"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/authorization.cpp" line="+20"/>
+        <source>Reask authorization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Ask authorization</source>
         <translation>Удостоверяване</translation>
     </message>
     <message>
-        <location line="+54"/>
+        <location line="+61"/>
         <source>Authorization request accepted</source>
         <translation>Заявката за удостоверяване бе приета</translation>
     </message>
@@ -3766,6 +3771,14 @@
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::oscar::Authorization</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/oscar/src/authorization.cpp" line="-72"/>
+        <source>Grant authorization</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::oscar::ClientIdentify</name>
     <message>
         <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="+27"/>
@@ -3828,7 +3841,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::OftConnection</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/oscarfiletransfer.cpp" line="+787"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarfiletransfer.cpp" line="+861"/>
         <source>Could not open %1</source>
         <translation>%1 не може да бъде отворен</translation>
     </message>
@@ -3840,15 +3853,23 @@
         <translation type="obsolete">Предаване на файлове (Oscar)</translation>
     </message>
     <message>
-        <location line="+179"/>
+        <location line="+174"/>
         <source>Oscar</source>
         <translation>Oscar</translation>
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::oscar::OftSocket</name>
+    <message>
+        <location line="-801"/>
+        <source>The file transfer proxy server is not available</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::oscar::OscarFileTransferSettings</name>
     <message>
-        <location line="+188"/>
+        <location line="+989"/>
         <source>File transfer</source>
         <translation>Предаване на файлове</translation>
     </message>

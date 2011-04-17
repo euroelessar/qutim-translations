@@ -10,7 +10,7 @@
     </message>
     <message>
         <location line="+1"/>
-        <location line="+37"/>
+        <location line="+36"/>
         <location line="+4"/>
         <source>&apos;Quetzal&apos; is set of protocols, powered by libpurple</source>
         <translation>&quot;Quetzal&quot; е набор от протоколи, поддържани от libpurple</translation>
@@ -85,7 +85,7 @@ Complete account creating by clicking on Finish button</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalprotocol.cpp" line="+65"/>
+        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalprotocol.cpp" line="+79"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
