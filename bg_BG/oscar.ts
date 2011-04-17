@@ -571,12 +571,12 @@
     <message>
         <location filename="../../qutim-meta/protocols/oscar/src/authorization.cpp" line="+20"/>
         <source>Reask authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Повторна заявка за удостоверяване</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ask authorization</source>
-        <translation>Удостоверяване</translation>
+        <translation>Заявка за удостоверяване</translation>
     </message>
     <message>
         <location line="+61"/>
@@ -3775,7 +3775,7 @@
     <message>
         <location filename="../../qutim-meta/protocols/oscar/src/authorization.cpp" line="-72"/>
         <source>Grant authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Предоставяне на удостоверение</translation>
     </message>
 </context>
 <context>
@@ -3863,7 +3863,7 @@
     <message>
         <location line="-801"/>
         <source>The file transfer proxy server is not available</source>
-        <translation type="unfinished"></translation>
+        <translation>Прокси сървърът за предаване на файлове не е достъпен</translation>
     </message>
 </context>
 <context>
