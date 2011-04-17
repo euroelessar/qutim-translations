@@ -3128,4 +3128,20 @@
     <source>Enabled</source>
     <target>Активирана</target>
 </phrase>
+<phrase>
+    <source>Big</source>
+    <target>Голям</target>
+</phrase>
+<phrase>
+    <source>Huge</source>
+    <target>Огромен</target>
+</phrase>
+<phrase>
+    <source>Small</source>
+    <target>Малък</target>
+</phrase>
+<phrase>
+    <source>Quote</source>
+    <target>Цитиране</target>
+</phrase>
 </QPH>

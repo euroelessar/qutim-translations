@@ -61,22 +61,22 @@
     <message>
         <location filename="../../qutim-meta/core/libqutim/actiontoolbar.cpp" line="+51"/>
         <source>Small</source>
-        <translation type="unfinished"></translation>
+        <translation>Малък</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Подразбиращ се</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Big</source>
-        <translation type="unfinished"></translation>
+        <translation>Голям</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Huge</source>
-        <translation type="unfinished"></translation>
+        <translation>Огромен</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -336,7 +336,7 @@ p, li { white-space: pre-wrap; }
         <location line="+5"/>
         <location line="+15"/>
         <source>Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Цитиране</translation>
     </message>
     <message>
         <location line="-10"/>
@@ -2773,7 +2773,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/core/libqutim/settingslayer.cpp" line="+382"/>
         <source>Settings Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Прозорец с настройки</translation>
     </message>
 </context>
 <context>
