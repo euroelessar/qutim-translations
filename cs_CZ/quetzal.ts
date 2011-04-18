@@ -10,8 +10,8 @@
     </message>
     <message>
         <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="586"/>
-        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="623"/>
-        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="627"/>
+        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="622"/>
+        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="626"/>
         <source>&apos;Quetzal&apos; is set of protocols, powered by libpurple</source>
         <translation type="unfinished">&apos;Quetzal&apos; je sada protokolů, poháněných knihovnou libpurple</translation>
     </message>
@@ -85,7 +85,7 @@ Pro úplné vytvoření účtu pokračujte stisknutím tlačítka Dokončit</tra
 <context>
     <name>Settings</name>
     <message>
-        <location filename="protocols/quetzal/src/quetzalprotocol.cpp" line="65"/>
+        <location filename="protocols/quetzal/src/quetzalprotocol.cpp" line="79"/>
         <source>General</source>
         <translation>Obecné</translation>
     </message>

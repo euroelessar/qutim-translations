@@ -10,6 +10,25 @@
     </message>
 </context>
 <context>
+    <name>Core::SimpleContactList::SimpleWidget</name>
+    <message>
+        <location filename="plugins/win-integration/subplugins/sevenlist/sevenwidget.cpp" line="88"/>
+        <source>Status</source>
+        <translation>Stav</translation>
+    </message>
+    <message>
+        <location filename="plugins/win-integration/subplugins/sevenlist/sevenwidget.cpp" line="96"/>
+        <source>Search contact</source>
+        <translation>Hledat kontakt</translation>
+    </message>
+    <message>
+        <location filename="plugins/win-integration/subplugins/sevenlist/sevenwidget.cpp" line="124"/>
+        <location filename="plugins/win-integration/subplugins/sevenlist/sevenwidget.cpp" line="302"/>
+        <source>Set Status Text</source>
+        <translation>Nastavit text stavu</translation>
+    </message>
+</context>
+<context>
     <name>Plugin</name>
     <message>
         <location filename="plugins/win-integration/src/winint.cpp" line="41"/>

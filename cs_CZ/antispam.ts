@@ -12,19 +12,19 @@
 <context>
     <name>Antispam::Handler</name>
     <message>
-        <location filename="plugins/antispam/src/handler.cpp" line="42"/>
+        <location filename="plugins/antispam/src/handler.cpp" line="41"/>
         <source>Beer, wine, vodka, champagne: after which drink in this sequence I should stop?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pivo, víno, vodka, šampaňské: po kterém nápoji v tomto pořadí bych měl přestat?</translation>
+    </message>
+    <message>
+        <location filename="plugins/antispam/src/handler.cpp" line="42"/>
+        <source>We are ready to drink with you!</source>
+        <translation type="unfinished">Jsme připraveni s vámi pít!</translation>
     </message>
     <message>
         <location filename="plugins/antispam/src/handler.cpp" line="43"/>
-        <source>We are ready to drink with you!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugins/antispam/src/handler.cpp" line="44"/>
         <source>vodka;Vodka</source>
-        <translation type="unfinished"></translation>
+        <translation>vodka;Vodka;VODKA</translation>
     </message>
 </context>
 <context>
@@ -41,33 +41,38 @@
     </message>
     <message>
         <location filename="plugins/antispam/src/settingswidget.ui" line="30"/>
+        <source>Handle auth requests</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="plugins/antispam/src/settingswidget.ui" line="37"/>
         <source>Question:</source>
         <translation>Otázka:</translation>
     </message>
     <message>
-        <location filename="plugins/antispam/src/settingswidget.ui" line="43"/>
+        <location filename="plugins/antispam/src/settingswidget.ui" line="50"/>
         <source>Answers (semicolon as a separator):</source>
         <translation>Odpovědi (středník jako oddělovač):</translation>
     </message>
     <message>
-        <location filename="plugins/antispam/src/settingswidget.ui" line="56"/>
+        <location filename="plugins/antispam/src/settingswidget.ui" line="63"/>
         <source>Message on correct answer:</source>
         <translation>Zpráva při správné odpovědi:</translation>
     </message>
     <message>
-        <location filename="plugins/antispam/src/settingswidget.cpp" line="46"/>
-        <source>Beer, wine, vodka, champagne: after which drink in this sequence I should stop?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="plugins/antispam/src/settingswidget.cpp" line="47"/>
-        <source>We are ready to drink with you!</source>
-        <translation type="unfinished"></translation>
+        <source>Beer, wine, vodka, champagne: after which drink in this sequence I should stop?</source>
+        <translation>Pivo, víno, vodka, šampaňské: po kterém nápoji v tomto pořadí bych měl přestat?</translation>
     </message>
     <message>
         <location filename="plugins/antispam/src/settingswidget.cpp" line="48"/>
+        <source>We are ready to drink with you!</source>
+        <translation type="unfinished">Jsme připraveni s vámi pít!</translation>
+    </message>
+    <message>
+        <location filename="plugins/antispam/src/settingswidget.cpp" line="49"/>
         <source>vodka;Vodka</source>
-        <translation type="unfinished"></translation>
+        <translation>vodka;Vodka;VODKA</translation>
     </message>
 </context>
 <context>
@@ -94,9 +99,9 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="plugins/antispam/src/handler.cpp" line="71"/>
+        <location filename="plugins/antispam/src/handler.cpp" line="77"/>
         <source>Message from %1 blocked  on suspicion of spam.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zpráva od %1 zablokována z důvodu podezření na spam.</translation>
     </message>
 </context>
 <context>

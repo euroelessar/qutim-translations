@@ -53,13 +53,13 @@
         <translation>bytů</translation>
     </message>
     <message>
-        <location filename="plugins/urlpreview/src/messagehandler.cpp" line="204"/>
+        <location filename="plugins/urlpreview/src/messagehandler.cpp" line="205"/>
         <source>YouTube video</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="plugins/urlpreview/src/messagehandler.cpp" line="207"/>
-        <location filename="plugins/urlpreview/src/messagehandler.cpp" line="215"/>
+        <location filename="plugins/urlpreview/src/messagehandler.cpp" line="208"/>
+        <location filename="plugins/urlpreview/src/messagehandler.cpp" line="216"/>
         <source>Unknown</source>
         <translation>Neznámá</translation>
     </message>

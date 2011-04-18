@@ -514,22 +514,27 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="protocols/oscar/src/authorization.cpp" line="17"/>
-        <source>Ask authorization</source>
-        <translation>Požadavek na autorizaci</translation>
+        <location filename="protocols/oscar/src/authorization.cpp" line="20"/>
+        <source>Reask authorization</source>
+        <translation type="unfinished">Znovu požádat o autorizaci</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/authorization.cpp" line="71"/>
+        <location filename="protocols/oscar/src/authorization.cpp" line="21"/>
+        <source>Ask authorization</source>
+        <translation type="unfinished">Požadavek na autorizaci</translation>
+    </message>
+    <message>
+        <location filename="protocols/oscar/src/authorization.cpp" line="82"/>
         <source>Authorization request accepted</source>
         <translation type="unfinished">Žádost o autorizaci přijata</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/authorization.cpp" line="72"/>
+        <location filename="protocols/oscar/src/authorization.cpp" line="83"/>
         <source>Authorization request declined</source>
         <translation type="unfinished">Žádost o autorizaci odmítnuta</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/authorization.cpp" line="110"/>
+        <location filename="protocols/oscar/src/authorization.cpp" line="121"/>
         <source>Please, authorize me</source>
         <translation type="unfinished">Prosím, autorizuj mě</translation>
     </message>
@@ -3751,6 +3756,14 @@
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::oscar::Authorization</name>
+    <message>
+        <location filename="protocols/oscar/src/authorization.cpp" line="49"/>
+        <source>Grant authorization</source>
+        <translation type="unfinished">Udělit autorizaci</translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::oscar::ClientIdentify</name>
     <message>
         <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="72"/>
@@ -3809,7 +3822,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::OftConnection</name>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="787"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="861"/>
         <source>Could not open %1</source>
         <translation>Nepodařilo se otevřít: %1</translation>
     </message>
@@ -3817,30 +3830,38 @@
 <context>
     <name>qutim_sdk_0_3::oscar::OftFileTransferFactory</name>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="966"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1035"/>
         <source>Oscar</source>
         <translation></translation>
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::oscar::OftSocket</name>
+    <message>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="234"/>
+        <source>The file transfer proxy server is not available</source>
+        <translation>Proxy pro přenos souborů není k dispozici</translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::oscar::OscarFileTransferSettings</name>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1154"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1223"/>
         <source>File transfer</source>
         <translation>Přenos souboru</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1157"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1226"/>
         <source>Always use file transfer proxy</source>
-        <translation type="unfinished">Vždy použít proxy pro přenos souborů</translation>
+        <translation>Vždy použít proxy pro přenos souborů</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1163"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1232"/>
         <source>Accept incoming connections on any port</source>
         <translation>Přijímat příchozí spojení na všech portech</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1175"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1244"/>
         <source>Local ports</source>
         <translation>Místní porty</translation>
     </message>
