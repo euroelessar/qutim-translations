@@ -3144,4 +3144,8 @@
     <source>Quote</source>
     <target>Цитиране</target>
 </phrase>
+<phrase>
+    <source>Without tags</source>
+    <target>Без етикети</target>
+</phrase>
 </QPH>

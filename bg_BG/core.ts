@@ -513,17 +513,15 @@ p, li { white-space: pre-wrap; }
         <translation>Копиране в клипборда</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+805"/>
         <source>Remove contact</source>
-        <translation>Премахване на контакта</translation>
+        <translation type="obsolete">Премахване на контакта</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Add to contact list</source>
-        <translation>Добавяне в списъка с контакти</translation>
+        <translation type="obsolete">Добавяне в списъка с контакти</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+20"/>
+        <location line="+20"/>
         <source>Rename contact</source>
         <translation>Преименуване на контакта</translation>
     </message>
@@ -1549,6 +1547,44 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::SimpleContactList::AbstractContactModel</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp" line="+101"/>
+        <source>All tags</source>
+        <translation>Всички етикети</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Custom tags</source>
+        <translation>Собствени етикети</translation>
+    </message>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="+334"/>
+        <source>Without tags</source>
+        <translation>Без етикети</translation>
+    </message>
+    <message>
+        <location line="+98"/>
+        <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
+        <translation>Желаете ли да обедините контактите &quot;%1&quot; &lt;%2&gt; и &quot;%3&quot; &lt;%4&gt;?</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Would you like to merge metacontacts &quot;%1&quot; and &quot;%2&quot;?</source>
+        <translation>Желаете ли да обедините мета-контактите &quot;%1&quot; и &quot;%2&quot;?</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Would you like to add &quot;%1&quot; &lt;%2&gt; to metacontact &quot;%3&quot;?</source>
+        <translation>Желаете ли да добавите &quot;%1&quot; &lt;%2&gt; към мета-контакта &quot;%3&quot;?</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Contacts&apos; merging</source>
+        <translation>Обединяване на контакти</translation>
+    </message>
+</context>
+<context>
     <name>Core::SimpleContactList::MacWidget</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="+71"/>
@@ -1592,39 +1628,32 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::Model</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="-224"/>
         <source>Without tags</source>
-        <translation>Без тагове</translation>
+        <translation type="obsolete">Без тагове</translation>
     </message>
     <message>
-        <location line="+96"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
-        <translation>Желаете ли да обедините контактите &quot;%1&quot; &lt;%2&gt; и &quot;%3&quot; &lt;%4&gt;?</translation>
+        <translation type="obsolete">Желаете ли да обедините контактите &quot;%1&quot; &lt;%2&gt; и &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Would you like to merge metacontacts &quot;%1&quot; and &quot;%2&quot;?</source>
-        <translation>Желаете ли да обедините мета-контактите &quot;%1&quot; и &quot;%2&quot;?</translation>
+        <translation type="obsolete">Желаете ли да обедините мета-контактите &quot;%1&quot; и &quot;%2&quot;?</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Would you like to add &quot;%1&quot; &lt;%2&gt; to metacontact &quot;%3&quot;?</source>
-        <translation>Желаете ли да добавите &quot;%1&quot; &lt;%2&gt; към мета-контакта &quot;%3&quot;?</translation>
+        <translation type="obsolete">Желаете ли да добавите &quot;%1&quot; &lt;%2&gt; към мета-контакта &quot;%3&quot;?</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Contacts&apos; merging</source>
-        <translation>Обединяване на контакти</translation>
+        <translation type="obsolete">Обединяване на контакти</translation>
     </message>
     <message>
-        <location line="-487"/>
         <source>All tags</source>
-        <translation>Всички етикети</translation>
+        <translation type="obsolete">Всички етикети</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Custom tags</source>
-        <translation>Собствени етикети</translation>
+        <translation type="obsolete">Собствени етикети</translation>
     </message>
 </context>
 <context>
@@ -1665,6 +1694,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Search contact</source>
         <translation type="obsolete">Търсене на контакт</translation>
+    </message>
+</context>
+<context>
+    <name>Core::SimpleContactList::PlainModel</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/plaincontactsmodel/plaincontactlistmodel.cpp" line="+124"/>
+        <source>Without tags</source>
+        <translation>Без етикети</translation>
+    </message>
+</context>
+<context>
+    <name>Core::SimpleContactList::SeparatedModel</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/separatedcontactsmodel/separatedcontactlistmodel.cpp" line="+201"/>
+        <source>Without tags</source>
+        <translation>Без етикети</translation>
     </message>
 </context>
 <context>
@@ -1731,6 +1776,14 @@ p, li { white-space: pre-wrap; }
         <location line="+27"/>
         <source>Search contact</source>
         <translation>Търсене на контакт</translation>
+    </message>
+</context>
+<context>
+    <name>Core::SimpleContactList::TreeModel</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+183"/>
+        <source>Without tags</source>
+        <translation>Без етикети</translation>
     </message>
 </context>
 <context>
