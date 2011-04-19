@@ -1110,12 +1110,11 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::KineticScroller</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticscroller/kineticscroller.cpp" line="+38"/>
         <source>No scrolling</source>
-        <translation>Без</translation>
+        <translation type="obsolete">Без</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticscroller/kineticscroller.cpp" line="+39"/>
         <source>Touch</source>
         <translation>Докосване</translation>
     </message>
@@ -1781,7 +1780,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::TreeModel</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+183"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+184"/>
         <source>Without tags</source>
         <translation>Без етикети</translation>
     </message>

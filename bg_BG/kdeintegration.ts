@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/kde-integration/src/kdeintegration.cpp" line="+72"/>
+        <location filename="../../qutim-meta/plugins/kdeintegration/src/kdeintegration.cpp" line="+72"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -21,7 +21,7 @@
 <context>
     <name>Core</name>
     <message>
-        <location filename="../../qutim-meta/plugins/kde-integration/src/aboutapp/kdeaboutappdialog.cpp" line="+36"/>
+        <location filename="../../qutim-meta/plugins/kdeintegration/src/aboutapp/kdeaboutappdialog.cpp" line="+36"/>
         <source>About qutIM</source>
         <translation>За qutIM</translation>
     </message>
@@ -29,7 +29,7 @@
 <context>
     <name>KDENotificationLayer</name>
     <message>
-        <location filename="../../qutim-meta/plugins/kde-integration/src/notification/kdenotificationlayer.cpp" line="+121"/>
+        <location filename="../../qutim-meta/plugins/kdeintegration/src/notification/kdenotificationlayer.cpp" line="+121"/>
         <source>Open chat</source>
         <translation>Отваряне на разговор</translation>
     </message>
@@ -42,7 +42,7 @@
 <context>
     <name>KdeSpellerSettings</name>
     <message>
-        <location filename="../../qutim-meta/plugins/kde-integration/src/speller/kdespellersettings.ui" line="+14"/>
+        <location filename="../../qutim-meta/plugins/kdeintegration/src/speller/kdespellersettings.ui" line="+14"/>
         <source>Form</source>
         <translation>Проверка на правописа</translation>
     </message>
@@ -60,7 +60,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/plugins/kde-integration/src/kdeintegration.cpp" line="+4"/>
+        <location filename="../../qutim-meta/plugins/kdeintegration/src/kdeintegration.cpp" line="+4"/>
         <source>KDE integration</source>
         <translation>Интеграция с KDE</translation>
     </message>
@@ -146,12 +146,12 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/plugins/kde-integration/src/speller/kdespellerlayer.cpp" line="+29"/>
+        <location filename="../../qutim-meta/plugins/kdeintegration/src/speller/kdespellerlayer.cpp" line="+29"/>
         <source>Spell checker</source>
         <translation>Проверка на правописа</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/plugins/kde-integration/src/notification/kdenotificationlayer.cpp" line="-83"/>
+        <location filename="../../qutim-meta/plugins/kdeintegration/src/notification/kdenotificationlayer.cpp" line="-83"/>
         <source>Popups</source>
         <translation>Изскачащи прозорци</translation>
     </message>
@@ -159,7 +159,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../qutim-meta/plugins/kde-integration/src/kdeintegration.cpp" line="-32"/>
+        <location filename="../../qutim-meta/plugins/kdeintegration/src/kdeintegration.cpp" line="-32"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
     </message>
@@ -172,7 +172,7 @@
 <context>
     <name>plugmanSettings</name>
     <message>
-        <location filename="../../qutim-meta/plugins/kde-integration/src/notification/settings.ui" line="+13"/>
+        <location filename="../../qutim-meta/plugins/kdeintegration/src/notification/settings.ui" line="+13"/>
         <source>Form</source>
         <translation>Добавки</translation>
     </message>

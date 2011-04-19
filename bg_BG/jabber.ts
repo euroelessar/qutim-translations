@@ -460,7 +460,7 @@
         <translation>Забрана (Ban)</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+119"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+120"/>
         <source>Real JID</source>
         <translation>Реален JID</translation>
     </message>
@@ -2149,12 +2149,16 @@
     <name>XmlConsole</name>
     <message>
         <location filename="../../qutim-meta/protocols/jabber/jreen/src/gui/xmlconsole.ui" line="+14"/>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+14"/>
         <source>Form</source>
         <translation>XML</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+19"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+14"/>
+        <source>Xml stream console</source>
+        <translation>Конзола на XML потока</translation>
+    </message>
+    <message>
+        <location line="+19"/>
         <source>Filter</source>
         <translation>Филтриране</translation>
     </message>
