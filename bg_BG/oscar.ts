@@ -1935,8 +1935,12 @@
     </message>
     <message>
         <location line="+26"/>
+        <source>Use SSL authorization (experimental)</source>
+        <translation>Използване на SSL удостоверяване (експериментално)</translation>
+    </message>
+    <message>
         <source>Use ssl (experimental)</source>
-        <translation>Използване на SSL (експериментално)</translation>
+        <translation type="obsolete">Използване на SSL (експериментално)</translation>
     </message>
 </context>
 <context>
@@ -3798,6 +3802,14 @@
         <location filename="../../qutim-meta/protocols/oscar/src/metainfo/infometarequest.cpp" line="+282"/>
         <source>Incorrect format of the metarequest</source>
         <translation>Неверен формат на мета-заявката</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::oscar::IcqAccountMainSettings</name>
+    <message>
+        <location filename="../../qutim-meta/protocols/oscar/src/ui/icqaccountmainsettings.cpp" line="+30"/>
+        <source>Use SSL (experimental)</source>
+        <translation>Използване на SSL (експериментално)</translation>
     </message>
 </context>
 <context>
