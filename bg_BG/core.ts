@@ -4,7 +4,7 @@
 <context>
     <name>Account</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+43"/>
+        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreatorlist.cpp" line="+45"/>
         <source>Add new account</source>
         <translation>Добавяне на нова сметка</translation>
     </message>
@@ -64,12 +64,13 @@
         <translation>Малък</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+5"/>
+        <location line="+4"/>
         <source>Default</source>
         <translation>Подразбиращ се</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>Big</source>
         <translation>Голям</translation>
     </message>
@@ -301,7 +302,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatLayer</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="+44"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="+46"/>
         <source>Close chat</source>
         <translation>Затваряне на разговора</translation>
     </message>
@@ -793,8 +794,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ConferenceContactsView</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="+50"/>
-        <location line="+67"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="+60"/>
+        <source>Insert Nick</source>
+        <translation>Вмъкване на псевдоним</translation>
+    </message>
+    <message>
+        <location line="+68"/>
         <source>Private</source>
         <translation>Личен разговор</translation>
     </message>
@@ -925,7 +930,7 @@ p, li { white-space: pre-wrap; }
         <translation>Списък на сесиите</translation>
     </message>
     <message>
-        <location line="+49"/>
+        <location line="+50"/>
         <source>Send</source>
         <translation>Изпращане</translation>
     </message>
@@ -956,7 +961,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ChatSpellChecker</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+140"/>
+        <location filename="../../qutim-meta/core/src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+145"/>
         <source>Add to dictionary</source>
         <translation>Добавяне към речника</translation>
     </message>
@@ -1812,7 +1817,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::XSettingsWindow</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+238"/>
+        <location filename="../../qutim-meta/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+242"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки на qutIM - %1</translation>
     </message>
