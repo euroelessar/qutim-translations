@@ -53,7 +53,7 @@
         <location line="+13"/>
         <source>Answers (semicolon as a separator):</source>
         <translatorcomment>а в примере ;</translatorcomment>
-        <translation type="unfinished">Ответы (разделять запятыми):</translation>
+        <translation type="unfinished">Ответы (разделять точкой с запятой  &quot;;&quot;):</translation>
     </message>
     <message>
         <location line="+13"/>
