@@ -4,9 +4,28 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/win-integration/src/winint.cpp" line="+38"/>
+        <location filename="../../plugins/winintegration/win-integration/src/winint.cpp" line="+38"/>
         <source>Vizir Ivan</source>
         <translation type="unfinished">Визир Иван</translation>
+    </message>
+</context>
+<context>
+    <name>Core::SimpleContactList::SevenWidget</name>
+    <message>
+        <location filename="../../plugins/winintegration/win-integration/subplugins/sevenlist/sevenwidget.cpp" line="+88"/>
+        <source>Status</source>
+        <translation type="unfinished">Статус</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Search contact</source>
+        <translation type="unfinished">Поиск контакта</translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <location line="+178"/>
+        <source>Set Status Text</source>
+        <translation>Установить текст статуса</translation>
     </message>
 </context>
 <context>
@@ -16,10 +35,10 @@
         <translation type="obsolete">Интеграция с Windows7®©™</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../plugins/winintegration/win-integration/src/winint.cpp" line="+3"/>
         <location line="+12"/>
         <source>Windows Integration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Интеграция с Windows®©™</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -30,7 +49,7 @@
 <context>
     <name>SelectAccDlg</name>
     <message>
-        <location filename="../../plugins/win-integration/src/selectaccdlg.ui" line="+14"/>
+        <location filename="../../plugins/winintegration/win-integration/src/selectaccdlg.ui" line="+14"/>
         <source>Dialog</source>
         <translation type="unfinished">Диалог</translation>
     </message>
@@ -53,7 +72,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../plugins/win-integration/src/winint.cpp" line="-3"/>
+        <location filename="../../plugins/winintegration/win-integration/src/winint.cpp" line="-3"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -92,7 +111,7 @@
 <context>
     <name>WSettingsForm</name>
     <message>
-        <location filename="../../plugins/win-integration/src/wsettings.ui" line="+14"/>
+        <location filename="../../plugins/winintegration/win-integration/src/wsettings.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -153,7 +172,7 @@
 <context>
     <name>WThumbnailsProvider</name>
     <message>
-        <location filename="../../plugins/win-integration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="+91"/>
+        <location filename="../../plugins/winintegration/win-integration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="+91"/>
         <source>&lt;b&gt;You have new messages.&lt;/b&gt;</source>
         <translation type="unfinished">&lt;b&gt;У тебя новые  сообщения.&lt;/b&gt;</translation>
     </message>
