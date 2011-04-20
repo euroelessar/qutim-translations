@@ -459,7 +459,7 @@
         <translation type="obsolete">Превратить в конференцию</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+119"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+120"/>
         <source>Real JID</source>
         <translation>Настоящий JID</translation>
     </message>
@@ -1824,17 +1824,17 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>By all attributes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">По атрибутам</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Visible stanzas</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Видимые строфы</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Information query</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Запрос информации</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2677,12 +2677,16 @@ Accept invitation?</source>
     <name>XmlConsole</name>
     <message>
         <location filename="../../protocols/jabber/jreen/src/gui/xmlconsole.ui" line="+14"/>
-        <location filename="../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+14"/>
         <source>Form</source>
         <translation type="unfinished">Настройки</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+19"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+14"/>
+        <source>Xml stream console</source>
+        <translation type="unfinished">консоль xml потока</translation>
+    </message>
+    <message>
+        <location line="+19"/>
         <source>Filter</source>
         <translation type="unfinished">Фильтр</translation>
     </message>
