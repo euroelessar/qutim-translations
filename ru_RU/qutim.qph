@@ -5455,4 +5455,28 @@ Accept invitation?</source>
     <source>vodka;Vodka</source>
     <target>vodka;Vodka;водка;Водка;wodka;Wodka</target>
 </phrase>
+<phrase>
+    <source>Small</source>
+    <target>Малый</target>
+</phrase>
+<phrase>
+    <source>Default</source>
+    <target>Обычный</target>
+</phrase>
+<phrase>
+    <source>Big</source>
+    <target>Большой</target>
+</phrase>
+<phrase>
+    <source>Huge</source>
+    <target>Огромный</target>
+</phrase>
+<phrase>
+    <source>Status</source>
+    <target>Статус</target>
+</phrase>
+<phrase>
+    <source>Search contact</source>
+    <target>Поиск контакта</target>
+</phrase>
 </QPH>
