@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="plugins/mac-integration/src/macplugin.cpp" line="22"/>
+        <location filename="plugins/macintegration/src/macplugin.cpp" line="22"/>
         <source>Denis Daschenko</source>
         <translation></translation>
     </message>
@@ -12,19 +12,19 @@
 <context>
     <name>MacIdleWidget</name>
     <message>
-        <location filename="plugins/mac-integration/src/idle/macidlewidget.ui" line="14"/>
+        <location filename="plugins/macintegration/src/idle/macidlewidget.ui" line="14"/>
         <source>Form</source>
         <translation></translation>
     </message>
     <message utf8="true">
-        <location filename="plugins/mac-integration/src/idle/macidlewidget.ui" line="32"/>
-        <location filename="plugins/mac-integration/src/idle/macidlewidget.ui" line="56"/>
+        <location filename="plugins/macintegration/src/idle/macidlewidget.ui" line="32"/>
+        <location filename="plugins/macintegration/src/idle/macidlewidget.ui" line="56"/>
         <source>Set status «%1» after:</source>
         <translation type="unfinished">Nastavit stav «%1» po:</translation>
     </message>
     <message>
-        <location filename="plugins/mac-integration/src/idle/macidlewidget.ui" line="39"/>
-        <location filename="plugins/mac-integration/src/idle/macidlewidget.ui" line="99"/>
+        <location filename="plugins/macintegration/src/idle/macidlewidget.ui" line="39"/>
+        <location filename="plugins/macintegration/src/idle/macidlewidget.ui" line="99"/>
         <source> min</source>
         <comment>seconds</comment>
         <translation type="unfinished"></translation>
@@ -33,7 +33,7 @@
 <context>
     <name>MacIntegration::MacSpellSettings</name>
     <message>
-        <location filename="plugins/mac-integration/src/spellchecker/macspellsettings.cpp" line="14"/>
+        <location filename="plugins/macintegration/src/spellchecker/macspellsettings.cpp" line="14"/>
         <source>Language</source>
         <translation>Jazyk</translation>
     </message>
@@ -41,42 +41,42 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="plugins/mac-integration/src/macplugin.cpp" line="18"/>
+        <location filename="plugins/macintegration/src/macplugin.cpp" line="18"/>
         <source>MacIntegration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/mac-integration/src/macplugin.cpp" line="19"/>
+        <location filename="plugins/macintegration/src/macplugin.cpp" line="19"/>
         <source>Mac integration plugin collection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/mac-integration/src/macplugin.cpp" line="25"/>
+        <location filename="plugins/macintegration/src/macplugin.cpp" line="25"/>
         <source>DockIntegration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/mac-integration/src/macplugin.cpp" line="26"/>
+        <location filename="plugins/macintegration/src/macplugin.cpp" line="26"/>
         <source>Mac OS X dock integration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/mac-integration/src/macplugin.cpp" line="29"/>
+        <location filename="plugins/macintegration/src/macplugin.cpp" line="29"/>
         <source>IdleManager</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/mac-integration/src/macplugin.cpp" line="30"/>
+        <location filename="plugins/macintegration/src/macplugin.cpp" line="30"/>
         <source>Mac OS X idle manager</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/mac-integration/src/macplugin.cpp" line="31"/>
+        <location filename="plugins/macintegration/src/macplugin.cpp" line="31"/>
         <source>SpellChecker</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/mac-integration/src/macplugin.cpp" line="32"/>
+        <location filename="plugins/macintegration/src/macplugin.cpp" line="32"/>
         <source>Mac OS X spell checker</source>
         <translation type="unfinished"></translation>
     </message>
@@ -84,7 +84,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="plugins/mac-integration/src/macplugin.cpp" line="23"/>
+        <location filename="plugins/macintegration/src/macplugin.cpp" line="23"/>
         <source>Author</source>
         <translation>Autor</translation>
     </message>
@@ -92,12 +92,12 @@
 <context>
     <name>plugin</name>
     <message>
-        <location filename="plugins/mac-integration/src/macplugin.cpp" line="27"/>
+        <location filename="plugins/macintegration/src/macplugin.cpp" line="27"/>
         <source>Growl notifications</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/mac-integration/src/macplugin.cpp" line="28"/>
+        <location filename="plugins/macintegration/src/macplugin.cpp" line="28"/>
         <source>Default Mac Os X Notifications</source>
         <translation type="unfinished"></translation>
     </message>
