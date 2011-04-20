@@ -611,12 +611,17 @@
         <translation type="obsolete">Возможный клиент</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/authorization.cpp" line="+17"/>
+        <location filename="../../protocols/oscar/src/authorization.cpp" line="+20"/>
+        <source>Reask authorization</source>
+        <translation type="unfinished">Перезапросить авторизацию</translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Ask authorization</source>
         <translation>Запротить авторизацию</translation>
     </message>
     <message>
-        <location line="+54"/>
+        <location line="+61"/>
         <source>Authorization request accepted</source>
         <translation>Принят запрос авторизации</translation>
     </message>
@@ -1995,8 +2000,12 @@
     </message>
     <message>
         <location line="+26"/>
+        <source>Use SSL authorization (experimental)</source>
+        <translation type="unfinished">Использовать SSL авторизацию (эксепериментальная функция)</translation>
+    </message>
+    <message>
         <source>Use ssl (experimental)</source>
-        <translation>Задействовать SSL (эксперементальная возможность)</translation>
+        <translation type="obsolete">Задействовать SSL (эксперементальная возможность)</translation>
     </message>
 </context>
 <context>
@@ -3971,6 +3980,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::oscar::Authorization</name>
+    <message>
+        <location filename="../../protocols/oscar/src/authorization.cpp" line="-72"/>
+        <source>Grant authorization</source>
+        <translation type="unfinished">Авторизовать</translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::oscar::ClientIdentify</name>
     <message>
         <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+27"/>
@@ -3991,6 +4008,14 @@ p, li { white-space: pre-wrap; }
         <source>Incorrect format of the metarequest</source>
         <translatorcomment>metarequest - спросить что это такое</translatorcomment>
         <translation>Неверный формат метазапроса</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::oscar::IcqAccountMainSettings</name>
+    <message>
+        <location filename="../../protocols/oscar/src/ui/icqaccountmainsettings.cpp" line="+30"/>
+        <source>Use SSL (experimental)</source>
+        <translation type="unfinished">Использовать SSL (эксперементально)</translation>
     </message>
 </context>
 <context>
@@ -4038,7 +4063,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::OftConnection</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarfiletransfer.cpp" line="+787"/>
+        <location filename="../../protocols/oscar/src/oscarfiletransfer.cpp" line="+861"/>
         <source>Could not open %1</source>
         <translation>Не удалось открыть %1</translation>
     </message>
@@ -4050,15 +4075,23 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Протокол фередачи файлов OSCAR&apos;a</translation>
     </message>
     <message>
-        <location line="+179"/>
+        <location line="+174"/>
         <source>Oscar</source>
         <translation>ICQ/Oscar</translation>
     </message>
 </context>
 <context>
+    <name>qutim_sdk_0_3::oscar::OftSocket</name>
+    <message>
+        <location line="-801"/>
+        <source>The file transfer proxy server is not available</source>
+        <translation type="unfinished">Файлопрокси сервер не доступен</translation>
+    </message>
+</context>
+<context>
     <name>qutim_sdk_0_3::oscar::OscarFileTransferSettings</name>
     <message>
-        <location line="+188"/>
+        <location line="+989"/>
         <source>File transfer</source>
         <translation>Передача файла</translation>
     </message>
