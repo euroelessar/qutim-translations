@@ -12,7 +12,7 @@
 <context>
     <name>Antispam::Handler</name>
     <message>
-        <location filename="../../plugins/antispam/src/handler.cpp" line="+42"/>
+        <location filename="../../plugins/antispam/src/handler.cpp" line="+41"/>
         <source>Beer, wine, vodka, champagne: after which drink in this sequence I should stop?</source>
         <translation type="unfinished">Пиво, вино, водка, шампусик: после чего из списка мне стоит прекратить на сегодня пить?</translation>
     </message>
@@ -41,6 +41,11 @@
     </message>
     <message>
         <location line="+7"/>
+        <source>Handle auth requests</source>
+        <translation type="unfinished">Перехватывать запросы авторизации</translation>
+    </message>
+    <message>
+        <location line="+7"/>
         <source>Question:</source>
         <translation type="unfinished">Вопрос:</translation>
     </message>
@@ -56,7 +61,7 @@
         <translation type="unfinished">Сообщение о правильмо ответе:</translation>
     </message>
     <message>
-        <location filename="../../plugins/antispam/src/settingswidget.cpp" line="+46"/>
+        <location filename="../../plugins/antispam/src/settingswidget.cpp" line="+47"/>
         <source>Beer, wine, vodka, champagne: after which drink in this sequence I should stop?</source>
         <translation>Пиво, вино, водка, шампусик: после чего из списка мне стоит прекратить на сегодня пить?</translation>
     </message>
@@ -95,7 +100,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../plugins/antispam/src/handler.cpp" line="+27"/>
+        <location filename="../../plugins/antispam/src/handler.cpp" line="+34"/>
         <source>Message from %1 blocked  on suspicion of spam.</source>
         <translation type="unfinished">Сообщение от %1 заблокировано антиспамом.</translation>
     </message>
