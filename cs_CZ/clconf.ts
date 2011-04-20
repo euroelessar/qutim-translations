@@ -12,7 +12,7 @@
 <context>
     <name>ClConf</name>
     <message>
-        <location filename="plugins/clconf/src/proxycontact.cpp" line="42"/>
+        <location filename="plugins/clconf/src/proxycontact.cpp" line="41"/>
         <source>Conferences</source>
         <translation>Konference</translation>
     </message>

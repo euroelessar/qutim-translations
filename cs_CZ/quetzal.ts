@@ -4,14 +4,14 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="585"/>
+        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="612"/>
         <source>Quetzal</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="586"/>
-        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="622"/>
-        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="626"/>
+        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="613"/>
+        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="649"/>
+        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="653"/>
         <source>&apos;Quetzal&apos; is set of protocols, powered by libpurple</source>
         <translation type="unfinished">&apos;Quetzal&apos; je sada protokolů, poháněných knihovnou libpurple</translation>
     </message>

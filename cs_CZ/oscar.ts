@@ -1935,8 +1935,8 @@
     </message>
     <message>
         <location filename="protocols/oscar/src/ui/icqaccountmainsettings.ui" line="106"/>
-        <source>Use ssl (experimental)</source>
-        <translation>Použít SSL (experimentální)</translation>
+        <source>Use SSL authorization (experimental)</source>
+        <translation>Použít SSL autorizaci (experimentální)</translation>
     </message>
 </context>
 <context>
@@ -3783,6 +3783,14 @@
         <location filename="protocols/oscar/src/metainfo/infometarequest.cpp" line="282"/>
         <source>Incorrect format of the metarequest</source>
         <translation type="unfinished">Nesprávný formát metapožadavku</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::oscar::IcqAccountMainSettings</name>
+    <message>
+        <location filename="protocols/oscar/src/ui/icqaccountmainsettings.cpp" line="30"/>
+        <source>Use SSL (experimental)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

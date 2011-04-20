@@ -266,24 +266,24 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatLayer</name>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="44"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="46"/>
         <source>Close chat</source>
         <translation>Zavřít konverzaci</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="45"/>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="50"/>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="55"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="47"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="52"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="57"/>
         <source>ChatWidget</source>
         <translation type="unfinished">Okno konverzace</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="49"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="51"/>
         <source>Next chat</source>
         <translation>Další konverzace</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="54"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="56"/>
         <source>Previous chat</source>
         <translation>Předchozí konverzace</translation>
     </message>
@@ -509,16 +509,6 @@ p, li { white-space: pre-wrap; }
         <source>Edit tags</source>
         <translation>Upravit štítky</translation>
     </message>
-    <message>
-        <location filename="core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="805"/>
-        <source>Remove contact</source>
-        <translation>Odstranit kontakt</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="808"/>
-        <source>Add to contact list</source>
-        <translation>Přidat do seznamu kontaktů</translation>
-    </message>
 </context>
 <context>
     <name>ContactSearch</name>
@@ -732,13 +722,17 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ConferenceContactsView</name>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="50"/>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="117"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="60"/>
+        <source>Insert Nick</source>
+        <translation>Vložit přezdívku</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="128"/>
         <source>Private</source>
         <translation type="unfinished">Soukromé</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="57"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="68"/>
         <source>Conference participants</source>
         <translation>Účastníci konference</translation>
     </message>
@@ -849,22 +843,22 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Seznam konverzací</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="129"/>
+        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="130"/>
         <source>Send</source>
         <translation>Odeslat</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="166"/>
+        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="167"/>
         <source>&amp;Actions</source>
         <translation>&amp;Akce</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="170"/>
+        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="171"/>
         <source>Accoun&amp;ts</source>
         <translation>Úč&amp;ty</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="175"/>
+        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="176"/>
         <source>&amp;Chat</source>
         <translation>Konverza&amp;ce</translation>
     </message>
@@ -880,7 +874,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ChatSpellChecker</name>
     <message>
-        <location filename="core/src/corelayers/chatspellchecker/chatspellchecker.cpp" line="140"/>
+        <location filename="core/src/corelayers/chatspellchecker/chatspellchecker.cpp" line="145"/>
         <source>Add to dictionary</source>
         <translation>Přidat do slovníku</translation>
     </message>
@@ -1007,11 +1001,6 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::KineticScroller</name>
     <message>
-        <location filename="core/src/corelayers/kineticscroller/kineticscroller.cpp" line="38"/>
-        <source>No scrolling</source>
-        <translation>Bez rolování</translation>
-    </message>
-    <message>
         <location filename="core/src/corelayers/kineticscroller/kineticscroller.cpp" line="39"/>
         <source>Touch</source>
         <translation type="unfinished"></translation>
@@ -1047,7 +1036,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="core/src/corelayers/metacontacts/mergedialog.ui" line="30"/>
         <source>Search contacts:</source>
-        <translation type="unfinished">Hledat kontakty:</translation>
+        <translation>Hledat kontakty:</translation>
     </message>
 </context>
 <context>
@@ -1429,6 +1418,44 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     </message>
 </context>
 <context>
+    <name>Core::SimpleContactList::AbstractContactModel</name>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp" line="101"/>
+        <source>All tags</source>
+        <translation>Všechny štítky</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp" line="103"/>
+        <source>Custom tags</source>
+        <translation>Vlastní štítky</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="334"/>
+        <source>Without tags</source>
+        <translation>Bez štítků</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="432"/>
+        <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
+        <translation type="unfinished">Chcete spojit kontakty &quot;%1&quot; &lt;%2&gt; a &quot;%3&quot; &lt;%4&gt;?</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="438"/>
+        <source>Would you like to merge metacontacts &quot;%1&quot; and &quot;%2&quot;?</source>
+        <translation type="unfinished">Chcete spojit metakontakty &quot;%1&quot; a &quot;%2&quot;?</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="441"/>
+        <source>Would you like to add &quot;%1&quot; &lt;%2&gt; to metacontact &quot;%3&quot;?</source>
+        <translation type="unfinished">Chcete přidat &quot;%1&quot; &lt;%2&gt; do metakontaktu &quot;%3&quot;?</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="448"/>
+        <source>Contacts&apos; merging</source>
+        <translation type="unfinished">Spojování kontaktů</translation>
+    </message>
+</context>
+<context>
     <name>Core::SimpleContactList::MacWidget</name>
     <message>
         <location filename="core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="71"/>
@@ -1462,44 +1489,6 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     </message>
 </context>
 <context>
-    <name>Core::SimpleContactList::Model</name>
-    <message>
-        <location filename="core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="209"/>
-        <source>All tags</source>
-        <translation>Všechny štítky</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="211"/>
-        <source>Custom tags</source>
-        <translation>Vlastní štítky</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="584"/>
-        <source>Without tags</source>
-        <translation>Bez štítků</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="680"/>
-        <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
-        <translation>Chcete spojit kontakty &quot;%1&quot; &lt;%2&gt; a &quot;%3&quot; &lt;%4&gt;?</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="686"/>
-        <source>Would you like to merge metacontacts &quot;%1&quot; and &quot;%2&quot;?</source>
-        <translation>Chcete spojit metakontakty &quot;%1&quot; a &quot;%2&quot;?</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="689"/>
-        <source>Would you like to add &quot;%1&quot; &lt;%2&gt; to metacontact &quot;%3&quot;?</source>
-        <translation>Chcete přidat &quot;%1&quot; &lt;%2&gt; do metakontaktu &quot;%3&quot;?</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="696"/>
-        <source>Contacts&apos; merging</source>
-        <translation>Spojování kontaktů</translation>
-    </message>
-</context>
-<context>
     <name>Core::SimpleContactList::Module</name>
     <message>
         <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="158"/>
@@ -1510,6 +1499,22 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="160"/>
         <source>Reset</source>
         <translation type="unfinished">Resetovat</translation>
+    </message>
+</context>
+<context>
+    <name>Core::SimpleContactList::PlainModel</name>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/plaincontactsmodel/plaincontactlistmodel.cpp" line="124"/>
+        <source>Without tags</source>
+        <translation type="unfinished">Bez štítků</translation>
+    </message>
+</context>
+<context>
+    <name>Core::SimpleContactList::SeparatedModel</name>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/separatedcontactsmodel/separatedcontactlistmodel.cpp" line="201"/>
+        <source>Without tags</source>
+        <translation>Bez štítků</translation>
     </message>
 </context>
 <context>
@@ -1557,6 +1562,14 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <location filename="core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="121"/>
         <source>Search contact</source>
         <translation>Hledat kontakt</translation>
+    </message>
+</context>
+<context>
+    <name>Core::SimpleContactList::TreeModel</name>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="184"/>
+        <source>Without tags</source>
+        <translation>Bez štítků</translation>
     </message>
 </context>
 <context>
@@ -2530,12 +2543,12 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="41"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="43"/>
         <source>ChatForm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="42"/>
+        <location filename="core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="44"/>
         <source>ChatViewFactory</source>
         <translation type="unfinished"></translation>
     </message>

@@ -430,27 +430,27 @@
 <context>
     <name>Conference</name>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="119"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="120"/>
         <source>Real JID</source>
         <translation>Skutečné JID</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="136"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="137"/>
         <source>Affiliation</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="152"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="153"/>
         <source>Role</source>
         <translation>Funkce</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="154"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="155"/>
         <source>Possible client</source>
         <translation>Pravděpodobný klient</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="161"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="162"/>
         <source>OS</source>
         <translation></translation>
     </message>
@@ -2121,8 +2121,8 @@
     <name>XmlConsole</name>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="14"/>
-        <source>Form</source>
-        <translation></translation>
+        <source>Xml stream console</source>
+        <translation type="unfinished">XML stream konzole</translation>
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="33"/>
