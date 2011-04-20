@@ -3468,21 +3468,25 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/popupwidgets/qml/qmlpopupwidgetplugin.cpp" line="+11"/>
+        <location filename="../../qutim/src/corelayers/kineticpopups/qmlpopup/qmlpopupwidgetplugin.cpp" line="+11"/>
         <source>Qml Popup Widget</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/kineticpopups/qmlpopup/qmlpopupwidgetplugin.cpp" line="+1"/>
         <source>Modern popups, based on power of Qt Quick</source>
         <translation>Всплываюшие уведомления qutIM, типа &quot;Modern&quot;. Основаны на Qt Quick</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/kineticpopups/popupwidgets/text/textpopupwidgetplugin.cpp" line="+11"/>
+        <location filename="../../qutim/src/corelayers/kineticpopups/textpopup/textpopupwidgetplugin.cpp" line="+11"/>
         <source>Text Popups</source>
         <translation>Текстовые всплывающие уведомления</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/kineticpopups/textpopup/textpopupwidgetplugin.cpp" line="+1"/>
         <source>Standart textbrowser based popups</source>
         <translation>Стандартные текстовые всплывающие уведомления</translation>
     </message>
