@@ -5479,4 +5479,8 @@ Accept invitation?</source>
     <source>Search contact</source>
     <target>Поиск контакта</target>
 </phrase>
+<phrase>
+    <source>Send to</source>
+    <target>Отправить в</target>
+</phrase>
 </QPH>
