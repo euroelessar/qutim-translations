@@ -53,7 +53,7 @@
         <translation type="unfinished">байт</translation>
     </message>
     <message>
-        <location line="+149"/>
+        <location line="+150"/>
         <source>YouTube video</source>
         <translation type="unfinished">YouTube видео</translation>
     </message>

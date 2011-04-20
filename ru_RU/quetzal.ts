@@ -4,13 +4,13 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../protocols/quetzal/src/quetzalplugin.cpp" line="+585"/>
+        <location filename="../../protocols/quetzal/src/quetzalplugin.cpp" line="+612"/>
         <source>Quetzal</source>
         <translation>Quetzal</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location line="+37"/>
+        <location line="+36"/>
         <location line="+4"/>
         <source>&apos;Quetzal&apos; is set of protocols, powered by libpurple</source>
         <translation type="unfinished">&apos;Quetzal&apos; это набор протоколов, реализованных через libpurple (pidgin/adium)</translation>
@@ -108,7 +108,7 @@ Complete account creating by clicking on Finish button</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/quetzal/src/quetzalprotocol.cpp" line="+65"/>
+        <location filename="../../protocols/quetzal/src/quetzalprotocol.cpp" line="+79"/>
         <source>General</source>
         <translation type="unfinished">Общее</translation>
     </message>
