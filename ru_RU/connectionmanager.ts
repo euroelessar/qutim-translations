@@ -4,15 +4,14 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="+50"/>
         <source>Sidorov Aleksey</source>
-        <translation>Сидоров Алексей</translation>
+        <translation type="obsolete">Сидоров Алексей</translation>
     </message>
 </context>
 <context>
     <name>ConnectionManager::ConnectionManager</name>
     <message>
-        <location line="+82"/>
+        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="+113"/>
         <source>within %1 seconds</source>
         <translatorcomment>Как тут с формами быть, няшка?</translatorcomment>
         <translation>в течение %1 секунд</translation>
@@ -49,7 +48,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="-95"/>
+        <location filename="../../plugins/connectionmanager/connectionmanagerplugin.cpp" line="+11"/>
         <source>ConnectionManager</source>
         <translation>Менеджер соединения</translation>
     </message>
@@ -62,7 +61,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location line="+24"/>
+        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="-68"/>
         <source>Connection manager</source>
         <translation>Менеджер подключений</translation>
     </message>
@@ -70,9 +69,8 @@
 <context>
     <name>Task</name>
     <message>
-        <location line="-21"/>
         <source>Author</source>
-        <translation>Автор</translation>
+        <translation type="obsolete">Автор</translation>
     </message>
 </context>
 </TS>

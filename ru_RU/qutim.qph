@@ -5483,4 +5483,12 @@ Accept invitation?</source>
     <source>Send to</source>
     <target>Отправить в</target>
 </phrase>
+<phrase>
+    <source>Search contact</source>
+    <target>Найти контакт</target>
+</phrase>
+<phrase>
+    <source>Ask authorization</source>
+    <target>Запроcить авторизацию</target>
+</phrase>
 </QPH>
