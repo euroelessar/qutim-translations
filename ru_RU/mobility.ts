@@ -14,17 +14,17 @@
     <message>
         <location line="+74"/>
         <source>within %1 seconds</source>
-        <translation type="unfinished">в %1 секунды(у)</translation>
+        <translation>в %1 секунды(у)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>immediately</source>
-        <translation type="unfinished">немедленно</translation>
+        <translation>немедленно</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>%1 will be reconnected %2</source>
-        <translation type="unfinished">%1 будет переподключен  %2</translation>
+        <translation>%1 будет переподключен  %2</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -42,7 +42,7 @@
     <message>
         <location line="+28"/>
         <source>Autoconnect on startup</source>
-        <translation type="unfinished">Автоподключение при запуске</translation>
+        <translation>Автоподключение при запуске</translation>
     </message>
 </context>
 <context>
@@ -57,11 +57,21 @@
         <source>Used to monitor the availability of network.</source>
         <translation type="unfinished">Используется для отслеживания доступности сети.</translation>
     </message>
+    <message>
+        <location filename="../../plugins/mobility/multimediabackend/multimediabackendplugin.cpp" line="+11"/>
+        <source>Mulimedia engine</source>
+        <translation type="unfinished">Звуковой движок</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sound engine based on QtMultimedia</source>
+        <translation type="unfinished">Звуковой движок основанный на QtMultimedia</translation>
+    </message>
 </context>
 <context>
     <name>Settings</name>
     <message>
-        <location line="+22"/>
+        <location filename="../../plugins/mobility/src/bearermanager/connectionmanager.cpp" line="+22"/>
         <source>Connection manager</source>
         <translation type="unfinished"></translation>
     </message>

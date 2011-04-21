@@ -4,22 +4,22 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/winintegration/win-integration/src/winint.cpp" line="+38"/>
+        <location filename="../../plugins/winintegration/src/winint.cpp" line="+38"/>
         <source>Vizir Ivan</source>
-        <translation type="unfinished">Визир Иван</translation>
+        <translation>Визир Иван</translation>
     </message>
 </context>
 <context>
     <name>Core::SimpleContactList::SevenWidget</name>
     <message>
-        <location filename="../../plugins/winintegration/win-integration/subplugins/sevenlist/sevenwidget.cpp" line="+88"/>
+        <location filename="../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp" line="+88"/>
         <source>Status</source>
-        <translation type="unfinished">Статус</translation>
+        <translation>Статус</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Search contact</source>
-        <translation type="unfinished">Поиск контакта</translation>
+        <translation>Поиск контакта</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -35,33 +35,33 @@
         <translation type="obsolete">Интеграция с Windows7®©™</translation>
     </message>
     <message>
-        <location filename="../../plugins/winintegration/win-integration/src/winint.cpp" line="+3"/>
+        <location filename="../../plugins/winintegration/src/winint.cpp" line="+3"/>
         <location line="+12"/>
         <source>Windows Integration</source>
-        <translation type="unfinished">Интеграция с Windows®©™</translation>
+        <translation>Интеграция с Windows®©™</translation>
     </message>
     <message>
         <location line="-11"/>
         <source>Adds count of unread messages as an icon to taskbar button of qutim, along with some commands list and provides a bit more usable notification area icon than default plugin.</source>
-        <translation type="unfinished">Добавляет взаимодействие с супербаром windows, количество непрочитанных сообщений, команды, уведомления итп.</translation>
+        <translation>Добавляет взаимодействие с супербаром windows, количество непрочитанных сообщений, команды, уведомления итп.</translation>
     </message>
 </context>
 <context>
     <name>SelectAccDlg</name>
     <message>
-        <location filename="../../plugins/winintegration/win-integration/src/selectaccdlg.ui" line="+14"/>
+        <location filename="../../plugins/winintegration/src/selectaccdlg.ui" line="+14"/>
         <source>Dialog</source>
-        <translation type="unfinished">Диалог</translation>
+        <translation>Диалог</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Select your account</source>
-        <translation type="unfinished">Выберите аккаунт</translation>
+        <translation>Выберите аккаунт</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Please, select one of your accout to chat with Jabber ID %1.</source>
-        <translation type="unfinished">Выберите аккаун jabber, для чата с %1.</translation>
+        <translation>Выберите аккаунт jabber, для чата с %1.</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -72,7 +72,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../plugins/winintegration/win-integration/src/winint.cpp" line="-3"/>
+        <location filename="../../plugins/winintegration/src/winint.cpp" line="-3"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -111,7 +111,7 @@
 <context>
     <name>WSettingsForm</name>
     <message>
-        <location filename="../../plugins/winintegration/win-integration/src/wsettings.ui" line="+14"/>
+        <location filename="../../plugins/winintegration/src/wsettings.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -123,63 +123,63 @@
     <message>
         <location line="+6"/>
         <source>Links association</source>
-        <translation type="unfinished">Ассоциации ссылок</translation>
+        <translation>Ассоциации ссылок</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Open Jabber links with qutIM. This may require administrative privelegies.</source>
-        <translation type="unfinished">Открытие jabber ссылок в qutIM.
+        <translation>Открытие Jabber/XMPP ссылок в qutIM.
 Это может потребовать административных привелегий.</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Update associations</source>
-        <translation type="unfinished">Обновить ассоциации</translation>
+        <translation>Обновить ассоциации</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>Taskbar</source>
-        <translation type="unfinished">Панель задач</translation>
+        <translation>Панель задач</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Overlay Icon</source>
-        <translation type="unfinished">Статусная иконка</translation>
+        <translation>Статусная иконка</translation>
     </message>
     <message>
         <location line="+6"/>
         <location line="+36"/>
         <source>Enabled</source>
-        <translation type="unfinished">Включено</translation>
+        <translation>Включено</translation>
     </message>
     <message>
         <location line="-26"/>
         <location line="+36"/>
         <source>Show new messages number</source>
-        <translation type="unfinished">Показывать количество сообщений</translation>
+        <translation>Показывать количество сообщений</translation>
     </message>
     <message>
         <location line="-26"/>
         <source>Add new conference messages number</source>
-        <translation type="unfinished">Добавить число сообщений из конференций</translation>
+        <translation>Добавить число сообщений из конференций</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Thumbnails</source>
-        <translation type="unfinished">Миниятюры</translation>
+        <translation>Миниатюры</translation>
     </message>
 </context>
 <context>
     <name>WThumbnailsProvider</name>
     <message>
-        <location filename="../../plugins/winintegration/win-integration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="+91"/>
+        <location filename="../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="+91"/>
         <source>&lt;b&gt;You have new messages.&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;У тебя новые  сообщения.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;У тебя новые сообщения.&lt;/b&gt;</translation>
     </message>
     <message numerus="yes">
         <location line="+3"/>
         <source>&amp;middot; %n message(s) from chats.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>&amp;middot; %n сообщение из чата.</numerusform>
             <numerusform>&amp;middot; %n сообщения из чатов.</numerusform>
             <numerusform>&amp;middot; %n сообщений из чатов.</numerusform>
@@ -188,7 +188,7 @@
     <message numerus="yes">
         <location line="+1"/>
         <source>&amp;middot; %n message(s) from conferences.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>&amp;middot; %n сообщение из конференции.</numerusform>
             <numerusform>&amp;middot; %n сообщения из конференций.</numerusform>
             <numerusform>&amp;middot; %n сообщений из конференций.</numerusform>
@@ -197,12 +197,12 @@
     <message>
         <location line="+6"/>
         <source>Last received from:</source>
-        <translation type="unfinished">Последний принят от:</translation>
+        <translation>Последний принят от:</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>You have no new messages.</source>
-        <translation type="unfinished">Нет новых сообщений.</translation>
+        <translation>Нет новых сообщений.</translation>
     </message>
 </context>
 </TS>
