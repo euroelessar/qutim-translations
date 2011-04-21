@@ -2871,78 +2871,201 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Notification</name>
+    <message>
+        <location filename="../../qutim/libqutim/notification.cpp" line="+78"/>
+        <source>Incoming Message</source>
+        <translation type="unfinished">Входящее сообщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Outgoing Message</source>
+        <translation type="unfinished">Исходящее сообщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>qutIM Startup</source>
+        <translation type="unfinished">qutIM запущен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Blocked Message</source>
+        <translation type="unfinished">Блокированное сообщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User joined chat</source>
+        <translation type="unfinished">Пользователь вошел в чат</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User leaved chat</source>
+        <translation type="unfinished">Пользователь покинул чат</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Incoming chat message</source>
+        <translation type="unfinished">Входящее сообщение в чате</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Outgoing chat message</source>
+        <translation type="unfinished">Исходящее сообщение в чате</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>File transfer completed</source>
+        <translation type="unfinished">Передача файла завершена</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User online</source>
+        <translation type="unfinished">Пользователь в сети</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User offline</source>
+        <translation type="unfinished">Пользователь отключен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User changed status</source>
+        <translation type="unfinished">Пользоватль изменил статус</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User has birthday!</source>
+        <translation type="unfinished">День рождения пользователя!</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User typing</source>
+        <translation type="unfinished">Набирается текст</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>System</source>
+        <translation type="unfinished">Система</translation>
+    </message>
+</context>
+<context>
     <name>Notifications</name>
     <message>
-        <location filename="../../qutim/src/corelayers/notificationssettings/popupbehavior.cpp" line="+31"/>
-        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+78"/>
+        <location filename="../../qutim/src/corelayers/notificationssettings/popupbehavior.cpp" line="+40"/>
         <source>User online</source>
         <translation>Пользователь в сети</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>User offline</source>
         <translation>Пользователь отключен</translation>
     </message>
     <message>
-        <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Status changed</source>
-        <translation>Статус изменен</translation>
+        <translation type="obsolete">Статус изменен</translation>
     </message>
     <message>
-        <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>User has birthday today!</source>
-        <translation>Сегодня день рождения!</translation>
+        <translation type="obsolete">Сегодня день рождения!</translation>
     </message>
     <message>
-        <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>qutIM Launched</source>
         <translatorcomment>Именно тут большая буква нужна, ибо в началек предложения. можешь сам посмотреть как выглядит с мелкой.</translatorcomment>
-        <translation>QutIM запущен</translation>
+        <translation type="obsolete">QutIM запущен</translation>
     </message>
     <message>
-        <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Message recieved</source>
-        <translation>Принято сообщение</translation>
+        <translation type="obsolete">Принято сообщение</translation>
     </message>
     <message>
-        <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Message sent</source>
-        <translation>Сообщение отправленно</translation>
+        <translation type="obsolete">Сообщение отправленно</translation>
     </message>
     <message>
-        <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>System notification</source>
-        <translation>Системное уведомление</translation>
+        <translation type="obsolete">Системное уведомление</translation>
     </message>
     <message>
-        <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Typing</source>
-        <translation>Печатаю</translation>
+        <translation type="obsolete">Печатаю</translation>
     </message>
     <message>
-        <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Message blocked</source>
-        <translation>Сообщение заблокировано</translation>
+        <translation type="obsolete">Сообщение заблокировано</translation>
     </message>
     <message>
-        <location line="+1"/>
-        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Count</source>
         <translatorcomment>Количество, но что тут имеется ввиду?</translatorcomment>
-        <translation>Количество</translation>
+        <translation type="obsolete">Количество</translation>
+    </message>
+    <message>
+        <location line="-10"/>
+        <source>Incoming Message</source>
+        <translation>Входящее сообщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Outgoing Message</source>
+        <translation>Исходящее сообщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>qutIM Startup</source>
+        <translation>qutIM запущен</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Blocked Message</source>
+        <translation>Блокированное сообщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User joined chat</source>
+        <translation>Пользователь вошел в чат</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User leaved chat</source>
+        <translation>Пользователь покинул чат</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Incoming chat message</source>
+        <translation>Входящее сообщение в чате</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Outgoing chat message</source>
+        <translation>Исходящее сообщение в чате</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>File transfer completed</source>
+        <translation>Передача файла завершена</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>User changed status</source>
+        <translation>Пользоватль изменил статус</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User has birthday!</source>
+        <translation>День рождения пользователя!</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User typing</source>
+        <translation>Набирается текст</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>System</source>
+        <translation type="unfinished">Система</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="-18"/>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+71"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
@@ -3837,65 +3960,68 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+193"/>
+        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+108"/>
         <source>Notify</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Уведомление</translation>
     </message>
     <message>
-        <location line="+28"/>
         <source>System message from %1:</source>
-        <translation>Системное сообщение от %1:</translation>
+        <translation type="obsolete">Системное сообщение от %1:</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+50"/>
         <source>%1 changed status</source>
         <translation>%1 изменил статус</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="-21"/>
         <source>Message from %1:</source>
         <translation>Сообщение от %1:</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>Message to %1:</source>
         <translation>Сообщение для %1:</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+23"/>
         <source>%1 is typing</source>
         <translation>%1 печатает</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+5"/>
+        <source>System notify</source>
+        <translation type="unfinished">Системное уведомление</translation>
+    </message>
+    <message>
+        <location line="-22"/>
         <source>Blocked message from %1</source>
         <translation>Заблокировано сообщение от %1</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+14"/>
         <source>%1 has birthday today!!</source>
         <translation>Сегодня день рождения у %1!!</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="-10"/>
         <source>%1 is online</source>
         <translation>%1 в сети</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>%1 is offline</source>
         <translation>%1 отключился</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="-11"/>
         <source>qutIM launched</source>
         <translatorcomment>Аналогично</translatorcomment>
         <translation>QutIM запущен</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Count</source>
-        <translation>Количество</translation>
+        <translation type="obsolete">Количество</translation>
     </message>
     <message>
         <location filename="../../qutim/libqutim/utils.cpp" line="+115"/>
@@ -4016,7 +4142,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Модуль действий</translation>
     </message>
     <message>
-        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="-214"/>
+        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="-107"/>
         <source>Popup</source>
         <translation>Уведомление</translation>
     </message>
@@ -4498,7 +4624,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Sound</name>
     <message>
-        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+385"/>
+        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+300"/>
         <source>No sound</source>
         <translation type="unfinished">Без звука</translation>
     </message>
@@ -4516,7 +4642,7 @@ p, li { white-space: pre-wrap; }
         <translation>Тестовое уведомление</translation>
     </message>
     <message>
-        <location line="+24"/>
+        <location line="+12"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>

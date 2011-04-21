@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/kdeintegration/src/kdeintegration.cpp" line="+72"/>
+        <location filename="../../plugins/kdeintegration/src/kdeintegration.cpp" line="+71"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Нигматуллин Руслан</translation>
     </message>
@@ -25,14 +25,12 @@
 <context>
     <name>KDENotificationLayer</name>
     <message>
-        <location filename="../../plugins/kdeintegration/src/notification/kdenotificationlayer.cpp" line="+121"/>
         <source>Open chat</source>
-        <translation>Открыть чат</translation>
+        <translation type="obsolete">Открыть чат</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>Close</source>
-        <translation>Закрыть</translation>
+        <translation type="obsolete">Закрыть</translation>
     </message>
 </context>
 <context>
@@ -148,9 +146,8 @@
         <translation>Проверка орфографии</translation>
     </message>
     <message>
-        <location filename="../../plugins/kdeintegration/src/notification/kdenotificationlayer.cpp" line="-83"/>
         <source>Popups</source>
-        <translation>Уведомления</translation>
+        <translation type="obsolete">Уведомления</translation>
     </message>
 </context>
 <context>
@@ -169,37 +166,26 @@
 <context>
     <name>plugmanSettings</name>
     <message>
-        <location filename="../../plugins/kdeintegration/src/notification/settings.ui" line="+13"/>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+10"/>
         <source>Settings</source>
-        <translation>Настройки</translation>
+        <translation type="obsolete">Настройки</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Installed plugins:</source>
-        <translation>Установленые плагины:</translation>
+        <translation type="obsolete">Установленые плагины:</translation>
     </message>
     <message>
-        <location line="+20"/>
         <source>Install from internet</source>
-        <translation>Установить из сети</translation>
+        <translation type="obsolete">Установить из сети</translation>
     </message>
     <message>
-        <location line="+11"/>
         <source>Install from file</source>
-        <translation>Установить из файла</translation>
+        <translation type="obsolete">Установить из файла</translation>
     </message>
     <message>
-        <location line="+32"/>
         <source>About</source>
-        <translation>О плагине</translation>
+        <translation type="obsolete">О плагине</translation>
     </message>
     <message>
-        <location line="+12"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -209,7 +195,7 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Author: &lt;/span&gt;Sidorov Aleksey&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Contacts: &lt;/span&gt;&lt;a href=&quot;mailto::sauron@citadelspb.com&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;sauron@citadeslpb.com&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="obsolete">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;

@@ -5491,4 +5491,64 @@ Accept invitation?</source>
     <source>Ask authorization</source>
     <target>Запроcить авторизацию</target>
 </phrase>
+<phrase>
+    <source>Incoming Message</source>
+    <target>Входящее сообщение</target>
+</phrase>
+<phrase>
+    <source>Outgoing Message</source>
+    <target>Исходящее сообщение</target>
+</phrase>
+<phrase>
+    <source>qutIM Startup</source>
+    <target>qutIM запущен</target>
+</phrase>
+<phrase>
+    <source>Blocked Message</source>
+    <target>Блокированное сообщение</target>
+</phrase>
+<phrase>
+    <source>User joined chat</source>
+    <target>Пользователь вошел в чат</target>
+</phrase>
+<phrase>
+    <source>User leaved chat</source>
+    <target>Пользователь покинул чат</target>
+</phrase>
+<phrase>
+    <source>Incoming chat message</source>
+    <target>Входящее сообщение в чате</target>
+</phrase>
+<phrase>
+    <source>Outgoing chat message</source>
+    <target>Исходящее сообщение в чате</target>
+</phrase>
+<phrase>
+    <source>File transfer completed</source>
+    <target>Передача файла завершена</target>
+</phrase>
+<phrase>
+    <source>User online</source>
+    <target>Пользователь в сети</target>
+</phrase>
+<phrase>
+    <source>User offline</source>
+    <target>Пользователь отключен</target>
+</phrase>
+<phrase>
+    <source>User changed status</source>
+    <target>Пользоватль изменил статус</target>
+</phrase>
+<phrase>
+    <source>User has birthday!</source>
+    <target>День рождения пользователя!</target>
+</phrase>
+<phrase>
+    <source>User typing</source>
+    <target>Набирается текст</target>
+</phrase>
+<phrase>
+    <source>System</source>
+    <target>Система</target>
+</phrase>
 </QPH>
