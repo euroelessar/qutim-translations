@@ -195,7 +195,7 @@
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+205"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+206"/>
         <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+3"/>
         <source>Alexey Prokhin</source>
         <translation>Прохин Алексей</translation>
@@ -618,7 +618,7 @@
     <message>
         <location line="+1"/>
         <source>Ask authorization</source>
-        <translation>Запротить авторизацию</translation>
+        <translation type="unfinished">Запроcить авторизацию</translation>
     </message>
     <message>
         <location line="+61"/>
@@ -3440,18 +3440,18 @@ p, li { white-space: pre-wrap; }
         <translation>Поддержка прокси для протокола Oscar</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-7"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-8"/>
         <source>OscarXStatus</source>
         <translation>X-Статус</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location line="+7"/>
+        <location line="+8"/>
         <source>Additional statuses for oscar protocol</source>
         <translation>Дополнительные X-статусы для аськи</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <location line="+1"/>
         <source>XStatus settings</source>
         <translation>Настройки Х-статусов</translation>
@@ -3654,7 +3654,7 @@ p, li { white-space: pre-wrap; }
         <translation>Занят</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+22"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+34"/>
         <source>Angry</source>
         <translation>Злой</translation>
     </message>
@@ -3733,7 +3733,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-5"/>
         <location line="+3"/>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-45"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-58"/>
         <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="-46"/>
         <location line="+3"/>
         <source>Author</source>
@@ -3743,7 +3743,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>XStatus</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-162"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-163"/>
         <source>Angry</source>
         <translation>Злой</translation>
     </message>
@@ -4063,7 +4063,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::OftConnection</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarfiletransfer.cpp" line="+861"/>
+        <location filename="../../protocols/oscar/src/oscarfiletransfer.cpp" line="+862"/>
         <source>Could not open %1</source>
         <translation>Не удалось открыть %1</translation>
     </message>
@@ -4075,7 +4075,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Протокол фередачи файлов OSCAR&apos;a</translation>
     </message>
     <message>
-        <location line="+174"/>
+        <location line="+173"/>
         <source>Oscar</source>
         <translation>ICQ/Oscar</translation>
     </message>
@@ -4132,7 +4132,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+257"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+263"/>
         <source>X-Status</source>
         <translation>X-Статус</translation>
     </message>
