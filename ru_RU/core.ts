@@ -2038,7 +2038,7 @@ p, li { white-space: pre-wrap; }
         <translation>Прочие метки</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="+334"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="+336"/>
         <source>Without tags</source>
         <translation>Без меток</translation>
     </message>
@@ -3837,7 +3837,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+120"/>
+        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+193"/>
+        <source>Notify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
         <source>System message from %1:</source>
         <translation>Системное сообщение от %1:</translation>
     </message>
@@ -4011,7 +4016,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Модуль действий</translation>
     </message>
     <message>
-        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="-114"/>
+        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="-214"/>
         <source>Popup</source>
         <translation>Уведомление</translation>
     </message>
@@ -4493,7 +4498,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Sound</name>
     <message>
-        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+282"/>
+        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+385"/>
         <source>No sound</source>
         <translation type="unfinished">Без звука</translation>
     </message>
