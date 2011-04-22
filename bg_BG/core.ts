@@ -1558,7 +1558,7 @@ p, li { white-space: pre-wrap; }
         <translation>Собствени етикети</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="+334"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="+336"/>
         <source>Without tags</source>
         <translation>Без етикети</translation>
     </message>
@@ -2285,76 +2285,199 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>Notifications</name>
+    <name>Notification</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/notificationssettings/popupbehavior.cpp" line="+31"/>
-        <location filename="../../qutim-meta/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+78"/>
+        <location filename="../../qutim-meta/core/libqutim/notification.cpp" line="+78"/>
+        <source>Incoming Message</source>
+        <translation>Входящо съобщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Outgoing Message</source>
+        <translation>Изходящо съобщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>qutIM Startup</source>
+        <translation>qutIM е стартиран</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Blocked Message</source>
+        <translation>Блокирано съобщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User joined chat</source>
+        <translation>Потребител се присъединяване към групов разговор</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User leaved chat</source>
+        <translation>Потребител напуска групов разговор</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Incoming chat message</source>
+        <translation>Входящо съобщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Outgoing chat message</source>
+        <translation>Изходящо съобщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>File transfer completed</source>
+        <translation>Приключило предаване на  файл(ове)</translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>User online</source>
         <translation>Потребител идва на линия</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim-meta/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>User offline</source>
         <translation>Потребител излиза извън линия</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim-meta/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
+        <source>User changed status</source>
+        <translation>Потребител променя статуса си</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User has birthday!</source>
+        <translation>Потребител има рожден ден!</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User typing</source>
+        <translation>Потребител пише</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>System</source>
+        <translation>Системни</translation>
+    </message>
+</context>
+<context>
+    <name>Notifications</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/notificationssettings/popupbehavior.cpp" line="+40"/>
+        <source>User online</source>
+        <translation>Потребител идва на линия</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User offline</source>
+        <translation>Потребител излиза извън линия</translation>
+    </message>
+    <message>
         <source>Status changed</source>
-        <translation>Промяна на статуса</translation>
+        <translation type="obsolete">Промяна на статуса</translation>
     </message>
     <message>
-        <location line="+1"/>
-        <location filename="../../qutim-meta/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>User has birthday today!</source>
-        <translation>Потребител има рожден ден днес!</translation>
+        <translation type="obsolete">Потребител има рожден ден днес!</translation>
+    </message>
+    <message>
+        <source>qutIM Launched</source>
+        <translation type="obsolete">qutIM е стартиран</translation>
+    </message>
+    <message>
+        <source>Message recieved</source>
+        <translation type="obsolete">Полученото съобщение</translation>
+    </message>
+    <message>
+        <source>Message sent</source>
+        <translation type="obsolete">Изпратеното съобщение</translation>
+    </message>
+    <message>
+        <source>System notification</source>
+        <translation type="obsolete">Системно уведомление</translation>
+    </message>
+    <message>
+        <source>Typing</source>
+        <translation type="obsolete">Пише</translation>
+    </message>
+    <message>
+        <source>Message blocked</source>
+        <translation type="obsolete">Блокирано съобщение</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <translation type="obsolete">Брой</translation>
+    </message>
+    <message>
+        <location line="-10"/>
+        <source>Incoming Message</source>
+        <translation>Входящо съобщение</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim-meta/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
-        <source>qutIM Launched</source>
+        <source>Outgoing Message</source>
+        <translation>Изходящо съобщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>qutIM Startup</source>
         <translation>qutIM е стартиран</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim-meta/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
-        <source>Message recieved</source>
-        <translation>Полученото съобщение</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <location filename="../../qutim-meta/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
-        <source>Message sent</source>
-        <translation>Изпратеното съобщение</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <location filename="../../qutim-meta/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
-        <source>System notification</source>
-        <translation>Системно уведомление</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <location filename="../../qutim-meta/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
-        <source>Typing</source>
-        <translation>Пише</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <location filename="../../qutim-meta/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
-        <source>Message blocked</source>
+        <source>Blocked Message</source>
         <translation>Блокирано съобщение</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../../qutim-meta/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
-        <source>Count</source>
-        <translation>Брой</translation>
+        <source>User joined chat</source>
+        <translation>Потребител се присъединяване към групов разговор</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User leaved chat</source>
+        <translation>Потребител напуска групов разговор</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Incoming chat message</source>
+        <translation>Входящо съобщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Outgoing chat message</source>
+        <translation>Изходящо съобщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>File transfer completed</source>
+        <translation>Приключило предаване на  файл(ове)</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>User changed status</source>
+        <translation>Потребител променя статуса си</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User has birthday!</source>
+        <translation>Потребител има рожден ден!</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User typing</source>
+        <translation>Потребител пише</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>System</source>
+        <translation>Системни</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../../qutim-meta/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="-18"/>
+        <location filename="../../qutim-meta/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+71"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
@@ -2623,59 +2746,62 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/notificationslayer.cpp" line="+120"/>
         <source>System message from %1:</source>
-        <translation>Системно съобщение от %1:</translation>
+        <translation type="obsolete">Системно съобщение от %1:</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location filename="../../qutim-meta/core/libqutim/notificationslayer.cpp" line="+158"/>
         <source>%1 changed status</source>
         <translation>%1 промени статуса си</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="-21"/>
         <source>Message from %1:</source>
         <translation>Съобщение от %1:</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>Message to %1:</source>
         <translation>Съобщение до %1:</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+23"/>
         <source>%1 is typing</source>
         <translation>%1 пише</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+5"/>
+        <source>System notify</source>
+        <translation>Системно уведомление</translation>
+    </message>
+    <message>
+        <location line="-22"/>
         <source>Blocked message from %1</source>
         <translation>Блокирано съобщение от %1</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+14"/>
         <source>%1 has birthday today!!</source>
         <translation>%1 има рожден ден днес!!</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="-10"/>
         <source>%1 is online</source>
         <translation>%1 е на линия</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>%1 is offline</source>
         <translation>%1 е извън линия</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="-11"/>
         <source>qutIM launched</source>
         <translation>qutIM е стартиран</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Count</source>
-        <translation>Брой</translation>
+        <translation type="obsolete">Брой</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/core/libqutim/utils.cpp" line="+115"/>
@@ -2783,7 +2909,7 @@ p, li { white-space: pre-wrap; }
         <translation>Област с действия</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/notificationslayer.cpp" line="-114"/>
+        <location filename="../../qutim-meta/core/libqutim/notificationslayer.cpp" line="-107"/>
         <source>Popup</source>
         <translation>Уведомление</translation>
     </message>
@@ -3207,7 +3333,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Sound</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/notificationslayer.cpp" line="+282"/>
+        <location filename="../../qutim-meta/core/libqutim/notificationslayer.cpp" line="+300"/>
         <source>No sound</source>
         <translation>Без звук</translation>
     </message>
@@ -3225,7 +3351,7 @@ p, li { white-space: pre-wrap; }
         <translation>Предварителен преглед</translation>
     </message>
     <message>
-        <location line="+24"/>
+        <location line="+12"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
