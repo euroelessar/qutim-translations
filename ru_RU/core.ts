@@ -2277,7 +2277,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::TreeModel</name>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+184"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+183"/>
         <source>Without tags</source>
         <translation type="unfinished">Без меток</translation>
     </message>
@@ -2873,7 +2873,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Notification</name>
     <message>
-        <location filename="../../qutim/libqutim/notification.cpp" line="+78"/>
+        <location filename="../../qutim/libqutim/notification.cpp" line="+118"/>
         <source>Incoming Message</source>
         <translation type="unfinished">Входящее сообщение</translation>
     </message>
@@ -3960,61 +3960,70 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+108"/>
         <source>Notify</source>
-        <translation type="unfinished">Уведомление</translation>
+        <translation type="obsolete">Уведомление</translation>
     </message>
     <message>
         <source>System message from %1:</source>
         <translation type="obsolete">Системное сообщение от %1:</translation>
     </message>
     <message>
-        <location line="+50"/>
+        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+157"/>
+        <location filename="../../qutim/src/corelayers/notificationfilter/notificationfilter.cpp" line="+34"/>
         <source>%1 changed status</source>
         <translation>%1 изменил статус</translation>
     </message>
     <message>
         <location line="-21"/>
+        <location filename="../../qutim/src/corelayers/notificationfilter/notificationfilter.cpp" line="-21"/>
         <source>Message from %1:</source>
         <translation>Сообщение от %1:</translation>
     </message>
     <message>
         <location line="+4"/>
+        <location filename="../../qutim/src/corelayers/notificationfilter/notificationfilter.cpp" line="+4"/>
         <source>Message to %1:</source>
         <translation>Сообщение для %1:</translation>
     </message>
     <message>
         <location line="+23"/>
+        <location filename="../../qutim/src/corelayers/notificationfilter/notificationfilter.cpp" line="+23"/>
         <source>%1 is typing</source>
         <translation>%1 печатает</translation>
     </message>
     <message>
         <location line="+5"/>
+        <location filename="../../qutim/src/corelayers/notificationfilter/notificationfilter.cpp" line="+5"/>
         <source>System notify</source>
         <translation type="unfinished">Системное уведомление</translation>
     </message>
     <message>
         <location line="-22"/>
+        <location filename="../../qutim/src/corelayers/notificationfilter/notificationfilter.cpp" line="-22"/>
         <source>Blocked message from %1</source>
         <translation>Заблокировано сообщение от %1</translation>
     </message>
     <message>
         <location line="+14"/>
+        <location filename="../../qutim/src/corelayers/notificationfilter/notificationfilter.cpp" line="+14"/>
         <source>%1 has birthday today!!</source>
         <translation>Сегодня день рождения у %1!!</translation>
     </message>
     <message>
         <location line="-10"/>
+        <location filename="../../qutim/src/corelayers/notificationfilter/notificationfilter.cpp" line="-10"/>
         <source>%1 is online</source>
         <translation>%1 в сети</translation>
     </message>
     <message>
         <location line="+4"/>
+        <location filename="../../qutim/src/corelayers/notificationfilter/notificationfilter.cpp" line="+4"/>
         <source>%1 is offline</source>
         <translation>%1 отключился</translation>
     </message>
     <message>
         <location line="-11"/>
+        <location filename="../../qutim/src/corelayers/notificationfilter/notificationfilter.cpp" line="-11"/>
         <source>qutIM launched</source>
         <translatorcomment>Аналогично</translatorcomment>
         <translation>QutIM запущен</translation>
@@ -4099,6 +4108,16 @@ p, li { white-space: pre-wrap; }
         <source>Tool button style</source>
         <translation type="unfinished">Стиль кнопок &quot;инструментов&quot;</translation>
     </message>
+    <message>
+        <location filename="../../qutim/src/corelayers/notificationfilter/notificationfilter.cpp" line="+76"/>
+        <source>Open chat</source>
+        <translation type="unfinished">Открыть чат</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Ignore</source>
+        <translation type="unfinished">Отклонить</translation>
+    </message>
 </context>
 <context>
     <name>SearchContactForm</name>
@@ -4142,7 +4161,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Модуль действий</translation>
     </message>
     <message>
-        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="-107"/>
+        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="-106"/>
         <source>Popup</source>
         <translation>Уведомление</translation>
     </message>
@@ -4624,7 +4643,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Sound</name>
     <message>
-        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+300"/>
+        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+299"/>
         <source>No sound</source>
         <translation type="unfinished">Без звука</translation>
     </message>
