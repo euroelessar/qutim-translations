@@ -16,25 +16,22 @@
 <context>
     <name>DBusBackend</name>
     <message>
-        <location filename="../../qutim-meta/plugins/dbusnotifications/src/dbusbackend.cpp" line="+143"/>
         <source>Open chat</source>
-        <translation>Започване на разговор</translation>
+        <translation type="obsolete">Започване на разговор</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Ignore</source>
-        <translation>Пренебрегване</translation>
+        <translation type="obsolete">Пренебрегване</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Open</source>
-        <translation>Отваряне</translation>
+        <translation type="obsolete">Отваряне</translation>
     </message>
 </context>
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/plugins/dbusnotifications/src/dplugin.cpp" line="-4"/>
+        <location line="-4"/>
         <source>DBus notifications</source>
         <translation>DBus уведомления</translation>
     </message>

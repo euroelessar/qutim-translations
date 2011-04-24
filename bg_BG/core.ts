@@ -1780,7 +1780,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::TreeModel</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+184"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+183"/>
         <source>Without tags</source>
         <translation>Без етикети</translation>
     </message>

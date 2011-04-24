@@ -3833,6 +3833,11 @@
         <source>Don&apos;t send requests for avatarts</source>
         <translation>Да не се изпращат заявки за аватари</translation>
     </message>
+    <message>
+        <location line="+2"/>
+        <source>Support AIM contacts</source>
+        <translation>Поддръжка на AIM контакти</translation>
+    </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::oscar::Md5Login</name>
