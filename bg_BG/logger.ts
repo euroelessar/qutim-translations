@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/logger/src/logger.cpp" line="+55"/>
+        <location filename="../../qutim-meta/plugins/logger/src/logger.cpp" line="+56"/>
         <source>Sidorov Aleksey</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -24,18 +24,18 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location line="-20"/>
-        <location line="+24"/>
+        <location line="-21"/>
+        <location line="+25"/>
         <source>Logger</source>
         <translation>Журнал</translation>
     </message>
     <message>
-        <location line="-23"/>
+        <location line="-24"/>
         <source>Simple file based logger for debug</source>
         <translation>Опростен файлово-базиран журнал за дебъгване</translation>
     </message>
     <message>
-        <location line="+27"/>
+        <location line="+28"/>
         <source>Select log path</source>
         <translation>Избор на път до журнала</translation>
     </message>

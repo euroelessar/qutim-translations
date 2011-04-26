@@ -245,7 +245,7 @@
 <context>
     <name>PackageManager</name>
     <message>
-        <location filename="../../qutim-meta/plugins/plugman/src/plugman.cpp" line="+39"/>
+        <location filename="../../qutim-meta/plugins/plugman/src/plugman.cpp" line="+40"/>
         <source>Manage packages</source>
         <translation>Управление на пакети</translation>
     </message>
@@ -253,7 +253,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location line="-11"/>
+        <location line="-12"/>
         <source>Package manager</source>
         <translation>Управление на пакети</translation>
     </message>

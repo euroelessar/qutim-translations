@@ -205,8 +205,8 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogplugin.cpp" line="+29"/>
         <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+19"/>
-        <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+31"/>
-        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="+33"/>
+        <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+32"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="+34"/>
         <source>Sidorov Aleksey</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -215,7 +215,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Алексей Сидоров</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="+76"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="+77"/>
         <source>Perova Gala</source>
         <translation>Гала Перова</translation>
     </message>
@@ -324,12 +324,12 @@ p, li { white-space: pre-wrap; }
         <translation>Предходен разговор</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-30"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-31"/>
         <source>Insert Emoticon</source>
         <translation>Вмъкване на емотикона</translation>
     </message>
     <message>
-        <location line="+44"/>
+        <location line="+45"/>
         <source>Show Emoticons</source>
         <translation>Показване на емотикони</translation>
     </message>
@@ -1780,7 +1780,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::TreeModel</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+184"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+183"/>
         <source>Without tags</source>
         <translation>Без етикети</translation>
     </message>
@@ -2171,6 +2171,59 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KineticScrollerSettings</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/kineticscroller/kineticscrollersettings.ui" line="+14"/>
+        <source>Form</source>
+        <translation>Настройки</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Type:</source>
+        <translation>Тип:</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>No scrolling</source>
+        <translation>Без</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Touch</source>
+        <translation>Докосване</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Left mouse button</source>
+        <translation>Ляв бутон на мишката</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Middle mouse button</source>
+        <translation>Среден бутон на мишката</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Right mouse button</source>
+        <translation>Десен бутон на мишката</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Mouse press delay, secs:</source>
+        <translation>Забаване натискането на мишката, сек.:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Drag start distance, metres:</source>
+        <translation>Начално разтояние на влаченето, м.:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Drag velocity smoothing factor, 1/secs:</source>
+        <translation>Фактор на заглаждане на сукорението при влачене, 1/сек.:</translation>
+    </message>
+</context>
+<context>
     <name>Localization</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/localization/localizationsettings.cpp" line="+48"/>
@@ -2505,7 +2558,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM, реализация на уведомления. На базата на QTextDocument</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-57"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-58"/>
         <source>Webkit chat layer</source>
         <translation>WebKit слой за разговор</translation>
     </message>
@@ -2515,7 +2568,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбираща се за qutIM реализация на разговор. На базата на Adium стилове за разговора</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+5"/>
         <source>Time modifier</source>
         <translation>Редактиране на време</translation>
     </message>
@@ -2607,7 +2660,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбиращ се за qutIM формуляр за търсене, оптимизиран за мобилни устройства</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="-3"/>
+        <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="-4"/>
         <source>Session helper</source>
         <translation>Сесиен Помощник</translation>
     </message>
@@ -2622,7 +2675,7 @@ p, li { white-space: pre-wrap; }
         <translation>Kinetic превъртане</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="-3"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="-4"/>
         <source>Simple Actions</source>
         <translation>Обикновени действия</translation>
     </message>
@@ -3000,7 +3053,7 @@ p, li { white-space: pre-wrap; }
         <translation>Изскачащи прозорци</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreator.cpp" line="+12"/>
+        <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreator.cpp" line="+13"/>
         <source>Accounts</source>
         <translation>Сметки</translation>
     </message>
@@ -3560,12 +3613,12 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogplugin.cpp" line="+3"/>
         <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+3"/>
         <location filename="../../qutim-meta/core/src/corelayers/searchdialog/searchdialogplugin.cpp" line="-10"/>
-        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="+3"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="+4"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+3"/>
+        <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+4"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
     </message>
@@ -4082,7 +4135,7 @@ en</source>
 <context>
     <name>qutim_sdk_0_3::ModuleManager</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+224"/>
+        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+275"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Неуспешно зареждане на добавка: 

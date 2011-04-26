@@ -9,8 +9,8 @@
         <translation>Алексей Сидоров</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="+17"/>
-        <location filename="../../qutim-meta/protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+17"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="+18"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+18"/>
         <source>Alexey Sidorov</source>
         <translation>Сидоров Алексей</translation>
     </message>
@@ -171,7 +171,7 @@
         <translation>Поддръжка на прокси във ВКонтакте</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="-3"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="-4"/>
         <source>Wall</source>
         <translation>Стена</translation>
     </message>
@@ -181,7 +181,7 @@
         <translation>Поддръжка на ВКонтакте стена в qutIM</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="-3"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="-4"/>
         <source>Photoalbum</source>
         <translation>Фото албум</translation>
     </message>
@@ -194,8 +194,8 @@
 <context>
     <name>Task</name>
     <message>
-        <location line="+3"/>
-        <location filename="../../qutim-meta/protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+3"/>
+        <location line="+4"/>
+        <location filename="../../qutim-meta/protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+4"/>
         <location filename="../../qutim-meta/protocols/vkontakte/src/vkontakteplugin.cpp" line="-18"/>
         <source>Author</source>
         <translation>Автор</translation>

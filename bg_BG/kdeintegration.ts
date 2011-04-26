@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/kdeintegration/src/kdeintegration.cpp" line="+71"/>
+        <location filename="../../qutim-meta/plugins/kdeintegration/src/kdeintegration.cpp" line="+72"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -66,6 +66,16 @@
         <location line="+1"/>
         <source>Integration with K Desktop Environment</source>
         <translation>Интеграция с K Desktop Environment</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>KDE Integration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Full-featured integration with KDE</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
@@ -156,7 +166,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../qutim-meta/plugins/kdeintegration/src/kdeintegration.cpp" line="-32"/>
+        <location filename="../../qutim-meta/plugins/kdeintegration/src/kdeintegration.cpp" line="-35"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
     </message>

@@ -153,7 +153,7 @@ p, li { white-space: pre-wrap; }
         <translation>Открито: %1</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/plugins/weather/src/weather.cpp" line="+7"/>
+        <location filename="../../qutim-meta/plugins/weather/src/weather.cpp" line="+8"/>
         <source>Get weather</source>
         <translation type="unfinished"></translation>
     </message>
