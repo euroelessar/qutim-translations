@@ -3836,7 +3836,7 @@
     <message>
         <location line="+2"/>
         <source>Support AIM contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Поддръжка на AIM контакти</translation>
     </message>
 </context>
 <context>

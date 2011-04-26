@@ -141,7 +141,7 @@
     <message>
         <location line="+21"/>
         <source>Short description:</source>
-        <translation>Кратко описание</translation>
+        <translation>Кратко описание:</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -322,7 +322,7 @@
     <message>
         <location filename="../../qutim-meta/plugins/plugman/ui/manager.ui" line="+20"/>
         <source>Plugman</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление на пакети</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -389,7 +389,7 @@
     <message>
         <location line="-129"/>
         <source>Unable to extract archive: %1 to %2</source>
-        <translation>Невъзможно е извличането на архива: %1</translation>
+        <translation>Невъзможно е извличането на архива: %1 в %2</translation>
     </message>
     <message>
         <location line="+7"/>
