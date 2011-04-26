@@ -229,7 +229,7 @@
     <message>
         <location line="+12"/>
         <source>Email:</source>
-        <translation>E-mail:</translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <location line="+10"/>
