@@ -70,12 +70,12 @@
     <message>
         <location line="+2"/>
         <source>KDE Integration</source>
-        <translation type="unfinished"></translation>
+        <translation>Интеграция с KDE</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Full-featured integration with KDE</source>
-        <translation type="unfinished"></translation>
+        <translation>Пълноценна интеграция с KDE</translation>
     </message>
     <message>
         <location line="+2"/>
