@@ -4,8 +4,8 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="17"/>
-        <location filename="protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="17"/>
+        <location filename="protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="18"/>
+        <location filename="protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="18"/>
         <source>Alexey Sidorov</source>
         <translation></translation>
     </message>
@@ -190,8 +190,8 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="18"/>
-        <location filename="protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="18"/>
+        <location filename="protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="19"/>
+        <location filename="protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="19"/>
         <location filename="protocols/vkontakte/src/vkontakteplugin.cpp" line="33"/>
         <source>Author</source>
         <translation>Autor</translation>
@@ -300,12 +300,12 @@
 <context>
     <name>Vkontakte</name>
     <message>
-        <location filename="protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="28"/>
+        <location filename="protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="29"/>
         <source>View photoalbum</source>
         <translation>Zobrazit album fotek</translation>
     </message>
     <message>
-        <location filename="protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="27"/>
+        <location filename="protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="28"/>
         <source>View wall</source>
         <translation>Zobrazit zeď</translation>
     </message>

@@ -4,12 +4,12 @@
 <context>
     <name>AntiBoss</name>
     <message>
-        <location filename="plugins/antiboss/src/antibossplugin.cpp" line="37"/>
+        <location filename="plugins/antiboss/src/antibossplugin.cpp" line="38"/>
         <source>Show/hide all windows</source>
         <translation>Zobrazit/skrýt všechny okna</translation>
     </message>
     <message>
-        <location filename="plugins/antiboss/src/antibossplugin.cpp" line="38"/>
+        <location filename="plugins/antiboss/src/antibossplugin.cpp" line="39"/>
         <source>Antiboss</source>
         <translation></translation>
     </message>

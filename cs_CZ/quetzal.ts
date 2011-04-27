@@ -4,14 +4,14 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="612"/>
+        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="614"/>
         <source>Quetzal</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="613"/>
-        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="649"/>
-        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="653"/>
+        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="615"/>
+        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="651"/>
+        <location filename="protocols/quetzal/src/quetzalplugin.cpp" line="655"/>
         <source>&apos;Quetzal&apos; is set of protocols, powered by libpurple</source>
         <translation type="unfinished">&apos;Quetzal&apos; je sada protokolů, poháněných knihovnou libpurple</translation>
     </message>
@@ -85,7 +85,7 @@ Pro úplné vytvoření účtu pokračujte stisknutím tlačítka Dokončit</tra
 <context>
     <name>Settings</name>
     <message>
-        <location filename="protocols/quetzal/src/quetzalprotocol.cpp" line="79"/>
+        <location filename="protocols/quetzal/src/quetzalprotocol.cpp" line="89"/>
         <source>General</source>
         <translation>Obecné</translation>
     </message>

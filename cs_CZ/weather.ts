@@ -110,12 +110,12 @@ p, li { white-space: pre-wrap; }
         <translation>Počasí</translation>
     </message>
     <message>
-        <location filename="plugins/weather/src/weather.cpp" line="34"/>
+        <location filename="plugins/weather/src/weather.cpp" line="35"/>
         <source>Get weather</source>
         <translation>Načíst počasí</translation>
     </message>
     <message>
-        <location filename="plugins/weather/src/weather.cpp" line="38"/>
+        <location filename="plugins/weather/src/weather.cpp" line="39"/>
         <source>Get weather forecast</source>
         <translation>Načíst předpověď počasí</translation>
     </message>
