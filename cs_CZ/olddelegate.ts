@@ -4,7 +4,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="plugins/olddelegate/contactlistitemdelegate.cpp" line="54"/>
+        <location filename="plugins/olddelegate/contactlistitemdelegate.cpp" line="55"/>
         <source>ContactList</source>
         <translation>Seznam kontaktů</translation>
     </message>

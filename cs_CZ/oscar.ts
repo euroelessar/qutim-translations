@@ -168,13 +168,13 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="41"/>
+        <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="42"/>
         <source>Alexey Ignatiev</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="44"/>
-        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="206"/>
+        <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="45"/>
+        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="207"/>
         <location filename="protocols/oscar/src/oscarplugin.cpp" line="50"/>
         <source>Alexey Prokhin</source>
         <translation></translation>
@@ -3145,13 +3145,13 @@
     </message>
     <message>
         <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="39"/>
-        <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="48"/>
+        <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="49"/>
         <source>Client identificaton for oscar contacts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="47"/>
-        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="210"/>
+        <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="48"/>
+        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="211"/>
         <location filename="protocols/oscar/src/oscarplugin.cpp" line="53"/>
         <source>ICQ</source>
         <translation></translation>
@@ -3163,13 +3163,13 @@
     </message>
     <message>
         <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="203"/>
-        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="211"/>
+        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="212"/>
         <source>Additional statuses for oscar protocol</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="215"/>
         <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="216"/>
+        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="217"/>
         <source>XStatus settings</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3426,12 +3426,12 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="protocols/oscar/src/icqprotocol.cpp" line="61"/>
+        <location filename="protocols/oscar/src/icqprotocol.cpp" line="62"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/icqprotocol.cpp" line="66"/>
+        <location filename="protocols/oscar/src/icqprotocol.cpp" line="67"/>
         <source>Icq account settings</source>
         <translation>ICQ nastavení účtu</translation>
     </message>
@@ -3439,32 +3439,32 @@
 <context>
     <name>Status</name>
     <message>
-        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="250"/>
+        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="251"/>
         <source>Angry</source>
         <translation>Zlost</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="252"/>
+        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="253"/>
         <source>Depression</source>
         <translation>V depresi</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="254"/>
+        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="255"/>
         <source>At home</source>
         <translation>Doma</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="256"/>
+        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="257"/>
         <source>At work</source>
         <translation>V práci</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="258"/>
+        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="259"/>
         <source>Eating</source>
         <translation>Jím</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="265"/>
+        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="266"/>
         <source>Custom status</source>
         <translation>Vlastní stav</translation>
     </message>
@@ -3520,9 +3520,9 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="42"/>
-        <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="45"/>
-        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="207"/>
+        <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="43"/>
+        <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="46"/>
+        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="208"/>
         <location filename="protocols/oscar/src/oscarplugin.cpp" line="48"/>
         <location filename="protocols/oscar/src/oscarplugin.cpp" line="51"/>
         <source>Author</source>
@@ -3766,13 +3766,13 @@
 <context>
     <name>qutim_sdk_0_3::oscar::ClientIdentify</name>
     <message>
-        <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="72"/>
-        <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="198"/>
+        <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="73"/>
+        <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="199"/>
         <source>Possible client</source>
         <translation>Pravděpodobný klient</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="73"/>
+        <location filename="protocols/oscar/plugins/identify/clientidentify.cpp" line="74"/>
         <source>Show client icon</source>
         <translation>Zobrazit ikonu klienta</translation>
     </message>
@@ -3810,6 +3810,11 @@
         <source>Don&apos;t send requests for avatarts</source>
         <translation>Neposílat požadavky na avatary</translation>
     </message>
+    <message>
+        <location filename="protocols/oscar/src/ui/icqmainsettings.cpp" line="150"/>
+        <source>Support AIM contacts</source>
+        <translation>Podpora AIM kontaktů</translation>
+    </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::oscar::Md5Login</name>
@@ -3830,7 +3835,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::OftConnection</name>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="862"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="861"/>
         <source>Could not open %1</source>
         <translation>Nepodařilo se otevřít: %1</translation>
     </message>
@@ -3838,7 +3843,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::OftFileTransferFactory</name>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1035"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1034"/>
         <source>Oscar</source>
         <translation></translation>
     </message>
@@ -3846,7 +3851,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::OftSocket</name>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="234"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="233"/>
         <source>The file transfer proxy server is not available</source>
         <translation>Proxy pro přenos souborů není k dispozici</translation>
     </message>
@@ -3854,22 +3859,22 @@
 <context>
     <name>qutim_sdk_0_3::oscar::OscarFileTransferSettings</name>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1223"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1222"/>
         <source>File transfer</source>
         <translation>Přenos souboru</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1226"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1225"/>
         <source>Always use file transfer proxy</source>
         <translation>Vždy použít proxy pro přenos souborů</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1232"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1231"/>
         <source>Accept incoming connections on any port</source>
         <translation>Přijímat příchozí spojení na všech portech</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1244"/>
+        <location filename="protocols/oscar/src/oscarfiletransfer.cpp" line="1243"/>
         <source>Local ports</source>
         <translation>Místní porty</translation>
     </message>
@@ -3895,12 +3900,12 @@
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="421"/>
+        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="422"/>
         <source>X-Status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="422"/>
+        <location filename="protocols/oscar/plugins/xstatus/xstatus.cpp" line="423"/>
         <source>Show contact X-Status icon</source>
         <translation type="unfinished">Zobrazit X-Status ikonu</translation>
     </message>

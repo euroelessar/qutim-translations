@@ -4,17 +4,17 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="32"/>
+        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="33"/>
         <source>Kazlauskas Ian</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="35"/>
+        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="36"/>
         <source>Alexey Prokhin</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="38"/>
+        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="39"/>
         <source>Ruslan Nigmatullin</source>
         <translation></translation>
     </message>
@@ -137,17 +137,17 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>NowPlaying</name>
     <message>
-        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="77"/>
+        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="78"/>
         <source>Now Playing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="263"/>
+        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="264"/>
         <source>Stop now playing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="264"/>
+        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="265"/>
         <source>Start now playing</source>
         <translation type="unfinished"></translation>
     </message>
@@ -213,12 +213,12 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="41"/>
+        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="42"/>
         <source>Now Playing Mpris</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="42"/>
+        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="43"/>
         <source>Mpris support for now playing plugin</source>
         <translation type="unfinished"></translation>
     </message>
@@ -226,9 +226,9 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Task</name>
     <message>
-        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="33"/>
-        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="36"/>
-        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="39"/>
+        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="34"/>
+        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="37"/>
+        <location filename="plugins/nowplaying/src/nowplaying.cpp" line="40"/>
         <source>Developer</source>
         <translation>Vývojář</translation>
     </message>

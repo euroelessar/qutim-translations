@@ -63,7 +63,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MassMessaging</name>
     <message>
-        <location filename="plugins/massmessaging/src/messaging.cpp" line="29"/>
+        <location filename="plugins/massmessaging/src/messaging.cpp" line="30"/>
         <source>&amp;Mass Messaging</source>
         <translation>Hro&amp;madné zprávy</translation>
     </message>

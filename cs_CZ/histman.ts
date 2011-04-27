@@ -255,7 +255,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/histman/src/historymanagerplugin.cpp" line="39"/>
+        <location filename="plugins/histman/src/historymanagerplugin.cpp" line="40"/>
         <source>Import history</source>
         <translation>Importovat historii</translation>
     </message>
