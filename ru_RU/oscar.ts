@@ -189,13 +189,13 @@
         <translation>Нигматуллин Руслан</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+41"/>
+        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+42"/>
         <source>Alexey Ignatiev</source>
         <translation>Игнатьев Алексей</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+206"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+207"/>
         <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+3"/>
         <source>Alexey Prokhin</source>
         <translation>Прохин Алексей</translation>
@@ -3336,13 +3336,13 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Модуль начальной реализации Oscar протокола</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-6"/>
+        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="-7"/>
         <source>OscarIdentify</source>
         <translation>Аськологин</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location line="+9"/>
+        <location line="+10"/>
         <source>Client identificaton for oscar contacts</source>
         <translation>Идентификация аськоклиентов</translation>
     </message>
@@ -3440,13 +3440,13 @@ p, li { white-space: pre-wrap; }
         <translation>Поддержка прокси для протокола Oscar</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-8"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-9"/>
         <source>OscarXStatus</source>
         <translation>X-Статус</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location line="+8"/>
+        <location line="+9"/>
         <source>Additional statuses for oscar protocol</source>
         <translation>Дополнительные X-статусы для аськи</translation>
     </message>
@@ -3636,7 +3636,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/oscar/src/icqprotocol.cpp" line="+61"/>
+        <location filename="../../protocols/oscar/src/icqprotocol.cpp" line="+62"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
@@ -3743,7 +3743,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>XStatus</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-163"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="-164"/>
         <source>Angry</source>
         <translation>Злой</translation>
     </message>
@@ -4042,6 +4042,11 @@ p, li { white-space: pre-wrap; }
         <source>Don&apos;t send requests for avatarts</source>
         <translation>Не запрашивать аватары</translation>
     </message>
+    <message>
+        <location line="+2"/>
+        <source>Support AIM contacts</source>
+        <translation type="unfinished">Поддержка AIM контактов</translation>
+    </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::oscar::Md5Login</name>
@@ -4063,7 +4068,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::OftConnection</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarfiletransfer.cpp" line="+862"/>
+        <location filename="../../protocols/oscar/src/oscarfiletransfer.cpp" line="+861"/>
         <source>Could not open %1</source>
         <translation>Не удалось открыть %1</translation>
     </message>
@@ -4132,7 +4137,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+263"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+264"/>
         <source>X-Status</source>
         <translation>X-Статус</translation>
     </message>

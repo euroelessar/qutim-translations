@@ -4,33 +4,33 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/urlpreview/src/urlpreview.cpp" line="+33"/>
+        <location filename="../../plugins/urlpreview/src/urlpreview.cpp" line="+34"/>
         <source>Alexander Kazarin</source>
-        <translation type="unfinished">Казарин Александр</translation>
+        <translation>Казарин Александр</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sidorov Aleksey</source>
-        <translation type="unfinished">Сидоров Алексей</translation>
+        <translation>Сидоров Алексей</translation>
     </message>
 </context>
 <context>
     <name>Plugin</name>
     <message>
-        <location line="-6"/>
+        <location line="-7"/>
         <source>UrlPreview</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Preview images directly in the chat window</source>
-        <translation type="unfinished">Просмотр картинок в окне чата</translation>
+        <translation>Просмотр картинок в окне чата</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -45,12 +45,12 @@
     <message>
         <location filename="../../plugins/urlpreview/src/messagehandler.cpp" line="+54"/>
         <source>URL Preview</source>
-        <translation type="unfinished">Предпросмотр URL</translation>
+        <translation>Предпросмотр URL</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>bytes</source>
-        <translation type="unfinished">байт</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+150"/>

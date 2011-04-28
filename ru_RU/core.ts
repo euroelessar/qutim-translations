@@ -1219,7 +1219,7 @@ p, li { white-space: pre-wrap; }
         <translation>Отправить</translation>
     </message>
     <message>
-        <location line="+37"/>
+        <location line="+38"/>
         <source>&amp;Actions</source>
         <translation>&amp;Действия</translation>
     </message>
@@ -2066,43 +2066,37 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::MacWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="+71"/>
         <source>Main Toolbar</source>
-        <translation>Главная панель инструментов</translation>
+        <translation type="obsolete">Главная панель инструментов</translation>
     </message>
     <message>
-        <location line="+27"/>
         <source>File</source>
         <translatorcomment>Фэйл</translatorcomment>
-        <translation>Файл</translation>
+        <translation type="obsolete">Файл</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Chats</source>
-        <translation>Чаты</translation>
+        <translation type="obsolete">Чаты</translation>
     </message>
     <message>
         <source>Edit</source>
         <translation type="obsolete">Правка</translation>
     </message>
     <message>
-        <location line="-1"/>
         <source>Accounts</source>
-        <translation>Учетные записи</translation>
+        <translation type="obsolete">Учетные записи</translation>
     </message>
     <message>
         <source>Opened chats</source>
         <translation type="obsolete">Открытые чаты</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Roster</source>
-        <translation>Ростер</translation>
+        <translation type="obsolete">Ростер</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Set Status Text</source>
-        <translation>Установить текст статуса</translation>
+        <translation type="obsolete">Установить текст статуса</translation>
     </message>
 </context>
 <context>
@@ -2195,7 +2189,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::PlainModel</name>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/plaincontactsmodel/plaincontactlistmodel.cpp" line="+131"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/models/plaincontactsmodel/plaincontactlistmodel.cpp" line="+131"/>
         <source>Without tags</source>
         <translation>Без меток</translation>
     </message>
@@ -2203,7 +2197,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::SeparatedModel</name>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/separatedcontactsmodel/separatedcontactlistmodel.cpp" line="+211"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/models/separatedcontactsmodel/separatedcontactlistmodel.cpp" line="+211"/>
         <source>Without tags</source>
         <translation>Без меток</translation>
     </message>
@@ -2277,7 +2271,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::TreeModel</name>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+193"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/models/treecontactsmodel/simplecontactlistmodel.cpp" line="+193"/>
         <source>Without tags</source>
         <translation>Без меток</translation>
     </message>
@@ -2926,7 +2920,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Notification</name>
     <message>
-        <location filename="../../qutim/libqutim/notification.cpp" line="+118"/>
+        <location filename="../../qutim/libqutim/notification.cpp" line="+119"/>
         <source>Incoming Message</source>
         <translation>Входящее сообщение</translation>
     </message>
@@ -3196,12 +3190,14 @@ p, li { white-space: pre-wrap; }
         <translation>Движок смайлов для qutIM</translation>
     </message>
     <message>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlistplugin.cpp" line="+11"/>
         <location filename="../../qutim/src/corelayers/simplecontactlist/simplecontactlistplugin.cpp" line="+11"/>
         <source>Simple ContactList</source>
         <translation>Обычный список контактов</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/simplecontactlistplugin.cpp" line="+1"/>
         <source>Default qutIM contact list implementation. Just simple</source>
         <translation>Простая реализация списка контактов qutIM&apos;а. Самая простая</translation>
     </message>
@@ -3707,12 +3703,14 @@ p, li { white-space: pre-wrap; }
         <translation>Простая реализация настроек прокси (по умолчанию)</translation>
     </message>
     <message>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/models/treecontactsmodel/treecontactsmodelplugin.cpp" line="+11"/>
         <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodelplugin.cpp" line="+11"/>
         <source>Tree contacts model</source>
         <translation type="unfinished">Древовидное представление контактов</translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/treecontactsmodelplugin.cpp" line="+1"/>
         <source>Simple contactlist model</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3841,24 +3839,28 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Список контактов Tory</translation>
     </message>
     <message>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/models/plaincontactsmodel/plaincontactsmodelplugin.cpp" line="+11"/>
         <location filename="../../qutim/src/corelayers/simplecontactlist/plaincontactsmodelplugin.cpp" line="+11"/>
         <source>Plain contacts model</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/plaincontactsmodelplugin.cpp" line="+1"/>
         <source>Simple plain contactlist model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Прпостая и плоская модель списка контактов</translation>
     </message>
     <message>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/models/separatedcontactsmodel/separatedcontactsmodelplugin.cpp" line="+11"/>
         <location filename="../../qutim/src/corelayers/simplecontactlist/separatedcontactsmodelplugin.cpp" line="+11"/>
         <source>Separated contacts model</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/separatedcontactsmodelplugin.cpp" line="+1"/>
         <source>Simple separated contactlist model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Простая модель разделенных контактов</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/notificationfilter/notificationfilterplugin.cpp" line="+11"/>
@@ -4150,32 +4152,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/filetransfer/simplefiletransfer.cpp" line="-54"/>
         <source>Auto</source>
-        <translation type="unfinished">Авто</translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <location filename="../../qutim/libqutim/actiontoolbar.cpp" line="+31"/>
         <source>ToolBar appearance</source>
-        <translation type="unfinished">Оформление панелей</translation>
+        <translation>Оформление панелей</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Icon size</source>
-        <translation type="unfinished">Размер пиктограмм</translation>
+        <translation>Размер пиктограмм</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Tool button style</source>
-        <translation type="unfinished">Стиль кнопок &quot;инструментов&quot;</translation>
+        <translation>Стиль кнопок &quot;инструментов&quot;</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/notificationfilter/notificationfilter.cpp" line="+76"/>
         <source>Open chat</source>
-        <translation type="unfinished">Открыть чат</translation>
+        <translation>Открыть чат</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Ignore</source>
-        <translation type="unfinished">Отклонить</translation>
+        <translation>Отклонить</translation>
     </message>
 </context>
 <context>
@@ -4437,7 +4439,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/src/corelayers/filetransfersettings/filetransfersettings.cpp" line="+99"/>
         <source>File transfer</source>
-        <translation type="unfinished">Передача файла</translation>
+        <translation>Передача файла</translation>
     </message>
 </context>
 <context>
@@ -4516,7 +4518,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/src/corelayers/simpleabout/simpleaboutdialog.ui" line="+14"/>
         <location filename="../../qutim/src/corelayers/simpleabout/ui_simpleaboutdialog.h" line="+260"/>
         <source>About qutIM</source>
-        <translation type="unfinished">О qutIM</translation>
+        <translation>О qutIM</translation>
     </message>
     <message>
         <location line="+96"/>
@@ -4660,43 +4662,43 @@ p, li { white-space: pre-wrap; }
         <location line="+18"/>
         <location filename="../../qutim/src/corelayers/trayicon/ui_simpletraysettings.h" line="+1"/>
         <source>Icon</source>
-        <translation type="unfinished">Пиктограмма</translation>
+        <translation>Пиктограмма</translation>
     </message>
     <message>
         <location line="+6"/>
         <location filename="../../qutim/src/corelayers/trayicon/ui_simpletraysettings.h" line="+1"/>
         <source>Show number of new messages</source>
-        <translation type="unfinished">Показывать количество новых сообщений</translation>
+        <translation>Показывать количество новых сообщений</translation>
     </message>
     <message>
         <location line="+7"/>
         <location filename="../../qutim/src/corelayers/trayicon/ui_simpletraysettings.h" line="+1"/>
         <source>Show number of chats with new messages</source>
-        <translation type="unfinished">Показывать количество чатов с новыми сообщениями</translation>
+        <translation>Показывать количество чатов с новыми сообщениями</translation>
     </message>
     <message>
         <location line="+7"/>
         <location filename="../../qutim/src/corelayers/trayicon/ui_simpletraysettings.h" line="+1"/>
         <source>Show only icon</source>
-        <translation type="unfinished">Показывать только пиктограмму</translation>
+        <translation>Показывать только пиктограмму</translation>
     </message>
     <message>
         <location line="+10"/>
         <location filename="../../qutim/src/corelayers/trayicon/ui_simpletraysettings.h" line="+1"/>
         <source>Other</source>
-        <translation type="unfinished">Другой</translation>
+        <translation>Другой</translation>
     </message>
     <message>
         <location line="+6"/>
         <location filename="../../qutim/src/corelayers/trayicon/ui_simpletraysettings.h" line="+1"/>
         <source>Show mail icon if there are new messages</source>
-        <translation type="unfinished">Пиктограмма сообщения при новом сообщении</translation>
+        <translation>Пиктограмма сообщения при новом сообщении</translation>
     </message>
     <message>
         <location line="+7"/>
         <location filename="../../qutim/src/corelayers/trayicon/ui_simpletraysettings.h" line="+1"/>
         <source>Blink icon</source>
-        <translation type="unfinished">Мигание пиктограммы</translation>
+        <translation>Мигание пиктограммы</translation>
     </message>
 </context>
 <context>
@@ -4704,7 +4706,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+299"/>
         <source>No sound</source>
-        <translation type="unfinished">Без звука</translation>
+        <translation>Без звука</translation>
     </message>
 </context>
 <context>
@@ -4916,7 +4918,7 @@ p, li { white-space: pre-wrap; }
         <location line="+21"/>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/ui_tabbedchatbehavior.h" line="+2"/>
         <source>Show notifications in active chat</source>
-        <translation type="unfinished">Показывать уведомления о сообщении при активном окне чата</translation>
+        <translation>Показывать уведомления о сообщении при активном окне чата</translation>
     </message>
 </context>
 <context>

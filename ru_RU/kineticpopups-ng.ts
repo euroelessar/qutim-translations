@@ -12,9 +12,22 @@
 <context>
     <name>KineticPopups::QuickNotify</name>
     <message>
-        <location filename="../../plugins/kineticpopups-ng/src/popupwidgets/quickpopupwidget.cpp" line="+58"/>
+        <location filename="../../plugins/kineticpopups-ng/src/popupwidgets/quickpopupwidget.cpp" line="+66"/>
         <source>Notification from qutIM</source>
         <translation type="unfinished">Уведомление от qutIM</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin</name>
+    <message>
+        <location filename="../../plugins/kineticpopups-ng/src/kineticpopupsngplugin.cpp" line="+11"/>
+        <source>Kinetic popups (New implementation)</source>
+        <translation type="unfinished">Кинетические уведомления (новая реализация)</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Growl-like popups, based on power of Qt Quick</source>
+        <translation type="unfinished">Похожие на Mac (Growl) уведомления, основанные на Qt Quick</translation>
     </message>
 </context>
 </TS>

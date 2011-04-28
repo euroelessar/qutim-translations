@@ -5551,4 +5551,48 @@ Accept invitation?</source>
     <source>System</source>
     <target>Система</target>
 </phrase>
+<phrase>
+    <source>ActionBoxModule</source>
+    <target>Модуль действий</target>
+</phrase>
+<phrase>
+    <source>Popup</source>
+    <target>Уведомление</target>
+</phrase>
+<phrase>
+    <source>Sound engine</source>
+    <target>Звуковой движок</target>
+</phrase>
+<phrase>
+    <source>PopupWidget</source>
+    <target>Виджет уведомлений</target>
+</phrase>
+<phrase>
+    <source>ChatForm</source>
+    <target>Окно чата</target>
+</phrase>
+<phrase>
+    <source>ChatViewFactory</source>
+    <target>Движок тем чата</target>
+</phrase>
+<phrase>
+    <source>ContactList</source>
+    <target>Контакты</target>
+</phrase>
+<phrase>
+    <source>ContactListWidget</source>
+    <target>Окно контактов</target>
+</phrase>
+<phrase>
+    <source>ContactModel</source>
+    <target>Представление контактов</target>
+</phrase>
+<phrase>
+    <source>ContactDelegate</source>
+    <target>Отрисовка контактов</target>
+</phrase>
+<phrase>
+    <source>Settings Window</source>
+    <target>Окно настроек</target>
+</phrase>
 </QPH>

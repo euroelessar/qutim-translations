@@ -4,7 +4,7 @@
 <context>
     <name>AntiBoss</name>
     <message>
-        <location filename="../../plugins/antiboss/src/antibossplugin.cpp" line="+37"/>
+        <location filename="../../plugins/antiboss/src/antibossplugin.cpp" line="+38"/>
         <source>Show/hide all windows</source>
         <translation>Показать/скрыть все окна</translation>
     </message>
@@ -17,7 +17,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location line="-9"/>
+        <location line="-10"/>
         <source>Ruslan Nigmatullin</source>
         <translation type="unfinished">Нигматуллин Руслан</translation>
     </message>

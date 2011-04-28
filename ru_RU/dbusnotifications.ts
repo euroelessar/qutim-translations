@@ -12,19 +12,16 @@
 <context>
     <name>DBusBackend</name>
     <message>
-        <location filename="../../plugins/dbusnotifications/src/dbusbackend.cpp" line="143"/>
         <source>Open chat</source>
-        <translation>Открыть чат</translation>
+        <translation type="obsolete">Открыть чат</translation>
     </message>
     <message>
-        <location filename="../../plugins/dbusnotifications/src/dbusbackend.cpp" line="144"/>
         <source>Ignore</source>
-        <translation>Игнорировать</translation>
+        <translation type="obsolete">Игнорировать</translation>
     </message>
     <message>
-        <location filename="../../plugins/dbusnotifications/src/dbusbackend.cpp" line="146"/>
         <source>Open</source>
-        <translation>Открыть</translation>
+        <translation type="obsolete">Открыть</translation>
     </message>
 </context>
 <context>
