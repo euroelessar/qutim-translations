@@ -848,17 +848,17 @@ p, li { white-space: pre-wrap; }
         <translation>Odeslat</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="167"/>
+        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="168"/>
         <source>&amp;Actions</source>
         <translation>&amp;Akce</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="171"/>
+        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="172"/>
         <source>Accoun&amp;ts</source>
         <translation>Úč&amp;ty</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="176"/>
+        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="177"/>
         <source>&amp;Chat</source>
         <translation>Konverza&amp;ce</translation>
     </message>
@@ -1456,39 +1456,6 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     </message>
 </context>
 <context>
-    <name>Core::SimpleContactList::MacWidget</name>
-    <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="71"/>
-        <source>Main Toolbar</source>
-        <translation type="unfinished">Hlavní lišta</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="98"/>
-        <source>File</source>
-        <translation>Soubor</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="100"/>
-        <source>Chats</source>
-        <translation>Konverzace</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="99"/>
-        <source>Accounts</source>
-        <translation>Účty</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="101"/>
-        <source>Roster</source>
-        <translation>Seznam kontaktů</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="104"/>
-        <source>Set Status Text</source>
-        <translation>Nastavit text stavu</translation>
-    </message>
-</context>
-<context>
     <name>Core::SimpleContactList::Module</name>
     <message>
         <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="160"/>
@@ -1504,7 +1471,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::SimpleContactList::PlainModel</name>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/plaincontactsmodel/plaincontactlistmodel.cpp" line="131"/>
+        <location filename="core/src/corelayers/simplecontactlist/models/plaincontactsmodel/plaincontactlistmodel.cpp" line="131"/>
         <source>Without tags</source>
         <translation type="unfinished">Bez štítků</translation>
     </message>
@@ -1512,7 +1479,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::SimpleContactList::SeparatedModel</name>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/separatedcontactsmodel/separatedcontactlistmodel.cpp" line="211"/>
+        <location filename="core/src/corelayers/simplecontactlist/models/separatedcontactsmodel/separatedcontactlistmodel.cpp" line="211"/>
         <source>Without tags</source>
         <translation>Bez štítků</translation>
     </message>
@@ -1567,7 +1534,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::SimpleContactList::TreeModel</name>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="193"/>
+        <location filename="core/src/corelayers/simplecontactlist/models/treecontactsmodel/simplecontactlistmodel.cpp" line="193"/>
         <source>Without tags</source>
         <translation>Bez štítků</translation>
     </message>
@@ -2093,77 +2060,77 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Notification</name>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="118"/>
+        <location filename="core/libqutim/notification.cpp" line="119"/>
         <source>Incoming Message</source>
         <translation>Příchozí zpráva</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="119"/>
+        <location filename="core/libqutim/notification.cpp" line="120"/>
         <source>Outgoing Message</source>
         <translation>Odchozí zpráva</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="120"/>
+        <location filename="core/libqutim/notification.cpp" line="121"/>
         <source>qutIM Startup</source>
         <translation type="unfinished">Spuštění qutIMu</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="121"/>
+        <location filename="core/libqutim/notification.cpp" line="122"/>
         <source>Blocked Message</source>
         <translation type="unfinished">Zablokovaná zpráva</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="122"/>
+        <location filename="core/libqutim/notification.cpp" line="123"/>
         <source>User joined chat</source>
         <translation type="unfinished">Uživatel vstoupil do konverzace</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="123"/>
+        <location filename="core/libqutim/notification.cpp" line="124"/>
         <source>User leaved chat</source>
         <translation type="unfinished">Uživatel opustil konverzaci</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="124"/>
+        <location filename="core/libqutim/notification.cpp" line="125"/>
         <source>Incoming chat message</source>
         <translation type="unfinished">Příchozí zpráva konverzace</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="125"/>
+        <location filename="core/libqutim/notification.cpp" line="126"/>
         <source>Outgoing chat message</source>
         <translation type="unfinished">Odchozí zpráva konverzace</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="126"/>
+        <location filename="core/libqutim/notification.cpp" line="127"/>
         <source>File transfer completed</source>
         <translation type="unfinished">Přeson souboru dokončen</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="127"/>
+        <location filename="core/libqutim/notification.cpp" line="128"/>
         <source>User online</source>
         <translation type="unfinished">Uživatel online</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="128"/>
+        <location filename="core/libqutim/notification.cpp" line="129"/>
         <source>User offline</source>
         <translation type="unfinished">Uživatel offline</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="129"/>
+        <location filename="core/libqutim/notification.cpp" line="130"/>
         <source>User changed status</source>
         <translation type="unfinished">Uživatel změnil stav</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="130"/>
+        <location filename="core/libqutim/notification.cpp" line="131"/>
         <source>User has birthday!</source>
         <translation type="unfinished">Uživatel má narozeniny!</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="131"/>
+        <location filename="core/libqutim/notification.cpp" line="132"/>
         <source>User typing</source>
         <translation type="unfinished">Uživatel píše</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="132"/>
+        <location filename="core/libqutim/notification.cpp" line="133"/>
         <source>System</source>
         <translation type="unfinished">Systémové</translation>
     </message>
