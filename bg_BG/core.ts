@@ -493,7 +493,7 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Изход</translation>
     </message>
     <message>
-        <location line="+85"/>
+        <location line="+87"/>
         <source>Select tags</source>
         <translation>Избор на етикети</translation>
     </message>
@@ -933,7 +933,7 @@ p, li { white-space: pre-wrap; }
         <translation>Изпращане</translation>
     </message>
     <message>
-        <location line="+37"/>
+        <location line="+38"/>
         <source>&amp;Actions</source>
         <translation>&amp;Действия</translation>
     </message>
@@ -1492,7 +1492,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ServiceChooserWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/servicechooserwidget.cpp" line="+121"/>
+        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/servicechooserwidget.cpp" line="+122"/>
         <source>To take effect you must restart qutIM</source>
         <translation>За да влязат в сила промените, qutIM трябва да бъде рестартиран</translation>
     </message>
@@ -1586,42 +1586,36 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::MacWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="+71"/>
         <source>Main Toolbar</source>
-        <translation>Главна лента с инструменти</translation>
+        <translation type="obsolete">Главна лента с инструменти</translation>
     </message>
     <message>
-        <location line="+27"/>
         <source>File</source>
-        <translation>Файл</translation>
+        <translation type="obsolete">Файл</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Chats</source>
-        <translation>Разговори</translation>
+        <translation type="obsolete">Разговори</translation>
     </message>
     <message>
         <source>Edit</source>
         <translation type="obsolete">Редактиране</translation>
     </message>
     <message>
-        <location line="-1"/>
         <source>Accounts</source>
-        <translation>Сметки</translation>
+        <translation type="obsolete">Сметки</translation>
     </message>
     <message>
         <source>Opened chats</source>
         <translation type="obsolete">Отворени разговори</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Roster</source>
-        <translation>Списък с контакти</translation>
+        <translation type="obsolete">Списък с контакти</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Set Status Text</source>
-        <translation>Задаване текст на статуса</translation>
+        <translation type="obsolete">Задаване текст на статуса</translation>
     </message>
 </context>
 <context>
@@ -1698,7 +1692,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::PlainModel</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/plaincontactsmodel/plaincontactlistmodel.cpp" line="+124"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/models/plaincontactsmodel/plaincontactlistmodel.cpp" line="+131"/>
         <source>Without tags</source>
         <translation>Без етикети</translation>
     </message>
@@ -1706,7 +1700,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::SeparatedModel</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/separatedcontactsmodel/separatedcontactlistmodel.cpp" line="+201"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/models/separatedcontactsmodel/separatedcontactlistmodel.cpp" line="+211"/>
         <source>Without tags</source>
         <translation>Без етикети</translation>
     </message>
@@ -1730,7 +1724,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+35"/>
-        <location line="+196"/>
+        <location line="+201"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
@@ -1780,7 +1774,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::TreeModel</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+183"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/models/treecontactsmodel/simplecontactlistmodel.cpp" line="+193"/>
         <source>Without tags</source>
         <translation>Без етикети</translation>
     </message>
@@ -2340,7 +2334,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Notification</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/notification.cpp" line="+118"/>
+        <location filename="../../qutim-meta/core/libqutim/notification.cpp" line="+119"/>
         <source>Incoming Message</source>
         <translation>Входящо съобщение</translation>
     </message>
@@ -3007,7 +3001,7 @@ p, li { white-space: pre-wrap; }
         <translation>Изглед на формуляра на разговор</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-108"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-110"/>
         <source>ContactList</source>
         <translation>Списък с контакти</translation>
     </message>
@@ -4135,7 +4129,7 @@ en</source>
 <context>
     <name>qutim_sdk_0_3::ModuleManager</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+275"/>
+        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+271"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Неуспешно зареждане на добавка: 
