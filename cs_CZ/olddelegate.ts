@@ -72,11 +72,4 @@
         <translation>Motiv:</translation>
     </message>
 </context>
-<context>
-    <name>Task</name>
-    <message>
-        <source>Author</source>
-        <translation type="obsolete">Autor</translation>
-    </message>
-</context>
 </TS>
