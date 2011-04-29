@@ -77,7 +77,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MassMessaging</name>
     <message>
-        <location filename="../../plugins/massmessaging/src/messaging.cpp" line="+12"/>
+        <location filename="../../plugins/massmessaging/src/messaging.cpp" line="+13"/>
         <source>&amp;Mass Messaging</source>
         <translation>&amp;Массовая рассылка</translation>
     </message>
@@ -123,7 +123,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../plugins/massmessaging/src/messaging.cpp" line="-8"/>
+        <location filename="../../plugins/massmessaging/src/messaging.cpp" line="-9"/>
         <source>MassMessaging</source>
         <translation>Массовая рассылка</translation>
     </message>

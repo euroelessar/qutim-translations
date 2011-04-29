@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/logger/src/logger.cpp" line="+55"/>
+        <location filename="../../plugins/logger/src/logger.cpp" line="+56"/>
         <source>Sidorov Aleksey</source>
         <translation>Сидоров Алексей</translation>
     </message>
@@ -20,19 +20,19 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location line="-20"/>
-        <location line="+24"/>
+        <location line="-21"/>
+        <location line="+25"/>
         <source>Logger</source>
         <translatorcomment>Не изменять!</translatorcomment>
         <translation>Летописец</translation>
     </message>
     <message>
-        <location line="-23"/>
+        <location line="-24"/>
         <source>Simple file based logger for debug</source>
         <translation>Сборщик отладочного вывода в файл (В помощь отладчику)</translation>
     </message>
     <message>
-        <location line="+27"/>
+        <location line="+28"/>
         <source>Select log path</source>
         <translation>Выберите путь к логам</translation>
     </message>

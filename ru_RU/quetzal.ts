@@ -4,7 +4,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../protocols/quetzal/src/quetzalplugin.cpp" line="+612"/>
+        <location filename="../../protocols/quetzal/src/quetzalplugin.cpp" line="+614"/>
         <source>Quetzal</source>
         <translation>Quetzal</translation>
     </message>
@@ -108,7 +108,7 @@ Complete account creating by clicking on Finish button</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/quetzal/src/quetzalprotocol.cpp" line="+79"/>
+        <location filename="../../protocols/quetzal/src/quetzalprotocol.cpp" line="+89"/>
         <source>General</source>
         <translation type="unfinished">Общее</translation>
     </message>

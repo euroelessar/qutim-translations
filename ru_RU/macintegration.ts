@@ -4,15 +4,47 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/macintegration/src/macplugin.cpp" line="+22"/>
         <source>Denis Daschenko</source>
-        <translation>Дащенко Денис</translation>
+        <translation type="obsolete">Дащенко Денис</translation>
+    </message>
+</context>
+<context>
+    <name>Core::SimpleContactList::MacWidget</name>
+    <message>
+        <location filename="../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="+71"/>
+        <source>Main Toolbar</source>
+        <translation type="unfinished">Основная панель</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>File</source>
+        <translation type="unfinished">Файл</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Accounts</source>
+        <translation>Учетные записи</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Chats</source>
+        <translation type="unfinished">Чаты</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Roster</source>
+        <translation type="unfinished">Ростер</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Set Status Text</source>
+        <translation>Установить текст статуса</translation>
     </message>
 </context>
 <context>
     <name>MacIdleWidget</name>
     <message>
-        <location filename="../../plugins/macintegration/src/idle/macidlewidget.ui" line="+14"/>
+        <location filename="../../plugins/macintegration/src/macidle/macidlewidget.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -33,7 +65,7 @@
 <context>
     <name>MacIntegration::MacSpellSettings</name>
     <message>
-        <location filename="../../plugins/macintegration/src/spellchecker/macspellsettings.cpp" line="+14"/>
+        <location filename="../../plugins/macintegration/src/macspellchecker/macspellsettings.cpp" line="+14"/>
         <source>Language</source>
         <translation type="unfinished">Язык</translation>
     </message>
@@ -41,65 +73,30 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../plugins/macintegration/src/macplugin.cpp" line="-4"/>
-        <source>MacIntegration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
         <source>Mac integration plugin collection</source>
-        <translation type="unfinished">Коллекция интеграции в Mac систему</translation>
+        <translation type="obsolete">Коллекция интеграции в Mac систему</translation>
     </message>
     <message>
-        <location line="+6"/>
-        <source>DockIntegration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
         <source>Mac OS X dock integration</source>
-        <translation type="unfinished">Интеграция в док Mac OS X</translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>IdleManager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Mac OS X idle manager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>SpellChecker</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Mac OS X spell checker</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Интеграция в док Mac OS X</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location line="-9"/>
         <source>Author</source>
-        <translation>Автор</translation>
+        <translation type="obsolete">Автор</translation>
     </message>
 </context>
 <context>
     <name>plugin</name>
     <message>
-        <location line="+4"/>
         <source>Growl notifications</source>
-        <translation type="unfinished">Уведомления Growl</translation>
+        <translation type="obsolete">Уведомления Growl</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Default Mac Os X Notifications</source>
-        <translation type="unfinished">Обычные уведомления для MAC OS X</translation>
+        <translation type="obsolete">Обычные уведомления для MAC OS X</translation>
     </message>
 </context>
 </TS>

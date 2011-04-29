@@ -9,8 +9,8 @@
         <translation>Сидоров Алексей</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="+17"/>
-        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+17"/>
+        <location filename="../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="+18"/>
+        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+18"/>
         <source>Alexey Sidorov</source>
         <translation>Сидоров Алексей</translation>
     </message>
@@ -264,7 +264,7 @@
         <translation>Поддержка прокси для протокола ВКонтакте</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="-3"/>
+        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="-4"/>
         <source>Wall</source>
         <translatorcomment>Убей себя с разбегу</translatorcomment>
         <translation>Стена ВКонтакте</translation>
@@ -275,7 +275,7 @@
         <translation>Поддержка стены ВКонтакте для qutIM</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="-3"/>
+        <location filename="../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="-4"/>
         <source>Photoalbum</source>
         <translation>Фотоальбом ВКонтакте</translation>
     </message>
@@ -288,8 +288,8 @@
 <context>
     <name>Task</name>
     <message>
-        <location line="+3"/>
-        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+3"/>
+        <location line="+4"/>
+        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+4"/>
         <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="-18"/>
         <source>Author</source>
         <translation>Автор</translation>
