@@ -66,7 +66,7 @@
     <message>
         <location filename="tools/packgen/choosecategorypage.ui" line="66"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -79,7 +79,7 @@
     <message>
         <location filename="tools/packgen/choosepathpage.ui" line="35"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -170,26 +170,150 @@
     </message>
 </context>
 <context>
+    <name>PackageDownloadDialog</name>
+    <message>
+        <location filename="src/packagedownloaddialog.ui" line="14"/>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="src/packagedownloaddialog.ui" line="26"/>
+        <source>Order by:</source>
+        <translation>Sortieren nach:</translation>
+    </message>
+    <message>
+        <location filename="src/packagedownloaddialog.ui" line="33"/>
+        <source>Newest</source>
+        <translation>Neueste</translation>
+    </message>
+    <message>
+        <location filename="src/packagedownloaddialog.ui" line="43"/>
+        <source>Rating</source>
+        <translation>Bewertung</translation>
+    </message>
+    <message>
+        <location filename="src/packagedownloaddialog.ui" line="50"/>
+        <source>Most downloads</source>
+        <translation>Downloads</translation>
+    </message>
+    <message>
+        <location filename="src/packagedownloaddialog.ui" line="57"/>
+        <source>Installed</source>
+        <translation>Installiert</translation>
+    </message>
+    <message>
+        <location filename="src/packagedownloaddialog.ui" line="64"/>
+        <source>Search:</source>
+        <translation>Suchen:</translation>
+    </message>
+</context>
+<context>
+    <name>PackageEntryWidget</name>
+    <message>
+        <location filename="src/packageentrywidget.cpp" line="90"/>
+        <location filename="src/packageentrywidget.cpp" line="93"/>
+        <location filename="src/packageentrywidget.cpp" line="96"/>
+        <source>By &lt;i&gt;%1&lt;/i&gt;</source>
+        <translation>Von &lt;i&gt;%1&lt;/i&gt;</translation>
+    </message>
+    <message>
+        <location filename="src/packageentrywidget.cpp" line="112"/>
+        <source>Install</source>
+        <translation>Installieren</translation>
+    </message>
+    <message>
+        <location filename="src/packageentrywidget.cpp" line="116"/>
+        <source>Update</source>
+        <translation>Updaten</translation>
+    </message>
+    <message>
+        <location filename="src/packageentrywidget.cpp" line="120"/>
+        <source>Installing</source>
+        <translation>installieren...</translation>
+    </message>
+    <message>
+        <location filename="src/packageentrywidget.cpp" line="125"/>
+        <source>Updating</source>
+        <translation>updaten...</translation>
+    </message>
+    <message>
+        <location filename="src/packageentrywidget.cpp" line="130"/>
+        <source>Uninstall</source>
+        <translation>deinstallieren...</translation>
+    </message>
+</context>
+<context>
+    <name>PackageManager</name>
+    <message>
+        <location filename="src/plugman.cpp" line="39"/>
+        <source>Manage packages</source>
+        <translation>Pakete verwalten...</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin</name>
+    <message>
+        <location filename="src/plugman.cpp" line="28"/>
+        <source>Package manager</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="src/plugman.cpp" line="29"/>
+        <source>Provides possibility to Get Hot New Stuff from open community</source>
+        <translation>Möglichkeit, brandneue, tolle Sachen von der Community zu bekommen</translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
-        <location filename="src/plugpackage.cpp" line="35"/>
+        <location filename="oldsrc/plugpackage.cpp" line="35"/>
         <source>Package name is empty</source>
         <translation>&quot;Paketname&quot; ist nicht definiert</translation>
     </message>
     <message>
-        <location filename="src/plugpackage.cpp" line="39"/>
+        <location filename="oldsrc/plugpackage.cpp" line="39"/>
         <source>Package type is empty</source>
         <translation>&quot;Pakettyp&quot; ist nicht definiert</translation>
     </message>
     <message>
-        <location filename="src/plugpackage.cpp" line="43"/>
+        <location filename="oldsrc/plugpackage.cpp" line="43"/>
         <source>Invalid package version</source>
         <translation>Ungültige Paketversion</translation>
     </message>
     <message>
-        <location filename="src/plugpackage.cpp" line="50"/>
+        <location filename="oldsrc/plugpackage.cpp" line="50"/>
         <source>Wrong platform</source>
         <translation>Falsche Plattform</translation>
+    </message>
+    <message>
+        <location filename="3rdparty/quasar/lib/savefile.cpp" line="86"/>
+        <source>No target filename has been given.</source>
+        <translation>Kein Dateiname angegeben.</translation>
+    </message>
+    <message>
+        <location filename="3rdparty/quasar/lib/savefile.cpp" line="93"/>
+        <source>Already opened.</source>
+        <translation>Bereits geöffnet.</translation>
+    </message>
+    <message>
+        <location filename="3rdparty/quasar/lib/savefile.cpp" line="103"/>
+        <source>Insufficient permissions in target directory.</source>
+        <translation>Keine Berechtigung im Zielverzeichnis.</translation>
+    </message>
+    <message>
+        <location filename="3rdparty/quasar/lib/savefile.cpp" line="113"/>
+        <source>Unable to open temporary file.</source>
+        <translation>Kann temporäre Datei nicht öffnen.</translation>
+    </message>
+    <message>
+        <location filename="3rdparty/quasar/lib/savefile.cpp" line="218"/>
+        <source>Synchronization to disk failed</source>
+        <translation>Synchronisierung zur Festplatte fehlgeschlagen</translation>
+    </message>
+    <message>
+        <location filename="3rdparty/quasar/lib/savefile.cpp" line="242"/>
+        <source>Error during rename.</source>
+        <translation>Fehler beim Umbenennen.</translation>
     </message>
 </context>
 <context>
@@ -217,28 +341,28 @@
     <message>
         <location filename="ui/manager.ui" line="115"/>
         <source>find</source>
-        <translation type="unfinished"></translation>
+        <translation>Suchen</translation>
     </message>
 </context>
 <context>
     <name>plugDownloader</name>
     <message>
-        <location filename="src/plugdownloader.cpp" line="92"/>
+        <location filename="oldsrc/plugdownloader.cpp" line="92"/>
         <source>bytes/sec</source>
         <translation>bytes/s</translation>
     </message>
     <message>
-        <location filename="src/plugdownloader.cpp" line="95"/>
+        <location filename="oldsrc/plugdownloader.cpp" line="95"/>
         <source>kB/s</source>
         <translation>kB/s</translation>
     </message>
     <message>
-        <location filename="src/plugdownloader.cpp" line="98"/>
+        <location filename="oldsrc/plugdownloader.cpp" line="98"/>
         <source>MB/s</source>
         <translation>MB/s</translation>
     </message>
     <message>
-        <location filename="src/plugdownloader.cpp" line="103"/>
+        <location filename="oldsrc/plugdownloader.cpp" line="103"/>
         <source>Downloading: %1%, speed: %2 %3</source>
         <oldsource>Failed to download: %1</oldsource>
         <translation>Downloaden: %1%, Geschwindigkeit: %2 %3</translation>
@@ -247,51 +371,51 @@
 <context>
     <name>plugInstaller</name>
     <message>
-        <location filename="src/pluginstaller.cpp" line="72"/>
+        <location filename="oldsrc/pluginstaller.cpp" line="72"/>
         <source>Unable to open archive: %1</source>
         <translation>Archiv kann nicht geöffnet werden: %1</translation>
     </message>
     <message>
-        <location filename="src/pluginstaller.cpp" line="94"/>
-        <location filename="src/pluginstaller.cpp" line="229"/>
+        <location filename="oldsrc/pluginstaller.cpp" line="94"/>
+        <location filename="oldsrc/pluginstaller.cpp" line="229"/>
         <source>warning: trying to overwrite existing files!</source>
         <translation>Warnung: Versuche bereits existierende Dateien zu überschreiben!</translation>
     </message>
     <message>
-        <location filename="src/pluginstaller.cpp" line="60"/>
+        <location filename="oldsrc/pluginstaller.cpp" line="60"/>
         <source>Need restart!</source>
         <translation>Neustart erforderlich!</translation>
     </message>
     <message>
-        <location filename="src/pluginstaller.cpp" line="100"/>
+        <location filename="oldsrc/pluginstaller.cpp" line="100"/>
         <source>Unable to extract archive: %1 to %2</source>
         <translation>Kann Archiv nicht entpacken: %1 nach %2</translation>
     </message>
     <message>
-        <location filename="src/pluginstaller.cpp" line="107"/>
-        <location filename="src/pluginstaller.cpp" line="241"/>
-        <location filename="src/pluginstaller.cpp" line="251"/>
+        <location filename="oldsrc/pluginstaller.cpp" line="107"/>
+        <location filename="oldsrc/pluginstaller.cpp" line="241"/>
+        <location filename="oldsrc/pluginstaller.cpp" line="251"/>
         <source>Installing:</source>
         <translation>Installiere:</translation>
     </message>
     <message>
-        <location filename="src/pluginstaller.cpp" line="237"/>
+        <location filename="oldsrc/pluginstaller.cpp" line="237"/>
         <source>Unable to update package %1: installed version is later</source>
         <translation>Aktualisieren des Pakets %1 nicht möglich: Die installierte Version ist neuer</translation>
     </message>
     <message>
-        <location filename="src/pluginstaller.cpp" line="247"/>
+        <location filename="oldsrc/pluginstaller.cpp" line="247"/>
         <source>Unable to install package: %1</source>
         <translation>Kann das Paket nicht installieren: %1</translation>
     </message>
     <message>
-        <location filename="src/pluginstaller.cpp" line="137"/>
+        <location filename="oldsrc/pluginstaller.cpp" line="137"/>
         <source>Invalid package: %1</source>
         <translation>Ungültiges Paket: %1</translation>
     </message>
     <message>
-        <location filename="src/pluginstaller.cpp" line="175"/>
-        <location filename="src/pluginstaller.cpp" line="184"/>
+        <location filename="oldsrc/pluginstaller.cpp" line="175"/>
+        <location filename="oldsrc/pluginstaller.cpp" line="184"/>
         <source>Removing:</source>
         <translation>Entferne:</translation>
     </message>
@@ -299,73 +423,65 @@
 <context>
     <name>plugItemDelegate</name>
     <message>
-        <location filename="src/plugitemdelegate.cpp" line="68"/>
+        <location filename="oldsrc/plugitemdelegate.cpp" line="68"/>
         <source>isUpgradable</source>
         <translation>Upgrade möglich</translation>
     </message>
     <message>
-        <location filename="src/plugitemdelegate.cpp" line="72"/>
+        <location filename="oldsrc/plugitemdelegate.cpp" line="72"/>
         <source>isInstallable</source>
         <translation>Installierbar</translation>
     </message>
     <message>
-        <location filename="src/plugitemdelegate.cpp" line="76"/>
+        <location filename="oldsrc/plugitemdelegate.cpp" line="76"/>
         <source>isDowngradable</source>
         <translation>Downgrade möglich</translation>
     </message>
     <message>
-        <location filename="src/plugitemdelegate.cpp" line="80"/>
+        <location filename="oldsrc/plugitemdelegate.cpp" line="80"/>
         <source>installed</source>
         <translation>Installiert</translation>
     </message>
     <message>
-        <location filename="src/plugitemdelegate.cpp" line="84"/>
+        <location filename="oldsrc/plugitemdelegate.cpp" line="84"/>
         <source>Unknown</source>
         <translation>Unbekannt</translation>
     </message>
     <message>
-        <location filename="src/plugitemdelegate.cpp" line="90"/>
+        <location filename="oldsrc/plugitemdelegate.cpp" line="90"/>
         <source>Install</source>
         <translation>Installieren</translation>
     </message>
     <message>
-        <location filename="src/plugitemdelegate.cpp" line="95"/>
+        <location filename="oldsrc/plugitemdelegate.cpp" line="95"/>
         <source>Remove</source>
         <translation>Entfernen</translation>
     </message>
     <message>
-        <location filename="src/plugitemdelegate.cpp" line="100"/>
+        <location filename="oldsrc/plugitemdelegate.cpp" line="100"/>
         <source>Upgrade</source>
         <translation>Upgraden</translation>
     </message>
 </context>
 <context>
-    <name>plugMan</name>
-    <message>
-        <location filename="src/plugman.cpp" line="42"/>
-        <source>Manage packages</source>
-        <translation>Pakete verwalten</translation>
-    </message>
-</context>
-<context>
     <name>plugManager</name>
     <message>
-        <location filename="src/plugmanager.cpp" line="45"/>
+        <location filename="oldsrc/plugmanager.cpp" line="45"/>
         <source>Actions</source>
         <translation>Aktionen</translation>
     </message>
     <message>
-        <location filename="src/plugmanager.cpp" line="46"/>
+        <location filename="oldsrc/plugmanager.cpp" line="46"/>
         <source>Update packages list</source>
         <translation>Paketliste aktualisieren</translation>
     </message>
     <message>
-        <location filename="src/plugmanager.cpp" line="48"/>
+        <location filename="oldsrc/plugmanager.cpp" line="48"/>
         <source>Upgrade all</source>
         <translation>Alles Upgraden</translation>
     </message>
     <message>
-        <location filename="src/plugmanager.cpp" line="52"/>
+        <location filename="oldsrc/plugmanager.cpp" line="52"/>
         <source>Revert changes</source>
         <translation>Änderungen rückgängig machen</translation>
     </message>
@@ -373,7 +489,7 @@
 <context>
     <name>plugPackageModel</name>
     <message>
-        <location filename="src/plugpackagemodel.cpp" line="98"/>
+        <location filename="oldsrc/plugpackagemodel.cpp" line="98"/>
         <source>Packages</source>
         <translation>Pakete</translation>
     </message>
@@ -381,43 +497,43 @@
 <context>
     <name>plugXMLHandler</name>
     <message>
-        <location filename="src/plugxmlhandler.cpp" line="118"/>
-        <location filename="src/plugxmlhandler.cpp" line="224"/>
-        <location filename="src/plugxmlhandler.cpp" line="239"/>
+        <location filename="oldsrc/plugxmlhandler.cpp" line="118"/>
+        <location filename="oldsrc/plugxmlhandler.cpp" line="224"/>
+        <location filename="oldsrc/plugxmlhandler.cpp" line="239"/>
         <source>Unable to open file</source>
         <translation>Konnte Datei nicht öffnen</translation>
     </message>
     <message>
-        <location filename="src/plugxmlhandler.cpp" line="122"/>
-        <location filename="src/plugxmlhandler.cpp" line="228"/>
+        <location filename="oldsrc/plugxmlhandler.cpp" line="122"/>
+        <location filename="oldsrc/plugxmlhandler.cpp" line="228"/>
         <source>Unable to set content</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/plugxmlhandler.cpp" line="136"/>
-        <location filename="src/plugxmlhandler.cpp" line="175"/>
+        <location filename="oldsrc/plugxmlhandler.cpp" line="136"/>
+        <location filename="oldsrc/plugxmlhandler.cpp" line="175"/>
         <source>Unable to write file</source>
         <translation>Konnte Datei nicht schreiben</translation>
     </message>
     <message>
-        <location filename="src/plugxmlhandler.cpp" line="153"/>
-        <location filename="src/plugxmlhandler.cpp" line="288"/>
+        <location filename="oldsrc/plugxmlhandler.cpp" line="153"/>
+        <location filename="oldsrc/plugxmlhandler.cpp" line="288"/>
         <source>Can&apos;t read database. Check your pesmissions.</source>
         <translation>Konnte Datenbank nicht lesen. Zugriffsrechte überprüfen!</translation>
     </message>
     <message>
-        <location filename="src/plugxmlhandler.cpp" line="158"/>
-        <location filename="src/plugxmlhandler.cpp" line="294"/>
+        <location filename="oldsrc/plugxmlhandler.cpp" line="158"/>
+        <location filename="oldsrc/plugxmlhandler.cpp" line="294"/>
         <source>Broken package database</source>
         <translation>Ungültige Paketdatenbank</translation>
     </message>
     <message>
-        <location filename="src/plugxmlhandler.cpp" line="196"/>
+        <location filename="oldsrc/plugxmlhandler.cpp" line="196"/>
         <source>unable to open file</source>
         <translation>kann Datei nicht öffnen</translation>
     </message>
     <message>
-        <location filename="src/plugxmlhandler.cpp" line="199"/>
+        <location filename="oldsrc/plugxmlhandler.cpp" line="199"/>
         <source>unable to set content</source>
         <translation type="unfinished"></translation>
     </message>
@@ -479,20 +595,29 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Contacts: &lt;/span&gt;&lt;a href=&quot;mailto::sauron@citadelspb.com&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; text-decoration: underline; color:#0000ff;&quot;&gt;sauron@citadeslpb.com&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Droid Serif&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Droid Serif&apos;; font-size:10pt;&quot;&gt;2008-2009&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Verdana&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt;&quot;&gt;Einfache qutIM Paketverwaltung.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Autor: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt;&quot;&gt;Sidorov Aleksey&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Kontakt: &lt;/span&gt;&lt;a href=&quot;mailto::sauron@citadelspb.com&quot;&gt;&lt;span style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; text-decoration: underline; color:#0000ff;&quot;&gt;sauron@citadeslpb.com&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Droid Serif&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Droid Serif&apos;; font-size:10pt;&quot;&gt;2008-2009&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/plugmansettings.cpp" line="18"/>
+        <location filename="oldsrc/plugmansettings.cpp" line="18"/>
         <source>Name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="src/plugmansettings.cpp" line="18"/>
+        <location filename="oldsrc/plugmansettings.cpp" line="18"/>
         <source>Description</source>
         <translation>Beschreibung</translation>
     </message>
     <message>
-        <location filename="src/plugmansettings.cpp" line="18"/>
+        <location filename="oldsrc/plugmansettings.cpp" line="18"/>
         <source>Url</source>
         <translation>URL</translation>
     </message>

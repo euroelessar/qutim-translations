@@ -4,54 +4,54 @@
 <context>
     <name>imagepubPlugin</name>
     <message>
-        <location filename="imagepub.cpp" line="59"/>
+        <location filename="imagepub.cpp" line="60"/>
         <source>Send image via ImagePub plugin</source>
         <translation>Bild mit ImagePub-Plugin senden</translation>
     </message>
     <message>
-        <location filename="imagepub.cpp" line="129"/>
-        <source>Choose image file</source>
-        <translation>Bilddatei auswählen</translation>
+        <location filename="imagepub.cpp" line="31"/>
+        <source>Image Files</source>
+        <translation>Bilddateien</translation>
     </message>
     <message>
-        <location filename="imagepub.cpp" line="130"/>
-        <source>Choose image</source>
-        <translation>Bild auswählen</translation>
+        <location filename="imagepub.cpp" line="132"/>
+        <source>Choose file for upload to</source>
+        <translation>Datei zum Upload auswählen</translation>
     </message>
     <message>
-        <location filename="imagepub.cpp" line="130"/>
-        <source>Image Files (*.png *.jpg *.gif)</source>
-        <translation>Bilder (*.png *.jpg *.gif)</translation>
+        <location filename="imagepub.cpp" line="133"/>
+        <source>Choose file</source>
+        <translation>Datei auswählen</translation>
     </message>
     <message>
-        <location filename="imagepub.cpp" line="136"/>
+        <location filename="imagepub.cpp" line="139"/>
         <source>Canceled</source>
         <translation>Abgebrochen</translation>
     </message>
     <message>
-        <location filename="imagepub.cpp" line="140"/>
+        <location filename="imagepub.cpp" line="143"/>
         <source>File size is null</source>
         <translation>Dateigröße ist Null</translation>
     </message>
     <message>
-        <location filename="imagepub.cpp" line="183"/>
-        <source>Sending image URL...</source>
-        <translation>Sende Bild-URL...</translation>
+        <location filename="imagepub.cpp" line="187"/>
+        <source>Sending file URL...</source>
+        <translation>Sende Datei-URL...</translation>
     </message>
     <message>
-        <location filename="imagepub.cpp" line="198"/>
-        <source>Image sent: %N (%S bytes)
+        <location filename="imagepub.cpp" line="202"/>
+        <source>File sent: %N (%S bytes)
 %U</source>
-        <translation>Bild gesendet: %N (%S Bytes)
+        <translation>Datei gesendet: %N (%S bytes)
 %U</translation>
     </message>
     <message>
-        <location filename="imagepub.cpp" line="203"/>
-        <source>Image URL sent</source>
-        <translation>Bild-URL wurde gesendet</translation>
+        <location filename="imagepub.cpp" line="207"/>
+        <source>File URL sent</source>
+        <translation>Datei-URL gesendet</translation>
     </message>
     <message>
-        <location filename="imagepub.cpp" line="206"/>
+        <location filename="imagepub.cpp" line="210"/>
         <source>Can&apos;t parse URL</source>
         <translation>Konnte URL nicht auflösen</translation>
     </message>

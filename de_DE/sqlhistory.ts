@@ -19,17 +19,27 @@
         <translation>Von:</translation>
     </message>
     <message>
-        <location filename="historywindow.ui" line="73"/>
+        <location filename="historywindow.ui" line="60"/>
+        <source>In %L1:</source>
+        <translation>Empfangene %L1:</translation>
+    </message>
+    <message>
+        <location filename="historywindow.ui" line="67"/>
+        <source>Out %L1:</source>
+        <translation>Gesendete %L1:</translation>
+    </message>
+    <message>
+        <location filename="historywindow.ui" line="74"/>
+        <source>All %L1:</source>
+        <translation>Alle L1:</translation>
+    </message>
+    <message>
+        <location filename="historywindow.ui" line="94"/>
         <source>Search</source>
         <translation>Suchen</translation>
     </message>
     <message>
-        <location filename="historywindow.ui" line="76"/>
-        <source>Return</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="historywindow.ui" line="112"/>
+        <location filename="historywindow.ui" line="133"/>
         <source>1</source>
         <translation></translation>
     </message>
@@ -48,6 +58,64 @@
         <location filename="historywindow.cpp" line="34"/>
         <source>No History</source>
         <translation>Kein Verlauf</translation>
+    </message>
+    <message>
+        <location filename="historywindow.cpp" line="36"/>
+        <location filename="historywindow.cpp" line="228"/>
+        <location filename="historywindow.cpp" line="360"/>
+        <source>In: %L1</source>
+        <translation>Empfangene: %L1</translation>
+    </message>
+    <message>
+        <location filename="historywindow.cpp" line="37"/>
+        <location filename="historywindow.cpp" line="229"/>
+        <location filename="historywindow.cpp" line="361"/>
+        <source>Out: %L1</source>
+        <translation>Gesendete: %L1</translation>
+    </message>
+    <message>
+        <location filename="historywindow.cpp" line="38"/>
+        <location filename="historywindow.cpp" line="230"/>
+        <location filename="historywindow.cpp" line="362"/>
+        <source>All: %L1</source>
+        <translation>Alle: %L1</translation>
+    </message>
+    <message>
+        <location filename="historywindow.cpp" line="71"/>
+        <location filename="historywindow.cpp" line="431"/>
+        <source>&amp;Delete</source>
+        <translation>Löschen</translation>
+    </message>
+    <message>
+        <location filename="historywindow.cpp" line="74"/>
+        <source>&amp;Delete day</source>
+        <translation>Tag löschen</translation>
+    </message>
+    <message>
+        <location filename="historywindow.cpp" line="77"/>
+        <source>&amp;Delete  %L1 messages</source>
+        <translation>%L1 Nachrichten löschen</translation>
+    </message>
+    <message>
+        <location filename="historywindow.cpp" line="80"/>
+        <source>&amp;Clear selection</source>
+        <translation>Auswahl löschen</translation>
+    </message>
+    <message>
+        <location filename="historywindow.cpp" line="227"/>
+        <source>Not found</source>
+        <translation>Nicht gefunden</translation>
+    </message>
+    <message>
+        <location filename="historywindow.cpp" line="411"/>
+        <location filename="historywindow.cpp" line="421"/>
+        <source>Delete &amp;</source>
+        <translation>Lösche &amp;</translation>
+    </message>
+    <message>
+        <location filename="historywindow.cpp" line="425"/>
+        <source>Delete %L1 &amp;messages</source>
+        <translation>Lösche %L1 Nachrichten</translation>
     </message>
 </context>
 <context>
