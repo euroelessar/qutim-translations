@@ -3148,4 +3148,44 @@
     <source>Without tags</source>
     <target>Без етикети</target>
 </phrase>
+<phrase>
+    <source>Medium (22x22)</source>
+    <target>Среден (22х22)</target>
+</phrase>
+<phrase>
+    <source>Small (16x16)</source>
+    <target>Малък (16х16)</target>
+</phrase>
+<phrase>
+    <source>Default (depends on platform)</source>
+    <target>Подразбиращ се (според платформата)</target>
+</phrase>
+<phrase>
+    <source>Large (32x32)</source>
+    <target>Голям (32х32)</target>
+</phrase>
+<phrase>
+    <source>Very large (48x48)</source>
+    <target>Много голям (48х48)</target>
+</phrase>
+<phrase>
+    <source>Huge (64x64)</source>
+    <target>Огромен (64х64)</target>
+</phrase>
+<phrase>
+    <source>Show avatars</source>
+    <target>Да се показват аватари</target>
+</phrase>
+<phrase>
+    <source>Show status text</source>
+    <target>Да се показва текста на статуса</target>
+</phrase>
+<phrase>
+    <source>Show extended icons</source>
+    <target>Да се показват иконите на разширените статуси</target>
+</phrase>
+<phrase>
+    <source>Theme:</source>
+    <target>Тема:</target>
+</phrase>
 </QPH>
