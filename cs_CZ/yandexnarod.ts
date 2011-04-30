@@ -4,22 +4,22 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="48"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="49"/>
         <source>Sidorov Aleksey</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="52"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="53"/>
         <source>Ruslan Nigmatullin</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="55"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="56"/>
         <source>Alexey Prokhin</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="58"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="59"/>
         <source>Alexander Kazarin</source>
         <translation></translation>
     </message>
@@ -33,12 +33,12 @@
     </message>
     <message>
         <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="46"/>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="62"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="63"/>
         <source>Send files via Yandex.Narod filehosting service</source>
         <translation>Poslat soubory pomocí služby serveru Yandex.Narod</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="61"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="62"/>
         <source>Yandex.Narod</source>
         <translation></translation>
     </message>
@@ -46,14 +46,14 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="49"/>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="53"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="50"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="54"/>
         <source>Developer</source>
         <translation>Vývojář</translation>
     </message>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="56"/>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="59"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="57"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="60"/>
         <source>Author</source>
         <translation>Autor</translation>
     </message>
@@ -61,7 +61,7 @@
 <context>
     <name>Yandex</name>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="72"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="73"/>
         <source>Yandex Narod</source>
         <translation></translation>
     </message>
@@ -102,7 +102,7 @@
 <context>
     <name>YandexNarodFactory</name>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="220"/>
+        <location filename="plugins/yandexnarod/src/yandexnarod.cpp" line="221"/>
         <source>Yandex.Narod</source>
         <translation></translation>
     </message>

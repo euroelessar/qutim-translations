@@ -258,7 +258,7 @@
         <translation>Плагин дающий возможность импортировать историю в qutIM из прочих IM</translation>
     </message>
     <message>
-        <location line="+9"/>
+        <location line="+10"/>
         <source>Import history</source>
         <translation>Импорт истории</translation>
     </message>
@@ -266,7 +266,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location line="-12"/>
+        <location line="-13"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>

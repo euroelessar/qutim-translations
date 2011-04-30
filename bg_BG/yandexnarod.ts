@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarod.cpp" line="+48"/>
+        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarod.cpp" line="+49"/>
         <source>Sidorov Aleksey</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -31,13 +31,13 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location line="-13"/>
+        <location line="-14"/>
         <source>YandexNarod</source>
         <translation>Yandex.Narod файлов организатор</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location line="+16"/>
+        <location line="+17"/>
         <source>Send files via Yandex.Narod filehosting service</source>
         <translation>Изпращане на файлoве чрез Yandex.Narod</translation>
     </message>

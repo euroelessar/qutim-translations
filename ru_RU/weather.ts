@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/weather/src/weather.cpp" line="+26"/>
         <source>Nikita Belov</source>
-        <translation type="unfinished">Белов Никита</translation>
+        <translation>Белов Никита</translation>
     </message>
 </context>
 <context>
@@ -51,32 +51,32 @@
     <message>
         <location line="+20"/>
         <source>Enter city&apos;s name</source>
-        <translation type="unfinished">Введите название города</translation>
+        <translation>Введите название города</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Refresh period:</source>
-        <translation type="unfinished">Частота обновления:</translation>
+        <translation>Частота обновления:</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Show weather in the status row</source>
-        <translation type="unfinished">Погода в поле статуса</translation>
+        <translation>Погода в поле статуса</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Use default theme</source>
-        <translation type="unfinished">Использовать тему по умолчанию</translation>
+        <translation>Использовать тему по умолчанию</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Use custom theme:</source>
-        <translation type="unfinished">Использовать тему:</translation>
+        <translation>Использовать тему:</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Choose...</source>
-        <translation type="unfinished">Выбрать...</translation>
+        <translation>Выбрать...</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -120,47 +120,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../plugins/weather/src/waccount.cpp" line="+20"/>
         <source>Weather</source>
-        <translation type="unfinished">Прогноз погоды</translation>
+        <translation>Прогноз погоды</translation>
     </message>
     <message>
         <location filename="../../plugins/weather/src/wsettings.cpp" line="+101"/>
         <source>Enter here city&apos;s code</source>
-        <translation type="unfinished">Введите сюда код города</translation>
+        <translation>Введите сюда код города</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Enter here city&apos;s name</source>
-        <translation type="unfinished">Введите сюда название города</translation>
+        <translation>Введите сюда название города</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Searching...</source>
-        <translation type="unfinished">Поиск...</translation>
+        <translation>Поиск...</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Select theme&apos;s directory</source>
-        <translation type="unfinished">Укажите папку темы</translation>
+        <translation>Укажите папку темы</translation>
     </message>
     <message>
         <location line="+33"/>
         <source>Not found</source>
-        <translation type="unfinished">404 Не найдено</translation>
+        <translation>404 Не найдено</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Found: %1</source>
-        <translation type="unfinished">Найдено: %1</translation>
+        <translation>Найдено: %1</translation>
     </message>
     <message>
-        <location filename="../../plugins/weather/src/weather.cpp" line="+7"/>
+        <location filename="../../plugins/weather/src/weather.cpp" line="+8"/>
         <source>Get weather</source>
-        <translation type="unfinished">Текущая погода</translation>
+        <translation>Текущая погода</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Get weather forecast</source>
-        <translation type="unfinished">Прозноз погоды</translation>
+        <translation>Прозноз погоды</translation>
     </message>
 </context>
 </TS>

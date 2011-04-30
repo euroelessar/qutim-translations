@@ -174,37 +174,37 @@
     <message>
         <location filename="../../plugins/plugman/src/packagedownloaddialog.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/src/packagedownloaddialog.ui" line="26"/>
         <source>Order by:</source>
-        <translation type="unfinished">Сортировать по:</translation>
+        <translation>Сортировать по:</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/src/packagedownloaddialog.ui" line="33"/>
         <source>Newest</source>
-        <translation type="unfinished">Дате выпуска</translation>
+        <translation>Дате выпуска</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/src/packagedownloaddialog.ui" line="43"/>
         <source>Rating</source>
-        <translation type="unfinished">Рейтингу</translation>
+        <translation>Рейтингу</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/src/packagedownloaddialog.ui" line="50"/>
         <source>Most downloads</source>
-        <translation type="unfinished">Загрузкам</translation>
+        <translation>Загрузкам</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/src/packagedownloaddialog.ui" line="57"/>
         <source>Installed</source>
-        <translation type="unfinished">Кол-ву установок</translation>
+        <translation>Кол-ву установок</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/src/packagedownloaddialog.ui" line="64"/>
         <source>Search:</source>
-        <translation type="unfinished">Поиск:</translation>
+        <translation>Поиск:</translation>
     </message>
 </context>
 <context>
@@ -214,27 +214,27 @@
         <location filename="../../plugins/plugman/src/packageentrywidget.cpp" line="93"/>
         <location filename="../../plugins/plugman/src/packageentrywidget.cpp" line="96"/>
         <source>By &lt;i&gt;%1&lt;/i&gt;</source>
-        <translation type="unfinished">&lt;i&gt;%1&lt;/i&gt;</translation>
+        <translation>&lt;i&gt;%1&lt;/i&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/src/packageentrywidget.cpp" line="112"/>
         <source>Install</source>
-        <translation type="unfinished">Установить</translation>
+        <translation>Установить</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/src/packageentrywidget.cpp" line="116"/>
         <source>Update</source>
-        <translation type="unfinished">Обновить</translation>
+        <translation>Обновить</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/src/packageentrywidget.cpp" line="120"/>
         <source>Installing</source>
-        <translation type="unfinished">Установка</translation>
+        <translation>Установка</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/src/packageentrywidget.cpp" line="125"/>
         <source>Updating</source>
-        <translation type="unfinished">Обновление</translation>
+        <translation>Обновление</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/src/packageentrywidget.cpp" line="130"/>
@@ -245,7 +245,7 @@
 <context>
     <name>PackageManager</name>
     <message>
-        <location filename="../../plugins/plugman/src/plugman.cpp" line="39"/>
+        <location filename="../../plugins/plugman/src/plugman.cpp" line="40"/>
         <source>Manage packages</source>
         <translation>Управление пакетами</translation>
     </message>
@@ -288,32 +288,32 @@
     <message>
         <location filename="../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp" line="86"/>
         <source>No target filename has been given.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отсутствует целевое имя файла.</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp" line="93"/>
         <source>Already opened.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Уже открыт.</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp" line="103"/>
         <source>Insufficient permissions in target directory.</source>
-        <translation type="unfinished">Нет прав доступа в целевой каталог.</translation>
+        <translation>Нет прав доступа в целевой каталог.</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp" line="113"/>
         <source>Unable to open temporary file.</source>
-        <translation type="unfinished">Не получилось открыть временный файл.</translation>
+        <translation>Не получилось открыть временный файл.</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp" line="218"/>
         <source>Synchronization to disk failed</source>
-        <translation type="unfinished">Ошибка синхронизации с винтом</translation>
+        <translation>Ошибка синхронизации с винтом</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp" line="242"/>
         <source>Error during rename.</source>
-        <translation type="unfinished">Ошибка переименования.</translation>
+        <translation>Ошибка переименования.</translation>
     </message>
 </context>
 <context>

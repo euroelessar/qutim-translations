@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/yandexnarod/src/yandexnarod.cpp" line="+48"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnarod.cpp" line="+49"/>
         <source>Sidorov Aleksey</source>
         <translation>Сидоров Алексей</translation>
     </message>
@@ -31,20 +31,20 @@
         <translation type="obsolete">Я.Народ</translation>
     </message>
     <message>
-        <location line="-13"/>
+        <location line="-14"/>
         <source>YandexNarod</source>
         <translation>Я.Народ</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location line="+16"/>
+        <location line="+17"/>
         <source>Send files via Yandex.Narod filehosting service</source>
         <translation>Отправить файл через Яндекс.Диск</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Yandex.Narod</source>
-        <translation type="unfinished">Я.Народ</translation>
+        <translation>Я.Народ</translation>
     </message>
 </context>
 <context>

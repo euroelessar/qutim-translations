@@ -4,9 +4,9 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp" line="31"/>
+        <location filename="../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp" line="32"/>
         <source>Sidorov Aleksey</source>
-        <translation type="unfinished">Сидоров Алексей</translation>
+        <translation>Сидоров Алексей</translation>
     </message>
 </context>
 <context>
@@ -14,18 +14,18 @@
     <message>
         <location filename="../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp" line="28"/>
         <source>UnreadMessagesKeeper</source>
-        <translation type="unfinished">ХранилищеНечитанныхСообщений</translation>
+        <translation>ХранилищеНечитанныхСообщений</translation>
     </message>
     <message>
         <location filename="../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp" line="29"/>
         <source>Allows you to save a list of unread messages when qutIM exit</source>
-        <translation type="unfinished">Плагин сохраняет не прочитанные сообщения, при выходе из qutIM</translation>
+        <translation>Плагин сохраняет непрочитанные сообщения, при выходе из qutIM</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp" line="32"/>
+        <location filename="../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp" line="33"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
     </message>

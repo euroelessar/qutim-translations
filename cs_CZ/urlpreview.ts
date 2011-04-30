@@ -4,12 +4,12 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="plugins/urlpreview/src/urlpreview.cpp" line="33"/>
+        <location filename="plugins/urlpreview/src/urlpreview.cpp" line="34"/>
         <source>Alexander Kazarin</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="plugins/urlpreview/src/urlpreview.cpp" line="36"/>
+        <location filename="plugins/urlpreview/src/urlpreview.cpp" line="37"/>
         <source>Sidorov Aleksey</source>
         <translation></translation>
     </message>
@@ -30,12 +30,12 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="plugins/urlpreview/src/urlpreview.cpp" line="34"/>
+        <location filename="plugins/urlpreview/src/urlpreview.cpp" line="35"/>
         <source>Author</source>
         <translation>Autor</translation>
     </message>
     <message>
-        <location filename="plugins/urlpreview/src/urlpreview.cpp" line="37"/>
+        <location filename="plugins/urlpreview/src/urlpreview.cpp" line="38"/>
         <source>Developer</source>
         <translation>Vývojář</translation>
     </message>

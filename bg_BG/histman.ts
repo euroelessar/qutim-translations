@@ -254,7 +254,7 @@
         <translation>Добавката дава възможност за импортиране в qutIM, на хронология от различни други клиенти</translation>
     </message>
     <message>
-        <location line="+9"/>
+        <location line="+10"/>
         <source>Import history</source>
         <translation>Импортиране на хронология</translation>
     </message>
@@ -262,7 +262,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location line="-12"/>
+        <location line="-13"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>

@@ -4,9 +4,9 @@
 <context>
     <name>ChatWidget</name>
     <message>
-        <location filename="../../plugins/symbian-integration/symbianchatform/stackedchatwidget.cpp" line="+59"/>
+        <location filename="../../plugins/symbianintegration/symbianchatform/stackedchatwidget.cpp" line="+59"/>
         <source>Toggle fullscreen</source>
-        <translation type="unfinished">Во весь экран</translation>
+        <translation>Во весь экран</translation>
     </message>
 </context>
 <context>
@@ -14,7 +14,7 @@
     <message>
         <location line="-22"/>
         <source>Send to</source>
-        <translation type="unfinished">Отправить в</translation>
+        <translation>Отправить в</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -32,7 +32,7 @@
 <context>
     <name>Core::SimpleContactList::SymbianWidget</name>
     <message>
-        <location filename="../../plugins/symbian-integration/symbiancontactlistwidget/symbianwidget.cpp" line="+67"/>
+        <location filename="../../plugins/symbianintegration/symbiancontactlistwidget/symbianwidget.cpp" line="+67"/>
         <source>Search contact</source>
         <translation>Поиск контакта</translation>
     </message>
@@ -56,42 +56,42 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../plugins/symbian-integration/symbianchatform/stackedchatform.cpp" line="+23"/>
+        <location filename="../../plugins/symbianintegration/symbianchatform/stackedchatform.cpp" line="+23"/>
         <source>Chat</source>
-        <translation type="unfinished">Чат</translation>
+        <translation>Чат</translation>
     </message>
 </context>
 <context>
     <name>StackedChatBehavior</name>
     <message>
-        <location filename="../../plugins/symbian-integration/symbianchatform/settings/stackedchatbehavior.ui" line="+14"/>
+        <location filename="../../plugins/symbianintegration/symbianchatform/settings/stackedchatbehavior.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Store service messages in history</source>
-        <translation type="unfinished">Хранить служебные сообщения в истории</translation>
+        <translation>Хранить служебные сообщения в истории</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Number of previous messages shown in new chats</source>
-        <translation type="unfinished">Количество предыдущих сообщений в новом чатике</translation>
+        <translation>Количество предыдущих сообщений в новом чатике</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Number of shown previous messages:</source>
-        <translation type="unfinished">Количество предыдущих сообщений:</translation>
+        <translation>Количество предыдущих сообщений:</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Don&apos;t group messages after (sec):</source>
-        <translation type="unfinished">Не группировать сообщения после (с):</translation>
+        <translation>Не группировать сообщения после (с):</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Notifications in active chat</source>
-        <translation type="unfinished">Уведомления в активном чате</translation>
+        <translation>Уведомления в активном чате</translation>
     </message>
 </context>
 </TS>

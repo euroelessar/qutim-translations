@@ -13,13 +13,13 @@
     <name>Plugin</name>
     <message>
         <location line="+3"/>
-        <location line="+5"/>
+        <location line="+6"/>
         <source>Phonon sound engine</source>
         <translation>Поддръжка на звук, чрез Phonon</translation>
     </message>
     <message>
-        <location line="-4"/>
-        <location line="+5"/>
+        <location line="-5"/>
+        <location line="+6"/>
         <source>Sound engine based on KDE sound engine</source>
         <translation>Поддръжка на звук, на базата на звуковата система на KDE</translation>
     </message>
@@ -27,7 +27,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location line="-8"/>
+        <location line="-9"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>

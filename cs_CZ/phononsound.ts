@@ -13,13 +13,13 @@
     <name>Plugin</name>
     <message>
         <location filename="plugins/phononsound/src/phononsoundplugin.cpp" line="25"/>
-        <location filename="plugins/phononsound/src/phononsoundplugin.cpp" line="30"/>
+        <location filename="plugins/phononsound/src/phononsoundplugin.cpp" line="31"/>
         <source>Phonon sound engine</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="plugins/phononsound/src/phononsoundplugin.cpp" line="26"/>
-        <location filename="plugins/phononsound/src/phononsoundplugin.cpp" line="31"/>
+        <location filename="plugins/phononsound/src/phononsoundplugin.cpp" line="32"/>
         <source>Sound engine based on KDE sound engine</source>
         <translation type="unfinished"></translation>
     </message>

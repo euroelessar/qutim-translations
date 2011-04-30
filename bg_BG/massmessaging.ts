@@ -80,7 +80,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MassMessaging</name>
     <message>
-        <location filename="../../qutim-meta/plugins/massmessaging/src/messaging.cpp" line="+12"/>
+        <location filename="../../qutim-meta/plugins/massmessaging/src/messaging.cpp" line="+13"/>
         <source>&amp;Mass Messaging</source>
         <translation>&amp;Многократно изпращане</translation>
     </message>
@@ -126,7 +126,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/plugins/massmessaging/src/messaging.cpp" line="-8"/>
+        <location filename="../../qutim-meta/plugins/massmessaging/src/messaging.cpp" line="-9"/>
         <source>MassMessaging</source>
         <translation>Многократно изпращане</translation>
     </message>

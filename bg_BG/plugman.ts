@@ -141,7 +141,7 @@
     <message>
         <location line="+21"/>
         <source>Short description:</source>
-        <translation>Кратко описание</translation>
+        <translation>Кратко описание:</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -245,7 +245,7 @@
 <context>
     <name>PackageManager</name>
     <message>
-        <location filename="../../qutim-meta/plugins/plugman/src/plugman.cpp" line="+39"/>
+        <location filename="../../qutim-meta/plugins/plugman/src/plugman.cpp" line="+40"/>
         <source>Manage packages</source>
         <translation>Управление на пакети</translation>
     </message>
@@ -253,7 +253,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location line="-11"/>
+        <location line="-12"/>
         <source>Package manager</source>
         <translation>Управление на пакети</translation>
     </message>
@@ -322,7 +322,7 @@
     <message>
         <location filename="../../qutim-meta/plugins/plugman/ui/manager.ui" line="+20"/>
         <source>Plugman</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление на пакети</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -389,7 +389,7 @@
     <message>
         <location line="-129"/>
         <source>Unable to extract archive: %1 to %2</source>
-        <translation>Невъзможно е извличането на архива: %1</translation>
+        <translation>Невъзможно е извличането на архива: %1 в %2</translation>
     </message>
     <message>
         <location line="+7"/>

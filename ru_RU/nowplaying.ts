@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/nowplaying/src/nowplaying.cpp" line="+32"/>
+        <location filename="../../plugins/nowplaying/src/nowplaying.cpp" line="+33"/>
         <source>Kazlauskas Ian</source>
         <translatorcomment>Каслаускас Йен</translatorcomment>
         <translation type="unfinished"></translation>
@@ -229,7 +229,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../plugins/nowplaying/src/nowplaying.cpp" line="-235"/>
+        <location filename="../../plugins/nowplaying/src/nowplaying.cpp" line="-236"/>
         <source>Now Playing</source>
         <translation>Сейчас играет</translation>
     </message>
@@ -239,7 +239,7 @@ p, li { white-space: pre-wrap; }
         <translation>Плагин «Сейчас играет»</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+12"/>
         <source>Now Playing Mpris</source>
         <translation></translation>
     </message>

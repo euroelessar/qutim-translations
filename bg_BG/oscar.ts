@@ -173,13 +173,13 @@
         <translation>Руслан Нигматуллин</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="+41"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="+42"/>
         <source>Alexey Ignatiev</source>
         <translation>Алексей Игнатиев</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+206"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+207"/>
         <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="+3"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
@@ -3155,13 +3155,13 @@
         <translation>Oscar</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="-6"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/identify/clientidentify.cpp" line="-7"/>
         <source>OscarIdentify</source>
         <translation>Oscar идентификация</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location line="+9"/>
+        <location line="+10"/>
         <source>Client identificaton for oscar contacts</source>
         <translation>Идентификация на клиентите на Oscar контактите</translation>
     </message>
@@ -3251,13 +3251,13 @@
         <translation>Поддръжка на прокси в Oscar</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-8"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-9"/>
         <source>OscarXStatus</source>
         <translation>Oscar разширен статус</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location line="+8"/>
+        <location line="+9"/>
         <source>Additional statuses for oscar protocol</source>
         <translation>Допълнителни статуси за Oscar протокола</translation>
     </message>
@@ -3445,7 +3445,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/icqprotocol.cpp" line="+61"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/icqprotocol.cpp" line="+62"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
@@ -3551,7 +3551,7 @@
 <context>
     <name>XStatus</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-163"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="-164"/>
         <source>Angry</source>
         <translation>Бесен</translation>
     </message>
@@ -3858,7 +3858,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::OftConnection</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/oscarfiletransfer.cpp" line="+862"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarfiletransfer.cpp" line="+861"/>
         <source>Could not open %1</source>
         <translation>%1 не може да бъде отворен</translation>
     </message>
@@ -3927,7 +3927,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+263"/>
+        <location filename="../../qutim-meta/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+264"/>
         <source>X-Status</source>
         <translation>Разширен статус</translation>
     </message>

@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/nowplaying/src/nowplaying.cpp" line="+32"/>
+        <location filename="../../qutim-meta/plugins/nowplaying/src/nowplaying.cpp" line="+33"/>
         <source>Kazlauskas Ian</source>
         <translation>Ян Казлаускас</translation>
     </message>
@@ -216,7 +216,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/plugins/nowplaying/src/nowplaying.cpp" line="-235"/>
+        <location filename="../../qutim-meta/plugins/nowplaying/src/nowplaying.cpp" line="-236"/>
         <source>Now Playing</source>
         <translation>В момента слушам</translation>
     </message>
@@ -226,7 +226,7 @@ p, li { white-space: pre-wrap; }
         <translation>Добавка &quot;В момента слушам&quot;</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+12"/>
         <source>Now Playing Mpris</source>
         <translation>&quot;В момента слушам&quot; (Mpris)</translation>
     </message>

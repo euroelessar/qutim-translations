@@ -4,7 +4,7 @@
 <context>
     <name>AntiBoss</name>
     <message>
-        <location filename="../../qutim-meta/plugins/antiboss/src/antibossplugin.cpp" line="+37"/>
+        <location filename="../../qutim-meta/plugins/antiboss/src/antibossplugin.cpp" line="+38"/>
         <source>Show/hide all windows</source>
         <translation>Скриване/Показване на всички прозорци</translation>
     </message>
@@ -17,7 +17,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location line="-9"/>
+        <location line="-10"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>

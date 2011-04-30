@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp" line="+31"/>
+        <location filename="../../qutim-meta/plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp" line="+32"/>
         <source>Sidorov Aleksey</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -16,7 +16,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location line="-3"/>
+        <location line="-4"/>
         <source>UnreadMessagesKeeper</source>
         <translation>Съхраняване на непрочетени съобщения</translation>
     </message>
@@ -29,7 +29,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
     </message>
