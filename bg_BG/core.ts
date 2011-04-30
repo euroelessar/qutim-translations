@@ -147,14 +147,12 @@
 <context>
     <name>AppearanceSettings</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/settings/popupappearance.ui" line="+20"/>
         <source>Form</source>
-        <translation>Настройки на облика</translation>
+        <translation type="obsolete">Настройки на облика</translation>
     </message>
     <message>
-        <location line="+25"/>
         <source>test</source>
-        <translation>проба</translation>
+        <translation type="obsolete">проба</translation>
     </message>
 </context>
 <context>
@@ -204,7 +202,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogplugin.cpp" line="+29"/>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+19"/>
         <location filename="../../qutim-meta/core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+32"/>
         <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="+34"/>
         <source>Sidorov Aleksey</source>
@@ -493,7 +490,7 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Изход</translation>
     </message>
     <message>
-        <location line="+85"/>
+        <location line="+87"/>
         <source>Select tags</source>
         <translation>Избор на етикети</translation>
     </message>
@@ -923,7 +920,7 @@ p, li { white-space: pre-wrap; }
         <translation>Изпращане до</translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+32"/>
         <source>Session list</source>
         <translation>Списък на сесиите</translation>
     </message>
@@ -933,7 +930,7 @@ p, li { white-space: pre-wrap; }
         <translation>Изпращане</translation>
     </message>
     <message>
-        <location line="+37"/>
+        <location line="+38"/>
         <source>&amp;Actions</source>
         <translation>&amp;Действия</translation>
     </message>
@@ -1072,39 +1069,31 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::KineticPopups::Popup</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/popup.cpp" line="+85"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
-        <translation>&lt;p&gt; + %1 оставащи уведомления &lt;/p&gt;</translation>
+        <translation type="obsolete">&lt;p&gt; + %1 оставащи уведомления &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
     <name>Core::KineticPopups::PopupAppearance</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="+39"/>
-        <location line="+68"/>
-        <location line="+9"/>
         <source>Preview</source>
-        <translation>Предварителен преглед</translation>
+        <translation type="obsolete">Предварителен преглед</translation>
     </message>
     <message>
-        <location line="-9"/>
         <source>This is a simple popup</source>
-        <translation>Това е обикновен изскачащ прозорец</translation>
+        <translation type="obsolete">Това е обикновен изскачащ прозорец</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Simple message</source>
-        <translation>Обикновено съобщение</translation>
+        <translation type="obsolete">Обикновено съобщение</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Another message</source>
-        <translation>Друго съобщение</translation>
+        <translation type="obsolete">Друго съобщение</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Simple kinetic popup widget.</source>
-        <translation>Обикновен kinetic изскачащ прозорец.</translation>
+        <translation type="obsolete">Обикновен kinetic изскачащ прозорец.</translation>
     </message>
 </context>
 <context>
@@ -1492,7 +1481,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ServiceChooserWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/servicechooserwidget.cpp" line="+121"/>
+        <location filename="../../qutim-meta/core/src/corelayers/servicechooser/servicechooserwidget.cpp" line="+122"/>
         <source>To take effect you must restart qutIM</source>
         <translation>За да влязат в сила промените, qutIM трябва да бъде рестартиран</translation>
     </message>
@@ -1586,42 +1575,36 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::MacWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/widgets/maccontactlistwidget/macwidget.cpp" line="+71"/>
         <source>Main Toolbar</source>
-        <translation>Главна лента с инструменти</translation>
+        <translation type="obsolete">Главна лента с инструменти</translation>
     </message>
     <message>
-        <location line="+27"/>
         <source>File</source>
-        <translation>Файл</translation>
+        <translation type="obsolete">Файл</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Chats</source>
-        <translation>Разговори</translation>
+        <translation type="obsolete">Разговори</translation>
     </message>
     <message>
         <source>Edit</source>
         <translation type="obsolete">Редактиране</translation>
     </message>
     <message>
-        <location line="-1"/>
         <source>Accounts</source>
-        <translation>Сметки</translation>
+        <translation type="obsolete">Сметки</translation>
     </message>
     <message>
         <source>Opened chats</source>
         <translation type="obsolete">Отворени разговори</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Roster</source>
-        <translation>Списък с контакти</translation>
+        <translation type="obsolete">Списък с контакти</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Set Status Text</source>
-        <translation>Задаване текст на статуса</translation>
+        <translation type="obsolete">Задаване текст на статуса</translation>
     </message>
 </context>
 <context>
@@ -1698,7 +1681,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::PlainModel</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/plaincontactsmodel/plaincontactlistmodel.cpp" line="+124"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/models/plaincontactsmodel/plaincontactlistmodel.cpp" line="+131"/>
         <source>Without tags</source>
         <translation>Без етикети</translation>
     </message>
@@ -1706,7 +1689,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::SeparatedModel</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/separatedcontactsmodel/separatedcontactlistmodel.cpp" line="+201"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/models/separatedcontactsmodel/separatedcontactlistmodel.cpp" line="+211"/>
         <source>Without tags</source>
         <translation>Без етикети</translation>
     </message>
@@ -1714,12 +1697,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::SimpleWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+77"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+78"/>
         <source>Main Toolbar</source>
         <translation>Главна лента с инструменти</translation>
     </message>
     <message>
-        <location line="+36"/>
+        <location line="+37"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
@@ -1730,7 +1713,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+35"/>
-        <location line="+196"/>
+        <location line="+201"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
@@ -1780,7 +1763,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::TreeModel</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/treecontactsmodel/simplecontactlistmodel.cpp" line="+183"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/models/treecontactsmodel/simplecontactlistmodel.cpp" line="+193"/>
         <source>Without tags</source>
         <translation>Без етикети</translation>
     </message>
@@ -2340,7 +2323,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Notification</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/notification.cpp" line="+118"/>
+        <location filename="../../qutim-meta/core/libqutim/notification.cpp" line="+119"/>
         <source>Incoming Message</source>
         <translation>Входящо съобщение</translation>
     </message>
@@ -2372,12 +2355,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Incoming chat message</source>
-        <translation>Входящо съобщение</translation>
+        <translation>Входящо съобщение в конференция</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Outgoing chat message</source>
-        <translation>Изходящо съобщение</translation>
+        <translation>Изходящо съобщение в конференция</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2548,14 +2531,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="-3"/>
         <source>Kinetic popups</source>
-        <translation>Изскачащи прозорци</translation>
+        <translation type="obsolete">Изскачащи прозорци</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Default qutIM popups based on QTextDocument</source>
-        <translation>Подразбираща се за qutIM, реализация на уведомления. На базата на QTextDocument</translation>
+        <translation type="obsolete">Подразбираща се за qutIM, реализация на уведомления. На базата на QTextDocument</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-58"/>
@@ -2992,9 +2973,8 @@ p, li { white-space: pre-wrap; }
         <translation>Звук</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/backend.cpp" line="+39"/>
         <source>PopupWidget</source>
-        <translation>Изскачащ прозорец</translation>
+        <translation type="obsolete">Изскачащ прозорец</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="-13"/>
@@ -3007,7 +2987,7 @@ p, li { white-space: pre-wrap; }
         <translation>Изглед на формуляра на разговор</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-108"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-110"/>
         <source>ContactList</source>
         <translation>Списък с контакти</translation>
     </message>
@@ -3048,9 +3028,8 @@ p, li { white-space: pre-wrap; }
         <translation>Уведомления</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/backend.cpp" line="-2"/>
         <source>Popups</source>
-        <translation>Изскачащи прозорци</translation>
+        <translation type="obsolete">Изскачащи прозорци</translation>
     </message>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/accountcreator/accountcreator.cpp" line="+13"/>
@@ -3611,7 +3590,6 @@ p, li { white-space: pre-wrap; }
     <name>Task</name>
     <message>
         <location filename="../../qutim-meta/core/src/corelayers/authdialog/authdialogplugin.cpp" line="+3"/>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+3"/>
         <location filename="../../qutim-meta/core/src/corelayers/searchdialog/searchdialogplugin.cpp" line="-10"/>
         <location filename="../../qutim-meta/core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="+4"/>
         <source>Author</source>
@@ -4030,14 +4008,12 @@ en</source>
 <context>
     <name>plugin</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+3"/>
         <source>Kinetic Popups</source>
-        <translation>Kinetic уведомления</translation>
+        <translation type="obsolete">Kinetic уведомления</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>Default qutIM popups based on QTextDocument</source>
-        <translation>Подразбираща се за qutIM, реализация на уведомления. На базата на QTextDocument</translation>
+        <translation type="obsolete">Подразбираща се за qutIM, реализация на уведомления. На базата на QTextDocument</translation>
     </message>
 </context>
 <context>
@@ -4135,7 +4111,7 @@ en</source>
 <context>
     <name>qutim_sdk_0_3::ModuleManager</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+275"/>
+        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+271"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Неуспешно зареждане на добавка: 
