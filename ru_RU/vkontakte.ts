@@ -2,6 +2,14 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="ru_RU">
 <context>
+    <name>AlbumDelegate</name>
+    <message>
+        <location filename="../../protocols/vkontakte/plugins/photoalbum/vphotoalbum/default/PhotoViewerCore/AlbumDelegate.qml" line="+120"/>
+        <source>Remove</source>
+        <translation type="unfinished">Удалить</translation>
+    </message>
+</context>
+<context>
     <name>Author</name>
     <message>
         <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+32"/>
@@ -512,6 +520,14 @@
     <message>
         <source>Offline</source>
         <translation type="obsolete">Отключен</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <location filename="../../protocols/vkontakte/plugins/photoalbum/vphotoalbum/default/main.qml" line="+108"/>
+        <source>Back</source>
+        <translation type="unfinished">Назад</translation>
     </message>
 </context>
 </TS>

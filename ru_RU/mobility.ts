@@ -58,20 +58,18 @@
         <translation type="unfinished">Используется для отслеживания доступности сети.</translation>
     </message>
     <message>
-        <location filename="../../plugins/mobility/multimediabackend/multimediabackendplugin.cpp" line="+11"/>
         <source>Mulimedia engine</source>
-        <translation type="unfinished">Звуковой движок</translation>
+        <translation type="obsolete">Звуковой движок</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Sound engine based on QtMultimedia</source>
-        <translation type="unfinished">Звуковой движок основанный на QtMultimedia</translation>
+        <translation type="obsolete">Звуковой движок основанный на QtMultimedia</translation>
     </message>
 </context>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../plugins/mobility/src/bearermanager/connectionmanager.cpp" line="+22"/>
+        <location line="+22"/>
         <source>Connection manager</source>
         <translation type="unfinished"></translation>
     </message>
