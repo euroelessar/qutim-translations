@@ -3,9 +3,9 @@
 <type>languages</type>
 <name>de_DE</name>
 <version>--VERSION--</version>
-<shortdesc>German language for qutIM 0.2 Beta</shortdesc>
+<shortdesc>German language for qutIM 0.3</shortdesc>
 <url>--URL--</url>
-<author>Marvin42</author>
+<author>Martin Häckel (Marvin42)</author>
 <licence>Creative Commons BY-SA 3.0</licence>
 <icon></icon>
 </package> 
