@@ -3793,7 +3793,7 @@
     <message>
         <location line="-125"/>
         <source>Show client icon</source>
-        <translation>Показване иконите на клиентите</translation>
+        <translation>Да се показват иконите на клиентите</translation>
     </message>
 </context>
 <context>
@@ -3911,17 +3911,17 @@
     <message>
         <location filename="../../qutim-meta/protocols/oscar/src/privacylists.cpp" line="+140"/>
         <source>Show &quot;visible&quot; icon if contact in visible list</source>
-        <translation>Показване на икона за &quot;видим&quot; ако контакта е в списък &quot;Видим за&quot;</translation>
+        <translation>Да се показва икона за &quot;видим&quot; ако контакта е в списък &quot;Видим за&quot;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Show &quot;invisible&quot; icon if contact in invisible list</source>
-        <translation>Показване на икона за &quot;невидим&quot; ако контакта е в списък &quot;Невидим за&quot;</translation>
+        <translation>Да се показва икона за &quot;невидим&quot; ако контакта е в списък &quot;Невидим за&quot;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Show &quot;ignore&quot; icon if contact in ignore list</source>
-        <translation>Показване на икона за &quot;пренебрегнат&quot; ако контакта е в списък &quot;Пренебрегнати&quot;</translation>
+        <translation>Да се показва икона за &quot;пренебрегнат&quot; ако контакта е в списък &quot;Пренебрегнати&quot;</translation>
     </message>
 </context>
 <context>
@@ -3934,7 +3934,7 @@
     <message>
         <location line="+1"/>
         <source>Show contact X-Status icon</source>
-        <translation>Показване иконите на разширените статуси</translation>
+        <translation>Да се показват иконите на разширените статуси</translation>
     </message>
 </context>
 <context>

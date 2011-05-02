@@ -418,7 +418,7 @@
     <message>
         <location line="+2"/>
         <source>Show contact activity icon</source>
-        <translation>Показване иконите за действие</translation>
+        <translation>Да се показват иконите за действие</translation>
     </message>
 </context>
 <context>
@@ -888,7 +888,7 @@
         <translation type="obsolete">Вече сте в конференцията с друг псевдоним</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+671"/>
+        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+672"/>
         <source>You are already in conference with another nick</source>
         <translation>Вече сте в конференцията с друг псевдоним</translation>
     </message>
@@ -1171,7 +1171,7 @@
     <message>
         <location line="+1"/>
         <source>Show client icon</source>
-        <translation>Показване иконите на клиентите</translation>
+        <translation>Да се показват иконите на клиентите</translation>
     </message>
 </context>
 <context>
@@ -1869,7 +1869,7 @@
     <message>
         <location line="+2"/>
         <source>Show contact mood icon</source>
-        <translation>Показване иконите за настроение</translation>
+        <translation>Да се показват иконите за настроение</translation>
     </message>
 </context>
 <context>
@@ -2142,7 +2142,7 @@
     <message>
         <location line="+2"/>
         <source>Show tune icon</source>
-        <translation>Показване иконите за мелодия</translation>
+        <translation>Да се показват иконите за мелодия</translation>
     </message>
 </context>
 <context>
