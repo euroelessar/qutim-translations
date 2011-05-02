@@ -210,14 +210,12 @@
 <context>
     <name>AppearanceSettings</name>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/src/settings/popupappearance.ui" line="+20"/>
         <location filename="../../qutim/src/corelayers/kineticpopups/ui_popupappearance.h" line="+86"/>
         <source>Form</source>
         <translation>Вид</translation>
     </message>
     <message>
-        <location line="+25"/>
-        <location filename="../../qutim/src/corelayers/kineticpopups/ui_popupappearance.h" line="+1"/>
+        <location line="+1"/>
         <source>test</source>
         <translation>Тест</translation>
     </message>
@@ -251,7 +249,6 @@ p, li { white-space: pre-wrap; }
     <name>Author</name>
     <message>
         <location filename="../../qutim/src/corelayers/authdialog/authdialogplugin.cpp" line="+29"/>
-        <location filename="../../qutim/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+19"/>
         <location filename="../../qutim/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="+32"/>
         <location filename="../../qutim/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="+34"/>
         <source>Sidorov Aleksey</source>
@@ -1209,7 +1206,7 @@ p, li { white-space: pre-wrap; }
         <translation>Отправить в</translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+32"/>
         <source>Session list</source>
         <translation>Список сеансов</translation>
     </message>
@@ -1451,39 +1448,31 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::KineticPopups::Popup</name>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/src/popup.cpp" line="+85"/>
         <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
-        <translation>&lt;p&gt; + %1 уведомлений &lt;/p&gt;</translation>
+        <translation type="obsolete">&lt;p&gt; + %1 уведомлений &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
     <name>Core::KineticPopups::PopupAppearance</name>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/src/settings/popupappearance.cpp" line="+39"/>
-        <location line="+68"/>
-        <location line="+9"/>
         <source>Preview</source>
-        <translation>Тестовое уведомление</translation>
+        <translation type="obsolete">Тестовое уведомление</translation>
     </message>
     <message>
-        <location line="-9"/>
         <source>This is a simple popup</source>
-        <translation>Это простое уведомление</translation>
+        <translation type="obsolete">Это простое уведомление</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Simple message</source>
-        <translation>Простое уведомление</translation>
+        <translation type="obsolete">Простое уведомление</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Another message</source>
-        <translation>Другое уведомление</translation>
+        <translation type="obsolete">Другое уведомление</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Simple kinetic popup widget.</source>
-        <translation>Простое кинетическое уведомление.</translation>
+        <translation type="obsolete">Простое кинетическое уведомление.</translation>
     </message>
     <message>
         <source>Simple messagebox</source>
@@ -2205,12 +2194,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::SimpleWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+77"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+78"/>
         <source>Main Toolbar</source>
         <translation>Главная панель</translation>
     </message>
     <message>
-        <location line="+36"/>
+        <location line="+37"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
@@ -3282,14 +3271,12 @@ p, li { white-space: pre-wrap; }
         <translation>Модификатор параметров %time% и %timeOpened%, основан на документации Apple</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="-3"/>
         <source>Kinetic popups</source>
-        <translation>Всплывающие сообщения Kinetic</translation>
+        <translation type="obsolete">Всплывающие сообщения Kinetic</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Default qutIM popups based on QTextDocument</source>
-        <translation>Всплывающие уведомления qutIM, основаны на QTextDocument</translation>
+        <translation type="obsolete">Всплывающие уведомления qutIM, основаны на QTextDocument</translation>
     </message>
     <message>
         <source>Default qutIM popup implementation. Powered by Kinetic</source>
@@ -4232,10 +4219,9 @@ p, li { white-space: pre-wrap; }
         <translation>Звуковой движок</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/src/backend.cpp" line="+39"/>
         <source>PopupWidget</source>
         <translatorcomment>!!!</translatorcomment>
-        <translation>Виджет уведомлений</translation>
+        <translation type="obsolete">Виджет уведомлений</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="-13"/>
@@ -4303,9 +4289,8 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Оформление чата</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/src/backend.cpp" line="-2"/>
         <source>Popups</source>
-        <translation>Всплывающие сообщения</translation>
+        <translation type="obsolete">Всплывающие сообщения</translation>
     </message>
     <message>
         <location filename="../../qutim/src/corelayers/notificationssettings/notificationssettings.cpp" line="+13"/>
@@ -4934,7 +4919,6 @@ p, li { white-space: pre-wrap; }
     <name>Task</name>
     <message>
         <location filename="../../qutim/src/corelayers/authdialog/authdialogplugin.cpp" line="+3"/>
-        <location filename="../../qutim/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+3"/>
         <location filename="../../qutim/src/corelayers/searchdialog/searchdialogplugin.cpp" line="-10"/>
         <location filename="../../qutim/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="+4"/>
         <source>Author</source>
@@ -5539,14 +5523,12 @@ en</source>
 <context>
     <name>plugin</name>
     <message>
-        <location filename="../../qutim/src/corelayers/kineticpopups/src/kineticpopups.cpp" line="+3"/>
         <source>Kinetic Popups</source>
-        <translation>Кинетические всплывающие уведомления</translation>
+        <translation type="obsolete">Кинетические всплывающие уведомления</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>Default qutIM popups based on QTextDocument</source>
-        <translation>Всплывающие уведомления qutIM, основаны на QTextDocument</translation>
+        <translation type="obsolete">Всплывающие уведомления qutIM, основаны на QTextDocument</translation>
     </message>
 </context>
 <context>

@@ -50,7 +50,7 @@
     <message>
         <location line="+1"/>
         <source>bytes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">байт</translation>
     </message>
     <message>
         <location line="+150"/>

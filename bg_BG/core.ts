@@ -82,12 +82,12 @@
     <message>
         <location line="+9"/>
         <source>Only display the icon</source>
-        <translation>Показване само на иконата</translation>
+        <translation>Да се показва само икона</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Only display the text</source>
-        <translation>Показване само на текста</translation>
+        <translation>Да се показва само текст</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -328,7 +328,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+45"/>
         <source>Show Emoticons</source>
-        <translation>Показване на емотикони</translation>
+        <translation>Да се показват емотикони</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2355,12 +2355,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Incoming chat message</source>
-        <translation>Входящо съобщение</translation>
+        <translation>Входящо съобщение в разговор</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Outgoing chat message</source>
-        <translation>Изходящо съобщение</translation>
+        <translation>Изходящо съобщение в разговор</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2525,7 +2525,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Show popup</source>
-        <translation>Показване на изскачащ прозорец</translation>
+        <translation>Изскачащ прозорец</translation>
     </message>
 </context>
 <context>
@@ -3282,12 +3282,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+33"/>
         <source>Show extended icons</source>
-        <translation>Показване на допълнителни икони</translation>
+        <translation>Да се показват икони на разширените статуси</translation>
     </message>
     <message>
         <location line="-14"/>
         <source>Show avatars</source>
-        <translation>Показване на аватари</translation>
+        <translation>Да се показват аватари</translation>
     </message>
     <message>
         <location line="-10"/>
@@ -3297,7 +3297,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+17"/>
         <source>Show status text</source>
-        <translation>Показване текста на статуса</translation>
+        <translation>Да се показва текста на статуса</translation>
     </message>
 </context>
 <context>
@@ -3354,17 +3354,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+6"/>
         <source>Show number of new messages</source>
-        <translation>Показване на броя непрочетени съобщения</translation>
+        <translation>Да се показва броя на непрочетените съобщения</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show number of chats with new messages</source>
-        <translation>Показване на броя разговори с непрочетени съобщения</translation>
+        <translation>Да се показва броя на разговорите с непрочетени съобщения</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show only icon</source>
-        <translation>Показване само на икона</translation>
+        <translation>Да се показва само икона</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -3374,7 +3374,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+6"/>
         <source>Show mail icon if there are new messages</source>
-        <translation>Показване на икона за поща ако има непрочетени съобщения</translation>
+        <translation>Да се показва икона за поща ако има непрочетени съобщения</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3565,17 +3565,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+10"/>
         <source>Chat state icons on tabs</source>
-        <translation>Показване на икони за състояние на разговора в разделите</translation>
+        <translation>Да се показват икони за състояние на разговора в разделите</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show menubar</source>
-        <translation>Показване на лентата с менюто</translation>
+        <translation>Да се показва лентата с менюто</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Show notifications in active chat</source>
-        <translation>Показване на уведомления в активния прозорец със съобщения</translation>
+        <translation>Да се показват уведомления в активния прозорец със съобщения</translation>
     </message>
 </context>
 <context>

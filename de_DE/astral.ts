@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="src/floaties.cpp" line="28"/>
+        <location filename="src/astralplugin.cpp" line="33"/>
         <source>Ruslan Nigmatullin</source>
         <translation></translation>
     </message>
@@ -12,20 +12,20 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="src/floaties.cpp" line="31"/>
-        <source>Floaties</source>
+        <location filename="src/astralplugin.cpp" line="30"/>
+        <source>Astral</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="src/floaties.cpp" line="32"/>
-        <source>Implementation of floaty contacts</source>
-        <translation>Umsetzung von schwimmenden Kontakten</translation>
+        <location filename="src/astralplugin.cpp" line="31"/>
+        <source>Protocol support by Telepathy</source>
+        <translation>Protokollunterstützung von Telepathy</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location filename="src/floaties.cpp" line="29"/>
+        <location filename="src/astralplugin.cpp" line="34"/>
         <source>Author</source>
         <translation>Autor</translation>
     </message>

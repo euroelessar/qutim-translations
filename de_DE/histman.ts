@@ -2,6 +2,14 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="de_DE" sourcelanguage="en_US">
 <context>
+    <name>Author</name>
+    <message>
+        <location filename="src/historymanagerplugin.cpp" line="26"/>
+        <source>Ruslan Nigmatullin</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>ChooseClientPage</name>
     <message>
         <location filename="src/chooseclientpage.ui" line="14"/>
@@ -30,13 +38,13 @@
 <context>
     <name>ClientConfigPage</name>
     <message>
-        <location filename="clients/gajim.cpp" line="82"/>
-        <location filename="clients/psi.cpp" line="160"/>
+        <location filename="src/clients/gajim.cpp" line="99"/>
+        <location filename="src/clients/psi.cpp" line="162"/>
         <source>Select your Jabber account.</source>
         <translation>Deinen Jabber-Account auswählen.</translation>
     </message>
     <message>
-        <location filename="clients/qipinfium.cpp" line="173"/>
+        <location filename="src/clients/qipinfium.cpp" line="180"/>
         <source>Select accounts for each protocol in the list.</source>
         <translation>Die Accounts für die aufgeführten Protokolle auswählen.</translation>
     </message>
@@ -97,12 +105,12 @@
 <context>
     <name>HistoryManager::ChooseClientPage</name>
     <message>
-        <location filename="src/chooseclientpage.cpp" line="42"/>
+        <location filename="src/chooseclientpage.cpp" line="45"/>
         <source>Client</source>
         <translation>Client</translation>
     </message>
     <message>
-        <location filename="src/chooseclientpage.cpp" line="43"/>
+        <location filename="src/chooseclientpage.cpp" line="46"/>
         <source>Choose client which history you want to import to qutIM.</source>
         <translation>Von welchem Client soll der Verlauf importiert werden?</translation>
     </message>
@@ -124,11 +132,6 @@
 <context>
     <name>HistoryManager::ClientConfigPage</name>
     <message>
-        <location filename="src/clientconfigpage.cpp" line="40"/>
-        <source>System</source>
-        <translation>System</translation>
-    </message>
-    <message>
         <location filename="src/clientconfigpage.cpp" line="45"/>
         <source>Configuration</source>
         <translation>Konfiguration</translation>
@@ -149,8 +152,8 @@
         <translation>Die richtige Kodierung auswählen, falls die Kodierung des Verlaufs eine andere als die des Systems ist.</translation>
     </message>
     <message>
-        <location filename="src/clientconfigpage.cpp" line="170"/>
-        <location filename="src/clientconfigpage.cpp" line="172"/>
+        <location filename="src/clientconfigpage.cpp" line="162"/>
+        <location filename="src/clientconfigpage.cpp" line="164"/>
         <source>Select path</source>
         <translation>Pfad auswählen</translation>
     </message>
@@ -158,7 +161,7 @@
 <context>
     <name>HistoryManager::DumpHistoryPage</name>
     <message>
-        <location filename="src/dumphistorypage.cpp" line="59"/>
+        <location filename="src/dumphistorypage.cpp" line="58"/>
         <source>Dumping</source>
         <translation>Speichern</translation>
     </message>
@@ -181,13 +184,13 @@
 <context>
     <name>HistoryManager::HistoryManagerWindow</name>
     <message>
-        <location filename="src/historymanagerwindow.cpp" line="69"/>
-        <location filename="src/historymanagerwindow.cpp" line="261"/>
+        <location filename="src/historymanagerwindow.cpp" line="75"/>
+        <location filename="src/historymanagerwindow.cpp" line="277"/>
         <source>History manager</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="src/historymanagerwindow.cpp" line="79"/>
+        <location filename="src/historymanagerwindow.cpp" line="85"/>
         <source>&amp;Dump</source>
         <translation>&amp;Speichern</translation>
     </message>
@@ -222,11 +225,11 @@
     </message>
 </context>
 <context>
-    <name>HistoryManagerPlugin</name>
+    <name>HistoryManagerWindow</name>
     <message>
-        <location filename="src/historymanagerplugin.cpp" line="37"/>
-        <source>Import history</source>
-        <translation>Verlauf importieren</translation>
+        <location filename="src/historymanagerwindow.ui" line="16"/>
+        <source>Form</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -235,6 +238,32 @@
         <location filename="src/importhistorypage.ui" line="14"/>
         <source>WizardPage</source>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>Plugin</name>
+    <message>
+        <location filename="src/historymanagerplugin.cpp" line="29"/>
+        <source>HistMan</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="src/historymanagerplugin.cpp" line="30"/>
+        <source>Plugin makes possible to import history to qutIM from different messengers</source>
+        <translation>Importiert den Nachrichtenverlauf von anderen Messengern in qutIM</translation>
+    </message>
+    <message>
+        <location filename="src/historymanagerplugin.cpp" line="39"/>
+        <source>Import history</source>
+        <translation>Verlauf importieren...</translation>
+    </message>
+</context>
+<context>
+    <name>Task</name>
+    <message>
+        <location filename="src/historymanagerplugin.cpp" line="27"/>
+        <source>Author</source>
+        <translation>Autor</translation>
     </message>
 </context>
 </TS>

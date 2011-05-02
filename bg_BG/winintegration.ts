@@ -4,15 +4,34 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/win-integration/src/winint.cpp" line="+38"/>
+        <location filename="../../qutim-meta/plugins/winintegration/src/winint.cpp" line="+38"/>
         <source>Vizir Ivan</source>
         <translation>Иван Визир</translation>
     </message>
 </context>
 <context>
+    <name>Core::SimpleContactList::SevenWidget</name>
+    <message>
+        <location filename="../../qutim-meta/plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp" line="+88"/>
+        <source>Status</source>
+        <translation>Статус</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Search contact</source>
+        <translation>Търсене на контакт</translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <location line="+178"/>
+        <source>Set Status Text</source>
+        <translation>Задаване текст на статуса</translation>
+    </message>
+</context>
+<context>
     <name>Plugin</name>
     <message>
-        <location line="+3"/>
+        <location filename="../../qutim-meta/plugins/winintegration/src/winint.cpp" line="+3"/>
         <location line="+12"/>
         <source>Windows Integration</source>
         <translation>Интеграция с Windows</translation>
@@ -26,7 +45,7 @@
 <context>
     <name>SelectAccDlg</name>
     <message>
-        <location filename="../../qutim-meta/plugins/win-integration/src/selectaccdlg.ui" line="+14"/>
+        <location filename="../../qutim-meta/plugins/winintegration/src/selectaccdlg.ui" line="+14"/>
         <source>Dialog</source>
         <translation>Избор на сметка</translation>
     </message>
@@ -49,7 +68,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../qutim-meta/plugins/win-integration/src/winint.cpp" line="-3"/>
+        <location filename="../../qutim-meta/plugins/winintegration/src/winint.cpp" line="-3"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -57,7 +76,7 @@
 <context>
     <name>WSettingsForm</name>
     <message>
-        <location filename="../../qutim-meta/plugins/win-integration/src/wsettings.ui" line="+14"/>
+        <location filename="../../qutim-meta/plugins/winintegration/src/wsettings.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -117,7 +136,7 @@
 <context>
     <name>WThumbnailsProvider</name>
     <message>
-        <location filename="../../qutim-meta/plugins/win-integration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="+91"/>
+        <location filename="../../qutim-meta/plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="+91"/>
         <source>&lt;b&gt;You have new messages.&lt;/b&gt;</source>
         <translation>&lt;b&gt;Имате нови съобщения.&lt;/b&gt;</translation>
     </message>
