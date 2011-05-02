@@ -16,7 +16,7 @@
         <translation type="unfinished">Основная панель</translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+32"/>
         <source>File</source>
         <translation type="unfinished">Файл</translation>
     </message>

@@ -19,7 +19,7 @@
         <translation>Учетные записи</translation>
     </message>
     <message>
-        <location filename="../../qutim/libqutim/account.cpp" line="+103"/>
+        <location filename="../../qutim/libqutim/account.cpp" line="+102"/>
         <source>Authorization failed</source>
         <translation>Ошибка авторизации</translation>
     </message>
@@ -1327,7 +1327,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ChatSpellChecker</name>
     <message>
-        <location filename="../../qutim/src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+145"/>
+        <location filename="../../qutim/src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+139"/>
         <source>Add to dictionary</source>
         <translation>Добавить в словарь</translation>
     </message>
@@ -2909,7 +2909,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Notification</name>
     <message>
-        <location filename="../../qutim/libqutim/notification.cpp" line="+119"/>
+        <location filename="../../qutim/libqutim/notification.cpp" line="+122"/>
         <source>Incoming Message</source>
         <translation>Входящее сообщение</translation>
     </message>
@@ -4016,7 +4016,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Системное сообщение от %1:</translation>
     </message>
     <message>
-        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+157"/>
+        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+139"/>
         <location filename="../../qutim/src/corelayers/notificationfilter/notificationfilter.cpp" line="+34"/>
         <source>%1 changed status</source>
         <translation>%1 изменил статус</translation>
@@ -4209,7 +4209,7 @@ p, li { white-space: pre-wrap; }
         <translation>Модуль действий</translation>
     </message>
     <message>
-        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="-106"/>
+        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="-93"/>
         <source>Popup</source>
         <translation>Уведомление</translation>
     </message>
@@ -4689,7 +4689,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Sound</name>
     <message>
-        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+299"/>
+        <location filename="../../qutim/libqutim/notificationslayer.cpp" line="+286"/>
         <source>No sound</source>
         <translation>Без звука</translation>
     </message>
