@@ -126,7 +126,7 @@
 <context>
     <name>YandexNarodNetMan</name>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarodnetman.cpp" line="+140"/>
+        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarodnetman.cpp" line="+141"/>
         <source>Authorizing...</source>
         <translation>Удостоверяване...</translation>
     </message>

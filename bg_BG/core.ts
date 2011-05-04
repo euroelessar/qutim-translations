@@ -470,7 +470,7 @@ p, li { white-space: pre-wrap; }
         <translation>Активиране на основното меню</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp" line="+57"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp" line="+58"/>
         <source>ContactList</source>
         <translation>Списък с контакти</translation>
     </message>
@@ -910,7 +910,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::TabbedChatWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="+46"/>
+        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="+47"/>
         <source>Chat Actions</source>
         <translation>Действия в разговора</translation>
     </message>
@@ -925,7 +925,7 @@ p, li { white-space: pre-wrap; }
         <translation>Списък на сесиите</translation>
     </message>
     <message>
-        <location line="+50"/>
+        <location line="+53"/>
         <source>Send</source>
         <translation>Изпращане</translation>
     </message>
@@ -1547,7 +1547,7 @@ p, li { white-space: pre-wrap; }
         <translation>Собствени етикети</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="+336"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="+337"/>
         <source>Without tags</source>
         <translation>Без етикети</translation>
     </message>
@@ -1811,7 +1811,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SubmitPage</name>
     <message>
-        <location filename="../../qutim-meta/core/src/submitpage.cpp" line="+26"/>
+        <location filename="../../qutim-meta/core/src/submitpage.cpp" line="+27"/>
         <source>Congratulations</source>
         <translation>Поздравления</translation>
     </message>
@@ -3280,17 +3280,22 @@ p, li { white-space: pre-wrap; }
         <translation>Настройки на списъка с контакти</translation>
     </message>
     <message>
-        <location line="+33"/>
+        <location line="+16"/>
         <source>Show extended icons</source>
         <translation>Да се показват икони на разширените статуси</translation>
     </message>
     <message>
-        <location line="-14"/>
+        <location line="+14"/>
         <source>Show avatars</source>
         <translation>Да се показват аватари</translation>
     </message>
     <message>
-        <location line="-10"/>
+        <location line="+7"/>
+        <source>Lite group headers</source>
+        <translation>Светли заглавия на групите</translation>
+    </message>
+    <message>
+        <location line="-31"/>
         <source>Status icons size:</source>
         <translation>Размер на иконите за статус:</translation>
     </message>
@@ -4111,7 +4116,7 @@ en</source>
 <context>
     <name>qutim_sdk_0_3::ModuleManager</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+271"/>
+        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+262"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Неуспешно зареждане на добавка: 
