@@ -19,7 +19,7 @@
         <translation>Účty</translation>
     </message>
     <message>
-        <location filename="core/libqutim/account.cpp" line="103"/>
+        <location filename="core/libqutim/account.cpp" line="102"/>
         <source>Authorization failed</source>
         <translation>Autorizace selhala</translation>
     </message>
@@ -181,64 +181,6 @@ p, li { white-space: pre-wrap; }
         <location filename="core/src/corelayers/idlestatuschanger/idlestatuschanger.cpp" line="26"/>
         <source>Auto-away</source>
         <translation type="unfinished">Automaticky pryč</translation>
-    </message>
-</context>
-<context>
-    <name>BehaviorSettings</name>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/notifications.ui" line="14"/>
-        <source>Form</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/notifications.ui" line="23"/>
-        <source>Timeout, msec:</source>
-        <translation type="unfinished">Časový limit [ms]:</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/notifications.ui" line="36"/>
-        <source>5000</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/notifications.ui" line="43"/>
-        <source>Animation speed:</source>
-        <translation>Rychlost animace:</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/notifications.ui" line="54"/>
-        <source>No Animation</source>
-        <translation>Bez animace</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/notifications.ui" line="59"/>
-        <source>Very fast</source>
-        <translation>Velmi rychlá</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/notifications.ui" line="64"/>
-        <source>Fast</source>
-        <translation>Rychlá</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/notifications.ui" line="69"/>
-        <source>Normal</source>
-        <translation>Normální</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/notifications.ui" line="74"/>
-        <source>Slow</source>
-        <translation>Pomalá</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/notifications.ui" line="79"/>
-        <source>Very slow</source>
-        <translation>Velmi pomalá</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/notifications.ui" line="84"/>
-        <source>Custom</source>
-        <translation>Vlastní</translation>
     </message>
 </context>
 <context>
@@ -436,22 +378,22 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Ukončit</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="172"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="167"/>
         <source>Select tags</source>
         <translation>Vybrat štítky</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="178"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="173"/>
         <source>Show/Hide offline</source>
         <translation>Zobrazit/skrýt offline kontakty</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="181"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="176"/>
         <source>Hide offline</source>
         <translation>Skrýt offline kontakty</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp" line="57"/>
+        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp" line="58"/>
         <source>ContactList</source>
         <translation>Seznam kontaktů</translation>
     </message>
@@ -814,37 +756,37 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::TabbedChatWidget</name>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="46"/>
+        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="47"/>
         <source>Chat Actions</source>
         <translation>Akce konverzace</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="49"/>
+        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="50"/>
         <source>Send to</source>
         <translation type="unfinished">Odeslat do</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="81"/>
+        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="82"/>
         <source>Session list</source>
         <translation type="unfinished">Seznam konverzací</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="131"/>
+        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="135"/>
         <source>Send</source>
         <translation>Odeslat</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="169"/>
+        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="173"/>
         <source>&amp;Actions</source>
         <translation>&amp;Akce</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="173"/>
+        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="177"/>
         <source>Accoun&amp;ts</source>
         <translation>Úč&amp;ty</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="178"/>
+        <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="182"/>
         <source>&amp;Chat</source>
         <translation>Konverza&amp;ce</translation>
     </message>
@@ -860,7 +802,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ChatSpellChecker</name>
     <message>
-        <location filename="core/src/corelayers/chatspellchecker/chatspellchecker.cpp" line="145"/>
+        <location filename="core/src/corelayers/chatspellchecker/chatspellchecker.cpp" line="139"/>
         <source>Add to dictionary</source>
         <translation>Přidat do slovníku</translation>
     </message>
@@ -1081,6 +1023,14 @@ p, li { white-space: pre-wrap; }
  Do you want to apply the changes or discard them?</source>
         <translation type="unfinished">Nastavení aktuálního modulu bylo změněno.
 Chcete tyto změny použít nebo odmítnout?</translation>
+    </message>
+</context>
+<context>
+    <name>Core::NotificationSettings</name>
+    <message>
+        <location filename="core/src/corelayers/notificationssettings/notificationsettings.cpp" line="35"/>
+        <source>List of available notifications:</source>
+        <translation>Seznam dostupných oznámení:</translation>
     </message>
 </context>
 <context>
@@ -1378,27 +1328,27 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <translation>Vlastní štítky</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="336"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="337"/>
         <source>Without tags</source>
         <translation>Bez štítků</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="434"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="435"/>
         <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
         <translation type="unfinished">Chcete spojit kontakty &quot;%1&quot; &lt;%2&gt; a &quot;%3&quot; &lt;%4&gt;?</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="440"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="441"/>
         <source>Would you like to merge metacontacts &quot;%1&quot; and &quot;%2&quot;?</source>
         <translation type="unfinished">Chcete spojit metakontakty &quot;%1&quot; a &quot;%2&quot;?</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="443"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="444"/>
         <source>Would you like to add &quot;%1&quot; &lt;%2&gt; to metacontact &quot;%3&quot;?</source>
         <translation type="unfinished">Chcete přidat &quot;%1&quot; &lt;%2&gt; do metakontaktu &quot;%3&quot;?</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="450"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="451"/>
         <source>Contacts&apos; merging</source>
         <translation type="unfinished">Spojování kontaktů</translation>
     </message>
@@ -1406,12 +1356,12 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="160"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="155"/>
         <source>Select tags</source>
         <translation>Vybrat štítky</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="162"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="157"/>
         <source>Reset</source>
         <translation type="unfinished">Resetovat</translation>
     </message>
@@ -1526,27 +1476,27 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::SubmitPage</name>
     <message>
-        <location filename="core/src/submitpage.cpp" line="26"/>
+        <location filename="core/src/submitpage.cpp" line="27"/>
         <source>Congratulations</source>
         <translation>Gratuluji</translation>
     </message>
     <message>
-        <location filename="core/src/submitpage.cpp" line="27"/>
+        <location filename="core/src/submitpage.cpp" line="28"/>
         <source>You&apos;ve just created a profile for qutIM. Click Finish to proceed to adding user accounts</source>
         <translation type="unfinished">Byl vytvořen profil pro qutIM. Kliknutím na Dokončit bude následovat přidávání uživatelských účtů</translation>
     </message>
     <message>
-        <location filename="core/src/submitpage.cpp" line="30"/>
+        <location filename="core/src/submitpage.cpp" line="31"/>
         <source>Would you like to send details about your current setup?</source>
         <translation type="unfinished">Chcete poslat detaily o aktuálním nastavení?</translation>
     </message>
     <message>
-        <location filename="core/src/submitpage.cpp" line="31"/>
+        <location filename="core/src/submitpage.cpp" line="32"/>
         <source>Information to be transferred to the qutIM&apos;s authors:</source>
         <translation type="unfinished">Informace, které mají být přeneseny autorům qutIMu:</translation>
     </message>
     <message>
-        <location filename="core/src/submitpage.cpp" line="36"/>
+        <location filename="core/src/submitpage.cpp" line="37"/>
         <source>&lt;b&gt;Short:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Version:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM Version:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt Version:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Screen resolution:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;System locale:&lt;/b&gt; %9&lt;br /&gt;</source>
         <translation>&lt;b&gt;Stručně:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Verze:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Plné znění:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM verze:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt verze:&lt;/b&gt; %5 (%6 bitů) &lt;br /&gt;&lt;b&gt;Rozlišení obrazovky:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Lokalizace systému:&lt;/b&gt; %9&lt;br /&gt;</translation>
     </message>
@@ -2008,77 +1958,77 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Notification</name>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="119"/>
+        <location filename="core/libqutim/notification.cpp" line="110"/>
         <source>Incoming Message</source>
         <translation>Příchozí zpráva</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="120"/>
+        <location filename="core/libqutim/notification.cpp" line="111"/>
         <source>Outgoing Message</source>
         <translation>Odchozí zpráva</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="121"/>
+        <location filename="core/libqutim/notification.cpp" line="112"/>
         <source>qutIM Startup</source>
         <translation type="unfinished">Spuštění qutIMu</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="122"/>
+        <location filename="core/libqutim/notification.cpp" line="113"/>
         <source>Blocked Message</source>
         <translation type="unfinished">Zablokovaná zpráva</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="123"/>
+        <location filename="core/libqutim/notification.cpp" line="114"/>
         <source>User joined chat</source>
         <translation type="unfinished">Uživatel vstoupil do konverzace</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="124"/>
+        <location filename="core/libqutim/notification.cpp" line="115"/>
         <source>User leaved chat</source>
         <translation type="unfinished">Uživatel opustil konverzaci</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="125"/>
+        <location filename="core/libqutim/notification.cpp" line="116"/>
         <source>Incoming chat message</source>
         <translation type="unfinished">Příchozí zpráva konverzace</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="126"/>
+        <location filename="core/libqutim/notification.cpp" line="117"/>
         <source>Outgoing chat message</source>
         <translation type="unfinished">Odchozí zpráva konverzace</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="127"/>
+        <location filename="core/libqutim/notification.cpp" line="118"/>
         <source>File transfer completed</source>
         <translation type="unfinished">Přeson souboru dokončen</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="128"/>
+        <location filename="core/libqutim/notification.cpp" line="119"/>
         <source>User online</source>
         <translation type="unfinished">Uživatel online</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="129"/>
+        <location filename="core/libqutim/notification.cpp" line="120"/>
         <source>User offline</source>
         <translation type="unfinished">Uživatel offline</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="130"/>
+        <location filename="core/libqutim/notification.cpp" line="121"/>
         <source>User changed status</source>
         <translation type="unfinished">Uživatel změnil stav</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="131"/>
+        <location filename="core/libqutim/notification.cpp" line="122"/>
         <source>User has birthday!</source>
         <translation type="unfinished">Uživatel má narozeniny!</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="132"/>
+        <location filename="core/libqutim/notification.cpp" line="123"/>
         <source>User typing</source>
         <translation type="unfinished">Uživatel píše</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notification.cpp" line="133"/>
+        <location filename="core/libqutim/notification.cpp" line="124"/>
         <source>System</source>
         <translation type="unfinished">Systémové</translation>
     </message>
@@ -2086,95 +2036,9 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Notifications</name>
     <message>
-        <location filename="core/src/corelayers/notificationssettings/popupbehavior.cpp" line="40"/>
-        <source>User online</source>
-        <translation>Uživatel online</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/popupbehavior.cpp" line="41"/>
-        <source>User offline</source>
-        <translation>Uživatel offline</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/popupbehavior.cpp" line="31"/>
-        <source>Incoming Message</source>
-        <translation type="unfinished">Příchozí zpráva</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/popupbehavior.cpp" line="32"/>
-        <source>Outgoing Message</source>
-        <translation type="unfinished">Odchozí zpráva</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/popupbehavior.cpp" line="33"/>
-        <source>qutIM Startup</source>
-        <translation type="unfinished">Spuštění qutIMu</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/popupbehavior.cpp" line="34"/>
-        <source>Blocked Message</source>
-        <translation type="unfinished">Zablokovaná zpráva</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/popupbehavior.cpp" line="35"/>
-        <source>User joined chat</source>
-        <translation type="unfinished">Uživatel vstoupil do konverzace</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/popupbehavior.cpp" line="36"/>
-        <source>User leaved chat</source>
-        <translation type="unfinished">Uživatel opustil konverzaci</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/popupbehavior.cpp" line="37"/>
-        <source>Incoming chat message</source>
-        <translation type="unfinished">Příchozí zpráva konverzace</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/popupbehavior.cpp" line="38"/>
-        <source>Outgoing chat message</source>
-        <translation type="unfinished">Odchozí zpráva konverzace</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/popupbehavior.cpp" line="39"/>
-        <source>File transfer completed</source>
-        <translation type="unfinished">Přeson souboru dokončen</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/popupbehavior.cpp" line="42"/>
-        <source>User changed status</source>
-        <translation type="unfinished">Uživatel změnil stav</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/popupbehavior.cpp" line="43"/>
-        <source>User has birthday!</source>
-        <translation type="unfinished">Uživatel má narozeniny!</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/popupbehavior.cpp" line="44"/>
-        <source>User typing</source>
-        <translation type="unfinished">Uživatel píše</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/popupbehavior.cpp" line="45"/>
-        <source>System</source>
-        <translation type="unfinished">Systémové</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/popupbehavior.cpp" line="50"/>
-        <location filename="core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="71"/>
+        <location filename="core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="69"/>
         <source>Type</source>
         <translation>Typ</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/popupbehavior.cpp" line="51"/>
-        <source>Play sound</source>
-        <translation>Přehrát zvuk</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/notificationssettings/popupbehavior.cpp" line="52"/>
-        <source>Show popup</source>
-        <translation>Zobrazit oznamovací okno</translation>
     </message>
 </context>
 <context>
@@ -2421,61 +2285,61 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="core/libqutim/notificationslayer.cpp" line="157"/>
+        <location filename="core/libqutim/notificationslayer.cpp" line="139"/>
         <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="34"/>
         <source>%1 changed status</source>
         <translation>%1 změnil stav</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notificationslayer.cpp" line="136"/>
+        <location filename="core/libqutim/notificationslayer.cpp" line="118"/>
         <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="13"/>
         <source>Message from %1:</source>
         <translation>Zpráva od %1:</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notificationslayer.cpp" line="140"/>
+        <location filename="core/libqutim/notificationslayer.cpp" line="122"/>
         <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="17"/>
         <source>Message to %1:</source>
         <translation>Zpráva pro %1:</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notificationslayer.cpp" line="163"/>
+        <location filename="core/libqutim/notificationslayer.cpp" line="145"/>
         <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="40"/>
         <source>%1 is typing</source>
         <translation>%1 píše</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notificationslayer.cpp" line="168"/>
+        <location filename="core/libqutim/notificationslayer.cpp" line="150"/>
         <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="45"/>
         <source>System notify</source>
         <translation type="unfinished">Systémové oznámení</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notificationslayer.cpp" line="146"/>
+        <location filename="core/libqutim/notificationslayer.cpp" line="128"/>
         <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="23"/>
         <source>Blocked message from %1</source>
         <translation>Zablokovaná zpráva od %1</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notificationslayer.cpp" line="160"/>
+        <location filename="core/libqutim/notificationslayer.cpp" line="142"/>
         <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="37"/>
         <source>%1 has birthday today!!</source>
         <translation type="unfinished">%1 má dnes narozeniny!</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notificationslayer.cpp" line="150"/>
+        <location filename="core/libqutim/notificationslayer.cpp" line="132"/>
         <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="27"/>
         <source>%1 is online</source>
         <translation>%1 je online</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notificationslayer.cpp" line="154"/>
+        <location filename="core/libqutim/notificationslayer.cpp" line="136"/>
         <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="31"/>
         <source>%1 is offline</source>
         <translation>%1 je offline</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notificationslayer.cpp" line="143"/>
+        <location filename="core/libqutim/notificationslayer.cpp" line="125"/>
         <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="20"/>
         <source>qutIM launched</source>
         <translation type="unfinished">qutIM spuštěn</translation>
@@ -2588,12 +2452,12 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="core/libqutim/notificationslayer.cpp" line="37"/>
+        <location filename="core/libqutim/notificationslayer.cpp" line="32"/>
         <source>Popup</source>
         <translation>Oznamovací okno</translation>
     </message>
     <message>
-        <location filename="core/libqutim/notificationslayer.cpp" line="38"/>
+        <location filename="core/libqutim/notificationslayer.cpp" line="33"/>
         <source>Sound</source>
         <translation>Zvuk</translation>
     </message>
@@ -2727,7 +2591,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <translation>Lokalizace</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/notificationssettings/notificationssettings.cpp" line="13"/>
+        <location filename="core/src/corelayers/notificationssettings/notificationssettings.cpp" line="51"/>
         <source>Notifications</source>
         <translation>Oznamování</translation>
     </message>
@@ -2897,22 +2761,27 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <translation></translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui" line="23"/>
+        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui" line="20"/>
         <source>Status icons size:</source>
         <translation>Velikost ikony stavu:</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui" line="33"/>
+        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui" line="44"/>
         <source>Show avatars</source>
         <translation>Zobrazit avatary</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui" line="40"/>
+        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui" line="51"/>
+        <source>Lite group headers</source>
+        <translation type="unfinished">Odlehčené seskupování hlaviček</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui" line="37"/>
         <source>Show status text</source>
         <translation>Zobrazit text stavu</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui" line="47"/>
+        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui" line="30"/>
         <source>Show extended icons</source>
         <translation>Zobrazit rozšířené ikony</translation>
     </message>
@@ -3002,7 +2871,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Sound</name>
     <message>
-        <location filename="core/libqutim/notificationslayer.cpp" line="337"/>
+        <location filename="core/libqutim/notificationslayer.cpp" line="319"/>
         <source>No sound</source>
         <translation>Bez zvuku</translation>
     </message>
@@ -3010,22 +2879,17 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>SoundTheme</name>
     <message>
-        <location filename="core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="72"/>
-        <source>Filename</source>
-        <translation>Název souboru</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="73"/>
+        <location filename="core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="70"/>
         <source>Preview</source>
         <translation>Náhled</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="85"/>
+        <location filename="core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="82"/>
         <source>Type</source>
         <translation>Typ</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="97"/>
+        <location filename="core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="89"/>
         <source>Play</source>
         <translation>Přehrát</translation>
     </message>
@@ -3691,14 +3555,14 @@ en</source>
 <context>
     <name>qutim_sdk_0_3::ModuleManager</name>
     <message>
-        <location filename="core/libqutim/modulemanager.cpp" line="271"/>
+        <location filename="core/libqutim/modulemanager.cpp" line="262"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Nelze načíst plugin:
  %1</translation>
     </message>
     <message>
-        <location filename="core/libqutim/modulemanager.cpp" line="403"/>
+        <location filename="core/libqutim/modulemanager.cpp" line="394"/>
         <source>Could not init plugin: 
  %1</source>
         <translation>Nelze inicializovat plugin:
