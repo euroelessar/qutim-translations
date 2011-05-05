@@ -11,7 +11,7 @@
 <context>
     <name>ConnectionManager::ConnectionManager</name>
     <message>
-        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="+113"/>
+        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="+114"/>
         <source>within %1 seconds</source>
         <translatorcomment>Как тут с формами быть, няшка?</translatorcomment>
         <translation>в течение %1 секунд</translation>
@@ -59,9 +59,17 @@
     </message>
 </context>
 <context>
+    <name>Service</name>
+    <message>
+        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="-83"/>
+        <source>BearerManager</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Settings</name>
     <message>
-        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="-68"/>
+        <location line="+15"/>
         <source>Connection manager</source>
         <translation>Менеджер подключений</translation>
     </message>

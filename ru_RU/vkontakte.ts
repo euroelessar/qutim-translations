@@ -4,8 +4,9 @@
 <context>
     <name>AlbumDelegate</name>
     <message>
+        <location filename="../../protocols/vkontakte/plugins/photoalbum/vphotoalbum/default/PhotoViewerCore/AlbumDelegate.qml" line="+120"/>
         <source>Remove</source>
-        <translation type="obsolete">Удалить</translation>
+        <translation type="unfinished">Удалить</translation>
     </message>
 </context>
 <context>
@@ -524,8 +525,9 @@
 <context>
     <name>main</name>
     <message>
+        <location filename="../../protocols/vkontakte/plugins/photoalbum/vphotoalbum/default/main.qml" line="+108"/>
         <source>Back</source>
-        <translation type="obsolete">Назад</translation>
+        <translation type="unfinished">Назад</translation>
     </message>
 </context>
 </TS>

@@ -4,52 +4,41 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/mobility/src/bearermanager/connectionmanager.cpp" line="+48"/>
         <source>Sidorov Aleksey</source>
-        <translation>Сидоров Алексей</translation>
+        <translation type="obsolete">Сидоров Алексей</translation>
     </message>
 </context>
 <context>
     <name>ConnectionManager::ConnectionManager</name>
     <message>
-        <location line="+74"/>
         <source>within %1 seconds</source>
-        <translation>в %1 секунды(у)</translation>
+        <translation type="obsolete">в %1 секунды(у)</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>immediately</source>
-        <translation>немедленно</translation>
+        <translation type="obsolete">немедленно</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>%1 will be reconnected %2</source>
-        <translation>%1 будет переподключен  %2</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>ConnectionManager</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">%1 будет переподключен  %2</translation>
     </message>
 </context>
 <context>
     <name>ManagerSettings</name>
     <message>
-        <location filename="../../plugins/mobility/src/bearermanager/managersettings.ui" line="+14"/>
         <source>Form</source>
-        <translation>Настройки</translation>
+        <translation type="obsolete">Настройки</translation>
     </message>
     <message>
-        <location line="+28"/>
         <source>Autoconnect on startup</source>
-        <translation>Автоподключение при запуске</translation>
+        <translation type="obsolete">Автоподключение при запуске</translation>
     </message>
 </context>
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../plugins/mobility/src/bearermanager/connectionmanager.cpp" line="-87"/>
-        <source>ConnectionManager</source>
+        <location filename="../../plugins/mobility/bearermanager/bearermanagerplugin.cpp" line="+11"/>
+        <source>Network bearer Manager</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -69,19 +58,18 @@
     </message>
 </context>
 <context>
-    <name>Settings</name>
+    <name>Service</name>
     <message>
-        <location filename="../../plugins/mobility/src/bearermanager/connectionmanager.cpp" line="+22"/>
-        <source>Connection manager</source>
+        <location filename="../../plugins/mobility/src/bearermanager/bearermanager.cpp" line="+8"/>
+        <source>BearerManager</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location line="-19"/>
         <source>Author</source>
-        <translation>Автор</translation>
+        <translation type="obsolete">Автор</translation>
     </message>
 </context>
 </TS>
