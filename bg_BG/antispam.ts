@@ -103,7 +103,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../qutim-meta/plugins/antispam/src/handler.cpp" line="+34"/>
+        <location filename="../../qutim-meta/plugins/antispam/src/handler.cpp" line="+37"/>
         <source>Message from %1 blocked  on suspicion of spam.</source>
         <translation>Блокирано бе съобщение от %1 по подозрение, че е SPAM.</translation>
     </message>
