@@ -1075,7 +1075,7 @@ Please wait a while and try again.</source>
 <context>
     <name>qutim_sdk_0_3::irc::IrcStandartCtpcHandler</name>
     <message numerus="yes">
-        <location filename="../../protocols/irc/src/ircstandartctpchandler.cpp" line="+68"/>
+        <location filename="../../protocols/irc/src/ircstandartctpchandler.cpp" line="+69"/>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
         <translation>
             <numerusform>Пинг от %1: %2 секунда %n</numerusform>

@@ -100,7 +100,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../plugins/antispam/src/handler.cpp" line="+34"/>
+        <location filename="../../plugins/antispam/src/handler.cpp" line="+37"/>
         <source>Message from %1 blocked  on suspicion of spam.</source>
         <translation type="unfinished">Сообщение от %1 заблокировано антиспамом.</translation>
     </message>

@@ -5595,4 +5595,8 @@ Accept invitation?</source>
     <source>Settings Window</source>
     <target>Окно настроек</target>
 </phrase>
+<phrase>
+    <source>ContactDelegate</source>
+    <target>Отрисовщик контактов</target>
+</phrase>
 </QPH>

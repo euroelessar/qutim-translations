@@ -1082,7 +1082,7 @@
 <context>
     <name>Jabber::JAccount</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+207"/>
+        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+208"/>
         <source>qutIM</source>
         <comment>Local qutIM&apos;s name</comment>
         <translation type="unfinished"></translation>

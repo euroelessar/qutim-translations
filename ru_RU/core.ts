@@ -281,7 +281,6 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>BehaviorSettings</name>
     <message>
-        <location filename="../../qutim/src/corelayers/notificationssettings/notifications.ui" line="+14"/>
         <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+95"/>
         <source>Form</source>
         <translation>Вид</translation>
@@ -291,62 +290,52 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Уведомления</translation>
     </message>
     <message>
-        <location line="+9"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+1"/>
+        <location line="+1"/>
         <source>Timeout, msec:</source>
         <translation>Время отображения, мс:</translation>
     </message>
     <message>
-        <location line="+13"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+1"/>
+        <location line="+1"/>
         <source>5000</source>
         <translation>5000</translation>
     </message>
     <message>
-        <location line="+7"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+1"/>
+        <location line="+1"/>
         <source>Animation speed:</source>
         <translation>Скорость анимации:</translation>
     </message>
     <message>
-        <location line="+11"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+3"/>
+        <location line="+3"/>
         <source>No Animation</source>
         <translation>Без анимации</translation>
     </message>
     <message>
-        <location line="+5"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+1"/>
+        <location line="+1"/>
         <source>Very fast</source>
         <translation>Очень быстро</translation>
     </message>
     <message>
-        <location line="+5"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+1"/>
+        <location line="+1"/>
         <source>Fast</source>
         <translation>Быстро</translation>
     </message>
     <message>
-        <location line="+5"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+1"/>
+        <location line="+1"/>
         <source>Normal</source>
         <translation>Нормально</translation>
     </message>
     <message>
-        <location line="+5"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+1"/>
+        <location line="+1"/>
         <source>Slow</source>
         <translation>Медленно</translation>
     </message>
     <message>
-        <location line="+5"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+1"/>
+        <location line="+1"/>
         <source>Very slow</source>
         <translation>Очень медленно</translation>
     </message>
     <message>
-        <location line="+5"/>
-        <location filename="../../qutim/src/corelayers/notificationssettings/ui_notifications.h" line="+1"/>
+        <location line="+1"/>
         <source>Custom</source>
         <translation>Иная скорость</translation>
     </message>
@@ -634,7 +623,7 @@ p, li { white-space: pre-wrap; }
         <translation>Активировать главное меню</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp" line="+57"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp" line="+58"/>
         <source>ContactList</source>
         <translation>Контакты</translation>
     </message>
@@ -654,7 +643,7 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Выход</translation>
     </message>
     <message>
-        <location line="+87"/>
+        <location line="+82"/>
         <source>Select tags</source>
         <translation>Выбрать метки</translation>
     </message>
@@ -1196,7 +1185,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::TabbedChatWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="+46"/>
+        <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp" line="+47"/>
         <source>Chat Actions</source>
         <translation>Действия чата</translation>
     </message>
@@ -1211,7 +1200,7 @@ p, li { white-space: pre-wrap; }
         <translation>Список сеансов</translation>
     </message>
     <message>
-        <location line="+50"/>
+        <location line="+53"/>
         <source>Send</source>
         <translation>Отправить</translation>
     </message>
@@ -1624,6 +1613,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::NotificationSettings</name>
+    <message>
+        <location filename="../../qutim/src/corelayers/notificationssettings/notificationsettings.cpp" line="+35"/>
+        <source>List of available notifications:</source>
+        <translation type="unfinished">Список доступных уведомлений:</translation>
+    </message>
+</context>
+<context>
     <name>Core::PListConfigBackend</name>
     <message>
         <location filename="../../qutim/src/corelayers/plistconfig/plistconfigbackend.cpp" line="+159"/>
@@ -2027,7 +2024,7 @@ p, li { white-space: pre-wrap; }
         <translation>Прочие метки</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="+336"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="+337"/>
         <source>Without tags</source>
         <translation>Без меток</translation>
     </message>
@@ -2319,7 +2316,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SubmitPage</name>
     <message>
-        <location filename="../../qutim/src/submitpage.cpp" line="+26"/>
+        <location filename="../../qutim/src/submitpage.cpp" line="+27"/>
         <source>Congratulations</source>
         <translation>Поздравляем</translation>
     </message>
@@ -2909,7 +2906,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Notification</name>
     <message>
-        <location filename="../../qutim/libqutim/notification.cpp" line="+122"/>
+        <location filename="../../qutim/libqutim/notification.cpp" line="+110"/>
         <source>Incoming Message</source>
         <translation>Входящее сообщение</translation>
     </message>
@@ -2987,14 +2984,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Notifications</name>
     <message>
-        <location filename="../../qutim/src/corelayers/notificationssettings/popupbehavior.cpp" line="+40"/>
         <source>User online</source>
-        <translation>Пользователь в сети</translation>
+        <translation type="obsolete">Пользователь в сети</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>User offline</source>
-        <translation>Пользователь отключен</translation>
+        <translation type="obsolete">Пользователь отключен</translation>
     </message>
     <message>
         <source>Status changed</source>
@@ -3035,85 +3030,69 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Количество</translation>
     </message>
     <message>
-        <location line="-10"/>
         <source>Incoming Message</source>
-        <translation>Входящее сообщение</translation>
+        <translation type="obsolete">Входящее сообщение</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Outgoing Message</source>
-        <translation>Исходящее сообщение</translation>
+        <translation type="obsolete">Исходящее сообщение</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>qutIM Startup</source>
-        <translation>qutIM запущен</translation>
+        <translation type="obsolete">qutIM запущен</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Blocked Message</source>
-        <translation>Блокированное сообщение</translation>
+        <translation type="obsolete">Блокированное сообщение</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>User joined chat</source>
-        <translation>Пользователь вошел в чат</translation>
+        <translation type="obsolete">Пользователь вошел в чат</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>User leaved chat</source>
-        <translation>Пользователь покинул чат</translation>
+        <translation type="obsolete">Пользователь покинул чат</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Incoming chat message</source>
-        <translation>Входящее сообщение в чате</translation>
+        <translation type="obsolete">Входящее сообщение в чате</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Outgoing chat message</source>
-        <translation>Исходящее сообщение в чате</translation>
+        <translation type="obsolete">Исходящее сообщение в чате</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>File transfer completed</source>
-        <translation>Передача файла завершена</translation>
+        <translation type="obsolete">Передача файла завершена</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>User changed status</source>
-        <translation>Пользоватль изменил статус</translation>
+        <translation type="obsolete">Пользоватль изменил статус</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>User has birthday!</source>
-        <translation>День рождения пользователя!</translation>
+        <translation type="obsolete">День рождения пользователя!</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>User typing</source>
-        <translation>Набирается текст</translation>
+        <translation type="obsolete">Набирается текст</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>System</source>
-        <translation>Система</translation>
+        <translation type="obsolete">Система</translation>
     </message>
     <message>
-        <location line="+5"/>
-        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+71"/>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+69"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Play sound</source>
-        <translation>Проиграть звук</translation>
+        <translation type="obsolete">Проиграть звук</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Show popup</source>
-        <translation>Показывать уведомление</translation>
+        <translation type="obsolete">Показывать уведомление</translation>
     </message>
 </context>
 <context>
@@ -4234,7 +4213,7 @@ p, li { white-space: pre-wrap; }
         <translation>Движок тем чата</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-110"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-105"/>
         <source>ContactList</source>
         <translation>Контакты</translation>
     </message>
@@ -4293,7 +4272,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Всплывающие сообщения</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/notificationssettings/notificationssettings.cpp" line="+13"/>
+        <location filename="../../qutim/src/corelayers/notificationssettings/notificationssettings.cpp" line="+51"/>
         <source>Notifications</source>
         <translation>Уведомления</translation>
     </message>
@@ -4561,25 +4540,30 @@ p, li { white-space: pre-wrap; }
         <translation>Настройки</translation>
     </message>
     <message>
-        <location line="+9"/>
+        <location line="+6"/>
         <location filename="../../qutim/src/corelayers/simplecontactlist/ui_simplecontactlistsettings.h" line="+1"/>
         <source>Status icons size:</source>
         <translation>Размер пиктограмм статуса:</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+24"/>
         <location filename="../../qutim/src/corelayers/simplecontactlist/ui_simplecontactlistsettings.h" line="+1"/>
         <source>Show avatars</source>
         <translation>Показывать аватары</translation>
     </message>
     <message>
         <location line="+7"/>
+        <source>Lite group headers</source>
+        <translation type="unfinished">Легкие заголовки групп</translation>
+    </message>
+    <message>
+        <location line="-14"/>
         <location filename="../../qutim/src/corelayers/simplecontactlist/ui_simplecontactlistsettings.h" line="+1"/>
         <source>Show status text</source>
         <translation>Показывать текст статуса</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="-7"/>
         <location filename="../../qutim/src/corelayers/simplecontactlist/ui_simplecontactlistsettings.h" line="+1"/>
         <source>Show extended icons</source>
         <translatorcomment>расширенные статусы?</translatorcomment>
@@ -4697,12 +4681,11 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>SoundTheme</name>
     <message>
-        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Filename</source>
-        <translation>Имя файла</translation>
+        <translation type="obsolete">Имя файла</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qutim/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Preview</source>
         <translation>Тестовое уведомление</translation>
     </message>
@@ -4712,7 +4695,7 @@ p, li { white-space: pre-wrap; }
         <translation>Тип</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+7"/>
         <source>Play</source>
         <translation>Воспроизведение</translation>
     </message>
@@ -5658,7 +5641,7 @@ en</source>
         <translation type="obsolete">Плагин: %1</translation>
     </message>
     <message>
-        <location filename="../../qutim/libqutim/modulemanager.cpp" line="+271"/>
+        <location filename="../../qutim/libqutim/modulemanager.cpp" line="+262"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Не могу загрузить плагин: 
