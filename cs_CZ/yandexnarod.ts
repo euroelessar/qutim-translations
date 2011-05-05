@@ -118,7 +118,7 @@
 <context>
     <name>YandexNarodNetMan</name>
     <message>
-        <location filename="plugins/yandexnarod/src/yandexnarodnetman.cpp" line="140"/>
+        <location filename="plugins/yandexnarod/src/yandexnarodnetman.cpp" line="141"/>
         <source>Authorizing...</source>
         <translation>Autorizování...</translation>
     </message>

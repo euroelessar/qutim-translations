@@ -4,32 +4,32 @@
 <context>
     <name>Core::SimpleContactList::MacWidget</name>
     <message>
-        <location filename="plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="71"/>
+        <location filename="plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="75"/>
         <source>Main Toolbar</source>
         <translation type="unfinished">Hlavní lišta</translation>
     </message>
     <message>
-        <location filename="plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="100"/>
+        <location filename="plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="107"/>
         <source>File</source>
         <translation type="unfinished">Soubor</translation>
     </message>
     <message>
-        <location filename="plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="101"/>
+        <location filename="plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="108"/>
         <source>Accounts</source>
         <translation type="unfinished">Účty</translation>
     </message>
     <message>
-        <location filename="plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="102"/>
+        <location filename="plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="109"/>
         <source>Chats</source>
         <translation type="unfinished">Konverzace</translation>
     </message>
     <message>
-        <location filename="plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="103"/>
+        <location filename="plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="110"/>
         <source>Roster</source>
         <translation type="unfinished">Seznam kontaktů</translation>
     </message>
     <message>
-        <location filename="plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="106"/>
+        <location filename="plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="113"/>
         <source>Set Status Text</source>
         <translation type="unfinished">Nastavit text stavu</translation>
     </message>

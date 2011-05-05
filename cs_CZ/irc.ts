@@ -884,7 +884,7 @@ Please wait a while and try again.</source>
 <context>
     <name>qutim_sdk_0_3::irc::IrcStandartCtpcHandler</name>
     <message numerus="yes">
-        <location filename="protocols/irc/src/ircstandartctpchandler.cpp" line="68"/>
+        <location filename="protocols/irc/src/ircstandartctpchandler.cpp" line="69"/>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
         <translation type="unfinished">
             <numerusform></numerusform>
@@ -893,7 +893,7 @@ Please wait a while and try again.</source>
         </translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircstandartctpchandler.cpp" line="74"/>
+        <location filename="protocols/irc/src/ircstandartctpchandler.cpp" line="75"/>
         <source>Received CTCP-%1 reply from %2: %3</source>
         <translation type="unfinished"></translation>
     </message>

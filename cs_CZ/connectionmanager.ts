@@ -4,22 +4,22 @@
 <context>
     <name>ConnectionManager::ConnectionManager</name>
     <message>
-        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="113"/>
+        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="114"/>
         <source>within %1 seconds</source>
         <translation>za %1 sekund</translation>
     </message>
     <message>
-        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="114"/>
+        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="115"/>
         <source>immediately</source>
         <translation>okamžitě</translation>
     </message>
     <message>
-        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="122"/>
+        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="123"/>
         <source>%1 will be reconnected %2</source>
         <translation>%1 bude znovu připojeno %2</translation>
     </message>
     <message>
-        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="123"/>
+        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="124"/>
         <source>ConnectionManager</source>
         <translation>Správce připojení</translation>
     </message>
@@ -38,9 +38,17 @@
     </message>
 </context>
 <context>
+    <name>Service</name>
+    <message>
+        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="41"/>
+        <source>BearerManager</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Settings</name>
     <message>
-        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="55"/>
+        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="56"/>
         <source>Connection manager</source>
         <translation>Správce připojení</translation>
     </message>

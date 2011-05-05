@@ -233,59 +233,48 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>BehaviorSettings</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/notificationssettings/notifications.ui" line="+14"/>
         <source>Form</source>
-        <translation>Поведение</translation>
+        <translation type="obsolete">Поведение</translation>
     </message>
     <message>
-        <location line="+9"/>
         <source>Timeout, msec:</source>
-        <translation>Интервал, msec:</translation>
+        <translation type="obsolete">Интервал, msec:</translation>
     </message>
     <message>
-        <location line="+13"/>
         <source>5000</source>
-        <translation>5000</translation>
+        <translation type="obsolete">5000</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Animation speed:</source>
-        <translation>Скорост на анимацията:</translation>
+        <translation type="obsolete">Скорост на анимацията:</translation>
     </message>
     <message>
-        <location line="+11"/>
         <source>No Animation</source>
-        <translation>Без анимация</translation>
+        <translation type="obsolete">Без анимация</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Very fast</source>
-        <translation>Много бърза</translation>
+        <translation type="obsolete">Много бърза</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Fast</source>
-        <translation>Бърза</translation>
+        <translation type="obsolete">Бърза</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Normal</source>
-        <translation>Нормална</translation>
+        <translation type="obsolete">Нормална</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Slow</source>
-        <translation>Бавна</translation>
+        <translation type="obsolete">Бавна</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Very slow</source>
-        <translation>Много бавна</translation>
+        <translation type="obsolete">Много бавна</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Custom</source>
-        <translation>Собствена</translation>
+        <translation type="obsolete">Собствена</translation>
     </message>
 </context>
 <context>
@@ -490,7 +479,7 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Изход</translation>
     </message>
     <message>
-        <location line="+87"/>
+        <location line="+82"/>
         <source>Select tags</source>
         <translation>Избор на етикети</translation>
     </message>
@@ -1235,6 +1224,14 @@ p, li { white-space: pre-wrap; }
  Do you want to apply the changes or discard them?</source>
         <translation>Настройките за текущия модул бяха променени. 
  Желаете ли да ги приложите или да бъдат отменени?</translation>
+    </message>
+</context>
+<context>
+    <name>Core::NotificationSettings</name>
+    <message>
+        <location filename="../../qutim-meta/core/src/corelayers/notificationssettings/notificationsettings.cpp" line="+35"/>
+        <source>List of available notifications:</source>
+        <translation>Списък от налични уведомления</translation>
     </message>
 </context>
 <context>
@@ -2323,7 +2320,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Notification</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/notification.cpp" line="+122"/>
+        <location filename="../../qutim-meta/core/libqutim/notification.cpp" line="+110"/>
         <source>Incoming Message</source>
         <translation>Входящо съобщение</translation>
     </message>
@@ -2401,14 +2398,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Notifications</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/notificationssettings/popupbehavior.cpp" line="+40"/>
         <source>User online</source>
-        <translation>Потребител идва на линия</translation>
+        <translation type="obsolete">Потребител идва на линия</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>User offline</source>
-        <translation>Потребител излиза извън линия</translation>
+        <translation type="obsolete">Потребител излиза извън линия</translation>
     </message>
     <message>
         <source>Status changed</source>
@@ -2447,85 +2442,69 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Брой</translation>
     </message>
     <message>
-        <location line="-10"/>
         <source>Incoming Message</source>
-        <translation>Входящо съобщение</translation>
+        <translation type="obsolete">Входящо съобщение</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Outgoing Message</source>
-        <translation>Изходящо съобщение</translation>
+        <translation type="obsolete">Изходящо съобщение</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>qutIM Startup</source>
-        <translation>qutIM е стартиран</translation>
+        <translation type="obsolete">qutIM е стартиран</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Blocked Message</source>
-        <translation>Блокирано съобщение</translation>
+        <translation type="obsolete">Блокирано съобщение</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>User joined chat</source>
-        <translation>Потребител се присъединяване към групов разговор</translation>
+        <translation type="obsolete">Потребител се присъединяване към групов разговор</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>User leaved chat</source>
-        <translation>Потребител напуска групов разговор</translation>
+        <translation type="obsolete">Потребител напуска групов разговор</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Incoming chat message</source>
-        <translation>Входящо съобщение</translation>
+        <translation type="obsolete">Входящо съобщение</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Outgoing chat message</source>
-        <translation>Изходящо съобщение</translation>
+        <translation type="obsolete">Изходящо съобщение</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>File transfer completed</source>
-        <translation>Приключило предаване на  файл(ове)</translation>
+        <translation type="obsolete">Приключило предаване на  файл(ове)</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>User changed status</source>
-        <translation>Потребител променя статуса си</translation>
+        <translation type="obsolete">Потребител променя статуса си</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>User has birthday!</source>
-        <translation>Потребител има рожден ден!</translation>
+        <translation type="obsolete">Потребител има рожден ден!</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>User typing</source>
-        <translation>Потребител пише</translation>
+        <translation type="obsolete">Потребител пише</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>System</source>
-        <translation>Системни</translation>
+        <translation type="obsolete">Системни</translation>
     </message>
     <message>
-        <location line="+5"/>
-        <location filename="../../qutim-meta/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+71"/>
+        <location filename="../../qutim-meta/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+69"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Play sound</source>
-        <translation>Възпроизвеждане на звук</translation>
+        <translation type="obsolete">Възпроизвеждане на звук</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Show popup</source>
-        <translation>Изскачащ прозорец</translation>
+        <translation type="obsolete">Изскачащ прозорец</translation>
     </message>
 </context>
 <context>
@@ -2987,7 +2966,7 @@ p, li { white-space: pre-wrap; }
         <translation>Изглед на формуляра на разговор</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-110"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-105"/>
         <source>ContactList</source>
         <translation>Списък с контакти</translation>
     </message>
@@ -3023,7 +3002,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/notificationssettings/notificationssettings.cpp" line="+13"/>
+        <location filename="../../qutim-meta/core/src/corelayers/notificationssettings/notificationssettings.cpp" line="+51"/>
         <source>Notifications</source>
         <translation>Уведомления</translation>
     </message>
@@ -3398,12 +3377,11 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>SoundTheme</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Filename</source>
-        <translation>Име на файла</translation>
+        <translation type="obsolete">Име на файла</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location filename="../../qutim-meta/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Preview</source>
         <translation>Предварителен преглед</translation>
     </message>
@@ -3413,7 +3391,7 @@ p, li { white-space: pre-wrap; }
         <translation>Тип</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+7"/>
         <source>Play</source>
         <translation>Възпроизвеждане</translation>
     </message>
