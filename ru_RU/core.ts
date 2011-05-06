@@ -2191,23 +2191,23 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::SimpleWidget</name>
     <message>
-        <location filename="../../qutim/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+78"/>
+        <location filename="../../qutim/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+79"/>
         <source>Main Toolbar</source>
         <translation>Главная панель</translation>
     </message>
     <message>
-        <location line="+37"/>
+        <location line="+35"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="-16"/>
         <source>Search contact</source>
         <translation>Найти контакт</translation>
     </message>
     <message>
-        <location line="+35"/>
-        <location line="+201"/>
+        <location line="+45"/>
+        <location line="+196"/>
         <source>Set Status Text</source>
         <translation>Установить текст статуса</translation>
     </message>

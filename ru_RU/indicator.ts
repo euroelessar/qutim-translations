@@ -13,13 +13,11 @@
     <name>Plugin</name>
     <message>
         <location line="+4"/>
-        <location line="+5"/>
         <source>Indicator</source>
         <translation>Индикатор</translation>
     </message>
     <message>
-        <location line="-4"/>
-        <location line="+5"/>
+        <location line="+1"/>
         <source>Ubuntu Indicator applet integration</source>
         <translation>Интеграция в апплет панели GNOME для Ubuntu</translation>
     </message>
@@ -32,7 +30,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../plugins/indicator/src/indicator.cpp" line="-9"/>
+        <location filename="../../plugins/indicator/src/indicator.cpp" line="-4"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
     </message>
