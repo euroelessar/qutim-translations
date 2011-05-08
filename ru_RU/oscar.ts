@@ -219,7 +219,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="+297"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="+298"/>
         <source>Invalid nick or password</source>
         <translation>Неверный ник или пароль</translation>
     </message>
@@ -3507,7 +3507,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="-314"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="-315"/>
         <source>Invalid SNAC header</source>
         <translation>Неверный заголовок SNAC</translation>
     </message>

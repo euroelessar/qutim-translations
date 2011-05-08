@@ -917,63 +917,53 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ChatAppearance</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="+45"/>
         <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+46"/>
         <source>Vasya Pupkin</source>
         <translation>Вася Пупкин</translation>
     </message>
     <message>
         <location line="+11"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+11"/>
         <source>Noname</source>
         <translation>Безымянный</translation>
     </message>
     <message>
-        <location line="+67"/>
-        <location line="+53"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+63"/>
+        <location line="+63"/>
         <location line="+80"/>
         <source>Unable to create chat session</source>
         <translation>Не могу создать сессию чата</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>Preview message</source>
         <translation>Пред. просмотр сообщения</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+7"/>
         <source>Hello!</source>
         <translation>Привет!</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>How are you?</source>
         <translation>Как дела?</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>I am fine!</source>
         <translation>Я в порядке!</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>/me is thinking!</source>
         <translation>/me думает!</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>Vasya Pupkin is reading you mind</source>
         <translation>Васяня Пупкин читает твои мысли</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+17"/>
+        <location line="+17"/>
         <source>Style variant:</source>
         <translation>Варианты стиля:</translation>
     </message>
@@ -4332,7 +4322,6 @@ p, li { white-space: pre-wrap; }
         <translation>Звуки</translation>
     </message>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/qmlchat/quickchatviewfactory.cpp" line="+31"/>
         <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/webkitchat/webkitviewfactory.cpp" line="+18"/>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatform.cpp" line="-4"/>
         <location filename="../../qutim/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatform.cpp" line="-4"/>
@@ -4758,7 +4747,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../qutim/libqutim/status.cpp" line="+145"/>
+        <location filename="../../qutim/libqutim/status.cpp" line="+146"/>
         <source>Online</source>
         <translation>В сети</translation>
     </message>
@@ -5517,14 +5506,12 @@ en</source>
 <context>
     <name>quickChatAppearance</name>
     <message>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.ui" line="+14"/>
         <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/qmlchat/ui_chatappearance.h" line="+57"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location line="+6"/>
-        <location filename="../../qutim/src/corelayers/adiumchat/chatfactories/qmlchat/ui_chatappearance.h" line="+1"/>
+        <location line="+1"/>
         <source>Enable openGL acceleration</source>
         <translation>Задействовать OpenGL ускорение</translation>
     </message>
@@ -5641,7 +5628,7 @@ en</source>
         <translation type="obsolete">Плагин: %1</translation>
     </message>
     <message>
-        <location filename="../../qutim/libqutim/modulemanager.cpp" line="+262"/>
+        <location filename="../../qutim/libqutim/modulemanager.cpp" line="+263"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Не могу загрузить плагин: 

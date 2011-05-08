@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/urlpreview/src/urlpreview.cpp" line="+34"/>
+        <location filename="../../plugins/urlpreview/src/urlpreview.cpp" line="+36"/>
         <source>Alexander Kazarin</source>
         <translation>Казарин Александр</translation>
     </message>
@@ -13,16 +13,22 @@
         <source>Sidorov Aleksey</source>
         <translation>Сидоров Алексей</translation>
     </message>
+    <message>
+        <location line="+4"/>
+        <source>Nicolay Izoderov</source>
+        <translation type="unfinished">Изодёров Николай</translation>
+    </message>
 </context>
 <context>
     <name>Plugin</name>
     <message>
-        <location line="-7"/>
+        <location line="-11"/>
+        <location line="+17"/>
         <source>UrlPreview</source>
         <translation></translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-16"/>
         <source>Preview images directly in the chat window</source>
         <translation>Просмотр картинок в окне чата</translation>
     </message>
@@ -36,6 +42,7 @@
     </message>
     <message>
         <location line="+3"/>
+        <location line="+4"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
     </message>
@@ -48,12 +55,12 @@
         <translation>Предпросмотр URL</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+0"/>
         <source>bytes</source>
         <translation type="unfinished">байт</translation>
     </message>
     <message>
-        <location line="+150"/>
+        <location line="+152"/>
         <source>YouTube video</source>
         <translation type="unfinished">YouTube видео</translation>
     </message>
@@ -81,6 +88,65 @@
     <message>
         <source>Unknown</source>
         <translation type="obsolete">Неизвестно</translation>
+    </message>
+</context>
+<context>
+    <name>UrlPreviewSettingsForm</name>
+    <message>
+        <location filename="../../plugins/urlpreview/src/urlpreviewsettings.ui" line="+14"/>
+        <source>Form</source>
+        <translation>Настройки</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Max filesize</source>
+        <translation type="unfinished">Максимальный размер файла</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Max picture size to preview </source>
+        <translation type="unfinished">Максимаьный размер файла, для загрузки в окно чата </translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source> bytes</source>
+        <translation type="unfinished"> байт</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Height</source>
+        <translation type="unfinished">Высота</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Max height of images preview.</source>
+        <translation type="unfinished">Максимальная высота рисунка для загрузки в окно чата.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <location line="+29"/>
+        <source>px</source>
+        <translation type="unfinished">пиксел</translation>
+    </message>
+    <message>
+        <location line="-10"/>
+        <source>Width</source>
+        <translation type="unfinished">Ширина</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Max width of images preview.</source>
+        <translation type="unfinished">Максимальная ширина рисунка для загрузки в окно чата.</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Images preview</source>
+        <translation type="unfinished">Просмотр рисунков</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>YouTube preview</source>
+        <translation type="unfinished">Просмотр роликов YouTube</translation>
     </message>
 </context>
 <context>
