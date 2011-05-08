@@ -196,7 +196,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="+297"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="+298"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -3317,7 +3317,7 @@
 <context>
     <name>ProtocolError</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="-314"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/connection.cpp" line="-315"/>
         <source>Invalid SNAC header</source>
         <translation>Невалидна SNAC заглавна част</translation>
     </message>

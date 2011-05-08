@@ -690,63 +690,53 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ChatAppearance</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="+45"/>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+46"/>
         <source>Vasya Pupkin</source>
         <translation>Вася Пупкин</translation>
     </message>
     <message>
         <location line="+11"/>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+11"/>
         <source>Noname</source>
         <translation>Безименен</translation>
     </message>
     <message>
-        <location line="+67"/>
-        <location line="+53"/>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+63"/>
+        <location line="+63"/>
         <location line="+80"/>
         <source>Unable to create chat session</source>
         <translation>Невъзможно е създаването на сесия за разговор</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>Preview message</source>
         <translation>Предварителен преглед на съобщението</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+7"/>
         <source>Hello!</source>
         <translation>Здравей!</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>How are you?</source>
         <translation>Как си?</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>I am fine!</source>
         <translation>Бивам!</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>/me is thinking!</source>
         <translation>/me мисли!</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+3"/>
         <source>Vasya Pupkin is reading you mind</source>
         <translation>Вася Пупкин чете мислите ви</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="+17"/>
+        <location line="+17"/>
         <source>Style variant:</source>
         <translation>Вариант на стила:</translation>
     </message>
@@ -1694,23 +1684,23 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::SimpleWidget</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+78"/>
+        <location filename="../../qutim-meta/core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+79"/>
         <source>Main Toolbar</source>
         <translation>Главна лента с инструменти</translation>
     </message>
     <message>
-        <location line="+37"/>
+        <location line="+35"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="-16"/>
         <source>Search contact</source>
         <translation>Търсене на контакт</translation>
     </message>
     <message>
-        <location line="+35"/>
-        <location line="+201"/>
+        <location line="+45"/>
+        <location line="+196"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
@@ -3071,7 +3061,6 @@ p, li { white-space: pre-wrap; }
         <translation>Звуци</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/qmlchat/quickchatviewfactory.cpp" line="+31"/>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/webkitchat/webkitviewfactory.cpp" line="+18"/>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatform.cpp" line="-4"/>
         <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatform.cpp" line="-4"/>
@@ -3444,7 +3433,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/status.cpp" line="+145"/>
+        <location filename="../../qutim-meta/core/libqutim/status.cpp" line="+146"/>
         <source>Online</source>
         <translation>На линия</translation>
     </message>
@@ -4002,14 +3991,12 @@ en</source>
 <context>
     <name>quickChatAppearance</name>
     <message>
-        <location filename="../../qutim-meta/core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.ui" line="+14"/>
         <source>Form</source>
-        <translation>OpenGL конфигуриране</translation>
+        <translation type="obsolete">OpenGL конфигуриране</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Enable openGL acceleration</source>
-        <translation>Включване на OpenGL ускоряването</translation>
+        <translation type="obsolete">Включване на OpenGL ускоряването</translation>
     </message>
 </context>
 <context>
@@ -4094,7 +4081,7 @@ en</source>
 <context>
     <name>qutim_sdk_0_3::ModuleManager</name>
     <message>
-        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+262"/>
+        <location filename="../../qutim-meta/core/libqutim/modulemanager.cpp" line="+263"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Неуспешно зареждане на добавка: 

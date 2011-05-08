@@ -4,16 +4,21 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/urlpreview/src/urlpreview.cpp" line="+34"/>
+        <location filename="../../qutim-meta/plugins/urlpreview/src/urlpreview.cpp" line="+36"/>
         <source>Alexander Kazarin</source>
         <translation>Александър Казарин</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Nicolay Izoderov</source>
+        <translation>Николай Изодеров</translation>
     </message>
     <message>
         <source>Aleksey Sidorov</source>
         <translation type="obsolete">Алексей Сидоров</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="-4"/>
         <source>Sidorov Aleksey</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -22,11 +27,12 @@
     <name>Plugin</name>
     <message>
         <location line="-7"/>
+        <location line="+17"/>
         <source>UrlPreview</source>
         <translation>Предварителен преглед на адреси</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-16"/>
         <source>Preview images directly in the chat window</source>
         <translation>Предварителен преглед на адреси директно в прозореца със съобщения</translation>
     </message>
@@ -40,6 +46,7 @@
     </message>
     <message>
         <location line="+3"/>
+        <location line="+4"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
     </message>
@@ -52,12 +59,12 @@
         <translation>Предварителен преглед на адреси</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+0"/>
         <source>bytes</source>
         <translation>Байта</translation>
     </message>
     <message>
-        <location line="+150"/>
+        <location line="+152"/>
         <source>YouTube video</source>
         <translation>YouTube видео</translation>
     </message>
@@ -85,6 +92,65 @@
     <message>
         <source>Unknown</source>
         <translation type="obsolete">Неизвестен</translation>
+    </message>
+</context>
+<context>
+    <name>UrlPreviewSettingsForm</name>
+    <message>
+        <location filename="../../qutim-meta/plugins/urlpreview/src/urlpreviewsettings.ui" line="+14"/>
+        <source>Form</source>
+        <translation>Настройки</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Max filesize</source>
+        <translation>Максимален размер на файла</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Max picture size to preview </source>
+        <translation>Максимален размер на преглежданото изображение</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source> bytes</source>
+        <translation>Байта</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Height</source>
+        <translation>Височина</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Max height of images preview.</source>
+        <translation>Максимална височина на преглежданите изображения.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <location line="+29"/>
+        <source>px</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location line="-10"/>
+        <source>Width</source>
+        <translation>Ширина</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Max width of images preview.</source>
+        <translation>Максимална ширина на преглежданите изображения.</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Images preview</source>
+        <translation>Предварителен преглед на изображения</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>YouTube preview</source>
+        <translation>Предварителен преглед на YouTube видео</translation>
     </message>
 </context>
 </TS>
