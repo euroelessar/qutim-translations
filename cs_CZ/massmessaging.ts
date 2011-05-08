@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="plugins/massmessaging/src/messaging.cpp" line="17"/>
+        <location filename="plugins/massmessaging/src/messaging.cpp" line="32"/>
         <source>Sidorov Aleksey</source>
         <translation></translation>
     </message>
@@ -63,7 +63,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MassMessaging</name>
     <message>
-        <location filename="plugins/massmessaging/src/messaging.cpp" line="30"/>
+        <location filename="plugins/massmessaging/src/messaging.cpp" line="45"/>
         <source>&amp;Mass Messaging</source>
         <translation>Hro&amp;madné zprávy</translation>
     </message>
@@ -109,12 +109,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="plugins/massmessaging/src/messaging.cpp" line="21"/>
+        <location filename="plugins/massmessaging/src/messaging.cpp" line="36"/>
         <source>MassMessaging</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="plugins/massmessaging/src/messaging.cpp" line="22"/>
+        <location filename="plugins/massmessaging/src/messaging.cpp" line="37"/>
         <source>Simple messaging to contact list</source>
         <translation type="unfinished"></translation>
     </message>
@@ -122,7 +122,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Task</name>
     <message>
-        <location filename="plugins/massmessaging/src/messaging.cpp" line="18"/>
+        <location filename="plugins/massmessaging/src/messaging.cpp" line="33"/>
         <source>Author</source>
         <translation>Autor</translation>
     </message>

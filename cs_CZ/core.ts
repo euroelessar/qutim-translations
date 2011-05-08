@@ -562,57 +562,47 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ChatAppearance</name>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="45"/>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="46"/>
         <source>Vasya Pupkin</source>
         <translation>Jan Novák</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="56"/>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="57"/>
         <source>Noname</source>
         <translation>Franta Vopršálek</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="123"/>
-        <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="176"/>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="120"/>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="200"/>
         <source>Unable to create chat session</source>
         <translation>Nelze vytvořit session konverzace</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="179"/>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="203"/>
         <source>Preview message</source>
         <translation>Náhled zprávy</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="186"/>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="210"/>
         <source>Hello!</source>
         <translation>Ahoj!</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="189"/>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="213"/>
         <source>How are you?</source>
         <translation>Jak se máš?</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="192"/>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="216"/>
         <source>I am fine!</source>
         <translation>Mám se dobře!</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="195"/>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="219"/>
         <source>/me is thinking!</source>
         <translation>/me přemýšlí!</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.cpp" line="198"/>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp" line="222"/>
         <source>Vasya Pupkin is reading you mind</source>
         <translation>Jan Novák čte tvé myšlenky</translation>
@@ -1385,23 +1375,23 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::SimpleContactList::SimpleWidget</name>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="78"/>
+        <location filename="core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="79"/>
         <source>Main Toolbar</source>
         <translation type="unfinished">Hlavní lišta</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="115"/>
+        <location filename="core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="114"/>
         <source>Status</source>
         <translation>Stav</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="125"/>
+        <location filename="core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="98"/>
         <source>Search contact</source>
         <translation>Hledat kontakt</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="160"/>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="361"/>
+        <location filename="core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="143"/>
+        <location filename="core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="339"/>
         <source>Set Status Text</source>
         <translation>Nastavit text stavu</translation>
     </message>
@@ -2573,7 +2563,6 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <translation>Účty</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/quickchatviewfactory.cpp" line="31"/>
         <location filename="core/src/corelayers/adiumchat/chatfactories/webkitchat/webkitviewfactory.cpp" line="18"/>
         <location filename="core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatform.cpp" line="20"/>
         <location filename="core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatform.cpp" line="20"/>
@@ -2938,47 +2927,47 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Status</name>
     <message>
-        <location filename="core/libqutim/status.cpp" line="145"/>
+        <location filename="core/libqutim/status.cpp" line="146"/>
         <source>Online</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="core/libqutim/status.cpp" line="148"/>
+        <location filename="core/libqutim/status.cpp" line="149"/>
         <source>Free for chat</source>
         <translation>Připraven na pokec</translation>
     </message>
     <message>
-        <location filename="core/libqutim/status.cpp" line="151"/>
+        <location filename="core/libqutim/status.cpp" line="152"/>
         <source>Away</source>
         <translation>Pryč</translation>
     </message>
     <message>
-        <location filename="core/libqutim/status.cpp" line="154"/>
+        <location filename="core/libqutim/status.cpp" line="155"/>
         <source>Not available</source>
         <translation>Nepřítomen</translation>
     </message>
     <message>
-        <location filename="core/libqutim/status.cpp" line="157"/>
+        <location filename="core/libqutim/status.cpp" line="158"/>
         <source>Do not disturb</source>
         <translation>Nerušit</translation>
     </message>
     <message>
-        <location filename="core/libqutim/status.cpp" line="160"/>
+        <location filename="core/libqutim/status.cpp" line="161"/>
         <source>Invisible</source>
         <translation>Neviditelný</translation>
     </message>
     <message>
-        <location filename="core/libqutim/status.cpp" line="163"/>
+        <location filename="core/libqutim/status.cpp" line="164"/>
         <source>Offline</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="core/libqutim/status.cpp" line="166"/>
+        <location filename="core/libqutim/status.cpp" line="167"/>
         <source>Connecting</source>
         <translation>Připojování</translation>
     </message>
     <message>
-        <location filename="core/libqutim/status.cpp" line="169"/>
+        <location filename="core/libqutim/status.cpp" line="170"/>
         <source>Unknown</source>
         <translation>Neznámý</translation>
     </message>
@@ -3483,19 +3472,6 @@ en</source>
     </message>
 </context>
 <context>
-    <name>quickChatAppearance</name>
-    <message>
-        <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.ui" line="14"/>
-        <source>Form</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/adiumchat/chatfactories/qmlchat/settings/chatappearance.ui" line="20"/>
-        <source>Enable openGL acceleration</source>
-        <translation>Zapnout openGL akceleraci</translation>
-    </message>
-</context>
-<context>
     <name>qutim_sdk_0_3::ContactSearchRequest</name>
     <message>
         <location filename="core/libqutim/contactsearch.cpp" line="62"/>
@@ -3555,14 +3531,14 @@ en</source>
 <context>
     <name>qutim_sdk_0_3::ModuleManager</name>
     <message>
-        <location filename="core/libqutim/modulemanager.cpp" line="262"/>
+        <location filename="core/libqutim/modulemanager.cpp" line="263"/>
         <source>Could not load plugin: 
  %1</source>
         <translation>Nelze načíst plugin:
  %1</translation>
     </message>
     <message>
-        <location filename="core/libqutim/modulemanager.cpp" line="394"/>
+        <location filename="core/libqutim/modulemanager.cpp" line="395"/>
         <source>Could not init plugin: 
  %1</source>
         <translation>Nelze inicializovat plugin:

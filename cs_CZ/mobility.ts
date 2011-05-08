@@ -4,7 +4,7 @@
 <context>
     <name>Service</name>
     <message>
-        <location filename="plugins/mobility/src/bearermanager/bearermanager.cpp" line="8"/>
+        <location filename="plugins/mobility/src/bearermanager/bearermanager.cpp" line="33"/>
         <source>BearerManager</source>
         <translation type="unfinished"></translation>
     </message>

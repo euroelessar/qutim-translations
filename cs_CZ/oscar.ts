@@ -196,172 +196,172 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="297"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="298"/>
         <source>Invalid nick or password</source>
         <translation>Chybná přezdívka nebo heslo</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="299"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="300"/>
         <source>Service temporarily unavailable</source>
         <translation>Služba dočasně nedostupná</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="301"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="302"/>
         <source>Incorrect nick or password</source>
         <translation>Nesprávná přezdívka nebo heslo</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="303"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="304"/>
         <source>Mismatch nick or password</source>
         <translation>Záměna přezdívky nebo hesla</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="305"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="306"/>
         <source>Internal client error (bad input to authorizer)</source>
         <translation type="unfinished">Vnitřní chyba klienta (špatný vstup autorizace)</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="307"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="308"/>
         <source>Invalid account</source>
         <translation>Neplatný účet</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="309"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="310"/>
         <source>Deleted account</source>
         <translation>Smazaný účet</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="311"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="312"/>
         <source>Expired account</source>
         <translation>Vypršený účet</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="313"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="314"/>
         <source>No access to database</source>
         <translation type="unfinished">Není přístupná databáze</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="315"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="316"/>
         <source>No access to resolver</source>
         <translation type="unfinished">Není možný synchronní přenos</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="317"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="318"/>
         <source>Invalid database fields</source>
         <translation>Chybná databázová pole</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="319"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="320"/>
         <source>Bad database status</source>
         <translation>Chybný stav databáze</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="321"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="322"/>
         <source>Bad resolver status</source>
         <translation>Chybný stav synchronizace</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="323"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="324"/>
         <source>Internal error</source>
         <translation>Vnitřní chyba</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="325"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="326"/>
         <source>Service temporarily offline</source>
         <translation>Služba dočasně offline</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="327"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="328"/>
         <source>Suspended account</source>
         <translation>Deaktivovaný účet</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="329"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="330"/>
         <source>DB send error</source>
         <translation type="unfinished">Chybná odpověď databáze</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="331"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="332"/>
         <source>DB link error</source>
         <translation type="unfinished">Chyba spojení s databází</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="333"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="334"/>
         <source>Reservation map error</source>
         <translation type="unfinished">Chyba rezervace mapování</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="335"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="336"/>
         <source>Reservation link error</source>
         <translation type="unfinished">Chyba rezervace spojení</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="337"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="338"/>
         <source>The users num connected from this IP has reached the maximum</source>
         <translation>Počet připojených uživatelů z této IP adresy překročilo maximum</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="339"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="340"/>
         <source>The users num connected from this IP has reached the maximum (reservation)</source>
         <translation>Počet připojených uživatelů z této IP adresy překročilo maximum (rezervace)</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="341"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="342"/>
         <source>Rate limit exceeded (reservation). Please try to reconnect in a few minutes</source>
         <translation>Limit požadavků byl překročen (rezervace). Zkuste se znovu připojit za pár minut</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="343"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="344"/>
         <source>User too heavily warned</source>
         <translation type="unfinished">Uživatel má příliš mnoho varování</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="345"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="346"/>
         <source>Reservation timeout</source>
         <translation>Vypršel časový limit vyhrazení</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="347"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="348"/>
         <source>You are using an older version of ICQ. Upgrade required</source>
         <translation>Používáte starší verzi protokolu ICQ. Je vyžadována aktualizace</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="349"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="350"/>
         <source>You are using an older version of ICQ. Upgrade recommended</source>
         <translation>Používáte starší verzi protokolu ICQ. Je doporučena aktualizace</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="351"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="352"/>
         <source>Rate limit exceeded. Please try to reconnect in a few minutes</source>
         <translation type="unfinished">Limit požadavků byl překročen. Zkuste se znovu připojit za pár minut</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="353"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="354"/>
         <source>Can&apos;t register on the ICQ network. Reconnect in a few minutes</source>
         <translation type="unfinished">Nelze se registrovat do ICQ sítě. Zkuste to za pár minut</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="355"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="356"/>
         <source>Invalid SecurID</source>
         <translation type="unfinished">Neplatné SecurID</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="357"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="358"/>
         <source>Account suspended because of your age (age &lt; 13)</source>
         <translation type="unfinished">Účet byl deaktivován kvůli vašemu věku (mladší 13ti let)</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="359"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="360"/>
         <source>Another client is loggin with this uin</source>
         <translation type="unfinished">Jiný klient je přihlášen s tímto UIN</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="361"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="362"/>
         <source>No IP addresses were found for the host</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/connection.cpp" line="365"/>
+        <location filename="protocols/oscar/src/connection.cpp" line="366"/>
         <source>Unknown error</source>
         <translation type="unfinished">Neznámá chyba</translation>
     </message>
