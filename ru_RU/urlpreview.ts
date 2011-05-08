@@ -126,7 +126,7 @@
         <location line="+3"/>
         <location line="+29"/>
         <source>px</source>
-        <translation type="unfinished">пиксел</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="-10"/>
