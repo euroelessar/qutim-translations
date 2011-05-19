@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/weather/src/weather.cpp" line="+26"/>
+        <location filename="../../qutim/plugins/weather/src/weather.cpp" line="+26"/>
         <source>Nikita Belov</source>
         <translation>Никита Белов</translation>
     </message>
@@ -33,7 +33,7 @@
 <context>
     <name>WSettingsClass</name>
     <message>
-        <location filename="../../qutim-meta/plugins/weather/src/wsettings.ui" line="+14"/>
+        <location filename="../../qutim/plugins/weather/src/wsettings.ui" line="+14"/>
         <location line="+62"/>
         <source>Settings</source>
         <translation>Настройки</translation>
@@ -118,12 +118,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Weather</name>
     <message>
-        <location filename="../../qutim-meta/plugins/weather/src/waccount.cpp" line="+20"/>
+        <location filename="../../qutim/plugins/weather/src/waccount.cpp" line="+20"/>
         <source>Weather</source>
         <translation>Времето</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/plugins/weather/src/wsettings.cpp" line="+101"/>
+        <location filename="../../qutim/plugins/weather/src/wsettings.cpp" line="+101"/>
         <source>Enter here city&apos;s code</source>
         <translation>Тук се въвежда кода на града</translation>
     </message>
@@ -153,7 +153,7 @@ p, li { white-space: pre-wrap; }
         <translation>Открито: %1</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/plugins/weather/src/weather.cpp" line="+8"/>
+        <location filename="../../qutim/plugins/weather/src/weather.cpp" line="+8"/>
         <source>Get weather</source>
         <translation>Проверка на времето</translation>
     </message>

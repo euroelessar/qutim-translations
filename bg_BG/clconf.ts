@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/clconf/src/clconfplugin.cpp" line="+29"/>
+        <location filename="../../qutim/plugins/clconf/src/clconfplugin.cpp" line="+29"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>ClConf</name>
     <message>
-        <location filename="../../qutim-meta/plugins/clconf/src/proxycontact.cpp" line="+41"/>
+        <location filename="../../qutim/plugins/clconf/src/proxycontact.cpp" line="+41"/>
         <source>Conferences</source>
         <translation>Конференции</translation>
     </message>
@@ -20,7 +20,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/plugins/clconf/src/clconfplugin.cpp" line="+3"/>
+        <location filename="../../qutim/plugins/clconf/src/clconfplugin.cpp" line="+3"/>
         <source>Conferences in contact list</source>
         <translation>Конференции в списъка с контакти</translation>
     </message>

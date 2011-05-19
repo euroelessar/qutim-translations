@@ -4,7 +4,7 @@
 <context>
     <name>AspellSettings</name>
     <message>
-        <location filename="../../qutim-meta/plugins/aspeller/src/aspellsettings.cpp" line="+11"/>
+        <location filename="../../qutim/plugins/aspeller/src/aspellsettings.cpp" line="+11"/>
         <source>Language</source>
         <translation>Език</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/aspeller/src/aspellplugin.cpp" line="+26"/>
+        <location filename="../../qutim/plugins/aspeller/src/aspellplugin.cpp" line="+26"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -40,7 +40,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/plugins/aspeller/src/aspellchecker.cpp" line="+84"/>
+        <location filename="../../qutim/plugins/aspeller/src/aspellchecker.cpp" line="+84"/>
         <source>Spell checker</source>
         <translation>Проверка на правописа</translation>
     </message>
@@ -156,7 +156,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../qutim-meta/plugins/aspeller/src/aspellplugin.cpp" line="-9"/>
+        <location filename="../../qutim/plugins/aspeller/src/aspellplugin.cpp" line="-9"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
     </message>

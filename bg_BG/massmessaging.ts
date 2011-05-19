@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/massmessaging/src/messaging.cpp" line="+32"/>
+        <location filename="../../qutim/plugins/massmessaging/src/messaging.cpp" line="+32"/>
         <source>Sidorov Aleksey</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -16,7 +16,7 @@
 <context>
     <name>Dialog</name>
     <message>
-        <location filename="../../qutim-meta/plugins/massmessaging/src/messagingdialog.ui" line="+14"/>
+        <location filename="../../qutim/plugins/massmessaging/src/messagingdialog.ui" line="+14"/>
         <source>Multiply Sending</source>
         <translation>Многократно изпращане</translation>
     </message>
@@ -80,7 +80,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MassMessaging</name>
     <message>
-        <location filename="../../qutim-meta/plugins/massmessaging/src/messaging.cpp" line="+13"/>
+        <location filename="../../qutim/plugins/massmessaging/src/messaging.cpp" line="+13"/>
         <source>&amp;Mass Messaging</source>
         <translation>&amp;Многократно изпращане</translation>
     </message>
@@ -88,7 +88,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MassMessaging::MessagingDialog</name>
     <message>
-        <location filename="../../qutim-meta/plugins/massmessaging/src/messagingdialog.cpp" line="+54"/>
+        <location filename="../../qutim/plugins/massmessaging/src/messagingdialog.cpp" line="+54"/>
         <source>Stop</source>
         <translation>Спиране</translation>
     </message>
@@ -126,7 +126,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/plugins/massmessaging/src/messaging.cpp" line="-9"/>
+        <location filename="../../qutim/plugins/massmessaging/src/messaging.cpp" line="-9"/>
         <source>MassMessaging</source>
         <translation>Многократно изпращане</translation>
     </message>

@@ -4,7 +4,7 @@
 <context>
     <name>AntiBoss</name>
     <message>
-        <location filename="../../qutim-meta/plugins/antiboss/src/antibossplugin.cpp" line="+38"/>
+        <location filename="../../qutim/plugins/antiboss/src/antibossplugin.cpp" line="+38"/>
         <source>Show/hide all windows</source>
         <translation>Скриване/Показване на всички прозорци</translation>
     </message>

@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/histman/src/historymanagerplugin.cpp" line="+26"/>
+        <location filename="../../qutim/plugins/histman/src/historymanagerplugin.cpp" line="+26"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>ChooseClientPage</name>
     <message>
-        <location filename="../../qutim-meta/plugins/histman/src/chooseclientpage.ui" line="+14"/>
+        <location filename="../../qutim/plugins/histman/src/chooseclientpage.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Магьосник</translation>
     </message>
@@ -20,7 +20,7 @@
 <context>
     <name>ChooseOrDumpPage</name>
     <message>
-        <location filename="../../qutim-meta/plugins/histman/src/chooseordumppage.ui" line="+14"/>
+        <location filename="../../qutim/plugins/histman/src/chooseordumppage.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Магьосник</translation>
     </message>
@@ -38,7 +38,7 @@
 <context>
     <name>ClientConfigPage</name>
     <message>
-        <location filename="../../qutim-meta/plugins/histman/src/clientconfigpage.ui" line="+14"/>
+        <location filename="../../qutim/plugins/histman/src/clientconfigpage.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Магьосник</translation>
     </message>
@@ -58,13 +58,13 @@
         <translation>Кодировка:</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/plugins/histman/src/clients/qipinfium.cpp" line="+180"/>
+        <location filename="../../qutim/plugins/histman/src/clients/qipinfium.cpp" line="+180"/>
         <source>Select accounts for each protocol in the list.</source>
         <translation>Изберете сметки за всеки протокол в списъка.</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/plugins/histman/src/clients/gajim.cpp" line="+99"/>
-        <location filename="../../qutim-meta/plugins/histman/src/clients/psi.cpp" line="+162"/>
+        <location filename="../../qutim/plugins/histman/src/clients/gajim.cpp" line="+99"/>
+        <location filename="../../qutim/plugins/histman/src/clients/psi.cpp" line="+162"/>
         <source>Select your Jabber account.</source>
         <translation>Изберете Jabber сметка.</translation>
     </message>
@@ -72,7 +72,7 @@
 <context>
     <name>DumpHistoryPage</name>
     <message>
-        <location filename="../../qutim-meta/plugins/histman/src/dumphistorypage.ui" line="+14"/>
+        <location filename="../../qutim/plugins/histman/src/dumphistorypage.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Магьосник</translation>
     </message>
@@ -105,7 +105,7 @@
 <context>
     <name>HistoryManager::ChooseClientPage</name>
     <message>
-        <location filename="../../qutim-meta/plugins/histman/src/chooseclientpage.cpp" line="+45"/>
+        <location filename="../../qutim/plugins/histman/src/chooseclientpage.cpp" line="+45"/>
         <source>Client</source>
         <translation>Клиент</translation>
     </message>
@@ -119,7 +119,7 @@
 <context>
     <name>HistoryManager::ChooseOrDumpPage</name>
     <message>
-        <location filename="../../qutim-meta/plugins/histman/src/chooseordumppage.cpp" line="+27"/>
+        <location filename="../../qutim/plugins/histman/src/chooseordumppage.cpp" line="+27"/>
         <source>What to do next?</source>
         <comment>Dump history or choose next client</comment>
         <translation>Вашето следващо действие?</translation>
@@ -133,7 +133,7 @@
 <context>
     <name>HistoryManager::ClientConfigPage</name>
     <message>
-        <location filename="../../qutim-meta/plugins/histman/src/clientconfigpage.cpp" line="+45"/>
+        <location filename="../../qutim/plugins/histman/src/clientconfigpage.cpp" line="+45"/>
         <source>Configuration</source>
         <translation>Конфигурация</translation>
     </message>
@@ -162,7 +162,7 @@
 <context>
     <name>HistoryManager::DumpHistoryPage</name>
     <message>
-        <location filename="../../qutim-meta/plugins/histman/src/dumphistorypage.cpp" line="+58"/>
+        <location filename="../../qutim/plugins/histman/src/dumphistorypage.cpp" line="+58"/>
         <source>Dumping</source>
         <translation>Записване</translation>
     </message>
@@ -185,7 +185,7 @@
 <context>
     <name>HistoryManager::HistoryManagerWindow</name>
     <message>
-        <location filename="../../qutim-meta/plugins/histman/src/historymanagerwindow.cpp" line="+75"/>
+        <location filename="../../qutim/plugins/histman/src/historymanagerwindow.cpp" line="+75"/>
         <location line="+202"/>
         <source>History manager</source>
         <translation>Управление на хронологията</translation>
@@ -199,7 +199,7 @@
 <context>
     <name>HistoryManager::ImportHistoryPage</name>
     <message>
-        <location filename="../../qutim-meta/plugins/histman/src/importhistorypage.cpp" line="+44"/>
+        <location filename="../../qutim/plugins/histman/src/importhistorypage.cpp" line="+44"/>
         <source>Loading</source>
         <translation>Зареждане</translation>
     </message>
@@ -228,7 +228,7 @@
 <context>
     <name>HistoryManagerWindow</name>
     <message>
-        <location filename="../../qutim-meta/plugins/histman/src/historymanagerwindow.ui" line="+16"/>
+        <location filename="../../qutim/plugins/histman/src/historymanagerwindow.ui" line="+16"/>
         <source>Form</source>
         <translation></translation>
     </message>
@@ -236,7 +236,7 @@
 <context>
     <name>ImportHistoryPage</name>
     <message>
-        <location filename="../../qutim-meta/plugins/histman/src/importhistorypage.ui" line="+14"/>
+        <location filename="../../qutim/plugins/histman/src/importhistorypage.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Магьосник</translation>
     </message>
@@ -244,7 +244,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/plugins/histman/src/historymanagerplugin.cpp" line="+3"/>
+        <location filename="../../qutim/plugins/histman/src/historymanagerplugin.cpp" line="+3"/>
         <source>HistMan</source>
         <translation>Управление на хронологията</translation>
     </message>

@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/urlpreview/src/urlpreview.cpp" line="+36"/>
+        <location filename="../../qutim/plugins/urlpreview/src/urlpreview.cpp" line="+36"/>
         <source>Alexander Kazarin</source>
         <translation>Александър Казарин</translation>
     </message>
@@ -54,7 +54,7 @@
 <context>
     <name>UrlPreview::UrlHandler</name>
     <message>
-        <location filename="../../qutim-meta/plugins/urlpreview/src/messagehandler.cpp" line="+54"/>
+        <location filename="../../qutim/plugins/urlpreview/src/messagehandler.cpp" line="+54"/>
         <source>URL Preview</source>
         <translation>Предварителен преглед на адреси</translation>
     </message>
@@ -97,7 +97,7 @@
 <context>
     <name>UrlPreviewSettingsForm</name>
     <message>
-        <location filename="../../qutim-meta/plugins/urlpreview/src/urlpreviewsettings.ui" line="+14"/>
+        <location filename="../../qutim/plugins/urlpreview/src/urlpreviewsettings.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>

@@ -4,7 +4,7 @@
 <context>
     <name>Antispam</name>
     <message>
-        <location filename="../../qutim-meta/plugins/antispam/src/antispamplugin.cpp" line="+18"/>
+        <location filename="../../qutim/plugins/antispam/src/antispamplugin.cpp" line="+18"/>
         <source>Antispam</source>
         <translation>Защита от SPAM</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>Antispam::Handler</name>
     <message>
-        <location filename="../../qutim-meta/plugins/antispam/src/handler.cpp" line="+41"/>
+        <location filename="../../qutim/plugins/antispam/src/handler.cpp" line="+41"/>
         <source>Beer, wine, vodka, champagne: after which drink in this sequence I should stop?</source>
         <translation>Бира, вино, водка, шампанско: след кое питие от поредицата трябва да спра?</translation>
     </message>
@@ -30,7 +30,7 @@
 <context>
     <name>Antispam::SettingsWidget</name>
     <message>
-        <location filename="../../qutim-meta/plugins/antispam/src/settingswidget.ui" line="+14"/>
+        <location filename="../../qutim/plugins/antispam/src/settingswidget.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -60,7 +60,7 @@
         <translation>Съобщение при верен отговор:</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/plugins/antispam/src/settingswidget.cpp" line="+47"/>
+        <location filename="../../qutim/plugins/antispam/src/settingswidget.cpp" line="+47"/>
         <source>Beer, wine, vodka, champagne: after which drink in this sequence I should stop?</source>
         <translation>Бира, вино, водка, шампанско: след кое питие от поредицата трябва да спра?</translation>
     </message>
@@ -78,7 +78,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/antispam/src/antispamplugin.cpp" line="+7"/>
+        <location filename="../../qutim/plugins/antispam/src/antispamplugin.cpp" line="+7"/>
         <source>Sidorov Aleksey</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -103,7 +103,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../qutim-meta/plugins/antispam/src/handler.cpp" line="+37"/>
+        <location filename="../../qutim/plugins/antispam/src/handler.cpp" line="+37"/>
         <source>Message from %1 blocked  on suspicion of spam.</source>
         <translation>Блокирано бе съобщение от %1 по подозрение, че е SPAM.</translation>
     </message>
@@ -111,7 +111,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../qutim-meta/plugins/antispam/src/antispamplugin.cpp" line="-4"/>
+        <location filename="../../qutim/plugins/antispam/src/antispamplugin.cpp" line="-4"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>

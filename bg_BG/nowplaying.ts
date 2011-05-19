@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/nowplaying/src/nowplaying.cpp" line="+33"/>
+        <location filename="../../qutim/plugins/nowplaying/src/nowplaying.cpp" line="+33"/>
         <source>Kazlauskas Ian</source>
         <translation>Ян Казлаускас</translation>
     </message>
@@ -22,7 +22,7 @@
 <context>
     <name>IcqSettings</name>
     <message>
-        <location filename="../../qutim-meta/plugins/nowplaying/src/icqsettings.ui" line="+14"/>
+        <location filename="../../qutim/plugins/nowplaying/src/icqsettings.ui" line="+14"/>
         <source>ICQ</source>
         <translation>ICQ</translation>
     </message>
@@ -92,7 +92,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>JabberSettings</name>
     <message>
-        <location filename="../../qutim-meta/plugins/nowplaying/src/jabbersettings.ui" line="+14"/>
+        <location filename="../../qutim/plugins/nowplaying/src/jabbersettings.ui" line="+14"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
@@ -150,7 +150,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>NowPlaying</name>
     <message>
-        <location filename="../../qutim-meta/plugins/nowplaying/src/nowplaying.cpp" line="+39"/>
+        <location filename="../../qutim/plugins/nowplaying/src/nowplaying.cpp" line="+39"/>
         <source>Now Playing</source>
         <translation>В момента слушам</translation>
     </message>
@@ -168,7 +168,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>NowPlayingSettings</name>
     <message>
-        <location filename="../../qutim-meta/plugins/nowplaying/src/nowplayingsettings.ui" line="+17"/>
+        <location filename="../../qutim/plugins/nowplaying/src/nowplayingsettings.ui" line="+17"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -216,7 +216,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/plugins/nowplaying/src/nowplaying.cpp" line="-236"/>
+        <location filename="../../qutim/plugins/nowplaying/src/nowplaying.cpp" line="-236"/>
         <source>Now Playing</source>
         <translation>В момента слушам</translation>
     </message>
@@ -249,7 +249,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::nowplaying::SettingsUI</name>
     <message>
-        <location filename="../../qutim-meta/plugins/nowplaying/src/settingsui.cpp" line="+53"/>
+        <location filename="../../qutim/plugins/nowplaying/src/settingsui.cpp" line="+53"/>
         <source>No player</source>
         <translation>Без плейър</translation>
     </message>

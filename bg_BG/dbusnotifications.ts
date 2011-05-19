@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/dbusnotifications/src/dplugin.cpp" line="+18"/>
+        <location filename="../../qutim/plugins/dbusnotifications/src/dplugin.cpp" line="+18"/>
         <source>Sidorov Aleksey</source>
         <translation>Алексей Сидоров</translation>
     </message>
