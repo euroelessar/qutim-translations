@@ -77,12 +77,12 @@
     <message>
         <location filename="../../qutim/plugins/olddelegate/contactlistitemdelegate.cpp" line="-22"/>
         <source>Old contact delegate</source>
-        <translation>Остарялото изобразяване на контакти</translation>
+        <translation>Остарял изглед на контактите</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Port of contact list delegate from 0.2</source>
-        <translation>Порт на изобразяването на контакти използвано в 0.2</translation>
+        <translation>Порт на изгледа на контакти използван в 0.2</translation>
     </message>
 </context>
 </TS>

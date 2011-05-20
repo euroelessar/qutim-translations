@@ -4085,7 +4085,7 @@ en</source>
 <context>
     <name>qutim_sdk_0_3::FileTransferJob</name>
     <message>
-        <location filename="../../qutim/core/libqutim/filetransfer.cpp" line="+310"/>
+        <location filename="../../qutim/core/libqutim/filetransfer.cpp" line="+321"/>
         <source>Initiation</source>
         <translation>Иницииране</translation>
     </message>
@@ -4134,14 +4134,13 @@ en</source>
 <context>
     <name>qutim_sdk_0_3::ModuleManager</name>
     <message>
-        <location filename="../../qutim/core/libqutim/modulemanager.cpp" line="+263"/>
         <source>Could not load plugin: 
  %1</source>
-        <translation>Неуспешно зареждане на добавка: 
+        <translation type="obsolete">Неуспешно зареждане на добавка: 
  %1</translation>
     </message>
     <message>
-        <location line="+132"/>
+        <location filename="../../qutim/core/libqutim/modulemanager.cpp" line="+407"/>
         <source>Could not init plugin: 
  %1</source>
         <translation>Неуспешно инициализиране на добавка: 
