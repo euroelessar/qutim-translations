@@ -168,7 +168,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="+47"/>
+        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="+48"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>

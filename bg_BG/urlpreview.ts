@@ -27,12 +27,12 @@
     <name>Plugin</name>
     <message>
         <location line="-7"/>
-        <location line="+17"/>
+        <location line="+20"/>
         <source>UrlPreview</source>
         <translation>Предварителен преглед на адреси</translation>
     </message>
     <message>
-        <location line="-16"/>
+        <location line="-19"/>
         <source>Preview images directly in the chat window</source>
         <translation>Предварителен преглед на адреси директно в прозореца със съобщения</translation>
     </message>
