@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarod.cpp" line="+49"/>
+        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarod.cpp" line="+49"/>
         <source>Sidorov Aleksey</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -77,7 +77,7 @@
 <context>
     <name>YandexNarodAuthorizator</name>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="+82"/>
+        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="+82"/>
         <source>Has no login or password</source>
         <translation>Липсват потребителско име и парола</translation>
     </message>
@@ -110,7 +110,7 @@
 <context>
     <name>YandexNarodFactory</name>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarod.cpp" line="+148"/>
+        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarod.cpp" line="+148"/>
         <source>Yandex.Narod</source>
         <translation>Yandex.Narod</translation>
     </message>
@@ -118,7 +118,7 @@
 <context>
     <name>YandexNarodManager</name>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarodmanage.cpp" line="+25"/>
+        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarodmanage.cpp" line="+25"/>
         <source>Yandex.Narod file manager</source>
         <translation>Yandex.Narod файлов организатор</translation>
     </message>
@@ -126,7 +126,7 @@
 <context>
     <name>YandexNarodNetMan</name>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarodnetman.cpp" line="+141"/>
+        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarodnetman.cpp" line="+141"/>
         <source>Authorizing...</source>
         <translation>Удостоверяване...</translation>
     </message>
@@ -134,7 +134,7 @@
 <context>
     <name>YandexNarodSettingsClass</name>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarodsettings.ui" line="+14"/>
+        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarodsettings.ui" line="+14"/>
         <location line="+16"/>
         <source>Settings</source>
         <translation>Настройки</translation>
@@ -241,7 +241,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>YandexNarodUploadJob</name>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="+126"/>
+        <location filename="../../qutim/plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="+126"/>
         <source>Authorizing...</source>
         <translation>Удостоверяване...</translation>
     </message>
@@ -267,7 +267,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>requestAuthDialogClass</name>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/requestauthdialog.ui" line="+26"/>
+        <location filename="../../qutim/plugins/yandexnarod/src/requestauthdialog.ui" line="+26"/>
         <source>Authorization</source>
         <translation>Удостоверяване</translation>
     </message>
@@ -322,7 +322,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>yandexnarodManageClass</name>
     <message>
-        <location filename="../../qutim-meta/plugins/yandexnarod/src/yandexnarodmanage.ui" line="+20"/>
+        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarodmanage.ui" line="+20"/>
         <source>Form</source>
         <translation>От</translation>
     </message>

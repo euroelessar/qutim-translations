@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/floaties/src/floaties.cpp" line="+28"/>
+        <location filename="../../qutim/plugins/floaties/src/floaties.cpp" line="+28"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>

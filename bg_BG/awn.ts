@@ -4,7 +4,7 @@
 <context>
     <name>AWNService</name>
     <message>
-        <location filename="../../qutim-meta/plugins/awn/src/awnservice.cpp" line="+273"/>
+        <location filename="../../qutim/plugins/awn/src/awnservice.cpp" line="+273"/>
         <source>Show/Hide</source>
         <translation>Показване/Скриване</translation>
     </message>
@@ -32,7 +32,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/awn/src/awn.cpp" line="+27"/>
+        <location filename="../../qutim/plugins/awn/src/awn.cpp" line="+27"/>
         <source>Stanislav (proDOOMman) Kosolapov</source>
         <translation>Станислав (proDOOMman) Косолапов</translation>
     </message>

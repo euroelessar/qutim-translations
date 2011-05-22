@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/protocols/astral/src/astralplugin.cpp" line="+33"/>
+        <location filename="../../qutim/protocols/astral/src/astralplugin.cpp" line="+33"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>

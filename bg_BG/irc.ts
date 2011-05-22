@@ -4,7 +4,7 @@
 <context>
     <name>AddAccountForm</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ui/addaccountform.ui" line="+14"/>
+        <location filename="../../qutim/protocols/irc/src/ui/addaccountform.ui" line="+14"/>
         <source>AddAccountForm</source>
         <translation>Добавяне на сметка</translation>
     </message>
@@ -62,7 +62,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircplugin.cpp" line="+34"/>
+        <location filename="../../qutim/protocols/irc/src/ircplugin.cpp" line="+34"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
     </message>
@@ -70,7 +70,7 @@
 <context>
     <name>EditNickForm</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ui/editnickform.ui" line="+14"/>
+        <location filename="../../qutim/protocols/irc/src/ui/editnickform.ui" line="+14"/>
         <source>Form</source>
         <translation>Редактиране на псевдоним</translation>
     </message>
@@ -388,7 +388,7 @@
 <context>
     <name>IRC</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircprotocol.cpp" line="+88"/>
+        <location filename="../../qutim/protocols/irc/src/ircprotocol.cpp" line="+88"/>
         <source>Show console...</source>
         <translation>Показване на конзолата...</translation>
     </message>
@@ -398,7 +398,7 @@
         <translation>Търсене на канал...</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircgroupchatmanager.cpp" line="+63"/>
+        <location filename="../../qutim/protocols/irc/src/ircgroupchatmanager.cpp" line="+63"/>
         <source>Channel</source>
         <translation>Канал</translation>
     </message>
@@ -421,7 +421,7 @@
 <context>
     <name>IrcChannel</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="+374"/>
+        <location filename="../../qutim/protocols/irc/src/ircchannel.cpp" line="+374"/>
         <source>%1 gives channel operator privileges to %2.</source>
         <translation>%1 даде операторски права в канала на %2.</translation>
     </message>
@@ -454,7 +454,7 @@
 <context>
     <name>IrcChannelListForm</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ui/ircchannellist.ui" line="+14"/>
+        <location filename="../../qutim/protocols/irc/src/ui/ircchannellist.ui" line="+14"/>
         <source>Form</source>
         <translation>Канали</translation>
     </message>
@@ -462,7 +462,7 @@
 <context>
     <name>IrcConsoleForm</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ui/console.ui" line="+14"/>
+        <location filename="../../qutim/protocols/irc/src/ui/console.ui" line="+14"/>
         <source>IRC Server Console</source>
         <translation>Конзола на IRC сървъра</translation>
     </message>
@@ -470,7 +470,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircplugin.cpp" line="-3"/>
+        <location filename="../../qutim/protocols/irc/src/ircplugin.cpp" line="-3"/>
         <location line="+6"/>
         <source>IRC</source>
         <translation>IRC</translation>
@@ -505,7 +505,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/irccommandalias.cpp" line="+111"/>
+        <location filename="../../qutim/protocols/irc/src/irccommandalias.cpp" line="+111"/>
         <source>Not enough parameters for command %1</source>
         <translation>Липсват достатъчно параметри за командата %1</translation>
     </message>
@@ -513,7 +513,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircprotocol.cpp" line="-31"/>
+        <location filename="../../qutim/protocols/irc/src/ircprotocol.cpp" line="-31"/>
         <source>User information</source>
         <translation>Информация за потребителя</translation>
     </message>
@@ -526,7 +526,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircplugin.cpp" line="-7"/>
+        <location filename="../../qutim/protocols/irc/src/ircplugin.cpp" line="-7"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -534,7 +534,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::ChannelsModel</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ui/ircchannellist.cpp" line="+81"/>
+        <location filename="../../qutim/protocols/irc/src/ui/ircchannellist.cpp" line="+81"/>
         <source>Channel</source>
         <translation>Канал</translation>
     </message>
@@ -552,7 +552,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcAccount</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircaccount.cpp" line="+73"/>
+        <location filename="../../qutim/protocols/irc/src/ircaccount.cpp" line="+73"/>
         <source>Away</source>
         <translation>Отсъствам</translation>
     </message>
@@ -560,7 +560,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcChannel</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="-208"/>
+        <location filename="../../qutim/protocols/irc/src/ircchannel.cpp" line="-208"/>
         <source>You are now known as %1</source>
         <translation>В момента се подвизавате като %1</translation>
     </message>
@@ -628,7 +628,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcChannelListForm</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ui/ircchannellist.cpp" line="+93"/>
+        <location filename="../../qutim/protocols/irc/src/ui/ircchannellist.cpp" line="+93"/>
         <source>Fetching channels list...</source>
         <translation>Изтегляне на списъка с канали...</translation>
     </message>
@@ -646,7 +646,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcCommandAlias</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/irccommandalias.cpp" line="+89"/>
+        <location filename="../../qutim/protocols/irc/src/irccommandalias.cpp" line="+89"/>
         <source>Kick / Ban</source>
         <translation>Изритване/Забрана</translation>
     </message>
@@ -866,7 +866,7 @@
         <translation type="obsolete">Отнемане на глас</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircconnection.cpp" line="+147"/>
+        <location filename="../../qutim/protocols/irc/src/ircconnection.cpp" line="+147"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
     </message>
@@ -1003,7 +1003,7 @@ Please wait a while and try again.</source>
 <context>
     <name>qutim_sdk_0_3::irc::IrcJoinLeftActionGenerator</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircchannel.cpp" line="-310"/>
+        <location filename="../../qutim/protocols/irc/src/ircchannel.cpp" line="-310"/>
         <source>Leave the channel</source>
         <translation>Напускане на канала</translation>
     </message>
@@ -1016,7 +1016,7 @@ Please wait a while and try again.</source>
 <context>
     <name>qutim_sdk_0_3::irc::IrcProtocol</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircprotocol.cpp" line="+2"/>
+        <location filename="../../qutim/protocols/irc/src/ircprotocol.cpp" line="+2"/>
         <source>Auto-join</source>
         <translation>Автоматично присъединяване</translation>
     </message>
@@ -1024,7 +1024,7 @@ Please wait a while and try again.</source>
 <context>
     <name>qutim_sdk_0_3::irc::IrcStandartCtpcHandler</name>
     <message numerus="yes">
-        <location filename="../../qutim-meta/protocols/irc/src/ircstandartctpchandler.cpp" line="+69"/>
+        <location filename="../../qutim/protocols/irc/src/ircstandartctpchandler.cpp" line="+69"/>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
         <translation>
             <numerusform>Получен CTCP-PING отговор от %1: %2 секунда</numerusform>
@@ -1040,7 +1040,7 @@ Please wait a while and try again.</source>
 <context>
     <name>qutim_sdk_0_3::irc::IrcWhoisRepliesHandler</name>
     <message>
-        <location filename="../../qutim-meta/protocols/irc/src/ircwhoisreplieshandler.cpp" line="+53"/>
+        <location filename="../../qutim/protocols/irc/src/ircwhoisreplieshandler.cpp" line="+53"/>
         <source>%1 is %2@%3 (%4)</source>
         <translation>%1 е %2@%3 (%4)</translation>
     </message>

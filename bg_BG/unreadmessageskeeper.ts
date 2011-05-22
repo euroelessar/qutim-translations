@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp" line="+32"/>
+        <location filename="../../qutim/plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp" line="+32"/>
         <source>Sidorov Aleksey</source>
         <translation>Алексей Сидоров</translation>
     </message>

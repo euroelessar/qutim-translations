@@ -4,7 +4,7 @@
 <context>
     <name>Activity</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="+11"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp" line="+11"/>
         <source>Doing chores</source>
         <translation>Домакинска работа</translation>
     </message>
@@ -424,7 +424,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/jplugin.cpp" line="+32"/>
+        <location filename="../../qutim/protocols/jabber/src/jplugin.cpp" line="+32"/>
         <source>Denis Daschenko</source>
         <translation>Денис Дасченко</translation>
     </message>
@@ -450,7 +450,7 @@
 <context>
     <name>Conference</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+184"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/jprotocol.cpp" line="+184"/>
         <source>Kick</source>
         <translation>Изритване (Kick)</translation>
     </message>
@@ -460,7 +460,7 @@
         <translation>Забрана (Ban)</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+120"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+120"/>
         <source>Real JID</source>
         <translation>Реален JID</translation>
     </message>
@@ -488,7 +488,7 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="+53"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="+53"/>
         <source>Nickname</source>
         <translation>Псевдоним</translation>
     </message>
@@ -633,7 +633,7 @@
 <context>
     <name>ContactResource</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/roster/jcontactresource.cpp" line="+112"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jcontactresource.cpp" line="+112"/>
         <source>Resource</source>
         <translation>Ресурс</translation>
     </message>
@@ -651,7 +651,7 @@
 <context>
     <name>JAccountWizardPage</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jaccountwizardpage.ui" line="+14"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/jaccountwizardpage.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Магьосник</translation>
     </message>
@@ -679,7 +679,7 @@
 <context>
     <name>JAdHocWidget</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/adhoc/jadhocwidget.ui" line="+14"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/adhoc/jadhocwidget.ui" line="+14"/>
         <source>Form</source>
         <translation>Ad-Hoc</translation>
     </message>
@@ -687,7 +687,7 @@
 <context>
     <name>JCertInfo</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/connection/jcertinfo.ui" line="+14"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/connection/jcertinfo.ui" line="+14"/>
         <source>Cert Info</source>
         <translation>Информация за сертификата</translation>
     </message>
@@ -735,7 +735,7 @@
 <context>
     <name>JMainSettings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jmainsettings.ui" line="+14"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/jmainsettings.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -813,12 +813,12 @@
         <translation>XML конзола</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+31"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+31"/>
         <source>Service discovery</source>
         <translation>Откриване на услуги</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-107"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/jprotocol.cpp" line="-107"/>
         <location line="+117"/>
         <source>Join conference</source>
         <translation>Присъединяване към групов разговор</translation>
@@ -859,7 +859,7 @@
         <translation>Настройване на стаята</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+181"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+181"/>
         <source>Conference</source>
         <translation>Конференция</translation>
     </message>
@@ -888,7 +888,7 @@
         <translation type="obsolete">Вече сте в конференцията с друг псевдоним</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+672"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+672"/>
         <source>You are already in conference with another nick</source>
         <translation>Вече сте в конференцията с друг псевдоним</translation>
     </message>
@@ -898,7 +898,7 @@
         <translation>Моля, изберете друг псевдоним</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+178"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+178"/>
         <source>None</source>
         <translation>Без</translation>
     </message>
@@ -924,7 +924,7 @@
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+13"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/jprotocol.cpp" line="+13"/>
         <source>Subscription</source>
         <translation>Абонамент</translation>
     </message>
@@ -932,7 +932,7 @@
 <context>
     <name>Jabber::JAccount</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/jaccount.cpp" line="+208"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/jaccount.cpp" line="+208"/>
         <source>qutIM</source>
         <comment>Local qutIM&apos;s name</comment>
         <translation>qutIM</translation>
@@ -947,7 +947,7 @@
 <context>
     <name>Jabber::JActivityChooser</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="+229"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="+229"/>
         <source>Set activity</source>
         <translation>Задаване на дейност</translation>
     </message>
@@ -955,12 +955,12 @@
 <context>
     <name>Jabber::JActivityChooserWindow</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.ui" line="+20"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.ui" line="+20"/>
         <source>Form</source>
         <translation>Избор на дейност</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="-78"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="-78"/>
         <source>Choose your activity</source>
         <translation>Изберете дейност</translation>
     </message>
@@ -973,7 +973,7 @@
 <context>
     <name>Jabber::JBookmarkManager</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+17"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp" line="+17"/>
         <source>Unable to join groupchat</source>
         <translation>Неуспешно присъединяване към групов разговор</translation>
     </message>
@@ -981,7 +981,7 @@
 <context>
     <name>Jabber::JMUCManager</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+176"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucmanager.cpp" line="+176"/>
         <source>Join groupchat on</source>
         <translation>Присъединяване към групов разговор за</translation>
     </message>
@@ -994,7 +994,7 @@
 <context>
     <name>Jabber::JMUCSession</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-426"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-426"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете ли да се присъедините повторно?</translation>
     </message>
@@ -1118,7 +1118,7 @@
 <context>
     <name>Jabber::JMoodChooser</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="+78"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="+78"/>
         <source>Set mood</source>
         <translation>Задаване на настроение</translation>
     </message>
@@ -1126,12 +1126,12 @@
 <context>
     <name>Jabber::JMoodChooserWindow</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.ui" line="+14"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.ui" line="+14"/>
         <source>Form</source>
         <translation>Избор на настроение</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="-58"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="-58"/>
         <source>Choose your mood</source>
         <translation>Изберете настроение</translation>
     </message>
@@ -1144,7 +1144,7 @@
 <context>
     <name>Jabber::JProtocol</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="+31"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/jprotocol.cpp" line="+31"/>
         <source>Kick</source>
         <translation>Изритване (Kick)</translation>
     </message>
@@ -1177,7 +1177,7 @@
 <context>
     <name>Jabber::JRoster</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+335"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+335"/>
         <source>You have been added to the list of subscribers</source>
         <translation>Бяхте добавени в списъка с абонати</translation>
     </message>
@@ -1205,7 +1205,7 @@
 <context>
     <name>Jabber::JServiceBrowser</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+31"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+31"/>
         <source>Search service</source>
         <translation>Търсене на услуги</translation>
     </message>
@@ -1238,7 +1238,7 @@
 <context>
     <name>Jabber::JServiceDiscovery</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+118"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+118"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
         <translation>Изпращачът прати деформиран XML, който не може да бъде обработен.</translation>
     </message>
@@ -1366,7 +1366,7 @@
 <context>
     <name>Jabber::JSoftwareDetection</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp" line="+291"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp" line="+291"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
@@ -1374,7 +1374,7 @@
 <context>
     <name>Jabber::XmlConsole</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="-62"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="-62"/>
         <source>Filter</source>
         <translation>Филтър</translation>
     </message>
@@ -1442,7 +1442,7 @@
 <context>
     <name>Mood</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp" line="+29"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp" line="+29"/>
         <source>Afraid</source>
         <translation>Изплашен</translation>
     </message>
@@ -1875,7 +1875,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/jplugin.cpp" line="-11"/>
+        <location filename="../../qutim/protocols/jabber/src/jplugin.cpp" line="-11"/>
         <location line="+14"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
@@ -2000,7 +2000,7 @@
 <context>
     <name>RoomConfig</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui" line="+14"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройване на стая</translation>
     </message>
@@ -2023,7 +2023,7 @@
 <context>
     <name>ServiceBrowser</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.ui" line="+14"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.ui" line="+14"/>
         <source>jServiceBrowser</source>
         <translation>Разглеждане на услуги</translation>
     </message>
@@ -2103,7 +2103,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/jprotocol.cpp" line="-317"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/jprotocol.cpp" line="-317"/>
         <source>Main settings</source>
         <translation>Основни настройки</translation>
     </message>
@@ -2116,7 +2116,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/jplugin.cpp" line="-72"/>
+        <location filename="../../qutim/protocols/jabber/src/jplugin.cpp" line="-72"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>
@@ -2130,7 +2130,7 @@
 <context>
     <name>Tune</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/tunepep/jpersontuneconverter.cpp" line="+92"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/tunepep/jpersontuneconverter.cpp" line="+92"/>
         <source>Now listening</source>
         <translation>В момента слушам</translation>
     </message>
@@ -2148,12 +2148,12 @@
 <context>
     <name>XmlConsole</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/jreen/src/gui/xmlconsole.ui" line="+14"/>
+        <location filename="../../qutim/protocols/jabber/jreen/src/gui/xmlconsole.ui" line="+14"/>
         <source>Form</source>
         <translation>XML</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+14"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+14"/>
         <source>Xml stream console</source>
         <translation>Конзола на XML потока</translation>
     </message>

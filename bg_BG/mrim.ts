@@ -4,7 +4,7 @@
 <context>
     <name>AccountWizardMain</name>
     <message>
-        <location filename="../../qutim-meta/protocols/mrim/src/ui/wizards/accountwizardmain.ui" line="+14"/>
+        <location filename="../../qutim/protocols/mrim/src/ui/wizards/accountwizardmain.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Магьосник за настройване</translation>
     </message>
@@ -47,7 +47,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimplugin.cpp" line="+38"/>
+        <location filename="../../qutim/protocols/mrim/src/base/mrimplugin.cpp" line="+38"/>
         <source>Peter Rusanov</source>
         <translation>Петер Русанов</translation>
     </message>
@@ -55,7 +55,7 @@
 <context>
     <name>MrimAccount</name>
     <message>
-        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimaccount.cpp" line="+80"/>
+        <location filename="../../qutim/protocols/mrim/src/base/mrimaccount.cpp" line="+80"/>
         <source>Messages in mailbox: %1
 Unread messages: %2</source>
         <translation>Съобщения в пощата: %1
@@ -65,7 +65,7 @@ Unread messages: %2</source>
 <context>
     <name>MrimConnection</name>
     <message>
-        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimconnection.cpp" line="+244"/>
+        <location filename="../../qutim/protocols/mrim/src/base/mrimconnection.cpp" line="+244"/>
         <source>Another client with same login connected!</source>
         <translation>Друг клиент, със същите детайли за вход се е свързал!</translation>
     </message>
@@ -80,7 +80,7 @@ Reason: %1</source>
 <context>
     <name>MrimMessages</name>
     <message>
-        <location filename="../../qutim-meta/protocols/mrim/src/base/messages.cpp" line="+131"/>
+        <location filename="../../qutim/protocols/mrim/src/base/messages.cpp" line="+131"/>
         <source>No such user</source>
         <translation>Няма такъв потребител</translation>
     </message>
@@ -118,7 +118,7 @@ Reason: %1</source>
 <context>
     <name>MrimPacket</name>
     <message>
-        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimpacket.cpp" line="+178"/>
+        <location filename="../../qutim/protocols/mrim/src/base/mrimpacket.cpp" line="+178"/>
         <source>No error</source>
         <translation>Без грешка</translation>
     </message>
@@ -141,7 +141,7 @@ Reason: %1</source>
 <context>
     <name>MrimRoster</name>
     <message>
-        <location filename="../../qutim-meta/protocols/mrim/src/base/roster.cpp" line="+246"/>
+        <location filename="../../qutim/protocols/mrim/src/base/roster.cpp" line="+246"/>
         <source>Phone contacts</source>
         <translation>Контакти от телефона</translation>
     </message>
@@ -149,7 +149,7 @@ Reason: %1</source>
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimplugin.cpp" line="-5"/>
+        <location filename="../../qutim/protocols/mrim/src/base/mrimplugin.cpp" line="-5"/>
         <source>MRIM</source>
         <translation>MRIM</translation>
     </message>
@@ -172,7 +172,7 @@ Reason: %1</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimstatus.cpp" line="+61"/>
+        <location filename="../../qutim/protocols/mrim/src/base/mrimstatus.cpp" line="+61"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
@@ -433,7 +433,7 @@ Reason: %1</source>
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../qutim-meta/protocols/mrim/src/base/mrimplugin.cpp" line="+7"/>
+        <location filename="../../qutim/protocols/mrim/src/base/mrimplugin.cpp" line="+7"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>

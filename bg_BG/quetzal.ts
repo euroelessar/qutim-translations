@@ -4,13 +4,13 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalplugin.cpp" line="+616"/>
+        <location filename="../../qutim/protocols/quetzal/src/quetzalplugin.cpp" line="+616"/>
         <source>Quetzal</source>
         <translation>Quetzal</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location line="+36"/>
+        <location line="+45"/>
         <location line="+4"/>
         <source>&apos;Quetzal&apos; is set of protocols, powered by libpurple</source>
         <translation>&quot;Quetzal&quot; е набор от протоколи, поддържани от libpurple</translation>
@@ -19,7 +19,7 @@
 <context>
     <name>QuetzalAccountWizardPage</name>
     <message>
-        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalaccountwizard.cpp" line="+37"/>
+        <location filename="../../qutim/protocols/quetzal/src/quetzalaccountwizard.cpp" line="+37"/>
         <source>Username</source>
         <translation>Потребителско име</translation>
     </message>
@@ -64,7 +64,7 @@ Complete account creating by clicking on Finish button</source>
 <context>
     <name>QuetzalActionDialog</name>
     <message>
-        <location filename="../../qutim-meta/protocols/quetzal/src/quatzelactiondialog.ui" line="+14"/>
+        <location filename="../../qutim/protocols/quetzal/src/quatzelactiondialog.ui" line="+14"/>
         <source>Dialog</source>
         <translation></translation>
     </message>
@@ -72,7 +72,7 @@ Complete account creating by clicking on Finish button</source>
 <context>
     <name>QuetzalJoinChatDialog</name>
     <message>
-        <location filename="../../qutim-meta/protocols/quetzal/src/quetzaljoinchatdialog.ui" line="+14"/>
+        <location filename="../../qutim/protocols/quetzal/src/quetzaljoinchatdialog.ui" line="+14"/>
         <source>Join group chat</source>
         <translation>Присъединяване към групов разговор</translation>
     </message>
@@ -85,7 +85,7 @@ Complete account creating by clicking on Finish button</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/protocols/quetzal/src/quetzalprotocol.cpp" line="+89"/>
+        <location filename="../../qutim/protocols/quetzal/src/quetzalprotocol.cpp" line="+89"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>

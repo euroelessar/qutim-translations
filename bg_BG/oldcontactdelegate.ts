@@ -4,12 +4,12 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim-meta/plugins/olddelegate/contactlistitemdelegate.cpp" line="+55"/>
-        <source>ContactList</source>
-        <translation>Списък с контакти</translation>
+        <location filename="../../qutim/plugins/olddelegate/contactlistitemdelegate.cpp" line="+76"/>
+        <source>qutIM 0.2 style</source>
+        <translation>qutIM 0.2 стил</translation>
     </message>
     <message>
-        <location filename="../../qutim-meta/plugins/olddelegate/settings/olddelegatesettings.cpp" line="+17"/>
+        <location filename="../../qutim/plugins/olddelegate/settings/olddelegatesettings.cpp" line="+17"/>
         <source>Default (depends on platform)</source>
         <translation>Подразбиращ се (според платформата)</translation>
     </message>
@@ -42,7 +42,7 @@
 <context>
     <name>OldDelegateSettings</name>
     <message>
-        <location filename="../../qutim-meta/plugins/olddelegate/settings/olddelegatesettings.ui" line="+14"/>
+        <location filename="../../qutim/plugins/olddelegate/settings/olddelegatesettings.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -70,6 +70,19 @@
         <location line="+7"/>
         <source>Theme:</source>
         <translation>Тема:</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin</name>
+    <message>
+        <location filename="../../qutim/plugins/olddelegate/contactlistitemdelegate.cpp" line="-22"/>
+        <source>Old contact delegate</source>
+        <translation>Остарял изглед на контактите</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Port of contact list delegate from 0.2</source>
+        <translation>Порт на изгледа на контакти използван в 0.2</translation>
     </message>
 </context>
 </TS>
