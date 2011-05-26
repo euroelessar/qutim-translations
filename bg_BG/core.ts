@@ -459,12 +459,11 @@ p, li { white-space: pre-wrap; }
         <translation>Активиране на основното меню</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp" line="+92"/>
         <source>ContactList</source>
-        <translation>Списък с контакти</translation>
+        <translation type="obsolete">Списък с контакти</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="+10"/>
+        <location line="+8"/>
         <source>&amp;Settings...</source>
         <translation>&amp;Настройки...</translation>
     </message>
@@ -479,12 +478,12 @@ p, li { white-space: pre-wrap; }
         <translation>&amp;Изход</translation>
     </message>
     <message>
-        <location line="+17"/>
+        <location line="+13"/>
         <source>Contact list</source>
         <translation>Списък с контакти</translation>
     </message>
     <message>
-        <location line="+70"/>
+        <location line="+74"/>
         <source>Select tags</source>
         <translation>Избор на етикети</translation>
     </message>
@@ -567,9 +566,15 @@ p, li { white-space: pre-wrap; }
         <translation>Да се показват етикетите и контактите</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp" line="+4"/>
+        <location filename="../../qutim/core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp" line="+90"/>
+        <location filename="../../qutim/core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+47"/>
         <source>Default style</source>
         <translation>Стил по подразбиране</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="+49"/>
+        <source>qutIM 0.2 style</source>
+        <translation>qutIM 0.2 стил</translation>
     </message>
 </context>
 <context>
@@ -793,17 +798,17 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ConferenceContactsView</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="+60"/>
+        <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp" line="+66"/>
         <source>Insert Nick</source>
         <translation>Вмъкване на псевдоним</translation>
     </message>
     <message>
-        <location line="+68"/>
+        <location line="+71"/>
         <source>Private</source>
         <translation>Личен разговор</translation>
     </message>
     <message>
-        <location line="-60"/>
+        <location line="-63"/>
         <source>Conference participants</source>
         <translation>Участници в конференцията</translation>
     </message>
@@ -974,11 +979,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+1"/>
+        <source>Widget style</source>
+        <translation>Стил на областта за управление</translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Contacts style</source>
         <translation>Стил на контактите</translation>
     </message>
     <message>
-        <location line="+91"/>
+        <location line="+90"/>
         <source>To take effect you must restart qutIM</source>
         <translation>За да влязат в сила промените, qutIM трябва да бъде рестартиран</translation>
     </message>
@@ -1577,7 +1587,7 @@ p, li { white-space: pre-wrap; }
         <translation>Собствени етикети</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="+337"/>
+        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="+339"/>
         <source>Without tags</source>
         <translation>Без етикети</translation>
     </message>
@@ -1727,7 +1737,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::SimpleWidget</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+79"/>
+        <location filename="../../qutim/core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+33"/>
         <source>Main Toolbar</source>
         <translation>Главна лента с инструменти</translation>
     </message>
@@ -1770,7 +1780,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::ToryWidget</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="+75"/>
+        <location filename="../../qutim/core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="+27"/>
         <source>Main Toolbar</source>
         <translation>Главна лента с инструменти</translation>
     </message>
@@ -1882,7 +1892,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::XSettingsWindow</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+242"/>
+        <location filename="../../qutim/core/src/corelayers/xsettingsdialog/xsettingswindow.cpp" line="+245"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки на qutIM - %1</translation>
     </message>
@@ -2678,12 +2688,12 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбиращ се набор от действия с контактите</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/trayicon/simpletray.cpp" line="+173"/>
+        <location filename="../../qutim/core/src/corelayers/trayicon/simpletray.cpp" line="+175"/>
         <source>Notification Area Icon</source>
         <translation>Икона в областта за уведомления</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp" line="-28"/>
+        <location filename="../../qutim/core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp" line="-23"/>
         <source>ContactDelegate</source>
         <translation>Изглед на контактите</translation>
     </message>
@@ -3009,7 +3019,7 @@ p, li { white-space: pre-wrap; }
         <translation>Изглед на формуляра на разговор</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-110"/>
+        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-108"/>
         <source>ContactList</source>
         <translation>Списък с контакти</translation>
     </message>

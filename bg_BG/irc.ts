@@ -34,7 +34,7 @@
         <translation>Парола:</translation>
     </message>
     <message>
-        <location line="+27"/>
+        <location line="+30"/>
         <source>Port:</source>
         <translation>Порт:</translation>
     </message>
@@ -49,9 +49,8 @@
         <translation>Защитен с парола</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Save password</source>
-        <translation>Запис на паролата</translation>
+        <translation type="obsolete">Запис на паролата</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -866,7 +865,7 @@
         <translation type="obsolete">Отнемане на глас</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/irc/src/ircconnection.cpp" line="+147"/>
+        <location filename="../../qutim/protocols/irc/src/ircconnection.cpp" line="+148"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
     </message>
@@ -908,7 +907,7 @@ Please wait a while and try again.</source>
         <translation>%1 зададе съобщение при отсъствие: &quot;%2&quot;</translation>
     </message>
     <message>
-        <location line="+305"/>
+        <location line="+317"/>
         <source>SSL error: %1</source>
         <translation>SSL грешка: %1</translation>
     </message>
@@ -922,7 +921,7 @@ Please wait a while and try again.</source>
         <translation type="obsolete">%1 зададе съобщение при отсъствие: %2</translation>
     </message>
     <message>
-        <location line="-307"/>
+        <location line="-319"/>
         <source>%1 removed away message</source>
         <translation>%1 премахна съобщението при отсъствие</translation>
     </message>
@@ -995,7 +994,7 @@ Please wait a while and try again.</source>
         <translation>Невъзможно е свързването към мрежата %1</translation>
     </message>
     <message>
-        <location line="+177"/>
+        <location line="+189"/>
         <source>Network error: %1</source>
         <translation>Мрежова грешка: %1</translation>
     </message>

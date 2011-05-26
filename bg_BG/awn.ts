@@ -4,7 +4,7 @@
 <context>
     <name>AWNService</name>
     <message>
-        <location filename="../../qutim/plugins/awn/src/awnservice.cpp" line="+273"/>
+        <location filename="../../qutim/plugins/awn/src/awnservice.cpp" line="+271"/>
         <source>Show/Hide</source>
         <translation>Показване/Скриване</translation>
     </message>
