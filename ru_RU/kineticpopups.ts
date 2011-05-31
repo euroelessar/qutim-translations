@@ -60,14 +60,8 @@
         <translation type="obsolete">Кинетические уведомления (новая реализация)</translation>
     </message>
     <message>
-        <location filename="../../plugins/kineticpopups/src/kineticpopupsplugin.cpp" line="+11"/>
-        <source>Kinetic popups</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
         <source>Growl-like popups, based on power of Qt Quick</source>
-        <translation type="unfinished">Похожие на Mac (Growl) уведомления, основанные на Qt Quick</translation>
+        <translation type="obsolete">Похожие на Mac (Growl) уведомления, основанные на Qt Quick</translation>
     </message>
 </context>
 <context>

@@ -34,7 +34,7 @@
         <translation>Пароль:</translation>
     </message>
     <message>
-        <location line="+27"/>
+        <location line="+30"/>
         <source>Port:</source>
         <translation>Порт:</translation>
     </message>
@@ -49,9 +49,8 @@
         <translation>Защищено паролем</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Save password</source>
-        <translation>Сохранить пароль</translation>
+        <translation type="obsolete">Сохранить пароль</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -943,7 +942,7 @@
         <translation type="obsolete">Забрать голос</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+147"/>
+        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+148"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сервер %1 (Версия %2), Режимы пользователей: %3, Режимы каналов: %4</translation>
     </message>
@@ -985,7 +984,7 @@ Please wait a while and try again.</source>
         <translation>%1 установил сообщение отсутствия &quot;%2&quot;</translation>
     </message>
     <message>
-        <location line="+305"/>
+        <location line="+317"/>
         <source>SSL error: %1</source>
         <translation>Ошибка SSL: %1</translation>
     </message>
@@ -999,7 +998,7 @@ Please wait a while and try again.</source>
         <translation type="obsolete">%1 установил сообщение отсутствия %2</translation>
     </message>
     <message>
-        <location line="-307"/>
+        <location line="-319"/>
         <source>%1 removed away message</source>
         <translation>%1 удалил сообщение отстутствия</translation>
     </message>
@@ -1042,7 +1041,7 @@ Please wait a while and try again.</source>
         <translation>Не удалось полклюиться к сети %1</translation>
     </message>
     <message>
-        <location line="+177"/>
+        <location line="+189"/>
         <source>Network error: %1</source>
         <translation>Ошибка сети: %1</translation>
     </message>

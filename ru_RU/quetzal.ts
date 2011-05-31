@@ -10,7 +10,7 @@
     </message>
     <message>
         <location line="+1"/>
-        <location line="+36"/>
+        <location line="+45"/>
         <location line="+4"/>
         <source>&apos;Quetzal&apos; is set of protocols, powered by libpurple</source>
         <translation type="unfinished">&apos;Quetzal&apos; это набор протоколов, реализованных через libpurple (pidgin/adium)</translation>
