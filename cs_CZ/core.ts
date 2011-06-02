@@ -186,7 +186,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Chat</name>
     <message>
-        <location filename="core/src/corelayers/jsonhistory/jsonhistory.cpp" line="125"/>
+        <location filename="core/src/corelayers/jsonhistory/jsonhistory.cpp" line="134"/>
         <source>View History</source>
         <translation>Zobrazit historii</translation>
     </message>
@@ -253,8 +253,8 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Otevřít seznam konverzací</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="60"/>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="65"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="61"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="66"/>
         <source>ContactList</source>
         <translation>Seznam kontaktů</translation>
     </message>
@@ -353,77 +353,77 @@ p, li { white-space: pre-wrap; }
         <translation>Kopírovat ID do schránky</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="59"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="60"/>
         <source>Change global status</source>
         <translation>Změnit globální stav</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="64"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="65"/>
         <source>Activate main menu</source>
         <translation type="unfinished">Aktivovat hlavní nabídku</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="74"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="75"/>
         <source>&amp;Settings...</source>
         <translation>Na&amp;stavení...</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="81"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="82"/>
         <source>Main menu</source>
         <translation>Hlavní nabídka</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="85"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="86"/>
         <source>&amp;Quit</source>
         <translation>&amp;Ukončit</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="167"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="103"/>
+        <source>Contact list</source>
+        <translation>Seznam kontaktů</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="173"/>
         <source>Select tags</source>
         <translation>Vybrat štítky</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="173"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="179"/>
         <source>Show/Hide offline</source>
         <translation>Zobrazit/skrýt offline kontakty</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="176"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="182"/>
         <source>Hide offline</source>
         <translation>Skrýt offline kontakty</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp" line="58"/>
-        <source>ContactList</source>
-        <translation>Seznam kontaktů</translation>
-    </message>
-    <message>
-        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp" line="18"/>
+        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp" line="19"/>
         <source>Default (depends on platform)</source>
         <translation>Výchozí (záleží na platformě)</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp" line="19"/>
+        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp" line="20"/>
         <source>Small (16x16)</source>
         <translation>Malá (16x16)</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp" line="20"/>
+        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp" line="21"/>
         <source>Medium (22x22)</source>
         <translation>Střední (22x22)</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp" line="21"/>
+        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp" line="22"/>
         <source>Large (32x32)</source>
         <translation>Velká (32x32)</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp" line="22"/>
+        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp" line="23"/>
         <source>Very large (48x48)</source>
         <translation>Velmi velká (48x48)</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp" line="23"/>
+        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp" line="24"/>
         <source>Huge (64x64)</source>
         <translation>Obrovská (64x64)</translation>
     </message>
@@ -436,6 +436,26 @@ p, li { white-space: pre-wrap; }
         <location filename="core/src/corelayers/simpleactions/src/simpleactions.cpp" line="85"/>
         <source>Edit tags</source>
         <translation>Upravit štítky</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/models/plaincontactsmodel/plaincontactlistmodel.cpp" line="38"/>
+        <source>Show only contacts</source>
+        <translation>Zobrazit pouze kontakty</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/models/separatedcontactsmodel/separatedcontactlistmodel.cpp" line="66"/>
+        <source>Show accounts, tags and contacts</source>
+        <translation>Zobrazit účty, štítky a kontakty</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/models/treecontactsmodel/simplecontactlistmodel.cpp" line="55"/>
+        <source>Show tags and contacts</source>
+        <translation>Zobrazit štítky a kontakty</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp" line="81"/>
+        <source>Default style</source>
+        <translation>Výchozí styl</translation>
     </message>
 </context>
 <context>
@@ -798,6 +818,24 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::ContactListSettings</name>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp" line="83"/>
+        <source>Model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp" line="84"/>
+        <source>Contacts style</source>
+        <translation type="unfinished">Styl kontaktů</translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp" line="175"/>
+        <source>To take effect you must restart qutIM</source>
+        <translation type="unfinished">Změny se projeví až po restartu qutIMu</translation>
+    </message>
+</context>
+<context>
     <name>Core::FileTransferDialog</name>
     <message>
         <location filename="core/src/corelayers/filetransfer/filetransferdialog.cpp" line="100"/>
@@ -836,36 +874,36 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::HistoryWindow</name>
     <message>
-        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="42"/>
-        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="110"/>
+        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="52"/>
+        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="120"/>
         <source>No History</source>
         <translation>není historie</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="43"/>
-        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="483"/>
+        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="53"/>
+        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="493"/>
         <source>In: %L1</source>
         <translation>Příchozí: %L1</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="44"/>
-        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="484"/>
+        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="54"/>
+        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="494"/>
         <source>Out: %L1</source>
         <translation>Odchozí: %L1</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="45"/>
-        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="485"/>
+        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="55"/>
+        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="495"/>
         <source>All: %L1</source>
         <translation>Vše: %L1</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="85"/>
+        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="95"/>
         <source>Close</source>
         <translation>Zavřít</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="392"/>
+        <location filename="core/src/corelayers/jsonhistory/historywindow.cpp" line="402"/>
         <source>Service message</source>
         <translation>Servisní zprávy</translation>
     </message>
@@ -873,7 +911,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::IconLoaderSettings</name>
     <message>
-        <location filename="core/src/corelayers/qticons/iconsloaderimpl.cpp" line="21"/>
+        <location filename="core/src/corelayers/qticons/iconsloaderimpl.cpp" line="46"/>
         <source>Theme</source>
         <translation>Motiv</translation>
     </message>
@@ -930,22 +968,22 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::MigrationStartPage</name>
     <message>
-        <location filename="core/src/corelayers/migration02x03/migrationstartpage.cpp" line="22"/>
+        <location filename="core/src/corelayers/migration02x03/migrationstartpage.cpp" line="47"/>
         <source>Migration wizard</source>
         <translation>Průvodce migrací</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/migration02x03/migrationstartpage.cpp" line="23"/>
+        <location filename="core/src/corelayers/migration02x03/migrationstartpage.cpp" line="48"/>
         <source>qutIM has discovered configuration from 0.2 version, choose profile to import history and configuration from.</source>
         <translation>qutIM nalezl nastavení z verze 0.2, vyberte profil pro import historie a nastavení.</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/migration02x03/migrationstartpage.cpp" line="71"/>
+        <location filename="core/src/corelayers/migration02x03/migrationstartpage.cpp" line="96"/>
         <source>Unable to find profile dir</source>
         <translation>Nelze najít složku s profilem</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/migration02x03/migrationstartpage.cpp" line="93"/>
+        <location filename="core/src/corelayers/migration02x03/migrationstartpage.cpp" line="118"/>
         <source>Unable to find any profile</source>
         <translation>Nelze najít žádný profil</translation>
     </message>
@@ -1072,33 +1110,33 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::ProfileCreationPage</name>
     <message>
-        <location filename="core/src/profilecreationpage.cpp" line="128"/>
+        <location filename="core/src/profilecreationpage.cpp" line="153"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="core/src/profilecreationpage.cpp" line="129"/>
+        <location filename="core/src/profilecreationpage.cpp" line="154"/>
         <source>Unable to create directory %1. Maybe you are trying to create a directory in a protected system directory</source>
         <translation type="unfinished">Nelze vytvořit složka %1. Možná se snažíte vytvořit složku v systémem chráněné složce</translation>
     </message>
     <message>
-        <location filename="core/src/profilecreationpage.cpp" line="142"/>
-        <location filename="core/src/profilecreationpage.cpp" line="150"/>
+        <location filename="core/src/profilecreationpage.cpp" line="167"/>
+        <location filename="core/src/profilecreationpage.cpp" line="175"/>
         <source>Warning</source>
         <translation>Varování</translation>
     </message>
     <message>
-        <location filename="core/src/profilecreationpage.cpp" line="143"/>
+        <location filename="core/src/profilecreationpage.cpp" line="168"/>
         <source>Profile already exists, overwrite?</source>
         <translation>Profil již existuje, přepsat ho?</translation>
     </message>
     <message>
-        <location filename="core/src/profilecreationpage.cpp" line="150"/>
+        <location filename="core/src/profilecreationpage.cpp" line="175"/>
         <source>Unable to create profile hash</source>
         <translation>Nelze vytvořit otisk profilu</translation>
     </message>
     <message>
-        <location filename="core/src/profilecreationpage.cpp" line="273"/>
+        <location filename="core/src/profilecreationpage.cpp" line="298"/>
         <source>Select path</source>
         <translation>Vyberte cestu</translation>
     </message>
@@ -1106,84 +1144,84 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::ProfileDialog</name>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="135"/>
+        <location filename="core/src/profiledialog.cpp" line="160"/>
         <source>Password is mismatched.</source>
         <translation>Hesla nesouhlasí.</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="137"/>
+        <location filename="core/src/profiledialog.cpp" line="162"/>
         <source>Crypto service is unknown.</source>
         <translation>Šifrovací služba je neznámá.</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="139"/>
+        <location filename="core/src/profiledialog.cpp" line="164"/>
         <source>Wrong profile id.</source>
         <translation>Špatné ID profilu.</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="142"/>
-        <location filename="core/src/profiledialog.cpp" line="172"/>
+        <location filename="core/src/profiledialog.cpp" line="167"/>
+        <location filename="core/src/profiledialog.cpp" line="197"/>
         <source>Error while loading</source>
         <translation>Chyba při načítání</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="173"/>
+        <location filename="core/src/profiledialog.cpp" line="198"/>
         <source>Can&apos;t open file with hash</source>
         <translation type="unfinished">Nelze otevřít soubor s hashem</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="198"/>
+        <location filename="core/src/profiledialog.cpp" line="223"/>
         <source>Enter name</source>
         <translation>Zadejte jméno</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="198"/>
+        <location filename="core/src/profiledialog.cpp" line="223"/>
         <source>Profile name:</source>
         <translation>Jméno profilu:</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="200"/>
+        <location filename="core/src/profiledialog.cpp" line="225"/>
         <source>Invalid name</source>
         <translation>Chybné jméno</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="200"/>
+        <location filename="core/src/profiledialog.cpp" line="225"/>
         <source>Name can not be empty!</source>
         <translation>Jméno nemůže být prázdné!</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="204"/>
+        <location filename="core/src/profiledialog.cpp" line="229"/>
         <source>Enter password</source>
         <translation>Zadejte heslo</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="204"/>
+        <location filename="core/src/profiledialog.cpp" line="229"/>
         <source>Password:</source>
         <translation>Heslo:</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="205"/>
+        <location filename="core/src/profiledialog.cpp" line="230"/>
         <source>Repeat password</source>
         <translation>Heslo znovu</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="205"/>
+        <location filename="core/src/profiledialog.cpp" line="230"/>
         <source>Repeat password:</source>
         <translation>Heslo znovu:</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="208"/>
-        <location filename="core/src/profiledialog.cpp" line="213"/>
+        <location filename="core/src/profiledialog.cpp" line="233"/>
+        <location filename="core/src/profiledialog.cpp" line="238"/>
         <source>Incorrect password</source>
         <translation>Nesprávné heslo</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="208"/>
+        <location filename="core/src/profiledialog.cpp" line="233"/>
         <source>Passwords doesn&apos;t match each other</source>
         <translation>Hesla nejsou stejná</translation>
     </message>
     <message>
-        <location filename="core/src/profiledialog.cpp" line="213"/>
+        <location filename="core/src/profiledialog.cpp" line="238"/>
         <source>Password can not be empty!</source>
         <translation>Heslo nemůže být prázdné!</translation>
     </message>
@@ -1346,12 +1384,12 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::SimpleContactList::Module</name>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="155"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="161"/>
         <source>Select tags</source>
         <translation>Vybrat štítky</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="157"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="163"/>
         <source>Reset</source>
         <translation type="unfinished">Resetovat</translation>
     </message>
@@ -1359,7 +1397,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::SimpleContactList::PlainModel</name>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/models/plaincontactsmodel/plaincontactlistmodel.cpp" line="131"/>
+        <location filename="core/src/corelayers/simplecontactlist/models/plaincontactsmodel/plaincontactlistmodel.cpp" line="132"/>
         <source>Without tags</source>
         <translation type="unfinished">Bez štítků</translation>
     </message>
@@ -1367,7 +1405,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::SimpleContactList::SeparatedModel</name>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/models/separatedcontactsmodel/separatedcontactlistmodel.cpp" line="211"/>
+        <location filename="core/src/corelayers/simplecontactlist/models/separatedcontactsmodel/separatedcontactlistmodel.cpp" line="212"/>
         <source>Without tags</source>
         <translation>Bez štítků</translation>
     </message>
@@ -1404,17 +1442,17 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <translation type="unfinished">Hlavní lišta</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="93"/>
+        <location filename="core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="92"/>
         <source>Global status</source>
         <translation>Globální stav</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="94"/>
+        <location filename="core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="93"/>
         <source>Set Status Text</source>
         <translation>Nastavit text stavu</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="121"/>
+        <location filename="core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="120"/>
         <source>Search contact</source>
         <translation>Hledat kontakt</translation>
     </message>
@@ -1422,7 +1460,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Core::SimpleContactList::TreeModel</name>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/models/treecontactsmodel/simplecontactlistmodel.cpp" line="193"/>
+        <location filename="core/src/corelayers/simplecontactlist/models/treecontactsmodel/simplecontactlistmodel.cpp" line="194"/>
         <source>Without tags</source>
         <translation>Bez štítků</translation>
     </message>
@@ -1834,13 +1872,13 @@ Chcete tyto změny použít nebo odmítnout?</translation>
 <context>
     <name>Localization</name>
     <message>
-        <location filename="core/src/corelayers/localization/localizationsettings.cpp" line="48"/>
+        <location filename="core/src/corelayers/localization/localizationsettings.cpp" line="58"/>
         <source>&lt;Language&gt;</source>
         <comment>Localized language name</comment>
         <translation>Čeština</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/localization/localizationsettings.cpp" line="51"/>
+        <location filename="core/src/corelayers/localization/localizationsettings.cpp" line="61"/>
         <source>&lt;Country&gt;</source>
         <comment>Localized country name, empty if localization is country-independent</comment>
         <translation>Česko</translation>
@@ -2126,12 +2164,12 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/localization/localizationplugin.cpp" line="28"/>
+        <location filename="core/src/corelayers/localization/localizationplugin.cpp" line="37"/>
         <source>Localization</source>
         <translation>Lokalizace</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/localization/localizationplugin.cpp" line="29"/>
+        <location filename="core/src/corelayers/localization/localizationplugin.cpp" line="38"/>
         <source>Default qutIM localization engine</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2161,8 +2199,18 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/trayicon/simpletray.cpp" line="148"/>
+        <location filename="core/src/corelayers/trayicon/simpletray.cpp" line="173"/>
         <source>Notification Area Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp" line="58"/>
+        <source>ContactDelegate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp" line="59"/>
+        <source>Just simple</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2276,61 +2324,61 @@ Chcete tyto změny použít nebo odmítnout?</translation>
     <name>QObject</name>
     <message>
         <location filename="core/libqutim/notificationslayer.cpp" line="139"/>
-        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="34"/>
+        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="51"/>
         <source>%1 changed status</source>
         <translation>%1 změnil stav</translation>
     </message>
     <message>
         <location filename="core/libqutim/notificationslayer.cpp" line="118"/>
-        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="13"/>
+        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="30"/>
         <source>Message from %1:</source>
         <translation>Zpráva od %1:</translation>
     </message>
     <message>
         <location filename="core/libqutim/notificationslayer.cpp" line="122"/>
-        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="17"/>
+        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="34"/>
         <source>Message to %1:</source>
         <translation>Zpráva pro %1:</translation>
     </message>
     <message>
         <location filename="core/libqutim/notificationslayer.cpp" line="145"/>
-        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="40"/>
+        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="57"/>
         <source>%1 is typing</source>
         <translation>%1 píše</translation>
     </message>
     <message>
         <location filename="core/libqutim/notificationslayer.cpp" line="150"/>
-        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="45"/>
+        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="62"/>
         <source>System notify</source>
         <translation type="unfinished">Systémové oznámení</translation>
     </message>
     <message>
         <location filename="core/libqutim/notificationslayer.cpp" line="128"/>
-        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="23"/>
+        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="40"/>
         <source>Blocked message from %1</source>
         <translation>Zablokovaná zpráva od %1</translation>
     </message>
     <message>
         <location filename="core/libqutim/notificationslayer.cpp" line="142"/>
-        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="37"/>
+        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="54"/>
         <source>%1 has birthday today!!</source>
         <translation type="unfinished">%1 má dnes narozeniny!</translation>
     </message>
     <message>
         <location filename="core/libqutim/notificationslayer.cpp" line="132"/>
-        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="27"/>
+        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="44"/>
         <source>%1 is online</source>
         <translation>%1 je online</translation>
     </message>
     <message>
         <location filename="core/libqutim/notificationslayer.cpp" line="136"/>
-        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="31"/>
+        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="48"/>
         <source>%1 is offline</source>
         <translation>%1 je offline</translation>
     </message>
     <message>
         <location filename="core/libqutim/notificationslayer.cpp" line="125"/>
-        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="20"/>
+        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="37"/>
         <source>qutIM launched</source>
         <translation type="unfinished">qutIM spuštěn</translation>
     </message>
@@ -2410,12 +2458,12 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <translation type="unfinished">Ploché tlačítka</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="96"/>
+        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="113"/>
         <source>Open chat</source>
         <translation>Otevřít konverzaci</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="101"/>
+        <location filename="core/src/corelayers/notificationfilter/notificationfilter.cpp" line="119"/>
         <source>Ignore</source>
         <translation>Odmítnout</translation>
     </message>
@@ -2462,22 +2510,22 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="52"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="53"/>
         <source>ContactList</source>
         <translation>Seznam kontaktů</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="53"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="54"/>
         <source>ContactListWidget</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="54"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="55"/>
         <source>ContactModel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="55"/>
+        <location filename="core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="56"/>
         <source>ContactDelegate</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2575,7 +2623,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <translation>Smajlíci</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/localization/localizationmodule.cpp" line="36"/>
+        <location filename="core/src/corelayers/localization/localizationmodule.cpp" line="46"/>
         <source>Localization</source>
         <translation>Lokalizace</translation>
     </message>
@@ -2625,7 +2673,7 @@ Chcete tyto změny použít nebo odmítnout?</translation>
         <translation>Typ rolování</translation>
     </message>
     <message>
-        <location filename="core/src/corelayers/qticons/iconsloaderimpl.cpp" line="60"/>
+        <location filename="core/src/corelayers/qticons/iconsloaderimpl.cpp" line="85"/>
         <source>Icons theme</source>
         <translation>Motiv ikon</translation>
     </message>

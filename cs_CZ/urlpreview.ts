@@ -23,7 +23,7 @@
     <name>Plugin</name>
     <message>
         <location filename="plugins/urlpreview/src/urlpreview.cpp" line="32"/>
-        <location filename="plugins/urlpreview/src/urlpreview.cpp" line="49"/>
+        <location filename="plugins/urlpreview/src/urlpreview.cpp" line="52"/>
         <source>UrlPreview</source>
         <translation type="unfinished"></translation>
     </message>
