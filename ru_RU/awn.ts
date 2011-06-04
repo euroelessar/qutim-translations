@@ -4,7 +4,7 @@
 <context>
     <name>AWNService</name>
     <message>
-        <location filename="../../plugins/awn/src/awnservice.cpp" line="+273"/>
+        <location filename="../../plugins/awn/src/awnservice.cpp" line="+271"/>
         <source>Show/Hide</source>
         <translation>Показать/Скрыть</translation>
     </message>

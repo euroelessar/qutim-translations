@@ -23,12 +23,12 @@
     <name>Plugin</name>
     <message>
         <location line="-11"/>
-        <location line="+17"/>
+        <location line="+20"/>
         <source>UrlPreview</source>
         <translation></translation>
     </message>
     <message>
-        <location line="-16"/>
+        <location line="-19"/>
         <source>Preview images directly in the chat window</source>
         <translation>Просмотр картинок в окне чата</translation>
     </message>

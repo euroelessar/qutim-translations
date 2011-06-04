@@ -896,7 +896,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="106"/>
+        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="131"/>
         <source>Xml console</source>
         <translation>XML konzola</translation>
     </message>
@@ -1346,67 +1346,67 @@
 <context>
     <name>Jabber::XmlConsole</name>
     <message>
-        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="44"/>
+        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="69"/>
         <source>Filter</source>
         <translation>Filtr</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="46"/>
+        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="71"/>
         <source>Disabled</source>
         <translation>Vypnutý</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="49"/>
+        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="74"/>
         <source>By JID</source>
         <translation>Podle JID</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="52"/>
+        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="77"/>
         <source>By namespace uri</source>
         <translation>Podle názvu URI</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="55"/>
+        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="80"/>
         <source>By all attributes</source>
         <translation>Podle všech atributů</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="60"/>
+        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="85"/>
         <source>Visible stanzas</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="63"/>
+        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="88"/>
         <source>Information query</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="67"/>
+        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="92"/>
         <source>Message</source>
         <translation>Zpráva</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="71"/>
+        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="96"/>
         <source>Presence</source>
         <translation type="unfinished">Prezence</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="75"/>
+        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="100"/>
         <source>Custom</source>
         <translation type="unfinished">Vlastní</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="91"/>
+        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="116"/>
         <source>Close</source>
         <translation>Zavřít</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="352"/>
+        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="377"/>
         <source>Save XMPP log to file</source>
         <translation type="unfinished">Uložit XMPP log do souboru</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="353"/>
+        <location filename="protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="378"/>
         <source>OpenDocument Format (*.odf);;HTML file (*.html);;Plain text (*.txt)</source>
         <translation>OpenDocument formát (*.odf);;HTML soubor (*.html);;Prostý text (*.txt)</translation>
     </message>

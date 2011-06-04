@@ -48,14 +48,12 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../plugins/connectionmanager/connectionmanagerplugin.cpp" line="+11"/>
         <source>ConnectionManager</source>
-        <translation type="unfinished">Менеджер соединения</translation>
+        <translation type="obsolete">Менеджер соединения</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Used to monitor the availability of network.</source>
-        <translation type="unfinished">Используется для отслеживания доступности сети.</translation>
+        <translation type="obsolete">Используется для отслеживания доступности сети.</translation>
     </message>
 </context>
 <context>

@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/winintegration/src/winint.cpp" line="+38"/>
+        <location filename="../../plugins/winintegration/src/winint.cpp" line="+63"/>
         <source>Vizir Ivan</source>
         <translation>Визир Иван</translation>
     </message>
@@ -36,12 +36,12 @@
     </message>
     <message>
         <location filename="../../plugins/winintegration/src/winint.cpp" line="+3"/>
-        <location line="+12"/>
+        <location line="+13"/>
         <source>Windows Integration</source>
         <translation>Интеграция с Windows®©™</translation>
     </message>
     <message>
-        <location line="-11"/>
+        <location line="-12"/>
         <source>Adds count of unread messages as an icon to taskbar button of qutim, along with some commands list and provides a bit more usable notification area icon than default plugin.</source>
         <translation>Добавляет взаимодействие с супербаром windows, количество непрочитанных сообщений, команды, уведомления итп.</translation>
     </message>
@@ -49,30 +49,26 @@
 <context>
     <name>SelectAccDlg</name>
     <message>
-        <location filename="../../plugins/winintegration/src/selectaccdlg.ui" line="+14"/>
         <source>Dialog</source>
-        <translation>Диалог</translation>
+        <translation type="obsolete">Диалог</translation>
     </message>
     <message>
-        <location line="+25"/>
         <source>Select your account</source>
-        <translation>Выберите аккаунт</translation>
+        <translation type="obsolete">Выберите аккаунт</translation>
     </message>
     <message>
-        <location line="+18"/>
         <source>Please, select one of your accout to chat with Jabber ID %1.</source>
-        <translation>Выберите аккаунт jabber, для чата с %1.</translation>
+        <translation type="obsolete">Выберите аккаунт jabber, для чата с %1.</translation>
     </message>
     <message>
-        <location line="+12"/>
         <source>Available accounts:</source>
-        <translation>Доступные аккаунты:</translation>
+        <translation type="obsolete">Доступные аккаунты:</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../plugins/winintegration/src/winint.cpp" line="-3"/>
+        <location line="-3"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -172,7 +168,7 @@
 <context>
     <name>WThumbnailsProvider</name>
     <message>
-        <location filename="../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="+91"/>
+        <location filename="../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="+116"/>
         <source>&lt;b&gt;You have new messages.&lt;/b&gt;</source>
         <translation>&lt;b&gt;У тебя новые сообщения.&lt;/b&gt;</translation>
     </message>

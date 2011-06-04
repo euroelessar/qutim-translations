@@ -4,9 +4,8 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="plugins/olddelegate/contactlistitemdelegate.cpp" line="55"/>
         <source>ContactList</source>
-        <translation>Seznam kontaktů</translation>
+        <translation type="obsolete">Seznam kontaktů</translation>
     </message>
     <message>
         <location filename="plugins/olddelegate/settings/olddelegatesettings.cpp" line="17"/>
@@ -37,6 +36,11 @@
         <location filename="plugins/olddelegate/settings/olddelegatesettings.cpp" line="22"/>
         <source>Huge (64x64)</source>
         <translation>Obrovská (64x64)</translation>
+    </message>
+    <message>
+        <location filename="plugins/olddelegate/contactlistitemdelegate.cpp" line="76"/>
+        <source>qutIM 0.2 style</source>
+        <translation>qutIM 0.2 styl</translation>
     </message>
 </context>
 <context>
@@ -70,6 +74,19 @@
         <location filename="plugins/olddelegate/settings/olddelegatesettings.ui" line="54"/>
         <source>Theme:</source>
         <translation>Motiv:</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin</name>
+    <message>
+        <location filename="plugins/olddelegate/contactlistitemdelegate.cpp" line="54"/>
+        <source>Old contact delegate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="plugins/olddelegate/contactlistitemdelegate.cpp" line="55"/>
+        <source>Port of contact list delegate from 0.2</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

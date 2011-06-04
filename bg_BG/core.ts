@@ -2363,7 +2363,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Notification</name>
     <message>
-        <location filename="../../qutim/core/libqutim/notification.cpp" line="+110"/>
+        <location filename="../../qutim/core/libqutim/notification.cpp" line="+117"/>
         <source>Incoming Message</source>
         <translation>Входящо съобщение</translation>
     </message>
@@ -3489,8 +3489,9 @@ p, li { white-space: pre-wrap; }
         <translation>Да не се групират съобщенията след (след):</translation>
     </message>
     <message>
+        <location line="+14"/>
         <source>Notifications in active chat</source>
-        <translation type="obsolete">Уведомления в активния прозорец със съобщения</translation>
+        <translation>Уведомления в активния прозорец със съобщения</translation>
     </message>
 </context>
 <context>
