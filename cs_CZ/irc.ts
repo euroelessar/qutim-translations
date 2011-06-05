@@ -34,27 +34,22 @@
         <translation>Heslo:</translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ui/addaccountform.ui" line="127"/>
+        <location filename="protocols/irc/src/ui/addaccountform.ui" line="130"/>
         <source>Port:</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ui/addaccountform.ui" line="137"/>
+        <location filename="protocols/irc/src/ui/addaccountform.ui" line="140"/>
         <source>Server:</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ui/addaccountform.ui" line="144"/>
+        <location filename="protocols/irc/src/ui/addaccountform.ui" line="147"/>
         <source>Protected by password</source>
         <translation>Chráněno heslem</translation>
     </message>
     <message>
         <location filename="protocols/irc/src/ui/addaccountform.ui" line="154"/>
-        <source>Save password</source>
-        <translation>Uložit heslo</translation>
-    </message>
-    <message>
-        <location filename="protocols/irc/src/ui/addaccountform.ui" line="161"/>
         <source>Secure Connection (SSL)</source>
         <translation>Zabezpečené připojení (SSL)</translation>
     </message>
@@ -774,88 +769,88 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="147"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="148"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="263"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="267"/>
         <source>Message of the day:</source>
         <translation type="unfinished">Zpráva dne:</translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="265"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="269"/>
         <source>End of message of the day</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="273"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="277"/>
         <source>Start of /LIST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="291"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="295"/>
         <source>End of /LIST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="293"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="297"/>
         <source>Bad list syntax, type /QUOTE HELP LIST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="298"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="302"/>
         <source>Server load is temporarily too heavy.
 Please wait a while and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="309"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="313"/>
         <source>%1 set away message &quot;%2&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="313"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="317"/>
         <source>%1 removed away message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="318"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="322"/>
         <source>You are no longer marked as being away</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="320"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="324"/>
         <source>You have been marked as being away</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="614"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="636"/>
         <source>SSL error: %1</source>
         <translation type="unfinished">SSL chyba: %1</translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="620"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="642"/>
         <source>SSL handshake completed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="419"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="423"/>
         <source>Add at least one server before connecting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="421"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="425"/>
         <source>Set at least one nick before connecting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="423"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="427"/>
         <source>Cannot connect to %1 network</source>
         <translation>Nelze se připojit do sítě %1</translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="600"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="620"/>
         <source>Network error: %1</source>
         <translation>Síťová chyba: %1</translation>
     </message>

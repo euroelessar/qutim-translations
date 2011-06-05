@@ -600,12 +600,12 @@
     </message>
     <message>
         <location filename="protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="80"/>
-        <location filename="protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="206"/>
+        <location filename="protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="205"/>
         <source>About</source>
         <translation>O...</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="113"/>
+        <location filename="protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="112"/>
         <source>General</source>
         <translation>Obecné</translation>
     </message>
@@ -813,12 +813,12 @@
         <translation>Automaticky vstoupit</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="672"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="676"/>
         <source>You are already in conference with another nick</source>
         <translation type="unfinished">Již jste v konferenci pod jinou přezdívkou</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="685"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="692"/>
         <source>Please select another nickname</source>
         <translation type="unfinished">Prosím vyberte jinou přezdívku</translation>
     </message>
@@ -966,123 +966,123 @@
 <context>
     <name>Jabber::JMUCSession</name>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="250"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="252"/>
         <source> has been banned</source>
         <translation>byl(a) zabanován(a)</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="250"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="252"/>
         <source> has been kicked</source>
         <translation>byl(a) vyhozen(a)</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="255"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="257"/>
         <source>You has been banned at </source>
         <translation>Byl jsi zabanován v</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="255"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="257"/>
         <source>You has been kicked from </source>
         <translation>Byl jsi vykopnut z</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="257"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="259"/>
         <source>with reason: </source>
         <translation>s odůvodněním:</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="259"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="261"/>
         <source>Do you want to rejoin?</source>
         <translation>Chcete znovu vstoupit?</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="260"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="262"/>
         <source>You have been kicked</source>
         <translation>Byl jsi vykopnut</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="264"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="266"/>
         <source>You have been banned</source>
         <translation>Byl jsi zabanován</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="280"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="282"/>
         <source> is now known as </source>
         <translation>se přejmenoval(a) na</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="306"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="308"/>
         <source> has joined the room</source>
         <translation>vstoupil(a) do místnosti</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="308"/>
         <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="310"/>
         <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="312"/>
         <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="314"/>
         <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="316"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="318"/>
         <source> as</source>
         <translation> jako</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="308"/>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="337"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="310"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="339"/>
         <source> owner</source>
         <translation>vlastník</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="310"/>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="339"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="312"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="341"/>
         <source> administrator</source>
         <translation>administrátor</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="312"/>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="345"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="314"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="347"/>
         <source> registered member</source>
         <translation>registrovaný člen</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="314"/>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="341"/>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="353"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="316"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="343"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="355"/>
         <source> participant</source>
         <translation>účastník</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="316"/>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="343"/>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="349"/>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="355"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="318"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="345"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="351"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="357"/>
         <source> visitor</source>
         <translation>návštěvník</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="323"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="325"/>
         <source> has left the room</source>
         <translation>opustil(a) místnost</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="335"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="337"/>
         <source> now is</source>
         <translation>nyní je</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="341"/>
         <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="343"/>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="347"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="345"/>
         <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="349"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="351"/>
         <source> and</source>
         <translation> a</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="347"/>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="351"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="349"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="353"/>
         <source> moderator</source>
         <translation>moderátor</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="464"/>
+        <location filename="protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="466"/>
         <source>Subject:</source>
         <translation>Téma:</translation>
     </message>
@@ -1136,12 +1136,12 @@
         <translation>Zadejte důvod zabanování pro %1</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/jprotocol.cpp" line="490"/>
+        <location filename="protocols/jabber/src/protocol/jprotocol.cpp" line="491"/>
         <source>Possible client</source>
         <translation>Pravděpodobný klient</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/jprotocol.cpp" line="491"/>
+        <location filename="protocols/jabber/src/protocol/jprotocol.cpp" line="492"/>
         <source>Show client icon</source>
         <translation>Zobrazit ikonu klienta</translation>
     </message>
@@ -1154,22 +1154,22 @@
         <translation>Kontakt %1 byl přidán do seznamu kontaktů</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/roster/jroster.cpp" line="150"/>
+        <location filename="protocols/jabber/src/protocol/account/roster/jroster.cpp" line="151"/>
         <source>Contact %1 has been removed from roster</source>
         <translation>Kontakt %1 byl odstraněn ze seznamu kontaktů</translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/roster/jroster.cpp" line="319"/>
+        <location filename="protocols/jabber/src/protocol/account/roster/jroster.cpp" line="321"/>
         <source>Received a request for removal from the subscribers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/roster/jroster.cpp" line="327"/>
+        <location filename="protocols/jabber/src/protocol/account/roster/jroster.cpp" line="329"/>
         <source>You have been removed from the list of subscribers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/jabber/src/protocol/account/roster/jroster.cpp" line="335"/>
+        <location filename="protocols/jabber/src/protocol/account/roster/jroster.cpp" line="337"/>
         <source>You have been added to the list of subscribers</source>
         <translation type="unfinished"></translation>
     </message>

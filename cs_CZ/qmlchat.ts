@@ -14,38 +14,38 @@
         <translation>Franta Vopršálek</translation>
     </message>
     <message>
-        <location filename="plugins/qmlchat/settings/chatappearance.cpp" line="123"/>
-        <location filename="plugins/qmlchat/settings/chatappearance.cpp" line="176"/>
+        <location filename="plugins/qmlchat/settings/chatappearance.cpp" line="125"/>
+        <location filename="plugins/qmlchat/settings/chatappearance.cpp" line="181"/>
         <source>Unable to create chat session</source>
         <translation>Nelze vytvořit session konverzace</translation>
     </message>
     <message>
-        <location filename="plugins/qmlchat/settings/chatappearance.cpp" line="179"/>
+        <location filename="plugins/qmlchat/settings/chatappearance.cpp" line="185"/>
         <source>Preview message</source>
         <translation>Náhled zprávy</translation>
     </message>
     <message>
-        <location filename="plugins/qmlchat/settings/chatappearance.cpp" line="186"/>
+        <location filename="plugins/qmlchat/settings/chatappearance.cpp" line="192"/>
         <source>Hello!</source>
         <translation>Ahoj!</translation>
     </message>
     <message>
-        <location filename="plugins/qmlchat/settings/chatappearance.cpp" line="189"/>
+        <location filename="plugins/qmlchat/settings/chatappearance.cpp" line="195"/>
         <source>How are you?</source>
         <translation>Jak se máš?</translation>
     </message>
     <message>
-        <location filename="plugins/qmlchat/settings/chatappearance.cpp" line="192"/>
+        <location filename="plugins/qmlchat/settings/chatappearance.cpp" line="198"/>
         <source>I am fine!</source>
         <translation>Mám se dobře!</translation>
     </message>
     <message>
-        <location filename="plugins/qmlchat/settings/chatappearance.cpp" line="195"/>
+        <location filename="plugins/qmlchat/settings/chatappearance.cpp" line="201"/>
         <source>/me is thinking!</source>
         <translation>/me přemýšlí!</translation>
     </message>
     <message>
-        <location filename="plugins/qmlchat/settings/chatappearance.cpp" line="198"/>
+        <location filename="plugins/qmlchat/settings/chatappearance.cpp" line="204"/>
         <source>Vasya Pupkin is reading you mind</source>
         <translation>Jan Novák čte tvé myšlenky</translation>
     </message>

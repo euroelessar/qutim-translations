@@ -3,10 +3,15 @@
 <TS version="2.0" language="cs_CZ" sourcelanguage="en_GB">
 <context>
     <name>ConnectionManager::ConnectionManager</name>
-    <message>
+    <message numerus="yes">
         <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="114"/>
-        <source>within %1 seconds</source>
-        <translation>za %1 sekund</translation>
+        <source>within %n seconds</source>
+        <comment>reconnect at</comment>
+        <translation>
+            <numerusform>za %n sekund</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
     </message>
     <message>
         <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="115"/>
@@ -14,14 +19,9 @@
         <translation>okamžitě</translation>
     </message>
     <message>
-        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="123"/>
+        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="124"/>
         <source>%1 will be reconnected %2</source>
         <translation>%1 bude znovu připojeno %2</translation>
-    </message>
-    <message>
-        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="124"/>
-        <source>ConnectionManager</source>
-        <translation>Správce připojení</translation>
     </message>
 </context>
 <context>

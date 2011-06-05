@@ -3426,12 +3426,12 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="protocols/oscar/src/icqprotocol.cpp" line="62"/>
+        <location filename="protocols/oscar/src/icqprotocol.cpp" line="67"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/icqprotocol.cpp" line="67"/>
+        <location filename="protocols/oscar/src/icqprotocol.cpp" line="72"/>
         <source>Icq account settings</source>
         <translation>ICQ nastavení účtu</translation>
     </message>

@@ -4,27 +4,27 @@
 <context>
     <name>AWNService</name>
     <message>
-        <location filename="plugins/awn/src/awnservice.cpp" line="273"/>
+        <location filename="plugins/awn/src/awnservice.cpp" line="271"/>
         <source>Show/Hide</source>
         <translation>Zobrazit/Skrýt</translation>
     </message>
     <message>
-        <location filename="plugins/awn/src/awnservice.cpp" line="274"/>
+        <location filename="plugins/awn/src/awnservice.cpp" line="272"/>
         <source>Read all messages</source>
         <translation>Přečíst všechny zprávy</translation>
     </message>
     <message>
-        <location filename="plugins/awn/src/awnservice.cpp" line="275"/>
+        <location filename="plugins/awn/src/awnservice.cpp" line="273"/>
         <source>Go online</source>
         <translation>Přejít do online</translation>
     </message>
     <message>
-        <location filename="plugins/awn/src/awnservice.cpp" line="276"/>
+        <location filename="plugins/awn/src/awnservice.cpp" line="274"/>
         <source>Go offline</source>
         <translation>Přejít do offline</translation>
     </message>
     <message>
-        <location filename="plugins/awn/src/awnservice.cpp" line="277"/>
+        <location filename="plugins/awn/src/awnservice.cpp" line="275"/>
         <source>Exit QutIM</source>
         <translation>Ukončit qutIM</translation>
     </message>

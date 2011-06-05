@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="plugins/scriptapi/src/scriptplugin.cpp" line="29"/>
+        <location filename="plugins/scriptapi/src/scriptplugin.cpp" line="51"/>
         <source>Ruslan Nigmatullin</source>
         <translation></translation>
     </message>
@@ -12,12 +12,12 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="plugins/scriptapi/src/scriptplugin.cpp" line="32"/>
+        <location filename="plugins/scriptapi/src/scriptplugin.cpp" line="54"/>
         <source>Script API</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="plugins/scriptapi/src/scriptplugin.cpp" line="33"/>
+        <location filename="plugins/scriptapi/src/scriptplugin.cpp" line="55"/>
         <source>Added ability to create plugins at JavaScript</source>
         <translation>Přidává schopnost vytvářet pluginy v JavaScriptu</translation>
     </message>
@@ -25,7 +25,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="plugins/scriptapi/src/scriptplugin.cpp" line="30"/>
+        <location filename="plugins/scriptapi/src/scriptplugin.cpp" line="52"/>
         <source>Developer</source>
         <translation>Vývojář</translation>
     </message>

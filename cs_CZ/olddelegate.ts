@@ -4,10 +4,6 @@
 <context>
     <name>ContactList</name>
     <message>
-        <source>ContactList</source>
-        <translation type="obsolete">Seznam kontaktů</translation>
-    </message>
-    <message>
         <location filename="plugins/olddelegate/settings/olddelegatesettings.cpp" line="17"/>
         <source>Default (depends on platform)</source>
         <translation>Výchozí (záleží na platformě)</translation>
