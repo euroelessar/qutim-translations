@@ -168,7 +168,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/protocols/oscar/src/oscarplugin.cpp" line="+48"/>
+        <location filename="../../qutim/protocols/oscar/src/oscarplugin.cpp" line="+47"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -3445,7 +3445,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/icqprotocol.cpp" line="+62"/>
+        <location filename="../../qutim/protocols/oscar/src/icqprotocol.cpp" line="+67"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>

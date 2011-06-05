@@ -65,12 +65,12 @@ Unread messages: %2</source>
 <context>
     <name>MrimConnection</name>
     <message>
-        <location filename="../../qutim/protocols/mrim/src/base/mrimconnection.cpp" line="+244"/>
+        <location filename="../../qutim/protocols/mrim/src/base/mrimconnection.cpp" line="+246"/>
         <source>Another client with same login connected!</source>
         <translation>Друг клиент, със същите детайли за вход се е свързал!</translation>
     </message>
     <message>
-        <location line="+219"/>
+        <location line="+221"/>
         <source>Authentication failed!
 Reason: %1</source>
         <translation>Неуспешно удостоверяване!

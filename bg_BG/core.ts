@@ -139,7 +139,7 @@
         <translation>Недостъпен</translation>
     </message>
     <message>
-        <location line="+100"/>
+        <location line="+102"/>
         <source>Remove contact</source>
         <translation>Премахване на контакта</translation>
     </message>
@@ -420,7 +420,7 @@ p, li { white-space: pre-wrap; }
         <translation>Основна</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-166"/>
+        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-168"/>
         <source>Show information</source>
         <translation>Показване на информация</translation>
     </message>
@@ -730,13 +730,13 @@ p, li { white-space: pre-wrap; }
         <translation>Безименен</translation>
     </message>
     <message>
-        <location line="+63"/>
-        <location line="+80"/>
+        <location line="+65"/>
+        <location line="+83"/>
         <source>Unable to create chat session</source>
         <translation>Невъзможно е създаването на сесия за разговор</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>Preview message</source>
         <translation>Предварителен преглед на съобщението</translation>
     </message>
@@ -934,7 +934,7 @@ p, li { white-space: pre-wrap; }
         <translation>Списък на сесиите</translation>
     </message>
     <message>
-        <location line="+53"/>
+        <location line="+54"/>
         <source>Send</source>
         <translation>Изпращане</translation>
     </message>
@@ -1559,7 +1559,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleActions</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+79"/>
+        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+81"/>
         <source>Rename contact %1</source>
         <translation>Преименуване на контакта %1</translation>
     </message>
@@ -2816,7 +2816,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Системно съобщение от %1:</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/libqutim/notificationslayer.cpp" line="+139"/>
+        <location filename="../../qutim/core/libqutim/notificationslayer.cpp" line="+134"/>
         <location filename="../../qutim/core/src/corelayers/notificationfilter/notificationfilter.cpp" line="+51"/>
         <source>%1 changed status</source>
         <translation>%1 промени статуса си</translation>
@@ -2995,7 +2995,7 @@ p, li { white-space: pre-wrap; }
         <translation>Област с действия</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/libqutim/notificationslayer.cpp" line="-93"/>
+        <location filename="../../qutim/core/libqutim/notificationslayer.cpp" line="-88"/>
         <source>Popup</source>
         <translation>Уведомление</translation>
     </message>
@@ -3207,7 +3207,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Shortcut</name>
     <message>
-        <location filename="../../qutim/core/libqutim/shortcut.cpp" line="+75"/>
+        <location filename="../../qutim/core/libqutim/shortcut.cpp" line="+66"/>
         <source>Close</source>
         <translation>Затваряне</translation>
     </message>
@@ -3421,7 +3421,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Sound</name>
     <message>
-        <location filename="../../qutim/core/libqutim/notificationslayer.cpp" line="+286"/>
+        <location filename="../../qutim/core/libqutim/notificationslayer.cpp" line="+281"/>
         <source>No sound</source>
         <translation>Без звук</translation>
     </message>

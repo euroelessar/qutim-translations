@@ -605,12 +605,12 @@
     </message>
     <message>
         <location line="+1"/>
-        <location line="+126"/>
+        <location line="+125"/>
         <source>About</source>
         <translation>За мен</translation>
     </message>
     <message>
-        <location line="-137"/>
+        <location line="-136"/>
         <source>Country</source>
         <translation>Държава</translation>
     </message>
@@ -625,7 +625,7 @@
         <translation>Мобилен телефон</translation>
     </message>
     <message>
-        <location line="+52"/>
+        <location line="+51"/>
         <source>General</source>
         <translation>Основна</translation>
     </message>
@@ -808,7 +808,7 @@
 <context>
     <name>Jabber</name>
     <message>
-        <location filename="../../qutim-meta/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+131"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="+131"/>
         <source>Xml console</source>
         <translation>XML конзола</translation>
     </message>
@@ -888,12 +888,12 @@
         <translation type="obsolete">Вече сте в конференцията с друг псевдоним</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+672"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+676"/>
         <source>You are already in conference with another nick</source>
         <translation>Вече сте в конференцията с друг псевдоним</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="+16"/>
         <source>Please select another nickname</source>
         <translation>Моля, изберете друг псевдоним</translation>
     </message>
@@ -994,7 +994,7 @@
 <context>
     <name>Jabber::JMUCSession</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-426"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-431"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете ли да се присъедините повторно?</translation>
     </message>
@@ -1164,7 +1164,7 @@
         <translation>Въведете причина за забраната на %1</translation>
     </message>
     <message>
-        <location line="+230"/>
+        <location line="+231"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
@@ -1177,7 +1177,7 @@
 <context>
     <name>Jabber::JRoster</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+335"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+337"/>
         <source>You have been added to the list of subscribers</source>
         <translation>Бяхте добавени в списъка с абонати</translation>
     </message>
@@ -1187,17 +1187,17 @@
         <translation>Бяхте премахнати от списъка с абонати</translation>
     </message>
     <message>
-        <location line="-205"/>
+        <location line="-207"/>
         <source>Contact %1 has been added to roster</source>
         <translation>Контактът %1 бе добавен към списъка</translation>
     </message>
     <message>
-        <location line="+28"/>
+        <location line="+29"/>
         <source>Contact %1 has been removed from roster</source>
         <translation>Контактът %1 бе премахнат списъка</translation>
     </message>
     <message>
-        <location line="+169"/>
+        <location line="+170"/>
         <source>Received a request for removal from the subscribers</source>
         <translation>Получи се заявка за премахване от списъка с абонати</translation>
     </message>
@@ -2103,7 +2103,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/jprotocol.cpp" line="-317"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/jprotocol.cpp" line="-318"/>
         <source>Main settings</source>
         <translation>Основни настройки</translation>
     </message>

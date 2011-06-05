@@ -870,7 +870,7 @@
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
     </message>
     <message>
-        <location line="+116"/>
+        <location line="+119"/>
         <source>Message of the day:</source>
         <translation>Съобщение за деня:</translation>
     </message>
@@ -907,7 +907,7 @@ Please wait a while and try again.</source>
         <translation>%1 зададе съобщение при отсъствие: &quot;%2&quot;</translation>
     </message>
     <message>
-        <location line="+317"/>
+        <location line="+323"/>
         <source>SSL error: %1</source>
         <translation>SSL грешка: %1</translation>
     </message>
@@ -921,7 +921,7 @@ Please wait a while and try again.</source>
         <translation type="obsolete">%1 зададе съобщение при отсъствие: %2</translation>
     </message>
     <message>
-        <location line="-319"/>
+        <location line="-325"/>
         <source>%1 removed away message</source>
         <translation>%1 премахна съобщението при отсъствие</translation>
     </message>
@@ -994,7 +994,7 @@ Please wait a while and try again.</source>
         <translation>Невъзможно е свързването към мрежата %1</translation>
     </message>
     <message>
-        <location line="+189"/>
+        <location line="+193"/>
         <source>Network error: %1</source>
         <translation>Мрежова грешка: %1</translation>
     </message>

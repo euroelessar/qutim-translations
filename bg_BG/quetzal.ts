@@ -4,7 +4,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim/protocols/quetzal/src/quetzalplugin.cpp" line="+616"/>
+        <location filename="../../qutim/protocols/quetzal/src/quetzalplugin.cpp" line="+650"/>
         <source>Quetzal</source>
         <translation>Quetzal</translation>
     </message>
