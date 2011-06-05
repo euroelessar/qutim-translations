@@ -947,7 +947,7 @@
         <translation>Сервер %1 (Версия %2), Режимы пользователей: %3, Режимы каналов: %4</translation>
     </message>
     <message>
-        <location line="+116"/>
+        <location line="+119"/>
         <source>Message of the day:</source>
         <translation>Сообщение дня:</translation>
     </message>
@@ -984,7 +984,7 @@ Please wait a while and try again.</source>
         <translation>%1 установил сообщение отсутствия &quot;%2&quot;</translation>
     </message>
     <message>
-        <location line="+317"/>
+        <location line="+323"/>
         <source>SSL error: %1</source>
         <translation>Ошибка SSL: %1</translation>
     </message>
@@ -998,7 +998,7 @@ Please wait a while and try again.</source>
         <translation type="obsolete">%1 установил сообщение отсутствия %2</translation>
     </message>
     <message>
-        <location line="-319"/>
+        <location line="-325"/>
         <source>%1 removed away message</source>
         <translation>%1 удалил сообщение отстутствия</translation>
     </message>
@@ -1041,7 +1041,7 @@ Please wait a while and try again.</source>
         <translation>Не удалось полклюиться к сети %1</translation>
     </message>
     <message>
-        <location line="+189"/>
+        <location line="+193"/>
         <source>Network error: %1</source>
         <translation>Ошибка сети: %1</translation>
     </message>
@@ -1118,12 +1118,12 @@ Please wait a while and try again.</source>
     <message>
         <location line="+8"/>
         <source>%1 is a user on channels: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 сидит на каналах:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>%1 is logged in as %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 зашел как %2</translation>
     </message>
     <message>
         <location line="+5"/>

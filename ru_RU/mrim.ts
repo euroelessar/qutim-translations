@@ -100,12 +100,12 @@ Unread messages: %2</source>
         <translation type="obsolete">Ошибка аутентификации!</translation>
     </message>
     <message>
-        <location filename="../../protocols/mrim/src/base/mrimconnection.cpp" line="+244"/>
+        <location filename="../../protocols/mrim/src/base/mrimconnection.cpp" line="+246"/>
         <source>Another client with same login connected!</source>
         <translation>Другой клиент подключился с тем же логином!</translation>
     </message>
     <message>
-        <location line="+219"/>
+        <location line="+221"/>
         <source>Authentication failed!
 Reason: %1</source>
         <translation type="unfinished">Ошибка Аутентификации

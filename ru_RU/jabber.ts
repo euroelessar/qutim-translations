@@ -621,7 +621,7 @@
     </message>
     <message>
         <location line="+1"/>
-        <location line="+126"/>
+        <location line="+125"/>
         <source>About</source>
         <translation>О плагине</translation>
     </message>
@@ -630,7 +630,7 @@
         <translation type="obsolete">Работа</translation>
     </message>
     <message>
-        <location line="-137"/>
+        <location line="-136"/>
         <source>Country</source>
         <translation>Страна</translation>
     </message>
@@ -661,7 +661,7 @@
         <translation type="obsolete">Год выпуска</translation>
     </message>
     <message>
-        <location line="+52"/>
+        <location line="+51"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
@@ -1038,12 +1038,12 @@
         <translation type="obsolete">Вы уже в конференции с другим ником</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+672"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+676"/>
         <source>You are already in conference with another nick</source>
         <translation>Вы уже в конференции с другим ником</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="+16"/>
         <source>Please select another nickname</source>
         <translation>Пожалуйста выберите другой ник</translation>
     </message>
@@ -1324,7 +1324,7 @@ Accept invitation?</source>
 </translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-426"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-431"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете перезайти?</translation>
     </message>
@@ -1566,7 +1566,7 @@ Accept invitation?</source>
         <translation>Укажите причину блокировки %1</translation>
     </message>
     <message>
-        <location line="+230"/>
+        <location line="+231"/>
         <source>Possible client</source>
         <translation>Возможный клиент</translation>
     </message>
@@ -1583,7 +1583,7 @@ Accept invitation?</source>
         <translation type="obsolete">Не в списке</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+335"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+337"/>
         <source>You have been added to the list of subscribers</source>
         <translation>Вы были добавлены в список подписчиков</translation>
     </message>
@@ -1593,17 +1593,17 @@ Accept invitation?</source>
         <translation>Вы были исключены из списка подписчиков</translation>
     </message>
     <message>
-        <location line="-205"/>
+        <location line="-207"/>
         <source>Contact %1 has been added to roster</source>
         <translation>Контакт %1 добавлен в ростер</translation>
     </message>
     <message>
-        <location line="+28"/>
+        <location line="+29"/>
         <source>Contact %1 has been removed from roster</source>
         <translation>Контакт %1 удален из ростера</translation>
     </message>
     <message>
-        <location line="+169"/>
+        <location line="+170"/>
         <source>Received a request for removal from the subscribers</source>
         <translation>Принят запрос на удаление из подписок</translation>
     </message>
@@ -2604,7 +2604,7 @@ Accept invitation?</source>
         <translation type="obsolete">Jabber</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-317"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-318"/>
         <source>Main settings</source>
         <translation type="unfinished">Общее</translation>
     </message>

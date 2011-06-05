@@ -11,10 +11,19 @@
 <context>
     <name>ConnectionManager::ConnectionManager</name>
     <message>
-        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="+114"/>
         <source>within %1 seconds</source>
         <translatorcomment>Как тут с формами быть, няшка?</translatorcomment>
-        <translation>в течение %1 секунд</translation>
+        <translation type="obsolete">в течение %1 секунд</translation>
+    </message>
+    <message numerus="yes">
+        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="+114"/>
+        <source>within %n seconds</source>
+        <comment>reconnect at</comment>
+        <translation type="unfinished">
+            <numerusform>в течение %n секунды</numerusform>
+            <numerusform>в течение %n секунд</numerusform>
+            <numerusform>в течение %n секунд</numerusform>
+        </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -22,14 +31,13 @@
         <translation>немедленно</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+9"/>
         <source>%1 will be reconnected %2</source>
         <translation>%1 будет переподключен %2</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>ConnectionManager</source>
-        <translation>Менеджер соединения</translation>
+        <translation type="obsolete">Менеджер соединения</translation>
     </message>
 </context>
 <context>

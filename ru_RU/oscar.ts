@@ -3636,7 +3636,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/oscar/src/icqprotocol.cpp" line="+62"/>
+        <location filename="../../protocols/oscar/src/icqprotocol.cpp" line="+67"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>

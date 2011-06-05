@@ -14,38 +14,38 @@
         <translation type="unfinished">Анонимус</translation>
     </message>
     <message>
-        <location filename="../../plugins/qmlchat/settings/chatappearance.cpp" line="123"/>
-        <location filename="../../plugins/qmlchat/settings/chatappearance.cpp" line="176"/>
+        <location filename="../../plugins/qmlchat/settings/chatappearance.cpp" line="125"/>
+        <location filename="../../plugins/qmlchat/settings/chatappearance.cpp" line="181"/>
         <source>Unable to create chat session</source>
         <translation type="unfinished">Невозможно создать сессию чата</translation>
     </message>
     <message>
-        <location filename="../../plugins/qmlchat/settings/chatappearance.cpp" line="179"/>
+        <location filename="../../plugins/qmlchat/settings/chatappearance.cpp" line="185"/>
         <source>Preview message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Проверка</translation>
     </message>
     <message>
-        <location filename="../../plugins/qmlchat/settings/chatappearance.cpp" line="186"/>
+        <location filename="../../plugins/qmlchat/settings/chatappearance.cpp" line="192"/>
         <source>Hello!</source>
         <translation type="unfinished">Привет!</translation>
     </message>
     <message>
-        <location filename="../../plugins/qmlchat/settings/chatappearance.cpp" line="189"/>
+        <location filename="../../plugins/qmlchat/settings/chatappearance.cpp" line="195"/>
         <source>How are you?</source>
         <translation type="unfinished">Как дела?</translation>
     </message>
     <message>
-        <location filename="../../plugins/qmlchat/settings/chatappearance.cpp" line="192"/>
+        <location filename="../../plugins/qmlchat/settings/chatappearance.cpp" line="198"/>
         <source>I am fine!</source>
         <translation type="unfinished">Еще не родила!</translation>
     </message>
     <message>
-        <location filename="../../plugins/qmlchat/settings/chatappearance.cpp" line="195"/>
+        <location filename="../../plugins/qmlchat/settings/chatappearance.cpp" line="201"/>
         <source>/me is thinking!</source>
         <translation type="unfinished">/me не понял этот бред</translation>
     </message>
     <message>
-        <location filename="../../plugins/qmlchat/settings/chatappearance.cpp" line="198"/>
+        <location filename="../../plugins/qmlchat/settings/chatappearance.cpp" line="204"/>
         <source>Vasya Pupkin is reading you mind</source>
         <translation type="unfinished">Вася пупкин читает твои мысли, несчастный</translation>
     </message>
