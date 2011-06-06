@@ -104,10 +104,6 @@
         <translation>Каращ колело</translation>
     </message>
     <message>
-        <source>Cancing</source>
-        <translation type="obsolete">Танцуващ</translation>
-    </message>
-    <message>
         <location line="+2"/>
         <source>Day off</source>
         <translation>В отпуск</translation>
@@ -161,14 +157,6 @@
         <location line="+1"/>
         <source>Hanging out</source>
         <translation>Простиращ</translation>
-    </message>
-    <message>
-        <source>Having a_beer</source>
-        <translation type="obsolete">Пиещ бира</translation>
-    </message>
-    <message>
-        <source>Having a_snack</source>
-        <translation type="obsolete">Хапващ на бързо</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -432,14 +420,6 @@
         <location line="+3"/>
         <source>Nikita Belov</source>
         <translation>Никита Белов</translation>
-    </message>
-    <message>
-        <source>Aleksey Sidorov</source>
-        <translation type="obsolete">Алексей Сидоров</translation>
-    </message>
-    <message>
-        <source>Ruslan Nigmatullin</source>
-        <translation type="obsolete">Руслан Нигматуллин</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -830,10 +810,6 @@
         <translation>Запазване в отметките</translation>
     </message>
     <message>
-        <source>Change Subscription</source>
-        <translation type="obsolete">Промяна на абонамента</translation>
-    </message>
-    <message>
         <location line="-129"/>
         <source>Leave conference</source>
         <translation>Напускане на конференцията</translation>
@@ -884,11 +860,7 @@
         <translation>Автоматично присъединяване</translation>
     </message>
     <message>
-        <source>You already in conference with another nick</source>
-        <translation type="obsolete">Вече сте в конференцията с друг псевдоним</translation>
-    </message>
-    <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+676"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+704"/>
         <source>You are already in conference with another nick</source>
         <translation>Вече сте в конференцията с друг псевдоним</translation>
     </message>
@@ -994,7 +966,7 @@
 <context>
     <name>Jabber::JMUCSession</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-431"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-436"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете ли да се присъедините повторно?</translation>
     </message>
@@ -1004,7 +976,7 @@
         <translation>Бяхте изритан</translation>
     </message>
     <message>
-        <location line="+48"/>
+        <location line="+50"/>
         <location line="+2"/>
         <location line="+2"/>
         <location line="+2"/>
@@ -1039,7 +1011,7 @@
         <translation>.посетител</translation>
     </message>
     <message>
-        <location line="-105"/>
+        <location line="-107"/>
         <source> has been banned</source>
         <translation> е с наложена забрана</translation>
     </message>
@@ -1074,7 +1046,7 @@
         <translation> сега се подвизава като </translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+28"/>
         <source> has joined the room</source>
         <translation> влезе в стаята</translation>
     </message>
@@ -1110,7 +1082,7 @@
         <translation> модератор</translation>
     </message>
     <message>
-        <location line="+113"/>
+        <location line="+115"/>
         <source>Subject:</source>
         <translation>Тема:</translation>
     </message>

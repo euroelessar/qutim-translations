@@ -8,10 +8,6 @@
         <source>Sidorov Aleksey</source>
         <translation>Алексей Сидоров</translation>
     </message>
-    <message>
-        <source>Aleksey Sidorov</source>
-        <translation type="obsolete">Алексей Сидоров</translation>
-    </message>
 </context>
 <context>
     <name>Plugin</name>

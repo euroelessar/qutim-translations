@@ -8,25 +8,6 @@
         <source>Sidorov Aleksey</source>
         <translation>Алексей Сидоров</translation>
     </message>
-    <message>
-        <source>Aleksey Sidorov</source>
-        <translation type="obsolete">Алексей Сидоров</translation>
-    </message>
-</context>
-<context>
-    <name>DBusBackend</name>
-    <message>
-        <source>Open chat</source>
-        <translation type="obsolete">Започване на разговор</translation>
-    </message>
-    <message>
-        <source>Ignore</source>
-        <translation type="obsolete">Пренебрегване</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation type="obsolete">Отваряне</translation>
-    </message>
 </context>
 <context>
     <name>Plugin</name>

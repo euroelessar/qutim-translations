@@ -43,22 +43,6 @@
 <context>
     <name>ActionToolBar</name>
     <message>
-        <source>Small (16x16)</source>
-        <translation type="obsolete">Малък (16x16)</translation>
-    </message>
-    <message>
-        <source>Medium (22x22)</source>
-        <translation type="obsolete">Среден (22x22)</translation>
-    </message>
-    <message>
-        <source>Big (32x32)</source>
-        <translation type="obsolete">Голям (32х32)</translation>
-    </message>
-    <message>
-        <source>Huge (64x64)</source>
-        <translation type="obsolete">Огромен (64x64)</translation>
-    </message>
-    <message>
         <location filename="../../qutim/core/libqutim/actiontoolbar.cpp" line="+51"/>
         <source>Small</source>
         <translation>Малък</translation>
@@ -145,17 +129,6 @@
     </message>
 </context>
 <context>
-    <name>AppearanceSettings</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Настройки на облика</translation>
-    </message>
-    <message>
-        <source>test</source>
-        <translation type="obsolete">проба</translation>
-    </message>
-</context>
-<context>
     <name>AuthDialog</name>
     <message>
         <location filename="../../qutim/core/src/corelayers/authdialog/authdialog.ui" line="+14"/>
@@ -174,18 +147,6 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Ubuntu&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Droid Sans&apos;;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="obsolete">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="-13"/>
@@ -208,10 +169,6 @@ p, li { white-space: pre-wrap; }
         <translation>Алексей Сидоров</translation>
     </message>
     <message>
-        <source>Aleksey Sidorov</source>
-        <translation type="obsolete">Алексей Сидоров</translation>
-    </message>
-    <message>
         <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="+77"/>
         <source>Perova Gala</source>
         <translation>Гала Перова</translation>
@@ -228,53 +185,6 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/core/src/corelayers/idlestatuschanger/idlestatuschanger.cpp" line="+26"/>
         <source>Auto-away</source>
         <translation>Автоматично отсъствие</translation>
-    </message>
-</context>
-<context>
-    <name>BehaviorSettings</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">Поведение</translation>
-    </message>
-    <message>
-        <source>Timeout, msec:</source>
-        <translation type="obsolete">Интервал, msec:</translation>
-    </message>
-    <message>
-        <source>5000</source>
-        <translation type="obsolete">5000</translation>
-    </message>
-    <message>
-        <source>Animation speed:</source>
-        <translation type="obsolete">Скорост на анимацията:</translation>
-    </message>
-    <message>
-        <source>No Animation</source>
-        <translation type="obsolete">Без анимация</translation>
-    </message>
-    <message>
-        <source>Very fast</source>
-        <translation type="obsolete">Много бърза</translation>
-    </message>
-    <message>
-        <source>Fast</source>
-        <translation type="obsolete">Бърза</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="obsolete">Нормална</translation>
-    </message>
-    <message>
-        <source>Slow</source>
-        <translation type="obsolete">Бавна</translation>
-    </message>
-    <message>
-        <source>Very slow</source>
-        <translation type="obsolete">Много бавна</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation type="obsolete">Собствена</translation>
     </message>
 </context>
 <context>
@@ -367,13 +277,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>ChatWidget</name>
-    <message>
-        <source>Toggle fullscreen</source>
-        <translation type="obsolete">На цял екран</translation>
-    </message>
-</context>
-<context>
     <name>ContactInfo</name>
     <message>
         <location filename="../../qutim/core/src/corelayers/contactinfo/contactinfo.cpp" line="+212"/>
@@ -459,10 +362,6 @@ p, li { white-space: pre-wrap; }
         <translation>Активиране на основното меню</translation>
     </message>
     <message>
-        <source>ContactList</source>
-        <translation type="obsolete">Списък с контакти</translation>
-    </message>
-    <message>
         <location line="+8"/>
         <source>&amp;Settings...</source>
         <translation>&amp;Настройки...</translation>
@@ -501,14 +400,6 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-26"/>
         <source>Copy id to clipboard</source>
         <translation>Копиране в клипборда</translation>
-    </message>
-    <message>
-        <source>Remove contact</source>
-        <translation type="obsolete">Премахване на контакта</translation>
-    </message>
-    <message>
-        <source>Add to contact list</source>
-        <translation type="obsolete">Добавяне в списъка с контакти</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -619,14 +510,6 @@ p, li { white-space: pre-wrap; }
         <source>Are you sure want to remove %1</source>
         <translation>Сигурни ли сте, че желаете да премахнете %1</translation>
     </message>
-    <message>
-        <source>Delete account</source>
-        <translation type="obsolete">Изтриване на сметка</translation>
-    </message>
-    <message>
-        <source>Are you sure want to delete %1</source>
-        <translation type="obsolete">Сигурни ли сте, че желаете да изтриете %1</translation>
-    </message>
 </context>
 <context>
     <name>Core::AccountCreatorProtocols</name>
@@ -683,17 +566,6 @@ p, li { white-space: pre-wrap; }
         <location line="+83"/>
         <source>Account must be online</source>
         <translation>Статусът на сметката трябва да е &quot;На линия&quot;</translation>
-    </message>
-</context>
-<context>
-    <name>Core::AddContactModule</name>
-    <message>
-        <source>Are you sure you want to delete a contact %1 from the roster</source>
-        <translation type="obsolete">Сигурни ли сте, че желаете да изтриете контакта %1 от списъка?</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to delete a contact %1 from the roster?</source>
-        <translation type="obsolete">Сигурни ли сте, че желаете да изтриете контакта %1 от списъка?</translation>
     </message>
 </context>
 <context>
@@ -769,14 +641,6 @@ p, li { white-space: pre-wrap; }
         <location line="+17"/>
         <source>Style variant:</source>
         <translation>Вариант на стила:</translation>
-    </message>
-</context>
-<context>
-    <name>Core::AdiumChat::ChatEdit</name>
-    <message>
-        <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/chatedit.cpp" line="+116"/>
-        <source>Unable to send message to %1</source>
-        <translation>Невъзможно е изпращането на съобщение до %1</translation>
     </message>
 </context>
 <context>
@@ -861,21 +725,6 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Actions</source>
         <translation>Действия</translation>
-    </message>
-</context>
-<context>
-    <name>Core::AdiumChat::Symbian::StackedChatWidget</name>
-    <message>
-        <source>Send to</source>
-        <translation type="obsolete">Изпращане до</translation>
-    </message>
-    <message>
-        <source>Actions</source>
-        <translation type="obsolete">Действия</translation>
-    </message>
-    <message>
-        <source>Send</source>
-        <translation type="obsolete">Изпращане</translation>
     </message>
 </context>
 <context>
@@ -1028,30 +877,6 @@ p, li { white-space: pre-wrap; }
         <source>To</source>
         <translation>До</translation>
     </message>
-    <message>
-        <source>Initiation</source>
-        <translation type="obsolete">Иницииране</translation>
-    </message>
-    <message>
-        <source>Started</source>
-        <translation type="obsolete">Стартиран</translation>
-    </message>
-    <message>
-        <source>Finished</source>
-        <translation type="obsolete">Приключен</translation>
-    </message>
-    <message>
-        <source>Network error</source>
-        <translation type="obsolete">Мрежова грешка</translation>
-    </message>
-    <message>
-        <source>Canceled</source>
-        <translation type="obsolete">Отказан</translation>
-    </message>
-    <message>
-        <source>Not supported</source>
-        <translation type="obsolete">Не се поддържа</translation>
-    </message>
 </context>
 <context>
     <name>Core::HistoryWindow</name>
@@ -1099,41 +924,7 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>Core::KineticPopups::Popup</name>
-    <message>
-        <source>&lt;p&gt; + %1 more notifications &lt;/p&gt;</source>
-        <translation type="obsolete">&lt;p&gt; + %1 оставащи уведомления &lt;/p&gt;</translation>
-    </message>
-</context>
-<context>
-    <name>Core::KineticPopups::PopupAppearance</name>
-    <message>
-        <source>Preview</source>
-        <translation type="obsolete">Предварителен преглед</translation>
-    </message>
-    <message>
-        <source>This is a simple popup</source>
-        <translation type="obsolete">Това е обикновен изскачащ прозорец</translation>
-    </message>
-    <message>
-        <source>Simple message</source>
-        <translation type="obsolete">Обикновено съобщение</translation>
-    </message>
-    <message>
-        <source>Another message</source>
-        <translation type="obsolete">Друго съобщение</translation>
-    </message>
-    <message>
-        <source>Simple kinetic popup widget.</source>
-        <translation type="obsolete">Обикновен kinetic изскачащ прозорец.</translation>
-    </message>
-</context>
-<context>
     <name>Core::KineticScroller</name>
-    <message>
-        <source>No scrolling</source>
-        <translation type="obsolete">Без</translation>
-    </message>
     <message>
         <location filename="../../qutim/core/src/corelayers/kineticscroller/kineticscroller.cpp" line="+39"/>
         <source>Touch</source>
@@ -1358,17 +1149,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>Core::ProfileCreationWizard</name>
-    <message>
-        <source>Congratulations</source>
-        <translation type="obsolete">Поздравления</translation>
-    </message>
-    <message>
-        <source>You&apos;ve just created a profile for qutIM. Click Finish to proceed to adding user accounts</source>
-        <translation type="obsolete">Току що създадохте профил в qutIM. Щракнете бутона &quot;Приключване&quot;, за да продължите с добавянето на потребителски сметки</translation>
-    </message>
-</context>
-<context>
     <name>Core::ProfileDialog</name>
     <message>
         <location filename="../../qutim/core/src/profiledialog.cpp" line="+160"/>
@@ -1542,10 +1322,6 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleAboutDialog</name>
     <message>
-        <source>qutIM %1&lt;br&gt;Uses Qt %2&lt;p&gt;Developers:&lt;p&gt;</source>
-        <translation type="obsolete">qutIM %1&lt;br&gt;Използва Qt %2&lt;p&gt;Разработчици:&lt;p&gt;</translation>
-    </message>
-    <message>
         <location filename="../../qutim/core/src/corelayers/simpleabout/simpleaboutdialog.cpp" line="+42"/>
         <source>Based on Qt %1 (%2 bit).</source>
         <translation>Базиран на Qt %1 (%2 bit).</translation>
@@ -1613,89 +1389,7 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>Core::SimpleContactList::MacWidget</name>
-    <message>
-        <source>Main Toolbar</source>
-        <translation type="obsolete">Главна лента с инструменти</translation>
-    </message>
-    <message>
-        <source>File</source>
-        <translation type="obsolete">Файл</translation>
-    </message>
-    <message>
-        <source>Chats</source>
-        <translation type="obsolete">Разговори</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation type="obsolete">Редактиране</translation>
-    </message>
-    <message>
-        <source>Accounts</source>
-        <translation type="obsolete">Сметки</translation>
-    </message>
-    <message>
-        <source>Opened chats</source>
-        <translation type="obsolete">Отворени разговори</translation>
-    </message>
-    <message>
-        <source>Roster</source>
-        <translation type="obsolete">Списък с контакти</translation>
-    </message>
-    <message>
-        <source>Set Status Text</source>
-        <translation type="obsolete">Задаване текст на статуса</translation>
-    </message>
-</context>
-<context>
-    <name>Core::SimpleContactList::Model</name>
-    <message>
-        <source>Without tags</source>
-        <translation type="obsolete">Без тагове</translation>
-    </message>
-    <message>
-        <source>Would you like to merge contacts &quot;%1&quot; &lt;%2&gt; and &quot;%3&quot; &lt;%4&gt;?</source>
-        <translation type="obsolete">Желаете ли да обедините контактите &quot;%1&quot; &lt;%2&gt; и &quot;%3&quot; &lt;%4&gt;?</translation>
-    </message>
-    <message>
-        <source>Would you like to merge metacontacts &quot;%1&quot; and &quot;%2&quot;?</source>
-        <translation type="obsolete">Желаете ли да обедините мета-контактите &quot;%1&quot; и &quot;%2&quot;?</translation>
-    </message>
-    <message>
-        <source>Would you like to add &quot;%1&quot; &lt;%2&gt; to metacontact &quot;%3&quot;?</source>
-        <translation type="obsolete">Желаете ли да добавите &quot;%1&quot; &lt;%2&gt; към мета-контакта &quot;%3&quot;?</translation>
-    </message>
-    <message>
-        <source>Contacts&apos; merging</source>
-        <translation type="obsolete">Обединяване на контакти</translation>
-    </message>
-    <message>
-        <source>All tags</source>
-        <translation type="obsolete">Всички етикети</translation>
-    </message>
-    <message>
-        <source>Custom tags</source>
-        <translation type="obsolete">Собствени етикети</translation>
-    </message>
-</context>
-<context>
     <name>Core::SimpleContactList::Module</name>
-    <message>
-        <source>Main Toolbar</source>
-        <translation type="obsolete">Главна лента с инструменти</translation>
-    </message>
-    <message>
-        <source>Actions</source>
-        <translation type="obsolete">Действия</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="obsolete">Статус</translation>
-    </message>
-    <message>
-        <source>Set Status Text</source>
-        <translation type="obsolete">Задаване текст на статуса</translation>
-    </message>
     <message>
         <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-21"/>
         <source>Select tags</source>
@@ -1705,17 +1399,6 @@ p, li { white-space: pre-wrap; }
         <location line="+2"/>
         <source>Reset</source>
         <translation>Нулиране</translation>
-    </message>
-</context>
-<context>
-    <name>Core::SimpleContactList::OldWidget</name>
-    <message>
-        <source>Main Toolbar</source>
-        <translation type="obsolete">Главна лента с инструменти</translation>
-    </message>
-    <message>
-        <source>Search contact</source>
-        <translation type="obsolete">Търсене на контакт</translation>
     </message>
 </context>
 <context>
@@ -1759,25 +1442,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>Core::SimpleContactList::SymbianWidget</name>
-    <message>
-        <source>Search contact</source>
-        <translation type="obsolete">Търсене на контакт</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="obsolete">Статус</translation>
-    </message>
-    <message>
-        <source>Set Status Text</source>
-        <translation type="obsolete">Задаване текст на статуса</translation>
-    </message>
-    <message>
-        <source>Actions</source>
-        <translation type="obsolete">Действия</translation>
-    </message>
-</context>
-<context>
     <name>Core::SimpleContactList::ToryWidget</name>
     <message>
         <location filename="../../qutim/core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="+27"/>
@@ -1810,10 +1474,6 @@ p, li { white-space: pre-wrap; }
 </context>
 <context>
     <name>Core::SimpleFileTransfer</name>
-    <message>
-        <source>Manage file transfers</source>
-        <translation type="obsolete">Управление на предаването на файлове</translation>
-    </message>
     <message>
         <location filename="../../qutim/core/src/corelayers/filetransfer/simplefiletransfer.cpp" line="+179"/>
         <source>Incoming file</source>
@@ -1871,22 +1531,9 @@ p, li { white-space: pre-wrap; }
         <translation>&lt;b&gt;Съкратено:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Версия:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Пълно:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия на qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия на Qt:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Разделителна способност на екрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Системен локал:&lt;/b&gt; %9&lt;br /&gt;</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Short:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Version:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM Version:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt Version:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Screen resolution:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Country:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Language:&lt;/b&gt; %10 &lt;br /&gt;</source>
-        <translatorcomment>&lt;b&gt;ОС:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Кратко:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Пълно:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия на qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия на Qt:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Разделителна способност на екрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Държава:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Език:&lt;/b&gt; %10 &lt;br /&gt;</translatorcomment>
-        <translation type="obsolete">&lt;b&gt;Съкратено:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Версия:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Пълно:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия на qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия на Qt:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Разделителна способност на екрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Държава:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Език:&lt;/b&gt; %10 &lt;br /&gt;</translation>
-    </message>
-    <message>
-        <source>Are you want to report about this setup?</source>
-        <translation type="obsolete">Желаете ли да уведомите за тази инсталация?</translation>
-    </message>
-    <message>
         <location line="-5"/>
         <source>Information to be transferred to the qutIM&apos;s authors:</source>
         <translation>Информация, която бихте изпратили до авторите на qutIM:</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;OS:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Short:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Full:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;qutIM Version:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Qt Version:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Screen resolution:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Country:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Language:&lt;/b&gt; %10 &lt;br /&gt;</source>
-        <translation type="obsolete">&lt;b&gt;ОС:&lt;/b&gt; %1 &lt;br /&gt;&lt;b&gt;Кратко:&lt;/b&gt; %2 &lt;br /&gt;&lt;b&gt;Пълно:&lt;/b&gt; %3 &lt;br /&gt;&lt;b&gt;Версия на qutIM:&lt;/b&gt; %4 &lt;br /&gt;&lt;b&gt;Версия на Qt:&lt;/b&gt; %5 (%6 bit) &lt;br /&gt;&lt;b&gt;Разделителна способност на екрана:&lt;/b&gt; %7 x %8 &lt;br /&gt;&lt;b&gt;Държава:&lt;/b&gt; %9&lt;br /&gt;&lt;b&gt;Език:&lt;/b&gt; %10 &lt;br /&gt;</translation>
     </message>
 </context>
 <context>
@@ -2013,22 +1660,6 @@ p, li { white-space: pre-wrap; }
 </context>
 <context>
     <name>FileTransferDialog</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="obsolete">Предаване</translation>
-    </message>
-    <message>
-        <source>File name:</source>
-        <translation type="obsolete">Име на файла:</translation>
-    </message>
-    <message>
-        <source>Total size:</source>
-        <translation type="obsolete">Общ размер:</translation>
-    </message>
-    <message>
-        <source>File size:</source>
-        <translation type="obsolete">Размер на файла:</translation>
-    </message>
     <message>
         <location filename="../../qutim/core/src/corelayers/filetransfer/filetransferdialog.ui" line="+20"/>
         <source>File transfer manager</source>
@@ -2441,125 +2072,13 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Notifications</name>
     <message>
-        <source>User online</source>
-        <translation type="obsolete">Потребител идва на линия</translation>
-    </message>
-    <message>
-        <source>User offline</source>
-        <translation type="obsolete">Потребител излиза извън линия</translation>
-    </message>
-    <message>
-        <source>Status changed</source>
-        <translation type="obsolete">Промяна на статуса</translation>
-    </message>
-    <message>
-        <source>User has birthday today!</source>
-        <translation type="obsolete">Потребител има рожден ден днес!</translation>
-    </message>
-    <message>
-        <source>qutIM Launched</source>
-        <translation type="obsolete">qutIM е стартиран</translation>
-    </message>
-    <message>
-        <source>Message recieved</source>
-        <translation type="obsolete">Полученото съобщение</translation>
-    </message>
-    <message>
-        <source>Message sent</source>
-        <translation type="obsolete">Изпратеното съобщение</translation>
-    </message>
-    <message>
-        <source>System notification</source>
-        <translation type="obsolete">Системно уведомление</translation>
-    </message>
-    <message>
-        <source>Typing</source>
-        <translation type="obsolete">Пише</translation>
-    </message>
-    <message>
-        <source>Message blocked</source>
-        <translation type="obsolete">Блокирано съобщение</translation>
-    </message>
-    <message>
-        <source>Count</source>
-        <translation type="obsolete">Брой</translation>
-    </message>
-    <message>
-        <source>Incoming Message</source>
-        <translation type="obsolete">Входящо съобщение</translation>
-    </message>
-    <message>
-        <source>Outgoing Message</source>
-        <translation type="obsolete">Изходящо съобщение</translation>
-    </message>
-    <message>
-        <source>qutIM Startup</source>
-        <translation type="obsolete">qutIM е стартиран</translation>
-    </message>
-    <message>
-        <source>Blocked Message</source>
-        <translation type="obsolete">Блокирано съобщение</translation>
-    </message>
-    <message>
-        <source>User joined chat</source>
-        <translation type="obsolete">Потребител се присъединяване към групов разговор</translation>
-    </message>
-    <message>
-        <source>User leaved chat</source>
-        <translation type="obsolete">Потребител напуска групов разговор</translation>
-    </message>
-    <message>
-        <source>Incoming chat message</source>
-        <translation type="obsolete">Входящо съобщение</translation>
-    </message>
-    <message>
-        <source>Outgoing chat message</source>
-        <translation type="obsolete">Изходящо съобщение</translation>
-    </message>
-    <message>
-        <source>File transfer completed</source>
-        <translation type="obsolete">Приключило предаване на  файл(ове)</translation>
-    </message>
-    <message>
-        <source>User changed status</source>
-        <translation type="obsolete">Потребител променя статуса си</translation>
-    </message>
-    <message>
-        <source>User has birthday!</source>
-        <translation type="obsolete">Потребител има рожден ден!</translation>
-    </message>
-    <message>
-        <source>User typing</source>
-        <translation type="obsolete">Потребител пише</translation>
-    </message>
-    <message>
-        <source>System</source>
-        <translation type="obsolete">Системни</translation>
-    </message>
-    <message>
         <location filename="../../qutim/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+69"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
-    <message>
-        <source>Play sound</source>
-        <translation type="obsolete">Възпроизвеждане на звук</translation>
-    </message>
-    <message>
-        <source>Show popup</source>
-        <translation type="obsolete">Изскачащ прозорец</translation>
-    </message>
 </context>
 <context>
     <name>Plugin</name>
-    <message>
-        <source>Kinetic popups</source>
-        <translation type="obsolete">Изскачащи прозорци</translation>
-    </message>
-    <message>
-        <source>Default qutIM popups based on QTextDocument</source>
-        <translation type="obsolete">Подразбираща се за qutIM, реализация на уведомления. На базата на QTextDocument</translation>
-    </message>
     <message>
         <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-58"/>
         <source>Webkit chat layer</source>
@@ -2812,10 +2331,6 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>QObject</name>
     <message>
-        <source>System message from %1:</source>
-        <translation type="obsolete">Системно съобщение от %1:</translation>
-    </message>
-    <message>
         <location filename="../../qutim/core/libqutim/notificationslayer.cpp" line="+134"/>
         <location filename="../../qutim/core/src/corelayers/notificationfilter/notificationfilter.cpp" line="+51"/>
         <source>%1 changed status</source>
@@ -2876,10 +2391,6 @@ p, li { white-space: pre-wrap; }
         <translation>qutIM е стартиран</translation>
     </message>
     <message>
-        <source>Count</source>
-        <translation type="obsolete">Брой</translation>
-    </message>
-    <message>
         <location filename="../../qutim/core/libqutim/utils.cpp" line="+115"/>
         <source>1st quarter</source>
         <translation>Първо тримесечие</translation>
@@ -2903,14 +2414,6 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-70"/>
         <source>Copy %1 to clipboard</source>
         <translation>Копиране на %1 в клипборда</translation>
-    </message>
-    <message>
-        <source>Stop</source>
-        <translation type="obsolete">Спиране</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="obsolete">Премахване</translation>
     </message>
     <message>
         <location filename="../../qutim/core/src/corelayers/filetransfer/filetransferdialog.cpp" line="-23"/>
@@ -3005,10 +2508,6 @@ p, li { white-space: pre-wrap; }
         <translation>Звук</translation>
     </message>
     <message>
-        <source>PopupWidget</source>
-        <translation type="obsolete">Изскачащ прозорец</translation>
-    </message>
-    <message>
         <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp" line="-13"/>
         <source>ChatForm</source>
         <translation>Формуляр на разговора</translation>
@@ -3058,10 +2557,6 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/core/src/corelayers/notificationssettings/notificationssettings.cpp" line="+51"/>
         <source>Notifications</source>
         <translation>Уведомления</translation>
-    </message>
-    <message>
-        <source>Popups</source>
-        <translation type="obsolete">Изскачащи прозорци</translation>
     </message>
     <message>
         <location filename="../../qutim/core/src/corelayers/accountcreator/accountcreator.cpp" line="+13"/>
@@ -3428,10 +2923,6 @@ p, li { white-space: pre-wrap; }
 </context>
 <context>
     <name>SoundTheme</name>
-    <message>
-        <source>Filename</source>
-        <translation type="obsolete">Име на файла</translation>
-    </message>
     <message>
         <location filename="../../qutim/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
         <source>Preview</source>
@@ -4042,50 +3533,6 @@ en</source>
     </message>
 </context>
 <context>
-    <name>plugin</name>
-    <message>
-        <source>Kinetic Popups</source>
-        <translation type="obsolete">Kinetic уведомления</translation>
-    </message>
-    <message>
-        <source>Default qutIM popups based on QTextDocument</source>
-        <translation type="obsolete">Подразбираща се за qutIM, реализация на уведомления. На базата на QTextDocument</translation>
-    </message>
-</context>
-<context>
-    <name>quickChatAppearance</name>
-    <message>
-        <source>Form</source>
-        <translation type="obsolete">OpenGL конфигуриране</translation>
-    </message>
-    <message>
-        <source>Enable openGL acceleration</source>
-        <translation type="obsolete">Включване на OpenGL ускоряването</translation>
-    </message>
-</context>
-<context>
-    <name>qutim_sdk_0_3</name>
-    <message>
-        <source>Type</source>
-        <translation type="obsolete">Тип</translation>
-    </message>
-</context>
-<context>
-    <name>qutim_sdk_0_3::ActionToolBarPrivate</name>
-    <message>
-        <source>ToolBar appearance</source>
-        <translation type="obsolete">Облик на лентата с инструменти</translation>
-    </message>
-    <message>
-        <source>Icon size</source>
-        <translation type="obsolete">Размер на иконите</translation>
-    </message>
-    <message>
-        <source>Tool button style</source>
-        <translation type="obsolete">Стил на бутоните</translation>
-    </message>
-</context>
-<context>
     <name>qutim_sdk_0_3::ContactSearchRequest</name>
     <message>
         <location filename="../../qutim/core/libqutim/contactsearch.cpp" line="+62"/>
@@ -4144,12 +3591,6 @@ en</source>
 </context>
 <context>
     <name>qutim_sdk_0_3::ModuleManager</name>
-    <message>
-        <source>Could not load plugin: 
- %1</source>
-        <translation type="obsolete">Неуспешно зареждане на добавка: 
- %1</translation>
-    </message>
     <message>
         <location filename="../../qutim/core/libqutim/modulemanager.cpp" line="+407"/>
         <source>Could not init plugin: 

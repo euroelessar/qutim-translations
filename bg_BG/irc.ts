@@ -49,10 +49,6 @@
         <translation>Защитен с парола</translation>
     </message>
     <message>
-        <source>Save password</source>
-        <translation type="obsolete">Запис на паролата</translation>
-    </message>
-    <message>
         <location line="+7"/>
         <source>Secure Connection (SSL)</source>
         <translation>Защитена връзка (SSL)</translation>
@@ -773,98 +769,6 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcConnection</name>
     <message>
-        <source>Kick / Ban</source>
-        <translation type="obsolete">Изритване/Забрана</translation>
-    </message>
-    <message>
-        <source>Kick</source>
-        <translation type="obsolete">Изритване</translation>
-    </message>
-    <message>
-        <source>Kickban</source>
-        <translation type="obsolete">Изритване със забрана</translation>
-    </message>
-    <message>
-        <source>Ban</source>
-        <translation type="obsolete">Забрана</translation>
-    </message>
-    <message>
-        <source>Ban *!*@*.host</source>
-        <translation type="obsolete">Забрана *!*@*.host</translation>
-    </message>
-    <message>
-        <source>Ban *!*@domain</source>
-        <translation type="obsolete">Забрана *!*@domain</translation>
-    </message>
-    <message>
-        <source>Ban *!user@*.host</source>
-        <translation type="obsolete">Забрана *!user@*.host</translation>
-    </message>
-    <message>
-        <source>Ban *!user@domain</source>
-        <translation type="obsolete">Забрана *!user@domain</translation>
-    </message>
-    <message>
-        <source>Kickban *!*@*.host</source>
-        <translation type="obsolete">Изритване със забрана *!*@*.host</translation>
-    </message>
-    <message>
-        <source>Kickban *!*@domain</source>
-        <translation type="obsolete">Изритване със забрана *!*@domain</translation>
-    </message>
-    <message>
-        <source>Kickban *!user@*.host</source>
-        <translation type="obsolete">Изритване със забрана *!user@*.host</translation>
-    </message>
-    <message>
-        <source>Kickban *!user@domain</source>
-        <translation type="obsolete">Изритване със забрана *!user@domain</translation>
-    </message>
-    <message>
-        <source>Request client information</source>
-        <translation type="obsolete">Заявка за информация за клиента</translation>
-    </message>
-    <message>
-        <source>Request version</source>
-        <translation type="obsolete">Заявка за версия</translation>
-    </message>
-    <message>
-        <source>Request time</source>
-        <translation type="obsolete">Заявка за време</translation>
-    </message>
-    <message>
-        <source>Request avatar</source>
-        <translation type="obsolete">Заявка за аватар</translation>
-    </message>
-    <message>
-        <source>Modes</source>
-        <translation type="obsolete">Режими</translation>
-    </message>
-    <message>
-        <source>Give Op</source>
-        <translation type="obsolete">Предоставяне на операторски права</translation>
-    </message>
-    <message>
-        <source>Take Op</source>
-        <translation type="obsolete">Отнемане на операторските права</translation>
-    </message>
-    <message>
-        <source>Give HalfOp</source>
-        <translation type="obsolete">Предоставяне на полуоператорски права</translation>
-    </message>
-    <message>
-        <source>Take HalfOp</source>
-        <translation type="obsolete">Отнемане на полуоператорските права</translation>
-    </message>
-    <message>
-        <source>Give voice</source>
-        <translation type="obsolete">Предоставяне на глас</translation>
-    </message>
-    <message>
-        <source>Take voice</source>
-        <translation type="obsolete">Отнемане на глас</translation>
-    </message>
-    <message>
         <location filename="../../qutim/protocols/irc/src/ircconnection.cpp" line="+148"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4</translation>
@@ -917,10 +821,6 @@ Please wait a while and try again.</source>
         <translation>SSL handshake приключи</translation>
     </message>
     <message>
-        <source>%1 set away message %2</source>
-        <translation type="obsolete">%1 зададе съобщение при отсъствие: %2</translation>
-    </message>
-    <message>
         <location line="-325"/>
         <source>%1 removed away message</source>
         <translation>%1 премахна съобщението при отсъствие</translation>
@@ -934,49 +834,6 @@ Please wait a while and try again.</source>
         <location line="+2"/>
         <source>You have been marked as being away</source>
         <translation>Отбелязан(а) сте като отсъстващ(а)</translation>
-    </message>
-    <message>
-        <source>%1 is %2@%3 (%4)</source>
-        <translation type="obsolete">%1 е %2@%3 (%4)</translation>
-    </message>
-    <message>
-        <source>%1 is online via %2 (%3)</source>
-        <translation type="obsolete">%1 е на линия през %2 (%3)</translation>
-    </message>
-    <message>
-        <source>%1 is an IRC operator</source>
-        <translation type="obsolete">%1 е IRC оператор</translation>
-    </message>
-    <message>
-        <source>%1 has been idle since</source>
-        <translation type="obsolete">%1 бездейства от</translation>
-    </message>
-    <message>
-        <source>%1 has been online since</source>
-        <translation type="obsolete">%1 е бил(а) на линия от</translation>
-    </message>
-    <message>
-        <source>%1 is a user on channels: </source>
-        <translation type="obsolete">%1 е потребител в следните канали: </translation>
-    </message>
-    <message>
-        <source>%1 is logged in as %2</source>
-        <translation type="obsolete">%1 се е вписал като %2</translation>
-    </message>
-    <message>
-        <source>%1 is using a secure connection</source>
-        <translation type="obsolete">%1 използва защитена връзка</translation>
-    </message>
-    <message numerus="yes">
-        <source>Received CTCP-PING reply from %1: %2 seconds</source>
-        <translation type="obsolete">
-            <numerusform>Получен CTCP-PING отговор от %1: %2 секунда</numerusform>
-            <numerusform>Получен CTCP-PING отговор от %1: %2 секунди</numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>Received CTCP-%1 reply from %2: %3</source>
-        <translation type="obsolete">Получен CTCP-%1 отговор от %2: %3</translation>
     </message>
     <message>
         <location line="+99"/>

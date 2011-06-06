@@ -14,10 +14,6 @@
         <translation>Николай Изодеров</translation>
     </message>
     <message>
-        <source>Aleksey Sidorov</source>
-        <translation type="obsolete">Алексей Сидоров</translation>
-    </message>
-    <message>
         <location line="-4"/>
         <source>Sidorov Aleksey</source>
         <translation>Алексей Сидоров</translation>
@@ -73,25 +69,6 @@
         <location line="+8"/>
         <source>Unknown</source>
         <translation>Неизвестен</translation>
-    </message>
-</context>
-<context>
-    <name>UrlPreview::UrlPreviewPlugin</name>
-    <message>
-        <source>URL Preview</source>
-        <translation type="obsolete">Предварителен преглед на адреси</translation>
-    </message>
-    <message>
-        <source>bytes</source>
-        <translation type="obsolete">Байта</translation>
-    </message>
-    <message>
-        <source>YouTube video</source>
-        <translation type="obsolete">YouTube видео</translation>
-    </message>
-    <message>
-        <source>Unknown</source>
-        <translation type="obsolete">Неизвестен</translation>
     </message>
 </context>
 <context>

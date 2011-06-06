@@ -1938,10 +1938,6 @@
         <source>Use SSL authorization (experimental)</source>
         <translation>Използване на SSL удостоверяване (експериментално)</translation>
     </message>
-    <message>
-        <source>Use ssl (experimental)</source>
-        <translation type="obsolete">Използване на SSL (експериментално)</translation>
-    </message>
 </context>
 <context>
     <name>Industry</name>
@@ -2701,13 +2697,6 @@
     </message>
 </context>
 <context>
-    <name>MetaController</name>
-    <message>
-        <source>Additional</source>
-        <translation type="obsolete">Допълнителни</translation>
-    </message>
-</context>
-<context>
     <name>MetaInfo</name>
     <message>
         <location line="+13"/>
@@ -3301,14 +3290,6 @@
         <translation>Неизвестно уединение</translation>
     </message>
     <message>
-        <source>Visible mode:</source>
-        <translation type="obsolete">Режим на видимост:</translation>
-    </message>
-    <message>
-        <source>Invisible mode:</source>
-        <translation type="obsolete">Режим на невидимост:</translation>
-    </message>
-    <message>
         <location line="+107"/>
         <source>Privacy status</source>
         <translation>Статус на уединение</translation>
@@ -3815,10 +3796,6 @@
 <context>
     <name>qutim_sdk_0_3::oscar::IcqMainSettings</name>
     <message>
-        <source>Main</source>
-        <translation type="obsolete">Основни</translation>
-    </message>
-    <message>
         <location filename="../../qutim/protocols/oscar/src/ui/icqmainsettings.cpp" line="+105"/>
         <source>General</source>
         <translation>Общи</translation>
@@ -3865,10 +3842,6 @@
 </context>
 <context>
     <name>qutim_sdk_0_3::oscar::OftFileTransferFactory</name>
-    <message>
-        <source>Oscar file transfer protocol</source>
-        <translation type="obsolete">Предаване на файлове (Oscar)</translation>
-    </message>
     <message>
         <location line="+173"/>
         <source>Oscar</source>
@@ -3956,14 +3929,6 @@
         <location filename="../../qutim/protocols/oscar/plugins/xstatus/statusdialog.ui" line="+14"/>
         <source>Custom status</source>
         <translation>Собствен статус</translation>
-    </message>
-    <message>
-        <source>Choose</source>
-        <translation type="obsolete">Избиране</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Отказ</translation>
     </message>
     <message>
         <location line="+85"/>

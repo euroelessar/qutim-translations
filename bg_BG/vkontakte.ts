@@ -12,11 +12,7 @@
         <location filename="../../qutim/protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="+18"/>
         <location filename="../../qutim/protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+18"/>
         <source>Alexey Sidorov</source>
-        <translation>Сидоров Алексей</translation>
-    </message>
-    <message>
-        <source>Aleksey Sidorov</source>
-        <translation type="obsolete">Алексей Сидоров</translation>
+        <translation>Алексей Сидоров</translation>
     </message>
 </context>
 <context>

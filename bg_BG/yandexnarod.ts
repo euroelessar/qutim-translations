@@ -9,10 +9,6 @@
         <translation>Алексей Сидоров</translation>
     </message>
     <message>
-        <source>Aleksey Sidorov</source>
-        <translation type="obsolete">Алексей Сидоров</translation>
-    </message>
-    <message>
         <location line="+4"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
@@ -64,10 +60,6 @@
 </context>
 <context>
     <name>Yandex</name>
-    <message>
-        <source>Send file via Yandex.Narod</source>
-        <translation type="obsolete">Изпращане на файл чрез Yandex.Narod</translation>
-    </message>
     <message>
         <location line="+13"/>
         <source>Yandex Narod</source>
@@ -189,56 +181,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>YandexNarodUploadDialog</name>
-    <message>
-        <source>Choose file for %1</source>
-        <translation type="obsolete">Избор на файл за %1</translation>
-    </message>
-    <message>
-        <source>Choose file for uploading</source>
-        <translation type="obsolete">Избор на файл за качване</translation>
-    </message>
-    <message>
-        <source>Authorizing...</source>
-        <translation type="obsolete">Удостоверяване...</translation>
-    </message>
-    <message>
-        <source>Getting storage...</source>
-        <translation type="obsolete">Получаване на хранилището...</translation>
-    </message>
-    <message>
-        <source>Uploading...</source>
-        <translation type="obsolete">Качване...</translation>
-    </message>
-    <message>
-        <source>Will finish in: %1m %2s</source>
-        <translation type="obsolete">Приключване след %1&quot; %2&apos;</translation>
-    </message>
-    <message>
-        <source>Upload complete.</source>
-        <translation type="obsolete">Качването приключи.</translation>
-    </message>
-    <message>
-        <source>Finish</source>
-        <translation type="obsolete">Приключване</translation>
-    </message>
-    <message>
-        <source>File sent: %N (%S bytes)
-%U</source>
-        <comment>Don&apos;t remove format arguments</comment>
-        <translation type="obsolete">Изпратен файл: %N (%S Байта)
-%U</translation>
-    </message>
-    <message>
-        <source>Uploading</source>
-        <translation type="obsolete">Качване</translation>
-    </message>
-    <message>
-        <source>Done</source>
-        <translation type="obsolete">Завършено</translation>
-    </message>
-</context>
-<context>
     <name>YandexNarodUploadJob</name>
     <message>
         <location filename="../../qutim/plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="+126"/>
@@ -290,33 +232,6 @@ p, li { white-space: pre-wrap; }
         <location line="+19"/>
         <source>Captcha:</source>
         <translation>Captcha:</translation>
-    </message>
-</context>
-<context>
-    <name>uploadDialogClass</name>
-    <message>
-        <source>Upload started.</source>
-        <translation type="obsolete">Качването е стартирано.</translation>
-    </message>
-    <message>
-        <source>File: </source>
-        <translation type="obsolete">Файл: </translation>
-    </message>
-    <message>
-        <source>Progress:</source>
-        <translation type="obsolete">Напредък:</translation>
-    </message>
-    <message>
-        <source>Will finish in:</source>
-        <translation type="obsolete">Приключване след:</translation>
-    </message>
-    <message>
-        <source>Speed:</source>
-        <translation type="obsolete">Скорост:</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Отказ</translation>
     </message>
 </context>
 <context>
