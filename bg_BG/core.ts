@@ -2538,7 +2538,7 @@ p, li { white-space: pre-wrap; }
         <translation>Изглед на контактите</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/libqutim/settingslayer.cpp" line="+382"/>
+        <location filename="../../qutim/core/libqutim/settingslayer.cpp" line="+383"/>
         <source>Settings Window</source>
         <translation>Прозорец с настройки</translation>
     </message>
@@ -2626,7 +2626,7 @@ p, li { white-space: pre-wrap; }
         <translation>Разговор</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/libqutim/settingslayer.cpp" line="+47"/>
+        <location filename="../../qutim/core/libqutim/settingslayer.cpp" line="+48"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
@@ -2656,7 +2656,7 @@ p, li { white-space: pre-wrap; }
         <translation>Невалидни</translation>
     </message>
     <message>
-        <location line="-132"/>
+        <location line="-133"/>
         <source>Open File</source>
         <translation>Отваряне на файл</translation>
     </message>

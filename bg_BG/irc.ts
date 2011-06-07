@@ -416,7 +416,7 @@
 <context>
     <name>IrcChannel</name>
     <message>
-        <location filename="../../qutim/protocols/irc/src/ircchannel.cpp" line="+374"/>
+        <location filename="../../qutim/protocols/irc/src/ircchannel.cpp" line="+375"/>
         <source>%1 gives channel operator privileges to %2.</source>
         <translation>%1 даде операторски права в канала на %2.</translation>
     </message>
@@ -859,7 +859,7 @@ Please wait a while and try again.</source>
 <context>
     <name>qutim_sdk_0_3::irc::IrcJoinLeftActionGenerator</name>
     <message>
-        <location filename="../../qutim/protocols/irc/src/ircchannel.cpp" line="-310"/>
+        <location filename="../../qutim/protocols/irc/src/ircchannel.cpp" line="-311"/>
         <source>Leave the channel</source>
         <translation>Напускане на канала</translation>
     </message>
