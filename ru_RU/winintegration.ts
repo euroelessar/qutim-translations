@@ -170,7 +170,7 @@
     <message>
         <location filename="../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="+116"/>
         <source>&lt;b&gt;You have new messages.&lt;/b&gt;</source>
-        <translation>&lt;b&gt;У тебя новые сообщения.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Есть новые сообщения.&lt;/b&gt;</translation>
     </message>
     <message numerus="yes">
         <location line="+3"/>
