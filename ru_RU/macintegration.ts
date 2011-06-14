@@ -11,7 +11,7 @@
 <context>
     <name>Core::SimpleContactList::MacWidget</name>
     <message>
-        <location filename="../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="+75"/>
+        <location filename="../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="+78"/>
         <source>Main Toolbar</source>
         <translation type="unfinished">Основная панель</translation>
     </message>

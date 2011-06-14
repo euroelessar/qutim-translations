@@ -977,7 +977,7 @@
     </message>
     <message>
         <location line="-123"/>
-        <location line="+136"/>
+        <location line="+137"/>
         <source>Save to bookmarks</source>
         <translation>Сохранить в закладках</translation>
     </message>
@@ -986,7 +986,7 @@
         <translation type="obsolete">Изменить подписку</translation>
     </message>
     <message>
-        <location line="-129"/>
+        <location line="-130"/>
         <source>Leave conference</source>
         <translation>Покинуть конференцию</translation>
     </message>
@@ -1006,7 +1006,7 @@
         <translation>Запросить подписку</translation>
     </message>
     <message>
-        <location line="+144"/>
+        <location line="+145"/>
         <source>Room&apos;s configuration</source>
         <translation>Настройки комнаты</translation>
     </message>
@@ -1038,7 +1038,7 @@
         <translation type="obsolete">Вы уже в конференции с другим ником</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+676"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+711"/>
         <source>You are already in conference with another nick</source>
         <translation>Вы уже в конференции с другим ником</translation>
     </message>
@@ -1324,7 +1324,7 @@ Accept invitation?</source>
 </translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-431"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-443"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете перезайти?</translation>
     </message>
@@ -1342,7 +1342,7 @@ Accept invitation?</source>
         <translation type="obsolete">вошел в комнату</translation>
     </message>
     <message>
-        <location line="+48"/>
+        <location line="+50"/>
         <location line="+2"/>
         <location line="+2"/>
         <location line="+2"/>
@@ -1395,7 +1395,7 @@ Accept invitation?</source>
 %1</translation>
     </message>
     <message>
-        <location line="-105"/>
+        <location line="-107"/>
         <source> has been banned</source>
         <translation> был заблокирован</translation>
     </message>
@@ -1430,7 +1430,7 @@ Accept invitation?</source>
         <translation> теперь известен как </translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+28"/>
         <source> has joined the room</source>
         <translation> вошел в комнату</translation>
     </message>
@@ -1466,7 +1466,7 @@ Accept invitation?</source>
         <translation> модератор</translation>
     </message>
     <message>
-        <location line="+113"/>
+        <location line="+121"/>
         <source>Subject:</source>
         <translation>Тема:</translation>
     </message>
@@ -1566,7 +1566,7 @@ Accept invitation?</source>
         <translation>Укажите причину блокировки %1</translation>
     </message>
     <message>
-        <location line="+231"/>
+        <location line="+236"/>
         <source>Possible client</source>
         <translation>Возможный клиент</translation>
     </message>
@@ -2604,7 +2604,7 @@ Accept invitation?</source>
         <translation type="obsolete">Jabber</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-318"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-324"/>
         <source>Main settings</source>
         <translation type="unfinished">Общее</translation>
     </message>

@@ -488,7 +488,7 @@
         <translation type="obsolete">%1 сменил топик на %2.</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+374"/>
+        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+375"/>
         <source>%1 gives channel operator privileges to %2.</source>
         <translation>%1 дал опа %2.</translation>
     </message>
@@ -1053,7 +1053,7 @@ Please wait a while and try again.</source>
 <context>
     <name>qutim_sdk_0_3::irc::IrcJoinLeftActionGenerator</name>
     <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="-310"/>
+        <location filename="../../protocols/irc/src/ircchannel.cpp" line="-311"/>
         <source>Leave the channel</source>
         <translation>Покинуть канал</translation>
     </message>

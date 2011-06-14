@@ -71,7 +71,7 @@
         <translation type="obsolete">Огромный (64x64)</translation>
     </message>
     <message>
-        <location filename="../../core/libqutim/actiontoolbar.cpp" line="+51"/>
+        <location filename="../../core/libqutim/actiontoolbar.cpp" line="+50"/>
         <source>Small</source>
         <translation>Малый</translation>
     </message>
@@ -250,7 +250,7 @@ p, li { white-space: pre-wrap; }
         <translation>Прохин Алексей</translation>
     </message>
     <message>
-        <location filename="../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="+77"/>
+        <location filename="../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="+85"/>
         <source>Perova Gala</source>
         <translation type="unfinished"></translation>
     </message>
@@ -402,12 +402,12 @@ p, li { white-space: pre-wrap; }
         <translation>Назад</translation>
     </message>
     <message>
-        <location filename="../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-31"/>
+        <location filename="../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-38"/>
         <source>Insert Emoticon</source>
         <translation>Вставить смайл</translation>
     </message>
     <message>
-        <location line="+45"/>
+        <location line="+52"/>
         <source>Show Emoticons</source>
         <translation>Показать смайлы</translation>
     </message>
@@ -448,7 +448,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+471"/>
+        <location filename="../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+479"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
@@ -550,7 +550,7 @@ p, li { white-space: pre-wrap; }
         <translation>Править инфо</translation>
     </message>
     <message>
-        <location filename="../../core/src/corelayers/authdialog/authdialogimpl_p.h" line="+38"/>
+        <location filename="../../core/src/corelayers/authdialog/authdialogimpl_p.h" line="+40"/>
         <source>Recieved authorizarion request from %1:</source>
         <translation>Принята авторизация от %1:</translation>
     </message>
@@ -1011,9 +1011,8 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ChatEdit</name>
     <message>
-        <location filename="../../core/src/corelayers/adiumchat/chatlayer/chatedit.cpp" line="+116"/>
         <source>Unable to send message to %1</source>
-        <translation>Не могу отправить сообщение для %1</translation>
+        <translation type="obsolete">Не могу отправить сообщение для %1</translation>
     </message>
 </context>
 <context>
@@ -1189,12 +1188,12 @@ p, li { white-space: pre-wrap; }
         <translation>Действия чата</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>Send to</source>
         <translation>Отправить в</translation>
     </message>
     <message>
-        <location line="+32"/>
+        <location line="+35"/>
         <source>Session list</source>
         <translation>Список сеансов</translation>
     </message>
@@ -1214,7 +1213,7 @@ p, li { white-space: pre-wrap; }
         <translation>Учетные &amp;записи</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+8"/>
         <source>&amp;Chat</source>
         <translation>&amp;Чат</translation>
     </message>
@@ -1238,7 +1237,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Принята авторизация от %1:</translation>
     </message>
     <message>
-        <location filename="../../core/src/corelayers/authdialog/authdialogimpl_p.h" line="-21"/>
+        <location filename="../../core/src/corelayers/authdialog/authdialogimpl_p.h" line="-23"/>
         <source>Actions</source>
         <translation>Действия</translation>
     </message>
@@ -1451,7 +1450,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::IconLoaderSettings</name>
     <message>
-        <location filename="../../core/src/corelayers/qticons/iconsloaderimpl.cpp" line="+46"/>
+        <location filename="../../core/src/corelayers/qticons/iconsloaderimpl.cpp" line="+45"/>
         <source>Theme</source>
         <translation>Тема</translation>
     </message>
@@ -2226,7 +2225,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+45"/>
-        <location line="+196"/>
+        <location line="+198"/>
         <source>Set Status Text</source>
         <translation>Установить текст статуса</translation>
     </message>
@@ -3653,7 +3652,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Виджет передачи файлов (по умолчанию)</translation>
     </message>
     <message>
-        <location filename="../../core/src/corelayers/trayicon/simpletray.cpp" line="+175"/>
+        <location filename="../../core/src/corelayers/trayicon/simpletray.cpp" line="+183"/>
         <source>Notification Area Icon</source>
         <translation type="unfinished">Пиктограмма области уведомления</translation>
     </message>
@@ -4053,7 +4052,7 @@ p, li { white-space: pre-wrap; }
         <translation>Отрисовка контактов</translation>
     </message>
     <message>
-        <location filename="../../core/libqutim/settingslayer.cpp" line="+382"/>
+        <location filename="../../core/libqutim/settingslayer.cpp" line="+383"/>
         <source>Settings Window</source>
         <translation>Окно настроек</translation>
     </message>
@@ -4158,7 +4157,7 @@ p, li { white-space: pre-wrap; }
         <translation>Чат</translation>
     </message>
     <message>
-        <location filename="../../core/libqutim/settingslayer.cpp" line="+47"/>
+        <location filename="../../core/libqutim/settingslayer.cpp" line="+48"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
@@ -4188,7 +4187,7 @@ p, li { white-space: pre-wrap; }
         <translation>Некорректный</translation>
     </message>
     <message>
-        <location line="-132"/>
+        <location line="-133"/>
         <source>Open File</source>
         <translation>Открыть файл</translation>
     </message>
@@ -4214,7 +4213,7 @@ p, li { white-space: pre-wrap; }
         <translation>Тип прокрутки</translation>
     </message>
     <message>
-        <location filename="../../core/src/corelayers/qticons/iconsloaderimpl.cpp" line="+39"/>
+        <location filename="../../core/src/corelayers/qticons/iconsloaderimpl.cpp" line="+40"/>
         <source>Icons theme</source>
         <translation>Тема пиктограмм</translation>
     </message>

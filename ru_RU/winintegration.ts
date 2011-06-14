@@ -12,7 +12,7 @@
 <context>
     <name>Core::SimpleContactList::SevenWidget</name>
     <message>
-        <location filename="../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp" line="+88"/>
+        <location filename="../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp" line="+113"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
@@ -168,7 +168,7 @@
 <context>
     <name>WThumbnailsProvider</name>
     <message>
-        <location filename="../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="+116"/>
+        <location filename="../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="+128"/>
         <source>&lt;b&gt;You have new messages.&lt;/b&gt;</source>
         <translation>&lt;b&gt;Есть новые сообщения.&lt;/b&gt;</translation>
     </message>
