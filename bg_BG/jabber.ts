@@ -805,12 +805,12 @@
     </message>
     <message>
         <location line="-123"/>
-        <location line="+136"/>
+        <location line="+137"/>
         <source>Save to bookmarks</source>
         <translation>Запазване в отметките</translation>
     </message>
     <message>
-        <location line="-129"/>
+        <location line="-130"/>
         <source>Leave conference</source>
         <translation>Напускане на конференцията</translation>
     </message>
@@ -830,7 +830,7 @@
         <translation>Заявяване на абонамент</translation>
     </message>
     <message>
-        <location line="+144"/>
+        <location line="+145"/>
         <source>Room&apos;s configuration</source>
         <translation>Настройване на стаята</translation>
     </message>
@@ -1136,7 +1136,7 @@
         <translation>Въведете причина за забраната на %1</translation>
     </message>
     <message>
-        <location line="+231"/>
+        <location line="+236"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
@@ -2075,7 +2075,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/jprotocol.cpp" line="-318"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/jprotocol.cpp" line="-324"/>
         <source>Main settings</source>
         <translation>Основни настройки</translation>
     </message>

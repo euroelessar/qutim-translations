@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim-meta/plugins/winintegration/src/winint.cpp" line="+38"/>
+        <location filename="../../qutim/plugins/winintegration/src/winint.cpp" line="+63"/>
         <source>Vizir Ivan</source>
         <translation>Иван Визир</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>Core::SimpleContactList::SevenWidget</name>
     <message>
-        <location filename="../../qutim-meta/plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp" line="+88"/>
+        <location filename="../../qutim/plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp" line="+113"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
@@ -31,13 +31,13 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim-meta/plugins/winintegration/src/winint.cpp" line="+3"/>
-        <location line="+12"/>
+        <location filename="../../qutim/plugins/winintegration/src/winint.cpp" line="+3"/>
+        <location line="+13"/>
         <source>Windows Integration</source>
         <translation>Интеграция с Windows</translation>
     </message>
     <message>
-        <location line="-11"/>
+        <location line="-12"/>
         <source>Adds count of unread messages as an icon to taskbar button of qutim, along with some commands list and provides a bit more usable notification area icon than default plugin.</source>
         <translation>Добавя броя непрочетени съобщения като икона към бутона на qutIM в лентата със задачи както и някои команди правещи известията в системния панел малко по-използваеми от подразбиращите се.</translation>
     </message>
@@ -45,30 +45,26 @@
 <context>
     <name>SelectAccDlg</name>
     <message>
-        <location filename="../../qutim-meta/plugins/winintegration/src/selectaccdlg.ui" line="+14"/>
         <source>Dialog</source>
-        <translation>Избор на сметка</translation>
+        <translation type="obsolete">Избор на сметка</translation>
     </message>
     <message>
-        <location line="+25"/>
         <source>Select your account</source>
-        <translation>Избор на сметка</translation>
+        <translation type="obsolete">Избор на сметка</translation>
     </message>
     <message>
-        <location line="+18"/>
         <source>Please, select one of your accout to chat with Jabber ID %1.</source>
-        <translation>Моля изберете една от Jabber сметките си, за разговор с %1.</translation>
+        <translation type="obsolete">Моля изберете една от Jabber сметките си, за разговор с %1.</translation>
     </message>
     <message>
-        <location line="+12"/>
         <source>Available accounts:</source>
-        <translation>Налични сметки:</translation>
+        <translation type="obsolete">Налични сметки:</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../qutim-meta/plugins/winintegration/src/winint.cpp" line="-3"/>
+        <location line="-3"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
@@ -76,7 +72,7 @@
 <context>
     <name>WSettingsForm</name>
     <message>
-        <location filename="../../qutim-meta/plugins/winintegration/src/wsettings.ui" line="+14"/>
+        <location filename="../../qutim/plugins/winintegration/src/wsettings.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -136,7 +132,7 @@
 <context>
     <name>WThumbnailsProvider</name>
     <message>
-        <location filename="../../qutim-meta/plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="+91"/>
+        <location filename="../../qutim/plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="+123"/>
         <source>&lt;b&gt;You have new messages.&lt;/b&gt;</source>
         <translation>&lt;b&gt;Имате нови съобщения.&lt;/b&gt;</translation>
     </message>

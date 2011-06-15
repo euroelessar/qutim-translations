@@ -43,7 +43,7 @@
 <context>
     <name>ActionToolBar</name>
     <message>
-        <location filename="../../qutim/core/libqutim/actiontoolbar.cpp" line="+51"/>
+        <location filename="../../qutim/core/libqutim/actiontoolbar.cpp" line="+50"/>
         <source>Small</source>
         <translation>Малък</translation>
     </message>
@@ -169,7 +169,7 @@ p, li { white-space: pre-wrap; }
         <translation>Алексей Сидоров</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="+77"/>
+        <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="+85"/>
         <source>Perova Gala</source>
         <translation>Гала Перова</translation>
     </message>
@@ -220,12 +220,12 @@ p, li { white-space: pre-wrap; }
         <translation>Предходен разговор</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-31"/>
+        <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="-38"/>
         <source>Insert Emoticon</source>
         <translation>Вмъкване на емотикона</translation>
     </message>
     <message>
-        <location line="+45"/>
+        <location line="+52"/>
         <source>Show Emoticons</source>
         <translation>Да се показват емотикони</translation>
     </message>
@@ -266,7 +266,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+471"/>
+        <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+479"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -333,7 +333,7 @@ p, li { white-space: pre-wrap; }
         <translation>Редактиране на информацията</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/authdialog/authdialogimpl_p.h" line="+38"/>
+        <location filename="../../qutim/core/src/corelayers/authdialog/authdialogimpl_p.h" line="+40"/>
         <source>Recieved authorizarion request from %1:</source>
         <translation>Получена заявка за удостоверяване от %1:</translation>
     </message>
@@ -773,12 +773,12 @@ p, li { white-space: pre-wrap; }
         <translation>Действия в разговора</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>Send to</source>
         <translation>Изпращане до</translation>
     </message>
     <message>
-        <location line="+32"/>
+        <location line="+35"/>
         <source>Session list</source>
         <translation>Списък на сесиите</translation>
     </message>
@@ -798,7 +798,7 @@ p, li { white-space: pre-wrap; }
         <translation>Смет&amp;ки</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+8"/>
         <source>&amp;Chat</source>
         <translation>&amp;Разговор</translation>
     </message>
@@ -806,7 +806,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AuthDialogPrivate</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/authdialog/authdialogimpl_p.h" line="-21"/>
+        <location filename="../../qutim/core/src/corelayers/authdialog/authdialogimpl_p.h" line="-23"/>
         <source>Actions</source>
         <translation>Действия</translation>
     </message>
@@ -918,7 +918,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::IconLoaderSettings</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/qticons/iconsloaderimpl.cpp" line="+46"/>
+        <location filename="../../qutim/core/src/corelayers/qticons/iconsloaderimpl.cpp" line="+45"/>
         <source>Theme</source>
         <translation>Тема</translation>
     </message>
@@ -1436,7 +1436,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+45"/>
-        <location line="+196"/>
+        <location line="+198"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
@@ -2207,7 +2207,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбиращ се набор от действия с контактите</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/trayicon/simpletray.cpp" line="+175"/>
+        <location filename="../../qutim/core/src/corelayers/trayicon/simpletray.cpp" line="+183"/>
         <source>Notification Area Icon</source>
         <translation>Икона в областта за уведомления</translation>
     </message>
@@ -2681,7 +2681,7 @@ p, li { white-space: pre-wrap; }
         <translation>Тип на превъртането</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/qticons/iconsloaderimpl.cpp" line="+39"/>
+        <location filename="../../qutim/core/src/corelayers/qticons/iconsloaderimpl.cpp" line="+40"/>
         <source>Icons theme</source>
         <translation>Тема на иконите</translation>
     </message>
