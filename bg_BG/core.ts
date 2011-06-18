@@ -881,26 +881,26 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::HistoryWindow</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/jsonhistory/historywindow.cpp" line="+52"/>
-        <location line="+68"/>
+        <location filename="../../qutim/core/src/corelayers/jsonhistory/historywindow.cpp" line="+53"/>
+        <location line="+72"/>
         <source>No History</source>
         <translation>Няма хронология</translation>
     </message>
     <message>
-        <location line="-67"/>
-        <location line="+440"/>
+        <location line="-71"/>
+        <location line="+444"/>
         <source>In: %L1</source>
         <translation>Входящи: %L1</translation>
     </message>
     <message>
-        <location line="-439"/>
-        <location line="+440"/>
+        <location line="-443"/>
+        <location line="+444"/>
         <source>Out: %L1</source>
         <translation>Изходящи: %L1</translation>
     </message>
     <message>
-        <location line="-439"/>
-        <location line="+440"/>
+        <location line="-443"/>
+        <location line="+444"/>
         <source>All: %L1</source>
         <translation>Общо: %L1</translation>
     </message>

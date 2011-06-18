@@ -85,7 +85,7 @@ Complete account creating by clicking on Finish button</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim/protocols/quetzal/src/quetzalprotocol.cpp" line="+86"/>
+        <location filename="../../qutim/protocols/quetzal/src/quetzalprotocol.cpp" line="+87"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
