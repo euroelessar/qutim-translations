@@ -1737,9 +1737,66 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>JoinChat</name>
+    <message>
+        <location filename="../../qutim/core/src/corelayers/joinchatdialog/joinchatdialog.ui" line="+17"/>
+        <source>Join groupchat</source>
+        <translation>Присъединяване към групов разговор</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Account:</source>
+        <translation>Сметка:</translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Bookmarks</source>
+        <translation>Отметки</translation>
+    </message>
+    <message>
+        <location line="+81"/>
+        <source>Request last </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>messages</source>
+        <translation>съобщения</translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Request messages since the datetime</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>H:mm:ss</source>
+        <translation>Ч:мм:сс</translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Request messages since</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>JoinChatDialog</name>
+    <message>
+        <location filename="../../qutim/core/src/corelayers/joinchatdialog/joinchatdialog.cpp" line="+43"/>
+        <source>Join</source>
+        <translation>Присъединяване</translation>
+    </message>
+    <message>
+        <location line="+124"/>
+        <source>New chat</source>
+        <translation>Нов разговор</translation>
+    </message>
+</context>
+<context>
     <name>JoinGroupChat</name>
     <message>
         <location filename="../../qutim/core/src/corelayers/joingroupchatdlg/joingroupchat.ui" line="+14"/>
+        <location filename="../../qutim/core/src/corelayers/joinchatdialog/joinchatmodule.cpp" line="+71"/>
         <location filename="../../qutim/core/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp" line="+70"/>
         <source>Join groupchat</source>
         <translation>Присъединяване към групов разговор</translation>
