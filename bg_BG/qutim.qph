@@ -3188,4 +3188,8 @@
     <source>Theme:</source>
     <target>Тема:</target>
 </phrase>
+<phrase>
+    <source>messages</source>
+    <target>съобщения</target>
+</phrase>
 </QPH>
