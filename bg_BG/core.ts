@@ -315,7 +315,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+79"/>
         <source>Summary</source>
-        <translation>Обобщена</translation>
+        <translation>Обобщенa</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -382,7 +382,7 @@ p, li { white-space: pre-wrap; }
         <translation>Списък с контакти</translation>
     </message>
     <message>
-        <location line="+74"/>
+        <location line="+75"/>
         <source>Select tags</source>
         <translation>Избор на етикети</translation>
     </message>
@@ -419,12 +419,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Small (16x16)</source>
-        <translation>Малък (16x16)</translation>
+        <translation>Малък (16х16)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Medium (22x22)</source>
-        <translation>Среден (22x22)</translation>
+        <translation>Среден (22х22)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -439,7 +439,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Huge (64x64)</source>
-        <translation>Огромен (64x64)</translation>
+        <translation>Огромен (64х64)</translation>
     </message>
     <message>
         <location filename="../../qutim/core/src/corelayers/simplecontactlist/models/plaincontactsmodel/plaincontactlistmodel.cpp" line="+38"/>
@@ -1065,7 +1065,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qutim/core/src/corelayers/notificationssettings/notificationsettings.cpp" line="+35"/>
         <source>List of available notifications:</source>
-        <translation>Списък от налични уведомления</translation>
+        <translation>Списък от налични уведомления:</translation>
     </message>
 </context>
 <context>
@@ -1756,7 +1756,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+81"/>
         <source>Request last </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Показване на последните</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1766,7 +1766,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+30"/>
         <source>Request messages since the datetime</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Показване на съобщенията след дадени дата и час</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1776,7 +1776,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+30"/>
         <source>Request messages since</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Показване на съобщенията след</translation>
     </message>
 </context>
 <context>
@@ -2575,7 +2575,7 @@ p, li { white-space: pre-wrap; }
         <translation>Изглед на формуляра на разговор</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-108"/>
+        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-109"/>
         <source>ContactList</source>
         <translation>Списък с контакти</translation>
     </message>
@@ -2865,7 +2865,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+16"/>
         <source>Show extended icons</source>
-        <translation>Да се показват икони на разширените статуси</translation>
+        <translation>Да се показват иконите на разширените статуси</translation>
     </message>
     <message>
         <location line="+14"/>
