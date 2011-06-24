@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarod.cpp" line="+49"/>
+        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarod.cpp" line="+46"/>
         <source>Sidorov Aleksey</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -69,7 +69,7 @@
 <context>
     <name>YandexNarodAuthorizator</name>
     <message>
-        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="+82"/>
+        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="+89"/>
         <source>Has no login or password</source>
         <translation>Липсват потребителско име и парола</translation>
     </message>
@@ -102,7 +102,7 @@
 <context>
     <name>YandexNarodFactory</name>
     <message>
-        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarod.cpp" line="+148"/>
+        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarod.cpp" line="+123"/>
         <source>Yandex.Narod</source>
         <translation>Yandex.Narod</translation>
     </message>
@@ -198,7 +198,7 @@ p, li { white-space: pre-wrap; }
         <translation>Файлът %1 не може да бъде отворен</translation>
     </message>
     <message>
-        <location line="+122"/>
+        <location line="+124"/>
         <source>File sent: %N (%S bytes)
 %U</source>
         <comment>Don&apos;t remove format arguments</comment>
