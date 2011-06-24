@@ -860,7 +860,7 @@
         <translation>Автоматично присъединяване</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+716"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+714"/>
         <source>You are already in conference with another nick</source>
         <translation>Вече сте в конференцията с друг псевдоним</translation>
     </message>
@@ -904,7 +904,7 @@
 <context>
     <name>Jabber::JAccount</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/jaccount.cpp" line="+208"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/jaccount.cpp" line="+209"/>
         <source>qutIM</source>
         <comment>Local qutIM&apos;s name</comment>
         <translation>qutIM</translation>
@@ -966,7 +966,7 @@
 <context>
     <name>Jabber::JMUCSession</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-443"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-441"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете ли да се присъедините повторно?</translation>
     </message>
