@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/yandexnarod/src/yandexnarod.cpp" line="+49"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnarod.cpp" line="+46"/>
         <source>Sidorov Aleksey</source>
         <translation>Сидоров Алексей</translation>
     </message>
@@ -77,7 +77,7 @@
 <context>
     <name>YandexNarodAuthorizator</name>
     <message>
-        <location filename="../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="+82"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="+89"/>
         <source>Has no login or password</source>
         <translation>Не указан ник или пароль</translation>
     </message>
@@ -110,7 +110,7 @@
 <context>
     <name>YandexNarodFactory</name>
     <message>
-        <location filename="../../plugins/yandexnarod/src/yandexnarod.cpp" line="+148"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnarod.cpp" line="+123"/>
         <source>Yandex.Narod</source>
         <translation type="unfinished">Я.Народ</translation>
     </message>
@@ -290,7 +290,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Не могу открыть %1</translation>
     </message>
     <message>
-        <location line="+122"/>
+        <location line="+124"/>
         <source>File sent: %N (%S bytes)
 %U</source>
         <comment>Don&apos;t remove format arguments</comment>

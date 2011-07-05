@@ -22,7 +22,12 @@
 <context>
     <name>KineticPopups::Backend</name>
     <message>
-        <location filename="../../plugins/kineticpopups/src/backend.cpp" line="+38"/>
+        <location filename="../../plugins/kineticpopups/src/backend.cpp" line="+32"/>
+        <source>Show popup</source>
+        <translation type="unfinished">Показывать уведомления</translation>
+    </message>
+    <message>
+        <location line="+8"/>
         <source>Unable to create notification inside QtQuick</source>
         <translation>Не удалось создать уведомление в QtQuick</translation>
     </message>

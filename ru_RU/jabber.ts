@@ -1038,7 +1038,7 @@
         <translation type="obsolete">Вы уже в конференции с другим ником</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+711"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+714"/>
         <source>You are already in conference with another nick</source>
         <translation>Вы уже в конференции с другим ником</translation>
     </message>
@@ -1048,7 +1048,7 @@
         <translation>Пожалуйста выберите другой ник</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+178"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+179"/>
         <source>None</source>
         <translation>Нет</translation>
     </message>
@@ -1082,7 +1082,7 @@
 <context>
     <name>Jabber::JAccount</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+208"/>
+        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+214"/>
         <source>qutIM</source>
         <comment>Local qutIM&apos;s name</comment>
         <translation type="unfinished"></translation>
@@ -1324,7 +1324,7 @@ Accept invitation?</source>
 </translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-443"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-440"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете перезайти?</translation>
     </message>
@@ -1342,7 +1342,7 @@ Accept invitation?</source>
         <translation type="obsolete">вошел в комнату</translation>
     </message>
     <message>
-        <location line="+50"/>
+        <location line="+51"/>
         <location line="+2"/>
         <location line="+2"/>
         <location line="+2"/>
@@ -1352,19 +1352,19 @@ Accept invitation?</source>
     </message>
     <message>
         <location line="-8"/>
-        <location line="+29"/>
+        <location line="+31"/>
         <source> owner</source>
         <translation> владелец</translation>
     </message>
     <message>
-        <location line="-27"/>
-        <location line="+29"/>
+        <location line="-29"/>
+        <location line="+31"/>
         <source> administrator</source>
         <translation> администратор</translation>
     </message>
     <message>
-        <location line="-27"/>
-        <location line="+33"/>
+        <location line="-29"/>
+        <location line="+35"/>
         <source> registered member</source>
         <translation type="unfinished"> зарегистрированный участник</translation>
     </message>
@@ -1373,8 +1373,8 @@ Accept invitation?</source>
         <translation type="obsolete"> участник</translation>
     </message>
     <message>
-        <location line="-29"/>
-        <location line="+27"/>
+        <location line="-31"/>
+        <location line="+29"/>
         <location line="+6"/>
         <location line="+6"/>
         <source> visitor</source>
@@ -1395,7 +1395,7 @@ Accept invitation?</source>
 %1</translation>
     </message>
     <message>
-        <location line="-107"/>
+        <location line="-110"/>
         <source> has been banned</source>
         <translation> был заблокирован</translation>
     </message>
@@ -1425,7 +1425,7 @@ Accept invitation?</source>
         <translation>Вы были заблокированы</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="+17"/>
         <source> is now known as </source>
         <translation> теперь известен как </translation>
     </message>
@@ -1436,18 +1436,18 @@ Accept invitation?</source>
     </message>
     <message>
         <location line="+8"/>
-        <location line="+27"/>
+        <location line="+29"/>
         <location line="+12"/>
         <source> participant</source>
         <translation> участник</translation>
     </message>
     <message>
-        <location line="-30"/>
+        <location line="-31"/>
         <source> has left the room</source>
         <translation> покинул комнату</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+13"/>
         <source> now is</source>
         <translation> теперь</translation>
     </message>
@@ -1466,7 +1466,7 @@ Accept invitation?</source>
         <translation> модератор</translation>
     </message>
     <message>
-        <location line="+121"/>
+        <location line="+117"/>
         <source>Subject:</source>
         <translation>Тема:</translation>
     </message>
@@ -1583,7 +1583,7 @@ Accept invitation?</source>
         <translation type="obsolete">Не в списке</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+337"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+336"/>
         <source>You have been added to the list of subscribers</source>
         <translation>Вы были добавлены в список подписчиков</translation>
     </message>

@@ -71,7 +71,7 @@
         <translation>Дом. Телефон</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+187"/>
+        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+191"/>
         <location filename="../../protocols/vkontakte/src/vinforequest.cpp" line="+1"/>
         <source>Mobile phone</source>
         <translation>Мобильный</translation>

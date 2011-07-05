@@ -16,7 +16,7 @@
         <translation type="obsolete">в течение %1 секунд</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="+114"/>
+        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="+124"/>
         <source>within %n seconds</source>
         <comment>reconnect at</comment>
         <translation type="unfinished">
@@ -67,7 +67,7 @@
 <context>
     <name>Service</name>
     <message>
-        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="-83"/>
+        <location filename="../../plugins/connectionmanager/src/connectionmanager.cpp" line="-93"/>
         <source>BearerManager</source>
         <translation type="unfinished"></translation>
     </message>
