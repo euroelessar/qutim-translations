@@ -23,6 +23,11 @@
         <source>Open</source>
         <translation type="obsolete">Открыть</translation>
     </message>
+    <message>
+        <location filename="../../plugins/dbusnotifications/src/dbusbackend.cpp" line="65"/>
+        <source>Show popup</source>
+        <translation type="unfinished">Показывать уведомления</translation>
+    </message>
 </context>
 <context>
     <name>Plugin</name>
