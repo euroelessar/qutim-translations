@@ -10,9 +10,17 @@
     </message>
 </context>
 <context>
+    <name>DBusBackend</name>
+    <message>
+        <location filename="../../qutim/plugins/dbusnotifications/src/dbusbackend.cpp" line="+65"/>
+        <source>Show popup</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Plugin</name>
     <message>
-        <location line="-4"/>
+        <location filename="../../qutim/plugins/dbusnotifications/src/dplugin.cpp" line="-4"/>
         <source>DBus notifications</source>
         <translation>DBus уведомления</translation>
     </message>

@@ -108,7 +108,7 @@
         <translation>Име:</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+65"/>
+        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+67"/>
         <source>Remove from roster</source>
         <translation>Премахване от списъка</translation>
     </message>
@@ -118,12 +118,12 @@
         <translation>Добавяне в списъка </translation>
     </message>
     <message>
-        <location line="+48"/>
+        <location line="+46"/>
         <source>Unavailable</source>
         <translation>Недостъпен</translation>
     </message>
     <message>
-        <location line="+102"/>
+        <location line="+93"/>
         <source>Remove contact</source>
         <translation>Премахване на контакта</translation>
     </message>
@@ -266,7 +266,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+479"/>
+        <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+434"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -323,7 +323,7 @@ p, li { white-space: pre-wrap; }
         <translation>Основна</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-168"/>
+        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-157"/>
         <source>Show information</source>
         <translation>Показване на информация</translation>
     </message>
@@ -344,7 +344,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+3"/>
-        <location line="+49"/>
+        <location line="+47"/>
         <source>Information unavailable</source>
         <translation>Не е достъпна информация</translation>
     </message>
@@ -397,17 +397,22 @@ p, li { white-space: pre-wrap; }
         <translation>Скриване на контактите извън линия</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-26"/>
+        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-24"/>
         <source>Copy id to clipboard</source>
         <translation>Копиране в клипборда</translation>
     </message>
     <message>
-        <location line="+20"/>
+        <location line="+19"/>
         <source>Rename contact</source>
         <translation>Преименуване на контакта</translation>
     </message>
     <message>
-        <location line="-11"/>
+        <location line="+24"/>
+        <source>Enable/disable sound</source>
+        <translation>Включване/Изключване на звука</translation>
+    </message>
+    <message>
+        <location line="-34"/>
         <source>Edit tags</source>
         <translation>Редактиране на етикети</translation>
     </message>
@@ -812,6 +817,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::ChatNotificationsBackend</name>
+    <message>
+        <location filename="../../qutim/core/src/corelayers/chatnotificationsbackend/chatnotificationsbackend.cpp" line="+27"/>
+        <source>Add message to chat</source>
+        <translation>Да се добавя съобщението към разговора</translation>
+    </message>
+</context>
+<context>
     <name>Core::ChatSpellChecker</name>
     <message>
         <location filename="../../qutim/core/src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+139"/>
@@ -1022,6 +1035,19 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>Core::MobileNotificationSettings</name>
+    <message>
+        <location filename="../../qutim/core/src/corelayers/mobilenotificationssettings/mobilenotificationsettings.cpp" line="+135"/>
+        <source>Disable notifications when chat is active</source>
+        <translation>Да няма уведомления при активен разговор</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Ignore conference messages that do not contain my name</source>
+        <translation>Да се пренебрегват съобщенията, в конференциите, в които не се съдържатмоето име</translation>
+    </message>
+</context>
+<context>
     <name>Core::MobileSearchForm</name>
     <message>
         <location filename="../../qutim/core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp" line="+52"/>
@@ -1063,9 +1089,19 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::NotificationSettings</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/notificationssettings/notificationsettings.cpp" line="+35"/>
-        <source>List of available notifications:</source>
-        <translation>Списък от налични уведомления:</translation>
+        <location filename="../../qutim/core/src/corelayers/notificationssettings/notificationsettings.cpp" line="+87"/>
+        <source>&lt;b&gt;Additional settings:&lt;/b&gt;</source>
+        <translation>&lt;b&gt;Допълнителни настройки:&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Disable notifications when chat is active</source>
+        <translation>Да няма уведомления при активен разговор</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Ignore conference messages that do not contain my name</source>
+        <translation>Да се пренебрегват съобщенията, в конференциите, в които не се съдържатмоето име</translation>
     </message>
 </context>
 <context>
@@ -1335,7 +1371,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleActions</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+81"/>
+        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+85"/>
         <source>Rename contact %1</source>
         <translation>Преименуване на контакта %1</translation>
     </message>
@@ -1345,7 +1381,7 @@ p, li { white-space: pre-wrap; }
         <translation>Въведете ново име за контакта %1</translation>
     </message>
     <message>
-        <location line="+50"/>
+        <location line="+35"/>
         <source>Are you sure you want to delete a contact %1 from the roster?</source>
         <translation>Сигурни ли сте, че желаете да изтриете контакта %1 от списъка?</translation>
     </message>
@@ -1353,7 +1389,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::AbstractContactModel</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp" line="+101"/>
+        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp" line="+118"/>
+        <source>Blink icon in the contact list</source>
+        <translation>Мигаща икона в списъка с контакти</translation>
+    </message>
+    <message>
+        <location line="+75"/>
         <source>All tags</source>
         <translation>Всички етикети</translation>
     </message>
@@ -1363,7 +1404,7 @@ p, li { white-space: pre-wrap; }
         <translation>Собствени етикети</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="+339"/>
+        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="+362"/>
         <source>Without tags</source>
         <translation>Без етикети</translation>
     </message>
@@ -1506,6 +1547,14 @@ p, li { white-space: pre-wrap; }
         <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp" line="+19"/>
         <source>Edit tags for %1</source>
         <translation>Редактиране етикетите на %1</translation>
+    </message>
+</context>
+<context>
+    <name>Core::SimpleTray</name>
+    <message>
+        <location filename="../../qutim/core/src/corelayers/trayicon/simpletray.cpp" line="+87"/>
+        <source>Blink icon in the tray</source>
+        <translation>Мигаща икона в системния поднос</translation>
     </message>
 </context>
 <context>
@@ -2051,7 +2100,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Notification</name>
     <message>
-        <location filename="../../qutim/core/libqutim/notification.cpp" line="+117"/>
+        <location filename="../../qutim/core/libqutim/notification.cpp" line="+181"/>
         <source>Incoming Message</source>
         <translation>Входящо съобщение</translation>
     </message>
@@ -2072,56 +2121,131 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+1"/>
-        <source>User joined chat</source>
-        <translation>Потребител се присъединяване към групов разговор</translation>
+        <source>Contact joined conference</source>
+        <translation>Контакт се присъединява към конференция</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>User leaved chat</source>
-        <translation>Потребител напуска групов разговор</translation>
+        <source>Contact left conference</source>
+        <translation>Контакт напуска конференция</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Incoming chat message</source>
-        <translation>Входящо съобщение в разговор</translation>
+        <source>Incoming conference message</source>
+        <translation>Входящо съобщение в конференция</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Outgoing chat message</source>
-        <translation>Изходящо съобщение в разговор</translation>
+        <source>Outgoing conference message</source>
+        <translation>Изходящо съобщение в конференция</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Contact online</source>
+        <translation>Контакт идва на линия</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Contact offline</source>
+        <translation>Контакт излиза извън линия</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Contact changed status</source>
+        <translation>Контакт променя статуса си</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Contact birthday</source>
+        <translation>Контакт има рожден ден</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Contact typing</source>
+        <translation>Контакт пише</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>A new message has been received</source>
+        <translation>Получено е ново съобщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>A message has been sent</source>
+        <translation>Изпратено е ново съобщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>qutIM has started</source>
+        <translation>qutIM е стартиран</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>A message has been blocked</source>
+        <translation>Блокирано е съобщение</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>A user has joined a conference</source>
+        <translation>Потребител се присъединява към конференция</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>A user has left a conference</source>
+        <translation>Потребител напуска конференция</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>A new conference message has been received</source>
+        <translation>Получено е ново съобщение в конференция</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>A conference message has been sent</source>
+        <translation>Изпратено е ново съобщение в конференция</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>A file transfer has been completed</source>
+        <translation>Приключило е предаване на файл(ове)</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>A contact has gone online</source>
+        <translation>Контакт идва на линия</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>A contact has gone offline</source>
+        <translation>Контакт излиза извън линия</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>A contact has changed status</source>
+        <translation>Контакт променя статуса си</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>A contact has birthday!</source>
+        <translation>Контакт има рожден ден!</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>A contact is typing</source>
+        <translation>Контакт пише</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>A system notification</source>
+        <translation>Системно уведомление</translation>
+    </message>
+    <message>
+        <location line="-34"/>
         <source>File transfer completed</source>
         <translation>Приключило предаване на  файл(ове)</translation>
     </message>
     <message>
-        <location line="+1"/>
-        <source>User online</source>
-        <translation>Потребител идва на линия</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>User offline</source>
-        <translation>Потребител излиза извън линия</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>User changed status</source>
-        <translation>Потребител променя статуса си</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>User has birthday!</source>
-        <translation>Потребител има рожден ден!</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>User typing</source>
-        <translation>Потребител пише</translation>
-    </message>
-    <message>
-        <location line="+1"/>
+        <location line="+6"/>
         <source>System</source>
         <translation>Системни</translation>
     </message>
@@ -2264,7 +2388,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбиращ се набор от действия с контактите</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/trayicon/simpletray.cpp" line="+183"/>
+        <location filename="../../qutim/core/src/corelayers/trayicon/simpletray.cpp" line="+55"/>
         <source>Notification Area Icon</source>
         <translation>Икона в областта за уведомления</translation>
     </message>
@@ -2388,62 +2512,62 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../qutim/core/libqutim/notificationslayer.cpp" line="+134"/>
-        <location filename="../../qutim/core/src/corelayers/notificationfilter/notificationfilter.cpp" line="+51"/>
-        <source>%1 changed status</source>
-        <translation>%1 промени статуса си</translation>
-    </message>
-    <message>
-        <location line="-21"/>
-        <location filename="../../qutim/core/src/corelayers/notificationfilter/notificationfilter.cpp" line="-21"/>
+        <location filename="../../qutim/core/src/corelayers/notificationfilter/notificationfilter.cpp" line="+36"/>
         <source>Message from %1:</source>
         <translation>Съобщение от %1:</translation>
     </message>
     <message>
         <location line="+4"/>
-        <location filename="../../qutim/core/src/corelayers/notificationfilter/notificationfilter.cpp" line="+4"/>
         <source>Message to %1:</source>
         <translation>Съобщение до %1:</translation>
     </message>
     <message>
-        <location line="+23"/>
-        <location filename="../../qutim/core/src/corelayers/notificationfilter/notificationfilter.cpp" line="+23"/>
+        <location line="+9"/>
+        <source>%1 has joined</source>
+        <translation>%1 се присъедини</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>%1 has left</source>
+        <translation>%1 напусна</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>%1 has changed status to %2</source>
+        <translation>%1 промени статуса си на %2</translation>
+    </message>
+    <message>
+        <location line="+6"/>
         <source>%1 is typing</source>
         <translation>%1 пише</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../../qutim/core/src/corelayers/notificationfilter/notificationfilter.cpp" line="+5"/>
         <source>System notify</source>
         <translation>Системно уведомление</translation>
     </message>
     <message>
-        <location line="-22"/>
-        <location filename="../../qutim/core/src/corelayers/notificationfilter/notificationfilter.cpp" line="-22"/>
+        <location line="-26"/>
         <source>Blocked message from %1</source>
         <translation>Блокирано съобщение от %1</translation>
     </message>
     <message>
-        <location line="+14"/>
-        <location filename="../../qutim/core/src/corelayers/notificationfilter/notificationfilter.cpp" line="+14"/>
+        <location line="+18"/>
         <source>%1 has birthday today!!</source>
         <translation>%1 има рожден ден днес!!</translation>
     </message>
     <message>
-        <location line="-10"/>
-        <location filename="../../qutim/core/src/corelayers/notificationfilter/notificationfilter.cpp" line="-10"/>
+        <location line="-12"/>
         <source>%1 is online</source>
         <translation>%1 е на линия</translation>
     </message>
     <message>
-        <location line="+4"/>
-        <location filename="../../qutim/core/src/corelayers/notificationfilter/notificationfilter.cpp" line="+4"/>
+        <location line="+6"/>
         <source>%1 is offline</source>
         <translation>%1 е извън линия</translation>
     </message>
     <message>
-        <location line="-11"/>
-        <location filename="../../qutim/core/src/corelayers/notificationfilter/notificationfilter.cpp" line="-11"/>
+        <location line="-15"/>
         <source>qutIM launched</source>
         <translation>qutIM е стартиран</translation>
     </message>
@@ -2468,7 +2592,7 @@ p, li { white-space: pre-wrap; }
         <translation>Четвърто тримесечие</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-70"/>
+        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-49"/>
         <source>Copy %1 to clipboard</source>
         <translation>Копиране на %1 в клипборда</translation>
     </message>
@@ -2523,12 +2647,12 @@ p, li { white-space: pre-wrap; }
         <translation>Стил на бутоните</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/notificationfilter/notificationfilter.cpp" line="+76"/>
+        <location filename="../../qutim/core/src/corelayers/notificationfilter/notificationfilter.cpp" line="+119"/>
         <source>Open chat</source>
         <translation>Отваряне на разговора</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+7"/>
         <source>Ignore</source>
         <translation>Пренебрегване</translation>
     </message>
@@ -2555,7 +2679,7 @@ p, li { white-space: pre-wrap; }
         <translation>Област с действия</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/libqutim/notificationslayer.cpp" line="-88"/>
+        <location filename="../../qutim/core/libqutim/sound.cpp" line="+31"/>
         <source>Popup</source>
         <translation>Уведомление</translation>
     </message>
@@ -2611,7 +2735,8 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/notificationssettings/notificationssettings.cpp" line="+51"/>
+        <location filename="../../qutim/core/src/corelayers/mobilenotificationssettings/mobilenotificationssettings.cpp" line="+38"/>
+        <location filename="../../qutim/core/src/corelayers/notificationssettings/notificationssettings.cpp" line="+36"/>
         <source>Notifications</source>
         <translation>Уведомления</translation>
     </message>
@@ -2973,7 +3098,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Sound</name>
     <message>
-        <location filename="../../qutim/core/libqutim/notificationslayer.cpp" line="+281"/>
+        <location filename="../../qutim/core/libqutim/sound.cpp" line="+204"/>
         <source>No sound</source>
         <translation>Без звук</translation>
     </message>
@@ -2986,7 +3111,7 @@ p, li { white-space: pre-wrap; }
         <translation>Предварителен преглед</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+8"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
@@ -3035,11 +3160,6 @@ p, li { white-space: pre-wrap; }
         <location line="+10"/>
         <source>Don&apos;t group messages after (sec):</source>
         <translation>Да не се групират съобщенията след (след):</translation>
-    </message>
-    <message>
-        <location line="+14"/>
-        <source>Notifications in active chat</source>
-        <translation>Уведомления в активния прозорец със съобщения</translation>
     </message>
 </context>
 <context>
@@ -3112,12 +3232,12 @@ p, li { white-space: pre-wrap; }
         <translation>Настройки на разделния формуляр</translation>
     </message>
     <message>
-        <location line="+98"/>
+        <location line="+33"/>
         <source>Send Key</source>
         <translation>Клавиши за изпращане</translation>
     </message>
     <message>
-        <location line="-74"/>
+        <location line="+8"/>
         <source>Store service messages in history</source>
         <translation>Съхраняване на служебните съобщения в хронологията</translation>
     </message>
@@ -3155,11 +3275,6 @@ p, li { white-space: pre-wrap; }
         <location line="+7"/>
         <source>Show menubar</source>
         <translation>Да се показва лентата с менюто</translation>
-    </message>
-    <message>
-        <location line="+21"/>
-        <source>Show notifications in active chat</source>
-        <translation>Да се показват уведомления в активния прозорец със съобщения</translation>
     </message>
 </context>
 <context>
@@ -3649,11 +3764,19 @@ en</source>
 <context>
     <name>qutim_sdk_0_3::ModuleManager</name>
     <message>
-        <location filename="../../qutim/core/libqutim/modulemanager.cpp" line="+407"/>
+        <location filename="../../qutim/core/libqutim/modulemanager.cpp" line="+408"/>
         <source>Could not init plugin: 
  %1</source>
         <translation>Неуспешно инициализиране на добавка: 
  %1</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::SoundHandler</name>
+    <message>
+        <location filename="../../qutim/core/libqutim/sound.cpp" line="+24"/>
+        <source>Play sound</source>
+        <translation>Възпроизвеждане на звук</translation>
     </message>
 </context>
 <context>

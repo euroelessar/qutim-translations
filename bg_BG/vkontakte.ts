@@ -63,7 +63,7 @@
         <translation>Телефон (дом.)</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/vkontakte/src/vcontact.cpp" line="+187"/>
+        <location filename="../../qutim/protocols/vkontakte/src/vcontact.cpp" line="+191"/>
         <location filename="../../qutim/protocols/vkontakte/src/vinforequest.cpp" line="+1"/>
         <source>Mobile phone</source>
         <translation>Телефон (моб.)</translation>

@@ -416,7 +416,7 @@
 <context>
     <name>IrcChannel</name>
     <message>
-        <location filename="../../qutim/protocols/irc/src/ircchannel.cpp" line="+375"/>
+        <location filename="../../qutim/protocols/irc/src/ircchannel.cpp" line="+383"/>
         <source>%1 gives channel operator privileges to %2.</source>
         <translation>%1 даде операторски права в канала на %2.</translation>
     </message>
@@ -555,7 +555,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcChannel</name>
     <message>
-        <location filename="../../qutim/protocols/irc/src/ircchannel.cpp" line="-208"/>
+        <location filename="../../qutim/protocols/irc/src/ircchannel.cpp" line="-216"/>
         <source>You are now known as %1</source>
         <translation>В момента се подвизавате като %1</translation>
     </message>
@@ -595,22 +595,22 @@
         <translation>%1 ви изрита от канала (%2)</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+5"/>
         <source>%1 has kicked you from the channel</source>
         <translation>%1 ви изрита от канала</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+8"/>
         <source>%1 has kicked %2 (%3)</source>
         <translation>%1 изрита %2 (%3)</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+5"/>
         <source>%1 has kicked %2</source>
         <translation>%1 изрита %2</translation>
     </message>
     <message>
-        <location line="+14"/>
+        <location line="+16"/>
         <source>The channel topic is &quot;%1&quot;</source>
         <translation>Заглавието на канала е &quot;%1&quot;</translation>
     </message>
@@ -811,7 +811,7 @@ Please wait a while and try again.</source>
         <translation>%1 зададе съобщение при отсъствие: &quot;%2&quot;</translation>
     </message>
     <message>
-        <location line="+323"/>
+        <location line="+321"/>
         <source>SSL error: %1</source>
         <translation>SSL грешка: %1</translation>
     </message>
@@ -821,7 +821,7 @@ Please wait a while and try again.</source>
         <translation>SSL handshake приключи</translation>
     </message>
     <message>
-        <location line="-325"/>
+        <location line="-323"/>
         <source>%1 removed away message</source>
         <translation>%1 премахна съобщението при отсъствие</translation>
     </message>
@@ -851,7 +851,7 @@ Please wait a while and try again.</source>
         <translation>Невъзможно е свързването към мрежата %1</translation>
     </message>
     <message>
-        <location line="+193"/>
+        <location line="+191"/>
         <source>Network error: %1</source>
         <translation>Мрежова грешка: %1</translation>
     </message>
@@ -859,7 +859,7 @@ Please wait a while and try again.</source>
 <context>
     <name>qutim_sdk_0_3::irc::IrcJoinLeftActionGenerator</name>
     <message>
-        <location filename="../../qutim/protocols/irc/src/ircchannel.cpp" line="-311"/>
+        <location filename="../../qutim/protocols/irc/src/ircchannel.cpp" line="-319"/>
         <source>Leave the channel</source>
         <translation>Напускане на канала</translation>
     </message>

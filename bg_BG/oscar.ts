@@ -549,7 +549,7 @@
         <translation>Общи</translation>
     </message>
     <message>
-        <location line="+246"/>
+        <location line="+259"/>
         <source>Online time</source>
         <translation>Време на линия</translation>
     </message>
@@ -579,7 +579,7 @@
         <translation>Заявка за удостоверяване</translation>
     </message>
     <message>
-        <location line="+61"/>
+        <location line="+59"/>
         <source>Authorization request accepted</source>
         <translation>Заявката за удостоверяване бе приета</translation>
     </message>
@@ -3426,7 +3426,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/icqprotocol.cpp" line="+67"/>
+        <location filename="../../qutim/protocols/oscar/src/icqprotocol.cpp" line="+63"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
@@ -3758,7 +3758,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::Authorization</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/authorization.cpp" line="-72"/>
+        <location filename="../../qutim/protocols/oscar/src/authorization.cpp" line="-70"/>
         <source>Grant authorization</source>
         <translation>Предоставяне на удостоверение</translation>
     </message>

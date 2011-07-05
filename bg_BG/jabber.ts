@@ -870,7 +870,7 @@
         <translation>Моля, изберете друг псевдоним</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+178"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+179"/>
         <source>None</source>
         <translation>Без</translation>
     </message>
@@ -904,7 +904,7 @@
 <context>
     <name>Jabber::JAccount</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/jaccount.cpp" line="+209"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/jaccount.cpp" line="+214"/>
         <source>qutIM</source>
         <comment>Local qutIM&apos;s name</comment>
         <translation>qutIM</translation>
@@ -966,7 +966,7 @@
 <context>
     <name>Jabber::JMUCSession</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-441"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="-440"/>
         <source>Do you want to rejoin?</source>
         <translation>Желаете ли да се присъедините повторно?</translation>
     </message>
@@ -976,7 +976,7 @@
         <translation>Бяхте изритан</translation>
     </message>
     <message>
-        <location line="+50"/>
+        <location line="+51"/>
         <location line="+2"/>
         <location line="+2"/>
         <location line="+2"/>
@@ -986,32 +986,32 @@
     </message>
     <message>
         <location line="-8"/>
-        <location line="+29"/>
+        <location line="+31"/>
         <source> owner</source>
         <translation> собственик</translation>
     </message>
     <message>
-        <location line="-27"/>
-        <location line="+29"/>
+        <location line="-29"/>
+        <location line="+31"/>
         <source> administrator</source>
         <translation> администратор</translation>
     </message>
     <message>
-        <location line="-27"/>
-        <location line="+33"/>
+        <location line="-29"/>
+        <location line="+35"/>
         <source> registered member</source>
         <translation> регистриран член</translation>
     </message>
     <message>
-        <location line="-29"/>
-        <location line="+27"/>
+        <location line="-31"/>
+        <location line="+29"/>
         <location line="+6"/>
         <location line="+6"/>
         <source> visitor</source>
         <translation>.посетител</translation>
     </message>
     <message>
-        <location line="-107"/>
+        <location line="-110"/>
         <source> has been banned</source>
         <translation> е с наложена забрана</translation>
     </message>
@@ -1041,7 +1041,7 @@
         <translation>Беше ви наложена забрана</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="+17"/>
         <source> is now known as </source>
         <translation> сега се подвизава като </translation>
     </message>
@@ -1052,18 +1052,18 @@
     </message>
     <message>
         <location line="+8"/>
-        <location line="+27"/>
+        <location line="+29"/>
         <location line="+12"/>
         <source> participant</source>
         <translation> участник</translation>
     </message>
     <message>
-        <location line="-30"/>
+        <location line="-31"/>
         <source> has left the room</source>
         <translation> напусна стаята</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+13"/>
         <source> now is</source>
         <translation> сега е</translation>
     </message>
@@ -1082,7 +1082,7 @@
         <translation> модератор</translation>
     </message>
     <message>
-        <location line="+121"/>
+        <location line="+117"/>
         <source>Subject:</source>
         <translation>Тема:</translation>
     </message>
@@ -1149,7 +1149,7 @@
 <context>
     <name>Jabber::JRoster</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+337"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+336"/>
         <source>You have been added to the list of subscribers</source>
         <translation>Бяхте добавени в списъка с абонати</translation>
     </message>
