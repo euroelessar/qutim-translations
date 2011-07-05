@@ -14,7 +14,7 @@
     <message>
         <location filename="../../qutim/plugins/dbusnotifications/src/dbusbackend.cpp" line="+65"/>
         <source>Show popup</source>
-        <translation type="unfinished"></translation>
+        <translation>Да се показва изскачащ прозорец</translation>
     </message>
 </context>
 <context>
