@@ -18,13 +18,13 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="protocols/vkontakte/src/vcontact.cpp" line="187"/>
+        <location filename="protocols/vkontakte/src/vcontact.cpp" line="191"/>
         <location filename="protocols/vkontakte/src/vinforequest.cpp" line="61"/>
         <source>Mobile phone</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/vkontakte/src/vcontact.cpp" line="191"/>
+        <location filename="protocols/vkontakte/src/vcontact.cpp" line="195"/>
         <source>Activity</source>
         <translation type="unfinished"></translation>
     </message>

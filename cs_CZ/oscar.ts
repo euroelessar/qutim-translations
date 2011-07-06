@@ -524,17 +524,17 @@
         <translation type="unfinished">Požadavek na autorizaci</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/authorization.cpp" line="82"/>
+        <location filename="protocols/oscar/src/authorization.cpp" line="80"/>
         <source>Authorization request accepted</source>
         <translation type="unfinished">Žádost o autorizaci přijata</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/authorization.cpp" line="83"/>
+        <location filename="protocols/oscar/src/authorization.cpp" line="81"/>
         <source>Authorization request declined</source>
         <translation type="unfinished">Žádost o autorizaci odmítnuta</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/authorization.cpp" line="121"/>
+        <location filename="protocols/oscar/src/authorization.cpp" line="119"/>
         <source>Please, authorize me</source>
         <translation type="unfinished">Prosím, autorizuj mě</translation>
     </message>
@@ -544,22 +544,22 @@
         <translation>Obecné</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/icqcontact.cpp" line="374"/>
+        <location filename="protocols/oscar/src/icqcontact.cpp" line="387"/>
         <source>Online time</source>
         <translation>Doba připojení</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/icqcontact.cpp" line="381"/>
+        <location filename="protocols/oscar/src/icqcontact.cpp" line="394"/>
         <source>Signed on</source>
         <translation>Přihlášený od</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/icqcontact.cpp" line="386"/>
+        <location filename="protocols/oscar/src/icqcontact.cpp" line="399"/>
         <source>Away since</source>
         <translation>Pryč od</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/icqcontact.cpp" line="391"/>
+        <location filename="protocols/oscar/src/icqcontact.cpp" line="404"/>
         <source>Reg. date</source>
         <translation>Datum registrace</translation>
     </message>
@@ -3426,12 +3426,12 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="protocols/oscar/src/icqprotocol.cpp" line="67"/>
+        <location filename="protocols/oscar/src/icqprotocol.cpp" line="63"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
     <message>
-        <location filename="protocols/oscar/src/icqprotocol.cpp" line="72"/>
+        <location filename="protocols/oscar/src/icqprotocol.cpp" line="68"/>
         <source>Icq account settings</source>
         <translation>ICQ nastavení účtu</translation>
     </message>

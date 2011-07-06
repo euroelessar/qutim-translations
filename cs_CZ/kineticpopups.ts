@@ -22,7 +22,12 @@
 <context>
     <name>KineticPopups::Backend</name>
     <message>
-        <location filename="plugins/kineticpopups/src/backend.cpp" line="38"/>
+        <location filename="plugins/kineticpopups/src/backend.cpp" line="32"/>
+        <source>Show popup</source>
+        <translation>Zobrazit oznamovací okno</translation>
+    </message>
+    <message>
+        <location filename="plugins/kineticpopups/src/backend.cpp" line="40"/>
         <source>Unable to create notification inside QtQuick</source>
         <translation>Nelze vytvořit oznámení v QtQuick</translation>
     </message>
@@ -56,7 +61,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="plugins/kineticpopups/src/backend.cpp" line="33"/>
+        <location filename="plugins/kineticpopups/src/backend.cpp" line="35"/>
         <source>Popups</source>
         <translation>Oznamovací okna</translation>
     </message>

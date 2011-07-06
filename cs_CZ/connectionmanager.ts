@@ -4,7 +4,7 @@
 <context>
     <name>ConnectionManager::ConnectionManager</name>
     <message numerus="yes">
-        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="114"/>
+        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="124"/>
         <source>within %n seconds</source>
         <comment>reconnect at</comment>
         <translation>
@@ -14,12 +14,12 @@
         </translation>
     </message>
     <message>
-        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="115"/>
+        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="125"/>
         <source>immediately</source>
         <translation>okamžitě</translation>
     </message>
     <message>
-        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="124"/>
+        <location filename="plugins/connectionmanager/src/connectionmanager.cpp" line="134"/>
         <source>%1 will be reconnected %2</source>
         <translation>%1 bude znovu připojeno %2</translation>
     </message>

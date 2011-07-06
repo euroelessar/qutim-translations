@@ -10,6 +10,14 @@
     </message>
 </context>
 <context>
+    <name>DBusBackend</name>
+    <message>
+        <location filename="plugins/dbusnotifications/src/dbusbackend.cpp" line="65"/>
+        <source>Show popup</source>
+        <translation>Zobrazit oznamovací okno</translation>
+    </message>
+</context>
+<context>
     <name>Plugin</name>
     <message>
         <location filename="plugins/dbusnotifications/src/dplugin.cpp" line="14"/>

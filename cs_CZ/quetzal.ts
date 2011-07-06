@@ -85,7 +85,7 @@ Pro úplné vytvoření účtu pokračujte stisknutím tlačítka Dokončit</tra
 <context>
     <name>Settings</name>
     <message>
-        <location filename="protocols/quetzal/src/quetzalprotocol.cpp" line="89"/>
+        <location filename="protocols/quetzal/src/quetzalprotocol.cpp" line="87"/>
         <source>General</source>
         <translation>Obecné</translation>
     </message>

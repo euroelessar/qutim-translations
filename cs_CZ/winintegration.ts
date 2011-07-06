@@ -12,18 +12,18 @@
 <context>
     <name>Core::SimpleContactList::SevenWidget</name>
     <message>
-        <location filename="plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp" line="88"/>
+        <location filename="plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp" line="113"/>
         <source>Status</source>
         <translation>Stav</translation>
     </message>
     <message>
-        <location filename="plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp" line="96"/>
+        <location filename="plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp" line="121"/>
         <source>Search contact</source>
         <translation>Hledat kontakt</translation>
     </message>
     <message>
-        <location filename="plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp" line="124"/>
-        <location filename="plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp" line="302"/>
+        <location filename="plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp" line="149"/>
+        <location filename="plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp" line="327"/>
         <source>Set Status Text</source>
         <translation>Nastavit text stavu</translation>
     </message>
@@ -113,12 +113,12 @@
 <context>
     <name>WThumbnailsProvider</name>
     <message>
-        <location filename="plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="116"/>
+        <location filename="plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="128"/>
         <source>&lt;b&gt;You have new messages.&lt;/b&gt;</source>
         <translation>&lt;b&gt;Máte nové zprávy:&lt;/b&gt;</translation>
     </message>
     <message numerus="yes">
-        <location filename="plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="119"/>
+        <location filename="plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="131"/>
         <source>&amp;middot; %n message(s) from chats.</source>
         <translation>
             <numerusform>&amp;middot; %n zpráv z konverzací.</numerusform>
@@ -127,7 +127,7 @@
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="120"/>
+        <location filename="plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="132"/>
         <source>&amp;middot; %n message(s) from conferences.</source>
         <translation>
             <numerusform>&amp;middot; %n zpráv z konferencí.</numerusform>
@@ -136,12 +136,12 @@
         </translation>
     </message>
     <message>
-        <location filename="plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="126"/>
+        <location filename="plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="138"/>
         <source>Last received from:</source>
         <translation>Poslední od:</translation>
     </message>
     <message>
-        <location filename="plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="130"/>
+        <location filename="plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="142"/>
         <source>You have no new messages.</source>
         <translation>Nemáte nové zprávy.</translation>
     </message>

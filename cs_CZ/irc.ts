@@ -416,32 +416,32 @@
 <context>
     <name>IrcChannel</name>
     <message>
-        <location filename="protocols/irc/src/ircchannel.cpp" line="374"/>
+        <location filename="protocols/irc/src/ircchannel.cpp" line="383"/>
         <source>%1 gives channel operator privileges to %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircchannel.cpp" line="376"/>
+        <location filename="protocols/irc/src/ircchannel.cpp" line="385"/>
         <source>%1 gives channel halfop privileges to %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircchannel.cpp" line="378"/>
+        <location filename="protocols/irc/src/ircchannel.cpp" line="387"/>
         <source>%1 gives %2 the permission to talk.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircchannel.cpp" line="398"/>
+        <location filename="protocols/irc/src/ircchannel.cpp" line="407"/>
         <source>%1 takes channel operator privileges from %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircchannel.cpp" line="400"/>
+        <location filename="protocols/irc/src/ircchannel.cpp" line="409"/>
         <source>%1 takes channel halfop privileges from %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircchannel.cpp" line="402"/>
+        <location filename="protocols/irc/src/ircchannel.cpp" line="411"/>
         <source>%1 takes the permission to talk from %2.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -555,67 +555,67 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcChannel</name>
     <message>
-        <location filename="protocols/irc/src/ircchannel.cpp" line="194"/>
+        <location filename="protocols/irc/src/ircchannel.cpp" line="195"/>
         <source>You are now known as %1</source>
         <translation type="unfinished">Přejmenoval(a) jste na %1</translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircchannel.cpp" line="217"/>
+        <location filename="protocols/irc/src/ircchannel.cpp" line="218"/>
         <source>%1 are now known as %2</source>
         <translation type="unfinished">%1 se přejmenoval(a) na %2</translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircchannel.cpp" line="279"/>
+        <location filename="protocols/irc/src/ircchannel.cpp" line="280"/>
         <source>%1 (%2) has joined the channel</source>
         <translation type="unfinished">%1 (%2) vstoupil(a) do kanálu</translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircchannel.cpp" line="290"/>
+        <location filename="protocols/irc/src/ircchannel.cpp" line="291"/>
         <source>You left this channel (%1)</source>
         <translation>Opustil(a) jste tento kanál (%1)</translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircchannel.cpp" line="292"/>
+        <location filename="protocols/irc/src/ircchannel.cpp" line="293"/>
         <source>You left this channel</source>
         <translation>Opustil(a) jste tento kanál</translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircchannel.cpp" line="299"/>
+        <location filename="protocols/irc/src/ircchannel.cpp" line="300"/>
         <source>%1 has left this channel (%2)</source>
         <translation>%1 opustil(a) tento kanál (%2)</translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircchannel.cpp" line="301"/>
+        <location filename="protocols/irc/src/ircchannel.cpp" line="302"/>
         <source>%1 has left this channel</source>
         <translation>%1 opustil(a) tento kanál</translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircchannel.cpp" line="312"/>
+        <location filename="protocols/irc/src/ircchannel.cpp" line="313"/>
         <source>%1 has kicked you from the channel (%2)</source>
         <translation type="unfinished">%1 vyhodil(a) vás z kanálu (%2)</translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircchannel.cpp" line="315"/>
+        <location filename="protocols/irc/src/ircchannel.cpp" line="318"/>
         <source>%1 has kicked you from the channel</source>
         <translation type="unfinished">%1 vyhodil(a) vás z kanálu</translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircchannel.cpp" line="321"/>
+        <location filename="protocols/irc/src/ircchannel.cpp" line="326"/>
         <source>%1 has kicked %2 (%3)</source>
         <translation type="unfinished">%1 vyhodil(a) %2 (%3)</translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircchannel.cpp" line="324"/>
+        <location filename="protocols/irc/src/ircchannel.cpp" line="331"/>
         <source>%1 has kicked %2</source>
         <translation type="unfinished">%1 vyhodil(a) %2</translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircchannel.cpp" line="338"/>
+        <location filename="protocols/irc/src/ircchannel.cpp" line="347"/>
         <source>The channel topic is &quot;%1&quot;</source>
         <translation type="unfinished">Téma kanálu je &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircchannel.cpp" line="347"/>
+        <location filename="protocols/irc/src/ircchannel.cpp" line="356"/>
         <source>The topic was set by %1 on %2.</source>
         <translation type="unfinished">Téma nastavil %1 na %2.</translation>
     </message>
@@ -825,12 +825,12 @@ Please wait a while and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="636"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="634"/>
         <source>SSL error: %1</source>
         <translation type="unfinished">SSL chyba: %1</translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="642"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="640"/>
         <source>SSL handshake completed</source>
         <translation type="unfinished"></translation>
     </message>
@@ -850,7 +850,7 @@ Please wait a while and try again.</source>
         <translation>Nelze se připojit do sítě %1</translation>
     </message>
     <message>
-        <location filename="protocols/irc/src/ircconnection.cpp" line="620"/>
+        <location filename="protocols/irc/src/ircconnection.cpp" line="618"/>
         <source>Network error: %1</source>
         <translation>Síťová chyba: %1</translation>
     </message>
