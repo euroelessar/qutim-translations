@@ -9,7 +9,7 @@
         <translation>qutIM 0.2 стил</translation>
     </message>
     <message>
-        <location filename="../../qutim/plugins/olddelegate/settings/olddelegatesettings.cpp" line="+17"/>
+        <location filename="../../qutim/plugins/olddelegate/settings/olddelegatesettings.cpp" line="+16"/>
         <source>Default (depends on platform)</source>
         <translation>Подразбиращ се (според платформата)</translation>
     </message>
@@ -47,12 +47,7 @@
         <translation>Настройки</translation>
     </message>
     <message>
-        <location line="+9"/>
-        <source>Status icons size:</source>
-        <translation>Размер на иконите за статус:</translation>
-    </message>
-    <message>
-        <location line="+10"/>
+        <location line="+12"/>
         <source>Show avatars</source>
         <translation>Да се показват аватари</translation>
     </message>
@@ -70,6 +65,16 @@
         <location line="+7"/>
         <source>Theme:</source>
         <translation>Тема:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Status icon size:</source>
+        <translation>Размер на иконите за статус:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Avatar icon size:</source>
+        <translation>Размер на аватарите:</translation>
     </message>
 </context>
 <context>

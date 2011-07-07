@@ -2120,11 +2120,6 @@
 <context>
     <name>XmlConsole</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/jreen/src/gui/xmlconsole.ui" line="+14"/>
-        <source>Form</source>
-        <translation>XML</translation>
-    </message>
-    <message>
         <location filename="../../qutim/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+14"/>
         <source>Xml stream console</source>
         <translation>Конзола на XML потока</translation>
@@ -2138,6 +2133,11 @@
         <location line="+10"/>
         <source>Save log</source>
         <translation>Запис на журнала</translation>
+    </message>
+    <message>
+        <location filename="../../qutim/protocols/jabber/jreen/src/gui/xmlconsole.ui" line="+14"/>
+        <source>Form</source>
+        <translation>XML конзола</translation>
     </message>
 </context>
 </TS>

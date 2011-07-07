@@ -123,7 +123,7 @@
         <translation>Недостъпен</translation>
     </message>
     <message>
-        <location line="+93"/>
+        <location line="+99"/>
         <source>Remove contact</source>
         <translation>Премахване на контакта</translation>
     </message>
@@ -323,7 +323,7 @@ p, li { white-space: pre-wrap; }
         <translation>Основна</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-157"/>
+        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-163"/>
         <source>Show information</source>
         <translation>Показване на информация</translation>
     </message>
@@ -835,7 +835,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ContactListSettings</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp" line="+83"/>
+        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp" line="+118"/>
         <source>Model</source>
         <translation>Модел</translation>
     </message>
@@ -850,7 +850,7 @@ p, li { white-space: pre-wrap; }
         <translation>Стил на контактите</translation>
     </message>
     <message>
-        <location line="+90"/>
+        <location line="+92"/>
         <source>To take effect you must restart qutIM</source>
         <translation>За да влязат в сила промените, qutIM трябва да бъде рестартиран</translation>
     </message>
@@ -1371,7 +1371,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleActions</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+85"/>
+        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+91"/>
         <source>Rename contact %1</source>
         <translation>Преименуване на контакта %1</translation>
     </message>
@@ -2100,7 +2100,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Notification</name>
     <message>
-        <location filename="../../qutim/core/libqutim/notification.cpp" line="+181"/>
+        <location filename="../../qutim/core/libqutim/notification.cpp" line="+182"/>
         <source>Incoming Message</source>
         <translation>Входящо съобщение</translation>
     </message>
@@ -2253,7 +2253,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Notifications</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+69"/>
+        <location filename="../../qutim/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+74"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
@@ -3098,7 +3098,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Sound</name>
     <message>
-        <location filename="../../qutim/core/libqutim/sound.cpp" line="+204"/>
+        <location filename="../../qutim/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="-30"/>
         <source>No sound</source>
         <translation>Без звук</translation>
     </message>
@@ -3106,7 +3106,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>SoundTheme</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
+        <location line="+31"/>
         <source>Preview</source>
         <translation>Предварителен преглед</translation>
     </message>
@@ -3774,7 +3774,7 @@ en</source>
 <context>
     <name>qutim_sdk_0_3::SoundHandler</name>
     <message>
-        <location filename="../../qutim/core/libqutim/sound.cpp" line="+24"/>
+        <location filename="../../qutim/core/libqutim/sound.cpp" line="+241"/>
         <source>Play sound</source>
         <translation>Възпроизвеждане на звук</translation>
     </message>

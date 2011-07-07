@@ -289,32 +289,32 @@
     <message>
         <location filename="../../qutim/plugins/plugman/3rdparty/quasar/lib/savefile.cpp" line="+86"/>
         <source>No target filename has been given.</source>
-        <translation type="unfinished">Не е зададено име на целевия файл.</translation>
+        <translation>Не е зададено име на целевия файл.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Already opened.</source>
-        <translation type="unfinished">Вече е отворен.</translation>
+        <translation>Вече е отворен.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Insufficient permissions in target directory.</source>
-        <translation type="unfinished">Недостатъчни права за целевата директория.</translation>
+        <translation>Недостатъчни права за целевата директория.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Unable to open temporary file.</source>
-        <translation type="unfinished">Невъзможно е отварянето на врменнния файл.</translation>
+        <translation>Невъзможно е отварянето на временния файл.</translation>
     </message>
     <message>
         <location line="+105"/>
         <source>Synchronization to disk failed</source>
-        <translation type="unfinished">Неуспешно синхронизиране с диска</translation>
+        <translation>Неуспешно синхронизиране с диска</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Error during rename.</source>
-        <translation type="unfinished">Грешка при преимнуването.</translation>
+        <translation>Грешка при преименуването.</translation>
     </message>
 </context>
 <context>
