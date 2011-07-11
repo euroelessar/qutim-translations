@@ -4061,7 +4061,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+6"/>
         <source>%1 has changed status to %2</source>
-        <translation type="unfinished">%1 изменил статус на %2</translation>
+        <translation>%1 изменил статус на %2</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -4071,7 +4071,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+5"/>
         <source>System notify</source>
-        <translation type="unfinished">Системное уведомление</translation>
+        <translation>Системное уведомление</translation>
     </message>
     <message>
         <location line="-26"/>
