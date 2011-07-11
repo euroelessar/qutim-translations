@@ -171,7 +171,7 @@
         <translation>Недоступный</translation>
     </message>
     <message>
-        <location line="+93"/>
+        <location line="+99"/>
         <source>Remove contact</source>
         <translation>Удалить контакт</translation>
     </message>
@@ -540,7 +540,7 @@ p, li { white-space: pre-wrap; }
         <translation>Главные</translation>
     </message>
     <message>
-        <location filename="../../core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-157"/>
+        <location filename="../../core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-163"/>
         <source>Show information</source>
         <translation>Показать информацию</translation>
     </message>
@@ -1335,7 +1335,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ContactListSettings</name>
     <message>
-        <location filename="../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp" line="+83"/>
+        <location filename="../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp" line="+118"/>
         <source>Model</source>
         <translation type="unfinished">Модель</translation>
     </message>
@@ -1350,7 +1350,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Стиль Контакты</translation>
     </message>
     <message>
-        <location line="+90"/>
+        <location line="+92"/>
         <source>To take effect you must restart qutIM</source>
         <translation type="unfinished">Требуется перезапуск qutIM</translation>
     </message>
@@ -2054,7 +2054,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleActions</name>
     <message>
-        <location filename="../../core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+51"/>
+        <location filename="../../core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+57"/>
         <source>Rename contact %1</source>
         <translation>Переименовать контакт %1</translation>
     </message>
@@ -3005,7 +3005,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Notification</name>
     <message>
-        <location filename="../../core/libqutim/notification.cpp" line="+181"/>
+        <location filename="../../core/libqutim/notification.cpp" line="+182"/>
         <source>Incoming Message</source>
         <translation>Входящее сообщение</translation>
     </message>
@@ -3027,122 +3027,122 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Contact joined conference</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Контакт присоеденился к конференции</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Contact left conference</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Контакт покинул конференцию</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Incoming conference message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Входящее сообщение из конференции</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Outgoing conference message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Исходящее сообщение в конференцию</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Contact online</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Контакт в сети</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Contact offline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Контакт отключен</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Contact changed status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Контакт изменил статус</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Contact birthday</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">День рождения</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Contact typing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Контакт печатает</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>A new message has been received</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Получено новоее сообщение</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A message has been sent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сообщение отправлено</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>qutIM has started</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">qutIM торт</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A message has been blocked</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сообщение заблокировано</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A user has joined a conference</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пользователь присоеденился к конференции</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A user has left a conference</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пользователь покинул конференцию</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A new conference message has been received</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Новое сообщение из конференции получено</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A conference message has been sent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Групповое сообщение отправлено</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A file transfer has been completed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Передача файла завершена</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A contact has gone online</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Контакт подключился</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A contact has gone offline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Контакт отключился</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A contact has changed status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Контакт изменил статус</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A contact has birthday!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">У контакта день рождения!</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A contact is typing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Контакт печатает</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A system notification</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Системное уведомление</translation>
     </message>
     <message>
         <source>User joined chat</source>
@@ -3292,7 +3292,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Система</translation>
     </message>
     <message>
-        <location filename="../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+69"/>
+        <location filename="../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+74"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
@@ -4688,7 +4688,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Sound</name>
     <message>
-        <location filename="../../core/libqutim/sound.cpp" line="+204"/>
+        <location filename="../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="-30"/>
         <source>No sound</source>
         <translation>Без звука</translation>
     </message>
@@ -4700,7 +4700,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Имя файла</translation>
     </message>
     <message>
-        <location filename="../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp" line="+1"/>
+        <location line="+31"/>
         <source>Preview</source>
         <translation>Тестовое уведомление</translation>
     </message>
@@ -5581,7 +5581,7 @@ en</source>
 <context>
     <name>qutim_sdk_0_3::SoundHandler</name>
     <message>
-        <location filename="../../core/libqutim/sound.cpp" line="+24"/>
+        <location filename="../../core/libqutim/sound.cpp" line="+241"/>
         <source>Play sound</source>
         <translation type="unfinished">Проиграть звук</translation>
     </message>

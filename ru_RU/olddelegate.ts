@@ -9,32 +9,32 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="17"/>
+        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="16"/>
         <source>Default (depends on platform)</source>
         <translation type="unfinished">По умолчанию (в зависимости от платформы)</translation>
     </message>
     <message>
-        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="18"/>
+        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="17"/>
         <source>Small (16x16)</source>
         <translation type="unfinished">Малый (16x16)</translation>
     </message>
     <message>
-        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="19"/>
+        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="18"/>
         <source>Medium (22x22)</source>
         <translation type="unfinished">Средний (22x22)</translation>
     </message>
     <message>
-        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="20"/>
+        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="19"/>
         <source>Large (32x32)</source>
         <translation type="unfinished">Увеличеный (32x32)</translation>
     </message>
     <message>
-        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="21"/>
+        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="20"/>
         <source>Very large (48x48)</source>
         <translation type="unfinished">Большой (48x48)</translation>
     </message>
     <message>
-        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="22"/>
+        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="21"/>
         <source>Huge (64x64)</source>
         <translation type="unfinished">Огромный (64x64)</translation>
     </message>
@@ -47,29 +47,38 @@
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.ui" line="23"/>
         <source>Status icons size:</source>
-        <translation type="unfinished">Размер пиктограмм статуса:</translation>
+        <translation type="obsolete">Размер пиктограмм статуса:</translation>
     </message>
     <message>
-        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.ui" line="33"/>
+        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.ui" line="26"/>
         <source>Show avatars</source>
         <translation type="unfinished">Показывать аватары</translation>
     </message>
     <message>
-        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.ui" line="40"/>
+        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.ui" line="33"/>
         <source>Show status text</source>
         <translation type="unfinished">Показывать текст статуса</translation>
     </message>
     <message>
-        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.ui" line="47"/>
+        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.ui" line="40"/>
         <source>Show extended icons</source>
         <translation type="unfinished">Показывать пиктограммы расширеных статусов</translation>
     </message>
     <message>
-        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.ui" line="54"/>
+        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.ui" line="47"/>
         <source>Theme:</source>
         <translation type="unfinished">Тема оформления:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.ui" line="57"/>
+        <source>Status icon size:</source>
+        <translation type="unfinished">Размер пиктограмм статуса:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.ui" line="64"/>
+        <source>Avatar icon size:</source>
+        <translation type="unfinished">Размер пиктограммы аватара:</translation>
     </message>
 </context>
 <context>
