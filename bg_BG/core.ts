@@ -333,7 +333,7 @@ p, li { white-space: pre-wrap; }
         <translation>Редактиране на информацията</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/authdialog/authdialogimpl_p.h" line="+40"/>
+        <location filename="../../qutim/core/src/corelayers/authdialog/authdialogimpl_p.h" line="+43"/>
         <source>Recieved authorizarion request from %1:</source>
         <translation>Получена заявка за удостоверяване от %1:</translation>
     </message>
@@ -811,7 +811,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AuthDialogPrivate</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/authdialog/authdialogimpl_p.h" line="-23"/>
+        <location filename="../../qutim/core/src/corelayers/authdialog/authdialogimpl_p.h" line="-26"/>
         <source>Actions</source>
         <translation>Действия</translation>
     </message>
@@ -1101,7 +1101,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+4"/>
         <source>Ignore conference messages that do not contain my name</source>
-        <translation>Да се пренебрегват съобщенията, в конференциите, в които не се съдържатмоето име</translation>
+        <translation>Да се пренебрегват съобщенията, в конференциите, в които не се съдържа моето име</translation>
     </message>
 </context>
 <context>
