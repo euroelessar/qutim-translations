@@ -369,12 +369,17 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/inforequest.cpp" line="+38"/>
+        <location filename="../../qutim/protocols/oscar/src/inforequest.cpp" line="+144"/>
         <source>General</source>
         <translation>Обща</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+3"/>
+        <source>Avatar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
         <source>Name</source>
         <translation>Име</translation>
     </message>
@@ -544,7 +549,7 @@
         <translation>Премахване от списък &quot;Пренебрегнати&quot;</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/icqcontact.cpp" line="+128"/>
+        <location filename="../../qutim/protocols/oscar/src/icqcontact.cpp" line="+127"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>

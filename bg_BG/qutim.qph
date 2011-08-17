@@ -3192,4 +3192,8 @@
     <source>messages</source>
     <target>съобщения</target>
 </phrase>
+<phrase>
+    <source>Number</source>
+    <target>Номер</target>
+</phrase>
 </QPH>

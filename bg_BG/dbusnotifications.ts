@@ -12,7 +12,7 @@
 <context>
     <name>DBusBackend</name>
     <message>
-        <location filename="../../qutim/plugins/dbusnotifications/src/dbusbackend.cpp" line="+65"/>
+        <location filename="../../qutim/plugins/dbusnotifications/src/dbusbackend.cpp" line="+60"/>
         <source>Show popup</source>
         <translation>Да се показва изскачащ прозорец</translation>
     </message>

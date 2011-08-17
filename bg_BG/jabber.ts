@@ -412,7 +412,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/jplugin.cpp" line="+32"/>
+        <location filename="../../qutim/protocols/jabber/src/jplugin.cpp" line="+33"/>
         <source>Denis Daschenko</source>
         <translation>Денис Дасченко</translation>
     </message>
@@ -440,7 +440,7 @@
         <translation>Забрана (Ban)</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+120"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+118"/>
         <source>Real JID</source>
         <translation>Реален JID</translation>
     </message>
@@ -468,7 +468,7 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="+53"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp" line="+55"/>
         <source>Nickname</source>
         <translation>Псевдоним</translation>
     </message>
@@ -585,12 +585,67 @@
     </message>
     <message>
         <location line="+1"/>
-        <location line="+125"/>
+        <location line="+154"/>
         <source>About</source>
         <translation>За мен</translation>
     </message>
     <message>
-        <location line="-136"/>
+        <location line="-82"/>
+        <source>Avatar</source>
+        <translation>Аватар</translation>
+    </message>
+    <message>
+        <location line="+40"/>
+        <source>Phones</source>
+        <translation>Телефони</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>E-mails</source>
+        <translation>Email</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Addresses</source>
+        <translation>Адреси</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <location line="+156"/>
+        <location line="+21"/>
+        <location line="+19"/>
+        <source>Work</source>
+        <translation>Работа</translation>
+    </message>
+    <message>
+        <location line="-52"/>
+        <source>Type</source>
+        <translation>Тип</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <location line="+21"/>
+        <location line="+19"/>
+        <source>Home</source>
+        <translation>Домашен</translation>
+    </message>
+    <message>
+        <location line="-38"/>
+        <source>Cell</source>
+        <translation>Мобилен</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Number</source>
+        <translation>Номер</translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>E-mail</source>
+        <translation>Email</translation>
+    </message>
+    <message>
+        <location line="-342"/>
         <source>Country</source>
         <translation>Държава</translation>
     </message>
@@ -605,7 +660,7 @@
         <translation>Мобилен телефон</translation>
     </message>
     <message>
-        <location line="+51"/>
+        <location line="+83"/>
         <source>General</source>
         <translation>Основна</translation>
     </message>
@@ -613,7 +668,7 @@
 <context>
     <name>ContactResource</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jcontactresource.cpp" line="+112"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jcontactresource.cpp" line="+111"/>
         <source>Resource</source>
         <translation>Ресурс</translation>
     </message>
@@ -793,7 +848,7 @@
         <translation>XML конзола</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+31"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp" line="+34"/>
         <source>Service discovery</source>
         <translation>Откриване на услуги</translation>
     </message>
@@ -860,7 +915,7 @@
         <translation>Автоматично присъединяване</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+714"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+713"/>
         <source>You are already in conference with another nick</source>
         <translation>Вече сте в конференцията с друг псевдоним</translation>
     </message>
@@ -870,7 +925,7 @@
         <translation>Моля, изберете друг псевдоним</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+179"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+178"/>
         <source>None</source>
         <translation>Без</translation>
     </message>
@@ -904,7 +959,7 @@
 <context>
     <name>Jabber::JAccount</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/jaccount.cpp" line="+214"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/jaccount.cpp" line="+219"/>
         <source>qutIM</source>
         <comment>Local qutIM&apos;s name</comment>
         <translation>qutIM</translation>
@@ -919,7 +974,7 @@
 <context>
     <name>Jabber::JActivityChooser</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="+229"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="+228"/>
         <source>Set activity</source>
         <translation>Задаване на дейност</translation>
     </message>
@@ -932,7 +987,7 @@
         <translation>Избор на дейност</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="-78"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="-77"/>
         <source>Choose your activity</source>
         <translation>Изберете дейност</translation>
     </message>
@@ -1090,7 +1145,7 @@
 <context>
     <name>Jabber::JMoodChooser</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="+78"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="+77"/>
         <source>Set mood</source>
         <translation>Задаване на настроение</translation>
     </message>
@@ -1103,7 +1158,7 @@
         <translation>Избор на настроение</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="-58"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="-57"/>
         <source>Choose your mood</source>
         <translation>Изберете настроение</translation>
     </message>
@@ -1149,7 +1204,7 @@
 <context>
     <name>Jabber::JRoster</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+336"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+316"/>
         <source>You have been added to the list of subscribers</source>
         <translation>Бяхте добавени в списъка с абонати</translation>
     </message>
@@ -1159,7 +1214,7 @@
         <translation>Бяхте премахнати от списъка с абонати</translation>
     </message>
     <message>
-        <location line="-207"/>
+        <location line="-188"/>
         <source>Contact %1 has been added to roster</source>
         <translation>Контактът %1 бе добавен към списъка</translation>
     </message>
@@ -1169,7 +1224,7 @@
         <translation>Контактът %1 бе премахнат списъка</translation>
     </message>
     <message>
-        <location line="+170"/>
+        <location line="+151"/>
         <source>Received a request for removal from the subscribers</source>
         <translation>Получи се заявка за премахване от списъка с абонати</translation>
     </message>
@@ -1177,7 +1232,7 @@
 <context>
     <name>Jabber::JServiceBrowser</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+31"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp" line="+35"/>
         <source>Search service</source>
         <translation>Търсене на услуги</translation>
     </message>
@@ -1187,7 +1242,7 @@
         <translation>Затваряне</translation>
     </message>
     <message>
-        <location line="+51"/>
+        <location line="+62"/>
         <source>category: </source>
         <translation>категория: </translation>
     </message>
@@ -1197,12 +1252,12 @@
         <translation>Самоличности:</translation>
     </message>
     <message>
-        <location line="+160"/>
+        <location line="+148"/>
         <source>Features:</source>
         <translation>Характеристики:</translation>
     </message>
     <message>
-        <location line="-163"/>
+        <location line="-151"/>
         <source>type: </source>
         <translation>тип: </translation>
     </message>
@@ -1210,7 +1265,186 @@
 <context>
     <name>Jabber::JServiceDiscovery</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+118"/>
+        <source>The sender has sent XML that is malformed or that cannot be processed.</source>
+        <translation type="obsolete">Изпращачът прати деформиран XML, който не може да бъде обработен.</translation>
+    </message>
+    <message>
+        <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
+        <translation type="obsolete">Не може да бъде даден достъп, защото вече съществува ресурс или сесия със същото име или адрес.</translation>
+    </message>
+    <message>
+        <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
+        <translation type="obsolete">Заявената характеристика не се поддържа от ответния сървър затова не може да бъде използвана.</translation>
+    </message>
+    <message>
+        <source>The requesting entity does not possess the required permissions to perform the action.</source>
+        <translation type="obsolete">Заявяващият обект не притежава изискваните права за изпълнение на действието.</translation>
+    </message>
+    <message>
+        <source>The recipient or server can no longer be contacted at this address.</source>
+        <translation type="obsolete">Ответният сървър повече не е достъпен на този адрес. </translation>
+    </message>
+    <message>
+        <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
+        <translation type="obsolete">Сървърът не може да обработи строфата, поради неправилна конфигурация или друга неопределена вътрешна сървърна грешка.</translation>
+    </message>
+    <message>
+        <source>The addressed JID or item requested cannot be found.</source>
+        <translation type="obsolete">Адресираният JID или заявеният елемент не може да бъде открит.</translation>
+    </message>
+    <message>
+        <source>The sending entity has provided or communicated an XMPP address or aspect thereof that does not adhere to the syntax defined in Addressing Scheme.</source>
+        <translation type="obsolete">Изпращащият обект предостави или съобщи XMPP адрес или аспект от него, които не се придържат към синтаксиса определен в Адресиращата схема. </translation>
+    </message>
+    <message>
+        <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server.</source>
+        <translation type="obsolete">Получателят или ответният сървър разбира заявката, но отказва да я изпълни, тъй като тя не отговаря на изискванията на получателят или ответният сървър.</translation>
+    </message>
+    <message>
+        <source>The recipient or server does not allow any entity to perform the action.</source>
+        <translation type="obsolete">Получателят или ответният сървър не позволява никой обект да извърши това действие.</translation>
+    </message>
+    <message>
+        <source>The sender must provide proper credentials before being allowed to perform the action, or has provided impreoper credentials.</source>
+        <translation type="obsolete">Изпращачът трябва да предостави подходящи пълномощия, преди да бъде разрешено извършването на действието, или предоставените пълномощия са неподходящи.</translation>
+    </message>
+    <message>
+        <source>The item requested has not changed since it was last requested.</source>
+        <translation type="obsolete">Заявеният елемент не се е променил след като последно е бил заявен.</translation>
+    </message>
+    <message>
+        <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
+        <translation type="obsolete">Заявяващият обект няма разрешение за достъп до заявената услуга, защото тя изисква плащане.</translation>
+    </message>
+    <message>
+        <source>The intended recipient is temporarily unavailable.</source>
+        <translation type="obsolete">Избраният получател е временно недостъпен.</translation>
+    </message>
+    <message>
+        <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
+        <translation type="obsolete">Получателят или ответният сървър пренасочва заявките за тази информация към друг обект, обикновено временно.</translation>
+    </message>
+    <message>
+        <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
+        <translation type="obsolete">Заявяващият обект няма разрешение за достъп до заявената услуга, защото тя изисква регистрация.</translation>
+    </message>
+    <message>
+        <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
+        <translation type="obsolete">Отдалеченият сървър или услуга зададени като част от (или) целия JID на избрания получател не съществуват.</translation>
+    </message>
+    <message>
+        <source>A remote server or service specified as part or all of the JID of the intended recipient could not be contacted within a reasonable amount of time.</source>
+        <translation type="obsolete">Отдалеченият сървър или услуга зададени като част от (или) целия JID на избрания получател не могат да бъдат достъпени в рамките на разумен период от време.</translation>
+    </message>
+    <message>
+        <source>The server or recipient lacks the system resources necessary to service the request.</source>
+        <translation type="obsolete">Получателят или ответният сървър не притежава необходимите системни ресурси, за да обслужи заявката.</translation>
+    </message>
+    <message>
+        <source>The server or recipient does not currently provide the requested service.</source>
+        <translation type="obsolete">Получателят или ответният сървър в момента не предоставя заявената услуга.</translation>
+    </message>
+    <message>
+        <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
+        <translation type="obsolete">Заявяващият обект няма разрешение за достъп до заявената услуга, защото тя изисква абонамент.</translation>
+    </message>
+    <message>
+        <source>The unknown error condition.</source>
+        <translation type="obsolete">Неизвестна (условие на) грешка.</translation>
+    </message>
+    <message>
+        <source>The recipient or server understood the request but was not expecting it at this time.</source>
+        <translation type="obsolete">Получателят или ответният сървър разбра заявката, но не я очакваше в този момент.</translation>
+    </message>
+    <message>
+        <source>The stanza &apos;from&apos; address specified by a connected client is not valid for the stream.</source>
+        <translation type="obsolete">Строфата &apos;от&apos; адрес, зададена от свързания клиент е невалидна за потока.</translation>
+    </message>
+    <message>
+        <source>No stanza error occured. You&apos;re just sleeping.</source>
+        <translation type="obsolete">Няма никаква грешка в строфата. Просто сънувате.</translation>
+    </message>
+</context>
+<context>
+    <name>Jabber::JSoftwareDetection</name>
+    <message>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp" line="+291"/>
+        <source>Possible client</source>
+        <translation>Вероятен клиент</translation>
+    </message>
+</context>
+<context>
+    <name>Jabber::XmlConsole</name>
+    <message>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="-62"/>
+        <source>Filter</source>
+        <translation>Филтър</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Disabled</source>
+        <translation>Деактивиран</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>By JID</source>
+        <translation>По JID</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>By namespace uri</source>
+        <translation>По namespace uri</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>By all attributes</source>
+        <translation>По всички атрибути</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Visible stanzas</source>
+        <translation>Видими строфи</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Information query</source>
+        <translation>Информационни заявки</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Message</source>
+        <translation>Съобщения</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Presence</source>
+        <translation>Присъствия</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Custom</source>
+        <translation>Собствени</translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Close</source>
+        <translation>Затваряне</translation>
+    </message>
+    <message>
+        <location line="+261"/>
+        <source>Save XMPP log to file</source>
+        <translation>Запис на XMPP журнала във файл</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>OpenDocument Format (*.odf);;HTML file (*.html);;Plain text (*.txt)</source>
+        <translation>OpenDocument формат (*.odf);;HTML файл (*.html);;Обикновен текст (*.txt)</translation>
+    </message>
+</context>
+<context>
+    <name>Jreen::Error</name>
+    <message>
+        <location filename="../../qutim/protocols/jabber/jreen/src/error.cpp" line="+62"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
         <translation>Изпращачът прати деформиран XML, който не може да бъде обработен.</translation>
     </message>
@@ -1333,82 +1567,6 @@
         <location line="+3"/>
         <source>No stanza error occured. You&apos;re just sleeping.</source>
         <translation>Няма никаква грешка в строфата. Просто сънувате.</translation>
-    </message>
-</context>
-<context>
-    <name>Jabber::JSoftwareDetection</name>
-    <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp" line="+291"/>
-        <source>Possible client</source>
-        <translation>Вероятен клиент</translation>
-    </message>
-</context>
-<context>
-    <name>Jabber::XmlConsole</name>
-    <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="-62"/>
-        <source>Filter</source>
-        <translation>Филтър</translation>
-    </message>
-    <message>
-        <location line="+2"/>
-        <source>Disabled</source>
-        <translation>Деактивиран</translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>By JID</source>
-        <translation>По JID</translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>By namespace uri</source>
-        <translation>По namespace uri</translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>By all attributes</source>
-        <translation>По всички атрибути</translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Visible stanzas</source>
-        <translation>Видими строфи</translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>Information query</source>
-        <translation>Информационни заявки</translation>
-    </message>
-    <message>
-        <location line="+4"/>
-        <source>Message</source>
-        <translation>Съобщения</translation>
-    </message>
-    <message>
-        <location line="+4"/>
-        <source>Presence</source>
-        <translation>Присъствия</translation>
-    </message>
-    <message>
-        <location line="+4"/>
-        <source>Custom</source>
-        <translation>Собствени</translation>
-    </message>
-    <message>
-        <location line="+16"/>
-        <source>Close</source>
-        <translation>Затваряне</translation>
-    </message>
-    <message>
-        <location line="+261"/>
-        <source>Save XMPP log to file</source>
-        <translation>Запис на XMPP журнала във файл</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>OpenDocument Format (*.odf);;HTML file (*.html);;Plain text (*.txt)</source>
-        <translation>OpenDocument формат (*.odf);;HTML файл (*.html);;Обикновен текст (*.txt)</translation>
     </message>
 </context>
 <context>
@@ -1939,6 +2097,16 @@
         <translation>Реализация на протокола за лични събития</translation>
     </message>
     <message>
+        <location line="+3"/>
+        <source>Jabber VCard support</source>
+        <translation>Поддръжка на Jabber vCard</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Implementation of VCard info requests</source>
+        <translation>Реализация на vCard заявки за информация</translation>
+    </message>
+    <message>
         <location line="+7"/>
         <source>Jabber User Mood support</source>
         <translation>Поддръжка на потребителски настроения в Jabber</translation>
@@ -1995,7 +2163,7 @@
 <context>
     <name>ServiceBrowser</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.ui" line="+14"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui" line="+14"/>
         <source>jServiceBrowser</source>
         <translation>Разглеждане на услуги</translation>
     </message>
@@ -2088,7 +2256,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/jplugin.cpp" line="-72"/>
+        <location filename="../../qutim/protocols/jabber/src/jplugin.cpp" line="-76"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>

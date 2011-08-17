@@ -19,7 +19,7 @@
         <translation>Сметки</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/libqutim/account.cpp" line="+102"/>
+        <location filename="../../qutim/core/libqutim/account.cpp" line="+135"/>
         <source>Authorization failed</source>
         <translation>Неуспешно удостоверяване</translation>
     </message>
@@ -108,7 +108,7 @@
         <translation>Име:</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+67"/>
+        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+47"/>
         <source>Remove from roster</source>
         <translation>Премахване от списъка</translation>
     </message>
@@ -123,7 +123,7 @@
         <translation>Недостъпен</translation>
     </message>
     <message>
-        <location line="+99"/>
+        <location line="+120"/>
         <source>Remove contact</source>
         <translation>Премахване на контакта</translation>
     </message>
@@ -251,7 +251,7 @@ p, li { white-space: pre-wrap; }
         <translation>Изчистване полето на разговора</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatform.cpp" line="+24"/>
+        <location filename="../../qutim/core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatform.cpp" line="+50"/>
         <location filename="../../qutim/core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatform.cpp" line="+24"/>
         <source>Open session list</source>
         <translation>Отваряне на списъка на сесиите</translation>
@@ -279,7 +279,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/contactinfo/contactinfo.cpp" line="+212"/>
+        <location filename="../../qutim/core/src/corelayers/contactinfo/contactinfo.cpp" line="+221"/>
         <source>yes</source>
         <translation>Да</translation>
     </message>
@@ -289,31 +289,29 @@ p, li { white-space: pre-wrap; }
         <translation>Не</translation>
     </message>
     <message>
-        <location line="-162"/>
-        <location filename="../../qutim/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+78"/>
+        <location line="-159"/>
+        <location filename="../../qutim/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+93"/>
         <source>About contact %1 &lt;%2&gt;</source>
         <translation>Информация за %1 &lt;%2&gt;</translation>
     </message>
     <message>
-        <location line="+8"/>
-        <location filename="../../qutim/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+8"/>
+        <location line="+5"/>
+        <location filename="../../qutim/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+5"/>
         <source>About account %1</source>
         <translation>Информация за сметка %1</translation>
     </message>
     <message>
-        <location line="+4"/>
-        <location filename="../../qutim/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+4"/>
+        <location line="+3"/>
+        <location filename="../../qutim/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+3"/>
         <source>About %1 &lt;%2&gt;</source>
         <translation>За контакта %1 &lt;%2&gt;</translation>
     </message>
     <message>
-        <location line="+9"/>
-        <location filename="../../qutim/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="+10"/>
         <source>Avatar</source>
-        <translation>Аватар</translation>
+        <translation type="obsolete">Аватар</translation>
     </message>
     <message>
-        <location line="+79"/>
+        <location line="+87"/>
         <source>Summary</source>
         <translation>Обобщенa</translation>
     </message>
@@ -323,12 +321,12 @@ p, li { white-space: pre-wrap; }
         <translation>Основна</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-163"/>
+        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-39"/>
         <source>Show information</source>
         <translation>Показване на информация</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+1"/>
         <source>Edit information</source>
         <translation>Редактиране на информацията</translation>
     </message>
@@ -343,8 +341,7 @@ p, li { white-space: pre-wrap; }
         <translation>Заявка за удостоверяване от %1:</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+3"/>
-        <location line="+47"/>
+        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-94"/>
         <source>Information unavailable</source>
         <translation>Не е достъпна информация</translation>
     </message>
@@ -651,7 +648,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::ChatEmoticonsWidget</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/actions/chatemoticonswidget.cpp" line="+45"/>
+        <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/actions/chatemoticonswidget.cpp" line="+47"/>
         <source>Close</source>
         <translation>Затваряне</translation>
     </message>
@@ -699,7 +696,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::StackedChatBehavior</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.cpp" line="+18"/>
+        <location filename="../../qutim/core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.cpp" line="+43"/>
         <source>Ctrl+Enter</source>
         <translation>Ctrl+Enter</translation>
     </message>
@@ -717,7 +714,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::AdiumChat::StackedChatWidget</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatwidget.cpp" line="+54"/>
+        <location filename="../../qutim/core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatwidget.cpp" line="+80"/>
         <source>Chat Actions</source>
         <translation>Действия в разговора</translation>
     </message>
@@ -827,7 +824,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ChatSpellChecker</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+139"/>
+        <location filename="../../qutim/core/src/corelayers/chatspellchecker/chatspellchecker.cpp" line="+147"/>
         <source>Add to dictionary</source>
         <translation>Добавяне към речника</translation>
     </message>
@@ -1019,7 +1016,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::MobileContactInfoWindow</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-63"/>
+        <location filename="../../qutim/core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp" line="-39"/>
         <source>Request details</source>
         <translation>Заявка за подробности</translation>
     </message>
@@ -1381,7 +1378,7 @@ p, li { white-space: pre-wrap; }
         <translation>Въведете ново име за контакта %1</translation>
     </message>
     <message>
-        <location line="+35"/>
+        <location line="+56"/>
         <source>Are you sure you want to delete a contact %1 from the roster?</source>
         <translation>Сигурни ли сте, че желаете да изтриете контакта %1 от списъка?</translation>
     </message>
@@ -1394,7 +1391,7 @@ p, li { white-space: pre-wrap; }
         <translation>Мигаща икона в списъка с контакти</translation>
     </message>
     <message>
-        <location line="+75"/>
+        <location line="+76"/>
         <source>All tags</source>
         <translation>Всички етикети</translation>
     </message>
@@ -1404,7 +1401,7 @@ p, li { white-space: pre-wrap; }
         <translation>Собствени етикети</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="+362"/>
+        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="+363"/>
         <source>Without tags</source>
         <translation>Без етикети</translation>
     </message>
@@ -1461,7 +1458,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::SimpleWidget</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+33"/>
+        <location filename="../../qutim/core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+32"/>
         <source>Main Toolbar</source>
         <translation>Главна лента с инструменти</translation>
     </message>
@@ -1477,7 +1474,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+45"/>
-        <location line="+198"/>
+        <location line="+196"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
@@ -1623,7 +1620,7 @@ p, li { white-space: pre-wrap; }
         <translation>полето не е попълнено</translation>
     </message>
     <message>
-        <location line="+531"/>
+        <location line="+533"/>
         <source>Open image</source>
         <translation>Отваряне на изображение</translation>
     </message>
@@ -1783,6 +1780,14 @@ p, li { white-space: pre-wrap; }
         <comment>seconds</comment>
         <translatorcomment>seconds????</translatorcomment>
         <translation> мин</translation>
+    </message>
+</context>
+<context>
+    <name>InformationRequest</name>
+    <message>
+        <location filename="../../qutim/core/libqutim/inforequest.cpp" line="+142"/>
+        <source>Unknown error</source>
+        <translation>Неизвестна грешка</translation>
     </message>
 </context>
 <context>
@@ -2388,7 +2393,7 @@ p, li { white-space: pre-wrap; }
         <translation>Подразбиращ се набор от действия с контактите</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/trayicon/simpletray.cpp" line="+55"/>
+        <location filename="../../qutim/core/src/corelayers/trayicon/simpletray.cpp" line="+56"/>
         <source>Notification Area Icon</source>
         <translation>Икона в областта за уведомления</translation>
     </message>
@@ -2592,7 +2597,7 @@ p, li { white-space: pre-wrap; }
         <translation>Четвърто тримесечие</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-49"/>
+        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="-70"/>
         <source>Copy %1 to clipboard</source>
         <translation>Копиране на %1 в клипборда</translation>
     </message>
@@ -2647,7 +2652,7 @@ p, li { white-space: pre-wrap; }
         <translation>Стил на бутоните</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/notificationfilter/notificationfilter.cpp" line="+119"/>
+        <location filename="../../qutim/core/src/corelayers/notificationfilter/notificationfilter.cpp" line="+120"/>
         <source>Open chat</source>
         <translation>Отваряне на разговора</translation>
     </message>
@@ -3343,12 +3348,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>kb_Qwerty</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="+21"/>
-        <source>FastSMS</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location line="+54"/>
+        <location filename="../../qutim/core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui" line="+51"/>
         <source>q</source>
         <translation></translation>
     </message>
@@ -3359,41 +3359,41 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+3"/>
-        <location line="+46"/>
-        <location line="+46"/>
-        <location line="+43"/>
-        <location line="+43"/>
-        <location line="+43"/>
-        <location line="+43"/>
-        <location line="+43"/>
-        <location line="+43"/>
-        <location line="+43"/>
-        <location line="+50"/>
-        <location line="+43"/>
-        <location line="+43"/>
-        <location line="+43"/>
-        <location line="+43"/>
-        <location line="+44"/>
-        <location line="+43"/>
-        <location line="+43"/>
-        <location line="+43"/>
+        <location line="+31"/>
+        <location line="+34"/>
+        <location line="+31"/>
+        <location line="+31"/>
+        <location line="+31"/>
+        <location line="+31"/>
+        <location line="+31"/>
+        <location line="+31"/>
+        <location line="+31"/>
+        <location line="+38"/>
+        <location line="+31"/>
+        <location line="+31"/>
+        <location line="+31"/>
+        <location line="+31"/>
+        <location line="+31"/>
+        <location line="+31"/>
+        <location line="+31"/>
+        <location line="+31"/>
         <location line="+28"/>
-        <location line="+91"/>
-        <location line="+43"/>
-        <location line="+43"/>
-        <location line="+43"/>
-        <location line="+43"/>
-        <location line="+43"/>
-        <location line="+43"/>
+        <location line="+67"/>
+        <location line="+31"/>
+        <location line="+31"/>
+        <location line="+31"/>
+        <location line="+31"/>
+        <location line="+31"/>
+        <location line="+31"/>
         <location line="+25"/>
-        <location line="+169"/>
-        <location line="+80"/>
+        <location line="+136"/>
+        <location line="+62"/>
         <location line="+31"/>
         <source>bgDirectInput</source>
         <translation></translation>
     </message>
     <message>
-        <location line="-1439"/>
+        <location line="-1087"/>
         <source>w</source>
         <translation></translation>
     </message>
@@ -3403,7 +3403,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>e</source>
         <translation></translation>
     </message>
@@ -3413,7 +3413,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>r</source>
         <translation></translation>
     </message>
@@ -3423,7 +3423,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>t</source>
         <translation></translation>
     </message>
@@ -3433,7 +3433,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>y</source>
         <translation></translation>
     </message>
@@ -3443,7 +3443,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>u</source>
         <translation></translation>
     </message>
@@ -3453,7 +3453,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>i</source>
         <translation></translation>
     </message>
@@ -3463,7 +3463,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>o</source>
         <translation></translation>
     </message>
@@ -3473,7 +3473,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>p</source>
         <translation></translation>
     </message>
@@ -3483,7 +3483,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+38"/>
+        <location line="+26"/>
         <source>a</source>
         <translation></translation>
     </message>
@@ -3493,7 +3493,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>s</source>
         <translation></translation>
     </message>
@@ -3503,7 +3503,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>d</source>
         <translation></translation>
     </message>
@@ -3513,7 +3513,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>f</source>
         <translation></translation>
     </message>
@@ -3523,7 +3523,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>g</source>
         <translation></translation>
     </message>
@@ -3533,7 +3533,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>h</source>
         <translation></translation>
     </message>
@@ -3543,7 +3543,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+32"/>
+        <location line="+19"/>
         <source>j</source>
         <translation></translation>
     </message>
@@ -3553,7 +3553,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>k</source>
         <translation></translation>
     </message>
@@ -3563,7 +3563,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>l</source>
         <translation></translation>
     </message>
@@ -3583,7 +3583,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+79"/>
+        <location line="+55"/>
         <source>z</source>
         <translation></translation>
     </message>
@@ -3593,7 +3593,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>x</source>
         <translation></translation>
     </message>
@@ -3603,7 +3603,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>c</source>
         <translation></translation>
     </message>
@@ -3613,7 +3613,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>v</source>
         <translation></translation>
     </message>
@@ -3623,7 +3623,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>b</source>
         <translation></translation>
     </message>
@@ -3633,7 +3633,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>n</source>
         <translation></translation>
     </message>
@@ -3643,7 +3643,7 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+19"/>
         <source>m</source>
         <translation></translation>
     </message>
@@ -3663,18 +3663,18 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location line="+85"/>
+        <location line="+64"/>
         <source>1#</source>
         <translation>1#</translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+25"/>
         <source>ru
 en</source>
         <translation></translation>
     </message>
     <message>
-        <location line="+41"/>
+        <location line="+35"/>
         <source>,</source>
         <translation></translation>
     </message>
@@ -3684,7 +3684,7 @@ en</source>
         <translation></translation>
     </message>
     <message>
-        <location line="+68"/>
+        <location line="+50"/>
         <source>.</source>
         <translation></translation>
     </message>

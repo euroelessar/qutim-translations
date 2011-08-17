@@ -18,7 +18,7 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../qutim/protocols/vkontakte/src/vinforequest.cpp" line="+52"/>
+        <location filename="../../qutim/protocols/vkontakte/src/vinforequest.cpp" line="+62"/>
         <source>Nickname</source>
         <translation>Псевдоним</translation>
     </message>
@@ -104,7 +104,7 @@
         <translation>Мъж</translation>
     </message>
     <message>
-        <location line="+39"/>
+        <location line="+111"/>
         <source>General</source>
         <translation>Обща</translation>
     </message>
