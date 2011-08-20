@@ -5667,4 +5667,12 @@ Accept invitation?</source>
     <source>Notification system based on Maemo 5 Vibrator</source>
     <target>Уведомление вибрацие основанное на Maemo 5 Vibrator</target>
 </phrase>
+<phrase>
+    <source>Notification system based on Maemo 5 Vibrator</source>
+    <target>Уведомление с помощию вибрации, основанное на Maemo 5 Vibrator</target>
+</phrase>
+<phrase>
+    <source>Maemo Led Notifications</source>
+    <target>Уведомление с помощью светодиода</target>
+</phrase>
 </QPH>

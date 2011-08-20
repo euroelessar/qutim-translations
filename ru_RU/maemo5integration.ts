@@ -30,12 +30,12 @@
     <message>
         <location filename="../../plugins/maemo5integration/maemo5settings/maemo5settings.ui" line="29"/>
         <source>Show led notifications when display On</source>
-        <translation type="unfinished">Мигать светодиодом, когда  дисплей включен</translation>
+        <translation type="unfinished">Уведомлять светодиодом при включенном дисплее</translation>
     </message>
     <message>
         <location filename="../../plugins/maemo5integration/maemo5settings/maemo5settings.ui" line="36"/>
         <source>Vibration notifications when display On</source>
-        <translation type="unfinished">Вибрировать, когда дисплей включен</translation>
+        <translation type="unfinished">Уведомлять вибрацией при ключенном дисплее</translation>
     </message>
     <message>
         <location filename="../../plugins/maemo5integration/maemo5settings/maemo5settings.ui" line="55"/>
@@ -89,7 +89,7 @@
     <message>
         <location filename="../../plugins/maemo5integration/maemo5led/maemo5ledplugin.cpp" line="38"/>
         <source>Maemo Led Notifications</source>
-        <translation type="unfinished">Уведомление светодиодом в Maemo</translation>
+        <translation type="unfinished">Уведомление с помощью светодиода</translation>
     </message>
     <message>
         <location filename="../../plugins/maemo5integration/maemo5led/maemo5ledplugin.cpp" line="39"/>
@@ -127,7 +127,7 @@
         <location filename="../../plugins/maemo5integration/maemo5vibra/maemo5vibraplugin.cpp" line="39"/>
         <source>Notification system based on Maemo 5 Vibrator</source>
         <translatorcomment>это доставит вам удовольствие</translatorcomment>
-        <translation type="unfinished">Уведомление вибрацие основанное на Maemo 5 Vibrator</translation>
+        <translation type="unfinished">Уведомление с помощию вибрации, основанное на Maemo 5 Vibrator</translation>
     </message>
 </context>
 <context>
@@ -154,7 +154,7 @@
     <message>
         <location filename="../../plugins/maemo5integration/maemo5led/maemo5ledplugin.cpp" line="44"/>
         <source>Maemo Led Notifications</source>
-        <translation type="unfinished">Уведомление светодиодом в Maemo</translation>
+        <translation type="unfinished">Уведомление с помощью светодиода</translation>
     </message>
     <message>
         <location filename="../../plugins/maemo5integration/maemo5led/maemo5ledplugin.cpp" line="45"/>
@@ -179,7 +179,7 @@
     <message>
         <location filename="../../plugins/maemo5integration/maemo5vibra/maemo5vibraplugin.cpp" line="45"/>
         <source>Notification system, based on Maemo 5 Vibrator</source>
-        <translation type="unfinished">Уведомление вибрацие основанное на Maemo 5 Vibrator</translation>
+        <translation type="unfinished">Уведомление с помощию вибрации, основанное на Maemo 5 Vibrator</translation>
     </message>
 </context>
 </TS>
