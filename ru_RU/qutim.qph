@@ -5599,4 +5599,24 @@ Accept invitation?</source>
     <source>ContactDelegate</source>
     <target>Отрисовщик контактов</target>
 </phrase>
+<phrase>
+    <source>Avatar</source>
+    <target>Аватар</target>
+</phrase>
+<phrase>
+    <source>Phones</source>
+    <target>Телефоны</target>
+</phrase>
+<phrase>
+    <source>E-mails</source>
+    <target>Электропочта</target>
+</phrase>
+<phrase>
+    <source>Addresses</source>
+    <target>Адреса</target>
+</phrase>
+<phrase>
+    <source>E-mail</source>
+    <target>Электропочта</target>
+</phrase>
 </QPH>

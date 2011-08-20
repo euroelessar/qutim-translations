@@ -403,12 +403,17 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../protocols/oscar/src/inforequest.cpp" line="+38"/>
+        <location filename="../../protocols/oscar/src/inforequest.cpp" line="+144"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+3"/>
+        <source>Avatar</source>
+        <translation type="unfinished">Аватар</translation>
+    </message>
+    <message>
+        <location line="+8"/>
         <source>Name</source>
         <translation>Имя</translation>
     </message>
@@ -552,7 +557,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+128"/>
+        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+127"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>

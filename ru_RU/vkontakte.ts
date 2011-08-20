@@ -26,7 +26,7 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vinforequest.cpp" line="+52"/>
+        <location filename="../../protocols/vkontakte/src/vinforequest.cpp" line="+62"/>
         <source>Nickname</source>
         <translation>Ник</translation>
     </message>
@@ -112,7 +112,7 @@
         <translation>Мужской</translation>
     </message>
     <message>
-        <location line="+39"/>
+        <location line="+111"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
