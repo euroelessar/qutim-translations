@@ -11,17 +11,16 @@
 <context>
     <name>Core::SimpleContactList::MacWidget</name>
     <message>
-        <location filename="../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="+78"/>
         <source>Main Toolbar</source>
-        <translation type="unfinished">Основная панель</translation>
+        <translation type="obsolete">Основная панель</translation>
     </message>
     <message>
-        <location line="+32"/>
+        <location filename="../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="+279"/>
         <source>File</source>
         <translation type="unfinished">Файл</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-165"/>
         <source>Accounts</source>
         <translation>Учетные записи</translation>
     </message>
