@@ -369,14 +369,14 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/inforequest.cpp" line="+144"/>
+        <location filename="../../qutim/protocols/oscar/src/inforequest.cpp" line="+146"/>
         <source>General</source>
         <translation>Обща</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Аватар</translation>
     </message>
     <message>
         <location line="+8"/>
