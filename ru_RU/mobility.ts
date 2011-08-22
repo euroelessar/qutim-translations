@@ -26,12 +26,14 @@
 <context>
     <name>ManagerSettings</name>
     <message>
+        <location filename="../../plugins/mobility/src/bearermanager/managersettings.ui" line="+14"/>
         <source>Form</source>
-        <translation type="obsolete">Настройки</translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
     <message>
+        <location line="+28"/>
         <source>Autoconnect on startup</source>
-        <translation type="obsolete">Автоподключение при запуске</translation>
+        <translation type="unfinished">Автоподключение при запуске</translation>
     </message>
 </context>
 <context>
@@ -52,8 +54,16 @@
 <context>
     <name>Service</name>
     <message>
-        <location filename="../../plugins/mobility/src/bearermanager/bearermanager.cpp" line="+33"/>
+        <location filename="../../plugins/mobility/src/bearermanager/bearermanager.cpp" line="+36"/>
         <source>BearerManager</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Settings</name>
+    <message>
+        <location line="+12"/>
+        <source>Connection manager</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

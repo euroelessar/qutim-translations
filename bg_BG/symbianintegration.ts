@@ -4,7 +4,7 @@
 <context>
     <name>ChatWidget</name>
     <message>
-        <location filename="../../qutim-meta/plugins/symbian-integration/symbianchatform/stackedchatwidget.cpp" line="+59"/>
+        <location filename="../../qutim/plugins/symbianintegration/symbianchatform/stackedchatwidget.cpp" line="+59"/>
         <source>Toggle fullscreen</source>
         <translation>На цял екран</translation>
     </message>
@@ -32,7 +32,7 @@
 <context>
     <name>Core::SimpleContactList::SymbianWidget</name>
     <message>
-        <location filename="../../qutim-meta/plugins/symbian-integration/symbiancontactlistwidget/symbianwidget.cpp" line="+67"/>
+        <location filename="../../qutim/plugins/symbianintegration/symbiancontactlistwidget/symbianwidget.cpp" line="+67"/>
         <source>Search contact</source>
         <translation>Търсене на контакт</translation>
     </message>
@@ -56,7 +56,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim-meta/plugins/symbian-integration/symbianchatform/stackedchatform.cpp" line="+23"/>
+        <location filename="../../qutim/plugins/symbianintegration/symbianchatform/stackedchatform.cpp" line="+23"/>
         <source>Chat</source>
         <translation>Разговор</translation>
     </message>
@@ -64,7 +64,7 @@
 <context>
     <name>StackedChatBehavior</name>
     <message>
-        <location filename="../../qutim-meta/plugins/symbian-integration/symbianchatform/settings/stackedchatbehavior.ui" line="+14"/>
+        <location filename="../../qutim/plugins/symbianintegration/symbianchatform/settings/stackedchatbehavior.ui" line="+14"/>
         <source>Form</source>
         <translation>Настройки</translation>
     </message>
@@ -92,6 +92,14 @@
         <location line="+14"/>
         <source>Notifications in active chat</source>
         <translation>Да се показват уведомления в активния прозорец</translation>
+    </message>
+</context>
+<context>
+    <name>Symbian::Vibration</name>
+    <message>
+        <location filename="../../qutim/plugins/symbianintegration/symbianvibra/symbianvibration.cpp" line="+12"/>
+        <source>Vibration</source>
+        <translation>Вибрация</translation>
     </message>
 </context>
 </TS>

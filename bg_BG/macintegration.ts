@@ -11,17 +11,16 @@
 <context>
     <name>Core::SimpleContactList::MacWidget</name>
     <message>
-        <location filename="../../qutim-meta/plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="+75"/>
         <source>Main Toolbar</source>
-        <translation>Главна лента с инструменти</translation>
+        <translation type="obsolete">Главна лента с инструменти</translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location filename="../../qutim/plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="+279"/>
         <source>File</source>
         <translation>Файл</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-165"/>
         <source>Accounts</source>
         <translation>Сметки</translation>
     </message>
@@ -44,7 +43,7 @@
 <context>
     <name>MacIdleWidget</name>
     <message>
-        <location filename="../../qutim-meta/plugins/macintegration/src/macidle/macidlewidget.ui" line="+14"/>
+        <location filename="../../qutim/plugins/macintegration/src/macidle/macidlewidget.ui" line="+14"/>
         <source>Form</source>
         <translation>Автоматично отсъствие</translation>
     </message>
@@ -59,13 +58,13 @@
         <location line="+60"/>
         <source> min</source>
         <comment>seconds</comment>
-        <translation>мин</translation>
+        <translation> мин</translation>
     </message>
 </context>
 <context>
     <name>MacIntegration::MacSpellSettings</name>
     <message>
-        <location filename="../../qutim-meta/plugins/macintegration/src/macspellchecker/macspellsettings.cpp" line="+14"/>
+        <location filename="../../qutim/plugins/macintegration/src/macspellchecker/macspellsettings.cpp" line="+14"/>
         <source>Language</source>
         <translation>Език</translation>
     </message>

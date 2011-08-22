@@ -5599,4 +5599,80 @@ Accept invitation?</source>
     <source>ContactDelegate</source>
     <target>Отрисовщик контактов</target>
 </phrase>
+<phrase>
+    <source>Avatar</source>
+    <target>Аватар</target>
+</phrase>
+<phrase>
+    <source>Phones</source>
+    <target>Телефоны</target>
+</phrase>
+<phrase>
+    <source>E-mails</source>
+    <target>Электропочта</target>
+</phrase>
+<phrase>
+    <source>Addresses</source>
+    <target>Адреса</target>
+</phrase>
+<phrase>
+    <source>E-mail</source>
+    <target>Электропочта</target>
+</phrase>
+<phrase>
+    <source>Evgeniy Degtyarev</source>
+    <target>Евгений Дегтярев</target>
+</phrase>
+<phrase>
+    <source>Orientation</source>
+    <target>Ориентация</target>
+</phrase>
+<phrase>
+    <source>Landscape</source>
+    <target>Альбомная</target>
+</phrase>
+<phrase>
+    <source>Portrait</source>
+    <target>Книжная</target>
+</phrase>
+<phrase>
+    <source>Maemo Led Notifications</source>
+    <target>Уведомление светодиодом в Maemo</target>
+</phrase>
+<phrase>
+    <source>Maemo 5 Settings</source>
+    <target>Настройки Maemo 5</target>
+</phrase>
+<phrase>
+    <source>Notification system based on Maemo 5 Led</source>
+    <target>Уведомления основаные на Maemo 5 Led</target>
+</phrase>
+<phrase>
+    <source>Maemo 5 Settings</source>
+    <target>Настройки Maemo 5</target>
+</phrase>
+<phrase>
+    <source>Specific Maemo 5 settings</source>
+    <target>Настройки связанные с платформой Maemo 5</target>
+</phrase>
+<phrase>
+    <source>Implement Maemo 5 specific system tray</source>
+    <target>Реализация системного трея для Maemo 5</target>
+</phrase>
+<phrase>
+    <source>Maemo Vibration Notifications</source>
+    <target>Поддержка вибрации для Maemo 5</target>
+</phrase>
+<phrase>
+    <source>Notification system based on Maemo 5 Vibrator</source>
+    <target>Уведомление вибрацие основанное на Maemo 5 Vibrator</target>
+</phrase>
+<phrase>
+    <source>Notification system based on Maemo 5 Vibrator</source>
+    <target>Уведомление с помощию вибрации, основанное на Maemo 5 Vibrator</target>
+</phrase>
+<phrase>
+    <source>Maemo Led Notifications</source>
+    <target>Уведомление с помощью светодиода</target>
+</phrase>
 </QPH>

@@ -423,7 +423,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/jabber/src/jplugin.cpp" line="+32"/>
+        <location filename="../../protocols/jabber/src/jplugin.cpp" line="+33"/>
         <source>Denis Daschenko</source>
         <translation>Дащенко Денис</translation>
     </message>
@@ -459,7 +459,7 @@
         <translation type="obsolete">Превратить в конференцию</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+120"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+118"/>
         <source>Real JID</source>
         <translation>Настоящий JID</translation>
     </message>
@@ -500,7 +500,7 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/vcard/jinforequest.cpp" line="+53"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp" line="+55"/>
         <source>Nickname</source>
         <translation>Ник</translation>
     </message>
@@ -621,16 +621,67 @@
     </message>
     <message>
         <location line="+1"/>
-        <location line="+125"/>
+        <location line="+154"/>
         <source>About</source>
         <translation>О плагине</translation>
     </message>
     <message>
-        <source>Work</source>
-        <translation type="obsolete">Работа</translation>
+        <location line="-82"/>
+        <source>Avatar</source>
+        <translation type="unfinished">Аватар</translation>
     </message>
     <message>
-        <location line="-136"/>
+        <location line="+40"/>
+        <source>Phones</source>
+        <translation type="unfinished">Телефоны</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>E-mails</source>
+        <translation type="unfinished">Электропочта</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Addresses</source>
+        <translation type="unfinished">Адреса</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <location line="+156"/>
+        <location line="+21"/>
+        <location line="+19"/>
+        <source>Work</source>
+        <translation type="unfinished">Работа</translation>
+    </message>
+    <message>
+        <location line="-52"/>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <location line="+21"/>
+        <location line="+19"/>
+        <source>Home</source>
+        <translation>Дом</translation>
+    </message>
+    <message>
+        <location line="-38"/>
+        <source>Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Number</source>
+        <translation type="unfinished">Номер</translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>E-mail</source>
+        <translation type="unfinished">Электропочта</translation>
+    </message>
+    <message>
+        <location line="-342"/>
         <source>Country</source>
         <translation>Страна</translation>
     </message>
@@ -661,7 +712,7 @@
         <translation type="obsolete">Год выпуска</translation>
     </message>
     <message>
-        <location line="+51"/>
+        <location line="+83"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
@@ -673,7 +724,7 @@
 <context>
     <name>ContactResource</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp" line="+112"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp" line="+111"/>
         <source>Resource</source>
         <translation>Ресурс</translation>
     </message>
@@ -939,7 +990,7 @@
         <translation type="obsolete">Выполнить команду</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+31"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp" line="+34"/>
         <source>Service discovery</source>
         <translation>Обзор служб</translation>
     </message>
@@ -1038,7 +1089,7 @@
         <translation type="obsolete">Вы уже в конференции с другим ником</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+714"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+713"/>
         <source>You are already in conference with another nick</source>
         <translation>Вы уже в конференции с другим ником</translation>
     </message>
@@ -1048,7 +1099,7 @@
         <translation>Пожалуйста выберите другой ник</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+179"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jcontact.cpp" line="+178"/>
         <source>None</source>
         <translation>Нет</translation>
     </message>
@@ -1082,7 +1133,7 @@
 <context>
     <name>Jabber::JAccount</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+214"/>
+        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+219"/>
         <source>qutIM</source>
         <comment>Local qutIM&apos;s name</comment>
         <translation type="unfinished"></translation>
@@ -1098,7 +1149,7 @@
 <context>
     <name>Jabber::JActivityChooser</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="+229"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="+228"/>
         <source>Set activity</source>
         <translation>Занятие</translation>
     </message>
@@ -1111,7 +1162,7 @@
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="-78"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp" line="-77"/>
         <source>Choose your activity</source>
         <translation>Выберите ваше занятие</translation>
     </message>
@@ -1520,7 +1571,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JMoodChooser</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="+78"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="+77"/>
         <source>Set mood</source>
         <translation>Указать настроение</translation>
     </message>
@@ -1533,7 +1584,7 @@ Accept invitation?</source>
         <translation>Настроение</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="-58"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp" line="-57"/>
         <source>Choose your mood</source>
         <translation>Выберите настроение</translation>
     </message>
@@ -1583,7 +1634,7 @@ Accept invitation?</source>
         <translation type="obsolete">Не в списке</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+336"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jroster.cpp" line="+316"/>
         <source>You have been added to the list of subscribers</source>
         <translation>Вы были добавлены в список подписчиков</translation>
     </message>
@@ -1593,7 +1644,7 @@ Accept invitation?</source>
         <translation>Вы были исключены из списка подписчиков</translation>
     </message>
     <message>
-        <location line="-207"/>
+        <location line="-188"/>
         <source>Contact %1 has been added to roster</source>
         <translation>Контакт %1 добавлен в ростер</translation>
     </message>
@@ -1603,7 +1654,7 @@ Accept invitation?</source>
         <translation>Контакт %1 удален из ростера</translation>
     </message>
     <message>
-        <location line="+170"/>
+        <location line="+151"/>
         <source>Received a request for removal from the subscribers</source>
         <translation>Принят запрос на удаление из подписок</translation>
     </message>
@@ -1627,7 +1678,7 @@ Accept invitation?</source>
         <translation type="obsolete">&lt;br/&gt;&lt;b&gt;Идентификаторы:&lt;/b&gt;&lt;br/&gt;</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.cpp" line="+31"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp" line="+35"/>
         <source>Search service</source>
         <translation>Поиск сервисов</translation>
     </message>
@@ -1637,7 +1688,7 @@ Accept invitation?</source>
         <translation>Закрыть</translation>
     </message>
     <message>
-        <location line="+51"/>
+        <location line="+62"/>
         <source>category: </source>
         <translation>Категория: </translation>
     </message>
@@ -1647,12 +1698,12 @@ Accept invitation?</source>
         <translation>Идентификаторы:</translation>
     </message>
     <message>
-        <location line="+160"/>
+        <location line="+148"/>
         <source>Features:</source>
         <translation>Возможности:</translation>
     </message>
     <message>
-        <location line="-163"/>
+        <location line="-151"/>
         <source>type: </source>
         <translation>тип: </translation>
     </message>
@@ -1664,131 +1715,46 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JServiceDiscovery</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicediscovery.cpp" line="+118"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation>Отправитель послал неправильный XML запрос который не может быть обработан.</translation>
+        <translation type="obsolete">Отправитель послал неправильный XML запрос который не может быть обработан.</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation>Доступ не может быть предоставлен, поскольку уже существует ресурс или сессия с совпадающим именем или адресом.</translation>
+        <translation type="obsolete">Доступ не может быть предоставлен, поскольку уже существует ресурс или сессия с совпадающим именем или адресом.</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
-        <translation>Необходимая фича не поддерживается сервером или получаетелм и поэтому невозможно продолжить.</translation>
+        <translation type="obsolete">Необходимая фича не поддерживается сервером или получаетелм и поэтому невозможно продолжить.</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>The requesting entity does not possess the required permissions to perform the action.</source>
         <translatorcomment>промт</translatorcomment>
-        <translation type="unfinished">Объект запроса не обладает необходимыми полномочиями, чтобы выполнить действие.</translation>
+        <translation type="obsolete">Объект запроса не обладает необходимыми полномочиями, чтобы выполнить действие.</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>The recipient or server can no longer be contacted at this address.</source>
-        <translation type="unfinished">С получателем или сервером больше нельзя связаться по этому адресу.</translation>
+        <translation type="obsolete">С получателем или сервером больше нельзя связаться по этому адресу.</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation type="unfinished">Сервер не мог обработать stanza из-за неверной конфигурации или иной неопределенной внутренней ошибки.</translation>
+        <translation type="obsolete">Сервер не мог обработать stanza из-за неверной конфигурации или иной неопределенной внутренней ошибки.</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>The addressed JID or item requested cannot be found.</source>
-        <translation type="unfinished">Адресуемый JID не может быть найден.</translation>
+        <translation type="obsolete">Адресуемый JID не может быть найден.</translation>
     </message>
     <message>
-        <location line="+3"/>
-        <source>The sending entity has provided or communicated an XMPP address or aspect thereof that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+3"/>
         <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server.</source>
-        <translation type="unfinished">Получатель или сервер понимают запрос, но отказываются обработать его, потому что он не соответствует критериям, определенным получателем или сервером.</translation>
+        <translation type="obsolete">Получатель или сервер понимают запрос, но отказываются обработать его, потому что он не соответствует критериям, определенным получателем или сервером.</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>The recipient or server does not allow any entity to perform the action.</source>
         <translatorcomment>промт</translatorcomment>
-        <translation type="unfinished">Получатель или сервер не позволяют никакому объекту выполнять действие.</translation>
+        <translation type="obsolete">Получатель или сервер не позволяют никакому объекту выполнять действие.</translation>
     </message>
     <message>
-        <location line="+3"/>
-        <source>The sender must provide proper credentials before being allowed to perform the action, or has provided impreoper credentials.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>The item requested has not changed since it was last requested.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>The intended recipient is temporarily unavailable.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>A remote server or service specified as part or all of the JID of the intended recipient could not be contacted within a reasonable amount of time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>The server or recipient lacks the system resources necessary to service the request.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>The server or recipient does not currently provide the requested service.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>The unknown error condition.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>The recipient or server understood the request but was not expecting it at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>The stanza &apos;from&apos; address specified by a connected client is not valid for the stream.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+3"/>
         <source>No stanza error occured. You&apos;re just sleeping.</source>
-        <translation type="unfinished">Никакой ошибки строфы не было. Ты просто спишь.</translation>
+        <translation type="obsolete">Никакой ошибки строфы не было. Ты просто спишь.</translation>
     </message>
 </context>
 <context>
@@ -1865,6 +1831,134 @@ Accept invitation?</source>
         <location line="+1"/>
         <source>OpenDocument Format (*.odf);;HTML file (*.html);;Plain text (*.txt)</source>
         <translation type="unfinished">Формат OpenDocument (*.odf);;HTML файл (*.html);;Простой текст (*.txt)</translation>
+    </message>
+</context>
+<context>
+    <name>Jreen::Error</name>
+    <message>
+        <location filename="../../protocols/jabber/jreen/src/error.cpp" line="+62"/>
+        <source>The sender has sent XML that is malformed or that cannot be processed.</source>
+        <translation type="unfinished">Отправитель послал неправильный XML запрос который не может быть обработан.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
+        <translation type="unfinished">Доступ не может быть предоставлен, поскольку уже существует ресурс или сессия с совпадающим именем или адресом.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
+        <translation type="unfinished">Необходимая фича не поддерживается сервером или получаетелм и поэтому невозможно продолжить.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The requesting entity does not possess the required permissions to perform the action.</source>
+        <translation type="unfinished">Объект запроса не обладает необходимыми полномочиями, чтобы выполнить действие.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The recipient or server can no longer be contacted at this address.</source>
+        <translation type="unfinished">С получателем или сервером больше нельзя связаться по этому адресу.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
+        <translation type="unfinished">Сервер не мог обработать stanza из-за неверной конфигурации или иной неопределенной внутренней ошибки.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The addressed JID or item requested cannot be found.</source>
+        <translation type="unfinished">Адресуемый JID не может быть найден.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The sending entity has provided or communicated an XMPP address or aspect thereof that does not adhere to the syntax defined in Addressing Scheme.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server.</source>
+        <translation type="unfinished">Получатель или сервер понимают запрос, но отказываются обработать его, потому что он не соответствует критериям, определенным получателем или сервером.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The recipient or server does not allow any entity to perform the action.</source>
+        <translation type="unfinished">Получатель или сервер не позволяют никакому объекту выполнять действие.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The sender must provide proper credentials before being allowed to perform the action, or has provided impreoper credentials.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The item requested has not changed since it was last requested.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The intended recipient is temporarily unavailable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>A remote server or service specified as part or all of the JID of the intended recipient could not be contacted within a reasonable amount of time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The server or recipient lacks the system resources necessary to service the request.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The server or recipient does not currently provide the requested service.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The unknown error condition.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The recipient or server understood the request but was not expecting it at this time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The stanza &apos;from&apos; address specified by a connected client is not valid for the stream.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>No stanza error occured. You&apos;re just sleeping.</source>
+        <translation type="unfinished">Никакой ошибки строфы не было. Ты просто спишь.</translation>
     </message>
 </context>
 <context>
@@ -2421,6 +2515,16 @@ Accept invitation?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location line="+3"/>
+        <source>Jabber VCard support</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Implementation of VCard info requests</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location line="+7"/>
         <source>Jabber User Mood support</source>
         <translation type="unfinished"></translation>
@@ -2508,7 +2612,7 @@ Accept invitation?</source>
 <context>
     <name>ServiceBrowser</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/servicediscovery/jservicebrowser.ui" line="+14"/>
+        <location filename="../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui" line="+14"/>
         <source>jServiceBrowser</source>
         <translation>Обзор сервисов</translation>
     </message>
@@ -2644,7 +2748,7 @@ Accept invitation?</source>
 <context>
     <name>Task</name>
     <message>
-        <location filename="../../protocols/jabber/src/jplugin.cpp" line="-72"/>
+        <location filename="../../protocols/jabber/src/jplugin.cpp" line="-76"/>
         <location line="+3"/>
         <source>Author</source>
         <translation>Автор</translation>

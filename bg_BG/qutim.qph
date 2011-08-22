@@ -3196,4 +3196,12 @@
     <source>Number</source>
     <target>Номер</target>
 </phrase>
+<phrase>
+    <source>Vibration</source>
+    <target>Вибрация</target>
+</phrase>
+<phrase>
+    <source>Evgeniy Degtyarev</source>
+    <target>Евгений Дегтярев</target>
+</phrase>
 </QPH>

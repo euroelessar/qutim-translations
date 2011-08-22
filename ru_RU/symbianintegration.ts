@@ -94,4 +94,12 @@
         <translation>Уведомления в активном чате</translation>
     </message>
 </context>
+<context>
+    <name>Symbian::Vibration</name>
+    <message>
+        <location filename="../../plugins/symbianintegration/symbianvibra/symbianvibration.cpp" line="+12"/>
+        <source>Vibration</source>
+        <translation type="unfinished">Вибрация</translation>
+    </message>
+</context>
 </TS>

@@ -94,12 +94,12 @@
     <message>
         <location line="+74"/>
         <source>Unsupported grant type. Inform developers.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unsupported grant type. Сообщите разработчику.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Invalid request. Inform developers.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Неправильный запрос. Сообщите разработчику.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -126,7 +126,7 @@
 <context>
     <name>YandexNarodNetMan</name>
     <message>
-        <location filename="../../plugins/yandexnarod/src/yandexnarodnetman.cpp" line="+141"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnarodnetman.cpp" line="+140"/>
         <source>Authorizing...</source>
         <translation>Авторизация...</translation>
     </message>

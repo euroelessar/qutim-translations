@@ -132,7 +132,7 @@
 <context>
     <name>WThumbnailsProvider</name>
     <message>
-        <location filename="../../qutim/plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="+123"/>
+        <location filename="../../qutim/plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp" line="+128"/>
         <source>&lt;b&gt;You have new messages.&lt;/b&gt;</source>
         <translation>&lt;b&gt;Имате нови съобщения.&lt;/b&gt;</translation>
     </message>
