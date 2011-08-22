@@ -99,7 +99,7 @@
     <message>
         <location filename="../../qutim/plugins/symbianintegration/symbianvibra/symbianvibration.cpp" line="+12"/>
         <source>Vibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Вибрация</translation>
     </message>
 </context>
 </TS>
