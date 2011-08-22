@@ -1065,7 +1065,7 @@ p, li { white-space: pre-wrap; }
         <translation>Затваряне</translation>
     </message>
     <message>
-        <location line="+114"/>
+        <location line="+115"/>
         <location line="+42"/>
         <source>qutIM settings - %1</source>
         <translation>Настройки на qutIM - %1</translation>
@@ -1474,7 +1474,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+45"/>
-        <location line="+196"/>
+        <location line="+208"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
