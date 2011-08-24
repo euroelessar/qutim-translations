@@ -369,7 +369,7 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/inforequest.cpp" line="+144"/>
+        <location filename="../../qutim/protocols/oscar/src/inforequest.cpp" line="+146"/>
         <source>General</source>
         <translation>Обща</translation>
     </message>
