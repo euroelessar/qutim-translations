@@ -376,7 +376,7 @@
     <message>
         <location line="+3"/>
         <source>Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Аватар</translation>
     </message>
     <message>
         <location line="+8"/>
