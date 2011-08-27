@@ -15,12 +15,12 @@
         <translation type="obsolete">Основная панель</translation>
     </message>
     <message>
-        <location filename="../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="+279"/>
+        <location filename="../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp" line="+273"/>
         <source>File</source>
         <translation type="unfinished">Файл</translation>
     </message>
     <message>
-        <location line="-165"/>
+        <location line="-159"/>
         <source>Accounts</source>
         <translation>Учетные записи</translation>
     </message>
@@ -30,12 +30,12 @@
         <translation type="unfinished">Чаты</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="+159"/>
         <source>Roster</source>
         <translation type="unfinished">Ростер</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="-157"/>
         <source>Set Status Text</source>
         <translation>Установить текст статуса</translation>
     </message>

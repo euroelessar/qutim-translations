@@ -403,7 +403,7 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../protocols/oscar/src/inforequest.cpp" line="+144"/>
+        <location filename="../../protocols/oscar/src/inforequest.cpp" line="+146"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
