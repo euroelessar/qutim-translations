@@ -11,7 +11,7 @@
     <message>
         <location filename="../../plugins/birthdayreminder/src/birthdayreminder.cpp" line="272"/>
         <source>%1&apos;s birthday will be tomorrow! Hooray!</source>
-        <translation type="unfinished">%1 завтра справляет день рождения, поздравь его отменя!</translation>
+        <translation type="unfinished">%1 завтра справляет день рождения, поздравь его от меня!</translation>
     </message>
     <message numerus="yes">
         <location filename="../../plugins/birthdayreminder/src/birthdayreminder.cpp" line="275"/>
