@@ -3449,7 +3449,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location filename="../src/gui/util/qdesktopservices_mac.cpp" line="+165"/>
         <source>Home</source>
-        <translation>Домашен</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/network/access/qnetworkaccessdatabackend.cpp" line="+74"/>
@@ -4901,7 +4901,7 @@ Please choose a different file name.</source>
     <message>
         <location line="+1"/>
         <source>Home</source>
-        <translation>Домашен</translation>
+        <translation>Home</translation>
     </message>
     <message>
         <location line="+1"/>
