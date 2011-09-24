@@ -2006,7 +2006,7 @@
     <message>
         <location line="+26"/>
         <source>Use SSL authorization (experimental)</source>
-        <translation type="unfinished">Использовать SSL авторизацию (эксепериментальная функция)</translation>
+        <translation type="unfinished">Использовать SSL авторизацию (экспериментальная функция)</translation>
     </message>
     <message>
         <source>Use ssl (experimental)</source>

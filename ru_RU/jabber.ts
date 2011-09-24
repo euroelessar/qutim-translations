@@ -1089,7 +1089,7 @@
         <translation type="obsolete">Вы уже в конференции с другим ником</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+713"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp" line="+743"/>
         <source>You are already in conference with another nick</source>
         <translation>Вы уже в конференции с другим ником</translation>
     </message>
