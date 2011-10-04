@@ -3015,7 +3015,7 @@
     <message>
         <location line="+1"/>
         <source>Home</source>
-        <translation>Домашен</translation>
+        <translation>У дома</translation>
     </message>
     <message>
         <location line="+1"/>
