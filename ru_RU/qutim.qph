@@ -5675,4 +5675,8 @@ Accept invitation?</source>
     <source>Maemo Led Notifications</source>
     <target>Уведомление с помощью светодиода</target>
 </phrase>
+<phrase>
+    <source>Not available</source>
+    <target>Недоступен</target>
+</phrase>
 </QPH>
