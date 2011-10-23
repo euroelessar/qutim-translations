@@ -1386,7 +1386,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::AbstractContactModel</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp" line="+118"/>
+        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp" line="+130"/>
         <source>Blink icon in the contact list</source>
         <translation>Мигаща икона в списъка с контакти</translation>
     </message>
@@ -1474,7 +1474,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+45"/>
-        <location line="+208"/>
+        <location line="+209"/>
         <source>Set Status Text</source>
         <translation>Задаване текст на статуса</translation>
     </message>
