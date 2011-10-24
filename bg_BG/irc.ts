@@ -383,7 +383,7 @@
 <context>
     <name>IRC</name>
     <message>
-        <location filename="../../qutim/protocols/irc/src/ircprotocol.cpp" line="+88"/>
+        <location filename="../../qutim/protocols/irc/src/ircprotocol.cpp" line="+87"/>
         <source>Show console...</source>
         <translation>Показване на конзолата...</translation>
     </message>
