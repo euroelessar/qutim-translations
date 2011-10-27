@@ -440,7 +440,7 @@
         <translation>Забрана (Ban)</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+118"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+116"/>
         <source>Real JID</source>
         <translation>Реален JID</translation>
     </message>
@@ -1368,7 +1368,7 @@
 <context>
     <name>Jabber::JSoftwareDetection</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp" line="+291"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp" line="+300"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
