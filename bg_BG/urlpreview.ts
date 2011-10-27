@@ -60,15 +60,25 @@
         <translation>Байта</translation>
     </message>
     <message>
-        <location line="+152"/>
+        <location line="+168"/>
         <source>YouTube video</source>
         <translation>YouTube видео</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location line="+8"/>
+        <location line="+33"/>
         <source>Unknown</source>
         <translation>Неизвестен</translation>
+    </message>
+    <message>
+        <location line="-23"/>
+        <source>HTML5 Audio</source>
+        <translation>HTML5 звук</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>HTML5 Video</source>
+        <translation>HTML5 видео</translation>
     </message>
 </context>
 <context>
@@ -128,6 +138,16 @@
         <location line="+10"/>
         <source>YouTube preview</source>
         <translation>Предварителен преглед на YouTube видео</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>HTML5 Audio</source>
+        <translation>HTML5 звук</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>HTML5 Video</source>
+        <translation>HTML5 видео</translation>
     </message>
 </context>
 </TS>
