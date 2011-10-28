@@ -112,7 +112,7 @@
         <translation>Мужской</translation>
     </message>
     <message>
-        <location line="+111"/>
+        <location line="+109"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>

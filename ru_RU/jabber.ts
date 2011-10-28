@@ -459,7 +459,7 @@
         <translation type="obsolete">Превратить в конференцию</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+118"/>
+        <location filename="../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp" line="+116"/>
         <source>Real JID</source>
         <translation>Настоящий JID</translation>
     </message>
@@ -1760,7 +1760,7 @@ Accept invitation?</source>
 <context>
     <name>Jabber::JSoftwareDetection</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp" line="+291"/>
+        <location filename="../../protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp" line="+300"/>
         <source>Possible client</source>
         <translation>Возможный клиент</translation>
     </message>

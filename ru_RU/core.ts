@@ -448,7 +448,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+434"/>
+        <location filename="../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+439"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
@@ -2069,7 +2069,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SimpleContactList::AbstractContactModel</name>
     <message>
-        <location filename="../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp" line="+118"/>
+        <location filename="../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp" line="+130"/>
         <source>Blink icon in the contact list</source>
         <translation type="unfinished">Мигание пиктограммы в ростере</translation>
     </message>

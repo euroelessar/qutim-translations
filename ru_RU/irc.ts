@@ -391,7 +391,7 @@
         <translation type="obsolete">Войти в канал...</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+88"/>
+        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+87"/>
         <source>Show console...</source>
         <translation>Показать консоль...</translation>
     </message>

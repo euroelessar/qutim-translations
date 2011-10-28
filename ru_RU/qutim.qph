@@ -5679,4 +5679,12 @@ Accept invitation?</source>
     <source>Not available</source>
     <target>Недоступен</target>
 </phrase>
+<phrase>
+    <source>HTML5 Audio</source>
+    <target>HTML5 Аудио</target>
+</phrase>
+<phrase>
+    <source>HTML5 Video</source>
+    <target>HTML5 Видео</target>
+</phrase>
 </QPH>
