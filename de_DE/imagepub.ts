@@ -6,7 +6,7 @@
     <message>
         <location filename="imagepub.cpp" line="60"/>
         <source>Send image via ImagePub plugin</source>
-        <translation>Bild mit ImagePub-Plugin senden</translation>
+        <translation>Bild mit dem ImagePub-Plugin senden</translation>
     </message>
     <message>
         <location filename="imagepub.cpp" line="31"/>

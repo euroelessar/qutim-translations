@@ -4,17 +4,17 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="src/nowplaying.cpp" line="32"/>
+        <location filename="src/nowplaying.cpp" line="33"/>
         <source>Kazlauskas Ian</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="src/nowplaying.cpp" line="35"/>
+        <location filename="src/nowplaying.cpp" line="36"/>
         <source>Alexey Prokhin</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="src/nowplaying.cpp" line="38"/>
+        <location filename="src/nowplaying.cpp" line="39"/>
         <source>Ruslan Nigmatullin</source>
         <translation></translation>
     </message>
@@ -150,17 +150,17 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>NowPlaying</name>
     <message>
-        <location filename="src/nowplaying.cpp" line="77"/>
+        <location filename="src/nowplaying.cpp" line="78"/>
         <source>Now Playing</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="src/nowplaying.cpp" line="263"/>
+        <location filename="src/nowplaying.cpp" line="264"/>
         <source>Stop now playing</source>
         <translation>Now Playing stoppen</translation>
     </message>
     <message>
-        <location filename="src/nowplaying.cpp" line="264"/>
+        <location filename="src/nowplaying.cpp" line="265"/>
         <source>Start now playing</source>
         <translation>Now Playing starten</translation>
     </message>
@@ -226,12 +226,12 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
-        <location filename="src/nowplaying.cpp" line="41"/>
+        <location filename="src/nowplaying.cpp" line="42"/>
         <source>Now Playing Mpris</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="src/nowplaying.cpp" line="42"/>
+        <location filename="src/nowplaying.cpp" line="43"/>
         <source>Mpris support for now playing plugin</source>
         <translation>Mpris Unterstützung für das Now Playing Plugin</translation>
     </message>
@@ -239,9 +239,9 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Task</name>
     <message>
-        <location filename="src/nowplaying.cpp" line="33"/>
-        <location filename="src/nowplaying.cpp" line="36"/>
-        <location filename="src/nowplaying.cpp" line="39"/>
+        <location filename="src/nowplaying.cpp" line="34"/>
+        <location filename="src/nowplaying.cpp" line="37"/>
+        <location filename="src/nowplaying.cpp" line="40"/>
         <source>Developer</source>
         <translation>Entwickler</translation>
     </message>

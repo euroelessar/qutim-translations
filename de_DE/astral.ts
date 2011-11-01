@@ -19,7 +19,7 @@
     <message>
         <location filename="src/astralplugin.cpp" line="31"/>
         <source>Protocol support by Telepathy</source>
-        <translation>Protokollunterstützung von Telepathy</translation>
+        <translation>Protokollunterstützung für Telepathy</translation>
     </message>
 </context>
 <context>

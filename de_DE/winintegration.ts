@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="src/winint.cpp" line="38"/>
+        <location filename="src/winint.cpp" line="63"/>
         <source>Vizir Ivan</source>
         <translation></translation>
     </message>
@@ -12,18 +12,18 @@
 <context>
     <name>Core::SimpleContactList::SevenWidget</name>
     <message>
-        <location filename="subplugins/sevenlist/sevenwidget.cpp" line="88"/>
+        <location filename="subplugins/sevenlist/sevenwidget.cpp" line="113"/>
         <source>Status</source>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="subplugins/sevenlist/sevenwidget.cpp" line="96"/>
+        <location filename="subplugins/sevenlist/sevenwidget.cpp" line="121"/>
         <source>Search contact</source>
         <translation>Kontakt suchen</translation>
     </message>
     <message>
-        <location filename="subplugins/sevenlist/sevenwidget.cpp" line="124"/>
-        <location filename="subplugins/sevenlist/sevenwidget.cpp" line="302"/>
+        <location filename="subplugins/sevenlist/sevenwidget.cpp" line="149"/>
+        <location filename="subplugins/sevenlist/sevenwidget.cpp" line="327"/>
         <source>Set Status Text</source>
         <translation>Statusnachricht</translation>
     </message>
@@ -31,44 +31,21 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="src/winint.cpp" line="41"/>
-        <location filename="src/winint.cpp" line="53"/>
+        <location filename="src/winint.cpp" line="66"/>
+        <location filename="src/winint.cpp" line="79"/>
         <source>Windows Integration</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="src/winint.cpp" line="42"/>
+        <location filename="src/winint.cpp" line="67"/>
         <source>Adds count of unread messages as an icon to taskbar button of qutim, along with some commands list and provides a bit more usable notification area icon than default plugin.</source>
         <translation>Zeigt die Anzahl der ungelesenen Nachrichten im Taskleistensymbol und einige Befehle. Bringt etwas bessere Benachrichtigungen als das Standard-Plugin.</translation>
     </message>
 </context>
 <context>
-    <name>SelectAccDlg</name>
-    <message>
-        <location filename="src/selectaccdlg.ui" line="14"/>
-        <source>Dialog</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="src/selectaccdlg.ui" line="39"/>
-        <source>Select your account</source>
-        <translation>Wähle dein Konto aus</translation>
-    </message>
-    <message>
-        <location filename="src/selectaccdlg.ui" line="57"/>
-        <source>Please, select one of your accout to chat with Jabber ID %1.</source>
-        <translation>Bitte ein Konto auswählen, um mit Jabber ID %1 zu chatten.</translation>
-    </message>
-    <message>
-        <location filename="src/selectaccdlg.ui" line="69"/>
-        <source>Available accounts:</source>
-        <translation>Konten:</translation>
-    </message>
-</context>
-<context>
     <name>Task</name>
     <message>
-        <location filename="src/winint.cpp" line="39"/>
+        <location filename="src/winint.cpp" line="64"/>
         <source>Author</source>
         <translation>Autor</translation>
     </message>
@@ -136,12 +113,12 @@
 <context>
     <name>WThumbnailsProvider</name>
     <message>
-        <location filename="subplugins/win7taskbar/thumbnails-renderer.cpp" line="91"/>
+        <location filename="subplugins/win7taskbar/thumbnails-renderer.cpp" line="128"/>
         <source>&lt;b&gt;You have new messages.&lt;/b&gt;</source>
         <translation>&lt;b&gt;Du hast neue Nachrichten.&lt;/b&gt;</translation>
     </message>
     <message numerus="yes">
-        <location filename="subplugins/win7taskbar/thumbnails-renderer.cpp" line="94"/>
+        <location filename="subplugins/win7taskbar/thumbnails-renderer.cpp" line="131"/>
         <source>&amp;middot; %n message(s) from chats.</source>
         <translation>
             <numerusform>&amp;middot; %n Nachricht von Chats.</numerusform>
@@ -149,7 +126,7 @@
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="subplugins/win7taskbar/thumbnails-renderer.cpp" line="95"/>
+        <location filename="subplugins/win7taskbar/thumbnails-renderer.cpp" line="132"/>
         <source>&amp;middot; %n message(s) from conferences.</source>
         <translation>
             <numerusform>&amp;middot; %n Nachricht in einem Chatraum.</numerusform>
@@ -157,12 +134,12 @@
         </translation>
     </message>
     <message>
-        <location filename="subplugins/win7taskbar/thumbnails-renderer.cpp" line="101"/>
+        <location filename="subplugins/win7taskbar/thumbnails-renderer.cpp" line="138"/>
         <source>Last received from:</source>
         <translation>Letzte erhalten von:</translation>
     </message>
     <message>
-        <location filename="subplugins/win7taskbar/thumbnails-renderer.cpp" line="105"/>
+        <location filename="subplugins/win7taskbar/thumbnails-renderer.cpp" line="142"/>
         <source>You have no new messages.</source>
         <translation>Du das keine neuen Nachrichten.</translation>
     </message>

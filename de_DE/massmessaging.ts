@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="src/messaging.cpp" line="17"/>
+        <location filename="src/messaging.cpp" line="32"/>
         <source>Sidorov Aleksey</source>
         <translation></translation>
     </message>
@@ -72,7 +72,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MassMessaging</name>
     <message>
-        <location filename="src/messaging.cpp" line="29"/>
+        <location filename="src/messaging.cpp" line="45"/>
         <source>&amp;Mass Messaging</source>
         <translation>Mehrfaches Senden...</translation>
     </message>
@@ -118,12 +118,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="src/messaging.cpp" line="21"/>
+        <location filename="src/messaging.cpp" line="36"/>
         <source>MassMessaging</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="src/messaging.cpp" line="22"/>
+        <location filename="src/messaging.cpp" line="37"/>
         <source>Simple messaging to contact list</source>
         <translation>Massenbenachrichtigungen an die Kontaktliste versenden</translation>
     </message>
@@ -131,7 +131,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Task</name>
     <message>
-        <location filename="src/messaging.cpp" line="18"/>
+        <location filename="src/messaging.cpp" line="33"/>
         <source>Author</source>
         <translation>Autor</translation>
     </message>

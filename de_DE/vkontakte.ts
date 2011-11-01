@@ -4,8 +4,8 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="plugins/photoalbum/vphotoalbumplugin.cpp" line="17"/>
-        <location filename="plugins/wall/vwallmanager.cpp" line="17"/>
+        <location filename="plugins/photoalbum/vphotoalbumplugin.cpp" line="18"/>
+        <location filename="plugins/wall/vwallmanager.cpp" line="18"/>
         <source>Alexey Sidorov</source>
         <translation></translation>
     </message>
@@ -18,192 +18,110 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="src/vcontact.cpp" line="187"/>
-        <location filename="src/vinforequest.cpp" line="61"/>
+        <location filename="src/vcontact.cpp" line="191"/>
+        <location filename="src/vinforequest.cpp" line="71"/>
         <source>Mobile phone</source>
         <translation>Handy</translation>
     </message>
     <message>
-        <location filename="src/vcontact.cpp" line="191"/>
+        <location filename="src/vcontact.cpp" line="195"/>
         <source>Activity</source>
         <translation>Tätigkeit</translation>
     </message>
     <message>
-        <location filename="src/vinforequest.cpp" line="52"/>
+        <location filename="src/vinforequest.cpp" line="62"/>
         <source>Nickname</source>
         <translation>Spitzname</translation>
     </message>
     <message>
-        <location filename="src/vinforequest.cpp" line="53"/>
+        <location filename="src/vinforequest.cpp" line="63"/>
         <source>First name</source>
         <translation>Vorname</translation>
     </message>
     <message>
-        <location filename="src/vinforequest.cpp" line="54"/>
+        <location filename="src/vinforequest.cpp" line="64"/>
         <source>Last name</source>
         <translation>Nachname</translation>
     </message>
     <message>
-        <location filename="src/vinforequest.cpp" line="55"/>
+        <location filename="src/vinforequest.cpp" line="65"/>
         <source>Gender</source>
         <translation>Geschlecht</translation>
     </message>
     <message>
-        <location filename="src/vinforequest.cpp" line="56"/>
+        <location filename="src/vinforequest.cpp" line="66"/>
         <source>Birthday</source>
         <translation>Geburtstag</translation>
     </message>
     <message>
-        <location filename="src/vinforequest.cpp" line="57"/>
+        <location filename="src/vinforequest.cpp" line="67"/>
         <source>City</source>
         <translation>Wohnort</translation>
     </message>
     <message>
-        <location filename="src/vinforequest.cpp" line="58"/>
+        <location filename="src/vinforequest.cpp" line="68"/>
         <source>Country</source>
         <translation>Land</translation>
     </message>
     <message>
-        <location filename="src/vinforequest.cpp" line="59"/>
+        <location filename="src/vinforequest.cpp" line="69"/>
         <source>Photo</source>
         <translation>Foto</translation>
     </message>
     <message>
-        <location filename="src/vinforequest.cpp" line="60"/>
+        <location filename="src/vinforequest.cpp" line="70"/>
         <source>Home phone</source>
         <translation>Telefon</translation>
     </message>
     <message>
-        <location filename="src/vinforequest.cpp" line="62"/>
+        <location filename="src/vinforequest.cpp" line="72"/>
         <source>University</source>
         <translation>Universität</translation>
     </message>
     <message>
-        <location filename="src/vinforequest.cpp" line="63"/>
+        <location filename="src/vinforequest.cpp" line="73"/>
         <source>Faculty</source>
         <translation>Fakultät</translation>
     </message>
     <message>
-        <location filename="src/vinforequest.cpp" line="64"/>
+        <location filename="src/vinforequest.cpp" line="74"/>
         <source>Graduation year</source>
         <translation>Abschlussjahr</translation>
     </message>
     <message>
-        <location filename="src/vinforequest.cpp" line="71"/>
+        <location filename="src/vinforequest.cpp" line="81"/>
         <source>Undefined</source>
         <translation>Undefiniert</translation>
     </message>
     <message>
-        <location filename="src/vinforequest.cpp" line="72"/>
+        <location filename="src/vinforequest.cpp" line="82"/>
         <source>Female</source>
         <translation>Weiblich</translation>
     </message>
     <message>
-        <location filename="src/vinforequest.cpp" line="73"/>
+        <location filename="src/vinforequest.cpp" line="83"/>
         <source>Male</source>
         <translation>Männlich</translation>
     </message>
     <message>
-        <location filename="src/vinforequest.cpp" line="112"/>
+        <location filename="src/vinforequest.cpp" line="192"/>
         <source>General</source>
         <translation>Allgemein</translation>
     </message>
     <message>
-        <location filename="src/vinforequest.cpp" line="114"/>
+        <location filename="src/vinforequest.cpp" line="194"/>
         <source>Person</source>
         <translation>Person</translation>
     </message>
     <message>
-        <location filename="src/vinforequest.cpp" line="129"/>
+        <location filename="src/vinforequest.cpp" line="209"/>
         <source>Home address</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <location filename="src/vinforequest.cpp" line="137"/>
+        <location filename="src/vinforequest.cpp" line="217"/>
         <source>Education</source>
         <translation>Ausbildung</translation>
-    </message>
-</context>
-<context>
-    <name>EdditAccount</name>
-    <message>
-        <source>Editing %1</source>
-        <translation type="obsolete">Bearbeiten von %1</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="obsolete">Allgemein</translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="obsolete">Passwort:</translation>
-    </message>
-    <message>
-        <source>Autoconnect on start</source>
-        <translation type="obsolete">Beim Starten automatisch verbinden</translation>
-    </message>
-    <message>
-        <source> s</source>
-        <translation type="obsolete">s</translation>
-    </message>
-    <message>
-        <source>Refresh friend list every:</source>
-        <translation type="obsolete">Freundesliste aktualisieren alle:</translation>
-    </message>
-    <message>
-        <source>Show status text in contact list</source>
-        <translation type="obsolete">Statusnachricht in der Kontaktliste anzeigen</translation>
-    </message>
-    <message>
-        <source>Check for new messages every:</source>
-        <translation type="obsolete">Auf neue Nachrichten überprüfen alle:</translation>
-    </message>
-    <message>
-        <source>Updates</source>
-        <translation type="obsolete">Updates</translation>
-    </message>
-    <message>
-        <source>Check for friends updates every:</source>
-        <translation type="obsolete">Updates von Freunden überprüfen alle:</translation>
-    </message>
-    <message>
-        <source>Enable friends photo updates notifications</source>
-        <translation type="obsolete">Aktiviere Foto-Update Benachrichtigungen von Freunden</translation>
-    </message>
-    <message>
-        <source>Insert preview URL on new photos notifications</source>
-        <translation type="obsolete">Vorschau-URL bei neuen Foto-Benachrichtigungen anzeigen</translation>
-    </message>
-    <message>
-        <source>Insert fullsize URL on new photos notifications</source>
-        <translation type="obsolete">Volle URL bei neuen Foto-Benachrichtigungen anzeigen</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation type="obsolete">Ok</translation>
-    </message>
-    <message>
-        <source>Apply</source>
-        <translation type="obsolete">Anwenden</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Abbrechen</translation>
-    </message>
-</context>
-<context>
-    <name>LoginForm</name>
-    <message>
-        <source>E-mail:</source>
-        <translation type="obsolete">E-Mail:</translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="obsolete">Passwort:</translation>
-    </message>
-    <message>
-        <source>Autoconnect on start</source>
-        <translation type="obsolete">Beim Starten automatisch verbinden</translation>
     </message>
 </context>
 <context>
@@ -272,8 +190,8 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="plugins/photoalbum/vphotoalbumplugin.cpp" line="18"/>
-        <location filename="plugins/wall/vwallmanager.cpp" line="18"/>
+        <location filename="plugins/photoalbum/vphotoalbumplugin.cpp" line="19"/>
+        <location filename="plugins/wall/vwallmanager.cpp" line="19"/>
         <location filename="src/vkontakteplugin.cpp" line="33"/>
         <source>Author</source>
         <translation>Autor</translation>
@@ -380,33 +298,14 @@
     </message>
 </context>
 <context>
-    <name>VcontactList</name>
-    <message>
-        <source>Friends</source>
-        <translation type="obsolete">Freunde</translation>
-    </message>
-    <message>
-        <source>Favorites</source>
-        <translation type="obsolete">Favoriten</translation>
-    </message>
-    <message>
-        <source>&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Status message:&lt;/b&gt;&amp;nbsp;%1&lt;/font</source>
-        <translation type="obsolete">&lt;font size=&apos;2&apos;&gt;&lt;b&gt;Statusnachricht:&lt;/b&gt;&amp;nbsp;%1&lt;/font</translation>
-    </message>
-    <message>
-        <source>Open user page</source>
-        <translation type="obsolete">Seite des Benutzers öffnen</translation>
-    </message>
-</context>
-<context>
     <name>Vkontakte</name>
     <message>
-        <location filename="plugins/photoalbum/vphotoalbumplugin.cpp" line="28"/>
+        <location filename="plugins/photoalbum/vphotoalbumplugin.cpp" line="29"/>
         <source>View photoalbum</source>
         <translation>Fotoalbum anzeigen</translation>
     </message>
     <message>
-        <location filename="plugins/wall/vwallmanager.cpp" line="27"/>
+        <location filename="plugins/wall/vwallmanager.cpp" line="28"/>
         <source>View wall</source>
         <translation>Wand anzeigen</translation>
     </message>
@@ -445,36 +344,6 @@
         <location filename="src/vkontakteprotocol.cpp" line="149"/>
         <source>sms</source>
         <translation></translation>
-    </message>
-</context>
-<context>
-    <name>VprotocolWrap</name>
-    <message>
-        <source>Mismatch nick or password</source>
-        <translation type="obsolete">Falscher Spitzname oder Passwort</translation>
-    </message>
-    <message>
-        <source>Vkontakte.ru updates</source>
-        <translation type="obsolete">Vkontakte.ru Updates</translation>
-    </message>
-    <message>
-        <source>%1 was tagged on photo</source>
-        <translation type="obsolete">%1 wurde auf einem Foto markiert</translation>
-    </message>
-    <message>
-        <source>%1 added new photo</source>
-        <translation type="obsolete">%1 hat ein neues Foto hinzugefügt</translation>
-    </message>
-</context>
-<context>
-    <name>VstatusObject</name>
-    <message>
-        <source>Online</source>
-        <translation type="obsolete">Online</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="obsolete">Offline</translation>
     </message>
 </context>
 </TS>

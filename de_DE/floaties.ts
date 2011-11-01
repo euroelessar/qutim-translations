@@ -19,7 +19,7 @@
     <message>
         <location filename="src/floaties.cpp" line="32"/>
         <source>Implementation of floaty contacts</source>
-        <translation>Umsetzung von schwimmenden Kontakten</translation>
+        <translation>Einzelne Kontakte schwimmend auf dem Desktop anzeigen</translation>
     </message>
 </context>
 <context>

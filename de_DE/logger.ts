@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="src/logger.cpp" line="55"/>
+        <location filename="src/logger.cpp" line="56"/>
         <source>Sidorov Aleksey</source>
         <translation></translation>
     </message>
@@ -12,16 +12,16 @@
 <context>
     <name>Logger::LoggerPlugin</name>
     <message>
-        <location filename="src/logger.cpp" line="72"/>
+        <location filename="src/logger.cpp" line="73"/>
         <source>New session started, happy debuging ^_^</source>
-        <translation></translation>
+        <translation>Neue Sitzung wurde gestartet. Fröhliches debuggen! ^_^</translation>
     </message>
 </context>
 <context>
     <name>Plugin</name>
     <message>
         <location filename="src/logger.cpp" line="52"/>
-        <location filename="src/logger.cpp" line="76"/>
+        <location filename="src/logger.cpp" line="77"/>
         <source>Logger</source>
         <translation></translation>
     </message>
@@ -31,20 +31,20 @@
         <translation>Einfacher, dateibasierter Logger zum debuggen</translation>
     </message>
     <message>
-        <location filename="src/logger.cpp" line="80"/>
+        <location filename="src/logger.cpp" line="81"/>
         <source>Select log path</source>
         <translation>Pfad für Logs auswählen</translation>
     </message>
     <message>
-        <location filename="src/logger.cpp" line="84"/>
+        <location filename="src/logger.cpp" line="85"/>
         <source>Enable dump of debug info</source>
-        <translation></translation>
+        <translation>Aktiviere die Speicherung von Debug-Informationen</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
-        <location filename="src/logger.cpp" line="56"/>
+        <location filename="src/logger.cpp" line="57"/>
         <source>Author</source>
         <translation>Autor</translation>
     </message>

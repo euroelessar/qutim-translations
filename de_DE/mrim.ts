@@ -65,12 +65,12 @@ Ungelesene Nachrichten: %2</translation>
 <context>
     <name>MrimConnection</name>
     <message>
-        <location filename="src/base/mrimconnection.cpp" line="244"/>
+        <location filename="src/base/mrimconnection.cpp" line="246"/>
         <source>Another client with same login connected!</source>
         <translation>Ein anderer Client hat sich eingeloggt!</translation>
     </message>
     <message>
-        <location filename="src/base/mrimconnection.cpp" line="463"/>
+        <location filename="src/base/mrimconnection.cpp" line="467"/>
         <source>Authentication failed!
 Reason: %1</source>
         <translation>Authentifizierung fehlgeschlagen!

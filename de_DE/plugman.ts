@@ -174,7 +174,7 @@
     <message>
         <location filename="src/packagedownloaddialog.ui" line="14"/>
         <source>Form</source>
-        <translation></translation>
+        <translation>Paketverwaltung</translation>
     </message>
     <message>
         <location filename="src/packagedownloaddialog.ui" line="26"/>
@@ -245,9 +245,9 @@
 <context>
     <name>PackageManager</name>
     <message>
-        <location filename="src/plugman.cpp" line="39"/>
+        <location filename="src/plugman.cpp" line="40"/>
         <source>Manage packages</source>
-        <translation>Pakete verwalten...</translation>
+        <translation>Paketverwaltung...</translation>
     </message>
 </context>
 <context>
@@ -260,7 +260,7 @@
     <message>
         <location filename="src/plugman.cpp" line="29"/>
         <source>Provides possibility to Get Hot New Stuff from open community</source>
-        <translation>Möglichkeit, brandneue, tolle Sachen von der Community zu bekommen</translation>
+        <translation>Brandneue, tolle Styles von der Community downloaden</translation>
     </message>
 </context>
 <context>

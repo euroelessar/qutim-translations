@@ -4,14 +4,14 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="src/quetzalplugin.cpp" line="612"/>
+        <location filename="src/quetzalplugin.cpp" line="650"/>
         <source>Quetzal</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="src/quetzalplugin.cpp" line="613"/>
-        <location filename="src/quetzalplugin.cpp" line="649"/>
-        <location filename="src/quetzalplugin.cpp" line="653"/>
+        <location filename="src/quetzalplugin.cpp" line="651"/>
+        <location filename="src/quetzalplugin.cpp" line="696"/>
+        <location filename="src/quetzalplugin.cpp" line="700"/>
         <source>&apos;Quetzal&apos; is set of protocols, powered by libpurple</source>
         <translation>&apos;Quetzal&apos; ist eine Protokollsammlung, basierend auf libpurple</translation>
     </message>
@@ -85,7 +85,7 @@ Auf &quot;Fertigstellen&quot; klicken, um das Konto anzulegen</translation>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="src/quetzalprotocol.cpp" line="79"/>
+        <location filename="src/quetzalprotocol.cpp" line="87"/>
         <source>General</source>
         <translation>Allgemein</translation>
     </message>

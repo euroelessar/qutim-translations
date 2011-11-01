@@ -20,7 +20,7 @@
         <location filename="src/aescryptomodule.cpp" line="10"/>
         <location filename="src/aescryptomodule.cpp" line="16"/>
         <source>Default qutIM crypto implementation. Based on algorithm aes256</source>
-        <translation>qutIM&apos;s Standardumsetzung der Verschlüsselung, basierend auf aes256</translation>
+        <translation>Standard-Verschlüsselungsmodul von qutIM (aes256)</translation>
     </message>
     <message>
         <location filename="src/aescryptomodule.cpp" line="15"/>

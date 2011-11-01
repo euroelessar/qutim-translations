@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="src/unreadmessageskeeper.cpp" line="31"/>
+        <location filename="src/unreadmessageskeeper.cpp" line="32"/>
         <source>Sidorov Aleksey</source>
         <translation></translation>
     </message>
@@ -25,7 +25,7 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="src/unreadmessageskeeper.cpp" line="32"/>
+        <location filename="src/unreadmessageskeeper.cpp" line="33"/>
         <source>Developer</source>
         <translation>Entwickler</translation>
     </message>

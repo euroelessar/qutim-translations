@@ -15,10 +15,10 @@
         <location filename="src/handler.cpp" line="41"/>
         <source>Beer, wine, vodka, champagne: after which drink in this sequence I should stop?</source>
         <translation>Hi, ich bin der automatische Anti-Spam-Automat! :-)
-Ich beantworte täglich Millionen von Anfragen, um bösen SPAM von meinem Besitzer fernzuhalten.
-Wenn du mir beantworten kannst, ob du ein Spambot oder ein *Mensch* bist, werde ich dich möglicherweise nicht blockieren und zu meinem Besitzer durchstellen.
 
-Probiers mal, ich warte auf die Antwort ;-)</translation>
+Bitte beantworte diese Nachricht mit
+Hallo, ich bin kein Bot!
+um zu sicher zu gehen, dass du ein Mensch bist.</translation>
     </message>
     <message>
         <location filename="src/handler.cpp" line="42"/>
@@ -28,7 +28,7 @@ Probiers mal, ich warte auf die Antwort ;-)</translation>
     <message>
         <location filename="src/handler.cpp" line="43"/>
         <source>vodka;Vodka</source>
-        <translation>mensch;Mensch</translation>
+        <translation>Hallo, ich bin kein Bot!;hallo, ich bin kein bot!</translation>
     </message>
 </context>
 <context>
@@ -67,10 +67,10 @@ Probiers mal, ich warte auf die Antwort ;-)</translation>
         <location filename="src/settingswidget.cpp" line="47"/>
         <source>Beer, wine, vodka, champagne: after which drink in this sequence I should stop?</source>
         <translation>Hi, ich bin der automatische Anti-Spam-Automat! :-)
-Ich beantworte täglich Millionen von Anfragen, um bösen SPAM von meinem Besitzer fernzuhalten.
-Wenn du mir beantworten kannst, ob du ein Spambot oder ein *Mensch* bist, werde ich dich möglicherweise nicht blockieren und zu meinem Besitzer durchstellen.
 
-Probiers mal, ich warte auf die Antwort ;-)</translation>
+Bitte beantworte diese Nachricht mit
+Hallo, ich bin kein Bot!
+um zu sicher zu gehen, dass du ein Mensch bist.</translation>
     </message>
     <message>
         <location filename="src/settingswidget.cpp" line="48"/>
@@ -80,7 +80,7 @@ Probiers mal, ich warte auf die Antwort ;-)</translation>
     <message>
         <location filename="src/settingswidget.cpp" line="49"/>
         <source>vodka;Vodka</source>
-        <translation>mensch;Mensch</translation>
+        <translation>Hallo, ich bin kein Bot!;hallo, ich bin kein bot!</translation>
     </message>
 </context>
 <context>
@@ -101,13 +101,13 @@ Probiers mal, ich warte auf die Antwort ;-)</translation>
     <message>
         <location filename="src/antispamplugin.cpp" line="30"/>
         <source>Blocks messages from unknown contacts by question-answer pair</source>
-        <translation>Blockiert Nachrichten von unbekannten Kontakten anhand von Frage-Antwort-Paaren</translation>
+        <translation>Blockiert Nachrichten von unbekannten Kontakten, wenn sie eine vorgegebene Frage nicht beantworten können</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="src/handler.cpp" line="77"/>
+        <location filename="src/handler.cpp" line="80"/>
         <source>Message from %1 blocked  on suspicion of spam.</source>
         <translation>Nachricht von %1 wurde wegen Spamverdacht blockiert.</translation>
     </message>

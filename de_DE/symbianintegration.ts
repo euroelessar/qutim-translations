@@ -94,4 +94,12 @@
         <translation>Zeige Benachrichtigungen bei aktivem Chat</translation>
     </message>
 </context>
+<context>
+    <name>Symbian::Vibration</name>
+    <message>
+        <location filename="symbianvibra/symbianvibration.cpp" line="12"/>
+        <source>Vibration</source>
+        <translation></translation>
+    </message>
+</context>
 </TS>

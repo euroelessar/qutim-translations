@@ -168,13 +168,13 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="plugins/identify/clientidentify.cpp" line="41"/>
+        <location filename="plugins/identify/clientidentify.cpp" line="42"/>
         <source>Alexey Ignatiev</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="plugins/identify/clientidentify.cpp" line="44"/>
-        <location filename="plugins/xstatus/xstatus.cpp" line="206"/>
+        <location filename="plugins/identify/clientidentify.cpp" line="45"/>
+        <location filename="plugins/xstatus/xstatus.cpp" line="207"/>
         <location filename="src/oscarplugin.cpp" line="50"/>
         <source>Alexey Prokhin</source>
         <translation></translation>
@@ -196,172 +196,172 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="src/connection.cpp" line="297"/>
+        <location filename="src/connection.cpp" line="298"/>
         <source>Invalid nick or password</source>
         <translation>Ungültiger Name oder Passwort</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="299"/>
+        <location filename="src/connection.cpp" line="300"/>
         <source>Service temporarily unavailable</source>
         <translation>Service temporär nicht verfügbar</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="301"/>
+        <location filename="src/connection.cpp" line="302"/>
         <source>Incorrect nick or password</source>
         <translation>Falscher Name oder Passwort</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="303"/>
+        <location filename="src/connection.cpp" line="304"/>
         <source>Mismatch nick or password</source>
         <translation>Unpassender Name oder Passwort</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="305"/>
+        <location filename="src/connection.cpp" line="306"/>
         <source>Internal client error (bad input to authorizer)</source>
         <translation>Interner Client-Fehler (bad input to authorizer)</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="307"/>
+        <location filename="src/connection.cpp" line="308"/>
         <source>Invalid account</source>
         <translation>Ungültiges Konto</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="309"/>
+        <location filename="src/connection.cpp" line="310"/>
         <source>Deleted account</source>
         <translation>Gelöschtes Konto</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="311"/>
+        <location filename="src/connection.cpp" line="312"/>
         <source>Expired account</source>
         <translation>Abgelaufenes Konto</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="313"/>
+        <location filename="src/connection.cpp" line="314"/>
         <source>No access to database</source>
         <translation>Kein Zugriff zur Datenbank</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="315"/>
+        <location filename="src/connection.cpp" line="316"/>
         <source>No access to resolver</source>
         <translation>Kein Zugriff zum Resolver</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="317"/>
+        <location filename="src/connection.cpp" line="318"/>
         <source>Invalid database fields</source>
         <translation>Ungültige Datenbankfelder</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="319"/>
+        <location filename="src/connection.cpp" line="320"/>
         <source>Bad database status</source>
         <translation>Datenbank in schlechtem Zustand</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="321"/>
+        <location filename="src/connection.cpp" line="322"/>
         <source>Bad resolver status</source>
         <translation>Resolver in schlechtem Zustand</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="323"/>
+        <location filename="src/connection.cpp" line="324"/>
         <source>Internal error</source>
         <translation>Interner Fehler</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="325"/>
+        <location filename="src/connection.cpp" line="326"/>
         <source>Service temporarily offline</source>
         <translation>Service temporär offline</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="327"/>
+        <location filename="src/connection.cpp" line="328"/>
         <source>Suspended account</source>
         <translation>Konto gesperrt</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="329"/>
+        <location filename="src/connection.cpp" line="330"/>
         <source>DB send error</source>
         <translation>Datenbank-Sendefehler</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="331"/>
+        <location filename="src/connection.cpp" line="332"/>
         <source>DB link error</source>
         <translation>Datenbank-Linkfehler</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="333"/>
+        <location filename="src/connection.cpp" line="334"/>
         <source>Reservation map error</source>
         <translation>Map-Reservierungsfehler</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="335"/>
+        <location filename="src/connection.cpp" line="336"/>
         <source>Reservation link error</source>
         <translation>Link-Reservierungsfehler</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="337"/>
+        <location filename="src/connection.cpp" line="338"/>
         <source>The users num connected from this IP has reached the maximum</source>
         <translation>Verbindungen von dieser IP-Adresse haben das Maximum erreicht</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="339"/>
+        <location filename="src/connection.cpp" line="340"/>
         <source>The users num connected from this IP has reached the maximum (reservation)</source>
         <translation>Reservierungen von dieser IP-Adresse haben das Maximum erreicht</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="341"/>
+        <location filename="src/connection.cpp" line="342"/>
         <source>Rate limit exceeded (reservation). Please try to reconnect in a few minutes</source>
         <translation>Sie haben zu oft versucht sich anzumelden/zu reservieren! Versuchen Sie es in einigen Minuten wieder</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="343"/>
+        <location filename="src/connection.cpp" line="344"/>
         <source>User too heavily warned</source>
         <translation>Dieses Konto hat zu viele Warnungen erhalten. Bitte später erneut versuchen</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="345"/>
+        <location filename="src/connection.cpp" line="346"/>
         <source>Reservation timeout</source>
         <translation>Resevierungs-Timeout</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="347"/>
+        <location filename="src/connection.cpp" line="348"/>
         <source>You are using an older version of ICQ. Upgrade required</source>
         <translation>Sie benutzen eine alte Client-Version. Upgrade erforderlich</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="349"/>
+        <location filename="src/connection.cpp" line="350"/>
         <source>You are using an older version of ICQ. Upgrade recommended</source>
         <translation>Sie benutzen eine alte Client-Version. Upgrade empfehlenswert</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="351"/>
+        <location filename="src/connection.cpp" line="352"/>
         <source>Rate limit exceeded. Please try to reconnect in a few minutes</source>
         <translation>Sie haben zu oft versucht sich anzumelden! Versuchen Sie es in einigen Minuten wieder</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="353"/>
+        <location filename="src/connection.cpp" line="354"/>
         <source>Can&apos;t register on the ICQ network. Reconnect in a few minutes</source>
         <translation>Keine Anmeldung bei ICQ möglich. In ein paar Minuten wieder versuchen</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="355"/>
+        <location filename="src/connection.cpp" line="356"/>
         <source>Invalid SecurID</source>
         <translation>Ungültige SecurID</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="357"/>
+        <location filename="src/connection.cpp" line="358"/>
         <source>Account suspended because of your age (age &lt; 13)</source>
         <translation>Konto gesperrt wegen deinem Alter (&lt; 13)</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="359"/>
+        <location filename="src/connection.cpp" line="360"/>
         <source>Another client is loggin with this uin</source>
         <translation>Ihre UIN wird auf einem anderen Computer verwendet</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="361"/>
+        <location filename="src/connection.cpp" line="362"/>
         <source>No IP addresses were found for the host</source>
         <translation>Für den Host wurden keine IP-Adressen gefunden</translation>
     </message>
     <message>
-        <location filename="src/connection.cpp" line="365"/>
+        <location filename="src/connection.cpp" line="366"/>
         <source>Unknown error</source>
         <translation>Unbekannter Fehler</translation>
     </message>
@@ -369,144 +369,149 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="src/inforequest.cpp" line="38"/>
+        <location filename="src/inforequest.cpp" line="146"/>
         <source>General</source>
         <translation>Allgemein</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="40"/>
+        <location filename="src/inforequest.cpp" line="149"/>
+        <source>Avatar</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="src/inforequest.cpp" line="157"/>
         <source>Name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="47"/>
+        <location filename="src/inforequest.cpp" line="164"/>
         <source>Account info</source>
         <translation>Konto-Informationen</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="49"/>
+        <location filename="src/inforequest.cpp" line="166"/>
         <source>UIN</source>
         <translation>UIN</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="50"/>
+        <location filename="src/inforequest.cpp" line="167"/>
         <source>Registration</source>
         <translation>Registrierung</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="54"/>
+        <location filename="src/inforequest.cpp" line="171"/>
         <source> (private)</source>
         <translation> (privat)</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="55"/>
-        <location filename="src/inforequest.cpp" line="57"/>
+        <location filename="src/inforequest.cpp" line="172"/>
+        <location filename="src/inforequest.cpp" line="174"/>
         <source>Email</source>
         <translation>E-Mail</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="67"/>
+        <location filename="src/inforequest.cpp" line="184"/>
         <source>Home</source>
         <translation>Privat</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="69"/>
+        <location filename="src/inforequest.cpp" line="186"/>
         <source>Home address</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="81"/>
+        <location filename="src/inforequest.cpp" line="198"/>
         <source>Originally from</source>
         <translation>Ursprünglich aus</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="91"/>
+        <location filename="src/inforequest.cpp" line="208"/>
         <source>Work</source>
         <translation>Arbeit</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="93"/>
+        <location filename="src/inforequest.cpp" line="210"/>
         <source>Work address</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="104"/>
+        <location filename="src/inforequest.cpp" line="221"/>
         <source>Company</source>
         <translation>Firma</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="116"/>
-        <location filename="src/inforequest.cpp" line="118"/>
+        <location filename="src/inforequest.cpp" line="233"/>
+        <location filename="src/inforequest.cpp" line="235"/>
         <source>Personal</source>
         <translation>Persönliches</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="132"/>
+        <location filename="src/inforequest.cpp" line="249"/>
         <source>About</source>
         <translation>Über mich</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="134"/>
+        <location filename="src/inforequest.cpp" line="251"/>
         <source>Notes</source>
         <translation>Notizen</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="143"/>
+        <location filename="src/inforequest.cpp" line="260"/>
         <source>Other</source>
         <translation>Sonstiges</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="146"/>
+        <location filename="src/inforequest.cpp" line="263"/>
         <source>Internal IP</source>
         <translation>Interne IP</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="147"/>
+        <location filename="src/inforequest.cpp" line="264"/>
         <source>External IP</source>
         <translation>Externe IP</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="148"/>
+        <location filename="src/inforequest.cpp" line="265"/>
         <source>Port</source>
         <translation>Port</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="149"/>
+        <location filename="src/inforequest.cpp" line="266"/>
         <source>Protocol version</source>
         <translation>Protokoll-Version</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="154"/>
+        <location filename="src/inforequest.cpp" line="271"/>
         <source>Capabilities</source>
         <translation>Fähigkeiten</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="157"/>
+        <location filename="src/inforequest.cpp" line="274"/>
         <source>Direct connection extra info</source>
         <translation>Direktverbindung Extrainformationen</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="158"/>
+        <location filename="src/inforequest.cpp" line="275"/>
         <source>Last info update</source>
         <translation>Letztes Info-Update</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="160"/>
+        <location filename="src/inforequest.cpp" line="277"/>
         <source>Last ext info update</source>
         <translation>Letztes Extrainfo-Update</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="162"/>
+        <location filename="src/inforequest.cpp" line="279"/>
         <source>Last ext status update</source>
         <translation>Letztes Extrastatus-Update</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="164"/>
+        <location filename="src/inforequest.cpp" line="281"/>
         <source>Client features</source>
         <translation>Client-Fähigkeiten</translation>
     </message>
     <message>
-        <location filename="src/inforequest.cpp" line="166"/>
+        <location filename="src/inforequest.cpp" line="283"/>
         <source>Cookie</source>
         <translation>Cookie</translation>
     </message>
@@ -524,42 +529,42 @@
         <translation>Erlaubnisanfrage senden</translation>
     </message>
     <message>
-        <location filename="src/authorization.cpp" line="82"/>
+        <location filename="src/authorization.cpp" line="80"/>
         <source>Authorization request accepted</source>
         <translation>Erlaubnisanfrage akzeptiert</translation>
     </message>
     <message>
-        <location filename="src/authorization.cpp" line="83"/>
+        <location filename="src/authorization.cpp" line="81"/>
         <source>Authorization request declined</source>
         <translation>Erlaubnisanfrage abgelehnt</translation>
     </message>
     <message>
-        <location filename="src/authorization.cpp" line="121"/>
+        <location filename="src/authorization.cpp" line="119"/>
         <source>Please, authorize me</source>
         <translation>Bitte autorisieren Sie mich</translation>
     </message>
     <message>
-        <location filename="src/icqcontact.cpp" line="128"/>
+        <location filename="src/icqcontact.cpp" line="127"/>
         <source>General</source>
         <translation>Allgemein</translation>
     </message>
     <message>
-        <location filename="src/icqcontact.cpp" line="374"/>
+        <location filename="src/icqcontact.cpp" line="386"/>
         <source>Online time</source>
         <translation>Online seit</translation>
     </message>
     <message>
-        <location filename="src/icqcontact.cpp" line="381"/>
+        <location filename="src/icqcontact.cpp" line="393"/>
         <source>Signed on</source>
         <translation>Eingeloggt seit</translation>
     </message>
     <message>
-        <location filename="src/icqcontact.cpp" line="386"/>
+        <location filename="src/icqcontact.cpp" line="398"/>
         <source>Away since</source>
         <translation>Abwesend seit</translation>
     </message>
     <message>
-        <location filename="src/icqcontact.cpp" line="391"/>
+        <location filename="src/icqcontact.cpp" line="403"/>
         <source>Reg. date</source>
         <translation>Registriert seit</translation>
     </message>
@@ -1850,22 +1855,22 @@
     <message>
         <location filename="src/feedbag.cpp" line="116"/>
         <source>No error</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Fehler</translation>
     </message>
     <message>
         <location filename="src/feedbag.cpp" line="118"/>
         <source>Item you want to modify not found in list</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu änderndes Objekt wurde nicht in der Liste gefunden</translation>
     </message>
     <message>
         <location filename="src/feedbag.cpp" line="120"/>
         <source>Item you want to add allready exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt existiert bereits</translation>
     </message>
     <message>
         <location filename="src/feedbag.cpp" line="122"/>
         <source>Error adding item (invalid id, allready in list, invalid data)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Hinzufügen (ungültige ID, bereits in der Liste, ungültige Daten)</translation>
     </message>
     <message>
         <location filename="src/feedbag.cpp" line="124"/>
@@ -1885,7 +1890,7 @@
     <message>
         <location filename="src/feedbag.cpp" line="130"/>
         <source>Unknown error</source>
-        <translation type="unfinished">Unbekannter Fehler</translation>
+        <translation>Unbekannter Fehler</translation>
     </message>
 </context>
 <context>
@@ -1954,82 +1959,82 @@
     <message>
         <location filename="src/metainfo/metafields.cpp" line="485"/>
         <source>Construction</source>
-        <translation type="unfinished"></translation>
+        <translation>Baugewerbe</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="486"/>
         <source>Consumer Goods</source>
-        <translation type="unfinished"></translation>
+        <translation>Konsumgüter</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="487"/>
         <source>Corporate Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Unternehmensdienstleistungen</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="488"/>
         <source>Education</source>
-        <translation type="unfinished">Lehrer</translation>
+        <translation>Bildung/Erziehung</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="489"/>
         <source>Finance</source>
-        <translation type="unfinished"></translation>
+        <translation>Finanzen</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="490"/>
         <source>Government</source>
-        <translation type="unfinished">Regierung</translation>
+        <translation>Regierung</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="491"/>
         <source>High Tech</source>
-        <translation type="unfinished"></translation>
+        <translation>High-Tech</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="492"/>
         <source>Legal</source>
-        <translation type="unfinished"></translation>
+        <translation>Justizwesen</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="493"/>
         <source>Manufacturing</source>
-        <translation type="unfinished">Materialverarbeitender Beruf</translation>
+        <translation>Produktion</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="494"/>
         <source>Media</source>
-        <translation type="unfinished">Medien</translation>
+        <translation>Medien</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="495"/>
         <source>Medical &amp; Health Care</source>
-        <translation type="unfinished"></translation>
+        <translation>Medizin und Gesundheitswesen</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="496"/>
         <source>Non-Profit Organization Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Wohltätige Organisationen</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="497"/>
         <source>Other</source>
-        <translation type="unfinished">Sonstiges</translation>
+        <translation>Sonstige</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="498"/>
         <source>Recreation, Travel &amp; Entertainment</source>
-        <translation type="unfinished"></translation>
+        <translation>Erholung, Reise &amp; Unterhaltung</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="499"/>
         <source>Service Industry</source>
-        <translation type="unfinished"></translation>
+        <translation>Dienstleistungswesen</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="500"/>
         <source>Transportation</source>
-        <translation type="unfinished"></translation>
+        <translation>Transportwesen</translation>
     </message>
 </context>
 <context>
@@ -2037,252 +2042,252 @@
     <message>
         <location filename="src/metainfo/metafields.cpp" line="279"/>
         <source>50&apos;s</source>
-        <translation type="unfinished">50er</translation>
+        <translation>50er</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="280"/>
         <source>60&apos;s</source>
-        <translation type="unfinished">60er</translation>
+        <translation>60er</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="281"/>
         <source>70&apos;s</source>
-        <translation type="unfinished">70er</translation>
+        <translation>70er</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="282"/>
         <source>80&apos;s</source>
-        <translation type="unfinished">80er</translation>
+        <translation>80er</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="283"/>
         <source>Art</source>
-        <translation type="unfinished">Kunst</translation>
+        <translation>Kunst</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="284"/>
         <source>Astronomy</source>
-        <translation type="unfinished">Astronomie</translation>
+        <translation>Astronomie</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="285"/>
         <source>Audio and Visual</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio und visuell</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="286"/>
         <source>Business</source>
-        <translation type="unfinished">Business</translation>
+        <translation>Gewerbebetrieb</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="287"/>
         <source>Business Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Dienstleistungsunternehmen</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="288"/>
         <source>Cars</source>
-        <translation type="unfinished">Autos</translation>
+        <translation>Autos</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="289"/>
         <source>Celebrity Fans</source>
-        <translation type="unfinished">Fan einer Berühmtheit</translation>
+        <translation>Bewunderer von Berühmtheiten</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="290"/>
         <source>Clothing</source>
-        <translation type="unfinished">Kleidung</translation>
+        <translation>Kleidung</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="291"/>
         <source>Collections</source>
-        <translation type="unfinished">Sammeln</translation>
+        <translation>Sammlungen</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="292"/>
         <source>Computers</source>
-        <translation type="unfinished">Computer</translation>
+        <translation>Computer</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="293"/>
         <source>Culture</source>
-        <translation type="unfinished"></translation>
+        <translation>Kultur</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="294"/>
         <source>Ecology</source>
-        <translation type="unfinished"></translation>
+        <translation>Ökologie</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="295"/>
         <source>Entertainment</source>
-        <translation type="unfinished">Unterhaltung</translation>
+        <translation>Unterhaltung</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="296"/>
         <source>Finance and Corporate</source>
-        <translation type="unfinished"></translation>
+        <translation>Finanzwesen und Körperschaft</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="297"/>
         <source>Fitness</source>
-        <translation type="unfinished">Fitness</translation>
+        <translation>Fitness</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="298"/>
         <source>Health and Beauty</source>
-        <translation type="unfinished"></translation>
+        <translation>Gesundheit und Schönheit</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="299"/>
         <source>Hobbies</source>
-        <translation type="unfinished">Hobbys</translation>
+        <translation>Hobbys</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="300"/>
         <source>Home Automation</source>
-        <translation type="unfinished"></translation>
+        <translation>Haustechnik</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="301"/>
         <source>Household Products</source>
-        <translation type="unfinished"></translation>
+        <translation>Haushaltsprodukte</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="302"/>
         <source>Games</source>
-        <translation type="unfinished">Spiele</translation>
+        <translation>Spiele</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="303"/>
         <source>Government</source>
-        <translation type="unfinished">Regierung</translation>
+        <translation>Regierung</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="304"/>
         <source>ICQ - Help</source>
-        <translation type="unfinished"></translation>
+        <translation>ICQ Hilfe</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="305"/>
         <source>Internet</source>
-        <translation type="unfinished">Internet</translation>
+        <translation>Internet</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="306"/>
         <source>Lifestyle</source>
-        <translation type="unfinished">Lifestyle</translation>
+        <translation>Lifestyle</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="307"/>
         <source>Mail Order Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Versandhauskatalog</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="308"/>
         <source>Media</source>
-        <translation type="unfinished">Medien</translation>
+        <translation>Medien</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="309"/>
         <source>Movies and TV</source>
-        <translation type="unfinished"></translation>
+        <translation>Filme und TV</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="310"/>
         <source>Music</source>
-        <translation type="unfinished">Musik</translation>
+        <translation>Musik</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="311"/>
         <source>Mystics</source>
-        <translation type="unfinished">Mystik/Esoterik</translation>
+        <translation>Mystik</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="312"/>
         <source>News and Media</source>
-        <translation type="unfinished"></translation>
+        <translation>Nachrichten und Medien</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="313"/>
         <source>Outdoors</source>
-        <translation type="unfinished"></translation>
+        <translation>Draußen</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="314"/>
         <source>Parenting</source>
-        <translation type="unfinished">Kindererziehung</translation>
+        <translation>Kindererziehung</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="315"/>
         <source>Parties</source>
-        <translation type="unfinished">Partys</translation>
+        <translation>Partys</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="316"/>
         <source>Pets and Animals</source>
-        <translation type="unfinished"></translation>
+        <translation>Haustiere und Tiere</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="317"/>
         <source>Publishing</source>
-        <translation type="unfinished">Verlagswesen</translation>
+        <translation>Verlagswesen</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="318"/>
         <source>Religion</source>
-        <translation type="unfinished">Religion</translation>
+        <translation>Religion</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="319"/>
         <source>Retail Stores</source>
-        <translation type="unfinished"></translation>
+        <translation>Einzelhandelsgeschäfte</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="320"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Naturwissenschaft</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="321"/>
         <source>Skills</source>
-        <translation type="unfinished">Skills</translation>
+        <translation>Fachkenntnisse</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="322"/>
         <source>Social science</source>
-        <translation type="unfinished">Sozialwissenschaften</translation>
+        <translation>Sozialwissenschaft</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="323"/>
         <source>Space</source>
-        <translation type="unfinished">Weltall</translation>
+        <translation>Weltall</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="324"/>
         <source>Sporting and Athletic</source>
-        <translation type="unfinished"></translation>
+        <translation>Sport und Athletik</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="325"/>
         <source>Sports</source>
-        <translation type="unfinished">Sport</translation>
+        <translation>Sport</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="326"/>
         <source>Travel</source>
-        <translation type="unfinished">Reisen</translation>
+        <translation>Reisen</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="327"/>
         <source>Web Design</source>
-        <translation type="unfinished">Webdesign</translation>
+        <translation>Webgestaltung</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="328"/>
         <source>Women</source>
-        <translation type="unfinished">Frauen</translation>
+        <translation>Frauen</translation>
     </message>
 </context>
 <context>
@@ -2818,7 +2823,7 @@
     <message>
         <location filename="src/metainfo/metafields.cpp" line="665"/>
         <source>Pasts</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergangenheit</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="667"/>
@@ -3098,7 +3103,7 @@
     <message>
         <location filename="src/metainfo/metafields.cpp" line="425"/>
         <source>Elementary School</source>
-        <translation type="unfinished"></translation>
+        <translation>Grundschule</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="426"/>
@@ -3113,27 +3118,27 @@
     <message>
         <location filename="src/metainfo/metafields.cpp" line="428"/>
         <source>University</source>
-        <translation type="unfinished"></translation>
+        <translation>Universität</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="429"/>
         <source>Military</source>
-        <translation type="unfinished">Militär</translation>
+        <translation>Militär</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="430"/>
         <source>Past Work Place</source>
-        <translation type="unfinished"></translation>
+        <translation>Früherer Arbeitsplatz</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="431"/>
         <source>Past Organization</source>
-        <translation type="unfinished"></translation>
+        <translation>Frühere Firma</translation>
     </message>
     <message>
         <location filename="src/metainfo/metafields.cpp" line="432"/>
         <source>Other</source>
-        <translation type="unfinished">Sonstiges</translation>
+        <translation>Sonstiges</translation>
     </message>
 </context>
 <context>
@@ -3141,120 +3146,120 @@
     <message>
         <location filename="plugins/identify/clientidentify.cpp" line="38"/>
         <source>OscarIdentify</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="plugins/identify/clientidentify.cpp" line="39"/>
-        <location filename="plugins/identify/clientidentify.cpp" line="48"/>
+        <location filename="plugins/identify/clientidentify.cpp" line="49"/>
         <source>Client identificaton for oscar contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Clienterkennung für OSCAR-Kontakte</translation>
     </message>
     <message>
-        <location filename="plugins/identify/clientidentify.cpp" line="47"/>
-        <location filename="plugins/xstatus/xstatus.cpp" line="210"/>
+        <location filename="plugins/identify/clientidentify.cpp" line="48"/>
+        <location filename="plugins/xstatus/xstatus.cpp" line="211"/>
         <location filename="src/oscarplugin.cpp" line="53"/>
         <source>ICQ</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="plugins/xstatus/xstatus.cpp" line="202"/>
         <source>OscarXStatus</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="plugins/xstatus/xstatus.cpp" line="203"/>
-        <location filename="plugins/xstatus/xstatus.cpp" line="211"/>
+        <location filename="plugins/xstatus/xstatus.cpp" line="212"/>
         <source>Additional statuses for oscar protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterte Status für das OSCAR-Protokoll</translation>
     </message>
     <message>
-        <location filename="plugins/xstatus/xstatus.cpp" line="215"/>
         <location filename="plugins/xstatus/xstatus.cpp" line="216"/>
+        <location filename="plugins/xstatus/xstatus.cpp" line="217"/>
         <source>XStatus settings</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/oscarplugin.cpp" line="44"/>
         <source>Oscar</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/oscarplugin.cpp" line="45"/>
         <source>Module-based implementation of Oscar protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul für das OSCAR-Protokoll</translation>
     </message>
     <message>
         <location filename="src/oscarplugin.cpp" line="54"/>
         <source>Module-based implementation of ICQ protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul für das ICQ-Protokoll</translation>
     </message>
     <message>
         <location filename="src/oscarplugin.cpp" line="57"/>
         <source>ICQ account creator</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/oscarplugin.cpp" line="58"/>
         <source>Account creator for module-based implementation of ICQ protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Konten für das ICQ-Protokoll erstellen</translation>
     </message>
     <message>
         <location filename="src/oscarplugin.cpp" line="61"/>
         <location filename="src/oscarplugin.cpp" line="62"/>
         <source>Oscar roster</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/oscarplugin.cpp" line="65"/>
         <location filename="src/oscarplugin.cpp" line="66"/>
         <source>Oscar messages</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/oscarplugin.cpp" line="69"/>
         <location filename="src/oscarplugin.cpp" line="70"/>
         <source>Oscar file transfer protocol</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/oscarplugin.cpp" line="73"/>
         <location filename="src/oscarplugin.cpp" line="74"/>
         <source>Oscar file transfer settings</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/oscarplugin.cpp" line="77"/>
         <location filename="src/oscarplugin.cpp" line="78"/>
         <source>MetaInfo icq service</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/oscarplugin.cpp" line="81"/>
         <location filename="src/oscarplugin.cpp" line="82"/>
         <source>Oscar authorization support</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/oscarplugin.cpp" line="85"/>
         <location filename="src/oscarplugin.cpp" line="86"/>
         <source>Oscar privacy lists</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/oscarplugin.cpp" line="89"/>
         <source>Oscar contact search</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/oscarplugin.cpp" line="90"/>
         <source>Oscar contact search implementation</source>
-        <translation type="unfinished"></translation>
+        <translation>Suche nach Kontakten im OSCAR-Protokoll</translation>
     </message>
     <message>
         <location filename="src/oscarplugin.cpp" line="93"/>
         <location filename="src/oscarplugin.cpp" line="94"/>
         <source>Oscar proxy support</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3426,12 +3431,12 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="src/icqprotocol.cpp" line="61"/>
+        <location filename="src/icqprotocol.cpp" line="63"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
     <message>
-        <location filename="src/icqprotocol.cpp" line="66"/>
+        <location filename="src/icqprotocol.cpp" line="68"/>
         <source>Icq account settings</source>
         <translation>ICQ Kontoeinstellungen</translation>
     </message>
@@ -3439,32 +3444,32 @@
 <context>
     <name>Status</name>
     <message>
-        <location filename="plugins/xstatus/xstatus.cpp" line="250"/>
+        <location filename="plugins/xstatus/xstatus.cpp" line="251"/>
         <source>Angry</source>
         <translation>Böse</translation>
     </message>
     <message>
-        <location filename="plugins/xstatus/xstatus.cpp" line="252"/>
+        <location filename="plugins/xstatus/xstatus.cpp" line="253"/>
         <source>Depression</source>
         <translation>Depressiv</translation>
     </message>
     <message>
-        <location filename="plugins/xstatus/xstatus.cpp" line="254"/>
+        <location filename="plugins/xstatus/xstatus.cpp" line="255"/>
         <source>At home</source>
         <translation>Zu Hause</translation>
     </message>
     <message>
-        <location filename="plugins/xstatus/xstatus.cpp" line="256"/>
+        <location filename="plugins/xstatus/xstatus.cpp" line="257"/>
         <source>At work</source>
         <translation>In der Arbeit</translation>
     </message>
     <message>
-        <location filename="plugins/xstatus/xstatus.cpp" line="258"/>
+        <location filename="plugins/xstatus/xstatus.cpp" line="259"/>
         <source>Eating</source>
         <translation>Essen</translation>
     </message>
     <message>
-        <location filename="plugins/xstatus/xstatus.cpp" line="265"/>
+        <location filename="plugins/xstatus/xstatus.cpp" line="266"/>
         <source>Custom status</source>
         <translation>Persönlicher Status</translation>
     </message>
@@ -3520,9 +3525,9 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="plugins/identify/clientidentify.cpp" line="42"/>
-        <location filename="plugins/identify/clientidentify.cpp" line="45"/>
-        <location filename="plugins/xstatus/xstatus.cpp" line="207"/>
+        <location filename="plugins/identify/clientidentify.cpp" line="43"/>
+        <location filename="plugins/identify/clientidentify.cpp" line="46"/>
+        <location filename="plugins/xstatus/xstatus.cpp" line="208"/>
         <location filename="src/oscarplugin.cpp" line="48"/>
         <location filename="src/oscarplugin.cpp" line="51"/>
         <source>Author</source>
@@ -3766,13 +3771,13 @@
 <context>
     <name>qutim_sdk_0_3::oscar::ClientIdentify</name>
     <message>
-        <location filename="plugins/identify/clientidentify.cpp" line="72"/>
-        <location filename="plugins/identify/clientidentify.cpp" line="198"/>
+        <location filename="plugins/identify/clientidentify.cpp" line="73"/>
+        <location filename="plugins/identify/clientidentify.cpp" line="199"/>
         <source>Possible client</source>
         <translation>Möglicher Client</translation>
     </message>
     <message>
-        <location filename="plugins/identify/clientidentify.cpp" line="73"/>
+        <location filename="plugins/identify/clientidentify.cpp" line="74"/>
         <source>Show client icon</source>
         <translation>Zeige Client-Symbole</translation>
     </message>
@@ -3810,6 +3815,11 @@
         <source>Don&apos;t send requests for avatarts</source>
         <translation>Keine Anfragen für Avatare senden</translation>
     </message>
+    <message>
+        <location filename="src/ui/icqmainsettings.cpp" line="150"/>
+        <source>Support AIM contacts</source>
+        <translation>AIM-Kontakte aktivieren</translation>
+    </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::oscar::Md5Login</name>
@@ -3830,48 +3840,48 @@
 <context>
     <name>qutim_sdk_0_3::oscar::OftConnection</name>
     <message>
-        <location filename="src/oscarfiletransfer.cpp" line="862"/>
+        <location filename="src/oscarfiletransfer.cpp" line="861"/>
         <source>Could not open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Konnte %1 nicht öffnen</translation>
     </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::oscar::OftFileTransferFactory</name>
     <message>
-        <location filename="src/oscarfiletransfer.cpp" line="1035"/>
+        <location filename="src/oscarfiletransfer.cpp" line="1034"/>
         <source>Oscar</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::oscar::OftSocket</name>
     <message>
-        <location filename="src/oscarfiletransfer.cpp" line="234"/>
+        <location filename="src/oscarfiletransfer.cpp" line="233"/>
         <source>The file transfer proxy server is not available</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Proxy-Server für Dateiübertragung ist nicht verfügbar</translation>
     </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::oscar::OscarFileTransferSettings</name>
     <message>
-        <location filename="src/oscarfiletransfer.cpp" line="1223"/>
+        <location filename="src/oscarfiletransfer.cpp" line="1222"/>
         <source>File transfer</source>
         <translation>Dateiübertragung</translation>
     </message>
     <message>
-        <location filename="src/oscarfiletransfer.cpp" line="1226"/>
+        <location filename="src/oscarfiletransfer.cpp" line="1225"/>
         <source>Always use file transfer proxy</source>
         <translation>Immer Proxy für Dateiübertragungen verwenden</translation>
     </message>
     <message>
-        <location filename="src/oscarfiletransfer.cpp" line="1232"/>
+        <location filename="src/oscarfiletransfer.cpp" line="1231"/>
         <source>Accept incoming connections on any port</source>
-        <translation type="unfinished"></translation>
+        <translation>Akzeptiere eingehende Verbindungen auf allen Ports</translation>
     </message>
     <message>
-        <location filename="src/oscarfiletransfer.cpp" line="1244"/>
+        <location filename="src/oscarfiletransfer.cpp" line="1243"/>
         <source>Local ports</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokale Ports</translation>
     </message>
 </context>
 <context>
@@ -3895,12 +3905,12 @@
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="plugins/xstatus/xstatus.cpp" line="421"/>
+        <location filename="plugins/xstatus/xstatus.cpp" line="422"/>
         <source>X-Status</source>
         <translation>x-Status</translation>
     </message>
     <message>
-        <location filename="plugins/xstatus/xstatus.cpp" line="422"/>
+        <location filename="plugins/xstatus/xstatus.cpp" line="423"/>
         <source>Show contact X-Status icon</source>
         <translation>Zeige x-Statussymbole</translation>
     </message>

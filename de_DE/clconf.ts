@@ -22,7 +22,7 @@
     <message>
         <location filename="src/clconfplugin.cpp" line="32"/>
         <source>Conferences in contact list</source>
-        <translation></translation>
+        <translation>ClConf</translation>
     </message>
     <message>
         <location filename="src/clconfplugin.cpp" line="33"/>

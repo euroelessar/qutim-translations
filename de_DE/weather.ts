@@ -123,12 +123,12 @@ p, li { white-space: pre-wrap; }
         <translation>Wetter</translation>
     </message>
     <message>
-        <location filename="src/weather.cpp" line="34"/>
+        <location filename="src/weather.cpp" line="35"/>
         <source>Get weather</source>
         <translation>Wetter abfragen</translation>
     </message>
     <message>
-        <location filename="src/weather.cpp" line="38"/>
+        <location filename="src/weather.cpp" line="39"/>
         <source>Get weather forecast</source>
         <translation>Wettervorhersage</translation>
     </message>

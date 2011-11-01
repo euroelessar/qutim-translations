@@ -4,27 +4,27 @@
 <context>
     <name>AWNService</name>
     <message>
-        <location filename="src/awnservice.cpp" line="276"/>
+        <location filename="src/awnservice.cpp" line="271"/>
         <source>Show/Hide</source>
         <translation>Anzeigen / Verstecken</translation>
     </message>
     <message>
-        <location filename="src/awnservice.cpp" line="277"/>
+        <location filename="src/awnservice.cpp" line="272"/>
         <source>Read all messages</source>
         <translation>Alle Nachrichten lesen</translation>
     </message>
     <message>
-        <location filename="src/awnservice.cpp" line="278"/>
+        <location filename="src/awnservice.cpp" line="273"/>
         <source>Go online</source>
         <translation>Online gehen</translation>
     </message>
     <message>
-        <location filename="src/awnservice.cpp" line="279"/>
+        <location filename="src/awnservice.cpp" line="274"/>
         <source>Go offline</source>
         <translation>Offline gehen</translation>
     </message>
     <message>
-        <location filename="src/awnservice.cpp" line="280"/>
+        <location filename="src/awnservice.cpp" line="275"/>
         <source>Exit QutIM</source>
         <translation>qutIM beenden</translation>
     </message>
@@ -49,7 +49,7 @@
         <location filename="src/awn.cpp" line="32"/>
         <location filename="src/awn.cpp" line="37"/>
         <source>Avant window navigator dock integration</source>
-        <translation>Avant Window Navigator Dock Integration</translation>
+        <translation>Integration in den &quot;Avant Window Navigator Dock&quot;</translation>
     </message>
 </context>
 <context>

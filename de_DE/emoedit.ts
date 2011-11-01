@@ -19,7 +19,7 @@
     <message>
         <location filename="src/emoeditplugin.cpp" line="55"/>
         <source>Add emoticons to text edit widget</source>
-        <translation>Emoticons zum Text-Edit-Widget hinzufügen</translation>
+        <translation>Emoticons im Text-Edit-Widget anzeigen</translation>
     </message>
 </context>
 <context>

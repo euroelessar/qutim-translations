@@ -13,13 +13,11 @@
     <name>Plugin</name>
     <message>
         <location filename="src/indicator.cpp" line="30"/>
-        <location filename="src/indicator.cpp" line="35"/>
         <source>Indicator</source>
         <translation></translation>
     </message>
     <message>
         <location filename="src/indicator.cpp" line="31"/>
-        <location filename="src/indicator.cpp" line="36"/>
         <source>Ubuntu Indicator applet integration</source>
         <translation>Ubuntu Indicator-Applet Integration</translation>
     </message>

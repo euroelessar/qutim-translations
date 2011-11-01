@@ -4,22 +4,22 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="src/yandexnarod.cpp" line="48"/>
+        <location filename="src/yandexnarod.cpp" line="46"/>
         <source>Sidorov Aleksey</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="src/yandexnarod.cpp" line="52"/>
+        <location filename="src/yandexnarod.cpp" line="50"/>
         <source>Ruslan Nigmatullin</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="src/yandexnarod.cpp" line="55"/>
+        <location filename="src/yandexnarod.cpp" line="53"/>
         <source>Alexey Prokhin</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="src/yandexnarod.cpp" line="58"/>
+        <location filename="src/yandexnarod.cpp" line="56"/>
         <source>Alexander Kazarin</source>
         <translation></translation>
     </message>
@@ -27,18 +27,18 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="src/yandexnarod.cpp" line="45"/>
+        <location filename="src/yandexnarod.cpp" line="42"/>
         <source>YandexNarod</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="src/yandexnarod.cpp" line="46"/>
-        <location filename="src/yandexnarod.cpp" line="62"/>
+        <location filename="src/yandexnarod.cpp" line="43"/>
+        <location filename="src/yandexnarod.cpp" line="60"/>
         <source>Send files via Yandex.Narod filehosting service</source>
         <translation>Dateien über den Yandex Narod Dateihosting-Service versenden</translation>
     </message>
     <message>
-        <location filename="src/yandexnarod.cpp" line="61"/>
+        <location filename="src/yandexnarod.cpp" line="59"/>
         <source>Yandex.Narod</source>
         <translation></translation>
     </message>
@@ -46,14 +46,14 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="src/yandexnarod.cpp" line="49"/>
-        <location filename="src/yandexnarod.cpp" line="53"/>
+        <location filename="src/yandexnarod.cpp" line="47"/>
+        <location filename="src/yandexnarod.cpp" line="51"/>
         <source>Developer</source>
         <translation>Entwickler</translation>
     </message>
     <message>
-        <location filename="src/yandexnarod.cpp" line="56"/>
-        <location filename="src/yandexnarod.cpp" line="59"/>
+        <location filename="src/yandexnarod.cpp" line="54"/>
+        <location filename="src/yandexnarod.cpp" line="57"/>
         <source>Author</source>
         <translation>Autor</translation>
     </message>
@@ -61,7 +61,7 @@
 <context>
     <name>Yandex</name>
     <message>
-        <location filename="src/yandexnarod.cpp" line="72"/>
+        <location filename="src/yandexnarod.cpp" line="70"/>
         <source>Yandex Narod</source>
         <translation></translation>
     </message>
@@ -69,32 +69,32 @@
 <context>
     <name>YandexNarodAuthorizator</name>
     <message>
-        <location filename="src/yandexnarodauthorizator.cpp" line="82"/>
+        <location filename="src/yandexnarodauthorizator.cpp" line="89"/>
         <source>Has no login or password</source>
         <translation>Hat keinen Login oder Passwort</translation>
     </message>
     <message>
-        <location filename="src/yandexnarodauthorizator.cpp" line="91"/>
+        <location filename="src/yandexnarodauthorizator.cpp" line="98"/>
         <source>Authorization succeed</source>
         <translation>Autorisierung erfolgreich</translation>
     </message>
     <message>
-        <location filename="src/yandexnarodauthorizator.cpp" line="95"/>
+        <location filename="src/yandexnarodauthorizator.cpp" line="102"/>
         <source>Authorization failured</source>
         <translation>Autorisierung fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="src/yandexnarodauthorizator.cpp" line="169"/>
+        <location filename="src/yandexnarodauthorizator.cpp" line="176"/>
         <source>Unsupported grant type. Inform developers.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/yandexnarodauthorizator.cpp" line="171"/>
+        <location filename="src/yandexnarodauthorizator.cpp" line="178"/>
         <source>Invalid request. Inform developers.</source>
         <translation>Ungültige Anfrage. Bitte die Entwickler informieren.</translation>
     </message>
     <message>
-        <location filename="src/yandexnarodauthorizator.cpp" line="173"/>
+        <location filename="src/yandexnarodauthorizator.cpp" line="180"/>
         <source>Invalid login or/and password</source>
         <translation>Falscher Login oder/und Passwort</translation>
     </message>
@@ -102,7 +102,7 @@
 <context>
     <name>YandexNarodFactory</name>
     <message>
-        <location filename="src/yandexnarod.cpp" line="220"/>
+        <location filename="src/yandexnarod.cpp" line="193"/>
         <source>Yandex.Narod</source>
         <translation></translation>
     </message>
@@ -194,7 +194,7 @@ p, li { white-space: pre-wrap; }
         <translation>Konnte Datei %1 nicht öffnen</translation>
     </message>
     <message>
-        <location filename="src/yandexnaroduploadjob.cpp" line="335"/>
+        <location filename="src/yandexnaroduploadjob.cpp" line="337"/>
         <source>File sent: %N (%S bytes)
 %U</source>
         <comment>Don&apos;t remove format arguments</comment>

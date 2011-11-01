@@ -4,12 +4,12 @@
 <context>
     <name>AntiBoss</name>
     <message>
-        <location filename="src/antibossplugin.cpp" line="37"/>
+        <location filename="src/antibossplugin.cpp" line="38"/>
         <source>Show/hide all windows</source>
         <translation>Alle Fenster zeigen/verstecken</translation>
     </message>
     <message>
-        <location filename="src/antibossplugin.cpp" line="38"/>
+        <location filename="src/antibossplugin.cpp" line="39"/>
         <source>Antiboss</source>
         <translation></translation>
     </message>
@@ -32,7 +32,7 @@
     <message>
         <location filename="src/antibossplugin.cpp" line="33"/>
         <source>Plugin makes your chatting invisible for boss</source>
-        <translation>Macht das chatten für den Chef unsichtbar</translation>
+        <translation>Macht heimliches chatten während der Arbeit leichter</translation>
     </message>
 </context>
 <context>

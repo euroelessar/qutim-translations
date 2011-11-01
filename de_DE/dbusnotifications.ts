@@ -12,19 +12,9 @@
 <context>
     <name>DBusBackend</name>
     <message>
-        <location filename="src/dbusbackend.cpp" line="143"/>
-        <source>Open chat</source>
-        <translation>Chat öffnen</translation>
-    </message>
-    <message>
-        <location filename="src/dbusbackend.cpp" line="144"/>
-        <source>Ignore</source>
-        <translation>Ignorieren</translation>
-    </message>
-    <message>
-        <location filename="src/dbusbackend.cpp" line="146"/>
-        <source>Open</source>
-        <translation>Öffnen</translation>
+        <location filename="src/dbusbackend.cpp" line="60"/>
+        <source>Show popup</source>
+        <translation>Zeige Benachrichtigung</translation>
     </message>
 </context>
 <context>

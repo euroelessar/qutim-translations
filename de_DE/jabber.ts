@@ -412,17 +412,17 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="src/jplugin.cpp" line="32"/>
+        <location filename="src/jplugin.cpp" line="33"/>
         <source>Denis Daschenko</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="src/jplugin.cpp" line="35"/>
+        <location filename="src/jplugin.cpp" line="36"/>
         <source>Nikita Belov</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="src/jplugin.cpp" line="39"/>
+        <location filename="src/jplugin.cpp" line="40"/>
         <source>Sidorov Aleksey</source>
         <translation></translation>
     </message>
@@ -430,27 +430,27 @@
 <context>
     <name>Conference</name>
     <message>
-        <location filename="src/protocol/account/muc/jmucuser.cpp" line="120"/>
+        <location filename="src/protocol/account/muc/jmucuser.cpp" line="116"/>
         <source>Real JID</source>
         <translation>Wahre JID</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucuser.cpp" line="137"/>
+        <location filename="src/protocol/account/muc/jmucuser.cpp" line="133"/>
         <source>Affiliation</source>
         <translation>Mitgliedschaft</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucuser.cpp" line="153"/>
+        <location filename="src/protocol/account/muc/jmucuser.cpp" line="149"/>
         <source>Role</source>
         <translation>Rang</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucuser.cpp" line="155"/>
+        <location filename="src/protocol/account/muc/jmucuser.cpp" line="151"/>
         <source>Possible client</source>
         <translation>Möglicher Client</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucuser.cpp" line="162"/>
+        <location filename="src/protocol/account/muc/jmucuser.cpp" line="158"/>
         <source>OS</source>
         <translation>Betriebssystem</translation>
     </message>
@@ -468,162 +468,217 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="53"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="55"/>
         <source>Nickname</source>
         <translation>Spitzname</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="54"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="56"/>
         <source>First name</source>
         <translation>Vorname</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="55"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="57"/>
         <source>Middle name</source>
         <translation>Zweiter Vorname</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="56"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="58"/>
         <source>Last name</source>
         <translation>Nachname</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="57"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="59"/>
         <source>Birthday</source>
         <translation>Geburtstag</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="58"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="60"/>
         <source>Homepage</source>
         <translation>Homepage</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="59"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="61"/>
         <source>Home phone</source>
         <translation>Telefon (privat)</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="60"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="62"/>
         <source>Work phone</source>
         <translation>Telefon (geschäftlich)</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="61"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="63"/>
         <source>Mobile phone</source>
         <translation>Handy</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="62"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="64"/>
         <source>Phone</source>
         <translation>Telefon</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="63"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="65"/>
         <source>Personal email</source>
         <translation>E-Mail (privat)</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="64"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="66"/>
         <source>Work email</source>
         <translation>E-Mail (geschäftlich)</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="65"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="67"/>
         <source>Email</source>
         <translation>E-Mail</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="66"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="68"/>
         <source>Home address</source>
         <translation>Adresse (privat)</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="67"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="69"/>
         <source>Work address</source>
         <translation>Adresse (geschäftlich)</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="68"/>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="74"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="70"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="76"/>
         <source>Address</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="69"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="71"/>
         <source>Country</source>
         <translation>Land</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="70"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="72"/>
         <source>Region</source>
         <translation>Bundesland</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="71"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="73"/>
         <source>City</source>
         <translation>Wohnort</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="72"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="74"/>
         <source>Postcode</source>
         <translation>Postleitzahl</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="73"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="75"/>
         <source>Street</source>
         <translation>Straße</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="75"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="77"/>
         <source>Postbox</source>
         <translation>Postfach</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="76"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="78"/>
         <source>Company</source>
         <translation>Firma</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="77"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="79"/>
         <source>Department</source>
         <translation>Abteilung</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="78"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="80"/>
         <source>Position</source>
         <translation>Position</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="79"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="81"/>
         <source>Role</source>
         <translation>Rang</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="80"/>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="206"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="82"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="236"/>
         <source>About</source>
         <translation>Über</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/vcard/jinforequest.cpp" line="113"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="146"/>
         <source>General</source>
         <translation>Allgemein</translation>
+    </message>
+    <message>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="154"/>
+        <source>Avatar</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="194"/>
+        <source>Phones</source>
+        <translation>Telefonnummern</translation>
+    </message>
+    <message>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="203"/>
+        <source>E-mails</source>
+        <translation>E-Mail-Adressen</translation>
+    </message>
+    <message>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="213"/>
+        <source>Addresses</source>
+        <translation>Adressen</translation>
+    </message>
+    <message>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="227"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="383"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="404"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="423"/>
+        <source>Work</source>
+        <translation>Arbeit</translation>
+    </message>
+    <message>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="371"/>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="382"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="403"/>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="422"/>
+        <source>Home</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="384"/>
+        <source>Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="394"/>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/protocol/modules/vcard/jinforequest.cpp" line="413"/>
+        <source>E-mail</source>
+        <translation>E-Mail</translation>
     </message>
 </context>
 <context>
     <name>ContactResource</name>
     <message>
-        <location filename="src/protocol/account/roster/jcontactresource.cpp" line="112"/>
+        <location filename="src/protocol/account/roster/jcontactresource.cpp" line="111"/>
         <source>Resource</source>
         <translation>Ressource</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/roster/jcontactresource.cpp" line="119"/>
+        <location filename="src/protocol/account/roster/jcontactresource.cpp" line="118"/>
         <source>Possible client</source>
         <translation>Möglicher Client</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/roster/jcontactresource.cpp" line="126"/>
+        <location filename="src/protocol/account/roster/jcontactresource.cpp" line="125"/>
         <source>OS</source>
         <translation>Betriebssystem</translation>
     </message>
@@ -813,12 +868,12 @@
         <translation>Automatisch betreten</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="671"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="743"/>
         <source>You are already in conference with another nick</source>
         <translation>Du bist bereits unter anderem Namen im Raum</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="684"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="759"/>
         <source>Please select another nickname</source>
         <translation>Bitte einen anderen Spitznamen angeben</translation>
     </message>
@@ -845,16 +900,16 @@
     <message>
         <location filename="src/protocol/account/roster/jcontact.cpp" line="190"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <location filename="src/protocol/account/roster/jcontact.cpp" line="195"/>
-        <location filename="src/protocol/jprotocol.cpp" line="220"/>
+        <location filename="src/protocol/jprotocol.cpp" line="221"/>
         <source>Subscription</source>
         <translation>Autorisierung</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.cpp" line="31"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.cpp" line="34"/>
         <source>Service discovery</source>
         <translation>Dienste durchsuchen...</translation>
     </message>
@@ -870,7 +925,7 @@
     </message>
     <message>
         <location filename="src/protocol/jprotocol.cpp" line="77"/>
-        <location filename="src/protocol/jprotocol.cpp" line="213"/>
+        <location filename="src/protocol/jprotocol.cpp" line="214"/>
         <source>Save to bookmarks</source>
         <translation>Als Lesezeichen speichern</translation>
     </message>
@@ -891,12 +946,12 @@
         <translation>Raum verlassen</translation>
     </message>
     <message>
-        <location filename="src/protocol/jprotocol.cpp" line="207"/>
+        <location filename="src/protocol/jprotocol.cpp" line="208"/>
         <source>Room&apos;s configuration</source>
         <translation>Raum einrichten</translation>
     </message>
     <message>
-        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="106"/>
+        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="131"/>
         <source>Xml console</source>
         <translation>xml-Konsole</translation>
     </message>
@@ -904,13 +959,13 @@
 <context>
     <name>Jabber::JAccount</name>
     <message>
-        <location filename="src/protocol/account/jaccount.cpp" line="207"/>
+        <location filename="src/protocol/account/jaccount.cpp" line="219"/>
         <source>qutIM</source>
         <comment>Local qutIM&apos;s name</comment>
         <translation>qutIM</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/jaccount.cpp" line="208"/>
+        <location filename="src/protocol/account/jaccount.cpp" line="220"/>
         <source>en</source>
         <comment>Default language</comment>
         <translation>de</translation>
@@ -919,7 +974,7 @@
 <context>
     <name>Jabber::JActivityChooser</name>
     <message>
-        <location filename="src/protocol/modules/activitypep/jactivitychooser.cpp" line="229"/>
+        <location filename="src/protocol/modules/activitypep/jactivitychooser.cpp" line="228"/>
         <source>Set activity</source>
         <translation>Tätigkeit</translation>
     </message>
@@ -966,123 +1021,123 @@
 <context>
     <name>Jabber::JMUCSession</name>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="249"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="310"/>
         <source> has been banned</source>
         <translation> wurde ausgesperrt</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="249"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="310"/>
         <source> has been kicked</source>
         <translation> wurde rausgeworfen</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="254"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="315"/>
         <source>You has been banned at </source>
         <translation>Du wurdest ausgesperrt von </translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="254"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="315"/>
         <source>You has been kicked from </source>
         <translation>Du wurdest rausgeworfen von </translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="256"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="317"/>
         <source>with reason: </source>
         <translation>mit der Begründung: </translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="258"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="319"/>
         <source>Do you want to rejoin?</source>
         <translation>Willst du den Raum erneut betreten?</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="259"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="320"/>
         <source>You have been kicked</source>
         <translation>Du wurdest rausgeschmissen</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="263"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="324"/>
         <source>You have been banned</source>
         <translation>Du wurdest ausgesperrt</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="279"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="341"/>
         <source> is now known as </source>
         <translation> heißt jetzt </translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="305"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="369"/>
         <source> has joined the room</source>
         <translation> hat den Raum betreten</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="307"/>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="309"/>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="311"/>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="313"/>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="315"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="371"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="373"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="375"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="377"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="379"/>
         <source> as</source>
         <translation> als</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="307"/>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="336"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="371"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="402"/>
         <source> owner</source>
         <translation> Besitzer</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="309"/>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="338"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="373"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="404"/>
         <source> administrator</source>
         <translation> Administrator</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="311"/>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="344"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="375"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="410"/>
         <source> registered member</source>
         <translation> Registrierter Benutzer</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="313"/>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="340"/>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="352"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="377"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="406"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="418"/>
         <source> participant</source>
         <translation> Teilnehmer</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="315"/>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="342"/>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="348"/>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="354"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="379"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="408"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="414"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="420"/>
         <source> visitor</source>
         <translation> Besucher</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="322"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="387"/>
         <source> has left the room</source>
         <translation> hat den Raum verlassen</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="334"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="400"/>
         <source> now is</source>
-        <translation> heißt jetzt</translation>
+        <translation> ist jetzt</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="340"/>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="342"/>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="346"/>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="348"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="406"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="408"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="412"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="414"/>
         <source> and</source>
         <translation> und</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="346"/>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="350"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="412"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="416"/>
         <source> moderator</source>
         <translation> Moderator</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/muc/jmucsession.cpp" line="463"/>
+        <location filename="src/protocol/account/muc/jmucsession.cpp" line="533"/>
         <source>Subject:</source>
         <translation>Thema:</translation>
     </message>
@@ -1090,7 +1145,7 @@
 <context>
     <name>Jabber::JMoodChooser</name>
     <message>
-        <location filename="src/protocol/modules/moodpep/jmoodchooser.cpp" line="78"/>
+        <location filename="src/protocol/modules/moodpep/jmoodchooser.cpp" line="77"/>
         <source>Set mood</source>
         <translation>Stimmung</translation>
     </message>
@@ -1116,32 +1171,32 @@
 <context>
     <name>Jabber::JProtocol</name>
     <message>
-        <location filename="src/protocol/jprotocol.cpp" line="251"/>
+        <location filename="src/protocol/jprotocol.cpp" line="252"/>
         <source>Kick</source>
         <translation>Rauswerfen</translation>
     </message>
     <message>
-        <location filename="src/protocol/jprotocol.cpp" line="251"/>
+        <location filename="src/protocol/jprotocol.cpp" line="252"/>
         <source>Enter kick reason for %1</source>
         <translation>Grund für Rauswurf von %1 angeben</translation>
     </message>
     <message>
-        <location filename="src/protocol/jprotocol.cpp" line="260"/>
+        <location filename="src/protocol/jprotocol.cpp" line="261"/>
         <source>Ban</source>
         <translation>Aussperren</translation>
     </message>
     <message>
-        <location filename="src/protocol/jprotocol.cpp" line="260"/>
+        <location filename="src/protocol/jprotocol.cpp" line="261"/>
         <source>Enter ban reason for %1</source>
         <translation>Grund für Aussperren von %1 angeben</translation>
     </message>
     <message>
-        <location filename="src/protocol/jprotocol.cpp" line="490"/>
+        <location filename="src/protocol/jprotocol.cpp" line="497"/>
         <source>Possible client</source>
         <translation>Möglicher Client</translation>
     </message>
     <message>
-        <location filename="src/protocol/jprotocol.cpp" line="491"/>
+        <location filename="src/protocol/jprotocol.cpp" line="498"/>
         <source>Show client icon</source>
         <translation>Zeige Client-Symbole</translation>
     </message>
@@ -1149,27 +1204,27 @@
 <context>
     <name>Jabber::JRoster</name>
     <message>
-        <location filename="src/protocol/account/roster/jroster.cpp" line="122"/>
+        <location filename="src/protocol/account/roster/jroster.cpp" line="120"/>
         <source>Contact %1 has been added to roster</source>
         <translation>%1 wurde zur Kontaktliste hinzugefügt</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/roster/jroster.cpp" line="150"/>
+        <location filename="src/protocol/account/roster/jroster.cpp" line="149"/>
         <source>Contact %1 has been removed from roster</source>
         <translation>%1 wurde aus der Kontaktliste gelöscht</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/roster/jroster.cpp" line="319"/>
+        <location filename="src/protocol/account/roster/jroster.cpp" line="300"/>
         <source>Received a request for removal from the subscribers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/protocol/account/roster/jroster.cpp" line="327"/>
+        <location filename="src/protocol/account/roster/jroster.cpp" line="308"/>
         <source>You have been removed from the list of subscribers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/protocol/account/roster/jroster.cpp" line="335"/>
+        <location filename="src/protocol/account/roster/jroster.cpp" line="316"/>
         <source>You have been added to the list of subscribers</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1177,168 +1232,40 @@
 <context>
     <name>Jabber::JServiceBrowser</name>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.cpp" line="62"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.cpp" line="69"/>
         <source>Search service</source>
         <translation>Dienst suchen</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.cpp" line="100"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.cpp" line="107"/>
         <source>Close</source>
         <translation>Schließen</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.cpp" line="150"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.cpp" line="168"/>
         <source>type: </source>
         <translation>Typ: </translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.cpp" line="151"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.cpp" line="169"/>
         <source>category: </source>
         <translation>Kategorie: </translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.cpp" line="153"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.cpp" line="171"/>
         <source>Identities:</source>
         <translation>Identitäten:</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.cpp" line="313"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.cpp" line="319"/>
         <source>Features:</source>
         <translation>Fähigkeiten:</translation>
     </message>
 </context>
 <context>
-    <name>Jabber::JServiceDiscovery</name>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="118"/>
-        <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation>Das empfangene XML ist fehlerhaft, oder konnte nicht verarbeitet werden.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="121"/>
-        <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation>Der Zugriff konnte nicht gewährt werden, weil eine bestehende Ressource oder Sitzung den selben Namen oder die selbe Adresse hat.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="124"/>
-        <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
-        <translation>Das angeforderte Feature wird vom Server oder Empfänger nicht unterstützt, und konnte nicht verarbeitet werden.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="127"/>
-        <source>The requesting entity does not possess the required permissions to perform the action.</source>
-        <translation>Der Anforderer hat nicht die erforderlichen Rechte, um die Aktion durchzuführen.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="130"/>
-        <source>The recipient or server can no longer be contacted at this address.</source>
-        <translation>Der Empfänger oder der Server kann nicht mehr über diese Adresse kontaktiert werden.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="133"/>
-        <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation>Der Server konnte die Stanza aufgrund einer Fehlkonfiguration oder eines unbekannten internen Server-Fehlers nicht verarbeiten.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="136"/>
-        <source>The addressed JID or item requested cannot be found.</source>
-        <translation>Die angeforderte JID oder das angeforderte Objekt konnten nicht gefunden werden.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="139"/>
-        <source>The sending entity has provided or communicated an XMPP address or aspect thereof that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation>Der Absender hat eine XMPP-Adresse (oder Teile davon) übermittelt oder zur Verfügung gestellt, die nicht zu der im Adressierungsschema vereinbarten Syntax passt.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="142"/>
-        <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server.</source>
-        <translation>Der Empfänger oder Server versteht die Anfrage, aber weist die Verarbeitung zurück weil sie nicht die vom Server oder Empfänger gestellten Kriterien erfüllt.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="145"/>
-        <source>The recipient or server does not allow any entity to perform the action.</source>
-        <translation>Der Empfänger oder Server erlaubt niemandem diese Aktion durchzuführen.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="148"/>
-        <source>The sender must provide proper credentials before being allowed to perform the action, or has provided impreoper credentials.</source>
-        <translation>Der Absender muss einen korrekten Berechtigungsnachweis erbringen, bevor ihm erlaubt wird die Aktion durchzuführen.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="151"/>
-        <source>The item requested has not changed since it was last requested.</source>
-        <translation>Das angeforderte Objekt hat sich seit der letzten Anforderung nicht verändert.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="154"/>
-        <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
-        <translation>Der Anforderer ist nicht befugt auf den angeforderten Dienst zuzugreifen, weil eine Bezahlung erforderlich ist.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="157"/>
-        <source>The intended recipient is temporarily unavailable.</source>
-        <translation>Der beabsichtigte Empfänger ist zur Zeit nicht erreichbar.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="160"/>
-        <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
-        <translation>Der Empfänger oder Server leitet Anfragen zu dieser Information zu einer anderen Instanz weiter, normalerweise temporär.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="163"/>
-        <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
-        <translation>Der Anforderer hat keinen Zugriff auf den angeforderten Dienst, weil eine Registrierung notwendig ist.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="166"/>
-        <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
-        <translation>Ein Remote-Server oder Dienst der als teilweise oder ganze JID spezifiziert ist, existiert für den gewünschten Empfänger nicht.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="169"/>
-        <source>A remote server or service specified as part or all of the JID of the intended recipient could not be contacted within a reasonable amount of time.</source>
-        <translation>Ein Remote-Server oder Dienst der als teilweise oder ganze JID spezifiziert ist, konnte nicht in einer angemessenen Zeit kontaktiert werden.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="172"/>
-        <source>The server or recipient lacks the system resources necessary to service the request.</source>
-        <translation>Dem Server oder Empfänger fehlen die Systemressourcen, die für die Verarbeitung der Anfrage notwendig sind.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="175"/>
-        <source>The server or recipient does not currently provide the requested service.</source>
-        <translation>Der Server oder Empfänger stellt den angeforderten Service zur Zeit nicht zur Verfügung.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="178"/>
-        <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
-        <translation>Der Anforderer hat keinen Zugriff auf den angeforderten Dienst, weil ein Abonnement notwendig ist.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="181"/>
-        <source>The unknown error condition.</source>
-        <translation>Der unbekannte Fehler ist aufgetreten.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="184"/>
-        <source>The recipient or server understood the request but was not expecting it at this time.</source>
-        <translation>Der Empfänger oder Server hat die Anforderung verstanden, aber sie nicht zu diesem Zeitpunkt erwartet.</translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="187"/>
-        <source>The stanza &apos;from&apos; address specified by a connected client is not valid for the stream.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/protocol/account/servicediscovery/jservicediscovery.cpp" line="190"/>
-        <source>No stanza error occured. You&apos;re just sleeping.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>Jabber::JSoftwareDetection</name>
     <message>
-        <location filename="src/protocol/account/roster/jsoftwaredetection.cpp" line="291"/>
+        <location filename="src/protocol/account/roster/jsoftwaredetection.cpp" line="300"/>
         <source>Possible client</source>
         <translation>Möglicher Client</translation>
     </message>
@@ -1346,69 +1273,197 @@
 <context>
     <name>Jabber::XmlConsole</name>
     <message>
-        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="44"/>
+        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="69"/>
         <source>Filter</source>
         <translation>Filtern</translation>
     </message>
     <message>
-        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="46"/>
+        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="71"/>
         <source>Disabled</source>
         <translation>Deaktiviert</translation>
     </message>
     <message>
-        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="49"/>
+        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="74"/>
         <source>By JID</source>
         <translation>Nach JID</translation>
     </message>
     <message>
-        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="52"/>
+        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="77"/>
         <source>By namespace uri</source>
         <translation>Nach Namensraum URI</translation>
     </message>
     <message>
-        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="55"/>
+        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="80"/>
         <source>By all attributes</source>
         <translation>Nach allen Attributen</translation>
     </message>
     <message>
-        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="60"/>
+        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="85"/>
         <source>Visible stanzas</source>
         <translation>Sichtbare Stanzas</translation>
     </message>
     <message>
-        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="63"/>
+        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="88"/>
         <source>Information query</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="67"/>
+        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="92"/>
         <source>Message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="71"/>
+        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="96"/>
         <source>Presence</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="75"/>
+        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="100"/>
         <source>Custom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="91"/>
+        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="116"/>
         <source>Close</source>
         <translation>Schließen</translation>
     </message>
     <message>
-        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="352"/>
+        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="377"/>
         <source>Save XMPP log to file</source>
         <translation>In Logdatei speichern</translation>
     </message>
     <message>
-        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="353"/>
+        <location filename="src/protocol/modules/xmlconsole/xmlconsole.cpp" line="378"/>
         <source>OpenDocument Format (*.odf);;HTML file (*.html);;Plain text (*.txt)</source>
         <translation>OpenDocument Format (*.odf);;HTML Datei (*.html);;Text (*.txt)</translation>
+    </message>
+</context>
+<context>
+    <name>Jreen::Error</name>
+    <message>
+        <location filename="jreen/src/error.cpp" line="62"/>
+        <source>The sender has sent XML that is malformed or that cannot be processed.</source>
+        <translation type="unfinished">Das empfangene XML ist fehlerhaft, oder konnte nicht verarbeitet werden.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="65"/>
+        <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
+        <translation type="unfinished">Der Zugriff konnte nicht gewährt werden, weil eine bestehende Ressource oder Sitzung den selben Namen oder die selbe Adresse hat.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="68"/>
+        <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
+        <translation type="unfinished">Das angeforderte Feature wird vom Server oder Empfänger nicht unterstützt, und konnte nicht verarbeitet werden.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="71"/>
+        <source>The requesting entity does not possess the required permissions to perform the action.</source>
+        <translation type="unfinished">Der Anforderer hat nicht die erforderlichen Rechte, um die Aktion durchzuführen.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="74"/>
+        <source>The recipient or server can no longer be contacted at this address.</source>
+        <translation type="unfinished">Der Empfänger oder der Server kann nicht mehr über diese Adresse kontaktiert werden.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="77"/>
+        <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
+        <translation type="unfinished">Der Server konnte die Stanza aufgrund einer Fehlkonfiguration oder eines unbekannten internen Server-Fehlers nicht verarbeiten.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="80"/>
+        <source>The addressed JID or item requested cannot be found.</source>
+        <translation type="unfinished">Die angeforderte JID oder das angeforderte Objekt konnten nicht gefunden werden.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="83"/>
+        <source>The sending entity has provided or communicated an XMPP address or aspect thereof that does not adhere to the syntax defined in Addressing Scheme.</source>
+        <translation type="unfinished">Der Absender hat eine XMPP-Adresse (oder Teile davon) übermittelt oder zur Verfügung gestellt, die nicht zu der im Adressierungsschema vereinbarten Syntax passt.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="86"/>
+        <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server.</source>
+        <translation type="unfinished">Der Empfänger oder Server versteht die Anfrage, aber weist die Verarbeitung zurück weil sie nicht die vom Server oder Empfänger gestellten Kriterien erfüllt.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="89"/>
+        <source>The recipient or server does not allow any entity to perform the action.</source>
+        <translation type="unfinished">Der Empfänger oder Server erlaubt niemandem diese Aktion durchzuführen.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="92"/>
+        <source>The sender must provide proper credentials before being allowed to perform the action, or has provided impreoper credentials.</source>
+        <translation type="unfinished">Der Absender muss einen korrekten Berechtigungsnachweis erbringen, bevor ihm erlaubt wird die Aktion durchzuführen.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="95"/>
+        <source>The item requested has not changed since it was last requested.</source>
+        <translation type="unfinished">Das angeforderte Objekt hat sich seit der letzten Anforderung nicht verändert.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="98"/>
+        <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
+        <translation type="unfinished">Der Anforderer ist nicht befugt auf den angeforderten Dienst zuzugreifen, weil eine Bezahlung erforderlich ist.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="101"/>
+        <source>The intended recipient is temporarily unavailable.</source>
+        <translation type="unfinished">Der beabsichtigte Empfänger ist zur Zeit nicht erreichbar.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="104"/>
+        <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
+        <translation type="unfinished">Der Empfänger oder Server leitet Anfragen zu dieser Information zu einer anderen Instanz weiter, normalerweise temporär.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="107"/>
+        <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
+        <translation type="unfinished">Der Anforderer hat keinen Zugriff auf den angeforderten Dienst, weil eine Registrierung notwendig ist.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="110"/>
+        <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
+        <translation type="unfinished">Ein Remote-Server oder Dienst der als teilweise oder ganze JID spezifiziert ist, existiert für den gewünschten Empfänger nicht.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="113"/>
+        <source>A remote server or service specified as part or all of the JID of the intended recipient could not be contacted within a reasonable amount of time.</source>
+        <translation type="unfinished">Ein Remote-Server oder Dienst der als teilweise oder ganze JID spezifiziert ist, konnte nicht in einer angemessenen Zeit kontaktiert werden.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="116"/>
+        <source>The server or recipient lacks the system resources necessary to service the request.</source>
+        <translation type="unfinished">Dem Server oder Empfänger fehlen die Systemressourcen, die für die Verarbeitung der Anfrage notwendig sind.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="119"/>
+        <source>The server or recipient does not currently provide the requested service.</source>
+        <translation type="unfinished">Der Server oder Empfänger stellt den angeforderten Service zur Zeit nicht zur Verfügung.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="122"/>
+        <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
+        <translation type="unfinished">Der Anforderer hat keinen Zugriff auf den angeforderten Dienst, weil ein Abonnement notwendig ist.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="125"/>
+        <source>The unknown error condition.</source>
+        <translation type="unfinished">Der unbekannte Fehler ist aufgetreten.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="128"/>
+        <source>The recipient or server understood the request but was not expecting it at this time.</source>
+        <translation type="unfinished">Der Empfänger oder Server hat die Anforderung verstanden, aber sie nicht zu diesem Zeitpunkt erwartet.</translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="131"/>
+        <source>The stanza &apos;from&apos; address specified by a connected client is not valid for the stream.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="jreen/src/error.cpp" line="134"/>
+        <source>No stanza error occured. You&apos;re just sleeping.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1847,126 +1902,136 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="src/jplugin.cpp" line="28"/>
-        <location filename="src/jplugin.cpp" line="42"/>
+        <location filename="src/jplugin.cpp" line="29"/>
+        <location filename="src/jplugin.cpp" line="43"/>
         <source>Jabber</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="src/jplugin.cpp" line="29"/>
-        <location filename="src/jplugin.cpp" line="43"/>
+        <location filename="src/jplugin.cpp" line="30"/>
+        <location filename="src/jplugin.cpp" line="44"/>
         <source>Jabber protocol</source>
         <translation>Jabber-Protokoll</translation>
     </message>
     <message>
-        <location filename="src/jplugin.cpp" line="46"/>
-        <source>Jabber account creator</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/jplugin.cpp" line="47"/>
-        <source>Account creator for Jabber protocol</source>
-        <translation type="unfinished"></translation>
+        <source>Jabber account creator</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="src/jplugin.cpp" line="50"/>
-        <source>LiveJournal account creator</source>
-        <translation type="unfinished"></translation>
+        <location filename="src/jplugin.cpp" line="48"/>
+        <source>Account creator for Jabber protocol</source>
+        <translation>Konten für das Jabber-Protokoll erstellen</translation>
     </message>
     <message>
         <location filename="src/jplugin.cpp" line="51"/>
-        <source>Account creator for LiveJournal</source>
-        <translation type="unfinished"></translation>
+        <source>LiveJournal account creator</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="src/jplugin.cpp" line="54"/>
-        <source>Google Talk account creator</source>
-        <translation type="unfinished"></translation>
+        <location filename="src/jplugin.cpp" line="52"/>
+        <source>Account creator for LiveJournal</source>
+        <translation>Konten für LiveJournal erstellen</translation>
     </message>
     <message>
         <location filename="src/jplugin.cpp" line="55"/>
-        <source>Account creator for Google Talk</source>
-        <translation type="unfinished"></translation>
+        <source>Google Talk account creator</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="src/jplugin.cpp" line="58"/>
-        <source>Yandex.Online account creator</source>
-        <translation type="unfinished"></translation>
+        <location filename="src/jplugin.cpp" line="56"/>
+        <source>Account creator for Google Talk</source>
+        <translation>Konten für GoogleTalk erstellen</translation>
     </message>
     <message>
         <location filename="src/jplugin.cpp" line="59"/>
-        <source>Account creator for Yandex.Online</source>
-        <translation type="unfinished"></translation>
+        <source>Yandex.Online account creator</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="src/jplugin.cpp" line="62"/>
-        <source>QIP account creator</source>
-        <translation type="unfinished"></translation>
+        <location filename="src/jplugin.cpp" line="60"/>
+        <source>Account creator for Yandex.Online</source>
+        <translation>Konten für Yandex.Online erstellen</translation>
     </message>
     <message>
         <location filename="src/jplugin.cpp" line="63"/>
-        <source>Account creator for QIP</source>
-        <translation type="unfinished"></translation>
+        <source>QIP account creator</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="src/jplugin.cpp" line="67"/>
-        <source>Jabber XML console</source>
-        <translation type="unfinished"></translation>
+        <location filename="src/jplugin.cpp" line="64"/>
+        <source>Account creator for QIP</source>
+        <translation>Konten für QIP erstellen</translation>
     </message>
     <message>
         <location filename="src/jplugin.cpp" line="68"/>
-        <source>XML console for low-level protocol debugging</source>
-        <translation type="unfinished"></translation>
+        <source>Jabber XML console</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="src/jplugin.cpp" line="80"/>
-        <source>Jabber Service Browser</source>
-        <translation type="unfinished"></translation>
+        <location filename="src/jplugin.cpp" line="69"/>
+        <source>XML console for low-level protocol debugging</source>
+        <translation>XML-Konsole zum debuggen</translation>
     </message>
     <message>
         <location filename="src/jplugin.cpp" line="81"/>
-        <source>Implementation of service browser</source>
-        <translation type="unfinished"></translation>
+        <source>Jabber Service Browser</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="src/jplugin.cpp" line="88"/>
-        <source>Jabber Personal Events support</source>
-        <translation type="unfinished"></translation>
+        <location filename="src/jplugin.cpp" line="82"/>
+        <source>Implementation of service browser</source>
+        <translation>Service Discovery für Jabber</translation>
     </message>
     <message>
         <location filename="src/jplugin.cpp" line="89"/>
+        <source>Jabber Personal Events support</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="src/jplugin.cpp" line="90"/>
         <source>Implementation of personal events protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>PEP-Unterstützung für Jabber</translation>
     </message>
     <message>
-        <location filename="src/jplugin.cpp" line="96"/>
-        <source>Jabber User Mood support</source>
-        <translation type="unfinished"></translation>
+        <location filename="src/jplugin.cpp" line="93"/>
+        <source>Jabber VCard support</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="src/jplugin.cpp" line="97"/>
-        <source>Convertes internal XMPP data of mood to Qt data types</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/jplugin.cpp" line="100"/>
-        <source>Jabber Mood Chooser</source>
-        <translation type="unfinished"></translation>
+        <location filename="src/jplugin.cpp" line="94"/>
+        <source>Implementation of VCard info requests</source>
+        <translation>Benutzerinfos abrufen</translation>
     </message>
     <message>
         <location filename="src/jplugin.cpp" line="101"/>
-        <source>Provides the dialog to set your mood</source>
-        <translation type="unfinished"></translation>
+        <source>Jabber User Mood support</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="src/jplugin.cpp" line="104"/>
-        <source>Jabber User Tune support</source>
-        <translation type="unfinished"></translation>
+        <location filename="src/jplugin.cpp" line="102"/>
+        <source>Convertes internal XMPP data of mood to Qt data types</source>
+        <translation>Konvertiert XMPP-Moods-Daten zu Qt-Datentypen</translation>
     </message>
     <message>
         <location filename="src/jplugin.cpp" line="105"/>
+        <source>Jabber Mood Chooser</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="src/jplugin.cpp" line="106"/>
+        <source>Provides the dialog to set your mood</source>
+        <translation>Dialog, um die eigene Stimmung zu veröffentlichen</translation>
+    </message>
+    <message>
+        <location filename="src/jplugin.cpp" line="109"/>
+        <source>Jabber User Tune support</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="src/jplugin.cpp" line="110"/>
         <source>Convertes internal XMPP data of tune to Qt data types</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertiert XMPP-Tune-Daten zu Qt-Datentypen</translation>
     </message>
 </context>
 <context>
@@ -1995,79 +2060,79 @@
 <context>
     <name>ServiceBrowser</name>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.ui" line="14"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.ui" line="14"/>
         <source>jServiceBrowser</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.ui" line="31"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.ui" line="31"/>
         <source>Server:</source>
         <translation>Server:</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.ui" line="150"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.ui" line="150"/>
         <source>Name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.ui" line="77"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.ui" line="77"/>
         <source>Filter:</source>
         <translation>Filtern:</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.ui" line="168"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.ui" line="168"/>
         <source>Searching...</source>
         <translation>Suchen...</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.ui" line="190"/>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.ui" line="193"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.ui" line="190"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.ui" line="193"/>
         <source>Join conference</source>
         <translation>Raum betreten</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.ui" line="198"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.ui" line="198"/>
         <source>Register</source>
         <translation>Registrieren</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.ui" line="201"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.ui" line="201"/>
         <source>Register on the service</source>
         <translation>Beim Dienst registrieren</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.ui" line="206"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.ui" line="206"/>
         <source>Search</source>
         <translation>Suchen</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.ui" line="209"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.ui" line="209"/>
         <source>Search on the service</source>
         <translation>Mit dem Dienst suchen</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.ui" line="214"/>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.ui" line="217"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.ui" line="214"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.ui" line="217"/>
         <source>Execute command</source>
         <translation>Befehl ausführen</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.ui" line="222"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.ui" line="222"/>
         <source>Show vCard</source>
         <translation>vCard anzeigen</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.ui" line="225"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.ui" line="225"/>
         <source>Show information about service</source>
         <translation>Dienstinformationen</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.ui" line="233"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.ui" line="233"/>
         <source>Add service to roster</source>
         <translation>Dienst zur Kontaktliste hinzufügen</translation>
     </message>
     <message>
-        <location filename="src/protocol/account/servicediscovery/jservicebrowser.ui" line="230"/>
+        <location filename="src/protocol/modules/servicediscovery/jservicebrowser.ui" line="230"/>
         <source>Add to roster</source>
         <translation>Zur Kontaktliste hinzufügen</translation>
     </message>
@@ -2088,13 +2153,13 @@
 <context>
     <name>Task</name>
     <message>
-        <location filename="src/jplugin.cpp" line="33"/>
-        <location filename="src/jplugin.cpp" line="36"/>
+        <location filename="src/jplugin.cpp" line="34"/>
+        <location filename="src/jplugin.cpp" line="37"/>
         <source>Author</source>
         <translation>Autor</translation>
     </message>
     <message>
-        <location filename="src/jplugin.cpp" line="40"/>
+        <location filename="src/jplugin.cpp" line="41"/>
         <source>Developer</source>
         <translation>Entwickler</translation>
     </message>
@@ -2104,12 +2169,12 @@
     <message>
         <location filename="src/protocol/modules/tunepep/jpersontuneconverter.cpp" line="92"/>
         <source>Now listening</source>
-        <translation type="unfinished"></translation>
+        <translation>Hört gerade</translation>
     </message>
     <message>
         <location filename="src/protocol/modules/tunepep/jpersontuneconverter.cpp" line="114"/>
         <source>Tune</source>
-        <translation type="unfinished">Musik</translation>
+        <translation>Musik</translation>
     </message>
     <message>
         <location filename="src/protocol/modules/tunepep/jpersontuneconverter.cpp" line="116"/>

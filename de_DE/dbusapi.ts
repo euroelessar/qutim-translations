@@ -19,7 +19,7 @@
     <message>
         <location filename="src/dbusplugin.cpp" line="145"/>
         <source>Added ability to control qutIM by DBus</source>
-        <translation>Bietet die Möglichkeit, qutIM über DBus zu steuern</translation>
+        <translation>Möglichkeit, qutIM über DBus zu steuern</translation>
     </message>
 </context>
 <context>
@@ -27,7 +27,7 @@
     <message>
         <location filename="src/dbusplugin.cpp" line="142"/>
         <source>Developer</source>
-        <translation type="unfinished">Entwickler</translation>
+        <translation>Entwickler</translation>
     </message>
 </context>
 </TS>

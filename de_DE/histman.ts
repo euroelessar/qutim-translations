@@ -250,10 +250,10 @@
     <message>
         <location filename="src/historymanagerplugin.cpp" line="30"/>
         <source>Plugin makes possible to import history to qutIM from different messengers</source>
-        <translation>Importiert den Nachrichtenverlauf von anderen Messengern in qutIM</translation>
+        <translation>Importiert den Nachrichtenverlauf von anderen Messengern</translation>
     </message>
     <message>
-        <location filename="src/historymanagerplugin.cpp" line="39"/>
+        <location filename="src/historymanagerplugin.cpp" line="40"/>
         <source>Import history</source>
         <translation>Verlauf importieren...</translation>
     </message>
