@@ -4,7 +4,7 @@
 <context>
     <name>ChatWidget</name>
     <message>
-        <location filename="../../plugins/symbianintegration/symbianchatform/stackedchatwidget.cpp" line="+59"/>
+        <location filename="../../plugins/symbianintegration/symbianchatform/stackedchatwidget.cpp" line="+83"/>
         <source>Toggle fullscreen</source>
         <translation>Во весь экран</translation>
     </message>
@@ -32,7 +32,7 @@
 <context>
     <name>Core::SimpleContactList::SymbianWidget</name>
     <message>
-        <location filename="../../plugins/symbianintegration/symbiancontactlistwidget/symbianwidget.cpp" line="+67"/>
+        <location filename="../../plugins/symbianintegration/symbiancontactlistwidget/symbianwidget.cpp" line="+85"/>
         <source>Search contact</source>
         <translation>Поиск контакта</translation>
     </message>
@@ -56,7 +56,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../plugins/symbianintegration/symbianchatform/stackedchatform.cpp" line="+23"/>
+        <location filename="../../plugins/symbianintegration/symbianchatform/stackedchatform.cpp" line="+47"/>
         <source>Chat</source>
         <translation>Чат</translation>
     </message>
@@ -97,7 +97,7 @@
 <context>
     <name>Symbian::Vibration</name>
     <message>
-        <location filename="../../plugins/symbianintegration/symbianvibra/symbianvibration.cpp" line="+12"/>
+        <location filename="../../plugins/symbianintegration/symbianvibra/symbianvibration.cpp" line="+36"/>
         <source>Vibration</source>
         <translation type="unfinished">Вибрация</translation>
     </message>

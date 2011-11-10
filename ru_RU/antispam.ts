@@ -4,7 +4,7 @@
 <context>
     <name>Antispam</name>
     <message>
-        <location filename="../../plugins/antispam/src/antispamplugin.cpp" line="+18"/>
+        <location filename="../../plugins/antispam/src/antispamplugin.cpp" line="+42"/>
         <source>Antispam</source>
         <translation type="unfinished">Антиспам</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>Antispam::Handler</name>
     <message>
-        <location filename="../../plugins/antispam/src/handler.cpp" line="+41"/>
+        <location filename="../../plugins/antispam/src/handler.cpp" line="+51"/>
         <source>Beer, wine, vodka, champagne: after which drink in this sequence I should stop?</source>
         <translation type="unfinished">Пиво, вино, водка, шампусик: после чего из списка мне стоит прекратить на сегодня пить?</translation>
     </message>
@@ -61,7 +61,7 @@
         <translation type="unfinished">Сообщение о правильмо ответе:</translation>
     </message>
     <message>
-        <location filename="../../plugins/antispam/src/settingswidget.cpp" line="+47"/>
+        <location filename="../../plugins/antispam/src/settingswidget.cpp" line="+57"/>
         <source>Beer, wine, vodka, champagne: after which drink in this sequence I should stop?</source>
         <translation>Пиво, вино, водка, шампусик: после чего из списка мне стоит прекратить на сегодня пить?</translation>
     </message>

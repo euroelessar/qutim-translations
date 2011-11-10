@@ -4,7 +4,7 @@
 <context>
     <name>AWNService</name>
     <message>
-        <location filename="../../plugins/awn/src/awnservice.cpp" line="+271"/>
+        <location filename="../../plugins/awn/src/awnservice.cpp" line="+282"/>
         <source>Show/Hide</source>
         <translation>Показать/Скрыть</translation>
     </message>
@@ -36,7 +36,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/awn/src/awn.cpp" line="+27"/>
+        <location filename="../../plugins/awn/src/awn.cpp" line="+38"/>
         <source>Stanislav (proDOOMman) Kosolapov</source>
         <translation>Косолапов (proDOOMman) Станислав</translation>
     </message>

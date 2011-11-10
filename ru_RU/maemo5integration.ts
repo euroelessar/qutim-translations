@@ -6,7 +6,7 @@
     <message>
         <location filename="../../plugins/maemo5integration/maemo5led/maemo5ledplugin.cpp" line="41"/>
         <location filename="../../plugins/maemo5integration/maemo5settings/maemo5settingsplugin.cpp" line="39"/>
-        <location filename="../../plugins/maemo5integration/maemo5tray/maemo5trayplugin.cpp" line="25"/>
+        <location filename="../../plugins/maemo5integration/maemo5tray/maemo5trayplugin.cpp" line="35"/>
         <location filename="../../plugins/maemo5integration/maemo5vibra/maemo5vibraplugin.cpp" line="41"/>
         <source>Evgeniy Degtyarev</source>
         <translation type="unfinished">Евгений Дегтярев</translation>
@@ -107,14 +107,14 @@
         <translation type="unfinished">Настройки связанные с платформой Maemo 5</translation>
     </message>
     <message>
-        <location filename="../../plugins/maemo5integration/maemo5tray/maemo5trayplugin.cpp" line="28"/>
-        <location filename="../../plugins/maemo5integration/maemo5tray/maemo5trayplugin.cpp" line="32"/>
+        <location filename="../../plugins/maemo5integration/maemo5tray/maemo5trayplugin.cpp" line="38"/>
+        <location filename="../../plugins/maemo5integration/maemo5tray/maemo5trayplugin.cpp" line="42"/>
         <source>Maemo 5 Tray</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/maemo5integration/maemo5tray/maemo5trayplugin.cpp" line="29"/>
-        <location filename="../../plugins/maemo5integration/maemo5tray/maemo5trayplugin.cpp" line="33"/>
+        <location filename="../../plugins/maemo5integration/maemo5tray/maemo5trayplugin.cpp" line="39"/>
+        <location filename="../../plugins/maemo5integration/maemo5tray/maemo5trayplugin.cpp" line="43"/>
         <source>Implement Maemo 5 specific system tray</source>
         <translation type="unfinished">Реализация системного трея для Maemo 5</translation>
     </message>
@@ -143,7 +143,7 @@
     <message>
         <location filename="../../plugins/maemo5integration/maemo5led/maemo5ledplugin.cpp" line="42"/>
         <location filename="../../plugins/maemo5integration/maemo5settings/maemo5settingsplugin.cpp" line="40"/>
-        <location filename="../../plugins/maemo5integration/maemo5tray/maemo5trayplugin.cpp" line="26"/>
+        <location filename="../../plugins/maemo5integration/maemo5tray/maemo5trayplugin.cpp" line="36"/>
         <location filename="../../plugins/maemo5integration/maemo5vibra/maemo5vibraplugin.cpp" line="42"/>
         <source>Author</source>
         <translation>Автор</translation>

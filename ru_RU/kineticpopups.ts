@@ -22,7 +22,7 @@
 <context>
     <name>KineticPopups::Backend</name>
     <message>
-        <location filename="../../plugins/kineticpopups/src/backend.cpp" line="+32"/>
+        <location filename="../../plugins/kineticpopups/src/backend.cpp" line="+42"/>
         <source>Show popup</source>
         <translation type="unfinished">Показывать уведомления</translation>
     </message>
@@ -35,7 +35,7 @@
 <context>
     <name>KineticPopups::PopupAppearance</name>
     <message>
-        <location filename="../../plugins/kineticpopups/src/settings/popupappearance.cpp" line="+106"/>
+        <location filename="../../plugins/kineticpopups/src/settings/popupappearance.cpp" line="+116"/>
         <source>Simple popup</source>
         <translation type="unfinished">Простое уведомление</translation>
     </message>
@@ -53,7 +53,7 @@
 <context>
     <name>KineticPopups::QuickNotify</name>
     <message>
-        <location filename="../../plugins/kineticpopups/src/popupwidgets/quickpopupwidget.cpp" line="+66"/>
+        <location filename="../../plugins/kineticpopups/src/popupwidgets/quickpopupwidget.cpp" line="+76"/>
         <source>Notification from qutIM</source>
         <translation type="unfinished">Уведомление от qutIM</translation>
     </message>

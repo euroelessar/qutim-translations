@@ -68,17 +68,17 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>webhistoryPlugin</name>
     <message>
-        <location filename="../../plugins/webhistory/webhistory.cpp" line="211"/>
+        <location filename="../../plugins/webhistory/webhistory.cpp" line="221"/>
         <source>Store messages from WebHistory:&lt;br/&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/webhistory/webhistory.cpp" line="212"/>
+        <location filename="../../plugins/webhistory/webhistory.cpp" line="222"/>
         <source>in JSON: %1&lt;br/&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/webhistory/webhistory.cpp" line="213"/>
+        <location filename="../../plugins/webhistory/webhistory.cpp" line="223"/>
         <source>in SQLite: %1&lt;br/&gt;</source>
         <translation type="unfinished"></translation>
     </message>

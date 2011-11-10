@@ -47,7 +47,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../plugins/sqlhistory/sqlengine.cpp" line="121"/>
+        <location filename="../../plugins/sqlhistory/sqlengine.cpp" line="131"/>
         <source>History</source>
         <translation type="unfinished"></translation>
     </message>
@@ -55,65 +55,65 @@
 <context>
     <name>SqlHistoryNamespace::HistoryWindow</name>
     <message>
-        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="34"/>
+        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="44"/>
         <source>No History</source>
         <translation>Нет истории (x_X)</translation>
     </message>
     <message>
-        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="36"/>
-        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="228"/>
-        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="360"/>
+        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="46"/>
+        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="238"/>
+        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="370"/>
         <source>In: %L1</source>
         <translation>Пришло: %L1</translation>
     </message>
     <message>
-        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="37"/>
-        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="229"/>
-        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="361"/>
+        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="47"/>
+        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="239"/>
+        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="371"/>
         <source>Out: %L1</source>
         <translation>Ушло: %L1</translation>
     </message>
     <message>
-        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="38"/>
-        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="230"/>
-        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="362"/>
+        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="48"/>
+        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="240"/>
+        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="372"/>
         <source>All: %L1</source>
         <translation>Всего: %L1</translation>
     </message>
     <message>
-        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="71"/>
-        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="431"/>
+        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="81"/>
+        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="441"/>
         <source>&amp;Delete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="74"/>
+        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="84"/>
         <source>&amp;Delete day</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="77"/>
+        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="87"/>
         <source>&amp;Delete  %L1 messages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="80"/>
+        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="90"/>
         <source>&amp;Clear selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="227"/>
+        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="237"/>
         <source>Not found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="411"/>
         <location filename="../../plugins/sqlhistory/historywindow.cpp" line="421"/>
+        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="431"/>
         <source>Delete &amp;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="425"/>
+        <location filename="../../plugins/sqlhistory/historywindow.cpp" line="435"/>
         <source>Delete %L1 &amp;messages</source>
         <translation type="unfinished"></translation>
     </message>

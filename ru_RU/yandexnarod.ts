@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/yandexnarod/src/yandexnarod.cpp" line="+46"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnarod.cpp" line="+54"/>
         <source>Sidorov Aleksey</source>
         <translation>Сидоров Алексей</translation>
     </message>
@@ -77,7 +77,7 @@
 <context>
     <name>YandexNarodAuthorizator</name>
     <message>
-        <location filename="../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="+89"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="+99"/>
         <source>Has no login or password</source>
         <translation>Не указан ник или пароль</translation>
     </message>
@@ -118,7 +118,7 @@
 <context>
     <name>YandexNarodManager</name>
     <message>
-        <location filename="../../plugins/yandexnarod/src/yandexnarodmanage.cpp" line="+25"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnarodmanage.cpp" line="+34"/>
         <source>Yandex.Narod file manager</source>
         <translation>Управление файлами Yandex.Narod</translation>
     </message>
@@ -126,7 +126,7 @@
 <context>
     <name>YandexNarodNetMan</name>
     <message>
-        <location filename="../../plugins/yandexnarod/src/yandexnarodnetman.cpp" line="+140"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnarodnetman.cpp" line="+149"/>
         <source>Authorizing...</source>
         <translation>Авторизация...</translation>
     </message>
@@ -275,7 +275,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>YandexNarodUploadJob</name>
     <message>
-        <location filename="../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="+126"/>
+        <location filename="../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="+134"/>
         <source>Authorizing...</source>
         <translation type="unfinished">Авторизация...</translation>
     </message>

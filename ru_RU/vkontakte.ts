@@ -12,13 +12,13 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+32"/>
+        <location filename="../../protocols/vkontakte/src/vkontakteplugin.cpp" line="+42"/>
         <source>Sidorov Aleksey</source>
         <translation>Сидоров Алексей</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="+18"/>
-        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+18"/>
+        <location filename="../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="+42"/>
+        <location filename="../../protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+42"/>
         <source>Alexey Sidorov</source>
         <translation>Сидоров Алексей</translation>
     </message>
@@ -26,7 +26,7 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vinforequest.cpp" line="+62"/>
+        <location filename="../../protocols/vkontakte/src/vinforequest.cpp" line="+61"/>
         <source>Nickname</source>
         <translation>Ник</translation>
     </message>
@@ -71,7 +71,7 @@
         <translation>Дом. Телефон</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+191"/>
+        <location filename="../../protocols/vkontakte/src/vcontact.cpp" line="+200"/>
         <location filename="../../protocols/vkontakte/src/vinforequest.cpp" line="+1"/>
         <source>Mobile phone</source>
         <translation>Мобильный</translation>
@@ -316,7 +316,7 @@
         <translation>Пароль:</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/src/ui/vaccountsettings.cpp" line="+42"/>
+        <location filename="../../protocols/vkontakte/src/ui/vaccountsettings.cpp" line="+66"/>
         <source>%1 settings</source>
         <translation>%1 настройки</translation>
     </message>
@@ -347,7 +347,7 @@
 <context>
     <name>VConnection</name>
     <message>
-        <location filename="../../protocols/vkontakte/src/vconnection.cpp" line="+96"/>
+        <location filename="../../protocols/vkontakte/src/vconnection.cpp" line="+105"/>
         <source>qutIM - VKontakte authorization</source>
         <translation>qutIM - авторизация Вконтакте</translation>
     </message>
@@ -369,7 +369,7 @@
 <context>
     <name>VWallSession</name>
     <message>
-        <location filename="../../protocols/vkontakte/plugins/wall/vwallsession.cpp" line="+42"/>
+        <location filename="../../protocols/vkontakte/plugins/wall/vwallsession.cpp" line="+66"/>
         <source>%1 (Wall)</source>
         <translation>%1 (Стена)</translation>
     </message>
@@ -450,7 +450,7 @@
         <translation>Показать стену</translation>
     </message>
     <message>
-        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+83"/>
+        <location filename="../../protocols/vkontakte/src/vkontakteprotocol.cpp" line="+93"/>
         <source>Open homepage</source>
         <translatorcomment>Открыть хомяка - так значительно короче, но хомячки (сорь за тафтологию) не поймут^_^&apos;</translatorcomment>
         <translation>Открыть домашнюю страничку</translation>
