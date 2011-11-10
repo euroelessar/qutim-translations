@@ -108,7 +108,7 @@
         <translation>Име:</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+47"/>
+        <location filename="../../qutim/core/src/corelayers/simpleactions/src/simpleactions.cpp" line="+49"/>
         <source>Remove from roster</source>
         <translation>Премахване от списъка</translation>
     </message>
@@ -266,7 +266,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+439"/>
+        <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+437"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -460,7 +460,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../../qutim/core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp" line="+90"/>
-        <location filename="../../qutim/core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+47"/>
+        <location filename="../../qutim/core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+48"/>
         <source>Default style</source>
         <translation>Стил по подразбиране</translation>
     </message>
@@ -1401,7 +1401,7 @@ p, li { white-space: pre-wrap; }
         <translation>Собствени етикети</translation>
     </message>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="+363"/>
+        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h" line="+362"/>
         <source>Without tags</source>
         <translation>Без етикети</translation>
     </message>
@@ -1810,7 +1810,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+81"/>
         <source>Request last </source>
-        <translation type="unfinished">Показване на последните</translation>
+        <translation>Показване на последните</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1820,7 +1820,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+30"/>
         <source>Request messages since the datetime</source>
-        <translation type="unfinished">Показване на съобщенията след дадени дата и час</translation>
+        <translation>Показване на съобщенията след дадени дата и час</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1830,7 +1830,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+30"/>
         <source>Request messages since</source>
-        <translation type="unfinished">Показване на съобщенията след</translation>
+        <translation>Показване на съобщенията след</translation>
     </message>
 </context>
 <context>
@@ -1986,6 +1986,14 @@ p, li { white-space: pre-wrap; }
         <location line="+7"/>
         <source>Drag velocity smoothing factor, 1/secs:</source>
         <translation>Фактор на заглаждане на сукорението при влачене, 1/сек.:</translation>
+    </message>
+</context>
+<context>
+    <name>LineEdit</name>
+    <message>
+        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/lineedit.cpp" line="+24"/>
+        <source>Clear search field</source>
+        <translation>Изчистване полето за търсене</translation>
     </message>
 </context>
 <context>

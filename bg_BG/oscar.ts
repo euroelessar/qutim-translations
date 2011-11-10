@@ -3905,7 +3905,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+264"/>
+        <location filename="../../qutim/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+269"/>
         <source>X-Status</source>
         <translation>Разширен статус</translation>
     </message>
