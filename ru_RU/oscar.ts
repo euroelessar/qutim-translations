@@ -410,7 +410,7 @@
     <message>
         <location line="+3"/>
         <source>Avatar</source>
-        <translation type="unfinished">Аватар</translation>
+        <translation>Аватар</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -618,12 +618,12 @@
     <message>
         <location filename="../../protocols/oscar/src/authorization.cpp" line="+44"/>
         <source>Reask authorization</source>
-        <translation type="unfinished">Перезапросить авторизацию</translation>
+        <translation>Перезапросить авторизацию</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ask authorization</source>
-        <translation type="unfinished">Запроcить авторизацию</translation>
+        <translation>Запроcить авторизацию</translation>
     </message>
     <message>
         <location line="+59"/>
@@ -2006,7 +2006,7 @@
     <message>
         <location line="+26"/>
         <source>Use SSL authorization (experimental)</source>
-        <translation type="unfinished">Использовать SSL авторизацию (экспериментальная функция)</translation>
+        <translation>Использовать SSL авторизацию (экспериментальная функция)</translation>
     </message>
     <message>
         <source>Use ssl (experimental)</source>
@@ -2286,7 +2286,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Mail Order Catalog</source>
-        <translation type="unfinished">Почтовые заказы</translation>
+        <translation>Почтовые заказы</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2327,7 +2327,7 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Parties</source>
         <translatorcomment>пати?</translatorcomment>
-        <translation type="unfinished">Вечеринки</translation>
+        <translation>Вечеринки</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3989,7 +3989,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../protocols/oscar/src/authorization.cpp" line="-70"/>
         <source>Grant authorization</source>
-        <translation type="unfinished">Авторизовать</translation>
+        <translation>Авторизовать</translation>
     </message>
 </context>
 <context>
@@ -4020,7 +4020,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../protocols/oscar/src/ui/icqaccountmainsettings.cpp" line="+54"/>
         <source>Use SSL (experimental)</source>
-        <translation type="unfinished">Использовать SSL (эксперементально)</translation>
+        <translation>Использовать SSL (эксперементально)</translation>
     </message>
 </context>
 <context>
@@ -4035,7 +4035,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../protocols/oscar/src/ui/icqmainsettings.cpp" line="+105"/>
         <source>General</source>
-        <translation type="unfinished">Главные</translation>
+        <translation>Главные</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4050,7 +4050,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+2"/>
         <source>Support AIM contacts</source>
-        <translation type="unfinished">Поддержка AIM контактов</translation>
+        <translation>Поддержка AIM контактов</translation>
     </message>
 </context>
 <context>
@@ -4095,7 +4095,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-801"/>
         <source>The file transfer proxy server is not available</source>
-        <translation type="unfinished">Файлопрокси сервер не доступен</translation>
+        <translation>Файлопрокси сервер не доступен</translation>
     </message>
 </context>
 <context>
@@ -4108,17 +4108,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+3"/>
         <source>Always use file transfer proxy</source>
-        <translation type="unfinished">Всегда использовать файлопрокси</translation>
+        <translation>Всегда использовать файлопрокси</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Accept incoming connections on any port</source>
-        <translation type="unfinished">Принимать входящие соединения на любом порту</translation>
+        <translation>Принимать входящие соединения на любом порту</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Local ports</source>
-        <translation type="unfinished">Локальный порт(ы)</translation>
+        <translation>Локальный порт(ы)</translation>
     </message>
 </context>
 <context>
@@ -4157,7 +4157,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../protocols/oscar/plugins/xstatus/xstatussettings.cpp" line="+39"/>
         <source>Extended status</source>
-        <translation type="unfinished">Расширенный статус</translation>
+        <translation>Расширенный статус</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -4170,7 +4170,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../protocols/oscar/plugins/xstatus/statusdialog.ui" line="+14"/>
         <source>Custom status</source>
-        <translation type="unfinished">Расширенный статус</translation>
+        <translation>Расширенный статус</translation>
     </message>
     <message>
         <source>Choose</source>
@@ -4184,7 +4184,7 @@ p, li { white-space: pre-wrap; }
         <location line="+85"/>
         <source>Set birthday/happy flag</source>
         <translatorcomment>да, да, я когда то сидел на квипе, но потом перешел к шарикам миранды</translatorcomment>
-        <translation type="unfinished">Шарик День рождения или празную</translation>
+        <translation>Шарик День рождения или празную</translation>
     </message>
 </context>
 </TS>

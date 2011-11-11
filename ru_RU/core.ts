@@ -252,7 +252,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp" line="+94"/>
         <source>Perova Gala</source>
-        <translation type="unfinished">Перова Галя</translation>
+        <translation>Перова Галя</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -591,7 +591,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+43"/>
         <source>Enable/disable sound</source>
-        <translation type="unfinished">Вкл/выкл звуков</translation>
+        <translation>Вкл/выкл звуков</translation>
     </message>
     <message>
         <location filename="../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp" line="-6"/>
@@ -625,7 +625,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+13"/>
         <source>Contact list</source>
-        <translation type="unfinished">Ростер</translation>
+        <translation>Ростер</translation>
     </message>
     <message>
         <location line="+75"/>
@@ -679,28 +679,28 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../core/src/corelayers/simplecontactlist/models/plaincontactsmodel/plaincontactlistmodel.cpp" line="+62"/>
         <source>Show only contacts</source>
-        <translation type="unfinished">Отображать только контакты</translation>
+        <translation>Отображать только контакты</translation>
     </message>
     <message>
         <location filename="../../core/src/corelayers/simplecontactlist/models/separatedcontactsmodel/separatedcontactlistmodel.cpp" line="+90"/>
         <source>Show accounts, tags and contacts</source>
-        <translation type="unfinished">Отображать учетные записи, метки и контакты</translation>
+        <translation>Отображать учетные записи, метки и контакты</translation>
     </message>
     <message>
         <location filename="../../core/src/corelayers/simplecontactlist/models/treecontactsmodel/simplecontactlistmodel.cpp" line="+79"/>
         <source>Show tags and contacts</source>
-        <translation type="unfinished">Отображать метки и контакты</translation>
+        <translation>Отображать метки и контакты</translation>
     </message>
     <message>
         <location filename="../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp" line="+114"/>
         <location filename="../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp" line="+72"/>
         <source>Default style</source>
-        <translation type="unfinished">Стиль по умолчанию</translation>
+        <translation>Стиль по умолчанию</translation>
     </message>
     <message>
         <location filename="../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp" line="+73"/>
         <source>qutIM 0.2 style</source>
-        <translation type="unfinished">Стиль qutIM 0.2</translation>
+        <translation>Стиль qutIM 0.2</translation>
     </message>
 </context>
 <context>
@@ -1318,7 +1318,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../core/src/corelayers/chatnotificationsbackend/chatnotificationsbackend.cpp" line="+37"/>
         <source>Add message to chat</source>
-        <translation type="unfinished">Добавить сообщение в чат</translation>
+        <translation>Добавить сообщение в чат</translation>
     </message>
 </context>
 <context>
@@ -1334,22 +1334,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp" line="+118"/>
         <source>Model</source>
-        <translation type="unfinished">Модель</translation>
+        <translation>Модель</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Widget style</source>
-        <translation type="unfinished">Стиль Виджет</translation>
+        <translation>Стиль Виджет</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Contacts style</source>
-        <translation type="unfinished">Стиль Контакты</translation>
+        <translation>Стиль Контакты</translation>
     </message>
     <message>
         <location line="+92"/>
         <source>To take effect you must restart qutIM</source>
-        <translation type="unfinished">Требуется перезапуск qutIM</translation>
+        <translation>Требуется перезапуск qutIM</translation>
     </message>
 </context>
 <context>
@@ -1606,12 +1606,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../core/src/corelayers/mobilenotificationssettings/mobilenotificationsettings.cpp" line="+144"/>
         <source>Disable notifications when chat is active</source>
-        <translation type="unfinished">Отключить уведомления при активном чате</translation>
+        <translation>Отключить уведомления при активном чате</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Ignore conference messages that do not contain my name</source>
-        <translation type="unfinished">Игнорировать сообщения конференции без моего имени</translation>
+        <translation>Игнорировать сообщения конференции без моего имени</translation>
     </message>
 </context>
 <context>
@@ -1662,7 +1662,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../core/src/corelayers/notificationssettings/notificationsettings.cpp" line="+96"/>
         <source>&lt;b&gt;Additional settings:&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Дополнительные настройки:&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Дополнительные настройки:&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1822,7 +1822,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Can&apos;t open file with hash</source>
-        <translation type="unfinished">Не возможно открыть файл с хэшем</translation>
+        <translation>Не возможно открыть файл с хэшем</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -2071,7 +2071,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp" line="+140"/>
         <source>Blink icon in the contact list</source>
-        <translation type="unfinished">Мигание пиктограммы в ростере</translation>
+        <translation>Мигание пиктограммы в ростере</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -2378,7 +2378,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../core/src/corelayers/trayicon/simpletray.cpp" line="+87"/>
         <source>Blink icon in the tray</source>
-        <translation type="unfinished">Мигание пиктограммы в области уведомлений</translation>
+        <translation>Мигание пиктограммы в области уведомлений</translation>
     </message>
 </context>
 <context>
@@ -2658,7 +2658,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../core/libqutim/inforequest.cpp" line="+142"/>
         <source>Unknown error</source>
-        <translation type="unfinished">Неизвестная ошибка</translation>
+        <translation>Неизвестная ошибка</translation>
     </message>
 </context>
 <context>
@@ -2666,42 +2666,42 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../core/src/corelayers/joinchatdialog/joinchatdialog.ui" line="+17"/>
         <source>Join groupchat</source>
-        <translation type="unfinished">Войти в конференцию</translation>
+        <translation>Войти в конференцию</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Account:</source>
-        <translation type="unfinished">Уч.Запись:</translation>
+        <translation>Уч.Запись:</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Bookmarks</source>
-        <translation type="unfinished">Закладки</translation>
+        <translation>Закладки</translation>
     </message>
     <message>
         <location line="+81"/>
         <source>Request last </source>
-        <translation type="unfinished">Запросить последние </translation>
+        <translation>Запросить последние </translation>
     </message>
     <message>
         <location line="+20"/>
         <source>messages</source>
-        <translation type="unfinished">сообщения</translation>
+        <translation>сообщения</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Request messages since the datetime</source>
-        <translation type="unfinished"> Запрос сообщения с определенного момента</translation>
+        <translation> Запрос сообщения с определенного момента</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>H:mm:ss</source>
-        <translation type="unfinished">Ч:мм:сс</translation>
+        <translation>Ч:мм:сс</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Request messages since</source>
-        <translation type="unfinished">Запрос сообщений с момента</translation>
+        <translation>Запрос сообщений с момента</translation>
     </message>
 </context>
 <context>
@@ -2709,12 +2709,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../core/src/corelayers/joinchatdialog/joinchatdialog.cpp" line="+43"/>
         <source>Join</source>
-        <translation type="unfinished">Войти</translation>
+        <translation>Войти</translation>
     </message>
     <message>
         <location line="+124"/>
         <source>New chat</source>
-        <translation type="unfinished">Новый чат</translation>
+        <translation>Новый чат</translation>
     </message>
 </context>
 <context>
@@ -2844,47 +2844,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished">Окно прокрутки</translation>
+        <translation>Окно прокрутки</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Type:</source>
-        <translation type="unfinished">Тип:</translation>
+        <translation>Тип:</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>No scrolling</source>
-        <translation type="unfinished">Без прокрутки</translation>
+        <translation>Без прокрутки</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Touch</source>
-        <translation type="unfinished">Касанием</translation>
+        <translation>Касанием</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Left mouse button</source>
-        <translation type="unfinished">Левая кнопка мыши</translation>
+        <translation>Левая кнопка мыши</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Middle mouse button</source>
-        <translation type="unfinished">Средняя кнопка мыши</translation>
+        <translation>Средняя кнопка мыши</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Right mouse button</source>
-        <translation type="unfinished">Правая кнопка мыши</translation>
+        <translation>Правая кнопка мыши</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Mouse press delay, secs:</source>
-        <translation type="unfinished">Задержка нажатия мыши, с:</translation>
+        <translation>Задержка нажатия мыши, с:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Drag start distance, metres:</source>
-        <translation type="unfinished">Расстояние начала перетаскивания, м:</translation>
+        <translation>Расстояние начала перетаскивания, м:</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2897,7 +2897,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../core/src/corelayers/simplecontactlist/contactlist/lineedit.cpp" line="+40"/>
         <source>Clear search field</source>
-        <translation type="unfinished">Очистить поисковые поля</translation>
+        <translation>Очистить поисковые поля</translation>
     </message>
 </context>
 <context>
@@ -3040,122 +3040,122 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Contact joined conference</source>
-        <translation type="unfinished">Контакт присоеденился к конференции</translation>
+        <translation>Контакт присоеденился к конференции</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Contact left conference</source>
-        <translation type="unfinished">Контакт покинул конференцию</translation>
+        <translation>Контакт покинул конференцию</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Incoming conference message</source>
-        <translation type="unfinished">Входящее сообщение из конференции</translation>
+        <translation>Входящее сообщение из конференции</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Outgoing conference message</source>
-        <translation type="unfinished">Исходящее сообщение в конференцию</translation>
+        <translation>Исходящее сообщение в конференцию</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Contact online</source>
-        <translation type="unfinished">Контакт в сети</translation>
+        <translation>Контакт в сети</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Contact offline</source>
-        <translation type="unfinished">Контакт отключен</translation>
+        <translation>Контакт отключен</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Contact changed status</source>
-        <translation type="unfinished">Контакт изменил статус</translation>
+        <translation>Контакт изменил статус</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Contact birthday</source>
-        <translation type="unfinished">День рождения</translation>
+        <translation>День рождения</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Contact typing</source>
-        <translation type="unfinished">Контакт печатает</translation>
+        <translation>Контакт печатает</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>A new message has been received</source>
-        <translation type="unfinished">Получено новоее сообщение</translation>
+        <translation>Получено новоее сообщение</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A message has been sent</source>
-        <translation type="unfinished">Сообщение отправлено</translation>
+        <translation>Сообщение отправлено</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>qutIM has started</source>
-        <translation type="unfinished">qutIM торт</translation>
+        <translation>qutIM торт</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A message has been blocked</source>
-        <translation type="unfinished">Сообщение заблокировано</translation>
+        <translation>Сообщение заблокировано</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A user has joined a conference</source>
-        <translation type="unfinished">Пользователь присоеденился к конференции</translation>
+        <translation>Пользователь присоеденился к конференции</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A user has left a conference</source>
-        <translation type="unfinished">Пользователь покинул конференцию</translation>
+        <translation>Пользователь покинул конференцию</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A new conference message has been received</source>
-        <translation type="unfinished">Новое сообщение из конференции получено</translation>
+        <translation>Новое сообщение из конференции получено</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A conference message has been sent</source>
-        <translation type="unfinished">Групповое сообщение отправлено</translation>
+        <translation>Групповое сообщение отправлено</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A file transfer has been completed</source>
-        <translation type="unfinished">Передача файла завершена</translation>
+        <translation>Передача файла завершена</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A contact has gone online</source>
-        <translation type="unfinished">Контакт подключился</translation>
+        <translation>Контакт подключился</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A contact has gone offline</source>
-        <translation type="unfinished">Контакт отключился</translation>
+        <translation>Контакт отключился</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A contact has changed status</source>
-        <translation type="unfinished">Контакт изменил статус</translation>
+        <translation>Контакт изменил статус</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A contact has birthday!</source>
-        <translation type="unfinished">У контакта день рождения!</translation>
+        <translation>У контакта день рождения!</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A contact is typing</source>
-        <translation type="unfinished">Контакт печатает</translation>
+        <translation>Контакт печатает</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A system notification</source>
-        <translation type="unfinished">Системное уведомление</translation>
+        <translation>Системное уведомление</translation>
     </message>
     <message>
         <source>User joined chat</source>
@@ -3773,12 +3773,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp" line="-23"/>
         <source>ContactDelegate</source>
-        <translation type="unfinished">Отрисовщик контактов</translation>
+        <translation>Отрисовщик контактов</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Just simple</source>
-        <translation type="unfinished"></translation>
+        <translation>Просто просто :-D</translation>
     </message>
     <message>
         <source>Chat spell checker</source>
@@ -3815,12 +3815,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp" line="-4"/>
         <source>Session helper</source>
-        <translation type="unfinished">Помощник сессий</translation>
+        <translation>Помощник сессий</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Activates the session when certain events</source>
-        <translation type="unfinished">Активация сессии по событию</translation>
+        <translation>Активация сессии по событию</translation>
     </message>
     <message>
         <source>Stacked chatform for S60 devices</source>
@@ -3845,7 +3845,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../core/src/corelayers/kineticscroller/kineticscroller.cpp" line="-9"/>
         <source>Kinetic scrolling</source>
-        <translation type="unfinished">Кинетическая прокрутка</translation>
+        <translation>Кинетическая прокрутка</translation>
     </message>
     <message>
         <location filename="../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp" line="-4"/>
@@ -3888,7 +3888,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../core/src/corelayers/trayicon/simpletray.cpp" line="+56"/>
         <source>Notification Area Icon</source>
-        <translation type="unfinished">Пиктограмма области уведомления</translation>
+        <translation>Пиктограмма области уведомления</translation>
     </message>
     <message>
         <source>Tory contactlist</source>
@@ -3950,7 +3950,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+7"/>
         <source>Data dir:</source>
-        <translation type="unfinished">Папка с общими файлами:</translation>
+        <translation>Папка с общими файлами:</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -4064,12 +4064,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+9"/>
         <source>%1 has joined</source>
-        <translation type="unfinished">%1 зашел на огонек</translation>
+        <translation>%1 зашел на огонек</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>%1 has left</source>
-        <translation type="unfinished">%1 ушел в реал</translation>
+        <translation>%1 ушел в реал</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -4598,7 +4598,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+7"/>
         <source>Lite group headers</source>
-        <translation type="unfinished">Легкие заголовки групп</translation>
+        <translation>Легкие заголовки групп</translation>
     </message>
     <message>
         <location line="-14"/>
@@ -4796,7 +4796,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+3"/>
         <source>Not available</source>
-        <translation type="unfinished">Недоступен</translation>
+        <translation>Недоступен</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -5591,7 +5591,7 @@ en</source>
     <message>
         <location filename="../../core/libqutim/sound.cpp" line="+241"/>
         <source>Play sound</source>
-        <translation type="unfinished">Проиграть звук</translation>
+        <translation>Проиграть звук</translation>
     </message>
 </context>
 <context>

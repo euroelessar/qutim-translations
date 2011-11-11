@@ -628,22 +628,22 @@
     <message>
         <location line="-82"/>
         <source>Avatar</source>
-        <translation type="unfinished">Аватар</translation>
+        <translation>Аватар</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Phones</source>
-        <translation type="unfinished">Телефоны</translation>
+        <translation>Телефоны</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>E-mails</source>
-        <translation type="unfinished">Электропочта</translation>
+        <translation>Электропочта</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Addresses</source>
-        <translation type="unfinished">Адреса</translation>
+        <translation>Адреса</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -651,7 +651,7 @@
         <location line="+21"/>
         <location line="+19"/>
         <source>Work</source>
-        <translation type="unfinished">Работа</translation>
+        <translation>Работа</translation>
     </message>
     <message>
         <location line="-52"/>
@@ -673,12 +673,12 @@
     <message>
         <location line="+10"/>
         <source>Number</source>
-        <translation type="unfinished">Номер</translation>
+        <translation>Номер</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>E-mail</source>
-        <translation type="unfinished">Электропочта</translation>
+        <translation>Электропочта</translation>
     </message>
     <message>
         <location line="-342"/>
@@ -1143,7 +1143,7 @@
         <source>en</source>
         <comment>Default language</comment>
         <translatorcomment>ru ?</translatorcomment>
-        <translation type="unfinished">ru</translation>
+        <translation>ru</translation>
     </message>
 </context>
 <context>
@@ -1417,7 +1417,7 @@ Accept invitation?</source>
         <location line="-29"/>
         <location line="+35"/>
         <source> registered member</source>
-        <translation type="unfinished"> зарегистрированный участник</translation>
+        <translation> зарегистрированный участник</translation>
     </message>
     <message>
         <source> member</source>
@@ -1468,7 +1468,7 @@ Accept invitation?</source>
     <message>
         <location line="+2"/>
         <source>with reason: </source>
-        <translation type="unfinished">по причинне: </translation>
+        <translation>по причинне: </translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1624,7 +1624,7 @@ Accept invitation?</source>
     <message>
         <location line="+1"/>
         <source>Show client icon</source>
-        <translation type="unfinished">Показывать значок клиента</translation>
+        <translation>Показывать значок клиента</translation>
     </message>
 </context>
 <context>
@@ -1770,17 +1770,17 @@ Accept invitation?</source>
     <message>
         <location filename="../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp" line="-62"/>
         <source>Filter</source>
-        <translation type="unfinished">Фильтр</translation>
+        <translation>Фильтр</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Disabled</source>
-        <translation type="unfinished">Отключен</translation>
+        <translation>Отключен</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>By JID</source>
-        <translation type="unfinished">По JID</translation>
+        <translation>По JID</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1790,17 +1790,17 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>By all attributes</source>
-        <translation type="unfinished">По атрибутам</translation>
+        <translation>По атрибутам</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Visible stanzas</source>
-        <translation type="unfinished">Видимые строфы</translation>
+        <translation>Видимые строфы</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Information query</source>
-        <translation type="unfinished">Запрос информации</translation>
+        <translation>Запрос информации</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -1810,27 +1810,27 @@ Accept invitation?</source>
     <message>
         <location line="+4"/>
         <source>Presence</source>
-        <translation type="unfinished">Присутствие</translation>
+        <translation>Присутствие</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Custom</source>
-        <translation type="unfinished">Другое</translation>
+        <translation>Другое</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Close</source>
-        <translation type="unfinished">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <location line="+261"/>
         <source>Save XMPP log to file</source>
-        <translation type="unfinished">Сохранить XMPP лог в файл</translation>
+        <translation>Сохранить XMPP лог в файл</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>OpenDocument Format (*.odf);;HTML file (*.html);;Plain text (*.txt)</source>
-        <translation type="unfinished">Формат OpenDocument (*.odf);;HTML файл (*.html);;Простой текст (*.txt)</translation>
+        <translation>Формат OpenDocument (*.odf);;HTML файл (*.html);;Простой текст (*.txt)</translation>
     </message>
 </context>
 <context>
@@ -1838,37 +1838,37 @@ Accept invitation?</source>
     <message>
         <location filename="../../protocols/jabber/jreen/src/error.cpp" line="+72"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation type="unfinished">Отправитель послал неправильный XML запрос который не может быть обработан.</translation>
+        <translation>Отправитель послал неправильный XML запрос который не может быть обработан.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation type="unfinished">Доступ не может быть предоставлен, поскольку уже существует ресурс или сессия с совпадающим именем или адресом.</translation>
+        <translation>Доступ не может быть предоставлен, поскольку уже существует ресурс или сессия с совпадающим именем или адресом.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
-        <translation type="unfinished">Необходимая фича не поддерживается сервером или получаетелм и поэтому невозможно продолжить.</translation>
+        <translation>Необходимая фича не поддерживается сервером или получаетелм и поэтому невозможно продолжить.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The requesting entity does not possess the required permissions to perform the action.</source>
-        <translation type="unfinished">Объект запроса не обладает необходимыми полномочиями, чтобы выполнить действие.</translation>
+        <translation>Объект запроса не обладает необходимыми полномочиями, чтобы выполнить действие.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The recipient or server can no longer be contacted at this address.</source>
-        <translation type="unfinished">С получателем или сервером больше нельзя связаться по этому адресу.</translation>
+        <translation>С получателем или сервером больше нельзя связаться по этому адресу.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation type="unfinished">Сервер не мог обработать stanza из-за неверной конфигурации или иной неопределенной внутренней ошибки.</translation>
+        <translation>Сервер не мог обработать stanza из-за неверной конфигурации или иной неопределенной внутренней ошибки.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The addressed JID or item requested cannot be found.</source>
-        <translation type="unfinished">Адресуемый JID не может быть найден.</translation>
+        <translation>Адресуемый JID не может быть найден.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1878,12 +1878,12 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server.</source>
-        <translation type="unfinished">Получатель или сервер понимают запрос, но отказываются обработать его, потому что он не соответствует критериям, определенным получателем или сервером.</translation>
+        <translation>Получатель или сервер понимают запрос, но отказываются обработать его, потому что он не соответствует критериям, определенным получателем или сервером.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The recipient or server does not allow any entity to perform the action.</source>
-        <translation type="unfinished">Получатель или сервер не позволяют никакому объекту выполнять действие.</translation>
+        <translation>Получатель или сервер не позволяют никакому объекту выполнять действие.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1958,7 +1958,7 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>No stanza error occured. You&apos;re just sleeping.</source>
-        <translation type="unfinished">Никакой ошибки строфы не было. Ты просто спишь.</translation>
+        <translation>Никакой ошибки строфы не было. Ты просто спишь.</translation>
     </message>
 </context>
 <context>
@@ -2018,7 +2018,7 @@ Accept invitation?</source>
     <message>
         <location line="+1"/>
         <source>Calm</source>
-        <translation type="unfinished">Невозмутимый</translation>
+        <translation>Невозмутимый</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2055,7 +2055,7 @@ Accept invitation?</source>
         <location line="+1"/>
         <source>Cranky</source>
         <translatorcomment>расшатаный</translatorcomment>
-        <translation type="unfinished">Раздражённый</translation>
+        <translation>Раздражённый</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2127,7 +2127,7 @@ Accept invitation?</source>
         <location line="+1"/>
         <source>Frustrated</source>
         <translatorcomment>Фрустированный :D</translatorcomment>
-        <translation type="unfinished">Неудовлетворённый</translation>
+        <translation>Неудовлетворённый</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2167,7 +2167,7 @@ Accept invitation?</source>
     <message>
         <location line="+1"/>
         <source>Humbled</source>
-        <translation type="unfinished">Скромный</translation>
+        <translation>Скромный</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2193,7 +2193,7 @@ Accept invitation?</source>
     <message>
         <location line="+1"/>
         <source>In awe</source>
-        <translation type="unfinished">В страхе</translation>
+        <translation>В страхе</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2288,7 +2288,7 @@ Accept invitation?</source>
     <message>
         <location line="+1"/>
         <source>Relieved</source>
-        <translation type="unfinished">Освобождённый</translation>
+        <translation>Освобождённый</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2371,7 +2371,7 @@ Accept invitation?</source>
         <location line="+1"/>
         <source>Thirsty</source>
         <translatorcomment>хотящий пить</translatorcomment>
-        <translation type="unfinished">Хочу пить</translation>
+        <translation>Хочу пить</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2396,12 +2396,12 @@ Accept invitation?</source>
     <message>
         <location line="+66"/>
         <source>Mood</source>
-        <translation type="unfinished">Настроение</translation>
+        <translation>Настроение</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Show contact mood icon</source>
-        <translation type="unfinished">Показывать пиктограмму настроения контакта</translation>
+        <translation>Показывать пиктограмму настроения контакта</translation>
     </message>
 </context>
 <context>
@@ -2431,52 +2431,52 @@ Accept invitation?</source>
     <message>
         <location line="+3"/>
         <source>LiveJournal account creator</source>
-        <translation type="unfinished">Создание учетной записи LiveJournal / Жежешечки</translation>
+        <translation>Создание учетной записи LiveJournal / Жежешечки</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Account creator for LiveJournal</source>
-        <translation type="unfinished">Создание учётной записи LiveJournal / Жежешечки</translation>
+        <translation>Создание учётной записи LiveJournal / Жежешечки</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Google Talk account creator</source>
-        <translation type="unfinished">Создание аккаунтов Google Talk (GTalk)</translation>
+        <translation>Создание аккаунтов Google Talk (GTalk)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Account creator for Google Talk</source>
-        <translation type="unfinished">Создание аккаунтов Google Talk</translation>
+        <translation>Создание аккаунтов Google Talk</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Yandex.Online account creator</source>
-        <translation type="unfinished">Регистратор аккаунтов Я.Онлайн</translation>
+        <translation>Регистратор аккаунтов Я.Онлайн</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Account creator for Yandex.Online</source>
-        <translation type="unfinished">Регистратор аккаунтов для Я.Онлайн</translation>
+        <translation>Регистратор аккаунтов для Я.Онлайн</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>QIP account creator</source>
-        <translation type="unfinished">Регистратор аккаунтов QIP</translation>
+        <translation>Регистратор аккаунтов QIP</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Account creator for QIP</source>
-        <translation type="unfinished">Создание аккаунтов QIP</translation>
+        <translation>Создание аккаунтов QIP</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Jabber XML console</source>
-        <translation type="unfinished">XML консоль</translation>
+        <translation>XML консоль</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>XML console for low-level protocol debugging</source>
-        <translation type="unfinished">XML консоль для низкоуровневой отладки</translation>
+        <translation>XML консоль для низкоуровневой отладки</translation>
     </message>
     <message>
         <source>Jabber AdHoc</source>
@@ -2497,12 +2497,12 @@ Accept invitation?</source>
     <message>
         <location line="+12"/>
         <source>Jabber Service Browser</source>
-        <translation type="unfinished">Обзор сервисов jabber</translation>
+        <translation>Обзор сервисов jabber</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Implementation of service browser</source>
-        <translation type="unfinished">Реализация браузера сервисов</translation>
+        <translation>Реализация браузера сервисов</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2542,7 +2542,7 @@ Accept invitation?</source>
     <message>
         <location line="+1"/>
         <source>Provides the dialog to set your mood</source>
-        <translation type="unfinished">Диалог выбора настроения</translation>
+        <translation>Диалог выбора настроения</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2710,7 +2710,7 @@ Accept invitation?</source>
     <message>
         <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-324"/>
         <source>Main settings</source>
-        <translation type="unfinished">Общее</translation>
+        <translation>Общее</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2764,17 +2764,17 @@ Accept invitation?</source>
     <message>
         <location filename="../../protocols/jabber/src/protocol/modules/tunepep/jpersontuneconverter.cpp" line="+101"/>
         <source>Now listening</source>
-        <translation type="unfinished">Сейчас играет</translation>
+        <translation>Сейчас играет</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Tune</source>
-        <translation type="unfinished">Музыка</translation>
+        <translation>Музыка</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Show tune icon</source>
-        <translation type="unfinished">Показывать пиктограмму музыки</translation>
+        <translation>Показывать пиктограмму музыки</translation>
     </message>
 </context>
 <context>
@@ -2782,22 +2782,22 @@ Accept invitation?</source>
     <message>
         <location filename="../../protocols/jabber/jreen/src/gui/xmlconsole.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui" line="+14"/>
         <source>Xml stream console</source>
-        <translation type="unfinished">консоль xml потока</translation>
+        <translation>консоль xml потока</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Filter</source>
-        <translation type="unfinished">Фильтр</translation>
+        <translation>Фильтр</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Save log</source>
-        <translation type="unfinished">Сохранить лог</translation>
+        <translation>Сохранить лог</translation>
     </message>
 </context>
 </TS>
