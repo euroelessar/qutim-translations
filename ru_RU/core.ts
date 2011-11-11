@@ -1822,7 +1822,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Can&apos;t open file with hash</source>
-        <translation>Не возможно открыть файл с хэшем</translation>
+        <translation type="unfinished">Невозможно открыть файл с хэшем</translation>
     </message>
     <message>
         <location line="+25"/>
