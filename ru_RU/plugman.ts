@@ -411,7 +411,7 @@
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="246"/>
         <source>Unable to update package %1: installed version is later</source>
-        <translation>Обновление пакета %1 не возможно: установлена более поздняя версия</translation>
+        <translation type="unfinished">Обновление пакета %1 невозможно: установлена более поздняя версия</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/pluginstaller.cpp" line="256"/>
@@ -507,7 +507,7 @@
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="237"/>
         <source>Unable to set content</source>
         <translatorcomment>промт</translatorcomment>
-        <translation>Не возможно установить содержимое</translation>
+        <translation type="unfinished">Невозможно установить содержимое</translation>
     </message>
     <message>
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="145"/>
@@ -536,7 +536,7 @@
         <location filename="../../plugins/plugman/oldsrc/plugxmlhandler.cpp" line="208"/>
         <source>unable to set content</source>
         <translatorcomment>промт</translatorcomment>
-        <translation>не возможно установить содержимое</translation>
+        <translation type="unfinished">невозможно установить содержимое</translation>
     </message>
 </context>
 <context>
