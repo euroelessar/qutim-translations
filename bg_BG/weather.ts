@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim/plugins/weather/src/weather.cpp" line="+26"/>
+        <location filename="../../qutim/plugins/weather/src/weather.cpp" line="+36"/>
         <source>Nikita Belov</source>
         <translation>Никита Белов</translation>
     </message>
@@ -118,12 +118,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Weather</name>
     <message>
-        <location filename="../../qutim/plugins/weather/src/waccount.cpp" line="+20"/>
+        <location filename="../../qutim/plugins/weather/src/waccount.cpp" line="+30"/>
         <source>Weather</source>
         <translation>Времето</translation>
     </message>
     <message>
-        <location filename="../../qutim/plugins/weather/src/wsettings.cpp" line="+101"/>
+        <location filename="../../qutim/plugins/weather/src/wsettings.cpp" line="+111"/>
         <source>Enter here city&apos;s code</source>
         <translation>Тук се въвежда кода на града</translation>
     </message>

@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarod.cpp" line="+46"/>
+        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarod.cpp" line="+54"/>
         <source>Sidorov Aleksey</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -69,7 +69,7 @@
 <context>
     <name>YandexNarodAuthorizator</name>
     <message>
-        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="+89"/>
+        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarodauthorizator.cpp" line="+99"/>
         <source>Has no login or password</source>
         <translation>Липсват потребителско име и парола</translation>
     </message>
@@ -110,7 +110,7 @@
 <context>
     <name>YandexNarodManager</name>
     <message>
-        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarodmanage.cpp" line="+25"/>
+        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarodmanage.cpp" line="+34"/>
         <source>Yandex.Narod file manager</source>
         <translation>Yandex.Narod файлов организатор</translation>
     </message>
@@ -118,7 +118,7 @@
 <context>
     <name>YandexNarodNetMan</name>
     <message>
-        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarodnetman.cpp" line="+140"/>
+        <location filename="../../qutim/plugins/yandexnarod/src/yandexnarodnetman.cpp" line="+149"/>
         <source>Authorizing...</source>
         <translation>Удостоверяване...</translation>
     </message>
@@ -183,7 +183,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>YandexNarodUploadJob</name>
     <message>
-        <location filename="../../qutim/plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="+126"/>
+        <location filename="../../qutim/plugins/yandexnarod/src/yandexnaroduploadjob.cpp" line="+134"/>
         <source>Authorizing...</source>
         <translation>Удостоверяване...</translation>
     </message>

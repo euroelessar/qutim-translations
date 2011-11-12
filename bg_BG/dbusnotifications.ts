@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim/plugins/dbusnotifications/src/dplugin.cpp" line="+18"/>
+        <location filename="../../qutim/plugins/dbusnotifications/src/dplugin.cpp" line="+42"/>
         <source>Sidorov Aleksey</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>DBusBackend</name>
     <message>
-        <location filename="../../qutim/plugins/dbusnotifications/src/dbusbackend.cpp" line="+60"/>
+        <location filename="../../qutim/plugins/dbusnotifications/src/dbusbackend.cpp" line="+84"/>
         <source>Show popup</source>
         <translation>Да се показва изскачащ прозорец</translation>
     </message>

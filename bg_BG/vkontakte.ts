@@ -4,13 +4,13 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim/protocols/vkontakte/src/vkontakteplugin.cpp" line="+32"/>
+        <location filename="../../qutim/protocols/vkontakte/src/vkontakteplugin.cpp" line="+42"/>
         <source>Sidorov Aleksey</source>
         <translation>Алексей Сидоров</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="+18"/>
-        <location filename="../../qutim/protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+18"/>
+        <location filename="../../qutim/protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp" line="+42"/>
+        <location filename="../../qutim/protocols/vkontakte/plugins/wall/vwallmanager.cpp" line="+42"/>
         <source>Alexey Sidorov</source>
         <translation>Алексей Сидоров</translation>
     </message>
@@ -18,7 +18,7 @@
 <context>
     <name>ContactInfo</name>
     <message>
-        <location filename="../../qutim/protocols/vkontakte/src/vinforequest.cpp" line="+62"/>
+        <location filename="../../qutim/protocols/vkontakte/src/vinforequest.cpp" line="+61"/>
         <source>Nickname</source>
         <translation>Псевдоним</translation>
     </message>
@@ -63,7 +63,7 @@
         <translation>Телефон (дом.)</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/vkontakte/src/vcontact.cpp" line="+191"/>
+        <location filename="../../qutim/protocols/vkontakte/src/vcontact.cpp" line="+200"/>
         <location filename="../../qutim/protocols/vkontakte/src/vinforequest.cpp" line="+1"/>
         <source>Mobile phone</source>
         <translation>Телефон (моб.)</translation>
@@ -210,7 +210,7 @@
         <translation>Парола:</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/vkontakte/src/ui/vaccountsettings.cpp" line="+42"/>
+        <location filename="../../qutim/protocols/vkontakte/src/ui/vaccountsettings.cpp" line="+66"/>
         <source>%1 settings</source>
         <translation>%1 настройки</translation>
     </message>
@@ -241,7 +241,7 @@
 <context>
     <name>VConnection</name>
     <message>
-        <location filename="../../qutim/protocols/vkontakte/src/vconnection.cpp" line="+96"/>
+        <location filename="../../qutim/protocols/vkontakte/src/vconnection.cpp" line="+105"/>
         <source>qutIM - VKontakte authorization</source>
         <translation>qutIM -ВКонтакте удостоверяване</translation>
     </message>
@@ -249,7 +249,7 @@
 <context>
     <name>VWallSession</name>
     <message>
-        <location filename="../../qutim/protocols/vkontakte/plugins/wall/vwallsession.cpp" line="+42"/>
+        <location filename="../../qutim/protocols/vkontakte/plugins/wall/vwallsession.cpp" line="+66"/>
         <source>%1 (Wall)</source>
         <translation>%1 (Стена)</translation>
     </message>
@@ -300,7 +300,7 @@
 <context>
     <name>Vkontakte</name>
     <message>
-        <location filename="../../qutim/protocols/vkontakte/src/vkontakteprotocol.cpp" line="+83"/>
+        <location filename="../../qutim/protocols/vkontakte/src/vkontakteprotocol.cpp" line="+93"/>
         <source>Open homepage</source>
         <translation>Отваряне страницата</translation>
     </message>

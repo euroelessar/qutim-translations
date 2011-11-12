@@ -4,12 +4,12 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim/plugins/olddelegate/contactlistitemdelegate.cpp" line="+76"/>
+        <location filename="../../qutim/plugins/olddelegate/contactlistitemdelegate.cpp" line="+86"/>
         <source>qutIM 0.2 style</source>
         <translation>qutIM 0.2 стил</translation>
     </message>
     <message>
-        <location filename="../../qutim/plugins/olddelegate/settings/olddelegatesettings.cpp" line="+16"/>
+        <location filename="../../qutim/plugins/olddelegate/settings/olddelegatesettings.cpp" line="+40"/>
         <source>Default (depends on platform)</source>
         <translation>Подразбиращ се (според платформата)</translation>
     </message>
