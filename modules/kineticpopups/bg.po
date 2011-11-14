@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: bg\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.ui:20
+msgctxt "AppearanceSettings|"
+msgid "Form"
+msgstr "Настройки"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.ui:45
+msgctxt "AppearanceSettings|"
+msgid "test"
+msgstr "Проба"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.ui:65
+msgctxt "AppearanceSettings|"
+msgid "Preview is unavailable"
+msgstr "Липсва предварителен преглед"
+
+#: ../../../plugins/kineticpopups/src/backend.cpp:42
+msgctxt "KineticPopups::Backend|"
+msgid "Show popup"
+msgstr ""
+
+#: ../../../plugins/kineticpopups/src/backend.cpp:50
+msgctxt "KineticPopups::Backend|"
+msgid "Unable to create notification inside QtQuick"
+msgstr "Невъзможно е да бъде създадено уведомление чрез QtQuick"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.cpp:116
+msgctxt "KineticPopups::PopupAppearance|"
+msgid "Simple popup"
+msgstr "Обикновен изскачащ прозорец"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.cpp:117
+msgctxt "KineticPopups::PopupAppearance|"
+msgid "Preview"
+msgstr "Предварителен преглед"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.cpp:119
+msgctxt "KineticPopups::PopupAppearance|"
+msgid "Test again"
+msgstr "Повторна проба"
+
+#: ../../../plugins/kineticpopups/src/popupwidgets/quickpopupwidget.cpp:76
+msgctxt "KineticPopups::QuickNotify|"
+msgid "Notification from qutIM"
+msgstr "Уведомление от qutIM"
+
+#: ../../../plugins/kineticpopups/src/backend.cpp:45
+msgctxt "Settings|"
+msgid "Popups"
+msgstr "Изскачащи прозорци"

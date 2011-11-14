@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: de\n"
+"X-Source-Language: en\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/logger/src/logger.cpp:80
+msgctxt "Author|"
+msgid "Sidorov Aleksey"
+msgstr ""
+
+#: ../../../plugins/logger/src/logger.cpp:97
+msgctxt "Logger::LoggerPlugin|"
+msgid "New session started, happy debuging ^_^"
+msgstr "Neue Sitzung wurde gestartet. Fröhliches debuggen! ^_^"
+
+#: ../../../plugins/logger/src/logger.cpp:76
+#: ../../../plugins/logger/src/logger.cpp:101
+msgctxt "Plugin|"
+msgid "Logger"
+msgstr ""
+
+#: ../../../plugins/logger/src/logger.cpp:77
+msgctxt "Plugin|"
+msgid "Simple file based logger for debug"
+msgstr "Einfacher, dateibasierter Logger zum debuggen"
+
+#: ../../../plugins/logger/src/logger.cpp:105
+msgctxt "Plugin|"
+msgid "Select log path"
+msgstr "Pfad für Logs auswählen"
+
+#: ../../../plugins/logger/src/logger.cpp:109
+msgctxt "Plugin|"
+msgid "Enable dump of debug info"
+msgstr "Aktiviere die Speicherung von Debug-Informationen"
+
+#: ../../../plugins/logger/src/logger.cpp:81
+msgctxt "Task|"
+msgid "Author"
+msgstr "Autor"

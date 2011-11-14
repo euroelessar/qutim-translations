@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: ru\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/winintegration/src/winint.cpp:63
+msgctxt "Author|"
+msgid "Vizir Ivan"
+msgstr "Визир Иван"
+
+#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:113
+msgctxt "Core::SimpleContactList::SevenWidget|"
+msgid "Status"
+msgstr "Статус"
+
+#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:121
+msgctxt "Core::SimpleContactList::SevenWidget|"
+msgid "Search contact"
+msgstr "Поиск контакта"
+
+#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:149
+#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:327
+msgctxt "Core::SimpleContactList::SevenWidget|"
+msgid "Set Status Text"
+msgstr "Установить текст статуса"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Windows 7 Integration"
+#~ msgstr "Интеграция с Windows7®©™"
+
+#: ../../../plugins/winintegration/src/winint.cpp:66
+#: ../../../plugins/winintegration/src/winint.cpp:79
+msgctxt "Plugin|"
+msgid "Windows Integration"
+msgstr "Интеграция с Windows®©™"
+
+#: ../../../plugins/winintegration/src/winint.cpp:67
+msgctxt "Plugin|"
+msgid ""
+"Adds count of unread messages as an icon to taskbar button of qutim, along "
+"with some commands list and provides a bit more usable notification area "
+"icon than default plugin."
+msgstr ""
+"Добавляет взаимодействие с супербаром windows, количество непрочитанных "
+"сообщений, команды, уведомления итп."
+
+#~ msgctxt "SelectAccDlg|"
+#~ msgid "Dialog"
+#~ msgstr "Диалог"
+
+#~ msgctxt "SelectAccDlg|"
+#~ msgid "Select your account"
+#~ msgstr "Выберите аккаунт"
+
+#, qt-format
+#~ msgctxt "SelectAccDlg|"
+#~ msgid "Please, select one of your accout to chat with Jabber ID %1."
+#~ msgstr "Выберите аккаунт jabber, для чата с %1."
+
+#~ msgctxt "SelectAccDlg|"
+#~ msgid "Available accounts:"
+#~ msgstr "Доступные аккаунты:"
+
+#: ../../../plugins/winintegration/src/winint.cpp:64
+msgctxt "Task|"
+msgid "Author"
+msgstr "Автор"
+
+#~ msgctxt "WPreviews|"
+#~ msgid "<b>You have new messages:</b>"
+#~ msgstr "<b>Новые сообщения:</b>"
+
+#, qt-format
+#~ msgctxt "WPreviews|"
+#~ msgid "&middot; %n message(s) from chats."
+#~ msgid_plural "&middot; %n message(s) from chats."
+#~ msgstr[0] "&middot; %n сообщение из чата."
+#~ msgstr[1] "&middot; %n сообщения из чатов."
+#~ msgstr[2] "&middot; %n сообщений из чатов."
+
+#, qt-format
+#~ msgctxt "WPreviews|"
+#~ msgid "&middot; %n message(s) from conferences."
+#~ msgid_plural "&middot; %n message(s) from conferences."
+#~ msgstr[0] "&middot; %n сообщение из конференции."
+#~ msgstr[1] "&middot; %n сообщения из конференций."
+#~ msgstr[2] "&middot; %n сообщений из конференций."
+
+#~ msgctxt "WPreviews|"
+#~ msgid "Last received from:"
+#~ msgstr "Последний принят от:"
+
+#~ msgctxt "WPreviews|"
+#~ msgid "You have no new messages."
+#~ msgstr "Нет новых сообщений."
+
+#: ../../../plugins/winintegration/src/wsettings.ui:14
+msgctxt "WSettingsForm|"
+msgid "Form"
+msgstr "Настройки"
+
+#: ../../../plugins/winintegration/src/wsettings.ui:33
+msgctxt "WSettingsForm|"
+msgid "General"
+msgstr "Главные"
+
+#: ../../../plugins/winintegration/src/wsettings.ui:39
+msgctxt "WSettingsForm|"
+msgid "Links association"
+msgstr "Ассоциации ссылок"
+
+#: ../../../plugins/winintegration/src/wsettings.ui:45
+msgctxt "WSettingsForm|"
+msgid ""
+"Open Jabber links with qutIM. This may require administrative privelegies."
+msgstr ""
+"Открытие Jabber/XMPP ссылок в qutIM.\n"
+"Это может потребовать административных привелегий."
+
+#: ../../../plugins/winintegration/src/wsettings.ui:65
+msgctxt "WSettingsForm|"
+msgid "Update associations"
+msgstr "Обновить ассоциации"
+
+#: ../../../plugins/winintegration/src/wsettings.ui:104
+msgctxt "WSettingsForm|"
+msgid "Taskbar"
+msgstr "Панель задач"
+
+#: ../../../plugins/winintegration/src/wsettings.ui:110
+msgctxt "WSettingsForm|"
+msgid "Overlay Icon"
+msgstr "Статусная иконка"
+
+#: ../../../plugins/winintegration/src/wsettings.ui:116
+#: ../../../plugins/winintegration/src/wsettings.ui:152
+msgctxt "WSettingsForm|"
+msgid "Enabled"
+msgstr "Включено"
+
+#: ../../../plugins/winintegration/src/wsettings.ui:126
+#: ../../../plugins/winintegration/src/wsettings.ui:162
+msgctxt "WSettingsForm|"
+msgid "Show new messages number"
+msgstr "Показывать количество сообщений"
+
+#: ../../../plugins/winintegration/src/wsettings.ui:136
+msgctxt "WSettingsForm|"
+msgid "Add new conference messages number"
+msgstr "Добавить число сообщений из конференций"
+
+#: ../../../plugins/winintegration/src/wsettings.ui:146
+msgctxt "WSettingsForm|"
+msgid "Thumbnails"
+msgstr "Миниатюры"
+
+#: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:128
+msgctxt "WThumbnailsProvider|"
+msgid "<b>You have new messages.</b>"
+msgstr "<b>Есть новые сообщения.</b>"
+
+#: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:131
+#, qt-format
+msgctxt "WThumbnailsProvider|"
+msgid "&middot; %n message(s) from chats."
+msgid_plural "&middot; %n message(s) from chats."
+msgstr[0] "&middot; %n сообщение из чата."
+msgstr[1] "&middot; %n сообщения из чатов."
+msgstr[2] "&middot; %n сообщений из чатов."
+
+#: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:132
+#, qt-format
+msgctxt "WThumbnailsProvider|"
+msgid "&middot; %n message(s) from conferences."
+msgid_plural "&middot; %n message(s) from conferences."
+msgstr[0] "&middot; %n сообщение из конференции."
+msgstr[1] "&middot; %n сообщения из конференций."
+msgstr[2] "&middot; %n сообщений из конференций."
+
+#: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:138
+msgctxt "WThumbnailsProvider|"
+msgid "Last received from:"
+msgstr "Последний принят от:"
+
+#: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:142
+msgctxt "WThumbnailsProvider|"
+msgid "You have no new messages."
+msgstr "Нет новых сообщений."

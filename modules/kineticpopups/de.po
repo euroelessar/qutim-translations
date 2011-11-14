@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: de\n"
+"X-Source-Language: en_US\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.ui:20
+msgctxt "AppearanceSettings|"
+msgid "Form"
+msgstr ""
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.ui:45
+msgctxt "AppearanceSettings|"
+msgid "test"
+msgstr "Testen!"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.ui:65
+msgctxt "AppearanceSettings|"
+msgid "Preview is unavailable"
+msgstr "Vorschau nicht verfügbar"
+
+#: ../../../plugins/kineticpopups/src/backend.cpp:42
+msgctxt "KineticPopups::Backend|"
+msgid "Show popup"
+msgstr "Zeige Popup"
+
+#: ../../../plugins/kineticpopups/src/backend.cpp:50
+msgctxt "KineticPopups::Backend|"
+msgid "Unable to create notification inside QtQuick"
+msgstr "Kann keine Benachrichtigung in QtQuick erstellen"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.cpp:116
+msgctxt "KineticPopups::PopupAppearance|"
+msgid "Simple popup"
+msgstr "Völlig belangloses Popup"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.cpp:117
+msgctxt "KineticPopups::PopupAppearance|"
+msgid "Preview"
+msgstr "Vorschau"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.cpp:119
+msgctxt "KineticPopups::PopupAppearance|"
+msgid "Test again"
+msgstr "Nochmal testen"
+
+#: ../../../plugins/kineticpopups/src/popupwidgets/quickpopupwidget.cpp:76
+msgctxt "KineticPopups::QuickNotify|"
+msgid "Notification from qutIM"
+msgstr "Benachrichtigung von qutIM"
+
+#: ../../../plugins/kineticpopups/src/backend.cpp:45
+msgctxt "Settings|"
+msgid "Popups"
+msgstr "Benachrichtigungen"

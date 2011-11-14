@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: ru\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/symbianintegration/symbianchatform/stackedchatwidget.cpp:83
+msgctxt "ChatWidget|"
+msgid "Toggle fullscreen"
+msgstr "Во весь экран"
+
+#: ../../../plugins/symbianintegration/symbianchatform/stackedchatwidget.cpp:61
+msgctxt "Core::AdiumChat::Symbian::StackedChatWidget|"
+msgid "Send to"
+msgstr "Отправить в"
+
+#: ../../../plugins/symbianintegration/symbianchatform/stackedchatwidget.cpp:132
+#: ../../../plugins/symbianintegration/symbianchatform/stackedchatwidget.cpp:329
+msgctxt "Core::AdiumChat::Symbian::StackedChatWidget|"
+msgid "Send"
+msgstr "Спамить"
+
+#: ../../../plugins/symbianintegration/symbianchatform/stackedchatwidget.cpp:311
+#: ../../../plugins/symbianintegration/symbianchatform/stackedchatwidget.cpp:328
+msgctxt "Core::AdiumChat::Symbian::StackedChatWidget|"
+msgid "Actions"
+msgstr "Действия"
+
+#: ../../../plugins/symbianintegration/symbiancontactlistwidget/symbianwidget.cpp:85
+msgctxt "Core::SimpleContactList::SymbianWidget|"
+msgid "Search contact"
+msgstr "Поиск контакта"
+
+#: ../../../plugins/symbianintegration/symbiancontactlistwidget/symbianwidget.cpp:87
+msgctxt "Core::SimpleContactList::SymbianWidget|"
+msgid "Status"
+msgstr "Статус"
+
+#: ../../../plugins/symbianintegration/symbiancontactlistwidget/symbianwidget.cpp:118
+#: ../../../plugins/symbianintegration/symbiancontactlistwidget/symbianwidget.cpp:166
+msgctxt "Core::SimpleContactList::SymbianWidget|"
+msgid "Set Status Text"
+msgstr "Установить текст статуса"
+
+#: ../../../plugins/symbianintegration/symbiancontactlistwidget/symbianwidget.cpp:175
+msgctxt "Core::SimpleContactList::SymbianWidget|"
+msgid "Actions"
+msgstr "Действия"
+
+#: ../../../plugins/symbianintegration/symbianchatform/stackedchatform.cpp:47
+msgctxt "Settings|"
+msgid "Chat"
+msgstr "Чат"
+
+#: ../../../plugins/symbianintegration/symbianchatform/settings/stackedchatbehavior.ui:14
+msgctxt "StackedChatBehavior|"
+msgid "Form"
+msgstr "Настройки"
+
+#: ../../../plugins/symbianintegration/symbianchatform/settings/stackedchatbehavior.ui:56
+msgctxt "StackedChatBehavior|"
+msgid "Store service messages in history"
+msgstr "Хранить служебные сообщения в истории"
+
+#: ../../../plugins/symbianintegration/symbianchatform/settings/stackedchatbehavior.ui:63
+msgctxt "StackedChatBehavior|"
+msgid "Number of previous messages shown in new chats"
+msgstr "Количество предыдущих сообщений в новом чатике"
+
+#: ../../../plugins/symbianintegration/symbianchatform/settings/stackedchatbehavior.ui:66
+msgctxt "StackedChatBehavior|"
+msgid "Number of shown previous messages:"
+msgstr "Количество предыдущих сообщений:"
+
+#: ../../../plugins/symbianintegration/symbianchatform/settings/stackedchatbehavior.ui:76
+msgctxt "StackedChatBehavior|"
+msgid "Don't group messages after (sec):"
+msgstr "Не группировать сообщения после (с):"
+
+#: ../../../plugins/symbianintegration/symbianchatform/settings/stackedchatbehavior.ui:90
+msgctxt "StackedChatBehavior|"
+msgid "Notifications in active chat"
+msgstr "Уведомления в активном чате"
+
+#: ../../../plugins/symbianintegration/symbianvibra/symbianvibration.cpp:36
+#, fuzzy
+msgctxt "Symbian::Vibration|"
+msgid "Vibration"
+msgstr "Вибрация"

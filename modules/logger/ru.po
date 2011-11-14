@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: ru\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/logger/src/logger.cpp:80
+msgctxt "Author|"
+msgid "Sidorov Aleksey"
+msgstr "Сидоров Алексей"
+
+#: ../../../plugins/logger/src/logger.cpp:97
+msgctxt "Logger::LoggerPlugin|"
+msgid "New session started, happy debuging ^_^"
+msgstr "Новая сессия запущена, удачной отладки ^_^"
+
+# Не изменять!
+#: ../../../plugins/logger/src/logger.cpp:76
+#: ../../../plugins/logger/src/logger.cpp:101
+msgctxt "Plugin|"
+msgid "Logger"
+msgstr "Летописец"
+
+#: ../../../plugins/logger/src/logger.cpp:77
+msgctxt "Plugin|"
+msgid "Simple file based logger for debug"
+msgstr "Сборщик отладочного вывода в файл (В помощь отладчику)"
+
+#: ../../../plugins/logger/src/logger.cpp:105
+msgctxt "Plugin|"
+msgid "Select log path"
+msgstr "Выберите путь к логам"
+
+#: ../../../plugins/logger/src/logger.cpp:109
+msgctxt "Plugin|"
+msgid "Enable dump of debug info"
+msgstr "Включить dump отладочной информации"
+
+#: ../../../plugins/logger/src/logger.cpp:81
+msgctxt "Task|"
+msgid "Author"
+msgstr "Автор"

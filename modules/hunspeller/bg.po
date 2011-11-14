@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: bg\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/hunspeller/src/hunspellplugin.cpp:36
+msgctxt "Author|"
+msgid "Alexey Prokhin"
+msgstr "Алексей Прохин"
+
+#: ../../../plugins/hunspeller/src/hunspellsettings.cpp:35
+msgctxt "HunSpellSettings|"
+msgid "Language"
+msgstr "Език"
+
+#: ../../../plugins/hunspeller/src/hunspellplugin.cpp:39
+#: ../../../plugins/hunspeller/src/hunspellplugin.cpp:42
+msgctxt "Plugin|"
+msgid "HunSpell checker"
+msgstr "HunSpell проерка на правописа"
+
+#: ../../../plugins/hunspeller/src/hunspellplugin.cpp:40
+#: ../../../plugins/hunspeller/src/hunspellplugin.cpp:43
+msgctxt "Plugin|"
+msgid "Check spelling by HunSpell library"
+msgstr "Проверка на правописа с помощта на HunSpell"
+
+#: ../../../plugins/hunspeller/src/hunspellchecker.cpp:53
+msgctxt "Settings|"
+msgid "Spell checker"
+msgstr "Проверка на правописа"
+
+#: ../../../plugins/hunspeller/src/hunspellplugin.cpp:37
+msgctxt "Task|"
+msgid "Author"
+msgstr "Автор"

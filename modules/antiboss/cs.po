@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"X-Language: cs\n"
+"X-Source-Language: en_GB\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:48
+msgctxt "AntiBoss|"
+msgid "Show/hide all windows"
+msgstr "Zobrazit/skrýt všechny okna"
+
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:49
+msgctxt "AntiBoss|"
+msgid "Antiboss"
+msgstr ""
+
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:39
+msgctxt "Author|"
+msgid "Ruslan Nigmatullin"
+msgstr ""
+
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:42
+msgctxt "Plugin|"
+msgid "Anti-boss plugin"
+msgstr ""
+
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:43
+msgctxt "Plugin|"
+msgid "Plugin makes your chatting invisible for boss"
+msgstr "Plugin vytváří konverzaci neviditelnou pro šéfa"
+
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:40
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Vývojář"

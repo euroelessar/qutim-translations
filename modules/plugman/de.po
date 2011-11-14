@@ -1,0 +1,651 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: de\n"
+"X-Source-Language: en_US\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.cpp:66
+msgctxt "ChooseCategoryPage|"
+msgid "Select art"
+msgstr "Design/Optik auswählen"
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.cpp:75
+msgctxt "ChooseCategoryPage|"
+msgid "Select core"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.cpp:80
+msgctxt "ChooseCategoryPage|"
+msgid "Library (*.dll)"
+msgstr "Bibliothek (*.dll)"
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.cpp:82
+msgctxt "ChooseCategoryPage|"
+msgid "Library (*.dylib *.bundle *.so)"
+msgstr "Bibliothek (*.dylib *.bundle *.so)"
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.cpp:84
+msgctxt "ChooseCategoryPage|"
+msgid "Library (*.so)"
+msgstr "Bibliothek (*.so)"
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.cpp:86
+msgctxt "ChooseCategoryPage|"
+msgid "Select library"
+msgstr "Bibliothek auswählen"
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:14
+msgctxt "ChooseCategoryPage|"
+msgid "WizardPage"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:23
+msgctxt "ChooseCategoryPage|"
+msgid "Package category:"
+msgstr "Kategorie:"
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:31
+msgctxt "ChooseCategoryPage|"
+msgid "Art"
+msgstr "Design/Optik"
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:36
+msgctxt "ChooseCategoryPage|"
+msgid "Core"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:41
+msgctxt "ChooseCategoryPage|"
+msgid "Lib"
+msgstr "Bibliothek"
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:46
+msgctxt "ChooseCategoryPage|"
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:66
+msgctxt "ChooseCategoryPage|"
+msgid "..."
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/choosepathpage.ui:14
+msgctxt "ChoosePathPage|"
+msgid "WizardPage"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/choosepathpage.ui:35
+msgctxt "ChoosePathPage|"
+msgid "..."
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:14
+msgctxt "ConfigPackagePage|"
+msgid "WizardPage"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:29
+msgctxt "ConfigPackagePage|"
+msgid "Name:"
+msgstr "Name:"
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:41
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:62
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:113
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:134
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:165
+msgctxt "ConfigPackagePage|"
+msgid "*"
+msgstr "*"
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:50
+msgctxt "ConfigPackagePage|"
+msgid "Version:"
+msgstr "Version:"
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:71
+msgctxt "ConfigPackagePage|"
+msgid "Category:"
+msgstr "Kategorie:"
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:90
+msgctxt "ConfigPackagePage|"
+msgid "Art"
+msgstr "Design/Optik"
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:95
+msgctxt "ConfigPackagePage|"
+msgid "Core"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:100
+msgctxt "ConfigPackagePage|"
+msgid "Lib"
+msgstr "Bibliothek"
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:105
+msgctxt "ConfigPackagePage|"
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:122
+msgctxt "ConfigPackagePage|"
+msgid "Type:"
+msgstr "Typ:"
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:143
+msgctxt "ConfigPackagePage|"
+msgid "Short description:"
+msgstr "Kurzbeschreibung:"
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:153
+msgctxt "ConfigPackagePage|"
+msgid "Url:"
+msgstr "URL:"
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:174
+msgctxt "ConfigPackagePage|"
+msgid "Author:"
+msgstr "Autor:"
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:184
+msgctxt "ConfigPackagePage|"
+msgid "License:"
+msgstr "Lizenz:"
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:194
+msgctxt "ConfigPackagePage|"
+msgid "Platform:"
+msgstr "Plattform:"
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:211
+msgctxt "ConfigPackagePage|"
+msgid "Package name:"
+msgstr "Paketname:"
+
+#: ../../../plugins/plugman/src/packagedownloaddialog.ui:14
+msgctxt "PackageDownloadDialog|"
+msgid "Form"
+msgstr "Paketverwaltung"
+
+#: ../../../plugins/plugman/src/packagedownloaddialog.ui:26
+msgctxt "PackageDownloadDialog|"
+msgid "Order by:"
+msgstr "Sortieren nach:"
+
+#: ../../../plugins/plugman/src/packagedownloaddialog.ui:33
+msgctxt "PackageDownloadDialog|"
+msgid "Newest"
+msgstr "Neueste"
+
+#: ../../../plugins/plugman/src/packagedownloaddialog.ui:43
+msgctxt "PackageDownloadDialog|"
+msgid "Rating"
+msgstr "Bewertung"
+
+#: ../../../plugins/plugman/src/packagedownloaddialog.ui:50
+msgctxt "PackageDownloadDialog|"
+msgid "Most downloads"
+msgstr "Downloads"
+
+#: ../../../plugins/plugman/src/packagedownloaddialog.ui:57
+msgctxt "PackageDownloadDialog|"
+msgid "Installed"
+msgstr "Installiert"
+
+#: ../../../plugins/plugman/src/packagedownloaddialog.ui:64
+msgctxt "PackageDownloadDialog|"
+msgid "Search:"
+msgstr "Suchen:"
+
+#: ../../../plugins/plugman/src/packageentrywidget.cpp:99
+#: ../../../plugins/plugman/src/packageentrywidget.cpp:102
+#: ../../../plugins/plugman/src/packageentrywidget.cpp:105
+#, qt-format
+msgctxt "PackageEntryWidget|"
+msgid "By <i>%1</i>"
+msgstr "Von <i>%1</i>"
+
+#: ../../../plugins/plugman/src/packageentrywidget.cpp:121
+msgctxt "PackageEntryWidget|"
+msgid "Install"
+msgstr "Installieren"
+
+#: ../../../plugins/plugman/src/packageentrywidget.cpp:125
+msgctxt "PackageEntryWidget|"
+msgid "Update"
+msgstr "Updaten"
+
+#: ../../../plugins/plugman/src/packageentrywidget.cpp:129
+msgctxt "PackageEntryWidget|"
+msgid "Installing"
+msgstr "installieren..."
+
+#: ../../../plugins/plugman/src/packageentrywidget.cpp:134
+msgctxt "PackageEntryWidget|"
+msgid "Updating"
+msgstr "updaten..."
+
+#: ../../../plugins/plugman/src/packageentrywidget.cpp:139
+msgctxt "PackageEntryWidget|"
+msgid "Uninstall"
+msgstr "deinstallieren..."
+
+#: ../../../plugins/plugman/src/plugman.cpp:64
+msgctxt "PackageManager|"
+msgid "Manage packages"
+msgstr "Paketverwaltung..."
+
+#: ../../../plugins/plugman/src/plugman.cpp:52
+msgctxt "Plugin|"
+msgid "Package manager"
+msgstr ""
+
+#: ../../../plugins/plugman/src/plugman.cpp:53
+msgctxt "Plugin|"
+msgid "Provides possibility to Get Hot New Stuff from open community"
+msgstr "Brandneue, tolle Styles von der Community downloaden"
+
+#: ../../../plugins/plugman/oldsrc/plugpackage.cpp:59
+msgctxt "QObject|"
+msgid "Package name is empty"
+msgstr "\"Paketname\" ist nicht definiert"
+
+#: ../../../plugins/plugman/oldsrc/plugpackage.cpp:63
+msgctxt "QObject|"
+msgid "Package type is empty"
+msgstr "\"Pakettyp\" ist nicht definiert"
+
+#: ../../../plugins/plugman/oldsrc/plugpackage.cpp:67
+msgctxt "QObject|"
+msgid "Invalid package version"
+msgstr "Ungültige Paketversion"
+
+#: ../../../plugins/plugman/oldsrc/plugpackage.cpp:74
+msgctxt "QObject|"
+msgid "Wrong platform"
+msgstr "Falsche Plattform"
+
+#: ../../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp:86
+msgctxt "QObject|"
+msgid "No target filename has been given."
+msgstr "Kein Dateiname angegeben."
+
+#: ../../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp:93
+msgctxt "QObject|"
+msgid "Already opened."
+msgstr "Bereits geöffnet."
+
+#: ../../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp:103
+msgctxt "QObject|"
+msgid "Insufficient permissions in target directory."
+msgstr "Keine Berechtigung im Zielverzeichnis."
+
+#: ../../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp:113
+msgctxt "QObject|"
+msgid "Unable to open temporary file."
+msgstr "Kann temporäre Datei nicht öffnen."
+
+#: ../../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp:218
+msgctxt "QObject|"
+msgid "Synchronization to disk failed"
+msgstr "Synchronisierung zur Festplatte fehlgeschlagen"
+
+#: ../../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp:242
+msgctxt "QObject|"
+msgid "Error during rename."
+msgstr "Fehler beim Umbenennen."
+
+#: ../../../plugins/plugman/ui/manager.ui:20
+msgctxt "manager|"
+msgid "Plugman"
+msgstr "Pakete verwalten"
+
+#: ../../../plugins/plugman/ui/manager.ui:51
+msgctxt "manager|"
+msgid "Not yet implemented"
+msgstr ""
+
+#: ../../../plugins/plugman/ui/manager.ui:61
+msgctxt "manager|"
+msgid "Apply"
+msgstr "Anwenden"
+
+#: ../../../plugins/plugman/ui/manager.ui:93
+msgctxt "manager|"
+msgid "Actions"
+msgstr "Aktionen"
+
+#: ../../../plugins/plugman/ui/manager.ui:115
+msgctxt "manager|"
+msgid "find"
+msgstr "Suchen"
+
+#: ../../../plugins/plugman/oldsrc/plugdownloader.cpp:101
+msgctxt "plugDownloader|"
+msgid "bytes/sec"
+msgstr "bytes/s"
+
+#: ../../../plugins/plugman/oldsrc/plugdownloader.cpp:104
+msgctxt "plugDownloader|"
+msgid "kB/s"
+msgstr "kB/s"
+
+#: ../../../plugins/plugman/oldsrc/plugdownloader.cpp:107
+msgctxt "plugDownloader|"
+msgid "MB/s"
+msgstr "MB/s"
+
+#: ../../../plugins/plugman/oldsrc/plugdownloader.cpp:112
+#, qt-format
+#| msgid "Failed to download: %1"
+msgctxt "plugDownloader|"
+msgid "Downloading: %1%, speed: %2 %3"
+msgstr "Downloaden: %1%, Geschwindigkeit: %2 %3"
+
+#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:81
+#, qt-format
+msgctxt "plugInstaller|"
+msgid "Unable to open archive: %1"
+msgstr "Archiv kann nicht geöffnet werden: %1"
+
+#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:103
+#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:238
+msgctxt "plugInstaller|"
+msgid "warning: trying to overwrite existing files!"
+msgstr "Warnung: Versuche bereits existierende Dateien zu überschreiben!"
+
+#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:69
+msgctxt "plugInstaller|"
+msgid "Need restart!"
+msgstr "Neustart erforderlich!"
+
+#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:109
+#, qt-format
+msgctxt "plugInstaller|"
+msgid "Unable to extract archive: %1 to %2"
+msgstr "Kann Archiv nicht entpacken: %1 nach %2"
+
+#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:116
+#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:250
+#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:260
+msgctxt "plugInstaller|"
+msgid "Installing:"
+msgstr "Installiere:"
+
+#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:246
+#, qt-format
+msgctxt "plugInstaller|"
+msgid "Unable to update package %1: installed version is later"
+msgstr ""
+"Aktualisieren des Pakets %1 nicht möglich: Die installierte Version ist neuer"
+
+#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:256
+#, qt-format
+msgctxt "plugInstaller|"
+msgid "Unable to install package: %1"
+msgstr "Kann das Paket nicht installieren: %1"
+
+#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:146
+#, qt-format
+msgctxt "plugInstaller|"
+msgid "Invalid package: %1"
+msgstr "Ungültiges Paket: %1"
+
+#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:184
+#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:193
+msgctxt "plugInstaller|"
+msgid "Removing:"
+msgstr "Entferne:"
+
+#: ../../../plugins/plugman/oldsrc/plugitemdelegate.cpp:77
+msgctxt "plugItemDelegate|"
+msgid "isUpgradable"
+msgstr "Upgrade möglich"
+
+#: ../../../plugins/plugman/oldsrc/plugitemdelegate.cpp:81
+msgctxt "plugItemDelegate|"
+msgid "isInstallable"
+msgstr "Installierbar"
+
+#: ../../../plugins/plugman/oldsrc/plugitemdelegate.cpp:85
+msgctxt "plugItemDelegate|"
+msgid "isDowngradable"
+msgstr "Downgrade möglich"
+
+#: ../../../plugins/plugman/oldsrc/plugitemdelegate.cpp:89
+msgctxt "plugItemDelegate|"
+msgid "installed"
+msgstr "Installiert"
+
+#: ../../../plugins/plugman/oldsrc/plugitemdelegate.cpp:93
+msgctxt "plugItemDelegate|"
+msgid "Unknown"
+msgstr "Unbekannt"
+
+#: ../../../plugins/plugman/oldsrc/plugitemdelegate.cpp:99
+msgctxt "plugItemDelegate|"
+msgid "Install"
+msgstr "Installieren"
+
+#: ../../../plugins/plugman/oldsrc/plugitemdelegate.cpp:104
+msgctxt "plugItemDelegate|"
+msgid "Remove"
+msgstr "Entfernen"
+
+#: ../../../plugins/plugman/oldsrc/plugitemdelegate.cpp:109
+msgctxt "plugItemDelegate|"
+msgid "Upgrade"
+msgstr "Upgraden"
+
+#: ../../../plugins/plugman/oldsrc/plugmanager.cpp:54
+msgctxt "plugManager|"
+msgid "Actions"
+msgstr "Aktionen"
+
+#: ../../../plugins/plugman/oldsrc/plugmanager.cpp:55
+msgctxt "plugManager|"
+msgid "Update packages list"
+msgstr "Paketliste aktualisieren"
+
+#: ../../../plugins/plugman/oldsrc/plugmanager.cpp:57
+msgctxt "plugManager|"
+msgid "Upgrade all"
+msgstr "Alles Upgraden"
+
+#: ../../../plugins/plugman/oldsrc/plugmanager.cpp:61
+msgctxt "plugManager|"
+msgid "Revert changes"
+msgstr "Änderungen rückgängig machen"
+
+#: ../../../plugins/plugman/oldsrc/plugpackagemodel.cpp:122
+msgctxt "plugPackageModel|"
+msgid "Packages"
+msgstr "Pakete"
+
+#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:127
+#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:233
+#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:248
+msgctxt "plugXMLHandler|"
+msgid "Unable to open file"
+msgstr "Konnte Datei nicht öffnen"
+
+#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:131
+#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:237
+msgctxt "plugXMLHandler|"
+msgid "Unable to set content"
+msgstr ""
+
+#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:145
+#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:184
+msgctxt "plugXMLHandler|"
+msgid "Unable to write file"
+msgstr "Konnte Datei nicht schreiben"
+
+#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:162
+#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:297
+msgctxt "plugXMLHandler|"
+msgid "Can't read database. Check your pesmissions."
+msgstr "Konnte Datenbank nicht lesen. Zugriffsrechte überprüfen!"
+
+#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:167
+#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:303
+msgctxt "plugXMLHandler|"
+msgid "Broken package database"
+msgstr "Ungültige Paketdatenbank"
+
+#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:205
+msgctxt "plugXMLHandler|"
+msgid "unable to open file"
+msgstr "kann Datei nicht öffnen"
+
+#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:208
+msgctxt "plugXMLHandler|"
+msgid "unable to set content"
+msgstr ""
+
+#: ../../../plugins/plugman/ui/settings.ui:20
+#, fuzzy
+msgctxt "plugmanSettings|"
+msgid "Form"
+msgstr "Paketverwaltung"
+
+#: ../../../plugins/plugman/ui/settings.ui:39
+msgctxt "plugmanSettings|"
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../../../plugins/plugman/ui/settings.ui:97
+msgctxt "plugmanSettings|"
+msgid "Not yet implemented"
+msgstr ""
+
+#: ../../../plugins/plugman/ui/settings.ui:48
+msgctxt "plugmanSettings|"
+msgid "group packages"
+msgstr "Pakete gruppieren"
+
+#: ../../../plugins/plugman/ui/settings.ui:58
+msgctxt "plugmanSettings|"
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Droid Sans'; font-size:9pt; "
+"font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-weight:600;\">Mirror list</span></p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Droid Sans'; font-size:9pt; "
+"font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-weight:600;\">Mirrors</span></p></body></html>"
+
+#: ../../../plugins/plugman/ui/settings.ui:81
+msgctxt "plugmanSettings|"
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: ../../../plugins/plugman/ui/settings.ui:111
+msgctxt "plugmanSettings|"
+msgid "About"
+msgstr "Über"
+
+#: ../../../plugins/plugman/ui/settings.ui:126
+msgctxt "plugmanSettings|"
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Verdana'; font-size:8pt; "
+"font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-family:'Bitstream Vera Sans'; font-size:10pt;\">simple qutIM extentions "
+"manager.</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+"font-family:'Bitstream Vera Sans'; font-size:10pt;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-family:'Bitstream Vera Sans'; font-size:10pt; "
+"font-weight:600;\">Author: </span><span style=\" font-family:'Bitstream Vera "
+"Sans'; font-size:10pt;\">Sidorov Aleksey</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-family:'Bitstream Vera Sans'; font-size:10pt; "
+"font-weight:600;\">Contacts: </span><a "
+"href=\"mailto::sauron@citadelspb.com\"><span style=\" font-family:'Bitstream "
+"Vera Sans'; font-size:10pt; text-decoration: underline; "
+"color:#0000ff;\">sauron@citadeslpb.com</span></a></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-family:'Droid Serif'; font-size:10pt;\"><br /></span></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px;\"><span style=\" font-family:'Droid Serif'; "
+"font-size:10pt;\">2008-2009</span></p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Verdana'; font-size:8pt; "
+"font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-family:'Bitstream Vera Sans'; font-size:10pt;\">Einfache qutIM "
+"Paketverwaltung.</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+"font-family:'Bitstream Vera Sans'; font-size:10pt;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:600;\">Autor: "
+"</span><span style=\" font-family:'Bitstream Vera Sans'; "
+"font-size:10pt;\">Sidorov Aleksey</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-family:'Bitstream Vera Sans'; font-size:10pt; "
+"font-weight:600;\">Kontakt: </span><a "
+"href=\"mailto::sauron@citadelspb.com\"><span style=\" font-family:'Bitstream "
+"Vera Sans'; font-size:10pt; text-decoration: underline; "
+"color:#0000ff;\">sauron@citadeslpb.com</span></a></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-family:'Droid Serif'; font-size:10pt;\"><br /></span></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px;\"><span style=\" font-family:'Droid Serif'; "
+"font-size:10pt;\">2008-2009</span></p></body></html>"
+
+#: ../../../plugins/plugman/oldsrc/plugmansettings.cpp:42
+msgctxt "plugmanSettings|"
+msgid "Name"
+msgstr "Name"
+
+#: ../../../plugins/plugman/oldsrc/plugmansettings.cpp:42
+msgctxt "plugmanSettings|"
+msgid "Description"
+msgstr "Beschreibung"
+
+#: ../../../plugins/plugman/oldsrc/plugmansettings.cpp:42
+msgctxt "plugmanSettings|"
+msgid "Url"
+msgstr "URL"

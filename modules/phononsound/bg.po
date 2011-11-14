@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: bg\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:31
+msgctxt "Author|"
+msgid "Ruslan Nigmatullin"
+msgstr "Руслан Нигматуллин"
+
+#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:34
+#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:40
+msgctxt "Plugin|"
+msgid "Phonon sound engine"
+msgstr "Поддръжка на звук, чрез Phonon"
+
+#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:35
+#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:41
+msgctxt "Plugin|"
+msgid "Sound engine based on KDE sound engine"
+msgstr "Поддръжка на звук, на базата на звуковата система на KDE"
+
+#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:32
+msgctxt "Task|"
+msgid "Author"
+msgstr "Автор"

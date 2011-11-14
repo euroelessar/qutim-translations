@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: bg\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../protocols/quetzal/src/quetzalplugin.cpp:660
+msgctxt "Plugin|"
+msgid "Quetzal"
+msgstr "Quetzal"
+
+#: ../../../protocols/quetzal/src/quetzalplugin.cpp:661
+#: ../../../protocols/quetzal/src/quetzalplugin.cpp:706
+#: ../../../protocols/quetzal/src/quetzalplugin.cpp:710
+msgctxt "Plugin|"
+msgid "'Quetzal' is set of protocols, powered by libpurple"
+msgstr "\"Quetzal\" е набор от протоколи, поддържани от libpurple"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:61
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Username"
+msgstr "Потребителско име"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:75
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Password"
+msgstr "Парола"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:80
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Save password"
+msgstr "Запис на паролата"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:137
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Unable to save new account"
+msgstr "Неуспешен запис на новата сметка"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:138
+msgctxt "QuetzalAccountWizardPage|"
+msgid "An account already exists with the specified criteria."
+msgstr "Вече съществува такава сметка."
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:156
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Register"
+msgstr "Регистриране"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:197
+msgctxt "QuetzalAccountWizardPage|"
+msgid ""
+"Registration is succesfull\n"
+"Complete account creating by clicking on Finish button"
+msgstr ""
+"Регистрацията бе успешна\n"
+"За да приключите със създаването на сметката, натиснете бутона Приключване"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:205
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Registration failed"
+msgstr "Неуспешна регистрация"
+
+#: ../../../protocols/quetzal/src/quatzelactiondialog.ui:14
+msgctxt "QuetzalActionDialog|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../../protocols/quetzal/src/quetzaljoinchatdialog.ui:14
+msgctxt "QuetzalJoinChatDialog|"
+msgid "Join group chat"
+msgstr "Присъединяване към групов разговор"
+
+#: ../../../protocols/quetzal/src/quetzaljoinchatdialog.ui:33
+msgctxt "QuetzalJoinChatDialog|"
+msgid "Save to bookmarks"
+msgstr "Запис в отметките"
+
+#: ../../../protocols/quetzal/src/quetzalprotocol.cpp:97
+msgctxt "Settings|"
+msgid "General"
+msgstr "Общи"

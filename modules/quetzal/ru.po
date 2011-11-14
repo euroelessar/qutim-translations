@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: ru\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../protocols/quetzal/src/quetzalplugin.cpp:660
+msgctxt "Plugin|"
+msgid "Quetzal"
+msgstr "Quetzal"
+
+#: ../../../protocols/quetzal/src/quetzalplugin.cpp:661
+#: ../../../protocols/quetzal/src/quetzalplugin.cpp:706
+#: ../../../protocols/quetzal/src/quetzalplugin.cpp:710
+#, fuzzy
+msgctxt "Plugin|"
+msgid "'Quetzal' is set of protocols, powered by libpurple"
+msgstr ""
+"'Quetzal' это набор протоколов, реализованных через libpurple (pidgin/adium)"
+
+#~ msgctxt "Quetzal|"
+#~ msgid "Join groupchat"
+#~ msgstr "Войти в конференцию"
+
+#~ msgctxt "QuetzalAccount|"
+#~ msgid "General"
+#~ msgstr "Общее"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:61
+#, fuzzy
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:75
+#, fuzzy
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Password"
+msgstr "Пароль"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:80
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Save password"
+msgstr "Сохранить пароль"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:137
+#, fuzzy
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Unable to save new account"
+msgstr "Не получилось сохранить новый аккаунт"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:138
+#, fuzzy
+msgctxt "QuetzalAccountWizardPage|"
+msgid "An account already exists with the specified criteria."
+msgstr "Аккаунт со специфичными данными уже существует."
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:156
+#, fuzzy
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Register"
+msgstr "Регистрация"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:197
+#, fuzzy
+msgctxt "QuetzalAccountWizardPage|"
+msgid ""
+"Registration is succesfull\n"
+"Complete account creating by clicking on Finish button"
+msgstr ""
+"Регистрация удалась\n"
+"Эпик вин\n"
+"Нажмите Финиш для завершения регистрации"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:205
+#, fuzzy
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Registration failed"
+msgstr "Регистрация провалилась"
+
+#: ../../../protocols/quetzal/src/quatzelactiondialog.ui:14
+msgctxt "QuetzalActionDialog|"
+msgid "Dialog"
+msgstr "Диалог"
+
+#: ../../../protocols/quetzal/src/quetzaljoinchatdialog.ui:14
+msgctxt "QuetzalJoinChatDialog|"
+msgid "Join group chat"
+msgstr "Войти в чат"
+
+#: ../../../protocols/quetzal/src/quetzaljoinchatdialog.ui:33
+msgctxt "QuetzalJoinChatDialog|"
+msgid "Save to bookmarks"
+msgstr "В закладки"
+
+#~ msgctxt "QuetzalJoinChatDialog|"
+#~ msgid "Search"
+#~ msgstr "Поиск"
+
+#~ msgctxt "QuetzalJoinChatDialog|"
+#~ msgid "Join"
+#~ msgstr "Войти"
+
+#: ../../../protocols/quetzal/src/quetzalprotocol.cpp:97
+#, fuzzy
+msgctxt "Settings|"
+msgid "General"
+msgstr "Общее"

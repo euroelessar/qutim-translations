@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: bg\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/dbusapi/src/dbusplugin.cpp:150
+msgctxt "Author|"
+msgid "Ruslan Nigmatullin"
+msgstr "Руслан Нигматуллин"
+
+#: ../../../plugins/dbusapi/src/dbusplugin.cpp:153
+msgctxt "Plugin|"
+msgid "DBus API"
+msgstr "DBus API"
+
+#: ../../../plugins/dbusapi/src/dbusplugin.cpp:154
+msgctxt "Plugin|"
+msgid "Added ability to control qutIM by DBus"
+msgstr "Дава възможност за управление на qutIM чрез DBus"
+
+#: ../../../plugins/dbusapi/src/dbusplugin.cpp:151
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Разработчик"

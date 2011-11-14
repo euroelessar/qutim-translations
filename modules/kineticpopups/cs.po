@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"X-Language: cs\n"
+"X-Source-Language: en_GB\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.ui:20
+msgctxt "AppearanceSettings|"
+msgid "Form"
+msgstr ""
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.ui:45
+msgctxt "AppearanceSettings|"
+msgid "test"
+msgstr "Test"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.ui:65
+msgctxt "AppearanceSettings|"
+msgid "Preview is unavailable"
+msgstr "Náhled je nedostupný"
+
+#: ../../../plugins/kineticpopups/src/backend.cpp:42
+msgctxt "KineticPopups::Backend|"
+msgid "Show popup"
+msgstr "Zobrazit oznamovací okno"
+
+#: ../../../plugins/kineticpopups/src/backend.cpp:50
+msgctxt "KineticPopups::Backend|"
+msgid "Unable to create notification inside QtQuick"
+msgstr "Nelze vytvořit oznámení v QtQuick"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.cpp:116
+msgctxt "KineticPopups::PopupAppearance|"
+msgid "Simple popup"
+msgstr "Jednoduché oznamovací okno"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.cpp:117
+msgctxt "KineticPopups::PopupAppearance|"
+msgid "Preview"
+msgstr "Náhled"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.cpp:119
+msgctxt "KineticPopups::PopupAppearance|"
+msgid "Test again"
+msgstr "Otestovat znovu"
+
+#: ../../../plugins/kineticpopups/src/popupwidgets/quickpopupwidget.cpp:76
+msgctxt "KineticPopups::QuickNotify|"
+msgid "Notification from qutIM"
+msgstr "Oznámení z qutIMu"
+
+#: ../../../plugins/kineticpopups/src/backend.cpp:45
+msgctxt "Settings|"
+msgid "Popups"
+msgstr "Oznamovací okna"

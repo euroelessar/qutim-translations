@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: bg\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp:42
+msgctxt "Author|"
+msgid "Sidorov Aleksey"
+msgstr "Алексей Сидоров"
+
+#: ../../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp:38
+msgctxt "Plugin|"
+msgid "UnreadMessagesKeeper"
+msgstr "Съхраняване на непрочетени съобщения"
+
+#: ../../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp:39
+msgctxt "Plugin|"
+msgid "Allows you to save a list of unread messages when qutIM exit"
+msgstr ""
+"Позволява съхраняването на списък от непрочетени съобщения при изход от qutIM"
+
+#: ../../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp:43
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Разработчик"

@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"X-Language: cs\n"
+"X-Source-Language: en_GB\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/mobility/src/bearermanager/managersettings.ui:14
+msgctxt "ManagerSettings|"
+msgid "Form"
+msgstr ""
+
+#: ../../../plugins/mobility/src/bearermanager/managersettings.ui:42
+msgctxt "ManagerSettings|"
+msgid "Autoconnect on startup"
+msgstr ""
+
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:46
+msgctxt "Service|"
+msgid "BearerManager"
+msgstr ""
+
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:58
+msgctxt "Settings|"
+msgid "Connection manager"
+msgstr ""

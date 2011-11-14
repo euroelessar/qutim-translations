@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: de\n"
+"X-Source-Language: en_US\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/massmessaging/src/messaging.cpp:42
+msgctxt "Author|"
+msgid "Sidorov Aleksey"
+msgstr ""
+
+#: ../../../plugins/massmessaging/src/messagingdialog.ui:14
+msgctxt "Dialog|"
+msgid "Multiply Sending"
+msgstr "Mehrfaches Senden"
+
+#: ../../../plugins/massmessaging/src/messagingdialog.ui:74
+msgctxt "Dialog|"
+msgid "Message"
+msgstr "Nachricht"
+
+#: ../../../plugins/massmessaging/src/messagingdialog.ui:104
+msgctxt "Dialog|"
+msgid "15"
+msgstr ""
+
+#: ../../../plugins/massmessaging/src/messagingdialog.ui:120
+msgctxt "Dialog|"
+msgid "Interval (in seconds):"
+msgstr "Intervall (sek):"
+
+#: ../../../plugins/massmessaging/src/messagingdialog.ui:142
+msgctxt "Dialog|"
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Droid Sans'; font-size:9pt; "
+"font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-weight:600;\">Notes:</span></p>\n"
+"<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\">You can use the "
+"templates:</p>\n"
+"<ul style=\"-qt-list-indent: 1;\"><li style=\" margin-top:12px; "
+"margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px;\">{reciever} - Name of the recipient </li>\n"
+"<li style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\">{sender} - Name of "
+"the sender  (profile name)</li>\n"
+"<li style=\" margin-top:0px; margin-bottom:12px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\">{time} - Current "
+"time</li></ul>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:12px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:1; "
+"text-indent:0px;\"></p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Droid Sans'; font-size:9pt; "
+"font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-weight:600;\">Anmerkungen:</span></p>\n"
+"<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Folgende "
+"Platzhalter können verwendet werden:</p>\n"
+"<ul style=\"-qt-list-indent: 1;\"><li style=\" margin-top:12px; "
+"margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px;\">{reciever} - Name des Empfängers </li>\n"
+"<li style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\">{sender} - Name des "
+"Absenders (Profilname)</li>\n"
+"<li style=\" margin-top:0px; margin-bottom:12px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\">{time} - Aktuelle "
+"Zeit</li></ul>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:12px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:1; "
+"text-indent:0px;\"></p></body></html>"
+
+#: ../../../plugins/massmessaging/src/messagingdialog.ui:170
+msgctxt "Dialog|"
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Droid Sans'; font-size:9pt; "
+"font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-weight:600;\">In progress...</span></p></body></html>"
+msgstr ""
+
+#: ../../../plugins/massmessaging/src/messagingdialog.ui:229
+msgctxt "Dialog|"
+msgid "Send"
+msgstr "&Senden"
+
+#: ../../../plugins/massmessaging/src/messaging.cpp:55
+msgctxt "MassMessaging|"
+msgid "&Mass Messaging"
+msgstr "Mehrfaches Senden..."
+
+#: ../../../plugins/massmessaging/src/messagingdialog.cpp:64
+msgctxt "MassMessaging::MessagingDialog|"
+msgid "Stop"
+msgstr "Anhalten"
+
+#: ../../../plugins/massmessaging/src/messagingdialog.cpp:77
+#, qt-format
+msgctxt "MassMessaging::MessagingDialog|"
+msgid "Sending message to %1: %v/%m"
+msgstr "Sende Nachricht an %1: %v/%m"
+
+#: ../../../plugins/massmessaging/src/messagingdialog.cpp:78
+#, qt-format
+msgctxt "MassMessaging::MessagingDialog|"
+msgid "Sending message to %1"
+msgstr "Sende Nachricht an %1"
+
+#: ../../../plugins/massmessaging/src/messagingdialog.cpp:83
+#, qt-format
+msgctxt "MassMessaging::MessagingDialog|"
+msgid "Sending message to %1 (%2/%3), time remains: %4"
+msgstr "Sende Nachricht an %1 (%2/%3), verbleibende Zeit: %4"
+
+#: ../../../plugins/massmessaging/src/messagingdialog.cpp:95
+msgctxt "MassMessaging::MessagingDialog|"
+msgid "Finished"
+msgstr "Fertig"
+
+#: ../../../plugins/massmessaging/src/messagingdialog.cpp:95
+msgctxt "MassMessaging::MessagingDialog|"
+msgid "Error"
+msgstr "Fehler"
+
+#: ../../../plugins/massmessaging/src/messagingdialog.cpp:96
+msgctxt "MassMessaging::MessagingDialog|"
+msgid "Start"
+msgstr "Start"
+
+#: ../../../plugins/massmessaging/src/messaging.cpp:46
+msgctxt "Plugin|"
+msgid "MassMessaging"
+msgstr ""
+
+#: ../../../plugins/massmessaging/src/messaging.cpp:47
+msgctxt "Plugin|"
+msgid "Simple messaging to contact list"
+msgstr "Massenbenachrichtigungen an die Kontaktliste versenden"
+
+#: ../../../plugins/massmessaging/src/messaging.cpp:43
+msgctxt "Task|"
+msgid "Author"
+msgstr "Autor"

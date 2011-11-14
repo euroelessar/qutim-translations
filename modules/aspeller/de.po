@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: de\n"
+"X-Source-Language: en\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/aspeller/src/aspellsettings.cpp:35
+msgctxt "AspellSettings|"
+msgid "Language"
+msgstr "Sprache"
+
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:36
+msgctxt "Author|"
+msgid "Ruslan Nigmatullin"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:39
+msgctxt "Author|"
+msgid "Alexey Prokhin"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:42
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:45
+msgctxt "Plugin|"
+msgid "ASpell checker"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:43
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:46
+msgctxt "Plugin|"
+msgid "Check spelling by ASpell library"
+msgstr "Rechtschreibprüfung, basierend auf ASpell"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:86
+msgctxt "Settings|"
+msgid "Spell checker"
+msgstr "Rechtschreibprüfung"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:41
+msgctxt "SpellChecker|"
+msgid "40"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:42
+msgctxt "SpellChecker|"
+msgid "60"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:43
+msgctxt "SpellChecker|"
+msgid "80"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:44
+msgctxt "SpellChecker|"
+msgid "-ise suffixes"
+msgstr "-ise Suffixe"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:45
+msgctxt "SpellChecker|"
+msgid "-ize suffixes"
+msgstr "-ize Suffixe"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:46
+msgctxt "SpellChecker|"
+msgid "-ise suffixes and with accents"
+msgstr "-ise Suffixe und mit Akzenten"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:47
+msgctxt "SpellChecker|"
+msgid "-ise suffixes and without accents"
+msgstr "-ise Suffixe und ohne Akzente"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:48
+msgctxt "SpellChecker|"
+msgid "-ize suffixes and with accents"
+msgstr "-ize Suffixe und mit Akzenten"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:49
+msgctxt "SpellChecker|"
+msgid "-ize suffixes and without accents"
+msgstr "-ize Suffixe und ohne Akzente"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:50
+msgctxt "SpellChecker|"
+msgid "large"
+msgstr "groß"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:51
+msgctxt "SpellChecker|"
+msgid "medium"
+msgstr "normal"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:52
+msgctxt "SpellChecker|"
+msgid "small"
+msgstr "klein"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:53
+msgctxt "SpellChecker|"
+msgid "variant 0"
+msgstr "Variante 0"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:54
+msgctxt "SpellChecker|"
+msgid "variant 1"
+msgstr "Variante 1"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:55
+msgctxt "SpellChecker|"
+msgid "variant 2"
+msgstr "Variante 2"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:56
+msgctxt "SpellChecker|"
+msgid "without accents"
+msgstr "ohne Akzente"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:57
+msgctxt "SpellChecker|"
+msgid "with accents"
+msgstr "mit Akzenten"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:58
+msgctxt "SpellChecker|"
+msgid "with ye"
+msgstr "mit ye"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:59
+msgctxt "SpellChecker|"
+msgid "with yeyo"
+msgstr "mit yeyo"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:60
+msgctxt "SpellChecker|"
+msgid "with yo"
+msgstr "mit yo"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:61
+msgctxt "SpellChecker|"
+msgid "extended"
+msgstr "erweitert"
+
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:37
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Entwickler"
+
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:40
+msgctxt "Task|"
+msgid "Author"
+msgstr "Autor"

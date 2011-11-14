@@ -1,0 +1,2219 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: de\n"
+"X-Source-Language: en_US\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:35
+msgctxt "Activity|"
+msgid "Doing chores"
+msgstr "Hausarbeiten"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:36
+msgctxt "Activity|"
+msgid "Drinking"
+msgstr "Trinken"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:37
+msgctxt "Activity|"
+msgid "Eating"
+msgstr "Essen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:38
+msgctxt "Activity|"
+msgid "Exercising"
+msgstr "Trainieren"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:39
+msgctxt "Activity|"
+msgid "Grooming"
+msgstr "Körperpflege"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:40
+msgctxt "Activity|"
+msgid "Having appointment"
+msgstr "Verabredung"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:41
+msgctxt "Activity|"
+msgid "Inactive"
+msgstr "Unproduktiv"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:42
+msgctxt "Activity|"
+msgid "Relaxing"
+msgstr "Entspannen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:43
+msgctxt "Activity|"
+msgid "Talking"
+msgstr "Reden"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:44
+msgctxt "Activity|"
+msgid "Traveling"
+msgstr "Unterwegs"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:45
+msgctxt "Activity|"
+msgid "Undefined"
+msgstr "In undefinierter Stimmung befindlich"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:46
+msgctxt "Activity|"
+msgid "Working"
+msgstr "Arbeiten"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:51
+msgctxt "Activity|"
+msgid "At the spa"
+msgstr "Im Welless-Center"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:52
+msgctxt "Activity|"
+msgid "Brushing teeth"
+msgstr "Zähneputzen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:53
+msgctxt "Activity|"
+msgid "Buying groceries"
+msgstr "Lebensmittel kaufen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:54
+msgctxt "Activity|"
+msgid "Cleaning"
+msgstr "Putzen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:55
+msgctxt "Activity|"
+msgid "Coding"
+msgstr "Programmieren"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:56
+msgctxt "Activity|"
+msgid "Commuting"
+msgstr "Pendeln"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:57
+msgctxt "Activity|"
+msgid "Cooking"
+msgstr "Kochen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:58
+msgctxt "Activity|"
+msgid "Cycling"
+msgstr "Radfahren"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:59
+msgctxt "Activity|"
+msgid "Dancing"
+msgstr "Tanzen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:60
+msgctxt "Activity|"
+msgid "Day off"
+msgstr "Freier Tag"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:61
+msgctxt "Activity|"
+msgid "Doing maintenance"
+msgstr "Reparaturen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:62
+msgctxt "Activity|"
+msgid "Doing the dishes"
+msgstr "Abspülen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:63
+msgctxt "Activity|"
+msgid "Doing the laundry"
+msgstr "Wäsche waschen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:64
+msgctxt "Activity|"
+msgid "Driving"
+msgstr "Fahren"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:65
+msgctxt "Activity|"
+msgid "Fishing"
+msgstr "Angeln"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:66
+msgctxt "Activity|"
+msgid "Gaming"
+msgstr "Spielen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:67
+msgctxt "Activity|"
+msgid "Gardening"
+msgstr "Gartenarbeiten"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:68
+msgctxt "Activity|"
+msgid "Getting a haircut"
+msgstr "Beim Friseur"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:69
+msgctxt "Activity|"
+msgid "Going out"
+msgstr "Ausgehen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:70
+msgctxt "Activity|"
+msgid "Hanging out"
+msgstr "Herumgammeln"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:71
+msgctxt "Activity|"
+msgid "Having a beer"
+msgstr "Bier"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:72
+msgctxt "Activity|"
+msgid "Having a snack"
+msgstr "kleine Zwischenmahlzeit"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:73
+msgctxt "Activity|"
+msgid "Having breakfast"
+msgstr "Frühstück"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:74
+msgctxt "Activity|"
+msgid "Having coffee"
+msgstr "Kaffee"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:75
+msgctxt "Activity|"
+msgid "Having dinner"
+msgstr "Abendessen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:76
+msgctxt "Activity|"
+msgid "Having lunch"
+msgstr "Mittagessen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:77
+msgctxt "Activity|"
+msgid "Having tea"
+msgstr "Tee"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:78
+msgctxt "Activity|"
+msgid "Hiding"
+msgstr "Untergetaucht"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:79
+msgctxt "Activity|"
+msgid "Hiking"
+msgstr "Wandern"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:80
+msgctxt "Activity|"
+msgid "In a car"
+msgstr "Mit dem Auto"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:81
+msgctxt "Activity|"
+msgid "In a meeting"
+msgstr "Meeting"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:82
+msgctxt "Activity|"
+msgid "In real life"
+msgstr "Im Real Life"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:83
+msgctxt "Activity|"
+msgid "Jogging"
+msgstr "Joggen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:84
+msgctxt "Activity|"
+msgid "On a bus"
+msgstr "Im Bus"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:85
+msgctxt "Activity|"
+msgid "On a plane"
+msgstr "Im Flugzeug"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:86
+msgctxt "Activity|"
+msgid "On a train"
+msgstr "Im Zug"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:87
+msgctxt "Activity|"
+msgid "On a trip"
+msgstr "Auf einem Ausflug"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:88
+msgctxt "Activity|"
+msgid "On the phone"
+msgstr "Telefonieren"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:89
+msgctxt "Activity|"
+msgid "On vacation"
+msgstr "Im Urlaub"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:90
+msgctxt "Activity|"
+msgid "On video phone"
+msgstr "Videotelefon /-chat"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:91
+msgctxt "Activity|"
+msgid "Other"
+msgstr "Sonstiges"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:92
+msgctxt "Activity|"
+msgid "Partying"
+msgstr "Party"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:93
+msgctxt "Activity|"
+msgid "Playing sports"
+msgstr "Sport machen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:94
+msgctxt "Activity|"
+msgid "Praying"
+msgstr "Beten"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:95
+msgctxt "Activity|"
+msgid "Reading"
+msgstr "Lesen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:96
+msgctxt "Activity|"
+msgid "Rehearsing"
+msgstr "Proben"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:97
+msgctxt "Activity|"
+msgid "Running"
+msgstr "Laufen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:98
+msgctxt "Activity|"
+msgid "Running an errand"
+msgstr "Besorgungen machen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:99
+msgctxt "Activity|"
+msgid "Scheduled holiday"
+msgstr "Jahresurlaub"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:100
+msgctxt "Activity|"
+msgid "Shaving"
+msgstr "Rasieren"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:101
+msgctxt "Activity|"
+msgid "Shopping"
+msgstr "Einkaufen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:102
+msgctxt "Activity|"
+msgid "Skiing"
+msgstr "Skifahren"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:103
+msgctxt "Activity|"
+msgid "Sleeping"
+msgstr "Schlafen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:104
+msgctxt "Activity|"
+msgid "Smoking"
+msgstr "Rauchen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:105
+msgctxt "Activity|"
+msgid "Socializing"
+msgstr "Soziale Kontakte pflegen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:106
+msgctxt "Activity|"
+msgid "Studying"
+msgstr "Lernen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:107
+msgctxt "Activity|"
+msgid "Sunbathing"
+msgstr "Sonnenbad"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:108
+msgctxt "Activity|"
+msgid "Swimming"
+msgstr "Schwimmen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:109
+msgctxt "Activity|"
+msgid "Taking a bath"
+msgstr "Baden"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:110
+msgctxt "Activity|"
+msgid "Taking a shower"
+msgstr "Duschen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:111
+msgctxt "Activity|"
+msgid "Thinking"
+msgstr "Nachdenken"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:112
+msgctxt "Activity|"
+msgid "Walking"
+msgstr "Zu Fuß"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:113
+msgctxt "Activity|"
+msgid "Walking the dog"
+msgstr "Gassi gehen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:114
+msgctxt "Activity|"
+msgid "Watching a movie"
+msgstr "Einen Film ansehen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:115
+msgctxt "Activity|"
+msgid "Watching TV"
+msgstr "Fernsehen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:116
+msgctxt "Activity|"
+msgid "Working out"
+msgstr "Krafttraining"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:117
+msgctxt "Activity|"
+msgid "Writing"
+msgstr "Schreiben"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:201
+msgctxt "Activity|"
+msgid "Activity"
+msgstr "Tätigkeit"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:203
+msgctxt "Activity|"
+msgid "Show contact activity icon"
+msgstr "Zeige Tätigkeits-Symbole"
+
+#: ../../../protocols/jabber/src/jplugin.cpp:57
+msgctxt "Author|"
+msgid "Denis Daschenko"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:60
+msgctxt "Author|"
+msgid "Nikita Belov"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:64
+msgctxt "Author|"
+msgid "Sidorov Aleksey"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:139
+msgctxt "Conference|"
+msgid "Real JID"
+msgstr "Wahre JID"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:156
+msgctxt "Conference|"
+msgid "Affiliation"
+msgstr "Mitgliedschaft"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:172
+msgctxt "Conference|"
+msgid "Role"
+msgstr "Rang"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:174
+msgctxt "Conference|"
+msgid "Possible client"
+msgstr "Möglicher Client"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:181
+msgctxt "Conference|"
+msgid "OS"
+msgstr "Betriebssystem"
+
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:207
+msgctxt "Conference|"
+msgid "Kick"
+msgstr "Rauswerfen"
+
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:213
+msgctxt "Conference|"
+msgid "Ban"
+msgstr "Aussperren"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:78
+msgctxt "ContactInfo|"
+msgid "Nickname"
+msgstr "Spitzname"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:79
+msgctxt "ContactInfo|"
+msgid "First name"
+msgstr "Vorname"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:80
+msgctxt "ContactInfo|"
+msgid "Middle name"
+msgstr "Zweiter Vorname"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:81
+msgctxt "ContactInfo|"
+msgid "Last name"
+msgstr "Nachname"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:82
+msgctxt "ContactInfo|"
+msgid "Birthday"
+msgstr "Geburtstag"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:83
+msgctxt "ContactInfo|"
+msgid "Homepage"
+msgstr "Homepage"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:84
+msgctxt "ContactInfo|"
+msgid "Home phone"
+msgstr "Telefon (privat)"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:85
+msgctxt "ContactInfo|"
+msgid "Work phone"
+msgstr "Telefon (geschäftlich)"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:86
+msgctxt "ContactInfo|"
+msgid "Mobile phone"
+msgstr "Handy"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:87
+msgctxt "ContactInfo|"
+msgid "Phone"
+msgstr "Telefon"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:88
+msgctxt "ContactInfo|"
+msgid "Personal email"
+msgstr "E-Mail (privat)"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:89
+msgctxt "ContactInfo|"
+msgid "Work email"
+msgstr "E-Mail (geschäftlich)"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:90
+msgctxt "ContactInfo|"
+msgid "Email"
+msgstr "E-Mail"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:91
+msgctxt "ContactInfo|"
+msgid "Home address"
+msgstr "Adresse (privat)"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:92
+msgctxt "ContactInfo|"
+msgid "Work address"
+msgstr "Adresse (geschäftlich)"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:93
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:99
+msgctxt "ContactInfo|"
+msgid "Address"
+msgstr "Adresse"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:94
+msgctxt "ContactInfo|"
+msgid "Country"
+msgstr "Land"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:95
+msgctxt "ContactInfo|"
+msgid "Region"
+msgstr "Bundesland"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:96
+msgctxt "ContactInfo|"
+msgid "City"
+msgstr "Wohnort"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:97
+msgctxt "ContactInfo|"
+msgid "Postcode"
+msgstr "Postleitzahl"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:98
+msgctxt "ContactInfo|"
+msgid "Street"
+msgstr "Straße"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:100
+msgctxt "ContactInfo|"
+msgid "Postbox"
+msgstr "Postfach"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:101
+msgctxt "ContactInfo|"
+msgid "Company"
+msgstr "Firma"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:102
+msgctxt "ContactInfo|"
+msgid "Department"
+msgstr "Abteilung"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:103
+msgctxt "ContactInfo|"
+msgid "Position"
+msgstr "Position"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:104
+msgctxt "ContactInfo|"
+msgid "Role"
+msgstr "Rang"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:105
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:259
+msgctxt "ContactInfo|"
+msgid "About"
+msgstr "Über"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:169
+msgctxt "ContactInfo|"
+msgid "General"
+msgstr "Allgemein"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:177
+msgctxt "ContactInfo|"
+msgid "Avatar"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:217
+msgctxt "ContactInfo|"
+msgid "Phones"
+msgstr "Telefonnummern"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:226
+msgctxt "ContactInfo|"
+msgid "E-mails"
+msgstr "E-Mail-Adressen"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:236
+msgctxt "ContactInfo|"
+msgid "Addresses"
+msgstr "Adressen"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:250
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:406
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:427
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:446
+msgctxt "ContactInfo|"
+msgid "Work"
+msgstr "Arbeit"
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:394
+msgctxt "ContactInfo|"
+msgid "Type"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:405
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:426
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:445
+msgctxt "ContactInfo|"
+msgid "Home"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:407
+msgctxt "ContactInfo|"
+msgid "Cell"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:417
+msgctxt "ContactInfo|"
+msgid "Number"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:436
+msgctxt "ContactInfo|"
+msgid "E-mail"
+msgstr "E-Mail"
+
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:135
+msgctxt "ContactResource|"
+msgid "Resource"
+msgstr "Ressource"
+
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:142
+msgctxt "ContactResource|"
+msgid "Possible client"
+msgstr "Möglicher Client"
+
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:149
+msgctxt "ContactResource|"
+msgid "OS"
+msgstr "Betriebssystem"
+
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:14
+msgctxt "JAccountWizardPage|"
+msgid "WizardPage"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:31
+msgctxt "JAccountWizardPage|"
+msgid "Login:"
+msgstr "Benutzername:"
+
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:49
+msgctxt "JAccountWizardPage|"
+msgid "TextLabel"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:68
+msgctxt "JAccountWizardPage|"
+msgid "Password:"
+msgstr "Passwort:"
+
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:75
+msgctxt "JAccountWizardPage|"
+msgid "Save password"
+msgstr "Passwort speichern"
+
+#: ../../../protocols/jabber/src/protocol/modules/adhoc/jadhocwidget.ui:14
+msgctxt "JAdHocWidget|"
+msgid "Form"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:14
+msgctxt "JCertInfo|"
+msgid "Cert Info"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:22
+msgctxt "JCertInfo|"
+msgid "Cipher:"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:29
+msgctxt "JCertInfo|"
+msgid "Compression:"
+msgstr "Komprimierung:"
+
+#: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:36
+msgctxt "JCertInfo|"
+msgid "Server:"
+msgstr "Server:"
+
+#: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:43
+msgctxt "JCertInfo|"
+msgid "From:"
+msgstr "Von:"
+
+#: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:50
+msgctxt "JCertInfo|"
+msgid "To:"
+msgstr "An:"
+
+#: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:107
+msgctxt "JCertInfo|"
+msgid "Accept"
+msgstr "Annehmen"
+
+#: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:114
+msgctxt "JCertInfo|"
+msgid "Reject"
+msgstr "Ablehnen"
+
+#: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:123
+msgctxt "JCertInfo|"
+msgid "Remember choice for this server"
+msgstr "Wahl für diesen Server speichern"
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:14
+msgctxt "JMainSettings|"
+msgid "Form"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:35
+msgctxt "JMainSettings|"
+msgid "Default resource:"
+msgstr "Standard-Ressource:"
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:45
+msgctxt "JMainSettings|"
+msgid "Password:"
+msgstr "Passwort:"
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:59
+msgctxt "JMainSettings|"
+msgid "Don't send request for avatars"
+msgstr "Keine Anfragen für Avatare senden"
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:75
+msgctxt "JMainSettings|"
+msgid "Listen port for filetransfer:"
+msgstr "Port für eingehende Dateien:"
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:101
+msgctxt "JMainSettings|"
+msgid "Priority depends on status"
+msgstr "Priorität ist statusabhängig"
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:108
+msgctxt "JMainSettings|"
+msgid "Online:"
+msgstr "Online:"
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:125
+msgctxt "JMainSettings|"
+msgid "Free for chat:"
+msgstr "Chatfreudig:"
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:142
+msgctxt "JMainSettings|"
+msgid "Away:"
+msgstr "Abwesend:"
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:159
+msgctxt "JMainSettings|"
+msgid "NA:"
+msgstr "Nicht verfügbar:"
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:176
+msgctxt "JMainSettings|"
+msgid "DND:"
+msgstr "Nicht stören:"
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:193
+msgctxt "JMainSettings|"
+msgid "Autodetect connection settings"
+msgstr "Verbindungsdaten automatisch erkennen"
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:203
+msgctxt "JMainSettings|"
+msgid "Server:"
+msgstr "Server:"
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:217
+msgctxt "JMainSettings|"
+msgid "Port:"
+msgstr "Port:"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:199
+msgctxt "Jabber|"
+msgid "Name"
+msgstr "Name"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:205
+#, fuzzy
+msgctxt "Jabber|"
+msgid "Conference"
+msgstr "Raum"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:215
+msgctxt "Jabber|"
+msgid "Nick"
+msgstr "Spitzname"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:220
+msgctxt "Jabber|"
+msgid "Password"
+msgstr "Passwort"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:226
+msgctxt "Jabber|"
+msgid "Auto-join"
+msgstr "Automatisch betreten"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:753
+msgctxt "Jabber|"
+msgid "You are already in conference with another nick"
+msgstr "Du bist bereits unter anderem Namen im Raum"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:769
+msgctxt "Jabber|"
+msgid "Please select another nickname"
+msgstr "Bitte einen anderen Spitznamen angeben"
+
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:202
+msgctxt "Jabber|"
+msgid "None"
+msgstr "Keiner (Keiner kann den Status des anderen sehen)"
+
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:205
+msgctxt "Jabber|"
+msgid "From"
+msgstr "From (Der Kontakt kann deinen Status sehen, du aber nicht seinen)"
+
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:208
+msgctxt "Jabber|"
+msgid "To"
+msgstr "To (Du kannst den Status des Kontakts sehen, er aber nicht deinen)"
+
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:211
+msgctxt "Jabber|"
+msgid "Both"
+msgstr "Beide Seiten sind autorisiert"
+
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:214
+msgctxt "Jabber|"
+msgid "Remove"
+msgstr "Löschen"
+
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:219
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:244
+msgctxt "Jabber|"
+msgid "Subscription"
+msgstr "Autorisierung"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:58
+msgctxt "Jabber|"
+msgid "Service discovery"
+msgstr "Dienste durchsuchen..."
+
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:81
+msgctxt "Jabber|"
+msgid "Remove subscription"
+msgstr "Eigene Erlaubnis verwerfen"
+
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:86
+msgctxt "Jabber|"
+msgid "Request subscription"
+msgstr "Erlaubnisanfrage senden"
+
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:100
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:237
+msgctxt "Jabber|"
+msgid "Save to bookmarks"
+msgstr "Als Lesezeichen speichern"
+
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:101
+msgctxt "Jabber|"
+msgid "Remove from bookmarks"
+msgstr "Lesezeichen löschen"
+
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:106
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:223
+msgctxt "Jabber|"
+msgid "Join conference"
+msgstr "Raum betreten"
+
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:107
+msgctxt "Jabber|"
+msgid "Leave conference"
+msgstr "Raum verlassen"
+
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:231
+msgctxt "Jabber|"
+msgid "Room's configuration"
+msgstr "Raum einrichten"
+
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:131
+msgctxt "Jabber|"
+msgid "Xml console"
+msgstr "xml-Konsole"
+
+#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:231
+msgctxt "Jabber::JAccount|Local qutIM's name"
+msgid "qutIM"
+msgstr "qutIM"
+
+#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:232
+msgctxt "Jabber::JAccount|Default language"
+msgid "en"
+msgstr "de"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:252
+msgctxt "Jabber::JActivityChooser|"
+msgid "Set activity"
+msgstr "Tätigkeit"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.ui:20
+msgctxt "Jabber::JActivityChooserWindow|"
+msgid "Form"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:175
+msgctxt "Jabber::JActivityChooserWindow|"
+msgid "Choose your activity"
+msgstr "Tätigkeit auswählen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:214
+msgctxt "Jabber::JActivityChooserWindow|"
+msgid "No activity"
+msgstr "Keine Tätigkeit"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:243
+msgctxt "Jabber::JBookmarkManager|"
+msgid "Unable to join groupchat"
+msgstr "Kann Raum nicht betreten"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp:186
+msgctxt "Jabber::JMUCManager|"
+msgid "Join groupchat on"
+msgstr "Raum betreten auf"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp:187
+msgctxt "Jabber::JMUCManager|"
+msgid "You already in conference with another nick"
+msgstr "Du bist bereits unter anderem Namen im Raum"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:320
+msgctxt "Jabber::JMUCSession|"
+msgid " has been banned"
+msgstr " wurde ausgesperrt"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:320
+msgctxt "Jabber::JMUCSession|"
+msgid " has been kicked"
+msgstr " wurde rausgeworfen"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:325
+msgctxt "Jabber::JMUCSession|"
+msgid "You has been banned at "
+msgstr "Du wurdest ausgesperrt von "
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:325
+msgctxt "Jabber::JMUCSession|"
+msgid "You has been kicked from "
+msgstr "Du wurdest rausgeworfen von "
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:327
+msgctxt "Jabber::JMUCSession|"
+msgid "with reason: "
+msgstr "mit der Begründung: "
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:329
+msgctxt "Jabber::JMUCSession|"
+msgid "Do you want to rejoin?"
+msgstr "Willst du den Raum erneut betreten?"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:330
+msgctxt "Jabber::JMUCSession|"
+msgid "You have been kicked"
+msgstr "Du wurdest rausgeschmissen"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:334
+msgctxt "Jabber::JMUCSession|"
+msgid "You have been banned"
+msgstr "Du wurdest ausgesperrt"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:351
+msgctxt "Jabber::JMUCSession|"
+msgid " is now known as "
+msgstr " heißt jetzt "
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:379
+msgctxt "Jabber::JMUCSession|"
+msgid " has joined the room"
+msgstr " hat den Raum betreten"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:381
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:383
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:385
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:387
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:389
+msgctxt "Jabber::JMUCSession|"
+msgid " as"
+msgstr " als"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:381
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:412
+msgctxt "Jabber::JMUCSession|"
+msgid " owner"
+msgstr " Besitzer"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:383
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:414
+msgctxt "Jabber::JMUCSession|"
+msgid " administrator"
+msgstr " Administrator"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:385
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:420
+msgctxt "Jabber::JMUCSession|"
+msgid " registered member"
+msgstr " Registrierter Benutzer"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:387
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:416
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:428
+msgctxt "Jabber::JMUCSession|"
+msgid " participant"
+msgstr " Teilnehmer"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:389
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:418
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:424
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:430
+msgctxt "Jabber::JMUCSession|"
+msgid " visitor"
+msgstr " Besucher"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:397
+msgctxt "Jabber::JMUCSession|"
+msgid " has left the room"
+msgstr " hat den Raum verlassen"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:410
+msgctxt "Jabber::JMUCSession|"
+msgid " now is"
+msgstr " ist jetzt"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:416
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:418
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:422
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:424
+msgctxt "Jabber::JMUCSession|"
+msgid " and"
+msgstr " und"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:422
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:426
+msgctxt "Jabber::JMUCSession|"
+msgid " moderator"
+msgstr " Moderator"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:543
+msgctxt "Jabber::JMUCSession|"
+msgid "Subject:"
+msgstr "Thema:"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:101
+msgctxt "Jabber::JMoodChooser|"
+msgid "Set mood"
+msgstr "Stimmung"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.ui:14
+msgctxt "Jabber::JMoodChooserWindow|"
+msgid "Form"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:44
+msgctxt "Jabber::JMoodChooserWindow|"
+msgid "Choose your mood"
+msgstr "Stimmung auswählen"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:65
+msgctxt "Jabber::JMoodChooserWindow|"
+msgid "No mood"
+msgstr "Keine Stimmung"
+
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:275
+msgctxt "Jabber::JProtocol|"
+msgid "Kick"
+msgstr "Rauswerfen"
+
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:275
+#, qt-format
+msgctxt "Jabber::JProtocol|"
+msgid "Enter kick reason for %1"
+msgstr "Grund für Rauswurf von %1 angeben"
+
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:284
+msgctxt "Jabber::JProtocol|"
+msgid "Ban"
+msgstr "Aussperren"
+
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:284
+#, qt-format
+msgctxt "Jabber::JProtocol|"
+msgid "Enter ban reason for %1"
+msgstr "Grund für Aussperren von %1 angeben"
+
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:551
+msgctxt "Jabber::JProtocol|"
+msgid "Possible client"
+msgstr "Möglicher Client"
+
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:552
+msgctxt "Jabber::JProtocol|"
+msgid "Show client icon"
+msgstr "Zeige Client-Symbole"
+
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:143
+#, qt-format
+msgctxt "Jabber::JRoster|"
+msgid "Contact %1 has been added to roster"
+msgstr "%1 wurde zur Kontaktliste hinzugefügt"
+
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:172
+#, qt-format
+msgctxt "Jabber::JRoster|"
+msgid "Contact %1 has been removed from roster"
+msgstr "%1 wurde aus der Kontaktliste gelöscht"
+
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:323
+msgctxt "Jabber::JRoster|"
+msgid "Received a request for removal from the subscribers"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:331
+msgctxt "Jabber::JRoster|"
+msgid "You have been removed from the list of subscribers"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:339
+msgctxt "Jabber::JRoster|"
+msgid "You have been added to the list of subscribers"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:93
+msgctxt "Jabber::JServiceBrowser|"
+msgid "Search service"
+msgstr "Dienst suchen"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:131
+msgctxt "Jabber::JServiceBrowser|"
+msgid "Close"
+msgstr "Schließen"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:192
+msgctxt "Jabber::JServiceBrowser|"
+msgid "type: "
+msgstr "Typ: "
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:193
+msgctxt "Jabber::JServiceBrowser|"
+msgid "category: "
+msgstr "Kategorie: "
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:195
+msgctxt "Jabber::JServiceBrowser|"
+msgid "Identities:"
+msgstr "Identitäten:"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:343
+msgctxt "Jabber::JServiceBrowser|"
+msgid "Features:"
+msgstr "Fähigkeiten:"
+
+#: ../../../protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp:310
+msgctxt "Jabber::JSoftwareDetection|"
+msgid "Possible client"
+msgstr "Möglicher Client"
+
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:69
+msgctxt "Jabber::XmlConsole|"
+msgid "Filter"
+msgstr "Filtern"
+
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:71
+msgctxt "Jabber::XmlConsole|"
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:74
+msgctxt "Jabber::XmlConsole|"
+msgid "By JID"
+msgstr "Nach JID"
+
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:77
+msgctxt "Jabber::XmlConsole|"
+msgid "By namespace uri"
+msgstr "Nach Namensraum URI"
+
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:80
+msgctxt "Jabber::XmlConsole|"
+msgid "By all attributes"
+msgstr "Nach allen Attributen"
+
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:85
+msgctxt "Jabber::XmlConsole|"
+msgid "Visible stanzas"
+msgstr "Sichtbare Stanzas"
+
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:88
+msgctxt "Jabber::XmlConsole|"
+msgid "Information query"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:92
+msgctxt "Jabber::XmlConsole|"
+msgid "Message"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:96
+msgctxt "Jabber::XmlConsole|"
+msgid "Presence"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:100
+msgctxt "Jabber::XmlConsole|"
+msgid "Custom"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:116
+msgctxt "Jabber::XmlConsole|"
+msgid "Close"
+msgstr "Schließen"
+
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:377
+msgctxt "Jabber::XmlConsole|"
+msgid "Save XMPP log to file"
+msgstr "In Logdatei speichern"
+
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:378
+msgctxt "Jabber::XmlConsole|"
+msgid "OpenDocument Format (*.odf);;HTML file (*.html);;Plain text (*.txt)"
+msgstr "OpenDocument Format (*.odf);;HTML Datei (*.html);;Text (*.txt)"
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:72
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid "The sender has sent XML that is malformed or that cannot be processed."
+msgstr ""
+"Das empfangene XML ist fehlerhaft, oder konnte nicht verarbeitet werden."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:75
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid ""
+"Access cannot be granted because an existing resource or session exists with "
+"the same name or address."
+msgstr ""
+"Der Zugriff konnte nicht gewährt werden, weil eine bestehende Ressource oder "
+"Sitzung den selben Namen oder die selbe Adresse hat."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:78
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid ""
+"The feature requested is not implemented by the recipient or server and "
+"therefore cannot be processed."
+msgstr ""
+"Das angeforderte Feature wird vom Server oder Empfänger nicht unterstützt, "
+"und konnte nicht verarbeitet werden."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:81
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid ""
+"The requesting entity does not possess the required permissions to perform "
+"the action."
+msgstr ""
+"Der Anforderer hat nicht die erforderlichen Rechte, um die Aktion "
+"durchzuführen."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:84
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid "The recipient or server can no longer be contacted at this address."
+msgstr ""
+"Der Empfänger oder der Server kann nicht mehr über diese Adresse kontaktiert "
+"werden."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:87
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid ""
+"The server could not process the stanza because of a misconfiguration or an "
+"otherwise-undefined internal server error."
+msgstr ""
+"Der Server konnte die Stanza aufgrund einer Fehlkonfiguration oder eines "
+"unbekannten internen Server-Fehlers nicht verarbeiten."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:90
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid "The addressed JID or item requested cannot be found."
+msgstr ""
+"Die angeforderte JID oder das angeforderte Objekt konnten nicht gefunden "
+"werden."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:93
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid ""
+"The sending entity has provided or communicated an XMPP address or aspect "
+"thereof that does not adhere to the syntax defined in Addressing Scheme."
+msgstr ""
+"Der Absender hat eine XMPP-Adresse (oder Teile davon) übermittelt oder zur "
+"Verfügung gestellt, die nicht zu der im Adressierungsschema vereinbarten "
+"Syntax passt."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:96
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid ""
+"The recipient or server understands the request but is refusing to process "
+"it because it does not meet criteria defined by the recipient or server."
+msgstr ""
+"Der Empfänger oder Server versteht die Anfrage, aber weist die Verarbeitung "
+"zurück weil sie nicht die vom Server oder Empfänger gestellten Kriterien "
+"erfüllt."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:99
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid ""
+"The recipient or server does not allow any entity to perform the action."
+msgstr ""
+"Der Empfänger oder Server erlaubt niemandem diese Aktion durchzuführen."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:102
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid ""
+"The sender must provide proper credentials before being allowed to perform "
+"the action, or has provided impreoper credentials."
+msgstr ""
+"Der Absender muss einen korrekten Berechtigungsnachweis erbringen, bevor ihm "
+"erlaubt wird die Aktion durchzuführen."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:105
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid "The item requested has not changed since it was last requested."
+msgstr ""
+"Das angeforderte Objekt hat sich seit der letzten Anforderung nicht "
+"verändert."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:108
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid ""
+"The requesting entity is not authorized to access the requested service "
+"because payment is required."
+msgstr ""
+"Der Anforderer ist nicht befugt auf den angeforderten Dienst zuzugreifen, "
+"weil eine Bezahlung erforderlich ist."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:111
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid "The intended recipient is temporarily unavailable."
+msgstr "Der beabsichtigte Empfänger ist zur Zeit nicht erreichbar."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:114
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid ""
+"The recipient or server is redirecting requests for this information to "
+"another entity, usually temporarily."
+msgstr ""
+"Der Empfänger oder Server leitet Anfragen zu dieser Information zu einer "
+"anderen Instanz weiter, normalerweise temporär."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:117
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid ""
+"The requesting entity is not authorized to access the requested service "
+"because registration is required."
+msgstr ""
+"Der Anforderer hat keinen Zugriff auf den angeforderten Dienst, weil eine "
+"Registrierung notwendig ist."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:120
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid ""
+"A remote server or service specified as part or all of the JID of the "
+"intended recipient does not exist."
+msgstr ""
+"Ein Remote-Server oder Dienst der als teilweise oder ganze JID spezifiziert "
+"ist, existiert für den gewünschten Empfänger nicht."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:123
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid ""
+"A remote server or service specified as part or all of the JID of the "
+"intended recipient could not be contacted within a reasonable amount of time."
+msgstr ""
+"Ein Remote-Server oder Dienst der als teilweise oder ganze JID spezifiziert "
+"ist, konnte nicht in einer angemessenen Zeit kontaktiert werden."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:126
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid ""
+"The server or recipient lacks the system resources necessary to service the "
+"request."
+msgstr ""
+"Dem Server oder Empfänger fehlen die Systemressourcen, die für die "
+"Verarbeitung der Anfrage notwendig sind."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:129
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid ""
+"The server or recipient does not currently provide the requested service."
+msgstr ""
+"Der Server oder Empfänger stellt den angeforderten Service zur Zeit nicht "
+"zur Verfügung."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:132
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid ""
+"The requesting entity is not authorized to access the requested service "
+"because a subscription is required."
+msgstr ""
+"Der Anforderer hat keinen Zugriff auf den angeforderten Dienst, weil ein "
+"Abonnement notwendig ist."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:135
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid "The unknown error condition."
+msgstr "Der unbekannte Fehler ist aufgetreten."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:138
+#, fuzzy
+msgctxt "Jreen::Error|"
+msgid ""
+"The recipient or server understood the request but was not expecting it at "
+"this time."
+msgstr ""
+"Der Empfänger oder Server hat die Anforderung verstanden, aber sie nicht zu "
+"diesem Zeitpunkt erwartet."
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:141
+msgctxt "Jreen::Error|"
+msgid ""
+"The stanza 'from' address specified by a connected client is not valid for "
+"the stream."
+msgstr ""
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:144
+msgctxt "Jreen::Error|"
+msgid "No stanza error occured. You're just sleeping."
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:38
+msgctxt "Mood|"
+msgid "Afraid"
+msgstr "Ängstlich"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:39
+msgctxt "Mood|"
+msgid "Amazed"
+msgstr "Verblüfft"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:40
+msgctxt "Mood|"
+msgid "Amorous"
+msgstr "Amourös"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:41
+msgctxt "Mood|"
+msgid "Angry"
+msgstr "Böse"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:42
+msgctxt "Mood|"
+msgid "Annoyed"
+msgstr "Verärgert"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:43
+msgctxt "Mood|"
+msgid "Anxious"
+msgstr "Bange"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:44
+msgctxt "Mood|"
+msgid "Aroused"
+msgstr "Erregt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:45
+msgctxt "Mood|"
+msgid "Ashamed"
+msgstr "Beschämt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:46
+msgctxt "Mood|"
+msgid "Bored"
+msgstr "Gelangweilt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:47
+msgctxt "Mood|"
+msgid "Brave"
+msgstr "Tapfer"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:48
+msgctxt "Mood|"
+msgid "Calm"
+msgstr "Ruhig"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:49
+msgctxt "Mood|"
+msgid "Cautious"
+msgstr "Vorsichtig"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:50
+msgctxt "Mood|"
+msgid "Cold"
+msgstr "Unterkühlt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:51
+msgctxt "Mood|"
+msgid "Confident"
+msgstr "Zuversichtlich"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:52
+msgctxt "Mood|"
+msgid "Confused"
+msgstr "Verwirrt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:53
+msgctxt "Mood|"
+msgid "Contemplative"
+msgstr "Nachdenklich"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:54
+msgctxt "Mood|"
+msgid "Contented"
+msgstr "Zufrieden"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:55
+msgctxt "Mood|"
+msgid "Cranky"
+msgstr "Griesgrämig"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:56
+msgctxt "Mood|"
+msgid "Crazy"
+msgstr "Verrückt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:57
+msgctxt "Mood|"
+msgid "Creative"
+msgstr "Schöpferisch"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:58
+msgctxt "Mood|"
+msgid "Curious"
+msgstr "Neugierig"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:59
+msgctxt "Mood|"
+msgid "Dejected"
+msgstr "Niedergeschlagen"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:60
+msgctxt "Mood|"
+msgid "Depressed"
+msgstr "Deprimiert"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:61
+msgctxt "Mood|"
+msgid "Disappointed"
+msgstr "Enttäuscht"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:62
+msgctxt "Mood|"
+msgid "Disgusted"
+msgstr "Angewidert"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:63
+msgctxt "Mood|"
+msgid "Dismayed"
+msgstr "Bestürzt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:64
+msgctxt "Mood|"
+msgid "Distracted"
+msgstr "Abgelenkt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:65
+msgctxt "Mood|"
+msgid "Embarrassed"
+msgstr "Verlegen"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:66
+msgctxt "Mood|"
+msgid "Envious"
+msgstr "Neidisch"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:67
+msgctxt "Mood|"
+msgid "Excited"
+msgstr "Aufgeregt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:68
+msgctxt "Mood|"
+msgid "Flirtatious"
+msgstr "Verführerisch"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:69
+msgctxt "Mood|"
+msgid "Frustrated"
+msgstr "Frustriert"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:70
+msgctxt "Mood|"
+msgid "Grateful"
+msgstr "Dankerfüllt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:71
+msgctxt "Mood|"
+msgid "Grieving"
+msgstr "Betrübt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:72
+msgctxt "Mood|"
+msgid "Grumpy"
+msgstr "Mürrisch"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:73
+msgctxt "Mood|"
+msgid "Guilty"
+msgstr "Schuldbewusst"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:74
+msgctxt "Mood|"
+msgid "Happy"
+msgstr "Fröhlich"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:75
+msgctxt "Mood|"
+msgid "Hopeful"
+msgstr "Hoffnungsvoll"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:76
+msgctxt "Mood|"
+msgid "Hot"
+msgstr "Brenzlig"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:77
+msgctxt "Mood|"
+msgid "Humbled"
+msgstr "Gedemütigt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:78
+msgctxt "Mood|"
+msgid "Humiliated"
+msgstr "Erniedrigt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:79
+msgctxt "Mood|"
+msgid "Hungry"
+msgstr "Hungrig"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:80
+msgctxt "Mood|"
+msgid "Hurt"
+msgstr "Verletzt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:81
+msgctxt "Mood|"
+msgid "Impressed"
+msgstr "Beeindruckt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:82
+msgctxt "Mood|"
+msgid "In awe"
+msgstr "Ehrfurchtsvoll"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:83
+msgctxt "Mood|"
+msgid "In love"
+msgstr "Verliebt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:84
+msgctxt "Mood|"
+msgid "Indignant"
+msgstr "Empört"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:85
+msgctxt "Mood|"
+msgid "Interested"
+msgstr "Interessiert"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:86
+msgctxt "Mood|"
+msgid "Intoxicated"
+msgstr "Berauscht"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:87
+msgctxt "Mood|"
+msgid "Invincible"
+msgstr "Unbesiegbar"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:88
+msgctxt "Mood|"
+msgid "Jealous"
+msgstr "Eifersüchtig"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:89
+msgctxt "Mood|"
+msgid "Lonely"
+msgstr "Einsam"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:90
+msgctxt "Mood|"
+msgid "Lost"
+msgstr "Verloren"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:91
+msgctxt "Mood|"
+msgid "Lucky"
+msgstr "Glücklich"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:92
+msgctxt "Mood|"
+msgid "Mean"
+msgstr "Gemein"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:93
+msgctxt "Mood|"
+msgid "Moody"
+msgstr "Launisch"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:94
+msgctxt "Mood|"
+msgid "Nervous"
+msgstr "Nervös"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:95
+msgctxt "Mood|"
+msgid "Neutral"
+msgstr "Gleichgültig"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:96
+msgctxt "Mood|"
+msgid "Offended"
+msgstr "Beleidigt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:97
+msgctxt "Mood|"
+msgid "Outraged"
+msgstr "Entrüstet"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:98
+msgctxt "Mood|"
+msgid "Playful"
+msgstr "Verspielt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:99
+msgctxt "Mood|"
+msgid "Proud"
+msgstr "Stolz"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:100
+msgctxt "Mood|"
+msgid "Relaxed"
+msgstr "Entspannt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:101
+msgctxt "Mood|"
+msgid "Relieved"
+msgstr "Erleichtert"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:102
+msgctxt "Mood|"
+msgid "Remorseful"
+msgstr "Reumütig"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:103
+msgctxt "Mood|"
+msgid "Restless"
+msgstr "Unruhig"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:104
+msgctxt "Mood|"
+msgid "Sad"
+msgstr "Traurig"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:105
+msgctxt "Mood|"
+msgid "Sarcastic"
+msgstr "Sarkastisch"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:106
+msgctxt "Mood|"
+msgid "Satisfied"
+msgstr "Zufrieden"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:107
+msgctxt "Mood|"
+msgid "Serious"
+msgstr "Ernsthaft"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:108
+msgctxt "Mood|"
+msgid "Shocked"
+msgstr "Schockiert"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:109
+msgctxt "Mood|"
+msgid "Shy"
+msgstr "Schüchtern"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:110
+msgctxt "Mood|"
+msgid "Sick"
+msgstr "Krank"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:111
+msgctxt "Mood|"
+msgid "Sleepy"
+msgstr "Schläfrig"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:112
+msgctxt "Mood|"
+msgid "Spontaneous"
+msgstr "Spontan"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:113
+msgctxt "Mood|"
+msgid "Stressed"
+msgstr "Gestresst"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:114
+msgctxt "Mood|"
+msgid "Strong"
+msgstr "Entschlossen"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:115
+msgctxt "Mood|"
+msgid "Surprised"
+msgstr "Überrascht"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:116
+msgctxt "Mood|"
+msgid "Thankful"
+msgstr "Dankbar"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:117
+msgctxt "Mood|"
+msgid "Thirsty"
+msgstr "Durstig"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:118
+msgctxt "Mood|"
+msgid "Tired"
+msgstr "Übernächtigt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:119
+msgctxt "Mood|"
+msgid "Undefined"
+msgstr "In undefinierter Stimmung befindlich"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:120
+msgctxt "Mood|"
+msgid "Weak"
+msgstr "Kraftlos"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:121
+msgctxt "Mood|"
+msgid "Worried"
+msgstr "Besorgt"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:187
+msgctxt "Mood|"
+msgid "Mood"
+msgstr "Stimmung"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:189
+msgctxt "Mood|"
+msgid "Show contact mood icon"
+msgstr "Zeige Stimmungssymbole"
+
+#: ../../../protocols/jabber/src/jplugin.cpp:53
+#: ../../../protocols/jabber/src/jplugin.cpp:67
+msgctxt "Plugin|"
+msgid "Jabber"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:54
+#: ../../../protocols/jabber/src/jplugin.cpp:68
+msgctxt "Plugin|"
+msgid "Jabber protocol"
+msgstr "Jabber-Protokoll"
+
+#: ../../../protocols/jabber/src/jplugin.cpp:71
+msgctxt "Plugin|"
+msgid "Jabber account creator"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:72
+msgctxt "Plugin|"
+msgid "Account creator for Jabber protocol"
+msgstr "Konten für das Jabber-Protokoll erstellen"
+
+#: ../../../protocols/jabber/src/jplugin.cpp:75
+msgctxt "Plugin|"
+msgid "LiveJournal account creator"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:76
+msgctxt "Plugin|"
+msgid "Account creator for LiveJournal"
+msgstr "Konten für LiveJournal erstellen"
+
+#: ../../../protocols/jabber/src/jplugin.cpp:79
+msgctxt "Plugin|"
+msgid "Google Talk account creator"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:80
+msgctxt "Plugin|"
+msgid "Account creator for Google Talk"
+msgstr "Konten für GoogleTalk erstellen"
+
+#: ../../../protocols/jabber/src/jplugin.cpp:83
+msgctxt "Plugin|"
+msgid "Yandex.Online account creator"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:84
+msgctxt "Plugin|"
+msgid "Account creator for Yandex.Online"
+msgstr "Konten für Yandex.Online erstellen"
+
+#: ../../../protocols/jabber/src/jplugin.cpp:87
+msgctxt "Plugin|"
+msgid "QIP account creator"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:88
+msgctxt "Plugin|"
+msgid "Account creator for QIP"
+msgstr "Konten für QIP erstellen"
+
+#: ../../../protocols/jabber/src/jplugin.cpp:92
+msgctxt "Plugin|"
+msgid "Jabber XML console"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:93
+msgctxt "Plugin|"
+msgid "XML console for low-level protocol debugging"
+msgstr "XML-Konsole zum debuggen"
+
+#: ../../../protocols/jabber/src/jplugin.cpp:105
+msgctxt "Plugin|"
+msgid "Jabber Service Browser"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:106
+msgctxt "Plugin|"
+msgid "Implementation of service browser"
+msgstr "Service Discovery für Jabber"
+
+#: ../../../protocols/jabber/src/jplugin.cpp:113
+msgctxt "Plugin|"
+msgid "Jabber Personal Events support"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:114
+msgctxt "Plugin|"
+msgid "Implementation of personal events protocol"
+msgstr "PEP-Unterstützung für Jabber"
+
+#: ../../../protocols/jabber/src/jplugin.cpp:117
+msgctxt "Plugin|"
+msgid "Jabber VCard support"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:118
+msgctxt "Plugin|"
+msgid "Implementation of VCard info requests"
+msgstr "Benutzerinfos abrufen"
+
+#: ../../../protocols/jabber/src/jplugin.cpp:125
+msgctxt "Plugin|"
+msgid "Jabber User Mood support"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:126
+msgctxt "Plugin|"
+msgid "Convertes internal XMPP data of mood to Qt data types"
+msgstr "Konvertiert XMPP-Moods-Daten zu Qt-Datentypen"
+
+#: ../../../protocols/jabber/src/jplugin.cpp:129
+msgctxt "Plugin|"
+msgid "Jabber Mood Chooser"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:130
+msgctxt "Plugin|"
+msgid "Provides the dialog to set your mood"
+msgstr "Dialog, um die eigene Stimmung zu veröffentlichen"
+
+#: ../../../protocols/jabber/src/jplugin.cpp:133
+msgctxt "Plugin|"
+msgid "Jabber User Tune support"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:134
+msgctxt "Plugin|"
+msgid "Convertes internal XMPP data of tune to Qt data types"
+msgstr "Konvertiert XMPP-Tune-Daten zu Qt-Datentypen"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:14
+msgctxt "RoomConfig|"
+msgid "Form"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:58
+msgctxt "RoomConfig|"
+msgid "Apply"
+msgstr "Anwenden"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:65
+msgctxt "RoomConfig|"
+msgid "Ok"
+msgstr "Ok"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:72
+msgctxt "RoomConfig|"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:14
+msgctxt "ServiceBrowser|"
+msgid "jServiceBrowser"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:31
+msgctxt "ServiceBrowser|"
+msgid "Server:"
+msgstr "Server:"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:150
+msgctxt "ServiceBrowser|"
+msgid "Name"
+msgstr "Name"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:77
+msgctxt "ServiceBrowser|"
+msgid "Filter:"
+msgstr "Filtern:"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:168
+msgctxt "ServiceBrowser|"
+msgid "Searching..."
+msgstr "Suchen..."
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:190
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:193
+msgctxt "ServiceBrowser|"
+msgid "Join conference"
+msgstr "Raum betreten"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:198
+msgctxt "ServiceBrowser|"
+msgid "Register"
+msgstr "Registrieren"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:201
+msgctxt "ServiceBrowser|"
+msgid "Register on the service"
+msgstr "Beim Dienst registrieren"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:206
+msgctxt "ServiceBrowser|"
+msgid "Search"
+msgstr "Suchen"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:209
+msgctxt "ServiceBrowser|"
+msgid "Search on the service"
+msgstr "Mit dem Dienst suchen"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:214
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:217
+msgctxt "ServiceBrowser|"
+msgid "Execute command"
+msgstr "Befehl ausführen"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:222
+msgctxt "ServiceBrowser|"
+msgid "Show vCard"
+msgstr "vCard anzeigen"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:225
+msgctxt "ServiceBrowser|"
+msgid "Show information about service"
+msgstr "Dienstinformationen"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:233
+msgctxt "ServiceBrowser|"
+msgid "Add service to roster"
+msgstr "Dienst zur Kontaktliste hinzufügen"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:230
+msgctxt "ServiceBrowser|"
+msgid "Add to roster"
+msgstr "Zur Kontaktliste hinzufügen"
+
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:197
+msgctxt "Settings|"
+msgid "Main settings"
+msgstr "Allgemein"
+
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:204
+msgctxt "Settings|"
+msgid "Room configuration"
+msgstr "Raum einrichten"
+
+#: ../../../protocols/jabber/src/jplugin.cpp:58
+#: ../../../protocols/jabber/src/jplugin.cpp:61
+msgctxt "Task|"
+msgid "Author"
+msgstr "Autor"
+
+#: ../../../protocols/jabber/src/jplugin.cpp:65
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Entwickler"
+
+#: ../../../protocols/jabber/src/protocol/modules/tunepep/jpersontuneconverter.cpp:101
+msgctxt "Tune|"
+msgid "Now listening"
+msgstr "Hört gerade"
+
+#: ../../../protocols/jabber/src/protocol/modules/tunepep/jpersontuneconverter.cpp:123
+msgctxt "Tune|"
+msgid "Tune"
+msgstr "Musik"
+
+#: ../../../protocols/jabber/src/protocol/modules/tunepep/jpersontuneconverter.cpp:125
+msgctxt "Tune|"
+msgid "Show tune icon"
+msgstr "Zeige Musik-Symbol"
+
+#: ../../../protocols/jabber/jreen/src/gui/xmlconsole.ui:14
+msgctxt "XmlConsole|"
+msgid "Form"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui:14
+msgctxt "XmlConsole|"
+msgid "Xml stream console"
+msgstr "xml-Stream Konsole"
+
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui:33
+msgctxt "XmlConsole|"
+msgid "Filter"
+msgstr "Filtern"
+
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui:43
+msgctxt "XmlConsole|"
+msgid "Save log"
+msgstr "Speichern..."

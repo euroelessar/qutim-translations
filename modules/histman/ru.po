@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: ru\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/histman/src/historymanagerplugin.cpp:36
+msgctxt "Author|"
+msgid "Ruslan Nigmatullin"
+msgstr "Нигматуллин Руслан"
+
+#: ../../../plugins/histman/src/chooseclientpage.ui:14
+msgctxt "ChooseClientPage|"
+msgid "WizardPage"
+msgstr "Мастер"
+
+#: ../../../plugins/histman/src/chooseordumppage.ui:14
+msgctxt "ChooseOrDumpPage|"
+msgid "WizardPage"
+msgstr "Мастер"
+
+#: ../../../plugins/histman/src/chooseordumppage.ui:20
+msgctxt "ChooseOrDumpPage|"
+msgid "Import history from one more client"
+msgstr "Импортировать историю из следующего клиента"
+
+#: ../../../plugins/histman/src/chooseordumppage.ui:27
+msgctxt "ChooseOrDumpPage|"
+msgid "Dump history"
+msgstr "Сохранить историю"
+
+#: ../../../plugins/histman/src/clientconfigpage.ui:14
+msgctxt "ClientConfigPage|"
+msgid "WizardPage"
+msgstr "Мастер"
+
+#: ../../../plugins/histman/src/clientconfigpage.ui:20
+msgctxt "ClientConfigPage|"
+msgid "Path to profile:"
+msgstr "Путь к профилю:"
+
+#: ../../../plugins/histman/src/clientconfigpage.ui:32
+msgctxt "ClientConfigPage|"
+msgid "..."
+msgstr "..."
+
+#: ../../../plugins/histman/src/clientconfigpage.ui:48
+msgctxt "ClientConfigPage|"
+msgid "Encoding:"
+msgstr "Кодировка:"
+
+#: ../../../plugins/histman/src/clients/gajim.cpp:109
+#: ../../../plugins/histman/src/clients/psi.cpp:172
+msgctxt "ClientConfigPage|"
+msgid "Select your Jabber account."
+msgstr "Выберите ваш Jabber аккаунт."
+
+#: ../../../plugins/histman/src/clients/qipinfium.cpp:190
+msgctxt "ClientConfigPage|"
+msgid "Select accounts for each protocol in the list."
+msgstr "Выберите аккаунты для каждого протокола в списке."
+
+#: ../../../plugins/histman/src/dumphistorypage.ui:14
+msgctxt "DumpHistoryPage|"
+msgid "WizardPage"
+msgstr "Мастер"
+
+#: ../../../plugins/histman/src/dumphistorypage.ui:20
+msgctxt "DumpHistoryPage|"
+msgid "Choose format:"
+msgstr "Выберите формат:"
+
+#: ../../../plugins/histman/src/dumphistorypage.ui:27
+msgctxt "DumpHistoryPage|"
+msgid "JSON"
+msgstr "JSON (используется по умолчанию)"
+
+#: ../../../plugins/histman/src/dumphistorypage.ui:34
+msgctxt "DumpHistoryPage|"
+msgid "Binary"
+msgstr "Бинарный"
+
+#: ../../../plugins/histman/src/dumphistorypage.ui:41
+msgctxt "DumpHistoryPage|"
+msgid "Merging history state:"
+msgstr "Обьединение истории:"
+
+#: ../../../plugins/histman/src/dumphistorypage.ui:55
+msgctxt "DumpHistoryPage|"
+msgid "Dumping history state:"
+msgstr "Сохранение истории:"
+
+#: ../../../plugins/histman/src/chooseclientpage.cpp:55
+msgctxt "HistoryManager::ChooseClientPage|"
+msgid "Client"
+msgstr "Клиент"
+
+#: ../../../plugins/histman/src/chooseclientpage.cpp:56
+msgctxt "HistoryManager::ChooseClientPage|"
+msgid "Choose client which history you want to import to qutIM."
+msgstr "Выберите клиент, историю которого нужно импортировать в qutIM."
+
+#: ../../../plugins/histman/src/chooseordumppage.cpp:37
+msgctxt "HistoryManager::ChooseOrDumpPage|Dump history or choose next client"
+msgid "What to do next?"
+msgstr "Что дальше?"
+
+#: ../../../plugins/histman/src/chooseordumppage.cpp:38
+msgctxt "HistoryManager::ChooseOrDumpPage|"
+msgid ""
+"It is possible to choose another client for import history or dump history "
+"to the disk."
+msgstr ""
+"Можно выбрать другой клиент для импортирования или сохранения истории на "
+"диск."
+
+#: ../../../plugins/histman/src/clientconfigpage.cpp:55
+msgctxt "HistoryManager::ClientConfigPage|"
+msgid "Configuration"
+msgstr "Настройки"
+
+#: ../../../plugins/histman/src/clientconfigpage.cpp:76
+#, qt-format
+msgctxt "HistoryManager::ClientConfigPage|"
+msgid "Enter path of your %1 profile file."
+msgstr "Укажите путь к файлу профиля %1."
+
+#: ../../../plugins/histman/src/clientconfigpage.cpp:78
+#, qt-format
+msgctxt "HistoryManager::ClientConfigPage|"
+msgid "Enter path of your %1 profile dir."
+msgstr "Укажите путь к папке профиля %1."
+
+#: ../../../plugins/histman/src/clientconfigpage.cpp:83
+msgctxt "HistoryManager::ClientConfigPage|"
+msgid ""
+"If your history encoding differs from the system one, choose the appropriate "
+"encoding for history."
+msgstr "Если кодировка истории отличается от системной, выберите требуемую."
+
+#: ../../../plugins/histman/src/clientconfigpage.cpp:172
+#: ../../../plugins/histman/src/clientconfigpage.cpp:174
+msgctxt "HistoryManager::ClientConfigPage|"
+msgid "Select path"
+msgstr "Укажите путь"
+
+# Сожранение в бумарки! :DDD
+#: ../../../plugins/histman/src/dumphistorypage.cpp:68
+msgctxt "HistoryManager::DumpHistoryPage|"
+msgid "Dumping"
+msgstr "Сохранение"
+
+#: ../../../plugins/histman/src/dumphistorypage.cpp:102
+msgctxt "HistoryManager::DumpHistoryPage|"
+msgid "Last step. Click 'Dump' to start dumping process."
+msgstr "Последний шаг. Нажмите \"Сохранить\" для обьединения историй."
+
+#: ../../../plugins/histman/src/dumphistorypage.cpp:118
+msgctxt "HistoryManager::DumpHistoryPage|"
+msgid "Manager merges history, it make take several minutes."
+msgstr "Обьединение истории, это займет некоторое время."
+
+#: ../../../plugins/histman/src/dumphistorypage.cpp:145
+msgctxt "HistoryManager::DumpHistoryPage|"
+msgid "History has been succesfully imported."
+msgstr "История успешно импортирована."
+
+#: ../../../plugins/histman/src/historymanagerwindow.cpp:85
+#: ../../../plugins/histman/src/historymanagerwindow.cpp:287
+msgctxt "HistoryManager::HistoryManagerWindow|"
+msgid "History manager"
+msgstr "Менеджер истории"
+
+#: ../../../plugins/histman/src/historymanagerwindow.cpp:95
+msgctxt "HistoryManager::HistoryManagerWindow|"
+msgid "&Dump"
+msgstr "&Сохранить"
+
+#: ../../../plugins/histman/src/importhistorypage.cpp:54
+msgctxt "HistoryManager::ImportHistoryPage|"
+msgid "Loading"
+msgstr "Загрузка"
+
+#: ../../../plugins/histman/src/importhistorypage.cpp:71
+msgctxt "HistoryManager::ImportHistoryPage|"
+msgid "Manager loads all history to memory, it may take several minutes."
+msgstr ""
+"Менеджер загружает всю историю в память, это может занять несколько минут."
+
+# ну никак
+#: ../../../plugins/histman/src/importhistorypage.cpp:97
+#, fuzzy, qt-format
+msgctxt "HistoryManager::ImportHistoryPage|"
+msgid "%n message(s) have been succesfully loaded to memory."
+msgid_plural "%n message(s) have been succesfully loaded to memory."
+msgstr[0] "%n сообщение было полностью заружено в память."
+msgstr[1] "%n сообщения было полностью заружено в память."
+msgstr[2] "%n сообщений было полностью заружено в память."
+
+# ну никкак по русски. ==//== Дааа. может так?
+#: ../../../plugins/histman/src/importhistorypage.cpp:98
+#, fuzzy, qt-format
+msgctxt "HistoryManager::ImportHistoryPage|"
+msgid "It has taken %n ms."
+msgid_plural "It has taken %n ms."
+msgstr[0] "Это действие заняло %n мс."
+msgstr[1] "Это действие заняло %n мс."
+msgstr[2] "Это действие заняло %n мс."
+
+#: ../../../plugins/histman/src/historymanagerwindow.ui:16
+msgctxt "HistoryManagerWindow|"
+msgid "Form"
+msgstr ""
+
+#: ../../../plugins/histman/src/importhistorypage.ui:14
+msgctxt "ImportHistoryPage|"
+msgid "WizardPage"
+msgstr "Мастер"
+
+#: ../../../plugins/histman/src/historymanagerplugin.cpp:39
+msgctxt "Plugin|"
+msgid "HistMan"
+msgstr "Менеджер истории"
+
+#: ../../../plugins/histman/src/historymanagerplugin.cpp:40
+msgctxt "Plugin|"
+msgid ""
+"Plugin makes possible to import history to qutIM from different messengers"
+msgstr "Плагин дающий возможность импортировать историю в qutIM из прочих IM"
+
+#: ../../../plugins/histman/src/historymanagerplugin.cpp:50
+msgctxt "Plugin|"
+msgid "Import history"
+msgstr "Импорт истории"
+
+#: ../../../plugins/histman/src/historymanagerplugin.cpp:37
+msgctxt "Task|"
+msgid "Author"
+msgstr "Автор"

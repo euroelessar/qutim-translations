@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: bg\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/sdlsound/src/sdlplugin.cpp:31
+msgctxt "Author|"
+msgid "Ruslan Nigmatullin"
+msgstr "Руслан Нигматуллин"
+
+#: ../../../plugins/sdlsound/src/sdlplugin.cpp:34
+#: ../../../plugins/sdlsound/src/sdlplugin.cpp:39
+msgctxt "Plugin|"
+msgid "SDL sound engine"
+msgstr "Поддръжка на звук чрез SDL"
+
+#: ../../../plugins/sdlsound/src/sdlplugin.cpp:35
+#: ../../../plugins/sdlsound/src/sdlplugin.cpp:40
+msgctxt "Plugin|"
+msgid "Sound engine based on Simple DirectMedia Layer"
+msgstr "Поддръжка на звук на базата на Simple DirectMedia Layer"
+
+#: ../../../plugins/sdlsound/src/sdlplugin.cpp:32
+msgctxt "Task|"
+msgid "Author"
+msgstr "Автор"

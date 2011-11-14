@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: bg\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:48
+msgctxt "AntiBoss|"
+msgid "Show/hide all windows"
+msgstr "Скриване/Показване на всички прозорци"
+
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:49
+msgctxt "AntiBoss|"
+msgid "Antiboss"
+msgstr "Анти-бос"
+
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:39
+msgctxt "Author|"
+msgid "Ruslan Nigmatullin"
+msgstr "Руслан Нигматуллин"
+
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:42
+msgctxt "Plugin|"
+msgid "Anti-boss plugin"
+msgstr "Анти-бос добавка"
+
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:43
+msgctxt "Plugin|"
+msgid "Plugin makes your chatting invisible for boss"
+msgstr "Добавката позволява разговорите да са невидими за началниците"
+
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:40
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Разработчик"

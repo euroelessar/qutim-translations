@@ -1,0 +1,3604 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"X-Language: cs\n"
+"X-Source-Language: en_GB\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:69
+msgctxt "Account|"
+msgid "Add new account"
+msgstr "Přidat nový účet"
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:70
+msgctxt "Account|"
+msgid "Just add or create new account"
+msgstr "Přidá nebo vytvoří nový účet"
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:75
+msgctxt "Account|"
+msgid "Accounts"
+msgstr "Účty"
+
+#: ../../../core/libqutim/account.cpp:145
+msgctxt "Account|"
+msgid "Authorization failed"
+msgstr "Autorizace selhala"
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.ui:14
+msgctxt "AccountCreatorList|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorprotocols.ui:14
+msgctxt "AccountCreatorProtocols|"
+msgid "WizardPage"
+msgstr ""
+
+#: ../../../core/libqutim/actiontoolbar.cpp:60
+msgctxt "ActionToolBar|"
+msgid "Small"
+msgstr "Malá"
+
+#: ../../../core/libqutim/actiontoolbar.cpp:65
+#: ../../../core/libqutim/actiontoolbar.cpp:69
+msgctxt "ActionToolBar|"
+msgid "Default"
+msgstr "Výchozí"
+
+#: ../../../core/libqutim/actiontoolbar.cpp:73
+msgctxt "ActionToolBar|"
+msgid "Big"
+msgstr "Velká"
+
+#: ../../../core/libqutim/actiontoolbar.cpp:76
+msgctxt "ActionToolBar|"
+msgid "Huge"
+msgstr "Obrovská"
+
+#: ../../../core/libqutim/actiontoolbar.cpp:85
+msgctxt "ActionToolBar|"
+msgid "Only display the icon"
+msgstr "Pouze zobrazit ikonu"
+
+#: ../../../core/libqutim/actiontoolbar.cpp:87
+msgctxt "ActionToolBar|"
+msgid "Only display the text"
+msgstr "Pouze zobrazit text"
+
+#: ../../../core/libqutim/actiontoolbar.cpp:89
+msgctxt "ActionToolBar|"
+msgid "The text appears beside the icon"
+msgstr "Text bude zobrazen vedle ikony"
+
+#: ../../../core/libqutim/actiontoolbar.cpp:91
+msgctxt "ActionToolBar|"
+msgid "The text appears under the icon"
+msgstr "Text bude zobrazen pod ikonou"
+
+#: ../../../core/libqutim/actiontoolbar.cpp:93
+msgctxt "ActionToolBar|"
+msgid "Follow the style"
+msgstr "Závislé na motivu"
+
+#: ../../../core/src/corelayers/addcontactdlg/addcontact.ui:14
+#: ../../../core/src/corelayers/addcontactdlg/addcontact.cpp:69
+msgctxt "AddContact|"
+msgid "Add contact"
+msgstr "Přidat kontakt"
+
+#: ../../../core/src/corelayers/addcontactdlg/addcontact.ui:47
+msgctxt "AddContact|"
+msgid "TextLabel"
+msgstr ""
+
+#: ../../../core/src/corelayers/addcontactdlg/addcontact.ui:57
+msgctxt "AddContact|"
+msgid "Name:"
+msgstr "Jméno:"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:59
+msgctxt "AddContact|"
+msgid "Remove from roster"
+msgstr "Odstranit ze seznamu kontaktů"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:60
+msgctxt "AddContact|"
+msgid "Add to roster"
+msgstr "Přidat do seznamu kontaktů"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:106
+msgctxt "AddContact|"
+msgid "Unavailable"
+msgstr "Není k dispozici"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:226
+msgctxt "AddContact|"
+msgid "Remove contact"
+msgstr "Odstranit kontakt"
+
+#: ../../../core/src/corelayers/authdialog/authdialog.ui:14
+msgctxt "AuthDialog|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../../core/src/corelayers/authdialog/authdialog.ui:33
+msgctxt "AuthDialog|"
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; "
+"font-weight:400; font-style:normal;\">\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+"font-family:'Droid Sans';\"></p></body></html>"
+msgstr ""
+
+#: ../../../core/src/corelayers/authdialog/authdialog.ui:20
+msgctxt "AuthDialog|"
+msgid "TextLabel"
+msgstr ""
+
+#: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:39
+#: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:42
+#: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:44
+msgctxt "Author|"
+msgid "Sidorov Aleksey"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:38
+msgctxt "Author|"
+msgid "Alexey Prokhin"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:94
+msgctxt "Author|"
+msgid "Perova Gala"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:98
+msgctxt "Author|"
+msgid "Rederick Asher"
+msgstr ""
+
+#: ../../../core/src/corelayers/idlestatuschanger/idlestatuschanger.cpp:50
+#, fuzzy
+msgctxt "AutoAway|"
+msgid "Auto-away"
+msgstr "Automaticky pryč"
+
+#: ../../../core/src/corelayers/jsonhistory/jsonhistory.cpp:134
+msgctxt "Chat|"
+msgid "View History"
+msgstr "Zobrazit historii"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:56
+msgctxt "ChatLayer|"
+msgid "Close chat"
+msgstr "Zavřít konverzaci"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:57
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:62
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:67
+#, fuzzy
+msgctxt "ChatLayer|"
+msgid "ChatWidget"
+msgstr "Okno konverzace"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:61
+msgctxt "ChatLayer|"
+msgid "Next chat"
+msgstr "Další konverzace"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:66
+msgctxt "ChatLayer|"
+msgid "Previous chat"
+msgstr "Předchozí konverzace"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:60
+msgctxt "ChatLayer|"
+msgid "Insert Emoticon"
+msgstr "Vložit smajlíka"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:112
+msgctxt "ChatLayer|"
+msgid "Show Emoticons"
+msgstr "Zobrazit smajlíky"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:117
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:132
+msgctxt "ChatLayer|"
+msgid "Quote"
+msgstr "Citovat"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:122
+msgctxt "ChatLayer|"
+msgid "Clear Chat"
+msgstr "Vymazat konverzaci"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:139
+msgctxt "ChatLayer|"
+msgid "Clear chat"
+msgstr "Vymazat konverzaci"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:142
+#, fuzzy
+msgctxt "ChatLayer|"
+msgid "Clear chat field"
+msgstr "Vymazat okno konverzace"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatform.cpp:50
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatform.cpp:48
+#, fuzzy
+msgctxt "ChatLayer|"
+msgid "Open session list"
+msgstr "Otevřít seznam konverzací"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:85
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:90
+msgctxt "ChatLayer|"
+msgid "ContactList"
+msgstr "Seznam kontaktů"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:437
+msgctxt "ChatSession|"
+msgid "Auto"
+msgstr "Automaticky"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:447
+msgctxt "ChatSession|"
+msgid "Last active"
+msgstr "Poslední aktivní"
+
+#: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:67
+#, qt-format
+msgctxt "ContactInfo|"
+msgid "Recieved authorizarion request from %1:"
+msgstr "Požadována autorizace od %1:"
+
+#: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:71
+#, qt-format
+msgctxt "ContactInfo|"
+msgid "Send authorizarion request to %1:"
+msgstr "Odeslat požadavek na autorizaci pro %1:"
+
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:63
+#: ../../../core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp:93
+#, qt-format
+msgctxt "ContactInfo|"
+msgid "About contact %1 <%2>"
+msgstr "O kontaktu %1 <%2>"
+
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:68
+#: ../../../core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp:98
+#, qt-format
+msgctxt "ContactInfo|"
+msgid "About account %1"
+msgstr "O účtu %1"
+
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:71
+#: ../../../core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp:101
+#, qt-format
+msgctxt "ContactInfo|"
+msgid "About %1 <%2>"
+msgstr "O %1 <%2>"
+
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:158
+msgctxt "ContactInfo|"
+msgid "Summary"
+msgstr "Shrnutí"
+
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:173
+msgctxt "ContactInfo|"
+msgid "General"
+msgstr "Obecné"
+
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:221
+msgctxt "ContactInfo|"
+msgid "yes"
+msgstr "ano"
+
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:222
+msgctxt "ContactInfo|"
+msgid "no"
+msgstr "ne"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:187
+msgctxt "ContactInfo|"
+msgid "Show information"
+msgstr "Zobrazit informace"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:188
+msgctxt "ContactInfo|"
+msgid "Edit information"
+msgstr "Upravit informace"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:94
+msgctxt "ContactInfo|"
+msgid "Information unavailable"
+msgstr "Informace nejsou k dispozici"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:70
+msgctxt "ContactList|"
+msgid "Copy id to clipboard"
+msgstr "Kopírovat ID do schránky"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:113
+msgctxt "ContactList|"
+msgid "Enable/disable sound"
+msgstr "Zapnout/vypnout zvuk"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:84
+msgctxt "ContactList|"
+msgid "Change global status"
+msgstr "Změnit globální stav"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:89
+#, fuzzy
+msgctxt "ContactList|"
+msgid "Activate main menu"
+msgstr "Aktivovat hlavní nabídku"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:97
+msgctxt "ContactList|"
+msgid "&Settings..."
+msgstr "Na&stavení..."
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:104
+msgctxt "ContactList|"
+msgid "Main menu"
+msgstr "Hlavní nabídka"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:108
+msgctxt "ContactList|"
+msgid "&Quit"
+msgstr "&Ukončit"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:121
+msgctxt "ContactList|"
+msgid "Contact list"
+msgstr "Seznam kontaktů"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:196
+msgctxt "ContactList|"
+msgid "Select tags"
+msgstr "Vybrat štítky"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:202
+msgctxt "ContactList|"
+msgid "Show/Hide offline"
+msgstr "Zobrazit/skrýt offline kontakty"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:205
+msgctxt "ContactList|"
+msgid "Hide offline"
+msgstr "Skrýt offline kontakty"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp:43
+msgctxt "ContactList|"
+msgid "Default (depends on platform)"
+msgstr "Výchozí (záleží na platformě)"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp:44
+msgctxt "ContactList|"
+msgid "Small (16x16)"
+msgstr "Malá (16x16)"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp:45
+msgctxt "ContactList|"
+msgid "Medium (22x22)"
+msgstr "Střední (22x22)"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp:46
+msgctxt "ContactList|"
+msgid "Large (32x32)"
+msgstr "Velká (32x32)"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp:47
+msgctxt "ContactList|"
+msgid "Very large (48x48)"
+msgstr "Velmi velká (48x48)"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp:48
+msgctxt "ContactList|"
+msgid "Huge (64x64)"
+msgstr "Obrovská (64x64)"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:89
+msgctxt "ContactList|"
+msgid "Rename contact"
+msgstr "Přejmenovat kontakt"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:79
+msgctxt "ContactList|"
+msgid "Edit tags"
+msgstr "Upravit štítky"
+
+#: ../../../core/src/corelayers/simplecontactlist/models/plaincontactsmodel/plaincontactlistmodel.cpp:62
+msgctxt "ContactList|"
+msgid "Show only contacts"
+msgstr "Zobrazit pouze kontakty"
+
+#: ../../../core/src/corelayers/simplecontactlist/models/separatedcontactsmodel/separatedcontactlistmodel.cpp:90
+msgctxt "ContactList|"
+msgid "Show accounts, tags and contacts"
+msgstr "Zobrazit účty, štítky a kontakty"
+
+#: ../../../core/src/corelayers/simplecontactlist/models/treecontactsmodel/simplecontactlistmodel.cpp:79
+msgctxt "ContactList|"
+msgid "Show tags and contacts"
+msgstr "Zobrazit štítky a kontakty"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:114
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:72
+msgctxt "ContactList|"
+msgid "Default style"
+msgstr "Výchozí styl"
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:73
+msgctxt "ContactList|"
+msgid "qutIM 0.2 style"
+msgstr "qutIM 0.2 styl"
+
+#: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:43
+#: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:67
+msgctxt "ContactSearch|"
+msgid "Search contact"
+msgstr "Hledat kontakt"
+
+#: ../../../core/src/corelayers/mobileabout/mobileaboutcreator.cpp:42
+#: ../../../core/src/corelayers/simpleabout/simpleaboutcreator.cpp:41
+msgctxt "Core|"
+msgid "About qutIM"
+msgstr "O qutIMu"
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:145
+msgctxt "Core::AccountCreatorList|"
+msgid "Properties"
+msgstr "Vlastnosti"
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:146
+msgctxt "Core::AccountCreatorList|"
+msgid "Account settings"
+msgstr "Nastavení účtu"
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:153
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:155
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:208
+msgctxt "Core::AccountCreatorList|"
+msgid "Remove account"
+msgstr "Odstranit účet"
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:209
+#, qt-format
+msgctxt "Core::AccountCreatorList|"
+msgid "Are you sure want to remove %1"
+msgstr "Opravdu chcete odstranit %1"
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorprotocols.cpp:84
+msgctxt "Core::AccountCreatorProtocols|"
+msgid "Select protocol"
+msgstr "Výběr protokolu"
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorwizard.cpp:35
+msgctxt "Core::AccountCreatorWizard|"
+msgid "Add a new account"
+msgstr "Přidat nový účet"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:53
+#, fuzzy
+msgctxt "Core::ActionWidget|"
+msgid "Stop"
+msgstr "Přerušit"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:54
+#, fuzzy
+msgctxt "Core::ActionWidget|"
+msgid "Stop the task"
+msgstr "Přerušit úlohu"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:61
+msgctxt "Core::ActionWidget|"
+msgid "Remove"
+msgstr "Odstranit"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:62
+msgctxt "Core::ActionWidget|"
+msgid "Remove the task"
+msgstr "Odstranit úlohu"
+
+#: ../../../core/src/corelayers/addcontactdlg/addcontact.cpp:134
+msgctxt "Core::AddContact|"
+msgid "Start chat"
+msgstr "Zahájit konverzaci"
+
+#: ../../../core/src/corelayers/addcontactdlg/addcontact.cpp:138
+msgctxt "Core::AddContact|"
+msgid "Show info"
+msgstr "Zobrazit informace"
+
+#: ../../../core/src/corelayers/addcontactdlg/addcontact.cpp:221
+msgctxt "Core::AddContact|"
+msgid "Account must be online"
+msgstr "Účet musí být online"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:61
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:87
+#, qt-format
+msgctxt "Core::AdiumChat::AbstractChatWidget|"
+msgid "Chat with %1 (have %2 unread messages)"
+msgstr "Konverzace s %1 (máte %2 nepřečtené zprávy)"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:63
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:89
+#, qt-format
+msgctxt "Core::AdiumChat::AbstractChatWidget|"
+msgid "Chat with %1"
+msgstr "Konverzace s %1"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:66
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:92
+#, qt-format
+msgctxt "Core::AdiumChat::AbstractChatWidget|"
+msgid "Conference %1 (%2)"
+msgstr "Konference %1 (%2)"
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:56
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Vasya Pupkin"
+msgstr "Jan Novák"
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:67
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Noname"
+msgstr "Franta Vopršálek"
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:132
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:215
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Unable to create chat session"
+msgstr "Nelze vytvořit session konverzace"
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:219
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Preview message"
+msgstr "Náhled zprávy"
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:226
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Hello!"
+msgstr "Ahoj!"
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:229
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "How are you?"
+msgstr "Jak se máš?"
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:232
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "I am fine!"
+msgstr "Mám se dobře!"
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:235
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "/me is thinking!"
+msgstr "/me přemýšlí!"
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:238
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Vasya Pupkin is reading you mind"
+msgstr "Jan Novák čte tvé myšlenky"
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:255
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Style variant:"
+msgstr "Styl:"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/actions/chatemoticonswidget.cpp:71
+msgctxt "Core::AdiumChat::ChatEmoticonsWidget|"
+msgid "Close"
+msgstr "Zavřít"
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatvariable.cpp:42
+msgctxt "Core::AdiumChat::ChatFont|"
+msgid "Change"
+msgstr "Změnit"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:90
+msgctxt "Core::AdiumChat::ConferenceContactsView|"
+msgid "Insert Nick"
+msgstr "Vložit přezdívku"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:161
+#, fuzzy
+msgctxt "Core::AdiumChat::ConferenceContactsView|"
+msgid "Private"
+msgstr "Soukromé"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:98
+msgctxt "Core::AdiumChat::ConferenceContactsView|"
+msgid "Conference participants"
+msgstr "Účastníci konference"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp:54
+#: ../../../core/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp:269
+msgctxt "Core::AdiumChat::SessionListWidget|"
+msgid "Close chat"
+msgstr "Zavřít konverzaci"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp:59
+#, fuzzy
+msgctxt "Core::AdiumChat::SessionListWidget|"
+msgid "Session list"
+msgstr "Seznam konverzací"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.cpp:43
+msgctxt "Core::AdiumChat::StackedChatBehavior|"
+msgid "Ctrl+Enter"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.cpp:46
+msgctxt "Core::AdiumChat::StackedChatBehavior|"
+msgid "Double Enter"
+msgstr "Dvojitý Enter"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.cpp:49
+msgctxt "Core::AdiumChat::StackedChatBehavior|"
+msgid "Enter"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatwidget.cpp:80
+msgctxt "Core::AdiumChat::StackedChatWidget|"
+msgid "Chat Actions"
+msgstr "Akce konverzace"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatwidget.cpp:83
+msgctxt "Core::AdiumChat::StackedChatWidget|"
+msgid "Send to"
+msgstr "Odeslat do"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatwidget.cpp:84
+msgctxt "Core::AdiumChat::StackedChatWidget|"
+msgid "Actions"
+msgstr "Akce"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:42
+msgctxt "Core::AdiumChat::TabbedChatBehavior|"
+msgid "Ctrl+Enter"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:45
+msgctxt "Core::AdiumChat::TabbedChatBehavior|"
+msgid "Double Enter"
+msgstr "Dvojitý Enter"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:48
+msgctxt "Core::AdiumChat::TabbedChatBehavior|"
+msgid "Enter"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:52
+msgctxt "Core::AdiumChat::TabbedChatBehavior|"
+msgid "North"
+msgstr "Nahoře"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:53
+msgctxt "Core::AdiumChat::TabbedChatBehavior|"
+msgid "South"
+msgstr "Dole"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:54
+msgctxt "Core::AdiumChat::TabbedChatBehavior|"
+msgid "Classic"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:55
+msgctxt "Core::AdiumChat::TabbedChatBehavior|"
+msgid "Adium-like"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:71
+msgctxt "Core::AdiumChat::TabbedChatWidget|"
+msgid "Chat Actions"
+msgstr "Akce konverzace"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:75
+#, fuzzy
+msgctxt "Core::AdiumChat::TabbedChatWidget|"
+msgid "Send to"
+msgstr "Odeslat do"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:110
+#, fuzzy
+msgctxt "Core::AdiumChat::TabbedChatWidget|"
+msgid "Session list"
+msgstr "Seznam konverzací"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:164
+msgctxt "Core::AdiumChat::TabbedChatWidget|"
+msgid "Send"
+msgstr "Odeslat"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:202
+msgctxt "Core::AdiumChat::TabbedChatWidget|"
+msgid "&Actions"
+msgstr "&Akce"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:206
+msgctxt "Core::AdiumChat::TabbedChatWidget|"
+msgid "Accoun&ts"
+msgstr "Úč&ty"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:214
+msgctxt "Core::AdiumChat::TabbedChatWidget|"
+msgid "&Chat"
+msgstr "Konverza&ce"
+
+#: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:45
+#, fuzzy
+msgctxt "Core::AuthDialogPrivate|"
+msgid "Actions"
+msgstr "Akce"
+
+#: ../../../core/src/corelayers/chatnotificationsbackend/chatnotificationsbackend.cpp:37
+msgctxt "Core::ChatNotificationsBackend|"
+msgid "Add message to chat"
+msgstr "Přidat zprávu do konverzace"
+
+#: ../../../core/src/corelayers/chatspellchecker/chatspellchecker.cpp:156
+msgctxt "Core::ChatSpellChecker|"
+msgid "Add to dictionary"
+msgstr "Přidat do slovníku"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:120
+msgctxt "Core::ContactListSettings|"
+msgid "Model"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:121
+#, fuzzy
+msgctxt "Core::ContactListSettings|"
+msgid "Widget style"
+msgstr "Styl ovládacích prvků"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:122
+msgctxt "Core::ContactListSettings|"
+msgid "Contacts style"
+msgstr "Styl kontaktů"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:214
+msgctxt "Core::ContactListSettings|"
+msgid "To take effect you must restart qutIM"
+msgstr "Změny se projeví až po restartu qutIMu"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:109
+msgctxt "Core::FileTransferDialog|"
+msgid "Remove"
+msgstr "Odstranit"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:111
+#, fuzzy
+msgctxt "Core::FileTransferDialog|"
+msgid "Stop"
+msgstr "Přerušit"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:113
+#, fuzzy
+msgctxt "Core::FileTransferDialog|"
+msgid "Open containing folder"
+msgstr "Otevřít složku s obsahem"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:115
+msgctxt "Core::FileTransferDialog|"
+msgid "Open"
+msgstr "Otevřít"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:169
+msgctxt "Core::FileTransferJobModel|"
+msgid "From"
+msgstr "Od"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:170
+msgctxt "Core::FileTransferJobModel|"
+msgid "To"
+msgstr "Pro"
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:53
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:125
+msgctxt "Core::HistoryWindow|"
+msgid "No History"
+msgstr "není historie"
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:54
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:498
+msgctxt "Core::HistoryWindow|"
+msgid "In: %L1"
+msgstr "Příchozí: %L1"
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:55
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:499
+msgctxt "Core::HistoryWindow|"
+msgid "Out: %L1"
+msgstr "Odchozí: %L1"
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:56
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:500
+msgctxt "Core::HistoryWindow|"
+msgid "All: %L1"
+msgstr "Vše: %L1"
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:100
+msgctxt "Core::HistoryWindow|"
+msgid "Close"
+msgstr "Zavřít"
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:407
+msgctxt "Core::HistoryWindow|"
+msgid "Service message"
+msgstr "Servisní zprávy"
+
+#: ../../../core/src/corelayers/qticons/iconsloaderimpl.cpp:45
+msgctxt "Core::IconLoaderSettings|"
+msgid "Theme"
+msgstr "Motiv"
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:49
+msgctxt "Core::KineticScroller|"
+msgid "Touch"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:50
+msgctxt "Core::KineticScroller|"
+msgid "Left mouse button"
+msgstr "Levé tlačítko myši"
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:51
+msgctxt "Core::KineticScroller|"
+msgid "Middle mouse button"
+msgstr "Prostřední tlačítko myši"
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:52
+msgctxt "Core::KineticScroller|"
+msgid "Right mouse button"
+msgstr "Pravé tlačítko myši"
+
+#: ../../../core/src/corelayers/metacontacts/mergedialog.ui:14
+#, fuzzy
+msgctxt "Core::MetaContacts::MergeDialog|"
+msgid "Manage metacontact"
+msgstr "Správce metakontaktů"
+
+#: ../../../core/src/corelayers/metacontacts/mergedialog.ui:20
+#, fuzzy
+msgctxt "Core::MetaContacts::MergeDialog|"
+msgid "MetaContact name:"
+msgstr "Jméno metakontaktu:"
+
+#: ../../../core/src/corelayers/metacontacts/mergedialog.ui:30
+msgctxt "Core::MetaContacts::MergeDialog|"
+msgid "Search contacts:"
+msgstr "Hledat kontakty:"
+
+#: ../../../core/src/corelayers/metacontacts/model.cpp:95
+msgctxt "Core::MetaContacts::Model|"
+msgid "Account"
+msgstr "Účet"
+
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.cpp:47
+msgctxt "Core::MigrationStartPage|"
+msgid "Migration wizard"
+msgstr "Průvodce migrací"
+
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.cpp:48
+msgctxt "Core::MigrationStartPage|"
+msgid ""
+"qutIM has discovered configuration from 0.2 version, choose profile to "
+"import history and configuration from."
+msgstr ""
+"qutIM nalezl nastavení z verze 0.2, vyberte profil pro import historie a "
+"nastavení."
+
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.cpp:96
+msgctxt "Core::MigrationStartPage|"
+msgid "Unable to find profile dir"
+msgstr "Nelze najít složku s profilem"
+
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.cpp:118
+msgctxt "Core::MigrationStartPage|"
+msgid "Unable to find any profile"
+msgstr "Nelze najít žádný profil"
+
+#: ../../../core/src/corelayers/mobileabout/mobileaboutdialog.cpp:45
+#, qt-format
+msgctxt "Core::MobileAboutDialog|"
+msgid "qutIM %1<br>Uses Qt %2<p>Developers:<p>"
+msgstr "qutIM %1<br>Používá Qt %2<p>Vývojáři:<p>"
+
+#: ../../../core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp:62
+msgctxt "Core::MobileContactInfoWindow|"
+msgid "Request details"
+msgstr "Načíst detaily"
+
+#: ../../../core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp:66
+msgctxt "Core::MobileContactInfoWindow|"
+msgid "Save"
+msgstr "Uložit"
+
+#: ../../../core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp:72
+msgctxt "Core::MobileContactInfoWindow|"
+msgid "Close"
+msgstr "Zavřít"
+
+#: ../../../core/src/corelayers/mobilenotificationssettings/mobilenotificationsettings.cpp:144
+#, fuzzy
+msgctxt "Core::MobileNotificationSettings|"
+msgid "Disable notifications when chat is active"
+msgstr "Zakázat oznamování když je konverzace aktivní"
+
+#: ../../../core/src/corelayers/mobilenotificationssettings/mobilenotificationsettings.cpp:148
+#, fuzzy
+msgctxt "Core::MobileNotificationSettings|"
+msgid "Ignore conference messages that do not contain my name"
+msgstr "Ignorovat zprávy z konference, když neobsahují mé jméno"
+
+#: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:62
+msgctxt "Core::MobileSearchForm|"
+msgid "Close"
+msgstr "Zavřít"
+
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:87
+msgctxt "Core::MobileSettingsWindow|"
+msgid "Back"
+msgstr "Zpět"
+
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:92
+msgctxt "Core::MobileSettingsWindow|"
+msgid "Close"
+msgstr "Zavřít"
+
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:207
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:249
+#, qt-format
+msgctxt "Core::MobileSettingsWindow|"
+msgid "qutIM settings - %1"
+msgstr "qutIM nastavení - %1"
+
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:270
+#, fuzzy
+msgctxt "Core::MobileSettingsWindow|"
+msgid "Apply Settings - System Settings"
+msgstr "Použít nastavení - Systémové nastavení"
+
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:271
+#, fuzzy
+msgctxt "Core::MobileSettingsWindow|"
+msgid ""
+"The settings of the current module have changed. \n"
+" Do you want to apply the changes or discard them?"
+msgstr ""
+"Nastavení aktuálního modulu bylo změněno.\n"
+"Chcete tyto změny použít nebo odmítnout?"
+
+#: ../../../core/src/corelayers/notificationssettings/notificationsettings.cpp:96
+#, fuzzy
+msgctxt "Core::NotificationSettings|"
+msgid "<b>Additional settings:</b>"
+msgstr "<b>Další nastavení:</b>"
+
+#: ../../../core/src/corelayers/notificationssettings/notificationsettings.cpp:98
+#, fuzzy
+msgctxt "Core::NotificationSettings|"
+msgid "Disable notifications when chat is active"
+msgstr "Zakázat oznamování když je konverzace aktivní"
+
+#: ../../../core/src/corelayers/notificationssettings/notificationsettings.cpp:102
+#, fuzzy
+msgctxt "Core::NotificationSettings|"
+msgid "Ignore conference messages that do not contain my name"
+msgstr "Ignorovat zprávy z konference, když neobsahují mé jméno"
+
+#: ../../../core/src/corelayers/plistconfig/plistconfigbackend.cpp:165
+#, qt-format
+msgctxt "Core::PListConfigBackend|"
+msgid "Cannot write to file %1"
+msgstr "Nelze zapsat do souboru %1"
+
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:127
+msgctxt "Core::PluginChooserWidget|"
+msgid "To take effect you must restart qutIM"
+msgstr "Změny se projeví až po restartu qutIMu"
+
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:143
+#, qt-format
+msgctxt "Core::PluginChooserWidget|"
+msgid "<b>Name: </b> %1 <br />"
+msgstr "<b>Název: </b> %1 <br />"
+
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:144
+#, qt-format
+msgctxt "Core::PluginChooserWidget|"
+msgid "<b>Description: </b> %1 <br />"
+msgstr "<b>Popis: </b> %1 <br />"
+
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:149
+#, qt-format
+msgctxt "Core::PluginChooserWidget|"
+msgid "<b>Name:</b> %1<br/>"
+msgstr "<b>Název:</b> %1<br/>"
+
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:151
+#, qt-format
+msgctxt "Core::PluginChooserWidget|"
+msgid "<b>Task:</b> %1<br/>"
+msgstr "<b>Úloha:</b> %1<br/>"
+
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
+#, qt-format
+msgctxt "Core::PluginChooserWidget|"
+msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
+msgstr "<b>E-mail:</b> <a href=\"mailto:%1\">%1</a><br/>"
+
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:155
+#, qt-format
+msgctxt "Core::PluginChooserWidget|"
+msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
+msgstr "<b>Webová stránka:</b> <a href=\"%1\">%1</a><br/>"
+
+#: ../../../core/src/widgets/profilecreationpage.cpp:153
+msgctxt "Core::ProfileCreationPage|"
+msgid "Error"
+msgstr "Chyba"
+
+#: ../../../core/src/widgets/profilecreationpage.cpp:154
+#, fuzzy, qt-format
+msgctxt "Core::ProfileCreationPage|"
+msgid ""
+"Unable to create directory %1. Maybe you are trying to create a directory in "
+"a protected system directory"
+msgstr ""
+"Nelze vytvořit složka %1. Možná se snažíte vytvořit složku v systémem "
+"chráněné složce"
+
+#: ../../../core/src/widgets/profilecreationpage.cpp:167
+#: ../../../core/src/widgets/profilecreationpage.cpp:175
+msgctxt "Core::ProfileCreationPage|"
+msgid "Warning"
+msgstr "Varování"
+
+#: ../../../core/src/widgets/profilecreationpage.cpp:168
+msgctxt "Core::ProfileCreationPage|"
+msgid "Profile already exists, overwrite?"
+msgstr "Profil již existuje, přepsat ho?"
+
+#: ../../../core/src/widgets/profilecreationpage.cpp:175
+msgctxt "Core::ProfileCreationPage|"
+msgid "Unable to create profile hash"
+msgstr "Nelze vytvořit otisk profilu"
+
+#: ../../../core/src/widgets/profilecreationpage.cpp:298
+msgctxt "Core::ProfileCreationPage|"
+msgid "Select path"
+msgstr "Vyberte cestu"
+
+#~ msgctxt "Core::ProfileDialog|"
+#~ msgid "Password is mismatched."
+#~ msgstr "Hesla nesouhlasí."
+
+#~ msgctxt "Core::ProfileDialog|"
+#~ msgid "Crypto service is unknown."
+#~ msgstr "Šifrovací služba je neznámá."
+
+#~ msgctxt "Core::ProfileDialog|"
+#~ msgid "Wrong profile id."
+#~ msgstr "Špatné ID profilu."
+
+#: ../../../core/src/widgets/profiledialog.cpp:117
+msgctxt "Core::ProfileDialog|"
+msgid "Error while loading"
+msgstr "Chyba při načítání"
+
+#~ msgctxt "Core::ProfileDialog|"
+#~ msgid "Can't open file with hash"
+#~ msgstr "Nelze otevřít soubor s hashem"
+
+#: ../../../core/src/widgets/profiledialog.cpp:140
+msgctxt "Core::ProfileDialog|"
+msgid "Enter name"
+msgstr "Zadejte jméno"
+
+#: ../../../core/src/widgets/profiledialog.cpp:140
+msgctxt "Core::ProfileDialog|"
+msgid "Profile name:"
+msgstr "Jméno profilu:"
+
+#: ../../../core/src/widgets/profiledialog.cpp:142
+msgctxt "Core::ProfileDialog|"
+msgid "Invalid name"
+msgstr "Chybné jméno"
+
+#: ../../../core/src/widgets/profiledialog.cpp:142
+msgctxt "Core::ProfileDialog|"
+msgid "Name can not be empty!"
+msgstr "Jméno nemůže být prázdné!"
+
+#: ../../../core/src/widgets/profiledialog.cpp:146
+msgctxt "Core::ProfileDialog|"
+msgid "Enter password"
+msgstr "Zadejte heslo"
+
+#: ../../../core/src/widgets/profiledialog.cpp:146
+msgctxt "Core::ProfileDialog|"
+msgid "Password:"
+msgstr "Heslo:"
+
+#: ../../../core/src/widgets/profiledialog.cpp:147
+msgctxt "Core::ProfileDialog|"
+msgid "Repeat password"
+msgstr "Heslo znovu"
+
+#: ../../../core/src/widgets/profiledialog.cpp:147
+msgctxt "Core::ProfileDialog|"
+msgid "Repeat password:"
+msgstr "Heslo znovu:"
+
+#: ../../../core/src/widgets/profiledialog.cpp:150
+#: ../../../core/src/widgets/profiledialog.cpp:155
+msgctxt "Core::ProfileDialog|"
+msgid "Incorrect password"
+msgstr "Nesprávné heslo"
+
+#: ../../../core/src/widgets/profiledialog.cpp:150
+msgctxt "Core::ProfileDialog|"
+msgid "Passwords doesn't match each other"
+msgstr "Hesla nejsou stejná"
+
+#: ../../../core/src/widgets/profiledialog.cpp:155
+msgctxt "Core::ProfileDialog|"
+msgid "Password can not be empty!"
+msgstr "Heslo nemůže být prázdné!"
+
+#: ../../../core/src/corelayers/servicechooser/protocolchooserwidget.cpp:115
+msgctxt "Core::ProtocolChooserWidget|"
+msgid "To take effect you must restart qutIM"
+msgstr "Změny se projeví až po restartu qutIMu"
+
+#: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:45
+msgctxt "Core::ProxySettingsWidget|"
+msgid "Type:"
+msgstr "Typ:"
+
+#: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:74
+msgctxt "Core::ProxySettingsWidget|"
+msgid "Do not use proxy"
+msgstr "Nepoužívat proxy"
+
+#: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:77
+msgctxt "Core::ProxySettingsWidget|"
+msgid "Use global proxy"
+msgstr "Použít globální proxy"
+
+#: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:119
+#: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:142
+msgctxt "Core::ProxySettingsWidget|"
+msgid "Type"
+msgstr "Typ"
+
+#: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:54
+#, qt-format
+msgctxt "Core::ServiceChooser|"
+msgid "<b>Name: </b> %1 <br />"
+msgstr "<b>Název: </b> %1 <br />"
+
+#: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:55
+#, qt-format
+msgctxt "Core::ServiceChooser|"
+msgid "<b>Description: </b> %1 <br />"
+msgstr "<b>Popis: </b> %1 <br />"
+
+#: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:60
+#, qt-format
+msgctxt "Core::ServiceChooser|"
+msgid "<b>Name:</b> %1<br/>"
+msgstr "<b>Název:</b> %1<br/>"
+
+#: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:62
+#, qt-format
+msgctxt "Core::ServiceChooser|"
+msgid "<b>Task:</b> %1<br/>"
+msgstr "<b>Úloha:</b> %1<br/>"
+
+#: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:64
+#, qt-format
+msgctxt "Core::ServiceChooser|"
+msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
+msgstr "<b>E-mail:</b> <a href=\"mailto:%1\">%1</a><br/>"
+
+#: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:66
+#, qt-format
+msgctxt "Core::ServiceChooser|"
+msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
+msgstr "<b>Webová stránka:</b> <a href=\"%1\">%1</a><br/>"
+
+#: ../../../core/src/corelayers/servicechooser/servicechooserwidget.cpp:132
+msgctxt "Core::ServiceChooserWidget|"
+msgid "To take effect you must restart qutIM"
+msgstr "Změny se projeví až po restartu qutIMu"
+
+#: ../../../core/src/corelayers/shortcutsettings/shortcutitemdelegate.cpp:85
+msgctxt "Core::ShortcutItemDelegate|"
+msgid " (global)"
+msgstr " (globální)"
+
+#: ../../../core/src/corelayers/shortcutsettings/shortcutitemdelegate.cpp:126
+#, fuzzy, qt-format
+msgctxt "Core::ShortcutItemDelegate|"
+msgid "%1 : input"
+msgstr "%1 : vstup"
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.cpp:51
+#, qt-format
+msgctxt "Core::SimpleAboutDialog|"
+msgid "Based on Qt %1 (%2 bit)."
+msgstr "Používá Qt %1 (%2 bitů)."
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.cpp:54
+#, fuzzy, qt-format
+msgctxt "Core::SimpleAboutDialog|"
+msgid ""
+"<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 2 "
+"or (at your option) any later version.</div><div>qutIM resources such as "
+"themes, icons, sounds may come along with a different "
+"license.</div><br><hr><br>"
+msgstr ""
+"<div><b>qutIM</b> %1 je licencován pod GNU General Public License, verze 2 "
+"nebo (pokud chcete) kterákoliv pozdější verze.</div><div>qutIM zdroje jako "
+"jsou motivy, ikony, zvuky mohou mít jinou licenci.</div><br><hr><br>"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:170
+#, qt-format
+msgctxt "Core::SimpleActions|"
+msgid "Rename contact %1"
+msgstr "Přejmenovat kontakt %1"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:171
+#, qt-format
+msgctxt "Core::SimpleActions|"
+msgid "Input new name for contact %1"
+msgstr "Zadejte nové jméno pro kontakt %1"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:227
+#, qt-format
+msgctxt "Core::SimpleActions|"
+msgid "Are you sure you want to delete a contact %1 from the roster?"
+msgstr "Opravdu chcete odstranit kontakt %1 ze seznamu kontaktů?"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp:140
+msgctxt "Core::SimpleContactList::AbstractContactModel|"
+msgid "Blink icon in the contact list"
+msgstr "Blikající ikony v seznamu kontaktů"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp:216
+msgctxt "Core::SimpleContactList::AbstractContactModel|"
+msgid "All tags"
+msgstr "Všechny štítky"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp:218
+msgctxt "Core::SimpleContactList::AbstractContactModel|"
+msgid "Custom tags"
+msgstr "Vlastní štítky"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:386
+msgctxt "Core::SimpleContactList::AbstractContactModel|"
+msgid "Without tags"
+msgstr "Bez štítků"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:484
+#, fuzzy, qt-format
+msgctxt "Core::SimpleContactList::AbstractContactModel|"
+msgid "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
+msgstr "Chcete spojit kontakty \"%1\" <%2> a \"%3\" <%4>?"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:490
+#, fuzzy, qt-format
+msgctxt "Core::SimpleContactList::AbstractContactModel|"
+msgid "Would you like to merge metacontacts \"%1\" and \"%2\"?"
+msgstr "Chcete spojit metakontakty \"%1\" a \"%2\"?"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:493
+#, fuzzy, qt-format
+msgctxt "Core::SimpleContactList::AbstractContactModel|"
+msgid "Would you like to add \"%1\" <%2> to metacontact \"%3\"?"
+msgstr "Chcete přidat \"%1\" <%2> do metakontaktu \"%3\"?"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:500
+#, fuzzy
+msgctxt "Core::SimpleContactList::AbstractContactModel|"
+msgid "Contacts' merging"
+msgstr "Spojování kontaktů"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:184
+msgctxt "Core::SimpleContactList::Module|"
+msgid "Select tags"
+msgstr "Vybrat štítky"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:186
+#, fuzzy
+msgctxt "Core::SimpleContactList::Module|"
+msgid "Reset"
+msgstr "Resetovat"
+
+#: ../../../core/src/corelayers/simplecontactlist/models/plaincontactsmodel/plaincontactlistmodel.cpp:156
+#, fuzzy
+msgctxt "Core::SimpleContactList::PlainModel|"
+msgid "Without tags"
+msgstr "Bez štítků"
+
+#: ../../../core/src/corelayers/simplecontactlist/models/separatedcontactsmodel/separatedcontactlistmodel.cpp:236
+msgctxt "Core::SimpleContactList::SeparatedModel|"
+msgid "Without tags"
+msgstr "Bez štítků"
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:104
+#, fuzzy
+msgctxt "Core::SimpleContactList::SimpleWidget|"
+msgid "Main Toolbar"
+msgstr "Hlavní lišta"
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:139
+msgctxt "Core::SimpleContactList::SimpleWidget|"
+msgid "Status"
+msgstr "Stav"
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:123
+msgctxt "Core::SimpleContactList::SimpleWidget|"
+msgid "Search contact"
+msgstr "Hledat kontakt"
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:168
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:376
+msgctxt "Core::SimpleContactList::SimpleWidget|"
+msgid "Set Status Text"
+msgstr "Nastavit text stavu"
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:100
+#, fuzzy
+msgctxt "Core::SimpleContactList::ToryWidget|"
+msgid "Main Toolbar"
+msgstr "Hlavní lišta"
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:117
+msgctxt "Core::SimpleContactList::ToryWidget|"
+msgid "Global status"
+msgstr "Globální stav"
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:118
+msgctxt "Core::SimpleContactList::ToryWidget|"
+msgid "Set Status Text"
+msgstr "Nastavit text stavu"
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:145
+msgctxt "Core::SimpleContactList::ToryWidget|"
+msgid "Search contact"
+msgstr "Hledat kontakt"
+
+#: ../../../core/src/corelayers/simplecontactlist/models/treecontactsmodel/simplecontactlistmodel.cpp:218
+msgctxt "Core::SimpleContactList::TreeModel|"
+msgid "Without tags"
+msgstr "Bez štítků"
+
+#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:188
+msgctxt "Core::SimpleFileTransfer|"
+msgid "Incoming file"
+msgstr "Příchozí soubor"
+
+#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:189
+#, qt-format
+msgctxt "Core::SimpleFileTransfer|"
+msgid "%1 wants to send you %2 (%3)"
+msgstr "%1 chce poslat %2 (%3)"
+
+#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:193
+msgctxt "Core::SimpleFileTransfer|"
+msgid "Accept"
+msgstr "Přijmout"
+
+#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:194
+msgctxt "Core::SimpleFileTransfer|"
+msgid "Ignore"
+msgstr "Odmítnout"
+
+#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:227
+#, qt-format
+msgctxt "Core::SimpleFileTransfer|"
+msgid "Choose file for %1"
+msgstr "Vybrat soubor pro %1"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp:43
+#, qt-format
+msgctxt "Core::SimpleTagsEditor|"
+msgid "Edit tags for %1"
+msgstr "Upravit štítky pro %1"
+
+#: ../../../core/src/corelayers/trayicon/simpletray.cpp:87
+msgctxt "Core::SimpleTray|"
+msgid "Blink icon in the tray"
+msgstr "Blikající ikony v seznamu kontaktů"
+
+#: ../../../core/src/widgets/submitpage.cpp:45
+msgctxt "Core::SubmitPage|"
+msgid "Congratulations"
+msgstr "Gratuluji"
+
+#: ../../../core/src/widgets/submitpage.cpp:46
+#, fuzzy
+msgctxt "Core::SubmitPage|"
+msgid ""
+"You've just created a profile for qutIM. Click Finish to proceed to adding "
+"user accounts"
+msgstr ""
+"Byl vytvořen profil pro qutIM. Kliknutím na Dokončit bude následovat "
+"přidávání uživatelských účtů"
+
+#: ../../../core/src/widgets/submitpage.cpp:49
+#, fuzzy
+msgctxt "Core::SubmitPage|"
+msgid "Would you like to send details about your current setup?"
+msgstr "Chcete poslat detaily o aktuálním nastavení?"
+
+#: ../../../core/src/widgets/submitpage.cpp:50
+#, fuzzy
+msgctxt "Core::SubmitPage|"
+msgid "Information to be transferred to the qutIM's authors:"
+msgstr "Informace, které mají být přeneseny autorům qutIMu:"
+
+#: ../../../core/src/widgets/submitpage.cpp:55
+#, qt-format
+msgctxt "Core::SubmitPage|"
+msgid ""
+"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br "
+"/><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br "
+"/><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
+msgstr ""
+"<b>Stručně:</b> %1 <br /><b>Verze:</b> %2 <br /><b>Plné znění:</b> %3 <br "
+"/><b>qutIM verze:</b> %4 <br /><b>Qt verze:</b> %5 (%6 bitů) <br "
+"/><b>Rozlišení obrazovky:</b> %7 x %8 <br /><b>Lokalizace systému:</b> %9<br "
+"/>"
+
+#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:255
+#, qt-format
+msgctxt "Core::XSettingsWindow|"
+msgid "qutIM settings - %1"
+msgstr "qutIM nastavení - %1"
+
+#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:271
+#, fuzzy
+msgctxt "Core::XSettingsWindow|"
+msgid "Apply Settings - System Settings"
+msgstr "Použít nastavení - Systémové nastavení"
+
+#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:272
+#, fuzzy
+msgctxt "Core::XSettingsWindow|"
+msgid ""
+"The settings of the current module have changed. \n"
+" Do you want to apply the changes or discard them?"
+msgstr ""
+"Nastavení aktuálního modulu bylo změněno.\n"
+"Chcete tyto změny použít nebo odmítnout?"
+
+#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:103
+msgctxt "DataForms|"
+msgid "yes"
+msgstr "ano"
+
+#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:104
+msgctxt "DataForms|"
+msgid "no"
+msgstr "ne"
+
+#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:129
+msgctxt "DataForms|"
+msgid "the field is not set"
+msgstr "položka není zadána"
+
+#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:662
+msgctxt "DataForms|"
+msgid "Open image"
+msgstr "Otevřít obrázek"
+
+#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:664
+msgctxt "DataForms|"
+msgid "Images (*.gif *.bmp *.jpg *.jpeg *.png);;All files (*.*)"
+msgstr "Obrázky (*.gif *.bmp *.jpg *.jpeg *.png);;Všechny soubory (*.*)"
+
+#: ../../../core/src/corelayers/searchdialog/defaultform/defaultsearchform.ui:20
+#, fuzzy
+msgctxt "DefaultSearchForm|"
+msgid "Search window"
+msgstr "Vyhledávání"
+
+#: ../../../core/src/corelayers/searchdialog/defaultform/defaultsearchform.ui:84
+msgctxt "DefaultSearchForm|"
+msgid "Search"
+msgstr "Hledat"
+
+#: ../../../core/src/corelayers/searchdialog/defaultform/defaultsearchform.ui:94
+msgctxt "DefaultSearchForm|"
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: ../../../core/src/corelayers/emoticonssettings/emoticonsselector.cpp:54
+msgctxt "EmoticonsSelector|"
+msgid "No emoticons"
+msgstr "Bez smajlíků"
+
+#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:49
+msgctxt "FileTransfer|"
+msgid "Send file"
+msgstr "Poslat soubor"
+
+#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:149
+#, fuzzy
+msgctxt "FileTransfer|"
+msgid "Manage file transfers"
+msgstr "Správce přenosů soborů"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:35
+msgctxt "FileTransfer|"
+msgid "Title"
+msgstr "Název"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:36
+msgctxt "FileTransfer|"
+msgid "File name"
+msgstr "Název souboru"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:37
+msgctxt "FileTransfer|"
+msgid "File size"
+msgstr "Velikost souboru"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:38
+msgctxt "FileTransfer|"
+msgid "Total size"
+msgstr "Celková velikost"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:39
+msgctxt "FileTransfer|"
+msgid "Contact"
+msgstr "Kontakt"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:40
+#, fuzzy
+msgctxt "FileTransfer|"
+msgid "Progress"
+msgstr "Průběh"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:41
+msgctxt "FileTransfer|"
+msgid "State"
+msgstr "Stav"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.ui:20
+#, fuzzy
+msgctxt "FileTransferDialog|"
+msgid "File transfer manager"
+msgstr "Správce přenosu souboru"
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.ui:14
+msgctxt "HistoryWindowClass|"
+msgid "HistoryWindow"
+msgstr "Historie"
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.ui:27
+msgctxt "HistoryWindowClass|"
+msgid "Account:"
+msgstr "Účet"
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.ui:34
+msgctxt "HistoryWindowClass|"
+msgid "From:"
+msgstr "Od:"
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.ui:60
+msgctxt "HistoryWindowClass|"
+msgid "In: %L1"
+msgstr "Příchozí: %L1"
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.ui:67
+msgctxt "HistoryWindowClass|"
+msgid "Out: %L1"
+msgstr "Odchozí: %L1"
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.ui:74
+msgctxt "HistoryWindowClass|"
+msgid "All: %L1"
+msgstr "Vše: %L1"
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.ui:94
+msgctxt "HistoryWindowClass|"
+msgid "Search"
+msgstr "Hledat"
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.ui:97
+msgctxt "HistoryWindowClass|"
+msgid "Return"
+msgstr ""
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.ui:133
+msgctxt "HistoryWindowClass|"
+msgid "1"
+msgstr ""
+
+#: ../../../core/src/corelayers/idlestatuschanger/idlestatuswidget.ui:14
+msgctxt "IdleStatusWidget|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/idlestatuschanger/idlestatuswidget.ui:32
+#: ../../../core/src/corelayers/idlestatuschanger/idlestatuswidget.ui:56
+#, qt-format
+msgctxt "IdleStatusWidget|"
+msgid "Set status «%1» after:"
+msgstr "Nastavit stav «%1» po:"
+
+#: ../../../core/src/corelayers/idlestatuschanger/idlestatuswidget.ui:39
+#: ../../../core/src/corelayers/idlestatuschanger/idlestatuswidget.ui:63
+msgctxt "IdleStatusWidget|seconds"
+msgid " min"
+msgstr ""
+
+#: ../../../core/libqutim/inforequest.cpp:142
+msgctxt "InformationRequest|"
+msgid "Unknown error"
+msgstr ""
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:17
+msgctxt "JoinChat|"
+msgid "Join groupchat"
+msgstr "Vstoupit do konference"
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:28
+msgctxt "JoinChat|"
+msgid "Account:"
+msgstr "Účet:"
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:54
+msgctxt "JoinChat|"
+msgid "Bookmarks"
+msgstr "Záložky"
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:135
+msgctxt "JoinChat|"
+msgid "Request last "
+msgstr "Poslední požadavek "
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:155
+#, fuzzy
+msgctxt "JoinChat|"
+msgid "messages"
+msgstr "zpráv"
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:185
+msgctxt "JoinChat|"
+msgid "Request messages since the datetime"
+msgstr ""
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:192
+msgctxt "JoinChat|"
+msgid "H:mm:ss"
+msgstr ""
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:222
+msgctxt "JoinChat|"
+msgid "Request messages since"
+msgstr ""
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.cpp:43
+#, fuzzy
+msgctxt "JoinChatDialog|"
+msgid "Join"
+msgstr "Vstoupit"
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.cpp:167
+#, fuzzy
+msgctxt "JoinChatDialog|"
+msgid "New chat"
+msgstr "Nová konverzace"
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.ui:14
+#: ../../../core/src/corelayers/joinchatdialog/joinchatmodule.cpp:71
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp:80
+msgctxt "JoinGroupChat|"
+msgid "Join groupchat"
+msgstr "Vstoupit do konference"
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.ui:30
+msgctxt "JoinGroupChat|"
+msgid "Select account:"
+msgstr "Vybrat účet:"
+
+#: ../../../core/src/corelayers/joingroupchatdlg/bookmarkspage.cpp:48
+msgctxt "JoinGroupChat|"
+msgid "Select bookmark"
+msgstr "Vybrat záložku"
+
+#: ../../../core/src/corelayers/joingroupchatdlg/bookmarkspage.cpp:53
+msgctxt "JoinGroupChat|"
+msgid "Save"
+msgstr "Uložit"
+
+#: ../../../core/src/corelayers/joingroupchatdlg/bookmarkspage.cpp:59
+msgctxt "JoinGroupChat|"
+msgid "Remove"
+msgstr "Odstranit"
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:70
+msgctxt "JoinGroupChat|"
+msgid "Close"
+msgstr "Zavřít"
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:74
+msgctxt "JoinGroupChat|"
+msgid "Back"
+msgstr "Zpět"
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:154
+msgctxt "JoinGroupChat|"
+msgid "Recent"
+msgstr "Nedávné"
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:155
+msgctxt "JoinGroupChat|"
+msgid "Bookmarks"
+msgstr "Záložky"
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:185
+#, fuzzy
+msgctxt "JoinGroupChat|"
+msgid "Join an existing or create a new groupchat"
+msgstr "Vstoupit do existující nebo vytvořit novou konferenci"
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:187
+#: ../../../core/src/corelayers/joingroupchatdlg/joinpage.cpp:48
+msgctxt "JoinGroupChat|"
+msgid "Join"
+msgstr "Vstoupit"
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:189
+msgctxt "JoinGroupChat|"
+msgid "Create, edit, or delete saved bookmarks"
+msgstr "Vytvořit, upravit nebo odstranit uložené záložky"
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:191
+msgctxt "JoinGroupChat|"
+msgid "Manage bookmarks"
+msgstr "Správce záložek"
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joinpage.cpp:44
+msgctxt "JoinGroupChat|"
+msgid "Save to bookmarks"
+msgstr "Uložit do záložek"
+
+#: ../../../core/src/corelayers/shortcutsettings/keysequencewidget.cpp:264
+#, fuzzy
+msgctxt "KeySequenceWidget|"
+msgid "What the user inputs now will be taken as the new shortcut"
+msgstr "Co uživatel nyní zadá, bude bráno jako nová klávesová zkratka"
+
+#: ../../../core/src/corelayers/shortcutsettings/keysequencewidget.cpp:272
+msgctxt "KeySequenceWidget|"
+msgid "No shortcut defined"
+msgstr "Není definována klávesová zkratka"
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:14
+msgctxt "KineticScrollerSettings|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:20
+msgctxt "KineticScrollerSettings|"
+msgid "Type:"
+msgstr "Typ:"
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:28
+msgctxt "KineticScrollerSettings|"
+msgid "No scrolling"
+msgstr "Bez rolování"
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:33
+msgctxt "KineticScrollerSettings|"
+msgid "Touch"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:38
+msgctxt "KineticScrollerSettings|"
+msgid "Left mouse button"
+msgstr "Levé tlačítko myši"
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:43
+msgctxt "KineticScrollerSettings|"
+msgid "Middle mouse button"
+msgstr "Prostřední tlačítko myši"
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:48
+msgctxt "KineticScrollerSettings|"
+msgid "Right mouse button"
+msgstr "Pravé tlačítko myši"
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:56
+#, fuzzy
+msgctxt "KineticScrollerSettings|"
+msgid "Mouse press delay, secs:"
+msgstr "Doba stisknutí tlačítka [s]:"
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:63
+#, fuzzy
+msgctxt "KineticScrollerSettings|"
+msgid "Drag start distance, metres:"
+msgstr "Operace \"Drag\" začne na vzdálenosti [m]:"
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:70
+#, fuzzy
+msgctxt "KineticScrollerSettings|"
+msgid "Drag velocity smoothing factor, 1/secs:"
+msgstr "Faktor rychlosti vyhlazování při operaci \"Drag\" [1/secs]:"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/lineedit.cpp:40
+msgctxt "LineEdit|"
+msgid "Clear search field"
+msgstr ""
+
+#: ../../../core/src/corelayers/localization/localizationsettings.cpp:58
+msgctxt "Localization|Localized language name"
+msgid "<Language>"
+msgstr "Čeština"
+
+#: ../../../core/src/corelayers/localization/localizationsettings.cpp:61
+msgctxt ""
+"Localization|Localized country name, empty if localization is "
+"country-independent"
+msgid "<Country>"
+msgstr "Česko"
+
+#: ../../../core/src/corelayers/localization/localizationsettings.ui:14
+msgctxt "LocalizationSettings|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/metacontacts/manager.cpp:111
+msgctxt "MetaContact|"
+msgid "Split Metacontact"
+msgstr "Rozdělit metakontakt"
+
+#: ../../../core/src/corelayers/metacontacts/manager.cpp:117
+#, fuzzy
+msgctxt "MetaContact|"
+msgid "Manage metacontacts"
+msgstr "Správce metakontaktů"
+
+#: ../../../core/src/corelayers/metacontacts/model.cpp:43
+#, fuzzy
+msgctxt "MetaContacts|"
+msgid "Contacts in metacontact"
+msgstr "Kontakty v metakontaktu"
+
+#: ../../../core/src/corelayers/metacontacts/model.cpp:47
+msgctxt "MetaContacts|"
+msgid "Search results"
+msgstr "Výsledky hledání"
+
+#: ../../../core/src/corelayers/metacontacts/manager.cpp:97
+#, fuzzy
+msgctxt "Metacontact|"
+msgid "You"
+msgstr "Ty"
+
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.ui:14
+msgctxt "MigrationStartPage|"
+msgid "WizardPage"
+msgstr ""
+
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.ui:20
+msgctxt "MigrationStartPage|"
+msgid "I want to import configuration and history"
+msgstr "Importovat nastavení a historii"
+
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.ui:30
+msgctxt "MigrationStartPage|"
+msgid "Choose profile:"
+msgstr "Vyberte profil:"
+
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.ui:47
+msgctxt "MigrationStartPage|"
+msgid "Choose accounts:"
+msgstr "Vyberte účty:"
+
+#: ../../../core/src/corelayers/mobileabout/mobileaboutdialog.ui:14
+msgctxt "MobileAboutDialog|"
+msgid "About qutIM"
+msgstr "O qutIMu"
+
+#: ../../../core/src/corelayers/mobileabout/mobileaboutdialog.ui:38
+msgctxt "MobileAboutDialog|"
+msgid "TextLabel"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.ui:20
+#, fuzzy
+msgctxt "MobileSearchForm|"
+msgid "Search window"
+msgstr "Vyhledávání"
+
+#: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.ui:51
+msgctxt "MobileSearchForm|"
+msgid "Select account:"
+msgstr "Vybrat účet:"
+
+#: ../../../core/libqutim/networkproxy.cpp:171
+msgctxt "NetworkProxy|"
+msgid "Type"
+msgstr "Typ"
+
+#: ../../../core/libqutim/notification.cpp:192
+msgctxt "Notification|"
+msgid "Incoming Message"
+msgstr "Příchozí zpráva"
+
+#: ../../../core/libqutim/notification.cpp:193
+msgctxt "Notification|"
+msgid "Outgoing Message"
+msgstr "Odchozí zpráva"
+
+#: ../../../core/libqutim/notification.cpp:194
+msgctxt "Notification|"
+msgid "qutIM Startup"
+msgstr "Spuštění qutIMu"
+
+#: ../../../core/libqutim/notification.cpp:195
+msgctxt "Notification|"
+msgid "Blocked Message"
+msgstr "Zablokovaná zpráva"
+
+#: ../../../core/libqutim/notification.cpp:196
+msgctxt "Notification|"
+msgid "Contact joined conference"
+msgstr "Kontakt vstoupil do konference"
+
+#: ../../../core/libqutim/notification.cpp:197
+msgctxt "Notification|"
+msgid "Contact left conference"
+msgstr "Kontakt opustil konferenci"
+
+#: ../../../core/libqutim/notification.cpp:198
+msgctxt "Notification|"
+msgid "Incoming conference message"
+msgstr "Příchozí zpráva do konference"
+
+#: ../../../core/libqutim/notification.cpp:199
+msgctxt "Notification|"
+msgid "Outgoing conference message"
+msgstr "Odchozí zpráva z konference"
+
+#: ../../../core/libqutim/notification.cpp:201
+msgctxt "Notification|"
+msgid "Contact online"
+msgstr "Kontakt online"
+
+#: ../../../core/libqutim/notification.cpp:202
+msgctxt "Notification|"
+msgid "Contact offline"
+msgstr "Kontakt offline"
+
+#: ../../../core/libqutim/notification.cpp:203
+msgctxt "Notification|"
+msgid "Contact changed status"
+msgstr "Kontakt změnil stav"
+
+#: ../../../core/libqutim/notification.cpp:204
+msgctxt "Notification|"
+msgid "Contact birthday"
+msgstr "Kontakt má narozeniny"
+
+#: ../../../core/libqutim/notification.cpp:205
+msgctxt "Notification|"
+msgid "Contact typing"
+msgstr "Kontakt píše"
+
+#: ../../../core/libqutim/notification.cpp:220
+msgctxt "Notification|"
+msgid "A new message has been received"
+msgstr "Nová zpráva přijata"
+
+#: ../../../core/libqutim/notification.cpp:221
+msgctxt "Notification|"
+msgid "A message has been sent"
+msgstr "Nová zpráva odeslána"
+
+#: ../../../core/libqutim/notification.cpp:222
+msgctxt "Notification|"
+msgid "qutIM has started"
+msgstr "qutIM byl spuštěn"
+
+#: ../../../core/libqutim/notification.cpp:223
+msgctxt "Notification|"
+msgid "A message has been blocked"
+msgstr "Zpráva byla zablokována"
+
+#: ../../../core/libqutim/notification.cpp:224
+msgctxt "Notification|"
+msgid "A user has joined a conference"
+msgstr "Uživatel vstoupil do konference"
+
+#: ../../../core/libqutim/notification.cpp:225
+msgctxt "Notification|"
+msgid "A user has left a conference"
+msgstr "Uživatel opustil konferenci"
+
+#: ../../../core/libqutim/notification.cpp:226
+msgctxt "Notification|"
+msgid "A new conference message has been received"
+msgstr "Nová zpráva do konference byla doručena"
+
+#: ../../../core/libqutim/notification.cpp:227
+msgctxt "Notification|"
+msgid "A conference message has been sent"
+msgstr "Nová zpráva z konference byla odeslána"
+
+#: ../../../core/libqutim/notification.cpp:228
+msgctxt "Notification|"
+msgid "A file transfer has been completed"
+msgstr "Přenos souboru byl dokončen"
+
+#: ../../../core/libqutim/notification.cpp:229
+msgctxt "Notification|"
+msgid "A contact has gone online"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:230
+msgctxt "Notification|"
+msgid "A contact has gone offline"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:231
+msgctxt "Notification|"
+msgid "A contact has changed status"
+msgstr "Kontakt změnil stav"
+
+#: ../../../core/libqutim/notification.cpp:232
+msgctxt "Notification|"
+msgid "A contact has birthday!"
+msgstr "Kontakt má narozeniny!"
+
+#: ../../../core/libqutim/notification.cpp:233
+msgctxt "Notification|"
+msgid "A contact is typing"
+msgstr "Kontakt píše"
+
+#: ../../../core/libqutim/notification.cpp:234
+msgctxt "Notification|"
+msgid "A system notification"
+msgstr "Systémové oznámení"
+
+#: ../../../core/libqutim/notification.cpp:200
+msgctxt "Notification|"
+msgid "File transfer completed"
+msgstr "Přenos souboru dokončen"
+
+#: ../../../core/libqutim/notification.cpp:206
+#, fuzzy
+msgctxt "Notification|"
+msgid "System"
+msgstr "Systémové"
+
+#: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp:98
+msgctxt "Notifications|"
+msgid "Type"
+msgstr "Typ"
+
+#: ../../../core/examples/autosettingsitem/autosettings.cpp:33
+msgctxt "Plugin|"
+msgid "Autosettings example"
+msgstr ""
+
+#: ../../../core/examples/autosettingsitem/autosettings.cpp:34
+msgctxt "Plugin|"
+msgid "Simple example of auto settings item generator"
+msgstr ""
+
+#: ../../../core/examples/simplesettingsdialog/settingslayerimpl.cpp:31
+msgctxt "Plugin|"
+msgid "Simple Settings dialog"
+msgstr ""
+
+#: ../../../core/examples/simplesettingsdialog/settingslayerimpl.cpp:32
+msgctxt "Plugin|"
+msgid "SDK03 example"
+msgstr ""
+
+#: ../../../core/src/corelayers/accountcreator/accountcreator.cpp:38
+msgctxt "Plugin|"
+msgid "Account creator"
+msgstr ""
+
+#: ../../../core/src/corelayers/accountcreator/accountcreator.cpp:39
+msgctxt "Plugin|"
+msgid "Default qutIM account creator"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:84
+msgctxt "Plugin|"
+msgid "Webkit chat layer"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:85
+msgctxt "Plugin|"
+msgid "Default qutIM chat implementation, based on Adium chat styles"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:90
+msgctxt "Plugin|"
+msgid "Time modifier"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:91
+msgctxt "Plugin|"
+msgid ""
+"Modifier for %time% and %timeOpened% param, based on Apple's documentation"
+msgstr ""
+
+#: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:36
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Authorization dialog"
+msgstr "Autorizační dialog"
+
+#: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:37
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Simple authorization dialog"
+msgstr "Jednoduchý autorizační dialog"
+
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:35
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:42
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Search window"
+msgstr "Vyhledávání"
+
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:36
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:43
+msgctxt "Plugin|"
+msgid "Default qutIM implementation of search window"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:45
+msgctxt "Plugin|"
+msgid "Desktop Search Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:46
+msgctxt "Plugin|"
+msgid "Default search form optimized for Desktop systems"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:48
+msgctxt "Plugin|"
+msgid "Mobile Search Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:49
+msgctxt "Plugin|"
+msgid "Search form optimized for Mobile systems"
+msgstr ""
+
+#: ../../../core/src/corelayers/localization/localizationplugin.cpp:37
+msgctxt "Plugin|"
+msgid "Localization"
+msgstr "Lokalizace"
+
+#: ../../../core/src/corelayers/localization/localizationplugin.cpp:38
+msgctxt "Plugin|"
+msgid "Default qutIM localization engine"
+msgstr ""
+
+#: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:38
+msgctxt "Plugin|"
+msgid "Session helper"
+msgstr ""
+
+#: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:39
+msgctxt "Plugin|"
+msgid "Activates the session when certain events"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:43
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Kinetic scrolling"
+msgstr "Pohyblivé rolování"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:40
+msgctxt "Plugin|"
+msgid "Simple Actions"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:41
+msgctxt "Plugin|"
+msgid "Default actionset for contacts"
+msgstr ""
+
+#: ../../../core/src/corelayers/trayicon/simpletray.cpp:143
+msgctxt "Plugin|"
+msgid "Notification Area Icon"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:91
+msgctxt "Plugin|"
+msgid "ContactDelegate"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:92
+msgctxt "Plugin|"
+msgid "Just simple"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:14
+msgctxt "ProfileCreationPage|"
+msgid "WizardPage"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:41
+msgctxt "ProfileCreationPage|"
+msgid "Name:"
+msgstr "Jméno:"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:48
+msgctxt "ProfileCreationPage|"
+msgid "It will be shown in chat dialogs"
+msgstr "Toto bude zobrazeno v okně konverzace"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:55
+msgctxt "ProfileCreationPage|"
+msgid "Profile id:"
+msgstr "ID profilu:"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:62
+msgctxt "ProfileCreationPage|"
+msgid "Used for profile identification"
+msgstr "Použito pro identifikaci profilu"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:69
+msgctxt "ProfileCreationPage|"
+msgid "Config dir:"
+msgstr "Složka nastavení:"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:81
+#: ../../../core/src/widgets/profilecreationpage.ui:95
+#: ../../../core/src/widgets/profilecreationpage.ui:109
+msgctxt "ProfileCreationPage|"
+msgid "..."
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:118
+msgctxt "ProfileCreationPage|"
+msgid "History dir:"
+msgstr "Složka historie:"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:125
+msgctxt "ProfileCreationPage|"
+msgid "Data dir:"
+msgstr "Složka pro data:"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:132
+msgctxt "ProfileCreationPage|"
+msgid "Store data at application dir"
+msgstr "Ukládat data ve složce aplikace"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:152
+#, fuzzy
+msgctxt "ProfileCreationPage|"
+msgid "Choose cryptograhic module:"
+msgstr "Vyberte šifrovací modul:"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:159
+#, fuzzy
+msgctxt "ProfileCreationPage|"
+msgid "Choose config backend:"
+msgstr "Vyberte jádro nastavení:"
+
+#: ../../../core/src/widgets/profiledialog.ui:53
+msgctxt "ProfileDialog|"
+msgid "Profiles"
+msgstr "Profily"
+
+#: ../../../core/libqutim/networkproxy.cpp:90
+msgctxt "Proxy|"
+msgid "Host"
+msgstr "Hostitel"
+
+#: ../../../core/libqutim/networkproxy.cpp:91
+msgctxt "Proxy|"
+msgid "Port"
+msgstr ""
+
+#: ../../../core/libqutim/networkproxy.cpp:92
+msgctxt "Proxy|"
+msgid "User name"
+msgstr "Jméno"
+
+#: ../../../core/libqutim/networkproxy.cpp:93
+msgctxt "Proxy|"
+msgid "Password"
+msgstr "Heslo"
+
+#: ../../../core/libqutim/networkproxy.cpp:230
+msgctxt "Proxy|"
+msgid "Socks 5"
+msgstr ""
+
+#: ../../../core/libqutim/networkproxy.cpp:260
+msgctxt "Proxy|"
+msgid "HTTP"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:46
+#, qt-format
+msgctxt "QObject|"
+msgid "Message from %1:"
+msgstr "Zpráva od %1:"
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:50
+#, qt-format
+msgctxt "QObject|"
+msgid "Message to %1:"
+msgstr "Zpráva pro %1:"
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:59
+#, fuzzy, qt-format
+msgctxt "QObject|"
+msgid "%1 has joined"
+msgstr "%1 vstupil"
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:65
+#, fuzzy, qt-format
+msgctxt "QObject|"
+msgid "%1 has left"
+msgstr "%1 odešel"
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:71
+#, fuzzy, qt-format
+msgctxt "QObject|"
+msgid "%1 has changed status to %2"
+msgstr "%1 změnil status na %2"
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:77
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 is typing"
+msgstr "%1 píše"
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:82
+#, fuzzy
+msgctxt "QObject|"
+msgid "System notify"
+msgstr "Systémové oznámení"
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:56
+#, qt-format
+msgctxt "QObject|"
+msgid "Blocked message from %1"
+msgstr "Zablokovaná zpráva od %1"
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:74
+#, fuzzy, qt-format
+msgctxt "QObject|"
+msgid "%1 has birthday today!!"
+msgstr "%1 má dnes narozeniny!"
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:62
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 is online"
+msgstr "%1 je online"
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:68
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 is offline"
+msgstr "%1 je offline"
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:53
+#, fuzzy
+msgctxt "QObject|"
+msgid "qutIM launched"
+msgstr "qutIM spuštěn"
+
+#: ../../../core/libqutim/utils.cpp:124
+msgctxt "QObject|"
+msgid "1st quarter"
+msgstr "1. čtvrtletí"
+
+#: ../../../core/libqutim/utils.cpp:127
+msgctxt "QObject|"
+msgid "2nd quarter"
+msgstr "2. čtvrtletí"
+
+#: ../../../core/libqutim/utils.cpp:130
+msgctxt "QObject|"
+msgid "3rd quarter"
+msgstr "3. čtvrtletí"
+
+#: ../../../core/libqutim/utils.cpp:133
+msgctxt "QObject|"
+msgid "4th quarter"
+msgstr "4. čtvrtletí"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:157
+#, qt-format
+msgctxt "QObject|"
+msgid "Copy %1 to clipboard"
+msgstr "Kopírovat %1 do schránky"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:92
+msgctxt "QObject|"
+msgid "Remove finished tasks"
+msgstr "Odstranit dokončené úlohy"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:100
+msgctxt "QObject|"
+msgid "Close"
+msgstr "Zavřít"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:215
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 GB"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:217
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 MB"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:219
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 KB"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:222
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 B"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:95
+#, fuzzy
+msgctxt "QObject|"
+msgid "Auto"
+msgstr "Automaticky"
+
+#: ../../../core/libqutim/actiontoolbar.cpp:124
+#, fuzzy
+msgctxt "QObject|"
+msgid "ToolBar appearance"
+msgstr "Vzhled nástrojové lišty"
+
+#: ../../../core/libqutim/actiontoolbar.cpp:126
+#, fuzzy
+msgctxt "QObject|"
+msgid "Icon size"
+msgstr "Velikost ikony"
+
+#: ../../../core/libqutim/actiontoolbar.cpp:132
+#, fuzzy
+msgctxt "QObject|"
+msgid "Tool button style"
+msgstr "Ploché tlačítka"
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:173
+msgctxt "QObject|"
+msgid "Open chat"
+msgstr "Otevřít konverzaci"
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:180
+msgctxt "QObject|"
+msgid "Ignore"
+msgstr "Odmítnout"
+
+#: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:52
+#: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:148
+msgctxt "SearchForm|"
+msgid "Search"
+msgstr "Hledat"
+
+#: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:153
+msgctxt "SearchForm|"
+msgid "Back"
+msgstr "Zpět"
+
+#: ../../../core/libqutim/actionbox.cpp:41
+msgctxt "Service|"
+msgid "ActionBoxModule"
+msgstr ""
+
+#: ../../../core/libqutim/sound.cpp:40
+msgctxt "Service|"
+msgid "Popup"
+msgstr "Oznamovací okno"
+
+#: ../../../core/libqutim/sound.cpp:41
+msgctxt "Service|"
+msgid "Sound"
+msgstr "Zvuk"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:53
+msgctxt "Service|"
+msgid "ChatForm"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:54
+msgctxt "Service|"
+msgid "ChatViewFactory"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:77
+msgctxt "Service|"
+msgid "ContactList"
+msgstr "Seznam kontaktů"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:78
+msgctxt "Service|"
+msgid "ContactListWidget"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:79
+msgctxt "Service|"
+msgid "ContactModel"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:80
+msgctxt "Service|"
+msgid "ContactDelegate"
+msgstr ""
+
+#: ../../../core/libqutim/settingslayer.cpp:393
+#, fuzzy
+msgctxt "Service|"
+msgid "Settings Window"
+msgstr "Okno nastavení"
+
+#: ../../../core/src/corelayers/servicechooser/servicechooserwidget.ui:14
+msgctxt "ServiceChooser|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/examples/autosettingsitem/autosettings.cpp:39
+msgctxt "Settings|"
+msgid "Test settings"
+msgstr "Testovací nastavení"
+
+#: ../../../core/examples/autosettingsitem/autosettings.cpp:41
+msgctxt "Settings|"
+msgid "Text"
+msgstr ""
+
+#: ../../../core/examples/autosettingsitem/autosettings.cpp:42
+msgctxt "Settings|"
+msgid "Combo"
+msgstr ""
+
+#: ../../../core/examples/autosettingsitem/autosettings.cpp:43
+msgctxt "Settings|"
+msgid "Check"
+msgstr ""
+
+#: ../../../core/libqutim/settingslayer.cpp:313
+msgctxt "Settings|"
+msgid "Open File"
+msgstr "Otevřít soubor"
+
+#: ../../../core/libqutim/settingslayer.cpp:315
+#, fuzzy
+msgctxt "Settings|"
+msgid "Log file (*.log)"
+msgstr "Log soubor (*.log)"
+
+#: ../../../core/libqutim/settingslayer.cpp:441
+msgctxt "Settings|"
+msgid "General"
+msgstr "Obecné"
+
+#: ../../../core/libqutim/settingslayer.cpp:442
+msgctxt "Settings|"
+msgid "Protocols"
+msgstr "Protokoly"
+
+#: ../../../core/libqutim/settingslayer.cpp:443
+msgctxt "Settings|"
+msgid "Appearance"
+msgstr "Vzhled"
+
+#: ../../../core/libqutim/settingslayer.cpp:444
+msgctxt "Settings|"
+msgid "Plugins"
+msgstr "Pluginy"
+
+#: ../../../core/libqutim/settingslayer.cpp:445
+msgctxt "Settings|"
+msgid "Special"
+msgstr "Speciální"
+
+#: ../../../core/libqutim/settingslayer.cpp:446
+msgctxt "Settings|"
+msgid "Invalid"
+msgstr "Neplatný"
+
+#: ../../../core/src/corelayers/accountcreator/accountcreator.cpp:52
+msgctxt "Settings|"
+msgid "Accounts"
+msgstr "Účty"
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/webkitviewfactory.cpp:42
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatform.cpp:46
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatform.cpp:44
+msgctxt "Settings|"
+msgid "Chat"
+msgstr "Konverzace"
+
+#: ../../../core/src/corelayers/emoticonssettings/emoticonssettings.cpp:36
+msgctxt "Settings|"
+msgid "Emoticons"
+msgstr "Smajlíci"
+
+#: ../../../core/src/corelayers/localization/localizationmodule.cpp:46
+msgctxt "Settings|"
+msgid "Localization"
+msgstr "Lokalizace"
+
+#: ../../../core/src/corelayers/mobilenotificationssettings/mobilenotificationssettings.cpp:47
+#: ../../../core/src/corelayers/notificationssettings/notificationssettings.cpp:45
+msgctxt "Settings|"
+msgid "Notifications"
+msgstr "Oznamování"
+
+#: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:179
+msgctxt "Settings|"
+msgid "Global proxy"
+msgstr "Globální proxy"
+
+#: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:186
+msgctxt "Settings|"
+msgid "Proxy"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:38
+msgctxt "Settings|"
+msgid "Service chooser"
+msgstr " Služby"
+
+#: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:40
+msgctxt "Settings|"
+msgid "Protocol chooser"
+msgstr " Protokoly"
+
+#: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:42
+msgctxt "Settings|"
+msgid "Plugin chooser"
+msgstr " Pluginy"
+
+#: ../../../core/src/corelayers/shortcutsettings/shortcutsettings.cpp:35
+msgctxt "Settings|"
+msgid "Shortcuts"
+msgstr "Klávesové zkratky"
+
+#: ../../../core/src/corelayers/soundthemeselector/soundthemesettings.cpp:35
+msgctxt "Settings|"
+msgid "Sounds"
+msgstr "Zvuky"
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:53
+msgctxt "Settings|"
+msgid "Scrolling type"
+msgstr "Typ rolování"
+
+#: ../../../core/src/corelayers/qticons/iconsloaderimpl.cpp:85
+msgctxt "Settings|"
+msgid "Icons theme"
+msgstr "Motiv ikon"
+
+#: ../../../core/src/corelayers/filetransfersettings/filetransfersettings.cpp:109
+msgctxt "Settings|"
+msgid "File transfer"
+msgstr "Přenos souboru"
+
+#: ../../../core/examples/simplesettingsdialog/settingsdialog.ui:14
+msgctxt "SettingsDialog|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/libqutim/shortcut.cpp:76
+msgctxt "Shortcut|"
+msgid "Close"
+msgstr "Zavřít"
+
+#: ../../../core/libqutim/shortcut.cpp:92
+#, fuzzy
+msgctxt "Shortcut|"
+msgid "Next child"
+msgstr "Další"
+
+#: ../../../core/libqutim/shortcut.cpp:93
+#, fuzzy
+msgctxt "Shortcut|"
+msgid "Previous child"
+msgstr "Předchozí"
+
+#: ../../../core/libqutim/shortcut.cpp:94
+msgctxt "Shortcut|"
+msgid "Find"
+msgstr "Hledat"
+
+#: ../../../core/libqutim/shortcut.cpp:95
+msgctxt "Shortcut|"
+msgid "Find next"
+msgstr "Hledat další"
+
+#: ../../../core/libqutim/shortcut.cpp:96
+msgctxt "Shortcut|"
+msgid "Find previous"
+msgstr "Hledat předchozí"
+
+#: ../../../core/libqutim/shortcut.cpp:136
+msgctxt "Shortcut|"
+msgid "Preferences"
+msgstr "Nastavení"
+
+#: ../../../core/libqutim/shortcut.cpp:137
+msgctxt "Shortcut|"
+msgid "Quit"
+msgstr "Ukončit"
+
+#: ../../../core/libqutim/shortcut.cpp:139
+#, fuzzy
+msgctxt "Shortcut|"
+msgid "System"
+msgstr "Systémové"
+
+#: ../../../core/src/corelayers/shortcutsettings/shortcutsettingswidget.ui:14
+msgctxt "ShortcutSettingsWidget|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:14
+msgctxt "SimpleAboutDialog|"
+msgid "About qutIM"
+msgstr "O qutIMu"
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:110
+msgctxt "SimpleAboutDialog|"
+msgid "Module based instant messenger."
+msgstr "Modulově založený instant messenger."
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:143
+msgctxt "SimpleAboutDialog|"
+msgid "Source code repository:"
+msgstr "Repozitář zdrojových kódů:"
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:160
+msgctxt "SimpleAboutDialog|"
+msgid "Project site:"
+msgstr "Stránka projektu:"
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:167
+msgctxt "SimpleAboutDialog|"
+msgid "Bug tracker:"
+msgstr "Hlášení chyb:"
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:200
+msgctxt "SimpleAboutDialog|"
+msgid "Developers"
+msgstr "Vývojáři"
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:223
+msgctxt "SimpleAboutDialog|"
+msgid "Translators"
+msgstr "Překladatelé"
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:240
+msgctxt "SimpleAboutDialog|"
+msgid "License"
+msgstr "Licence"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:14
+msgctxt "SimpleContactlistSettings|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:20
+msgctxt "SimpleContactlistSettings|"
+msgid "Status icons size:"
+msgstr "Velikost ikony stavu:"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:44
+msgctxt "SimpleContactlistSettings|"
+msgid "Show avatars"
+msgstr "Zobrazit avatary"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:51
+#, fuzzy
+msgctxt "SimpleContactlistSettings|"
+msgid "Lite group headers"
+msgstr "Odlehčené seskupování hlaviček"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:37
+msgctxt "SimpleContactlistSettings|"
+msgid "Show status text"
+msgstr "Zobrazit text stavu"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:30
+msgctxt "SimpleContactlistSettings|"
+msgid "Show extended icons"
+msgstr "Zobrazit rozšířené ikony"
+
+#: ../../../core/src/corelayers/password/simplepasswordwidget.ui:14
+msgctxt "SimplePasswordWidget|"
+msgid "Password Request"
+msgstr "Žádost o heslo"
+
+#: ../../../core/src/corelayers/password/simplepasswordwidget.ui:20
+#, qt-format
+msgctxt "SimplePasswordWidget|"
+msgid "Enter password for account %1 (%2):"
+msgstr "Zadejte heslo pro účet %1 (%2):"
+
+#: ../../../core/src/corelayers/password/simplepasswordwidget.ui:27
+msgctxt "SimplePasswordWidget|"
+msgid "Enter password:"
+msgstr "Zadejte heslo:"
+
+#: ../../../core/src/corelayers/password/simplepasswordwidget.ui:41
+msgctxt "SimplePasswordWidget|"
+msgid "Remember password"
+msgstr "Uložit heslo"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplestatusdialog.ui:14
+msgctxt "SimpleStatusDialog|"
+msgid "Set Status Text"
+msgstr "Nastavit text stavu"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.ui:46
+msgctxt "SimpleTagsEditor|"
+msgid "Add"
+msgstr "Přidat"
+
+#: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:14
+msgctxt "SimpletraySettings|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:32
+msgctxt "SimpletraySettings|"
+msgid "Icon"
+msgstr "Ikona"
+
+#: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:38
+msgctxt "SimpletraySettings|"
+msgid "Show number of new messages"
+msgstr "Zobrazit počet nových zpráv"
+
+#: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:45
+msgctxt "SimpletraySettings|"
+msgid "Show number of chats with new messages"
+msgstr "Zobrazit počet konverzací s novými zprávami"
+
+#: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:52
+msgctxt "SimpletraySettings|"
+msgid "Show only icon"
+msgstr "Zobrazit pouze ikonu"
+
+#: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:62
+msgctxt "SimpletraySettings|"
+msgid "Other"
+msgstr "Ostatní"
+
+#: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:68
+msgctxt "SimpletraySettings|"
+msgid "Show mail icon if there are new messages"
+msgstr "Zobrazit ikonu pošty pokud jsou nové zprávy"
+
+#: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:75
+msgctxt "SimpletraySettings|"
+msgid "Blink icon"
+msgstr "Blikající ikona"
+
+#: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp:68
+msgctxt "Sound|"
+msgid "No sound"
+msgstr "Bez zvuku"
+
+#: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp:99
+msgctxt "SoundTheme|"
+msgid "Preview"
+msgstr "Náhled"
+
+#: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp:107
+msgctxt "SoundTheme|"
+msgid "Type"
+msgstr "Typ"
+
+#: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp:114
+msgctxt "SoundTheme|"
+msgid "Play"
+msgstr "Přehrát"
+
+#: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.ui:14
+msgctxt "SoundThemeSelector|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:14
+msgctxt "StackedChatBehavior|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:62
+msgctxt "StackedChatBehavior|"
+msgid "Send Key"
+msgstr "Klávesa pro odeslání zprávy"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:70
+msgctxt "StackedChatBehavior|"
+msgid "Store service messages in history"
+msgstr "Ukládat servisní zprávy do historie"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:77
+msgctxt "StackedChatBehavior|"
+msgid "Number of previous messages shown in new chats"
+msgstr "Počet předchozích zpráv zobrazovaných v nových konverzacích"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:80
+msgctxt "StackedChatBehavior|"
+msgid "Number of shown previous messages:"
+msgstr "Počet zobrazovaných předchozích zpráv:"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:90
+msgctxt "StackedChatBehavior|"
+msgid "Don't group messages after (sec):"
+msgstr "Neseskupovat zprávy po [s]:"
+
+#: ../../../core/libqutim/status.cpp:156
+msgctxt "Status|"
+msgid "Online"
+msgstr ""
+
+#: ../../../core/libqutim/status.cpp:159
+msgctxt "Status|"
+msgid "Free for chat"
+msgstr "Připraven na pokec"
+
+#: ../../../core/libqutim/status.cpp:162
+msgctxt "Status|"
+msgid "Away"
+msgstr "Pryč"
+
+#: ../../../core/libqutim/status.cpp:165
+msgctxt "Status|"
+msgid "Not available"
+msgstr "Nepřítomen"
+
+#: ../../../core/libqutim/status.cpp:168
+msgctxt "Status|"
+msgid "Do not disturb"
+msgstr "Nerušit"
+
+#: ../../../core/libqutim/status.cpp:171
+msgctxt "Status|"
+msgid "Invisible"
+msgstr "Neviditelný"
+
+#: ../../../core/libqutim/status.cpp:174
+msgctxt "Status|"
+msgid "Offline"
+msgstr ""
+
+#: ../../../core/libqutim/status.cpp:177
+msgctxt "Status|"
+msgid "Connecting"
+msgstr "Připojování"
+
+#: ../../../core/libqutim/status.cpp:180
+msgctxt "Status|"
+msgid "Unknown"
+msgstr "Neznámý"
+
+#: ../../../core/libqutim/personinfo.cpp:219
+msgctxt "TRANSLATORS|"
+msgid "Your names"
+msgstr "Lms"
+
+#: ../../../core/libqutim/personinfo.cpp:220
+#: ../../../core/libqutim/personinfo.cpp:221
+msgctxt "TRANSLATORS|"
+msgid "Your emails"
+msgstr "lms.cze7@gmail.com"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:14
+msgctxt "TabbedChatBehavior|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:55
+msgctxt "TabbedChatBehavior|"
+msgid "Store service messages in history"
+msgstr "Ukládat servisní zprávy do historie"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:62
+msgctxt "TabbedChatBehavior|"
+msgid "Number of previous messages shown in new chats"
+msgstr "Počet předchozích zpráv zobrazovaných v nových konverzacích"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:65
+msgctxt "TabbedChatBehavior|"
+msgid "Number of shown previous messages:"
+msgstr "Počet zobrazovaných předchozích zpráv:"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:75
+msgctxt "TabbedChatBehavior|"
+msgid "Don't group messages after (sec):"
+msgstr "Neseskupovat zprávy po [s]:"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:89
+#, fuzzy
+msgctxt "TabbedChatBehavior|"
+msgid "Tab position:"
+msgstr "Pozice záložky:"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:99
+#, fuzzy
+msgctxt "TabbedChatBehavior|"
+msgid "Form layout:"
+msgstr "Vzhled okna:"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:109
+#, fuzzy
+msgctxt "TabbedChatBehavior|"
+msgid "Chat state icons on tabs"
+msgstr "Ikony stavu konverzace na záložkách"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:116
+#, fuzzy
+msgctxt "TabbedChatBehavior|"
+msgid "Show menubar"
+msgstr "Zobrazit nabídku"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:47
+msgctxt "TabbedChatBehavior|"
+msgid "Send Key"
+msgstr "Klávesa pro odeslání zprávy"
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/tagsfilterdialog.ui:14
+msgctxt "TagsFilterDialog|"
+msgid "Select tags"
+msgstr "Vybrat štítky"
+
+#: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:40
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:39
+#: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:45
+msgctxt "Task|"
+msgid "Author"
+msgstr "Autor"
+
+#: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:43
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Vývojář"
+
+#: ../../../core/libqutim/personinfo.cpp:224
+msgctxt "Task|"
+msgid "Translator"
+msgstr "Překladatel"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:95
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:99
+#, fuzzy
+msgctxt "Task|"
+msgid "Artist"
+msgstr "Umělec"
+
+#: ../../../core/libqutim/buddy.cpp:100
+msgctxt "ToolTip|"
+msgid "Account"
+msgstr "Účet"
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.ui:14
+msgctxt "chatAppearance|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.ui:49
+msgctxt "chatAppearance|"
+msgid "about:blank"
+msgstr ""
+
+#: ../../../core/src/corelayers/emoticonssettings/emoticonsselector.ui:14
+msgctxt "emoticonsSelector|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:51
+msgctxt "kb_Qwerty|"
+msgid "q"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:66
+msgctxt "kb_Qwerty|"
+msgid "qQ1§й"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:69
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:100
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:134
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:165
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:196
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:227
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:258
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:289
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:320
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:351
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:389
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:420
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:451
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:482
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:513
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:544
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:575
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:606
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:637
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:665
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:732
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:763
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:794
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:825
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:856
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:887
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:918
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:943
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1079
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1141
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1172
+msgctxt "kb_Qwerty|"
+msgid "bgDirectInput"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:85
+msgctxt "kb_Qwerty|"
+msgid "w"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:97
+msgctxt "kb_Qwerty|"
+msgid "wW2$ц"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:116
+msgctxt "kb_Qwerty|"
+msgid "e"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:131
+msgctxt "kb_Qwerty|"
+msgid "eE3£у"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:150
+msgctxt "kb_Qwerty|"
+msgid "r"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:162
+msgctxt "kb_Qwerty|"
+msgid "rR4€к"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:181
+msgctxt "kb_Qwerty|"
+msgid "t"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:193
+msgctxt "kb_Qwerty|"
+msgid "tT5¥е"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:212
+msgctxt "kb_Qwerty|"
+msgid "y"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:224
+msgctxt "kb_Qwerty|"
+msgid "yY6-н"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:243
+msgctxt "kb_Qwerty|"
+msgid "u"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:255
+msgctxt "kb_Qwerty|"
+msgid "uU7<г"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:274
+msgctxt "kb_Qwerty|"
+msgid "i"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:286
+msgctxt "kb_Qwerty|"
+msgid "iI8>ш"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:305
+msgctxt "kb_Qwerty|"
+msgid "o"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:317
+msgctxt "kb_Qwerty|"
+msgid "oO9[щ"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:336
+msgctxt "kb_Qwerty|"
+msgid "p"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:348
+msgctxt "kb_Qwerty|"
+msgid "pP0]з"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:374
+msgctxt "kb_Qwerty|"
+msgid "a"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:386
+msgctxt "kb_Qwerty|"
+msgid "aA({ф"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:405
+msgctxt "kb_Qwerty|"
+msgid "s"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:417
+msgctxt "kb_Qwerty|"
+msgid "sS)}ы"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:436
+msgctxt "kb_Qwerty|"
+msgid "d"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:448
+msgctxt "kb_Qwerty|"
+msgid "dD+^в"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:467
+msgctxt "kb_Qwerty|"
+msgid "f"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:479
+msgctxt "kb_Qwerty|"
+msgid "fF*\\а"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:498
+msgctxt "kb_Qwerty|"
+msgid "g"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:510
+msgctxt "kb_Qwerty|"
+msgid "gG=/п"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:529
+msgctxt "kb_Qwerty|"
+msgid "h"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:541
+msgctxt "kb_Qwerty|"
+msgid "hH&~р"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:560
+msgctxt "kb_Qwerty|"
+msgid "j"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:572
+msgctxt "kb_Qwerty|"
+msgid "jJ--о"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:591
+msgctxt "kb_Qwerty|"
+msgid "k"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:603
+msgctxt "kb_Qwerty|"
+msgid "kK__л"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:622
+msgctxt "kb_Qwerty|"
+msgid "l"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:634
+msgctxt "kb_Qwerty|"
+msgid "lL^|д"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:653
+msgctxt "kb_Qwerty|"
+msgid ":"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:662
+msgctxt "kb_Qwerty|"
+msgid ":;`№ж"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:717
+msgctxt "kb_Qwerty|"
+msgid "z"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:729
+msgctxt "kb_Qwerty|"
+msgid "zZёёя"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:748
+msgctxt "kb_Qwerty|"
+msgid "x"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:760
+msgctxt "kb_Qwerty|"
+msgid "xXъъч"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:779
+msgctxt "kb_Qwerty|"
+msgid "c"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:791
+msgctxt "kb_Qwerty|"
+msgid "cC??с"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:810
+msgctxt "kb_Qwerty|"
+msgid "v"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:822
+msgctxt "kb_Qwerty|"
+msgid "vV!!м"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:841
+msgctxt "kb_Qwerty|"
+msgid "b"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:853
+msgctxt "kb_Qwerty|"
+msgid "bB;;и"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:872
+msgctxt "kb_Qwerty|"
+msgid "n"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:884
+msgctxt "kb_Qwerty|"
+msgid "nN::т"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:903
+msgctxt "kb_Qwerty|"
+msgid "m"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:915
+msgctxt "kb_Qwerty|"
+msgid "mM,,ь"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:931
+msgctxt "kb_Qwerty|"
+msgid "?"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:940
+msgctxt "kb_Qwerty|"
+msgid "?!%%б"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1004
+msgctxt "kb_Qwerty|"
+msgid "1#"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1029
+msgctxt "kb_Qwerty|"
+msgid ""
+"ru\n"
+"en"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1064
+msgctxt "kb_Qwerty|"
+msgid ","
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1076
+msgctxt "kb_Qwerty|"
+msgid ",(##х"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1126
+msgctxt "kb_Qwerty|"
+msgid "."
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1138
+msgctxt "kb_Qwerty|"
+msgid ".)''э"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1160
+msgctxt "kb_Qwerty|"
+msgid "\""
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1169
+msgctxt "kb_Qwerty|"
+msgid "\"'@@ю"
+msgstr ""
+
+#: ../../../core/libqutim/contactsearch.cpp:85
+msgctxt "qutim_sdk_0_3::ContactSearchRequest|"
+msgid "Add contact"
+msgstr "Přidat kontakt"
+
+#: ../../../core/libqutim/filetransfer.cpp:331
+#, fuzzy
+msgctxt "qutim_sdk_0_3::FileTransferJob|"
+msgid "Initiation"
+msgstr "Zahajování"
+
+#: ../../../core/libqutim/filetransfer.cpp:333
+#, fuzzy
+msgctxt "qutim_sdk_0_3::FileTransferJob|"
+msgid "Started"
+msgstr "Začínání"
+
+#: ../../../core/libqutim/filetransfer.cpp:335
+msgctxt "qutim_sdk_0_3::FileTransferJob|"
+msgid "Finished"
+msgstr "Dokončeno"
+
+#: ../../../core/libqutim/filetransfer.cpp:337
+msgctxt "qutim_sdk_0_3::FileTransferJob|"
+msgid "Error"
+msgstr "Chyba"
+
+#: ../../../core/libqutim/filetransfer.cpp:339
+#: ../../../core/libqutim/filetransfer.cpp:365
+msgctxt "qutim_sdk_0_3::FileTransferJob|"
+msgid "Unknown"
+msgstr "Neznámý"
+
+#: ../../../core/libqutim/filetransfer.cpp:357
+msgctxt "qutim_sdk_0_3::FileTransferJob|"
+msgid "Network error"
+msgstr "Síťová chyba"
+
+#: ../../../core/libqutim/filetransfer.cpp:359
+msgctxt "qutim_sdk_0_3::FileTransferJob|"
+msgid "Canceled"
+msgstr "Zrušeno"
+
+#: ../../../core/libqutim/filetransfer.cpp:361
+msgctxt "qutim_sdk_0_3::FileTransferJob|"
+msgid "Not supported"
+msgstr "Není podporováno"
+
+#: ../../../core/libqutim/filetransfer.cpp:363
+msgctxt "qutim_sdk_0_3::FileTransferJob|"
+msgid "Input/output error"
+msgstr "Vstupně/výstupní chyba"
+
+#: ../../../core/libqutim/modulemanager.cpp:418
+#, qt-format
+msgctxt "qutim_sdk_0_3::ModuleManager|"
+msgid ""
+"Could not init plugin: \n"
+" %1"
+msgstr ""
+"Nelze inicializovat plugin:\n"
+" %1"
+
+#: ../../../core/libqutim/profile.cpp:123
+#, fuzzy
+msgctxt "qutim_sdk_0_3::Profile|"
+msgid "Password is mismatched."
+msgstr "Hesla nesouhlasí."
+
+#: ../../../core/libqutim/profile.cpp:125
+#, fuzzy
+msgctxt "qutim_sdk_0_3::Profile|"
+msgid "Crypto service is unknown."
+msgstr "Šifrovací služba je neznámá."
+
+#: ../../../core/libqutim/profile.cpp:127
+#, fuzzy
+msgctxt "qutim_sdk_0_3::Profile|"
+msgid "Wrong profile id."
+msgstr "Špatné ID profilu."
+
+#: ../../../core/libqutim/profile.cpp:160
+#, fuzzy
+msgctxt "qutim_sdk_0_3::Profile|"
+msgid "Can't open file with hash"
+msgstr "Nelze otevřít soubor s hashem"
+
+#: ../../../core/libqutim/sound.cpp:282
+msgctxt "qutim_sdk_0_3::SoundHandler|"
+msgid "Play sound"
+msgstr "Přehrát zvuk"
+
+#: ../../../core/src/corelayers/contactinfo/userinformation.ui:14
+msgctxt "userInformationClass|"
+msgid "userInformation"
+msgstr ""
+
+#: ../../../core/src/corelayers/contactinfo/userinformation.ui:31
+msgctxt "userInformationClass|"
+msgid "Request details"
+msgstr "Načíst detaily"
+
+#: ../../../core/src/corelayers/contactinfo/userinformation.ui:55
+msgctxt "userInformationClass|"
+msgid "Save"
+msgstr "Uložit"
+
+#: ../../../core/src/corelayers/contactinfo/userinformation.ui:66
+msgctxt "userInformationClass|"
+msgid "Close"
+msgstr "Zavřít"

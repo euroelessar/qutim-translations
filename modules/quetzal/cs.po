@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"X-Language: cs\n"
+"X-Source-Language: en_GB\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../protocols/quetzal/src/quetzalplugin.cpp:660
+msgctxt "Plugin|"
+msgid "Quetzal"
+msgstr ""
+
+#: ../../../protocols/quetzal/src/quetzalplugin.cpp:661
+#: ../../../protocols/quetzal/src/quetzalplugin.cpp:706
+#: ../../../protocols/quetzal/src/quetzalplugin.cpp:710
+#, fuzzy
+msgctxt "Plugin|"
+msgid "'Quetzal' is set of protocols, powered by libpurple"
+msgstr "'Quetzal' je sada protokolů, poháněných knihovnou libpurple"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:61
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Username"
+msgstr "Uživatelské jméno"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:75
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Password"
+msgstr "Heslo"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:80
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Save password"
+msgstr "Uložit heslo"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:137
+#, fuzzy
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Unable to save new account"
+msgstr "Nelze uložit nový účet"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:138
+#, fuzzy
+msgctxt "QuetzalAccountWizardPage|"
+msgid "An account already exists with the specified criteria."
+msgstr "Učet se zadanými kritérii již existuje."
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:156
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Register"
+msgstr "Registrovat"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:197
+#, fuzzy
+msgctxt "QuetzalAccountWizardPage|"
+msgid ""
+"Registration is succesfull\n"
+"Complete account creating by clicking on Finish button"
+msgstr ""
+"Registrace je úspěšná\n"
+"Pro úplné vytvoření účtu pokračujte stisknutím tlačítka Dokončit"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:205
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Registration failed"
+msgstr "Registrace selhala"
+
+#: ../../../protocols/quetzal/src/quatzelactiondialog.ui:14
+msgctxt "QuetzalActionDialog|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../../protocols/quetzal/src/quetzaljoinchatdialog.ui:14
+msgctxt "QuetzalJoinChatDialog|"
+msgid "Join group chat"
+msgstr "Vstoupit do konference"
+
+#: ../../../protocols/quetzal/src/quetzaljoinchatdialog.ui:33
+msgctxt "QuetzalJoinChatDialog|"
+msgid "Save to bookmarks"
+msgstr "Uložit do záložek"
+
+#: ../../../protocols/quetzal/src/quetzalprotocol.cpp:97
+msgctxt "Settings|"
+msgid "General"
+msgstr "Obecné"
