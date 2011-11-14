@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/indicator/src/indicator.cpp" line="+26"/>
+        <location filename="../../plugins/indicator/src/indicator.cpp" line="+37"/>
         <source>Vsevolod Velichko</source>
         <translation>Величко Всеволод</translation>
     </message>
@@ -22,7 +22,7 @@
         <translation>Интеграция в апплет панели GNOME для Ubuntu</translation>
     </message>
     <message>
-        <location filename="../../plugins/indicator/src/indicatorservice.cpp" line="+39"/>
+        <location filename="../../plugins/indicator/src/indicatorservice.cpp" line="+50"/>
         <source>Close qutIM</source>
         <translation>Закрыть qutIM</translation>
     </message>

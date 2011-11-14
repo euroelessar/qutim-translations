@@ -4,37 +4,37 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../plugins/olddelegate/contactlistitemdelegate.cpp" line="76"/>
+        <location filename="../../plugins/olddelegate/contactlistitemdelegate.cpp" line="86"/>
         <source>qutIM 0.2 style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="16"/>
+        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="40"/>
         <source>Default (depends on platform)</source>
         <translation type="unfinished">По умолчанию (в зависимости от платформы)</translation>
     </message>
     <message>
-        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="17"/>
+        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="41"/>
         <source>Small (16x16)</source>
         <translation type="unfinished">Малый (16x16)</translation>
     </message>
     <message>
-        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="18"/>
+        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="42"/>
         <source>Medium (22x22)</source>
         <translation type="unfinished">Средний (22x22)</translation>
     </message>
     <message>
-        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="19"/>
+        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="43"/>
         <source>Large (32x32)</source>
         <translation type="unfinished">Увеличеный (32x32)</translation>
     </message>
     <message>
-        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="20"/>
+        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="44"/>
         <source>Very large (48x48)</source>
         <translation type="unfinished">Большой (48x48)</translation>
     </message>
     <message>
-        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="21"/>
+        <location filename="../../plugins/olddelegate/settings/olddelegatesettings.cpp" line="45"/>
         <source>Huge (64x64)</source>
         <translation type="unfinished">Огромный (64x64)</translation>
     </message>
@@ -84,12 +84,12 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../plugins/olddelegate/contactlistitemdelegate.cpp" line="54"/>
+        <location filename="../../plugins/olddelegate/contactlistitemdelegate.cpp" line="64"/>
         <source>Old contact delegate</source>
         <translation type="unfinished">Старый модуль списка контактов</translation>
     </message>
     <message>
-        <location filename="../../plugins/olddelegate/contactlistitemdelegate.cpp" line="55"/>
+        <location filename="../../plugins/olddelegate/contactlistitemdelegate.cpp" line="65"/>
         <source>Port of contact list delegate from 0.2</source>
         <translation type="unfinished">Порт старого списка контактов (ростера) от версии 0.2</translation>
     </message>

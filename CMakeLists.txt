@@ -1,8 +1,8 @@
 cmake_minimum_required (VERSION 2.6 FATAL_ERROR)
 
-project( translations )
+project(translations)
 
-if ( ${CMAKE_CURRENT_SOURCE_DIR} STREQUAL ${CMAKE_SOURCE_DIR} )
+if(${CMAKE_CURRENT_SOURCE_DIR} STREQUAL ${CMAKE_SOURCE_DIR} )
         set(QUTIM_PATH "" CACHE FILEPATH "Path to qutim sources")
         set(QUTIM_BINARY_DIR "" CACHE FILEPATH "Path to qutim build directory")
         set(QUTIM_LIBRARY QUTIM_LIBRARY-NOTFOUND CACHE FILEPATH "Path to qutim library")
@@ -12,27 +12,22 @@ if( QUTIM_BINARY_DIR )
         set( QUTIM_LIBRARY_DIR ${QUTIM_BINARY_DIR}/libqutim/ )
 endif( QUTIM_BINARY_DIR )
 
-LIST (APPEND CMAKE_MODULE_PATH "cmake")
-LIST (APPEND CMAKE_MODULE_PATH "${QUTIM_PATH}/cmake")
-option ( QUTIM_ENABLE_ALL_PLUGINS "Enable plugins by default" ON )
+LIST(APPEND CMAKE_MODULE_PATH "cmake")
+LIST(APPEND CMAKE_MODULE_PATH "${QUTIM_PATH}/cmake")
 
-INCLUDE (MacroEnsureVersion)
-#find_package(Qt4 COMPONENTS QtCore QtGui)
+include(MacroEnsureVersion)
+include(QutIMMacros)
 find_package(QutIM REQUIRED)
 
-
-#include(MacroAddQutIMArtwork)
-#find_package( QutIM REQUIRED )
-
-file( GLOB LANGUAGES RELATIVE "${CMAKE_CURRENT_SOURCE_DIR}" "${CMAKE_CURRENT_SOURCE_DIR}/*/*.ts" )
+file(GLOB LANGUAGES RELATIVE "${CMAKE_CURRENT_SOURCE_DIR}" "${CMAKE_CURRENT_SOURCE_DIR}/*/*.ts" )
 set(LANG_DIR "${CMAKE_CURRENT_BINARY_DIR}/languages")
-file( MAKE_DIRECTORY ${LANG_DIR} )
+file(MAKE_DIRECTORY ${LANG_DIR} )
 
 ADD_CUSTOM_TARGET(translations ALL echo
   DEPENDS ${TRANSLATIONS_BINARY}
   )
 
-foreach( LANGUAGE ${LANGUAGES} )
+foreach(LANGUAGE ${LANGUAGES} )
 	string(REPLACE ".ts" "" LANGUAGE_NAME ${LANGUAGE})
 	string(REGEX REPLACE "/*\\\\*[a-zA-Z0-9_-]+\\.ts" "" LANGUAGE_DIRECTORY_NAME ${LANGUAGE})
 	file(MAKE_DIRECTORY "${LANG_DIR}/${LANGUAGE_DIRECTORY_NAME}")
@@ -47,6 +42,6 @@ foreach( LANGUAGE ${LANGUAGES} )
 		ARGS      -silent "${CMAKE_CURRENT_SOURCE_DIR}/${LANGUAGE}" -qm ${QM}
 	)
 	set(TRANSLATIONS_BINARY ${TRANSLATIONS_BINARY} ${QM})
-endforeach( LANGUAGE )
+endforeach(LANGUAGE)
 
 QUTIM_ADD_ARTWORK(${LANG_DIR})

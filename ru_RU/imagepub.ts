@@ -4,53 +4,53 @@
 <context>
     <name>imagepubPlugin</name>
     <message>
-        <location filename="../../plugins/imagepub/imagepub.cpp" line="31"/>
+        <location filename="../../plugins/imagepub/imagepub.cpp" line="41"/>
         <source>Image Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/imagepub/imagepub.cpp" line="60"/>
+        <location filename="../../plugins/imagepub/imagepub.cpp" line="70"/>
         <source>Send image via ImagePub plugin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/imagepub/imagepub.cpp" line="132"/>
+        <location filename="../../plugins/imagepub/imagepub.cpp" line="142"/>
         <source>Choose file for upload to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/imagepub/imagepub.cpp" line="133"/>
+        <location filename="../../plugins/imagepub/imagepub.cpp" line="143"/>
         <source>Choose file</source>
         <translation>Выберите файл</translation>
     </message>
     <message>
-        <location filename="../../plugins/imagepub/imagepub.cpp" line="139"/>
+        <location filename="../../plugins/imagepub/imagepub.cpp" line="149"/>
         <source>Canceled</source>
         <translation>Отменено</translation>
     </message>
     <message>
-        <location filename="../../plugins/imagepub/imagepub.cpp" line="143"/>
+        <location filename="../../plugins/imagepub/imagepub.cpp" line="153"/>
         <source>File size is null</source>
         <translation>Файл нулегого размера</translation>
     </message>
     <message>
-        <location filename="../../plugins/imagepub/imagepub.cpp" line="187"/>
+        <location filename="../../plugins/imagepub/imagepub.cpp" line="197"/>
         <source>Sending file URL...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/imagepub/imagepub.cpp" line="202"/>
+        <location filename="../../plugins/imagepub/imagepub.cpp" line="212"/>
         <source>File sent: %N (%S bytes)
 %U</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/imagepub/imagepub.cpp" line="207"/>
+        <location filename="../../plugins/imagepub/imagepub.cpp" line="217"/>
         <source>File URL sent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/imagepub/imagepub.cpp" line="210"/>
+        <location filename="../../plugins/imagepub/imagepub.cpp" line="220"/>
         <source>Can&apos;t parse URL</source>
         <translation type="unfinished"></translation>
     </message>
@@ -116,27 +116,27 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>uploadDialog</name>
     <message>
-        <location filename="../../plugins/imagepub/uploaddialog.cpp" line="41"/>
+        <location filename="../../plugins/imagepub/uploaddialog.cpp" line="51"/>
         <source>Uploading...</source>
         <translation>Выгрузка...</translation>
     </message>
     <message>
-        <location filename="../../plugins/imagepub/uploaddialog.cpp" line="42"/>
+        <location filename="../../plugins/imagepub/uploaddialog.cpp" line="52"/>
         <source>Progress: %1 / %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/imagepub/uploaddialog.cpp" line="48"/>
+        <location filename="../../plugins/imagepub/uploaddialog.cpp" line="58"/>
         <source>Elapsed time: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/imagepub/uploaddialog.cpp" line="52"/>
+        <location filename="../../plugins/imagepub/uploaddialog.cpp" line="62"/>
         <source>Speed: %1 kb/sec</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../plugins/imagepub/uploaddialog.h" line="31"/>
+        <location filename="../../plugins/imagepub/uploaddialog.h" line="41"/>
         <source>File: %1</source>
         <translation type="unfinished"></translation>
     </message>

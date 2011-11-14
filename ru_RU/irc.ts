@@ -61,7 +61,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/irc/src/ircplugin.cpp" line="+34"/>
+        <location filename="../../protocols/irc/src/ircplugin.cpp" line="+44"/>
         <source>Alexey Prokhin</source>
         <translation>Прохин Алексей</translation>
     </message>
@@ -391,7 +391,7 @@
         <translation type="obsolete">Войти в канал...</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+87"/>
+        <location filename="../../protocols/irc/src/ircprotocol.cpp" line="+97"/>
         <source>Show console...</source>
         <translation>Показать консоль...</translation>
     </message>
@@ -405,7 +405,7 @@
         <translation type="obsolete">Подключиться к каналу</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircgroupchatmanager.cpp" line="+63"/>
+        <location filename="../../protocols/irc/src/ircgroupchatmanager.cpp" line="+73"/>
         <source>Channel</source>
         <translation>Канал</translation>
     </message>
@@ -488,7 +488,7 @@
         <translation type="obsolete">%1 сменил топик на %2.</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+383"/>
+        <location filename="../../protocols/irc/src/ircchannel.cpp" line="+393"/>
         <source>%1 gives channel operator privileges to %2.</source>
         <translation>%1 дал опа %2.</translation>
     </message>
@@ -577,7 +577,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../protocols/irc/src/irccommandalias.cpp" line="+111"/>
+        <location filename="../../protocols/irc/src/irccommandalias.cpp" line="+121"/>
         <source>Not enough parameters for command %1</source>
         <translation>Не хавтает параметров команде %1</translation>
     </message>
@@ -606,7 +606,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::ChannelsModel</name>
     <message>
-        <location filename="../../protocols/irc/src/ui/ircchannellist.cpp" line="+81"/>
+        <location filename="../../protocols/irc/src/ui/ircchannellist.cpp" line="+91"/>
         <source>Channel</source>
         <translation>Канал</translation>
     </message>
@@ -624,7 +624,7 @@
 <context>
     <name>qutim_sdk_0_3::irc::IrcAccount</name>
     <message>
-        <location filename="../../protocols/irc/src/ircaccount.cpp" line="+73"/>
+        <location filename="../../protocols/irc/src/ircaccount.cpp" line="+83"/>
         <source>Away</source>
         <translation>Отошел</translation>
     </message>
@@ -942,7 +942,7 @@
         <translation type="obsolete">Забрать голос</translation>
     </message>
     <message>
-        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+148"/>
+        <location filename="../../protocols/irc/src/ircconnection.cpp" line="+158"/>
         <source>Server %1 (Version %2), User modes: %3, Channel modes: %4</source>
         <translation>Сервер %1 (Версия %2), Режимы пользователей: %3, Режимы каналов: %4</translation>
     </message>
@@ -1074,7 +1074,7 @@ Please wait a while and try again.</source>
 <context>
     <name>qutim_sdk_0_3::irc::IrcStandartCtpcHandler</name>
     <message numerus="yes">
-        <location filename="../../protocols/irc/src/ircstandartctpchandler.cpp" line="+69"/>
+        <location filename="../../protocols/irc/src/ircstandartctpchandler.cpp" line="+79"/>
         <source>Received CTCP-PING reply from %1: %2 seconds</source>
         <translation>
             <numerusform>Пинг от %1: %2 секунда %n</numerusform>
@@ -1091,7 +1091,7 @@ Please wait a while and try again.</source>
 <context>
     <name>qutim_sdk_0_3::irc::IrcWhoisRepliesHandler</name>
     <message>
-        <location filename="../../protocols/irc/src/ircwhoisreplieshandler.cpp" line="+53"/>
+        <location filename="../../protocols/irc/src/ircwhoisreplieshandler.cpp" line="+63"/>
         <source>%1 is %2@%3 (%4)</source>
         <translation>%1 - %2@%3 (%4)</translation>
     </message>

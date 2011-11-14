@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/nowplaying/src/nowplaying.cpp" line="+33"/>
+        <location filename="../../plugins/nowplaying/src/nowplaying.cpp" line="+57"/>
         <source>Kazlauskas Ian</source>
         <translatorcomment>Каслаускас Йен</translatorcomment>
         <translation type="unfinished"></translation>
@@ -266,7 +266,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::nowplaying::SettingsUI</name>
     <message>
-        <location filename="../../plugins/nowplaying/src/settingsui.cpp" line="+53"/>
+        <location filename="../../plugins/nowplaying/src/settingsui.cpp" line="+77"/>
         <source>No player</source>
         <translation type="unfinished">Фонограф выключен :(</translation>
     </message>

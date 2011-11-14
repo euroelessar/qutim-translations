@@ -5,7 +5,7 @@
 <platform>all</platform>
 <name>ru</name>
 <version>--VERSION--</version>
-<shortdesc>Russian languages for qutIM 0.3a (0.2.60+)</shortdesc>
+<shortdesc>Russian languages for qutIM 0.3b (0.2.80+)</shortdesc>
 <descriptions>Начальная попытка перевода qutIM codename "sdk03"</descriptions>
 <url>--URL--</url>
 <author>MrFree (f1.mrfree@gmail.com), Nico-izo (nico-izo@ya.ru)</author>

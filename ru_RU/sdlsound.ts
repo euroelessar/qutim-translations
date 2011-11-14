@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/sdlsound/src/sdlplugin.cpp" line="+22"/>
+        <location filename="../../plugins/sdlsound/src/sdlplugin.cpp" line="+31"/>
         <source>Ruslan Nigmatullin</source>
         <translation type="unfinished">Нигматуллин Руслан</translation>
     </message>

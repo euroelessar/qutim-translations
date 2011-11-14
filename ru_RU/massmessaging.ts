@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/massmessaging/src/messaging.cpp" line="+32"/>
+        <location filename="../../plugins/massmessaging/src/messaging.cpp" line="+42"/>
         <source>Sidorov Aleksey</source>
         <translation>Сидоров Алексей</translation>
     </message>
@@ -85,7 +85,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>MassMessaging::MessagingDialog</name>
     <message>
-        <location filename="../../plugins/massmessaging/src/messagingdialog.cpp" line="+54"/>
+        <location filename="../../plugins/massmessaging/src/messagingdialog.cpp" line="+64"/>
         <source>Stop</source>
         <translation>Остановить</translation>
     </message>

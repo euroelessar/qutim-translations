@@ -42,7 +42,7 @@
 <context>
     <name>Affiliation</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+553"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafields.cpp" line="+563"/>
         <source>Alumni Org.</source>
         <translatorcomment>выпускники???</translatorcomment>
         <translation></translation>
@@ -184,18 +184,18 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+47"/>
+        <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+56"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Нигматуллин Руслан</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+42"/>
+        <location filename="../../protocols/oscar/plugins/identify/clientidentify.cpp" line="+52"/>
         <source>Alexey Ignatiev</source>
         <translation>Игнатьев Алексей</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+207"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+217"/>
         <location filename="../../protocols/oscar/src/oscarplugin.cpp" line="+3"/>
         <source>Alexey Prokhin</source>
         <translation>Прохин Алексей</translation>
@@ -211,7 +211,7 @@
 <context>
     <name>Codec</name>
     <message>
-        <location filename="../../protocols/oscar/src/ui/icqmainsettings.cpp" line="+41"/>
+        <location filename="../../protocols/oscar/src/ui/icqmainsettings.cpp" line="+51"/>
         <source>System</source>
         <translation>Системная</translation>
     </message>
@@ -219,7 +219,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../protocols/oscar/src/connection.cpp" line="+298"/>
+        <location filename="../../protocols/oscar/src/connection.cpp" line="+307"/>
         <source>Invalid nick or password</source>
         <translation>Неверный ник или пароль</translation>
     </message>
@@ -410,7 +410,7 @@
     <message>
         <location line="+3"/>
         <source>Avatar</source>
-        <translation type="unfinished">Аватар</translation>
+        <translation>Аватар</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -557,7 +557,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+127"/>
+        <location filename="../../protocols/oscar/src/icqcontact.cpp" line="+136"/>
         <source>General</source>
         <translation>Главные</translation>
     </message>
@@ -582,7 +582,7 @@
         <translation>Зарегистрирован</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+157"/>
+        <location filename="../../protocols/oscar/src/privacylists.cpp" line="+181"/>
         <source>Add to visible list</source>
         <translation>Добавить в список видимости</translation>
     </message>
@@ -616,14 +616,14 @@
         <translation type="obsolete">Возможный клиент</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/authorization.cpp" line="+20"/>
+        <location filename="../../protocols/oscar/src/authorization.cpp" line="+44"/>
         <source>Reask authorization</source>
-        <translation type="unfinished">Перезапросить авторизацию</translation>
+        <translation>Перезапросить авторизацию</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ask authorization</source>
-        <translation type="unfinished">Запроcить авторизацию</translation>
+        <translation>Запроcить авторизацию</translation>
     </message>
     <message>
         <location line="+59"/>
@@ -644,7 +644,7 @@
 <context>
     <name>ContactSearch</name>
     <message>
-        <location filename="../../protocols/oscar/src/contactsearch.cpp" line="+72"/>
+        <location filename="../../protocols/oscar/src/contactsearch.cpp" line="+96"/>
         <source>UIN</source>
         <translation>UIN (номер ICQ)</translation>
     </message>
@@ -1900,7 +1900,7 @@
 <context>
     <name>FeedbagError</name>
     <message>
-        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+116"/>
+        <location filename="../../protocols/oscar/src/feedbag.cpp" line="+126"/>
         <source>No error</source>
         <translation>Нет ошибок</translation>
     </message>
@@ -2006,7 +2006,7 @@
     <message>
         <location line="+26"/>
         <source>Use SSL authorization (experimental)</source>
-        <translation type="unfinished">Использовать SSL авторизацию (экспериментальная функция)</translation>
+        <translation>Использовать SSL авторизацию (экспериментальная функция)</translation>
     </message>
     <message>
         <source>Use ssl (experimental)</source>
@@ -2286,7 +2286,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+1"/>
         <source>Mail Order Catalog</source>
-        <translation type="unfinished">Почтовые заказы</translation>
+        <translation>Почтовые заказы</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2327,7 +2327,7 @@ p, li { white-space: pre-wrap; }
         <location line="+1"/>
         <source>Parties</source>
         <translatorcomment>пати?</translatorcomment>
-        <translation type="unfinished">Вечеринки</translation>
+        <translation>Вечеринки</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2986,7 +2986,7 @@ p, li { white-space: pre-wrap; }
         <translation>Прошлое</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metafield.cpp" line="+23"/>
+        <location filename="../../protocols/oscar/src/metainfo/metafield.cpp" line="+33"/>
         <source>Not specified</source>
         <translation>Не указан</translation>
     </message>
@@ -3641,7 +3641,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../protocols/oscar/src/icqprotocol.cpp" line="+63"/>
+        <location filename="../../protocols/oscar/src/icqprotocol.cpp" line="+72"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
@@ -3654,7 +3654,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarstatus.cpp" line="+38"/>
+        <location filename="../../protocols/oscar/src/oscarstatus.cpp" line="+48"/>
         <source>Busy</source>
         <translation>Занят</translation>
     </message>
@@ -3974,7 +3974,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Метазапрос отменен пользователем</translation>
     </message>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/abstractmetarequest.cpp" line="+67"/>
+        <location filename="../../protocols/oscar/src/metainfo/abstractmetarequest.cpp" line="+77"/>
         <source>The metarequest cancelled by user</source>
         <translation>Метазапрос отменен пользователем</translation>
     </message>
@@ -3989,7 +3989,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../protocols/oscar/src/authorization.cpp" line="-70"/>
         <source>Grant authorization</source>
-        <translation type="unfinished">Авторизовать</translation>
+        <translation>Авторизовать</translation>
     </message>
 </context>
 <context>
@@ -4009,7 +4009,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::FullInfoMetaRequest</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/infometarequest.cpp" line="+282"/>
+        <location filename="../../protocols/oscar/src/metainfo/infometarequest.cpp" line="+292"/>
         <source>Incorrect format of the metarequest</source>
         <translatorcomment>metarequest - спросить что это такое</translatorcomment>
         <translation>Неверный формат метазапроса</translation>
@@ -4018,9 +4018,9 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::IcqAccountMainSettings</name>
     <message>
-        <location filename="../../protocols/oscar/src/ui/icqaccountmainsettings.cpp" line="+30"/>
+        <location filename="../../protocols/oscar/src/ui/icqaccountmainsettings.cpp" line="+54"/>
         <source>Use SSL (experimental)</source>
-        <translation type="unfinished">Использовать SSL (эксперементально)</translation>
+        <translation>Использовать SSL (эксперементально)</translation>
     </message>
 </context>
 <context>
@@ -4035,7 +4035,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../protocols/oscar/src/ui/icqmainsettings.cpp" line="+105"/>
         <source>General</source>
-        <translation type="unfinished">Главные</translation>
+        <translation>Главные</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4050,13 +4050,13 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+2"/>
         <source>Support AIM contacts</source>
-        <translation type="unfinished">Поддержка AIM контактов</translation>
+        <translation>Поддержка AIM контактов</translation>
     </message>
 </context>
 <context>
     <name>qutim_sdk_0_3::oscar::Md5Login</name>
     <message>
-        <location filename="../../protocols/oscar/src/md5login.cpp" line="+83"/>
+        <location filename="../../protocols/oscar/src/md5login.cpp" line="+92"/>
         <source>No IP addresses were found for the host &apos;%1&apos;</source>
         <translation>Не найдено соответствие IP адреса серверу &apos;%1&apos;</translation>
     </message>
@@ -4064,7 +4064,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::MetaInfo</name>
     <message>
-        <location filename="../../protocols/oscar/src/metainfo/metainfo.cpp" line="+68"/>
+        <location filename="../../protocols/oscar/src/metainfo/metainfo.cpp" line="+78"/>
         <source>Incorrect format of the metarequest</source>
         <translatorcomment> metarequest - спросить что это такое</translatorcomment>
         <translation>Неверный формат метазапроса</translation>
@@ -4073,7 +4073,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::OftConnection</name>
     <message>
-        <location filename="../../protocols/oscar/src/oscarfiletransfer.cpp" line="+861"/>
+        <location filename="../../protocols/oscar/src/oscarfiletransfer.cpp" line="+871"/>
         <source>Could not open %1</source>
         <translation>Не удалось открыть %1</translation>
     </message>
@@ -4095,7 +4095,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-801"/>
         <source>The file transfer proxy server is not available</source>
-        <translation type="unfinished">Файлопрокси сервер не доступен</translation>
+        <translation>Файлопрокси сервер не доступен</translation>
     </message>
 </context>
 <context>
@@ -4108,17 +4108,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+3"/>
         <source>Always use file transfer proxy</source>
-        <translation type="unfinished">Всегда использовать файлопрокси</translation>
+        <translation>Всегда использовать файлопрокси</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Accept incoming connections on any port</source>
-        <translation type="unfinished">Принимать входящие соединения на любом порту</translation>
+        <translation>Принимать входящие соединения на любом порту</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Local ports</source>
-        <translation type="unfinished">Локальный порт(ы)</translation>
+        <translation>Локальный порт(ы)</translation>
     </message>
 </context>
 <context>
@@ -4142,7 +4142,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusHandler</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+264"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatus.cpp" line="+269"/>
         <source>X-Status</source>
         <translation>X-Статус</translation>
     </message>
@@ -4155,9 +4155,9 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusSettings</name>
     <message>
-        <location filename="../../protocols/oscar/plugins/xstatus/xstatussettings.cpp" line="+29"/>
+        <location filename="../../protocols/oscar/plugins/xstatus/xstatussettings.cpp" line="+39"/>
         <source>Extended status</source>
-        <translation type="unfinished">Расширенный статус</translation>
+        <translation>Расширенный статус</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -4170,7 +4170,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../protocols/oscar/plugins/xstatus/statusdialog.ui" line="+14"/>
         <source>Custom status</source>
-        <translation type="unfinished">Расширенный статус</translation>
+        <translation>Расширенный статус</translation>
     </message>
     <message>
         <source>Choose</source>
@@ -4184,7 +4184,7 @@ p, li { white-space: pre-wrap; }
         <location line="+85"/>
         <source>Set birthday/happy flag</source>
         <translatorcomment>да, да, я когда то сидел на квипе, но потом перешел к шарикам миранды</translatorcomment>
-        <translation type="unfinished">Шарик День рождения или празную</translation>
+        <translation>Шарик День рождения или празную</translation>
     </message>
 </context>
 </TS>

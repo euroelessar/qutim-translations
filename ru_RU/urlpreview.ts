@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../plugins/urlpreview/src/urlpreview.cpp" line="+36"/>
+        <location filename="../../plugins/urlpreview/src/urlpreview.cpp" line="+46"/>
         <source>Alexander Kazarin</source>
         <translation>Казарин Александр</translation>
     </message>
@@ -50,7 +50,7 @@
 <context>
     <name>UrlPreview::UrlHandler</name>
     <message>
-        <location filename="../../plugins/urlpreview/src/messagehandler.cpp" line="+54"/>
+        <location filename="../../plugins/urlpreview/src/messagehandler.cpp" line="+64"/>
         <source>URL Preview</source>
         <translation>Предпросмотр URL</translation>
     </message>
@@ -60,7 +60,7 @@
         <translation type="unfinished">байт</translation>
     </message>
     <message>
-        <location line="+168"/>
+        <location line="+165"/>
         <source>YouTube video</source>
         <translation type="unfinished">YouTube видео</translation>
     </message>
