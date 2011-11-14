@@ -959,7 +959,7 @@
 <context>
     <name>Jabber::JAccount</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/account/jaccount.cpp" line="+229"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/account/jaccount.cpp" line="+231"/>
         <source>qutIM</source>
         <comment>Local qutIM&apos;s name</comment>
         <translation>qutIM</translation>
@@ -1191,7 +1191,7 @@
         <translation>Въведете причина за забраната на %1</translation>
     </message>
     <message>
-        <location line="+236"/>
+        <location line="+267"/>
         <source>Possible client</source>
         <translation>Вероятен клиент</translation>
     </message>
@@ -2243,7 +2243,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim/protocols/jabber/src/protocol/jprotocol.cpp" line="-324"/>
+        <location filename="../../qutim/protocols/jabber/src/protocol/jprotocol.cpp" line="-355"/>
         <source>Main settings</source>
         <translation>Основни настройки</translation>
     </message>

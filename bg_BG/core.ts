@@ -266,7 +266,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+447"/>
+        <location filename="../../qutim/core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+437"/>
         <source>Auto</source>
         <translation>Автоматично</translation>
     </message>
@@ -832,7 +832,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ContactListSettings</name>
     <message>
-        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp" line="+118"/>
+        <location filename="../../qutim/core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp" line="+120"/>
         <source>Model</source>
         <translation>Модел</translation>
     </message>
@@ -1150,7 +1150,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileCreationPage</name>
     <message>
-        <location filename="../../qutim/core/src/profilecreationpage.cpp" line="+153"/>
+        <location filename="../../qutim/core/src/widgets/profilecreationpage.cpp" line="+153"/>
         <source>Error</source>
         <translation>Грешка</translation>
     </message>
@@ -1184,33 +1184,28 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileDialog</name>
     <message>
-        <location filename="../../qutim/core/src/profiledialog.cpp" line="+160"/>
         <source>Password is mismatched.</source>
-        <translation>Сгрешена парола.</translation>
+        <translation type="obsolete">Сгрешена парола.</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Crypto service is unknown.</source>
-        <translation>Неизвестна услуга за шифроване.</translation>
+        <translation type="obsolete">Неизвестна услуга за шифроване.</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Wrong profile id.</source>
-        <translation>Сгрешен иденификатор на профил.</translation>
+        <translation type="obsolete">Сгрешен иденификатор на профил.</translation>
     </message>
     <message>
-        <location line="+3"/>
-        <location line="+30"/>
+        <location filename="../../qutim/core/src/widgets/profiledialog.cpp" line="+117"/>
         <source>Error while loading</source>
         <translation>Грешка при зареждане</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Can&apos;t open file with hash</source>
-        <translation>Невъзможно е отварянето на хеша</translation>
+        <translation type="obsolete">Невъзможно е отварянето на хеша</translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+23"/>
         <source>Enter name</source>
         <translation>Въведете име</translation>
     </message>
@@ -1557,7 +1552,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SubmitPage</name>
     <message>
-        <location filename="../../qutim/core/src/submitpage.cpp" line="+45"/>
+        <location filename="../../qutim/core/src/widgets/submitpage.cpp" line="+45"/>
         <source>Congratulations</source>
         <translation>Поздравления</translation>
     </message>
@@ -2419,7 +2414,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProfileCreationPage</name>
     <message>
-        <location filename="../../qutim/core/src/profilecreationpage.ui" line="+14"/>
+        <location filename="../../qutim/core/src/widgets/profilecreationpage.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Профил</translation>
     </message>
@@ -2484,7 +2479,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProfileDialog</name>
     <message>
-        <location filename="../../qutim/core/src/profiledialog.ui" line="+53"/>
+        <location filename="../../qutim/core/src/widgets/profiledialog.ui" line="+53"/>
         <source>Profiles</source>
         <translation>Профили</translation>
     </message>
@@ -3777,6 +3772,29 @@ en</source>
  %1</source>
         <translation>Неуспешно инициализиране на добавка: 
  %1</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::Profile</name>
+    <message>
+        <location filename="../../qutim/core/libqutim/profile.cpp" line="+123"/>
+        <source>Password is mismatched.</source>
+        <translation>Сгрешена парола.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Crypto service is unknown.</source>
+        <translation>Неизвестна услуга за шифроване.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Wrong profile id.</source>
+        <translation>Сгрешен иденификатор на профил.</translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Can&apos;t open file with hash</source>
+        <translation>Невъзможно е отварянето на хеша</translation>
     </message>
 </context>
 <context>
