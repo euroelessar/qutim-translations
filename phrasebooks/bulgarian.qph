@@ -3204,4 +3204,28 @@
     <source>Evgeniy Degtyarev</source>
     <target>Евгений Дегтярев</target>
 </phrase>
+<phrase>
+    <source>Developers</source>
+    <target>Разработчици</target>
+</phrase>
+<phrase>
+    <source>Translators</source>
+    <target>Преводачи</target>
+</phrase>
+<phrase>
+    <source>License</source>
+    <target>Лиценз</target>
+</phrase>
+<phrase>
+    <source>Recent</source>
+    <target>Последни</target>
+</phrase>
+<phrase>
+    <source>Auto Join</source>
+    <target>Автоматично присъединяване</target>
+</phrase>
+<phrase>
+    <source>Password</source>
+    <target>Парола</target>
+</phrase>
 </QPH>
