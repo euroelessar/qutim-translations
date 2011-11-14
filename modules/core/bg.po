@@ -3505,25 +3505,21 @@ msgstr ""
 " %1"
 
 #: ../../../core/libqutim/profile.cpp:123
-#, fuzzy
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Password is mismatched."
 msgstr "Сгрешена парола."
 
 #: ../../../core/libqutim/profile.cpp:125
-#, fuzzy
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Crypto service is unknown."
 msgstr "Неизвестна услуга за шифроване."
 
 #: ../../../core/libqutim/profile.cpp:127
-#, fuzzy
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Wrong profile id."
 msgstr "Сгрешен иденификатор на профил."
 
 #: ../../../core/libqutim/profile.cpp:160
-#, fuzzy
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Can't open file with hash"
 msgstr "Невъзможно е отварянето на хеша"

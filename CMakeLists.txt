@@ -19,29 +19,23 @@ include(MacroEnsureVersion)
 include(QutIMMacros)
 find_package(QutIM REQUIRED)
 
-file(GLOB LANGUAGES RELATIVE "${CMAKE_CURRENT_SOURCE_DIR}" "${CMAKE_CURRENT_SOURCE_DIR}/*/*.ts" )
 set(LANG_DIR "${CMAKE_CURRENT_BINARY_DIR}/languages")
 file(MAKE_DIRECTORY ${LANG_DIR} )
+add_custom_target( translations ALL echo DEPENDS ${TRANSLATIONS_BINARY} )
 
-ADD_CUSTOM_TARGET(translations ALL echo
-  DEPENDS ${TRANSLATIONS_BINARY}
-  )
-
-foreach(LANGUAGE ${LANGUAGES} )
-	string(REPLACE ".ts" "" LANGUAGE_NAME ${LANGUAGE})
-	string(REGEX REPLACE "/*\\\\*[a-zA-Z0-9_-]+\\.ts" "" LANGUAGE_DIRECTORY_NAME ${LANGUAGE})
-	file(MAKE_DIRECTORY "${LANG_DIR}/${LANGUAGE_DIRECTORY_NAME}")
-
-	set(TS ${CMAKE_CURRENT_SOURCE_DIR}/${LANGUAGE})
-	set(QM ${LANG_DIR}/${LANGUAGE_NAME}.qm)
-	set(TRANSLATIONS ${TRANSLATIONS} ${TS})
-	ADD_CUSTOM_COMMAND(
+set( basePath "${CMAKE_CURRENT_SOURCE_DIR}/modules" )
+file(GLOB MODULES RELATIVE "${basePath}" "${basePath}/*/*.po" )
+foreach( moduleFile ${MODULES} )
+	string( REGEX REPLACE "/.*" "" module ${moduleFile} )
+	string( REGEX REPLACE ".*/(.*)\\.po" "\\1" language ${moduleFile} )
+	message( "${moduleFile} ${module} ${language}" )
+	file(MAKE_DIRECTORY "${LANG_DIR}/${language}")
+	add_custom_command(
 		TARGET    translations
-		DEPENDS   ${TS}
+		DEPENDS   ${poFile}
 		COMMAND   ${QT_LRELEASE_EXECUTABLE}
-		ARGS      -silent "${CMAKE_CURRENT_SOURCE_DIR}/${LANGUAGE}" -qm ${QM}
+		ARGS      -silent "${basePath}/${moduleFile}" -qm "${LANG_DIR}/${language}/${module}.qm"
 	)
-	set(TRANSLATIONS_BINARY ${TRANSLATIONS_BINARY} ${QM})
-endforeach(LANGUAGE)
+endforeach()
 
 QUTIM_ADD_ARTWORK(${LANG_DIR})
