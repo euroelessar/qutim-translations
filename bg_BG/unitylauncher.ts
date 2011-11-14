@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim/plugins/unitylauncher/src/ulplugin.cpp" line="+26"/>
+        <location filename="../../qutim/plugins/unitylauncher/src/ulplugin.cpp" line="+37"/>
         <source>Vsevolod Velichko</source>
         <translation>Всеволод Величко</translation>
     </message>

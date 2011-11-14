@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim/plugins/kdeintegration/src/kdeintegration.cpp" line="+72"/>
+        <location filename="../../qutim/plugins/kdeintegration/src/kdeintegration.cpp" line="+96"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
@@ -17,7 +17,7 @@
 <context>
     <name>Core</name>
     <message>
-        <location filename="../../qutim/plugins/kdeintegration/src/aboutapp/kdeaboutappdialog.cpp" line="+36"/>
+        <location filename="../../qutim/plugins/kdeintegration/src/aboutapp/kdeaboutappdialog.cpp" line="+45"/>
         <source>About qutIM</source>
         <translation>За qutIM</translation>
     </message>
@@ -131,7 +131,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim/plugins/kdeintegration/src/speller/kdespellerlayer.cpp" line="+29"/>
+        <location filename="../../qutim/plugins/kdeintegration/src/speller/kdespellerlayer.cpp" line="+39"/>
         <source>Spell checker</source>
         <translation>Проверка на правописа</translation>
     </message>

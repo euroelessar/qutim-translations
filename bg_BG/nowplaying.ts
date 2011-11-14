@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim/plugins/nowplaying/src/nowplaying.cpp" line="+33"/>
+        <location filename="../../qutim/plugins/nowplaying/src/nowplaying.cpp" line="+57"/>
         <source>Kazlauskas Ian</source>
         <translation>Ян Казлаускас</translation>
     </message>
@@ -249,7 +249,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qutim_sdk_0_3::nowplaying::SettingsUI</name>
     <message>
-        <location filename="../../qutim/plugins/nowplaying/src/settingsui.cpp" line="+53"/>
+        <location filename="../../qutim/plugins/nowplaying/src/settingsui.cpp" line="+77"/>
         <source>No player</source>
         <translation>Без плейър</translation>
     </message>

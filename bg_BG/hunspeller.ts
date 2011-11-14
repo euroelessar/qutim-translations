@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim/plugins/hunspeller/src/hunspellplugin.cpp" line="+26"/>
+        <location filename="../../qutim/plugins/hunspeller/src/hunspellplugin.cpp" line="+36"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>HunSpellSettings</name>
     <message>
-        <location filename="../../qutim/plugins/hunspeller/src/hunspellsettings.cpp" line="+11"/>
+        <location filename="../../qutim/plugins/hunspeller/src/hunspellsettings.cpp" line="+35"/>
         <source>Language</source>
         <translation>Език</translation>
     </message>
@@ -35,7 +35,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim/plugins/hunspeller/src/hunspellchecker.cpp" line="+50"/>
+        <location filename="../../qutim/plugins/hunspeller/src/hunspellchecker.cpp" line="+53"/>
         <source>Spell checker</source>
         <translation>Проверка на правописа</translation>
     </message>

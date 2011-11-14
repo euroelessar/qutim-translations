@@ -27,7 +27,7 @@
 <context>
     <name>Affiliation</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/metainfo/metafields.cpp" line="+553"/>
+        <location filename="../../qutim/protocols/oscar/src/metainfo/metafields.cpp" line="+563"/>
         <source>Alumni Org.</source>
         <translation>Алумни организации</translation>
     </message>
@@ -168,18 +168,18 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/oscarplugin.cpp" line="+47"/>
+        <location filename="../../qutim/protocols/oscar/src/oscarplugin.cpp" line="+56"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/oscar/plugins/identify/clientidentify.cpp" line="+42"/>
+        <location filename="../../qutim/protocols/oscar/plugins/identify/clientidentify.cpp" line="+52"/>
         <source>Alexey Ignatiev</source>
         <translation>Алексей Игнатиев</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../../qutim/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+207"/>
+        <location filename="../../qutim/protocols/oscar/plugins/xstatus/xstatus.cpp" line="+217"/>
         <location filename="../../qutim/protocols/oscar/src/oscarplugin.cpp" line="+3"/>
         <source>Alexey Prokhin</source>
         <translation>Алексей Прохин</translation>
@@ -188,7 +188,7 @@
 <context>
     <name>Codec</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/ui/icqmainsettings.cpp" line="+41"/>
+        <location filename="../../qutim/protocols/oscar/src/ui/icqmainsettings.cpp" line="+51"/>
         <source>System</source>
         <translation>Системна</translation>
     </message>
@@ -196,7 +196,7 @@
 <context>
     <name>ConnectionError</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/connection.cpp" line="+298"/>
+        <location filename="../../qutim/protocols/oscar/src/connection.cpp" line="+307"/>
         <source>Invalid nick or password</source>
         <translation>Невалидни псевдоним или парола</translation>
     </message>
@@ -519,7 +519,7 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/privacylists.cpp" line="+157"/>
+        <location filename="../../qutim/protocols/oscar/src/privacylists.cpp" line="+181"/>
         <source>Add to visible list</source>
         <translation>Добавяне в списък &quot;Видим за&quot;</translation>
     </message>
@@ -549,7 +549,7 @@
         <translation>Премахване от списък &quot;Пренебрегнати&quot;</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/icqcontact.cpp" line="+127"/>
+        <location filename="../../qutim/protocols/oscar/src/icqcontact.cpp" line="+136"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
@@ -574,7 +574,7 @@
         <translation>Регистрация от</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/authorization.cpp" line="+20"/>
+        <location filename="../../qutim/protocols/oscar/src/authorization.cpp" line="+44"/>
         <source>Reask authorization</source>
         <translation>Повторна заявка за удостоверяване</translation>
     </message>
@@ -602,7 +602,7 @@
 <context>
     <name>ContactSearch</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/contactsearch.cpp" line="+72"/>
+        <location filename="../../qutim/protocols/oscar/src/contactsearch.cpp" line="+96"/>
         <source>UIN</source>
         <translation>UIN</translation>
     </message>
@@ -1853,7 +1853,7 @@
 <context>
     <name>FeedbagError</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/feedbag.cpp" line="+116"/>
+        <location filename="../../qutim/protocols/oscar/src/feedbag.cpp" line="+126"/>
         <source>No error</source>
         <translation>Без грешка</translation>
     </message>
@@ -2810,7 +2810,7 @@
         <translation>Минало</translation>
     </message>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/metainfo/metafield.cpp" line="+23"/>
+        <location filename="../../qutim/protocols/oscar/src/metainfo/metafield.cpp" line="+33"/>
         <source>Not specified</source>
         <translation>Не е зададено</translation>
     </message>
@@ -3431,7 +3431,7 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/icqprotocol.cpp" line="+63"/>
+        <location filename="../../qutim/protocols/oscar/src/icqprotocol.cpp" line="+72"/>
         <source>Icq</source>
         <translation>ICQ</translation>
     </message>
@@ -3444,7 +3444,7 @@
 <context>
     <name>Status</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/oscarstatus.cpp" line="+38"/>
+        <location filename="../../qutim/protocols/oscar/src/oscarstatus.cpp" line="+48"/>
         <source>Busy</source>
         <translation>Зает</translation>
     </message>
@@ -3750,7 +3750,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::AbstractMetaRequest</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/metainfo/abstractmetarequest.cpp" line="+67"/>
+        <location filename="../../qutim/protocols/oscar/src/metainfo/abstractmetarequest.cpp" line="+77"/>
         <source>The metarequest cancelled by user</source>
         <translation>Мета-заявката бе отказана от потребителя</translation>
     </message>
@@ -3785,7 +3785,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::FullInfoMetaRequest</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/metainfo/infometarequest.cpp" line="+282"/>
+        <location filename="../../qutim/protocols/oscar/src/metainfo/infometarequest.cpp" line="+292"/>
         <source>Incorrect format of the metarequest</source>
         <translation>Неверен формат на мета-заявката</translation>
     </message>
@@ -3793,7 +3793,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::IcqAccountMainSettings</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/ui/icqaccountmainsettings.cpp" line="+30"/>
+        <location filename="../../qutim/protocols/oscar/src/ui/icqaccountmainsettings.cpp" line="+54"/>
         <source>Use SSL (experimental)</source>
         <translation>Използване на SSL (експериментално)</translation>
     </message>
@@ -3824,7 +3824,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::Md5Login</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/md5login.cpp" line="+83"/>
+        <location filename="../../qutim/protocols/oscar/src/md5login.cpp" line="+92"/>
         <source>No IP addresses were found for the host &apos;%1&apos;</source>
         <translation>Не са открити IP адреси за хоста &apos;%1&apos;</translation>
     </message>
@@ -3832,7 +3832,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::MetaInfo</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/metainfo/metainfo.cpp" line="+68"/>
+        <location filename="../../qutim/protocols/oscar/src/metainfo/metainfo.cpp" line="+78"/>
         <source>Incorrect format of the metarequest</source>
         <translation>Неверен формат на мета-заявката</translation>
     </message>
@@ -3840,7 +3840,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::OftConnection</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/src/oscarfiletransfer.cpp" line="+861"/>
+        <location filename="../../qutim/protocols/oscar/src/oscarfiletransfer.cpp" line="+871"/>
         <source>Could not open %1</source>
         <translation>%1 не може да бъде отворен</translation>
     </message>
@@ -3918,7 +3918,7 @@
 <context>
     <name>qutim_sdk_0_3::oscar::XStatusSettings</name>
     <message>
-        <location filename="../../qutim/protocols/oscar/plugins/xstatus/xstatussettings.cpp" line="+29"/>
+        <location filename="../../qutim/protocols/oscar/plugins/xstatus/xstatussettings.cpp" line="+39"/>
         <source>Extended status</source>
         <translation>Разширен статус</translation>
     </message>

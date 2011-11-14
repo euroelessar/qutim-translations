@@ -39,7 +39,7 @@
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../../qutim/plugins/plugman/tools/packgen/choosecategorypage.cpp" line="+42"/>
+        <location filename="../../qutim/plugins/plugman/tools/packgen/choosecategorypage.cpp" line="+66"/>
         <source>Select art</source>
         <translation>Избор на украса</translation>
     </message>
@@ -210,7 +210,7 @@
 <context>
     <name>PackageEntryWidget</name>
     <message>
-        <location filename="../../qutim/plugins/plugman/src/packageentrywidget.cpp" line="+90"/>
+        <location filename="../../qutim/plugins/plugman/src/packageentrywidget.cpp" line="+99"/>
         <location line="+3"/>
         <location line="+3"/>
         <source>By &lt;i&gt;%1&lt;/i&gt;</source>
@@ -245,7 +245,7 @@
 <context>
     <name>PackageManager</name>
     <message>
-        <location filename="../../qutim/plugins/plugman/src/plugman.cpp" line="+40"/>
+        <location filename="../../qutim/plugins/plugman/src/plugman.cpp" line="+64"/>
         <source>Manage packages</source>
         <translation>Управление на пакети</translation>
     </message>
@@ -266,7 +266,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../qutim/plugins/plugman/oldsrc/plugpackage.cpp" line="+35"/>
+        <location filename="../../qutim/plugins/plugman/oldsrc/plugpackage.cpp" line="+59"/>
         <source>Package name is empty</source>
         <translatorcomment> </translatorcomment>
         <translation>Името на пакета е празно</translation>
@@ -348,7 +348,7 @@
 <context>
     <name>plugDownloader</name>
     <message>
-        <location filename="../../qutim/plugins/plugman/oldsrc/plugdownloader.cpp" line="+92"/>
+        <location filename="../../qutim/plugins/plugman/oldsrc/plugdownloader.cpp" line="+101"/>
         <source>bytes/sec</source>
         <translation>байт/сек</translation>
     </message>
@@ -371,7 +371,7 @@
 <context>
     <name>plugInstaller</name>
     <message>
-        <location filename="../../qutim/plugins/plugman/oldsrc/pluginstaller.cpp" line="+60"/>
+        <location filename="../../qutim/plugins/plugman/oldsrc/pluginstaller.cpp" line="+69"/>
         <source>Need restart!</source>
         <translation>Изисква се рестартиране!</translation>
     </message>
@@ -423,7 +423,7 @@
 <context>
     <name>plugItemDelegate</name>
     <message>
-        <location filename="../../qutim/plugins/plugman/oldsrc/plugitemdelegate.cpp" line="+68"/>
+        <location filename="../../qutim/plugins/plugman/oldsrc/plugitemdelegate.cpp" line="+77"/>
         <source>isUpgradable</source>
         <translation>за надграждане</translation>
     </message>
@@ -466,7 +466,7 @@
 <context>
     <name>plugManager</name>
     <message>
-        <location filename="../../qutim/plugins/plugman/oldsrc/plugmanager.cpp" line="+45"/>
+        <location filename="../../qutim/plugins/plugman/oldsrc/plugmanager.cpp" line="+54"/>
         <source>Actions</source>
         <translation>Действия</translation>
     </message>
@@ -489,7 +489,7 @@
 <context>
     <name>plugPackageModel</name>
     <message>
-        <location filename="../../qutim/plugins/plugman/oldsrc/plugpackagemodel.cpp" line="+98"/>
+        <location filename="../../qutim/plugins/plugman/oldsrc/plugpackagemodel.cpp" line="+122"/>
         <source>Packages</source>
         <translation>Пакети</translation>
     </message>
@@ -497,7 +497,7 @@
 <context>
     <name>plugXMLHandler</name>
     <message>
-        <location filename="../../qutim/plugins/plugman/oldsrc/plugxmlhandler.cpp" line="+118"/>
+        <location filename="../../qutim/plugins/plugman/oldsrc/plugxmlhandler.cpp" line="+127"/>
         <location line="+106"/>
         <location line="+15"/>
         <source>Unable to open file</source>
@@ -607,7 +607,7 @@ p, li { white-space: pre-wrap; }
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Droid Serif&apos;; font-size:10pt;&quot;&gt;2008-2009&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../../qutim/plugins/plugman/oldsrc/plugmansettings.cpp" line="+18"/>
+        <location filename="../../qutim/plugins/plugman/oldsrc/plugmansettings.cpp" line="+42"/>
         <source>Name</source>
         <translation>Име</translation>
     </message>

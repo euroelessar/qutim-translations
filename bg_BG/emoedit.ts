@@ -4,7 +4,7 @@
 <context>
     <name>Author</name>
     <message>
-        <location filename="../../qutim/plugins/emoedit/src/emoeditplugin.cpp" line="+51"/>
+        <location filename="../../qutim/plugins/emoedit/src/emoeditplugin.cpp" line="+60"/>
         <source>Ruslan Nigmatullin</source>
         <translation>Руслан Нигматуллин</translation>
     </message>

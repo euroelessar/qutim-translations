@@ -4,7 +4,7 @@
 <context>
     <name>Antispam</name>
     <message>
-        <location filename="../../qutim/plugins/antispam/src/antispamplugin.cpp" line="+18"/>
+        <location filename="../../qutim/plugins/antispam/src/antispamplugin.cpp" line="+42"/>
         <source>Antispam</source>
         <translation>Защита от SPAM</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>Antispam::Handler</name>
     <message>
-        <location filename="../../qutim/plugins/antispam/src/handler.cpp" line="+41"/>
+        <location filename="../../qutim/plugins/antispam/src/handler.cpp" line="+51"/>
         <source>Beer, wine, vodka, champagne: after which drink in this sequence I should stop?</source>
         <translation>Бира, вино, водка, шампанско: след кое питие от поредицата трябва да спра?</translation>
     </message>
@@ -60,7 +60,7 @@
         <translation>Съобщение при верен отговор:</translation>
     </message>
     <message>
-        <location filename="../../qutim/plugins/antispam/src/settingswidget.cpp" line="+47"/>
+        <location filename="../../qutim/plugins/antispam/src/settingswidget.cpp" line="+57"/>
         <source>Beer, wine, vodka, champagne: after which drink in this sequence I should stop?</source>
         <translation>Бира, вино, водка, шампанско: след кое питие от поредицата трябва да спра?</translation>
     </message>

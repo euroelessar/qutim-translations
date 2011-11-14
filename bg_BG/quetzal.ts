@@ -4,7 +4,7 @@
 <context>
     <name>Plugin</name>
     <message>
-        <location filename="../../qutim/protocols/quetzal/src/quetzalplugin.cpp" line="+650"/>
+        <location filename="../../qutim/protocols/quetzal/src/quetzalplugin.cpp" line="+660"/>
         <source>Quetzal</source>
         <translation>Quetzal</translation>
     </message>
@@ -19,7 +19,7 @@
 <context>
     <name>QuetzalAccountWizardPage</name>
     <message>
-        <location filename="../../qutim/protocols/quetzal/src/quetzalaccountwizard.cpp" line="+37"/>
+        <location filename="../../qutim/protocols/quetzal/src/quetzalaccountwizard.cpp" line="+61"/>
         <source>Username</source>
         <translation>Потребителско име</translation>
     </message>
@@ -85,7 +85,7 @@ Complete account creating by clicking on Finish button</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../../qutim/protocols/quetzal/src/quetzalprotocol.cpp" line="+87"/>
+        <location filename="../../qutim/protocols/quetzal/src/quetzalprotocol.cpp" line="+97"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
