@@ -1,0 +1,3486 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../core/libqutim/account.cpp:145
+msgctxt "Account|"
+msgid "Authorization failed"
+msgstr ""
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:69
+msgctxt "Account|"
+msgid "Add new account"
+msgstr ""
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:70
+msgctxt "Account|"
+msgid "Just add or create new account"
+msgstr ""
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:75
+msgctxt "Account|"
+msgid "Accounts"
+msgstr ""
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.ui:14
+msgctxt "AccountCreatorList|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorprotocols.ui:14
+msgctxt "AccountCreatorProtocols|"
+msgid "WizardPage"
+msgstr ""
+
+#: ../../../core/libqutim/actiontoolbar.cpp:60
+msgctxt "ActionToolBar|"
+msgid "Small"
+msgstr ""
+
+#: ../../../core/libqutim/actiontoolbar.cpp:65
+#: ../../../core/libqutim/actiontoolbar.cpp:69
+msgctxt "ActionToolBar|"
+msgid "Default"
+msgstr ""
+
+#: ../../../core/libqutim/actiontoolbar.cpp:73
+msgctxt "ActionToolBar|"
+msgid "Big"
+msgstr ""
+
+#: ../../../core/libqutim/actiontoolbar.cpp:76
+msgctxt "ActionToolBar|"
+msgid "Huge"
+msgstr ""
+
+#: ../../../core/libqutim/actiontoolbar.cpp:85
+msgctxt "ActionToolBar|"
+msgid "Only display the icon"
+msgstr ""
+
+#: ../../../core/libqutim/actiontoolbar.cpp:87
+msgctxt "ActionToolBar|"
+msgid "Only display the text"
+msgstr ""
+
+#: ../../../core/libqutim/actiontoolbar.cpp:89
+msgctxt "ActionToolBar|"
+msgid "The text appears beside the icon"
+msgstr ""
+
+#: ../../../core/libqutim/actiontoolbar.cpp:91
+msgctxt "ActionToolBar|"
+msgid "The text appears under the icon"
+msgstr ""
+
+#: ../../../core/libqutim/actiontoolbar.cpp:93
+msgctxt "ActionToolBar|"
+msgid "Follow the style"
+msgstr ""
+
+#: ../../../core/src/corelayers/addcontactdlg/addcontact.ui:14
+#: ../../../core/src/corelayers/addcontactdlg/addcontact.cpp:69
+msgctxt "AddContact|"
+msgid "Add contact"
+msgstr ""
+
+#: ../../../core/src/corelayers/addcontactdlg/addcontact.ui:47
+msgctxt "AddContact|"
+msgid "TextLabel"
+msgstr ""
+
+#: ../../../core/src/corelayers/addcontactdlg/addcontact.ui:57
+msgctxt "AddContact|"
+msgid "Name:"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:59
+msgctxt "AddContact|"
+msgid "Remove from roster"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:60
+msgctxt "AddContact|"
+msgid "Add to roster"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:106
+msgctxt "AddContact|"
+msgid "Unavailable"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:226
+msgctxt "AddContact|"
+msgid "Remove contact"
+msgstr ""
+
+#: ../../../core/src/corelayers/authdialog/authdialog.ui:14
+msgctxt "AuthDialog|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../../core/src/corelayers/authdialog/authdialog.ui:20
+msgctxt "AuthDialog|"
+msgid "TextLabel"
+msgstr ""
+
+#: ../../../core/src/corelayers/authdialog/authdialog.ui:33
+msgctxt "AuthDialog|"
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; "
+"font-weight:400; font-style:normal;\">\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+"font-family:'Droid Sans';\"></p></body></html>"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:94
+msgctxt "Author|"
+msgid "Perova Gala"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:98
+msgctxt "Author|"
+msgid "Rederick Asher"
+msgstr ""
+
+#: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:39
+#: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:42
+#: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:44
+msgctxt "Author|"
+msgid "Sidorov Aleksey"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:38
+msgctxt "Author|"
+msgid "Alexey Prokhin"
+msgstr ""
+
+#: ../../../core/src/corelayers/idlestatuschanger/idlestatuschanger.cpp:50
+msgctxt "AutoAway|"
+msgid "Auto-away"
+msgstr ""
+
+#: ../../../core/src/corelayers/jsonhistory/jsonhistory.cpp:134
+msgctxt "Chat|"
+msgid "View History"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatform.cpp:50
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatform.cpp:48
+msgctxt "ChatLayer|"
+msgid "Open session list"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:56
+msgctxt "ChatLayer|"
+msgid "Close chat"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:57
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:62
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:67
+msgctxt "ChatLayer|"
+msgid "ChatWidget"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:61
+msgctxt "ChatLayer|"
+msgid "Next chat"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:66
+msgctxt "ChatLayer|"
+msgid "Previous chat"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:60
+msgctxt "ChatLayer|"
+msgid "Insert Emoticon"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:112
+msgctxt "ChatLayer|"
+msgid "Show Emoticons"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:117
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:132
+msgctxt "ChatLayer|"
+msgid "Quote"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:122
+msgctxt "ChatLayer|"
+msgid "Clear Chat"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:139
+msgctxt "ChatLayer|"
+msgid "Clear chat"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:142
+msgctxt "ChatLayer|"
+msgid "Clear chat field"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:85
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:90
+msgctxt "ChatLayer|"
+msgid "ContactList"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:437
+msgctxt "ChatSession|"
+msgid "Auto"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:447
+msgctxt "ChatSession|"
+msgid "Last active"
+msgstr ""
+
+#: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:67
+#, qt-format
+msgctxt "ContactInfo|"
+msgid "Recieved authorizarion request from %1:"
+msgstr ""
+
+#: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:71
+#, qt-format
+msgctxt "ContactInfo|"
+msgid "Send authorizarion request to %1:"
+msgstr ""
+
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:63
+#: ../../../core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp:93
+#, qt-format
+msgctxt "ContactInfo|"
+msgid "About contact %1 <%2>"
+msgstr ""
+
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:68
+#: ../../../core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp:98
+#, qt-format
+msgctxt "ContactInfo|"
+msgid "About account %1"
+msgstr ""
+
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:71
+#: ../../../core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp:101
+#, qt-format
+msgctxt "ContactInfo|"
+msgid "About %1 <%2>"
+msgstr ""
+
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:158
+msgctxt "ContactInfo|"
+msgid "Summary"
+msgstr ""
+
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:173
+msgctxt "ContactInfo|"
+msgid "General"
+msgstr ""
+
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:221
+msgctxt "ContactInfo|"
+msgid "yes"
+msgstr ""
+
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:222
+msgctxt "ContactInfo|"
+msgid "no"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:94
+msgctxt "ContactInfo|"
+msgid "Information unavailable"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:187
+msgctxt "ContactInfo|"
+msgid "Show information"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:188
+msgctxt "ContactInfo|"
+msgid "Edit information"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:70
+msgctxt "ContactList|"
+msgid "Copy id to clipboard"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:79
+msgctxt "ContactList|"
+msgid "Edit tags"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:89
+msgctxt "ContactList|"
+msgid "Rename contact"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:113
+msgctxt "ContactList|"
+msgid "Enable/disable sound"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:84
+msgctxt "ContactList|"
+msgid "Change global status"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:89
+msgctxt "ContactList|"
+msgid "Activate main menu"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:97
+msgctxt "ContactList|"
+msgid "&Settings..."
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:104
+msgctxt "ContactList|"
+msgid "Main menu"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:108
+msgctxt "ContactList|"
+msgid "&Quit"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:121
+msgctxt "ContactList|"
+msgid "Contact list"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:196
+msgctxt "ContactList|"
+msgid "Select tags"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:202
+msgctxt "ContactList|"
+msgid "Show/Hide offline"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:205
+msgctxt "ContactList|"
+msgid "Hide offline"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/models/plaincontactsmodel/plaincontactlistmodel.cpp:62
+msgctxt "ContactList|"
+msgid "Show only contacts"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/models/separatedcontactsmodel/separatedcontactlistmodel.cpp:90
+msgctxt "ContactList|"
+msgid "Show accounts, tags and contacts"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/models/treecontactsmodel/simplecontactlistmodel.cpp:79
+msgctxt "ContactList|"
+msgid "Show tags and contacts"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:114
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:72
+msgctxt "ContactList|"
+msgid "Default style"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp:43
+msgctxt "ContactList|"
+msgid "Default (depends on platform)"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp:44
+msgctxt "ContactList|"
+msgid "Small (16x16)"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp:45
+msgctxt "ContactList|"
+msgid "Medium (22x22)"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp:46
+msgctxt "ContactList|"
+msgid "Large (32x32)"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp:47
+msgctxt "ContactList|"
+msgid "Very large (48x48)"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp:48
+msgctxt "ContactList|"
+msgid "Huge (64x64)"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:73
+msgctxt "ContactList|"
+msgid "qutIM 0.2 style"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:43
+#: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:67
+msgctxt "ContactSearch|"
+msgid "Search contact"
+msgstr ""
+
+#: ../../../core/src/corelayers/mobileabout/mobileaboutcreator.cpp:42
+#: ../../../core/src/corelayers/simpleabout/simpleaboutcreator.cpp:41
+msgctxt "Core|"
+msgid "About qutIM"
+msgstr ""
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:145
+msgctxt "Core::AccountCreatorList|"
+msgid "Properties"
+msgstr ""
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:146
+msgctxt "Core::AccountCreatorList|"
+msgid "Account settings"
+msgstr ""
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:153
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:155
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:208
+msgctxt "Core::AccountCreatorList|"
+msgid "Remove account"
+msgstr ""
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:209
+#, qt-format
+msgctxt "Core::AccountCreatorList|"
+msgid "Are you sure want to remove %1"
+msgstr ""
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorprotocols.cpp:84
+msgctxt "Core::AccountCreatorProtocols|"
+msgid "Select protocol"
+msgstr ""
+
+#: ../../../core/src/corelayers/accountcreator/accountcreatorwizard.cpp:35
+msgctxt "Core::AccountCreatorWizard|"
+msgid "Add a new account"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:53
+msgctxt "Core::ActionWidget|"
+msgid "Stop"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:54
+msgctxt "Core::ActionWidget|"
+msgid "Stop the task"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:61
+msgctxt "Core::ActionWidget|"
+msgid "Remove"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:62
+msgctxt "Core::ActionWidget|"
+msgid "Remove the task"
+msgstr ""
+
+#: ../../../core/src/corelayers/addcontactdlg/addcontact.cpp:134
+msgctxt "Core::AddContact|"
+msgid "Start chat"
+msgstr ""
+
+#: ../../../core/src/corelayers/addcontactdlg/addcontact.cpp:138
+msgctxt "Core::AddContact|"
+msgid "Show info"
+msgstr ""
+
+#: ../../../core/src/corelayers/addcontactdlg/addcontact.cpp:221
+msgctxt "Core::AddContact|"
+msgid "Account must be online"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:61
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:87
+#, qt-format
+msgctxt "Core::AdiumChat::AbstractChatWidget|"
+msgid "Chat with %1 (have %2 unread messages)"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:63
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:89
+#, qt-format
+msgctxt "Core::AdiumChat::AbstractChatWidget|"
+msgid "Chat with %1"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:66
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:92
+#, qt-format
+msgctxt "Core::AdiumChat::AbstractChatWidget|"
+msgid "Conference %1 (%2)"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:56
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Vasya Pupkin"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:67
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Noname"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:132
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:215
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Unable to create chat session"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:219
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Preview message"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:226
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Hello!"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:229
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "How are you?"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:232
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "I am fine!"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:235
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "/me is thinking!"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:238
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Vasya Pupkin is reading you mind"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:255
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Style variant:"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/actions/chatemoticonswidget.cpp:71
+msgctxt "Core::AdiumChat::ChatEmoticonsWidget|"
+msgid "Close"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatvariable.cpp:42
+msgctxt "Core::AdiumChat::ChatFont|"
+msgid "Change"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:90
+msgctxt "Core::AdiumChat::ConferenceContactsView|"
+msgid "Insert Nick"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:98
+msgctxt "Core::AdiumChat::ConferenceContactsView|"
+msgid "Conference participants"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:161
+msgctxt "Core::AdiumChat::ConferenceContactsView|"
+msgid "Private"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp:54
+#: ../../../core/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp:269
+msgctxt "Core::AdiumChat::SessionListWidget|"
+msgid "Close chat"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp:59
+msgctxt "Core::AdiumChat::SessionListWidget|"
+msgid "Session list"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.cpp:43
+msgctxt "Core::AdiumChat::StackedChatBehavior|"
+msgid "Ctrl+Enter"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.cpp:46
+msgctxt "Core::AdiumChat::StackedChatBehavior|"
+msgid "Double Enter"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.cpp:49
+msgctxt "Core::AdiumChat::StackedChatBehavior|"
+msgid "Enter"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatwidget.cpp:80
+msgctxt "Core::AdiumChat::StackedChatWidget|"
+msgid "Chat Actions"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatwidget.cpp:83
+msgctxt "Core::AdiumChat::StackedChatWidget|"
+msgid "Send to"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatwidget.cpp:84
+msgctxt "Core::AdiumChat::StackedChatWidget|"
+msgid "Actions"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:42
+msgctxt "Core::AdiumChat::TabbedChatBehavior|"
+msgid "Ctrl+Enter"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:45
+msgctxt "Core::AdiumChat::TabbedChatBehavior|"
+msgid "Double Enter"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:48
+msgctxt "Core::AdiumChat::TabbedChatBehavior|"
+msgid "Enter"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:52
+msgctxt "Core::AdiumChat::TabbedChatBehavior|"
+msgid "North"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:53
+msgctxt "Core::AdiumChat::TabbedChatBehavior|"
+msgid "South"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:54
+msgctxt "Core::AdiumChat::TabbedChatBehavior|"
+msgid "Classic"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:55
+msgctxt "Core::AdiumChat::TabbedChatBehavior|"
+msgid "Adium-like"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:71
+msgctxt "Core::AdiumChat::TabbedChatWidget|"
+msgid "Chat Actions"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:75
+msgctxt "Core::AdiumChat::TabbedChatWidget|"
+msgid "Send to"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:110
+msgctxt "Core::AdiumChat::TabbedChatWidget|"
+msgid "Session list"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:164
+msgctxt "Core::AdiumChat::TabbedChatWidget|"
+msgid "Send"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:202
+msgctxt "Core::AdiumChat::TabbedChatWidget|"
+msgid "&Actions"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:206
+msgctxt "Core::AdiumChat::TabbedChatWidget|"
+msgid "Accoun&ts"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:214
+msgctxt "Core::AdiumChat::TabbedChatWidget|"
+msgid "&Chat"
+msgstr ""
+
+#: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:45
+msgctxt "Core::AuthDialogPrivate|"
+msgid "Actions"
+msgstr ""
+
+#: ../../../core/src/corelayers/chatnotificationsbackend/chatnotificationsbackend.cpp:37
+msgctxt "Core::ChatNotificationsBackend|"
+msgid "Add message to chat"
+msgstr ""
+
+#: ../../../core/src/corelayers/chatspellchecker/chatspellchecker.cpp:156
+msgctxt "Core::ChatSpellChecker|"
+msgid "Add to dictionary"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:120
+msgctxt "Core::ContactListSettings|"
+msgid "Model"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:121
+msgctxt "Core::ContactListSettings|"
+msgid "Widget style"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:122
+msgctxt "Core::ContactListSettings|"
+msgid "Contacts style"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:214
+msgctxt "Core::ContactListSettings|"
+msgid "To take effect you must restart qutIM"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:109
+msgctxt "Core::FileTransferDialog|"
+msgid "Remove"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:111
+msgctxt "Core::FileTransferDialog|"
+msgid "Stop"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:113
+msgctxt "Core::FileTransferDialog|"
+msgid "Open containing folder"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:115
+msgctxt "Core::FileTransferDialog|"
+msgid "Open"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:169
+msgctxt "Core::FileTransferJobModel|"
+msgid "From"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:170
+msgctxt "Core::FileTransferJobModel|"
+msgid "To"
+msgstr ""
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:53
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:125
+msgctxt "Core::HistoryWindow|"
+msgid "No History"
+msgstr ""
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:54
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:498
+msgctxt "Core::HistoryWindow|"
+msgid "In: %L1"
+msgstr ""
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:55
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:499
+msgctxt "Core::HistoryWindow|"
+msgid "Out: %L1"
+msgstr ""
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:56
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:500
+msgctxt "Core::HistoryWindow|"
+msgid "All: %L1"
+msgstr ""
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:100
+msgctxt "Core::HistoryWindow|"
+msgid "Close"
+msgstr ""
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:407
+msgctxt "Core::HistoryWindow|"
+msgid "Service message"
+msgstr ""
+
+#: ../../../core/src/corelayers/qticons/iconsloaderimpl.cpp:45
+msgctxt "Core::IconLoaderSettings|"
+msgid "Theme"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:49
+msgctxt "Core::KineticScroller|"
+msgid "Touch"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:50
+msgctxt "Core::KineticScroller|"
+msgid "Left mouse button"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:51
+msgctxt "Core::KineticScroller|"
+msgid "Middle mouse button"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:52
+msgctxt "Core::KineticScroller|"
+msgid "Right mouse button"
+msgstr ""
+
+#: ../../../core/src/corelayers/metacontacts/mergedialog.ui:14
+msgctxt "Core::MetaContacts::MergeDialog|"
+msgid "Manage metacontact"
+msgstr ""
+
+#: ../../../core/src/corelayers/metacontacts/mergedialog.ui:20
+msgctxt "Core::MetaContacts::MergeDialog|"
+msgid "MetaContact name:"
+msgstr ""
+
+#: ../../../core/src/corelayers/metacontacts/mergedialog.ui:30
+msgctxt "Core::MetaContacts::MergeDialog|"
+msgid "Search contacts:"
+msgstr ""
+
+#: ../../../core/src/corelayers/metacontacts/model.cpp:95
+msgctxt "Core::MetaContacts::Model|"
+msgid "Account"
+msgstr ""
+
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.cpp:47
+msgctxt "Core::MigrationStartPage|"
+msgid "Migration wizard"
+msgstr ""
+
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.cpp:48
+msgctxt "Core::MigrationStartPage|"
+msgid ""
+"qutIM has discovered configuration from 0.2 version, choose profile to "
+"import history and configuration from."
+msgstr ""
+
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.cpp:96
+msgctxt "Core::MigrationStartPage|"
+msgid "Unable to find profile dir"
+msgstr ""
+
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.cpp:118
+msgctxt "Core::MigrationStartPage|"
+msgid "Unable to find any profile"
+msgstr ""
+
+#: ../../../core/src/corelayers/mobileabout/mobileaboutdialog.cpp:45
+#, qt-format
+msgctxt "Core::MobileAboutDialog|"
+msgid "qutIM %1<br>Uses Qt %2<p>Developers:<p>"
+msgstr ""
+
+#: ../../../core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp:62
+msgctxt "Core::MobileContactInfoWindow|"
+msgid "Request details"
+msgstr ""
+
+#: ../../../core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp:66
+msgctxt "Core::MobileContactInfoWindow|"
+msgid "Save"
+msgstr ""
+
+#: ../../../core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp:72
+msgctxt "Core::MobileContactInfoWindow|"
+msgid "Close"
+msgstr ""
+
+#: ../../../core/src/corelayers/mobilenotificationssettings/mobilenotificationsettings.cpp:144
+msgctxt "Core::MobileNotificationSettings|"
+msgid "Disable notifications when chat is active"
+msgstr ""
+
+#: ../../../core/src/corelayers/mobilenotificationssettings/mobilenotificationsettings.cpp:148
+msgctxt "Core::MobileNotificationSettings|"
+msgid "Ignore conference messages that do not contain my name"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:62
+msgctxt "Core::MobileSearchForm|"
+msgid "Close"
+msgstr ""
+
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:87
+msgctxt "Core::MobileSettingsWindow|"
+msgid "Back"
+msgstr ""
+
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:92
+msgctxt "Core::MobileSettingsWindow|"
+msgid "Close"
+msgstr ""
+
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:207
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:249
+#, qt-format
+msgctxt "Core::MobileSettingsWindow|"
+msgid "qutIM settings - %1"
+msgstr ""
+
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:270
+msgctxt "Core::MobileSettingsWindow|"
+msgid "Apply Settings - System Settings"
+msgstr ""
+
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:271
+msgctxt "Core::MobileSettingsWindow|"
+msgid ""
+"The settings of the current module have changed. \n"
+" Do you want to apply the changes or discard them?"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationssettings/notificationsettings.cpp:96
+msgctxt "Core::NotificationSettings|"
+msgid "<b>Additional settings:</b>"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationssettings/notificationsettings.cpp:98
+msgctxt "Core::NotificationSettings|"
+msgid "Disable notifications when chat is active"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationssettings/notificationsettings.cpp:102
+msgctxt "Core::NotificationSettings|"
+msgid "Ignore conference messages that do not contain my name"
+msgstr ""
+
+#: ../../../core/src/corelayers/plistconfig/plistconfigbackend.cpp:165
+#, qt-format
+msgctxt "Core::PListConfigBackend|"
+msgid "Cannot write to file %1"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:127
+msgctxt "Core::PluginChooserWidget|"
+msgid "To take effect you must restart qutIM"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:143
+#, qt-format
+msgctxt "Core::PluginChooserWidget|"
+msgid "<b>Name: </b> %1 <br />"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:144
+#, qt-format
+msgctxt "Core::PluginChooserWidget|"
+msgid "<b>Description: </b> %1 <br />"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:149
+#, qt-format
+msgctxt "Core::PluginChooserWidget|"
+msgid "<b>Name:</b> %1<br/>"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:151
+#, qt-format
+msgctxt "Core::PluginChooserWidget|"
+msgid "<b>Task:</b> %1<br/>"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
+#, qt-format
+msgctxt "Core::PluginChooserWidget|"
+msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:155
+#, qt-format
+msgctxt "Core::PluginChooserWidget|"
+msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.cpp:153
+msgctxt "Core::ProfileCreationPage|"
+msgid "Error"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.cpp:154
+#, qt-format
+msgctxt "Core::ProfileCreationPage|"
+msgid ""
+"Unable to create directory %1. Maybe you are trying to create a directory in "
+"a protected system directory"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.cpp:167
+#: ../../../core/src/widgets/profilecreationpage.cpp:175
+msgctxt "Core::ProfileCreationPage|"
+msgid "Warning"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.cpp:168
+msgctxt "Core::ProfileCreationPage|"
+msgid "Profile already exists, overwrite?"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.cpp:175
+msgctxt "Core::ProfileCreationPage|"
+msgid "Unable to create profile hash"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.cpp:298
+msgctxt "Core::ProfileCreationPage|"
+msgid "Select path"
+msgstr ""
+
+#: ../../../core/src/widgets/profiledialog.cpp:117
+msgctxt "Core::ProfileDialog|"
+msgid "Error while loading"
+msgstr ""
+
+#: ../../../core/src/widgets/profiledialog.cpp:140
+msgctxt "Core::ProfileDialog|"
+msgid "Enter name"
+msgstr ""
+
+#: ../../../core/src/widgets/profiledialog.cpp:140
+msgctxt "Core::ProfileDialog|"
+msgid "Profile name:"
+msgstr ""
+
+#: ../../../core/src/widgets/profiledialog.cpp:142
+msgctxt "Core::ProfileDialog|"
+msgid "Invalid name"
+msgstr ""
+
+#: ../../../core/src/widgets/profiledialog.cpp:142
+msgctxt "Core::ProfileDialog|"
+msgid "Name can not be empty!"
+msgstr ""
+
+#: ../../../core/src/widgets/profiledialog.cpp:146
+msgctxt "Core::ProfileDialog|"
+msgid "Enter password"
+msgstr ""
+
+#: ../../../core/src/widgets/profiledialog.cpp:146
+msgctxt "Core::ProfileDialog|"
+msgid "Password:"
+msgstr ""
+
+#: ../../../core/src/widgets/profiledialog.cpp:147
+msgctxt "Core::ProfileDialog|"
+msgid "Repeat password"
+msgstr ""
+
+#: ../../../core/src/widgets/profiledialog.cpp:147
+msgctxt "Core::ProfileDialog|"
+msgid "Repeat password:"
+msgstr ""
+
+#: ../../../core/src/widgets/profiledialog.cpp:150
+#: ../../../core/src/widgets/profiledialog.cpp:155
+msgctxt "Core::ProfileDialog|"
+msgid "Incorrect password"
+msgstr ""
+
+#: ../../../core/src/widgets/profiledialog.cpp:150
+msgctxt "Core::ProfileDialog|"
+msgid "Passwords doesn't match each other"
+msgstr ""
+
+#: ../../../core/src/widgets/profiledialog.cpp:155
+msgctxt "Core::ProfileDialog|"
+msgid "Password can not be empty!"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/protocolchooserwidget.cpp:115
+msgctxt "Core::ProtocolChooserWidget|"
+msgid "To take effect you must restart qutIM"
+msgstr ""
+
+#: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:45
+msgctxt "Core::ProxySettingsWidget|"
+msgid "Type:"
+msgstr ""
+
+#: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:74
+msgctxt "Core::ProxySettingsWidget|"
+msgid "Do not use proxy"
+msgstr ""
+
+#: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:77
+msgctxt "Core::ProxySettingsWidget|"
+msgid "Use global proxy"
+msgstr ""
+
+#: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:119
+#: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:142
+msgctxt "Core::ProxySettingsWidget|"
+msgid "Type"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:54
+#, qt-format
+msgctxt "Core::ServiceChooser|"
+msgid "<b>Name: </b> %1 <br />"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:55
+#, qt-format
+msgctxt "Core::ServiceChooser|"
+msgid "<b>Description: </b> %1 <br />"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:60
+#, qt-format
+msgctxt "Core::ServiceChooser|"
+msgid "<b>Name:</b> %1<br/>"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:62
+#, qt-format
+msgctxt "Core::ServiceChooser|"
+msgid "<b>Task:</b> %1<br/>"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:64
+#, qt-format
+msgctxt "Core::ServiceChooser|"
+msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:66
+#, qt-format
+msgctxt "Core::ServiceChooser|"
+msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/servicechooserwidget.cpp:132
+msgctxt "Core::ServiceChooserWidget|"
+msgid "To take effect you must restart qutIM"
+msgstr ""
+
+#: ../../../core/src/corelayers/shortcutsettings/shortcutitemdelegate.cpp:85
+msgctxt "Core::ShortcutItemDelegate|"
+msgid " (global)"
+msgstr ""
+
+#: ../../../core/src/corelayers/shortcutsettings/shortcutitemdelegate.cpp:126
+#, qt-format
+msgctxt "Core::ShortcutItemDelegate|"
+msgid "%1 : input"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.cpp:51
+#, qt-format
+msgctxt "Core::SimpleAboutDialog|"
+msgid "Based on Qt %1 (%2 bit)."
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.cpp:54
+#, qt-format
+msgctxt "Core::SimpleAboutDialog|"
+msgid ""
+"<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 2 "
+"or (at your option) any later version.</div><div>qutIM resources such as "
+"themes, icons, sounds may come along with a different "
+"license.</div><br><hr><br>"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:170
+#, qt-format
+msgctxt "Core::SimpleActions|"
+msgid "Rename contact %1"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:171
+#, qt-format
+msgctxt "Core::SimpleActions|"
+msgid "Input new name for contact %1"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:227
+#, qt-format
+msgctxt "Core::SimpleActions|"
+msgid "Are you sure you want to delete a contact %1 from the roster?"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp:140
+msgctxt "Core::SimpleContactList::AbstractContactModel|"
+msgid "Blink icon in the contact list"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp:216
+msgctxt "Core::SimpleContactList::AbstractContactModel|"
+msgid "All tags"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp:218
+msgctxt "Core::SimpleContactList::AbstractContactModel|"
+msgid "Custom tags"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:386
+msgctxt "Core::SimpleContactList::AbstractContactModel|"
+msgid "Without tags"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:484
+#, qt-format
+msgctxt "Core::SimpleContactList::AbstractContactModel|"
+msgid "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:490
+#, qt-format
+msgctxt "Core::SimpleContactList::AbstractContactModel|"
+msgid "Would you like to merge metacontacts \"%1\" and \"%2\"?"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:493
+#, qt-format
+msgctxt "Core::SimpleContactList::AbstractContactModel|"
+msgid "Would you like to add \"%1\" <%2> to metacontact \"%3\"?"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:500
+msgctxt "Core::SimpleContactList::AbstractContactModel|"
+msgid "Contacts' merging"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:184
+msgctxt "Core::SimpleContactList::Module|"
+msgid "Select tags"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:186
+msgctxt "Core::SimpleContactList::Module|"
+msgid "Reset"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/models/plaincontactsmodel/plaincontactlistmodel.cpp:156
+msgctxt "Core::SimpleContactList::PlainModel|"
+msgid "Without tags"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/models/separatedcontactsmodel/separatedcontactlistmodel.cpp:236
+msgctxt "Core::SimpleContactList::SeparatedModel|"
+msgid "Without tags"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:104
+msgctxt "Core::SimpleContactList::SimpleWidget|"
+msgid "Main Toolbar"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:123
+msgctxt "Core::SimpleContactList::SimpleWidget|"
+msgid "Search contact"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:139
+msgctxt "Core::SimpleContactList::SimpleWidget|"
+msgid "Status"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:168
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:376
+msgctxt "Core::SimpleContactList::SimpleWidget|"
+msgid "Set Status Text"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:100
+msgctxt "Core::SimpleContactList::ToryWidget|"
+msgid "Main Toolbar"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:117
+msgctxt "Core::SimpleContactList::ToryWidget|"
+msgid "Global status"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:118
+msgctxt "Core::SimpleContactList::ToryWidget|"
+msgid "Set Status Text"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:145
+msgctxt "Core::SimpleContactList::ToryWidget|"
+msgid "Search contact"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/models/treecontactsmodel/simplecontactlistmodel.cpp:218
+msgctxt "Core::SimpleContactList::TreeModel|"
+msgid "Without tags"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:188
+msgctxt "Core::SimpleFileTransfer|"
+msgid "Incoming file"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:189
+#, qt-format
+msgctxt "Core::SimpleFileTransfer|"
+msgid "%1 wants to send you %2 (%3)"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:193
+msgctxt "Core::SimpleFileTransfer|"
+msgid "Accept"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:194
+msgctxt "Core::SimpleFileTransfer|"
+msgid "Ignore"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:227
+#, qt-format
+msgctxt "Core::SimpleFileTransfer|"
+msgid "Choose file for %1"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp:43
+#, qt-format
+msgctxt "Core::SimpleTagsEditor|"
+msgid "Edit tags for %1"
+msgstr ""
+
+#: ../../../core/src/corelayers/trayicon/simpletray.cpp:87
+msgctxt "Core::SimpleTray|"
+msgid "Blink icon in the tray"
+msgstr ""
+
+#: ../../../core/src/widgets/submitpage.cpp:45
+msgctxt "Core::SubmitPage|"
+msgid "Congratulations"
+msgstr ""
+
+#: ../../../core/src/widgets/submitpage.cpp:46
+msgctxt "Core::SubmitPage|"
+msgid ""
+"You've just created a profile for qutIM. Click Finish to proceed to adding "
+"user accounts"
+msgstr ""
+
+#: ../../../core/src/widgets/submitpage.cpp:49
+msgctxt "Core::SubmitPage|"
+msgid "Would you like to send details about your current setup?"
+msgstr ""
+
+#: ../../../core/src/widgets/submitpage.cpp:50
+msgctxt "Core::SubmitPage|"
+msgid "Information to be transferred to the qutIM's authors:"
+msgstr ""
+
+#: ../../../core/src/widgets/submitpage.cpp:55
+#, qt-format
+msgctxt "Core::SubmitPage|"
+msgid ""
+"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br "
+"/><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br "
+"/><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
+msgstr ""
+
+#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:255
+#, qt-format
+msgctxt "Core::XSettingsWindow|"
+msgid "qutIM settings - %1"
+msgstr ""
+
+#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:271
+msgctxt "Core::XSettingsWindow|"
+msgid "Apply Settings - System Settings"
+msgstr ""
+
+#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:272
+msgctxt "Core::XSettingsWindow|"
+msgid ""
+"The settings of the current module have changed. \n"
+" Do you want to apply the changes or discard them?"
+msgstr ""
+
+#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:103
+msgctxt "DataForms|"
+msgid "yes"
+msgstr ""
+
+#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:104
+msgctxt "DataForms|"
+msgid "no"
+msgstr ""
+
+#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:129
+msgctxt "DataForms|"
+msgid "the field is not set"
+msgstr ""
+
+#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:662
+msgctxt "DataForms|"
+msgid "Open image"
+msgstr ""
+
+#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:664
+msgctxt "DataForms|"
+msgid "Images (*.gif *.bmp *.jpg *.jpeg *.png);;All files (*.*)"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/defaultform/defaultsearchform.ui:20
+msgctxt "DefaultSearchForm|"
+msgid "Search window"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/defaultform/defaultsearchform.ui:84
+msgctxt "DefaultSearchForm|"
+msgid "Search"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/defaultform/defaultsearchform.ui:94
+msgctxt "DefaultSearchForm|"
+msgid "Cancel"
+msgstr ""
+
+#: ../../../core/src/corelayers/emoticonssettings/emoticonsselector.cpp:54
+msgctxt "EmoticonsSelector|"
+msgid "No emoticons"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:35
+msgctxt "FileTransfer|"
+msgid "Title"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:36
+msgctxt "FileTransfer|"
+msgid "File name"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:37
+msgctxt "FileTransfer|"
+msgid "File size"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:38
+msgctxt "FileTransfer|"
+msgid "Total size"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:39
+msgctxt "FileTransfer|"
+msgid "Contact"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:40
+msgctxt "FileTransfer|"
+msgid "Progress"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:41
+msgctxt "FileTransfer|"
+msgid "State"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:49
+msgctxt "FileTransfer|"
+msgid "Send file"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:149
+msgctxt "FileTransfer|"
+msgid "Manage file transfers"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.ui:20
+msgctxt "FileTransferDialog|"
+msgid "File transfer manager"
+msgstr ""
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.ui:14
+msgctxt "HistoryWindowClass|"
+msgid "HistoryWindow"
+msgstr ""
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.ui:27
+msgctxt "HistoryWindowClass|"
+msgid "Account:"
+msgstr ""
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.ui:34
+msgctxt "HistoryWindowClass|"
+msgid "From:"
+msgstr ""
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.ui:60
+msgctxt "HistoryWindowClass|"
+msgid "In: %L1"
+msgstr ""
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.ui:67
+msgctxt "HistoryWindowClass|"
+msgid "Out: %L1"
+msgstr ""
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.ui:74
+msgctxt "HistoryWindowClass|"
+msgid "All: %L1"
+msgstr ""
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.ui:94
+msgctxt "HistoryWindowClass|"
+msgid "Search"
+msgstr ""
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.ui:97
+msgctxt "HistoryWindowClass|"
+msgid "Return"
+msgstr ""
+
+#: ../../../core/src/corelayers/jsonhistory/historywindow.ui:133
+msgctxt "HistoryWindowClass|"
+msgid "1"
+msgstr ""
+
+#: ../../../core/src/corelayers/idlestatuschanger/idlestatuswidget.ui:14
+msgctxt "IdleStatusWidget|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/idlestatuschanger/idlestatuswidget.ui:32
+#: ../../../core/src/corelayers/idlestatuschanger/idlestatuswidget.ui:56
+#, qt-format
+msgctxt "IdleStatusWidget|"
+msgid "Set status «%1» after:"
+msgstr ""
+
+#: ../../../core/src/corelayers/idlestatuschanger/idlestatuswidget.ui:39
+#: ../../../core/src/corelayers/idlestatuschanger/idlestatuswidget.ui:63
+msgctxt "IdleStatusWidget|seconds"
+msgid " min"
+msgstr ""
+
+#: ../../../core/libqutim/inforequest.cpp:142
+msgctxt "InformationRequest|"
+msgid "Unknown error"
+msgstr ""
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:17
+msgctxt "JoinChat|"
+msgid "Join groupchat"
+msgstr ""
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:28
+msgctxt "JoinChat|"
+msgid "Account:"
+msgstr ""
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:54
+msgctxt "JoinChat|"
+msgid "Bookmarks"
+msgstr ""
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:135
+msgctxt "JoinChat|"
+msgid "Request last "
+msgstr ""
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:155
+msgctxt "JoinChat|"
+msgid "messages"
+msgstr ""
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:185
+msgctxt "JoinChat|"
+msgid "Request messages since the datetime"
+msgstr ""
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:192
+msgctxt "JoinChat|"
+msgid "H:mm:ss"
+msgstr ""
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:222
+msgctxt "JoinChat|"
+msgid "Request messages since"
+msgstr ""
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.cpp:43
+msgctxt "JoinChatDialog|"
+msgid "Join"
+msgstr ""
+
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.cpp:167
+msgctxt "JoinChatDialog|"
+msgid "New chat"
+msgstr ""
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.ui:14
+#: ../../../core/src/corelayers/joinchatdialog/joinchatmodule.cpp:71
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp:80
+msgctxt "JoinGroupChat|"
+msgid "Join groupchat"
+msgstr ""
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.ui:30
+msgctxt "JoinGroupChat|"
+msgid "Select account:"
+msgstr ""
+
+#: ../../../core/src/corelayers/joingroupchatdlg/bookmarkspage.cpp:48
+msgctxt "JoinGroupChat|"
+msgid "Select bookmark"
+msgstr ""
+
+#: ../../../core/src/corelayers/joingroupchatdlg/bookmarkspage.cpp:53
+msgctxt "JoinGroupChat|"
+msgid "Save"
+msgstr ""
+
+#: ../../../core/src/corelayers/joingroupchatdlg/bookmarkspage.cpp:59
+msgctxt "JoinGroupChat|"
+msgid "Remove"
+msgstr ""
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:70
+msgctxt "JoinGroupChat|"
+msgid "Close"
+msgstr ""
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:74
+msgctxt "JoinGroupChat|"
+msgid "Back"
+msgstr ""
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:154
+msgctxt "JoinGroupChat|"
+msgid "Recent"
+msgstr ""
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:155
+msgctxt "JoinGroupChat|"
+msgid "Bookmarks"
+msgstr ""
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:185
+msgctxt "JoinGroupChat|"
+msgid "Join an existing or create a new groupchat"
+msgstr ""
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:187
+#: ../../../core/src/corelayers/joingroupchatdlg/joinpage.cpp:48
+msgctxt "JoinGroupChat|"
+msgid "Join"
+msgstr ""
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:189
+msgctxt "JoinGroupChat|"
+msgid "Create, edit, or delete saved bookmarks"
+msgstr ""
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:191
+msgctxt "JoinGroupChat|"
+msgid "Manage bookmarks"
+msgstr ""
+
+#: ../../../core/src/corelayers/joingroupchatdlg/joinpage.cpp:44
+msgctxt "JoinGroupChat|"
+msgid "Save to bookmarks"
+msgstr ""
+
+#: ../../../core/src/corelayers/shortcutsettings/keysequencewidget.cpp:264
+msgctxt "KeySequenceWidget|"
+msgid "What the user inputs now will be taken as the new shortcut"
+msgstr ""
+
+#: ../../../core/src/corelayers/shortcutsettings/keysequencewidget.cpp:272
+msgctxt "KeySequenceWidget|"
+msgid "No shortcut defined"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:14
+msgctxt "KineticScrollerSettings|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:20
+msgctxt "KineticScrollerSettings|"
+msgid "Type:"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:28
+msgctxt "KineticScrollerSettings|"
+msgid "No scrolling"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:33
+msgctxt "KineticScrollerSettings|"
+msgid "Touch"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:38
+msgctxt "KineticScrollerSettings|"
+msgid "Left mouse button"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:43
+msgctxt "KineticScrollerSettings|"
+msgid "Middle mouse button"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:48
+msgctxt "KineticScrollerSettings|"
+msgid "Right mouse button"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:56
+msgctxt "KineticScrollerSettings|"
+msgid "Mouse press delay, secs:"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:63
+msgctxt "KineticScrollerSettings|"
+msgid "Drag start distance, metres:"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:70
+msgctxt "KineticScrollerSettings|"
+msgid "Drag velocity smoothing factor, 1/secs:"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/lineedit.cpp:40
+msgctxt "LineEdit|"
+msgid "Clear search field"
+msgstr ""
+
+#: ../../../core/src/corelayers/localization/localizationsettings.cpp:58
+msgctxt "Localization|Localized language name"
+msgid "<Language>"
+msgstr ""
+
+#: ../../../core/src/corelayers/localization/localizationsettings.cpp:61
+msgctxt ""
+"Localization|Localized country name, empty if localization is "
+"country-independent"
+msgid "<Country>"
+msgstr ""
+
+#: ../../../core/src/corelayers/localization/localizationsettings.ui:14
+msgctxt "LocalizationSettings|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/metacontacts/manager.cpp:111
+msgctxt "MetaContact|"
+msgid "Split Metacontact"
+msgstr ""
+
+#: ../../../core/src/corelayers/metacontacts/manager.cpp:117
+msgctxt "MetaContact|"
+msgid "Manage metacontacts"
+msgstr ""
+
+#: ../../../core/src/corelayers/metacontacts/model.cpp:43
+msgctxt "MetaContacts|"
+msgid "Contacts in metacontact"
+msgstr ""
+
+#: ../../../core/src/corelayers/metacontacts/model.cpp:47
+msgctxt "MetaContacts|"
+msgid "Search results"
+msgstr ""
+
+#: ../../../core/src/corelayers/metacontacts/manager.cpp:97
+msgctxt "Metacontact|"
+msgid "You"
+msgstr ""
+
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.ui:14
+msgctxt "MigrationStartPage|"
+msgid "WizardPage"
+msgstr ""
+
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.ui:20
+msgctxt "MigrationStartPage|"
+msgid "I want to import configuration and history"
+msgstr ""
+
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.ui:30
+msgctxt "MigrationStartPage|"
+msgid "Choose profile:"
+msgstr ""
+
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.ui:47
+msgctxt "MigrationStartPage|"
+msgid "Choose accounts:"
+msgstr ""
+
+#: ../../../core/src/corelayers/mobileabout/mobileaboutdialog.ui:14
+msgctxt "MobileAboutDialog|"
+msgid "About qutIM"
+msgstr ""
+
+#: ../../../core/src/corelayers/mobileabout/mobileaboutdialog.ui:38
+msgctxt "MobileAboutDialog|"
+msgid "TextLabel"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.ui:20
+msgctxt "MobileSearchForm|"
+msgid "Search window"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.ui:51
+msgctxt "MobileSearchForm|"
+msgid "Select account:"
+msgstr ""
+
+#: ../../../core/libqutim/networkproxy.cpp:171
+msgctxt "NetworkProxy|"
+msgid "Type"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:192
+msgctxt "Notification|"
+msgid "Incoming Message"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:193
+msgctxt "Notification|"
+msgid "Outgoing Message"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:194
+msgctxt "Notification|"
+msgid "qutIM Startup"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:195
+msgctxt "Notification|"
+msgid "Blocked Message"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:196
+msgctxt "Notification|"
+msgid "Contact joined conference"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:197
+msgctxt "Notification|"
+msgid "Contact left conference"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:198
+msgctxt "Notification|"
+msgid "Incoming conference message"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:199
+msgctxt "Notification|"
+msgid "Outgoing conference message"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:200
+msgctxt "Notification|"
+msgid "File transfer completed"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:201
+msgctxt "Notification|"
+msgid "Contact online"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:202
+msgctxt "Notification|"
+msgid "Contact offline"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:203
+msgctxt "Notification|"
+msgid "Contact changed status"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:204
+msgctxt "Notification|"
+msgid "Contact birthday"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:205
+msgctxt "Notification|"
+msgid "Contact typing"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:206
+msgctxt "Notification|"
+msgid "System"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:220
+msgctxt "Notification|"
+msgid "A new message has been received"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:221
+msgctxt "Notification|"
+msgid "A message has been sent"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:222
+msgctxt "Notification|"
+msgid "qutIM has started"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:223
+msgctxt "Notification|"
+msgid "A message has been blocked"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:224
+msgctxt "Notification|"
+msgid "A user has joined a conference"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:225
+msgctxt "Notification|"
+msgid "A user has left a conference"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:226
+msgctxt "Notification|"
+msgid "A new conference message has been received"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:227
+msgctxt "Notification|"
+msgid "A conference message has been sent"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:228
+msgctxt "Notification|"
+msgid "A file transfer has been completed"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:229
+msgctxt "Notification|"
+msgid "A contact has gone online"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:230
+msgctxt "Notification|"
+msgid "A contact has gone offline"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:231
+msgctxt "Notification|"
+msgid "A contact has changed status"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:232
+msgctxt "Notification|"
+msgid "A contact has birthday!"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:233
+msgctxt "Notification|"
+msgid "A contact is typing"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:234
+msgctxt "Notification|"
+msgid "A system notification"
+msgstr ""
+
+#: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp:98
+msgctxt "Notifications|"
+msgid "Type"
+msgstr ""
+
+#: ../../../core/examples/autosettingsitem/autosettings.cpp:33
+msgctxt "Plugin|"
+msgid "Autosettings example"
+msgstr ""
+
+#: ../../../core/examples/autosettingsitem/autosettings.cpp:34
+msgctxt "Plugin|"
+msgid "Simple example of auto settings item generator"
+msgstr ""
+
+#: ../../../core/examples/simplesettingsdialog/settingslayerimpl.cpp:31
+msgctxt "Plugin|"
+msgid "Simple Settings dialog"
+msgstr ""
+
+#: ../../../core/examples/simplesettingsdialog/settingslayerimpl.cpp:32
+msgctxt "Plugin|"
+msgid "SDK03 example"
+msgstr ""
+
+#: ../../../core/src/corelayers/accountcreator/accountcreator.cpp:38
+msgctxt "Plugin|"
+msgid "Account creator"
+msgstr ""
+
+#: ../../../core/src/corelayers/accountcreator/accountcreator.cpp:39
+msgctxt "Plugin|"
+msgid "Default qutIM account creator"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:84
+msgctxt "Plugin|"
+msgid "Webkit chat layer"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:85
+msgctxt "Plugin|"
+msgid "Default qutIM chat implementation, based on Adium chat styles"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:90
+msgctxt "Plugin|"
+msgid "Time modifier"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:91
+msgctxt "Plugin|"
+msgid ""
+"Modifier for %time% and %timeOpened% param, based on Apple's documentation"
+msgstr ""
+
+#: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:36
+msgctxt "Plugin|"
+msgid "Authorization dialog"
+msgstr ""
+
+#: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:37
+msgctxt "Plugin|"
+msgid "Simple authorization dialog"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:43
+msgctxt "Plugin|"
+msgid "Kinetic scrolling"
+msgstr ""
+
+#: ../../../core/src/corelayers/localization/localizationplugin.cpp:37
+msgctxt "Plugin|"
+msgid "Localization"
+msgstr ""
+
+#: ../../../core/src/corelayers/localization/localizationplugin.cpp:38
+msgctxt "Plugin|"
+msgid "Default qutIM localization engine"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:35
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:42
+msgctxt "Plugin|"
+msgid "Search window"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:36
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:43
+msgctxt "Plugin|"
+msgid "Default qutIM implementation of search window"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:45
+msgctxt "Plugin|"
+msgid "Desktop Search Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:46
+msgctxt "Plugin|"
+msgid "Default search form optimized for Desktop systems"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:48
+msgctxt "Plugin|"
+msgid "Mobile Search Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:49
+msgctxt "Plugin|"
+msgid "Search form optimized for Mobile systems"
+msgstr ""
+
+#: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:38
+msgctxt "Plugin|"
+msgid "Session helper"
+msgstr ""
+
+#: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:39
+msgctxt "Plugin|"
+msgid "Activates the session when certain events"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:40
+msgctxt "Plugin|"
+msgid "Simple Actions"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:41
+msgctxt "Plugin|"
+msgid "Default actionset for contacts"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:91
+msgctxt "Plugin|"
+msgid "ContactDelegate"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:92
+msgctxt "Plugin|"
+msgid "Just simple"
+msgstr ""
+
+#: ../../../core/src/corelayers/trayicon/simpletray.cpp:143
+msgctxt "Plugin|"
+msgid "Notification Area Icon"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:14
+msgctxt "ProfileCreationPage|"
+msgid "WizardPage"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:41
+msgctxt "ProfileCreationPage|"
+msgid "Name:"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:48
+msgctxt "ProfileCreationPage|"
+msgid "It will be shown in chat dialogs"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:55
+msgctxt "ProfileCreationPage|"
+msgid "Profile id:"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:62
+msgctxt "ProfileCreationPage|"
+msgid "Used for profile identification"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:69
+msgctxt "ProfileCreationPage|"
+msgid "Config dir:"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:81
+#: ../../../core/src/widgets/profilecreationpage.ui:95
+#: ../../../core/src/widgets/profilecreationpage.ui:109
+msgctxt "ProfileCreationPage|"
+msgid "..."
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:118
+msgctxt "ProfileCreationPage|"
+msgid "History dir:"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:125
+msgctxt "ProfileCreationPage|"
+msgid "Data dir:"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:132
+msgctxt "ProfileCreationPage|"
+msgid "Store data at application dir"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:152
+msgctxt "ProfileCreationPage|"
+msgid "Choose cryptograhic module:"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:159
+msgctxt "ProfileCreationPage|"
+msgid "Choose config backend:"
+msgstr ""
+
+#: ../../../core/src/widgets/profiledialog.ui:53
+msgctxt "ProfileDialog|"
+msgid "Profiles"
+msgstr ""
+
+#: ../../../core/libqutim/networkproxy.cpp:90
+msgctxt "Proxy|"
+msgid "Host"
+msgstr ""
+
+#: ../../../core/libqutim/networkproxy.cpp:91
+msgctxt "Proxy|"
+msgid "Port"
+msgstr ""
+
+#: ../../../core/libqutim/networkproxy.cpp:92
+msgctxt "Proxy|"
+msgid "User name"
+msgstr ""
+
+#: ../../../core/libqutim/networkproxy.cpp:93
+msgctxt "Proxy|"
+msgid "Password"
+msgstr ""
+
+#: ../../../core/libqutim/networkproxy.cpp:230
+msgctxt "Proxy|"
+msgid "Socks 5"
+msgstr ""
+
+#: ../../../core/libqutim/networkproxy.cpp:260
+msgctxt "Proxy|"
+msgid "HTTP"
+msgstr ""
+
+#: ../../../core/libqutim/actiontoolbar.cpp:124
+msgctxt "QObject|"
+msgid "ToolBar appearance"
+msgstr ""
+
+#: ../../../core/libqutim/actiontoolbar.cpp:126
+msgctxt "QObject|"
+msgid "Icon size"
+msgstr ""
+
+#: ../../../core/libqutim/actiontoolbar.cpp:132
+msgctxt "QObject|"
+msgid "Tool button style"
+msgstr ""
+
+#: ../../../core/libqutim/utils.cpp:124
+msgctxt "QObject|"
+msgid "1st quarter"
+msgstr ""
+
+#: ../../../core/libqutim/utils.cpp:127
+msgctxt "QObject|"
+msgid "2nd quarter"
+msgstr ""
+
+#: ../../../core/libqutim/utils.cpp:130
+msgctxt "QObject|"
+msgid "3rd quarter"
+msgstr ""
+
+#: ../../../core/libqutim/utils.cpp:133
+msgctxt "QObject|"
+msgid "4th quarter"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:92
+msgctxt "QObject|"
+msgid "Remove finished tasks"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:100
+msgctxt "QObject|"
+msgid "Close"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:215
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 GB"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:217
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 MB"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:219
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 KB"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:222
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 B"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:95
+msgctxt "QObject|"
+msgid "Auto"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:46
+#, qt-format
+msgctxt "QObject|"
+msgid "Message from %1:"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:50
+#, qt-format
+msgctxt "QObject|"
+msgid "Message to %1:"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:53
+msgctxt "QObject|"
+msgid "qutIM launched"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:56
+#, qt-format
+msgctxt "QObject|"
+msgid "Blocked message from %1"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:59
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 has joined"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:62
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 is online"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:65
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 has left"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:68
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 is offline"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:71
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 has changed status to %2"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:74
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 has birthday today!!"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:77
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 is typing"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:82
+msgctxt "QObject|"
+msgid "System notify"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:173
+msgctxt "QObject|"
+msgid "Open chat"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:180
+msgctxt "QObject|"
+msgid "Ignore"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:157
+#, qt-format
+msgctxt "QObject|"
+msgid "Copy %1 to clipboard"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:52
+#: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:148
+msgctxt "SearchForm|"
+msgid "Search"
+msgstr ""
+
+#: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:153
+msgctxt "SearchForm|"
+msgid "Back"
+msgstr ""
+
+#: ../../../core/libqutim/actionbox.cpp:41
+msgctxt "Service|"
+msgid "ActionBoxModule"
+msgstr ""
+
+#: ../../../core/libqutim/settingslayer.cpp:393
+msgctxt "Service|"
+msgid "Settings Window"
+msgstr ""
+
+#: ../../../core/libqutim/sound.cpp:40
+msgctxt "Service|"
+msgid "Popup"
+msgstr ""
+
+#: ../../../core/libqutim/sound.cpp:41
+msgctxt "Service|"
+msgid "Sound"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:53
+msgctxt "Service|"
+msgid "ChatForm"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:54
+msgctxt "Service|"
+msgid "ChatViewFactory"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:77
+msgctxt "Service|"
+msgid "ContactList"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:78
+msgctxt "Service|"
+msgid "ContactListWidget"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:79
+msgctxt "Service|"
+msgid "ContactModel"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:80
+msgctxt "Service|"
+msgid "ContactDelegate"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/servicechooserwidget.ui:14
+msgctxt "ServiceChooser|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/examples/autosettingsitem/autosettings.cpp:39
+msgctxt "Settings|"
+msgid "Test settings"
+msgstr ""
+
+#: ../../../core/examples/autosettingsitem/autosettings.cpp:41
+msgctxt "Settings|"
+msgid "Text"
+msgstr ""
+
+#: ../../../core/examples/autosettingsitem/autosettings.cpp:42
+msgctxt "Settings|"
+msgid "Combo"
+msgstr ""
+
+#: ../../../core/examples/autosettingsitem/autosettings.cpp:43
+msgctxt "Settings|"
+msgid "Check"
+msgstr ""
+
+#: ../../../core/libqutim/settingslayer.cpp:313
+msgctxt "Settings|"
+msgid "Open File"
+msgstr ""
+
+#: ../../../core/libqutim/settingslayer.cpp:315
+msgctxt "Settings|"
+msgid "Log file (*.log)"
+msgstr ""
+
+#: ../../../core/libqutim/settingslayer.cpp:441
+msgctxt "Settings|"
+msgid "General"
+msgstr ""
+
+#: ../../../core/libqutim/settingslayer.cpp:442
+msgctxt "Settings|"
+msgid "Protocols"
+msgstr ""
+
+#: ../../../core/libqutim/settingslayer.cpp:443
+msgctxt "Settings|"
+msgid "Appearance"
+msgstr ""
+
+#: ../../../core/libqutim/settingslayer.cpp:444
+msgctxt "Settings|"
+msgid "Plugins"
+msgstr ""
+
+#: ../../../core/libqutim/settingslayer.cpp:445
+msgctxt "Settings|"
+msgid "Special"
+msgstr ""
+
+#: ../../../core/libqutim/settingslayer.cpp:446
+msgctxt "Settings|"
+msgid "Invalid"
+msgstr ""
+
+#: ../../../core/src/corelayers/accountcreator/accountcreator.cpp:52
+msgctxt "Settings|"
+msgid "Accounts"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/webkitviewfactory.cpp:42
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatform.cpp:46
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatform.cpp:44
+msgctxt "Settings|"
+msgid "Chat"
+msgstr ""
+
+#: ../../../core/src/corelayers/emoticonssettings/emoticonssettings.cpp:36
+msgctxt "Settings|"
+msgid "Emoticons"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfersettings/filetransfersettings.cpp:109
+msgctxt "Settings|"
+msgid "File transfer"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:53
+msgctxt "Settings|"
+msgid "Scrolling type"
+msgstr ""
+
+#: ../../../core/src/corelayers/localization/localizationmodule.cpp:46
+msgctxt "Settings|"
+msgid "Localization"
+msgstr ""
+
+#: ../../../core/src/corelayers/mobilenotificationssettings/mobilenotificationssettings.cpp:47
+#: ../../../core/src/corelayers/notificationssettings/notificationssettings.cpp:45
+msgctxt "Settings|"
+msgid "Notifications"
+msgstr ""
+
+#: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:179
+msgctxt "Settings|"
+msgid "Global proxy"
+msgstr ""
+
+#: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:186
+msgctxt "Settings|"
+msgid "Proxy"
+msgstr ""
+
+#: ../../../core/src/corelayers/qticons/iconsloaderimpl.cpp:85
+msgctxt "Settings|"
+msgid "Icons theme"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:38
+msgctxt "Settings|"
+msgid "Service chooser"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:40
+msgctxt "Settings|"
+msgid "Protocol chooser"
+msgstr ""
+
+#: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:42
+msgctxt "Settings|"
+msgid "Plugin chooser"
+msgstr ""
+
+#: ../../../core/src/corelayers/shortcutsettings/shortcutsettings.cpp:35
+msgctxt "Settings|"
+msgid "Shortcuts"
+msgstr ""
+
+#: ../../../core/src/corelayers/soundthemeselector/soundthemesettings.cpp:35
+msgctxt "Settings|"
+msgid "Sounds"
+msgstr ""
+
+#: ../../../core/examples/simplesettingsdialog/settingsdialog.ui:14
+msgctxt "SettingsDialog|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/libqutim/shortcut.cpp:76
+msgctxt "Shortcut|"
+msgid "Close"
+msgstr ""
+
+#: ../../../core/libqutim/shortcut.cpp:92
+msgctxt "Shortcut|"
+msgid "Next child"
+msgstr ""
+
+#: ../../../core/libqutim/shortcut.cpp:93
+msgctxt "Shortcut|"
+msgid "Previous child"
+msgstr ""
+
+#: ../../../core/libqutim/shortcut.cpp:94
+msgctxt "Shortcut|"
+msgid "Find"
+msgstr ""
+
+#: ../../../core/libqutim/shortcut.cpp:95
+msgctxt "Shortcut|"
+msgid "Find next"
+msgstr ""
+
+#: ../../../core/libqutim/shortcut.cpp:96
+msgctxt "Shortcut|"
+msgid "Find previous"
+msgstr ""
+
+#: ../../../core/libqutim/shortcut.cpp:136
+msgctxt "Shortcut|"
+msgid "Preferences"
+msgstr ""
+
+#: ../../../core/libqutim/shortcut.cpp:137
+msgctxt "Shortcut|"
+msgid "Quit"
+msgstr ""
+
+#: ../../../core/libqutim/shortcut.cpp:139
+msgctxt "Shortcut|"
+msgid "System"
+msgstr ""
+
+#: ../../../core/src/corelayers/shortcutsettings/shortcutsettingswidget.ui:14
+msgctxt "ShortcutSettingsWidget|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:14
+msgctxt "SimpleAboutDialog|"
+msgid "About qutIM"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:110
+msgctxt "SimpleAboutDialog|"
+msgid "Module based instant messenger."
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:143
+msgctxt "SimpleAboutDialog|"
+msgid "Source code repository:"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:160
+msgctxt "SimpleAboutDialog|"
+msgid "Project site:"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:167
+msgctxt "SimpleAboutDialog|"
+msgid "Bug tracker:"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:200
+msgctxt "SimpleAboutDialog|"
+msgid "Developers"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:223
+msgctxt "SimpleAboutDialog|"
+msgid "Translators"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:240
+msgctxt "SimpleAboutDialog|"
+msgid "License"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:14
+msgctxt "SimpleContactlistSettings|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:20
+msgctxt "SimpleContactlistSettings|"
+msgid "Status icons size:"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:30
+msgctxt "SimpleContactlistSettings|"
+msgid "Show extended icons"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:37
+msgctxt "SimpleContactlistSettings|"
+msgid "Show status text"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:44
+msgctxt "SimpleContactlistSettings|"
+msgid "Show avatars"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:51
+msgctxt "SimpleContactlistSettings|"
+msgid "Lite group headers"
+msgstr ""
+
+#: ../../../core/src/corelayers/password/simplepasswordwidget.ui:14
+msgctxt "SimplePasswordWidget|"
+msgid "Password Request"
+msgstr ""
+
+#: ../../../core/src/corelayers/password/simplepasswordwidget.ui:20
+#, qt-format
+msgctxt "SimplePasswordWidget|"
+msgid "Enter password for account %1 (%2):"
+msgstr ""
+
+#: ../../../core/src/corelayers/password/simplepasswordwidget.ui:27
+msgctxt "SimplePasswordWidget|"
+msgid "Enter password:"
+msgstr ""
+
+#: ../../../core/src/corelayers/password/simplepasswordwidget.ui:41
+msgctxt "SimplePasswordWidget|"
+msgid "Remember password"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplestatusdialog.ui:14
+msgctxt "SimpleStatusDialog|"
+msgid "Set Status Text"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.ui:46
+msgctxt "SimpleTagsEditor|"
+msgid "Add"
+msgstr ""
+
+#: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:14
+msgctxt "SimpletraySettings|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:32
+msgctxt "SimpletraySettings|"
+msgid "Icon"
+msgstr ""
+
+#: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:38
+msgctxt "SimpletraySettings|"
+msgid "Show number of new messages"
+msgstr ""
+
+#: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:45
+msgctxt "SimpletraySettings|"
+msgid "Show number of chats with new messages"
+msgstr ""
+
+#: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:52
+msgctxt "SimpletraySettings|"
+msgid "Show only icon"
+msgstr ""
+
+#: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:62
+msgctxt "SimpletraySettings|"
+msgid "Other"
+msgstr ""
+
+#: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:68
+msgctxt "SimpletraySettings|"
+msgid "Show mail icon if there are new messages"
+msgstr ""
+
+#: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:75
+msgctxt "SimpletraySettings|"
+msgid "Blink icon"
+msgstr ""
+
+#: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp:68
+msgctxt "Sound|"
+msgid "No sound"
+msgstr ""
+
+#: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp:99
+msgctxt "SoundTheme|"
+msgid "Preview"
+msgstr ""
+
+#: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp:107
+msgctxt "SoundTheme|"
+msgid "Type"
+msgstr ""
+
+#: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp:114
+msgctxt "SoundTheme|"
+msgid "Play"
+msgstr ""
+
+#: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.ui:14
+msgctxt "SoundThemeSelector|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:14
+msgctxt "StackedChatBehavior|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:62
+msgctxt "StackedChatBehavior|"
+msgid "Send Key"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:70
+msgctxt "StackedChatBehavior|"
+msgid "Store service messages in history"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:77
+msgctxt "StackedChatBehavior|"
+msgid "Number of previous messages shown in new chats"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:80
+msgctxt "StackedChatBehavior|"
+msgid "Number of shown previous messages:"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:90
+msgctxt "StackedChatBehavior|"
+msgid "Don't group messages after (sec):"
+msgstr ""
+
+#: ../../../core/libqutim/status.cpp:156
+msgctxt "Status|"
+msgid "Online"
+msgstr ""
+
+#: ../../../core/libqutim/status.cpp:159
+msgctxt "Status|"
+msgid "Free for chat"
+msgstr ""
+
+#: ../../../core/libqutim/status.cpp:162
+msgctxt "Status|"
+msgid "Away"
+msgstr ""
+
+#: ../../../core/libqutim/status.cpp:165
+msgctxt "Status|"
+msgid "Not available"
+msgstr ""
+
+#: ../../../core/libqutim/status.cpp:168
+msgctxt "Status|"
+msgid "Do not disturb"
+msgstr ""
+
+#: ../../../core/libqutim/status.cpp:171
+msgctxt "Status|"
+msgid "Invisible"
+msgstr ""
+
+#: ../../../core/libqutim/status.cpp:174
+msgctxt "Status|"
+msgid "Offline"
+msgstr ""
+
+#: ../../../core/libqutim/status.cpp:177
+msgctxt "Status|"
+msgid "Connecting"
+msgstr ""
+
+#: ../../../core/libqutim/status.cpp:180
+msgctxt "Status|"
+msgid "Unknown"
+msgstr ""
+
+#: ../../../core/libqutim/personinfo.cpp:219
+msgctxt "TRANSLATORS|"
+msgid "Your names"
+msgstr ""
+
+#: ../../../core/libqutim/personinfo.cpp:220
+#: ../../../core/libqutim/personinfo.cpp:221
+msgctxt "TRANSLATORS|"
+msgid "Your emails"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:14
+msgctxt "TabbedChatBehavior|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:47
+msgctxt "TabbedChatBehavior|"
+msgid "Send Key"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:55
+msgctxt "TabbedChatBehavior|"
+msgid "Store service messages in history"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:62
+msgctxt "TabbedChatBehavior|"
+msgid "Number of previous messages shown in new chats"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:65
+msgctxt "TabbedChatBehavior|"
+msgid "Number of shown previous messages:"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:75
+msgctxt "TabbedChatBehavior|"
+msgid "Don't group messages after (sec):"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:89
+msgctxt "TabbedChatBehavior|"
+msgid "Tab position:"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:99
+msgctxt "TabbedChatBehavior|"
+msgid "Form layout:"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:109
+msgctxt "TabbedChatBehavior|"
+msgid "Chat state icons on tabs"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:116
+msgctxt "TabbedChatBehavior|"
+msgid "Show menubar"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/tagsfilterdialog.ui:14
+msgctxt "TagsFilterDialog|"
+msgid "Select tags"
+msgstr ""
+
+#: ../../../core/libqutim/personinfo.cpp:224
+msgctxt "Task|"
+msgid "Translator"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:95
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:99
+msgctxt "Task|"
+msgid "Artist"
+msgstr ""
+
+#: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:40
+#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:39
+#: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:45
+msgctxt "Task|"
+msgid "Author"
+msgstr ""
+
+#: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:43
+msgctxt "Task|"
+msgid "Developer"
+msgstr ""
+
+#: ../../../core/libqutim/buddy.cpp:100
+msgctxt "ToolTip|"
+msgid "Account"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.ui:14
+msgctxt "chatAppearance|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.ui:49
+msgctxt "chatAppearance|"
+msgid "about:blank"
+msgstr ""
+
+#: ../../../core/src/corelayers/emoticonssettings/emoticonsselector.ui:14
+msgctxt "emoticonsSelector|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:51
+msgctxt "kb_Qwerty|"
+msgid "q"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:66
+msgctxt "kb_Qwerty|"
+msgid "qQ1§й"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:69
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:100
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:134
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:165
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:196
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:227
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:258
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:289
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:320
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:351
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:389
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:420
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:451
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:482
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:513
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:544
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:575
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:606
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:637
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:665
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:732
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:763
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:794
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:825
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:856
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:887
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:918
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:943
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1079
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1141
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1172
+msgctxt "kb_Qwerty|"
+msgid "bgDirectInput"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:85
+msgctxt "kb_Qwerty|"
+msgid "w"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:97
+msgctxt "kb_Qwerty|"
+msgid "wW2$ц"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:116
+msgctxt "kb_Qwerty|"
+msgid "e"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:131
+msgctxt "kb_Qwerty|"
+msgid "eE3£у"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:150
+msgctxt "kb_Qwerty|"
+msgid "r"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:162
+msgctxt "kb_Qwerty|"
+msgid "rR4€к"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:181
+msgctxt "kb_Qwerty|"
+msgid "t"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:193
+msgctxt "kb_Qwerty|"
+msgid "tT5¥е"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:212
+msgctxt "kb_Qwerty|"
+msgid "y"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:224
+msgctxt "kb_Qwerty|"
+msgid "yY6-н"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:243
+msgctxt "kb_Qwerty|"
+msgid "u"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:255
+msgctxt "kb_Qwerty|"
+msgid "uU7<г"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:274
+msgctxt "kb_Qwerty|"
+msgid "i"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:286
+msgctxt "kb_Qwerty|"
+msgid "iI8>ш"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:305
+msgctxt "kb_Qwerty|"
+msgid "o"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:317
+msgctxt "kb_Qwerty|"
+msgid "oO9[щ"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:336
+msgctxt "kb_Qwerty|"
+msgid "p"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:348
+msgctxt "kb_Qwerty|"
+msgid "pP0]з"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:374
+msgctxt "kb_Qwerty|"
+msgid "a"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:386
+msgctxt "kb_Qwerty|"
+msgid "aA({ф"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:405
+msgctxt "kb_Qwerty|"
+msgid "s"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:417
+msgctxt "kb_Qwerty|"
+msgid "sS)}ы"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:436
+msgctxt "kb_Qwerty|"
+msgid "d"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:448
+msgctxt "kb_Qwerty|"
+msgid "dD+^в"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:467
+msgctxt "kb_Qwerty|"
+msgid "f"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:479
+msgctxt "kb_Qwerty|"
+msgid "fF*\\а"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:498
+msgctxt "kb_Qwerty|"
+msgid "g"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:510
+msgctxt "kb_Qwerty|"
+msgid "gG=/п"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:529
+msgctxt "kb_Qwerty|"
+msgid "h"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:541
+msgctxt "kb_Qwerty|"
+msgid "hH&~р"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:560
+msgctxt "kb_Qwerty|"
+msgid "j"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:572
+msgctxt "kb_Qwerty|"
+msgid "jJ--о"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:591
+msgctxt "kb_Qwerty|"
+msgid "k"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:603
+msgctxt "kb_Qwerty|"
+msgid "kK__л"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:622
+msgctxt "kb_Qwerty|"
+msgid "l"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:634
+msgctxt "kb_Qwerty|"
+msgid "lL^|д"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:653
+msgctxt "kb_Qwerty|"
+msgid ":"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:662
+msgctxt "kb_Qwerty|"
+msgid ":;`№ж"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:717
+msgctxt "kb_Qwerty|"
+msgid "z"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:729
+msgctxt "kb_Qwerty|"
+msgid "zZёёя"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:748
+msgctxt "kb_Qwerty|"
+msgid "x"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:760
+msgctxt "kb_Qwerty|"
+msgid "xXъъч"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:779
+msgctxt "kb_Qwerty|"
+msgid "c"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:791
+msgctxt "kb_Qwerty|"
+msgid "cC??с"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:810
+msgctxt "kb_Qwerty|"
+msgid "v"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:822
+msgctxt "kb_Qwerty|"
+msgid "vV!!м"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:841
+msgctxt "kb_Qwerty|"
+msgid "b"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:853
+msgctxt "kb_Qwerty|"
+msgid "bB;;и"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:872
+msgctxt "kb_Qwerty|"
+msgid "n"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:884
+msgctxt "kb_Qwerty|"
+msgid "nN::т"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:903
+msgctxt "kb_Qwerty|"
+msgid "m"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:915
+msgctxt "kb_Qwerty|"
+msgid "mM,,ь"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:931
+msgctxt "kb_Qwerty|"
+msgid "?"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:940
+msgctxt "kb_Qwerty|"
+msgid "?!%%б"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1004
+msgctxt "kb_Qwerty|"
+msgid "1#"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1029
+msgctxt "kb_Qwerty|"
+msgid ""
+"ru\n"
+"en"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1064
+msgctxt "kb_Qwerty|"
+msgid ","
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1076
+msgctxt "kb_Qwerty|"
+msgid ",(##х"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1126
+msgctxt "kb_Qwerty|"
+msgid "."
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1138
+msgctxt "kb_Qwerty|"
+msgid ".)''э"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1160
+msgctxt "kb_Qwerty|"
+msgid "\""
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1169
+msgctxt "kb_Qwerty|"
+msgid "\"'@@ю"
+msgstr ""
+
+#: ../../../core/libqutim/contactsearch.cpp:85
+msgctxt "qutim_sdk_0_3::ContactSearchRequest|"
+msgid "Add contact"
+msgstr ""
+
+#: ../../../core/libqutim/filetransfer.cpp:331
+msgctxt "qutim_sdk_0_3::FileTransferJob|"
+msgid "Initiation"
+msgstr ""
+
+#: ../../../core/libqutim/filetransfer.cpp:333
+msgctxt "qutim_sdk_0_3::FileTransferJob|"
+msgid "Started"
+msgstr ""
+
+#: ../../../core/libqutim/filetransfer.cpp:335
+msgctxt "qutim_sdk_0_3::FileTransferJob|"
+msgid "Finished"
+msgstr ""
+
+#: ../../../core/libqutim/filetransfer.cpp:337
+msgctxt "qutim_sdk_0_3::FileTransferJob|"
+msgid "Error"
+msgstr ""
+
+#: ../../../core/libqutim/filetransfer.cpp:339
+#: ../../../core/libqutim/filetransfer.cpp:365
+msgctxt "qutim_sdk_0_3::FileTransferJob|"
+msgid "Unknown"
+msgstr ""
+
+#: ../../../core/libqutim/filetransfer.cpp:357
+msgctxt "qutim_sdk_0_3::FileTransferJob|"
+msgid "Network error"
+msgstr ""
+
+#: ../../../core/libqutim/filetransfer.cpp:359
+msgctxt "qutim_sdk_0_3::FileTransferJob|"
+msgid "Canceled"
+msgstr ""
+
+#: ../../../core/libqutim/filetransfer.cpp:361
+msgctxt "qutim_sdk_0_3::FileTransferJob|"
+msgid "Not supported"
+msgstr ""
+
+#: ../../../core/libqutim/filetransfer.cpp:363
+msgctxt "qutim_sdk_0_3::FileTransferJob|"
+msgid "Input/output error"
+msgstr ""
+
+#: ../../../core/libqutim/modulemanager.cpp:418
+#, qt-format
+msgctxt "qutim_sdk_0_3::ModuleManager|"
+msgid ""
+"Could not init plugin: \n"
+" %1"
+msgstr ""
+
+#: ../../../core/libqutim/profile.cpp:123
+msgctxt "qutim_sdk_0_3::Profile|"
+msgid "Password is mismatched."
+msgstr ""
+
+#: ../../../core/libqutim/profile.cpp:125
+msgctxt "qutim_sdk_0_3::Profile|"
+msgid "Crypto service is unknown."
+msgstr ""
+
+#: ../../../core/libqutim/profile.cpp:127
+msgctxt "qutim_sdk_0_3::Profile|"
+msgid "Wrong profile id."
+msgstr ""
+
+#: ../../../core/libqutim/profile.cpp:160
+msgctxt "qutim_sdk_0_3::Profile|"
+msgid "Can't open file with hash"
+msgstr ""
+
+#: ../../../core/libqutim/sound.cpp:282
+msgctxt "qutim_sdk_0_3::SoundHandler|"
+msgid "Play sound"
+msgstr ""
+
+#: ../../../core/src/corelayers/contactinfo/userinformation.ui:14
+msgctxt "userInformationClass|"
+msgid "userInformation"
+msgstr ""
+
+#: ../../../core/src/corelayers/contactinfo/userinformation.ui:31
+msgctxt "userInformationClass|"
+msgid "Request details"
+msgstr ""
+
+#: ../../../core/src/corelayers/contactinfo/userinformation.ui:55
+msgctxt "userInformationClass|"
+msgid "Save"
+msgstr ""
+
+#: ../../../core/src/corelayers/contactinfo/userinformation.ui:66
+msgctxt "userInformationClass|"
+msgid "Close"
+msgstr ""

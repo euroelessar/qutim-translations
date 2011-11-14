@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:46
+msgctxt "Author|"
+msgid "Alexander Kazarin"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:49
+msgctxt "Author|"
+msgid "Sidorov Aleksey"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:53
+msgctxt "Author|"
+msgid "Nicolay Izoderov"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:42
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:62
+msgctxt "Plugin|"
+msgid "UrlPreview"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:43
+msgctxt "Plugin|"
+msgid "Preview images directly in the chat window"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:47
+msgctxt "Task|"
+msgid "Author"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:50
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:54
+msgctxt "Task|"
+msgid "Developer"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:64
+msgctxt "UrlPreview::UrlHandler|"
+msgid "URL Preview"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:64
+msgctxt "UrlPreview::UrlHandler|"
+msgid "bytes"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:229
+msgctxt "UrlPreview::UrlHandler|"
+msgid "YouTube video"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:232
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:265
+msgctxt "UrlPreview::UrlHandler|"
+msgid "Unknown"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:242
+msgctxt "UrlPreview::UrlHandler|"
+msgid "HTML5 Audio"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:256
+msgctxt "UrlPreview::UrlHandler|"
+msgid "HTML5 Video"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:14
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Form"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:26
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Max filesize"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:33
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Max picture size to preview "
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:36
+msgctxt "UrlPreviewSettingsForm|"
+msgid " bytes"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:49
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Height"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:56
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Max height of images preview."
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:59
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:88
+msgctxt "UrlPreviewSettingsForm|"
+msgid "px"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:78
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Width"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:85
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Max width of images preview."
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:107
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Images preview"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:117
+msgctxt "UrlPreviewSettingsForm|"
+msgid "YouTube preview"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:127
+msgctxt "UrlPreviewSettingsForm|"
+msgid "HTML5 Audio"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:137
+msgctxt "UrlPreviewSettingsForm|"
+msgid "HTML5 Video"
+msgstr ""

@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/macintegration/src/macidle/macidle.mm:79
+msgctxt "AutoAway|"
+msgid "Auto-away"
+msgstr ""
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:124
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Accounts"
+msgstr ""
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:125
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Chats"
+msgstr ""
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:127
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Set Status Text"
+msgstr ""
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:281
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "File"
+msgstr ""
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:282
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Roster"
+msgstr ""
+
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:14
+msgctxt "MacIdleWidget|"
+msgid "Form"
+msgstr ""
+
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:32
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:56
+#, qt-format
+msgctxt "MacIdleWidget|"
+msgid "Set status «%1» after:"
+msgstr ""
+
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:39
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:99
+msgctxt "MacIdleWidget|seconds"
+msgid " min"
+msgstr ""
+
+#: ../../../plugins/macintegration/src/macdock/macdock.mm:85
+msgctxt "MacIntegration::MacDock|"
+msgid "Opened chats"
+msgstr ""
+
+#: ../../../plugins/macintegration/src/macspellchecker/macspellsettings.cpp:38
+msgctxt "MacIntegration::MacSpellSettings|"
+msgid "Language"
+msgstr ""
+
+#: ../../../plugins/macintegration/src/macspellchecker/macspellchecker.mm:21
+msgctxt "Settings|"
+msgid "Spell checker"
+msgstr ""

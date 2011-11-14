@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:40
+#: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:30
+#: ../../../plugins/scriptapi/src/scriptplugin.cpp:113
+msgctxt "Author|"
+msgid "Ruslan Nigmatullin"
+msgstr ""
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:44
+msgctxt "Ignorer|"
+msgid "Evil ids"
+msgstr ""
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:36
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:98
+msgctxt "Plugin|"
+msgid "Antispam"
+msgstr ""
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:37
+msgctxt "Plugin|"
+msgid "Blocks spam by qurstion-answer pair"
+msgstr ""
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:26
+#: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:39
+msgctxt "Plugin|"
+msgid "Ignorer"
+msgstr ""
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:27
+msgctxt "Plugin|"
+msgid "Ignores messages from certain persons"
+msgstr ""
+
+#: ../../../plugins/scriptapi/src/scriptplugin.cpp:116
+msgctxt "Plugin|"
+msgid "Script API"
+msgstr ""
+
+#: ../../../plugins/scriptapi/src/scriptplugin.cpp:117
+msgctxt "Plugin|"
+msgid "Added ability to create plugins at JavaScript"
+msgstr ""
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:41
+#: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:31
+#: ../../../plugins/scriptapi/src/scriptplugin.cpp:114
+msgctxt "Task|"
+msgid "Developer"
+msgstr ""
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:47
+msgctxt "plugin|"
+msgid ""
+"Beer, wine, vodka, champagne: after which drink in this sequence I should "
+"stop?"
+msgstr ""
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:48
+msgctxt "plugin|"
+msgid "Vodka"
+msgstr ""
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:49
+msgctxt "plugin|"
+msgid "We are ready to drink with you!"
+msgstr ""
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:112
+msgctxt "plugin|"
+msgid "Enabled:"
+msgstr ""
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:113
+msgctxt "plugin|"
+msgid "Block authorization requests:"
+msgstr ""
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:114
+msgctxt "plugin|"
+msgid "Question:"
+msgstr ""
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:115
+msgctxt "plugin|"
+msgid "Answers (semicolon as separator):"
+msgstr ""
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:116
+msgctxt "plugin|"
+msgid "Message on correct answer:"
+msgstr ""

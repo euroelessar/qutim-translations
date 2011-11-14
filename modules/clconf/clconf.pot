@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/clconf/src/clconfplugin.cpp:39
+msgctxt "Author|"
+msgid "Alexey Prokhin"
+msgstr ""
+
+#: ../../../plugins/clconf/src/proxycontact.cpp:51
+msgctxt "ClConf|"
+msgid "Conferences"
+msgstr ""
+
+#: ../../../plugins/clconf/src/clconfplugin.cpp:42
+msgctxt "Plugin|"
+msgid "Conferences in contact list"
+msgstr ""
+
+#: ../../../plugins/clconf/src/clconfplugin.cpp:43
+msgctxt "Plugin|"
+msgid "Plugin adds your conferences to the contact list"
+msgstr ""
+
+#: ../../../plugins/clconf/src/clconfplugin.cpp:40
+msgctxt "Task|"
+msgid "Author"
+msgstr ""

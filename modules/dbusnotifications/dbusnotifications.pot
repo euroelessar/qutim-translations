@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/dbusnotifications/src/dplugin.cpp:42
+msgctxt "Author|"
+msgid "Sidorov Aleksey"
+msgstr ""
+
+#: ../../../plugins/dbusnotifications/src/dbusbackend.cpp:84
+msgctxt "DBusBackend|"
+msgid "Show popup"
+msgstr ""
+
+#: ../../../plugins/dbusnotifications/src/dplugin.cpp:38
+msgctxt "Plugin|"
+msgid "DBus notifications"
+msgstr ""
+
+#: ../../../plugins/dbusnotifications/src/dplugin.cpp:39
+msgctxt "Plugin|"
+msgid "Notification system based on Freedesktop DBus protocol"
+msgstr ""
+
+#: ../../../plugins/dbusnotifications/src/dplugin.cpp:43
+msgctxt "Task|"
+msgid "Author"
+msgstr ""
+
+#: ../../../plugins/dbusnotifications/src/dplugin.cpp:46
+msgctxt "plugin|"
+msgid "DBus notifications"
+msgstr ""
+
+#: ../../../plugins/dbusnotifications/src/dplugin.cpp:47
+msgctxt "plugin|"
+msgid "Notification system based on Freedesktop DBus protocol"
+msgstr ""

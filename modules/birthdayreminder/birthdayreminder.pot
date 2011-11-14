@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:269
+#, qt-format
+msgctxt "BirthdayReminder|"
+msgid "It's %1's birthday today! Hooray!"
+msgstr ""
+
+#: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:272
+#, qt-format
+msgctxt "BirthdayReminder|"
+msgid "%1's birthday will be tomorrow! Hooray!"
+msgstr ""
+
+#: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:275
+#, qt-format
+msgctxt "BirthdayReminder|"
+msgid "%2's birthday is in %1 days"
+msgid_plural "%2's birthday is in %1 days"
+msgstr[0] ""
+
+#: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:281
+#, qt-format
+msgctxt "BirthdayReminder|"
+msgid "%1's birhday"
+msgstr ""
+
+#: ../../../plugins/birthdayreminder/src/birthdayremindersettings.ui:14
+msgctxt "BirthdayReminderSettings|"
+msgid "Birthday reminder settings"
+msgstr ""
+
+#: ../../../plugins/birthdayreminder/src/birthdayremindersettings.ui:22
+msgctxt "BirthdayReminderSettings|"
+msgid "Show notifications every"
+msgstr ""
+
+#: ../../../plugins/birthdayreminder/src/birthdayremindersettings.ui:39
+msgctxt "BirthdayReminderSettings|"
+msgid "hours"
+msgstr ""
+
+#: ../../../plugins/birthdayreminder/src/birthdayremindersettings.ui:50
+msgctxt "BirthdayReminderSettings|"
+msgid "starting from"
+msgstr ""
+
+#: ../../../plugins/birthdayreminder/src/birthdayremindersettings.ui:63
+msgctxt "BirthdayReminderSettings|"
+msgid "days before birthday"
+msgstr ""
+
+#: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:138
+msgctxt "Plugin|"
+msgid "BirthdayReminder"
+msgstr ""
+
+#: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:139
+msgctxt "Plugin|"
+msgid ""
+"This plugin shows notifications when someone from your contact list has a "
+"birthday"
+msgstr ""
+
+#: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:160
+msgctxt "Settings|"
+msgid "Birthday reminder"
+msgstr ""

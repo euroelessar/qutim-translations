@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/floaties/src/floaties.cpp:38
+msgctxt "Author|"
+msgid "Ruslan Nigmatullin"
+msgstr ""
+
+#: ../../../plugins/floaties/src/floaties.cpp:41
+msgctxt "Plugin|"
+msgid "Floaties"
+msgstr ""
+
+#: ../../../plugins/floaties/src/floaties.cpp:42
+msgctxt "Plugin|"
+msgid "Implementation of floaty contacts"
+msgstr ""
+
+#: ../../../plugins/floaties/src/floaties.cpp:39
+msgctxt "Task|"
+msgid "Author"
+msgstr ""

@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:55
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Vasya Pupkin"
+msgstr ""
+
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:66
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Noname"
+msgstr ""
+
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:135
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:191
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Unable to create chat session"
+msgstr ""
+
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:195
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Preview message"
+msgstr ""
+
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:202
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Hello!"
+msgstr ""
+
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:205
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "How are you?"
+msgstr ""
+
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:208
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "I am fine!"
+msgstr ""
+
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:211
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "/me is thinking!"
+msgstr ""
+
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:214
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Vasya Pupkin is reading you mind"
+msgstr ""
+
+#: ../../../plugins/qmlchat/quickchatviewfactory.cpp:41
+msgctxt "Settings|"
+msgid "Chat"
+msgstr ""
+
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:177
+msgctxt "main|"
+msgid "is active"
+msgstr ""
+
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:179
+msgctxt "main|"
+msgid "is inactive"
+msgstr ""
+
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:181
+msgctxt "main|"
+msgid "is gone"
+msgstr ""
+
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:183
+msgctxt "main|"
+msgid "is composing"
+msgstr ""
+
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:185
+msgctxt "main|"
+msgid "is paused"
+msgstr ""
+
+#: ../../../plugins/qmlchat/settings/chatappearance.ui:14
+msgctxt "quickChatAppearance|"
+msgid "Form"
+msgstr ""
+
+#: ../../../plugins/qmlchat/settings/chatappearance.ui:20
+msgctxt "quickChatAppearance|"
+msgid "Enable openGL acceleration"
+msgstr ""

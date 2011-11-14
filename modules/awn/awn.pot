@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/awn/src/awnservice.cpp:282
+msgctxt "AWNService|"
+msgid "Show/Hide"
+msgstr ""
+
+#: ../../../plugins/awn/src/awnservice.cpp:283
+msgctxt "AWNService|"
+msgid "Read all messages"
+msgstr ""
+
+#: ../../../plugins/awn/src/awnservice.cpp:284
+msgctxt "AWNService|"
+msgid "Go online"
+msgstr ""
+
+#: ../../../plugins/awn/src/awnservice.cpp:285
+msgctxt "AWNService|"
+msgid "Go offline"
+msgstr ""
+
+#: ../../../plugins/awn/src/awnservice.cpp:286
+msgctxt "AWNService|"
+msgid "Exit QutIM"
+msgstr ""
+
+#: ../../../plugins/awn/src/awn.cpp:38
+msgctxt "Author|"
+msgid "Stanislav (proDOOMman) Kosolapov"
+msgstr ""
+
+#: ../../../plugins/awn/src/awn.cpp:42 ../../../plugins/awn/src/awn.cpp:47
+msgctxt "Plugin|"
+msgid "AWN"
+msgstr ""
+
+#: ../../../plugins/awn/src/awn.cpp:43 ../../../plugins/awn/src/awn.cpp:48
+msgctxt "Plugin|"
+msgid "Avant window navigator dock integration"
+msgstr ""
+
+#: ../../../plugins/awn/src/awn.cpp:39
+msgctxt "Task|"
+msgid "Developer"
+msgstr ""
