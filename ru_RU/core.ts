@@ -448,7 +448,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ChatSession</name>
     <message>
-        <location filename="../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+447"/>
+        <location filename="../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp" line="+437"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
@@ -1748,7 +1748,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileCreationPage</name>
     <message>
-        <location filename="../../core/src/profilecreationpage.cpp" line="+153"/>
+        <location filename="../../core/src/widgets/profilecreationpage.cpp" line="+153"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -1799,33 +1799,28 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::ProfileDialog</name>
     <message>
-        <location filename="../../core/src/profiledialog.cpp" line="+160"/>
         <source>Password is mismatched.</source>
-        <translation>Не совпадение пароля.</translation>
+        <translation type="obsolete">Не совпадение пароля.</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Crypto service is unknown.</source>
-        <translation>Система шифрования не известна.</translation>
+        <translation type="obsolete">Система шифрования не известна.</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Wrong profile id.</source>
-        <translation>Не верный идентификатор профитя.</translation>
+        <translation type="obsolete">Не верный идентификатор профитя.</translation>
     </message>
     <message>
-        <location line="+3"/>
-        <location line="+30"/>
+        <location filename="../../core/src/widgets/profiledialog.cpp" line="+117"/>
         <source>Error while loading</source>
         <translation>Ошибка времени загрузки</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Can&apos;t open file with hash</source>
-        <translation type="unfinished">Невозможно открыть файл с хэшем</translation>
+        <translation type="obsolete">Невозможно открыть файл с хэшем</translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+23"/>
         <source>Enter name</source>
         <translation>Укажите имя</translation>
     </message>
@@ -2384,7 +2379,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>Core::SubmitPage</name>
     <message>
-        <location filename="../../core/src/submitpage.cpp" line="+45"/>
+        <location filename="../../core/src/widgets/submitpage.cpp" line="+45"/>
         <source>Congratulations</source>
         <translation>Поздравляем</translation>
     </message>
@@ -3906,7 +3901,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ProfileCreationPage</name>
     <message>
-        <location filename="../../core/src/profilecreationpage.ui" line="+14"/>
+        <location filename="../../core/src/widgets/profilecreationpage.ui" line="+14"/>
         <source>WizardPage</source>
         <translation>Помошник миграции</translation>
     </message>
@@ -3999,7 +3994,7 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">Создать</translation>
     </message>
     <message>
-        <location filename="../../core/src/profiledialog.ui" line="+53"/>
+        <location filename="../../core/src/widgets/profiledialog.ui" line="+53"/>
         <source>Profiles</source>
         <translation>Профили</translation>
     </message>
@@ -5584,6 +5579,29 @@ en</source>
  %1</source>
         <translation>Не могу запустить плагин: 
  %1</translation>
+    </message>
+</context>
+<context>
+    <name>qutim_sdk_0_3::Profile</name>
+    <message>
+        <location filename="../../core/libqutim/profile.cpp" line="+123"/>
+        <source>Password is mismatched.</source>
+        <translation type="unfinished">Не совпадение пароля.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Crypto service is unknown.</source>
+        <translation type="unfinished">Система шифрования не известна.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Wrong profile id.</source>
+        <translation type="unfinished">Не верный идентификатор профитя.</translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Can&apos;t open file with hash</source>
+        <translation type="unfinished">Невозможно открыть файл с хэшем</translation>
     </message>
 </context>
 <context>

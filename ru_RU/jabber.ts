@@ -1133,7 +1133,7 @@
 <context>
     <name>Jabber::JAccount</name>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+229"/>
+        <location filename="../../protocols/jabber/src/protocol/account/jaccount.cpp" line="+231"/>
         <source>qutIM</source>
         <comment>Local qutIM&apos;s name</comment>
         <translation type="unfinished"></translation>
@@ -1617,7 +1617,7 @@ Accept invitation?</source>
         <translation>Укажите причину блокировки %1</translation>
     </message>
     <message>
-        <location line="+236"/>
+        <location line="+267"/>
         <source>Possible client</source>
         <translation>Возможный клиент</translation>
     </message>
@@ -2708,7 +2708,7 @@ Accept invitation?</source>
         <translation type="obsolete">Jabber</translation>
     </message>
     <message>
-        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-324"/>
+        <location filename="../../protocols/jabber/src/protocol/jprotocol.cpp" line="-355"/>
         <source>Main settings</source>
         <translation>Общее</translation>
     </message>
