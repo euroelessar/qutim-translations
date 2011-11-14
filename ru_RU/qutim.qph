@@ -5687,4 +5687,36 @@ Accept invitation?</source>
     <source>HTML5 Video</source>
     <target>HTML5 Видео</target>
 </phrase>
+<phrase>
+    <source>Developers</source>
+    <target>Разработчики</target>
+</phrase>
+<phrase>
+    <source>Translators</source>
+    <target>Переводчики</target>
+</phrase>
+<phrase>
+    <source>License</source>
+    <target>Лицензия</target>
+</phrase>
+<phrase>
+    <source>Add contact</source>
+    <target>Добавить контакт</target>
+</phrase>
+<phrase>
+    <source>Reject</source>
+    <target>Отклонить</target>
+</phrase>
+<phrase>
+    <source>Bookmarks</source>
+    <target>Закладки</target>
+</phrase>
+<phrase>
+    <source>Conference</source>
+    <target>Конференция</target>
+</phrase>
+<phrase>
+    <source>Based on Qt %1 (%2 bit).</source>
+    <target>Основано на библиотеке Qt версии %1 (%2 бит).</target>
+</phrase>
 </QPH>
