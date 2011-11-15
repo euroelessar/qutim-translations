@@ -5,6 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: bg\n"
+"X-Source-Language: C\n"
 "X-Qt-Contexts: true\n"
 
 #~ msgctxt "Author|"
@@ -14,7 +15,7 @@ msgstr ""
 #: ../../../plugins/macintegration/src/macidle/macidle.mm:79
 msgctxt "AutoAway|"
 msgid "Auto-away"
-msgstr ""
+msgstr "Автоматично отсъствие"
 
 #~ msgctxt "Core::SimpleContactList::MacWidget|"
 #~ msgid "Main Toolbar"
@@ -66,7 +67,7 @@ msgstr " мин"
 #: ../../../plugins/macintegration/src/macdock/macdock.mm:111
 msgctxt "MacIntegration::MacDock|"
 msgid "Opened chats"
-msgstr ""
+msgstr "Отворени разговори"
 
 #: ../../../plugins/macintegration/src/macspellchecker/macspellsettings.cpp:38
 msgctxt "MacIntegration::MacSpellSettings|"
@@ -108,7 +109,7 @@ msgstr "Език"
 #: ../../../plugins/macintegration/src/macspellchecker/macspellchecker.mm:21
 msgctxt "Settings|"
 msgid "Spell checker"
-msgstr ""
+msgstr "Проверка на правописа"
 
 #~ msgctxt "Task|"
 #~ msgid "Author"
