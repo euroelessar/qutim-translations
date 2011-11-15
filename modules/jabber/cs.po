@@ -1228,7 +1228,7 @@ msgctxt "Jabber::JServiceBrowser|"
 msgid "Identities:"
 msgstr "Identity:"
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:343
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:345
 #, fuzzy
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Features:"

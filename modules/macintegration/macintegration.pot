@@ -10,27 +10,27 @@ msgctxt "AutoAway|"
 msgid "Auto-away"
 msgstr ""
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:124
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:122
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Accounts"
 msgstr ""
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:125
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:123
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Chats"
 msgstr ""
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:127
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:125
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Set Status Text"
 msgstr ""
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:281
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:279
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "File"
 msgstr ""
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:282
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:280
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Roster"
 msgstr ""
@@ -53,7 +53,7 @@ msgctxt "MacIdleWidget|seconds"
 msgid " min"
 msgstr ""
 
-#: ../../../plugins/macintegration/src/macdock/macdock.mm:85
+#: ../../../plugins/macintegration/src/macdock/macdock.mm:111
 msgctxt "MacIntegration::MacDock|"
 msgid "Opened chats"
 msgstr ""

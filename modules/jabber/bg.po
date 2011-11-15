@@ -1197,7 +1197,7 @@ msgctxt "Jabber::JServiceBrowser|"
 msgid "Identities:"
 msgstr "Самоличности:"
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:343
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:345
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Features:"
 msgstr "Характеристики:"

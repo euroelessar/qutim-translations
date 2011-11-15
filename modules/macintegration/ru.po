@@ -20,30 +20,30 @@ msgstr ""
 #~ msgid "Main Toolbar"
 #~ msgstr "Основная панель"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:281
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:279
 #, fuzzy
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "File"
 msgstr "Файл"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:124
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:122
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Accounts"
 msgstr "Учетные записи"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:125
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:123
 #, fuzzy
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Chats"
 msgstr "Чаты"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:282
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:280
 #, fuzzy
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Roster"
 msgstr "Ростер"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:127
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:125
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Set Status Text"
 msgstr "Установить текст статуса"
@@ -67,7 +67,7 @@ msgctxt "MacIdleWidget|seconds"
 msgid " min"
 msgstr " мин"
 
-#: ../../../plugins/macintegration/src/macdock/macdock.mm:85
+#: ../../../plugins/macintegration/src/macdock/macdock.mm:111
 msgctxt "MacIntegration::MacDock|"
 msgid "Opened chats"
 msgstr ""

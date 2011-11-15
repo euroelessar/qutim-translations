@@ -431,7 +431,7 @@ msgid "Show tags and contacts"
 msgstr "Tags und Kontakte"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:114
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:72
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:75
 msgctxt "ContactList|"
 msgid "Default style"
 msgstr "Standard-Stil"
@@ -542,6 +542,12 @@ msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "Conference %1 (%2)"
 msgstr "Konferenz mit %1 (%2)"
 
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:78
+#, qt-format
+msgctxt "Core::AdiumChat::AbstractChatWidget|"
+msgid "%1 - qutIM"
+msgstr ""
+
 #: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:56
 msgctxt "Core::AdiumChat::ChatAppearance|"
 msgid "Vasya Pupkin"
@@ -593,7 +599,7 @@ msgctxt "Core::AdiumChat::ChatAppearance|"
 msgid "Style variant:"
 msgstr "Stilvarianten:"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/actions/chatemoticonswidget.cpp:71
+#: ../../../core/src/corelayers/adiumchat/chatlayer/actions/chatemoticonswidget.cpp:73
 msgctxt "Core::AdiumChat::ChatEmoticonsWidget|"
 msgid "Close"
 msgstr "Schließen"
@@ -870,6 +876,12 @@ msgctxt "Core::MetaContacts::MergeDialog|"
 msgid "Search contacts:"
 msgstr "Kontakte suchen:"
 
+#: ../../../core/src/corelayers/metacontacts/mergedialog.cpp:106
+#, qt-format
+msgctxt "Core::MetaContacts::MergeDialog|"
+msgid "%1 - qutIM"
+msgstr ""
+
 #: ../../../core/src/corelayers/metacontacts/model.cpp:95
 msgctxt "Core::MetaContacts::Model|"
 msgid "Account"
@@ -935,29 +947,29 @@ msgctxt "Core::MobileSearchForm|"
 msgid "Close"
 msgstr "Schließen"
 
-#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:87
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:88
 msgctxt "Core::MobileSettingsWindow|"
 msgid "Back"
 msgstr "Zurück"
 
-#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:92
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:93
 msgctxt "Core::MobileSettingsWindow|"
 msgid "Close"
 msgstr "Schließen"
 
-#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:207
-#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:249
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:208
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:250
 #, qt-format
 msgctxt "Core::MobileSettingsWindow|"
 msgid "qutIM settings - %1"
 msgstr "qutIM Einstellungen - %1"
 
-#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:270
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:271
 msgctxt "Core::MobileSettingsWindow|"
 msgid "Apply Settings - System Settings"
 msgstr "Einstellungen anwenden - Systemeinstellungen"
 
-#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:271
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:272
 msgctxt "Core::MobileSettingsWindow|"
 msgid ""
 "The settings of the current module have changed. \n"
@@ -1319,23 +1331,23 @@ msgctxt "Core::SimpleContactList::SeparatedModel|"
 msgid "Without tags"
 msgstr "Ohne Tags"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:104
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:107
 msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Main Toolbar"
 msgstr "Hauptwerkzeugleiste"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:139
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:142
 msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Status"
 msgstr "Status"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:123
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:126
 msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Search contact"
 msgstr "Kontakt suchen"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:168
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:376
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:171
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:379
 msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Set Status Text"
 msgstr "Statusnachricht"
@@ -1439,18 +1451,18 @@ msgstr ""
 "/><b>qutIM-Version:</b> %4 <br /><b>Qt-Version:</b> %5 (%6 Bit) <br "
 "/><b>Auflösung:</b> %7 x %8 <br /><b>Sprache:</b> %9<br />"
 
-#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:255
+#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:264
 #, qt-format
 msgctxt "Core::XSettingsWindow|"
 msgid "qutIM settings - %1"
 msgstr "qutIM Einstellungen - %1"
 
-#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:271
+#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:280
 msgctxt "Core::XSettingsWindow|"
 msgid "Apply Settings - System Settings"
 msgstr "Einstellungen anwenden - Systemeinstellungen"
 
-#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:272
+#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:281
 msgctxt "Core::XSettingsWindow|"
 msgid ""
 "The settings of the current module have changed. \n"
@@ -1627,37 +1639,37 @@ msgctxt "JoinChat|"
 msgid "Join groupchat"
 msgstr "Chatraum betreten"
 
-#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:28
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:23
 msgctxt "JoinChat|"
 msgid "Account:"
 msgstr "Konto:"
 
-#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:54
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:47
 msgctxt "JoinChat|"
 msgid "Bookmarks"
 msgstr "Lesezeichen"
 
-#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:135
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:131
 msgctxt "JoinChat|"
 msgid "Request last "
 msgstr "Zeige die letzen "
 
-#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:155
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:151
 msgctxt "JoinChat|"
 msgid "messages"
 msgstr "Nachrichten"
 
-#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:185
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:181
 msgctxt "JoinChat|"
 msgid "Request messages since the datetime"
 msgstr "Anfordern aller Nachrichten seit der Uhrzeit"
 
-#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:192
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:188
 msgctxt "JoinChat|"
 msgid "H:mm:ss"
 msgstr ""
 
-#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:222
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:218
 msgctxt "JoinChat|"
 msgid "Request messages since"
 msgstr "Anfordern aller Nachrichten seit"
@@ -2611,7 +2623,7 @@ msgctxt "Settings|"
 msgid "Scrolling type"
 msgstr "Scrollart"
 
-#: ../../../core/src/corelayers/localization/localizationmodule.cpp:46
+#: ../../../core/src/corelayers/localization/localizationmodule.cpp:47
 msgctxt "Settings|"
 msgid "Localization"
 msgstr "Sprache"

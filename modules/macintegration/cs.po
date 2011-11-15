@@ -17,31 +17,31 @@ msgstr ""
 #~ msgid "Main Toolbar"
 #~ msgstr "Hlavní lišta"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:281
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:279
 #, fuzzy
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "File"
 msgstr "Soubor"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:124
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:122
 #, fuzzy
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Accounts"
 msgstr "Účty"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:125
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:123
 #, fuzzy
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Chats"
 msgstr "Konverzace"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:282
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:280
 #, fuzzy
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Roster"
 msgstr "Seznam kontaktů"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:127
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:125
 #, fuzzy
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Set Status Text"
@@ -65,7 +65,7 @@ msgctxt "MacIdleWidget|seconds"
 msgid " min"
 msgstr ""
 
-#: ../../../plugins/macintegration/src/macdock/macdock.mm:85
+#: ../../../plugins/macintegration/src/macdock/macdock.mm:111
 msgctxt "MacIntegration::MacDock|"
 msgid "Opened chats"
 msgstr ""

@@ -436,7 +436,7 @@ msgid "Show tags and contacts"
 msgstr "Zobrazit štítky a kontakty"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:114
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:72
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:75
 msgctxt "ContactList|"
 msgid "Default style"
 msgstr "Výchozí styl"
@@ -549,6 +549,12 @@ msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "Conference %1 (%2)"
 msgstr "Konference %1 (%2)"
 
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:78
+#, qt-format
+msgctxt "Core::AdiumChat::AbstractChatWidget|"
+msgid "%1 - qutIM"
+msgstr ""
+
 #: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:56
 msgctxt "Core::AdiumChat::ChatAppearance|"
 msgid "Vasya Pupkin"
@@ -600,7 +606,7 @@ msgctxt "Core::AdiumChat::ChatAppearance|"
 msgid "Style variant:"
 msgstr "Styl:"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/actions/chatemoticonswidget.cpp:71
+#: ../../../core/src/corelayers/adiumchat/chatlayer/actions/chatemoticonswidget.cpp:73
 msgctxt "Core::AdiumChat::ChatEmoticonsWidget|"
 msgid "Close"
 msgstr "Zavřít"
@@ -885,6 +891,12 @@ msgctxt "Core::MetaContacts::MergeDialog|"
 msgid "Search contacts:"
 msgstr "Hledat kontakty:"
 
+#: ../../../core/src/corelayers/metacontacts/mergedialog.cpp:106
+#, qt-format
+msgctxt "Core::MetaContacts::MergeDialog|"
+msgid "%1 - qutIM"
+msgstr ""
+
 #: ../../../core/src/corelayers/metacontacts/model.cpp:95
 msgctxt "Core::MetaContacts::Model|"
 msgid "Account"
@@ -952,30 +964,30 @@ msgctxt "Core::MobileSearchForm|"
 msgid "Close"
 msgstr "Zavřít"
 
-#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:87
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:88
 msgctxt "Core::MobileSettingsWindow|"
 msgid "Back"
 msgstr "Zpět"
 
-#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:92
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:93
 msgctxt "Core::MobileSettingsWindow|"
 msgid "Close"
 msgstr "Zavřít"
 
-#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:207
-#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:249
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:208
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:250
 #, qt-format
 msgctxt "Core::MobileSettingsWindow|"
 msgid "qutIM settings - %1"
 msgstr "qutIM nastavení - %1"
 
-#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:270
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:271
 #, fuzzy
 msgctxt "Core::MobileSettingsWindow|"
 msgid "Apply Settings - System Settings"
 msgstr "Použít nastavení - Systémové nastavení"
 
-#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:271
+#: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:272
 #, fuzzy
 msgctxt "Core::MobileSettingsWindow|"
 msgid ""
@@ -1344,24 +1356,24 @@ msgctxt "Core::SimpleContactList::SeparatedModel|"
 msgid "Without tags"
 msgstr "Bez štítků"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:104
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:107
 #, fuzzy
 msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Main Toolbar"
 msgstr "Hlavní lišta"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:139
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:142
 msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Status"
 msgstr "Stav"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:123
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:126
 msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Search contact"
 msgstr "Hledat kontakt"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:168
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:376
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:171
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:379
 msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Set Status Text"
 msgstr "Nastavit text stavu"
@@ -1470,19 +1482,19 @@ msgstr ""
 "/><b>Rozlišení obrazovky:</b> %7 x %8 <br /><b>Lokalizace systému:</b> %9<br "
 "/>"
 
-#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:255
+#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:264
 #, qt-format
 msgctxt "Core::XSettingsWindow|"
 msgid "qutIM settings - %1"
 msgstr "qutIM nastavení - %1"
 
-#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:271
+#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:280
 #, fuzzy
 msgctxt "Core::XSettingsWindow|"
 msgid "Apply Settings - System Settings"
 msgstr "Použít nastavení - Systémové nastavení"
 
-#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:272
+#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:281
 #, fuzzy
 msgctxt "Core::XSettingsWindow|"
 msgid ""
@@ -1664,38 +1676,38 @@ msgctxt "JoinChat|"
 msgid "Join groupchat"
 msgstr "Vstoupit do konference"
 
-#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:28
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:23
 msgctxt "JoinChat|"
 msgid "Account:"
 msgstr "Účet:"
 
-#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:54
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:47
 msgctxt "JoinChat|"
 msgid "Bookmarks"
 msgstr "Záložky"
 
-#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:135
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:131
 msgctxt "JoinChat|"
 msgid "Request last "
 msgstr "Poslední požadavek "
 
-#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:155
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:151
 #, fuzzy
 msgctxt "JoinChat|"
 msgid "messages"
 msgstr "zpráv"
 
-#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:185
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:181
 msgctxt "JoinChat|"
 msgid "Request messages since the datetime"
 msgstr ""
 
-#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:192
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:188
 msgctxt "JoinChat|"
 msgid "H:mm:ss"
 msgstr ""
 
-#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:222
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:218
 msgctxt "JoinChat|"
 msgid "Request messages since"
 msgstr ""
@@ -2659,7 +2671,7 @@ msgctxt "Settings|"
 msgid "Emoticons"
 msgstr "Smajlíci"
 
-#: ../../../core/src/corelayers/localization/localizationmodule.cpp:46
+#: ../../../core/src/corelayers/localization/localizationmodule.cpp:47
 msgctxt "Settings|"
 msgid "Localization"
 msgstr "Lokalizace"
