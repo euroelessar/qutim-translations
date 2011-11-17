@@ -87,7 +87,7 @@ msgctxt "ContactInfo|"
 msgid "Send authorizarion request to %1:"
 msgstr ""
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/ContactList.qml:120
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/ContactList.qml:121
 msgctxt "ContactList|"
 msgid "Cancel"
 msgstr ""
@@ -337,14 +337,4 @@ msgstr ""
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:76
 msgctxt "Plugin|"
 msgid "Simple accounts model"
-msgstr ""
-
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:78
-msgctxt "Plugin|"
-msgid "MeeGo settings"
-msgstr ""
-
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:79
-msgctxt "Plugin|"
-msgid "Simple MeeGo settings dialog"
 msgstr ""
