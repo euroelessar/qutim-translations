@@ -1,11 +1,18 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:43+0000\n"
+"PO-Revision-Date: 2011-11-15 16:46+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Language: bg\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:08+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
 "X-Qt-Contexts: true\n"
+"X-Language: bg\n"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -162,11 +169,6 @@ msgctxt "Age|"
 msgid "60-above"
 msgstr "60 и нагоре"
 
-#: ../../../protocols/oscar/src/oscarplugin.cpp:56
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Руслан Нигматуллин"
-
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:52
 msgctxt "Author|"
 msgid "Alexey Ignatiev"
@@ -178,6 +180,11 @@ msgstr "Алексей Игнатиев"
 msgctxt "Author|"
 msgid "Alexey Prokhin"
 msgstr "Алексей Прохин"
+
+#: ../../../protocols/oscar/src/oscarplugin.cpp:56
+msgctxt "Author|"
+msgid "Ruslan Nigmatullin"
+msgstr "Руслан Нигматуллин"
 
 #: ../../../protocols/oscar/src/ui/icqmainsettings.cpp:51
 msgctxt "Codec|"
@@ -264,28 +271,6 @@ msgctxt "ConnectionError|"
 msgid "Suspended account"
 msgstr "Преустановена сметка"
 
-#: ../../../protocols/oscar/src/connection.cpp:349
-msgctxt "ConnectionError|"
-msgid ""
-"The users num connected from this IP has reached the maximum (reservation)"
-msgstr ""
-"Надвишен максимален брой потребители, свързани от този адрес (резервация)"
-
-#: ../../../protocols/oscar/src/connection.cpp:369
-msgctxt "ConnectionError|"
-msgid "Another client is loggin with this uin"
-msgstr "Друг клиент с този UIN се свързва"
-
-#: ../../../protocols/oscar/src/connection.cpp:371
-msgctxt "ConnectionError|"
-msgid "No IP addresses were found for the host"
-msgstr "Не са открити IP адреси за хоста"
-
-#: ../../../protocols/oscar/src/connection.cpp:375
-msgctxt "ConnectionError|"
-msgid "Unknown error"
-msgstr "Неизвестна грешка"
-
 #: ../../../protocols/oscar/src/connection.cpp:339
 msgctxt "ConnectionError|"
 msgid "DB send error"
@@ -310,6 +295,13 @@ msgstr "Грешка при резервация"
 msgctxt "ConnectionError|"
 msgid "The users num connected from this IP has reached the maximum"
 msgstr "Надвишен максимален брой потребители, свързани от този адрес"
+
+#: ../../../protocols/oscar/src/connection.cpp:349
+msgctxt "ConnectionError|"
+msgid ""
+"The users num connected from this IP has reached the maximum (reservation)"
+msgstr ""
+"Надвишен максимален брой потребители, свързани от този адрес (резервация)"
 
 #: ../../../protocols/oscar/src/connection.cpp:351
 msgctxt "ConnectionError|"
@@ -360,6 +352,21 @@ msgctxt "ConnectionError|"
 msgid "Account suspended because of your age (age < 13)"
 msgstr "Сметката е преустановена поради възрастта ви (възраст < 13)"
 
+#: ../../../protocols/oscar/src/connection.cpp:369
+msgctxt "ConnectionError|"
+msgid "Another client is loggin with this uin"
+msgstr "Друг клиент с този UIN се свързва"
+
+#: ../../../protocols/oscar/src/connection.cpp:371
+msgctxt "ConnectionError|"
+msgid "No IP addresses were found for the host"
+msgstr "Не са открити IP адреси за хоста"
+
+#: ../../../protocols/oscar/src/connection.cpp:375
+msgctxt "ConnectionError|"
+msgid "Unknown error"
+msgstr "Неизвестна грешка"
+
 #: ../../../protocols/oscar/src/inforequest.cpp:146
 msgctxt "ContactInfo|"
 msgid "General"
@@ -393,7 +400,7 @@ msgstr "Регистрация"
 #: ../../../protocols/oscar/src/inforequest.cpp:171
 msgctxt "ContactInfo|"
 msgid " (private)"
-msgstr "(личен)"
+msgstr " (личен)"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:172
 #: ../../../protocols/oscar/src/inforequest.cpp:174
@@ -507,6 +514,56 @@ msgctxt "ContactInfo|"
 msgid "Cookie"
 msgstr "Бисквитка"
 
+#: ../../../protocols/oscar/src/authorization.cpp:44
+msgctxt "ContactList|"
+msgid "Reask authorization"
+msgstr "Повторна заявка за удостоверяване"
+
+#: ../../../protocols/oscar/src/authorization.cpp:45
+msgctxt "ContactList|"
+msgid "Ask authorization"
+msgstr "Заявка за удостоверяване"
+
+#: ../../../protocols/oscar/src/authorization.cpp:104
+msgctxt "ContactList|"
+msgid "Authorization request accepted"
+msgstr "Заявката за удостоверяване бе приета"
+
+#: ../../../protocols/oscar/src/authorization.cpp:105
+msgctxt "ContactList|"
+msgid "Authorization request declined"
+msgstr "Заявката за удостоверяване бе отхвърлена"
+
+#: ../../../protocols/oscar/src/authorization.cpp:143
+msgctxt "ContactList|"
+msgid "Please, authorize me"
+msgstr "Моля за удостоверение"
+
+#: ../../../protocols/oscar/src/icqcontact.cpp:136
+msgctxt "ContactList|"
+msgid "General"
+msgstr "Общи"
+
+#: ../../../protocols/oscar/src/icqcontact.cpp:395
+msgctxt "ContactList|"
+msgid "Online time"
+msgstr "Време на линия"
+
+#: ../../../protocols/oscar/src/icqcontact.cpp:402
+msgctxt "ContactList|"
+msgid "Signed on"
+msgstr "Влизане в"
+
+#: ../../../protocols/oscar/src/icqcontact.cpp:407
+msgctxt "ContactList|"
+msgid "Away since"
+msgstr "Отсъства от"
+
+#: ../../../protocols/oscar/src/icqcontact.cpp:412
+msgctxt "ContactList|"
+msgid "Reg. date"
+msgstr "Регистрация от"
+
 #: ../../../protocols/oscar/src/privacylists.cpp:181
 msgctxt "ContactList|"
 msgid "Add to visible list"
@@ -536,56 +593,6 @@ msgstr "Добавяне в списък \"Пренебрегнати\""
 msgctxt "ContactList|"
 msgid "Remove from ignore list"
 msgstr "Премахване от списък \"Пренебрегнати\""
-
-#: ../../../protocols/oscar/src/icqcontact.cpp:136
-msgctxt "ContactList|"
-msgid "General"
-msgstr "Общи"
-
-#: ../../../protocols/oscar/src/icqcontact.cpp:395
-msgctxt "ContactList|"
-msgid "Online time"
-msgstr "Време на линия"
-
-#: ../../../protocols/oscar/src/icqcontact.cpp:402
-msgctxt "ContactList|"
-msgid "Signed on"
-msgstr "Влизане в"
-
-#: ../../../protocols/oscar/src/icqcontact.cpp:407
-msgctxt "ContactList|"
-msgid "Away since"
-msgstr "Отсъства от"
-
-#: ../../../protocols/oscar/src/icqcontact.cpp:412
-msgctxt "ContactList|"
-msgid "Reg. date"
-msgstr "Регистрация от"
-
-#: ../../../protocols/oscar/src/authorization.cpp:44
-msgctxt "ContactList|"
-msgid "Reask authorization"
-msgstr "Повторна заявка за удостоверяване"
-
-#: ../../../protocols/oscar/src/authorization.cpp:45
-msgctxt "ContactList|"
-msgid "Ask authorization"
-msgstr "Заявка за удостоверяване"
-
-#: ../../../protocols/oscar/src/authorization.cpp:104
-msgctxt "ContactList|"
-msgid "Authorization request accepted"
-msgstr "Заявката за удостоверяване бе приета"
-
-#: ../../../protocols/oscar/src/authorization.cpp:105
-msgctxt "ContactList|"
-msgid "Authorization request declined"
-msgstr "Заявката за удостоверяване бе отхвърлена"
-
-#: ../../../protocols/oscar/src/authorization.cpp:143
-msgctxt "ContactList|"
-msgid "Please, authorize me"
-msgstr "Моля за удостоверение"
 
 #: ../../../protocols/oscar/src/contactsearch.cpp:96
 msgctxt "ContactSearch|"
@@ -1876,15 +1883,15 @@ msgctxt "FeedbagError|"
 msgid "Unknown error"
 msgstr "Неизвестна грешка"
 
-#: ../../../protocols/oscar/src/metainfo/metafields.cpp:456
-msgctxt "Gender|"
-msgid "Female"
-msgstr "Жена"
-
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:455
 msgctxt "Gender|"
 msgid "Male"
 msgstr "Мъж"
+
+#: ../../../protocols/oscar/src/metainfo/metafields.cpp:456
+msgctxt "Gender|"
+msgid "Female"
+msgstr "Жена"
 
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:14
 msgctxt "IcqAccountMainSettings|"
@@ -2666,6 +2673,32 @@ msgctxt "Marital|"
 msgid "Other"
 msgstr "Други"
 
+#: ../../../protocols/oscar/src/metainfo/metafield.cpp:33
+msgctxt "MetaInfo|"
+msgid "Not specified"
+msgstr "Не е зададено"
+
+#: ../../../protocols/oscar/src/metainfo/metafield.cpp:108
+msgctxt "MetaInfo|"
+msgid "Basic"
+msgstr "Основна"
+
+#: ../../../protocols/oscar/src/metainfo/metafield.cpp:110
+msgctxt "MetaInfo|"
+msgid "More"
+msgstr "Повече"
+
+#: ../../../protocols/oscar/src/metainfo/metafield.cpp:112
+msgctxt "MetaInfo|"
+msgid "Work"
+msgstr "Служебна"
+
+#: ../../../protocols/oscar/src/metainfo/metafield.cpp:114
+#: ../../../protocols/oscar/src/metainfo/metafields.cpp:676
+msgctxt "MetaInfo|"
+msgid "Affilations"
+msgstr "Принадлежности"
+
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:635
 msgctxt "MetaInfo|"
 msgid "Nick"
@@ -2742,16 +2775,6 @@ msgctxt "MetaInfo|"
 msgid "Languages"
 msgstr "Говорими езици"
 
-#: ../../../protocols/oscar/src/metainfo/metafields.cpp:677
-msgctxt "MetaInfo|"
-msgid "UIN"
-msgstr "UIN"
-
-#: ../../../protocols/oscar/src/metainfo/metafields.cpp:679
-msgctxt "MetaInfo|"
-msgid "online only"
-msgstr "само на линия"
-
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:672
 msgctxt "MetaInfo|"
 msgid "Emails"
@@ -2772,31 +2795,15 @@ msgctxt "MetaInfo|"
 msgid "Pasts"
 msgstr "Минало"
 
-#: ../../../protocols/oscar/src/metainfo/metafield.cpp:33
+#: ../../../protocols/oscar/src/metainfo/metafields.cpp:677
 msgctxt "MetaInfo|"
-msgid "Not specified"
-msgstr "Не е зададено"
+msgid "UIN"
+msgstr "UIN"
 
-#: ../../../protocols/oscar/src/metainfo/metafield.cpp:108
+#: ../../../protocols/oscar/src/metainfo/metafields.cpp:679
 msgctxt "MetaInfo|"
-msgid "Basic"
-msgstr "Основна"
-
-#: ../../../protocols/oscar/src/metainfo/metafield.cpp:110
-msgctxt "MetaInfo|"
-msgid "More"
-msgstr "Повече"
-
-#: ../../../protocols/oscar/src/metainfo/metafield.cpp:112
-msgctxt "MetaInfo|"
-msgid "Work"
-msgstr "Служебна"
-
-#: ../../../protocols/oscar/src/metainfo/metafield.cpp:114
-#: ../../../protocols/oscar/src/metainfo/metafields.cpp:676
-msgctxt "MetaInfo|"
-msgid "Affilations"
-msgstr "Принадлежности"
+msgid "online only"
+msgstr "само на линия"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:639
 msgctxt "MetaInfoHome|"
@@ -3088,11 +3095,6 @@ msgctxt "Past|"
 msgid "Other"
 msgstr "Други"
 
-#: ../../../protocols/oscar/src/oscarplugin.cpp:53
-msgctxt "Plugin|"
-msgid "Oscar"
-msgstr "Oscar"
-
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:48
 msgctxt "Plugin|"
 msgid "OscarIdentify"
@@ -3111,10 +3113,27 @@ msgctxt "Plugin|"
 msgid "ICQ"
 msgstr "ICQ"
 
-#: ../../../protocols/oscar/src/oscarplugin.cpp:66
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:212
 msgctxt "Plugin|"
-msgid "ICQ account creator"
-msgstr "Създаване на ICQ сметка"
+msgid "OscarXStatus"
+msgstr "Oscar разширен статус"
+
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:213
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:222
+msgctxt "Plugin|"
+msgid "Additional statuses for oscar protocol"
+msgstr "Допълнителни статуси за Oscar протокола"
+
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:226
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:227
+msgctxt "Plugin|"
+msgid "XStatus settings"
+msgstr "Настройки на разширения статус"
+
+#: ../../../protocols/oscar/src/oscarplugin.cpp:53
+msgctxt "Plugin|"
+msgid "Oscar"
+msgstr "Oscar"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:54
 msgctxt "Plugin|"
@@ -3125,6 +3144,11 @@ msgstr "Модулна реализация на Oscar протокола"
 msgctxt "Plugin|"
 msgid "Module-based implementation of ICQ protocol"
 msgstr "Модулна реализация на ICQ протокола"
+
+#: ../../../protocols/oscar/src/oscarplugin.cpp:66
+msgctxt "Plugin|"
+msgid "ICQ account creator"
+msgstr "Създаване на ICQ сметка"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:67
 msgctxt "Plugin|"
@@ -3188,23 +3212,6 @@ msgstr "Реализация на търсене на Oscar контакти"
 msgctxt "Plugin|"
 msgid "Oscar proxy support"
 msgstr "Поддръжка на прокси в Oscar"
-
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:212
-msgctxt "Plugin|"
-msgid "OscarXStatus"
-msgstr "Oscar разширен статус"
-
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:213
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:222
-msgctxt "Plugin|"
-msgid "Additional statuses for oscar protocol"
-msgstr "Допълнителни статуси за Oscar протокола"
-
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:226
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:227
-msgctxt "Plugin|"
-msgid "XStatus settings"
-msgstr "Настройки на разширения статус"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:90
 msgctxt "Privacy|"
@@ -3376,11 +3383,6 @@ msgctxt "Settings|"
 msgid "Icq account settings"
 msgstr "Настройки на ICQ сметката"
 
-#: ../../../protocols/oscar/src/oscarstatus.cpp:48
-msgctxt "Status|"
-msgid "Busy"
-msgstr "Зает"
-
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:261
 msgctxt "Status|"
 msgid "Angry"
@@ -3410,6 +3412,11 @@ msgstr "Хапващ"
 msgctxt "Status|"
 msgid "Custom status"
 msgstr "Собствен статус"
+
+#: ../../../protocols/oscar/src/oscarstatus.cpp:48
+msgctxt "Status|"
+msgid "Busy"
+msgstr "Зает"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:473
 msgctxt "StudyLevel|"
@@ -3595,26 +3602,6 @@ msgctxt "XStatus|"
 msgid "Mobile"
 msgstr "На мобилния"
 
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:144
-msgctxt "XStatus|"
-msgid "Watching movie"
-msgstr "Гледащ филм"
-
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:153
-msgctxt "XStatus|"
-msgid "Writing"
-msgstr "Пишещ"
-
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:156
-msgctxt "XStatus|"
-msgid "Sex"
-msgstr "Секс"
-
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:159
-msgctxt "XStatus|"
-msgid "Smoking"
-msgstr "Пушещ"
-
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:135
 msgctxt "XStatus|"
 msgid "I'm high"
@@ -3630,6 +3617,11 @@ msgctxt "XStatus|"
 msgid "To be or not to be"
 msgstr "Да бъда или да не бъда"
 
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:144
+msgctxt "XStatus|"
+msgid "Watching movie"
+msgstr "Гледащ филм"
+
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:147
 msgctxt "XStatus|"
 msgid "Love"
@@ -3639,6 +3631,21 @@ msgstr "Влюбен"
 msgctxt "XStatus|"
 msgid "Searching"
 msgstr "Търсещ"
+
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:153
+msgctxt "XStatus|"
+msgid "Writing"
+msgstr "Пишещ"
+
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:156
+msgctxt "XStatus|"
+msgid "Sex"
+msgstr "Секс"
+
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:159
+msgctxt "XStatus|"
+msgid "Smoking"
+msgstr "Пушещ"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:163
 msgctxt "XStatus|"
@@ -3776,7 +3783,8 @@ msgstr "Локални портове"
 #: ../../../protocols/oscar/src/privacylists.cpp:347
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"visible\" icon if contact in visible list"
-msgstr "Да се показва икона за \"видим\" ако контакта е в списък \"Видим за\""
+msgstr ""
+"Да се показва икона за \"видим\" ако контакта е в списък \"Видим за\""
 
 #: ../../../protocols/oscar/src/privacylists.cpp:351
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"

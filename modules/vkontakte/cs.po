@@ -1,12 +1,19 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:44+0000\n"
+"PO-Revision-Date: 2011-11-15 16:51+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:08+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
+"X-Qt-Contexts: true\n"
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
-"X-Qt-Contexts: true\n"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbum/default/PhotoViewerCore/AlbumDelegate.qml:120
 msgctxt "AlbumDelegate|"
@@ -245,10 +252,9 @@ msgid "%1 (Wall)"
 msgstr "%1 (Zeď)"
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:195
-#, fuzzy
 msgctxt "VWallSessionPrivate|"
 msgid "Unknown"
-msgstr "Neznámý"
+msgstr ""
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:197
 msgctxt "VWallSessionPrivate|"
@@ -296,15 +302,15 @@ msgctxt "Vkontakte|"
 msgid "View wall"
 msgstr "Zobrazit zeď"
 
-#: ../../../protocols/vkontakte/src/vkontakteprotocol.cpp:115
-msgctxt "Vkontakte|"
-msgid "Account settings"
-msgstr "Nastavení účtu"
-
 #: ../../../protocols/vkontakte/src/vkontakteprotocol.cpp:93
 msgctxt "Vkontakte|"
 msgid "Open homepage"
 msgstr "Otevřít domovskou stránka"
+
+#: ../../../protocols/vkontakte/src/vkontakteprotocol.cpp:115
+msgctxt "Vkontakte|"
+msgid "Account settings"
+msgstr "Nastavení účtu"
 
 #: ../../../protocols/vkontakte/src/vkontakteprotocol.cpp:123
 msgctxt "VkontakteProtocol|"

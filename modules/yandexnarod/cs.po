@@ -1,12 +1,19 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:44+0000\n"
+"PO-Revision-Date: 2011-11-15 16:52+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:09+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
+"X-Qt-Contexts: true\n"
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
-"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:54
 msgctxt "Author|"
@@ -143,8 +150,8 @@ msgid ""
 "</style></head><body style=\" font-family:'Liberation Sans'; font-size:10pt; "
 "font-weight:400; font-style:normal;\">\n"
 "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-"font-family:'Verdana'; font-size:8pt;\"></p></body></html>"
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
+"family:'Verdana'; font-size:8pt;\"></p></body></html>"
 msgstr ""
 
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:122
@@ -158,22 +165,19 @@ msgid "%N - file name; %U - file URL; %S - file size"
 msgstr "%N - název souboru; %U - URL souboru; %S - velikost souboru"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:145
-#, fuzzy
 msgctxt "YandexNarodSettingsClass|"
 msgid "Manage files"
-msgstr "Spravovat soubory"
+msgstr ""
 
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:134
-#, fuzzy
 msgctxt "YandexNarodUploadJob|"
 msgid "Authorizing..."
-msgstr "Autorizování..."
+msgstr ""
 
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:157
-#, fuzzy
 msgctxt "YandexNarodUploadJob|"
 msgid "Getting storage..."
-msgstr "Načítání uložiště..."
+msgstr ""
 
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:221
 #, qt-format
@@ -182,14 +186,11 @@ msgid "Could not open file %1"
 msgstr "Nelze otevřít soubor %1"
 
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:345
-#, fuzzy
 msgctxt "YandexNarodUploadJob|Don't remove format arguments"
 msgid ""
 "File sent: %N (%S bytes)\n"
 "%U"
 msgstr ""
-"Odesláno: %N (%S bytů)\n"
-"%U"
 
 #: ../../../plugins/yandexnarod/src/requestauthdialog.ui:26
 msgctxt "requestAuthDialogClass|"

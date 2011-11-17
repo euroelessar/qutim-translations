@@ -1,12 +1,20 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:42+0000\n"
+"PO-Revision-Date: 2011-11-15 16:36+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:07+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
+"X-Qt-Contexts: true\n"
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
-"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/histman/src/historymanagerplugin.cpp:36
 msgctxt "Author|"
@@ -105,20 +113,16 @@ msgid "Choose client which history you want to import to qutIM."
 msgstr "Vyberte klienta, ze kterého chcete importovat historii do qutIMu."
 
 #: ../../../plugins/histman/src/chooseordumppage.cpp:37
-#, fuzzy
 msgctxt "HistoryManager::ChooseOrDumpPage|Dump history or choose next client"
 msgid "What to do next?"
-msgstr "Co udělat dál?"
+msgstr ""
 
 #: ../../../plugins/histman/src/chooseordumppage.cpp:38
-#, fuzzy
 msgctxt "HistoryManager::ChooseOrDumpPage|"
 msgid ""
 "It is possible to choose another client for import history or dump history "
 "to the disk."
 msgstr ""
-"Je možné vybrat jiného klienta pro import historie nebo uložit historii na "
-"disk."
 
 #: ../../../plugins/histman/src/clientconfigpage.cpp:55
 msgctxt "HistoryManager::ClientConfigPage|"
@@ -200,17 +204,14 @@ msgctxt "HistoryManager::ImportHistoryPage|"
 msgid "%n message(s) have been succesfully loaded to memory."
 msgid_plural "%n message(s) have been succesfully loaded to memory."
 msgstr[0] "%n zprávy byly úspěště načteny do paměti."
-msgstr[1] ""
-msgstr[2] ""
 
 #: ../../../plugins/histman/src/importhistorypage.cpp:98
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "HistoryManager::ImportHistoryPage|"
 msgid "It has taken %n ms."
 msgid_plural "It has taken %n ms."
-msgstr[0] "Trvalo %n ms."
+msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../../../plugins/histman/src/historymanagerwindow.ui:16
 msgctxt "HistoryManagerWindow|"

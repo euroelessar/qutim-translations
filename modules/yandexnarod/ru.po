@@ -1,11 +1,18 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:44+0000\n"
+"PO-Revision-Date: 2011-11-16 12:38+0000\n"
+"Last-Translator: Ruslan Nigmatullin <Unknown>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Language: ru\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:09+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
 "X-Qt-Contexts: true\n"
+"X-Language: ru\n"
 
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:54
 msgctxt "Author|"
@@ -26,10 +33,6 @@ msgstr "Прохин Алексей"
 msgctxt "Author|"
 msgid "Alexander Kazarin"
 msgstr "Казарин Александр"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Yandex Narod"
-#~ msgstr "Я.Народ"
 
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:50
 msgctxt "Plugin|"
@@ -59,10 +62,6 @@ msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"
 
-#~ msgctxt "Yandex|"
-#~ msgid "Send file via Yandex.Narod"
-#~ msgstr "Отправить файл через Яндекс.Народ"
-
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:78
 msgctxt "Yandex|"
 msgid "Yandex Narod"
@@ -84,28 +83,24 @@ msgid "Authorization failured"
 msgstr "Не удалось авторизоваться"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:186
-#, fuzzy
 msgctxt "YandexNarodAuthorizator|"
 msgid "Unsupported grant type. Inform developers."
-msgstr "Unsupported grant type. Сообщите разработчику."
+msgstr ""
 
 #: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:188
-#, fuzzy
 msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid request. Inform developers."
-msgstr "Неправильный запрос. Сообщите разработчику."
+msgstr "Неверный запрос. Уведомите разработчиков."
 
 #: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:190
-#, fuzzy
 msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid login or/and password"
-msgstr "Неверный логин и/или пароль"
+msgstr "Неверный логин или пароль"
 
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:201
-#, fuzzy
 msgctxt "YandexNarodFactory|"
 msgid "Yandex.Narod"
-msgstr "Я.Народ"
+msgstr "Яндекс.Народ"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodmanage.cpp:34
 msgctxt "YandexNarodManager|"
@@ -134,10 +129,9 @@ msgid "Login"
 msgstr "Логин"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:81
-#, fuzzy
 msgctxt "YandexNarodSettingsClass|"
 msgid "Test Authorization"
-msgstr "Проверить логин"
+msgstr "Проверить авторизацию"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:88
 msgctxt "YandexNarodSettingsClass|"
@@ -155,14 +149,9 @@ msgid ""
 "</style></head><body style=\" font-family:'Liberation Sans'; font-size:10pt; "
 "font-weight:400; font-style:normal;\">\n"
 "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-"font-family:'Verdana'; font-size:8pt;\"></p></body></html>"
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
+"family:'Verdana'; font-size:8pt;\"></p></body></html>"
 msgstr ""
-
-#: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:145
-msgctxt "YandexNarodSettingsClass|"
-msgid "Manage files"
-msgstr "Управление файлами"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:122
 msgctxt "YandexNarodSettingsClass|"
@@ -174,203 +163,34 @@ msgctxt "YandexNarodSettingsClass|"
 msgid "%N - file name; %U - file URL; %S - file size"
 msgstr "%N -имя файла; %U - ссылка; %S - размер файла"
 
-#~ msgctxt "YandexNarodSettingsClass|"
-#~ msgid "About"
-#~ msgstr "О плагине"
-
-#~ msgctxt "YandexNarodSettingsClass|"
-#~ msgid ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
-#~ "\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-#~ "type=\"text/css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Tahoma'; font-size:10pt; "
-#~ "font-weight:400; font-style:normal;\">\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><img src=\":/icons/yandexnarodlogo.png\" /></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "font-weight:600;\">Yandex.Narod qutIM plugin</span></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera "
-#~ "Sans';\">svn version</span></p>\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px; font-family:'Bitstream Vera Sans';\"></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera "
-#~ "Sans';\">File exchange via </span><a "
-#~ "href=\"http://narod.yandex.ru\"><span style=\" font-family:'Bitstream "
-#~ "Vera Sans'; text-decoration: underline; "
-#~ "color:#0057ae;\">Yandex.Narod</span></a><span style=\" "
-#~ "font-family:'Bitstream Vera Sans';\"> service</span></p>\n"
-#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~ "font-family:'Bitstream Vera Sans';\"></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "font-weight:600;\">Author: </span></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera "
-#~ "Sans';\">Alexander Kazarin</span></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><a href=\"mailto:boiler.co.ru\"><span style=\" "
-#~ "font-family:'Bitstream Vera Sans'; text-decoration: underline; "
-#~ "color:#0000ff;\">boiler@co.ru</span></a></p>\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px; font-family:'Bitstream Vera Sans'; text-decoration: "
-#~ "underline; color:#000000;\"></p>\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px; font-family:'Bitstream Vera Sans'; text-decoration: "
-#~ "underline; color:#000000;\"></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "color:#000000;\">(c) 2008-2009</span></p></body></html>"
-#~ msgstr ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
-#~ "\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-#~ "type=\"text/css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Tahoma'; font-size:10pt; "
-#~ "font-weight:400; font-style:normal;\">\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><img src=\":/icons/yandexnarodlogo.png\" /></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "font-weight:600;\">Плагин Yandex.Narod для qutIM</span></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera "
-#~ "Sans';\">git version</span></p>\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px; font-family:'Bitstream Vera Sans';\"></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera "
-#~ "Sans';\">Обмен файлами черех </span><a "
-#~ "href=\"http://narod.yandex.ru\"><span style=\" font-family:'Bitstream "
-#~ "Vera Sans'; text-decoration: underline; "
-#~ "color:#0057ae;\">Yandex.Narod</span></a>\n"
-#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~ "font-family:'Bitstream Vera Sans';\"></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "font-weight:600;\">Автор: </span></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera "
-#~ "Sans';\">Александр Казарин</span></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><a href=\"mailto:boiler.co.ru\"><span style=\" "
-#~ "font-family:'Bitstream Vera Sans'; text-decoration: underline; "
-#~ "color:#0000ff;\">boiler@co.ru</span></a></p>\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px; font-family:'Bitstream Vera Sans'; text-decoration: "
-#~ "underline; color:#000000;\"></p>\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px; font-family:'Bitstream Vera Sans'; text-decoration: "
-#~ "underline; color:#000000;\"></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "color:#000000;\">(c) 2008-2010</span></p></body></html>"
-
-#, qt-format
-#~ msgctxt "YandexNarodUploadDialog|"
-#~ msgid "Choose file for %1"
-#~ msgstr "Выберите файл для %1"
-
-#~ msgctxt "YandexNarodUploadDialog|"
-#~ msgid "Choose file for uploading"
-#~ msgstr "Выберите файл для загрузки"
-
-#~ msgctxt "YandexNarodUploadDialog|"
-#~ msgid "Authorizing..."
-#~ msgstr "Авторизация..."
-
-#~ msgctxt "YandexNarodUploadDialog|"
-#~ msgid "Getting storage..."
-#~ msgstr "Получение хранилища..."
-
-#~ msgctxt "YandexNarodUploadDialog|"
-#~ msgid "Uploading..."
-#~ msgstr "Загрузка на сервер..."
-
-#, qt-format
-#~ msgctxt "YandexNarodUploadDialog|"
-#~ msgid "Will finish in: %1m %2s"
-#~ msgstr "Будет закончено через %1м %2с"
-
-#~ msgctxt "YandexNarodUploadDialog|"
-#~ msgid "Upload complete."
-#~ msgstr "Загрузка на сервер завершена."
-
-#~ msgctxt "YandexNarodUploadDialog|"
-#~ msgid "Finish"
-#~ msgstr "Завершить"
-
-#~ msgctxt "YandexNarodUploadDialog|Don't remove format arguments"
-#~ msgid ""
-#~ "File sent: %N (%S bytes)\n"
-#~ "%U"
-#~ msgstr ""
-#~ "Файл отправлен: %N (%S байт)\n"
-#~ "%U"
-
-#~ msgctxt "YandexNarodUploadDialog|"
-#~ msgid "Uploading"
-#~ msgstr "Загрузка на север"
-
-#~ msgctxt "YandexNarodUploadDialog|"
-#~ msgid "Done"
-#~ msgstr "Готово"
+#: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:145
+msgctxt "YandexNarodSettingsClass|"
+msgid "Manage files"
+msgstr "Управление файлами"
 
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:134
-#, fuzzy
 msgctxt "YandexNarodUploadJob|"
 msgid "Authorizing..."
-msgstr "Авторизация..."
+msgstr "Идет процесс авторизации..."
 
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:157
-#, fuzzy
 msgctxt "YandexNarodUploadJob|"
 msgid "Getting storage..."
-msgstr "Получение хранилища..."
+msgstr "Получаем адрес хранилища..."
 
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:221
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "YandexNarodUploadJob|"
 msgid "Could not open file %1"
-msgstr "Не могу открыть %1"
+msgstr "Не удалось открыть файл %1"
 
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:345
-#, fuzzy
 msgctxt "YandexNarodUploadJob|Don't remove format arguments"
 msgid ""
 "File sent: %N (%S bytes)\n"
 "%U"
 msgstr ""
-"Файл отправлен: %N (%S байт)\n"
+"Файл отослан: %N (%S байтов)\n"
 "%U"
 
 #: ../../../plugins/yandexnarod/src/requestauthdialog.ui:26
@@ -397,39 +217,6 @@ msgstr "Запомнить"
 msgctxt "requestAuthDialogClass|"
 msgid "Captcha:"
 msgstr "Капча:"
-
-#~ msgctxt "uploadDialogClass|"
-#~ msgid "Uploading..."
-#~ msgstr "Загрузка на сервер..."
-
-# Всё-таки загрузка. Ибо download это скачка.
-#~ msgctxt "uploadDialogClass|"
-#~ msgid "Upload started."
-#~ msgstr "Загрузка запущена."
-
-#~ msgctxt "uploadDialogClass|"
-#~ msgid "File: "
-#~ msgstr "Файл: "
-
-#~ msgctxt "uploadDialogClass|"
-#~ msgid "Progress:"
-#~ msgstr "Прогресс:"
-
-#~ msgctxt "uploadDialogClass|"
-#~ msgid "Will finish in:"
-#~ msgstr "Будет завершено в:"
-
-#~ msgctxt "uploadDialogClass|"
-#~ msgid "Elapsed time:"
-#~ msgstr "Осталось времени:"
-
-#~ msgctxt "uploadDialogClass|"
-#~ msgid "Speed:"
-#~ msgstr "Скорость:"
-
-#~ msgctxt "uploadDialogClass|"
-#~ msgid "Cancel"
-#~ msgstr "Отменить"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:20
 msgctxt "yandexnarodManageClass|"

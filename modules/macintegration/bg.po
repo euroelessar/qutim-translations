@@ -1,30 +1,24 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:43+0000\n"
+"PO-Revision-Date: 2011-11-15 23:39+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:08+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
+"X-Qt-Contexts: true\n"
 "X-Language: bg\n"
 "X-Source-Language: C\n"
-"X-Qt-Contexts: true\n"
-
-#~ msgctxt "Author|"
-#~ msgid "Denis Daschenko"
-#~ msgstr "Денис Дасченко"
 
 #: ../../../plugins/macintegration/src/macidle/macidle.mm:79
 msgctxt "AutoAway|"
 msgid "Auto-away"
 msgstr "Автоматично отсъствие"
-
-#~ msgctxt "Core::SimpleContactList::MacWidget|"
-#~ msgid "Main Toolbar"
-#~ msgstr "Главна лента с инструменти"
-
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:279
-msgctxt "Core::SimpleContactList::MacWidget|"
-msgid "File"
-msgstr "Файл"
 
 #: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:122
 msgctxt "Core::SimpleContactList::MacWidget|"
@@ -36,15 +30,20 @@ msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Chats"
 msgstr "Разговори"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:280
-msgctxt "Core::SimpleContactList::MacWidget|"
-msgid "Roster"
-msgstr "Списък с контакти"
-
 #: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:125
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Set Status Text"
 msgstr "Задаване текст на статуса"
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:279
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "File"
+msgstr "Файл"
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:280
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Roster"
+msgstr "Списък с контакти"
 
 #: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:14
 msgctxt "MacIdleWidget|"
@@ -74,51 +73,7 @@ msgctxt "MacIntegration::MacSpellSettings|"
 msgid "Language"
 msgstr "Език"
 
-#~ msgctxt "Plugin|"
-#~ msgid "MacIntegration"
-#~ msgstr "Интеграция с Mac OS X"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Mac integration plugin collection"
-#~ msgstr "Колекция от добавки за интеграция с Mac OS X"
-
-#~ msgctxt "Plugin|"
-#~ msgid "DockIntegration"
-#~ msgstr "Интеграция с Dock"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Mac OS X dock integration"
-#~ msgstr "Интеграция с Mac OS X Dock"
-
-#~ msgctxt "Plugin|"
-#~ msgid "IdleManager"
-#~ msgstr "Управление на бездействието"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Mac OS X idle manager"
-#~ msgstr "Управление на бездействието в Mac OS X"
-
-#~ msgctxt "Plugin|"
-#~ msgid "SpellChecker"
-#~ msgstr "Проверка на правописа"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Mac OS X spell checker"
-#~ msgstr "Проверка на правописа в Mac OS X"
-
 #: ../../../plugins/macintegration/src/macspellchecker/macspellchecker.mm:21
 msgctxt "Settings|"
 msgid "Spell checker"
 msgstr "Проверка на правописа"
-
-#~ msgctxt "Task|"
-#~ msgid "Author"
-#~ msgstr "Автор"
-
-#~ msgctxt "plugin|"
-#~ msgid "Growl notifications"
-#~ msgstr "Growl уведомления"
-
-#~ msgctxt "plugin|"
-#~ msgid "Default Mac Os X Notifications"
-#~ msgstr "Подразбиращи се за Mac OS X уведомления"

@@ -1,11 +1,18 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:44+0000\n"
+"PO-Revision-Date: 2011-11-16 12:29+0000\n"
+"Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Language: ru\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:08+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
 "X-Qt-Contexts: true\n"
+"X-Language: ru\n"
 
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:46
 msgctxt "Author|"
@@ -18,10 +25,9 @@ msgid "Sidorov Aleksey"
 msgstr "Сидоров Алексей"
 
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:53
-#, fuzzy
 msgctxt "Author|"
 msgid "Nicolay Izoderov"
-msgstr "Изодёров Николай"
+msgstr "Николай Изодёров"
 
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:42
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:62
@@ -32,7 +38,7 @@ msgstr ""
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:43
 msgctxt "Plugin|"
 msgid "Preview images directly in the chat window"
-msgstr "Просмотр картинок в окне чата"
+msgstr "Просмотр рисунка в окне чата"
 
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:47
 msgctxt "Task|"
@@ -51,51 +57,30 @@ msgid "URL Preview"
 msgstr "Предпросмотр URL"
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:64
-#, fuzzy
 msgctxt "UrlPreview::UrlHandler|"
 msgid "bytes"
-msgstr "байт"
+msgstr ""
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:229
-#, fuzzy
 msgctxt "UrlPreview::UrlHandler|"
 msgid "YouTube video"
-msgstr "YouTube видео"
+msgstr ""
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:232
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:265
-#, fuzzy
 msgctxt "UrlPreview::UrlHandler|"
 msgid "Unknown"
-msgstr "Неизвестно"
+msgstr ""
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:242
-#, fuzzy
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Audio"
-msgstr "HTML5 Аудио"
+msgstr ""
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:256
-#, fuzzy
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Video"
-msgstr "HTML5 Видео"
-
-#~ msgctxt "UrlPreview::UrlPreviewPlugin|"
-#~ msgid "URL Preview"
-#~ msgstr "Предпросмотр URL"
-
-#~ msgctxt "UrlPreview::UrlPreviewPlugin|"
-#~ msgid "bytes"
-#~ msgstr "байт"
-
-#~ msgctxt "UrlPreview::UrlPreviewPlugin|"
-#~ msgid "YouTube video"
-#~ msgstr "YouTube видео"
-
-#~ msgctxt "UrlPreview::UrlPreviewPlugin|"
-#~ msgid "Unknown"
-#~ msgstr "Неизвестно"
+msgstr ""
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:14
 msgctxt "UrlPreviewSettingsForm|"
@@ -103,309 +88,62 @@ msgid "Form"
 msgstr "Настройки"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:26
-#, fuzzy
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Max filesize"
 msgstr "Максимальный размер файла"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:33
-#, fuzzy
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Max picture size to preview "
-msgstr "Максимаьный размер файла, для загрузки в окно чата "
+msgstr "Максимальный размер рисунка "
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:36
-#, fuzzy
 msgctxt "UrlPreviewSettingsForm|"
 msgid " bytes"
-msgstr " байт"
+msgstr ""
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:49
-#, fuzzy
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Height"
 msgstr "Высота"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:56
-#, fuzzy
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Max height of images preview."
-msgstr "Максимальная высота рисунка для загрузки в окно чата."
+msgstr "Максимальная высота рисунка для просмотра."
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:59
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:88
-#, fuzzy
 msgctxt "UrlPreviewSettingsForm|"
 msgid "px"
-msgstr "пикс"
+msgstr "точек"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:78
-#, fuzzy
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Width"
 msgstr "Ширина"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:85
-#, fuzzy
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Max width of images preview."
-msgstr "Максимальная ширина рисунка для загрузки в окно чата."
+msgstr "Максимальная ширина рисунка для просмотра"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:107
-#, fuzzy
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Images preview"
-msgstr "Просмотр рисунков"
+msgstr "Просмотр рисунка"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:117
-#, fuzzy
 msgctxt "UrlPreviewSettingsForm|"
 msgid "YouTube preview"
-msgstr "Просмотр роликов YouTube"
+msgstr ""
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:127
-#, fuzzy
 msgctxt "UrlPreviewSettingsForm|"
 msgid "HTML5 Audio"
-msgstr "HTML5 Аудио"
+msgstr ""
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:137
-#, fuzzy
 msgctxt "UrlPreviewSettingsForm|"
 msgid "HTML5 Video"
-msgstr "HTML5 Видео"
-
-#~ msgctxt "urlpreviewPlugin|"
-#~ msgid "URL Preview"
-#~ msgstr "Предпросмотр URL"
-
-#~ msgctxt "urlpreviewPlugin|"
-#~ msgid "bytes"
-#~ msgstr "байт"
-
-#~ msgctxt "urlpreviewPlugin|"
-#~ msgid "YouTube video"
-#~ msgstr "YouTube видео"
-
-#~ msgctxt "urlpreviewPlugin|"
-#~ msgid "Authentication Required"
-#~ msgstr "Необходима аутентификация"
-
-#~ msgctxt "urlpreviewPlugin|"
-#~ msgid "Unknown"
-#~ msgstr "Неизвесно"
-
-#~ msgctxt "urlpreviewPlugin|"
-#~ msgid "Make URL previews in messages"
-#~ msgstr "Предпросмотр URL в сообщении"
-
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid "Settings"
-#~ msgstr "Настройки"
-
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid "General"
-#~ msgstr "Общие"
-
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid "Enable on incoming messages"
-#~ msgstr "Включить для входящих сообщений"
-
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid "Enable on outgoing messages"
-#~ msgstr "Включить для исходящих сообщений"
-
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid "Don't show info for text/html content type"
-#~ msgstr "Не показывать информацию для страниц text/html"
-
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid "Ignore SSL warnings"
-#~ msgstr "Игнорировать предупреждения SSL"
-
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid "Info template:"
-#~ msgstr "Шаблон отображения:"
-
-# Может всё-таки переменные?
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid ""
-#~ "Macros:\n"
-#~ "%TYPE% - Content-Type\n"
-#~ "%SIZE% - Content-Length"
-#~ msgstr ""
-#~ "Макросы:\n"
-#~ "%TYPE% — тип содержимого\n"
-#~ "%SIZE% — размер содержимого"
-
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid "Images"
-#~ msgstr "Изображения"
-
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid "Max file size limit (in bytes)"
-#~ msgstr "Максимальный размер файла (в байтах)"
-
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid "%MAXW% macro"
-#~ msgstr "Макрос %MAXW%"
-
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid "%MAXH% macro"
-#~ msgstr "Макрос %MAXH%"
-
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid "Image preview template:"
-#~ msgstr "Шаблон отображения изображения:"
-
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid ""
-#~ "Macros:\n"
-#~ "%URL% - Image URL\n"
-#~ "%UID% - Generated unique ID"
-#~ msgstr ""
-#~ "Макросы:\n"
-#~ "%URL% — Адрес на изображение\n"
-#~ "%UID% — Уник. идентификатор"
-
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid "YouTube"
-#~ msgstr "YouTube"
-
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid "Enable preview for YouTube links"
-#~ msgstr "Включить предпросмотр ссылок на YouTube"
-
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid "YouTube links template:"
-#~ msgstr "Шаблон отображения вставок с YouTube:"
-
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid ""
-#~ "Macros:\n"
-#~ "%YTID% - YouTube ID"
-#~ msgstr ""
-#~ "Переменная:\n"
-#~ "%YTID% - YouTube ID"
-
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
-#~ "\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-#~ "type=\"text/css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Verdana'; font-size:8pt; "
-#~ "font-weight:400; font-style:normal;\">\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "font-size:10pt; font-weight:600;\">URLPreview qutIM plugin</span></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "font-size:10pt;\">svn version</span></p>\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px; font-family:'Bitstream Vera Sans'; "
-#~ "font-size:10pt;\"></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "font-size:10pt;\">Make previews for URLs in messages</span></p>\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px; font-family:'Bitstream Vera Sans'; "
-#~ "font-size:10pt;\"></p>\n"
-#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~ "font-family:'Bitstream Vera Sans'; font-size:10pt;\"></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "font-size:10pt; font-weight:600;\">Author:</span></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "font-size:10pt;\">Alexander Kazarin</span></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "font-size:10pt;\">&lt;boiler@co.ru&gt;</span></p>\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px; font-family:'Bitstream Vera Sans'; font-size:10pt; "
-#~ "text-decoration: underline; color:#000000;\"></p>\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px; font-family:'Bitstream Vera Sans'; font-size:10pt; "
-#~ "text-decoration: underline; color:#000000;\"></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "font-size:10pt; color:#000000;\">(c) 2008-2009</span></p></body></html>"
-#~ msgstr ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
-#~ "\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-#~ "type=\"text/css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Verdana'; font-size:8pt; "
-#~ "font-weight:400; font-style:normal;\">\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "font-size:10pt; font-weight:600;\">Плагин предпросмотра URL</span></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "font-size:10pt;\">svn версия</span></p>\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px; font-family:'Bitstream Vera Sans'; "
-#~ "font-size:10pt;\"></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "font-size:10pt;\">Предпросмотр адресов в сообщениях</span></p>\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px; font-family:'Bitstream Vera Sans'; "
-#~ "font-size:10pt;\"></p>\n"
-#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~ "font-family:'Bitstream Vera Sans'; font-size:10pt;\"></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "font-size:10pt; font-weight:600;\">Автор:</span></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "font-size:10pt;\">Александр Казарин</span></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "font-size:10pt;\">&lt;boiler@co.ru&gt;</span></p>\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px; font-family:'Bitstream Vera Sans'; font-size:10pt; "
-#~ "text-decoration: underline; color:#000000;\"></p>\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px; font-family:'Bitstream Vera Sans'; font-size:10pt; "
-#~ "text-decoration: underline; color:#000000;\"></p>\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px;\"><span style=\" font-family:'Bitstream Vera Sans'; "
-#~ "font-size:10pt; color:#000000;\">(c) 2008-2009</span></p></body></html>"
-
-#~ msgctxt "urlpreviewSettingsClass|"
-#~ msgid "About"
-#~ msgstr "О плагине"
+msgstr ""

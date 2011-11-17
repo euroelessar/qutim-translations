@@ -1,11 +1,19 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:42+0000\n"
+"PO-Revision-Date: 2011-11-15 16:36+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Language: bg\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:07+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
 "X-Qt-Contexts: true\n"
+"X-Language: bg\n"
 
 #: ../../../plugins/histman/src/historymanagerplugin.cpp:36
 msgctxt "Author|"
@@ -52,16 +60,16 @@ msgctxt "ClientConfigPage|"
 msgid "Encoding:"
 msgstr "Кодировка:"
 
-#: ../../../plugins/histman/src/clients/qipinfium.cpp:190
-msgctxt "ClientConfigPage|"
-msgid "Select accounts for each protocol in the list."
-msgstr "Изберете сметки за всеки протокол в списъка."
-
 #: ../../../plugins/histman/src/clients/gajim.cpp:109
 #: ../../../plugins/histman/src/clients/psi.cpp:172
 msgctxt "ClientConfigPage|"
 msgid "Select your Jabber account."
 msgstr "Изберете Jabber сметка."
+
+#: ../../../plugins/histman/src/clients/qipinfium.cpp:190
+msgctxt "ClientConfigPage|"
+msgid "Select accounts for each protocol in the list."
+msgstr "Изберете сметки за всеки протокол в списъка."
 
 #: ../../../plugins/histman/src/dumphistorypage.ui:14
 msgctxt "DumpHistoryPage|"
@@ -188,6 +196,13 @@ msgctxt "HistoryManager::ImportHistoryPage|"
 msgid "Loading"
 msgstr "Зареждане"
 
+#: ../../../plugins/histman/src/importhistorypage.cpp:71
+msgctxt "HistoryManager::ImportHistoryPage|"
+msgid "Manager loads all history to memory, it may take several minutes."
+msgstr ""
+"Приставката зарежда цялата хронология в паметта, това може да отнеме няколко "
+"минути."
+
 #: ../../../plugins/histman/src/importhistorypage.cpp:97
 #, qt-format
 msgctxt "HistoryManager::ImportHistoryPage|"
@@ -203,13 +218,6 @@ msgid "It has taken %n ms."
 msgid_plural "It has taken %n ms."
 msgstr[0] "Операцията отне %n мс."
 msgstr[1] "Операцията отне %n мс."
-
-#: ../../../plugins/histman/src/importhistorypage.cpp:71
-msgctxt "HistoryManager::ImportHistoryPage|"
-msgid "Manager loads all history to memory, it may take several minutes."
-msgstr ""
-"Приставката зарежда цялата хронология в паметта, това може да отнеме няколко "
-"минути."
 
 #: ../../../plugins/histman/src/historymanagerwindow.ui:16
 msgctxt "HistoryManagerWindow|"

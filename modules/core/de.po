@@ -1,12 +1,19 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:42+0000\n"
+"PO-Revision-Date: 2011-11-15 16:33+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:07+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
+"X-Qt-Contexts: true\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
-"X-Qt-Contexts: true\n"
 
 #: ../../../core/libqutim/account.cpp:145
 msgctxt "Account|"
@@ -138,11 +145,11 @@ msgid ""
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
 "type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; "
-"font-weight:400; font-style:normal;\">\n"
+"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
 "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-"font-family:'Droid Sans';\"></p></body></html>"
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
+"family:'Droid Sans';\"></p></body></html>"
 msgstr ""
 
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:94
@@ -305,6 +312,11 @@ msgctxt "ContactInfo|"
 msgid "no"
 msgstr "Nein"
 
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:94
+msgctxt "ContactInfo|"
+msgid "Information unavailable"
+msgstr "Keine Informationen"
+
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:187
 msgctxt "ContactInfo|"
 msgid "Show information"
@@ -314,11 +326,6 @@ msgstr "Benutzerinformationen"
 msgctxt "ContactInfo|"
 msgid "Edit information"
 msgstr "Benutzerinfo bearbeiten"
-
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:94
-msgctxt "ContactInfo|"
-msgid "Information unavailable"
-msgstr "Keine Informationen"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:70
 msgctxt "ContactList|"
@@ -385,6 +392,27 @@ msgctxt "ContactList|"
 msgid "Hide offline"
 msgstr "Offline-Kontakte verstecken"
 
+#: ../../../core/src/corelayers/simplecontactlist/models/plaincontactsmodel/plaincontactlistmodel.cpp:62
+msgctxt "ContactList|"
+msgid "Show only contacts"
+msgstr "Nur Kontakte"
+
+#: ../../../core/src/corelayers/simplecontactlist/models/separatedcontactsmodel/separatedcontactlistmodel.cpp:90
+msgctxt "ContactList|"
+msgid "Show accounts, tags and contacts"
+msgstr "Accounts, Tags und Kontakte"
+
+#: ../../../core/src/corelayers/simplecontactlist/models/treecontactsmodel/simplecontactlistmodel.cpp:79
+msgctxt "ContactList|"
+msgid "Show tags and contacts"
+msgstr "Tags und Kontakte"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:114
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:75
+msgctxt "ContactList|"
+msgid "Default style"
+msgstr "Standard-Stil"
+
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp:43
 msgctxt "ContactList|"
 msgid "Default (depends on platform)"
@@ -414,27 +442,6 @@ msgstr "Sehr Groß (48x48)"
 msgctxt "ContactList|"
 msgid "Huge (64x64)"
 msgstr "Riesig (64x64)"
-
-#: ../../../core/src/corelayers/simplecontactlist/models/plaincontactsmodel/plaincontactlistmodel.cpp:62
-msgctxt "ContactList|"
-msgid "Show only contacts"
-msgstr "Nur Kontakte"
-
-#: ../../../core/src/corelayers/simplecontactlist/models/separatedcontactsmodel/separatedcontactlistmodel.cpp:90
-msgctxt "ContactList|"
-msgid "Show accounts, tags and contacts"
-msgstr "Accounts, Tags und Kontakte"
-
-#: ../../../core/src/corelayers/simplecontactlist/models/treecontactsmodel/simplecontactlistmodel.cpp:79
-msgctxt "ContactList|"
-msgid "Show tags and contacts"
-msgstr "Tags und Kontakte"
-
-#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:114
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:75
-msgctxt "ContactList|"
-msgid "Default style"
-msgstr "Standard-Stil"
 
 #: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:73
 msgctxt "ContactList|"
@@ -771,16 +778,14 @@ msgid "To take effect you must restart qutIM"
 msgstr "Die Änderungen erfordern einen Neustart von qutIM"
 
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:109
-#, fuzzy
 msgctxt "Core::FileTransferDialog|"
 msgid "Remove"
-msgstr "Löschen"
+msgstr ""
 
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:111
-#, fuzzy
 msgctxt "Core::FileTransferDialog|"
 msgid "Stop"
-msgstr "Anhalten"
+msgstr ""
 
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:113
 msgctxt "Core::FileTransferDialog|"
@@ -940,7 +945,8 @@ msgstr "Deaktiviere Benachrichtigungen bei aktiven Chat"
 #: ../../../core/src/corelayers/mobilenotificationssettings/mobilenotificationsettings.cpp:148
 msgctxt "Core::MobileNotificationSettings|"
 msgid "Ignore conference messages that do not contain my name"
-msgstr "Ignoriere Nachrichten in Chaträumen, die nicht meinen Namen enthalten"
+msgstr ""
+"Ignoriere Nachrichten in Chaträumen, die nicht meinen Namen enthalten"
 
 #: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:62
 msgctxt "Core::MobileSearchForm|"
@@ -991,7 +997,8 @@ msgstr "Deaktiviere Benachrichtigungen bei aktiven Chat"
 #: ../../../core/src/corelayers/notificationssettings/notificationsettings.cpp:102
 msgctxt "Core::NotificationSettings|"
 msgid "Ignore conference messages that do not contain my name"
-msgstr "Ignoriere Nachrichten in Chaträumen, die nicht meinen Namen enthalten"
+msgstr ""
+"Ignoriere Nachrichten in Chaträumen, die nicht meinen Namen enthalten"
 
 #: ../../../core/src/corelayers/plistconfig/plistconfigbackend.cpp:165
 #, qt-format
@@ -1076,26 +1083,10 @@ msgctxt "Core::ProfileCreationPage|"
 msgid "Select path"
 msgstr "Pfad auswählen"
 
-#~ msgctxt "Core::ProfileDialog|"
-#~ msgid "Password is mismatched."
-#~ msgstr "Passwort stimmt nicht überein."
-
-#~ msgctxt "Core::ProfileDialog|"
-#~ msgid "Crypto service is unknown."
-#~ msgstr "Verschlüsselungsart ist unbekannt."
-
-#~ msgctxt "Core::ProfileDialog|"
-#~ msgid "Wrong profile id."
-#~ msgstr "Falsche Profil-ID."
-
 #: ../../../core/src/widgets/profiledialog.cpp:117
 msgctxt "Core::ProfileDialog|"
 msgid "Error while loading"
 msgstr "Fehler beim Laden"
-
-#~ msgctxt "Core::ProfileDialog|"
-#~ msgid "Can't open file with hash"
-#~ msgstr "Kann die Hash-Datei nicht öffnen"
 
 #: ../../../core/src/widgets/profiledialog.cpp:140
 msgctxt "Core::ProfileDialog|"
@@ -1180,10 +1171,10 @@ msgid "Type"
 msgstr "Typ"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:54
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChooser|"
 msgid "<b>Name: </b> %1 <br />"
-msgstr "<b>Name: </b> %1 <br />"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:55
 #, qt-format
@@ -1192,10 +1183,10 @@ msgid "<b>Description: </b> %1 <br />"
 msgstr "<b>Beschreibung: </b> %1 <br />"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:60
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChooser|"
 msgid "<b>Name:</b> %1<br/>"
-msgstr "<b>Name:</b> %1<br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:62
 #, qt-format
@@ -1336,15 +1327,15 @@ msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Main Toolbar"
 msgstr "Hauptwerkzeugleiste"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:142
-msgctxt "Core::SimpleContactList::SimpleWidget|"
-msgid "Status"
-msgstr "Status"
-
 #: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:126
 msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Search contact"
 msgstr "Kontakt suchen"
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:142
+msgctxt "Core::SimpleContactList::SimpleWidget|"
+msgid "Status"
+msgstr "Status"
 
 #: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:171
 #: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:379
@@ -1829,8 +1820,8 @@ msgstr "Deutsch"
 
 #: ../../../core/src/corelayers/localization/localizationsettings.cpp:61
 msgctxt ""
-"Localization|Localized country name, empty if localization is "
-"country-independent"
+"Localization|Localized country name, empty if localization is country-"
+"independent"
 msgid "<Country>"
 msgstr "Deutschland"
 
@@ -1895,10 +1886,9 @@ msgid "TextLabel"
 msgstr ""
 
 #: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.ui:20
-#, fuzzy
 msgctxt "MobileSearchForm|"
 msgid "Search window"
-msgstr "Suchen"
+msgstr ""
 
 #: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.ui:51
 msgctxt "MobileSearchForm|"
@@ -1950,6 +1940,11 @@ msgctxt "Notification|"
 msgid "Outgoing conference message"
 msgstr "Gesendete Chatraum-Nachricht"
 
+#: ../../../core/libqutim/notification.cpp:200
+msgctxt "Notification|"
+msgid "File transfer completed"
+msgstr "Dateiübertragung abgeschlossen"
+
 #: ../../../core/libqutim/notification.cpp:201
 msgctxt "Notification|"
 msgid "Contact online"
@@ -1974,6 +1969,11 @@ msgstr "Kontakt hat Geburtstag"
 msgctxt "Notification|"
 msgid "Contact typing"
 msgstr "Kontakt tippt gerade"
+
+#: ../../../core/libqutim/notification.cpp:206
+msgctxt "Notification|"
+msgid "System"
+msgstr "Systemnachricht"
 
 #: ../../../core/libqutim/notification.cpp:220
 msgctxt "Notification|"
@@ -2050,16 +2050,6 @@ msgctxt "Notification|"
 msgid "A system notification"
 msgstr "Systemnachricht"
 
-#: ../../../core/libqutim/notification.cpp:200
-msgctxt "Notification|"
-msgid "File transfer completed"
-msgstr "Dateiübertragung abgeschlossen"
-
-#: ../../../core/libqutim/notification.cpp:206
-msgctxt "Notification|"
-msgid "System"
-msgstr "Systemnachricht"
-
 #: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp:98
 msgctxt "Notifications|"
 msgid "Type"
@@ -2133,10 +2123,9 @@ msgid "Kinetic scrolling"
 msgstr ""
 
 #: ../../../core/src/corelayers/localization/localizationplugin.cpp:37
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Localization"
-msgstr "Sprache"
+msgstr ""
 
 #: ../../../core/src/corelayers/localization/localizationplugin.cpp:38
 msgctxt "Plugin|"
@@ -2145,10 +2134,9 @@ msgstr "Standardmodul für die Lokalisierung (Sprache)"
 
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:35
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:42
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Search window"
-msgstr "Suchen"
+msgstr ""
 
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:36
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:43
@@ -2196,11 +2184,6 @@ msgctxt "Plugin|"
 msgid "Default actionset for contacts"
 msgstr "Standard-Aktionen für Kontakte"
 
-#: ../../../core/src/corelayers/trayicon/simpletray.cpp:143
-msgctxt "Plugin|"
-msgid "Notification Area Icon"
-msgstr "Systemtray-Symbol"
-
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:91
 msgctxt "Plugin|"
 msgid "ContactDelegate"
@@ -2210,6 +2193,11 @@ msgstr ""
 msgctxt "Plugin|"
 msgid "Just simple"
 msgstr ""
+
+#: ../../../core/src/corelayers/trayicon/simpletray.cpp:143
+msgctxt "Plugin|"
+msgid "Notification Area Icon"
+msgstr "Systemtray-Symbol"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:14
 msgctxt "ProfileCreationPage|"
@@ -2323,6 +2311,65 @@ msgctxt "QObject|"
 msgid "Tool button style"
 msgstr "Schaltflächenstil"
 
+#: ../../../core/libqutim/utils.cpp:124
+msgctxt "QObject|"
+msgid "1st quarter"
+msgstr ""
+
+#: ../../../core/libqutim/utils.cpp:127
+msgctxt "QObject|"
+msgid "2nd quarter"
+msgstr ""
+
+#: ../../../core/libqutim/utils.cpp:130
+msgctxt "QObject|"
+msgid "3rd quarter"
+msgstr ""
+
+#: ../../../core/libqutim/utils.cpp:133
+msgctxt "QObject|"
+msgid "4th quarter"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:92
+msgctxt "QObject|"
+msgid "Remove finished tasks"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:100
+msgctxt "QObject|"
+msgid "Close"
+msgstr "Schließen"
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:215
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 GB"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:217
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 MB"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:219
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 KB"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:222
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 B"
+msgstr ""
+
+#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:95
+msgctxt "QObject|"
+msgid "Auto"
+msgstr ""
+
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:46
 #, qt-format
 msgctxt "QObject|"
@@ -2393,66 +2440,6 @@ msgctxt "QObject|"
 msgid "System notify"
 msgstr "Systemnachricht"
 
-#: ../../../core/libqutim/utils.cpp:124
-msgctxt "QObject|"
-msgid "1st quarter"
-msgstr ""
-
-#: ../../../core/libqutim/utils.cpp:127
-msgctxt "QObject|"
-msgid "2nd quarter"
-msgstr ""
-
-#: ../../../core/libqutim/utils.cpp:130
-msgctxt "QObject|"
-msgid "3rd quarter"
-msgstr ""
-
-#: ../../../core/libqutim/utils.cpp:133
-msgctxt "QObject|"
-msgid "4th quarter"
-msgstr ""
-
-#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:92
-msgctxt "QObject|"
-msgid "Remove finished tasks"
-msgstr ""
-
-#: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:100
-msgctxt "QObject|"
-msgid "Close"
-msgstr "Schließen"
-
-#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:215
-#, qt-format
-msgctxt "QObject|"
-msgid "%1 GB"
-msgstr ""
-
-#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:217
-#, qt-format
-msgctxt "QObject|"
-msgid "%1 MB"
-msgstr ""
-
-#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:219
-#, qt-format
-msgctxt "QObject|"
-msgid "%1 KB"
-msgstr ""
-
-#: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:222
-#, qt-format
-msgctxt "QObject|"
-msgid "%1 B"
-msgstr ""
-
-#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:95
-#, fuzzy
-msgctxt "QObject|"
-msgid "Auto"
-msgstr "Automatisch"
-
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:173
 msgctxt "QObject|"
 msgid "Open chat"
@@ -2485,6 +2472,11 @@ msgctxt "Service|"
 msgid "ActionBoxModule"
 msgstr ""
 
+#: ../../../core/libqutim/settingslayer.cpp:393
+msgctxt "Service|"
+msgid "Settings Window"
+msgstr ""
+
 #: ../../../core/libqutim/sound.cpp:40
 msgctxt "Service|"
 msgid "Popup"
@@ -2493,11 +2485,6 @@ msgstr ""
 #: ../../../core/libqutim/sound.cpp:41
 msgctxt "Service|"
 msgid "Sound"
-msgstr ""
-
-#: ../../../core/libqutim/settingslayer.cpp:393
-msgctxt "Service|"
-msgid "Settings Window"
 msgstr ""
 
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:53
@@ -2511,10 +2498,9 @@ msgid "ChatViewFactory"
 msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:77
-#, fuzzy
 msgctxt "Service|"
 msgid "ContactList"
-msgstr "Kontaktliste"
+msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:78
 msgctxt "Service|"
@@ -2779,6 +2765,16 @@ msgctxt "SimpleContactlistSettings|"
 msgid "Status icons size:"
 msgstr "Statussymbolgröße:"
 
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:30
+msgctxt "SimpleContactlistSettings|"
+msgid "Show extended icons"
+msgstr "Zeige erweiterte Symbole"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:37
+msgctxt "SimpleContactlistSettings|"
+msgid "Show status text"
+msgstr "Zeige Statusnachrichten"
+
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:44
 msgctxt "SimpleContactlistSettings|"
 msgid "Show avatars"
@@ -2788,16 +2784,6 @@ msgstr "Zeige Avatarbilder"
 msgctxt "SimpleContactlistSettings|"
 msgid "Lite group headers"
 msgstr "Einfache Überschriften"
-
-#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:37
-msgctxt "SimpleContactlistSettings|"
-msgid "Show status text"
-msgstr "Zeige Statusnachrichten"
-
-#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:30
-msgctxt "SimpleContactlistSettings|"
-msgid "Show extended icons"
-msgstr "Zeige erweiterte Symbole"
 
 #: ../../../core/src/corelayers/password/simplepasswordwidget.ui:14
 msgctxt "SimplePasswordWidget|"
@@ -2987,6 +2973,11 @@ msgctxt "TabbedChatBehavior|"
 msgid "Form"
 msgstr ""
 
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:47
+msgctxt "TabbedChatBehavior|"
+msgid "Send Key"
+msgstr "Nachricht senden bei"
+
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:55
 msgctxt "TabbedChatBehavior|"
 msgid "Store service messages in history"
@@ -3027,11 +3018,6 @@ msgstr "Zeige Chatstatus-Symbole auf den Tabs"
 msgctxt "TabbedChatBehavior|"
 msgid "Show menubar"
 msgstr "Zeige Menüleiste"
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:47
-msgctxt "TabbedChatBehavior|"
-msgid "Send Key"
-msgstr "Nachricht senden bei"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/tagsfilterdialog.ui:14
 msgctxt "TagsFilterDialog|"
@@ -3500,34 +3486,29 @@ msgstr ""
 "%1"
 
 #: ../../../core/libqutim/profile.cpp:123
-#, fuzzy
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Password is mismatched."
-msgstr "Passwort stimmt nicht überein."
+msgstr ""
 
 #: ../../../core/libqutim/profile.cpp:125
-#, fuzzy
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Crypto service is unknown."
-msgstr "Verschlüsselungsart ist unbekannt."
+msgstr ""
 
 #: ../../../core/libqutim/profile.cpp:127
-#, fuzzy
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Wrong profile id."
-msgstr "Falsche Profil-ID."
+msgstr ""
 
 #: ../../../core/libqutim/profile.cpp:160
-#, fuzzy
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Can't open file with hash"
-msgstr "Kann die Hash-Datei nicht öffnen"
+msgstr ""
 
 #: ../../../core/libqutim/sound.cpp:282
-#, fuzzy
 msgctxt "qutim_sdk_0_3::SoundHandler|"
 msgid "Play sound"
-msgstr "Klangbenachrichtigung"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactinfo/userinformation.ui:14
 msgctxt "userInformationClass|"

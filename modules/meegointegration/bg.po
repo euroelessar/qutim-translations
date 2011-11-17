@@ -1,12 +1,19 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:43+0000\n"
+"PO-Revision-Date: 2011-11-15 16:44+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:08+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
+"X-Qt-Contexts: true\n"
 "X-Language: bg\n"
 "X-Source-Language: C\n"
-"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:30
 msgctxt "AboutDialog|"
@@ -297,7 +304,8 @@ msgstr "MeeGo диалогов прозорец за удостоверяван�
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:61
 msgctxt "Plugin|"
 msgid "Simple authorization dialog on QML elements"
-msgstr "Обикновен диалогов прозорец за удостоверяване, базиран на QML елементи"
+msgstr ""
+"Обикновен диалогов прозорец за удостоверяване, базиран на QML елементи"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:63
 msgctxt "Plugin|"

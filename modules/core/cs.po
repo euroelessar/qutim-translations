@@ -1,12 +1,24 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:42+0000\n"
+"PO-Revision-Date: 2011-11-15 16:32+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:07+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
+"X-Qt-Contexts: true\n"
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
-"X-Qt-Contexts: true\n"
+
+#: ../../../core/libqutim/account.cpp:145
+msgctxt "Account|"
+msgid "Authorization failed"
+msgstr "Autorizace selhala"
 
 #: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:69
 msgctxt "Account|"
@@ -22,11 +34,6 @@ msgstr "Přidá nebo vytvoří nový účet"
 msgctxt "Account|"
 msgid "Accounts"
 msgstr "Účty"
-
-#: ../../../core/libqutim/account.cpp:145
-msgctxt "Account|"
-msgid "Authorization failed"
-msgstr "Autorizace selhala"
 
 #: ../../../core/src/corelayers/accountcreator/accountcreatorlist.ui:14
 msgctxt "AccountCreatorList|"
@@ -125,6 +132,11 @@ msgctxt "AuthDialog|"
 msgid "Dialog"
 msgstr ""
 
+#: ../../../core/src/corelayers/authdialog/authdialog.ui:20
+msgctxt "AuthDialog|"
+msgid "TextLabel"
+msgstr ""
+
 #: ../../../core/src/corelayers/authdialog/authdialog.ui:33
 msgctxt "AuthDialog|"
 msgid ""
@@ -133,16 +145,21 @@ msgid ""
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
 "type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; "
-"font-weight:400; font-style:normal;\">\n"
+"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
 "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-"font-family:'Droid Sans';\"></p></body></html>"
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
+"family:'Droid Sans';\"></p></body></html>"
 msgstr ""
 
-#: ../../../core/src/corelayers/authdialog/authdialog.ui:20
-msgctxt "AuthDialog|"
-msgid "TextLabel"
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:94
+msgctxt "Author|"
+msgid "Perova Gala"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:98
+msgctxt "Author|"
+msgid "Rederick Asher"
 msgstr ""
 
 #: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:39
@@ -157,26 +174,21 @@ msgctxt "Author|"
 msgid "Alexey Prokhin"
 msgstr ""
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:94
-msgctxt "Author|"
-msgid "Perova Gala"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:98
-msgctxt "Author|"
-msgid "Rederick Asher"
-msgstr ""
-
 #: ../../../core/src/corelayers/idlestatuschanger/idlestatuschanger.cpp:50
-#, fuzzy
 msgctxt "AutoAway|"
 msgid "Auto-away"
-msgstr "Automaticky pryč"
+msgstr ""
 
 #: ../../../core/src/corelayers/jsonhistory/jsonhistory.cpp:134
 msgctxt "Chat|"
 msgid "View History"
 msgstr "Zobrazit historii"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatform.cpp:50
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatform.cpp:48
+msgctxt "ChatLayer|"
+msgid "Open session list"
+msgstr ""
 
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:56
 msgctxt "ChatLayer|"
@@ -186,10 +198,9 @@ msgstr "Zavřít konverzaci"
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:57
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:62
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:67
-#, fuzzy
 msgctxt "ChatLayer|"
 msgid "ChatWidget"
-msgstr "Okno konverzace"
+msgstr ""
 
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:61
 msgctxt "ChatLayer|"
@@ -228,17 +239,9 @@ msgid "Clear chat"
 msgstr "Vymazat konverzaci"
 
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:142
-#, fuzzy
 msgctxt "ChatLayer|"
 msgid "Clear chat field"
-msgstr "Vymazat okno konverzace"
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatform.cpp:50
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatform.cpp:48
-#, fuzzy
-msgctxt "ChatLayer|"
-msgid "Open session list"
-msgstr "Otevřít seznam konverzací"
+msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:85
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:90
@@ -309,6 +312,11 @@ msgctxt "ContactInfo|"
 msgid "no"
 msgstr "ne"
 
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:94
+msgctxt "ContactInfo|"
+msgid "Information unavailable"
+msgstr "Informace nejsou k dispozici"
+
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:187
 msgctxt "ContactInfo|"
 msgid "Show information"
@@ -319,15 +327,20 @@ msgctxt "ContactInfo|"
 msgid "Edit information"
 msgstr "Upravit informace"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:94
-msgctxt "ContactInfo|"
-msgid "Information unavailable"
-msgstr "Informace nejsou k dispozici"
-
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:70
 msgctxt "ContactList|"
 msgid "Copy id to clipboard"
 msgstr "Kopírovat ID do schránky"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:79
+msgctxt "ContactList|"
+msgid "Edit tags"
+msgstr "Upravit štítky"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:89
+msgctxt "ContactList|"
+msgid "Rename contact"
+msgstr "Přejmenovat kontakt"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:113
 msgctxt "ContactList|"
@@ -340,10 +353,9 @@ msgid "Change global status"
 msgstr "Změnit globální stav"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:89
-#, fuzzy
 msgctxt "ContactList|"
 msgid "Activate main menu"
-msgstr "Aktivovat hlavní nabídku"
+msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:97
 msgctxt "ContactList|"
@@ -380,6 +392,27 @@ msgctxt "ContactList|"
 msgid "Hide offline"
 msgstr "Skrýt offline kontakty"
 
+#: ../../../core/src/corelayers/simplecontactlist/models/plaincontactsmodel/plaincontactlistmodel.cpp:62
+msgctxt "ContactList|"
+msgid "Show only contacts"
+msgstr "Zobrazit pouze kontakty"
+
+#: ../../../core/src/corelayers/simplecontactlist/models/separatedcontactsmodel/separatedcontactlistmodel.cpp:90
+msgctxt "ContactList|"
+msgid "Show accounts, tags and contacts"
+msgstr "Zobrazit účty, štítky a kontakty"
+
+#: ../../../core/src/corelayers/simplecontactlist/models/treecontactsmodel/simplecontactlistmodel.cpp:79
+msgctxt "ContactList|"
+msgid "Show tags and contacts"
+msgstr "Zobrazit štítky a kontakty"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:114
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:75
+msgctxt "ContactList|"
+msgid "Default style"
+msgstr "Výchozí styl"
+
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp:43
 msgctxt "ContactList|"
 msgid "Default (depends on platform)"
@@ -409,37 +442,6 @@ msgstr "Velmi velká (48x48)"
 msgctxt "ContactList|"
 msgid "Huge (64x64)"
 msgstr "Obrovská (64x64)"
-
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:89
-msgctxt "ContactList|"
-msgid "Rename contact"
-msgstr "Přejmenovat kontakt"
-
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:79
-msgctxt "ContactList|"
-msgid "Edit tags"
-msgstr "Upravit štítky"
-
-#: ../../../core/src/corelayers/simplecontactlist/models/plaincontactsmodel/plaincontactlistmodel.cpp:62
-msgctxt "ContactList|"
-msgid "Show only contacts"
-msgstr "Zobrazit pouze kontakty"
-
-#: ../../../core/src/corelayers/simplecontactlist/models/separatedcontactsmodel/separatedcontactlistmodel.cpp:90
-msgctxt "ContactList|"
-msgid "Show accounts, tags and contacts"
-msgstr "Zobrazit účty, štítky a kontakty"
-
-#: ../../../core/src/corelayers/simplecontactlist/models/treecontactsmodel/simplecontactlistmodel.cpp:79
-msgctxt "ContactList|"
-msgid "Show tags and contacts"
-msgstr "Zobrazit štítky a kontakty"
-
-#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:114
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:75
-msgctxt "ContactList|"
-msgid "Default style"
-msgstr "Výchozí styl"
 
 #: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:73
 msgctxt "ContactList|"
@@ -492,16 +494,14 @@ msgid "Add a new account"
 msgstr "Přidat nový účet"
 
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:53
-#, fuzzy
 msgctxt "Core::ActionWidget|"
 msgid "Stop"
-msgstr "Přerušit"
+msgstr ""
 
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:54
-#, fuzzy
 msgctxt "Core::ActionWidget|"
 msgid "Stop the task"
-msgstr "Přerušit úlohu"
+msgstr ""
 
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:61
 msgctxt "Core::ActionWidget|"
@@ -621,16 +621,15 @@ msgctxt "Core::AdiumChat::ConferenceContactsView|"
 msgid "Insert Nick"
 msgstr "Vložit přezdívku"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:161
-#, fuzzy
-msgctxt "Core::AdiumChat::ConferenceContactsView|"
-msgid "Private"
-msgstr "Soukromé"
-
 #: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:98
 msgctxt "Core::AdiumChat::ConferenceContactsView|"
 msgid "Conference participants"
 msgstr "Účastníci konference"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:161
+msgctxt "Core::AdiumChat::ConferenceContactsView|"
+msgid "Private"
+msgstr ""
 
 #: ../../../core/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp:54
 #: ../../../core/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp:269
@@ -639,10 +638,9 @@ msgid "Close chat"
 msgstr "Zavřít konverzaci"
 
 #: ../../../core/src/corelayers/adiumchat/chatlayer/sessionlistwidget.cpp:59
-#, fuzzy
 msgctxt "Core::AdiumChat::SessionListWidget|"
 msgid "Session list"
-msgstr "Seznam konverzací"
+msgstr ""
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.cpp:43
 msgctxt "Core::AdiumChat::StackedChatBehavior|"
@@ -715,16 +713,14 @@ msgid "Chat Actions"
 msgstr "Akce konverzace"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:75
-#, fuzzy
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Send to"
-msgstr "Odeslat do"
+msgstr ""
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:110
-#, fuzzy
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Session list"
-msgstr "Seznam konverzací"
+msgstr ""
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:164
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
@@ -747,10 +743,9 @@ msgid "&Chat"
 msgstr "Konverza&ce"
 
 #: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:45
-#, fuzzy
 msgctxt "Core::AuthDialogPrivate|"
 msgid "Actions"
-msgstr "Akce"
+msgstr ""
 
 #: ../../../core/src/corelayers/chatnotificationsbackend/chatnotificationsbackend.cpp:37
 msgctxt "Core::ChatNotificationsBackend|"
@@ -768,10 +763,9 @@ msgid "Model"
 msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:121
-#, fuzzy
 msgctxt "Core::ContactListSettings|"
 msgid "Widget style"
-msgstr "Styl ovládacích prvků"
+msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:122
 msgctxt "Core::ContactListSettings|"
@@ -789,16 +783,14 @@ msgid "Remove"
 msgstr "Odstranit"
 
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:111
-#, fuzzy
 msgctxt "Core::FileTransferDialog|"
 msgid "Stop"
-msgstr "Přerušit"
+msgstr ""
 
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:113
-#, fuzzy
 msgctxt "Core::FileTransferDialog|"
 msgid "Open containing folder"
-msgstr "Otevřít složku s obsahem"
+msgstr ""
 
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:115
 msgctxt "Core::FileTransferDialog|"
@@ -875,16 +867,14 @@ msgid "Right mouse button"
 msgstr "Pravé tlačítko myši"
 
 #: ../../../core/src/corelayers/metacontacts/mergedialog.ui:14
-#, fuzzy
 msgctxt "Core::MetaContacts::MergeDialog|"
 msgid "Manage metacontact"
-msgstr "Správce metakontaktů"
+msgstr ""
 
 #: ../../../core/src/corelayers/metacontacts/mergedialog.ui:20
-#, fuzzy
 msgctxt "Core::MetaContacts::MergeDialog|"
 msgid "MetaContact name:"
-msgstr "Jméno metakontaktu:"
+msgstr ""
 
 #: ../../../core/src/corelayers/metacontacts/mergedialog.ui:30
 msgctxt "Core::MetaContacts::MergeDialog|"
@@ -948,16 +938,14 @@ msgid "Close"
 msgstr "Zavřít"
 
 #: ../../../core/src/corelayers/mobilenotificationssettings/mobilenotificationsettings.cpp:144
-#, fuzzy
 msgctxt "Core::MobileNotificationSettings|"
 msgid "Disable notifications when chat is active"
-msgstr "Zakázat oznamování když je konverzace aktivní"
+msgstr ""
 
 #: ../../../core/src/corelayers/mobilenotificationssettings/mobilenotificationsettings.cpp:148
-#, fuzzy
 msgctxt "Core::MobileNotificationSettings|"
 msgid "Ignore conference messages that do not contain my name"
-msgstr "Ignorovat zprávy z konference, když neobsahují mé jméno"
+msgstr ""
 
 #: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:62
 msgctxt "Core::MobileSearchForm|"
@@ -982,38 +970,31 @@ msgid "qutIM settings - %1"
 msgstr "qutIM nastavení - %1"
 
 #: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:271
-#, fuzzy
 msgctxt "Core::MobileSettingsWindow|"
 msgid "Apply Settings - System Settings"
-msgstr "Použít nastavení - Systémové nastavení"
+msgstr ""
 
 #: ../../../core/src/corelayers/mobilesettingsdialog/mobilesettingswindow.cpp:272
-#, fuzzy
 msgctxt "Core::MobileSettingsWindow|"
 msgid ""
 "The settings of the current module have changed. \n"
 " Do you want to apply the changes or discard them?"
 msgstr ""
-"Nastavení aktuálního modulu bylo změněno.\n"
-"Chcete tyto změny použít nebo odmítnout?"
 
 #: ../../../core/src/corelayers/notificationssettings/notificationsettings.cpp:96
-#, fuzzy
 msgctxt "Core::NotificationSettings|"
 msgid "<b>Additional settings:</b>"
-msgstr "<b>Další nastavení:</b>"
+msgstr ""
 
 #: ../../../core/src/corelayers/notificationssettings/notificationsettings.cpp:98
-#, fuzzy
 msgctxt "Core::NotificationSettings|"
 msgid "Disable notifications when chat is active"
-msgstr "Zakázat oznamování když je konverzace aktivní"
+msgstr ""
 
 #: ../../../core/src/corelayers/notificationssettings/notificationsettings.cpp:102
-#, fuzzy
 msgctxt "Core::NotificationSettings|"
 msgid "Ignore conference messages that do not contain my name"
-msgstr "Ignorovat zprávy z konference, když neobsahují mé jméno"
+msgstr ""
 
 #: ../../../core/src/corelayers/plistconfig/plistconfigbackend.cpp:165
 #, qt-format
@@ -1068,14 +1049,12 @@ msgid "Error"
 msgstr "Chyba"
 
 #: ../../../core/src/widgets/profilecreationpage.cpp:154
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ProfileCreationPage|"
 msgid ""
 "Unable to create directory %1. Maybe you are trying to create a directory in "
 "a protected system directory"
 msgstr ""
-"Nelze vytvořit složka %1. Možná se snažíte vytvořit složku v systémem "
-"chráněné složce"
 
 #: ../../../core/src/widgets/profilecreationpage.cpp:167
 #: ../../../core/src/widgets/profilecreationpage.cpp:175
@@ -1098,26 +1077,10 @@ msgctxt "Core::ProfileCreationPage|"
 msgid "Select path"
 msgstr "Vyberte cestu"
 
-#~ msgctxt "Core::ProfileDialog|"
-#~ msgid "Password is mismatched."
-#~ msgstr "Hesla nesouhlasí."
-
-#~ msgctxt "Core::ProfileDialog|"
-#~ msgid "Crypto service is unknown."
-#~ msgstr "Šifrovací služba je neznámá."
-
-#~ msgctxt "Core::ProfileDialog|"
-#~ msgid "Wrong profile id."
-#~ msgstr "Špatné ID profilu."
-
 #: ../../../core/src/widgets/profiledialog.cpp:117
 msgctxt "Core::ProfileDialog|"
 msgid "Error while loading"
 msgstr "Chyba při načítání"
-
-#~ msgctxt "Core::ProfileDialog|"
-#~ msgid "Can't open file with hash"
-#~ msgstr "Nelze otevřít soubor s hashem"
 
 #: ../../../core/src/widgets/profiledialog.cpp:140
 msgctxt "Core::ProfileDialog|"
@@ -1248,10 +1211,10 @@ msgid " (global)"
 msgstr " (globální)"
 
 #: ../../../core/src/corelayers/shortcutsettings/shortcutitemdelegate.cpp:126
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ShortcutItemDelegate|"
 msgid "%1 : input"
-msgstr "%1 : vstup"
+msgstr ""
 
 #: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.cpp:51
 #, qt-format
@@ -1260,7 +1223,7 @@ msgid "Based on Qt %1 (%2 bit)."
 msgstr "Používá Qt %1 (%2 bitů)."
 
 #: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.cpp:54
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::SimpleAboutDialog|"
 msgid ""
 "<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 2 "
@@ -1268,9 +1231,6 @@ msgid ""
 "themes, icons, sounds may come along with a different "
 "license.</div><br><hr><br>"
 msgstr ""
-"<div><b>qutIM</b> %1 je licencován pod GNU General Public License, verze 2 "
-"nebo (pokud chcete) kterákoliv pozdější verze.</div><div>qutIM zdroje jako "
-"jsou motivy, ikony, zvuky mohou mít jinou licenci.</div><br><hr><br>"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:170
 #, qt-format
@@ -1311,28 +1271,27 @@ msgid "Without tags"
 msgstr "Bez štítků"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:484
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
-msgstr "Chcete spojit kontakty \"%1\" <%2> a \"%3\" <%4>?"
+msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:490
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge metacontacts \"%1\" and \"%2\"?"
-msgstr "Chcete spojit metakontakty \"%1\" a \"%2\"?"
+msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:493
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to add \"%1\" <%2> to metacontact \"%3\"?"
-msgstr "Chcete přidat \"%1\" <%2> do metakontaktu \"%3\"?"
+msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:500
-#, fuzzy
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Contacts' merging"
-msgstr "Spojování kontaktů"
+msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:184
 msgctxt "Core::SimpleContactList::Module|"
@@ -1340,16 +1299,14 @@ msgid "Select tags"
 msgstr "Vybrat štítky"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:186
-#, fuzzy
 msgctxt "Core::SimpleContactList::Module|"
 msgid "Reset"
-msgstr "Resetovat"
+msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/models/plaincontactsmodel/plaincontactlistmodel.cpp:156
-#, fuzzy
 msgctxt "Core::SimpleContactList::PlainModel|"
 msgid "Without tags"
-msgstr "Bez štítků"
+msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/models/separatedcontactsmodel/separatedcontactlistmodel.cpp:236
 msgctxt "Core::SimpleContactList::SeparatedModel|"
@@ -1357,20 +1314,19 @@ msgid "Without tags"
 msgstr "Bez štítků"
 
 #: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:107
-#, fuzzy
 msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Main Toolbar"
-msgstr "Hlavní lišta"
-
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:142
-msgctxt "Core::SimpleContactList::SimpleWidget|"
-msgid "Status"
-msgstr "Stav"
+msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:126
 msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Search contact"
 msgstr "Hledat kontakt"
+
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:142
+msgctxt "Core::SimpleContactList::SimpleWidget|"
+msgid "Status"
+msgstr "Stav"
 
 #: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:171
 #: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:379
@@ -1379,10 +1335,9 @@ msgid "Set Status Text"
 msgstr "Nastavit text stavu"
 
 #: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:100
-#, fuzzy
 msgctxt "Core::SimpleContactList::ToryWidget|"
 msgid "Main Toolbar"
-msgstr "Hlavní lišta"
+msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:117
 msgctxt "Core::SimpleContactList::ToryWidget|"
@@ -1448,26 +1403,21 @@ msgid "Congratulations"
 msgstr "Gratuluji"
 
 #: ../../../core/src/widgets/submitpage.cpp:46
-#, fuzzy
 msgctxt "Core::SubmitPage|"
 msgid ""
 "You've just created a profile for qutIM. Click Finish to proceed to adding "
 "user accounts"
 msgstr ""
-"Byl vytvořen profil pro qutIM. Kliknutím na Dokončit bude následovat "
-"přidávání uživatelských účtů"
 
 #: ../../../core/src/widgets/submitpage.cpp:49
-#, fuzzy
 msgctxt "Core::SubmitPage|"
 msgid "Would you like to send details about your current setup?"
-msgstr "Chcete poslat detaily o aktuálním nastavení?"
+msgstr ""
 
 #: ../../../core/src/widgets/submitpage.cpp:50
-#, fuzzy
 msgctxt "Core::SubmitPage|"
 msgid "Information to be transferred to the qutIM's authors:"
-msgstr "Informace, které mají být přeneseny autorům qutIMu:"
+msgstr ""
 
 #: ../../../core/src/widgets/submitpage.cpp:55
 #, qt-format
@@ -1489,20 +1439,16 @@ msgid "qutIM settings - %1"
 msgstr "qutIM nastavení - %1"
 
 #: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:280
-#, fuzzy
 msgctxt "Core::XSettingsWindow|"
 msgid "Apply Settings - System Settings"
-msgstr "Použít nastavení - Systémové nastavení"
+msgstr ""
 
 #: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:281
-#, fuzzy
 msgctxt "Core::XSettingsWindow|"
 msgid ""
 "The settings of the current module have changed. \n"
 " Do you want to apply the changes or discard them?"
 msgstr ""
-"Nastavení aktuálního modulu bylo změněno.\n"
-"Chcete tyto změny použít nebo odmítnout?"
 
 #: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:103
 msgctxt "DataForms|"
@@ -1530,10 +1476,9 @@ msgid "Images (*.gif *.bmp *.jpg *.jpeg *.png);;All files (*.*)"
 msgstr "Obrázky (*.gif *.bmp *.jpg *.jpeg *.png);;Všechny soubory (*.*)"
 
 #: ../../../core/src/corelayers/searchdialog/defaultform/defaultsearchform.ui:20
-#, fuzzy
 msgctxt "DefaultSearchForm|"
 msgid "Search window"
-msgstr "Vyhledávání"
+msgstr ""
 
 #: ../../../core/src/corelayers/searchdialog/defaultform/defaultsearchform.ui:84
 msgctxt "DefaultSearchForm|"
@@ -1549,17 +1494,6 @@ msgstr "Zrušit"
 msgctxt "EmoticonsSelector|"
 msgid "No emoticons"
 msgstr "Bez smajlíků"
-
-#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:49
-msgctxt "FileTransfer|"
-msgid "Send file"
-msgstr "Poslat soubor"
-
-#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:149
-#, fuzzy
-msgctxt "FileTransfer|"
-msgid "Manage file transfers"
-msgstr "Správce přenosů soborů"
 
 #: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:35
 msgctxt "FileTransfer|"
@@ -1587,21 +1521,29 @@ msgid "Contact"
 msgstr "Kontakt"
 
 #: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:40
-#, fuzzy
 msgctxt "FileTransfer|"
 msgid "Progress"
-msgstr "Průběh"
+msgstr ""
 
 #: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:41
 msgctxt "FileTransfer|"
 msgid "State"
 msgstr "Stav"
 
+#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:49
+msgctxt "FileTransfer|"
+msgid "Send file"
+msgstr "Poslat soubor"
+
+#: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:149
+msgctxt "FileTransfer|"
+msgid "Manage file transfers"
+msgstr ""
+
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.ui:20
-#, fuzzy
 msgctxt "FileTransferDialog|"
 msgid "File transfer manager"
-msgstr "Správce přenosu souboru"
+msgstr ""
 
 #: ../../../core/src/corelayers/jsonhistory/historywindow.ui:14
 msgctxt "HistoryWindowClass|"
@@ -1692,10 +1634,9 @@ msgid "Request last "
 msgstr "Poslední požadavek "
 
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:151
-#, fuzzy
 msgctxt "JoinChat|"
 msgid "messages"
-msgstr "zpráv"
+msgstr ""
 
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:181
 msgctxt "JoinChat|"
@@ -1713,16 +1654,14 @@ msgid "Request messages since"
 msgstr ""
 
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.cpp:43
-#, fuzzy
 msgctxt "JoinChatDialog|"
 msgid "Join"
-msgstr "Vstoupit"
+msgstr ""
 
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.cpp:167
-#, fuzzy
 msgctxt "JoinChatDialog|"
 msgid "New chat"
-msgstr "Nová konverzace"
+msgstr ""
 
 #: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.ui:14
 #: ../../../core/src/corelayers/joinchatdialog/joinchatmodule.cpp:71
@@ -1772,10 +1711,9 @@ msgid "Bookmarks"
 msgstr "Záložky"
 
 #: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:185
-#, fuzzy
 msgctxt "JoinGroupChat|"
 msgid "Join an existing or create a new groupchat"
-msgstr "Vstoupit do existující nebo vytvořit novou konferenci"
+msgstr ""
 
 #: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:187
 #: ../../../core/src/corelayers/joingroupchatdlg/joinpage.cpp:48
@@ -1799,10 +1737,9 @@ msgid "Save to bookmarks"
 msgstr "Uložit do záložek"
 
 #: ../../../core/src/corelayers/shortcutsettings/keysequencewidget.cpp:264
-#, fuzzy
 msgctxt "KeySequenceWidget|"
 msgid "What the user inputs now will be taken as the new shortcut"
-msgstr "Co uživatel nyní zadá, bude bráno jako nová klávesová zkratka"
+msgstr ""
 
 #: ../../../core/src/corelayers/shortcutsettings/keysequencewidget.cpp:272
 msgctxt "KeySequenceWidget|"
@@ -1845,22 +1782,19 @@ msgid "Right mouse button"
 msgstr "Pravé tlačítko myši"
 
 #: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:56
-#, fuzzy
 msgctxt "KineticScrollerSettings|"
 msgid "Mouse press delay, secs:"
-msgstr "Doba stisknutí tlačítka [s]:"
+msgstr ""
 
 #: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:63
-#, fuzzy
 msgctxt "KineticScrollerSettings|"
 msgid "Drag start distance, metres:"
-msgstr "Operace \"Drag\" začne na vzdálenosti [m]:"
+msgstr ""
 
 #: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:70
-#, fuzzy
 msgctxt "KineticScrollerSettings|"
 msgid "Drag velocity smoothing factor, 1/secs:"
-msgstr "Faktor rychlosti vyhlazování při operaci \"Drag\" [1/secs]:"
+msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/lineedit.cpp:40
 msgctxt "LineEdit|"
@@ -1874,8 +1808,8 @@ msgstr "Čeština"
 
 #: ../../../core/src/corelayers/localization/localizationsettings.cpp:61
 msgctxt ""
-"Localization|Localized country name, empty if localization is "
-"country-independent"
+"Localization|Localized country name, empty if localization is country-"
+"independent"
 msgid "<Country>"
 msgstr "Česko"
 
@@ -1890,16 +1824,14 @@ msgid "Split Metacontact"
 msgstr "Rozdělit metakontakt"
 
 #: ../../../core/src/corelayers/metacontacts/manager.cpp:117
-#, fuzzy
 msgctxt "MetaContact|"
 msgid "Manage metacontacts"
-msgstr "Správce metakontaktů"
+msgstr ""
 
 #: ../../../core/src/corelayers/metacontacts/model.cpp:43
-#, fuzzy
 msgctxt "MetaContacts|"
 msgid "Contacts in metacontact"
-msgstr "Kontakty v metakontaktu"
+msgstr ""
 
 #: ../../../core/src/corelayers/metacontacts/model.cpp:47
 msgctxt "MetaContacts|"
@@ -1907,10 +1839,9 @@ msgid "Search results"
 msgstr "Výsledky hledání"
 
 #: ../../../core/src/corelayers/metacontacts/manager.cpp:97
-#, fuzzy
 msgctxt "Metacontact|"
 msgid "You"
-msgstr "Ty"
+msgstr ""
 
 #: ../../../core/src/corelayers/migration02x03/migrationstartpage.ui:14
 msgctxt "MigrationStartPage|"
@@ -1943,10 +1874,9 @@ msgid "TextLabel"
 msgstr ""
 
 #: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.ui:20
-#, fuzzy
 msgctxt "MobileSearchForm|"
 msgid "Search window"
-msgstr "Vyhledávání"
+msgstr ""
 
 #: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.ui:51
 msgctxt "MobileSearchForm|"
@@ -1998,6 +1928,11 @@ msgctxt "Notification|"
 msgid "Outgoing conference message"
 msgstr "Odchozí zpráva z konference"
 
+#: ../../../core/libqutim/notification.cpp:200
+msgctxt "Notification|"
+msgid "File transfer completed"
+msgstr "Přenos souboru dokončen"
+
 #: ../../../core/libqutim/notification.cpp:201
 msgctxt "Notification|"
 msgid "Contact online"
@@ -2022,6 +1957,11 @@ msgstr "Kontakt má narozeniny"
 msgctxt "Notification|"
 msgid "Contact typing"
 msgstr "Kontakt píše"
+
+#: ../../../core/libqutim/notification.cpp:206
+msgctxt "Notification|"
+msgid "System"
+msgstr ""
 
 #: ../../../core/libqutim/notification.cpp:220
 msgctxt "Notification|"
@@ -2098,17 +2038,6 @@ msgctxt "Notification|"
 msgid "A system notification"
 msgstr "Systémové oznámení"
 
-#: ../../../core/libqutim/notification.cpp:200
-msgctxt "Notification|"
-msgid "File transfer completed"
-msgstr "Přenos souboru dokončen"
-
-#: ../../../core/libqutim/notification.cpp:206
-#, fuzzy
-msgctxt "Notification|"
-msgid "System"
-msgstr "Systémové"
-
 #: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp:98
 msgctxt "Notifications|"
 msgid "Type"
@@ -2166,23 +2095,35 @@ msgid ""
 msgstr ""
 
 #: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:36
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Authorization dialog"
-msgstr "Autorizační dialog"
+msgstr ""
 
 #: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:37
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Simple authorization dialog"
-msgstr "Jednoduchý autorizační dialog"
+msgstr ""
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:43
+msgctxt "Plugin|"
+msgid "Kinetic scrolling"
+msgstr ""
+
+#: ../../../core/src/corelayers/localization/localizationplugin.cpp:37
+msgctxt "Plugin|"
+msgid "Localization"
+msgstr "Lokalizace"
+
+#: ../../../core/src/corelayers/localization/localizationplugin.cpp:38
+msgctxt "Plugin|"
+msgid "Default qutIM localization engine"
+msgstr ""
 
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:35
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:42
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Search window"
-msgstr "Vyhledávání"
+msgstr ""
 
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:36
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:43
@@ -2210,16 +2151,6 @@ msgctxt "Plugin|"
 msgid "Search form optimized for Mobile systems"
 msgstr ""
 
-#: ../../../core/src/corelayers/localization/localizationplugin.cpp:37
-msgctxt "Plugin|"
-msgid "Localization"
-msgstr "Lokalizace"
-
-#: ../../../core/src/corelayers/localization/localizationplugin.cpp:38
-msgctxt "Plugin|"
-msgid "Default qutIM localization engine"
-msgstr ""
-
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:38
 msgctxt "Plugin|"
 msgid "Session helper"
@@ -2229,12 +2160,6 @@ msgstr ""
 msgctxt "Plugin|"
 msgid "Activates the session when certain events"
 msgstr ""
-
-#: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:43
-#, fuzzy
-msgctxt "Plugin|"
-msgid "Kinetic scrolling"
-msgstr "Pohyblivé rolování"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:40
 msgctxt "Plugin|"
@@ -2246,11 +2171,6 @@ msgctxt "Plugin|"
 msgid "Default actionset for contacts"
 msgstr ""
 
-#: ../../../core/src/corelayers/trayicon/simpletray.cpp:143
-msgctxt "Plugin|"
-msgid "Notification Area Icon"
-msgstr ""
-
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:91
 msgctxt "Plugin|"
 msgid "ContactDelegate"
@@ -2259,6 +2179,11 @@ msgstr ""
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:92
 msgctxt "Plugin|"
 msgid "Just simple"
+msgstr ""
+
+#: ../../../core/src/corelayers/trayicon/simpletray.cpp:143
+msgctxt "Plugin|"
+msgid "Notification Area Icon"
 msgstr ""
 
 #: ../../../core/src/widgets/profilecreationpage.ui:14
@@ -2314,16 +2239,14 @@ msgid "Store data at application dir"
 msgstr "Ukládat data ve složce aplikace"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:152
-#, fuzzy
 msgctxt "ProfileCreationPage|"
 msgid "Choose cryptograhic module:"
-msgstr "Vyberte šifrovací modul:"
+msgstr ""
 
 #: ../../../core/src/widgets/profilecreationpage.ui:159
-#, fuzzy
 msgctxt "ProfileCreationPage|"
 msgid "Choose config backend:"
-msgstr "Vyberte jádro nastavení:"
+msgstr ""
 
 #: ../../../core/src/widgets/profiledialog.ui:53
 msgctxt "ProfileDialog|"
@@ -2360,77 +2283,20 @@ msgctxt "Proxy|"
 msgid "HTTP"
 msgstr ""
 
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:46
-#, qt-format
+#: ../../../core/libqutim/actiontoolbar.cpp:124
 msgctxt "QObject|"
-msgid "Message from %1:"
-msgstr "Zpráva od %1:"
+msgid "ToolBar appearance"
+msgstr ""
 
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:50
-#, qt-format
+#: ../../../core/libqutim/actiontoolbar.cpp:126
 msgctxt "QObject|"
-msgid "Message to %1:"
-msgstr "Zpráva pro %1:"
+msgid "Icon size"
+msgstr ""
 
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:59
-#, fuzzy, qt-format
+#: ../../../core/libqutim/actiontoolbar.cpp:132
 msgctxt "QObject|"
-msgid "%1 has joined"
-msgstr "%1 vstupil"
-
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:65
-#, fuzzy, qt-format
-msgctxt "QObject|"
-msgid "%1 has left"
-msgstr "%1 odešel"
-
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:71
-#, fuzzy, qt-format
-msgctxt "QObject|"
-msgid "%1 has changed status to %2"
-msgstr "%1 změnil status na %2"
-
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:77
-#, qt-format
-msgctxt "QObject|"
-msgid "%1 is typing"
-msgstr "%1 píše"
-
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:82
-#, fuzzy
-msgctxt "QObject|"
-msgid "System notify"
-msgstr "Systémové oznámení"
-
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:56
-#, qt-format
-msgctxt "QObject|"
-msgid "Blocked message from %1"
-msgstr "Zablokovaná zpráva od %1"
-
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:74
-#, fuzzy, qt-format
-msgctxt "QObject|"
-msgid "%1 has birthday today!!"
-msgstr "%1 má dnes narozeniny!"
-
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:62
-#, qt-format
-msgctxt "QObject|"
-msgid "%1 is online"
-msgstr "%1 je online"
-
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:68
-#, qt-format
-msgctxt "QObject|"
-msgid "%1 is offline"
-msgstr "%1 je offline"
-
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:53
-#, fuzzy
-msgctxt "QObject|"
-msgid "qutIM launched"
-msgstr "qutIM spuštěn"
+msgid "Tool button style"
+msgstr ""
 
 #: ../../../core/libqutim/utils.cpp:124
 msgctxt "QObject|"
@@ -2451,12 +2317,6 @@ msgstr "3. čtvrtletí"
 msgctxt "QObject|"
 msgid "4th quarter"
 msgstr "4. čtvrtletí"
-
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:157
-#, qt-format
-msgctxt "QObject|"
-msgid "Copy %1 to clipboard"
-msgstr "Kopírovat %1 do schránky"
 
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:92
 msgctxt "QObject|"
@@ -2493,28 +2353,79 @@ msgid "%1 B"
 msgstr ""
 
 #: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:95
-#, fuzzy
 msgctxt "QObject|"
 msgid "Auto"
-msgstr "Automaticky"
+msgstr ""
 
-#: ../../../core/libqutim/actiontoolbar.cpp:124
-#, fuzzy
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:46
+#, qt-format
 msgctxt "QObject|"
-msgid "ToolBar appearance"
-msgstr "Vzhled nástrojové lišty"
+msgid "Message from %1:"
+msgstr "Zpráva od %1:"
 
-#: ../../../core/libqutim/actiontoolbar.cpp:126
-#, fuzzy
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:50
+#, qt-format
 msgctxt "QObject|"
-msgid "Icon size"
-msgstr "Velikost ikony"
+msgid "Message to %1:"
+msgstr "Zpráva pro %1:"
 
-#: ../../../core/libqutim/actiontoolbar.cpp:132
-#, fuzzy
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:53
 msgctxt "QObject|"
-msgid "Tool button style"
-msgstr "Ploché tlačítka"
+msgid "qutIM launched"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:56
+#, qt-format
+msgctxt "QObject|"
+msgid "Blocked message from %1"
+msgstr "Zablokovaná zpráva od %1"
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:59
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 has joined"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:62
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 is online"
+msgstr "%1 je online"
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:65
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 has left"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:68
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 is offline"
+msgstr "%1 je offline"
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:71
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 has changed status to %2"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:74
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 has birthday today!!"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:77
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 is typing"
+msgstr "%1 píše"
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:82
+msgctxt "QObject|"
+msgid "System notify"
+msgstr ""
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:173
 msgctxt "QObject|"
@@ -2525,6 +2436,12 @@ msgstr "Otevřít konverzaci"
 msgctxt "QObject|"
 msgid "Ignore"
 msgstr "Odmítnout"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:157
+#, qt-format
+msgctxt "QObject|"
+msgid "Copy %1 to clipboard"
+msgstr "Kopírovat %1 do schránky"
 
 #: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:52
 #: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:148
@@ -2540,6 +2457,11 @@ msgstr "Zpět"
 #: ../../../core/libqutim/actionbox.cpp:41
 msgctxt "Service|"
 msgid "ActionBoxModule"
+msgstr ""
+
+#: ../../../core/libqutim/settingslayer.cpp:393
+msgctxt "Service|"
+msgid "Settings Window"
 msgstr ""
 
 #: ../../../core/libqutim/sound.cpp:40
@@ -2582,12 +2504,6 @@ msgctxt "Service|"
 msgid "ContactDelegate"
 msgstr ""
 
-#: ../../../core/libqutim/settingslayer.cpp:393
-#, fuzzy
-msgctxt "Service|"
-msgid "Settings Window"
-msgstr "Okno nastavení"
-
 #: ../../../core/src/corelayers/servicechooser/servicechooserwidget.ui:14
 msgctxt "ServiceChooser|"
 msgid "Form"
@@ -2619,10 +2535,9 @@ msgid "Open File"
 msgstr "Otevřít soubor"
 
 #: ../../../core/libqutim/settingslayer.cpp:315
-#, fuzzy
 msgctxt "Settings|"
 msgid "Log file (*.log)"
-msgstr "Log soubor (*.log)"
+msgstr ""
 
 #: ../../../core/libqutim/settingslayer.cpp:441
 msgctxt "Settings|"
@@ -2671,6 +2586,16 @@ msgctxt "Settings|"
 msgid "Emoticons"
 msgstr "Smajlíci"
 
+#: ../../../core/src/corelayers/filetransfersettings/filetransfersettings.cpp:109
+msgctxt "Settings|"
+msgid "File transfer"
+msgstr "Přenos souboru"
+
+#: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:53
+msgctxt "Settings|"
+msgid "Scrolling type"
+msgstr "Typ rolování"
+
 #: ../../../core/src/corelayers/localization/localizationmodule.cpp:47
 msgctxt "Settings|"
 msgid "Localization"
@@ -2692,20 +2617,25 @@ msgctxt "Settings|"
 msgid "Proxy"
 msgstr ""
 
+#: ../../../core/src/corelayers/qticons/iconsloaderimpl.cpp:85
+msgctxt "Settings|"
+msgid "Icons theme"
+msgstr "Motiv ikon"
+
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:38
 msgctxt "Settings|"
 msgid "Service chooser"
-msgstr " Služby"
+msgstr "Služby"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:40
 msgctxt "Settings|"
 msgid "Protocol chooser"
-msgstr " Protokoly"
+msgstr "Protokoly"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:42
 msgctxt "Settings|"
 msgid "Plugin chooser"
-msgstr " Pluginy"
+msgstr "Pluginy"
 
 #: ../../../core/src/corelayers/shortcutsettings/shortcutsettings.cpp:35
 msgctxt "Settings|"
@@ -2716,21 +2646,6 @@ msgstr "Klávesové zkratky"
 msgctxt "Settings|"
 msgid "Sounds"
 msgstr "Zvuky"
-
-#: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:53
-msgctxt "Settings|"
-msgid "Scrolling type"
-msgstr "Typ rolování"
-
-#: ../../../core/src/corelayers/qticons/iconsloaderimpl.cpp:85
-msgctxt "Settings|"
-msgid "Icons theme"
-msgstr "Motiv ikon"
-
-#: ../../../core/src/corelayers/filetransfersettings/filetransfersettings.cpp:109
-msgctxt "Settings|"
-msgid "File transfer"
-msgstr "Přenos souboru"
 
 #: ../../../core/examples/simplesettingsdialog/settingsdialog.ui:14
 msgctxt "SettingsDialog|"
@@ -2743,16 +2658,14 @@ msgid "Close"
 msgstr "Zavřít"
 
 #: ../../../core/libqutim/shortcut.cpp:92
-#, fuzzy
 msgctxt "Shortcut|"
 msgid "Next child"
-msgstr "Další"
+msgstr ""
 
 #: ../../../core/libqutim/shortcut.cpp:93
-#, fuzzy
 msgctxt "Shortcut|"
 msgid "Previous child"
-msgstr "Předchozí"
+msgstr ""
 
 #: ../../../core/libqutim/shortcut.cpp:94
 msgctxt "Shortcut|"
@@ -2780,10 +2693,9 @@ msgid "Quit"
 msgstr "Ukončit"
 
 #: ../../../core/libqutim/shortcut.cpp:139
-#, fuzzy
 msgctxt "Shortcut|"
 msgid "System"
-msgstr "Systémové"
+msgstr ""
 
 #: ../../../core/src/corelayers/shortcutsettings/shortcutsettingswidget.ui:14
 msgctxt "ShortcutSettingsWidget|"
@@ -2840,26 +2752,25 @@ msgctxt "SimpleContactlistSettings|"
 msgid "Status icons size:"
 msgstr "Velikost ikony stavu:"
 
-#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:44
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:30
 msgctxt "SimpleContactlistSettings|"
-msgid "Show avatars"
-msgstr "Zobrazit avatary"
-
-#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:51
-#, fuzzy
-msgctxt "SimpleContactlistSettings|"
-msgid "Lite group headers"
-msgstr "Odlehčené seskupování hlaviček"
+msgid "Show extended icons"
+msgstr "Zobrazit rozšířené ikony"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:37
 msgctxt "SimpleContactlistSettings|"
 msgid "Show status text"
 msgstr "Zobrazit text stavu"
 
-#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:30
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:44
 msgctxt "SimpleContactlistSettings|"
-msgid "Show extended icons"
-msgstr "Zobrazit rozšířené ikony"
+msgid "Show avatars"
+msgstr "Zobrazit avatary"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:51
+msgctxt "SimpleContactlistSettings|"
+msgid "Lite group headers"
+msgstr ""
 
 #: ../../../core/src/corelayers/password/simplepasswordwidget.ui:14
 msgctxt "SimplePasswordWidget|"
@@ -3048,6 +2959,11 @@ msgctxt "TabbedChatBehavior|"
 msgid "Form"
 msgstr ""
 
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:47
+msgctxt "TabbedChatBehavior|"
+msgid "Send Key"
+msgstr "Klávesa pro odeslání zprávy"
+
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:55
 msgctxt "TabbedChatBehavior|"
 msgid "Store service messages in history"
@@ -3069,38 +2985,40 @@ msgid "Don't group messages after (sec):"
 msgstr "Neseskupovat zprávy po [s]:"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:89
-#, fuzzy
 msgctxt "TabbedChatBehavior|"
 msgid "Tab position:"
-msgstr "Pozice záložky:"
+msgstr ""
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:99
-#, fuzzy
 msgctxt "TabbedChatBehavior|"
 msgid "Form layout:"
-msgstr "Vzhled okna:"
+msgstr ""
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:109
-#, fuzzy
 msgctxt "TabbedChatBehavior|"
 msgid "Chat state icons on tabs"
-msgstr "Ikony stavu konverzace na záložkách"
+msgstr ""
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:116
-#, fuzzy
 msgctxt "TabbedChatBehavior|"
 msgid "Show menubar"
-msgstr "Zobrazit nabídku"
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:47
-msgctxt "TabbedChatBehavior|"
-msgid "Send Key"
-msgstr "Klávesa pro odeslání zprávy"
+msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/tagsfilterdialog.ui:14
 msgctxt "TagsFilterDialog|"
 msgid "Select tags"
 msgstr "Vybrat štítky"
+
+#: ../../../core/libqutim/personinfo.cpp:224
+msgctxt "Task|"
+msgid "Translator"
+msgstr "Překladatel"
+
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:95
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:99
+msgctxt "Task|"
+msgid "Artist"
+msgstr ""
 
 #: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:40
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:39
@@ -3113,18 +3031,6 @@ msgstr "Autor"
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Vývojář"
-
-#: ../../../core/libqutim/personinfo.cpp:224
-msgctxt "Task|"
-msgid "Translator"
-msgstr "Překladatel"
-
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:95
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:99
-#, fuzzy
-msgctxt "Task|"
-msgid "Artist"
-msgstr "Umělec"
 
 #: ../../../core/libqutim/buddy.cpp:100
 msgctxt "ToolTip|"
@@ -3509,16 +3415,14 @@ msgid "Add contact"
 msgstr "Přidat kontakt"
 
 #: ../../../core/libqutim/filetransfer.cpp:331
-#, fuzzy
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Initiation"
-msgstr "Zahajování"
+msgstr ""
 
 #: ../../../core/libqutim/filetransfer.cpp:333
-#, fuzzy
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Started"
-msgstr "Začínání"
+msgstr ""
 
 #: ../../../core/libqutim/filetransfer.cpp:335
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
@@ -3567,28 +3471,24 @@ msgstr ""
 " %1"
 
 #: ../../../core/libqutim/profile.cpp:123
-#, fuzzy
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Password is mismatched."
-msgstr "Hesla nesouhlasí."
+msgstr ""
 
 #: ../../../core/libqutim/profile.cpp:125
-#, fuzzy
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Crypto service is unknown."
-msgstr "Šifrovací služba je neznámá."
+msgstr ""
 
 #: ../../../core/libqutim/profile.cpp:127
-#, fuzzy
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Wrong profile id."
-msgstr "Špatné ID profilu."
+msgstr ""
 
 #: ../../../core/libqutim/profile.cpp:160
-#, fuzzy
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Can't open file with hash"
-msgstr "Nelze otevřít soubor s hashem"
+msgstr ""
 
 #: ../../../core/libqutim/sound.cpp:282
 msgctxt "qutim_sdk_0_3::SoundHandler|"

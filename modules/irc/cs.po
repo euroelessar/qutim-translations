@@ -1,12 +1,20 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:42+0000\n"
+"PO-Revision-Date: 2011-11-15 16:37+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:07+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
+"X-Qt-Contexts: true\n"
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
-"X-Qt-Contexts: true\n"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -493,10 +501,9 @@ msgid "Not enough parameters for command %1"
 msgstr ""
 
 #: ../../../protocols/irc/src/ircprotocol.cpp:72
-#, fuzzy
 msgctxt "Settings|"
 msgid "User information"
-msgstr "Informace o uživateli"
+msgstr ""
 
 #: ../../../protocols/irc/src/ircprotocol.cpp:77
 msgctxt "Settings|"
@@ -529,22 +536,22 @@ msgid "Away"
 msgstr "Pryč"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:205
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "You are now known as %1"
-msgstr "Přejmenoval(a) jste na %1"
+msgstr ""
 
 #: ../../../protocols/irc/src/ircchannel.cpp:228
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 are now known as %2"
-msgstr "%1 se přejmenoval(a) na %2"
+msgstr ""
 
 #: ../../../protocols/irc/src/ircchannel.cpp:290
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 (%2) has joined the channel"
-msgstr "%1 (%2) vstoupil(a) do kanálu"
+msgstr ""
 
 #: ../../../protocols/irc/src/ircchannel.cpp:301
 #, qt-format
@@ -570,40 +577,40 @@ msgid "%1 has left this channel"
 msgstr "%1 opustil(a) tento kanál"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:323
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has kicked you from the channel (%2)"
-msgstr "%1 vyhodil(a) vás z kanálu (%2)"
+msgstr ""
 
 #: ../../../protocols/irc/src/ircchannel.cpp:328
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has kicked you from the channel"
-msgstr "%1 vyhodil(a) vás z kanálu"
+msgstr ""
 
 #: ../../../protocols/irc/src/ircchannel.cpp:336
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has kicked %2 (%3)"
-msgstr "%1 vyhodil(a) %2 (%3)"
+msgstr ""
 
 #: ../../../protocols/irc/src/ircchannel.cpp:341
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has kicked %2"
-msgstr "%1 vyhodil(a) %2"
+msgstr ""
 
 #: ../../../protocols/irc/src/ircchannel.cpp:357
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "The channel topic is \"%1\""
-msgstr "Téma kanálu je \"%1\""
+msgstr ""
 
 #: ../../../protocols/irc/src/ircchannel.cpp:366
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "The topic was set by %1 on %2."
-msgstr "Téma nastavil %1 na %2."
+msgstr ""
 
 #: ../../../protocols/irc/src/ui/ircchannellist.cpp:188
 msgctxt "qutim_sdk_0_3::irc::IrcChannelListForm|"
@@ -623,16 +630,14 @@ msgid "Fetching channels list... (%1)"
 msgstr ""
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:210
-#, fuzzy
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Kick / Ban"
-msgstr "Vykopnout / Zabanovat"
+msgstr ""
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:213
-#, fuzzy
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Kick"
-msgstr "Vykopnout"
+msgstr ""
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:218
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
@@ -640,34 +645,29 @@ msgid "Kickban"
 msgstr ""
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:221
-#, fuzzy
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Ban"
-msgstr "Zabanovat"
+msgstr ""
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:225
-#, fuzzy
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Ban *!*@*.host"
-msgstr "Zabanovat *!*@*.hostitel"
+msgstr ""
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:226
-#, fuzzy
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Ban *!*@domain"
-msgstr "Zabanovat *!*@doména"
+msgstr ""
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:227
-#, fuzzy
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Ban *!user@*.host"
-msgstr "Zabanovat *!user@*.hostitel"
+msgstr ""
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:228
-#, fuzzy
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Ban *!user@domain"
-msgstr "Zabanovat *!user@doména"
+msgstr ""
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:231
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
@@ -761,10 +761,9 @@ msgid "Server %1 (Version %2), User modes: %3, Channel modes: %4"
 msgstr ""
 
 #: ../../../protocols/irc/src/ircconnection.cpp:277
-#, fuzzy
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Message of the day:"
-msgstr "Zpráva dne:"
+msgstr ""
 
 #: ../../../protocols/irc/src/ircconnection.cpp:279
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
@@ -815,17 +814,6 @@ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "You have been marked as being away"
 msgstr ""
 
-#: ../../../protocols/irc/src/ircconnection.cpp:644
-#, fuzzy, qt-format
-msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-msgid "SSL error: %1"
-msgstr "SSL chyba: %1"
-
-#: ../../../protocols/irc/src/ircconnection.cpp:650
-msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-msgid "SSL handshake completed"
-msgstr ""
-
 #: ../../../protocols/irc/src/ircconnection.cpp:433
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Add at least one server before connecting"
@@ -848,6 +836,17 @@ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Network error: %1"
 msgstr "Síťová chyba: %1"
 
+#: ../../../protocols/irc/src/ircconnection.cpp:644
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "SSL error: %1"
+msgstr ""
+
+#: ../../../protocols/irc/src/ircconnection.cpp:650
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "SSL handshake completed"
+msgstr ""
+
 #: ../../../protocols/irc/src/ircchannel.cpp:47
 msgctxt "qutim_sdk_0_3::irc::IrcJoinLeftActionGenerator|"
 msgid "Leave the channel"
@@ -859,10 +858,9 @@ msgid "Join the channel"
 msgstr "Vstoupit do kanálu"
 
 #: ../../../protocols/irc/src/ircprotocol.cpp:79
-#, fuzzy
 msgctxt "qutim_sdk_0_3::irc::IrcProtocol|"
 msgid "Auto-join"
-msgstr "Automaticky vstoupit"
+msgstr ""
 
 #: ../../../protocols/irc/src/ircstandartctpchandler.cpp:79
 #, qt-format
@@ -871,7 +869,6 @@ msgid "Received CTCP-PING reply from %1: %2 seconds"
 msgid_plural "Received CTCP-PING reply from %1: %2 seconds"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../../../protocols/irc/src/ircstandartctpchandler.cpp:85
 #, qt-format
@@ -880,16 +877,16 @@ msgid "Received CTCP-%1 reply from %2: %3"
 msgstr ""
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:63
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 is %2@%3 (%4)"
-msgstr "%1 je %2@%3 (%4)"
+msgstr ""
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:76
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 is online via %2 (%3)"
-msgstr "%1 je online prostřednictvím %2 (%3)"
+msgstr ""
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:83
 #, qt-format
@@ -916,10 +913,10 @@ msgid "%1 is a user on channels: "
 msgstr ""
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:114
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 is logged in as %2"
-msgstr "%1 je přihlášen jako %2"
+msgstr ""
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:119
 #, qt-format
