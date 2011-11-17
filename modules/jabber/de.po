@@ -1,12 +1,19 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:42+0000\n"
+"PO-Revision-Date: 2011-11-15 16:38+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:08+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
+"X-Qt-Contexts: true\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
-"X-Qt-Contexts: true\n"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:35
 msgctxt "Activity|"
@@ -826,10 +833,9 @@ msgid "Name"
 msgstr "Name"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:205
-#, fuzzy
 msgctxt "Jabber|"
 msgid "Conference"
-msgstr "Raum"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:215
 msgctxt "Jabber|"
@@ -887,11 +893,6 @@ msgctxt "Jabber|"
 msgid "Subscription"
 msgstr "Autorisierung"
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:58
-msgctxt "Jabber|"
-msgid "Service discovery"
-msgstr "Dienste durchsuchen..."
-
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:81
 msgctxt "Jabber|"
 msgid "Remove subscription"
@@ -928,6 +929,11 @@ msgstr "Raum verlassen"
 msgctxt "Jabber|"
 msgid "Room's configuration"
 msgstr "Raum einrichten"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:58
+msgctxt "Jabber|"
+msgid "Service discovery"
+msgstr "Dienste durchsuchen..."
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:131
 msgctxt "Jabber|"
@@ -1280,216 +1286,152 @@ msgid "OpenDocument Format (*.odf);;HTML file (*.html);;Plain text (*.txt)"
 msgstr "OpenDocument Format (*.odf);;HTML Datei (*.html);;Text (*.txt)"
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:72
-#, fuzzy
 msgctxt "Jreen::Error|"
-msgid "The sender has sent XML that is malformed or that cannot be processed."
+msgid ""
+"The sender has sent XML that is malformed or that cannot be processed."
 msgstr ""
-"Das empfangene XML ist fehlerhaft, oder konnte nicht verarbeitet werden."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:75
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid ""
 "Access cannot be granted because an existing resource or session exists with "
 "the same name or address."
 msgstr ""
-"Der Zugriff konnte nicht gewährt werden, weil eine bestehende Ressource oder "
-"Sitzung den selben Namen oder die selbe Adresse hat."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:78
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid ""
 "The feature requested is not implemented by the recipient or server and "
 "therefore cannot be processed."
 msgstr ""
-"Das angeforderte Feature wird vom Server oder Empfänger nicht unterstützt, "
-"und konnte nicht verarbeitet werden."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:81
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid ""
 "The requesting entity does not possess the required permissions to perform "
 "the action."
 msgstr ""
-"Der Anforderer hat nicht die erforderlichen Rechte, um die Aktion "
-"durchzuführen."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:84
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid "The recipient or server can no longer be contacted at this address."
 msgstr ""
-"Der Empfänger oder der Server kann nicht mehr über diese Adresse kontaktiert "
-"werden."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:87
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid ""
 "The server could not process the stanza because of a misconfiguration or an "
 "otherwise-undefined internal server error."
 msgstr ""
-"Der Server konnte die Stanza aufgrund einer Fehlkonfiguration oder eines "
-"unbekannten internen Server-Fehlers nicht verarbeiten."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:90
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid "The addressed JID or item requested cannot be found."
 msgstr ""
-"Die angeforderte JID oder das angeforderte Objekt konnten nicht gefunden "
-"werden."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:93
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid ""
 "The sending entity has provided or communicated an XMPP address or aspect "
 "thereof that does not adhere to the syntax defined in Addressing Scheme."
 msgstr ""
-"Der Absender hat eine XMPP-Adresse (oder Teile davon) übermittelt oder zur "
-"Verfügung gestellt, die nicht zu der im Adressierungsschema vereinbarten "
-"Syntax passt."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:96
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid ""
 "The recipient or server understands the request but is refusing to process "
 "it because it does not meet criteria defined by the recipient or server."
 msgstr ""
-"Der Empfänger oder Server versteht die Anfrage, aber weist die Verarbeitung "
-"zurück weil sie nicht die vom Server oder Empfänger gestellten Kriterien "
-"erfüllt."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:99
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid ""
 "The recipient or server does not allow any entity to perform the action."
 msgstr ""
-"Der Empfänger oder Server erlaubt niemandem diese Aktion durchzuführen."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:102
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid ""
 "The sender must provide proper credentials before being allowed to perform "
 "the action, or has provided impreoper credentials."
 msgstr ""
-"Der Absender muss einen korrekten Berechtigungsnachweis erbringen, bevor ihm "
-"erlaubt wird die Aktion durchzuführen."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:105
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid "The item requested has not changed since it was last requested."
 msgstr ""
-"Das angeforderte Objekt hat sich seit der letzten Anforderung nicht "
-"verändert."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:108
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid ""
 "The requesting entity is not authorized to access the requested service "
 "because payment is required."
 msgstr ""
-"Der Anforderer ist nicht befugt auf den angeforderten Dienst zuzugreifen, "
-"weil eine Bezahlung erforderlich ist."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:111
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid "The intended recipient is temporarily unavailable."
-msgstr "Der beabsichtigte Empfänger ist zur Zeit nicht erreichbar."
+msgstr ""
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:114
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid ""
 "The recipient or server is redirecting requests for this information to "
 "another entity, usually temporarily."
 msgstr ""
-"Der Empfänger oder Server leitet Anfragen zu dieser Information zu einer "
-"anderen Instanz weiter, normalerweise temporär."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:117
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid ""
 "The requesting entity is not authorized to access the requested service "
 "because registration is required."
 msgstr ""
-"Der Anforderer hat keinen Zugriff auf den angeforderten Dienst, weil eine "
-"Registrierung notwendig ist."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:120
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid ""
 "A remote server or service specified as part or all of the JID of the "
 "intended recipient does not exist."
 msgstr ""
-"Ein Remote-Server oder Dienst der als teilweise oder ganze JID spezifiziert "
-"ist, existiert für den gewünschten Empfänger nicht."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:123
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid ""
 "A remote server or service specified as part or all of the JID of the "
 "intended recipient could not be contacted within a reasonable amount of time."
 msgstr ""
-"Ein Remote-Server oder Dienst der als teilweise oder ganze JID spezifiziert "
-"ist, konnte nicht in einer angemessenen Zeit kontaktiert werden."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:126
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid ""
 "The server or recipient lacks the system resources necessary to service the "
 "request."
 msgstr ""
-"Dem Server oder Empfänger fehlen die Systemressourcen, die für die "
-"Verarbeitung der Anfrage notwendig sind."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:129
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid ""
 "The server or recipient does not currently provide the requested service."
 msgstr ""
-"Der Server oder Empfänger stellt den angeforderten Service zur Zeit nicht "
-"zur Verfügung."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:132
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid ""
 "The requesting entity is not authorized to access the requested service "
 "because a subscription is required."
 msgstr ""
-"Der Anforderer hat keinen Zugriff auf den angeforderten Dienst, weil ein "
-"Abonnement notwendig ist."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:135
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid "The unknown error condition."
-msgstr "Der unbekannte Fehler ist aufgetreten."
+msgstr ""
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:138
-#, fuzzy
 msgctxt "Jreen::Error|"
 msgid ""
 "The recipient or server understood the request but was not expecting it at "
 "this time."
 msgstr ""
-"Der Empfänger oder Server hat die Anforderung verstanden, aber sie nicht zu "
-"diesem Zeitpunkt erwartet."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:141
 msgctxt "Jreen::Error|"
@@ -2095,15 +2037,15 @@ msgctxt "ServiceBrowser|"
 msgid "Server:"
 msgstr "Server:"
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:150
-msgctxt "ServiceBrowser|"
-msgid "Name"
-msgstr "Name"
-
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:77
 msgctxt "ServiceBrowser|"
 msgid "Filter:"
 msgstr "Filtern:"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:150
+msgctxt "ServiceBrowser|"
+msgid "Name"
+msgstr "Name"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:168
 msgctxt "ServiceBrowser|"
@@ -2152,15 +2094,15 @@ msgctxt "ServiceBrowser|"
 msgid "Show information about service"
 msgstr "Dienstinformationen"
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:233
-msgctxt "ServiceBrowser|"
-msgid "Add service to roster"
-msgstr "Dienst zur Kontaktliste hinzufügen"
-
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:230
 msgctxt "ServiceBrowser|"
 msgid "Add to roster"
 msgstr "Zur Kontaktliste hinzufügen"
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:233
+msgctxt "ServiceBrowser|"
+msgid "Add service to roster"
+msgstr "Dienst zur Kontaktliste hinzufügen"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:197
 msgctxt "Settings|"

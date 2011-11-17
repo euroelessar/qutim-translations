@@ -1,11 +1,20 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:44+0000\n"
+"PO-Revision-Date: 2011-11-15 16:52+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Language: ru\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:09+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
 "X-Qt-Contexts: true\n"
+"X-Language: ru\n"
 
 #: ../../../plugins/winintegration/src/winint.cpp:63
 msgctxt "Author|"
@@ -28,10 +37,6 @@ msgctxt "Core::SimpleContactList::SevenWidget|"
 msgid "Set Status Text"
 msgstr "Установить текст статуса"
 
-#~ msgctxt "Plugin|"
-#~ msgid "Windows 7 Integration"
-#~ msgstr "Интеграция с Windows7®©™"
-
 #: ../../../plugins/winintegration/src/winint.cpp:66
 #: ../../../plugins/winintegration/src/winint.cpp:79
 msgctxt "Plugin|"
@@ -48,55 +53,10 @@ msgstr ""
 "Добавляет взаимодействие с супербаром windows, количество непрочитанных "
 "сообщений, команды, уведомления итп."
 
-#~ msgctxt "SelectAccDlg|"
-#~ msgid "Dialog"
-#~ msgstr "Диалог"
-
-#~ msgctxt "SelectAccDlg|"
-#~ msgid "Select your account"
-#~ msgstr "Выберите аккаунт"
-
-#, qt-format
-#~ msgctxt "SelectAccDlg|"
-#~ msgid "Please, select one of your accout to chat with Jabber ID %1."
-#~ msgstr "Выберите аккаунт jabber, для чата с %1."
-
-#~ msgctxt "SelectAccDlg|"
-#~ msgid "Available accounts:"
-#~ msgstr "Доступные аккаунты:"
-
 #: ../../../plugins/winintegration/src/winint.cpp:64
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"
-
-#~ msgctxt "WPreviews|"
-#~ msgid "<b>You have new messages:</b>"
-#~ msgstr "<b>Новые сообщения:</b>"
-
-#, qt-format
-#~ msgctxt "WPreviews|"
-#~ msgid "&middot; %n message(s) from chats."
-#~ msgid_plural "&middot; %n message(s) from chats."
-#~ msgstr[0] "&middot; %n сообщение из чата."
-#~ msgstr[1] "&middot; %n сообщения из чатов."
-#~ msgstr[2] "&middot; %n сообщений из чатов."
-
-#, qt-format
-#~ msgctxt "WPreviews|"
-#~ msgid "&middot; %n message(s) from conferences."
-#~ msgid_plural "&middot; %n message(s) from conferences."
-#~ msgstr[0] "&middot; %n сообщение из конференции."
-#~ msgstr[1] "&middot; %n сообщения из конференций."
-#~ msgstr[2] "&middot; %n сообщений из конференций."
-
-#~ msgctxt "WPreviews|"
-#~ msgid "Last received from:"
-#~ msgstr "Последний принят от:"
-
-#~ msgctxt "WPreviews|"
-#~ msgid "You have no new messages."
-#~ msgstr "Нет новых сообщений."
 
 #: ../../../plugins/winintegration/src/wsettings.ui:14
 msgctxt "WSettingsForm|"

@@ -1,12 +1,19 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:43+0000\n"
+"PO-Revision-Date: 2011-11-15 16:47+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:08+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
+"X-Qt-Contexts: true\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
-"X-Qt-Contexts: true\n"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -124,10 +131,9 @@ msgid "Volunteer Org."
 msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:582
-#, fuzzy
 msgctxt "Affiliation|"
 msgid "Other"
-msgstr "Sonstiges"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:595
 msgctxt "Age|"
@@ -336,7 +342,8 @@ msgstr ""
 #: ../../../protocols/oscar/src/connection.cpp:363
 msgctxt "ConnectionError|"
 msgid "Can't register on the ICQ network. Reconnect in a few minutes"
-msgstr "Keine Anmeldung bei ICQ möglich. In ein paar Minuten wieder versuchen"
+msgstr ""
+"Keine Anmeldung bei ICQ möglich. In ein paar Minuten wieder versuchen"
 
 #: ../../../protocols/oscar/src/connection.cpp:365
 msgctxt "ConnectionError|"
@@ -3362,10 +3369,9 @@ msgid "Not while on AOL"
 msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:100
-#, fuzzy
 msgctxt "ProtocolError|"
 msgid "Unknown error"
-msgstr "Unbekannter Fehler"
+msgstr ""
 
 #: ../../../protocols/oscar/src/icqprotocol.cpp:72
 msgctxt "Settings|"
@@ -3785,15 +3791,15 @@ msgstr ""
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"invisible\" icon if contact in invisible list"
 msgstr ""
-"\"Unsichtbar\" - Symbol anzeigen, wenn der Benutzer in der "
-"\"Unsichtbar-Liste\" ist"
+"\"Unsichtbar\" - Symbol anzeigen, wenn der Benutzer in der \"Unsichtbar-"
+"Liste\" ist"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:355
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"ignore\" icon if contact in ignore list"
 msgstr ""
-"\"Ignorieren\" - Symbol anzeigen, wenn der Benutzer in der "
-"\"Ignorieren-Liste\" ist"
+"\"Ignorieren\" - Symbol anzeigen, wenn der Benutzer in der \"Ignorieren-"
+"Liste\" ist"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:437
 msgctxt "qutim_sdk_0_3::oscar::XStatusHandler|"

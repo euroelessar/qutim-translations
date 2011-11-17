@@ -1,12 +1,20 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:42+0000\n"
+"PO-Revision-Date: 2011-11-15 16:36+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:07+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
+"X-Qt-Contexts: true\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
-"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/histman/src/historymanagerplugin.cpp:36
 msgctxt "Author|"
@@ -33,17 +41,6 @@ msgctxt "ChooseOrDumpPage|"
 msgid "Dump history"
 msgstr "Verlauf speichern"
 
-#: ../../../plugins/histman/src/clients/gajim.cpp:109
-#: ../../../plugins/histman/src/clients/psi.cpp:172
-msgctxt "ClientConfigPage|"
-msgid "Select your Jabber account."
-msgstr "Deinen Jabber-Account auswählen."
-
-#: ../../../plugins/histman/src/clients/qipinfium.cpp:190
-msgctxt "ClientConfigPage|"
-msgid "Select accounts for each protocol in the list."
-msgstr "Die Accounts für die aufgeführten Protokolle auswählen."
-
 #: ../../../plugins/histman/src/clientconfigpage.ui:14
 msgctxt "ClientConfigPage|"
 msgid "WizardPage"
@@ -63,6 +60,17 @@ msgstr ""
 msgctxt "ClientConfigPage|"
 msgid "Encoding:"
 msgstr "Kodierung:"
+
+#: ../../../plugins/histman/src/clients/gajim.cpp:109
+#: ../../../plugins/histman/src/clients/psi.cpp:172
+msgctxt "ClientConfigPage|"
+msgid "Select your Jabber account."
+msgstr "Deinen Jabber-Account auswählen."
+
+#: ../../../plugins/histman/src/clients/qipinfium.cpp:190
+msgctxt "ClientConfigPage|"
+msgid "Select accounts for each protocol in the list."
+msgstr "Die Accounts für die aufgeführten Protokolle auswählen."
 
 #: ../../../plugins/histman/src/dumphistorypage.ui:14
 msgctxt "DumpHistoryPage|"

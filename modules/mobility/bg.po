@@ -1,53 +1,28 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:43+0000\n"
+"PO-Revision-Date: 2011-11-16 13:04+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Language: bg\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:08+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
 "X-Qt-Contexts: true\n"
-
-#~ msgctxt "Author|"
-#~ msgid "Sidorov Aleksey"
-#~ msgstr "Алексей Сидоров"
-
-#, qt-format
-#~ msgctxt "ConnectionManager::ConnectionManager|"
-#~ msgid "within %1 seconds"
-#~ msgstr "в рамките на %1 секунди"
-
-#~ msgctxt "ConnectionManager::ConnectionManager|"
-#~ msgid "immediately"
-#~ msgstr "моментално"
-
-#, qt-format
-#~ msgctxt "ConnectionManager::ConnectionManager|"
-#~ msgid "%1 will be reconnected %2"
-#~ msgstr "%1 ще се свърже повторно %2"
-
-#~ msgctxt "ConnectionManager::ConnectionManager|"
-#~ msgid "ConnectionManager"
-#~ msgstr "Управление на връзката"
+"X-Language: bg\n"
 
 #: ../../../plugins/mobility/src/bearermanager/managersettings.ui:14
-#, fuzzy
 msgctxt "ManagerSettings|"
 msgid "Form"
 msgstr "Настройки"
 
 #: ../../../plugins/mobility/src/bearermanager/managersettings.ui:42
-#, fuzzy
 msgctxt "ManagerSettings|"
 msgid "Autoconnect on startup"
 msgstr "Автоматично свързване при стартиране"
-
-#~ msgctxt "Plugin|"
-#~ msgid "ConnectionManager"
-#~ msgstr "Управление на връзката"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Used to monitor the availability of network."
-#~ msgstr "Използва се за наблюдение на свързаността към мрежата."
 
 #: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:46
 msgctxt "Service|"
@@ -55,11 +30,6 @@ msgid "BearerManager"
 msgstr "Управление на свързаността"
 
 #: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:58
-#, fuzzy
 msgctxt "Settings|"
 msgid "Connection manager"
 msgstr "Управление на връзката"
-
-#~ msgctxt "Task|"
-#~ msgid "Author"
-#~ msgstr "Автор"

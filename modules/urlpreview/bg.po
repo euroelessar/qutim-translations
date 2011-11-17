@@ -1,26 +1,33 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:44+0000\n"
+"PO-Revision-Date: 2011-11-16 13:00+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Language: bg\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:08+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
 "X-Qt-Contexts: true\n"
+"X-Language: bg\n"
 
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:46
 msgctxt "Author|"
 msgid "Alexander Kazarin"
 msgstr "Александър Казарин"
 
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:53
-msgctxt "Author|"
-msgid "Nicolay Izoderov"
-msgstr "Николай Изодеров"
-
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:49
 msgctxt "Author|"
 msgid "Sidorov Aleksey"
 msgstr "Алексей Сидоров"
+
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:53
+msgctxt "Author|"
+msgid "Nicolay Izoderov"
+msgstr "Николай Изодеров"
 
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:42
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:62
@@ -88,12 +95,12 @@ msgstr "Максимален размер на файла"
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:33
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Max picture size to preview "
-msgstr "Максимален размер на преглежданото изображение"
+msgstr "Максимален размер на преглежданото изображение "
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:36
 msgctxt "UrlPreviewSettingsForm|"
 msgid " bytes"
-msgstr "Байта"
+msgstr " Байта"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:49
 msgctxt "UrlPreviewSettingsForm|"
@@ -109,7 +116,7 @@ msgstr "Максимална височина на преглежданите и
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:88
 msgctxt "UrlPreviewSettingsForm|"
 msgid "px"
-msgstr ""
+msgstr "px"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:78
 msgctxt "UrlPreviewSettingsForm|"

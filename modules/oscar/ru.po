@@ -1,11 +1,18 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:43+0000\n"
+"PO-Revision-Date: 2011-11-15 16:48+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Language: ru\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:08+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
 "X-Qt-Contexts: true\n"
+"X-Language: ru\n"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -27,19 +34,6 @@ msgctxt "AddAccountForm|"
 msgid "Save password"
 msgstr "Сохранить пароль"
 
-#~ msgctxt "AddAccountFormClass|"
-#~ msgid "AddAccountForm"
-#~ msgstr "Новая учетная запись"
-
-#~ msgctxt "AddAccountFormClass|"
-#~ msgid "Password:"
-#~ msgstr "Пароль:"
-
-#~ msgctxt "AddAccountFormClass|"
-#~ msgid "Save password"
-#~ msgstr "Сохранить пароль"
-
-# выпускники???
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:563
 msgctxt "Affiliation|"
 msgid "Alumni Org."
@@ -175,11 +169,6 @@ msgctxt "Age|"
 msgid "60-above"
 msgstr "60 и старше"
 
-#: ../../../protocols/oscar/src/oscarplugin.cpp:56
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Нигматуллин Руслан"
-
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:52
 msgctxt "Author|"
 msgid "Alexey Ignatiev"
@@ -192,9 +181,10 @@ msgctxt "Author|"
 msgid "Alexey Prokhin"
 msgstr "Прохин Алексей"
 
-#~ msgctxt "ClientIdentify|"
-#~ msgid "Possible client"
-#~ msgstr "Возможный клиент"
+#: ../../../protocols/oscar/src/oscarplugin.cpp:56
+msgctxt "Author|"
+msgid "Ruslan Nigmatullin"
+msgstr "Нигматуллин Руслан"
 
 #: ../../../protocols/oscar/src/ui/icqmainsettings.cpp:51
 msgctxt "Codec|"
@@ -281,30 +271,6 @@ msgctxt "ConnectionError|"
 msgid "Suspended account"
 msgstr "Временно отключённый аккаунт"
 
-#: ../../../protocols/oscar/src/connection.cpp:349
-msgctxt "ConnectionError|"
-msgid ""
-"The users num connected from this IP has reached the maximum (reservation)"
-msgstr ""
-"Количество пользователей подключенных с этого IP превысило допустимое "
-"(reservation)"
-
-#: ../../../protocols/oscar/src/connection.cpp:369
-msgctxt "ConnectionError|"
-msgid "Another client is loggin with this uin"
-msgstr "Другой клиент вошел с этим же номером"
-
-# я не виновен, я сам ищу где в кутиме это
-#: ../../../protocols/oscar/src/connection.cpp:371
-msgctxt "ConnectionError|"
-msgid "No IP addresses were found for the host"
-msgstr "Не найдено соответствие IP адреса серверу"
-
-#: ../../../protocols/oscar/src/connection.cpp:375
-msgctxt "ConnectionError|"
-msgid "Unknown error"
-msgstr "Неизвестная ошибка"
-
 #: ../../../protocols/oscar/src/connection.cpp:339
 msgctxt "ConnectionError|"
 msgid "DB send error"
@@ -329,16 +295,16 @@ msgstr "Пипец подкрался незаметно"
 #: ../../../protocols/oscar/src/connection.cpp:347
 msgctxt "ConnectionError|"
 msgid "The users num connected from this IP has reached the maximum"
-msgstr "Количество пользователей подключенных с этого IP превысило допустимое"
+msgstr ""
+"Количество пользователей подключенных с этого IP превысило допустимое"
 
-# Дружно смотрим словать по слову в скобках. ИМХО оно тут не нужно.
-#~ msgctxt "ConnectionError|"
-#~ msgid ""
-#~ " The users num connected from this IP has reached the maximum "
-#~ "(reservation)"
-#~ msgstr ""
-#~ "Количество пользователей подключенных с этого IP превысило допустимый "
-#~ "предел"
+#: ../../../protocols/oscar/src/connection.cpp:349
+msgctxt "ConnectionError|"
+msgid ""
+"The users num connected from this IP has reached the maximum (reservation)"
+msgstr ""
+"Количество пользователей подключенных с этого IP превысило допустимое "
+"(reservation)"
 
 #: ../../../protocols/oscar/src/connection.cpp:351
 msgctxt "ConnectionError|"
@@ -393,9 +359,21 @@ msgid "Account suspended because of your age (age < 13)"
 msgstr ""
 "Ваш аккаунт временно заблокирован по причине малого (менее 13 лет) возраста"
 
-#~ msgctxt "ConnectionError|"
-#~ msgid "Connection Error"
-#~ msgstr "Ошибка подключения"
+#: ../../../protocols/oscar/src/connection.cpp:369
+msgctxt "ConnectionError|"
+msgid "Another client is loggin with this uin"
+msgstr "Другой клиент вошел с этим же номером"
+
+# я не виновен, я сам ищу где в кутиме это
+#: ../../../protocols/oscar/src/connection.cpp:371
+msgctxt "ConnectionError|"
+msgid "No IP addresses were found for the host"
+msgstr "Не найдено соответствие IP адреса серверу"
+
+#: ../../../protocols/oscar/src/connection.cpp:375
+msgctxt "ConnectionError|"
+msgid "Unknown error"
+msgstr "Неизвестная ошибка"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:146
 msgctxt "ContactInfo|"
@@ -474,10 +452,6 @@ msgctxt "ContactInfo|"
 msgid "Personal"
 msgstr "Персональное"
 
-#~ msgctxt "ContactInfo|"
-#~ msgid "Interests"
-#~ msgstr "Интересы"
-
 #: ../../../protocols/oscar/src/inforequest.cpp:249
 msgctxt "ContactInfo|"
 msgid "About"
@@ -548,6 +522,31 @@ msgctxt "ContactInfo|"
 msgid "Cookie"
 msgstr "Печеньки"
 
+#: ../../../protocols/oscar/src/authorization.cpp:44
+msgctxt "ContactList|"
+msgid "Reask authorization"
+msgstr "Перезапросить авторизацию"
+
+#: ../../../protocols/oscar/src/authorization.cpp:45
+msgctxt "ContactList|"
+msgid "Ask authorization"
+msgstr "Запроcить авторизацию"
+
+#: ../../../protocols/oscar/src/authorization.cpp:104
+msgctxt "ContactList|"
+msgid "Authorization request accepted"
+msgstr "Принят запрос авторизации"
+
+#: ../../../protocols/oscar/src/authorization.cpp:105
+msgctxt "ContactList|"
+msgid "Authorization request declined"
+msgstr "Запрос авторизации отклонён"
+
+#: ../../../protocols/oscar/src/authorization.cpp:143
+msgctxt "ContactList|"
+msgid "Please, authorize me"
+msgstr "Пожалуйста, авторизуйте меня"
+
 #: ../../../protocols/oscar/src/icqcontact.cpp:136
 msgctxt "ContactList|"
 msgid "General"
@@ -602,35 +601,6 @@ msgstr "Добавить в список игнорирования"
 msgctxt "ContactList|"
 msgid "Remove from ignore list"
 msgstr "Удалить из игнора"
-
-#~ msgctxt "ContactList|"
-#~ msgid "Possible client"
-#~ msgstr "Возможный клиент"
-
-#: ../../../protocols/oscar/src/authorization.cpp:44
-msgctxt "ContactList|"
-msgid "Reask authorization"
-msgstr "Перезапросить авторизацию"
-
-#: ../../../protocols/oscar/src/authorization.cpp:45
-msgctxt "ContactList|"
-msgid "Ask authorization"
-msgstr "Запроcить авторизацию"
-
-#: ../../../protocols/oscar/src/authorization.cpp:104
-msgctxt "ContactList|"
-msgid "Authorization request accepted"
-msgstr "Принят запрос авторизации"
-
-#: ../../../protocols/oscar/src/authorization.cpp:105
-msgctxt "ContactList|"
-msgid "Authorization request declined"
-msgstr "Запрос авторизации отклонён"
-
-#: ../../../protocols/oscar/src/authorization.cpp:143
-msgctxt "ContactList|"
-msgid "Please, authorize me"
-msgstr "Пожалуйста, авторизуйте меня"
 
 #: ../../../protocols/oscar/src/contactsearch.cpp:96
 msgctxt "ContactSearch|"
@@ -1705,7 +1675,7 @@ msgstr "Швейцария"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:241
 msgctxt "Country|"
 msgid "Syrian Arab Republic"
-msgstr "Сирийская Арабская Республика "
+msgstr "Сирийская Арабская Республика"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:242
 msgctxt "Country|"
@@ -1922,27 +1892,15 @@ msgctxt "FeedbagError|"
 msgid "Unknown error"
 msgstr "Неизвестная ошибка"
 
-#~ msgctxt "Gender|"
-#~ msgid "Not specified"
-#~ msgstr "Не указан"
-
-#: ../../../protocols/oscar/src/metainfo/metafields.cpp:456
-msgctxt "Gender|"
-msgid "Female"
-msgstr "Женский"
-
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:455
 msgctxt "Gender|"
 msgid "Male"
 msgstr "Мужской"
 
-#~ msgctxt "Icq::OscarConnection|"
-#~ msgid "Another client is loggin with this uin"
-#~ msgstr "Другой клиент вошел с этим же номером"
-
-#~ msgctxt "Icq::Roster|"
-#~ msgid "Not In List"
-#~ msgstr "Не в списке"
+#: ../../../protocols/oscar/src/metainfo/metafields.cpp:456
+msgctxt "Gender|"
+msgid "Female"
+msgstr "Женский"
 
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:14
 msgctxt "IcqAccountMainSettings|"
@@ -1978,58 +1936,6 @@ msgstr "Порт:"
 msgctxt "IcqAccountMainSettings|"
 msgid "Use SSL authorization (experimental)"
 msgstr "Использовать SSL авторизацию (экспериментальная функция)"
-
-#~ msgctxt "IcqAccountMainSettings|"
-#~ msgid "Use ssl (experimental)"
-#~ msgstr "Задействовать SSL (эксперементальная возможность)"
-
-#~ msgctxt "IcqMainSettings|"
-#~ msgid "Form"
-#~ msgstr "Форма"
-
-#~ msgctxt "IcqMainSettings|"
-#~ msgid "Don't send requests for avatarts"
-#~ msgstr "Не запрашивать аватары"
-
-#~ msgctxt "IcqMainSettings|"
-#~ msgid "Reconnect after disconnect"
-#~ msgstr "Подключаться после отключений"
-
-#~ msgctxt "IcqMainSettings|"
-#~ msgid "Codepage: (note that online messages use utf-8 in most cases)"
-#~ msgstr ""
-#~ "Кодировка: (обратите внимание - для большинства сообщений кодировка "
-#~ "определится автоматически)"
-
-#~ msgctxt "IcqMainSettings|"
-#~ msgid ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
-#~ "\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-#~ "type=\"text/css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Droid Sans'; font-size:9pt; "
-#~ "font-weight:400; font-style:normal;\">\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
-#~ "margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
-#~ "font-weight:600;\">Codepage: </span>(note that online messages use utf-8 "
-#~ "in most cases)</p></body></html>"
-#~ msgstr ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
-#~ "\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-#~ "type=\"text/css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Droid Sans'; font-size:9pt; "
-#~ "font-weight:400; font-style:normal;\">\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
-#~ "margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
-#~ "font-weight:600;\">Кодировка: </span><br />(заметка: для сообщений в сети "
-#~ "обычно автоматически выбирается utf-8)</p></body></html>"
-
-#~ msgctxt "IcqMainSettings|"
-#~ msgid "System"
-#~ msgstr "Система"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:493
 msgctxt "Industry|"
@@ -2739,14 +2645,6 @@ msgctxt "Language|"
 msgid "Yoruba"
 msgstr "Йоруба"
 
-#~ msgctxt "LoginForm|"
-#~ msgid "Password:"
-#~ msgstr "Пароль:"
-
-#~ msgctxt "LoginForm|"
-#~ msgid "Save password"
-#~ msgstr "Сохранить пароль"
-
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:614
 msgctxt "Marital|"
 msgid "Single"
@@ -2792,9 +2690,31 @@ msgctxt "Marital|"
 msgid "Other"
 msgstr "Другое"
 
-#~ msgctxt "MetaController|"
-#~ msgid "Additional"
-#~ msgstr "Дополнительно"
+#: ../../../protocols/oscar/src/metainfo/metafield.cpp:33
+msgctxt "MetaInfo|"
+msgid "Not specified"
+msgstr "Не указан"
+
+#: ../../../protocols/oscar/src/metainfo/metafield.cpp:108
+msgctxt "MetaInfo|"
+msgid "Basic"
+msgstr "Основной"
+
+#: ../../../protocols/oscar/src/metainfo/metafield.cpp:110
+msgctxt "MetaInfo|"
+msgid "More"
+msgstr "Еще"
+
+#: ../../../protocols/oscar/src/metainfo/metafield.cpp:112
+msgctxt "MetaInfo|"
+msgid "Work"
+msgstr "Работа"
+
+#: ../../../protocols/oscar/src/metainfo/metafield.cpp:114
+#: ../../../protocols/oscar/src/metainfo/metafields.cpp:676
+msgctxt "MetaInfo|"
+msgid "Affilations"
+msgstr "Разрешения"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:635
 msgctxt "MetaInfo|"
@@ -2816,40 +2736,11 @@ msgctxt "MetaInfo|"
 msgid "Email"
 msgstr "Эл.Почта"
 
-#~ msgctxt "MetaInfo|"
-#~ msgid "Home city"
-#~ msgstr "Дом. Город"
-
-#~ msgctxt "MetaInfo|"
-#~ msgid "Home state"
-#~ msgstr "Дом. Штат"
-
-#~ msgctxt "MetaInfo|"
-#~ msgid "Home phone"
-#~ msgstr "Дом. Телефон"
-
-#~ msgctxt "MetaInfo|"
-#~ msgid "Home fax"
-#~ msgstr "Дом. Факс"
-
-#~ msgctxt "MetaInfo|"
-#~ msgid "Home address"
-#~ msgstr "Домашний адрес"
-
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:644
 msgctxt "MetaInfo|"
 msgid "Cell phone"
 msgstr "Телефон"
 
-#~ msgctxt "MetaInfo|"
-#~ msgid "Home zip code"
-#~ msgstr "Дом. Индекс"
-
-#~ msgctxt "MetaInfo|"
-#~ msgid "Home country"
-#~ msgstr "Дом. Страна"
-
-# Эээ. Может часовой пояс???
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:647
 msgctxt "MetaInfo|"
 msgid "GMT"
@@ -2902,32 +2793,6 @@ msgctxt "MetaInfo|"
 msgid "Languages"
 msgstr "Языки"
 
-#: ../../../protocols/oscar/src/metainfo/metafields.cpp:677
-msgctxt "MetaInfo|"
-msgid "UIN"
-msgstr "UIN (номер ICQ)"
-
-#: ../../../protocols/oscar/src/metainfo/metafields.cpp:679
-msgctxt "MetaInfo|"
-msgid "online only"
-msgstr "только \"в сети\""
-
-#~ msgctxt "MetaInfo|"
-#~ msgid "Original city"
-#~ msgstr "Откуда (город)"
-
-#~ msgctxt "MetaInfo|"
-#~ msgid "Original state"
-#~ msgstr "Откуда (штат/область)"
-
-#~ msgctxt "MetaInfo|"
-#~ msgid "Original country"
-#~ msgstr "Откуда (страна)"
-
-#~ msgctxt "MetaInfo|"
-#~ msgid "Work address"
-#~ msgstr "Работа"
-
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:672
 msgctxt "MetaInfo|"
 msgid "Emails"
@@ -2948,31 +2813,15 @@ msgctxt "MetaInfo|"
 msgid "Pasts"
 msgstr "Прошлое"
 
-#: ../../../protocols/oscar/src/metainfo/metafield.cpp:33
+#: ../../../protocols/oscar/src/metainfo/metafields.cpp:677
 msgctxt "MetaInfo|"
-msgid "Not specified"
-msgstr "Не указан"
+msgid "UIN"
+msgstr "UIN (номер ICQ)"
 
-#: ../../../protocols/oscar/src/metainfo/metafield.cpp:108
+#: ../../../protocols/oscar/src/metainfo/metafields.cpp:679
 msgctxt "MetaInfo|"
-msgid "Basic"
-msgstr "Основной"
-
-#: ../../../protocols/oscar/src/metainfo/metafield.cpp:110
-msgctxt "MetaInfo|"
-msgid "More"
-msgstr "Еще"
-
-#: ../../../protocols/oscar/src/metainfo/metafield.cpp:112
-msgctxt "MetaInfo|"
-msgid "Work"
-msgstr "Работа"
-
-#: ../../../protocols/oscar/src/metainfo/metafield.cpp:114
-#: ../../../protocols/oscar/src/metainfo/metafields.cpp:676
-msgctxt "MetaInfo|"
-msgid "Affilations"
-msgstr "Разрешения"
+msgid "online only"
+msgstr "только \"в сети\""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:639
 msgctxt "MetaInfoHome|"
@@ -3224,14 +3073,6 @@ msgctxt "Occupation|"
 msgid "Other Services"
 msgstr "Другое"
 
-#~ msgctxt "PasswordForm|"
-#~ msgid "Password:"
-#~ msgstr "Пароль:"
-
-#~ msgctxt "PasswordForm|"
-#~ msgid "Save password"
-#~ msgstr "Сохранить пароль"
-
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:435
 msgctxt "Past|"
 msgid "Elementary School"
@@ -3273,15 +3114,6 @@ msgctxt "Past|"
 msgid "Other"
 msgstr "Иное"
 
-#: ../../../protocols/oscar/src/oscarplugin.cpp:53
-msgctxt "Plugin|"
-msgid "Oscar"
-msgstr "ICQ/Oscar"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Module-based realization of Oscar protocol"
-#~ msgstr "Модуль начальной реализации Oscar протокола"
-
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:48
 msgctxt "Plugin|"
 msgid "OscarIdentify"
@@ -3300,19 +3132,27 @@ msgctxt "Plugin|"
 msgid "ICQ"
 msgstr "ICQ"
 
-#~ msgctxt "Plugin|"
-#~ msgid "Module-based realization of ICQ protocol"
-#~ msgstr "Модуль начальной реализации ICQ протокола"
-
-#: ../../../protocols/oscar/src/oscarplugin.cpp:66
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:212
 msgctxt "Plugin|"
-msgid "ICQ account creator"
-msgstr "Мастер создания учетной записи ICQ"
+msgid "OscarXStatus"
+msgstr "X-Статус"
 
-#~ msgctxt "Plugin|"
-#~ msgid "Account creator for module-based realization of ICQ protocol"
-#~ msgstr ""
-#~ "Мастер создания учетной записи ICQ для начальной реализации ICQ протокола"
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:213
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:222
+msgctxt "Plugin|"
+msgid "Additional statuses for oscar protocol"
+msgstr "Дополнительные X-статусы для аськи"
+
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:226
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:227
+msgctxt "Plugin|"
+msgid "XStatus settings"
+msgstr "Настройки Х-статусов"
+
+#: ../../../protocols/oscar/src/oscarplugin.cpp:53
+msgctxt "Plugin|"
+msgid "Oscar"
+msgstr "ICQ/Oscar"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:54
 msgctxt "Plugin|"
@@ -3324,10 +3164,16 @@ msgctxt "Plugin|"
 msgid "Module-based implementation of ICQ protocol"
 msgstr "Модуль на основе протокола ICQ"
 
+#: ../../../protocols/oscar/src/oscarplugin.cpp:66
+msgctxt "Plugin|"
+msgid "ICQ account creator"
+msgstr "Мастер создания учетной записи ICQ"
+
 #: ../../../protocols/oscar/src/oscarplugin.cpp:67
 msgctxt "Plugin|"
 msgid "Account creator for module-based implementation of ICQ protocol"
-msgstr "Мастер создания учетной записи для начальной реализации ICQ протокола"
+msgstr ""
+"Мастер создания учетной записи для начальной реализации ICQ протокола"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:70
 #: ../../../protocols/oscar/src/oscarplugin.cpp:71
@@ -3387,23 +3233,6 @@ msgctxt "Plugin|"
 msgid "Oscar proxy support"
 msgstr "Поддержка прокси для протокола Oscar"
 
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:212
-msgctxt "Plugin|"
-msgid "OscarXStatus"
-msgstr "X-Статус"
-
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:213
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:222
-msgctxt "Plugin|"
-msgid "Additional statuses for oscar protocol"
-msgstr "Дополнительные X-статусы для аськи"
-
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:226
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:227
-msgctxt "Plugin|"
-msgid "XStatus settings"
-msgstr "Настройки Х-статусов"
-
 #: ../../../protocols/oscar/src/privacylists.cpp:90
 msgctxt "Privacy|"
 msgid "Visible for all"
@@ -3434,14 +3263,6 @@ msgstr "Видимый только для списка контактов"
 msgctxt "Privacy|"
 msgid "Unknown privacy"
 msgstr "Неизвестная конфиденциальность"
-
-#~ msgctxt "Privacy|"
-#~ msgid "Visible mode:"
-#~ msgstr "Режим видимости:"
-
-#~ msgctxt "Privacy|"
-#~ msgid "Invisible mode:"
-#~ msgstr "Режим невидимости:"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:207
 msgctxt "Privacy|"
@@ -3523,7 +3344,6 @@ msgctxt "ProtocolError|"
 msgid "Insufficient rights"
 msgstr "Недостаточно прав"
 
-# wtf ? не помню что ы я это писал
 #: ../../../protocols/oscar/src/connection.cpp:82
 msgctxt "ProtocolError|"
 msgid "In local permit/deny (recipient blocked)"
@@ -3584,11 +3404,6 @@ msgctxt "Settings|"
 msgid "Icq account settings"
 msgstr "Настройки учетной записи ICQ"
 
-#: ../../../protocols/oscar/src/oscarstatus.cpp:48
-msgctxt "Status|"
-msgid "Busy"
-msgstr "Занят"
-
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:261
 msgctxt "Status|"
 msgid "Angry"
@@ -3618,6 +3433,11 @@ msgstr "Ем"
 msgctxt "Status|"
 msgid "Custom status"
 msgstr "Расширенный статус"
+
+#: ../../../protocols/oscar/src/oscarstatus.cpp:48
+msgctxt "Status|"
+msgid "Busy"
+msgstr "Занят"
 
 # Associate’s degree (Associate) — степень в США, полученная после двугодичного обучения в колледже, который может стать промежуточной ступенью к получению бакалаврской степени (после еще двух лет обучения).
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:473
@@ -3804,26 +3624,6 @@ msgctxt "XStatus|"
 msgid "Mobile"
 msgstr "Мобила"
 
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:144
-msgctxt "XStatus|"
-msgid "Watching movie"
-msgstr "Смотрю кино"
-
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:153
-msgctxt "XStatus|"
-msgid "Writing"
-msgstr "Пишу"
-
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:156
-msgctxt "XStatus|"
-msgid "Sex"
-msgstr "Секс"
-
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:159
-msgctxt "XStatus|"
-msgid "Smoking"
-msgstr "Курю"
-
 # да, икс статус именно такой нарисован - ганджубас
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:135
 msgctxt "XStatus|"
@@ -3840,9 +3640,10 @@ msgctxt "XStatus|"
 msgid "To be or not to be"
 msgstr "Быть или не быть"
 
-#~ msgctxt "XStatus|"
-#~ msgid "Watching pro7 on TV"
-#~ msgstr "Смотрю pro7 на ТВ"
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:144
+msgctxt "XStatus|"
+msgid "Watching movie"
+msgstr "Смотрю кино"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:147
 msgctxt "XStatus|"
@@ -3853,6 +3654,21 @@ msgstr "Любовь"
 msgctxt "XStatus|"
 msgid "Searching"
 msgstr "В поиске"
+
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:153
+msgctxt "XStatus|"
+msgid "Writing"
+msgstr "Пишу"
+
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:156
+msgctxt "XStatus|"
+msgid "Sex"
+msgstr "Секс"
+
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:159
+msgctxt "XStatus|"
+msgid "Smoking"
+msgstr "Курю"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:163
 msgctxt "XStatus|"
@@ -3883,14 +3699,6 @@ msgstr "Спорт"
 msgctxt "XStatus|"
 msgid "In tansport"
 msgstr "В транспорте"
-
-#~ msgctxt "XStatus|"
-#~ msgid "X-Status"
-#~ msgstr "X-Статус"
-
-#~ msgctxt "qutim_sdk_0_3::oscar::AbstractMetaRequest|"
-#~ msgid "The metarequest canceled by user"
-#~ msgstr "Метазапрос отменен пользователем"
 
 #: ../../../protocols/oscar/src/metainfo/abstractmetarequest.cpp:77
 msgctxt "qutim_sdk_0_3::oscar::AbstractMetaRequest|"
@@ -3929,10 +3737,6 @@ msgctxt "qutim_sdk_0_3::oscar::IcqAccountMainSettings|"
 msgid "Use SSL (experimental)"
 msgstr "Использовать SSL (эксперементально)"
 
-#~ msgctxt "qutim_sdk_0_3::oscar::IcqInfoRequest|"
-#~ msgid "You are sending information requests too often"
-#~ msgstr "Вы отправляете информационные запросы слишком часто"
-
 #: ../../../protocols/oscar/src/ui/icqmainsettings.cpp:156
 msgctxt "qutim_sdk_0_3::oscar::IcqMainSettings|"
 msgid "General"
@@ -3970,10 +3774,6 @@ msgstr "Неверный формат метазапроса"
 msgctxt "qutim_sdk_0_3::oscar::OftConnection|"
 msgid "Could not open %1"
 msgstr "Не удалось открыть %1"
-
-#~ msgctxt "qutim_sdk_0_3::oscar::OftFileTransferFactory|"
-#~ msgid "Oscar file transfer protocol"
-#~ msgstr "Протокол фередачи файлов OSCAR'a"
 
 #: ../../../protocols/oscar/src/oscarfiletransfer.cpp:1044
 msgctxt "qutim_sdk_0_3::oscar::OftFileTransferFactory|"
@@ -4044,14 +3844,6 @@ msgstr "Запрашивать X-статусы автоматически"
 msgctxt "statusDialogClass|"
 msgid "Custom status"
 msgstr "Расширенный статус"
-
-#~ msgctxt "statusDialogClass|"
-#~ msgid "Choose"
-#~ msgstr "Выбрать"
-
-#~ msgctxt "statusDialogClass|"
-#~ msgid "Cancel"
-#~ msgstr "Отмена"
 
 # да, да, я когда то сидел на квипе, но потом перешел к шарикам миранды
 #: ../../../protocols/oscar/plugins/xstatus/statusdialog.ui:99

@@ -1,30 +1,23 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:43+0000\n"
+"PO-Revision-Date: 2011-11-15 16:43+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Language: ru\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:08+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
 "X-Qt-Contexts: true\n"
-
-#~ msgctxt "Author|"
-#~ msgid "Denis Daschenko"
-#~ msgstr "Дащенко Денис"
+"X-Language: ru\n"
 
 #: ../../../plugins/macintegration/src/macidle/macidle.mm:79
 msgctxt "AutoAway|"
 msgid "Auto-away"
 msgstr ""
-
-#~ msgctxt "Core::SimpleContactList::MacWidget|"
-#~ msgid "Main Toolbar"
-#~ msgstr "Основная панель"
-
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:279
-#, fuzzy
-msgctxt "Core::SimpleContactList::MacWidget|"
-msgid "File"
-msgstr "Файл"
 
 #: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:122
 msgctxt "Core::SimpleContactList::MacWidget|"
@@ -32,21 +25,24 @@ msgid "Accounts"
 msgstr "Учетные записи"
 
 #: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:123
-#, fuzzy
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Chats"
-msgstr "Чаты"
-
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:280
-#, fuzzy
-msgctxt "Core::SimpleContactList::MacWidget|"
-msgid "Roster"
-msgstr "Ростер"
+msgstr ""
 
 #: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:125
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Set Status Text"
 msgstr "Установить текст статуса"
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:279
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "File"
+msgstr ""
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:280
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Roster"
+msgstr ""
 
 #: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:14
 msgctxt "MacIdleWidget|"
@@ -55,17 +51,16 @@ msgstr "Настройки"
 
 #: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:32
 #: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:56
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "MacIdleWidget|"
 msgid "Set status «%1» after:"
-msgstr "Установить статус «%1» через:"
+msgstr ""
 
 #: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:39
 #: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:99
-#, fuzzy
 msgctxt "MacIdleWidget|seconds"
 msgid " min"
-msgstr " мин"
+msgstr ""
 
 #: ../../../plugins/macintegration/src/macdock/macdock.mm:111
 msgctxt "MacIntegration::MacDock|"
@@ -73,32 +68,11 @@ msgid "Opened chats"
 msgstr ""
 
 #: ../../../plugins/macintegration/src/macspellchecker/macspellsettings.cpp:38
-#, fuzzy
 msgctxt "MacIntegration::MacSpellSettings|"
 msgid "Language"
-msgstr "Язык"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Mac integration plugin collection"
-#~ msgstr "Коллекция интеграции в Mac систему"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Mac OS X dock integration"
-#~ msgstr "Интеграция в док Mac OS X"
+msgstr ""
 
 #: ../../../plugins/macintegration/src/macspellchecker/macspellchecker.mm:21
 msgctxt "Settings|"
 msgid "Spell checker"
 msgstr ""
-
-#~ msgctxt "Task|"
-#~ msgid "Author"
-#~ msgstr "Автор"
-
-#~ msgctxt "plugin|"
-#~ msgid "Growl notifications"
-#~ msgstr "Уведомления Growl"
-
-#~ msgctxt "plugin|"
-#~ msgid "Default Mac Os X Notifications"
-#~ msgstr "Обычные уведомления для MAC OS X"

@@ -1,11 +1,20 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:42+0000\n"
+"PO-Revision-Date: 2011-11-15 16:37+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Language: ru\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:07+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
 "X-Qt-Contexts: true\n"
+"X-Language: ru\n"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -51,10 +60,6 @@ msgstr "Сервер:"
 msgctxt "AddAccountForm|"
 msgid "Protected by password"
 msgstr "Защищено паролем"
-
-#~ msgctxt "AddAccountForm|"
-#~ msgid "Save password"
-#~ msgstr "Сохранить пароль"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:154
 msgctxt "AddAccountForm|"
@@ -381,41 +386,15 @@ msgctxt "EditNickForm|"
 msgid "Password:"
 msgstr "Пароль:"
 
-#~ msgctxt "IRC|"
-#~ msgid "Join channel..."
-#~ msgstr "Войти в канал..."
-
-#: ../../../protocols/irc/src/ircprotocol.cpp:97
+#: ../../../protocols/irc/src/ircgroupchatmanager.cpp:67
 msgctxt "IRC|"
-msgid "Show console..."
-msgstr "Показать консоль..."
-
-#: ../../../protocols/irc/src/ircprotocol.cpp:103
-msgctxt "IRC|"
-msgid "Search channel..."
-msgstr "Искать канал..."
-
-#~ msgctxt "IRC|"
-#~ msgid "Join channel"
-#~ msgstr "Подключиться к каналу"
+msgid "Name"
+msgstr "Имя"
 
 #: ../../../protocols/irc/src/ircgroupchatmanager.cpp:73
 msgctxt "IRC|"
 msgid "Channel"
 msgstr "Канал"
-
-#~ msgctxt "IRC|"
-#~ msgid "Autojoin"
-#~ msgstr "Автовход"
-
-#~ msgctxt "IRC|"
-#~ msgid "Yes"
-#~ msgstr "Да"
-
-#: ../../../protocols/irc/src/ircgroupchatmanager.cpp:67
-msgctxt "IRC|"
-msgid "Name"
-msgstr "Имя"
 
 #: ../../../protocols/irc/src/ircgroupchatmanager.cpp:80
 msgctxt "IRC|"
@@ -427,69 +406,15 @@ msgctxt "IRC|"
 msgid "Auto-join"
 msgstr "Авто-вход"
 
-#, qt-format
-#~ msgctxt "IrcChannel|"
-#~ msgid "You are now known as %1"
-#~ msgstr "Теперь вы известны как %1"
+#: ../../../protocols/irc/src/ircprotocol.cpp:97
+msgctxt "IRC|"
+msgid "Show console..."
+msgstr "Показать консоль..."
 
-#, qt-format
-#~ msgctxt "IrcChannel|"
-#~ msgid "%1 are now known as %2"
-#~ msgstr "%1 теперь известен как %2"
-
-#, qt-format
-#~ msgctxt "IrcChannel|"
-#~ msgid "%1 (%2) has joined the channel"
-#~ msgstr "%1 (%2) вошел в канал"
-
-#~ msgctxt "IrcChannel|"
-#~ msgid "You left this channel"
-#~ msgstr "Вы покинули канал"
-
-#, qt-format
-#~ msgctxt "IrcChannel|"
-#~ msgid "You left this channel (%1)"
-#~ msgstr "Вы покинули канал (%1)"
-
-#, qt-format
-#~ msgctxt "IrcChannel|"
-#~ msgid "%1 has left this channel (%2)"
-#~ msgstr "%1 покинул канал (%2)"
-
-#, qt-format
-#~ msgctxt "IrcChannel|"
-#~ msgid "%1 has left this channel"
-#~ msgstr "%1 покинул канал"
-
-#, qt-format
-#~ msgctxt "IrcChannel|"
-#~ msgid "%1 has kicked you from the channel (%2)"
-#~ msgstr "%1 выкинул вас из канала (%2)"
-
-#, qt-format
-#~ msgctxt "IrcChannel|"
-#~ msgid "%1 has kicked you from the channel"
-#~ msgstr "%1 выкинул вас из канала"
-
-#, qt-format
-#~ msgctxt "IrcChannel|"
-#~ msgid "%1 has kicked %2 (%3)"
-#~ msgstr "%1 был выкинут %2 (%3)"
-
-#, qt-format
-#~ msgctxt "IrcChannel|"
-#~ msgid "%1 has kicked %2"
-#~ msgstr "%1 был выкинут %2"
-
-#, qt-format
-#~ msgctxt "IrcChannel|"
-#~ msgid "The channel topic is \"%1\""
-#~ msgstr "Тема канала \"%1\""
-
-#, qt-format
-#~ msgctxt "IrcChannel|"
-#~ msgid "The topic was set by %1 on %2."
-#~ msgstr "%1 сменил топик на %2."
+#: ../../../protocols/irc/src/ircprotocol.cpp:103
+msgctxt "IRC|"
+msgid "Search channel..."
+msgstr "Искать канал..."
 
 #: ../../../protocols/irc/src/ircchannel.cpp:393
 #, qt-format
@@ -554,6 +479,11 @@ msgctxt "Plugin|"
 msgid "IRC account creator"
 msgstr "Создание учетной записи IRC"
 
+#: ../../../protocols/irc/src/ircplugin.cpp:52
+msgctxt "Plugin|"
+msgid "Account creator for IRC protocol"
+msgstr "Создание аккаунта IRC"
+
 #: ../../../protocols/irc/src/ircplugin.cpp:55
 msgctxt "Plugin|"
 msgid "Proxy support"
@@ -564,17 +494,6 @@ msgctxt "Plugin|"
 msgid "Proxy support for IRC protocol"
 msgstr "Поддержка прокси для протокола IRC"
 
-# скопировано с icq ?
-#~ msgctxt "Plugin|"
-#~ msgid "ICQ account creator"
-#~ msgstr ""
-#~ "Создание аккаунта IRC (разработчик IRC, проверьте эту строку в исходниках)"
-
-#: ../../../protocols/irc/src/ircplugin.cpp:52
-msgctxt "Plugin|"
-msgid "Account creator for IRC protocol"
-msgstr "Создание аккаунта IRC"
-
 #: ../../../protocols/irc/src/irccommandalias.cpp:121
 #, qt-format
 msgctxt "QObject|"
@@ -582,16 +501,14 @@ msgid "Not enough parameters for command %1"
 msgstr "Не хавтает параметров команде %1"
 
 #: ../../../protocols/irc/src/ircprotocol.cpp:72
-#, fuzzy
 msgctxt "Settings|"
 msgid "User information"
-msgstr "Инормация о пользователе"
+msgstr ""
 
 #: ../../../protocols/irc/src/ircprotocol.cpp:77
-#, fuzzy
 msgctxt "Settings|"
 msgid "Servers"
-msgstr "Серверы"
+msgstr ""
 
 #: ../../../protocols/irc/src/ircplugin.cpp:45
 msgctxt "Task|"
@@ -837,102 +754,6 @@ msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Send WHOIS request"
 msgstr "Отправить запрос WHOIS"
 
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Kick / Ban"
-#~ msgstr "Кик / Бан"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Kick"
-#~ msgstr "Кик"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Kickban"
-#~ msgstr "Кикбан"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Ban"
-#~ msgstr "Бан"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Ban *!*@*.host"
-#~ msgstr "Бан *!*@*.host"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Ban *!*@domain"
-#~ msgstr "Бан *!*@domain"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Ban *!user@*.host"
-#~ msgstr "Бан *!user@*.host"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Ban *!user@domain"
-#~ msgstr "Бан *!user@domain"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Kickban *!*@*.host"
-#~ msgstr "Кикбан *!*@*.host"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Kickban *!*@domain"
-#~ msgstr "Кикбан *!*@domain"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Kickban *!user@*.host"
-#~ msgstr "Кикбан *!user@*.host"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Kickban *!user@domain"
-#~ msgstr "Кикбан*!user@domain"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Ping"
-#~ msgstr "Пинг"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Request client information"
-#~ msgstr "Запросить информацию"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Request version"
-#~ msgstr "Запросить версиб"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Request time"
-#~ msgstr "Запросить время"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Request avatar"
-#~ msgstr "Запросить аватар"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Modes"
-#~ msgstr "Режимы"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Give Op"
-#~ msgstr "Дать Опа"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Take Op"
-#~ msgstr "Взять Опа"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Give HalfOp"
-#~ msgstr "Дать полуОпа"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Take HalfOp"
-#~ msgstr "Взять полуопа"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Give voice"
-#~ msgstr "Дать голос"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Take voice"
-#~ msgstr "Забрать голос"
-
 #: ../../../protocols/irc/src/ircconnection.cpp:158
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
@@ -979,22 +800,6 @@ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "%1 set away message \"%2\""
 msgstr "%1 установил сообщение отсутствия \"%2\""
 
-#: ../../../protocols/irc/src/ircconnection.cpp:644
-#, qt-format
-msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-msgid "SSL error: %1"
-msgstr "Ошибка SSL: %1"
-
-#: ../../../protocols/irc/src/ircconnection.cpp:650
-msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-msgid "SSL handshake completed"
-msgstr "Обмен приветствиями SSL завершен"
-
-#, qt-format
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "%1 set away message %2"
-#~ msgstr "%1 установил сообщение отсутствия %2"
-
 #: ../../../protocols/irc/src/ircconnection.cpp:327
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
@@ -1010,20 +815,6 @@ msgstr "Вы более не \"отсутствуете\""
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "You have been marked as being away"
 msgstr "Теперь вы \"отсутствуете\""
-
-# причём тут %n который хочет linguist ?
-#, qt-format
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Received CTCP-PING reply from %1: %2 seconds"
-#~ msgid_plural "Received CTCP-PING reply from %1: %2 seconds"
-#~ msgstr[0] "Пинг от %1: %2 секунда %n"
-#~ msgstr[1] "Пинг от %1: %2 секунды %n"
-#~ msgstr[2] "Пинг от %1: %2 секунд  %n"
-
-#, qt-format
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Received CTCP-%1 reply from %2: %3"
-#~ msgstr "Принят CTPC-%1 ответ  от %2: %3"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:433
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
@@ -1047,10 +838,16 @@ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Network error: %1"
 msgstr "Ошибка сети: %1"
 
+#: ../../../protocols/irc/src/ircconnection.cpp:644
 #, qt-format
-#~ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
-#~ msgid "Not enough parameters for command %1"
-#~ msgstr "Не хавтает параметров команде %1"
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "SSL error: %1"
+msgstr "Ошибка SSL: %1"
+
+#: ../../../protocols/irc/src/ircconnection.cpp:650
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "SSL handshake completed"
+msgstr "Обмен приветствиями SSL завершен"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:47
 msgctxt "qutim_sdk_0_3::irc::IrcJoinLeftActionGenerator|"
@@ -1113,16 +910,16 @@ msgid "%1 has been online since"
 msgstr ""
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:107
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 is a user on channels: "
-msgstr "%1 сидит на каналах:"
+msgstr ""
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:114
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 is logged in as %2"
-msgstr "%1 зашел как %2"
+msgstr ""
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:119
 #, qt-format

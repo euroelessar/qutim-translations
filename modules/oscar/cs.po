@@ -1,12 +1,19 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-15 15:43+0000\n"
+"PO-Revision-Date: 2011-11-15 16:46+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"X-Launchpad-Export-Date: 2011-11-17 06:08+0000\n"
+"X-Generator: Launchpad (build 14291)\n"
+"X-Qt-Contexts: true\n"
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
-"X-Qt-Contexts: true\n"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -29,10 +36,9 @@ msgid "Save password"
 msgstr "Uložit heslo"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:563
-#, fuzzy
 msgctxt "Affiliation|"
 msgid "Alumni Org."
-msgstr "Absolventské"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:564
 msgctxt "Affiliation|"
@@ -45,10 +51,9 @@ msgid "Club/Social Org."
 msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:566
-#, fuzzy
 msgctxt "Affiliation|"
 msgid "Community Org."
-msgstr "Společenství"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:567
 msgctxt "Affiliation|"
@@ -66,10 +71,9 @@ msgid "Fraternity/Sorority"
 msgstr "Bratrstvo/sesterstvo"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:570
-#, fuzzy
 msgctxt "Affiliation|"
 msgid "Hobbyists Org."
-msgstr "Zájmové"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:571
 msgctxt "Affiliation|"
@@ -82,10 +86,9 @@ msgid "Nature and Environment Org."
 msgstr "Příroda a životní prostředí"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:573
-#, fuzzy
 msgctxt "Affiliation|"
 msgid "Professional Org."
-msgstr "Odborná organizace"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:574
 msgctxt "Affiliation|"
@@ -93,16 +96,14 @@ msgid "Scientific/Technical Org."
 msgstr "Vědecké/technické"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:575
-#, fuzzy
 msgctxt "Affiliation|"
 msgid "Self Improvement Group"
-msgstr "Sebezdokonalující"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:576
-#, fuzzy
 msgctxt "Affiliation|"
 msgid "Spiritual/Religious Org."
-msgstr "Duchovní/náboženské"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:577
 msgctxt "Affiliation|"
@@ -120,10 +121,9 @@ msgid "Trade and Business Org."
 msgstr "Obchod a podnikání"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:580
-#, fuzzy
 msgctxt "Affiliation|"
 msgid "Union"
-msgstr "Odborové"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:581
 msgctxt "Affiliation|"
@@ -188,10 +188,9 @@ msgid "Ruslan Nigmatullin"
 msgstr ""
 
 #: ../../../protocols/oscar/src/ui/icqmainsettings.cpp:51
-#, fuzzy
 msgctxt "Codec|"
 msgid "System"
-msgstr "Systémové"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:307
 msgctxt "ConnectionError|"
@@ -214,10 +213,9 @@ msgid "Mismatch nick or password"
 msgstr "Záměna přezdívky nebo hesla"
 
 #: ../../../protocols/oscar/src/connection.cpp:315
-#, fuzzy
 msgctxt "ConnectionError|"
 msgid "Internal client error (bad input to authorizer)"
-msgstr "Vnitřní chyba klienta (špatný vstup autorizace)"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:317
 msgctxt "ConnectionError|"
@@ -235,16 +233,14 @@ msgid "Expired account"
 msgstr "Vypršený účet"
 
 #: ../../../protocols/oscar/src/connection.cpp:323
-#, fuzzy
 msgctxt "ConnectionError|"
 msgid "No access to database"
-msgstr "Není přístupná databáze"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:325
-#, fuzzy
 msgctxt "ConnectionError|"
 msgid "No access to resolver"
-msgstr "Není možný synchronní přenos"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:327
 msgctxt "ConnectionError|"
@@ -277,28 +273,24 @@ msgid "Suspended account"
 msgstr "Deaktivovaný účet"
 
 #: ../../../protocols/oscar/src/connection.cpp:339
-#, fuzzy
 msgctxt "ConnectionError|"
 msgid "DB send error"
-msgstr "Chybná odpověď databáze"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:341
-#, fuzzy
 msgctxt "ConnectionError|"
 msgid "DB link error"
-msgstr "Chyba spojení s databází"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:343
-#, fuzzy
 msgctxt "ConnectionError|"
 msgid "Reservation map error"
-msgstr "Chyba rezervace mapování"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:345
-#, fuzzy
 msgctxt "ConnectionError|"
 msgid "Reservation link error"
-msgstr "Chyba rezervace spojení"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:347
 msgctxt "ConnectionError|"
@@ -321,10 +313,9 @@ msgstr ""
 "minut"
 
 #: ../../../protocols/oscar/src/connection.cpp:353
-#, fuzzy
 msgctxt "ConnectionError|"
 msgid "User too heavily warned"
-msgstr "Uživatel má příliš mnoho varování"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:355
 msgctxt "ConnectionError|"
@@ -342,34 +333,29 @@ msgid "You are using an older version of ICQ. Upgrade recommended"
 msgstr "Používáte starší verzi protokolu ICQ. Je doporučena aktualizace"
 
 #: ../../../protocols/oscar/src/connection.cpp:361
-#, fuzzy
 msgctxt "ConnectionError|"
 msgid "Rate limit exceeded. Please try to reconnect in a few minutes"
-msgstr "Limit požadavků byl překročen. Zkuste se znovu připojit za pár minut"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:363
-#, fuzzy
 msgctxt "ConnectionError|"
 msgid "Can't register on the ICQ network. Reconnect in a few minutes"
-msgstr "Nelze se registrovat do ICQ sítě. Zkuste to za pár minut"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:365
-#, fuzzy
 msgctxt "ConnectionError|"
 msgid "Invalid SecurID"
-msgstr "Neplatné SecurID"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:367
-#, fuzzy
 msgctxt "ConnectionError|"
 msgid "Account suspended because of your age (age < 13)"
-msgstr "Účet byl deaktivován kvůli vašemu věku (mladší 13ti let)"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:369
-#, fuzzy
 msgctxt "ConnectionError|"
 msgid "Another client is loggin with this uin"
-msgstr "Jiný klient je přihlášen s tímto UIN"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:371
 msgctxt "ConnectionError|"
@@ -377,10 +363,9 @@ msgid "No IP addresses were found for the host"
 msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:375
-#, fuzzy
 msgctxt "ConnectionError|"
 msgid "Unknown error"
-msgstr "Neznámá chyba"
+msgstr ""
 
 #: ../../../protocols/oscar/src/inforequest.cpp:146
 msgctxt "ContactInfo|"
@@ -413,10 +398,9 @@ msgid "Registration"
 msgstr "Registrace"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:171
-#, fuzzy
 msgctxt "ContactInfo|"
 msgid " (private)"
-msgstr "(soukromé)"
+msgstr ""
 
 #: ../../../protocols/oscar/src/inforequest.cpp:172
 #: ../../../protocols/oscar/src/inforequest.cpp:174
@@ -425,10 +409,9 @@ msgid "Email"
 msgstr "E-mail"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:184
-#, fuzzy
 msgctxt "ContactInfo|"
 msgid "Home"
-msgstr "Bydliště"
+msgstr ""
 
 #: ../../../protocols/oscar/src/inforequest.cpp:186
 msgctxt "ContactInfo|"
@@ -446,23 +429,20 @@ msgid "Work"
 msgstr "Zaměstnání"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:210
-#, fuzzy
 msgctxt "ContactInfo|"
 msgid "Work address"
-msgstr "Adresa do zaměstnání"
+msgstr ""
 
 #: ../../../protocols/oscar/src/inforequest.cpp:221
-#, fuzzy
 msgctxt "ContactInfo|"
 msgid "Company"
-msgstr "Společnost"
+msgstr ""
 
 #: ../../../protocols/oscar/src/inforequest.cpp:233
 #: ../../../protocols/oscar/src/inforequest.cpp:235
-#, fuzzy
 msgctxt "ContactInfo|"
 msgid "Personal"
-msgstr "Osobní"
+msgstr ""
 
 #: ../../../protocols/oscar/src/inforequest.cpp:249
 msgctxt "ContactInfo|"
@@ -525,10 +505,9 @@ msgid "Last ext status update"
 msgstr ""
 
 #: ../../../protocols/oscar/src/inforequest.cpp:281
-#, fuzzy
 msgctxt "ContactInfo|"
 msgid "Client features"
-msgstr "Funkce klienta"
+msgstr ""
 
 #: ../../../protocols/oscar/src/inforequest.cpp:283
 msgctxt "ContactInfo|"
@@ -536,34 +515,29 @@ msgid "Cookie"
 msgstr ""
 
 #: ../../../protocols/oscar/src/authorization.cpp:44
-#, fuzzy
 msgctxt "ContactList|"
 msgid "Reask authorization"
-msgstr "Znovu požádat o autorizaci"
+msgstr ""
 
 #: ../../../protocols/oscar/src/authorization.cpp:45
-#, fuzzy
 msgctxt "ContactList|"
 msgid "Ask authorization"
-msgstr "Požadavek na autorizaci"
+msgstr ""
 
 #: ../../../protocols/oscar/src/authorization.cpp:104
-#, fuzzy
 msgctxt "ContactList|"
 msgid "Authorization request accepted"
-msgstr "Žádost o autorizaci přijata"
+msgstr ""
 
 #: ../../../protocols/oscar/src/authorization.cpp:105
-#, fuzzy
 msgctxt "ContactList|"
 msgid "Authorization request declined"
-msgstr "Žádost o autorizaci odmítnuta"
+msgstr ""
 
 #: ../../../protocols/oscar/src/authorization.cpp:143
-#, fuzzy
 msgctxt "ContactList|"
 msgid "Please, authorize me"
-msgstr "Prosím, autorizuj mě"
+msgstr ""
 
 #: ../../../protocols/oscar/src/icqcontact.cpp:136
 msgctxt "ContactList|"
@@ -656,10 +630,9 @@ msgid "Age"
 msgstr "Věk"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:35
-#, fuzzy
 msgctxt "Country|"
 msgid "Other"
-msgstr "Jiné"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:36
 msgctxt "Country|"
@@ -902,10 +875,9 @@ msgid "Colombia"
 msgstr "Kolumbie"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:84
-#, fuzzy
 msgctxt "Country|"
 msgid "Comoros"
-msgstr "Komory"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:85
 msgctxt "Country|"
@@ -1038,10 +1010,9 @@ msgid "France"
 msgstr "Francie"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:111
-#, fuzzy
 msgctxt "Country|"
 msgid "French Antilles"
-msgstr "Francouzské Antily"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:112
 msgctxt "Country|"
@@ -1985,10 +1956,9 @@ msgid "Education"
 msgstr "Vzdělávání"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:499
-#, fuzzy
 msgctxt "Industry|"
 msgid "Finance"
-msgstr "Finančnictví"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:500
 msgctxt "Industry|"
@@ -2001,10 +1971,9 @@ msgid "High Tech"
 msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:502
-#, fuzzy
 msgctxt "Industry|"
 msgid "Legal"
-msgstr "Právní"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:503
 msgctxt "Industry|"
@@ -2027,10 +1996,9 @@ msgid "Non-Profit Organization Management"
 msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:507
-#, fuzzy
 msgctxt "Industry|"
 msgid "Other"
-msgstr "Jiné"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:508
 msgctxt "Industry|"
@@ -2043,10 +2011,9 @@ msgid "Service Industry"
 msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:510
-#, fuzzy
 msgctxt "Industry|"
 msgid "Transportation"
-msgstr "Doprava"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:289
 msgctxt "Interest|"
@@ -2084,16 +2051,14 @@ msgid "Audio and Visual"
 msgstr "Audio a video"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:296
-#, fuzzy
 msgctxt "Interest|"
 msgid "Business"
-msgstr "Obchod"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:297
-#, fuzzy
 msgctxt "Interest|"
 msgid "Business Services"
-msgstr "Podnikatelské služby"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:298
 msgctxt "Interest|"
@@ -2136,10 +2101,9 @@ msgid "Entertainment"
 msgstr "Zábava"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:306
-#, fuzzy
 msgctxt "Interest|"
 msgid "Finance and Corporate"
-msgstr "Finance a obchod"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:307
 msgctxt "Interest|"
@@ -2147,10 +2111,9 @@ msgid "Fitness"
 msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:308
-#, fuzzy
 msgctxt "Interest|"
 msgid "Health and Beauty"
-msgstr "Zdraví a krása"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:309
 msgctxt "Interest|"
@@ -2713,22 +2676,19 @@ msgid "Not specified"
 msgstr "není zadáno"
 
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:108
-#, fuzzy
 msgctxt "MetaInfo|"
 msgid "Basic"
-msgstr "Základní"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:110
-#, fuzzy
 msgctxt "MetaInfo|"
 msgid "More"
-msgstr "Více"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:112
-#, fuzzy
 msgctxt "MetaInfo|"
 msgid "Work"
-msgstr "Práce"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:114
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:676
@@ -2782,10 +2742,9 @@ msgid "Direct connection"
 msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:651
-#, fuzzy
 msgctxt "MetaInfo|"
 msgid "Public primary email"
-msgstr "Veřejný hlavní e-mail"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:652
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:678
@@ -2944,16 +2903,14 @@ msgid "Position"
 msgstr "Pozice"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:670
-#, fuzzy
 msgctxt "MetaInfoWork|"
 msgid "Occupation"
-msgstr "Zaměstnání"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:671
-#, fuzzy
 msgctxt "MetaInfoWork|"
 msgid "Webpage"
-msgstr "Webová stránka"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:523
 msgctxt "Occupation|"
@@ -3026,10 +2983,9 @@ msgid "Law"
 msgstr "Právo, justice"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:537
-#, fuzzy
 msgctxt "Occupation|"
 msgid "Managerial"
-msgstr "Manažerský"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:538
 msgctxt "Occupation|"
@@ -3052,10 +3008,9 @@ msgid "Non-Government Organization"
 msgstr "Nestátní organizace"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:542
-#, fuzzy
 msgctxt "Occupation|"
 msgid "Professional"
-msgstr "Odborná organizace"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:543
 msgctxt "Occupation|"
@@ -3078,10 +3033,9 @@ msgid "Sports"
 msgstr "Sporty"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:547
-#, fuzzy
 msgctxt "Occupation|"
 msgid "Technical"
-msgstr "Technické obory"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:548
 msgctxt "Occupation|"
@@ -3282,10 +3236,9 @@ msgid "Visible only for contact list"
 msgstr "Viditelný pouze pro seznam kontaktů"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:100
-#, fuzzy
 msgctxt "Privacy|"
 msgid "Unknown privacy"
-msgstr "Neznámé soukromí"
+msgstr ""
 
 #: ../../../protocols/oscar/src/privacylists.cpp:207
 msgctxt "Privacy|"
@@ -3373,16 +3326,14 @@ msgid "In local permit/deny (recipient blocked)"
 msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:84
-#, fuzzy
 msgctxt "ProtocolError|"
 msgid "Sender too evil"
-msgstr "Odesílatel je příliš škodlivý"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:86
-#, fuzzy
 msgctxt "ProtocolError|"
 msgid "Receiver too evil"
-msgstr "Příjemce je příliš škodlivý"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:88
 msgctxt "ProtocolError|"
@@ -3390,10 +3341,9 @@ msgid "User temporarily unavailable"
 msgstr "Uživatel je dočasně nedostupný"
 
 #: ../../../protocols/oscar/src/connection.cpp:90
-#, fuzzy
 msgctxt "ProtocolError|"
 msgid "No match"
-msgstr "Nejsou stejná"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:92
 msgctxt "ProtocolError|"
@@ -3501,10 +3451,9 @@ msgid "Postdoctoral"
 msgstr "Postdoktorské"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:480
-#, fuzzy
 msgctxt "StudyLevel|"
 msgid "University / College"
-msgstr "Vysokoškolské"
+msgstr ""
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:53
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:56
@@ -3726,22 +3675,19 @@ msgid "In tansport"
 msgstr "Jedu"
 
 #: ../../../protocols/oscar/src/metainfo/abstractmetarequest.cpp:77
-#, fuzzy
 msgctxt "qutim_sdk_0_3::oscar::AbstractMetaRequest|"
 msgid "The metarequest cancelled by user"
-msgstr "Metapožadavek zrušen uživatelem"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/abstractmetarequest.cpp:82
-#, fuzzy
 msgctxt "qutim_sdk_0_3::oscar::AbstractMetaRequest|"
 msgid "The server did not answer on the metarequest"
-msgstr "Server neodpověděl na metapožadavek"
+msgstr ""
 
 #: ../../../protocols/oscar/src/authorization.cpp:73
-#, fuzzy
 msgctxt "qutim_sdk_0_3::oscar::Authorization|"
 msgid "Grant authorization"
-msgstr "Udělit autorizaci"
+msgstr ""
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:83
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:209
@@ -3755,10 +3701,9 @@ msgid "Show client icon"
 msgstr "Zobrazit ikonu klienta"
 
 #: ../../../protocols/oscar/src/metainfo/infometarequest.cpp:292
-#, fuzzy
 msgctxt "qutim_sdk_0_3::oscar::FullInfoMetaRequest|"
 msgid "Incorrect format of the metarequest"
-msgstr "Nesprávný formát metapožadavku"
+msgstr ""
 
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.cpp:54
 msgctxt "qutim_sdk_0_3::oscar::IcqAccountMainSettings|"
@@ -3792,10 +3737,9 @@ msgid "No IP addresses were found for the host '%1'"
 msgstr "Nebyly nalezeny IP adresy pro hostitele '%1'"
 
 #: ../../../protocols/oscar/src/metainfo/metainfo.cpp:78
-#, fuzzy
 msgctxt "qutim_sdk_0_3::oscar::MetaInfo|"
 msgid "Incorrect format of the metarequest"
-msgstr "Nesprávný formát metapožadavku"
+msgstr ""
 
 #: ../../../protocols/oscar/src/oscarfiletransfer.cpp:871
 #, qt-format
@@ -3847,7 +3791,8 @@ msgstr ""
 #: ../../../protocols/oscar/src/privacylists.cpp:355
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"ignore\" icon if contact in ignore list"
-msgstr "Zobrazit ikonu \"ignorovaný\" pokud je kontakt v seznamu ignorovaných"
+msgstr ""
+"Zobrazit ikonu \"ignorovaný\" pokud je kontakt v seznamu ignorovaných"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:437
 msgctxt "qutim_sdk_0_3::oscar::XStatusHandler|"
@@ -3855,10 +3800,9 @@ msgid "X-Status"
 msgstr ""
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:438
-#, fuzzy
 msgctxt "qutim_sdk_0_3::oscar::XStatusHandler|"
 msgid "Show contact X-Status icon"
-msgstr "Zobrazit X-Status ikonu"
+msgstr ""
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatussettings.cpp:39
 msgctxt "qutim_sdk_0_3::oscar::XStatusSettings|"
@@ -3866,10 +3810,9 @@ msgid "Extended status"
 msgstr "Rozšířený stav"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatussettings.cpp:42
-#, fuzzy
 msgctxt "qutim_sdk_0_3::oscar::XStatusSettings|"
 msgid "Ask for XStatuses automatically"
-msgstr "Požadovat X-Statusy automaticky"
+msgstr ""
 
 #: ../../../protocols/oscar/plugins/xstatus/statusdialog.ui:14
 msgctxt "statusDialogClass|"
@@ -3877,7 +3820,6 @@ msgid "Custom status"
 msgstr "Vlastní stav"
 
 #: ../../../protocols/oscar/plugins/xstatus/statusdialog.ui:99
-#, fuzzy
 msgctxt "statusDialogClass|"
 msgid "Set birthday/happy flag"
-msgstr "Nastavit narozeninovou ikonu"
+msgstr ""
