@@ -16,6 +16,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2011-11-17 06:08+0000\n"
 "X-Generator: Launchpad (build 14291)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: bg_BG\n"
+"X-Source-Language: C\n"
 
 #: ../../../plugins/qmlchat/settings/chatappearance.cpp:55
 msgctxt "Core::AdiumChat::ChatAppearance|"
@@ -96,7 +99,7 @@ msgstr "е спрял"
 #: ../../../plugins/qmlchat/settings/chatappearance.ui:14
 msgctxt "quickChatAppearance|"
 msgid "Form"
-msgstr "Настройки"
+msgstr "Настройки на облика"
 
 #: ../../../plugins/qmlchat/settings/chatappearance.ui:20
 msgctxt "quickChatAppearance|"
