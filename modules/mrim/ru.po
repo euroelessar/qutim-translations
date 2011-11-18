@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-15 15:43+0000\n"
-"PO-Revision-Date: 2011-11-15 16:44+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"PO-Revision-Date: 2011-11-17 18:30+0000\n"
+"Last-Translator: Andrey <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-17 06:08+0000\n"
-"X-Generator: Launchpad (build 14291)\n"
+"X-Launchpad-Export-Date: 2011-11-18 05:54+0000\n"
+"X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -66,6 +66,8 @@ msgid ""
 "Messages in mailbox: %1\n"
 "Unread messages: %2"
 msgstr ""
+"Сообщений в ящике: %1\n"
+"Непрочитанных: %2"
 
 #: ../../../protocols/mrim/src/base/mrimconnection.cpp:256
 msgctxt "MrimConnection|"
@@ -79,41 +81,43 @@ msgid ""
 "Authentication failed!\n"
 "Reason: %1"
 msgstr ""
+"Ошибка авторизации!\n"
+"Причина: %1"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:154
 msgctxt "MrimMessages|"
 msgid "No such user"
-msgstr ""
+msgstr "Нет такого пользователя"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:157
 msgctxt "MrimMessages|"
 msgid "Message too large"
-msgstr ""
+msgstr "Сообщение слишком велико"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:160
 msgctxt "MrimMessages|"
 msgid "Limit exceeded"
-msgstr ""
+msgstr "Лимит исчерпан."
 
 #: ../../../protocols/mrim/src/base/messages.cpp:163
 msgctxt "MrimMessages|"
 msgid "User denied receiving offline messages"
-msgstr ""
+msgstr "Пользователь не принимает оффлайн сообщения"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:166
 msgctxt "MrimMessages|"
 msgid "User denied receiving offline flash movies"
-msgstr ""
+msgstr "Пользователь не принимает мульты оффлайн"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:169
 msgctxt "MrimMessages|"
 msgid "Internal error"
-msgstr ""
+msgstr "Внутренняя ошибка"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:178
 msgctxt "MrimMessages|"
 msgid "Message was not delivered!"
-msgstr ""
+msgstr "Сообщение не было доставлено!"
 
 # !?
 #: ../../../protocols/mrim/src/base/mrimpacket.cpp:188
@@ -139,7 +143,7 @@ msgstr "Неизвестная ошибка"
 #: ../../../protocols/mrim/src/base/roster.cpp:256
 msgctxt "MrimRoster|"
 msgid "Phone contacts"
-msgstr ""
+msgstr "Телефонные контакты"
 
 #: ../../../protocols/mrim/src/base/mrimplugin.cpp:42
 msgctxt "Plugin|"
@@ -164,12 +168,12 @@ msgstr "Создание учетной записи, модуля реализ�
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:85
 msgctxt "QObject|"
 msgid "Possible client"
-msgstr ""
+msgstr "Возможный клиент"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:100
 msgctxt "QObject|"
 msgid "Not authorized"
-msgstr ""
+msgstr "Нет авторизации"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:190
 msgctxt "Status|"

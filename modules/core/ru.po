@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-15 15:42+0000\n"
-"PO-Revision-Date: 2011-11-15 16:33+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"PO-Revision-Date: 2011-11-17 17:42+0000\n"
+"Last-Translator: Andrey <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-17 06:07+0000\n"
-"X-Generator: Launchpad (build 14291)\n"
+"X-Launchpad-Export-Date: 2011-11-18 05:53+0000\n"
+"X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -1811,7 +1811,7 @@ msgstr "Расстояние начала перетаскивания, м:"
 #: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:70
 msgctxt "KineticScrollerSettings|"
 msgid "Drag velocity smoothing factor, 1/secs:"
-msgstr ""
+msgstr "Коэффициент замедления при перетаскивании, 1/сек:"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/lineedit.cpp:40
 msgctxt "LineEdit|"
@@ -3505,22 +3505,22 @@ msgstr ""
 #: ../../../core/libqutim/profile.cpp:123
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Password is mismatched."
-msgstr ""
+msgstr "Пароль не подходит."
 
 #: ../../../core/libqutim/profile.cpp:125
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Crypto service is unknown."
-msgstr ""
+msgstr "Неизвестный  сервис шифрования."
 
 #: ../../../core/libqutim/profile.cpp:127
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Wrong profile id."
-msgstr ""
+msgstr "Неправильный идентификатор профиля."
 
 #: ../../../core/libqutim/profile.cpp:160
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Can't open file with hash"
-msgstr ""
+msgstr "Не получается открыть файл хэша."
 
 #: ../../../core/libqutim/sound.cpp:282
 msgctxt "qutim_sdk_0_3::SoundHandler|"

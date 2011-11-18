@@ -3,21 +3,21 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-15 15:43+0000\n"
-"PO-Revision-Date: 2011-11-15 16:43+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"PO-Revision-Date: 2011-11-17 18:07+0000\n"
+"Last-Translator: Andrey <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-17 06:08+0000\n"
-"X-Generator: Launchpad (build 14291)\n"
+"X-Launchpad-Export-Date: 2011-11-18 05:54+0000\n"
+"X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
 #: ../../../plugins/macintegration/src/macidle/macidle.mm:79
 msgctxt "AutoAway|"
 msgid "Auto-away"
-msgstr ""
+msgstr "Автостатус"
 
 #: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:122
 msgctxt "Core::SimpleContactList::MacWidget|"
@@ -27,7 +27,7 @@ msgstr "Учетные записи"
 #: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:123
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Chats"
-msgstr ""
+msgstr "Чаты"
 
 #: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:125
 msgctxt "Core::SimpleContactList::MacWidget|"
@@ -37,12 +37,12 @@ msgstr "Установить текст статуса"
 #: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:279
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "File"
-msgstr ""
+msgstr "Файл"
 
 #: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:280
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Roster"
-msgstr ""
+msgstr "Ростер"
 
 #: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:14
 msgctxt "MacIdleWidget|"
@@ -54,25 +54,25 @@ msgstr "Настройки"
 #, qt-format
 msgctxt "MacIdleWidget|"
 msgid "Set status «%1» after:"
-msgstr ""
+msgstr "Установить статус «%1» через:"
 
 #: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:39
 #: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:99
 msgctxt "MacIdleWidget|seconds"
 msgid " min"
-msgstr ""
+msgstr " минут"
 
 #: ../../../plugins/macintegration/src/macdock/macdock.mm:111
 msgctxt "MacIntegration::MacDock|"
 msgid "Opened chats"
-msgstr ""
+msgstr "Открытые чаты"
 
 #: ../../../plugins/macintegration/src/macspellchecker/macspellsettings.cpp:38
 msgctxt "MacIntegration::MacSpellSettings|"
 msgid "Language"
-msgstr ""
+msgstr "Язык"
 
 #: ../../../plugins/macintegration/src/macspellchecker/macspellchecker.mm:21
 msgctxt "Settings|"
 msgid "Spell checker"
-msgstr ""
+msgstr "Проверка орфографии"

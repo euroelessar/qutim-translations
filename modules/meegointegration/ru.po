@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-15 15:43+0000\n"
-"PO-Revision-Date: 2011-11-16 12:23+0000\n"
-"Last-Translator: Ruslan Nigmatullin <Unknown>\n"
+"PO-Revision-Date: 2011-11-17 18:27+0000\n"
+"Last-Translator: Andrey <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-17 06:08+0000\n"
-"X-Generator: Launchpad (build 14291)\n"
+"X-Launchpad-Export-Date: 2011-11-18 05:54+0000\n"
+"X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -82,7 +82,7 @@ msgstr "Отклонить"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Chat.qml:61
 msgctxt "Chat|"
 msgid "Write anything"
-msgstr ""
+msgstr "Написать сообщение"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/authdialogwrapper.cpp:112
 #, qt-format
@@ -257,92 +257,92 @@ msgstr "Отмена"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:46
 msgctxt "Plugin|"
 msgid "Meego application window"
-msgstr ""
+msgstr "Окно уведомлений Meego"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:47
 msgctxt "Plugin|"
 msgid "Main window of application"
-msgstr ""
+msgstr "Главное окно приложения"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:51
 msgctxt "Plugin|"
 msgid "Meego chat page"
-msgstr ""
+msgstr "Окно чата Meego"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:52
 msgctxt "Plugin|"
 msgid "Simple chat based on QML elements"
-msgstr ""
+msgstr "Простой чат, основанный на QML"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:54
 msgctxt "Plugin|"
 msgid "Meego contact list page"
-msgstr ""
+msgstr "Окно контакт листа"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:55
 msgctxt "Plugin|"
 msgid "Simple contact list on QML elements"
-msgstr ""
+msgstr "Простой контакт лисн на QML"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:57
 msgctxt "Plugin|"
 msgid "Meego password dialog"
-msgstr ""
+msgstr "Диалог пароля Meego"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:58
 msgctxt "Plugin|"
 msgid "Simple password dialog on QML elements"
-msgstr ""
+msgstr "Простой диалог паролья на QML"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:60
 msgctxt "Plugin|"
 msgid "Meego authorization dialog"
-msgstr ""
+msgstr "Диалог авторизации Meego"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:61
 msgctxt "Plugin|"
 msgid "Simple authorization dialog on QML elements"
-msgstr ""
+msgstr "Простой диалог авторизации Meego"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:63
 msgctxt "Plugin|"
 msgid "MeeGo Harmattan Idle detector"
-msgstr ""
+msgstr "Отслеживание простоя системы Meego"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:64
 msgctxt "Plugin|"
 msgid "Simple harmattan idle detector"
-msgstr ""
+msgstr "Простой детектор простоя системы Harmattan"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:66
 msgctxt "Plugin|"
 msgid "MeeGo Add contact dialog"
-msgstr ""
+msgstr "Окно добавления контактов Meego"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:67
 msgctxt "Plugin|"
 msgid "Simple add contact dialog"
-msgstr ""
+msgstr "Простой диалог добавления контактов"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:69
 msgctxt "Plugin|"
 msgid "MeeGo about dialog"
-msgstr ""
+msgstr "Окно О программу Meego"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:70
 msgctxt "Plugin|"
 msgid "Simple about dialog"
-msgstr ""
+msgstr "Простой диалог О программе"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:72
 msgctxt "Plugin|"
 msgid "MeeGo join group chat dialog"
-msgstr ""
+msgstr "Окно подключения к чату"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:73
 msgctxt "Plugin|"
 msgid "Simple join group chat dialog"
-msgstr ""
+msgstr "Простой диалог для подключения к чату"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:75
 msgctxt "Plugin|"
@@ -357,9 +357,9 @@ msgstr ""
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:78
 msgctxt "Plugin|"
 msgid "MeeGo settings"
-msgstr ""
+msgstr "Настройки Meego"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:79
 msgctxt "Plugin|"
 msgid "Simple MeeGo settings dialog"
-msgstr ""
+msgstr "Простой диалог настроек Meego"
