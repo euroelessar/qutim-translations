@@ -6,6 +6,7 @@ msgstr ""
 "PO-Revision-Date: 2011-11-15 16:46+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -3783,8 +3784,7 @@ msgstr "Локални портове"
 #: ../../../protocols/oscar/src/privacylists.cpp:347
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"visible\" icon if contact in visible list"
-msgstr ""
-"Да се показва икона за \"видим\" ако контакта е в списък \"Видим за\""
+msgstr "Да се показва икона за \"видим\" ако контакта е в списък \"Видим за\""
 
 #: ../../../protocols/oscar/src/privacylists.cpp:351
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"

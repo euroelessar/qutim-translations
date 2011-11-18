@@ -6,6 +6,7 @@ msgstr ""
 "PO-Revision-Date: 2011-11-16 12:56+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -757,8 +758,7 @@ msgstr "Изпращане WHOIS заявка"
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Server %1 (Version %2), User modes: %3, Channel modes: %4"
-msgstr ""
-"Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4"
+msgstr "Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:277
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"

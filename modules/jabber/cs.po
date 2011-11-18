@@ -6,6 +6,7 @@ msgstr ""
 "PO-Revision-Date: 2011-11-15 16:38+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1283,13 +1284,11 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:378
 msgctxt "Jabber::XmlConsole|"
 msgid "OpenDocument Format (*.odf);;HTML file (*.html);;Plain text (*.txt)"
-msgstr ""
-"OpenDocument formát (*.odf);;HTML soubor (*.html);;Prostý text (*.txt)"
+msgstr "OpenDocument formát (*.odf);;HTML soubor (*.html);;Prostý text (*.txt)"
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:72
 msgctxt "Jreen::Error|"
-msgid ""
-"The sender has sent XML that is malformed or that cannot be processed."
+msgid "The sender has sent XML that is malformed or that cannot be processed."
 msgstr ""
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:75

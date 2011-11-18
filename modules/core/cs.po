@@ -6,6 +6,7 @@ msgstr ""
 "PO-Revision-Date: 2011-11-15 16:32+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -140,10 +141,10 @@ msgstr ""
 #: ../../../core/src/corelayers/authdialog/authdialog.ui:33
 msgctxt "AuthDialog|"
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
-"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-"type=\"text/css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
 "weight:400; font-style:normal;\">\n"
@@ -1228,8 +1229,8 @@ msgctxt "Core::SimpleAboutDialog|"
 msgid ""
 "<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 2 "
 "or (at your option) any later version.</div><div>qutIM resources such as "
-"themes, icons, sounds may come along with a different "
-"license.</div><br><hr><br>"
+"themes, icons, sounds may come along with a different license.</"
+"div><br><hr><br>"
 msgstr ""
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:170
@@ -1423,14 +1424,14 @@ msgstr ""
 #, qt-format
 msgctxt "Core::SubmitPage|"
 msgid ""
-"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br "
-"/><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br "
-"/><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
+"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br /"
+"><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br /"
+"><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
 msgstr ""
-"<b>Stručně:</b> %1 <br /><b>Verze:</b> %2 <br /><b>Plné znění:</b> %3 <br "
-"/><b>qutIM verze:</b> %4 <br /><b>Qt verze:</b> %5 (%6 bitů) <br "
-"/><b>Rozlišení obrazovky:</b> %7 x %8 <br /><b>Lokalizace systému:</b> %9<br "
-"/>"
+"<b>Stručně:</b> %1 <br /><b>Verze:</b> %2 <br /><b>Plné znění:</b> %3 <br /"
+"><b>qutIM verze:</b> %4 <br /><b>Qt verze:</b> %5 (%6 bitů) <br /"
+"><b>Rozlišení obrazovky:</b> %7 x %8 <br /><b>Lokalizace systému:</b> %9<br /"
+">"
 
 #: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:264
 #, qt-format
@@ -3052,361 +3053,9 @@ msgctxt "emoticonsSelector|"
 msgid "Form"
 msgstr ""
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:51
-msgctxt "kb_Qwerty|"
-msgid "q"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:66
-msgctxt "kb_Qwerty|"
-msgid "qQ1§й"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:69
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:100
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:134
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:165
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:196
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:227
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:258
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:289
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:320
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:351
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:389
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:420
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:451
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:482
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:513
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:544
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:575
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:606
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:637
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:665
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:732
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:763
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:794
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:825
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:856
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:887
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:918
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:943
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1079
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1141
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1172
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:142
 msgctxt "kb_Qwerty|"
 msgid "bgDirectInput"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:85
-msgctxt "kb_Qwerty|"
-msgid "w"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:97
-msgctxt "kb_Qwerty|"
-msgid "wW2$ц"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:116
-msgctxt "kb_Qwerty|"
-msgid "e"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:131
-msgctxt "kb_Qwerty|"
-msgid "eE3£у"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:150
-msgctxt "kb_Qwerty|"
-msgid "r"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:162
-msgctxt "kb_Qwerty|"
-msgid "rR4€к"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:181
-msgctxt "kb_Qwerty|"
-msgid "t"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:193
-msgctxt "kb_Qwerty|"
-msgid "tT5¥е"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:212
-msgctxt "kb_Qwerty|"
-msgid "y"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:224
-msgctxt "kb_Qwerty|"
-msgid "yY6-н"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:243
-msgctxt "kb_Qwerty|"
-msgid "u"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:255
-msgctxt "kb_Qwerty|"
-msgid "uU7<г"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:274
-msgctxt "kb_Qwerty|"
-msgid "i"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:286
-msgctxt "kb_Qwerty|"
-msgid "iI8>ш"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:305
-msgctxt "kb_Qwerty|"
-msgid "o"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:317
-msgctxt "kb_Qwerty|"
-msgid "oO9[щ"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:336
-msgctxt "kb_Qwerty|"
-msgid "p"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:348
-msgctxt "kb_Qwerty|"
-msgid "pP0]з"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:374
-msgctxt "kb_Qwerty|"
-msgid "a"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:386
-msgctxt "kb_Qwerty|"
-msgid "aA({ф"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:405
-msgctxt "kb_Qwerty|"
-msgid "s"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:417
-msgctxt "kb_Qwerty|"
-msgid "sS)}ы"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:436
-msgctxt "kb_Qwerty|"
-msgid "d"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:448
-msgctxt "kb_Qwerty|"
-msgid "dD+^в"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:467
-msgctxt "kb_Qwerty|"
-msgid "f"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:479
-msgctxt "kb_Qwerty|"
-msgid "fF*\\а"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:498
-msgctxt "kb_Qwerty|"
-msgid "g"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:510
-msgctxt "kb_Qwerty|"
-msgid "gG=/п"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:529
-msgctxt "kb_Qwerty|"
-msgid "h"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:541
-msgctxt "kb_Qwerty|"
-msgid "hH&~р"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:560
-msgctxt "kb_Qwerty|"
-msgid "j"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:572
-msgctxt "kb_Qwerty|"
-msgid "jJ--о"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:591
-msgctxt "kb_Qwerty|"
-msgid "k"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:603
-msgctxt "kb_Qwerty|"
-msgid "kK__л"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:622
-msgctxt "kb_Qwerty|"
-msgid "l"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:634
-msgctxt "kb_Qwerty|"
-msgid "lL^|д"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:653
-msgctxt "kb_Qwerty|"
-msgid ":"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:662
-msgctxt "kb_Qwerty|"
-msgid ":;`№ж"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:717
-msgctxt "kb_Qwerty|"
-msgid "z"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:729
-msgctxt "kb_Qwerty|"
-msgid "zZёёя"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:748
-msgctxt "kb_Qwerty|"
-msgid "x"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:760
-msgctxt "kb_Qwerty|"
-msgid "xXъъч"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:779
-msgctxt "kb_Qwerty|"
-msgid "c"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:791
-msgctxt "kb_Qwerty|"
-msgid "cC??с"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:810
-msgctxt "kb_Qwerty|"
-msgid "v"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:822
-msgctxt "kb_Qwerty|"
-msgid "vV!!м"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:841
-msgctxt "kb_Qwerty|"
-msgid "b"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:853
-msgctxt "kb_Qwerty|"
-msgid "bB;;и"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:872
-msgctxt "kb_Qwerty|"
-msgid "n"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:884
-msgctxt "kb_Qwerty|"
-msgid "nN::т"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:903
-msgctxt "kb_Qwerty|"
-msgid "m"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:915
-msgctxt "kb_Qwerty|"
-msgid "mM,,ь"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:931
-msgctxt "kb_Qwerty|"
-msgid "?"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:940
-msgctxt "kb_Qwerty|"
-msgid "?!%%б"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1004
-msgctxt "kb_Qwerty|"
-msgid "1#"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1029
-msgctxt "kb_Qwerty|"
-msgid ""
-"ru\n"
-"en"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1064
-msgctxt "kb_Qwerty|"
-msgid ","
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1076
-msgctxt "kb_Qwerty|"
-msgid ",(##х"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1126
-msgctxt "kb_Qwerty|"
-msgid "."
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1138
-msgctxt "kb_Qwerty|"
-msgid ".)''э"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1160
-msgctxt "kb_Qwerty|"
-msgid "\""
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1169
-msgctxt "kb_Qwerty|"
-msgid "\"'@@ю"
 msgstr ""
 
 #: ../../../core/libqutim/contactsearch.cpp:85

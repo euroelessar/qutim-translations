@@ -6,6 +6,7 @@ msgstr ""
 "PO-Revision-Date: 2011-11-15 16:44+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -97,7 +98,7 @@ msgctxt "ContactInfo|"
 msgid "Send authorizarion request to %1:"
 msgstr "Изпращане на заявка за удостоверение от %1:"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/ContactList.qml:120
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/ContactList.qml:121
 msgctxt "ContactList|"
 msgid "Cancel"
 msgstr "Отказ"
@@ -212,13 +213,13 @@ msgctxt "MeegoIntegration::AboutDialogWrapper|"
 msgid ""
 "<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 2 "
 "or (at your option) any later version.</div><div>qutIM resources such as "
-"themes, icons, sounds may come along with a different "
-"license.</div><br><hr><br>"
+"themes, icons, sounds may come along with a different license.</"
+"div><br><hr><br>"
 msgstr ""
 "<div><b>qutIM</b> %1 е лицензиран под GNU General Public License, версия 2 "
 "или (по ваше усмотрение) всяка последваща версия.</div><div>Ресурсите, които "
-"ползва qutIM напр. теми, икони, звуци могат да бъдат под друг "
-"лиценз.</div><br><hr><br>"
+"ползва qutIM напр. теми, икони, звуци могат да бъдат под друг лиценз.</"
+"div><br><hr><br>"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/passworddialogwrapper.cpp:38
 msgctxt "MeegoIntegration::PasswordDialogWrapper|"
@@ -304,8 +305,7 @@ msgstr "MeeGo диалогов прозорец за удостоверяван�
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:61
 msgctxt "Plugin|"
 msgid "Simple authorization dialog on QML elements"
-msgstr ""
-"Обикновен диалогов прозорец за удостоверяване, базиран на QML елементи"
+msgstr "Обикновен диалогов прозорец за удостоверяване, базиран на QML елементи"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:63
 msgctxt "Plugin|"
@@ -357,12 +357,10 @@ msgctxt "Plugin|"
 msgid "Simple accounts model"
 msgstr "Обикновен модел на сметките"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:78
-msgctxt "Plugin|"
-msgid "MeeGo settings"
-msgstr "MeeGo настройки"
+#~ msgctxt "Plugin|"
+#~ msgid "MeeGo settings"
+#~ msgstr "MeeGo настройки"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:79
-msgctxt "Plugin|"
-msgid "Simple MeeGo settings dialog"
-msgstr "Обикновен диалогов прозорец на MeeGo за настройване"
+#~ msgctxt "Plugin|"
+#~ msgid "Simple MeeGo settings dialog"
+#~ msgstr "Обикновен диалогов прозорец на MeeGo за настройване"

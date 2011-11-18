@@ -6,6 +6,7 @@ msgstr ""
 "PO-Revision-Date: 2011-11-16 12:23+0000\n"
 "Last-Translator: Ruslan Nigmatullin <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -96,7 +97,7 @@ msgctxt "ContactInfo|"
 msgid "Send authorizarion request to %1:"
 msgstr "Отправить запрос авторизации %1:"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/ContactList.qml:120
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/ContactList.qml:121
 msgctxt "ContactList|"
 msgid "Cancel"
 msgstr "Отмена"
@@ -211,13 +212,13 @@ msgctxt "MeegoIntegration::AboutDialogWrapper|"
 msgid ""
 "<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 2 "
 "or (at your option) any later version.</div><div>qutIM resources such as "
-"themes, icons, sounds may come along with a different "
-"license.</div><br><hr><br>"
+"themes, icons, sounds may come along with a different license.</"
+"div><br><hr><br>"
 msgstr ""
 "<div><b>qutIM</b> %1 лицензирован под GNU General Public License, версии 2 "
 "или (по вашему желанию) любой поздней версией.</div><div>Ресурсы qutIM, "
-"такие как темы, пиктограммы, звуки могут поставляться с другой "
-"лицензией.</div><br><hr><br>"
+"такие как темы, пиктограммы, звуки могут поставляться с другой лицензией.</"
+"div><br><hr><br>"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/passworddialogwrapper.cpp:38
 msgctxt "MeegoIntegration::PasswordDialogWrapper|"
@@ -352,14 +353,4 @@ msgstr ""
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:76
 msgctxt "Plugin|"
 msgid "Simple accounts model"
-msgstr ""
-
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:78
-msgctxt "Plugin|"
-msgid "MeeGo settings"
-msgstr ""
-
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:79
-msgctxt "Plugin|"
-msgid "Simple MeeGo settings dialog"
 msgstr ""
