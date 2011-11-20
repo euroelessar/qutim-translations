@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-15 15:44+0000\n"
-"PO-Revision-Date: 2011-11-16 12:29+0000\n"
-"Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
+"PO-Revision-Date: 2011-11-19 17:31+0000\n"
+"Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-17 06:08+0000\n"
-"X-Generator: Launchpad (build 14291)\n"
+"X-Launchpad-Export-Date: 2011-11-20 06:08+0000\n"
+"X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -33,7 +33,7 @@ msgstr "Николай Изодёров"
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:62
 msgctxt "Plugin|"
 msgid "UrlPreview"
-msgstr ""
+msgstr "URL превью"
 
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:43
 msgctxt "Plugin|"
@@ -59,28 +59,28 @@ msgstr "Предпросмотр URL"
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:64
 msgctxt "UrlPreview::UrlHandler|"
 msgid "bytes"
-msgstr ""
+msgstr "байт(ов)"
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:229
 msgctxt "UrlPreview::UrlHandler|"
 msgid "YouTube video"
-msgstr ""
+msgstr "Видео YouTube"
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:232
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:265
 msgctxt "UrlPreview::UrlHandler|"
 msgid "Unknown"
-msgstr ""
+msgstr "Неизвестно"
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:242
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Audio"
-msgstr ""
+msgstr "HTML5 Аудио"
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:256
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Video"
-msgstr ""
+msgstr "HTML5 Видео"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:14
 msgctxt "UrlPreviewSettingsForm|"
@@ -100,7 +100,7 @@ msgstr "Максимальный размер рисунка "
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:36
 msgctxt "UrlPreviewSettingsForm|"
 msgid " bytes"
-msgstr ""
+msgstr " байт(ов)"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:49
 msgctxt "UrlPreviewSettingsForm|"
@@ -136,14 +136,14 @@ msgstr "Просмотр рисунка"
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:117
 msgctxt "UrlPreviewSettingsForm|"
 msgid "YouTube preview"
-msgstr ""
+msgstr "Превью ролика YouTube"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:127
 msgctxt "UrlPreviewSettingsForm|"
 msgid "HTML5 Audio"
-msgstr ""
+msgstr "HTML5 Аудио"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:137
 msgctxt "UrlPreviewSettingsForm|"
 msgid "HTML5 Video"
-msgstr ""
+msgstr "HTML5 Видео"
