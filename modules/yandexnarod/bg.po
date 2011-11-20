@@ -259,15 +259,6 @@ msgctxt "yandexnarodManageClass|"
 msgid "Delete File"
 msgstr "Изтриване на файл"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:210
-msgctxt "yandexnarodManageClass|"
-msgid ""
-"line1\n"
-"line2"
-msgstr ""
-"ред 1\n"
-"ред 2"
-
 #: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:252
 msgctxt "yandexnarodManageClass|"
 msgid "Close"
@@ -282,3 +273,11 @@ msgstr "Списък от файлове:"
 msgctxt "yandexnarodManageClass|"
 msgid "New Item"
 msgstr "Нов елемент"
+
+#~ msgctxt "yandexnarodManageClass|"
+#~ msgid ""
+#~ "line1\n"
+#~ "line2"
+#~ msgstr ""
+#~ "ред 1\n"
+#~ "ред 2"

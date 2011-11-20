@@ -21,17 +21,17 @@ msgctxt "Account|"
 msgid "Authorization failed"
 msgstr "Неуспешно удостоверяване"
 
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:69
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:70
 msgctxt "Account|"
 msgid "Add new account"
 msgstr "Добавяне на нова сметка"
 
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:70
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:71
 msgctxt "Account|"
 msgid "Just add or create new account"
 msgstr "Добавяне или създаване на нова сметка"
 
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:75
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:76
 msgctxt "Account|"
 msgid "Accounts"
 msgstr "Сметки"
@@ -471,24 +471,24 @@ msgctxt "Core|"
 msgid "About qutIM"
 msgstr "За qutIM"
 
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:145
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:146
 msgctxt "Core::AccountCreatorList|"
 msgid "Properties"
 msgstr "Свойства"
 
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:146
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:147
 msgctxt "Core::AccountCreatorList|"
 msgid "Account settings"
 msgstr "Настройки на сметката"
 
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:153
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:155
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:208
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:154
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:156
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:209
 msgctxt "Core::AccountCreatorList|"
 msgid "Remove account"
 msgstr "Премахване на сметка"
 
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:209
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:210
 #, qt-format
 msgctxt "Core::AccountCreatorList|"
 msgid "Are you sure want to remove %1"
@@ -1060,12 +1060,12 @@ msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
 msgstr "<b>Страница:</b> <a href=\"%1\">%1</a><br/>"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:153
+#: ../../../core/src/widgets/profilecreationpage.cpp:155
 msgctxt "Core::ProfileCreationPage|"
 msgid "Error"
 msgstr "Грешка"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:154
+#: ../../../core/src/widgets/profilecreationpage.cpp:156
 #, qt-format
 msgctxt "Core::ProfileCreationPage|"
 msgid ""
@@ -1075,23 +1075,23 @@ msgstr ""
 "Невъзможно е да бъде създадена директорията %1. Вероятно се опитвате да "
 "сторите това в защитена системна директория"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:167
-#: ../../../core/src/widgets/profilecreationpage.cpp:175
+#: ../../../core/src/widgets/profilecreationpage.cpp:169
+#: ../../../core/src/widgets/profilecreationpage.cpp:177
 msgctxt "Core::ProfileCreationPage|"
 msgid "Warning"
 msgstr "Внимание"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:168
+#: ../../../core/src/widgets/profilecreationpage.cpp:170
 msgctxt "Core::ProfileCreationPage|"
 msgid "Profile already exists, overwrite?"
 msgstr "Профилът вече съществува, желаете ли да бъде презаписан?"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:175
+#: ../../../core/src/widgets/profilecreationpage.cpp:177
 msgctxt "Core::ProfileCreationPage|"
 msgid "Unable to create profile hash"
 msgstr "Невъзможно е създаването на хеш за профила"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:298
+#: ../../../core/src/widgets/profilecreationpage.cpp:301
 msgctxt "Core::ProfileCreationPage|"
 msgid "Select path"
 msgstr "Избор на път"
@@ -1420,12 +1420,12 @@ msgctxt "Core::SimpleTray|"
 msgid "Blink icon in the tray"
 msgstr "Мигаща икона в системния поднос"
 
-#: ../../../core/src/widgets/submitpage.cpp:45
+#: ../../../core/src/widgets/submitpage.cpp:49
 msgctxt "Core::SubmitPage|"
 msgid "Congratulations"
 msgstr "Поздравления"
 
-#: ../../../core/src/widgets/submitpage.cpp:46
+#: ../../../core/src/widgets/submitpage.cpp:50
 msgctxt "Core::SubmitPage|"
 msgid ""
 "You've just created a profile for qutIM. Click Finish to proceed to adding "
@@ -1434,28 +1434,30 @@ msgstr ""
 "Току що създадохте профил в qutIM. Щракнете бутона \"Приключване\", за да "
 "продължите с добавянето на потребителски сметки"
 
-#: ../../../core/src/widgets/submitpage.cpp:49
+#: ../../../core/src/widgets/submitpage.cpp:52
+msgctxt "Core::SubmitPage|"
+msgid "Statistics gatherer"
+msgstr ""
+
+#: ../../../core/src/widgets/submitpage.cpp:53
+msgctxt "Core::SubmitPage|"
+msgid "Your system settings differ from the ones sent last time"
+msgstr ""
+
+#: ../../../core/src/widgets/submitpage.cpp:58
 msgctxt "Core::SubmitPage|"
 msgid "Would you like to send details about your current setup?"
 msgstr "Желаете ли да изпратите подробности за настоящата инсталация?"
 
-#: ../../../core/src/widgets/submitpage.cpp:50
+#: ../../../core/src/widgets/submitpage.cpp:60
+msgctxt "Core::SubmitPage|"
+msgid "Dont's ask me later"
+msgstr ""
+
+#: ../../../core/src/widgets/submitpage.cpp:62
 msgctxt "Core::SubmitPage|"
 msgid "Information to be transferred to the qutIM's authors:"
 msgstr "Информация, която бихте изпратили до авторите на qutIM:"
-
-#: ../../../core/src/widgets/submitpage.cpp:55
-#, qt-format
-msgctxt "Core::SubmitPage|"
-msgid ""
-"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br /"
-"><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br /"
-"><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
-msgstr ""
-"<b>Съкратено:</b> %1 <br /><b>Версия:</b> %2 <br /><b>Пълно:</b> %3 <br /"
-"><b>Версия на qutIM:</b> %4 <br /><b>Версия на Qt:</b> %5 (%6 bit) <br /"
-"><b>Разделителна способност на екрана:</b> %7 x %8 <br /><b>Системен локал:</"
-"b> %9<br />"
 
 #: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:264
 #, qt-format
@@ -3153,22 +3155,22 @@ msgstr ""
 "Неуспешно инициализиране на добавка: \n"
 " %1"
 
-#: ../../../core/libqutim/profile.cpp:123
+#: ../../../core/libqutim/profile.cpp:192
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Password is mismatched."
 msgstr "Сгрешена парола."
 
-#: ../../../core/libqutim/profile.cpp:125
+#: ../../../core/libqutim/profile.cpp:194
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Crypto service is unknown."
 msgstr "Неизвестна услуга за шифроване."
 
-#: ../../../core/libqutim/profile.cpp:127
+#: ../../../core/libqutim/profile.cpp:196
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Wrong profile id."
 msgstr "Сгрешен иденификатор на профил."
 
-#: ../../../core/libqutim/profile.cpp:160
+#: ../../../core/libqutim/profile.cpp:229
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Can't open file with hash"
 msgstr "Невъзможно е отварянето на хеша"
@@ -3177,6 +3179,19 @@ msgstr "Невъзможно е отварянето на хеша"
 msgctxt "qutim_sdk_0_3::SoundHandler|"
 msgid "Play sound"
 msgstr "Възпроизвеждане на звук"
+
+#: ../../../core/libqutim/statisticshelper.cpp:146
+#, fuzzy, qt-format
+msgctxt "qutim_sdk_0_3::StatisticsHelper|"
+msgid ""
+"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br /"
+"><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br /"
+"><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
+msgstr ""
+"<b>Съкратено:</b> %1 <br /><b>Версия:</b> %2 <br /><b>Пълно:</b> %3 <br /"
+"><b>Версия на qutIM:</b> %4 <br /><b>Версия на Qt:</b> %5 (%6 bit) <br /"
+"><b>Разделителна способност на екрана:</b> %7 x %8 <br /><b>Системен локал:</"
+"b> %9<br />"
 
 #: ../../../core/src/corelayers/contactinfo/userinformation.ui:14
 msgctxt "userInformationClass|"

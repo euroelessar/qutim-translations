@@ -249,13 +249,6 @@ msgctxt "yandexnarodManageClass|"
 msgid "Delete File"
 msgstr "Удалить файл"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:210
-msgctxt "yandexnarodManageClass|"
-msgid ""
-"line1\n"
-"line2"
-msgstr ""
-
 #: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:252
 msgctxt "yandexnarodManageClass|"
 msgid "Close"
