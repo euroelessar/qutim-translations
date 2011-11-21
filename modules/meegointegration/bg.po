@@ -15,6 +15,7 @@ msgstr ""
 "X-Qt-Contexts: true\n"
 "X-Language: bg\n"
 "X-Source-Language: C\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:30
 msgctxt "AboutDialog|"
@@ -24,17 +25,17 @@ msgstr "Затваряне"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:118
 msgctxt "AboutDialog|"
 msgid "Project site"
-msgstr ""
+msgstr "Страница на проекта"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:122
 msgctxt "AboutDialog|"
 msgid "Source code repository"
-msgstr ""
+msgstr "Хранилище на изходния код"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:126
 msgctxt "AboutDialog|"
 msgid "Bug tracker"
-msgstr ""
+msgstr "Проследяване на проблеми"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:140
 msgctxt "AboutDialog|"
@@ -219,28 +220,24 @@ msgstr "Запис в отметките"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:175
 msgctxt "Main|"
 msgid "Show/hide offline contacts"
-msgstr ""
+msgstr "Показване/Скриване на контактите извън линия"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:179
-#, fuzzy
 msgctxt "Main|"
 msgid "Join group chat"
 msgstr "Присъединяване към групов разговор"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:183
-#, fuzzy
 msgctxt "Main|"
 msgid "About qutIM"
 msgstr "За qutIM"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:187
-#, fuzzy
 msgctxt "Main|"
 msgid "Add contact"
 msgstr "Добавяне на контакт"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:191
-#, fuzzy
 msgctxt "Main|"
 msgid "Settings"
 msgstr "MeeGo настройки"
@@ -257,13 +254,13 @@ msgctxt "MeegoIntegration::AboutDialogWrapper|"
 msgid ""
 "<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 2 "
 "or (at your option) any later version.</div><div>qutIM resources such as "
-"themes, icons, sounds may come along with a different license.</"
-"div><br><hr><br>"
+"themes, icons, sounds may come along with a different "
+"license.</div><br><hr><br>"
 msgstr ""
 "<div><b>qutIM</b> %1 е лицензиран под GNU General Public License, версия 2 "
 "или (по ваше усмотрение) всяка последваща версия.</div><div>Ресурсите, които "
-"ползва qutIM напр. теми, икони, звуци могат да бъдат под друг лиценз.</"
-"div><br><hr><br>"
+"ползва qutIM напр. теми, икони, звуци могат да бъдат под друг "
+"лиценз.</div><br><hr><br>"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/passworddialogwrapper.cpp:38
 msgctxt "MeegoIntegration::PasswordDialogWrapper|"
@@ -392,15 +389,14 @@ msgid "Simple join group chat dialog"
 msgstr "Обикновен диалогов прозорец за присъединяване към групов разговор"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:76
-#, fuzzy
 msgctxt "Plugin|"
 msgid "MeeGo integration"
-msgstr "MeeGo настройки"
+msgstr "MeeGo интеграция"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:77
 msgctxt "Plugin|"
 msgid "Provider for better integration with the system"
-msgstr ""
+msgstr "Осигурява по-добра интеграция със системата"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:79
 msgctxt "Plugin|"
