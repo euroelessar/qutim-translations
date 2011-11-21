@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-15 15:44+0000\n"
-"PO-Revision-Date: 2011-11-15 16:49+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"PO-Revision-Date: 2011-11-19 16:55+0000\n"
+"Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-17 06:08+0000\n"
-"X-Generator: Launchpad (build 14291)\n"
+"X-Launchpad-Export-Date: 2011-11-20 06:08+0000\n"
+"X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -20,7 +20,7 @@ msgstr ""
 #: ../../../plugins/scriptapi/src/scriptplugin.cpp:113
 msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
-msgstr ""
+msgstr "Нигматуллин Руслан"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:44
 msgctxt "Ignorer|"
@@ -31,33 +31,33 @@ msgstr ""
 #: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:98
 msgctxt "Plugin|"
 msgid "Antispam"
-msgstr ""
+msgstr "Антиспам"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:37
 msgctxt "Plugin|"
 msgid "Blocks spam by qurstion-answer pair"
-msgstr ""
+msgstr "Блокировка спама до ответа на вопрос"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:26
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:39
 msgctxt "Plugin|"
 msgid "Ignorer"
-msgstr ""
+msgstr "Игнорер"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:27
 msgctxt "Plugin|"
 msgid "Ignores messages from certain persons"
-msgstr ""
+msgstr "Игнорирует сообщения от определённых людей"
 
 #: ../../../plugins/scriptapi/src/scriptplugin.cpp:116
 msgctxt "Plugin|"
 msgid "Script API"
-msgstr ""
+msgstr "Скриптовое API"
 
 #: ../../../plugins/scriptapi/src/scriptplugin.cpp:117
 msgctxt "Plugin|"
 msgid "Added ability to create plugins at JavaScript"
-msgstr ""
+msgstr "Добавляет возможность создавать плагины на JavaScript"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:41
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:31
@@ -72,38 +72,40 @@ msgid ""
 "Beer, wine, vodka, champagne: after which drink in this sequence I should "
 "stop?"
 msgstr ""
+"Пиво, вино, водка, шампусик: после чего из списка мне стоит прекратить на "
+"сегодня пить?"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:48
 msgctxt "plugin|"
 msgid "Vodka"
-msgstr ""
+msgstr "Водка"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:49
 msgctxt "plugin|"
 msgid "We are ready to drink with you!"
-msgstr ""
+msgstr "Мы готовы выпить с тобой, о юный падаван!"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:112
 msgctxt "plugin|"
 msgid "Enabled:"
-msgstr ""
+msgstr "Включено:"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:113
 msgctxt "plugin|"
 msgid "Block authorization requests:"
-msgstr ""
+msgstr "Перехватывать запросы авторизации:"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:114
 msgctxt "plugin|"
 msgid "Question:"
-msgstr ""
+msgstr "Вопрос:"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:115
 msgctxt "plugin|"
 msgid "Answers (semicolon as separator):"
-msgstr ""
+msgstr "Ответы (Точка с запятой в качестве разделителя)"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:116
 msgctxt "plugin|"
 msgid "Message on correct answer:"
-msgstr ""
+msgstr "Сообщение после правильного ответа:"
