@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-15 15:42+0000\n"
+"POT-Creation-Date: 2011-11-21 09:12+0000\n"
 "PO-Revision-Date: 2011-11-19 16:35+0000\n"
 "Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,9 +10,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-20 06:08+0000\n"
+"X-Launchpad-Export-Date: 2011-11-22 15:21+0000\n"
 "X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
+"Language: \n"
 "X-Language: ru\n"
 
 #: ../../../core/libqutim/account.cpp:145
@@ -3188,16 +3189,13 @@ msgid "Play sound"
 msgstr "Проиграть звук"
 
 #: ../../../core/libqutim/statisticshelper.cpp:146
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "qutim_sdk_0_3::StatisticsHelper|"
 msgid ""
-"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br /"
-"><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br /"
-"><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
+"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br "
+"/><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br "
+"/><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
 msgstr ""
-"<b>Кратко:</b> %1 <br /><b>Версия:</b> %2 <br /><b>Полностью:</b> %3 <br /"
-"><b>Версия qutIM:</b> %4 <br /><b>Версия библиотеки Qt:</b> %5 (%6 бит) <br /"
-"><b>Разрешение экрана:</b> %7 x %8 <br /><b>Системная локаль:</b> %9<br />"
 
 #: ../../../core/src/corelayers/contactinfo/userinformation.ui:14
 msgctxt "userInformationClass|"
