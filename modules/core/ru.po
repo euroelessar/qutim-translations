@@ -2,16 +2,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-15 15:42+0000\n"
+"POT-Creation-Date: 2011-11-21 09:12+0000\n"
 "PO-Revision-Date: 2011-11-19 16:35+0000\n"
 "Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-20 06:08+0000\n"
+"X-Launchpad-Export-Date: 2011-11-22 15:21+0000\n"
 "X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
+"Language: \n"
 "X-Language: ru\n"
 
 #: ../../../core/libqutim/account.cpp:145
@@ -19,17 +20,17 @@ msgctxt "Account|"
 msgid "Authorization failed"
 msgstr "Ошибка авторизации"
 
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:69
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:70
 msgctxt "Account|"
 msgid "Add new account"
 msgstr "Создать учетную запись"
 
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:70
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:71
 msgctxt "Account|"
 msgid "Just add or create new account"
 msgstr "Просто добавить или создать учетную запись"
 
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:75
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:76
 msgctxt "Account|"
 msgid "Accounts"
 msgstr "Учетные записи"
@@ -470,24 +471,24 @@ msgctxt "Core|"
 msgid "About qutIM"
 msgstr "О qutIM"
 
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:145
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:146
 msgctxt "Core::AccountCreatorList|"
 msgid "Properties"
 msgstr "Свойства"
 
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:146
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:147
 msgctxt "Core::AccountCreatorList|"
 msgid "Account settings"
 msgstr "Настройки учетной записи"
 
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:153
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:155
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:208
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:154
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:156
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:209
 msgctxt "Core::AccountCreatorList|"
 msgid "Remove account"
 msgstr "Удалить учетную запись"
 
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:209
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:210
 #, qt-format
 msgctxt "Core::AccountCreatorList|"
 msgid "Are you sure want to remove %1"
@@ -1058,12 +1059,12 @@ msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
 msgstr "<b>веб-страница:</b> <a href=\"%1\">%1</a><br/>"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:153
+#: ../../../core/src/widgets/profilecreationpage.cpp:155
 msgctxt "Core::ProfileCreationPage|"
 msgid "Error"
 msgstr "Ошибка"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:154
+#: ../../../core/src/widgets/profilecreationpage.cpp:156
 #, qt-format
 msgctxt "Core::ProfileCreationPage|"
 msgid ""
@@ -1073,23 +1074,23 @@ msgstr ""
 "Не удалось создать каталок %1. Возможно вы пытаетесь создать каталог в "
 "защищенной системной области"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:167
-#: ../../../core/src/widgets/profilecreationpage.cpp:175
+#: ../../../core/src/widgets/profilecreationpage.cpp:169
+#: ../../../core/src/widgets/profilecreationpage.cpp:177
 msgctxt "Core::ProfileCreationPage|"
 msgid "Warning"
 msgstr "Предупреждение"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:168
+#: ../../../core/src/widgets/profilecreationpage.cpp:170
 msgctxt "Core::ProfileCreationPage|"
 msgid "Profile already exists, overwrite?"
 msgstr "Профиль уже существует, перезаписать?"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:175
+#: ../../../core/src/widgets/profilecreationpage.cpp:177
 msgctxt "Core::ProfileCreationPage|"
 msgid "Unable to create profile hash"
 msgstr "Не удалось создать хэш профиля"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:298
+#: ../../../core/src/widgets/profilecreationpage.cpp:301
 msgctxt "Core::ProfileCreationPage|"
 msgid "Select path"
 msgstr "Укажите путь"
@@ -1419,12 +1420,12 @@ msgctxt "Core::SimpleTray|"
 msgid "Blink icon in the tray"
 msgstr "Мигание пиктограммы в области уведомлений"
 
-#: ../../../core/src/widgets/submitpage.cpp:45
+#: ../../../core/src/widgets/submitpage.cpp:49
 msgctxt "Core::SubmitPage|"
 msgid "Congratulations"
 msgstr "Поздравляем"
 
-#: ../../../core/src/widgets/submitpage.cpp:46
+#: ../../../core/src/widgets/submitpage.cpp:50
 msgctxt "Core::SubmitPage|"
 msgid ""
 "You've just created a profile for qutIM. Click Finish to proceed to adding "
@@ -1433,27 +1434,30 @@ msgstr ""
 "Профиль для qutIM успешно создан. Нажмите «Завершить» для добавления учетных "
 "записей в профиль"
 
-#: ../../../core/src/widgets/submitpage.cpp:49
+#: ../../../core/src/widgets/submitpage.cpp:52
+msgctxt "Core::SubmitPage|"
+msgid "Statistics gatherer"
+msgstr ""
+
+#: ../../../core/src/widgets/submitpage.cpp:53
+msgctxt "Core::SubmitPage|"
+msgid "Your system settings differ from the ones sent last time"
+msgstr ""
+
+#: ../../../core/src/widgets/submitpage.cpp:58
 msgctxt "Core::SubmitPage|"
 msgid "Would you like to send details about your current setup?"
 msgstr "Желаете отправить информацию об установке?"
 
-#: ../../../core/src/widgets/submitpage.cpp:50
+#: ../../../core/src/widgets/submitpage.cpp:60
+msgctxt "Core::SubmitPage|"
+msgid "Dont's ask me later"
+msgstr ""
+
+#: ../../../core/src/widgets/submitpage.cpp:62
 msgctxt "Core::SubmitPage|"
 msgid "Information to be transferred to the qutIM's authors:"
 msgstr "Информация для отправки разработчика qutIM:"
-
-#: ../../../core/src/widgets/submitpage.cpp:55
-#, qt-format
-msgctxt "Core::SubmitPage|"
-msgid ""
-"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br "
-"/><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br "
-"/><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
-msgstr ""
-"<b>Кратко:</b> %1 <br /><b>Версия:</b> %2 <br /><b>Полностью:</b> %3 <br "
-"/><b>Версия qutIM:</b> %4 <br /><b>Версия библиотеки Qt:</b> %5 (%6 бит) <br "
-"/><b>Разрешение экрана:</b> %7 x %8 <br /><b>Системная локаль:</b> %9<br />"
 
 #: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:264
 #, qt-format
@@ -3094,361 +3098,9 @@ msgctxt "emoticonsSelector|"
 msgid "Form"
 msgstr "Настройки"
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:51
-msgctxt "kb_Qwerty|"
-msgid "q"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:66
-msgctxt "kb_Qwerty|"
-msgid "qQ1§й"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:69
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:100
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:134
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:165
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:196
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:227
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:258
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:289
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:320
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:351
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:389
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:420
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:451
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:482
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:513
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:544
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:575
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:606
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:637
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:665
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:732
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:763
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:794
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:825
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:856
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:887
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:918
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:943
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1079
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1141
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1172
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:142
 msgctxt "kb_Qwerty|"
 msgid "bgDirectInput"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:85
-msgctxt "kb_Qwerty|"
-msgid "w"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:97
-msgctxt "kb_Qwerty|"
-msgid "wW2$ц"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:116
-msgctxt "kb_Qwerty|"
-msgid "e"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:131
-msgctxt "kb_Qwerty|"
-msgid "eE3£у"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:150
-msgctxt "kb_Qwerty|"
-msgid "r"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:162
-msgctxt "kb_Qwerty|"
-msgid "rR4€к"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:181
-msgctxt "kb_Qwerty|"
-msgid "t"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:193
-msgctxt "kb_Qwerty|"
-msgid "tT5¥е"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:212
-msgctxt "kb_Qwerty|"
-msgid "y"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:224
-msgctxt "kb_Qwerty|"
-msgid "yY6-н"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:243
-msgctxt "kb_Qwerty|"
-msgid "u"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:255
-msgctxt "kb_Qwerty|"
-msgid "uU7<г"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:274
-msgctxt "kb_Qwerty|"
-msgid "i"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:286
-msgctxt "kb_Qwerty|"
-msgid "iI8>ш"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:305
-msgctxt "kb_Qwerty|"
-msgid "o"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:317
-msgctxt "kb_Qwerty|"
-msgid "oO9[щ"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:336
-msgctxt "kb_Qwerty|"
-msgid "p"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:348
-msgctxt "kb_Qwerty|"
-msgid "pP0]з"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:374
-msgctxt "kb_Qwerty|"
-msgid "a"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:386
-msgctxt "kb_Qwerty|"
-msgid "aA({ф"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:405
-msgctxt "kb_Qwerty|"
-msgid "s"
-msgstr "с"
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:417
-msgctxt "kb_Qwerty|"
-msgid "sS)}ы"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:436
-msgctxt "kb_Qwerty|"
-msgid "d"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:448
-msgctxt "kb_Qwerty|"
-msgid "dD+^в"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:467
-msgctxt "kb_Qwerty|"
-msgid "f"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:479
-msgctxt "kb_Qwerty|"
-msgid "fF*\\а"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:498
-msgctxt "kb_Qwerty|"
-msgid "g"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:510
-msgctxt "kb_Qwerty|"
-msgid "gG=/п"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:529
-msgctxt "kb_Qwerty|"
-msgid "h"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:541
-msgctxt "kb_Qwerty|"
-msgid "hH&~р"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:560
-msgctxt "kb_Qwerty|"
-msgid "j"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:572
-msgctxt "kb_Qwerty|"
-msgid "jJ--о"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:591
-msgctxt "kb_Qwerty|"
-msgid "k"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:603
-msgctxt "kb_Qwerty|"
-msgid "kK__л"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:622
-msgctxt "kb_Qwerty|"
-msgid "l"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:634
-msgctxt "kb_Qwerty|"
-msgid "lL^|д"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:653
-msgctxt "kb_Qwerty|"
-msgid ":"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:662
-msgctxt "kb_Qwerty|"
-msgid ":;`№ж"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:717
-msgctxt "kb_Qwerty|"
-msgid "z"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:729
-msgctxt "kb_Qwerty|"
-msgid "zZёёя"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:748
-msgctxt "kb_Qwerty|"
-msgid "x"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:760
-msgctxt "kb_Qwerty|"
-msgid "xXъъч"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:779
-msgctxt "kb_Qwerty|"
-msgid "c"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:791
-msgctxt "kb_Qwerty|"
-msgid "cC??с"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:810
-msgctxt "kb_Qwerty|"
-msgid "v"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:822
-msgctxt "kb_Qwerty|"
-msgid "vV!!м"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:841
-msgctxt "kb_Qwerty|"
-msgid "b"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:853
-msgctxt "kb_Qwerty|"
-msgid "bB;;и"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:872
-msgctxt "kb_Qwerty|"
-msgid "n"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:884
-msgctxt "kb_Qwerty|"
-msgid "nN::т"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:903
-msgctxt "kb_Qwerty|"
-msgid "m"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:915
-msgctxt "kb_Qwerty|"
-msgid "mM,,ь"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:931
-msgctxt "kb_Qwerty|"
-msgid "?"
-msgstr "?"
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:940
-msgctxt "kb_Qwerty|"
-msgid "?!%%б"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1004
-msgctxt "kb_Qwerty|"
-msgid "1#"
-msgstr "1#"
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1029
-msgctxt "kb_Qwerty|"
-msgid ""
-"ru\n"
-"en"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1064
-msgctxt "kb_Qwerty|"
-msgid ","
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1076
-msgctxt "kb_Qwerty|"
-msgid ",(##х"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1126
-msgctxt "kb_Qwerty|"
-msgid "."
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1138
-msgctxt "kb_Qwerty|"
-msgid ".)''э"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1160
-msgctxt "kb_Qwerty|"
-msgid "\""
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:1169
-msgctxt "kb_Qwerty|"
-msgid "\"'@@ю"
 msgstr ""
 
 #: ../../../core/libqutim/contactsearch.cpp:85
@@ -3512,22 +3164,22 @@ msgstr ""
 "Не могу запустить плагин: \n"
 " %1"
 
-#: ../../../core/libqutim/profile.cpp:123
+#: ../../../core/libqutim/profile.cpp:192
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Password is mismatched."
 msgstr "Пароль не подходит."
 
-#: ../../../core/libqutim/profile.cpp:125
+#: ../../../core/libqutim/profile.cpp:194
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Crypto service is unknown."
 msgstr "Неизвестный  сервис шифрования."
 
-#: ../../../core/libqutim/profile.cpp:127
+#: ../../../core/libqutim/profile.cpp:196
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Wrong profile id."
 msgstr "Неправильный идентификатор профиля."
 
-#: ../../../core/libqutim/profile.cpp:160
+#: ../../../core/libqutim/profile.cpp:229
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Can't open file with hash"
 msgstr "Не получается открыть файл хэша."
@@ -3536,6 +3188,15 @@ msgstr "Не получается открыть файл хэша."
 msgctxt "qutim_sdk_0_3::SoundHandler|"
 msgid "Play sound"
 msgstr "Проиграть звук"
+
+#: ../../../core/libqutim/statisticshelper.cpp:146
+#, qt-format
+msgctxt "qutim_sdk_0_3::StatisticsHelper|"
+msgid ""
+"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br "
+"/><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br "
+"/><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactinfo/userinformation.ui:14
 msgctxt "userInformationClass|"
