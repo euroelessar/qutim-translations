@@ -19,6 +19,8 @@ include(MacroEnsureVersion)
 include(QutIMMacros)
 find_package(QutIM REQUIRED)
 
+find_package(Qt4 REQUIRED)
+
 set(LANG_DIR "${CMAKE_CURRENT_BINARY_DIR}/languages")
 file(MAKE_DIRECTORY ${LANG_DIR} )
 add_custom_target( translations ALL echo DEPENDS ${TRANSLATIONS_BINARY} )
