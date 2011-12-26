@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-21 09:14+0000\n"
-"PO-Revision-Date: 2011-11-15 16:49+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"PO-Revision-Date: 2011-12-25 07:08+0000\n"
+"Last-Translator: Andrey Smetanin <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:22+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2011-12-26 05:17+0000\n"
+"X-Generator: Launchpad (build 14560)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: ru\n"
@@ -107,7 +107,7 @@ msgstr "Имя:"
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:165
 msgctxt "ConfigPackagePage|"
 msgid "*"
-msgstr ""
+msgstr "*"
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:50
 msgctxt "ConfigPackagePage|"
@@ -262,12 +262,12 @@ msgstr ""
 #: ../../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp:86
 msgctxt "QObject|"
 msgid "No target filename has been given."
-msgstr ""
+msgstr "Не указан целевой файл."
 
 #: ../../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp:93
 msgctxt "QObject|"
 msgid "Already opened."
-msgstr ""
+msgstr "Файл уже открыт."
 
 #: ../../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp:103
 msgctxt "QObject|"
@@ -312,7 +312,7 @@ msgstr "Неправильная платформа"
 #: ../../../plugins/plugman/ui/manager.ui:20
 msgctxt "manager|"
 msgid "Plugman"
-msgstr ""
+msgstr "Plugman"
 
 #: ../../../plugins/plugman/ui/manager.ui:51
 msgctxt "manager|"
@@ -401,7 +401,7 @@ msgstr "Удалиние:"
 #, qt-format
 msgctxt "plugInstaller|"
 msgid "Unable to update package %1: installed version is later"
-msgstr ""
+msgstr "Невозможно обновить пакет %1: установленная версия новее"
 
 #: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:256
 #, qt-format
@@ -485,7 +485,7 @@ msgstr "Не удалось открыть файл"
 #: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:237
 msgctxt "plugXMLHandler|"
 msgid "Unable to set content"
-msgstr ""
+msgstr "Невозможно установить содержимое"
 
 #: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:145
 #: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:184
@@ -513,7 +513,7 @@ msgstr "не удалось открыть файл"
 #: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:208
 msgctxt "plugXMLHandler|"
 msgid "unable to set content"
-msgstr ""
+msgstr "невозможно установить содержимое"
 
 #: ../../../plugins/plugman/ui/settings.ui:20
 msgctxt "plugmanSettings|"
@@ -652,4 +652,4 @@ msgstr "Описание"
 #: ../../../plugins/plugman/oldsrc/plugmansettings.cpp:42
 msgctxt "plugmanSettings|"
 msgid "Url"
-msgstr ""
+msgstr "Url"
