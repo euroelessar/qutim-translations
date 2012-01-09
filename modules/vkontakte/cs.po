@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-21 09:15+0000\n"
-"PO-Revision-Date: 2011-11-15 16:51+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"PO-Revision-Date: 2012-01-08 23:43+0000\n"
+"Last-Translator: MiSi <kettis@volny.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:22+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-01-09 05:18+0000\n"
+"X-Generator: Launchpad (build 14640)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: cs\n"
@@ -19,29 +19,29 @@ msgstr ""
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbum/default/PhotoViewerCore/AlbumDelegate.qml:120
 msgctxt "AlbumDelegate|"
 msgid "Remove"
-msgstr ""
+msgstr "Odebrat"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:42
 #: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:42
 msgctxt "Author|"
 msgid "Alexey Sidorov"
-msgstr ""
+msgstr "Alexey Sidorov"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:42
 msgctxt "Author|"
 msgid "Sidorov Aleksey"
-msgstr ""
+msgstr "Sidorov Aleksey"
 
 #: ../../../protocols/vkontakte/src/vcontact.cpp:200
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:70
 msgctxt "ContactInfo|"
 msgid "Mobile phone"
-msgstr ""
+msgstr "Mobilní telefon"
 
 #: ../../../protocols/vkontakte/src/vcontact.cpp:204
 msgctxt "ContactInfo|"
 msgid "Activity"
-msgstr ""
+msgstr "Činnosti"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:61
 msgctxt "ContactInfo|"
@@ -51,7 +51,7 @@ msgstr "Přezdívka"
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:62
 msgctxt "ContactInfo|"
 msgid "First name"
-msgstr "Jméno"
+msgstr "Křestní jméno"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:63
 msgctxt "ContactInfo|"
@@ -66,12 +66,12 @@ msgstr "Pohlaví"
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:65
 msgctxt "ContactInfo|"
 msgid "Birthday"
-msgstr "Narozeniny"
+msgstr "Datum narození"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:66
 msgctxt "ContactInfo|"
 msgid "City"
-msgstr "Obec"
+msgstr "Město"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:67
 msgctxt "ContactInfo|"
@@ -81,12 +81,12 @@ msgstr "Stát"
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:68
 msgctxt "ContactInfo|"
 msgid "Photo"
-msgstr "Fotka"
+msgstr "Fotografie"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:69
 msgctxt "ContactInfo|"
 msgid "Home phone"
-msgstr ""
+msgstr "Telefon domů"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:71
 msgctxt "ContactInfo|"
@@ -101,12 +101,12 @@ msgstr "Fakulta"
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:73
 msgctxt "ContactInfo|"
 msgid "Graduation year"
-msgstr ""
+msgstr "Datum ukončení studia"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:80
 msgctxt "ContactInfo|"
 msgid "Undefined"
-msgstr ""
+msgstr "Nedefinováno"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:81
 msgctxt "ContactInfo|"
@@ -121,32 +121,32 @@ msgstr "Muž"
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:191
 msgctxt "ContactInfo|"
 msgid "General"
-msgstr "Obecné"
+msgstr "Obecně"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:193
 msgctxt "ContactInfo|"
 msgid "Person"
-msgstr ""
+msgstr "Osoba"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:208
 msgctxt "ContactInfo|"
 msgid "Home address"
-msgstr ""
+msgstr "Adresa domů"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:216
 msgctxt "ContactInfo|"
 msgid "Education"
-msgstr ""
+msgstr "Vzdělání"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:38
 msgctxt "Plugin|"
 msgid "Photoalbum"
-msgstr ""
+msgstr "Fotoalbum"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:39
 msgctxt "Plugin|"
 msgid "Vkontakte photoalbum support for qutIM"
-msgstr ""
+msgstr "Vkontakte photoalbum support pro qutIM"
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:38
 msgctxt "Plugin|"
@@ -161,22 +161,22 @@ msgstr ""
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:39
 msgctxt "Plugin|"
 msgid "Vkontakte"
-msgstr ""
+msgstr "Vkontakte"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:40
 msgctxt "Plugin|"
 msgid "Simple implementation of vkontakte, based on userapi.ru"
-msgstr ""
+msgstr "Snadná implementace vkontakte, založená na userapi.ru"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:51
 msgctxt "Plugin|"
 msgid "vkontakte"
-msgstr ""
+msgstr "vkontakte"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:52
 msgctxt "Plugin|"
 msgid "Simple implementation of vkontakte, based on desktop.api"
-msgstr ""
+msgstr "Snadná implementace vkontakte, založená na desktop.api"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:56
 msgctxt "Plugin|"
@@ -191,12 +191,12 @@ msgstr ""
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:60
 msgctxt "Plugin|"
 msgid "Proxy support"
-msgstr "Proxy podpora"
+msgstr "Podpora Proxy"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:61
 msgctxt "Plugin|"
 msgid "Proxy support for Vkontakte"
-msgstr ""
+msgstr "Podpora Proxy pro Vkontakte"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:43
 #: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:43
@@ -255,17 +255,17 @@ msgstr "%1 (Zeď)"
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:195
 msgctxt "VWallSessionPrivate|"
 msgid "Unknown"
-msgstr ""
+msgstr "Neznámé"
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:197
 msgctxt "VWallSessionPrivate|"
 msgid "Audio"
-msgstr ""
+msgstr "Zvuk"
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:199
 msgctxt "VWallSessionPrivate|"
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:201
 msgctxt "VWallSessionPrivate|"
@@ -326,7 +326,7 @@ msgstr "Poslat SMS"
 #: ../../../protocols/vkontakte/src/vkontakteprotocol.cpp:153
 msgctxt "VkontakteProtocolPrivate|"
 msgid "text:"
-msgstr ""
+msgstr "text:"
 
 #: ../../../protocols/vkontakte/src/vkontakteprotocol.cpp:159
 msgctxt "VkontakteProtocolPrivate|"
@@ -336,4 +336,4 @@ msgstr "SMS"
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbum/default/main.qml:108
 msgctxt "main|"
 msgid "Back"
-msgstr ""
+msgstr "Zpět"
