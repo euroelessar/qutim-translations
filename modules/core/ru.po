@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-21 09:12+0000\n"
-"PO-Revision-Date: 2011-12-24 11:51+0000\n"
+"PO-Revision-Date: 2012-01-12 15:58+0000\n"
 "Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-12-25 05:20+0000\n"
-"X-Generator: Launchpad (build 14560)\n"
+"X-Launchpad-Export-Date: 2012-01-13 05:24+0000\n"
+"X-Generator: Launchpad (build 14664)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: ru\n"
@@ -565,7 +565,7 @@ msgstr "Конференция %1 (%2)"
 #, qt-format
 msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "%1 - qutIM"
-msgstr ""
+msgstr "%1 - qutIM"
 
 #: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:56
 msgctxt "Core::AdiumChat::ChatAppearance|"
@@ -898,7 +898,7 @@ msgstr "Поиск контактов:"
 #, qt-format
 msgctxt "Core::MetaContacts::MergeDialog|"
 msgid "%1 - qutIM"
-msgstr ""
+msgstr "%1 - qutIM"
 
 #: ../../../core/src/corelayers/metacontacts/model.cpp:95
 msgctxt "Core::MetaContacts::Model|"
@@ -1441,7 +1441,7 @@ msgstr ""
 #: ../../../core/src/widgets/submitpage.cpp:53
 msgctxt "Core::SubmitPage|"
 msgid "Your system settings differ from the ones sent last time"
-msgstr ""
+msgstr "Настройки системы отличаются от отправленных ранее"
 
 #: ../../../core/src/widgets/submitpage.cpp:58
 msgctxt "Core::SubmitPage|"
@@ -1616,7 +1616,7 @@ msgstr "Назад"
 #: ../../../core/src/corelayers/jsonhistory/historywindow.ui:133
 msgctxt "HistoryWindowClass|"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../../core/src/corelayers/idlestatuschanger/idlestatuswidget.ui:14
 msgctxt "IdleStatusWidget|"
@@ -3196,6 +3196,9 @@ msgid ""
 "/><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br "
 "/><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
 msgstr ""
+"<b>Кратко:</b> %1 <br /><b>Версия:</b> %2 <br /><b>Полностью:</b> %3 <br "
+"/><b>Версия qutIM:</b> %4 <br /><b>Версия библиотеки Qt:</b> %5 (%6 бит) <br "
+"/><b>Разрешение экрана:</b> %7 x %8 <br /><b>Системная локаль:</b> %9<br />"
 
 #: ../../../core/src/corelayers/contactinfo/userinformation.ui:14
 msgctxt "userInformationClass|"

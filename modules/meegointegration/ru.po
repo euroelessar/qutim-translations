@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-21 09:14+0000\n"
-"PO-Revision-Date: 2011-11-17 18:27+0000\n"
-"Last-Translator: Andrey <Unknown>\n"
+"PO-Revision-Date: 2012-01-12 12:56+0000\n"
+"Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:21+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-01-13 05:24+0000\n"
+"X-Generator: Launchpad (build 14664)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: ru\n"
@@ -24,7 +24,7 @@ msgstr "Закрыть"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:118
 msgctxt "AboutDialog|"
 msgid "Project site"
-msgstr ""
+msgstr "Сайт проекта"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:122
 msgctxt "AboutDialog|"
@@ -219,27 +219,27 @@ msgstr "Сохранить в закладки"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:175
 msgctxt "Main|"
 msgid "Show/hide offline contacts"
-msgstr ""
+msgstr "Показать/скрыть отключенных"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:179
 msgctxt "Main|"
 msgid "Join group chat"
-msgstr ""
+msgstr "Войти в чат"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:183
 msgctxt "Main|"
 msgid "About qutIM"
-msgstr ""
+msgstr "О qutIM"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:187
 msgctxt "Main|"
 msgid "Add contact"
-msgstr ""
+msgstr "Добавить контакт"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:191
 msgctxt "Main|"
 msgid "Settings"
-msgstr ""
+msgstr "Настройки"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/aboutdialogwrapper.cpp:53
 #, qt-format
@@ -394,7 +394,7 @@ msgstr ""
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:77
 msgctxt "Plugin|"
 msgid "Provider for better integration with the system"
-msgstr ""
+msgstr "Модуль улучшения интеграции в систему"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:79
 msgctxt "Plugin|"

@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-21 09:14+0000\n"
-"PO-Revision-Date: 2011-11-15 16:48+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"PO-Revision-Date: 2012-01-12 13:07+0000\n"
+"Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:22+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-01-13 05:25+0000\n"
+"X-Generator: Launchpad (build 14664)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: ru\n"
@@ -39,7 +39,7 @@ msgstr "Сохранить пароль"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:563
 msgctxt "Affiliation|"
 msgid "Alumni Org."
-msgstr ""
+msgstr "Выпускники"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:564
 msgctxt "Affiliation|"
@@ -49,17 +49,17 @@ msgstr "Благотворительная орг-я"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:565
 msgctxt "Affiliation|"
 msgid "Club/Social Org."
-msgstr ""
+msgstr "Клубы по интересам"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:566
 msgctxt "Affiliation|"
 msgid "Community Org."
-msgstr ""
+msgstr "Общественные организации"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:567
 msgctxt "Affiliation|"
 msgid "Cultural Org."
-msgstr ""
+msgstr "Культурные организации"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:568
 msgctxt "Affiliation|"
@@ -79,7 +79,7 @@ msgstr "Любители хобби"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:571
 msgctxt "Affiliation|"
 msgid "International Org."
-msgstr ""
+msgstr "Международные организации"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:572
 msgctxt "Affiliation|"
@@ -89,7 +89,7 @@ msgstr "Природа и окружающая среда"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:573
 msgctxt "Affiliation|"
 msgid "Professional Org."
-msgstr ""
+msgstr "Профессиональные организации"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:574
 msgctxt "Affiliation|"
@@ -99,7 +99,7 @@ msgstr "Научная организация"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:575
 msgctxt "Affiliation|"
 msgid "Self Improvement Group"
-msgstr ""
+msgstr "Клубы по саморазвитию"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:576
 msgctxt "Affiliation|"
@@ -2061,7 +2061,7 @@ msgstr "Астрономия"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:295
 msgctxt "Interest|"
 msgid "Audio and Visual"
-msgstr ""
+msgstr "Аудио и видео"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:296
 msgctxt "Interest|"
@@ -2745,7 +2745,7 @@ msgstr "Телефон"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:647
 msgctxt "MetaInfo|"
 msgid "GMT"
-msgstr ""
+msgstr "GMT"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:648
 msgctxt "MetaInfo|"
@@ -3387,7 +3387,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/connection.cpp:98
 msgctxt "ProtocolError|"
 msgid "Not while on AOL"
-msgstr ""
+msgstr "Не в AOL"
 
 #: ../../../protocols/oscar/src/connection.cpp:100
 msgctxt "ProtocolError|"
