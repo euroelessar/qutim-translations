@@ -14,6 +14,8 @@ msgstr ""
 "X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Source-Language: C\n"
 
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:96
 msgctxt "Author|"
@@ -23,7 +25,11 @@ msgstr "Руслан Нигматуллин"
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:99
 msgctxt "Author|"
 msgid "Aleksey Sidorov"
-msgstr ""
+msgstr "Алексей Сидоров"
+
+#~ msgctxt "Author|"
+#~ msgid "Sidorov Aleksey"
+#~ msgstr "Алексей Сидоров"
 
 #: ../../../plugins/kdeintegration/src/aboutapp/kdeaboutappdialog.cpp:45
 msgctxt "Core|"
@@ -144,7 +150,3 @@ msgstr "Разработчик"
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"
-
-#~ msgctxt "Author|"
-#~ msgid "Sidorov Aleksey"
-#~ msgstr "Алексей Сидоров"

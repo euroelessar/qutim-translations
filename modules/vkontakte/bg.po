@@ -14,6 +14,8 @@ msgstr ""
 "X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Source-Language: C\n"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbum/default/PhotoViewerCore/AlbumDelegate.qml:120
 msgctxt "AlbumDelegate|"
@@ -27,10 +29,13 @@ msgid "Alexey Sidorov"
 msgstr "Алексей Сидоров"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:42
-#, fuzzy
 msgctxt "Author|"
 msgid "Aleksey Sidorov"
 msgstr "Алексей Сидоров"
+
+#~ msgctxt "Author|"
+#~ msgid "Sidorov Aleksey"
+#~ msgstr "Алексей Сидоров"
 
 #: ../../../protocols/vkontakte/src/vcontact.cpp:197
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:70
@@ -322,10 +327,6 @@ msgstr "id"
 msgctxt "main|"
 msgid "Back"
 msgstr "Назад"
-
-#~ msgctxt "Author|"
-#~ msgid "Sidorov Aleksey"
-#~ msgstr "Алексей Сидоров"
 
 #~ msgctxt "VkontakteProtocolPrivate|"
 #~ msgid "Send sms"

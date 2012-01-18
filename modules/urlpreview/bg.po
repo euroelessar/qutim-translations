@@ -14,6 +14,8 @@ msgstr ""
 "X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Source-Language: C\n"
 
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:46
 msgctxt "Author|"
@@ -23,12 +25,16 @@ msgstr "Александър Казарин"
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:49
 msgctxt "Author|"
 msgid "Aleksey Sidorov"
-msgstr ""
+msgstr "Алексей Сидоров"
 
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:53
 msgctxt "Author|"
 msgid "Nicolay Izoderov"
 msgstr "Николай Изодеров"
+
+#~ msgctxt "Author|"
+#~ msgid "Sidorov Aleksey"
+#~ msgstr "Алексей Сидоров"
 
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:42
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:62
@@ -148,7 +154,3 @@ msgstr "HTML5 звук"
 msgctxt "UrlPreviewSettingsForm|"
 msgid "HTML5 Video"
 msgstr "HTML5 видео"
-
-#~ msgctxt "Author|"
-#~ msgid "Sidorov Aleksey"
-#~ msgstr "Алексей Сидоров"
