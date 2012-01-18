@@ -1386,7 +1386,7 @@
 </phrase>
 <phrase>
     <source>Show avatars</source>
-    <target>Показване на аватари</target>
+    <target>Да се показват аватари</target>
 </phrase>
 <phrase>
     <source>Look&apos;n&apos;Feel</source>
@@ -3191,5 +3191,17 @@
 <phrase>
     <source>Sidorov Aleksey</source>
     <target>Алексей Сидоров</target>
+</phrase>
+<phrase>
+    <source>Images (*.png *.xpm *.jpg *.bmp *.gif)</source>
+    <target>Изображения (*.png *.xpm *.jpg *.bmp *.gif)</target>
+</phrase>
+<phrase>
+    <source>Chat</source>
+    <target>Разговор</target>
+</phrase>
+<phrase>
+    <source>Color:</source>
+    <target>Цвят:</target>
 </phrase>
 </QPH>

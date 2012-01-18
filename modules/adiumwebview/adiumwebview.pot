@@ -3,6 +3,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: bg_BG\n"
+"X-Source-Language: C\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:353
