@@ -7,7 +7,7 @@ msgstr ""
 
 #: ../../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp:42
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
+msgid "Aleksey Sidorov"
 msgstr ""
 
 #: ../../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp:38

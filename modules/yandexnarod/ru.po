@@ -13,58 +13,57 @@ msgstr ""
 "X-Launchpad-Export-Date: 2011-11-22 15:22+0000\n"
 "X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
 "X-Language: ru\n"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:54
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:56
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
-msgstr "Сидоров Алексей"
+msgid "Aleksey Sidorov"
+msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:58
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:60
 msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr "Нигматуллин Руслан"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:61
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:63
 msgctxt "Author|"
 msgid "Alexey Prokhin"
 msgstr "Прохин Алексей"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:64
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:66
 msgctxt "Author|"
 msgid "Alexander Kazarin"
 msgstr "Казарин Александр"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:50
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:52
 msgctxt "Plugin|"
 msgid "YandexNarod"
 msgstr "Я.Народ"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:51
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:68
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:53
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:70
 msgctxt "Plugin|"
 msgid "Send files via Yandex.Narod filehosting service"
 msgstr "Отправить файл через Яндекс.Диск"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:67
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:69
 msgctxt "Plugin|"
 msgid "Yandex.Narod"
 msgstr "Я.Народ"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:55
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:59
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:57
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:61
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Разработчик"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:62
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:65
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:64
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:67
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:78
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:80
 msgctxt "Yandex|"
 msgid "Yandex Narod"
 msgstr "Я.Народ"
@@ -100,17 +99,17 @@ msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid login or/and password"
 msgstr "Неверный логин или пароль"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:201
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:203
 msgctxt "YandexNarodFactory|"
 msgid "Yandex.Narod"
 msgstr "Яндекс.Народ"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodmanage.cpp:34
+#: ../../../plugins/yandexnarod/src/yandexnarodmanage.cpp:35
 msgctxt "YandexNarodManager|"
 msgid "Yandex.Narod file manager"
 msgstr "Управление файлами Yandex.Narod"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodnetman.cpp:149
+#: ../../../plugins/yandexnarod/src/yandexnarodnetman.cpp:150
 msgctxt "YandexNarodNetMan|"
 msgid "Authorizing..."
 msgstr "Авторизация..."
@@ -155,10 +154,10 @@ msgid ""
 "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
 "family:'Verdana'; font-size:8pt;\"></p></body></html>"
 msgstr ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
-"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-"type=\"text/css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:'Liberation Sans'; font-size:10pt; "
 "font-weight:400; font-style:normal;\">\n"
@@ -181,23 +180,23 @@ msgctxt "YandexNarodSettingsClass|"
 msgid "Manage files"
 msgstr "Управление файлами"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:134
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:136
 msgctxt "YandexNarodUploadJob|"
 msgid "Authorizing..."
 msgstr "Идет процесс авторизации..."
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:157
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:159
 msgctxt "YandexNarodUploadJob|"
 msgid "Getting storage..."
 msgstr "Получаем адрес хранилища..."
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:221
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:223
 #, qt-format
 msgctxt "YandexNarodUploadJob|"
 msgid "Could not open file %1"
 msgstr "Не удалось открыть файл %1"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:345
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:347
 msgctxt "YandexNarodUploadJob|Don't remove format arguments"
 msgid ""
 "File sent: %N (%S bytes)\n"
@@ -275,3 +274,7 @@ msgstr "Список файлов:"
 msgctxt "yandexnarodManageClass|"
 msgid "New Item"
 msgstr "Новый"
+
+#~ msgctxt "Author|"
+#~ msgid "Sidorov Aleksey"
+#~ msgstr "Сидоров Алексей"

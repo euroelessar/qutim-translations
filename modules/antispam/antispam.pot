@@ -76,7 +76,7 @@ msgstr ""
 
 #: ../../../plugins/antispam/src/antispamplugin.cpp:49
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
+msgid "Aleksey Sidorov"
 msgstr ""
 
 #: ../../../plugins/antispam/src/antispamplugin.cpp:53

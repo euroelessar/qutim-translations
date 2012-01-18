@@ -13,7 +13,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2011-11-22 15:22+0000\n"
 "X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
 
@@ -24,7 +23,7 @@ msgstr ""
 
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:49
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
+msgid "Aleksey Sidorov"
 msgstr ""
 
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:53
@@ -64,23 +63,23 @@ msgctxt "UrlPreview::UrlHandler|"
 msgid "bytes"
 msgstr "Bytes"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:229
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:241
 msgctxt "UrlPreview::UrlHandler|"
 msgid "YouTube video"
 msgstr "YouTube-Video"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:232
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:265
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:244
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:277
 msgctxt "UrlPreview::UrlHandler|"
 msgid "Unknown"
 msgstr "Unbekannt"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:242
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:254
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Audio"
 msgstr ""
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:256
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:268
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Video"
 msgstr ""

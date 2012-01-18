@@ -7,7 +7,7 @@ msgstr ""
 
 #: ../../../plugins/logger/src/logger.cpp:80
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
+msgid "Aleksey Sidorov"
 msgstr ""
 
 #: ../../../plugins/logger/src/logger.cpp:97

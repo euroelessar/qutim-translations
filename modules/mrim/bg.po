@@ -13,7 +13,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2011-11-24 06:00+0000\n"
 "X-Generator: Launchpad (build 14336)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
 "X-Language: bg\n"
 
 #: ../../../protocols/mrim/src/ui/wizards/accountwizardmain.ui:14
@@ -86,37 +85,37 @@ msgstr ""
 "Неуспешно удостоверяване!\n"
 "Причина: %1"
 
-#: ../../../protocols/mrim/src/base/messages.cpp:154
+#: ../../../protocols/mrim/src/base/messages.cpp:155
 msgctxt "MrimMessages|"
 msgid "No such user"
 msgstr "Няма такъв потребител"
 
-#: ../../../protocols/mrim/src/base/messages.cpp:157
+#: ../../../protocols/mrim/src/base/messages.cpp:158
 msgctxt "MrimMessages|"
 msgid "Message too large"
 msgstr "Съобщението е твърде голямо"
 
-#: ../../../protocols/mrim/src/base/messages.cpp:160
+#: ../../../protocols/mrim/src/base/messages.cpp:161
 msgctxt "MrimMessages|"
 msgid "Limit exceeded"
 msgstr "Надхвърлен лимит"
 
-#: ../../../protocols/mrim/src/base/messages.cpp:163
+#: ../../../protocols/mrim/src/base/messages.cpp:164
 msgctxt "MrimMessages|"
 msgid "User denied receiving offline messages"
 msgstr "Потребителят не приема съобщения, когато е извън линия"
 
-#: ../../../protocols/mrim/src/base/messages.cpp:166
+#: ../../../protocols/mrim/src/base/messages.cpp:167
 msgctxt "MrimMessages|"
 msgid "User denied receiving offline flash movies"
 msgstr "Потребителят не приема flash филми, когато е извън линия"
 
-#: ../../../protocols/mrim/src/base/messages.cpp:169
+#: ../../../protocols/mrim/src/base/messages.cpp:170
 msgctxt "MrimMessages|"
 msgid "Internal error"
 msgstr "Вътрешна грешка"
 
-#: ../../../protocols/mrim/src/base/messages.cpp:178
+#: ../../../protocols/mrim/src/base/messages.cpp:179
 msgctxt "MrimMessages|"
 msgid "Message was not delivered!"
 msgstr "Съобщението не бе доставено!"

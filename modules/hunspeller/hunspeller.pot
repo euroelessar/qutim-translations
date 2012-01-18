@@ -27,7 +27,7 @@ msgctxt "Plugin|"
 msgid "Check spelling by HunSpell library"
 msgstr ""
 
-#: ../../../plugins/hunspeller/src/hunspellchecker.cpp:53
+#: ../../../plugins/hunspeller/src/hunspellchecker.cpp:54
 msgctxt "Settings|"
 msgid "Spell checker"
 msgstr ""

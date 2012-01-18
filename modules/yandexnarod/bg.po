@@ -13,58 +13,57 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-01-13 05:25+0000\n"
 "X-Generator: Launchpad (build 14664)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
 "X-Language: bg\n"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:54
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:56
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
-msgstr "Алексей Сидоров"
+msgid "Aleksey Sidorov"
+msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:58
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:60
 msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr "Руслан Нигматуллин"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:61
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:63
 msgctxt "Author|"
 msgid "Alexey Prokhin"
 msgstr "Алексей Прохин"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:64
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:66
 msgctxt "Author|"
 msgid "Alexander Kazarin"
 msgstr "Александър Казарин"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:50
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:52
 msgctxt "Plugin|"
 msgid "YandexNarod"
 msgstr "Yandex.Narod файлов организатор"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:51
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:68
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:53
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:70
 msgctxt "Plugin|"
 msgid "Send files via Yandex.Narod filehosting service"
 msgstr "Изпращане на файлoве чрез Yandex.Narod"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:67
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:69
 msgctxt "Plugin|"
 msgid "Yandex.Narod"
 msgstr "Yandex.Narod"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:55
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:59
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:57
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:61
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Разработчик"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:62
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:65
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:64
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:67
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:78
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:80
 msgctxt "Yandex|"
 msgid "Yandex Narod"
 msgstr "Yandex.Narod"
@@ -99,17 +98,17 @@ msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid login or/and password"
 msgstr "Невалидни потребителско име и/или парола"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:201
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:203
 msgctxt "YandexNarodFactory|"
 msgid "Yandex.Narod"
 msgstr "Yandex.Narod"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodmanage.cpp:34
+#: ../../../plugins/yandexnarod/src/yandexnarodmanage.cpp:35
 msgctxt "YandexNarodManager|"
 msgid "Yandex.Narod file manager"
 msgstr "Yandex.Narod файлов организатор"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodnetman.cpp:149
+#: ../../../plugins/yandexnarod/src/yandexnarodnetman.cpp:150
 msgctxt "YandexNarodNetMan|"
 msgid "Authorizing..."
 msgstr "Удостоверяване..."
@@ -180,23 +179,23 @@ msgctxt "YandexNarodSettingsClass|"
 msgid "Manage files"
 msgstr "Упраление на файловете"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:134
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:136
 msgctxt "YandexNarodUploadJob|"
 msgid "Authorizing..."
 msgstr "Удостоверяване..."
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:157
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:159
 msgctxt "YandexNarodUploadJob|"
 msgid "Getting storage..."
 msgstr "Получаване на хранилището..."
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:221
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:223
 #, qt-format
 msgctxt "YandexNarodUploadJob|"
 msgid "Could not open file %1"
 msgstr "Файлът %1 не може да бъде отворен"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:345
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:347
 msgctxt "YandexNarodUploadJob|Don't remove format arguments"
 msgid ""
 "File sent: %N (%S bytes)\n"
@@ -274,3 +273,7 @@ msgstr "Списък от файлове:"
 msgctxt "yandexnarodManageClass|"
 msgid "New Item"
 msgstr "Нов елемент"
+
+#~ msgctxt "Author|"
+#~ msgid "Sidorov Aleksey"
+#~ msgstr "Алексей Сидоров"

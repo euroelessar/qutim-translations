@@ -13,7 +13,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2011-11-22 15:20+0000\n"
 "X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
 "X-Language: ru\n"
 
 #: ../../../plugins/antispam/src/antispamplugin.cpp:42
@@ -91,8 +90,8 @@ msgstr "vodka;Vodka;водка;Водка;wodka;Wodka"
 
 #: ../../../plugins/antispam/src/antispamplugin.cpp:49
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
-msgstr "Сидоров Алексей"
+msgid "Aleksey Sidorov"
+msgstr ""
 
 #: ../../../plugins/antispam/src/antispamplugin.cpp:53
 msgctxt "Plugin|"
@@ -114,3 +113,7 @@ msgstr "Пользователь %1 подозревается в рассылк
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"
+
+#~ msgctxt "Author|"
+#~ msgid "Sidorov Aleksey"
+#~ msgstr "Сидоров Алексей"

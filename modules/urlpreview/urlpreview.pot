@@ -12,7 +12,7 @@ msgstr ""
 
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:49
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
+msgid "Aleksey Sidorov"
 msgstr ""
 
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:53
@@ -52,23 +52,23 @@ msgctxt "UrlPreview::UrlHandler|"
 msgid "bytes"
 msgstr ""
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:229
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:241
 msgctxt "UrlPreview::UrlHandler|"
 msgid "YouTube video"
 msgstr ""
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:232
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:265
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:244
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:277
 msgctxt "UrlPreview::UrlHandler|"
 msgid "Unknown"
 msgstr ""
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:242
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:254
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Audio"
 msgstr ""
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:256
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:268
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Video"
 msgstr ""

@@ -13,7 +13,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2011-11-22 15:22+0000\n"
 "X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
 "X-Language: bg\n"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbum/default/PhotoViewerCore/AlbumDelegate.qml:120
@@ -28,17 +27,18 @@ msgid "Alexey Sidorov"
 msgstr "Алексей Сидоров"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:42
+#, fuzzy
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
+msgid "Aleksey Sidorov"
 msgstr "Алексей Сидоров"
 
-#: ../../../protocols/vkontakte/src/vcontact.cpp:200
+#: ../../../protocols/vkontakte/src/vcontact.cpp:197
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:70
 msgctxt "ContactInfo|"
 msgid "Mobile phone"
 msgstr "Телефон (моб.)"
 
-#: ../../../protocols/vkontakte/src/vcontact.cpp:204
+#: ../../../protocols/vkontakte/src/vcontact.cpp:201
 msgctxt "ContactInfo|"
 msgid "Activity"
 msgstr "Дейност"
@@ -241,7 +241,7 @@ msgctxt "VAccountWizardPage|"
 msgid "Save password"
 msgstr "Запис на паролата"
 
-#: ../../../protocols/vkontakte/src/vconnection.cpp:105
+#: ../../../protocols/vkontakte/src/vconnection.cpp:116
 msgctxt "VConnection|"
 msgid "qutIM - VKontakte authorization"
 msgstr "qutIM -ВКонтакте удостоверяване"
@@ -318,22 +318,23 @@ msgctxt "VkontakteProtocol|"
 msgid "id"
 msgstr "id"
 
-#: ../../../protocols/vkontakte/src/vkontakteprotocol.cpp:152
-msgctxt "VkontakteProtocolPrivate|"
-msgid "Send sms"
-msgstr "Изпращане на SMS"
-
-#: ../../../protocols/vkontakte/src/vkontakteprotocol.cpp:153
-msgctxt "VkontakteProtocolPrivate|"
-msgid "text:"
-msgstr "текст:"
-
-#: ../../../protocols/vkontakte/src/vkontakteprotocol.cpp:159
-msgctxt "VkontakteProtocolPrivate|"
-msgid "sms"
-msgstr "SMS"
-
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbum/default/main.qml:108
 msgctxt "main|"
 msgid "Back"
 msgstr "Назад"
+
+#~ msgctxt "Author|"
+#~ msgid "Sidorov Aleksey"
+#~ msgstr "Алексей Сидоров"
+
+#~ msgctxt "VkontakteProtocolPrivate|"
+#~ msgid "Send sms"
+#~ msgstr "Изпращане на SMS"
+
+#~ msgctxt "VkontakteProtocolPrivate|"
+#~ msgid "text:"
+#~ msgstr "текст:"
+
+#~ msgctxt "VkontakteProtocolPrivate|"
+#~ msgid "sms"
+#~ msgstr "SMS"

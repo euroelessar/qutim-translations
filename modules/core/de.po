@@ -13,7 +13,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-01-03 05:48+0000\n"
 "X-Generator: Launchpad (build 14616)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
 
@@ -109,22 +108,22 @@ msgctxt "AddContact|"
 msgid "Name:"
 msgstr "Name:"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:59
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:61
 msgctxt "AddContact|"
 msgid "Remove from roster"
 msgstr "Aus der Kontaktliste entfernen"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:60
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:62
 msgctxt "AddContact|"
 msgid "Add to roster"
 msgstr "Zur Kontaktliste hinzufügen"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:106
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:123
 msgctxt "AddContact|"
 msgid "Unavailable"
 msgstr ""
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:226
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:248
 msgctxt "AddContact|"
 msgid "Remove contact"
 msgstr "Kontakt löschen"
@@ -154,12 +153,7 @@ msgid ""
 "family:'Droid Sans';\"></p></body></html>"
 msgstr ""
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:94
-msgctxt "Author|"
-msgid "Perova Gala"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:98
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:89
 msgctxt "Author|"
 msgid "Rederick Asher"
 msgstr ""
@@ -168,7 +162,7 @@ msgstr ""
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:42
 #: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:44
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
+msgid "Aleksey Sidorov"
 msgstr ""
 
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:38
@@ -214,33 +208,33 @@ msgctxt "ChatLayer|"
 msgid "Previous chat"
 msgstr "Vorheriger Tab"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:60
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:59
 msgctxt "ChatLayer|"
 msgid "Insert Emoticon"
 msgstr "Emoticon einfügen"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:112
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:103
 msgctxt "ChatLayer|"
 msgid "Show Emoticons"
 msgstr "Emoticons anzeigen"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:117
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:132
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:108
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:123
 msgctxt "ChatLayer|"
 msgid "Quote"
 msgstr "Zitieren"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:122
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:113
 msgctxt "ChatLayer|"
 msgid "Clear Chat"
 msgstr "Nachrichtenfenster leeren"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:139
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:130
 msgctxt "ChatLayer|"
 msgid "Clear chat"
 msgstr "Nachrichtenfenster leeren"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:142
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:133
 msgctxt "ChatLayer|"
 msgid "Clear chat field"
 msgstr "Nachrichtenfenster leeren"
@@ -314,37 +308,37 @@ msgctxt "ContactInfo|"
 msgid "no"
 msgstr "Nein"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:94
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:111
 msgctxt "ContactInfo|"
 msgid "Information unavailable"
 msgstr "Keine Informationen"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:187
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:209
 msgctxt "ContactInfo|"
 msgid "Show information"
 msgstr "Benutzerinformationen"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:188
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:210
 msgctxt "ContactInfo|"
 msgid "Edit information"
 msgstr "Benutzerinfo bearbeiten"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:70
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:87
 msgctxt "ContactList|"
 msgid "Copy id to clipboard"
 msgstr "ID in die Zwischenablage kopieren"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:79
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:96
 msgctxt "ContactList|"
 msgid "Edit tags"
 msgstr "Tags bearbeiten"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:89
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:106
 msgctxt "ContactList|"
 msgid "Rename contact"
 msgstr "Umbenennen"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:113
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:130
 msgctxt "ContactList|"
 msgid "Enable/disable sound"
 msgstr "Klänge aktivieren/deaktivieren"
@@ -474,12 +468,12 @@ msgstr "Kontoeinstellungen"
 
 #: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:154
 #: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:156
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:209
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:210
 msgctxt "Core::AccountCreatorList|"
 msgid "Remove account"
 msgstr "Konto löschen"
 
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:210
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:211
 #, qt-format
 msgctxt "Core::AccountCreatorList|"
 msgid "Are you sure want to remove %1"
@@ -557,66 +551,10 @@ msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "%1 - qutIM"
 msgstr ""
 
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:56
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Vasya Pupkin"
-msgstr "Irgend Jemand"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:67
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Noname"
-msgstr "Du Selbst"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:132
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:215
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Unable to create chat session"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:219
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Preview message"
-msgstr "Völlig belangloses popup"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:226
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Hello!"
-msgstr "Hallo!"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:229
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "How are you?"
-msgstr "Wie gehts denn so?"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:232
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "I am fine!"
-msgstr "Super!"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:235
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "/me is thinking!"
-msgstr "/me denkt nach!"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:238
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Vasya Pupkin is reading you mind"
-msgstr "Irgend Jemand ändert seine Statusnachricht"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:255
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Style variant:"
-msgstr "Stilvarianten:"
-
 #: ../../../core/src/corelayers/adiumchat/chatlayer/actions/chatemoticonswidget.cpp:73
 msgctxt "Core::AdiumChat::ChatEmoticonsWidget|"
 msgid "Close"
 msgstr "Schließen"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatvariable.cpp:42
-msgctxt "Core::AdiumChat::ChatFont|"
-msgid "Change"
-msgstr "Ändern"
 
 #: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:90
 msgctxt "Core::AdiumChat::ConferenceContactsView|"
@@ -1241,19 +1179,19 @@ msgstr ""
 "oder höher veröffentlicht.</div><div>Teile von qutIM (wie z.B. Themes, "
 "Icons, Sounds) haben möglicherweise andere Lizenzen.</div><br><hr><br>"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:170
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:192
 #, qt-format
 msgctxt "Core::SimpleActions|"
 msgid "Rename contact %1"
 msgstr "Kontakt %1 umbenennen"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:171
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:193
 #, qt-format
 msgctxt "Core::SimpleActions|"
 msgid "Input new name for contact %1"
 msgstr "Neuen Namen für Kontakt %1 eingeben"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:227
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:249
 #, qt-format
 msgctxt "Core::SimpleActions|"
 msgid "Are you sure you want to delete a contact %1 from the roster?"
@@ -1628,6 +1566,19 @@ msgctxt "InformationRequest|"
 msgid "Unknown error"
 msgstr "Unbekannter Fehler"
 
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:75
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:153
+#, fuzzy
+msgctxt "Jabber|"
+msgid "Join conference"
+msgstr "Benutzer betritt den Chatraum"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:76
+#, fuzzy
+msgctxt "Jabber|"
+msgid "Leave conference"
+msgstr "Benutzer verlässt den Chatraum"
+
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:17
 msgctxt "JoinChat|"
 msgid "Join groupchat"
@@ -1673,7 +1624,7 @@ msgctxt "JoinChatDialog|"
 msgid "Join"
 msgstr "Eintreten"
 
-#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.cpp:167
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.cpp:224
 msgctxt "JoinChatDialog|"
 msgid "New chat"
 msgstr "Neuer Chatraum"
@@ -1816,12 +1767,12 @@ msgctxt "LineEdit|"
 msgid "Clear search field"
 msgstr ""
 
-#: ../../../core/src/corelayers/localization/localizationsettings.cpp:58
+#: ../../../core/src/corelayers/localization/localizationsettings.cpp:59
 msgctxt "Localization|Localized language name"
 msgid "<Language>"
 msgstr "Deutsch"
 
-#: ../../../core/src/corelayers/localization/localizationsettings.cpp:61
+#: ../../../core/src/corelayers/localization/localizationsettings.cpp:62
 msgctxt ""
 "Localization|Localized country name, empty if localization is country-"
 "independent"
@@ -2088,27 +2039,15 @@ msgctxt "Plugin|"
 msgid "Default qutIM account creator"
 msgstr "Standardmodul zum Konten erstellen"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:84
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:83
 msgctxt "Plugin|"
 msgid "Webkit chat layer"
 msgstr ""
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:85
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:84
 msgctxt "Plugin|"
 msgid "Default qutIM chat implementation, based on Adium chat styles"
 msgstr "Standardmodul für die Chatansicht, basierend auf Adium Chatstyles"
-
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:90
-msgctxt "Plugin|"
-msgid "Time modifier"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:91
-msgctxt "Plugin|"
-msgid ""
-"Modifier for %time% and %timeOpened% param, based on Apple's documentation"
-msgstr ""
-"Ändert %time% und %timeOpened% Parameter, basierend auf Apples Dokumentation"
 
 #: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:36
 msgctxt "Plugin|"
@@ -2453,7 +2392,7 @@ msgctxt "QObject|"
 msgid "Ignore"
 msgstr "Ignorieren"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:157
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:179
 #, qt-format
 msgctxt "QObject|"
 msgid "Copy %1 to clipboard"
@@ -2590,7 +2529,6 @@ msgctxt "Settings|"
 msgid "Accounts"
 msgstr "Konten"
 
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/webkitviewfactory.cpp:42
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatform.cpp:46
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatform.cpp:44
 msgctxt "Settings|"
@@ -2960,13 +2898,13 @@ msgctxt "Status|"
 msgid "Unknown"
 msgstr "Unbekannt"
 
-#: ../../../core/libqutim/personinfo.cpp:219
+#: ../../../core/libqutim/personinfo.cpp:199
 msgctxt "TRANSLATORS|"
 msgid "Your names"
 msgstr "Martin Häckel"
 
-#: ../../../core/libqutim/personinfo.cpp:220
-#: ../../../core/libqutim/personinfo.cpp:221
+#: ../../../core/libqutim/personinfo.cpp:200
+#: ../../../core/libqutim/personinfo.cpp:201
 msgctxt "TRANSLATORS|"
 msgid "Your emails"
 msgstr "martinhaeckel@gmx.de"
@@ -3027,13 +2965,12 @@ msgctxt "TagsFilterDialog|"
 msgid "Select tags"
 msgstr "Tags auswählen"
 
-#: ../../../core/libqutim/personinfo.cpp:224
+#: ../../../core/libqutim/personinfo.cpp:204
 msgctxt "Task|"
 msgid "Translator"
 msgstr "Übersetzer"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:95
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:99
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:90
 msgctxt "Task|"
 msgid "Artist"
 msgstr "Künstler"
@@ -3055,16 +2992,6 @@ msgctxt "ToolTip|"
 msgid "Account"
 msgstr "Konto"
 
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.ui:14
-msgctxt "chatAppearance|"
-msgid "Form"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.ui:49
-msgctxt "chatAppearance|"
-msgid "about:blank"
-msgstr ""
-
 #: ../../../core/src/corelayers/emoticonssettings/emoticonsselector.ui:14
 msgctxt "emoticonsSelector|"
 msgid "Form"
@@ -3075,7 +3002,7 @@ msgctxt "kb_Qwerty|"
 msgid "bgDirectInput"
 msgstr ""
 
-#: ../../../core/libqutim/contactsearch.cpp:85
+#: ../../../core/libqutim/contactsearch.cpp:86
 msgctxt "qutim_sdk_0_3::ContactSearchRequest|"
 msgid "Add contact"
 msgstr "Kontakt hinzufügen"
@@ -3165,9 +3092,9 @@ msgstr ""
 #, qt-format
 msgctxt "qutim_sdk_0_3::StatisticsHelper|"
 msgid ""
-"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br "
-"/><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br "
-"/><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
+"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br /"
+"><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br /"
+"><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
 msgstr ""
 
 #: ../../../core/src/corelayers/contactinfo/userinformation.ui:14
@@ -3189,3 +3116,50 @@ msgstr "Speichern"
 msgctxt "userInformationClass|"
 msgid "Close"
 msgstr "Schließen"
+
+#~ msgctxt "Core::AdiumChat::ChatAppearance|"
+#~ msgid "Vasya Pupkin"
+#~ msgstr "Irgend Jemand"
+
+#~ msgctxt "Core::AdiumChat::ChatAppearance|"
+#~ msgid "Noname"
+#~ msgstr "Du Selbst"
+
+#~ msgctxt "Core::AdiumChat::ChatAppearance|"
+#~ msgid "Preview message"
+#~ msgstr "Völlig belangloses popup"
+
+#~ msgctxt "Core::AdiumChat::ChatAppearance|"
+#~ msgid "Hello!"
+#~ msgstr "Hallo!"
+
+#~ msgctxt "Core::AdiumChat::ChatAppearance|"
+#~ msgid "How are you?"
+#~ msgstr "Wie gehts denn so?"
+
+#~ msgctxt "Core::AdiumChat::ChatAppearance|"
+#~ msgid "I am fine!"
+#~ msgstr "Super!"
+
+#~ msgctxt "Core::AdiumChat::ChatAppearance|"
+#~ msgid "/me is thinking!"
+#~ msgstr "/me denkt nach!"
+
+#~ msgctxt "Core::AdiumChat::ChatAppearance|"
+#~ msgid "Vasya Pupkin is reading you mind"
+#~ msgstr "Irgend Jemand ändert seine Statusnachricht"
+
+#~ msgctxt "Core::AdiumChat::ChatAppearance|"
+#~ msgid "Style variant:"
+#~ msgstr "Stilvarianten:"
+
+#~ msgctxt "Core::AdiumChat::ChatFont|"
+#~ msgid "Change"
+#~ msgstr "Ändern"
+
+#~ msgctxt "Plugin|"
+#~ msgid ""
+#~ "Modifier for %time% and %timeOpened% param, based on Apple's documentation"
+#~ msgstr ""
+#~ "Ändert %time% und %timeOpened% Parameter, basierend auf Apples "
+#~ "Dokumentation"

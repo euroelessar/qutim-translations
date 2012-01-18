@@ -13,13 +13,12 @@ msgstr ""
 "X-Launchpad-Export-Date: 2011-11-22 15:22+0000\n"
 "X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
 "X-Language: ru\n"
 
 #: ../../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp:42
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
-msgstr "Сидоров Алексей"
+msgid "Aleksey Sidorov"
+msgstr ""
 
 #: ../../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp:38
 msgctxt "Plugin|"
@@ -35,3 +34,7 @@ msgstr "Плагин сохраняет непрочитанные сообще�
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Разработчик"
+
+#~ msgctxt "Author|"
+#~ msgid "Sidorov Aleksey"
+#~ msgstr "Сидоров Алексей"

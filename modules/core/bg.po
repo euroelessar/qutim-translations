@@ -13,7 +13,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2011-11-22 15:20+0000\n"
 "X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
 "X-Language: bg\n"
 "X-Source-Language: C\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -110,22 +109,22 @@ msgctxt "AddContact|"
 msgid "Name:"
 msgstr "Име:"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:59
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:61
 msgctxt "AddContact|"
 msgid "Remove from roster"
 msgstr "Премахване от списъка"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:60
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:62
 msgctxt "AddContact|"
 msgid "Add to roster"
 msgstr "Добавяне в списъка"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:106
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:123
 msgctxt "AddContact|"
 msgid "Unavailable"
 msgstr "Недостъпен"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:226
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:248
 msgctxt "AddContact|"
 msgid "Remove contact"
 msgstr "Премахване на контакта"
@@ -143,34 +142,29 @@ msgstr "Текстов етикет"
 #: ../../../core/src/corelayers/authdialog/authdialog.ui:33
 msgctxt "AuthDialog|"
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
-"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-"type=\"text/css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; "
-"font-weight:400; font-style:normal;\">\n"
+"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
 "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-"font-family:'Droid Sans';\"></p></body></html>"
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
+"family:'Droid Sans';\"></p></body></html>"
 msgstr ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
-"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-"type=\"text/css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; "
-"font-weight:400; font-style:normal;\">\n"
+"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
 "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-"font-family:'Droid Sans';\"></p></body></html>"
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
+"family:'Droid Sans';\"></p></body></html>"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:94
-msgctxt "Author|"
-msgid "Perova Gala"
-msgstr "Гала Перова"
-
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:98
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:89
 msgctxt "Author|"
 msgid "Rederick Asher"
 msgstr "Редерик Ашър"
@@ -179,8 +173,8 @@ msgstr "Редерик Ашър"
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:42
 #: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:44
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
-msgstr "Алексей Сидоров"
+msgid "Aleksey Sidorov"
+msgstr ""
 
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:38
 msgctxt "Author|"
@@ -225,33 +219,33 @@ msgctxt "ChatLayer|"
 msgid "Previous chat"
 msgstr "Предходен разговор"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:60
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:59
 msgctxt "ChatLayer|"
 msgid "Insert Emoticon"
 msgstr "Вмъкване на емотикона"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:112
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:103
 msgctxt "ChatLayer|"
 msgid "Show Emoticons"
 msgstr "Да се показват емотикони"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:117
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:132
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:108
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:123
 msgctxt "ChatLayer|"
 msgid "Quote"
 msgstr "Цитиране"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:122
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:113
 msgctxt "ChatLayer|"
 msgid "Clear Chat"
 msgstr "Изчистване на разговора"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:139
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:130
 msgctxt "ChatLayer|"
 msgid "Clear chat"
 msgstr "Изчистване на разговора"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:142
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:133
 msgctxt "ChatLayer|"
 msgid "Clear chat field"
 msgstr "Изчистване полето на разговора"
@@ -325,37 +319,37 @@ msgctxt "ContactInfo|"
 msgid "no"
 msgstr "Не"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:94
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:111
 msgctxt "ContactInfo|"
 msgid "Information unavailable"
 msgstr "Не е достъпна информация"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:187
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:209
 msgctxt "ContactInfo|"
 msgid "Show information"
 msgstr "Показване на информация"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:188
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:210
 msgctxt "ContactInfo|"
 msgid "Edit information"
 msgstr "Редактиране на информацията"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:70
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:87
 msgctxt "ContactList|"
 msgid "Copy id to clipboard"
 msgstr "Копиране в клипборда"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:79
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:96
 msgctxt "ContactList|"
 msgid "Edit tags"
 msgstr "Редактиране на етикети"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:89
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:106
 msgctxt "ContactList|"
 msgid "Rename contact"
 msgstr "Преименуване на контакта"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:113
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:130
 msgctxt "ContactList|"
 msgid "Enable/disable sound"
 msgstr "Включване/Изключване на звука"
@@ -485,12 +479,12 @@ msgstr "Настройки на сметката"
 
 #: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:154
 #: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:156
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:209
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:210
 msgctxt "Core::AccountCreatorList|"
 msgid "Remove account"
 msgstr "Премахване на сметка"
 
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:210
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:211
 #, qt-format
 msgctxt "Core::AccountCreatorList|"
 msgid "Are you sure want to remove %1"
@@ -568,66 +562,10 @@ msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "%1 - qutIM"
 msgstr "%1 - qutIM"
 
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:56
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Vasya Pupkin"
-msgstr "Вася Пупкин"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:67
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Noname"
-msgstr "Безименен"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:132
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:215
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Unable to create chat session"
-msgstr "Невъзможно е създаването на сесия за разговор"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:219
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Preview message"
-msgstr "Предварителен преглед на съобщението"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:226
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Hello!"
-msgstr "Здравей!"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:229
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "How are you?"
-msgstr "Как си?"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:232
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "I am fine!"
-msgstr "Бивам!"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:235
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "/me is thinking!"
-msgstr "/me мисли!"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:238
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Vasya Pupkin is reading you mind"
-msgstr "Вася Пупкин чете мислите ви"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:255
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Style variant:"
-msgstr "Вариант на стила:"
-
 #: ../../../core/src/corelayers/adiumchat/chatlayer/actions/chatemoticonswidget.cpp:73
 msgctxt "Core::AdiumChat::ChatEmoticonsWidget|"
 msgid "Close"
 msgstr "Затваряне"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatvariable.cpp:42
-msgctxt "Core::AdiumChat::ChatFont|"
-msgid "Change"
-msgstr "Промяна"
 
 #: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:90
 msgctxt "Core::AdiumChat::ConferenceContactsView|"
@@ -1249,27 +1187,27 @@ msgctxt "Core::SimpleAboutDialog|"
 msgid ""
 "<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 2 "
 "or (at your option) any later version.</div><div>qutIM resources such as "
-"themes, icons, sounds may come along with a different "
-"license.</div><br><hr><br>"
+"themes, icons, sounds may come along with a different license.</"
+"div><br><hr><br>"
 msgstr ""
 "<div><b>qutIM</b> %1 е лицензиран под GNU General Public License, версия 2 "
 "или (по ваше усмотрение) всяка последваща версия.</div><div>Ресурсите, които "
-"ползва qutIM напр. теми, икони, звуци могат да бъдат под друг "
-"лиценз.</div><br><hr><br>"
+"ползва qutIM напр. теми, икони, звуци могат да бъдат под друг лиценз.</"
+"div><br><hr><br>"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:170
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:192
 #, qt-format
 msgctxt "Core::SimpleActions|"
 msgid "Rename contact %1"
 msgstr "Преименуване на контакта %1"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:171
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:193
 #, qt-format
 msgctxt "Core::SimpleActions|"
 msgid "Input new name for contact %1"
 msgstr "Въведете ново име за контакта %1"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:227
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:249
 #, qt-format
 msgctxt "Core::SimpleActions|"
 msgid "Are you sure you want to delete a contact %1 from the roster?"
@@ -1645,6 +1583,19 @@ msgctxt "InformationRequest|"
 msgid "Unknown error"
 msgstr "Неизвестна грешка"
 
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:75
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:153
+#, fuzzy
+msgctxt "Jabber|"
+msgid "Join conference"
+msgstr "Контакт се присъединява към конференция"
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:76
+#, fuzzy
+msgctxt "Jabber|"
+msgid "Leave conference"
+msgstr "Контакт напуска конференция"
+
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:17
 msgctxt "JoinChat|"
 msgid "Join groupchat"
@@ -1690,7 +1641,7 @@ msgctxt "JoinChatDialog|"
 msgid "Join"
 msgstr "Присъединяване"
 
-#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.cpp:167
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.cpp:224
 msgctxt "JoinChatDialog|"
 msgid "New chat"
 msgstr "Нов разговор"
@@ -1833,15 +1784,15 @@ msgctxt "LineEdit|"
 msgid "Clear search field"
 msgstr "Изчистване полето за търсене"
 
-#: ../../../core/src/corelayers/localization/localizationsettings.cpp:58
+#: ../../../core/src/corelayers/localization/localizationsettings.cpp:59
 msgctxt "Localization|Localized language name"
 msgid "<Language>"
 msgstr "Български"
 
-#: ../../../core/src/corelayers/localization/localizationsettings.cpp:61
+#: ../../../core/src/corelayers/localization/localizationsettings.cpp:62
 msgctxt ""
-"Localization|Localized country name, empty if localization is "
-"country-independent"
+"Localization|Localized country name, empty if localization is country-"
+"independent"
 msgid "<Country>"
 msgstr "България"
 
@@ -2105,30 +2056,17 @@ msgctxt "Plugin|"
 msgid "Default qutIM account creator"
 msgstr "Създаване на сметка в qutIM по подразбиране"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:84
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:83
 msgctxt "Plugin|"
 msgid "Webkit chat layer"
 msgstr "WebKit слой за разговор"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:85
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:84
 msgctxt "Plugin|"
 msgid "Default qutIM chat implementation, based on Adium chat styles"
 msgstr ""
 "Подразбираща се за qutIM реализация на разговор. На базата на Adium стилове "
 "за разговора"
-
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:90
-msgctxt "Plugin|"
-msgid "Time modifier"
-msgstr "Редактиране на време"
-
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:91
-msgctxt "Plugin|"
-msgid ""
-"Modifier for %time% and %timeOpened% param, based on Apple's documentation"
-msgstr ""
-"Модифициране на %time% и %timeOpened% параметри, на базата на документацията "
-"на Apple"
 
 #: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:36
 msgctxt "Plugin|"
@@ -2476,7 +2414,7 @@ msgctxt "QObject|"
 msgid "Ignore"
 msgstr "Пренебрегване"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:157
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:179
 #, qt-format
 msgctxt "QObject|"
 msgid "Copy %1 to clipboard"
@@ -2613,7 +2551,6 @@ msgctxt "Settings|"
 msgid "Accounts"
 msgstr "Сметки"
 
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/webkitviewfactory.cpp:42
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatform.cpp:46
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatform.cpp:44
 msgctxt "Settings|"
@@ -2982,13 +2919,13 @@ msgctxt "Status|"
 msgid "Unknown"
 msgstr "Неизвестен"
 
-#: ../../../core/libqutim/personinfo.cpp:219
+#: ../../../core/libqutim/personinfo.cpp:199
 msgctxt "TRANSLATORS|"
 msgid "Your names"
 msgstr "Боян Г. Киров"
 
-#: ../../../core/libqutim/personinfo.cpp:220
-#: ../../../core/libqutim/personinfo.cpp:221
+#: ../../../core/libqutim/personinfo.cpp:200
+#: ../../../core/libqutim/personinfo.cpp:201
 msgctxt "TRANSLATORS|"
 msgid "Your emails"
 msgstr "boyan.kiroff@gmail.com"
@@ -3048,13 +2985,12 @@ msgctxt "TagsFilterDialog|"
 msgid "Select tags"
 msgstr "Избор на етикети"
 
-#: ../../../core/libqutim/personinfo.cpp:224
+#: ../../../core/libqutim/personinfo.cpp:204
 msgctxt "Task|"
 msgid "Translator"
 msgstr "Преводач"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:95
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:99
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:90
 msgctxt "Task|"
 msgid "Artist"
 msgstr "Артист"
@@ -3076,16 +3012,6 @@ msgctxt "ToolTip|"
 msgid "Account"
 msgstr "Сметка"
 
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.ui:14
-msgctxt "chatAppearance|"
-msgid "Form"
-msgstr "Облик на разговора"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.ui:49
-msgctxt "chatAppearance|"
-msgid "about:blank"
-msgstr "about:blank"
-
 #: ../../../core/src/corelayers/emoticonssettings/emoticonsselector.ui:14
 msgctxt "emoticonsSelector|"
 msgid "Form"
@@ -3096,7 +3022,7 @@ msgctxt "kb_Qwerty|"
 msgid "bgDirectInput"
 msgstr "Директно въвеждане"
 
-#: ../../../core/libqutim/contactsearch.cpp:85
+#: ../../../core/libqutim/contactsearch.cpp:86
 msgctxt "qutim_sdk_0_3::ContactSearchRequest|"
 msgid "Add contact"
 msgstr "Добавяне на контакт"
@@ -3186,14 +3112,14 @@ msgstr "Възпроизвеждане на звук"
 #, qt-format
 msgctxt "qutim_sdk_0_3::StatisticsHelper|"
 msgid ""
-"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br "
-"/><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br "
-"/><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
+"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br /"
+"><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br /"
+"><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
 msgstr ""
-"<b>Съкратено:</b> %1 <br /><b>Версия:</b> %2 <br /><b>Пълно:</b> %3 <br "
-"/><b>Версия на qutIM:</b> %4 <br /><b>Версия на Qt:</b> %5 (%6 bit) <br "
-"/><b>Разделителна способност на екрана:</b> %7 x %8 <br /><b>Системен "
-"локал:</b> %9<br />"
+"<b>Съкратено:</b> %1 <br /><b>Версия:</b> %2 <br /><b>Пълно:</b> %3 <br /"
+"><b>Версия на qutIM:</b> %4 <br /><b>Версия на Qt:</b> %5 (%6 bit) <br /"
+"><b>Разделителна способност на екрана:</b> %7 x %8 <br /><b>Системен локал:</"
+"b> %9<br />"
 
 #: ../../../core/src/corelayers/contactinfo/userinformation.ui:14
 msgctxt "userInformationClass|"
@@ -3214,3 +3140,74 @@ msgstr "Запис"
 msgctxt "userInformationClass|"
 msgid "Close"
 msgstr "Затваряне"
+
+#~ msgctxt "Author|"
+#~ msgid "Perova Gala"
+#~ msgstr "Гала Перова"
+
+#~ msgctxt "Author|"
+#~ msgid "Sidorov Aleksey"
+#~ msgstr "Алексей Сидоров"
+
+#~ msgctxt "Core::AdiumChat::ChatAppearance|"
+#~ msgid "Vasya Pupkin"
+#~ msgstr "Вася Пупкин"
+
+#~ msgctxt "Core::AdiumChat::ChatAppearance|"
+#~ msgid "Noname"
+#~ msgstr "Безименен"
+
+#~ msgctxt "Core::AdiumChat::ChatAppearance|"
+#~ msgid "Unable to create chat session"
+#~ msgstr "Невъзможно е създаването на сесия за разговор"
+
+#~ msgctxt "Core::AdiumChat::ChatAppearance|"
+#~ msgid "Preview message"
+#~ msgstr "Предварителен преглед на съобщението"
+
+#~ msgctxt "Core::AdiumChat::ChatAppearance|"
+#~ msgid "Hello!"
+#~ msgstr "Здравей!"
+
+#~ msgctxt "Core::AdiumChat::ChatAppearance|"
+#~ msgid "How are you?"
+#~ msgstr "Как си?"
+
+#~ msgctxt "Core::AdiumChat::ChatAppearance|"
+#~ msgid "I am fine!"
+#~ msgstr "Бивам!"
+
+#~ msgctxt "Core::AdiumChat::ChatAppearance|"
+#~ msgid "/me is thinking!"
+#~ msgstr "/me мисли!"
+
+#~ msgctxt "Core::AdiumChat::ChatAppearance|"
+#~ msgid "Vasya Pupkin is reading you mind"
+#~ msgstr "Вася Пупкин чете мислите ви"
+
+#~ msgctxt "Core::AdiumChat::ChatAppearance|"
+#~ msgid "Style variant:"
+#~ msgstr "Вариант на стила:"
+
+#~ msgctxt "Core::AdiumChat::ChatFont|"
+#~ msgid "Change"
+#~ msgstr "Промяна"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Time modifier"
+#~ msgstr "Редактиране на време"
+
+#~ msgctxt "Plugin|"
+#~ msgid ""
+#~ "Modifier for %time% and %timeOpened% param, based on Apple's documentation"
+#~ msgstr ""
+#~ "Модифициране на %time% и %timeOpened% параметри, на базата на "
+#~ "документацията на Apple"
+
+#~ msgctxt "chatAppearance|"
+#~ msgid "Form"
+#~ msgstr "Облик на разговора"
+
+#~ msgctxt "chatAppearance|"
+#~ msgid "about:blank"
+#~ msgstr "about:blank"

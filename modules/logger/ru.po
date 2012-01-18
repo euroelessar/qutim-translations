@@ -13,13 +13,12 @@ msgstr ""
 "X-Launchpad-Export-Date: 2011-11-22 15:21+0000\n"
 "X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
 "X-Language: ru\n"
 
 #: ../../../plugins/logger/src/logger.cpp:80
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
-msgstr "Сидоров Алексей"
+msgid "Aleksey Sidorov"
+msgstr ""
 
 #: ../../../plugins/logger/src/logger.cpp:97
 msgctxt "Logger::LoggerPlugin|"
@@ -52,3 +51,7 @@ msgstr "Включить dump отладочной информации"
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"
+
+#~ msgctxt "Author|"
+#~ msgid "Sidorov Aleksey"
+#~ msgstr "Сидоров Алексей"

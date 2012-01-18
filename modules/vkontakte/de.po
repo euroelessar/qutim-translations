@@ -13,7 +13,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2011-11-22 15:22+0000\n"
 "X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
 
@@ -30,16 +29,16 @@ msgstr ""
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:42
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
+msgid "Aleksey Sidorov"
 msgstr ""
 
-#: ../../../protocols/vkontakte/src/vcontact.cpp:200
+#: ../../../protocols/vkontakte/src/vcontact.cpp:197
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:70
 msgctxt "ContactInfo|"
 msgid "Mobile phone"
 msgstr "Handy"
 
-#: ../../../protocols/vkontakte/src/vcontact.cpp:204
+#: ../../../protocols/vkontakte/src/vcontact.cpp:201
 msgctxt "ContactInfo|"
 msgid "Activity"
 msgstr "Tätigkeit"
@@ -242,7 +241,7 @@ msgctxt "VAccountWizardPage|"
 msgid "Save password"
 msgstr "Passwort speichern"
 
-#: ../../../protocols/vkontakte/src/vconnection.cpp:105
+#: ../../../protocols/vkontakte/src/vconnection.cpp:116
 msgctxt "VConnection|"
 msgid "qutIM - VKontakte authorization"
 msgstr "qutIM - VKontakte Autorisierung"
@@ -319,22 +318,11 @@ msgctxt "VkontakteProtocol|"
 msgid "id"
 msgstr ""
 
-#: ../../../protocols/vkontakte/src/vkontakteprotocol.cpp:152
-msgctxt "VkontakteProtocolPrivate|"
-msgid "Send sms"
-msgstr "SMS senden"
-
-#: ../../../protocols/vkontakte/src/vkontakteprotocol.cpp:153
-msgctxt "VkontakteProtocolPrivate|"
-msgid "text:"
-msgstr ""
-
-#: ../../../protocols/vkontakte/src/vkontakteprotocol.cpp:159
-msgctxt "VkontakteProtocolPrivate|"
-msgid "sms"
-msgstr ""
-
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbum/default/main.qml:108
 msgctxt "main|"
 msgid "Back"
 msgstr ""
+
+#~ msgctxt "VkontakteProtocolPrivate|"
+#~ msgid "Send sms"
+#~ msgstr "SMS senden"

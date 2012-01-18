@@ -12,7 +12,7 @@ msgstr ""
 
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:99
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
+msgid "Aleksey Sidorov"
 msgstr ""
 
 #: ../../../plugins/kdeintegration/src/aboutapp/kdeaboutappdialog.cpp:45

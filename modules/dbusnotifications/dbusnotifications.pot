@@ -7,7 +7,7 @@ msgstr ""
 
 #: ../../../plugins/dbusnotifications/src/dplugin.cpp:42
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
+msgid "Aleksey Sidorov"
 msgstr ""
 
 #: ../../../plugins/dbusnotifications/src/dbusbackend.cpp:84
