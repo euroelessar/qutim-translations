@@ -60,6 +60,31 @@ msgctxt "Settings|"
 msgid "Chat"
 msgstr ""
 
+#: ../../../plugins/adiumwebview/__custom_json_from_styles.cpp:1
+msgctxt "Style|"
+msgid "Animated new messages"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/__custom_json_from_styles.cpp:2
+msgctxt "Style|"
+msgid "Avatar size"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/__custom_json_from_styles.cpp:3
+msgctxt "Style|"
+msgid "Contact nick color"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/__custom_json_from_styles.cpp:4
+msgctxt "Style|"
+msgid "My nick color"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/__custom_json_from_styles.cpp:5
+msgctxt "Style|"
+msgid "Show avatars"
+msgstr ""
+
 #: ../../../plugins/adiumwebview/lib/old/widget.ui:14
 msgctxt "Widget|"
 msgid "Widget"
