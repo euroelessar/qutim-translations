@@ -14,11 +14,17 @@ msgstr ""
 "X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Source-Language: C\n"
 
 #: ../../../plugins/dbusnotifications/src/dplugin.cpp:42
 msgctxt "Author|"
 msgid "Aleksey Sidorov"
-msgstr ""
+msgstr "Алексей Сидоров"
+
+#~ msgctxt "Author|"
+#~ msgid "Sidorov Aleksey"
+#~ msgstr "Алексей Сидоров"
 
 #: ../../../plugins/dbusnotifications/src/dbusbackend.cpp:84
 msgctxt "DBusBackend|"
@@ -49,7 +55,3 @@ msgstr "DBus уведомления"
 msgctxt "plugin|"
 msgid "Notification system based on Freedesktop DBus protocol"
 msgstr "Система за уведомления на базата на Freedesktop DBus протокола"
-
-#~ msgctxt "Author|"
-#~ msgid "Sidorov Aleksey"
-#~ msgstr "Алексей Сидоров"

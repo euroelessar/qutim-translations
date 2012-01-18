@@ -89,10 +89,6 @@
     <target>Спиране</target>
 </phrase>
 <phrase>
-    <source>Change</source>
-    <target>Промяна</target>
-</phrase>
-<phrase>
     <source>&amp;Quit</source>
     <target>&amp;Изход</target>
 </phrase>
@@ -111,10 +107,6 @@
 <phrase>
     <source>Account suspended because of your age (age &lt; 13)</source>
     <target>Сметката е преустановена поради възрастта ви (възраст &lt; 13)</target>
-</phrase>
-<phrase>
-    <source>Mismatch nick or password</source>
-    <target>Псевдонима или паролата не съвпадат</target>
 </phrase>
 <phrase>
     <source> Suspended account</source>
@@ -449,10 +441,6 @@
     <target>България</target>
 </phrase>
 <phrase>
-    <source>Authorize</source>
-    <target>Удостоверяване</target>
-</phrase>
-<phrase>
     <source>Audio and visual</source>
     <target>Аудио и видео</target>
 </phrase>
@@ -541,10 +529,6 @@
     <target>&lt;b&gt;Регистрация от:&lt;/b&gt; %1&lt;br&gt;</target>
 </phrase>
 <phrase>
-    <source>&lt;b&gt;Possible client:&lt;/b&gt; %1&lt;/font&gt;</source>
-    <target>&lt;b&gt;Вероятен клиент:&lt;/b&gt; %1&lt;/font&gt;</target>
-</phrase>
-<phrase>
     <source>&lt;b&gt;External ip:&lt;/b&gt; %1.%2.%3.%4&lt;br&gt;</source>
     <target>&lt;b&gt;Външен IP:&lt;/b&gt; %1.%2.%3.%4&lt;br&gt;</target>
 </phrase>
@@ -563,10 +547,6 @@
 <phrase>
     <source>&lt;b&gt;Possible client:&lt;/b&gt; %1&lt;br&gt;</source>
     <target>&lt;b&gt;Вероятен клиент:&lt;/b&gt; %1&lt;br&gt;</target>
-</phrase>
-<phrase>
-    <source>Authorize</source>
-    <target>Удостоверяване</target>
 </phrase>
 <phrase>
     <source>Move</source>
@@ -603,10 +583,6 @@
 <phrase>
     <source>Incorrect nick or password</source>
     <target>Сгрешени псевдоним или парола</target>
-</phrase>
-<phrase>
-    <source>Mismatch nick or password</source>
-    <target>Псевдонимът или паролата не съвпадат</target>
 </phrase>
 <phrase>
     <source>Internal client error (bad input to authorizer)</source>
@@ -759,10 +735,6 @@
 <phrase>
     <source>Add to invisible list</source>
     <target>Добавяне в списък &quot;Невидим за&quot;</target>
-</phrase>
-<phrase>
-    <source>Add to ignore list</source>
-    <target>Добавяне в списък &quot;Пренебрегнати&quot;</target>
 </phrase>
 <phrase>
     <source>Add to ignore list</source>
@@ -2077,10 +2049,6 @@
     <target>Затваряне на раздела/прозореца след изпращане на съобщение</target>
 </phrase>
 <phrase>
-    <source>Rate limit exceeded (reservation). Please try to reconnect in a few minutes</source>
-    <target>Надвишен брой опити (резервация). Моля опитайте отново след няколко минути</target>
-</phrase>
-<phrase>
     <source>icqSettings</source>
     <target>Настройки за ICQ</target>
 </phrase>
@@ -2513,10 +2481,6 @@
     <target>Бързи клавиши</target>
 </phrase>
 <phrase>
-    <source>Age:</source>
-    <target>Възраст:</target>
-</phrase>
-<phrase>
     <source>Bad resolver status</source>
     <target>Лош статус на DNS</target>
 </phrase>
@@ -2889,14 +2853,6 @@
     <target>Простиращ</target>
 </phrase>
 <phrase>
-    <source>Having a_beer</source>
-    <target>Пиещ бира</target>
-</phrase>
-<phrase>
-    <source>Having a_snack</source>
-    <target>Хапващ на бързо</target>
-</phrase>
-<phrase>
     <source>Having breakfast</source>
     <target>Закусващ</target>
 </phrase>
@@ -3055,10 +3011,6 @@
 <phrase>
     <source>About qutIM</source>
     <target>За qutIM</target>
-</phrase>
-<phrase>
-    <source>Aleksey Sidorov</source>
-    <target>Алексей Сидоров</target>
 </phrase>
 <phrase>
     <source>Global status</source>
@@ -3227,5 +3179,17 @@
 <phrase>
     <source>Password</source>
     <target>Парола</target>
+</phrase>
+<phrase>
+    <source>Eugene Degtyarev</source>
+    <target>Евгений Дегтярев</target>
+</phrase>
+<phrase>
+    <source>Ivan Vizir</source>
+    <target>Иван Визир</target>
+</phrase>
+<phrase>
+    <source>Sidorov Aleksey</source>
+    <target>Алексей Сидоров</target>
 </phrase>
 </QPH>

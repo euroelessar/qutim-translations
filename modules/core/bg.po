@@ -142,27 +142,27 @@ msgstr "Текстов етикет"
 #: ../../../core/src/corelayers/authdialog/authdialog.ui:33
 msgctxt "AuthDialog|"
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
-"weight:400; font-style:normal;\">\n"
+"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; "
+"font-weight:400; font-style:normal;\">\n"
 "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
-"family:'Droid Sans';\"></p></body></html>"
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+"font-family:'Droid Sans';\"></p></body></html>"
 msgstr ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
-"weight:400; font-style:normal;\">\n"
+"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; "
+"font-weight:400; font-style:normal;\">\n"
 "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
-"family:'Droid Sans';\"></p></body></html>"
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+"font-family:'Droid Sans';\"></p></body></html>"
 
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:89
 msgctxt "Author|"
@@ -174,12 +174,20 @@ msgstr "Редерик Ашър"
 #: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:44
 msgctxt "Author|"
 msgid "Aleksey Sidorov"
-msgstr ""
+msgstr "Алексей Сидоров"
 
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:38
 msgctxt "Author|"
 msgid "Alexey Prokhin"
 msgstr "Алексей Прохин"
+
+#~ msgctxt "Author|"
+#~ msgid "Perova Gala"
+#~ msgstr "Гала Перова"
+
+#~ msgctxt "Author|"
+#~ msgid "Sidorov Aleksey"
+#~ msgstr "Алексей Сидоров"
 
 #: ../../../core/src/corelayers/idlestatuschanger/idlestatuschanger.cpp:50
 msgctxt "AutoAway|"
@@ -1187,13 +1195,13 @@ msgctxt "Core::SimpleAboutDialog|"
 msgid ""
 "<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 2 "
 "or (at your option) any later version.</div><div>qutIM resources such as "
-"themes, icons, sounds may come along with a different license.</"
-"div><br><hr><br>"
+"themes, icons, sounds may come along with a different "
+"license.</div><br><hr><br>"
 msgstr ""
 "<div><b>qutIM</b> %1 е лицензиран под GNU General Public License, версия 2 "
 "или (по ваше усмотрение) всяка последваща версия.</div><div>Ресурсите, които "
-"ползва qutIM напр. теми, икони, звуци могат да бъдат под друг лиценз.</"
-"div><br><hr><br>"
+"ползва qutIM напр. теми, икони, звуци могат да бъдат под друг "
+"лиценз.</div><br><hr><br>"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:192
 #, qt-format
@@ -1585,16 +1593,14 @@ msgstr "Неизвестна грешка"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:75
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:153
-#, fuzzy
 msgctxt "Jabber|"
 msgid "Join conference"
-msgstr "Контакт се присъединява към конференция"
+msgstr "Присъединяване към конференция"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:76
-#, fuzzy
 msgctxt "Jabber|"
 msgid "Leave conference"
-msgstr "Контакт напуска конференция"
+msgstr "Напускане на конференцията"
 
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:17
 msgctxt "JoinChat|"
@@ -1791,8 +1797,8 @@ msgstr "Български"
 
 #: ../../../core/src/corelayers/localization/localizationsettings.cpp:62
 msgctxt ""
-"Localization|Localized country name, empty if localization is country-"
-"independent"
+"Localization|Localized country name, empty if localization is "
+"country-independent"
 msgid "<Country>"
 msgstr "България"
 
@@ -2162,6 +2168,17 @@ msgstr "Обикновен"
 msgctxt "Plugin|"
 msgid "Notification Area Icon"
 msgstr "Икона в областта за уведомления"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Time modifier"
+#~ msgstr "Редактиране на време"
+
+#~ msgctxt "Plugin|"
+#~ msgid ""
+#~ "Modifier for %time% and %timeOpened% param, based on Apple's documentation"
+#~ msgstr ""
+#~ "Модифициране на %time% и %timeOpened% параметри, на базата на "
+#~ "документацията на Apple"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:14
 msgctxt "ProfileCreationPage|"
@@ -3112,14 +3129,14 @@ msgstr "Възпроизвеждане на звук"
 #, qt-format
 msgctxt "qutim_sdk_0_3::StatisticsHelper|"
 msgid ""
-"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br /"
-"><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br /"
-"><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
+"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br "
+"/><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br "
+"/><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
 msgstr ""
-"<b>Съкратено:</b> %1 <br /><b>Версия:</b> %2 <br /><b>Пълно:</b> %3 <br /"
-"><b>Версия на qutIM:</b> %4 <br /><b>Версия на Qt:</b> %5 (%6 bit) <br /"
-"><b>Разделителна способност на екрана:</b> %7 x %8 <br /><b>Системен локал:</"
-"b> %9<br />"
+"<b>Съкратено:</b> %1 <br /><b>Версия:</b> %2 <br /><b>Пълно:</b> %3 <br "
+"/><b>Версия на qutIM:</b> %4 <br /><b>Версия на Qt:</b> %5 (%6 bit) <br "
+"/><b>Разделителна способност на екрана:</b> %7 x %8 <br /><b>Системен "
+"локал:</b> %9<br />"
 
 #: ../../../core/src/corelayers/contactinfo/userinformation.ui:14
 msgctxt "userInformationClass|"
@@ -3140,14 +3157,6 @@ msgstr "Запис"
 msgctxt "userInformationClass|"
 msgid "Close"
 msgstr "Затваряне"
-
-#~ msgctxt "Author|"
-#~ msgid "Perova Gala"
-#~ msgstr "Гала Перова"
-
-#~ msgctxt "Author|"
-#~ msgid "Sidorov Aleksey"
-#~ msgstr "Алексей Сидоров"
 
 #~ msgctxt "Core::AdiumChat::ChatAppearance|"
 #~ msgid "Vasya Pupkin"
@@ -3192,17 +3201,6 @@ msgstr "Затваряне"
 #~ msgctxt "Core::AdiumChat::ChatFont|"
 #~ msgid "Change"
 #~ msgstr "Промяна"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Time modifier"
-#~ msgstr "Редактиране на време"
-
-#~ msgctxt "Plugin|"
-#~ msgid ""
-#~ "Modifier for %time% and %timeOpened% param, based on Apple's documentation"
-#~ msgstr ""
-#~ "Модифициране на %time% и %timeOpened% параметри, на базата на "
-#~ "документацията на Apple"
 
 #~ msgctxt "chatAppearance|"
 #~ msgid "Form"
