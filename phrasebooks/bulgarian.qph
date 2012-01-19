@@ -3204,4 +3204,8 @@
     <source>Color:</source>
     <target>Цвят:</target>
 </phrase>
+<phrase>
+    <source>Normal</source>
+    <target>Нормално</target>
+</phrase>
 </QPH>
