@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-21 09:12+0000\n"
+"POT-Creation-Date: 2012-01-18 13:42+0000\n"
 "PO-Revision-Date: 2012-01-12 13:00+0000\n"
 "Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-13 05:24+0000\n"
-"X-Generator: Launchpad (build 14664)\n"
+"X-Launchpad-Export-Date: 2012-01-19 05:15+0000\n"
+"X-Generator: Launchpad (build 14692)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: ru\n"
@@ -43,112 +43,112 @@ msgctxt "Plugin|"
 msgid "Check spelling by ASpell library"
 msgstr "Модуль проверки орфографии основанный на ASpell"
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:86
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:88
 msgctxt "Settings|"
 msgid "Spell checker"
 msgstr "Проверка орфографии"
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:41
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:43
 msgctxt "SpellChecker|"
 msgid "40"
 msgstr "40"
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:42
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:44
 msgctxt "SpellChecker|"
 msgid "60"
 msgstr "60"
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:43
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:45
 msgctxt "SpellChecker|"
 msgid "80"
 msgstr "80"
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:44
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:46
 msgctxt "SpellChecker|"
 msgid "-ise suffixes"
 msgstr "-ис суффикс"
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:45
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:47
 msgctxt "SpellChecker|"
 msgid "-ize suffixes"
 msgstr "-из суффикс"
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:46
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:48
 msgctxt "SpellChecker|"
 msgid "-ise suffixes and with accents"
 msgstr "-ис суффикс с акцентом"
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:47
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:49
 msgctxt "SpellChecker|"
 msgid "-ise suffixes and without accents"
 msgstr "-ис суффикс без акцента"
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:48
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:50
 msgctxt "SpellChecker|"
 msgid "-ize suffixes and with accents"
 msgstr "-из суффикс с акцентом"
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:49
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:51
 msgctxt "SpellChecker|"
 msgid "-ize suffixes and without accents"
 msgstr "-из суффикс без акцента"
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:50
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:52
 msgctxt "SpellChecker|"
 msgid "large"
 msgstr "большой"
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:51
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:53
 msgctxt "SpellChecker|"
 msgid "medium"
 msgstr "средний"
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:52
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:54
 msgctxt "SpellChecker|"
 msgid "small"
 msgstr "малый"
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:53
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:55
 msgctxt "SpellChecker|"
 msgid "variant 0"
 msgstr "вариант 0"
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:54
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:56
 msgctxt "SpellChecker|"
 msgid "variant 1"
 msgstr "вариант 1"
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:55
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:57
 msgctxt "SpellChecker|"
 msgid "variant 2"
 msgstr "вариант 2"
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:56
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:58
 msgctxt "SpellChecker|"
 msgid "without accents"
 msgstr "без акцента"
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:57
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:59
 msgctxt "SpellChecker|"
 msgid "with accents"
 msgstr "с акцентом"
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:58
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:60
 msgctxt "SpellChecker|"
 msgid "with ye"
 msgstr "с \"е\""
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:59
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:61
 msgctxt "SpellChecker|"
 msgid "with yeyo"
 msgstr "с \"её\""
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:60
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:62
 msgctxt "SpellChecker|"
 msgid "with yo"
 msgstr "с \"ё\""
 
-#: ../../../plugins/aspeller/src/aspellchecker.cpp:61
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:63
 msgctxt "SpellChecker|"
 msgid "extended"
 msgstr "расширенный"

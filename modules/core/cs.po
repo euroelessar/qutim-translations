@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-21 09:12+0000\n"
+"POT-Creation-Date: 2012-01-18 13:43+0000\n"
 "PO-Revision-Date: 2011-11-15 16:32+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:21+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-01-19 05:15+0000\n"
+"X-Generator: Launchpad (build 14692)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: cs\n"
@@ -108,22 +108,22 @@ msgctxt "AddContact|"
 msgid "Name:"
 msgstr "Jméno:"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:59
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:61
 msgctxt "AddContact|"
 msgid "Remove from roster"
 msgstr "Odstranit ze seznamu kontaktů"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:60
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:62
 msgctxt "AddContact|"
 msgid "Add to roster"
 msgstr "Přidat do seznamu kontaktů"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:106
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:123
 msgctxt "AddContact|"
 msgid "Unavailable"
 msgstr "Není k dispozici"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:226
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:248
 msgctxt "AddContact|"
 msgid "Remove contact"
 msgstr "Odstranit kontakt"
@@ -153,12 +153,7 @@ msgid ""
 "family:'Droid Sans';\"></p></body></html>"
 msgstr ""
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:94
-msgctxt "Author|"
-msgid "Perova Gala"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:98
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:89
 msgctxt "Author|"
 msgid "Rederick Asher"
 msgstr ""
@@ -167,7 +162,7 @@ msgstr ""
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:42
 #: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:44
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
+msgid "Aleksey Sidorov"
 msgstr ""
 
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:38
@@ -213,33 +208,33 @@ msgctxt "ChatLayer|"
 msgid "Previous chat"
 msgstr "Předchozí konverzace"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:60
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:59
 msgctxt "ChatLayer|"
 msgid "Insert Emoticon"
 msgstr "Vložit smajlíka"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:112
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:103
 msgctxt "ChatLayer|"
 msgid "Show Emoticons"
 msgstr "Zobrazit smajlíky"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:117
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:132
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:108
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:123
 msgctxt "ChatLayer|"
 msgid "Quote"
 msgstr "Citovat"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:122
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:113
 msgctxt "ChatLayer|"
 msgid "Clear Chat"
 msgstr "Vymazat konverzaci"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:139
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:130
 msgctxt "ChatLayer|"
 msgid "Clear chat"
 msgstr "Vymazat konverzaci"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:142
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:133
 msgctxt "ChatLayer|"
 msgid "Clear chat field"
 msgstr ""
@@ -313,37 +308,37 @@ msgctxt "ContactInfo|"
 msgid "no"
 msgstr "ne"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:94
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:111
 msgctxt "ContactInfo|"
 msgid "Information unavailable"
 msgstr "Informace nejsou k dispozici"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:187
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:209
 msgctxt "ContactInfo|"
 msgid "Show information"
 msgstr "Zobrazit informace"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:188
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:210
 msgctxt "ContactInfo|"
 msgid "Edit information"
 msgstr "Upravit informace"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:70
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:87
 msgctxt "ContactList|"
 msgid "Copy id to clipboard"
 msgstr "Kopírovat ID do schránky"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:79
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:96
 msgctxt "ContactList|"
 msgid "Edit tags"
 msgstr "Upravit štítky"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:89
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:106
 msgctxt "ContactList|"
 msgid "Rename contact"
 msgstr "Přejmenovat kontakt"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:113
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:130
 msgctxt "ContactList|"
 msgid "Enable/disable sound"
 msgstr "Zapnout/vypnout zvuk"
@@ -473,12 +468,12 @@ msgstr "Nastavení účtu"
 
 #: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:154
 #: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:156
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:209
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:210
 msgctxt "Core::AccountCreatorList|"
 msgid "Remove account"
 msgstr "Odstranit účet"
 
-#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:210
+#: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:211
 #, qt-format
 msgctxt "Core::AccountCreatorList|"
 msgid "Are you sure want to remove %1"
@@ -556,66 +551,10 @@ msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "%1 - qutIM"
 msgstr ""
 
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:56
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Vasya Pupkin"
-msgstr "Jan Novák"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:67
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Noname"
-msgstr "Franta Vopršálek"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:132
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:215
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Unable to create chat session"
-msgstr "Nelze vytvořit session konverzace"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:219
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Preview message"
-msgstr "Náhled zprávy"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:226
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Hello!"
-msgstr "Ahoj!"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:229
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "How are you?"
-msgstr "Jak se máš?"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:232
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "I am fine!"
-msgstr "Mám se dobře!"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:235
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "/me is thinking!"
-msgstr "/me přemýšlí!"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:238
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Vasya Pupkin is reading you mind"
-msgstr "Jan Novák čte tvé myšlenky"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.cpp:255
-msgctxt "Core::AdiumChat::ChatAppearance|"
-msgid "Style variant:"
-msgstr "Styl:"
-
 #: ../../../core/src/corelayers/adiumchat/chatlayer/actions/chatemoticonswidget.cpp:73
 msgctxt "Core::AdiumChat::ChatEmoticonsWidget|"
 msgid "Close"
 msgstr "Zavřít"
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatvariable.cpp:42
-msgctxt "Core::AdiumChat::ChatFont|"
-msgid "Change"
-msgstr "Změnit"
 
 #: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:90
 msgctxt "Core::AdiumChat::ConferenceContactsView|"
@@ -1233,19 +1172,19 @@ msgid ""
 "license.</div><br><hr><br>"
 msgstr ""
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:170
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:192
 #, qt-format
 msgctxt "Core::SimpleActions|"
 msgid "Rename contact %1"
 msgstr "Přejmenovat kontakt %1"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:171
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:193
 #, qt-format
 msgctxt "Core::SimpleActions|"
 msgid "Input new name for contact %1"
 msgstr "Zadejte nové jméno pro kontakt %1"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:227
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:249
 #, qt-format
 msgctxt "Core::SimpleActions|"
 msgid "Are you sure you want to delete a contact %1 from the roster?"
@@ -1616,6 +1555,17 @@ msgctxt "InformationRequest|"
 msgid "Unknown error"
 msgstr ""
 
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:75
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:153
+msgctxt "Jabber|"
+msgid "Join conference"
+msgstr ""
+
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:76
+msgctxt "Jabber|"
+msgid "Leave conference"
+msgstr ""
+
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:17
 msgctxt "JoinChat|"
 msgid "Join groupchat"
@@ -1661,7 +1611,7 @@ msgctxt "JoinChatDialog|"
 msgid "Join"
 msgstr ""
 
-#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.cpp:167
+#: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.cpp:224
 msgctxt "JoinChatDialog|"
 msgid "New chat"
 msgstr ""
@@ -1804,12 +1754,12 @@ msgctxt "LineEdit|"
 msgid "Clear search field"
 msgstr ""
 
-#: ../../../core/src/corelayers/localization/localizationsettings.cpp:58
+#: ../../../core/src/corelayers/localization/localizationsettings.cpp:59
 msgctxt "Localization|Localized language name"
 msgid "<Language>"
 msgstr "Čeština"
 
-#: ../../../core/src/corelayers/localization/localizationsettings.cpp:61
+#: ../../../core/src/corelayers/localization/localizationsettings.cpp:62
 msgctxt ""
 "Localization|Localized country name, empty if localization is country-"
 "independent"
@@ -2076,25 +2026,14 @@ msgctxt "Plugin|"
 msgid "Default qutIM account creator"
 msgstr ""
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:84
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:83
 msgctxt "Plugin|"
 msgid "Webkit chat layer"
 msgstr ""
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:85
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:84
 msgctxt "Plugin|"
 msgid "Default qutIM chat implementation, based on Adium chat styles"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:90
-msgctxt "Plugin|"
-msgid "Time modifier"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:91
-msgctxt "Plugin|"
-msgid ""
-"Modifier for %time% and %timeOpened% param, based on Apple's documentation"
 msgstr ""
 
 #: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:36
@@ -2440,7 +2379,7 @@ msgctxt "QObject|"
 msgid "Ignore"
 msgstr "Odmítnout"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:157
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:179
 #, qt-format
 msgctxt "QObject|"
 msgid "Copy %1 to clipboard"
@@ -2577,7 +2516,6 @@ msgctxt "Settings|"
 msgid "Accounts"
 msgstr "Účty"
 
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/webkitviewfactory.cpp:42
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatform.cpp:46
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatform.cpp:44
 msgctxt "Settings|"
@@ -2946,13 +2884,13 @@ msgctxt "Status|"
 msgid "Unknown"
 msgstr "Neznámý"
 
-#: ../../../core/libqutim/personinfo.cpp:219
+#: ../../../core/libqutim/personinfo.cpp:199
 msgctxt "TRANSLATORS|"
 msgid "Your names"
 msgstr "Lms"
 
-#: ../../../core/libqutim/personinfo.cpp:220
-#: ../../../core/libqutim/personinfo.cpp:221
+#: ../../../core/libqutim/personinfo.cpp:200
+#: ../../../core/libqutim/personinfo.cpp:201
 msgctxt "TRANSLATORS|"
 msgid "Your emails"
 msgstr "lms.cze7@gmail.com"
@@ -3012,13 +2950,12 @@ msgctxt "TagsFilterDialog|"
 msgid "Select tags"
 msgstr "Vybrat štítky"
 
-#: ../../../core/libqutim/personinfo.cpp:224
+#: ../../../core/libqutim/personinfo.cpp:204
 msgctxt "Task|"
 msgid "Translator"
 msgstr "Překladatel"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:95
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:99
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:90
 msgctxt "Task|"
 msgid "Artist"
 msgstr ""
@@ -3040,16 +2977,6 @@ msgctxt "ToolTip|"
 msgid "Account"
 msgstr "Účet"
 
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.ui:14
-msgctxt "chatAppearance|"
-msgid "Form"
-msgstr ""
-
-#: ../../../core/src/corelayers/adiumchat/chatfactories/webkitchat/settings/chatappearance.ui:49
-msgctxt "chatAppearance|"
-msgid "about:blank"
-msgstr ""
-
 #: ../../../core/src/corelayers/emoticonssettings/emoticonsselector.ui:14
 msgctxt "emoticonsSelector|"
 msgid "Form"
@@ -3060,7 +2987,7 @@ msgctxt "kb_Qwerty|"
 msgid "bgDirectInput"
 msgstr ""
 
-#: ../../../core/libqutim/contactsearch.cpp:85
+#: ../../../core/libqutim/contactsearch.cpp:86
 msgctxt "qutim_sdk_0_3::ContactSearchRequest|"
 msgid "Add contact"
 msgstr "Přidat kontakt"

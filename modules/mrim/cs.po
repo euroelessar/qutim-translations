@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-21 09:14+0000\n"
+"POT-Creation-Date: 2012-01-18 13:42+0000\n"
 "PO-Revision-Date: 2011-11-15 16:44+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:21+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-01-19 05:16+0000\n"
+"X-Generator: Launchpad (build 14692)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: cs\n"
@@ -82,37 +82,37 @@ msgid ""
 "Reason: %1"
 msgstr ""
 
-#: ../../../protocols/mrim/src/base/messages.cpp:154
+#: ../../../protocols/mrim/src/base/messages.cpp:155
 msgctxt "MrimMessages|"
 msgid "No such user"
 msgstr ""
 
-#: ../../../protocols/mrim/src/base/messages.cpp:157
+#: ../../../protocols/mrim/src/base/messages.cpp:158
 msgctxt "MrimMessages|"
 msgid "Message too large"
 msgstr ""
 
-#: ../../../protocols/mrim/src/base/messages.cpp:160
+#: ../../../protocols/mrim/src/base/messages.cpp:161
 msgctxt "MrimMessages|"
 msgid "Limit exceeded"
 msgstr ""
 
-#: ../../../protocols/mrim/src/base/messages.cpp:163
+#: ../../../protocols/mrim/src/base/messages.cpp:164
 msgctxt "MrimMessages|"
 msgid "User denied receiving offline messages"
 msgstr ""
 
-#: ../../../protocols/mrim/src/base/messages.cpp:166
+#: ../../../protocols/mrim/src/base/messages.cpp:167
 msgctxt "MrimMessages|"
 msgid "User denied receiving offline flash movies"
 msgstr ""
 
-#: ../../../protocols/mrim/src/base/messages.cpp:169
+#: ../../../protocols/mrim/src/base/messages.cpp:170
 msgctxt "MrimMessages|"
 msgid "Internal error"
 msgstr "Vnitřní chyba"
 
-#: ../../../protocols/mrim/src/base/messages.cpp:178
+#: ../../../protocols/mrim/src/base/messages.cpp:179
 msgctxt "MrimMessages|"
 msgid "Message was not delivered!"
 msgstr ""

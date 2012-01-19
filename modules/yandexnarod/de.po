@@ -2,69 +2,69 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-21 09:15+0000\n"
+"POT-Creation-Date: 2012-01-18 13:43+0000\n"
 "PO-Revision-Date: 2011-11-15 16:52+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:22+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-01-19 05:16+0000\n"
+"X-Generator: Launchpad (build 14692)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:54
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:56
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
+msgid "Aleksey Sidorov"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:58
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:60
 msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:61
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:63
 msgctxt "Author|"
 msgid "Alexey Prokhin"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:64
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:66
 msgctxt "Author|"
 msgid "Alexander Kazarin"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:50
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:52
 msgctxt "Plugin|"
 msgid "YandexNarod"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:51
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:68
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:53
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:70
 msgctxt "Plugin|"
 msgid "Send files via Yandex.Narod filehosting service"
 msgstr "Dateien über den Yandex Narod Dateihosting-Service versenden"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:67
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:69
 msgctxt "Plugin|"
 msgid "Yandex.Narod"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:55
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:59
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:57
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:61
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Entwickler"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:62
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:65
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:64
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:67
 msgctxt "Task|"
 msgid "Author"
 msgstr "Autor"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:78
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:80
 msgctxt "Yandex|"
 msgid "Yandex Narod"
 msgstr ""
@@ -99,17 +99,17 @@ msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid login or/and password"
 msgstr "Falscher Login oder/und Passwort"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:201
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:203
 msgctxt "YandexNarodFactory|"
 msgid "Yandex.Narod"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarodmanage.cpp:34
+#: ../../../plugins/yandexnarod/src/yandexnarodmanage.cpp:35
 msgctxt "YandexNarodManager|"
 msgid "Yandex.Narod file manager"
 msgstr "Yandex.Narod Dateimanager"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodnetman.cpp:149
+#: ../../../plugins/yandexnarod/src/yandexnarodnetman.cpp:150
 msgctxt "YandexNarodNetMan|"
 msgid "Authorizing..."
 msgstr "Einloggen..."
@@ -170,23 +170,23 @@ msgctxt "YandexNarodSettingsClass|"
 msgid "Manage files"
 msgstr "Dateien verwalten"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:134
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:136
 msgctxt "YandexNarodUploadJob|"
 msgid "Authorizing..."
 msgstr "Einloggen..."
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:157
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:159
 msgctxt "YandexNarodUploadJob|"
 msgid "Getting storage..."
 msgstr "Hole Speicher..."
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:221
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:223
 #, qt-format
 msgctxt "YandexNarodUploadJob|"
 msgid "Could not open file %1"
 msgstr "Konnte Datei %1 nicht öffnen"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:345
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:347
 msgctxt "YandexNarodUploadJob|Don't remove format arguments"
 msgid ""
 "File sent: %N (%S bytes)\n"

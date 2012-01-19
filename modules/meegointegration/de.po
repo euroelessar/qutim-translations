@@ -1,306 +1,307 @@
+# German translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-01-18 13:42+0000\n"
-"PO-Revision-Date: 2012-01-18 21:42+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2012-01-18 20:44+0000\n"
+"Last-Translator: Daniel Winzen <d@winzen4.de>\n"
+"Language-Team: German <de@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-01-19 05:16+0000\n"
 "X-Generator: Launchpad (build 14692)\n"
-"X-Qt-Contexts: true\n"
-"Language: \n"
-"X-Language: bg\n"
-"X-Source-Language: C\n"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:30
 msgctxt "AboutDialog|"
 msgid "Close"
-msgstr "Затваряне"
+msgstr "Schließen"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:118
 msgctxt "AboutDialog|"
 msgid "Project site"
-msgstr "Страница на проекта"
+msgstr "Projektseite"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:122
 msgctxt "AboutDialog|"
 msgid "Source code repository"
-msgstr "Хранилище на изходния код"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:126
 msgctxt "AboutDialog|"
 msgid "Bug tracker"
-msgstr "Проследяване на проблеми"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:140
 msgctxt "AboutDialog|"
 msgid "Developers"
-msgstr "Разработчици"
+msgstr "Entwickler"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:145
 msgctxt "AboutDialog|"
 msgid "Translators"
-msgstr "Преводачи"
+msgstr "Übersetzer"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:150
 msgctxt "AboutDialog|"
 msgid "License"
-msgstr "Лиценз"
+msgstr "Lizenz"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:65
 msgctxt "Account|"
 msgid "Add new account"
-msgstr "Добавяне на контакт"
+msgstr "Neues Konto hinzufügen"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:66
 msgctxt "Account|"
 msgid "Just add or create new account"
-msgstr "Просто добавя или зъздава сметка"
+msgstr "Ein neues Konto erstellen oder hinzufügen"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:71
 msgctxt "Account|"
 msgid "Accounts"
-msgstr "Сметки"
+msgstr "Konten"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AccountCreatorDialog.qml:37
 msgctxt "AccountCreatorDialog|"
 msgid "Close"
-msgstr "Затваряне"
+msgstr "Schließen"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AccountCreatorDialog.qml:71
 msgctxt "AccountCreatorDialog|"
 msgid "Select protocol:"
-msgstr "Избор на протокол:"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.ui:14
 msgctxt "AccountCreatorList|"
 msgid "Form"
-msgstr "Сметки"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/quickaddcontactdialog.cpp:61
 msgctxt "AddContact|"
 msgid "Add contact"
-msgstr "Добавяне на контакт"
+msgstr "Kontakt hinzufügen"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AddContactDialog.qml:36
 msgctxt "AddContactDialog|"
 msgid "Close"
-msgstr "Затваряне"
+msgstr "Schließen"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AddContactDialog.qml:70
 msgctxt "AddContactDialog|"
 msgid "Select protocol:"
-msgstr "Избор на протокол:"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AddContactDialog.qml:103
 msgctxt "AddContactDialog|"
 msgid "Add contact for"
-msgstr "Добавяне на контакт на"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AddContactDialog.qml:121
 msgctxt "AddContactDialog|"
 msgid "Contact ID"
-msgstr "ID на контакта"
+msgstr "Kontakt-ID"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AddContactDialog.qml:139
 msgctxt "AddContactDialog|"
 msgid "Name for contact"
-msgstr "Име на контакта"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AddContactDialog.qml:150
 msgctxt "AddContactDialog|"
 msgid "Add contact"
-msgstr "Добавяне на контакта"
+msgstr "Kontakt hinzufügen"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AuthDialog.qml:64
 msgctxt "AuthDialog|"
 msgid "Accept"
-msgstr "Приемане"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AuthDialog.qml:65
 msgctxt "AuthDialog|"
 msgid "Reject"
-msgstr "Отхвърляне"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Chat.qml:61
 msgctxt "Chat|"
 msgid "Write anything"
-msgstr "Напишете нещо"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/authdialogwrapper.cpp:112
 #, qt-format
 msgctxt "ContactInfo|"
 msgid "Recieved authorizarion request from %1:"
-msgstr "Получена е заявка за удостоверение от %1:"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/authdialogwrapper.cpp:115
 #, qt-format
 msgctxt "ContactInfo|"
 msgid "Send authorizarion request to %1:"
-msgstr "Изпращане на заявка за удостоверение от %1:"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/ContactList.qml:121
 msgctxt "ContactList|"
 msgid "Cancel"
-msgstr "Отказ"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/quickaboutdialog.cpp:40
 msgctxt "Core|"
 msgid "About qutIM"
-msgstr "За qutIM"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/bookmarksmodel.cpp:145
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/joingroupchatwrapper.cpp:115
 msgctxt "JoinGroupChat|"
 msgid "Recent"
-msgstr "Последни"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/bookmarksmodel.cpp:146
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/joingroupchatwrapper.cpp:116
 msgctxt "JoinGroupChat|"
 msgid "Bookmarks"
-msgstr "Отметки"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/bookmarksmodel.cpp:183
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/joingroupchatwrapper.cpp:147
 msgctxt "JoinGroupChat|"
 msgid "Join an existing or create a new groupchat"
-msgstr "Присъединяване към съществуващ или създаване на нов групов разговор"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/bookmarksmodel.cpp:185
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/joingroupchatwrapper.cpp:149
 msgctxt "JoinGroupChat|"
 msgid "Join"
-msgstr "Присъединяване"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/bookmarksmodel.cpp:187
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/joingroupchatwrapper.cpp:151
 msgctxt "JoinGroupChat|"
 msgid "Create, edit, or delete saved bookmarks"
-msgstr "Създаване, редактиране или изтриване на отметки"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/bookmarksmodel.cpp:189
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/joingroupchatwrapper.cpp:153
 msgctxt "JoinGroupChat|"
 msgid "Manage bookmarks"
-msgstr "Управление на отметки"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/quickjoingroupchat.cpp:73
 msgctxt "JoinGroupChat|"
 msgid "Join groupchat"
-msgstr "Присъединяване към групов разговор"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:45
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:342
 msgctxt "JoinGroupChatDialog|"
 msgid "Join"
-msgstr "Присъединяване"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:46
 msgctxt "JoinGroupChatDialog|"
 msgid "Close"
-msgstr "Затваряне"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:72
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:117
 msgctxt "JoinGroupChatDialog|"
 msgid "Select account:"
-msgstr "Избор на сметка:"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:227
 msgctxt "JoinGroupChatDialog|"
 msgid "Join to conference:"
-msgstr "Присъединяване към конференция:"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:239
 msgctxt "JoinGroupChatDialog|"
 msgid "Name"
-msgstr "Име"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:257
 msgctxt "JoinGroupChatDialog|"
 msgid "Conference"
-msgstr "Конференция"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:275
 msgctxt "JoinGroupChatDialog|"
 msgid "Nick"
-msgstr "Псевдоним"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:293
 msgctxt "JoinGroupChatDialog|"
 msgid "Password"
-msgstr "Парола"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:312
 msgctxt "JoinGroupChatDialog|"
 msgid "Auto Join"
-msgstr "Автоматично присъединяване"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:330
 msgctxt "JoinGroupChatDialog|"
 msgid "Save to bookmark"
-msgstr "Запис в отметките"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:162
 msgctxt "Main|"
 msgid "Show/hide offline contacts"
-msgstr "Показване/Скриване на контактите извън линия"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:166
 msgctxt "Main|"
 msgid "Join group chat"
-msgstr "Присъединяване към групов разговор"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:170
 msgctxt "Main|"
 msgid "About qutIM"
-msgstr "За qutIM"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:174
 msgctxt "Main|"
 msgid "Add contact"
-msgstr "Добавяне на контакт"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:178
 msgctxt "Main|"
 msgid "Settings"
-msgstr "MeeGo настройки"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:197
 msgctxt "Main|"
 msgid "Send"
-msgstr "Изпращане"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:198
 msgctxt "Main|"
 msgid "Cancel"
-msgstr "Отказ"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:216
 msgctxt "Main|"
 msgid "Would you like to send details about your current setup?"
-msgstr "Желаете ли да изпратите подробности за настоящата инсталация?"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:223
 msgctxt "Main|"
 msgid "Dont's ask me later"
-msgstr "Да не се пита повече"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:229
 msgctxt "Main|"
 msgid "Information to be transferred to the qutIM's authors:"
-msgstr "Информация, която бихте изпратили до авторите на qutIM:"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/aboutdialogwrapper.cpp:53
 #, qt-format
 msgctxt "MeegoIntegration::AboutDialogWrapper|"
 msgid "Based on Qt %1 (%2 bit)."
-msgstr "Базиран на Qt %1 (%2 bit)."
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/aboutdialogwrapper.cpp:56
 #, qt-format
@@ -311,43 +312,39 @@ msgid ""
 "themes, icons, sounds may come along with a different "
 "license.</div><br><hr><br>"
 msgstr ""
-"<div><b>qutIM</b> %1 е лицензиран под GNU General Public License, версия 2 "
-"или (по ваше усмотрение) всяка последваща версия.</div><div>Ресурсите, които "
-"ползва qutIM напр. теми, икони, звуци могат да бъдат под друг "
-"лиценз.</div><br><hr><br>"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:143
 msgctxt "MeegoIntegration::AccountCreatorList|"
 msgid "Properties"
-msgstr "Свойства"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:144
 msgctxt "MeegoIntegration::AccountCreatorList|"
 msgid "Account settings"
-msgstr "Натройка на сметка"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:152
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:154
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:193
 msgctxt "MeegoIntegration::AccountCreatorList|"
 msgid "Remove account"
-msgstr "Премахване на сметка"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:194
 #, qt-format
 msgctxt "MeegoIntegration::AccountCreatorList|"
 msgid "Are you sure want to remove %1"
-msgstr "Сигурни ли сте, че желаете да премахнете %1?"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/passworddialogwrapper.cpp:38
 msgctxt "MeegoIntegration::PasswordDialogWrapper|"
 msgid "Enter password for account"
-msgstr "Въведете парола за сметката"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/quicknotificationmanager.cpp:47
 msgctxt "MeegoIntegration::QuickNoficationManager|"
 msgid "Show popup"
-msgstr "Показване на изскачащ прозорец"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/quickpassworddialog.cpp:35
 #, qt-format
@@ -356,172 +353,168 @@ msgid ""
 "Enter password for account \n"
 " %1 (%2)"
 msgstr ""
-"Въведете парола за сметката \n"
-" %1 (%2)"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/PasswordDialog.qml:56
 msgctxt "PasswordDialog|"
 msgid "Password"
-msgstr "Парола"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/PasswordDialog.qml:65
 msgctxt "PasswordDialog|"
 msgid "Remember password"
-msgstr "Запомняне на паролата"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/PasswordDialog.qml:80
 msgctxt "PasswordDialog|"
 msgid "OK"
-msgstr "ОК"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/PasswordDialog.qml:81
 msgctxt "PasswordDialog|"
 msgid "Cancel"
-msgstr "Отказ"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:49
 msgctxt "Plugin|"
 msgid "Meego application window"
-msgstr "Прозорец на MeeGo приложението"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:50
 msgctxt "Plugin|"
 msgid "Main window of application"
-msgstr "Основен прозорец на приложението"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:54
 msgctxt "Plugin|"
 msgid "Meego chat page"
-msgstr "MeeGo страница за разговор"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:55
 msgctxt "Plugin|"
 msgid "Simple chat based on QML elements"
-msgstr "Обикновен разговор, базиран на QML елементи"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:57
 msgctxt "Plugin|"
 msgid "Meego contact list page"
-msgstr "MeeGo страница, съдържаща списъка с контакти"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:58
 msgctxt "Plugin|"
 msgid "Simple contact list on QML elements"
-msgstr "Обикновен списък с контакти, базиран на QML елементи"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:60
 msgctxt "Plugin|"
 msgid "Meego password dialog"
-msgstr "MeeGo диалогов прозорец за въвеждане на парола"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:61
 msgctxt "Plugin|"
 msgid "Simple password dialog on QML elements"
 msgstr ""
-"Обикновен диалогов прозорец за въвеждане на парола, базиран на QML елементи"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:63
 msgctxt "Plugin|"
 msgid "Meego authorization dialog"
-msgstr "MeeGo диалогов прозорец за удостоверяване"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:64
 msgctxt "Plugin|"
 msgid "Simple authorization dialog on QML elements"
 msgstr ""
-"Обикновен диалогов прозорец за удостоверяване, базиран на QML елементи"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:66
 msgctxt "Plugin|"
 msgid "MeeGo Harmattan Idle detector"
-msgstr "MeeGo Harmattan установяване на бездействието"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:67
 msgctxt "Plugin|"
 msgid "Simple harmattan idle detector"
-msgstr "Установяване на бездействието"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:69
 msgctxt "Plugin|"
 msgid "MeeGo Add contact dialog"
-msgstr "MeeGo диалогов прозорец за добавяне на контакти"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:70
 msgctxt "Plugin|"
 msgid "Simple add contact dialog"
-msgstr "Обикновен диалогов прозорец за добавяне на контакти"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:72
 msgctxt "Plugin|"
 msgid "MeeGo about dialog"
-msgstr "MeeGo диалогов прозорец, съдържащ информация за програмата"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:73
 msgctxt "Plugin|"
 msgid "Simple about dialog"
-msgstr "Обикновен диалогов прозорец, съдържащ информация за програмата"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:75
 msgctxt "Plugin|"
 msgid "MeeGo join group chat dialog"
-msgstr "MeeGo диалогов прозорец за присъединяване към групов разговор"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:76
 msgctxt "Plugin|"
 msgid "Simple join group chat dialog"
-msgstr "Обикновен диалогов прозорец за присъединяване към групов разговор"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:78
 msgctxt "Plugin|"
 msgid "MeeGo integration"
-msgstr "MeeGo интеграция"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:79
 msgctxt "Plugin|"
 msgid "Provider for better integration with the system"
-msgstr "Осигурява по-добра интеграция със системата"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:81
 msgctxt "Plugin|"
 msgid "MeeGoAccounts Model"
-msgstr "MeeGo Модел на сметките"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:82
 msgctxt "Plugin|"
 msgid "Simple accounts model"
-msgstr "Обикновен модел на сметките"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:84
 msgctxt "Plugin|"
 msgid "MeeGo Notification Manager"
-msgstr "Управление на уведомленията в MeeGo"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:85
 msgctxt "Plugin|"
 msgid "Simple notification manager"
-msgstr "Обикновено управление на уведомленията"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:87
 msgctxt "Plugin|"
 msgid "MeeGo settings"
-msgstr "MeeGo настройки"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:88
 msgctxt "Plugin|"
 msgid "Simple MeeGo settings dialog"
-msgstr "Обикновен диалогов прозорец, за настройка на програмата в MeeGo"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:90
 msgctxt "Plugin|"
 msgid "MeeGo account creator"
-msgstr "MeeGo диалогов прозорец за създаване на сметки"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:91
 msgctxt "Plugin|"
 msgid "Simple MeeGo account creator"
-msgstr "Обикновен диалогов прозорец, за създаване на сметки в MeeGo"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/quickaddaccountdialog.cpp:44
 msgctxt "Settings|"
 msgid "Accounts"
-msgstr "Сметки"
+msgstr ""

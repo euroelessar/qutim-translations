@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-21 09:15+0000\n"
+"POT-Creation-Date: 2012-01-18 13:42+0000\n"
 "PO-Revision-Date: 2011-11-19 17:31+0000\n"
 "Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:22+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-01-19 05:16+0000\n"
+"X-Generator: Launchpad (build 14692)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: ru\n"
@@ -22,8 +22,8 @@ msgstr "Казарин Александр"
 
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:49
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
-msgstr "Сидоров Алексей"
+msgid "Aleksey Sidorov"
+msgstr ""
 
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:53
 msgctxt "Author|"
@@ -62,23 +62,23 @@ msgctxt "UrlPreview::UrlHandler|"
 msgid "bytes"
 msgstr "байт(ов)"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:229
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:241
 msgctxt "UrlPreview::UrlHandler|"
 msgid "YouTube video"
 msgstr "Видео YouTube"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:232
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:265
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:244
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:277
 msgctxt "UrlPreview::UrlHandler|"
 msgid "Unknown"
 msgstr "Неизвестно"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:242
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:254
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Audio"
 msgstr "HTML5 Аудио"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:256
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:268
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Video"
 msgstr "HTML5 Видео"

@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-21 09:15+0000\n"
+"POT-Creation-Date: 2012-01-18 13:42+0000\n"
 "PO-Revision-Date: 2011-11-15 16:52+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:22+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-01-19 05:16+0000\n"
+"X-Generator: Launchpad (build 14692)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: ru\n"
@@ -34,6 +34,27 @@ msgstr "Плагин показывает погоду в вашем город�
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Разработчик"
+
+#: ../../../plugins/weather/src/wsettings.cpp:140
+msgctxt "WSettings|"
+msgid "Searching..."
+msgstr ""
+
+#: ../../../plugins/weather/src/wsettings.cpp:145
+msgctxt "WSettings|"
+msgid "Select theme's directory"
+msgstr ""
+
+#: ../../../plugins/weather/src/wsettings.cpp:174
+msgctxt "WSettings|"
+msgid "Not found"
+msgstr ""
+
+#: ../../../plugins/weather/src/wsettings.cpp:176
+#, qt-format
+msgctxt "WSettings|"
+msgid "Found: %1"
+msgstr ""
 
 #: ../../../plugins/weather/src/wsettings.ui:14
 #: ../../../plugins/weather/src/wsettings.ui:76
@@ -184,6 +205,7 @@ msgstr ""
 "color:#000000;\">(c) 2008-2010</span></p></body></html>"
 
 #: ../../../plugins/weather/src/waccount.cpp:30
+#: ../../../plugins/weather/src/wcontact.cpp:65
 msgctxt "Weather|"
 msgid "Weather"
 msgstr "Прогноз погоды"
@@ -198,33 +220,135 @@ msgctxt "Weather|"
 msgid "Get weather forecast"
 msgstr "Прозноз погоды"
 
-#: ../../../plugins/weather/src/wsettings.cpp:111
+#: ../../../plugins/weather/src/wsettings.cpp:107
 msgctxt "Weather|"
 msgid "Enter here city's code"
 msgstr "Введите сюда код города"
 
-#: ../../../plugins/weather/src/wsettings.cpp:113
+#: ../../../plugins/weather/src/wsettings.cpp:109
 msgctxt "Weather|"
 msgid "Enter here city's name"
 msgstr "Введите сюда название города"
 
-#: ../../../plugins/weather/src/wsettings.cpp:139
-msgctxt "Weather|"
-msgid "Searching..."
-msgstr "Поиск..."
+#: ../../../plugins/weather/new/weatherSettings.ui:14
+#: ../../../plugins/weather/new/weatherSettings.ui:126
+msgctxt "weatherSettingsClass|"
+msgid "Settings"
+msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.cpp:144
-msgctxt "Weather|"
-msgid "Select theme's directory"
-msgstr "Укажите папку темы"
+#: ../../../plugins/weather/new/weatherSettings.ui:24
+msgctxt "weatherSettingsClass|"
+msgid "Cities"
+msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.cpp:177
-msgctxt "Weather|"
-msgid "Not found"
-msgstr "404 Не найдено"
+#: ../../../plugins/weather/new/weatherSettings.ui:33
+msgctxt "weatherSettingsClass|"
+msgid "&Add"
+msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.cpp:179
-#, qt-format
-msgctxt "Weather|"
-msgid "Found: %1"
-msgstr "Найдено: %1"
+#: ../../../plugins/weather/new/weatherSettings.ui:46
+msgctxt "weatherSettingsClass|"
+msgid "City &ID:"
+msgstr ""
+
+#: ../../../plugins/weather/new/weatherSettings.ui:59
+msgctxt "weatherSettingsClass|"
+msgid "&Delete city"
+msgstr ""
+
+#: ../../../plugins/weather/new/weatherSettings.ui:67
+msgctxt "weatherSettingsClass|"
+msgid "Search"
+msgstr ""
+
+#: ../../../plugins/weather/new/weatherSettings.ui:73
+msgctxt "weatherSettingsClass|"
+msgid "&City name:"
+msgstr ""
+
+#: ../../../plugins/weather/new/weatherSettings.ui:86
+msgctxt "weatherSettingsClass|"
+msgid "&Search"
+msgstr ""
+
+#: ../../../plugins/weather/new/weatherSettings.ui:99
+msgctxt "weatherSettingsClass|"
+msgid "Please, enter a city name."
+msgstr ""
+
+#: ../../../plugins/weather/new/weatherSettings.ui:115
+msgctxt "weatherSettingsClass|"
+msgid "Hint: double-click on a city adds it to your city list."
+msgstr ""
+
+#: ../../../plugins/weather/new/weatherSettings.ui:132
+msgctxt "weatherSettingsClass|"
+msgid "&Refresh period:"
+msgstr ""
+
+#: ../../../plugins/weather/new/weatherSettings.ui:152
+msgctxt "weatherSettingsClass|"
+msgid "Show weather in the &status row"
+msgstr ""
+
+#: ../../../plugins/weather/new/weatherSettings.ui:162
+msgctxt "weatherSettingsClass|"
+msgid "Show &notifications on weather change"
+msgstr ""
+
+#: ../../../plugins/weather/new/weatherSettings.ui:183
+msgctxt "weatherSettingsClass|"
+msgid "About"
+msgstr ""
+
+#: ../../../plugins/weather/new/weatherSettings.ui:189
+msgctxt "weatherSettingsClass|"
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Verdana'; font-size:10pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><img "
+"src=\":/icons/weather_big.png\" /></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+"style=\" font-family:'Bitstream Vera Sans'; font-weight:600;\">Weather qutIM "
+"plugin</span></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+"style=\" font-family:'Bitstream Vera Sans';\">v0.1.2 (<a "
+"href=\"http://deltaz.ru/node/65\"><span style=\" font-family:'Bitstream Vera "
+"Sans'; text-decoration: underline; "
+"color:#0000ff;\">Info</span></a>)</span></p>\n"
+"<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
+"bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px; font-family:'Bitstream Vera Sans';\"></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+"style=\" font-family:'Bitstream Vera Sans'; font-weight:600;\">Author: "
+"</span></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+"style=\" font-family:'Bitstream Vera Sans';\">Nikita Belov</span></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><a "
+"href=\"mailto:null@deltaz.ru\"><span style=\" font-family:'Bitstream Vera "
+"Sans'; text-decoration: underline; "
+"color:#0000ff;\">null@deltaz.ru</span></a></p>\n"
+"<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
+"bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px; font-family:'Bitstream Vera Sans'; text-decoration: underline; "
+"color:#000000;\"></p>\n"
+"<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
+"bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px; font-family:'Bitstream Vera Sans'; text-decoration: underline; "
+"color:#000000;\"></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+"style=\" font-family:'Bitstream Vera Sans'; color:#000000;\">(c) 2008-"
+"2009</span></p></body></html>"
+msgstr ""

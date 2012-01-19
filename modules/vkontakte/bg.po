@@ -2,18 +2,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-21 09:15+0000\n"
-"PO-Revision-Date: 2011-11-16 12:59+0000\n"
+"POT-Creation-Date: 2012-01-18 13:42+0000\n"
+"PO-Revision-Date: 2012-01-18 21:42+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:22+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-01-19 05:16+0000\n"
+"X-Generator: Launchpad (build 14692)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: bg\n"
+"X-Source-Language: C\n"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbum/default/PhotoViewerCore/AlbumDelegate.qml:120
 msgctxt "AlbumDelegate|"
@@ -28,16 +29,16 @@ msgstr "Алексей Сидоров"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:42
 msgctxt "Author|"
-msgid "Sidorov Aleksey"
+msgid "Aleksey Sidorov"
 msgstr "Алексей Сидоров"
 
-#: ../../../protocols/vkontakte/src/vcontact.cpp:200
+#: ../../../protocols/vkontakte/src/vcontact.cpp:197
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:70
 msgctxt "ContactInfo|"
 msgid "Mobile phone"
 msgstr "Телефон (моб.)"
 
-#: ../../../protocols/vkontakte/src/vcontact.cpp:204
+#: ../../../protocols/vkontakte/src/vcontact.cpp:201
 msgctxt "ContactInfo|"
 msgid "Activity"
 msgstr "Дейност"
@@ -240,7 +241,7 @@ msgctxt "VAccountWizardPage|"
 msgid "Save password"
 msgstr "Запис на паролата"
 
-#: ../../../protocols/vkontakte/src/vconnection.cpp:105
+#: ../../../protocols/vkontakte/src/vconnection.cpp:116
 msgctxt "VConnection|"
 msgid "qutIM - VKontakte authorization"
 msgstr "qutIM -ВКонтакте удостоверяване"
@@ -316,21 +317,6 @@ msgstr "Настройки на сметката"
 msgctxt "VkontakteProtocol|"
 msgid "id"
 msgstr "id"
-
-#: ../../../protocols/vkontakte/src/vkontakteprotocol.cpp:152
-msgctxt "VkontakteProtocolPrivate|"
-msgid "Send sms"
-msgstr "Изпращане на SMS"
-
-#: ../../../protocols/vkontakte/src/vkontakteprotocol.cpp:153
-msgctxt "VkontakteProtocolPrivate|"
-msgid "text:"
-msgstr "текст:"
-
-#: ../../../protocols/vkontakte/src/vkontakteprotocol.cpp:159
-msgctxt "VkontakteProtocolPrivate|"
-msgid "sms"
-msgstr "SMS"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbum/default/main.qml:108
 msgctxt "main|"
