@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-21 09:15+0000\n"
+"POT-Creation-Date: 2012-01-18 13:42+0000\n"
 "PO-Revision-Date: 2011-11-15 16:52+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,8 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:22+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-01-19 05:16+0000\n"
+"X-Generator: Launchpad (build 14692)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -36,28 +36,25 @@ msgid "Developer"
 msgstr "Разработчик"
 
 #: ../../../plugins/weather/src/wsettings.cpp:140
-#, fuzzy
 msgctxt "WSettings|"
 msgid "Searching..."
-msgstr "Поиск..."
+msgstr ""
 
 #: ../../../plugins/weather/src/wsettings.cpp:145
-#, fuzzy
 msgctxt "WSettings|"
 msgid "Select theme's directory"
-msgstr "Укажите папку темы"
+msgstr ""
 
 #: ../../../plugins/weather/src/wsettings.cpp:174
-#, fuzzy
 msgctxt "WSettings|"
 msgid "Not found"
-msgstr "404 Не найдено"
+msgstr ""
 
 #: ../../../plugins/weather/src/wsettings.cpp:176
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "WSettings|"
 msgid "Found: %1"
-msgstr "Найдено: %1"
+msgstr ""
 
 #: ../../../plugins/weather/src/wsettings.ui:14
 #: ../../../plugins/weather/src/wsettings.ui:76
@@ -235,16 +232,14 @@ msgstr "Введите сюда название города"
 
 #: ../../../plugins/weather/new/weatherSettings.ui:14
 #: ../../../plugins/weather/new/weatherSettings.ui:126
-#, fuzzy
 msgctxt "weatherSettingsClass|"
 msgid "Settings"
-msgstr "Настройки"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:24
-#, fuzzy
 msgctxt "weatherSettingsClass|"
 msgid "Cities"
-msgstr "Города"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:33
 msgctxt "weatherSettingsClass|"
@@ -262,10 +257,9 @@ msgid "&Delete city"
 msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:67
-#, fuzzy
 msgctxt "weatherSettingsClass|"
 msgid "Search"
-msgstr "Поиск"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:73
 msgctxt "weatherSettingsClass|"
@@ -273,16 +267,14 @@ msgid "&City name:"
 msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:86
-#, fuzzy
 msgctxt "weatherSettingsClass|"
 msgid "&Search"
-msgstr "Поиск"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:99
-#, fuzzy
 msgctxt "weatherSettingsClass|"
 msgid "Please, enter a city name."
-msgstr "Введите название города"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:115
 msgctxt "weatherSettingsClass|"
@@ -290,16 +282,14 @@ msgid "Hint: double-click on a city adds it to your city list."
 msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:132
-#, fuzzy
 msgctxt "weatherSettingsClass|"
 msgid "&Refresh period:"
-msgstr "Частота обновления:"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:152
-#, fuzzy
 msgctxt "weatherSettingsClass|"
 msgid "Show weather in the &status row"
-msgstr "Погода в поле статуса"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:162
 msgctxt "weatherSettingsClass|"
@@ -307,48 +297,48 @@ msgid "Show &notifications on weather change"
 msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:183
-#, fuzzy
 msgctxt "weatherSettingsClass|"
 msgid "About"
-msgstr "О плагине"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:189
-#, fuzzy
 msgctxt "weatherSettingsClass|"
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:'Verdana'; font-size:10pt; font-"
 "weight:400; font-style:normal;\">\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><img src="
-"\":/icons/weather_big.png\" /></p>\n"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><img "
+"src=\":/icons/weather_big.png\" /></p>\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
 "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
 "style=\" font-family:'Bitstream Vera Sans'; font-weight:600;\">Weather qutIM "
 "plugin</span></p>\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
 "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-family:'Bitstream Vera Sans';\">v0.1.2 (<a href=\"http://"
-"deltaz.ru/node/65\"><span style=\" font-family:'Bitstream Vera Sans'; text-"
-"decoration: underline; color:#0000ff;\">Info</span></a>)</span></p>\n"
+"style=\" font-family:'Bitstream Vera Sans';\">v0.1.2 (<a "
+"href=\"http://deltaz.ru/node/65\"><span style=\" font-family:'Bitstream Vera "
+"Sans'; text-decoration: underline; "
+"color:#0000ff;\">Info</span></a>)</span></p>\n"
 "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
 "bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
 "indent:0px; font-family:'Bitstream Vera Sans';\"></p>\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
 "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-family:'Bitstream Vera Sans'; font-weight:600;\">Author: </"
-"span></p>\n"
+"style=\" font-family:'Bitstream Vera Sans'; font-weight:600;\">Author: "
+"</span></p>\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
 "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
 "style=\" font-family:'Bitstream Vera Sans';\">Nikita Belov</span></p>\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><a href="
-"\"mailto:null@deltaz.ru\"><span style=\" font-family:'Bitstream Vera Sans'; "
-"text-decoration: underline; color:#0000ff;\">null@deltaz.ru</span></a></p>\n"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><a "
+"href=\"mailto:null@deltaz.ru\"><span style=\" font-family:'Bitstream Vera "
+"Sans'; text-decoration: underline; "
+"color:#0000ff;\">null@deltaz.ru</span></a></p>\n"
 "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
 "bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
 "indent:0px; font-family:'Bitstream Vera Sans'; text-decoration: underline; "
@@ -359,52 +349,6 @@ msgid ""
 "color:#000000;\"></p>\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
 "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-family:'Bitstream Vera Sans'; color:#000000;\">(c) 2008-2009</"
-"span></p></body></html>"
+"style=\" font-family:'Bitstream Vera Sans'; color:#000000;\">(c) 2008-"
+"2009</span></p></body></html>"
 msgstr ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-"
-"size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><img src="
-"\":/icons/weather_big.png\" /></p>\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:600;"
-"\">Плагин прогноза погоды для qutIM</span></p>\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-family:'Bitstream Vera Sans'; font-size:10pt;\">v0.2.0</span></"
-"p>\n"
-"<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
-"bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
-"indent:0px; font-family:'Bitstream Vera Sans'; font-size:10pt;\"></p>\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:600;"
-"\">Автор: </span></p>\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-family:'Bitstream Vera Sans'; font-size:10pt;\">Никита Белов</"
-"span></p>\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><a href="
-"\"mailto:null@deltaz.org\"><span style=\" font-family:'Bitstream Vera Sans'; "
-"font-size:10pt; text-decoration: underline; color:#0000ff;\">null@deltaz."
-"org</span></a></p>\n"
-"<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
-"bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
-"indent:0px; font-family:'Bitstream Vera Sans'; font-size:10pt; text-"
-"decoration: underline; color:#000000;\"></p>\n"
-"<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
-"bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
-"indent:0px; font-family:'Bitstream Vera Sans'; font-size:10pt; text-"
-"decoration: underline; color:#000000;\"></p>\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-family:'Bitstream Vera Sans'; font-size:10pt; color:#000000;\">"
-"(c) 2008-2010</span></p></body></html>"
