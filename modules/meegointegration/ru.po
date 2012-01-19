@@ -356,11 +356,6 @@ msgctxt "MeegoIntegration::AccountCreatorList|"
 msgid "Remove account"
 msgstr ""
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:194
-#, qt-format
-msgctxt "MeegoIntegration::AccountCreatorList|"
-msgid "Are you sure want to remove %1"
-msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/passworddialogwrapper.cpp:38
 msgctxt "MeegoIntegration::PasswordDialogWrapper|"
