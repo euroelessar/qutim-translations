@@ -25,79 +25,84 @@ msgctxt "Task|"
 msgid "Developer"
 msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.cpp:140
-msgctxt "WSettings|"
-msgid "Searching..."
+#: ../../../plugins/weather/src/waccount.cpp:161
+#, qt-format
+msgctxt "WAccount|"
+msgid "Weather: %1Â°%2"
 msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.cpp:145
-msgctxt "WSettings|"
-msgid "Select theme's directory"
+#: ../../../plugins/weather/src/wlistitem.cpp:41
+msgctxt "WListItem|"
+msgid "Remove"
 msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.cpp:174
+#: ../../../plugins/weather/src/wsettings.cpp:103
+msgctxt "WSettings|"
+msgid "Enter here city's name"
+msgstr ""
+
+#: ../../../plugins/weather/src/wsettings.cpp:164
 msgctxt "WSettings|"
 msgid "Not found"
 msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.cpp:176
-#, qt-format
-msgctxt "WSettings|"
-msgid "Found: %1"
-msgstr ""
-
 #: ../../../plugins/weather/src/wsettings.ui:14
-#: ../../../plugins/weather/src/wsettings.ui:76
+#: ../../../plugins/weather/src/wsettings.ui:58
 msgctxt "WSettingsClass|"
 msgid "Settings"
 msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.ui:24
+#: ../../../plugins/weather/src/wsettings.ui:27
 msgctxt "WSettingsClass|"
 msgid "Cities"
 msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.ui:45
+#: ../../../plugins/weather/src/wsettings.ui:43
 msgctxt "WSettingsClass|"
 msgid "Search"
 msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.ui:65
+#: ../../../plugins/weather/src/wsettings.ui:50
 msgctxt "WSettingsClass|"
-msgid "Enter city's name"
+msgid "Add"
 msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.ui:82
+#: ../../../plugins/weather/src/wsettings.ui:70
 msgctxt "WSettingsClass|"
 msgid "Refresh period:"
 msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.ui:99
+#: ../../../plugins/weather/src/wsettings.ui:83
+msgctxt "WSettingsClass|"
+msgid "min."
+msgstr ""
+
+#: ../../../plugins/weather/src/wsettings.ui:102
 msgctxt "WSettingsClass|"
 msgid "Show weather in the status row"
 msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.ui:109
+#: ../../../plugins/weather/src/wsettings.ui:118
 msgctxt "WSettingsClass|"
 msgid "Use default theme"
 msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.ui:119
+#: ../../../plugins/weather/src/wsettings.ui:134
 msgctxt "WSettingsClass|"
 msgid "Use custom theme:"
 msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.ui:136
+#: ../../../plugins/weather/src/wsettings.ui:163
 msgctxt "WSettingsClass|"
 msgid "Choose..."
 msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.ui:157
+#: ../../../plugins/weather/src/wsettings.ui:169
 msgctxt "WSettingsClass|"
 msgid "About"
 msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.ui:163
+#: ../../../plugins/weather/src/wsettings.ui:175
 msgctxt "WSettingsClass|"
 msgid ""
 "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
@@ -148,8 +153,115 @@ msgid ""
 "font-size:10pt; color:#000000;\">(c) 2008-2010</span></p></body></html>"
 msgstr ""
 
-#: ../../../plugins/weather/src/waccount.cpp:30
-#: ../../../plugins/weather/src/wcontact.cpp:65
+#: ../../../plugins/weather/__template_from_weather.cpp:1
+msgctxt "Weather|"
+msgid "Day"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:2
+msgctxt "Weather|"
+msgid "Dew Point"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:3
+msgctxt "Weather|"
+msgid "Feels Like"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:4
+msgctxt "Weather|"
+msgid "From %daytime/windDirectionText% at %daytime/windSpeed% %units/speed%"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:5
+#, qt-format
+msgctxt "Weather|"
+msgid ""
+"From %nighttime/windDirectionText% at %nighttime/windSpeed% %units/speed%"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:6
+msgctxt "Weather|"
+msgid "From %winddirection% at %windspeed% %units/speed%"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:7
+msgctxt "Weather|"
+msgid "High"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:8
+msgctxt "Weather|"
+msgid "Humidity"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:9
+msgctxt "Weather|"
+msgid "Local Time"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:10
+msgctxt "Weather|"
+msgid "Night"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:11
+msgctxt "Weather|"
+msgid "Overnight Low"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:12
+msgctxt "Weather|"
+msgid "Pressure"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:13
+msgctxt "Weather|"
+msgid "Rain"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:14
+msgctxt "Weather|"
+msgid "Snow"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:15
+msgctxt "Weather|"
+msgid "Sunrise"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:16
+msgctxt "Weather|"
+msgid "Sunset"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:17
+msgctxt "Weather|"
+msgid "Updated"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:18
+msgctxt "Weather|"
+msgid "UV Index"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:19
+msgctxt "Weather|"
+msgid "Visibility"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:20
+msgctxt "Weather|"
+msgid "Weather forecast"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:21
+msgctxt "Weather|"
+msgid "Wind"
+msgstr ""
+
+#: ../../../plugins/weather/src/waccount.cpp:35
+#: ../../../plugins/weather/src/wcontact.cpp:60
 msgctxt "Weather|"
 msgid "Weather"
 msgstr ""
@@ -162,16 +274,6 @@ msgstr ""
 #: ../../../plugins/weather/src/weather.cpp:49
 msgctxt "Weather|"
 msgid "Get weather forecast"
-msgstr ""
-
-#: ../../../plugins/weather/src/wsettings.cpp:107
-msgctxt "Weather|"
-msgid "Enter here city's code"
-msgstr ""
-
-#: ../../../plugins/weather/src/wsettings.cpp:109
-msgctxt "Weather|"
-msgid "Enter here city's name"
 msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:14

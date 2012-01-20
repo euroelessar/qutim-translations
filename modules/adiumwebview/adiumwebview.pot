@@ -5,12 +5,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:353
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:356
 msgctxt "Adium::WebViewAppearance|"
 msgid "Choose background image"
 msgstr ""
 
-#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:355
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:358
 msgctxt "Adium::WebViewAppearance|"
 msgid "Images (*.png *.xpm *.jpg *.bmp *.gif)"
 msgstr ""

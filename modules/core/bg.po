@@ -186,7 +186,7 @@ msgctxt "AutoAway|"
 msgid "Auto-away"
 msgstr "Автоматично отсъствие"
 
-#: ../../../core/src/corelayers/jsonhistory/jsonhistory.cpp:134
+#: ../../../core/src/corelayers/jsonhistory/jsonhistory.cpp:136
 msgctxt "Chat|"
 msgid "View History"
 msgstr "Преглед на хронологията"
