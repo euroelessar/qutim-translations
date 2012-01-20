@@ -21,10 +21,6 @@ msgctxt "Author|"
 msgid "Aleksey Sidorov"
 msgstr "Алексей Сидоров"
 
-#~ msgctxt "Author|"
-#~ msgid "Sidorov Aleksey"
-#~ msgstr "Алексей Сидоров"
-
 #: ../../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp:38
 msgctxt "Plugin|"
 msgid "UnreadMessagesKeeper"
@@ -40,3 +36,7 @@ msgstr ""
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Разработчик"
+
+#~ msgctxt "Author|"
+#~ msgid "Sidorov Aleksey"
+#~ msgstr "Алексей Сидоров"

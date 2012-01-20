@@ -92,10 +92,6 @@ msgctxt "Author|"
 msgid "Aleksey Sidorov"
 msgstr "Алексей Сидоров"
 
-#~ msgctxt "Author|"
-#~ msgid "Sidorov Aleksey"
-#~ msgstr "Алексей Сидоров"
-
 #: ../../../plugins/antispam/src/antispamplugin.cpp:53
 msgctxt "Plugin|"
 msgid "Antispam"
@@ -117,3 +113,7 @@ msgstr "Блокирано бе съобщение от %1 по подозрен
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"
+
+#~ msgctxt "Author|"
+#~ msgid "Sidorov Aleksey"
+#~ msgstr "Алексей Сидоров"

@@ -27,7 +27,6 @@ msgid "Alexey Sidorov"
 msgstr "Сидоров Алексей"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:42
-#, fuzzy
 msgctxt "Author|"
 msgid "Aleksey Sidorov"
 msgstr ""

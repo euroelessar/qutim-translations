@@ -26,10 +26,6 @@ msgctxt "Author|"
 msgid "Aleksey Sidorov"
 msgstr "Алексей Сидоров"
 
-#~ msgctxt "Author|"
-#~ msgid "Sidorov Aleksey"
-#~ msgstr "Алексей Сидоров"
-
 #: ../../../plugins/kdeintegration/src/aboutapp/kdeaboutappdialog.cpp:45
 msgctxt "Core|"
 msgid "About qutIM"
@@ -149,3 +145,7 @@ msgstr "Разработчик"
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"
+
+#~ msgctxt "Author|"
+#~ msgid "Sidorov Aleksey"
+#~ msgstr "Алексей Сидоров"

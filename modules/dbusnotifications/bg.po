@@ -21,10 +21,6 @@ msgctxt "Author|"
 msgid "Aleksey Sidorov"
 msgstr "Алексей Сидоров"
 
-#~ msgctxt "Author|"
-#~ msgid "Sidorov Aleksey"
-#~ msgstr "Алексей Сидоров"
-
 #: ../../../plugins/dbusnotifications/src/dbusbackend.cpp:84
 msgctxt "DBusBackend|"
 msgid "Show popup"
@@ -54,3 +50,7 @@ msgstr "DBus уведомления"
 msgctxt "plugin|"
 msgid "Notification system based on Freedesktop DBus protocol"
 msgstr "Система за уведомления на базата на Freedesktop DBus протокола"
+
+#~ msgctxt "Author|"
+#~ msgid "Sidorov Aleksey"
+#~ msgstr "Алексей Сидоров"
