@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-01-18 13:42+0000\n"
+"POT-Creation-Date: 2012-01-20 19:51+0000\n"
 "PO-Revision-Date: 2011-11-15 16:52+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-19 05:16+0000\n"
-"X-Generator: Launchpad (build 14692)\n"
+"X-Launchpad-Export-Date: 2012-01-21 06:29+0000\n"
+"X-Generator: Launchpad (build 14700)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: cs\n"
@@ -36,79 +36,84 @@ msgctxt "Task|"
 msgid "Developer"
 msgstr "Vývojář"
 
-#: ../../../plugins/weather/src/wsettings.cpp:140
-msgctxt "WSettings|"
-msgid "Searching..."
+#: ../../../plugins/weather/src/waccount.cpp:161
+#, qt-format
+msgctxt "WAccount|"
+msgid "Weather: %1Â°%2"
 msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.cpp:145
-msgctxt "WSettings|"
-msgid "Select theme's directory"
+#: ../../../plugins/weather/src/wlistitem.cpp:41
+msgctxt "WListItem|"
+msgid "Remove"
 msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.cpp:174
+#: ../../../plugins/weather/src/wsettings.cpp:103
+msgctxt "WSettings|"
+msgid "Enter here city's name"
+msgstr ""
+
+#: ../../../plugins/weather/src/wsettings.cpp:164
 msgctxt "WSettings|"
 msgid "Not found"
 msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.cpp:176
-#, qt-format
-msgctxt "WSettings|"
-msgid "Found: %1"
-msgstr ""
-
 #: ../../../plugins/weather/src/wsettings.ui:14
-#: ../../../plugins/weather/src/wsettings.ui:76
+#: ../../../plugins/weather/src/wsettings.ui:58
 msgctxt "WSettingsClass|"
 msgid "Settings"
 msgstr "Nastavení"
 
-#: ../../../plugins/weather/src/wsettings.ui:24
+#: ../../../plugins/weather/src/wsettings.ui:27
 msgctxt "WSettingsClass|"
 msgid "Cities"
 msgstr "Obce"
 
-#: ../../../plugins/weather/src/wsettings.ui:45
+#: ../../../plugins/weather/src/wsettings.ui:43
 msgctxt "WSettingsClass|"
 msgid "Search"
 msgstr "Hledat"
 
-#: ../../../plugins/weather/src/wsettings.ui:65
+#: ../../../plugins/weather/src/wsettings.ui:50
 msgctxt "WSettingsClass|"
-msgid "Enter city's name"
-msgstr "Zadat název obce"
+msgid "Add"
+msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.ui:82
+#: ../../../plugins/weather/src/wsettings.ui:70
 msgctxt "WSettingsClass|"
 msgid "Refresh period:"
 msgstr "Obnovovat po:"
 
-#: ../../../plugins/weather/src/wsettings.ui:99
+#: ../../../plugins/weather/src/wsettings.ui:83
+msgctxt "WSettingsClass|"
+msgid "min."
+msgstr ""
+
+#: ../../../plugins/weather/src/wsettings.ui:102
 msgctxt "WSettingsClass|"
 msgid "Show weather in the status row"
 msgstr "Zobrazit počasí ve stavovém řádku"
 
-#: ../../../plugins/weather/src/wsettings.ui:109
+#: ../../../plugins/weather/src/wsettings.ui:118
 msgctxt "WSettingsClass|"
 msgid "Use default theme"
 msgstr "Použít výchozí motiv"
 
-#: ../../../plugins/weather/src/wsettings.ui:119
+#: ../../../plugins/weather/src/wsettings.ui:134
 msgctxt "WSettingsClass|"
 msgid "Use custom theme:"
 msgstr "Použít vlastní motiv:"
 
-#: ../../../plugins/weather/src/wsettings.ui:136
+#: ../../../plugins/weather/src/wsettings.ui:163
 msgctxt "WSettingsClass|"
 msgid "Choose..."
 msgstr "Vybrat..."
 
-#: ../../../plugins/weather/src/wsettings.ui:157
+#: ../../../plugins/weather/src/wsettings.ui:169
 msgctxt "WSettingsClass|"
 msgid "About"
 msgstr "O..."
 
-#: ../../../plugins/weather/src/wsettings.ui:163
+#: ../../../plugins/weather/src/wsettings.ui:175
 msgctxt "WSettingsClass|"
 msgid ""
 "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
@@ -159,8 +164,115 @@ msgid ""
 "color:#000000;\">(c) 2008-2010</span></p></body></html>"
 msgstr ""
 
-#: ../../../plugins/weather/src/waccount.cpp:30
-#: ../../../plugins/weather/src/wcontact.cpp:65
+#: ../../../plugins/weather/__template_from_weather.cpp:1
+msgctxt "Weather|"
+msgid "Day"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:2
+msgctxt "Weather|"
+msgid "Dew Point"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:3
+msgctxt "Weather|"
+msgid "Feels Like"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:4
+msgctxt "Weather|"
+msgid "From %daytime/windDirectionText% at %daytime/windSpeed% %units/speed%"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:5
+#, qt-format
+msgctxt "Weather|"
+msgid ""
+"From %nighttime/windDirectionText% at %nighttime/windSpeed% %units/speed%"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:6
+msgctxt "Weather|"
+msgid "From %winddirection% at %windspeed% %units/speed%"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:7
+msgctxt "Weather|"
+msgid "High"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:8
+msgctxt "Weather|"
+msgid "Humidity"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:9
+msgctxt "Weather|"
+msgid "Local Time"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:10
+msgctxt "Weather|"
+msgid "Night"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:11
+msgctxt "Weather|"
+msgid "Overnight Low"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:12
+msgctxt "Weather|"
+msgid "Pressure"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:13
+msgctxt "Weather|"
+msgid "Rain"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:14
+msgctxt "Weather|"
+msgid "Snow"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:15
+msgctxt "Weather|"
+msgid "Sunrise"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:16
+msgctxt "Weather|"
+msgid "Sunset"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:17
+msgctxt "Weather|"
+msgid "Updated"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:18
+msgctxt "Weather|"
+msgid "UV Index"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:19
+msgctxt "Weather|"
+msgid "Visibility"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:20
+msgctxt "Weather|"
+msgid "Weather forecast"
+msgstr ""
+
+#: ../../../plugins/weather/__template_from_weather.cpp:21
+msgctxt "Weather|"
+msgid "Wind"
+msgstr ""
+
+#: ../../../plugins/weather/src/waccount.cpp:35
+#: ../../../plugins/weather/src/wcontact.cpp:60
 msgctxt "Weather|"
 msgid "Weather"
 msgstr "Počasí"
@@ -174,16 +286,6 @@ msgstr "Načíst počasí"
 msgctxt "Weather|"
 msgid "Get weather forecast"
 msgstr "Načíst předpověď počasí"
-
-#: ../../../plugins/weather/src/wsettings.cpp:107
-msgctxt "Weather|"
-msgid "Enter here city's code"
-msgstr "Zadejte zde kód obce"
-
-#: ../../../plugins/weather/src/wsettings.cpp:109
-msgctxt "Weather|"
-msgid "Enter here city's name"
-msgstr "Zadejte zde název obce"
 
 #: ../../../plugins/weather/new/weatherSettings.ui:14
 #: ../../../plugins/weather/new/weatherSettings.ui:126
