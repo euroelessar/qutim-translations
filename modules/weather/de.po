@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-01-18 13:42+0000\n"
-"PO-Revision-Date: 2012-01-13 16:57+0000\n"
-"Last-Translator: Daniel Winzen <d@winzen4.de>\n"
+"POT-Creation-Date: 2012-01-20 19:51+0000\n"
+"PO-Revision-Date: 2012-01-20 19:17+0000\n"
+"Last-Translator: mrx5682 <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-19 05:16+0000\n"
-"X-Generator: Launchpad (build 14692)\n"
+"X-Launchpad-Export-Date: 2012-01-21 06:29+0000\n"
+"X-Generator: Launchpad (build 14700)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
@@ -19,12 +19,12 @@ msgstr ""
 #: ../../../plugins/weather/src/weather.cpp:36
 msgctxt "Author|"
 msgid "Nikita Belov"
-msgstr ""
+msgstr "Nikita Belov"
 
 #: ../../../plugins/weather/src/weather.cpp:39
 msgctxt "Plugin|"
 msgid "Weather plugin"
-msgstr ""
+msgstr "Wetter-Plugin"
 
 #: ../../../plugins/weather/src/weather.cpp:40
 msgctxt "Plugin|"
@@ -48,15 +48,14 @@ msgid "Remove"
 msgstr ""
 
 #: ../../../plugins/weather/src/wsettings.cpp:103
-#, fuzzy
 msgctxt "WSettings|"
 msgid "Enter here city's name"
-msgstr "Name der Stadt eingeben"
+msgstr ""
 
 #: ../../../plugins/weather/src/wsettings.cpp:164
 msgctxt "WSettings|"
 msgid "Not found"
-msgstr ""
+msgstr "Nicht gefunden"
 
 #: ../../../plugins/weather/src/wsettings.ui:14
 #: ../../../plugins/weather/src/wsettings.ui:58
@@ -309,10 +308,9 @@ msgid "Visibility"
 msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:20
-#, fuzzy
 msgctxt "Weather|"
 msgid "Weather forecast"
-msgstr "Wettervorhersage"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:21
 msgctxt "Weather|"
@@ -339,52 +337,53 @@ msgstr "Wettervorhersage"
 #: ../../../plugins/weather/new/weatherSettings.ui:126
 msgctxt "weatherSettingsClass|"
 msgid "Settings"
-msgstr ""
+msgstr "Einstellungen"
 
 #: ../../../plugins/weather/new/weatherSettings.ui:24
 msgctxt "weatherSettingsClass|"
 msgid "Cities"
-msgstr ""
+msgstr "Städte"
 
 #: ../../../plugins/weather/new/weatherSettings.ui:33
 msgctxt "weatherSettingsClass|"
 msgid "&Add"
-msgstr ""
+msgstr "&Hinzufügen"
 
 #: ../../../plugins/weather/new/weatherSettings.ui:46
 msgctxt "weatherSettingsClass|"
 msgid "City &ID:"
-msgstr ""
+msgstr "Stadt &ID:"
 
 #: ../../../plugins/weather/new/weatherSettings.ui:59
 msgctxt "weatherSettingsClass|"
 msgid "&Delete city"
-msgstr ""
+msgstr "&Lösche Stadt"
 
 #: ../../../plugins/weather/new/weatherSettings.ui:67
 msgctxt "weatherSettingsClass|"
 msgid "Search"
-msgstr ""
+msgstr "Suche"
 
 #: ../../../plugins/weather/new/weatherSettings.ui:73
 msgctxt "weatherSettingsClass|"
 msgid "&City name:"
-msgstr ""
+msgstr "&Stadtname:"
 
 #: ../../../plugins/weather/new/weatherSettings.ui:86
 msgctxt "weatherSettingsClass|"
 msgid "&Search"
-msgstr ""
+msgstr "&Suchen"
 
 #: ../../../plugins/weather/new/weatherSettings.ui:99
 msgctxt "weatherSettingsClass|"
 msgid "Please, enter a city name."
-msgstr ""
+msgstr "Bitte geben sie einen Stadtnamen ein."
 
 #: ../../../plugins/weather/new/weatherSettings.ui:115
 msgctxt "weatherSettingsClass|"
 msgid "Hint: double-click on a city adds it to your city list."
 msgstr ""
+"Tip: Ein Doppelklick auf eine Stadt fügt diese zu ihrer Städteliste hinzu."
 
 #: ../../../plugins/weather/new/weatherSettings.ui:132
 msgctxt "weatherSettingsClass|"
@@ -404,7 +403,7 @@ msgstr ""
 #: ../../../plugins/weather/new/weatherSettings.ui:183
 msgctxt "weatherSettingsClass|"
 msgid "About"
-msgstr ""
+msgstr "Über"
 
 #: ../../../plugins/weather/new/weatherSettings.ui:189
 msgctxt "weatherSettingsClass|"

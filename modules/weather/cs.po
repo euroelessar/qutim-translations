@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-01-18 13:42+0000\n"
+"POT-Creation-Date: 2012-01-20 19:51+0000\n"
 "PO-Revision-Date: 2011-11-15 16:52+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,8 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-19 05:16+0000\n"
-"X-Generator: Launchpad (build 14692)\n"
+"X-Launchpad-Export-Date: 2012-01-21 06:29+0000\n"
+"X-Generator: Launchpad (build 14700)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
@@ -48,10 +48,9 @@ msgid "Remove"
 msgstr ""
 
 #: ../../../plugins/weather/src/wsettings.cpp:103
-#, fuzzy
 msgctxt "WSettings|"
 msgid "Enter here city's name"
-msgstr "Zadejte zde název obce"
+msgstr ""
 
 #: ../../../plugins/weather/src/wsettings.cpp:164
 msgctxt "WSettings|"
@@ -263,10 +262,9 @@ msgid "Visibility"
 msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:20
-#, fuzzy
 msgctxt "Weather|"
 msgid "Weather forecast"
-msgstr "Načíst předpověď počasí"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:21
 msgctxt "Weather|"

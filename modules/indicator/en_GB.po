@@ -1,0 +1,43 @@
+# English (United Kingdom) translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-11-21 09:13+0000\n"
+"PO-Revision-Date: 2012-01-20 17:18+0000\n"
+"Last-Translator: mrx5682 <Unknown>\n"
+"Language-Team: English (United Kingdom) <en_GB@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-01-21 06:29+0000\n"
+"X-Generator: Launchpad (build 14700)\n"
+
+#: ../../../plugins/indicator/src/indicator.cpp:37
+msgctxt "Author|"
+msgid "Vsevolod Velichko"
+msgstr "Vsevolod Velichko"
+
+#: ../../../plugins/indicator/src/indicator.cpp:41
+msgctxt "Plugin|"
+msgid "Indicator"
+msgstr "Indicator"
+
+#: ../../../plugins/indicator/src/indicator.cpp:42
+msgctxt "Plugin|"
+msgid "Ubuntu Indicator applet integration"
+msgstr "Ubuntu Indicator applet integration"
+
+#: ../../../plugins/indicator/src/indicatorservice.cpp:50
+msgctxt "Plugin|"
+msgid "Close qutIM"
+msgstr "Close qutIM"
+
+#: ../../../plugins/indicator/src/indicator.cpp:38
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Developer"
