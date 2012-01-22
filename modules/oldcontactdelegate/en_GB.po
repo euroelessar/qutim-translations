@@ -1,0 +1,98 @@
+# English (United Kingdom) translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-11-21 09:14+0000\n"
+"PO-Revision-Date: 2012-01-21 18:43+0000\n"
+"Last-Translator: mrx5682 <Unknown>\n"
+"Language-Team: English (United Kingdom) <en_GB@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-01-22 06:01+0000\n"
+"X-Generator: Launchpad (build 14700)\n"
+
+#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:86
+msgctxt "ContactList|"
+msgid "qutIM 0.2 style"
+msgstr "qutIM 0.2 style"
+
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:40
+msgctxt "ContactList|"
+msgid "Default (depends on platform)"
+msgstr "Default (depends on platform)"
+
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:41
+msgctxt "ContactList|"
+msgid "Small (16x16)"
+msgstr "Small (16x16)"
+
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:42
+msgctxt "ContactList|"
+msgid "Medium (22x22)"
+msgstr "Medium (22x22)"
+
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:43
+msgctxt "ContactList|"
+msgid "Large (32x32)"
+msgstr "Large (32x32)"
+
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:44
+msgctxt "ContactList|"
+msgid "Very large (48x48)"
+msgstr "Very large (48x48)"
+
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:45
+msgctxt "ContactList|"
+msgid "Huge (64x64)"
+msgstr "Huge (64x64)"
+
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.ui:14
+msgctxt "OldDelegateSettings|"
+msgid "Form"
+msgstr "Form"
+
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.ui:26
+msgctxt "OldDelegateSettings|"
+msgid "Show avatars"
+msgstr "Show avatars"
+
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.ui:33
+msgctxt "OldDelegateSettings|"
+msgid "Show status text"
+msgstr "Show status text"
+
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.ui:40
+msgctxt "OldDelegateSettings|"
+msgid "Show extended icons"
+msgstr "Show extended icons"
+
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.ui:47
+msgctxt "OldDelegateSettings|"
+msgid "Theme:"
+msgstr "Theme:"
+
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.ui:57
+msgctxt "OldDelegateSettings|"
+msgid "Status icon size:"
+msgstr "Status icon size:"
+
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.ui:64
+msgctxt "OldDelegateSettings|"
+msgid "Avatar icon size:"
+msgstr "Avatar icon size:"
+
+#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:64
+msgctxt "Plugin|"
+msgid "Old contact delegate"
+msgstr "Old contact delegate"
+
+#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:65
+msgctxt "Plugin|"
+msgid "Port of contact list delegate from 0.2"
+msgstr "Port of contact list delegate from 0.2"
