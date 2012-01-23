@@ -1,0 +1,152 @@
+# English (United Kingdom) translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-11-21 09:15+0000\n"
+"PO-Revision-Date: 2012-01-20 17:01+0000\n"
+"Last-Translator: mrx5682 <Unknown>\n"
+"Language-Team: English (United Kingdom) <en_GB@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Launchpad-Export-Date: 2012-01-21 06:29+0000\n"
+"X-Generator: Launchpad (build 14700)\n"
+
+#: ../../../plugins/winintegration/src/winint.cpp:63
+msgctxt "Author|"
+msgid "Vizir Ivan"
+msgstr "Vizir Ivan"
+
+#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:113
+msgctxt "Core::SimpleContactList::SevenWidget|"
+msgid "Status"
+msgstr "Status"
+
+#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:121
+msgctxt "Core::SimpleContactList::SevenWidget|"
+msgid "Search contact"
+msgstr "Search contact"
+
+#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:149
+#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:327
+msgctxt "Core::SimpleContactList::SevenWidget|"
+msgid "Set Status Text"
+msgstr "Set Status Text"
+
+#: ../../../plugins/winintegration/src/winint.cpp:66
+#: ../../../plugins/winintegration/src/winint.cpp:79
+msgctxt "Plugin|"
+msgid "Windows Integration"
+msgstr "Windows Integration"
+
+#: ../../../plugins/winintegration/src/winint.cpp:67
+msgctxt "Plugin|"
+msgid ""
+"Adds count of unread messages as an icon to taskbar button of qutim, along "
+"with some commands list and provides a bit more usable notification area "
+"icon than default plugin."
+msgstr ""
+"Adds count of unread messages as an icon to taskbar button of qutim, along "
+"with some commands list and provides a bit more usable notification area "
+"icon than default plugin."
+
+#: ../../../plugins/winintegration/src/winint.cpp:64
+msgctxt "Task|"
+msgid "Author"
+msgstr "Author"
+
+#: ../../../plugins/winintegration/src/wsettings.ui:14
+msgctxt "WSettingsForm|"
+msgid "Form"
+msgstr "Form"
+
+#: ../../../plugins/winintegration/src/wsettings.ui:33
+msgctxt "WSettingsForm|"
+msgid "General"
+msgstr "General"
+
+#: ../../../plugins/winintegration/src/wsettings.ui:39
+msgctxt "WSettingsForm|"
+msgid "Links association"
+msgstr "Links association"
+
+#: ../../../plugins/winintegration/src/wsettings.ui:45
+msgctxt "WSettingsForm|"
+msgid ""
+"Open Jabber links with qutIM. This may require administrative privelegies."
+msgstr ""
+"Open Jabber links with qutIM. This may require administrative privelegies."
+
+#: ../../../plugins/winintegration/src/wsettings.ui:65
+msgctxt "WSettingsForm|"
+msgid "Update associations"
+msgstr "Update associations"
+
+#: ../../../plugins/winintegration/src/wsettings.ui:104
+msgctxt "WSettingsForm|"
+msgid "Taskbar"
+msgstr "Taskbar"
+
+#: ../../../plugins/winintegration/src/wsettings.ui:110
+msgctxt "WSettingsForm|"
+msgid "Overlay Icon"
+msgstr "Overlay Icon"
+
+#: ../../../plugins/winintegration/src/wsettings.ui:116
+#: ../../../plugins/winintegration/src/wsettings.ui:152
+msgctxt "WSettingsForm|"
+msgid "Enabled"
+msgstr "Enabled"
+
+#: ../../../plugins/winintegration/src/wsettings.ui:126
+#: ../../../plugins/winintegration/src/wsettings.ui:162
+msgctxt "WSettingsForm|"
+msgid "Show new messages number"
+msgstr "Show new messages number"
+
+#: ../../../plugins/winintegration/src/wsettings.ui:136
+msgctxt "WSettingsForm|"
+msgid "Add new conference messages number"
+msgstr "Add new conference messages number"
+
+#: ../../../plugins/winintegration/src/wsettings.ui:146
+msgctxt "WSettingsForm|"
+msgid "Thumbnails"
+msgstr "Thumbnails"
+
+#: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:128
+msgctxt "WThumbnailsProvider|"
+msgid "<b>You have new messages.</b>"
+msgstr "<b>You have new messages.</b>"
+
+#: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:131
+#, qt-format
+msgctxt "WThumbnailsProvider|"
+msgid "&middot; %n message(s) from chats."
+msgid_plural "&middot; %n message(s) from chats."
+msgstr[0] "&middot;%n message(s) from chats."
+msgstr[1] "&middo; %n message(s) from chats."
+
+#: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:132
+#, qt-format
+msgctxt "WThumbnailsProvider|"
+msgid "&middot; %n message(s) from conferences."
+msgid_plural "&middot; %n message(s) from conferences."
+msgstr[0] "&middot; %n message(s) from conferences."
+msgstr[1] "&middot; %n message(s) from conferences."
+
+#: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:138
+msgctxt "WThumbnailsProvider|"
+msgid "Last received from:"
+msgstr "Last received from:"
+
+#: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:142
+msgctxt "WThumbnailsProvider|"
+msgid "You have no new messages."
+msgstr "You have no new messages."

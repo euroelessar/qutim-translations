@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-01-18 13:42+0000\n"
-"PO-Revision-Date: 2011-11-15 16:43+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"PO-Revision-Date: 2012-01-22 19:37+0000\n"
+"Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-19 05:16+0000\n"
-"X-Generator: Launchpad (build 14692)\n"
+"X-Launchpad-Export-Date: 2012-01-23 05:44+0000\n"
+"X-Generator: Launchpad (build 14700)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: de\n"
 "X-Source-Language: en\n"
@@ -19,12 +19,12 @@ msgstr ""
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:96
 msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
-msgstr ""
+msgstr "Ruslan Nigmatullin"
 
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:99
 msgctxt "Author|"
 msgid "Aleksey Sidorov"
-msgstr ""
+msgstr "Aleksey Sidorov"
 
 #: ../../../plugins/kdeintegration/src/aboutapp/kdeaboutappdialog.cpp:45
 msgctxt "Core|"
@@ -34,7 +34,7 @@ msgstr "Über qutIM"
 #: ../../../plugins/kdeintegration/src/speller/kdespellersettings.ui:14
 msgctxt "KdeSpellerSettings|"
 msgid "Form"
-msgstr ""
+msgstr "Form"
 
 #: ../../../plugins/kdeintegration/src/speller/kdespellersettings.ui:29
 msgctxt "KdeSpellerSettings|"
@@ -49,7 +49,7 @@ msgstr "Sprache automatisch erkennen"
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:103
 msgctxt "Plugin|"
 msgid "KDE integration"
-msgstr ""
+msgstr "KDE integration"
 
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:104
 msgctxt "Plugin|"
@@ -59,7 +59,7 @@ msgstr "Integration in KDE"
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:106
 msgctxt "Plugin|"
 msgid "KDE Integration"
-msgstr ""
+msgstr "KDE Integration"
 
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:107
 msgctxt "Plugin|"
@@ -69,7 +69,7 @@ msgstr "Vollständige Integration in KDE"
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:109
 msgctxt "Plugin|"
 msgid "KDE Emoticons"
-msgstr ""
+msgstr "KDE Emoticons"
 
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:110
 msgctxt "Plugin|"
@@ -79,7 +79,7 @@ msgstr "Verwendung der KDE-Emoticons"
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:112
 msgctxt "Plugin|"
 msgid "KDE Crash handler"
-msgstr ""
+msgstr "KDE Crash handler"
 
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:113
 msgctxt "Plugin|"
@@ -89,12 +89,12 @@ msgstr "Handelt qutIM's Abstürze mit KCrash ab"
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:115
 msgctxt "Plugin|"
 msgid "KDE Spell checker"
-msgstr ""
+msgstr "KDE Spell checker"
 
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:118
 msgctxt "Plugin|"
 msgid "KDE Icon engine"
-msgstr ""
+msgstr "KDE Icon engine"
 
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:119
 msgctxt "Plugin|"
@@ -104,7 +104,7 @@ msgstr "Verwendet die KDE Icon-Engine um Icons bereitzustellen"
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:125
 msgctxt "Plugin|"
 msgid "KDE Status Notifier"
-msgstr ""
+msgstr "KDE Status Notifier"
 
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:126
 msgctxt "Plugin|"
@@ -114,7 +114,7 @@ msgstr "Verwendet die neuen KDE DBus Tray-Spezifikationen"
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:128
 msgctxt "Plugin|"
 msgid "About KDE dialog"
-msgstr ""
+msgstr "About KDE dialog"
 
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:129
 msgctxt "Plugin|"
@@ -124,7 +124,7 @@ msgstr "Zeigt den \"Über KDE\"-Menüpunkt"
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:131
 msgctxt "Plugin|"
 msgid "KDE About application dialog"
-msgstr ""
+msgstr "KDE About application dialog"
 
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:132
 msgctxt "Plugin|"

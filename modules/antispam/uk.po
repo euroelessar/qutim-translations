@@ -1,0 +1,115 @@
+# Ukrainian translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-01-18 13:42+0000\n"
+"PO-Revision-Date: 2012-01-22 10:02+0000\n"
+"Last-Translator: Maxim <kontact.cat@gmail.com>\n"
+"Language-Team: Ukrainian <uk@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-01-23 05:43+0000\n"
+"X-Generator: Launchpad (build 14700)\n"
+
+#: ../../../plugins/antispam/src/antispamplugin.cpp:42
+msgctxt "Antispam|"
+msgid "Antispam"
+msgstr "Антиспам"
+
+#: ../../../plugins/antispam/src/handler.cpp:51
+msgctxt "Antispam::Handler|"
+msgid ""
+"Beer, wine, vodka, champagne: after which drink in this sequence I should "
+"stop?"
+msgstr ""
+"Пиво, вино, горілка, шампанське: після якого напою з перелічених найгірші "
+"наслідки?"
+
+#: ../../../plugins/antispam/src/handler.cpp:52
+msgctxt "Antispam::Handler|"
+msgid "We are ready to drink with you!"
+msgstr ""
+
+#: ../../../plugins/antispam/src/handler.cpp:53
+msgctxt "Antispam::Handler|"
+msgid "vodka;Vodka"
+msgstr "горілка;Горілка"
+
+#: ../../../plugins/antispam/src/settingswidget.ui:14
+msgctxt "Antispam::SettingsWidget|"
+msgid "Form"
+msgstr "Форма"
+
+#: ../../../plugins/antispam/src/settingswidget.ui:23
+msgctxt "Antispam::SettingsWidget|"
+msgid "Enabled"
+msgstr "Увімкнено"
+
+#: ../../../plugins/antispam/src/settingswidget.ui:30
+msgctxt "Antispam::SettingsWidget|"
+msgid "Handle auth requests"
+msgstr ""
+
+#: ../../../plugins/antispam/src/settingswidget.ui:37
+msgctxt "Antispam::SettingsWidget|"
+msgid "Question:"
+msgstr "Питання:"
+
+#: ../../../plugins/antispam/src/settingswidget.ui:50
+msgctxt "Antispam::SettingsWidget|"
+msgid "Answers (semicolon as a separator):"
+msgstr ""
+
+#: ../../../plugins/antispam/src/settingswidget.ui:63
+msgctxt "Antispam::SettingsWidget|"
+msgid "Message on correct answer:"
+msgstr "Правильна відповідь:"
+
+#: ../../../plugins/antispam/src/settingswidget.cpp:57
+msgctxt "Antispam::SettingsWidget|"
+msgid ""
+"Beer, wine, vodka, champagne: after which drink in this sequence I should "
+"stop?"
+msgstr ""
+
+#: ../../../plugins/antispam/src/settingswidget.cpp:58
+msgctxt "Antispam::SettingsWidget|"
+msgid "We are ready to drink with you!"
+msgstr ""
+
+#: ../../../plugins/antispam/src/settingswidget.cpp:59
+msgctxt "Antispam::SettingsWidget|"
+msgid "vodka;Vodka"
+msgstr ""
+
+#: ../../../plugins/antispam/src/antispamplugin.cpp:49
+msgctxt "Author|"
+msgid "Aleksey Sidorov"
+msgstr "Олексій Сидоров"
+
+#: ../../../plugins/antispam/src/antispamplugin.cpp:53
+msgctxt "Plugin|"
+msgid "Antispam"
+msgstr "Антиспам"
+
+#: ../../../plugins/antispam/src/antispamplugin.cpp:54
+msgctxt "Plugin|"
+msgid "Blocks messages from unknown contacts by question-answer pair"
+msgstr ""
+
+#: ../../../plugins/antispam/src/handler.cpp:90
+#, qt-format
+msgctxt "QObject|"
+msgid "Message from %1 blocked  on suspicion of spam."
+msgstr ""
+
+#: ../../../plugins/antispam/src/antispamplugin.cpp:50
+msgctxt "Task|"
+msgid "Author"
+msgstr "Автор"

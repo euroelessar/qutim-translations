@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-01-18 13:42+0000\n"
-"PO-Revision-Date: 2011-11-15 16:36+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"PO-Revision-Date: 2012-01-22 19:05+0000\n"
+"Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-19 05:15+0000\n"
-"X-Generator: Launchpad (build 14692)\n"
+"X-Launchpad-Export-Date: 2012-01-23 05:43+0000\n"
+"X-Generator: Launchpad (build 14700)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: de\n"
 "X-Source-Language: en\n"
@@ -19,7 +19,7 @@ msgstr ""
 #: ../../../plugins/dbusnotifications/src/dplugin.cpp:42
 msgctxt "Author|"
 msgid "Aleksey Sidorov"
-msgstr ""
+msgstr "Aleksey Sidorov"
 
 #: ../../../plugins/dbusnotifications/src/dbusbackend.cpp:84
 msgctxt "DBusBackend|"
@@ -29,7 +29,7 @@ msgstr "Zeige Benachrichtigung"
 #: ../../../plugins/dbusnotifications/src/dplugin.cpp:38
 msgctxt "Plugin|"
 msgid "DBus notifications"
-msgstr ""
+msgstr "DBus notifications"
 
 #: ../../../plugins/dbusnotifications/src/dplugin.cpp:39
 msgctxt "Plugin|"
@@ -44,7 +44,7 @@ msgstr "Autor"
 #: ../../../plugins/dbusnotifications/src/dplugin.cpp:46
 msgctxt "plugin|"
 msgid "DBus notifications"
-msgstr ""
+msgstr "DBus notifications"
 
 #: ../../../plugins/dbusnotifications/src/dplugin.cpp:47
 msgctxt "plugin|"

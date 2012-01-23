@@ -1,0 +1,148 @@
+# English (United Kingdom) translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-01-18 13:42+0000\n"
+"PO-Revision-Date: 2012-01-20 17:49+0000\n"
+"Last-Translator: mrx5682 <Unknown>\n"
+"Language-Team: English (United Kingdom) <en_GB@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-01-21 06:29+0000\n"
+"X-Generator: Launchpad (build 14700)\n"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:96
+msgctxt "Author|"
+msgid "Ruslan Nigmatullin"
+msgstr "Ruslan Nigmatullin"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:99
+msgctxt "Author|"
+msgid "Aleksey Sidorov"
+msgstr "Aleksey Sidorov"
+
+#: ../../../plugins/kdeintegration/src/aboutapp/kdeaboutappdialog.cpp:45
+msgctxt "Core|"
+msgid "About qutIM"
+msgstr "About qutIM"
+
+#: ../../../plugins/kdeintegration/src/speller/kdespellersettings.ui:14
+msgctxt "KdeSpellerSettings|"
+msgid "Form"
+msgstr "Form"
+
+#: ../../../plugins/kdeintegration/src/speller/kdespellersettings.ui:29
+msgctxt "KdeSpellerSettings|"
+msgid "Select dictionary:"
+msgstr "Select dictionary:"
+
+#: ../../../plugins/kdeintegration/src/speller/kdespellersettings.ui:39
+msgctxt "KdeSpellerSettings|"
+msgid "Autodetect of language"
+msgstr "Autodetect of language"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:103
+msgctxt "Plugin|"
+msgid "KDE integration"
+msgstr "KDE integration"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:104
+msgctxt "Plugin|"
+msgid "Integration with K Desktop Environment"
+msgstr "Integration with K Desktop Environment"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:106
+msgctxt "Plugin|"
+msgid "KDE Integration"
+msgstr "KDE Integration"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:107
+msgctxt "Plugin|"
+msgid "Full-featured integration with KDE"
+msgstr "Full-featured integration with KDE"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:109
+msgctxt "Plugin|"
+msgid "KDE Emoticons"
+msgstr "KDE Emoticions"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:110
+msgctxt "Plugin|"
+msgid "Using KDE emoticons packs"
+msgstr "Using KDE emoticons packs"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:112
+msgctxt "Plugin|"
+msgid "KDE Crash handler"
+msgstr "KDE Crash handler"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:113
+msgctxt "Plugin|"
+msgid "Handles qutIM's craches by KCrash"
+msgstr "Handles qutIM's crashes by KCrash"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:115
+msgctxt "Plugin|"
+msgid "KDE Spell checker"
+msgstr "KDE Spell checker"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:118
+msgctxt "Plugin|"
+msgid "KDE Icon engine"
+msgstr "KDE Icon engine"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:119
+msgctxt "Plugin|"
+msgid "Uses KDE Icon engine for providing icons"
+msgstr "Uses KDE Icon engine for providing icons"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:125
+msgctxt "Plugin|"
+msgid "KDE Status Notifier"
+msgstr "KDE Status Notifier"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:126
+msgctxt "Plugin|"
+msgid "Using new KDE DBus tray specification"
+msgstr "Using new KDE DBus tray specification"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:128
+msgctxt "Plugin|"
+msgid "About KDE dialog"
+msgstr "About KDE dialog"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:129
+msgctxt "Plugin|"
+msgid "Show \"About KDE\" menu option"
+msgstr "Show \"About KDE\" menu option"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:131
+msgctxt "Plugin|"
+msgid "KDE About application dialog"
+msgstr "KDE About application dialog"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:132
+msgctxt "Plugin|"
+msgid "Use kde-specific application about dialog"
+msgstr "Use kde-specific application about dialog"
+
+#: ../../../plugins/kdeintegration/src/speller/kdespellerlayer.cpp:39
+msgctxt "Settings|"
+msgid "Spell checker"
+msgstr "Spell checker"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:97
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Developer"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:100
+msgctxt "Task|"
+msgid "Author"
+msgstr "Author"

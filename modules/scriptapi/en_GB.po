@@ -1,0 +1,113 @@
+# English (United Kingdom) translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-11-21 09:14+0000\n"
+"PO-Revision-Date: 2012-01-21 18:24+0000\n"
+"Last-Translator: mrx5682 <Unknown>\n"
+"Language-Team: English (United Kingdom) <en_GB@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-01-22 06:02+0000\n"
+"X-Generator: Launchpad (build 14700)\n"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:40
+#: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:30
+#: ../../../plugins/scriptapi/src/scriptplugin.cpp:113
+msgctxt "Author|"
+msgid "Ruslan Nigmatullin"
+msgstr "Ruslan Nigmatullin"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:44
+msgctxt "Ignorer|"
+msgid "Evil ids"
+msgstr "Evil ids"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:36
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:98
+msgctxt "Plugin|"
+msgid "Antispam"
+msgstr "Antispam"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:37
+msgctxt "Plugin|"
+msgid "Blocks spam by qurstion-answer pair"
+msgstr "Blocks spam by question-answer pair"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:26
+#: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:39
+msgctxt "Plugin|"
+msgid "Ignorer"
+msgstr "Ignorer"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:27
+msgctxt "Plugin|"
+msgid "Ignores messages from certain persons"
+msgstr "Ignores messages from certain persons"
+
+#: ../../../plugins/scriptapi/src/scriptplugin.cpp:116
+msgctxt "Plugin|"
+msgid "Script API"
+msgstr "Script API"
+
+#: ../../../plugins/scriptapi/src/scriptplugin.cpp:117
+msgctxt "Plugin|"
+msgid "Added ability to create plugins at JavaScript"
+msgstr "Added ability to create plugins at JavaScript"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:41
+#: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:31
+#: ../../../plugins/scriptapi/src/scriptplugin.cpp:114
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Developer"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:47
+msgctxt "plugin|"
+msgid ""
+"Beer, wine, vodka, champagne: after which drink in this sequence I should "
+"stop?"
+msgstr ""
+"Beer, wine, vodka, champagne: after which drink in this sequence I should "
+"stop?"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:48
+msgctxt "plugin|"
+msgid "Vodka"
+msgstr "Vodka"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:49
+msgctxt "plugin|"
+msgid "We are ready to drink with you!"
+msgstr "We are ready to drink with you!"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:112
+msgctxt "plugin|"
+msgid "Enabled:"
+msgstr "Enabled:"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:113
+msgctxt "plugin|"
+msgid "Block authorization requests:"
+msgstr "Block authorization requests:"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:114
+msgctxt "plugin|"
+msgid "Question:"
+msgstr "Question:"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:115
+msgctxt "plugin|"
+msgid "Answers (semicolon as separator):"
+msgstr "Answers (semicolon as separator):"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:116
+msgctxt "plugin|"
+msgid "Message on correct answer:"
+msgstr "Message on correct answer:"
