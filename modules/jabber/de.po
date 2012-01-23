@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-01-20 19:51+0000\n"
-"PO-Revision-Date: 2012-01-20 09:44+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"PO-Revision-Date: 2012-01-22 19:36+0000\n"
+"Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-21 06:29+0000\n"
+"X-Launchpad-Export-Date: 2012-01-23 05:44+0000\n"
 "X-Generator: Launchpad (build 14700)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
@@ -424,17 +424,17 @@ msgstr "Zeige Tätigkeits-Symbole"
 #: ../../../protocols/jabber/src/jplugin.cpp:57
 msgctxt "Author|"
 msgid "Denis Daschenko"
-msgstr ""
+msgstr "Denis Daschenko"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:60
 msgctxt "Author|"
 msgid "Nikita Belov"
-msgstr ""
+msgstr "Nikita Belov"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:64
 msgctxt "Author|"
 msgid "Aleksey Sidorov"
-msgstr ""
+msgstr "Aleksey Sidorov"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:140
 msgctxt "Conference|"
@@ -616,7 +616,7 @@ msgstr "Allgemein"
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:178
 msgctxt "ContactInfo|"
 msgid "Avatar"
-msgstr ""
+msgstr "Avatar"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:218
 msgctxt "ContactInfo|"
@@ -644,24 +644,24 @@ msgstr "Arbeit"
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:395
 msgctxt "ContactInfo|"
 msgid "Type"
-msgstr ""
+msgstr "Art"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:406
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:427
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:446
 msgctxt "ContactInfo|"
 msgid "Home"
-msgstr ""
+msgstr "Privat"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:408
 msgctxt "ContactInfo|"
 msgid "Cell"
-msgstr ""
+msgstr "Handy"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:418
 msgctxt "ContactInfo|"
 msgid "Number"
-msgstr ""
+msgstr "Nummer"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:437
 msgctxt "ContactInfo|"
@@ -686,7 +686,7 @@ msgstr "Betriebssystem"
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:14
 msgctxt "JAccountWizardPage|"
 msgid "WizardPage"
-msgstr ""
+msgstr "WizardPage"
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:31
 msgctxt "JAccountWizardPage|"
@@ -696,7 +696,7 @@ msgstr "Benutzername:"
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:49
 msgctxt "JAccountWizardPage|"
 msgid "TextLabel"
-msgstr ""
+msgstr "TextLabel"
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:68
 msgctxt "JAccountWizardPage|"
@@ -711,17 +711,17 @@ msgstr "Passwort speichern"
 #: ../../../protocols/jabber/src/protocol/modules/adhoc/jadhocwidget.ui:14
 msgctxt "JAdHocWidget|"
 msgid "Form"
-msgstr ""
+msgstr "Form"
 
 #: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:14
 msgctxt "JCertInfo|"
 msgid "Cert Info"
-msgstr ""
+msgstr "Cert Info"
 
 #: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:22
 msgctxt "JCertInfo|"
 msgid "Cipher:"
-msgstr ""
+msgstr "Cipher:"
 
 #: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:29
 msgctxt "JCertInfo|"
@@ -761,7 +761,7 @@ msgstr "Wahl für diesen Server speichern"
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:14
 msgctxt "JMainSettings|"
 msgid "Form"
-msgstr ""
+msgstr "Form"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:35
 msgctxt "JMainSettings|"
@@ -836,7 +836,7 @@ msgstr "Name"
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:205
 msgctxt "Jabber|"
 msgid "Conference"
-msgstr ""
+msgstr "Chatraum"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:215
 msgctxt "Jabber|"
@@ -948,7 +948,7 @@ msgstr "Tätigkeit"
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.ui:20
 msgctxt "Jabber::JActivityChooserWindow|"
 msgid "Form"
-msgstr ""
+msgstr "Form"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:175
 msgctxt "Jabber::JActivityChooserWindow|"
@@ -1104,7 +1104,7 @@ msgstr "Stimmung"
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.ui:14
 msgctxt "Jabber::JMoodChooserWindow|"
 msgid "Form"
-msgstr ""
+msgstr "Form"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:44
 msgctxt "Jabber::JMoodChooserWindow|"
@@ -1243,22 +1243,22 @@ msgstr "Sichtbare Stanzas"
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:88
 msgctxt "Jabber::XmlConsole|"
 msgid "Information query"
-msgstr ""
+msgstr "Information query"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:92
 msgctxt "Jabber::XmlConsole|"
 msgid "Message"
-msgstr ""
+msgstr "Message"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:96
 msgctxt "Jabber::XmlConsole|"
 msgid "Presence"
-msgstr ""
+msgstr "Presence"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:100
 msgctxt "Jabber::XmlConsole|"
 msgid "Custom"
-msgstr ""
+msgstr "Custom"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:118
 msgctxt "Jabber::XmlConsole|"
@@ -1869,7 +1869,7 @@ msgstr "Zeige Stimmungssymbole"
 #: ../../../protocols/jabber/src/jplugin.cpp:67
 msgctxt "Plugin|"
 msgid "Jabber"
-msgstr ""
+msgstr "Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:54
 #: ../../../protocols/jabber/src/jplugin.cpp:68
@@ -1880,7 +1880,7 @@ msgstr "Jabber-Protokoll"
 #: ../../../protocols/jabber/src/jplugin.cpp:71
 msgctxt "Plugin|"
 msgid "Jabber account creator"
-msgstr ""
+msgstr "Jabber account creator"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:72
 msgctxt "Plugin|"
@@ -1890,7 +1890,7 @@ msgstr "Konten für das Jabber-Protokoll erstellen"
 #: ../../../protocols/jabber/src/jplugin.cpp:75
 msgctxt "Plugin|"
 msgid "LiveJournal account creator"
-msgstr ""
+msgstr "LiveJournal account creator"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:76
 msgctxt "Plugin|"
@@ -1900,7 +1900,7 @@ msgstr "Konten für LiveJournal erstellen"
 #: ../../../protocols/jabber/src/jplugin.cpp:79
 msgctxt "Plugin|"
 msgid "Google Talk account creator"
-msgstr ""
+msgstr "Google Talk account creator"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:80
 msgctxt "Plugin|"
@@ -1910,7 +1910,7 @@ msgstr "Konten für GoogleTalk erstellen"
 #: ../../../protocols/jabber/src/jplugin.cpp:83
 msgctxt "Plugin|"
 msgid "Yandex.Online account creator"
-msgstr ""
+msgstr "Yandex.Online account creator"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:84
 msgctxt "Plugin|"
@@ -1920,7 +1920,7 @@ msgstr "Konten für Yandex.Online erstellen"
 #: ../../../protocols/jabber/src/jplugin.cpp:87
 msgctxt "Plugin|"
 msgid "QIP account creator"
-msgstr ""
+msgstr "QIP account creator"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:88
 msgctxt "Plugin|"
@@ -1930,7 +1930,7 @@ msgstr "Konten für QIP erstellen"
 #: ../../../protocols/jabber/src/jplugin.cpp:92
 msgctxt "Plugin|"
 msgid "Jabber XML console"
-msgstr ""
+msgstr "Jabber XML console"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:93
 msgctxt "Plugin|"
@@ -1940,7 +1940,7 @@ msgstr "XML-Konsole zum debuggen"
 #: ../../../protocols/jabber/src/jplugin.cpp:105
 msgctxt "Plugin|"
 msgid "Jabber Service Browser"
-msgstr ""
+msgstr "Jabber Service Browser"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:106
 msgctxt "Plugin|"
@@ -1950,7 +1950,7 @@ msgstr "Service Discovery für Jabber"
 #: ../../../protocols/jabber/src/jplugin.cpp:113
 msgctxt "Plugin|"
 msgid "Jabber Personal Events support"
-msgstr ""
+msgstr "Jabber Personal Events support"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:114
 msgctxt "Plugin|"
@@ -1960,7 +1960,7 @@ msgstr "PEP-Unterstützung für Jabber"
 #: ../../../protocols/jabber/src/jplugin.cpp:117
 msgctxt "Plugin|"
 msgid "Jabber VCard support"
-msgstr ""
+msgstr "Jabber VCard support"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:118
 msgctxt "Plugin|"
@@ -1970,7 +1970,7 @@ msgstr "Benutzerinfos abrufen"
 #: ../../../protocols/jabber/src/jplugin.cpp:125
 msgctxt "Plugin|"
 msgid "Jabber User Mood support"
-msgstr ""
+msgstr "Jabber User Mood support"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:126
 msgctxt "Plugin|"
@@ -1980,7 +1980,7 @@ msgstr "Konvertiert XMPP-Moods-Daten zu Qt-Datentypen"
 #: ../../../protocols/jabber/src/jplugin.cpp:129
 msgctxt "Plugin|"
 msgid "Jabber Mood Chooser"
-msgstr ""
+msgstr "Jabber Mood Chooser"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:130
 msgctxt "Plugin|"
@@ -1990,7 +1990,7 @@ msgstr "Dialog, um die eigene Stimmung zu veröffentlichen"
 #: ../../../protocols/jabber/src/jplugin.cpp:133
 msgctxt "Plugin|"
 msgid "Jabber User Tune support"
-msgstr ""
+msgstr "Jabber User Tune support"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:134
 msgctxt "Plugin|"
@@ -2000,7 +2000,7 @@ msgstr "Konvertiert XMPP-Tune-Daten zu Qt-Datentypen"
 #: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:14
 msgctxt "RoomConfig|"
 msgid "Form"
-msgstr ""
+msgstr "Form"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:58
 msgctxt "RoomConfig|"
@@ -2020,7 +2020,7 @@ msgstr "Abbrechen"
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:14
 msgctxt "ServiceBrowser|"
 msgid "jServiceBrowser"
-msgstr ""
+msgstr "jServiceBrowser"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:31
 msgctxt "ServiceBrowser|"
@@ -2133,7 +2133,7 @@ msgstr "Zeige Musik-Symbol"
 #: ../../../protocols/jabber/jreen/src/gui/xmlconsole.ui:14
 msgctxt "XmlConsole|"
 msgid "Form"
-msgstr ""
+msgstr "Form"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui:14
 msgctxt "XmlConsole|"

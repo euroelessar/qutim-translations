@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-21 09:15+0000\n"
-"PO-Revision-Date: 2012-01-21 11:21+0000\n"
-"Last-Translator: mrx5682 <Unknown>\n"
+"PO-Revision-Date: 2012-01-22 10:07+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2012-01-22 06:02+0000\n"
+"X-Launchpad-Export-Date: 2012-01-23 05:44+0000\n"
 "X-Generator: Launchpad (build 14700)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
@@ -51,7 +51,7 @@ msgid ""
 "with some commands list and provides a bit more usable notification area "
 "icon than default plugin."
 msgstr ""
-"Zeigt die Anzahl der ungelesenen Nachrichten im Taskleistensymbol und einige "
+"Zeigt die Anzahl der ungelesenen Nachrichten in der Taskleiste und einige "
 "Befehle. Bringt etwas bessere Benachrichtigungen als das Standard-Plugin."
 
 #: ../../../plugins/winintegration/src/winint.cpp:64
@@ -72,7 +72,7 @@ msgstr "Allgemein"
 #: ../../../plugins/winintegration/src/wsettings.ui:39
 msgctxt "WSettingsForm|"
 msgid "Links association"
-msgstr "Links"
+msgstr "Linkverbund"
 
 #: ../../../plugins/winintegration/src/wsettings.ui:45
 msgctxt "WSettingsForm|"
@@ -84,7 +84,7 @@ msgstr ""
 #: ../../../plugins/winintegration/src/wsettings.ui:65
 msgctxt "WSettingsForm|"
 msgid "Update associations"
-msgstr ""
+msgstr "Links zuweisen"
 
 #: ../../../plugins/winintegration/src/wsettings.ui:104
 msgctxt "WSettingsForm|"
@@ -94,7 +94,7 @@ msgstr "Taskleiste"
 #: ../../../plugins/winintegration/src/wsettings.ui:110
 msgctxt "WSettingsForm|"
 msgid "Overlay Icon"
-msgstr "Überlagerndes Symbol"
+msgstr "Überlagerungssymbol"
 
 #: ../../../plugins/winintegration/src/wsettings.ui:116
 #: ../../../plugins/winintegration/src/wsettings.ui:152
@@ -112,16 +112,17 @@ msgstr "Zeige Anzahl der neuen Nachrichten"
 msgctxt "WSettingsForm|"
 msgid "Add new conference messages number"
 msgstr ""
+"Zeige Anzahl der neuen Nachrichten und neuen Nachrichten in Chaträumen"
 
 #: ../../../plugins/winintegration/src/wsettings.ui:146
 msgctxt "WSettingsForm|"
 msgid "Thumbnails"
-msgstr ""
+msgstr "Vorschaubilder"
 
 #: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:128
 msgctxt "WThumbnailsProvider|"
 msgid "<b>You have new messages.</b>"
-msgstr "<b>Du hast neue Nachrichten.</b>"
+msgstr "<b>Sie haben neue Nachrichten</b>"
 
 #: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:131
 #, qt-format

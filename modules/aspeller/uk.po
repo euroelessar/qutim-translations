@@ -1,52 +1,53 @@
+# Ukrainian translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-01-18 13:42+0000\n"
-"PO-Revision-Date: 2012-01-22 17:05+0000\n"
-"Last-Translator: mrx5682 <Unknown>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2012-01-22 10:28+0000\n"
+"Last-Translator: Maxim <kontact.cat@gmail.com>\n"
+"Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-01-23 05:43+0000\n"
 "X-Generator: Launchpad (build 14700)\n"
-"X-Qt-Contexts: true\n"
-"Language: \n"
-"X-Language: de\n"
-"X-Source-Language: en\n"
 
 #: ../../../plugins/aspeller/src/aspellsettings.cpp:35
 msgctxt "AspellSettings|"
 msgid "Language"
-msgstr "Sprache"
+msgstr "Мова"
 
 #: ../../../plugins/aspeller/src/aspellplugin.cpp:36
 msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
-msgstr "Ruslan Nigmatullin"
+msgstr ""
 
 #: ../../../plugins/aspeller/src/aspellplugin.cpp:39
 msgctxt "Author|"
 msgid "Alexey Prokhin"
-msgstr "Alexey Prokhin"
+msgstr "Олексій Прохін"
 
 #: ../../../plugins/aspeller/src/aspellplugin.cpp:42
 #: ../../../plugins/aspeller/src/aspellplugin.cpp:45
 msgctxt "Plugin|"
 msgid "ASpell checker"
-msgstr "ASpell checker"
+msgstr ""
 
 #: ../../../plugins/aspeller/src/aspellplugin.cpp:43
 #: ../../../plugins/aspeller/src/aspellplugin.cpp:46
 msgctxt "Plugin|"
 msgid "Check spelling by ASpell library"
-msgstr "Rechtschreibprüfung, basierend auf ASpell"
+msgstr ""
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:88
 msgctxt "Settings|"
 msgid "Spell checker"
-msgstr "Rechtschreibprüfung"
+msgstr "Перевірка орфографії"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:43
 msgctxt "SpellChecker|"
@@ -66,99 +67,99 @@ msgstr "80"
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:46
 msgctxt "SpellChecker|"
 msgid "-ise suffixes"
-msgstr "-ise Suffixe"
+msgstr "суфікси -ise"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:47
 msgctxt "SpellChecker|"
 msgid "-ize suffixes"
-msgstr "-ize Suffixe"
+msgstr "суфікси -ize"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:48
 msgctxt "SpellChecker|"
 msgid "-ise suffixes and with accents"
-msgstr "-ise Suffixe und mit Akzenten"
+msgstr ""
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:49
 msgctxt "SpellChecker|"
 msgid "-ise suffixes and without accents"
-msgstr "-ise Suffixe und ohne Akzente"
+msgstr ""
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:50
 msgctxt "SpellChecker|"
 msgid "-ize suffixes and with accents"
-msgstr "-ize Suffixe und mit Akzenten"
+msgstr ""
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:51
 msgctxt "SpellChecker|"
 msgid "-ize suffixes and without accents"
-msgstr "-ize Suffixe und ohne Akzente"
+msgstr ""
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:52
 msgctxt "SpellChecker|"
 msgid "large"
-msgstr "groß"
+msgstr "великий"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:53
 msgctxt "SpellChecker|"
 msgid "medium"
-msgstr "mittel"
+msgstr "середній"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:54
 msgctxt "SpellChecker|"
 msgid "small"
-msgstr "klein"
+msgstr "малий"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:55
 msgctxt "SpellChecker|"
 msgid "variant 0"
-msgstr "Variante 0"
+msgstr "варіант 0"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:56
 msgctxt "SpellChecker|"
 msgid "variant 1"
-msgstr "Variante 1"
+msgstr "варіант 1"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:57
 msgctxt "SpellChecker|"
 msgid "variant 2"
-msgstr "Variante 2"
+msgstr "варіант 2"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:58
 msgctxt "SpellChecker|"
 msgid "without accents"
-msgstr "ohne Akzente"
+msgstr "без акцентів"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:59
 msgctxt "SpellChecker|"
 msgid "with accents"
-msgstr "mit Akzenten"
+msgstr "з акцентами"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:60
 msgctxt "SpellChecker|"
 msgid "with ye"
-msgstr "mit ye"
+msgstr "з ye"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:61
 msgctxt "SpellChecker|"
 msgid "with yeyo"
-msgstr "mit yeyo"
+msgstr "з yeyo"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:62
 msgctxt "SpellChecker|"
 msgid "with yo"
-msgstr "mit yo"
+msgstr "з yo"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:63
 msgctxt "SpellChecker|"
 msgid "extended"
-msgstr "erweitert"
+msgstr "розширений"
 
 #: ../../../plugins/aspeller/src/aspellplugin.cpp:37
 msgctxt "Task|"
 msgid "Developer"
-msgstr "Entwickler"
+msgstr "Розробник"
 
 #: ../../../plugins/aspeller/src/aspellplugin.cpp:40
 msgctxt "Task|"
 msgid "Author"
-msgstr "Autor"
+msgstr "Автор"

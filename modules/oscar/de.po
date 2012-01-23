@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-21 09:14+0000\n"
-"PO-Revision-Date: 2011-11-15 16:47+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"PO-Revision-Date: 2012-01-22 21:44+0000\n"
+"Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:21+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-01-23 05:44+0000\n"
+"X-Generator: Launchpad (build 14700)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: de\n"
@@ -19,7 +19,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
 msgid "AddAccountForm"
-msgstr ""
+msgstr "AddAccountForm"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:25
 msgctxt "AddAccountForm|"
@@ -39,132 +39,132 @@ msgstr "Passwort speichern"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:563
 msgctxt "Affiliation|"
 msgid "Alumni Org."
-msgstr ""
+msgstr "Ehemaligenvereinigung"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:564
 msgctxt "Affiliation|"
 msgid "Charity Org."
-msgstr ""
+msgstr "Wohltätigkeitsorganisation"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:565
 msgctxt "Affiliation|"
 msgid "Club/Social Org."
-msgstr ""
+msgstr "Verein/Soziale Organisation"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:566
 msgctxt "Affiliation|"
 msgid "Community Org."
-msgstr ""
+msgstr "Gemeinschaftsorganisation"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:567
 msgctxt "Affiliation|"
 msgid "Cultural Org."
-msgstr ""
+msgstr "Kulturelle Organisation"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:568
 msgctxt "Affiliation|"
 msgid "Fan Clubs"
-msgstr ""
+msgstr "Fanclub"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:569
 msgctxt "Affiliation|"
 msgid "Fraternity/Sorority"
-msgstr ""
+msgstr "Bruderschaft/Schwesternschaft"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:570
 msgctxt "Affiliation|"
 msgid "Hobbyists Org."
-msgstr ""
+msgstr "Bastlerverein"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:571
 msgctxt "Affiliation|"
 msgid "International Org."
-msgstr ""
+msgstr "Internationale Organisation"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:572
 msgctxt "Affiliation|"
 msgid "Nature and Environment Org."
-msgstr ""
+msgstr "Natur- und Umweltvereinigung"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:573
 msgctxt "Affiliation|"
 msgid "Professional Org."
-msgstr ""
+msgstr "Berufsverband"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:574
 msgctxt "Affiliation|"
 msgid "Scientific/Technical Org."
-msgstr ""
+msgstr "Wissenschaftliche/Technische Organisation"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:575
 msgctxt "Affiliation|"
 msgid "Self Improvement Group"
-msgstr ""
+msgstr "Selbsthilfegruppe"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:576
 msgctxt "Affiliation|"
 msgid "Spiritual/Religious Org."
-msgstr ""
+msgstr "Geistliche/Religiöse Organisation"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:577
 msgctxt "Affiliation|"
 msgid "Sports Org."
-msgstr ""
+msgstr "Sportverein"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:578
 msgctxt "Affiliation|"
 msgid "Support Org."
-msgstr ""
+msgstr "Fördervereinigung"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:579
 msgctxt "Affiliation|"
 msgid "Trade and Business Org."
-msgstr ""
+msgstr "Handel- und Geschäftsvereinigung"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:580
 msgctxt "Affiliation|"
 msgid "Union"
-msgstr ""
+msgstr "Union"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:581
 msgctxt "Affiliation|"
 msgid "Volunteer Org."
-msgstr ""
+msgstr "Freiwilligenorganisation"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:582
 msgctxt "Affiliation|"
 msgid "Other"
-msgstr ""
+msgstr "Sonstige"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:595
 msgctxt "Age|"
 msgid "13-17"
-msgstr ""
+msgstr "13-17"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:596
 msgctxt "Age|"
 msgid "18-22"
-msgstr ""
+msgstr "18-22"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:597
 msgctxt "Age|"
 msgid "23-29"
-msgstr ""
+msgstr "23-29"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:598
 msgctxt "Age|"
 msgid "30-39"
-msgstr ""
+msgstr "30-39"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:599
 msgctxt "Age|"
 msgid "40-49"
-msgstr ""
+msgstr "40-49"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:600
 msgctxt "Age|"
 msgid "50-59"
-msgstr ""
+msgstr "50-59"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:601
 msgctxt "Age|"
@@ -174,24 +174,24 @@ msgstr "60 und älter"
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:52
 msgctxt "Author|"
 msgid "Alexey Ignatiev"
-msgstr ""
+msgstr "Alexey Ignatiev"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:55
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:217
 #: ../../../protocols/oscar/src/oscarplugin.cpp:59
 msgctxt "Author|"
 msgid "Alexey Prokhin"
-msgstr ""
+msgstr "Alexey Prokhin"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:56
 msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
-msgstr ""
+msgstr "Ruslan Nigmatullin"
 
 #: ../../../protocols/oscar/src/ui/icqmainsettings.cpp:51
 msgctxt "Codec|"
 msgid "System"
-msgstr ""
+msgstr "System"
 
 #: ../../../protocols/oscar/src/connection.cpp:307
 msgctxt "ConnectionError|"
@@ -379,7 +379,7 @@ msgstr "Allgemein"
 #: ../../../protocols/oscar/src/inforequest.cpp:149
 msgctxt "ContactInfo|"
 msgid "Avatar"
-msgstr ""
+msgstr "Avatar"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:157
 msgctxt "ContactInfo|"
@@ -1868,16 +1868,18 @@ msgstr ""
 msgctxt "FeedbagError|"
 msgid "Can't add item. Limit for this type of items exceeded"
 msgstr ""
+"Kann das Objekt nicht hinzufügen. Das Limit für diesen Typ ist erreicht"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:136
 msgctxt "FeedbagError|"
 msgid "Trying to add ICQ contact to an AIM list"
-msgstr ""
+msgstr "Versuch, einen ICQ-Kontakt zur AIM-Kontaktliste hinzuzufügen"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:138
 msgctxt "FeedbagError|"
 msgid "Can't add this contact because it requires authorization"
 msgstr ""
+"Kontakt kann nicht hinzugefügt werden, da eine Erlaubnis erforderlich ist"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:140
 msgctxt "FeedbagError|"
@@ -1897,7 +1899,7 @@ msgstr "Weiblich"
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:14
 msgctxt "IcqAccountMainSettings|"
 msgid "Form"
-msgstr ""
+msgstr "Form"
 
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:23
 msgctxt "IcqAccountMainSettings|"
@@ -1917,12 +1919,12 @@ msgstr "Benutzername:"
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:60
 msgctxt "IcqAccountMainSettings|"
 msgid "Server:"
-msgstr ""
+msgstr "Server:"
 
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:80
 msgctxt "IcqAccountMainSettings|"
 msgid "Port:"
-msgstr ""
+msgstr "Port:"
 
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:106
 msgctxt "IcqAccountMainSettings|"
@@ -3064,12 +3066,12 @@ msgstr "Grundschule"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:436
 msgctxt "Past|"
 msgid "High School"
-msgstr ""
+msgstr "Sekundarschule"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:437
 msgctxt "Past|"
 msgid "College"
-msgstr ""
+msgstr "Hochschule"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:438
 msgctxt "Past|"
@@ -3099,7 +3101,7 @@ msgstr "Sonstiges"
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:48
 msgctxt "Plugin|"
 msgid "OscarIdentify"
-msgstr ""
+msgstr "OscarIdentify"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:49
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:59
@@ -3112,12 +3114,12 @@ msgstr "Clienterkennung für OSCAR-Kontakte"
 #: ../../../protocols/oscar/src/oscarplugin.cpp:62
 msgctxt "Plugin|"
 msgid "ICQ"
-msgstr ""
+msgstr "ICQ"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:212
 msgctxt "Plugin|"
 msgid "OscarXStatus"
-msgstr ""
+msgstr "OscarXStatus"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:213
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:222
@@ -3129,12 +3131,12 @@ msgstr "Erweiterte Status für das OSCAR-Protokoll"
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:227
 msgctxt "Plugin|"
 msgid "XStatus settings"
-msgstr ""
+msgstr "XStatus settings"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:53
 msgctxt "Plugin|"
 msgid "Oscar"
-msgstr ""
+msgstr "Oscar"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:54
 msgctxt "Plugin|"
@@ -3149,7 +3151,7 @@ msgstr "Modul für das ICQ-Protokoll"
 #: ../../../protocols/oscar/src/oscarplugin.cpp:66
 msgctxt "Plugin|"
 msgid "ICQ account creator"
-msgstr ""
+msgstr "ICQ account creator"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:67
 msgctxt "Plugin|"
@@ -3160,48 +3162,48 @@ msgstr "Konten für das ICQ-Protokoll erstellen"
 #: ../../../protocols/oscar/src/oscarplugin.cpp:71
 msgctxt "Plugin|"
 msgid "Oscar roster"
-msgstr ""
+msgstr "Oscar roster"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:74
 #: ../../../protocols/oscar/src/oscarplugin.cpp:75
 msgctxt "Plugin|"
 msgid "Oscar messages"
-msgstr ""
+msgstr "Oscar messages"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:78
 #: ../../../protocols/oscar/src/oscarplugin.cpp:79
 msgctxt "Plugin|"
 msgid "Oscar file transfer protocol"
-msgstr ""
+msgstr "Oscar file transfer protocol"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:82
 #: ../../../protocols/oscar/src/oscarplugin.cpp:83
 msgctxt "Plugin|"
 msgid "Oscar file transfer settings"
-msgstr ""
+msgstr "Oscar file transfer settings"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:86
 #: ../../../protocols/oscar/src/oscarplugin.cpp:87
 msgctxt "Plugin|"
 msgid "MetaInfo icq service"
-msgstr ""
+msgstr "MetaInfo icq service"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:90
 #: ../../../protocols/oscar/src/oscarplugin.cpp:91
 msgctxt "Plugin|"
 msgid "Oscar authorization support"
-msgstr ""
+msgstr "Oscar authorization support"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:94
 #: ../../../protocols/oscar/src/oscarplugin.cpp:95
 msgctxt "Plugin|"
 msgid "Oscar privacy lists"
-msgstr ""
+msgstr "Oscar privacy lists"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:98
 msgctxt "Plugin|"
 msgid "Oscar contact search"
-msgstr ""
+msgstr "Oscar contact search"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:99
 msgctxt "Plugin|"
@@ -3212,7 +3214,7 @@ msgstr "Suche nach Kontakten im OSCAR-Protokoll"
 #: ../../../protocols/oscar/src/oscarplugin.cpp:103
 msgctxt "Plugin|"
 msgid "Oscar proxy support"
-msgstr ""
+msgstr "Oscar proxy support"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:90
 msgctxt "Privacy|"

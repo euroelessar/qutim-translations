@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-21 09:13+0000\n"
-"PO-Revision-Date: 2011-11-15 16:37+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"PO-Revision-Date: 2012-01-22 19:12+0000\n"
+"Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:21+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-01-23 05:43+0000\n"
+"X-Generator: Launchpad (build 14700)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: de\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: ../../../protocols/irc/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
 msgid "AddAccountForm"
-msgstr ""
+msgstr "AddAccountForm"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:44
 msgctxt "AddAccountForm|"
@@ -70,12 +70,12 @@ msgstr "SSL verwenden"
 #: ../../../protocols/irc/src/ircplugin.cpp:44
 msgctxt "Author|"
 msgid "Alexey Prokhin"
-msgstr ""
+msgstr "Alexey Prokhin"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:14
 msgctxt "EditNickForm|"
 msgid "Form"
-msgstr ""
+msgstr "Form"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:44
 msgctxt "EditNickForm|"
@@ -105,282 +105,282 @@ msgstr "System"
 #: ../../../protocols/irc/src/ui/editnickform.ui:138
 msgctxt "EditNickForm|"
 msgid "Apple Roman"
-msgstr ""
+msgstr "Apple Roman"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:143
 msgctxt "EditNickForm|"
 msgid "Big5"
-msgstr ""
+msgstr "Big5"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:148
 msgctxt "EditNickForm|"
 msgid "Big5-HKSCS"
-msgstr ""
+msgstr "Big5-HKSCS"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:153
 msgctxt "EditNickForm|"
 msgid "EUC-JP"
-msgstr ""
+msgstr "EUC-JP"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:158
 msgctxt "EditNickForm|"
 msgid "EUC-KR"
-msgstr ""
+msgstr "EUC-KR"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:163
 msgctxt "EditNickForm|"
 msgid "GB18030-0"
-msgstr ""
+msgstr "GB18030-0"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:168
 msgctxt "EditNickForm|"
 msgid "IBM 850"
-msgstr ""
+msgstr "IBM 850"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:173
 msgctxt "EditNickForm|"
 msgid "IBM 866"
-msgstr ""
+msgstr "IBM 866"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:178
 msgctxt "EditNickForm|"
 msgid "IBM 874"
-msgstr ""
+msgstr "IBM 874"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:183
 msgctxt "EditNickForm|"
 msgid "ISO 2022-JP"
-msgstr ""
+msgstr "ISO 2022-JP"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:188
 msgctxt "EditNickForm|"
 msgid "ISO 8859-1"
-msgstr ""
+msgstr "ISO 8859-1"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:193
 msgctxt "EditNickForm|"
 msgid "ISO 8859-2"
-msgstr ""
+msgstr "ISO 8859-2"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:198
 msgctxt "EditNickForm|"
 msgid "ISO 8859-3"
-msgstr ""
+msgstr "ISO 8859-3"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:203
 msgctxt "EditNickForm|"
 msgid "ISO 8859-4"
-msgstr ""
+msgstr "ISO 8859-4"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:208
 msgctxt "EditNickForm|"
 msgid "ISO 8859-5"
-msgstr ""
+msgstr "ISO 8859-5"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:213
 msgctxt "EditNickForm|"
 msgid "ISO 8859-6"
-msgstr ""
+msgstr "ISO 8859-6"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:218
 msgctxt "EditNickForm|"
 msgid "ISO 8859-7"
-msgstr ""
+msgstr "ISO 8859-7"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:223
 msgctxt "EditNickForm|"
 msgid "ISO 8859-8"
-msgstr ""
+msgstr "ISO 8859-8"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:228
 msgctxt "EditNickForm|"
 msgid "ISO 8859-9"
-msgstr ""
+msgstr "ISO 8859-9"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:233
 msgctxt "EditNickForm|"
 msgid "ISO 8859-10"
-msgstr ""
+msgstr "ISO 8859-10"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:238
 msgctxt "EditNickForm|"
 msgid "ISO 8859-13"
-msgstr ""
+msgstr "ISO 8859-13"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:243
 msgctxt "EditNickForm|"
 msgid "ISO 8859-14"
-msgstr ""
+msgstr "ISO 8859-14"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:248
 msgctxt "EditNickForm|"
 msgid "ISO 8859-15"
-msgstr ""
+msgstr "ISO 8859-15"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:253
 msgctxt "EditNickForm|"
 msgid "ISO 8859-16"
-msgstr ""
+msgstr "ISO 8859-16"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:258
 msgctxt "EditNickForm|"
 msgid "Iscii-Bng"
-msgstr ""
+msgstr "Iscii-Bng"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:263
 msgctxt "EditNickForm|"
 msgid "Iscii-Dev"
-msgstr ""
+msgstr "Iscii-Dev"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:268
 msgctxt "EditNickForm|"
 msgid "Iscii-Gjr"
-msgstr ""
+msgstr "Iscii-Gjr"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:273
 msgctxt "EditNickForm|"
 msgid "Iscii-Knd"
-msgstr ""
+msgstr "Iscii-Knd"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:278
 msgctxt "EditNickForm|"
 msgid "Iscii-Mlm"
-msgstr ""
+msgstr "Iscii-Mlm"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:283
 msgctxt "EditNickForm|"
 msgid "Iscii-Ori"
-msgstr ""
+msgstr "Iscii-Ori"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:288
 msgctxt "EditNickForm|"
 msgid "Iscii-Pnj"
-msgstr ""
+msgstr "Iscii-Pnj"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:293
 msgctxt "EditNickForm|"
 msgid "Iscii-Tlg"
-msgstr ""
+msgstr "Iscii-Tlg"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:298
 msgctxt "EditNickForm|"
 msgid "Iscii-Tml"
-msgstr ""
+msgstr "Iscii-Tml"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:303
 msgctxt "EditNickForm|"
 msgid "JIS X 0201"
-msgstr ""
+msgstr "JIS X 0201"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:308
 msgctxt "EditNickForm|"
 msgid "JIS X 0208"
-msgstr ""
+msgstr "JIS X 0208"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:313
 msgctxt "EditNickForm|"
 msgid "KOI8-R"
-msgstr ""
+msgstr "KOI8-R"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:318
 msgctxt "EditNickForm|"
 msgid "KOI8-U"
-msgstr ""
+msgstr "KOI8-U"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:323
 msgctxt "EditNickForm|"
 msgid "MuleLao-1"
-msgstr ""
+msgstr "MuleLao-1"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:328
 msgctxt "EditNickForm|"
 msgid "ROMAN8"
-msgstr ""
+msgstr "ROMAN8"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:333
 msgctxt "EditNickForm|"
 msgid "Shift-JIS"
-msgstr ""
+msgstr "Shift-JIS"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:338
 msgctxt "EditNickForm|"
 msgid "TIS-620"
-msgstr ""
+msgstr "TIS-620"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:343
 msgctxt "EditNickForm|"
 msgid "TSCII"
-msgstr ""
+msgstr "TSCII"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:348
 msgctxt "EditNickForm|"
 msgid "UTF-8"
-msgstr ""
+msgstr "UTF-8"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:353
 msgctxt "EditNickForm|"
 msgid "UTF-16"
-msgstr ""
+msgstr "UTF-16"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:358
 msgctxt "EditNickForm|"
 msgid "UTF-16BE"
-msgstr ""
+msgstr "UTF-16BE"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:363
 msgctxt "EditNickForm|"
 msgid "UTF-16LE"
-msgstr ""
+msgstr "UTF-16LE"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:368
 msgctxt "EditNickForm|"
 msgid "Windows-1250"
-msgstr ""
+msgstr "Windows-1250"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:373
 msgctxt "EditNickForm|"
 msgid "Windows-1251"
-msgstr ""
+msgstr "Windows-1251"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:378
 msgctxt "EditNickForm|"
 msgid "Windows-1252"
-msgstr ""
+msgstr "Windows-1252"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:383
 msgctxt "EditNickForm|"
 msgid "Windows-1253"
-msgstr ""
+msgstr "Windows-1253"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:388
 msgctxt "EditNickForm|"
 msgid "Windows-1254"
-msgstr ""
+msgstr "Windows-1254"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:393
 msgctxt "EditNickForm|"
 msgid "Windows-1255"
-msgstr ""
+msgstr "Windows-1255"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:398
 msgctxt "EditNickForm|"
 msgid "Windows-1256"
-msgstr ""
+msgstr "Windows-1256"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:403
 msgctxt "EditNickForm|"
 msgid "Windows-1257"
-msgstr ""
+msgstr "Windows-1257"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:408
 msgctxt "EditNickForm|"
 msgid "Windows-1258"
-msgstr ""
+msgstr "Windows-1258"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:413
 msgctxt "EditNickForm|"
 msgid "WINSAMI2"
-msgstr ""
+msgstr "WINSAMI2"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:430
 msgctxt "EditNickForm|"
@@ -456,7 +456,7 @@ msgstr "%1 entzieht %2 Sprecherlaubnis."
 #: ../../../protocols/irc/src/ui/ircchannellist.ui:14
 msgctxt "IrcChannelListForm|"
 msgid "Form"
-msgstr ""
+msgstr "Form"
 
 #: ../../../protocols/irc/src/ui/console.ui:14
 msgctxt "IrcConsoleForm|"
@@ -478,7 +478,7 @@ msgstr "Implementierung des IRC-Protokolls"
 #: ../../../protocols/irc/src/ircplugin.cpp:51
 msgctxt "Plugin|"
 msgid "IRC account creator"
-msgstr ""
+msgstr "IRC account creator"
 
 #: ../../../protocols/irc/src/ircplugin.cpp:52
 msgctxt "Plugin|"
@@ -488,7 +488,7 @@ msgstr "Erstellt IRC-Konten"
 #: ../../../protocols/irc/src/ircplugin.cpp:55
 msgctxt "Plugin|"
 msgid "Proxy support"
-msgstr ""
+msgstr "Proxy support"
 
 #: ../../../protocols/irc/src/ircplugin.cpp:56
 msgctxt "Plugin|"
