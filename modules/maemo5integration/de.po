@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-21 09:13+0000\n"
-"PO-Revision-Date: 2011-11-15 16:44+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"PO-Revision-Date: 2012-01-22 19:46+0000\n"
+"Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:21+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-01-23 05:44+0000\n"
+"X-Generator: Launchpad (build 14700)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
@@ -22,17 +22,17 @@ msgstr ""
 #: ../../../plugins/maemo5integration/maemo5vibra/maemo5vibraplugin.cpp:41
 msgctxt "Author|"
 msgid "Evgeniy Degtyarev"
-msgstr ""
+msgstr "Evgeniy Degtyarev"
 
 #: ../../../plugins/maemo5integration/maemo5led/maemo5led.cpp:39
 msgctxt "Maemo5Led|"
 msgid "Maemo 5 Led Notifications"
-msgstr ""
+msgstr "Maemo 5 LED Benachrichtigungen"
 
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settings.ui:14
 msgctxt "Maemo5Settings|"
 msgid "Form"
-msgstr ""
+msgstr "Form"
 
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settings.ui:29
 msgctxt "Maemo5Settings|"
@@ -77,17 +77,17 @@ msgstr "Automatisch"
 #: ../../../plugins/maemo5integration/maemo5tray/maemo5tray.cpp:38
 msgctxt "Maemo5Tray|"
 msgid "Maemo 5 blink icon in the tray"
-msgstr ""
+msgstr "Maemo 5 blinkendes Systrayicon"
 
 #: ../../../plugins/maemo5integration/maemo5vibra/maemo5vibra.cpp:40
 msgctxt "Maemo5Vibra|"
 msgid "Maemo 5 Vibration Notifications"
-msgstr ""
+msgstr "Maemo 5 Vibrationbenachrichtigungen"
 
 #: ../../../plugins/maemo5integration/maemo5led/maemo5ledplugin.cpp:38
 msgctxt "Plugin|"
 msgid "Maemo Led Notifications"
-msgstr ""
+msgstr "Maemo Led Notifications"
 
 #: ../../../plugins/maemo5integration/maemo5led/maemo5ledplugin.cpp:39
 msgctxt "Plugin|"
@@ -97,7 +97,7 @@ msgstr "Benachrichtigungssystem, basierend auf Maemo 5 LED"
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settingsplugin.cpp:36
 msgctxt "Plugin|"
 msgid "Maemo 5 Settings"
-msgstr ""
+msgstr "Maemo 5 Settings"
 
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settingsplugin.cpp:37
 msgctxt "Plugin|"
@@ -108,7 +108,7 @@ msgstr "Maemo 5 Einstellungen"
 #: ../../../plugins/maemo5integration/maemo5tray/maemo5trayplugin.cpp:42
 msgctxt "Plugin|"
 msgid "Maemo 5 Tray"
-msgstr ""
+msgstr "Maemo 5 Tray"
 
 #: ../../../plugins/maemo5integration/maemo5tray/maemo5trayplugin.cpp:39
 #: ../../../plugins/maemo5integration/maemo5tray/maemo5trayplugin.cpp:43
@@ -119,7 +119,7 @@ msgstr "Integration in das Maemo 5 Systemtray"
 #: ../../../plugins/maemo5integration/maemo5vibra/maemo5vibraplugin.cpp:38
 msgctxt "Plugin|"
 msgid "Maemo Vibration Notifications"
-msgstr ""
+msgstr "Maemo Vibration Notifications"
 
 #: ../../../plugins/maemo5integration/maemo5vibra/maemo5vibraplugin.cpp:39
 msgctxt "Plugin|"
@@ -142,7 +142,7 @@ msgstr "Autor"
 #: ../../../plugins/maemo5integration/maemo5led/maemo5ledplugin.cpp:44
 msgctxt "plugin|"
 msgid "Maemo Led Notifications"
-msgstr ""
+msgstr "Maemo Led Notifications"
 
 #: ../../../plugins/maemo5integration/maemo5led/maemo5ledplugin.cpp:45
 msgctxt "plugin|"
@@ -152,7 +152,7 @@ msgstr "Benachrichtigungssystem, basierend auf Maemo 5 LED"
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settingsplugin.cpp:42
 msgctxt "plugin|"
 msgid "Maemo 5 Settings"
-msgstr ""
+msgstr "Maemo 5 Settings"
 
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settingsplugin.cpp:43
 msgctxt "plugin|"
@@ -162,7 +162,7 @@ msgstr "Maemo 5 Einstellungen"
 #: ../../../plugins/maemo5integration/maemo5vibra/maemo5vibraplugin.cpp:44
 msgctxt "plugin|"
 msgid "Maemo Vibration Notifications"
-msgstr ""
+msgstr "Maemo Vibration Notifications"
 
 #: ../../../plugins/maemo5integration/maemo5vibra/maemo5vibraplugin.cpp:45
 msgctxt "plugin|"

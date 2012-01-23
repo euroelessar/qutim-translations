@@ -1,25 +1,26 @@
+# Ukrainian translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-01-18 13:42+0000\n"
-"PO-Revision-Date: 2012-01-22 09:29+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2012-01-22 10:02+0000\n"
+"Last-Translator: Maxim <kontact.cat@gmail.com>\n"
+"Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-01-23 05:43+0000\n"
 "X-Generator: Launchpad (build 14700)\n"
-"X-Qt-Contexts: true\n"
-"X-Language: bg\n"
-"X-Source-Language: C\n"
 
 #: ../../../plugins/antispam/src/antispamplugin.cpp:42
 msgctxt "Antispam|"
 msgid "Antispam"
-msgstr "Защита от SPAM"
+msgstr "Антиспам"
 
 #: ../../../plugins/antispam/src/handler.cpp:51
 msgctxt "Antispam::Handler|"
@@ -27,47 +28,48 @@ msgid ""
 "Beer, wine, vodka, champagne: after which drink in this sequence I should "
 "stop?"
 msgstr ""
-"Бира, вино, водка, шампанско: след кое питие от поредицата трябва да спра?"
+"Пиво, вино, горілка, шампанське: після якого напою з перелічених найгірші "
+"наслідки?"
 
 #: ../../../plugins/antispam/src/handler.cpp:52
 msgctxt "Antispam::Handler|"
 msgid "We are ready to drink with you!"
-msgstr "Готов съм да пийнем заедно!"
+msgstr ""
 
 #: ../../../plugins/antispam/src/handler.cpp:53
 msgctxt "Antispam::Handler|"
 msgid "vodka;Vodka"
-msgstr "водка; Водка"
+msgstr "горілка;Горілка"
 
 #: ../../../plugins/antispam/src/settingswidget.ui:14
 msgctxt "Antispam::SettingsWidget|"
 msgid "Form"
-msgstr "Настройки"
+msgstr "Форма"
 
 #: ../../../plugins/antispam/src/settingswidget.ui:23
 msgctxt "Antispam::SettingsWidget|"
 msgid "Enabled"
-msgstr "Активирана"
+msgstr "Увімкнено"
 
 #: ../../../plugins/antispam/src/settingswidget.ui:30
 msgctxt "Antispam::SettingsWidget|"
 msgid "Handle auth requests"
-msgstr "Да се обработват заявките за удостоверяване"
+msgstr ""
 
 #: ../../../plugins/antispam/src/settingswidget.ui:37
 msgctxt "Antispam::SettingsWidget|"
 msgid "Question:"
-msgstr "Въпрос:"
+msgstr "Питання:"
 
 #: ../../../plugins/antispam/src/settingswidget.ui:50
 msgctxt "Antispam::SettingsWidget|"
 msgid "Answers (semicolon as a separator):"
-msgstr "Отговори (разделени с точка и запетая):"
+msgstr ""
 
 #: ../../../plugins/antispam/src/settingswidget.ui:63
 msgctxt "Antispam::SettingsWidget|"
 msgid "Message on correct answer:"
-msgstr "Съобщение при верен отговор:"
+msgstr "Правильна відповідь:"
 
 #: ../../../plugins/antispam/src/settingswidget.cpp:57
 msgctxt "Antispam::SettingsWidget|"
@@ -75,45 +77,39 @@ msgid ""
 "Beer, wine, vodka, champagne: after which drink in this sequence I should "
 "stop?"
 msgstr ""
-"Бира, вино, водка, шампанско: след кое питие от поредицата трябва да спра?"
 
 #: ../../../plugins/antispam/src/settingswidget.cpp:58
 msgctxt "Antispam::SettingsWidget|"
 msgid "We are ready to drink with you!"
-msgstr "Готов съм да пийнем заедно!"
+msgstr ""
 
 #: ../../../plugins/antispam/src/settingswidget.cpp:59
 msgctxt "Antispam::SettingsWidget|"
 msgid "vodka;Vodka"
-msgstr "водка; Водка"
+msgstr ""
 
 #: ../../../plugins/antispam/src/antispamplugin.cpp:49
 msgctxt "Author|"
 msgid "Aleksey Sidorov"
-msgstr "Алексей Сидоров"
+msgstr "Олексій Сидоров"
 
 #: ../../../plugins/antispam/src/antispamplugin.cpp:53
 msgctxt "Plugin|"
 msgid "Antispam"
-msgstr "Защита от SPAM"
+msgstr "Антиспам"
 
 #: ../../../plugins/antispam/src/antispamplugin.cpp:54
 msgctxt "Plugin|"
 msgid "Blocks messages from unknown contacts by question-answer pair"
 msgstr ""
-"Блокира съобщения от неизвестни контакти, чрез двойка: въпрос и отговор"
 
 #: ../../../plugins/antispam/src/handler.cpp:90
 #, qt-format
 msgctxt "QObject|"
 msgid "Message from %1 blocked  on suspicion of spam."
-msgstr "Блокирано бе съобщение от %1 по подозрение, че е SPAM."
+msgstr ""
 
 #: ../../../plugins/antispam/src/antispamplugin.cpp:50
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"
-
-#~ msgctxt "Author|"
-#~ msgid "Sidorov Aleksey"
-#~ msgstr "Алексей Сидоров"
