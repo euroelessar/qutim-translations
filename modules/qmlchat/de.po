@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-21 09:14+0000\n"
-"PO-Revision-Date: 2011-11-15 16:49+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"PO-Revision-Date: 2012-01-23 12:23+0000\n"
+"Last-Translator: mrx5682 <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:22+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-01-24 07:06+0000\n"
+"X-Generator: Launchpad (build 14713)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: de\n"
@@ -30,7 +30,7 @@ msgstr "Du Selbst"
 #: ../../../plugins/qmlchat/settings/chatappearance.cpp:191
 msgctxt "Core::AdiumChat::ChatAppearance|"
 msgid "Unable to create chat session"
-msgstr ""
+msgstr "Nicht möglich, Chatsitzung zu erstellen"
 
 #: ../../../plugins/qmlchat/settings/chatappearance.cpp:195
 msgctxt "Core::AdiumChat::ChatAppearance|"
@@ -70,12 +70,12 @@ msgstr "Nachrichtenfenster"
 #: ../../../plugins/qmlchat/qmlchat/default/main.qml:177
 msgctxt "main|"
 msgid "is active"
-msgstr ""
+msgstr "ist aktiv"
 
 #: ../../../plugins/qmlchat/qmlchat/default/main.qml:179
 msgctxt "main|"
 msgid "is inactive"
-msgstr ""
+msgstr "ist inaktiv"
 
 #: ../../../plugins/qmlchat/qmlchat/default/main.qml:181
 msgctxt "main|"

@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-01-20 19:51+0000\n"
-"PO-Revision-Date: 2012-01-22 10:06+0000\n"
-"Last-Translator: mrx5682 <Unknown>\n"
+"PO-Revision-Date: 2012-01-23 15:00+0000\n"
+"Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-23 05:44+0000\n"
-"X-Generator: Launchpad (build 14700)\n"
+"X-Launchpad-Export-Date: 2012-01-24 07:06+0000\n"
+"X-Generator: Launchpad (build 14713)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: de\n"
@@ -40,17 +40,17 @@ msgstr "Entwickler"
 #, qt-format
 msgctxt "WAccount|"
 msgid "Weather: %1Â°%2"
-msgstr ""
+msgstr "Wetter: %1Â°%2"
 
 #: ../../../plugins/weather/src/wlistitem.cpp:41
 msgctxt "WListItem|"
 msgid "Remove"
-msgstr ""
+msgstr "Löschen"
 
 #: ../../../plugins/weather/src/wsettings.cpp:103
 msgctxt "WSettings|"
 msgid "Enter here city's name"
-msgstr ""
+msgstr "Name des Ortes eingeben"
 
 #: ../../../plugins/weather/src/wsettings.cpp:164
 msgctxt "WSettings|"
@@ -76,7 +76,7 @@ msgstr "Suchen"
 #: ../../../plugins/weather/src/wsettings.ui:50
 msgctxt "WSettingsClass|"
 msgid "Add"
-msgstr ""
+msgstr "Hinzufügen"
 
 #: ../../../plugins/weather/src/wsettings.ui:70
 msgctxt "WSettingsClass|"
@@ -86,7 +86,7 @@ msgstr "Aktualisierungsintervall:"
 #: ../../../plugins/weather/src/wsettings.ui:83
 msgctxt "WSettingsClass|"
 msgid "min."
-msgstr ""
+msgstr "min."
 
 #: ../../../plugins/weather/src/wsettings.ui:102
 msgctxt "WSettingsClass|"
@@ -213,22 +213,23 @@ msgstr ""
 #: ../../../plugins/weather/__template_from_weather.cpp:1
 msgctxt "Weather|"
 msgid "Day"
-msgstr ""
+msgstr "Tag"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:2
 msgctxt "Weather|"
 msgid "Dew Point"
-msgstr ""
+msgstr "Taupunkt"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:3
 msgctxt "Weather|"
 msgid "Feels Like"
-msgstr ""
+msgstr "Gefühlte"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:4
 msgctxt "Weather|"
 msgid "From %daytime/windDirectionText% at %daytime/windSpeed% %units/speed%"
 msgstr ""
+"Von %daytime/windDirectionText% mit %daytime/windSpeed% %units/speed%"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:5
 #, qt-format
@@ -236,11 +237,12 @@ msgctxt "Weather|"
 msgid ""
 "From %nighttime/windDirectionText% at %nighttime/windSpeed% %units/speed%"
 msgstr ""
+"Von %nighttime/windDirectionText% mit %nighttime/windSpeed% %units/speed%"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:6
 msgctxt "Weather|"
 msgid "From %winddirection% at %windspeed% %units/speed%"
-msgstr ""
+msgstr "Von %winddirection% mit %windspeed% %units/speed%"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:7
 msgctxt "Weather|"
@@ -250,17 +252,17 @@ msgstr ""
 #: ../../../plugins/weather/__template_from_weather.cpp:8
 msgctxt "Weather|"
 msgid "Humidity"
-msgstr ""
+msgstr "Luftfeuchtigkeit"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:9
 msgctxt "Weather|"
 msgid "Local Time"
-msgstr ""
+msgstr "Ortszeit"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:10
 msgctxt "Weather|"
 msgid "Night"
-msgstr ""
+msgstr "Nachts"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:11
 msgctxt "Weather|"
@@ -270,52 +272,52 @@ msgstr ""
 #: ../../../plugins/weather/__template_from_weather.cpp:12
 msgctxt "Weather|"
 msgid "Pressure"
-msgstr ""
+msgstr "Luftdruck"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:13
 msgctxt "Weather|"
 msgid "Rain"
-msgstr ""
+msgstr "Rain"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:14
 msgctxt "Weather|"
 msgid "Snow"
-msgstr ""
+msgstr "Schneefall"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:15
 msgctxt "Weather|"
 msgid "Sunrise"
-msgstr ""
+msgstr "Sonnenaufgang"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:16
 msgctxt "Weather|"
 msgid "Sunset"
-msgstr ""
+msgstr "Sonnenuntergang"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:17
 msgctxt "Weather|"
 msgid "Updated"
-msgstr ""
+msgstr "Aktualisiert"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:18
 msgctxt "Weather|"
 msgid "UV Index"
-msgstr ""
+msgstr "UV-Index"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:19
 msgctxt "Weather|"
 msgid "Visibility"
-msgstr ""
+msgstr "Sicht"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:20
 msgctxt "Weather|"
 msgid "Weather forecast"
-msgstr ""
+msgstr "Wettervorhersage"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:21
 msgctxt "Weather|"
 msgid "Wind"
-msgstr ""
+msgstr "Wind"
 
 #: ../../../plugins/weather/src/waccount.cpp:35
 #: ../../../plugins/weather/src/wcontact.cpp:60
@@ -393,12 +395,12 @@ msgstr "%Aktualisierungsperiode:"
 #: ../../../plugins/weather/new/weatherSettings.ui:152
 msgctxt "weatherSettingsClass|"
 msgid "Show weather in the &status row"
-msgstr ""
+msgstr "Wetter als Statusnachricht des Ortes anzeigen"
 
 #: ../../../plugins/weather/new/weatherSettings.ui:162
 msgctxt "weatherSettingsClass|"
 msgid "Show &notifications on weather change"
-msgstr ""
+msgstr "Benachrichtigen, wenn sich das Wetter ändert"
 
 #: ../../../plugins/weather/new/weatherSettings.ui:183
 msgctxt "weatherSettingsClass|"
