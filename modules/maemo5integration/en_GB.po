@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2011-11-21 09:13+0000\n"
-"PO-Revision-Date: 2012-01-21 19:06+0000\n"
+"PO-Revision-Date: 2012-01-24 17:38+0000\n"
 "Last-Translator: mrx5682 <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-22 06:01+0000\n"
-"X-Generator: Launchpad (build 14700)\n"
+"X-Launchpad-Export-Date: 2012-01-25 05:49+0000\n"
+"X-Generator: Launchpad (build 14719)\n"
 
 #: ../../../plugins/maemo5integration/maemo5led/maemo5ledplugin.cpp:41
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settingsplugin.cpp:39
@@ -23,52 +23,52 @@ msgstr ""
 #: ../../../plugins/maemo5integration/maemo5vibra/maemo5vibraplugin.cpp:41
 msgctxt "Author|"
 msgid "Evgeniy Degtyarev"
-msgstr ""
+msgstr "Evgeniy Degtyarev"
 
 #: ../../../plugins/maemo5integration/maemo5led/maemo5led.cpp:39
 msgctxt "Maemo5Led|"
 msgid "Maemo 5 Led Notifications"
-msgstr ""
+msgstr "Maemo 5 Led Notifications"
 
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settings.ui:14
 msgctxt "Maemo5Settings|"
 msgid "Form"
-msgstr ""
+msgstr "Form"
 
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settings.ui:29
 msgctxt "Maemo5Settings|"
 msgid "Show led notifications when display On"
-msgstr ""
+msgstr "Show led notifications when display On"
 
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settings.ui:36
 msgctxt "Maemo5Settings|"
 msgid "Vibration notifications when display On"
-msgstr ""
+msgstr "Vibration notifications when display On"
 
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settings.ui:55
 msgctxt "Maemo5Settings|"
 msgid "Vibrate time, ms (50)"
-msgstr ""
+msgstr "Vibrate time, ms (50)"
 
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settings.ui:92
 msgctxt "Maemo5Settings|"
 msgid "Popup time, sec (50)"
-msgstr ""
+msgstr "Popup time, sec (50)"
 
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settings.ui:101
 msgctxt "Maemo5Settings|"
 msgid "Orientation"
-msgstr ""
+msgstr "Orientation"
 
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settings.ui:110
 msgctxt "Maemo5Settings|"
 msgid "Landscape"
-msgstr ""
+msgstr "Landscape"
 
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settings.ui:117
 msgctxt "Maemo5Settings|"
 msgid "Portrait"
-msgstr ""
+msgstr "Portrait"
 
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settings.ui:124
 msgctxt "Maemo5Settings|"
@@ -125,12 +125,12 @@ msgstr "Maemo Vibration Notifications"
 #: ../../../plugins/maemo5integration/maemo5vibra/maemo5vibraplugin.cpp:39
 msgctxt "Plugin|"
 msgid "Notification system based on Maemo 5 Vibrator"
-msgstr ""
+msgstr "Notification system based on Maemo 5 Vibrator"
 
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settingsplugin.cpp:44
 msgctxt "Settings|"
 msgid "Maemo 5 Settings"
-msgstr ""
+msgstr "Maemo 5 Settings"
 
 #: ../../../plugins/maemo5integration/maemo5led/maemo5ledplugin.cpp:42
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settingsplugin.cpp:40
@@ -138,34 +138,34 @@ msgstr ""
 #: ../../../plugins/maemo5integration/maemo5vibra/maemo5vibraplugin.cpp:42
 msgctxt "Task|"
 msgid "Author"
-msgstr ""
+msgstr "Author"
 
 #: ../../../plugins/maemo5integration/maemo5led/maemo5ledplugin.cpp:44
 msgctxt "plugin|"
 msgid "Maemo Led Notifications"
-msgstr ""
+msgstr "Maemo Led Notifications"
 
 #: ../../../plugins/maemo5integration/maemo5led/maemo5ledplugin.cpp:45
 msgctxt "plugin|"
 msgid "Notification system, based on Maemo 5 Led"
-msgstr ""
+msgstr "Notification system, based on Maemo 5 Led"
 
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settingsplugin.cpp:42
 msgctxt "plugin|"
 msgid "Maemo 5 Settings"
-msgstr ""
+msgstr "Maemo 5 Settings"
 
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settingsplugin.cpp:43
 msgctxt "plugin|"
 msgid "Specific Maemo 5 settings"
-msgstr ""
+msgstr "Specific Maemo 5 settings"
 
 #: ../../../plugins/maemo5integration/maemo5vibra/maemo5vibraplugin.cpp:44
 msgctxt "plugin|"
 msgid "Maemo Vibration Notifications"
-msgstr ""
+msgstr "Maemo Vibration Notifications"
 
 #: ../../../plugins/maemo5integration/maemo5vibra/maemo5vibraplugin.cpp:45
 msgctxt "plugin|"
 msgid "Notification system, based on Maemo 5 Vibrator"
-msgstr ""
+msgstr "Notification system, based on Maemo 5 Vibrator"

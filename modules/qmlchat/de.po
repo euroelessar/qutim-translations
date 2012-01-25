@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-21 09:14+0000\n"
-"PO-Revision-Date: 2012-01-23 12:23+0000\n"
-"Last-Translator: mrx5682 <Unknown>\n"
+"PO-Revision-Date: 2012-01-24 09:20+0000\n"
+"Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-24 07:06+0000\n"
-"X-Generator: Launchpad (build 14713)\n"
+"X-Launchpad-Export-Date: 2012-01-25 05:49+0000\n"
+"X-Generator: Launchpad (build 14719)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
@@ -80,22 +80,22 @@ msgstr "ist inaktiv"
 #: ../../../plugins/qmlchat/qmlchat/default/main.qml:181
 msgctxt "main|"
 msgid "is gone"
-msgstr ""
+msgstr "ist abwesend"
 
 #: ../../../plugins/qmlchat/qmlchat/default/main.qml:183
 msgctxt "main|"
 msgid "is composing"
-msgstr ""
+msgstr "tippt gerade"
 
 #: ../../../plugins/qmlchat/qmlchat/default/main.qml:185
 msgctxt "main|"
 msgid "is paused"
-msgstr ""
+msgstr "hat aufgehört zu tippen"
 
 #: ../../../plugins/qmlchat/settings/chatappearance.ui:14
 msgctxt "quickChatAppearance|"
 msgid "Form"
-msgstr ""
+msgstr "Form"
 
 #: ../../../plugins/qmlchat/settings/chatappearance.ui:20
 msgctxt "quickChatAppearance|"
