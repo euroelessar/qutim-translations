@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-01-18 13:42+0000\n"
-"PO-Revision-Date: 2012-01-23 10:47+0000\n"
+"PO-Revision-Date: 2012-01-24 11:00+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-24 07:06+0000\n"
-"X-Generator: Launchpad (build 14713)\n"
+"X-Launchpad-Export-Date: 2012-01-25 05:49+0000\n"
+"X-Generator: Launchpad (build 14719)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: de\n"
@@ -19,18 +19,18 @@ msgstr ""
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbum/default/PhotoViewerCore/AlbumDelegate.qml:120
 msgctxt "AlbumDelegate|"
 msgid "Remove"
-msgstr ""
+msgstr "Löschen"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:42
 #: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:42
 msgctxt "Author|"
 msgid "Alexey Sidorov"
-msgstr ""
+msgstr "Alexey Sidorov"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:42
 msgctxt "Author|"
 msgid "Aleksey Sidorov"
-msgstr ""
+msgstr "Aleksey Sidorov"
 
 #: ../../../protocols/vkontakte/src/vcontact.cpp:197
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:70
@@ -141,7 +141,7 @@ msgstr "Ausbildung"
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:38
 msgctxt "Plugin|"
 msgid "Photoalbum"
-msgstr ""
+msgstr "Photoalbum"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:39
 msgctxt "Plugin|"
@@ -151,7 +151,7 @@ msgstr "vkontakte Fotoalbum-Unterstützung für qutIM"
 #: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:38
 msgctxt "Plugin|"
 msgid "Wall"
-msgstr ""
+msgstr "Wall"
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:39
 msgctxt "Plugin|"
@@ -161,7 +161,7 @@ msgstr "Vkontakte Wand-Unterstützung für qutIM"
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:39
 msgctxt "Plugin|"
 msgid "Vkontakte"
-msgstr ""
+msgstr "Vkontakte"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:40
 msgctxt "Plugin|"
@@ -171,7 +171,7 @@ msgstr "Einfache Umsetzung von Vkontakte, basierend auf userapi.ru"
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:51
 msgctxt "Plugin|"
 msgid "vkontakte"
-msgstr ""
+msgstr "vkontakte"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:52
 msgctxt "Plugin|"
@@ -181,7 +181,7 @@ msgstr "Einfache Umsetzung von vkontakte, basierend auf desktop.api"
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:56
 msgctxt "Plugin|"
 msgid "Vkontakte account creator"
-msgstr ""
+msgstr "Vkontakte account creator"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:57
 msgctxt "Plugin|"
@@ -191,7 +191,7 @@ msgstr "Konten für Vkontakte erstellen"
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:60
 msgctxt "Plugin|"
 msgid "Proxy support"
-msgstr ""
+msgstr "Proxy support"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:61
 msgctxt "Plugin|"
@@ -224,7 +224,7 @@ msgstr "%1 Einstellungen"
 #: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:14
 msgctxt "VAccountWizardPage|"
 msgid "WizardPage"
-msgstr ""
+msgstr "WizardPage"
 
 #: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:26
 msgctxt "VAccountWizardPage|"
@@ -270,12 +270,12 @@ msgstr "Video"
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:201
 msgctxt "VWallSessionPrivate|"
 msgid "Application"
-msgstr ""
+msgstr "Anwendung"
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:203
 msgctxt "VWallSessionPrivate|"
 msgid "Graffiti"
-msgstr ""
+msgstr "Graffiti"
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:205
 msgctxt "VWallSessionPrivate|"
@@ -285,7 +285,7 @@ msgstr "Foto"
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:207
 msgctxt "VWallSessionPrivate|"
 msgid "Posted photo"
-msgstr ""
+msgstr "Gesendetes Foto"
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:209
 #, qt-format
@@ -316,9 +316,9 @@ msgstr "Kontoeinstellungen"
 #: ../../../protocols/vkontakte/src/vkontakteprotocol.cpp:123
 msgctxt "VkontakteProtocol|"
 msgid "id"
-msgstr ""
+msgstr "ID"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbum/default/main.qml:108
 msgctxt "main|"
 msgid "Back"
-msgstr ""
+msgstr "Zurück"
