@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-21 09:14+0000\n"
-"PO-Revision-Date: 2012-01-12 13:07+0000\n"
-"Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
+"PO-Revision-Date: 2012-01-30 05:06+0000\n"
+"Last-Translator: Vyacheslav Sharmanov <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-13 05:25+0000\n"
-"X-Generator: Launchpad (build 14664)\n"
+"X-Launchpad-Export-Date: 2012-01-30 05:13+0000\n"
+"X-Generator: Launchpad (build 14727)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: ru\n"
@@ -285,7 +285,7 @@ msgstr "Ошибка связи с базой данных"
 #: ../../../protocols/oscar/src/connection.cpp:343
 msgctxt "ConnectionError|"
 msgid "Reservation map error"
-msgstr ""
+msgstr "Ошибка резервирования карты"
 
 # Знаю, что ошибку переводить не надо, но пусть побудет чуток. -_-
 #: ../../../protocols/oscar/src/connection.cpp:345
@@ -317,7 +317,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/connection.cpp:353
 msgctxt "ConnectionError|"
 msgid "User too heavily warned"
-msgstr ""
+msgstr "Слишком много предупреждений"
 
 #: ../../../protocols/oscar/src/connection.cpp:355
 msgctxt "ConnectionError|"
@@ -3198,7 +3198,7 @@ msgstr "Протокол фередачи файлов OSCAR'a"
 #: ../../../protocols/oscar/src/oscarplugin.cpp:83
 msgctxt "Plugin|"
 msgid "Oscar file transfer settings"
-msgstr ""
+msgstr "Настройка протокола передачи файлов для протокола Oscar"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:86
 #: ../../../protocols/oscar/src/oscarplugin.cpp:87
@@ -3383,7 +3383,7 @@ msgstr "Запрос неоднозначен"
 #: ../../../protocols/oscar/src/connection.cpp:96
 msgctxt "ProtocolError|"
 msgid "Server queue full"
-msgstr ""
+msgstr "Очередь сервера переполнена"
 
 #: ../../../protocols/oscar/src/connection.cpp:98
 msgctxt "ProtocolError|"
