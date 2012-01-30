@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-01-18 13:42+0000\n"
-"PO-Revision-Date: 2012-01-12 12:56+0000\n"
+"PO-Revision-Date: 2012-01-29 06:37+0000\n"
 "Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-19 05:16+0000\n"
-"X-Generator: Launchpad (build 14692)\n"
+"X-Launchpad-Export-Date: 2012-01-30 05:13+0000\n"
+"X-Generator: Launchpad (build 14727)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -53,27 +53,27 @@ msgstr "Лицензия"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:65
 msgctxt "Account|"
 msgid "Add new account"
-msgstr ""
+msgstr "Создать учетную запись"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:66
 msgctxt "Account|"
 msgid "Just add or create new account"
-msgstr ""
+msgstr "Просто добавить или создать учетную запись"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:71
 msgctxt "Account|"
 msgid "Accounts"
-msgstr ""
+msgstr "Учетные записи"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AccountCreatorDialog.qml:37
 msgctxt "AccountCreatorDialog|"
 msgid "Close"
-msgstr ""
+msgstr "Закрыть"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AccountCreatorDialog.qml:71
 msgctxt "AccountCreatorDialog|"
 msgid "Select protocol:"
-msgstr ""
+msgstr "Выберите протокол:"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.ui:14
 msgctxt "AccountCreatorList|"
@@ -273,27 +273,27 @@ msgstr "Настройки"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:197
 msgctxt "Main|"
 msgid "Send"
-msgstr ""
+msgstr "Отправить"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:198
 msgctxt "Main|"
 msgid "Cancel"
-msgstr ""
+msgstr "Отмена"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:216
 msgctxt "Main|"
 msgid "Would you like to send details about your current setup?"
-msgstr ""
+msgstr "Желаете отправить информацию об установке?"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:223
 msgctxt "Main|"
 msgid "Dont's ask me later"
-msgstr ""
+msgstr "Больше не спрашивать"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:229
 msgctxt "Main|"
 msgid "Information to be transferred to the qutIM's authors:"
-msgstr ""
+msgstr "Информация для отправки разработчика qutIM:"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/aboutdialogwrapper.cpp:53
 #, qt-format
@@ -318,12 +318,12 @@ msgstr ""
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:143
 msgctxt "MeegoIntegration::AccountCreatorList|"
 msgid "Properties"
-msgstr ""
+msgstr "Параметры"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:144
 msgctxt "MeegoIntegration::AccountCreatorList|"
 msgid "Account settings"
-msgstr ""
+msgstr "Настройки учетной записи"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:152
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:154
@@ -331,31 +331,16 @@ msgstr ""
 #, fuzzy
 msgctxt "MeegoIntegration::AccountCreatorList|"
 msgid "Remove account"
-msgstr "Выбор учетной записи:"
+msgstr ""
+"#-#-#-#-#  ru.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Удалить учетную запись\n"
+"#-#-#-#-#  ru.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:194
 #, qt-format
 msgctxt "MeegoIntegration::AccountCreatorList|"
 msgid "Are you sure want to remove %1"
-msgstr ""
-
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:143
-msgctxt "MeegoIntegration::AccountCreatorList|"
-msgid "Properties"
-msgstr ""
-
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:144
-msgctxt "MeegoIntegration::AccountCreatorList|"
-msgid "Account settings"
-msgstr ""
-
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:152
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:154
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:193
-msgctxt "MeegoIntegration::AccountCreatorList|"
-msgid "Remove account"
-msgstr ""
-
+msgstr "Вы действительно хотите удалить %1"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/passworddialogwrapper.cpp:38
 msgctxt "MeegoIntegration::PasswordDialogWrapper|"
