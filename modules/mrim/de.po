@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-01-18 13:42+0000\n"
-"PO-Revision-Date: 2012-01-23 14:21+0000\n"
+"PO-Revision-Date: 2012-01-30 23:27+0000\n"
 "Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-24 07:06+0000\n"
-"X-Generator: Launchpad (build 14713)\n"
+"X-Launchpad-Export-Date: 2012-01-31 07:17+0000\n"
+"X-Generator: Launchpad (build 14734)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: de\n"
 "X-Source-Language: en\n"
@@ -215,12 +215,12 @@ msgstr "Spazieren gehen"
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:204
 msgctxt "Status|"
 msgid "I'm an alien!"
-msgstr ""
+msgstr "Ich bin ein Alien!"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:206
 msgctxt "Status|"
 msgid "I'm a shrimp!"
-msgstr ""
+msgstr "Ich bin ein Shrimp!"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:208
 msgctxt "Status|"
@@ -230,7 +230,7 @@ msgstr "Ich bin verloren :("
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:210
 msgctxt "Status|"
 msgid "Crazy %)"
-msgstr ""
+msgstr "Verrückt %)"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:212
 msgctxt "Status|"
@@ -310,12 +310,12 @@ msgstr "Zunge"
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:242
 msgctxt "Status|"
 msgid "Smiley"
-msgstr ""
+msgstr "Smiley"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:244
 msgctxt "Status|"
 msgid "Hippy"
-msgstr ""
+msgstr "Hippy"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:246
 msgctxt "Status|"
@@ -355,12 +355,12 @@ msgstr "Herz"
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:260
 msgctxt "Status|"
 msgid "Crescent"
-msgstr ""
+msgstr "Halbmond"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:262
 msgctxt "Status|"
 msgid "Coool!"
-msgstr ""
+msgstr "Coool!"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:264
 msgctxt "Status|"
@@ -370,7 +370,7 @@ msgstr "Hörner"
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:266
 msgctxt "Status|"
 msgid "Figa"
-msgstr ""
+msgstr "Figa"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:268
 msgctxt "Status|"
@@ -390,12 +390,12 @@ msgstr "Rakete"
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:274
 msgctxt "Status|"
 msgid "Ktulhu"
-msgstr ""
+msgstr "Ktulhu"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:276
 msgctxt "Status|"
 msgid "Goat"
-msgstr ""
+msgstr "Goat"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:278
 msgctxt "Status|"
@@ -405,12 +405,12 @@ msgstr "Ich muss sterben!"
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:280
 msgctxt "Status|"
 msgid "Squirrel"
-msgstr ""
+msgstr "Eichhörnchen"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:282
 msgctxt "Status|"
 msgid "Party!"
-msgstr ""
+msgstr "Party!"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:284
 msgctxt "Status|"

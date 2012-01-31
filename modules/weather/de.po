@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-01-20 19:51+0000\n"
-"PO-Revision-Date: 2012-01-24 11:18+0000\n"
+"PO-Revision-Date: 2012-01-30 22:25+0000\n"
 "Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-25 05:49+0000\n"
-"X-Generator: Launchpad (build 14719)\n"
+"X-Launchpad-Export-Date: 2012-01-31 07:17+0000\n"
+"X-Generator: Launchpad (build 14734)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
@@ -55,7 +55,7 @@ msgstr "Name des Ortes eingeben"
 #: ../../../plugins/weather/src/wsettings.cpp:164
 msgctxt "WSettings|"
 msgid "Not found"
-msgstr "Nicht gefunden"
+msgstr "Nichts gefunden"
 
 #: ../../../plugins/weather/src/wsettings.ui:14
 #: ../../../plugins/weather/src/wsettings.ui:58
@@ -96,12 +96,12 @@ msgstr "Wetter als Statusnachricht des Ortes anzeigen"
 #: ../../../plugins/weather/src/wsettings.ui:118
 msgctxt "WSettingsClass|"
 msgid "Use default theme"
-msgstr "Standard-Thema"
+msgstr "Standard-Stil"
 
 #: ../../../plugins/weather/src/wsettings.ui:134
 msgctxt "WSettingsClass|"
 msgid "Use custom theme:"
-msgstr "Eigenes Thema:"
+msgstr "Eigener Stil:"
 
 #: ../../../plugins/weather/src/wsettings.ui:163
 msgctxt "WSettingsClass|"
@@ -343,7 +343,7 @@ msgstr "Einstellungen"
 #: ../../../plugins/weather/new/weatherSettings.ui:24
 msgctxt "weatherSettingsClass|"
 msgid "Cities"
-msgstr "Städte"
+msgstr "Orte"
 
 #: ../../../plugins/weather/new/weatherSettings.ui:33
 msgctxt "weatherSettingsClass|"
@@ -353,12 +353,12 @@ msgstr "&Hinzufügen"
 #: ../../../plugins/weather/new/weatherSettings.ui:46
 msgctxt "weatherSettingsClass|"
 msgid "City &ID:"
-msgstr "Stadt &ID:"
+msgstr "Ort-&ID:"
 
 #: ../../../plugins/weather/new/weatherSettings.ui:59
 msgctxt "weatherSettingsClass|"
 msgid "&Delete city"
-msgstr "&Lösche Stadt"
+msgstr "Ort &löschen"
 
 #: ../../../plugins/weather/new/weatherSettings.ui:67
 msgctxt "weatherSettingsClass|"
@@ -368,7 +368,7 @@ msgstr "Suche"
 #: ../../../plugins/weather/new/weatherSettings.ui:73
 msgctxt "weatherSettingsClass|"
 msgid "&City name:"
-msgstr "&Stadtname:"
+msgstr "Orts&name:"
 
 #: ../../../plugins/weather/new/weatherSettings.ui:86
 msgctxt "weatherSettingsClass|"
@@ -378,18 +378,17 @@ msgstr "&Suchen"
 #: ../../../plugins/weather/new/weatherSettings.ui:99
 msgctxt "weatherSettingsClass|"
 msgid "Please, enter a city name."
-msgstr "Bitte geben sie einen Stadtnamen ein."
+msgstr "Bitte einen Ortsnamen eingeben."
 
 #: ../../../plugins/weather/new/weatherSettings.ui:115
 msgctxt "weatherSettingsClass|"
 msgid "Hint: double-click on a city adds it to your city list."
-msgstr ""
-"Tip: Ein Doppelklick auf eine Stadt fügt diese zu ihrer Städteliste hinzu."
+msgstr "Tip: Ein Doppelklick auf einen Ort fügt diesen zur Liste hinzu."
 
 #: ../../../plugins/weather/new/weatherSettings.ui:132
 msgctxt "weatherSettingsClass|"
 msgid "&Refresh period:"
-msgstr "%Aktualisierungsperiode:"
+msgstr "Aktualisierungs&intervall:"
 
 #: ../../../plugins/weather/new/weatherSettings.ui:152
 msgctxt "weatherSettingsClass|"

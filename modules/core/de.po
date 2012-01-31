@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-01-20 19:51+0000\n"
-"PO-Revision-Date: 2012-01-25 10:35+0000\n"
-"Last-Translator: Vsevolod Velichko <Unknown>\n"
+"PO-Revision-Date: 2012-01-30 22:49+0000\n"
+"Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-26 05:46+0000\n"
-"X-Generator: Launchpad (build 14719)\n"
+"X-Launchpad-Export-Date: 2012-01-31 07:17+0000\n"
+"X-Generator: Launchpad (build 14734)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
@@ -121,7 +121,7 @@ msgstr "Zur Kontaktliste hinzufügen"
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:123
 msgctxt "AddContact|"
 msgid "Unavailable"
-msgstr ""
+msgstr "Nicht verfügbar"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:248
 msgctxt "AddContact|"
@@ -417,12 +417,12 @@ msgstr "Tags und Kontakte"
 #: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:75
 msgctxt "ContactList|"
 msgid "Default style"
-msgstr "Standard-Stil"
+msgstr "Standard"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp:43
 msgctxt "ContactList|"
 msgid "Default (depends on platform)"
-msgstr "Standard (plattformabhängig)"
+msgstr "Standard (Systemeinstellungen)"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.cpp:44
 msgctxt "ContactList|"
@@ -452,7 +452,7 @@ msgstr "Riesig (64x64)"
 #: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:73
 msgctxt "ContactList|"
 msgid "qutIM 0.2 style"
-msgstr "qutIM 0.2-Stil"
+msgstr "qutIM 0.2"
 
 #: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:43
 #: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:67
@@ -600,7 +600,7 @@ msgstr "Strg+Enter"
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.cpp:46
 msgctxt "Core::AdiumChat::StackedChatBehavior|"
 msgid "Double Enter"
-msgstr "Doppeltes \"Enter\""
+msgstr "Doppeltes Enter"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.cpp:49
 msgctxt "Core::AdiumChat::StackedChatBehavior|"
@@ -630,7 +630,7 @@ msgstr "Strg+Enter"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:45
 msgctxt "Core::AdiumChat::TabbedChatBehavior|"
 msgid "Double Enter"
-msgstr "Doppeltes \"Enter\""
+msgstr "Doppeltes Enter"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:48
 msgctxt "Core::AdiumChat::TabbedChatBehavior|"
@@ -710,17 +710,17 @@ msgstr "Zum Wörterbuch hinzufügen"
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:120
 msgctxt "Core::ContactListSettings|"
 msgid "Model"
-msgstr "Anzeigen"
+msgstr "Gliederung"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:121
 msgctxt "Core::ContactListSettings|"
 msgid "Widget style"
-msgstr "Fensterstil"
+msgstr "Stil des (äußeren) Fensters"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:122
 msgctxt "Core::ContactListSettings|"
 msgid "Contacts style"
-msgstr "Kontaktstil"
+msgstr "Stil der (inneren) Kontaktliste"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:214
 msgctxt "Core::ContactListSettings|"
@@ -730,12 +730,12 @@ msgstr "Die Änderungen erfordern einen Neustart von qutIM"
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:109
 msgctxt "Core::FileTransferDialog|"
 msgid "Remove"
-msgstr ""
+msgstr "Löschen"
 
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:111
 msgctxt "Core::FileTransferDialog|"
 msgid "Stop"
-msgstr ""
+msgstr "Anhalten"
 
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:113
 msgctxt "Core::FileTransferDialog|"
@@ -890,7 +890,7 @@ msgstr "Schließen"
 #: ../../../core/src/corelayers/mobilenotificationssettings/mobilenotificationsettings.cpp:144
 msgctxt "Core::MobileNotificationSettings|"
 msgid "Disable notifications when chat is active"
-msgstr "Deaktiviere Benachrichtigungen bei aktiven Chat"
+msgstr "Keine Benachrichtigungen bei aktiven Chat"
 
 #: ../../../core/src/corelayers/mobilenotificationssettings/mobilenotificationsettings.cpp:148
 msgctxt "Core::MobileNotificationSettings|"
@@ -941,7 +941,7 @@ msgstr "<b>Weitere Einstellungen:</b>"
 #: ../../../core/src/corelayers/notificationssettings/notificationsettings.cpp:98
 msgctxt "Core::NotificationSettings|"
 msgid "Disable notifications when chat is active"
-msgstr "Deaktiviere Benachrichtigungen bei aktiven Chat"
+msgstr "Keine Benachrichtigungen bei aktiven Chat"
 
 #: ../../../core/src/corelayers/notificationssettings/notificationsettings.cpp:102
 msgctxt "Core::NotificationSettings|"
@@ -1168,7 +1168,7 @@ msgstr " (global)"
 #, qt-format
 msgctxt "Core::ShortcutItemDelegate|"
 msgid "%1 : input"
-msgstr ""
+msgstr "%1 : input"
 
 #: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.cpp:51
 #, qt-format
@@ -1426,7 +1426,7 @@ msgstr "Nein"
 #: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:129
 msgctxt "DataForms|"
 msgid "the field is not set"
-msgstr "Feld ist nicht gesetzt"
+msgstr "-leer-"
 
 #: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:662
 msgctxt "DataForms|"
@@ -1506,7 +1506,7 @@ msgstr "Dateiübertragungen..."
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.ui:20
 msgctxt "FileTransferDialog|"
 msgid "File transfer manager"
-msgstr "Dateiübertragungen bearbeiten"
+msgstr "Dateiübertragungen verwalten"
 
 #: ../../../core/src/corelayers/jsonhistory/historywindow.ui:14
 msgctxt "HistoryWindowClass|"
@@ -1620,7 +1620,7 @@ msgstr "Anfordern aller Nachrichten seit der Uhrzeit"
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:188
 msgctxt "JoinChat|"
 msgid "H:mm:ss"
-msgstr ""
+msgstr "H:mm:ss"
 
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:218
 msgctxt "JoinChat|"
@@ -1815,7 +1815,7 @@ msgstr "Suchergebnisse"
 #: ../../../core/src/corelayers/metacontacts/manager.cpp:97
 msgctxt "Metacontact|"
 msgid "You"
-msgstr "Sie"
+msgstr "Du"
 
 #: ../../../core/src/corelayers/migration02x03/migrationstartpage.ui:14
 msgctxt "MigrationStartPage|"
@@ -2057,7 +2057,7 @@ msgstr "Webkit chat layer"
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:84
 msgctxt "Plugin|"
 msgid "Default qutIM chat implementation, based on Adium chat styles"
-msgstr "Standardmodul für die Chatansicht, basierend auf Adium Chatstyles"
+msgstr "Standardmodul für die Chatansicht, basierend auf Adium-Chatstyles"
 
 #: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:36
 msgctxt "Plugin|"
@@ -2266,22 +2266,22 @@ msgstr "Schaltflächenstil"
 #: ../../../core/libqutim/utils.cpp:124
 msgctxt "QObject|"
 msgid "1st quarter"
-msgstr ""
+msgstr "1. Viertel"
 
 #: ../../../core/libqutim/utils.cpp:127
 msgctxt "QObject|"
 msgid "2nd quarter"
-msgstr ""
+msgstr "2. Viertel"
 
 #: ../../../core/libqutim/utils.cpp:130
 msgctxt "QObject|"
 msgid "3rd quarter"
-msgstr ""
+msgstr "3. Viertel"
 
 #: ../../../core/libqutim/utils.cpp:133
 msgctxt "QObject|"
 msgid "4th quarter"
-msgstr ""
+msgstr "4. Viertel"
 
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:92
 msgctxt "QObject|"
@@ -2320,7 +2320,7 @@ msgstr "%1 B"
 #: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:95
 msgctxt "QObject|"
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:46
 #, qt-format
@@ -2517,7 +2517,7 @@ msgstr "Protokolle"
 #: ../../../core/libqutim/settingslayer.cpp:443
 msgctxt "Settings|"
 msgid "Appearance"
-msgstr "Aussehen"
+msgstr "Benutzeroberfläche"
 
 #: ../../../core/libqutim/settingslayer.cpp:444
 msgctxt "Settings|"
@@ -2840,7 +2840,7 @@ msgstr "Form"
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:62
 msgctxt "StackedChatBehavior|"
 msgid "Send Key"
-msgstr "Nachricht senden bei"
+msgstr "Nachricht senden mit"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:70
 msgctxt "StackedChatBehavior|"
@@ -2927,7 +2927,7 @@ msgstr "Form"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:47
 msgctxt "TabbedChatBehavior|"
 msgid "Send Key"
-msgstr "Nachricht senden bei"
+msgstr "Nachricht senden mit"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:55
 msgctxt "TabbedChatBehavior|"
@@ -3096,7 +3096,7 @@ msgstr "Kann Datei mit dem Hash nicht öffnen"
 #: ../../../core/libqutim/sound.cpp:282
 msgctxt "qutim_sdk_0_3::SoundHandler|"
 msgid "Play sound"
-msgstr ""
+msgstr "Abspielen"
 
 #: ../../../core/libqutim/statisticshelper.cpp:146
 #, qt-format
@@ -3130,50 +3130,3 @@ msgstr "Speichern"
 msgctxt "userInformationClass|"
 msgid "Close"
 msgstr "Schließen"
-
-#~ msgctxt "Core::AdiumChat::ChatAppearance|"
-#~ msgid "Vasya Pupkin"
-#~ msgstr "Irgend Jemand"
-
-#~ msgctxt "Core::AdiumChat::ChatAppearance|"
-#~ msgid "Noname"
-#~ msgstr "Du Selbst"
-
-#~ msgctxt "Core::AdiumChat::ChatAppearance|"
-#~ msgid "Preview message"
-#~ msgstr "Völlig belangloses popup"
-
-#~ msgctxt "Core::AdiumChat::ChatAppearance|"
-#~ msgid "Hello!"
-#~ msgstr "Hallo!"
-
-#~ msgctxt "Core::AdiumChat::ChatAppearance|"
-#~ msgid "How are you?"
-#~ msgstr "Wie gehts denn so?"
-
-#~ msgctxt "Core::AdiumChat::ChatAppearance|"
-#~ msgid "I am fine!"
-#~ msgstr "Super!"
-
-#~ msgctxt "Core::AdiumChat::ChatAppearance|"
-#~ msgid "/me is thinking!"
-#~ msgstr "/me denkt nach!"
-
-#~ msgctxt "Core::AdiumChat::ChatAppearance|"
-#~ msgid "Vasya Pupkin is reading you mind"
-#~ msgstr "Irgend Jemand ändert seine Statusnachricht"
-
-#~ msgctxt "Core::AdiumChat::ChatAppearance|"
-#~ msgid "Style variant:"
-#~ msgstr "Stilvarianten:"
-
-#~ msgctxt "Core::AdiumChat::ChatFont|"
-#~ msgid "Change"
-#~ msgstr "Ändern"
-
-#~ msgctxt "Plugin|"
-#~ msgid ""
-#~ "Modifier for %time% and %timeOpened% param, based on Apple's documentation"
-#~ msgstr ""
-#~ "Ändert %time% und %timeOpened% Parameter, basierend auf Apples "
-#~ "Dokumentation"
