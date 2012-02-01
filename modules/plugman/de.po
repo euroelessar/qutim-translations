@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-21 09:14+0000\n"
-"PO-Revision-Date: 2012-01-23 16:15+0000\n"
+"PO-Revision-Date: 2012-01-31 12:27+0000\n"
 "Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-24 07:06+0000\n"
-"X-Generator: Launchpad (build 14713)\n"
+"X-Launchpad-Export-Date: 2012-02-01 05:24+0000\n"
+"X-Generator: Launchpad (build 14734)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
@@ -29,12 +29,12 @@ msgstr "Kategorie:"
 #: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:31
 msgctxt "ChooseCategoryPage|"
 msgid "Art"
-msgstr "Design/Optik"
+msgstr "Benutzeroberfläche"
 
 #: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:36
 msgctxt "ChooseCategoryPage|"
 msgid "Core"
-msgstr ""
+msgstr "Kernmodul"
 
 #: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:41
 msgctxt "ChooseCategoryPage|"
@@ -49,17 +49,17 @@ msgstr "Plugin"
 #: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:66
 msgctxt "ChooseCategoryPage|"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: ../../../plugins/plugman/tools/packgen/choosecategorypage.cpp:66
 msgctxt "ChooseCategoryPage|"
 msgid "Select art"
-msgstr "Design/Optik auswählen"
+msgstr "Stil auswählen"
 
 #: ../../../plugins/plugman/tools/packgen/choosecategorypage.cpp:75
 msgctxt "ChooseCategoryPage|"
 msgid "Select core"
-msgstr ""
+msgstr "Kernmodul auswählen"
 
 #: ../../../plugins/plugman/tools/packgen/choosecategorypage.cpp:80
 msgctxt "ChooseCategoryPage|"
@@ -84,17 +84,17 @@ msgstr "Bibliothek auswählen"
 #: ../../../plugins/plugman/tools/packgen/choosepathpage.ui:14
 msgctxt "ChoosePathPage|"
 msgid "WizardPage"
-msgstr ""
+msgstr "WizardPage"
 
 #: ../../../plugins/plugman/tools/packgen/choosepathpage.ui:35
 msgctxt "ChoosePathPage|"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:14
 msgctxt "ConfigPackagePage|"
 msgid "WizardPage"
-msgstr ""
+msgstr "WizardPage"
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:29
 msgctxt "ConfigPackagePage|"
@@ -123,12 +123,12 @@ msgstr "Kategorie:"
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:90
 msgctxt "ConfigPackagePage|"
 msgid "Art"
-msgstr "Design/Optik"
+msgstr "Benutzeroberfläche"
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:95
 msgctxt "ConfigPackagePage|"
 msgid "Core"
-msgstr ""
+msgstr "Kernmodul"
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:100
 msgctxt "ConfigPackagePage|"
@@ -251,7 +251,7 @@ msgstr "Paketverwaltung..."
 #: ../../../plugins/plugman/src/plugman.cpp:52
 msgctxt "Plugin|"
 msgid "Package manager"
-msgstr ""
+msgstr "Package manager"
 
 #: ../../../plugins/plugman/src/plugman.cpp:53
 msgctxt "Plugin|"
@@ -316,7 +316,7 @@ msgstr "Pakete verwalten"
 #: ../../../plugins/plugman/ui/manager.ui:51
 msgctxt "manager|"
 msgid "Not yet implemented"
-msgstr ""
+msgstr "Funktioniert noch nicht"
 
 #: ../../../plugins/plugman/ui/manager.ui:61
 msgctxt "manager|"
@@ -442,7 +442,7 @@ msgstr "Installieren"
 #: ../../../plugins/plugman/oldsrc/plugitemdelegate.cpp:104
 msgctxt "plugItemDelegate|"
 msgid "Remove"
-msgstr "Entfernen"
+msgstr "Löschen"
 
 #: ../../../plugins/plugman/oldsrc/plugitemdelegate.cpp:109
 msgctxt "plugItemDelegate|"
@@ -462,7 +462,7 @@ msgstr "Paketliste aktualisieren"
 #: ../../../plugins/plugman/oldsrc/plugmanager.cpp:57
 msgctxt "plugManager|"
 msgid "Upgrade all"
-msgstr "Alles Upgraden"
+msgstr "Alles upgraden"
 
 #: ../../../plugins/plugman/oldsrc/plugmanager.cpp:61
 msgctxt "plugManager|"
@@ -485,7 +485,7 @@ msgstr "Konnte Datei nicht öffnen"
 #: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:237
 msgctxt "plugXMLHandler|"
 msgid "Unable to set content"
-msgstr ""
+msgstr "Konnte Inhalt nicht setzen"
 
 #: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:145
 #: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:184
@@ -513,12 +513,12 @@ msgstr "kann Datei nicht öffnen"
 #: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:208
 msgctxt "plugXMLHandler|"
 msgid "unable to set content"
-msgstr ""
+msgstr "kann Inhalt nicht setzen"
 
 #: ../../../plugins/plugman/ui/settings.ui:20
 msgctxt "plugmanSettings|"
 msgid "Form"
-msgstr ""
+msgstr "Form"
 
 #: ../../../plugins/plugman/ui/settings.ui:39
 msgctxt "plugmanSettings|"
@@ -563,7 +563,7 @@ msgstr "Hinzufügen"
 #: ../../../plugins/plugman/ui/settings.ui:97
 msgctxt "plugmanSettings|"
 msgid "Not yet implemented"
-msgstr ""
+msgstr "Funktioniert noch nicht"
 
 #: ../../../plugins/plugman/ui/settings.ui:111
 msgctxt "plugmanSettings|"
