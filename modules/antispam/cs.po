@@ -16,12 +16,12 @@ msgstr ""
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
 
-#: ../../../plugins/antispam/src/antispamplugin.cpp:42
+#: ../../../plugins/antispam/src/antispamplugin.cpp:44
 msgctxt "Antispam|"
 msgid "Antispam"
 msgstr ""
 
-#: ../../../plugins/antispam/src/handler.cpp:51
+#: ../../../plugins/antispam/src/handler.cpp:73
 msgctxt "Antispam::Handler|"
 msgid ""
 "Beer, wine, vodka, champagne: after which drink in this sequence I should "
@@ -30,15 +30,21 @@ msgstr ""
 "Pivo, víno, vodka, šampaňské: po kterém nápoji v tomto pořadí bych měl "
 "přestat?"
 
-#: ../../../plugins/antispam/src/handler.cpp:52
+#: ../../../plugins/antispam/src/handler.cpp:74
 msgctxt "Antispam::Handler|"
 msgid "We are ready to drink with you!"
 msgstr ""
 
-#: ../../../plugins/antispam/src/handler.cpp:53
+#: ../../../plugins/antispam/src/handler.cpp:75
 msgctxt "Antispam::Handler|"
 msgid "vodka;Vodka"
 msgstr "vodka;Vodka;VODKA"
+
+#: ../../../plugins/antispam/src/handler.cpp:136
+#, fuzzy, qt-format
+msgctxt "Antispam::Handler|"
+msgid "Message from %1 blocked on suspicion of spam."
+msgstr "Zpráva od %1 zablokována z důvodu podezření na spam."
 
 #: ../../../plugins/antispam/src/settingswidget.ui:14
 msgctxt "Antispam::SettingsWidget|"
@@ -50,27 +56,27 @@ msgctxt "Antispam::SettingsWidget|"
 msgid "Enabled"
 msgstr "Povoleno"
 
-#: ../../../plugins/antispam/src/settingswidget.ui:30
+#: ../../../plugins/antispam/src/settingswidget.ui:33
 msgctxt "Antispam::SettingsWidget|"
 msgid "Handle auth requests"
 msgstr ""
 
-#: ../../../plugins/antispam/src/settingswidget.ui:37
+#: ../../../plugins/antispam/src/settingswidget.ui:40
 msgctxt "Antispam::SettingsWidget|"
 msgid "Question:"
 msgstr "Otázka:"
 
-#: ../../../plugins/antispam/src/settingswidget.ui:50
+#: ../../../plugins/antispam/src/settingswidget.ui:53
 msgctxt "Antispam::SettingsWidget|"
 msgid "Answers (semicolon as a separator):"
 msgstr "Odpovědi (středník jako oddělovač):"
 
-#: ../../../plugins/antispam/src/settingswidget.ui:63
+#: ../../../plugins/antispam/src/settingswidget.ui:66
 msgctxt "Antispam::SettingsWidget|"
 msgid "Message on correct answer:"
 msgstr "Zpráva při správné odpovědi:"
 
-#: ../../../plugins/antispam/src/settingswidget.cpp:57
+#: ../../../plugins/antispam/src/settingswidget.cpp:53
 msgctxt "Antispam::SettingsWidget|"
 msgid ""
 "Beer, wine, vodka, champagne: after which drink in this sequence I should "
@@ -79,38 +85,32 @@ msgstr ""
 "Pivo, víno, vodka, šampaňské: po kterém nápoji v tomto pořadí bych měl "
 "přestat?"
 
-#: ../../../plugins/antispam/src/settingswidget.cpp:58
+#: ../../../plugins/antispam/src/settingswidget.cpp:54
 msgctxt "Antispam::SettingsWidget|"
 msgid "We are ready to drink with you!"
 msgstr ""
 
-#: ../../../plugins/antispam/src/settingswidget.cpp:59
+#: ../../../plugins/antispam/src/settingswidget.cpp:55
 msgctxt "Antispam::SettingsWidget|"
 msgid "vodka;Vodka"
 msgstr "vodka;Vodka;VODKA"
 
-#: ../../../plugins/antispam/src/antispamplugin.cpp:49
+#: ../../../plugins/antispam/src/antispamplugin.cpp:50
 msgctxt "Author|"
 msgid "Aleksey Sidorov"
 msgstr ""
 
-#: ../../../plugins/antispam/src/antispamplugin.cpp:53
+#: ../../../plugins/antispam/src/antispamplugin.cpp:55
 msgctxt "Plugin|"
 msgid "Antispam"
 msgstr ""
 
-#: ../../../plugins/antispam/src/antispamplugin.cpp:54
+#: ../../../plugins/antispam/src/antispamplugin.cpp:56
 msgctxt "Plugin|"
 msgid "Blocks messages from unknown contacts by question-answer pair"
 msgstr "Blokuje zprávy od neznámých kontaktů pomocí kontrolní otázky"
 
-#: ../../../plugins/antispam/src/handler.cpp:90
-#, qt-format
-msgctxt "QObject|"
-msgid "Message from %1 blocked  on suspicion of spam."
-msgstr "Zpráva od %1 zablokována z důvodu podezření na spam."
-
-#: ../../../plugins/antispam/src/antispamplugin.cpp:50
+#: ../../../plugins/antispam/src/antispamplugin.cpp:51
 msgctxt "Task|"
 msgid "Author"
 msgstr "Autor"

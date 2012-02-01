@@ -16,6 +16,14 @@ msgstr ""
 "X-Language: de\n"
 "X-Source-Language: en\n"
 
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:69
+msgctxt "BearerManager|"
+msgid ""
+"Unable to find any network configuration. Perhaps Qt or QtMobility network "
+"bearer configured incorrectly. Bearer manager will not work properly, refer "
+"to your distribution maintainer."
+msgstr ""
+
 #: ../../../plugins/mobility/src/bearermanager/managersettings.ui:14
 msgctxt "ManagerSettings|"
 msgid "Form"
@@ -26,12 +34,12 @@ msgctxt "ManagerSettings|"
 msgid "Autoconnect on startup"
 msgstr "Beim Programmstart automatisch verbinden"
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:46
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:47
 msgctxt "Service|"
 msgid "BearerManager"
 msgstr "BearerManager"
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:58
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:59
 msgctxt "Settings|"
 msgid "Connection manager"
 msgstr "Verbindungen"

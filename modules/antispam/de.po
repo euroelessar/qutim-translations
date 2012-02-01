@@ -16,12 +16,12 @@ msgstr ""
 "X-Language: de\n"
 "X-Source-Language: en\n"
 
-#: ../../../plugins/antispam/src/antispamplugin.cpp:42
+#: ../../../plugins/antispam/src/antispamplugin.cpp:44
 msgctxt "Antispam|"
 msgid "Antispam"
 msgstr "Anti-Spambot"
 
-#: ../../../plugins/antispam/src/handler.cpp:51
+#: ../../../plugins/antispam/src/handler.cpp:73
 msgctxt "Antispam::Handler|"
 msgid ""
 "Beer, wine, vodka, champagne: after which drink in this sequence I should "
@@ -33,15 +33,21 @@ msgstr ""
 "Hallo, ich bin kein Bot!\n"
 "um zu sicher zu gehen, dass du ein Mensch bist."
 
-#: ../../../plugins/antispam/src/handler.cpp:52
+#: ../../../plugins/antispam/src/handler.cpp:74
 msgctxt "Antispam::Handler|"
 msgid "We are ready to drink with you!"
 msgstr "Glückwunsch, das war in der Tat die richtige Antwort!"
 
-#: ../../../plugins/antispam/src/handler.cpp:53
+#: ../../../plugins/antispam/src/handler.cpp:75
 msgctxt "Antispam::Handler|"
 msgid "vodka;Vodka"
 msgstr "Hallo, ich bin kein Bot!;hallo, ich bin kein bot!"
+
+#: ../../../plugins/antispam/src/handler.cpp:136
+#, fuzzy, qt-format
+msgctxt "Antispam::Handler|"
+msgid "Message from %1 blocked on suspicion of spam."
+msgstr "Nachricht von %1 wurde wegen Spamverdacht blockiert."
 
 #: ../../../plugins/antispam/src/settingswidget.ui:14
 msgctxt "Antispam::SettingsWidget|"
@@ -53,27 +59,27 @@ msgctxt "Antispam::SettingsWidget|"
 msgid "Enabled"
 msgstr "Aktivieren"
 
-#: ../../../plugins/antispam/src/settingswidget.ui:30
+#: ../../../plugins/antispam/src/settingswidget.ui:33
 msgctxt "Antispam::SettingsWidget|"
 msgid "Handle auth requests"
 msgstr "Erlaubnisanfragen abhandeln"
 
-#: ../../../plugins/antispam/src/settingswidget.ui:37
+#: ../../../plugins/antispam/src/settingswidget.ui:40
 msgctxt "Antispam::SettingsWidget|"
 msgid "Question:"
 msgstr "Frage:"
 
-#: ../../../plugins/antispam/src/settingswidget.ui:50
+#: ../../../plugins/antispam/src/settingswidget.ui:53
 msgctxt "Antispam::SettingsWidget|"
 msgid "Answers (semicolon as a separator):"
 msgstr "Richtige Antworten (Strichpunkt als Trennzeichen):"
 
-#: ../../../plugins/antispam/src/settingswidget.ui:63
+#: ../../../plugins/antispam/src/settingswidget.ui:66
 msgctxt "Antispam::SettingsWidget|"
 msgid "Message on correct answer:"
 msgstr "Nachricht bei richtiger Beantwortung:"
 
-#: ../../../plugins/antispam/src/settingswidget.cpp:57
+#: ../../../plugins/antispam/src/settingswidget.cpp:53
 msgctxt "Antispam::SettingsWidget|"
 msgid ""
 "Beer, wine, vodka, champagne: after which drink in this sequence I should "
@@ -85,40 +91,34 @@ msgstr ""
 "Hallo, ich bin kein Bot!\n"
 "um zu sicher zu gehen, dass du ein Mensch bist."
 
-#: ../../../plugins/antispam/src/settingswidget.cpp:58
+#: ../../../plugins/antispam/src/settingswidget.cpp:54
 msgctxt "Antispam::SettingsWidget|"
 msgid "We are ready to drink with you!"
 msgstr "Glückwunsch, das war in der Tat die richtige Antwort!"
 
-#: ../../../plugins/antispam/src/settingswidget.cpp:59
+#: ../../../plugins/antispam/src/settingswidget.cpp:55
 msgctxt "Antispam::SettingsWidget|"
 msgid "vodka;Vodka"
 msgstr "Hallo, ich bin kein Bot!;hallo, ich bin kein bot!"
 
-#: ../../../plugins/antispam/src/antispamplugin.cpp:49
+#: ../../../plugins/antispam/src/antispamplugin.cpp:50
 msgctxt "Author|"
 msgid "Aleksey Sidorov"
 msgstr "Aleksey Sidorov"
 
-#: ../../../plugins/antispam/src/antispamplugin.cpp:53
+#: ../../../plugins/antispam/src/antispamplugin.cpp:55
 msgctxt "Plugin|"
 msgid "Antispam"
 msgstr "Anti-Spam"
 
-#: ../../../plugins/antispam/src/antispamplugin.cpp:54
+#: ../../../plugins/antispam/src/antispamplugin.cpp:56
 msgctxt "Plugin|"
 msgid "Blocks messages from unknown contacts by question-answer pair"
 msgstr ""
 "Blockiert Nachrichten von unbekannten Kontakten, wenn sie eine vorgegebene "
 "Frage nicht beantworten können"
 
-#: ../../../plugins/antispam/src/handler.cpp:90
-#, qt-format
-msgctxt "QObject|"
-msgid "Message from %1 blocked  on suspicion of spam."
-msgstr "Nachricht von %1 wurde wegen Spamverdacht blockiert."
-
-#: ../../../plugins/antispam/src/antispamplugin.cpp:50
+#: ../../../plugins/antispam/src/antispamplugin.cpp:51
 msgctxt "Task|"
 msgid "Author"
 msgstr "Autor"

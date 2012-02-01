@@ -16,12 +16,12 @@ msgstr ""
 "X-Language: bg\n"
 "X-Source-Language: C\n"
 
-#: ../../../plugins/antispam/src/antispamplugin.cpp:42
+#: ../../../plugins/antispam/src/antispamplugin.cpp:44
 msgctxt "Antispam|"
 msgid "Antispam"
 msgstr "Защита от SPAM"
 
-#: ../../../plugins/antispam/src/handler.cpp:51
+#: ../../../plugins/antispam/src/handler.cpp:73
 msgctxt "Antispam::Handler|"
 msgid ""
 "Beer, wine, vodka, champagne: after which drink in this sequence I should "
@@ -29,15 +29,21 @@ msgid ""
 msgstr ""
 "Бира, вино, водка, шампанско: след кое питие от поредицата трябва да спра?"
 
-#: ../../../plugins/antispam/src/handler.cpp:52
+#: ../../../plugins/antispam/src/handler.cpp:74
 msgctxt "Antispam::Handler|"
 msgid "We are ready to drink with you!"
 msgstr "Готов съм да пийнем заедно!"
 
-#: ../../../plugins/antispam/src/handler.cpp:53
+#: ../../../plugins/antispam/src/handler.cpp:75
 msgctxt "Antispam::Handler|"
 msgid "vodka;Vodka"
 msgstr "водка; Водка"
+
+#: ../../../plugins/antispam/src/handler.cpp:136
+#, fuzzy, qt-format
+msgctxt "Antispam::Handler|"
+msgid "Message from %1 blocked on suspicion of spam."
+msgstr "Блокирано бе съобщение от %1 по подозрение, че е SPAM."
 
 #: ../../../plugins/antispam/src/settingswidget.ui:14
 msgctxt "Antispam::SettingsWidget|"
@@ -49,27 +55,27 @@ msgctxt "Antispam::SettingsWidget|"
 msgid "Enabled"
 msgstr "Активирана"
 
-#: ../../../plugins/antispam/src/settingswidget.ui:30
+#: ../../../plugins/antispam/src/settingswidget.ui:33
 msgctxt "Antispam::SettingsWidget|"
 msgid "Handle auth requests"
 msgstr "Да се обработват заявките за удостоверяване"
 
-#: ../../../plugins/antispam/src/settingswidget.ui:37
+#: ../../../plugins/antispam/src/settingswidget.ui:40
 msgctxt "Antispam::SettingsWidget|"
 msgid "Question:"
 msgstr "Въпрос:"
 
-#: ../../../plugins/antispam/src/settingswidget.ui:50
+#: ../../../plugins/antispam/src/settingswidget.ui:53
 msgctxt "Antispam::SettingsWidget|"
 msgid "Answers (semicolon as a separator):"
 msgstr "Отговори (разделени с точка и запетая):"
 
-#: ../../../plugins/antispam/src/settingswidget.ui:63
+#: ../../../plugins/antispam/src/settingswidget.ui:66
 msgctxt "Antispam::SettingsWidget|"
 msgid "Message on correct answer:"
 msgstr "Съобщение при верен отговор:"
 
-#: ../../../plugins/antispam/src/settingswidget.cpp:57
+#: ../../../plugins/antispam/src/settingswidget.cpp:53
 msgctxt "Antispam::SettingsWidget|"
 msgid ""
 "Beer, wine, vodka, champagne: after which drink in this sequence I should "
@@ -77,39 +83,33 @@ msgid ""
 msgstr ""
 "Бира, вино, водка, шампанско: след кое питие от поредицата трябва да спра?"
 
-#: ../../../plugins/antispam/src/settingswidget.cpp:58
+#: ../../../plugins/antispam/src/settingswidget.cpp:54
 msgctxt "Antispam::SettingsWidget|"
 msgid "We are ready to drink with you!"
 msgstr "Готов съм да пийнем заедно!"
 
-#: ../../../plugins/antispam/src/settingswidget.cpp:59
+#: ../../../plugins/antispam/src/settingswidget.cpp:55
 msgctxt "Antispam::SettingsWidget|"
 msgid "vodka;Vodka"
 msgstr "водка; Водка"
 
-#: ../../../plugins/antispam/src/antispamplugin.cpp:49
+#: ../../../plugins/antispam/src/antispamplugin.cpp:50
 msgctxt "Author|"
 msgid "Aleksey Sidorov"
 msgstr "Алексей Сидоров"
 
-#: ../../../plugins/antispam/src/antispamplugin.cpp:53
+#: ../../../plugins/antispam/src/antispamplugin.cpp:55
 msgctxt "Plugin|"
 msgid "Antispam"
 msgstr "Защита от SPAM"
 
-#: ../../../plugins/antispam/src/antispamplugin.cpp:54
+#: ../../../plugins/antispam/src/antispamplugin.cpp:56
 msgctxt "Plugin|"
 msgid "Blocks messages from unknown contacts by question-answer pair"
 msgstr ""
 "Блокира съобщения от неизвестни контакти, чрез двойка: въпрос и отговор"
 
-#: ../../../plugins/antispam/src/handler.cpp:90
-#, qt-format
-msgctxt "QObject|"
-msgid "Message from %1 blocked  on suspicion of spam."
-msgstr "Блокирано бе съобщение от %1 по подозрение, че е SPAM."
-
-#: ../../../plugins/antispam/src/antispamplugin.cpp:50
+#: ../../../plugins/antispam/src/antispamplugin.cpp:51
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"

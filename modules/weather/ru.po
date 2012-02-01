@@ -77,42 +77,32 @@ msgctxt "WSettingsClass|"
 msgid "Add"
 msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.ui:70
+#: ../../../plugins/weather/src/wsettings.ui:64
 msgctxt "WSettingsClass|"
-msgid "Refresh period:"
-msgstr "Частота обновления:"
+msgid "Theme name:"
+msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.ui:83
+#: ../../../plugins/weather/src/wsettings.ui:81
 msgctxt "WSettingsClass|"
 msgid "min."
 msgstr ""
 
-#: ../../../plugins/weather/src/wsettings.ui:102
+#: ../../../plugins/weather/src/wsettings.ui:94
+msgctxt "WSettingsClass|"
+msgid "Refresh period:"
+msgstr "Частота обновления:"
+
+#: ../../../plugins/weather/src/wsettings.ui:101
 msgctxt "WSettingsClass|"
 msgid "Show weather in the status row"
 msgstr "Погода в поле статуса"
 
-#: ../../../plugins/weather/src/wsettings.ui:118
-msgctxt "WSettingsClass|"
-msgid "Use default theme"
-msgstr "Использовать тему по умолчанию"
-
-#: ../../../plugins/weather/src/wsettings.ui:134
-msgctxt "WSettingsClass|"
-msgid "Use custom theme:"
-msgstr "Использовать тему:"
-
-#: ../../../plugins/weather/src/wsettings.ui:163
-msgctxt "WSettingsClass|"
-msgid "Choose..."
-msgstr "Выбрать..."
-
-#: ../../../plugins/weather/src/wsettings.ui:169
+#: ../../../plugins/weather/src/wsettings.ui:112
 msgctxt "WSettingsClass|"
 msgid "About"
 msgstr "О плагине"
 
-#: ../../../plugins/weather/src/wsettings.ui:175
+#: ../../../plugins/weather/src/wsettings.ui:118
 msgctxt "WSettingsClass|"
 msgid ""
 "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
@@ -452,6 +442,18 @@ msgid ""
 "style=\" font-family:'Bitstream Vera Sans'; color:#000000;\">(c) 2008-2009</"
 "span></p></body></html>"
 msgstr ""
+
+#~ msgctxt "WSettingsClass|"
+#~ msgid "Use default theme"
+#~ msgstr "Использовать тему по умолчанию"
+
+#~ msgctxt "WSettingsClass|"
+#~ msgid "Use custom theme:"
+#~ msgstr "Использовать тему:"
+
+#~ msgctxt "WSettingsClass|"
+#~ msgid "Choose..."
+#~ msgstr "Выбрать..."
 
 #~ msgctxt "WSettingsClass|"
 #~ msgid "Enter city's name"

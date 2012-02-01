@@ -15,12 +15,12 @@ msgstr ""
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
-#: ../../../plugins/antispam/src/antispamplugin.cpp:42
+#: ../../../plugins/antispam/src/antispamplugin.cpp:44
 msgctxt "Antispam|"
 msgid "Antispam"
 msgstr "Антиспам"
 
-#: ../../../plugins/antispam/src/handler.cpp:51
+#: ../../../plugins/antispam/src/handler.cpp:73
 msgctxt "Antispam::Handler|"
 msgid ""
 "Beer, wine, vodka, champagne: after which drink in this sequence I should "
@@ -29,15 +29,21 @@ msgstr ""
 "Пиво, вино, водка, шампусик: после чего из списка мне стоит прекратить на "
 "сегодня пить?"
 
-#: ../../../plugins/antispam/src/handler.cpp:52
+#: ../../../plugins/antispam/src/handler.cpp:74
 msgctxt "Antispam::Handler|"
 msgid "We are ready to drink with you!"
 msgstr "Мы готовы выпить с тобой, о юный падаван!"
 
-#: ../../../plugins/antispam/src/handler.cpp:53
+#: ../../../plugins/antispam/src/handler.cpp:75
 msgctxt "Antispam::Handler|"
 msgid "vodka;Vodka"
 msgstr "vodka;Vodka;водка;Водка;wodka;Wodka"
+
+#: ../../../plugins/antispam/src/handler.cpp:136
+#, fuzzy, qt-format
+msgctxt "Antispam::Handler|"
+msgid "Message from %1 blocked on suspicion of spam."
+msgstr "Пользователь %1 подозревается в рассылке спама."
 
 #: ../../../plugins/antispam/src/settingswidget.ui:14
 msgctxt "Antispam::SettingsWidget|"
@@ -49,27 +55,27 @@ msgctxt "Antispam::SettingsWidget|"
 msgid "Enabled"
 msgstr "Включено"
 
-#: ../../../plugins/antispam/src/settingswidget.ui:30
+#: ../../../plugins/antispam/src/settingswidget.ui:33
 msgctxt "Antispam::SettingsWidget|"
 msgid "Handle auth requests"
 msgstr "Обрабатывать запросы аутентификации"
 
-#: ../../../plugins/antispam/src/settingswidget.ui:37
+#: ../../../plugins/antispam/src/settingswidget.ui:40
 msgctxt "Antispam::SettingsWidget|"
 msgid "Question:"
 msgstr "Вопрос:"
 
-#: ../../../plugins/antispam/src/settingswidget.ui:50
+#: ../../../plugins/antispam/src/settingswidget.ui:53
 msgctxt "Antispam::SettingsWidget|"
 msgid "Answers (semicolon as a separator):"
 msgstr "Ответы (разделенные точкой с запятой):"
 
-#: ../../../plugins/antispam/src/settingswidget.ui:63
+#: ../../../plugins/antispam/src/settingswidget.ui:66
 msgctxt "Antispam::SettingsWidget|"
 msgid "Message on correct answer:"
 msgstr "Сообщение после правильного ответа:"
 
-#: ../../../plugins/antispam/src/settingswidget.cpp:57
+#: ../../../plugins/antispam/src/settingswidget.cpp:53
 msgctxt "Antispam::SettingsWidget|"
 msgid ""
 "Beer, wine, vodka, champagne: after which drink in this sequence I should "
@@ -78,38 +84,32 @@ msgstr ""
 "Пиво, вино, водка, шампусик: после чего из списка мне стоит прекратить на "
 "сегодня пить?"
 
-#: ../../../plugins/antispam/src/settingswidget.cpp:58
+#: ../../../plugins/antispam/src/settingswidget.cpp:54
 msgctxt "Antispam::SettingsWidget|"
 msgid "We are ready to drink with you!"
 msgstr "Мы готовы выпить с тобой, о юный падаван!"
 
-#: ../../../plugins/antispam/src/settingswidget.cpp:59
+#: ../../../plugins/antispam/src/settingswidget.cpp:55
 msgctxt "Antispam::SettingsWidget|"
 msgid "vodka;Vodka"
 msgstr "vodka;Vodka;водка;Водка;wodka;Wodka"
 
-#: ../../../plugins/antispam/src/antispamplugin.cpp:49
+#: ../../../plugins/antispam/src/antispamplugin.cpp:50
 msgctxt "Author|"
 msgid "Aleksey Sidorov"
 msgstr "Сидоров Алексей"
 
-#: ../../../plugins/antispam/src/antispamplugin.cpp:53
+#: ../../../plugins/antispam/src/antispamplugin.cpp:55
 msgctxt "Plugin|"
 msgid "Antispam"
 msgstr "Антиспам"
 
-#: ../../../plugins/antispam/src/antispamplugin.cpp:54
+#: ../../../plugins/antispam/src/antispamplugin.cpp:56
 msgctxt "Plugin|"
 msgid "Blocks messages from unknown contacts by question-answer pair"
 msgstr "Блокировка сообщений от неизвестных контактов, до ответа на вопрос"
 
-#: ../../../plugins/antispam/src/handler.cpp:90
-#, qt-format
-msgctxt "QObject|"
-msgid "Message from %1 blocked  on suspicion of spam."
-msgstr "Пользователь %1 подозревается в рассылке спама."
-
-#: ../../../plugins/antispam/src/antispamplugin.cpp:50
+#: ../../../plugins/antispam/src/antispamplugin.cpp:51
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"

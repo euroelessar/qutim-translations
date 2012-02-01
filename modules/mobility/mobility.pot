@@ -5,6 +5,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:69
+msgctxt "BearerManager|"
+msgid ""
+"Unable to find any network configuration. Perhaps Qt or QtMobility network "
+"bearer configured incorrectly. Bearer manager will not work properly, refer "
+"to your distribution maintainer."
+msgstr ""
+
 #: ../../../plugins/mobility/src/bearermanager/managersettings.ui:14
 msgctxt "ManagerSettings|"
 msgid "Form"
@@ -15,12 +23,12 @@ msgctxt "ManagerSettings|"
 msgid "Autoconnect on startup"
 msgstr ""
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:46
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:47
 msgctxt "Service|"
 msgid "BearerManager"
 msgstr ""
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:58
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:59
 msgctxt "Settings|"
 msgid "Connection manager"
 msgstr ""
