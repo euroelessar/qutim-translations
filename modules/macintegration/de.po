@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-21 09:13+0000\n"
+"POT-Creation-Date: 2012-02-01 17:02+0000\n"
 "PO-Revision-Date: 2012-01-22 19:40+0000\n"
 "Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-23 05:44+0000\n"
-"X-Generator: Launchpad (build 14700)\n"
+"X-Launchpad-Export-Date: 2012-02-02 06:40+0000\n"
+"X-Generator: Launchpad (build 14738)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: de\n"
@@ -21,27 +21,27 @@ msgctxt "AutoAway|"
 msgid "Auto-away"
 msgstr "Statusautomatik"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:122
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:116
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Accounts"
 msgstr "Konten"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:123
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:117
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Chats"
 msgstr "Chats"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:125
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:119
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Set Status Text"
 msgstr "Statusnachricht ändern"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:279
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:266
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "File"
 msgstr "Datei"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:280
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:267
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Roster"
 msgstr "Kontaktliste"

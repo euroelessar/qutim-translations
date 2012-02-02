@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-01-18 13:42+0000\n"
-"PO-Revision-Date: 2012-01-25 10:36+0000\n"
+"POT-Creation-Date: 2012-02-01 17:02+0000\n"
+"PO-Revision-Date: 2012-02-01 18:46+0000\n"
 "Last-Translator: MiSi <kettis@volny.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-26 05:47+0000\n"
-"X-Generator: Launchpad (build 14719)\n"
+"X-Launchpad-Export-Date: 2012-02-02 06:40+0000\n"
+"X-Generator: Launchpad (build 14738)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: cs\n"
@@ -252,42 +252,42 @@ msgctxt "VWallSession|"
 msgid "%1 (Wall)"
 msgstr "%1 (Zeď)"
 
-#: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:195
+#: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:218
 msgctxt "VWallSessionPrivate|"
 msgid "Unknown"
 msgstr "Neznámé"
 
-#: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:197
+#: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:220
 msgctxt "VWallSessionPrivate|"
 msgid "Audio"
 msgstr "Zvuk"
 
-#: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:199
+#: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:222
 msgctxt "VWallSessionPrivate|"
 msgid "Video"
 msgstr "Video"
 
-#: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:201
+#: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:224
 msgctxt "VWallSessionPrivate|"
 msgid "Application"
 msgstr "Aplikace"
 
-#: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:203
+#: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:226
 msgctxt "VWallSessionPrivate|"
 msgid "Graffiti"
 msgstr ""
 
-#: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:205
+#: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:228
 msgctxt "VWallSessionPrivate|"
 msgid "Photo"
 msgstr "Fotka"
 
-#: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:207
+#: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:230
 msgctxt "VWallSessionPrivate|"
 msgid "Posted photo"
 msgstr ""
 
-#: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:209
+#: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:232
 #, qt-format
 msgctxt "VWallSessionPrivate|"
 msgid "Multimedia message: %1"
@@ -322,19 +322,3 @@ msgstr "ID"
 msgctxt "main|"
 msgid "Back"
 msgstr "Zpět"
-
-#~ msgctxt "Author|"
-#~ msgid "Sidorov Aleksey"
-#~ msgstr "Sidorov Aleksey"
-
-#~ msgctxt "VkontakteProtocolPrivate|"
-#~ msgid "Send sms"
-#~ msgstr "Poslat SMS"
-
-#~ msgctxt "VkontakteProtocolPrivate|"
-#~ msgid "text:"
-#~ msgstr "text:"
-
-#~ msgctxt "VkontakteProtocolPrivate|"
-#~ msgid "sms"
-#~ msgstr "SMS"

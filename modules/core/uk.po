@@ -7,15 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-01-20 19:51+0000\n"
+"POT-Creation-Date: 2012-02-01 17:02+0000\n"
 "PO-Revision-Date: 2012-01-22 18:44+0000\n"
 "Last-Translator: Maxim <kontact.cat@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-23 05:43+0000\n"
-"X-Generator: Launchpad (build 14700)\n"
+"X-Launchpad-Export-Date: 2012-02-02 06:39+0000\n"
+"X-Generator: Launchpad (build 14738)\n"
+"Language: uk\n"
 
 #: ../../../core/libqutim/account.cpp:145
 msgctxt "Account|"
@@ -187,24 +188,24 @@ msgctxt "ChatLayer|"
 msgid "Open session list"
 msgstr ""
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:56
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:51
 msgctxt "ChatLayer|"
 msgid "Close chat"
 msgstr ""
 
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:52
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:57
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:62
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:67
 msgctxt "ChatLayer|"
 msgid "ChatWidget"
 msgstr ""
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:61
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:56
 msgctxt "ChatLayer|"
 msgid "Next chat"
 msgstr ""
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:66
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:61
 msgctxt "ChatLayer|"
 msgid "Previous chat"
 msgstr ""
@@ -246,12 +247,12 @@ msgctxt "ChatLayer|"
 msgid "ContactList"
 msgstr "Лист контактів"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:437
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:444
 msgctxt "ChatSession|"
 msgid "Auto"
 msgstr "Авто"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:447
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:454
 msgctxt "ChatSession|"
 msgid "Last active"
 msgstr "Остання активність"
@@ -653,32 +654,32 @@ msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Chat Actions"
 msgstr "Дії розмови"
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:75
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:76
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Send to"
 msgstr "Надіслати до"
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:110
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:107
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Session list"
 msgstr ""
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:164
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:174
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Send"
 msgstr "Надіслати"
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:202
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:212
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "&Actions"
 msgstr "&Дії"
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:206
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:216
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Accoun&ts"
 msgstr ""
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:214
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:224
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "&Chat"
 msgstr "&Розмова"
@@ -1210,30 +1211,30 @@ msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Custom tags"
 msgstr ""
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:386
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:387
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Without tags"
 msgstr "Без міток"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:484
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:487
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
 msgstr "Ви бажаєте злити контакти \"%1\" <%2> і \"%3\" <%4>?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:490
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:493
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge metacontacts \"%1\" and \"%2\"?"
 msgstr "Ви бажаєте злити мета-контакти \"%1\" і \"%2\"?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:493
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:496
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to add \"%1\" <%2> to metacontact \"%3\"?"
 msgstr "Ви бажаєте додати \"%1\" <%2> до мета-контакту \"%3\"?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:500
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:503
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Contacts' merging"
 msgstr "Контакти зливаються"
@@ -1258,23 +1259,23 @@ msgctxt "Core::SimpleContactList::SeparatedModel|"
 msgid "Without tags"
 msgstr "Без міток"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:107
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:106
 msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Main Toolbar"
 msgstr "Головна панель"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:126
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:125
 msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Search contact"
 msgstr "Шукати контакт"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:142
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:141
 msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Status"
 msgstr "Статус"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:171
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:379
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:170
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:361
 msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Set Status Text"
 msgstr "Написати статус"
@@ -2425,12 +2426,12 @@ msgctxt "Service|"
 msgid "Sound"
 msgstr "Звук"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:53
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:48
 msgctxt "Service|"
 msgid "ChatForm"
 msgstr "Форма розмови"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:54
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:49
 msgctxt "Service|"
 msgid "ChatViewFactory"
 msgstr ""
