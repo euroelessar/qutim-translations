@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-01-18 13:42+0000\n"
-"PO-Revision-Date: 2012-01-29 06:37+0000\n"
-"Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
+"PO-Revision-Date: 2012-02-13 03:46+0000\n"
+"Last-Translator: Vyacheslav Sharmanov <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-30 05:13+0000\n"
-"X-Generator: Launchpad (build 14727)\n"
+"X-Launchpad-Export-Date: 2012-02-13 05:25+0000\n"
+"X-Generator: Launchpad (build 14781)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -28,12 +28,12 @@ msgstr "Сайт проекта"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:122
 msgctxt "AboutDialog|"
 msgid "Source code repository"
-msgstr ""
+msgstr "Репозиторий исходного кода"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:126
 msgctxt "AboutDialog|"
 msgid "Bug tracker"
-msgstr ""
+msgstr "Система отслеживания ошибок"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:140
 msgctxt "AboutDialog|"
@@ -78,7 +78,7 @@ msgstr "Выберите протокол:"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.ui:14
 msgctxt "AccountCreatorList|"
 msgid "Form"
-msgstr ""
+msgstr "Форма"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/quickaddcontactdialog.cpp:61
 msgctxt "AddContact|"
@@ -350,7 +350,7 @@ msgstr "Введите пароль для аккаунта"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/quicknotificationmanager.cpp:47
 msgctxt "MeegoIntegration::QuickNoficationManager|"
 msgid "Show popup"
-msgstr ""
+msgstr "Показать всплывающее сообщение"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/quickpassworddialog.cpp:35
 #, qt-format
@@ -475,7 +475,7 @@ msgstr "Простой диалог для подключения к чату"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:78
 msgctxt "Plugin|"
 msgid "MeeGo integration"
-msgstr ""
+msgstr "Интеграция с MeeGo"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:79
 msgctxt "Plugin|"
@@ -485,44 +485,44 @@ msgstr "Модуль улучшения интеграции в систему"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:81
 msgctxt "Plugin|"
 msgid "MeeGoAccounts Model"
-msgstr ""
+msgstr "Модель MeeGoAccounts"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:82
 msgctxt "Plugin|"
 msgid "Simple accounts model"
-msgstr ""
+msgstr "Простая модель учетных записей"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:84
 msgctxt "Plugin|"
 msgid "MeeGo Notification Manager"
-msgstr ""
+msgstr "Менеджер уведомлений MeeGo"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:85
 msgctxt "Plugin|"
 msgid "Simple notification manager"
-msgstr ""
+msgstr "Простой менеджер уведомлений"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:87
 msgctxt "Plugin|"
 msgid "MeeGo settings"
-msgstr ""
+msgstr "Настройки MeeGo"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:88
 msgctxt "Plugin|"
 msgid "Simple MeeGo settings dialog"
-msgstr ""
+msgstr "Простой диалог настроек MeeGo"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:90
 msgctxt "Plugin|"
 msgid "MeeGo account creator"
-msgstr ""
+msgstr "Создание учетных записей MeeGo"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:91
 msgctxt "Plugin|"
 msgid "Simple MeeGo account creator"
-msgstr ""
+msgstr "Простое создание учетных записей MeeGo"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/quickaddaccountdialog.cpp:44
 msgctxt "Settings|"
 msgid "Accounts"
-msgstr ""
+msgstr "Учетные записи"
