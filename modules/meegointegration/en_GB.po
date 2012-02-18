@@ -8,14 +8,15 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-01-18 13:42+0000\n"
-"PO-Revision-Date: 2012-01-21 18:55+0000\n"
+"PO-Revision-Date: 2012-02-17 15:15+0000\n"
 "Last-Translator: mrx5682 <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-22 06:01+0000\n"
-"X-Generator: Launchpad (build 14700)\n"
+"X-Launchpad-Export-Date: 2012-02-18 05:50+0000\n"
+"X-Generator: Launchpad (build 14814)\n"
+"Language: \n"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:30
 msgctxt "AboutDialog|"
@@ -384,7 +385,7 @@ msgstr "Meego application window"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:50
 msgctxt "Plugin|"
 msgid "Main window of application"
-msgstr ""
+msgstr "Main window of application"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:54
 msgctxt "Plugin|"
@@ -494,29 +495,29 @@ msgstr "MeeGo Notification Manager"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:85
 msgctxt "Plugin|"
 msgid "Simple notification manager"
-msgstr ""
+msgstr "Simple notification manager"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:87
 msgctxt "Plugin|"
 msgid "MeeGo settings"
-msgstr ""
+msgstr "MeeGo settings"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:88
 msgctxt "Plugin|"
 msgid "Simple MeeGo settings dialog"
-msgstr ""
+msgstr "Simple MeeGo settings dialog"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:90
 msgctxt "Plugin|"
 msgid "MeeGo account creator"
-msgstr ""
+msgstr "MeeGo account creator"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:91
 msgctxt "Plugin|"
 msgid "Simple MeeGo account creator"
-msgstr ""
+msgstr "Simple MeeGo account creator"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/quickaddaccountdialog.cpp:44
 msgctxt "Settings|"
 msgid "Accounts"
-msgstr ""
+msgstr "Accounts"
