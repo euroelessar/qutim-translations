@@ -21,7 +21,7 @@ msgctxt "Antispam|"
 msgid "Antispam"
 msgstr "Защита от SPAM"
 
-#: ../../../plugins/antispam/src/handler.cpp:73
+#: ../../../plugins/antispam/src/handler.cpp:71
 msgctxt "Antispam::Handler|"
 msgid ""
 "Beer, wine, vodka, champagne: after which drink in this sequence I should "
@@ -29,17 +29,17 @@ msgid ""
 msgstr ""
 "Бира, вино, водка, шампанско: след кое питие от поредицата трябва да спра?"
 
-#: ../../../plugins/antispam/src/handler.cpp:74
+#: ../../../plugins/antispam/src/handler.cpp:72
 msgctxt "Antispam::Handler|"
 msgid "We are ready to drink with you!"
 msgstr "Готов съм да пийнем заедно!"
 
-#: ../../../plugins/antispam/src/handler.cpp:75
+#: ../../../plugins/antispam/src/handler.cpp:73
 msgctxt "Antispam::Handler|"
 msgid "vodka;Vodka"
 msgstr "водка; Водка"
 
-#: ../../../plugins/antispam/src/handler.cpp:136
+#: ../../../plugins/antispam/src/handler.cpp:128
 #, qt-format
 msgctxt "Antispam::Handler|"
 msgid "Message from %1 blocked on suspicion of spam."

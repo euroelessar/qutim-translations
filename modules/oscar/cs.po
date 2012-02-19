@@ -540,27 +540,22 @@ msgctxt "ContactList|"
 msgid "Please, authorize me"
 msgstr ""
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:136
-msgctxt "ContactList|"
-msgid "General"
-msgstr "Obecné"
-
-#: ../../../protocols/oscar/src/icqcontact.cpp:395
+#: ../../../protocols/oscar/src/icqcontact.cpp:378
 msgctxt "ContactList|"
 msgid "Online time"
 msgstr "Doba připojení"
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:402
+#: ../../../protocols/oscar/src/icqcontact.cpp:385
 msgctxt "ContactList|"
 msgid "Signed on"
 msgstr "Přihlášený od"
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:407
+#: ../../../protocols/oscar/src/icqcontact.cpp:390
 msgctxt "ContactList|"
 msgid "Away since"
 msgstr "Pryč od"
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:412
+#: ../../../protocols/oscar/src/icqcontact.cpp:395
 msgctxt "ContactList|"
 msgid "Reg. date"
 msgstr "Datum registrace"
@@ -1840,45 +1835,46 @@ msgctxt "Country|"
 msgid "Zimbabwe"
 msgstr ""
 
-#: ../../../protocols/oscar/src/feedbag.cpp:126
+#: ../../../protocols/oscar/src/feedbag.cpp:175
 msgctxt "FeedbagError|"
 msgid "No error"
 msgstr "Bez chyby"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:128
+#: ../../../protocols/oscar/src/feedbag.cpp:177
 msgctxt "FeedbagError|"
 msgid "Item you want to modify not found in list"
 msgstr "Položku, kterou chcete upravit, nebyla nalezena na seznamu"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:130
+#: ../../../protocols/oscar/src/feedbag.cpp:179
 msgctxt "FeedbagError|"
 msgid "Item you want to add allready exists"
 msgstr "Položku, kterou chcete přidat, již existuje"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:132
+#: ../../../protocols/oscar/src/feedbag.cpp:181
 msgctxt "FeedbagError|"
 msgid "Error adding item (invalid id, allready in list, invalid data)"
 msgstr ""
 "Chyba při přidávání položky (chybné id, již je na seznamu, neplatná data)"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:134
+#: ../../../protocols/oscar/src/feedbag.cpp:183
 msgctxt "FeedbagError|"
 msgid "Can't add item. Limit for this type of items exceeded"
 msgstr "Nelze přidat položku. Limit pro tento typ položek je překročen"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:136
+#: ../../../protocols/oscar/src/feedbag.cpp:185
 msgctxt "FeedbagError|"
 msgid "Trying to add ICQ contact to an AIM list"
 msgstr "Pokoušíte se přidat ICQ kontakt do AIM seznamu"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:138
+#: ../../../protocols/oscar/src/feedbag.cpp:187
 msgctxt "FeedbagError|"
 msgid "Can't add this contact because it requires authorization"
 msgstr "Nelze přidat tento kontakt, protože je vyžadována autorizace"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:140
+#: ../../../protocols/oscar/src/feedbag.cpp:189
+#, fuzzy, qt-format
 msgctxt "FeedbagError|"
-msgid "Unknown error"
+msgid "Unknown error (Code: %1)"
 msgstr "Neznámá chyba"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:455
@@ -3778,18 +3774,18 @@ msgctxt "qutim_sdk_0_3::oscar::OscarFileTransferSettings|"
 msgid "Local ports"
 msgstr "Místní porty"
 
-#: ../../../protocols/oscar/src/privacylists.cpp:347
+#: ../../../protocols/oscar/src/privacylists.cpp:352
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"visible\" icon if contact in visible list"
 msgstr "Zobrazit ikonu \"viditelný\" pokud je kontakt v seznamu viditelných"
 
-#: ../../../protocols/oscar/src/privacylists.cpp:351
+#: ../../../protocols/oscar/src/privacylists.cpp:356
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"invisible\" icon if contact in invisible list"
 msgstr ""
 "Zobrazit ikonu \"neviditelný\" pokud je kontakt v seznamu neviditelných"
 
-#: ../../../protocols/oscar/src/privacylists.cpp:355
+#: ../../../protocols/oscar/src/privacylists.cpp:360
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"ignore\" icon if contact in ignore list"
 msgstr "Zobrazit ikonu \"ignorovaný\" pokud je kontakt v seznamu ignorovaných"
@@ -3823,3 +3819,7 @@ msgstr "Vlastní stav"
 msgctxt "statusDialogClass|"
 msgid "Set birthday/happy flag"
 msgstr ""
+
+#~ msgctxt "ContactList|"
+#~ msgid "General"
+#~ msgstr "Obecné"

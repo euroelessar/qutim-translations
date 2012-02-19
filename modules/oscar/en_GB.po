@@ -541,27 +541,22 @@ msgctxt "ContactList|"
 msgid "Please, authorize me"
 msgstr "Please, authorize me"
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:136
-msgctxt "ContactList|"
-msgid "General"
-msgstr "General"
-
-#: ../../../protocols/oscar/src/icqcontact.cpp:395
+#: ../../../protocols/oscar/src/icqcontact.cpp:378
 msgctxt "ContactList|"
 msgid "Online time"
 msgstr "Online time"
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:402
+#: ../../../protocols/oscar/src/icqcontact.cpp:385
 msgctxt "ContactList|"
 msgid "Signed on"
 msgstr "Signed on"
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:407
+#: ../../../protocols/oscar/src/icqcontact.cpp:390
 msgctxt "ContactList|"
 msgid "Away since"
 msgstr "Away since"
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:412
+#: ../../../protocols/oscar/src/icqcontact.cpp:395
 msgctxt "ContactList|"
 msgid "Reg. date"
 msgstr "Reg. date"
@@ -1841,44 +1836,45 @@ msgctxt "Country|"
 msgid "Zimbabwe"
 msgstr "Zimbabwe"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:126
+#: ../../../protocols/oscar/src/feedbag.cpp:175
 msgctxt "FeedbagError|"
 msgid "No error"
 msgstr "No error"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:128
+#: ../../../protocols/oscar/src/feedbag.cpp:177
 msgctxt "FeedbagError|"
 msgid "Item you want to modify not found in list"
 msgstr "Item you want to modify not found in list"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:130
+#: ../../../protocols/oscar/src/feedbag.cpp:179
 msgctxt "FeedbagError|"
 msgid "Item you want to add allready exists"
 msgstr ""
 
-#: ../../../protocols/oscar/src/feedbag.cpp:132
+#: ../../../protocols/oscar/src/feedbag.cpp:181
 msgctxt "FeedbagError|"
 msgid "Error adding item (invalid id, allready in list, invalid data)"
 msgstr "Error adding item (invalid id, allready in list, invalid data)"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:134
+#: ../../../protocols/oscar/src/feedbag.cpp:183
 msgctxt "FeedbagError|"
 msgid "Can't add item. Limit for this type of items exceeded"
 msgstr "Can't add item. Limit for this type of items exceeded"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:136
+#: ../../../protocols/oscar/src/feedbag.cpp:185
 msgctxt "FeedbagError|"
 msgid "Trying to add ICQ contact to an AIM list"
 msgstr "Trying to add ICQ contact to an AIM list"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:138
+#: ../../../protocols/oscar/src/feedbag.cpp:187
 msgctxt "FeedbagError|"
 msgid "Can't add this contact because it requires authorization"
 msgstr "Can't add this contact because it requires authorization"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:140
+#: ../../../protocols/oscar/src/feedbag.cpp:189
+#, fuzzy, qt-format
 msgctxt "FeedbagError|"
-msgid "Unknown error"
+msgid "Unknown error (Code: %1)"
 msgstr "Unknown error"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:455
@@ -3778,17 +3774,17 @@ msgctxt "qutim_sdk_0_3::oscar::OscarFileTransferSettings|"
 msgid "Local ports"
 msgstr "Local ports"
 
-#: ../../../protocols/oscar/src/privacylists.cpp:347
+#: ../../../protocols/oscar/src/privacylists.cpp:352
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"visible\" icon if contact in visible list"
 msgstr "Show \"visible\" icon if contact in visible list"
 
-#: ../../../protocols/oscar/src/privacylists.cpp:351
+#: ../../../protocols/oscar/src/privacylists.cpp:356
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"invisible\" icon if contact in invisible list"
 msgstr "Show \"invisible\" icon if contact in invisible list"
 
-#: ../../../protocols/oscar/src/privacylists.cpp:355
+#: ../../../protocols/oscar/src/privacylists.cpp:360
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"ignore\" icon if contact in ignore list"
 msgstr "Show \"ignore\" icon if contact in ignore list"
@@ -3822,3 +3818,7 @@ msgstr ""
 msgctxt "statusDialogClass|"
 msgid "Set birthday/happy flag"
 msgstr ""
+
+#~ msgctxt "ContactList|"
+#~ msgid "General"
+#~ msgstr "General"

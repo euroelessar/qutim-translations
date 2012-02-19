@@ -58,12 +58,12 @@ msgctxt "QObject|"
 msgid "Normal"
 msgstr "Звичайний"
 
-#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:798
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:797
 msgctxt "QObject|"
 msgid "Download %fileName%"
 msgstr "Завантажити %fileName%"
 
-#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:996
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:995
 msgctxt "QObject|"
 msgid "(Autoreply)"
 msgstr "(Автовідповідь)"

@@ -17,7 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-02-02 06:39+0000\n"
 "X-Generator: Launchpad (build 14738)\n"
-"Language: uk\n"
 
 #: ../../../core/libqutim/account.cpp:145
 msgctxt "Account|"
@@ -1212,30 +1211,30 @@ msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Custom tags"
 msgstr ""
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:387
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:392
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Without tags"
 msgstr "Без міток"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:487
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:494
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
 msgstr "Ви бажаєте злити контакти \"%1\" <%2> і \"%3\" <%4>?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:493
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:500
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge metacontacts \"%1\" and \"%2\"?"
 msgstr "Ви бажаєте злити мета-контакти \"%1\" і \"%2\"?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:496
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:503
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to add \"%1\" <%2> to metacontact \"%3\"?"
 msgstr "Ви бажаєте додати \"%1\" <%2> до мета-контакту \"%3\"?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:503
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:510
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Contacts' merging"
 msgstr "Контакти зливаються"
@@ -2604,47 +2603,47 @@ msgctxt "SettingsDialog|"
 msgid "Form"
 msgstr "Форма"
 
-#: ../../../core/libqutim/shortcut.cpp:76
+#: ../../../core/libqutim/shortcut.cpp:112
 msgctxt "Shortcut|"
 msgid "Close"
 msgstr "Зачинити"
 
-#: ../../../core/libqutim/shortcut.cpp:92
+#: ../../../core/libqutim/shortcut.cpp:128
 msgctxt "Shortcut|"
 msgid "Next child"
 msgstr ""
 
-#: ../../../core/libqutim/shortcut.cpp:93
+#: ../../../core/libqutim/shortcut.cpp:129
 msgctxt "Shortcut|"
 msgid "Previous child"
 msgstr ""
 
-#: ../../../core/libqutim/shortcut.cpp:94
+#: ../../../core/libqutim/shortcut.cpp:130
 msgctxt "Shortcut|"
 msgid "Find"
 msgstr "Знайти"
 
-#: ../../../core/libqutim/shortcut.cpp:95
+#: ../../../core/libqutim/shortcut.cpp:131
 msgctxt "Shortcut|"
 msgid "Find next"
 msgstr "Знайти наступне"
 
-#: ../../../core/libqutim/shortcut.cpp:96
+#: ../../../core/libqutim/shortcut.cpp:132
 msgctxt "Shortcut|"
 msgid "Find previous"
 msgstr "Знайти попереднє"
 
-#: ../../../core/libqutim/shortcut.cpp:136
+#: ../../../core/libqutim/shortcut.cpp:172
 msgctxt "Shortcut|"
 msgid "Preferences"
 msgstr "Налаштування"
 
-#: ../../../core/libqutim/shortcut.cpp:137
+#: ../../../core/libqutim/shortcut.cpp:173
 msgctxt "Shortcut|"
 msgid "Quit"
 msgstr "Вийти"
 
-#: ../../../core/libqutim/shortcut.cpp:139
+#: ../../../core/libqutim/shortcut.cpp:175
 msgctxt "Shortcut|"
 msgid "System"
 msgstr "Система"

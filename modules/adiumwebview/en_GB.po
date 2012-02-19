@@ -17,7 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-02-17 05:32+0000\n"
 "X-Generator: Launchpad (build 14814)\n"
-"Language: \n"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:356
 msgctxt "Adium::WebViewAppearance|"
@@ -59,12 +58,12 @@ msgctxt "QObject|"
 msgid "Normal"
 msgstr "Normal"
 
-#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:798
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:797
 msgctxt "QObject|"
 msgid "Download %fileName%"
 msgstr "Download %fileName%"
 
-#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:996
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:995
 msgctxt "QObject|"
 msgid "(Autoreply)"
 msgstr "(Autoreply)"

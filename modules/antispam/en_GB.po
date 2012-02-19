@@ -17,14 +17,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-02-18 05:49+0000\n"
 "X-Generator: Launchpad (build 14814)\n"
-"Language: \n"
 
 #: ../../../plugins/antispam/src/antispamplugin.cpp:44
 msgctxt "Antispam|"
 msgid "Antispam"
 msgstr "Antispam"
 
-#: ../../../plugins/antispam/src/handler.cpp:73
+#: ../../../plugins/antispam/src/handler.cpp:71
 msgctxt "Antispam::Handler|"
 msgid ""
 "Beer, wine, vodka, champagne: after which drink in this sequence I should "
@@ -33,17 +32,17 @@ msgstr ""
 "Beer, wine, vodka, champagne: after which drink in this sequence I should "
 "stop?"
 
-#: ../../../plugins/antispam/src/handler.cpp:74
+#: ../../../plugins/antispam/src/handler.cpp:72
 msgctxt "Antispam::Handler|"
 msgid "We are ready to drink with you!"
 msgstr "We are ready to drink with you!"
 
-#: ../../../plugins/antispam/src/handler.cpp:75
+#: ../../../plugins/antispam/src/handler.cpp:73
 msgctxt "Antispam::Handler|"
 msgid "vodka;Vodka"
 msgstr "vodka;Vodka"
 
-#: ../../../plugins/antispam/src/handler.cpp:136
+#: ../../../plugins/antispam/src/handler.cpp:128
 #, qt-format
 msgctxt "Antispam::Handler|"
 msgid "Message from %1 blocked on suspicion of spam."

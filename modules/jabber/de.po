@@ -421,17 +421,17 @@ msgctxt "Activity|"
 msgid "Show contact activity icon"
 msgstr "Zeige Tätigkeits-Symbole"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:57
+#: ../../../protocols/jabber/src/jplugin.cpp:56
 msgctxt "Author|"
 msgid "Denis Daschenko"
 msgstr "Denis Daschenko"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:60
+#: ../../../protocols/jabber/src/jplugin.cpp:59
 msgctxt "Author|"
 msgid "Nikita Belov"
 msgstr "Nikita Belov"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:64
+#: ../../../protocols/jabber/src/jplugin.cpp:63
 msgctxt "Author|"
 msgid "Aleksey Sidorov"
 msgstr "Aleksey Sidorov"
@@ -930,12 +930,12 @@ msgctxt "Jabber|"
 msgid "Xml console"
 msgstr "xml-Konsole"
 
-#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:231
+#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:233
 msgctxt "Jabber::JAccount|Local qutIM's name"
 msgid "qutIM"
 msgstr "qutIM"
 
-#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:232
+#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:234
 msgctxt "Jabber::JAccount|Default language"
 msgid "en"
 msgstr "de"
@@ -1905,137 +1905,144 @@ msgctxt "Mood|"
 msgid "Show contact mood icon"
 msgstr "Zeige Stimmungssymbole"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:53
-#: ../../../protocols/jabber/src/jplugin.cpp:67
+#: ../../../protocols/jabber/src/jplugin.cpp:52
+#: ../../../protocols/jabber/src/jplugin.cpp:66
 msgctxt "Plugin|"
 msgid "Jabber"
 msgstr "Jabber"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:54
-#: ../../../protocols/jabber/src/jplugin.cpp:68
+#: ../../../protocols/jabber/src/jplugin.cpp:53
+#: ../../../protocols/jabber/src/jplugin.cpp:67
 msgctxt "Plugin|"
 msgid "Jabber protocol"
 msgstr "Jabber-Protokoll"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:71
+#: ../../../protocols/jabber/src/jplugin.cpp:70
 msgctxt "Plugin|"
 msgid "Jabber account creator"
 msgstr "Jabber account creator"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:72
+#: ../../../protocols/jabber/src/jplugin.cpp:71
 msgctxt "Plugin|"
 msgid "Account creator for Jabber protocol"
 msgstr "Konten für das Jabber-Protokoll erstellen"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:75
+#: ../../../protocols/jabber/src/jplugin.cpp:74
 msgctxt "Plugin|"
 msgid "LiveJournal account creator"
 msgstr "LiveJournal account creator"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:76
+#: ../../../protocols/jabber/src/jplugin.cpp:75
 msgctxt "Plugin|"
 msgid "Account creator for LiveJournal"
 msgstr "Konten für LiveJournal erstellen"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:79
+#: ../../../protocols/jabber/src/jplugin.cpp:78
 msgctxt "Plugin|"
 msgid "Google Talk account creator"
 msgstr "Google Talk account creator"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:80
+#: ../../../protocols/jabber/src/jplugin.cpp:79
 msgctxt "Plugin|"
 msgid "Account creator for Google Talk"
 msgstr "Konten für GoogleTalk erstellen"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:83
+#: ../../../protocols/jabber/src/jplugin.cpp:82
 msgctxt "Plugin|"
 msgid "Yandex.Online account creator"
 msgstr "Yandex.Online account creator"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:84
+#: ../../../protocols/jabber/src/jplugin.cpp:83
 msgctxt "Plugin|"
 msgid "Account creator for Yandex.Online"
 msgstr "Konten für Yandex.Online erstellen"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:87
+#: ../../../protocols/jabber/src/jplugin.cpp:86
 msgctxt "Plugin|"
 msgid "QIP account creator"
 msgstr "QIP account creator"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:88
+#: ../../../protocols/jabber/src/jplugin.cpp:87
 msgctxt "Plugin|"
 msgid "Account creator for QIP"
 msgstr "Konten für QIP erstellen"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:92
+#: ../../../protocols/jabber/src/jplugin.cpp:91
 msgctxt "Plugin|"
 msgid "Jabber XML console"
 msgstr "Jabber XML console"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:93
+#: ../../../protocols/jabber/src/jplugin.cpp:92
 msgctxt "Plugin|"
 msgid "XML console for low-level protocol debugging"
 msgstr "XML-Konsole zum debuggen"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:105
+#: ../../../protocols/jabber/src/jplugin.cpp:104
 msgctxt "Plugin|"
 msgid "Jabber Service Browser"
 msgstr "Jabber Service Browser"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:106
+#: ../../../protocols/jabber/src/jplugin.cpp:105
 msgctxt "Plugin|"
 msgid "Implementation of service browser"
 msgstr "Service Discovery für Jabber"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:113
+#: ../../../protocols/jabber/src/jplugin.cpp:112
 msgctxt "Plugin|"
 msgid "Jabber Personal Events support"
 msgstr "Jabber Personal Events support"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:114
+#: ../../../protocols/jabber/src/jplugin.cpp:113
 msgctxt "Plugin|"
 msgid "Implementation of personal events protocol"
 msgstr "PEP-Unterstützung für Jabber"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:117
+#: ../../../protocols/jabber/src/jplugin.cpp:116
 msgctxt "Plugin|"
 msgid "Jabber VCard support"
 msgstr "Jabber VCard support"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:118
+#: ../../../protocols/jabber/src/jplugin.cpp:117
 msgctxt "Plugin|"
 msgid "Implementation of VCard info requests"
 msgstr "Benutzerinfos abrufen"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:125
+#: ../../../protocols/jabber/src/jplugin.cpp:124
 msgctxt "Plugin|"
 msgid "Jabber User Mood support"
 msgstr "Jabber User Mood support"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:126
+#: ../../../protocols/jabber/src/jplugin.cpp:125
 msgctxt "Plugin|"
 msgid "Convertes internal XMPP data of mood to Qt data types"
 msgstr "Konvertiert XMPP-Moods-Daten zu Qt-Datentypen"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:129
+#: ../../../protocols/jabber/src/jplugin.cpp:128
 msgctxt "Plugin|"
 msgid "Jabber Mood Chooser"
 msgstr "Jabber Mood Chooser"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:130
+#: ../../../protocols/jabber/src/jplugin.cpp:129
 msgctxt "Plugin|"
 msgid "Provides the dialog to set your mood"
 msgstr "Dialog, um die eigene Stimmung zu veröffentlichen"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:133
+#: ../../../protocols/jabber/src/jplugin.cpp:132
 msgctxt "Plugin|"
 msgid "Jabber User Tune support"
 msgstr "Jabber User Tune support"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:134
+#: ../../../protocols/jabber/src/jplugin.cpp:133
 msgctxt "Plugin|"
 msgid "Convertes internal XMPP data of tune to Qt data types"
 msgstr "Konvertiert XMPP-Tune-Daten zu Qt-Datentypen"
+
+#: ../../../protocols/jabber/src/jplugin.cpp:144
+#: ../../../protocols/jabber/src/jplugin.cpp:145
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Jabber proxy support"
+msgstr "Jabber VCard support"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:14
 msgctxt "RoomConfig|"
@@ -2144,13 +2151,13 @@ msgctxt "Settings|"
 msgid "Room configuration"
 msgstr "Raum einrichten"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:58
-#: ../../../protocols/jabber/src/jplugin.cpp:61
+#: ../../../protocols/jabber/src/jplugin.cpp:57
+#: ../../../protocols/jabber/src/jplugin.cpp:60
 msgctxt "Task|"
 msgid "Author"
 msgstr "Autor"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:65
+#: ../../../protocols/jabber/src/jplugin.cpp:64
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Entwickler"

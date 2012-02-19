@@ -542,27 +542,22 @@ msgctxt "ContactList|"
 msgid "Please, authorize me"
 msgstr "Bitte autorisieren Sie mich"
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:136
-msgctxt "ContactList|"
-msgid "General"
-msgstr "Allgemein"
-
-#: ../../../protocols/oscar/src/icqcontact.cpp:395
+#: ../../../protocols/oscar/src/icqcontact.cpp:378
 msgctxt "ContactList|"
 msgid "Online time"
 msgstr "Online seit"
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:402
+#: ../../../protocols/oscar/src/icqcontact.cpp:385
 msgctxt "ContactList|"
 msgid "Signed on"
 msgstr "Eingeloggt seit"
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:407
+#: ../../../protocols/oscar/src/icqcontact.cpp:390
 msgctxt "ContactList|"
 msgid "Away since"
 msgstr "Abwesend seit"
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:412
+#: ../../../protocols/oscar/src/icqcontact.cpp:395
 msgctxt "ContactList|"
 msgid "Reg. date"
 msgstr "Registriert seit"
@@ -1842,47 +1837,48 @@ msgctxt "Country|"
 msgid "Zimbabwe"
 msgstr "Simbabwe"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:126
+#: ../../../protocols/oscar/src/feedbag.cpp:175
 msgctxt "FeedbagError|"
 msgid "No error"
 msgstr "Kein Fehler"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:128
+#: ../../../protocols/oscar/src/feedbag.cpp:177
 msgctxt "FeedbagError|"
 msgid "Item you want to modify not found in list"
 msgstr "Zu änderndes Objekt wurde nicht in der Liste gefunden"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:130
+#: ../../../protocols/oscar/src/feedbag.cpp:179
 msgctxt "FeedbagError|"
 msgid "Item you want to add allready exists"
 msgstr "Objekt existiert bereits"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:132
+#: ../../../protocols/oscar/src/feedbag.cpp:181
 msgctxt "FeedbagError|"
 msgid "Error adding item (invalid id, allready in list, invalid data)"
 msgstr ""
 "Fehler beim Hinzufügen (ungültige ID, bereits in der Liste, ungültige Daten)"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:134
+#: ../../../protocols/oscar/src/feedbag.cpp:183
 msgctxt "FeedbagError|"
 msgid "Can't add item. Limit for this type of items exceeded"
 msgstr ""
 "Kann das Objekt nicht hinzufügen. Das Limit für diesen Typ ist erreicht"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:136
+#: ../../../protocols/oscar/src/feedbag.cpp:185
 msgctxt "FeedbagError|"
 msgid "Trying to add ICQ contact to an AIM list"
 msgstr "Versuch, einen ICQ-Kontakt zur AIM-Kontaktliste hinzuzufügen"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:138
+#: ../../../protocols/oscar/src/feedbag.cpp:187
 msgctxt "FeedbagError|"
 msgid "Can't add this contact because it requires authorization"
 msgstr ""
 "Kontakt kann nicht hinzugefügt werden, da eine Erlaubnis erforderlich ist"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:140
+#: ../../../protocols/oscar/src/feedbag.cpp:189
+#, fuzzy, qt-format
 msgctxt "FeedbagError|"
-msgid "Unknown error"
+msgid "Unknown error (Code: %1)"
 msgstr "Unbekannter Fehler"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:455
@@ -3782,21 +3778,21 @@ msgctxt "qutim_sdk_0_3::oscar::OscarFileTransferSettings|"
 msgid "Local ports"
 msgstr "Lokale Ports"
 
-#: ../../../protocols/oscar/src/privacylists.cpp:347
+#: ../../../protocols/oscar/src/privacylists.cpp:352
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"visible\" icon if contact in visible list"
 msgstr ""
 "\"Sichtbar\" - Symbol anzeigen, wenn der Benutzer in der \"Sichtbar-Liste\" "
 "ist"
 
-#: ../../../protocols/oscar/src/privacylists.cpp:351
+#: ../../../protocols/oscar/src/privacylists.cpp:356
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"invisible\" icon if contact in invisible list"
 msgstr ""
 "\"Unsichtbar\" - Symbol anzeigen, wenn der Benutzer in der \"Unsichtbar-Liste"
 "\" ist"
 
-#: ../../../protocols/oscar/src/privacylists.cpp:355
+#: ../../../protocols/oscar/src/privacylists.cpp:360
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"ignore\" icon if contact in ignore list"
 msgstr ""
@@ -3832,3 +3828,7 @@ msgstr "Persönlicher Status"
 msgctxt "statusDialogClass|"
 msgid "Set birthday/happy flag"
 msgstr "Mein Geburtstags-Symbol anzeigen"
+
+#~ msgctxt "ContactList|"
+#~ msgid "General"
+#~ msgstr "Allgemein"
