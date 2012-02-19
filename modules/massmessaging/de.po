@@ -176,11 +176,6 @@ msgid "MassMessaging"
 msgstr "Massenbenachrichtigung"
 
 #: ../../../plugins/massmessaging/__data_from_cmakelists_txt.cpp:2
-#, fuzzy
-msgctxt "Plugin|"
-msgid "Simple messaging to contact list,"
-msgstr "Massenbenachrichtigungen an die Kontaktliste versenden"
-
 #: ../../../plugins/massmessaging/src/messaging.cpp:47
 msgctxt "Plugin|"
 msgid "Simple messaging to contact list"
@@ -190,3 +185,8 @@ msgstr "Massenbenachrichtigungen an die Kontaktliste versenden"
 msgctxt "Task|"
 msgid "Author"
 msgstr "Autor"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Simple messaging to contact list,"
+#~ msgstr "Massenbenachrichtigungen an die Kontaktliste versenden"

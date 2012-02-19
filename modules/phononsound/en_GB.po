@@ -31,11 +31,6 @@ msgid "Phonon sound engine"
 msgstr "Phonon sound engine"
 
 #: ../../../plugins/phononsound/__data_from_cmakelists_txt.cpp:2
-#, fuzzy
-msgctxt "Plugin|"
-msgid "Sound engine based on KDE sound engine,"
-msgstr "Sound engine based on KDE sound engine"
-
 #: ../../../plugins/phononsound/src/phononsoundplugin.cpp:35
 #: ../../../plugins/phononsound/src/phononsoundplugin.cpp:41
 msgctxt "Plugin|"
@@ -46,3 +41,8 @@ msgstr "Sound engine based on KDE sound engine"
 msgctxt "Task|"
 msgid "Author"
 msgstr "Author"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Sound engine based on KDE sound engine,"
+#~ msgstr "Sound engine based on KDE sound engine"

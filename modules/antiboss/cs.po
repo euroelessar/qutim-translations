@@ -38,11 +38,6 @@ msgid "Anti-boss plugin"
 msgstr ""
 
 #: ../../../plugins/antiboss/__data_from_cmakelists_txt.cpp:2
-#, fuzzy
-msgctxt "Plugin|"
-msgid "Plugin makes your chatting invisible for boss,"
-msgstr "Plugin vytváří konverzaci neviditelnou pro šéfa"
-
 #: ../../../plugins/antiboss/src/antibossplugin.cpp:43
 msgctxt "Plugin|"
 msgid "Plugin makes your chatting invisible for boss"
@@ -52,3 +47,8 @@ msgstr "Plugin vytváří konverzaci neviditelnou pro šéfa"
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Vývojář"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Plugin makes your chatting invisible for boss,"
+#~ msgstr "Plugin vytváří konverzaci neviditelnou pro šéfa"

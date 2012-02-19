@@ -235,12 +235,6 @@ msgid "HistMan"
 msgstr "Менеджер истории"
 
 #: ../../../plugins/histman/__data_from_cmakelists_txt.cpp:2
-#, fuzzy
-msgctxt "Plugin|"
-msgid ""
-"Plugin makes possible to import history to qutIM from different messengers,"
-msgstr "Плагин дающий возможность импортировать историю в qutIM из прочих IM"
-
 #: ../../../plugins/histman/src/historymanagerplugin.cpp:40
 msgctxt "Plugin|"
 msgid ""
@@ -256,3 +250,11 @@ msgstr "Импорт истории"
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid ""
+#~ "Plugin makes possible to import history to qutIM from different "
+#~ "messengers,"
+#~ msgstr ""
+#~ "Плагин дающий возможность импортировать историю в qutIM из прочих IM"

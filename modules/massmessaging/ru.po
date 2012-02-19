@@ -176,11 +176,6 @@ msgid "MassMessaging"
 msgstr "Массовая рассылка"
 
 #: ../../../plugins/massmessaging/__data_from_cmakelists_txt.cpp:2
-#, fuzzy
-msgctxt "Plugin|"
-msgid "Simple messaging to contact list,"
-msgstr "Простая отправка сообщений группам людей из списка контактов"
-
 #: ../../../plugins/massmessaging/src/messaging.cpp:47
 msgctxt "Plugin|"
 msgid "Simple messaging to contact list"
@@ -190,3 +185,8 @@ msgstr "Простая отправка сообщений группам люд
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Simple messaging to contact list,"
+#~ msgstr "Простая отправка сообщений группам людей из списка контактов"

@@ -175,11 +175,6 @@ msgid "MassMessaging"
 msgstr "Многократно изпращане"
 
 #: ../../../plugins/massmessaging/__data_from_cmakelists_txt.cpp:2
-#, fuzzy
-msgctxt "Plugin|"
-msgid "Simple messaging to contact list,"
-msgstr "Опростено средство за многократно изпращане на съобщения"
-
 #: ../../../plugins/massmessaging/src/messaging.cpp:47
 msgctxt "Plugin|"
 msgid "Simple messaging to contact list"
@@ -189,6 +184,11 @@ msgstr "Опростено средство за многократно изпр
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Simple messaging to contact list,"
+#~ msgstr "Опростено средство за многократно изпращане на съобщения"
 
 #~ msgctxt "Author|"
 #~ msgid "Sidorov Aleksey"

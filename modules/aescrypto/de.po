@@ -28,11 +28,6 @@ msgid "AES crypto service loader"
 msgstr "AES crypto service loader"
 
 #: ../../../plugins/aescrypto/__data_from_cmakelists_txt.cpp:2
-#, fuzzy
-msgctxt "Plugin|"
-msgid "Default qutIM crypto implementation. Based on algorithm aes256,"
-msgstr "Standard-Verschlüsselungsmodul von qutIM (aes256)"
-
 #: ../../../plugins/aescrypto/src/aescryptomodule.cpp:34
 #: ../../../plugins/aescrypto/src/aescryptomodule.cpp:40
 msgctxt "Plugin|"
@@ -48,3 +43,8 @@ msgstr "AES crypto"
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Entwickler"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Default qutIM crypto implementation. Based on algorithm aes256,"
+#~ msgstr "Standard-Verschlüsselungsmodul von qutIM (aes256)"

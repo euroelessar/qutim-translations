@@ -28,11 +28,6 @@ msgid "Phonon sound engine"
 msgstr "Поддръжка на звук, чрез Phonon"
 
 #: ../../../plugins/phononsound/__data_from_cmakelists_txt.cpp:2
-#, fuzzy
-msgctxt "Plugin|"
-msgid "Sound engine based on KDE sound engine,"
-msgstr "Поддръжка на звук, на базата на звуковата система на KDE"
-
 #: ../../../plugins/phononsound/src/phononsoundplugin.cpp:35
 #: ../../../plugins/phononsound/src/phononsoundplugin.cpp:41
 msgctxt "Plugin|"
@@ -43,3 +38,8 @@ msgstr "Поддръжка на звук, на базата на звукова�
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Sound engine based on KDE sound engine,"
+#~ msgstr "Поддръжка на звук, на базата на звуковата система на KDE"

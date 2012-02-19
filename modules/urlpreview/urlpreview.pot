@@ -28,10 +28,6 @@ msgid "UrlPreview"
 msgstr ""
 
 #: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:2
-msgctxt "Plugin|"
-msgid "Preview images directly in the chat window,"
-msgstr ""
-
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:43
 msgctxt "Plugin|"
 msgid "Preview images directly in the chat window"

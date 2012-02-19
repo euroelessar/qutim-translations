@@ -39,11 +39,6 @@ msgid "UrlPreview"
 msgstr "UrlPreview"
 
 #: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:2
-#, fuzzy
-msgctxt "Plugin|"
-msgid "Preview images directly in the chat window,"
-msgstr "Links mit Bildern und mehr direkt im Nachrichtenfenster anzeigen"
-
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:43
 msgctxt "Plugin|"
 msgid "Preview images directly in the chat window"
@@ -158,3 +153,8 @@ msgstr "Vorschau für HTML5-Audio"
 msgctxt "UrlPreviewSettingsForm|"
 msgid "HTML5 Video"
 msgstr "Vorschau für HTML5-Videos"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Preview images directly in the chat window,"
+#~ msgstr "Links mit Bildern und mehr direkt im Nachrichtenfenster anzeigen"
