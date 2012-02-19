@@ -19,6 +19,7 @@ msgstr ""
 "X-Generator: Launchpad (build 14738)\n"
 "X-Language: bg_BG\n"
 "X-Source-Language: C\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # Автор
 msgctxt "Author"
@@ -50,18 +51,19 @@ msgctxt "Author"
 msgid "Ivan Vizir"
 msgstr "Иван Визир"
 
+# Автор
 msgctxt "Author"
 msgid "Rederick Asher"
-msgstr ""
+msgstr "Редерик Ашър"
 
 msgctxt "Task"
 msgid "Artist"
-msgstr ""
+msgstr "Артист"
 
 msgctxt "Author"
 msgid "Semen Vozhov"
-msgstr ""
+msgstr "Семен Вожов"
 
 msgctxt "Author"
 msgid "Perova Gala"
-msgstr ""
+msgstr "Гала Перова"
