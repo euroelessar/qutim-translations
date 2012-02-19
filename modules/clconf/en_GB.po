@@ -35,11 +35,6 @@ msgid "Conferences in contact list"
 msgstr "Conferences in contact list"
 
 #: ../../../plugins/clconf/__data_from_cmakelists_txt.cpp:2
-#, fuzzy
-msgctxt "Plugin|"
-msgid "Plugin adds your conferences to the contact list,"
-msgstr "Plugin adds your conferences to the contact list"
-
 #: ../../../plugins/clconf/src/clconfplugin.cpp:43
 msgctxt "Plugin|"
 msgid "Plugin adds your conferences to the contact list"
@@ -49,3 +44,8 @@ msgstr "Plugin adds your conferences to the contact list"
 msgctxt "Task|"
 msgid "Author"
 msgstr "Author"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Plugin adds your conferences to the contact list,"
+#~ msgstr "Plugin adds your conferences to the contact list"
