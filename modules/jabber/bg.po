@@ -15,6 +15,7 @@ msgstr ""
 "X-Qt-Contexts: true\n"
 "X-Language: bg\n"
 "X-Source-Language: C\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:35
 msgctxt "Activity|"
@@ -2035,10 +2036,9 @@ msgstr "Конвертира вътрешните XMPP данни за мело�
 
 #: ../../../protocols/jabber/src/jplugin.cpp:144
 #: ../../../protocols/jabber/src/jplugin.cpp:145
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Jabber proxy support"
-msgstr "Поддръжка на Jabber vCard"
+msgstr "Поддръжка на прокси в Jabber"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:14
 msgctxt "RoomConfig|"
