@@ -137,6 +137,42 @@ msgctxt "ContactInfo|"
 msgid "Education"
 msgstr "Образование"
 
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:1
+#, fuzzy
+msgctxt "Plugin|"
+msgid "VKontakte"
+msgstr "Вконтакте"
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:2
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Simple implementation of vkontakte"
+msgstr "Простая реализация Вконтакте, основана на userapi.ru"
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:3
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Vkontakte photoalbum support"
+msgstr "Фотоальбом вконтакте для qutIM"
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:4
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Vkontakte photoalbum support for qutIM, based on power of Qt Quick"
+msgstr "Фотоальбом вконтакте для qutIM"
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:5
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Vkontakte wall support"
+msgstr "Поддержка стены ВКонтакте для qutIM"
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:6
+#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:39
+msgctxt "Plugin|"
+msgid "Vkontakte wall support for qutIM"
+msgstr "Поддержка стены ВКонтакте для qutIM"
+
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:38
 msgctxt "Plugin|"
 msgid "Photoalbum"
@@ -152,11 +188,6 @@ msgstr "Фотоальбом вконтакте для qutIM"
 msgctxt "Plugin|"
 msgid "Wall"
 msgstr "Стена ВКонтакте"
-
-#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:39
-msgctxt "Plugin|"
-msgid "Vkontakte wall support for qutIM"
-msgstr "Поддержка стены ВКонтакте для qutIM"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:39
 msgctxt "Plugin|"

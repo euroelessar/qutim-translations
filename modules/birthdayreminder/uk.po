@@ -71,11 +71,13 @@ msgctxt "BirthdayReminderSettings|"
 msgid "days before birthday"
 msgstr "днів перед днем народження"
 
+#: ../../../plugins/birthdayreminder/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:138
 msgctxt "Plugin|"
 msgid "BirthdayReminder"
 msgstr ""
 
+#: ../../../plugins/birthdayreminder/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:139
 msgctxt "Plugin|"
 msgid ""

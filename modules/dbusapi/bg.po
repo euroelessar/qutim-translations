@@ -20,11 +20,13 @@ msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr "Руслан Нигматуллин"
 
+#: ../../../plugins/dbusapi/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/dbusapi/src/dbusplugin.cpp:153
 msgctxt "Plugin|"
 msgid "DBus API"
 msgstr "DBus API"
 
+#: ../../../plugins/dbusapi/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/dbusapi/src/dbusplugin.cpp:154
 msgctxt "Plugin|"
 msgid "Added ability to control qutIM by DBus"

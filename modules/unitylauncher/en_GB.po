@@ -23,11 +23,13 @@ msgctxt "Author|"
 msgid "Vsevolod Velichko"
 msgstr "Vsevolod Velichko"
 
+#: ../../../plugins/unitylauncher/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/unitylauncher/src/ulplugin.cpp:41
 msgctxt "Plugin|"
 msgid "UnityLauncher"
 msgstr "UnityLauncher"
 
+#: ../../../plugins/unitylauncher/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/unitylauncher/src/ulplugin.cpp:42
 msgctxt "Plugin|"
 msgid "Ubuntu Unity panel integration"

@@ -50,6 +50,11 @@ msgctxt "Plugin|"
 msgid "Ignores messages from certain persons"
 msgstr ""
 
+#: ../../../plugins/scriptapi/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Script API scriptapi/src/scriptplugin.cpp-"
+msgstr ""
+
 #: ../../../plugins/scriptapi/src/scriptplugin.cpp:116
 msgctxt "Plugin|"
 msgid "Script API"

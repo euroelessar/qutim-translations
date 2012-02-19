@@ -61,6 +61,16 @@ msgctxt "Core::AdiumChat::ChatAppearance|"
 msgid "Vasya Pupkin is reading you mind"
 msgstr "Васяня Пупкин читает твои мысли"
 
+#: ../../../plugins/qmlchat/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Qt Quick view (experimental)"
+msgstr ""
+
+#: ../../../plugins/qmlchat/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Modern chat view based on power of QtQuick"
+msgstr ""
+
 #: ../../../plugins/qmlchat/quickchatviewfactory.cpp:41
 msgctxt "Settings|"
 msgid "Chat"

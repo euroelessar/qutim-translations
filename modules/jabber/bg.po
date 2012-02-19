@@ -1901,17 +1901,23 @@ msgctxt "Mood|"
 msgid "Show contact mood icon"
 msgstr "Да се показват иконите за настроение"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:52
-#: ../../../protocols/jabber/src/jplugin.cpp:66
-msgctxt "Plugin|"
-msgid "Jabber"
-msgstr "Jabber"
-
+#: ../../../protocols/jabber/__data_from_cmakelists_txt.cpp:1
 #: ../../../protocols/jabber/src/jplugin.cpp:53
 #: ../../../protocols/jabber/src/jplugin.cpp:67
 msgctxt "Plugin|"
 msgid "Jabber protocol"
 msgstr "Jabber протокол"
+
+#: ../../../protocols/jabber/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Implementation of jabber protocol based on jreen library"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:52
+#: ../../../protocols/jabber/src/jplugin.cpp:66
+msgctxt "Plugin|"
+msgid "Jabber"
+msgstr "Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:70
 msgctxt "Plugin|"

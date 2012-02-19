@@ -247,17 +247,24 @@ msgctxt "PackageManager|"
 msgid "Manage packages"
 msgstr "Управление пакетами"
 
-#: ../../../plugins/plugman/src/plugman.cpp:52
+#: ../../../plugins/plugman/__data_from_cmakelists_txt.cpp:1
+#, fuzzy
 msgctxt "Plugin|"
-msgid "Package manager"
+msgid "Package Manager"
 msgstr "Управление пакетами"
 
+#: ../../../plugins/plugman/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/plugman/src/plugman.cpp:53
 msgctxt "Plugin|"
 msgid "Provides possibility to Get Hot New Stuff from open community"
 msgstr ""
 "Предоставляет возможность получение нового контента (оформление, плагины "
 "итп) от сообщества"
+
+#: ../../../plugins/plugman/src/plugman.cpp:52
+msgctxt "Plugin|"
+msgid "Package manager"
+msgstr "Управление пакетами"
 
 #: ../../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp:86
 msgctxt "QObject|"

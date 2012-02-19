@@ -209,14 +209,20 @@ msgctxt "NowPlayingSettings|"
 msgid "Music Player"
 msgstr ""
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:53
+#: ../../../plugins/nowplaying/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
-msgid "Now Playing"
+msgid "NowPlaying"
 msgstr ""
 
+#: ../../../plugins/nowplaying/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:54
 msgctxt "Plugin|"
 msgid "Now playing plugin"
+msgstr ""
+
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:53
+msgctxt "Plugin|"
+msgid "Now Playing"
 msgstr ""
 
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:66

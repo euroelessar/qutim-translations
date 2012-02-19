@@ -3093,6 +3093,37 @@ msgctxt "Past|"
 msgid "Other"
 msgstr "Sonstiges"
 
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:1
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Oscar protocol"
+msgstr "Oscar roster"
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:2
+#: ../../../protocols/oscar/src/oscarplugin.cpp:54
+msgctxt "Plugin|"
+msgid "Module-based implementation of Oscar protocol"
+msgstr "Modul für das OSCAR-Protokoll"
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:3
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:4
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Client identification of oscar contacts"
+msgstr "Clienterkennung für OSCAR-Kontakte"
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:5
+msgctxt "Plugin|"
+msgid "Oscar additional statuses"
+msgstr ""
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:6
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:213
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:222
+msgctxt "Plugin|"
+msgid "Additional statuses for oscar protocol"
+msgstr "Erweiterte Status für das OSCAR-Protokoll"
+
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:48
 msgctxt "Plugin|"
 msgid "OscarIdentify"
@@ -3116,12 +3147,6 @@ msgctxt "Plugin|"
 msgid "OscarXStatus"
 msgstr "OscarXStatus"
 
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:213
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:222
-msgctxt "Plugin|"
-msgid "Additional statuses for oscar protocol"
-msgstr "Erweiterte Status für das OSCAR-Protokoll"
-
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:226
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:227
 msgctxt "Plugin|"
@@ -3132,11 +3157,6 @@ msgstr "XStatus settings"
 msgctxt "Plugin|"
 msgid "Oscar"
 msgstr "Oscar"
-
-#: ../../../protocols/oscar/src/oscarplugin.cpp:54
-msgctxt "Plugin|"
-msgid "Module-based implementation of Oscar protocol"
-msgstr "Modul für das OSCAR-Protokoll"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:63
 msgctxt "Plugin|"

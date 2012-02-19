@@ -75,11 +75,13 @@ msgctxt "OldDelegateSettings|"
 msgid "Avatar icon size:"
 msgstr ""
 
+#: ../../../plugins/oldcontactdelegate/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:64
 msgctxt "Plugin|"
 msgid "Old contact delegate"
 msgstr ""
 
+#: ../../../plugins/oldcontactdelegate/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:65
 msgctxt "Plugin|"
 msgid "Port of contact list delegate from 0.2"

@@ -15,6 +15,16 @@ msgctxt "DBusBackend|"
 msgid "Show popup"
 msgstr ""
 
+#: ../../../plugins/dbusnotifications/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Dbus notifications"
+msgstr ""
+
+#: ../../../plugins/dbusnotifications/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Notification system, based on Freedesktop"
+msgstr ""
+
 #: ../../../plugins/dbusnotifications/src/dplugin.cpp:38
 msgctxt "Plugin|"
 msgid "DBus notifications"

@@ -86,6 +86,59 @@ msgctxt "Maemo5Vibra|"
 msgid "Maemo 5 Vibration Notifications"
 msgstr "Maemo 5 Vibration Notifications"
 
+#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:1
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Maemo 5 Vibra Notifications"
+msgstr "Maemo 5 Vibration Notifications"
+
+#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:2
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Notification system, based Maemo 5 Vibrator"
+msgstr "Notification system, based on Maemo 5 Vibrator"
+
+#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:3
+#: ../../../plugins/maemo5integration/maemo5settings/maemo5settingsplugin.cpp:36
+msgctxt "Plugin|"
+msgid "Maemo 5 Settings"
+msgstr "Maemo 5 Settings"
+
+#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:4
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Maemo 5 Led Notifications"
+msgstr "Maemo 5 Led Notifications"
+
+#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:5
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Notification system, based Maemo 5 Led"
+msgstr "Notification system, based on Maemo 5 Led"
+
+#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:6
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Maemo 5 Tray "
+msgstr "Maemo 5 Tray"
+
+#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:7
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Maemo 5 specific system tray implementation"
+msgstr "Implement Maemo 5 specific system tray"
+
+#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:8
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Maemo 5 Idle detector"
+msgstr "Maemo 5 Led Notifications"
+
+#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:9
+msgctxt "Plugin|"
+msgid "Native Maemo 5 idle detector"
+msgstr ""
+
 #: ../../../plugins/maemo5integration/maemo5led/maemo5ledplugin.cpp:38
 msgctxt "Plugin|"
 msgid "Maemo Led Notifications"
@@ -95,11 +148,6 @@ msgstr "Maemo Led Notifications"
 msgctxt "Plugin|"
 msgid "Notification system based on Maemo 5 Led"
 msgstr "Notification system based on Maemo 5 Led"
-
-#: ../../../plugins/maemo5integration/maemo5settings/maemo5settingsplugin.cpp:36
-msgctxt "Plugin|"
-msgid "Maemo 5 Settings"
-msgstr "Maemo 5 Settings"
 
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settingsplugin.cpp:37
 msgctxt "Plugin|"

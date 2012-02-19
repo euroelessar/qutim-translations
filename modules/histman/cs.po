@@ -224,9 +224,16 @@ msgctxt "ImportHistoryPage|"
 msgid "WizardPage"
 msgstr ""
 
+#: ../../../plugins/histman/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/histman/src/historymanagerplugin.cpp:39
 msgctxt "Plugin|"
 msgid "HistMan"
+msgstr ""
+
+#: ../../../plugins/histman/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid ""
+"Plugin makes possible to import history to qutIM from different messengers,"
 msgstr ""
 
 #: ../../../plugins/histman/src/historymanagerplugin.cpp:40

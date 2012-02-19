@@ -463,17 +463,23 @@ msgctxt "IrcConsoleForm|"
 msgid "IRC Server Console"
 msgstr "IRC Server-Konsole"
 
-#: ../../../protocols/irc/src/ircplugin.cpp:41
-#: ../../../protocols/irc/src/ircplugin.cpp:47
+#: ../../../protocols/irc/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
-msgid "IRC"
-msgstr "IRC"
+msgid "IRC protocol"
+msgstr ""
 
+#: ../../../protocols/irc/__data_from_cmakelists_txt.cpp:2
 #: ../../../protocols/irc/src/ircplugin.cpp:42
 #: ../../../protocols/irc/src/ircplugin.cpp:48
 msgctxt "Plugin|"
 msgid "Implementation of IRC protocol"
 msgstr "Implementierung des IRC-Protokolls"
+
+#: ../../../protocols/irc/src/ircplugin.cpp:41
+#: ../../../protocols/irc/src/ircplugin.cpp:47
+msgctxt "Plugin|"
+msgid "IRC"
+msgstr "IRC"
 
 #: ../../../protocols/irc/src/ircplugin.cpp:51
 msgctxt "Plugin|"

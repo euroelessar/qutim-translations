@@ -148,6 +148,17 @@ msgctxt "MrimRoster|"
 msgid "Phone contacts"
 msgstr "Phone contacts"
 
+#: ../../../protocols/mrim/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "MRIM protocol"
+msgstr ""
+
+#: ../../../protocols/mrim/__data_from_cmakelists_txt.cpp:2
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Implementation of MRIM protocol"
+msgstr "Module-based realization of Mail.Ru IM protocol"
+
 #: ../../../protocols/mrim/src/base/mrimplugin.cpp:42
 msgctxt "Plugin|"
 msgid "Module-based realization of Mail.Ru IM protocol"

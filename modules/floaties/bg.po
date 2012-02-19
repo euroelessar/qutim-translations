@@ -20,11 +20,13 @@ msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr "Руслан Нигматуллин"
 
+#: ../../../plugins/floaties/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/floaties/src/floaties.cpp:41
 msgctxt "Plugin|"
 msgid "Floaties"
 msgstr "Плаващи контакти"
 
+#: ../../../plugins/floaties/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/floaties/src/floaties.cpp:42
 msgctxt "Plugin|"
 msgid "Implementation of floaty contacts"

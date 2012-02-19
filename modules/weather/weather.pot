@@ -10,9 +10,15 @@ msgctxt "Author|"
 msgid "Nikita Belov"
 msgstr ""
 
+#: ../../../plugins/weather/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/weather/src/weather.cpp:39
 msgctxt "Plugin|"
 msgid "Weather plugin"
+msgstr ""
+
+#: ../../../plugins/weather/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Plugin shows a current weather in your city.,"
 msgstr ""
 
 #: ../../../plugins/weather/src/weather.cpp:40

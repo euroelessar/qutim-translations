@@ -21,12 +21,14 @@ msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr ""
 
+#: ../../../plugins/sdlsound/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/sdlsound/src/sdlplugin.cpp:34
 #: ../../../plugins/sdlsound/src/sdlplugin.cpp:39
 msgctxt "Plugin|"
 msgid "SDL sound engine"
 msgstr ""
 
+#: ../../../plugins/sdlsound/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/sdlsound/src/sdlplugin.cpp:35
 #: ../../../plugins/sdlsound/src/sdlplugin.cpp:40
 msgctxt "Plugin|"

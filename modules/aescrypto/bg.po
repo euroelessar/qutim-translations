@@ -20,10 +20,19 @@ msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr "Руслан Нигматуллин"
 
+#: ../../../plugins/aescrypto/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/aescrypto/src/aescryptomodule.cpp:33
 msgctxt "Plugin|"
 msgid "AES crypto service loader"
 msgstr "Връзка с услугата за AES шифриране"
+
+#: ../../../plugins/aescrypto/__data_from_cmakelists_txt.cpp:2
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Default qutIM crypto implementation. Based on algorithm aes256,"
+msgstr ""
+"Подразбираща се за qutIM реализация на шифриране. На базата на aes256 "
+"алгоритъма"
 
 #: ../../../plugins/aescrypto/src/aescryptomodule.cpp:34
 #: ../../../plugins/aescrypto/src/aescryptomodule.cpp:40

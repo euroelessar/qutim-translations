@@ -3074,6 +3074,35 @@ msgctxt "Past|"
 msgid "Other"
 msgstr ""
 
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Oscar protocol"
+msgstr ""
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:2
+#: ../../../protocols/oscar/src/oscarplugin.cpp:54
+msgctxt "Plugin|"
+msgid "Module-based implementation of Oscar protocol"
+msgstr ""
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:3
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:4
+msgctxt "Plugin|"
+msgid "Client identification of oscar contacts"
+msgstr ""
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:5
+msgctxt "Plugin|"
+msgid "Oscar additional statuses"
+msgstr ""
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:6
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:213
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:222
+msgctxt "Plugin|"
+msgid "Additional statuses for oscar protocol"
+msgstr ""
+
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:48
 msgctxt "Plugin|"
 msgid "OscarIdentify"
@@ -3097,12 +3126,6 @@ msgctxt "Plugin|"
 msgid "OscarXStatus"
 msgstr ""
 
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:213
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:222
-msgctxt "Plugin|"
-msgid "Additional statuses for oscar protocol"
-msgstr ""
-
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:226
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:227
 msgctxt "Plugin|"
@@ -3112,11 +3135,6 @@ msgstr ""
 #: ../../../protocols/oscar/src/oscarplugin.cpp:53
 msgctxt "Plugin|"
 msgid "Oscar"
-msgstr ""
-
-#: ../../../protocols/oscar/src/oscarplugin.cpp:54
-msgctxt "Plugin|"
-msgid "Module-based implementation of Oscar protocol"
 msgstr ""
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:63

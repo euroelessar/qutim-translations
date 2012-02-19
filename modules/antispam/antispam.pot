@@ -85,11 +85,13 @@ msgctxt "Author|"
 msgid "Aleksey Sidorov"
 msgstr ""
 
+#: ../../../plugins/antispam/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/antispam/src/antispamplugin.cpp:55
 msgctxt "Plugin|"
 msgid "Antispam"
 msgstr ""
 
+#: ../../../plugins/antispam/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/antispam/src/antispamplugin.cpp:56
 msgctxt "Plugin|"
 msgid "Blocks messages from unknown contacts by question-answer pair"

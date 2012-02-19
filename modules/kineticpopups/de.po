@@ -61,6 +61,17 @@ msgctxt "KineticPopups::QuickNotify|"
 msgid "Notification from qutIM"
 msgstr "Benachrichtigung von qutIM"
 
+#: ../../../plugins/kineticpopups/__data_from_cmakelists_txt.cpp:1
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Kinetic popups"
+msgstr "Völlig belangloses Popup"
+
+#: ../../../plugins/kineticpopups/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Growl-like popups, based on power of Qt Quick"
+msgstr ""
+
 #: ../../../plugins/kineticpopups/src/backend.cpp:45
 msgctxt "Settings|"
 msgid "Popups"

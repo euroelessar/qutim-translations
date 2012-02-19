@@ -39,6 +39,27 @@ msgctxt "ManagerSettings|"
 msgid "Autoconnect on startup"
 msgstr "Autoconnect on startup"
 
+#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:1
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Network bearer Manager"
+msgstr "BearerManager"
+
+#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Used to monitor the availability of network."
+msgstr ""
+
+#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:3
+msgctxt "Plugin|"
+msgid "Mulimedia engine"
+msgstr ""
+
+#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:4
+msgctxt "Plugin|"
+msgid "Sound engine based on QtMultimedia"
+msgstr ""
+
 #: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:47
 msgctxt "Service|"
 msgid "BearerManager"

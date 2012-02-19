@@ -21,11 +21,18 @@ msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr "Ruslan Nigmatullin"
 
+#: ../../../plugins/phononsound/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/phononsound/src/phononsoundplugin.cpp:34
 #: ../../../plugins/phononsound/src/phononsoundplugin.cpp:40
 msgctxt "Plugin|"
 msgid "Phonon sound engine"
 msgstr "Phonom Sound-Engine"
+
+#: ../../../plugins/phononsound/__data_from_cmakelists_txt.cpp:2
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Sound engine based on KDE sound engine,"
+msgstr "Soundengine, basierend auf der KDE-Soundengine"
 
 #: ../../../plugins/phononsound/src/phononsoundplugin.cpp:35
 #: ../../../plugins/phononsound/src/phononsoundplugin.cpp:41

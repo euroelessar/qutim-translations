@@ -10,11 +10,13 @@ msgctxt "Author|"
 msgid "Vsevolod Velichko"
 msgstr ""
 
+#: ../../../plugins/indicator/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/indicator/src/indicator.cpp:41
 msgctxt "Plugin|"
 msgid "Indicator"
 msgstr ""
 
+#: ../../../plugins/indicator/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/indicator/src/indicator.cpp:42
 msgctxt "Plugin|"
 msgid "Ubuntu Indicator applet integration"

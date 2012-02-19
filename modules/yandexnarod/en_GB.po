@@ -38,11 +38,13 @@ msgctxt "Author|"
 msgid "Alexander Kazarin"
 msgstr "Alexander Kazarin"
 
+#: ../../../plugins/yandexnarod/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:52
 msgctxt "Plugin|"
 msgid "YandexNarod"
 msgstr "YandexNarod"
 
+#: ../../../plugins/yandexnarod/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:53
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:70
 msgctxt "Plugin|"

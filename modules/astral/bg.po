@@ -20,10 +20,16 @@ msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr "Руслан Нигматуллин"
 
+#: ../../../protocols/astral/__data_from_cmakelists_txt.cpp:1
 #: ../../../protocols/astral/src/astralplugin.cpp:54
 msgctxt "Plugin|"
 msgid "Astral"
 msgstr "Astral"
+
+#: ../../../protocols/astral/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Communication by Telepathy"
+msgstr ""
 
 #: ../../../protocols/astral/src/astralplugin.cpp:55
 msgctxt "Plugin|"

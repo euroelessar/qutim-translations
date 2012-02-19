@@ -26,10 +26,17 @@ msgctxt "ClConf|"
 msgid "Conferences"
 msgstr "Konference"
 
+#: ../../../plugins/clconf/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/clconf/src/clconfplugin.cpp:42
 msgctxt "Plugin|"
 msgid "Conferences in contact list"
 msgstr "Konference v seznamu kontaktů"
+
+#: ../../../plugins/clconf/__data_from_cmakelists_txt.cpp:2
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Plugin adds your conferences to the contact list,"
+msgstr "Plugin přidává konference do seznamu kontaktů"
 
 #: ../../../plugins/clconf/src/clconfplugin.cpp:43
 msgctxt "Plugin|"

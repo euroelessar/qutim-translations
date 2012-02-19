@@ -377,11 +377,13 @@ msgctxt "PasswordDialog|"
 msgid "Cancel"
 msgstr "Cancel"
 
+#: ../../../plugins/meegointegration/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:49
 msgctxt "Plugin|"
 msgid "Meego application window"
 msgstr "Meego application window"
 
+#: ../../../plugins/meegointegration/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:50
 msgctxt "Plugin|"
 msgid "Main window of application"

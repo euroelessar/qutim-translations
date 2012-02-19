@@ -30,11 +30,18 @@ msgctxt "Author|"
 msgid "Nicolay Izoderov"
 msgstr "Николай Изодёров"
 
+#: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:42
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:62
 msgctxt "Plugin|"
 msgid "UrlPreview"
 msgstr "URL превью"
+
+#: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:2
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Preview images directly in the chat window,"
+msgstr "Просмотр рисунка в окне чата"
 
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:43
 msgctxt "Plugin|"

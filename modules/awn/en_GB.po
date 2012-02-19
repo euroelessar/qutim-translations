@@ -48,11 +48,13 @@ msgctxt "Author|"
 msgid "Stanislav (proDOOMman) Kosolapov"
 msgstr "Stanislav (proDOOMman) Kosolapov"
 
+#: ../../../plugins/awn/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/awn/src/awn.cpp:42 ../../../plugins/awn/src/awn.cpp:47
 msgctxt "Plugin|"
 msgid "AWN"
 msgstr "AWN"
 
+#: ../../../plugins/awn/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/awn/src/awn.cpp:43 ../../../plugins/awn/src/awn.cpp:48
 msgctxt "Plugin|"
 msgid "Avant window navigator dock integration"

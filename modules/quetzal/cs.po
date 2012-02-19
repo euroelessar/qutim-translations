@@ -16,11 +16,13 @@ msgstr ""
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
 
+#: ../../../protocols/quetzal/__data_from_cmakelists_txt.cpp:1
 #: ../../../protocols/quetzal/src/quetzalplugin.cpp:660
 msgctxt "Plugin|"
 msgid "Quetzal"
 msgstr ""
 
+#: ../../../protocols/quetzal/__data_from_cmakelists_txt.cpp:2
 #: ../../../protocols/quetzal/src/quetzalplugin.cpp:661
 #: ../../../protocols/quetzal/src/quetzalplugin.cpp:706
 #: ../../../protocols/quetzal/src/quetzalplugin.cpp:710

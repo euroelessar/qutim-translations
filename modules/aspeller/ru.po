@@ -30,6 +30,7 @@ msgctxt "Author|"
 msgid "Alexey Prokhin"
 msgstr "Прохин Алексей"
 
+#: ../../../plugins/aspeller/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/aspeller/src/aspellplugin.cpp:42
 #: ../../../plugins/aspeller/src/aspellplugin.cpp:45
 msgctxt "Plugin|"
@@ -37,6 +38,7 @@ msgid "ASpell checker"
 msgstr "Проверка орфографии"
 
 # орфограции - дооооолго читал, не мог понять где ошибка. Вот вам и орфограция!
+#: ../../../plugins/aspeller/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/aspeller/src/aspellplugin.cpp:43
 #: ../../../plugins/aspeller/src/aspellplugin.cpp:46
 msgctxt "Plugin|"

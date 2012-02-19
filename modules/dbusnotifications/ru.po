@@ -25,6 +25,18 @@ msgctxt "DBusBackend|"
 msgid "Show popup"
 msgstr "Показать всплывающее сообщение"
 
+#: ../../../plugins/dbusnotifications/__data_from_cmakelists_txt.cpp:1
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Dbus notifications"
+msgstr "DBus уведомления"
+
+#: ../../../plugins/dbusnotifications/__data_from_cmakelists_txt.cpp:2
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Notification system, based on Freedesktop"
+msgstr "Система уведомлений основана на протоколе DBus Freedesktop"
+
 #: ../../../plugins/dbusnotifications/src/dplugin.cpp:38
 msgctxt "Plugin|"
 msgid "DBus notifications"

@@ -26,12 +26,14 @@ msgctxt "Logger::LoggerPlugin|"
 msgid "New session started, happy debuging ^_^"
 msgstr ""
 
+#: ../../../plugins/logger/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/logger/src/logger.cpp:76
 #: ../../../plugins/logger/src/logger.cpp:101
 msgctxt "Plugin|"
 msgid "Logger"
 msgstr ""
 
+#: ../../../plugins/logger/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/logger/src/logger.cpp:77
 msgctxt "Plugin|"
 msgid "Simple file based logger for debug"

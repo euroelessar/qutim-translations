@@ -36,11 +36,13 @@ msgctxt "Author|"
 msgid "Alexander Kazarin"
 msgstr "Александър Казарин"
 
+#: ../../../plugins/yandexnarod/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:52
 msgctxt "Plugin|"
 msgid "YandexNarod"
 msgstr "Yandex.Narod файлов организатор"
 
+#: ../../../plugins/yandexnarod/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:53
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:70
 msgctxt "Plugin|"
@@ -143,27 +145,27 @@ msgstr "статус"
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:111
 msgctxt "YandexNarodSettingsClass|"
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
-"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-"type=\"text/css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:'Liberation Sans'; font-size:10pt; "
 "font-weight:400; font-style:normal;\">\n"
 "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-"font-family:'Verdana'; font-size:8pt;\"></p></body></html>"
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
+"family:'Verdana'; font-size:8pt;\"></p></body></html>"
 msgstr ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
-"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-"type=\"text/css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:'Liberation Sans'; font-size:10pt; "
 "font-weight:400; font-style:normal;\">\n"
 "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-"font-family:'Verdana'; font-size:8pt;\"></p></body></html>"
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
+"family:'Verdana'; font-size:8pt;\"></p></body></html>"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:122
 msgctxt "YandexNarodSettingsClass|"

@@ -21,15 +21,22 @@ msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr "Ruslan Nigmatullin"
 
-#: ../../../plugins/emoedit/src/emoeditplugin.cpp:63
+#: ../../../plugins/emoedit/__data_from_cmakelists_txt.cpp:1
+#, fuzzy
 msgctxt "Plugin|"
-msgid "EmoEdit plugin"
+msgid "EmoEdit"
 msgstr "EmoEdit plugin"
 
+#: ../../../plugins/emoedit/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/emoedit/src/emoeditplugin.cpp:64
 msgctxt "Plugin|"
 msgid "Add emoticons to text edit widget"
 msgstr "Emoticons im Text-Edit-Widget anzeigen"
+
+#: ../../../plugins/emoedit/src/emoeditplugin.cpp:63
+msgctxt "Plugin|"
+msgid "EmoEdit plugin"
+msgstr "EmoEdit plugin"
 
 #: ../../../plugins/emoedit/src/emoeditplugin.cpp:61
 msgctxt "Task|"

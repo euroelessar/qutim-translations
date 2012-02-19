@@ -127,6 +127,37 @@ msgctxt "ContactInfo|"
 msgid "Education"
 msgstr ""
 
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "VKontakte"
+msgstr ""
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Simple implementation of vkontakte"
+msgstr ""
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:3
+msgctxt "Plugin|"
+msgid "Vkontakte photoalbum support"
+msgstr ""
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:4
+msgctxt "Plugin|"
+msgid "Vkontakte photoalbum support for qutIM, based on power of Qt Quick"
+msgstr ""
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:5
+msgctxt "Plugin|"
+msgid "Vkontakte wall support"
+msgstr ""
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:6
+#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:39
+msgctxt "Plugin|"
+msgid "Vkontakte wall support for qutIM"
+msgstr ""
+
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:38
 msgctxt "Plugin|"
 msgid "Photoalbum"
@@ -140,11 +171,6 @@ msgstr ""
 #: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:38
 msgctxt "Plugin|"
 msgid "Wall"
-msgstr ""
-
-#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:39
-msgctxt "Plugin|"
-msgid "Vkontakte wall support for qutIM"
 msgstr ""
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:39

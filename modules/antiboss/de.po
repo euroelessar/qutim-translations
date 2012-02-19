@@ -31,10 +31,17 @@ msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr "Ruslan Nigmatullin"
 
+#: ../../../plugins/antiboss/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/antiboss/src/antibossplugin.cpp:42
 msgctxt "Plugin|"
 msgid "Anti-boss plugin"
 msgstr "Anti-boss Plugin"
+
+#: ../../../plugins/antiboss/__data_from_cmakelists_txt.cpp:2
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Plugin makes your chatting invisible for boss,"
+msgstr "Macht heimliches chatten während der Arbeit leichter"
 
 #: ../../../plugins/antiboss/src/antibossplugin.cpp:43
 msgctxt "Plugin|"

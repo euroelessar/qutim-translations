@@ -40,11 +40,44 @@ msgctxt "Core::SimpleContactList::SevenWidget|"
 msgid "Set Status Text"
 msgstr "Set Status Text"
 
+#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/winintegration/src/winint.cpp:66
 #: ../../../plugins/winintegration/src/winint.cpp:79
 msgctxt "Plugin|"
 msgid "Windows Integration"
 msgstr "Windows Integration"
+
+#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:2
+#, fuzzy
+msgctxt "Plugin|"
+msgid ""
+"Adds count of unread messages as an icon to taskbar button of qutim, along "
+"with some commands list."
+msgstr ""
+"Adds count of unread messages as an icon to taskbar button of qutim, along "
+"with some commands list and provides a bit more usable notification area "
+"icon than default plugin."
+
+#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:3
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Windows Integration: Taskbar"
+msgstr "Windows Integration"
+
+#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:4
+msgctxt "Plugin|"
+msgid "Adds count of unread messages as an icon to taskbar button of qutIM."
+msgstr ""
+
+#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:5
+msgctxt "Plugin|"
+msgid "Seven"
+msgstr ""
+
+#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:6
+msgctxt "Plugin|"
+msgid "Windows seven specific implementation with button's in caption"
+msgstr ""
 
 #: ../../../plugins/winintegration/src/winint.cpp:67
 msgctxt "Plugin|"
