@@ -2373,43 +2373,43 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:71
 msgctxt "Plugin|"
 msgid "Separated contacts model"
-msgstr ""
+msgstr "Разделен модел на контакти"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:72
 msgctxt "Plugin|"
 msgid "Contact list model, which show accounts, tags and contacts"
-msgstr ""
+msgstr "Модел на списъка с контакти, който показва сметки, етикети и контакти"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:73
 msgctxt "Plugin|"
 msgid "Tree contacts model"
-msgstr ""
+msgstr "Дървовиден модел на контакти"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:74
 msgctxt "Plugin|"
 msgid "Contact list model, which show tags and contacts"
-msgstr ""
+msgstr "Модел на списъка с контакти, който показва етикети и контакти"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:75
 msgctxt "Plugin|"
 msgid "Plain list contacts model"
-msgstr ""
+msgstr "Обикновен модел на списъка с контакти"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:76
 msgctxt "Plugin|"
 msgid "Contact list model, which shows only contacts"
-msgstr ""
+msgstr "Модел на списъка с контакти, който показва само контактите"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:77
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Simple contact list"
-msgstr "Обикновени Мета-контакти"
+msgstr "Опростен модел на списъка с контакти"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:78
 msgctxt "Plugin|"
 msgid "Default qutIM contact list implementation. Just simple"
 msgstr ""
+"Подразбираща се за qutIM, реализация на списък с контакти. Съвсем проста"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:79
 msgctxt "Plugin|"
@@ -2419,33 +2419,34 @@ msgstr "Изглед на контактите"
 #: ../../../core/__data_from_cmakelists_txt.cpp:80
 msgctxt "Plugin|"
 msgid "Default contact delegate. Just simple"
-msgstr ""
+msgstr "Подразбиращ се изглед на контактите. Съвсем прост"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:81
 msgctxt "Plugin|"
 msgid "Tory Contactlist"
-msgstr ""
+msgstr "Tory списък с контакти"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:82
 msgctxt "Plugin|"
 msgid "Tory contactlist"
-msgstr ""
+msgstr "Tory списък с контакти"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:83
 msgctxt "Plugin|"
 msgid "Simple"
-msgstr ""
+msgstr "Обикновен"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:84
 msgctxt "Plugin|"
 msgid ""
 "Default qutIM contactlist widget implementation with global status button"
 msgstr ""
+"Подразбираща се за qutIM, реализация на бутон за смяна на глобалния статус"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:85
 msgctxt "Plugin|"
 msgid "Chat spell checker"
-msgstr ""
+msgstr "Проверка на правописа в разговора"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:86
 msgctxt "Plugin|"
@@ -2453,6 +2454,8 @@ msgid ""
 "Highlights grammar errors and provides spelling suggestions for misspelled "
 "words in chats"
 msgstr ""
+"Подчертава правописни грешки и предоставя предложения за заместване на "
+"сгрешените думи в разговора"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:87
 msgctxt "Plugin|"
