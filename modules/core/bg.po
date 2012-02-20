@@ -2293,79 +2293,82 @@ msgstr "Подразбираща се реализация на настройк
 #: ../../../core/__data_from_cmakelists_txt.cpp:53
 msgctxt "Plugin|"
 msgid "Simple password dialog"
-msgstr ""
+msgstr "Обикновен диалогов прозорец за парола"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:54
 msgctxt "Plugin|"
 msgid "Default qutIM password dialog"
-msgstr ""
+msgstr "Подразбиращ се диалогов прозорец за парола"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:55
 msgctxt "Plugin|"
 msgid "Add contact dialog"
-msgstr ""
+msgstr "Диалогов прозорец за добавяне на контакт"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:56
 msgctxt "Plugin|"
 msgid "Simple add contact dialog"
-msgstr ""
+msgstr "Обикновен диалогов прозорец за добавяне на контакт"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:57
 msgctxt "Plugin|"
 msgid "Xdg Icon Loader"
-msgstr ""
+msgstr "Поддръжка на Xdg икони"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:58
 msgctxt "Plugin|"
 msgid "Default qutIM icon loader implementation. Based on Q-XDG library"
 msgstr ""
+"Подразбираща се за qutIM реализация на икони, базирана на Q-XDG библиотека"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:59
 msgctxt "Plugin|"
 msgid "File transfer manager"
-msgstr ""
+msgstr "Управление на обмена на файлове"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:60
 msgctxt "Plugin|"
 msgid "Default qutIM file transfer manager"
-msgstr ""
+msgstr "Подразбиращо се за qutIM, управление обмена на файлове"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:61
 msgctxt "Plugin|"
 msgid "Idle detector"
-msgstr ""
+msgstr "Установяване на бездействието"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:62
 msgctxt "Plugin|"
 msgid "Native idle detector, based on system api"
 msgstr ""
+"Собствена реализация на установяване бездействието, базирана на системния API"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:63
 #: ../../../core/__data_from_cmakelists_txt.cpp:65
 msgctxt "Plugin|"
 msgid "Qt Kinetic scroller"
-msgstr ""
+msgstr "Qt Kinetic превъртане"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:64
 #: ../../../core/__data_from_cmakelists_txt.cpp:66
 msgctxt "Plugin|"
 msgid "Kinetic scroller from upcoming Qt release"
-msgstr ""
+msgstr "Kinetic превъртане от Qt"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:67
 msgctxt "Plugin|"
 msgid "Shortcut settings"
-msgstr ""
+msgstr "Настройка на бързи клавиши"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:69
 msgctxt "Plugin|"
 msgid "No crypto"
-msgstr ""
+msgstr "Без шифриране"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:70
 msgctxt "Plugin|"
 msgid "Store passwords in plaintext. Easy to read. Easy to recover."
 msgstr ""
+"Паролите се съхраняват в обкновен текст. Лесно за четене и възстановяване."
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:71
 msgctxt "Plugin|"
