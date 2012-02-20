@@ -2460,22 +2460,22 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:87
 msgctxt "Plugin|"
 msgid "Chat notifications backend"
-msgstr ""
+msgstr "Поддъжка на уведомленията в разговора"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:88
 msgctxt "Plugin|"
 msgid "Prints information about events into chats"
-msgstr ""
+msgstr "Извеждане на информация за събития в разговора"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:89
 msgctxt "Plugin|"
 msgid "Mobile Settings dialog"
-msgstr ""
+msgstr "Диалогов прозорец за настройки за мобилни устройства"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:90
 msgctxt "Plugin|"
 msgid "Kickoff style settings dialog specialy for Maemo/MeeGo"
-msgstr ""
+msgstr "Kickoff диалогов прозорец, предназначен за Maemo/MeeGo"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:91
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:38
@@ -2492,12 +2492,12 @@ msgstr "Активира сесията при определени събити
 #: ../../../core/__data_from_cmakelists_txt.cpp:93
 msgctxt "Plugin|"
 msgid "Simple tray"
-msgstr ""
+msgstr "Обикновен поднос"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:94
 msgctxt "Plugin|"
 msgid "Default qutIM system tray icon implementation"
-msgstr ""
+msgstr "Подразбираща се за qutIM реализация на икнона в системния поднос"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:95
 #: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:40
@@ -2514,23 +2514,25 @@ msgstr "Подразбиращ се набор от действия с конт
 #: ../../../core/__data_from_cmakelists_txt.cpp:97
 msgctxt "Plugin|"
 msgid "Json History"
-msgstr ""
+msgstr "JSON хронология"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:98
 msgctxt "Plugin|"
 msgid ""
 "Default qutIM history implementation, based on JavaScript Object Notation"
 msgstr ""
+"Подразбираща се за qutIM, реализация на хронология, изпозлваща JavaScript "
+"Object Notation"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:99
 msgctxt "Plugin|"
 msgid "Mobile notifications settings"
-msgstr ""
+msgstr "Настройка на уведомленията за мобилни устройства"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:100
 msgctxt "Plugin|"
 msgid "Mobile settings widget set for notifications"
-msgstr ""
+msgstr "Набор от настройка на уведомленията за мобилни устройства"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:101
 #: ../../../core/src/corelayers/localization/localizationplugin.cpp:37
