@@ -7,15 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-01-20 19:51+0000\n"
+"POT-Creation-Date: 2012-02-19 16:53+0000\n"
 "PO-Revision-Date: 2012-01-22 09:44+0000\n"
 "Last-Translator: Maxim <kontact.cat@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-23 05:44+0000\n"
-"X-Generator: Launchpad (build 14700)\n"
+"X-Launchpad-Export-Date: 2012-02-20 06:12+0000\n"
+"X-Generator: Launchpad (build 14833)\n"
+"Language: uk\n"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:356
 msgctxt "Adium::WebViewAppearance|"
@@ -31,6 +32,21 @@ msgstr "Картинки (*.png *.xpm *.jpg *.bmp *.gif)"
 msgctxt "Adium::WebViewFont|"
 msgid "Change"
 msgstr "Змінити"
+
+#: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Chat settings"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:3
+msgctxt "Plugin|"
+msgid "Adium-like WebView"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:4
+msgctxt "Plugin|"
+msgid "Well-look stylished view based on WebKit and Adium ideas"
+msgstr ""
 
 #: ../../../plugins/adiumwebview/lib/old/webkitutils.cpp:121
 msgctxt "QObject|"
@@ -57,12 +73,12 @@ msgctxt "QObject|"
 msgid "Normal"
 msgstr "Звичайний"
 
-#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:798
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:797
 msgctxt "QObject|"
 msgid "Download %fileName%"
 msgstr "Завантажити %fileName%"
 
-#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:996
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:995
 msgctxt "QObject|"
 msgid "(Autoreply)"
 msgstr "(Автовідповідь)"

@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-01-20 19:51+0000\n"
-"PO-Revision-Date: 2012-01-19 21:15+0000\n"
+"POT-Creation-Date: 2012-02-19 16:53+0000\n"
+"PO-Revision-Date: 2012-02-19 17:59+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-21 06:29+0000\n"
-"X-Generator: Launchpad (build 14700)\n"
+"X-Launchpad-Export-Date: 2012-02-20 06:12+0000\n"
+"X-Generator: Launchpad (build 14833)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: bg_BG\n"
@@ -30,6 +30,21 @@ msgstr "Изображения (*.png *.xpm *.jpg *.bmp *.gif)"
 msgctxt "Adium::WebViewFont|"
 msgid "Change"
 msgstr "Промяна"
+
+#: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Chat settings"
+msgstr "Настройки на разговора"
+
+#: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:3
+msgctxt "Plugin|"
+msgid "Adium-like WebView"
+msgstr "WebView като в Adium"
+
+#: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:4
+msgctxt "Plugin|"
+msgid "Well-look stylished view based on WebKit and Adium ideas"
+msgstr "Добре изглеждащ и стилен изглед на базата на WebKit и Adium идеи"
 
 #: ../../../plugins/adiumwebview/lib/old/webkitutils.cpp:121
 msgctxt "QObject|"
@@ -56,12 +71,12 @@ msgctxt "QObject|"
 msgid "Normal"
 msgstr "Нормален"
 
-#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:798
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:797
 msgctxt "QObject|"
 msgid "Download %fileName%"
 msgstr "Изтегляне на %fileName%"
 
-#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:996
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:995
 msgctxt "QObject|"
 msgid "(Autoreply)"
 msgstr "(Автоматичен отговор)"
@@ -104,17 +119,17 @@ msgstr "Джаджа"
 #: ../../../plugins/adiumwebview/lib/old/widget.ui:30
 msgctxt "Widget|"
 msgid "QWebView"
-msgstr ""
+msgstr "QWebView"
 
 #: ../../../plugins/adiumwebview/lib/old/widget.ui:40
 msgctxt "Widget|"
 msgid "about:blank"
-msgstr ""
+msgstr "about:blank"
 
 #: ../../../plugins/adiumwebview/lib/old/widget.ui:49
 msgctxt "Widget|"
 msgid "QDeclarativeView"
-msgstr ""
+msgstr "QDeclarativeView"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:14
 msgctxt "chatAppearance|"

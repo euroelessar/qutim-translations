@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-01 17:02+0000\n"
+"POT-Creation-Date: 2012-02-19 16:51+0000\n"
 "PO-Revision-Date: 2012-02-01 18:46+0000\n"
 "Last-Translator: MiSi <kettis@volny.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-02 06:40+0000\n"
-"X-Generator: Launchpad (build 14738)\n"
+"X-Launchpad-Export-Date: 2012-02-20 06:12+0000\n"
+"X-Generator: Launchpad (build 14833)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: cs\n"
@@ -138,6 +138,37 @@ msgctxt "ContactInfo|"
 msgid "Education"
 msgstr "Vzdělání"
 
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "VKontakte"
+msgstr ""
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Simple implementation of vkontakte"
+msgstr ""
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:3
+msgctxt "Plugin|"
+msgid "Vkontakte photoalbum support"
+msgstr ""
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:4
+msgctxt "Plugin|"
+msgid "Vkontakte photoalbum support for qutIM, based on power of Qt Quick"
+msgstr ""
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:5
+msgctxt "Plugin|"
+msgid "Vkontakte wall support"
+msgstr ""
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:6
+#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:39
+msgctxt "Plugin|"
+msgid "Vkontakte wall support for qutIM"
+msgstr ""
+
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:38
 msgctxt "Plugin|"
 msgid "Photoalbum"
@@ -152,11 +183,6 @@ msgstr "Vkontakte photoalbum support pro qutIM"
 msgctxt "Plugin|"
 msgid "Wall"
 msgstr "Zeď"
-
-#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:39
-msgctxt "Plugin|"
-msgid "Vkontakte wall support for qutIM"
-msgstr ""
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:39
 msgctxt "Plugin|"

@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-21 09:15+0000\n"
+"POT-Creation-Date: 2012-02-19 16:53+0000\n"
 "PO-Revision-Date: 2012-02-13 03:55+0000\n"
 "Last-Translator: Vyacheslav Sharmanov <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-14 06:51+0000\n"
-"X-Generator: Launchpad (build 14781)\n"
+"X-Launchpad-Export-Date: 2012-02-20 06:12+0000\n"
+"X-Generator: Launchpad (build 14833)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: ru\n"
@@ -57,6 +57,32 @@ msgstr "Установить текст статуса"
 msgctxt "Core::SimpleContactList::SymbianWidget|"
 msgid "Actions"
 msgstr "Действия"
+
+#: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:5
+msgctxt "Plugin|"
+msgid "Symbian"
+msgstr ""
+
+#: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Stacked chatform for S60 devices"
+msgstr ""
+
+#: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:3
+msgctxt "Plugin|"
+msgid "Symbian Vibration Support"
+msgstr ""
+
+#: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:4
+msgctxt "Plugin|"
+msgid "Notifies about different events by vibration of your mobile device"
+msgstr ""
+
+#: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:6
+msgctxt "Plugin|"
+msgid "Symbian specific qutIM contactlist widget implementation"
+msgstr ""
 
 #: ../../../plugins/symbianintegration/symbianchatform/stackedchatform.cpp:47
 msgctxt "Settings|"

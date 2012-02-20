@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-01 17:02+0000\n"
+"POT-Creation-Date: 2012-02-19 16:52+0000\n"
 "PO-Revision-Date: 2012-02-13 03:47+0000\n"
 "Last-Translator: Vyacheslav Sharmanov <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-14 06:51+0000\n"
-"X-Generator: Launchpad (build 14781)\n"
+"X-Launchpad-Export-Date: 2012-02-20 06:08+0000\n"
+"X-Generator: Launchpad (build 14833)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: ru\n"
@@ -20,7 +20,7 @@ msgctxt "Antispam|"
 msgid "Antispam"
 msgstr "Антиспам"
 
-#: ../../../plugins/antispam/src/handler.cpp:73
+#: ../../../plugins/antispam/src/handler.cpp:71
 msgctxt "Antispam::Handler|"
 msgid ""
 "Beer, wine, vodka, champagne: after which drink in this sequence I should "
@@ -29,17 +29,17 @@ msgstr ""
 "Пиво, вино, водка, шампусик: после чего из списка мне стоит прекратить на "
 "сегодня пить?"
 
-#: ../../../plugins/antispam/src/handler.cpp:74
+#: ../../../plugins/antispam/src/handler.cpp:72
 msgctxt "Antispam::Handler|"
 msgid "We are ready to drink with you!"
 msgstr "Мы готовы выпить с тобой, о юный падаван!"
 
-#: ../../../plugins/antispam/src/handler.cpp:75
+#: ../../../plugins/antispam/src/handler.cpp:73
 msgctxt "Antispam::Handler|"
 msgid "vodka;Vodka"
 msgstr "vodka;Vodka;водка;Водка;wodka;Wodka"
 
-#: ../../../plugins/antispam/src/handler.cpp:136
+#: ../../../plugins/antispam/src/handler.cpp:128
 #, qt-format
 msgctxt "Antispam::Handler|"
 msgid "Message from %1 blocked on suspicion of spam."
@@ -99,11 +99,13 @@ msgctxt "Author|"
 msgid "Aleksey Sidorov"
 msgstr "Сидоров Алексей"
 
+#: ../../../plugins/antispam/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/antispam/src/antispamplugin.cpp:55
 msgctxt "Plugin|"
 msgid "Antispam"
 msgstr "Антиспам"
 
+#: ../../../plugins/antispam/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/antispam/src/antispamplugin.cpp:56
 msgctxt "Plugin|"
 msgid "Blocks messages from unknown contacts by question-answer pair"

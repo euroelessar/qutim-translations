@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-21 09:13+0000\n"
+"POT-Creation-Date: 2012-02-19 18:12+0000\n"
 "PO-Revision-Date: 2011-11-15 16:36+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,8 +10,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:21+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-02-20 06:10+0000\n"
+"X-Generator: Launchpad (build 14833)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: cs\n"
@@ -224,11 +224,13 @@ msgctxt "ImportHistoryPage|"
 msgid "WizardPage"
 msgstr ""
 
+#: ../../../plugins/histman/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/histman/src/historymanagerplugin.cpp:39
 msgctxt "Plugin|"
 msgid "HistMan"
 msgstr ""
 
+#: ../../../plugins/histman/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/histman/src/historymanagerplugin.cpp:40
 msgctxt "Plugin|"
 msgid ""
