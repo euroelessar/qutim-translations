@@ -2550,21 +2550,24 @@ msgstr "Подразбираща се за qutIM работа с локали"
 msgctxt "Plugin|"
 msgid "Mobile conference join dialog"
 msgstr ""
+"Диалогов прозорец за присъединяване към конференции за мобилни устройства"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:104
 msgctxt "Plugin|"
 msgid "Conference join dialog adopted for touch devices with small screen"
 msgstr ""
+"Диалогов прозорец за присъединяване към конференции, адаптиран за устройсва "
+"с малък touchscreen"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:105
 msgctxt "Plugin|"
 msgid "Simple about dialog"
-msgstr ""
+msgstr "Диалогов прозорец \"За програмата\""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:106
 msgctxt "Plugin|"
 msgid "Simple dialog about qutIM and it's authors"
-msgstr ""
+msgstr "Диалогов прозорец, съдържащ информация за програмата и нейните автори"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:107
 msgctxt "Plugin|"
