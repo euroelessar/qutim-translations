@@ -2071,6 +2071,112 @@ msgstr "Standard Klangschema"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:11
 #: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:36
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Authorization dialog"
+msgstr "Nicht autorisiert"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:12
+#: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:37
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Simple authorization dialog"
+msgstr "Simple about dialog"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:13
+msgctxt "Plugin|"
+msgid "Mirgation 0.2 to 0.3"
+msgstr "Mirgation 0.2 to 0.3"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:14
+msgctxt "Plugin|"
+msgid "Module for migration from 0.2 to 0.3"
+msgstr "Migrationsmodul von qutIM 0.2 nach 0.3"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:15
+msgctxt "Plugin|"
+msgid "Simple conference join dialog"
+msgstr "Simple conference join dialog"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:16
+msgctxt "Plugin|"
+msgid "Conference join dialog adopted for Desktop systems"
+msgstr "Dialog zum Betreten von Chaträumen für Desktop-Rechner"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:17
+msgctxt "Plugin|"
+msgid "Simple information window about a contact"
+msgstr "Simple information window about a contact"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:18
+msgctxt "Plugin|"
+msgid "Default qutIM implementation of the information window"
+msgstr "Standardmodul für das Informationsfenster eines Kontakts"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:19
+msgctxt "Plugin|"
+msgid "Mobile about dialog"
+msgstr "Mobile about dialog"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:20
+msgctxt "Plugin|"
+msgid "Mobile dialog about qutIM and it's authors"
+msgstr "\"Über\"-Dialog für mobile Systeme"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:21
+msgctxt "Plugin|"
+msgid "Mobile information window about a contact"
+msgstr "Mobile information window about a contact"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:22
+msgctxt "Plugin|"
+msgid "qutIM implementation of the information window for mobiles"
+msgstr "Modul für das Informationsfenster eines Kontakts für Mobilgeräte"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:23
+msgctxt "Plugin|"
+msgid "Classic"
+msgstr "Classic"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:24
+msgctxt "Plugin|"
+msgid "Default qutIM chatform implementation for adiumchat"
+msgstr "Standardmodul des Nachrichtenfensters für Adiumchat"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:25
+msgctxt "Plugin|"
+msgid "Mobile"
+msgstr "Mobile"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:26
+msgctxt "Plugin|"
+msgid "Stacked chatform for mobile devices"
+msgstr "Gestapaltes Nachrichtenfenster für Mobilgeräte"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:27
+msgctxt "Plugin|"
+msgid "Text view"
+msgstr "Text view"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:28
+msgctxt "Plugin|"
+msgid "Fast and light chat view"
+msgstr "Schnelle und einfache Ansicht für das Nachrichtenfenster"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:29
+#: ../../../core/__data_from_cmakelists_txt.cpp:31
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:83
+msgctxt "Plugin|"
+msgid "Webkit chat layer"
+msgstr "Webkit chat layer"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:30
+#: ../../../core/__data_from_cmakelists_txt.cpp:32
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:84
+msgctxt "Plugin|"
+msgid "Default qutIM chat implementation, based on Adium chat styles"
+msgstr "Standardmodul für die Chatansicht, basierend auf Adium-Chatstyles"
+
 #: ../../../core/__data_from_cmakelists_txt.cpp:33
 #, fuzzy
 msgctxt "Plugin|"
@@ -2081,8 +2187,6 @@ msgstr ""
 "#-#-#-#-#  de.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "File transfer settings"
 
-#: ../../../core/__data_from_cmakelists_txt.cpp:12
-#: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:37
 #: ../../../core/__data_from_cmakelists_txt.cpp:34
 #, fuzzy
 msgctxt "Plugin|"
@@ -2184,100 +2288,6 @@ msgctxt "Plugin|"
 msgid "Simple password dialog"
 msgstr "Simple password dialog"
 
-#: ../../../core/__data_from_cmakelists_txt.cpp:13
-msgctxt "Plugin|"
-msgid "Mirgation 0.2 to 0.3"
-msgstr "Mirgation 0.2 to 0.3"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:14
-msgctxt "Plugin|"
-msgid "Module for migration from 0.2 to 0.3"
-msgstr "Migrationsmodul von qutIM 0.2 nach 0.3"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:15
-msgctxt "Plugin|"
-msgid "Simple conference join dialog"
-msgstr "Simple conference join dialog"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:16
-msgctxt "Plugin|"
-msgid "Conference join dialog adopted for Desktop systems"
-msgstr "Dialog zum Betreten von Chaträumen für Desktop-Rechner"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:17
-msgctxt "Plugin|"
-msgid "Simple information window about a contact"
-msgstr "Simple information window about a contact"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:18
-msgctxt "Plugin|"
-msgid "Default qutIM implementation of the information window"
-msgstr "Standardmodul für das Informationsfenster eines Kontakts"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:19
-msgctxt "Plugin|"
-msgid "Mobile about dialog"
-msgstr "Mobile about dialog"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:20
-msgctxt "Plugin|"
-msgid "Mobile dialog about qutIM and it's authors"
-msgstr "\"Über\"-Dialog für mobile Systeme"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:21
-msgctxt "Plugin|"
-msgid "Mobile information window about a contact"
-msgstr "Mobile information window about a contact"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:22
-msgctxt "Plugin|"
-msgid "qutIM implementation of the information window for mobiles"
-msgstr "Modul für das Informationsfenster eines Kontakts für Mobilgeräte"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:23
-msgctxt "Plugin|"
-msgid "Classic"
-msgstr "Classic"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:24
-msgctxt "Plugin|"
-msgid "Default qutIM chatform implementation for adiumchat"
-msgstr "Standardmodul des Nachrichtenfensters für Adiumchat"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:25
-msgctxt "Plugin|"
-msgid "Mobile"
-msgstr "Mobile"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:26
-msgctxt "Plugin|"
-msgid "Stacked chatform for mobile devices"
-msgstr "Gestapaltes Nachrichtenfenster für Mobilgeräte"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:27
-msgctxt "Plugin|"
-msgid "Text view"
-msgstr "Text view"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:28
-msgctxt "Plugin|"
-msgid "Fast and light chat view"
-msgstr "Schnelle und einfache Ansicht für das Nachrichtenfenster"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:29
-#: ../../../core/__data_from_cmakelists_txt.cpp:31
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:83
-msgctxt "Plugin|"
-msgid "Webkit chat layer"
-msgstr "Webkit chat layer"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:30
-#: ../../../core/__data_from_cmakelists_txt.cpp:32
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:84
-msgctxt "Plugin|"
-msgid "Default qutIM chat implementation, based on Adium chat styles"
-msgstr "Standardmodul für die Chatansicht, basierend auf Adium-Chatstyles"
-
 #: ../../../core/__data_from_cmakelists_txt.cpp:54
 msgctxt "Plugin|"
 msgid "Default qutIM password dialog"
@@ -2358,9 +2368,10 @@ msgid "Separated contacts model"
 msgstr "Separated contacts model"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:72
+#, fuzzy
 msgctxt "Plugin|"
-msgid "Simple separated contactlist model"
-msgstr "Einfache, getrennte Kontaktliste"
+msgid "Contact list model, which show accounts, tags and contacts"
+msgstr "Accounts, Tags und Kontakte"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:73
 msgctxt "Plugin|"
@@ -2369,22 +2380,24 @@ msgstr "Tree contacts model"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:74
 msgctxt "Plugin|"
-msgid "Simple contactlist model"
-msgstr "Einfache Baum-Kontaktliste"
+msgid "Contact list model, which show tags and contacts"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:75
+#, fuzzy
 msgctxt "Plugin|"
-msgid "Plain contacts model"
+msgid "Plain list contacts model"
 msgstr "Plain contacts model"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:76
 msgctxt "Plugin|"
-msgid "Simple plain contactlist model"
-msgstr "Einfache Flache Kontaktliste"
+msgid "Contact list model, which shows only contacts"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:77
+#, fuzzy
 msgctxt "Plugin|"
-msgid "Simple ContactList"
+msgid "Simple contact list"
 msgstr "Simple ContactList"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:78
@@ -2393,16 +2406,16 @@ msgid "Default qutIM contact list implementation. Just simple"
 msgstr "Standardmodul für die Kontaktliste. Einfach und schlicht."
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:79
-#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:91
+#, fuzzy
 msgctxt "Plugin|"
-msgid "ContactDelegate"
+msgid "Contact delegate"
 msgstr "ContactDelegate"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:80
-#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:92
+#, fuzzy
 msgctxt "Plugin|"
-msgid "Just simple"
-msgstr "Einfach und schlicht"
+msgid "Default contact delegate. Just simple"
+msgstr "Standardmodul für die Kontaktliste. Einfach und schlicht."
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:81
 msgctxt "Plugin|"
@@ -2683,6 +2696,16 @@ msgstr "Mobile Search Form"
 msgctxt "Plugin|"
 msgid "Search form optimized for Mobile systems"
 msgstr "Suchfenster für mobile Systeme"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:91
+msgctxt "Plugin|"
+msgid "ContactDelegate"
+msgstr "ContactDelegate"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:92
+msgctxt "Plugin|"
+msgid "Just simple"
+msgstr "Einfach und schlicht"
 
 #: ../../../core/src/corelayers/trayicon/simpletray.cpp:143
 msgctxt "Plugin|"
@@ -3668,3 +3691,18 @@ msgstr "Speichern"
 msgctxt "userInformationClass|"
 msgid "Close"
 msgstr "Schließen"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Simple separated contact list model"
+#~ msgstr "Einfache, getrennte Kontaktliste"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Simple tree contact list model"
+#~ msgstr "Einfache Baum-Kontaktliste"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Simple plain contact list model"
+#~ msgstr "Einfache Flache Kontaktliste"

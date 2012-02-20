@@ -17,7 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-02-20 06:08+0000\n"
 "X-Generator: Launchpad (build 14833)\n"
-"Language: uk\n"
 
 #: ../../../plugins/antispam/src/antispamplugin.cpp:44
 msgctxt "Antispam|"

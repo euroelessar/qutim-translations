@@ -12,7 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-02-20 06:12+0000\n"
 "X-Generator: Launchpad (build 14833)\n"
-"Language: \n"
 
 #: ../../../plugins/qrcicons/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"

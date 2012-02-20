@@ -2321,7 +2321,7 @@ msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:72
 msgctxt "Plugin|"
-msgid "Simple separated contactlist model"
+msgid "Contact list model, which show accounts, tags and contacts"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:73
@@ -2331,22 +2331,22 @@ msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:74
 msgctxt "Plugin|"
-msgid "Simple contactlist model"
+msgid "Contact list model, which show tags and contacts"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:75
 msgctxt "Plugin|"
-msgid "Plain contacts model"
+msgid "Plain list contacts model"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:76
 msgctxt "Plugin|"
-msgid "Simple plain contactlist model"
+msgid "Contact list model, which shows only contacts"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:77
 msgctxt "Plugin|"
-msgid "Simple ContactList"
+msgid "Simple contact list"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:78
@@ -2355,15 +2355,13 @@ msgid "Default qutIM contact list implementation. Just simple"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:79
-#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:91
 msgctxt "Plugin|"
-msgid "ContactDelegate"
+msgid "Contact delegate"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:80
-#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:92
 msgctxt "Plugin|"
-msgid "Just simple"
+msgid "Default contact delegate. Just simple"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:81
@@ -2638,6 +2636,16 @@ msgstr ""
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:49
 msgctxt "Plugin|"
 msgid "Search form optimized for Mobile systems"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:91
+msgctxt "Plugin|"
+msgid "ContactDelegate"
+msgstr ""
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:92
+msgctxt "Plugin|"
+msgid "Just simple"
 msgstr ""
 
 #: ../../../core/src/corelayers/trayicon/simpletray.cpp:143

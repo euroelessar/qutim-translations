@@ -2372,9 +2372,10 @@ msgid "Separated contacts model"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:72
+#, fuzzy
 msgctxt "Plugin|"
-msgid "Simple separated contactlist model"
-msgstr ""
+msgid "Contact list model, which show accounts, tags and contacts"
+msgstr "Да се показват сметките, етикетите и контактите"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:73
 msgctxt "Plugin|"
@@ -2383,23 +2384,24 @@ msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:74
 msgctxt "Plugin|"
-msgid "Simple contactlist model"
+msgid "Contact list model, which show tags and contacts"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:75
 msgctxt "Plugin|"
-msgid "Plain contacts model"
+msgid "Plain list contacts model"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:76
 msgctxt "Plugin|"
-msgid "Simple plain contactlist model"
+msgid "Contact list model, which shows only contacts"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:77
+#, fuzzy
 msgctxt "Plugin|"
-msgid "Simple ContactList"
-msgstr ""
+msgid "Simple contact list"
+msgstr "Обикновени Мета-контакти"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:78
 msgctxt "Plugin|"
@@ -2407,16 +2409,15 @@ msgid "Default qutIM contact list implementation. Just simple"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:79
-#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:91
+#, fuzzy
 msgctxt "Plugin|"
-msgid "ContactDelegate"
+msgid "Contact delegate"
 msgstr "Изглед на контактите"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:80
-#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:92
 msgctxt "Plugin|"
-msgid "Just simple"
-msgstr "Обикновен"
+msgid "Default contact delegate. Just simple"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:81
 msgctxt "Plugin|"
@@ -2694,6 +2695,16 @@ msgid "Search form optimized for Mobile systems"
 msgstr ""
 "Подразбиращ се за qutIM формуляр за търсене, оптимизиран за мобилни "
 "устройства"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:91
+msgctxt "Plugin|"
+msgid "ContactDelegate"
+msgstr "Изглед на контактите"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:92
+msgctxt "Plugin|"
+msgid "Just simple"
+msgstr "Обикновен"
 
 #: ../../../core/src/corelayers/trayicon/simpletray.cpp:143
 msgctxt "Plugin|"
@@ -3677,3 +3688,13 @@ msgstr "Запис"
 msgctxt "userInformationClass|"
 msgid "Close"
 msgstr "Затваряне"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Simple tree contact list model"
+#~ msgstr "Обикновени Мета-контакти"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Simple plain contact list model"
+#~ msgstr "Обикновени Мета-контакти"

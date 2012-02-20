@@ -2077,6 +2077,113 @@ msgstr "Движок звуковых тем в qutIM по умолчанию"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:11
 #: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:36
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Authorization dialog"
+msgstr "Ошибка авторизации"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:12
+#: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:37
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Simple authorization dialog"
+msgstr "Простой диалог настроек"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:13
+msgctxt "Plugin|"
+msgid "Mirgation 0.2 to 0.3"
+msgstr "Миграция с 0.2 на 0.3"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:14
+msgctxt "Plugin|"
+msgid "Module for migration from 0.2 to 0.3"
+msgstr "Модуль для миграции с 0.2 на 0.3"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:15
+msgctxt "Plugin|"
+msgid "Simple conference join dialog"
+msgstr "Простой диалог входа в конференции"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:16
+msgctxt "Plugin|"
+msgid "Conference join dialog adopted for Desktop systems"
+msgstr "Диалог входа в конференции, адаптированный для десктопов"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:17
+msgctxt "Plugin|"
+msgid "Simple information window about a contact"
+msgstr "Простое информационное окошко про контакт"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:18
+msgctxt "Plugin|"
+msgid "Default qutIM implementation of the information window"
+msgstr "Реализация информационных окошек в qutIM по умолчанию"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:19
+msgctxt "Plugin|"
+msgid "Mobile about dialog"
+msgstr "Мобильный диалог \"О программе\""
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:20
+msgctxt "Plugin|"
+msgid "Mobile dialog about qutIM and it's authors"
+msgstr "Мобильный диалог про qutIM и его авторов"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:21
+msgctxt "Plugin|"
+msgid "Mobile information window about a contact"
+msgstr "Мобильное информационное окошко про контакт"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:22
+msgctxt "Plugin|"
+msgid "qutIM implementation of the information window for mobiles"
+msgstr "Реализация информационных окошек для мобильников"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:23
+msgctxt "Plugin|"
+msgid "Classic"
+msgstr "Классическая форма чата"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:24
+msgctxt "Plugin|"
+msgid "Default qutIM chatform implementation for adiumchat"
+msgstr ""
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:25
+msgctxt "Plugin|"
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:26
+msgctxt "Plugin|"
+msgid "Stacked chatform for mobile devices"
+msgstr ""
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:27
+msgctxt "Plugin|"
+msgid "Text view"
+msgstr "Текстовый чат"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:28
+msgctxt "Plugin|"
+msgid "Fast and light chat view"
+msgstr "Простой и быстрый вид чата"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:29
+#: ../../../core/__data_from_cmakelists_txt.cpp:31
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:83
+msgctxt "Plugin|"
+msgid "Webkit chat layer"
+msgstr "Модуль чата WebKit"
+
+#: ../../../core/__data_from_cmakelists_txt.cpp:30
+#: ../../../core/__data_from_cmakelists_txt.cpp:32
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:84
+msgctxt "Plugin|"
+msgid "Default qutIM chat implementation, based on Adium chat styles"
+msgstr ""
+"Модуль чата qutIM по умолчанию, основан на WebKit и темах чата для adium"
+
 #: ../../../core/__data_from_cmakelists_txt.cpp:33
 #, fuzzy
 msgctxt "Plugin|"
@@ -2087,8 +2194,6 @@ msgstr ""
 "#-#-#-#-#  ru.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Настройки файлопередачи"
 
-#: ../../../core/__data_from_cmakelists_txt.cpp:12
-#: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:37
 #: ../../../core/__data_from_cmakelists_txt.cpp:34
 #, fuzzy
 msgctxt "Plugin|"
@@ -2199,101 +2304,6 @@ msgctxt "Plugin|"
 msgid "Simple password dialog"
 msgstr "Простой диалог пароля"
 
-#: ../../../core/__data_from_cmakelists_txt.cpp:13
-msgctxt "Plugin|"
-msgid "Mirgation 0.2 to 0.3"
-msgstr "Миграция с 0.2 на 0.3"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:14
-msgctxt "Plugin|"
-msgid "Module for migration from 0.2 to 0.3"
-msgstr "Модуль для миграции с 0.2 на 0.3"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:15
-msgctxt "Plugin|"
-msgid "Simple conference join dialog"
-msgstr "Простой диалог входа в конференции"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:16
-msgctxt "Plugin|"
-msgid "Conference join dialog adopted for Desktop systems"
-msgstr "Диалог входа в конференции, адаптированный для десктопов"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:17
-msgctxt "Plugin|"
-msgid "Simple information window about a contact"
-msgstr "Простое информационное окошко про контакт"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:18
-msgctxt "Plugin|"
-msgid "Default qutIM implementation of the information window"
-msgstr "Реализация информационных окошек в qutIM по умолчанию"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:19
-msgctxt "Plugin|"
-msgid "Mobile about dialog"
-msgstr "Мобильный диалог \"О программе\""
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:20
-msgctxt "Plugin|"
-msgid "Mobile dialog about qutIM and it's authors"
-msgstr "Мобильный диалог про qutIM и его авторов"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:21
-msgctxt "Plugin|"
-msgid "Mobile information window about a contact"
-msgstr "Мобильное информационное окошко про контакт"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:22
-msgctxt "Plugin|"
-msgid "qutIM implementation of the information window for mobiles"
-msgstr "Реализация информационных окошек для мобильников"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:23
-msgctxt "Plugin|"
-msgid "Classic"
-msgstr "Классическая форма чата"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:24
-msgctxt "Plugin|"
-msgid "Default qutIM chatform implementation for adiumchat"
-msgstr ""
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:25
-msgctxt "Plugin|"
-msgid "Mobile"
-msgstr "Мобильный"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:26
-msgctxt "Plugin|"
-msgid "Stacked chatform for mobile devices"
-msgstr ""
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:27
-msgctxt "Plugin|"
-msgid "Text view"
-msgstr "Текстовый чат"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:28
-msgctxt "Plugin|"
-msgid "Fast and light chat view"
-msgstr "Простой и быстрый вид чата"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:29
-#: ../../../core/__data_from_cmakelists_txt.cpp:31
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:83
-msgctxt "Plugin|"
-msgid "Webkit chat layer"
-msgstr "Модуль чата WebKit"
-
-#: ../../../core/__data_from_cmakelists_txt.cpp:30
-#: ../../../core/__data_from_cmakelists_txt.cpp:32
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:84
-msgctxt "Plugin|"
-msgid "Default qutIM chat implementation, based on Adium chat styles"
-msgstr ""
-"Модуль чата qutIM по умолчанию, основан на WebKit и темах чата для adium"
-
 #: ../../../core/__data_from_cmakelists_txt.cpp:54
 msgctxt "Plugin|"
 msgid "Default qutIM password dialog"
@@ -2374,9 +2384,10 @@ msgid "Separated contacts model"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:72
+#, fuzzy
 msgctxt "Plugin|"
-msgid "Simple separated contactlist model"
-msgstr ""
+msgid "Contact list model, which show accounts, tags and contacts"
+msgstr "Отображать учетные записи, метки и контакты"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:73
 msgctxt "Plugin|"
@@ -2385,23 +2396,24 @@ msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:74
 msgctxt "Plugin|"
-msgid "Simple contactlist model"
+msgid "Contact list model, which show tags and contacts"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:75
 msgctxt "Plugin|"
-msgid "Plain contacts model"
+msgid "Plain list contacts model"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:76
 msgctxt "Plugin|"
-msgid "Simple plain contactlist model"
+msgid "Contact list model, which shows only contacts"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:77
+#, fuzzy
 msgctxt "Plugin|"
-msgid "Simple ContactList"
-msgstr ""
+msgid "Simple contact list"
+msgstr "Простые метаконтакты"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:78
 msgctxt "Plugin|"
@@ -2409,16 +2421,15 @@ msgid "Default qutIM contact list implementation. Just simple"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:79
-#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:91
+#, fuzzy
 msgctxt "Plugin|"
-msgid "ContactDelegate"
+msgid "Contact delegate"
 msgstr "Отрисовщик контактов"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:80
-#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:92
 msgctxt "Plugin|"
-msgid "Just simple"
-msgstr "Просто просто :-D"
+msgid "Default contact delegate. Just simple"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:81
 msgctxt "Plugin|"
@@ -2693,6 +2704,16 @@ msgstr "Окно поиска для мобильных устройств"
 msgctxt "Plugin|"
 msgid "Search form optimized for Mobile systems"
 msgstr "Окно поиска для мобильных систем"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:91
+msgctxt "Plugin|"
+msgid "ContactDelegate"
+msgstr "Отрисовщик контактов"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:92
+msgctxt "Plugin|"
+msgid "Just simple"
+msgstr "Просто просто :-D"
 
 #: ../../../core/src/corelayers/trayicon/simpletray.cpp:143
 msgctxt "Plugin|"
@@ -3686,3 +3707,18 @@ msgstr "Сохранить"
 msgctxt "userInformationClass|"
 msgid "Close"
 msgstr "Закрыть"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Simple separated contact list model"
+#~ msgstr "Простой диалог добавления контактов"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Simple tree contact list model"
+#~ msgstr "Простой диалог добавления контактов"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Simple plain contact list model"
+#~ msgstr "Простой диалог добавления контактов"
