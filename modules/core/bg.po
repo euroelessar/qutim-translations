@@ -2572,54 +2572,56 @@ msgstr "Диалогов прозорец, съдържащ информация
 #: ../../../core/__data_from_cmakelists_txt.cpp:107
 msgctxt "Plugin|"
 msgid "Data forms backend"
-msgstr ""
+msgstr "Поддъжка на формуляри за данни"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:108
 msgctxt "Plugin|"
 msgid "Default qutIM implementation of the data forms"
-msgstr ""
+msgstr "Подразбираща се за qutIM, реализация на формуляри за данни"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:109
 msgctxt "Plugin|"
 msgid "Emoticons settings"
-msgstr ""
+msgstr "Настройки на емотикони"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:110
 msgctxt "Plugin|"
 msgid "Default settings widget set for emoticons"
-msgstr ""
+msgstr "Подразбираща се реализация на настройки на емотикони"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:111
 msgctxt "Plugin|"
 msgid "Service chooser"
-msgstr ""
+msgstr "Избор на услуги"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:112
 #: ../../../core/__data_from_cmakelists_txt.cpp:120
 #: ../../../core/__data_from_cmakelists_txt.cpp:124
 msgctxt "Plugin|"
 msgid "TODO"
-msgstr ""
+msgstr "Да направя"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:113
 msgctxt "Plugin|"
 msgid "X Settings dialog"
-msgstr ""
+msgstr "Диалогов прозорец за Х настройки"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:114
 msgctxt "Plugin|"
 msgid "Default qutIM settings dialog implementation with OS X style top bar"
 msgstr ""
+"Подразбираща се за qutIM, реализация на диалогов прозорец с горна лента в "
+"стил OS X"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:115
 msgctxt "Plugin|"
 msgid "Simple roster storage"
-msgstr ""
+msgstr "Опростенo хранилище на списъка с контакти"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:116
 msgctxt "Plugin|"
 msgid "Stores roster during offline at local storage"
-msgstr ""
+msgstr "Съхрянява локално списъка с контакти, когато не сте на линия"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:117
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:35
