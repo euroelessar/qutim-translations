@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-21 09:14+0000\n"
+"POT-Creation-Date: 2012-02-19 16:52+0000\n"
 "PO-Revision-Date: 2012-02-02 07:56+0000\n"
 "Last-Translator: Vyacheslav Sharmanov <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,8 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-03 06:28+0000\n"
-"X-Generator: Launchpad (build 14738)\n"
+"X-Launchpad-Export-Date: 2012-02-20 06:12+0000\n"
+"X-Generator: Launchpad (build 14833)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -1883,10 +1883,10 @@ msgid "Can't add this contact because it requires authorization"
 msgstr "Не могу добавить контакт, т.к. требуется авторизация"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:189
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "FeedbagError|"
 msgid "Unknown error (Code: %1)"
-msgstr "Неизвестная ошибка"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:455
 msgctxt "Gender|"
@@ -3111,10 +3111,9 @@ msgid "Other"
 msgstr "Иное"
 
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:1
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Oscar protocol"
-msgstr "Список контактов аськи"
+msgstr ""
 
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:2
 #: ../../../protocols/oscar/src/oscarplugin.cpp:54
@@ -3124,10 +3123,9 @@ msgstr "Модуль на основе протокола Oscar"
 
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:3
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:4
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Client identification of oscar contacts"
-msgstr "Идентификация аськоклиентов"
+msgstr ""
 
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"

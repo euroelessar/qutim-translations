@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-11-21 09:15+0000\n"
+"POT-Creation-Date: 2012-02-19 16:51+0000\n"
 "PO-Revision-Date: 2012-01-20 17:01+0000\n"
 "Last-Translator: mrx5682 <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
@@ -16,8 +16,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2012-01-21 06:29+0000\n"
-"X-Generator: Launchpad (build 14700)\n"
+"X-Launchpad-Export-Date: 2012-02-20 06:12+0000\n"
+"X-Generator: Launchpad (build 14833)\n"
+"Language: \n"
 
 #: ../../../plugins/winintegration/src/winint.cpp:63
 msgctxt "Author|"
@@ -48,21 +49,16 @@ msgid "Windows Integration"
 msgstr "Windows Integration"
 
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:2
-#, fuzzy
 msgctxt "Plugin|"
 msgid ""
 "Adds count of unread messages as an icon to taskbar button of qutim, along "
 "with some commands list."
 msgstr ""
-"Adds count of unread messages as an icon to taskbar button of qutim, along "
-"with some commands list and provides a bit more usable notification area "
-"icon than default plugin."
 
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:3
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Windows Integration: Taskbar"
-msgstr "Windows Integration"
+msgstr ""
 
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"

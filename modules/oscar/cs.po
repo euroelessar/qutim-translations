@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-21 09:14+0000\n"
+"POT-Creation-Date: 2012-02-19 16:52+0000\n"
 "PO-Revision-Date: 2011-11-15 16:46+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,8 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:21+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-02-20 06:11+0000\n"
+"X-Generator: Launchpad (build 14833)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
@@ -1872,10 +1872,10 @@ msgid "Can't add this contact because it requires authorization"
 msgstr "Nelze přidat tento kontakt, protože je vyžadována autorizace"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:189
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "FeedbagError|"
 msgid "Unknown error (Code: %1)"
-msgstr "Neznámá chyba"
+msgstr ""
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:455
 msgctxt "Gender|"
