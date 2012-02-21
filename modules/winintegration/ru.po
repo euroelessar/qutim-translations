@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-02-19 16:51+0000\n"
-"PO-Revision-Date: 2011-11-15 16:52+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"PO-Revision-Date: 2012-02-20 20:08+0000\n"
+"Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2012-02-20 06:12+0000\n"
-"X-Generator: Launchpad (build 14833)\n"
+"X-Launchpad-Export-Date: 2012-02-21 06:31+0000\n"
+"X-Generator: Launchpad (build 14838)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -51,26 +51,28 @@ msgid ""
 "Adds count of unread messages as an icon to taskbar button of qutim, along "
 "with some commands list."
 msgstr ""
+"Добавляет количество непрочитанных сообщений на пиктограмму в таскбаре."
 
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:3
 msgctxt "Plugin|"
 msgid "Windows Integration: Taskbar"
-msgstr ""
+msgstr "Интеграция с Windows: Таскбар"
 
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
 msgid "Adds count of unread messages as an icon to taskbar button of qutIM."
 msgstr ""
+"Добавляет счётчик непрочитанных сообщений на пиктограмму qutIM в таскбаре"
 
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"
 msgid "Seven"
-msgstr ""
+msgstr "Семь"
 
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:6
 msgctxt "Plugin|"
 msgid "Windows seven specific implementation with button's in caption"
-msgstr ""
+msgstr "Специфичная реализация кнопки в заголовки для Windows."
 
 #: ../../../plugins/winintegration/src/winint.cpp:67
 msgctxt "Plugin|"

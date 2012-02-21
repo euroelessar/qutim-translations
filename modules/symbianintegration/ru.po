@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-02-19 16:53+0000\n"
-"PO-Revision-Date: 2012-02-13 03:55+0000\n"
-"Last-Translator: Vyacheslav Sharmanov <Unknown>\n"
+"PO-Revision-Date: 2012-02-20 20:24+0000\n"
+"Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-20 06:12+0000\n"
-"X-Generator: Launchpad (build 14833)\n"
+"X-Launchpad-Export-Date: 2012-02-21 06:31+0000\n"
+"X-Generator: Launchpad (build 14838)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -62,7 +62,7 @@ msgstr "Действия"
 #: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"
 msgid "Symbian"
-msgstr ""
+msgstr "Symbian"
 
 #: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
@@ -72,17 +72,17 @@ msgstr ""
 #: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:3
 msgctxt "Plugin|"
 msgid "Symbian Vibration Support"
-msgstr ""
+msgstr "Поддержка вибрации в Symbian"
 
 #: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
 msgid "Notifies about different events by vibration of your mobile device"
-msgstr ""
+msgstr "Уведомления при помощи вибрации в вашем мобильном телефоне"
 
 #: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:6
 msgctxt "Plugin|"
 msgid "Symbian specific qutIM contactlist widget implementation"
-msgstr ""
+msgstr "Специфичная для Symbian реализация списка контактов"
 
 #: ../../../plugins/symbianintegration/symbianchatform/stackedchatform.cpp:47
 msgctxt "Settings|"

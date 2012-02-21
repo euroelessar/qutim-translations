@@ -7,16 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-02-19 16:54+0000\n"
-"PO-Revision-Date: 2012-01-22 18:44+0000\n"
+"POT-Creation-Date: 2012-02-20 11:31+0000\n"
+"PO-Revision-Date: 2012-02-20 14:33+0000\n"
 "Last-Translator: Maxim <kontact.cat@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-20 06:10+0000\n"
-"X-Generator: Launchpad (build 14833)\n"
+"X-Launchpad-Export-Date: 2012-02-21 06:31+0000\n"
+"X-Generator: Launchpad (build 14838)\n"
+"Language: uk\n"
 
 #: ../../../core/libqutim/account.cpp:145
 msgctxt "Account|"
@@ -2380,10 +2381,9 @@ msgid "Separated contacts model"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:72
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Contact list model, which show accounts, tags and contacts"
-msgstr "Показати облікові записи, мітки і контакти"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:73
 msgctxt "Plugin|"
@@ -2420,10 +2420,9 @@ msgid "Default qutIM contact list implementation. Just simple"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:79
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Contact delegate"
-msgstr "Список контактів"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:80
 msgctxt "Plugin|"

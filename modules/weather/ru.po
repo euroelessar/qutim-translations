@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-02-19 18:12+0000\n"
-"PO-Revision-Date: 2012-02-19 19:08+0000\n"
-"Last-Translator: Vyacheslav Sharmanov <Unknown>\n"
+"PO-Revision-Date: 2012-02-20 20:20+0000\n"
+"Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-20 06:12+0000\n"
-"X-Generator: Launchpad (build 14833)\n"
+"X-Launchpad-Export-Date: 2012-02-21 06:31+0000\n"
+"X-Generator: Launchpad (build 14838)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -41,7 +41,7 @@ msgstr "Разработчик"
 #, qt-format
 msgctxt "WAccount|"
 msgid "Weather: %1Â°%2"
-msgstr "Погода: %1Â°%2"
+msgstr "Погода: %1°%2"
 
 #: ../../../plugins/weather/src/wlistitem.cpp:41
 msgctxt "WListItem|"
@@ -231,7 +231,7 @@ msgstr "С %nighttime/windDirectionText% до %nighttime/windSpeed% %units/speed
 #: ../../../plugins/weather/__template_from_weather.cpp:6
 msgctxt "Weather|"
 msgid "From %winddirection% at %windspeed% %units/speed%"
-msgstr ""
+msgstr "С %winddirection% на скорости %windspeed% %units/speed%"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:7
 msgctxt "Weather|"
@@ -256,7 +256,7 @@ msgstr "Ночь"
 #: ../../../plugins/weather/__template_from_weather.cpp:11
 msgctxt "Weather|"
 msgid "Overnight Low"
-msgstr ""
+msgstr "Наиболее низкая температура за ночь"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:12
 msgctxt "Weather|"
