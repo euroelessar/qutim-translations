@@ -21,27 +21,27 @@ msgctxt "AutoAway|"
 msgid "Auto-away"
 msgstr "Автоматично отсъствие"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:116
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:117
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Accounts"
 msgstr "Сметки"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:117
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:118
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Chats"
 msgstr "Разговори"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:119
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:120
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Set Status Text"
 msgstr "Задаване текст на статуса"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:266
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:267
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "File"
 msgstr "Файл"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:267
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:268
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Roster"
 msgstr "Списък с контакти"

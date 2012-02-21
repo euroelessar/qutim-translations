@@ -11,14 +11,14 @@ msgstr ""
 "PO-Revision-Date: 2012-02-20 14:33+0000\n"
 "Last-Translator: Anthony Harrington <untaintableangel@hotmail.co.uk>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
+"Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-02-21 06:31+0000\n"
 "X-Generator: Launchpad (build 14838)\n"
-"Language: \n"
 
-#: ../../../core/libqutim/account.cpp:145
+#: ../../../core/libqutim/account.cpp:144
 msgctxt "Account|"
 msgid "Authorization failed"
 msgstr "Authorisation failed"
@@ -143,10 +143,10 @@ msgstr "TextLabel"
 #: ../../../core/src/corelayers/authdialog/authdialog.ui:33
 msgctxt "AuthDialog|"
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
-"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-"type=\"text/css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
 "weight:400; font-style:normal;\">\n"
@@ -154,10 +154,10 @@ msgid ""
 "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
 "family:'Droid Sans';\"></p></body></html>"
 msgstr ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
-"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-"type=\"text/css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
 "p, li {white-space: pre-wrap;}\n"
 "</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
 "weight:400; font-style:normal;\">\n"
@@ -956,42 +956,42 @@ msgctxt "Core::PListConfigBackend|"
 msgid "Cannot write to file %1"
 msgstr "Cannot write to file %1"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:127
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:125
 msgctxt "Core::PluginChooserWidget|"
 msgid "To take effect you must restart qutIM"
 msgstr "To take effect you must restart qutIM"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:143
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:141
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Name: </b> %1 <br />"
 msgstr "<b>Name: </b> %1 <br />"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:144
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:142
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Description: </b> %1 <br />"
 msgstr "<b>Description: </b> %1 <br />"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:149
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:147
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Name:</b> %1<br/>"
 msgstr "<b>Name:</b> %1<br/>"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:151
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:149
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Task:</b> %1<br/>"
 msgstr "<b>Task:</b> %1<br/>"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:151
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
 msgstr "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:155
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
@@ -1184,13 +1184,13 @@ msgctxt "Core::SimpleAboutDialog|"
 msgid ""
 "<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 2 "
 "or (at your option) any later version.</div><div>qutIM resources such as "
-"themes, icons, sounds may come along with a different "
-"license.</div><br><hr><br>"
+"themes, icons, sounds may come along with a different license.</"
+"div><br><hr><br>"
 msgstr ""
 "<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 2 "
 "or (at your option) any later version.</div><div>qutIM resources such as "
-"themes, icons, sounds may be come along with a different "
-"license.</div><br><hr><br>"
+"themes, icons, sounds may be come along with a different license.</"
+"div><br><hr><br>"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:192
 #, qt-format
@@ -1230,25 +1230,25 @@ msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Without tags"
 msgstr "Without tags"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:494
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:497
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
 msgstr "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:500
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:503
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge metacontacts \"%1\" and \"%2\"?"
 msgstr "Would you like to merge metacontacts \"%1\" and \"%2\"?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:503
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:506
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to add \"%1\" <%2> to metacontact \"%3\"?"
 msgstr "Would you like to add \"%1\" <%2> to metacontact \"%3\"?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:510
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:513
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Contacts' merging"
 msgstr "Contacts' merging"
@@ -3600,7 +3600,7 @@ msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Input/output error"
 msgstr "Input/output error"
 
-#: ../../../core/libqutim/modulemanager.cpp:418
+#: ../../../core/libqutim/modulemanager.cpp:417
 #, qt-format
 msgctxt "qutim_sdk_0_3::ModuleManager|"
 msgid ""
@@ -3639,9 +3639,9 @@ msgstr "Play sound"
 #, qt-format
 msgctxt "qutim_sdk_0_3::StatisticsHelper|"
 msgid ""
-"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br "
-"/><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br "
-"/><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
+"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br /"
+"><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br /"
+"><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
 msgstr ""
 "<b>Short:</b> %1 <br/><b>Version:</b> %2 <br/><Full:</b> %3 <br /><b>qutIM "
 "Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br /><b>Screen "

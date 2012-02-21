@@ -17,7 +17,7 @@ msgstr ""
 "X-Source-Language: C\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../../core/libqutim/account.cpp:145
+#: ../../../core/libqutim/account.cpp:144
 msgctxt "Account|"
 msgid "Authorization failed"
 msgstr "Неуспешно удостоверяване"
@@ -959,42 +959,42 @@ msgctxt "Core::PListConfigBackend|"
 msgid "Cannot write to file %1"
 msgstr "Невъзможен е записът във файла %1"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:127
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:125
 msgctxt "Core::PluginChooserWidget|"
 msgid "To take effect you must restart qutIM"
 msgstr "За да влязат в сила промените, qutIM трябва да бъде рестартиран"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:143
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:141
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Name: </b> %1 <br />"
 msgstr "<b>Наименование: </b> %1 <br />"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:144
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:142
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Description: </b> %1 <br />"
 msgstr "<b>Описание: </b> %1 <br />"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:149
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:147
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Name:</b> %1<br/>"
 msgstr "<b>Име:</b> %1<br/>"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:151
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:149
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Task:</b> %1<br/>"
 msgstr "<b>Задача:</b> %1<br/>"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:151
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
 msgstr "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:155
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
@@ -1233,25 +1233,25 @@ msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Without tags"
 msgstr "Без етикети"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:494
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:497
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
 msgstr "Желаете ли да обедините контактите \"%1\" <%2> и \"%3\" <%4>?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:500
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:503
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge metacontacts \"%1\" and \"%2\"?"
 msgstr "Желаете ли да обедините мета-контактите \"%1\" и \"%2\"?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:503
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:506
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to add \"%1\" <%2> to metacontact \"%3\"?"
 msgstr "Желаете ли да добавите \"%1\" <%2> към мета-контакта \"%3\"?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:510
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:513
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Contacts' merging"
 msgstr "Обединяване на контакти"
@@ -3633,7 +3633,7 @@ msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Input/output error"
 msgstr "Входно/Изходна грешка"
 
-#: ../../../core/libqutim/modulemanager.cpp:418
+#: ../../../core/libqutim/modulemanager.cpp:417
 #, qt-format
 msgctxt "qutim_sdk_0_3::ModuleManager|"
 msgid ""

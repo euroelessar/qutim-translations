@@ -21,7 +21,7 @@ msgstr ""
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
 
-#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:86
+#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:85
 msgctxt "ContactList|"
 msgid "qutIM 0.2 style"
 msgstr "qutIM 0.2"
@@ -92,13 +92,13 @@ msgid "Avatar icon size:"
 msgstr "Avatarbildgröße"
 
 #: ../../../plugins/oldcontactdelegate/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:64
+#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:63
 msgctxt "Plugin|"
 msgid "Old contact delegate"
 msgstr "Old contact delegate"
 
 #: ../../../plugins/oldcontactdelegate/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:65
+#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:64
 msgctxt "Plugin|"
 msgid "Port of contact list delegate from 0.2"
 msgstr "Portierung der alten Kontaktlistenansicht von qutIM 0.2"

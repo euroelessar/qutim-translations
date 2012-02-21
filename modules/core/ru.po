@@ -6,16 +6,16 @@ msgstr ""
 "PO-Revision-Date: 2012-02-20 19:43+0000\n"
 "Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-02-21 06:30+0000\n"
 "X-Generator: Launchpad (build 14838)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
 "X-Language: ru\n"
 
-#: ../../../core/libqutim/account.cpp:145
+#: ../../../core/libqutim/account.cpp:144
 msgctxt "Account|"
 msgid "Authorization failed"
 msgstr "Ошибка авторизации"
@@ -140,10 +140,10 @@ msgstr "Поле текста"
 #: ../../../core/src/corelayers/authdialog/authdialog.ui:33
 msgctxt "AuthDialog|"
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
-"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-"type=\"text/css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
 "weight:400; font-style:normal;\">\n"
@@ -151,10 +151,10 @@ msgid ""
 "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
 "family:'Droid Sans';\"></p></body></html>"
 msgstr ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
-"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-"type=\"text/css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
 "weight:400; font-style:normal;\">\n"
@@ -956,43 +956,42 @@ msgctxt "Core::PListConfigBackend|"
 msgid "Cannot write to file %1"
 msgstr "Невозможно записать в файл %1"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:127
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:125
 msgctxt "Core::PluginChooserWidget|"
 msgid "To take effect you must restart qutIM"
 msgstr "Требуется перезапуск qutIM"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:143
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:141
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Name: </b> %1 <br />"
 msgstr "<b>Имя: </b> %1 <br />"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:144
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:142
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Description: </b> %1 <br />"
 msgstr "<b>Описание: </b> %1 <br />"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:149
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:147
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Name:</b> %1<br/>"
 msgstr "<b>Имя:</b> %1<br/>"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:151
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:149
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Task:</b> %1<br/>"
 msgstr "<b>Роль:</b> %1<br/>"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:151
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
-msgstr ""
-"<b>Email:</b> <a href=\"mailto:%1\" title=\"Электропочта\">%1</a><br/>"
+msgstr "<b>Email:</b> <a href=\"mailto:%1\" title=\"Электропочта\">%1</a><br/>"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:155
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
@@ -1149,8 +1148,7 @@ msgstr "<b>Роль:</b> %1</br>"
 #, qt-format
 msgctxt "Core::ServiceChooser|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
-msgstr ""
-"<b>Email:</b> <a href=\"mailto:%1\" title=\"Электропочта\">%1</a></br>"
+msgstr "<b>Email:</b> <a href=\"mailto:%1\" title=\"Электропочта\">%1</a></br>"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:66
 #, qt-format
@@ -1186,13 +1184,13 @@ msgctxt "Core::SimpleAboutDialog|"
 msgid ""
 "<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 2 "
 "or (at your option) any later version.</div><div>qutIM resources such as "
-"themes, icons, sounds may come along with a different "
-"license.</div><br><hr><br>"
+"themes, icons, sounds may come along with a different license.</"
+"div><br><hr><br>"
 msgstr ""
 "<div><b>qutIM</b> %1 лицензирован под GNU General Public License, версии 2 "
 "или (по вашему желанию) любой поздней версией.</div><div>Ресурсы qutIM, "
-"такие как темы, пиктограммы, звуки могут поставляться с другой "
-"лицензией.</div><br><hr><br>"
+"такие как темы, пиктограммы, звуки могут поставляться с другой лицензией.</"
+"div><br><hr><br>"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:192
 #, qt-format
@@ -1232,25 +1230,25 @@ msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Without tags"
 msgstr "Без меток"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:494
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:497
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
 msgstr "Желаете объединить контакты \"%1\" <%2> И \"%3\" <%4>?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:500
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:503
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge metacontacts \"%1\" and \"%2\"?"
 msgstr "Желаете объединить метаконтакты \"%1\" И \"%2\"?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:503
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:506
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to add \"%1\" <%2> to metacontact \"%3\"?"
 msgstr "Желаете добавить \"%1\" <%2> в метаконтакт \"%3\"?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:510
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:513
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Contacts' merging"
 msgstr "Слияние контактов"
@@ -3627,7 +3625,7 @@ msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Input/output error"
 msgstr "Ошибка ввода/вывода"
 
-#: ../../../core/libqutim/modulemanager.cpp:418
+#: ../../../core/libqutim/modulemanager.cpp:417
 #, qt-format
 msgctxt "qutim_sdk_0_3::ModuleManager|"
 msgid ""
@@ -3666,13 +3664,13 @@ msgstr "Проиграть звук"
 #, qt-format
 msgctxt "qutim_sdk_0_3::StatisticsHelper|"
 msgid ""
-"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br "
-"/><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br "
-"/><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
+"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br /"
+"><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br /"
+"><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
 msgstr ""
-"<b>Кратко:</b> %1 <br /><b>Версия:</b> %2 <br /><b>Полностью:</b> %3 <br "
-"/><b>Версия qutIM:</b> %4 <br /><b>Версия библиотеки Qt:</b> %5 (%6 бит) <br "
-"/><b>Разрешение экрана:</b> %7 x %8 <br /><b>Системная локаль:</b> %9<br />"
+"<b>Кратко:</b> %1 <br /><b>Версия:</b> %2 <br /><b>Полностью:</b> %3 <br /"
+"><b>Версия qutIM:</b> %4 <br /><b>Версия библиотеки Qt:</b> %5 (%6 бит) <br /"
+"><b>Разрешение экрана:</b> %7 x %8 <br /><b>Системная локаль:</b> %9<br />"
 
 #: ../../../core/src/corelayers/contactinfo/userinformation.ui:14
 msgctxt "userInformationClass|"
