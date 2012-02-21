@@ -331,10 +331,7 @@ msgstr "Настройки учетной записи"
 #, fuzzy
 msgctxt "MeegoIntegration::AccountCreatorList|"
 msgid "Remove account"
-msgstr ""
-"#-#-#-#-#  ru.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Удалить учетную запись\n"
-"#-#-#-#-#  ru.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "Удалить учетную запись"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:194
 #, qt-format
