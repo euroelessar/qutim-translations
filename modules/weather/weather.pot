@@ -30,7 +30,7 @@ msgstr ""
 #: ../../../plugins/weather/src/waccount.cpp:161
 #, qt-format
 msgctxt "WAccount|"
-msgid "Weather: %1Â°%2"
+msgid "Weather: %1°%2"
 msgstr ""
 
 #: ../../../plugins/weather/src/wlistitem.cpp:41

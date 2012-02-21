@@ -6,7 +6,7 @@ msgstr ""
 "PO-Revision-Date: 2012-02-01 20:45+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -40,9 +40,9 @@ msgid "Developer"
 msgstr "Разработчик"
 
 #: ../../../plugins/weather/src/waccount.cpp:161
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "WAccount|"
-msgid "Weather: %1Â°%2"
+msgid "Weather: %1°%2"
 msgstr "Времето: %1°%2"
 
 #: ../../../plugins/weather/src/wlistitem.cpp:41
