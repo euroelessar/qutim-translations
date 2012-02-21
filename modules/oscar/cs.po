@@ -2667,6 +2667,12 @@ msgctxt "Marital|"
 msgid "Other"
 msgstr "Jiné"
 
+#: ../../../protocols/oscar/src/privacylists.cpp:207
+#, fuzzy
+msgctxt "Menu|"
+msgid "Privacy status"
+msgstr "Nastavení soukromí"
+
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:33
 msgctxt "MetaInfo|"
 msgid "Not specified"
@@ -3254,11 +3260,6 @@ msgstr "Viditelný pouze pro seznam kontaktů"
 msgctxt "Privacy|"
 msgid "Unknown privacy"
 msgstr ""
-
-#: ../../../protocols/oscar/src/privacylists.cpp:207
-msgctxt "Privacy|"
-msgid "Privacy status"
-msgstr "Nastavení soukromí"
 
 #: ../../../protocols/oscar/src/connection.cpp:52
 msgctxt "ProtocolError|"

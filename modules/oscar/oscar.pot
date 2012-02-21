@@ -2652,6 +2652,11 @@ msgctxt "Marital|"
 msgid "Other"
 msgstr ""
 
+#: ../../../protocols/oscar/src/privacylists.cpp:207
+msgctxt "Menu|"
+msgid "Privacy status"
+msgstr ""
+
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:33
 msgctxt "MetaInfo|"
 msgid "Not specified"
@@ -3238,11 +3243,6 @@ msgstr ""
 #: ../../../protocols/oscar/src/privacylists.cpp:100
 msgctxt "Privacy|"
 msgid "Unknown privacy"
-msgstr ""
-
-#: ../../../protocols/oscar/src/privacylists.cpp:207
-msgctxt "Privacy|"
-msgid "Privacy status"
 msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:52

@@ -2686,6 +2686,12 @@ msgctxt "Marital|"
 msgid "Other"
 msgstr "Другое"
 
+#: ../../../protocols/oscar/src/privacylists.cpp:207
+#, fuzzy
+msgctxt "Menu|"
+msgid "Privacy status"
+msgstr "Приватный статус"
+
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:33
 msgctxt "MetaInfo|"
 msgid "Not specified"
@@ -3276,11 +3282,6 @@ msgstr "Видимый только для списка контактов"
 msgctxt "Privacy|"
 msgid "Unknown privacy"
 msgstr "Неизвестная конфиденциальность"
-
-#: ../../../protocols/oscar/src/privacylists.cpp:207
-msgctxt "Privacy|"
-msgid "Privacy status"
-msgstr "Приватный статус"
 
 #: ../../../protocols/oscar/src/connection.cpp:52
 msgctxt "ProtocolError|"

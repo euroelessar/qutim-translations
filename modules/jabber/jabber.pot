@@ -909,7 +909,7 @@ msgctxt "Jabber|"
 msgid "Room's configuration"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:58
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:59
 msgctxt "Jabber|"
 msgid "Service discovery"
 msgstr ""
@@ -1164,32 +1164,32 @@ msgctxt "Jabber::JRoster|"
 msgid "You have been added to the list of subscribers"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:93
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:94
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Search service"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:131
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:132
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Close"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:192
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:193
 msgctxt "Jabber::JServiceBrowser|"
 msgid "type: "
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:193
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:194
 msgctxt "Jabber::JServiceBrowser|"
 msgid "category: "
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:195
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:196
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Identities:"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:345
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:346
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Features:"
 msgstr ""
@@ -1421,6 +1421,11 @@ msgstr ""
 #: ../../../protocols/jabber/jreen/src/error.cpp:144
 msgctxt "Jreen::Error|"
 msgid "No stanza error occured. You're just sleeping."
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:50
+msgctxt "Menu|"
+msgid "Additional"
 msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:38

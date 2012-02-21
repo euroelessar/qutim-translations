@@ -2934,54 +2934,238 @@ msgctxt "SearchForm|"
 msgid "Back"
 msgstr "Zpět"
 
+#: ../../../core/__generated_from_service_names.cpp:1
+msgctxt "Service|"
+msgid "AboutDialog"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:2
+#, fuzzy
+msgctxt "Service|"
+msgid "AccountCreator"
+msgstr "Účet"
+
+#: ../../../core/__generated_from_service_names.cpp:3
 #: ../../../core/libqutim/actionbox.cpp:41
 msgctxt "Service|"
 msgid "ActionBoxModule"
 msgstr ""
 
-#: ../../../core/libqutim/settingslayer.cpp:393
+#: ../../../core/__generated_from_service_names.cpp:4
+#, fuzzy
 msgctxt "Service|"
-msgid "Settings Window"
+msgid "AddContact"
+msgstr "Přidat kontakt"
+
+#: ../../../core/__generated_from_service_names.cpp:5
+msgctxt "Service|"
+msgid "ApplicationWindow"
 msgstr ""
 
-#: ../../../core/libqutim/sound.cpp:40
+#: ../../../core/__generated_from_service_names.cpp:6
+#, fuzzy
 msgctxt "Service|"
-msgid "Popup"
-msgstr "Oznamovací okno"
+msgid "AuthorizationService"
+msgstr "Autorizace selhala"
 
-#: ../../../core/libqutim/sound.cpp:41
+#: ../../../core/__generated_from_service_names.cpp:7
+#, fuzzy
 msgctxt "Service|"
-msgid "Sound"
-msgstr "Zvuk"
+msgid "AutoAway"
+msgstr "Automaticky"
 
+#: ../../../core/__generated_from_service_names.cpp:8
+msgctxt "Service|"
+msgid "Bearer"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:9
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:48
 msgctxt "Service|"
 msgid "ChatForm"
 msgstr ""
 
+#: ../../../core/__generated_from_service_names.cpp:10
+#, fuzzy
+msgctxt "Service|"
+msgid "ChatLayer"
+msgstr "Konverzace"
+
+#: ../../../core/__generated_from_service_names.cpp:11
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:49
 msgctxt "Service|"
 msgid "ChatViewFactory"
 msgstr ""
 
+#: ../../../core/__generated_from_service_names.cpp:12
+msgctxt "Service|"
+msgid "ConferenceManager"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:13
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:80
+msgctxt "Service|"
+msgid "ContactDelegate"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:14
+#, fuzzy
+msgctxt "Service|"
+msgid "ContactInfo"
+msgstr "Kontakt"
+
+#: ../../../core/__generated_from_service_names.cpp:15
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:77
 msgctxt "Service|"
 msgid "ContactList"
 msgstr "Seznam kontaktů"
 
+#: ../../../core/__generated_from_service_names.cpp:16
+#, fuzzy
+msgctxt "Service|"
+msgid "ContactListItemDelegate"
+msgstr "Seznam kontaktů"
+
+#: ../../../core/__generated_from_service_names.cpp:17
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:78
 msgctxt "Service|"
 msgid "ContactListWidget"
 msgstr ""
 
+#: ../../../core/__generated_from_service_names.cpp:18
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:79
 msgctxt "Service|"
 msgid "ContactModel"
 msgstr ""
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:80
+#: ../../../core/__generated_from_service_names.cpp:19
 msgctxt "Service|"
-msgid "ContactDelegate"
+msgid "Core::ContactDelegate"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:20
+msgctxt "Service|"
+msgid "CrashHandler"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:21
+msgctxt "Service|"
+msgid "DataFormsBackend"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:22
+msgctxt "Service|"
+msgid "Dock"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:23
+#, fuzzy
+msgctxt "Service|"
+msgid "FileTransferManager"
+msgstr "Přenos souboru"
+
+#: ../../../core/__generated_from_service_names.cpp:24
+msgctxt "Service|"
+msgid "IconLoader"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:25
+msgctxt "Service|"
+msgid "Idle"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:26
+#, fuzzy
+msgctxt "Service|"
+msgid "JoinGroupChat"
+msgstr "Vstoupit do konference"
+
+#: ../../../core/__generated_from_service_names.cpp:27
+msgctxt "Service|"
+msgid "Led"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:28
+msgctxt "Service|"
+msgid "MetaContactManager"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:29
+#, fuzzy
+msgctxt "Service|"
+msgid "NotificationSettings"
+msgstr "Oznamování"
+
+#: ../../../core/__generated_from_service_names.cpp:30
+msgctxt "Service|"
+msgid "NowPlaying"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:31
+#: ../../../core/libqutim/sound.cpp:40
+msgctxt "Service|"
+msgid "Popup"
+msgstr "Oznamovací okno"
+
+#: ../../../core/__generated_from_service_names.cpp:32
+msgctxt "Service|"
+msgid "RosterStorage"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:33
+#, fuzzy
+msgctxt "Service|"
+msgid "Scroller"
+msgstr "Typ rolování"
+
+#: ../../../core/__generated_from_service_names.cpp:34
+#, fuzzy
+msgctxt "Service|"
+msgid "SearchForm"
+msgstr "Hledat"
+
+#: ../../../core/__generated_from_service_names.cpp:35
+#, fuzzy
+msgctxt "Service|"
+msgid "SearchLayer"
+msgstr "Hledat"
+
+#: ../../../core/__generated_from_service_names.cpp:36
+#, fuzzy
+msgctxt "Service|"
+msgid "SettingsLayer"
+msgstr "Na&stavení..."
+
+#: ../../../core/__generated_from_service_names.cpp:37
+#: ../../../core/libqutim/sound.cpp:41
+msgctxt "Service|"
+msgid "Sound"
+msgstr "Zvuk"
+
+#: ../../../core/__generated_from_service_names.cpp:38
+msgctxt "Service|"
+msgid "SpellChecker"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:39
+#, fuzzy
+msgctxt "Service|"
+msgid "TrayIcon"
+msgstr "Ikona"
+
+#: ../../../core/__generated_from_service_names.cpp:40
+msgctxt "Service|"
+msgid "Vibration"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:41
+msgctxt "Service|"
+msgid "VibrationAlert"
+msgstr ""
+
+#: ../../../core/libqutim/settingslayer.cpp:393
+msgctxt "Service|"
+msgid "Settings Window"
 msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooserwidget.ui:14

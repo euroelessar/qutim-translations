@@ -924,7 +924,7 @@ msgctxt "Jabber|"
 msgid "Room's configuration"
 msgstr "Настройки комнаты"
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:58
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:59
 msgctxt "Jabber|"
 msgid "Service discovery"
 msgstr "Обзор служб"
@@ -1180,32 +1180,32 @@ msgctxt "Jabber::JRoster|"
 msgid "You have been added to the list of subscribers"
 msgstr "Вы были добавлены в список подписчиков"
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:93
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:94
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Search service"
 msgstr "Поиск сервисов"
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:131
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:132
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Close"
 msgstr "Закрыть"
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:192
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:193
 msgctxt "Jabber::JServiceBrowser|"
 msgid "type: "
 msgstr "тип: "
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:193
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:194
 msgctxt "Jabber::JServiceBrowser|"
 msgid "category: "
 msgstr "Категория: "
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:195
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:196
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Identities:"
 msgstr "Идентификаторы:"
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:345
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:346
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Features:"
 msgstr "Возможности:"
@@ -1465,6 +1465,11 @@ msgstr ""
 msgctxt "Jreen::Error|"
 msgid "No stanza error occured. You're just sleeping."
 msgstr "Никакой ошибки строфы не было. Ты просто спишь."
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:50
+msgctxt "Menu|"
+msgid "Additional"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:38
 msgctxt "Mood|"

@@ -2670,6 +2670,12 @@ msgctxt "Marital|"
 msgid "Other"
 msgstr "Други"
 
+#: ../../../protocols/oscar/src/privacylists.cpp:207
+#, fuzzy
+msgctxt "Menu|"
+msgid "Privacy status"
+msgstr "Статус на уединение"
+
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:33
 msgctxt "MetaInfo|"
 msgid "Not specified"
@@ -3257,11 +3263,6 @@ msgstr "Видим само за списъка с контакти"
 msgctxt "Privacy|"
 msgid "Unknown privacy"
 msgstr "Неизвестно уединение"
-
-#: ../../../protocols/oscar/src/privacylists.cpp:207
-msgctxt "Privacy|"
-msgid "Privacy status"
-msgstr "Статус на уединение"
 
 #: ../../../protocols/oscar/src/connection.cpp:52
 msgctxt "ProtocolError|"
