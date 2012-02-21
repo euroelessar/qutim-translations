@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-19 16:54+0000\n"
-"PO-Revision-Date: 2012-02-19 19:37+0000\n"
-"Last-Translator: Dganic <Unknown>\n"
+"POT-Creation-Date: 2012-02-20 11:31+0000\n"
+"PO-Revision-Date: 2012-02-20 19:43+0000\n"
+"Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-20 06:10+0000\n"
-"X-Generator: Launchpad (build 14833)\n"
+"X-Launchpad-Export-Date: 2012-02-21 06:30+0000\n"
+"X-Generator: Launchpad (build 14838)\n"
 "X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: ru\n"
@@ -2034,6 +2034,7 @@ msgstr "PList config"
 msgctxt "Plugin|"
 msgid "Additional qutIM config implementation for Apple plists"
 msgstr ""
+"Дополнительная реализация конфигурации в qutIM для поддержки Apple PList"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:3
 msgctxt "Plugin|"
@@ -2147,7 +2148,7 @@ msgstr "Классическая форма чата"
 #: ../../../core/__data_from_cmakelists_txt.cpp:24
 msgctxt "Plugin|"
 msgid "Default qutIM chatform implementation for adiumchat"
-msgstr ""
+msgstr "Реализация формы чата для AdiumChat в qutIM по умолчанию"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:25
 msgctxt "Plugin|"
@@ -2237,7 +2238,7 @@ msgstr "Виджет настроек уведомлений по умолчан
 #: ../../../core/__data_from_cmakelists_txt.cpp:43
 msgctxt "Plugin|"
 msgid "JSON config"
-msgstr ""
+msgstr "Конфиг в JSON"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:44
 msgctxt "Plugin|"
@@ -2249,22 +2250,22 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:46
 msgctxt "Plugin|"
 msgid "Notification filter"
-msgstr ""
+msgstr "Фильтр уведомлений"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:47
 msgctxt "Plugin|"
 msgid "qutIM and Kopete emoticons"
-msgstr ""
+msgstr "Смайлы qutIM и Kopete"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:48
 msgctxt "Plugin|"
 msgid "Default qutIM emoticons backend"
-msgstr ""
+msgstr "Бекенд смайлов в qutIM по умолчанию"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:49
 msgctxt "Plugin|"
 msgid "Adium service icons"
-msgstr ""
+msgstr "Сервисные пиктограммы Adium"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:50
 msgctxt "Plugin|"
@@ -2304,7 +2305,7 @@ msgstr "Простой диалог добавления контактов"
 #: ../../../core/__data_from_cmakelists_txt.cpp:57
 msgctxt "Plugin|"
 msgid "Xdg Icon Loader"
-msgstr ""
+msgstr "Загрузчик пиктограмм XDG"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:58
 msgctxt "Plugin|"
@@ -2321,44 +2322,46 @@ msgstr "Модуль передачи файлов"
 #: ../../../core/__data_from_cmakelists_txt.cpp:60
 msgctxt "Plugin|"
 msgid "Default qutIM file transfer manager"
-msgstr ""
+msgstr "Менеджер передачи файлов в qutIM по умолчанию"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:61
 msgctxt "Plugin|"
 msgid "Idle detector"
-msgstr ""
+msgstr "Детектор неактивности"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:62
 msgctxt "Plugin|"
 msgid "Native idle detector, based on system api"
-msgstr ""
+msgstr "Родной детектор неактивности, основан на системном API"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:63
 #: ../../../core/__data_from_cmakelists_txt.cpp:65
 msgctxt "Plugin|"
 msgid "Qt Kinetic scroller"
-msgstr ""
+msgstr "Кинетическая прокрутка Qt"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:64
 #: ../../../core/__data_from_cmakelists_txt.cpp:66
 msgctxt "Plugin|"
 msgid "Kinetic scroller from upcoming Qt release"
-msgstr ""
+msgstr "Кинетическая прокрутка из нового релиза Qt"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:67
 msgctxt "Plugin|"
 msgid "Shortcut settings"
-msgstr ""
+msgstr "Настройки горячих клавиш"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:69
 msgctxt "Plugin|"
 msgid "No crypto"
-msgstr ""
+msgstr "Без шифрования"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:70
 msgctxt "Plugin|"
 msgid "Store passwords in plaintext. Easy to read. Easy to recover."
 msgstr ""
+"Хранит пароли простым текстом. Легко прочесть. Легко восстановить. Легко "
+"украсть."
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:71
 msgctxt "Plugin|"
@@ -2367,7 +2370,7 @@ msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:72
 msgctxt "Plugin|"
-msgid "Simple separated contactlist model"
+msgid "Contact list model, which show accounts, tags and contacts"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:73
@@ -2377,22 +2380,22 @@ msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:74
 msgctxt "Plugin|"
-msgid "Simple contactlist model"
+msgid "Contact list model, which show tags and contacts"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:75
 msgctxt "Plugin|"
-msgid "Plain contacts model"
+msgid "Plain list contacts model"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:76
 msgctxt "Plugin|"
-msgid "Simple plain contactlist model"
+msgid "Contact list model, which shows only contacts"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:77
 msgctxt "Plugin|"
-msgid "Simple ContactList"
+msgid "Simple contact list"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:78
@@ -2401,16 +2404,14 @@ msgid "Default qutIM contact list implementation. Just simple"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:79
-#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:91
 msgctxt "Plugin|"
-msgid "ContactDelegate"
-msgstr "Отрисовщик контактов"
+msgid "Contact delegate"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:80
-#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:92
 msgctxt "Plugin|"
-msgid "Just simple"
-msgstr "Просто просто :-D"
+msgid "Default contact delegate. Just simple"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:81
 msgctxt "Plugin|"
@@ -2436,7 +2437,7 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:85
 msgctxt "Plugin|"
 msgid "Chat spell checker"
-msgstr ""
+msgstr "Проверка орфографии"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:86
 msgctxt "Plugin|"
@@ -2444,26 +2445,28 @@ msgid ""
 "Highlights grammar errors and provides spelling suggestions for misspelled "
 "words in chats"
 msgstr ""
+"Подчёркивает орфографические ошибки и предлагает выбор слов для исправления "
+"из словаря"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:87
 msgctxt "Plugin|"
 msgid "Chat notifications backend"
-msgstr ""
+msgstr "Бекенд уведомлений"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:88
 msgctxt "Plugin|"
 msgid "Prints information about events into chats"
-msgstr ""
+msgstr "Печатает информацию о событиях в чат"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:89
 msgctxt "Plugin|"
 msgid "Mobile Settings dialog"
-msgstr ""
+msgstr "Мобильный диалог настроек"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:90
 msgctxt "Plugin|"
 msgid "Kickoff style settings dialog specialy for Maemo/MeeGo"
-msgstr ""
+msgstr "Сброс настроек стиля. Специально для Maemo/MeeGo"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:91
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:38
@@ -2480,12 +2483,12 @@ msgstr "Активация сессии по событию"
 #: ../../../core/__data_from_cmakelists_txt.cpp:93
 msgctxt "Plugin|"
 msgid "Simple tray"
-msgstr ""
+msgstr "Простой трей"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:94
 msgctxt "Plugin|"
 msgid "Default qutIM system tray icon implementation"
-msgstr ""
+msgstr "Реализация системного трея qutIM по умолчанию"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:95
 #: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:40
@@ -2502,23 +2505,23 @@ msgstr "Простые действия для контактов"
 #: ../../../core/__data_from_cmakelists_txt.cpp:97
 msgctxt "Plugin|"
 msgid "Json History"
-msgstr ""
+msgstr "История в JSON"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:98
 msgctxt "Plugin|"
 msgid ""
 "Default qutIM history implementation, based on JavaScript Object Notation"
-msgstr ""
+msgstr "Реализация хранения истории в qutIM по умолчанию, основана на JSON"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:99
 msgctxt "Plugin|"
 msgid "Mobile notifications settings"
-msgstr ""
+msgstr "Мобильные настройки уведомлений"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:100
 msgctxt "Plugin|"
 msgid "Mobile settings widget set for notifications"
-msgstr ""
+msgstr "Мобильный диалог настроек уведомлений"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:101
 #: ../../../core/src/corelayers/localization/localizationplugin.cpp:37
@@ -2535,22 +2538,24 @@ msgstr "Движок перевода qutIM"
 #: ../../../core/__data_from_cmakelists_txt.cpp:103
 msgctxt "Plugin|"
 msgid "Mobile conference join dialog"
-msgstr ""
+msgstr "Мобильный диалог входа в конференции"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:104
 msgctxt "Plugin|"
 msgid "Conference join dialog adopted for touch devices with small screen"
 msgstr ""
+"Диалог входа в конференции, адаптированный под устройства с тач-скринами и "
+"малым экраном"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:105
 msgctxt "Plugin|"
 msgid "Simple about dialog"
-msgstr ""
+msgstr "Простой диалог \"О программе\""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:106
 msgctxt "Plugin|"
 msgid "Simple dialog about qutIM and it's authors"
-msgstr ""
+msgstr "Простой диалог о qutIM и его авторах"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:107
 msgctxt "Plugin|"
@@ -2565,39 +2570,39 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:109
 msgctxt "Plugin|"
 msgid "Emoticons settings"
-msgstr ""
+msgstr "Настройки смайлов"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:110
 msgctxt "Plugin|"
 msgid "Default settings widget set for emoticons"
-msgstr ""
+msgstr "Виджет настроек смайликов по умолчанию"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:111
 msgctxt "Plugin|"
 msgid "Service chooser"
-msgstr ""
+msgstr "Выбор служб"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:112
 #: ../../../core/__data_from_cmakelists_txt.cpp:120
 #: ../../../core/__data_from_cmakelists_txt.cpp:124
 msgctxt "Plugin|"
 msgid "TODO"
-msgstr ""
+msgstr "ЭТО НАДО СДЕЛАТЬ"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:113
 msgctxt "Plugin|"
 msgid "X Settings dialog"
-msgstr ""
+msgstr "диалог настроек для OS X"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:114
 msgctxt "Plugin|"
 msgid "Default qutIM settings dialog implementation with OS X style top bar"
-msgstr ""
+msgstr "Реализация диалога настроек с верхним меню в стиле OS X"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:115
 msgctxt "Plugin|"
 msgid "Simple roster storage"
-msgstr ""
+msgstr "Простое хранилище контактлиста"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:116
 msgctxt "Plugin|"
@@ -2685,6 +2690,16 @@ msgstr "Окно поиска для мобильных устройств"
 msgctxt "Plugin|"
 msgid "Search form optimized for Mobile systems"
 msgstr "Окно поиска для мобильных систем"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:91
+msgctxt "Plugin|"
+msgid "ContactDelegate"
+msgstr "Отрисовщик контактов"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:92
+msgctxt "Plugin|"
+msgid "Just simple"
+msgstr "Просто просто :-D"
 
 #: ../../../core/src/corelayers/trayicon/simpletray.cpp:143
 msgctxt "Plugin|"
