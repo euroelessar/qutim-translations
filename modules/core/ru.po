@@ -2,20 +2,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-20 11:31+0000\n"
-"PO-Revision-Date: 2012-02-20 19:43+0000\n"
+"POT-Creation-Date: 2012-02-21 20:21+0000\n"
+"PO-Revision-Date: 2012-02-21 22:28+0000\n"
 "Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-21 06:30+0000\n"
+"X-Launchpad-Export-Date: 2012-02-22 06:52+0000\n"
 "X-Generator: Launchpad (build 14838)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
+"Language: ru\n"
 "X-Language: ru\n"
 
-#: ../../../core/libqutim/account.cpp:145
+#: ../../../core/libqutim/account.cpp:144
 msgctxt "Account|"
 msgid "Authorization failed"
 msgstr "Ошибка авторизации"
@@ -956,43 +956,43 @@ msgctxt "Core::PListConfigBackend|"
 msgid "Cannot write to file %1"
 msgstr "Невозможно записать в файл %1"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:127
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:125
 msgctxt "Core::PluginChooserWidget|"
 msgid "To take effect you must restart qutIM"
 msgstr "Требуется перезапуск qutIM"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:143
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:141
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Name: </b> %1 <br />"
 msgstr "<b>Имя: </b> %1 <br />"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:144
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:142
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Description: </b> %1 <br />"
 msgstr "<b>Описание: </b> %1 <br />"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:149
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:147
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Name:</b> %1<br/>"
 msgstr "<b>Имя:</b> %1<br/>"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:151
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:149
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Task:</b> %1<br/>"
 msgstr "<b>Роль:</b> %1<br/>"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:151
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
 msgstr ""
 "<b>Email:</b> <a href=\"mailto:%1\" title=\"Электропочта\">%1</a><br/>"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:155
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
@@ -1232,25 +1232,25 @@ msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Without tags"
 msgstr "Без меток"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:494
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:497
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
 msgstr "Желаете объединить контакты \"%1\" <%2> И \"%3\" <%4>?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:500
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:503
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge metacontacts \"%1\" and \"%2\"?"
 msgstr "Желаете объединить метаконтакты \"%1\" И \"%2\"?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:503
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:506
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to add \"%1\" <%2> to metacontact \"%3\"?"
 msgstr "Желаете добавить \"%1\" <%2> в метаконтакт \"%3\"?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:510
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:513
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Contacts' merging"
 msgstr "Слияние контактов"
@@ -2061,12 +2061,12 @@ msgstr "Модуль qutIM для создания учетных записей
 #: ../../../core/__data_from_cmakelists_txt.cpp:7
 msgctxt "Plugin|"
 msgid "SimpleActionBox"
-msgstr ""
+msgstr "Рисовалка кнопок для Symbian"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:8
 msgctxt "Plugin|"
 msgid "Simple actionbox module"
-msgstr ""
+msgstr "Простая рисовалка кнопок"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:9
 msgctxt "Plugin|"
@@ -2158,7 +2158,7 @@ msgstr "Мобильный"
 #: ../../../core/__data_from_cmakelists_txt.cpp:26
 msgctxt "Plugin|"
 msgid "Stacked chatform for mobile devices"
-msgstr ""
+msgstr "Мобильная форма чата"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:27
 msgctxt "Plugin|"
@@ -2198,12 +2198,12 @@ msgstr "Реализация настроек файлопередачи по у
 #: ../../../core/__data_from_cmakelists_txt.cpp:35
 msgctxt "Plugin|"
 msgid "SoftkeysActionBox"
-msgstr ""
+msgstr "SoftkeysActionBox"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:36
 msgctxt "Plugin|"
 msgid "Actionbox module for mobile devices with softkeys support"
-msgstr ""
+msgstr "Модуль действий для мобильных устройств с поддержкой софткеев"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:37
 msgctxt "Plugin|"
@@ -2322,7 +2322,7 @@ msgstr "Модуль передачи файлов"
 #: ../../../core/__data_from_cmakelists_txt.cpp:60
 msgctxt "Plugin|"
 msgid "Default qutIM file transfer manager"
-msgstr "Менеджер передачи файлов в qutIM по умолчанию"
+msgstr "Стандартный менеджер передачи файлов в qutIM"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:61
 msgctxt "Plugin|"
@@ -2366,73 +2366,74 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:71
 msgctxt "Plugin|"
 msgid "Separated contacts model"
-msgstr ""
+msgstr "Модель с разделёнными контактами"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:72
 msgctxt "Plugin|"
 msgid "Contact list model, which show accounts, tags and contacts"
-msgstr ""
+msgstr "Модель списка контактов, отображающая аккаунты, теги и контакты"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:73
 msgctxt "Plugin|"
 msgid "Tree contacts model"
-msgstr ""
+msgstr "Иерархический список контактов"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:74
 msgctxt "Plugin|"
 msgid "Contact list model, which show tags and contacts"
-msgstr ""
+msgstr "Модель списка контактов, в которой отображаются теги и контакты"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:75
 msgctxt "Plugin|"
 msgid "Plain list contacts model"
-msgstr ""
+msgstr "Простой лист контактов"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:76
 msgctxt "Plugin|"
 msgid "Contact list model, which shows only contacts"
-msgstr ""
+msgstr "Модель списка контактов, которая отображает только сами контакты"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:77
 msgctxt "Plugin|"
 msgid "Simple contact list"
-msgstr ""
+msgstr "Простой список контактов"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:78
 msgctxt "Plugin|"
 msgid "Default qutIM contact list implementation. Just simple"
-msgstr ""
+msgstr "Реализация списка контактов по умолчанию. Простая, аки слон"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:79
 msgctxt "Plugin|"
 msgid "Contact delegate"
-msgstr ""
+msgstr "Делегат контакта"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:80
 msgctxt "Plugin|"
 msgid "Default contact delegate. Just simple"
-msgstr ""
+msgstr "Простой делегат контакта по умолчанию."
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:81
 msgctxt "Plugin|"
 msgid "Tory Contactlist"
-msgstr ""
+msgstr "Список контактов Tory"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:82
 msgctxt "Plugin|"
 msgid "Tory contactlist"
-msgstr ""
+msgstr "Список контактов Tory"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:83
 msgctxt "Plugin|"
 msgid "Simple"
-msgstr ""
+msgstr "Просто!"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:84
 msgctxt "Plugin|"
 msgid ""
 "Default qutIM contactlist widget implementation with global status button"
 msgstr ""
+"Реализация списка контактов с кнопкой глобального статуса по умолчанию"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:85
 msgctxt "Plugin|"
@@ -2560,12 +2561,12 @@ msgstr "Простой диалог о qutIM и его авторах"
 #: ../../../core/__data_from_cmakelists_txt.cpp:107
 msgctxt "Plugin|"
 msgid "Data forms backend"
-msgstr ""
+msgstr "Формочки с кнопочками"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:108
 msgctxt "Plugin|"
 msgid "Default qutIM implementation of the data forms"
-msgstr ""
+msgstr "Реализация формочек с кнопочками в qutIM по умолчанию"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:109
 msgctxt "Plugin|"
@@ -2592,7 +2593,7 @@ msgstr "ЭТО НАДО СДЕЛАТЬ"
 #: ../../../core/__data_from_cmakelists_txt.cpp:113
 msgctxt "Plugin|"
 msgid "X Settings dialog"
-msgstr "диалог настроек для OS X"
+msgstr "Диалог настроек для OS X"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:114
 msgctxt "Plugin|"
@@ -2607,7 +2608,7 @@ msgstr "Простое хранилище контактлиста"
 #: ../../../core/__data_from_cmakelists_txt.cpp:116
 msgctxt "Plugin|"
 msgid "Stores roster during offline at local storage"
-msgstr ""
+msgstr "Хранит ростер в оффлайне"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:117
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:35
@@ -2627,24 +2628,24 @@ msgstr "Простая реализация окна поиска"
 #: ../../../core/__data_from_cmakelists_txt.cpp:123
 msgctxt "Plugin|"
 msgid "Core"
-msgstr ""
+msgstr "Ядро"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:121
 #: ../../../core/__data_from_cmakelists_txt.cpp:125
 msgctxt "Plugin|"
 msgid "Core Devel"
-msgstr ""
+msgstr "Разработчик ядра"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:122
 #: ../../../core/__data_from_cmakelists_txt.cpp:126
 msgctxt "Plugin|"
 msgid "Common devel files"
-msgstr ""
+msgstr "Файлы для разработчиков"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:127
 msgctxt "Plugin|"
 msgid "Qt Libraries"
-msgstr ""
+msgstr "Библиотеки Qt"
 
 #: ../../../core/examples/autosettingsitem/autosettings.cpp:33
 msgctxt "Plugin|"
@@ -2976,56 +2977,225 @@ msgctxt "SearchForm|"
 msgid "Back"
 msgstr "Назад"
 
+#: ../../../core/__generated_from_service_names.cpp:1
+msgctxt "Service|"
+msgid "AboutDialog"
+msgstr "Диалог \"О программе\""
+
+#: ../../../core/__generated_from_service_names.cpp:2
+msgctxt "Service|"
+msgid "AccountCreator"
+msgstr "Создание аккаунта"
+
 # !!!
+#: ../../../core/__generated_from_service_names.cpp:3
 #: ../../../core/libqutim/actionbox.cpp:41
 msgctxt "Service|"
 msgid "ActionBoxModule"
 msgstr "Модуль действий"
 
-#: ../../../core/libqutim/settingslayer.cpp:393
+#: ../../../core/__generated_from_service_names.cpp:4
 msgctxt "Service|"
-msgid "Settings Window"
-msgstr "Окно настроек"
+msgid "AddContact"
+msgstr "Добавление аккаунта"
 
-#: ../../../core/libqutim/sound.cpp:40
+#: ../../../core/__generated_from_service_names.cpp:5
 msgctxt "Service|"
-msgid "Popup"
-msgstr "Уведомление"
+msgid "ApplicationWindow"
+msgstr "Окошко приложения"
 
-#: ../../../core/libqutim/sound.cpp:41
+#: ../../../core/__generated_from_service_names.cpp:6
 msgctxt "Service|"
-msgid "Sound"
-msgstr "Звуковой движок"
+msgid "AuthorizationService"
+msgstr "Сервис авторизации"
 
+#: ../../../core/__generated_from_service_names.cpp:7
+msgctxt "Service|"
+msgid "AutoAway"
+msgstr "Автостатусы"
+
+#: ../../../core/__generated_from_service_names.cpp:8
+msgctxt "Service|"
+msgid "Bearer"
+msgstr "Bearer"
+
+#: ../../../core/__generated_from_service_names.cpp:9
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:48
 msgctxt "Service|"
 msgid "ChatForm"
 msgstr "Окно чата"
 
+#: ../../../core/__generated_from_service_names.cpp:10
+msgctxt "Service|"
+msgid "ChatLayer"
+msgstr "Чат"
+
+#: ../../../core/__generated_from_service_names.cpp:11
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:49
 msgctxt "Service|"
 msgid "ChatViewFactory"
 msgstr "Движок тем чата"
 
+#: ../../../core/__generated_from_service_names.cpp:12
+msgctxt "Service|"
+msgid "ConferenceManager"
+msgstr "Менеджер конференций"
+
+#: ../../../core/__generated_from_service_names.cpp:13
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:80
+msgctxt "Service|"
+msgid "ContactDelegate"
+msgstr "Отрисовка контактов"
+
+#: ../../../core/__generated_from_service_names.cpp:14
+msgctxt "Service|"
+msgid "ContactInfo"
+msgstr "Информация о контакте"
+
+#: ../../../core/__generated_from_service_names.cpp:15
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:77
 msgctxt "Service|"
 msgid "ContactList"
 msgstr "Контакты"
 
+#: ../../../core/__generated_from_service_names.cpp:16
+msgctxt "Service|"
+msgid "ContactListItemDelegate"
+msgstr "Делегат списка контактов"
+
+#: ../../../core/__generated_from_service_names.cpp:17
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:78
 msgctxt "Service|"
 msgid "ContactListWidget"
 msgstr "Окно контактов"
 
+#: ../../../core/__generated_from_service_names.cpp:18
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:79
 msgctxt "Service|"
 msgid "ContactModel"
 msgstr "Представление контактов"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:80
+#: ../../../core/__generated_from_service_names.cpp:19
 msgctxt "Service|"
-msgid "ContactDelegate"
-msgstr "Отрисовка контактов"
+msgid "Core::ContactDelegate"
+msgstr "Делегат контакта"
+
+#: ../../../core/__generated_from_service_names.cpp:20
+msgctxt "Service|"
+msgid "CrashHandler"
+msgstr "Обрабочик падений"
+
+#: ../../../core/__generated_from_service_names.cpp:21
+msgctxt "Service|"
+msgid "DataFormsBackend"
+msgstr "Формочки и кнопочки"
+
+#: ../../../core/__generated_from_service_names.cpp:22
+msgctxt "Service|"
+msgid "Dock"
+msgstr "Панель"
+
+#: ../../../core/__generated_from_service_names.cpp:23
+msgctxt "Service|"
+msgid "FileTransferManager"
+msgstr "Менеджер передачи файлов"
+
+#: ../../../core/__generated_from_service_names.cpp:24
+msgctxt "Service|"
+msgid "IconLoader"
+msgstr "Загрузчик пиктограмм"
+
+#: ../../../core/__generated_from_service_names.cpp:25
+msgctxt "Service|"
+msgid "Idle"
+msgstr "Детектор неактивности"
+
+#: ../../../core/__generated_from_service_names.cpp:26
+msgctxt "Service|"
+msgid "JoinGroupChat"
+msgstr "Вход в конференции"
+
+#: ../../../core/__generated_from_service_names.cpp:27
+msgctxt "Service|"
+msgid "Led"
+msgstr "Светодиод"
+
+#: ../../../core/__generated_from_service_names.cpp:28
+msgctxt "Service|"
+msgid "MetaContactManager"
+msgstr "Менеджер метаконтактов"
+
+#: ../../../core/__generated_from_service_names.cpp:29
+msgctxt "Service|"
+msgid "NotificationSettings"
+msgstr "Настройки уведомлений"
+
+#: ../../../core/__generated_from_service_names.cpp:30
+msgctxt "Service|"
+msgid "NowPlaying"
+msgstr "Сейчас играет"
+
+#: ../../../core/__generated_from_service_names.cpp:31
+#: ../../../core/libqutim/sound.cpp:40
+msgctxt "Service|"
+msgid "Popup"
+msgstr "Уведомление"
+
+#: ../../../core/__generated_from_service_names.cpp:32
+msgctxt "Service|"
+msgid "RosterStorage"
+msgstr "Хранилище ростера"
+
+#: ../../../core/__generated_from_service_names.cpp:33
+msgctxt "Service|"
+msgid "Scroller"
+msgstr "Полоса прокрутки"
+
+#: ../../../core/__generated_from_service_names.cpp:34
+msgctxt "Service|"
+msgid "SearchForm"
+msgstr "Форма поиска"
+
+#: ../../../core/__generated_from_service_names.cpp:35
+msgctxt "Service|"
+msgid "SearchLayer"
+msgstr "Поиск"
+
+#: ../../../core/__generated_from_service_names.cpp:36
+msgctxt "Service|"
+msgid "SettingsLayer"
+msgstr "Настройки"
+
+#: ../../../core/__generated_from_service_names.cpp:37
+#: ../../../core/libqutim/sound.cpp:41
+msgctxt "Service|"
+msgid "Sound"
+msgstr "Звуковой движок"
+
+#: ../../../core/__generated_from_service_names.cpp:38
+msgctxt "Service|"
+msgid "SpellChecker"
+msgstr "Проверка орфографии"
+
+#: ../../../core/__generated_from_service_names.cpp:39
+msgctxt "Service|"
+msgid "TrayIcon"
+msgstr "Пиктограмма в трее"
+
+#: ../../../core/__generated_from_service_names.cpp:40
+msgctxt "Service|"
+msgid "Vibration"
+msgstr "Вибрация"
+
+#: ../../../core/__generated_from_service_names.cpp:41
+msgctxt "Service|"
+msgid "VibrationAlert"
+msgstr "Уведомление вибрацией"
+
+#: ../../../core/libqutim/settingslayer.cpp:393
+msgctxt "Service|"
+msgid "Settings Window"
+msgstr "Окно настроек"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooserwidget.ui:14
 msgctxt "ServiceChooser|"
@@ -3627,7 +3797,7 @@ msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Input/output error"
 msgstr "Ошибка ввода/вывода"
 
-#: ../../../core/libqutim/modulemanager.cpp:418
+#: ../../../core/libqutim/modulemanager.cpp:417
 #, qt-format
 msgctxt "qutim_sdk_0_3::ModuleManager|"
 msgid ""

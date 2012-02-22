@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-02-19 16:52+0000\n"
-"PO-Revision-Date: 2012-02-20 14:33+0000\n"
+"POT-Creation-Date: 2012-02-21 20:21+0000\n"
+"PO-Revision-Date: 2012-02-21 10:14+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-21 06:31+0000\n"
+"X-Launchpad-Export-Date: 2012-02-22 06:53+0000\n"
 "X-Generator: Launchpad (build 14838)\n"
-"Language: \n"
+"Language: en_GB\n"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -2667,6 +2667,11 @@ msgctxt "Marital|"
 msgid "Other"
 msgstr "Other"
 
+#: ../../../protocols/oscar/src/privacylists.cpp:207
+msgctxt "Menu|"
+msgid "Privacy status"
+msgstr ""
+
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:33
 msgctxt "MetaInfo|"
 msgid "Not specified"
@@ -3254,11 +3259,6 @@ msgstr "Visible only for contact list"
 msgctxt "Privacy|"
 msgid "Unknown privacy"
 msgstr "Unknown privacy"
-
-#: ../../../protocols/oscar/src/privacylists.cpp:207
-msgctxt "Privacy|"
-msgid "Privacy status"
-msgstr "Privacy status"
 
 #: ../../../protocols/oscar/src/connection.cpp:52
 msgctxt "ProtocolError|"

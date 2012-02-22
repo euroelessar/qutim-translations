@@ -7,18 +7,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-02-20 11:31+0000\n"
+"POT-Creation-Date: 2012-02-21 20:21+0000\n"
 "PO-Revision-Date: 2012-02-20 14:33+0000\n"
 "Last-Translator: Anthony Harrington <untaintableangel@hotmail.co.uk>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-21 06:31+0000\n"
+"X-Launchpad-Export-Date: 2012-02-22 06:52+0000\n"
 "X-Generator: Launchpad (build 14838)\n"
-"Language: \n"
+"Language: en_GB\n"
 
-#: ../../../core/libqutim/account.cpp:145
+#: ../../../core/libqutim/account.cpp:144
 msgctxt "Account|"
 msgid "Authorization failed"
 msgstr "Authorisation failed"
@@ -956,42 +956,42 @@ msgctxt "Core::PListConfigBackend|"
 msgid "Cannot write to file %1"
 msgstr "Cannot write to file %1"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:127
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:125
 msgctxt "Core::PluginChooserWidget|"
 msgid "To take effect you must restart qutIM"
 msgstr "To take effect you must restart qutIM"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:143
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:141
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Name: </b> %1 <br />"
 msgstr "<b>Name: </b> %1 <br />"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:144
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:142
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Description: </b> %1 <br />"
 msgstr "<b>Description: </b> %1 <br />"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:149
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:147
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Name:</b> %1<br/>"
 msgstr "<b>Name:</b> %1<br/>"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:151
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:149
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Task:</b> %1<br/>"
 msgstr "<b>Task:</b> %1<br/>"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:151
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
 msgstr "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:155
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
@@ -1230,25 +1230,25 @@ msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Without tags"
 msgstr "Without tags"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:494
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:497
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
 msgstr "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:500
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:503
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge metacontacts \"%1\" and \"%2\"?"
 msgstr "Would you like to merge metacontacts \"%1\" and \"%2\"?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:503
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:506
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to add \"%1\" <%2> to metacontact \"%3\"?"
 msgstr "Would you like to add \"%1\" <%2> to metacontact \"%3\"?"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:510
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:513
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Contacts' merging"
 msgstr "Contacts' merging"
@@ -2958,55 +2958,224 @@ msgctxt "SearchForm|"
 msgid "Back"
 msgstr "Back"
 
+#: ../../../core/__generated_from_service_names.cpp:1
+msgctxt "Service|"
+msgid "AboutDialog"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:2
+msgctxt "Service|"
+msgid "AccountCreator"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:3
 #: ../../../core/libqutim/actionbox.cpp:41
 msgctxt "Service|"
 msgid "ActionBoxModule"
 msgstr "ActionBoxModule"
 
-#: ../../../core/libqutim/settingslayer.cpp:393
+#: ../../../core/__generated_from_service_names.cpp:4
 msgctxt "Service|"
-msgid "Settings Window"
-msgstr "Settings Window"
+msgid "AddContact"
+msgstr ""
 
-#: ../../../core/libqutim/sound.cpp:40
+#: ../../../core/__generated_from_service_names.cpp:5
 msgctxt "Service|"
-msgid "Popup"
-msgstr "Popup"
+msgid "ApplicationWindow"
+msgstr ""
 
-#: ../../../core/libqutim/sound.cpp:41
+#: ../../../core/__generated_from_service_names.cpp:6
 msgctxt "Service|"
-msgid "Sound"
-msgstr "Sound"
+msgid "AuthorizationService"
+msgstr ""
 
+#: ../../../core/__generated_from_service_names.cpp:7
+msgctxt "Service|"
+msgid "AutoAway"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:8
+msgctxt "Service|"
+msgid "Bearer"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:9
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:48
 msgctxt "Service|"
 msgid "ChatForm"
 msgstr "ChatForm"
 
+#: ../../../core/__generated_from_service_names.cpp:10
+msgctxt "Service|"
+msgid "ChatLayer"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:11
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:49
 msgctxt "Service|"
 msgid "ChatViewFactory"
 msgstr "ChatViewFactory"
 
+#: ../../../core/__generated_from_service_names.cpp:12
+msgctxt "Service|"
+msgid "ConferenceManager"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:13
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:80
+msgctxt "Service|"
+msgid "ContactDelegate"
+msgstr "ContactDelegate"
+
+#: ../../../core/__generated_from_service_names.cpp:14
+msgctxt "Service|"
+msgid "ContactInfo"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:15
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:77
 msgctxt "Service|"
 msgid "ContactList"
 msgstr "ContactList"
 
+#: ../../../core/__generated_from_service_names.cpp:16
+msgctxt "Service|"
+msgid "ContactListItemDelegate"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:17
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:78
 msgctxt "Service|"
 msgid "ContactListWidget"
 msgstr "ContactListWidget"
 
+#: ../../../core/__generated_from_service_names.cpp:18
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:79
 msgctxt "Service|"
 msgid "ContactModel"
 msgstr "ContactModel"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:80
+#: ../../../core/__generated_from_service_names.cpp:19
 msgctxt "Service|"
-msgid "ContactDelegate"
-msgstr "ContactDelegate"
+msgid "Core::ContactDelegate"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:20
+msgctxt "Service|"
+msgid "CrashHandler"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:21
+msgctxt "Service|"
+msgid "DataFormsBackend"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:22
+msgctxt "Service|"
+msgid "Dock"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:23
+msgctxt "Service|"
+msgid "FileTransferManager"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:24
+msgctxt "Service|"
+msgid "IconLoader"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:25
+msgctxt "Service|"
+msgid "Idle"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:26
+msgctxt "Service|"
+msgid "JoinGroupChat"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:27
+msgctxt "Service|"
+msgid "Led"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:28
+msgctxt "Service|"
+msgid "MetaContactManager"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:29
+msgctxt "Service|"
+msgid "NotificationSettings"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:30
+msgctxt "Service|"
+msgid "NowPlaying"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:31
+#: ../../../core/libqutim/sound.cpp:40
+msgctxt "Service|"
+msgid "Popup"
+msgstr "Popup"
+
+#: ../../../core/__generated_from_service_names.cpp:32
+msgctxt "Service|"
+msgid "RosterStorage"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:33
+msgctxt "Service|"
+msgid "Scroller"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:34
+msgctxt "Service|"
+msgid "SearchForm"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:35
+msgctxt "Service|"
+msgid "SearchLayer"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:36
+msgctxt "Service|"
+msgid "SettingsLayer"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:37
+#: ../../../core/libqutim/sound.cpp:41
+msgctxt "Service|"
+msgid "Sound"
+msgstr "Sound"
+
+#: ../../../core/__generated_from_service_names.cpp:38
+msgctxt "Service|"
+msgid "SpellChecker"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:39
+msgctxt "Service|"
+msgid "TrayIcon"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:40
+msgctxt "Service|"
+msgid "Vibration"
+msgstr ""
+
+#: ../../../core/__generated_from_service_names.cpp:41
+msgctxt "Service|"
+msgid "VibrationAlert"
+msgstr ""
+
+#: ../../../core/libqutim/settingslayer.cpp:393
+msgctxt "Service|"
+msgid "Settings Window"
+msgstr "Settings Window"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooserwidget.ui:14
 msgctxt "ServiceChooser|"
@@ -3600,7 +3769,7 @@ msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Input/output error"
 msgstr "Input/output error"
 
-#: ../../../core/libqutim/modulemanager.cpp:418
+#: ../../../core/libqutim/modulemanager.cpp:417
 #, qt-format
 msgctxt "qutim_sdk_0_3::ModuleManager|"
 msgid ""

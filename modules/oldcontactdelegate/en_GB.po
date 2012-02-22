@@ -7,18 +7,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-02-19 16:51+0000\n"
+"POT-Creation-Date: 2012-02-21 20:01+0000\n"
 "PO-Revision-Date: 2012-01-21 18:43+0000\n"
 "Last-Translator: mrx5682 <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-20 06:11+0000\n"
-"X-Generator: Launchpad (build 14833)\n"
-"Language: \n"
+"X-Launchpad-Export-Date: 2012-02-22 06:53+0000\n"
+"X-Generator: Launchpad (build 14838)\n"
+"Language: en_GB\n"
 
-#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:86
+#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:85
 msgctxt "ContactList|"
 msgid "qutIM 0.2 style"
 msgstr "qutIM 0.2 style"
@@ -89,13 +89,13 @@ msgid "Avatar icon size:"
 msgstr "Avatar icon size:"
 
 #: ../../../plugins/oldcontactdelegate/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:64
+#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:63
 msgctxt "Plugin|"
 msgid "Old contact delegate"
 msgstr "Old contact delegate"
 
 #: ../../../plugins/oldcontactdelegate/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:65
+#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:64
 msgctxt "Plugin|"
 msgid "Port of contact list delegate from 0.2"
 msgstr "Port of contact list delegate from 0.2"
