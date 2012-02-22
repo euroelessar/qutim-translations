@@ -19,42 +19,60 @@ msgstr ""
 "X-Generator: Launchpad (build 14838)\n"
 "X-Qt-Contexts: true\n"
 
-msgctxt "Author"
+#: __from_devels_json.cpp:1
+#, fuzzy
+msgctxt "Author|"
 msgid "Eugene Degtyarev"
 msgstr "Eugene Degtyarev"
 
-msgctxt "Task"
-msgid "Developer"
-msgstr "Developer"
-
-msgctxt "Author"
+#: __from_devels_json.cpp:3
+#, fuzzy
+msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr "Ruslan Nigmatullin"
 
-msgctxt "Author"
+#: __from_devels_json.cpp:5
+#, fuzzy
+msgctxt "Author|"
 msgid "Denis Daschenko"
 msgstr "Denis Daschenko"
 
-msgctxt "Author"
+#: __from_devels_json.cpp:7
+#, fuzzy
+msgctxt "Author|"
 msgid "Sidorov Aleksey"
 msgstr "Sidorov Aleksey"
 
-msgctxt "Author"
+#: __from_devels_json.cpp:9
+#, fuzzy
+msgctxt "Author|"
 msgid "Ivan Vizir"
 msgstr "Ivan Vizir"
 
-msgctxt "Author"
+#: __from_devels_json.cpp:11
+msgctxt "Author|"
 msgid "Rederick Asher"
 msgstr ""
 
-msgctxt "Task"
-msgid "Artist"
-msgstr ""
-
-msgctxt "Author"
+#: __from_devels_json.cpp:13
+msgctxt "Author|"
 msgid "Semen Vozhov"
 msgstr ""
 
-msgctxt "Author"
+#: __from_devels_json.cpp:15
+msgctxt "Author|"
 msgid "Perova Gala"
+msgstr ""
+
+#: __from_devels_json.cpp:2 __from_devels_json.cpp:4 __from_devels_json.cpp:6
+#: __from_devels_json.cpp:8 __from_devels_json.cpp:10
+#, fuzzy
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Developer"
+
+#: __from_devels_json.cpp:12 __from_devels_json.cpp:14
+#: __from_devels_json.cpp:16
+msgctxt "Task|"
+msgid "Artist"
 msgstr ""

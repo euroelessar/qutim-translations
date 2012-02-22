@@ -162,11 +162,6 @@ msgstr ""
 "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
 "family:'Droid Sans';\"></p></body></html>"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:89
-msgctxt "Author|"
-msgid "Rederick Asher"
-msgstr "Редерик Ашер"
-
 #: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:39
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:42
 #: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:44
@@ -222,28 +217,28 @@ msgctxt "ChatLayer|"
 msgid "Insert Emoticon"
 msgstr "Вставить смайл"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:103
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:98
 msgctxt "ChatLayer|"
 msgid "Show Emoticons"
 msgstr "Показать смайлы"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:108
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:123
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:103
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:118
 msgctxt "ChatLayer|"
 msgid "Quote"
 msgstr "Цитировать"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:113
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:108
 msgctxt "ChatLayer|"
 msgid "Clear Chat"
 msgstr "Очистить Чат"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:130
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:125
 msgctxt "ChatLayer|"
 msgid "Clear chat"
 msgstr "Очистить чат"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:133
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:128
 msgctxt "ChatLayer|"
 msgid "Clear chat field"
 msgstr "Очистить чат"
@@ -3404,32 +3399,32 @@ msgctxt "SimpleAboutDialog|"
 msgid "Module based instant messenger."
 msgstr "Модульный интернет пейджер."
 
-#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:143
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:147
 msgctxt "SimpleAboutDialog|"
 msgid "Source code repository:"
 msgstr "Исходный код:"
 
-#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:160
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:164
 msgctxt "SimpleAboutDialog|"
 msgid "Project site:"
 msgstr "Сайт проекта:"
 
-#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:167
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:171
 msgctxt "SimpleAboutDialog|"
 msgid "Bug tracker:"
 msgstr "Об ошибках сообщать:"
 
-#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:200
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:204
 msgctxt "SimpleAboutDialog|"
 msgid "Developers"
 msgstr "Разработчики"
 
-#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:223
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:227
 msgctxt "SimpleAboutDialog|"
 msgid "Translators"
 msgstr "Переводчики"
 
-#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:240
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:244
 msgctxt "SimpleAboutDialog|"
 msgid "License"
 msgstr "Лицензия"
@@ -3638,16 +3633,20 @@ msgctxt "Status|"
 msgid "Unknown"
 msgstr "Неизвестно"
 
-#: ../../../core/libqutim/personinfo.cpp:199
+#: ../../../core/libqutim/personinfo.cpp:208
 msgctxt "TRANSLATORS|"
 msgid "Your names"
 msgstr "MrFree,Nico-izo"
 
-#: ../../../core/libqutim/personinfo.cpp:200
-#: ../../../core/libqutim/personinfo.cpp:201
+#: ../../../core/libqutim/personinfo.cpp:209
 msgctxt "TRANSLATORS|"
 msgid "Your emails"
 msgstr "f1.mrfree@gmail.com,nico-izo@yandex.ru"
+
+#: ../../../core/libqutim/personinfo.cpp:210
+msgctxt "TRANSLATORS|"
+msgid "Your web addresses"
+msgstr ""
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:14
 msgctxt "TabbedChatBehavior|"
@@ -3706,15 +3705,10 @@ msgctxt "TagsFilterDialog|"
 msgid "Select tags"
 msgstr "Выберите метки"
 
-#: ../../../core/libqutim/personinfo.cpp:204
+#: ../../../core/libqutim/personinfo.cpp:213
 msgctxt "Task|"
 msgid "Translator"
 msgstr "Переводчики"
-
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:90
-msgctxt "Task|"
-msgid "Artist"
-msgstr "Художник"
 
 #: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:40
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:39
@@ -3860,3 +3854,11 @@ msgstr "Сохранить"
 msgctxt "userInformationClass|"
 msgid "Close"
 msgstr "Закрыть"
+
+#~ msgctxt "Author|"
+#~ msgid "Rederick Asher"
+#~ msgstr "Редерик Ашер"
+
+#~ msgctxt "Task|"
+#~ msgid "Artist"
+#~ msgstr "Художник"
