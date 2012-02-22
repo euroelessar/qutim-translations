@@ -14,6 +14,8 @@ msgstr ""
 "X-Generator: Launchpad (build 14299)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Source-Language: C\n"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -589,6 +591,10 @@ msgstr "Добавяне в списък \"Пренебрегнати\""
 msgctxt "ContactList|"
 msgid "Remove from ignore list"
 msgstr "Премахване от списък \"Пренебрегнати\""
+
+#~ msgctxt "ContactList|"
+#~ msgid "General"
+#~ msgstr "Общи"
 
 #: ../../../protocols/oscar/src/contactsearch.cpp:96
 msgctxt "ContactSearch|"
@@ -1875,10 +1881,10 @@ msgid "Can't add this contact because it requires authorization"
 msgstr "Контактът не може да бъде добавен, тъй като изисква удостоверение"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:189
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "FeedbagError|"
 msgid "Unknown error (Code: %1)"
-msgstr "Неизвестна грешка"
+msgstr "Неизвестна грешка (Код: %1)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:455
 msgctxt "Gender|"
@@ -3824,7 +3830,3 @@ msgstr "Собствен статус"
 msgctxt "statusDialogClass|"
 msgid "Set birthday/happy flag"
 msgstr "Установяване на флага за рожден/празничен ден"
-
-#~ msgctxt "ContactList|"
-#~ msgid "General"
-#~ msgstr "Общи"
