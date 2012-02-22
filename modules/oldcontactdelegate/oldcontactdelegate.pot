@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:86
+#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:85
 msgctxt "ContactList|"
 msgid "qutIM 0.2 style"
 msgstr ""
@@ -75,12 +75,14 @@ msgctxt "OldDelegateSettings|"
 msgid "Avatar icon size:"
 msgstr ""
 
-#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:64
+#: ../../../plugins/oldcontactdelegate/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:63
 msgctxt "Plugin|"
 msgid "Old contact delegate"
 msgstr ""
 
-#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:65
+#: ../../../plugins/oldcontactdelegate/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:64
 msgctxt "Plugin|"
 msgid "Port of contact list delegate from 0.2"
 msgstr ""

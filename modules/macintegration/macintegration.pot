@@ -10,27 +10,27 @@ msgctxt "AutoAway|"
 msgid "Auto-away"
 msgstr ""
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:116
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:117
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Accounts"
 msgstr ""
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:117
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:118
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Chats"
 msgstr ""
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:119
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:120
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Set Status Text"
 msgstr ""
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:266
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:267
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "File"
 msgstr ""
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:267
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:268
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Roster"
 msgstr ""
@@ -61,6 +61,56 @@ msgstr ""
 #: ../../../plugins/macintegration/src/macspellchecker/macspellsettings.cpp:38
 msgctxt "MacIntegration::MacSpellSettings|"
 msgid "Language"
+msgstr ""
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Growl notifications"
+msgstr ""
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Default Mac Os X Notifications"
+msgstr ""
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:3
+msgctxt "Plugin|"
+msgid "Mac Contactlist"
+msgstr ""
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:4
+msgctxt "Plugin|"
+msgid "Mac OS X contactlist"
+msgstr ""
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:5
+msgctxt "Plugin|"
+msgid "Dock integration"
+msgstr ""
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:6
+msgctxt "Plugin|"
+msgid "Mac OS X dock integration"
+msgstr ""
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:7
+msgctxt "Plugin|"
+msgid "SpellChecker"
+msgstr ""
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:8
+msgctxt "Plugin|"
+msgid "Mac OS X spell checker"
+msgstr ""
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:9
+msgctxt "Plugin|"
+msgid "IdleManager"
+msgstr ""
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:10
+msgctxt "Plugin|"
+msgid "Mac OS X idle manager"
 msgstr ""
 
 #: ../../../plugins/macintegration/src/macspellchecker/macspellchecker.mm:21

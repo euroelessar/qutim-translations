@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-01 17:02+0000\n"
-"PO-Revision-Date: 2012-02-19 03:58+0000\n"
-"Last-Translator: Vyacheslav Sharmanov <Unknown>\n"
+"POT-Creation-Date: 2012-02-19 16:51+0000\n"
+"PO-Revision-Date: 2012-02-21 19:22+0000\n"
+"Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-19 06:32+0000\n"
-"X-Generator: Launchpad (build 14814)\n"
+"X-Launchpad-Export-Date: 2012-02-22 06:53+0000\n"
+"X-Generator: Launchpad (build 14838)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -36,10 +36,31 @@ msgctxt "ManagerSettings|"
 msgid "Autoconnect on startup"
 msgstr "Автоподключение при запуске"
 
+#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Network bearer Manager"
+msgstr "Сетевой менеджер Bearer"
+
+#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Used to monitor the availability of network."
+msgstr "Используется для наблюдения за статусом сети."
+
+#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:3
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Multimedia engine"
+msgstr "Движок мультимедиа"
+
+#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:4
+msgctxt "Plugin|"
+msgid "Sound engine based on QtMultimedia"
+msgstr "Звуковой движок, использующий QtMultimedia"
+
 #: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:47
 msgctxt "Service|"
 msgid "BearerManager"
-msgstr ""
+msgstr "BearerManager"
 
 #: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:59
 msgctxt "Settings|"

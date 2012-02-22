@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-21 09:15+0000\n"
+"POT-Creation-Date: 2012-02-19 16:52+0000\n"
 "PO-Revision-Date: 2012-01-12 13:00+0000\n"
 "Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-13 05:25+0000\n"
-"X-Generator: Launchpad (build 14664)\n"
+"X-Launchpad-Export-Date: 2012-02-20 06:12+0000\n"
+"X-Generator: Launchpad (build 14833)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -20,11 +20,13 @@ msgctxt "Author|"
 msgid "Vsevolod Velichko"
 msgstr "Величко Всеволод"
 
+#: ../../../plugins/unitylauncher/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/unitylauncher/src/ulplugin.cpp:41
 msgctxt "Plugin|"
 msgid "UnityLauncher"
 msgstr "ЮнитиЗапускалка"
 
+#: ../../../plugins/unitylauncher/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/unitylauncher/src/ulplugin.cpp:42
 msgctxt "Plugin|"
 msgid "Ubuntu Unity panel integration"

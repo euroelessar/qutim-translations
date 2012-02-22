@@ -7,18 +7,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-11-21 09:14+0000\n"
-"PO-Revision-Date: 2011-11-21 10:01+0000\n"
+"POT-Creation-Date: 2012-02-19 16:52+0000\n"
+"PO-Revision-Date: 2012-02-19 18:47+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: Bulgarian <bg@li.org>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:22+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-02-20 06:12+0000\n"
+"X-Generator: Launchpad (build 14833)\n"
 "X-Language: bg_BG\n"
 "X-Source-Language: C\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/qmlchat/settings/chatappearance.cpp:55
 msgctxt "Core::AdiumChat::ChatAppearance|"
@@ -65,6 +66,16 @@ msgstr "/me мисли!"
 msgctxt "Core::AdiumChat::ChatAppearance|"
 msgid "Vasya Pupkin is reading you mind"
 msgstr "Вася Пупкин чете мислите ви"
+
+#: ../../../plugins/qmlchat/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Qt Quick view (experimental)"
+msgstr "Qt Quick изглед (експериментален)"
+
+#: ../../../plugins/qmlchat/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Modern chat view based on power of QtQuick"
+msgstr "Модерен изглед на разговора, базиран на QtQuick"
 
 #: ../../../plugins/qmlchat/quickchatviewfactory.cpp:41
 msgctxt "Settings|"

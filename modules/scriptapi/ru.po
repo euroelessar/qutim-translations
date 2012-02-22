@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-21 09:14+0000\n"
-"PO-Revision-Date: 2011-11-19 16:55+0000\n"
+"POT-Creation-Date: 2012-02-19 16:52+0000\n"
+"PO-Revision-Date: 2012-02-21 16:30+0000\n"
 "Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:22+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-02-22 06:53+0000\n"
+"X-Generator: Launchpad (build 14838)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -25,7 +25,7 @@ msgstr "Нигматуллин Руслан"
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:44
 msgctxt "Ignorer|"
 msgid "Evil ids"
-msgstr ""
+msgstr "Плохие ID"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:36
 #: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:98
@@ -48,6 +48,11 @@ msgstr "Игнорер"
 msgctxt "Plugin|"
 msgid "Ignores messages from certain persons"
 msgstr "Игнорирует сообщения от определённых людей"
+
+#: ../../../plugins/scriptapi/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Script API scriptapi/src/scriptplugin.cpp-"
+msgstr "Скриптовое API"
 
 #: ../../../plugins/scriptapi/src/scriptplugin.cpp:116
 msgctxt "Plugin|"

@@ -10,11 +10,13 @@ msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr ""
 
+#: ../../../plugins/aescrypto/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/aescrypto/src/aescryptomodule.cpp:33
 msgctxt "Plugin|"
 msgid "AES crypto service loader"
 msgstr ""
 
+#: ../../../plugins/aescrypto/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/aescrypto/src/aescryptomodule.cpp:34
 #: ../../../plugins/aescrypto/src/aescryptomodule.cpp:40
 msgctxt "Plugin|"

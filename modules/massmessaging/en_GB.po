@@ -7,16 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-01-18 13:42+0000\n"
+"POT-Creation-Date: 2012-02-19 18:12+0000\n"
 "PO-Revision-Date: 2012-01-20 19:54+0000\n"
 "Last-Translator: mrx5682 <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
-"Language: \n"
+"Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-01-21 06:29+0000\n"
-"X-Generator: Launchpad (build 14700)\n"
+"X-Launchpad-Export-Date: 2012-02-20 06:11+0000\n"
+"X-Generator: Launchpad (build 14833)\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/massmessaging/src/messaging.cpp:42
 msgctxt "Author|"
@@ -171,11 +172,13 @@ msgctxt "MassMessaging::MessagingDialog|"
 msgid "Start"
 msgstr "Start"
 
+#: ../../../plugins/massmessaging/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/massmessaging/src/messaging.cpp:46
 msgctxt "Plugin|"
 msgid "MassMessaging"
 msgstr "MassMessaging"
 
+#: ../../../plugins/massmessaging/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/massmessaging/src/messaging.cpp:47
 msgctxt "Plugin|"
 msgid "Simple messaging to contact list"
@@ -185,3 +188,8 @@ msgstr "Simple messaging to contact list"
 msgctxt "Task|"
 msgid "Author"
 msgstr "Author"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Simple messaging to contact list,"
+#~ msgstr "Simple messaging to contact list"

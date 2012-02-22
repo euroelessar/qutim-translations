@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-21 09:12+0000\n"
-"PO-Revision-Date: 2011-11-15 16:31+0000\n"
+"POT-Creation-Date: 2012-02-19 18:12+0000\n"
+"PO-Revision-Date: 2012-02-19 18:01+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:20+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-02-20 06:07+0000\n"
+"X-Generator: Launchpad (build 14833)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: bg\n"
 
@@ -20,11 +20,13 @@ msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr "Руслан Нигматуллин"
 
+#: ../../../plugins/aescrypto/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/aescrypto/src/aescryptomodule.cpp:33
 msgctxt "Plugin|"
 msgid "AES crypto service loader"
 msgstr "Връзка с услугата за AES шифриране"
 
+#: ../../../plugins/aescrypto/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/aescrypto/src/aescryptomodule.cpp:34
 #: ../../../plugins/aescrypto/src/aescryptomodule.cpp:40
 msgctxt "Plugin|"
@@ -42,3 +44,10 @@ msgstr "AES шифриране"
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Разработчик"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Default qutIM crypto implementation. Based on algorithm aes256,"
+#~ msgstr ""
+#~ "Подразбираща се за qutIM реализация на шифриране. На базата на aes256 "
+#~ "алгоритъма"

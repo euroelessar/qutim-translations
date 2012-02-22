@@ -123,11 +123,13 @@ msgctxt "MassMessaging::MessagingDialog|"
 msgid "Start"
 msgstr ""
 
+#: ../../../plugins/massmessaging/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/massmessaging/src/messaging.cpp:46
 msgctxt "Plugin|"
 msgid "MassMessaging"
 msgstr ""
 
+#: ../../../plugins/massmessaging/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/massmessaging/src/messaging.cpp:47
 msgctxt "Plugin|"
 msgid "Simple messaging to contact list"

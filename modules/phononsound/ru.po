@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-21 09:14+0000\n"
+"POT-Creation-Date: 2012-02-19 18:12+0000\n"
 "PO-Revision-Date: 2011-11-15 16:49+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:22+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-02-20 06:12+0000\n"
+"X-Generator: Launchpad (build 14833)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -20,12 +20,14 @@ msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr "Нигматуллин Руслан"
 
+#: ../../../plugins/phononsound/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/phononsound/src/phononsoundplugin.cpp:34
 #: ../../../plugins/phononsound/src/phononsoundplugin.cpp:40
 msgctxt "Plugin|"
 msgid "Phonon sound engine"
 msgstr "Звуковой движок Phonon"
 
+#: ../../../plugins/phononsound/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/phononsound/src/phononsoundplugin.cpp:35
 #: ../../../plugins/phononsound/src/phononsoundplugin.cpp:41
 msgctxt "Plugin|"
@@ -36,3 +38,8 @@ msgstr "Вывод звука основанный на звуковом дви�
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"
+
+#, fuzzy
+#~ msgctxt "Plugin|"
+#~ msgid "Sound engine based on KDE sound engine,"
+#~ msgstr "Вывод звука основанный на звуковом движке KDE"

@@ -842,12 +842,12 @@ msgctxt "Jabber|"
 msgid "Auto-join"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:731
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:744
 msgctxt "Jabber|"
 msgid "You are already in conference with another nick"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:747
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:760
 msgctxt "Jabber|"
 msgid "Please select another nickname"
 msgstr ""
@@ -909,7 +909,7 @@ msgctxt "Jabber|"
 msgid "Room's configuration"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:58
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:59
 msgctxt "Jabber|"
 msgid "Service discovery"
 msgstr ""
@@ -919,12 +919,12 @@ msgctxt "Jabber|"
 msgid "Xml console"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:233
+#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:237
 msgctxt "Jabber::JAccount|Local qutIM's name"
 msgid "qutIM"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:234
+#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:238
 msgctxt "Jabber::JAccount|Default language"
 msgid "en"
 msgstr ""
@@ -944,6 +944,11 @@ msgctxt "Jabber::JActivityChooserWindow|"
 msgid "Choose your activity"
 msgstr ""
 
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:176
+msgctxt "Jabber::JActivityChooserWindow|"
+msgid "Choose"
+msgstr ""
+
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:214
 msgctxt "Jabber::JActivityChooserWindow|"
 msgid "No activity"
@@ -954,133 +959,133 @@ msgctxt "Jabber::JBookmarkManager|"
 msgid "Unable to join groupchat"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp:187
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp:191
 msgctxt "Jabber::JMUCManager|"
 msgid "Join groupchat on"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp:188
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp:192
 msgctxt "Jabber::JMUCManager|"
 msgid "You already in conference with another nick"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:286
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:295
 msgctxt "Jabber::JMUCSession|"
 msgid " has been banned"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:286
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:295
 msgctxt "Jabber::JMUCSession|"
 msgid " has been kicked"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:291
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:300
 msgctxt "Jabber::JMUCSession|"
 msgid "You has been banned at "
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:291
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:300
 msgctxt "Jabber::JMUCSession|"
 msgid "You has been kicked from "
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:293
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:302
 msgctxt "Jabber::JMUCSession|"
 msgid "with reason: "
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:295
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:304
 msgctxt "Jabber::JMUCSession|"
 msgid "Do you want to rejoin?"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:296
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:305
 msgctxt "Jabber::JMUCSession|"
 msgid "You have been kicked"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:300
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:309
 msgctxt "Jabber::JMUCSession|"
 msgid "You have been banned"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:317
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:326
 msgctxt "Jabber::JMUCSession|"
 msgid " is now known as "
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:345
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:354
 msgctxt "Jabber::JMUCSession|"
 msgid " has joined the room"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:347
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:349
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:351
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:353
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:355
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:356
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:358
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:360
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:362
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:364
 msgctxt "Jabber::JMUCSession|"
 msgid " as"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:347
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:378
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:356
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:387
 msgctxt "Jabber::JMUCSession|"
 msgid " owner"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:349
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:380
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:358
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:389
 msgctxt "Jabber::JMUCSession|"
 msgid " administrator"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:351
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:386
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:360
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:395
 msgctxt "Jabber::JMUCSession|"
 msgid " registered member"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:353
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:382
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:394
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:362
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:391
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:403
 msgctxt "Jabber::JMUCSession|"
 msgid " participant"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:355
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:384
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:390
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:396
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:364
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:393
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:399
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:405
 msgctxt "Jabber::JMUCSession|"
 msgid " visitor"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:363
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:372
 msgctxt "Jabber::JMUCSession|"
 msgid " has left the room"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:376
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:385
 msgctxt "Jabber::JMUCSession|"
 msgid " now is"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:382
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:384
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:388
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:390
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:391
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:393
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:397
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:399
 msgctxt "Jabber::JMUCSession|"
 msgid " and"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:388
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:392
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:397
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:401
 msgctxt "Jabber::JMUCSession|"
 msgid " moderator"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:515
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:528
 msgctxt "Jabber::JMUCSession|"
 msgid "Subject:"
 msgstr ""
@@ -1098,6 +1103,11 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:44
 msgctxt "Jabber::JMoodChooserWindow|"
 msgid "Choose your mood"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:45
+msgctxt "Jabber::JMoodChooserWindow|"
+msgid "Choose"
 msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:65
@@ -1137,59 +1147,59 @@ msgctxt "Jabber::JProtocol|"
 msgid "Show client icon"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:144
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:146
 #, qt-format
 msgctxt "Jabber::JRoster|"
 msgid "Contact %1 has been added to roster"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:173
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:175
 #, qt-format
 msgctxt "Jabber::JRoster|"
 msgid "Contact %1 has been removed from roster"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:324
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:338
 msgctxt "Jabber::JRoster|"
 msgid "Received a request for removal from the subscribers"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:332
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:346
 msgctxt "Jabber::JRoster|"
 msgid "You have been removed from the list of subscribers"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:340
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:354
 msgctxt "Jabber::JRoster|"
 msgid "You have been added to the list of subscribers"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:93
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:94
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Search service"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:131
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:132
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Close"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:192
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:193
 msgctxt "Jabber::JServiceBrowser|"
 msgid "type: "
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:193
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:194
 msgctxt "Jabber::JServiceBrowser|"
 msgid "category: "
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:195
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:196
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Identities:"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:345
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:346
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Features:"
 msgstr ""
@@ -1421,6 +1431,11 @@ msgstr ""
 #: ../../../protocols/jabber/jreen/src/error.cpp:144
 msgctxt "Jreen::Error|"
 msgid "No stanza error occured. You're just sleeping."
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:50
+msgctxt "Menu|"
+msgid "Additional"
 msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:38
@@ -1853,16 +1868,22 @@ msgctxt "Mood|"
 msgid "Show contact mood icon"
 msgstr ""
 
-#: ../../../protocols/jabber/src/jplugin.cpp:52
-#: ../../../protocols/jabber/src/jplugin.cpp:66
-msgctxt "Plugin|"
-msgid "Jabber"
-msgstr ""
-
+#: ../../../protocols/jabber/__data_from_cmakelists_txt.cpp:1
 #: ../../../protocols/jabber/src/jplugin.cpp:53
 #: ../../../protocols/jabber/src/jplugin.cpp:67
 msgctxt "Plugin|"
 msgid "Jabber protocol"
+msgstr ""
+
+#: ../../../protocols/jabber/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Implementation of jabber protocol based on jreen library"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:52
+#: ../../../protocols/jabber/src/jplugin.cpp:66
+msgctxt "Plugin|"
+msgid "Jabber"
 msgstr ""
 
 #: ../../../protocols/jabber/src/jplugin.cpp:70
@@ -1955,38 +1976,58 @@ msgctxt "Plugin|"
 msgid "Implementation of VCard info requests"
 msgstr ""
 
-#: ../../../protocols/jabber/src/jplugin.cpp:124
+#: ../../../protocols/jabber/src/jplugin.cpp:120
 msgctxt "Plugin|"
 msgid "Jabber User Mood support"
 msgstr ""
 
-#: ../../../protocols/jabber/src/jplugin.cpp:125
+#: ../../../protocols/jabber/src/jplugin.cpp:121
 msgctxt "Plugin|"
 msgid "Convertes internal XMPP data of mood to Qt data types"
 msgstr ""
 
-#: ../../../protocols/jabber/src/jplugin.cpp:128
+#: ../../../protocols/jabber/src/jplugin.cpp:124
 msgctxt "Plugin|"
 msgid "Jabber Mood Chooser"
 msgstr ""
 
-#: ../../../protocols/jabber/src/jplugin.cpp:129
+#: ../../../protocols/jabber/src/jplugin.cpp:125
 msgctxt "Plugin|"
 msgid "Provides the dialog to set your mood"
 msgstr ""
 
-#: ../../../protocols/jabber/src/jplugin.cpp:132
+#: ../../../protocols/jabber/src/jplugin.cpp:128
 msgctxt "Plugin|"
 msgid "Jabber User Tune support"
 msgstr ""
 
-#: ../../../protocols/jabber/src/jplugin.cpp:133
+#: ../../../protocols/jabber/src/jplugin.cpp:129
 msgctxt "Plugin|"
 msgid "Convertes internal XMPP data of tune to Qt data types"
 msgstr ""
 
-#: ../../../protocols/jabber/src/jplugin.cpp:144
-#: ../../../protocols/jabber/src/jplugin.cpp:145
+#: ../../../protocols/jabber/src/jplugin.cpp:132
+msgctxt "Plugin|"
+msgid "Jabber User Activity support"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:133
+msgctxt "Plugin|"
+msgid "Convertes internal XMPP data of activity to Qt data types"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:136
+msgctxt "Plugin|"
+msgid "Jabber Activity Chooser"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:137
+msgctxt "Plugin|"
+msgid "Provides the dialog to set your activity"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:140
+#: ../../../protocols/jabber/src/jplugin.cpp:141
 msgctxt "Plugin|"
 msgid "Jabber proxy support"
 msgstr ""

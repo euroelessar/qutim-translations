@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-21 09:14+0000\n"
-"PO-Revision-Date: 2011-11-15 16:46+0000\n"
+"POT-Creation-Date: 2012-02-21 20:21+0000\n"
+"PO-Revision-Date: 2012-02-21 10:03+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-11-22 15:21+0000\n"
-"X-Generator: Launchpad (build 14299)\n"
+"X-Launchpad-Export-Date: 2012-02-22 06:53+0000\n"
+"X-Generator: Launchpad (build 14838)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: bg\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -2676,6 +2676,11 @@ msgctxt "Marital|"
 msgid "Other"
 msgstr "Други"
 
+#: ../../../protocols/oscar/src/privacylists.cpp:207
+msgctxt "Menu|"
+msgid "Privacy status"
+msgstr ""
+
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:33
 msgctxt "MetaInfo|"
 msgid "Not specified"
@@ -3098,6 +3103,35 @@ msgctxt "Past|"
 msgid "Other"
 msgstr "Други"
 
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Oscar protocol"
+msgstr "Oscar протокол"
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:2
+#: ../../../protocols/oscar/src/oscarplugin.cpp:54
+msgctxt "Plugin|"
+msgid "Module-based implementation of Oscar protocol"
+msgstr "Модулна реализация на Oscar протокола"
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:3
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:4
+msgctxt "Plugin|"
+msgid "Client identification of oscar contacts"
+msgstr "Установяване на клиентите в Oscar протокола"
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:5
+msgctxt "Plugin|"
+msgid "Oscar additional statuses"
+msgstr "Допълнителни статуси в Oscar"
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:6
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:213
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:222
+msgctxt "Plugin|"
+msgid "Additional statuses for oscar protocol"
+msgstr "Допълнителни статуси за Oscar протокола"
+
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:48
 msgctxt "Plugin|"
 msgid "OscarIdentify"
@@ -3121,12 +3155,6 @@ msgctxt "Plugin|"
 msgid "OscarXStatus"
 msgstr "Oscar разширен статус"
 
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:213
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:222
-msgctxt "Plugin|"
-msgid "Additional statuses for oscar protocol"
-msgstr "Допълнителни статуси за Oscar протокола"
-
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:226
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:227
 msgctxt "Plugin|"
@@ -3137,11 +3165,6 @@ msgstr "Настройки на разширения статус"
 msgctxt "Plugin|"
 msgid "Oscar"
 msgstr "Oscar"
-
-#: ../../../protocols/oscar/src/oscarplugin.cpp:54
-msgctxt "Plugin|"
-msgid "Module-based implementation of Oscar protocol"
-msgstr "Модулна реализация на Oscar протокола"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:63
 msgctxt "Plugin|"
@@ -3245,11 +3268,6 @@ msgstr "Видим само за списъка с контакти"
 msgctxt "Privacy|"
 msgid "Unknown privacy"
 msgstr "Неизвестно уединение"
-
-#: ../../../protocols/oscar/src/privacylists.cpp:207
-msgctxt "Privacy|"
-msgid "Privacy status"
-msgstr "Статус на уединение"
 
 #: ../../../protocols/oscar/src/connection.cpp:52
 msgctxt "ProtocolError|"

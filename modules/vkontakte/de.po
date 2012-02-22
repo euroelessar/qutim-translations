@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-01 17:02+0000\n"
-"PO-Revision-Date: 2012-01-24 11:00+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"POT-Creation-Date: 2012-02-19 16:51+0000\n"
+"PO-Revision-Date: 2012-02-19 18:58+0000\n"
+"Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-02 06:40+0000\n"
-"X-Generator: Launchpad (build 14738)\n"
+"X-Launchpad-Export-Date: 2012-02-20 06:12+0000\n"
+"X-Generator: Launchpad (build 14833)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
@@ -138,6 +138,37 @@ msgctxt "ContactInfo|"
 msgid "Education"
 msgstr "Ausbildung"
 
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "VKontakte"
+msgstr "VKontakte"
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Simple implementation of vkontakte"
+msgstr "Modul für vkontakte"
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:3
+msgctxt "Plugin|"
+msgid "Vkontakte photoalbum support"
+msgstr "Vkontakte photoalbum support"
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:4
+msgctxt "Plugin|"
+msgid "Vkontakte photoalbum support for qutIM, based on power of Qt Quick"
+msgstr "Fotoalbum-Unterstützung für Vkontakte, basierend auf QtQuick"
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:5
+msgctxt "Plugin|"
+msgid "Vkontakte wall support"
+msgstr "Vkontakte wall support"
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:6
+#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:39
+msgctxt "Plugin|"
+msgid "Vkontakte wall support for qutIM"
+msgstr "Vkontakte Wand-Unterstützung für qutIM"
+
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:38
 msgctxt "Plugin|"
 msgid "Photoalbum"
@@ -152,11 +183,6 @@ msgstr "vkontakte Fotoalbum-Unterstützung für qutIM"
 msgctxt "Plugin|"
 msgid "Wall"
 msgstr "Wall"
-
-#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:39
-msgctxt "Plugin|"
-msgid "Vkontakte wall support for qutIM"
-msgstr "Vkontakte Wand-Unterstützung für qutIM"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:39
 msgctxt "Plugin|"

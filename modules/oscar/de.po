@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-21 09:14+0000\n"
-"PO-Revision-Date: 2012-01-31 12:15+0000\n"
+"POT-Creation-Date: 2012-02-21 20:21+0000\n"
+"PO-Revision-Date: 2012-02-21 20:35+0000\n"
 "Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-01 05:24+0000\n"
-"X-Generator: Launchpad (build 14734)\n"
+"X-Launchpad-Export-Date: 2012-02-22 06:53+0000\n"
+"X-Generator: Launchpad (build 14838)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
@@ -1876,10 +1876,10 @@ msgstr ""
 "Kontakt kann nicht hinzugefügt werden, da eine Erlaubnis erforderlich ist"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:189
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "FeedbagError|"
 msgid "Unknown error (Code: %1)"
-msgstr "Unbekannter Fehler"
+msgstr "Unbekannter Fehler (Code: %1)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:455
 msgctxt "Gender|"
@@ -2671,6 +2671,11 @@ msgctxt "Marital|"
 msgid "Other"
 msgstr "Sonstiges"
 
+#: ../../../protocols/oscar/src/privacylists.cpp:207
+msgctxt "Menu|"
+msgid "Privacy status"
+msgstr "Privatstatus"
+
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:33
 msgctxt "MetaInfo|"
 msgid "Not specified"
@@ -3093,6 +3098,35 @@ msgctxt "Past|"
 msgid "Other"
 msgstr "Sonstiges"
 
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Oscar protocol"
+msgstr "Oscar Protokoll"
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:2
+#: ../../../protocols/oscar/src/oscarplugin.cpp:54
+msgctxt "Plugin|"
+msgid "Module-based implementation of Oscar protocol"
+msgstr "Modul für das OSCAR-Protokoll"
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:3
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:4
+msgctxt "Plugin|"
+msgid "Client identification of oscar contacts"
+msgstr "Clienterkennung für Oscar-Kontakte"
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:5
+msgctxt "Plugin|"
+msgid "Oscar additional statuses"
+msgstr "Zusätzliche Status für Oscar"
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:6
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:213
+#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:222
+msgctxt "Plugin|"
+msgid "Additional statuses for oscar protocol"
+msgstr "Erweiterte Status für das OSCAR-Protokoll"
+
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:48
 msgctxt "Plugin|"
 msgid "OscarIdentify"
@@ -3116,12 +3150,6 @@ msgctxt "Plugin|"
 msgid "OscarXStatus"
 msgstr "OscarXStatus"
 
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:213
-#: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:222
-msgctxt "Plugin|"
-msgid "Additional statuses for oscar protocol"
-msgstr "Erweiterte Status für das OSCAR-Protokoll"
-
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:226
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:227
 msgctxt "Plugin|"
@@ -3132,11 +3160,6 @@ msgstr "XStatus settings"
 msgctxt "Plugin|"
 msgid "Oscar"
 msgstr "Oscar"
-
-#: ../../../protocols/oscar/src/oscarplugin.cpp:54
-msgctxt "Plugin|"
-msgid "Module-based implementation of Oscar protocol"
-msgstr "Modul für das OSCAR-Protokoll"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:63
 msgctxt "Plugin|"
@@ -3240,11 +3263,6 @@ msgstr "Sichtbar nur für die Kontaktliste"
 msgctxt "Privacy|"
 msgid "Unknown privacy"
 msgstr "Unbekannter Privatstatus"
-
-#: ../../../protocols/oscar/src/privacylists.cpp:207
-msgctxt "Privacy|"
-msgid "Privacy status"
-msgstr "Privatstatus"
 
 #: ../../../protocols/oscar/src/connection.cpp:52
 msgctxt "ProtocolError|"

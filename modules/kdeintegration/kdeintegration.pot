@@ -35,11 +35,13 @@ msgctxt "KdeSpellerSettings|"
 msgid "Autodetect of language"
 msgstr ""
 
+#: ../../../plugins/kdeintegration/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:103
 msgctxt "Plugin|"
 msgid "KDE integration"
 msgstr ""
 
+#: ../../../plugins/kdeintegration/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:104
 msgctxt "Plugin|"
 msgid "Integration with K Desktop Environment"
