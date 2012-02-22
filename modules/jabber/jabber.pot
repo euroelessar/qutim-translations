@@ -919,12 +919,12 @@ msgctxt "Jabber|"
 msgid "Xml console"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:233
+#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:237
 msgctxt "Jabber::JAccount|Local qutIM's name"
 msgid "qutIM"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:234
+#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:238
 msgctxt "Jabber::JAccount|Default language"
 msgid "en"
 msgstr ""

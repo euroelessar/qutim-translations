@@ -48,8 +48,9 @@ msgid "Used to monitor the availability of network."
 msgstr "Използва се за наблюдение на мрежовата свързаност."
 
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:3
+#, fuzzy
 msgctxt "Plugin|"
-msgid "Mulimedia engine"
+msgid "Multimedia engine"
 msgstr "Мултимедийна система"
 
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:4
