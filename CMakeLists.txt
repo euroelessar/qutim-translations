@@ -18,8 +18,13 @@ LIST(APPEND CMAKE_MODULE_PATH "${QUTIM_PATH}/cmake")
 include(MacroEnsureVersion)
 include(QutIMMacros)
 find_package(QutIM REQUIRED)
-
 find_package(Qt4 REQUIRED)
+
+find_program(QT_LCONVERT_EXECUTABLE
+	NAMES lconvert-qt4 lconvert
+	PATHS ${QT_BINARY_DIR}
+	NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH
+)
 
 set(LANG_DIR "${CMAKE_CURRENT_BINARY_DIR}/languages")
 file(MAKE_DIRECTORY ${LANG_DIR} )
@@ -30,13 +35,18 @@ file(GLOB MODULES RELATIVE "${basePath}" "${basePath}/*/*.po" )
 foreach( moduleFile ${MODULES} )
 	string( REGEX REPLACE "/.*" "" module ${moduleFile} )
 	string( REGEX REPLACE ".*/(.*)\\.po" "\\1" language ${moduleFile} )
+	set( poFile "${basePath}/${moduleFile}" )
+	set( tsFile "${LANG_DIR}_tmp/${language}/${module}.ts" )
+	set( qmFile "${LANG_DIR}/${language}/${module}.qm" )
 	message( "${moduleFile} ${module} ${language}" )
 	file(MAKE_DIRECTORY "${LANG_DIR}/${language}")
+	file(MAKE_DIRECTORY "${LANG_DIR}_tmp/${language}")
 	add_custom_command(
 		TARGET    translations
 		DEPENDS   ${poFile}
-		COMMAND   ${QT_LRELEASE_EXECUTABLE}
-		ARGS      -silent "${basePath}/${moduleFile}" -qm "${LANG_DIR}/${language}/${module}.qm"
+		COMMAND   ${QT_LCONVERT_EXECUTABLE} "${poFile}" -o "${tsFile}"
+		COMMAND   sed -i "'s/<message>/<message utf8=\"true\">/'" "${tsFile}"
+		COMMAND   ${QT_LRELEASE_EXECUTABLE} -silent "${tsFile}" -qm "${qmFile}"
 	)
 endforeach()
 
