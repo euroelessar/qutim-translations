@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-02-22 06:53+0000\n"
 "X-Generator: Launchpad (build 14838)\n"
-"Language: ru\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:85
 msgctxt "ContactList|"

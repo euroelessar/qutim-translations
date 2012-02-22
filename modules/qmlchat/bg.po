@@ -19,6 +19,7 @@ msgstr ""
 "X-Generator: Launchpad (build 14833)\n"
 "X-Language: bg_BG\n"
 "X-Source-Language: C\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/qmlchat/settings/chatappearance.cpp:55
 msgctxt "Core::AdiumChat::ChatAppearance|"

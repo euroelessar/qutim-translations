@@ -19,6 +19,7 @@ msgstr ""
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Launchpad-Export-Date: 2012-02-20 06:11+0000\n"
 "X-Generator: Launchpad (build 14833)\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"

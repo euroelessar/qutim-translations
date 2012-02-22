@@ -13,7 +13,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-02-22 06:52+0000\n"
 "X-Generator: Launchpad (build 14838)\n"
 "X-Qt-Contexts: true\n"
-"Language: bg\n"
 "X-Language: bg\n"
 "X-Source-Language: C\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -957,6 +956,11 @@ msgctxt "Jabber::JActivityChooserWindow|"
 msgid "Choose your activity"
 msgstr "Изберете дейност"
 
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:176
+msgctxt "Jabber::JActivityChooserWindow|"
+msgid "Choose"
+msgstr ""
+
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:214
 msgctxt "Jabber::JActivityChooserWindow|"
 msgid "No activity"
@@ -1112,6 +1116,11 @@ msgstr "Избор на настроение"
 msgctxt "Jabber::JMoodChooserWindow|"
 msgid "Choose your mood"
 msgstr "Изберете настроение"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:45
+msgctxt "Jabber::JMoodChooserWindow|"
+msgid "Choose"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:65
 msgctxt "Jabber::JMoodChooserWindow|"

@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-02-22 06:52+0000\n"
 "X-Generator: Launchpad (build 14838)\n"
-"Language: en_GB\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:35
 msgctxt "Activity|"
@@ -958,6 +958,11 @@ msgctxt "Jabber::JActivityChooserWindow|"
 msgid "Choose your activity"
 msgstr "Choose your activity"
 
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:176
+msgctxt "Jabber::JActivityChooserWindow|"
+msgid "Choose"
+msgstr ""
+
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:214
 msgctxt "Jabber::JActivityChooserWindow|"
 msgid "No activity"
@@ -1113,6 +1118,11 @@ msgstr "Form"
 msgctxt "Jabber::JMoodChooserWindow|"
 msgid "Choose your mood"
 msgstr "Choose your mood"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:45
+msgctxt "Jabber::JMoodChooserWindow|"
+msgid "Choose"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:65
 msgctxt "Jabber::JMoodChooserWindow|"

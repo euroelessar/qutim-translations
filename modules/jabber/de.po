@@ -13,7 +13,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-02-22 06:52+0000\n"
 "X-Generator: Launchpad (build 14838)\n"
 "X-Qt-Contexts: true\n"
-"Language: de\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
 
@@ -956,6 +955,11 @@ msgctxt "Jabber::JActivityChooserWindow|"
 msgid "Choose your activity"
 msgstr "Tätigkeit auswählen"
 
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:176
+msgctxt "Jabber::JActivityChooserWindow|"
+msgid "Choose"
+msgstr ""
+
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:214
 msgctxt "Jabber::JActivityChooserWindow|"
 msgid "No activity"
@@ -1111,6 +1115,11 @@ msgstr "Form"
 msgctxt "Jabber::JMoodChooserWindow|"
 msgid "Choose your mood"
 msgstr "Stimmung auswählen"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:45
+msgctxt "Jabber::JMoodChooserWindow|"
+msgid "Choose"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:65
 msgctxt "Jabber::JMoodChooserWindow|"

@@ -17,6 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-02-20 06:11+0000\n"
 "X-Generator: Launchpad (build 14833)\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/logger/src/logger.cpp:80
 msgctxt "Author|"
