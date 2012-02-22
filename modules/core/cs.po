@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-20 11:31+0000\n"
+"POT-Creation-Date: 2012-02-21 20:21+0000\n"
 "PO-Revision-Date: 2012-02-01 19:08+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,9 +10,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-21 06:30+0000\n"
+"X-Launchpad-Export-Date: 2012-02-22 06:52+0000\n"
 "X-Generator: Launchpad (build 14838)\n"
 "X-Qt-Contexts: true\n"
+"Language: cs\n"
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
 
@@ -2940,10 +2941,9 @@ msgid "AboutDialog"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:2
-#, fuzzy
 msgctxt "Service|"
 msgid "AccountCreator"
-msgstr "Účet"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:3
 #: ../../../core/libqutim/actionbox.cpp:41
@@ -2952,10 +2952,9 @@ msgid "ActionBoxModule"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:4
-#, fuzzy
 msgctxt "Service|"
 msgid "AddContact"
-msgstr "Přidat kontakt"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:5
 msgctxt "Service|"
@@ -2963,16 +2962,14 @@ msgid "ApplicationWindow"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:6
-#, fuzzy
 msgctxt "Service|"
 msgid "AuthorizationService"
-msgstr "Autorizace selhala"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:7
-#, fuzzy
 msgctxt "Service|"
 msgid "AutoAway"
-msgstr "Automaticky"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:8
 msgctxt "Service|"
@@ -2986,10 +2983,9 @@ msgid "ChatForm"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:10
-#, fuzzy
 msgctxt "Service|"
 msgid "ChatLayer"
-msgstr "Konverzace"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:11
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:49
@@ -3009,10 +3005,9 @@ msgid "ContactDelegate"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:14
-#, fuzzy
 msgctxt "Service|"
 msgid "ContactInfo"
-msgstr "Kontakt"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:15
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:77
@@ -3021,10 +3016,9 @@ msgid "ContactList"
 msgstr "Seznam kontaktů"
 
 #: ../../../core/__generated_from_service_names.cpp:16
-#, fuzzy
 msgctxt "Service|"
 msgid "ContactListItemDelegate"
-msgstr "Seznam kontaktů"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:17
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:78
@@ -3059,10 +3053,9 @@ msgid "Dock"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:23
-#, fuzzy
 msgctxt "Service|"
 msgid "FileTransferManager"
-msgstr "Přenos souboru"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:24
 msgctxt "Service|"
@@ -3075,10 +3068,9 @@ msgid "Idle"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:26
-#, fuzzy
 msgctxt "Service|"
 msgid "JoinGroupChat"
-msgstr "Vstoupit do konference"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:27
 msgctxt "Service|"
@@ -3091,10 +3083,9 @@ msgid "MetaContactManager"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:29
-#, fuzzy
 msgctxt "Service|"
 msgid "NotificationSettings"
-msgstr "Oznamování"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:30
 msgctxt "Service|"
@@ -3113,28 +3104,24 @@ msgid "RosterStorage"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:33
-#, fuzzy
 msgctxt "Service|"
 msgid "Scroller"
-msgstr "Typ rolování"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:34
-#, fuzzy
 msgctxt "Service|"
 msgid "SearchForm"
-msgstr "Hledat"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:35
-#, fuzzy
 msgctxt "Service|"
 msgid "SearchLayer"
-msgstr "Hledat"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:36
-#, fuzzy
 msgctxt "Service|"
 msgid "SettingsLayer"
-msgstr "Na&stavení..."
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:37
 #: ../../../core/libqutim/sound.cpp:41
@@ -3148,10 +3135,9 @@ msgid "SpellChecker"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:39
-#, fuzzy
 msgctxt "Service|"
 msgid "TrayIcon"
-msgstr "Ikona"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:40
 msgctxt "Service|"

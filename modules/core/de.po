@@ -2,17 +2,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-20 11:31+0000\n"
-"PO-Revision-Date: 2012-02-20 16:29+0000\n"
+"POT-Creation-Date: 2012-02-21 20:21+0000\n"
+"PO-Revision-Date: 2012-02-21 20:35+0000\n"
 "Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-21 06:30+0000\n"
+"X-Launchpad-Export-Date: 2012-02-22 06:52+0000\n"
 "X-Generator: Launchpad (build 14838)\n"
 "X-Qt-Contexts: true\n"
+"Language: de\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
 
@@ -2964,16 +2965,14 @@ msgid "Back"
 msgstr "Zurück"
 
 #: ../../../core/__generated_from_service_names.cpp:1
-#, fuzzy
 msgctxt "Service|"
 msgid "AboutDialog"
-msgstr "Dialog"
+msgstr "AboutDialog"
 
 #: ../../../core/__generated_from_service_names.cpp:2
-#, fuzzy
 msgctxt "Service|"
 msgid "AccountCreator"
-msgstr "Account creator"
+msgstr "AccountCreator"
 
 #: ../../../core/__generated_from_service_names.cpp:3
 #: ../../../core/libqutim/actionbox.cpp:41
@@ -2982,24 +2981,21 @@ msgid "ActionBoxModule"
 msgstr "ActionBoxModule"
 
 #: ../../../core/__generated_from_service_names.cpp:4
-#, fuzzy
 msgctxt "Service|"
 msgid "AddContact"
-msgstr "Kontakt hinzufügen..."
+msgstr "AddContact"
 
 #: ../../../core/__generated_from_service_names.cpp:5
 msgctxt "Service|"
 msgid "ApplicationWindow"
-msgstr ""
+msgstr "ApplicationWindow"
 
 #: ../../../core/__generated_from_service_names.cpp:6
-#, fuzzy
 msgctxt "Service|"
 msgid "AuthorizationService"
-msgstr "Nicht autorisiert"
+msgstr "AuthorizationService"
 
 #: ../../../core/__generated_from_service_names.cpp:7
-#, fuzzy
 msgctxt "Service|"
 msgid "AutoAway"
 msgstr "AutoAway"
@@ -3007,7 +3003,7 @@ msgstr "AutoAway"
 #: ../../../core/__generated_from_service_names.cpp:8
 msgctxt "Service|"
 msgid "Bearer"
-msgstr ""
+msgstr "Bearer"
 
 #: ../../../core/__generated_from_service_names.cpp:9
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:48
@@ -3016,10 +3012,9 @@ msgid "ChatForm"
 msgstr "ChatForm"
 
 #: ../../../core/__generated_from_service_names.cpp:10
-#, fuzzy
 msgctxt "Service|"
 msgid "ChatLayer"
-msgstr "Nachrichtenfenster"
+msgstr "ChatLayer"
 
 #: ../../../core/__generated_from_service_names.cpp:11
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:49
@@ -3030,7 +3025,7 @@ msgstr "ChatViewFactory"
 #: ../../../core/__generated_from_service_names.cpp:12
 msgctxt "Service|"
 msgid "ConferenceManager"
-msgstr ""
+msgstr "ConferenceManager"
 
 #: ../../../core/__generated_from_service_names.cpp:13
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:80
@@ -3039,10 +3034,9 @@ msgid "ContactDelegate"
 msgstr "ContactDelegate"
 
 #: ../../../core/__generated_from_service_names.cpp:14
-#, fuzzy
 msgctxt "Service|"
 msgid "ContactInfo"
-msgstr "Kontakt"
+msgstr "ContactInfo"
 
 #: ../../../core/__generated_from_service_names.cpp:15
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:77
@@ -3051,10 +3045,9 @@ msgid "ContactList"
 msgstr "ContactList"
 
 #: ../../../core/__generated_from_service_names.cpp:16
-#, fuzzy
 msgctxt "Service|"
 msgid "ContactListItemDelegate"
-msgstr "ContactDelegate"
+msgstr "ContactListItemDelegate"
 
 #: ../../../core/__generated_from_service_names.cpp:17
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:78
@@ -3069,71 +3062,64 @@ msgid "ContactModel"
 msgstr "ContactModel"
 
 #: ../../../core/__generated_from_service_names.cpp:19
-#, fuzzy
 msgctxt "Service|"
 msgid "Core::ContactDelegate"
-msgstr "ContactDelegate"
+msgstr "Core::ContactDelegate"
 
 #: ../../../core/__generated_from_service_names.cpp:20
 msgctxt "Service|"
 msgid "CrashHandler"
-msgstr ""
+msgstr "CrashHandler"
 
 #: ../../../core/__generated_from_service_names.cpp:21
-#, fuzzy
 msgctxt "Service|"
 msgid "DataFormsBackend"
-msgstr "Data forms backend"
+msgstr "DataFormsBackend"
 
 #: ../../../core/__generated_from_service_names.cpp:22
 msgctxt "Service|"
 msgid "Dock"
-msgstr ""
+msgstr "Dock"
 
 #: ../../../core/__generated_from_service_names.cpp:23
-#, fuzzy
 msgctxt "Service|"
 msgid "FileTransferManager"
-msgstr "Dateiübertragungen verwalten"
+msgstr "FileTransferManager"
 
 #: ../../../core/__generated_from_service_names.cpp:24
-#, fuzzy
 msgctxt "Service|"
 msgid "IconLoader"
-msgstr "Xdg Icon Loader"
+msgstr "IconLoader"
 
 #: ../../../core/__generated_from_service_names.cpp:25
 msgctxt "Service|"
 msgid "Idle"
-msgstr ""
+msgstr "Idle"
 
 #: ../../../core/__generated_from_service_names.cpp:26
-#, fuzzy
 msgctxt "Service|"
 msgid "JoinGroupChat"
-msgstr "Chatraum betreten"
+msgstr "JoinGroupChat"
 
 #: ../../../core/__generated_from_service_names.cpp:27
 msgctxt "Service|"
 msgid "Led"
-msgstr ""
+msgstr "Led"
 
 #: ../../../core/__generated_from_service_names.cpp:28
-#, fuzzy
 msgctxt "Service|"
 msgid "MetaContactManager"
-msgstr "Name des Metakontakts:"
+msgstr "MetaContactManager"
 
 #: ../../../core/__generated_from_service_names.cpp:29
-#, fuzzy
 msgctxt "Service|"
 msgid "NotificationSettings"
-msgstr "Notifications settings"
+msgstr "NotificationSettings"
 
 #: ../../../core/__generated_from_service_names.cpp:30
 msgctxt "Service|"
 msgid "NowPlaying"
-msgstr ""
+msgstr "NowPlaying"
 
 #: ../../../core/__generated_from_service_names.cpp:31
 #: ../../../core/libqutim/sound.cpp:40
@@ -3142,34 +3128,29 @@ msgid "Popup"
 msgstr "Popup"
 
 #: ../../../core/__generated_from_service_names.cpp:32
-#, fuzzy
 msgctxt "Service|"
 msgid "RosterStorage"
-msgstr "Simple roster storage"
+msgstr "RosterStorage"
 
 #: ../../../core/__generated_from_service_names.cpp:33
-#, fuzzy
 msgctxt "Service|"
 msgid "Scroller"
-msgstr "Scrollart"
+msgstr "Scroller"
 
 #: ../../../core/__generated_from_service_names.cpp:34
-#, fuzzy
 msgctxt "Service|"
 msgid "SearchForm"
-msgstr "Suchen"
+msgstr "SearchForm"
 
 #: ../../../core/__generated_from_service_names.cpp:35
-#, fuzzy
 msgctxt "Service|"
 msgid "SearchLayer"
-msgstr "Suchen"
+msgstr "SearchLayer"
 
 #: ../../../core/__generated_from_service_names.cpp:36
-#, fuzzy
 msgctxt "Service|"
 msgid "SettingsLayer"
-msgstr "&Einstellungen..."
+msgstr "SettingsLayer"
 
 #: ../../../core/__generated_from_service_names.cpp:37
 #: ../../../core/libqutim/sound.cpp:41
@@ -3178,27 +3159,24 @@ msgid "Sound"
 msgstr "Sound"
 
 #: ../../../core/__generated_from_service_names.cpp:38
-#, fuzzy
 msgctxt "Service|"
 msgid "SpellChecker"
-msgstr "Chat spell checker"
+msgstr "SpellChecker"
 
 #: ../../../core/__generated_from_service_names.cpp:39
-#, fuzzy
 msgctxt "Service|"
 msgid "TrayIcon"
-msgstr "Symbol"
+msgstr "TrayIcon"
 
 #: ../../../core/__generated_from_service_names.cpp:40
-#, fuzzy
 msgctxt "Service|"
 msgid "Vibration"
-msgstr "Initialisieren"
+msgstr "Vibration"
 
 #: ../../../core/__generated_from_service_names.cpp:41
 msgctxt "Service|"
 msgid "VibrationAlert"
-msgstr ""
+msgstr "VibrationAlert"
 
 #: ../../../core/libqutim/settingslayer.cpp:393
 msgctxt "Service|"

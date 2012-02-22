@@ -3,16 +3,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-02-19 16:51+0000\n"
-"PO-Revision-Date: 2011-11-21 05:21+0000\n"
-"Last-Translator: Eugene Degtyarev <Unknown>\n"
+"PO-Revision-Date: 2012-02-21 16:54+0000\n"
+"Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-20 06:11+0000\n"
-"X-Generator: Launchpad (build 14833)\n"
+"X-Launchpad-Export-Date: 2012-02-22 06:53+0000\n"
+"X-Generator: Launchpad (build 14838)\n"
 "X-Qt-Contexts: true\n"
+"Language: ru\n"
 "X-Language: ru\n"
 
 #: ../../../plugins/maemo5integration/maemo5led/maemo5ledplugin.cpp:41
@@ -86,12 +87,12 @@ msgstr "Уведомление вибрацией на Maemo5"
 #: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
 msgid "Maemo 5 Vibra Notifications"
-msgstr ""
+msgstr "Виброуведомления на Maemo 5"
 
 #: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
 msgid "Notification system, based Maemo 5 Vibrator"
-msgstr ""
+msgstr "Система уведомлений для Maemo 5, использующая вибрацию"
 
 #: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:3
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settingsplugin.cpp:36
@@ -102,32 +103,32 @@ msgstr "Настройки Maemo5"
 #: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
 msgid "Maemo 5 Led Notifications"
-msgstr ""
+msgstr "Уведомление светодиодами на Maemo 5"
 
 #: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"
 msgid "Notification system, based Maemo 5 Led"
-msgstr ""
+msgstr "Система уведомлений для Maemo 5, использующая мигание светодиодом"
 
 #: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:6
 msgctxt "Plugin|"
 msgid "Maemo 5 Tray "
-msgstr ""
+msgstr "Трей в Maemo 5 "
 
 #: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:7
 msgctxt "Plugin|"
 msgid "Maemo 5 specific system tray implementation"
-msgstr ""
+msgstr "Специфичная для Maemo 5 реализация трея"
 
 #: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:8
 msgctxt "Plugin|"
 msgid "Maemo 5 Idle detector"
-msgstr ""
+msgstr "Детектор неактивности для Maemo 5"
 
 #: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:9
 msgctxt "Plugin|"
 msgid "Native Maemo 5 idle detector"
-msgstr ""
+msgstr "Системная реализация детектора неактивности для Maemo 5"
 
 #: ../../../plugins/maemo5integration/maemo5led/maemo5ledplugin.cpp:38
 msgctxt "Plugin|"

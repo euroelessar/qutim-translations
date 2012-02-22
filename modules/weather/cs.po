@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-19 18:12+0000\n"
+"POT-Creation-Date: 2012-02-21 07:42+0000\n"
 "PO-Revision-Date: 2012-02-01 19:07+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,9 +10,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-20 06:12+0000\n"
-"X-Generator: Launchpad (build 14833)\n"
+"X-Launchpad-Export-Date: 2012-02-22 06:53+0000\n"
+"X-Generator: Launchpad (build 14838)\n"
 "X-Qt-Contexts: true\n"
+"Language: cs\n"
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
 
@@ -39,10 +40,10 @@ msgid "Developer"
 msgstr "Vývojář"
 
 #: ../../../plugins/weather/src/waccount.cpp:161
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "WAccount|"
 msgid "Weather: %1°%2"
-msgstr "Počasí"
+msgstr ""
 
 #: ../../../plugins/weather/src/wlistitem.cpp:41
 msgctxt "WListItem|"

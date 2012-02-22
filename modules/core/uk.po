@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-02-20 11:31+0000\n"
+"POT-Creation-Date: 2012-02-21 20:21+0000\n"
 "PO-Revision-Date: 2012-02-20 14:33+0000\n"
 "Last-Translator: Maxim <kontact.cat@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-21 06:31+0000\n"
+"X-Launchpad-Export-Date: 2012-02-22 06:52+0000\n"
 "X-Generator: Launchpad (build 14838)\n"
 
 #: ../../../core/libqutim/account.cpp:144
@@ -2945,16 +2945,14 @@ msgid "Back"
 msgstr "Назад"
 
 #: ../../../core/__generated_from_service_names.cpp:1
-#, fuzzy
 msgctxt "Service|"
 msgid "AboutDialog"
-msgstr "Діалог"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:2
-#, fuzzy
 msgctxt "Service|"
 msgid "AccountCreator"
-msgstr "Створювач облікових записів"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:3
 #: ../../../core/libqutim/actionbox.cpp:41
@@ -2963,10 +2961,9 @@ msgid "ActionBoxModule"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:4
-#, fuzzy
 msgctxt "Service|"
 msgid "AddContact"
-msgstr "Додати контакт"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:5
 msgctxt "Service|"
@@ -2974,16 +2971,14 @@ msgid "ApplicationWindow"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:6
-#, fuzzy
 msgctxt "Service|"
 msgid "AuthorizationService"
-msgstr "Авторизація не вдалась"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:7
-#, fuzzy
 msgctxt "Service|"
 msgid "AutoAway"
-msgstr "Авто-\"Відійшов\""
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:8
 msgctxt "Service|"
@@ -2997,10 +2992,9 @@ msgid "ChatForm"
 msgstr "Форма розмови"
 
 #: ../../../core/__generated_from_service_names.cpp:10
-#, fuzzy
 msgctxt "Service|"
 msgid "ChatLayer"
-msgstr "Розмова"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:11
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:49
@@ -3020,10 +3014,9 @@ msgid "ContactDelegate"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:14
-#, fuzzy
 msgctxt "Service|"
 msgid "ContactInfo"
-msgstr "Контакт"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:15
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:77
@@ -3032,10 +3025,9 @@ msgid "ContactList"
 msgstr "Лист контактів"
 
 #: ../../../core/__generated_from_service_names.cpp:16
-#, fuzzy
 msgctxt "Service|"
 msgid "ContactListItemDelegate"
-msgstr "Віджет листа контактів"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:17
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:78
@@ -3070,10 +3062,9 @@ msgid "Dock"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:23
-#, fuzzy
 msgctxt "Service|"
 msgid "FileTransferManager"
-msgstr "Менеджер надсилання файла"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:24
 msgctxt "Service|"
@@ -3086,10 +3077,9 @@ msgid "Idle"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:26
-#, fuzzy
 msgctxt "Service|"
 msgid "JoinGroupChat"
-msgstr "Приєднатися до групової розмови"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:27
 msgctxt "Service|"
@@ -3097,16 +3087,14 @@ msgid "Led"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:28
-#, fuzzy
 msgctxt "Service|"
 msgid "MetaContactManager"
-msgstr "Ім'я мета-контакту"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:29
-#, fuzzy
 msgctxt "Service|"
 msgid "NotificationSettings"
-msgstr "Сповіщення"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:30
 msgctxt "Service|"
@@ -3125,28 +3113,24 @@ msgid "RosterStorage"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:33
-#, fuzzy
 msgctxt "Service|"
 msgid "Scroller"
-msgstr "Тип прокрутки"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:34
-#, fuzzy
 msgctxt "Service|"
 msgid "SearchForm"
-msgstr "Пошук"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:35
-#, fuzzy
 msgctxt "Service|"
 msgid "SearchLayer"
-msgstr "Пошук"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:36
-#, fuzzy
 msgctxt "Service|"
 msgid "SettingsLayer"
-msgstr "&Налаштування..."
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:37
 #: ../../../core/libqutim/sound.cpp:41
@@ -3160,16 +3144,14 @@ msgid "SpellChecker"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:39
-#, fuzzy
 msgctxt "Service|"
 msgid "TrayIcon"
-msgstr "Іконка"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:40
-#, fuzzy
 msgctxt "Service|"
 msgid "Vibration"
-msgstr "Ініціація"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:41
 msgctxt "Service|"

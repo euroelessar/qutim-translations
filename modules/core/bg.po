@@ -2,17 +2,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-20 11:31+0000\n"
-"PO-Revision-Date: 2012-02-21 02:36+0000\n"
+"POT-Creation-Date: 2012-02-21 20:21+0000\n"
+"PO-Revision-Date: 2012-02-21 21:01+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-21 06:30+0000\n"
+"X-Launchpad-Export-Date: 2012-02-22 06:52+0000\n"
 "X-Generator: Launchpad (build 14838)\n"
 "X-Qt-Contexts: true\n"
+"Language: bg\n"
 "X-Language: bg\n"
 "X-Source-Language: C\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -2992,16 +2993,14 @@ msgid "Back"
 msgstr "Назад"
 
 #: ../../../core/__generated_from_service_names.cpp:1
-#, fuzzy
 msgctxt "Service|"
 msgid "AboutDialog"
-msgstr "Удостоверяване"
+msgstr "Диалогов прозорец \"За\""
 
 #: ../../../core/__generated_from_service_names.cpp:2
-#, fuzzy
 msgctxt "Service|"
 msgid "AccountCreator"
-msgstr "Създаване на сметка"
+msgstr "Създаване на сметки"
 
 #: ../../../core/__generated_from_service_names.cpp:3
 #: ../../../core/libqutim/actionbox.cpp:41
@@ -3010,7 +3009,6 @@ msgid "ActionBoxModule"
 msgstr "Област с действия"
 
 #: ../../../core/__generated_from_service_names.cpp:4
-#, fuzzy
 msgctxt "Service|"
 msgid "AddContact"
 msgstr "Добавяне на контакт"
@@ -3018,16 +3016,14 @@ msgstr "Добавяне на контакт"
 #: ../../../core/__generated_from_service_names.cpp:5
 msgctxt "Service|"
 msgid "ApplicationWindow"
-msgstr ""
+msgstr "Прозорец на приложението"
 
 #: ../../../core/__generated_from_service_names.cpp:6
-#, fuzzy
 msgctxt "Service|"
 msgid "AuthorizationService"
-msgstr "Неуспешно удостоверяване"
+msgstr "Услуга за удостоверяване"
 
 #: ../../../core/__generated_from_service_names.cpp:7
-#, fuzzy
 msgctxt "Service|"
 msgid "AutoAway"
 msgstr "Автоматично отсъствие"
@@ -3044,10 +3040,9 @@ msgid "ChatForm"
 msgstr "Формуляр на разговора"
 
 #: ../../../core/__generated_from_service_names.cpp:10
-#, fuzzy
 msgctxt "Service|"
 msgid "ChatLayer"
-msgstr "Разговор"
+msgstr "Слой на разговора"
 
 #: ../../../core/__generated_from_service_names.cpp:11
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:49
@@ -3058,7 +3053,7 @@ msgstr "Изглед на формуляра на разговор"
 #: ../../../core/__generated_from_service_names.cpp:12
 msgctxt "Service|"
 msgid "ConferenceManager"
-msgstr ""
+msgstr "Управление на конференции"
 
 #: ../../../core/__generated_from_service_names.cpp:13
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:80
@@ -3067,10 +3062,9 @@ msgid "ContactDelegate"
 msgstr "Изглед на контактите"
 
 #: ../../../core/__generated_from_service_names.cpp:14
-#, fuzzy
 msgctxt "Service|"
 msgid "ContactInfo"
-msgstr "Контакт"
+msgstr "Информация за контакт"
 
 #: ../../../core/__generated_from_service_names.cpp:15
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:77
@@ -3079,10 +3073,9 @@ msgid "ContactList"
 msgstr "Списък с контакти"
 
 #: ../../../core/__generated_from_service_names.cpp:16
-#, fuzzy
 msgctxt "Service|"
 msgid "ContactListItemDelegate"
-msgstr "Изглед на контактите"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:17
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:78
@@ -3097,46 +3090,41 @@ msgid "ContactModel"
 msgstr "Модел на контакта"
 
 #: ../../../core/__generated_from_service_names.cpp:19
-#, fuzzy
 msgctxt "Service|"
 msgid "Core::ContactDelegate"
-msgstr "Изглед на контактите"
+msgstr "Ядро::Изглед на контактите"
 
 #: ../../../core/__generated_from_service_names.cpp:20
 msgctxt "Service|"
 msgid "CrashHandler"
-msgstr ""
+msgstr "Справяне със сривове"
 
 #: ../../../core/__generated_from_service_names.cpp:21
-#, fuzzy
 msgctxt "Service|"
 msgid "DataFormsBackend"
-msgstr "Поддъжка на формуляри за данни"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:22
 msgctxt "Service|"
 msgid "Dock"
-msgstr ""
+msgstr "Док"
 
 #: ../../../core/__generated_from_service_names.cpp:23
-#, fuzzy
 msgctxt "Service|"
 msgid "FileTransferManager"
-msgstr "Управление на предаването на файлове"
+msgstr "Обмен на файлове"
 
 #: ../../../core/__generated_from_service_names.cpp:24
-#, fuzzy
 msgctxt "Service|"
 msgid "IconLoader"
-msgstr "Поддръжка на Xdg икони"
+msgstr "Поддръжка на икони"
 
 #: ../../../core/__generated_from_service_names.cpp:25
 msgctxt "Service|"
 msgid "Idle"
-msgstr ""
+msgstr "Бездействие"
 
 #: ../../../core/__generated_from_service_names.cpp:26
-#, fuzzy
 msgctxt "Service|"
 msgid "JoinGroupChat"
 msgstr "Присъединяване към групов разговор"
@@ -3147,13 +3135,11 @@ msgid "Led"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:28
-#, fuzzy
 msgctxt "Service|"
 msgid "MetaContactManager"
-msgstr "Име на мета-контакта:"
+msgstr "Управление на мета-контакти"
 
 #: ../../../core/__generated_from_service_names.cpp:29
-#, fuzzy
 msgctxt "Service|"
 msgid "NotificationSettings"
 msgstr "Настройки на уведомленията"
@@ -3161,7 +3147,7 @@ msgstr "Настройки на уведомленията"
 #: ../../../core/__generated_from_service_names.cpp:30
 msgctxt "Service|"
 msgid "NowPlaying"
-msgstr ""
+msgstr "В момента просвирвам"
 
 #: ../../../core/__generated_from_service_names.cpp:31
 #: ../../../core/libqutim/sound.cpp:40
@@ -3170,34 +3156,29 @@ msgid "Popup"
 msgstr "Уведомление"
 
 #: ../../../core/__generated_from_service_names.cpp:32
-#, fuzzy
 msgctxt "Service|"
 msgid "RosterStorage"
-msgstr "Опростенo хранилище на списъка с контакти"
+msgstr "Хранилище за списъци с контакти"
 
 #: ../../../core/__generated_from_service_names.cpp:33
-#, fuzzy
 msgctxt "Service|"
 msgid "Scroller"
-msgstr "Тип на превъртането"
+msgstr "Превъртане"
 
 #: ../../../core/__generated_from_service_names.cpp:34
-#, fuzzy
 msgctxt "Service|"
 msgid "SearchForm"
-msgstr "Търсене"
+msgstr "Формуляр за търсене"
 
 #: ../../../core/__generated_from_service_names.cpp:35
-#, fuzzy
 msgctxt "Service|"
 msgid "SearchLayer"
-msgstr "Търсене"
+msgstr "Слой за търсене"
 
 #: ../../../core/__generated_from_service_names.cpp:36
-#, fuzzy
 msgctxt "Service|"
 msgid "SettingsLayer"
-msgstr "&Настройки..."
+msgstr "Слой за настройки"
 
 #: ../../../core/__generated_from_service_names.cpp:37
 #: ../../../core/libqutim/sound.cpp:41
@@ -3206,27 +3187,24 @@ msgid "Sound"
 msgstr "Звук"
 
 #: ../../../core/__generated_from_service_names.cpp:38
-#, fuzzy
 msgctxt "Service|"
 msgid "SpellChecker"
-msgstr "Проверка на правописа в разговора"
+msgstr "Проверка на правописа"
 
 #: ../../../core/__generated_from_service_names.cpp:39
-#, fuzzy
 msgctxt "Service|"
 msgid "TrayIcon"
-msgstr "Икона"
+msgstr "Икона в системния поднос"
 
 #: ../../../core/__generated_from_service_names.cpp:40
-#, fuzzy
 msgctxt "Service|"
 msgid "Vibration"
-msgstr "Иницииране"
+msgstr "Вибрация"
 
 #: ../../../core/__generated_from_service_names.cpp:41
 msgctxt "Service|"
 msgid "VibrationAlert"
-msgstr ""
+msgstr "Вибрационна сигнализация"
 
 #: ../../../core/libqutim/settingslayer.cpp:393
 msgctxt "Service|"
@@ -3892,11 +3870,3 @@ msgstr "Запис"
 msgctxt "userInformationClass|"
 msgid "Close"
 msgstr "Затваряне"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Simple tree contact list model"
-#~ msgstr "Обикновени Мета-контакти"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Simple plain contact list model"
-#~ msgstr "Обикновени Мета-контакти"
