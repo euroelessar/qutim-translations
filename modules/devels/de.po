@@ -7,76 +7,67 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-22 02:08+0600\n"
-"PO-Revision-Date: 2012-02-19 16:50+0000\n"
+"POT-Creation-Date: 2012-02-22 16:49+0000\n"
+"PO-Revision-Date: 2012-02-22 17:30+0000\n"
 "Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-22 06:53+0000\n"
-"X-Generator: Launchpad (build 14838)\n"
+"X-Launchpad-Export-Date: 2012-02-23 05:19+0000\n"
+"X-Generator: Launchpad (build 14855)\n"
 "X-Qt-Contexts: true\n"
+"Language: de\n"
 
 #: __from_devels_json.cpp:1
-#, fuzzy
 msgctxt "Author|"
 msgid "Eugene Degtyarev"
-msgstr "Eugene Degtyarew"
+msgstr "Eugene Degtyarev"
 
 #: __from_devels_json.cpp:3
-#, fuzzy
 msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr "Ruslan Nigmatullin"
 
 #: __from_devels_json.cpp:5
-#, fuzzy
 msgctxt "Author|"
 msgid "Denis Daschenko"
 msgstr "Denis Daschenko"
 
 #: __from_devels_json.cpp:7
-#, fuzzy
 msgctxt "Author|"
 msgid "Sidorov Aleksey"
 msgstr "Sidorov Aleksey"
 
 #: __from_devels_json.cpp:9
-#, fuzzy
 msgctxt "Author|"
 msgid "Ivan Vizir"
 msgstr "Ivan Vizir"
 
 #: __from_devels_json.cpp:11
-#, fuzzy
 msgctxt "Author|"
 msgid "Rederick Asher"
 msgstr "Rederick Asher"
 
 #: __from_devels_json.cpp:13
-#, fuzzy
 msgctxt "Author|"
 msgid "Semen Vozhov"
 msgstr "Semen Vozhov"
 
 #: __from_devels_json.cpp:15
-#, fuzzy
 msgctxt "Author|"
 msgid "Perova Gala"
 msgstr "Perova Gala"
 
 #: __from_devels_json.cpp:2 __from_devels_json.cpp:4 __from_devels_json.cpp:6
 #: __from_devels_json.cpp:8 __from_devels_json.cpp:10
-#, fuzzy
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Entwickler"
 
 #: __from_devels_json.cpp:12 __from_devels_json.cpp:14
 #: __from_devels_json.cpp:16
-#, fuzzy
 msgctxt "Task|"
 msgid "Artist"
 msgstr "Künstler"

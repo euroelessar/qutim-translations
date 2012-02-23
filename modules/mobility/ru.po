@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-19 16:51+0000\n"
+"POT-Creation-Date: 2012-02-22 16:48+0000\n"
 "PO-Revision-Date: 2012-02-21 19:22+0000\n"
 "Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,8 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-22 06:53+0000\n"
-"X-Generator: Launchpad (build 14838)\n"
+"X-Launchpad-Export-Date: 2012-02-23 05:19+0000\n"
+"X-Generator: Launchpad (build 14855)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -47,10 +47,9 @@ msgid "Used to monitor the availability of network."
 msgstr "Используется для наблюдения за статусом сети."
 
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:3
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Multimedia engine"
-msgstr "Движок мультимедиа"
+msgstr ""
 
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
