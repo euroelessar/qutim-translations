@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-21 20:22+0000\n"
-"PO-Revision-Date: 2012-02-21 20:39+0000\n"
+"POT-Creation-Date: 2012-02-22 16:49+0000\n"
+"PO-Revision-Date: 2012-02-22 17:32+0000\n"
 "Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-22 06:52+0000\n"
-"X-Generator: Launchpad (build 14838)\n"
+"X-Launchpad-Export-Date: 2012-02-23 05:19+0000\n"
+"X-Generator: Launchpad (build 14855)\n"
 "X-Qt-Contexts: true\n"
 "Language: de\n"
 "X-Language: de\n"
@@ -930,12 +930,12 @@ msgctxt "Jabber|"
 msgid "Xml console"
 msgstr "xml-Konsole"
 
-#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:233
+#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:237
 msgctxt "Jabber::JAccount|Local qutIM's name"
 msgid "qutIM"
 msgstr "qutIM"
 
-#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:234
+#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:238
 msgctxt "Jabber::JAccount|Default language"
 msgid "en"
 msgstr "de"
@@ -954,6 +954,11 @@ msgstr "Form"
 msgctxt "Jabber::JActivityChooserWindow|"
 msgid "Choose your activity"
 msgstr "Tätigkeit auswählen"
+
+#: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:176
+msgctxt "Jabber::JActivityChooserWindow|"
+msgid "Choose"
+msgstr "Auswählen"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:214
 msgctxt "Jabber::JActivityChooserWindow|"
@@ -1110,6 +1115,11 @@ msgstr "Form"
 msgctxt "Jabber::JMoodChooserWindow|"
 msgid "Choose your mood"
 msgstr "Stimmung auswählen"
+
+#: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:45
+msgctxt "Jabber::JMoodChooserWindow|"
+msgid "Choose"
+msgstr "Auswählen"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:65
 msgctxt "Jabber::JMoodChooserWindow|"

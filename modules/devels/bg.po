@@ -7,61 +7,73 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-22 02:08+0600\n"
-"PO-Revision-Date: 2012-02-19 18:08+0000\n"
+"POT-Creation-Date: 2012-02-22 16:49+0000\n"
+"PO-Revision-Date: 2012-02-22 23:32+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-22 06:53+0000\n"
-"X-Generator: Launchpad (build 14838)\n"
+"X-Launchpad-Export-Date: 2012-02-23 05:19+0000\n"
+"X-Generator: Launchpad (build 14855)\n"
+"X-Qt-Contexts: true\n"
 "Language: \n"
 "X-Language: bg_BG\n"
 "X-Source-Language: C\n"
 
 # Автор
-msgctxt "Author"
+#: __from_devels_json.cpp:1
+msgctxt "Author|"
 msgid "Eugene Degtyarev"
 msgstr "Евгений Дегтярев"
 
-# Задача
-msgctxt "Task"
-msgid "Developer"
-msgstr "Разработчик"
-
 # Автор
-msgctxt "Author"
+#: __from_devels_json.cpp:3
+msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr "Руслан Нигматуллин"
 
 # Автор
-msgctxt "Author"
+#: __from_devels_json.cpp:5
+msgctxt "Author|"
 msgid "Denis Daschenko"
 msgstr "Денис Дасченко"
 
 # Автор
-msgctxt "Author"
+#: __from_devels_json.cpp:7
+msgctxt "Author|"
 msgid "Sidorov Aleksey"
 msgstr "Алексей Сидоров"
 
 # Автор
-msgctxt "Author"
+#: __from_devels_json.cpp:9
+msgctxt "Author|"
 msgid "Ivan Vizir"
 msgstr "Иван Визир"
 
-msgctxt "Author"
+#: __from_devels_json.cpp:11
+msgctxt "Author|"
 msgid "Rederick Asher"
 msgstr "Редерик Ашър"
 
-msgctxt "Task"
-msgid "Artist"
-msgstr "Артист"
-
-msgctxt "Author"
+#: __from_devels_json.cpp:13
+msgctxt "Author|"
 msgid "Semen Vozhov"
 msgstr "Семен Вожов"
 
-msgctxt "Author"
+#: __from_devels_json.cpp:15
+msgctxt "Author|"
 msgid "Perova Gala"
 msgstr "Гала Перова"
+
+# Задача
+#: __from_devels_json.cpp:2 __from_devels_json.cpp:4 __from_devels_json.cpp:6
+#: __from_devels_json.cpp:8 __from_devels_json.cpp:10
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Разработчик"
+
+#: __from_devels_json.cpp:12 __from_devels_json.cpp:14 __from_devels_json.cpp:16
+msgctxt "Task|"
+msgid "Artist"
+msgstr "Артист"

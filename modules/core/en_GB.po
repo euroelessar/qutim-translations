@@ -7,15 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-02-21 20:21+0000\n"
+"POT-Creation-Date: 2012-02-22 16:49+0000\n"
 "PO-Revision-Date: 2012-02-20 14:33+0000\n"
 "Last-Translator: Anthony Harrington <untaintableangel@hotmail.co.uk>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-22 06:52+0000\n"
-"X-Generator: Launchpad (build 14838)\n"
+"X-Launchpad-Export-Date: 2012-02-23 05:18+0000\n"
+"X-Generator: Launchpad (build 14855)\n"
+"X-Qt-Contexts: true\n"
 "Language: en_GB\n"
 
 #: ../../../core/libqutim/account.cpp:144
@@ -165,11 +166,6 @@ msgstr ""
 "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
 "family:'DroidSans';\"></p></body></html>"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:89
-msgctxt "Author|"
-msgid "Rederick Asher"
-msgstr "Rederick Asher"
-
 #: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:39
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:42
 #: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:44
@@ -225,28 +221,28 @@ msgctxt "ChatLayer|"
 msgid "Insert Emoticon"
 msgstr "Insert Emoticon"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:103
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:98
 msgctxt "ChatLayer|"
 msgid "Show Emoticons"
 msgstr "Show Emoticons"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:108
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:123
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:103
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:118
 msgctxt "ChatLayer|"
 msgid "Quote"
 msgstr "Quote"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:113
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:108
 msgctxt "ChatLayer|"
 msgid "Clear Chat"
 msgstr "Clear Chat"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:130
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:125
 msgctxt "ChatLayer|"
 msgid "Clear chat"
 msgstr "Clear chat"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:133
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:128
 msgctxt "ChatLayer|"
 msgid "Clear chat field"
 msgstr "Clear chat field"
@@ -3384,32 +3380,32 @@ msgctxt "SimpleAboutDialog|"
 msgid "Module based instant messenger."
 msgstr "Module based instant messenger."
 
-#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:143
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:147
 msgctxt "SimpleAboutDialog|"
 msgid "Source code repository:"
 msgstr "Source code repository:"
 
-#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:160
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:164
 msgctxt "SimpleAboutDialog|"
 msgid "Project site:"
 msgstr "Project site:"
 
-#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:167
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:171
 msgctxt "SimpleAboutDialog|"
 msgid "Bug tracker:"
 msgstr "Bug tracker:"
 
-#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:200
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:204
 msgctxt "SimpleAboutDialog|"
 msgid "Developers"
 msgstr "Developers"
 
-#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:223
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:227
 msgctxt "SimpleAboutDialog|"
 msgid "Translators"
 msgstr "Translators"
 
-#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:240
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:244
 msgctxt "SimpleAboutDialog|"
 msgid "License"
 msgstr "License"
@@ -3615,16 +3611,20 @@ msgctxt "Status|"
 msgid "Unknown"
 msgstr "Unknown"
 
-#: ../../../core/libqutim/personinfo.cpp:199
+#: ../../../core/libqutim/personinfo.cpp:208
 msgctxt "TRANSLATORS|"
 msgid "Your names"
 msgstr "Your names"
 
-#: ../../../core/libqutim/personinfo.cpp:200
-#: ../../../core/libqutim/personinfo.cpp:201
+#: ../../../core/libqutim/personinfo.cpp:209
 msgctxt "TRANSLATORS|"
 msgid "Your emails"
 msgstr "Your emails"
+
+#: ../../../core/libqutim/personinfo.cpp:210
+msgctxt "TRANSLATORS|"
+msgid "Your web addresses"
+msgstr ""
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:14
 msgctxt "TabbedChatBehavior|"
@@ -3681,15 +3681,10 @@ msgctxt "TagsFilterDialog|"
 msgid "Select tags"
 msgstr "Select tags"
 
-#: ../../../core/libqutim/personinfo.cpp:204
+#: ../../../core/libqutim/personinfo.cpp:213
 msgctxt "Task|"
 msgid "Translator"
 msgstr "Translator"
-
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:90
-msgctxt "Task|"
-msgid "Artist"
-msgstr "Artist"
 
 #: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:40
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:39
