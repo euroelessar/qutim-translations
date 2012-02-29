@@ -1,0 +1,116 @@
+# Bulgarian translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-02-27 18:12+0000\n"
+"PO-Revision-Date: 2012-02-28 09:08+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: Bulgarian <bg@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-02-29 05:23+0000\n"
+"X-Generator: Launchpad (build 14874)\n"
+
+#: ../../../plugins/highlighter/src/highlighter.cpp:45
+msgctxt "Author|"
+msgid "Nicolay Izoderov"
+msgstr "Николай Изодеров"
+
+#: ../../../plugins/highlighter/src/highlighteritemlist.cpp:44
+#: ../../../plugins/highlighter/src/highlighteritemlist.cpp:105
+msgctxt "HighlighterItemList|"
+msgid "Remove"
+msgstr "Премахване"
+
+#: ../../../plugins/highlighter/src/highlighteritemlist.cpp:82
+#: ../../../plugins/highlighter/src/highlighteritemlist.cpp:94
+msgctxt "HighlighterItemList|"
+msgid "Perl-like"
+msgstr "Като в Perl"
+
+#: ../../../plugins/highlighter/src/highlighteritemlist.cpp:84
+msgctxt "HighlighterItemList|"
+msgid "Improved perl-like"
+msgstr "Като в Perl (подобрено)"
+
+#: ../../../plugins/highlighter/src/highlighteritemlist.cpp:86
+msgctxt "HighlighterItemList|"
+msgid "Shell-like"
+msgstr "Като в команден интерпретатор"
+
+#: ../../../plugins/highlighter/src/highlighteritemlist.cpp:88
+msgctxt "HighlighterItemList|"
+msgid "Shell-like Unix"
+msgstr "Като в команден интерпретатор на Unix"
+
+#: ../../../plugins/highlighter/src/highlighteritemlist.cpp:90
+msgctxt "HighlighterItemList|"
+msgid "Fixed string"
+msgstr "Фиксиран низ"
+
+#: ../../../plugins/highlighter/src/highlighteritemlist.cpp:92
+msgctxt "HighlighterItemList|"
+msgid "W3C XML Schema"
+msgstr "W3C XML Schema"
+
+#: ../../../plugins/highlighter/src/highlightersettings.ui:14
+msgctxt "HighlighterSettingsForm|"
+msgid "Form"
+msgstr "Настройки на открояването"
+
+#: ../../../plugins/highlighter/src/highlightersettings.ui:24
+msgctxt "HighlighterSettingsForm|"
+msgid "Regexps"
+msgstr "Регулярни изрази"
+
+#: ../../../plugins/highlighter/src/highlightersettings.ui:30
+msgctxt "HighlighterSettingsForm|"
+msgid "Regexp"
+msgstr "Регулярен израз"
+
+#: ../../../plugins/highlighter/src/highlightersettings.ui:53
+msgctxt "HighlighterSettingsForm|"
+msgid "Add"
+msgstr "Добавяне"
+
+#: ../../../plugins/highlighter/src/highlightersettings.ui:61
+msgctxt "HighlighterSettingsForm|"
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../../../plugins/highlighter/src/highlightersettings.ui:67
+msgctxt "HighlighterSettingsForm|"
+msgid "Enable simple default regexp"
+msgstr "Включване на подразбиращия се, елементарен регулярен израз"
+
+#: ../../../plugins/highlighter/src/highlightersettings.ui:83
+msgctxt "HighlighterSettingsForm|"
+msgid "Simple regexp"
+msgstr "Елементарен регулярен израз"
+
+#: ../../../plugins/highlighter/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/highlighter/src/highlighter.cpp:41
+#: ../../../plugins/highlighter/src/highlighter.cpp:54
+msgctxt "Plugin|"
+msgid "Highlighter"
+msgstr "Открояване/Маркиране"
+
+#: ../../../plugins/highlighter/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/highlighter/src/highlighter.cpp:42
+msgctxt "Plugin|"
+msgid ""
+"Plugin that add support of highlighting, when your nick has been mentioned."
+msgstr ""
+"Добавката предоставя поддръжка на открояване, на псевдонима ви при "
+"споменаване."
+
+#: ../../../plugins/highlighter/src/highlighter.cpp:46
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Разработчик"
