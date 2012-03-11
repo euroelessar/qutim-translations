@@ -1,20 +1,21 @@
+# Chinese (Simplified) translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-02-21 07:42+0000\n"
-"PO-Revision-Date: 2012-03-10 12:44+0000\n"
-"Last-Translator: Vsevolod Velichko <Unknown>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2012-03-10 09:33+0000\n"
+"Last-Translator: Wang Dianjin <Unknown>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-03-11 05:05+0000\n"
 "X-Generator: Launchpad (build 14914)\n"
-"X-Qt-Contexts: true\n"
-"Language: de\n"
-"X-Language: de\n"
-"X-Source-Language: en_US\n"
 
 #: ../../../plugins/weather/src/weather.cpp:36
 msgctxt "Author|"
@@ -25,85 +26,85 @@ msgstr "Nikita Belov"
 #: ../../../plugins/weather/src/weather.cpp:39
 msgctxt "Plugin|"
 msgid "Weather plugin"
-msgstr "Weather plugin"
+msgstr "添加插件"
 
 #: ../../../plugins/weather/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/weather/src/weather.cpp:40
 msgctxt "Plugin|"
 msgid "Plugin shows a current weather in your city."
-msgstr "Zeigt das aktuelle Wetter in deiner Stadt an."
+msgstr "插件显示您所在城市当前天气。"
 
 #: ../../../plugins/weather/src/weather.cpp:37
 msgctxt "Task|"
 msgid "Developer"
-msgstr "Entwickler"
+msgstr "开发者"
 
 #: ../../../plugins/weather/src/waccount.cpp:161
 #, qt-format
 msgctxt "WAccount|"
 msgid "Weather: %1°%2"
-msgstr "Wetter: %1°%2"
+msgstr "天气：%1°%2"
 
 #: ../../../plugins/weather/src/wlistitem.cpp:41
 msgctxt "WListItem|"
 msgid "Remove"
-msgstr "Löschen"
+msgstr "移除"
 
 #: ../../../plugins/weather/src/wsettings.cpp:103
 msgctxt "WSettings|"
 msgid "Enter here city's name"
-msgstr "Name des Ortes eingeben"
+msgstr "在此输入城市名称"
 
 #: ../../../plugins/weather/src/wsettings.cpp:164
 msgctxt "WSettings|"
 msgid "Not found"
-msgstr "Nichts gefunden"
+msgstr "没有找到"
 
 #: ../../../plugins/weather/src/wsettings.ui:14
 #: ../../../plugins/weather/src/wsettings.ui:58
 msgctxt "WSettingsClass|"
 msgid "Settings"
-msgstr "Einstellungen"
+msgstr "设置"
 
 #: ../../../plugins/weather/src/wsettings.ui:27
 msgctxt "WSettingsClass|"
 msgid "Cities"
-msgstr "Orte"
+msgstr "城市"
 
 #: ../../../plugins/weather/src/wsettings.ui:43
 msgctxt "WSettingsClass|"
 msgid "Search"
-msgstr "Suchen"
+msgstr "查询"
 
 #: ../../../plugins/weather/src/wsettings.ui:50
 msgctxt "WSettingsClass|"
 msgid "Add"
-msgstr "Hinzufügen"
+msgstr "添加"
 
 #: ../../../plugins/weather/src/wsettings.ui:64
 msgctxt "WSettingsClass|"
 msgid "Theme name:"
-msgstr "Stil"
+msgstr "主题名称："
 
 #: ../../../plugins/weather/src/wsettings.ui:81
 msgctxt "WSettingsClass|"
 msgid "min."
-msgstr "min."
+msgstr "分钟。"
 
 #: ../../../plugins/weather/src/wsettings.ui:94
 msgctxt "WSettingsClass|"
 msgid "Refresh period:"
-msgstr "Aktualisierungsintervall:"
+msgstr "更新周期："
 
 #: ../../../plugins/weather/src/wsettings.ui:101
 msgctxt "WSettingsClass|"
 msgid "Show weather in the status row"
-msgstr "Wetter als Statusnachricht des Ortes anzeigen"
+msgstr "在状态栏显示天气"
 
 #: ../../../plugins/weather/src/wsettings.ui:112
 msgctxt "WSettingsClass|"
 msgid "About"
-msgstr "Über"
+msgstr "关于"
 
 #: ../../../plugins/weather/src/wsettings.ui:118
 msgctxt "WSettingsClass|"
@@ -168,7 +169,7 @@ msgstr ""
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
 "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
 "style=\" font-family:'Bitstream Vera Sans'; font-size:10pt; font-"
-"weight:600;\">Wetter-Plugin</span></p>\n"
+"weight:600;\">Weather qutIM plugin</span></p>\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
 "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
 "style=\" font-family:'Bitstream Vera Sans'; font-"
@@ -179,7 +180,7 @@ msgstr ""
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
 "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
 "style=\" font-family:'Bitstream Vera Sans'; font-size:10pt; font-"
-"weight:600;\">Autor: </span></p>\n"
+"weight:600;\">Author: </span></p>\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
 "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
 "style=\" font-family:'Bitstream Vera Sans'; font-size:10pt;\">Nikita "
@@ -205,23 +206,22 @@ msgstr ""
 #: ../../../plugins/weather/__template_from_weather.cpp:1
 msgctxt "Weather|"
 msgid "Day"
-msgstr "Tag"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:2
 msgctxt "Weather|"
 msgid "Dew Point"
-msgstr "Taupunkt"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:3
 msgctxt "Weather|"
 msgid "Feels Like"
-msgstr "Gefühlte"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:4
 msgctxt "Weather|"
 msgid "From %daytime/windDirectionText% at %daytime/windSpeed% %units/speed%"
 msgstr ""
-"Von %daytime/windDirectionText% mit %daytime/windSpeed% %units/speed%"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:5
 #, qt-format
@@ -229,174 +229,173 @@ msgctxt "Weather|"
 msgid ""
 "From %nighttime/windDirectionText% at %nighttime/windSpeed% %units/speed%"
 msgstr ""
-"Von %nighttime/windDirectionText% mit %nighttime/windSpeed% %units/speed%"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:6
 msgctxt "Weather|"
 msgid "From %winddirection% at %windspeed% %units/speed%"
-msgstr "Von %winddirection% mit %windspeed% %units/speed%"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:7
 msgctxt "Weather|"
 msgid "High"
-msgstr "Höchsttemperatur"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:8
 msgctxt "Weather|"
 msgid "Humidity"
-msgstr "Luftfeuchtigkeit"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:9
 msgctxt "Weather|"
 msgid "Local Time"
-msgstr "Ortszeit"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:10
 msgctxt "Weather|"
 msgid "Night"
-msgstr "Nachts"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:11
 msgctxt "Weather|"
 msgid "Overnight Low"
-msgstr "Tiefsttemperatur"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:12
 msgctxt "Weather|"
 msgid "Pressure"
-msgstr "Luftdruck"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:13
 msgctxt "Weather|"
 msgid "Rain"
-msgstr "Rain"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:14
 msgctxt "Weather|"
 msgid "Snow"
-msgstr "Schneefall"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:15
 msgctxt "Weather|"
 msgid "Sunrise"
-msgstr "Sonnenaufgang"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:16
 msgctxt "Weather|"
 msgid "Sunset"
-msgstr "Sonnenuntergang"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:17
 msgctxt "Weather|"
 msgid "Updated"
-msgstr "Aktualisiert"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:18
 msgctxt "Weather|"
 msgid "UV Index"
-msgstr "UV-Index"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:19
 msgctxt "Weather|"
 msgid "Visibility"
-msgstr "Sicht"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:20
 msgctxt "Weather|"
 msgid "Weather forecast"
-msgstr "Wettervorhersage"
+msgstr ""
 
 #: ../../../plugins/weather/__template_from_weather.cpp:21
 msgctxt "Weather|"
 msgid "Wind"
-msgstr "Wind"
+msgstr ""
 
 #: ../../../plugins/weather/src/waccount.cpp:35
 #: ../../../plugins/weather/src/wcontact.cpp:60
 msgctxt "Weather|"
 msgid "Weather"
-msgstr "Wetter"
+msgstr ""
 
 #: ../../../plugins/weather/src/weather.cpp:45
 msgctxt "Weather|"
 msgid "Get weather"
-msgstr "Aktuelles Wetter"
+msgstr ""
 
 #: ../../../plugins/weather/src/weather.cpp:49
 msgctxt "Weather|"
 msgid "Get weather forecast"
-msgstr "Wettervorhersage"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:14
 #: ../../../plugins/weather/new/weatherSettings.ui:126
 msgctxt "weatherSettingsClass|"
 msgid "Settings"
-msgstr "Einstellungen"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:24
 msgctxt "weatherSettingsClass|"
 msgid "Cities"
-msgstr "Orte"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:33
 msgctxt "weatherSettingsClass|"
 msgid "&Add"
-msgstr "&Hinzufügen"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:46
 msgctxt "weatherSettingsClass|"
 msgid "City &ID:"
-msgstr "Ort-&ID:"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:59
 msgctxt "weatherSettingsClass|"
 msgid "&Delete city"
-msgstr "Ort &löschen"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:67
 msgctxt "weatherSettingsClass|"
 msgid "Search"
-msgstr "Suche"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:73
 msgctxt "weatherSettingsClass|"
 msgid "&City name:"
-msgstr "Orts&name:"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:86
 msgctxt "weatherSettingsClass|"
 msgid "&Search"
-msgstr "&Suchen"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:99
 msgctxt "weatherSettingsClass|"
 msgid "Please, enter a city name."
-msgstr "Bitte einen Ortsnamen eingeben."
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:115
 msgctxt "weatherSettingsClass|"
 msgid "Hint: double-click on a city adds it to your city list."
-msgstr "Tip: Ein Doppelklick auf einen Ort fügt diesen zur Liste hinzu."
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:132
 msgctxt "weatherSettingsClass|"
 msgid "&Refresh period:"
-msgstr "Aktualisierungs&intervall:"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:152
 msgctxt "weatherSettingsClass|"
 msgid "Show weather in the &status row"
-msgstr "Wetter als Statusnachricht des Ortes anzeigen"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:162
 msgctxt "weatherSettingsClass|"
 msgid "Show &notifications on weather change"
-msgstr "Benachrichtigen, wenn sich das Wetter ändert"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:183
 msgctxt "weatherSettingsClass|"
 msgid "About"
-msgstr "Über"
+msgstr ""
 
 #: ../../../plugins/weather/new/weatherSettings.ui:189
 msgctxt "weatherSettingsClass|"
@@ -449,50 +448,3 @@ msgid ""
 "style=\" font-family:'Bitstream Vera Sans'; color:#000000;\">(c) 2008-"
 "2009</span></p></body></html>"
 msgstr ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
-"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-"type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Verdana'; font-size:10pt; font-"
-"weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><img "
-"src=\":/icons/weather_big.png\" /></p>\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-family:'Bitstream Vera Sans'; font-weight:600;\">Weather qutIM "
-"plugin</span></p>\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-family:'Bitstream Vera Sans';\">v0.1.2 (<a "
-"href=\"http://deltaz.ru/node/65\"><span style=\" font-family:'Bitstream Vera "
-"Sans'; text-decoration: underline; "
-"color:#0000ff;\">Info</span></a>)</span></p>\n"
-"<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
-"bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
-"indent:0px; font-family:'Bitstream Vera Sans';\"></p>\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-family:'Bitstream Vera Sans'; font-weight:600;\">Author: "
-"</span></p>\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-family:'Bitstream Vera Sans';\">Nikita Belov</span></p>\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><a "
-"href=\"mailto:null@deltaz.ru\"><span style=\" font-family:'Bitstream Vera "
-"Sans'; text-decoration: underline; "
-"color:#0000ff;\">null@deltaz.ru</span></a></p>\n"
-"<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
-"bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
-"indent:0px; font-family:'Bitstream Vera Sans'; text-decoration: underline; "
-"color:#000000;\"></p>\n"
-"<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
-"bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
-"indent:0px; font-family:'Bitstream Vera Sans'; text-decoration: underline; "
-"color:#000000;\"></p>\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-family:'Bitstream Vera Sans'; color:#000000;\">(c) 2008-"
-"2009</span></p></body></html>"
