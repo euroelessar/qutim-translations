@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-02-22 16:49+0000\n"
-"PO-Revision-Date: 2012-03-10 12:44+0000\n"
+"PO-Revision-Date: 2012-03-11 12:02+0000\n"
 "Last-Translator: Vsevolod Velichko <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-11 05:05+0000\n"
-"X-Generator: Launchpad (build 14914)\n"
+"X-Launchpad-Export-Date: 2012-03-12 05:10+0000\n"
+"X-Generator: Launchpad (build 14933)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -1579,7 +1579,7 @@ msgstr "Неизвестная ошибка"
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:153
 msgctxt "Jabber|"
 msgid "Join conference"
-msgstr "Войти в конференцию"
+msgstr "Присоединиться к конференции"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:76
 msgctxt "Jabber|"
@@ -1589,7 +1589,7 @@ msgstr "Покинуть конференцию"
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:17
 msgctxt "JoinChat|"
 msgid "Join groupchat"
-msgstr "Войти в конференцию"
+msgstr "Присоединиться к конференции"
 
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:23
 msgctxt "JoinChat|"
@@ -1641,7 +1641,7 @@ msgstr "Новый чат"
 #: ../../../core/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp:80
 msgctxt "JoinGroupChat|"
 msgid "Join groupchat"
-msgstr "Войти в конференцию"
+msgstr "Присоединиться к конференции"
 
 #: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.ui:30
 msgctxt "JoinGroupChat|"
@@ -2096,12 +2096,12 @@ msgstr "Модуль для миграции с 0.2 на 0.3"
 #: ../../../core/__data_from_cmakelists_txt.cpp:15
 msgctxt "Plugin|"
 msgid "Simple conference join dialog"
-msgstr "Простой диалог входа в конференции"
+msgstr "Простой диалог присоединения к конференции"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:16
 msgctxt "Plugin|"
 msgid "Conference join dialog adopted for Desktop systems"
-msgstr "Диалог входа в конференции, адаптированный для десктопов"
+msgstr "Простой диалог присоединения к конференции, адаптированный к десктопам"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:17
 msgctxt "Plugin|"
@@ -2531,14 +2531,14 @@ msgstr "Движок перевода qutIM"
 #: ../../../core/__data_from_cmakelists_txt.cpp:103
 msgctxt "Plugin|"
 msgid "Mobile conference join dialog"
-msgstr "Мобильный диалог входа в конференции"
+msgstr "Могильный диалог присоединения к конференции"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:104
 msgctxt "Plugin|"
 msgid "Conference join dialog adopted for touch devices with small screen"
 msgstr ""
-"Диалог входа в конференции, адаптированный под устройства с тач-скринами и "
-"малым экраном"
+"Диалог присоединения к конференции, адаптированный под устройства с тач-"
+"скринами и малым экраном"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:105
 msgctxt "Plugin|"
@@ -3105,7 +3105,7 @@ msgstr "Детектор неактивности"
 #: ../../../core/__generated_from_service_names.cpp:26
 msgctxt "Service|"
 msgid "JoinGroupChat"
-msgstr "Вход в конференции"
+msgstr "Присоединение к конференции"
 
 #: ../../../core/__generated_from_service_names.cpp:27
 msgctxt "Service|"
