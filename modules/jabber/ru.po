@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-02-22 16:49+0000\n"
-"PO-Revision-Date: 2012-02-24 12:44+0000\n"
-"Last-Translator: Dganic <Unknown>\n"
+"PO-Revision-Date: 2012-03-11 08:33+0000\n"
+"Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-25 05:50+0000\n"
-"X-Generator: Launchpad (build 14860)\n"
+"X-Launchpad-Export-Date: 2012-03-12 05:10+0000\n"
+"X-Generator: Launchpad (build 14933)\n"
 "X-Qt-Contexts: true\n"
 "Language: ru\n"
 "X-Language: ru\n"
@@ -978,7 +978,7 @@ msgstr "Не могу присоедениться к групповому ча�
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp:191
 msgctxt "Jabber::JMUCManager|"
 msgid "Join groupchat on"
-msgstr "Войти в конференцию"
+msgstr "Присоединиться к конференции"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp:192
 msgctxt "Jabber::JMUCManager|"
@@ -2145,7 +2145,7 @@ msgstr "Поиск..."
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:193
 msgctxt "ServiceBrowser|"
 msgid "Join conference"
-msgstr "Войти в конференцию"
+msgstr "Присоединиться к конференции"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:198
 msgctxt "ServiceBrowser|"
