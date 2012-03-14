@@ -28,25 +28,30 @@ find_program(QT_LCONVERT_EXECUTABLE
 
 set(LANG_DIR "${CMAKE_CURRENT_BINARY_DIR}/languages")
 file(MAKE_DIRECTORY ${LANG_DIR} )
-add_custom_target( translations ALL echo DEPENDS ${TRANSLATIONS_BINARY} )
+add_custom_target( ts echo DEPENDS ${TRANSLATIONS_BINARY} )
+add_custom_target( translations ALL echo DEPENDS ${QT_LRELEASE_EXECUTABLE} )
 
-set( basePath "${CMAKE_CURRENT_SOURCE_DIR}/modules" )
+set(basePath "${CMAKE_CURRENT_SOURCE_DIR}/modules" )
 file(GLOB MODULES RELATIVE "${basePath}" "${basePath}/*/*.po" )
-foreach( moduleFile ${MODULES} )
-	string( REGEX REPLACE "/.*" "" module ${moduleFile} )
-	string( REGEX REPLACE ".*/(.*)\\.po" "\\1" language ${moduleFile} )
-	set( poFile "${basePath}/${moduleFile}" )
-	set( tsFile "${LANG_DIR}_tmp/${language}/${module}.ts" )
-	set( qmFile "${LANG_DIR}/${language}/${module}.qm" )
+foreach(moduleFile ${MODULES} )
+	string(REGEX REPLACE "/.*" "" module ${moduleFile} )
+	string(REGEX REPLACE ".*/(.*)\\.po" "\\1" language ${moduleFile} )
+	set(poFile "${basePath}/${moduleFile}" )
+	set(tsFile "${LANG_DIR}_tmp/${language}/${module}.ts" )
+	set(qmFile "${LANG_DIR}/${language}/${module}.qm" )
 	message( "${moduleFile} ${module} ${language}" )
 	file(MAKE_DIRECTORY "${LANG_DIR}/${language}")
 	file(MAKE_DIRECTORY "${LANG_DIR}_tmp/${language}")
+	set(SED_EXECUTABLE "sed")
 	add_custom_command(
-		TARGET    translations
+		TARGET    ts
 		DEPENDS   ${poFile}
 		COMMAND   ${QT_LCONVERT_EXECUTABLE} "${poFile}" -o "${tsFile}"
-		COMMAND   sed -i "'s/<message>/<message utf8=\"true\">/'" "${tsFile}"
-		COMMAND   ${QT_LRELEASE_EXECUTABLE} -silent "${tsFile}" -qm "${qmFile}"
+		COMMAND   ${SED_EXECUTABLE} -i "'s/<message>/<message utf8=\"true\">/'" "${tsFile}"
+	)
+	add_custom_command(
+		TARGET   translations
+		COMMAND  ${QT_LRELEASE_EXECUTABLE} -silent "${tsFile}" -qm "${qmFile}"
 	)
 endforeach()
 
