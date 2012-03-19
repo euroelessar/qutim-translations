@@ -26,9 +26,26 @@ find_program(QT_LCONVERT_EXECUTABLE
 	NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH
 )
 
+if( CMAKE_CROSSCOMPILING )
+    find_program(SED_EXECUTABLE gsed sed
+        NAMES gsed sed
+    )
+    if( NOT SED_EXECUTABLE )
+        message(STATUS "Can not build translations as \"sed\" is not found")
+        return()
+    endif()
+    set( SED_STAGE sed -i "'s/<message>/<message utf8=\"true\">/'" )
+    unset( TRANSLATIONS_SED )
+else()
+    add_executable( qutim_translations_helper "${CMAKE_CURRENT_SOURCE_DIR}/helper.cpp" )
+    set( SED_STAGE "${CMAKE_CURRENT_BINARY_DIR}/qutim_translations_helper" )
+    set( TRANSLATIONS_SED qutim_translations_helper )
+endif()
+# CMAKE_CROSSCOMPILING
+
 set(LANG_DIR "${CMAKE_CURRENT_BINARY_DIR}/languages")
 file(MAKE_DIRECTORY ${LANG_DIR} )
-add_custom_target( translations ALL echo DEPENDS ${TRANSLATIONS_BINARY} )
+add_custom_target( translations ALL echo DEPENDS ${TRANSLATIONS_SED} )
 
 set( basePath "${CMAKE_CURRENT_SOURCE_DIR}/modules" )
 file(GLOB MODULES RELATIVE "${basePath}" "${basePath}/*/*.po" )
@@ -44,9 +61,9 @@ foreach( moduleFile ${MODULES} )
 	add_custom_command(
 		TARGET    translations
 		DEPENDS   ${poFile}
-		COMMAND   ${QT_LCONVERT_EXECUTABLE} "${poFile}" -o "${tsFile}"
-		COMMAND   sed -i "'s/<message>/<message utf8=\"true\">/'" "${tsFile}"
-		COMMAND   ${QT_LRELEASE_EXECUTABLE} -silent "${tsFile}" -qm "${qmFile}"
+                COMMAND   "${QT_LCONVERT_EXECUTABLE}" "${poFile}" -o "${tsFile}"
+                COMMAND   "${SED_STAGE}" "${tsFile}"
+                COMMAND   "${QT_LRELEASE_EXECUTABLE}" -silent "${tsFile}" -qm "${qmFile}"
 	)
 endforeach()
 
