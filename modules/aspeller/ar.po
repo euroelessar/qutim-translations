@@ -1,0 +1,167 @@
+# Arabic translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-02-19 16:51+0000\n"
+"PO-Revision-Date: 2012-03-18 22:17+0000\n"
+"Last-Translator: Mohammed Hamad <no_way132@yahoo.com>\n"
+"Language-Team: Arabic <ar@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-03-19 05:06+0000\n"
+"X-Generator: Launchpad (build 14969)\n"
+
+#: ../../../plugins/aspeller/src/aspellsettings.cpp:35
+msgctxt "AspellSettings|"
+msgid "Language"
+msgstr "اللّغة"
+
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:36
+msgctxt "Author|"
+msgid "Ruslan Nigmatullin"
+msgstr "Ruslan Nigmatullin"
+
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:39
+msgctxt "Author|"
+msgid "Alexey Prokhin"
+msgstr "Alexey Prokhin"
+
+#: ../../../plugins/aspeller/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:42
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:45
+msgctxt "Plugin|"
+msgid "ASpell checker"
+msgstr "فاحص الهجاء"
+
+#: ../../../plugins/aspeller/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:43
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:46
+msgctxt "Plugin|"
+msgid "Check spelling by ASpell library"
+msgstr "فحص الهجاء بواسطة مكتبة ASpell"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:88
+msgctxt "Settings|"
+msgid "Spell checker"
+msgstr "المدقق الإملائي"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:43
+msgctxt "SpellChecker|"
+msgid "40"
+msgstr "40"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:44
+msgctxt "SpellChecker|"
+msgid "60"
+msgstr "60"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:45
+msgctxt "SpellChecker|"
+msgid "80"
+msgstr "80"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:46
+msgctxt "SpellChecker|"
+msgid "-ise suffixes"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:47
+msgctxt "SpellChecker|"
+msgid "-ize suffixes"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:48
+msgctxt "SpellChecker|"
+msgid "-ise suffixes and with accents"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:49
+msgctxt "SpellChecker|"
+msgid "-ise suffixes and without accents"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:50
+msgctxt "SpellChecker|"
+msgid "-ize suffixes and with accents"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:51
+msgctxt "SpellChecker|"
+msgid "-ize suffixes and without accents"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:52
+msgctxt "SpellChecker|"
+msgid "large"
+msgstr "عريض"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:53
+msgctxt "SpellChecker|"
+msgid "medium"
+msgstr "متوسّط"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:54
+msgctxt "SpellChecker|"
+msgid "small"
+msgstr "صغير"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:55
+msgctxt "SpellChecker|"
+msgid "variant 0"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:56
+msgctxt "SpellChecker|"
+msgid "variant 1"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:57
+msgctxt "SpellChecker|"
+msgid "variant 2"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:58
+msgctxt "SpellChecker|"
+msgid "without accents"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:59
+msgctxt "SpellChecker|"
+msgid "with accents"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:60
+msgctxt "SpellChecker|"
+msgid "with ye"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:61
+msgctxt "SpellChecker|"
+msgid "with yeyo"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:62
+msgctxt "SpellChecker|"
+msgid "with yo"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:63
+msgctxt "SpellChecker|"
+msgid "extended"
+msgstr "موسّع"
+
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:37
+msgctxt "Task|"
+msgid "Developer"
+msgstr "المطوِّر"
+
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:40
+msgctxt "Task|"
+msgid "Author"
+msgstr "المؤلف:"

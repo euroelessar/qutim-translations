@@ -1,0 +1,91 @@
+# Arabic translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-02-19 16:53+0000\n"
+"PO-Revision-Date: 2012-03-18 22:35+0000\n"
+"Last-Translator: Mohammed Hamad <no_way132@yahoo.com>\n"
+"Language-Team: Arabic <ar@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n % 100 >= "
+"3 && n % 100 <= 10 ? 3 : n % 100 >= 11 && n % 100 <= 99 ? 4 : 5;\n"
+"X-Launchpad-Export-Date: 2012-03-19 05:07+0000\n"
+"X-Generator: Launchpad (build 14969)\n"
+
+#: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:269
+#, qt-format
+msgctxt "BirthdayReminder|"
+msgid "It's %1's birthday today! Hooray!"
+msgstr "إنه عيد ميلاد %1 اليوم ! وهووو!"
+
+#: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:272
+#, qt-format
+msgctxt "BirthdayReminder|"
+msgid "%1's birthday will be tomorrow! Hooray!"
+msgstr "عيد ميلاد %1 سيكون غدا ! وهووو!"
+
+#: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:275
+#, qt-format
+msgctxt "BirthdayReminder|"
+msgid "%2's birthday is in %1 days"
+msgid_plural "%2's birthday is in %1 days"
+msgstr[0] "عيد ميلاد %2 بعد %1 يوم/أيام"
+
+#: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:281
+#, qt-format
+msgctxt "BirthdayReminder|"
+msgid "%1's birhday"
+msgstr "عيد ميلاد %1"
+
+#: ../../../plugins/birthdayreminder/src/birthdayremindersettings.ui:14
+msgctxt "BirthdayReminderSettings|"
+msgid "Birthday reminder settings"
+msgstr "إعدادات مذكّر عيد الميلاد"
+
+#: ../../../plugins/birthdayreminder/src/birthdayremindersettings.ui:22
+msgctxt "BirthdayReminderSettings|"
+msgid "Show notifications every"
+msgstr "أظهر الإشعارات دوما"
+
+#: ../../../plugins/birthdayreminder/src/birthdayremindersettings.ui:39
+msgctxt "BirthdayReminderSettings|"
+msgid "hours"
+msgstr "ساعة/ساعات"
+
+#: ../../../plugins/birthdayreminder/src/birthdayremindersettings.ui:50
+msgctxt "BirthdayReminderSettings|"
+msgid "starting from"
+msgstr "يبدأ من"
+
+#: ../../../plugins/birthdayreminder/src/birthdayremindersettings.ui:63
+msgctxt "BirthdayReminderSettings|"
+msgid "days before birthday"
+msgstr "يوم/أيام قبل عيد الميلاد"
+
+#: ../../../plugins/birthdayreminder/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:138
+msgctxt "Plugin|"
+msgid "BirthdayReminder"
+msgstr "مذكّر عيد الميلاد"
+
+#: ../../../plugins/birthdayreminder/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:139
+msgctxt "Plugin|"
+msgid ""
+"This plugin shows notifications when someone from your contact list has a "
+"birthday"
+msgstr ""
+"هذا البرنامج المساعد يظهر الإشعارات عندما يكون هناك عيد ميلاد أحد ما في "
+"قائمة إتصالاتك"
+
+#: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:160
+msgctxt "Settings|"
+msgid "Birthday reminder"
+msgstr "مذكّر عيد الميلاد"

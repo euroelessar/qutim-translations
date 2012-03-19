@@ -1,0 +1,65 @@
+# Arabic translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-02-19 16:53+0000\n"
+"PO-Revision-Date: 2012-03-18 22:23+0000\n"
+"Last-Translator: Mohammed Hamad <no_way132@yahoo.com>\n"
+"Language-Team: Arabic <ar@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-03-19 05:06+0000\n"
+"X-Generator: Launchpad (build 14969)\n"
+
+#: ../../../plugins/awn/src/awnservice.cpp:282
+msgctxt "AWNService|"
+msgid "Show/Hide"
+msgstr "عرض/إخفاء"
+
+#: ../../../plugins/awn/src/awnservice.cpp:283
+msgctxt "AWNService|"
+msgid "Read all messages"
+msgstr "قراءة جميع الرسائل"
+
+#: ../../../plugins/awn/src/awnservice.cpp:284
+msgctxt "AWNService|"
+msgid "Go online"
+msgstr ""
+
+#: ../../../plugins/awn/src/awnservice.cpp:285
+msgctxt "AWNService|"
+msgid "Go offline"
+msgstr ""
+
+#: ../../../plugins/awn/src/awnservice.cpp:286
+msgctxt "AWNService|"
+msgid "Exit QutIM"
+msgstr "أنهِ QutIM"
+
+#: ../../../plugins/awn/src/awn.cpp:38
+msgctxt "Author|"
+msgid "Stanislav (proDOOMman) Kosolapov"
+msgstr "Stanislav (proDOOMman) Kosolapov"
+
+#: ../../../plugins/awn/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/awn/src/awn.cpp:42 ../../../plugins/awn/src/awn.cpp:47
+msgctxt "Plugin|"
+msgid "AWN"
+msgstr "AWN"
+
+#: ../../../plugins/awn/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/awn/src/awn.cpp:43 ../../../plugins/awn/src/awn.cpp:48
+msgctxt "Plugin|"
+msgid "Avant window navigator dock integration"
+msgstr ""
+
+#: ../../../plugins/awn/src/awn.cpp:39
+msgctxt "Task|"
+msgid "Developer"
+msgstr "المطوِّر"
