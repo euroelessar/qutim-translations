@@ -15,11 +15,6 @@ msgstr ""
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
-#: ../../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp:42
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr "Сидоров Алексей"
-
 #: ../../../plugins/unreadmessageskeeper/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp:38
 msgctxt "Plugin|"
@@ -32,7 +27,10 @@ msgctxt "Plugin|"
 msgid "Allows you to save a list of unread messages when qutIM exit"
 msgstr "Плагин сохраняет непрочитанные сообщения, при выходе из qutIM"
 
-#: ../../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp:43
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Разработчик"
+#~ msgctxt "Author|"
+#~ msgid "Aleksey Sidorov"
+#~ msgstr "Сидоров Алексей"
+
+#~ msgctxt "Task|"
+#~ msgid "Developer"
+#~ msgstr "Разработчик"

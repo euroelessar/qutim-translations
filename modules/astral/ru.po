@@ -15,11 +15,6 @@ msgstr ""
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
-#: ../../../protocols/astral/src/astralplugin.cpp:57
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Нигматуллин Руслан"
-
 #: ../../../protocols/astral/__data_from_cmakelists_txt.cpp:1
 #: ../../../protocols/astral/src/astralplugin.cpp:54
 msgctxt "Plugin|"
@@ -36,7 +31,10 @@ msgctxt "Plugin|"
 msgid "Protocol support by Telepathy"
 msgstr "Протокол использующий Телепатию"
 
-#: ../../../protocols/astral/src/astralplugin.cpp:58
-msgctxt "Task|"
-msgid "Author"
-msgstr "Автор"
+#~ msgctxt "Author|"
+#~ msgid "Ruslan Nigmatullin"
+#~ msgstr "Нигматуллин Руслан"
+
+#~ msgctxt "Task|"
+#~ msgid "Author"
+#~ msgstr "Автор"

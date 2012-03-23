@@ -13,10 +13,9 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-02-24 05:29+0000\n"
 "X-Generator: Launchpad (build 14860)\n"
 "X-Qt-Contexts: true\n"
-"Language: bg\n"
 "X-Language: bg\n"
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:69
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:72
 msgctxt "BearerManager|"
 msgid ""
 "Unable to find any network configuration. Perhaps Qt or QtMobility network "
@@ -27,6 +26,16 @@ msgstr ""
 "управлението на преносната среда е  с неправилна конфигурация. Управлението "
 "на преносната среда няма да работи правилно, обърнете се към отговорника за "
 "дистрибуцията ви."
+
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:94
+msgctxt "BearerManager|"
+msgid "Network is available!"
+msgstr ""
+
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:95
+msgctxt "BearerManager|"
+msgid "Network is unreachable!"
+msgstr ""
 
 #: ../../../plugins/mobility/src/bearermanager/managersettings.ui:14
 msgctxt "ManagerSettings|"
@@ -58,12 +67,12 @@ msgctxt "Plugin|"
 msgid "Sound engine based on QtMultimedia"
 msgstr "Звукова система, базирана на QtMultimedia"
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:47
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:48
 msgctxt "Service|"
 msgid "BearerManager"
 msgstr "Управление на свързаността"
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:59
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:62
 msgctxt "Settings|"
 msgid "Connection manager"
 msgstr "Управление на връзката"

@@ -21,17 +21,6 @@ msgctxt "AlbumDelegate|"
 msgid "Remove"
 msgstr "Löschen"
 
-#: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:42
-#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:42
-msgctxt "Author|"
-msgid "Alexey Sidorov"
-msgstr "Alexey Sidorov"
-
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:42
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr "Aleksey Sidorov"
-
 #: ../../../protocols/vkontakte/src/vcontact.cpp:197
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:70
 msgctxt "ContactInfo|"
@@ -194,42 +183,35 @@ msgctxt "Plugin|"
 msgid "Simple implementation of vkontakte, based on userapi.ru"
 msgstr "Einfache Umsetzung von Vkontakte, basierend auf userapi.ru"
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:51
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:49
 msgctxt "Plugin|"
 msgid "vkontakte"
 msgstr "vkontakte"
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:52
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:50
 msgctxt "Plugin|"
 msgid "Simple implementation of vkontakte, based on desktop.api"
 msgstr "Einfache Umsetzung von vkontakte, basierend auf desktop.api"
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:56
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:54
 msgctxt "Plugin|"
 msgid "Vkontakte account creator"
 msgstr "Vkontakte account creator"
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:57
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:55
 msgctxt "Plugin|"
 msgid "Account creator for Vkontakte"
 msgstr "Konten für Vkontakte erstellen"
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:60
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:58
 msgctxt "Plugin|"
 msgid "Proxy support"
 msgstr "Proxy support"
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:61
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:59
 msgctxt "Plugin|"
 msgid "Proxy support for Vkontakte"
 msgstr "Proxy-Server Unterstützung für Vkontakte"
-
-#: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:43
-#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:43
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:43
-msgctxt "Task|"
-msgid "Author"
-msgstr "Autor"
 
 #: ../../../protocols/vkontakte/src/ui/vaccountsettings.ui:14
 msgctxt "VAccountSettings|"
@@ -319,12 +301,12 @@ msgctxt "VWallSessionPrivate|"
 msgid "Multimedia message: %1"
 msgstr "Multimedia-Nachricht: %1"
 
-#: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:53
+#: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:49
 msgctxt "Vkontakte|"
 msgid "View photoalbum"
 msgstr "Fotoalbum anzeigen"
 
-#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:52
+#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:48
 msgctxt "Vkontakte|"
 msgid "View wall"
 msgstr "Wand anzeigen"
@@ -348,3 +330,15 @@ msgstr "ID"
 msgctxt "main|"
 msgid "Back"
 msgstr "Zurück"
+
+#~ msgctxt "Author|"
+#~ msgid "Alexey Sidorov"
+#~ msgstr "Alexey Sidorov"
+
+#~ msgctxt "Author|"
+#~ msgid "Aleksey Sidorov"
+#~ msgstr "Aleksey Sidorov"
+
+#~ msgctxt "Task|"
+#~ msgid "Author"
+#~ msgstr "Autor"

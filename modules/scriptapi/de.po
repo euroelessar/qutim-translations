@@ -18,7 +18,6 @@ msgstr ""
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:40
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:30
-#: ../../../plugins/scriptapi/src/scriptplugin.cpp:113
 msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr "Ruslan Nigmatullin"
@@ -57,19 +56,18 @@ msgctxt "Plugin|"
 msgid "Script API scriptapi/src/scriptplugin.cpp-"
 msgstr "Script API scriptapi/src/scriptplugin.cpp-"
 
-#: ../../../plugins/scriptapi/src/scriptplugin.cpp:116
+#: ../../../plugins/scriptapi/src/scriptplugin.cpp:114
 msgctxt "Plugin|"
 msgid "Script API"
 msgstr "Script API"
 
-#: ../../../plugins/scriptapi/src/scriptplugin.cpp:117
+#: ../../../plugins/scriptapi/src/scriptplugin.cpp:115
 msgctxt "Plugin|"
 msgid "Added ability to create plugins at JavaScript"
 msgstr "Ermöglicht JavaScript-Plugins"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:41
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:31
-#: ../../../plugins/scriptapi/src/scriptplugin.cpp:114
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Entwickler"

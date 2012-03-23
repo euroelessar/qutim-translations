@@ -15,24 +15,22 @@ msgstr ""
 "X-Qt-Contexts: true\n"
 "X-Language: bg\n"
 
-#: ../../../plugins/floaties/src/floaties.cpp:38
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Руслан Нигматуллин"
-
 #: ../../../plugins/floaties/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/floaties/src/floaties.cpp:41
+#: ../../../plugins/floaties/src/floaties.cpp:39
 msgctxt "Plugin|"
 msgid "Floaties"
 msgstr "Плаващи контакти"
 
 #: ../../../plugins/floaties/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/floaties/src/floaties.cpp:42
+#: ../../../plugins/floaties/src/floaties.cpp:40
 msgctxt "Plugin|"
 msgid "Implementation of floaty contacts"
 msgstr "Реализация на плаващи контакти"
 
-#: ../../../plugins/floaties/src/floaties.cpp:39
-msgctxt "Task|"
-msgid "Author"
-msgstr "Автор"
+#~ msgctxt "Author|"
+#~ msgid "Ruslan Nigmatullin"
+#~ msgstr "Руслан Нигматуллин"
+
+#~ msgctxt "Task|"
+#~ msgid "Author"
+#~ msgstr "Автор"

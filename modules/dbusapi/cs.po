@@ -16,24 +16,18 @@ msgstr ""
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
 
-#: ../../../plugins/dbusapi/src/dbusplugin.cpp:150
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr ""
-
 #: ../../../plugins/dbusapi/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/dbusapi/src/dbusplugin.cpp:153
+#: ../../../plugins/dbusapi/src/dbusplugin.cpp:151
 msgctxt "Plugin|"
 msgid "DBus API"
 msgstr ""
 
 #: ../../../plugins/dbusapi/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/dbusapi/src/dbusplugin.cpp:154
+#: ../../../plugins/dbusapi/src/dbusplugin.cpp:152
 msgctxt "Plugin|"
 msgid "Added ability to control qutIM by DBus"
 msgstr "Přidává schopnost ovládat qutIM pomocí DBus"
 
-#: ../../../plugins/dbusapi/src/dbusplugin.cpp:151
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Vývojář"
+#~ msgctxt "Task|"
+#~ msgid "Developer"
+#~ msgstr "Vývojář"

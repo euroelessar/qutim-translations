@@ -26,11 +26,6 @@ msgctxt "Author|"
 msgid "Alexey Prokhin"
 msgstr ""
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:63
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr ""
-
 #: ../../../plugins/nowplaying/src/icqsettings.ui:14
 msgctxt "IcqSettings|"
 msgid "ICQ"
@@ -160,17 +155,17 @@ msgctxt "JabberSettings|"
 msgid "Path to file"
 msgstr "Cesta k souboru"
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:102
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:100
 msgctxt "NowPlaying|"
 msgid "Now Playing"
 msgstr ""
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:288
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:286
 msgctxt "NowPlaying|"
 msgid "Stop now playing"
 msgstr ""
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:289
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:287
 msgctxt "NowPlaying|"
 msgid "Start now playing"
 msgstr ""
@@ -236,19 +231,18 @@ msgctxt "Plugin|"
 msgid "Now Playing"
 msgstr ""
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:66
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:64
 msgctxt "Plugin|"
 msgid "Now Playing Mpris"
 msgstr ""
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:67
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:65
 msgctxt "Plugin|"
 msgid "Mpris support for now playing plugin"
 msgstr ""
 
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:58
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:61
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:64
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Vývojář"

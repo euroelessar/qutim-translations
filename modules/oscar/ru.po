@@ -177,15 +177,10 @@ msgstr "Игнатьев Алексей"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:55
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:217
-#: ../../../protocols/oscar/src/oscarplugin.cpp:59
+#: ../../../protocols/oscar/src/oscarplugin.cpp:57
 msgctxt "Author|"
 msgid "Alexey Prokhin"
 msgstr "Прохин Алексей"
-
-#: ../../../protocols/oscar/src/oscarplugin.cpp:56
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Нигматуллин Руслан"
 
 #: ../../../protocols/oscar/src/ui/icqmainsettings.cpp:51
 msgctxt "Codec|"
@@ -3157,7 +3152,7 @@ msgstr "Идентификация аськоклиентов"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:58
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:221
-#: ../../../protocols/oscar/src/oscarplugin.cpp:62
+#: ../../../protocols/oscar/src/oscarplugin.cpp:60
 msgctxt "Plugin|"
 msgid "ICQ"
 msgstr "ICQ"
@@ -3178,75 +3173,75 @@ msgctxt "Plugin|"
 msgid "Oscar"
 msgstr "ICQ/Oscar"
 
-#: ../../../protocols/oscar/src/oscarplugin.cpp:63
+#: ../../../protocols/oscar/src/oscarplugin.cpp:61
 msgctxt "Plugin|"
 msgid "Module-based implementation of ICQ protocol"
 msgstr "Модуль на основе протокола ICQ"
 
-#: ../../../protocols/oscar/src/oscarplugin.cpp:66
+#: ../../../protocols/oscar/src/oscarplugin.cpp:64
 msgctxt "Plugin|"
 msgid "ICQ account creator"
 msgstr "Мастер создания учетной записи ICQ"
 
-#: ../../../protocols/oscar/src/oscarplugin.cpp:67
+#: ../../../protocols/oscar/src/oscarplugin.cpp:65
 msgctxt "Plugin|"
 msgid "Account creator for module-based implementation of ICQ protocol"
 msgstr "Мастер создания учетной записи для начальной реализации ICQ протокола"
 
-#: ../../../protocols/oscar/src/oscarplugin.cpp:70
-#: ../../../protocols/oscar/src/oscarplugin.cpp:71
+#: ../../../protocols/oscar/src/oscarplugin.cpp:68
+#: ../../../protocols/oscar/src/oscarplugin.cpp:69
 msgctxt "Plugin|"
 msgid "Oscar roster"
 msgstr "Список контактов аськи"
 
-#: ../../../protocols/oscar/src/oscarplugin.cpp:74
-#: ../../../protocols/oscar/src/oscarplugin.cpp:75
+#: ../../../protocols/oscar/src/oscarplugin.cpp:72
+#: ../../../protocols/oscar/src/oscarplugin.cpp:73
 msgctxt "Plugin|"
 msgid "Oscar messages"
 msgstr "Сообщеня аськи"
 
-#: ../../../protocols/oscar/src/oscarplugin.cpp:78
-#: ../../../protocols/oscar/src/oscarplugin.cpp:79
+#: ../../../protocols/oscar/src/oscarplugin.cpp:76
+#: ../../../protocols/oscar/src/oscarplugin.cpp:77
 msgctxt "Plugin|"
 msgid "Oscar file transfer protocol"
 msgstr "Протокол фередачи файлов OSCAR'a"
 
-#: ../../../protocols/oscar/src/oscarplugin.cpp:82
-#: ../../../protocols/oscar/src/oscarplugin.cpp:83
+#: ../../../protocols/oscar/src/oscarplugin.cpp:80
+#: ../../../protocols/oscar/src/oscarplugin.cpp:81
 msgctxt "Plugin|"
 msgid "Oscar file transfer settings"
 msgstr "Настройка протокола передачи файлов для протокола Oscar"
 
-#: ../../../protocols/oscar/src/oscarplugin.cpp:86
-#: ../../../protocols/oscar/src/oscarplugin.cpp:87
+#: ../../../protocols/oscar/src/oscarplugin.cpp:84
+#: ../../../protocols/oscar/src/oscarplugin.cpp:85
 msgctxt "Plugin|"
 msgid "MetaInfo icq service"
 msgstr "Метаинформация icq службы"
 
-#: ../../../protocols/oscar/src/oscarplugin.cpp:90
-#: ../../../protocols/oscar/src/oscarplugin.cpp:91
+#: ../../../protocols/oscar/src/oscarplugin.cpp:88
+#: ../../../protocols/oscar/src/oscarplugin.cpp:89
 msgctxt "Plugin|"
 msgid "Oscar authorization support"
 msgstr "Поддержка авторизации аськи"
 
-#: ../../../protocols/oscar/src/oscarplugin.cpp:94
-#: ../../../protocols/oscar/src/oscarplugin.cpp:95
+#: ../../../protocols/oscar/src/oscarplugin.cpp:92
+#: ../../../protocols/oscar/src/oscarplugin.cpp:93
 msgctxt "Plugin|"
 msgid "Oscar privacy lists"
 msgstr "Списки доступа аськи"
 
-#: ../../../protocols/oscar/src/oscarplugin.cpp:98
+#: ../../../protocols/oscar/src/oscarplugin.cpp:96
 msgctxt "Plugin|"
 msgid "Oscar contact search"
 msgstr "Поиск контактов в сети ICQ©"
 
-#: ../../../protocols/oscar/src/oscarplugin.cpp:99
+#: ../../../protocols/oscar/src/oscarplugin.cpp:97
 msgctxt "Plugin|"
 msgid "Oscar contact search implementation"
 msgstr "Реализация поиска контактов для ICQ"
 
-#: ../../../protocols/oscar/src/oscarplugin.cpp:102
-#: ../../../protocols/oscar/src/oscarplugin.cpp:103
+#: ../../../protocols/oscar/src/oscarplugin.cpp:100
+#: ../../../protocols/oscar/src/oscarplugin.cpp:101
 msgctxt "Plugin|"
 msgid "Oscar proxy support"
 msgstr "Поддержка прокси для протокола Oscar"
@@ -3496,8 +3491,7 @@ msgstr "Университет / колледж"
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:53
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:56
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:218
-#: ../../../protocols/oscar/src/oscarplugin.cpp:57
-#: ../../../protocols/oscar/src/oscarplugin.cpp:60
+#: ../../../protocols/oscar/src/oscarplugin.cpp:58
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"
@@ -3863,6 +3857,10 @@ msgstr "Расширенный статус"
 msgctxt "statusDialogClass|"
 msgid "Set birthday/happy flag"
 msgstr "Шарик День рождения или празную"
+
+#~ msgctxt "Author|"
+#~ msgid "Ruslan Nigmatullin"
+#~ msgstr "Нигматуллин Руслан"
 
 #~ msgctxt "ContactList|"
 #~ msgid "General"

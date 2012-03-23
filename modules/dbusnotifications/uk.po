@@ -19,11 +19,6 @@ msgstr ""
 "X-Generator: Launchpad (build 14833)\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../plugins/dbusnotifications/src/dplugin.cpp:42
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr "Олексій Сидоров"
-
 #: ../../../plugins/dbusnotifications/src/dbusbackend.cpp:84
 msgctxt "DBusBackend|"
 msgid "Show popup"
@@ -39,27 +34,30 @@ msgctxt "Plugin|"
 msgid "Notification system, based on Freedesktop"
 msgstr ""
 
-#: ../../../plugins/dbusnotifications/src/dplugin.cpp:38
-msgctxt "Plugin|"
-msgid "DBus notifications"
-msgstr "Сповіщення DBus"
-
 #: ../../../plugins/dbusnotifications/src/dplugin.cpp:39
 msgctxt "Plugin|"
+msgid "DBus notifications"
+msgstr "Сповіщення DBus"
+
+#: ../../../plugins/dbusnotifications/src/dplugin.cpp:40
+msgctxt "Plugin|"
 msgid "Notification system based on Freedesktop DBus protocol"
 msgstr ""
 
-#: ../../../plugins/dbusnotifications/src/dplugin.cpp:43
-msgctxt "Task|"
-msgid "Author"
-msgstr "Автор"
-
-#: ../../../plugins/dbusnotifications/src/dplugin.cpp:46
+#: ../../../plugins/dbusnotifications/src/dplugin.cpp:44
 msgctxt "plugin|"
 msgid "DBus notifications"
 msgstr "Сповіщення DBus"
 
-#: ../../../plugins/dbusnotifications/src/dplugin.cpp:47
+#: ../../../plugins/dbusnotifications/src/dplugin.cpp:45
 msgctxt "plugin|"
 msgid "Notification system based on Freedesktop DBus protocol"
 msgstr ""
+
+#~ msgctxt "Author|"
+#~ msgid "Aleksey Sidorov"
+#~ msgstr "Олексій Сидоров"
+
+#~ msgctxt "Task|"
+#~ msgid "Author"
+#~ msgstr "Автор"

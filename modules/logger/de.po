@@ -16,19 +16,14 @@ msgstr ""
 "X-Language: de\n"
 "X-Source-Language: en\n"
 
-#: ../../../plugins/logger/src/logger.cpp:80
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr "Aleksey Sidorov"
-
-#: ../../../plugins/logger/src/logger.cpp:97
+#: ../../../plugins/logger/src/logger.cpp:94
 msgctxt "Logger::LoggerPlugin|"
 msgid "New session started, happy debuging ^_^"
 msgstr "Neue Sitzung wurde gestartet. Fröhliches debuggen! ^_^"
 
 #: ../../../plugins/logger/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/logger/src/logger.cpp:76
-#: ../../../plugins/logger/src/logger.cpp:101
+#: ../../../plugins/logger/src/logger.cpp:98
 msgctxt "Plugin|"
 msgid "Logger"
 msgstr "Logger"
@@ -39,17 +34,20 @@ msgctxt "Plugin|"
 msgid "Simple file based logger for debug"
 msgstr "Einfacher, dateibasierter Logger zum debuggen"
 
-#: ../../../plugins/logger/src/logger.cpp:105
+#: ../../../plugins/logger/src/logger.cpp:102
 msgctxt "Plugin|"
 msgid "Select log path"
 msgstr "Pfad für Logs auswählen"
 
-#: ../../../plugins/logger/src/logger.cpp:109
+#: ../../../plugins/logger/src/logger.cpp:106
 msgctxt "Plugin|"
 msgid "Enable dump of debug info"
 msgstr "Aktiviere die Speicherung von Debug-Informationen"
 
-#: ../../../plugins/logger/src/logger.cpp:81
-msgctxt "Task|"
-msgid "Author"
-msgstr "Autor"
+#~ msgctxt "Author|"
+#~ msgid "Aleksey Sidorov"
+#~ msgstr "Aleksey Sidorov"
+
+#~ msgctxt "Task|"
+#~ msgid "Author"
+#~ msgstr "Autor"

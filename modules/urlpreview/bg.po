@@ -16,54 +16,34 @@ msgstr ""
 "X-Language: bg\n"
 "X-Source-Language: C\n"
 
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:46
-msgctxt "Author|"
-msgid "Alexander Kazarin"
-msgstr "Александър Казарин"
-
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:49
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr "Алексей Сидоров"
-
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:53
-msgctxt "Author|"
-msgid "Nicolay Izoderov"
-msgstr "Николай Изодеров"
-
 #: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:42
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:62
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:41
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:54
 msgctxt "Plugin|"
 msgid "UrlPreview"
 msgstr "Предварителен преглед на адреси"
 
 #: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:43
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:42
 msgctxt "Plugin|"
 msgid "Preview images directly in the chat window"
 msgstr "Предварителен преглед на адреси директно в прозореца със съобщения"
 
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:47
-msgctxt "Task|"
-msgid "Author"
-msgstr "Автор"
-
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:50
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:54
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Разработчик"
-
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:64
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:65
 msgctxt "UrlPreview::UrlHandler|"
 msgid "URL Preview"
 msgstr "Предварителен преглед на адреси"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:64
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:65
 msgctxt "UrlPreview::UrlHandler|"
 msgid "bytes"
 msgstr "Байта"
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:74
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:76
+msgctxt "UrlPreview::UrlHandler|"
+msgid "Something went wrong."
+msgstr ""
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:241
 msgctxt "UrlPreview::UrlHandler|"
@@ -151,3 +131,23 @@ msgstr "HTML5 звук"
 msgctxt "UrlPreviewSettingsForm|"
 msgid "HTML5 Video"
 msgstr "HTML5 видео"
+
+#~ msgctxt "Author|"
+#~ msgid "Alexander Kazarin"
+#~ msgstr "Александър Казарин"
+
+#~ msgctxt "Author|"
+#~ msgid "Aleksey Sidorov"
+#~ msgstr "Алексей Сидоров"
+
+#~ msgctxt "Author|"
+#~ msgid "Nicolay Izoderov"
+#~ msgstr "Николай Изодеров"
+
+#~ msgctxt "Task|"
+#~ msgid "Author"
+#~ msgstr "Автор"
+
+#~ msgctxt "Task|"
+#~ msgid "Developer"
+#~ msgstr "Разработчик"

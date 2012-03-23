@@ -5,12 +5,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:69
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:72
 msgctxt "BearerManager|"
 msgid ""
 "Unable to find any network configuration. Perhaps Qt or QtMobility network "
 "bearer configured incorrectly. Bearer manager will not work properly, refer "
 "to your distribution maintainer."
+msgstr ""
+
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:94
+msgctxt "BearerManager|"
+msgid "Network is available!"
+msgstr ""
+
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:95
+msgctxt "BearerManager|"
+msgid "Network is unreachable!"
 msgstr ""
 
 #: ../../../plugins/mobility/src/bearermanager/managersettings.ui:14
@@ -43,12 +53,12 @@ msgctxt "Plugin|"
 msgid "Sound engine based on QtMultimedia"
 msgstr ""
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:47
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:48
 msgctxt "Service|"
 msgid "BearerManager"
 msgstr ""
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:59
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:62
 msgctxt "Settings|"
 msgid "Connection manager"
 msgstr ""

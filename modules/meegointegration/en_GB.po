@@ -18,7 +18,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-02-29 05:23+0000\n"
 "X-Generator: Launchpad (build 14874)\n"
 "X-Qt-Contexts: true\n"
-"Language: en_GB\n"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:30
 msgctxt "AboutDialog|"

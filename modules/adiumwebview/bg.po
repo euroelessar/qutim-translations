@@ -77,7 +77,7 @@ msgctxt "QObject|"
 msgid "Download %fileName%"
 msgstr "Изтегляне на %fileName%"
 
-#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:995
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:997
 msgctxt "QObject|"
 msgid "(Autoreply)"
 msgstr "(Автоматичен отговор)"

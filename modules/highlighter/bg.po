@@ -11,16 +11,13 @@ msgstr ""
 "PO-Revision-Date: 2012-02-28 09:08+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: Bulgarian <bg@li.org>\n"
+"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-02-29 05:23+0000\n"
 "X-Generator: Launchpad (build 14874)\n"
-
-#: ../../../plugins/highlighter/src/highlighter.cpp:45
-msgctxt "Author|"
-msgid "Nicolay Izoderov"
-msgstr "Николай Изодеров"
+"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/highlighter/src/highlighteritemlist.cpp:44
 #: ../../../plugins/highlighter/src/highlighteritemlist.cpp:105
@@ -64,39 +61,27 @@ msgctxt "HighlighterSettingsForm|"
 msgid "Form"
 msgstr "Настройки на открояването"
 
-#: ../../../plugins/highlighter/src/highlightersettings.ui:24
-msgctxt "HighlighterSettingsForm|"
-msgid "Regexps"
-msgstr "Регулярни изрази"
-
-#: ../../../plugins/highlighter/src/highlightersettings.ui:30
+#: ../../../plugins/highlighter/src/highlightersettings.ui:20
 msgctxt "HighlighterSettingsForm|"
 msgid "Regexp"
 msgstr "Регулярен израз"
 
-#: ../../../plugins/highlighter/src/highlightersettings.ui:53
+#: ../../../plugins/highlighter/src/highlightersettings.ui:40
 msgctxt "HighlighterSettingsForm|"
 msgid "Add"
 msgstr "Добавяне"
 
-#: ../../../plugins/highlighter/src/highlightersettings.ui:61
+#: ../../../plugins/highlighter/src/highlightersettings.ui:53
+#, fuzzy
 msgctxt "HighlighterSettingsForm|"
-msgid "Settings"
-msgstr "Настройки"
-
-#: ../../../plugins/highlighter/src/highlightersettings.ui:67
-msgctxt "HighlighterSettingsForm|"
-msgid "Enable simple default regexp"
-msgstr "Включване на подразбиращия се, елементарен регулярен израз"
-
-#: ../../../plugins/highlighter/src/highlightersettings.ui:83
-msgctxt "HighlighterSettingsForm|"
-msgid "Simple regexp"
-msgstr "Елементарен регулярен израз"
+msgid "Enable auto highlights wher your nick was mentioned."
+msgstr ""
+"Добавката предоставя поддръжка на открояване, на псевдонима ви при "
+"споменаване."
 
 #: ../../../plugins/highlighter/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/highlighter/src/highlighter.cpp:41
-#: ../../../plugins/highlighter/src/highlighter.cpp:54
+#: ../../../plugins/highlighter/src/highlighter.cpp:52
 msgctxt "Plugin|"
 msgid "Highlighter"
 msgstr "Открояване/Маркиране"
@@ -110,7 +95,26 @@ msgstr ""
 "Добавката предоставя поддръжка на открояване, на псевдонима ви при "
 "споменаване."
 
-#: ../../../plugins/highlighter/src/highlighter.cpp:46
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Разработчик"
+#~ msgctxt "Author|"
+#~ msgid "Nicolay Izoderov"
+#~ msgstr "Николай Изодеров"
+
+#~ msgctxt "HighlighterSettingsForm|"
+#~ msgid "Regexps"
+#~ msgstr "Регулярни изрази"
+
+#~ msgctxt "HighlighterSettingsForm|"
+#~ msgid "Settings"
+#~ msgstr "Настройки"
+
+#~ msgctxt "HighlighterSettingsForm|"
+#~ msgid "Enable simple default regexp"
+#~ msgstr "Включване на подразбиращия се, елементарен регулярен израз"
+
+#~ msgctxt "HighlighterSettingsForm|"
+#~ msgid "Simple regexp"
+#~ msgstr "Елементарен регулярен израз"
+
+#~ msgctxt "Task|"
+#~ msgid "Developer"
+#~ msgstr "Разработчик"

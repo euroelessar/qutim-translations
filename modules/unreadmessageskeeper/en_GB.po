@@ -19,11 +19,6 @@ msgstr ""
 "X-Generator: Launchpad (build 14833)\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp:42
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr "Aleksey Sidorov"
-
 #: ../../../plugins/unreadmessageskeeper/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp:38
 msgctxt "Plugin|"
@@ -36,7 +31,10 @@ msgctxt "Plugin|"
 msgid "Allows you to save a list of unread messages when qutIM exit"
 msgstr "Allows you to save a list of unread messages when qutIM exit"
 
-#: ../../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp:43
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Developer"
+#~ msgctxt "Author|"
+#~ msgid "Aleksey Sidorov"
+#~ msgstr "Aleksey Sidorov"
+
+#~ msgctxt "Task|"
+#~ msgid "Developer"
+#~ msgstr "Developer"

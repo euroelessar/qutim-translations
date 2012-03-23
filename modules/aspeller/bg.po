@@ -20,26 +20,21 @@ msgctxt "AspellSettings|"
 msgid "Language"
 msgstr "Език"
 
-#: ../../../plugins/aspeller/src/aspellplugin.cpp:36
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Руслан Нигматуллин"
-
-#: ../../../plugins/aspeller/src/aspellplugin.cpp:39
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:37
 msgctxt "Author|"
 msgid "Alexey Prokhin"
 msgstr "Алексей Прохин"
 
 #: ../../../plugins/aspeller/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/aspeller/src/aspellplugin.cpp:42
-#: ../../../plugins/aspeller/src/aspellplugin.cpp:45
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:40
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:43
 msgctxt "Plugin|"
 msgid "ASpell checker"
 msgstr "ASpell проверка на правописа"
 
 #: ../../../plugins/aspeller/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/aspeller/src/aspellplugin.cpp:43
-#: ../../../plugins/aspeller/src/aspellplugin.cpp:46
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:41
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:44
 msgctxt "Plugin|"
 msgid "Check spelling by ASpell library"
 msgstr "Проверка на правописа с помощта на ASpell"
@@ -154,12 +149,15 @@ msgctxt "SpellChecker|"
 msgid "extended"
 msgstr "разширен"
 
-#: ../../../plugins/aspeller/src/aspellplugin.cpp:37
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Разработчик"
-
-#: ../../../plugins/aspeller/src/aspellplugin.cpp:40
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:38
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"
+
+#~ msgctxt "Author|"
+#~ msgid "Ruslan Nigmatullin"
+#~ msgstr "Руслан Нигматуллин"
+
+#~ msgctxt "Task|"
+#~ msgid "Developer"
+#~ msgstr "Разработчик"

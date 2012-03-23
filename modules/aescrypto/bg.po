@@ -15,11 +15,6 @@ msgstr ""
 "X-Qt-Contexts: true\n"
 "X-Language: bg\n"
 
-#: ../../../plugins/aescrypto/src/aescryptomodule.cpp:36
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Руслан Нигматуллин"
-
 #: ../../../plugins/aescrypto/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/aescrypto/src/aescryptomodule.cpp:33
 msgctxt "Plugin|"
@@ -28,22 +23,25 @@ msgstr "Връзка с услугата за AES шифриране"
 
 #: ../../../plugins/aescrypto/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/aescrypto/src/aescryptomodule.cpp:34
-#: ../../../plugins/aescrypto/src/aescryptomodule.cpp:40
+#: ../../../plugins/aescrypto/src/aescryptomodule.cpp:38
 msgctxt "Plugin|"
 msgid "Default qutIM crypto implementation. Based on algorithm aes256"
 msgstr ""
 "Подразбираща се за qutIM реализация на шифриране. На базата на aes256 "
 "алгоритъма"
 
-#: ../../../plugins/aescrypto/src/aescryptomodule.cpp:39
+#: ../../../plugins/aescrypto/src/aescryptomodule.cpp:37
 msgctxt "Plugin|"
 msgid "AES crypto"
 msgstr "AES шифриране"
 
-#: ../../../plugins/aescrypto/src/aescryptomodule.cpp:37
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Разработчик"
+#~ msgctxt "Author|"
+#~ msgid "Ruslan Nigmatullin"
+#~ msgstr "Руслан Нигматуллин"
+
+#~ msgctxt "Task|"
+#~ msgid "Developer"
+#~ msgstr "Разработчик"
 
 #, fuzzy
 #~ msgctxt "Plugin|"

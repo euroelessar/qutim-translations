@@ -5,19 +5,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../plugins/logger/src/logger.cpp:80
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr ""
-
-#: ../../../plugins/logger/src/logger.cpp:97
+#: ../../../plugins/logger/src/logger.cpp:94
 msgctxt "Logger::LoggerPlugin|"
 msgid "New session started, happy debuging ^_^"
 msgstr ""
 
 #: ../../../plugins/logger/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/logger/src/logger.cpp:76
-#: ../../../plugins/logger/src/logger.cpp:101
+#: ../../../plugins/logger/src/logger.cpp:98
 msgctxt "Plugin|"
 msgid "Logger"
 msgstr ""
@@ -28,17 +23,12 @@ msgctxt "Plugin|"
 msgid "Simple file based logger for debug"
 msgstr ""
 
-#: ../../../plugins/logger/src/logger.cpp:105
+#: ../../../plugins/logger/src/logger.cpp:102
 msgctxt "Plugin|"
 msgid "Select log path"
 msgstr ""
 
-#: ../../../plugins/logger/src/logger.cpp:109
+#: ../../../plugins/logger/src/logger.cpp:106
 msgctxt "Plugin|"
 msgid "Enable dump of debug info"
-msgstr ""
-
-#: ../../../plugins/logger/src/logger.cpp:81
-msgctxt "Task|"
-msgid "Author"
 msgstr ""

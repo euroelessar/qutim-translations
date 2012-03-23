@@ -25,11 +25,6 @@ msgctxt "Author|"
 msgid "Alexey Prokhin"
 msgstr "Прохин Алексей"
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:63
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Нигматуллин Руслан"
-
 #: ../../../plugins/nowplaying/src/icqsettings.ui:14
 msgctxt "IcqSettings|"
 msgid "ICQ"
@@ -192,17 +187,17 @@ msgctxt "JabberSettings|"
 msgid "Path to file"
 msgstr "Путь к файлу"
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:102
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:100
 msgctxt "NowPlaying|"
 msgid "Now Playing"
 msgstr "Сейчас играет"
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:288
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:286
 msgctxt "NowPlaying|"
 msgid "Stop now playing"
 msgstr "Остановить фонограф"
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:289
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:287
 msgctxt "NowPlaying|"
 msgid "Start now playing"
 msgstr "Включить фонограф"
@@ -268,20 +263,19 @@ msgctxt "Plugin|"
 msgid "Now Playing"
 msgstr "Сейчас играет"
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:66
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:64
 msgctxt "Plugin|"
 msgid "Now Playing Mpris"
 msgstr ""
 "Плагин \"Сейчас играет\", получающий информацию через D-Bus интерфейс Mpris"
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:67
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:65
 msgctxt "Plugin|"
 msgid "Mpris support for now playing plugin"
 msgstr "Поддержка Mpris для now playing плагина"
 
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:58
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:61
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:64
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Разработчик"
@@ -310,3 +304,7 @@ msgstr "не работает"
 msgctxt "qutim_sdk_0_3::nowplaying::SettingsUI|"
 msgid "Start"
 msgstr "Пуск"
+
+#~ msgctxt "Author|"
+#~ msgid "Ruslan Nigmatullin"
+#~ msgstr "Нигматуллин Руслан"

@@ -16,54 +16,34 @@ msgstr ""
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
 
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:46
-msgctxt "Author|"
-msgid "Alexander Kazarin"
-msgstr ""
-
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:49
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr ""
-
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:53
-msgctxt "Author|"
-msgid "Nicolay Izoderov"
-msgstr ""
-
 #: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:42
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:62
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:41
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:54
 msgctxt "Plugin|"
 msgid "UrlPreview"
 msgstr ""
 
 #: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:43
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:42
 msgctxt "Plugin|"
 msgid "Preview images directly in the chat window"
 msgstr ""
 
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:47
-msgctxt "Task|"
-msgid "Author"
-msgstr "Autor"
-
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:50
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:54
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Vývojář"
-
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:64
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:65
 msgctxt "UrlPreview::UrlHandler|"
 msgid "URL Preview"
 msgstr "Náhled URL"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:64
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:65
 msgctxt "UrlPreview::UrlHandler|"
 msgid "bytes"
 msgstr "bytů"
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:74
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:76
+msgctxt "UrlPreview::UrlHandler|"
+msgid "Something went wrong."
+msgstr ""
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:241
 msgctxt "UrlPreview::UrlHandler|"
@@ -151,3 +131,11 @@ msgstr ""
 msgctxt "UrlPreviewSettingsForm|"
 msgid "HTML5 Video"
 msgstr ""
+
+#~ msgctxt "Task|"
+#~ msgid "Author"
+#~ msgstr "Autor"
+
+#~ msgctxt "Task|"
+#~ msgid "Developer"
+#~ msgstr "Vývojář"

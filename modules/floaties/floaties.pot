@@ -5,24 +5,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../plugins/floaties/src/floaties.cpp:38
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr ""
-
 #: ../../../plugins/floaties/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/floaties/src/floaties.cpp:41
+#: ../../../plugins/floaties/src/floaties.cpp:39
 msgctxt "Plugin|"
 msgid "Floaties"
 msgstr ""
 
 #: ../../../plugins/floaties/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/floaties/src/floaties.cpp:42
+#: ../../../plugins/floaties/src/floaties.cpp:40
 msgctxt "Plugin|"
 msgid "Implementation of floaty contacts"
-msgstr ""
-
-#: ../../../plugins/floaties/src/floaties.cpp:39
-msgctxt "Task|"
-msgid "Author"
 msgstr ""

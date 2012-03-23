@@ -19,24 +19,22 @@ msgstr ""
 "X-Generator: Launchpad (build 14833)\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../plugins/floaties/src/floaties.cpp:38
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Ruslan Nigmatullin"
-
 #: ../../../plugins/floaties/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/floaties/src/floaties.cpp:41
+#: ../../../plugins/floaties/src/floaties.cpp:39
 msgctxt "Plugin|"
 msgid "Floaties"
 msgstr "Floaties"
 
 #: ../../../plugins/floaties/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/floaties/src/floaties.cpp:42
+#: ../../../plugins/floaties/src/floaties.cpp:40
 msgctxt "Plugin|"
 msgid "Implementation of floaty contacts"
 msgstr "Implementation of floaty contacts"
 
-#: ../../../plugins/floaties/src/floaties.cpp:39
-msgctxt "Task|"
-msgid "Author"
-msgstr "Author"
+#~ msgctxt "Author|"
+#~ msgid "Ruslan Nigmatullin"
+#~ msgstr "Ruslan Nigmatullin"
+
+#~ msgctxt "Task|"
+#~ msgid "Author"
+#~ msgstr "Author"

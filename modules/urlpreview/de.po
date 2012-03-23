@@ -16,54 +16,34 @@ msgstr ""
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
 
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:46
-msgctxt "Author|"
-msgid "Alexander Kazarin"
-msgstr "Alexander Kazarin"
-
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:49
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr "Aleksey Sidorov"
-
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:53
-msgctxt "Author|"
-msgid "Nicolay Izoderov"
-msgstr "Nicolay Izoderov"
-
 #: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:42
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:62
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:41
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:54
 msgctxt "Plugin|"
 msgid "UrlPreview"
 msgstr "UrlPreview"
 
 #: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:43
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:42
 msgctxt "Plugin|"
 msgid "Preview images directly in the chat window"
 msgstr "Links mit Bildern und mehr direkt im Nachrichtenfenster anzeigen"
 
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:47
-msgctxt "Task|"
-msgid "Author"
-msgstr "Autor"
-
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:50
-#: ../../../plugins/urlpreview/src/urlpreview.cpp:54
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Entwickler"
-
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:64
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:65
 msgctxt "UrlPreview::UrlHandler|"
 msgid "URL Preview"
 msgstr "URL Vorschau"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:64
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:65
 msgctxt "UrlPreview::UrlHandler|"
 msgid "bytes"
 msgstr "Bytes"
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:74
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:76
+msgctxt "UrlPreview::UrlHandler|"
+msgid "Something went wrong."
+msgstr ""
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:241
 msgctxt "UrlPreview::UrlHandler|"
@@ -153,6 +133,26 @@ msgstr "Vorschau für HTML5-Audio"
 msgctxt "UrlPreviewSettingsForm|"
 msgid "HTML5 Video"
 msgstr "Vorschau für HTML5-Videos"
+
+#~ msgctxt "Author|"
+#~ msgid "Alexander Kazarin"
+#~ msgstr "Alexander Kazarin"
+
+#~ msgctxt "Author|"
+#~ msgid "Aleksey Sidorov"
+#~ msgstr "Aleksey Sidorov"
+
+#~ msgctxt "Author|"
+#~ msgid "Nicolay Izoderov"
+#~ msgstr "Nicolay Izoderov"
+
+#~ msgctxt "Task|"
+#~ msgid "Author"
+#~ msgstr "Autor"
+
+#~ msgctxt "Task|"
+#~ msgid "Developer"
+#~ msgstr "Entwickler"
 
 #, fuzzy
 #~ msgctxt "Plugin|"

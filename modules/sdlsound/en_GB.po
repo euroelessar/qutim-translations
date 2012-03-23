@@ -19,26 +19,24 @@ msgstr ""
 "X-Generator: Launchpad (build 14833)\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../plugins/sdlsound/src/sdlplugin.cpp:31
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Ruslan Nigmatullin"
-
 #: ../../../plugins/sdlsound/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/sdlsound/src/sdlplugin.cpp:34
-#: ../../../plugins/sdlsound/src/sdlplugin.cpp:39
+#: ../../../plugins/sdlsound/src/sdlplugin.cpp:32
+#: ../../../plugins/sdlsound/src/sdlplugin.cpp:37
 msgctxt "Plugin|"
 msgid "SDL sound engine"
 msgstr "SDL sound engine"
 
 #: ../../../plugins/sdlsound/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/sdlsound/src/sdlplugin.cpp:35
-#: ../../../plugins/sdlsound/src/sdlplugin.cpp:40
+#: ../../../plugins/sdlsound/src/sdlplugin.cpp:33
+#: ../../../plugins/sdlsound/src/sdlplugin.cpp:38
 msgctxt "Plugin|"
 msgid "Sound engine based on Simple DirectMedia Layer"
 msgstr "Sound engine based on Simple DirectMedia Layer"
 
-#: ../../../plugins/sdlsound/src/sdlplugin.cpp:32
-msgctxt "Task|"
-msgid "Author"
-msgstr "Author"
+#~ msgctxt "Author|"
+#~ msgid "Ruslan Nigmatullin"
+#~ msgstr "Ruslan Nigmatullin"
+
+#~ msgctxt "Task|"
+#~ msgid "Author"
+#~ msgstr "Author"

@@ -5,11 +5,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../protocols/astral/src/astralplugin.cpp:57
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr ""
-
 #: ../../../protocols/astral/__data_from_cmakelists_txt.cpp:1
 #: ../../../protocols/astral/src/astralplugin.cpp:54
 msgctxt "Plugin|"
@@ -24,9 +19,4 @@ msgstr ""
 #: ../../../protocols/astral/src/astralplugin.cpp:55
 msgctxt "Plugin|"
 msgid "Protocol support by Telepathy"
-msgstr ""
-
-#: ../../../protocols/astral/src/astralplugin.cpp:58
-msgctxt "Task|"
-msgid "Author"
 msgstr ""

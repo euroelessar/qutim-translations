@@ -16,28 +16,26 @@ msgstr ""
 "X-Language: de\n"
 "X-Source-Language: en\n"
 
-#: ../../../plugins/emoedit/src/emoeditplugin.cpp:60
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Ruslan Nigmatullin"
-
 #: ../../../plugins/emoedit/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
 msgid "EmoEdit"
 msgstr "EmoEdit"
 
 #: ../../../plugins/emoedit/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/emoedit/src/emoeditplugin.cpp:64
+#: ../../../plugins/emoedit/src/emoeditplugin.cpp:62
 msgctxt "Plugin|"
 msgid "Add emoticons to text edit widget"
 msgstr "Emoticons im Text-Edit-Widget anzeigen"
 
-#: ../../../plugins/emoedit/src/emoeditplugin.cpp:63
+#: ../../../plugins/emoedit/src/emoeditplugin.cpp:61
 msgctxt "Plugin|"
 msgid "EmoEdit plugin"
 msgstr "EmoEdit plugin"
 
-#: ../../../plugins/emoedit/src/emoeditplugin.cpp:61
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Entwickler"
+#~ msgctxt "Author|"
+#~ msgid "Ruslan Nigmatullin"
+#~ msgstr "Ruslan Nigmatullin"
+
+#~ msgctxt "Task|"
+#~ msgid "Developer"
+#~ msgstr "Entwickler"

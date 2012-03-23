@@ -5,24 +5,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:56
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr ""
-
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:60
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr ""
-
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:63
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:58
 msgctxt "Author|"
 msgid "Alexey Prokhin"
-msgstr ""
-
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:66
-msgctxt "Author|"
-msgid "Alexander Kazarin"
 msgstr ""
 
 #: ../../../plugins/yandexnarod/__data_from_cmakelists_txt.cpp:1
@@ -33,29 +18,22 @@ msgstr ""
 
 #: ../../../plugins/yandexnarod/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:53
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:70
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:63
 msgctxt "Plugin|"
 msgid "Send files via Yandex.Narod filehosting service"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:69
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:62
 msgctxt "Plugin|"
 msgid "Yandex.Narod"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:57
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:61
-msgctxt "Task|"
-msgid "Developer"
-msgstr ""
-
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:64
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:67
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:59
 msgctxt "Task|"
 msgid "Author"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:80
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:73
 msgctxt "Yandex|"
 msgid "Yandex Narod"
 msgstr ""
@@ -75,22 +53,22 @@ msgctxt "YandexNarodAuthorizator|"
 msgid "Authorization failured"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:186
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:177
 msgctxt "YandexNarodAuthorizator|"
 msgid "Unsupported grant type. Inform developers."
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:188
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:179
 msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid request. Inform developers."
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:190
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:181
 msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid login or/and password"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:203
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:196
 msgctxt "YandexNarodFactory|"
 msgid "Yandex.Narod"
 msgstr ""

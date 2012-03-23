@@ -15,12 +15,7 @@ msgstr ""
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
-#: ../../../plugins/logger/src/logger.cpp:80
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr "Сидоров Алексей"
-
-#: ../../../plugins/logger/src/logger.cpp:97
+#: ../../../plugins/logger/src/logger.cpp:94
 msgctxt "Logger::LoggerPlugin|"
 msgid "New session started, happy debuging ^_^"
 msgstr "Новая сессия запущена, удачной отладки ^_^"
@@ -28,7 +23,7 @@ msgstr "Новая сессия запущена, удачной отладки 
 # Не изменять!
 #: ../../../plugins/logger/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/logger/src/logger.cpp:76
-#: ../../../plugins/logger/src/logger.cpp:101
+#: ../../../plugins/logger/src/logger.cpp:98
 msgctxt "Plugin|"
 msgid "Logger"
 msgstr "Летописец"
@@ -39,17 +34,20 @@ msgctxt "Plugin|"
 msgid "Simple file based logger for debug"
 msgstr "Сборщик отладочного вывода в файл (В помощь отладчику)"
 
-#: ../../../plugins/logger/src/logger.cpp:105
+#: ../../../plugins/logger/src/logger.cpp:102
 msgctxt "Plugin|"
 msgid "Select log path"
 msgstr "Выберите путь к логам"
 
-#: ../../../plugins/logger/src/logger.cpp:109
+#: ../../../plugins/logger/src/logger.cpp:106
 msgctxt "Plugin|"
 msgid "Enable dump of debug info"
 msgstr "Включить dump отладочной информации"
 
-#: ../../../plugins/logger/src/logger.cpp:81
-msgctxt "Task|"
-msgid "Author"
-msgstr "Автор"
+#~ msgctxt "Author|"
+#~ msgid "Aleksey Sidorov"
+#~ msgstr "Сидоров Алексей"
+
+#~ msgctxt "Task|"
+#~ msgid "Author"
+#~ msgstr "Автор"

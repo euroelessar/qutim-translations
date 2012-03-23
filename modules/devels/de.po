@@ -18,12 +18,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-02-28 06:28+0000\n"
 "X-Generator: Launchpad (build 14874)\n"
 "X-Qt-Contexts: true\n"
-"Language: de\n"
-
-#: __from_devels_json.cpp:1
-msgctxt "Author|"
-msgid "Alexander Kazarin"
-msgstr "Alexander Kazarin"
 
 #: __from_devels_json.cpp:3
 msgctxt "Author|"
@@ -35,15 +29,20 @@ msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr "Ruslan Nigmatullin"
 
-#: __from_devels_json.cpp:7
-msgctxt "Author|"
-msgid "Nicolay Izoderov"
-msgstr "Nicolay Izoderov"
-
 #: __from_devels_json.cpp:9
 msgctxt "Author|"
 msgid "Denis Daschenko"
 msgstr "Denis Daschenko"
+
+#: __from_devels_json.cpp:1
+msgctxt "Author|"
+msgid "Alexander Kazarin"
+msgstr "Alexander Kazarin"
+
+#: __from_devels_json.cpp:7
+msgctxt "Author|"
+msgid "Nicolay Izoderov"
+msgstr "Nicolay Izoderov"
 
 #: __from_devels_json.cpp:11
 msgctxt "Author|"

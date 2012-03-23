@@ -15,11 +15,6 @@ msgstr ""
 "X-Qt-Contexts: true\n"
 "X-Language: bg\n"
 
-#: ../../../plugins/massmessaging/src/messaging.cpp:42
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr "Алексей Сидоров"
-
 #: ../../../plugins/massmessaging/src/messagingdialog.ui:14
 msgctxt "Dialog|"
 msgid "Multiply Sending"
@@ -125,7 +120,7 @@ msgctxt "Dialog|"
 msgid "Send"
 msgstr "Изпращане"
 
-#: ../../../plugins/massmessaging/src/messaging.cpp:55
+#: ../../../plugins/massmessaging/src/messaging.cpp:52
 msgctxt "MassMessaging|"
 msgid "&Mass Messaging"
 msgstr "&Многократно изпращане"
@@ -169,18 +164,21 @@ msgid "Start"
 msgstr "Стартиране"
 
 #: ../../../plugins/massmessaging/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/massmessaging/src/messaging.cpp:46
+#: ../../../plugins/massmessaging/src/messaging.cpp:43
 msgctxt "Plugin|"
 msgid "MassMessaging"
 msgstr "Многократно изпращане"
 
 #: ../../../plugins/massmessaging/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/massmessaging/src/messaging.cpp:47
+#: ../../../plugins/massmessaging/src/messaging.cpp:44
 msgctxt "Plugin|"
 msgid "Simple messaging to contact list"
 msgstr "Опростено средство за многократно изпращане на съобщения"
 
-#: ../../../plugins/massmessaging/src/messaging.cpp:43
-msgctxt "Task|"
-msgid "Author"
-msgstr "Автор"
+#~ msgctxt "Author|"
+#~ msgid "Aleksey Sidorov"
+#~ msgstr "Алексей Сидоров"
+
+#~ msgctxt "Task|"
+#~ msgid "Author"
+#~ msgstr "Автор"

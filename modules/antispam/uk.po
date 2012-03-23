@@ -96,24 +96,22 @@ msgctxt "Antispam::SettingsWidget|"
 msgid "vodka;Vodka"
 msgstr ""
 
-#: ../../../plugins/antispam/src/antispamplugin.cpp:50
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr "Олексій Сидоров"
-
 #: ../../../plugins/antispam/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/antispam/src/antispamplugin.cpp:55
+#: ../../../plugins/antispam/src/antispamplugin.cpp:52
 msgctxt "Plugin|"
 msgid "Antispam"
 msgstr "Антиспам"
 
 #: ../../../plugins/antispam/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/antispam/src/antispamplugin.cpp:56
+#: ../../../plugins/antispam/src/antispamplugin.cpp:53
 msgctxt "Plugin|"
 msgid "Blocks messages from unknown contacts by question-answer pair"
 msgstr ""
 
-#: ../../../plugins/antispam/src/antispamplugin.cpp:51
-msgctxt "Task|"
-msgid "Author"
-msgstr "Автор"
+#~ msgctxt "Author|"
+#~ msgid "Aleksey Sidorov"
+#~ msgstr "Олексій Сидоров"
+
+#~ msgctxt "Task|"
+#~ msgid "Author"
+#~ msgstr "Автор"

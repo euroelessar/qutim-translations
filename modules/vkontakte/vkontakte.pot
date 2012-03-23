@@ -10,17 +10,6 @@ msgctxt "AlbumDelegate|"
 msgid "Remove"
 msgstr ""
 
-#: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:42
-#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:42
-msgctxt "Author|"
-msgid "Alexey Sidorov"
-msgstr ""
-
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:42
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr ""
-
 #: ../../../protocols/vkontakte/src/vcontact.cpp:197
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:70
 msgctxt "ContactInfo|"
@@ -183,41 +172,34 @@ msgctxt "Plugin|"
 msgid "Simple implementation of vkontakte, based on userapi.ru"
 msgstr ""
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:51
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:49
 msgctxt "Plugin|"
 msgid "vkontakte"
 msgstr ""
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:52
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:50
 msgctxt "Plugin|"
 msgid "Simple implementation of vkontakte, based on desktop.api"
 msgstr ""
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:56
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:54
 msgctxt "Plugin|"
 msgid "Vkontakte account creator"
 msgstr ""
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:57
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:55
 msgctxt "Plugin|"
 msgid "Account creator for Vkontakte"
 msgstr ""
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:60
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:58
 msgctxt "Plugin|"
 msgid "Proxy support"
 msgstr ""
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:61
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:59
 msgctxt "Plugin|"
 msgid "Proxy support for Vkontakte"
-msgstr ""
-
-#: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:43
-#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:43
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:43
-msgctxt "Task|"
-msgid "Author"
 msgstr ""
 
 #: ../../../protocols/vkontakte/src/ui/vaccountsettings.ui:14
@@ -308,12 +290,12 @@ msgctxt "VWallSessionPrivate|"
 msgid "Multimedia message: %1"
 msgstr ""
 
-#: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:53
+#: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:49
 msgctxt "Vkontakte|"
 msgid "View photoalbum"
 msgstr ""
 
-#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:52
+#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:48
 msgctxt "Vkontakte|"
 msgid "View wall"
 msgstr ""

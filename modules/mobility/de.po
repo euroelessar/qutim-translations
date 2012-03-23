@@ -13,11 +13,10 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-02-23 05:19+0000\n"
 "X-Generator: Launchpad (build 14855)\n"
 "X-Qt-Contexts: true\n"
-"Language: de\n"
 "X-Language: de\n"
 "X-Source-Language: en\n"
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:69
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:72
 msgctxt "BearerManager|"
 msgid ""
 "Unable to find any network configuration. Perhaps Qt or QtMobility network "
@@ -28,6 +27,16 @@ msgstr ""
 "Mobility Netzwerkverwaltung falsch konfiguriert. Die Verbindungsverwaltung "
 "wird nicht richtig funktionieren, wenden Sie sich an Ihren "
 "Distributionsverwalter."
+
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:94
+msgctxt "BearerManager|"
+msgid "Network is available!"
+msgstr ""
+
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:95
+msgctxt "BearerManager|"
+msgid "Network is unreachable!"
+msgstr ""
 
 #: ../../../plugins/mobility/src/bearermanager/managersettings.ui:14
 msgctxt "ManagerSettings|"
@@ -60,12 +69,12 @@ msgctxt "Plugin|"
 msgid "Sound engine based on QtMultimedia"
 msgstr "Soundtreiber, basierend auf Qt-Multimedia"
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:47
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:48
 msgctxt "Service|"
 msgid "BearerManager"
 msgstr "BearerManager"
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:59
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:62
 msgctxt "Settings|"
 msgid "Connection manager"
 msgstr "Verbindungen"

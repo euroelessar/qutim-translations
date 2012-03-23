@@ -15,37 +15,35 @@ msgstr ""
 "X-Qt-Contexts: true\n"
 "X-Language: bg\n"
 
-#: ../../../plugins/antiboss/src/antibossplugin.cpp:48
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:46
 msgctxt "AntiBoss|"
 msgid "Show/hide all windows"
 msgstr "Скриване/Показване на всички прозорци"
 
-#: ../../../plugins/antiboss/src/antibossplugin.cpp:49
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:47
 msgctxt "AntiBoss|"
 msgid "Antiboss"
 msgstr "Анти-бос"
 
-#: ../../../plugins/antiboss/src/antibossplugin.cpp:39
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Руслан Нигматуллин"
-
 #: ../../../plugins/antiboss/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/antiboss/src/antibossplugin.cpp:42
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:40
 msgctxt "Plugin|"
 msgid "Anti-boss plugin"
 msgstr "Анти-бос добавка"
 
 #: ../../../plugins/antiboss/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/antiboss/src/antibossplugin.cpp:43
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:41
 msgctxt "Plugin|"
 msgid "Plugin makes your chatting invisible for boss"
 msgstr "Добавката позволява разговорите да са невидими за началниците"
 
-#: ../../../plugins/antiboss/src/antibossplugin.cpp:40
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Разработчик"
+#~ msgctxt "Author|"
+#~ msgid "Ruslan Nigmatullin"
+#~ msgstr "Руслан Нигматуллин"
+
+#~ msgctxt "Task|"
+#~ msgid "Developer"
+#~ msgstr "Разработчик"
 
 #, fuzzy
 #~ msgctxt "Plugin|"

@@ -16,29 +16,27 @@ msgstr ""
 "X-Language: de\n"
 "X-Source-Language: en\n"
 
-#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:31
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Ruslan Nigmatullin"
-
 #: ../../../plugins/phononsound/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:34
-#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:40
+#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:32
+#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:38
 msgctxt "Plugin|"
 msgid "Phonon sound engine"
 msgstr "Phonom Sound-Engine"
 
 #: ../../../plugins/phononsound/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:35
-#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:41
+#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:33
+#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:39
 msgctxt "Plugin|"
 msgid "Sound engine based on KDE sound engine"
 msgstr "Soundengine, basierend auf der KDE-Soundengine"
 
-#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:32
-msgctxt "Task|"
-msgid "Author"
-msgstr "Autor"
+#~ msgctxt "Author|"
+#~ msgid "Ruslan Nigmatullin"
+#~ msgstr "Ruslan Nigmatullin"
+
+#~ msgctxt "Task|"
+#~ msgid "Author"
+#~ msgstr "Autor"
 
 #, fuzzy
 #~ msgctxt "Plugin|"

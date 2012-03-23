@@ -5,26 +5,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:31
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr ""
-
 #: ../../../plugins/phononsound/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:34
-#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:40
+#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:32
+#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:38
 msgctxt "Plugin|"
 msgid "Phonon sound engine"
 msgstr ""
 
 #: ../../../plugins/phononsound/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:35
-#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:41
+#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:33
+#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:39
 msgctxt "Plugin|"
 msgid "Sound engine based on KDE sound engine"
-msgstr ""
-
-#: ../../../plugins/phononsound/src/phononsoundplugin.cpp:32
-msgctxt "Task|"
-msgid "Author"
 msgstr ""

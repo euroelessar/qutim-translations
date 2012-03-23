@@ -17,11 +17,6 @@ msgstr ""
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
 
-#: ../../../plugins/histman/src/historymanagerplugin.cpp:36
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr ""
-
 #: ../../../plugins/histman/src/chooseclientpage.ui:14
 msgctxt "ChooseClientPage|"
 msgid "WizardPage"
@@ -225,24 +220,23 @@ msgid "WizardPage"
 msgstr ""
 
 #: ../../../plugins/histman/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/histman/src/historymanagerplugin.cpp:39
+#: ../../../plugins/histman/src/historymanagerplugin.cpp:37
 msgctxt "Plugin|"
 msgid "HistMan"
 msgstr ""
 
 #: ../../../plugins/histman/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/histman/src/historymanagerplugin.cpp:40
+#: ../../../plugins/histman/src/historymanagerplugin.cpp:38
 msgctxt "Plugin|"
 msgid ""
 "Plugin makes possible to import history to qutIM from different messengers"
 msgstr ""
 
-#: ../../../plugins/histman/src/historymanagerplugin.cpp:50
+#: ../../../plugins/histman/src/historymanagerplugin.cpp:48
 msgctxt "Plugin|"
 msgid "Import history"
 msgstr "Importovat historii"
 
-#: ../../../plugins/histman/src/historymanagerplugin.cpp:37
-msgctxt "Task|"
-msgid "Author"
-msgstr "Autor"
+#~ msgctxt "Task|"
+#~ msgid "Author"
+#~ msgstr "Autor"

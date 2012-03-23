@@ -13,15 +13,9 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-03-18 05:05+0000\n"
 "X-Generator: Launchpad (build 14951)\n"
 "X-Qt-Contexts: true\n"
-"Language: bg\n"
 "X-Language: bg\n"
 "X-Source-Language: C\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:66
-msgctxt "Account|"
-msgid "Just add or create new account"
-msgstr "Добавяне или създаване на нова сметка"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:30
 msgctxt "AboutDialog|"
@@ -62,6 +56,11 @@ msgstr "Лиценз"
 msgctxt "Account|"
 msgid "Add new account"
 msgstr "Добавяне на нова сметка"
+
+#: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:66
+msgctxt "Account|"
+msgid "Just add or create new account"
+msgstr "Добавяне или създаване на нова сметка"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:71
 msgctxt "Account|"

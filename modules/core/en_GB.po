@@ -18,7 +18,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-03-14 05:41+0000\n"
 "X-Generator: Launchpad (build 14933)\n"
 "X-Qt-Contexts: true\n"
-"Language: en_GB\n"
 "X-Language: en_GB\n"
 "X-Source-Language: C\n"
 
@@ -169,13 +168,6 @@ msgstr ""
 "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
 "family:'DroidSans';\"></p></body></html>"
 
-#: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:39
-#: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:42
-#: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:44
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr "Aleksey Sidorov"
-
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:38
 msgctxt "Author|"
 msgid "Alexey Prokhin"
@@ -256,12 +248,12 @@ msgctxt "ChatLayer|"
 msgid "ContactList"
 msgstr "ContactList"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:444
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:445
 msgctxt "ChatSession|"
 msgid "Auto"
 msgstr "Auto"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:454
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:455
 msgctxt "ChatSession|"
 msgid "Last active"
 msgstr "Last active"
@@ -415,7 +407,7 @@ msgid "Show tags and contacts"
 msgstr "Show tags and contacts"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:114
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:75
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:76
 msgctxt "ContactList|"
 msgid "Default style"
 msgstr "Default style"
@@ -450,7 +442,7 @@ msgctxt "ContactList|"
 msgid "Huge (64x64)"
 msgstr "Huge (64x64)"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:73
+#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:76
 msgctxt "ContactList|"
 msgid "qutIM 0.2 style"
 msgstr "qutIM 0.2 style"
@@ -843,12 +835,12 @@ msgctxt "Core::MetaContacts::Model|"
 msgid "Account"
 msgstr "Account"
 
-#: ../../../core/src/corelayers/migration02x03/migrationstartpage.cpp:47
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.cpp:48
 msgctxt "Core::MigrationStartPage|"
 msgid "Migration wizard"
 msgstr "Migration wizard"
 
-#: ../../../core/src/corelayers/migration02x03/migrationstartpage.cpp:48
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.cpp:49
 msgctxt "Core::MigrationStartPage|"
 msgid ""
 "qutIM has discovered configuration from 0.2 version, choose profile to "
@@ -857,12 +849,12 @@ msgstr ""
 "qutIM has discovered configuration from 0.2 version, choose profile to "
 "import history and configuration from."
 
-#: ../../../core/src/corelayers/migration02x03/migrationstartpage.cpp:96
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.cpp:97
 msgctxt "Core::MigrationStartPage|"
 msgid "Unable to find profile dir"
 msgstr "Unable to find profile dir"
 
-#: ../../../core/src/corelayers/migration02x03/migrationstartpage.cpp:118
+#: ../../../core/src/corelayers/migration02x03/migrationstartpage.cpp:119
 msgctxt "Core::MigrationStartPage|"
 msgid "Unable to find any profile"
 msgstr "Unable to find any profile"
@@ -1027,68 +1019,68 @@ msgctxt "Core::ProfileCreationPage|"
 msgid "Unable to create profile hash"
 msgstr "Unable to create profile hash"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:301
+#: ../../../core/src/widgets/profilecreationpage.cpp:302
 msgctxt "Core::ProfileCreationPage|"
 msgid "Select path"
 msgstr "Select path"
 
-#: ../../../core/src/widgets/profiledialog.cpp:117
+#: ../../../core/src/widgets/profiledialog.cpp:111
 msgctxt "Core::ProfileDialog|"
 msgid "Error while loading"
 msgstr "Error while loading"
 
-#: ../../../core/src/widgets/profiledialog.cpp:140
+#: ../../../core/src/widgets/profiledialog.cpp:134
 msgctxt "Core::ProfileDialog|"
 msgid "Enter name"
 msgstr "Enter name"
 
-#: ../../../core/src/widgets/profiledialog.cpp:140
+#: ../../../core/src/widgets/profiledialog.cpp:134
 msgctxt "Core::ProfileDialog|"
 msgid "Profile name:"
 msgstr "Profile name:"
 
-#: ../../../core/src/widgets/profiledialog.cpp:142
+#: ../../../core/src/widgets/profiledialog.cpp:136
 msgctxt "Core::ProfileDialog|"
 msgid "Invalid name"
 msgstr "Invalid name"
 
-#: ../../../core/src/widgets/profiledialog.cpp:142
+#: ../../../core/src/widgets/profiledialog.cpp:136
 msgctxt "Core::ProfileDialog|"
 msgid "Name can not be empty!"
 msgstr "Name can not be empty!"
 
-#: ../../../core/src/widgets/profiledialog.cpp:146
+#: ../../../core/src/widgets/profiledialog.cpp:140
 msgctxt "Core::ProfileDialog|"
 msgid "Enter password"
 msgstr "Enter password"
 
-#: ../../../core/src/widgets/profiledialog.cpp:146
+#: ../../../core/src/widgets/profiledialog.cpp:140
 msgctxt "Core::ProfileDialog|"
 msgid "Password:"
 msgstr "Password:"
 
-#: ../../../core/src/widgets/profiledialog.cpp:147
+#: ../../../core/src/widgets/profiledialog.cpp:141
 msgctxt "Core::ProfileDialog|"
 msgid "Repeat password"
 msgstr "Repeat password"
 
-#: ../../../core/src/widgets/profiledialog.cpp:147
+#: ../../../core/src/widgets/profiledialog.cpp:141
 msgctxt "Core::ProfileDialog|"
 msgid "Repeat password:"
 msgstr "Repeat password:"
 
-#: ../../../core/src/widgets/profiledialog.cpp:150
-#: ../../../core/src/widgets/profiledialog.cpp:155
+#: ../../../core/src/widgets/profiledialog.cpp:144
+#: ../../../core/src/widgets/profiledialog.cpp:149
 msgctxt "Core::ProfileDialog|"
 msgid "Incorrect password"
 msgstr "Incorrect Password"
 
-#: ../../../core/src/widgets/profiledialog.cpp:150
+#: ../../../core/src/widgets/profiledialog.cpp:144
 msgctxt "Core::ProfileDialog|"
 msgid "Passwords doesn't match each other"
 msgstr "Passwords doesn't match each other"
 
-#: ../../../core/src/widgets/profiledialog.cpp:155
+#: ../../../core/src/widgets/profiledialog.cpp:149
 msgctxt "Core::ProfileDialog|"
 msgid "Password can not be empty!"
 msgstr "Password can not be empty!"
@@ -1272,43 +1264,45 @@ msgctxt "Core::SimpleContactList::SeparatedModel|"
 msgid "Without tags"
 msgstr "Without tags"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:106
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:107
 msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Main Toolbar"
 msgstr "Main Toolbar"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:125
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:126
 msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Search contact"
 msgstr "Search contact"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:141
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:142
 msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Status"
 msgstr "Status"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:170
-#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:361
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:171
+#: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:357
 msgctxt "Core::SimpleContactList::SimpleWidget|"
 msgid "Set Status Text"
 msgstr "Set Status Text"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:100
+#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:103
 msgctxt "Core::SimpleContactList::ToryWidget|"
 msgid "Main Toolbar"
 msgstr "Main Toolbar"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:117
+#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:120
+#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:344
 msgctxt "Core::SimpleContactList::ToryWidget|"
 msgid "Global status"
 msgstr "Global status"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:118
+#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:121
+#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:345
 msgctxt "Core::SimpleContactList::ToryWidget|"
 msgid "Set Status Text"
 msgstr "Set Status Text"
 
-#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:145
+#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:148
 msgctxt "Core::SimpleContactList::ToryWidget|"
 msgid "Search contact"
 msgstr "Search contact"
@@ -1415,27 +1409,27 @@ msgstr ""
 "The settings of the current module have changed. \n"
 " Do you want to apply the changes or discard them?"
 
-#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:103
+#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:104
 msgctxt "DataForms|"
 msgid "yes"
 msgstr "yes"
 
-#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:104
+#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:105
 msgctxt "DataForms|"
 msgid "no"
 msgstr "no"
 
-#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:129
+#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:130
 msgctxt "DataForms|"
 msgid "the field is not set"
 msgstr "the field is not set"
 
-#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:662
+#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:663
 msgctxt "DataForms|"
 msgid "Open image"
 msgstr "Open image"
 
-#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:664
+#: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:665
 msgctxt "DataForms|"
 msgid "Images (*.gif *.bmp *.jpg *.jpeg *.png);;All files (*.*)"
 msgstr "Images (*.gif *.bmp *.jpg *.jpeg *.png);;All files (*.*)"
@@ -2877,65 +2871,65 @@ msgctxt "QObject|"
 msgid "qutIM launched"
 msgstr "qutIM launched"
 
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:56
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:58
 #, qt-format
 msgctxt "QObject|"
 msgid "Blocked message from %1"
 msgstr "Blocked message from %1"
 
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:59
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:61
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 has joined"
 msgstr "%1 has joined"
 
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:62
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:64
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 is online"
 msgstr "%1 is online"
 
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:65
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:67
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 has left"
 msgstr "%1 has left"
 
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:68
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:70
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 is offline"
 msgstr "%1 is offline"
 
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:71
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:73
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 has changed status to %2"
 msgstr "%1 has changed status to %2"
 
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:74
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:76
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 has birthday today!!"
 msgstr "%1 has birthday today!!"
 
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:77
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:79
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 is typing"
 msgstr "%1 is typing"
 
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:82
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:84
 msgctxt "QObject|"
 msgid "System notify"
 msgstr "System notify"
 
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:173
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:177
 msgctxt "QObject|"
 msgid "Open chat"
 msgstr "Open chat"
 
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:180
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:184
 msgctxt "QObject|"
 msgid "Ignore"
 msgstr "Ignore"
@@ -2945,6 +2939,171 @@ msgstr "Ignore"
 msgctxt "QObject|"
 msgid "Copy %1 to clipboard"
 msgstr "Copy %1 to clipboard"
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:101
+msgctxt "QxtCommandOptions|"
+msgid "sets the application GUI style"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:102
+msgctxt "QxtCommandOptions|"
+msgid "sets the application stylesheet"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:103
+msgctxt "QxtCommandOptions|"
+msgid "restores the application from an earlier session"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:104
+msgctxt "QxtCommandOptions|"
+msgid "displays debugging information about widgets"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:105
+msgctxt "QxtCommandOptions|"
+msgid "use right-to-left layout"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:107
+msgctxt "QxtCommandOptions|"
+msgid "never grab the mouse or keyboard"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:110
+msgctxt "QxtCommandOptions|"
+msgid "grab the mouse/keyboard even in a debugger"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:111
+msgctxt "QxtCommandOptions|"
+msgid "run in synchronous mode for debugging"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:114
+msgctxt "QxtCommandOptions|"
+msgid "use Direct3D by default"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:117
+msgctxt "QxtCommandOptions|"
+msgid "sets the X11 display"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:118
+msgctxt "QxtCommandOptions|"
+msgid "sets the geometry of the first window"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:120
+msgctxt "QxtCommandOptions|"
+msgid "sets the default font"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:122
+msgctxt "QxtCommandOptions|"
+msgid "sets the default background color"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:124
+msgctxt "QxtCommandOptions|"
+msgid "sets the default foreground color"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:126
+msgctxt "QxtCommandOptions|"
+msgid "sets the default button color"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:127
+#, fuzzy
+msgctxt "QxtCommandOptions|"
+msgid "sets the application name"
+msgstr "Store data at application dir"
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:128
+#, fuzzy
+msgctxt "QxtCommandOptions|"
+msgid "sets the application title"
+msgstr "Store data at application dir"
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:129
+msgctxt "QxtCommandOptions|"
+msgid "sets the X11 visual type"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:130
+msgctxt "QxtCommandOptions|"
+msgid "limit the number of colors on an 8-bit display"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:131
+msgctxt "QxtCommandOptions|"
+msgid "use a private color map"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:132
+msgctxt "QxtCommandOptions|"
+msgid "sets the input method server"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:133
+msgctxt "QxtCommandOptions|"
+msgid "disable the X Input Method"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:134
+msgctxt "QxtCommandOptions|"
+msgid "sets the style used by the input method"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:235
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:249
+#, qt-format
+msgctxt "QxtCommandOptions|"
+msgid "option \"%1\" not found"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:384
+msgctxt "QxtCommandOptions|"
+msgid "Short options cannot have optional parameters"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:396
+msgctxt "QxtCommandOptions|"
+msgid "positional() called before parse()"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:410
+msgctxt "QxtCommandOptions|"
+msgid "unrecognized() called before parse()"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:423
+msgctxt "QxtCommandOptions|"
+msgid "count() called before parse()"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:443
+msgctxt "QxtCommandOptions|"
+msgid "value() called before parse()"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:458
+msgctxt "QxtCommandOptions|"
+msgid "parameters() called before parse()"
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:748
+msgctxt "QxtCommandOptions|"
+msgid "unrecognized parameters: "
+msgstr ""
+
+#: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:751
+#, qt-format
+msgctxt "QxtCommandOptions|"
+msgid "%1 requires a parameter"
+msgstr ""
 
 #: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:52
 #: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:148
@@ -3383,32 +3542,32 @@ msgctxt "SimpleAboutDialog|"
 msgid "Module based instant messenger."
 msgstr "Module based instant messenger."
 
-#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:147
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:143
 msgctxt "SimpleAboutDialog|"
 msgid "Source code repository:"
 msgstr "Source code repository:"
 
-#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:164
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:160
 msgctxt "SimpleAboutDialog|"
 msgid "Project site:"
 msgstr "Project site:"
 
-#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:171
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:167
 msgctxt "SimpleAboutDialog|"
 msgid "Bug tracker:"
 msgstr "Bug tracker:"
 
-#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:204
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:200
 msgctxt "SimpleAboutDialog|"
 msgid "Developers"
 msgstr "Developers"
 
-#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:227
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:223
 msgctxt "SimpleAboutDialog|"
 msgid "Translators"
 msgstr "Translators"
 
-#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:244
+#: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:240
 msgctxt "SimpleAboutDialog|"
 msgid "License"
 msgstr "License"
@@ -3569,6 +3728,11 @@ msgctxt "StackedChatBehavior|"
 msgid "Don't group messages after (sec):"
 msgstr "Don't group messages after (sec):"
 
+#: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:104
+msgctxt "StackedChatBehavior|"
+msgid "Autoresize the input field "
+msgstr ""
+
 #: ../../../core/libqutim/status.cpp:156
 msgctxt "Status|"
 msgid "Online"
@@ -3679,6 +3843,11 @@ msgctxt "TabbedChatBehavior|"
 msgid "Show menubar"
 msgstr "Show menubar"
 
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:123
+msgctxt "TabbedChatBehavior|"
+msgid "Autoresize the input field"
+msgstr ""
+
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/tagsfilterdialog.ui:14
 msgctxt "TagsFilterDialog|"
 msgid "Select tags"
@@ -3689,17 +3858,10 @@ msgctxt "Task|"
 msgid "Translator"
 msgstr "Translator"
 
-#: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:40
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:39
-#: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:45
 msgctxt "Task|"
 msgid "Author"
 msgstr "Author"
-
-#: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:43
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Developer"
 
 #: ../../../core/libqutim/buddy.cpp:100
 msgctxt "ToolTip|"
@@ -3767,7 +3929,7 @@ msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Input/output error"
 msgstr "Input/output error"
 
-#: ../../../core/libqutim/modulemanager.cpp:417
+#: ../../../core/libqutim/modulemanager.cpp:535
 #, qt-format
 msgctxt "qutim_sdk_0_3::ModuleManager|"
 msgid ""
@@ -3777,22 +3939,22 @@ msgstr ""
 "Could not init plugin:  \n"
 " %1"
 
-#: ../../../core/libqutim/profile.cpp:192
+#: ../../../core/libqutim/profile.cpp:193
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Password is mismatched."
 msgstr "Password is mismatched."
 
-#: ../../../core/libqutim/profile.cpp:194
+#: ../../../core/libqutim/profile.cpp:195
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Crypto service is unknown."
 msgstr "Crypto service is unknown."
 
-#: ../../../core/libqutim/profile.cpp:196
+#: ../../../core/libqutim/profile.cpp:197
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Wrong profile id."
 msgstr "Wrong profile id."
 
-#: ../../../core/libqutim/profile.cpp:229
+#: ../../../core/libqutim/profile.cpp:231
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Can't open file with hash"
 msgstr "Can't open file with hash"
@@ -3833,6 +3995,14 @@ msgstr "Save"
 msgctxt "userInformationClass|"
 msgid "Close"
 msgstr "Close"
+
+#~ msgctxt "Author|"
+#~ msgid "Aleksey Sidorov"
+#~ msgstr "Aleksey Sidorov"
+
+#~ msgctxt "Task|"
+#~ msgid "Developer"
+#~ msgstr "Developer"
 
 #~ msgctxt "Author|"
 #~ msgid "Rederick Asher"

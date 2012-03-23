@@ -55,7 +55,7 @@ msgctxt "AccountWizardMain|"
 msgid "Password:"
 msgstr "Парола:"
 
-#: ../../../protocols/mrim/src/base/mrimplugin.cpp:48
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:49
 msgctxt "Author|"
 msgid "Peter Rusanov"
 msgstr "Петер Русанов"
@@ -155,22 +155,22 @@ msgctxt "Plugin|"
 msgid "Implementation of MRIM protocol"
 msgstr "Реализация на MRIM протокола"
 
-#: ../../../protocols/mrim/src/base/mrimplugin.cpp:42
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:43
 msgctxt "Plugin|"
 msgid "Module-based realization of Mail.Ru IM protocol"
 msgstr "Модулна реализация на Mail.Ru протокола"
 
-#: ../../../protocols/mrim/src/base/mrimplugin.cpp:43
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:44
 msgctxt "Plugin|"
 msgid "MRIM"
 msgstr "MRIM"
 
-#: ../../../protocols/mrim/src/base/mrimplugin.cpp:56
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:57
 msgctxt "Plugin|"
 msgid "MRIM account creator"
 msgstr "Създаване на MRIM сметка"
 
-#: ../../../protocols/mrim/src/base/mrimplugin.cpp:57
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:58
 msgctxt "Plugin|"
 msgid "Account creator for module-based realization of Mail.Ru IM protocol"
 msgstr "Създаване на сметка за модулната реализация на Mail.Ru протокола"
@@ -430,7 +430,7 @@ msgctxt "Status|"
 msgid "?"
 msgstr "?"
 
-#: ../../../protocols/mrim/src/base/mrimplugin.cpp:49
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:50
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"

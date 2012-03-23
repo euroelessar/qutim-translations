@@ -19,37 +19,35 @@ msgstr ""
 "X-Generator: Launchpad (build 14833)\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../plugins/antiboss/src/antibossplugin.cpp:48
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:46
 msgctxt "AntiBoss|"
 msgid "Show/hide all windows"
 msgstr "Show/hide all windows"
 
-#: ../../../plugins/antiboss/src/antibossplugin.cpp:49
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:47
 msgctxt "AntiBoss|"
 msgid "Antiboss"
 msgstr "Antiboss"
 
-#: ../../../plugins/antiboss/src/antibossplugin.cpp:39
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Ruslan Nigmatullin"
-
 #: ../../../plugins/antiboss/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/antiboss/src/antibossplugin.cpp:42
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:40
 msgctxt "Plugin|"
 msgid "Anti-boss plugin"
 msgstr "Anti-boss plugin"
 
 #: ../../../plugins/antiboss/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/antiboss/src/antibossplugin.cpp:43
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:41
 msgctxt "Plugin|"
 msgid "Plugin makes your chatting invisible for boss"
 msgstr "Plugin makes your chatting invisible for boss"
 
-#: ../../../plugins/antiboss/src/antibossplugin.cpp:40
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Developer"
+#~ msgctxt "Author|"
+#~ msgid "Ruslan Nigmatullin"
+#~ msgstr "Ruslan Nigmatullin"
+
+#~ msgctxt "Task|"
+#~ msgid "Developer"
+#~ msgstr "Developer"
 
 #, fuzzy
 #~ msgctxt "Plugin|"

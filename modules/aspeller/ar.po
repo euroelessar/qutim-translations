@@ -11,37 +11,34 @@ msgstr ""
 "PO-Revision-Date: 2012-03-18 22:17+0000\n"
 "Last-Translator: Mohammed Hamad <no_way132@yahoo.com>\n"
 "Language-Team: Arabic <ar@li.org>\n"
+"Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-03-19 05:06+0000\n"
 "X-Generator: Launchpad (build 14969)\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/aspeller/src/aspellsettings.cpp:35
 msgctxt "AspellSettings|"
 msgid "Language"
 msgstr "اللّغة"
 
-#: ../../../plugins/aspeller/src/aspellplugin.cpp:36
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Ruslan Nigmatullin"
-
-#: ../../../plugins/aspeller/src/aspellplugin.cpp:39
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:37
 msgctxt "Author|"
 msgid "Alexey Prokhin"
 msgstr "Alexey Prokhin"
 
 #: ../../../plugins/aspeller/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/aspeller/src/aspellplugin.cpp:42
-#: ../../../plugins/aspeller/src/aspellplugin.cpp:45
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:40
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:43
 msgctxt "Plugin|"
 msgid "ASpell checker"
 msgstr "فاحص الهجاء"
 
 #: ../../../plugins/aspeller/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/aspeller/src/aspellplugin.cpp:43
-#: ../../../plugins/aspeller/src/aspellplugin.cpp:46
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:41
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:44
 msgctxt "Plugin|"
 msgid "Check spelling by ASpell library"
 msgstr "فحص الهجاء بواسطة مكتبة ASpell"
@@ -156,12 +153,15 @@ msgctxt "SpellChecker|"
 msgid "extended"
 msgstr "موسّع"
 
-#: ../../../plugins/aspeller/src/aspellplugin.cpp:37
-msgctxt "Task|"
-msgid "Developer"
-msgstr "المطوِّر"
-
-#: ../../../plugins/aspeller/src/aspellplugin.cpp:40
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:38
 msgctxt "Task|"
 msgid "Author"
 msgstr "المؤلف:"
+
+#~ msgctxt "Author|"
+#~ msgid "Ruslan Nigmatullin"
+#~ msgstr "Ruslan Nigmatullin"
+
+#~ msgctxt "Task|"
+#~ msgid "Developer"
+#~ msgstr "المطوِّر"

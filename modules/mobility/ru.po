@@ -15,7 +15,7 @@ msgstr ""
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:69
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:72
 msgctxt "BearerManager|"
 msgid ""
 "Unable to find any network configuration. Perhaps Qt or QtMobility network "
@@ -25,6 +25,16 @@ msgstr ""
 "Невозможно определить конфигурацию сети. Возможно сетевые настройки Qt или "
 "QtMobility сконфигурированы некорректно. Менеджер работает неправильно, "
 "обратитесь к производителю дистрибутива."
+
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:94
+msgctxt "BearerManager|"
+msgid "Network is available!"
+msgstr ""
+
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:95
+msgctxt "BearerManager|"
+msgid "Network is unreachable!"
+msgstr ""
 
 #: ../../../plugins/mobility/src/bearermanager/managersettings.ui:14
 msgctxt "ManagerSettings|"
@@ -56,12 +66,12 @@ msgctxt "Plugin|"
 msgid "Sound engine based on QtMultimedia"
 msgstr "Звуковой движок, использующий QtMultimedia"
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:47
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:48
 msgctxt "Service|"
 msgid "BearerManager"
 msgstr "BearerManager"
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:59
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:62
 msgctxt "Settings|"
 msgid "Connection manager"
 msgstr "Менеджер подключений"

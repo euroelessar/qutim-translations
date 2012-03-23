@@ -5,11 +5,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 
-#: __from_devels_json.cpp:1
-msgctxt "Author|"
-msgid "Alexander Kazarin"
-msgstr ""
-
 #: __from_devels_json.cpp:3
 msgctxt "Author|"
 msgid "Eugene Degtyarev"
@@ -20,14 +15,19 @@ msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr ""
 
-#: __from_devels_json.cpp:7
-msgctxt "Author|"
-msgid "Nicolay Izoderov"
-msgstr ""
-
 #: __from_devels_json.cpp:9
 msgctxt "Author|"
 msgid "Denis Daschenko"
+msgstr ""
+
+#: __from_devels_json.cpp:1
+msgctxt "Author|"
+msgid "Alexander Kazarin"
+msgstr ""
+
+#: __from_devels_json.cpp:7
+msgctxt "Author|"
+msgid "Nicolay Izoderov"
 msgstr ""
 
 #: __from_devels_json.cpp:11

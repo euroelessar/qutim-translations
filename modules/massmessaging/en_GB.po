@@ -19,11 +19,6 @@ msgstr ""
 "X-Generator: Launchpad (build 14833)\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../plugins/massmessaging/src/messaging.cpp:42
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr "Aleksey Sidorov"
-
 #: ../../../plugins/massmessaging/src/messagingdialog.ui:14
 msgctxt "Dialog|"
 msgid "Multiply Sending"
@@ -129,7 +124,7 @@ msgctxt "Dialog|"
 msgid "Send"
 msgstr "Send"
 
-#: ../../../plugins/massmessaging/src/messaging.cpp:55
+#: ../../../plugins/massmessaging/src/messaging.cpp:52
 msgctxt "MassMessaging|"
 msgid "&Mass Messaging"
 msgstr "&Mass Messaging"
@@ -173,21 +168,24 @@ msgid "Start"
 msgstr "Start"
 
 #: ../../../plugins/massmessaging/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/massmessaging/src/messaging.cpp:46
+#: ../../../plugins/massmessaging/src/messaging.cpp:43
 msgctxt "Plugin|"
 msgid "MassMessaging"
 msgstr "MassMessaging"
 
 #: ../../../plugins/massmessaging/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/massmessaging/src/messaging.cpp:47
+#: ../../../plugins/massmessaging/src/messaging.cpp:44
 msgctxt "Plugin|"
 msgid "Simple messaging to contact list"
 msgstr "Simple messaging to contact list"
 
-#: ../../../plugins/massmessaging/src/messaging.cpp:43
-msgctxt "Task|"
-msgid "Author"
-msgstr "Author"
+#~ msgctxt "Author|"
+#~ msgid "Aleksey Sidorov"
+#~ msgstr "Aleksey Sidorov"
+
+#~ msgctxt "Task|"
+#~ msgid "Author"
+#~ msgstr "Author"
 
 #, fuzzy
 #~ msgctxt "Plugin|"

@@ -16,24 +16,22 @@ msgstr ""
 "X-Language: de\n"
 "X-Source-Language: en\n"
 
-#: ../../../plugins/dbusapi/src/dbusplugin.cpp:150
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Ruslan Nigmatullin"
-
 #: ../../../plugins/dbusapi/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/dbusapi/src/dbusplugin.cpp:153
+#: ../../../plugins/dbusapi/src/dbusplugin.cpp:151
 msgctxt "Plugin|"
 msgid "DBus API"
 msgstr "DBus API"
 
 #: ../../../plugins/dbusapi/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/dbusapi/src/dbusplugin.cpp:154
+#: ../../../plugins/dbusapi/src/dbusplugin.cpp:152
 msgctxt "Plugin|"
 msgid "Added ability to control qutIM by DBus"
 msgstr "Möglichkeit, qutIM über DBus zu steuern"
 
-#: ../../../plugins/dbusapi/src/dbusplugin.cpp:151
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Entwickler"
+#~ msgctxt "Author|"
+#~ msgid "Ruslan Nigmatullin"
+#~ msgstr "Ruslan Nigmatullin"
+
+#~ msgctxt "Task|"
+#~ msgid "Developer"
+#~ msgstr "Entwickler"

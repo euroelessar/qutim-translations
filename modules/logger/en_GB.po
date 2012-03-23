@@ -19,19 +19,14 @@ msgstr ""
 "X-Generator: Launchpad (build 14833)\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../plugins/logger/src/logger.cpp:80
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr "Aleksey Sidorov"
-
-#: ../../../plugins/logger/src/logger.cpp:97
+#: ../../../plugins/logger/src/logger.cpp:94
 msgctxt "Logger::LoggerPlugin|"
 msgid "New session started, happy debuging ^_^"
 msgstr "New session started, happy debugging ^_^"
 
 #: ../../../plugins/logger/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/logger/src/logger.cpp:76
-#: ../../../plugins/logger/src/logger.cpp:101
+#: ../../../plugins/logger/src/logger.cpp:98
 msgctxt "Plugin|"
 msgid "Logger"
 msgstr "Logger"
@@ -42,17 +37,20 @@ msgctxt "Plugin|"
 msgid "Simple file based logger for debug"
 msgstr "Simple file based logger for debug"
 
-#: ../../../plugins/logger/src/logger.cpp:105
+#: ../../../plugins/logger/src/logger.cpp:102
 msgctxt "Plugin|"
 msgid "Select log path"
 msgstr "Select log path"
 
-#: ../../../plugins/logger/src/logger.cpp:109
+#: ../../../plugins/logger/src/logger.cpp:106
 msgctxt "Plugin|"
 msgid "Enable dump of debug info"
 msgstr "Enable dump of debug info"
 
-#: ../../../plugins/logger/src/logger.cpp:81
-msgctxt "Task|"
-msgid "Author"
-msgstr "Author"
+#~ msgctxt "Author|"
+#~ msgid "Aleksey Sidorov"
+#~ msgstr "Aleksey Sidorov"
+
+#~ msgctxt "Task|"
+#~ msgid "Author"
+#~ msgstr "Author"

@@ -15,28 +15,26 @@ msgstr ""
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
-#: ../../../plugins/emoedit/src/emoeditplugin.cpp:60
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Нигматуллин Руслан"
-
 #: ../../../plugins/emoedit/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
 msgid "EmoEdit"
 msgstr "Кнопка вставки смайлов"
 
 #: ../../../plugins/emoedit/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/emoedit/src/emoeditplugin.cpp:64
+#: ../../../plugins/emoedit/src/emoeditplugin.cpp:62
 msgctxt "Plugin|"
 msgid "Add emoticons to text edit widget"
 msgstr "Добавляет смайлы в поле ввода"
 
-#: ../../../plugins/emoedit/src/emoeditplugin.cpp:63
+#: ../../../plugins/emoedit/src/emoeditplugin.cpp:61
 msgctxt "Plugin|"
 msgid "EmoEdit plugin"
 msgstr "Плагин EmoEdit"
 
-#: ../../../plugins/emoedit/src/emoeditplugin.cpp:61
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Разработчик"
+#~ msgctxt "Author|"
+#~ msgid "Ruslan Nigmatullin"
+#~ msgstr "Нигматуллин Руслан"
+
+#~ msgctxt "Task|"
+#~ msgid "Developer"
+#~ msgstr "Разработчик"
