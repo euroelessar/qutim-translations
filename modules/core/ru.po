@@ -242,13 +242,13 @@ msgctxt "ChatLayer|"
 msgid "ContactList"
 msgstr "Контакты"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:445
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:442
 msgctxt "ChatSession|"
 msgid "Auto"
 msgstr "Авто"
 
 # И что тут имелось ввиду? Последний активный ресурс!
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:455
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:452
 msgctxt "ChatSession|"
 msgid "Last active"
 msgstr "Последний активный"
@@ -938,7 +938,7 @@ msgid "Ignore conference messages that do not contain my name"
 msgstr "Игнорировать сообщения конференции без моего имени"
 
 # Опять кто-то куда-то писает, да что же такое!
-#: ../../../core/src/corelayers/plistconfig/plistconfigbackend.cpp:165
+#: ../../../core/src/corelayers/plistconfig/plistconfigbackend.cpp:166
 #, qt-format
 msgctxt "Core::PListConfigBackend|"
 msgid "Cannot write to file %1"
@@ -3951,7 +3951,7 @@ msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Input/output error"
 msgstr "Ошибка ввода/вывода"
 
-#: ../../../core/libqutim/modulemanager.cpp:535
+#: ../../../core/libqutim/modulemanager.cpp:540
 #, qt-format
 msgctxt "qutim_sdk_0_3::ModuleManager|"
 msgid ""

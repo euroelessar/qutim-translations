@@ -233,12 +233,12 @@ msgctxt "ChatLayer|"
 msgid "ContactList"
 msgstr "Seznam kontaktů"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:445
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:442
 msgctxt "ChatSession|"
 msgid "Auto"
 msgstr "Automaticky"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:455
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:452
 msgctxt "ChatSession|"
 msgid "Last active"
 msgstr "Poslední aktivní"
@@ -924,7 +924,7 @@ msgctxt "Core::NotificationSettings|"
 msgid "Ignore conference messages that do not contain my name"
 msgstr ""
 
-#: ../../../core/src/corelayers/plistconfig/plistconfigbackend.cpp:165
+#: ../../../core/src/corelayers/plistconfig/plistconfigbackend.cpp:166
 #, qt-format
 msgctxt "Core::PListConfigBackend|"
 msgid "Cannot write to file %1"
@@ -3902,7 +3902,7 @@ msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Input/output error"
 msgstr "Vstupně/výstupní chyba"
 
-#: ../../../core/libqutim/modulemanager.cpp:535
+#: ../../../core/libqutim/modulemanager.cpp:540
 #, qt-format
 msgctxt "qutim_sdk_0_3::ModuleManager|"
 msgid ""

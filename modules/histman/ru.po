@@ -63,7 +63,7 @@ msgctxt "ClientConfigPage|"
 msgid "Select your Jabber account."
 msgstr "Выберите ваш Jabber аккаунт."
 
-#: ../../../plugins/histman/src/clients/qipinfium.cpp:190
+#: ../../../plugins/histman/src/clients/qipinfium.cpp:191
 msgctxt "ClientConfigPage|"
 msgid "Select accounts for each protocol in the list."
 msgstr "Выберите аккаунты для каждого протокола в списке."

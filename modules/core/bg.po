@@ -244,12 +244,12 @@ msgctxt "ChatLayer|"
 msgid "ContactList"
 msgstr "Списък с контакти"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:445
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:442
 msgctxt "ChatSession|"
 msgid "Auto"
 msgstr "Автоматично"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:455
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:452
 msgctxt "ChatSession|"
 msgid "Last active"
 msgstr "Последният активен"
@@ -941,7 +941,7 @@ msgstr ""
 "Да се пренебрегват съобщенията, в конференциите, в които не се съдържа моето "
 "име"
 
-#: ../../../core/src/corelayers/plistconfig/plistconfigbackend.cpp:165
+#: ../../../core/src/corelayers/plistconfig/plistconfigbackend.cpp:166
 #, qt-format
 msgctxt "Core::PListConfigBackend|"
 msgid "Cannot write to file %1"
@@ -3959,7 +3959,7 @@ msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Input/output error"
 msgstr "Входно/Изходна грешка"
 
-#: ../../../core/libqutim/modulemanager.cpp:535
+#: ../../../core/libqutim/modulemanager.cpp:540
 #, qt-format
 msgctxt "qutim_sdk_0_3::ModuleManager|"
 msgid ""

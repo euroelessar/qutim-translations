@@ -827,6 +827,34 @@ msgctxt "JMainSettings|"
 msgid "Port:"
 msgstr ""
 
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:234
+msgctxt "JMainSettings|"
+msgid "Use encryption"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:241
+msgctxt "JMainSettings|"
+msgid "Use compression"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:249
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:268
+msgctxt "JMainSettings|"
+msgid "Always"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:254
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:273
+msgctxt "JMainSettings|"
+msgid "Never"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:259
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:278
+msgctxt "JMainSettings|"
+msgid "If server has support"
+msgstr ""
+
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:199
 msgctxt "Jabber|"
 msgid "Name"
@@ -929,12 +957,12 @@ msgctxt "Jabber|"
 msgid "Xml console"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:237
+#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:241
 msgctxt "Jabber::JAccount|Local qutIM's name"
 msgid "qutIM"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:238
+#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:242
 msgctxt "Jabber::JAccount|Default language"
 msgid "en"
 msgstr ""
@@ -950,14 +978,20 @@ msgctxt "Jabber::JAccountFinishPage|"
 msgid "Congratulations! Account creation is finished, your Jabber ID is \"%1\""
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:233
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:235
 msgctxt "Jabber::JAccountRegistrationPage|"
 msgid "Unknown error"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:237
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:239
 msgctxt "Jabber::JAccountRegistrationPage|"
 msgid "The desired username is already in use by another user"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:282
+#, qt-format
+msgctxt "Jabber::JAccountRegistrationPage|"
+msgid "Sorry, but server \"%1\" does not support in-band registration"
 msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.cpp:41
@@ -1307,82 +1341,82 @@ msgctxt "Jabber::XmlConsole|"
 msgid "Close"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:401
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:400
 msgctxt "Jabber::XmlConsole|"
 msgid "Save XMPP log to file"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:402
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:401
 msgctxt "Jabber::XmlConsole|"
 msgid "OpenDocument Format (*.odf);;HTML file (*.html);;Plain text (*.txt)"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:131
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:133
 msgctxt "Jreen|"
 msgid "Username"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:133
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:135
 msgctxt "Jreen|"
 msgid "Familiar name"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:135
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:137
 msgctxt "Jreen|"
 msgid "Password"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:137
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:139
 msgctxt "Jreen|"
 msgid "Full name"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:139
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:141
 msgctxt "Jreen|"
 msgid "Given name"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:141
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:143
 msgctxt "Jreen|"
 msgid "Family name"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:143
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:145
 msgctxt "Jreen|"
 msgid "Email"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:145
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:147
 msgctxt "Jreen|"
 msgid "Street"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:147
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:149
 msgctxt "Jreen|"
 msgid "City"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:149
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:151
 msgctxt "Jreen|"
 msgid "Region"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:151
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:153
 msgctxt "Jreen|"
 msgid "Postal code"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:153
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:155
 msgctxt "Jreen|"
 msgid "Phone number"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:155
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:157
 msgctxt "Jreen|"
 msgid "Web page url"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:157
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:159
 msgctxt "Jreen|"
 msgid "Birth date"
 msgstr ""
