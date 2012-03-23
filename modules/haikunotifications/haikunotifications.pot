@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/haikunotifications/src/haikunotificationsbackend.cpp:45
+msgctxt "HaikuNotificationsBackend|"
+msgid "Show popup"
+msgstr ""
+
+#: ../../../plugins/haikunotifications/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/haikunotifications/src/haikunotificationsplugin.cpp:34
+msgctxt "Plugin|"
+msgid "Haiku notifications"
+msgstr ""
+
+#: ../../../plugins/haikunotifications/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Notification system integrated into Haiku"
+msgstr ""
+
+#: ../../../plugins/haikunotifications/src/haikunotificationsplugin.cpp:35
+msgctxt "Plugin|"
+msgid "Notification system integrated into Haiku using native BeAPI"
+msgstr ""
+
+#: ../../../plugins/haikunotifications/src/haikunotificationsplugin.cpp:38
+msgctxt "plugin|"
+msgid "Haiku notifications"
+msgstr ""
+
+#: ../../../plugins/haikunotifications/src/haikunotificationsplugin.cpp:39
+msgctxt "plugin|"
+msgid "Notification system integrated into Haiku using native BeAPI"
+msgstr ""
