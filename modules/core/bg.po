@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-22 16:49+0000\n"
-"PO-Revision-Date: 2012-03-13 14:32+0000\n"
+"POT-Creation-Date: 2012-03-24 00:01+0000\n"
+"PO-Revision-Date: 2012-03-24 01:34+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-14 05:41+0000\n"
-"X-Generator: Launchpad (build 14933)\n"
+"X-Launchpad-Export-Date: 2012-03-24 05:36+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: bg\n"
 "X-Source-Language: C\n"
@@ -2973,167 +2973,168 @@ msgstr "Копиране на %1 в клипборда"
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:101
 msgctxt "QxtCommandOptions|"
 msgid "sets the application GUI style"
-msgstr ""
+msgstr "задава стила на ГПИ на приложението"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:102
 msgctxt "QxtCommandOptions|"
 msgid "sets the application stylesheet"
-msgstr ""
+msgstr "задава стила на приложението"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:103
 msgctxt "QxtCommandOptions|"
 msgid "restores the application from an earlier session"
-msgstr ""
+msgstr "възстановява приложението от предишна сесия"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:104
 msgctxt "QxtCommandOptions|"
 msgid "displays debugging information about widgets"
 msgstr ""
+"показва информация за отстраняване на грешки по ГПИ елементите за управление"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:105
 msgctxt "QxtCommandOptions|"
 msgid "use right-to-left layout"
-msgstr ""
+msgstr "използване на подредба от дясно на ляво"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:107
 msgctxt "QxtCommandOptions|"
 msgid "never grab the mouse or keyboard"
-msgstr ""
+msgstr "никога да не се прихващат мишката или клавиатурата"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:110
 msgctxt "QxtCommandOptions|"
 msgid "grab the mouse/keyboard even in a debugger"
 msgstr ""
+"да се прихващат събитията от мишката/клавиатурата дори в режим на "
+"отстраняване на грешки"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:111
 msgctxt "QxtCommandOptions|"
 msgid "run in synchronous mode for debugging"
-msgstr ""
+msgstr "работа в синхронен режим на отстраняване на грешки"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:114
 msgctxt "QxtCommandOptions|"
 msgid "use Direct3D by default"
-msgstr ""
+msgstr "по подразбиране да се използва Direct3D"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:117
 msgctxt "QxtCommandOptions|"
 msgid "sets the X11 display"
-msgstr ""
+msgstr "задава X11 визуализация"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:118
 msgctxt "QxtCommandOptions|"
 msgid "sets the geometry of the first window"
-msgstr ""
+msgstr "задава геометрията на първия прозорец"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:120
 msgctxt "QxtCommandOptions|"
 msgid "sets the default font"
-msgstr ""
+msgstr "задава шрифта по подразбиране"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:122
 msgctxt "QxtCommandOptions|"
 msgid "sets the default background color"
-msgstr ""
+msgstr "задава подразбиращия се цвят на фона на заден план"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:124
 msgctxt "QxtCommandOptions|"
 msgid "sets the default foreground color"
-msgstr ""
+msgstr "задава подразбиращия се цвят на фона на преден план"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:126
 msgctxt "QxtCommandOptions|"
 msgid "sets the default button color"
-msgstr ""
+msgstr "задава подразбиращия се цвят на бутоните"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:127
-#, fuzzy
 msgctxt "QxtCommandOptions|"
 msgid "sets the application name"
-msgstr "Да се записват данните в директорията на приложението"
+msgstr "задава името на приложението"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:128
-#, fuzzy
 msgctxt "QxtCommandOptions|"
 msgid "sets the application title"
-msgstr "Да се записват данните в директорията на приложението"
+msgstr "задава заглавието на приложението"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:129
 msgctxt "QxtCommandOptions|"
 msgid "sets the X11 visual type"
-msgstr ""
+msgstr "задава типа на Х11 визуализацията"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:130
 msgctxt "QxtCommandOptions|"
 msgid "limit the number of colors on an 8-bit display"
-msgstr ""
+msgstr "ограничава броя цветове на 8 битов екран"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:131
 msgctxt "QxtCommandOptions|"
 msgid "use a private color map"
-msgstr ""
+msgstr "да се ползва лична цветова гама"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:132
 msgctxt "QxtCommandOptions|"
 msgid "sets the input method server"
-msgstr ""
+msgstr "задава метода на въвеждане"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:133
 msgctxt "QxtCommandOptions|"
 msgid "disable the X Input Method"
-msgstr ""
+msgstr "деактивиране на X метода на въвеждане"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:134
 msgctxt "QxtCommandOptions|"
 msgid "sets the style used by the input method"
-msgstr ""
+msgstr "задава стила използван от метода за въвеждане"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:235
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:249
 #, qt-format
 msgctxt "QxtCommandOptions|"
 msgid "option \"%1\" not found"
-msgstr ""
+msgstr "елементът \"%1\" не бе намерен"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:384
 msgctxt "QxtCommandOptions|"
 msgid "Short options cannot have optional parameters"
-msgstr ""
+msgstr "Късите елементи не могат да имат възможност за избор"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:396
 msgctxt "QxtCommandOptions|"
 msgid "positional() called before parse()"
-msgstr ""
+msgstr "обръщение към positional() преди parse()"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:410
 msgctxt "QxtCommandOptions|"
 msgid "unrecognized() called before parse()"
-msgstr ""
+msgstr "обръщение към unrecognized() преди parse()"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:423
 msgctxt "QxtCommandOptions|"
 msgid "count() called before parse()"
-msgstr ""
+msgstr "обръщение към count() преди parse()"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:443
 msgctxt "QxtCommandOptions|"
 msgid "value() called before parse()"
-msgstr ""
+msgstr "обръщение към value() преди parse()"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:458
 msgctxt "QxtCommandOptions|"
 msgid "parameters() called before parse()"
-msgstr ""
+msgstr "обръщение към parameters() преди parse()"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:748
 msgctxt "QxtCommandOptions|"
 msgid "unrecognized parameters: "
-msgstr ""
+msgstr "некатегоризирани параметри: "
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:751
 #, qt-format
 msgctxt "QxtCommandOptions|"
 msgid "%1 requires a parameter"
-msgstr ""
+msgstr "%1 изисква параметър"
 
 #: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:52
 #: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:148
@@ -3761,7 +3762,7 @@ msgstr "Да не се групират съобщенията след (сле�
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:104
 msgctxt "StackedChatBehavior|"
 msgid "Autoresize the input field "
-msgstr ""
+msgstr "Автоматична промяна размера на полето за въвеждане "
 
 #: ../../../core/libqutim/status.cpp:156
 msgctxt "Status|"
@@ -3876,7 +3877,7 @@ msgstr "Да се показва лентата с менюто"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:123
 msgctxt "TabbedChatBehavior|"
 msgid "Autoresize the input field"
-msgstr ""
+msgstr "Автоматична промяна размера на полето за въвеждане"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/tagsfilterdialog.ui:14
 msgctxt "TagsFilterDialog|"

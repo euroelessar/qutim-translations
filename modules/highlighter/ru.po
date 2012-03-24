@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-02-27 18:12+0000\n"
+"POT-Creation-Date: 2012-03-23 17:51+0000\n"
 "PO-Revision-Date: 2012-02-27 20:48+0000\n"
 "Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -15,9 +15,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-28 06:29+0000\n"
-"X-Generator: Launchpad (build 14874)\n"
+"X-Launchpad-Export-Date: 2012-03-24 05:38+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
+"Language: ru\n"
 
 #: ../../../plugins/highlighter/src/highlighteritemlist.cpp:44
 #: ../../../plugins/highlighter/src/highlighteritemlist.cpp:105
@@ -72,12 +73,9 @@ msgid "Add"
 msgstr "Добавить"
 
 #: ../../../plugins/highlighter/src/highlightersettings.ui:53
-#, fuzzy
 msgctxt "HighlighterSettingsForm|"
 msgid "Enable auto highlights wher your nick was mentioned."
 msgstr ""
-"Плагин, который шлёт уведомление в случае, если ваш ник был упомянут в "
-"конференции."
 
 #: ../../../plugins/highlighter/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/highlighter/src/highlighter.cpp:41
@@ -94,27 +92,3 @@ msgid ""
 msgstr ""
 "Плагин, который шлёт уведомление в случае, если ваш ник был упомянут в "
 "конференции."
-
-#~ msgctxt "Author|"
-#~ msgid "Nicolay Izoderov"
-#~ msgstr "Изодёров Николай"
-
-#~ msgctxt "HighlighterSettingsForm|"
-#~ msgid "Regexps"
-#~ msgstr "Регулярные выражения"
-
-#~ msgctxt "HighlighterSettingsForm|"
-#~ msgid "Settings"
-#~ msgstr "Настройки"
-
-#~ msgctxt "HighlighterSettingsForm|"
-#~ msgid "Enable simple default regexp"
-#~ msgstr "Включить простую регулярку"
-
-#~ msgctxt "HighlighterSettingsForm|"
-#~ msgid "Simple regexp"
-#~ msgstr "Простая регулярка"
-
-#~ msgctxt "Task|"
-#~ msgid "Developer"
-#~ msgstr "Разработчик"

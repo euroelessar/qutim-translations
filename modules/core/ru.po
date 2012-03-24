@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-22 16:49+0000\n"
-"PO-Revision-Date: 2012-03-13 14:31+0000\n"
-"Last-Translator: Vsevolod Velichko <Unknown>\n"
+"POT-Creation-Date: 2012-03-24 00:01+0000\n"
+"PO-Revision-Date: 2012-03-24 01:36+0000\n"
+"Last-Translator: Ruslan Nigmatullin <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-14 05:41+0000\n"
-"X-Generator: Launchpad (build 14933)\n"
+"X-Launchpad-Export-Date: 2012-03-24 05:37+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -3029,16 +3029,14 @@ msgid "sets the default button color"
 msgstr ""
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:127
-#, fuzzy
 msgctxt "QxtCommandOptions|"
 msgid "sets the application name"
-msgstr "Переносной режим, настройки рядом с программой"
+msgstr ""
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:128
-#, fuzzy
 msgctxt "QxtCommandOptions|"
 msgid "sets the application title"
-msgstr "Переносной режим, настройки рядом с программой"
+msgstr ""
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:129
 msgctxt "QxtCommandOptions|"

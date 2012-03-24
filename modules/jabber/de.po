@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-22 16:49+0000\n"
-"PO-Revision-Date: 2012-03-11 09:50+0000\n"
+"POT-Creation-Date: 2012-03-24 00:01+0000\n"
+"PO-Revision-Date: 2012-03-24 01:35+0000\n"
 "Last-Translator: Daniel Winzen <d@winzen4.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-12 05:10+0000\n"
-"X-Generator: Launchpad (build 14933)\n"
+"X-Launchpad-Export-Date: 2012-03-24 05:37+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
@@ -674,7 +674,6 @@ msgid "OS"
 msgstr "Betriebssystem"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.ui:14
-#, fuzzy
 msgctxt "JAccountRegistrationPage|"
 msgid "WizardPage"
 msgstr "WizardPage"
@@ -687,7 +686,7 @@ msgstr "WizardPage"
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:20
 msgctxt "JAccountWizardPage|"
 msgid "I already have account"
-msgstr ""
+msgstr "Ein bestehendes Konto verwenden"
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:42
 msgctxt "JAccountWizardPage|"
@@ -712,10 +711,9 @@ msgstr "Passwort speichern"
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:96
 msgctxt "JAccountWizardPage|"
 msgid "I want to create new account"
-msgstr ""
+msgstr "Neues Konto erstellen"
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:112
-#, fuzzy
 msgctxt "JAccountWizardPage|"
 msgid "Server:"
 msgstr "Server:"
@@ -841,16 +839,14 @@ msgid "Port:"
 msgstr "Port:"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:234
-#, fuzzy
 msgctxt "JMainSettings|"
 msgid "Use encryption"
-msgstr "Autorisierung"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:241
-#, fuzzy
 msgctxt "JMainSettings|"
 msgid "Use compression"
-msgstr "Komprimierung:"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:249
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:268
@@ -983,7 +979,6 @@ msgid "en"
 msgstr "de"
 
 #: ../../../protocols/jabber/src/protocol/jaccountfinishpage.ui:13
-#, fuzzy
 msgctxt "Jabber::JAccountFinishPage|"
 msgid "WizardPage"
 msgstr "WizardPage"
@@ -993,16 +988,18 @@ msgstr "WizardPage"
 msgctxt "Jabber::JAccountFinishPage|"
 msgid "Congratulations! Account creation is finished, your Jabber ID is \"%1\""
 msgstr ""
+"Glückwunsch! Das Konto wurde erfolgreich erstellt, Deine Jabber-Adresse  "
+"lautet \"%1\""
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:235
 msgctxt "Jabber::JAccountRegistrationPage|"
 msgid "Unknown error"
-msgstr ""
+msgstr "Unbekannter Fehler"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:239
 msgctxt "Jabber::JAccountRegistrationPage|"
 msgid "The desired username is already in use by another user"
-msgstr ""
+msgstr "Der gewünschte Benutzername ist bereits vergeben"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:282
 #, qt-format
@@ -1016,12 +1013,13 @@ msgid ""
 "Account information.\n"
 "If you don't have account yet, press \"Register\" button."
 msgstr ""
+"Konteninformationen\n"
+"Wenn Sie noch kein Konto haben, klicken Sie auf \"Konto erstellen\"!"
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.cpp:73
-#, fuzzy
 msgctxt "Jabber::JAccountWizardPage|"
 msgid "Register"
-msgstr "Registrieren"
+msgstr "Konto erstellen"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:252
 msgctxt "Jabber::JActivityChooser|"
@@ -1371,64 +1369,54 @@ msgstr "OpenDocument Format (*.odf);;HTML Datei (*.html);;Text (*.txt)"
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:133
 msgctxt "Jreen|"
 msgid "Username"
-msgstr ""
+msgstr "Benutzername"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:135
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Familiar name"
-msgstr "Vorname"
+msgstr "Spitzname"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:137
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Password"
 msgstr "Passwort"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:139
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Full name"
-msgstr "Vorname"
+msgstr "Vollständiger Name"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:141
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Given name"
-msgstr "Zweiter Vorname"
-
-#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:143
-#, fuzzy
-msgctxt "Jreen|"
-msgid "Family name"
 msgstr "Vorname"
 
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:143
+msgctxt "Jreen|"
+msgid "Family name"
+msgstr "Nachname"
+
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:145
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Email"
 msgstr "E-Mail"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:147
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Street"
 msgstr "Straße"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:149
-#, fuzzy
 msgctxt "Jreen|"
 msgid "City"
 msgstr "Wohnort"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:151
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Region"
 msgstr "Bundesland"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:153
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Postal code"
 msgstr "Postleitzahl"
@@ -1436,18 +1424,17 @@ msgstr "Postleitzahl"
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:155
 msgctxt "Jreen|"
 msgid "Phone number"
-msgstr ""
+msgstr "Telefonnummer"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:157
 msgctxt "Jreen|"
 msgid "Web page url"
-msgstr ""
+msgstr "Webseite"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:159
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Birth date"
-msgstr "Geburtstag"
+msgstr "Geburtsdatum"
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:77
 msgctxt "Jreen::Error|"

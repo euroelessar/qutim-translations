@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-22 16:49+0000\n"
-"PO-Revision-Date: 2012-02-01 18:59+0000\n"
+"POT-Creation-Date: 2012-03-24 00:01+0000\n"
+"PO-Revision-Date: 2012-03-24 01:33+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-23 05:19+0000\n"
-"X-Generator: Launchpad (build 14855)\n"
+"X-Launchpad-Export-Date: 2012-03-24 05:37+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
@@ -844,10 +844,9 @@ msgid "Use encryption"
 msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:241
-#, fuzzy
 msgctxt "JMainSettings|"
 msgid "Use compression"
-msgstr "Komprese:"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:249
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:268
@@ -1014,10 +1013,9 @@ msgid ""
 msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.cpp:73
-#, fuzzy
 msgctxt "Jabber::JAccountWizardPage|"
 msgid "Register"
-msgstr "Registrovat"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:252
 msgctxt "Jabber::JActivityChooser|"
@@ -1393,28 +1391,24 @@ msgid "Given name"
 msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:143
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Family name"
-msgstr "Jméno"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:145
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Email"
-msgstr "E-mail"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:147
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Street"
-msgstr "Ulice"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:149
-#, fuzzy
 msgctxt "Jreen|"
 msgid "City"
-msgstr "Obec"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:151
 msgctxt "Jreen|"
@@ -1437,10 +1431,9 @@ msgid "Web page url"
 msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:159
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Birth date"
-msgstr "Narozeniny"
+msgstr ""
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:77
 msgctxt "Jreen::Error|"
