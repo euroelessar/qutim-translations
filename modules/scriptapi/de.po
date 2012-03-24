@@ -2,23 +2,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-19 16:52+0000\n"
+"POT-Creation-Date: 2012-03-23 17:51+0000\n"
 "PO-Revision-Date: 2012-02-20 23:33+0000\n"
 "Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-21 06:31+0000\n"
-"X-Generator: Launchpad (build 14838)\n"
+"X-Launchpad-Export-Date: 2012-03-24 05:37+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
+"Language: de\n"
 "X-Language: de\n"
 "X-Source-Language: en\n"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:40
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:30
-#: ../../../plugins/scriptapi/src/scriptplugin.cpp:113
 msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
 msgstr "Ruslan Nigmatullin"
@@ -57,19 +56,18 @@ msgctxt "Plugin|"
 msgid "Script API scriptapi/src/scriptplugin.cpp-"
 msgstr "Script API scriptapi/src/scriptplugin.cpp-"
 
-#: ../../../plugins/scriptapi/src/scriptplugin.cpp:116
+#: ../../../plugins/scriptapi/src/scriptplugin.cpp:114
 msgctxt "Plugin|"
 msgid "Script API"
 msgstr "Script API"
 
-#: ../../../plugins/scriptapi/src/scriptplugin.cpp:117
+#: ../../../plugins/scriptapi/src/scriptplugin.cpp:115
 msgctxt "Plugin|"
 msgid "Added ability to create plugins at JavaScript"
 msgstr "Ermöglicht JavaScript-Plugins"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:41
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:31
-#: ../../../plugins/scriptapi/src/scriptplugin.cpp:114
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Entwickler"

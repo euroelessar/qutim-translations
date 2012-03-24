@@ -7,15 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-02-19 16:52+0000\n"
+"POT-Creation-Date: 2012-03-23 17:51+0000\n"
 "PO-Revision-Date: 2012-03-18 22:11+0000\n"
 "Last-Translator: Mohammed Hamad <no_way132@yahoo.com>\n"
 "Language-Team: Arabic <ar@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-19 05:06+0000\n"
-"X-Generator: Launchpad (build 14969)\n"
+"X-Launchpad-Export-Date: 2012-03-24 05:36+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
+"X-Qt-Contexts: true\n"
+"Language: ar\n"
 
 #: ../../../plugins/antispam/src/antispamplugin.cpp:44
 msgctxt "Antispam|"
@@ -92,24 +94,14 @@ msgctxt "Antispam::SettingsWidget|"
 msgid "vodka;Vodka"
 msgstr "فودكا;فودكا"
 
-#: ../../../plugins/antispam/src/antispamplugin.cpp:50
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr "Aleksey Sidorov"
-
 #: ../../../plugins/antispam/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/antispam/src/antispamplugin.cpp:55
+#: ../../../plugins/antispam/src/antispamplugin.cpp:52
 msgctxt "Plugin|"
 msgid "Antispam"
 msgstr "مكافح البريد المزعج"
 
 #: ../../../plugins/antispam/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/antispam/src/antispamplugin.cpp:56
+#: ../../../plugins/antispam/src/antispamplugin.cpp:53
 msgctxt "Plugin|"
 msgid "Blocks messages from unknown contacts by question-answer pair"
 msgstr "منع الرسائل من جهات الإتصال المجهولة عن طريق أسئلة و إجابات"
-
-#: ../../../plugins/antispam/src/antispamplugin.cpp:51
-msgctxt "Task|"
-msgid "Author"
-msgstr "المؤلف:"

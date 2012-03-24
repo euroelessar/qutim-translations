@@ -2,34 +2,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-19 16:51+0000\n"
+"POT-Creation-Date: 2012-03-23 17:51+0000\n"
 "PO-Revision-Date: 2012-02-20 20:22+0000\n"
 "Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-21 06:31+0000\n"
-"X-Generator: Launchpad (build 14838)\n"
+"X-Launchpad-Export-Date: 2012-03-24 05:37+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
+"Language: ru\n"
 "X-Language: ru\n"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbum/default/PhotoViewerCore/AlbumDelegate.qml:120
 msgctxt "AlbumDelegate|"
 msgid "Remove"
 msgstr "Удалить"
-
-#: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:42
-#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:42
-msgctxt "Author|"
-msgid "Alexey Sidorov"
-msgstr "Сидоров Алексей"
-
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:42
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr "Сидоров Алексей"
 
 #: ../../../protocols/vkontakte/src/vcontact.cpp:197
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:70
@@ -196,42 +185,35 @@ msgctxt "Plugin|"
 msgid "Simple implementation of vkontakte, based on userapi.ru"
 msgstr "Простая реализация Вконтакте, основана на userapi.ru"
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:51
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:49
 msgctxt "Plugin|"
 msgid "vkontakte"
 msgstr "Вконтакте"
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:52
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:50
 msgctxt "Plugin|"
 msgid "Simple implementation of vkontakte, based on desktop.api"
 msgstr "Простая реализация ВКонтакте, основана на desktop.api"
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:56
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:54
 msgctxt "Plugin|"
 msgid "Vkontakte account creator"
 msgstr "Создание учетной записи Вконтакте"
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:57
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:55
 msgctxt "Plugin|"
 msgid "Account creator for Vkontakte"
 msgstr "Мастер создания создание учетной записи Вконтакте"
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:60
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:58
 msgctxt "Plugin|"
 msgid "Proxy support"
 msgstr "Поддержка прокси"
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:61
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:59
 msgctxt "Plugin|"
 msgid "Proxy support for Vkontakte"
 msgstr "Поддержка прокси для протокола ВКонтакте"
-
-#: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:43
-#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:43
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:43
-msgctxt "Task|"
-msgid "Author"
-msgstr "Автор"
 
 #: ../../../protocols/vkontakte/src/ui/vaccountsettings.ui:14
 msgctxt "VAccountSettings|"
@@ -321,13 +303,13 @@ msgctxt "VWallSessionPrivate|"
 msgid "Multimedia message: %1"
 msgstr "Мультимедиа сообщение: %1"
 
-#: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:53
+#: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:49
 msgctxt "Vkontakte|"
 msgid "View photoalbum"
 msgstr "Просмотреть фотоальбом"
 
 # Что бы видеть куда разбегаться
-#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:52
+#: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:48
 msgctxt "Vkontakte|"
 msgid "View wall"
 msgstr "Показать стену"

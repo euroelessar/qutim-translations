@@ -2,24 +2,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-19 16:53+0000\n"
+"POT-Creation-Date: 2012-03-23 17:51+0000\n"
 "PO-Revision-Date: 2011-11-15 16:31+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-20 06:08+0000\n"
-"X-Generator: Launchpad (build 14833)\n"
+"X-Launchpad-Export-Date: 2012-03-24 05:36+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
+"Language: cs\n"
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
-
-#: ../../../protocols/astral/src/astralplugin.cpp:57
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr ""
 
 #: ../../../protocols/astral/__data_from_cmakelists_txt.cpp:1
 #: ../../../protocols/astral/src/astralplugin.cpp:54
@@ -36,8 +31,3 @@ msgstr ""
 msgctxt "Plugin|"
 msgid "Protocol support by Telepathy"
 msgstr "Protokol podporován pomocí Telepathy"
-
-#: ../../../protocols/astral/src/astralplugin.cpp:58
-msgctxt "Task|"
-msgid "Author"
-msgstr "Autor"

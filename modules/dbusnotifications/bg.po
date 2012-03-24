@@ -2,24 +2,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-19 16:53+0000\n"
+"POT-Creation-Date: 2012-03-23 17:51+0000\n"
 "PO-Revision-Date: 2012-02-19 19:01+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-20 06:10+0000\n"
-"X-Generator: Launchpad (build 14833)\n"
+"X-Launchpad-Export-Date: 2012-03-24 05:37+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
+"Language: bg\n"
 "X-Language: bg\n"
 "X-Source-Language: C\n"
-
-#: ../../../plugins/dbusnotifications/src/dplugin.cpp:42
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr "Алексей Сидоров"
 
 #: ../../../plugins/dbusnotifications/src/dbusbackend.cpp:84
 msgctxt "DBusBackend|"
@@ -36,27 +31,22 @@ msgctxt "Plugin|"
 msgid "Notification system, based on Freedesktop"
 msgstr "Система за уведомления, на базата на Freedesktop"
 
-#: ../../../plugins/dbusnotifications/src/dplugin.cpp:38
+#: ../../../plugins/dbusnotifications/src/dplugin.cpp:39
 msgctxt "Plugin|"
 msgid "DBus notifications"
 msgstr "DBus уведомления"
 
-#: ../../../plugins/dbusnotifications/src/dplugin.cpp:39
+#: ../../../plugins/dbusnotifications/src/dplugin.cpp:40
 msgctxt "Plugin|"
 msgid "Notification system based on Freedesktop DBus protocol"
 msgstr "Система за уведомления на базата на Freedesktop DBus протокола"
 
-#: ../../../plugins/dbusnotifications/src/dplugin.cpp:43
-msgctxt "Task|"
-msgid "Author"
-msgstr "Автор"
-
-#: ../../../plugins/dbusnotifications/src/dplugin.cpp:46
+#: ../../../plugins/dbusnotifications/src/dplugin.cpp:44
 msgctxt "plugin|"
 msgid "DBus notifications"
 msgstr "DBus уведомления"
 
-#: ../../../plugins/dbusnotifications/src/dplugin.cpp:47
+#: ../../../plugins/dbusnotifications/src/dplugin.cpp:45
 msgctxt "plugin|"
 msgid "Notification system based on Freedesktop DBus protocol"
 msgstr "Система за уведомления на базата на Freedesktop DBus протокола"

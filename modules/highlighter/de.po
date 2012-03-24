@@ -7,20 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-02-27 18:12+0000\n"
-"PO-Revision-Date: 2012-02-27 20:41+0000\n"
+"POT-Creation-Date: 2012-03-23 17:51+0000\n"
+"PO-Revision-Date: 2012-03-23 22:24+0000\n"
 "Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-28 06:29+0000\n"
-"X-Generator: Launchpad (build 14874)\n"
-
-#: ../../../plugins/highlighter/src/highlighter.cpp:45
-msgctxt "Author|"
-msgid "Nicolay Izoderov"
-msgstr "Nicolay Izoderov"
+"X-Launchpad-Export-Date: 2012-03-24 05:38+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
+"X-Qt-Contexts: true\n"
+"Language: de\n"
 
 #: ../../../plugins/highlighter/src/highlighteritemlist.cpp:44
 #: ../../../plugins/highlighter/src/highlighteritemlist.cpp:105
@@ -64,39 +61,24 @@ msgctxt "HighlighterSettingsForm|"
 msgid "Form"
 msgstr "Form"
 
-#: ../../../plugins/highlighter/src/highlightersettings.ui:24
-msgctxt "HighlighterSettingsForm|"
-msgid "Regexps"
-msgstr "Reguläre Ausdrücke"
-
-#: ../../../plugins/highlighter/src/highlightersettings.ui:30
+#: ../../../plugins/highlighter/src/highlightersettings.ui:20
 msgctxt "HighlighterSettingsForm|"
 msgid "Regexp"
 msgstr "Regulärer Ausdruck"
 
-#: ../../../plugins/highlighter/src/highlightersettings.ui:53
+#: ../../../plugins/highlighter/src/highlightersettings.ui:40
 msgctxt "HighlighterSettingsForm|"
 msgid "Add"
 msgstr "Hinzufügen"
 
-#: ../../../plugins/highlighter/src/highlightersettings.ui:61
+#: ../../../plugins/highlighter/src/highlightersettings.ui:53
 msgctxt "HighlighterSettingsForm|"
-msgid "Settings"
-msgstr "Einstellungen"
-
-#: ../../../plugins/highlighter/src/highlightersettings.ui:67
-msgctxt "HighlighterSettingsForm|"
-msgid "Enable simple default regexp"
-msgstr "Aktiviere regulären Standardausdruck"
-
-#: ../../../plugins/highlighter/src/highlightersettings.ui:83
-msgctxt "HighlighterSettingsForm|"
-msgid "Simple regexp"
-msgstr "Einfacher regulärer Ausdruck"
+msgid "Enable auto highlights wher your nick was mentioned."
+msgstr "Automatisch hervorheben, wenn der eigene Spitzname erwähnt wurde"
 
 #: ../../../plugins/highlighter/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/highlighter/src/highlighter.cpp:41
-#: ../../../plugins/highlighter/src/highlighter.cpp:54
+#: ../../../plugins/highlighter/src/highlighter.cpp:52
 msgctxt "Plugin|"
 msgid "Highlighter"
 msgstr "Highlighter"
@@ -107,8 +89,3 @@ msgctxt "Plugin|"
 msgid ""
 "Plugin that add support of highlighting, when your nick has been mentioned."
 msgstr "Plugin um bestimmte  Textpassagen hervorzuheben"
-
-#: ../../../plugins/highlighter/src/highlighter.cpp:46
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Entwickler"

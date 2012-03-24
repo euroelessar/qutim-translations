@@ -2,17 +2,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-19 16:51+0000\n"
+"POT-Creation-Date: 2012-03-23 17:51+0000\n"
 "PO-Revision-Date: 2011-11-15 16:44+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-20 06:11+0000\n"
-"X-Generator: Launchpad (build 14833)\n"
+"X-Launchpad-Export-Date: 2012-03-24 05:37+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
+"Language: cs\n"
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
 
@@ -56,7 +56,7 @@ msgctxt "AccountWizardMain|"
 msgid "Password:"
 msgstr "Heslo:"
 
-#: ../../../protocols/mrim/src/base/mrimplugin.cpp:48
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:49
 msgctxt "Author|"
 msgid "Peter Rusanov"
 msgstr ""
@@ -152,22 +152,22 @@ msgctxt "Plugin|"
 msgid "Implementation of MRIM protocol"
 msgstr ""
 
-#: ../../../protocols/mrim/src/base/mrimplugin.cpp:42
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:43
 msgctxt "Plugin|"
 msgid "Module-based realization of Mail.Ru IM protocol"
 msgstr ""
 
-#: ../../../protocols/mrim/src/base/mrimplugin.cpp:43
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:44
 msgctxt "Plugin|"
 msgid "MRIM"
 msgstr ""
 
-#: ../../../protocols/mrim/src/base/mrimplugin.cpp:56
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:57
 msgctxt "Plugin|"
 msgid "MRIM account creator"
 msgstr "Vytvořit MRIM účet"
 
-#: ../../../protocols/mrim/src/base/mrimplugin.cpp:57
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:58
 msgctxt "Plugin|"
 msgid "Account creator for module-based realization of Mail.Ru IM protocol"
 msgstr ""
@@ -427,7 +427,7 @@ msgctxt "Status|"
 msgid "?"
 msgstr ""
 
-#: ../../../protocols/mrim/src/base/mrimplugin.cpp:49
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:50
 msgctxt "Task|"
 msgid "Author"
 msgstr "Autor"

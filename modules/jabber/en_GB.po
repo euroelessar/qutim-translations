@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-02-22 16:49+0000\n"
-"PO-Revision-Date: 2012-01-24 17:32+0000\n"
-"Last-Translator: mrx5682 <Unknown>\n"
+"POT-Creation-Date: 2012-03-24 00:01+0000\n"
+"PO-Revision-Date: 2012-03-24 01:36+0000\n"
+"Last-Translator: Ruslan Nigmatullin <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-23 05:19+0000\n"
-"X-Generator: Launchpad (build 14855)\n"
+"X-Launchpad-Export-Date: 2012-03-24 05:37+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
 "Language: en_GB\n"
 
@@ -424,52 +424,42 @@ msgctxt "Activity|"
 msgid "Show contact activity icon"
 msgstr "Show contact activity icon"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:56
-msgctxt "Author|"
-msgid "Denis Daschenko"
-msgstr "Denis Daschenko"
-
-#: ../../../protocols/jabber/src/jplugin.cpp:59
+#: ../../../protocols/jabber/src/jplugin.cpp:57
 msgctxt "Author|"
 msgid "Nikita Belov"
 msgstr "Nikita Belov"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:63
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr "Aleksey Sidorov"
-
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:140
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:152
 msgctxt "Conference|"
 msgid "Real JID"
 msgstr "Real JID"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:157
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:169
 msgctxt "Conference|"
 msgid "Affiliation"
 msgstr "Affiliation"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:173
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:185
 msgctxt "Conference|"
 msgid "Role"
 msgstr "Role"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:175
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:187
 msgctxt "Conference|"
 msgid "Possible client"
 msgstr "Possible client"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:182
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:194
 msgctxt "Conference|"
 msgid "OS"
 msgstr "OS"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:188
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:202
 msgctxt "Conference|"
 msgid "Kick"
 msgstr "Kick"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:194
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:208
 msgctxt "Conference|"
 msgid "Ban"
 msgstr "Ban"
@@ -671,45 +661,65 @@ msgctxt "ContactInfo|"
 msgid "E-mail"
 msgstr "E-mail"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:135
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:141
 msgctxt "ContactResource|"
 msgid "Resource"
 msgstr "Resource"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:142
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:148
 msgctxt "ContactResource|"
 msgid "Possible client"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:149
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:155
 msgctxt "ContactResource|"
 msgid "OS"
 msgstr "OS"
+
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.ui:14
+msgctxt "JAccountRegistrationPage|"
+msgid "WizardPage"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:14
 msgctxt "JAccountWizardPage|"
 msgid "WizardPage"
 msgstr "WizardPage"
 
-#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:31
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:20
+msgctxt "JAccountWizardPage|"
+msgid "I already have account"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:42
 msgctxt "JAccountWizardPage|"
 msgid "Login:"
 msgstr "Login:"
 
-#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:49
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:60
 msgctxt "JAccountWizardPage|"
 msgid "TextLabel"
 msgstr "TextLabel"
 
-#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:68
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:69
 msgctxt "JAccountWizardPage|"
 msgid "Password:"
 msgstr "Password:"
 
-#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:75
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:86
 msgctxt "JAccountWizardPage|"
 msgid "Save password"
 msgstr "Save password"
+
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:96
+msgctxt "JAccountWizardPage|"
+msgid "I want to create new account"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:112
+msgctxt "JAccountWizardPage|"
+msgid "Server:"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/modules/adhoc/jadhocwidget.ui:14
 msgctxt "JAdHocWidget|"
@@ -831,6 +841,34 @@ msgctxt "JMainSettings|"
 msgid "Port:"
 msgstr "Port:"
 
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:234
+msgctxt "JMainSettings|"
+msgid "Use encryption"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:241
+msgctxt "JMainSettings|"
+msgid "Use compression"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:249
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:268
+msgctxt "JMainSettings|"
+msgid "Always"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:254
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:273
+msgctxt "JMainSettings|"
+msgid "Never"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:259
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:278
+msgctxt "JMainSettings|"
+msgid "If server has support"
+msgstr ""
+
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:199
 msgctxt "Jabber|"
 msgid "Name"
@@ -856,12 +894,12 @@ msgctxt "Jabber|"
 msgid "Auto-join"
 msgstr "Auto-join"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:744
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:765
 msgctxt "Jabber|"
 msgid "You are already in conference with another nick"
 msgstr "You are already in conference with another nick"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:760
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:781
 msgctxt "Jabber|"
 msgid "Please select another nickname"
 msgstr "Please select another nickname"
@@ -892,33 +930,33 @@ msgid "Remove"
 msgstr "Remove"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:219
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:217
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:231
 msgctxt "Jabber|"
 msgid "Subscription"
 msgstr "Subscription"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:80
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:94
 msgctxt "Jabber|"
 msgid "Remove subscription"
 msgstr "Remove subscription"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:85
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:99
 msgctxt "Jabber|"
 msgid "Request subscription"
 msgstr "Request subscription"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:99
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:210
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:113
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:224
 msgctxt "Jabber|"
 msgid "Save to bookmarks"
 msgstr "Save to bookmarks"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:100
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:114
 msgctxt "Jabber|"
 msgid "Remove from bookmarks"
 msgstr "Remove from bookmarks"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:204
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:218
 msgctxt "Jabber|"
 msgid "Room's configuration"
 msgstr "Room's configuration"
@@ -928,20 +966,60 @@ msgctxt "Jabber|"
 msgid "Service discovery"
 msgstr "Service discovery"
 
-#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:133
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:134
 msgctxt "Jabber|"
 msgid "Xml console"
 msgstr "Xml console"
 
-#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:237
+#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:241
 msgctxt "Jabber::JAccount|Local qutIM's name"
 msgid "qutIM"
 msgstr "qutIM"
 
-#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:238
+#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:242
 msgctxt "Jabber::JAccount|Default language"
 msgid "en"
 msgstr "en"
+
+#: ../../../protocols/jabber/src/protocol/jaccountfinishpage.ui:13
+msgctxt "Jabber::JAccountFinishPage|"
+msgid "WizardPage"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountfinishpage.cpp:52
+#, qt-format
+msgctxt "Jabber::JAccountFinishPage|"
+msgid ""
+"Congratulations! Account creation is finished, your Jabber ID is \"%1\""
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:235
+msgctxt "Jabber::JAccountRegistrationPage|"
+msgid "Unknown error"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:239
+msgctxt "Jabber::JAccountRegistrationPage|"
+msgid "The desired username is already in use by another user"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:282
+#, qt-format
+msgctxt "Jabber::JAccountRegistrationPage|"
+msgid "Sorry, but server \"%1\" does not support in-band registration"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.cpp:41
+msgctxt "Jabber::JAccountWizardPage|"
+msgid ""
+"Account information.\n"
+"If you don't have account yet, press \"Register\" button."
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.cpp:73
+msgctxt "Jabber::JAccountWizardPage|"
+msgid "Register"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:252
 msgctxt "Jabber::JActivityChooser|"
@@ -983,123 +1061,123 @@ msgctxt "Jabber::JMUCManager|"
 msgid "You already in conference with another nick"
 msgstr "You already in conference with another nick"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:295
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:340
 msgctxt "Jabber::JMUCSession|"
 msgid " has been banned"
 msgstr " has been banned"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:295
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:340
 msgctxt "Jabber::JMUCSession|"
 msgid " has been kicked"
 msgstr " has been kicked"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:300
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:344
 msgctxt "Jabber::JMUCSession|"
 msgid "You has been banned at "
 msgstr "You have been banned at "
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:300
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:344
 msgctxt "Jabber::JMUCSession|"
 msgid "You has been kicked from "
 msgstr "You have been kicked from "
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:302
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:346
 msgctxt "Jabber::JMUCSession|"
 msgid "with reason: "
 msgstr "with reason: "
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:304
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:348
 msgctxt "Jabber::JMUCSession|"
 msgid "Do you want to rejoin?"
 msgstr "Do you want to rejoin?"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:305
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:349
 msgctxt "Jabber::JMUCSession|"
 msgid "You have been kicked"
 msgstr "You have been kicked"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:309
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:354
 msgctxt "Jabber::JMUCSession|"
 msgid "You have been banned"
 msgstr "You have been banned"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:326
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:366
 msgctxt "Jabber::JMUCSession|"
 msgid " is now known as "
 msgstr " is now known as "
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:354
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:388
 msgctxt "Jabber::JMUCSession|"
 msgid " has joined the room"
 msgstr " has joined the room"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:356
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:358
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:360
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:362
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:364
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:390
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:392
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:394
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:396
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:398
 msgctxt "Jabber::JMUCSession|"
 msgid " as"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:356
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:387
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:390
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:418
 msgctxt "Jabber::JMUCSession|"
 msgid " owner"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:358
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:389
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:392
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:420
 msgctxt "Jabber::JMUCSession|"
 msgid " administrator"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:360
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:395
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:394
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:426
 msgctxt "Jabber::JMUCSession|"
 msgid " registered member"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:362
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:391
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:403
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:396
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:422
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:434
 msgctxt "Jabber::JMUCSession|"
 msgid " participant"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:364
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:393
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:399
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:405
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:398
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:424
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:430
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:436
 msgctxt "Jabber::JMUCSession|"
 msgid " visitor"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:372
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:408
 msgctxt "Jabber::JMUCSession|"
 msgid " has left the room"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:385
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:416
 msgctxt "Jabber::JMUCSession|"
 msgid " now is"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:391
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:393
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:397
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:399
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:422
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:424
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:428
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:430
 msgctxt "Jabber::JMUCSession|"
 msgid " and"
 msgstr " and"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:397
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:401
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:428
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:432
 msgctxt "Jabber::JMUCSession|"
 msgid " moderator"
 msgstr " moderator"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:528
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:542
 msgctxt "Jabber::JMUCSession|"
 msgid "Subject:"
 msgstr "Subject:"
@@ -1129,34 +1207,34 @@ msgctxt "Jabber::JMoodChooserWindow|"
 msgid "No mood"
 msgstr "No mood"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:248
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:262
 msgctxt "Jabber::JProtocol|"
 msgid "Kick"
 msgstr "Kick"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:248
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:262
 #, qt-format
 msgctxt "Jabber::JProtocol|"
 msgid "Enter kick reason for %1"
 msgstr "Enter kick reason for %1"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:257
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:271
 msgctxt "Jabber::JProtocol|"
 msgid "Ban"
 msgstr "Ban"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:257
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:271
 #, qt-format
 msgctxt "Jabber::JProtocol|"
 msgid "Enter ban reason for %1"
 msgstr "Enter ban reason for %1"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:499
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:513
 msgctxt "Jabber::JProtocol|"
 msgid "Possible client"
 msgstr "Possible client"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:500
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:514
 msgctxt "Jabber::JProtocol|"
 msgid "Show client icon"
 msgstr "Show client icon"
@@ -1278,24 +1356,94 @@ msgctxt "Jabber::XmlConsole|"
 msgid "Close"
 msgstr "Close"
 
-#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:395
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:400
 msgctxt "Jabber::XmlConsole|"
 msgid "Save XMPP log to file"
 msgstr "Save XMPP log to file"
 
-#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:396
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:401
 msgctxt "Jabber::XmlConsole|"
 msgid "OpenDocument Format (*.odf);;HTML file (*.html);;Plain text (*.txt)"
 msgstr "OpenDocument Format (*.odf);;HTML file (*.html);;Plain text (*.txt)"
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:72
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:133
+msgctxt "Jreen|"
+msgid "Username"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:135
+msgctxt "Jreen|"
+msgid "Familiar name"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:137
+msgctxt "Jreen|"
+msgid "Password"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:139
+msgctxt "Jreen|"
+msgid "Full name"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:141
+msgctxt "Jreen|"
+msgid "Given name"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:143
+msgctxt "Jreen|"
+msgid "Family name"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:145
+msgctxt "Jreen|"
+msgid "Email"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:147
+msgctxt "Jreen|"
+msgid "Street"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:149
+msgctxt "Jreen|"
+msgid "City"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:151
+msgctxt "Jreen|"
+msgid "Region"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:153
+msgctxt "Jreen|"
+msgid "Postal code"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:155
+msgctxt "Jreen|"
+msgid "Phone number"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:157
+msgctxt "Jreen|"
+msgid "Web page url"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:159
+msgctxt "Jreen|"
+msgid "Birth date"
+msgstr ""
+
+#: ../../../protocols/jabber/jreen/src/error.cpp:77
 msgctxt "Jreen::Error|"
 msgid ""
 "The sender has sent XML that is malformed or that cannot be processed."
 msgstr ""
 "The sender has sent XML that is malformed or that cannot be processed."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:75
+#: ../../../protocols/jabber/jreen/src/error.cpp:80
 msgctxt "Jreen::Error|"
 msgid ""
 "Access cannot be granted because an existing resource or session exists with "
@@ -1304,7 +1452,7 @@ msgstr ""
 "Access cannot be granted because an existing resource or session exists with "
 "the same name or address."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:78
+#: ../../../protocols/jabber/jreen/src/error.cpp:83
 msgctxt "Jreen::Error|"
 msgid ""
 "The feature requested is not implemented by the recipient or server and "
@@ -1313,7 +1461,7 @@ msgstr ""
 "The feature requested is not implemented by the recipient or server and "
 "therefore cannot be processed."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:81
+#: ../../../protocols/jabber/jreen/src/error.cpp:86
 msgctxt "Jreen::Error|"
 msgid ""
 "The requesting entity does not possess the required permissions to perform "
@@ -1322,12 +1470,12 @@ msgstr ""
 "The requesting entity does not possess the required permissions to perform "
 "the action."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:84
+#: ../../../protocols/jabber/jreen/src/error.cpp:89
 msgctxt "Jreen::Error|"
 msgid "The recipient or server can no longer be contacted at this address."
 msgstr "The recipient or server can no longer be contacted at this address."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:87
+#: ../../../protocols/jabber/jreen/src/error.cpp:92
 msgctxt "Jreen::Error|"
 msgid ""
 "The server could not process the stanza because of a misconfiguration or an "
@@ -1336,12 +1484,12 @@ msgstr ""
 "The server could not process the stanza because of a misconfiguration or an "
 "otherwise-undefined internal server error."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:90
+#: ../../../protocols/jabber/jreen/src/error.cpp:95
 msgctxt "Jreen::Error|"
 msgid "The addressed JID or item requested cannot be found."
 msgstr "The addressed JID or item requested cannot be found."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:93
+#: ../../../protocols/jabber/jreen/src/error.cpp:98
 msgctxt "Jreen::Error|"
 msgid ""
 "The sending entity has provided or communicated an XMPP address or aspect "
@@ -1350,7 +1498,7 @@ msgstr ""
 "The sending entity has provided or communicated an XMPP address or aspect "
 "thereof that does not adhere to the syntax defined in Addressing Scheme."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:96
+#: ../../../protocols/jabber/jreen/src/error.cpp:101
 msgctxt "Jreen::Error|"
 msgid ""
 "The recipient or server understands the request but is refusing to process "
@@ -1359,14 +1507,14 @@ msgstr ""
 "The recipient or server understands the request but is refusing to process "
 "it because it does not meet criteria defined by the recipient or server."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:99
+#: ../../../protocols/jabber/jreen/src/error.cpp:104
 msgctxt "Jreen::Error|"
 msgid ""
 "The recipient or server does not allow any entity to perform the action."
 msgstr ""
 "The recipient or server does not allow any entity to perform the action."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:102
+#: ../../../protocols/jabber/jreen/src/error.cpp:107
 msgctxt "Jreen::Error|"
 msgid ""
 "The sender must provide proper credentials before being allowed to perform "
@@ -1375,12 +1523,12 @@ msgstr ""
 "The sender must provide proper credentials before being allowed to perform "
 "the action, or has provided impreoper credentials."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:105
+#: ../../../protocols/jabber/jreen/src/error.cpp:110
 msgctxt "Jreen::Error|"
 msgid "The item requested has not changed since it was last requested."
 msgstr "The item requested has not changed since it was last requested."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:108
+#: ../../../protocols/jabber/jreen/src/error.cpp:113
 msgctxt "Jreen::Error|"
 msgid ""
 "The requesting entity is not authorized to access the requested service "
@@ -1389,12 +1537,12 @@ msgstr ""
 "The requesting entity is not authorized to access the requested service "
 "because payment is required."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:111
+#: ../../../protocols/jabber/jreen/src/error.cpp:116
 msgctxt "Jreen::Error|"
 msgid "The intended recipient is temporarily unavailable."
 msgstr "The intended recipient is temporarily unavailable."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:114
+#: ../../../protocols/jabber/jreen/src/error.cpp:119
 msgctxt "Jreen::Error|"
 msgid ""
 "The recipient or server is redirecting requests for this information to "
@@ -1403,7 +1551,7 @@ msgstr ""
 "The recipient or server is redirecting requests for this information to "
 "another entity, usually temporarily."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:117
+#: ../../../protocols/jabber/jreen/src/error.cpp:122
 msgctxt "Jreen::Error|"
 msgid ""
 "The requesting entity is not authorized to access the requested service "
@@ -1412,7 +1560,7 @@ msgstr ""
 "The requesting entity is not authorized to access the requested service "
 "because registration is required."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:120
+#: ../../../protocols/jabber/jreen/src/error.cpp:125
 msgctxt "Jreen::Error|"
 msgid ""
 "A remote server or service specified as part or all of the JID of the "
@@ -1421,7 +1569,7 @@ msgstr ""
 "A remote server or service specified as part or all of the JID of the "
 "intended recipient does not exist."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:123
+#: ../../../protocols/jabber/jreen/src/error.cpp:128
 msgctxt "Jreen::Error|"
 msgid ""
 "A remote server or service specified as part or all of the JID of the "
@@ -1430,7 +1578,7 @@ msgstr ""
 "A remote server or service specified as part or all of the JID of the "
 "intended recipient could not be contacted within a reasonable amount of time."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:126
+#: ../../../protocols/jabber/jreen/src/error.cpp:131
 msgctxt "Jreen::Error|"
 msgid ""
 "The server or recipient lacks the system resources necessary to service the "
@@ -1439,14 +1587,14 @@ msgstr ""
 "The server or recipient lacks the system resources necessary to service the "
 "request."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:129
+#: ../../../protocols/jabber/jreen/src/error.cpp:134
 msgctxt "Jreen::Error|"
 msgid ""
 "The server or recipient does not currently provide the requested service."
 msgstr ""
 "The server or recipient does not currently provide the requested service."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:132
+#: ../../../protocols/jabber/jreen/src/error.cpp:137
 msgctxt "Jreen::Error|"
 msgid ""
 "The requesting entity is not authorized to access the requested service "
@@ -1455,12 +1603,12 @@ msgstr ""
 "The requesting entity is not authorized to access the requested service "
 "because a subscription is required."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:135
+#: ../../../protocols/jabber/jreen/src/error.cpp:140
 msgctxt "Jreen::Error|"
 msgid "The unknown error condition."
 msgstr "The unknown error condition."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:138
+#: ../../../protocols/jabber/jreen/src/error.cpp:143
 msgctxt "Jreen::Error|"
 msgid ""
 "The recipient or server understood the request but was not expecting it at "
@@ -1469,7 +1617,7 @@ msgstr ""
 "The recipient or server understood the request but was not expecting it at "
 "this time."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:141
+#: ../../../protocols/jabber/jreen/src/error.cpp:146
 msgctxt "Jreen::Error|"
 msgid ""
 "The stanza 'from' address specified by a connected client is not valid for "
@@ -1478,7 +1626,7 @@ msgstr ""
 "The stanza 'from' address specified by a connected client is not valid for "
 "the stream."
 
-#: ../../../protocols/jabber/jreen/src/error.cpp:144
+#: ../../../protocols/jabber/jreen/src/error.cpp:149
 msgctxt "Jreen::Error|"
 msgid "No stanza error occured. You're just sleeping."
 msgstr "No stanza error occured. You're just sleeping."
@@ -1920,7 +2068,7 @@ msgstr "Show contact mood icon"
 
 #: ../../../protocols/jabber/__data_from_cmakelists_txt.cpp:1
 #: ../../../protocols/jabber/src/jplugin.cpp:53
-#: ../../../protocols/jabber/src/jplugin.cpp:67
+#: ../../../protocols/jabber/src/jplugin.cpp:63
 msgctxt "Plugin|"
 msgid "Jabber protocol"
 msgstr "Jabber protocol"
@@ -1931,153 +2079,153 @@ msgid "Implementation of jabber protocol based on jreen library"
 msgstr ""
 
 #: ../../../protocols/jabber/src/jplugin.cpp:52
-#: ../../../protocols/jabber/src/jplugin.cpp:66
+#: ../../../protocols/jabber/src/jplugin.cpp:62
 msgctxt "Plugin|"
 msgid "Jabber"
 msgstr "Jabber"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:70
+#: ../../../protocols/jabber/src/jplugin.cpp:66
 msgctxt "Plugin|"
 msgid "Jabber account creator"
 msgstr "Jabber account creator"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:71
+#: ../../../protocols/jabber/src/jplugin.cpp:67
 msgctxt "Plugin|"
 msgid "Account creator for Jabber protocol"
 msgstr "Account creator for Jabber protocol"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:74
+#: ../../../protocols/jabber/src/jplugin.cpp:70
 msgctxt "Plugin|"
 msgid "LiveJournal account creator"
 msgstr "LiveJournal account creator"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:75
+#: ../../../protocols/jabber/src/jplugin.cpp:71
 msgctxt "Plugin|"
 msgid "Account creator for LiveJournal"
 msgstr "Account creator for LiveJournal"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:78
+#: ../../../protocols/jabber/src/jplugin.cpp:74
 msgctxt "Plugin|"
 msgid "Google Talk account creator"
 msgstr "Google Talk account creator"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:79
+#: ../../../protocols/jabber/src/jplugin.cpp:75
 msgctxt "Plugin|"
 msgid "Account creator for Google Talk"
 msgstr "Account creator for Google Talk"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:82
+#: ../../../protocols/jabber/src/jplugin.cpp:78
 msgctxt "Plugin|"
 msgid "Yandex.Online account creator"
 msgstr "Yandex.Online account creator"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:83
+#: ../../../protocols/jabber/src/jplugin.cpp:79
 msgctxt "Plugin|"
 msgid "Account creator for Yandex.Online"
 msgstr "Account creator for Yandex.Online"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:86
+#: ../../../protocols/jabber/src/jplugin.cpp:82
 msgctxt "Plugin|"
 msgid "QIP account creator"
 msgstr "QIP account creator"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:87
+#: ../../../protocols/jabber/src/jplugin.cpp:83
 msgctxt "Plugin|"
 msgid "Account creator for QIP"
 msgstr "Account creator for QIP"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:91
+#: ../../../protocols/jabber/src/jplugin.cpp:87
 msgctxt "Plugin|"
 msgid "Jabber XML console"
 msgstr "Jabber XML console"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:92
+#: ../../../protocols/jabber/src/jplugin.cpp:88
 msgctxt "Plugin|"
 msgid "XML console for low-level protocol debugging"
 msgstr "XML console for low-level protocol debugging"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:104
+#: ../../../protocols/jabber/src/jplugin.cpp:100
 msgctxt "Plugin|"
 msgid "Jabber Service Browser"
 msgstr "Jabber Service Browser"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:105
+#: ../../../protocols/jabber/src/jplugin.cpp:101
 msgctxt "Plugin|"
 msgid "Implementation of service browser"
 msgstr "Implementation of service browser"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:112
+#: ../../../protocols/jabber/src/jplugin.cpp:108
 msgctxt "Plugin|"
 msgid "Jabber Personal Events support"
 msgstr "Jabber Personal Events support"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:113
+#: ../../../protocols/jabber/src/jplugin.cpp:109
 msgctxt "Plugin|"
 msgid "Implementation of personal events protocol"
 msgstr "Implementation of personal events protocol"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:116
+#: ../../../protocols/jabber/src/jplugin.cpp:112
 msgctxt "Plugin|"
 msgid "Jabber VCard support"
 msgstr "Jabber VCard support"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:117
+#: ../../../protocols/jabber/src/jplugin.cpp:113
 msgctxt "Plugin|"
 msgid "Implementation of VCard info requests"
 msgstr "Implementation of VCard info requests"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:120
+#: ../../../protocols/jabber/src/jplugin.cpp:116
 msgctxt "Plugin|"
 msgid "Jabber User Mood support"
 msgstr "Jabber User Mood support"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:121
+#: ../../../protocols/jabber/src/jplugin.cpp:117
 msgctxt "Plugin|"
 msgid "Convertes internal XMPP data of mood to Qt data types"
 msgstr "Convertes internal XMPP data of mood to Qt data types"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:124
+#: ../../../protocols/jabber/src/jplugin.cpp:120
 msgctxt "Plugin|"
 msgid "Jabber Mood Chooser"
 msgstr "Jabber Mood Chooser"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:125
+#: ../../../protocols/jabber/src/jplugin.cpp:121
 msgctxt "Plugin|"
 msgid "Provides the dialog to set your mood"
 msgstr "Provides the dialog to set your mood"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:128
+#: ../../../protocols/jabber/src/jplugin.cpp:124
 msgctxt "Plugin|"
 msgid "Jabber User Tune support"
 msgstr "Jabber User Tune support"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:129
+#: ../../../protocols/jabber/src/jplugin.cpp:125
 msgctxt "Plugin|"
 msgid "Convertes internal XMPP data of tune to Qt data types"
 msgstr "Converts internal XMPP data of tune to Qt data types"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:132
+#: ../../../protocols/jabber/src/jplugin.cpp:128
 msgctxt "Plugin|"
 msgid "Jabber User Activity support"
 msgstr ""
 
-#: ../../../protocols/jabber/src/jplugin.cpp:133
+#: ../../../protocols/jabber/src/jplugin.cpp:129
 msgctxt "Plugin|"
 msgid "Convertes internal XMPP data of activity to Qt data types"
 msgstr ""
 
-#: ../../../protocols/jabber/src/jplugin.cpp:136
+#: ../../../protocols/jabber/src/jplugin.cpp:132
 msgctxt "Plugin|"
 msgid "Jabber Activity Chooser"
 msgstr ""
 
-#: ../../../protocols/jabber/src/jplugin.cpp:137
+#: ../../../protocols/jabber/src/jplugin.cpp:133
 msgctxt "Plugin|"
 msgid "Provides the dialog to set your activity"
 msgstr ""
 
-#: ../../../protocols/jabber/src/jplugin.cpp:140
-#: ../../../protocols/jabber/src/jplugin.cpp:141
+#: ../../../protocols/jabber/src/jplugin.cpp:136
+#: ../../../protocols/jabber/src/jplugin.cpp:137
 msgctxt "Plugin|"
 msgid "Jabber proxy support"
 msgstr ""
@@ -2179,26 +2327,20 @@ msgctxt "ServiceBrowser|"
 msgid "Add service to roster"
 msgstr "Add service to roster"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:178
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:192
 msgctxt "Settings|"
 msgid "Main settings"
 msgstr "Main settings"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:185
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:199
 msgctxt "Settings|"
 msgid "Room configuration"
 msgstr "Room configuration"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:57
-#: ../../../protocols/jabber/src/jplugin.cpp:60
+#: ../../../protocols/jabber/src/jplugin.cpp:58
 msgctxt "Task|"
 msgid "Author"
 msgstr "Author"
-
-#: ../../../protocols/jabber/src/jplugin.cpp:64
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Developer"
 
 #: ../../../protocols/jabber/src/protocol/modules/tunepep/jpersontuneconverter.cpp:101
 msgctxt "Tune|"
@@ -2234,3 +2376,15 @@ msgstr "Filter"
 msgctxt "XmlConsole|"
 msgid "Save log"
 msgstr "Save log"
+
+#~ msgctxt "Author|"
+#~ msgid "Denis Daschenko"
+#~ msgstr "Denis Daschenko"
+
+#~ msgctxt "Author|"
+#~ msgid "Aleksey Sidorov"
+#~ msgstr "Aleksey Sidorov"
+
+#~ msgctxt "Task|"
+#~ msgid "Developer"
+#~ msgstr "Developer"

@@ -2,37 +2,27 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-19 16:53+0000\n"
+"POT-Creation-Date: 2012-03-23 17:51+0000\n"
 "PO-Revision-Date: 2011-11-15 16:36+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-20 06:10+0000\n"
-"X-Generator: Launchpad (build 14833)\n"
+"X-Launchpad-Export-Date: 2012-03-24 05:37+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
+"Language: bg\n"
 "X-Language: bg\n"
 
-#: ../../../plugins/floaties/src/floaties.cpp:38
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Руслан Нигматуллин"
-
 #: ../../../plugins/floaties/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/floaties/src/floaties.cpp:41
+#: ../../../plugins/floaties/src/floaties.cpp:39
 msgctxt "Plugin|"
 msgid "Floaties"
 msgstr "Плаващи контакти"
 
 #: ../../../plugins/floaties/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/floaties/src/floaties.cpp:42
+#: ../../../plugins/floaties/src/floaties.cpp:40
 msgctxt "Plugin|"
 msgid "Implementation of floaty contacts"
 msgstr "Реализация на плаващи контакти"
-
-#: ../../../plugins/floaties/src/floaties.cpp:39
-msgctxt "Task|"
-msgid "Author"
-msgstr "Автор"

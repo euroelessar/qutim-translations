@@ -2,28 +2,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-19 16:52+0000\n"
+"POT-Creation-Date: 2012-03-23 17:51+0000\n"
 "PO-Revision-Date: 2012-02-13 03:50+0000\n"
 "Last-Translator: Vyacheslav Sharmanov <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-20 06:11+0000\n"
-"X-Generator: Launchpad (build 14833)\n"
+"X-Launchpad-Export-Date: 2012-03-24 05:37+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
+"Language: ru\n"
 "X-Language: ru\n"
-
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:96
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Нигматуллин Руслан"
-
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:99
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr "Сидоров Алексей"
 
 #: ../../../plugins/kdeintegration/src/aboutapp/kdeaboutappdialog.cpp:45
 msgctxt "Core|"
@@ -46,88 +36,88 @@ msgid "Autodetect of language"
 msgstr "Автоматически определить язык"
 
 #: ../../../plugins/kdeintegration/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:103
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:99
 msgctxt "Plugin|"
 msgid "KDE integration"
 msgstr "Интеграция с KDE"
 
 #: ../../../plugins/kdeintegration/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:104
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:100
 msgctxt "Plugin|"
 msgid "Integration with K Desktop Environment"
 msgstr "Модуль интеграции с графической средой KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:106
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:102
 msgctxt "Plugin|"
 msgid "KDE Integration"
 msgstr "Интеграция со средой KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:107
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:103
 msgctxt "Plugin|"
 msgid "Full-featured integration with KDE"
 msgstr "Полная интеграция в рабочий стол KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:109
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:105
 msgctxt "Plugin|"
 msgid "KDE Emoticons"
 msgstr "Смайлы KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:110
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:106
 msgctxt "Plugin|"
 msgid "Using KDE emoticons packs"
 msgstr "Модуль для использования смайлов KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:112
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:108
 msgctxt "Plugin|"
 msgid "KDE Crash handler"
 msgstr "Перехватчик падений и крэшей"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:113
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:109
 msgctxt "Plugin|"
 msgid "Handles qutIM's craches by KCrash"
 msgstr "Перехват падения qutim программой KCrash"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:115
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:111
 msgctxt "Plugin|"
 msgid "KDE Spell checker"
 msgstr "Проверка орфографии KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:118
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:114
 msgctxt "Plugin|"
 msgid "KDE Icon engine"
 msgstr "Движок пиктограмм KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:119
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:115
 msgctxt "Plugin|"
 msgid "Uses KDE Icon engine for providing icons"
 msgstr "Использует движок KDE для пиктограмм"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:125
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:121
 msgctxt "Plugin|"
 msgid "KDE Status Notifier"
 msgstr "Уведомления KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:126
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:122
 msgctxt "Plugin|"
 msgid "Using new KDE DBus tray specification"
 msgstr "Использует новую спецификацию KDE DBus"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:128
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:124
 msgctxt "Plugin|"
 msgid "About KDE dialog"
 msgstr "О KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:129
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:125
 msgctxt "Plugin|"
 msgid "Show \"About KDE\" menu option"
 msgstr "Показывает \"о KDE\" опцию в меню"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:131
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:127
 msgctxt "Plugin|"
 msgid "KDE About application dialog"
 msgstr "Окно о KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:132
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:128
 msgctxt "Plugin|"
 msgid "Use kde-specific application about dialog"
 msgstr "Использует KDE-специфичное окно о программе"
@@ -137,13 +127,3 @@ msgstr "Использует KDE-специфичное окно о програ
 msgctxt "Settings|"
 msgid "Spell checker"
 msgstr "Проверка орфографии"
-
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:97
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Разработчик"
-
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:100
-msgctxt "Task|"
-msgid "Author"
-msgstr "Автор"

@@ -7,22 +7,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-02-19 18:12+0000\n"
-"PO-Revision-Date: 2012-01-20 17:42+0000\n"
-"Last-Translator: mrx5682 <Unknown>\n"
+"POT-Creation-Date: 2012-03-24 00:01+0000\n"
+"PO-Revision-Date: 2012-03-24 01:34+0000\n"
+"Last-Translator: Ruslan Nigmatullin <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2012-02-20 06:11+0000\n"
-"X-Generator: Launchpad (build 14833)\n"
-"Language: \n"
-
-#: ../../../plugins/histman/src/historymanagerplugin.cpp:36
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Ruslan Nigmatullin"
+"X-Launchpad-Export-Date: 2012-03-24 05:37+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
+"X-Qt-Contexts: true\n"
+"Language: en_GB\n"
 
 #: ../../../plugins/histman/src/chooseclientpage.ui:14
 msgctxt "ChooseClientPage|"
@@ -70,7 +66,7 @@ msgctxt "ClientConfigPage|"
 msgid "Select your Jabber account."
 msgstr "Select your Jabber account."
 
-#: ../../../plugins/histman/src/clients/qipinfium.cpp:190
+#: ../../../plugins/histman/src/clients/qipinfium.cpp:191
 msgctxt "ClientConfigPage|"
 msgid "Select accounts for each protocol in the list."
 msgstr "Select accounts for each protocol in the list."
@@ -229,25 +225,28 @@ msgid "WizardPage"
 msgstr "WizardPage"
 
 #: ../../../plugins/histman/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/histman/src/historymanagerplugin.cpp:39
+#: ../../../plugins/histman/src/historymanagerplugin.cpp:37
 msgctxt "Plugin|"
 msgid "HistMan"
 msgstr "HistMan"
 
 #: ../../../plugins/histman/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/histman/src/historymanagerplugin.cpp:40
+#: ../../../plugins/histman/src/historymanagerplugin.cpp:38
 msgctxt "Plugin|"
 msgid ""
 "Plugin makes possible to import history to qutIM from different messengers"
 msgstr ""
 "Plugin makes possible to import history to qutIM from different messengers"
 
-#: ../../../plugins/histman/src/historymanagerplugin.cpp:50
+#: ../../../plugins/histman/src/historymanagerplugin.cpp:48
 msgctxt "Plugin|"
 msgid "Import history"
 msgstr "Import history"
 
-#: ../../../plugins/histman/src/historymanagerplugin.cpp:37
-msgctxt "Task|"
-msgid "Author"
-msgstr "Author"
+#~ msgctxt "Author|"
+#~ msgid "Ruslan Nigmatullin"
+#~ msgstr "Ruslan Nigmatullin"
+
+#~ msgctxt "Task|"
+#~ msgid "Author"
+#~ msgstr "Author"

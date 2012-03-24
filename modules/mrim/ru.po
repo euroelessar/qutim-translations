@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-19 16:51+0000\n"
+"POT-Creation-Date: 2012-03-23 17:51+0000\n"
 "PO-Revision-Date: 2012-02-21 16:50+0000\n"
 "Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-22 06:53+0000\n"
-"X-Generator: Launchpad (build 14838)\n"
+"X-Launchpad-Export-Date: 2012-03-24 05:37+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
 "Language: ru\n"
 "X-Language: ru\n"
@@ -55,7 +55,7 @@ msgctxt "AccountWizardMain|"
 msgid "Password:"
 msgstr "Пароль:"
 
-#: ../../../protocols/mrim/src/base/mrimplugin.cpp:48
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:49
 msgctxt "Author|"
 msgid "Peter Rusanov"
 msgstr "Русанов Пётр"
@@ -156,22 +156,22 @@ msgctxt "Plugin|"
 msgid "Implementation of MRIM protocol"
 msgstr "Реализация протокола Mail.ru Agent"
 
-#: ../../../protocols/mrim/src/base/mrimplugin.cpp:42
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:43
 msgctxt "Plugin|"
 msgid "Module-based realization of Mail.Ru IM protocol"
 msgstr "Модуль реализации Mail.ru IM протокола (MRIM)"
 
-#: ../../../protocols/mrim/src/base/mrimplugin.cpp:43
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:44
 msgctxt "Plugin|"
 msgid "MRIM"
 msgstr "Mail.ru IM"
 
-#: ../../../protocols/mrim/src/base/mrimplugin.cpp:56
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:57
 msgctxt "Plugin|"
 msgid "MRIM account creator"
 msgstr "Мастер создания учетной записи MRIM"
 
-#: ../../../protocols/mrim/src/base/mrimplugin.cpp:57
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:58
 msgctxt "Plugin|"
 msgid "Account creator for module-based realization of Mail.Ru IM protocol"
 msgstr "Создание учетной записи, модуля реализации Mail.ru агента"
@@ -431,7 +431,7 @@ msgctxt "Status|"
 msgid "?"
 msgstr "?"
 
-#: ../../../protocols/mrim/src/base/mrimplugin.cpp:49
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:50
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"

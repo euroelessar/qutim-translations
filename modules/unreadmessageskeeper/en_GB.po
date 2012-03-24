@@ -7,21 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-02-19 16:53+0000\n"
+"POT-Creation-Date: 2012-03-23 17:52+0000\n"
 "PO-Revision-Date: 2012-01-20 14:18+0000\n"
 "Last-Translator: mrx5682 <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-20 06:12+0000\n"
-"X-Generator: Launchpad (build 14833)\n"
-"Language: \n"
-
-#: ../../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp:42
-msgctxt "Author|"
-msgid "Aleksey Sidorov"
-msgstr "Aleksey Sidorov"
+"X-Launchpad-Export-Date: 2012-03-24 05:37+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
+"X-Qt-Contexts: true\n"
+"Language: en_GB\n"
 
 #: ../../../plugins/unreadmessageskeeper/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp:38
@@ -34,8 +30,3 @@ msgstr "UnreadMessageKeeper"
 msgctxt "Plugin|"
 msgid "Allows you to save a list of unread messages when qutIM exit"
 msgstr "Allows you to save a list of unread messages when qutIM exit"
-
-#: ../../../plugins/unreadmessageskeeper/src/unreadmessageskeeper.cpp:43
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Developer"

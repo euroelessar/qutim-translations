@@ -2,47 +2,37 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-19 18:12+0000\n"
+"POT-Creation-Date: 2012-03-23 17:51+0000\n"
 "PO-Revision-Date: 2012-02-19 17:05+0000\n"
 "Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-20 06:07+0000\n"
-"X-Generator: Launchpad (build 14833)\n"
+"X-Launchpad-Export-Date: 2012-03-24 05:36+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
-"Language: \n"
+"Language: ru\n"
 "X-Language: ru\n"
 
-#: ../../../plugins/antiboss/src/antibossplugin.cpp:48
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:46
 msgctxt "AntiBoss|"
 msgid "Show/hide all windows"
 msgstr "Показать/скрыть все окна"
 
-#: ../../../plugins/antiboss/src/antibossplugin.cpp:49
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:47
 msgctxt "AntiBoss|"
 msgid "Antiboss"
 msgstr "АнтиБосс"
 
-#: ../../../plugins/antiboss/src/antibossplugin.cpp:39
-msgctxt "Author|"
-msgid "Ruslan Nigmatullin"
-msgstr "Нигматуллин Руслан"
-
 #: ../../../plugins/antiboss/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/antiboss/src/antibossplugin.cpp:42
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:40
 msgctxt "Plugin|"
 msgid "Anti-boss plugin"
 msgstr "Плагин АнтиБосс"
 
 #: ../../../plugins/antiboss/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/antiboss/src/antibossplugin.cpp:43
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:41
 msgctxt "Plugin|"
 msgid "Plugin makes your chatting invisible for boss"
 msgstr "Плагин делающий невидимым qutIM для вашего босса"
-
-#: ../../../plugins/antiboss/src/antibossplugin.cpp:40
-msgctxt "Task|"
-msgid "Developer"
-msgstr "Разработчик"
