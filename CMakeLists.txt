@@ -62,7 +62,7 @@ foreach( moduleFile ${MODULES} )
 		TARGET    translations
 		DEPENDS   ${poFile}
                 COMMAND   "${QT_LCONVERT_EXECUTABLE}" "${poFile}" -o "${tsFile}"
-                COMMAND   "${SED_STAGE}" "${tsFile}"
+                COMMAND   ${SED_STAGE} "${tsFile}"
                 COMMAND   "${QT_LRELEASE_EXECUTABLE}" -silent "${tsFile}" -qm "${qmFile}"
 	)
 endforeach()
