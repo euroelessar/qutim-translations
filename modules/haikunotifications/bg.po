@@ -1,0 +1,49 @@
+# Bulgarian translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-03-24 00:01+0000\n"
+"PO-Revision-Date: 2012-03-24 12:13+0000\n"
+"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"Language-Team: Bulgarian <bg@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-03-25 06:10+0000\n"
+"X-Generator: Launchpad (build 14981)\n"
+
+#: ../../../plugins/haikunotifications/src/haikunotificationsbackend.cpp:45
+msgctxt "HaikuNotificationsBackend|"
+msgid "Show popup"
+msgstr "Да се показва изскачащ прозорец"
+
+#: ../../../plugins/haikunotifications/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/haikunotifications/src/haikunotificationsplugin.cpp:34
+msgctxt "Plugin|"
+msgid "Haiku notifications"
+msgstr "Уведомления в Haiku"
+
+#: ../../../plugins/haikunotifications/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Notification system integrated into Haiku"
+msgstr "Интегрирана в Haiku, система за уведомяване"
+
+#: ../../../plugins/haikunotifications/src/haikunotificationsplugin.cpp:35
+msgctxt "Plugin|"
+msgid "Notification system integrated into Haiku using native BeAPI"
+msgstr "Интегрирана в Haiku, система за уведомяване, която ползва BeAPI"
+
+#: ../../../plugins/haikunotifications/src/haikunotificationsplugin.cpp:38
+msgctxt "plugin|"
+msgid "Haiku notifications"
+msgstr "Уведомления в Haiku"
+
+#: ../../../plugins/haikunotifications/src/haikunotificationsplugin.cpp:39
+msgctxt "plugin|"
+msgid "Notification system integrated into Haiku using native BeAPI"
+msgstr "Интегрирана в Haiku, система за уведомяване, която ползва BeAPI"

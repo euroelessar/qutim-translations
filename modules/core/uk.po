@@ -15,7 +15,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-24 05:37+0000\n"
+"X-Launchpad-Export-Date: 2012-03-25 06:10+0000\n"
 "X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
 
@@ -3976,19 +3976,3 @@ msgstr "Зберегти"
 msgctxt "userInformationClass|"
 msgid "Close"
 msgstr "Зачинити"
-
-#~ msgctxt "Author|"
-#~ msgid "Aleksey Sidorov"
-#~ msgstr "Олексій Сидоров"
-
-#~ msgctxt "Task|"
-#~ msgid "Developer"
-#~ msgstr "Розробник"
-
-#~ msgctxt "Author|"
-#~ msgid "Rederick Asher"
-#~ msgstr "Редерік Ашер"
-
-#~ msgctxt "Task|"
-#~ msgid "Artist"
-#~ msgstr "Виконавець"
