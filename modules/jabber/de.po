@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-03-24 00:01+0000\n"
-"PO-Revision-Date: 2012-03-24 09:00+0000\n"
+"PO-Revision-Date: 2012-03-25 21:37+0000\n"
 "Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-25 06:10+0000\n"
-"X-Generator: Launchpad (build 14981)\n"
+"X-Launchpad-Export-Date: 2012-03-26 05:33+0000\n"
+"X-Generator: Launchpad (build 15008)\n"
 "X-Qt-Contexts: true\n"
 "Language: de\n"
 "X-Language: de\n"
@@ -1335,17 +1335,17 @@ msgstr "Sichtbare Stanzas"
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:88
 msgctxt "Jabber::XmlConsole|"
 msgid "Information query"
-msgstr "Information query"
+msgstr "Informationsabfrage (\"query\")"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:92
 msgctxt "Jabber::XmlConsole|"
 msgid "Message"
-msgstr "Mitteilung"
+msgstr "Nachrichten (\"message\")"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:96
 msgctxt "Jabber::XmlConsole|"
 msgid "Presence"
-msgstr "Anwesenheit"
+msgstr "Status (\"presence\")"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:100
 msgctxt "Jabber::XmlConsole|"
