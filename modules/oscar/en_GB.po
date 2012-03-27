@@ -191,176 +191,176 @@ msgctxt "Codec|"
 msgid "System"
 msgstr "System"
 
-#: ../../../protocols/oscar/src/connection.cpp:307
+#: ../../../protocols/oscar/src/connection.cpp:308
 msgctxt "ConnectionError|"
 msgid "Invalid nick or password"
 msgstr "Invalid nick or password"
 
-#: ../../../protocols/oscar/src/connection.cpp:309
+#: ../../../protocols/oscar/src/connection.cpp:310
 msgctxt "ConnectionError|"
 msgid "Service temporarily unavailable"
 msgstr "Service temporarily unavailable"
 
-#: ../../../protocols/oscar/src/connection.cpp:311
+#: ../../../protocols/oscar/src/connection.cpp:312
 msgctxt "ConnectionError|"
 msgid "Incorrect nick or password"
 msgstr "Incorrect nick or password"
 
-#: ../../../protocols/oscar/src/connection.cpp:313
+#: ../../../protocols/oscar/src/connection.cpp:314
 msgctxt "ConnectionError|"
 msgid "Mismatch nick or password"
 msgstr "Mismatch nick or password"
 
-#: ../../../protocols/oscar/src/connection.cpp:315
+#: ../../../protocols/oscar/src/connection.cpp:316
 msgctxt "ConnectionError|"
 msgid "Internal client error (bad input to authorizer)"
 msgstr "Internal client error (bad input to authorizer)"
 
-#: ../../../protocols/oscar/src/connection.cpp:317
+#: ../../../protocols/oscar/src/connection.cpp:318
 msgctxt "ConnectionError|"
 msgid "Invalid account"
 msgstr "Invalid account"
 
-#: ../../../protocols/oscar/src/connection.cpp:319
+#: ../../../protocols/oscar/src/connection.cpp:320
 msgctxt "ConnectionError|"
 msgid "Deleted account"
 msgstr "Deleted account"
 
-#: ../../../protocols/oscar/src/connection.cpp:321
+#: ../../../protocols/oscar/src/connection.cpp:322
 msgctxt "ConnectionError|"
 msgid "Expired account"
 msgstr "Expired account"
 
-#: ../../../protocols/oscar/src/connection.cpp:323
+#: ../../../protocols/oscar/src/connection.cpp:324
 msgctxt "ConnectionError|"
 msgid "No access to database"
 msgstr "No access to database"
 
-#: ../../../protocols/oscar/src/connection.cpp:325
+#: ../../../protocols/oscar/src/connection.cpp:326
 msgctxt "ConnectionError|"
 msgid "No access to resolver"
 msgstr "No access to resolver"
 
-#: ../../../protocols/oscar/src/connection.cpp:327
+#: ../../../protocols/oscar/src/connection.cpp:328
 msgctxt "ConnectionError|"
 msgid "Invalid database fields"
 msgstr "Invalid database fields"
 
-#: ../../../protocols/oscar/src/connection.cpp:329
+#: ../../../protocols/oscar/src/connection.cpp:330
 msgctxt "ConnectionError|"
 msgid "Bad database status"
 msgstr "Bad database status"
 
-#: ../../../protocols/oscar/src/connection.cpp:331
+#: ../../../protocols/oscar/src/connection.cpp:332
 msgctxt "ConnectionError|"
 msgid "Bad resolver status"
 msgstr "Bad resolver status"
 
-#: ../../../protocols/oscar/src/connection.cpp:333
+#: ../../../protocols/oscar/src/connection.cpp:334
 msgctxt "ConnectionError|"
 msgid "Internal error"
 msgstr "Internal error"
 
-#: ../../../protocols/oscar/src/connection.cpp:335
+#: ../../../protocols/oscar/src/connection.cpp:336
 msgctxt "ConnectionError|"
 msgid "Service temporarily offline"
 msgstr "Service temporarily offline"
 
-#: ../../../protocols/oscar/src/connection.cpp:337
+#: ../../../protocols/oscar/src/connection.cpp:338
 msgctxt "ConnectionError|"
 msgid "Suspended account"
 msgstr "Suspended account"
 
-#: ../../../protocols/oscar/src/connection.cpp:339
+#: ../../../protocols/oscar/src/connection.cpp:340
 msgctxt "ConnectionError|"
 msgid "DB send error"
 msgstr "DB send error"
 
-#: ../../../protocols/oscar/src/connection.cpp:341
+#: ../../../protocols/oscar/src/connection.cpp:342
 msgctxt "ConnectionError|"
 msgid "DB link error"
 msgstr "DB link error"
 
-#: ../../../protocols/oscar/src/connection.cpp:343
+#: ../../../protocols/oscar/src/connection.cpp:344
 msgctxt "ConnectionError|"
 msgid "Reservation map error"
 msgstr "Reservation map error"
 
-#: ../../../protocols/oscar/src/connection.cpp:345
+#: ../../../protocols/oscar/src/connection.cpp:346
 msgctxt "ConnectionError|"
 msgid "Reservation link error"
 msgstr "Reservation link error"
 
-#: ../../../protocols/oscar/src/connection.cpp:347
+#: ../../../protocols/oscar/src/connection.cpp:348
 msgctxt "ConnectionError|"
 msgid "The users num connected from this IP has reached the maximum"
 msgstr "The users num connected from this IP has reached the maximum"
 
-#: ../../../protocols/oscar/src/connection.cpp:349
+#: ../../../protocols/oscar/src/connection.cpp:350
 msgctxt "ConnectionError|"
 msgid ""
 "The users num connected from this IP has reached the maximum (reservation)"
 msgstr ""
 "The users num connected from this IP has reached the maximum (reservation)"
 
-#: ../../../protocols/oscar/src/connection.cpp:351
+#: ../../../protocols/oscar/src/connection.cpp:352
 msgctxt "ConnectionError|"
 msgid ""
 "Rate limit exceeded (reservation). Please try to reconnect in a few minutes"
 msgstr ""
 "Rate limit exceeded (reservation). Please try to reconnect in a few minutes"
 
-#: ../../../protocols/oscar/src/connection.cpp:353
+#: ../../../protocols/oscar/src/connection.cpp:354
 msgctxt "ConnectionError|"
 msgid "User too heavily warned"
 msgstr "User too heavily warned"
 
-#: ../../../protocols/oscar/src/connection.cpp:355
+#: ../../../protocols/oscar/src/connection.cpp:356
 msgctxt "ConnectionError|"
 msgid "Reservation timeout"
 msgstr "Reservation timeout"
 
-#: ../../../protocols/oscar/src/connection.cpp:357
+#: ../../../protocols/oscar/src/connection.cpp:358
 msgctxt "ConnectionError|"
 msgid "You are using an older version of ICQ. Upgrade required"
 msgstr "You are using an older version of ICQ. Upgrade required"
 
-#: ../../../protocols/oscar/src/connection.cpp:359
+#: ../../../protocols/oscar/src/connection.cpp:360
 msgctxt "ConnectionError|"
 msgid "You are using an older version of ICQ. Upgrade recommended"
 msgstr "You are using an older version of ICQ. Upgrade recommended"
 
-#: ../../../protocols/oscar/src/connection.cpp:361
+#: ../../../protocols/oscar/src/connection.cpp:362
 msgctxt "ConnectionError|"
 msgid "Rate limit exceeded. Please try to reconnect in a few minutes"
 msgstr "Rate limit exceeded. Please try to reconnect in a few minutes"
 
-#: ../../../protocols/oscar/src/connection.cpp:363
+#: ../../../protocols/oscar/src/connection.cpp:364
 msgctxt "ConnectionError|"
 msgid "Can't register on the ICQ network. Reconnect in a few minutes"
 msgstr "Can't register on the ICQ network. Reconnect in a few minutes"
 
-#: ../../../protocols/oscar/src/connection.cpp:365
+#: ../../../protocols/oscar/src/connection.cpp:366
 msgctxt "ConnectionError|"
 msgid "Invalid SecurID"
 msgstr "Invalid SecurID"
 
-#: ../../../protocols/oscar/src/connection.cpp:367
+#: ../../../protocols/oscar/src/connection.cpp:368
 msgctxt "ConnectionError|"
 msgid "Account suspended because of your age (age < 13)"
 msgstr "Account suspended because of your age (age < 13)"
 
-#: ../../../protocols/oscar/src/connection.cpp:369
+#: ../../../protocols/oscar/src/connection.cpp:370
 msgctxt "ConnectionError|"
 msgid "Another client is loggin with this uin"
 msgstr ""
 
-#: ../../../protocols/oscar/src/connection.cpp:371
+#: ../../../protocols/oscar/src/connection.cpp:372
 msgctxt "ConnectionError|"
 msgid "No IP addresses were found for the host"
 msgstr "No IP addresses were found for the host"
 
-#: ../../../protocols/oscar/src/connection.cpp:375
+#: ../../../protocols/oscar/src/connection.cpp:376
 msgctxt "ConnectionError|"
 msgid "Unknown error"
 msgstr "Unknown error"
@@ -3256,127 +3256,127 @@ msgctxt "Privacy|"
 msgid "Unknown privacy"
 msgstr "Unknown privacy"
 
-#: ../../../protocols/oscar/src/connection.cpp:52
+#: ../../../protocols/oscar/src/connection.cpp:53
 msgctxt "ProtocolError|"
 msgid "Invalid SNAC header"
 msgstr "Invalid SNAC header"
 
-#: ../../../protocols/oscar/src/connection.cpp:54
+#: ../../../protocols/oscar/src/connection.cpp:55
 msgctxt "ProtocolError|"
 msgid "Server rate limit exceeded"
 msgstr "Server rate limit exceeded"
 
-#: ../../../protocols/oscar/src/connection.cpp:56
+#: ../../../protocols/oscar/src/connection.cpp:57
 msgctxt "ProtocolError|"
 msgid "Client rate limit exceeded"
 msgstr "Client rate limit exceeded"
 
-#: ../../../protocols/oscar/src/connection.cpp:58
+#: ../../../protocols/oscar/src/connection.cpp:59
 msgctxt "ProtocolError|"
 msgid "Recipient is not logged in"
 msgstr "Recipient is not logged in"
 
-#: ../../../protocols/oscar/src/connection.cpp:60
+#: ../../../protocols/oscar/src/connection.cpp:61
 msgctxt "ProtocolError|"
 msgid "Requested service unavailable"
 msgstr "Requested service unavailable"
 
-#: ../../../protocols/oscar/src/connection.cpp:62
+#: ../../../protocols/oscar/src/connection.cpp:63
 msgctxt "ProtocolError|"
 msgid "Requested service not defined"
 msgstr "Requested service not defined"
 
-#: ../../../protocols/oscar/src/connection.cpp:64
+#: ../../../protocols/oscar/src/connection.cpp:65
 msgctxt "ProtocolError|"
 msgid "You sent obsolete SNAC"
 msgstr "You sent obsolete SNAC"
 
-#: ../../../protocols/oscar/src/connection.cpp:66
+#: ../../../protocols/oscar/src/connection.cpp:67
 msgctxt "ProtocolError|"
 msgid "Not supported by server"
 msgstr "Not supported by server"
 
-#: ../../../protocols/oscar/src/connection.cpp:68
+#: ../../../protocols/oscar/src/connection.cpp:69
 msgctxt "ProtocolError|"
 msgid "Not supported by client"
 msgstr "Not supported by client"
 
-#: ../../../protocols/oscar/src/connection.cpp:70
+#: ../../../protocols/oscar/src/connection.cpp:71
 msgctxt "ProtocolError|"
 msgid "Refused by client"
 msgstr "Refused by client"
 
-#: ../../../protocols/oscar/src/connection.cpp:72
+#: ../../../protocols/oscar/src/connection.cpp:73
 msgctxt "ProtocolError|"
 msgid "Reply too big"
 msgstr "Reply too big"
 
-#: ../../../protocols/oscar/src/connection.cpp:74
+#: ../../../protocols/oscar/src/connection.cpp:75
 msgctxt "ProtocolError|"
 msgid "Responses lost"
 msgstr "Responses lost"
 
-#: ../../../protocols/oscar/src/connection.cpp:76
+#: ../../../protocols/oscar/src/connection.cpp:77
 msgctxt "ProtocolError|"
 msgid "Request denied"
 msgstr "Request denied"
 
-#: ../../../protocols/oscar/src/connection.cpp:78
+#: ../../../protocols/oscar/src/connection.cpp:79
 msgctxt "ProtocolError|"
 msgid "Incorrect SNAC format"
 msgstr "Incorrect SNAC format"
 
-#: ../../../protocols/oscar/src/connection.cpp:80
+#: ../../../protocols/oscar/src/connection.cpp:81
 msgctxt "ProtocolError|"
 msgid "Insufficient rights"
 msgstr "Insufficient rights"
 
-#: ../../../protocols/oscar/src/connection.cpp:82
+#: ../../../protocols/oscar/src/connection.cpp:83
 msgctxt "ProtocolError|"
 msgid "In local permit/deny (recipient blocked)"
 msgstr "In local permit/deny (recipient blocked)"
 
-#: ../../../protocols/oscar/src/connection.cpp:84
+#: ../../../protocols/oscar/src/connection.cpp:85
 msgctxt "ProtocolError|"
 msgid "Sender too evil"
 msgstr "Sender too evil"
 
-#: ../../../protocols/oscar/src/connection.cpp:86
+#: ../../../protocols/oscar/src/connection.cpp:87
 msgctxt "ProtocolError|"
 msgid "Receiver too evil"
 msgstr "Receiver too evil"
 
-#: ../../../protocols/oscar/src/connection.cpp:88
+#: ../../../protocols/oscar/src/connection.cpp:89
 msgctxt "ProtocolError|"
 msgid "User temporarily unavailable"
 msgstr "User temporarily unavailable"
 
-#: ../../../protocols/oscar/src/connection.cpp:90
+#: ../../../protocols/oscar/src/connection.cpp:91
 msgctxt "ProtocolError|"
 msgid "No match"
 msgstr "No match"
 
-#: ../../../protocols/oscar/src/connection.cpp:92
+#: ../../../protocols/oscar/src/connection.cpp:93
 msgctxt "ProtocolError|"
 msgid "List overflow"
 msgstr "List overflow"
 
-#: ../../../protocols/oscar/src/connection.cpp:94
+#: ../../../protocols/oscar/src/connection.cpp:95
 msgctxt "ProtocolError|"
 msgid "Request ambiguous"
 msgstr "Request ambiguous"
 
-#: ../../../protocols/oscar/src/connection.cpp:96
+#: ../../../protocols/oscar/src/connection.cpp:97
 msgctxt "ProtocolError|"
 msgid "Server queue full"
 msgstr "Server queue full"
 
-#: ../../../protocols/oscar/src/connection.cpp:98
+#: ../../../protocols/oscar/src/connection.cpp:99
 msgctxt "ProtocolError|"
 msgid "Not while on AOL"
 msgstr "Not while on AOL"
 
-#: ../../../protocols/oscar/src/connection.cpp:100
+#: ../../../protocols/oscar/src/connection.cpp:101
 msgctxt "ProtocolError|"
 msgid "Unknown error"
 msgstr "Unknown error"
@@ -3700,7 +3700,7 @@ msgid "Grant authorization"
 msgstr "Grant authorization"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:83
-#: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:209
+#: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:210
 msgctxt "qutim_sdk_0_3::oscar::ClientIdentify|"
 msgid "Possible client"
 msgstr "Possible client"

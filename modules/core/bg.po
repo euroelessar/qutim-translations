@@ -287,22 +287,22 @@ msgctxt "ContactInfo|"
 msgid "About %1 <%2>"
 msgstr "За контакта %1 <%2>"
 
-#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:158
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:159
 msgctxt "ContactInfo|"
 msgid "Summary"
 msgstr "Обобщенa"
 
-#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:173
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:174
 msgctxt "ContactInfo|"
 msgid "General"
 msgstr "Основна"
 
-#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:221
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:222
 msgctxt "ContactInfo|"
 msgid "yes"
 msgstr "Да"
 
-#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:222
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:223
 msgctxt "ContactInfo|"
 msgid "no"
 msgstr "Не"
@@ -523,28 +523,28 @@ msgctxt "Core::AddContact|"
 msgid "Account must be online"
 msgstr "Статусът на сметката трябва да е \"На линия\""
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:61
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:87
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:65
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:92
 #, qt-format
 msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "Chat with %1 (have %2 unread messages)"
 msgstr "Разговорът с %1 (има %2 непрочетени съобщения)"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:63
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:89
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:67
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:94
 #, qt-format
 msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "Chat with %1"
 msgstr "Разговор с %1"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:66
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:92
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:71
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:97
 #, qt-format
 msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "Conference %1 (%2)"
 msgstr "Конференция %1 (%2)"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:78
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:83
 #, qt-format
 msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "%1 - qutIM"
@@ -555,17 +555,17 @@ msgctxt "Core::AdiumChat::ChatEmoticonsWidget|"
 msgid "Close"
 msgstr "Затваряне"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:90
+#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:108
 msgctxt "Core::AdiumChat::ConferenceContactsView|"
 msgid "Insert Nick"
 msgstr "Вмъкване на псевдоним"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:98
+#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:116
 msgctxt "Core::AdiumChat::ConferenceContactsView|"
 msgid "Conference participants"
 msgstr "Участници в конференцията"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:161
+#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:188
 msgctxt "Core::AdiumChat::ConferenceContactsView|"
 msgid "Private"
 msgstr "Личен разговор"
@@ -666,17 +666,17 @@ msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Send"
 msgstr "Изпращане"
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:212
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:220
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "&Actions"
 msgstr "&Действия"
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:216
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:224
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Accoun&ts"
 msgstr "Смет&ки"
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:224
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:231
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "&Chat"
 msgstr "&Разговор"
@@ -1636,7 +1636,7 @@ msgstr "Нов разговор"
 
 #: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.ui:14
 #: ../../../core/src/corelayers/joinchatdialog/joinchatmodule.cpp:71
-#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp:80
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp:78
 msgctxt "JoinGroupChat|"
 msgid "Join groupchat"
 msgstr "Присъединяване към групов разговор"
@@ -3764,47 +3764,47 @@ msgctxt "StackedChatBehavior|"
 msgid "Autoresize the input field "
 msgstr "Автоматична промяна размера на полето за въвеждане "
 
-#: ../../../core/libqutim/status.cpp:156
+#: ../../../core/libqutim/status.cpp:162
 msgctxt "Status|"
 msgid "Online"
 msgstr "На линия"
 
-#: ../../../core/libqutim/status.cpp:159
+#: ../../../core/libqutim/status.cpp:165
 msgctxt "Status|"
 msgid "Free for chat"
 msgstr "Свободен за разговор"
 
-#: ../../../core/libqutim/status.cpp:162
+#: ../../../core/libqutim/status.cpp:168
 msgctxt "Status|"
 msgid "Away"
 msgstr "Отсъствам"
 
-#: ../../../core/libqutim/status.cpp:165
+#: ../../../core/libqutim/status.cpp:171
 msgctxt "Status|"
 msgid "Not available"
 msgstr "Недостъпен"
 
-#: ../../../core/libqutim/status.cpp:168
+#: ../../../core/libqutim/status.cpp:174
 msgctxt "Status|"
 msgid "Do not disturb"
 msgstr "Не безпокойте"
 
-#: ../../../core/libqutim/status.cpp:171
+#: ../../../core/libqutim/status.cpp:177
 msgctxt "Status|"
 msgid "Invisible"
 msgstr "Невидим"
 
-#: ../../../core/libqutim/status.cpp:174
+#: ../../../core/libqutim/status.cpp:180
 msgctxt "Status|"
 msgid "Offline"
 msgstr "Извън линия"
 
-#: ../../../core/libqutim/status.cpp:177
+#: ../../../core/libqutim/status.cpp:183
 msgctxt "Status|"
 msgid "Connecting"
 msgstr "Свързване"
 
-#: ../../../core/libqutim/status.cpp:180
+#: ../../../core/libqutim/status.cpp:186
 msgctxt "Status|"
 msgid "Unknown"
 msgstr "Неизвестен"
@@ -3878,6 +3878,12 @@ msgstr "Да се показва лентата с менюто"
 msgctxt "TabbedChatBehavior|"
 msgid "Autoresize the input field"
 msgstr "Автоматична промяна размера на полето за въвеждане"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:130
+#, fuzzy
+msgctxt "TabbedChatBehavior|"
+msgid "Show context-related window icon"
+msgstr "Да се показват иконите на разширените статуси"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/tagsfilterdialog.ui:14
 msgctxt "TagsFilterDialog|"

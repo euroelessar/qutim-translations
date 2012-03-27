@@ -58,12 +58,12 @@ msgid ""
 "Unread messages: %2"
 msgstr ""
 
-#: ../../../protocols/mrim/src/base/mrimconnection.cpp:256
+#: ../../../protocols/mrim/src/base/mrimconnection.cpp:258
 msgctxt "MrimConnection|"
 msgid "Another client with same login connected!"
 msgstr ""
 
-#: ../../../protocols/mrim/src/base/mrimconnection.cpp:477
+#: ../../../protocols/mrim/src/base/mrimconnection.cpp:479
 #, qt-format
 msgctxt "MrimConnection|"
 msgid ""

@@ -13,7 +13,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-03-24 05:37+0000\n"
 "X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
-"Language: cs\n"
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
 
@@ -70,12 +69,12 @@ msgid ""
 "Unread messages: %2"
 msgstr ""
 
-#: ../../../protocols/mrim/src/base/mrimconnection.cpp:256
+#: ../../../protocols/mrim/src/base/mrimconnection.cpp:258
 msgctxt "MrimConnection|"
 msgid "Another client with same login connected!"
 msgstr ""
 
-#: ../../../protocols/mrim/src/base/mrimconnection.cpp:477
+#: ../../../protocols/mrim/src/base/mrimconnection.cpp:479
 #, qt-format
 msgctxt "MrimConnection|"
 msgid ""

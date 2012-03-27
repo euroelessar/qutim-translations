@@ -15,7 +15,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-03-25 06:10+0000\n"
 "X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
-"Language: ru\n"
 "X-Language: ru\n"
 
 #: ../../../plugins/histman/src/chooseclientpage.ui:14

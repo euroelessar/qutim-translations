@@ -15,7 +15,7 @@ msgstr ""
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:72
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:69
 msgctxt "BearerManager|"
 msgid ""
 "Unable to find any network configuration. Perhaps Qt or QtMobility network "
@@ -26,12 +26,12 @@ msgstr ""
 "QtMobility сконфигурированы некорректно. Менеджер работает неправильно, "
 "обратитесь к производителю дистрибутива."
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:94
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:93
 msgctxt "BearerManager|"
 msgid "Network is available!"
 msgstr "Сеть доступна!"
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:95
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:94
 msgctxt "BearerManager|"
 msgid "Network is unreachable!"
 msgstr "Сеть недоступна!"

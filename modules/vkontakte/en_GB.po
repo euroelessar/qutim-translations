@@ -18,7 +18,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-03-27 05:35+0000\n"
 "X-Generator: Launchpad (build 15011)\n"
 "X-Qt-Contexts: true\n"
-"Language: en_GB\n"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbum/default/PhotoViewerCore/AlbumDelegate.qml:120
 msgctxt "AlbumDelegate|"

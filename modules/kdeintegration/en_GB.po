@@ -18,7 +18,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-03-24 05:37+0000\n"
 "X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
-"Language: en_GB\n"
 
 #: ../../../plugins/kdeintegration/src/aboutapp/kdeaboutappdialog.cpp:45
 msgctxt "Core|"

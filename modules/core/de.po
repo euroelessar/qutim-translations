@@ -286,22 +286,22 @@ msgctxt "ContactInfo|"
 msgid "About %1 <%2>"
 msgstr "Über %1 <%2>"
 
-#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:158
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:159
 msgctxt "ContactInfo|"
 msgid "Summary"
 msgstr "Zusammenfassung"
 
-#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:173
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:174
 msgctxt "ContactInfo|"
 msgid "General"
 msgstr "Allgemein"
 
-#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:221
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:222
 msgctxt "ContactInfo|"
 msgid "yes"
 msgstr "Ja"
 
-#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:222
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:223
 msgctxt "ContactInfo|"
 msgid "no"
 msgstr "Nein"
@@ -522,28 +522,28 @@ msgctxt "Core::AddContact|"
 msgid "Account must be online"
 msgstr "Konto muss online sein"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:61
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:87
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:65
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:92
 #, qt-format
 msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "Chat with %1 (have %2 unread messages)"
 msgstr "Chat mit %1 (%2 ungelesene Nachrichten)"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:63
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:89
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:67
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:94
 #, qt-format
 msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "Chat with %1"
 msgstr "Chat mit %1"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:66
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:92
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:71
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:97
 #, qt-format
 msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "Conference %1 (%2)"
 msgstr "Konferenz mit %1 (%2)"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:78
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:83
 #, qt-format
 msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "%1 - qutIM"
@@ -554,17 +554,17 @@ msgctxt "Core::AdiumChat::ChatEmoticonsWidget|"
 msgid "Close"
 msgstr "Schließen"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:90
+#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:108
 msgctxt "Core::AdiumChat::ConferenceContactsView|"
 msgid "Insert Nick"
 msgstr "Spitzname einfügen"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:98
+#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:116
 msgctxt "Core::AdiumChat::ConferenceContactsView|"
 msgid "Conference participants"
 msgstr "Benutzerliste"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:161
+#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:188
 msgctxt "Core::AdiumChat::ConferenceContactsView|"
 msgid "Private"
 msgstr "Privat"
@@ -665,17 +665,17 @@ msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Send"
 msgstr "Senden"
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:212
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:220
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "&Actions"
 msgstr "&Aktionen"
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:216
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:224
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Accoun&ts"
 msgstr "&Konten"
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:224
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:231
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "&Chat"
 msgstr "&Chat"
@@ -1629,7 +1629,7 @@ msgstr "Neuer Chatraum"
 
 #: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.ui:14
 #: ../../../core/src/corelayers/joinchatdialog/joinchatmodule.cpp:71
-#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp:80
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp:78
 msgctxt "JoinGroupChat|"
 msgid "Join groupchat"
 msgstr "Chatraum betreten..."
@@ -3734,47 +3734,47 @@ msgctxt "StackedChatBehavior|"
 msgid "Autoresize the input field "
 msgstr "Größe des Eingabefeldes automatisch anpassen "
 
-#: ../../../core/libqutim/status.cpp:156
+#: ../../../core/libqutim/status.cpp:162
 msgctxt "Status|"
 msgid "Online"
 msgstr "Online"
 
-#: ../../../core/libqutim/status.cpp:159
+#: ../../../core/libqutim/status.cpp:165
 msgctxt "Status|"
 msgid "Free for chat"
 msgstr "Chatfreudig"
 
-#: ../../../core/libqutim/status.cpp:162
+#: ../../../core/libqutim/status.cpp:168
 msgctxt "Status|"
 msgid "Away"
 msgstr "Abwesend"
 
-#: ../../../core/libqutim/status.cpp:165
+#: ../../../core/libqutim/status.cpp:171
 msgctxt "Status|"
 msgid "Not available"
 msgstr "Nicht verfügbar"
 
-#: ../../../core/libqutim/status.cpp:168
+#: ../../../core/libqutim/status.cpp:174
 msgctxt "Status|"
 msgid "Do not disturb"
 msgstr "Nicht stören"
 
-#: ../../../core/libqutim/status.cpp:171
+#: ../../../core/libqutim/status.cpp:177
 msgctxt "Status|"
 msgid "Invisible"
 msgstr "Unsichtbar"
 
-#: ../../../core/libqutim/status.cpp:174
+#: ../../../core/libqutim/status.cpp:180
 msgctxt "Status|"
 msgid "Offline"
 msgstr "Offline"
 
-#: ../../../core/libqutim/status.cpp:177
+#: ../../../core/libqutim/status.cpp:183
 msgctxt "Status|"
 msgid "Connecting"
 msgstr "Verbinden"
 
-#: ../../../core/libqutim/status.cpp:180
+#: ../../../core/libqutim/status.cpp:186
 msgctxt "Status|"
 msgid "Unknown"
 msgstr "Unbekannt"
@@ -3849,6 +3849,12 @@ msgstr "Zeige Menüleiste"
 msgctxt "TabbedChatBehavior|"
 msgid "Autoresize the input field"
 msgstr "Größe des Eingabefeldes automatisch anpassen"
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:130
+#, fuzzy
+msgctxt "TabbedChatBehavior|"
+msgid "Show context-related window icon"
+msgstr "Zeige erweiterte Symbole"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/tagsfilterdialog.ui:14
 msgctxt "TagsFilterDialog|"

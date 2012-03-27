@@ -19,7 +19,7 @@ msgstr ""
 "X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:72
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:69
 msgctxt "BearerManager|"
 msgid ""
 "Unable to find any network configuration. Perhaps Qt or QtMobility network "
@@ -30,12 +30,12 @@ msgstr ""
 "bearer configured incorrectly. Bearer manager will not work properly, refer "
 "to your distribution maintainer."
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:94
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:93
 msgctxt "BearerManager|"
 msgid "Network is available!"
 msgstr ""
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:95
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:94
 msgctxt "BearerManager|"
 msgid "Network is unreachable!"
 msgstr ""

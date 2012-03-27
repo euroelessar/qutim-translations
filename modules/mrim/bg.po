@@ -13,7 +13,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-03-24 05:37+0000\n"
 "X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
-"Language: bg\n"
 "X-Language: bg\n"
 
 #: ../../../protocols/mrim/src/ui/wizards/accountwizardmain.ui:14
@@ -71,12 +70,12 @@ msgstr ""
 "Съобщения в пощата: %1\n"
 "Непрочетени съобщения: %2"
 
-#: ../../../protocols/mrim/src/base/mrimconnection.cpp:256
+#: ../../../protocols/mrim/src/base/mrimconnection.cpp:258
 msgctxt "MrimConnection|"
 msgid "Another client with same login connected!"
 msgstr "Друг клиент, със същите детайли за вход се е свързал!"
 
-#: ../../../protocols/mrim/src/base/mrimconnection.cpp:477
+#: ../../../protocols/mrim/src/base/mrimconnection.cpp:479
 #, qt-format
 msgctxt "MrimConnection|"
 msgid ""
