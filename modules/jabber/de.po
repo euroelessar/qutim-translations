@@ -1188,6 +1188,42 @@ msgctxt "Jabber::JMUCSession|"
 msgid "Subject:"
 msgstr "Thema:"
 
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:157
+#, fuzzy
+msgctxt "Jabber::JMUCUser|"
+msgid "Owner"
+msgstr " Besitzer"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:160
+#, fuzzy
+msgctxt "Jabber::JMUCUser|"
+msgid "Administrator"
+msgstr " Administrator"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:163
+#, fuzzy
+msgctxt "Jabber::JMUCUser|"
+msgid "Registered member"
+msgstr " Registrierter Benutzer"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:173
+#, fuzzy
+msgctxt "Jabber::JMUCUser|"
+msgid "Moderator"
+msgstr " Moderator"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:176
+#, fuzzy
+msgctxt "Jabber::JMUCUser|"
+msgid "Participant"
+msgstr " Teilnehmer"
+
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:179
+#, fuzzy
+msgctxt "Jabber::JMUCUser|"
+msgid "Visitor"
+msgstr " Besucher"
+
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:101
 msgctxt "Jabber::JMoodChooser|"
 msgid "Set mood"

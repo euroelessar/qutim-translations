@@ -3916,7 +3916,7 @@ msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Input/output error"
 msgstr "Помилка вводу/виводу"
 
-#: ../../../core/libqutim/modulemanager.cpp:540
+#: ../../../core/libqutim/modulemanager.cpp:558
 #, qt-format
 msgctxt "qutim_sdk_0_3::ModuleManager|"
 msgid ""

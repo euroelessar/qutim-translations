@@ -20,7 +20,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-03-28 05:47+0000\n"
 "X-Generator: Launchpad (build 15027)\n"
 "X-Qt-Contexts: true\n"
-"Language: uk\n"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
