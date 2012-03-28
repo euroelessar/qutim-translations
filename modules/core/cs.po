@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-24 00:01+0000\n"
+"POT-Creation-Date: 2012-03-27 13:47+0000\n"
 "PO-Revision-Date: 2012-03-24 01:34+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-25 06:09+0000\n"
-"X-Generator: Launchpad (build 14981)\n"
+"X-Launchpad-Export-Date: 2012-03-28 05:47+0000\n"
+"X-Generator: Launchpad (build 15027)\n"
 "X-Qt-Contexts: true\n"
 "Language: cs\n"
 "X-Language: cs\n"
@@ -276,22 +276,22 @@ msgctxt "ContactInfo|"
 msgid "About %1 <%2>"
 msgstr "O %1 <%2>"
 
-#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:158
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:159
 msgctxt "ContactInfo|"
 msgid "Summary"
 msgstr "Shrnutí"
 
-#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:173
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:174
 msgctxt "ContactInfo|"
 msgid "General"
 msgstr "Obecné"
 
-#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:221
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:222
 msgctxt "ContactInfo|"
 msgid "yes"
 msgstr "ano"
 
-#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:222
+#: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:223
 msgctxt "ContactInfo|"
 msgid "no"
 msgstr "ne"
@@ -512,28 +512,28 @@ msgctxt "Core::AddContact|"
 msgid "Account must be online"
 msgstr "Účet musí být online"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:61
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:87
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:65
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:92
 #, qt-format
 msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "Chat with %1 (have %2 unread messages)"
 msgstr "Konverzace s %1 (máte %2 nepřečtené zprávy)"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:63
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:89
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:67
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:94
 #, qt-format
 msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "Chat with %1"
 msgstr "Konverzace s %1"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:66
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:92
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:71
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:97
 #, qt-format
 msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "Conference %1 (%2)"
 msgstr "Konference %1 (%2)"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:78
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:83
 #, qt-format
 msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "%1 - qutIM"
@@ -544,17 +544,17 @@ msgctxt "Core::AdiumChat::ChatEmoticonsWidget|"
 msgid "Close"
 msgstr "Zavřít"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:90
+#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:108
 msgctxt "Core::AdiumChat::ConferenceContactsView|"
 msgid "Insert Nick"
 msgstr "Vložit přezdívku"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:98
+#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:116
 msgctxt "Core::AdiumChat::ConferenceContactsView|"
 msgid "Conference participants"
 msgstr "Účastníci konference"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:161
+#: ../../../core/src/corelayers/adiumchat/chatlayer/conferencecontactsview.cpp:188
 msgctxt "Core::AdiumChat::ConferenceContactsView|"
 msgid "Private"
 msgstr ""
@@ -655,17 +655,17 @@ msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Send"
 msgstr "Odeslat"
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:212
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:220
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "&Actions"
 msgstr "&Akce"
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:216
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:224
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Accoun&ts"
 msgstr "Úč&ty"
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:224
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:231
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "&Chat"
 msgstr "Konverza&ce"
@@ -1608,7 +1608,7 @@ msgstr ""
 
 #: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.ui:14
 #: ../../../core/src/corelayers/joinchatdialog/joinchatmodule.cpp:71
-#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp:80
+#: ../../../core/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp:78
 msgctxt "JoinGroupChat|"
 msgid "Join groupchat"
 msgstr "Vstoupit do konference"
@@ -3704,47 +3704,47 @@ msgctxt "StackedChatBehavior|"
 msgid "Autoresize the input field "
 msgstr ""
 
-#: ../../../core/libqutim/status.cpp:156
+#: ../../../core/libqutim/status.cpp:162
 msgctxt "Status|"
 msgid "Online"
 msgstr ""
 
-#: ../../../core/libqutim/status.cpp:159
+#: ../../../core/libqutim/status.cpp:165
 msgctxt "Status|"
 msgid "Free for chat"
 msgstr "Připraven na pokec"
 
-#: ../../../core/libqutim/status.cpp:162
+#: ../../../core/libqutim/status.cpp:168
 msgctxt "Status|"
 msgid "Away"
 msgstr "Pryč"
 
-#: ../../../core/libqutim/status.cpp:165
+#: ../../../core/libqutim/status.cpp:171
 msgctxt "Status|"
 msgid "Not available"
 msgstr "Nepřítomen"
 
-#: ../../../core/libqutim/status.cpp:168
+#: ../../../core/libqutim/status.cpp:174
 msgctxt "Status|"
 msgid "Do not disturb"
 msgstr "Nerušit"
 
-#: ../../../core/libqutim/status.cpp:171
+#: ../../../core/libqutim/status.cpp:177
 msgctxt "Status|"
 msgid "Invisible"
 msgstr "Neviditelný"
 
-#: ../../../core/libqutim/status.cpp:174
+#: ../../../core/libqutim/status.cpp:180
 msgctxt "Status|"
 msgid "Offline"
 msgstr ""
 
-#: ../../../core/libqutim/status.cpp:177
+#: ../../../core/libqutim/status.cpp:183
 msgctxt "Status|"
 msgid "Connecting"
 msgstr "Připojování"
 
-#: ../../../core/libqutim/status.cpp:180
+#: ../../../core/libqutim/status.cpp:186
 msgctxt "Status|"
 msgid "Unknown"
 msgstr "Neznámý"
@@ -3817,6 +3817,11 @@ msgstr ""
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:123
 msgctxt "TabbedChatBehavior|"
 msgid "Autoresize the input field"
+msgstr ""
+
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:130
+msgctxt "TabbedChatBehavior|"
+msgid "Show context-related window icon"
 msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/tagsfilterdialog.ui:14

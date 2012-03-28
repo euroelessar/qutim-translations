@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-23 17:51+0000\n"
-"PO-Revision-Date: 2012-03-26 08:53+0000\n"
+"POT-Creation-Date: 2012-03-27 13:46+0000\n"
+"PO-Revision-Date: 2012-03-27 09:16+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-27 05:35+0000\n"
-"X-Generator: Launchpad (build 15011)\n"
+"X-Launchpad-Export-Date: 2012-03-28 05:48+0000\n"
+"X-Generator: Launchpad (build 15027)\n"
 "X-Qt-Contexts: true\n"
 "Language: bg\n"
 "X-Language: bg\n"
@@ -188,178 +188,178 @@ msgctxt "Codec|"
 msgid "System"
 msgstr "Системна"
 
-#: ../../../protocols/oscar/src/connection.cpp:307
+#: ../../../protocols/oscar/src/connection.cpp:308
 msgctxt "ConnectionError|"
 msgid "Invalid nick or password"
 msgstr "Невалидни псевдоним или парола"
 
-#: ../../../protocols/oscar/src/connection.cpp:309
+#: ../../../protocols/oscar/src/connection.cpp:310
 msgctxt "ConnectionError|"
 msgid "Service temporarily unavailable"
 msgstr "Услугата е временно недостъпна"
 
-#: ../../../protocols/oscar/src/connection.cpp:311
+#: ../../../protocols/oscar/src/connection.cpp:312
 msgctxt "ConnectionError|"
 msgid "Incorrect nick or password"
 msgstr "Сгрешени псевдоним или парола"
 
-#: ../../../protocols/oscar/src/connection.cpp:313
+#: ../../../protocols/oscar/src/connection.cpp:314
 msgctxt "ConnectionError|"
 msgid "Mismatch nick or password"
 msgstr "Псевдонима или паролата не съвпадат"
 
-#: ../../../protocols/oscar/src/connection.cpp:315
+#: ../../../protocols/oscar/src/connection.cpp:316
 msgctxt "ConnectionError|"
 msgid "Internal client error (bad input to authorizer)"
 msgstr "Вътрешна грешка на клиента (неуспешно удостоверяване)"
 
-#: ../../../protocols/oscar/src/connection.cpp:317
+#: ../../../protocols/oscar/src/connection.cpp:318
 msgctxt "ConnectionError|"
 msgid "Invalid account"
 msgstr "Невалидна сметка"
 
-#: ../../../protocols/oscar/src/connection.cpp:319
+#: ../../../protocols/oscar/src/connection.cpp:320
 msgctxt "ConnectionError|"
 msgid "Deleted account"
 msgstr "Изтрита сметка"
 
-#: ../../../protocols/oscar/src/connection.cpp:321
+#: ../../../protocols/oscar/src/connection.cpp:322
 msgctxt "ConnectionError|"
 msgid "Expired account"
 msgstr "Изтекла сметка"
 
-#: ../../../protocols/oscar/src/connection.cpp:323
+#: ../../../protocols/oscar/src/connection.cpp:324
 msgctxt "ConnectionError|"
 msgid "No access to database"
 msgstr "Няма достъп до базата данни"
 
-#: ../../../protocols/oscar/src/connection.cpp:325
+#: ../../../protocols/oscar/src/connection.cpp:326
 msgctxt "ConnectionError|"
 msgid "No access to resolver"
 msgstr "Няма достъп до DNS"
 
-#: ../../../protocols/oscar/src/connection.cpp:327
+#: ../../../protocols/oscar/src/connection.cpp:328
 msgctxt "ConnectionError|"
 msgid "Invalid database fields"
 msgstr "Невалидни полета в базата данни"
 
-#: ../../../protocols/oscar/src/connection.cpp:329
+#: ../../../protocols/oscar/src/connection.cpp:330
 msgctxt "ConnectionError|"
 msgid "Bad database status"
 msgstr "Лош статус на базата данни"
 
-#: ../../../protocols/oscar/src/connection.cpp:331
+#: ../../../protocols/oscar/src/connection.cpp:332
 msgctxt "ConnectionError|"
 msgid "Bad resolver status"
 msgstr "Лош статус на DNS"
 
-#: ../../../protocols/oscar/src/connection.cpp:333
+#: ../../../protocols/oscar/src/connection.cpp:334
 msgctxt "ConnectionError|"
 msgid "Internal error"
 msgstr "Вътрешна грешка"
 
-#: ../../../protocols/oscar/src/connection.cpp:335
+#: ../../../protocols/oscar/src/connection.cpp:336
 msgctxt "ConnectionError|"
 msgid "Service temporarily offline"
 msgstr "Временно услугата не е на линия"
 
-#: ../../../protocols/oscar/src/connection.cpp:337
+#: ../../../protocols/oscar/src/connection.cpp:338
 msgctxt "ConnectionError|"
 msgid "Suspended account"
 msgstr "Преустановена сметка"
 
-#: ../../../protocols/oscar/src/connection.cpp:339
+#: ../../../protocols/oscar/src/connection.cpp:340
 msgctxt "ConnectionError|"
 msgid "DB send error"
 msgstr "Грешка при изпращане на базата данни"
 
-#: ../../../protocols/oscar/src/connection.cpp:341
+#: ../../../protocols/oscar/src/connection.cpp:342
 msgctxt "ConnectionError|"
 msgid "DB link error"
 msgstr "Грешка при свързване с базата данни"
 
-#: ../../../protocols/oscar/src/connection.cpp:343
+#: ../../../protocols/oscar/src/connection.cpp:344
 msgctxt "ConnectionError|"
 msgid "Reservation map error"
 msgstr "Грешка при резервация"
 
-#: ../../../protocols/oscar/src/connection.cpp:345
+#: ../../../protocols/oscar/src/connection.cpp:346
 msgctxt "ConnectionError|"
 msgid "Reservation link error"
 msgstr "Грешка при резервация"
 
-#: ../../../protocols/oscar/src/connection.cpp:347
+#: ../../../protocols/oscar/src/connection.cpp:348
 msgctxt "ConnectionError|"
 msgid "The users num connected from this IP has reached the maximum"
 msgstr "Надвишен максимален брой потребители, свързани от този адрес"
 
-#: ../../../protocols/oscar/src/connection.cpp:349
+#: ../../../protocols/oscar/src/connection.cpp:350
 msgctxt "ConnectionError|"
 msgid ""
 "The users num connected from this IP has reached the maximum (reservation)"
 msgstr ""
 "Надвишен максимален брой потребители, свързани от този адрес (резервация)"
 
-#: ../../../protocols/oscar/src/connection.cpp:351
+#: ../../../protocols/oscar/src/connection.cpp:352
 msgctxt "ConnectionError|"
 msgid ""
 "Rate limit exceeded (reservation). Please try to reconnect in a few minutes"
 msgstr ""
 "Надвишен брой опити (резервация). Моля опитайте отново след няколко минути"
 
-#: ../../../protocols/oscar/src/connection.cpp:353
+#: ../../../protocols/oscar/src/connection.cpp:354
 msgctxt "ConnectionError|"
 msgid "User too heavily warned"
 msgstr "Потребителят е предупреден твърде сериозно"
 
-#: ../../../protocols/oscar/src/connection.cpp:355
+#: ../../../protocols/oscar/src/connection.cpp:356
 msgctxt "ConnectionError|"
 msgid "Reservation timeout"
 msgstr "Изтекло време на резервация"
 
-#: ../../../protocols/oscar/src/connection.cpp:357
+#: ../../../protocols/oscar/src/connection.cpp:358
 msgctxt "ConnectionError|"
 msgid "You are using an older version of ICQ. Upgrade required"
 msgstr "Използвате стара версия на ICQ. Необходимо е да обновите клиента"
 
-#: ../../../protocols/oscar/src/connection.cpp:359
+#: ../../../protocols/oscar/src/connection.cpp:360
 msgctxt "ConnectionError|"
 msgid "You are using an older version of ICQ. Upgrade recommended"
 msgstr "Използвате стара версия на ICQ. Препоръчително е да обновите клиента"
 
-#: ../../../protocols/oscar/src/connection.cpp:361
+#: ../../../protocols/oscar/src/connection.cpp:362
 msgctxt "ConnectionError|"
 msgid "Rate limit exceeded. Please try to reconnect in a few minutes"
 msgstr "Надвишен брой опити. Моля опитайте отново след няколко минути"
 
-#: ../../../protocols/oscar/src/connection.cpp:363
+#: ../../../protocols/oscar/src/connection.cpp:364
 msgctxt "ConnectionError|"
 msgid "Can't register on the ICQ network. Reconnect in a few minutes"
 msgstr ""
 "Невъзможно регистриране в ICQ мрежата. Моля опитайте отново след няколко "
 "минути"
 
-#: ../../../protocols/oscar/src/connection.cpp:365
+#: ../../../protocols/oscar/src/connection.cpp:366
 msgctxt "ConnectionError|"
 msgid "Invalid SecurID"
 msgstr "Невалиден SecurID"
 
-#: ../../../protocols/oscar/src/connection.cpp:367
+#: ../../../protocols/oscar/src/connection.cpp:368
 msgctxt "ConnectionError|"
 msgid "Account suspended because of your age (age < 13)"
 msgstr "Сметката е преустановена поради възрастта ви (възраст < 13)"
 
-#: ../../../protocols/oscar/src/connection.cpp:369
+#: ../../../protocols/oscar/src/connection.cpp:370
 msgctxt "ConnectionError|"
 msgid "Another client is loggin with this uin"
 msgstr "Друг клиент с този UIN се свързва"
 
-#: ../../../protocols/oscar/src/connection.cpp:371
+#: ../../../protocols/oscar/src/connection.cpp:372
 msgctxt "ConnectionError|"
 msgid "No IP addresses were found for the host"
 msgstr "Не са открити IP адреси за хоста"
 
-#: ../../../protocols/oscar/src/connection.cpp:375
+#: ../../../protocols/oscar/src/connection.cpp:376
 msgctxt "ConnectionError|"
 msgid "Unknown error"
 msgstr "Неизвестна грешка"
@@ -3259,127 +3259,127 @@ msgctxt "Privacy|"
 msgid "Unknown privacy"
 msgstr "Неизвестно уединение"
 
-#: ../../../protocols/oscar/src/connection.cpp:52
+#: ../../../protocols/oscar/src/connection.cpp:53
 msgctxt "ProtocolError|"
 msgid "Invalid SNAC header"
 msgstr "Невалидна SNAC заглавна част"
 
-#: ../../../protocols/oscar/src/connection.cpp:54
+#: ../../../protocols/oscar/src/connection.cpp:55
 msgctxt "ProtocolError|"
 msgid "Server rate limit exceeded"
 msgstr "Надвишен лимит на връзката на сървъра"
 
-#: ../../../protocols/oscar/src/connection.cpp:56
+#: ../../../protocols/oscar/src/connection.cpp:57
 msgctxt "ProtocolError|"
 msgid "Client rate limit exceeded"
 msgstr "Надвишен лимит на връзката на клиента"
 
-#: ../../../protocols/oscar/src/connection.cpp:58
+#: ../../../protocols/oscar/src/connection.cpp:59
 msgctxt "ProtocolError|"
 msgid "Recipient is not logged in"
 msgstr "Получателят не е на линия"
 
-#: ../../../protocols/oscar/src/connection.cpp:60
+#: ../../../protocols/oscar/src/connection.cpp:61
 msgctxt "ProtocolError|"
 msgid "Requested service unavailable"
 msgstr "Заявената услугата е недостъпна"
 
-#: ../../../protocols/oscar/src/connection.cpp:62
+#: ../../../protocols/oscar/src/connection.cpp:63
 msgctxt "ProtocolError|"
 msgid "Requested service not defined"
 msgstr "Заявената услугата не е зададена"
 
-#: ../../../protocols/oscar/src/connection.cpp:64
+#: ../../../protocols/oscar/src/connection.cpp:65
 msgctxt "ProtocolError|"
 msgid "You sent obsolete SNAC"
 msgstr "Изпратен е остарял SNAC"
 
-#: ../../../protocols/oscar/src/connection.cpp:66
+#: ../../../protocols/oscar/src/connection.cpp:67
 msgctxt "ProtocolError|"
 msgid "Not supported by server"
 msgstr "Не се поддържа от сървъра"
 
-#: ../../../protocols/oscar/src/connection.cpp:68
+#: ../../../protocols/oscar/src/connection.cpp:69
 msgctxt "ProtocolError|"
 msgid "Not supported by client"
 msgstr "Не се поддържа от клиента"
 
-#: ../../../protocols/oscar/src/connection.cpp:70
+#: ../../../protocols/oscar/src/connection.cpp:71
 msgctxt "ProtocolError|"
 msgid "Refused by client"
 msgstr "Отказ от клиента"
 
-#: ../../../protocols/oscar/src/connection.cpp:72
+#: ../../../protocols/oscar/src/connection.cpp:73
 msgctxt "ProtocolError|"
 msgid "Reply too big"
 msgstr "Отговорът е твърде дълъг"
 
-#: ../../../protocols/oscar/src/connection.cpp:74
+#: ../../../protocols/oscar/src/connection.cpp:75
 msgctxt "ProtocolError|"
 msgid "Responses lost"
 msgstr "Отговорите са изгубени"
 
-#: ../../../protocols/oscar/src/connection.cpp:76
+#: ../../../protocols/oscar/src/connection.cpp:77
 msgctxt "ProtocolError|"
 msgid "Request denied"
 msgstr "Заявката е отхвърлена"
 
-#: ../../../protocols/oscar/src/connection.cpp:78
+#: ../../../protocols/oscar/src/connection.cpp:79
 msgctxt "ProtocolError|"
 msgid "Incorrect SNAC format"
 msgstr "Невалиден формат на SNAC"
 
-#: ../../../protocols/oscar/src/connection.cpp:80
+#: ../../../protocols/oscar/src/connection.cpp:81
 msgctxt "ProtocolError|"
 msgid "Insufficient rights"
 msgstr "Недостатъчни права"
 
-#: ../../../protocols/oscar/src/connection.cpp:82
+#: ../../../protocols/oscar/src/connection.cpp:83
 msgctxt "ProtocolError|"
 msgid "In local permit/deny (recipient blocked)"
 msgstr "Получателят е блокиран"
 
-#: ../../../protocols/oscar/src/connection.cpp:84
+#: ../../../protocols/oscar/src/connection.cpp:85
 msgctxt "ProtocolError|"
 msgid "Sender too evil"
 msgstr "Изпращачът е твърде зъл"
 
-#: ../../../protocols/oscar/src/connection.cpp:86
+#: ../../../protocols/oscar/src/connection.cpp:87
 msgctxt "ProtocolError|"
 msgid "Receiver too evil"
 msgstr "Получателят е твърде зъл"
 
-#: ../../../protocols/oscar/src/connection.cpp:88
+#: ../../../protocols/oscar/src/connection.cpp:89
 msgctxt "ProtocolError|"
 msgid "User temporarily unavailable"
 msgstr "Потребителят е временно недостъпен"
 
-#: ../../../protocols/oscar/src/connection.cpp:90
+#: ../../../protocols/oscar/src/connection.cpp:91
 msgctxt "ProtocolError|"
 msgid "No match"
 msgstr "Няма съвпадения"
 
-#: ../../../protocols/oscar/src/connection.cpp:92
+#: ../../../protocols/oscar/src/connection.cpp:93
 msgctxt "ProtocolError|"
 msgid "List overflow"
 msgstr "Препълнен списък"
 
-#: ../../../protocols/oscar/src/connection.cpp:94
+#: ../../../protocols/oscar/src/connection.cpp:95
 msgctxt "ProtocolError|"
 msgid "Request ambiguous"
 msgstr "Заявката е двусмислена"
 
-#: ../../../protocols/oscar/src/connection.cpp:96
+#: ../../../protocols/oscar/src/connection.cpp:97
 msgctxt "ProtocolError|"
 msgid "Server queue full"
 msgstr "Опашката на сървъра е пълна"
 
-#: ../../../protocols/oscar/src/connection.cpp:98
+#: ../../../protocols/oscar/src/connection.cpp:99
 msgctxt "ProtocolError|"
 msgid "Not while on AOL"
 msgstr "Не е в AOL"
 
-#: ../../../protocols/oscar/src/connection.cpp:100
+#: ../../../protocols/oscar/src/connection.cpp:101
 msgctxt "ProtocolError|"
 msgid "Unknown error"
 msgstr "Неизвестна грешка"
@@ -3703,7 +3703,7 @@ msgid "Grant authorization"
 msgstr "Предоставяне на удостоверение"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:83
-#: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:209
+#: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:210
 msgctxt "qutim_sdk_0_3::oscar::ClientIdentify|"
 msgid "Possible client"
 msgstr "Вероятен клиент"

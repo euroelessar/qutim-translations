@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-19 16:54+0000\n"
-"PO-Revision-Date: 2012-03-13 14:32+0000\n"
+"POT-Creation-Date: 2012-03-27 13:47+0000\n"
+"PO-Revision-Date: 2012-03-27 16:11+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2012-03-14 05:41+0000\n"
-"X-Generator: Launchpad (build 14933)\n"
+"X-Launchpad-Export-Date: 2012-03-28 05:47+0000\n"
+"X-Generator: Launchpad (build 15027)\n"
 "X-Qt-Contexts: true\n"
 "Language: de\n"
 "X-Language: de\n"
@@ -417,37 +417,37 @@ msgctxt "IRC|"
 msgid "Search channel..."
 msgstr "Raum suchen..."
 
-#: ../../../protocols/irc/src/ircchannel.cpp:370
+#: ../../../protocols/irc/src/ircchannel.cpp:373
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 gives channel operator privileges to %2."
 msgstr "%1 gibt %2 Op."
 
-#: ../../../protocols/irc/src/ircchannel.cpp:372
+#: ../../../protocols/irc/src/ircchannel.cpp:375
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 gives channel halfop privileges to %2."
 msgstr "%1 gibt %2 Half-Op."
 
-#: ../../../protocols/irc/src/ircchannel.cpp:374
+#: ../../../protocols/irc/src/ircchannel.cpp:377
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 gives %2 the permission to talk."
 msgstr "%1 erteilt %2 Sprecherlaubnis."
 
-#: ../../../protocols/irc/src/ircchannel.cpp:394
+#: ../../../protocols/irc/src/ircchannel.cpp:397
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 takes channel operator privileges from %2."
 msgstr "%1 entzieht %2 Op."
 
-#: ../../../protocols/irc/src/ircchannel.cpp:396
+#: ../../../protocols/irc/src/ircchannel.cpp:399
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 takes channel halfop privileges from %2."
 msgstr "%1 entzieht %2 Half-Op."
 
-#: ../../../protocols/irc/src/ircchannel.cpp:398
+#: ../../../protocols/irc/src/ircchannel.cpp:401
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 takes the permission to talk from %2."
@@ -542,78 +542,78 @@ msgctxt "qutim_sdk_0_3::irc::IrcAccount|"
 msgid "Away"
 msgstr "Abwesend"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:183
+#: ../../../protocols/irc/src/ircchannel.cpp:186
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "You are now known as %1"
 msgstr "Du heißt nun %1"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:206
+#: ../../../protocols/irc/src/ircchannel.cpp:209
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 are now known as %2"
 msgstr "%1 heißt nun %2"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:267
+#: ../../../protocols/irc/src/ircchannel.cpp:270
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 (%2) has joined the channel"
 msgstr "%1 (%2) hat den Raum betreten"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:278
+#: ../../../protocols/irc/src/ircchannel.cpp:281
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "You left this channel (%1)"
 msgstr "Du hast den Raum verlassen (%1)"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:280
+#: ../../../protocols/irc/src/ircchannel.cpp:283
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "You left this channel"
 msgstr "Du hast den Raum verlassen"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:287
+#: ../../../protocols/irc/src/ircchannel.cpp:290
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has left this channel (%2)"
 msgstr "%1 hat den Raum verlassen (%2)"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:289
+#: ../../../protocols/irc/src/ircchannel.cpp:292
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has left this channel"
 msgstr "%1 hat den Raum verlassen"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:300
+#: ../../../protocols/irc/src/ircchannel.cpp:303
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has kicked you from the channel (%2)"
 msgstr "%1 hat dich aus dem Raum geworfen (%2)"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:305
+#: ../../../protocols/irc/src/ircchannel.cpp:308
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has kicked you from the channel"
 msgstr "%1 hat dich aus dem Raum geworfen"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:313
+#: ../../../protocols/irc/src/ircchannel.cpp:316
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has kicked %2 (%3)"
 msgstr "%1 hat %2 (%3) rausgeworfen"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:318
+#: ../../../protocols/irc/src/ircchannel.cpp:321
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has kicked %2"
 msgstr "%1 hat %2 rausgeworfen"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:334
+#: ../../../protocols/irc/src/ircchannel.cpp:337
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "The channel topic is \"%1\""
 msgstr "Das Thema des Raums ist \"%1\""
 
-#: ../../../protocols/irc/src/ircchannel.cpp:343
+#: ../../../protocols/irc/src/ircchannel.cpp:346
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "The topic was set by %1 on %2."
@@ -761,38 +761,38 @@ msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Send WHOIS request"
 msgstr "Whois abfragen"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:158
+#: ../../../protocols/irc/src/ircconnection.cpp:159
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Server %1 (Version %2), User modes: %3, Channel modes: %4"
 msgstr "Server %1 (Version %2), Benutzermodi: %3, Raummodi: %4"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:277
+#: ../../../protocols/irc/src/ircconnection.cpp:278
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Message of the day:"
 msgstr "Begrüßungsnachricht:"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:279
+#: ../../../protocols/irc/src/ircconnection.cpp:280
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "End of message of the day"
 msgstr "Ende der Begrüßungsnachricht"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:287
+#: ../../../protocols/irc/src/ircconnection.cpp:288
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Start of /LIST"
 msgstr "Beginn von /LIST"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:305
+#: ../../../protocols/irc/src/ircconnection.cpp:306
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "End of /LIST"
 msgstr "Ende von /LIST"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:307
+#: ../../../protocols/irc/src/ircconnection.cpp:308
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Bad list syntax, type /QUOTE HELP LIST"
 msgstr "Falsche Syntax, versuchen sie /QUOTE HELP LIST"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:312
+#: ../../../protocols/irc/src/ircconnection.cpp:313
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid ""
 "Server load is temporarily too heavy.\n"
@@ -801,57 +801,57 @@ msgstr ""
 "Der Server ist momentan ausgelastet.\n"
 "Bitte später erneut versuchen."
 
-#: ../../../protocols/irc/src/ircconnection.cpp:323
+#: ../../../protocols/irc/src/ircconnection.cpp:324
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "%1 set away message \"%2\""
 msgstr "%1 hat die Abwesenheitsnachricht \"%2\""
 
-#: ../../../protocols/irc/src/ircconnection.cpp:327
+#: ../../../protocols/irc/src/ircconnection.cpp:328
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "%1 removed away message"
 msgstr "%1 hat seine Abwesenheitsnachricht gelöscht"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:332
+#: ../../../protocols/irc/src/ircconnection.cpp:333
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "You are no longer marked as being away"
 msgstr "Du bist nun nicht mehr als \"Abwesend\" gekennzeichnet"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:334
+#: ../../../protocols/irc/src/ircconnection.cpp:335
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "You have been marked as being away"
 msgstr "Du bist nun als \"Abwesend\" gekennzeichnet"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:433
+#: ../../../protocols/irc/src/ircconnection.cpp:434
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Add at least one server before connecting"
 msgstr "Bitte vor dem Verbinden mindestens einen Server angeben"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:435
+#: ../../../protocols/irc/src/ircconnection.cpp:436
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Set at least one nick before connecting"
 msgstr "Bitte vor dem Verbinden mindestens einen Spitznamen angeben"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:437
+#: ../../../protocols/irc/src/ircconnection.cpp:438
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Cannot connect to %1 network"
 msgstr "Kann keine Verbindung zum Netzwerk %1 herstellen"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:628
+#: ../../../protocols/irc/src/ircconnection.cpp:630
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Network error: %1"
 msgstr "Netzwerkfehler: %1"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:644
+#: ../../../protocols/irc/src/ircconnection.cpp:646
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "SSL error: %1"
 msgstr "SSL-Fehler: %1"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:650
+#: ../../../protocols/irc/src/ircconnection.cpp:652
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "SSL handshake completed"
 msgstr "SSL-Handschlag abgeschlossen"
@@ -922,11 +922,3 @@ msgstr "%1 ist als %2 eingeloggt"
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 is using a secure connection"
 msgstr "%1 verwendet eine sichere Verbindung"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcJoinLeftActionGenerator|"
-#~ msgid "Leave the channel"
-#~ msgstr "Raum verlassen"
-
-#~ msgctxt "qutim_sdk_0_3::irc::IrcJoinLeftActionGenerator|"
-#~ msgid "Join the channel"
-#~ msgstr "Raum betreten"
