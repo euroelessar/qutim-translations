@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-27 13:47+0000\n"
-"PO-Revision-Date: 2012-03-24 13:52+0000\n"
-"Last-Translator: Nicolay <Unknown>\n"
+"POT-Creation-Date: 2012-03-28 07:42+0000\n"
+"PO-Revision-Date: 2012-03-28 13:14+0000\n"
+"Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-28 05:47+0000\n"
-"X-Generator: Launchpad (build 15027)\n"
+"X-Launchpad-Export-Date: 2012-03-29 05:20+0000\n"
+"X-Generator: Launchpad (build 15032)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -1184,7 +1184,7 @@ msgstr " модератор"
 #, qt-format
 msgctxt "Jabber::JMUCSession|"
 msgid "Conference \"%1\" requires you to fill the captcha to enter the room"
-msgstr ""
+msgstr "Конференция \"%1\" требует ввода captcha для входа в комнату"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:571
 msgctxt "Jabber::JMUCSession|"
@@ -1192,40 +1192,34 @@ msgid "Subject:"
 msgstr "Тема:"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:157
-#, fuzzy
 msgctxt "Jabber::JMUCUser|"
 msgid "Owner"
-msgstr " владелец"
+msgstr "Владелец"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:160
-#, fuzzy
 msgctxt "Jabber::JMUCUser|"
 msgid "Administrator"
-msgstr " администратор"
+msgstr "Администратор"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:163
-#, fuzzy
 msgctxt "Jabber::JMUCUser|"
 msgid "Registered member"
-msgstr " зарегистрированный участник"
+msgstr "Зарегистрированный участник"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:173
-#, fuzzy
 msgctxt "Jabber::JMUCUser|"
 msgid "Moderator"
-msgstr " модератор"
+msgstr "Модератор"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:176
-#, fuzzy
 msgctxt "Jabber::JMUCUser|"
 msgid "Participant"
-msgstr " участник"
+msgstr "Участник"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:179
-#, fuzzy
 msgctxt "Jabber::JMUCUser|"
 msgid "Visitor"
-msgstr " посетитель"
+msgstr "Посетитель"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:101
 msgctxt "Jabber::JMoodChooser|"

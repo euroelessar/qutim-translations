@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-27 13:47+0000\n"
+"POT-Creation-Date: 2012-03-28 07:42+0000\n"
 "PO-Revision-Date: 2012-03-24 01:36+0000\n"
 "Last-Translator: Max_ym <kontact.cat@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-28 05:47+0000\n"
-"X-Generator: Launchpad (build 15027)\n"
+"X-Launchpad-Export-Date: 2012-03-29 05:20+0000\n"
+"X-Generator: Launchpad (build 15032)\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:35
@@ -1188,16 +1188,14 @@ msgid "Subject:"
 msgstr "Тема:"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:157
-#, fuzzy
 msgctxt "Jabber::JMUCUser|"
 msgid "Owner"
-msgstr " власник"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:160
-#, fuzzy
 msgctxt "Jabber::JMUCUser|"
 msgid "Administrator"
-msgstr " адміністратор"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:163
 msgctxt "Jabber::JMUCUser|"
@@ -1205,10 +1203,9 @@ msgid "Registered member"
 msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:173
-#, fuzzy
 msgctxt "Jabber::JMUCUser|"
 msgid "Moderator"
-msgstr " модератор"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:176
 msgctxt "Jabber::JMUCUser|"
@@ -1216,10 +1213,9 @@ msgid "Participant"
 msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:179
-#, fuzzy
 msgctxt "Jabber::JMUCUser|"
 msgid "Visitor"
-msgstr " відвідувач"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:101
 msgctxt "Jabber::JMoodChooser|"
