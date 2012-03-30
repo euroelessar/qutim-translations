@@ -188,17 +188,17 @@ msgctxt "JabberSettings|"
 msgid "Path to file"
 msgstr "Път до файла"
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:100
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:99
 msgctxt "NowPlaying|"
 msgid "Now Playing"
 msgstr "В момента се просвирва"
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:286
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:292
 msgctxt "NowPlaying|"
 msgid "Stop now playing"
 msgstr "Спиране на \"В момента просвирвам\""
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:287
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:293
 msgctxt "NowPlaying|"
 msgid "Start now playing"
 msgstr "Пускане на \"В момента просвирвам\""

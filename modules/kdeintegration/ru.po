@@ -36,88 +36,88 @@ msgid "Autodetect of language"
 msgstr "Автоматически определить язык"
 
 #: ../../../plugins/kdeintegration/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:99
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:98
 msgctxt "Plugin|"
 msgid "KDE integration"
 msgstr "Интеграция с KDE"
 
 #: ../../../plugins/kdeintegration/__data_from_cmakelists_txt.cpp:2
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:100
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:99
 msgctxt "Plugin|"
 msgid "Integration with K Desktop Environment"
 msgstr "Модуль интеграции с графической средой KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:102
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:101
 msgctxt "Plugin|"
 msgid "KDE Integration"
 msgstr "Интеграция со средой KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:103
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:102
 msgctxt "Plugin|"
 msgid "Full-featured integration with KDE"
 msgstr "Полная интеграция в рабочий стол KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:105
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:104
 msgctxt "Plugin|"
 msgid "KDE Emoticons"
 msgstr "Смайлы KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:106
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:105
 msgctxt "Plugin|"
 msgid "Using KDE emoticons packs"
 msgstr "Модуль для использования смайлов KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:108
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:107
 msgctxt "Plugin|"
 msgid "KDE Crash handler"
 msgstr "Перехватчик падений и крэшей"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:109
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:108
 msgctxt "Plugin|"
 msgid "Handles qutIM's craches by KCrash"
 msgstr "Перехват падения qutim программой KCrash"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:111
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:110
 msgctxt "Plugin|"
 msgid "KDE Spell checker"
 msgstr "Проверка орфографии KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:114
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:113
 msgctxt "Plugin|"
 msgid "KDE Icon engine"
 msgstr "Движок пиктограмм KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:115
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:114
 msgctxt "Plugin|"
 msgid "Uses KDE Icon engine for providing icons"
 msgstr "Использует движок KDE для пиктограмм"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:121
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:120
 msgctxt "Plugin|"
 msgid "KDE Status Notifier"
 msgstr "Уведомления KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:122
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:121
 msgctxt "Plugin|"
 msgid "Using new KDE DBus tray specification"
 msgstr "Использует новую спецификацию KDE DBus"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:124
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:123
 msgctxt "Plugin|"
 msgid "About KDE dialog"
 msgstr "О KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:125
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:124
 msgctxt "Plugin|"
 msgid "Show \"About KDE\" menu option"
 msgstr "Показывает \"о KDE\" опцию в меню"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:127
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:126
 msgctxt "Plugin|"
 msgid "KDE About application dialog"
 msgstr "Окно о KDE"
 
-#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:128
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:127
 msgctxt "Plugin|"
 msgid "Use kde-specific application about dialog"
 msgstr "Использует KDE-специфичное окно о программе"

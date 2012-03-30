@@ -187,17 +187,17 @@ msgctxt "JabberSettings|"
 msgid "Path to file"
 msgstr "Pfad zur Datei"
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:100
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:99
 msgctxt "NowPlaying|"
 msgid "Now Playing"
 msgstr "Aktueller Musiktitel"
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:286
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:292
 msgctxt "NowPlaying|"
 msgid "Stop now playing"
 msgstr "Now Playing stoppen"
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:287
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:293
 msgctxt "NowPlaying|"
 msgid "Start now playing"
 msgstr "Now Playing starten"

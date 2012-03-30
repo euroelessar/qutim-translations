@@ -416,37 +416,37 @@ msgctxt "IRC|"
 msgid "Search channel..."
 msgstr "Търсене на канал..."
 
-#: ../../../protocols/irc/src/ircchannel.cpp:373
+#: ../../../protocols/irc/src/ircchannel.cpp:374
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 gives channel operator privileges to %2."
 msgstr "%1 даде операторски права в канала на %2."
 
-#: ../../../protocols/irc/src/ircchannel.cpp:375
+#: ../../../protocols/irc/src/ircchannel.cpp:376
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 gives channel halfop privileges to %2."
 msgstr "%1 даде полуоператорски права в канала на %2."
 
-#: ../../../protocols/irc/src/ircchannel.cpp:377
+#: ../../../protocols/irc/src/ircchannel.cpp:378
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 gives %2 the permission to talk."
 msgstr "%1 даде на %2 право да говори."
 
-#: ../../../protocols/irc/src/ircchannel.cpp:397
+#: ../../../protocols/irc/src/ircchannel.cpp:398
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 takes channel operator privileges from %2."
 msgstr "%1 отне операторските права в канала от %2."
 
-#: ../../../protocols/irc/src/ircchannel.cpp:399
+#: ../../../protocols/irc/src/ircchannel.cpp:400
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 takes channel halfop privileges from %2."
 msgstr "%1 отне полуоператорските права в канала от %2."
 
-#: ../../../protocols/irc/src/ircchannel.cpp:401
+#: ../../../protocols/irc/src/ircchannel.cpp:402
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 takes the permission to talk from %2."
@@ -536,47 +536,47 @@ msgctxt "qutim_sdk_0_3::irc::ChannelsModel|"
 msgid "Topic"
 msgstr "Тема"
 
-#: ../../../protocols/irc/src/ircaccount.cpp:83
+#: ../../../protocols/irc/src/ircaccount.cpp:87
 msgctxt "qutim_sdk_0_3::irc::IrcAccount|"
 msgid "Away"
 msgstr "Отсъствам"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:186
+#: ../../../protocols/irc/src/ircchannel.cpp:197
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "You are now known as %1"
 msgstr "В момента се подвизавате като %1"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:209
+#: ../../../protocols/irc/src/ircchannel.cpp:208
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 are now known as %2"
 msgstr "%1 вече се подвизава като %2"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:270
+#: ../../../protocols/irc/src/ircchannel.cpp:269
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 (%2) has joined the channel"
 msgstr "%1 (%2) се присъедини към канала"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:281
+#: ../../../protocols/irc/src/ircchannel.cpp:280
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "You left this channel (%1)"
 msgstr "Напуснахте канала (%1)"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:283
+#: ../../../protocols/irc/src/ircchannel.cpp:282
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "You left this channel"
 msgstr "Напуснахте канала"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:290
+#: ../../../protocols/irc/src/ircchannel.cpp:289
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has left this channel (%2)"
 msgstr "%1 напусна канала (%2)"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:292
+#: ../../../protocols/irc/src/ircchannel.cpp:291
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has left this channel"
@@ -606,13 +606,13 @@ msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has kicked %2"
 msgstr "%1 изрита %2"
 
-#: ../../../protocols/irc/src/ircchannel.cpp:337
+#: ../../../protocols/irc/src/ircchannel.cpp:338
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "The channel topic is \"%1\""
 msgstr "Заглавието на канала е \"%1\""
 
-#: ../../../protocols/irc/src/ircchannel.cpp:346
+#: ../../../protocols/irc/src/ircchannel.cpp:347
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "The topic was set by %1 on %2."

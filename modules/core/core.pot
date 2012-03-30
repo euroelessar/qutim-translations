@@ -958,12 +958,12 @@ msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
 msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:155
+#: ../../../core/src/widgets/profilecreationpage.cpp:158
 msgctxt "Core::ProfileCreationPage|"
 msgid "Error"
 msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:156
+#: ../../../core/src/widgets/profilecreationpage.cpp:159
 #, qt-format
 msgctxt "Core::ProfileCreationPage|"
 msgid ""
@@ -971,23 +971,23 @@ msgid ""
 "a protected system directory"
 msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:169
-#: ../../../core/src/widgets/profilecreationpage.cpp:177
+#: ../../../core/src/widgets/profilecreationpage.cpp:172
+#: ../../../core/src/widgets/profilecreationpage.cpp:180
 msgctxt "Core::ProfileCreationPage|"
 msgid "Warning"
 msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:170
+#: ../../../core/src/widgets/profilecreationpage.cpp:173
 msgctxt "Core::ProfileCreationPage|"
 msgid "Profile already exists, overwrite?"
 msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:177
+#: ../../../core/src/widgets/profilecreationpage.cpp:180
 msgctxt "Core::ProfileCreationPage|"
 msgid "Unable to create profile hash"
 msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:302
+#: ../../../core/src/widgets/profilecreationpage.cpp:305
 msgctxt "Core::ProfileCreationPage|"
 msgid "Select path"
 msgstr ""
@@ -2463,13 +2463,13 @@ msgid "Mobile settings widget set for notifications"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:101
-#: ../../../core/src/corelayers/localization/localizationplugin.cpp:37
+#: ../../../core/src/corelayers/localization/localizationplugin.cpp:39
 msgctxt "Plugin|"
 msgid "Localization"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:102
-#: ../../../core/src/corelayers/localization/localizationplugin.cpp:38
+#: ../../../core/src/corelayers/localization/localizationplugin.cpp:40
 msgctxt "Plugin|"
 msgid "Default qutIM localization engine"
 msgstr ""
@@ -2670,37 +2670,52 @@ msgstr ""
 
 #: ../../../core/src/widgets/profilecreationpage.ui:69
 msgctxt "ProfileCreationPage|"
-msgid "Config dir:"
+msgid "Show advanced settings"
 msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.ui:81
-#: ../../../core/src/widgets/profilecreationpage.ui:95
-#: ../../../core/src/widgets/profilecreationpage.ui:109
+#: ../../../core/src/widgets/profilecreationpage.ui:76
 msgctxt "ProfileCreationPage|"
-msgid "..."
+msgid "Advanced settings"
 msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.ui:118
+#: ../../../core/src/widgets/profilecreationpage.ui:82
 msgctxt "ProfileCreationPage|"
-msgid "History dir:"
+msgid "Download clients icons from qutim.org server"
 msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.ui:125
-msgctxt "ProfileCreationPage|"
-msgid "Data dir:"
-msgstr ""
-
-#: ../../../core/src/widgets/profilecreationpage.ui:132
+#: ../../../core/src/widgets/profilecreationpage.ui:92
 msgctxt "ProfileCreationPage|"
 msgid "Store data at application dir"
 msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.ui:152
+#: ../../../core/src/widgets/profilecreationpage.ui:99
+msgctxt "ProfileCreationPage|"
+msgid "Config dir:"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:111
+#: ../../../core/src/widgets/profilecreationpage.ui:132
+#: ../../../core/src/widgets/profilecreationpage.ui:153
+msgctxt "ProfileCreationPage|"
+msgid "..."
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:120
+msgctxt "ProfileCreationPage|"
+msgid "History dir:"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:141
+msgctxt "ProfileCreationPage|"
+msgid "Data dir:"
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:162
 msgctxt "ProfileCreationPage|"
 msgid "Choose cryptograhic module:"
 msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.ui:159
+#: ../../../core/src/widgets/profilecreationpage.ui:182
 msgctxt "ProfileCreationPage|"
 msgid "Choose config backend:"
 msgstr ""

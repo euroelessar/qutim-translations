@@ -985,12 +985,12 @@ msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
 msgstr "<b>веб-страница:</b> <a href=\"%1\">%1</a><br/>"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:155
+#: ../../../core/src/widgets/profilecreationpage.cpp:158
 msgctxt "Core::ProfileCreationPage|"
 msgid "Error"
 msgstr "Ошибка"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:156
+#: ../../../core/src/widgets/profilecreationpage.cpp:159
 #, qt-format
 msgctxt "Core::ProfileCreationPage|"
 msgid ""
@@ -1000,23 +1000,23 @@ msgstr ""
 "Не удалось создать каталок %1. Возможно вы пытаетесь создать каталог в "
 "защищенной системной области"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:169
-#: ../../../core/src/widgets/profilecreationpage.cpp:177
+#: ../../../core/src/widgets/profilecreationpage.cpp:172
+#: ../../../core/src/widgets/profilecreationpage.cpp:180
 msgctxt "Core::ProfileCreationPage|"
 msgid "Warning"
 msgstr "Предупреждение"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:170
+#: ../../../core/src/widgets/profilecreationpage.cpp:173
 msgctxt "Core::ProfileCreationPage|"
 msgid "Profile already exists, overwrite?"
 msgstr "Профиль уже существует, перезаписать?"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:177
+#: ../../../core/src/widgets/profilecreationpage.cpp:180
 msgctxt "Core::ProfileCreationPage|"
 msgid "Unable to create profile hash"
 msgstr "Не удалось создать хэш профиля"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:302
+#: ../../../core/src/widgets/profilecreationpage.cpp:305
 msgctxt "Core::ProfileCreationPage|"
 msgid "Select path"
 msgstr "Укажите путь"
@@ -2512,13 +2512,13 @@ msgid "Mobile settings widget set for notifications"
 msgstr "Мобильный диалог настроек уведомлений"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:101
-#: ../../../core/src/corelayers/localization/localizationplugin.cpp:37
+#: ../../../core/src/corelayers/localization/localizationplugin.cpp:39
 msgctxt "Plugin|"
 msgid "Localization"
 msgstr "Локализация"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:102
-#: ../../../core/src/corelayers/localization/localizationplugin.cpp:38
+#: ../../../core/src/corelayers/localization/localizationplugin.cpp:40
 msgctxt "Plugin|"
 msgid "Default qutIM localization engine"
 msgstr "Движок перевода qutIM"
@@ -2720,38 +2720,55 @@ msgid "Used for profile identification"
 msgstr "Используется для определения профиля"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:69
+#, fuzzy
 msgctxt "ProfileCreationPage|"
-msgid "Config dir:"
-msgstr "Папка с настройками:"
+msgid "Show advanced settings"
+msgstr "Настройки горячих клавиш"
 
-#: ../../../core/src/widgets/profilecreationpage.ui:81
-#: ../../../core/src/widgets/profilecreationpage.ui:95
-#: ../../../core/src/widgets/profilecreationpage.ui:109
+#: ../../../core/src/widgets/profilecreationpage.ui:76
+#, fuzzy
 msgctxt "ProfileCreationPage|"
-msgid "..."
-msgstr "..."
+msgid "Advanced settings"
+msgstr "Настройки учетной записи"
 
-#: ../../../core/src/widgets/profilecreationpage.ui:118
+#: ../../../core/src/widgets/profilecreationpage.ui:82
 msgctxt "ProfileCreationPage|"
-msgid "History dir:"
-msgstr "Папка с историей:"
+msgid "Download clients icons from qutim.org server"
+msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.ui:125
-msgctxt "ProfileCreationPage|"
-msgid "Data dir:"
-msgstr "Папка с общими файлами:"
-
-#: ../../../core/src/widgets/profilecreationpage.ui:132
+#: ../../../core/src/widgets/profilecreationpage.ui:92
 msgctxt "ProfileCreationPage|"
 msgid "Store data at application dir"
 msgstr "Переносной режим, настройки рядом с программой"
 
-#: ../../../core/src/widgets/profilecreationpage.ui:152
+#: ../../../core/src/widgets/profilecreationpage.ui:99
+msgctxt "ProfileCreationPage|"
+msgid "Config dir:"
+msgstr "Папка с настройками:"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:111
+#: ../../../core/src/widgets/profilecreationpage.ui:132
+#: ../../../core/src/widgets/profilecreationpage.ui:153
+msgctxt "ProfileCreationPage|"
+msgid "..."
+msgstr "..."
+
+#: ../../../core/src/widgets/profilecreationpage.ui:120
+msgctxt "ProfileCreationPage|"
+msgid "History dir:"
+msgstr "Папка с историей:"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:141
+msgctxt "ProfileCreationPage|"
+msgid "Data dir:"
+msgstr "Папка с общими файлами:"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:162
 msgctxt "ProfileCreationPage|"
 msgid "Choose cryptograhic module:"
 msgstr "Выберите модуль шифрования:"
 
-#: ../../../core/src/widgets/profilecreationpage.ui:159
+#: ../../../core/src/widgets/profilecreationpage.ui:182
 msgctxt "ProfileCreationPage|"
 msgid "Choose config backend:"
 msgstr "Выберите модуль хранения настроек:"

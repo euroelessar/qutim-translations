@@ -187,17 +187,17 @@ msgctxt "JabberSettings|"
 msgid "Path to file"
 msgstr "Путь к файлу"
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:100
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:99
 msgctxt "NowPlaying|"
 msgid "Now Playing"
 msgstr "Сейчас играет"
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:286
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:292
 msgctxt "NowPlaying|"
 msgid "Stop now playing"
 msgstr "Остановить фонограф"
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:287
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:293
 msgctxt "NowPlaying|"
 msgid "Start now playing"
 msgstr "Включить фонограф"

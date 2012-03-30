@@ -1392,12 +1392,12 @@ msgctxt "Jabber::XmlConsole|"
 msgid "Close"
 msgstr "Schließen"
 
-#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:400
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:403
 msgctxt "Jabber::XmlConsole|"
 msgid "Save XMPP log to file"
 msgstr "In Logdatei speichern"
 
-#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:401
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:404
 msgctxt "Jabber::XmlConsole|"
 msgid "OpenDocument Format (*.odf);;HTML file (*.html);;Plain text (*.txt)"
 msgstr "OpenDocument Format (*.odf);;HTML Datei (*.html);;Text (*.txt)"
@@ -2413,7 +2413,7 @@ msgctxt "XmlConsole|"
 msgid "Filter"
 msgstr "Filtern"
 
-#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui:43
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui:40
 msgctxt "XmlConsole|"
 msgid "Save log"
 msgstr "Speichern..."
