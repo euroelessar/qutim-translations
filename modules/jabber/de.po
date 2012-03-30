@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-03-28 07:42+0000\n"
-"PO-Revision-Date: 2012-03-25 21:37+0000\n"
+"PO-Revision-Date: 2012-03-29 17:22+0000\n"
 "Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-29 05:20+0000\n"
+"X-Launchpad-Export-Date: 2012-03-30 05:19+0000\n"
 "X-Generator: Launchpad (build 15032)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: de\n"
@@ -1181,7 +1181,7 @@ msgstr " Moderator"
 #, qt-format
 msgctxt "Jabber::JMUCSession|"
 msgid "Conference \"%1\" requires you to fill the captcha to enter the room"
-msgstr ""
+msgstr "Um den Chatraum \"%1\" zu betreten, muss das Captcha abgetippt werden"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:571
 msgctxt "Jabber::JMUCSession|"
@@ -1191,32 +1191,32 @@ msgstr "Thema:"
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:157
 msgctxt "Jabber::JMUCUser|"
 msgid "Owner"
-msgstr ""
+msgstr "Besitzer"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:160
 msgctxt "Jabber::JMUCUser|"
 msgid "Administrator"
-msgstr ""
+msgstr "Administrator"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:163
 msgctxt "Jabber::JMUCUser|"
 msgid "Registered member"
-msgstr ""
+msgstr "Registrierter Benutzer"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:173
 msgctxt "Jabber::JMUCUser|"
 msgid "Moderator"
-msgstr ""
+msgstr "Moderator"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:176
 msgctxt "Jabber::JMUCUser|"
 msgid "Participant"
-msgstr ""
+msgstr "Teilnehmer"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:179
 msgctxt "Jabber::JMUCUser|"
 msgid "Visitor"
-msgstr ""
+msgstr "Besucher"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:101
 msgctxt "Jabber::JMoodChooser|"
