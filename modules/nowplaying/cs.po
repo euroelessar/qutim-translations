@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-23 17:52+0000\n"
+"POT-Creation-Date: 2012-03-30 18:37+0000\n"
 "PO-Revision-Date: 2011-11-15 16:45+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-24 05:37+0000\n"
-"X-Generator: Launchpad (build 14981)\n"
+"X-Launchpad-Export-Date: 2012-03-31 05:36+0000\n"
+"X-Generator: Launchpad (build 15032)\n"
 "X-Qt-Contexts: true\n"
 "Language: cs\n"
 "X-Language: cs\n"
@@ -155,17 +155,17 @@ msgctxt "JabberSettings|"
 msgid "Path to file"
 msgstr "Cesta k souboru"
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:100
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:99
 msgctxt "NowPlaying|"
 msgid "Now Playing"
 msgstr ""
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:286
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:292
 msgctxt "NowPlaying|"
 msgid "Stop now playing"
 msgstr ""
 
-#: ../../../plugins/nowplaying/src/nowplaying.cpp:287
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:293
 msgctxt "NowPlaying|"
 msgid "Start now playing"
 msgstr ""

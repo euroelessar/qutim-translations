@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-28 07:42+0000\n"
+"POT-Creation-Date: 2012-03-30 18:38+0000\n"
 "PO-Revision-Date: 2012-03-29 17:22+0000\n"
 "Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-30 05:19+0000\n"
+"X-Launchpad-Export-Date: 2012-03-31 05:36+0000\n"
 "X-Generator: Launchpad (build 15032)\n"
 "X-Qt-Contexts: true\n"
 "Language: de\n"
@@ -1394,12 +1394,12 @@ msgctxt "Jabber::XmlConsole|"
 msgid "Close"
 msgstr "Schließen"
 
-#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:400
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:403
 msgctxt "Jabber::XmlConsole|"
 msgid "Save XMPP log to file"
 msgstr "In Logdatei speichern"
 
-#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:401
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:404
 msgctxt "Jabber::XmlConsole|"
 msgid "OpenDocument Format (*.odf);;HTML file (*.html);;Plain text (*.txt)"
 msgstr "OpenDocument Format (*.odf);;HTML Datei (*.html);;Text (*.txt)"
@@ -2416,7 +2416,7 @@ msgctxt "XmlConsole|"
 msgid "Filter"
 msgstr "Filtern"
 
-#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui:43
+#: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui:40
 msgctxt "XmlConsole|"
 msgid "Save log"
 msgstr "Speichern..."

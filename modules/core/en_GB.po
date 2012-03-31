@@ -7,14 +7,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-28 07:42+0000\n"
-"PO-Revision-Date: 2012-03-24 01:31+0000\n"
+"POT-Creation-Date: 2012-03-30 18:32+0000\n"
+"PO-Revision-Date: 2012-03-30 22:11+0000\n"
 "Last-Translator: Anthony Harrington <untaintableangel@hotmail.co.uk>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-29 05:20+0000\n"
+"X-Launchpad-Export-Date: 2012-03-31 05:36+0000\n"
 "X-Generator: Launchpad (build 15032)\n"
 "X-Qt-Contexts: true\n"
 "Language: en_GB\n"
@@ -988,12 +988,12 @@ msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
 msgstr "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:155
+#: ../../../core/src/widgets/profilecreationpage.cpp:158
 msgctxt "Core::ProfileCreationPage|"
 msgid "Error"
 msgstr "Error"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:156
+#: ../../../core/src/widgets/profilecreationpage.cpp:159
 #, qt-format
 msgctxt "Core::ProfileCreationPage|"
 msgid ""
@@ -1003,23 +1003,23 @@ msgstr ""
 "Unable to create directory %1. Maybe you are trying to create a directory in "
 "a protected system directory"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:169
-#: ../../../core/src/widgets/profilecreationpage.cpp:177
+#: ../../../core/src/widgets/profilecreationpage.cpp:172
+#: ../../../core/src/widgets/profilecreationpage.cpp:180
 msgctxt "Core::ProfileCreationPage|"
 msgid "Warning"
 msgstr "Warning"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:170
+#: ../../../core/src/widgets/profilecreationpage.cpp:173
 msgctxt "Core::ProfileCreationPage|"
 msgid "Profile already exists, overwrite?"
 msgstr "Profile already exists, overwrite?"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:177
+#: ../../../core/src/widgets/profilecreationpage.cpp:180
 msgctxt "Core::ProfileCreationPage|"
 msgid "Unable to create profile hash"
 msgstr "Unable to create profile hash"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:302
+#: ../../../core/src/widgets/profilecreationpage.cpp:305
 msgctxt "Core::ProfileCreationPage|"
 msgid "Select path"
 msgstr "Select path"
@@ -1178,10 +1178,10 @@ msgid ""
 "themes, icons, sounds may come along with a different "
 "license.</div><br><hr><br>"
 msgstr ""
-"<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 2 "
+"<div><b>qutIM</b> %1 is licensed under GNU General Public Licence, version 2 "
 "or (at your option) any later version.</div><div>qutIM resources such as "
 "themes, icons, sounds may be come along with a different "
-"license.</div><br><hr><br>"
+"licence.</div><br><hr><br>"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:192
 #, qt-format
@@ -1382,7 +1382,7 @@ msgstr "Would you like to send details about your current setup?"
 #: ../../../core/src/widgets/submitpage.cpp:60
 msgctxt "Core::SubmitPage|"
 msgid "Dont's ask me later"
-msgstr "Dont's ask me later"
+msgstr "Don't ask me later"
 
 #: ../../../core/src/widgets/submitpage.cpp:62
 msgctxt "Core::SubmitPage|"
@@ -2503,13 +2503,13 @@ msgid "Mobile settings widget set for notifications"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:101
-#: ../../../core/src/corelayers/localization/localizationplugin.cpp:37
+#: ../../../core/src/corelayers/localization/localizationplugin.cpp:39
 msgctxt "Plugin|"
 msgid "Localization"
 msgstr "Localisation"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:102
-#: ../../../core/src/corelayers/localization/localizationplugin.cpp:38
+#: ../../../core/src/corelayers/localization/localizationplugin.cpp:40
 msgctxt "Plugin|"
 msgid "Default qutIM localization engine"
 msgstr "Default qutIM localisation engine"
@@ -2710,37 +2710,52 @@ msgstr "Used for profile identification"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:69
 msgctxt "ProfileCreationPage|"
-msgid "Config dir:"
-msgstr "Config dir:"
+msgid "Show advanced settings"
+msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.ui:81
-#: ../../../core/src/widgets/profilecreationpage.ui:95
-#: ../../../core/src/widgets/profilecreationpage.ui:109
+#: ../../../core/src/widgets/profilecreationpage.ui:76
 msgctxt "ProfileCreationPage|"
-msgid "..."
-msgstr "..."
+msgid "Advanced settings"
+msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.ui:118
+#: ../../../core/src/widgets/profilecreationpage.ui:82
 msgctxt "ProfileCreationPage|"
-msgid "History dir:"
-msgstr "History dir:"
+msgid "Download clients icons from qutim.org server"
+msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.ui:125
-msgctxt "ProfileCreationPage|"
-msgid "Data dir:"
-msgstr "Data dir:"
-
-#: ../../../core/src/widgets/profilecreationpage.ui:132
+#: ../../../core/src/widgets/profilecreationpage.ui:92
 msgctxt "ProfileCreationPage|"
 msgid "Store data at application dir"
 msgstr "Store data at application dir"
 
-#: ../../../core/src/widgets/profilecreationpage.ui:152
+#: ../../../core/src/widgets/profilecreationpage.ui:99
+msgctxt "ProfileCreationPage|"
+msgid "Config dir:"
+msgstr "Config dir:"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:111
+#: ../../../core/src/widgets/profilecreationpage.ui:132
+#: ../../../core/src/widgets/profilecreationpage.ui:153
+msgctxt "ProfileCreationPage|"
+msgid "..."
+msgstr "..."
+
+#: ../../../core/src/widgets/profilecreationpage.ui:120
+msgctxt "ProfileCreationPage|"
+msgid "History dir:"
+msgstr "History dir:"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:141
+msgctxt "ProfileCreationPage|"
+msgid "Data dir:"
+msgstr "Data dir:"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:162
 msgctxt "ProfileCreationPage|"
 msgid "Choose cryptograhic module:"
 msgstr "Choose cryptographic module:"
 
-#: ../../../core/src/widgets/profilecreationpage.ui:159
+#: ../../../core/src/widgets/profilecreationpage.ui:182
 msgctxt "ProfileCreationPage|"
 msgid "Choose config backend:"
 msgstr "Choose config backend:"

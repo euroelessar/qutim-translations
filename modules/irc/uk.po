@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-27 13:47+0000\n"
+"POT-Creation-Date: 2012-03-30 18:36+0000\n"
 "PO-Revision-Date: 2012-01-23 10:39+0000\n"
 "Last-Translator: Max_ym <kontact.cat@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
@@ -16,8 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2012-03-28 05:47+0000\n"
-"X-Generator: Launchpad (build 15027)\n"
+"X-Launchpad-Export-Date: 2012-03-31 05:36+0000\n"
+"X-Generator: Launchpad (build 15032)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
 
@@ -421,37 +421,37 @@ msgctxt "IRC|"
 msgid "Search channel..."
 msgstr ""
 
-#: ../../../protocols/irc/src/ircchannel.cpp:373
+#: ../../../protocols/irc/src/ircchannel.cpp:374
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 gives channel operator privileges to %2."
 msgstr ""
 
-#: ../../../protocols/irc/src/ircchannel.cpp:375
+#: ../../../protocols/irc/src/ircchannel.cpp:376
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 gives channel halfop privileges to %2."
 msgstr ""
 
-#: ../../../protocols/irc/src/ircchannel.cpp:377
+#: ../../../protocols/irc/src/ircchannel.cpp:378
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 gives %2 the permission to talk."
 msgstr ""
 
-#: ../../../protocols/irc/src/ircchannel.cpp:397
+#: ../../../protocols/irc/src/ircchannel.cpp:398
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 takes channel operator privileges from %2."
 msgstr ""
 
-#: ../../../protocols/irc/src/ircchannel.cpp:399
+#: ../../../protocols/irc/src/ircchannel.cpp:400
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 takes channel halfop privileges from %2."
 msgstr ""
 
-#: ../../../protocols/irc/src/ircchannel.cpp:401
+#: ../../../protocols/irc/src/ircchannel.cpp:402
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 takes the permission to talk from %2."
@@ -541,47 +541,47 @@ msgctxt "qutim_sdk_0_3::irc::ChannelsModel|"
 msgid "Topic"
 msgstr ""
 
-#: ../../../protocols/irc/src/ircaccount.cpp:83
+#: ../../../protocols/irc/src/ircaccount.cpp:87
 msgctxt "qutim_sdk_0_3::irc::IrcAccount|"
 msgid "Away"
 msgstr ""
 
-#: ../../../protocols/irc/src/ircchannel.cpp:186
+#: ../../../protocols/irc/src/ircchannel.cpp:197
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "You are now known as %1"
 msgstr ""
 
-#: ../../../protocols/irc/src/ircchannel.cpp:209
+#: ../../../protocols/irc/src/ircchannel.cpp:208
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 are now known as %2"
 msgstr ""
 
-#: ../../../protocols/irc/src/ircchannel.cpp:270
+#: ../../../protocols/irc/src/ircchannel.cpp:269
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 (%2) has joined the channel"
 msgstr ""
 
-#: ../../../protocols/irc/src/ircchannel.cpp:281
+#: ../../../protocols/irc/src/ircchannel.cpp:280
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "You left this channel (%1)"
 msgstr ""
 
-#: ../../../protocols/irc/src/ircchannel.cpp:283
+#: ../../../protocols/irc/src/ircchannel.cpp:282
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "You left this channel"
 msgstr ""
 
-#: ../../../protocols/irc/src/ircchannel.cpp:290
+#: ../../../protocols/irc/src/ircchannel.cpp:289
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has left this channel (%2)"
 msgstr ""
 
-#: ../../../protocols/irc/src/ircchannel.cpp:292
+#: ../../../protocols/irc/src/ircchannel.cpp:291
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has left this channel"
@@ -611,13 +611,13 @@ msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has kicked %2"
 msgstr ""
 
-#: ../../../protocols/irc/src/ircchannel.cpp:337
+#: ../../../protocols/irc/src/ircchannel.cpp:338
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "The channel topic is \"%1\""
 msgstr ""
 
-#: ../../../protocols/irc/src/ircchannel.cpp:346
+#: ../../../protocols/irc/src/ircchannel.cpp:347
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "The topic was set by %1 on %2."

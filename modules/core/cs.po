@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-28 07:42+0000\n"
+"POT-Creation-Date: 2012-03-30 18:32+0000\n"
 "PO-Revision-Date: 2012-03-24 01:34+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-29 05:20+0000\n"
+"X-Launchpad-Export-Date: 2012-03-31 05:35+0000\n"
 "X-Generator: Launchpad (build 15032)\n"
 "X-Qt-Contexts: true\n"
 "Language: cs\n"
@@ -971,12 +971,12 @@ msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
 msgstr "<b>Webová stránka:</b> <a href=\"%1\">%1</a><br/>"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:155
+#: ../../../core/src/widgets/profilecreationpage.cpp:158
 msgctxt "Core::ProfileCreationPage|"
 msgid "Error"
 msgstr "Chyba"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:156
+#: ../../../core/src/widgets/profilecreationpage.cpp:159
 #, qt-format
 msgctxt "Core::ProfileCreationPage|"
 msgid ""
@@ -984,23 +984,23 @@ msgid ""
 "a protected system directory"
 msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:169
-#: ../../../core/src/widgets/profilecreationpage.cpp:177
+#: ../../../core/src/widgets/profilecreationpage.cpp:172
+#: ../../../core/src/widgets/profilecreationpage.cpp:180
 msgctxt "Core::ProfileCreationPage|"
 msgid "Warning"
 msgstr "Varování"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:170
+#: ../../../core/src/widgets/profilecreationpage.cpp:173
 msgctxt "Core::ProfileCreationPage|"
 msgid "Profile already exists, overwrite?"
 msgstr "Profil již existuje, přepsat ho?"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:177
+#: ../../../core/src/widgets/profilecreationpage.cpp:180
 msgctxt "Core::ProfileCreationPage|"
 msgid "Unable to create profile hash"
 msgstr "Nelze vytvořit otisk profilu"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:302
+#: ../../../core/src/widgets/profilecreationpage.cpp:305
 msgctxt "Core::ProfileCreationPage|"
 msgid "Select path"
 msgstr "Vyberte cestu"
@@ -2476,13 +2476,13 @@ msgid "Mobile settings widget set for notifications"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:101
-#: ../../../core/src/corelayers/localization/localizationplugin.cpp:37
+#: ../../../core/src/corelayers/localization/localizationplugin.cpp:39
 msgctxt "Plugin|"
 msgid "Localization"
 msgstr "Lokalizace"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:102
-#: ../../../core/src/corelayers/localization/localizationplugin.cpp:38
+#: ../../../core/src/corelayers/localization/localizationplugin.cpp:40
 msgctxt "Plugin|"
 msgid "Default qutIM localization engine"
 msgstr ""
@@ -2683,37 +2683,52 @@ msgstr "Použito pro identifikaci profilu"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:69
 msgctxt "ProfileCreationPage|"
-msgid "Config dir:"
-msgstr "Složka nastavení:"
-
-#: ../../../core/src/widgets/profilecreationpage.ui:81
-#: ../../../core/src/widgets/profilecreationpage.ui:95
-#: ../../../core/src/widgets/profilecreationpage.ui:109
-msgctxt "ProfileCreationPage|"
-msgid "..."
+msgid "Show advanced settings"
 msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.ui:118
+#: ../../../core/src/widgets/profilecreationpage.ui:76
 msgctxt "ProfileCreationPage|"
-msgid "History dir:"
-msgstr "Složka historie:"
+msgid "Advanced settings"
+msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.ui:125
+#: ../../../core/src/widgets/profilecreationpage.ui:82
 msgctxt "ProfileCreationPage|"
-msgid "Data dir:"
-msgstr "Složka pro data:"
+msgid "Download clients icons from qutim.org server"
+msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.ui:132
+#: ../../../core/src/widgets/profilecreationpage.ui:92
 msgctxt "ProfileCreationPage|"
 msgid "Store data at application dir"
 msgstr "Ukládat data ve složce aplikace"
 
-#: ../../../core/src/widgets/profilecreationpage.ui:152
+#: ../../../core/src/widgets/profilecreationpage.ui:99
+msgctxt "ProfileCreationPage|"
+msgid "Config dir:"
+msgstr "Složka nastavení:"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:111
+#: ../../../core/src/widgets/profilecreationpage.ui:132
+#: ../../../core/src/widgets/profilecreationpage.ui:153
+msgctxt "ProfileCreationPage|"
+msgid "..."
+msgstr ""
+
+#: ../../../core/src/widgets/profilecreationpage.ui:120
+msgctxt "ProfileCreationPage|"
+msgid "History dir:"
+msgstr "Složka historie:"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:141
+msgctxt "ProfileCreationPage|"
+msgid "Data dir:"
+msgstr "Složka pro data:"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:162
 msgctxt "ProfileCreationPage|"
 msgid "Choose cryptograhic module:"
 msgstr ""
 
-#: ../../../core/src/widgets/profilecreationpage.ui:159
+#: ../../../core/src/widgets/profilecreationpage.ui:182
 msgctxt "ProfileCreationPage|"
 msgid "Choose config backend:"
 msgstr ""

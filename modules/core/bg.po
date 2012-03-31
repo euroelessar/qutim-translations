@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-28 07:42+0000\n"
-"PO-Revision-Date: 2012-03-27 19:40+0000\n"
+"POT-Creation-Date: 2012-03-30 18:32+0000\n"
+"PO-Revision-Date: 2012-03-30 18:37+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-29 05:20+0000\n"
+"X-Launchpad-Export-Date: 2012-03-31 05:35+0000\n"
 "X-Generator: Launchpad (build 15032)\n"
 "X-Qt-Contexts: true\n"
 "Language: bg\n"
@@ -987,12 +987,12 @@ msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
 msgstr "<b>Страница:</b> <a href=\"%1\">%1</a><br/>"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:155
+#: ../../../core/src/widgets/profilecreationpage.cpp:158
 msgctxt "Core::ProfileCreationPage|"
 msgid "Error"
 msgstr "Грешка"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:156
+#: ../../../core/src/widgets/profilecreationpage.cpp:159
 #, qt-format
 msgctxt "Core::ProfileCreationPage|"
 msgid ""
@@ -1002,23 +1002,23 @@ msgstr ""
 "Невъзможно е да бъде създадена директорията %1. Вероятно се опитвате да "
 "сторите това в защитена системна директория"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:169
-#: ../../../core/src/widgets/profilecreationpage.cpp:177
+#: ../../../core/src/widgets/profilecreationpage.cpp:172
+#: ../../../core/src/widgets/profilecreationpage.cpp:180
 msgctxt "Core::ProfileCreationPage|"
 msgid "Warning"
 msgstr "Внимание"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:170
+#: ../../../core/src/widgets/profilecreationpage.cpp:173
 msgctxt "Core::ProfileCreationPage|"
 msgid "Profile already exists, overwrite?"
 msgstr "Профилът вече съществува, желаете ли да бъде презаписан?"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:177
+#: ../../../core/src/widgets/profilecreationpage.cpp:180
 msgctxt "Core::ProfileCreationPage|"
 msgid "Unable to create profile hash"
 msgstr "Невъзможно е създаването на хеш за профила"
 
-#: ../../../core/src/widgets/profilecreationpage.cpp:302
+#: ../../../core/src/widgets/profilecreationpage.cpp:305
 msgctxt "Core::ProfileCreationPage|"
 msgid "Select path"
 msgstr "Избор на път"
@@ -2525,13 +2525,13 @@ msgid "Mobile settings widget set for notifications"
 msgstr "Набор от настройка на уведомленията за мобилни устройства"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:101
-#: ../../../core/src/corelayers/localization/localizationplugin.cpp:37
+#: ../../../core/src/corelayers/localization/localizationplugin.cpp:39
 msgctxt "Plugin|"
 msgid "Localization"
 msgstr "Локализация"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:102
-#: ../../../core/src/corelayers/localization/localizationplugin.cpp:38
+#: ../../../core/src/corelayers/localization/localizationplugin.cpp:40
 msgctxt "Plugin|"
 msgid "Default qutIM localization engine"
 msgstr "Подразбираща се за qutIM работа с локали"
@@ -2741,37 +2741,52 @@ msgstr "Използва се за идентифициране на профи�
 
 #: ../../../core/src/widgets/profilecreationpage.ui:69
 msgctxt "ProfileCreationPage|"
-msgid "Config dir:"
-msgstr "Директория на конфигурацията:"
+msgid "Show advanced settings"
+msgstr "Да се показват разширени настройки"
 
-#: ../../../core/src/widgets/profilecreationpage.ui:81
-#: ../../../core/src/widgets/profilecreationpage.ui:95
-#: ../../../core/src/widgets/profilecreationpage.ui:109
+#: ../../../core/src/widgets/profilecreationpage.ui:76
 msgctxt "ProfileCreationPage|"
-msgid "..."
-msgstr "..."
+msgid "Advanced settings"
+msgstr "Разширени настройки"
 
-#: ../../../core/src/widgets/profilecreationpage.ui:118
+#: ../../../core/src/widgets/profilecreationpage.ui:82
 msgctxt "ProfileCreationPage|"
-msgid "History dir:"
-msgstr "Директория на хронологията:"
+msgid "Download clients icons from qutim.org server"
+msgstr "Иконите на клиентите да се вземат от сървъра на qutim.org"
 
-#: ../../../core/src/widgets/profilecreationpage.ui:125
-msgctxt "ProfileCreationPage|"
-msgid "Data dir:"
-msgstr "Директория на данните:"
-
-#: ../../../core/src/widgets/profilecreationpage.ui:132
+#: ../../../core/src/widgets/profilecreationpage.ui:92
 msgctxt "ProfileCreationPage|"
 msgid "Store data at application dir"
 msgstr "Да се записват данните в директорията на приложението"
 
-#: ../../../core/src/widgets/profilecreationpage.ui:152
+#: ../../../core/src/widgets/profilecreationpage.ui:99
+msgctxt "ProfileCreationPage|"
+msgid "Config dir:"
+msgstr "Директория на конфигурацията:"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:111
+#: ../../../core/src/widgets/profilecreationpage.ui:132
+#: ../../../core/src/widgets/profilecreationpage.ui:153
+msgctxt "ProfileCreationPage|"
+msgid "..."
+msgstr "..."
+
+#: ../../../core/src/widgets/profilecreationpage.ui:120
+msgctxt "ProfileCreationPage|"
+msgid "History dir:"
+msgstr "Директория на хронологията:"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:141
+msgctxt "ProfileCreationPage|"
+msgid "Data dir:"
+msgstr "Директория на данните:"
+
+#: ../../../core/src/widgets/profilecreationpage.ui:162
 msgctxt "ProfileCreationPage|"
 msgid "Choose cryptograhic module:"
 msgstr "Модул за шифроване:"
 
-#: ../../../core/src/widgets/profilecreationpage.ui:159
+#: ../../../core/src/widgets/profilecreationpage.ui:182
 msgctxt "ProfileCreationPage|"
 msgid "Choose config backend:"
 msgstr "Тип на конфигурационните файлове:"
