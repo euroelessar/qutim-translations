@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-02-19 16:52+0000\n"
-"PO-Revision-Date: 2012-02-28 19:33+0000\n"
+"PO-Revision-Date: 2012-03-30 22:09+0000\n"
 "Last-Translator: Anthony Harrington <untaintableangel@hotmail.co.uk>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-29 05:23+0000\n"
-"X-Generator: Launchpad (build 14874)\n"
+"X-Launchpad-Export-Date: 2012-03-31 05:36+0000\n"
+"X-Generator: Launchpad (build 15032)\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:30
@@ -282,28 +282,28 @@ msgstr "Send"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:198
 msgctxt "Main|"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:216
 msgctxt "Main|"
 msgid "Would you like to send details about your current setup?"
-msgstr ""
+msgstr "Would you like to send details about your current setup?"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:223
 msgctxt "Main|"
 msgid "Dont's ask me later"
-msgstr ""
+msgstr "Don't ask me later"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:229
 msgctxt "Main|"
 msgid "Information to be transferred to the qutIM's authors:"
-msgstr ""
+msgstr "Information to be transfered to the qutIM's authors:"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/aboutdialogwrapper.cpp:53
 #, qt-format
 msgctxt "MeegoIntegration::AboutDialogWrapper|"
 msgid "Based on Qt %1 (%2 bit)."
-msgstr ""
+msgstr "Based on Qt %1 (%2 bit)."
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/aboutdialogwrapper.cpp:56
 #, qt-format
@@ -314,29 +314,33 @@ msgid ""
 "themes, icons, sounds may come along with a different license.</"
 "div><br><hr><br>"
 msgstr ""
+"<div><b>qutIM</b> %1 is licensed under GNU General Public Licence, version 2 "
+"or (at your option) any later version.</div><div>qutIM resources such as "
+"themes, icons, sounds may be come along with a different licence.</"
+"div><br><hr><br>"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:143
 msgctxt "MeegoIntegration::AccountCreatorList|"
 msgid "Properties"
-msgstr ""
+msgstr "Properties"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:144
 msgctxt "MeegoIntegration::AccountCreatorList|"
 msgid "Account settings"
-msgstr ""
+msgstr "Account settings"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:152
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:154
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:193
 msgctxt "MeegoIntegration::AccountCreatorList|"
 msgid "Remove account"
-msgstr ""
+msgstr "Remove account"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:194
 #, qt-format
 msgctxt "MeegoIntegration::AccountCreatorList|"
 msgid "Are you sure want to remove %1"
-msgstr ""
+msgstr "Are you sure want to remove %1?"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/passworddialogwrapper.cpp:38
 msgctxt "MeegoIntegration::PasswordDialogWrapper|"

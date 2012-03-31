@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-28 07:42+0000\n"
-"PO-Revision-Date: 2012-03-27 19:40+0000\n"
+"POT-Creation-Date: 2012-03-30 18:32+0000\n"
+"PO-Revision-Date: 2012-03-30 18:37+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-29 05:20+0000\n"
+"X-Launchpad-Export-Date: 2012-03-31 05:35+0000\n"
 "X-Generator: Launchpad (build 15032)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: bg\n"
@@ -2738,22 +2738,20 @@ msgctxt "ProfileCreationPage|"
 msgid "Used for profile identification"
 msgstr "Използва се за идентифициране на профила"
 
-#: ../../../core/src/widgets/profilecreationpage.ui:69
-#, fuzzy
+#: ../../../core/src/widgets/profilecreationpage.ui:99
 msgctxt "ProfileCreationPage|"
 msgid "Show advanced settings"
-msgstr "Настройка на бързи клавиши"
+msgstr "Да се показват разширени настройки"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:76
-#, fuzzy
 msgctxt "ProfileCreationPage|"
 msgid "Advanced settings"
-msgstr "Настройки на сметката"
+msgstr "Разширени настройки"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:82
 msgctxt "ProfileCreationPage|"
 msgid "Download clients icons from qutim.org server"
-msgstr ""
+msgstr "Иконите на клиентите да се вземат от сървъра на qutim.org"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:92
 msgctxt "ProfileCreationPage|"
