@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-30 18:32+0000\n"
-"PO-Revision-Date: 2012-03-24 01:35+0000\n"
-"Last-Translator: Max_ym <kontact.cat@gmail.com>\n"
+"PO-Revision-Date: 2012-04-01 17:06+0000\n"
+"Last-Translator: UaHummer <uahummer@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-31 05:36+0000\n"
+"X-Launchpad-Export-Date: 2012-04-02 04:53+0000\n"
 "X-Generator: Launchpad (build 15032)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
@@ -1209,13 +1209,13 @@ msgstr "Без міток"
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
-msgstr "Ви бажаєте злити контакти \"%1\" <%2> і \"%3\" <%4>?"
+msgstr "Ви бажаєте об’єднати контакти \"%1\" <%2> і \"%3\" <%4>?"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:503
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge metacontacts \"%1\" and \"%2\"?"
-msgstr "Ви бажаєте злити мета-контакти \"%1\" і \"%2\"?"
+msgstr "Ви бажаєте об’єднати мета-контакти \"%1\" і \"%2\"?"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:506
 #, qt-format
@@ -1226,7 +1226,7 @@ msgstr "Ви бажаєте додати \"%1\" <%2> до мета-контак�
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:513
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Contacts' merging"
-msgstr "Контакти зливаються"
+msgstr "Контакти об’єднуються"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:184
 msgctxt "Core::SimpleContactList::Module|"
