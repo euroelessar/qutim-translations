@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-23 17:51+0000\n"
-"PO-Revision-Date: 2012-04-01 15:04+0000\n"
-"Last-Translator: UaHummer <uahummer@gmail.com>\n"
+"PO-Revision-Date: 2012-04-02 14:47+0000\n"
+"Last-Translator: fishi <fishi@i.ua>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-02 04:53+0000\n"
-"X-Generator: Launchpad (build 15032)\n"
+"X-Launchpad-Export-Date: 2012-04-03 05:36+0000\n"
+"X-Generator: Launchpad (build 15052)\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:356
@@ -87,7 +87,7 @@ msgstr "(Автовідповідь)"
 #: ../../../plugins/adiumwebview/src/adiumwebviewfactory.cpp:40
 msgctxt "Settings|"
 msgid "Chat"
-msgstr ""
+msgstr "Чат"
 
 #: ../../../plugins/adiumwebview/__custom_json_from_styles.cpp:1
 msgctxt "Style|"
@@ -102,7 +102,7 @@ msgstr "Розмір аватара"
 #: ../../../plugins/adiumwebview/__custom_json_from_styles.cpp:3
 msgctxt "Style|"
 msgid "Contact nick color"
-msgstr ""
+msgstr "Колір нікнейму користувача"
 
 #: ../../../plugins/adiumwebview/__custom_json_from_styles.cpp:4
 msgctxt "Style|"
@@ -142,7 +142,7 @@ msgstr "Форма"
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:44
 msgctxt "chatAppearance|"
 msgid "Message styles:"
-msgstr ""
+msgstr "Стиль повідомлень:"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:61
 msgctxt "chatAppearance|"
@@ -162,12 +162,12 @@ msgstr ""
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:92
 msgctxt "chatAppearance|"
 msgid "Text display:"
-msgstr ""
+msgstr "Відображення тексту:"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:121
 msgctxt "chatAppearance|"
 msgid "Set font..."
-msgstr ""
+msgstr "Встановити шрифт..."
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:128
 msgctxt "chatAppearance|"
@@ -182,7 +182,7 @@ msgstr "Фон:"
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:144
 msgctxt "chatAppearance|"
 msgid "Use custom background"
-msgstr ""
+msgstr "Використовувати власний фон"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:183
 msgctxt "chatAppearance|"
@@ -202,17 +202,17 @@ msgstr "По центру"
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:207
 msgctxt "chatAppearance|"
 msgid "Tiled"
-msgstr ""
+msgstr "Мозаїка"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:212
 msgctxt "chatAppearance|"
 msgid "Tiled (Centered)"
-msgstr ""
+msgstr "Мозаїка (центр)"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:217
 msgctxt "chatAppearance|"
 msgid "Scaled"
-msgstr ""
+msgstr "Масштабовано"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:225
 msgctxt "chatAppearance|"
