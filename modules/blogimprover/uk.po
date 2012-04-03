@@ -8,39 +8,39 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-30 18:43+0000\n"
-"PO-Revision-Date: 2012-04-01 16:09+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2012-04-02 16:35+0000\n"
+"Last-Translator: UaHummer <uahummer@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-02 04:53+0000\n"
-"X-Generator: Launchpad (build 15032)\n"
+"X-Launchpad-Export-Date: 2012-04-03 05:36+0000\n"
+"X-Generator: Launchpad (build 15052)\n"
 
 #: ../../../plugins/blogimprover/src/blogimproversettings.ui:14
 msgctxt "BlogImproverSettingsForm|"
 msgid "Form"
-msgstr ""
+msgstr "Форма"
 
 #: ../../../plugins/blogimprover/src/blogimproversettings.ui:23
 msgctxt "BlogImproverSettingsForm|"
 msgid "Enable Psto integration"
-msgstr ""
+msgstr "Увімкнути інтеграцію з Psto"
 
 #: ../../../plugins/blogimprover/src/blogimproversettings.ui:33
 msgctxt "BlogImproverSettingsForm|"
 msgid "Enable Juick integration"
-msgstr ""
+msgstr "Увімкнути інтеграцію з Juick"
 
 #: ../../../plugins/blogimprover/src/blogimproversettings.ui:43
 msgctxt "BlogImproverSettingsForm|"
 msgid "Enable Bnw integration"
-msgstr ""
+msgstr "Увімкнути інтеграцію з Bnw"
 
 #: ../../../plugins/blogimprover/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
 msgid "BlogImprover plugin"
-msgstr ""
+msgstr "Плагін інтеграції з блогами"
 
 #: ../../../plugins/blogimprover/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/blogimprover/src/blogimproverplugin.cpp:37

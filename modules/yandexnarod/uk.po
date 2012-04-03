@@ -1,0 +1,245 @@
+# Ukrainian translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-03-23 17:52+0000\n"
+"PO-Revision-Date: 2012-04-02 15:19+0000\n"
+"Last-Translator: fishi <fishi@i.ua>\n"
+"Language-Team: Ukrainian <uk@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-04-03 05:36+0000\n"
+"X-Generator: Launchpad (build 15052)\n"
+
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:58
+msgctxt "Author|"
+msgid "Alexey Prokhin"
+msgstr "Олексій Прохін"
+
+#: ../../../plugins/yandexnarod/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:52
+msgctxt "Plugin|"
+msgid "YandexNarod"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:53
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:63
+msgctxt "Plugin|"
+msgid "Send files via Yandex.Narod filehosting service"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:62
+msgctxt "Plugin|"
+msgid "Yandex.Narod"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:59
+msgctxt "Task|"
+msgid "Author"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:73
+msgctxt "Yandex|"
+msgid "Yandex Narod"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:99
+msgctxt "YandexNarodAuthorizator|"
+msgid "Has no login or password"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:108
+msgctxt "YandexNarodAuthorizator|"
+msgid "Authorization succeed"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:112
+msgctxt "YandexNarodAuthorizator|"
+msgid "Authorization failured"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:177
+msgctxt "YandexNarodAuthorizator|"
+msgid "Unsupported grant type. Inform developers."
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:179
+msgctxt "YandexNarodAuthorizator|"
+msgid "Invalid request. Inform developers."
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:181
+msgctxt "YandexNarodAuthorizator|"
+msgid "Invalid login or/and password"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:196
+msgctxt "YandexNarodFactory|"
+msgid "Yandex.Narod"
+msgstr "Яндекс.Народ"
+
+#: ../../../plugins/yandexnarod/src/yandexnarodmanage.cpp:35
+msgctxt "YandexNarodManager|"
+msgid "Yandex.Narod file manager"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnarodnetman.cpp:150
+msgctxt "YandexNarodNetMan|"
+msgid "Authorizing..."
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:14
+#: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:30
+msgctxt "YandexNarodSettingsClass|"
+msgid "Settings"
+msgstr "Налаштування"
+
+#: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:54
+msgctxt "YandexNarodSettingsClass|"
+msgid "Password"
+msgstr "Пароль"
+
+#: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:74
+msgctxt "YandexNarodSettingsClass|"
+msgid "Login"
+msgstr "Увійти"
+
+#: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:81
+msgctxt "YandexNarodSettingsClass|"
+msgid "Test Authorization"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:88
+msgctxt "YandexNarodSettingsClass|"
+msgid "status"
+msgstr "статус"
+
+#: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:111
+msgctxt "YandexNarodSettingsClass|"
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Liberation Sans'; font-size:10pt; "
+"font-weight:400; font-style:normal;\">\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
+"family:'Verdana'; font-size:8pt;\"></p></body></html>"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:122
+msgctxt "YandexNarodSettingsClass|"
+msgid "Send file template"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:135
+msgctxt "YandexNarodSettingsClass|"
+msgid "%N - file name; %U - file URL; %S - file size"
+msgstr "%N - назва файлу; %U - URL файлу; %S - розмір файлу"
+
+#: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:145
+msgctxt "YandexNarodSettingsClass|"
+msgid "Manage files"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:136
+msgctxt "YandexNarodUploadJob|"
+msgid "Authorizing..."
+msgstr "Авторизація..."
+
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:159
+msgctxt "YandexNarodUploadJob|"
+msgid "Getting storage..."
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:223
+#, qt-format
+msgctxt "YandexNarodUploadJob|"
+msgid "Could not open file %1"
+msgstr "Не вдалося відкрити файл %1"
+
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:347
+msgctxt "YandexNarodUploadJob|Don't remove format arguments"
+msgid ""
+"File sent: %N (%S bytes)\n"
+"%U"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/requestauthdialog.ui:26
+msgctxt "requestAuthDialogClass|"
+msgid "Authorization"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/requestauthdialog.ui:36
+msgctxt "requestAuthDialogClass|"
+msgid "Login:"
+msgstr "Логін:"
+
+#: ../../../plugins/yandexnarod/src/requestauthdialog.ui:53
+msgctxt "requestAuthDialogClass|"
+msgid "Password:"
+msgstr "Пароль:"
+
+#: ../../../plugins/yandexnarod/src/requestauthdialog.ui:73
+msgctxt "requestAuthDialogClass|"
+msgid "Remember"
+msgstr "Запам'ятати"
+
+#: ../../../plugins/yandexnarod/src/requestauthdialog.ui:92
+msgctxt "requestAuthDialogClass|"
+msgid "Captcha:"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:20
+msgctxt "yandexnarodManageClass|"
+msgid "Form"
+msgstr "Форма"
+
+#: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:71
+msgctxt "yandexnarodManageClass|"
+msgid "Get Filelist"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:82
+msgctxt "yandexnarodManageClass|"
+msgid "Upload File"
+msgstr "Завантажити файл"
+
+#: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:126
+msgctxt "yandexnarodManageClass|"
+msgid "Actions:"
+msgstr "Дії:"
+
+#: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:139
+msgctxt "yandexnarodManageClass|"
+msgid "Clipboard"
+msgstr "Буфер обміну"
+
+#: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:159
+msgctxt "yandexnarodManageClass|"
+msgid "Delete File"
+msgstr "Видалити файл"
+
+#: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:252
+msgctxt "yandexnarodManageClass|"
+msgid "Close"
+msgstr "Закрити"
+
+#: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:287
+msgctxt "yandexnarodManageClass|"
+msgid "Files list:"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:304
+msgctxt "yandexnarodManageClass|"
+msgid "New Item"
+msgstr ""
