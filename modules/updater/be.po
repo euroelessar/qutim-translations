@@ -8,20 +8,20 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-30 18:39+0000\n"
-"PO-Revision-Date: 2012-04-02 19:46+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2012-04-04 10:38+0000\n"
+"Last-Translator: Максім Тамковіч <quendimax@gmail.com>\n"
 "Language-Team: Belarusian <be@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-03 05:36+0000\n"
-"X-Generator: Launchpad (build 15052)\n"
+"X-Launchpad-Export-Date: 2012-04-05 05:27+0000\n"
+"X-Generator: Launchpad (build 15060)\n"
 
 #: ../../../plugins/updater/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/updater/src/updater.cpp:49
 msgctxt "Plugin|"
 msgid "Updater"
-msgstr ""
+msgstr "Убудова абнаўленьня"
 
 #: ../../../plugins/updater/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/updater/src/updater.cpp:50
@@ -30,3 +30,5 @@ msgid ""
 "In therory this plugin is auto-updater of qutIM, but currently it updates "
 "only client icons"
 msgstr ""
+"Тэарэтычна, гэтая ўбудова мусіць аўтаматычна абнаўляць qutIM, але цяпер яна "
+"абнаўляе толькі іконкі кліентаў"
