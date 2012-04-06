@@ -659,20 +659,46 @@ msgctxt "ContactInfo|"
 msgid "E-mail"
 msgstr "Email"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:141
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:167
 msgctxt "ContactResource|"
 msgid "Resource"
 msgstr "Ресурс"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:148
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:174
 msgctxt "ContactResource|"
 msgid "Possible client"
 msgstr "Вероятен клиент"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:155
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:181
 msgctxt "ContactResource|"
 msgid "OS"
 msgstr "ОС"
+
+#: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:320
+msgctxt "HttpConnect|"
+msgid "Authentication failed"
+msgstr ""
+
+#: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:324
+msgctxt "HttpConnect|"
+msgid "Host not found"
+msgstr ""
+
+#: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:328
+msgctxt "HttpConnect|"
+msgid "Access denied"
+msgstr ""
+
+#: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:332
+#, fuzzy
+msgctxt "HttpConnect|"
+msgid "Connection refused"
+msgstr "Объркан"
+
+#: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:336
+msgctxt "HttpConnect|"
+msgid "Invalid reply"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.ui:14
 msgctxt "JAccountRegistrationPage|"
@@ -774,160 +800,182 @@ msgctxt "JMainSettings|"
 msgid "Form"
 msgstr "Настройки"
 
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:35
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:26
 msgctxt "JMainSettings|"
 msgid "Default resource:"
 msgstr "Ресурс по подразбиране:"
 
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:45
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:36
 msgctxt "JMainSettings|"
 msgid "Password:"
 msgstr "Парола:"
 
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:59
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:43
 msgctxt "JMainSettings|"
 msgid "Don't send request for avatars"
 msgstr "Да не се изпращат заявки за аватари"
 
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:75
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:59
 msgctxt "JMainSettings|"
 msgid "Listen port for filetransfer:"
 msgstr "Порт за предаване на файлове:"
 
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:101
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:85
 msgctxt "JMainSettings|"
 msgid "Priority depends on status"
 msgstr "Приоритетът да зависи от статуса"
 
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:108
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:91
 msgctxt "JMainSettings|"
 msgid "Online:"
 msgstr "На линия:"
 
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:125
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:108
 msgctxt "JMainSettings|"
 msgid "Free for chat:"
 msgstr "Свободен за разговор:"
 
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:142
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:125
 msgctxt "JMainSettings|"
 msgid "Away:"
 msgstr "Отсъства:"
 
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:159
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:142
 msgctxt "JMainSettings|"
 msgid "NA:"
 msgstr "Недостъпен:"
 
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:176
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:159
 msgctxt "JMainSettings|"
 msgid "DND:"
 msgstr "Не безпокойте:"
 
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:193
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:179
+msgctxt "JMainSettings|"
+msgid "OpenPGP"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:198
+msgctxt "JMainSettings|"
+msgid "Select Key"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:205
+#, fuzzy
+msgctxt "JMainSettings|"
+msgid "Use none"
+msgstr "Да се използва шифроване"
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:222
+#, fuzzy
+msgctxt "JMainSettings|"
+msgid "Connection settings"
+msgstr "Автоматично откриване на настройките на връзка"
+
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:228
 msgctxt "JMainSettings|"
 msgid "Autodetect connection settings"
 msgstr "Автоматично откриване на настройките на връзка"
 
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:203
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:238
 msgctxt "JMainSettings|"
 msgid "Server:"
 msgstr "Сървър:"
 
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:217
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:252
 msgctxt "JMainSettings|"
 msgid "Port:"
 msgstr "Порт:"
 
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:234
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:269
 msgctxt "JMainSettings|"
 msgid "Use encryption"
 msgstr "Да се използва шифроване"
 
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:241
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:276
 msgctxt "JMainSettings|"
 msgid "Use compression"
 msgstr "Да се използва компресия"
 
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:249
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:268
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:284
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:303
 msgctxt "JMainSettings|"
 msgid "Always"
 msgstr "Винаги"
 
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:254
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:273
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:289
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:308
 msgctxt "JMainSettings|"
 msgid "Never"
 msgstr "Никога"
 
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:259
-#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:278
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:294
+#: ../../../protocols/jabber/src/protocol/jmainsettings.ui:313
 msgctxt "JMainSettings|"
 msgid "If server has support"
 msgstr "Ако сървъра го поддържа"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:199
+#: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:197
 msgctxt "Jabber|"
 msgid "Name"
 msgstr "Име"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:205
+#: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:203
 msgctxt "Jabber|"
 msgid "Conference"
 msgstr "Конференция"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:215
+#: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:213
 msgctxt "Jabber|"
 msgid "Nick"
 msgstr "Псевдоним"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:220
+#: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:218
 msgctxt "Jabber|"
 msgid "Password"
 msgstr "Парола"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:226
+#: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:224
 msgctxt "Jabber|"
 msgid "Auto-join"
 msgstr "Автоматично присъединяване"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:794
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:798
 msgctxt "Jabber|"
 msgid "You are already in conference with another nick"
 msgstr "Вече сте в конференцията с друг псевдоним"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:810
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:814
 msgctxt "Jabber|"
 msgid "Please select another nickname"
 msgstr "Моля, изберете друг псевдоним"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:202
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:215
 msgctxt "Jabber|"
 msgid "None"
 msgstr "Без"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:205
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:218
 msgctxt "Jabber|"
 msgid "From"
 msgstr "От"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:208
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:221
 msgctxt "Jabber|"
 msgid "To"
 msgstr "До"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:211
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:224
 msgctxt "Jabber|"
 msgid "Both"
 msgstr "И двете"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:214
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:227
 msgctxt "Jabber|"
 msgid "Remove"
 msgstr "Премахване"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:219
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:232
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:231
 msgctxt "Jabber|"
 msgid "Subscription"
@@ -969,12 +1017,12 @@ msgctxt "Jabber|"
 msgid "Xml console"
 msgstr "XML конзола"
 
-#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:241
+#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:242
 msgctxt "Jabber::JAccount|Local qutIM's name"
 msgid "qutIM"
 msgstr "qutIM"
 
-#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:242
+#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:243
 msgctxt "Jabber::JAccount|Default language"
 msgid "en"
 msgstr "Език по подразбиране"
@@ -1047,7 +1095,7 @@ msgctxt "Jabber::JActivityChooserWindow|"
 msgid "No activity"
 msgstr "Без дейност"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:243
+#: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:241
 msgctxt "Jabber::JBookmarkManager|"
 msgid "Unable to join groupchat"
 msgstr "Неуспешно присъединяване към групов разговор"
@@ -1107,85 +1155,85 @@ msgctxt "Jabber::JMUCSession|"
 msgid " is now known as "
 msgstr " сега се подвизава като "
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:394
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:398
 msgctxt "Jabber::JMUCSession|"
 msgid " has joined the room"
 msgstr " влезе в стаята"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:396
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:398
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:400
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:402
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:404
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:406
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:408
 msgctxt "Jabber::JMUCSession|"
 msgid " as"
 msgstr " като"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:396
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:424
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:400
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:428
 msgctxt "Jabber::JMUCSession|"
 msgid " owner"
 msgstr " собственик"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:398
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:426
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:402
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:430
 msgctxt "Jabber::JMUCSession|"
 msgid " administrator"
 msgstr " администратор"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:400
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:432
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:404
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:436
 msgctxt "Jabber::JMUCSession|"
 msgid " registered member"
 msgstr " регистриран член"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:402
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:428
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:440
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:406
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:432
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:444
 msgctxt "Jabber::JMUCSession|"
 msgid " participant"
 msgstr " участник"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:404
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:430
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:436
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:442
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:408
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:434
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:440
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:446
 msgctxt "Jabber::JMUCSession|"
 msgid " visitor"
 msgstr " .посетител"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:414
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:418
 msgctxt "Jabber::JMUCSession|"
 msgid " has left the room"
 msgstr " напусна стаята"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:422
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:426
 msgctxt "Jabber::JMUCSession|"
 msgid " now is"
 msgstr " сега е"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:428
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:430
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:432
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:434
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:436
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:438
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:440
 msgctxt "Jabber::JMUCSession|"
 msgid " and"
 msgstr " и"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:434
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:438
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:442
 msgctxt "Jabber::JMUCSession|"
 msgid " moderator"
 msgstr " модератор"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:523
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:527
 #, qt-format
 msgctxt "Jabber::JMUCSession|"
 msgid "Conference \"%1\" requires you to fill the captcha to enter the room"
 msgstr ""
 "Конференцията \"%1\" изисква попълването на captcha за да се влезе в стаята"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:571
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:575
 msgctxt "Jabber::JMUCSession|"
 msgid "Subject:"
 msgstr "Тема:"
@@ -1220,6 +1268,11 @@ msgctxt "Jabber::JMUCUser|"
 msgid "Visitor"
 msgstr "Посетител"
 
+#: ../../../protocols/jabber/src/protocol/jmainsettings.cpp:53
+msgctxt "Jabber::JMainSettings|"
+msgid "No key selected"
+msgstr ""
+
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:101
 msgctxt "Jabber::JMoodChooser|"
 msgid "Set mood"
@@ -1244,6 +1297,139 @@ msgstr "Избиране"
 msgctxt "Jabber::JMoodChooserWindow|"
 msgid "No mood"
 msgstr "Без настроение"
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.ui:14
+msgctxt "Jabber::JPGPKeyDialog|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.ui:27
+#, fuzzy
+msgctxt "Jabber::JPGPKeyDialog|"
+msgid "Filter:"
+msgstr "Филтър:"
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.ui:57
+msgctxt "Jabber::JPGPKeyDialog|"
+msgid "Paste ASCII-armored PGP here in field below"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:66
+msgctxt "Jabber::JPGPKeyDialog|"
+msgid "Add key"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:70
+msgctxt "Jabber::JPGPKeyDialog|"
+msgid "Key ID"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:70
+msgctxt "Jabber::JPGPKeyDialog|"
+msgid "User ID"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:135
+msgctxt "Jabber::JPGPKeyDialog|"
+msgid "PGP key importing error"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:135
+msgctxt "Jabber::JPGPKeyDialog|"
+msgid "Provided key is invalid"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:67
+msgctxt "Jabber::JPGPSupport|"
+msgid "Assign PGP key"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:69
+msgctxt "Jabber::JPGPSupport|"
+msgid "Remove PGP key"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:94
+#, fuzzy
+msgctxt "Jabber::JPGPSupport|"
+msgid "Disable PGP encryption"
+msgstr "Да се използва шифроване"
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:97
+#, fuzzy
+msgctxt "Jabber::JPGPSupport|"
+msgid "Enable PGP encryption"
+msgstr "Да се използва шифроване"
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:356
+#, qt-format
+msgctxt "Jabber::JPGPSupport|"
+msgid ""
+"There was an error trying to sign your status.\n"
+"Reason: %1"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:418
+msgctxt "Jabber::JPGPSupport|"
+msgid "[ERROR: This message is encrypted, and you are unable to decrypt it.]"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:537
+#, qt-format
+msgctxt "Jabber::JPGPSupport|"
+msgid "%1 : OpenPGP Passphrase"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:538
+msgctxt "Jabber::JPGPSupport|"
+msgid "Your passphrase is needed to use OpenPGP security."
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:670
+msgctxt "Jabber::JPGPSupport|"
+msgid "Invalid passphrase"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:673
+msgctxt "Jabber::JPGPSupport|"
+msgid "Invalid input format"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:676
+msgctxt "Jabber::JPGPSupport|"
+msgid "Signing key expired"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:679
+msgctxt "Jabber::JPGPSupport|"
+msgid "Invalid key"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:682
+msgctxt "Jabber::JPGPSupport|"
+msgid "Encrypting key expired"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:685
+msgctxt "Jabber::JPGPSupport|"
+msgid "Encrypting key is untrusted"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:688
+msgctxt "Jabber::JPGPSupport|"
+msgid "Encrypting key is invalid"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:691
+msgctxt "Jabber::JPGPSupport|"
+msgid "PGP card is missing"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:694
+#, fuzzy
+msgctxt "Jabber::JPGPSupport|"
+msgid "Unknown error"
+msgstr "Неизвестна грешка"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:262
 msgctxt "Jabber::JProtocol|"
@@ -1277,29 +1463,29 @@ msgctxt "Jabber::JProtocol|"
 msgid "Show client icon"
 msgstr "Да се показват иконите на клиентите"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:146
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:154
 #, qt-format
 msgctxt "Jabber::JRoster|"
 msgid "Contact %1 has been added to roster"
 msgstr "Контактът %1 бе добавен към списъка"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:175
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:183
 #, qt-format
 msgctxt "Jabber::JRoster|"
 msgid "Contact %1 has been removed from roster"
 msgstr "Контактът %1 бе премахнат списъка"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:338
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:373
 msgctxt "Jabber::JRoster|"
 msgid "Received a request for removal from the subscribers"
 msgstr "Получи се заявка за премахване от списъка с абонати"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:346
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:381
 msgctxt "Jabber::JRoster|"
 msgid "You have been removed from the list of subscribers"
 msgstr "Бяхте премахнати от списъка с абонати"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:354
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:389
 msgctxt "Jabber::JRoster|"
 msgid "You have been added to the list of subscribers"
 msgstr "Бяхте добавени в списъка с абонати"

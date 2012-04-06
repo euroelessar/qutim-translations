@@ -56,12 +56,12 @@ msgctxt "Plugin|"
 msgid "Script API scriptapi/src/scriptplugin.cpp-"
 msgstr "Script API scriptapi/src/scriptplugin.cpp-"
 
-#: ../../../plugins/scriptapi/src/scriptplugin.cpp:114
+#: ../../../plugins/scriptapi/src/scriptplugin.cpp:133
 msgctxt "Plugin|"
 msgid "Script API"
 msgstr "Script API"
 
-#: ../../../plugins/scriptapi/src/scriptplugin.cpp:115
+#: ../../../plugins/scriptapi/src/scriptplugin.cpp:134
 msgctxt "Plugin|"
 msgid "Added ability to create plugins at JavaScript"
 msgstr "Ermöglicht JavaScript-Plugins"

@@ -11,16 +11,13 @@ msgstr ""
 "PO-Revision-Date: 2012-04-01 21:51+0000\n"
 "Last-Translator: Yuras' Bratchyk <galaveshka.am@gmail.com>\n"
 "Language-Team: Belarusian <be@li.org>\n"
+"Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-04-02 04:53+0000\n"
 "X-Generator: Launchpad (build 15032)\n"
-
-#: ../../../protocols/oscar/src/connection.cpp:318
-msgctxt "ConnectionError|"
-msgid "Invalid account"
-msgstr "Няслушны конт"
+"X-Qt-Contexts: true\n"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -219,6 +216,11 @@ msgctxt "ConnectionError|"
 msgid "Internal client error (bad input to authorizer)"
 msgstr "Унутраная памылка кліента (уведзены няслушныя дадзеныя аўтарызацыі)"
 
+#: ../../../protocols/oscar/src/connection.cpp:318
+msgctxt "ConnectionError|"
+msgid "Invalid account"
+msgstr "Няслушны конт"
+
 #: ../../../protocols/oscar/src/connection.cpp:320
 msgctxt "ConnectionError|"
 msgid "Deleted account"
@@ -321,8 +323,7 @@ msgstr "Перавышаны час рэзэрваваньня"
 #: ../../../protocols/oscar/src/connection.cpp:358
 msgctxt "ConnectionError|"
 msgid "You are using an older version of ICQ. Upgrade required"
-msgstr ""
-"Вы карыстаецеся надта старой вэрсіяй кліента ICQ. Патрабуецца абноўка"
+msgstr "Вы карыстаецеся надта старой вэрсіяй кліента ICQ. Патрабуецца абноўка"
 
 #: ../../../protocols/oscar/src/connection.cpp:360
 msgctxt "ConnectionError|"
