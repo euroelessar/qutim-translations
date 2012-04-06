@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-03-27 13:46+0000\n"
-"PO-Revision-Date: 2012-03-27 08:56+0000\n"
-"Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
+"PO-Revision-Date: 2012-04-05 15:01+0000\n"
+"Last-Translator: Hamper <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-28 05:48+0000\n"
-"X-Generator: Launchpad (build 15027)\n"
+"X-Launchpad-Export-Date: 2012-04-06 05:08+0000\n"
+"X-Generator: Launchpad (build 15060)\n"
 "X-Qt-Contexts: true\n"
 "Language: ru\n"
 "X-Language: ru\n"
@@ -68,12 +68,12 @@ msgstr "Фанклуб"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:569
 msgctxt "Affiliation|"
 msgid "Fraternity/Sorority"
-msgstr "Братство/Женское общество"
+msgstr "Братства/Женские организации"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:570
 msgctxt "Affiliation|"
 msgid "Hobbyists Org."
-msgstr "Любители хобби"
+msgstr "Клубы по увлечениям"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:571
 msgctxt "Affiliation|"
@@ -93,7 +93,7 @@ msgstr "Профессиональные организации"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:574
 msgctxt "Affiliation|"
 msgid "Scientific/Technical Org."
-msgstr "Научная организация"
+msgstr "Научные/технические организации"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:575
 msgctxt "Affiliation|"
@@ -103,12 +103,12 @@ msgstr "Клубы по саморазвитию"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:576
 msgctxt "Affiliation|"
 msgid "Spiritual/Religious Org."
-msgstr "Духовная/религиозная организация"
+msgstr "Духовные/религиозные организации"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:577
 msgctxt "Affiliation|"
 msgid "Sports Org."
-msgstr "Спорт"
+msgstr "Спортивные организации"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:578
 msgctxt "Affiliation|"
