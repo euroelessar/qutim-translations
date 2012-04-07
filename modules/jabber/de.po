@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-30 18:38+0000\n"
+"POT-Creation-Date: 2012-04-06 23:42+0000\n"
 "PO-Revision-Date: 2012-03-29 17:22+0000\n"
 "Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,8 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-31 05:36+0000\n"
-"X-Generator: Launchpad (build 15032)\n"
+"X-Launchpad-Export-Date: 2012-04-07 05:35+0000\n"
+"X-Generator: Launchpad (build 15060)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
@@ -689,10 +689,9 @@ msgid "Access denied"
 msgstr ""
 
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:332
-#, fuzzy
 msgctxt "HttpConnect|"
 msgid "Connection refused"
-msgstr "Verwirrt"
+msgstr ""
 
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:336
 msgctxt "HttpConnect|"
@@ -860,16 +859,14 @@ msgid "Select Key"
 msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:205
-#, fuzzy
 msgctxt "JMainSettings|"
 msgid "Use none"
-msgstr "Verschlüsselung verwenden"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:222
-#, fuzzy
 msgctxt "JMainSettings|"
 msgid "Connection settings"
-msgstr "Verbindungsdaten automatisch erkennen"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:228
 msgctxt "JMainSettings|"
@@ -1302,10 +1299,9 @@ msgid "Dialog"
 msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.ui:27
-#, fuzzy
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "Filter:"
-msgstr "Filtern:"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.ui:57
 msgctxt "Jabber::JPGPKeyDialog|"
@@ -1348,16 +1344,14 @@ msgid "Remove PGP key"
 msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:94
-#, fuzzy
 msgctxt "Jabber::JPGPSupport|"
 msgid "Disable PGP encryption"
-msgstr "Verschlüsselung verwenden"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:97
-#, fuzzy
 msgctxt "Jabber::JPGPSupport|"
 msgid "Enable PGP encryption"
-msgstr "Verschlüsselung verwenden"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:356
 #, qt-format
@@ -1424,10 +1418,9 @@ msgid "PGP card is missing"
 msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:694
-#, fuzzy
 msgctxt "Jabber::JPGPSupport|"
 msgid "Unknown error"
-msgstr "Unbekannter Fehler"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:262
 msgctxt "Jabber::JProtocol|"

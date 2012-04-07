@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-30 18:32+0000\n"
+"POT-Creation-Date: 2012-04-06 23:42+0000\n"
 "PO-Revision-Date: 2012-04-01 17:06+0000\n"
 "Last-Translator: UaHummer <uahummer@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-02 04:53+0000\n"
-"X-Generator: Launchpad (build 15032)\n"
+"X-Launchpad-Export-Date: 2012-04-07 05:34+0000\n"
+"X-Generator: Launchpad (build 15060)\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../../core/libqutim/account.cpp:144
@@ -1325,10 +1325,10 @@ msgstr "Виберіть файл для %1"
 
 #: ../../../core/src/corelayers/password/simplepasswordwidget.cpp:36
 #: ../../../core/src/corelayers/password/simplepasswordwidget.cpp:73
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::SimplePasswordWidget|"
 msgid "Enter password for account %1 (%2):"
-msgstr "Ввести пароль для облікового запису %1 (%2):"
+msgstr ""
 
 #: ../../../core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp:43
 #, qt-format
@@ -2188,10 +2188,9 @@ msgid "Simple MetaContacts"
 msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:38
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Default qutIM MetaContacts implementation"
-msgstr "Створювач облікових записів qutim по замовчуванню"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:39
 msgctxt "Plugin|"
@@ -3346,10 +3345,9 @@ msgid "Form"
 msgstr "Форма"
 
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelpersettings.ui:14
-#, fuzzy
 msgctxt "SessionHelperSettings|"
 msgid "Form"
-msgstr "Форма"
+msgstr ""
 
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelpersettings.ui:23
 msgctxt "SessionHelperSettings|"
@@ -3620,10 +3618,9 @@ msgid "Lite group headers"
 msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:58
-#, fuzzy
 msgctxt "SimpleContactlistSettings|"
 msgid "Show contact list on startup"
-msgstr "Контакт змінив статус"
+msgstr ""
 
 #: ../../../core/src/corelayers/password/simplepasswordwidget.ui:14
 msgctxt "SimplePasswordWidget|"

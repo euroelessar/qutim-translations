@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-30 18:32+0000\n"
+"POT-Creation-Date: 2012-04-06 23:42+0000\n"
 "PO-Revision-Date: 2012-03-30 19:18+0000\n"
 "Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,8 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-31 05:35+0000\n"
-"X-Generator: Launchpad (build 15032)\n"
+"X-Launchpad-Export-Date: 2012-04-07 05:34+0000\n"
+"X-Generator: Launchpad (build 15060)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
@@ -1165,7 +1165,7 @@ msgid "Based on Qt %1 (%2 bit)."
 msgstr "Basiert auf Qt %1 (%2 Bit)."
 
 #: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.cpp:54
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::SimpleAboutDialog|"
 msgid ""
 "<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 3 "
@@ -1173,9 +1173,6 @@ msgid ""
 "themes, icons, sounds may come along with a different license.</"
 "div><br><hr><br>"
 msgstr ""
-"<div><b>qutIM</b> %1 ist unter der GNU General Public License, Version 2 "
-"oder höher veröffentlicht.</div><div>Teile von qutIM (wie z.B. Themes, "
-"Icons, Sounds) haben möglicherweise andere Lizenzen.</div><br><hr><br>"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:192
 #, qt-format
@@ -1335,10 +1332,10 @@ msgstr "Datei für %1 auswählen"
 
 #: ../../../core/src/corelayers/password/simplepasswordwidget.cpp:36
 #: ../../../core/src/corelayers/password/simplepasswordwidget.cpp:73
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::SimplePasswordWidget|"
 msgid "Enter password for account %1 (%2):"
-msgstr "Passwort für das Konto %1 (%2) eingeben:"
+msgstr ""
 
 #: ../../../core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp:43
 #, qt-format
@@ -2198,10 +2195,9 @@ msgid "Simple MetaContacts"
 msgstr "Simple MetaContacts"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:38
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Default qutIM MetaContacts implementation"
-msgstr "Standardmodul für Metakontakte, eine sehr doofes"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:39
 msgctxt "Plugin|"
@@ -3364,16 +3360,14 @@ msgid "Form"
 msgstr "Form"
 
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelpersettings.ui:14
-#, fuzzy
 msgctxt "SessionHelperSettings|"
 msgid "Form"
-msgstr "Form"
+msgstr ""
 
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelpersettings.ui:23
-#, fuzzy
 msgctxt "SessionHelperSettings|"
 msgid "Activate multichat when session created"
-msgstr "Aktiviert die Sitzung bei bestimmten Ereignissen"
+msgstr ""
 
 #: ../../../core/examples/autosettingsitem/autosettings.cpp:39
 msgctxt "Settings|"
@@ -3639,10 +3633,9 @@ msgid "Lite group headers"
 msgstr "Einfache Überschriften"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:58
-#, fuzzy
 msgctxt "SimpleContactlistSettings|"
 msgid "Show contact list on startup"
-msgstr "Kontakt ändert seinen Status"
+msgstr ""
 
 #: ../../../core/src/corelayers/password/simplepasswordwidget.ui:14
 msgctxt "SimplePasswordWidget|"
@@ -4045,3 +4038,18 @@ msgstr "Speichern"
 msgctxt "userInformationClass|"
 msgid "Close"
 msgstr "Schließen"
+
+#~ msgctxt "Core::SimpleAboutDialog|"
+#~ msgid ""
+#~ "<div><b>qutIM</b> %1 is licensed under GNU General Public License, "
+#~ "version 2 or (at your option) any later version.</div><div>qutIM "
+#~ "resources such as themes, icons, sounds may come along with a different "
+#~ "license.</div><br><hr><br>"
+#~ msgstr ""
+#~ "<div><b>qutIM</b> %1 ist unter der GNU General Public License, Version 2 "
+#~ "oder höher veröffentlicht.</div><div>Teile von qutIM (wie z.B. Themes, "
+#~ "Icons, Sounds) haben möglicherweise andere Lizenzen.</div><br><hr><br>"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Default qutIM MetaContacts implementation, very stupid one"
+#~ msgstr "Standardmodul für Metakontakte, eine sehr doofes"

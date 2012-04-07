@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-30 18:32+0000\n"
+"POT-Creation-Date: 2012-04-06 23:42+0000\n"
 "PO-Revision-Date: 2012-03-24 01:34+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,8 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-31 05:35+0000\n"
-"X-Generator: Launchpad (build 15032)\n"
+"X-Launchpad-Export-Date: 2012-04-07 05:34+0000\n"
+"X-Generator: Launchpad (build 15060)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
@@ -1318,10 +1318,10 @@ msgstr "Vybrat soubor pro %1"
 
 #: ../../../core/src/corelayers/password/simplepasswordwidget.cpp:36
 #: ../../../core/src/corelayers/password/simplepasswordwidget.cpp:73
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::SimplePasswordWidget|"
 msgid "Enter password for account %1 (%2):"
-msgstr "Zadejte heslo pro účet %1 (%2):"
+msgstr ""
 
 #: ../../../core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp:43
 #, qt-format
@@ -3607,10 +3607,9 @@ msgid "Lite group headers"
 msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:58
-#, fuzzy
 msgctxt "SimpleContactlistSettings|"
 msgid "Show contact list on startup"
-msgstr "Kontakt změnil stav"
+msgstr ""
 
 #: ../../../core/src/corelayers/password/simplepasswordwidget.ui:14
 msgctxt "SimplePasswordWidget|"
