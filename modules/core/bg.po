@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-30 18:32+0000\n"
+"POT-Creation-Date: 2012-04-06 23:42+0000\n"
 "PO-Revision-Date: 2012-03-30 18:37+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-31 05:35+0000\n"
-"X-Generator: Launchpad (build 15032)\n"
+"X-Launchpad-Export-Date: 2012-04-07 05:34+0000\n"
+"X-Generator: Launchpad (build 15060)\n"
 "X-Qt-Contexts: true\n"
 "Language: bg\n"
 "X-Language: bg\n"
@@ -442,8 +442,8 @@ msgctxt "ContactList|"
 msgid "qutIM 0.2 style"
 msgstr "qutIM 0.2 стил"
 
-#: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:43
-#: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:67
+#: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:54
+#: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:78
 msgctxt "ContactSearch|"
 msgid "Search contact"
 msgstr "Търсене на контакт"
@@ -819,13 +819,13 @@ msgctxt "Core::MetaContacts::MergeDialog|"
 msgid "Search contacts:"
 msgstr "Търсене на контакти:"
 
-#: ../../../core/src/corelayers/metacontacts/mergedialog.cpp:106
+#: ../../../core/src/corelayers/metacontacts/mergedialog.cpp:102
 #, qt-format
 msgctxt "Core::MetaContacts::MergeDialog|"
 msgid "%1 - qutIM"
 msgstr "%1 - qutIM"
 
-#: ../../../core/src/corelayers/metacontacts/model.cpp:95
+#: ../../../core/src/corelayers/metacontacts/model.cpp:97
 msgctxt "Core::MetaContacts::Model|"
 msgid "Account"
 msgstr "Сметка"
@@ -946,42 +946,42 @@ msgctxt "Core::PListConfigBackend|"
 msgid "Cannot write to file %1"
 msgstr "Невъзможен е записът във файла %1"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:125
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:131
 msgctxt "Core::PluginChooserWidget|"
 msgid "To take effect you must restart qutIM"
 msgstr "За да влязат в сила промените, qutIM трябва да бъде рестартиран"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:141
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:147
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Name: </b> %1 <br />"
 msgstr "<b>Наименование: </b> %1 <br />"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:142
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:148
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Description: </b> %1 <br />"
 msgstr "<b>Описание: </b> %1 <br />"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:147
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Name:</b> %1<br/>"
 msgstr "<b>Име:</b> %1<br/>"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:149
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:155
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Task:</b> %1<br/>"
 msgstr "<b>Задача:</b> %1<br/>"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:151
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:157
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
 msgstr "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
 
-#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
+#: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:159
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
@@ -1084,7 +1084,7 @@ msgctxt "Core::ProfileDialog|"
 msgid "Password can not be empty!"
 msgstr "Паролата не може да е празна!"
 
-#: ../../../core/src/corelayers/servicechooser/protocolchooserwidget.cpp:115
+#: ../../../core/src/corelayers/servicechooser/protocolchooserwidget.cpp:119
 msgctxt "Core::ProtocolChooserWidget|"
 msgid "To take effect you must restart qutIM"
 msgstr "За да влязат в сила промените, qutIM трябва да бъде рестартиран"
@@ -1146,7 +1146,7 @@ msgctxt "Core::ServiceChooser|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
 msgstr "<b>Страница:</b> <a href=\"%1\">%1</a><br/>"
 
-#: ../../../core/src/corelayers/servicechooser/servicechooserwidget.cpp:132
+#: ../../../core/src/corelayers/servicechooser/servicechooserwidget.cpp:140
 msgctxt "Core::ServiceChooserWidget|"
 msgid "To take effect you must restart qutIM"
 msgstr "За да влязат в сила промените, qutIM трябва да бъде рестартиран"
@@ -1172,15 +1172,11 @@ msgstr "Базиран на Qt %1 (%2 bit)."
 #, qt-format
 msgctxt "Core::SimpleAboutDialog|"
 msgid ""
-"<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 2 "
+"<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 3 "
 "or (at your option) any later version.</div><div>qutIM resources such as "
 "themes, icons, sounds may come along with a different "
 "license.</div><br><hr><br>"
 msgstr ""
-"<div><b>qutIM</b> %1 е лицензиран под GNU General Public License, версия 2 "
-"или (по ваше усмотрение) всяка последваща версия.</div><div>Ресурсите, които "
-"ползва qutIM напр. теми, икони, звуци могат да бъдат под друг "
-"лиценз.</div><br><hr><br>"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:192
 #, qt-format
@@ -1337,6 +1333,13 @@ msgstr "Пренебрегване"
 msgctxt "Core::SimpleFileTransfer|"
 msgid "Choose file for %1"
 msgstr "Избиране на файл за %1"
+
+#: ../../../core/src/corelayers/password/simplepasswordwidget.cpp:36
+#: ../../../core/src/corelayers/password/simplepasswordwidget.cpp:73
+#, qt-format
+msgctxt "Core::SimplePasswordWidget|"
+msgid "Enter password for account %1 (%2):"
+msgstr ""
 
 #: ../../../core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp:43
 #, qt-format
@@ -1788,27 +1791,27 @@ msgctxt "LocalizationSettings|"
 msgid "Form"
 msgstr "Локализация"
 
-#: ../../../core/src/corelayers/metacontacts/manager.cpp:111
+#: ../../../core/src/corelayers/metacontacts/manager.cpp:121
 msgctxt "MetaContact|"
 msgid "Split Metacontact"
 msgstr "Разделяне на мета-контакта"
 
-#: ../../../core/src/corelayers/metacontacts/manager.cpp:117
+#: ../../../core/src/corelayers/metacontacts/manager.cpp:127
 msgctxt "MetaContact|"
 msgid "Manage metacontacts"
 msgstr "Управление на мета-контакти"
 
-#: ../../../core/src/corelayers/metacontacts/model.cpp:43
+#: ../../../core/src/corelayers/metacontacts/model.cpp:44
 msgctxt "MetaContacts|"
 msgid "Contacts in metacontact"
 msgstr "Контакти в мета-контакта"
 
-#: ../../../core/src/corelayers/metacontacts/model.cpp:47
+#: ../../../core/src/corelayers/metacontacts/model.cpp:48
 msgctxt "MetaContacts|"
 msgid "Search results"
 msgstr "Резултати от търсенето"
 
-#: ../../../core/src/corelayers/metacontacts/manager.cpp:97
+#: ../../../core/src/corelayers/metacontacts/manager.cpp:61
 msgctxt "Metacontact|"
 msgid "You"
 msgstr "Вие"
@@ -2208,9 +2211,8 @@ msgstr "Обикновени мета-контакти"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:38
 msgctxt "Plugin|"
-msgid "Default qutIM MetaContacts implementation, very stupid one"
+msgid "Default qutIM MetaContacts implementation"
 msgstr ""
-"Подразбираща се за qutIM поддръжка на мета-контакти, много глупава такава"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:39
 msgctxt "Plugin|"
@@ -2468,13 +2470,13 @@ msgid "Kickoff style settings dialog specialy for Maemo/MeeGo"
 msgstr "Kickoff диалогов прозорец, предназначен за Maemo/MeeGo"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:91
-#: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:38
+#: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:41
 msgctxt "Plugin|"
 msgid "Session helper"
 msgstr "Сесиен Помощник"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:92
-#: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:39
+#: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:42
 msgctxt "Plugin|"
 msgid "Activates the session when certain events"
 msgstr "Активира сесията при определени събития"
@@ -2970,12 +2972,12 @@ msgctxt "QObject|"
 msgid "System notify"
 msgstr "Системно уведомление"
 
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:177
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:179
 msgctxt "QObject|"
 msgid "Open chat"
 msgstr "Отваряне на разговора"
 
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:184
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:186
 msgctxt "QObject|"
 msgid "Ignore"
 msgstr "Пренебрегване"
@@ -3387,6 +3389,16 @@ msgctxt "ServiceChooser|"
 msgid "Form"
 msgstr "Услуги"
 
+#: ../../../core/src/corelayers/sessionhelper/src/sessionhelpersettings.ui:14
+msgctxt "SessionHelperSettings|"
+msgid "Form"
+msgstr ""
+
+#: ../../../core/src/corelayers/sessionhelper/src/sessionhelpersettings.ui:23
+msgctxt "SessionHelperSettings|"
+msgid "Activate multichat when session created"
+msgstr ""
+
 #: ../../../core/examples/autosettingsitem/autosettings.cpp:39
 msgctxt "Settings|"
 msgid "Test settings"
@@ -3454,6 +3466,7 @@ msgstr "Сметки"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/stackedchatform.cpp:46
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatform.cpp:44
+#: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:52
 msgctxt "Settings|"
 msgid "Chat"
 msgstr "Разговор"
@@ -3625,15 +3638,15 @@ msgctxt "SimpleContactlistSettings|"
 msgid "Form"
 msgstr "Настройки на списъка с контакти"
 
-#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:20
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:23
 msgctxt "SimpleContactlistSettings|"
 msgid "Status icons size:"
 msgstr "Размер на иконите за статус:"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:30
 msgctxt "SimpleContactlistSettings|"
-msgid "Show extended icons"
-msgstr "Да се показват иконите на разширените статуси"
+msgid "Show avatars"
+msgstr "Да се показват аватари"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:37
 msgctxt "SimpleContactlistSettings|"
@@ -3642,13 +3655,18 @@ msgstr "Да се показва текста на статуса"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:44
 msgctxt "SimpleContactlistSettings|"
-msgid "Show avatars"
-msgstr "Да се показват аватари"
+msgid "Show extended icons"
+msgstr "Да се показват иконите на разширените статуси"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:51
 msgctxt "SimpleContactlistSettings|"
 msgid "Lite group headers"
 msgstr "Светли заглавия на групите"
+
+#: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:58
+msgctxt "SimpleContactlistSettings|"
+msgid "Show contact list on startup"
+msgstr ""
 
 #: ../../../core/src/corelayers/password/simplepasswordwidget.ui:14
 msgctxt "SimplePasswordWidget|"
@@ -3936,48 +3954,48 @@ msgctxt "qutim_sdk_0_3::ContactSearchRequest|"
 msgid "Add contact"
 msgstr "Добавяне на контакт"
 
-#: ../../../core/libqutim/filetransfer.cpp:331
+#: ../../../core/libqutim/filetransfer.cpp:333
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Initiation"
 msgstr "Иницииране"
 
-#: ../../../core/libqutim/filetransfer.cpp:333
+#: ../../../core/libqutim/filetransfer.cpp:335
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Started"
 msgstr "Стартиран"
 
-#: ../../../core/libqutim/filetransfer.cpp:335
+#: ../../../core/libqutim/filetransfer.cpp:337
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Finished"
 msgstr "Приключен"
 
-#: ../../../core/libqutim/filetransfer.cpp:337
+#: ../../../core/libqutim/filetransfer.cpp:339
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Error"
 msgstr "Грешка"
 
-#: ../../../core/libqutim/filetransfer.cpp:339
-#: ../../../core/libqutim/filetransfer.cpp:365
+#: ../../../core/libqutim/filetransfer.cpp:341
+#: ../../../core/libqutim/filetransfer.cpp:367
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Unknown"
 msgstr "Неизвестен"
 
-#: ../../../core/libqutim/filetransfer.cpp:357
+#: ../../../core/libqutim/filetransfer.cpp:359
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Network error"
 msgstr "Мрежова грешка"
 
-#: ../../../core/libqutim/filetransfer.cpp:359
+#: ../../../core/libqutim/filetransfer.cpp:361
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Canceled"
 msgstr "Отказан"
 
-#: ../../../core/libqutim/filetransfer.cpp:361
+#: ../../../core/libqutim/filetransfer.cpp:363
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Not supported"
 msgstr "Не се поддържа"
 
-#: ../../../core/libqutim/filetransfer.cpp:363
+#: ../../../core/libqutim/filetransfer.cpp:365
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Input/output error"
 msgstr "Входно/Изходна грешка"
@@ -3992,22 +4010,22 @@ msgstr ""
 "Неуспешно инициализиране на добавка: \n"
 " %1"
 
-#: ../../../core/libqutim/profile.cpp:193
+#: ../../../core/libqutim/profile.cpp:247
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Password is mismatched."
 msgstr "Сгрешена парола."
 
-#: ../../../core/libqutim/profile.cpp:195
+#: ../../../core/libqutim/profile.cpp:249
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Crypto service is unknown."
 msgstr "Неизвестна услуга за шифроване."
 
-#: ../../../core/libqutim/profile.cpp:197
+#: ../../../core/libqutim/profile.cpp:251
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Wrong profile id."
 msgstr "Сгрешен иденификатор на профил."
 
-#: ../../../core/libqutim/profile.cpp:231
+#: ../../../core/libqutim/profile.cpp:286
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Can't open file with hash"
 msgstr "Невъзможно е отварянето на хеша"
@@ -4049,3 +4067,21 @@ msgstr "Запис"
 msgctxt "userInformationClass|"
 msgid "Close"
 msgstr "Затваряне"
+
+#, qt-format
+#~ msgctxt "Core::SimpleAboutDialog|"
+#~ msgid ""
+#~ "<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 2 "
+#~ "or (at your option) any later version.</div><div>qutIM resources such as "
+#~ "themes, icons, sounds may come along with a different "
+#~ "license.</div><br><hr><br>"
+#~ msgstr ""
+#~ "<div><b>qutIM</b> %1 е лицензиран под GNU General Public License, версия 2 "
+#~ "или (по ваше усмотрение) всяка последваща версия.</div><div>Ресурсите, които "
+#~ "ползва qutIM напр. теми, икони, звуци могат да бъдат под друг "
+#~ "лиценз.</div><br><hr><br>"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Default qutIM MetaContacts implementation, very stupid one"
+#~ msgstr ""
+#~ "Подразбираща се за qutIM поддръжка на мета-контакти, много глупава такава"
