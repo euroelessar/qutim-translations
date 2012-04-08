@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-06 23:42+0000\n"
-"PO-Revision-Date: 2012-03-28 17:43+0000\n"
+"PO-Revision-Date: 2012-04-07 09:31+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-07 05:35+0000\n"
+"X-Launchpad-Export-Date: 2012-04-08 05:18+0000\n"
 "X-Generator: Launchpad (build 15060)\n"
 "X-Qt-Contexts: true\n"
 "Language: bg\n"
@@ -676,27 +676,27 @@ msgstr "ОС"
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:320
 msgctxt "HttpConnect|"
 msgid "Authentication failed"
-msgstr ""
+msgstr "Неуспешно удостоверяване"
 
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:324
 msgctxt "HttpConnect|"
 msgid "Host not found"
-msgstr ""
+msgstr "Хостът не бе открит"
 
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:328
 msgctxt "HttpConnect|"
 msgid "Access denied"
-msgstr ""
+msgstr "Отказан достъп"
 
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:332
 msgctxt "HttpConnect|"
 msgid "Connection refused"
-msgstr ""
+msgstr "Отказана връзка"
 
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:336
 msgctxt "HttpConnect|"
 msgid "Invalid reply"
-msgstr ""
+msgstr "Невалиден отговор"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.ui:14
 msgctxt "JAccountRegistrationPage|"
@@ -851,22 +851,22 @@ msgstr "Не безпокойте:"
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:179
 msgctxt "JMainSettings|"
 msgid "OpenPGP"
-msgstr ""
+msgstr "OpenPGP"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:198
 msgctxt "JMainSettings|"
 msgid "Select Key"
-msgstr ""
+msgstr "Избор на ключ"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:205
 msgctxt "JMainSettings|"
 msgid "Use none"
-msgstr ""
+msgstr "Без"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:222
 msgctxt "JMainSettings|"
 msgid "Connection settings"
-msgstr ""
+msgstr "Настройки на връзката"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:228
 msgctxt "JMainSettings|"
@@ -1268,7 +1268,7 @@ msgstr "Посетител"
 #: ../../../protocols/jabber/src/protocol/jmainsettings.cpp:53
 msgctxt "Jabber::JMainSettings|"
 msgid "No key selected"
-msgstr ""
+msgstr "Няма избран ключ"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:101
 msgctxt "Jabber::JMoodChooser|"
@@ -1298,62 +1298,62 @@ msgstr "Без настроение"
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.ui:14
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "Dialog"
-msgstr ""
+msgstr "PGP ключ"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.ui:27
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "Filter:"
-msgstr ""
+msgstr "Филтър:"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.ui:57
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "Paste ASCII-armored PGP here in field below"
-msgstr ""
+msgstr "Поставете ASCII стойността на PGP в полето по-долу"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:66
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "Add key"
-msgstr ""
+msgstr "Добавяне на ключ"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:70
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "Key ID"
-msgstr ""
+msgstr "Идентификатор  на ключ"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:70
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "User ID"
-msgstr ""
+msgstr "Идентификатор на потребител"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:135
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "PGP key importing error"
-msgstr ""
+msgstr "Грешка при импортиране на PGP ключа"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:135
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "Provided key is invalid"
-msgstr ""
+msgstr "Предоставеният ключ е невалиден"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:67
 msgctxt "Jabber::JPGPSupport|"
 msgid "Assign PGP key"
-msgstr ""
+msgstr "Назначаване на PGP ключ"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:69
 msgctxt "Jabber::JPGPSupport|"
 msgid "Remove PGP key"
-msgstr ""
+msgstr "Премахване на PGP ключ"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:94
 msgctxt "Jabber::JPGPSupport|"
 msgid "Disable PGP encryption"
-msgstr ""
+msgstr "Изключване на PGP шифроването"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:97
 msgctxt "Jabber::JPGPSupport|"
 msgid "Enable PGP encryption"
-msgstr ""
+msgstr "Включване на PGP шифроване"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:356
 #, qt-format
@@ -1362,67 +1362,70 @@ msgid ""
 "There was an error trying to sign your status.\n"
 "Reason: %1"
 msgstr ""
+"Възникна грешка при опит за подписване на статуса ви.\n"
+"Причина: %1"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:418
 msgctxt "Jabber::JPGPSupport|"
 msgid "[ERROR: This message is encrypted, and you are unable to decrypt it.]"
 msgstr ""
+"[ГРЕШКА: Това съобщение е зашифровано, но не успяхте да го разшифровате.]"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:537
 #, qt-format
 msgctxt "Jabber::JPGPSupport|"
 msgid "%1 : OpenPGP Passphrase"
-msgstr ""
+msgstr "%1 : OpenPGP фраза"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:538
 msgctxt "Jabber::JPGPSupport|"
 msgid "Your passphrase is needed to use OpenPGP security."
-msgstr ""
+msgstr "Фразата ви е необходима за използване на OpenPGP защита."
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:670
 msgctxt "Jabber::JPGPSupport|"
 msgid "Invalid passphrase"
-msgstr ""
+msgstr "Невалидна фраза"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:673
 msgctxt "Jabber::JPGPSupport|"
 msgid "Invalid input format"
-msgstr ""
+msgstr "Невалиден формат на въвеждане"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:676
 msgctxt "Jabber::JPGPSupport|"
 msgid "Signing key expired"
-msgstr ""
+msgstr "Ключа за подписване е изтекъл"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:679
 msgctxt "Jabber::JPGPSupport|"
 msgid "Invalid key"
-msgstr ""
+msgstr "Невалиден ключ"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:682
 msgctxt "Jabber::JPGPSupport|"
 msgid "Encrypting key expired"
-msgstr ""
+msgstr "Шифроващият ключ е изтекъл"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:685
 msgctxt "Jabber::JPGPSupport|"
 msgid "Encrypting key is untrusted"
-msgstr ""
+msgstr "Шифроващият ключ не е доверен"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:688
 msgctxt "Jabber::JPGPSupport|"
 msgid "Encrypting key is invalid"
-msgstr ""
+msgstr "Шифроващият ключ е невалиден"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:691
 msgctxt "Jabber::JPGPSupport|"
 msgid "PGP card is missing"
-msgstr ""
+msgstr "Липсва PGP карта"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:694
 msgctxt "Jabber::JPGPSupport|"
 msgid "Unknown error"
-msgstr ""
+msgstr "Неизвестна грешка"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:262
 msgctxt "Jabber::JProtocol|"

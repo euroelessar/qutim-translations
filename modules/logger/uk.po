@@ -1,0 +1,46 @@
+# Ukrainian translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-03-23 17:51+0000\n"
+"PO-Revision-Date: 2012-04-08 01:49+0000\n"
+"Last-Translator: Constantine Mayboroda <k.mayboroda@mail.ua>\n"
+"Language-Team: Ukrainian <uk@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-04-08 05:18+0000\n"
+"X-Generator: Launchpad (build 15060)\n"
+
+#: ../../../plugins/logger/src/logger.cpp:94
+msgctxt "Logger::LoggerPlugin|"
+msgid "New session started, happy debuging ^_^"
+msgstr ""
+
+#: ../../../plugins/logger/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/logger/src/logger.cpp:76
+#: ../../../plugins/logger/src/logger.cpp:98
+msgctxt "Plugin|"
+msgid "Logger"
+msgstr "Ведення журналу"
+
+#: ../../../plugins/logger/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/logger/src/logger.cpp:77
+msgctxt "Plugin|"
+msgid "Simple file based logger for debug"
+msgstr ""
+
+#: ../../../plugins/logger/src/logger.cpp:102
+msgctxt "Plugin|"
+msgid "Select log path"
+msgstr "Розміщення журналу"
+
+#: ../../../plugins/logger/src/logger.cpp:106
+msgctxt "Plugin|"
+msgid "Enable dump of debug info"
+msgstr "Дамп"

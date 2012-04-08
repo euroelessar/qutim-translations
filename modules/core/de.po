@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-06 23:42+0000\n"
-"PO-Revision-Date: 2012-03-30 19:18+0000\n"
+"PO-Revision-Date: 2012-04-07 08:20+0000\n"
 "Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-07 05:34+0000\n"
+"X-Launchpad-Export-Date: 2012-04-08 05:18+0000\n"
 "X-Generator: Launchpad (build 15060)\n"
 "X-Qt-Contexts: true\n"
 "Language: de\n"
@@ -1175,6 +1175,9 @@ msgid ""
 "themes, icons, sounds may come along with a different "
 "license.</div><br><hr><br>"
 msgstr ""
+"<div><b>qutIM</b> %1 ist unter der GNU General Public License, Version 3 "
+"oder höher veröffentlicht.</div><div>Teile von qutIM (wie z.B. Themes, "
+"Icons, Sounds) haben möglicherweise andere Lizenzen.</div><br><hr><br>"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:192
 #, qt-format
@@ -1337,7 +1340,7 @@ msgstr "Datei für %1 auswählen"
 #, qt-format
 msgctxt "Core::SimplePasswordWidget|"
 msgid "Enter password for account %1 (%2):"
-msgstr ""
+msgstr "Passwort für das Konto %1 (%2) eingeben:"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp:43
 #, qt-format
@@ -2199,7 +2202,7 @@ msgstr "Simple MetaContacts"
 #: ../../../core/__data_from_cmakelists_txt.cpp:38
 msgctxt "Plugin|"
 msgid "Default qutIM MetaContacts implementation"
-msgstr ""
+msgstr "Standardmodul für Metakontakte"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:39
 msgctxt "Plugin|"
@@ -3364,7 +3367,7 @@ msgstr "Form"
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelpersettings.ui:14
 msgctxt "SessionHelperSettings|"
 msgid "Form"
-msgstr ""
+msgstr "Form"
 
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelpersettings.ui:23
 msgctxt "SessionHelperSettings|"
@@ -4040,19 +4043,3 @@ msgstr "Speichern"
 msgctxt "userInformationClass|"
 msgid "Close"
 msgstr "Schließen"
-
-#, qt-format
-#~ msgctxt "Core::SimpleAboutDialog|"
-#~ msgid ""
-#~ "<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 2 "
-#~ "or (at your option) any later version.</div><div>qutIM resources such as "
-#~ "themes, icons, sounds may come along with a different "
-#~ "license.</div><br><hr><br>"
-#~ msgstr ""
-#~ "<div><b>qutIM</b> %1 ist unter der GNU General Public License, Version 2 "
-#~ "oder höher veröffentlicht.</div><div>Teile von qutIM (wie z.B. Themes, "
-#~ "Icons, Sounds) haben möglicherweise andere Lizenzen.</div><br><hr><br>"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Default qutIM MetaContacts implementation, very stupid one"
-#~ msgstr "Standardmodul für Metakontakte, eine sehr doofes"
