@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-06 23:42+0000\n"
-"PO-Revision-Date: 2012-04-03 13:53+0000\n"
-"Last-Translator: Anischenko Alexandr <Unknown>\n"
+"PO-Revision-Date: 2012-04-09 03:06+0000\n"
+"Last-Translator: Artem Popov <artfwo@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-08 05:18+0000\n"
+"X-Launchpad-Export-Date: 2012-04-09 05:14+0000\n"
 "X-Generator: Launchpad (build 15060)\n"
 "X-Qt-Contexts: true\n"
 "Language: ru\n"
@@ -43,7 +43,7 @@ msgstr "Настройки"
 #: ../../../core/src/corelayers/accountcreator/accountcreatorprotocols.ui:14
 msgctxt "AccountCreatorProtocols|"
 msgid "WizardPage"
-msgstr "Помошник миграции"
+msgstr "Помощник миграции"
 
 #: ../../../core/libqutim/actiontoolbar.cpp:60
 msgctxt "ActionToolBar|"
@@ -834,7 +834,7 @@ msgstr "Учетная запись"
 #: ../../../core/src/corelayers/migration02x03/migrationstartpage.cpp:48
 msgctxt "Core::MigrationStartPage|"
 msgid "Migration wizard"
-msgstr "Помошник миграции"
+msgstr "Помощник миграции"
 
 #: ../../../core/src/corelayers/migration02x03/migrationstartpage.cpp:49
 msgctxt "Core::MigrationStartPage|"
@@ -1177,6 +1177,10 @@ msgid ""
 "themes, icons, sounds may come along with a different "
 "license.</div><br><hr><br>"
 msgstr ""
+"<div><b>qutIM</b> %1 лицензирован под GNU General Public License, версии 3 "
+"или (по вашему желанию) любой поздней версией.</div><div>Ресурсы qutIM такие "
+"как темы, пиктограммы, звуки могут поставляться под другой "
+"лицензией.</div><br><hr><br>"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:192
 #, qt-format
@@ -1339,7 +1343,7 @@ msgstr "Выберите файл для %1"
 #, qt-format
 msgctxt "Core::SimplePasswordWidget|"
 msgid "Enter password for account %1 (%2):"
-msgstr ""
+msgstr "Введите пароль к аккаунту %1 (%2):"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp:43
 #, qt-format
@@ -2207,7 +2211,7 @@ msgstr "Простые метаконтакты"
 #: ../../../core/__data_from_cmakelists_txt.cpp:38
 msgctxt "Plugin|"
 msgid "Default qutIM MetaContacts implementation"
-msgstr ""
+msgstr "Реализация метаконтактов qutIM  по умолчанию"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:39
 msgctxt "Plugin|"
@@ -2704,7 +2708,7 @@ msgstr "Пиктограмма области уведомления"
 #: ../../../core/src/widgets/profilecreationpage.ui:14
 msgctxt "ProfileCreationPage|"
 msgid "WizardPage"
-msgstr "Помошник миграции"
+msgstr "Помощник миграции"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:41
 msgctxt "ProfileCreationPage|"
@@ -3377,7 +3381,7 @@ msgstr "Настройки"
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelpersettings.ui:14
 msgctxt "SessionHelperSettings|"
 msgid "Form"
-msgstr ""
+msgstr "Настройки"
 
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelpersettings.ui:23
 msgctxt "SessionHelperSettings|"
@@ -3654,7 +3658,7 @@ msgstr "Легкие заголовки групп"
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:58
 msgctxt "SimpleContactlistSettings|"
 msgid "Show contact list on startup"
-msgstr ""
+msgstr "Показывать список контактов при запуске"
 
 #: ../../../core/src/corelayers/password/simplepasswordwidget.ui:14
 msgctxt "SimplePasswordWidget|"

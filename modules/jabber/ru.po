@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-06 23:42+0000\n"
-"PO-Revision-Date: 2012-03-28 13:14+0000\n"
+"PO-Revision-Date: 2012-04-08 07:15+0000\n"
 "Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-08 05:18+0000\n"
+"X-Launchpad-Export-Date: 2012-04-09 05:14+0000\n"
 "X-Generator: Launchpad (build 15060)\n"
 "X-Qt-Contexts: true\n"
 "Language: ru\n"
@@ -680,27 +680,27 @@ msgstr "ОС"
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:320
 msgctxt "HttpConnect|"
 msgid "Authentication failed"
-msgstr ""
+msgstr "Ошибка аутентификации"
 
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:324
 msgctxt "HttpConnect|"
 msgid "Host not found"
-msgstr ""
+msgstr "Узел не найден"
 
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:328
 msgctxt "HttpConnect|"
 msgid "Access denied"
-msgstr ""
+msgstr "Доступ запрещён"
 
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:332
 msgctxt "HttpConnect|"
 msgid "Connection refused"
-msgstr ""
+msgstr "В соединении отказано"
 
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:336
 msgctxt "HttpConnect|"
 msgid "Invalid reply"
-msgstr ""
+msgstr "Неверный ответ"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.ui:14
 msgctxt "JAccountRegistrationPage|"
@@ -855,7 +855,7 @@ msgstr "Не беспокоить:"
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:179
 msgctxt "JMainSettings|"
 msgid "OpenPGP"
-msgstr ""
+msgstr "OpenPGP"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:198
 msgctxt "JMainSettings|"
@@ -870,7 +870,7 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:222
 msgctxt "JMainSettings|"
 msgid "Connection settings"
-msgstr ""
+msgstr "Настройки подключения"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:228
 msgctxt "JMainSettings|"
@@ -1270,7 +1270,7 @@ msgstr "Посетитель"
 #: ../../../protocols/jabber/src/protocol/jmainsettings.cpp:53
 msgctxt "Jabber::JMainSettings|"
 msgid "No key selected"
-msgstr ""
+msgstr "Не выбран ключ"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:101
 msgctxt "Jabber::JMoodChooser|"
@@ -1305,7 +1305,7 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.ui:27
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "Filter:"
-msgstr ""
+msgstr "Фильтр:"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.ui:57
 msgctxt "Jabber::JPGPKeyDialog|"
@@ -1315,22 +1315,22 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:66
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "Add key"
-msgstr ""
+msgstr "Добавить ключ"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:70
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "Key ID"
-msgstr ""
+msgstr "Идентификатор ключа"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:70
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "User ID"
-msgstr ""
+msgstr "Идентификатор пользователя"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:135
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "PGP key importing error"
-msgstr ""
+msgstr "Ошибка импортирования PGP ключа"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:135
 msgctxt "Jabber::JPGPKeyDialog|"
@@ -1345,17 +1345,17 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:69
 msgctxt "Jabber::JPGPSupport|"
 msgid "Remove PGP key"
-msgstr ""
+msgstr "Удалить PGP ключ"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:94
 msgctxt "Jabber::JPGPSupport|"
 msgid "Disable PGP encryption"
-msgstr ""
+msgstr "Отключить PGP шифрование"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:97
 msgctxt "Jabber::JPGPSupport|"
 msgid "Enable PGP encryption"
-msgstr ""
+msgstr "Включить PGP шифрование"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:356
 #, qt-format
@@ -1369,6 +1369,7 @@ msgstr ""
 msgctxt "Jabber::JPGPSupport|"
 msgid "[ERROR: This message is encrypted, and you are unable to decrypt it.]"
 msgstr ""
+"[Ошибка: Это сообщение зашифровано, и вы не можете расшифровать его.]"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:537
 #, qt-format
@@ -1384,7 +1385,7 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:670
 msgctxt "Jabber::JPGPSupport|"
 msgid "Invalid passphrase"
-msgstr ""
+msgstr "Неверный пароль шифрования"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:673
 msgctxt "Jabber::JPGPSupport|"
@@ -1399,7 +1400,7 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:679
 msgctxt "Jabber::JPGPSupport|"
 msgid "Invalid key"
-msgstr ""
+msgstr "Неверный ключ"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:682
 msgctxt "Jabber::JPGPSupport|"
