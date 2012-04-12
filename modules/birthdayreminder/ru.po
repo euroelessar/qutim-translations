@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-02-19 16:53+0000\n"
-"PO-Revision-Date: 2011-11-17 17:51+0000\n"
-"Last-Translator: Andrey <Unknown>\n"
+"PO-Revision-Date: 2012-04-11 09:08+0000\n"
+"Last-Translator: Alexander Gavrilov <dartraiden@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -12,22 +12,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2012-02-20 06:09+0000\n"
-"X-Generator: Launchpad (build 14833)\n"
+"X-Launchpad-Export-Date: 2012-04-12 05:20+0000\n"
+"X-Generator: Launchpad (build 15070)\n"
 "X-Qt-Contexts: true\n"
+"Language: ru\n"
 "X-Language: ru\n"
 
 #: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:269
 #, qt-format
 msgctxt "BirthdayReminder|"
 msgid "It's %1's birthday today! Hooray!"
-msgstr "Сегодня день рождения %1! Поздравьте немедленно!"
+msgstr "Сегодня день рождения %1! Ура!"
 
 #: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:272
 #, qt-format
 msgctxt "BirthdayReminder|"
 msgid "%1's birthday will be tomorrow! Hooray!"
-msgstr "Завтра день рождения %1! Не забудьте поздравить!"
+msgstr "Завтра день рождения %1! Ура!"
 
 #: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:275
 #, qt-format
@@ -47,7 +48,7 @@ msgstr "День рождения %1."
 #: ../../../plugins/birthdayreminder/src/birthdayremindersettings.ui:14
 msgctxt "BirthdayReminderSettings|"
 msgid "Birthday reminder settings"
-msgstr "Настройки напоминалки о ДР"
+msgstr "Настройки напоминалки о днях рождения"
 
 #: ../../../plugins/birthdayreminder/src/birthdayremindersettings.ui:22
 msgctxt "BirthdayReminderSettings|"
@@ -82,10 +83,10 @@ msgid ""
 "This plugin shows notifications when someone from your contact list has a "
 "birthday"
 msgstr ""
-"Данный  плагин уведомляет вас всегда, когда у кого-то из вашего контакт "
-"листа день рождения"
+"Этот плагин уведомляет вас, когда у кого-то из вашего контакт-листа день "
+"рождения"
 
 #: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:160
 msgctxt "Settings|"
 msgid "Birthday reminder"
-msgstr "Напоминалка о ДР"
+msgstr "Напоминалка о днях рождения"

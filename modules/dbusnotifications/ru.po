@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-03-23 17:51+0000\n"
-"PO-Revision-Date: 2012-04-10 09:36+0000\n"
+"PO-Revision-Date: 2012-04-11 10:52+0000\n"
 "Last-Translator: Vsevolod Velichko <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-11 04:58+0000\n"
+"X-Launchpad-Export-Date: 2012-04-12 05:20+0000\n"
 "X-Generator: Launchpad (build 15070)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
@@ -28,7 +28,7 @@ msgstr "D-Bus уведомления"
 #: ../../../plugins/dbusnotifications/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
 msgid "Notification system, based on Freedesktop"
-msgstr "Система уведомлений. Основана на Freedesktop"
+msgstr "Система уведомлений, основанная на Freedesktop"
 
 #: ../../../plugins/dbusnotifications/src/dplugin.cpp:39
 msgctxt "Plugin|"
@@ -38,7 +38,7 @@ msgstr "DBus уведомления"
 #: ../../../plugins/dbusnotifications/src/dplugin.cpp:40
 msgctxt "Plugin|"
 msgid "Notification system based on Freedesktop DBus protocol"
-msgstr "Система уведомлений основана на протоколе DBus Freedesktop"
+msgstr "Система уведомлений, основанная на протоколе DBus Freedesktop"
 
 #: ../../../plugins/dbusnotifications/src/dplugin.cpp:44
 msgctxt "plugin|"
@@ -48,12 +48,4 @@ msgstr "DBus уведомления"
 #: ../../../plugins/dbusnotifications/src/dplugin.cpp:45
 msgctxt "plugin|"
 msgid "Notification system based on Freedesktop DBus protocol"
-msgstr "Система уведомлений основана на протоколе DBus Freedesktop"
-
-#~ msgctxt "Author|"
-#~ msgid "Aleksey Sidorov"
-#~ msgstr "Сидоров Алексей"
-
-#~ msgctxt "Task|"
-#~ msgid "Author"
-#~ msgstr "Автор"
+msgstr "Система уведомлений основанная на протоколе DBus Freedesktop"

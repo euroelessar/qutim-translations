@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-03-27 13:46+0000\n"
-"PO-Revision-Date: 2012-04-05 15:01+0000\n"
-"Last-Translator: Hamper <Unknown>\n"
+"PO-Revision-Date: 2012-04-11 08:16+0000\n"
+"Last-Translator: Alexander Gavrilov <dartraiden@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-06 05:08+0000\n"
-"X-Generator: Launchpad (build 15060)\n"
+"X-Launchpad-Export-Date: 2012-04-12 05:21+0000\n"
+"X-Generator: Launchpad (build 15070)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -220,7 +220,7 @@ msgstr "Неверная учетная запись"
 #: ../../../protocols/oscar/src/connection.cpp:320
 msgctxt "ConnectionError|"
 msgid "Deleted account"
-msgstr "Удаленный аккаунт"
+msgstr "Удаленная учетная запись"
 
 #: ../../../protocols/oscar/src/connection.cpp:322
 msgctxt "ConnectionError|"
@@ -265,7 +265,7 @@ msgstr "Сервис временно отключен"
 #: ../../../protocols/oscar/src/connection.cpp:338
 msgctxt "ConnectionError|"
 msgid "Suspended account"
-msgstr "Временно отключённый аккаунт"
+msgstr "Временно отключённая учетная запись"
 
 #: ../../../protocols/oscar/src/connection.cpp:340
 msgctxt "ConnectionError|"
@@ -282,23 +282,23 @@ msgctxt "ConnectionError|"
 msgid "Reservation map error"
 msgstr "Ошибка резервирования карты"
 
-# Знаю, что ошибку переводить не надо, но пусть побудет чуток. -_-
 #: ../../../protocols/oscar/src/connection.cpp:346
 msgctxt "ConnectionError|"
 msgid "Reservation link error"
-msgstr "Пипец подкрался незаметно"
+msgstr "Reservation link error"
 
 #: ../../../protocols/oscar/src/connection.cpp:348
 msgctxt "ConnectionError|"
 msgid "The users num connected from this IP has reached the maximum"
-msgstr "Количество пользователей подключенных с этого IP превысило допустимое"
+msgstr ""
+"Количество пользователей, подключенных с этого IP, превысило допустимое"
 
 #: ../../../protocols/oscar/src/connection.cpp:350
 msgctxt "ConnectionError|"
 msgid ""
 "The users num connected from this IP has reached the maximum (reservation)"
 msgstr ""
-"Количество пользователей подключенных с этого IP превысило допустимое "
+"Количество пользователей, подключенных с этого IP, превысило допустимое "
 "(reservation)"
 
 #: ../../../protocols/oscar/src/connection.cpp:352

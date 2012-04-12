@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-06 23:42+0000\n"
-"PO-Revision-Date: 2012-04-09 03:06+0000\n"
-"Last-Translator: Artem Popov <artfwo@gmail.com>\n"
+"PO-Revision-Date: 2012-04-11 08:37+0000\n"
+"Last-Translator: Alexander Gavrilov <dartraiden@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-10 05:47+0000\n"
+"X-Launchpad-Export-Date: 2012-04-12 05:20+0000\n"
 "X-Generator: Launchpad (build 15070)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
@@ -977,7 +977,8 @@ msgstr "<b>Роль:</b> %1<br/>"
 #, qt-format
 msgctxt "Core::PluginChooserWidget|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
-msgstr "<b>Email:</b> <a href=\"mailto:%1\" title=\"Электропочта\">%1</a><br/>"
+msgstr ""
+"<b>Email:</b> <a href=\"mailto:%1\" title=\"Электронная почта\">%1</a><br/>"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:159
 #, qt-format
@@ -1136,7 +1137,8 @@ msgstr "<b>Роль:</b> %1</br>"
 #, qt-format
 msgctxt "Core::ServiceChooser|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
-msgstr "<b>Email:</b> <a href=\"mailto:%1\" title=\"Электропочта\">%1</a></br>"
+msgstr ""
+"<b>Email:</b> <a href=\"mailto:%1\" title=\"Электронная почта\">%1</a></br>"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:66
 #, qt-format
@@ -1888,7 +1890,7 @@ msgstr "Блокированное сообщение"
 #: ../../../core/libqutim/notification.cpp:196
 msgctxt "Notification|"
 msgid "Contact joined conference"
-msgstr "Контакт присоеденился к конференции"
+msgstr "Контакт присоединился к конференции"
 
 #: ../../../core/libqutim/notification.cpp:197
 msgctxt "Notification|"
@@ -1963,7 +1965,7 @@ msgstr "Сообщение заблокировано"
 #: ../../../core/libqutim/notification.cpp:224
 msgctxt "Notification|"
 msgid "A user has joined a conference"
-msgstr "Пользователь присоеденился к конференции"
+msgstr "Пользователь присоединился к конференции"
 
 #: ../../../core/libqutim/notification.cpp:225
 msgctxt "Notification|"
