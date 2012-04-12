@@ -8,14 +8,16 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-24 00:01+0000\n"
-"PO-Revision-Date: 2012-03-24 13:24+0000\n"
-"Last-Translator: Nicolay <Unknown>\n"
+"PO-Revision-Date: 2012-04-11 09:13+0000\n"
+"Last-Translator: Alexander Gavrilov <dartraiden@hotmail.com>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-25 06:10+0000\n"
-"X-Generator: Launchpad (build 14981)\n"
+"X-Launchpad-Export-Date: 2012-04-12 05:21+0000\n"
+"X-Generator: Launchpad (build 15070)\n"
+"X-Qt-Contexts: true\n"
+"Language: ru\n"
 
 #: ../../../plugins/haikunotifications/src/haikunotificationsbackend.cpp:45
 msgctxt "HaikuNotificationsBackend|"
@@ -26,7 +28,7 @@ msgstr "Показать всплывающее сообщение"
 #: ../../../plugins/haikunotifications/src/haikunotificationsplugin.cpp:34
 msgctxt "Plugin|"
 msgid "Haiku notifications"
-msgstr "Хайковые уведомления"
+msgstr "Уведомления Haiku"
 
 #: ../../../plugins/haikunotifications/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
@@ -41,7 +43,7 @@ msgstr "Система уведомлений, использующая родн
 #: ../../../plugins/haikunotifications/src/haikunotificationsplugin.cpp:38
 msgctxt "plugin|"
 msgid "Haiku notifications"
-msgstr "Хайковые уведомления"
+msgstr "Уведомления Haiku"
 
 #: ../../../plugins/haikunotifications/src/haikunotificationsplugin.cpp:39
 msgctxt "plugin|"
