@@ -18,6 +18,9 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-03-24 05:38+0000\n"
 "X-Generator: Launchpad (build 14981)\n"
 "X-Qt-Contexts: true\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: bg_BG\n"
+"X-Source-Language: C\n"
 
 #: ../../../plugins/highlighter/src/highlighteritemlist.cpp:44
 #: ../../../plugins/highlighter/src/highlighteritemlist.cpp:105
@@ -74,7 +77,8 @@ msgstr "Добавяне"
 #: ../../../plugins/highlighter/src/highlightersettings.ui:53
 msgctxt "HighlighterSettingsForm|"
 msgid "Enable auto highlights wher your nick was mentioned."
-msgstr "Включване на автоматичното открояване при споменаване на псевдонима ви"
+msgstr ""
+"Включване на автоматичното открояване при споменаване на псевдонима ви."
 
 #: ../../../plugins/highlighter/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/highlighter/src/highlighter.cpp:41

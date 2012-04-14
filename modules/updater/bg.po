@@ -18,6 +18,9 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-03-31 05:36+0000\n"
 "X-Generator: Launchpad (build 15032)\n"
 "X-Qt-Contexts: true\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: bg_BG\n"
+"X-Source-Language: C\n"
 
 #: ../../../plugins/updater/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/updater/src/updater.cpp:49
@@ -33,4 +36,4 @@ msgid ""
 "only client icons"
 msgstr ""
 "На теория тази добавка би трябвало да предоставя автоматична актуализация на "
-"qutIM, но за момента актуализира единствено иконите на клиентите."
+"qutIM, но за момента актуализира единствено иконите на клиентите"
