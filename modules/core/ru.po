@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-06 23:42+0000\n"
-"PO-Revision-Date: 2012-04-11 08:37+0000\n"
-"Last-Translator: Alexander Gavrilov <dartraiden@hotmail.com>\n"
+"PO-Revision-Date: 2012-04-15 08:40+0000\n"
+"Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-12 05:20+0000\n"
-"X-Generator: Launchpad (build 15070)\n"
+"X-Launchpad-Export-Date: 2012-04-16 05:22+0000\n"
+"X-Generator: Launchpad (build 15099)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -247,11 +247,10 @@ msgctxt "ChatSession|"
 msgid "Auto"
 msgstr "Авто"
 
-# И что тут имелось ввиду? Последний активный ресурс!
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:452
 msgctxt "ChatSession|"
 msgid "Last active"
-msgstr "Последний активный"
+msgstr "Последняя активность"
 
 #: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:67
 #, qt-format
@@ -2220,7 +2219,7 @@ msgstr "Автостатусы"
 #: ../../../core/__data_from_cmakelists_txt.cpp:40
 msgctxt "Plugin|"
 msgid "Automatically changes status of accounts on inactivity"
-msgstr "Автоматически меняет статус в случае неактивности"
+msgstr "Автоматически меняет статус в случае бездействия"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:41
 msgctxt "Plugin|"
@@ -3191,7 +3190,7 @@ msgstr "Автостатусы"
 #: ../../../core/__generated_from_service_names.cpp:8
 msgctxt "Service|"
 msgid "Bearer"
-msgstr "Bearer"
+msgstr "Менеджер подключений"
 
 #: ../../../core/__generated_from_service_names.cpp:9
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerimpl.cpp:48
@@ -3839,12 +3838,16 @@ msgstr "Неизвестно"
 #: ../../../core/libqutim/personinfo.cpp:208
 msgctxt "TRANSLATORS|"
 msgid "Your names"
-msgstr "MrFree,Nico-izo"
+msgstr ""
+"Алексеенко Станислав,Изодёров  Николай,Анищенко Александр,Hamper,Шарманов "
+"Вячеслав,Гаврилов Александр,Andrey"
 
 #: ../../../core/libqutim/personinfo.cpp:209
 msgctxt "TRANSLATORS|"
 msgid "Your emails"
-msgstr "f1.mrfree@gmail.com,nico-izo@yandex.ru"
+msgstr ""
+"f1.mrfree@gmail.com,nico-izo@yandex.ru,dganic@jabber.ru,no-public@email.ku,"
+"breakpoint@qip.ru,dartraiden@hotmail.com,no-public@email.ku"
 
 #: ../../../core/libqutim/personinfo.cpp:210
 msgctxt "TRANSLATORS|"
@@ -3869,9 +3872,7 @@ msgstr "Хранить служебные сообщения в истории"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:62
 msgctxt "TabbedChatBehavior|"
 msgid "Number of previous messages shown in new chats"
-msgstr ""
-"Кол-во сообщений в новом чате из прошлого диалога❢Кол-во подгружаемых в чат "
-"из истории сообщений"
+msgstr "Количество предыдущих сообщений в новом чатике"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:65
 msgctxt "TabbedChatBehavior|"
@@ -3921,7 +3922,7 @@ msgstr "Выберите метки"
 #: ../../../core/libqutim/personinfo.cpp:213
 msgctxt "Task|"
 msgid "Translator"
-msgstr "Переводчики"
+msgstr "Переводчик"
 
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:39
 msgctxt "Task|"
