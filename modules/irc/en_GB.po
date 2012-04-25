@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-06 23:42+0000\n"
-"PO-Revision-Date: 2012-03-23 19:42+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"PO-Revision-Date: 2012-04-24 23:28+0000\n"
+"Last-Translator: Sid Roberts <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2012-04-08 05:18+0000\n"
-"X-Generator: Launchpad (build 15060)\n"
+"X-Launchpad-Export-Date: 2012-04-25 05:22+0000\n"
+"X-Generator: Launchpad (build 15139)\n"
 "X-Qt-Contexts: true\n"
 "Language: en_GB\n"
 
@@ -469,7 +469,7 @@ msgstr "IRC Server Console"
 #: ../../../protocols/irc/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
 msgid "IRC protocol"
-msgstr ""
+msgstr "IRC protocol"
 
 #: ../../../protocols/irc/__data_from_cmakelists_txt.cpp:2
 #: ../../../protocols/irc/src/ircplugin.cpp:42
