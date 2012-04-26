@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-23 17:51+0000\n"
-"PO-Revision-Date: 2012-04-02 14:51+0000\n"
-"Last-Translator: UaHummer <uahummer@gmail.com>\n"
+"PO-Revision-Date: 2012-04-25 19:14+0000\n"
+"Last-Translator: fishi <fishi@i.ua>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-03 05:36+0000\n"
-"X-Generator: Launchpad (build 15052)\n"
+"X-Launchpad-Export-Date: 2012-04-26 05:17+0000\n"
+"X-Generator: Launchpad (build 15149)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
 
@@ -36,7 +36,7 @@ msgstr ""
 #: ../../../plugins/antispam/src/handler.cpp:72
 msgctxt "Antispam::Handler|"
 msgid "We are ready to drink with you!"
-msgstr ""
+msgstr "Ми готові випити з Вами!"
 
 #: ../../../plugins/antispam/src/handler.cpp:73
 msgctxt "Antispam::Handler|"
@@ -47,7 +47,7 @@ msgstr "горілка;Горілка"
 #, qt-format
 msgctxt "Antispam::Handler|"
 msgid "Message from %1 blocked on suspicion of spam."
-msgstr ""
+msgstr "Повідомлення від %1 заблоковано через підозру в спамі"
 
 #: ../../../plugins/antispam/src/settingswidget.ui:14
 msgctxt "Antispam::SettingsWidget|"
@@ -91,7 +91,7 @@ msgstr ""
 #: ../../../plugins/antispam/src/settingswidget.cpp:54
 msgctxt "Antispam::SettingsWidget|"
 msgid "We are ready to drink with you!"
-msgstr ""
+msgstr "Ми готові випити з Вами!"
 
 #: ../../../plugins/antispam/src/settingswidget.cpp:55
 msgctxt "Antispam::SettingsWidget|"
@@ -109,3 +109,4 @@ msgstr "Антиспам"
 msgctxt "Plugin|"
 msgid "Blocks messages from unknown contacts by question-answer pair"
 msgstr ""
+"Блокувати повідомлення від невідомих контактів, до відповіді на запитання"

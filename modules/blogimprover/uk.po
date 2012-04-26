@@ -8,14 +8,16 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-30 18:43+0000\n"
-"PO-Revision-Date: 2012-04-02 16:35+0000\n"
-"Last-Translator: UaHummer <uahummer@gmail.com>\n"
+"PO-Revision-Date: 2012-04-25 19:11+0000\n"
+"Last-Translator: fishi <fishi@i.ua>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-03 05:36+0000\n"
-"X-Generator: Launchpad (build 15052)\n"
+"X-Launchpad-Export-Date: 2012-04-26 05:17+0000\n"
+"X-Generator: Launchpad (build 15149)\n"
+"X-Qt-Contexts: true\n"
+"Language: uk\n"
 
 #: ../../../plugins/blogimprover/src/blogimproversettings.ui:14
 msgctxt "BlogImproverSettingsForm|"
@@ -46,10 +48,10 @@ msgstr "Плагін інтеграції з блогами"
 #: ../../../plugins/blogimprover/src/blogimproverplugin.cpp:37
 msgctxt "Plugin|"
 msgid "Integration with different services of microblogging"
-msgstr ""
+msgstr "Інтеграція з різними сервісами мікроблогінгу"
 
 #: ../../../plugins/blogimprover/src/blogimproverplugin.cpp:36
 #: ../../../plugins/blogimprover/src/blogimproverplugin.cpp:48
 msgctxt "Plugin|"
 msgid "BlogImprover"
-msgstr ""
+msgstr "Інтеграція з блогами"
