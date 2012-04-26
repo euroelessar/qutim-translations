@@ -16,8 +16,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2012-04-25 05:22+0000\n"
-"X-Generator: Launchpad (build 15139)\n"
+"X-Launchpad-Export-Date: 2012-04-26 05:17+0000\n"
+"X-Generator: Launchpad (build 15149)\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:14

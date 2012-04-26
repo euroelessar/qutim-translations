@@ -8,16 +8,17 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-23 17:52+0000\n"
-"PO-Revision-Date: 2012-04-02 15:19+0000\n"
+"PO-Revision-Date: 2012-04-25 19:41+0000\n"
 "Last-Translator: fishi <fishi@i.ua>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-03 05:36+0000\n"
-"X-Generator: Launchpad (build 15052)\n"
+"X-Launchpad-Export-Date: 2012-04-26 05:17+0000\n"
+"X-Generator: Launchpad (build 15149)\n"
 "X-Qt-Contexts: true\n"
+"Language: uk\n"
 
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:58
 msgctxt "Author|"
@@ -28,59 +29,59 @@ msgstr "Олексій Прохін"
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:52
 msgctxt "Plugin|"
 msgid "YandexNarod"
-msgstr ""
+msgstr "Яндекс.Народ"
 
 #: ../../../plugins/yandexnarod/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:53
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:63
 msgctxt "Plugin|"
 msgid "Send files via Yandex.Narod filehosting service"
-msgstr ""
+msgstr "Надіслати файли з допомогою сервісу Яндекс.Народ"
 
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:62
 msgctxt "Plugin|"
 msgid "Yandex.Narod"
-msgstr ""
+msgstr "Яндекс.Народ"
 
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:59
 msgctxt "Task|"
 msgid "Author"
-msgstr ""
+msgstr "Автор"
 
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:73
 msgctxt "Yandex|"
 msgid "Yandex Narod"
-msgstr ""
+msgstr "Яндекс.Народ"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:99
 msgctxt "YandexNarodAuthorizator|"
 msgid "Has no login or password"
-msgstr ""
+msgstr "Відсутній логін або пароль"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:108
 msgctxt "YandexNarodAuthorizator|"
 msgid "Authorization succeed"
-msgstr ""
+msgstr "Успішна авторизація"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:112
 msgctxt "YandexNarodAuthorizator|"
 msgid "Authorization failured"
-msgstr ""
+msgstr "Помилка авторизації"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:177
 msgctxt "YandexNarodAuthorizator|"
 msgid "Unsupported grant type. Inform developers."
-msgstr ""
+msgstr "Тип авторизації не підтримується. Сповістіть про це розробників."
 
 #: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:179
 msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid request. Inform developers."
-msgstr ""
+msgstr "Невірний запит. Повідомте про це розробників."
 
 #: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:181
 msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid login or/and password"
-msgstr ""
+msgstr "Невірний логін або/і пароль"
 
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:196
 msgctxt "YandexNarodFactory|"
@@ -90,12 +91,12 @@ msgstr "Яндекс.Народ"
 #: ../../../plugins/yandexnarod/src/yandexnarodmanage.cpp:35
 msgctxt "YandexNarodManager|"
 msgid "Yandex.Narod file manager"
-msgstr ""
+msgstr "Менеджер файлів Яндекс.Народ"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodnetman.cpp:150
 msgctxt "YandexNarodNetMan|"
 msgid "Authorizing..."
-msgstr ""
+msgstr "Авторизація..."
 
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:14
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:30
@@ -116,7 +117,7 @@ msgstr "Увійти"
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:81
 msgctxt "YandexNarodSettingsClass|"
 msgid "Test Authorization"
-msgstr ""
+msgstr "Перевірка авторизації"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:88
 msgctxt "YandexNarodSettingsClass|"
@@ -141,7 +142,7 @@ msgstr ""
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:122
 msgctxt "YandexNarodSettingsClass|"
 msgid "Send file template"
-msgstr ""
+msgstr "Надіслати шаблон файлу"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:135
 msgctxt "YandexNarodSettingsClass|"
@@ -151,7 +152,7 @@ msgstr "%N - назва файлу; %U - URL файлу; %S - розмір фа�
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:145
 msgctxt "YandexNarodSettingsClass|"
 msgid "Manage files"
-msgstr ""
+msgstr "Керування файлами"
 
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:136
 msgctxt "YandexNarodUploadJob|"
@@ -161,7 +162,7 @@ msgstr "Авторизація..."
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:159
 msgctxt "YandexNarodUploadJob|"
 msgid "Getting storage..."
-msgstr ""
+msgstr "Отримання даних файлосховища..."
 
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:223
 #, qt-format
@@ -174,12 +175,12 @@ msgctxt "YandexNarodUploadJob|Don't remove format arguments"
 msgid ""
 "File sent: %N (%S bytes)\n"
 "%U"
-msgstr ""
+msgstr "Надіслано файл: %N (%S байт)"
 
 #: ../../../plugins/yandexnarod/src/requestauthdialog.ui:26
 msgctxt "requestAuthDialogClass|"
 msgid "Authorization"
-msgstr ""
+msgstr "Авторизація"
 
 #: ../../../plugins/yandexnarod/src/requestauthdialog.ui:36
 msgctxt "requestAuthDialogClass|"
@@ -209,7 +210,7 @@ msgstr "Форма"
 #: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:71
 msgctxt "yandexnarodManageClass|"
 msgid "Get Filelist"
-msgstr ""
+msgstr "Отримати список файлів"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:82
 msgctxt "yandexnarodManageClass|"
@@ -239,7 +240,7 @@ msgstr "Закрити"
 #: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:287
 msgctxt "yandexnarodManageClass|"
 msgid "Files list:"
-msgstr ""
+msgstr "Список файлів:"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:304
 msgctxt "yandexnarodManageClass|"
