@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-06 23:42+0000\n"
-"PO-Revision-Date: 2012-04-24 11:33+0000\n"
-"Last-Translator: Hamper <Unknown>\n"
+"PO-Revision-Date: 2012-04-28 23:25+0000\n"
+"Last-Translator: Alexander Gavrilov <dartraiden@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-25 05:22+0000\n"
-"X-Generator: Launchpad (build 15139)\n"
+"X-Launchpad-Export-Date: 2012-04-29 05:22+0000\n"
+"X-Generator: Launchpad (build 15149)\n"
 "X-Qt-Contexts: true\n"
 "Language: ru\n"
 "X-Language: ru\n"
@@ -245,7 +245,7 @@ msgstr "Контакты"
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:442
 msgctxt "ChatSession|"
 msgid "Auto"
-msgstr "Авто"
+msgstr "Автоматически"
 
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:452
 msgctxt "ChatSession|"
@@ -276,7 +276,7 @@ msgstr "Информация о %1 <%2>"
 #, qt-format
 msgctxt "ContactInfo|"
 msgid "About account %1"
-msgstr "О учетной записи %1"
+msgstr "Об учетной записи %1"
 
 #: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:71
 #: ../../../core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp:101
@@ -338,7 +338,7 @@ msgstr "Переименовать"
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:130
 msgctxt "ContactList|"
 msgid "Enable/disable sound"
-msgstr "Вкл/выкл звуков"
+msgstr "Вкл/выкл звуки"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:84
 msgctxt "ContactList|"
@@ -514,19 +514,19 @@ msgstr "Начать чат"
 #: ../../../core/src/corelayers/addcontactdlg/addcontact.cpp:138
 msgctxt "Core::AddContact|"
 msgid "Show info"
-msgstr "Показать инфо"
+msgstr "Показать информацию"
 
 #: ../../../core/src/corelayers/addcontactdlg/addcontact.cpp:221
 msgctxt "Core::AddContact|"
 msgid "Account must be online"
-msgstr "Учетная запись должна быть \"В Сети\""
+msgstr "Учетная запись должна быть \"В сети\""
 
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:65
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:92
 #, qt-format
 msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "Chat with %1 (have %2 unread messages)"
-msgstr "Чат с %1 (%2 не прочитанных сообщений(е))"
+msgstr "Чат с %1 (непрочитанных сообщений: %2)"
 
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:67
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatforms/abstractchatwidget.cpp:94
@@ -841,7 +841,7 @@ msgid ""
 "qutIM has discovered configuration from 0.2 version, choose profile to "
 "import history and configuration from."
 msgstr ""
-"qutIM  обнаружил конфигурацию из версии 0.2; выберите профиль для импорта "
+"qutIM обнаружил конфигурацию от версии 0.2; выберите профиль для импорта "
 "истории и конфигурации."
 
 #: ../../../core/src/corelayers/migration02x03/migrationstartpage.cpp:97
@@ -863,7 +863,7 @@ msgstr "qutIM %1<br>Использует Qt %2<p>Разработчики:<p>"
 #: ../../../core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp:62
 msgctxt "Core::MobileContactInfoWindow|"
 msgid "Request details"
-msgstr "Запросить детали"
+msgstr "Запросить подробности"
 
 #: ../../../core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp:66
 msgctxt "Core::MobileContactInfoWindow|"
@@ -997,7 +997,7 @@ msgid ""
 "Unable to create directory %1. Maybe you are trying to create a directory in "
 "a protected system directory"
 msgstr ""
-"Не удалось создать каталок %1. Возможно вы пытаетесь создать каталог в "
+"Не удалось создать каталог %1. Возможно вы пытаетесь создать каталог в "
 "защищенной системной области"
 
 #: ../../../core/src/widgets/profilecreationpage.cpp:172
@@ -1024,7 +1024,7 @@ msgstr "Укажите путь"
 #: ../../../core/src/widgets/profiledialog.cpp:111
 msgctxt "Core::ProfileDialog|"
 msgid "Error while loading"
-msgstr "Ошибка времени загрузки"
+msgstr "Ошибка при загрузке"
 
 #: ../../../core/src/widgets/profiledialog.cpp:134
 msgctxt "Core::ProfileDialog|"
@@ -1197,7 +1197,7 @@ msgstr "Дайте новое имя контакту %1"
 #, qt-format
 msgctxt "Core::SimpleActions|"
 msgid "Are you sure you want to delete a contact %1 from the roster?"
-msgstr "Уверен что хочешь удалить %1 из ростера?"
+msgstr "Действительно удалить %1 из ростера?"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp:140
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
@@ -1392,7 +1392,7 @@ msgstr "Больше не спрашивать"
 #: ../../../core/src/widgets/submitpage.cpp:62
 msgctxt "Core::SubmitPage|"
 msgid "Information to be transferred to the qutIM's authors:"
-msgstr "Информация для отправки разработчика qutIM:"
+msgstr "Информация для отправки разработчикам qutIM:"
 
 #: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:264
 #, qt-format
@@ -1432,12 +1432,12 @@ msgstr "-"
 #: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:663
 msgctxt "DataForms|"
 msgid "Open image"
-msgstr "Открыть рисунок"
+msgstr "Открыть изображение"
 
 #: ../../../core/src/corelayers/dataformsbackend/widgets.cpp:665
 msgctxt "DataForms|"
 msgid "Images (*.gif *.bmp *.jpg *.jpeg *.png);;All files (*.*)"
-msgstr "Рисунки (*.gif *.bmp *.jpg *.jpeg *.png);;Все файлы (*.*)"
+msgstr "Изображения (*.gif *.bmp *.jpg *.jpeg *.png);;Все файлы (*.*)"
 
 #: ../../../core/src/corelayers/searchdialog/defaultform/defaultsearchform.ui:20
 msgctxt "DefaultSearchForm|"
@@ -1517,12 +1517,12 @@ msgstr "История"
 #: ../../../core/src/corelayers/jsonhistory/historywindow.ui:27
 msgctxt "HistoryWindowClass|"
 msgid "Account:"
-msgstr "Уч.Запись:"
+msgstr "Учётная запись:"
 
 #: ../../../core/src/corelayers/jsonhistory/historywindow.ui:34
 msgctxt "HistoryWindowClass|"
 msgid "From:"
-msgstr "От:❢Из:"
+msgstr "От:"
 
 #: ../../../core/src/corelayers/jsonhistory/historywindow.ui:60
 msgctxt "HistoryWindowClass|"
@@ -1597,7 +1597,7 @@ msgstr "Присоединиться к конференции"
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:23
 msgctxt "JoinChat|"
 msgid "Account:"
-msgstr "Уч.Запись:"
+msgstr "Учётная запись:"
 
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:47
 msgctxt "JoinChat|"
@@ -1617,7 +1617,7 @@ msgstr "сообщения"
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:181
 msgctxt "JoinChat|"
 msgid "Request messages since the datetime"
-msgstr "Запрос сообщения с определенного момента"
+msgstr "Запросить сообщения с определенной даты"
 
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:188
 msgctxt "JoinChat|"
@@ -1712,11 +1712,10 @@ msgctxt "JoinGroupChat|"
 msgid "Save to bookmarks"
 msgstr "Сохранить в закладках"
 
-# да, это GTranslate ==//== Так лучше?
 #: ../../../core/src/corelayers/shortcutsettings/keysequencewidget.cpp:264
 msgctxt "KeySequenceWidget|"
 msgid "What the user inputs now will be taken as the new shortcut"
-msgstr "То, что будет введено то и будет новым сочетанием клавиш"
+msgstr "Введенное  - станет новым сочетанием клавиш"
 
 #: ../../../core/src/corelayers/shortcutsettings/keysequencewidget.cpp:272
 msgctxt "KeySequenceWidget|"
@@ -3113,7 +3112,7 @@ msgstr "positional() вызвано перед parse()"
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:410
 msgctxt "QxtCommandOptions|"
 msgid "unrecognized() called before parse()"
-msgstr "unrecognized() вызвано преед parse()"
+msgstr "unrecognized() вызвано перед parse()"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:423
 msgctxt "QxtCommandOptions|"
