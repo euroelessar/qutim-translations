@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:85
+#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:89
 msgctxt "ContactList|"
 msgid "qutIM 0.2 style"
 msgstr ""

@@ -142,27 +142,27 @@ msgstr "Текстов етикет"
 #: ../../../core/src/corelayers/authdialog/authdialog.ui:33
 msgctxt "AuthDialog|"
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
-"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-"type=\"text/css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; "
-"font-weight:400; font-style:normal;\">\n"
+"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
 "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-"font-family:'Droid Sans';\"></p></body></html>"
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
+"family:'Droid Sans';\"></p></body></html>"
 msgstr ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
-"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
-"type=\"text/css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; "
-"font-weight:400; font-style:normal;\">\n"
+"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
 "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-"font-family:'Droid Sans';\"></p></body></html>"
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
+"family:'Droid Sans';\"></p></body></html>"
 
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:38
 msgctxt "Author|"
@@ -207,33 +207,33 @@ msgctxt "ChatLayer|"
 msgid "Previous chat"
 msgstr "Предходен разговор"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:59
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:60
 msgctxt "ChatLayer|"
 msgid "Insert Emoticon"
 msgstr "Вмъкване на емотикона"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:98
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:99
 msgctxt "ChatLayer|"
 msgid "Show Emoticons"
 msgstr "Да се показват емотикони"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:103
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:118
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:104
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:119
 msgctxt "ChatLayer|"
 msgid "Quote"
 msgstr "Цитиране"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:108
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:109
 msgctxt "ChatLayer|"
 msgid "Clear Chat"
 msgstr "Изчистване на разговора"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:125
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:126
 msgctxt "ChatLayer|"
 msgid "Clear chat"
 msgstr "Изчистване на разговора"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:128
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:129
 msgctxt "ChatLayer|"
 msgid "Clear chat field"
 msgstr "Изчистване полето на разговора"
@@ -244,12 +244,12 @@ msgctxt "ChatLayer|"
 msgid "ContactList"
 msgstr "Списък с контакти"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:442
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:473
 msgctxt "ChatSession|"
 msgid "Auto"
 msgstr "Автоматично"
 
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:452
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatsessionimpl.cpp:483
 msgctxt "ChatSession|"
 msgid "Last active"
 msgstr "Последният активен"
@@ -372,17 +372,17 @@ msgctxt "ContactList|"
 msgid "Contact list"
 msgstr "Списък с контакти"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:196
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:201
 msgctxt "ContactList|"
 msgid "Select tags"
 msgstr "Избор на етикети"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:202
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:207
 msgctxt "ContactList|"
 msgid "Show/Hide offline"
 msgstr "Показване/Скриване на контактите извън линия"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:205
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:210
 msgctxt "ContactList|"
 msgid "Hide offline"
 msgstr "Скриване на контактите извън линия"
@@ -656,27 +656,27 @@ msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Send to"
 msgstr "Изпращане до"
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:107
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:108
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Session list"
 msgstr "Списък на сесиите"
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:174
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:175
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Send"
 msgstr "Изпращане"
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:220
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:221
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "&Actions"
 msgstr "&Действия"
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:224
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:225
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Accoun&ts"
 msgstr "Смет&ки"
 
-#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:231
+#: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:232
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "&Chat"
 msgstr "&Разговор"
@@ -696,22 +696,22 @@ msgctxt "Core::ChatSpellChecker|"
 msgid "Add to dictionary"
 msgstr "Добавяне към речника"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:120
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:112
 msgctxt "Core::ContactListSettings|"
 msgid "Model"
 msgstr "Модел"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:121
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:113
 msgctxt "Core::ContactListSettings|"
 msgid "Widget style"
 msgstr "Стил на областта за управление"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:122
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:114
 msgctxt "Core::ContactListSettings|"
 msgid "Contacts style"
 msgstr "Стил на контактите"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:214
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:206
 msgctxt "Core::ContactListSettings|"
 msgid "To take effect you must restart qutIM"
 msgstr "За да влязат в сила промените, qutIM трябва да бъде рестартиран"
@@ -1175,13 +1175,13 @@ msgctxt "Core::SimpleAboutDialog|"
 msgid ""
 "<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 3 "
 "or (at your option) any later version.</div><div>qutIM resources such as "
-"themes, icons, sounds may come along with a different "
-"license.</div><br><hr><br>"
+"themes, icons, sounds may come along with a different license.</"
+"div><br><hr><br>"
 msgstr ""
 "<div><b>qutIM</b> %1 е лицензиран под GNU General Public License, версия 3 "
 "или (по ваше усмотрение) всяка последваща версия.</div><div>Ресурсите, които "
-"ползва qutIM например теми, икони, звуци могат да бъдат под друг "
-"лиценз.</div><br><hr><br>"
+"ползва qutIM например теми, икони, звуци могат да бъдат под друг лиценз.</"
+"div><br><hr><br>"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:192
 #, qt-format
@@ -1244,12 +1244,12 @@ msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Contacts' merging"
 msgstr "Обединяване на контакти"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:184
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:189
 msgctxt "Core::SimpleContactList::Module|"
 msgid "Select tags"
 msgstr "Избор на етикети"
 
-#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:186
+#: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:191
 msgctxt "Core::SimpleContactList::Module|"
 msgid "Reset"
 msgstr "Нулиране"
@@ -1291,13 +1291,13 @@ msgid "Main Toolbar"
 msgstr "Главна лента с инструменти"
 
 #: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:120
-#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:344
+#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:345
 msgctxt "Core::SimpleContactList::ToryWidget|"
 msgid "Global status"
 msgstr "Общ статус"
 
 #: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:121
-#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:345
+#: ../../../core/src/corelayers/simplecontactlist/widgets/torycontactlistwidget/torywidget.cpp:346
 msgctxt "Core::SimpleContactList::ToryWidget|"
 msgid "Set Status Text"
 msgstr "Задаване текст на статуса"
@@ -1357,12 +1357,12 @@ msgctxt "Core::SimpleTray|"
 msgid "Blink icon in the tray"
 msgstr "Мигаща икона в системния поднос"
 
-#: ../../../core/src/widgets/submitpage.cpp:49
+#: ../../../core/src/widgets/submitpage.cpp:50
 msgctxt "Core::SubmitPage|"
 msgid "Congratulations"
 msgstr "Поздравления"
 
-#: ../../../core/src/widgets/submitpage.cpp:50
+#: ../../../core/src/widgets/submitpage.cpp:51
 msgctxt "Core::SubmitPage|"
 msgid ""
 "You've just created a profile for qutIM. Click Finish to proceed to adding "
@@ -1371,43 +1371,43 @@ msgstr ""
 "Току що създадохте профил в qutIM. Щракнете бутона \"Приключване\", за да "
 "продължите с добавянето на потребителски сметки"
 
-#: ../../../core/src/widgets/submitpage.cpp:52
+#: ../../../core/src/widgets/submitpage.cpp:53
 msgctxt "Core::SubmitPage|"
 msgid "Statistics gatherer"
 msgstr "Събрана статистика"
 
-#: ../../../core/src/widgets/submitpage.cpp:53
+#: ../../../core/src/widgets/submitpage.cpp:54
 msgctxt "Core::SubmitPage|"
 msgid "Your system settings differ from the ones sent last time"
 msgstr "Настройките на системата ви се различават, от псоледно изпратените"
 
-#: ../../../core/src/widgets/submitpage.cpp:58
+#: ../../../core/src/widgets/submitpage.cpp:67
 msgctxt "Core::SubmitPage|"
 msgid "Would you like to send details about your current setup?"
 msgstr "Желаете ли да изпратите подробности за настоящата инсталация?"
 
-#: ../../../core/src/widgets/submitpage.cpp:60
+#: ../../../core/src/widgets/submitpage.cpp:69
 msgctxt "Core::SubmitPage|"
 msgid "Dont's ask me later"
 msgstr "Да не се пита повече"
 
-#: ../../../core/src/widgets/submitpage.cpp:62
+#: ../../../core/src/widgets/submitpage.cpp:71
 msgctxt "Core::SubmitPage|"
 msgid "Information to be transferred to the qutIM's authors:"
 msgstr "Информация, която бихте изпратили до авторите на qutIM:"
 
-#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:264
+#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:303
 #, qt-format
 msgctxt "Core::XSettingsWindow|"
 msgid "qutIM settings - %1"
 msgstr "Настройки на qutIM - %1"
 
-#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:280
+#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:319
 msgctxt "Core::XSettingsWindow|"
 msgid "Apply Settings - System Settings"
 msgstr "Прилагане на настройките - Системни настройки"
 
-#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:281
+#: ../../../core/src/corelayers/xsettingsdialog/xsettingswindow.cpp:320
 msgctxt "Core::XSettingsWindow|"
 msgid ""
 "The settings of the current module have changed. \n"
@@ -1786,8 +1786,8 @@ msgstr "Български"
 
 #: ../../../core/src/corelayers/localization/localizationsettings.cpp:62
 msgctxt ""
-"Localization|Localized country name, empty if localization is "
-"country-independent"
+"Localization|Localized country name, empty if localization is country-"
+"independent"
 msgid "<Country>"
 msgstr "България"
 
@@ -1941,79 +1941,90 @@ msgctxt "Notification|"
 msgid "System"
 msgstr "Системни"
 
-#: ../../../core/libqutim/notification.cpp:220
+#: ../../../core/libqutim/notification.cpp:207
+msgctxt "Notification|"
+msgid "Contact is asking for your attention"
+msgstr ""
+
+#: ../../../core/libqutim/notification.cpp:221
 msgctxt "Notification|"
 msgid "A new message has been received"
 msgstr "Получено е ново съобщение"
 
-#: ../../../core/libqutim/notification.cpp:221
+#: ../../../core/libqutim/notification.cpp:222
 msgctxt "Notification|"
 msgid "A message has been sent"
 msgstr "Изпратено е ново съобщение"
 
-#: ../../../core/libqutim/notification.cpp:222
+#: ../../../core/libqutim/notification.cpp:223
 msgctxt "Notification|"
 msgid "qutIM has started"
 msgstr "qutIM е стартиран"
 
-#: ../../../core/libqutim/notification.cpp:223
+#: ../../../core/libqutim/notification.cpp:224
 msgctxt "Notification|"
 msgid "A message has been blocked"
 msgstr "Блокирано е съобщение"
 
-#: ../../../core/libqutim/notification.cpp:224
+#: ../../../core/libqutim/notification.cpp:225
 msgctxt "Notification|"
 msgid "A user has joined a conference"
 msgstr "Потребител се присъединява към конференция"
 
-#: ../../../core/libqutim/notification.cpp:225
+#: ../../../core/libqutim/notification.cpp:226
 msgctxt "Notification|"
 msgid "A user has left a conference"
 msgstr "Потребител напуска конференция"
 
-#: ../../../core/libqutim/notification.cpp:226
+#: ../../../core/libqutim/notification.cpp:227
 msgctxt "Notification|"
 msgid "A new conference message has been received"
 msgstr "Получено е ново съобщение в конференция"
 
-#: ../../../core/libqutim/notification.cpp:227
+#: ../../../core/libqutim/notification.cpp:228
 msgctxt "Notification|"
 msgid "A conference message has been sent"
 msgstr "Изпратено е ново съобщение в конференция"
 
-#: ../../../core/libqutim/notification.cpp:228
+#: ../../../core/libqutim/notification.cpp:229
 msgctxt "Notification|"
 msgid "A file transfer has been completed"
 msgstr "Обмена на файл(ове) завърши"
 
-#: ../../../core/libqutim/notification.cpp:229
+#: ../../../core/libqutim/notification.cpp:230
 msgctxt "Notification|"
 msgid "A contact has gone online"
 msgstr "Контакт идва на линия"
 
-#: ../../../core/libqutim/notification.cpp:230
+#: ../../../core/libqutim/notification.cpp:231
 msgctxt "Notification|"
 msgid "A contact has gone offline"
 msgstr "Контакт излиза извън линия"
 
-#: ../../../core/libqutim/notification.cpp:231
+#: ../../../core/libqutim/notification.cpp:232
 msgctxt "Notification|"
 msgid "A contact has changed status"
 msgstr "Контакт променя статуса си"
 
-#: ../../../core/libqutim/notification.cpp:232
+#: ../../../core/libqutim/notification.cpp:233
 msgctxt "Notification|"
 msgid "A contact has birthday!"
 msgstr "Контакт има рожден ден!"
 
-#: ../../../core/libqutim/notification.cpp:233
+#: ../../../core/libqutim/notification.cpp:234
 msgctxt "Notification|"
 msgid "A contact is typing"
 msgstr "Контакт пише"
 
-#: ../../../core/libqutim/notification.cpp:234
+#: ../../../core/libqutim/notification.cpp:235
 msgctxt "Notification|"
 msgid "A system notification"
+msgstr "Системно уведомление"
+
+#: ../../../core/libqutim/notification.cpp:236
+#, fuzzy
+msgctxt "Notification|"
+msgid "Attention notification"
 msgstr "Системно уведомление"
 
 #: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp:98
@@ -2173,14 +2184,14 @@ msgstr "Бърз и лек изглед на разговора"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:29
 #: ../../../core/__data_from_cmakelists_txt.cpp:31
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:83
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:84
 msgctxt "Plugin|"
 msgid "Webkit chat layer"
 msgstr "WebKit слой за разговор"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:30
 #: ../../../core/__data_from_cmakelists_txt.cpp:32
-#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:84
+#: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:85
 msgctxt "Plugin|"
 msgid "Default qutIM chat implementation, based on Adium chat styles"
 msgstr ""
@@ -2846,22 +2857,22 @@ msgctxt "QObject|"
 msgid "Tool button style"
 msgstr "Стил на бутоните"
 
-#: ../../../core/libqutim/utils.cpp:124
+#: ../../../core/libqutim/utils.cpp:126
 msgctxt "QObject|"
 msgid "1st quarter"
 msgstr "Първо тримесечие"
 
-#: ../../../core/libqutim/utils.cpp:127
+#: ../../../core/libqutim/utils.cpp:129
 msgctxt "QObject|"
 msgid "2nd quarter"
 msgstr "Второ тримесечие"
 
-#: ../../../core/libqutim/utils.cpp:130
+#: ../../../core/libqutim/utils.cpp:132
 msgctxt "QObject|"
 msgid "3rd quarter"
 msgstr "Трето тримесечие"
 
-#: ../../../core/libqutim/utils.cpp:133
+#: ../../../core/libqutim/utils.cpp:135
 msgctxt "QObject|"
 msgid "4th quarter"
 msgstr "Четвърто тримесечие"
@@ -2970,17 +2981,23 @@ msgctxt "QObject|"
 msgid "%1 is typing"
 msgstr "%1 пише"
 
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:84
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:82
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 is asking for your attention"
+msgstr ""
+
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:87
 msgctxt "QObject|"
 msgid "System notify"
 msgstr "Системно уведомление"
 
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:179
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:183
 msgctxt "QObject|"
 msgid "Open chat"
 msgstr "Отваряне на разговора"
 
-#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:186
+#: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:190
 msgctxt "QObject|"
 msgid "Ignore"
 msgstr "Пренебрегване"
@@ -3382,7 +3399,7 @@ msgctxt "Service|"
 msgid "VibrationAlert"
 msgstr "Вибрационна сигнализация"
 
-#: ../../../core/libqutim/settingslayer.cpp:393
+#: ../../../core/libqutim/settingslayer.cpp:403
 msgctxt "Service|"
 msgid "Settings Window"
 msgstr "Прозорец с настройки"
@@ -3397,7 +3414,7 @@ msgctxt "SessionHelperSettings|"
 msgid "Form"
 msgstr "Настройки на сесийния помощник"
 
-#: ../../../core/src/corelayers/sessionhelper/src/sessionhelpersettings.ui:23
+#: ../../../core/src/corelayers/sessionhelper/src/sessionhelpersettings.ui:29
 msgctxt "SessionHelperSettings|"
 msgid "Activate multichat when session created"
 msgstr "Да се активира груповия разговор при създаване на сесия"
@@ -3422,42 +3439,42 @@ msgctxt "Settings|"
 msgid "Check"
 msgstr "Поле за отметка"
 
-#: ../../../core/libqutim/settingslayer.cpp:313
+#: ../../../core/libqutim/settingslayer.cpp:323
 msgctxt "Settings|"
 msgid "Open File"
 msgstr "Отваряне на файл"
 
-#: ../../../core/libqutim/settingslayer.cpp:315
+#: ../../../core/libqutim/settingslayer.cpp:325
 msgctxt "Settings|"
 msgid "Log file (*.log)"
 msgstr "Файл (*.log)"
 
-#: ../../../core/libqutim/settingslayer.cpp:441
+#: ../../../core/libqutim/settingslayer.cpp:451
 msgctxt "Settings|"
 msgid "General"
 msgstr "Общи"
 
-#: ../../../core/libqutim/settingslayer.cpp:442
+#: ../../../core/libqutim/settingslayer.cpp:452
 msgctxt "Settings|"
 msgid "Protocols"
 msgstr "Протоколи"
 
-#: ../../../core/libqutim/settingslayer.cpp:443
+#: ../../../core/libqutim/settingslayer.cpp:453
 msgctxt "Settings|"
 msgid "Appearance"
 msgstr "Облик"
 
-#: ../../../core/libqutim/settingslayer.cpp:444
+#: ../../../core/libqutim/settingslayer.cpp:454
 msgctxt "Settings|"
 msgid "Plugins"
 msgstr "Добавки"
 
-#: ../../../core/libqutim/settingslayer.cpp:445
+#: ../../../core/libqutim/settingslayer.cpp:455
 msgctxt "Settings|"
 msgid "Special"
 msgstr "Специални"
 
-#: ../../../core/libqutim/settingslayer.cpp:446
+#: ../../../core/libqutim/settingslayer.cpp:456
 msgctxt "Settings|"
 msgid "Invalid"
 msgstr "Невалидни"
@@ -4041,14 +4058,14 @@ msgstr "Възпроизвеждане на звук"
 #, qt-format
 msgctxt "qutim_sdk_0_3::StatisticsHelper|"
 msgid ""
-"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br "
-"/><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br "
-"/><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
+"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br /"
+"><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br /"
+"><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
 msgstr ""
-"<b>Съкратено:</b> %1 <br /><b>Версия:</b> %2 <br /><b>Пълно:</b> %3 <br "
-"/><b>Версия на qutIM:</b> %4 <br /><b>Версия на Qt:</b> %5 (%6 bit) <br "
-"/><b>Разделителна способност на екрана:</b> %7 x %8 <br /><b>Системен "
-"локал:</b> %9<br />"
+"<b>Съкратено:</b> %1 <br /><b>Версия:</b> %2 <br /><b>Пълно:</b> %3 <br /"
+"><b>Версия на qutIM:</b> %4 <br /><b>Версия на Qt:</b> %5 (%6 bit) <br /"
+"><b>Разделителна способност на екрана:</b> %7 x %8 <br /><b>Системен локал:</"
+"b> %9<br />"
 
 #: ../../../core/src/corelayers/contactinfo/userinformation.ui:14
 msgctxt "userInformationClass|"

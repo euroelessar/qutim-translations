@@ -17,12 +17,12 @@ msgstr ""
 "X-Source-Language: C\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:356
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:355
 msgctxt "Adium::WebViewAppearance|"
 msgid "Choose background image"
 msgstr "Избор на фоново изображение"
 
-#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:358
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:357
 msgctxt "Adium::WebViewAppearance|"
 msgid "Images (*.png *.xpm *.jpg *.bmp *.gif)"
 msgstr "Изображения (*.png *.xpm *.jpg *.bmp *.gif)"
@@ -67,17 +67,17 @@ msgctxt "QObject|"
 msgid "4th quarter"
 msgstr "4-та четвърт"
 
-#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:176
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:181
 msgctxt "QObject|"
 msgid "Normal"
 msgstr "Нормален"
 
-#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:797
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:802
 msgctxt "QObject|"
 msgid "Download %fileName%"
 msgstr "Изтегляне на %fileName%"
 
-#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:997
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:1006
 msgctxt "QObject|"
 msgid "(Autoreply)"
 msgstr "(Автоматичен отговор)"

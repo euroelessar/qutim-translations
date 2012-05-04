@@ -13,7 +13,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-04-29 05:22+0000\n"
 "X-Generator: Launchpad (build 15149)\n"
 "X-Qt-Contexts: true\n"
-"Language: cs\n"
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
 

@@ -21,7 +21,7 @@ msgstr ""
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
 
-#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:85
+#: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:89
 msgctxt "ContactList|"
 msgid "qutIM 0.2 style"
 msgstr "qutIM 0.2"

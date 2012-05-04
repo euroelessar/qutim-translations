@@ -19,12 +19,12 @@ msgstr ""
 "X-Generator: Launchpad (build 15052)\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:356
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:355
 msgctxt "Adium::WebViewAppearance|"
 msgid "Choose background image"
 msgstr "Виберіть фонову картинку"
 
-#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:358
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:357
 msgctxt "Adium::WebViewAppearance|"
 msgid "Images (*.png *.xpm *.jpg *.bmp *.gif)"
 msgstr "Картинки (*.png *.xpm *.jpg *.bmp *.gif)"
@@ -69,17 +69,17 @@ msgctxt "QObject|"
 msgid "4th quarter"
 msgstr ""
 
-#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:176
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:181
 msgctxt "QObject|"
 msgid "Normal"
 msgstr "Звичайний"
 
-#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:797
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:802
 msgctxt "QObject|"
 msgid "Download %fileName%"
 msgstr "Завантажити %fileName%"
 
-#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:997
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:1006
 msgctxt "QObject|"
 msgid "(Autoreply)"
 msgstr "(Автовідповідь)"
