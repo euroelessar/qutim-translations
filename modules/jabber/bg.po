@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-06 23:42+0000\n"
-"PO-Revision-Date: 2012-04-07 09:31+0000\n"
+"POT-Creation-Date: 2012-05-04 19:01+0000\n"
+"PO-Revision-Date: 2012-05-04 19:29+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-08 05:18+0000\n"
-"X-Generator: Launchpad (build 15060)\n"
+"X-Launchpad-Export-Date: 2012-05-05 05:46+0000\n"
+"X-Generator: Launchpad (build 15195)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: bg\n"
 "X-Source-Language: C\n"
@@ -1007,7 +1007,7 @@ msgstr "Настройване на стаята"
 #: ../../../protocols/jabber/src/protocol/modules/jinglesupport/jinglesupport.cpp:72
 msgctxt "Jabber|"
 msgid "Voice call"
-msgstr ""
+msgstr "Гласов разговор"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:59
 msgctxt "Jabber|"
@@ -1101,17 +1101,17 @@ msgstr "Без дейност"
 #, qt-format
 msgctxt "Jabber::JAttention|"
 msgid "%1 trying to attract your attention!"
-msgstr ""
+msgstr "%1 се опитва да привлече вниманието ви!"
 
 #: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:125
 msgctxt "Jabber::JAttention|"
 msgid "Contact's client does not suppoort attentions"
-msgstr ""
+msgstr "Клиентът на контакта не поддържа привличане на внимание"
 
 #: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:127
 msgctxt "Jabber::JAttention|"
 msgid "Trying to attract attention."
-msgstr ""
+msgstr "Опитвате се да привлечете внимание"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:241
 msgctxt "Jabber::JBookmarkManager|"
@@ -1353,10 +1353,9 @@ msgid "PGP key importing error"
 msgstr "Грешка при импортиране на PGP ключа"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:138
-#, fuzzy
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "Entered invalid passphrase"
-msgstr "Невалидна фраза"
+msgstr "Въведената фраза е невалидна"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:141
 msgctxt "Jabber::JPGPKeyDialog|"
@@ -2480,31 +2479,29 @@ msgid "Jabber proxy support"
 msgstr "Поддръжка на прокси в Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:142
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Jabber Attention support"
-msgstr "Поддръжка на прокси в Jabber"
+msgstr "Поддръжка на привличане на внимание в Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:143
 msgctxt "Plugin|"
 msgid "Jabber Attention support (XEP-0224)"
-msgstr ""
+msgstr "Поддръжка на привличане на внимание в Jabber (XEP-0224)"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:148
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Jabber VoIP support"
-msgstr "Поддръжка на Jabber vCard"
+msgstr "Поддръжка на VoIP в Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:149
 msgctxt "Plugin|"
 msgid "Allows to talk by voice and video"
-msgstr ""
+msgstr "Дава възможност за провеждане на гласови и видео разговори"
 
 #: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:80
 msgctxt "QObject|"
 msgid "Send Attention"
-msgstr ""
+msgstr "Привличане на внимание"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:14
 msgctxt "RoomConfig|"

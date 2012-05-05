@@ -1,0 +1,245 @@
+# Ukrainian translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-03-24 00:01+0000\n"
+"PO-Revision-Date: 2012-05-04 22:02+0000\n"
+"Last-Translator: ma$terok <Unknown>\n"
+"Language-Team: Ukrainian <uk@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Launchpad-Export-Date: 2012-05-05 05:46+0000\n"
+"X-Generator: Launchpad (build 15195)\n"
+
+#: ../../../plugins/histman/src/chooseclientpage.ui:14
+msgctxt "ChooseClientPage|"
+msgid "WizardPage"
+msgstr "Майстер міграції"
+
+#: ../../../plugins/histman/src/chooseordumppage.ui:14
+msgctxt "ChooseOrDumpPage|"
+msgid "WizardPage"
+msgstr "Майстер міграції"
+
+#: ../../../plugins/histman/src/chooseordumppage.ui:20
+msgctxt "ChooseOrDumpPage|"
+msgid "Import history from one more client"
+msgstr "Імпортувати історію з наступного клієнта"
+
+#: ../../../plugins/histman/src/chooseordumppage.ui:27
+msgctxt "ChooseOrDumpPage|"
+msgid "Dump history"
+msgstr "Зберегти історію"
+
+#: ../../../plugins/histman/src/clientconfigpage.ui:14
+msgctxt "ClientConfigPage|"
+msgid "WizardPage"
+msgstr "Майстер міграції"
+
+#: ../../../plugins/histman/src/clientconfigpage.ui:20
+msgctxt "ClientConfigPage|"
+msgid "Path to profile:"
+msgstr "Шлях до профілю:"
+
+#: ../../../plugins/histman/src/clientconfigpage.ui:32
+msgctxt "ClientConfigPage|"
+msgid "..."
+msgstr "…"
+
+#: ../../../plugins/histman/src/clientconfigpage.ui:48
+msgctxt "ClientConfigPage|"
+msgid "Encoding:"
+msgstr "Кодування:"
+
+#: ../../../plugins/histman/src/clients/gajim.cpp:109
+#: ../../../plugins/histman/src/clients/psi.cpp:172
+msgctxt "ClientConfigPage|"
+msgid "Select your Jabber account."
+msgstr "Виберіть ваш Jabber акаунт"
+
+#: ../../../plugins/histman/src/clients/qipinfium.cpp:191
+msgctxt "ClientConfigPage|"
+msgid "Select accounts for each protocol in the list."
+msgstr "Виберіть облікові записи для кожного протоколу в списку."
+
+#: ../../../plugins/histman/src/dumphistorypage.ui:14
+msgctxt "DumpHistoryPage|"
+msgid "WizardPage"
+msgstr "Майстер міграції"
+
+#: ../../../plugins/histman/src/dumphistorypage.ui:20
+msgctxt "DumpHistoryPage|"
+msgid "Choose format:"
+msgstr "Виберіть формат:"
+
+#: ../../../plugins/histman/src/dumphistorypage.ui:27
+msgctxt "DumpHistoryPage|"
+msgid "JSON"
+msgstr "JSON (За замовчуванням)"
+
+#: ../../../plugins/histman/src/dumphistorypage.ui:34
+msgctxt "DumpHistoryPage|"
+msgid "Binary"
+msgstr "Двійковий"
+
+#: ../../../plugins/histman/src/dumphistorypage.ui:41
+msgctxt "DumpHistoryPage|"
+msgid "Merging history state:"
+msgstr "Обєднання історій:"
+
+#: ../../../plugins/histman/src/dumphistorypage.ui:55
+msgctxt "DumpHistoryPage|"
+msgid "Dumping history state:"
+msgstr "Збереження історії:"
+
+#: ../../../plugins/histman/src/chooseclientpage.cpp:55
+msgctxt "HistoryManager::ChooseClientPage|"
+msgid "Client"
+msgstr "Клієнт"
+
+#: ../../../plugins/histman/src/chooseclientpage.cpp:56
+msgctxt "HistoryManager::ChooseClientPage|"
+msgid "Choose client which history you want to import to qutIM."
+msgstr "Виберіть клієнта, історію якого, необхідно імпортувати в qutIM."
+
+#: ../../../plugins/histman/src/chooseordumppage.cpp:37
+msgctxt "HistoryManager::ChooseOrDumpPage|Dump history or choose next client"
+msgid "What to do next?"
+msgstr "Що робити далі?"
+
+#: ../../../plugins/histman/src/chooseordumppage.cpp:38
+msgctxt "HistoryManager::ChooseOrDumpPage|"
+msgid ""
+"It is possible to choose another client for import history or dump history "
+"to the disk."
+msgstr ""
+"Можна вибрати інший клієнт для імпортування історії  чи збереження на диск"
+
+#: ../../../plugins/histman/src/clientconfigpage.cpp:55
+msgctxt "HistoryManager::ClientConfigPage|"
+msgid "Configuration"
+msgstr "Конфігурація"
+
+#: ../../../plugins/histman/src/clientconfigpage.cpp:76
+#, qt-format
+msgctxt "HistoryManager::ClientConfigPage|"
+msgid "Enter path of your %1 profile file."
+msgstr "Вкажіть шлях до файлу профіля %1"
+
+#: ../../../plugins/histman/src/clientconfigpage.cpp:78
+#, qt-format
+msgctxt "HistoryManager::ClientConfigPage|"
+msgid "Enter path of your %1 profile dir."
+msgstr "Вкажіть шлях до папки профіля %1"
+
+#: ../../../plugins/histman/src/clientconfigpage.cpp:83
+msgctxt "HistoryManager::ClientConfigPage|"
+msgid ""
+"If your history encoding differs from the system one, choose the appropriate "
+"encoding for history."
+msgstr ""
+"Якщо кодування історії відрізняється від системної, ви можете обрати "
+"необхідне."
+
+#: ../../../plugins/histman/src/clientconfigpage.cpp:172
+#: ../../../plugins/histman/src/clientconfigpage.cpp:174
+msgctxt "HistoryManager::ClientConfigPage|"
+msgid "Select path"
+msgstr "Вкажіть шлях"
+
+#: ../../../plugins/histman/src/dumphistorypage.cpp:68
+msgctxt "HistoryManager::DumpHistoryPage|"
+msgid "Dumping"
+msgstr "Збереження"
+
+#: ../../../plugins/histman/src/dumphistorypage.cpp:102
+msgctxt "HistoryManager::DumpHistoryPage|"
+msgid "Last step. Click 'Dump' to start dumping process."
+msgstr ""
+"Останній крок. Натисніть кнопку 'Зберегти', щоб розпочати процес злиття."
+
+#: ../../../plugins/histman/src/dumphistorypage.cpp:118
+msgctxt "HistoryManager::DumpHistoryPage|"
+msgid "Manager merges history, it make take several minutes."
+msgstr "Менеджер об'єднує історію, це може зайняти декілька хвилин."
+
+#: ../../../plugins/histman/src/dumphistorypage.cpp:145
+msgctxt "HistoryManager::DumpHistoryPage|"
+msgid "History has been succesfully imported."
+msgstr "Історія була успішно імпортована."
+
+#: ../../../plugins/histman/src/historymanagerwindow.cpp:85
+#: ../../../plugins/histman/src/historymanagerwindow.cpp:287
+msgctxt "HistoryManager::HistoryManagerWindow|"
+msgid "History manager"
+msgstr "Менеджер історії"
+
+#: ../../../plugins/histman/src/historymanagerwindow.cpp:95
+msgctxt "HistoryManager::HistoryManagerWindow|"
+msgid "&Dump"
+msgstr "&Зберегти"
+
+#: ../../../plugins/histman/src/importhistorypage.cpp:54
+msgctxt "HistoryManager::ImportHistoryPage|"
+msgid "Loading"
+msgstr "Завантаження"
+
+#: ../../../plugins/histman/src/importhistorypage.cpp:71
+msgctxt "HistoryManager::ImportHistoryPage|"
+msgid "Manager loads all history to memory, it may take several minutes."
+msgstr ""
+"Менеджер завантажує всю історію в пам'ять, це може зайняти кілька хвилин."
+
+#: ../../../plugins/histman/src/importhistorypage.cpp:97
+#, qt-format
+msgctxt "HistoryManager::ImportHistoryPage|"
+msgid "%n message(s) have been succesfully loaded to memory."
+msgid_plural "%n message(s) have been succesfully loaded to memory."
+msgstr[0] "%n повідомлень(ня) були успішно завантажені в пам'ять."
+msgstr[1] "%n повідомлень(ня) були успішно завантажені в пам'ять."
+msgstr[2] "%n повідомлень(ня) були успішно завантажені в пам'ять."
+
+#: ../../../plugins/histman/src/importhistorypage.cpp:98
+#, qt-format
+msgctxt "HistoryManager::ImportHistoryPage|"
+msgid "It has taken %n ms."
+msgid_plural "It has taken %n ms."
+msgstr[0] "Це зайняло %n мс."
+msgstr[1] "Це зайняло %n мс."
+msgstr[2] "Це зайняло %n мс."
+
+#: ../../../plugins/histman/src/historymanagerwindow.ui:16
+msgctxt "HistoryManagerWindow|"
+msgid "Form"
+msgstr "Стиль"
+
+#: ../../../plugins/histman/src/importhistorypage.ui:14
+msgctxt "ImportHistoryPage|"
+msgid "WizardPage"
+msgstr "Майстер міграції"
+
+#: ../../../plugins/histman/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/histman/src/historymanagerplugin.cpp:37
+msgctxt "Plugin|"
+msgid "HistMan"
+msgstr "Менеджер історії"
+
+#: ../../../plugins/histman/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/histman/src/historymanagerplugin.cpp:38
+msgctxt "Plugin|"
+msgid ""
+"Plugin makes possible to import history to qutIM from different messengers"
+msgstr "Плагін дозволяє імпортувати історію в qutIM з інших клієнтів."
+
+#: ../../../plugins/histman/src/historymanagerplugin.cpp:48
+msgctxt "Plugin|"
+msgid "Import history"
+msgstr "Імпорт історії"
