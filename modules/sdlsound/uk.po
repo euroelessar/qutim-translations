@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-02-19 16:52+0000\n"
-"PO-Revision-Date: 2012-05-04 21:25+0000\n"
+"POT-Creation-Date: 2012-03-23 17:51+0000\n"
+"PO-Revision-Date: 2012-05-04 22:04+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,17 +16,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-05-05 05:47+0000\n"
 "X-Generator: Launchpad (build 15195)\n"
-"X-Qt-Contexts: true\n"
-"Language: uk\n"
 
-#: ../../../plugins/qrcicons/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/sdlsound/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/sdlsound/src/sdlplugin.cpp:32
+#: ../../../plugins/sdlsound/src/sdlplugin.cpp:37
 msgctxt "Plugin|"
-msgid "Resource Icon Loader"
-msgstr "Завантажувач ресурсів Іконок"
+msgid "SDL sound engine"
+msgstr "Звуковий рушій SDL"
 
-#: ../../../plugins/qrcicons/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/sdlsound/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/sdlsound/src/sdlplugin.cpp:33
+#: ../../../plugins/sdlsound/src/sdlplugin.cpp:38
 msgctxt "Plugin|"
-msgid "Very simple icon loader from compiled resources for embedded devices"
-msgstr ""
-"Дуже простий завантажувач іконок з компільованих ресурсів для мобільних "
-"пристроїв"
+msgid "Sound engine based on Simple DirectMedia Layer"
+msgstr "Звуковий рушій, заснований на Simple DirectMedia Layer"

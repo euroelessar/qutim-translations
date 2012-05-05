@@ -7,27 +7,27 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-23 17:51+0000\n"
-"PO-Revision-Date: 2012-04-02 14:47+0000\n"
-"Last-Translator: fishi <fishi@i.ua>\n"
+"POT-Creation-Date: 2012-05-04 19:01+0000\n"
+"PO-Revision-Date: 2012-05-04 17:34+0000\n"
+"Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-03 05:36+0000\n"
-"X-Generator: Launchpad (build 15052)\n"
+"X-Launchpad-Export-Date: 2012-05-05 05:47+0000\n"
+"X-Generator: Launchpad (build 15195)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
 
-#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:356
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:355
 msgctxt "Adium::WebViewAppearance|"
 msgid "Choose background image"
-msgstr "Виберіть фонову картинку"
+msgstr "Виберіть фонове зображення"
 
-#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:358
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:357
 msgctxt "Adium::WebViewAppearance|"
 msgid "Images (*.png *.xpm *.jpg *.bmp *.gif)"
-msgstr "Картинки (*.png *.xpm *.jpg *.bmp *.gif)"
+msgstr "Зображення (*.png *.xpm *.jpg *.bmp *.gif)"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewvariable.cpp:40
 msgctxt "Adium::WebViewFont|"
@@ -42,44 +42,44 @@ msgstr "Налаштування чату"
 #: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:3
 msgctxt "Plugin|"
 msgid "Adium-like WebView"
-msgstr ""
+msgstr "WebView схожий на Adium"
 
 #: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
 msgid "Well-look stylished view based on WebKit and Adium ideas"
-msgstr ""
+msgstr "Вигляд вікна чата, заснований на WebKit на мотив Adium-тем"
 
 #: ../../../plugins/adiumwebview/lib/old/webkitutils.cpp:121
 msgctxt "QObject|"
 msgid "1st quarter"
-msgstr ""
+msgstr "1-ша чверть"
 
 #: ../../../plugins/adiumwebview/lib/old/webkitutils.cpp:124
 msgctxt "QObject|"
 msgid "2nd quarter"
-msgstr ""
+msgstr "2-га чверть"
 
 #: ../../../plugins/adiumwebview/lib/old/webkitutils.cpp:127
 msgctxt "QObject|"
 msgid "3rd quarter"
-msgstr ""
+msgstr "3-тя чверть"
 
 #: ../../../plugins/adiumwebview/lib/old/webkitutils.cpp:130
 msgctxt "QObject|"
 msgid "4th quarter"
-msgstr ""
+msgstr "4-та чверть"
 
-#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:176
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:181
 msgctxt "QObject|"
 msgid "Normal"
 msgstr "Звичайний"
 
-#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:797
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:802
 msgctxt "QObject|"
 msgid "Download %fileName%"
 msgstr "Завантажити %fileName%"
 
-#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:997
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:1006
 msgctxt "QObject|"
 msgid "(Autoreply)"
 msgstr "(Автовідповідь)"
@@ -92,7 +92,7 @@ msgstr "Чат"
 #: ../../../plugins/adiumwebview/__custom_json_from_styles.cpp:1
 msgctxt "Style|"
 msgid "Animated new messages"
-msgstr "Нові анімовані повідомлення"
+msgstr "Анімація нових повідомлень"
 
 #: ../../../plugins/adiumwebview/__custom_json_from_styles.cpp:2
 msgctxt "Style|"
@@ -117,12 +117,12 @@ msgstr "Показувати аватари"
 #: ../../../plugins/adiumwebview/lib/old/widget.ui:14
 msgctxt "Widget|"
 msgid "Widget"
-msgstr "Віджет"
+msgstr "Віджети"
 
 #: ../../../plugins/adiumwebview/lib/old/widget.ui:30
 msgctxt "Widget|"
 msgid "QWebView"
-msgstr ""
+msgstr "QWebView"
 
 #: ../../../plugins/adiumwebview/lib/old/widget.ui:40
 msgctxt "Widget|"
@@ -132,12 +132,12 @@ msgstr "about:blank"
 #: ../../../plugins/adiumwebview/lib/old/widget.ui:49
 msgctxt "Widget|"
 msgid "QDeclarativeView"
-msgstr ""
+msgstr "QDeclarativeView"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:14
 msgctxt "chatAppearance|"
 msgid "Form"
-msgstr "Форма"
+msgstr "Стиль"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:44
 msgctxt "chatAppearance|"
@@ -152,17 +152,17 @@ msgstr "Варіант:"
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:78
 msgctxt "chatAppearance|"
 msgid "Show user icons"
-msgstr "Показувати ікони користувачів"
+msgstr "Показувати аватари"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:85
 msgctxt "chatAppearance|"
 msgid "Show header"
-msgstr ""
+msgstr "Показувати заголовки"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:92
 msgctxt "chatAppearance|"
 msgid "Text display:"
-msgstr "Відображення тексту:"
+msgstr "Вигляд тексту:"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:121
 msgctxt "chatAppearance|"
@@ -172,7 +172,7 @@ msgstr "Встановити шрифт..."
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:128
 msgctxt "chatAppearance|"
 msgid "Default"
-msgstr "Типовий"
+msgstr "За замовчуванням"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:137
 msgctxt "chatAppearance|"
@@ -192,7 +192,7 @@ msgstr "Зображення:"
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:197
 msgctxt "chatAppearance|"
 msgid "Normal"
-msgstr ""
+msgstr "Нормальний"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:202
 msgctxt "chatAppearance|"
@@ -202,17 +202,17 @@ msgstr "По центру"
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:207
 msgctxt "chatAppearance|"
 msgid "Tiled"
-msgstr "Мозаїка"
+msgstr "Мозаїкою"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:212
 msgctxt "chatAppearance|"
 msgid "Tiled (Centered)"
-msgstr "Мозаїка (центр)"
+msgstr "Мозаїкою по центру"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:217
 msgctxt "chatAppearance|"
 msgid "Scaled"
-msgstr "Масштабовано"
+msgstr "В масштабі"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:225
 msgctxt "chatAppearance|"

@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-06 23:42+0000\n"
+"POT-Creation-Date: 2012-05-04 19:01+0000\n"
 "PO-Revision-Date: 2012-04-15 07:29+0000\n"
 "Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-16 05:22+0000\n"
-"X-Generator: Launchpad (build 15099)\n"
+"X-Launchpad-Export-Date: 2012-05-05 05:46+0000\n"
+"X-Generator: Launchpad (build 15195)\n"
 "X-Qt-Contexts: true\n"
 "Language: ru\n"
 "X-Language: ru\n"
@@ -423,7 +423,7 @@ msgctxt "Activity|"
 msgid "Show contact activity icon"
 msgstr "Показывать пиктограмму занятия"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:57
+#: ../../../protocols/jabber/src/jplugin.cpp:59
 msgctxt "Author|"
 msgid "Nikita Belov"
 msgstr "Белов Никита"
@@ -662,17 +662,17 @@ msgctxt "ContactInfo|"
 msgid "E-mail"
 msgstr "Эл. почта"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:167
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:184
 msgctxt "ContactResource|"
 msgid "Resource"
 msgstr "Ресурс"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:174
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:191
 msgctxt "ContactResource|"
 msgid "Possible client"
 msgstr "Возможный клиент"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:181
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:198
 msgctxt "ContactResource|"
 msgid "OS"
 msgstr "ОС"
@@ -712,37 +712,37 @@ msgctxt "JAccountWizardPage|"
 msgid "WizardPage"
 msgstr "Мастер"
 
-#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:20
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:41
 msgctxt "JAccountWizardPage|"
 msgid "I already have account"
 msgstr "У меня уже есть аккаунт"
 
-#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:42
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:63
 msgctxt "JAccountWizardPage|"
 msgid "Login:"
 msgstr "Логин:"
 
-#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:60
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:81
 msgctxt "JAccountWizardPage|"
 msgid "TextLabel"
 msgstr "Поле текста"
 
-#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:69
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:90
 msgctxt "JAccountWizardPage|"
 msgid "Password:"
 msgstr "Пароль:"
 
-#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:86
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:107
 msgctxt "JAccountWizardPage|"
 msgid "Save password"
 msgstr "Сохранить пароль"
 
-#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:96
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:117
 msgctxt "JAccountWizardPage|"
 msgid "I want to create new account"
 msgstr "Я хочу создать новый аккаунт"
 
-#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:112
+#: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:133
 msgctxt "JAccountWizardPage|"
 msgid "Server:"
 msgstr "Сервер:"
@@ -1007,6 +1007,11 @@ msgctxt "Jabber|"
 msgid "Room's configuration"
 msgstr "Настройки комнаты"
 
+#: ../../../protocols/jabber/src/protocol/modules/jinglesupport/jinglesupport.cpp:72
+msgctxt "Jabber|"
+msgid "Voice call"
+msgstr ""
+
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:59
 msgctxt "Jabber|"
 msgid "Service discovery"
@@ -1094,6 +1099,22 @@ msgstr "Выбрать"
 msgctxt "Jabber::JActivityChooserWindow|"
 msgid "No activity"
 msgstr "Нет занятия"
+
+#: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:115
+#, qt-format
+msgctxt "Jabber::JAttention|"
+msgid "%1 trying to attract your attention!"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:125
+msgctxt "Jabber::JAttention|"
+msgid "Contact's client does not suppoort attentions"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:127
+msgctxt "Jabber::JAttention|"
+msgid "Trying to attract attention."
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:241
 msgctxt "Jabber::JBookmarkManager|"
@@ -1327,37 +1348,43 @@ msgctxt "Jabber::JPGPKeyDialog|"
 msgid "User ID"
 msgstr "Идентификатор пользователя"
 
-#: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:135
+#: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:138
+#: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:141
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "PGP key importing error"
 msgstr "Ошибка импортирования PGP ключа"
 
-#: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:135
+#: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:138
+msgctxt "Jabber::JPGPKeyDialog|"
+msgid "Entered invalid passphrase"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:141
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "Provided key is invalid"
 msgstr "Предложенный ключ не верен"
 
-#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:67
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:69
 msgctxt "Jabber::JPGPSupport|"
 msgid "Assign PGP key"
 msgstr "Назначить PGP ключ"
 
-#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:69
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:71
 msgctxt "Jabber::JPGPSupport|"
 msgid "Remove PGP key"
 msgstr "Удалить PGP ключ"
 
-#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:94
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:96
 msgctxt "Jabber::JPGPSupport|"
 msgid "Disable PGP encryption"
 msgstr "Отключить PGP шифрование"
 
-#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:97
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:99
 msgctxt "Jabber::JPGPSupport|"
 msgid "Enable PGP encryption"
 msgstr "Включить PGP шифрование"
 
-#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:356
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:377
 #, qt-format
 msgctxt "Jabber::JPGPSupport|"
 msgid ""
@@ -1367,64 +1394,64 @@ msgstr ""
 "Произошла ошибка во время смены статуса.\n"
 "Причина: %1"
 
-#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:418
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:439
 msgctxt "Jabber::JPGPSupport|"
 msgid "[ERROR: This message is encrypted, and you are unable to decrypt it.]"
 msgstr ""
 "[Ошибка: Это сообщение зашифровано, и вы не можете расшифровать его.]"
 
-#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:537
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:558
 #, qt-format
 msgctxt "Jabber::JPGPSupport|"
 msgid "%1 : OpenPGP Passphrase"
 msgstr "%1 : кодовая фраза OpenPGP"
 
-#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:538
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:559
 msgctxt "Jabber::JPGPSupport|"
 msgid "Your passphrase is needed to use OpenPGP security."
 msgstr "Ваша кодовая фраза необходима для использования OpenPGP"
 
-#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:670
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:691
 msgctxt "Jabber::JPGPSupport|"
 msgid "Invalid passphrase"
 msgstr "Неверный пароль шифрования"
 
-#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:673
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:694
 msgctxt "Jabber::JPGPSupport|"
 msgid "Invalid input format"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:676
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:697
 msgctxt "Jabber::JPGPSupport|"
 msgid "Signing key expired"
 msgstr "Ключ подписи истек"
 
-#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:679
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:700
 msgctxt "Jabber::JPGPSupport|"
 msgid "Invalid key"
 msgstr "Неверный ключ"
 
-#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:682
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:703
 msgctxt "Jabber::JPGPSupport|"
 msgid "Encrypting key expired"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:685
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:706
 msgctxt "Jabber::JPGPSupport|"
 msgid "Encrypting key is untrusted"
 msgstr "Ключ шифрования не является доверенным"
 
-#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:688
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:709
 msgctxt "Jabber::JPGPSupport|"
 msgid "Encrypting key is invalid"
 msgstr "Ключ шифрования не верен"
 
-#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:691
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:712
 msgctxt "Jabber::JPGPSupport|"
 msgid "PGP card is missing"
 msgstr "Не правильная PGP карта"
 
-#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:694
+#: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:715
 msgctxt "Jabber::JPGPSupport|"
 msgid "Unknown error"
 msgstr "Неизвестная ошибка"
@@ -1461,29 +1488,29 @@ msgctxt "Jabber::JProtocol|"
 msgid "Show client icon"
 msgstr "Показывать значок клиента"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:154
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:171
 #, qt-format
 msgctxt "Jabber::JRoster|"
 msgid "Contact %1 has been added to roster"
 msgstr "Контакт %1 добавлен в ростер"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:183
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:200
 #, qt-format
 msgctxt "Jabber::JRoster|"
 msgid "Contact %1 has been removed from roster"
 msgstr "Контакт %1 удален из ростера"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:373
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:447
 msgctxt "Jabber::JRoster|"
 msgid "Received a request for removal from the subscribers"
 msgstr "Принят запрос на удаление из подписок"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:381
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:455
 msgctxt "Jabber::JRoster|"
 msgid "You have been removed from the list of subscribers"
 msgstr "Вы были исключены из списка подписчиков"
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:389
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:463
 msgctxt "Jabber::JRoster|"
 msgid "You have been added to the list of subscribers"
 msgstr "Вы были добавлены в список подписчиков"
@@ -2301,8 +2328,8 @@ msgid "Show contact mood icon"
 msgstr "Показывать пиктограмму настроения контакта"
 
 #: ../../../protocols/jabber/__data_from_cmakelists_txt.cpp:1
-#: ../../../protocols/jabber/src/jplugin.cpp:53
-#: ../../../protocols/jabber/src/jplugin.cpp:63
+#: ../../../protocols/jabber/src/jplugin.cpp:55
+#: ../../../protocols/jabber/src/jplugin.cpp:65
 msgctxt "Plugin|"
 msgid "Jabber protocol"
 msgstr "Протокол Jabber"
@@ -2312,157 +2339,182 @@ msgctxt "Plugin|"
 msgid "Implementation of jabber protocol based on jreen library"
 msgstr "Реализация протокола Jabber основанная на библиотеке jreen"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:52
-#: ../../../protocols/jabber/src/jplugin.cpp:62
+#: ../../../protocols/jabber/src/jplugin.cpp:54
+#: ../../../protocols/jabber/src/jplugin.cpp:64
 msgctxt "Plugin|"
 msgid "Jabber"
 msgstr "Jabber"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:66
+#: ../../../protocols/jabber/src/jplugin.cpp:68
 msgctxt "Plugin|"
 msgid "Jabber account creator"
 msgstr "Создание аккаунта Jabber"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:67
+#: ../../../protocols/jabber/src/jplugin.cpp:69
 msgctxt "Plugin|"
 msgid "Account creator for Jabber protocol"
 msgstr "Создание учетной записи Jabber"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:70
+#: ../../../protocols/jabber/src/jplugin.cpp:72
 msgctxt "Plugin|"
 msgid "LiveJournal account creator"
 msgstr "Создание учетной записи LiveJournal / Жежешечки"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:71
+#: ../../../protocols/jabber/src/jplugin.cpp:73
 msgctxt "Plugin|"
 msgid "Account creator for LiveJournal"
 msgstr "Создание учётной записи LiveJournal / Жежешечки"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:74
+#: ../../../protocols/jabber/src/jplugin.cpp:76
 msgctxt "Plugin|"
 msgid "Google Talk account creator"
 msgstr "Создание аккаунтов Google Talk (GTalk)"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:75
+#: ../../../protocols/jabber/src/jplugin.cpp:77
 msgctxt "Plugin|"
 msgid "Account creator for Google Talk"
 msgstr "Создание аккаунтов Google Talk"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:78
+#: ../../../protocols/jabber/src/jplugin.cpp:80
 msgctxt "Plugin|"
 msgid "Yandex.Online account creator"
 msgstr "Регистратор аккаунтов Я.Онлайн"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:79
+#: ../../../protocols/jabber/src/jplugin.cpp:81
 msgctxt "Plugin|"
 msgid "Account creator for Yandex.Online"
 msgstr "Регистратор аккаунтов для Я.Онлайн"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:82
+#: ../../../protocols/jabber/src/jplugin.cpp:84
 msgctxt "Plugin|"
 msgid "QIP account creator"
 msgstr "Регистратор аккаунтов QIP"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:83
+#: ../../../protocols/jabber/src/jplugin.cpp:85
 msgctxt "Plugin|"
 msgid "Account creator for QIP"
 msgstr "Создание аккаунтов QIP"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:87
+#: ../../../protocols/jabber/src/jplugin.cpp:89
 msgctxt "Plugin|"
 msgid "Jabber XML console"
 msgstr "XML консоль"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:88
+#: ../../../protocols/jabber/src/jplugin.cpp:90
 msgctxt "Plugin|"
 msgid "XML console for low-level protocol debugging"
 msgstr "XML консоль для низкоуровневой отладки"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:100
+#: ../../../protocols/jabber/src/jplugin.cpp:102
 msgctxt "Plugin|"
 msgid "Jabber Service Browser"
 msgstr "Обзор сервисов jabber"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:101
+#: ../../../protocols/jabber/src/jplugin.cpp:103
 msgctxt "Plugin|"
 msgid "Implementation of service browser"
 msgstr "Реализация браузера сервисов"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:108
+#: ../../../protocols/jabber/src/jplugin.cpp:110
 msgctxt "Plugin|"
 msgid "Jabber Personal Events support"
 msgstr "Поддержка персональных уведомлений в Jabber"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:109
+#: ../../../protocols/jabber/src/jplugin.cpp:111
 msgctxt "Plugin|"
 msgid "Implementation of personal events protocol"
 msgstr "Реализация протокола персональных уведомлений"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:112
+#: ../../../protocols/jabber/src/jplugin.cpp:114
 msgctxt "Plugin|"
 msgid "Jabber VCard support"
 msgstr "Поддержка Jabber VCard"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:113
+#: ../../../protocols/jabber/src/jplugin.cpp:115
 msgctxt "Plugin|"
 msgid "Implementation of VCard info requests"
 msgstr "Реализация запросов VCard"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:116
+#: ../../../protocols/jabber/src/jplugin.cpp:118
 msgctxt "Plugin|"
 msgid "Jabber User Mood support"
 msgstr "Поддержка настроений в Jabber"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:117
+#: ../../../protocols/jabber/src/jplugin.cpp:119
 msgctxt "Plugin|"
 msgid "Convertes internal XMPP data of mood to Qt data types"
 msgstr "Конвертирует встроенную информацию о настроении XMPP в тип Qt"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:120
+#: ../../../protocols/jabber/src/jplugin.cpp:122
 msgctxt "Plugin|"
 msgid "Jabber Mood Chooser"
 msgstr "Выбор настроения в Jabber"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:121
+#: ../../../protocols/jabber/src/jplugin.cpp:123
 msgctxt "Plugin|"
 msgid "Provides the dialog to set your mood"
 msgstr "Диалог выбора настроения"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:124
+#: ../../../protocols/jabber/src/jplugin.cpp:126
 msgctxt "Plugin|"
 msgid "Jabber User Tune support"
 msgstr "Поддержка \"Сейчас играет\" в Jabber"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:125
+#: ../../../protocols/jabber/src/jplugin.cpp:127
 msgctxt "Plugin|"
 msgid "Convertes internal XMPP data of tune to Qt data types"
 msgstr "Конвертирует данные XMPP о песне в тип данных Qt"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:128
+#: ../../../protocols/jabber/src/jplugin.cpp:130
 msgctxt "Plugin|"
 msgid "Jabber User Activity support"
 msgstr "Поддержка уведомлений об активности в Jabber"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:129
+#: ../../../protocols/jabber/src/jplugin.cpp:131
 msgctxt "Plugin|"
 msgid "Convertes internal XMPP data of activity to Qt data types"
 msgstr "Конвертирует данные о активности из типа XMPP в тип Qt"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:132
+#: ../../../protocols/jabber/src/jplugin.cpp:134
 msgctxt "Plugin|"
 msgid "Jabber Activity Chooser"
 msgstr "Выбор активности в Jabber"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:133
+#: ../../../protocols/jabber/src/jplugin.cpp:135
 msgctxt "Plugin|"
 msgid "Provides the dialog to set your activity"
 msgstr "Предоставляет диалог для выбора текущей активности"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:136
-#: ../../../protocols/jabber/src/jplugin.cpp:137
+#: ../../../protocols/jabber/src/jplugin.cpp:138
+#: ../../../protocols/jabber/src/jplugin.cpp:139
 msgctxt "Plugin|"
 msgid "Jabber proxy support"
 msgstr "Поддержка прокси в Jabber"
+
+#: ../../../protocols/jabber/src/jplugin.cpp:142
+msgctxt "Plugin|"
+msgid "Jabber Attention support"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:143
+msgctxt "Plugin|"
+msgid "Jabber Attention support (XEP-0224)"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:148
+msgctxt "Plugin|"
+msgid "Jabber VoIP support"
+msgstr ""
+
+#: ../../../protocols/jabber/src/jplugin.cpp:149
+msgctxt "Plugin|"
+msgid "Allows to talk by voice and video"
+msgstr ""
+
+#: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:80
+msgctxt "QObject|"
+msgid "Send Attention"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:14
 msgctxt "RoomConfig|"
@@ -2571,7 +2623,7 @@ msgctxt "Settings|"
 msgid "Room configuration"
 msgstr "Конфигурация комнаты"
 
-#: ../../../protocols/jabber/src/jplugin.cpp:58
+#: ../../../protocols/jabber/src/jplugin.cpp:60
 msgctxt "Task|"
 msgid "Author"
 msgstr "Автор"
@@ -2591,7 +2643,7 @@ msgctxt "Tune|"
 msgid "Show tune icon"
 msgstr "Показывать пиктограмму музыки"
 
-#: ../../../protocols/jabber/jreen/src/gui/xmlconsole.ui:14
+#: ../../../protocols/jabber/jreen/deffered/gui/xmlconsole.ui:14
 msgctxt "XmlConsole|"
 msgid "Form"
 msgstr "Настройки"
