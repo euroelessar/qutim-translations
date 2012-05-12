@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-05-06 16:03+0000\n"
+"PO-Revision-Date: 2012-05-11 22:05+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-07 05:12+0000\n"
-"X-Generator: Launchpad (build 15195)\n"
+"X-Launchpad-Export-Date: 2012-05-12 06:22+0000\n"
+"X-Generator: Launchpad (build 15225)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
 
@@ -1779,14 +1779,14 @@ msgstr "Очистити поле пошуку"
 #: ../../../core/src/corelayers/localization/localizationsettings.cpp:59
 msgctxt "Localization|Localized language name"
 msgid "<Language>"
-msgstr "<Мова>"
+msgstr "<Українська>"
 
 #: ../../../core/src/corelayers/localization/localizationsettings.cpp:62
 msgctxt ""
 "Localization|Localized country name, empty if localization is country-"
 "independent"
 msgid "<Country>"
-msgstr "<Країна>"
+msgstr "<Україна>"
 
 #: ../../../core/src/corelayers/localization/localizationsettings.ui:14
 msgctxt "LocalizationSettings|"
@@ -2704,22 +2704,22 @@ msgstr "Форма пошуку, оптимізована під мобільн�
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:91
 msgctxt "Plugin|"
 msgid "ContactDelegate"
-msgstr ""
+msgstr "Прорисовка контактів"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:92
 msgctxt "Plugin|"
 msgid "Just simple"
-msgstr ""
+msgstr "Простий"
 
 #: ../../../core/src/corelayers/trayicon/simpletray.cpp:143
 msgctxt "Plugin|"
 msgid "Notification Area Icon"
-msgstr ""
+msgstr "Іконка у області сповіщень"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:14
 msgctxt "ProfileCreationPage|"
 msgid "WizardPage"
-msgstr "Сторінка майстра"
+msgstr "Майстер міграції"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:41
 msgctxt "ProfileCreationPage|"
@@ -2729,7 +2729,7 @@ msgstr "Ім'я:"
 #: ../../../core/src/widgets/profilecreationpage.ui:48
 msgctxt "ProfileCreationPage|"
 msgid "It will be shown in chat dialogs"
-msgstr ""
+msgstr "Це буде показуватися в вікнах з розмовами"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:55
 msgctxt "ProfileCreationPage|"
@@ -2744,27 +2744,27 @@ msgstr "Використовується для індентифікації п�
 #: ../../../core/src/widgets/profilecreationpage.ui:69
 msgctxt "ProfileCreationPage|"
 msgid "Show advanced settings"
-msgstr ""
+msgstr "Показати розширені налаштування"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:76
 msgctxt "ProfileCreationPage|"
 msgid "Advanced settings"
-msgstr ""
+msgstr "Додаткові налаштування"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:82
 msgctxt "ProfileCreationPage|"
 msgid "Download clients icons from qutim.org server"
-msgstr ""
+msgstr "Завантажувати іконки клієнтів з сервера qutim.org"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:92
 msgctxt "ProfileCreationPage|"
 msgid "Store data at application dir"
-msgstr "Розміщати інформацію в каталозі програми"
+msgstr "Портативний режим, файли конфігурації у папці з  програмою"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:99
 msgctxt "ProfileCreationPage|"
 msgid "Config dir:"
-msgstr "Налаштувати каталог"
+msgstr "Папака з конфігами:"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:111
 #: ../../../core/src/widgets/profilecreationpage.ui:132
@@ -2776,22 +2776,22 @@ msgstr "..."
 #: ../../../core/src/widgets/profilecreationpage.ui:120
 msgctxt "ProfileCreationPage|"
 msgid "History dir:"
-msgstr "Каталог з історією"
+msgstr "Папка з історією:"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:141
 msgctxt "ProfileCreationPage|"
 msgid "Data dir:"
-msgstr "Каталог з інфоомацією"
+msgstr "Папка з загальними файлами:"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:162
 msgctxt "ProfileCreationPage|"
 msgid "Choose cryptograhic module:"
-msgstr ""
+msgstr "Оберіть модуль шифрування:"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:182
 msgctxt "ProfileCreationPage|"
 msgid "Choose config backend:"
-msgstr ""
+msgstr "Оберіть модуль збереження налаштувань:"
 
 #: ../../../core/src/widgets/profiledialog.ui:53
 msgctxt "ProfileDialog|"
@@ -2801,7 +2801,7 @@ msgstr "Профілі"
 #: ../../../core/libqutim/networkproxy.cpp:90
 msgctxt "Proxy|"
 msgid "Host"
-msgstr "Хост"
+msgstr "Сервер"
 
 #: ../../../core/libqutim/networkproxy.cpp:91
 msgctxt "Proxy|"
@@ -2831,17 +2831,17 @@ msgstr "Протокол HTTP"
 #: ../../../core/libqutim/actiontoolbar.cpp:124
 msgctxt "QObject|"
 msgid "ToolBar appearance"
-msgstr ""
+msgstr "Оформлення панелей"
 
 #: ../../../core/libqutim/actiontoolbar.cpp:126
 msgctxt "QObject|"
 msgid "Icon size"
-msgstr "Розмір іконки"
+msgstr "Розмір іконок"
 
 #: ../../../core/libqutim/actiontoolbar.cpp:132
 msgctxt "QObject|"
 msgid "Tool button style"
-msgstr ""
+msgstr "Стиль кнопок інструментів"
 
 #: ../../../core/libqutim/utils.cpp:126
 msgctxt "QObject|"
@@ -2871,7 +2871,7 @@ msgstr "Вилучити завершені завдання"
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:100
 msgctxt "QObject|"
 msgid "Close"
-msgstr "Зачинити"
+msgstr "Закрити"
 
 #: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:215
 #, qt-format
@@ -2900,7 +2900,7 @@ msgstr "%1 Б"
 #: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:95
 msgctxt "QObject|"
 msgid "Auto"
-msgstr "Авто"
+msgstr "Автоматично"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:46
 #, qt-format
@@ -2923,7 +2923,7 @@ msgstr "qutIM запустився"
 #, qt-format
 msgctxt "QObject|"
 msgid "Blocked message from %1"
-msgstr "Блокувати повідомлення від %1"
+msgstr "Заблоковано повідомлення від %1"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:61
 #, qt-format
@@ -2941,13 +2941,13 @@ msgstr "%1 в мережі"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 has left"
-msgstr "Залишилося %1"
+msgstr "%1 пішов"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:70
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 is offline"
-msgstr "%1 поза мережею"
+msgstr "%1 вийшов з мережі"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:73
 #, qt-format
