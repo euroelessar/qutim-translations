@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-05-11 22:05+0000\n"
+"PO-Revision-Date: 2012-05-12 19:58+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-12 06:22+0000\n"
+"X-Launchpad-Export-Date: 2012-05-13 05:02+0000\n"
 "X-Generator: Launchpad (build 15225)\n"
 "X-Qt-Contexts: true\n"
 
@@ -2964,13 +2964,13 @@ msgstr "У %1 сьогодні день народження!!"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 is typing"
-msgstr "%1 набирає"
+msgstr "%1 щось друкує"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:82
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 is asking for your attention"
-msgstr ""
+msgstr "%1 просить вашої уваги"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:87
 msgctxt "QObject|"
@@ -2985,83 +2985,83 @@ msgstr "Відкрити розмову"
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:190
 msgctxt "QObject|"
 msgid "Ignore"
-msgstr "Ігнорувати"
+msgstr "Відхилити"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:179
 #, qt-format
 msgctxt "QObject|"
 msgid "Copy %1 to clipboard"
-msgstr ""
+msgstr "Копіювати %1 до буферу"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:101
 msgctxt "QxtCommandOptions|"
 msgid "sets the application GUI style"
-msgstr ""
+msgstr "встановлює стиль графічного інтерфейсу програми"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:102
 msgctxt "QxtCommandOptions|"
 msgid "sets the application stylesheet"
-msgstr ""
+msgstr "встановлює таблицю стилів програми"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:103
 msgctxt "QxtCommandOptions|"
 msgid "restores the application from an earlier session"
-msgstr ""
+msgstr "відновлює попередню сесію програми"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:104
 msgctxt "QxtCommandOptions|"
 msgid "displays debugging information about widgets"
-msgstr ""
+msgstr "виводить налагоджувальну інформацію про віджети"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:105
 msgctxt "QxtCommandOptions|"
 msgid "use right-to-left layout"
-msgstr ""
+msgstr "використовувати розташування з права на ліво"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:107
 msgctxt "QxtCommandOptions|"
 msgid "never grab the mouse or keyboard"
-msgstr ""
+msgstr "ніколи не захоплювати мишею чи клавіатурою"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:110
 msgctxt "QxtCommandOptions|"
 msgid "grab the mouse/keyboard even in a debugger"
-msgstr ""
+msgstr "захоплювати мишу/клавіатуру лише при налагодженні"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:111
 msgctxt "QxtCommandOptions|"
 msgid "run in synchronous mode for debugging"
-msgstr ""
+msgstr "запустити в синхонному режимі для налагодження"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:114
 msgctxt "QxtCommandOptions|"
 msgid "use Direct3D by default"
-msgstr ""
+msgstr "використовувати Direct3D за замовчуванням"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:117
 msgctxt "QxtCommandOptions|"
 msgid "sets the X11 display"
-msgstr ""
+msgstr "встановлює дисплей Х11"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:118
 msgctxt "QxtCommandOptions|"
 msgid "sets the geometry of the first window"
-msgstr ""
+msgstr "встановлює геометрію першого вікна"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:120
 msgctxt "QxtCommandOptions|"
 msgid "sets the default font"
-msgstr ""
+msgstr "встановлює шрифт за замовчуванням"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:122
 msgctxt "QxtCommandOptions|"
 msgid "sets the default background color"
-msgstr ""
+msgstr "встановлює фон за замовчуванням"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:124
 msgctxt "QxtCommandOptions|"
 msgid "sets the default foreground color"
-msgstr ""
+msgstr "встановлює колір тексту за замовчуванням"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:126
 msgctxt "QxtCommandOptions|"
