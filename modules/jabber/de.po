@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-04-11 20:12+0000\n"
+"PO-Revision-Date: 2012-05-13 12:14+0000\n"
 "Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-05 05:46+0000\n"
-"X-Generator: Launchpad (build 15195)\n"
+"X-Launchpad-Export-Date: 2012-05-14 05:23+0000\n"
+"X-Generator: Launchpad (build 15238)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
@@ -1006,7 +1006,7 @@ msgstr "Raum einrichten"
 #: ../../../protocols/jabber/src/protocol/modules/jinglesupport/jinglesupport.cpp:72
 msgctxt "Jabber|"
 msgid "Voice call"
-msgstr ""
+msgstr "Sprachanruf"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:59
 msgctxt "Jabber|"
@@ -1100,17 +1100,17 @@ msgstr "Keine Tätigkeit"
 #, qt-format
 msgctxt "Jabber::JAttention|"
 msgid "%1 trying to attract your attention!"
-msgstr ""
+msgstr "%1 macht auf sich aufmerksam!"
 
 #: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:125
 msgctxt "Jabber::JAttention|"
 msgid "Contact's client does not suppoort attentions"
-msgstr ""
+msgstr "Der Client des Benutzers unterstützt keine Jabber-Attentions"
 
 #: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:127
 msgctxt "Jabber::JAttention|"
 msgid "Trying to attract attention."
-msgstr ""
+msgstr "Versuche Aufmerksamkeit zu erregen."
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:241
 msgctxt "Jabber::JBookmarkManager|"
@@ -1353,7 +1353,7 @@ msgstr "Fehler beim Importieren des PGP-Schlüssels"
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:138
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "Entered invalid passphrase"
-msgstr ""
+msgstr "Ungültige Passphrase"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:141
 msgctxt "Jabber::JPGPKeyDialog|"
@@ -2485,27 +2485,27 @@ msgstr "Jabber proxy support"
 #: ../../../protocols/jabber/src/jplugin.cpp:142
 msgctxt "Plugin|"
 msgid "Jabber Attention support"
-msgstr ""
+msgstr "Jabber Attention support"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:143
 msgctxt "Plugin|"
 msgid "Jabber Attention support (XEP-0224)"
-msgstr ""
+msgstr "Unterstützung für Jabber-Attentions (XEP-0224)"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:148
 msgctxt "Plugin|"
 msgid "Jabber VoIP support"
-msgstr ""
+msgstr "Jabber VoIP support"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:149
 msgctxt "Plugin|"
 msgid "Allows to talk by voice and video"
-msgstr ""
+msgstr "Ermöglicht Sprach- und Videounterhaltungen"
 
 #: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:80
 msgctxt "QObject|"
 msgid "Send Attention"
-msgstr ""
+msgstr "Um Aufmerksamkeit bitten"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:14
 msgctxt "RoomConfig|"

@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-05-12 19:58+0000\n"
+"PO-Revision-Date: 2012-05-13 14:55+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-13 05:02+0000\n"
-"X-Generator: Launchpad (build 15225)\n"
+"X-Launchpad-Export-Date: 2012-05-14 05:23+0000\n"
+"X-Generator: Launchpad (build 15238)\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../../core/libqutim/account.cpp:144
@@ -3066,54 +3066,54 @@ msgstr "встановлює колір тексту за замовчуванн
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:126
 msgctxt "QxtCommandOptions|"
 msgid "sets the default button color"
-msgstr ""
+msgstr "встановлює колір кнопки за замовчуванням"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:127
 msgctxt "QxtCommandOptions|"
 msgid "sets the application name"
-msgstr ""
+msgstr "встановлює ім'я програми"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:128
 msgctxt "QxtCommandOptions|"
 msgid "sets the application title"
-msgstr ""
+msgstr "встановлює заголовок програми"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:129
 msgctxt "QxtCommandOptions|"
 msgid "sets the X11 visual type"
-msgstr ""
+msgstr "встановлює видимий тип Х11"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:130
 msgctxt "QxtCommandOptions|"
 msgid "limit the number of colors on an 8-bit display"
-msgstr ""
+msgstr "обмежує кількість кольорів для 8-бітного дисплею"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:131
 msgctxt "QxtCommandOptions|"
 msgid "use a private color map"
-msgstr ""
+msgstr "використовує приватну палітру кольорів"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:132
 msgctxt "QxtCommandOptions|"
 msgid "sets the input method server"
-msgstr ""
+msgstr "встановлює метод введення"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:133
 msgctxt "QxtCommandOptions|"
 msgid "disable the X Input Method"
-msgstr ""
+msgstr "відключити X Input Method"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:134
 msgctxt "QxtCommandOptions|"
 msgid "sets the style used by the input method"
-msgstr ""
+msgstr "задає стиль, використовуваний методом введення"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:235
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:249
 #, qt-format
 msgctxt "QxtCommandOptions|"
 msgid "option \"%1\" not found"
-msgstr ""
+msgstr "не знайдено параметр \"%1\""
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:384
 msgctxt "QxtCommandOptions|"
@@ -3723,7 +3723,7 @@ msgstr "Показати кількість розмов з новими пов�
 #: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:52
 msgctxt "SimpletraySettings|"
 msgid "Show only icon"
-msgstr "Показувати тільки ікону"
+msgstr "Показувати тільки іконку"
 
 #: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:62
 msgctxt "SimpletraySettings|"
@@ -3733,7 +3733,7 @@ msgstr "Інше"
 #: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:68
 msgctxt "SimpletraySettings|"
 msgid "Show mail icon if there are new messages"
-msgstr "Показувати ікону листа, якщо є нові повідомлення"
+msgstr "Показувати іконку листа, якщо є нові повідомлення"
 
 #: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:75
 msgctxt "SimpletraySettings|"
