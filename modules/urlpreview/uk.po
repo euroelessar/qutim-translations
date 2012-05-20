@@ -8,34 +8,35 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-23 17:51+0000\n"
-"PO-Revision-Date: 2012-04-02 17:36+0000\n"
-"Last-Translator: fishi <fishi@i.ua>\n"
+"PO-Revision-Date: 2012-05-19 11:21+0000\n"
+"Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-03 05:36+0000\n"
-"X-Generator: Launchpad (build 15052)\n"
+"X-Launchpad-Export-Date: 2012-05-20 05:10+0000\n"
+"X-Generator: Launchpad (build 15259)\n"
 "X-Qt-Contexts: true\n"
+"Language: uk\n"
 
 #: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:41
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:54
 msgctxt "Plugin|"
 msgid "UrlPreview"
-msgstr ""
+msgstr "Попередній перегляд посилань"
 
 #: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:42
 msgctxt "Plugin|"
 msgid "Preview images directly in the chat window"
-msgstr ""
+msgstr "Попередній перегляд зображень у вікні розмови"
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:65
 msgctxt "UrlPreview::UrlHandler|"
 msgid "URL Preview"
-msgstr ""
+msgstr "Попередній перегляд посилань"
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:65
 msgctxt "UrlPreview::UrlHandler|"
@@ -46,7 +47,7 @@ msgstr "байтів"
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:76
 msgctxt "UrlPreview::UrlHandler|"
 msgid "Something went wrong."
-msgstr ""
+msgstr "Щось пішло не так."
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:241
 msgctxt "UrlPreview::UrlHandler|"
@@ -62,27 +63,27 @@ msgstr "Невідомо"
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:254
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Audio"
-msgstr ""
+msgstr "HTML5 аудіо"
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:268
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Video"
-msgstr ""
+msgstr "HTML5 відео"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:14
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Form"
-msgstr "Форма"
+msgstr "Стиль"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:26
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Max filesize"
-msgstr ""
+msgstr "Максимальний розмір файлу"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:33
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Max picture size to preview "
-msgstr ""
+msgstr "Максимальний розмір зображення для попереднього перегляду "
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:36
 msgctxt "UrlPreviewSettingsForm|"
@@ -124,14 +125,14 @@ msgstr "Попередній перегляд зображень"
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:117
 msgctxt "UrlPreviewSettingsForm|"
 msgid "YouTube preview"
-msgstr ""
+msgstr "Перегляд YouTube"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:127
 msgctxt "UrlPreviewSettingsForm|"
 msgid "HTML5 Audio"
-msgstr ""
+msgstr "HTML5 аудіо"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:137
 msgctxt "UrlPreviewSettingsForm|"
 msgid "HTML5 Video"
-msgstr ""
+msgstr "HTML5 відео"
