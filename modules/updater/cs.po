@@ -1,0 +1,32 @@
+# Czech translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-03-30 18:39+0000\n"
+"PO-Revision-Date: 2012-05-20 06:52+0000\n"
+"Last-Translator: Lubor PETR <luborpetr@gmail.com>\n"
+"Language-Team: Czech <cs@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-05-24 21:31+0000\n"
+"X-Generator: Launchpad (build 15288)\n"
+
+#: ../../../plugins/updater/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/updater/src/updater.cpp:49
+msgctxt "Plugin|"
+msgid "Updater"
+msgstr "Správce aktualizací"
+
+#: ../../../plugins/updater/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/updater/src/updater.cpp:50
+msgctxt "Plugin|"
+msgid ""
+"In therory this plugin is auto-updater of qutIM, but currently it updates "
+"only client icons"
+msgstr ""

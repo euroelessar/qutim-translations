@@ -1,0 +1,131 @@
+# Ukrainian translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-02-21 20:01+0000\n"
+"PO-Revision-Date: 2012-05-22 21:08+0000\n"
+"Last-Translator: ma$terok <Unknown>\n"
+"Language-Team: Ukrainian <uk@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-05-24 21:31+0000\n"
+"X-Generator: Launchpad (build 15288)\n"
+
+#: ../../../plugins/macintegration/src/macidle/macidle.mm:79
+msgctxt "AutoAway|"
+msgid "Auto-away"
+msgstr "Авто-\"Відійшов\""
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:117
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Accounts"
+msgstr "Облікові записи"
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:118
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Chats"
+msgstr "Чати"
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:120
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Set Status Text"
+msgstr "Введіть текст статусу"
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:267
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "File"
+msgstr "Файл"
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:268
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Roster"
+msgstr "Список контактів"
+
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:14
+msgctxt "MacIdleWidget|"
+msgid "Form"
+msgstr "Стиль"
+
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:32
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:56
+#, qt-format
+msgctxt "MacIdleWidget|"
+msgid "Set status «%1» after:"
+msgstr "Встановити статус  «%1» через:"
+
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:39
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:99
+msgctxt "MacIdleWidget|seconds"
+msgid " min"
+msgstr " хвилин"
+
+#: ../../../plugins/macintegration/src/macdock/macdock.mm:111
+msgctxt "MacIntegration::MacDock|"
+msgid "Opened chats"
+msgstr "Відкриті чати"
+
+#: ../../../plugins/macintegration/src/macspellchecker/macspellsettings.cpp:38
+msgctxt "MacIntegration::MacSpellSettings|"
+msgid "Language"
+msgstr "Мова"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Growl notifications"
+msgstr "Сповіщення Growl"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Default Mac Os X Notifications"
+msgstr "Типові сповіщення для  Mac Os X"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:3
+msgctxt "Plugin|"
+msgid "Mac Contactlist"
+msgstr "Список контактів в стилі Мас"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:4
+msgctxt "Plugin|"
+msgid "Mac OS X contactlist"
+msgstr "Маковський список контактів"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:5
+msgctxt "Plugin|"
+msgid "Dock integration"
+msgstr "Інтеграція в док-панель"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:6
+msgctxt "Plugin|"
+msgid "Mac OS X dock integration"
+msgstr "Інтеграція в маковський док"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:7
+msgctxt "Plugin|"
+msgid "SpellChecker"
+msgstr "Перевірка орфографії"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:8
+msgctxt "Plugin|"
+msgid "Mac OS X spell checker"
+msgstr "Перевірка орфографії Mac OS X"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:9
+msgctxt "Plugin|"
+msgid "IdleManager"
+msgstr "Менеджер неактивності"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:10
+msgctxt "Plugin|"
+msgid "Mac OS X idle manager"
+msgstr "Маковський детектор неактивності"
+
+#: ../../../plugins/macintegration/src/macspellchecker/macspellchecker.mm:21
+msgctxt "Settings|"
+msgid "Spell checker"
+msgstr "Перевірка орфографії"
