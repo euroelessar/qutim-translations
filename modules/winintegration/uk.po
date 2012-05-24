@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-23 17:51+0000\n"
-"PO-Revision-Date: 2012-04-02 16:33+0000\n"
-"Last-Translator: fishi <fishi@i.ua>\n"
+"PO-Revision-Date: 2012-05-21 14:35+0000\n"
+"Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -17,9 +17,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2012-04-03 05:36+0000\n"
-"X-Generator: Launchpad (build 15052)\n"
+"X-Launchpad-Export-Date: 2012-05-24 21:31+0000\n"
+"X-Generator: Launchpad (build 15288)\n"
 "X-Qt-Contexts: true\n"
+"Language: uk\n"
 
 #: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:113
 msgctxt "Core::SimpleContactList::SevenWidget|"
@@ -29,7 +30,7 @@ msgstr "Статус"
 #: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:121
 msgctxt "Core::SimpleContactList::SevenWidget|"
 msgid "Search contact"
-msgstr ""
+msgstr "Пощук контактів"
 
 #: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:149
 #: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:327
@@ -42,7 +43,7 @@ msgstr "Ввести текст статусу"
 #: ../../../plugins/winintegration/src/winint.cpp:77
 msgctxt "Plugin|"
 msgid "Windows Integration"
-msgstr ""
+msgstr "Інтеграція з Windows"
 
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
@@ -50,11 +51,13 @@ msgid ""
 "Adds count of unread messages as an icon to taskbar button of qutim, along "
 "with some commands list."
 msgstr ""
+"Додає кількість непрочитаних повідомлень до іконки qutim на панель задач, "
+"сумісне з іншими опціями."
 
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:3
 msgctxt "Plugin|"
 msgid "Windows Integration: Taskbar"
-msgstr ""
+msgstr "Інтеграція з Windows: Панель задач"
 
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
@@ -65,12 +68,12 @@ msgstr ""
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"
 msgid "Seven"
-msgstr ""
+msgstr "Win7"
 
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:6
 msgctxt "Plugin|"
 msgid "Windows seven specific implementation with button's in caption"
-msgstr ""
+msgstr "Специфічна реалізація кнопки до заголовків для Win7"
 
 #: ../../../plugins/winintegration/src/winint.cpp:65
 msgctxt "Plugin|"
@@ -79,59 +82,64 @@ msgid ""
 "with some commands list and provides a bit more usable notification area "
 "icon than default plugin."
 msgstr ""
+"Додає кількість непрочитаних повідомлень як іконку до qutim на панелі задач, "
+"сумісно з іншими опціями і призводить до більш зручного використання області "
+"повідомлень в порівнняні із стандартним плагіном."
 
 #: ../../../plugins/winintegration/src/wsettings.ui:14
 msgctxt "WSettingsForm|"
 msgid "Form"
-msgstr ""
+msgstr "Стиль"
 
 #: ../../../plugins/winintegration/src/wsettings.ui:33
 msgctxt "WSettingsForm|"
 msgid "General"
-msgstr ""
+msgstr "Загальні"
 
 #: ../../../plugins/winintegration/src/wsettings.ui:39
 msgctxt "WSettingsForm|"
 msgid "Links association"
-msgstr ""
+msgstr "Асоціації посилань"
 
 #: ../../../plugins/winintegration/src/wsettings.ui:45
 msgctxt "WSettingsForm|"
 msgid ""
 "Open Jabber links with qutIM. This may require administrative privelegies."
 msgstr ""
+"Відкриття посилань Jabber в qutIM. Для цього можуть знадобитися привілеї "
+"адміністратора."
 
 #: ../../../plugins/winintegration/src/wsettings.ui:65
 msgctxt "WSettingsForm|"
 msgid "Update associations"
-msgstr ""
+msgstr "Оновити асоціації"
 
 #: ../../../plugins/winintegration/src/wsettings.ui:104
 msgctxt "WSettingsForm|"
 msgid "Taskbar"
-msgstr ""
+msgstr "Панель задач"
 
 #: ../../../plugins/winintegration/src/wsettings.ui:110
 msgctxt "WSettingsForm|"
 msgid "Overlay Icon"
-msgstr ""
+msgstr "Накласти іконку"
 
 #: ../../../plugins/winintegration/src/wsettings.ui:116
 #: ../../../plugins/winintegration/src/wsettings.ui:152
 msgctxt "WSettingsForm|"
 msgid "Enabled"
-msgstr ""
+msgstr "Увімкнути"
 
 #: ../../../plugins/winintegration/src/wsettings.ui:126
 #: ../../../plugins/winintegration/src/wsettings.ui:162
 msgctxt "WSettingsForm|"
 msgid "Show new messages number"
-msgstr ""
+msgstr "Показувати кількість повідомлень"
 
 #: ../../../plugins/winintegration/src/wsettings.ui:136
 msgctxt "WSettingsForm|"
 msgid "Add new conference messages number"
-msgstr ""
+msgstr "Додавати кількість повідомлень з конференцій"
 
 #: ../../../plugins/winintegration/src/wsettings.ui:146
 msgctxt "WSettingsForm|"
@@ -141,30 +149,32 @@ msgstr "Мініатюри"
 #: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:128
 msgctxt "WThumbnailsProvider|"
 msgid "<b>You have new messages.</b>"
-msgstr ""
+msgstr "<b>Ви отримали нові повідомлення.</b>"
 
 #: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:131
 #, qt-format
 msgctxt "WThumbnailsProvider|"
 msgid "&middot; %n message(s) from chats."
 msgid_plural "&middot; %n message(s) from chats."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "&middot; %n повідомлення з чату."
+msgstr[1] "&middot; %n повідомлень з чату."
+msgstr[2] "&middot; %n повідомлень з чатів."
 
 #: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:132
 #, qt-format
 msgctxt "WThumbnailsProvider|"
 msgid "&middot; %n message(s) from conferences."
 msgid_plural "&middot; %n message(s) from conferences."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "&middot; %n повідомлення з конференції."
+msgstr[1] "&middot; %n повідомлень з конференції."
+msgstr[2] "&middot; %n повідомлень з конференцій."
 
 #: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:138
 msgctxt "WThumbnailsProvider|"
 msgid "Last received from:"
-msgstr ""
+msgstr "Останнє отримане від:"
 
 #: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:142
 msgctxt "WThumbnailsProvider|"
 msgid "You have no new messages."
-msgstr ""
+msgstr "У Вас немає нових повідмлень."
