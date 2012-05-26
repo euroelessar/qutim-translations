@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-27 13:46+0000\n"
-"PO-Revision-Date: 2012-05-24 20:49+0000\n"
+"PO-Revision-Date: 2012-05-25 21:34+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-25 05:14+0000\n"
+"X-Launchpad-Export-Date: 2012-05-26 05:52+0000\n"
 "X-Generator: Launchpad (build 15288)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
@@ -274,221 +274,227 @@ msgstr "Обліковий запис тимчасово вимкнено"
 #: ../../../protocols/oscar/src/connection.cpp:340
 msgctxt "ConnectionError|"
 msgid "DB send error"
-msgstr ""
+msgstr "Помилка запиту бази даних"
 
 #: ../../../protocols/oscar/src/connection.cpp:342
 msgctxt "ConnectionError|"
 msgid "DB link error"
-msgstr ""
+msgstr "Помилка зв’язку з базою даних"
 
 #: ../../../protocols/oscar/src/connection.cpp:344
 msgctxt "ConnectionError|"
 msgid "Reservation map error"
-msgstr ""
+msgstr "Помилка резервування карти"
 
 #: ../../../protocols/oscar/src/connection.cpp:346
 msgctxt "ConnectionError|"
 msgid "Reservation link error"
-msgstr ""
+msgstr "Помилка резервування шляху"
 
 #: ../../../protocols/oscar/src/connection.cpp:348
 msgctxt "ConnectionError|"
 msgid "The users num connected from this IP has reached the maximum"
 msgstr ""
+"Користувачі, які підключилися з одного ІП, перевищили допустиму кількість"
 
 #: ../../../protocols/oscar/src/connection.cpp:350
 msgctxt "ConnectionError|"
 msgid ""
 "The users num connected from this IP has reached the maximum (reservation)"
 msgstr ""
+"Користувачі, які підключилися з одного ІП, перевищили допустиму кількість "
+"(резерв)"
 
 #: ../../../protocols/oscar/src/connection.cpp:352
 msgctxt "ConnectionError|"
 msgid ""
 "Rate limit exceeded (reservation). Please try to reconnect in a few minutes"
 msgstr ""
+"Перевищено ліміт підключень (резерв). Спробуйте підключитися через кілька "
+"хвилин"
 
 #: ../../../protocols/oscar/src/connection.cpp:354
 msgctxt "ConnectionError|"
 msgid "User too heavily warned"
-msgstr ""
+msgstr "Забагато попереджень"
 
 #: ../../../protocols/oscar/src/connection.cpp:356
 msgctxt "ConnectionError|"
 msgid "Reservation timeout"
-msgstr ""
+msgstr "Перевищено час підключення"
 
 #: ../../../protocols/oscar/src/connection.cpp:358
 msgctxt "ConnectionError|"
 msgid "You are using an older version of ICQ. Upgrade required"
-msgstr ""
+msgstr "Ви використовуєте застарілу версію ICQ. Необхідне оновлення."
 
 #: ../../../protocols/oscar/src/connection.cpp:360
 msgctxt "ConnectionError|"
 msgid "You are using an older version of ICQ. Upgrade recommended"
-msgstr ""
+msgstr "Ви використовуєте застраілу версію ICQ. Рекомендується оновлення"
 
 #: ../../../protocols/oscar/src/connection.cpp:362
 msgctxt "ConnectionError|"
 msgid "Rate limit exceeded. Please try to reconnect in a few minutes"
 msgstr ""
+"Перевищено ліміт підключень. Спробуйте підключитися через кілька хвилин"
 
 #: ../../../protocols/oscar/src/connection.cpp:364
 msgctxt "ConnectionError|"
 msgid "Can't register on the ICQ network. Reconnect in a few minutes"
-msgstr ""
+msgstr "Не вдається увійти в мережу ICQ. Спробуйте знову через кілька хвилин"
 
 #: ../../../protocols/oscar/src/connection.cpp:366
 msgctxt "ConnectionError|"
 msgid "Invalid SecurID"
-msgstr ""
+msgstr "Невірний SecurID"
 
 #: ../../../protocols/oscar/src/connection.cpp:368
 msgctxt "ConnectionError|"
 msgid "Account suspended because of your age (age < 13)"
-msgstr ""
+msgstr "Ваш обліковий запис тимчасово заблоковано через ваш вік (< 13)"
 
 #: ../../../protocols/oscar/src/connection.cpp:370
 msgctxt "ConnectionError|"
 msgid "Another client is loggin with this uin"
-msgstr ""
+msgstr "Хтось також увійшов за вашим номером"
 
 #: ../../../protocols/oscar/src/connection.cpp:372
 msgctxt "ConnectionError|"
 msgid "No IP addresses were found for the host"
-msgstr ""
+msgstr "Незнайдено відповідність ІП адреси серверу"
 
 #: ../../../protocols/oscar/src/connection.cpp:376
 msgctxt "ConnectionError|"
 msgid "Unknown error"
-msgstr ""
+msgstr "Невідома помилка"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:146
 msgctxt "ContactInfo|"
 msgid "General"
-msgstr ""
+msgstr "Загальні"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:149
 msgctxt "ContactInfo|"
 msgid "Avatar"
-msgstr ""
+msgstr "Аватар"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:157
 msgctxt "ContactInfo|"
 msgid "Name"
-msgstr ""
+msgstr "Ім'я"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:164
 msgctxt "ContactInfo|"
 msgid "Account info"
-msgstr ""
+msgstr "Відомості про обліковий запис"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:166
 msgctxt "ContactInfo|"
 msgid "UIN"
-msgstr ""
+msgstr "UIN (Номер облікового запису)"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:167
 msgctxt "ContactInfo|"
 msgid "Registration"
-msgstr ""
+msgstr "Реєстрація"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:171
 msgctxt "ContactInfo|"
 msgid " (private)"
-msgstr ""
+msgstr " (особисте)"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:172
 #: ../../../protocols/oscar/src/inforequest.cpp:174
 msgctxt "ContactInfo|"
 msgid "Email"
-msgstr ""
+msgstr "Ел. пошта"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:184
 msgctxt "ContactInfo|"
 msgid "Home"
-msgstr ""
+msgstr "Домівка"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:186
 msgctxt "ContactInfo|"
 msgid "Home address"
-msgstr ""
+msgstr "Домашня адреса"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:198
 msgctxt "ContactInfo|"
 msgid "Originally from"
-msgstr ""
+msgstr "Родом з"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:208
 msgctxt "ContactInfo|"
 msgid "Work"
-msgstr ""
+msgstr "Робота"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:210
 msgctxt "ContactInfo|"
 msgid "Work address"
-msgstr ""
+msgstr "Робоча адреса"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:221
 msgctxt "ContactInfo|"
 msgid "Company"
-msgstr ""
+msgstr "Компанія"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:233
 #: ../../../protocols/oscar/src/inforequest.cpp:235
 msgctxt "ContactInfo|"
 msgid "Personal"
-msgstr ""
+msgstr "Особисте"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:249
 msgctxt "ContactInfo|"
 msgid "About"
-msgstr ""
+msgstr "Про себе"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:251
 msgctxt "ContactInfo|"
 msgid "Notes"
-msgstr ""
+msgstr "Примітки"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:260
 msgctxt "ContactInfo|"
 msgid "Other"
-msgstr ""
+msgstr "Інше"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:263
 msgctxt "ContactInfo|"
 msgid "Internal IP"
-msgstr ""
+msgstr "Внутрішній ІП"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:264
 msgctxt "ContactInfo|"
 msgid "External IP"
-msgstr ""
+msgstr "Зовнішній ІП"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:265
 msgctxt "ContactInfo|"
 msgid "Port"
-msgstr ""
+msgstr "Порт"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:266
 msgctxt "ContactInfo|"
 msgid "Protocol version"
-msgstr ""
+msgstr "Версія протоколу"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:271
 msgctxt "ContactInfo|"
 msgid "Capabilities"
-msgstr ""
+msgstr "Можливості"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:274
 msgctxt "ContactInfo|"
 msgid "Direct connection extra info"
-msgstr ""
+msgstr "Інформація про підключення"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:275
 msgctxt "ContactInfo|"
 msgid "Last info update"
-msgstr ""
+msgstr "Останне оновлення інформації"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:277
 msgctxt "ContactInfo|"
@@ -498,32 +504,32 @@ msgstr ""
 #: ../../../protocols/oscar/src/inforequest.cpp:279
 msgctxt "ContactInfo|"
 msgid "Last ext status update"
-msgstr ""
+msgstr "Останне розширене оновлення інформації"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:281
 msgctxt "ContactInfo|"
 msgid "Client features"
-msgstr ""
+msgstr "Можливості клієнта"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:283
 msgctxt "ContactInfo|"
 msgid "Cookie"
-msgstr ""
+msgstr "Кукі"
 
 #: ../../../protocols/oscar/src/authorization.cpp:44
 msgctxt "ContactList|"
 msgid "Reask authorization"
-msgstr ""
+msgstr "Повторна авторизація"
 
 #: ../../../protocols/oscar/src/authorization.cpp:45
 msgctxt "ContactList|"
 msgid "Ask authorization"
-msgstr ""
+msgstr "Запитати авторизацію"
 
 #: ../../../protocols/oscar/src/authorization.cpp:104
 msgctxt "ContactList|"
 msgid "Authorization request accepted"
-msgstr ""
+msgstr "Прийнятий запит авторизації"
 
 #: ../../../protocols/oscar/src/authorization.cpp:105
 msgctxt "ContactList|"
