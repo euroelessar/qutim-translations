@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-27 13:46+0000\n"
-"PO-Revision-Date: 2012-05-25 21:34+0000\n"
+"PO-Revision-Date: 2012-05-26 20:24+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-26 05:52+0000\n"
+"X-Launchpad-Export-Date: 2012-05-27 05:13+0000\n"
 "X-Generator: Launchpad (build 15288)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
@@ -534,2163 +534,2166 @@ msgstr "Прийнятий запит авторизації"
 #: ../../../protocols/oscar/src/authorization.cpp:105
 msgctxt "ContactList|"
 msgid "Authorization request declined"
-msgstr ""
+msgstr "Запит авторизації відхилено"
 
 #: ../../../protocols/oscar/src/authorization.cpp:143
 msgctxt "ContactList|"
 msgid "Please, authorize me"
-msgstr ""
+msgstr "Будь-ласка, додайте мене до вашого списку контактів"
 
 #: ../../../protocols/oscar/src/icqcontact.cpp:378
 msgctxt "ContactList|"
 msgid "Online time"
-msgstr ""
+msgstr "Час в мережі"
 
 #: ../../../protocols/oscar/src/icqcontact.cpp:385
 msgctxt "ContactList|"
 msgid "Signed on"
-msgstr ""
+msgstr "Увійшов"
 
 #: ../../../protocols/oscar/src/icqcontact.cpp:390
 msgctxt "ContactList|"
 msgid "Away since"
-msgstr ""
+msgstr "Відійшов"
 
 #: ../../../protocols/oscar/src/icqcontact.cpp:395
 msgctxt "ContactList|"
 msgid "Reg. date"
-msgstr ""
+msgstr "Дата реєстрації"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:181
 msgctxt "ContactList|"
 msgid "Add to visible list"
-msgstr ""
+msgstr "Додат до списку видючих"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:182
 msgctxt "ContactList|"
 msgid "Remove from visible list"
-msgstr ""
+msgstr "Видалити з списку видючих"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:184
 msgctxt "ContactList|"
 msgid "Add to invisible list"
-msgstr ""
+msgstr "Додати до списку невидючих"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:185
 msgctxt "ContactList|"
 msgid "Remove from invisible list"
-msgstr ""
+msgstr "Видалити з списку невидючих"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:187
 msgctxt "ContactList|"
 msgid "Add to ignore list"
-msgstr ""
+msgstr "Додати до чорного списку"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:188
 msgctxt "ContactList|"
 msgid "Remove from ignore list"
-msgstr ""
+msgstr "Видалити з чорного списку"
 
 #: ../../../protocols/oscar/src/contactsearch.cpp:96
 msgctxt "ContactSearch|"
 msgid "UIN"
-msgstr ""
+msgstr "UIN (Номер облікового запису)"
 
 #: ../../../protocols/oscar/src/contactsearch.cpp:98
 msgctxt "ContactSearch|"
 msgid "Nick"
-msgstr ""
+msgstr "Нік"
 
 #: ../../../protocols/oscar/src/contactsearch.cpp:100
 msgctxt "ContactSearch|"
 msgid "First name"
-msgstr ""
+msgstr "Ім’я"
 
 #: ../../../protocols/oscar/src/contactsearch.cpp:102
 msgctxt "ContactSearch|"
 msgid "Last name"
-msgstr ""
+msgstr "Прізвище"
 
 #: ../../../protocols/oscar/src/contactsearch.cpp:104
 msgctxt "ContactSearch|"
 msgid "Email"
-msgstr ""
+msgstr "Ел. пошта"
 
 #: ../../../protocols/oscar/src/contactsearch.cpp:106
 msgctxt "ContactSearch|"
 msgid "Gender"
-msgstr ""
+msgstr "Стать"
 
 #: ../../../protocols/oscar/src/contactsearch.cpp:108
 msgctxt "ContactSearch|"
 msgid "Age"
-msgstr ""
+msgstr "Вік"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:35
 msgctxt "Country|"
 msgid "Other"
-msgstr ""
+msgstr "Інше"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:36
 msgctxt "Country|"
 msgid "Afghanistan"
-msgstr ""
+msgstr "Афганістан"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:37
 msgctxt "Country|"
 msgid "Albania"
-msgstr ""
+msgstr "Албанія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:38
 msgctxt "Country|"
 msgid "Algeria"
-msgstr ""
+msgstr "Алжир"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:39
 msgctxt "Country|"
 msgid "Andorra"
-msgstr ""
+msgstr "Андорра"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:40
 msgctxt "Country|"
 msgid "Angola"
-msgstr ""
+msgstr "Ангола"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:41
 msgctxt "Country|"
 msgid "Anguilla"
-msgstr ""
+msgstr "Ангілья"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:42
 msgctxt "Country|"
 msgid "Antigua and Barbuda"
-msgstr ""
+msgstr "Антигуа і Барбуда"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:43
 msgctxt "Country|"
 msgid "Antilles"
-msgstr ""
+msgstr "Антильські острови"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:44
 msgctxt "Country|"
 msgid "Argentina"
-msgstr ""
+msgstr "Аргентина"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:45
 msgctxt "Country|"
 msgid "Armenia"
-msgstr ""
+msgstr "Вірменія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:46
 msgctxt "Country|"
 msgid "Aruba"
-msgstr ""
+msgstr "Аруба"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:47
 msgctxt "Country|"
 msgid "Ascension Island"
-msgstr ""
+msgstr "Острів Вознесіння"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:48
 msgctxt "Country|"
 msgid "Australia"
-msgstr ""
+msgstr "Австралія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:49
 msgctxt "Country|"
 msgid "Austria"
-msgstr ""
+msgstr "Австрія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:50
 msgctxt "Country|"
 msgid "Azerbaijan"
-msgstr ""
+msgstr "Азербайджан"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:51
 msgctxt "Country|"
 msgid "Bahamas"
-msgstr ""
+msgstr "Багамські острови"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:52
 msgctxt "Country|"
 msgid "Bahrain"
-msgstr ""
+msgstr "Бахрейн"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:53
 msgctxt "Country|"
 msgid "Bangladesh"
-msgstr ""
+msgstr "Бангладеш"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:54
 msgctxt "Country|"
 msgid "Barbados"
-msgstr ""
+msgstr "Барбадос"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:55
 msgctxt "Country|"
 msgid "Barbuda"
-msgstr ""
+msgstr "Барбуда"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:56
 msgctxt "Country|"
 msgid "Belarus"
-msgstr ""
+msgstr "Білорусь"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:57
 msgctxt "Country|"
 msgid "Belgium"
-msgstr ""
+msgstr "Бельгія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:58
 msgctxt "Country|"
 msgid "Belize"
-msgstr ""
+msgstr "Беліз"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:59
 msgctxt "Country|"
 msgid "Benin"
-msgstr ""
+msgstr "Бенін"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:60
 msgctxt "Country|"
 msgid "Bermuda"
-msgstr ""
+msgstr "Бермудські Острови"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:61
 msgctxt "Country|"
 msgid "Bhutan"
-msgstr ""
+msgstr "Бутан"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:62
 msgctxt "Country|"
 msgid "Bolivia"
-msgstr ""
+msgstr "Болівія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:63
 msgctxt "Country|"
 msgid "Bosnia and Herzegovina"
-msgstr ""
+msgstr "Боснія та Герцеговина"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:64
 msgctxt "Country|"
 msgid "Botswana"
-msgstr ""
+msgstr "Ботсвана"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:65
 msgctxt "Country|"
 msgid "Brazil"
-msgstr ""
+msgstr "Бразилія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:66
 msgctxt "Country|"
 msgid "British Virgin Islands"
-msgstr ""
+msgstr "Віргінські острови (Британія)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:67
 msgctxt "Country|"
 msgid "Brunei"
-msgstr ""
+msgstr "Бруней"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:68
 msgctxt "Country|"
 msgid "Bulgaria"
-msgstr ""
+msgstr "Болгарія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:69
 msgctxt "Country|"
 msgid "Burkina Faso"
-msgstr ""
+msgstr "Буркіна-Фасо"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:70
 msgctxt "Country|"
 msgid "Burundi"
-msgstr ""
+msgstr "Бурунді"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:71
 msgctxt "Country|"
 msgid "Cambodia"
-msgstr ""
+msgstr "Камбоджа"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:72
 msgctxt "Country|"
 msgid "Cameroon"
-msgstr ""
+msgstr "Камерун"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:73
 msgctxt "Country|"
 msgid "Canada"
-msgstr ""
+msgstr "Канада"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:74
 msgctxt "Country|"
 msgid "Canary Islands"
-msgstr ""
+msgstr "Канарські острови"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:75
 msgctxt "Country|"
 msgid "Cape Verde Islands"
-msgstr ""
+msgstr "Кабо-Верде"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:76
 msgctxt "Country|"
 msgid "Cayman Islands"
-msgstr ""
+msgstr "Кайманові острови"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:77
 msgctxt "Country|"
 msgid "Central African Republic"
-msgstr ""
+msgstr "Центральноафриканська Республіка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:78
 msgctxt "Country|"
 msgid "Chad"
-msgstr ""
+msgstr "Чад"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:79
 msgctxt "Country|"
 msgid "Chile, Republic of"
-msgstr ""
+msgstr "Чилі, Республіка Чилі"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:80
 msgctxt "Country|"
 msgid "China"
-msgstr ""
+msgstr "Китай"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:81
 msgctxt "Country|"
 msgid "Christmas Island"
-msgstr ""
+msgstr "Різдва, Острів Різдва"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:82
 msgctxt "Country|"
 msgid "Cocos (Keeling) Islands"
-msgstr ""
+msgstr "Кокосові (Кілінгові) острови"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:83
 msgctxt "Country|"
 msgid "Colombia"
-msgstr ""
+msgstr "Колумбія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:84
 msgctxt "Country|"
 msgid "Comoros"
-msgstr ""
+msgstr "Коморські острови"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:85
 msgctxt "Country|"
 msgid "Congo, (Republic of the)"
-msgstr ""
+msgstr "Конго, Республіка Конго"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:86
 msgctxt "Country|"
 msgid "Congo, Democratic Republic of (Zaire)"
-msgstr ""
+msgstr "Конго, демократична республіка (Заїр)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:87
 msgctxt "Country|"
 msgid "Cook Islands"
-msgstr ""
+msgstr "Острови Кука"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:88
 msgctxt "Country|"
 msgid "Costa Rica"
-msgstr ""
+msgstr "Коста-Ріка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:89
 msgctxt "Country|"
 msgid "Cote d'Ivoire (Ivory Coast)"
-msgstr ""
+msgstr "Кот-д'Івуар, Республіка (Берег Слонової Кістки)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:90
 msgctxt "Country|"
 msgid "Croatia"
-msgstr ""
+msgstr "Хорватія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:91
 msgctxt "Country|"
 msgid "Cuba"
-msgstr ""
+msgstr "Куба"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:92
 msgctxt "Country|"
 msgid "Cyprus"
-msgstr ""
+msgstr "Кіпр"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:93
 msgctxt "Country|"
 msgid "Czech Republic"
-msgstr ""
+msgstr "Чеська республіка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:94
 msgctxt "Country|"
 msgid "Denmark"
-msgstr ""
+msgstr "Данія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:95
 msgctxt "Country|"
 msgid "Diego Garcia"
-msgstr ""
+msgstr "Дієго-Гарсія (Острів)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:96
 msgctxt "Country|"
 msgid "Djibouti"
-msgstr ""
+msgstr "Джібуті"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:97
 msgctxt "Country|"
 msgid "Dominica"
-msgstr ""
+msgstr "Домініка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:98
 msgctxt "Country|"
 msgid "Dominican Republic"
-msgstr ""
+msgstr "Домініканська республіка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:99
 msgctxt "Country|"
 msgid "Ecuador"
-msgstr ""
+msgstr "Еквадор"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:100
 msgctxt "Country|"
 msgid "Egypt"
-msgstr ""
+msgstr "Єгипет"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:101
 msgctxt "Country|"
 msgid "El Salvador"
-msgstr ""
+msgstr "Сальвадор"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:102
 msgctxt "Country|"
 msgid "Equatorial Guinea"
-msgstr ""
+msgstr "Екваторіальна Гвінея"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:103
 msgctxt "Country|"
 msgid "Eritrea"
-msgstr ""
+msgstr "Еритрея"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:104
 msgctxt "Country|"
 msgid "Estonia"
-msgstr ""
+msgstr "Естонія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:105
 msgctxt "Country|"
 msgid "Ethiopia"
-msgstr ""
+msgstr "Ефіопія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:106
 msgctxt "Country|"
 msgid "Faeroe Islands"
-msgstr ""
+msgstr "Фарерські острови"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:107
 msgctxt "Country|"
 msgid "Falkland Islands"
-msgstr ""
+msgstr "Фолклендські острови"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:108
 msgctxt "Country|"
 msgid "Fiji"
-msgstr ""
+msgstr "Фіджі"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:109
 msgctxt "Country|"
 msgid "Finland"
-msgstr ""
+msgstr "Фінляндія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:110
 msgctxt "Country|"
 msgid "France"
-msgstr ""
+msgstr "Франція"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:111
 msgctxt "Country|"
 msgid "French Antilles"
-msgstr ""
+msgstr "Антильські острови (Франція)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:112
 msgctxt "Country|"
 msgid "French Guiana"
-msgstr ""
+msgstr "Французька Гвіана"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:113
 msgctxt "Country|"
 msgid "French Polynesia"
-msgstr ""
+msgstr "Французька Полінезія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:114
 msgctxt "Country|"
 msgid "Gabon"
-msgstr ""
+msgstr "Габон"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:115
 msgctxt "Country|"
 msgid "Gambia"
-msgstr ""
+msgstr "Гамбія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:116
 msgctxt "Country|"
 msgid "Georgia"
-msgstr ""
+msgstr "Грузія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:117
 msgctxt "Country|"
 msgid "Germany"
-msgstr ""
+msgstr "Німеччина"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:118
 msgctxt "Country|"
 msgid "Ghana"
-msgstr ""
+msgstr "Гана"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:119
 msgctxt "Country|"
 msgid "Gibraltar"
-msgstr ""
+msgstr "Гібралтар"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:120
 msgctxt "Country|"
 msgid "Greece"
-msgstr ""
+msgstr "Греція"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:121
 msgctxt "Country|"
 msgid "Greenland"
-msgstr ""
+msgstr "Гренландія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:122
 msgctxt "Country|"
 msgid "Grenada"
-msgstr ""
+msgstr "Гренада"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:123
 msgctxt "Country|"
 msgid "Guadeloupe"
-msgstr ""
+msgstr "Гваделупа"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:124
 msgctxt "Country|"
 msgid "Guam, US Territory of"
-msgstr ""
+msgstr "Гуам, територія США"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:125
 msgctxt "Country|"
 msgid "Guatemala"
-msgstr ""
+msgstr "Гватемала"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:126
 msgctxt "Country|"
 msgid "Guinea"
-msgstr ""
+msgstr "Гвінея"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:127
 msgctxt "Country|"
 msgid "Guinea-Bissau"
-msgstr ""
+msgstr "Гвінея-Бісау"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:128
 msgctxt "Country|"
 msgid "Guyana"
-msgstr ""
+msgstr "Гайяна"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:129
 msgctxt "Country|"
 msgid "Haiti"
-msgstr ""
+msgstr "Гаїті"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:130
 msgctxt "Country|"
 msgid "Honduras"
-msgstr ""
+msgstr "Гондурас"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:131
 msgctxt "Country|"
 msgid "Hong Kong"
-msgstr ""
+msgstr "Гонконг"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:132
 msgctxt "Country|"
 msgid "Hungary"
-msgstr ""
+msgstr "Угорщина"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:133
 msgctxt "Country|"
 msgid "Iceland"
-msgstr ""
+msgstr "Ісландія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:134
 msgctxt "Country|"
 msgid "India"
-msgstr ""
+msgstr "Індія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:135
 msgctxt "Country|"
 msgid "Indonesia"
-msgstr ""
+msgstr "Індонезія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:136
 msgctxt "Country|"
 msgid "Iran (Islamic Republic of)"
-msgstr ""
+msgstr "Іран (Ісламска Республіка)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:137
 msgctxt "Country|"
 msgid "Iraq"
-msgstr ""
+msgstr "Ірак"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:138
 msgctxt "Country|"
 msgid "Ireland"
-msgstr ""
+msgstr "Ірландія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:139
 msgctxt "Country|"
 msgid "Israel"
-msgstr ""
+msgstr "Ізраїль"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:140
 msgctxt "Country|"
 msgid "Italy"
-msgstr ""
+msgstr "Італія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:141
 msgctxt "Country|"
 msgid "Jamaica"
-msgstr ""
+msgstr "Ямайка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:142
 msgctxt "Country|"
 msgid "Japan"
-msgstr ""
+msgstr "Японія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:143
 msgctxt "Country|"
 msgid "Jordan"
-msgstr ""
+msgstr "Йорданія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:144
 msgctxt "Country|"
 msgid "Kazakhstan"
-msgstr ""
+msgstr "Казахстан"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:145
 msgctxt "Country|"
 msgid "Kenya"
-msgstr ""
+msgstr "Кенія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:146
 msgctxt "Country|"
 msgid "Kiribati"
-msgstr ""
+msgstr "Кірибаті"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:147
 msgctxt "Country|"
 msgid "Korea (North Korea), Democratic People's Republic of"
-msgstr ""
+msgstr "Корейська Народно-Демократична Республіка (Північна Корея)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:148
 msgctxt "Country|"
 msgid "Korea (South Korea), Republic of"
-msgstr ""
+msgstr "Корейська Республіка (Південна Корея)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:149
 msgctxt "Country|"
 msgid "Kuwait"
-msgstr ""
+msgstr "Кувейт"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:150
 msgctxt "Country|"
 msgid "Kyrgyzstan"
-msgstr ""
+msgstr "Киргизстан"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:151
 msgctxt "Country|"
 msgid "Lao People's Democratic Republic"
-msgstr ""
+msgstr "Лаоська Народно-Демократична Республіка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:152
 msgctxt "Country|"
 msgid "Latvia"
-msgstr ""
+msgstr "Латвія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:153
 msgctxt "Country|"
 msgid "Lebanon"
-msgstr ""
+msgstr "Ліван"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:154
 msgctxt "Country|"
 msgid "Lesotho"
-msgstr ""
+msgstr "Лесото"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:155
 msgctxt "Country|"
 msgid "Liberia"
-msgstr ""
+msgstr "Ліберія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:156
 msgctxt "Country|"
 msgid "Libyan Arab Jamahiriya"
-msgstr ""
+msgstr "Лівійська Арабська Джамахірія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:157
 msgctxt "Country|"
 msgid "Liechtenstein"
-msgstr ""
+msgstr "Ліхтенштейн"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:158
 msgctxt "Country|"
 msgid "Lithuania"
-msgstr ""
+msgstr "Литва"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:159
 msgctxt "Country|"
 msgid "Luxembourg"
-msgstr ""
+msgstr "Люксембург"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:160
 msgctxt "Country|"
 msgid "Macau"
-msgstr ""
+msgstr "Макао"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:161
 msgctxt "Country|"
 msgid "Macedonia (F.Y.R.O.M.)"
-msgstr ""
+msgstr "Македонія (F.Y.R.O.M.)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:162
 msgctxt "Country|"
 msgid "Madagascar"
-msgstr ""
+msgstr "Мадагаскар"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:163
 msgctxt "Country|"
 msgid "Malawi"
-msgstr ""
+msgstr "Малаві"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:164
 msgctxt "Country|"
 msgid "Malaysia"
-msgstr ""
+msgstr "Малайзія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:165
 msgctxt "Country|"
 msgid "Maldives"
-msgstr ""
+msgstr "Мальдіви"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:166
 msgctxt "Country|"
 msgid "Mali"
-msgstr ""
+msgstr "Малі"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:167
 msgctxt "Country|"
 msgid "Malta"
-msgstr ""
+msgstr "Мальта"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:168
 msgctxt "Country|"
 msgid "Marshall Islands"
-msgstr ""
+msgstr "Маршаллові острови"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:169
 msgctxt "Country|"
 msgid "Martinique"
-msgstr ""
+msgstr "Мартиніка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:170
 msgctxt "Country|"
 msgid "Mauritania"
-msgstr ""
+msgstr "Мавританія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:171
 msgctxt "Country|"
 msgid "Mauritius"
-msgstr ""
+msgstr "Маврикій"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:172
 msgctxt "Country|"
 msgid "Mayotte Island"
-msgstr ""
+msgstr "Майота, Острів Майота"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:173
 msgctxt "Country|"
 msgid "Mexico"
-msgstr ""
+msgstr "Mексика"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:174
 msgctxt "Country|"
 msgid "Micronesia, Federated States of"
-msgstr ""
+msgstr "Мікронезія, Федеративні Штати"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:175
 msgctxt "Country|"
 msgid "Moldova, Republic of"
-msgstr ""
+msgstr "Молдова, Республіка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:176
 msgctxt "Country|"
 msgid "Monaco"
-msgstr ""
+msgstr "Монако"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:177
 msgctxt "Country|"
 msgid "Mongolia"
-msgstr ""
+msgstr "Монголія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:178
 msgctxt "Country|"
 msgid "Montserrat"
-msgstr ""
+msgstr "Монтсеррат"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:179
 msgctxt "Country|"
 msgid "Morocco"
-msgstr ""
+msgstr "Марокко"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:180
 msgctxt "Country|"
 msgid "Mozambique"
-msgstr ""
+msgstr "Мозамбік"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:181
 msgctxt "Country|"
 msgid "Myanmar"
-msgstr ""
+msgstr "М’янма"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:182
 msgctxt "Country|"
 msgid "Namibia"
-msgstr ""
+msgstr "Намібія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:183
 msgctxt "Country|"
 msgid "Nauru"
-msgstr ""
+msgstr "Науру"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:184
 msgctxt "Country|"
 msgid "Nepal"
-msgstr ""
+msgstr "Непал"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:185
 msgctxt "Country|"
 msgid "Netherlands"
-msgstr ""
+msgstr "Нідерланди"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:186
 msgctxt "Country|"
 msgid "Netherlands Antilles"
-msgstr ""
+msgstr "Антильські острови (Нідерланди)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:187
 msgctxt "Country|"
 msgid "Nevis"
-msgstr ""
+msgstr "Невіс"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:188
 msgctxt "Country|"
 msgid "New Caledonia"
-msgstr ""
+msgstr "Нова Каледонія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:189
 msgctxt "Country|"
 msgid "New Zealand"
-msgstr ""
+msgstr "Нова Зеландія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:190
 msgctxt "Country|"
 msgid "Nicaragua"
-msgstr ""
+msgstr "Нікарагуа"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:191
 msgctxt "Country|"
 msgid "Niger"
-msgstr ""
+msgstr "Нігер, Республіка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:192
 msgctxt "Country|"
 msgid "Nigeria"
-msgstr ""
+msgstr "Нігерія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:193
 msgctxt "Country|"
 msgid "Niue"
-msgstr ""
+msgstr "Ніуе"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:194
 msgctxt "Country|"
 msgid "Norfolk Island"
-msgstr ""
+msgstr "Норфолкські острови"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:195
 msgctxt "Country|"
 msgid "Norway"
-msgstr ""
+msgstr "Норвей"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:196
 msgctxt "Country|"
 msgid "Oman"
-msgstr ""
+msgstr "Оман"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:197
 msgctxt "Country|"
 msgid "Pakistan"
-msgstr ""
+msgstr "Пакістан"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:198
 msgctxt "Country|"
 msgid "Palau"
-msgstr ""
+msgstr "Палау"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:199
 msgctxt "Country|"
 msgid "Panama"
-msgstr ""
+msgstr "Панама"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:200
 msgctxt "Country|"
 msgid "Papua New Guinea"
-msgstr ""
+msgstr "Папуа-Нова Гвінея"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:201
 msgctxt "Country|"
 msgid "Paraguay"
-msgstr ""
+msgstr "Парагвай"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:202
 msgctxt "Country|"
 msgid "Peru"
-msgstr ""
+msgstr "Перу"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:203
 msgctxt "Country|"
 msgid "Philippines"
-msgstr ""
+msgstr "Філіппіни"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:204
 msgctxt "Country|"
 msgid "Poland"
-msgstr ""
+msgstr "Польща"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:205
 msgctxt "Country|"
 msgid "Portugal"
-msgstr ""
+msgstr "Португалія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:206
 msgctxt "Country|"
 msgid "Puerto Rico, Common Wealth of"
-msgstr ""
+msgstr "Пуерто-Ріко, Вільно асоційована держава"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:207
 msgctxt "Country|"
 msgid "Qatar"
-msgstr ""
+msgstr "Катар"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:208
 msgctxt "Country|"
 msgid "Reunion Island"
-msgstr ""
+msgstr "Реюньйон, острів"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:209
 msgctxt "Country|"
 msgid "Romania"
-msgstr ""
+msgstr "Румунія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:210
 msgctxt "Country|"
 msgid "Rota Island"
-msgstr ""
+msgstr "Рота, острів"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:211
 msgctxt "Country|"
 msgid "Russia"
-msgstr ""
+msgstr "Росія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:212
 msgctxt "Country|"
 msgid "Rwanda"
-msgstr ""
+msgstr "Руанда"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:213
 msgctxt "Country|"
 msgid "Saint Helena"
-msgstr ""
+msgstr "Святої Єлени, острів"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:214
 msgctxt "Country|"
 msgid "Saint Kitts"
-msgstr ""
+msgstr "Сент-Кітс"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:215
 msgctxt "Country|"
 msgid "Saint Kitts and Nevis"
-msgstr ""
+msgstr "Сент-Кітс і Невіс"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:216
 msgctxt "Country|"
 msgid "Saint Lucia"
-msgstr ""
+msgstr "Сент-Люсія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:217
 msgctxt "Country|"
 msgid "Saint Pierre and Miquelon"
-msgstr ""
+msgstr "Сен-П'єр і Мікелон"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:218
 msgctxt "Country|"
 msgid "Saint Vincent and the Grenadines"
-msgstr ""
+msgstr "Сент-Вінсент і Гренадини"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:219
 msgctxt "Country|"
 msgid "Saipan Island"
-msgstr ""
+msgstr "Сайпан, острів"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:220
 msgctxt "Country|"
 msgid "Samoa"
-msgstr ""
+msgstr "Самоа"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:221
 msgctxt "Country|"
 msgid "San Marino"
-msgstr ""
+msgstr "Сан-Маріно"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:222
 msgctxt "Country|"
 msgid "Sao Tome & Principe"
-msgstr ""
+msgstr "Сан-Томе і Принсіпі"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:223
 msgctxt "Country|"
 msgid "Saudi Arabia"
-msgstr ""
+msgstr "Саудівська Аравія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:224
 msgctxt "Country|"
 msgid "Scotland"
-msgstr ""
+msgstr "Шотландія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:225
 msgctxt "Country|"
 msgid "Senegal"
-msgstr ""
+msgstr "Сенегал"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:226
 msgctxt "Country|"
 msgid "Seychelles"
-msgstr ""
+msgstr "Сейшельські острови"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:227
 msgctxt "Country|"
 msgid "Sierra Leone"
-msgstr ""
+msgstr "Сьєрра-Леоне"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:228
 msgctxt "Country|"
 msgid "Singapore"
-msgstr ""
+msgstr "Сінгапур"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:229
 msgctxt "Country|"
 msgid "Slovakia"
-msgstr ""
+msgstr "Словаччина"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:230
 msgctxt "Country|"
 msgid "Slovenia"
-msgstr ""
+msgstr "Словенія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:231
 msgctxt "Country|"
 msgid "Solomon Islands"
-msgstr ""
+msgstr "Соломонові острови"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:232
 msgctxt "Country|"
 msgid "Somalia"
-msgstr ""
+msgstr "Сомалі"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:233
 msgctxt "Country|"
 msgid "South Africa"
-msgstr ""
+msgstr "Південна Африка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:234
 msgctxt "Country|"
 msgid "Spain"
-msgstr ""
+msgstr "Іспанія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:235
 msgctxt "Country|"
 msgid "Sri Lanka"
-msgstr ""
+msgstr "Шрі-Ланка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:236
 msgctxt "Country|"
 msgid "Sudan"
-msgstr ""
+msgstr "Судан"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:237
 msgctxt "Country|"
 msgid "Suriname"
-msgstr ""
+msgstr "Суринам"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:238
 msgctxt "Country|"
 msgid "Swaziland"
-msgstr ""
+msgstr "Свазіленд"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:239
 msgctxt "Country|"
 msgid "Sweden"
-msgstr ""
+msgstr "Швеція"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:240
 msgctxt "Country|"
 msgid "Switzerland"
-msgstr ""
+msgstr "Швейцарія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:241
 msgctxt "Country|"
 msgid "Syrian Arab Republic"
-msgstr ""
+msgstr "Сирійська Арабська Республіка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:242
 msgctxt "Country|"
 msgid "Taiwan"
-msgstr ""
+msgstr "Тайвань"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:243
 msgctxt "Country|"
 msgid "Tajikistan"
-msgstr ""
+msgstr "Таджикістан"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:244
 msgctxt "Country|"
 msgid "Tanzania, United Republic of"
-msgstr ""
+msgstr "Танзанія, Об’єднана Республіка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:245
 msgctxt "Country|"
 msgid "Thailand"
-msgstr ""
+msgstr "Таїланд"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:246
 msgctxt "Country|"
 msgid "Tinian Island"
-msgstr ""
+msgstr "Тініан, острів"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:247
 msgctxt "Country|"
 msgid "Togo"
-msgstr ""
+msgstr "Того"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:248
 msgctxt "Country|"
 msgid "Tokelau"
-msgstr ""
+msgstr "Токелау"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:249
 msgctxt "Country|"
 msgid "Tonga"
-msgstr ""
+msgstr "Тонга"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:250
 msgctxt "Country|"
 msgid "Trinidad and Tobago"
-msgstr ""
+msgstr "Тринідад та Тобаго"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:251
 msgctxt "Country|"
 msgid "Tunisia"
-msgstr ""
+msgstr "Туніс"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:252
 msgctxt "Country|"
 msgid "Turkey"
-msgstr ""
+msgstr "Туреччина"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:253
 msgctxt "Country|"
 msgid "Turkmenistan"
-msgstr ""
+msgstr "Туркменістан"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:254
 msgctxt "Country|"
 msgid "Turks and Caicos Islands"
-msgstr ""
+msgstr "Теркс і Кайкос, острови"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:255
 msgctxt "Country|"
 msgid "Tuvalu"
-msgstr ""
+msgstr "Тувалу"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:256
 msgctxt "Country|"
 msgid "Uganda"
-msgstr ""
+msgstr "Уганда"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:257
 msgctxt "Country|"
 msgid "Ukraine"
-msgstr ""
+msgstr "Україна"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:258
 msgctxt "Country|"
 msgid "United Arab Emirates"
-msgstr ""
+msgstr "Об’єднані Арабські Емірати"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:259
 msgctxt "Country|"
 msgid "United Kingdom"
-msgstr ""
+msgstr "Великобританія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:260
 msgctxt "Country|"
 msgid "Uruguay"
-msgstr ""
+msgstr "Уругвай"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:261
 msgctxt "Country|"
 msgid "USA"
-msgstr ""
+msgstr "США"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:262
 msgctxt "Country|"
 msgid "Uzbekistan"
-msgstr ""
+msgstr "Узбекістан"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:263
 msgctxt "Country|"
 msgid "Vanuatu"
-msgstr ""
+msgstr "Вануату"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:264
 msgctxt "Country|"
 msgid "Vatican City"
-msgstr ""
+msgstr "Ватикан"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:265
 msgctxt "Country|"
 msgid "Venezuela"
-msgstr ""
+msgstr "Венесуела"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:266
 msgctxt "Country|"
 msgid "Viet Nam"
-msgstr ""
+msgstr "В'єтнам"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:267
 msgctxt "Country|"
 msgid "Virgin Islands of the United States"
-msgstr ""
+msgstr "Віргінські острови (США)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:268
 msgctxt "Country|"
 msgid "Wales"
-msgstr ""
+msgstr "Уельс"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:269
 msgctxt "Country|"
 msgid "Wallis and Futuna Islands"
-msgstr ""
+msgstr "Волліс та Футуна, острови"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:270
 msgctxt "Country|"
 msgid "Western Samoa"
-msgstr ""
+msgstr "Західна Самоа"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:271
 msgctxt "Country|"
 msgid "Yemen"
-msgstr ""
+msgstr "Ємен"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:272
 msgctxt "Country|"
 msgid "Yugoslavia"
-msgstr ""
+msgstr "Югославія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:273
 msgctxt "Country|"
 msgid "Yugoslavia - Montenegro"
-msgstr ""
+msgstr "Югославія - Чорногорія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:274
 msgctxt "Country|"
 msgid "Yugoslavia - Serbia"
-msgstr ""
+msgstr "Югославія - Сербія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:275
 msgctxt "Country|"
 msgid "Zambia"
-msgstr ""
+msgstr "Замбія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:276
 msgctxt "Country|"
 msgid "Zimbabwe"
-msgstr ""
+msgstr "Зімбабве"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:175
 msgctxt "FeedbagError|"
 msgid "No error"
-msgstr ""
+msgstr "Помилки відсутні"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:177
 msgctxt "FeedbagError|"
 msgid "Item you want to modify not found in list"
-msgstr ""
+msgstr "Пункт, який потрібно змінити, не знайдений в списку"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:179
 msgctxt "FeedbagError|"
 msgid "Item you want to add allready exists"
-msgstr ""
+msgstr "Пункт, який ви хочете додати, вже є в списку"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:181
 msgctxt "FeedbagError|"
 msgid "Error adding item (invalid id, allready in list, invalid data)"
 msgstr ""
+"Помилка при додаванні пункту (невірний ідентифікатор, вже є в списку, "
+"невірні дані)"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:183
 msgctxt "FeedbagError|"
 msgid "Can't add item. Limit for this type of items exceeded"
 msgstr ""
+"Неможливо додати елемент. Межа для подібного роду об'єктів перевищена"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:185
 msgctxt "FeedbagError|"
 msgid "Trying to add ICQ contact to an AIM list"
-msgstr ""
+msgstr "Спроба додати контакт ICQ досписку AIM"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:187
 msgctxt "FeedbagError|"
 msgid "Can't add this contact because it requires authorization"
-msgstr ""
+msgstr "Неможливо додати цей контакт, тому що він вимагає авторизації"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:189
 #, qt-format
 msgctxt "FeedbagError|"
 msgid "Unknown error (Code: %1)"
-msgstr ""
+msgstr "Невідома помилка (Код: %1)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:455
 msgctxt "Gender|"
 msgid "Male"
-msgstr ""
+msgstr "Чоловіча"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:456
 msgctxt "Gender|"
 msgid "Female"
-msgstr ""
+msgstr "Жіноча"
 
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:14
 msgctxt "IcqAccountMainSettings|"
 msgid "Form"
-msgstr ""
+msgstr "Стиль"
 
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:23
 msgctxt "IcqAccountMainSettings|"
 msgid "UIN:"
-msgstr ""
+msgstr "UIN:"
 
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:33
 msgctxt "IcqAccountMainSettings|"
 msgid "Password:"
-msgstr ""
+msgstr "Пароль:"
 
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:50
 msgctxt "IcqAccountMainSettings|"
 msgid "User name:"
-msgstr ""
+msgstr "Ім’я користувача:"
 
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:60
 msgctxt "IcqAccountMainSettings|"
 msgid "Server:"
-msgstr ""
+msgstr "Сервер:"
 
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:80
 msgctxt "IcqAccountMainSettings|"
 msgid "Port:"
-msgstr ""
+msgstr "Порт:"
 
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:106
 msgctxt "IcqAccountMainSettings|"
 msgid "Use SSL authorization (experimental)"
-msgstr ""
+msgstr "Використовувати SSL авторизацію (експерементально)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:493
 msgctxt "Industry|"
 msgid "Agriculture"
-msgstr ""
+msgstr "Сільське господарство"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:494
 msgctxt "Industry|"
 msgid "Arts"
-msgstr ""
+msgstr "Мистецтво"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:495
 msgctxt "Industry|"
 msgid "Construction"
-msgstr ""
+msgstr "Будівництво"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:496
 msgctxt "Industry|"
 msgid "Consumer Goods"
-msgstr ""
+msgstr "Споживчі товари"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:497
 msgctxt "Industry|"
 msgid "Corporate Services"
-msgstr ""
+msgstr "Корпоративні послуги"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:498
 msgctxt "Industry|"
 msgid "Education"
-msgstr ""
+msgstr "Освіта"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:499
 msgctxt "Industry|"
 msgid "Finance"
-msgstr ""
+msgstr "Фінанси"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:500
 msgctxt "Industry|"
 msgid "Government"
-msgstr ""
+msgstr "Уряд"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:501
 msgctxt "Industry|"
 msgid "High Tech"
-msgstr ""
+msgstr "Технології"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:502
 msgctxt "Industry|"
 msgid "Legal"
-msgstr ""
+msgstr "Права"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:503
 msgctxt "Industry|"
 msgid "Manufacturing"
-msgstr ""
+msgstr "Виробництво"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:504
 msgctxt "Industry|"
 msgid "Media"
-msgstr ""
+msgstr "ЗМІ"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:505
 msgctxt "Industry|"
 msgid "Medical & Health Care"
-msgstr ""
+msgstr "Медицина та охорона здоров'я"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:506
 msgctxt "Industry|"
 msgid "Non-Profit Organization Management"
-msgstr ""
+msgstr "Некомерційні органазіції"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:507
 msgctxt "Industry|"
 msgid "Other"
-msgstr ""
+msgstr "Інше"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:508
 msgctxt "Industry|"
 msgid "Recreation, Travel & Entertainment"
-msgstr ""
+msgstr "Відпочинок, подорожі та розваги"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:509
 msgctxt "Industry|"
 msgid "Service Industry"
-msgstr ""
+msgstr "Сфера обслуговування"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:510
 msgctxt "Industry|"
 msgid "Transportation"
-msgstr ""
+msgstr "Транспорт"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:289
 msgctxt "Interest|"
 msgid "50's"
-msgstr ""
+msgstr "50-ті"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:290
 msgctxt "Interest|"
 msgid "60's"
-msgstr ""
+msgstr "60-ті"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:291
 msgctxt "Interest|"
 msgid "70's"
-msgstr ""
+msgstr "70-ті"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:292
 msgctxt "Interest|"
 msgid "80's"
-msgstr ""
+msgstr "80-ті"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:293
 msgctxt "Interest|"
 msgid "Art"
-msgstr ""
+msgstr "Мистецтво"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:294
 msgctxt "Interest|"
 msgid "Astronomy"
-msgstr ""
+msgstr "Астрономія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:295
 msgctxt "Interest|"
 msgid "Audio and Visual"
-msgstr ""
+msgstr "Аудіо і відео"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:296
 msgctxt "Interest|"
 msgid "Business"
-msgstr ""
+msgstr "Економіка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:297
 msgctxt "Interest|"
 msgid "Business Services"
-msgstr ""
+msgstr "Бізнес-послуги"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:298
 msgctxt "Interest|"
 msgid "Cars"
-msgstr ""
+msgstr "Автомобілі"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:299
 msgctxt "Interest|"
 msgid "Celebrity Fans"
-msgstr ""
+msgstr "Фанати зірок"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:300
 msgctxt "Interest|"
 msgid "Clothing"
-msgstr ""
+msgstr "Одяг"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:301
 msgctxt "Interest|"
 msgid "Collections"
-msgstr ""
+msgstr "Колекціювання"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:302
 msgctxt "Interest|"
 msgid "Computers"
-msgstr ""
+msgstr "Комп'ютери"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:303
 msgctxt "Interest|"
 msgid "Culture"
-msgstr ""
+msgstr "Культура"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:304
 msgctxt "Interest|"
 msgid "Ecology"
-msgstr ""
+msgstr "Екологія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:305
 msgctxt "Interest|"
 msgid "Entertainment"
-msgstr ""
+msgstr "Розваги"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:306
 msgctxt "Interest|"
 msgid "Finance and Corporate"
-msgstr ""
+msgstr "Фінанси та бізнес"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:307
 msgctxt "Interest|"
 msgid "Fitness"
-msgstr ""
+msgstr "Фітнес"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:308
 msgctxt "Interest|"
 msgid "Health and Beauty"
-msgstr ""
+msgstr "Здоров'я та краса"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:309
 msgctxt "Interest|"
 msgid "Hobbies"
-msgstr ""
+msgstr "Хобі"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:310
 msgctxt "Interest|"
 msgid "Home Automation"
-msgstr ""
+msgstr "Розумний дім"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:311
 msgctxt "Interest|"
 msgid "Household Products"
-msgstr ""
+msgstr "Товари для дому"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:312
 msgctxt "Interest|"
 msgid "Games"
-msgstr ""
+msgstr "Ігри"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:313
 msgctxt "Interest|"
 msgid "Government"
-msgstr ""
+msgstr "Уряд"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:314
 msgctxt "Interest|"
 msgid "ICQ - Help"
-msgstr ""
+msgstr "ICQ - Довідка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:315
 msgctxt "Interest|"
 msgid "Internet"
-msgstr ""
+msgstr "Інтернет"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:316
 msgctxt "Interest|"
 msgid "Lifestyle"
-msgstr ""
+msgstr "Стиль життя"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:317
 msgctxt "Interest|"
 msgid "Mail Order Catalog"
-msgstr ""
+msgstr "Замовлення поштою"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:318
 msgctxt "Interest|"
 msgid "Media"
-msgstr ""
+msgstr "ЗМІ"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:319
 msgctxt "Interest|"
 msgid "Movies and TV"
-msgstr ""
+msgstr "Фільми і ТБ"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:320
 msgctxt "Interest|"
 msgid "Music"
-msgstr ""
+msgstr "Музика"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:321
 msgctxt "Interest|"
 msgid "Mystics"
-msgstr ""
+msgstr "Містика"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:322
 msgctxt "Interest|"
 msgid "News and Media"
-msgstr ""
+msgstr "Новини і ЗМІ"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:323
 msgctxt "Interest|"
 msgid "Outdoors"
-msgstr ""
+msgstr "Прогулянки"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:324
 msgctxt "Interest|"
 msgid "Parenting"
-msgstr ""
+msgstr "Виховання"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:325
 msgctxt "Interest|"
 msgid "Parties"
-msgstr ""
+msgstr "Вечірки"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:326
 msgctxt "Interest|"
 msgid "Pets and Animals"
-msgstr ""
+msgstr "Домашні і дикі тварини"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:327
 msgctxt "Interest|"
 msgid "Publishing"
-msgstr ""
+msgstr "Видавнича справа"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:328
 msgctxt "Interest|"
 msgid "Religion"
-msgstr ""
+msgstr "Релігія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:329
 msgctxt "Interest|"
 msgid "Retail Stores"
-msgstr ""
+msgstr "Роздрібні магазини"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:330
 msgctxt "Interest|"
 msgid "Science"
-msgstr ""
+msgstr "Наука"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:331
 msgctxt "Interest|"
 msgid "Skills"
-msgstr ""
+msgstr "Навички"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:332
 msgctxt "Interest|"
 msgid "Social science"
-msgstr ""
+msgstr "Суспільні науки"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:333
 msgctxt "Interest|"
 msgid "Space"
-msgstr ""
+msgstr "Космос"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:334
 msgctxt "Interest|"
 msgid "Sporting and Athletic"
-msgstr ""
+msgstr "Спорт і атлетика"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:335
 msgctxt "Interest|"
 msgid "Sports"
-msgstr ""
+msgstr "Спорт"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:336
 msgctxt "Interest|"
 msgid "Travel"
-msgstr ""
+msgstr "Мандрівки"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:337
 msgctxt "Interest|"
 msgid "Web Design"
-msgstr ""
+msgstr "Вебдизайн"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:338
 msgctxt "Interest|"
 msgid "Women"
-msgstr ""
+msgstr "Жінки"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:351
 msgctxt "Language|"
 msgid "Afrikaans"
-msgstr ""
+msgstr "Африкаанс"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:352
 msgctxt "Language|"
 msgid "Albanian"
-msgstr ""
+msgstr "Албанська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:353
 msgctxt "Language|"
 msgid "Arabic"
-msgstr ""
+msgstr "Арабська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:354
 msgctxt "Language|"
 msgid "Armenian"
-msgstr ""
+msgstr "Вірменська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:355
 msgctxt "Language|"
 msgid "Azerbaijani"
-msgstr ""
+msgstr "Азербайджанська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:356
 msgctxt "Language|"
 msgid "Belorussian"
-msgstr ""
+msgstr "Білоруська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:357
 msgctxt "Language|"
 msgid "Bhojpuri"
-msgstr ""
+msgstr "Бходжпурі"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:358
 msgctxt "Language|"
 msgid "Bosnian"
-msgstr ""
+msgstr "Боснійська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:359
 msgctxt "Language|"
 msgid "Bulgarian"
-msgstr ""
+msgstr "Болгарська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:360
 msgctxt "Language|"
 msgid "Burmese"
-msgstr ""
+msgstr "Бірманська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:361
 msgctxt "Language|"
 msgid "Cantonese"
-msgstr ""
+msgstr "Кантонська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:362
 msgctxt "Language|"
 msgid "Catalan"
-msgstr ""
+msgstr "Каталонська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:363
 msgctxt "Language|"
 msgid "Chamorro"
-msgstr ""
+msgstr "Чаморо"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:364
 msgctxt "Language|"
 msgid "Chinese"
-msgstr ""
+msgstr "Китайська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:365
 msgctxt "Language|"
 msgid "Croatian"
-msgstr ""
+msgstr "Хорватська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:366
 msgctxt "Language|"
 msgid "Czech"
-msgstr ""
+msgstr "Чеська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:367
 msgctxt "Language|"
 msgid "Danish"
-msgstr ""
+msgstr "Датська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:368
 msgctxt "Language|"
 msgid "Dutch"
-msgstr ""
+msgstr "Нідерландська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:369
 msgctxt "Language|"
 msgid "English"
-msgstr ""
+msgstr "Англійська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:370
 msgctxt "Language|"
 msgid "Esperanto"
-msgstr ""
+msgstr "Есперанто"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:371
 msgctxt "Language|"
 msgid "Estonian"
-msgstr ""
+msgstr "Естонська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:372
 msgctxt "Language|"
 msgid "Farsi"
-msgstr ""
+msgstr "Фарсі"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:373
 msgctxt "Language|"
 msgid "Finnish"
-msgstr ""
+msgstr "Фінська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:374
 msgctxt "Language|"
 msgid "French"
-msgstr ""
+msgstr "Французька"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:375
 msgctxt "Language|"
 msgid "Gaelic"
-msgstr ""
+msgstr "Гаельська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:376
 msgctxt "Language|"
 msgid "German"
-msgstr ""
+msgstr "Німецька"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:377
 msgctxt "Language|"
 msgid "Greek"
-msgstr ""
+msgstr "Грецька"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:378
 msgctxt "Language|"
 msgid "Gujarati"
-msgstr ""
+msgstr "Гуджараті"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:379
 msgctxt "Language|"
 msgid "Hebrew"
-msgstr ""
+msgstr "Іврит"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:380
 msgctxt "Language|"
 msgid "Hindi"
-msgstr ""
+msgstr "Хінді"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:381
 msgctxt "Language|"
 msgid "Hungarian"
-msgstr ""
+msgstr "Венгерська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:382
 msgctxt "Language|"
 msgid "Icelandic"
-msgstr ""
+msgstr "Ісландська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:383
 msgctxt "Language|"
 msgid "Indonesian"
-msgstr ""
+msgstr "Індонезійська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:384
 msgctxt "Language|"
 msgid "Italian"
-msgstr ""
+msgstr "Італійська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:385
 msgctxt "Language|"
 msgid "Japanese"
-msgstr ""
+msgstr "Японська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:386
 msgctxt "Language|"
 msgid "Khmer"
-msgstr ""
+msgstr "Кхмерська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:387
 msgctxt "Language|"
 msgid "Korean"
-msgstr ""
+msgstr "Корейська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:388
 msgctxt "Language|"
 msgid "Kurdish"
-msgstr ""
+msgstr "Курдська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:389
 msgctxt "Language|"
 msgid "Lao"
-msgstr ""
+msgstr "Лаоська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:390
 msgctxt "Language|"
 msgid "Latvian"
-msgstr ""
+msgstr "Латвійська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:391
 msgctxt "Language|"
 msgid "Lithuanian"
-msgstr ""
+msgstr "Литовська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:392
 msgctxt "Language|"
 msgid "Macedonian"
-msgstr ""
+msgstr "Македонська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:393
 msgctxt "Language|"
 msgid "Malay"
-msgstr ""
+msgstr "Малайська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:394
 msgctxt "Language|"
 msgid "Mandarin"
-msgstr ""
+msgstr "Мандаринська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:395
 msgctxt "Language|"
 msgid "Mongolian"
-msgstr ""
+msgstr "Монгольська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:396
 msgctxt "Language|"
 msgid "Norwegian"
-msgstr ""
+msgstr "Норвежська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:397
 msgctxt "Language|"
 msgid "Persian"
-msgstr ""
+msgstr "Перська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:398
 msgctxt "Language|"
 msgid "Polish"
-msgstr ""
+msgstr "Польська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:399
 msgctxt "Language|"
 msgid "Portuguese"
-msgstr ""
+msgstr "Португальська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:400
 msgctxt "Language|"
 msgid "Punjabi"
-msgstr ""
+msgstr "Пенджабі"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:401
 msgctxt "Language|"
 msgid "Romanian"
-msgstr ""
+msgstr "Румунська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:402
 msgctxt "Language|"
 msgid "Russian"
-msgstr ""
+msgstr "Російська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:403
 msgctxt "Language|"
 msgid "Serbian"
-msgstr ""
+msgstr "Сербська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:404
 msgctxt "Language|"
 msgid "Sindhi"
-msgstr ""
+msgstr "Синдхі"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:405
 msgctxt "Language|"
 msgid "Slovak"
-msgstr ""
+msgstr "Словацька"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:406
 msgctxt "Language|"
 msgid "Slovenian"
-msgstr ""
+msgstr "Словенська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:407
 msgctxt "Language|"
 msgid "Somali"
-msgstr ""
+msgstr "Сомалійська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:408
 msgctxt "Language|"
 msgid "Spanish"
-msgstr ""
+msgstr "Іспанська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:409
 msgctxt "Language|"
 msgid "Swahili"
-msgstr ""
+msgstr "Суахілі"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:410
 msgctxt "Language|"
 msgid "Swedish"
-msgstr ""
+msgstr "Шведська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:411
 msgctxt "Language|"
 msgid "Tagalog"
-msgstr ""
+msgstr "Тагальська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:412
 msgctxt "Language|"
 msgid "Taiwanese"
-msgstr ""
+msgstr "Тайванська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:413
 msgctxt "Language|"
 msgid "Tamil"
-msgstr ""
+msgstr "Тамільська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:414
 msgctxt "Language|"
 msgid "Tatar"
-msgstr ""
+msgstr "Татарська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:415
 msgctxt "Language|"
 msgid "Thai"
-msgstr ""
+msgstr "Тайська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:416
 msgctxt "Language|"
 msgid "Turkish"
-msgstr ""
+msgstr "Турецька"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:417
 msgctxt "Language|"
 msgid "Ukrainian"
-msgstr ""
+msgstr "Українська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:418
 msgctxt "Language|"
 msgid "Urdu"
-msgstr ""
+msgstr "Урду"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:419
 msgctxt "Language|"
 msgid "Vietnamese"
-msgstr ""
+msgstr "В'єтнамська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:420
 msgctxt "Language|"
 msgid "Welsh"
-msgstr ""
+msgstr "Валійська"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:421
 msgctxt "Language|"
 msgid "Yiddish"
-msgstr ""
+msgstr "Ідиш"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:422
 msgctxt "Language|"
 msgid "Yoruba"
-msgstr ""
+msgstr "Йоруба"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:614
 msgctxt "Marital|"
 msgid "Single"
-msgstr ""
+msgstr "Самотній"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:615
 msgctxt "Marital|"
 msgid "Close relationships"
-msgstr ""
+msgstr "У тісних стосунках"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:616
 msgctxt "Marital|"
 msgid "Engaged"
-msgstr ""
+msgstr "Заручений(на)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:617
 msgctxt "Marital|"
 msgid "Married"
-msgstr ""
+msgstr "Одружений(на)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:618
 msgctxt "Marital|"
 msgid "Divorced"
-msgstr ""
+msgstr "Розлучений(на)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:619
 msgctxt "Marital|"
 msgid "Separated"
-msgstr ""
+msgstr "Живемо окремо"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:620
 msgctxt "Marital|"
 msgid "Widowed"
-msgstr ""
+msgstr "Вдівець(ця)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:621
 msgctxt "Marital|"
 msgid "Open relationship"
-msgstr ""
+msgstr "У активному пошуку"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:622
 msgctxt "Marital|"
 msgid "Other"
-msgstr ""
+msgstr "Інше"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:207
 msgctxt "Menu|"
 msgid "Privacy status"
-msgstr ""
+msgstr "Приватний статус"
 
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:33
 msgctxt "MetaInfo|"
 msgid "Not specified"
-msgstr ""
+msgstr "Не вказано"
 
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:108
 msgctxt "MetaInfo|"
 msgid "Basic"
-msgstr ""
+msgstr "Основні"
 
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:110
 msgctxt "MetaInfo|"
 msgid "More"
-msgstr ""
+msgstr "Додатково"
 
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:112
 msgctxt "MetaInfo|"
 msgid "Work"
-msgstr ""
+msgstr "Робота"
 
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:114
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:676
@@ -2701,639 +2704,640 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:635
 msgctxt "MetaInfo|"
 msgid "Nick"
-msgstr ""
+msgstr "Нік"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:636
 msgctxt "MetaInfo|"
 msgid "First name"
-msgstr ""
+msgstr "Ім’я"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:637
 msgctxt "MetaInfo|"
 msgid "Last name"
-msgstr ""
+msgstr "Прізвище"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:638
 msgctxt "MetaInfo|"
 msgid "Email"
-msgstr ""
+msgstr "Ел. пошта"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:644
 msgctxt "MetaInfo|"
 msgid "Cell phone"
-msgstr ""
+msgstr "Мобільний телефон"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:647
 msgctxt "MetaInfo|"
 msgid "GMT"
-msgstr ""
+msgstr "По Гринвічу"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:648
 msgctxt "MetaInfo|"
 msgid "Authorization"
-msgstr ""
+msgstr "Авторизація"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:649
 msgctxt "MetaInfo|"
 msgid "Webaware"
-msgstr ""
+msgstr "Видимий на Web"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:650
 msgctxt "MetaInfo|"
 msgid "Direct connection"
-msgstr ""
+msgstr "Прямий зв’язок"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:651
 msgctxt "MetaInfo|"
 msgid "Public primary email"
-msgstr ""
+msgstr "Основна ел. пошта"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:652
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:678
 msgctxt "MetaInfo|"
 msgid "Age"
-msgstr ""
+msgstr "Вік"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:653
 msgctxt "MetaInfo|"
 msgid "Gender"
-msgstr ""
+msgstr "Стать"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:654
 msgctxt "MetaInfo|"
 msgid "Homepage"
-msgstr ""
+msgstr "Домашня сторінка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:655
 msgctxt "MetaInfo|"
 msgid "Birthday"
-msgstr ""
+msgstr "Дата народження"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:656
 msgctxt "MetaInfo|"
 msgid "Languages"
-msgstr ""
+msgstr "Мови"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:672
 msgctxt "MetaInfo|"
 msgid "Emails"
-msgstr ""
+msgstr "Ел. пошти"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:673
 msgctxt "MetaInfo|"
 msgid "Notes"
-msgstr ""
+msgstr "Нотатки"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:674
 msgctxt "MetaInfo|"
 msgid "Interests"
-msgstr ""
+msgstr "Інтереси"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:675
 msgctxt "MetaInfo|"
 msgid "Pasts"
-msgstr ""
+msgstr "Минулі"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:677
 msgctxt "MetaInfo|"
 msgid "UIN"
-msgstr ""
+msgstr "UIN (Номер облікового запису)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:679
 msgctxt "MetaInfo|"
 msgid "online only"
-msgstr ""
+msgstr "Тільки в мережі"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:639
 msgctxt "MetaInfoHome|"
 msgid "City"
-msgstr ""
+msgstr "Місто"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:640
 msgctxt "MetaInfoHome|"
 msgid "State"
-msgstr ""
+msgstr "Область"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:641
 msgctxt "MetaInfoHome|"
 msgid "Phone"
-msgstr ""
+msgstr "Телефон"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:642
 msgctxt "MetaInfoHome|"
 msgid "Fax"
-msgstr ""
+msgstr "Факс"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:643
 msgctxt "MetaInfoHome|"
 msgid "Address"
-msgstr ""
+msgstr "Адреса"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:645
 msgctxt "MetaInfoHome|"
 msgid "Zip code"
-msgstr ""
+msgstr "Поштовий індекс"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:646
 msgctxt "MetaInfoHome|"
 msgid "Country"
-msgstr ""
+msgstr "Країна"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:657
 msgctxt "MetaInfoOriginal|"
 msgid "City"
-msgstr ""
+msgstr "Місто"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:658
 msgctxt "MetaInfoOriginal|"
 msgid "State"
-msgstr ""
+msgstr "Область"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:659
 msgctxt "MetaInfoOriginal|"
 msgid "Country"
-msgstr ""
+msgstr "Країна"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:660
 msgctxt "MetaInfoWork|"
 msgid "City"
-msgstr ""
+msgstr "Місто"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:661
 msgctxt "MetaInfoWork|"
 msgid "State"
-msgstr ""
+msgstr "Область"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:662
 msgctxt "MetaInfoWork|"
 msgid "Phone"
-msgstr ""
+msgstr "Телефон"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:663
 msgctxt "MetaInfoWork|"
 msgid "Fax"
-msgstr ""
+msgstr "Факс"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:664
 msgctxt "MetaInfoWork|"
 msgid "Address"
-msgstr ""
+msgstr "Адреса"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:665
 msgctxt "MetaInfoWork|"
 msgid "Zip"
-msgstr ""
+msgstr "Індекс"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:666
 msgctxt "MetaInfoWork|"
 msgid "Country"
-msgstr ""
+msgstr "Країна"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:667
 msgctxt "MetaInfoWork|"
 msgid "Company"
-msgstr ""
+msgstr "Компанія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:668
 msgctxt "MetaInfoWork|"
 msgid "Department"
-msgstr ""
+msgstr "Відділ"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:669
 msgctxt "MetaInfoWork|"
 msgid "Position"
-msgstr ""
+msgstr "Посада"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:670
 msgctxt "MetaInfoWork|"
 msgid "Occupation"
-msgstr ""
+msgstr "Фах"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:671
 msgctxt "MetaInfoWork|"
 msgid "Webpage"
-msgstr ""
+msgstr "Веб-сторінка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:523
 msgctxt "Occupation|"
 msgid "Academic"
-msgstr ""
+msgstr "Наукова діяльність"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:524
 msgctxt "Occupation|"
 msgid "Administrative"
-msgstr ""
+msgstr "Адміністративна діяльність"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:525
 msgctxt "Occupation|"
 msgid "Art/Entertainment"
-msgstr ""
+msgstr "Розважальна індустрія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:526
 msgctxt "Occupation|"
 msgid "College Student"
-msgstr ""
+msgstr "Студент коледжу"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:527
 msgctxt "Occupation|"
 msgid "Computers"
-msgstr ""
+msgstr "Комп'ютери"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:528
 msgctxt "Occupation|"
 msgid "Community & Social"
-msgstr ""
+msgstr "Спільнота і суспільство"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:529
 msgctxt "Occupation|"
 msgid "Education"
-msgstr ""
+msgstr "Освіта"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:530
 msgctxt "Occupation|"
 msgid "Engineering"
-msgstr ""
+msgstr "Інженерна справа"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:531
 msgctxt "Occupation|"
 msgid "Financial Services"
-msgstr ""
+msgstr "Фінансові служби"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:532
 msgctxt "Occupation|"
 msgid "Government"
-msgstr ""
+msgstr "Уряд"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:533
 msgctxt "Occupation|"
 msgid "High School Student"
-msgstr ""
+msgstr "Студент вищого навчального закладу"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:534
 msgctxt "Occupation|"
 msgid "Home"
-msgstr ""
+msgstr "Безробітний"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:535
 msgctxt "Occupation|"
 msgid "ICQ - Providing Help"
-msgstr ""
+msgstr "ICQ - Довідкова служба"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:536
 msgctxt "Occupation|"
 msgid "Law"
-msgstr ""
+msgstr "Юриспруденція"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:537
 msgctxt "Occupation|"
 msgid "Managerial"
-msgstr ""
+msgstr "Керування персоналом"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:538
 msgctxt "Occupation|"
 msgid "Manufacturing"
-msgstr ""
+msgstr "Виробництво"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:539
 msgctxt "Occupation|"
 msgid "Medical/Health"
-msgstr ""
+msgstr "Медицина/Здоров’я"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:540
 msgctxt "Occupation|"
 msgid "Military"
-msgstr ""
+msgstr "Військова служба"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:541
 msgctxt "Occupation|"
 msgid "Non-Government Organization"
-msgstr ""
+msgstr "Неурядова організація"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:542
 msgctxt "Occupation|"
 msgid "Professional"
-msgstr ""
+msgstr "Професійна діяльність"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:543
 msgctxt "Occupation|"
 msgid "Retail"
-msgstr ""
+msgstr "Роздрібна торгівля"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:544
 msgctxt "Occupation|"
 msgid "Retired"
-msgstr ""
+msgstr "Пенсіонер"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:545
 msgctxt "Occupation|"
 msgid "Science & Research"
-msgstr ""
+msgstr "Наука і дослідження"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:546
 msgctxt "Occupation|"
 msgid "Sports"
-msgstr ""
+msgstr "Спорт"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:547
 msgctxt "Occupation|"
 msgid "Technical"
-msgstr ""
+msgstr "Технічний працівник"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:548
 msgctxt "Occupation|"
 msgid "University Student"
-msgstr ""
+msgstr "Студент університету"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:549
 msgctxt "Occupation|"
 msgid "Web Building"
-msgstr ""
+msgstr "Веброзробка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:550
 msgctxt "Occupation|"
 msgid "Other Services"
-msgstr ""
+msgstr "Інші служби"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:435
 msgctxt "Past|"
 msgid "Elementary School"
-msgstr ""
+msgstr "Початкова школа"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:436
 msgctxt "Past|"
 msgid "High School"
-msgstr ""
+msgstr "Середня школа"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:437
 msgctxt "Past|"
 msgid "College"
-msgstr ""
+msgstr "Коледж"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:438
 msgctxt "Past|"
 msgid "University"
-msgstr ""
+msgstr "Університет"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:439
 msgctxt "Past|"
 msgid "Military"
-msgstr ""
+msgstr "Військова служба"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:440
 msgctxt "Past|"
 msgid "Past Work Place"
-msgstr ""
+msgstr "Попереднє місце роботи"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:441
 msgctxt "Past|"
 msgid "Past Organization"
-msgstr ""
+msgstr "Попередня організація"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:442
 msgctxt "Past|"
 msgid "Other"
-msgstr ""
+msgstr "Інше"
 
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
 msgid "Oscar protocol"
-msgstr ""
+msgstr "Протокол Oscar"
 
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:2
 #: ../../../protocols/oscar/src/oscarplugin.cpp:54
 msgctxt "Plugin|"
 msgid "Module-based implementation of Oscar protocol"
-msgstr ""
+msgstr "Реалізація модуля що базується на протоколі Oscar"
 
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:3
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
 msgid "Client identification of oscar contacts"
-msgstr ""
+msgstr "Визначення клієнта у контактів Oscar"
 
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"
 msgid "Oscar additional statuses"
-msgstr ""
+msgstr "Додаткові статуси"
 
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:6
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:213
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:222
 msgctxt "Plugin|"
 msgid "Additional statuses for oscar protocol"
-msgstr ""
+msgstr "Додаткові статуси для аськи"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:48
 msgctxt "Plugin|"
 msgid "OscarIdentify"
-msgstr ""
+msgstr "Ідентифікація Oscar"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:49
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:59
 msgctxt "Plugin|"
 msgid "Client identificaton for oscar contacts"
-msgstr ""
+msgstr "Ідентифікація клієнтів Oscar"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:58
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:221
 #: ../../../protocols/oscar/src/oscarplugin.cpp:60
 msgctxt "Plugin|"
 msgid "ICQ"
-msgstr ""
+msgstr "ICQ"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:212
 msgctxt "Plugin|"
 msgid "OscarXStatus"
-msgstr ""
+msgstr "X-Статус"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:226
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:227
 msgctxt "Plugin|"
 msgid "XStatus settings"
-msgstr ""
+msgstr "Налаштування Х-Статусу"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:53
 msgctxt "Plugin|"
 msgid "Oscar"
-msgstr ""
+msgstr "ICQ/Oscar"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:61
 msgctxt "Plugin|"
 msgid "Module-based implementation of ICQ protocol"
-msgstr ""
+msgstr "Модуль на основі протоколу ICQ"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:64
 msgctxt "Plugin|"
 msgid "ICQ account creator"
-msgstr ""
+msgstr "Майстер створення облікового запису ICQ"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:65
 msgctxt "Plugin|"
 msgid "Account creator for module-based implementation of ICQ protocol"
 msgstr ""
+"Майстер створення облікового запису для початкової реалізація протоколу ICQ"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:68
 #: ../../../protocols/oscar/src/oscarplugin.cpp:69
 msgctxt "Plugin|"
 msgid "Oscar roster"
-msgstr ""
+msgstr "Список контактів аськи"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:72
 #: ../../../protocols/oscar/src/oscarplugin.cpp:73
 msgctxt "Plugin|"
 msgid "Oscar messages"
-msgstr ""
+msgstr "Повідомлення аськи"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:76
 #: ../../../protocols/oscar/src/oscarplugin.cpp:77
 msgctxt "Plugin|"
 msgid "Oscar file transfer protocol"
-msgstr ""
+msgstr "Протокол передачи файлів OSCAR'a"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:80
 #: ../../../protocols/oscar/src/oscarplugin.cpp:81
 msgctxt "Plugin|"
 msgid "Oscar file transfer settings"
-msgstr ""
+msgstr "Налаштування протоколу передачі файлів для OSCAR'a"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:84
 #: ../../../protocols/oscar/src/oscarplugin.cpp:85
 msgctxt "Plugin|"
 msgid "MetaInfo icq service"
-msgstr ""
+msgstr "Метавідомості служби icq"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:88
 #: ../../../protocols/oscar/src/oscarplugin.cpp:89
 msgctxt "Plugin|"
 msgid "Oscar authorization support"
-msgstr ""
+msgstr "Підтримка авторизації аськи"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:92
 #: ../../../protocols/oscar/src/oscarplugin.cpp:93
 msgctxt "Plugin|"
 msgid "Oscar privacy lists"
-msgstr ""
+msgstr "Списки доступу аськи"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:96
 msgctxt "Plugin|"
 msgid "Oscar contact search"
-msgstr ""
+msgstr "Пошук контактів в мережі ICQ"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:97
 msgctxt "Plugin|"
 msgid "Oscar contact search implementation"
-msgstr ""
+msgstr "Реалізація пошуку контактів для Oscar"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:100
 #: ../../../protocols/oscar/src/oscarplugin.cpp:101
 msgctxt "Plugin|"
 msgid "Oscar proxy support"
-msgstr ""
+msgstr "Підтримка проксі для протоколу Oscar"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:90
 msgctxt "Privacy|"
 msgid "Visible for all"
-msgstr ""
+msgstr "Видимий для всіх"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:92
 msgctxt "Privacy|"
 msgid "Invisible for all"
-msgstr ""
+msgstr "Невидимий для всіх"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:94
 msgctxt "Privacy|"
 msgid "Visible only for visible list"
-msgstr ""
+msgstr "Видимий для списку видючих"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:96
 msgctxt "Privacy|"
 msgid "Invisible only for invisible list"
-msgstr ""
+msgstr "Невидимий для списку невидючих"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:98
 msgctxt "Privacy|"
 msgid "Visible only for contact list"
-msgstr ""
+msgstr "Видимий тільки для списку контактів"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:100
 msgctxt "Privacy|"
 msgid "Unknown privacy"
-msgstr ""
+msgstr "Невідома конфіденційність"
 
 #: ../../../protocols/oscar/src/connection.cpp:53
 msgctxt "ProtocolError|"
 msgid "Invalid SNAC header"
-msgstr ""
+msgstr "Невірний заголовок SNAC"
 
 #: ../../../protocols/oscar/src/connection.cpp:55
 msgctxt "ProtocolError|"
 msgid "Server rate limit exceeded"
-msgstr ""
+msgstr "Досягнуто обмеження швидкості сервера"
 
 #: ../../../protocols/oscar/src/connection.cpp:57
 msgctxt "ProtocolError|"
 msgid "Client rate limit exceeded"
-msgstr ""
+msgstr "Досягнуто обмеження швидкості клієнта"
 
 #: ../../../protocols/oscar/src/connection.cpp:59
 msgctxt "ProtocolError|"
 msgid "Recipient is not logged in"
-msgstr ""
+msgstr "Користувач не в мережі"
 
 #: ../../../protocols/oscar/src/connection.cpp:61
 msgctxt "ProtocolError|"
 msgid "Requested service unavailable"
-msgstr ""
+msgstr "Запитана служба недоступна"
 
 #: ../../../protocols/oscar/src/connection.cpp:63
 msgctxt "ProtocolError|"
 msgid "Requested service not defined"
-msgstr ""
+msgstr "Запитана служба не визначена"
 
 #: ../../../protocols/oscar/src/connection.cpp:65
 msgctxt "ProtocolError|"
 msgid "You sent obsolete SNAC"
-msgstr ""
+msgstr "Ти послав застарілий пакет"
 
 #: ../../../protocols/oscar/src/connection.cpp:67
 msgctxt "ProtocolError|"
 msgid "Not supported by server"
-msgstr ""
+msgstr "не підтримується сервером"
 
 #: ../../../protocols/oscar/src/connection.cpp:69
 msgctxt "ProtocolError|"
 msgid "Not supported by client"
-msgstr ""
+msgstr "Не підтримується клієнтом"
 
 #: ../../../protocols/oscar/src/connection.cpp:71
 msgctxt "ProtocolError|"
 msgid "Refused by client"
-msgstr ""
+msgstr "Відхилено клієнтом"
 
 #: ../../../protocols/oscar/src/connection.cpp:73
 msgctxt "ProtocolError|"
 msgid "Reply too big"
-msgstr ""
+msgstr "Відповідь завелика"
 
 #: ../../../protocols/oscar/src/connection.cpp:75
 msgctxt "ProtocolError|"
 msgid "Responses lost"
-msgstr ""
+msgstr "Відповіді втрачені"
 
 #: ../../../protocols/oscar/src/connection.cpp:77
 msgctxt "ProtocolError|"
 msgid "Request denied"
-msgstr ""
+msgstr "Запит відхилений"
 
 #: ../../../protocols/oscar/src/connection.cpp:79
 msgctxt "ProtocolError|"
 msgid "Incorrect SNAC format"
-msgstr ""
+msgstr "Неправильний формат SNAC"
 
 #: ../../../protocols/oscar/src/connection.cpp:81
 msgctxt "ProtocolError|"
 msgid "Insufficient rights"
-msgstr ""
+msgstr "Недостатньо прав"
 
 #: ../../../protocols/oscar/src/connection.cpp:83
 msgctxt "ProtocolError|"
@@ -3343,132 +3347,132 @@ msgstr ""
 #: ../../../protocols/oscar/src/connection.cpp:85
 msgctxt "ProtocolError|"
 msgid "Sender too evil"
-msgstr ""
+msgstr "Адресат поганий"
 
 #: ../../../protocols/oscar/src/connection.cpp:87
 msgctxt "ProtocolError|"
 msgid "Receiver too evil"
-msgstr ""
+msgstr "Отимувач поганий"
 
 #: ../../../protocols/oscar/src/connection.cpp:89
 msgctxt "ProtocolError|"
 msgid "User temporarily unavailable"
-msgstr ""
+msgstr "Користувач тимчасово недоступний"
 
 #: ../../../protocols/oscar/src/connection.cpp:91
 msgctxt "ProtocolError|"
 msgid "No match"
-msgstr ""
+msgstr "Жодного результату"
 
 #: ../../../protocols/oscar/src/connection.cpp:93
 msgctxt "ProtocolError|"
 msgid "List overflow"
-msgstr ""
+msgstr "Перелік переповнений"
 
 #: ../../../protocols/oscar/src/connection.cpp:95
 msgctxt "ProtocolError|"
 msgid "Request ambiguous"
-msgstr ""
+msgstr "Запит незрозумілий"
 
 #: ../../../protocols/oscar/src/connection.cpp:97
 msgctxt "ProtocolError|"
 msgid "Server queue full"
-msgstr ""
+msgstr "Черга серверу переповнена"
 
 #: ../../../protocols/oscar/src/connection.cpp:99
 msgctxt "ProtocolError|"
 msgid "Not while on AOL"
-msgstr ""
+msgstr "Не тоді, коли у AOL"
 
 #: ../../../protocols/oscar/src/connection.cpp:101
 msgctxt "ProtocolError|"
 msgid "Unknown error"
-msgstr ""
+msgstr "Невідома помилка"
 
 #: ../../../protocols/oscar/src/icqprotocol.cpp:72
 msgctxt "Settings|"
 msgid "Icq"
-msgstr ""
+msgstr "Icq"
 
 #: ../../../protocols/oscar/src/icqprotocol.cpp:77
 msgctxt "Settings|"
 msgid "Icq account settings"
-msgstr ""
+msgstr "Налаштування облікового запису Icq"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:261
 msgctxt "Status|"
 msgid "Angry"
-msgstr ""
+msgstr "Злий"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:263
 msgctxt "Status|"
 msgid "Depression"
-msgstr ""
+msgstr "Пригнічений"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:265
 msgctxt "Status|"
 msgid "At home"
-msgstr ""
+msgstr "Вдома"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:267
 msgctxt "Status|"
 msgid "At work"
-msgstr ""
+msgstr "На роботі"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:269
 msgctxt "Status|"
 msgid "Eating"
-msgstr ""
+msgstr "Їм"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:276
 msgctxt "Status|"
 msgid "Custom status"
-msgstr ""
+msgstr "Власний статус"
 
 #: ../../../protocols/oscar/src/oscarstatus.cpp:48
 msgctxt "Status|"
 msgid "Busy"
-msgstr ""
+msgstr "Зайнятий"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:473
 msgctxt "StudyLevel|"
 msgid "Associated degree"
-msgstr ""
+msgstr "Середня спеціальна"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:474
 msgctxt "StudyLevel|"
 msgid "Bachelor's degree"
-msgstr ""
+msgstr "Бакалавр"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:475
 msgctxt "StudyLevel|"
 msgid "Elementary"
-msgstr ""
+msgstr "Початкова"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:476
 msgctxt "StudyLevel|"
 msgid "High-school"
-msgstr ""
+msgstr "Вища школа"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:477
 msgctxt "StudyLevel|"
 msgid "Master's degree"
-msgstr ""
+msgstr "Магістр"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:478
 msgctxt "StudyLevel|"
 msgid "PhD"
-msgstr ""
+msgstr "Кандидат"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:479
 msgctxt "StudyLevel|"
 msgid "Postdoctoral"
-msgstr ""
+msgstr "Докторантура"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:480
 msgctxt "StudyLevel|"
 msgid "University / College"
-msgstr ""
+msgstr "Університет / Коледж"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:53
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:56
@@ -3476,362 +3480,362 @@ msgstr ""
 #: ../../../protocols/oscar/src/oscarplugin.cpp:58
 msgctxt "Task|"
 msgid "Author"
-msgstr ""
+msgstr "Автор"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:54
 msgctxt "XStatus|"
 msgid "Angry"
-msgstr ""
+msgstr "Злий"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:57
 msgctxt "XStatus|"
 msgid "Taking a bath"
-msgstr ""
+msgstr "Приймаю ванну"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:60
 msgctxt "XStatus|"
 msgid "Tired"
-msgstr ""
+msgstr "Втомлений"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:63
 msgctxt "XStatus|"
 msgid "Party"
-msgstr ""
+msgstr "Вечірка"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:66
 msgctxt "XStatus|"
 msgid "Drinking beer"
-msgstr ""
+msgstr "П’ю пиво"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:69
 msgctxt "XStatus|"
 msgid "Thinking"
-msgstr ""
+msgstr "Думаю"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:72
 msgctxt "XStatus|"
 msgid "Eating"
-msgstr ""
+msgstr "Їм"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:75
 msgctxt "XStatus|"
 msgid "Watching TV"
-msgstr ""
+msgstr "Дивлюсь телевізор"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:78
 msgctxt "XStatus|"
 msgid "Meeting"
-msgstr ""
+msgstr "На нараді"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:81
 msgctxt "XStatus|"
 msgid "Coffee"
-msgstr ""
+msgstr "Кава"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:84
 msgctxt "XStatus|"
 msgid "Listening to music"
-msgstr ""
+msgstr "Слухаю музику"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:87
 msgctxt "XStatus|"
 msgid "Business"
-msgstr ""
+msgstr "Справи"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:90
 msgctxt "XStatus|"
 msgid "Shooting"
-msgstr ""
+msgstr "Стрільба"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:93
 msgctxt "XStatus|"
 msgid "Having fun"
-msgstr ""
+msgstr "Дурію"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:96
 msgctxt "XStatus|"
 msgid "On the phone"
-msgstr ""
+msgstr "Розмовляю по телефону"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:99
 msgctxt "XStatus|"
 msgid "Gaming"
-msgstr ""
+msgstr "Граюсь"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:102
 msgctxt "XStatus|"
 msgid "Studying"
-msgstr ""
+msgstr "Вчуся"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:105
 msgctxt "XStatus|"
 msgid "Shopping"
-msgstr ""
+msgstr "Роблю покупки"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:108
 msgctxt "XStatus|"
 msgid "Feeling sick"
-msgstr ""
+msgstr "Хворію"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:111
 msgctxt "XStatus|"
 msgid "Sleeping"
-msgstr ""
+msgstr "Сплю"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:114
 msgctxt "XStatus|"
 msgid "Surfing"
-msgstr ""
+msgstr "Серфінг"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:117
 msgctxt "XStatus|"
 msgid "Browsing"
-msgstr ""
+msgstr "Гуглю"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:120
 msgctxt "XStatus|"
 msgid "Working"
-msgstr ""
+msgstr "Працюю"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:123
 msgctxt "XStatus|"
 msgid "Typing"
-msgstr ""
+msgstr "Друкую"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:126
 msgctxt "XStatus|"
 msgid "Picnic"
-msgstr ""
+msgstr "Пікнік"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:129
 msgctxt "XStatus|"
 msgid "Cooking"
-msgstr ""
+msgstr "Куховарю"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:132
 msgctxt "XStatus|"
 msgid "Mobile"
-msgstr ""
+msgstr "Мобільний"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:135
 msgctxt "XStatus|"
 msgid "I'm high"
-msgstr ""
+msgstr "Накурений"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:138
 msgctxt "XStatus|"
 msgid "On WC"
-msgstr ""
+msgstr "В туалеті"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:141
 msgctxt "XStatus|"
 msgid "To be or not to be"
-msgstr ""
+msgstr "Бути чи не бути"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:144
 msgctxt "XStatus|"
 msgid "Watching movie"
-msgstr ""
+msgstr "Дивлюся кіно"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:147
 msgctxt "XStatus|"
 msgid "Love"
-msgstr ""
+msgstr "Любов"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:150
 msgctxt "XStatus|"
 msgid "Searching"
-msgstr ""
+msgstr "Пошук"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:153
 msgctxt "XStatus|"
 msgid "Writing"
-msgstr ""
+msgstr "Запис"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:156
 msgctxt "XStatus|"
 msgid "Sex"
-msgstr ""
+msgstr "Секс"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:159
 msgctxt "XStatus|"
 msgid "Smoking"
-msgstr ""
+msgstr "Курю"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:163
 msgctxt "XStatus|"
 msgid "Cold"
-msgstr ""
+msgstr "Холодно"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:164
 msgctxt "XStatus|"
 msgid "Crying"
-msgstr ""
+msgstr "Плачу"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:165
 msgctxt "XStatus|"
 msgid "Fear"
-msgstr ""
+msgstr "Боюся"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:166
 msgctxt "XStatus|"
 msgid "Reading"
-msgstr ""
+msgstr "Читаю"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:167
 msgctxt "XStatus|"
 msgid "Sport"
-msgstr ""
+msgstr "Спорт"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:168
 msgctxt "XStatus|"
 msgid "In tansport"
-msgstr ""
+msgstr "В транспорті"
 
 #: ../../../protocols/oscar/src/metainfo/abstractmetarequest.cpp:77
 msgctxt "qutim_sdk_0_3::oscar::AbstractMetaRequest|"
 msgid "The metarequest cancelled by user"
-msgstr ""
+msgstr "Метазапит скасовано користувачем"
 
 #: ../../../protocols/oscar/src/metainfo/abstractmetarequest.cpp:82
 msgctxt "qutim_sdk_0_3::oscar::AbstractMetaRequest|"
 msgid "The server did not answer on the metarequest"
-msgstr ""
+msgstr "Сервер не відповів на метазапит"
 
 #: ../../../protocols/oscar/src/authorization.cpp:73
 msgctxt "qutim_sdk_0_3::oscar::Authorization|"
 msgid "Grant authorization"
-msgstr ""
+msgstr "Авторизувати"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:83
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:210
 msgctxt "qutim_sdk_0_3::oscar::ClientIdentify|"
 msgid "Possible client"
-msgstr ""
+msgstr "Можливий клієнт"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:84
 msgctxt "qutim_sdk_0_3::oscar::ClientIdentify|"
 msgid "Show client icon"
-msgstr ""
+msgstr "Показувати іконку клієнта"
 
 #: ../../../protocols/oscar/src/metainfo/infometarequest.cpp:292
 msgctxt "qutim_sdk_0_3::oscar::FullInfoMetaRequest|"
 msgid "Incorrect format of the metarequest"
-msgstr ""
+msgstr "Неправильний формат метазапиту"
 
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.cpp:54
 msgctxt "qutim_sdk_0_3::oscar::IcqAccountMainSettings|"
 msgid "Use SSL (experimental)"
-msgstr ""
+msgstr "Використовувати SSL (експерементально)"
 
 #: ../../../protocols/oscar/src/ui/icqmainsettings.cpp:156
 msgctxt "qutim_sdk_0_3::oscar::IcqMainSettings|"
 msgid "General"
-msgstr ""
+msgstr "Загальні"
 
 #: ../../../protocols/oscar/src/ui/icqmainsettings.cpp:157
 msgctxt "qutim_sdk_0_3::oscar::IcqMainSettings|"
 msgid "Codec"
-msgstr ""
+msgstr "Кодування"
 
 #: ../../../protocols/oscar/src/ui/icqmainsettings.cpp:158
 msgctxt "qutim_sdk_0_3::oscar::IcqMainSettings|"
 msgid "Don't send requests for avatarts"
-msgstr ""
+msgstr "Не запитувати аватари"
 
 #: ../../../protocols/oscar/src/ui/icqmainsettings.cpp:160
 msgctxt "qutim_sdk_0_3::oscar::IcqMainSettings|"
 msgid "Support AIM contacts"
-msgstr ""
+msgstr "Підтримка AIM контактів"
 
 #: ../../../protocols/oscar/src/md5login.cpp:92
 #, qt-format
 msgctxt "qutim_sdk_0_3::oscar::Md5Login|"
 msgid "No IP addresses were found for the host '%1'"
-msgstr ""
+msgstr "Не знайдено відповідність ІП адреси серверу '%1'"
 
 #: ../../../protocols/oscar/src/metainfo/metainfo.cpp:78
 msgctxt "qutim_sdk_0_3::oscar::MetaInfo|"
 msgid "Incorrect format of the metarequest"
-msgstr ""
+msgstr "Неправильний формат метазапиту"
 
 #: ../../../protocols/oscar/src/oscarfiletransfer.cpp:871
 #, qt-format
 msgctxt "qutim_sdk_0_3::oscar::OftConnection|"
 msgid "Could not open %1"
-msgstr ""
+msgstr "Не вдалося відкрити %1"
 
 #: ../../../protocols/oscar/src/oscarfiletransfer.cpp:1044
 msgctxt "qutim_sdk_0_3::oscar::OftFileTransferFactory|"
 msgid "Oscar"
-msgstr ""
+msgstr "ICQ/Oscar"
 
 #: ../../../protocols/oscar/src/oscarfiletransfer.cpp:243
 msgctxt "qutim_sdk_0_3::oscar::OftSocket|"
 msgid "The file transfer proxy server is not available"
-msgstr ""
+msgstr "Проксі сервер передачі файлів недоступний"
 
 #: ../../../protocols/oscar/src/oscarfiletransfer.cpp:1232
 msgctxt "qutim_sdk_0_3::oscar::OscarFileTransferSettings|"
 msgid "File transfer"
-msgstr ""
+msgstr "Передавання файлів"
 
 #: ../../../protocols/oscar/src/oscarfiletransfer.cpp:1235
 msgctxt "qutim_sdk_0_3::oscar::OscarFileTransferSettings|"
 msgid "Always use file transfer proxy"
-msgstr ""
+msgstr "При передачі файлів завжди використовувати проксі"
 
 #: ../../../protocols/oscar/src/oscarfiletransfer.cpp:1241
 msgctxt "qutim_sdk_0_3::oscar::OscarFileTransferSettings|"
 msgid "Accept incoming connections on any port"
-msgstr ""
+msgstr "Приймати вхідні з'єднання на будь-якому порту"
 
 #: ../../../protocols/oscar/src/oscarfiletransfer.cpp:1253
 msgctxt "qutim_sdk_0_3::oscar::OscarFileTransferSettings|"
 msgid "Local ports"
-msgstr ""
+msgstr "Локальні порти"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:352
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"visible\" icon if contact in visible list"
-msgstr ""
+msgstr "Показувати іконку \"видючих\" в списку контактів"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:356
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"invisible\" icon if contact in invisible list"
-msgstr ""
+msgstr "Показувати іконку \"невидючих\" в списку контактів"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:360
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"ignore\" icon if contact in ignore list"
-msgstr ""
+msgstr "Показувати іконку \"ігнорованих\" в списку контактів"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:437
 msgctxt "qutim_sdk_0_3::oscar::XStatusHandler|"
 msgid "X-Status"
-msgstr ""
+msgstr "X-Статус"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:438
 msgctxt "qutim_sdk_0_3::oscar::XStatusHandler|"
 msgid "Show contact X-Status icon"
-msgstr ""
+msgstr "Показувати іконку \"Х-статусу\""
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatussettings.cpp:39
 msgctxt "qutim_sdk_0_3::oscar::XStatusSettings|"
 msgid "Extended status"
-msgstr ""
+msgstr "Розширений статус"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatussettings.cpp:42
 msgctxt "qutim_sdk_0_3::oscar::XStatusSettings|"
 msgid "Ask for XStatuses automatically"
-msgstr ""
+msgstr "Запитувати х-статуси автоматично"
 
 #: ../../../protocols/oscar/plugins/xstatus/statusdialog.ui:14
 msgctxt "statusDialogClass|"
 msgid "Custom status"
-msgstr ""
+msgstr "Власний статус"
 
 #: ../../../protocols/oscar/plugins/xstatus/statusdialog.ui:99
 msgctxt "statusDialogClass|"
 msgid "Set birthday/happy flag"
-msgstr ""
+msgstr "Показувати прапорець дня народження"
