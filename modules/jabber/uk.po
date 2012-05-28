@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-05-26 21:07+0000\n"
+"PO-Revision-Date: 2012-05-27 20:59+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-27 05:13+0000\n"
+"X-Launchpad-Export-Date: 2012-05-28 05:54+0000\n"
 "X-Generator: Launchpad (build 15288)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
@@ -588,7 +588,7 @@ msgstr "Відділ"
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:104
 msgctxt "ContactInfo|"
 msgid "Position"
-msgstr "Позиція"
+msgstr "Положення"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:105
 msgctxt "ContactInfo|"
@@ -599,7 +599,7 @@ msgstr "Посада"
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:260
 msgctxt "ContactInfo|"
 msgid "About"
-msgstr "Про програму"
+msgstr "Про себе"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:170
 msgctxt "ContactInfo|"
@@ -659,7 +659,7 @@ msgstr "Номер"
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:437
 msgctxt "ContactInfo|"
 msgid "E-mail"
-msgstr "Електронна пошта"
+msgstr "Ел. пошта"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:184
 msgctxt "ContactResource|"
@@ -679,42 +679,42 @@ msgstr "ОС"
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:320
 msgctxt "HttpConnect|"
 msgid "Authentication failed"
-msgstr ""
+msgstr "Помилка аутентифікації"
 
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:324
 msgctxt "HttpConnect|"
 msgid "Host not found"
-msgstr ""
+msgstr "Сервер не знайдено"
 
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:328
 msgctxt "HttpConnect|"
 msgid "Access denied"
-msgstr ""
+msgstr "Доступ заборонено"
 
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:332
 msgctxt "HttpConnect|"
 msgid "Connection refused"
-msgstr ""
+msgstr "Відмовлено в з'єднанні"
 
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:336
 msgctxt "HttpConnect|"
 msgid "Invalid reply"
-msgstr ""
+msgstr "Неправильна відповідь"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.ui:14
 msgctxt "JAccountRegistrationPage|"
 msgid "WizardPage"
-msgstr ""
+msgstr "Майстер міграції"
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:14
 msgctxt "JAccountWizardPage|"
 msgid "WizardPage"
-msgstr "Сторінка майстра"
+msgstr "Майстер міграції"
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:41
 msgctxt "JAccountWizardPage|"
 msgid "I already have account"
-msgstr ""
+msgstr "У мене вже э обліковий запис"
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:63
 msgctxt "JAccountWizardPage|"
@@ -739,32 +739,32 @@ msgstr "Зберегти пароль"
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:117
 msgctxt "JAccountWizardPage|"
 msgid "I want to create new account"
-msgstr ""
+msgstr "Я хочу створити новий обліковий запис"
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:133
 msgctxt "JAccountWizardPage|"
 msgid "Server:"
-msgstr ""
+msgstr "Сервер:"
 
 #: ../../../protocols/jabber/src/protocol/modules/adhoc/jadhocwidget.ui:14
 msgctxt "JAdHocWidget|"
 msgid "Form"
-msgstr "Форма"
+msgstr "Стиль"
 
 #: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:14
 msgctxt "JCertInfo|"
 msgid "Cert Info"
-msgstr ""
+msgstr "Інформація про сертифікат"
 
 #: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:22
 msgctxt "JCertInfo|"
 msgid "Cipher:"
-msgstr ""
+msgstr "Шифр"
 
 #: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:29
 msgctxt "JCertInfo|"
 msgid "Compression:"
-msgstr "Стискання:"
+msgstr "Стиснення:"
 
 #: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:36
 msgctxt "JCertInfo|"
@@ -799,12 +799,12 @@ msgstr "Запам'ятати вибір для цього сервера"
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:14
 msgctxt "JMainSettings|"
 msgid "Form"
-msgstr "Форма"
+msgstr "Стиль"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:26
 msgctxt "JMainSettings|"
 msgid "Default resource:"
-msgstr ""
+msgstr "Типовий ресурс:"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:36
 msgctxt "JMainSettings|"
@@ -814,7 +814,7 @@ msgstr "Пароль:"
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:43
 msgctxt "JMainSettings|"
 msgid "Don't send request for avatars"
-msgstr "Не відсилати запити для аватарів"
+msgstr "Не відсилати запити на аватари"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:59
 msgctxt "JMainSettings|"
@@ -824,7 +824,7 @@ msgstr "Приймаючий порт для файлового передава
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:85
 msgctxt "JMainSettings|"
 msgid "Priority depends on status"
-msgstr ""
+msgstr "Пріоритет залежить від статусу"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:91
 msgctxt "JMainSettings|"
@@ -844,12 +844,12 @@ msgstr "Відсутній:"
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:142
 msgctxt "JMainSettings|"
 msgid "NA:"
-msgstr "NA:"
+msgstr "Недоступний:"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:159
 msgctxt "JMainSettings|"
 msgid "DND:"
-msgstr "DND:"
+msgstr "Не турьувати:"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:179
 msgctxt "JMainSettings|"
@@ -859,22 +859,22 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:198
 msgctxt "JMainSettings|"
 msgid "Select Key"
-msgstr ""
+msgstr "Вибір ключа"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:205
 msgctxt "JMainSettings|"
 msgid "Use none"
-msgstr ""
+msgstr "Не використовувати"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:222
 msgctxt "JMainSettings|"
 msgid "Connection settings"
-msgstr ""
+msgstr "Налаштування з’єднання"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:228
 msgctxt "JMainSettings|"
 msgid "Autodetect connection settings"
-msgstr ""
+msgstr "Автовизначення налаштувань з’єднання"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:238
 msgctxt "JMainSettings|"
@@ -889,30 +889,30 @@ msgstr "Порт:"
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:269
 msgctxt "JMainSettings|"
 msgid "Use encryption"
-msgstr ""
+msgstr "Використовувати шифрування"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:276
 msgctxt "JMainSettings|"
 msgid "Use compression"
-msgstr ""
+msgstr "Використовувати стиснення"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:284
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:303
 msgctxt "JMainSettings|"
 msgid "Always"
-msgstr ""
+msgstr "Завжди"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:289
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:308
 msgctxt "JMainSettings|"
 msgid "Never"
-msgstr ""
+msgstr "Ніколи"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:294
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:313
 msgctxt "JMainSettings|"
 msgid "If server has support"
-msgstr ""
+msgstr "Якщо сервер підтримує"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:197
 msgctxt "Jabber|"
@@ -927,7 +927,7 @@ msgstr "Конференція"
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:213
 msgctxt "Jabber|"
 msgid "Nick"
-msgstr "Нікнейм"
+msgstr "Нік"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:218
 msgctxt "Jabber|"
@@ -937,7 +937,7 @@ msgstr "Пароль"
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:224
 msgctxt "Jabber|"
 msgid "Auto-join"
-msgstr "Авто-приєднання"
+msgstr "Входити автоматично"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:798
 msgctxt "Jabber|"
@@ -988,13 +988,13 @@ msgstr "Відписатися"
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:99
 msgctxt "Jabber|"
 msgid "Request subscription"
-msgstr ""
+msgstr "Запит підписки"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:113
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:224
 msgctxt "Jabber|"
 msgid "Save to bookmarks"
-msgstr "Закласти"
+msgstr "Зберегти до закладок"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:114
 msgctxt "Jabber|"
@@ -1009,7 +1009,7 @@ msgstr "Налаштування кімнати"
 #: ../../../protocols/jabber/src/protocol/modules/jinglesupport/jinglesupport.cpp:72
 msgctxt "Jabber|"
 msgid "Voice call"
-msgstr ""
+msgstr "Голосовий виклик"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:59
 msgctxt "Jabber|"
@@ -1034,7 +1034,7 @@ msgstr "en"
 #: ../../../protocols/jabber/src/protocol/jaccountfinishpage.ui:13
 msgctxt "Jabber::JAccountFinishPage|"
 msgid "WizardPage"
-msgstr ""
+msgstr "Майстер міграції"
 
 #: ../../../protocols/jabber/src/protocol/jaccountfinishpage.cpp:52
 #, qt-format
@@ -1042,22 +1042,23 @@ msgctxt "Jabber::JAccountFinishPage|"
 msgid ""
 "Congratulations! Account creation is finished, your Jabber ID is \"%1\""
 msgstr ""
+"Вітаємо! Створення облікового запису завершено, ваш Jabber ID тепер \"%1\""
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:235
 msgctxt "Jabber::JAccountRegistrationPage|"
 msgid "Unknown error"
-msgstr ""
+msgstr "Невідома помилка"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:239
 msgctxt "Jabber::JAccountRegistrationPage|"
 msgid "The desired username is already in use by another user"
-msgstr ""
+msgstr "Бажаний нік вже використовується іншим користувачем"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:282
 #, qt-format
 msgctxt "Jabber::JAccountRegistrationPage|"
 msgid "Sorry, but server \"%1\" does not support in-band registration"
-msgstr ""
+msgstr "Вибачте, але сервер \"%1\" не підтримує даний тип реєстрації"
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.cpp:41
 msgctxt "Jabber::JAccountWizardPage|"
@@ -1065,11 +1066,13 @@ msgid ""
 "Account information.\n"
 "If you don't have account yet, press \"Register\" button."
 msgstr ""
+"Інформація про обліковий запис.\n"
+"Якщо у вас немає облікового запису, натисніть кнопку \"Зареєструватися\"."
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.cpp:73
 msgctxt "Jabber::JAccountWizardPage|"
 msgid "Register"
-msgstr ""
+msgstr "Зареєструватися"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:252
 msgctxt "Jabber::JActivityChooser|"
@@ -1079,7 +1082,7 @@ msgstr "Вибрати активність"
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.ui:20
 msgctxt "Jabber::JActivityChooserWindow|"
 msgid "Form"
-msgstr "Форма"
+msgstr "Стиль"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:175
 msgctxt "Jabber::JActivityChooserWindow|"
@@ -1089,7 +1092,7 @@ msgstr "Виберіть вашу активність"
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:176
 msgctxt "Jabber::JActivityChooserWindow|"
 msgid "Choose"
-msgstr ""
+msgstr "Вибрати"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:214
 msgctxt "Jabber::JActivityChooserWindow|"
@@ -1100,17 +1103,17 @@ msgstr "Активність відсутня"
 #, qt-format
 msgctxt "Jabber::JAttention|"
 msgid "%1 trying to attract your attention!"
-msgstr ""
+msgstr "%1 намагається привернути вашу увагу!"
 
 #: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:125
 msgctxt "Jabber::JAttention|"
 msgid "Contact's client does not suppoort attentions"
-msgstr ""
+msgstr "Контакт не звертає на вас увагу"
 
 #: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:127
 msgctxt "Jabber::JAttention|"
 msgid "Trying to attract attention."
-msgstr ""
+msgstr "Спроба привернути увагу"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:241
 msgctxt "Jabber::JBookmarkManager|"
@@ -1135,7 +1138,7 @@ msgstr " був заблокований"
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:347
 msgctxt "Jabber::JMUCSession|"
 msgid " has been kicked"
-msgstr " штовхнули"
+msgstr " викинули"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:351
 msgctxt "Jabber::JMUCSession|"
