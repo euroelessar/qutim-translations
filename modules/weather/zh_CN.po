@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-03-10 09:33+0000\n"
+"PO-Revision-Date: 2012-05-28 09:34+0000\n"
 "Last-Translator: Wang Dianjin <Unknown>\n"
 "Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-05 05:47+0000\n"
-"X-Generator: Launchpad (build 15195)\n"
+"X-Launchpad-Export-Date: 2012-05-29 05:03+0000\n"
+"X-Generator: Launchpad (build 15316)\n"
 "X-Qt-Contexts: true\n"
 "Language: zh_CN\n"
 
@@ -209,17 +209,17 @@ msgstr ""
 #: ../../../plugins/weather/__template_from_weather.cpp:1
 msgctxt "Weather|"
 msgid "Day"
-msgstr ""
+msgstr "天"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:2
 msgctxt "Weather|"
 msgid "Dew Point"
-msgstr ""
+msgstr "露点"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:3
 msgctxt "Weather|"
 msgid "Feels Like"
-msgstr ""
+msgstr "体感温度"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:4
 msgctxt "Weather|"
@@ -241,22 +241,22 @@ msgstr ""
 #: ../../../plugins/weather/__template_from_weather.cpp:7
 msgctxt "Weather|"
 msgid "High"
-msgstr ""
+msgstr "高"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:8
 msgctxt "Weather|"
 msgid "Humidity"
-msgstr ""
+msgstr "湿度"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:9
 msgctxt "Weather|"
 msgid "Local Time"
-msgstr ""
+msgstr "当地时间"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:10
 msgctxt "Weather|"
 msgid "Night"
-msgstr ""
+msgstr "夜间"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:11
 msgctxt "Weather|"
@@ -266,65 +266,65 @@ msgstr ""
 #: ../../../plugins/weather/__template_from_weather.cpp:12
 msgctxt "Weather|"
 msgid "Pressure"
-msgstr ""
+msgstr "气压"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:13
 msgctxt "Weather|"
 msgid "Rain"
-msgstr ""
+msgstr "雨"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:14
 msgctxt "Weather|"
 msgid "Snow"
-msgstr ""
+msgstr "雪"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:15
 msgctxt "Weather|"
 msgid "Sunrise"
-msgstr ""
+msgstr "日出"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:16
 msgctxt "Weather|"
 msgid "Sunset"
-msgstr ""
+msgstr "日落"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:17
 msgctxt "Weather|"
 msgid "Updated"
-msgstr ""
+msgstr "已更新"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:18
 msgctxt "Weather|"
 msgid "UV Index"
-msgstr ""
+msgstr "紫外线指数"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:19
 msgctxt "Weather|"
 msgid "Visibility"
-msgstr ""
+msgstr "可见度"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:20
 msgctxt "Weather|"
 msgid "Weather forecast"
-msgstr ""
+msgstr "天气预报"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:21
 msgctxt "Weather|"
 msgid "Wind"
-msgstr ""
+msgstr "风况"
 
 #: ../../../plugins/weather/src/waccount.cpp:35
 #: ../../../plugins/weather/src/wcontact.cpp:60
 msgctxt "Weather|"
 msgid "Weather"
-msgstr ""
+msgstr "天气"
 
 #: ../../../plugins/weather/src/weather.cpp:45
 msgctxt "Weather|"
 msgid "Get weather"
-msgstr ""
+msgstr "获取天气"
 
 #: ../../../plugins/weather/src/weather.cpp:49
 msgctxt "Weather|"
 msgid "Get weather forecast"
-msgstr ""
+msgstr "获取天气预报"
