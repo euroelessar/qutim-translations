@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-05-28 22:03+0000\n"
+"PO-Revision-Date: 2012-05-29 22:21+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-29 05:03+0000\n"
+"X-Launchpad-Export-Date: 2012-05-30 05:46+0000\n"
 "X-Generator: Launchpad (build 15316)\n"
 "X-Qt-Contexts: true\n"
 
@@ -1360,27 +1360,27 @@ msgstr "Введено невірний пароль"
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:141
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "Provided key is invalid"
-msgstr ""
+msgstr "Запропонований ключ невірний"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:69
 msgctxt "Jabber::JPGPSupport|"
 msgid "Assign PGP key"
-msgstr ""
+msgstr "Призначити PGP ключ"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:71
 msgctxt "Jabber::JPGPSupport|"
 msgid "Remove PGP key"
-msgstr ""
+msgstr "Видалити  PGP ключ"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:96
 msgctxt "Jabber::JPGPSupport|"
 msgid "Disable PGP encryption"
-msgstr ""
+msgstr "Відключити  PGP шифрування"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:99
 msgctxt "Jabber::JPGPSupport|"
 msgid "Enable PGP encryption"
-msgstr ""
+msgstr "Ввімкнути  PGP шифрування"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:377
 #, qt-format
@@ -1389,78 +1389,80 @@ msgid ""
 "There was an error trying to sign your status.\n"
 "Reason: %1"
 msgstr ""
+"При спробі змінити статус сталася помилка.\n"
+"Причиною стало: %1"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:439
 msgctxt "Jabber::JPGPSupport|"
 msgid "[ERROR: This message is encrypted, and you are unable to decrypt it.]"
-msgstr ""
+msgstr "[Помилка. Це повідомлення зашифроване, і ви не в змозі розшифрувати.]"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:558
 #, qt-format
 msgctxt "Jabber::JPGPSupport|"
 msgid "%1 : OpenPGP Passphrase"
-msgstr ""
+msgstr "%1 : пароль OpenPGP"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:559
 msgctxt "Jabber::JPGPSupport|"
 msgid "Your passphrase is needed to use OpenPGP security."
-msgstr ""
+msgstr "Ваш пароль необхідний для використання OpenPGP"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:691
 msgctxt "Jabber::JPGPSupport|"
 msgid "Invalid passphrase"
-msgstr ""
+msgstr "Невірний пароль"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:694
 msgctxt "Jabber::JPGPSupport|"
 msgid "Invalid input format"
-msgstr ""
+msgstr "Невірний формат введення"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:697
 msgctxt "Jabber::JPGPSupport|"
 msgid "Signing key expired"
-msgstr ""
+msgstr "Ключ підпису минув"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:700
 msgctxt "Jabber::JPGPSupport|"
 msgid "Invalid key"
-msgstr ""
+msgstr "Невірний ключ"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:703
 msgctxt "Jabber::JPGPSupport|"
 msgid "Encrypting key expired"
-msgstr ""
+msgstr "Ключ шифрування минув"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:706
 msgctxt "Jabber::JPGPSupport|"
 msgid "Encrypting key is untrusted"
-msgstr ""
+msgstr "Шифрування ключа ненадійне"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:709
 msgctxt "Jabber::JPGPSupport|"
 msgid "Encrypting key is invalid"
-msgstr ""
+msgstr "Ключ шифрування невірний"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:712
 msgctxt "Jabber::JPGPSupport|"
 msgid "PGP card is missing"
-msgstr ""
+msgstr "PGP карта відсутня"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:715
 msgctxt "Jabber::JPGPSupport|"
 msgid "Unknown error"
-msgstr ""
+msgstr "Невідома помилка"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:262
 msgctxt "Jabber::JProtocol|"
 msgid "Kick"
-msgstr "Штовхнути"
+msgstr "Викинути"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:262
 #, qt-format
 msgctxt "Jabber::JProtocol|"
 msgid "Enter kick reason for %1"
-msgstr "Ввести причину штовхання для %1"
+msgstr "Вкажіть причину викидання для %1"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:271
 msgctxt "Jabber::JProtocol|"
@@ -1471,7 +1473,7 @@ msgstr "Заблокувати"
 #, qt-format
 msgctxt "Jabber::JProtocol|"
 msgid "Enter ban reason for %1"
-msgstr "ввести причину блокування для %1"
+msgstr "Введітьи причину блокування для %1"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:513
 msgctxt "Jabber::JProtocol|"
@@ -1481,39 +1483,39 @@ msgstr "Можливий клієнт"
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:514
 msgctxt "Jabber::JProtocol|"
 msgid "Show client icon"
-msgstr "Показати ікону клієнта"
+msgstr "Показувати іконку клієнта"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:171
 #, qt-format
 msgctxt "Jabber::JRoster|"
 msgid "Contact %1 has been added to roster"
-msgstr ""
+msgstr "Контакт %1 доданий до списку контактів"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:200
 #, qt-format
 msgctxt "Jabber::JRoster|"
 msgid "Contact %1 has been removed from roster"
-msgstr ""
+msgstr "Контакт %1 видалений з списку контактів"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:447
 msgctxt "Jabber::JRoster|"
 msgid "Received a request for removal from the subscribers"
-msgstr ""
+msgstr "Надійшов запит про вилучення вас з підписників"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:455
 msgctxt "Jabber::JRoster|"
 msgid "You have been removed from the list of subscribers"
-msgstr ""
+msgstr "Вас було вилучено з списку підписників"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:463
 msgctxt "Jabber::JRoster|"
 msgid "You have been added to the list of subscribers"
-msgstr ""
+msgstr "Вас було додано до списку підписників"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:94
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Search service"
-msgstr "Шукати сервіс"
+msgstr "Пошук сервісів"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:132
 msgctxt "Jabber::JServiceBrowser|"
@@ -1533,7 +1535,7 @@ msgstr "категорія: "
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:196
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Identities:"
-msgstr ""
+msgstr "Ідентифікатори:"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:346
 msgctxt "Jabber::JServiceBrowser|"
@@ -1558,27 +1560,27 @@ msgstr "Вимкнено"
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:74
 msgctxt "Jabber::XmlConsole|"
 msgid "By JID"
-msgstr ""
+msgstr "По JID"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:77
 msgctxt "Jabber::XmlConsole|"
 msgid "By namespace uri"
-msgstr ""
+msgstr "По простору імен uri"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:80
 msgctxt "Jabber::XmlConsole|"
 msgid "By all attributes"
-msgstr ""
+msgstr "За всіма атрибутами"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:85
 msgctxt "Jabber::XmlConsole|"
 msgid "Visible stanzas"
-msgstr ""
+msgstr "Видимі строфи"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:88
 msgctxt "Jabber::XmlConsole|"
 msgid "Information query"
-msgstr ""
+msgstr "Запит інформаціїї"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:92
 msgctxt "Jabber::XmlConsole|"
@@ -1593,7 +1595,7 @@ msgstr "Присутність"
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:100
 msgctxt "Jabber::XmlConsole|"
 msgid "Custom"
-msgstr ""
+msgstr "Власний"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:118
 msgctxt "Jabber::XmlConsole|"
@@ -1608,82 +1610,84 @@ msgstr "Зберегти XMPP лог до файлу"
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:404
 msgctxt "Jabber::XmlConsole|"
 msgid "OpenDocument Format (*.odf);;HTML file (*.html);;Plain text (*.txt)"
-msgstr ""
+msgstr "Формат OpenDocument (*.odf);;HTML файл (*.html);;Простий текст (*.txt)"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:133
 msgctxt "Jreen|"
 msgid "Username"
-msgstr ""
+msgstr "Ім'я користувача"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:135
 msgctxt "Jreen|"
 msgid "Familiar name"
-msgstr ""
+msgstr "Нік"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:137
 msgctxt "Jreen|"
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:139
 msgctxt "Jreen|"
 msgid "Full name"
-msgstr ""
+msgstr "Повне ім'я"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:141
 msgctxt "Jreen|"
 msgid "Given name"
-msgstr ""
+msgstr "Ім'я"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:143
 msgctxt "Jreen|"
 msgid "Family name"
-msgstr ""
+msgstr "Прізвище"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:145
 msgctxt "Jreen|"
 msgid "Email"
-msgstr ""
+msgstr "Ел. пошта"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:147
 msgctxt "Jreen|"
 msgid "Street"
-msgstr ""
+msgstr "Вулиця"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:149
 msgctxt "Jreen|"
 msgid "City"
-msgstr ""
+msgstr "Місто"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:151
 msgctxt "Jreen|"
 msgid "Region"
-msgstr ""
+msgstr "Область"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:153
 msgctxt "Jreen|"
 msgid "Postal code"
-msgstr ""
+msgstr "Поштовий індекс"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:155
 msgctxt "Jreen|"
 msgid "Phone number"
-msgstr ""
+msgstr "Номер телефону"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:157
 msgctxt "Jreen|"
 msgid "Web page url"
-msgstr ""
+msgstr "Домашня сторінка"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:159
 msgctxt "Jreen|"
 msgid "Birth date"
-msgstr ""
+msgstr "Дата народження"
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:77
 msgctxt "Jreen::Error|"
 msgid "The sender has sent XML that is malformed or that cannot be processed."
 msgstr ""
+"Відправник послав XML, який не може бути оброблений або оброблений "
+"неправильно."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:80
 msgctxt "Jreen::Error|"
@@ -1691,6 +1695,8 @@ msgid ""
 "Access cannot be granted because an existing resource or session exists with "
 "the same name or address."
 msgstr ""
+"Доступ не може бути надано, оскільки існуючий ресурс або сесія існує з тим "
+"же ім'ям або адресою."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:83
 msgctxt "Jreen::Error|"
@@ -1698,18 +1704,20 @@ msgid ""
 "The feature requested is not implemented by the recipient or server and "
 "therefore cannot be processed."
 msgstr ""
+"Функція не може бути виконана оскільки не підтримується одержувачем або "
+"сервером."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:86
 msgctxt "Jreen::Error|"
 msgid ""
 "The requesting entity does not possess the required permissions to perform "
 "the action."
-msgstr ""
+msgstr "Запитуюча особа не має необхідних дозволів для виконання дії."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:89
 msgctxt "Jreen::Error|"
 msgid "The recipient or server can no longer be contacted at this address."
-msgstr ""
+msgstr "Не можливо зв'язатися з одержувачем або сервером за цією адресою."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:92
 msgctxt "Jreen::Error|"
@@ -1717,11 +1725,13 @@ msgid ""
 "The server could not process the stanza because of a misconfiguration or an "
 "otherwise-undefined internal server error."
 msgstr ""
+"Сервер не може обробити строфу через неправильну конфігурацію чи іншу "
+"невизначену внутрішню помилку сервера."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:95
 msgctxt "Jreen::Error|"
 msgid "The addressed JID or item requested cannot be found."
-msgstr ""
+msgstr "Адресований JID або елемент запиту не може бути знайдено."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:98
 msgctxt "Jreen::Error|"
