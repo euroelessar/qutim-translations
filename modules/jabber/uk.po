@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-05-29 22:21+0000\n"
+"PO-Revision-Date: 2012-05-30 21:50+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-30 05:46+0000\n"
-"X-Generator: Launchpad (build 15316)\n"
+"X-Launchpad-Export-Date: 2012-05-31 05:29+0000\n"
+"X-Generator: Launchpad (build 15322)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
 
@@ -1743,6 +1743,8 @@ msgid ""
 "The sending entity has provided or communicated an XMPP address or aspect "
 "thereof that does not adhere to the syntax defined in Addressing Scheme."
 msgstr ""
+"Об'єкт відправи пред'явив чи передав XMPP адресу, яка не спів падає з "
+"синтаксисом, заявленому в схемі адресації."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:101
 msgctxt "Jreen::Error|"
@@ -1750,12 +1752,14 @@ msgid ""
 "The recipient or server understands the request but is refusing to process "
 "it because it does not meet criteria defined by the recipient or server."
 msgstr ""
+"Одержувач або сервер розуміє запит, але відмовляється обробляти, бо він не "
+"відповідає критеріям, визначеним одержувачем або сервером."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:104
 msgctxt "Jreen::Error|"
 msgid ""
 "The recipient or server does not allow any entity to perform the action."
-msgstr ""
+msgstr "Одержувач або сервер не дозволяють жодному об'єкту виконувати дії."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:107
 msgctxt "Jreen::Error|"
@@ -1763,11 +1767,13 @@ msgid ""
 "The sender must provide proper credentials before being allowed to perform "
 "the action, or has provided impreoper credentials."
 msgstr ""
+"Відправник повинен забезпечити належні права, перш ніж його буде допущено "
+"виконувати дію інакше права будуть недійсні."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:110
 msgctxt "Jreen::Error|"
 msgid "The item requested has not changed since it was last requested."
-msgstr ""
+msgstr "Запитуваний елемент не змінювався з моменту останнього доступу."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:113
 msgctxt "Jreen::Error|"
@@ -1775,11 +1781,13 @@ msgid ""
 "The requesting entity is not authorized to access the requested service "
 "because payment is required."
 msgstr ""
+"Запитуваний об'єкт не авторизований для доступу до цього сервісу, тому що "
+"там вимагається оплата."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:116
 msgctxt "Jreen::Error|"
 msgid "The intended recipient is temporarily unavailable."
-msgstr ""
+msgstr "Одержувач тимчасово недоступний."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:119
 msgctxt "Jreen::Error|"
@@ -1787,6 +1795,8 @@ msgid ""
 "The recipient or server is redirecting requests for this information to "
 "another entity, usually temporarily."
 msgstr ""
+"Одержувач або сервер, тимчасово, переадресовують запити на цю інформацію на "
+"інший об'єкт."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:122
 msgctxt "Jreen::Error|"
@@ -1794,6 +1804,8 @@ msgid ""
 "The requesting entity is not authorized to access the requested service "
 "because registration is required."
 msgstr ""
+"Запитуюча особа не має права доступу до запитаної послуги, тому що "
+"вимагається реєстрація."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:125
 msgctxt "Jreen::Error|"
@@ -1801,6 +1813,7 @@ msgid ""
 "A remote server or service specified as part or all of the JID of the "
 "intended recipient does not exist."
 msgstr ""
+"Віддалений сервер чи сервіс, зазначений як частина JID отримувача, не існує."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:128
 msgctxt "Jreen::Error|"
