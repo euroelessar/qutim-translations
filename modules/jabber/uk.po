@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-05-30 21:50+0000\n"
+"PO-Revision-Date: 2012-05-31 21:08+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-31 05:29+0000\n"
-"X-Generator: Launchpad (build 15322)\n"
+"X-Launchpad-Export-Date: 2012-06-01 05:49+0000\n"
+"X-Generator: Launchpad (build 15342)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
 
@@ -1821,6 +1821,8 @@ msgid ""
 "A remote server or service specified as part or all of the JID of the "
 "intended recipient could not be contacted within a reasonable amount of time."
 msgstr ""
+"Не вдалося отримати відповідь від сервера чи сервісу, вказаного в JID "
+"повністю чи частково, протягом розумного періоду часу."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:131
 msgctxt "Jreen::Error|"
@@ -1828,12 +1830,14 @@ msgid ""
 "The server or recipient lacks the system resources necessary to service the "
 "request."
 msgstr ""
+"Серверу або одержувачу не вистачає системних ресурсів, необхідних для "
+"обслуговування запиту."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:134
 msgctxt "Jreen::Error|"
 msgid ""
 "The server or recipient does not currently provide the requested service."
-msgstr ""
+msgstr "Сервер або одержувач, в даний час, не підтримує необхідну послугу."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:137
 msgctxt "Jreen::Error|"
@@ -1841,150 +1845,151 @@ msgid ""
 "The requesting entity is not authorized to access the requested service "
 "because a subscription is required."
 msgstr ""
+"Відсутній доступ до запитуваного об'єкту, тому що необхідна підписка."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:140
 msgctxt "Jreen::Error|"
 msgid "The unknown error condition."
-msgstr ""
+msgstr "Невідомий стан помилки."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:143
 msgctxt "Jreen::Error|"
 msgid ""
 "The recipient or server understood the request but was not expecting it at "
 "this time."
-msgstr ""
+msgstr "Отримувач чи сервер зрозуміли запит але не очікували його в цей час."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:146
 msgctxt "Jreen::Error|"
 msgid ""
 "The stanza 'from' address specified by a connected client is not valid for "
 "the stream."
-msgstr ""
+msgstr "Некоректне поле 'from' виставлене адресатом в строфі."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:149
 msgctxt "Jreen::Error|"
 msgid "No stanza error occured. You're just sleeping."
-msgstr ""
+msgstr "Помилог у строфі немає. Ти спиш."
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:50
 msgctxt "Menu|"
 msgid "Additional"
-msgstr ""
+msgstr "Додатково"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:38
 msgctxt "Mood|"
 msgid "Afraid"
-msgstr ""
+msgstr "Зляканий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:39
 msgctxt "Mood|"
 msgid "Amazed"
-msgstr ""
+msgstr "Вражений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:40
 msgctxt "Mood|"
 msgid "Amorous"
-msgstr ""
+msgstr "Закоханий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:41
 msgctxt "Mood|"
 msgid "Angry"
-msgstr ""
+msgstr "Злий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:42
 msgctxt "Mood|"
 msgid "Annoyed"
-msgstr ""
+msgstr "Роздратований"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:43
 msgctxt "Mood|"
 msgid "Anxious"
-msgstr ""
+msgstr "Стурбований"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:44
 msgctxt "Mood|"
 msgid "Aroused"
-msgstr ""
+msgstr "Збуджений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:45
 msgctxt "Mood|"
 msgid "Ashamed"
-msgstr ""
+msgstr "Засоромлений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:46
 msgctxt "Mood|"
 msgid "Bored"
-msgstr ""
+msgstr "Знудьгований"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:47
 msgctxt "Mood|"
 msgid "Brave"
-msgstr ""
+msgstr "Хоробрий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:48
 msgctxt "Mood|"
 msgid "Calm"
-msgstr ""
+msgstr "Спокійний"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:49
 msgctxt "Mood|"
 msgid "Cautious"
-msgstr ""
+msgstr "Обережний"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:50
 msgctxt "Mood|"
 msgid "Cold"
-msgstr ""
+msgstr "Замерзаючий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:51
 msgctxt "Mood|"
 msgid "Confident"
-msgstr ""
+msgstr "Впевнений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:52
 msgctxt "Mood|"
 msgid "Confused"
-msgstr ""
+msgstr "Збентежений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:53
 msgctxt "Mood|"
 msgid "Contemplative"
-msgstr ""
+msgstr "Задумливий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:54
 msgctxt "Mood|"
 msgid "Contented"
-msgstr ""
+msgstr "Задоволений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:55
 msgctxt "Mood|"
 msgid "Cranky"
-msgstr ""
+msgstr "Недужий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:56
 msgctxt "Mood|"
 msgid "Crazy"
-msgstr ""
+msgstr "Божевільний"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:57
 msgctxt "Mood|"
 msgid "Creative"
-msgstr ""
+msgstr "Творчий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:58
 msgctxt "Mood|"
 msgid "Curious"
-msgstr ""
+msgstr "Допитливий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:59
 msgctxt "Mood|"
 msgid "Dejected"
-msgstr ""
+msgstr "Засмучений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:60
 msgctxt "Mood|"
 msgid "Depressed"
-msgstr ""
+msgstr "Пригнічений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:61
 msgctxt "Mood|"
@@ -1994,340 +1999,340 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:62
 msgctxt "Mood|"
 msgid "Disgusted"
-msgstr ""
+msgstr "Бридливий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:63
 msgctxt "Mood|"
 msgid "Dismayed"
-msgstr ""
+msgstr "Збентежений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:64
 msgctxt "Mood|"
 msgid "Distracted"
-msgstr ""
+msgstr "Спантеличений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:65
 msgctxt "Mood|"
 msgid "Embarrassed"
-msgstr ""
+msgstr "Стурбований"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:66
 msgctxt "Mood|"
 msgid "Envious"
-msgstr ""
+msgstr "Заздрісний"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:67
 msgctxt "Mood|"
 msgid "Excited"
-msgstr ""
+msgstr "Схвильований"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:68
 msgctxt "Mood|"
 msgid "Flirtatious"
-msgstr ""
+msgstr "Кокетливий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:69
 msgctxt "Mood|"
 msgid "Frustrated"
-msgstr ""
+msgstr "Зневірений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:70
 msgctxt "Mood|"
 msgid "Grateful"
-msgstr ""
+msgstr "Вдячний"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:71
 msgctxt "Mood|"
 msgid "Grieving"
-msgstr ""
+msgstr "Засмучений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:72
 msgctxt "Mood|"
 msgid "Grumpy"
-msgstr ""
+msgstr "Сердитий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:73
 msgctxt "Mood|"
 msgid "Guilty"
-msgstr ""
+msgstr "Винуватий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:74
 msgctxt "Mood|"
 msgid "Happy"
-msgstr ""
+msgstr "Щасливий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:75
 msgctxt "Mood|"
 msgid "Hopeful"
-msgstr ""
+msgstr "Сповнений надій"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:76
 msgctxt "Mood|"
 msgid "Hot"
-msgstr ""
+msgstr "Гарячий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:77
 msgctxt "Mood|"
 msgid "Humbled"
-msgstr ""
+msgstr "Скромний"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:78
 msgctxt "Mood|"
 msgid "Humiliated"
-msgstr ""
+msgstr "Ображений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:79
 msgctxt "Mood|"
 msgid "Hungry"
-msgstr ""
+msgstr "Голодний"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:80
 msgctxt "Mood|"
 msgid "Hurt"
-msgstr ""
+msgstr "Поранений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:81
 msgctxt "Mood|"
 msgid "Impressed"
-msgstr ""
+msgstr "Вражений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:82
 msgctxt "Mood|"
 msgid "In awe"
-msgstr ""
+msgstr "Наляканий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:83
 msgctxt "Mood|"
 msgid "In love"
-msgstr ""
+msgstr "Закоханий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:84
 msgctxt "Mood|"
 msgid "Indignant"
-msgstr ""
+msgstr "Обурений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:85
 msgctxt "Mood|"
 msgid "Interested"
-msgstr ""
+msgstr "Зацікавлений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:86
 msgctxt "Mood|"
 msgid "Intoxicated"
-msgstr ""
+msgstr "П'яний"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:87
 msgctxt "Mood|"
 msgid "Invincible"
-msgstr ""
+msgstr "Невидимий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:88
 msgctxt "Mood|"
 msgid "Jealous"
-msgstr ""
+msgstr "Заздрісний"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:89
 msgctxt "Mood|"
 msgid "Lonely"
-msgstr ""
+msgstr "Одинокий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:90
 msgctxt "Mood|"
 msgid "Lost"
-msgstr ""
+msgstr "Загублений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:91
 msgctxt "Mood|"
 msgid "Lucky"
-msgstr ""
+msgstr "Щасливий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:92
 msgctxt "Mood|"
 msgid "Mean"
-msgstr ""
+msgstr "Підлий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:93
 msgctxt "Mood|"
 msgid "Moody"
-msgstr ""
+msgstr "Похмурий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:94
 msgctxt "Mood|"
 msgid "Nervous"
-msgstr ""
+msgstr "Знервований"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:95
 msgctxt "Mood|"
 msgid "Neutral"
-msgstr ""
+msgstr "Байдужий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:96
 msgctxt "Mood|"
 msgid "Offended"
-msgstr ""
+msgstr "Ображений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:97
 msgctxt "Mood|"
 msgid "Outraged"
-msgstr ""
+msgstr "Обурений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:98
 msgctxt "Mood|"
 msgid "Playful"
-msgstr ""
+msgstr "Грайливий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:99
 msgctxt "Mood|"
 msgid "Proud"
-msgstr ""
+msgstr "Гордий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:100
 msgctxt "Mood|"
 msgid "Relaxed"
-msgstr ""
+msgstr "Розслаблений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:101
 msgctxt "Mood|"
 msgid "Relieved"
-msgstr ""
+msgstr "Заспокоєний"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:102
 msgctxt "Mood|"
 msgid "Remorseful"
-msgstr ""
+msgstr "Жалісливий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:103
 msgctxt "Mood|"
 msgid "Restless"
-msgstr ""
+msgstr "Невгамовний"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:104
 msgctxt "Mood|"
 msgid "Sad"
-msgstr ""
+msgstr "Сумний"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:105
 msgctxt "Mood|"
 msgid "Sarcastic"
-msgstr ""
+msgstr "Саркастичний"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:106
 msgctxt "Mood|"
 msgid "Satisfied"
-msgstr ""
+msgstr "Задоволений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:107
 msgctxt "Mood|"
 msgid "Serious"
-msgstr ""
+msgstr "Серйозний"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:108
 msgctxt "Mood|"
 msgid "Shocked"
-msgstr ""
+msgstr "Вражений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:109
 msgctxt "Mood|"
 msgid "Shy"
-msgstr ""
+msgstr "Сором’язливий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:110
 msgctxt "Mood|"
 msgid "Sick"
-msgstr ""
+msgstr "Хворий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:111
 msgctxt "Mood|"
 msgid "Sleepy"
-msgstr ""
+msgstr "Сонний"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:112
 msgctxt "Mood|"
 msgid "Spontaneous"
-msgstr ""
+msgstr "Спонтанний"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:113
 msgctxt "Mood|"
 msgid "Stressed"
-msgstr ""
+msgstr "Напружений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:114
 msgctxt "Mood|"
 msgid "Strong"
-msgstr ""
+msgstr "Сильний"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:115
 msgctxt "Mood|"
 msgid "Surprised"
-msgstr ""
+msgstr "Здивований"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:116
 msgctxt "Mood|"
 msgid "Thankful"
-msgstr ""
+msgstr "Вдячний"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:117
 msgctxt "Mood|"
 msgid "Thirsty"
-msgstr ""
+msgstr "Спраглий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:118
 msgctxt "Mood|"
 msgid "Tired"
-msgstr ""
+msgstr "Втомлений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:119
 msgctxt "Mood|"
 msgid "Undefined"
-msgstr ""
+msgstr "Невизначений"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:120
 msgctxt "Mood|"
 msgid "Weak"
-msgstr ""
+msgstr "Слабкий"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:121
 msgctxt "Mood|"
 msgid "Worried"
-msgstr ""
+msgstr "Занепокоєний"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:187
 msgctxt "Mood|"
 msgid "Mood"
-msgstr ""
+msgstr "Настрій"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:189
 msgctxt "Mood|"
 msgid "Show contact mood icon"
-msgstr ""
+msgstr "Показувати іконку настрою контакту"
 
 #: ../../../protocols/jabber/__data_from_cmakelists_txt.cpp:1
 #: ../../../protocols/jabber/src/jplugin.cpp:55
 #: ../../../protocols/jabber/src/jplugin.cpp:65
 msgctxt "Plugin|"
 msgid "Jabber protocol"
-msgstr ""
+msgstr "Протокол Jabber"
 
 #: ../../../protocols/jabber/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
 msgid "Implementation of jabber protocol based on jreen library"
-msgstr ""
+msgstr "Реалізація протоколу  jabber, що базується на jreen бібліотеці"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:54
 #: ../../../protocols/jabber/src/jplugin.cpp:64
 msgctxt "Plugin|"
 msgid "Jabber"
-msgstr ""
+msgstr "Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:68
 msgctxt "Plugin|"
 msgid "Jabber account creator"
-msgstr ""
+msgstr "Створювач акаунта Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:69
 msgctxt "Plugin|"
 msgid "Account creator for Jabber protocol"
-msgstr ""
+msgstr "Створення облікового запису Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:72
 msgctxt "Plugin|"
