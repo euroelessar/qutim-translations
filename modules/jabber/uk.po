@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-05-31 21:08+0000\n"
+"PO-Revision-Date: 2012-06-01 22:19+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-01 05:49+0000\n"
+"X-Launchpad-Export-Date: 2012-06-02 06:15+0000\n"
 "X-Generator: Launchpad (build 15342)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
@@ -2337,52 +2337,52 @@ msgstr "Створення облікового запису Jabber"
 #: ../../../protocols/jabber/src/jplugin.cpp:72
 msgctxt "Plugin|"
 msgid "LiveJournal account creator"
-msgstr ""
+msgstr "Створювач облікового запису LiveJournal"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:73
 msgctxt "Plugin|"
 msgid "Account creator for LiveJournal"
-msgstr ""
+msgstr "Створення облікового запису LiveJournal"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:76
 msgctxt "Plugin|"
 msgid "Google Talk account creator"
-msgstr ""
+msgstr "Створювач облікового запису Google Talk"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:77
 msgctxt "Plugin|"
 msgid "Account creator for Google Talk"
-msgstr ""
+msgstr "Створення облікового запису Google Talk"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:80
 msgctxt "Plugin|"
 msgid "Yandex.Online account creator"
-msgstr ""
+msgstr "Створювач облікового запису Yandex.Online"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:81
 msgctxt "Plugin|"
 msgid "Account creator for Yandex.Online"
-msgstr ""
+msgstr "Створення облікового запису Yandex.Online"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:84
 msgctxt "Plugin|"
 msgid "QIP account creator"
-msgstr ""
+msgstr "Створювач облікового запису QIP"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:85
 msgctxt "Plugin|"
 msgid "Account creator for QIP"
-msgstr ""
+msgstr "Створення облікового запису QIP"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:89
 msgctxt "Plugin|"
 msgid "Jabber XML console"
-msgstr ""
+msgstr "Консоль XML (Jabber)"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:90
 msgctxt "Plugin|"
 msgid "XML console for low-level protocol debugging"
-msgstr ""
+msgstr "XML консоль для поглибленого налагодження"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:102
 msgctxt "Plugin|"
