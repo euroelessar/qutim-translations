@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-06-01 22:19+0000\n"
+"PO-Revision-Date: 2012-06-02 20:35+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-02 06:15+0000\n"
+"X-Launchpad-Export-Date: 2012-06-03 05:16+0000\n"
 "X-Generator: Launchpad (build 15342)\n"
 "X-Qt-Contexts: true\n"
 
@@ -2382,88 +2382,88 @@ msgstr "XML консоль для поглибленого налагоджен�
 #: ../../../protocols/jabber/src/jplugin.cpp:102
 msgctxt "Plugin|"
 msgid "Jabber Service Browser"
-msgstr ""
+msgstr "Огляд служб Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:103
 msgctxt "Plugin|"
 msgid "Implementation of service browser"
-msgstr ""
+msgstr "Реалызація браузера служб"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:110
 msgctxt "Plugin|"
 msgid "Jabber Personal Events support"
-msgstr ""
+msgstr "Підтримка персональних сповіщень в Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:111
 msgctxt "Plugin|"
 msgid "Implementation of personal events protocol"
-msgstr ""
+msgstr "Реалізація протоколу персональних сповіщень"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:114
 msgctxt "Plugin|"
 msgid "Jabber VCard support"
-msgstr ""
+msgstr "Підтримка Jabber VCard"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:115
 msgctxt "Plugin|"
 msgid "Implementation of VCard info requests"
-msgstr ""
+msgstr "Реалізація запиту інформації VCard"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:118
 msgctxt "Plugin|"
 msgid "Jabber User Mood support"
-msgstr ""
+msgstr "Підтримка настроїв в Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:119
 msgctxt "Plugin|"
 msgid "Convertes internal XMPP data of mood to Qt data types"
-msgstr ""
+msgstr "Конвертує вбудовану інформацію про настрії типу XMPP в тип Qt"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:122
 msgctxt "Plugin|"
 msgid "Jabber Mood Chooser"
-msgstr ""
+msgstr "Вибір настрою в Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:123
 msgctxt "Plugin|"
 msgid "Provides the dialog to set your mood"
-msgstr ""
+msgstr "Показує діалог для встановлення вашого настрою"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:126
 msgctxt "Plugin|"
 msgid "Jabber User Tune support"
-msgstr ""
+msgstr "Підтримка служби \"Зараз грає\" в Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:127
 msgctxt "Plugin|"
 msgid "Convertes internal XMPP data of tune to Qt data types"
-msgstr ""
+msgstr "Конвертує дані XMPP про поточну пісню в тип даних Qt"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:130
 msgctxt "Plugin|"
 msgid "Jabber User Activity support"
-msgstr ""
+msgstr "Підтримка сповіщень про активність в Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:131
 msgctxt "Plugin|"
 msgid "Convertes internal XMPP data of activity to Qt data types"
-msgstr ""
+msgstr "Конвертує дані XMPP про активність в тип даних Qt"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:134
 msgctxt "Plugin|"
 msgid "Jabber Activity Chooser"
-msgstr ""
+msgstr "Вибір активності в Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:135
 msgctxt "Plugin|"
 msgid "Provides the dialog to set your activity"
-msgstr ""
+msgstr "Виводить діалог вибору поточного стану активності"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:138
 #: ../../../protocols/jabber/src/jplugin.cpp:139
 msgctxt "Plugin|"
 msgid "Jabber proxy support"
-msgstr ""
+msgstr "Підтримка проксі в Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:142
 msgctxt "Plugin|"
@@ -2478,7 +2478,7 @@ msgstr ""
 #: ../../../protocols/jabber/src/jplugin.cpp:148
 msgctxt "Plugin|"
 msgid "Jabber VoIP support"
-msgstr ""
+msgstr "Підтримка VoIP в Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:149
 msgctxt "Plugin|"
