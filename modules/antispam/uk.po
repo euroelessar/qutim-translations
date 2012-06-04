@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-23 17:51+0000\n"
-"PO-Revision-Date: 2012-04-25 19:14+0000\n"
-"Last-Translator: fishi <fishi@i.ua>\n"
+"PO-Revision-Date: 2012-06-03 20:40+0000\n"
+"Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-26 05:17+0000\n"
-"X-Generator: Launchpad (build 15149)\n"
+"X-Launchpad-Export-Date: 2012-06-04 05:05+0000\n"
+"X-Generator: Launchpad (build 15353)\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../../plugins/antispam/src/antispamplugin.cpp:44
@@ -29,19 +29,17 @@ msgctxt "Antispam::Handler|"
 msgid ""
 "Beer, wine, vodka, champagne: after which drink in this sequence I should "
 "stop?"
-msgstr ""
-"Пиво, вино, горілка, шампанське: після якого напою з перелічених найгірші "
-"наслідки?"
+msgstr "Чай, Кава, Какао - що містить найбільшу кількість кофеїну?"
 
 #: ../../../plugins/antispam/src/handler.cpp:72
 msgctxt "Antispam::Handler|"
 msgid "We are ready to drink with you!"
-msgstr "Ми готові випити з Вами!"
+msgstr "Пийте на здоров’я!"
 
 #: ../../../plugins/antispam/src/handler.cpp:73
 msgctxt "Antispam::Handler|"
 msgid "vodka;Vodka"
-msgstr "горілка;Горілка"
+msgstr "чай;Чай"
 
 #: ../../../plugins/antispam/src/handler.cpp:128
 #, qt-format
@@ -84,19 +82,17 @@ msgctxt "Antispam::SettingsWidget|"
 msgid ""
 "Beer, wine, vodka, champagne: after which drink in this sequence I should "
 "stop?"
-msgstr ""
-"Пиво, вино, горілка, шампанське: після якого напою з перелічених найгірші "
-"наслідки?"
+msgstr "Чай, Кава, Какао - що містить найбільшу кількість кофеїну?"
 
 #: ../../../plugins/antispam/src/settingswidget.cpp:54
 msgctxt "Antispam::SettingsWidget|"
 msgid "We are ready to drink with you!"
-msgstr "Ми готові випити з Вами!"
+msgstr "Пийте на здоров’я!"
 
 #: ../../../plugins/antispam/src/settingswidget.cpp:55
 msgctxt "Antispam::SettingsWidget|"
 msgid "vodka;Vodka"
-msgstr "горілка;Горілка"
+msgstr "чай;Чай"
 
 #: ../../../plugins/antispam/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/antispam/src/antispamplugin.cpp:52
