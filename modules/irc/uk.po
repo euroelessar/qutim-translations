@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-06 23:42+0000\n"
-"PO-Revision-Date: 2012-01-23 10:39+0000\n"
-"Last-Translator: Max_ym <kontact.cat@gmail.com>\n"
+"PO-Revision-Date: 2012-06-03 21:59+0000\n"
+"Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2012-04-08 05:18+0000\n"
-"X-Generator: Launchpad (build 15060)\n"
+"X-Launchpad-Export-Date: 2012-06-04 05:05+0000\n"
+"X-Generator: Launchpad (build 15353)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
 
@@ -44,7 +44,7 @@ msgstr "Додати сервер"
 #: ../../../protocols/irc/src/ui/addaccountform.ui:73
 msgctxt "AddAccountForm|"
 msgid "Update server"
-msgstr ""
+msgstr "Оновити сервер"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:100
 msgctxt "AddAccountForm|"
@@ -79,12 +79,12 @@ msgstr "Олексій Прохін"
 #: ../../../protocols/irc/src/ui/editnickform.ui:14
 msgctxt "EditNickForm|"
 msgid "Form"
-msgstr "Форма"
+msgstr "Стиль"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:44
 msgctxt "EditNickForm|"
 msgid "Nick:"
-msgstr "Псевдонім:"
+msgstr "Нік"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:67
 msgctxt "EditNickForm|"
@@ -99,7 +99,7 @@ msgstr "Повне ім'я:"
 #: ../../../protocols/irc/src/ui/editnickform.ui:87
 msgctxt "EditNickForm|"
 msgid "Alternative nick:"
-msgstr "Альтернативний нікнейм:"
+msgstr "Альтернативний нік:"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:133
 msgctxt "EditNickForm|"
@@ -109,7 +109,7 @@ msgstr "Система"
 #: ../../../protocols/irc/src/ui/editnickform.ui:138
 msgctxt "EditNickForm|"
 msgid "Apple Roman"
-msgstr ""
+msgstr "Apple Roman"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:143
 msgctxt "EditNickForm|"
@@ -229,47 +229,47 @@ msgstr "ISO 8859-16"
 #: ../../../protocols/irc/src/ui/editnickform.ui:258
 msgctxt "EditNickForm|"
 msgid "Iscii-Bng"
-msgstr ""
+msgstr "Iscii-Bng"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:263
 msgctxt "EditNickForm|"
 msgid "Iscii-Dev"
-msgstr ""
+msgstr "Iscii-Dev"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:268
 msgctxt "EditNickForm|"
 msgid "Iscii-Gjr"
-msgstr ""
+msgstr "Iscii-Gjr"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:273
 msgctxt "EditNickForm|"
 msgid "Iscii-Knd"
-msgstr ""
+msgstr "Iscii-Knd"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:278
 msgctxt "EditNickForm|"
 msgid "Iscii-Mlm"
-msgstr ""
+msgstr "Iscii-Mlm"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:283
 msgctxt "EditNickForm|"
 msgid "Iscii-Ori"
-msgstr ""
+msgstr "Iscii-Ori"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:288
 msgctxt "EditNickForm|"
 msgid "Iscii-Pnj"
-msgstr ""
+msgstr "Iscii-Pnj"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:293
 msgctxt "EditNickForm|"
 msgid "Iscii-Tlg"
-msgstr ""
+msgstr "Iscii-Tlg"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:298
 msgctxt "EditNickForm|"
 msgid "Iscii-Tml"
-msgstr ""
+msgstr "Iscii-Tml"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:303
 msgctxt "EditNickForm|"
@@ -344,457 +344,457 @@ msgstr "Windows-1250"
 #: ../../../protocols/irc/src/ui/editnickform.ui:373
 msgctxt "EditNickForm|"
 msgid "Windows-1251"
-msgstr ""
+msgstr "Windows-1251"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:378
 msgctxt "EditNickForm|"
 msgid "Windows-1252"
-msgstr ""
+msgstr "Windows-1252"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:383
 msgctxt "EditNickForm|"
 msgid "Windows-1253"
-msgstr ""
+msgstr "Windows-1253"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:388
 msgctxt "EditNickForm|"
 msgid "Windows-1254"
-msgstr ""
+msgstr "Windows-1254"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:393
 msgctxt "EditNickForm|"
 msgid "Windows-1255"
-msgstr ""
+msgstr "Windows-1255"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:398
 msgctxt "EditNickForm|"
 msgid "Windows-1256"
-msgstr ""
+msgstr "Windows-1256"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:403
 msgctxt "EditNickForm|"
 msgid "Windows-1257"
-msgstr ""
+msgstr "Windows-1257"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:408
 msgctxt "EditNickForm|"
 msgid "Windows-1258"
-msgstr ""
+msgstr "Windows-1258"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:413
 msgctxt "EditNickForm|"
 msgid "WINSAMI2"
-msgstr ""
+msgstr "WINSAMI2"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:430
 msgctxt "EditNickForm|"
 msgid "Password:"
-msgstr ""
+msgstr "Пароль:"
 
 #: ../../../protocols/irc/src/ircgroupchatmanager.cpp:67
 msgctxt "IRC|"
 msgid "Name"
-msgstr ""
+msgstr "Ім'я"
 
 #: ../../../protocols/irc/src/ircgroupchatmanager.cpp:73
 msgctxt "IRC|"
 msgid "Channel"
-msgstr ""
+msgstr "Канал"
 
 #: ../../../protocols/irc/src/ircgroupchatmanager.cpp:80
 msgctxt "IRC|"
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
 #: ../../../protocols/irc/src/ircgroupchatmanager.cpp:86
 msgctxt "IRC|"
 msgid "Auto-join"
-msgstr ""
+msgstr "Входити автоматично"
 
 #: ../../../protocols/irc/src/ircprotocol.cpp:97
 msgctxt "IRC|"
 msgid "Show console..."
-msgstr ""
+msgstr "Показати консоль..."
 
 #: ../../../protocols/irc/src/ircprotocol.cpp:103
 msgctxt "IRC|"
 msgid "Search channel..."
-msgstr ""
+msgstr "Шукати канал..."
 
 #: ../../../protocols/irc/src/ircchannel.cpp:376
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 gives channel operator privileges to %2."
-msgstr ""
+msgstr "%1 надає %2 права доступу оператора канала."
 
 #: ../../../protocols/irc/src/ircchannel.cpp:378
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 gives channel halfop privileges to %2."
-msgstr ""
+msgstr "%1 надає %2 права доступу напівоператора канала."
 
 #: ../../../protocols/irc/src/ircchannel.cpp:380
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 gives %2 the permission to talk."
-msgstr ""
+msgstr "%1 надає %2 можливість говорити."
 
 #: ../../../protocols/irc/src/ircchannel.cpp:400
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 takes channel operator privileges from %2."
-msgstr ""
+msgstr "%1 забирає %2 права доступу оператора канала."
 
 #: ../../../protocols/irc/src/ircchannel.cpp:402
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 takes channel halfop privileges from %2."
-msgstr ""
+msgstr "%1 забирає %2 права доступу напівоператора канала."
 
 #: ../../../protocols/irc/src/ircchannel.cpp:404
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 takes the permission to talk from %2."
-msgstr ""
+msgstr "%1 забирає %2 можливість говорити."
 
 #: ../../../protocols/irc/src/ui/ircchannellist.ui:14
 msgctxt "IrcChannelListForm|"
 msgid "Form"
-msgstr ""
+msgstr "Стиль"
 
 #: ../../../protocols/irc/src/ui/console.ui:14
 msgctxt "IrcConsoleForm|"
 msgid "IRC Server Console"
-msgstr ""
+msgstr "Консоль IRC сервера"
 
 #: ../../../protocols/irc/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
 msgid "IRC protocol"
-msgstr ""
+msgstr "Протокол IRC"
 
 #: ../../../protocols/irc/__data_from_cmakelists_txt.cpp:2
 #: ../../../protocols/irc/src/ircplugin.cpp:42
 #: ../../../protocols/irc/src/ircplugin.cpp:48
 msgctxt "Plugin|"
 msgid "Implementation of IRC protocol"
-msgstr ""
+msgstr "Реалізація IRC протоколу"
 
 #: ../../../protocols/irc/src/ircplugin.cpp:41
 #: ../../../protocols/irc/src/ircplugin.cpp:47
 msgctxt "Plugin|"
 msgid "IRC"
-msgstr ""
+msgstr "IRC"
 
 #: ../../../protocols/irc/src/ircplugin.cpp:51
 msgctxt "Plugin|"
 msgid "IRC account creator"
-msgstr ""
+msgstr "Створення облікового запису IRC"
 
 #: ../../../protocols/irc/src/ircplugin.cpp:52
 msgctxt "Plugin|"
 msgid "Account creator for IRC protocol"
-msgstr ""
+msgstr "Створення облікового запису IRC"
 
 #: ../../../protocols/irc/src/ircplugin.cpp:55
 msgctxt "Plugin|"
 msgid "Proxy support"
-msgstr ""
+msgstr "Підтримка проксі"
 
 #: ../../../protocols/irc/src/ircplugin.cpp:56
 msgctxt "Plugin|"
 msgid "Proxy support for IRC protocol"
-msgstr ""
+msgstr "Підтримка проксі для IRC"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:121
 #, qt-format
 msgctxt "QObject|"
 msgid "Not enough parameters for command %1"
-msgstr ""
+msgstr "Не вистачає параметрів для команди %1"
 
 #: ../../../protocols/irc/src/ircprotocol.cpp:72
 msgctxt "Settings|"
 msgid "User information"
-msgstr ""
+msgstr "Інформація про користувача"
 
 #: ../../../protocols/irc/src/ircprotocol.cpp:77
 msgctxt "Settings|"
 msgid "Servers"
-msgstr ""
+msgstr "Сервери"
 
 #: ../../../protocols/irc/src/ircplugin.cpp:45
 msgctxt "Task|"
 msgid "Author"
-msgstr ""
+msgstr "Автор"
 
 #: ../../../protocols/irc/src/ui/ircchannellist.cpp:91
 msgctxt "qutim_sdk_0_3::irc::ChannelsModel|"
 msgid "Channel"
-msgstr ""
+msgstr "Канал"
 
 #: ../../../protocols/irc/src/ui/ircchannellist.cpp:93
 msgctxt "qutim_sdk_0_3::irc::ChannelsModel|"
 msgid "Users"
-msgstr ""
+msgstr "Користувачі"
 
 #: ../../../protocols/irc/src/ui/ircchannellist.cpp:95
 msgctxt "qutim_sdk_0_3::irc::ChannelsModel|"
 msgid "Topic"
-msgstr ""
+msgstr "Тема"
 
 #: ../../../protocols/irc/src/ircaccount.cpp:87
 msgctxt "qutim_sdk_0_3::irc::IrcAccount|"
 msgid "Away"
-msgstr ""
+msgstr "Відійшов"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:199
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "You are now known as %1"
-msgstr ""
+msgstr "Тепер ви відомі як %1"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:210
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 are now known as %2"
-msgstr ""
+msgstr "%1 тепер відомий як %2"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:271
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 (%2) has joined the channel"
-msgstr ""
+msgstr "%1 (%2) приєднався на канал"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:282
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "You left this channel (%1)"
-msgstr ""
+msgstr "Ви покинули канал (%1)"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:284
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "You left this channel"
-msgstr ""
+msgstr "Ви покинули канал"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:291
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has left this channel (%2)"
-msgstr ""
+msgstr "%1 покинув канал (%2)"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:293
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has left this channel"
-msgstr ""
+msgstr "%1 покинув канал"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:305
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has kicked you from the channel (%2)"
-msgstr ""
+msgstr "%1 викинув вас з каналу (%2)"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:310
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has kicked you from the channel"
-msgstr ""
+msgstr "%1 викинув вас з каналу"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:318
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has kicked %2 (%3)"
-msgstr ""
+msgstr "%1 було викинуто %2 (%3)"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:323
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has kicked %2"
-msgstr ""
+msgstr "%1 було викинуто %2"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:340
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "The channel topic is \"%1\""
-msgstr ""
+msgstr "Тема каналу \"%1\""
 
 #: ../../../protocols/irc/src/ircchannel.cpp:349
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "The topic was set by %1 on %2."
-msgstr ""
+msgstr "%1 встановлено тему %2."
 
 #: ../../../protocols/irc/src/ui/ircchannellist.cpp:188
 msgctxt "qutim_sdk_0_3::irc::IrcChannelListForm|"
 msgid "Fetching channels list..."
-msgstr ""
+msgstr "Отримання списку каналів..."
 
 #: ../../../protocols/irc/src/ui/ircchannellist.cpp:195
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannelListForm|"
 msgid "Channels list loaded. (%1)"
-msgstr ""
+msgstr "Отримано список каналів. (%1)"
 
 #: ../../../protocols/irc/src/ui/ircchannellist.cpp:200
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannelListForm|"
 msgid "Fetching channels list... (%1)"
-msgstr ""
+msgstr "Отримання списку каналів... (%1)"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:210
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Kick / Ban"
-msgstr ""
+msgstr "Викинути/Забанити"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:213
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Kick"
-msgstr ""
+msgstr "Викинути"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:218
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Kickban"
-msgstr ""
+msgstr "Викинути і забанити"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:221
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Ban"
-msgstr ""
+msgstr "Забанити"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:225
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Ban *!*@*.host"
-msgstr ""
+msgstr "Забанити *!*@*.хост"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:226
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Ban *!*@domain"
-msgstr ""
+msgstr "Забанити *!*@домен"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:227
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Ban *!user@*.host"
-msgstr ""
+msgstr "Забанити *!користучав@*.хост"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:228
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Ban *!user@domain"
-msgstr ""
+msgstr "Забанити *!користувач@домен"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:231
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Kickban *!*@*.host"
-msgstr ""
+msgstr "Викинути і забанити *!*@*.хост"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:232
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Kickban *!*@domain"
-msgstr ""
+msgstr "Викинути і забанити *!*@домен"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:233
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Kickban *!user@*.host"
-msgstr ""
+msgstr "Викинути і забанити *!користувач@*.хост"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:234
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Kickban *!user@domain"
-msgstr ""
+msgstr "Викинути і забанити *!користувач@домен"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:238
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Ping"
-msgstr ""
+msgstr "Пінг"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:239
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Request client information"
-msgstr ""
+msgstr "Запит інформації клієнта"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:240
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Request version"
-msgstr ""
+msgstr "Запитати версію"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:241
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Request time"
-msgstr ""
+msgstr "Запитати час"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:242
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Avatar"
-msgstr ""
+msgstr "Аватар"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:245
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Modes"
-msgstr ""
+msgstr "Режими"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:246
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Give Op"
-msgstr ""
+msgstr "Надати права Оператора"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:247
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Take Op"
-msgstr ""
+msgstr "Забрати права Оператора"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:248
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Give HalfOp"
-msgstr ""
+msgstr "Надати права НапівОператора"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:249
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Take HalfOp"
-msgstr ""
+msgstr "Забрати права НапівОператора"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:250
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Give voice"
-msgstr ""
+msgstr "Дати голос"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:251
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Take voice"
-msgstr ""
+msgstr "Забрати голос"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:255
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Send WHOIS request"
-msgstr ""
+msgstr "Відправити запит  WHOIS"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:159
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Server %1 (Version %2), User modes: %3, Channel modes: %4"
-msgstr ""
+msgstr "Сервер %1 (Версія %2), Режими користувачів: %3, Режими каналу: %4"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:278
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Message of the day:"
-msgstr ""
+msgstr "Повідомлення дня:"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:280
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "End of message of the day"
-msgstr ""
+msgstr "Кінець повідомлення дня"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:288
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Start of /LIST"
-msgstr ""
+msgstr "Початок /LIST"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:306
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "End of /LIST"
-msgstr ""
+msgstr "Кінець /LIST"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:308
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Bad list syntax, type /QUOTE HELP LIST"
-msgstr ""
+msgstr "Невірний синтаксис, для отримання допомоги введіть /QUOTE HELP LIST"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:313
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
@@ -802,6 +802,8 @@ msgid ""
 "Server load is temporarily too heavy.\n"
 "Please wait a while and try again."
 msgstr ""
+"На даний момент сервер перевантажений.\n"
+"Зачекайте будь-ласка і через деякий час спробуйте знову."
 
 #: ../../../protocols/irc/src/ircconnection.cpp:324
 #, qt-format
@@ -845,13 +847,13 @@ msgstr ""
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Network error: %1"
-msgstr ""
+msgstr "Помилка мережі: %1"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:646
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "SSL error: %1"
-msgstr ""
+msgstr "Помилка SSL: %1"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:652
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"

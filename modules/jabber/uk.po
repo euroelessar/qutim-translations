@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-06-02 20:35+0000\n"
+"PO-Revision-Date: 2012-06-03 19:38+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-03 05:16+0000\n"
-"X-Generator: Launchpad (build 15342)\n"
+"X-Launchpad-Export-Date: 2012-06-04 05:05+0000\n"
+"X-Generator: Launchpad (build 15353)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
 
@@ -854,7 +854,7 @@ msgstr "Не турьувати:"
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:179
 msgctxt "JMainSettings|"
 msgid "OpenPGP"
-msgstr ""
+msgstr "OpenPGP"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:198
 msgctxt "JMainSettings|"
@@ -1994,7 +1994,7 @@ msgstr "Пригнічений"
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:61
 msgctxt "Mood|"
 msgid "Disappointed"
-msgstr ""
+msgstr "Розчарований"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:62
 msgctxt "Mood|"
@@ -2488,156 +2488,156 @@ msgstr "Підтримка VoIP в Jabber"
 #: ../../../protocols/jabber/src/jplugin.cpp:149
 msgctxt "Plugin|"
 msgid "Allows to talk by voice and video"
-msgstr ""
+msgstr "Дозволяє спілкуватися за допомогою голосу і відео"
 
 #: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:80
 msgctxt "QObject|"
 msgid "Send Attention"
-msgstr ""
+msgstr "Звернути увагу"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:14
 msgctxt "RoomConfig|"
 msgid "Form"
-msgstr ""
+msgstr "Стиль"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:58
 msgctxt "RoomConfig|"
 msgid "Apply"
-msgstr ""
+msgstr "Застосувати"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:65
 msgctxt "RoomConfig|"
 msgid "Ok"
-msgstr ""
+msgstr "Гаразд"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:72
 msgctxt "RoomConfig|"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:14
 msgctxt "ServiceBrowser|"
 msgid "jServiceBrowser"
-msgstr ""
+msgstr "Огляд сервісів"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:31
 msgctxt "ServiceBrowser|"
 msgid "Server:"
-msgstr ""
+msgstr "Сервер:"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:77
 msgctxt "ServiceBrowser|"
 msgid "Filter:"
-msgstr ""
+msgstr "Фільтр:"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:150
 msgctxt "ServiceBrowser|"
 msgid "Name"
-msgstr ""
+msgstr "Ім'я"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:168
 msgctxt "ServiceBrowser|"
 msgid "Searching..."
-msgstr ""
+msgstr "Пошук..."
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:190
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:193
 msgctxt "ServiceBrowser|"
 msgid "Join conference"
-msgstr ""
+msgstr "Приєднатися до конференції"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:198
 msgctxt "ServiceBrowser|"
 msgid "Register"
-msgstr ""
+msgstr "Реєстрація"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:201
 msgctxt "ServiceBrowser|"
 msgid "Register on the service"
-msgstr ""
+msgstr "Зарейструватися на сервісі"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:206
 msgctxt "ServiceBrowser|"
 msgid "Search"
-msgstr ""
+msgstr "Пошук"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:209
 msgctxt "ServiceBrowser|"
 msgid "Search on the service"
-msgstr ""
+msgstr "Пошук по сервісу"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:214
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:217
 msgctxt "ServiceBrowser|"
 msgid "Execute command"
-msgstr ""
+msgstr "Виконати команду"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:222
 msgctxt "ServiceBrowser|"
 msgid "Show vCard"
-msgstr ""
+msgstr "Показати vCard"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:225
 msgctxt "ServiceBrowser|"
 msgid "Show information about service"
-msgstr ""
+msgstr "Показати інформацію про сервіс"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:230
 msgctxt "ServiceBrowser|"
 msgid "Add to roster"
-msgstr ""
+msgstr "Додати до списку"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:233
 msgctxt "ServiceBrowser|"
 msgid "Add service to roster"
-msgstr ""
+msgstr "Додати сервіс в список"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:192
 msgctxt "Settings|"
 msgid "Main settings"
-msgstr ""
+msgstr "Основні налаштування"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:199
 msgctxt "Settings|"
 msgid "Room configuration"
-msgstr ""
+msgstr "Налаштування кімнати"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:60
 msgctxt "Task|"
 msgid "Author"
-msgstr ""
+msgstr "Автор"
 
 #: ../../../protocols/jabber/src/protocol/modules/tunepep/jpersontuneconverter.cpp:101
 msgctxt "Tune|"
 msgid "Now listening"
-msgstr ""
+msgstr "Зараз грає"
 
 #: ../../../protocols/jabber/src/protocol/modules/tunepep/jpersontuneconverter.cpp:123
 msgctxt "Tune|"
 msgid "Tune"
-msgstr ""
+msgstr "Музика"
 
 #: ../../../protocols/jabber/src/protocol/modules/tunepep/jpersontuneconverter.cpp:125
 msgctxt "Tune|"
 msgid "Show tune icon"
-msgstr ""
+msgstr "Показувати іконку музики"
 
 #: ../../../protocols/jabber/jreen/deffered/gui/xmlconsole.ui:14
 msgctxt "XmlConsole|"
 msgid "Form"
-msgstr ""
+msgstr "Стиль"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui:14
 msgctxt "XmlConsole|"
 msgid "Xml stream console"
-msgstr ""
+msgstr "Консоль Xml потоку"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui:33
 msgctxt "XmlConsole|"
 msgid "Filter"
-msgstr ""
+msgstr "Фільтр"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui:40
 msgctxt "XmlConsole|"
 msgid "Save log"
-msgstr ""
+msgstr "Зберегти звіт"
