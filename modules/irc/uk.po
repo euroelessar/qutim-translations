@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-06 23:42+0000\n"
-"PO-Revision-Date: 2012-06-03 21:59+0000\n"
+"PO-Revision-Date: 2012-06-04 13:40+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2012-06-04 05:05+0000\n"
+"X-Launchpad-Export-Date: 2012-06-05 05:15+0000\n"
 "X-Generator: Launchpad (build 15353)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
@@ -809,39 +809,39 @@ msgstr ""
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "%1 set away message \"%2\""
-msgstr ""
+msgstr "%1 відійшов зі словами \"%2\""
 
 #: ../../../protocols/irc/src/ircconnection.cpp:328
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "%1 removed away message"
-msgstr ""
+msgstr "%1 забрав слова з якими відійшов"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:333
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "You are no longer marked as being away"
-msgstr ""
+msgstr "Ви повернулися"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:335
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "You have been marked as being away"
-msgstr ""
+msgstr "Ви відійшли"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:434
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Add at least one server before connecting"
-msgstr ""
+msgstr "Перед підключенням необхідно додати принаймні один сервер"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:436
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Set at least one nick before connecting"
-msgstr ""
+msgstr "Вкажіть нік перед тим як підключитися"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:438
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Cannot connect to %1 network"
-msgstr ""
+msgstr "Не вдалося підключитися до мережі %1"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:630
 #, qt-format
@@ -858,71 +858,72 @@ msgstr "Помилка SSL: %1"
 #: ../../../protocols/irc/src/ircconnection.cpp:652
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "SSL handshake completed"
-msgstr ""
+msgstr "Рукостискання SSL завершено"
 
 #: ../../../protocols/irc/src/ircprotocol.cpp:79
 msgctxt "qutim_sdk_0_3::irc::IrcProtocol|"
 msgid "Auto-join"
-msgstr ""
+msgstr "Входити автоматично"
 
 #: ../../../protocols/irc/src/ircstandartctpchandler.cpp:79
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcStandartCtpcHandler|"
 msgid "Received CTCP-PING reply from %1: %2 seconds"
 msgid_plural "Received CTCP-PING reply from %1: %2 seconds"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Пінг від %1: %2 секунда"
+msgstr[1] "Пінг від %1: %2 секунди"
+msgstr[2] "Пінг від %1: %2 секунд"
 
 #: ../../../protocols/irc/src/ircstandartctpchandler.cpp:85
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcStandartCtpcHandler|"
 msgid "Received CTCP-%1 reply from %2: %3"
-msgstr ""
+msgstr "Отримано відповідь CTCP-%1 від %2: %3"
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:63
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 is %2@%3 (%4)"
-msgstr ""
+msgstr "%1 - %2@%3 (%4)"
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:76
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 is online via %2 (%3)"
-msgstr ""
+msgstr "%1 перебуває у мережі за допомогою %2 (%3)"
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:83
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 is an IRC operator"
-msgstr ""
+msgstr "%1- оператор IRC"
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:93
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 has been idle since"
-msgstr ""
+msgstr "%1 не активний з"
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:99
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 has been online since"
-msgstr ""
+msgstr "%1 активний з"
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:107
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 is a user on channels: "
-msgstr ""
+msgstr "%1 є користувачем каналів: "
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:114
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 is logged in as %2"
-msgstr ""
+msgstr "%1 увійшов в систему як %2"
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:119
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 is using a secure connection"
-msgstr ""
+msgstr "%1 використовує захищене з'єднання"
