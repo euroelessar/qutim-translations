@@ -8,31 +8,32 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-30 18:37+0000\n"
-"PO-Revision-Date: 2012-04-25 19:34+0000\n"
-"Last-Translator: Maxim Nosovets <nosovetz@yandex.ua>\n"
+"PO-Revision-Date: 2012-06-04 14:58+0000\n"
+"Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-26 05:17+0000\n"
-"X-Generator: Launchpad (build 15149)\n"
+"X-Launchpad-Export-Date: 2012-06-05 05:15+0000\n"
+"X-Generator: Launchpad (build 15353)\n"
 "X-Qt-Contexts: true\n"
+"Language: uk\n"
 
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:57
 msgctxt "Author|"
 msgid "Kazlauskas Ian"
-msgstr ""
+msgstr "Казлаускас Ян"
 
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:60
 msgctxt "Author|"
 msgid "Alexey Prokhin"
-msgstr ""
+msgstr "Олексій Прохін"
 
 #: ../../../plugins/nowplaying/src/icqsettings.ui:14
 msgctxt "IcqSettings|"
 msgid "ICQ"
-msgstr ""
+msgstr "ICQ"
 
 #: ../../../plugins/nowplaying/src/icqsettings.ui:20
 msgctxt "IcqSettings|"
@@ -87,6 +88,39 @@ msgid ""
 "family:'Sans';\">%uri - full path to file</span></p></td></tr></table></"
 "body></html>"
 msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+" <html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+" p, li { white-space: pre-wrap; }\n"
+" </style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
+"font-weight:400; font-style:normal;\">\n"
+" <table style=\"-qt-table-type: root; margin-top:4px; margin-bottom:4px; "
+"margin-left:4px; margin-right:4px;\">\n"
+" <tr>\n"
+" <td style=\"border: none;\">\n"
+" <p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%artist - Виконавець</span></p>\n"
+" <p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%title - Заголовок</span></p>\n"
+" <p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%album - Альбом</span></p>\n"
+" <p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%track - Номер трека</span></p>\n"
+" <p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%time - Тривалість трека</span></p>\n"
+" <p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%file - Ім’я файла</span></p>\n"
+" <p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%uri - Повний шлях до файла</span></p></td></tr></table></"
+"body></html>"
 
 #: ../../../plugins/nowplaying/src/icqsettings.ui:62
 msgctxt "IcqSettings|"
@@ -96,17 +130,17 @@ msgstr "Зараз грає: %artist - %title"
 #: ../../../plugins/nowplaying/src/icqsettings.ui:69
 msgctxt "IcqSettings|"
 msgid "Changes message of \"Listening to music\" status"
-msgstr ""
+msgstr "Змінювати повідомлення статусу \"Слухаю музику\""
 
 #: ../../../plugins/nowplaying/src/icqsettings.ui:95
 msgctxt "IcqSettings|"
 msgid "%artist - %title"
-msgstr ""
+msgstr "%artist - %title"
 
 #: ../../../plugins/nowplaying/src/jabbersettings.ui:14
 msgctxt "JabberSettings|"
 msgid "Jabber"
-msgstr ""
+msgstr "Jabber"
 
 #: ../../../plugins/nowplaying/src/jabbersettings.ui:20
 msgctxt "JabberSettings|"
@@ -121,12 +155,12 @@ msgstr "Вимкнено"
 #: ../../../plugins/nowplaying/src/jabbersettings.ui:36
 msgctxt "JabberSettings|"
 msgid "Activated"
-msgstr "Активовано"
+msgstr "Увімкнено"
 
 #: ../../../plugins/nowplaying/src/jabbersettings.ui:46
 msgctxt "JabberSettings|"
 msgid "Info to be presented"
-msgstr ""
+msgstr "Що показувати"
 
 #: ../../../plugins/nowplaying/src/jabbersettings.ui:52
 msgctxt "JabberSettings|"
@@ -136,17 +170,17 @@ msgstr "Виконавець"
 #: ../../../plugins/nowplaying/src/jabbersettings.ui:59
 msgctxt "JabberSettings|"
 msgid "Track number"
-msgstr "Номер доріжки"
+msgstr "Номер треку"
 
 #: ../../../plugins/nowplaying/src/jabbersettings.ui:66
 msgctxt "JabberSettings|"
 msgid "Title"
-msgstr "Назва"
+msgstr "Заголовок"
 
 #: ../../../plugins/nowplaying/src/jabbersettings.ui:73
 msgctxt "JabberSettings|"
 msgid "Track length"
-msgstr "Довжина доріжки"
+msgstr "Тривалість"
 
 #: ../../../plugins/nowplaying/src/jabbersettings.ui:80
 msgctxt "JabberSettings|"
@@ -156,7 +190,7 @@ msgstr "Альбом"
 #: ../../../plugins/nowplaying/src/jabbersettings.ui:87
 msgctxt "JabberSettings|"
 msgid "Path to file"
-msgstr "Шлях до файлу"
+msgstr "Шлях до файла"
 
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:99
 msgctxt "NowPlaying|"
@@ -176,7 +210,7 @@ msgstr ""
 #: ../../../plugins/nowplaying/src/nowplayingsettings.ui:17
 msgctxt "NowPlayingSettings|"
 msgid "Form"
-msgstr "Формувати"
+msgstr "Стиль"
 
 #: ../../../plugins/nowplaying/src/nowplayingsettings.ui:36
 msgctxt "NowPlayingSettings|"
@@ -186,17 +220,17 @@ msgstr "Режим"
 #: ../../../plugins/nowplaying/src/nowplayingsettings.ui:42
 msgctxt "NowPlayingSettings|"
 msgid "Current plugin status:"
-msgstr ""
+msgstr "Поточний стан плагіна:"
 
 #: ../../../plugins/nowplaying/src/nowplayingsettings.ui:49
 msgctxt "NowPlayingSettings|"
 msgid "Is working"
-msgstr ""
+msgstr "Працює"
 
 #: ../../../plugins/nowplaying/src/nowplayingsettings.ui:56
 msgctxt "NowPlayingSettings|"
 msgid "Stop"
-msgstr ""
+msgstr "Зупинити"
 
 #: ../../../plugins/nowplaying/src/nowplayingsettings.ui:83
 msgctxt "NowPlayingSettings|"
@@ -221,13 +255,13 @@ msgstr "Музичний програвач"
 #: ../../../plugins/nowplaying/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
 msgid "NowPlaying"
-msgstr ""
+msgstr "Зараз грає"
 
 #: ../../../plugins/nowplaying/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:54
 msgctxt "Plugin|"
 msgid "Now playing plugin"
-msgstr ""
+msgstr "Плагін \"Зараз грає\""
 
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:53
 msgctxt "Plugin|"
@@ -237,12 +271,14 @@ msgstr "Зараз грає"
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:64
 msgctxt "Plugin|"
 msgid "Now Playing Mpris"
-msgstr ""
+msgstr "Mpris плагін \"Зараз грає\""
 
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:65
 msgctxt "Plugin|"
 msgid "Mpris support for now playing plugin"
 msgstr ""
+"Підтримка плагіном \"Зараз грає\" отримання інформації через  D-Bus "
+"інтерфейс Mpris"
 
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:58
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:61
@@ -268,9 +304,9 @@ msgstr "Зупинити"
 #: ../../../plugins/nowplaying/src/settingsui.cpp:187
 msgctxt "qutim_sdk_0_3::nowplaying::SettingsUI|"
 msgid "not working"
-msgstr ""
+msgstr "не працюю"
 
 #: ../../../plugins/nowplaying/src/settingsui.cpp:188
 msgctxt "qutim_sdk_0_3::nowplaying::SettingsUI|"
 msgid "Start"
-msgstr ""
+msgstr "Старт"

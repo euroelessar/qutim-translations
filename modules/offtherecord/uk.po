@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-06-03 22:09+0000\n"
+"PO-Revision-Date: 2012-06-04 21:35+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-04 05:05+0000\n"
+"X-Launchpad-Export-Date: 2012-06-05 05:15+0000\n"
 "X-Generator: Launchpad (build 15353)\n"
 
 #: ../../../plugins/offtherecord/src/otrcrypt.cpp:55
@@ -70,112 +70,112 @@ msgstr "Вручну"
 #: ../../../plugins/offtherecord/src/otrcrypt.cpp:96
 msgctxt "OTRCrypt|"
 msgid "Auto"
-msgstr ""
+msgstr "Автоматично"
 
 #: ../../../plugins/offtherecord/src/otrcrypt.cpp:97
 msgctxt "OTRCrypt|"
 msgid "Force OTR"
-msgstr ""
+msgstr "Примусовий OTR"
 
 #: ../../../plugins/offtherecord/src/otrcrypt.cpp:120
 #, qt-format
 msgctxt "OTRCrypt|"
 msgid "OTR Plugin [%1]"
-msgstr ""
+msgstr "Плагін OTR [%1]"
 
 #: ../../../plugins/offtherecord/src/otrcrypt.cpp:218
 msgctxt "OTRCrypt|"
 msgid "OTR Messaging"
-msgstr ""
+msgstr "Повідомлення OTR"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:47
 msgctxt "OtrInternal|"
 msgid "no OTR Message"
-msgstr ""
+msgstr "Немає повідомлень OTR"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:51
 msgctxt "OtrInternal|"
 msgid "OTR TaggedPlaintexMessage"
-msgstr ""
+msgstr "OTR міткою текст повідомлення"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:55
 msgctxt "OtrInternal|"
 msgid "OTR QueryMessage"
-msgstr ""
+msgstr "Повідомлення OTR запитів"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:59
 msgctxt "OtrInternal|"
 msgid "OTR DH-Commit Message"
-msgstr ""
+msgstr "OTR DH-Commit повідомлення"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:63
 msgctxt "OtrInternal|"
 msgid "OTR DH-Key Message"
-msgstr ""
+msgstr "OTR DH-Key повідомлення"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:67
 msgctxt "OtrInternal|"
 msgid "OTR Reveal Signature Message"
-msgstr ""
+msgstr "Показати OTR підпис повідомлення"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:71
 msgctxt "OtrInternal|"
 msgid "OTR Signature Message"
-msgstr ""
+msgstr "OTR підпис повідомлення"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:75
 msgctxt "OtrInternal|"
 msgid "OTR Version 1 Key Exchange Message"
-msgstr ""
+msgstr "OTR Версія 1 Обмін ключами повідомлення"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:79
 msgctxt "OtrInternal|"
 msgid "OTR Data Message"
-msgstr ""
+msgstr "OTR дані повідомлення"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:83
 msgctxt "OtrInternal|"
 msgid "OTR Error Message"
-msgstr ""
+msgstr "OTR повідомлення про помилки"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:87
 msgctxt "OtrInternal|"
 msgid "OTR Unknown Message"
-msgstr ""
+msgstr "Невідоме OTR повідомлення"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:91
 msgctxt "OtrInternal|"
 msgid "Unknown OTR Message Type"
-msgstr ""
+msgstr "Невідомий тип OTR повідомлення"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:159
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:675
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:709
 msgctxt "OtrInternal|"
 msgid "qutim-otr"
-msgstr ""
+msgstr "qutim-otr"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:160
 #, qt-format
 msgctxt "OtrInternal|"
 msgid "Encrypting message from %1 to %2 failed."
-msgstr ""
+msgstr "Не вдалося шифрування повідомлень з %1 в %2."
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:161
 msgctxt "OtrInternal|"
 msgid "The message was not sent."
-msgstr ""
+msgstr "Повідомлення не було надіслано."
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:206
 #, qt-format
 msgctxt "OtrInternal|"
 msgid "%1 has ended the OTR session. You should do the same."
-msgstr ""
+msgstr "%1 закінчив OTR сесію. Ви повинні зробити те ж саме."
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:226
 msgctxt "OtrInternal|"
 msgid "Auth"
-msgstr ""
+msgstr "Авторизація"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:226
 #, qt-format
@@ -183,17 +183,19 @@ msgctxt "OtrInternal|"
 msgid ""
 "Please, answer the question to be authorised by %1.<br>Question: <b>%2</b>"
 msgstr ""
+"Щоб авторизуватися, дайте будь-ласка відповідь на питання %1.<br>Запитання: "
+"<b>%2</b>"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:241
 msgctxt "OtrInternal|"
 msgid "Authorysing"
-msgstr ""
+msgstr "Авторизувати"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:241
 #, qt-format
 msgctxt "OtrInternal|"
 msgid "Please, enter passphrase to authorise %1"
-msgstr ""
+msgstr "Будь-ласка, введіть пароль для авторизації %1"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:264
 msgctxt "OtrInternal|"
@@ -201,6 +203,8 @@ msgid ""
 "Your buddy has successfully authenticated you. The conversation is now "
 "secure!"
 msgstr ""
+"Ваш приятель успішно пройшов вашу аутентифікацію. Тепер можна розмовляти "
+"безпечно!"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:268
 msgctxt "OtrInternal|"
@@ -208,21 +212,23 @@ msgid ""
 "Your buddy has successfully authenticated you. You may want to authenticate "
 "your buddy as well by asking your own question."
 msgstr ""
+"Ваш приятель успішно пройшов вашу аутентифікацію. Проте ви можете перевірити "
+"справжність вашого співрозмовника задавши своє питання."
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:282
 msgctxt "OtrInternal|"
 msgid "Authentication successful. The conversation is now secure!"
-msgstr ""
+msgstr "Аутентифікація успішна. Розмовляти тепер безпечно."
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:285
 msgctxt "OtrInternal|"
 msgid "Authentication failed. The conversation is now insecure!"
-msgstr ""
+msgstr "Невдала аутентифікація. Розмовляти зараз небезпечно!"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:294
 msgctxt "OtrInternal|"
 msgid "Authentication error!"
-msgstr ""
+msgstr "Помилка аутентифікації!"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:309
 #, qt-format
@@ -231,6 +237,8 @@ msgid ""
 "received %1 \n"
 "OTR state now is [%2]"
 msgstr ""
+"прийнято %1 \n"
+"стан OTR тепер [%2]"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:313
 msgctxt "OtrInternal|"
@@ -533,6 +541,6 @@ msgstr ""
 #, qt-format
 msgctxt "SMPdialog|"
 msgid ""
-"Protocol %0.<br>Authorisation of user <b>%1</b> <br>with fingerprint "
-"<b>%2</b>"
+"Protocol %0.<br>Authorisation of user <b>%1</b> <br>with fingerprint <b>%2</"
+"b>"
 msgstr ""
