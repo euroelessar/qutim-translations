@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-04-15 08:53+0000\n"
+"PO-Revision-Date: 2012-06-05 10:02+0000\n"
 "Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-05 05:47+0000\n"
-"X-Generator: Launchpad (build 15195)\n"
+"X-Launchpad-Export-Date: 2012-06-06 05:29+0000\n"
+"X-Generator: Launchpad (build 15353)\n"
 "X-Qt-Contexts: true\n"
 "Language: ru\n"
 
@@ -185,6 +185,8 @@ msgctxt "OtrInternal|"
 msgid ""
 "Please, answer the question to be authorised by %1.<br>Question: <b>%2</b>"
 msgstr ""
+"Для авторизации %1 вы должны ответить на вопрос.<br />\r\n"
+"Вопрос: <b> %2 </b>."
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:241
 msgctxt "OtrInternal|"
@@ -195,14 +197,14 @@ msgstr ""
 #, qt-format
 msgctxt "OtrInternal|"
 msgid "Please, enter passphrase to authorise %1"
-msgstr ""
+msgstr "Введите кодовую фразу для авторизации %1"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:264
 msgctxt "OtrInternal|"
 msgid ""
 "Your buddy has successfully authenticated you. The conversation is now "
 "secure!"
-msgstr ""
+msgstr "Ваш собеседник аутентифицирован вами. Разговор теберь безопасен!"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:268
 msgctxt "OtrInternal|"
@@ -277,11 +279,15 @@ msgid ""
 "This may take a while.\n"
 "Please, move mouse and use keyoard to decrease generation time."
 msgstr ""
+"Собираем по битам ключ для аккуанта %1\n"
+"Это может потребовать немного времени.\n"
+"Пожалуйста, подвигайте мышью и понажимайте кнопки на клавиатуре. Компьютеру "
+"будет приятно и он быстрее закончит сбор битов на ключ."
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:680
 msgctxt "OtrInternal|"
 msgid "please wait..."
-msgstr ""
+msgstr "Пожалуйста подождите..."
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:710
 #, qt-format
@@ -290,12 +296,14 @@ msgid ""
 "Failed to generate key for account %1\n"
 "The OTR Plugin will not work."
 msgstr ""
+"Ошибка генерации ключа для аккаунта %1\n"
+"Плагин OTR работать не будет."
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:717
 #, qt-format
 msgctxt "OtrInternal|"
 msgid "The fingerprint for account %1 is\n"
-msgstr ""
+msgstr "Отпечаток для аккаунта %1:\n"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:841
 #, qt-format
@@ -304,16 +312,18 @@ msgid ""
 "Account %1 has received new fingerprint from %2 :\n"
 " %3"
 msgstr ""
+"Аккаунт %1 принял новый отпечаток от %2:\n"
+"%3"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:855
 msgctxt "OtrInternal|"
 msgid "Authentication aborded. The conversation is now insecure!"
-msgstr ""
+msgstr "Аутентификация прервана. Обмен сообщениями не безопасен!"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:868
 msgctxt "OtrInternal|"
 msgid "Authenticating contact..."
-msgstr ""
+msgstr "Аутентификация пользователя..."
 
 #: ../../../plugins/offtherecord/src/otrsettingswidget.ui:14
 msgctxt "OtrSettingsWidget|"
@@ -338,43 +348,43 @@ msgstr ""
 #: ../../../plugins/offtherecord/src/otrsettingswidget.ui:46
 msgctxt "OtrSettingsWidget|"
 msgid "Enable private messaging"
-msgstr ""
+msgstr "Включить защиту разговоров"
 
 #: ../../../plugins/offtherecord/src/otrsettingswidget.ui:56
 msgctxt "OtrSettingsWidget|"
 msgid "Automatically start private messaging"
-msgstr ""
+msgstr "Автоматически начинать безопасный разговор"
 
 #: ../../../plugins/offtherecord/src/otrsettingswidget.ui:66
 msgctxt "OtrSettingsWidget|"
 msgid "Require private messaging"
-msgstr ""
+msgstr "Только защищенный разговор"
 
 #: ../../../plugins/offtherecord/src/otrsettingswidget.ui:90
 msgctxt "OtrSettingsWidget|"
 msgid "Known fingerprints"
-msgstr ""
+msgstr "Известные отпечатки"
 
 #: ../../../plugins/offtherecord/src/otrsettingswidget.ui:112
 #: ../../../plugins/offtherecord/src/otrsettingswidget.ui:171
 msgctxt "OtrSettingsWidget|"
 msgid "Account"
-msgstr ""
+msgstr "Аккаунты"
 
 #: ../../../plugins/offtherecord/src/otrsettingswidget.ui:117
 msgctxt "OtrSettingsWidget|"
 msgid "Pecipient"
-msgstr ""
+msgstr "Получатель"
 
 #: ../../../plugins/offtherecord/src/otrsettingswidget.ui:122
 msgctxt "OtrSettingsWidget|"
 msgid "Fingerprint"
-msgstr ""
+msgstr "Отпечаток"
 
 #: ../../../plugins/offtherecord/src/otrsettingswidget.ui:127
 msgctxt "OtrSettingsWidget|"
 msgid "Trust"
-msgstr ""
+msgstr "Доверенный"
 
 #: ../../../plugins/offtherecord/src/otrsettingswidget.ui:132
 msgctxt "OtrSettingsWidget|"
@@ -385,22 +395,22 @@ msgstr ""
 #: ../../../plugins/offtherecord/src/otrsettingswidget.ui:189
 msgctxt "OtrSettingsWidget|"
 msgid "Forget"
-msgstr ""
+msgstr "Забыть"
 
 #: ../../../plugins/offtherecord/src/otrsettingswidget.ui:152
 msgctxt "OtrSettingsWidget|"
 msgid "My private keys"
-msgstr ""
+msgstr "Мои закрытые ключи"
 
 #: ../../../plugins/offtherecord/src/otrsettingswidget.ui:176
 msgctxt "OtrSettingsWidget|"
 msgid "Protocol"
-msgstr ""
+msgstr "Протокол"
 
 #: ../../../plugins/offtherecord/src/otrsettingswidget.ui:181
 msgctxt "OtrSettingsWidget|"
 msgid "Key"
-msgstr ""
+msgstr "Ключ"
 
 #: ../../../plugins/offtherecord/src/otrsettingswidget.cpp:155
 #, qt-format
@@ -411,12 +421,16 @@ msgid ""
 "buddy: %2\n"
 "fingerprint: %3"
 msgstr ""
+"Вы действительно хотите удалить отпечаток:\n"
+"Аккаунт: %1\n"
+"Собеседник: %2\n"
+"Отпечаток: %3"
 
 #: ../../../plugins/offtherecord/src/otrsettingswidget.cpp:160
 #: ../../../plugins/offtherecord/src/otrsettingswidget.cpp:180
 msgctxt "OtrSettingsWidget|"
 msgid "qutim-otr"
-msgstr ""
+msgstr "qutim-otr"
 
 #: ../../../plugins/offtherecord/src/otrsettingswidget.cpp:175
 #, qt-format
@@ -427,67 +441,71 @@ msgid ""
 "protocol: %2\n"
 " fingerptint: %3"
 msgstr ""
+"Вы действительно хотите удалить  закрытый ключ:\n"
+"аккаунт: %1\n"
+"протокол: %2\n"
+" отпечаток: %3"
 
 #: ../../../plugins/offtherecord/src/qutimotrclosure.cpp:103
 msgctxt "OtrSupport::OtrClosure|"
 msgid "no active encrypted session"
-msgstr ""
+msgstr "Нет активных шифрованных сессий"
 
 #: ../../../plugins/offtherecord/src/qutimotrclosure.cpp:107
 #, qt-format
 msgctxt "OtrSupport::OtrClosure|"
 msgid "Session ID of connection from account %1 to %2 is: "
-msgstr ""
+msgstr "Идентификатор соединения (SID) от %1 к %2: "
 
 #: ../../../plugins/offtherecord/src/qutimotrclosure.cpp:130
 msgctxt "OtrSupport::OtrClosure|"
 msgid "no private key for "
-msgstr ""
+msgstr "Нет закрытого ключа для "
 
 #: ../../../plugins/offtherecord/src/qutimotrclosure.cpp:133
 #, qt-format
 msgctxt "OtrSupport::OtrClosure|"
 msgid "Fingerprint for account %1 is:"
-msgstr ""
+msgstr "Отпечаток для аккаунта %1:"
 
 #: ../../../plugins/offtherecord/src/qutimotrclosure.cpp:180
 #, qt-format
 msgctxt "OtrSupport::OtrClosure|"
 msgid "OTR state is changed. New state is [%1]"
-msgstr ""
+msgstr "Состояние OTR изменено. Теперь OTR [%1]"
 
 #: ../../../plugins/offtherecord/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/offtherecord/src/otrcrypt.cpp:179
 msgctxt "Plugin|"
 msgid "Off-the-Record Messaging"
-msgstr ""
+msgstr "Off-the-Record (OTR)"
 
 #: ../../../plugins/offtherecord/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/offtherecord/src/otrcrypt.cpp:180
 msgctxt "Plugin|"
 msgid "Plugin provides encryption of messages by OTR"
-msgstr ""
+msgstr "Плагин предоставляет шифрование через OTR"
 
 #: ../../../plugins/offtherecord/src/smpdialog.ui:14
 msgctxt "SMPdialog|"
 msgid "Authorisation"
-msgstr ""
+msgstr "Авторизация"
 
 #: ../../../plugins/offtherecord/src/smpdialog.ui:28
 msgctxt "SMPdialog|"
 msgid "Choose auth type"
-msgstr ""
+msgstr "Выберите тип авторизации"
 
 #: ../../../plugins/offtherecord/src/smpdialog.ui:42
 msgctxt "SMPdialog|"
 msgid "Question/Answer"
-msgstr ""
+msgstr "Вопрос/ответ"
 
 #: ../../../plugins/offtherecord/src/smpdialog.ui:47
 #: ../../../plugins/offtherecord/src/smpdialog.ui:146
 msgctxt "SMPdialog|"
 msgid "Secret phrase"
-msgstr ""
+msgstr "Секретая фраза"
 
 #: ../../../plugins/offtherecord/src/smpdialog.ui:52
 msgctxt "SMPdialog|"
@@ -502,7 +520,7 @@ msgstr ""
 #: ../../../plugins/offtherecord/src/smpdialog.ui:88
 msgctxt "SMPdialog|"
 msgid "Question"
-msgstr ""
+msgstr "Вопрос"
 
 #: ../../../plugins/offtherecord/src/smpdialog.ui:102
 msgctxt "SMPdialog|"
@@ -517,12 +535,12 @@ msgstr ""
 #: ../../../plugins/offtherecord/src/smpdialog.ui:197
 msgctxt "SMPdialog|"
 msgid "I agree"
-msgstr ""
+msgstr "Я согласен"
 
 #: ../../../plugins/offtherecord/src/smpdialog.ui:204
 msgctxt "SMPdialog|"
 msgid "I disagree"
-msgstr ""
+msgstr "Я не согласен"
 
 #: ../../../plugins/offtherecord/src/smpdialog.cpp:39
 msgctxt "SMPdialog|"
@@ -532,7 +550,7 @@ msgstr "Аутентификация отменена"
 #: ../../../plugins/offtherecord/src/smpdialog.cpp:39
 msgctxt "SMPdialog|"
 msgid "Could not find any fingerprints for this user."
-msgstr ""
+msgstr "Не получилось найти отпечаток для этого пользователя."
 
 #: ../../../plugins/offtherecord/src/smpdialog.cpp:44
 #, qt-format
@@ -541,3 +559,4 @@ msgid ""
 "Protocol %0.<br>Authorisation of user <b>%1</b> <br>with fingerprint "
 "<b>%2</b>"
 msgstr ""
+"Протокол %0.<br>Авторизация пользователя <b>%1</b> <br>с отпечатком <b>%2</b>"

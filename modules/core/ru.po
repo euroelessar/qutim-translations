@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-05-01 08:04+0000\n"
-"Last-Translator: Hamper <Unknown>\n"
+"PO-Revision-Date: 2012-06-05 09:21+0000\n"
+"Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-05 05:46+0000\n"
-"X-Generator: Launchpad (build 15195)\n"
+"X-Launchpad-Export-Date: 2012-06-06 05:28+0000\n"
+"X-Generator: Launchpad (build 15353)\n"
 "X-Qt-Contexts: true\n"
 "Language: ru\n"
 "X-Language: ru\n"
@@ -1943,7 +1943,7 @@ msgstr "Система"
 #: ../../../core/libqutim/notification.cpp:207
 msgctxt "Notification|"
 msgid "Contact is asking for your attention"
-msgstr ""
+msgstr "Пользователь желает вашего внимания"
 
 #: ../../../core/libqutim/notification.cpp:221
 msgctxt "Notification|"
@@ -2023,7 +2023,7 @@ msgstr "Системное уведомление"
 #: ../../../core/libqutim/notification.cpp:236
 msgctxt "Notification|"
 msgid "Attention notification"
-msgstr ""
+msgstr "Будильник"
 
 #: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp:98
 msgctxt "Notifications|"
@@ -2970,7 +2970,7 @@ msgstr "%1 печатает"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 is asking for your attention"
-msgstr ""
+msgstr "%1 желает внимания"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:87
 msgctxt "QObject|"

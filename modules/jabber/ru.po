@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-05-31 05:36+0000\n"
+"PO-Revision-Date: 2012-06-05 09:24+0000\n"
 "Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-01 05:48+0000\n"
-"X-Generator: Launchpad (build 15342)\n"
+"X-Launchpad-Export-Date: 2012-06-06 05:28+0000\n"
+"X-Generator: Launchpad (build 15353)\n"
 "X-Qt-Contexts: true\n"
 "Language: ru\n"
 "X-Language: ru\n"
@@ -1104,12 +1104,12 @@ msgstr "Нет занятия"
 #, qt-format
 msgctxt "Jabber::JAttention|"
 msgid "%1 trying to attract your attention!"
-msgstr ""
+msgstr "%1пытается привлечь ваше внимание!"
 
 #: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:125
 msgctxt "Jabber::JAttention|"
 msgid "Contact's client does not suppoort attentions"
-msgstr ""
+msgstr "Клиент собеседника не поддерживает функцию привлечения внимания"
 
 #: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:127
 msgctxt "Jabber::JAttention|"
@@ -2494,17 +2494,17 @@ msgstr "Поддержка прокси в Jabber"
 #: ../../../protocols/jabber/src/jplugin.cpp:142
 msgctxt "Plugin|"
 msgid "Jabber Attention support"
-msgstr ""
+msgstr "Функция Будильник для Jabber/XMPP"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:143
 msgctxt "Plugin|"
 msgid "Jabber Attention support (XEP-0224)"
-msgstr ""
+msgstr "Поддержка привлечения внимания Jabber (XEP-0224)"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:148
 msgctxt "Plugin|"
 msgid "Jabber VoIP support"
-msgstr ""
+msgstr "Поддержка VOIP в Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:149
 msgctxt "Plugin|"
@@ -2514,7 +2514,7 @@ msgstr "Позволяет общаться с помощью голоса и в
 #: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:80
 msgctxt "QObject|"
 msgid "Send Attention"
-msgstr ""
+msgstr "Привлечь внимание"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:14
 msgctxt "RoomConfig|"
