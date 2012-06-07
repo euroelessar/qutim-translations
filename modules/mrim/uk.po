@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-27 13:46+0000\n"
-"PO-Revision-Date: 2012-06-03 22:04+0000\n"
+"PO-Revision-Date: 2012-06-06 20:29+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-04 05:05+0000\n"
+"X-Launchpad-Export-Date: 2012-06-07 05:08+0000\n"
 "X-Generator: Launchpad (build 15353)\n"
 
 #: ../../../protocols/mrim/src/ui/wizards/accountwizardmain.ui:14
@@ -75,7 +75,7 @@ msgstr ""
 #: ../../../protocols/mrim/src/base/mrimconnection.cpp:258
 msgctxt "MrimConnection|"
 msgid "Another client with same login connected!"
-msgstr ""
+msgstr "Інший користувач увійшов під вашим логіном!"
 
 #: ../../../protocols/mrim/src/base/mrimconnection.cpp:479
 #, qt-format
@@ -84,353 +84,355 @@ msgid ""
 "Authentication failed!\n"
 "Reason: %1"
 msgstr ""
+"Помилка аутентифікації!\n"
+"Ймовірна причина: %1"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:155
 msgctxt "MrimMessages|"
 msgid "No such user"
-msgstr ""
+msgstr "Немає такого користувача"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:158
 msgctxt "MrimMessages|"
 msgid "Message too large"
-msgstr ""
+msgstr "Повідомлення надто велике"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:161
 msgctxt "MrimMessages|"
 msgid "Limit exceeded"
-msgstr ""
+msgstr "Досягнуто межі"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:164
 msgctxt "MrimMessages|"
 msgid "User denied receiving offline messages"
-msgstr ""
+msgstr "Користувач заперечив отримання оффлайн повідомлень"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:167
 msgctxt "MrimMessages|"
 msgid "User denied receiving offline flash movies"
-msgstr ""
+msgstr "Користувач заперечив отримання оффлайн флеш-роликів"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:170
 msgctxt "MrimMessages|"
 msgid "Internal error"
-msgstr ""
+msgstr "Внутрішня помилка"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:179
 msgctxt "MrimMessages|"
 msgid "Message was not delivered!"
-msgstr ""
+msgstr "Повідомлення не було доставлено!"
 
 #: ../../../protocols/mrim/src/base/mrimpacket.cpp:188
 msgctxt "MrimPacket|"
 msgid "No error"
-msgstr ""
+msgstr "Без помилок"
 
 #: ../../../protocols/mrim/src/base/mrimpacket.cpp:190
 msgctxt "MrimPacket|"
 msgid "Cannot read from socket"
-msgstr ""
+msgstr "Помилка читання з сокету"
 
 #: ../../../protocols/mrim/src/base/mrimpacket.cpp:192
 msgctxt "MrimPacket|"
 msgid "Header is corrupted"
-msgstr ""
+msgstr "Заголовок пошкоджено"
 
 #: ../../../protocols/mrim/src/base/mrimpacket.cpp:194
 msgctxt "MrimPacket|"
 msgid "Unknown error"
-msgstr ""
+msgstr "Невідома помилка"
 
 #: ../../../protocols/mrim/src/base/roster.cpp:256
 msgctxt "MrimRoster|"
 msgid "Phone contacts"
-msgstr ""
+msgstr "Телефонна книга"
 
 #: ../../../protocols/mrim/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
 msgid "MRIM protocol"
-msgstr ""
+msgstr "Протокол MRIM"
 
 #: ../../../protocols/mrim/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
 msgid "Implementation of MRIM protocol"
-msgstr ""
+msgstr "Реалізація протоколу для MRIM (Mail.ru Agent)"
 
 #: ../../../protocols/mrim/src/base/mrimplugin.cpp:43
 msgctxt "Plugin|"
 msgid "Module-based realization of Mail.Ru IM protocol"
-msgstr ""
+msgstr "Модуль, що реалізується на протоколі Mail.Ru IM"
 
 #: ../../../protocols/mrim/src/base/mrimplugin.cpp:44
 msgctxt "Plugin|"
 msgid "MRIM"
-msgstr ""
+msgstr "MRIM"
 
 #: ../../../protocols/mrim/src/base/mrimplugin.cpp:57
 msgctxt "Plugin|"
 msgid "MRIM account creator"
-msgstr ""
+msgstr "Створювач облікових записів MRIM"
 
 #: ../../../protocols/mrim/src/base/mrimplugin.cpp:58
 msgctxt "Plugin|"
 msgid "Account creator for module-based realization of Mail.Ru IM protocol"
-msgstr ""
+msgstr "Створення облікового запису реалізованого для протоколу Mail.Ru IM"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:85
 msgctxt "QObject|"
 msgid "Possible client"
-msgstr ""
+msgstr "Можливий клієнт"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:100
 msgctxt "QObject|"
 msgid "Not authorized"
-msgstr ""
+msgstr "Не авторизовано"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:190
 msgctxt "Status|"
 msgid "Sick"
-msgstr ""
+msgstr "Хворий"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:192
 msgctxt "Status|"
 msgid "At home"
-msgstr ""
+msgstr "Вдома"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:194
 msgctxt "Status|"
 msgid "Lunch"
-msgstr ""
+msgstr "Обід"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:196
 msgctxt "Status|"
 msgid "Where am I?"
-msgstr ""
+msgstr "Де це я?"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:198
 msgctxt "Status|"
 msgid "WC"
-msgstr ""
+msgstr "Туалет"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:200
 msgctxt "Status|"
 msgid "Cooking"
-msgstr ""
+msgstr "Куховарю"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:202
 msgctxt "Status|"
 msgid "Walking"
-msgstr ""
+msgstr "Гуляю"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:204
 msgctxt "Status|"
 msgid "I'm an alien!"
-msgstr ""
+msgstr "Я іноземець!"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:206
 msgctxt "Status|"
 msgid "I'm a shrimp!"
-msgstr ""
+msgstr "Я креветко!"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:208
 msgctxt "Status|"
 msgid "I'm lost :("
-msgstr ""
+msgstr "Я загубився :("
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:210
 msgctxt "Status|"
 msgid "Crazy %)"
-msgstr ""
+msgstr "Навіжений %)"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:212
 msgctxt "Status|"
 msgid "Duck"
-msgstr ""
+msgstr "Качечка"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:214
 msgctxt "Status|"
 msgid "Playing"
-msgstr ""
+msgstr "Ігривий"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:216
 msgctxt "Status|"
 msgid "Smoke"
-msgstr ""
+msgstr "Палю"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:218
 msgctxt "Status|"
 msgid "At work"
-msgstr ""
+msgstr "На роботі"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:220
 msgctxt "Status|"
 msgid "Meeting"
-msgstr ""
+msgstr "На нараді"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:222
 msgctxt "Status|"
 msgid "Beer"
-msgstr ""
+msgstr "Пивко"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:224
 msgctxt "Status|"
 msgid "Coffee"
-msgstr ""
+msgstr "Кава"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:226
 msgctxt "Status|"
 msgid "Shovel"
-msgstr ""
+msgstr "Лопата"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:228
 msgctxt "Status|"
 msgid "Sleeping"
-msgstr ""
+msgstr "Сплю"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:230
 msgctxt "Status|"
 msgid "On the phone"
-msgstr ""
+msgstr "Розмовляю по телефону"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:232
 msgctxt "Status|"
 msgid "University"
-msgstr ""
+msgstr "Університет"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:234
 msgctxt "Status|"
 msgid "School"
-msgstr ""
+msgstr "Школа"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:236
 msgctxt "Status|"
 msgid "Wrong number!"
-msgstr ""
+msgstr "Невірний номер!"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:238
 msgctxt "Status|"
 msgid "LOL"
-msgstr ""
+msgstr "Плачу з попідстолу"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:240
 msgctxt "Status|"
 msgid "Tongue"
-msgstr ""
+msgstr "Показую язика"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:242
 msgctxt "Status|"
 msgid "Smiley"
-msgstr ""
+msgstr "Посміхаюсь"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:244
 msgctxt "Status|"
 msgid "Hippy"
-msgstr ""
+msgstr "Хіппі"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:246
 msgctxt "Status|"
 msgid "Depression"
-msgstr ""
+msgstr "Пригнічений"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:248
 msgctxt "Status|"
 msgid "Crying"
-msgstr ""
+msgstr "Плачу"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:250
 msgctxt "Status|"
 msgid "Surprised"
-msgstr ""
+msgstr "Здивований"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:252
 msgctxt "Status|"
 msgid "Angry"
-msgstr ""
+msgstr "Злий"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:254
 msgctxt "Status|"
 msgid "Evil"
-msgstr ""
+msgstr "Лихий"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:256
 msgctxt "Status|"
 msgid "Ass"
-msgstr ""
+msgstr "Зад"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:258
 msgctxt "Status|"
 msgid "Heart"
-msgstr ""
+msgstr "Серце"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:260
 msgctxt "Status|"
 msgid "Crescent"
-msgstr ""
+msgstr "Напівмісяць"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:262
 msgctxt "Status|"
 msgid "Coool!"
-msgstr ""
+msgstr "Крууто!"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:264
 msgctxt "Status|"
 msgid "Horns"
-msgstr ""
+msgstr "Ріжки"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:266
 msgctxt "Status|"
 msgid "Figa"
-msgstr ""
+msgstr "Фіга"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:268
 msgctxt "Status|"
 msgid "F*ck you!"
-msgstr ""
+msgstr "Та іди ти!"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:270
 msgctxt "Status|"
 msgid "Skull"
-msgstr ""
+msgstr "Череп"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:272
 msgctxt "Status|"
 msgid "Rocket"
-msgstr ""
+msgstr "Ракета"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:274
 msgctxt "Status|"
 msgid "Ktulhu"
-msgstr ""
+msgstr "Ктулху"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:276
 msgctxt "Status|"
 msgid "Goat"
-msgstr ""
+msgstr "Коза"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:278
 msgctxt "Status|"
 msgid "Must die!"
-msgstr ""
+msgstr "Маздай!"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:280
 msgctxt "Status|"
 msgid "Squirrel"
-msgstr ""
+msgstr "Білка"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:282
 msgctxt "Status|"
 msgid "Party!"
-msgstr ""
+msgstr "Вечірка!"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:284
 msgctxt "Status|"
 msgid "Music"
-msgstr ""
+msgstr "Музика"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:286
 msgctxt "Status|"
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: ../../../protocols/mrim/src/base/mrimplugin.cpp:50
 msgctxt "Task|"
 msgid "Author"
-msgstr ""
+msgstr "Автор"
