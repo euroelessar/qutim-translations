@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-06-03 19:38+0000\n"
+"PO-Revision-Date: 2012-06-06 20:56+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-04 05:05+0000\n"
+"X-Launchpad-Export-Date: 2012-06-07 05:08+0000\n"
 "X-Generator: Launchpad (build 15353)\n"
 "X-Qt-Contexts: true\n"
 
@@ -437,7 +437,7 @@ msgstr "Справжній JID"
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:169
 msgctxt "Conference|"
 msgid "Affiliation"
-msgstr ""
+msgstr "Приналежність"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:185
 msgctxt "Conference|"
@@ -2468,12 +2468,12 @@ msgstr "Підтримка проксі в Jabber"
 #: ../../../protocols/jabber/src/jplugin.cpp:142
 msgctxt "Plugin|"
 msgid "Jabber Attention support"
-msgstr ""
+msgstr "Функція привертання уваги Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:143
 msgctxt "Plugin|"
 msgid "Jabber Attention support (XEP-0224)"
-msgstr ""
+msgstr "Підтримка привертання уваги Jabber (XEP-0224)"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:148
 msgctxt "Plugin|"
