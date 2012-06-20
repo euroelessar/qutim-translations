@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-06-17 17:06+0000\n"
+"PO-Revision-Date: 2012-06-19 06:45+0000\n"
 "Last-Translator: Alexander Gavrilov <wowemuh@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-18 05:43+0000\n"
-"X-Generator: Launchpad (build 15419)\n"
+"X-Launchpad-Export-Date: 2012-06-20 05:08+0000\n"
+"X-Generator: Launchpad (build 15435)\n"
 "X-Qt-Contexts: true\n"
 "Language: ru\n"
 "X-Language: ru\n"
@@ -1719,7 +1719,7 @@ msgstr "Введенное  - станет новым сочетанием кл�
 #: ../../../core/src/corelayers/shortcutsettings/keysequencewidget.cpp:272
 msgctxt "KeySequenceWidget|"
 msgid "No shortcut defined"
-msgstr "Нет определённых сочетаний клавиш"
+msgstr "Не указаны сочетания клавиш"
 
 #: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:14
 msgctxt "KineticScrollerSettings|"
@@ -1957,7 +1957,7 @@ msgstr "Сообщение отправлено"
 #: ../../../core/libqutim/notification.cpp:223
 msgctxt "Notification|"
 msgid "qutIM has started"
-msgstr "qutIM взлетел"
+msgstr "qutIM запущен"
 
 #: ../../../core/libqutim/notification.cpp:224
 msgctxt "Notification|"
@@ -2113,17 +2113,16 @@ msgstr "Простой диалог присоединения к конфере
 msgctxt "Plugin|"
 msgid "Conference join dialog adopted for Desktop systems"
 msgstr ""
-"Простой диалог присоединения к конференции, адаптированный к десктопам"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:17
 msgctxt "Plugin|"
 msgid "Simple information window about a contact"
-msgstr "Простое информационное окошко про контакт"
+msgstr "Простое окно информации о контакте"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:18
 msgctxt "Plugin|"
 msgid "Default qutIM implementation of the information window"
-msgstr "Реализация информационных окошек в qutIM по умолчанию"
+msgstr "Реализация окон информации в qutIM по умолчанию"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:19
 msgctxt "Plugin|"
@@ -2138,12 +2137,12 @@ msgstr "Мобильный диалог про qutIM и его авторов"
 #: ../../../core/__data_from_cmakelists_txt.cpp:21
 msgctxt "Plugin|"
 msgid "Mobile information window about a contact"
-msgstr "Мобильное информационное окошко про контакт"
+msgstr "Мобильное информационное окно о контакте"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:22
 msgctxt "Plugin|"
 msgid "qutIM implementation of the information window for mobiles"
-msgstr "Реализация информационных окошек для мобильников"
+msgstr "Реализация информационных окон для мобильных"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:23
 msgctxt "Plugin|"
@@ -2275,7 +2274,7 @@ msgstr "Сервисные пиктограммы Adium"
 #: ../../../core/__data_from_cmakelists_txt.cpp:50
 msgctxt "Plugin|"
 msgid "Protocol icons powered by Adium ServiceIcons packs"
-msgstr "Пиктограммы протоколов взятые из Adium"
+msgstr "Пиктограммы протоколов из Adium"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:51
 msgctxt "Plugin|"
@@ -2285,7 +2284,7 @@ msgstr "Настройки прокси"
 #: ../../../core/__data_from_cmakelists_txt.cpp:52
 msgctxt "Plugin|"
 msgid "Default implementation of proxy settings widget"
-msgstr "Реализация виджета настроек проксиков в qutIM по умолчанию"
+msgstr "Реализация виджета настроек прокси в qutIM по умолчанию"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:53
 msgctxt "Plugin|"
@@ -2391,7 +2390,7 @@ msgstr "Модель списка контактов, в которой отоб
 #: ../../../core/__data_from_cmakelists_txt.cpp:75
 msgctxt "Plugin|"
 msgid "Plain list contacts model"
-msgstr "Простой лист контактов"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:76
 msgctxt "Plugin|"
@@ -2406,17 +2405,17 @@ msgstr "Простой список контактов"
 #: ../../../core/__data_from_cmakelists_txt.cpp:78
 msgctxt "Plugin|"
 msgid "Default qutIM contact list implementation. Just simple"
-msgstr "Реализация списка контактов по умолчанию. Простая, аки слон"
+msgstr "Реализация списка контактов по умолчанию"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:79
 msgctxt "Plugin|"
 msgid "Contact delegate"
-msgstr "Делегат контакта"
+msgstr "Представление контакта"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:80
 msgctxt "Plugin|"
 msgid "Default contact delegate. Just simple"
-msgstr "Простой делегат контакта по умолчанию."
+msgstr "Простое представление контакта по умолчанию"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:81
 msgctxt "Plugin|"
@@ -2431,7 +2430,7 @@ msgstr "Список контактов Tory"
 #: ../../../core/__data_from_cmakelists_txt.cpp:83
 msgctxt "Plugin|"
 msgid "Simple"
-msgstr "Просто!"
+msgstr "Простой"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:84
 msgctxt "Plugin|"
@@ -2598,7 +2597,7 @@ msgstr "ЭТО НАДО СДЕЛАТЬ"
 #: ../../../core/__data_from_cmakelists_txt.cpp:113
 msgctxt "Plugin|"
 msgid "X Settings dialog"
-msgstr "Диалог настроек в стиле OS X"
+msgstr "Диалог настройки X"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:114
 msgctxt "Plugin|"
@@ -2608,7 +2607,7 @@ msgstr "Реализация диалога настроек с верхним �
 #: ../../../core/__data_from_cmakelists_txt.cpp:115
 msgctxt "Plugin|"
 msgid "Simple roster storage"
-msgstr "Простое хранилище контактлиста"
+msgstr "Простое хранилище ростера"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:116
 msgctxt "Plugin|"
@@ -2680,12 +2679,12 @@ msgstr "Кинетическая прокрутка"
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:45
 msgctxt "Plugin|"
 msgid "Desktop Search Form"
-msgstr "Окно поиска для PC платформы"
+msgstr "Окно поиска для десктопов"
 
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:46
 msgctxt "Plugin|"
 msgid "Default search form optimized for Desktop systems"
-msgstr "Простая реализация окна поиска для персональных компьютеров"
+msgstr "Простая реализация окна поиска для десктопов"
 
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:48
 msgctxt "Plugin|"
@@ -2705,7 +2704,7 @@ msgstr "Отрисовщик контактов"
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:92
 msgctxt "Plugin|"
 msgid "Just simple"
-msgstr "Просто просто :-D"
+msgstr "Просто простой"
 
 #: ../../../core/src/corelayers/trayicon/simpletray.cpp:143
 msgctxt "Plugin|"
@@ -2730,7 +2729,7 @@ msgstr "Имя в вашем чате"
 #: ../../../core/src/widgets/profilecreationpage.ui:55
 msgctxt "ProfileCreationPage|"
 msgid "Profile id:"
-msgstr "Идент. профиля:"
+msgstr "ID профиля:"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:62
 msgctxt "ProfileCreationPage|"
@@ -2842,22 +2841,22 @@ msgstr "Стиль кнопок \"инструментов\""
 #: ../../../core/libqutim/utils.cpp:126
 msgctxt "QObject|"
 msgid "1st quarter"
-msgstr "1я четверть"
+msgstr "1-я четверть"
 
 #: ../../../core/libqutim/utils.cpp:129
 msgctxt "QObject|"
 msgid "2nd quarter"
-msgstr "2я четверть"
+msgstr "2-я четверть"
 
 #: ../../../core/libqutim/utils.cpp:132
 msgctxt "QObject|"
 msgid "3rd quarter"
-msgstr "3я четверть"
+msgstr "3-я четверть"
 
 #: ../../../core/libqutim/utils.cpp:135
 msgctxt "QObject|"
 msgid "4th quarter"
-msgstr "4я четверть"
+msgstr "4-я четверть"
 
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:92
 msgctxt "QObject|"
@@ -2869,30 +2868,29 @@ msgctxt "QObject|"
 msgid "Close"
 msgstr "Закрыть"
 
-# 1024метра
 #: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:215
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 GB"
-msgstr "%1 ГиБ"
+msgstr "%1 ГБ"
 
 #: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:217
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 MB"
-msgstr "%1 МиБ"
+msgstr "%1 MБ"
 
 #: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:219
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 KB"
-msgstr "%1 киБ"
+msgstr "%1 КБ"
 
 #: ../../../core/src/corelayers/filetransfer/filetransferjobmodel.cpp:222
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 B"
-msgstr "%1 Б"
+msgstr "%1 байт"
 
 #: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:95
 msgctxt "QObject|"
@@ -2927,7 +2925,7 @@ msgstr "Заблокировано сообщение от %1"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 has joined"
-msgstr "%1 зашел на огонек"
+msgstr "%1 присоединился"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:64
 #, qt-format
@@ -2939,7 +2937,7 @@ msgstr "%1 в сети"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 has left"
-msgstr "%1 ушел в реал"
+msgstr "%1 вышел"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:70
 #, qt-format
@@ -2957,7 +2955,7 @@ msgstr "%1 изменил статус на %2"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 has birthday today!!"
-msgstr "Сегодня день рождения у %1!!"
+msgstr "Сегодня день рождения у %1!"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:79
 #, qt-format
@@ -3147,7 +3145,7 @@ msgstr "parameters() вызвано перед parse()"
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:748
 msgctxt "QxtCommandOptions|"
 msgid "unrecognized parameters: "
-msgstr "неопознанные параметры: "
+msgstr "нераспознанные параметры: "
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:751
 #, qt-format
@@ -3191,7 +3189,7 @@ msgstr "Добавление аккаунта"
 #: ../../../core/__generated_from_service_names.cpp:5
 msgctxt "Service|"
 msgid "ApplicationWindow"
-msgstr "Окошко приложения"
+msgstr "Окно приложения"
 
 #: ../../../core/__generated_from_service_names.cpp:6
 msgctxt "Service|"
@@ -3267,7 +3265,7 @@ msgstr "Представление контактов"
 #: ../../../core/__generated_from_service_names.cpp:19
 msgctxt "Service|"
 msgid "Core::ContactDelegate"
-msgstr "Делегат контакта"
+msgstr "Представление контакта"
 
 #: ../../../core/__generated_from_service_names.cpp:20
 msgctxt "Service|"
@@ -3277,7 +3275,7 @@ msgstr "Обрабочик падений"
 #: ../../../core/__generated_from_service_names.cpp:21
 msgctxt "Service|"
 msgid "DataFormsBackend"
-msgstr "Формочки и кнопочки"
+msgstr "Формы и кнопки"
 
 #: ../../../core/__generated_from_service_names.cpp:22
 msgctxt "Service|"
@@ -3429,7 +3427,7 @@ msgstr "Открыть файл"
 #: ../../../core/libqutim/settingslayer.cpp:325
 msgctxt "Settings|"
 msgid "Log file (*.log)"
-msgstr "Офл отчета отладки (*.log)"
+msgstr "Файл журнала (*.log)"
 
 #: ../../../core/libqutim/settingslayer.cpp:451
 msgctxt "Settings|"
@@ -3787,9 +3785,7 @@ msgstr "Хранить служебные сообщения в истории"
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:77
 msgctxt "StackedChatBehavior|"
 msgid "Number of previous messages shown in new chats"
-msgstr ""
-"Кол-во сообщений в новом чате из прошлого диалога❢Кол-во подгружаемых в чат "
-"из истории сообщений"
+msgstr "Количество недавних сообщений, подгружаемых из истории"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:80
 msgctxt "StackedChatBehavior|"
