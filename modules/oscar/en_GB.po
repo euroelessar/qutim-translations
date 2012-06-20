@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-27 13:46+0000\n"
-"PO-Revision-Date: 2012-03-23 19:43+0000\n"
-"Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
+"PO-Revision-Date: 2012-06-19 12:06+0000\n"
+"Last-Translator: leonardo corato <leocor@gmail.com>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-28 05:48+0000\n"
-"X-Generator: Launchpad (build 15027)\n"
+"X-Launchpad-Export-Date: 2012-06-20 05:08+0000\n"
+"X-Generator: Launchpad (build 15435)\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
@@ -353,7 +353,7 @@ msgstr "Account suspended because of your age (age < 13)"
 #: ../../../protocols/oscar/src/connection.cpp:370
 msgctxt "ConnectionError|"
 msgid "Another client is loggin with this uin"
-msgstr ""
+msgstr "Another client is loggin with this uin"
 
 #: ../../../protocols/oscar/src/connection.cpp:372
 msgctxt "ConnectionError|"
@@ -1845,7 +1845,7 @@ msgstr "Item you want to modify not found in list"
 #: ../../../protocols/oscar/src/feedbag.cpp:179
 msgctxt "FeedbagError|"
 msgid "Item you want to add allready exists"
-msgstr ""
+msgstr "Item you want to add allready exists"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:181
 msgctxt "FeedbagError|"
@@ -1871,7 +1871,7 @@ msgstr "Can't add this contact because it requires authorization"
 #, qt-format
 msgctxt "FeedbagError|"
 msgid "Unknown error (Code: %1)"
-msgstr ""
+msgstr "Unknown error (Code: %1)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:455
 msgctxt "Gender|"
@@ -2666,7 +2666,7 @@ msgstr "Other"
 #: ../../../protocols/oscar/src/privacylists.cpp:207
 msgctxt "Menu|"
 msgid "Privacy status"
-msgstr ""
+msgstr "Privacy status"
 
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:33
 msgctxt "MetaInfo|"
@@ -2848,7 +2848,7 @@ msgstr "State"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:659
 msgctxt "MetaInfoOriginal|"
 msgid "Country"
-msgstr ""
+msgstr "Country"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:660
 msgctxt "MetaInfoWork|"
@@ -3093,7 +3093,7 @@ msgstr "Other"
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
 msgid "Oscar protocol"
-msgstr ""
+msgstr "Oscar protocol"
 
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:2
 #: ../../../protocols/oscar/src/oscarplugin.cpp:54
@@ -3105,12 +3105,12 @@ msgstr "Module-based implementation of Oscar protocol"
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
 msgid "Client identification of oscar contacts"
-msgstr ""
+msgstr "Client identification of oscar contacts"
 
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"
 msgid "Oscar additional statuses"
-msgstr ""
+msgstr "Oscar additional statuses"
 
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:6
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:213
@@ -3454,17 +3454,17 @@ msgstr "Master's degree"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:478
 msgctxt "StudyLevel|"
 msgid "PhD"
-msgstr ""
+msgstr "PhD"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:479
 msgctxt "StudyLevel|"
 msgid "Postdoctoral"
-msgstr ""
+msgstr "Postdoctoral"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:480
 msgctxt "StudyLevel|"
 msgid "University / College"
-msgstr ""
+msgstr "University / College"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:53
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:56
@@ -3472,37 +3472,37 @@ msgstr ""
 #: ../../../protocols/oscar/src/oscarplugin.cpp:58
 msgctxt "Task|"
 msgid "Author"
-msgstr ""
+msgstr "Author"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:54
 msgctxt "XStatus|"
 msgid "Angry"
-msgstr ""
+msgstr "Angry"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:57
 msgctxt "XStatus|"
 msgid "Taking a bath"
-msgstr ""
+msgstr "Taking a bath"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:60
 msgctxt "XStatus|"
 msgid "Tired"
-msgstr ""
+msgstr "Tired"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:63
 msgctxt "XStatus|"
 msgid "Party"
-msgstr ""
+msgstr "Party"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:66
 msgctxt "XStatus|"
 msgid "Drinking beer"
-msgstr ""
+msgstr "Drinking beer"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:69
 msgctxt "XStatus|"
 msgid "Thinking"
-msgstr ""
+msgstr "Thinking"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:72
 msgctxt "XStatus|"
@@ -3810,24 +3810,24 @@ msgstr "X-Status"
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:438
 msgctxt "qutim_sdk_0_3::oscar::XStatusHandler|"
 msgid "Show contact X-Status icon"
-msgstr ""
+msgstr "Show contact X-Status icon"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatussettings.cpp:39
 msgctxt "qutim_sdk_0_3::oscar::XStatusSettings|"
 msgid "Extended status"
-msgstr ""
+msgstr "Extended status"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatussettings.cpp:42
 msgctxt "qutim_sdk_0_3::oscar::XStatusSettings|"
 msgid "Ask for XStatuses automatically"
-msgstr ""
+msgstr "Ask for XStatuses automatically"
 
 #: ../../../protocols/oscar/plugins/xstatus/statusdialog.ui:14
 msgctxt "statusDialogClass|"
 msgid "Custom status"
-msgstr ""
+msgstr "Custom status"
 
 #: ../../../protocols/oscar/plugins/xstatus/statusdialog.ui:99
 msgctxt "statusDialogClass|"
 msgid "Set birthday/happy flag"
-msgstr ""
+msgstr "Set birthday/happy flag"
