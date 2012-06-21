@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-06-19 06:45+0000\n"
-"Last-Translator: Alexander Gavrilov <wowemuh@gmail.com>\n"
+"PO-Revision-Date: 2012-06-20 06:12+0000\n"
+"Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-20 05:08+0000\n"
+"X-Launchpad-Export-Date: 2012-06-21 05:46+0000\n"
 "X-Generator: Launchpad (build 15435)\n"
 "X-Qt-Contexts: true\n"
 "Language: ru\n"
@@ -1719,7 +1719,7 @@ msgstr "Введенное  - станет новым сочетанием кл�
 #: ../../../core/src/corelayers/shortcutsettings/keysequencewidget.cpp:272
 msgctxt "KeySequenceWidget|"
 msgid "No shortcut defined"
-msgstr "Не указаны сочетания клавиш"
+msgstr "Нет определённых сочетаний клавиш"
 
 #: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:14
 msgctxt "KineticScrollerSettings|"
@@ -2112,7 +2112,7 @@ msgstr "Простой диалог присоединения к конфере
 #: ../../../core/__data_from_cmakelists_txt.cpp:16
 msgctxt "Plugin|"
 msgid "Conference join dialog adopted for Desktop systems"
-msgstr ""
+msgstr "Окно входа в конференцию для десктопов"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:17
 msgctxt "Plugin|"
@@ -2390,7 +2390,7 @@ msgstr "Модель списка контактов, в которой отоб
 #: ../../../core/__data_from_cmakelists_txt.cpp:75
 msgctxt "Plugin|"
 msgid "Plain list contacts model"
-msgstr ""
+msgstr "Простой список контактов"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:76
 msgctxt "Plugin|"
@@ -2925,7 +2925,7 @@ msgstr "Заблокировано сообщение от %1"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 has joined"
-msgstr "%1 присоединился"
+msgstr "%1 зашел на огонек"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:64
 #, qt-format
@@ -2937,7 +2937,7 @@ msgstr "%1 в сети"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 has left"
-msgstr "%1 вышел"
+msgstr "%1 ушел в реальный мир"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:70
 #, qt-format
@@ -2955,7 +2955,7 @@ msgstr "%1 изменил статус на %2"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 has birthday today!!"
-msgstr "Сегодня день рождения у %1!"
+msgstr "Сегодня день рождения у %1!!"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:79
 #, qt-format
@@ -3885,7 +3885,7 @@ msgstr "Хранить служебные сообщения в истории"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:62
 msgctxt "TabbedChatBehavior|"
 msgid "Number of previous messages shown in new chats"
-msgstr "Количество предыдущих сообщений в новом чатике"
+msgstr "Количество недавних сообщений, подгружаемых из истории"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:65
 msgctxt "TabbedChatBehavior|"
