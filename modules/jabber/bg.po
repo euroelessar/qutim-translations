@@ -6,13 +6,13 @@ msgstr ""
 "PO-Revision-Date: 2012-05-04 19:29+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-06-28 12:52+0000\n"
 "X-Generator: Launchpad (build 15505)\n"
 "X-Qt-Contexts: true\n"
-"Language: bg\n"
 "X-Language: bg\n"
 "X-Source-Language: C\n"
 
@@ -1036,8 +1036,7 @@ msgstr "Приключване с регистрирането на сметка
 #: ../../../protocols/jabber/src/protocol/jaccountfinishpage.cpp:52
 #, qt-format
 msgctxt "Jabber::JAccountFinishPage|"
-msgid ""
-"Congratulations! Account creation is finished, your Jabber ID is \"%1\""
+msgid "Congratulations! Account creation is finished, your Jabber ID is \"%1\""
 msgstr ""
 "Поздравления! Регистрирането на сметка приключи, вашата Jabber сметка е "
 "\"%1\""
@@ -1686,8 +1685,7 @@ msgstr "Дата на раждане"
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:77
 msgctxt "Jreen::Error|"
-msgid ""
-"The sender has sent XML that is malformed or that cannot be processed."
+msgid "The sender has sent XML that is malformed or that cannot be processed."
 msgstr "Изпращачът прати деформиран XML, който не може да бъде обработен."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:80

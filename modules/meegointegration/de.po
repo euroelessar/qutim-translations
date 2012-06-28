@@ -11,6 +11,7 @@ msgstr ""
 "PO-Revision-Date: 2012-01-22 20:18+0000\n"
 "Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,39 +19,38 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-06-28 12:52+0000\n"
 "X-Generator: Launchpad (build 15505)\n"
 "X-Qt-Contexts: true\n"
-"Language: de\n"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:30
 msgctxt "AboutDialog|"
 msgid "Close"
 msgstr "Schließen"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:120
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:119
 msgctxt "AboutDialog|"
 msgid "Project site"
 msgstr "Projektseite"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:124
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:123
 msgctxt "AboutDialog|"
 msgid "Source code repository"
 msgstr "Quelltext"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:128
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:127
 msgctxt "AboutDialog|"
 msgid "Bug tracker"
 msgstr "Bugtracker"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:142
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:141
 msgctxt "AboutDialog|"
 msgid "Developers"
 msgstr "Entwickler"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:147
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:146
 msgctxt "AboutDialog|"
 msgid "Translators"
 msgstr "Übersetzer"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:152
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:151
 msgctxt "AboutDialog|"
 msgid "License"
 msgstr "Lizenz"
@@ -148,6 +148,21 @@ msgstr ""
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/AntispamPage.qml:45
 msgctxt "AntispamPage|"
 msgid "Handle auth requests"
+msgstr ""
+
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/AntispamPage.qml:49
+msgctxt "AntispamPage|"
+msgid "Question"
+msgstr ""
+
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/AntispamPage.qml:59
+msgctxt "AntispamPage|"
+msgid "Answers (semicolon as a separator)"
+msgstr ""
+
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/AntispamPage.qml:69
+msgctxt "AntispamPage|"
+msgid "Message on correct answer"
 msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AuthDialog.qml:64
@@ -268,8 +283,8 @@ msgctxt "CreateJabberPage|"
 msgid "Password:"
 msgstr ""
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateJabberPage.qml:39
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateJabberPage.qml:72
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateJabberPage.qml:40
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateJabberPage.qml:73
 msgctxt "CreateJabberPage|"
 msgid "Create"
 msgstr ""
@@ -289,8 +304,8 @@ msgctxt "CreateMrimPage|"
 msgid "Password:"
 msgstr ""
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateMrimPage.qml:39
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateMrimPage.qml:71
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateMrimPage.qml:40
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateMrimPage.qml:72
 msgctxt "CreateMrimPage|"
 msgid "Create"
 msgstr ""
@@ -310,8 +325,8 @@ msgctxt "CreateOscarPage|"
 msgid "Password:"
 msgstr ""
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateOscarPage.qml:39
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateOscarPage.qml:71
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateOscarPage.qml:40
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateOscarPage.qml:72
 msgctxt "CreateOscarPage|"
 msgid "Create"
 msgstr ""
@@ -403,30 +418,6 @@ msgctxt "JoinGroupChat|"
 msgid "Bookmarks"
 msgstr "Lesezeichen"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/bookmarksmodel.cpp:183
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/joingroupchatwrapper.cpp:147
-msgctxt "JoinGroupChat|"
-msgid "Join an existing or create a new groupchat"
-msgstr "Einen Chatraum betreten oder neu erstellen"
-
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/bookmarksmodel.cpp:185
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/joingroupchatwrapper.cpp:149
-msgctxt "JoinGroupChat|"
-msgid "Join"
-msgstr "Eintreten"
-
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/bookmarksmodel.cpp:187
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/joingroupchatwrapper.cpp:151
-msgctxt "JoinGroupChat|"
-msgid "Create, edit, or delete saved bookmarks"
-msgstr "Lesezeichen erstellen, bearbeiten oder löschen"
-
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/bookmarksmodel.cpp:189
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/joingroupchatwrapper.cpp:153
-msgctxt "JoinGroupChat|"
-msgid "Manage bookmarks"
-msgstr "Lesezeichen verwalten"
-
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/quickjoingroupchat.cpp:73
 msgctxt "JoinGroupChat|"
 msgid "Join groupchat"
@@ -517,52 +508,52 @@ msgctxt ""
 msgid "<Country>"
 msgstr ""
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:172
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:207
 msgctxt "Main|"
 msgid "Show/hide offline contacts"
 msgstr "Offline-Kontakte anzeigen/verstecken"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:176
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:211
 msgctxt "Main|"
 msgid "Join group chat"
 msgstr "Chatraum betreten"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:180
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:215
 msgctxt "Main|"
 msgid "About qutIM"
 msgstr "Über qutIM"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:184
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:219
 msgctxt "Main|"
 msgid "Add contact"
 msgstr "Kontakt hinzufügen"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:188
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:223
 msgctxt "Main|"
 msgid "Settings"
 msgstr "Einstellungen"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:206
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:241
 msgctxt "Main|"
 msgid "Send"
 msgstr "Senden"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:207
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:242
 msgctxt "Main|"
 msgid "Cancel"
 msgstr "Abbrechen"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:225
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:260
 msgctxt "Main|"
 msgid "Would you like to send details about your current setup?"
 msgstr "Wollen Sie Ihre Systemdaten übermitteln?"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:232
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:267
 msgctxt "Main|"
 msgid "Dont's ask me later"
 msgstr "Nicht mehr fragen"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:238
+#: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:273
 msgctxt "Main|"
 msgid "Information to be transferred to the qutIM's authors:"
 msgstr "Daten, die an die Autoren von qutIM übertragen werden:"
@@ -579,8 +570,8 @@ msgctxt "MeegoIntegration::AboutDialogWrapper|"
 msgid ""
 "<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 2 "
 "or (at your option) any later version.</div><div>qutIM resources such as "
-"themes, icons, sounds may come along with a different "
-"license.</div><br><hr><br>"
+"themes, icons, sounds may come along with a different license.</"
+"div><br><hr><br>"
 msgstr ""
 "<div><b>qutIM</b> %1 ist unter der GNU General Public License, Version 2 "
 "oder höher veröffentlicht.</div><div>Teile von qutIM (wie z.B. Themes, "
@@ -614,12 +605,12 @@ msgctxt "MeegoIntegration::PasswordDialogWrapper|"
 msgid "Enter password for account"
 msgstr "Passwort für das Konto eingeben"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/quicknotificationmanager.cpp:47
+#: ../../../plugins/meegointegration/meegoapplicationwindow/src/quicknotificationmanager.cpp:58
 msgctxt "MeegoIntegration::QuickNoficationManager|"
 msgid "Show popup"
 msgstr "Zeige Popup"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/quicknotificationmanager.cpp:87
+#: ../../../plugins/meegointegration/meegoapplicationwindow/src/quicknotificationmanager.cpp:132
 #, qt-format
 msgctxt "MeegoIntegration::QuickNoficationManager|"
 msgid "qutIM: %n new messages"
@@ -890,12 +881,26 @@ msgctxt "UrlPreviewPage|"
 msgid "HTML5 Video"
 msgstr ""
 
-#, qt-format
+#~ msgctxt "JoinGroupChat|"
+#~ msgid "Join an existing or create a new groupchat"
+#~ msgstr "Einen Chatraum betreten oder neu erstellen"
+
+#~ msgctxt "JoinGroupChat|"
+#~ msgid "Join"
+#~ msgstr "Eintreten"
+
+#~ msgctxt "JoinGroupChat|"
+#~ msgid "Create, edit, or delete saved bookmarks"
+#~ msgstr "Lesezeichen erstellen, bearbeiten oder löschen"
+
+#~ msgctxt "JoinGroupChat|"
+#~ msgid "Manage bookmarks"
+#~ msgstr "Lesezeichen verwalten"
+
 #~ msgctxt "ContactInfo|"
 #~ msgid "Recieved authorizarion request from %1:"
 #~ msgstr "Erlaubnisanfrage von %1 erhalten:"
 
-#, qt-format
 #~ msgctxt "ContactInfo|"
 #~ msgid "Send authorizarion request to %1:"
 #~ msgstr "Erlaubnisanfrage an %1 senden:"

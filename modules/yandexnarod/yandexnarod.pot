@@ -1,17 +1,8 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-23 17:52+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-28 12:53+0000\n"
-"X-Generator: Launchpad (build 15505)\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:58
@@ -129,8 +120,8 @@ msgid ""
 "</style></head><body style=\" font-family:'Liberation Sans'; font-size:10pt; "
 "font-weight:400; font-style:normal;\">\n"
 "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
-"family:'Verdana'; font-size:8pt;\"></p></body></html>"
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+"font-family:'Verdana'; font-size:8pt;\"></p></body></html>"
 msgstr ""
 
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:122

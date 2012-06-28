@@ -1,18 +1,8 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-23 17:51+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Launchpad-Export-Date: 2012-06-28 12:53+0000\n"
-"X-Generator: Launchpad (build 15505)\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:113
@@ -142,7 +132,6 @@ msgctxt "WThumbnailsProvider|"
 msgid "&middot; %n message(s) from chats."
 msgid_plural "&middot; %n message(s) from chats."
 msgstr[0] ""
-msgstr[1] ""
 
 #: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:132
 #, qt-format
@@ -150,7 +139,6 @@ msgctxt "WThumbnailsProvider|"
 msgid "&middot; %n message(s) from conferences."
 msgid_plural "&middot; %n message(s) from conferences."
 msgstr[0] ""
-msgstr[1] ""
 
 #: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:138
 msgctxt "WThumbnailsProvider|"

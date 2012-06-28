@@ -11,6 +11,7 @@ msgstr ""
 "PO-Revision-Date: 2012-03-24 01:34+0000\n"
 "Last-Translator: Ruslan Nigmatullin <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
+"Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,7 +19,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-06-28 12:52+0000\n"
 "X-Generator: Launchpad (build 15505)\n"
 "X-Qt-Contexts: true\n"
-"Language: en_GB\n"
 
 #: ../../../plugins/histman/src/chooseclientpage.ui:14
 msgctxt "ChooseClientPage|"
@@ -247,7 +247,6 @@ msgstr "Import history"
 #~ msgid "History has been succesfully imported."
 #~ msgstr "History has been succesfully imported."
 
-#, qt-format
 #~ msgctxt "HistoryManager::ImportHistoryPage|"
 #~ msgid "%n message(s) have been succesfully loaded to memory."
 #~ msgid_plural "%n message(s) have been succesfully loaded to memory."
