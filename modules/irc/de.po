@@ -2,18 +2,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-06 23:42+0000\n"
+"POT-Creation-Date: 2012-06-28 09:42+0000\n"
 "PO-Revision-Date: 2012-03-27 16:11+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2012-04-08 05:18+0000\n"
-"X-Generator: Launchpad (build 15060)\n"
+"X-Launchpad-Export-Date: 2012-06-28 12:52+0000\n"
+"X-Generator: Launchpad (build 15505)\n"
 "X-Qt-Contexts: true\n"
+"Language: de\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
 
@@ -862,18 +862,18 @@ msgid "Auto-join"
 msgstr "Automatisch betreten"
 
 #: ../../../protocols/irc/src/ircstandartctcphandler.cpp:81
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcStandartCtcpHandler|"
 msgid "Received CTCP-PING reply from %1: %2 seconds"
 msgid_plural "Received CTCP-PING reply from %1: %2 seconds"
-msgstr[0] "CTCP-Pingantwort von %1 empfangen: %2 Sekunde"
-msgstr[1] "CTCP-Pingantwort von %1 empfangen: %2 Sekunden"
+msgstr[0] ""
+msgstr[1] ""
 
 #: ../../../protocols/irc/src/ircstandartctcphandler.cpp:87
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcStandartCtcpHandler|"
 msgid "Received CTCP-%1 reply from %2: %3"
-msgstr "CTCP-%1 von %2 erhalten: %3"
+msgstr ""
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:63
 #, qt-format
@@ -922,3 +922,15 @@ msgstr "%1 ist als %2 eingeloggt"
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 is using a secure connection"
 msgstr "%1 verwendet eine sichere Verbindung"
+
+#, qt-format
+#~ msgctxt "qutim_sdk_0_3::irc::IrcStandartCtpcHandler|"
+#~ msgid "Received CTCP-PING reply from %1: %2 seconds"
+#~ msgid_plural "Received CTCP-PING reply from %1: %2 seconds"
+#~ msgstr[0] "CTCP-Pingantwort von %1 empfangen: %2 Sekunde"
+#~ msgstr[1] "CTCP-Pingantwort von %1 empfangen: %2 Sekunden"
+
+#, qt-format
+#~ msgctxt "qutim_sdk_0_3::irc::IrcStandartCtpcHandler|"
+#~ msgid "Received CTCP-%1 reply from %2: %3"
+#~ msgstr "CTCP-%1 von %2 erhalten: %3"

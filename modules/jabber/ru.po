@@ -6,13 +6,13 @@ msgstr ""
 "PO-Revision-Date: 2012-06-05 09:24+0000\n"
 "Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-06 05:28+0000\n"
-"X-Generator: Launchpad (build 15353)\n"
+"X-Launchpad-Export-Date: 2012-06-28 12:52+0000\n"
+"X-Generator: Launchpad (build 15505)\n"
 "X-Qt-Contexts: true\n"
+"Language: ru\n"
 "X-Language: ru\n"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:35
@@ -1041,7 +1041,8 @@ msgstr "Мастер"
 #: ../../../protocols/jabber/src/protocol/jaccountfinishpage.cpp:52
 #, qt-format
 msgctxt "Jabber::JAccountFinishPage|"
-msgid "Congratulations! Account creation is finished, your Jabber ID is \"%1\""
+msgid ""
+"Congratulations! Account creation is finished, your Jabber ID is \"%1\""
 msgstr "Поздравляем! Создание аккаунта завершено, ваш JID теперь \"%1\""
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:235
@@ -1396,7 +1397,8 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:439
 msgctxt "Jabber::JPGPSupport|"
 msgid "[ERROR: This message is encrypted, and you are unable to decrypt it.]"
-msgstr "[Ошибка: Это сообщение зашифровано, и вы не можете расшифровать его.]"
+msgstr ""
+"[Ошибка: Это сообщение зашифровано, и вы не можете расшифровать его.]"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:558
 #, qt-format
@@ -1611,7 +1613,8 @@ msgstr "Сохранить XMPP лог в файл"
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:404
 msgctxt "Jabber::XmlConsole|"
 msgid "OpenDocument Format (*.odf);;HTML file (*.html);;Plain text (*.txt)"
-msgstr "Формат OpenDocument (*.odf);;HTML файл (*.html);;Простой текст (*.txt)"
+msgstr ""
+"Формат OpenDocument (*.odf);;HTML файл (*.html);;Простой текст (*.txt)"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:133
 msgctxt "Jreen|"
@@ -1619,61 +1622,51 @@ msgid "Username"
 msgstr "Имя пользователя"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:135
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Familiar name"
 msgstr "Ник"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:137
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Password"
 msgstr "Пароль"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:139
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Full name"
 msgstr "Полное имя"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:141
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Given name"
 msgstr "Имя"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:143
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Family name"
 msgstr "Фамилия"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:145
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Email"
 msgstr "Электронная почта"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:147
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Street"
 msgstr "Улица"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:149
-#, fuzzy
 msgctxt "Jreen|"
 msgid "City"
 msgstr "Город"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:151
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Region"
 msgstr "Область"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:153
-#, fuzzy
 msgctxt "Jreen|"
 msgid "Postal code"
 msgstr "Почтовый индекс"
@@ -1695,7 +1688,8 @@ msgstr "Дата рождения"
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:77
 msgctxt "Jreen::Error|"
-msgid "The sender has sent XML that is malformed or that cannot be processed."
+msgid ""
+"The sender has sent XML that is malformed or that cannot be processed."
 msgstr ""
 "Отправитель послал неправильный XML запрос который не может быть обработан."
 
@@ -1871,7 +1865,8 @@ msgctxt "Jreen::Error|"
 msgid ""
 "The recipient or server understood the request but was not expecting it at "
 "this time."
-msgstr "Получатель или сервер поняли запрос, но не ожидали его в этот момент."
+msgstr ""
+"Получатель или сервер поняли запрос, но не ожидали его в этот момент."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:146
 msgctxt "Jreen::Error|"

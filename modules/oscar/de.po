@@ -2,17 +2,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-27 13:46+0000\n"
+"POT-Creation-Date: 2012-06-28 09:42+0000\n"
 "PO-Revision-Date: 2012-03-23 19:43+0000\n"
 "Last-Translator: Ruslan Nigmatullin <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-28 05:48+0000\n"
-"X-Generator: Launchpad (build 15027)\n"
+"X-Launchpad-Export-Date: 2012-06-28 12:52+0000\n"
+"X-Generator: Launchpad (build 15505)\n"
 "X-Qt-Contexts: true\n"
+"Language: de\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
 
@@ -294,12 +294,11 @@ msgid "The users num connected from this IP has reached the maximum"
 msgstr "Verbindungen von dieser IP-Adresse haben das Maximum erreicht"
 
 #: ../../../protocols/oscar/src/connection.cpp:350
-#, fuzzy
 msgctxt "ConnectionError|"
 msgid ""
 "The number of users connected from this IP has reached the maximum "
 "(reservation)"
-msgstr "Reservierungen von dieser IP-Adresse haben das Maximum erreicht"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:352
 msgctxt "ConnectionError|"
@@ -340,7 +339,8 @@ msgstr ""
 #: ../../../protocols/oscar/src/connection.cpp:364
 msgctxt "ConnectionError|"
 msgid "Can't register on the ICQ network. Reconnect in a few minutes"
-msgstr "Keine Anmeldung bei ICQ möglich. In ein paar Minuten wieder versuchen"
+msgstr ""
+"Keine Anmeldung bei ICQ möglich. In ein paar Minuten wieder versuchen"
 
 #: ../../../protocols/oscar/src/connection.cpp:366
 msgctxt "ConnectionError|"
@@ -353,10 +353,9 @@ msgid "Account suspended because of your age (age < 13)"
 msgstr "Konto gesperrt wegen deinem Alter (< 13)"
 
 #: ../../../protocols/oscar/src/connection.cpp:370
-#, fuzzy
 msgctxt "ConnectionError|"
 msgid "Another client is logging with this UIN"
-msgstr "Ihre UIN wird auf einem anderen Computer verwendet"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:372
 msgctxt "ConnectionError|"
@@ -3706,10 +3705,9 @@ msgid "Grant authorization"
 msgstr "Erlaubnis erteilen"
 
 #: ../../../protocols/oscar/src/authorization.cpp:170
-#, fuzzy
 msgctxt "qutim_sdk_0_3::oscar::Authorization|"
 msgid "Not authorized"
-msgstr "Erlaubnis erteilen"
+msgstr ""
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:83
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:210
@@ -3810,15 +3808,15 @@ msgstr ""
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"invisible\" icon if contact in invisible list"
 msgstr ""
-"\"Unsichtbar\" - Symbol anzeigen, wenn der Benutzer in der \"Unsichtbar-Liste"
-"\" ist"
+"\"Unsichtbar\" - Symbol anzeigen, wenn der Benutzer in der \"Unsichtbar-"
+"Liste\" ist"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:360
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"ignore\" icon if contact in ignore list"
 msgstr ""
-"\"Ignorieren\" - Symbol anzeigen, wenn der Benutzer in der \"Ignorieren-Liste"
-"\" ist"
+"\"Ignorieren\" - Symbol anzeigen, wenn der Benutzer in der \"Ignorieren-"
+"Liste\" ist"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:437
 msgctxt "qutim_sdk_0_3::oscar::XStatusHandler|"
@@ -3849,3 +3847,12 @@ msgstr "Persönlicher Status"
 msgctxt "statusDialogClass|"
 msgid "Set birthday/happy flag"
 msgstr "Mein Geburtstags-Symbol anzeigen"
+
+#~ msgctxt "ConnectionError|"
+#~ msgid ""
+#~ "The users num connected from this IP has reached the maximum (reservation)"
+#~ msgstr "Reservierungen von dieser IP-Adresse haben das Maximum erreicht"
+
+#~ msgctxt "ConnectionError|"
+#~ msgid "Another client is loggin with this uin"
+#~ msgstr "Ihre UIN wird auf einem anderen Computer verwendet"

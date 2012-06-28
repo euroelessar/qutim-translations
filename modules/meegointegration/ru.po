@@ -2,17 +2,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-19 16:52+0000\n"
-"PO-Revision-Date: 2012-06-04 14:22+0000\n"
-"Last-Translator: ma$terok <Unknown>\n"
+"POT-Creation-Date: 2012-06-28 09:42+0000\n"
+"PO-Revision-Date: 2012-06-28 10:31+0000\n"
+"Last-Translator: Ruslan Nigmatullin <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-05 05:15+0000\n"
-"X-Generator: Launchpad (build 15353)\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Launchpad-Export-Date: 2012-06-28 12:52+0000\n"
+"X-Generator: Launchpad (build 15505)\n"
 "X-Qt-Contexts: true\n"
+"Language: ru\n"
 "X-Language: ru\n"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:30
@@ -81,24 +83,21 @@ msgid "Form"
 msgstr "Форма"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/AccountCreatorPage.qml:63
-#, fuzzy
 msgctxt "AccountCreatorPage|"
 msgid "Remove account"
 msgstr "Удалить учетную запись"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/AccountCreatorPage.qml:71
-#, fuzzy
 msgctxt "AccountCreatorPage|"
 msgid "Do you really want to remove account?"
-msgstr "Вы действительно хотите удалить %1"
+msgstr "Вы действительно хотите удалить аккаунт?"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/AccountCreatorPage.qml:72
 msgctxt "AccountCreatorPage|"
 msgid "Remove"
-msgstr ""
+msgstr "Удалить"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/AccountCreatorPage.qml:73
-#, fuzzy
 msgctxt "AccountCreatorPage|"
 msgid "Cancel"
 msgstr "Отмена"
@@ -141,12 +140,12 @@ msgstr "Добавить контакт"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/AntispamPage.qml:40
 msgctxt "AntispamPage|"
 msgid "Enable antispam"
-msgstr ""
+msgstr "Включить антиспам"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/AntispamPage.qml:45
 msgctxt "AntispamPage|"
 msgid "Handle auth requests"
-msgstr ""
+msgstr "Обрабатывать запросы аутентификации"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AuthDialog.qml:64
 msgctxt "AuthDialog|"
@@ -163,34 +162,33 @@ msgstr "Отклонить"
 msgctxt "AutoAwayPage|"
 msgid "Set status \"Away\" in %n minutes"
 msgid_plural "Set status \"Away\" in %n minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Установить статус \"Отошел\" через %n минуту"
+msgstr[1] "Установить статус \"Отошел\" через %n минуты"
+msgstr[2] "Установить статус \"Отошел\" через %n минут"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/AutoAwayPage.qml:48
 #, qt-format
 msgctxt "AutoAwayPage|"
 msgid "Set status \"Not available\" in %n minutes"
 msgid_plural "Set status \"Not available\" in %n minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Установить статус \"Не доступен\" через %n минуту"
+msgstr[1] "Установить статус \"Не доступен\" через %n минуты"
+msgstr[2] "Установить статус \"Не доступен\" через %n минут"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/BlogImproverPage.qml:31
-#, fuzzy
 msgctxt "BlogImproverPage|"
 msgid "Enable Psto integration"
-msgstr "Интеграция с MeeGo"
+msgstr "Включить интеграцию с Psto"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/BlogImproverPage.qml:35
-#, fuzzy
 msgctxt "BlogImproverPage|"
 msgid "Enable Juick integration"
-msgstr "Интеграция с MeeGo"
+msgstr "Включить интеграцию с Juick"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/BlogImproverPage.qml:39
-#, fuzzy
 msgctxt "BlogImproverPage|"
 msgid "Enable Bnw integration"
-msgstr "Интеграция с MeeGo"
+msgstr "Включить интеграцию с Bnw"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Chat.qml:60
 msgctxt "Chat|"
@@ -200,50 +198,49 @@ msgstr "Написать сообщение"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/ChatPage.qml:81
 msgctxt "ChatPage|"
 msgid "Style"
-msgstr ""
+msgstr "Оформление"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/ChatPage.qml:99
 msgctxt "ChatPage|"
 msgid "Style variant"
-msgstr ""
+msgstr "Тип оформления"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/ChatPage.qml:109
 msgctxt "ChatPage|"
 msgid "Show user icons"
-msgstr ""
+msgstr "Показывать аватарки собеседников"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/ChatPage.qml:117
 msgctxt "ChatPage|"
 msgid "Show header"
-msgstr ""
+msgstr "Показывать тему"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/ChatPage.qml:125
 msgctxt "ChatPage|"
 msgid "Font family"
-msgstr ""
+msgstr "Шрифт"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/ChatPage.qml:129
 msgctxt "ChatPage|"
 msgid "Font size"
-msgstr ""
+msgstr "Размер шрифта"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/authdialogwrapper.cpp:112
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "ContactInfo|"
 msgid "Received authorization request from %1:"
-msgstr "Принята авторизация от %1:"
+msgstr "Получен запрос авторизации от %1:"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/authdialogwrapper.cpp:115
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "ContactInfo|"
 msgid "Send authorization request to %1:"
-msgstr "Отправить запрос авторизации %1:"
+msgstr "Послать запрос авторизации к %1:"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/ContactList.qml:90
-#, fuzzy
 msgctxt "ContactList|"
 msgid "Search contact"
-msgstr "Имя для контакта"
+msgstr "Найти контакт"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/ContactList.qml:130
 msgctxt "ContactList|"
@@ -258,116 +255,112 @@ msgstr "О qutIM"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateJabberPage.qml:17
 msgctxt "CreateJabberPage|"
 msgid "Jabber ID:"
-msgstr ""
+msgstr "Jabber ID:"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateJabberPage.qml:24
 msgctxt "CreateJabberPage|"
 msgid "Next"
-msgstr ""
+msgstr "Далее"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateJabberPage.qml:32
-#, fuzzy
 msgctxt "CreateJabberPage|"
 msgid "Password:"
-msgstr "Пароль"
+msgstr "Пароль:"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateJabberPage.qml:39
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateJabberPage.qml:72
 msgctxt "CreateJabberPage|"
 msgid "Create"
-msgstr ""
+msgstr "Создать"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateMrimPage.qml:17
 msgctxt "CreateMrimPage|"
 msgid "Email:"
-msgstr ""
+msgstr "Электропочта:"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateMrimPage.qml:24
 msgctxt "CreateMrimPage|"
 msgid "Next"
-msgstr ""
+msgstr "Далее"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateMrimPage.qml:32
-#, fuzzy
 msgctxt "CreateMrimPage|"
 msgid "Password:"
-msgstr "Пароль"
+msgstr "Пароль:"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateMrimPage.qml:39
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateMrimPage.qml:71
 msgctxt "CreateMrimPage|"
 msgid "Create"
-msgstr ""
+msgstr "Создать"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateOscarPage.qml:17
 msgctxt "CreateOscarPage|"
 msgid "UIN:"
-msgstr ""
+msgstr "UIN (номер ICQ):"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateOscarPage.qml:24
 msgctxt "CreateOscarPage|"
 msgid "Next"
-msgstr ""
+msgstr "Далее"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateOscarPage.qml:32
-#, fuzzy
 msgctxt "CreateOscarPage|"
 msgid "Password:"
-msgstr "Пароль"
+msgstr "Пароль:"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateOscarPage.qml:39
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateOscarPage.qml:71
 msgctxt "CreateOscarPage|"
 msgid "Create"
-msgstr ""
+msgstr "Создать"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/HighlighterPage.qml:45
 msgctxt "HighlighterPage|"
 msgid "Perl-like"
-msgstr ""
+msgstr "Perl-подобные"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/HighlighterPage.qml:47
 msgctxt "HighlighterPage|"
 msgid "Improved perl-like"
-msgstr ""
+msgstr "Улучшенные perl-подобные"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/HighlighterPage.qml:49
 msgctxt "HighlighterPage|"
 msgid "Shell-like"
-msgstr ""
+msgstr "Shell-подобные"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/HighlighterPage.qml:51
 msgctxt "HighlighterPage|"
 msgid "Shell-like Unix"
-msgstr ""
+msgstr "Shell-подобные Unix"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/HighlighterPage.qml:53
 msgctxt "HighlighterPage|"
 msgid "Fixed string"
-msgstr ""
+msgstr "Фиксированная строка"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/HighlighterPage.qml:55
 msgctxt "HighlighterPage|"
 msgid "W3C XML Schema"
-msgstr ""
+msgstr "Схема W3C XML"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/HighlighterPage.qml:66
 msgctxt "HighlighterPage|"
 msgid "Enable auto highlights wher your nick was mentioned."
-msgstr ""
+msgstr "Включить подсветку упоминания вашего ника в чате."
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/HighlighterPage.qml:87
 msgctxt "HighlighterPage|"
 msgid "Add regular expression"
-msgstr ""
+msgstr "Добавить регулярное выражение"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/HighlighterPage.qml:88
 msgctxt "HighlighterPage|"
 msgid "Add"
-msgstr ""
+msgstr "Добавить"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/HighlighterPage.qml:89
-#, fuzzy
 msgctxt "HighlighterPage|"
 msgid "Cancel"
 msgstr "Отмена"
@@ -375,28 +368,27 @@ msgstr "Отмена"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/HighlighterPage.qml:95
 msgctxt "HighlighterPage|"
 msgid "Pattern syntax"
-msgstr ""
+msgstr "Синтаксис шаблона"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/HighlighterPage.qml:104
 msgctxt "HighlighterPage|"
 msgid "Regular expression"
-msgstr ""
+msgstr "Регулярное выражение"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/JabberPage.qml:30
 msgctxt "JabberPage|"
 msgid "Jabber ID:"
-msgstr ""
+msgstr "Jabber ID:"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/JabberPage.qml:33
-#, fuzzy
 msgctxt "JabberPage|"
 msgid "Password:"
-msgstr "Пароль"
+msgstr "Пароль:"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/JabberPage.qml:41
 msgctxt "JabberPage|"
 msgid "Resource:"
-msgstr ""
+msgstr "Ресурс:"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/bookmarksmodel.cpp:145
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/joingroupchatwrapper.cpp:115
@@ -494,35 +486,35 @@ msgstr "Сохранить в закладки"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/LanguagesPage.qml:63
 msgctxt "LanguagesPage|"
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/LanguagesPage.qml:64
 msgctxt "LanguagesPage|"
 msgid "No"
-msgstr ""
+msgstr "Нет"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/LanguagesPage.qml:67
 msgctxt "LanguagesPage|"
 msgid "Language change"
-msgstr ""
+msgstr "Смена языка"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/LanguagesPage.qml:68
 #, qt-format
 msgctxt "LanguagesPage|"
 msgid "Do you really want to change qutIM's language to %1?"
-msgstr ""
+msgstr "Вы действительно хотите изменить язык qutIM'а на %1?"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/languagesmodel.cpp:79
 msgctxt "Localization|Localized language name"
 msgid "<Language>"
-msgstr ""
+msgstr "Русский"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/languagesmodel.cpp:82
 msgctxt ""
 "Localization|Localized country name, empty if localization is country-"
 "independent"
 msgid "<Country>"
-msgstr ""
+msgstr "Российская Федерация"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/Main.qml:172
 msgctxt "Main|"
@@ -586,13 +578,13 @@ msgctxt "MeegoIntegration::AboutDialogWrapper|"
 msgid ""
 "<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 2 "
 "or (at your option) any later version.</div><div>qutIM resources such as "
-"themes, icons, sounds may come along with a different license.</"
-"div><br><hr><br>"
+"themes, icons, sounds may come along with a different "
+"license.</div><br><hr><br>"
 msgstr ""
 "<div><b>qutIM</b> %1 лицензирован под GNU General Public License, версии 2 "
 "или (по вашему желанию) любой поздней версией.</div><div>Ресурсы qutIM, "
-"такие как темы, пиктограммы, звуки могут поставляться с другой лицензией.</"
-"div><br><hr><br>"
+"такие как темы, пиктограммы, звуки могут поставляться с другой "
+"лицензией.</div><br><hr><br>"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:143
 msgctxt "MeegoIntegration::AccountCreatorList|"
@@ -607,7 +599,6 @@ msgstr "Настройки учетной записи"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:152
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:154
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:193
-#, fuzzy
 msgctxt "MeegoIntegration::AccountCreatorList|"
 msgid "Remove account"
 msgstr "Удалить учетную запись"
@@ -633,8 +624,9 @@ msgstr "Показать всплывающее сообщение"
 msgctxt "MeegoIntegration::QuickNoficationManager|"
 msgid "qutIM: %n new messages"
 msgid_plural "qutIM: %n new messages"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "qutIM: %n новое сообщение"
+msgstr[1] "qutIM: %n новых сообщений"
+msgstr[2] "qutIM: %n новых сообщений"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/quickpassworddialog.cpp:35
 #, qt-format
@@ -650,29 +642,27 @@ msgstr ""
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/quickproxyhelper.cpp:97
 msgctxt "MeegoIntegration::QuickProxyHelper|"
 msgid "Type"
-msgstr ""
+msgstr "Тип"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/MrimPage.qml:28
 msgctxt "MrimPage|"
 msgid "Email:"
-msgstr ""
+msgstr "Электронная почта:"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/MrimPage.qml:31
-#, fuzzy
 msgctxt "MrimPage|"
 msgid "Password:"
-msgstr "Пароль"
+msgstr "Пароль:"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/OscarPage.qml:28
 msgctxt "OscarPage|"
 msgid "UIN:"
-msgstr ""
+msgstr "UIN (номер ICQ):"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/OscarPage.qml:31
-#, fuzzy
 msgctxt "OscarPage|"
 msgid "Password:"
-msgstr "Пароль"
+msgstr "Пароль:"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/PasswordDialog.qml:56
 msgctxt "PasswordDialog|"
@@ -839,27 +829,27 @@ msgstr "Простое создание учетных записей MeeGo"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:94
 msgctxt "Plugin|"
 msgid "MeeGo icon loader noop"
-msgstr ""
+msgstr "MeeGo заглушка загрузки иконок"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:95
 msgctxt "Plugin|"
 msgid "Noop for icon loader service"
-msgstr ""
+msgstr "Сервис-заглушка для загрузки иконок"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/ProxyPage.qml:32
 msgctxt "ProxyPage|"
 msgid "Do not use proxy"
-msgstr ""
+msgstr "Без прокси"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/ProxyPage.qml:34
 msgctxt "ProxyPage|"
 msgid "Use global proxy"
-msgstr ""
+msgstr "Использовать глобальный прокси"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/ProxyPage.qml:69
 msgctxt "ProxyPage|"
 msgid "Proxy type"
-msgstr ""
+msgstr "Тип прокси"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/quickaddaccountdialog.cpp:46
 msgctxt "Settings|"
@@ -869,34 +859,44 @@ msgstr "Учетные записи"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/SoundThemePage.qml:17
 msgctxt "SoundThemePage|"
 msgid "No sound"
-msgstr ""
+msgstr "Без звука"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/SoundThemePage.qml:42
 msgctxt "SoundThemePage|"
 msgid "Theme name"
-msgstr ""
+msgstr "Имя темы"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/SwitchRow.qml:18
 msgctxt "SwitchRow|"
 msgid "Set status \"Away\""
-msgstr ""
+msgstr "Установить статус \"Отошел\""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/UrlPreviewPage.qml:33
 msgctxt "UrlPreviewPage|"
 msgid "Images preview"
-msgstr ""
+msgstr "Просмотр рисунка"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/UrlPreviewPage.qml:37
 msgctxt "UrlPreviewPage|"
 msgid "YouTube preview"
-msgstr ""
+msgstr "Превью ролика YouTube"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/UrlPreviewPage.qml:41
 msgctxt "UrlPreviewPage|"
 msgid "HTML5 Audio"
-msgstr ""
+msgstr "HTML5 Аудио"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/UrlPreviewPage.qml:45
 msgctxt "UrlPreviewPage|"
 msgid "HTML5 Video"
-msgstr ""
+msgstr "HTML5 Видео"
+
+#, qt-format
+#~ msgctxt "ContactInfo|"
+#~ msgid "Recieved authorizarion request from %1:"
+#~ msgstr "Принята авторизация от %1:"
+
+#, qt-format
+#~ msgctxt "ContactInfo|"
+#~ msgid "Send authorizarion request to %1:"
+#~ msgstr "Отправить запрос авторизации %1:"

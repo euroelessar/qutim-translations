@@ -2,18 +2,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-06 23:42+0000\n"
+"POT-Creation-Date: 2012-06-28 09:42+0000\n"
 "PO-Revision-Date: 2012-03-27 16:11+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2012-04-08 05:18+0000\n"
-"X-Generator: Launchpad (build 15060)\n"
+"X-Launchpad-Export-Date: 2012-06-28 12:52+0000\n"
+"X-Generator: Launchpad (build 15505)\n"
 "X-Qt-Contexts: true\n"
+"Language: bg\n"
 "X-Language: bg\n"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:14
@@ -764,7 +764,8 @@ msgstr "Изпращане WHOIS заявка"
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Server %1 (Version %2), User modes: %3, Channel modes: %4"
-msgstr "Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4"
+msgstr ""
+"Сървър %1 (версия %2) Потребителски режими: %3, Режими на каналите: %4"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:278
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
@@ -861,18 +862,18 @@ msgid "Auto-join"
 msgstr "Автоматично присъединяване"
 
 #: ../../../protocols/irc/src/ircstandartctcphandler.cpp:81
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcStandartCtcpHandler|"
 msgid "Received CTCP-PING reply from %1: %2 seconds"
 msgid_plural "Received CTCP-PING reply from %1: %2 seconds"
-msgstr[0] "Получен CTCP-PING отговор от %1: %2 секунда"
-msgstr[1] "Получен CTCP-PING отговор от %1: %2 секунди"
+msgstr[0] ""
+msgstr[1] ""
 
 #: ../../../protocols/irc/src/ircstandartctcphandler.cpp:87
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcStandartCtcpHandler|"
 msgid "Received CTCP-%1 reply from %2: %3"
-msgstr "Получен CTCP-%1 отговор от %2: %3"
+msgstr ""
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:63
 #, qt-format
@@ -921,3 +922,15 @@ msgstr "%1 се е вписал като %2"
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 is using a secure connection"
 msgstr "%1 използва защитена връзка"
+
+#, qt-format
+#~ msgctxt "qutim_sdk_0_3::irc::IrcStandartCtpcHandler|"
+#~ msgid "Received CTCP-PING reply from %1: %2 seconds"
+#~ msgid_plural "Received CTCP-PING reply from %1: %2 seconds"
+#~ msgstr[0] "Получен CTCP-PING отговор от %1: %2 секунда"
+#~ msgstr[1] "Получен CTCP-PING отговор от %1: %2 секунди"
+
+#, qt-format
+#~ msgctxt "qutim_sdk_0_3::irc::IrcStandartCtpcHandler|"
+#~ msgid "Received CTCP-%1 reply from %2: %3"
+#~ msgstr "Получен CTCP-%1 отговор от %2: %3"

@@ -7,19 +7,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-24 00:01+0000\n"
+"POT-Creation-Date: 2012-06-28 09:42+0000\n"
 "PO-Revision-Date: 2012-05-04 22:02+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
-"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2012-05-05 05:46+0000\n"
-"X-Generator: Launchpad (build 15195)\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Launchpad-Export-Date: 2012-06-28 12:52+0000\n"
+"X-Generator: Launchpad (build 15505)\n"
 "X-Qt-Contexts: true\n"
+"Language: uk\n"
 
 #: ../../../plugins/histman/src/chooseclientpage.ui:14
 msgctxt "ChooseClientPage|"
@@ -174,10 +174,9 @@ msgid "Manager merges history, it make take several minutes."
 msgstr "Менеджер об'єднує історію, це може зайняти декілька хвилин."
 
 #: ../../../plugins/histman/src/dumphistorypage.cpp:145
-#, fuzzy
 msgctxt "HistoryManager::DumpHistoryPage|"
 msgid "History has been successfully imported."
-msgstr "Історія була успішно імпортована."
+msgstr ""
 
 #: ../../../plugins/histman/src/historymanagerwindow.cpp:85
 #: ../../../plugins/histman/src/historymanagerwindow.cpp:287
@@ -202,13 +201,12 @@ msgstr ""
 "Менеджер завантажує всю історію в пам'ять, це може зайняти кілька хвилин."
 
 #: ../../../plugins/histman/src/importhistorypage.cpp:97
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "HistoryManager::ImportHistoryPage|"
 msgid "%n message(s) have been successfully loaded to memory."
 msgid_plural "%n message(s) have been successfully loaded to memory."
-msgstr[0] "%n повідомлень(ня) були успішно завантажені в пам'ять."
-msgstr[1] "%n повідомлень(ня) були успішно завантажені в пам'ять."
-msgstr[2] "%n повідомлень(ня) були успішно завантажені в пам'ять."
+msgstr[0] ""
+msgstr[1] ""
 
 #: ../../../plugins/histman/src/importhistorypage.cpp:98
 #, qt-format
@@ -246,3 +244,15 @@ msgstr "Плагін дозволяє імпортувати історію в q
 msgctxt "Plugin|"
 msgid "Import history"
 msgstr "Імпорт історії"
+
+#~ msgctxt "HistoryManager::DumpHistoryPage|"
+#~ msgid "History has been succesfully imported."
+#~ msgstr "Історія була успішно імпортована."
+
+#, qt-format
+#~ msgctxt "HistoryManager::ImportHistoryPage|"
+#~ msgid "%n message(s) have been succesfully loaded to memory."
+#~ msgid_plural "%n message(s) have been succesfully loaded to memory."
+#~ msgstr[0] "%n повідомлень(ня) були успішно завантажені в пам'ять."
+#~ msgstr[1] "%n повідомлень(ня) були успішно завантажені в пам'ять."
+#~ msgstr[2] "%n повідомлень(ня) були успішно завантажені в пам'ять."
