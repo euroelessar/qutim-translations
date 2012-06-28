@@ -18,7 +18,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-06-07 05:08+0000\n"
 "X-Generator: Launchpad (build 15353)\n"
 "X-Qt-Contexts: true\n"
-"Language: uk\n"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -299,9 +298,11 @@ msgstr ""
 "Користувачі, які підключилися з одного ІП, перевищили допустиму кількість"
 
 #: ../../../protocols/oscar/src/connection.cpp:350
+#, fuzzy
 msgctxt "ConnectionError|"
 msgid ""
-"The users num connected from this IP has reached the maximum (reservation)"
+"The number of users connected from this IP has reached the maximum "
+"(reservation)"
 msgstr ""
 "Користувачі, які підключилися з одного ІП, перевищили допустиму кількість "
 "(резерв)"
@@ -356,8 +357,9 @@ msgid "Account suspended because of your age (age < 13)"
 msgstr "Ваш обліковий запис тимчасово заблоковано через ваш вік (< 13)"
 
 #: ../../../protocols/oscar/src/connection.cpp:370
+#, fuzzy
 msgctxt "ConnectionError|"
-msgid "Another client is loggin with this uin"
+msgid "Another client is logging with this UIN"
 msgstr "Хтось також увійшов за вашим номером"
 
 #: ../../../protocols/oscar/src/connection.cpp:372
@@ -517,27 +519,27 @@ msgctxt "ContactInfo|"
 msgid "Cookie"
 msgstr "Кукі"
 
-#: ../../../protocols/oscar/src/authorization.cpp:44
+#: ../../../protocols/oscar/src/authorization.cpp:45
 msgctxt "ContactList|"
 msgid "Reask authorization"
 msgstr "Повторна авторизація"
 
-#: ../../../protocols/oscar/src/authorization.cpp:45
+#: ../../../protocols/oscar/src/authorization.cpp:46
 msgctxt "ContactList|"
 msgid "Ask authorization"
 msgstr "Запитати авторизацію"
 
-#: ../../../protocols/oscar/src/authorization.cpp:104
+#: ../../../protocols/oscar/src/authorization.cpp:105
 msgctxt "ContactList|"
 msgid "Authorization request accepted"
 msgstr "Прийнятий запит авторизації"
 
-#: ../../../protocols/oscar/src/authorization.cpp:105
+#: ../../../protocols/oscar/src/authorization.cpp:106
 msgctxt "ContactList|"
 msgid "Authorization request declined"
 msgstr "Запит авторизації відхилено"
 
-#: ../../../protocols/oscar/src/authorization.cpp:143
+#: ../../../protocols/oscar/src/authorization.cpp:144
 msgctxt "ContactList|"
 msgid "Please, authorize me"
 msgstr "Будь-ласка, додайте мене до вашого списку контактів"
@@ -3702,9 +3704,15 @@ msgctxt "qutim_sdk_0_3::oscar::AbstractMetaRequest|"
 msgid "The server did not answer on the metarequest"
 msgstr "Сервер не відповів на метазапит"
 
-#: ../../../protocols/oscar/src/authorization.cpp:73
+#: ../../../protocols/oscar/src/authorization.cpp:74
 msgctxt "qutim_sdk_0_3::oscar::Authorization|"
 msgid "Grant authorization"
+msgstr "Авторизувати"
+
+#: ../../../protocols/oscar/src/authorization.cpp:170
+#, fuzzy
+msgctxt "qutim_sdk_0_3::oscar::Authorization|"
+msgid "Not authorized"
 msgstr "Авторизувати"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:83

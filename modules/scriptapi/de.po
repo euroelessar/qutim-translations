@@ -16,7 +16,6 @@ msgstr ""
 "X-Language: de\n"
 "X-Source-Language: en\n"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:40
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:30
 msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
@@ -26,19 +25,6 @@ msgstr "Ruslan Nigmatullin"
 msgctxt "Ignorer|"
 msgid "Evil ids"
 msgstr "Böse IDs"
-
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:36
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:98
-msgctxt "Plugin|"
-msgid "Antispam"
-msgstr "Antispam"
-
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:37
-msgctxt "Plugin|"
-msgid "Blocks spam by qurstion-answer pair"
-msgstr ""
-"Blockiert Nachrichten von unbekannten Kontakten, wenn sie eine vorgegebene "
-"Frage nicht beantworten können"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:26
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:39
@@ -66,55 +52,56 @@ msgctxt "Plugin|"
 msgid "Added ability to create plugins at JavaScript"
 msgstr "Ermöglicht JavaScript-Plugins"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:41
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:31
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Entwickler"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:47
-msgctxt "plugin|"
-msgid ""
-"Beer, wine, vodka, champagne: after which drink in this sequence I should "
-"stop?"
-msgstr ""
-"Hi, ich bin der automatische Anti-Spam-Automat! :-)\n"
-"\n"
-"Bitte beantworte diese Nachricht mit\n"
-"Hallo, ich bin kein Bot!\n"
-"um sicher zu gehen, dass du ein Mensch bist."
+#~ msgctxt "Plugin|"
+#~ msgid "Antispam"
+#~ msgstr "Antispam"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:48
-msgctxt "plugin|"
-msgid "Vodka"
-msgstr "Hallo, ich bin kein Bot!;hallo, ich bin kein bot!"
+#~ msgctxt "Plugin|"
+#~ msgid "Blocks spam by qurstion-answer pair"
+#~ msgstr ""
+#~ "Blockiert Nachrichten von unbekannten Kontakten, wenn sie eine "
+#~ "vorgegebene Frage nicht beantworten können"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:49
-msgctxt "plugin|"
-msgid "We are ready to drink with you!"
-msgstr "Glückwunsch, das war in der Tat die richtige Antwort!"
+#~ msgctxt "plugin|"
+#~ msgid ""
+#~ "Beer, wine, vodka, champagne: after which drink in this sequence I should "
+#~ "stop?"
+#~ msgstr ""
+#~ "Hi, ich bin der automatische Anti-Spam-Automat! :-)\n"
+#~ "\n"
+#~ "Bitte beantworte diese Nachricht mit\n"
+#~ "Hallo, ich bin kein Bot!\n"
+#~ "um sicher zu gehen, dass du ein Mensch bist."
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:112
-msgctxt "plugin|"
-msgid "Enabled:"
-msgstr "Aktiviert:"
+#~ msgctxt "plugin|"
+#~ msgid "Vodka"
+#~ msgstr "Hallo, ich bin kein Bot!;hallo, ich bin kein bot!"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:113
-msgctxt "plugin|"
-msgid "Block authorization requests:"
-msgstr "Erlaubnisanfragen blockieren:"
+#~ msgctxt "plugin|"
+#~ msgid "We are ready to drink with you!"
+#~ msgstr "Glückwunsch, das war in der Tat die richtige Antwort!"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:114
-msgctxt "plugin|"
-msgid "Question:"
-msgstr "Frage:"
+#~ msgctxt "plugin|"
+#~ msgid "Enabled:"
+#~ msgstr "Aktiviert:"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:115
-msgctxt "plugin|"
-msgid "Answers (semicolon as separator):"
-msgstr "Richtige Antworten (Strichpunkt als Trennzeichen):"
+#~ msgctxt "plugin|"
+#~ msgid "Block authorization requests:"
+#~ msgstr "Erlaubnisanfragen blockieren:"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:116
-msgctxt "plugin|"
-msgid "Message on correct answer:"
-msgstr "Nachricht bei richtiger Beantwortung:"
+#~ msgctxt "plugin|"
+#~ msgid "Question:"
+#~ msgstr "Frage:"
+
+#~ msgctxt "plugin|"
+#~ msgid "Answers (semicolon as separator):"
+#~ msgstr "Richtige Antworten (Strichpunkt als Trennzeichen):"
+
+#~ msgctxt "plugin|"
+#~ msgid "Message on correct answer:"
+#~ msgstr "Nachricht bei richtiger Beantwortung:"

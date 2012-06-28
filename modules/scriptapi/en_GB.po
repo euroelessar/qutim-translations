@@ -19,7 +19,6 @@ msgstr ""
 "X-Generator: Launchpad (build 15060)\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:40
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:30
 msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
@@ -29,17 +28,6 @@ msgstr "Ruslan Nigmatullin"
 msgctxt "Ignorer|"
 msgid "Evil ids"
 msgstr "Evil ids"
-
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:36
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:98
-msgctxt "Plugin|"
-msgid "Antispam"
-msgstr "Antispam"
-
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:37
-msgctxt "Plugin|"
-msgid "Blocks spam by qurstion-answer pair"
-msgstr "Blocks spam by question-answer pair"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:26
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:39
@@ -67,52 +55,51 @@ msgctxt "Plugin|"
 msgid "Added ability to create plugins at JavaScript"
 msgstr "Added ability to create plugins at JavaScript"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:41
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:31
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Developer"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:47
-msgctxt "plugin|"
-msgid ""
-"Beer, wine, vodka, champagne: after which drink in this sequence I should "
-"stop?"
-msgstr ""
-"Beer, wine, vodka, champagne: after which drink in this sequence I should "
-"stop?"
+#~ msgctxt "Plugin|"
+#~ msgid "Antispam"
+#~ msgstr "Antispam"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:48
-msgctxt "plugin|"
-msgid "Vodka"
-msgstr "Vodka"
+#~ msgctxt "Plugin|"
+#~ msgid "Blocks spam by qurstion-answer pair"
+#~ msgstr "Blocks spam by question-answer pair"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:49
-msgctxt "plugin|"
-msgid "We are ready to drink with you!"
-msgstr "We are ready to drink with you!"
+#~ msgctxt "plugin|"
+#~ msgid ""
+#~ "Beer, wine, vodka, champagne: after which drink in this sequence I should "
+#~ "stop?"
+#~ msgstr ""
+#~ "Beer, wine, vodka, champagne: after which drink in this sequence I should "
+#~ "stop?"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:112
-msgctxt "plugin|"
-msgid "Enabled:"
-msgstr "Enabled:"
+#~ msgctxt "plugin|"
+#~ msgid "Vodka"
+#~ msgstr "Vodka"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:113
-msgctxt "plugin|"
-msgid "Block authorization requests:"
-msgstr "Block authorization requests:"
+#~ msgctxt "plugin|"
+#~ msgid "We are ready to drink with you!"
+#~ msgstr "We are ready to drink with you!"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:114
-msgctxt "plugin|"
-msgid "Question:"
-msgstr "Question:"
+#~ msgctxt "plugin|"
+#~ msgid "Enabled:"
+#~ msgstr "Enabled:"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:115
-msgctxt "plugin|"
-msgid "Answers (semicolon as separator):"
-msgstr "Answers (semicolon as separator):"
+#~ msgctxt "plugin|"
+#~ msgid "Block authorization requests:"
+#~ msgstr "Block authorization requests:"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:116
-msgctxt "plugin|"
-msgid "Message on correct answer:"
-msgstr "Message on correct answer:"
+#~ msgctxt "plugin|"
+#~ msgid "Question:"
+#~ msgstr "Question:"
+
+#~ msgctxt "plugin|"
+#~ msgid "Answers (semicolon as separator):"
+#~ msgstr "Answers (semicolon as separator):"
+
+#~ msgctxt "plugin|"
+#~ msgid "Message on correct answer:"
+#~ msgstr "Message on correct answer:"

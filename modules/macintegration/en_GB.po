@@ -79,52 +79,52 @@ msgstr "Language"
 
 #: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
-msgid "Growl notifications"
+msgid "Dock integration"
 msgstr ""
 
 #: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
-msgid "Default Mac Os X Notifications"
+msgid "Mac OS X dock integration"
 msgstr ""
 
 #: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:3
 msgctxt "Plugin|"
-msgid "Mac Contactlist"
+msgid "SpellChecker"
 msgstr ""
 
 #: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
-msgid "Mac OS X contactlist"
+msgid "Mac OS X spell checker"
 msgstr ""
 
 #: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"
-msgid "Dock integration"
+msgid "IdleManager"
 msgstr ""
 
 #: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:6
 msgctxt "Plugin|"
-msgid "Mac OS X dock integration"
+msgid "Mac OS X idle manager"
 msgstr ""
 
 #: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:7
 msgctxt "Plugin|"
-msgid "SpellChecker"
+msgid "Mac Contactlist"
 msgstr ""
 
 #: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:8
 msgctxt "Plugin|"
-msgid "Mac OS X spell checker"
+msgid "Mac OS X contactlist"
 msgstr ""
 
 #: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:9
 msgctxt "Plugin|"
-msgid "IdleManager"
+msgid "Growl notifications"
 msgstr ""
 
 #: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:10
 msgctxt "Plugin|"
-msgid "Mac OS X idle manager"
+msgid "Default Mac Os X Notifications"
 msgstr ""
 
 #: ../../../plugins/macintegration/src/macspellchecker/macspellchecker.mm:21

@@ -294,9 +294,11 @@ msgid "The users num connected from this IP has reached the maximum"
 msgstr "Надвишен максимален брой потребители, свързани от този адрес"
 
 #: ../../../protocols/oscar/src/connection.cpp:350
+#, fuzzy
 msgctxt "ConnectionError|"
 msgid ""
-"The users num connected from this IP has reached the maximum (reservation)"
+"The number of users connected from this IP has reached the maximum "
+"(reservation)"
 msgstr ""
 "Надвишен максимален брой потребители, свързани от този адрес (резервация)"
 
@@ -350,8 +352,9 @@ msgid "Account suspended because of your age (age < 13)"
 msgstr "Сметката е преустановена поради възрастта ви (възраст < 13)"
 
 #: ../../../protocols/oscar/src/connection.cpp:370
+#, fuzzy
 msgctxt "ConnectionError|"
-msgid "Another client is loggin with this uin"
+msgid "Another client is logging with this UIN"
 msgstr "Друг клиент с този UIN се свързва"
 
 #: ../../../protocols/oscar/src/connection.cpp:372
@@ -511,27 +514,27 @@ msgctxt "ContactInfo|"
 msgid "Cookie"
 msgstr "Бисквитка"
 
-#: ../../../protocols/oscar/src/authorization.cpp:44
+#: ../../../protocols/oscar/src/authorization.cpp:45
 msgctxt "ContactList|"
 msgid "Reask authorization"
 msgstr "Повторна заявка за удостоверяване"
 
-#: ../../../protocols/oscar/src/authorization.cpp:45
+#: ../../../protocols/oscar/src/authorization.cpp:46
 msgctxt "ContactList|"
 msgid "Ask authorization"
 msgstr "Заявка за удостоверяване"
 
-#: ../../../protocols/oscar/src/authorization.cpp:104
+#: ../../../protocols/oscar/src/authorization.cpp:105
 msgctxt "ContactList|"
 msgid "Authorization request accepted"
 msgstr "Заявката за удостоверяване бе приета"
 
-#: ../../../protocols/oscar/src/authorization.cpp:105
+#: ../../../protocols/oscar/src/authorization.cpp:106
 msgctxt "ContactList|"
 msgid "Authorization request declined"
 msgstr "Заявката за удостоверяване бе отхвърлена"
 
-#: ../../../protocols/oscar/src/authorization.cpp:143
+#: ../../../protocols/oscar/src/authorization.cpp:144
 msgctxt "ContactList|"
 msgid "Please, authorize me"
 msgstr "Моля за удостоверение"
@@ -3697,9 +3700,15 @@ msgctxt "qutim_sdk_0_3::oscar::AbstractMetaRequest|"
 msgid "The server did not answer on the metarequest"
 msgstr "Сървърът не отговори на мета-заявката"
 
-#: ../../../protocols/oscar/src/authorization.cpp:73
+#: ../../../protocols/oscar/src/authorization.cpp:74
 msgctxt "qutim_sdk_0_3::oscar::Authorization|"
 msgid "Grant authorization"
+msgstr "Предоставяне на удостоверение"
+
+#: ../../../protocols/oscar/src/authorization.cpp:170
+#, fuzzy
+msgctxt "qutim_sdk_0_3::oscar::Authorization|"
+msgid "Not authorized"
 msgstr "Предоставяне на удостоверение"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:83

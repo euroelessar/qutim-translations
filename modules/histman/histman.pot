@@ -155,7 +155,7 @@ msgstr ""
 
 #: ../../../plugins/histman/src/dumphistorypage.cpp:145
 msgctxt "HistoryManager::DumpHistoryPage|"
-msgid "History has been succesfully imported."
+msgid "History has been successfully imported."
 msgstr ""
 
 #: ../../../plugins/histman/src/historymanagerwindow.cpp:85
@@ -182,8 +182,8 @@ msgstr ""
 #: ../../../plugins/histman/src/importhistorypage.cpp:97
 #, qt-format
 msgctxt "HistoryManager::ImportHistoryPage|"
-msgid "%n message(s) have been succesfully loaded to memory."
-msgid_plural "%n message(s) have been succesfully loaded to memory."
+msgid "%n message(s) have been successfully loaded to memory."
+msgid_plural "%n message(s) have been successfully loaded to memory."
 msgstr[0] ""
 
 #: ../../../plugins/histman/src/importhistorypage.cpp:98

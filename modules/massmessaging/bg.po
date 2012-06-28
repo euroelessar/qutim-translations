@@ -36,6 +36,7 @@ msgid "Interval (in seconds):"
 msgstr "Интервал (в сек.):"
 
 #: ../../../plugins/massmessaging/src/messagingdialog.ui:142
+#, fuzzy
 msgctxt "Dialog|"
 msgid ""
 "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
@@ -53,7 +54,7 @@ msgid ""
 "</p>\n"
 "<ul style=\"-qt-list-indent: 1;\"><li style=\" margin-top:12px; margin-"
 "bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
-"indent:0px;\">{reciever} - Name of the recipient </li>\n"
+"indent:0px;\">{receiver} - Name of the recipient </li>\n"
 "<li style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
 "right:0px; -qt-block-indent:0; text-indent:0px;\">{sender} - Name of the "
 "sender  (profile name)</li>\n"

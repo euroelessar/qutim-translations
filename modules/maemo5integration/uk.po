@@ -11,11 +11,13 @@ msgstr ""
 "PO-Revision-Date: 2012-05-24 20:10+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-05-25 05:14+0000\n"
 "X-Generator: Launchpad (build 15288)\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/maemo5integration/maemo5led/maemo5ledplugin.cpp:41
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settingsplugin.cpp:39
@@ -87,39 +89,39 @@ msgstr "Сповіщення вібрацією на Maemo 5"
 
 #: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
+msgid "Maemo 5 Tray "
+msgstr "Трей Maemo 5 "
+
+#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Maemo 5 specific system tray implementation"
+msgstr "Специфічна для Maemo 5 реалізація трею"
+
+#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:3
+msgctxt "Plugin|"
 msgid "Maemo 5 Vibra Notifications"
 msgstr "Вібросповіщення на Maemo 5"
 
-#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
 msgid "Notification system, based Maemo 5 Vibrator"
 msgstr "Система сповіщень для Maemo 5 яка використовує вібрацію"
 
-#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:3
+#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:5
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settingsplugin.cpp:36
 msgctxt "Plugin|"
 msgid "Maemo 5 Settings"
 msgstr "Налаштування Maemo 5"
 
-#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:4
+#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:6
 msgctxt "Plugin|"
 msgid "Maemo 5 Led Notifications"
 msgstr "Сповіщення світлодіодами на Maemo 5"
 
-#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:5
+#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:7
 msgctxt "Plugin|"
 msgid "Notification system, based Maemo 5 Led"
 msgstr "Система сповіщень для Maemo 5 яка використовує блимання світлодіодів"
-
-#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:6
-msgctxt "Plugin|"
-msgid "Maemo 5 Tray "
-msgstr "Трей Maemo 5 "
-
-#: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:7
-msgctxt "Plugin|"
-msgid "Maemo 5 specific system tray implementation"
-msgstr "Специфічна для Maemo 5 реалізація трею"
 
 #: ../../../plugins/maemo5integration/__data_from_cmakelists_txt.cpp:8
 msgctxt "Plugin|"

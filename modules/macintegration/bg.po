@@ -76,53 +76,53 @@ msgstr "Език"
 
 #: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
-msgid "Growl notifications"
-msgstr "Growl уведомления"
-
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:2
-msgctxt "Plugin|"
-msgid "Default Mac Os X Notifications"
-msgstr "Подразбиращи се за Mac OS X уведомления"
-
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:3
-msgctxt "Plugin|"
-msgid "Mac Contactlist"
-msgstr "Списък с контакти за Mac"
-
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:4
-msgctxt "Plugin|"
-msgid "Mac OS X contactlist"
-msgstr "Списък с контакти за Mac OS X"
-
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:5
-msgctxt "Plugin|"
 msgid "Dock integration"
 msgstr "Интеграция с Dock"
 
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:6
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
 msgid "Mac OS X dock integration"
 msgstr "Интеграция с Dock в Mac OS X"
 
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:7
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:3
 msgctxt "Plugin|"
 msgid "SpellChecker"
 msgstr "Проверка на правописа"
 
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:8
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
 msgid "Mac OS X spell checker"
 msgstr "Проверка на правописа за Mac OS X"
 
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:9
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"
 msgid "IdleManager"
 msgstr "Управление на бездействието"
 
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:10
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:6
 msgctxt "Plugin|"
 msgid "Mac OS X idle manager"
 msgstr "Управление на бездействието в Mac OS X"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:7
+msgctxt "Plugin|"
+msgid "Mac Contactlist"
+msgstr "Списък с контакти за Mac"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:8
+msgctxt "Plugin|"
+msgid "Mac OS X contactlist"
+msgstr "Списък с контакти за Mac OS X"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:9
+msgctxt "Plugin|"
+msgid "Growl notifications"
+msgstr "Growl уведомления"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:10
+msgctxt "Plugin|"
+msgid "Default Mac Os X Notifications"
+msgstr "Подразбиращи се за Mac OS X уведомления"
 
 #: ../../../plugins/macintegration/src/macspellchecker/macspellchecker.mm:21
 msgctxt "Settings|"

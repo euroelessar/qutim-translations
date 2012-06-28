@@ -294,9 +294,11 @@ msgstr ""
 "Количество пользователей, подключенных с этого IP, превысило допустимое"
 
 #: ../../../protocols/oscar/src/connection.cpp:350
+#, fuzzy
 msgctxt "ConnectionError|"
 msgid ""
-"The users num connected from this IP has reached the maximum (reservation)"
+"The number of users connected from this IP has reached the maximum "
+"(reservation)"
 msgstr ""
 "Количество пользователей, подключенных с этого IP, превысило допустимое "
 "(reservation)"
@@ -355,8 +357,9 @@ msgstr ""
 "Ваш аккаунт временно заблокирован по причине малого (менее 13 лет) возраста"
 
 #: ../../../protocols/oscar/src/connection.cpp:370
+#, fuzzy
 msgctxt "ConnectionError|"
-msgid "Another client is loggin with this uin"
+msgid "Another client is logging with this UIN"
 msgstr "Другой клиент вошел с этим же номером"
 
 # я не виновен, я сам ищу где в кутиме это
@@ -517,27 +520,27 @@ msgctxt "ContactInfo|"
 msgid "Cookie"
 msgstr "Печеньки"
 
-#: ../../../protocols/oscar/src/authorization.cpp:44
+#: ../../../protocols/oscar/src/authorization.cpp:45
 msgctxt "ContactList|"
 msgid "Reask authorization"
 msgstr "Перезапросить авторизацию"
 
-#: ../../../protocols/oscar/src/authorization.cpp:45
+#: ../../../protocols/oscar/src/authorization.cpp:46
 msgctxt "ContactList|"
 msgid "Ask authorization"
 msgstr "Запроcить авторизацию"
 
-#: ../../../protocols/oscar/src/authorization.cpp:104
+#: ../../../protocols/oscar/src/authorization.cpp:105
 msgctxt "ContactList|"
 msgid "Authorization request accepted"
 msgstr "Принят запрос авторизации"
 
-#: ../../../protocols/oscar/src/authorization.cpp:105
+#: ../../../protocols/oscar/src/authorization.cpp:106
 msgctxt "ContactList|"
 msgid "Authorization request declined"
 msgstr "Запрос авторизации отклонён"
 
-#: ../../../protocols/oscar/src/authorization.cpp:143
+#: ../../../protocols/oscar/src/authorization.cpp:144
 msgctxt "ContactList|"
 msgid "Please, authorize me"
 msgstr "Пожалуйста, авторизуйте меня"
@@ -3717,9 +3720,15 @@ msgctxt "qutim_sdk_0_3::oscar::AbstractMetaRequest|"
 msgid "The server did not answer on the metarequest"
 msgstr "Сервер не ответил на метазапрос"
 
-#: ../../../protocols/oscar/src/authorization.cpp:73
+#: ../../../protocols/oscar/src/authorization.cpp:74
 msgctxt "qutim_sdk_0_3::oscar::Authorization|"
 msgid "Grant authorization"
+msgstr "Авторизовать"
+
+#: ../../../protocols/oscar/src/authorization.cpp:170
+#, fuzzy
+msgctxt "qutim_sdk_0_3::oscar::Authorization|"
+msgid "Not authorized"
 msgstr "Авторизовать"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:83

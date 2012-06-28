@@ -168,8 +168,9 @@ msgid "Manager merges history, it make take several minutes."
 msgstr "Spojování historie může trvat několik minut."
 
 #: ../../../plugins/histman/src/dumphistorypage.cpp:145
+#, fuzzy
 msgctxt "HistoryManager::DumpHistoryPage|"
-msgid "History has been succesfully imported."
+msgid "History has been successfully imported."
 msgstr "Historie byla úspěšně importována."
 
 #: ../../../plugins/histman/src/historymanagerwindow.cpp:85
@@ -195,10 +196,10 @@ msgstr ""
 "Správce načte veškerou historii do paměti, může to trvat několik minut."
 
 #: ../../../plugins/histman/src/importhistorypage.cpp:97
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HistoryManager::ImportHistoryPage|"
-msgid "%n message(s) have been succesfully loaded to memory."
-msgid_plural "%n message(s) have been succesfully loaded to memory."
+msgid "%n message(s) have been successfully loaded to memory."
+msgid_plural "%n message(s) have been successfully loaded to memory."
 msgstr[0] "%n zprávy byly úspěště načteny do paměti."
 
 #: ../../../plugins/histman/src/importhistorypage.cpp:98

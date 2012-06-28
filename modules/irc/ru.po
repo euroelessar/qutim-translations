@@ -861,18 +861,18 @@ msgctxt "qutim_sdk_0_3::irc::IrcProtocol|"
 msgid "Auto-join"
 msgstr "Присоединяться автоматически"
 
-#: ../../../protocols/irc/src/ircstandartctpchandler.cpp:79
-#, qt-format
-msgctxt "qutim_sdk_0_3::irc::IrcStandartCtpcHandler|"
+#: ../../../protocols/irc/src/ircstandartctcphandler.cpp:81
+#, fuzzy, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcStandartCtcpHandler|"
 msgid "Received CTCP-PING reply from %1: %2 seconds"
 msgid_plural "Received CTCP-PING reply from %1: %2 seconds"
 msgstr[0] "Пинг от %1: %2 секунда %n"
 msgstr[1] "Пинг от %1: %2 секунды %n"
 msgstr[2] "Пинг от %1: %2 секунд  %n"
 
-#: ../../../protocols/irc/src/ircstandartctpchandler.cpp:85
-#, qt-format
-msgctxt "qutim_sdk_0_3::irc::IrcStandartCtpcHandler|"
+#: ../../../protocols/irc/src/ircstandartctcphandler.cpp:87
+#, fuzzy, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcStandartCtcpHandler|"
 msgid "Received CTCP-%1 reply from %2: %3"
 msgstr "Получен ответ CTCP-%1 от %2: %3"
 

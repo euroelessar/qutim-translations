@@ -294,9 +294,11 @@ msgid "The users num connected from this IP has reached the maximum"
 msgstr "Verbindungen von dieser IP-Adresse haben das Maximum erreicht"
 
 #: ../../../protocols/oscar/src/connection.cpp:350
+#, fuzzy
 msgctxt "ConnectionError|"
 msgid ""
-"The users num connected from this IP has reached the maximum (reservation)"
+"The number of users connected from this IP has reached the maximum "
+"(reservation)"
 msgstr "Reservierungen von dieser IP-Adresse haben das Maximum erreicht"
 
 #: ../../../protocols/oscar/src/connection.cpp:352
@@ -351,8 +353,9 @@ msgid "Account suspended because of your age (age < 13)"
 msgstr "Konto gesperrt wegen deinem Alter (< 13)"
 
 #: ../../../protocols/oscar/src/connection.cpp:370
+#, fuzzy
 msgctxt "ConnectionError|"
-msgid "Another client is loggin with this uin"
+msgid "Another client is logging with this UIN"
 msgstr "Ihre UIN wird auf einem anderen Computer verwendet"
 
 #: ../../../protocols/oscar/src/connection.cpp:372
@@ -512,27 +515,27 @@ msgctxt "ContactInfo|"
 msgid "Cookie"
 msgstr "Cookie"
 
-#: ../../../protocols/oscar/src/authorization.cpp:44
+#: ../../../protocols/oscar/src/authorization.cpp:45
 msgctxt "ContactList|"
 msgid "Reask authorization"
 msgstr "Erlaubnisanfrage wiederholen"
 
-#: ../../../protocols/oscar/src/authorization.cpp:45
+#: ../../../protocols/oscar/src/authorization.cpp:46
 msgctxt "ContactList|"
 msgid "Ask authorization"
 msgstr "Erlaubnisanfrage senden"
 
-#: ../../../protocols/oscar/src/authorization.cpp:104
+#: ../../../protocols/oscar/src/authorization.cpp:105
 msgctxt "ContactList|"
 msgid "Authorization request accepted"
 msgstr "Erlaubnisanfrage akzeptiert"
 
-#: ../../../protocols/oscar/src/authorization.cpp:105
+#: ../../../protocols/oscar/src/authorization.cpp:106
 msgctxt "ContactList|"
 msgid "Authorization request declined"
 msgstr "Erlaubnisanfrage abgelehnt"
 
-#: ../../../protocols/oscar/src/authorization.cpp:143
+#: ../../../protocols/oscar/src/authorization.cpp:144
 msgctxt "ContactList|"
 msgid "Please, authorize me"
 msgstr "Bitte autorisieren Sie mich"
@@ -3697,9 +3700,15 @@ msgctxt "qutim_sdk_0_3::oscar::AbstractMetaRequest|"
 msgid "The server did not answer on the metarequest"
 msgstr "Der Server hat auf die Metaanfrage nicht geantwortet"
 
-#: ../../../protocols/oscar/src/authorization.cpp:73
+#: ../../../protocols/oscar/src/authorization.cpp:74
 msgctxt "qutim_sdk_0_3::oscar::Authorization|"
 msgid "Grant authorization"
+msgstr "Erlaubnis erteilen"
+
+#: ../../../protocols/oscar/src/authorization.cpp:170
+#, fuzzy
+msgctxt "qutim_sdk_0_3::oscar::Authorization|"
+msgid "Not authorized"
 msgstr "Erlaubnis erteilen"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:83

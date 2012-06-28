@@ -18,7 +18,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-05-05 05:47+0000\n"
 "X-Generator: Launchpad (build 15195)\n"
 "X-Qt-Contexts: true\n"
-"Language: uk\n"
 
 #: ../../../plugins/unitylauncher/src/ulplugin.cpp:37
 msgctxt "Author|"

@@ -20,7 +20,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-05-24 21:31+0000\n"
 "X-Generator: Launchpad (build 15288)\n"
 "X-Qt-Contexts: true\n"
-"Language: uk\n"
 
 #: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:113
 msgctxt "Core::SimpleContactList::SevenWidget|"

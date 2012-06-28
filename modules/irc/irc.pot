@@ -847,16 +847,16 @@ msgctxt "qutim_sdk_0_3::irc::IrcProtocol|"
 msgid "Auto-join"
 msgstr ""
 
-#: ../../../protocols/irc/src/ircstandartctpchandler.cpp:79
+#: ../../../protocols/irc/src/ircstandartctcphandler.cpp:81
 #, qt-format
-msgctxt "qutim_sdk_0_3::irc::IrcStandartCtpcHandler|"
+msgctxt "qutim_sdk_0_3::irc::IrcStandartCtcpHandler|"
 msgid "Received CTCP-PING reply from %1: %2 seconds"
 msgid_plural "Received CTCP-PING reply from %1: %2 seconds"
 msgstr[0] ""
 
-#: ../../../protocols/irc/src/ircstandartctpchandler.cpp:85
+#: ../../../protocols/irc/src/ircstandartctcphandler.cpp:87
 #, qt-format
-msgctxt "qutim_sdk_0_3::irc::IrcStandartCtpcHandler|"
+msgctxt "qutim_sdk_0_3::irc::IrcStandartCtcpHandler|"
 msgid "Received CTCP-%1 reply from %2: %3"
 msgstr ""
 

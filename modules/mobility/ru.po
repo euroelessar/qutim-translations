@@ -36,6 +36,11 @@ msgctxt "BearerManager|"
 msgid "Network is unreachable!"
 msgstr "Сеть недоступна!"
 
+#: ../../../plugins/mobility/src/vibrobackend/vibrobackend.cpp:53
+msgctxt "Core::VibroBackend|"
+msgid "Vibrate"
+msgstr ""
+
 #: ../../../plugins/mobility/src/bearermanager/managersettings.ui:14
 msgctxt "ManagerSettings|"
 msgid "Form"
@@ -64,6 +69,17 @@ msgstr "Движок мультимедиа"
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
 msgid "Sound engine based on QtMultimedia"
+msgstr "Звуковой движок, использующий QtMultimedia"
+
+#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:5
+msgctxt "Plugin|"
+msgid "Vibro engine"
+msgstr ""
+
+#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:6
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Vibro engine based on QtFeedback"
 msgstr "Звуковой движок, использующий QtMultimedia"
 
 #: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:48

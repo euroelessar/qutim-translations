@@ -18,7 +18,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-06-07 05:08+0000\n"
 "X-Generator: Launchpad (build 15353)\n"
 "X-Qt-Contexts: true\n"
-"Language: uk\n"
 
 #: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:69
 msgctxt "BearerManager|"
@@ -40,6 +39,11 @@ msgstr "Мережа доступна!"
 msgctxt "BearerManager|"
 msgid "Network is unreachable!"
 msgstr "Мережа недоступна!"
+
+#: ../../../plugins/mobility/src/vibrobackend/vibrobackend.cpp:53
+msgctxt "Core::VibroBackend|"
+msgid "Vibrate"
+msgstr ""
 
 #: ../../../plugins/mobility/src/bearermanager/managersettings.ui:14
 msgctxt "ManagerSettings|"
@@ -69,6 +73,17 @@ msgstr "Рушій мультимедіа"
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
 msgid "Sound engine based on QtMultimedia"
+msgstr "Засоби відтворення звуку на основі QtMultimedia"
+
+#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:5
+msgctxt "Plugin|"
+msgid "Vibro engine"
+msgstr ""
+
+#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:6
+#, fuzzy
+msgctxt "Plugin|"
+msgid "Vibro engine based on QtFeedback"
 msgstr "Засоби відтворення звуку на основі QtMultimedia"
 
 #: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:48

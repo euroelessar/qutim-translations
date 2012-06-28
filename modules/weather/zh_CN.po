@@ -18,7 +18,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-05-29 05:03+0000\n"
 "X-Generator: Launchpad (build 15316)\n"
 "X-Qt-Contexts: true\n"
-"Language: zh_CN\n"
 
 #: ../../../plugins/weather/src/weather.cpp:36
 msgctxt "Author|"

@@ -59,30 +59,30 @@ msgid "Actions"
 msgstr "Действия"
 
 #: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:5
+#: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:3
 msgctxt "Plugin|"
 msgid "Symbian"
 msgstr "Symbian"
 
 #: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
+msgid "Symbian specific qutIM contactlist widget implementation"
+msgstr "Специфичная для Symbian реализация списка контактов"
+
+#: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:4
+msgctxt "Plugin|"
 msgid "Stacked chatform for S60 devices"
 msgstr "Мобильный вид чата для устройств под S60"
 
-#: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:3
+#: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"
 msgid "Symbian Vibration Support"
 msgstr "Поддержка вибрации в Symbian"
 
-#: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:4
+#: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:6
 msgctxt "Plugin|"
 msgid "Notifies about different events by vibration of your mobile device"
 msgstr "Уведомления при помощи вибрации в вашем мобильном телефоне"
-
-#: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:6
-msgctxt "Plugin|"
-msgid "Symbian specific qutIM contactlist widget implementation"
-msgstr "Специфичная для Symbian реализация списка контактов"
 
 #: ../../../plugins/symbianintegration/symbianchatform/stackedchatform.cpp:47
 msgctxt "Settings|"

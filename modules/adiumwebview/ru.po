@@ -36,18 +36,18 @@ msgstr "Сменить"
 
 #: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
-msgid "Chat settings"
-msgstr "Настройки чата"
-
-#: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:3
-msgctxt "Plugin|"
 msgid "Adium-like WebView"
 msgstr "Adium-подобный WebView"
 
-#: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:4
+#: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
 msgid "Well-look stylished view based on WebKit and Adium ideas"
 msgstr "Вид чата, основанный на WebKit и идее Adium-тем"
+
+#: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:3
+msgctxt "Plugin|"
+msgid "Chat settings"
+msgstr "Настройки чата"
 
 #: ../../../plugins/adiumwebview/lib/old/webkitutils.cpp:121
 msgctxt "QObject|"

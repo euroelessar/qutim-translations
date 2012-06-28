@@ -860,17 +860,17 @@ msgctxt "qutim_sdk_0_3::irc::IrcProtocol|"
 msgid "Auto-join"
 msgstr "Автоматично присъединяване"
 
-#: ../../../protocols/irc/src/ircstandartctpchandler.cpp:79
-#, qt-format
-msgctxt "qutim_sdk_0_3::irc::IrcStandartCtpcHandler|"
+#: ../../../protocols/irc/src/ircstandartctcphandler.cpp:81
+#, fuzzy, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcStandartCtcpHandler|"
 msgid "Received CTCP-PING reply from %1: %2 seconds"
 msgid_plural "Received CTCP-PING reply from %1: %2 seconds"
 msgstr[0] "Получен CTCP-PING отговор от %1: %2 секунда"
 msgstr[1] "Получен CTCP-PING отговор от %1: %2 секунди"
 
-#: ../../../protocols/irc/src/ircstandartctpchandler.cpp:85
-#, qt-format
-msgctxt "qutim_sdk_0_3::irc::IrcStandartCtpcHandler|"
+#: ../../../protocols/irc/src/ircstandartctcphandler.cpp:87
+#, fuzzy, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcStandartCtcpHandler|"
 msgid "Received CTCP-%1 reply from %2: %3"
 msgstr "Получен CTCP-%1 отговор от %2: %3"
 

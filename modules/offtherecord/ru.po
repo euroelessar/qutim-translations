@@ -18,7 +18,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-06-19 05:10+0000\n"
 "X-Generator: Launchpad (build 15435)\n"
 "X-Qt-Contexts: true\n"
-"Language: ru\n"
 
 #: ../../../plugins/offtherecord/src/otrcrypt.cpp:55
 msgctxt "OTRCrypt|"
