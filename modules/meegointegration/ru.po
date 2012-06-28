@@ -291,7 +291,7 @@ msgstr "Создать"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateMrimPage.qml:17
 msgctxt "CreateMrimPage|"
 msgid "Email:"
-msgstr "Электропочта:"
+msgstr "Электронная почта:"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateMrimPage.qml:24
 msgctxt "CreateMrimPage|"
