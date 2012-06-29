@@ -15,9 +15,15 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-28 12:52+0000\n"
+"X-Launchpad-Export-Date: 2012-06-29 05:07+0000\n"
 "X-Generator: Launchpad (build 15505)\n"
 "X-Qt-Contexts: true\n"
+"Language: be\n"
+
+#: ../../../protocols/oscar/src/connection.cpp:318
+msgctxt "ConnectionError|"
+msgid "Invalid account"
+msgstr "Няслушны конт"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -215,11 +221,6 @@ msgstr "Не супадае нік або пароль"
 msgctxt "ConnectionError|"
 msgid "Internal client error (bad input to authorizer)"
 msgstr "Унутраная памылка кліента (уведзены няслушныя дадзеныя аўтарызацыі)"
-
-#: ../../../protocols/oscar/src/connection.cpp:318
-msgctxt "ConnectionError|"
-msgid "Invalid account"
-msgstr "Няслушны конт"
 
 #: ../../../protocols/oscar/src/connection.cpp:320
 msgctxt "ConnectionError|"

@@ -15,9 +15,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-28 12:53+0000\n"
+"X-Launchpad-Export-Date: 2012-06-29 05:07+0000\n"
 "X-Generator: Launchpad (build 15505)\n"
 "X-Qt-Contexts: true\n"
+"Language: uk\n"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:30
 msgctxt "Author|"
@@ -59,47 +60,3 @@ msgstr "Додана можливість створювати плагіни н
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Розробник"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Antispam"
-#~ msgstr "Антиспам"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Blocks spam by qurstion-answer pair"
-#~ msgstr "Блокування спаму до відповіді на питання"
-
-#~ msgctxt "plugin|"
-#~ msgid ""
-#~ "Beer, wine, vodka, champagne: after which drink in this sequence I should "
-#~ "stop?"
-#~ msgstr ""
-#~ "Пиво, вино, горілка, шампанське: після якого напою з перелічених найгірші "
-#~ "наслідки?"
-
-#~ msgctxt "plugin|"
-#~ msgid "Vodka"
-#~ msgstr "Горілка"
-
-#~ msgctxt "plugin|"
-#~ msgid "We are ready to drink with you!"
-#~ msgstr "Ми готові випити з Вами!"
-
-#~ msgctxt "plugin|"
-#~ msgid "Enabled:"
-#~ msgstr "Увімкнено:"
-
-#~ msgctxt "plugin|"
-#~ msgid "Block authorization requests:"
-#~ msgstr "Блокувати запити авторизації"
-
-#~ msgctxt "plugin|"
-#~ msgid "Question:"
-#~ msgstr "Питання:"
-
-#~ msgctxt "plugin|"
-#~ msgid "Answers (semicolon as separator):"
-#~ msgstr "Відповіді (крапка з комою в якості роздільника)"
-
-#~ msgctxt "plugin|"
-#~ msgid "Message on correct answer:"
-#~ msgstr "Повідомлення на правильну відповідь:"

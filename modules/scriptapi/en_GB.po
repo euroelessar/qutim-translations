@@ -15,7 +15,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-28 12:52+0000\n"
+"X-Launchpad-Export-Date: 2012-06-29 05:07+0000\n"
 "X-Generator: Launchpad (build 15505)\n"
 "X-Qt-Contexts: true\n"
 
@@ -59,47 +59,3 @@ msgstr "Added ability to create plugins at JavaScript"
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Developer"
-
-#~ msgctxt "plugin|"
-#~ msgid ""
-#~ "Beer, wine, vodka, champagne: after which drink in this sequence I should "
-#~ "stop?"
-#~ msgstr ""
-#~ "Beer, wine, vodka, champagne: after which drink in this sequence I should "
-#~ "stop?"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Antispam"
-#~ msgstr "Antispam"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Blocks spam by qurstion-answer pair"
-#~ msgstr "Blocks spam by question-answer pair"
-
-#~ msgctxt "plugin|"
-#~ msgid "Vodka"
-#~ msgstr "Vodka"
-
-#~ msgctxt "plugin|"
-#~ msgid "We are ready to drink with you!"
-#~ msgstr "We are ready to drink with you!"
-
-#~ msgctxt "plugin|"
-#~ msgid "Enabled:"
-#~ msgstr "Enabled:"
-
-#~ msgctxt "plugin|"
-#~ msgid "Block authorization requests:"
-#~ msgstr "Block authorization requests:"
-
-#~ msgctxt "plugin|"
-#~ msgid "Answers (semicolon as separator):"
-#~ msgstr "Answers (semicolon as separator):"
-
-#~ msgctxt "plugin|"
-#~ msgid "Message on correct answer:"
-#~ msgstr "Message on correct answer:"
-
-#~ msgctxt "plugin|"
-#~ msgid "Question:"
-#~ msgstr "Question:"

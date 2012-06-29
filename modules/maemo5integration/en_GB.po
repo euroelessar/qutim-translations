@@ -15,9 +15,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-28 12:52+0000\n"
+"X-Launchpad-Export-Date: 2012-06-29 05:07+0000\n"
 "X-Generator: Launchpad (build 15505)\n"
 "X-Qt-Contexts: true\n"
+"Language: en_GB\n"
 
 #: ../../../plugins/maemo5integration/maemo5led/maemo5ledplugin.cpp:41
 #: ../../../plugins/maemo5integration/maemo5settings/maemo5settingsplugin.cpp:39
