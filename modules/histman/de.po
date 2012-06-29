@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-24 00:01+0000\n"
+"POT-Creation-Date: 2012-06-28 09:42+0000\n"
 "PO-Revision-Date: 2012-03-24 01:34+0000\n"
 "Last-Translator: Ruslan Nigmatullin <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,8 +10,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2012-03-25 06:10+0000\n"
-"X-Generator: Launchpad (build 14981)\n"
+"X-Launchpad-Export-Date: 2012-06-29 05:07+0000\n"
+"X-Generator: Launchpad (build 15505)\n"
 "X-Qt-Contexts: true\n"
 "Language: de\n"
 "X-Language: de\n"
@@ -172,8 +172,8 @@ msgstr "Verlauf wird zusammengeführt, dies kann einige Minuten dauern."
 
 #: ../../../plugins/histman/src/dumphistorypage.cpp:145
 msgctxt "HistoryManager::DumpHistoryPage|"
-msgid "History has been succesfully imported."
-msgstr "Verlauf wurde erfolgreich importiert."
+msgid "History has been successfully imported."
+msgstr ""
 
 #: ../../../plugins/histman/src/historymanagerwindow.cpp:85
 #: ../../../plugins/histman/src/historymanagerwindow.cpp:287
@@ -200,10 +200,10 @@ msgstr ""
 #: ../../../plugins/histman/src/importhistorypage.cpp:97
 #, qt-format
 msgctxt "HistoryManager::ImportHistoryPage|"
-msgid "%n message(s) have been succesfully loaded to memory."
-msgid_plural "%n message(s) have been succesfully loaded to memory."
-msgstr[0] "%n Nachricht wurde erfolgreich in den Speicher geladen."
-msgstr[1] "%n Nachrichten wurden erfolgreich in den Speicher geladen."
+msgid "%n message(s) have been successfully loaded to memory."
+msgid_plural "%n message(s) have been successfully loaded to memory."
+msgstr[0] ""
+msgstr[1] ""
 
 #: ../../../plugins/histman/src/importhistorypage.cpp:98
 #, qt-format

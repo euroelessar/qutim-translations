@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-27 13:46+0000\n"
+"POT-Creation-Date: 2012-06-28 09:42+0000\n"
 "PO-Revision-Date: 2012-03-23 19:43+0000\n"
 "Last-Translator: Ruslan Nigmatullin <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-28 05:48+0000\n"
-"X-Generator: Launchpad (build 15027)\n"
+"X-Launchpad-Export-Date: 2012-06-29 05:07+0000\n"
+"X-Generator: Launchpad (build 15505)\n"
 "X-Qt-Contexts: true\n"
 "Language: de\n"
 "X-Language: de\n"
@@ -296,8 +296,9 @@ msgstr "Verbindungen von dieser IP-Adresse haben das Maximum erreicht"
 #: ../../../protocols/oscar/src/connection.cpp:350
 msgctxt "ConnectionError|"
 msgid ""
-"The users num connected from this IP has reached the maximum (reservation)"
-msgstr "Reservierungen von dieser IP-Adresse haben das Maximum erreicht"
+"The number of users connected from this IP has reached the maximum "
+"(reservation)"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:352
 msgctxt "ConnectionError|"
@@ -353,8 +354,8 @@ msgstr "Konto gesperrt wegen deinem Alter (< 13)"
 
 #: ../../../protocols/oscar/src/connection.cpp:370
 msgctxt "ConnectionError|"
-msgid "Another client is loggin with this uin"
-msgstr "Ihre UIN wird auf einem anderen Computer verwendet"
+msgid "Another client is logging with this UIN"
+msgstr ""
 
 #: ../../../protocols/oscar/src/connection.cpp:372
 msgctxt "ConnectionError|"
@@ -513,27 +514,27 @@ msgctxt "ContactInfo|"
 msgid "Cookie"
 msgstr "Cookie"
 
-#: ../../../protocols/oscar/src/authorization.cpp:44
+#: ../../../protocols/oscar/src/authorization.cpp:45
 msgctxt "ContactList|"
 msgid "Reask authorization"
 msgstr "Erlaubnisanfrage wiederholen"
 
-#: ../../../protocols/oscar/src/authorization.cpp:45
+#: ../../../protocols/oscar/src/authorization.cpp:46
 msgctxt "ContactList|"
 msgid "Ask authorization"
 msgstr "Erlaubnisanfrage senden"
 
-#: ../../../protocols/oscar/src/authorization.cpp:104
+#: ../../../protocols/oscar/src/authorization.cpp:105
 msgctxt "ContactList|"
 msgid "Authorization request accepted"
 msgstr "Erlaubnisanfrage akzeptiert"
 
-#: ../../../protocols/oscar/src/authorization.cpp:105
+#: ../../../protocols/oscar/src/authorization.cpp:106
 msgctxt "ContactList|"
 msgid "Authorization request declined"
 msgstr "Erlaubnisanfrage abgelehnt"
 
-#: ../../../protocols/oscar/src/authorization.cpp:143
+#: ../../../protocols/oscar/src/authorization.cpp:144
 msgctxt "ContactList|"
 msgid "Please, authorize me"
 msgstr "Bitte autorisieren Sie mich"
@@ -3698,10 +3699,15 @@ msgctxt "qutim_sdk_0_3::oscar::AbstractMetaRequest|"
 msgid "The server did not answer on the metarequest"
 msgstr "Der Server hat auf die Metaanfrage nicht geantwortet"
 
-#: ../../../protocols/oscar/src/authorization.cpp:73
+#: ../../../protocols/oscar/src/authorization.cpp:74
 msgctxt "qutim_sdk_0_3::oscar::Authorization|"
 msgid "Grant authorization"
 msgstr "Erlaubnis erteilen"
+
+#: ../../../protocols/oscar/src/authorization.cpp:170
+msgctxt "qutim_sdk_0_3::oscar::Authorization|"
+msgid "Not authorized"
+msgstr ""
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:83
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:210

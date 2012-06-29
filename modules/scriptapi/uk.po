@@ -7,17 +7,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-04-06 23:42+0000\n"
+"POT-Creation-Date: 2012-06-28 09:42+0000\n"
 "PO-Revision-Date: 2012-05-21 06:44+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-24 21:31+0000\n"
-"X-Generator: Launchpad (build 15288)\n"
+"X-Launchpad-Export-Date: 2012-06-29 05:07+0000\n"
+"X-Generator: Launchpad (build 15505)\n"
+"X-Qt-Contexts: true\n"
+"Language: uk\n"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:40
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:30
 msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
@@ -27,17 +28,6 @@ msgstr "Руслан Нігматулін"
 msgctxt "Ignorer|"
 msgid "Evil ids"
 msgstr "Погані ID"
-
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:36
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:98
-msgctxt "Plugin|"
-msgid "Antispam"
-msgstr "Антиспам"
-
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:37
-msgctxt "Plugin|"
-msgid "Blocks spam by qurstion-answer pair"
-msgstr "Блокування спаму до відповіді на питання"
 
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:26
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:39
@@ -65,52 +55,7 @@ msgctxt "Plugin|"
 msgid "Added ability to create plugins at JavaScript"
 msgstr "Додана можливість створювати плагіни на JavaScript"
 
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:41
 #: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:31
 msgctxt "Task|"
 msgid "Developer"
 msgstr "Розробник"
-
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:47
-msgctxt "plugin|"
-msgid ""
-"Beer, wine, vodka, champagne: after which drink in this sequence I should "
-"stop?"
-msgstr ""
-"Пиво, вино, горілка, шампанське: після якого напою з перелічених найгірші "
-"наслідки?"
-
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:48
-msgctxt "plugin|"
-msgid "Vodka"
-msgstr "Горілка"
-
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:49
-msgctxt "plugin|"
-msgid "We are ready to drink with you!"
-msgstr "Ми готові випити з Вами!"
-
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:112
-msgctxt "plugin|"
-msgid "Enabled:"
-msgstr "Увімкнено:"
-
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:113
-msgctxt "plugin|"
-msgid "Block authorization requests:"
-msgstr "Блокувати запити авторизації"
-
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:114
-msgctxt "plugin|"
-msgid "Question:"
-msgstr "Питання:"
-
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:115
-msgctxt "plugin|"
-msgid "Answers (semicolon as separator):"
-msgstr "Відповіді (крапка з комою в якості роздільника)"
-
-#: ../../../plugins/scriptapi/share/qutim/scripts/antispam/plugin.js:116
-msgctxt "plugin|"
-msgid "Message on correct answer:"
-msgstr "Повідомлення на правильну відповідь:"

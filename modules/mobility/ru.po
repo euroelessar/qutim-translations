@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-27 13:45+0000\n"
-"PO-Revision-Date: 2012-04-11 09:37+0000\n"
-"Last-Translator: Alexander Gavrilov <dartraiden@hotmail.com>\n"
+"POT-Creation-Date: 2012-06-28 09:42+0000\n"
+"PO-Revision-Date: 2012-06-28 09:48+0000\n"
+"Last-Translator: Eugene Degtyarev <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-12 05:21+0000\n"
-"X-Generator: Launchpad (build 15070)\n"
+"X-Launchpad-Export-Date: 2012-06-29 05:07+0000\n"
+"X-Generator: Launchpad (build 15505)\n"
 "X-Qt-Contexts: true\n"
 "Language: ru\n"
 "X-Language: ru\n"
@@ -35,6 +35,11 @@ msgstr "Сеть доступна!"
 msgctxt "BearerManager|"
 msgid "Network is unreachable!"
 msgstr "Сеть недоступна!"
+
+#: ../../../plugins/mobility/src/vibrobackend/vibrobackend.cpp:53
+msgctxt "Core::VibroBackend|"
+msgid "Vibrate"
+msgstr "Вибрация"
 
 #: ../../../plugins/mobility/src/bearermanager/managersettings.ui:14
 msgctxt "ManagerSettings|"
@@ -65,6 +70,16 @@ msgstr "Движок мультимедиа"
 msgctxt "Plugin|"
 msgid "Sound engine based on QtMultimedia"
 msgstr "Звуковой движок, использующий QtMultimedia"
+
+#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:5
+msgctxt "Plugin|"
+msgid "Vibro engine"
+msgstr "Движок вибрации"
+
+#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:6
+msgctxt "Plugin|"
+msgid "Vibro engine based on QtFeedback"
+msgstr "Движок вибрации. основанный на QtFeedback"
 
 #: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:48
 msgctxt "Service|"

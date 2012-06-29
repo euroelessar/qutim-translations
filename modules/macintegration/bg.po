@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-21 20:01+0000\n"
+"POT-Creation-Date: 2012-06-28 09:42+0000\n"
 "PO-Revision-Date: 2012-02-19 18:21+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-22 06:52+0000\n"
-"X-Generator: Launchpad (build 14838)\n"
+"X-Launchpad-Export-Date: 2012-06-29 05:07+0000\n"
+"X-Generator: Launchpad (build 15505)\n"
 "X-Qt-Contexts: true\n"
 "Language: bg\n"
 "X-Language: bg\n"
@@ -76,53 +76,53 @@ msgstr "Език"
 
 #: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
-msgid "Growl notifications"
-msgstr "Growl уведомления"
-
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:2
-msgctxt "Plugin|"
-msgid "Default Mac Os X Notifications"
-msgstr "Подразбиращи се за Mac OS X уведомления"
-
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:3
-msgctxt "Plugin|"
-msgid "Mac Contactlist"
-msgstr "Списък с контакти за Mac"
-
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:4
-msgctxt "Plugin|"
-msgid "Mac OS X contactlist"
-msgstr "Списък с контакти за Mac OS X"
-
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:5
-msgctxt "Plugin|"
 msgid "Dock integration"
 msgstr "Интеграция с Dock"
 
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:6
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
 msgid "Mac OS X dock integration"
 msgstr "Интеграция с Dock в Mac OS X"
 
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:7
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:3
 msgctxt "Plugin|"
 msgid "SpellChecker"
 msgstr "Проверка на правописа"
 
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:8
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
 msgid "Mac OS X spell checker"
 msgstr "Проверка на правописа за Mac OS X"
 
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:9
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"
 msgid "IdleManager"
 msgstr "Управление на бездействието"
 
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:10
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:6
 msgctxt "Plugin|"
 msgid "Mac OS X idle manager"
 msgstr "Управление на бездействието в Mac OS X"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:7
+msgctxt "Plugin|"
+msgid "Mac Contactlist"
+msgstr "Списък с контакти за Mac"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:8
+msgctxt "Plugin|"
+msgid "Mac OS X contactlist"
+msgstr "Списък с контакти за Mac OS X"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:9
+msgctxt "Plugin|"
+msgid "Growl notifications"
+msgstr "Growl уведомления"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:10
+msgctxt "Plugin|"
+msgid "Default Mac Os X Notifications"
+msgstr "Подразбиращи се за Mac OS X уведомления"
 
 #: ../../../plugins/macintegration/src/macspellchecker/macspellchecker.mm:21
 msgctxt "Settings|"
