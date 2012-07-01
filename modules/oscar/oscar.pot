@@ -172,7 +172,7 @@ msgctxt "Author|"
 msgid "Alexey Prokhin"
 msgstr ""
 
-#: ../../../protocols/oscar/src/ui/icqmainsettings.cpp:51
+#: ../../../protocols/oscar/src/ui/icqmainsettings.cpp:52
 msgctxt "Codec|"
 msgid "System"
 msgstr ""

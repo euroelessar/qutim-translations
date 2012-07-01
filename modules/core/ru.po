@@ -122,7 +122,7 @@ msgctxt "AddContact|"
 msgid "Unavailable"
 msgstr "Недоступный"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:248
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:258
 msgctxt "AddContact|"
 msgid "Remove contact"
 msgstr "Удалить контакт"
@@ -310,12 +310,12 @@ msgctxt "ContactInfo|"
 msgid "Information unavailable"
 msgstr "Информация недоступна"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:209
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:219
 msgctxt "ContactInfo|"
 msgid "Show information"
 msgstr "Показать информацию"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:210
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:220
 msgctxt "ContactInfo|"
 msgid "Edit information"
 msgstr "Изменить информацию"
@@ -1181,23 +1181,17 @@ msgstr ""
 "как темы, пиктограммы, звуки могут поставляться под другой лицензией.</"
 "div><br><hr><br>"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:192
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:193
 #, qt-format
 msgctxt "Core::SimpleActions|"
 msgid "Rename contact %1"
 msgstr "Переименовать контакт %1"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:193
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:194
 #, qt-format
 msgctxt "Core::SimpleActions|"
 msgid "Input new name for contact %1"
 msgstr "Дайте новое имя контакту %1"
-
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:249
-#, qt-format
-msgctxt "Core::SimpleActions|"
-msgid "Are you sure you want to delete a contact %1 from the roster?"
-msgstr "Действительно удалить %1 из ростера?"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp:140
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
@@ -2822,6 +2816,12 @@ msgctxt "Proxy|"
 msgid "HTTP"
 msgstr "HTTP"
 
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:259
+#, fuzzy, qt-format
+msgctxt "QCoreApplication|"
+msgid "Are you sure you want to delete a contact %1 from the roster?"
+msgstr "Действительно удалить %1 из ростера?"
+
 #: ../../../core/libqutim/actiontoolbar.cpp:124
 msgctxt "QObject|"
 msgid "ToolBar appearance"
@@ -3378,7 +3378,7 @@ msgctxt "Service|"
 msgid "VibrationAlert"
 msgstr "Уведомление вибрацией"
 
-#: ../../../core/libqutim/settingslayer.cpp:426
+#: ../../../core/libqutim/settingslayer.cpp:353
 msgctxt "Service|"
 msgid "Settings Window"
 msgstr "Окно настроек"
@@ -3428,32 +3428,32 @@ msgctxt "Settings|"
 msgid "Log file (*.log)"
 msgstr "Файл журнала (*.log)"
 
-#: ../../../core/libqutim/settingslayer.cpp:474
+#: ../../../core/libqutim/settingslayer.cpp:401
 msgctxt "Settings|"
 msgid "General"
 msgstr "Главные"
 
-#: ../../../core/libqutim/settingslayer.cpp:475
+#: ../../../core/libqutim/settingslayer.cpp:402
 msgctxt "Settings|"
 msgid "Protocols"
 msgstr "Протоколы"
 
-#: ../../../core/libqutim/settingslayer.cpp:476
+#: ../../../core/libqutim/settingslayer.cpp:403
 msgctxt "Settings|"
 msgid "Appearance"
 msgstr "Оформление"
 
-#: ../../../core/libqutim/settingslayer.cpp:477
+#: ../../../core/libqutim/settingslayer.cpp:404
 msgctxt "Settings|"
 msgid "Plugins"
 msgstr "Плагины"
 
-#: ../../../core/libqutim/settingslayer.cpp:478
+#: ../../../core/libqutim/settingslayer.cpp:405
 msgctxt "Settings|"
 msgid "Special"
 msgstr "Особые"
 
-#: ../../../core/libqutim/settingslayer.cpp:479
+#: ../../../core/libqutim/settingslayer.cpp:406
 msgctxt "Settings|"
 msgid "Invalid"
 msgstr "Некорректный"
@@ -4006,7 +4006,7 @@ msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Input/output error"
 msgstr "Ошибка ввода/вывода"
 
-#: ../../../core/libqutim/modulemanager.cpp:558
+#: ../../../core/libqutim/modulemanager.cpp:560
 #, qt-format
 msgctxt "qutim_sdk_0_3::ModuleManager|"
 msgid ""

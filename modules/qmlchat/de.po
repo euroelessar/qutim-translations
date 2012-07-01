@@ -16,48 +16,48 @@ msgstr ""
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
 
-#: ../../../plugins/qmlchat/settings/chatappearance.cpp:55
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:54
 msgctxt "Core::AdiumChat::ChatAppearance|"
 msgid "Vasya Pupkin"
 msgstr "Irgend Jemand"
 
-#: ../../../plugins/qmlchat/settings/chatappearance.cpp:66
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:65
 msgctxt "Core::AdiumChat::ChatAppearance|"
 msgid "Noname"
 msgstr "Du Selbst"
 
-#: ../../../plugins/qmlchat/settings/chatappearance.cpp:135
-#: ../../../plugins/qmlchat/settings/chatappearance.cpp:191
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:134
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:190
 msgctxt "Core::AdiumChat::ChatAppearance|"
 msgid "Unable to create chat session"
 msgstr "Konnte keine Chatsitzung erstellen"
 
-#: ../../../plugins/qmlchat/settings/chatappearance.cpp:195
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:194
 msgctxt "Core::AdiumChat::ChatAppearance|"
 msgid "Preview message"
 msgstr "Vorschaunachricht"
 
-#: ../../../plugins/qmlchat/settings/chatappearance.cpp:202
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:201
 msgctxt "Core::AdiumChat::ChatAppearance|"
 msgid "Hello!"
 msgstr "Hallo!"
 
-#: ../../../plugins/qmlchat/settings/chatappearance.cpp:205
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:204
 msgctxt "Core::AdiumChat::ChatAppearance|"
 msgid "How are you?"
 msgstr "Wie geht's denn so?"
 
-#: ../../../plugins/qmlchat/settings/chatappearance.cpp:208
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:207
 msgctxt "Core::AdiumChat::ChatAppearance|"
 msgid "I am fine!"
 msgstr "Super!"
 
-#: ../../../plugins/qmlchat/settings/chatappearance.cpp:211
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:210
 msgctxt "Core::AdiumChat::ChatAppearance|"
 msgid "/me is thinking!"
 msgstr "/me denkt nach!"
 
-#: ../../../plugins/qmlchat/settings/chatappearance.cpp:214
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:213
 msgctxt "Core::AdiumChat::ChatAppearance|"
 msgid "Vasya Pupkin is reading you mind"
 msgstr "Irgend Jemand ändert seinen Status"
@@ -72,7 +72,7 @@ msgctxt "Plugin|"
 msgid "Modern chat view based on power of QtQuick"
 msgstr "Moderne Chatansicht, basierend auf QtQuick"
 
-#: ../../../plugins/qmlchat/quickchatviewfactory.cpp:41
+#: ../../../plugins/qmlchat/quickchatviewfactory.cpp:40
 msgctxt "Settings|"
 msgid "Chat"
 msgstr "Nachrichtenfenster"

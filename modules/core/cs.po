@@ -123,7 +123,7 @@ msgctxt "AddContact|"
 msgid "Unavailable"
 msgstr "Není k dispozici"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:248
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:258
 msgctxt "AddContact|"
 msgid "Remove contact"
 msgstr "Odstranit kontakt"
@@ -301,12 +301,12 @@ msgctxt "ContactInfo|"
 msgid "Information unavailable"
 msgstr "Informace nejsou k dispozici"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:209
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:219
 msgctxt "ContactInfo|"
 msgid "Show information"
 msgstr "Zobrazit informace"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:210
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:220
 msgctxt "ContactInfo|"
 msgid "Edit information"
 msgstr "Upravit informace"
@@ -1160,23 +1160,17 @@ msgid ""
 "div><br><hr><br>"
 msgstr ""
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:192
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:193
 #, qt-format
 msgctxt "Core::SimpleActions|"
 msgid "Rename contact %1"
 msgstr "Přejmenovat kontakt %1"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:193
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:194
 #, qt-format
 msgctxt "Core::SimpleActions|"
 msgid "Input new name for contact %1"
 msgstr "Zadejte nové jméno pro kontakt %1"
-
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:249
-#, qt-format
-msgctxt "Core::SimpleActions|"
-msgid "Are you sure you want to delete a contact %1 from the roster?"
-msgstr "Opravdu chcete odstranit kontakt %1 ze seznamu kontaktů?"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp:140
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
@@ -2785,6 +2779,12 @@ msgctxt "Proxy|"
 msgid "HTTP"
 msgstr ""
 
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:259
+#, fuzzy, qt-format
+msgctxt "QCoreApplication|"
+msgid "Are you sure you want to delete a contact %1 from the roster?"
+msgstr "Opravdu chcete odstranit kontakt %1 ze seznamu kontaktů?"
+
 #: ../../../core/libqutim/actiontoolbar.cpp:124
 msgctxt "QObject|"
 msgid "ToolBar appearance"
@@ -3339,7 +3339,7 @@ msgctxt "Service|"
 msgid "VibrationAlert"
 msgstr ""
 
-#: ../../../core/libqutim/settingslayer.cpp:426
+#: ../../../core/libqutim/settingslayer.cpp:353
 msgctxt "Service|"
 msgid "Settings Window"
 msgstr ""
@@ -3389,32 +3389,32 @@ msgctxt "Settings|"
 msgid "Log file (*.log)"
 msgstr ""
 
-#: ../../../core/libqutim/settingslayer.cpp:474
+#: ../../../core/libqutim/settingslayer.cpp:401
 msgctxt "Settings|"
 msgid "General"
 msgstr "Obecné"
 
-#: ../../../core/libqutim/settingslayer.cpp:475
+#: ../../../core/libqutim/settingslayer.cpp:402
 msgctxt "Settings|"
 msgid "Protocols"
 msgstr "Protokoly"
 
-#: ../../../core/libqutim/settingslayer.cpp:476
+#: ../../../core/libqutim/settingslayer.cpp:403
 msgctxt "Settings|"
 msgid "Appearance"
 msgstr "Vzhled"
 
-#: ../../../core/libqutim/settingslayer.cpp:477
+#: ../../../core/libqutim/settingslayer.cpp:404
 msgctxt "Settings|"
 msgid "Plugins"
 msgstr "Pluginy"
 
-#: ../../../core/libqutim/settingslayer.cpp:478
+#: ../../../core/libqutim/settingslayer.cpp:405
 msgctxt "Settings|"
 msgid "Special"
 msgstr "Speciální"
 
-#: ../../../core/libqutim/settingslayer.cpp:479
+#: ../../../core/libqutim/settingslayer.cpp:406
 msgctxt "Settings|"
 msgid "Invalid"
 msgstr "Neplatný"
@@ -3959,7 +3959,7 @@ msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Input/output error"
 msgstr "Vstupně/výstupní chyba"
 
-#: ../../../core/libqutim/modulemanager.cpp:558
+#: ../../../core/libqutim/modulemanager.cpp:560
 #, qt-format
 msgctxt "qutim_sdk_0_3::ModuleManager|"
 msgid ""
