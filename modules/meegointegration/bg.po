@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-06-28 15:51+0000\n"
-"PO-Revision-Date: 2012-03-17 20:46+0000\n"
+"PO-Revision-Date: 2012-06-30 20:08+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bg\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2012-06-29 05:07+0000\n"
-"X-Generator: Launchpad (build 15505)\n"
+"X-Launchpad-Export-Date: 2012-07-01 04:56+0000\n"
+"X-Generator: Launchpad (build 15520)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: bg\n"
 "X-Source-Language: C\n"
@@ -85,22 +85,22 @@ msgstr "Сметки"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/AccountCreatorPage.qml:63
 msgctxt "AccountCreatorPage|"
 msgid "Remove account"
-msgstr ""
+msgstr "Премахване на сметката"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/AccountCreatorPage.qml:71
 msgctxt "AccountCreatorPage|"
 msgid "Do you really want to remove account?"
-msgstr ""
+msgstr "Наистина ли желаете да премахнете сметката?"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/AccountCreatorPage.qml:72
 msgctxt "AccountCreatorPage|"
 msgid "Remove"
-msgstr ""
+msgstr "Премахване"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/AccountCreatorPage.qml:73
 msgctxt "AccountCreatorPage|"
 msgid "Cancel"
-msgstr ""
+msgstr "Отказ"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/quickaddcontactdialog.cpp:61
 msgctxt "AddContact|"
@@ -140,27 +140,27 @@ msgstr "Добавяне на контакта"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/AntispamPage.qml:40
 msgctxt "AntispamPage|"
 msgid "Enable antispam"
-msgstr ""
+msgstr "Включване на защитата от спам"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/AntispamPage.qml:45
 msgctxt "AntispamPage|"
 msgid "Handle auth requests"
-msgstr ""
+msgstr "Да се обработват заявките за удостоверяване"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/AntispamPage.qml:49
 msgctxt "AntispamPage|"
 msgid "Question"
-msgstr ""
+msgstr "Въпрос"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/AntispamPage.qml:59
 msgctxt "AntispamPage|"
 msgid "Answers (semicolon as a separator)"
-msgstr ""
+msgstr "Отговори (разделени със запетая)"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/AntispamPage.qml:69
 msgctxt "AntispamPage|"
 msgid "Message on correct answer"
-msgstr ""
+msgstr "Съобщение при верен отговор"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AuthDialog.qml:64
 msgctxt "AuthDialog|"
@@ -177,16 +177,16 @@ msgstr "Отхвърляне"
 msgctxt "AutoAwayPage|"
 msgid "Set status \"Away\" in %n minutes"
 msgid_plural "Set status \"Away\" in %n minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Установяване на статуса в \"Отсъствам\" след %n минута"
+msgstr[1] "Установяване на статуса в \"Отсъствам\" след %n минути"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/AutoAwayPage.qml:48
 #, qt-format
 msgctxt "AutoAwayPage|"
 msgid "Set status \"Not available\" in %n minutes"
 msgid_plural "Set status \"Not available\" in %n minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Установяване на статуса в \"Недостъпен\" след %n минута"
+msgstr[1] "Установяване на статуса в \"Недостъпен\" след %n минути"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/BlogImproverPage.qml:31
 msgctxt "BlogImproverPage|"
