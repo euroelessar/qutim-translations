@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-06-28 09:42+0000\n"
-"PO-Revision-Date: 2012-03-23 18:59+0000\n"
+"PO-Revision-Date: 2012-06-30 15:44+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-29 05:07+0000\n"
-"X-Generator: Launchpad (build 15505)\n"
+"X-Launchpad-Export-Date: 2012-07-01 04:56+0000\n"
+"X-Generator: Launchpad (build 15520)\n"
 "X-Qt-Contexts: true\n"
 "Language: bg\n"
 "X-Language: bg\n"
@@ -40,7 +40,7 @@ msgstr "Мрежата е недостъпна!"
 #: ../../../plugins/mobility/src/vibrobackend/vibrobackend.cpp:53
 msgctxt "Core::VibroBackend|"
 msgid "Vibrate"
-msgstr ""
+msgstr "Вибрация"
 
 #: ../../../plugins/mobility/src/bearermanager/managersettings.ui:14
 msgctxt "ManagerSettings|"
@@ -75,12 +75,12 @@ msgstr "Звукова система, базирана на QtMultimedia"
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"
 msgid "Vibro engine"
-msgstr ""
+msgstr "Механизъм за вибрация"
 
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:6
 msgctxt "Plugin|"
 msgid "Vibro engine based on QtFeedback"
-msgstr ""
+msgstr "Механизъм за вибрация на базата на QtFeedback"
 
 #: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:48
 msgctxt "Service|"
