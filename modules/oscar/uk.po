@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-06-28 09:42+0000\n"
-"PO-Revision-Date: 2012-06-30 08:39+0000\n"
-"Last-Translator: Vsevolod Velichko <Unknown>\n"
+"POT-Creation-Date: 2012-07-01 19:31+0000\n"
+"PO-Revision-Date: 2012-07-01 23:12+0000\n"
+"Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-07-01 04:57+0000\n"
+"X-Launchpad-Export-Date: 2012-07-02 05:00+0000\n"
 "X-Generator: Launchpad (build 15520)\n"
 "X-Qt-Contexts: true\n"
 
@@ -303,6 +303,8 @@ msgid ""
 "The number of users connected from this IP has reached the maximum "
 "(reservation)"
 msgstr ""
+"Кількість користувачів, підключених з цього IP досягла максимальної "
+"(резервне)"
 
 #: ../../../protocols/oscar/src/connection.cpp:352
 msgctxt "ConnectionError|"
@@ -356,7 +358,7 @@ msgstr "Ваш обліковий запис тимчасово заблоков
 #: ../../../protocols/oscar/src/connection.cpp:370
 msgctxt "ConnectionError|"
 msgid "Another client is logging with this UIN"
-msgstr ""
+msgstr "Хтось увійшов з таким самим номером UIN"
 
 #: ../../../protocols/oscar/src/connection.cpp:372
 msgctxt "ConnectionError|"
@@ -3708,7 +3710,7 @@ msgstr "Авторизувати"
 #: ../../../protocols/oscar/src/authorization.cpp:170
 msgctxt "qutim_sdk_0_3::oscar::Authorization|"
 msgid "Not authorized"
-msgstr ""
+msgstr "Не авторизовано"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:83
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:210

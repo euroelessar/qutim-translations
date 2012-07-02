@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-28 15:51+0000\n"
+"POT-Creation-Date: 2012-07-01 19:31+0000\n"
 "PO-Revision-Date: 2012-06-30 12:01+0000\n"
 "Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2012-07-01 04:56+0000\n"
+"X-Launchpad-Export-Date: 2012-07-02 05:00+0000\n"
 "X-Generator: Launchpad (build 15520)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
@@ -359,53 +359,45 @@ msgid "Create"
 msgstr "Создать"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateVKPage.qml:18
-#, fuzzy
 msgctxt "CreateVKPage|"
 msgid "Email:"
-msgstr "Электропочта:"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateVKPage.qml:25
-#, fuzzy
 msgctxt "CreateVKPage|"
 msgid "Next"
-msgstr "Далее"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateVKPage.qml:33
-#, fuzzy
 msgctxt "CreateVKPage|"
 msgid "Password:"
-msgstr "Пароль:"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateVKPage.qml:41
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateVKPage.qml:81
-#, fuzzy
 msgctxt "CreateVKPage|"
 msgid "Create"
-msgstr "Создать"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateVKPage.qml:51
-#, fuzzy
 msgctxt "CreateVKPage|"
 msgid "Save password"
-msgstr "Запомнить пароль"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/EditGroupChatPage.qml:20
-#, fuzzy
 msgctxt "EditGroupChatPage|"
 msgid "New bookmark"
-msgstr "Сохранить в закладки"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/EditGroupChatPage.qml:38
-#, fuzzy
 msgctxt "EditGroupChatPage|"
 msgid "Choose bookmark"
-msgstr "Сохранить в закладки"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/EditGroupChatPage.qml:57
-#, fuzzy
 msgctxt "EditGroupChatPage|"
 msgid "Remove"
-msgstr "Удалить"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/EditGroupChatPage.qml:63
 msgctxt "EditGroupChatPage|"
@@ -478,10 +470,9 @@ msgid "Ok"
 msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/InputDialog.qml:32
-#, fuzzy
 msgctxt "InputDialog|"
 msgid "Cancel"
-msgstr "Отмена"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/JabberPage.qml:31
 msgctxt "JabberPage|"
@@ -516,10 +507,9 @@ msgid "Join groupchat"
 msgstr "Войти в конференцию"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:62
-#, fuzzy
 msgctxt "JoinGroupChatDialog|"
 msgid "Select account"
-msgstr "Выбор учетной записи:"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:69
 msgctxt "JoinGroupChatDialog|"
@@ -527,46 +517,39 @@ msgid "Join"
 msgstr "Войти"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:70
-#, fuzzy
 msgctxt "JoinGroupChatDialog|"
 msgid "Join groupchat"
-msgstr "Войти в конференцию"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:76
-#, fuzzy
 msgctxt "JoinGroupChatDialog|"
 msgid "Edit bookmarks"
-msgstr "Закладки"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:77
-#, fuzzy
 msgctxt "JoinGroupChatDialog|"
 msgid "Manage bookmarks"
-msgstr "Сохранить в закладки"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:84
-#, fuzzy
 msgctxt "JoinGroupChatDialog|"
 msgid "Bookmarks"
-msgstr "Закладки"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:100
-#, fuzzy
 msgctxt "JoinGroupChatDialog|"
 msgid "Recent"
-msgstr "Недавние"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatPage.qml:24
-#, fuzzy
 msgctxt "JoinGroupChatPage|"
 msgid "Save bookmark"
-msgstr "Сохранить в закладки"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatPage.qml:38
-#, fuzzy
 msgctxt "JoinGroupChatPage|"
 msgid "Join"
-msgstr "Войти"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/LanguagesPage.qml:63
 msgctxt "LanguagesPage|"
@@ -927,10 +910,9 @@ msgid "Noop for icon loader service"
 msgstr "Сервис-заглушка для загрузки иконок"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:98
-#, fuzzy
 msgctxt "Plugin|"
 msgid "MeeGo contact info"
-msgstr "Окно добавления контактов Meego"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:99
 msgctxt "Plugin|"
@@ -1008,45 +990,11 @@ msgid "HTML5 Video"
 msgstr "HTML5 Видео"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/VKPage.qml:29
-#, fuzzy
 msgctxt "VKPage|"
 msgid "Email:"
-msgstr "Электропочта:"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/VKPage.qml:32
-#, fuzzy
 msgctxt "VKPage|"
 msgid "Password:"
-msgstr "Пароль:"
-
-#~ msgctxt "JoinGroupChatDialog|"
-#~ msgid "Close"
-#~ msgstr "Закрыть"
-
-#~ msgctxt "JoinGroupChatDialog|"
-#~ msgid "Join to conference:"
-#~ msgstr "Войти в конференцию:"
-
-#~ msgctxt "JoinGroupChatDialog|"
-#~ msgid "Name"
-#~ msgstr "Имя"
-
-#~ msgctxt "JoinGroupChatDialog|"
-#~ msgid "Conference"
-#~ msgstr "Конференция"
-
-#~ msgctxt "JoinGroupChatDialog|"
-#~ msgid "Nick"
-#~ msgstr "Ник"
-
-#~ msgctxt "JoinGroupChatDialog|"
-#~ msgid "Password"
-#~ msgstr "Пароль"
-
-#~ msgctxt "JoinGroupChatDialog|"
-#~ msgid "Auto Join"
-#~ msgstr "Автовход"
-
-#~ msgctxt "SwitchRow|"
-#~ msgid "Set status \"Away\""
-#~ msgstr "Установить статус \"Отошел\""
+msgstr ""

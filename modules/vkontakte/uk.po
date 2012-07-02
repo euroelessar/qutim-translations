@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-23 17:51+0000\n"
-"PO-Revision-Date: 2012-06-06 20:49+0000\n"
+"POT-Creation-Date: 2012-07-01 19:31+0000\n"
+"PO-Revision-Date: 2012-07-01 22:49+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-28 12:53+0000\n"
-"X-Generator: Launchpad (build 15505)\n"
+"X-Launchpad-Export-Date: 2012-07-02 05:00+0000\n"
+"X-Generator: Launchpad (build 15520)\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../../protocols/vkontakte/src/vcontact.cpp:210
@@ -27,7 +27,7 @@ msgstr "Активність"
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:63
 msgctxt "ContactInfo|"
 msgid "Nickname"
-msgstr "Нікнейм"
+msgstr "Нік"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:64
 msgctxt "ContactInfo|"
@@ -107,7 +107,7 @@ msgstr "Чоловіча"
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:195
 msgctxt "ContactInfo|"
 msgid "General"
-msgstr "Загальний"
+msgstr "Загальна"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:197
 msgctxt "ContactInfo|"
@@ -134,7 +134,7 @@ msgstr "ВКонтакте"
 #, fuzzy
 msgctxt "Plugin|"
 msgid "New implementation of vk.com protocol"
-msgstr "Проста реалізація ВКонтакті"
+msgstr "Нова реалізація протоколу vk.com"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:42
 msgctxt "Plugin|"
@@ -142,10 +142,9 @@ msgid "Vkontakte"
 msgstr "ВКонтакте"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:43
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Simple implementation of vkontakte, based on vk.com/developers api"
-msgstr "Спрощена реалізація Вконтакті з допомогою desktop.api"
+msgstr "Проста реалізація vkontakte, що базується на vk.com/developers api"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:50
 msgctxt "Plugin|"
@@ -155,7 +154,7 @@ msgstr "Спрощена реалізація Вконтакті з допомо
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:54
 msgctxt "Plugin|"
 msgid "Vkontakte account creator"
-msgstr "Створювач облікових записів Вконтакте"
+msgstr "Створювач облікових записів Вконтакті"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:55
 msgctxt "Plugin|"
@@ -170,7 +169,7 @@ msgstr "Підтримка проксі"
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:59
 msgctxt "Plugin|"
 msgid "Proxy support for Vkontakte"
-msgstr "Підтримка проксі для Вконтакте"
+msgstr "Підтримка проксі для Вконтакті"
 
 #: ../../../protocols/vkontakte/src/ui/vaccountsettings.ui:14
 msgctxt "VAccountSettings|"
@@ -209,10 +208,9 @@ msgid "Save password"
 msgstr "Зберегти пароль"
 
 #: ../../../protocols/vkontakte/src/vprotocol.cpp:78
-#, fuzzy
 msgctxt "VProtocol|"
 msgid "id"
-msgstr "Ідентифікатор ВКонтакте"
+msgstr "id"
 
 #: ../../../protocols/vkontakte/src/vprotocol.cpp:45
 msgctxt "Vkontakte|"
@@ -228,108 +226,16 @@ msgstr "Налаштування облікового записа"
 #, qt-format
 msgctxt "vk::Buddy|"
 msgid "id%1"
-msgstr ""
+msgstr "id%1"
 
 #: ../../../protocols/vkontakte/lib/src/api/contact.cpp:143
 #, qt-format
 msgctxt "vk::Buddy|"
 msgid "Unknown tag id %1"
-msgstr ""
+msgstr "Невідомий тег id %1"
 
 #: ../../../protocols/vkontakte/lib/src/api/contact.cpp:206
 #, qt-format
 msgctxt "vk::Group|"
 msgid "group-%1"
-msgstr ""
-
-#~ msgctxt "AlbumDelegate|"
-#~ msgid "Remove"
-#~ msgstr "Видалити"
-
-#~ msgctxt "Plugin|"
-#~ msgid "VKontakte"
-#~ msgstr "ВКонтакті"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Vkontakte photoalbum support"
-#~ msgstr "Підтримка фотоальбомів Вконтакті"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Vkontakte photoalbum support for qutIM, based on power of Qt Quick"
-#~ msgstr "Підтримка фотоальбомів Вконтакті з допомогою Qt Quick"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Vkontakte wall support"
-#~ msgstr "Підтримка Стіни Вконтакті"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Vkontakte wall support for qutIM"
-#~ msgstr "Підтримка стіни Вконтакте qutIM"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Photoalbum"
-#~ msgstr "Фотоальбом"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Vkontakte photoalbum support for qutIM"
-#~ msgstr "Підтримка фотоальбома Вконтакте qutIM"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Wall"
-#~ msgstr "Стіна"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Simple implementation of vkontakte, based on userapi.ru"
-#~ msgstr "Спрощена реалізація Вконтакті з допомогою userapi.ru"
-
-#~ msgctxt "VConnection|"
-#~ msgid "qutIM - VKontakte authorization"
-#~ msgstr "qutIM - авторизація ВКонтакте"
-
-#~ msgctxt "VWallSession|"
-#~ msgid "%1 (Wall)"
-#~ msgstr "%1 (Стіна)"
-
-#~ msgctxt "VWallSessionPrivate|"
-#~ msgid "Unknown"
-#~ msgstr "Невідомо"
-
-#~ msgctxt "VWallSessionPrivate|"
-#~ msgid "Audio"
-#~ msgstr "Аудіо"
-
-#~ msgctxt "VWallSessionPrivate|"
-#~ msgid "Video"
-#~ msgstr "Відео"
-
-#~ msgctxt "VWallSessionPrivate|"
-#~ msgid "Application"
-#~ msgstr "Додаток"
-
-#~ msgctxt "VWallSessionPrivate|"
-#~ msgid "Graffiti"
-#~ msgstr "Графіті"
-
-#~ msgctxt "VWallSessionPrivate|"
-#~ msgid "Photo"
-#~ msgstr "Фотографія"
-
-#~ msgctxt "VWallSessionPrivate|"
-#~ msgid "Posted photo"
-#~ msgstr "Додано фото"
-
-#~ msgctxt "VWallSessionPrivate|"
-#~ msgid "Multimedia message: %1"
-#~ msgstr "Мультимедійне повідомлення:%1"
-
-#~ msgctxt "Vkontakte|"
-#~ msgid "View photoalbum"
-#~ msgstr "Переглянути фотоальбом"
-
-#~ msgctxt "Vkontakte|"
-#~ msgid "View wall"
-#~ msgstr "Переглянути стіну"
-
-#~ msgctxt "main|"
-#~ msgid "Back"
-#~ msgstr "Назад"
+msgstr "група-%1"

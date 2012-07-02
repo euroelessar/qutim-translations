@@ -1,0 +1,274 @@
+# Slovak translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-03-30 18:37+0000\n"
+"PO-Revision-Date: 2012-07-01 23:30+0000\n"
+"Last-Translator: DAG Software <Unknown>\n"
+"Language-Team: Slovak <sk@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-07-02 05:00+0000\n"
+"X-Generator: Launchpad (build 15520)\n"
+
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:57
+msgctxt "Author|"
+msgid "Kazlauskas Ian"
+msgstr "Kazlauskas Ian"
+
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:60
+msgctxt "Author|"
+msgid "Alexey Prokhin"
+msgstr "Alexey Prokhin"
+
+#: ../../../plugins/nowplaying/src/icqsettings.ui:14
+msgctxt "IcqSettings|"
+msgid "ICQ"
+msgstr "ICQ"
+
+#: ../../../plugins/nowplaying/src/icqsettings.ui:20
+msgctxt "IcqSettings|"
+msgid "Current mode"
+msgstr "Aktuálny režim"
+
+#: ../../../plugins/nowplaying/src/icqsettings.ui:26
+msgctxt "IcqSettings|"
+msgid "Deactivated"
+msgstr "Deaktivované"
+
+#: ../../../plugins/nowplaying/src/icqsettings.ui:36
+msgctxt "IcqSettings|"
+msgid "Changes current X-status message"
+msgstr ""
+
+#: ../../../plugins/nowplaying/src/icqsettings.ui:46
+#: ../../../plugins/nowplaying/src/icqsettings.ui:79
+msgctxt "IcqSettings|"
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<table style=\"-qt-table-type: root; margin-top:4px; margin-bottom:4px; "
+"margin-left:4px; margin-right:4px;\">\n"
+"<tr>\n"
+"<td style=\"border: none;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%artist - artist</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%title - title</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%album - album</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%track - track number</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%time - track length</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%file - file name</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%uri - full path to "
+"file</span></p></td></tr></table></body></html>"
+msgstr ""
+
+#: ../../../plugins/nowplaying/src/icqsettings.ui:62
+msgctxt "IcqSettings|"
+msgid "Now playing: %artist - %title"
+msgstr "prehráva sa: %artist - %title"
+
+#: ../../../plugins/nowplaying/src/icqsettings.ui:69
+msgctxt "IcqSettings|"
+msgid "Changes message of \"Listening to music\" status"
+msgstr ""
+
+#: ../../../plugins/nowplaying/src/icqsettings.ui:95
+msgctxt "IcqSettings|"
+msgid "%artist - %title"
+msgstr "%artist - %title"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:14
+msgctxt "JabberSettings|"
+msgid "Jabber"
+msgstr "Jabber"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:20
+msgctxt "JabberSettings|"
+msgid "Current mode"
+msgstr "Aktuálny režim"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:26
+msgctxt "JabberSettings|"
+msgid "Deactivated"
+msgstr "Deaktivované"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:36
+msgctxt "JabberSettings|"
+msgid "Activated"
+msgstr "Aktivované"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:46
+msgctxt "JabberSettings|"
+msgid "Info to be presented"
+msgstr "Informácie pre zobrazenie"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:52
+msgctxt "JabberSettings|"
+msgid "Artist"
+msgstr "Interprét"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:59
+msgctxt "JabberSettings|"
+msgid "Track number"
+msgstr "Číslo skladby"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:66
+msgctxt "JabberSettings|"
+msgid "Title"
+msgstr "Názov"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:73
+msgctxt "JabberSettings|"
+msgid "Track length"
+msgstr "Dĺžka skladby"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:80
+msgctxt "JabberSettings|"
+msgid "Album"
+msgstr "Album"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:87
+msgctxt "JabberSettings|"
+msgid "Path to file"
+msgstr "Cesta k súboru"
+
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:99
+msgctxt "NowPlaying|"
+msgid "Now Playing"
+msgstr "Prehráva sa"
+
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:292
+msgctxt "NowPlaying|"
+msgid "Stop now playing"
+msgstr ""
+
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:293
+msgctxt "NowPlaying|"
+msgid "Start now playing"
+msgstr ""
+
+#: ../../../plugins/nowplaying/src/nowplayingsettings.ui:17
+msgctxt "NowPlayingSettings|"
+msgid "Form"
+msgstr "Formulár"
+
+#: ../../../plugins/nowplaying/src/nowplayingsettings.ui:36
+msgctxt "NowPlayingSettings|"
+msgid "Mode"
+msgstr "Režim"
+
+#: ../../../plugins/nowplaying/src/nowplayingsettings.ui:42
+msgctxt "NowPlayingSettings|"
+msgid "Current plugin status:"
+msgstr "Aktuálny stav pluginu:"
+
+#: ../../../plugins/nowplaying/src/nowplayingsettings.ui:49
+msgctxt "NowPlayingSettings|"
+msgid "Is working"
+msgstr ""
+
+#: ../../../plugins/nowplaying/src/nowplayingsettings.ui:56
+msgctxt "NowPlayingSettings|"
+msgid "Stop"
+msgstr "Zastaviť"
+
+#: ../../../plugins/nowplaying/src/nowplayingsettings.ui:83
+msgctxt "NowPlayingSettings|"
+msgid "Set mode for all accounts"
+msgstr "Nastaviť režim pre všetky účty"
+
+#: ../../../plugins/nowplaying/src/nowplayingsettings.ui:103
+msgctxt "NowPlayingSettings|"
+msgid "You have no Oscar, Jabber or MRIM accounts."
+msgstr "Nemáte Oscar, Jabber ani MRIM účty."
+
+#: ../../../plugins/nowplaying/src/nowplayingsettings.ui:129
+msgctxt "NowPlayingSettings|"
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: ../../../plugins/nowplaying/src/nowplayingsettings.ui:135
+msgctxt "NowPlayingSettings|"
+msgid "Music Player"
+msgstr "Hudobný prehrávač"
+
+#: ../../../plugins/nowplaying/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "NowPlaying"
+msgstr "PrehrávaSa"
+
+#: ../../../plugins/nowplaying/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:54
+msgctxt "Plugin|"
+msgid "Now playing plugin"
+msgstr "plugin Prehráva sa"
+
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:53
+msgctxt "Plugin|"
+msgid "Now Playing"
+msgstr "Prehráva sa"
+
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:64
+msgctxt "Plugin|"
+msgid "Now Playing Mpris"
+msgstr "Prehráva sa Mpris"
+
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:65
+msgctxt "Plugin|"
+msgid "Mpris support for now playing plugin"
+msgstr ""
+
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:58
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:61
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Vývojár"
+
+#: ../../../plugins/nowplaying/src/settingsui.cpp:77
+msgctxt "qutim_sdk_0_3::nowplaying::SettingsUI|"
+msgid "No player"
+msgstr "Žiaden prehrávač"
+
+#: ../../../plugins/nowplaying/src/settingsui.cpp:184
+msgctxt "qutim_sdk_0_3::nowplaying::SettingsUI|"
+msgid "working"
+msgstr "pracuje"
+
+#: ../../../plugins/nowplaying/src/settingsui.cpp:185
+msgctxt "qutim_sdk_0_3::nowplaying::SettingsUI|"
+msgid "Stop"
+msgstr "Zastaviť"
+
+#: ../../../plugins/nowplaying/src/settingsui.cpp:187
+msgctxt "qutim_sdk_0_3::nowplaying::SettingsUI|"
+msgid "not working"
+msgstr "nepracuje"
+
+#: ../../../plugins/nowplaying/src/settingsui.cpp:188
+msgctxt "qutim_sdk_0_3::nowplaying::SettingsUI|"
+msgid "Start"
+msgstr "Spustiť"

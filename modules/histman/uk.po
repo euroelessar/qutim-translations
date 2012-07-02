@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-06-28 09:42+0000\n"
-"PO-Revision-Date: 2012-06-30 08:38+0000\n"
-"Last-Translator: Vsevolod Velichko <Unknown>\n"
+"PO-Revision-Date: 2012-07-01 22:55+0000\n"
+"Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2012-07-01 04:56+0000\n"
+"X-Launchpad-Export-Date: 2012-07-02 04:59+0000\n"
 "X-Generator: Launchpad (build 15520)\n"
 "X-Qt-Contexts: true\n"
 
@@ -176,7 +176,7 @@ msgstr "Менеджер об'єднує історію, це може зайн�
 #: ../../../plugins/histman/src/dumphistorypage.cpp:145
 msgctxt "HistoryManager::DumpHistoryPage|"
 msgid "History has been successfully imported."
-msgstr ""
+msgstr "Історія була успішно імпортована."
 
 #: ../../../plugins/histman/src/historymanagerwindow.cpp:85
 #: ../../../plugins/histman/src/historymanagerwindow.cpp:287
@@ -205,8 +205,9 @@ msgstr ""
 msgctxt "HistoryManager::ImportHistoryPage|"
 msgid "%n message(s) have been successfully loaded to memory."
 msgid_plural "%n message(s) have been successfully loaded to memory."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%n повідомлення(нь) було успішно завантажено в память."
+msgstr[1] "%n повідомлення(нь) було успішно завантажено в память."
+msgstr[2] "%n повідомлення(нь) було успішно завантажено в память."
 
 #: ../../../plugins/histman/src/importhistorypage.cpp:98
 #, qt-format

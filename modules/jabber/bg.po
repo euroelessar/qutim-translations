@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-05-04 19:01+0000\n"
+"POT-Creation-Date: 2012-07-01 19:31+0000\n"
 "PO-Revision-Date: 2012-05-04 19:29+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,8 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-28 12:52+0000\n"
-"X-Generator: Launchpad (build 15505)\n"
+"X-Launchpad-Export-Date: 2012-07-02 04:59+0000\n"
+"X-Generator: Launchpad (build 15520)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: bg\n"
 "X-Source-Language: C\n"
@@ -1118,10 +1118,10 @@ msgid "Unable to join groupchat"
 msgstr "Неуспешно присъединяване към групов разговор"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp:198
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Jabber::JMUCManager|"
 msgid "Join groupchat on %1"
-msgstr "Присъединяване към групов разговор за"
+msgstr ""
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp:199
 msgctxt "Jabber::JMUCManager|"

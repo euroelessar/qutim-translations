@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-06-28 15:51+0000\n"
+"POT-Creation-Date: 2012-07-01 19:31+0000\n"
 "PO-Revision-Date: 2012-03-30 22:09+0000\n"
 "Last-Translator: Anthony Harrington <untaintableangel@hotmail.co.uk>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
@@ -16,8 +16,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2012-06-29 05:07+0000\n"
-"X-Generator: Launchpad (build 15505)\n"
+"X-Launchpad-Export-Date: 2012-07-02 05:00+0000\n"
+"X-Generator: Launchpad (build 15520)\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:30
@@ -370,10 +370,9 @@ msgid "Next"
 msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateVKPage.qml:33
-#, fuzzy
 msgctxt "CreateVKPage|"
 msgid "Password:"
-msgstr "Password"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateVKPage.qml:41
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateVKPage.qml:81
@@ -382,22 +381,19 @@ msgid "Create"
 msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/CreateVKPage.qml:51
-#, fuzzy
 msgctxt "CreateVKPage|"
 msgid "Save password"
-msgstr "Remember password"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/EditGroupChatPage.qml:20
-#, fuzzy
 msgctxt "EditGroupChatPage|"
 msgid "New bookmark"
-msgstr "Save to bookmark"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/EditGroupChatPage.qml:38
-#, fuzzy
 msgctxt "EditGroupChatPage|"
 msgid "Choose bookmark"
-msgstr "Save to bookmark"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/EditGroupChatPage.qml:57
 msgctxt "EditGroupChatPage|"
@@ -475,10 +471,9 @@ msgid "Ok"
 msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/InputDialog.qml:32
-#, fuzzy
 msgctxt "InputDialog|"
 msgid "Cancel"
-msgstr "Cancel"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/JabberPage.qml:31
 msgctxt "JabberPage|"
@@ -513,10 +508,9 @@ msgid "Join groupchat"
 msgstr "Join groupchat"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:62
-#, fuzzy
 msgctxt "JoinGroupChatDialog|"
 msgid "Select account"
-msgstr "Select account:"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:69
 msgctxt "JoinGroupChatDialog|"
@@ -524,46 +518,39 @@ msgid "Join"
 msgstr "Join"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:70
-#, fuzzy
 msgctxt "JoinGroupChatDialog|"
 msgid "Join groupchat"
-msgstr "Join groupchat"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:76
-#, fuzzy
 msgctxt "JoinGroupChatDialog|"
 msgid "Edit bookmarks"
-msgstr "Bookmarks"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:77
-#, fuzzy
 msgctxt "JoinGroupChatDialog|"
 msgid "Manage bookmarks"
-msgstr "Save to bookmark"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:84
-#, fuzzy
 msgctxt "JoinGroupChatDialog|"
 msgid "Bookmarks"
-msgstr "Bookmarks"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatDialog.qml:100
-#, fuzzy
 msgctxt "JoinGroupChatDialog|"
 msgid "Recent"
-msgstr "Recent"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatPage.qml:24
-#, fuzzy
 msgctxt "JoinGroupChatPage|"
 msgid "Save bookmark"
-msgstr "Save to bookmark"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/JoinGroupChatPage.qml:38
-#, fuzzy
 msgctxt "JoinGroupChatPage|"
 msgid "Join"
-msgstr "Join"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/LanguagesPage.qml:63
 msgctxt "LanguagesPage|"
@@ -923,10 +910,9 @@ msgid "Noop for icon loader service"
 msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:98
-#, fuzzy
 msgctxt "Plugin|"
 msgid "MeeGo contact info"
-msgstr "MeeGo Add contact dialogue"
+msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:99
 msgctxt "Plugin|"
@@ -1009,31 +995,6 @@ msgid "Email:"
 msgstr ""
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/VKPage.qml:32
-#, fuzzy
 msgctxt "VKPage|"
 msgid "Password:"
-msgstr "Password"
-
-#~ msgctxt "JoinGroupChatDialog|"
-#~ msgid "Close"
-#~ msgstr "Close"
-
-#~ msgctxt "JoinGroupChatDialog|"
-#~ msgid "Join to conference:"
-#~ msgstr "Join to conference:"
-
-#~ msgctxt "JoinGroupChatDialog|"
-#~ msgid "Name"
-#~ msgstr "Name"
-
-#~ msgctxt "JoinGroupChatDialog|"
-#~ msgid "Conference"
-#~ msgstr "Conference"
-
-#~ msgctxt "JoinGroupChatDialog|"
-#~ msgid "Nick"
-#~ msgstr "Nick"
-
-#~ msgctxt "JoinGroupChatDialog|"
-#~ msgid "Auto Join"
-#~ msgstr "Auto Join"
+msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-23 17:51+0000\n"
+"POT-Creation-Date: 2012-07-01 19:31+0000\n"
 "PO-Revision-Date: 2012-04-07 14:59+0000\n"
 "Last-Translator: MiSi <kettis@volny.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,8 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-28 12:53+0000\n"
-"X-Generator: Launchpad (build 15505)\n"
+"X-Launchpad-Export-Date: 2012-07-02 05:00+0000\n"
+"X-Generator: Launchpad (build 15520)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
@@ -138,10 +138,9 @@ msgid "Vkontakte"
 msgstr "Vkontakte"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:43
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Simple implementation of vkontakte, based on vk.com/developers api"
-msgstr "Snadná implementace vkontakte, založená na desktop.api"
+msgstr ""
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:50
 msgctxt "Plugin|"
@@ -205,10 +204,9 @@ msgid "Save password"
 msgstr "Uložit heslo"
 
 #: ../../../protocols/vkontakte/src/vprotocol.cpp:78
-#, fuzzy
 msgctxt "VProtocol|"
 msgid "id"
-msgstr "ID"
+msgstr ""
 
 #: ../../../protocols/vkontakte/src/vprotocol.cpp:45
 msgctxt "Vkontakte|"
@@ -237,67 +235,3 @@ msgstr ""
 msgctxt "vk::Group|"
 msgid "group-%1"
 msgstr ""
-
-#~ msgctxt "AlbumDelegate|"
-#~ msgid "Remove"
-#~ msgstr "Odebrat"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Photoalbum"
-#~ msgstr "Fotoalbum"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Vkontakte photoalbum support for qutIM"
-#~ msgstr "Vkontakte photoalbum support pro qutIM"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Wall"
-#~ msgstr "Zeď"
-
-#~ msgctxt "Plugin|"
-#~ msgid "Simple implementation of vkontakte, based on userapi.ru"
-#~ msgstr "Snadná implementace vkontakte, založená na userapi.ru"
-
-#~ msgctxt "VConnection|"
-#~ msgid "qutIM - VKontakte authorization"
-#~ msgstr "qutIM - VKontakte autorizace"
-
-#~ msgctxt "VWallSession|"
-#~ msgid "%1 (Wall)"
-#~ msgstr "%1 (Zeď)"
-
-#~ msgctxt "VWallSessionPrivate|"
-#~ msgid "Unknown"
-#~ msgstr "Neznámé"
-
-#~ msgctxt "VWallSessionPrivate|"
-#~ msgid "Audio"
-#~ msgstr "Zvuk"
-
-#~ msgctxt "VWallSessionPrivate|"
-#~ msgid "Video"
-#~ msgstr "Video"
-
-#~ msgctxt "VWallSessionPrivate|"
-#~ msgid "Application"
-#~ msgstr "Aplikace"
-
-#~ msgctxt "VWallSessionPrivate|"
-#~ msgid "Photo"
-#~ msgstr "Fotka"
-
-#~ msgctxt "VWallSessionPrivate|"
-#~ msgid "Multimedia message: %1"
-#~ msgstr "Multimediální zpráva: %1"
-
-#~ msgctxt "Vkontakte|"
-#~ msgid "View photoalbum"
-#~ msgstr "Zobrazit album fotek"
-
-#~ msgctxt "Vkontakte|"
-#~ msgid "View wall"
-#~ msgstr "Zobrazit zeď"
-
-#~ msgctxt "main|"
-#~ msgid "Back"
-#~ msgstr "Zpět"
