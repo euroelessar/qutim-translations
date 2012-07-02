@@ -7,14 +7,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-06-28 09:42+0000\n"
-"PO-Revision-Date: 2012-06-30 08:38+0000\n"
-"Last-Translator: Vsevolod Velichko <Unknown>\n"
+"POT-Creation-Date: 2012-07-01 19:32+0000\n"
+"PO-Revision-Date: 2012-07-01 22:42+0000\n"
+"Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-07-01 04:56+0000\n"
+"X-Launchpad-Export-Date: 2012-07-02 04:59+0000\n"
 "X-Generator: Launchpad (build 15520)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
@@ -126,7 +126,7 @@ msgctxt "AddContact|"
 msgid "Unavailable"
 msgstr "Недоступний"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:248
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:258
 msgctxt "AddContact|"
 msgid "Remove contact"
 msgstr "Видалити контакт"
@@ -260,13 +260,13 @@ msgstr "Остання активність"
 #, qt-format
 msgctxt "ContactInfo|"
 msgid "Received authorization request from %1:"
-msgstr ""
+msgstr "Отримано запит авторизацї від %1:"
 
 #: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:71
 #, qt-format
 msgctxt "ContactInfo|"
 msgid "Send authorization request to %1:"
-msgstr ""
+msgstr "Надіслати запит авторизації  %1:"
 
 #: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:63
 #: ../../../core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp:93
@@ -314,12 +314,12 @@ msgctxt "ContactInfo|"
 msgid "Information unavailable"
 msgstr "Інформація не доступна"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:209
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:219
 msgctxt "ContactInfo|"
 msgid "Show information"
 msgstr "Показати інформацію"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:210
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:220
 msgctxt "ContactInfo|"
 msgid "Edit information"
 msgstr "Редагувати інформацію"
@@ -1181,23 +1181,17 @@ msgstr ""
 "теми, іконки, звуки можуть поставлятися під іншою "
 "ліцензією.</div><br><hr><br>"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:192
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:193
 #, qt-format
 msgctxt "Core::SimpleActions|"
 msgid "Rename contact %1"
 msgstr "Перейменувати контакт %1"
 
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:193
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:194
 #, qt-format
 msgctxt "Core::SimpleActions|"
 msgid "Input new name for contact %1"
 msgstr "Введіть нове ім'я для контакту %1"
-
-#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:249
-#, qt-format
-msgctxt "Core::SimpleActions|"
-msgid "Are you sure you want to delete a contact %1 from the roster?"
-msgstr "Ви впевнені що хочете видалити %1 із списку ?"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel.cpp:140
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
@@ -2821,6 +2815,12 @@ msgctxt "Proxy|"
 msgid "HTTP"
 msgstr "Протокол HTTP"
 
+#: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:259
+#, qt-format
+msgctxt "QCoreApplication|"
+msgid "Are you sure you want to delete a contact %1 from the roster?"
+msgstr "Ви впевнені, що хочете видалити контакт %1 зі списку контактів?"
+
 #: ../../../core/libqutim/actiontoolbar.cpp:124
 msgctxt "QObject|"
 msgid "ToolBar appearance"
@@ -3375,7 +3375,7 @@ msgctxt "Service|"
 msgid "VibrationAlert"
 msgstr "Сповіщення вібрацією"
 
-#: ../../../core/libqutim/settingslayer.cpp:426
+#: ../../../core/libqutim/settingslayer.cpp:353
 msgctxt "Service|"
 msgid "Settings Window"
 msgstr "Вікно налаштувань"
@@ -3425,32 +3425,32 @@ msgctxt "Settings|"
 msgid "Log file (*.log)"
 msgstr "Лог файл (*.log)"
 
-#: ../../../core/libqutim/settingslayer.cpp:474
+#: ../../../core/libqutim/settingslayer.cpp:401
 msgctxt "Settings|"
 msgid "General"
 msgstr "Загальні налаштування"
 
-#: ../../../core/libqutim/settingslayer.cpp:475
+#: ../../../core/libqutim/settingslayer.cpp:402
 msgctxt "Settings|"
 msgid "Protocols"
 msgstr "Протоколи"
 
-#: ../../../core/libqutim/settingslayer.cpp:476
+#: ../../../core/libqutim/settingslayer.cpp:403
 msgctxt "Settings|"
 msgid "Appearance"
 msgstr "Зовнішній вигляд"
 
-#: ../../../core/libqutim/settingslayer.cpp:477
+#: ../../../core/libqutim/settingslayer.cpp:404
 msgctxt "Settings|"
 msgid "Plugins"
 msgstr "Плагіни"
 
-#: ../../../core/libqutim/settingslayer.cpp:478
+#: ../../../core/libqutim/settingslayer.cpp:405
 msgctxt "Settings|"
 msgid "Special"
 msgstr "Спеціальні"
 
-#: ../../../core/libqutim/settingslayer.cpp:479
+#: ../../../core/libqutim/settingslayer.cpp:406
 msgctxt "Settings|"
 msgid "Invalid"
 msgstr "Некоректний"
@@ -3995,7 +3995,7 @@ msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Input/output error"
 msgstr "Помилка вводу/виводу"
 
-#: ../../../core/libqutim/modulemanager.cpp:558
+#: ../../../core/libqutim/modulemanager.cpp:560
 #, qt-format
 msgctxt "qutim_sdk_0_3::ModuleManager|"
 msgid ""

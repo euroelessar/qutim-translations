@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-05-04 19:01+0000\n"
+"POT-Creation-Date: 2012-07-01 19:31+0000\n"
 "PO-Revision-Date: 2012-06-05 09:24+0000\n"
 "Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-06 05:28+0000\n"
-"X-Generator: Launchpad (build 15353)\n"
+"X-Launchpad-Export-Date: 2012-07-02 04:59+0000\n"
+"X-Generator: Launchpad (build 15520)\n"
 "X-Qt-Contexts: true\n"
 "Language: ru\n"
 "X-Language: ru\n"
@@ -455,12 +455,12 @@ msgctxt "Conference|"
 msgid "OS"
 msgstr "ОС"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:202
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:205
 msgctxt "Conference|"
 msgid "Kick"
 msgstr "Кик"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:208
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:211
 msgctxt "Conference|"
 msgid "Ban"
 msgstr "Бан"
@@ -940,12 +940,12 @@ msgctxt "Jabber|"
 msgid "Auto-join"
 msgstr "Автовход"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:798
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:813
 msgctxt "Jabber|"
 msgid "You are already in conference with another nick"
 msgstr "Вы уже в конференции с другим ником"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:814
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:829
 msgctxt "Jabber|"
 msgid "Please select another nickname"
 msgstr "Пожалуйста выберите другой ник"
@@ -976,33 +976,33 @@ msgid "Remove"
 msgstr "Удалить"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:232
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:231
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:234
 msgctxt "Jabber|"
 msgid "Subscription"
 msgstr "Подписка"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:94
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:97
 msgctxt "Jabber|"
 msgid "Remove subscription"
 msgstr "Удалить подписку"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:99
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:102
 msgctxt "Jabber|"
 msgid "Request subscription"
 msgstr "Запросить подписку"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:113
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:224
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:116
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:227
 msgctxt "Jabber|"
 msgid "Save to bookmarks"
 msgstr "Сохранить в закладках"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:114
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:117
 msgctxt "Jabber|"
 msgid "Remove from bookmarks"
 msgstr "Удалить из закладок"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:218
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:221
 msgctxt "Jabber|"
 msgid "Room's configuration"
 msgstr "Настройки комнаты"
@@ -1100,18 +1100,18 @@ msgctxt "Jabber::JActivityChooserWindow|"
 msgid "No activity"
 msgstr "Нет занятия"
 
-#: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:115
+#: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:124
 #, qt-format
 msgctxt "Jabber::JAttention|"
 msgid "%1 trying to attract your attention!"
 msgstr "%1пытается привлечь ваше внимание!"
 
-#: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:125
+#: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:134
 msgctxt "Jabber::JAttention|"
 msgid "Contact's client does not suppoort attentions"
 msgstr "Клиент собеседника не поддерживает функцию привлечения внимания"
 
-#: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:127
+#: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:136
 msgctxt "Jabber::JAttention|"
 msgid "Trying to attract attention."
 msgstr "Попытка привлечь внимание."
@@ -1121,139 +1121,140 @@ msgctxt "Jabber::JBookmarkManager|"
 msgid "Unable to join groupchat"
 msgstr "Не могу присоедениться к групповому чату"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp:196
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp:198
+#, qt-format
 msgctxt "Jabber::JMUCManager|"
-msgid "Join groupchat on"
-msgstr "Присоединиться к конференции"
+msgid "Join groupchat on %1"
+msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp:197
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp:199
 msgctxt "Jabber::JMUCManager|"
 msgid "You already in conference with another nick"
 msgstr "Вы уже в конференции с другим ником"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:347
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:348
 msgctxt "Jabber::JMUCSession|"
 msgid " has been banned"
 msgstr " был заблокирован"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:347
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:348
 msgctxt "Jabber::JMUCSession|"
 msgid " has been kicked"
 msgstr " был выкинут"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:351
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:352
 msgctxt "Jabber::JMUCSession|"
 msgid "You has been banned at "
 msgstr "Вы были заблокированы в "
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:351
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:352
 msgctxt "Jabber::JMUCSession|"
 msgid "You has been kicked from "
 msgstr "Вы были выкинуты из "
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:353
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:354
 msgctxt "Jabber::JMUCSession|"
 msgid "with reason: "
 msgstr "по причинне: "
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:355
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:356
 msgctxt "Jabber::JMUCSession|"
 msgid "Do you want to rejoin?"
 msgstr "Желаете перезайти?"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:356
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:358
 msgctxt "Jabber::JMUCSession|"
 msgid "You have been kicked"
 msgstr "Вы были кикнуты"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:361
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:366
 msgctxt "Jabber::JMUCSession|"
 msgid "You have been banned"
 msgstr "Вы были заблокированы"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:373
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:382
 msgctxt "Jabber::JMUCSession|"
 msgid " is now known as "
 msgstr " теперь известен как "
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:398
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:407
 msgctxt "Jabber::JMUCSession|"
 msgid " has joined the room"
 msgstr " вошел в комнату"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:400
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:402
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:404
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:406
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:408
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:409
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:411
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:413
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:415
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:417
 msgctxt "Jabber::JMUCSession|"
 msgid " as"
 msgstr " как"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:400
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:428
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:409
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:437
 msgctxt "Jabber::JMUCSession|"
 msgid " owner"
 msgstr " владелец"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:402
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:430
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:411
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:439
 msgctxt "Jabber::JMUCSession|"
 msgid " administrator"
 msgstr " администратор"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:404
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:436
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:413
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:445
 msgctxt "Jabber::JMUCSession|"
 msgid " registered member"
 msgstr " зарегистрированный участник"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:406
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:432
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:444
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:415
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:441
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:453
 msgctxt "Jabber::JMUCSession|"
 msgid " participant"
 msgstr " участник"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:408
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:434
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:440
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:446
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:417
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:443
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:449
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:455
 msgctxt "Jabber::JMUCSession|"
 msgid " visitor"
 msgstr " посетитель"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:418
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:427
 msgctxt "Jabber::JMUCSession|"
 msgid " has left the room"
 msgstr " покинул комнату"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:426
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:435
 msgctxt "Jabber::JMUCSession|"
 msgid " now is"
 msgstr " теперь"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:432
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:434
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:438
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:440
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:441
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:443
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:447
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:449
 msgctxt "Jabber::JMUCSession|"
 msgid " and"
 msgstr " и"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:438
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:442
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:447
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:451
 msgctxt "Jabber::JMUCSession|"
 msgid " moderator"
 msgstr " модератор"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:527
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:542
 #, qt-format
 msgctxt "Jabber::JMUCSession|"
 msgid "Conference \"%1\" requires you to fill the captcha to enter the room"
 msgstr "Конференция \"%1\" требует ввода captcha для входа в комнату"
 
-#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:575
+#: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:590
 msgctxt "Jabber::JMUCSession|"
 msgid "Subject:"
 msgstr "Тема:"
@@ -1456,34 +1457,34 @@ msgctxt "Jabber::JPGPSupport|"
 msgid "Unknown error"
 msgstr "Неизвестная ошибка"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:262
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:266
 msgctxt "Jabber::JProtocol|"
 msgid "Kick"
 msgstr "Кик"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:262
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:267
 #, qt-format
 msgctxt "Jabber::JProtocol|"
 msgid "Enter kick reason for %1"
 msgstr "Укажите причину кика %1"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:271
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:289
 msgctxt "Jabber::JProtocol|"
 msgid "Ban"
 msgstr "Бан"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:271
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:290
 #, qt-format
 msgctxt "Jabber::JProtocol|"
 msgid "Enter ban reason for %1"
 msgstr "Укажите причину блокировки %1"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:513
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:544
 msgctxt "Jabber::JProtocol|"
 msgid "Possible client"
 msgstr "Возможный клиент"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:514
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:545
 msgctxt "Jabber::JProtocol|"
 msgid "Show client icon"
 msgstr "Показывать значок клиента"
@@ -2511,7 +2512,7 @@ msgctxt "Plugin|"
 msgid "Allows to talk by voice and video"
 msgstr "Позволяет общаться с помощью голоса и видео"
 
-#: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:80
+#: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:89
 msgctxt "QObject|"
 msgid "Send Attention"
 msgstr "Привлечь внимание"
@@ -2613,12 +2614,12 @@ msgctxt "ServiceBrowser|"
 msgid "Add service to roster"
 msgstr "Добавить сервис в ростер (список)"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:192
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:195
 msgctxt "Settings|"
 msgid "Main settings"
 msgstr "Общее"
 
-#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:199
+#: ../../../protocols/jabber/src/protocol/jprotocol.cpp:202
 msgctxt "Settings|"
 msgid "Room configuration"
 msgstr "Конфигурация комнаты"
