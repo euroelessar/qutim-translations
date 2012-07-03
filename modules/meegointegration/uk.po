@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-07-01 19:31+0000\n"
-"PO-Revision-Date: 2012-07-01 23:46+0000\n"
+"PO-Revision-Date: 2012-07-02 07:58+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
@@ -17,8 +17,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2012-07-02 05:00+0000\n"
-"X-Generator: Launchpad (build 15520)\n"
+"X-Launchpad-Export-Date: 2012-07-03 06:26+0000\n"
+"X-Generator: Launchpad (build 15531)\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:30
@@ -905,17 +905,17 @@ msgstr "Простий створювач облікового запису"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:95
 msgctxt "Plugin|"
 msgid "MeeGo icon loader noop"
-msgstr ""
+msgstr "Noop завантажувача іконок MeeGo"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:96
 msgctxt "Plugin|"
 msgid "Noop for icon loader service"
-msgstr ""
+msgstr "Noop сервіс завантажувача іконок"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:98
 msgctxt "Plugin|"
 msgid "MeeGo contact info"
-msgstr ""
+msgstr "Контактна інформація MeeGo"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/applicationwindowplugin.cpp:99
 msgctxt "Plugin|"
@@ -925,7 +925,7 @@ msgstr "Показати інформацію про контакт"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/ProtocolListPage.qml:38
 msgctxt "ProtocolListPage|"
 msgid "Xmpp, Ya.Online, GTalk, LiveJournal"
-msgstr ""
+msgstr "Xmpp, Ya.Online, GTalk, LiveJournal"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/ProtocolListPage.qml:47
 msgctxt "ProtocolListPage|"
@@ -940,7 +940,7 @@ msgstr "Соціальна мережа ВКонтакті"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/ProtocolListPage.qml:53
 msgctxt "ProtocolListPage|"
 msgid "Mail.ru Instant Messenger"
-msgstr ""
+msgstr "Інтернет-пейджер Mail.ru"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/ProxyPage.qml:32
 msgctxt "ProxyPage|"
@@ -970,27 +970,27 @@ msgstr "Без звуку"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/SoundThemePage.qml:42
 msgctxt "SoundThemePage|"
 msgid "Theme name"
-msgstr ""
+msgstr "Назва теми"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/UrlPreviewPage.qml:33
 msgctxt "UrlPreviewPage|"
 msgid "Images preview"
-msgstr ""
+msgstr "Попередній перегляд зображень"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/UrlPreviewPage.qml:37
 msgctxt "UrlPreviewPage|"
 msgid "YouTube preview"
-msgstr ""
+msgstr "Перегляд YouTube"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/UrlPreviewPage.qml:41
 msgctxt "UrlPreviewPage|"
 msgid "HTML5 Audio"
-msgstr ""
+msgstr "HTML5 аудіо"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/UrlPreviewPage.qml:45
 msgctxt "UrlPreviewPage|"
 msgid "HTML5 Video"
-msgstr ""
+msgstr "HTML5 відео"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/accounts/VKPage.qml:29
 msgctxt "VKPage|"
