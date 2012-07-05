@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-06-28 09:42+0000\n"
-"PO-Revision-Date: 2012-07-03 10:17+0000\n"
-"Last-Translator: Ruslan Nigmatullin <Unknown>\n"
+"PO-Revision-Date: 2012-07-04 11:36+0000\n"
+"Last-Translator: Vsevolod Velichko <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2012-07-04 05:21+0000\n"
+"X-Launchpad-Export-Date: 2012-07-05 05:19+0000\n"
 "X-Generator: Launchpad (build 15544)\n"
 "X-Qt-Contexts: true\n"
 
@@ -869,14 +869,14 @@ msgstr "Auto-join"
 msgctxt "qutim_sdk_0_3::irc::IrcStandartCtcpHandler|"
 msgid "Received CTCP-PING reply from %1: %2 seconds"
 msgid_plural "Received CTCP-PING reply from %1: %2 seconds"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Received CTCP-PING reply from %1: %2 seconds"
+msgstr[1] "Received CTCP-PING reply from %1: %2 seconds"
 
 #: ../../../protocols/irc/src/ircstandartctcphandler.cpp:87
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcStandartCtcpHandler|"
 msgid "Received CTCP-%1 reply from %2: %3"
-msgstr ""
+msgstr "Received CTCP-%1 reply from %2: %3"
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:63
 #, qt-format
