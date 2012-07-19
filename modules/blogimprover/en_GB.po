@@ -1,0 +1,55 @@
+# English (United Kingdom) translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-03-30 18:43+0000\n"
+"PO-Revision-Date: 2012-07-18 15:12+0000\n"
+"Last-Translator: mrx5682 <Unknown>\n"
+"Language-Team: English (United Kingdom) <en_GB@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-07-19 05:00+0000\n"
+"X-Generator: Launchpad (build 15637)\n"
+
+#: ../../../plugins/blogimprover/src/blogimproversettings.ui:14
+msgctxt "BlogImproverSettingsForm|"
+msgid "Form"
+msgstr "Form"
+
+#: ../../../plugins/blogimprover/src/blogimproversettings.ui:23
+msgctxt "BlogImproverSettingsForm|"
+msgid "Enable Psto integration"
+msgstr "Enable Psto integration"
+
+#: ../../../plugins/blogimprover/src/blogimproversettings.ui:33
+msgctxt "BlogImproverSettingsForm|"
+msgid "Enable Juick integration"
+msgstr "Enable Juick integration"
+
+#: ../../../plugins/blogimprover/src/blogimproversettings.ui:43
+msgctxt "BlogImproverSettingsForm|"
+msgid "Enable Bnw integration"
+msgstr "Enable Bnw integration"
+
+#: ../../../plugins/blogimprover/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "BlogImprover plugin"
+msgstr "BlogImprover plugin"
+
+#: ../../../plugins/blogimprover/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/blogimprover/src/blogimproverplugin.cpp:37
+msgctxt "Plugin|"
+msgid "Integration with different services of microblogging"
+msgstr "Integration with different services of microblogging"
+
+#: ../../../plugins/blogimprover/src/blogimproverplugin.cpp:36
+#: ../../../plugins/blogimprover/src/blogimproverplugin.cpp:48
+msgctxt "Plugin|"
+msgid "BlogImprover"
+msgstr "BlogImprover"
