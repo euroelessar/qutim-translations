@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-03-23 17:51+0000\n"
-"PO-Revision-Date: 2012-04-07 14:59+0000\n"
-"Last-Translator: Vsevolod Velichko <Unknown>\n"
+"PO-Revision-Date: 2012-07-22 09:50+0000\n"
+"Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-28 12:53+0000\n"
-"X-Generator: Launchpad (build 15505)\n"
+"X-Launchpad-Export-Date: 2012-07-23 05:29+0000\n"
+"X-Generator: Launchpad (build 15654)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -114,12 +114,12 @@ msgstr "Максимальная ширина рисунка для просмо
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:107
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Images preview"
-msgstr "Просмотр рисунка"
+msgstr "Просмотр рисунков"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:117
 msgctxt "UrlPreviewSettingsForm|"
 msgid "YouTube preview"
-msgstr "Превью ролика YouTube"
+msgstr "Просмотр роликов YouTube"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:127
 msgctxt "UrlPreviewSettingsForm|"
