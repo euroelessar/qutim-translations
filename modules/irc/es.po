@@ -1,0 +1,923 @@
+# Spanish translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-06-28 09:42+0000\n"
+"PO-Revision-Date: 2012-08-06 04:32+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
+"Language-Team: Spanish <es@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Launchpad-Export-Date: 2012-08-06 05:17+0000\n"
+"X-Generator: Launchpad (build 15745)\n"
+
+#: ../../../protocols/irc/src/ui/addaccountform.ui:14
+msgctxt "AddAccountForm|"
+msgid "AddAccountForm"
+msgstr ""
+
+#: ../../../protocols/irc/src/ui/addaccountform.ui:44
+msgctxt "AddAccountForm|"
+msgid "Network name:"
+msgstr "Nombre de red:"
+
+#: ../../../protocols/irc/src/ui/addaccountform.ui:54
+msgctxt "AddAccountForm|"
+msgid "Servers:"
+msgstr "Servidores:"
+
+#: ../../../protocols/irc/src/ui/addaccountform.ui:63
+msgctxt "AddAccountForm|"
+msgid "Add server"
+msgstr "Añadir servidor"
+
+#: ../../../protocols/irc/src/ui/addaccountform.ui:73
+msgctxt "AddAccountForm|"
+msgid "Update server"
+msgstr "Actualizar el servidor"
+
+#: ../../../protocols/irc/src/ui/addaccountform.ui:100
+msgctxt "AddAccountForm|"
+msgid "Password:"
+msgstr "Contraseña:"
+
+#: ../../../protocols/irc/src/ui/addaccountform.ui:130
+msgctxt "AddAccountForm|"
+msgid "Port:"
+msgstr "Puerto:"
+
+#: ../../../protocols/irc/src/ui/addaccountform.ui:140
+msgctxt "AddAccountForm|"
+msgid "Server:"
+msgstr "Servidor:"
+
+#: ../../../protocols/irc/src/ui/addaccountform.ui:147
+msgctxt "AddAccountForm|"
+msgid "Protected by password"
+msgstr "Protegido por contraseña"
+
+#: ../../../protocols/irc/src/ui/addaccountform.ui:154
+msgctxt "AddAccountForm|"
+msgid "Secure Connection (SSL)"
+msgstr "Conexión segura (SSL)"
+
+#: ../../../protocols/irc/src/ircplugin.cpp:44
+msgctxt "Author|"
+msgid "Alexey Prokhin"
+msgstr "Alexey Prokhin"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:14
+msgctxt "EditNickForm|"
+msgid "Form"
+msgstr "Formulario"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:44
+msgctxt "EditNickForm|"
+msgid "Nick:"
+msgstr "Apodo:"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:67
+msgctxt "EditNickForm|"
+msgid "Encoding:"
+msgstr "Codificación:"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:77
+msgctxt "EditNickForm|"
+msgid "Full name:"
+msgstr "Nombre completo:"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:87
+msgctxt "EditNickForm|"
+msgid "Alternative nick:"
+msgstr "Apodo alternativo:"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:133
+msgctxt "EditNickForm|"
+msgid "System"
+msgstr "Sistema"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:138
+msgctxt "EditNickForm|"
+msgid "Apple Roman"
+msgstr "Apple Roman"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:143
+msgctxt "EditNickForm|"
+msgid "Big5"
+msgstr "Big5"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:148
+msgctxt "EditNickForm|"
+msgid "Big5-HKSCS"
+msgstr "Big5-HKSCS"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:153
+msgctxt "EditNickForm|"
+msgid "EUC-JP"
+msgstr "EUC-JP"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:158
+msgctxt "EditNickForm|"
+msgid "EUC-KR"
+msgstr "EUC-KR"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:163
+msgctxt "EditNickForm|"
+msgid "GB18030-0"
+msgstr "GB18030-0"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:168
+msgctxt "EditNickForm|"
+msgid "IBM 850"
+msgstr "IBM 850"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:173
+msgctxt "EditNickForm|"
+msgid "IBM 866"
+msgstr "IBM 866"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:178
+msgctxt "EditNickForm|"
+msgid "IBM 874"
+msgstr "IBM 874"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:183
+msgctxt "EditNickForm|"
+msgid "ISO 2022-JP"
+msgstr "ISO 2022-JP"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:188
+msgctxt "EditNickForm|"
+msgid "ISO 8859-1"
+msgstr "ISO 8859-1"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:193
+msgctxt "EditNickForm|"
+msgid "ISO 8859-2"
+msgstr "ISO 8859-2"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:198
+msgctxt "EditNickForm|"
+msgid "ISO 8859-3"
+msgstr "ISO 8859-3"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:203
+msgctxt "EditNickForm|"
+msgid "ISO 8859-4"
+msgstr "ISO 8859-4"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:208
+msgctxt "EditNickForm|"
+msgid "ISO 8859-5"
+msgstr "ISO 8859-5"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:213
+msgctxt "EditNickForm|"
+msgid "ISO 8859-6"
+msgstr "ISO 8859-6"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:218
+msgctxt "EditNickForm|"
+msgid "ISO 8859-7"
+msgstr "ISO 8859-7"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:223
+msgctxt "EditNickForm|"
+msgid "ISO 8859-8"
+msgstr "ISO 8859-8"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:228
+msgctxt "EditNickForm|"
+msgid "ISO 8859-9"
+msgstr "ISO 8859-9"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:233
+msgctxt "EditNickForm|"
+msgid "ISO 8859-10"
+msgstr "ISO 8859-10"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:238
+msgctxt "EditNickForm|"
+msgid "ISO 8859-13"
+msgstr "ISO 8859-13"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:243
+msgctxt "EditNickForm|"
+msgid "ISO 8859-14"
+msgstr "ISO 8859-14"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:248
+msgctxt "EditNickForm|"
+msgid "ISO 8859-15"
+msgstr "ISO 8859-15"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:253
+msgctxt "EditNickForm|"
+msgid "ISO 8859-16"
+msgstr "ISO 8859-16"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:258
+msgctxt "EditNickForm|"
+msgid "Iscii-Bng"
+msgstr "Iscii-Bng"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:263
+msgctxt "EditNickForm|"
+msgid "Iscii-Dev"
+msgstr "Iscii-Dev"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:268
+msgctxt "EditNickForm|"
+msgid "Iscii-Gjr"
+msgstr "Iscii-Gjr"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:273
+msgctxt "EditNickForm|"
+msgid "Iscii-Knd"
+msgstr "Iscii-Knd"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:278
+msgctxt "EditNickForm|"
+msgid "Iscii-Mlm"
+msgstr "Iscii-Mlm"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:283
+msgctxt "EditNickForm|"
+msgid "Iscii-Ori"
+msgstr "Iscii-Ori"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:288
+msgctxt "EditNickForm|"
+msgid "Iscii-Pnj"
+msgstr "Iscii-Pnj"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:293
+msgctxt "EditNickForm|"
+msgid "Iscii-Tlg"
+msgstr "Iscii-Tlg"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:298
+msgctxt "EditNickForm|"
+msgid "Iscii-Tml"
+msgstr "Iscii-Tml"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:303
+msgctxt "EditNickForm|"
+msgid "JIS X 0201"
+msgstr "JIS X 0201"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:308
+msgctxt "EditNickForm|"
+msgid "JIS X 0208"
+msgstr "JIS X 0208"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:313
+msgctxt "EditNickForm|"
+msgid "KOI8-R"
+msgstr "KOI8-R"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:318
+msgctxt "EditNickForm|"
+msgid "KOI8-U"
+msgstr "KOI8-U"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:323
+msgctxt "EditNickForm|"
+msgid "MuleLao-1"
+msgstr "MuleLao-1"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:328
+msgctxt "EditNickForm|"
+msgid "ROMAN8"
+msgstr "ROMAN8"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:333
+msgctxt "EditNickForm|"
+msgid "Shift-JIS"
+msgstr "Shift-JIS"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:338
+msgctxt "EditNickForm|"
+msgid "TIS-620"
+msgstr "TIS-620"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:343
+msgctxt "EditNickForm|"
+msgid "TSCII"
+msgstr "TSCII"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:348
+msgctxt "EditNickForm|"
+msgid "UTF-8"
+msgstr "UTF-8"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:353
+msgctxt "EditNickForm|"
+msgid "UTF-16"
+msgstr "UTF-16"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:358
+msgctxt "EditNickForm|"
+msgid "UTF-16BE"
+msgstr "UTF-16BE"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:363
+msgctxt "EditNickForm|"
+msgid "UTF-16LE"
+msgstr "UTF-16LE"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:368
+msgctxt "EditNickForm|"
+msgid "Windows-1250"
+msgstr "Windows-1250"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:373
+msgctxt "EditNickForm|"
+msgid "Windows-1251"
+msgstr "Windows-1251"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:378
+msgctxt "EditNickForm|"
+msgid "Windows-1252"
+msgstr "Windows-1252"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:383
+msgctxt "EditNickForm|"
+msgid "Windows-1253"
+msgstr "Windows-1253"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:388
+msgctxt "EditNickForm|"
+msgid "Windows-1254"
+msgstr "Windows-1254"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:393
+msgctxt "EditNickForm|"
+msgid "Windows-1255"
+msgstr "Windows-1255"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:398
+msgctxt "EditNickForm|"
+msgid "Windows-1256"
+msgstr "Windows-1256"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:403
+msgctxt "EditNickForm|"
+msgid "Windows-1257"
+msgstr "Windows-1257"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:408
+msgctxt "EditNickForm|"
+msgid "Windows-1258"
+msgstr "Windows-1258"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:413
+msgctxt "EditNickForm|"
+msgid "WINSAMI2"
+msgstr "WINSAMI2"
+
+#: ../../../protocols/irc/src/ui/editnickform.ui:430
+msgctxt "EditNickForm|"
+msgid "Password:"
+msgstr "Contraseña:"
+
+#: ../../../protocols/irc/src/ircgroupchatmanager.cpp:67
+msgctxt "IRC|"
+msgid "Name"
+msgstr "Nombre"
+
+#: ../../../protocols/irc/src/ircgroupchatmanager.cpp:73
+msgctxt "IRC|"
+msgid "Channel"
+msgstr "Canal"
+
+#: ../../../protocols/irc/src/ircgroupchatmanager.cpp:80
+msgctxt "IRC|"
+msgid "Password"
+msgstr "Contraseña"
+
+#: ../../../protocols/irc/src/ircgroupchatmanager.cpp:86
+msgctxt "IRC|"
+msgid "Auto-join"
+msgstr "Conectarse automáticamente"
+
+#: ../../../protocols/irc/src/ircprotocol.cpp:97
+msgctxt "IRC|"
+msgid "Show console..."
+msgstr "Mostrar la consola…"
+
+#: ../../../protocols/irc/src/ircprotocol.cpp:103
+msgctxt "IRC|"
+msgid "Search channel..."
+msgstr "Buscar canal…"
+
+#: ../../../protocols/irc/src/ircchannel.cpp:376
+#, qt-format
+msgctxt "IrcChannel|"
+msgid "%1 gives channel operator privileges to %2."
+msgstr "%1 le ha dado privilegios de operador de canal a %2."
+
+#: ../../../protocols/irc/src/ircchannel.cpp:378
+#, qt-format
+msgctxt "IrcChannel|"
+msgid "%1 gives channel halfop privileges to %2."
+msgstr "%1 le ha dado privilegios de semioperador de canal a %2."
+
+#: ../../../protocols/irc/src/ircchannel.cpp:380
+#, qt-format
+msgctxt "IrcChannel|"
+msgid "%1 gives %2 the permission to talk."
+msgstr "%1 le da a %2 permiso para hablar."
+
+#: ../../../protocols/irc/src/ircchannel.cpp:400
+#, qt-format
+msgctxt "IrcChannel|"
+msgid "%1 takes channel operator privileges from %2."
+msgstr "%1 le quita a %2 los privilegios de operador del canal."
+
+#: ../../../protocols/irc/src/ircchannel.cpp:402
+#, qt-format
+msgctxt "IrcChannel|"
+msgid "%1 takes channel halfop privileges from %2."
+msgstr "%1 le quita a %2 los privilegios de semioperador del canal."
+
+#: ../../../protocols/irc/src/ircchannel.cpp:404
+#, qt-format
+msgctxt "IrcChannel|"
+msgid "%1 takes the permission to talk from %2."
+msgstr "%1 le quita a %2 el permiso para hablar."
+
+#: ../../../protocols/irc/src/ui/ircchannellist.ui:14
+msgctxt "IrcChannelListForm|"
+msgid "Form"
+msgstr "Formulario"
+
+#: ../../../protocols/irc/src/ui/console.ui:14
+msgctxt "IrcConsoleForm|"
+msgid "IRC Server Console"
+msgstr "Consola del servidor de IRC"
+
+#: ../../../protocols/irc/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "IRC protocol"
+msgstr "Protocolo IRC"
+
+#: ../../../protocols/irc/__data_from_cmakelists_txt.cpp:2
+#: ../../../protocols/irc/src/ircplugin.cpp:42
+#: ../../../protocols/irc/src/ircplugin.cpp:48
+msgctxt "Plugin|"
+msgid "Implementation of IRC protocol"
+msgstr "Implementación del protocolo IRC"
+
+#: ../../../protocols/irc/src/ircplugin.cpp:41
+#: ../../../protocols/irc/src/ircplugin.cpp:47
+msgctxt "Plugin|"
+msgid "IRC"
+msgstr "IRC"
+
+#: ../../../protocols/irc/src/ircplugin.cpp:51
+msgctxt "Plugin|"
+msgid "IRC account creator"
+msgstr "Creador de cuentas de IRC"
+
+#: ../../../protocols/irc/src/ircplugin.cpp:52
+msgctxt "Plugin|"
+msgid "Account creator for IRC protocol"
+msgstr "Creador de cuentas para el protocolo IRC"
+
+#: ../../../protocols/irc/src/ircplugin.cpp:55
+msgctxt "Plugin|"
+msgid "Proxy support"
+msgstr "Soporte de proxy"
+
+#: ../../../protocols/irc/src/ircplugin.cpp:56
+msgctxt "Plugin|"
+msgid "Proxy support for IRC protocol"
+msgstr "Soporte de proxy para el protocolo IRC"
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:121
+#, qt-format
+msgctxt "QObject|"
+msgid "Not enough parameters for command %1"
+msgstr "No hay parámetros suficientes para la orden %1"
+
+#: ../../../protocols/irc/src/ircprotocol.cpp:72
+msgctxt "Settings|"
+msgid "User information"
+msgstr "Información del usuario"
+
+#: ../../../protocols/irc/src/ircprotocol.cpp:77
+msgctxt "Settings|"
+msgid "Servers"
+msgstr "Servidores"
+
+#: ../../../protocols/irc/src/ircplugin.cpp:45
+msgctxt "Task|"
+msgid "Author"
+msgstr "Autor"
+
+#: ../../../protocols/irc/src/ui/ircchannellist.cpp:91
+msgctxt "qutim_sdk_0_3::irc::ChannelsModel|"
+msgid "Channel"
+msgstr "Canal"
+
+#: ../../../protocols/irc/src/ui/ircchannellist.cpp:93
+msgctxt "qutim_sdk_0_3::irc::ChannelsModel|"
+msgid "Users"
+msgstr "Usuarios"
+
+#: ../../../protocols/irc/src/ui/ircchannellist.cpp:95
+msgctxt "qutim_sdk_0_3::irc::ChannelsModel|"
+msgid "Topic"
+msgstr "Tema"
+
+#: ../../../protocols/irc/src/ircaccount.cpp:87
+msgctxt "qutim_sdk_0_3::irc::IrcAccount|"
+msgid "Away"
+msgstr "Ausente"
+
+#: ../../../protocols/irc/src/ircchannel.cpp:199
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
+msgid "You are now known as %1"
+msgstr "Ahora se le conoce como %1"
+
+#: ../../../protocols/irc/src/ircchannel.cpp:210
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
+msgid "%1 are now known as %2"
+msgstr "A %1 se le conoce ahora como %2"
+
+#: ../../../protocols/irc/src/ircchannel.cpp:271
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
+msgid "%1 (%2) has joined the channel"
+msgstr "%1 (%2) se ha unido al canal"
+
+#: ../../../protocols/irc/src/ircchannel.cpp:282
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
+msgid "You left this channel (%1)"
+msgstr "Ha abandonado este canal (%1)"
+
+#: ../../../protocols/irc/src/ircchannel.cpp:284
+msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
+msgid "You left this channel"
+msgstr "Ha abandonado este canal"
+
+#: ../../../protocols/irc/src/ircchannel.cpp:291
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
+msgid "%1 has left this channel (%2)"
+msgstr "%1 ha abandonado este canal (%2)"
+
+#: ../../../protocols/irc/src/ircchannel.cpp:293
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
+msgid "%1 has left this channel"
+msgstr "%1 ha abandonado este canal"
+
+#: ../../../protocols/irc/src/ircchannel.cpp:305
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
+msgid "%1 has kicked you from the channel (%2)"
+msgstr "%1 le ha expulsado del canal (%2)"
+
+#: ../../../protocols/irc/src/ircchannel.cpp:310
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
+msgid "%1 has kicked you from the channel"
+msgstr "%1 le ha expulsado del canal"
+
+#: ../../../protocols/irc/src/ircchannel.cpp:318
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
+msgid "%1 has kicked %2 (%3)"
+msgstr "%1 ha expulsado a %2 (%3)"
+
+#: ../../../protocols/irc/src/ircchannel.cpp:323
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
+msgid "%1 has kicked %2"
+msgstr "%1 ha expulsado a %2"
+
+#: ../../../protocols/irc/src/ircchannel.cpp:340
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
+msgid "The channel topic is \"%1\""
+msgstr "El tema del canal es «%1»"
+
+#: ../../../protocols/irc/src/ircchannel.cpp:349
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
+msgid "The topic was set by %1 on %2."
+msgstr "El tema fue establecido por %1 en %2."
+
+#: ../../../protocols/irc/src/ui/ircchannellist.cpp:188
+msgctxt "qutim_sdk_0_3::irc::IrcChannelListForm|"
+msgid "Fetching channels list..."
+msgstr "Obteniendo la lista de canales…"
+
+#: ../../../protocols/irc/src/ui/ircchannellist.cpp:195
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcChannelListForm|"
+msgid "Channels list loaded. (%1)"
+msgstr "Lista de canales cargada. (%1)"
+
+#: ../../../protocols/irc/src/ui/ircchannellist.cpp:200
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcChannelListForm|"
+msgid "Fetching channels list... (%1)"
+msgstr "Obteniendo la lista de canales… (%1)"
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:210
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Kick / Ban"
+msgstr "Expulsar / vetar"
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:213
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Kick"
+msgstr "Expulsar"
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:218
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Kickban"
+msgstr "Expulsar y vetar"
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:221
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Ban"
+msgstr "Vetar"
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:225
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Ban *!*@*.host"
+msgstr ""
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:226
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Ban *!*@domain"
+msgstr ""
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:227
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Ban *!user@*.host"
+msgstr ""
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:228
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Ban *!user@domain"
+msgstr ""
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:231
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Kickban *!*@*.host"
+msgstr ""
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:232
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Kickban *!*@domain"
+msgstr ""
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:233
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Kickban *!user@*.host"
+msgstr ""
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:234
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Kickban *!user@domain"
+msgstr ""
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:238
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Ping"
+msgstr ""
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:239
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Request client information"
+msgstr "Solicitar información del cliente"
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:240
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Request version"
+msgstr "Solicitar versión"
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:241
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Request time"
+msgstr "Solicitar tiempo"
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:242
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Avatar"
+msgstr "Avatar"
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:245
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Modes"
+msgstr "Modos"
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:246
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Give Op"
+msgstr "Otorgar op"
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:247
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Take Op"
+msgstr "Quitar op"
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:248
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Give HalfOp"
+msgstr "Otorgar semiop"
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:249
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Take HalfOp"
+msgstr "Quitar semiop"
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:250
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Give voice"
+msgstr "Otorgar voz"
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:251
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Take voice"
+msgstr "Quitar voz"
+
+#: ../../../protocols/irc/src/irccommandalias.cpp:255
+msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
+msgid "Send WHOIS request"
+msgstr "Enviar solicitud de WHOIS"
+
+#: ../../../protocols/irc/src/ircconnection.cpp:159
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "Server %1 (Version %2), User modes: %3, Channel modes: %4"
+msgstr "Servidor %1 (Versión %2), Modos de usuario: %3, Modos de canal: %4"
+
+#: ../../../protocols/irc/src/ircconnection.cpp:278
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "Message of the day:"
+msgstr "Mensaje del día:"
+
+#: ../../../protocols/irc/src/ircconnection.cpp:280
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "End of message of the day"
+msgstr "Fin del mensaje del día"
+
+#: ../../../protocols/irc/src/ircconnection.cpp:288
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "Start of /LIST"
+msgstr ""
+
+#: ../../../protocols/irc/src/ircconnection.cpp:306
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "End of /LIST"
+msgstr ""
+
+#: ../../../protocols/irc/src/ircconnection.cpp:308
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "Bad list syntax, type /QUOTE HELP LIST"
+msgstr ""
+
+#: ../../../protocols/irc/src/ircconnection.cpp:313
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid ""
+"Server load is temporarily too heavy.\n"
+"Please wait a while and try again."
+msgstr ""
+
+#: ../../../protocols/irc/src/ircconnection.cpp:324
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "%1 set away message \"%2\""
+msgstr ""
+
+#: ../../../protocols/irc/src/ircconnection.cpp:328
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "%1 removed away message"
+msgstr ""
+
+#: ../../../protocols/irc/src/ircconnection.cpp:333
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "You are no longer marked as being away"
+msgstr "Ya no está marcado como ausente"
+
+#: ../../../protocols/irc/src/ircconnection.cpp:335
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "You have been marked as being away"
+msgstr "Ha sido marcado como ausente"
+
+#: ../../../protocols/irc/src/ircconnection.cpp:434
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "Add at least one server before connecting"
+msgstr "Añada un servidor por lo menos antes de conectarse"
+
+#: ../../../protocols/irc/src/ircconnection.cpp:436
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "Set at least one nick before connecting"
+msgstr "Defina al menos un apodo antes de conectarse"
+
+#: ../../../protocols/irc/src/ircconnection.cpp:438
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "Cannot connect to %1 network"
+msgstr "No se puede conectar a la red %1"
+
+#: ../../../protocols/irc/src/ircconnection.cpp:630
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "Network error: %1"
+msgstr "Error de red: %1"
+
+#: ../../../protocols/irc/src/ircconnection.cpp:646
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "SSL error: %1"
+msgstr "Error de SSL: %1"
+
+#: ../../../protocols/irc/src/ircconnection.cpp:652
+msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
+msgid "SSL handshake completed"
+msgstr ""
+
+#: ../../../protocols/irc/src/ircprotocol.cpp:79
+msgctxt "qutim_sdk_0_3::irc::IrcProtocol|"
+msgid "Auto-join"
+msgstr "Conectarse automáticamente"
+
+#: ../../../protocols/irc/src/ircstandartctcphandler.cpp:81
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcStandartCtcpHandler|"
+msgid "Received CTCP-PING reply from %1: %2 seconds"
+msgid_plural "Received CTCP-PING reply from %1: %2 seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../../protocols/irc/src/ircstandartctcphandler.cpp:87
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcStandartCtcpHandler|"
+msgid "Received CTCP-%1 reply from %2: %3"
+msgstr ""
+
+#: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:63
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
+msgid "%1 is %2@%3 (%4)"
+msgstr "%1 es %2@%3 (%4)"
+
+#: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:76
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
+msgid "%1 is online via %2 (%3)"
+msgstr "%1 está en línea vía %2 (%3)"
+
+#: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:83
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
+msgid "%1 is an IRC operator"
+msgstr "%1 es un operador de IRC"
+
+#: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:93
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
+msgid "%1 has been idle since"
+msgstr ""
+
+#: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:99
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
+msgid "%1 has been online since"
+msgstr ""
+
+#: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:107
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
+msgid "%1 is a user on channels: "
+msgstr "%1 es un usuario en los canales: "
+
+#: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:114
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
+msgid "%1 is logged in as %2"
+msgstr ""
+
+#: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:119
+#, qt-format
+msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
+msgid "%1 is using a secure connection"
+msgstr ""
