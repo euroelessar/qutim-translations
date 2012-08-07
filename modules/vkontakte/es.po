@@ -1,0 +1,340 @@
+# Español (España):  translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-07-01 19:31+0000\n"
+"PO-Revision-Date: 2012-08-07 00:23+0000\n"
+"Last-Translator: Carlos Vives <mail@carlosvives.es>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
+"X-Generator: Launchpad (build 15745)\n"
+"X-Qt-Contexts: true\n"
+"Language: es\n"
+
+#: ../../../protocols/vkontakte/src/vcontact.cpp:210
+msgctxt "ContactInfo|"
+msgid "Activity"
+msgstr "Actividad"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:63
+msgctxt "ContactInfo|"
+msgid "Nickname"
+msgstr "Apodo"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:64
+msgctxt "ContactInfo|"
+msgid "First name"
+msgstr "Nombre"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:65
+msgctxt "ContactInfo|"
+msgid "Last name"
+msgstr "Apellido"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:66
+msgctxt "ContactInfo|"
+msgid "Gender"
+msgstr "Sexo"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:67
+msgctxt "ContactInfo|"
+msgid "Birthday"
+msgstr "Cumpleaños"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:68
+msgctxt "ContactInfo|"
+msgid "City"
+msgstr "Ciudad"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:69
+msgctxt "ContactInfo|"
+msgid "Country"
+msgstr "País"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:70
+msgctxt "ContactInfo|"
+msgid "Photo"
+msgstr "Foto"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:71
+msgctxt "ContactInfo|"
+msgid "Home phone"
+msgstr "Teléfono (casa)"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:72
+msgctxt "ContactInfo|"
+msgid "Mobile phone"
+msgstr "Teléfono móvil"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:73
+msgctxt "ContactInfo|"
+msgid "University"
+msgstr "Universidad"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:74
+msgctxt "ContactInfo|"
+msgid "Faculty"
+msgstr "Facultad"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:75
+msgctxt "ContactInfo|"
+msgid "Graduation year"
+msgstr "Año de graduación"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:82
+msgctxt "ContactInfo|"
+msgid "Undefined"
+msgstr "Sin definir"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:83
+msgctxt "ContactInfo|"
+msgid "Female"
+msgstr "Mujer"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:84
+msgctxt "ContactInfo|"
+msgid "Male"
+msgstr "Hombre"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:195
+msgctxt "ContactInfo|"
+msgid "General"
+msgstr "General"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:197
+msgctxt "ContactInfo|"
+msgid "Person"
+msgstr "Persona"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:212
+msgctxt "ContactInfo|"
+msgid "Home address"
+msgstr "Dirección (casa)"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:220
+msgctxt "ContactInfo|"
+msgid "Education"
+msgstr "Nivel de estudios"
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:1
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:49
+msgctxt "Plugin|"
+msgid "vkontakte"
+msgstr "Vkontakte"
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "New implementation of vk.com protocol"
+msgstr "Nueva implementación del protocolo vk.vom"
+
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:42
+msgctxt "Plugin|"
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:43
+msgctxt "Plugin|"
+msgid "Simple implementation of vkontakte, based on vk.com/developers api"
+msgstr "Implementación Simple de Vkontakte, basada en desktop.api"
+
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:50
+msgctxt "Plugin|"
+msgid "Simple implementation of vkontakte, based on desktop.api"
+msgstr "Implementación sencilla de Vkontakte, basada en desktop.api"
+
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:54
+msgctxt "Plugin|"
+msgid "Vkontakte account creator"
+msgstr "Crear cuenta de Vkontakte"
+
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:55
+msgctxt "Plugin|"
+msgid "Account creator for Vkontakte"
+msgstr "Creación de cuenta de Vkontakte"
+
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:58
+msgctxt "Plugin|"
+msgid "Proxy support"
+msgstr "Soporte para proxy"
+
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:59
+msgctxt "Plugin|"
+msgid "Proxy support for Vkontakte"
+msgstr "Soporte para proxy para Vkontakte"
+
+#: ../../../protocols/vkontakte/src/ui/vaccountsettings.ui:14
+msgctxt "VAccountSettings|"
+msgid "Account settings"
+msgstr "Configuración de la cuenta"
+
+#: ../../../protocols/vkontakte/src/ui/vaccountsettings.ui:49
+msgctxt "VAccountSettings|"
+msgid "Password:"
+msgstr "Contraseña:"
+
+#: ../../../protocols/vkontakte/src/ui/vaccountsettings.cpp:66
+#, qt-format
+msgctxt "VAccountSettings|"
+msgid "%1 settings"
+msgstr "Configuración %1"
+
+#: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:14
+msgctxt "VAccountWizardPage|"
+msgid "WizardPage"
+msgstr "Asistente"
+
+#: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:26
+msgctxt "VAccountWizardPage|"
+msgid "Email:"
+msgstr "Email:"
+
+#: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:36
+msgctxt "VAccountWizardPage|"
+msgid "Password:"
+msgstr "Contraseña:"
+
+#: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:63
+msgctxt "VAccountWizardPage|"
+msgid "Save password"
+msgstr "Guardar contraseña"
+
+#: ../../../protocols/vkontakte/src/vprotocol.cpp:78
+msgctxt "VProtocol|"
+msgid "id"
+msgstr ""
+
+#: ../../../protocols/vkontakte/src/vprotocol.cpp:45
+msgctxt "Vkontakte|"
+msgid "Open homepage"
+msgstr "Abrir página"
+
+#: ../../../protocols/vkontakte/src/vprotocol.cpp:62
+msgctxt "Vkontakte|"
+msgid "Account settings"
+msgstr "Configuración de la cuenta"
+
+#: ../../../protocols/vkontakte/lib/src/api/contact.cpp:129
+#, qt-format
+msgctxt "vk::Buddy|"
+msgid "id%1"
+msgstr ""
+
+#: ../../../protocols/vkontakte/lib/src/api/contact.cpp:143
+#, qt-format
+msgctxt "vk::Buddy|"
+msgid "Unknown tag id %1"
+msgstr "Etiqueta id %1 desconocida"
+
+#: ../../../protocols/vkontakte/lib/src/api/contact.cpp:206
+#, qt-format
+msgctxt "vk::Group|"
+msgid "group-%1"
+msgstr ""
+
+#~ msgctxt "AlbumDelegate|"
+#~ msgid "Remove"
+#~ msgstr "Remove"
+
+#~ msgctxt "Plugin|"
+#~ msgid "VKontakte"
+#~ msgstr "Vkontakte"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Simple implementation of vkontakte"
+#~ msgstr "Implementación sencilla de Vkontakte, basada en desktop.api"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Vkontakte photoalbum support"
+#~ msgstr "Suporte de álbumes de fotos de Vkontakte"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Vkontakte photoalbum support for qutIM, based on power of Qt Quick"
+#~ msgstr "Suporte de álbumes de fotos de Vkontakte, alimentado por Qt Quick"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Vkontakte wall support"
+#~ msgstr "Suporte de muros de Vkontakte"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Vkontakte wall support for qutIM"
+#~ msgstr "Suporte de muros de Vkontakte"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Photoalbum"
+#~ msgstr "Álbum de fotos"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Vkontakte photoalbum support for qutIM"
+#~ msgstr "Suporte de álbumes de fotos de Vkontakte"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Wall"
+#~ msgstr "Muro"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Simple implementation of vkontakte, based on userapi.ru"
+#~ msgstr "Implementación sencilla de Vkontakte, basada en userapi.ru"
+
+#~ msgctxt "VConnection|"
+#~ msgid "qutIM - VKontakte authorization"
+#~ msgstr "qutIM - Autorización de Vkontakte"
+
+#~ msgctxt "VWallSession|"
+#~ msgid "%1 (Wall)"
+#~ msgstr "%1 (Muro)"
+
+#~ msgctxt "VWallSessionPrivate|"
+#~ msgid "Unknown"
+#~ msgstr "Desconocido"
+
+#~ msgctxt "VWallSessionPrivate|"
+#~ msgid "Audio"
+#~ msgstr "Audio"
+
+#~ msgctxt "VWallSessionPrivate|"
+#~ msgid "Video"
+#~ msgstr "Vídeo"
+
+#~ msgctxt "VWallSessionPrivate|"
+#~ msgid "Application"
+#~ msgstr "Aplicación"
+
+#~ msgctxt "VWallSessionPrivate|"
+#~ msgid "Graffiti"
+#~ msgstr "Grafiti"
+
+#~ msgctxt "VWallSessionPrivate|"
+#~ msgid "Photo"
+#~ msgstr "Foto"
+
+#~ msgctxt "VWallSessionPrivate|"
+#~ msgid "Posted photo"
+#~ msgstr "Foto publicada"
+
+#~ msgctxt "VWallSessionPrivate|"
+#~ msgid "Multimedia message: %1"
+#~ msgstr "Mensaje multimedia: %1"
+
+#~ msgctxt "Vkontakte|"
+#~ msgid "View photoalbum"
+#~ msgstr "Ver álbum de fotos"
+
+#~ msgctxt "Vkontakte|"
+#~ msgid "View wall"
+#~ msgstr "Ver muro"
+
+#~ msgctxt "VkontakteProtocol|"
+#~ msgid "id"
+#~ msgstr "id"
+
+#~ msgctxt "main|"
+#~ msgid "Back"
+#~ msgstr "Volver"

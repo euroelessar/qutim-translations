@@ -1,0 +1,309 @@
+# Español (España):  translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-03-30 18:37+0000\n"
+"PO-Revision-Date: 2012-08-07 00:22+0000\n"
+"Last-Translator: Carlos Vives <mail@carlosvives.es>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
+"X-Generator: Launchpad (build 15745)\n"
+"X-Qt-Contexts: true\n"
+"Language: es\n"
+
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:57
+msgctxt "Author|"
+msgid "Kazlauskas Ian"
+msgstr "Kazlauskas Ian"
+
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:60
+msgctxt "Author|"
+msgid "Alexey Prokhin"
+msgstr "Alexey Prokhin"
+
+#: ../../../plugins/nowplaying/src/icqsettings.ui:14
+msgctxt "IcqSettings|"
+msgid "ICQ"
+msgstr "ICQ"
+
+#: ../../../plugins/nowplaying/src/icqsettings.ui:20
+msgctxt "IcqSettings|"
+msgid "Current mode"
+msgstr "Modo actual"
+
+#: ../../../plugins/nowplaying/src/icqsettings.ui:26
+msgctxt "IcqSettings|"
+msgid "Deactivated"
+msgstr "Desactivado"
+
+#: ../../../plugins/nowplaying/src/icqsettings.ui:36
+msgctxt "IcqSettings|"
+msgid "Changes current X-status message"
+msgstr "Cambia el estado actual"
+
+#: ../../../plugins/nowplaying/src/icqsettings.ui:46
+#: ../../../plugins/nowplaying/src/icqsettings.ui:79
+msgctxt "IcqSettings|"
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<table style=\"-qt-table-type: root; margin-top:4px; margin-bottom:4px; "
+"margin-left:4px; margin-right:4px;\">\n"
+"<tr>\n"
+"<td style=\"border: none;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%artist - artist</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%title - title</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%album - album</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%track - track number</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%time - track length</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%file - file name</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%uri - full path to "
+"file</span></p></td></tr></table></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<table style=\"-qt-table-type: root; margin-top:4px; margin-bottom:4px; "
+"margin-left:4px; margin-right:4px;\">\n"
+"<tr>\n"
+"<td style=\"border: none;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%artist - artista</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%title - título</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%album - álbum</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%track - número de pista</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%time - duración</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%file - fichero</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans';\">%uri - ruta completa del "
+"fichero</span></p></td></tr></table></body></html>"
+
+#: ../../../plugins/nowplaying/src/icqsettings.ui:62
+msgctxt "IcqSettings|"
+msgid "Now playing: %artist - %title"
+msgstr "Reproduciendo ahora: %artist - %title"
+
+#: ../../../plugins/nowplaying/src/icqsettings.ui:69
+msgctxt "IcqSettings|"
+msgid "Changes message of \"Listening to music\" status"
+msgstr "Cambiar el mensaje del estado \"Escuchando música\""
+
+#: ../../../plugins/nowplaying/src/icqsettings.ui:95
+msgctxt "IcqSettings|"
+msgid "%artist - %title"
+msgstr "%artist - %title"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:14
+msgctxt "JabberSettings|"
+msgid "Jabber"
+msgstr "Jabber"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:20
+msgctxt "JabberSettings|"
+msgid "Current mode"
+msgstr "Modo actual"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:26
+msgctxt "JabberSettings|"
+msgid "Deactivated"
+msgstr "Desactivado"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:36
+msgctxt "JabberSettings|"
+msgid "Activated"
+msgstr "Activado"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:46
+msgctxt "JabberSettings|"
+msgid "Info to be presented"
+msgstr "Información a mostrar"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:52
+msgctxt "JabberSettings|"
+msgid "Artist"
+msgstr "Artista"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:59
+msgctxt "JabberSettings|"
+msgid "Track number"
+msgstr "Número de pista"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:66
+msgctxt "JabberSettings|"
+msgid "Title"
+msgstr "Título"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:73
+msgctxt "JabberSettings|"
+msgid "Track length"
+msgstr "Duración de la pista"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:80
+msgctxt "JabberSettings|"
+msgid "Album"
+msgstr "Álbum"
+
+#: ../../../plugins/nowplaying/src/jabbersettings.ui:87
+msgctxt "JabberSettings|"
+msgid "Path to file"
+msgstr "Ruta al fichero"
+
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:99
+msgctxt "NowPlaying|"
+msgid "Now Playing"
+msgstr "Reproduciendo ahora"
+
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:292
+msgctxt "NowPlaying|"
+msgid "Stop now playing"
+msgstr "Detener reproduciendo ahora"
+
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:293
+msgctxt "NowPlaying|"
+msgid "Start now playing"
+msgstr "Comenzar reproduciendo ahora"
+
+#: ../../../plugins/nowplaying/src/nowplayingsettings.ui:17
+msgctxt "NowPlayingSettings|"
+msgid "Form"
+msgstr "Formulario"
+
+#: ../../../plugins/nowplaying/src/nowplayingsettings.ui:36
+msgctxt "NowPlayingSettings|"
+msgid "Mode"
+msgstr "Modo"
+
+#: ../../../plugins/nowplaying/src/nowplayingsettings.ui:42
+msgctxt "NowPlayingSettings|"
+msgid "Current plugin status:"
+msgstr "Estado actual del plugin:"
+
+#: ../../../plugins/nowplaying/src/nowplayingsettings.ui:49
+msgctxt "NowPlayingSettings|"
+msgid "Is working"
+msgstr "Trabajando"
+
+#: ../../../plugins/nowplaying/src/nowplayingsettings.ui:56
+msgctxt "NowPlayingSettings|"
+msgid "Stop"
+msgstr "Detener"
+
+#: ../../../plugins/nowplaying/src/nowplayingsettings.ui:83
+msgctxt "NowPlayingSettings|"
+msgid "Set mode for all accounts"
+msgstr "Establecer modo para todas las cuentas"
+
+#: ../../../plugins/nowplaying/src/nowplayingsettings.ui:103
+msgctxt "NowPlayingSettings|"
+msgid "You have no Oscar, Jabber or MRIM accounts."
+msgstr "No tienes cuenta alguna de Oscar, Jabber o MRIM."
+
+#: ../../../plugins/nowplaying/src/nowplayingsettings.ui:129
+msgctxt "NowPlayingSettings|"
+msgid "Settings"
+msgstr "Configuración"
+
+#: ../../../plugins/nowplaying/src/nowplayingsettings.ui:135
+msgctxt "NowPlayingSettings|"
+msgid "Music Player"
+msgstr "Reproductor multimedia"
+
+#: ../../../plugins/nowplaying/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "NowPlaying"
+msgstr "Reproduciendo ahora"
+
+#: ../../../plugins/nowplaying/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:54
+msgctxt "Plugin|"
+msgid "Now playing plugin"
+msgstr "Plugin reproduciendo ahora"
+
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:53
+msgctxt "Plugin|"
+msgid "Now Playing"
+msgstr "Reproduciendo ahora"
+
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:64
+msgctxt "Plugin|"
+msgid "Now Playing Mpris"
+msgstr "Reproduciendo ahora Mpris"
+
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:65
+msgctxt "Plugin|"
+msgid "Mpris support for now playing plugin"
+msgstr "Soporte para Mpris para reproduciendo ahora"
+
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:58
+#: ../../../plugins/nowplaying/src/nowplaying.cpp:61
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Desarrollador"
+
+#: ../../../plugins/nowplaying/src/settingsui.cpp:77
+msgctxt "qutim_sdk_0_3::nowplaying::SettingsUI|"
+msgid "No player"
+msgstr "Ningún reproductor disponible"
+
+#: ../../../plugins/nowplaying/src/settingsui.cpp:184
+msgctxt "qutim_sdk_0_3::nowplaying::SettingsUI|"
+msgid "working"
+msgstr "trabajando"
+
+#: ../../../plugins/nowplaying/src/settingsui.cpp:185
+msgctxt "qutim_sdk_0_3::nowplaying::SettingsUI|"
+msgid "Stop"
+msgstr "Detener"
+
+#: ../../../plugins/nowplaying/src/settingsui.cpp:187
+msgctxt "qutim_sdk_0_3::nowplaying::SettingsUI|"
+msgid "not working"
+msgstr "detenido"
+
+#: ../../../plugins/nowplaying/src/settingsui.cpp:188
+msgctxt "qutim_sdk_0_3::nowplaying::SettingsUI|"
+msgid "Start"
+msgstr "Comenzar"

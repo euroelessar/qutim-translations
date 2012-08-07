@@ -1,0 +1,138 @@
+# Español (España):  translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-03-23 17:51+0000\n"
+"PO-Revision-Date: 2012-08-07 00:23+0000\n"
+"Last-Translator: Carlos Vives <mail@carlosvives.es>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
+"X-Generator: Launchpad (build 15745)\n"
+"X-Qt-Contexts: true\n"
+"Language: es\n"
+
+#: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:41
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:54
+msgctxt "Plugin|"
+msgid "UrlPreview"
+msgstr "Previsualización de URLs"
+
+#: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:42
+msgctxt "Plugin|"
+msgid "Preview images directly in the chat window"
+msgstr ""
+"Muestra una vista previa de imágenes directamente en la ventana de "
+"conversación"
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:65
+msgctxt "UrlPreview::UrlHandler|"
+msgid "URL Preview"
+msgstr "Previsualización de URLs"
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:65
+msgctxt "UrlPreview::UrlHandler|"
+msgid "bytes"
+msgstr "bytes"
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:74
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:76
+msgctxt "UrlPreview::UrlHandler|"
+msgid "Something went wrong."
+msgstr "Algo malo ha ocurrido."
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:241
+msgctxt "UrlPreview::UrlHandler|"
+msgid "YouTube video"
+msgstr "Vídeo de YouTube"
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:244
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:277
+msgctxt "UrlPreview::UrlHandler|"
+msgid "Unknown"
+msgstr "Desconocido"
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:254
+msgctxt "UrlPreview::UrlHandler|"
+msgid "HTML5 Audio"
+msgstr "Audio HTML5"
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:268
+msgctxt "UrlPreview::UrlHandler|"
+msgid "HTML5 Video"
+msgstr "Vídeo HTML5"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:14
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Form"
+msgstr "Formulario"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:26
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Max filesize"
+msgstr "Tamaño máximo del fichero"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:33
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Max picture size to preview "
+msgstr "Tamaño máximo de la imagen a previsualizar "
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:36
+msgctxt "UrlPreviewSettingsForm|"
+msgid " bytes"
+msgstr " bytes"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:49
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Height"
+msgstr "Alto"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:56
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Max height of images preview."
+msgstr "Alto máximo de las previsualizaciones"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:59
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:88
+msgctxt "UrlPreviewSettingsForm|"
+msgid "px"
+msgstr "px"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:78
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Width"
+msgstr "Ancho"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:85
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Max width of images preview."
+msgstr "Ancho máximo de las previsualizaciones"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:107
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Images preview"
+msgstr "Previsualizar imágenes"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:117
+msgctxt "UrlPreviewSettingsForm|"
+msgid "YouTube preview"
+msgstr "Previsualizar vídeos de YouTube"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:127
+msgctxt "UrlPreviewSettingsForm|"
+msgid "HTML5 Audio"
+msgstr "Previsualizar audio HTML5"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:137
+msgctxt "UrlPreviewSettingsForm|"
+msgid "HTML5 Video"
+msgstr "Previsualizat vídeo HTML5"

@@ -1,0 +1,133 @@
+# Español (España):  translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-06-28 09:42+0000\n"
+"PO-Revision-Date: 2012-08-07 00:22+0000\n"
+"Last-Translator: Carlos Vives <mail@carlosvives.es>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
+"X-Generator: Launchpad (build 15745)\n"
+"X-Qt-Contexts: true\n"
+"Language: es\n"
+
+#: ../../../plugins/macintegration/src/macidle/macidle.mm:79
+msgctxt "AutoAway|"
+msgid "Auto-away"
+msgstr "Auto-ausencia"
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:117
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Accounts"
+msgstr "Cuentas"
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:118
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Chats"
+msgstr "Conversaciones"
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:120
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Set Status Text"
+msgstr "Establecer mensaje de estado"
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:267
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "File"
+msgstr "Archivo"
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:268
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Roster"
+msgstr "Lista de contactos"
+
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:14
+msgctxt "MacIdleWidget|"
+msgid "Form"
+msgstr "Formulario"
+
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:32
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:56
+#, qt-format
+msgctxt "MacIdleWidget|"
+msgid "Set status «%1» after:"
+msgstr "Cambiar estado a «%1» tras:"
+
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:39
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:99
+msgctxt "MacIdleWidget|seconds"
+msgid " min"
+msgstr " min"
+
+#: ../../../plugins/macintegration/src/macdock/macdock.mm:111
+msgctxt "MacIntegration::MacDock|"
+msgid "Opened chats"
+msgstr "Conversaciones abiertas"
+
+#: ../../../plugins/macintegration/src/macspellchecker/macspellsettings.cpp:38
+msgctxt "MacIntegration::MacSpellSettings|"
+msgid "Language"
+msgstr "Idioma"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Dock integration"
+msgstr "Integración con la bandeja del sistema"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Mac OS X dock integration"
+msgstr "Integración con la bandeja de Mac OS X"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:3
+msgctxt "Plugin|"
+msgid "SpellChecker"
+msgstr "Corrector ortográfico"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:4
+msgctxt "Plugin|"
+msgid "Mac OS X spell checker"
+msgstr "Corrector ortográfico de Mac OS X"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:5
+msgctxt "Plugin|"
+msgid "IdleManager"
+msgstr "Gestor de inactividad"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:6
+msgctxt "Plugin|"
+msgid "Mac OS X idle manager"
+msgstr "Gestor de inactividad de Mac OS X"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:7
+msgctxt "Plugin|"
+msgid "Mac Contactlist"
+msgstr "Lista de contactos de Mac"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:8
+msgctxt "Plugin|"
+msgid "Mac OS X contactlist"
+msgstr "Lista de contactos de Mac OS X"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:9
+msgctxt "Plugin|"
+msgid "Growl notifications"
+msgstr "Notificaciones emergentes"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:10
+msgctxt "Plugin|"
+msgid "Default Mac Os X Notifications"
+msgstr "Notificaciones por defecto de Mac OS X"
+
+#: ../../../plugins/macintegration/src/macspellchecker/macspellchecker.mm:21
+msgctxt "Settings|"
+msgid "Spell checker"
+msgstr "Corrector ortográfico"

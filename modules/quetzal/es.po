@@ -1,0 +1,98 @@
+# Español (España):  translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-02-19 16:52+0000\n"
+"PO-Revision-Date: 2012-08-07 00:23+0000\n"
+"Last-Translator: Carlos Vives <mail@carlosvives.es>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
+"X-Generator: Launchpad (build 15745)\n"
+"X-Qt-Contexts: true\n"
+"Language: es\n"
+
+#: ../../../protocols/quetzal/__data_from_cmakelists_txt.cpp:1
+#: ../../../protocols/quetzal/src/quetzalplugin.cpp:660
+msgctxt "Plugin|"
+msgid "Quetzal"
+msgstr "Quetzal"
+
+#: ../../../protocols/quetzal/__data_from_cmakelists_txt.cpp:2
+#: ../../../protocols/quetzal/src/quetzalplugin.cpp:661
+#: ../../../protocols/quetzal/src/quetzalplugin.cpp:706
+#: ../../../protocols/quetzal/src/quetzalplugin.cpp:710
+msgctxt "Plugin|"
+msgid "'Quetzal' is set of protocols, powered by libpurple"
+msgstr "'Quetzal' es un set de protocolos, alimentado por libpurple"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:61
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Username"
+msgstr "Usuario"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:75
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Password"
+msgstr "Contraseña"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:80
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Save password"
+msgstr "Guardar contraseña"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:137
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Unable to save new account"
+msgstr "No se pudo guardar la cuenta"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:138
+msgctxt "QuetzalAccountWizardPage|"
+msgid "An account already exists with the specified criteria."
+msgstr "Ya existe una cuenta con los datos especificados."
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:156
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Register"
+msgstr "Registrar"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:197
+msgctxt "QuetzalAccountWizardPage|"
+msgid ""
+"Registration is succesfull\n"
+"Complete account creating by clicking on Finish button"
+msgstr ""
+"Registro completado con éxito\n"
+"Termina el proceso de creación de cuenta presionando el botón Finalizar"
+
+#: ../../../protocols/quetzal/src/quetzalaccountwizard.cpp:205
+msgctxt "QuetzalAccountWizardPage|"
+msgid "Registration failed"
+msgstr "Registro fallido"
+
+#: ../../../protocols/quetzal/src/quatzelactiondialog.ui:14
+msgctxt "QuetzalActionDialog|"
+msgid "Dialog"
+msgstr "Diálogo"
+
+#: ../../../protocols/quetzal/src/quetzaljoinchatdialog.ui:14
+msgctxt "QuetzalJoinChatDialog|"
+msgid "Join group chat"
+msgstr "Unirse a sala de conversación"
+
+#: ../../../protocols/quetzal/src/quetzaljoinchatdialog.ui:33
+msgctxt "QuetzalJoinChatDialog|"
+msgid "Save to bookmarks"
+msgstr "Guardar en favoritos"
+
+#: ../../../protocols/quetzal/src/quetzalprotocol.cpp:97
+msgctxt "Settings|"
+msgid "General"
+msgstr "General"
