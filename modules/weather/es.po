@@ -1,0 +1,330 @@
+# Español (España):  translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-05-04 19:01+0000\n"
+"PO-Revision-Date: 2012-08-07 00:24+0000\n"
+"Last-Translator: Carlos Vives <mail@carlosvives.es>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
+"X-Generator: Launchpad (build 15745)\n"
+"X-Qt-Contexts: true\n"
+"Language: es\n"
+
+#: ../../../plugins/weather/src/weather.cpp:36
+msgctxt "Author|"
+msgid "Nikita Belov"
+msgstr "Nikita Belov"
+
+#: ../../../plugins/weather/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/weather/src/weather.cpp:39
+msgctxt "Plugin|"
+msgid "Weather plugin"
+msgstr "Predicción meteorológica"
+
+#: ../../../plugins/weather/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/weather/src/weather.cpp:40
+msgctxt "Plugin|"
+msgid "Plugin shows a current weather in your city."
+msgstr "Este plugin muestra la predicción meteorológica para tu ciudad."
+
+#: ../../../plugins/weather/src/weather.cpp:37
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Desarrollador"
+
+#: ../../../plugins/weather/src/waccount.cpp:161
+#, qt-format
+msgctxt "WAccount|"
+msgid "Weather: %1°%2"
+msgstr "Predicción: %1°%2"
+
+#: ../../../plugins/weather/src/wlistitem.cpp:41
+msgctxt "WListItem|"
+msgid "Remove"
+msgstr "Eliminar"
+
+#: ../../../plugins/weather/src/wsettings.cpp:103
+msgctxt "WSettings|"
+msgid "Enter here city's name"
+msgstr "Introduce el nombre de tu ciudad"
+
+#: ../../../plugins/weather/src/wsettings.cpp:164
+msgctxt "WSettings|"
+msgid "Not found"
+msgstr "No encontrada"
+
+#: ../../../plugins/weather/src/wsettings.ui:14
+#: ../../../plugins/weather/src/wsettings.ui:58
+msgctxt "WSettingsClass|"
+msgid "Settings"
+msgstr "Configuración"
+
+#: ../../../plugins/weather/src/wsettings.ui:27
+msgctxt "WSettingsClass|"
+msgid "Cities"
+msgstr "Ciudades"
+
+#: ../../../plugins/weather/src/wsettings.ui:43
+msgctxt "WSettingsClass|"
+msgid "Search"
+msgstr "Buscar"
+
+#: ../../../plugins/weather/src/wsettings.ui:50
+msgctxt "WSettingsClass|"
+msgid "Add"
+msgstr "Agregar"
+
+#: ../../../plugins/weather/src/wsettings.ui:64
+msgctxt "WSettingsClass|"
+msgid "Theme name:"
+msgstr "Tema:"
+
+#: ../../../plugins/weather/src/wsettings.ui:81
+msgctxt "WSettingsClass|"
+msgid "min."
+msgstr "min."
+
+#: ../../../plugins/weather/src/wsettings.ui:94
+msgctxt "WSettingsClass|"
+msgid "Refresh period:"
+msgstr "Periodo de actualización:"
+
+#: ../../../plugins/weather/src/wsettings.ui:101
+msgctxt "WSettingsClass|"
+msgid "Show weather in the status row"
+msgstr "Mostrar predicción en la fila de estado"
+
+#: ../../../plugins/weather/src/wsettings.ui:112
+msgctxt "WSettingsClass|"
+msgid "About"
+msgstr "Acerca de"
+
+#: ../../../plugins/weather/src/wsettings.ui:118
+msgctxt "WSettingsClass|"
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-"
+"size:8.25pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><img "
+"src=\":/icons/weather_big.png\" /></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+"style=\" font-family:'Bitstream Vera Sans'; font-size:10pt; font-"
+"weight:600;\">Weather qutIM plugin</span></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+"style=\" font-family:'Bitstream Vera Sans'; font-"
+"size:10pt;\">v0.2.0</span></p>\n"
+"<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
+"bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px; font-family:'Bitstream Vera Sans'; font-size:10pt;\"></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+"style=\" font-family:'Bitstream Vera Sans'; font-size:10pt; font-"
+"weight:600;\">Author: </span></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+"style=\" font-family:'Bitstream Vera Sans'; font-size:10pt;\">Nikita "
+"Belov</span></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><a "
+"href=\"mailto:null@deltaz.org\"><span style=\" font-family:'Bitstream Vera "
+"Sans'; font-size:10pt; text-decoration: underline; "
+"color:#0000ff;\">null@deltaz.org</span></a></p>\n"
+"<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
+"bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px; font-family:'Bitstream Vera Sans'; font-size:10pt; text-"
+"decoration: underline; color:#000000;\"></p>\n"
+"<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
+"bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px; font-family:'Bitstream Vera Sans'; font-size:10pt; text-"
+"decoration: underline; color:#000000;\"></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+"style=\" font-family:'Bitstream Vera Sans'; font-size:10pt; "
+"color:#000000;\">(c) 2008-2010</span></p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+" <html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+" p, li { white-space: pre-wrap; }\n"
+" </style></head><body style=\" font-family:'MS Shell Dlg 2'; font-"
+"size:8.25pt; font-weight:400; font-style:normal;\">\n"
+" <p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><img "
+"src=\":/icons/weather_big.png\" /></p>\n"
+" <p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+"style=\" font-family:'Bitstream Vera Sans'; font-size:10pt; font-"
+"weight:600;\">Predicción meteorológica para qutIM</span></p>\n"
+" <p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+"style=\" font-family:'Bitstream Vera Sans'; font-"
+"size:10pt;\">v0.2.0</span></p>\n"
+" <p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
+"margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px; font-family:'Bitstream Vera Sans'; font-size:10pt;\"></p>\n"
+" <p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+"style=\" font-family:'Bitstream Vera Sans'; font-size:10pt; font-"
+"weight:600;\">Autor: </span></p>\n"
+" <p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+"style=\" font-family:'Bitstream Vera Sans'; font-size:10pt;\">Nikita "
+"Belov</span></p>\n"
+" <p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><a "
+"href=\"mailto:null@deltaz.org\"><span style=\" font-family:'Bitstream Vera "
+"Sans'; font-size:10pt; text-decoration: underline; "
+"color:#0000ff;\">null@deltaz.org</span></a></p>\n"
+" <p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
+"margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px; font-family:'Bitstream Vera Sans'; font-size:10pt; text-"
+"decoration: underline; color:#000000;\"></p>\n"
+" <p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
+"margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px; font-family:'Bitstream Vera Sans'; font-size:10pt; text-"
+"decoration: underline; color:#000000;\"></p>\n"
+" <p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+"style=\" font-family:'Bitstream Vera Sans'; font-size:10pt; "
+"color:#000000;\">(c) 2008-2010</span></p></body></html>"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:1
+msgctxt "Weather|"
+msgid "Day"
+msgstr "Día"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:2
+msgctxt "Weather|"
+msgid "Dew Point"
+msgstr "Punto de rocío"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:3
+msgctxt "Weather|"
+msgid "Feels Like"
+msgstr "Sensación térmica"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:4
+msgctxt "Weather|"
+msgid "From %daytime/windDirectionText% at %daytime/windSpeed% %units/speed%"
+msgstr "De %daytime/windDirectionText% a %daytime/windSpeed% %units/speed%"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:5
+#, qt-format
+msgctxt "Weather|"
+msgid ""
+"From %nighttime/windDirectionText% at %nighttime/windSpeed% %units/speed%"
+msgstr ""
+"De %nighttime/windDirectionText% a %nighttime/windSpeed% %units/speed%"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:6
+msgctxt "Weather|"
+msgid "From %winddirection% at %windspeed% %units/speed%"
+msgstr "De %winddirection% a %windspeed% %units/speed%"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:7
+msgctxt "Weather|"
+msgid "High"
+msgstr "Alta"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:8
+msgctxt "Weather|"
+msgid "Humidity"
+msgstr "Humedad"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:9
+msgctxt "Weather|"
+msgid "Local Time"
+msgstr "Hora local"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:10
+msgctxt "Weather|"
+msgid "Night"
+msgstr "Noche"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:11
+msgctxt "Weather|"
+msgid "Overnight Low"
+msgstr "Baja nocturna"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:12
+msgctxt "Weather|"
+msgid "Pressure"
+msgstr "Presión"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:13
+msgctxt "Weather|"
+msgid "Rain"
+msgstr "Lluvia"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:14
+msgctxt "Weather|"
+msgid "Snow"
+msgstr "Nieve"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:15
+msgctxt "Weather|"
+msgid "Sunrise"
+msgstr "Amanecer"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:16
+msgctxt "Weather|"
+msgid "Sunset"
+msgstr "Ocaso"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:17
+msgctxt "Weather|"
+msgid "Updated"
+msgstr "Actualizado"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:18
+msgctxt "Weather|"
+msgid "UV Index"
+msgstr "Índice UV"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:19
+msgctxt "Weather|"
+msgid "Visibility"
+msgstr "Visibilidad"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:20
+msgctxt "Weather|"
+msgid "Weather forecast"
+msgstr "Predición meteorológica"
+
+#: ../../../plugins/weather/__template_from_weather.cpp:21
+msgctxt "Weather|"
+msgid "Wind"
+msgstr "Viento"
+
+#: ../../../plugins/weather/src/waccount.cpp:35
+#: ../../../plugins/weather/src/wcontact.cpp:60
+msgctxt "Weather|"
+msgid "Weather"
+msgstr "Clima"
+
+#: ../../../plugins/weather/src/weather.cpp:45
+msgctxt "Weather|"
+msgid "Get weather"
+msgstr "Obtener clima"
+
+#: ../../../plugins/weather/src/weather.cpp:49
+msgctxt "Weather|"
+msgid "Get weather forecast"
+msgstr "Obtener predicción"

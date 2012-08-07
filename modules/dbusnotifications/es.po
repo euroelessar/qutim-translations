@@ -1,0 +1,58 @@
+# Español (España):  translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-03-23 17:51+0000\n"
+"PO-Revision-Date: 2012-08-07 00:22+0000\n"
+"Last-Translator: Carlos Vives <mail@carlosvives.es>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
+"X-Generator: Launchpad (build 15745)\n"
+"X-Qt-Contexts: true\n"
+"Language: es\n"
+
+#: ../../../plugins/dbusnotifications/src/dbusbackend.cpp:84
+msgctxt "DBusBackend|"
+msgid "Show popup"
+msgstr "Mostrar ventana emergente"
+
+#: ../../../plugins/dbusnotifications/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Dbus notifications"
+msgstr "Notificaciones DBus"
+
+#: ../../../plugins/dbusnotifications/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Notification system, based on Freedesktop"
+msgstr ""
+"Sistema de notificaciones basado en las especificaciones de Freedesktop"
+
+#: ../../../plugins/dbusnotifications/src/dplugin.cpp:39
+msgctxt "Plugin|"
+msgid "DBus notifications"
+msgstr "Notificaciones DBus"
+
+#: ../../../plugins/dbusnotifications/src/dplugin.cpp:40
+msgctxt "Plugin|"
+msgid "Notification system based on Freedesktop DBus protocol"
+msgstr ""
+"Sistema de notificaciones basado en las especificaciones de Freedesktop"
+
+#: ../../../plugins/dbusnotifications/src/dplugin.cpp:44
+msgctxt "plugin|"
+msgid "DBus notifications"
+msgstr "Notificaciones DBus"
+
+#: ../../../plugins/dbusnotifications/src/dplugin.cpp:45
+msgctxt "plugin|"
+msgid "Notification system based on Freedesktop DBus protocol"
+msgstr ""
+"Sistema de notificaciones basado en las especificaciones de Freedesktop"

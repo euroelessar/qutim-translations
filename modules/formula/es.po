@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-30 18:44+0000\n"
-"PO-Revision-Date: 2012-08-06 04:11+0000\n"
+"POT-Creation-Date: 2012-05-04 19:01+0000\n"
+"PO-Revision-Date: 2012-08-07 04:01+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,8 +17,15 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
 "X-Generator: Launchpad (build 15745)\n"
 
-#: ../../../plugins/linuxintegration/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/linuxintegration/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/formula/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/formula/src/formulaplugin.cpp:32
 msgctxt "Plugin|"
-msgid "Linux integration"
-msgstr "Integración con Linux"
+msgid "Formula"
+msgstr "Fórmula"
+
+#: ../../../plugins/formula/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/formula/src/formulaplugin.cpp:33
+msgctxt "Plugin|"
+msgid "Plugin replaces equations surrounded by $$ by tex images"
+msgstr ""
+"El complemento reemplaza ecuaciones rodeadas por $$ por imágenes de tex"

@@ -1,0 +1,80 @@
+# Español (España):  translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-02-19 16:53+0000\n"
+"PO-Revision-Date: 2012-08-07 00:22+0000\n"
+"Last-Translator: Carlos Vives <mail@carlosvives.es>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
+"X-Generator: Launchpad (build 15745)\n"
+"X-Qt-Contexts: true\n"
+"Language: es\n"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.ui:20
+msgctxt "AppearanceSettings|"
+msgid "Form"
+msgstr "Formulario"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.ui:45
+msgctxt "AppearanceSettings|"
+msgid "test"
+msgstr "probar"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.ui:65
+msgctxt "AppearanceSettings|"
+msgid "Preview is unavailable"
+msgstr "La vista previa no está disponible"
+
+#: ../../../plugins/kineticpopups/src/backend.cpp:42
+msgctxt "KineticPopups::Backend|"
+msgid "Show popup"
+msgstr "Mostrar ventana emergente"
+
+#: ../../../plugins/kineticpopups/src/backend.cpp:50
+msgctxt "KineticPopups::Backend|"
+msgid "Unable to create notification inside QtQuick"
+msgstr "No se pudo crear notificación en QtQuick"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.cpp:116
+msgctxt "KineticPopups::PopupAppearance|"
+msgid "Simple popup"
+msgstr "Ventana emergente sencilla"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.cpp:117
+msgctxt "KineticPopups::PopupAppearance|"
+msgid "Preview"
+msgstr "Vista previa"
+
+#: ../../../plugins/kineticpopups/src/settings/popupappearance.cpp:119
+msgctxt "KineticPopups::PopupAppearance|"
+msgid "Test again"
+msgstr "Probar de nuevo"
+
+#: ../../../plugins/kineticpopups/src/popupwidgets/quickpopupwidget.cpp:76
+msgctxt "KineticPopups::QuickNotify|"
+msgid "Notification from qutIM"
+msgstr "Notificación de qutIM"
+
+#: ../../../plugins/kineticpopups/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Kinetic popups"
+msgstr "Ventanas emergentes cinéticas"
+
+#: ../../../plugins/kineticpopups/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Growl-like popups, based on power of Qt Quick"
+msgstr "Ventanas emergentes similares a las de Grown, generadas por Qt Quick"
+
+#: ../../../plugins/kineticpopups/src/backend.cpp:45
+msgctxt "Settings|"
+msgid "Popups"
+msgstr "Ventanas emergentes"

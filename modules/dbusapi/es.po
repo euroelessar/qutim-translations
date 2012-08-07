@@ -1,0 +1,53 @@
+# Español (España):  translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-03-23 17:51+0000\n"
+"PO-Revision-Date: 2012-08-07 00:21+0000\n"
+"Last-Translator: Carlos Vives <mail@carlosvives.es>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
+"X-Generator: Launchpad (build 15745)\n"
+"X-Qt-Contexts: true\n"
+"Language: es\n"
+
+#: ../../../plugins/dbusapi/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/dbusapi/src/dbusplugin.cpp:151
+msgctxt "Plugin|"
+msgid "DBus API"
+msgstr ""
+
+#: ../../../plugins/dbusapi/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/dbusapi/src/dbusplugin.cpp:152
+msgctxt "Plugin|"
+msgid "Added ability to control qutIM by DBus"
+msgstr ""
+
+#~ msgctxt "Author|"
+#~ msgid "Alexey Prokhin"
+#~ msgstr "Alexey Prokhin"
+
+#~ msgctxt "ClConf|"
+#~ msgid "Conferences"
+#~ msgstr "Salas de conversación"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Conferences in contact list"
+#~ msgstr "Salas de conversación en la lista de contactos"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Plugin adds your conferences to the contact list"
+#~ msgstr ""
+#~ "Este plugin te permite añadir listas de conversación a la lista de contactos"
+
+#~ msgctxt "Task|"
+#~ msgid "Author"
+#~ msgstr "Autor"

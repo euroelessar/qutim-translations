@@ -1,0 +1,61 @@
+# Español (España):  translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-06-28 09:42+0000\n"
+"PO-Revision-Date: 2012-08-07 00:23+0000\n"
+"Last-Translator: Carlos Vives <mail@carlosvives.es>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
+"X-Generator: Launchpad (build 15745)\n"
+"X-Qt-Contexts: true\n"
+"Language: es\n"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:30
+msgctxt "Author|"
+msgid "Ruslan Nigmatullin"
+msgstr "Ruslan Nigmatullin"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:44
+msgctxt "Ignorer|"
+msgid "Evil ids"
+msgstr "IDs a ignorar"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:26
+#: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:39
+msgctxt "Plugin|"
+msgid "Ignorer"
+msgstr ""
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:27
+msgctxt "Plugin|"
+msgid "Ignores messages from certain persons"
+msgstr "Ignora mensajes de ciertas personas"
+
+#: ../../../plugins/scriptapi/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Script API scriptapi/src/scriptplugin.cpp-"
+msgstr ""
+
+#: ../../../plugins/scriptapi/src/scriptplugin.cpp:133
+msgctxt "Plugin|"
+msgid "Script API"
+msgstr "API para scripts"
+
+#: ../../../plugins/scriptapi/src/scriptplugin.cpp:134
+msgctxt "Plugin|"
+msgid "Added ability to create plugins at JavaScript"
+msgstr "Añade capacidad para crear plugins con JavaScript"
+
+#: ../../../plugins/scriptapi/share/qutim/scripts/ignorer/plugin.js:31
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Desarrollador"
