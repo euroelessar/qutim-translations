@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-07-01 19:32+0000\n"
-"PO-Revision-Date: 2012-08-06 22:17+0000\n"
+"PO-Revision-Date: 2012-08-07 21:01+0000\n"
 "Last-Translator: Carlos Vives <mail@carlosvives.es>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
-"X-Generator: Launchpad (build 15745)\n"
+"X-Launchpad-Export-Date: 2012-08-08 05:13+0000\n"
+"X-Generator: Launchpad (build 15757)\n"
 "X-Qt-Contexts: true\n"
 "Language: es\n"
 "X-Language: es_ES\n"
@@ -1219,7 +1219,7 @@ msgstr "Sin grupos"
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
-msgstr ""
+msgstr "¿Deseas unir los metacontactos \"%1\" <%2> y \"%3\" <%4>?"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:503
 #, qt-format
@@ -2833,7 +2833,7 @@ msgstr "HTTP"
 #, qt-format
 msgctxt "QCoreApplication|"
 msgid "Are you sure you want to delete a contact %1 from the roster?"
-msgstr ""
+msgstr "¿Realmente deseas eliminar a %1 de la lista de contactos?"
 
 #: ../../../core/libqutim/actiontoolbar.cpp:124
 msgctxt "QObject|"
@@ -3781,7 +3781,7 @@ msgstr "Formulario"
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:62
 msgctxt "StackedChatBehavior|"
 msgid "Send Key"
-msgstr "Enviar clave"
+msgstr "Tecla de envío"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:70
 msgctxt "StackedChatBehavior|"
@@ -3876,7 +3876,7 @@ msgstr "Formulario"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:47
 msgctxt "TabbedChatBehavior|"
 msgid "Send Key"
-msgstr "Enviar clave"
+msgstr "Tecla de envío"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:55
 msgctxt "TabbedChatBehavior|"
