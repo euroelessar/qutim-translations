@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-30 18:45+0000\n"
-"PO-Revision-Date: 2012-07-01 23:35+0000\n"
+"PO-Revision-Date: 2012-09-06 13:11+0000\n"
 "Last-Translator: DAG Software <Unknown>\n"
 "Language-Team: Slovak <sk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-07-03 06:26+0000\n"
-"X-Generator: Launchpad (build 15531)\n"
+"X-Launchpad-Export-Date: 2012-09-07 05:12+0000\n"
+"X-Generator: Launchpad (build 15914)\n"
 
 #: ../../../plugins/kdeintegration/src/aboutapp/kdeaboutappdialog.cpp:45
 msgctxt "Core|"
@@ -57,7 +57,7 @@ msgstr "KDE Integrácia"
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:102
 msgctxt "Plugin|"
 msgid "Full-featured integration with KDE"
-msgstr ""
+msgstr "Plná integrácia s KDE"
 
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:104
 msgctxt "Plugin|"
@@ -67,7 +67,7 @@ msgstr "KDE smajlíky"
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:105
 msgctxt "Plugin|"
 msgid "Using KDE emoticons packs"
-msgstr ""
+msgstr "Používať KDE balíčky smajlíkov"
 
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:107
 msgctxt "Plugin|"
@@ -92,7 +92,7 @@ msgstr ""
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:114
 msgctxt "Plugin|"
 msgid "Uses KDE Icon engine for providing icons"
-msgstr ""
+msgstr "Používa KDE ikony"
 
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:120
 msgctxt "Plugin|"
@@ -102,17 +102,17 @@ msgstr ""
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:121
 msgctxt "Plugin|"
 msgid "Using new KDE DBus tray specification"
-msgstr ""
+msgstr "Používa novú KDE DBus tray špecifikáciu"
 
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:123
 msgctxt "Plugin|"
 msgid "About KDE dialog"
-msgstr ""
+msgstr "Dialóg O KDE"
 
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:124
 msgctxt "Plugin|"
 msgid "Show \"About KDE\" menu option"
-msgstr ""
+msgstr "Zobrazuje v menu položku \"O KDE\""
 
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:126
 msgctxt "Plugin|"
@@ -122,7 +122,7 @@ msgstr ""
 #: ../../../plugins/kdeintegration/src/kdeintegration.cpp:127
 msgctxt "Plugin|"
 msgid "Use kde-specific application about dialog"
-msgstr ""
+msgstr "Používa pre KDE špecifický dialóg O programe"
 
 #: ../../../plugins/kdeintegration/src/speller/kdespellerlayer.cpp:39
 msgctxt "Settings|"
