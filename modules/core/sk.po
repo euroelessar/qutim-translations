@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-07-01 19:32+0000\n"
-"PO-Revision-Date: 2012-07-01 23:23+0000\n"
+"PO-Revision-Date: 2012-09-06 13:58+0000\n"
 "Last-Translator: DAG Software <Unknown>\n"
 "Language-Team: Slovak <sk@li.org>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-07-03 06:26+0000\n"
-"X-Generator: Launchpad (build 15531)\n"
+"X-Launchpad-Export-Date: 2012-09-07 05:12+0000\n"
+"X-Generator: Launchpad (build 15914)\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../../core/libqutim/account.cpp:144
@@ -83,17 +83,17 @@ msgstr "Zobraziť len text"
 #: ../../../core/libqutim/actiontoolbar.cpp:89
 msgctxt "ActionToolBar|"
 msgid "The text appears beside the icon"
-msgstr ""
+msgstr "Text sa zobrazí vedľa ikony"
 
 #: ../../../core/libqutim/actiontoolbar.cpp:91
 msgctxt "ActionToolBar|"
 msgid "The text appears under the icon"
-msgstr ""
+msgstr "Text sa zobrazí pod ikonou"
 
 #: ../../../core/libqutim/actiontoolbar.cpp:93
 msgctxt "ActionToolBar|"
 msgid "Follow the style"
-msgstr ""
+msgstr "Závislé na štýle"
 
 #: ../../../core/src/corelayers/addcontactdlg/addcontact.ui:14
 #: ../../../core/src/corelayers/addcontactdlg/addcontact.cpp:69
@@ -1773,7 +1773,7 @@ msgstr "Rozdeliť metakontakt"
 #: ../../../core/src/corelayers/metacontacts/manager.cpp:127
 msgctxt "MetaContact|"
 msgid "Manage metacontacts"
-msgstr ""
+msgstr "Spravovať metakontakty"
 
 #: ../../../core/src/corelayers/metacontacts/model.cpp:44
 msgctxt "MetaContacts|"
@@ -1928,37 +1928,37 @@ msgstr "Správa odoslaná"
 #: ../../../core/libqutim/notification.cpp:223
 msgctxt "Notification|"
 msgid "qutIM has started"
-msgstr ""
+msgstr "qutIM bol spustený"
 
 #: ../../../core/libqutim/notification.cpp:224
 msgctxt "Notification|"
 msgid "A message has been blocked"
-msgstr ""
+msgstr "Správa bola zablokovaná"
 
 #: ../../../core/libqutim/notification.cpp:225
 msgctxt "Notification|"
 msgid "A user has joined a conference"
-msgstr ""
+msgstr "Používateľ vstúpil do konferencie"
 
 #: ../../../core/libqutim/notification.cpp:226
 msgctxt "Notification|"
 msgid "A user has left a conference"
-msgstr ""
+msgstr "Použivateľ opustil konferenciu"
 
 #: ../../../core/libqutim/notification.cpp:227
 msgctxt "Notification|"
 msgid "A new conference message has been received"
-msgstr ""
+msgstr "Nová správa bola doručená do konferencie"
 
 #: ../../../core/libqutim/notification.cpp:228
 msgctxt "Notification|"
 msgid "A conference message has been sent"
-msgstr ""
+msgstr "Nová správa bola odoslaná z konferencie"
 
 #: ../../../core/libqutim/notification.cpp:229
 msgctxt "Notification|"
 msgid "A file transfer has been completed"
-msgstr ""
+msgstr "Prenos súboru dokončený"
 
 #: ../../../core/libqutim/notification.cpp:230
 msgctxt "Notification|"
@@ -1973,7 +1973,7 @@ msgstr "Kontakt sa odhlásil"
 #: ../../../core/libqutim/notification.cpp:232
 msgctxt "Notification|"
 msgid "A contact has changed status"
-msgstr ""
+msgstr "Kontakt zmenil status"
 
 #: ../../../core/libqutim/notification.cpp:233
 msgctxt "Notification|"
@@ -1988,7 +1988,7 @@ msgstr "Kontakt píše"
 #: ../../../core/libqutim/notification.cpp:235
 msgctxt "Notification|"
 msgid "A system notification"
-msgstr ""
+msgstr "Systémové upozornenia"
 
 #: ../../../core/libqutim/notification.cpp:236
 msgctxt "Notification|"
@@ -2162,7 +2162,7 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:35
 msgctxt "Plugin|"
 msgid "File transfer manager"
-msgstr ""
+msgstr "Správca posielania súborov"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:36
 msgctxt "Plugin|"
@@ -2566,7 +2566,7 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:119
 msgctxt "Plugin|"
 msgid "Service chooser"
-msgstr ""
+msgstr "Vyberač služieb"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:121
 msgctxt "Plugin|"
@@ -2683,7 +2683,7 @@ msgstr "Meno:"
 #: ../../../core/src/widgets/profilecreationpage.ui:48
 msgctxt "ProfileCreationPage|"
 msgid "It will be shown in chat dialogs"
-msgstr ""
+msgstr "To bude zobrazené v okne chatu"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:55
 msgctxt "ProfileCreationPage|"
@@ -2693,12 +2693,12 @@ msgstr "ID profilu:"
 #: ../../../core/src/widgets/profilecreationpage.ui:62
 msgctxt "ProfileCreationPage|"
 msgid "Used for profile identification"
-msgstr ""
+msgstr "Použité pre identifikáciu profilu"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:69
 msgctxt "ProfileCreationPage|"
 msgid "Show advanced settings"
-msgstr ""
+msgstr "Zobraziť pokročilé nastavenia"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:76
 msgctxt "ProfileCreationPage|"
@@ -2713,12 +2713,12 @@ msgstr ""
 #: ../../../core/src/widgets/profilecreationpage.ui:92
 msgctxt "ProfileCreationPage|"
 msgid "Store data at application dir"
-msgstr ""
+msgstr "Ukladať dáta v priečinku programu"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:99
 msgctxt "ProfileCreationPage|"
 msgid "Config dir:"
-msgstr ""
+msgstr "Priečinok nastavenia:"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:111
 #: ../../../core/src/widgets/profilecreationpage.ui:132
@@ -2730,12 +2730,12 @@ msgstr "..."
 #: ../../../core/src/widgets/profilecreationpage.ui:120
 msgctxt "ProfileCreationPage|"
 msgid "History dir:"
-msgstr ""
+msgstr "Priečinok histórie:"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:141
 msgctxt "ProfileCreationPage|"
 msgid "Data dir:"
-msgstr ""
+msgstr "Priečinok dát:"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:162
 msgctxt "ProfileCreationPage|"
@@ -2806,27 +2806,27 @@ msgstr ""
 #: ../../../core/libqutim/utils.cpp:126
 msgctxt "QObject|"
 msgid "1st quarter"
-msgstr ""
+msgstr "1. štvrťrok"
 
 #: ../../../core/libqutim/utils.cpp:129
 msgctxt "QObject|"
 msgid "2nd quarter"
-msgstr ""
+msgstr "2. štvrťrok"
 
 #: ../../../core/libqutim/utils.cpp:132
 msgctxt "QObject|"
 msgid "3rd quarter"
-msgstr ""
+msgstr "3. štvrťrok"
 
 #: ../../../core/libqutim/utils.cpp:135
 msgctxt "QObject|"
 msgid "4th quarter"
-msgstr ""
+msgstr "4. štvrťrok"
 
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:92
 msgctxt "QObject|"
 msgid "Remove finished tasks"
-msgstr ""
+msgstr "Odstrániť dokončené úlohy"
 
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:100
 msgctxt "QObject|"
@@ -2866,24 +2866,24 @@ msgstr "Automaticky"
 #, qt-format
 msgctxt "QObject|"
 msgid "Message from %1:"
-msgstr ""
+msgstr "Správa od %1:"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:50
 #, qt-format
 msgctxt "QObject|"
 msgid "Message to %1:"
-msgstr ""
+msgstr "Správa pre %1:"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:53
 msgctxt "QObject|"
 msgid "qutIM launched"
-msgstr ""
+msgstr "qutIM spustený"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:58
 #, qt-format
 msgctxt "QObject|"
 msgid "Blocked message from %1"
-msgstr ""
+msgstr "Zablokovaná správa od %1"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:61
 #, qt-format
@@ -2941,7 +2941,7 @@ msgstr ""
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:183
 msgctxt "QObject|"
 msgid "Open chat"
-msgstr ""
+msgstr "Otvoriť chat"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:190
 msgctxt "QObject|"
@@ -2952,7 +2952,7 @@ msgstr "Ignorovať"
 #, qt-format
 msgctxt "QObject|"
 msgid "Copy %1 to clipboard"
-msgstr ""
+msgstr "Skopírovať %1 do schránky"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:101
 msgctxt "QxtCommandOptions|"
@@ -3206,7 +3206,7 @@ msgstr ""
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:77
 msgctxt "Service|"
 msgid "ContactList"
-msgstr ""
+msgstr "Zoznam kontaktov"
 
 #: ../../../core/__generated_from_service_names.cpp:16
 msgctxt "Service|"
@@ -3283,7 +3283,7 @@ msgstr ""
 #: ../../../core/__generated_from_service_names.cpp:30
 msgctxt "Service|"
 msgid "NowPlaying"
-msgstr ""
+msgstr "Prehráva sa"
 
 #: ../../../core/__generated_from_service_names.cpp:31
 #: ../../../core/libqutim/sound.cpp:40
@@ -3355,7 +3355,7 @@ msgstr "Formulár"
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelpersettings.ui:14
 msgctxt "SessionHelperSettings|"
 msgid "Form"
-msgstr ""
+msgstr "Formulár"
 
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelpersettings.ui:29
 msgctxt "SessionHelperSettings|"
@@ -3365,7 +3365,7 @@ msgstr ""
 #: ../../../core/examples/autosettingsitem/autosettings.cpp:39
 msgctxt "Settings|"
 msgid "Test settings"
-msgstr ""
+msgstr "Nastavenie testovania"
 
 #: ../../../core/examples/autosettingsitem/autosettings.cpp:41
 msgctxt "Settings|"
@@ -3447,7 +3447,7 @@ msgstr "Prenos súboru"
 #: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:53
 msgctxt "Settings|"
 msgid "Scrolling type"
-msgstr ""
+msgstr "Typ skrolovania"
 
 #: ../../../core/src/corelayers/localization/localizationmodule.cpp:47
 msgctxt "Settings|"
@@ -3463,7 +3463,7 @@ msgstr "Upozornenia"
 #: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:179
 msgctxt "Settings|"
 msgid "Global proxy"
-msgstr ""
+msgstr "Globálne proxy"
 
 #: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:186
 msgctxt "Settings|"
@@ -3473,7 +3473,7 @@ msgstr "Proxy"
 #: ../../../core/src/corelayers/qticons/iconsloaderimpl.cpp:85
 msgctxt "Settings|"
 msgid "Icons theme"
-msgstr ""
+msgstr "Téma ikon"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:38
 msgctxt "Settings|"
@@ -3563,12 +3563,12 @@ msgstr "O qutIM"
 #: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:110
 msgctxt "SimpleAboutDialog|"
 msgid "Module based instant messenger."
-msgstr ""
+msgstr "Instant messenger založený na moduloch"
 
 #: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:143
 msgctxt "SimpleAboutDialog|"
 msgid "Source code repository:"
-msgstr ""
+msgstr "Repozitár zdrojových kódov:"
 
 #: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:160
 msgctxt "SimpleAboutDialog|"
@@ -3578,7 +3578,7 @@ msgstr "Stránka projektu:"
 #: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:167
 msgctxt "SimpleAboutDialog|"
 msgid "Bug tracker:"
-msgstr ""
+msgstr "Hlásenie chýb:"
 
 #: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:200
 msgctxt "SimpleAboutDialog|"
@@ -3603,7 +3603,7 @@ msgstr "Formulár"
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:23
 msgctxt "SimpleContactlistSettings|"
 msgid "Status icons size:"
-msgstr ""
+msgstr "Veľkosť ikony statusu:"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:30
 msgctxt "SimpleContactlistSettings|"
@@ -3613,12 +3613,12 @@ msgstr "Zobraziť podobizne"
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:37
 msgctxt "SimpleContactlistSettings|"
 msgid "Show status text"
-msgstr ""
+msgstr "Zobrazovať text statusu"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:44
 msgctxt "SimpleContactlistSettings|"
 msgid "Show extended icons"
-msgstr ""
+msgstr "Zobrazovať rozšírené ikony"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:51
 msgctxt "SimpleContactlistSettings|"
@@ -3633,13 +3633,13 @@ msgstr ""
 #: ../../../core/src/corelayers/password/simplepasswordwidget.ui:14
 msgctxt "SimplePasswordWidget|"
 msgid "Password Request"
-msgstr ""
+msgstr "Žiadosť o heslo"
 
 #: ../../../core/src/corelayers/password/simplepasswordwidget.ui:20
 #, qt-format
 msgctxt "SimplePasswordWidget|"
 msgid "Enter password for account %1 (%2):"
-msgstr ""
+msgstr "Zadajte heslo pre účet %1 (%2):"
 
 #: ../../../core/src/corelayers/password/simplepasswordwidget.ui:27
 msgctxt "SimplePasswordWidget|"
@@ -3654,7 +3654,7 @@ msgstr "Zapamätať heslo"
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplestatusdialog.ui:14
 msgctxt "SimpleStatusDialog|"
 msgid "Set Status Text"
-msgstr ""
+msgstr "Nastaviť text statusu"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.ui:46
 msgctxt "SimpleTagsEditor|"
@@ -3674,17 +3674,17 @@ msgstr "Ikona"
 #: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:38
 msgctxt "SimpletraySettings|"
 msgid "Show number of new messages"
-msgstr ""
+msgstr "Zobraziť počet nových správ"
 
 #: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:45
 msgctxt "SimpletraySettings|"
 msgid "Show number of chats with new messages"
-msgstr ""
+msgstr "Zobraziť počet chatov s novými správami"
 
 #: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:52
 msgctxt "SimpletraySettings|"
 msgid "Show only icon"
-msgstr ""
+msgstr "Zobraziť len ikonu"
 
 #: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:62
 msgctxt "SimpletraySettings|"
@@ -3694,12 +3694,12 @@ msgstr "Ostatné"
 #: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:68
 msgctxt "SimpletraySettings|"
 msgid "Show mail icon if there are new messages"
-msgstr ""
+msgstr "Zobraziť ikonu pošty ak sú nové správy"
 
 #: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:75
 msgctxt "SimpletraySettings|"
 msgid "Blink icon"
-msgstr ""
+msgstr "Blikajúca ikona"
 
 #: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp:68
 msgctxt "Sound|"
@@ -3734,27 +3734,27 @@ msgstr "Formulár"
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:62
 msgctxt "StackedChatBehavior|"
 msgid "Send Key"
-msgstr ""
+msgstr "Klávesa pre odoslanie správy"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:70
 msgctxt "StackedChatBehavior|"
 msgid "Store service messages in history"
-msgstr ""
+msgstr "Ukladať správy služby do histórie"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:77
 msgctxt "StackedChatBehavior|"
 msgid "Number of previous messages shown in new chats"
-msgstr ""
+msgstr "Počet predchádzajúcich správ zobrazovaných v nových chatoch"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:80
 msgctxt "StackedChatBehavior|"
 msgid "Number of shown previous messages:"
-msgstr ""
+msgstr "Počet zobrazovaných predchádzajúcich správ:"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:90
 msgctxt "StackedChatBehavior|"
 msgid "Don't group messages after (sec):"
-msgstr ""
+msgstr "Nezoskupovať správy po (sekundách):"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:104
 msgctxt "StackedChatBehavior|"
@@ -3829,27 +3829,27 @@ msgstr "Formulár"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:47
 msgctxt "TabbedChatBehavior|"
 msgid "Send Key"
-msgstr ""
+msgstr "Klávesa pre odoslanie správy"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:55
 msgctxt "TabbedChatBehavior|"
 msgid "Store service messages in history"
-msgstr ""
+msgstr "Ukladať správy služby do histórie"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:62
 msgctxt "TabbedChatBehavior|"
 msgid "Number of previous messages shown in new chats"
-msgstr ""
+msgstr "Počet predchádzajúcich správ zobrazovaných v nových chatoch"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:65
 msgctxt "TabbedChatBehavior|"
 msgid "Number of shown previous messages:"
-msgstr ""
+msgstr "Počet zobrazovaných predchádzajúcich správ:"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:75
 msgctxt "TabbedChatBehavior|"
 msgid "Don't group messages after (sec):"
-msgstr ""
+msgstr "Nezoskupovať správy po (sekundách):"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:89
 msgctxt "TabbedChatBehavior|"
@@ -3884,7 +3884,7 @@ msgstr ""
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/tagsfilterdialog.ui:14
 msgctxt "TagsFilterDialog|"
 msgid "Select tags"
-msgstr ""
+msgstr "Vybrať štítky"
 
 #: ../../../core/libqutim/personinfo.cpp:213
 msgctxt "Task|"
@@ -4012,7 +4012,7 @@ msgstr ""
 #: ../../../core/src/corelayers/contactinfo/userinformation.ui:31
 msgctxt "userInformationClass|"
 msgid "Request details"
-msgstr ""
+msgstr "Vyžiadať podrobnosti"
 
 #: ../../../core/src/corelayers/contactinfo/userinformation.ui:55
 msgctxt "userInformationClass|"
