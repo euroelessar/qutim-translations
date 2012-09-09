@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-07-01 19:32+0000\n"
-"PO-Revision-Date: 2012-09-06 13:58+0000\n"
+"PO-Revision-Date: 2012-09-08 08:35+0000\n"
 "Last-Translator: DAG Software <Unknown>\n"
 "Language-Team: Slovak <sk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-07 05:12+0000\n"
+"X-Launchpad-Export-Date: 2012-09-09 05:06+0000\n"
 "X-Generator: Launchpad (build 15914)\n"
 "X-Qt-Contexts: true\n"
 "Language: sk\n"
@@ -367,7 +367,7 @@ msgstr "Zoznam kontaktov"
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:201
 msgctxt "ContactList|"
 msgid "Select tags"
-msgstr "Vybrať štítky"
+msgstr "Vybrať skupiny"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:207
 msgctxt "ContactList|"
@@ -387,12 +387,12 @@ msgstr "Zobraziť iba kontakty"
 #: ../../../core/src/corelayers/simplecontactlist/models/separatedcontactsmodel/separatedcontactlistmodel.cpp:90
 msgctxt "ContactList|"
 msgid "Show accounts, tags and contacts"
-msgstr "Zobraziť účty, štítky a kontakty"
+msgstr "Zobraziť účty, skupiny a kontakty"
 
 #: ../../../core/src/corelayers/simplecontactlist/models/treecontactsmodel/simplecontactlistmodel.cpp:79
 msgctxt "ContactList|"
 msgid "Show tags and contacts"
-msgstr "Zobraziť štítky a kontakty"
+msgstr "Zobraziť skupiny a kontakty"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:114
 #: ../../../core/src/corelayers/simplecontactlist/widgets/simplecontactlistwidget/simplewidget.cpp:76
@@ -1221,7 +1221,7 @@ msgstr "Spájanie kontaktov"
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:189
 msgctxt "Core::SimpleContactList::Module|"
 msgid "Select tags"
-msgstr "Vybrať štítky"
+msgstr "Vybrať skupiny"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:191
 msgctxt "Core::SimpleContactList::Module|"
@@ -1324,7 +1324,7 @@ msgstr "Zadajte heslo pre účet %1 (%2):"
 #, qt-format
 msgctxt "Core::SimpleTagsEditor|"
 msgid "Edit tags for %1"
-msgstr "Upraviť štítky pre %1"
+msgstr "Upraviť skupiny pre %1"
 
 #: ../../../core/src/corelayers/trayicon/simpletray.cpp:87
 msgctxt "Core::SimpleTray|"
@@ -3884,7 +3884,7 @@ msgstr ""
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/tagsfilterdialog.ui:14
 msgctxt "TagsFilterDialog|"
 msgid "Select tags"
-msgstr "Vybrať štítky"
+msgstr "Vybrať skupiny"
 
 #: ../../../core/libqutim/personinfo.cpp:213
 msgctxt "Task|"
