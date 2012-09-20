@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-23 17:51+0000\n"
-"PO-Revision-Date: 2012-04-07 14:59+0000\n"
-"Last-Translator: Vsevolod Velichko <Unknown>\n"
+"PO-Revision-Date: 2012-09-19 09:59+0000\n"
+"Last-Translator: Biffaboy <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2012-04-08 05:18+0000\n"
-"X-Generator: Launchpad (build 15060)\n"
+"X-Launchpad-Export-Date: 2012-09-20 04:58+0000\n"
+"X-Generator: Launchpad (build 15985)\n"
 "X-Qt-Contexts: true\n"
 "Language: en_GB\n"
 
@@ -49,26 +49,28 @@ msgid ""
 "Adds count of unread messages as an icon to taskbar button of qutim, along "
 "with some commands list."
 msgstr ""
+"Adds count of unread messages as an icon to taskbar button of qutim, along "
+"with some commands list."
 
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:3
 msgctxt "Plugin|"
 msgid "Windows Integration: Taskbar"
-msgstr ""
+msgstr "Windows Integration: Taskbar"
 
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
 msgid "Adds count of unread messages as an icon to taskbar button of qutIM."
-msgstr ""
+msgstr "Adds count of unread messages as an icon to taskbar button of qutIM."
 
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"
 msgid "Seven"
-msgstr ""
+msgstr "Seven"
 
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:6
 msgctxt "Plugin|"
 msgid "Windows seven specific implementation with button's in caption"
-msgstr ""
+msgstr "Windows seven specific implementation with button's in caption"
 
 #: ../../../plugins/winintegration/src/winint.cpp:65
 msgctxt "Plugin|"
@@ -170,11 +172,3 @@ msgstr "Last received from:"
 msgctxt "WThumbnailsProvider|"
 msgid "You have no new messages."
 msgstr "You have no new messages."
-
-#~ msgctxt "Author|"
-#~ msgid "Vizir Ivan"
-#~ msgstr "Vizir Ivan"
-
-#~ msgctxt "Task|"
-#~ msgid "Author"
-#~ msgstr "Author"
