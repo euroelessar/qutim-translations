@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2012-09-15 08:21+0000\n"
+"PO-Revision-Date: 2012-09-20 11:43+0000\n"
 "Last-Translator: DAG Software <Unknown>\n"
 "Language-Team: Slovak <sk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-16 04:54+0000\n"
-"X-Generator: Launchpad (build 15944)\n"
+"X-Launchpad-Export-Date: 2012-09-21 04:57+0000\n"
+"X-Generator: Launchpad (build 15985)\n"
 
 #: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:89
 msgctxt "ContactList|"
@@ -80,12 +80,12 @@ msgstr "Téma:"
 #: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.ui:57
 msgctxt "OldDelegateSettings|"
 msgid "Status icon size:"
-msgstr ""
+msgstr "Veľkosť ikony statusu:"
 
 #: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.ui:64
 msgctxt "OldDelegateSettings|"
 msgid "Avatar icon size:"
-msgstr ""
+msgstr "Veľkosť ikony obrázku:"
 
 #: ../../../plugins/oldcontactdelegate/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/oldcontactdelegate/contactlistitemdelegate.cpp:63

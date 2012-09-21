@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-07-01 19:32+0000\n"
-"PO-Revision-Date: 2012-09-17 11:38+0000\n"
+"PO-Revision-Date: 2012-09-20 11:41+0000\n"
 "Last-Translator: DAG Software <Unknown>\n"
 "Language-Team: Slovak <sk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-18 05:29+0000\n"
-"X-Generator: Launchpad (build 15966)\n"
+"X-Launchpad-Export-Date: 2012-09-21 04:57+0000\n"
+"X-Generator: Launchpad (build 15985)\n"
 "X-Qt-Contexts: true\n"
 "Language: sk\n"
 
@@ -621,12 +621,12 @@ msgstr "Enter"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:52
 msgctxt "Core::AdiumChat::TabbedChatBehavior|"
 msgid "North"
-msgstr "Sever"
+msgstr "Hore"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:53
 msgctxt "Core::AdiumChat::TabbedChatBehavior|"
 msgid "South"
-msgstr "Juh"
+msgstr "Dole"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:54
 msgctxt "Core::AdiumChat::TabbedChatBehavior|"
@@ -876,7 +876,7 @@ msgstr "Zakázať notifikácie keď je konverzácia aktívna"
 #: ../../../core/src/corelayers/mobilenotificationssettings/mobilenotificationsettings.cpp:148
 msgctxt "Core::MobileNotificationSettings|"
 msgid "Ignore conference messages that do not contain my name"
-msgstr ""
+msgstr "Ignorovať správy v konferencii, ktoré neobsahujú moje meno"
 
 #: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:62
 msgctxt "Core::MobileSearchForm|"
@@ -925,7 +925,7 @@ msgstr "Zakázať notifikácie keď je konverzácia aktívna"
 #: ../../../core/src/corelayers/notificationssettings/notificationsettings.cpp:102
 msgctxt "Core::NotificationSettings|"
 msgid "Ignore conference messages that do not contain my name"
-msgstr ""
+msgstr "Ignorovať správy v konferencii, ktoré neobsahujú moje meno"
 
 #: ../../../core/src/corelayers/plistconfig/plistconfigbackend.cpp:166
 #, qt-format
@@ -1536,7 +1536,7 @@ msgstr "Formulár"
 #, qt-format
 msgctxt "IdleStatusWidget|"
 msgid "Set status \"%1\" after:"
-msgstr ""
+msgstr "Nastaviť status \"%1\" po:"
 
 #: ../../../core/src/corelayers/idlestatuschanger/idlestatuswidget.ui:39
 #: ../../../core/src/corelayers/idlestatuschanger/idlestatuswidget.ui:63
@@ -1963,7 +1963,7 @@ msgstr "Prenos súboru dokončený"
 #: ../../../core/libqutim/notification.cpp:230
 msgctxt "Notification|"
 msgid "A contact has gone online"
-msgstr ""
+msgstr "Kontakt sa prihlásil"
 
 #: ../../../core/libqutim/notification.cpp:231
 msgctxt "Notification|"
@@ -1993,7 +1993,7 @@ msgstr "Systémové upozornenia"
 #: ../../../core/libqutim/notification.cpp:236
 msgctxt "Notification|"
 msgid "Contact is asking for your attention"
-msgstr ""
+msgstr "Kontakt od vás vyžaduje pozornosť"
 
 #: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp:98
 msgctxt "Notifications|"
@@ -3759,7 +3759,7 @@ msgstr "Nezoskupovať správy po (sekundách):"
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:104
 msgctxt "StackedChatBehavior|"
 msgid "Autoresize the input field "
-msgstr ""
+msgstr "Automaticky meniť veľkosť vstupného poľa "
 
 #: ../../../core/libqutim/status.cpp:162
 msgctxt "Status|"
@@ -3859,12 +3859,12 @@ msgstr "Pozícia kariet:"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:99
 msgctxt "TabbedChatBehavior|"
 msgid "Form layout:"
-msgstr ""
+msgstr "Rozvrhnutie formulára"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:109
 msgctxt "TabbedChatBehavior|"
 msgid "Chat state icons on tabs"
-msgstr ""
+msgstr "Ikony stavu na kartách"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:116
 msgctxt "TabbedChatBehavior|"
@@ -3874,12 +3874,12 @@ msgstr "Zobraziť menu"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:123
 msgctxt "TabbedChatBehavior|"
 msgid "Autoresize the input field"
-msgstr ""
+msgstr "Automaticky meniť veľkosť vstupného poľa"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:130
 msgctxt "TabbedChatBehavior|"
 msgid "Show context-related window icon"
-msgstr ""
+msgstr "Zobraziť ikonu okna závislú na kontexte"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/tagsfilterdialog.ui:14
 msgctxt "TagsFilterDialog|"
