@@ -1,0 +1,218 @@
+# French translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-06-28 09:42+0000\n"
+"PO-Revision-Date: 2012-09-22 15:31+0000\n"
+"Last-Translator: Pierre Slamich <pierre.slamich@gmail.com>\n"
+"Language-Team: French <fr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-09-23 04:56+0000\n"
+"X-Generator: Launchpad (build 15985)\n"
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:355
+msgctxt "Adium::WebViewAppearance|"
+msgid "Choose background image"
+msgstr "Choisir l'image d'arrière-plan"
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:357
+msgctxt "Adium::WebViewAppearance|"
+msgid "Images (*.png *.xpm *.jpg *.bmp *.gif)"
+msgstr "Images (*.png *.xpm *.jpg *.bmp *.gif)"
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewvariable.cpp:40
+msgctxt "Adium::WebViewFont|"
+msgid "Change"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Adium-like WebView"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Well-look stylished view based on WebKit and Adium ideas"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:3
+msgctxt "Plugin|"
+msgid "Chat settings"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/lib/old/webkitutils.cpp:121
+msgctxt "QObject|"
+msgid "1st quarter"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/lib/old/webkitutils.cpp:124
+msgctxt "QObject|"
+msgid "2nd quarter"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/lib/old/webkitutils.cpp:127
+msgctxt "QObject|"
+msgid "3rd quarter"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/lib/old/webkitutils.cpp:130
+msgctxt "QObject|"
+msgid "4th quarter"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:181
+msgctxt "QObject|"
+msgid "Normal"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:802
+msgctxt "QObject|"
+msgid "Download %fileName%"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:1006
+msgctxt "QObject|"
+msgid "(Autoreply)"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewfactory.cpp:40
+msgctxt "Settings|"
+msgid "Chat"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/__custom_json_from_styles.cpp:1
+msgctxt "Style|"
+msgid "Animated new messages"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/__custom_json_from_styles.cpp:2
+msgctxt "Style|"
+msgid "Avatar size"
+msgstr "Taille de l'avatar"
+
+#: ../../../plugins/adiumwebview/__custom_json_from_styles.cpp:3
+msgctxt "Style|"
+msgid "Contact nick color"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/__custom_json_from_styles.cpp:4
+msgctxt "Style|"
+msgid "My nick color"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/__custom_json_from_styles.cpp:5
+msgctxt "Style|"
+msgid "Show avatars"
+msgstr "Afficher les avatars"
+
+#: ../../../plugins/adiumwebview/lib/old/widget.ui:14
+msgctxt "Widget|"
+msgid "Widget"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/lib/old/widget.ui:30
+msgctxt "Widget|"
+msgid "QWebView"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/lib/old/widget.ui:40
+msgctxt "Widget|"
+msgid "about:blank"
+msgstr "about:blank"
+
+#: ../../../plugins/adiumwebview/lib/old/widget.ui:49
+msgctxt "Widget|"
+msgid "QDeclarativeView"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:14
+msgctxt "chatAppearance|"
+msgid "Form"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:44
+msgctxt "chatAppearance|"
+msgid "Message styles:"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:61
+msgctxt "chatAppearance|"
+msgid "Variant:"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:78
+msgctxt "chatAppearance|"
+msgid "Show user icons"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:85
+msgctxt "chatAppearance|"
+msgid "Show header"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:92
+msgctxt "chatAppearance|"
+msgid "Text display:"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:121
+msgctxt "chatAppearance|"
+msgid "Set font..."
+msgstr ""
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:128
+msgctxt "chatAppearance|"
+msgid "Default"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:137
+msgctxt "chatAppearance|"
+msgid "Background:"
+msgstr "Arrière-plan :"
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:144
+msgctxt "chatAppearance|"
+msgid "Use custom background"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:183
+msgctxt "chatAppearance|"
+msgid "Image:"
+msgstr "Image :"
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:197
+msgctxt "chatAppearance|"
+msgid "Normal"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:202
+msgctxt "chatAppearance|"
+msgid "Centered"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:207
+msgctxt "chatAppearance|"
+msgid "Tiled"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:212
+msgctxt "chatAppearance|"
+msgid "Tiled (Centered)"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:217
+msgctxt "chatAppearance|"
+msgid "Scaled"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:225
+msgctxt "chatAppearance|"
+msgid "Color:"
+msgstr "Couleur :"
