@@ -1,0 +1,41 @@
+# French translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-03-23 17:51+0000\n"
+"PO-Revision-Date: 2012-09-22 15:32+0000\n"
+"Last-Translator: Pierre Slamich <pierre.slamich@gmail.com>\n"
+"Language-Team: French <fr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-09-23 04:56+0000\n"
+"X-Generator: Launchpad (build 15985)\n"
+
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:46
+msgctxt "AntiBoss|"
+msgid "Show/hide all windows"
+msgstr "Afficher/masquer toutes les fenêtres"
+
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:47
+msgctxt "AntiBoss|"
+msgid "Antiboss"
+msgstr "Antiboss"
+
+#: ../../../plugins/antiboss/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:40
+msgctxt "Plugin|"
+msgid "Anti-boss plugin"
+msgstr "Extension Anti-boss"
+
+#: ../../../plugins/antiboss/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/antiboss/src/antibossplugin.cpp:41
+msgctxt "Plugin|"
+msgid "Plugin makes your chatting invisible for boss"
+msgstr ""
+"Extension qui rend vos discussions instantanées invisibles à votre boss"
