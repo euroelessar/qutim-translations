@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/autoreply/src/autoreplydialog.ui:14
+msgctxt "AutoReplyDialog|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:14
+msgctxt "AutoReplySettingsWidget|"
+msgid "Form"
+msgstr ""
+
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:23
+msgctxt "AutoReplySettingsWidget|"
+msgid "Enable autoreply by idle"
+msgstr ""
+
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:35
+msgctxt "AutoReplySettingsWidget|"
+msgid "Idle timeout:"
+msgstr ""
+
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:87
+msgctxt "AutoReplySettingsWidget|"
+msgid "Add answer"
+msgstr ""
+
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.cpp:18
+msgctxt "AutoReplyTextLine|"
+msgid "Remove"
+msgstr ""
+
+#: ../../../plugins/autoreply/src/autoreplyplugin.cpp:18
+msgctxt "Plugin|"
+msgid "Autoreply"
+msgstr ""
+
+#: ../../../plugins/autoreply/src/autoreplyplugin.cpp:19
+msgctxt "Plugin|"
+msgid "Plugin allows autoreplying messages during idle state"
+msgstr ""
