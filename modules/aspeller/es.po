@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-23 17:51+0000\n"
-"PO-Revision-Date: 2012-08-07 00:21+0000\n"
-"Last-Translator: Carlos Vives <mail@carlosvives.es>\n"
+"PO-Revision-Date: 2012-11-02 19:32+0000\n"
+"Last-Translator: Eduardo Alberto Calvo <Unknown>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
-"X-Generator: Launchpad (build 15745)\n"
+"X-Launchpad-Export-Date: 2012-11-03 05:26+0000\n"
+"X-Generator: Launchpad (build 16218)\n"
 "X-Qt-Contexts: true\n"
 "Language: es\n"
 
@@ -66,32 +66,32 @@ msgstr "80"
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:46
 msgctxt "SpellChecker|"
 msgid "-ise suffixes"
-msgstr ""
+msgstr "sufijos -ise"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:47
 msgctxt "SpellChecker|"
 msgid "-ize suffixes"
-msgstr ""
+msgstr "sufijos -ize"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:48
 msgctxt "SpellChecker|"
 msgid "-ise suffixes and with accents"
-msgstr ""
+msgstr "sufijos -ise y con acentos"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:49
 msgctxt "SpellChecker|"
 msgid "-ise suffixes and without accents"
-msgstr ""
+msgstr "sufijos -ise y sin acentos"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:50
 msgctxt "SpellChecker|"
 msgid "-ize suffixes and with accents"
-msgstr ""
+msgstr "sufijos -ize y con acentos"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:51
 msgctxt "SpellChecker|"
 msgid "-ize suffixes and without accents"
-msgstr ""
+msgstr "sufijos -ize y sin acentos"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:52
 msgctxt "SpellChecker|"
@@ -136,17 +136,17 @@ msgstr "con tildes"
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:60
 msgctxt "SpellChecker|"
 msgid "with ye"
-msgstr ""
+msgstr "con «ye»"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:61
 msgctxt "SpellChecker|"
 msgid "with yeyo"
-msgstr ""
+msgstr "con «yeyo»"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:62
 msgctxt "SpellChecker|"
 msgid "with yo"
-msgstr ""
+msgstr "con «yo»"
 
 #: ../../../plugins/aspeller/src/aspellchecker.cpp:63
 msgctxt "SpellChecker|"
