@@ -1,0 +1,58 @@
+# German translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-10-23 01:12+0000\n"
+"PO-Revision-Date: 2012-11-10 10:57+0000\n"
+"Last-Translator: Martin Häckel <Unknown>\n"
+"Language-Team: German <de@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-11-11 05:09+0000\n"
+"X-Generator: Launchpad (build 16251)\n"
+
+#: ../../../plugins/autoreply/src/autoreplydialog.ui:14
+msgctxt "AutoReplyDialog|"
+msgid "Dialog"
+msgstr "Dialog"
+
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:14
+msgctxt "AutoReplySettingsWidget|"
+msgid "Form"
+msgstr "Form"
+
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:23
+msgctxt "AutoReplySettingsWidget|"
+msgid "Enable autoreply by idle"
+msgstr "Aktiviere automatische Antworten bei Inaktivität"
+
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:35
+msgctxt "AutoReplySettingsWidget|"
+msgid "Idle timeout:"
+msgstr "Auf inaktiv setzen nach:"
+
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:87
+msgctxt "AutoReplySettingsWidget|"
+msgid "Add answer"
+msgstr "Antwort hinzufügen"
+
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.cpp:18
+msgctxt "AutoReplyTextLine|"
+msgid "Remove"
+msgstr "Löschen"
+
+#: ../../../plugins/autoreply/src/autoreplyplugin.cpp:18
+msgctxt "Plugin|"
+msgid "Autoreply"
+msgstr "Autoreply"
+
+#: ../../../plugins/autoreply/src/autoreplyplugin.cpp:19
+msgctxt "Plugin|"
+msgid "Plugin allows autoreplying messages during idle state"
+msgstr "Plugin, das Nachrichten bei Inaktivität automatisch beantwortet"

@@ -1,0 +1,163 @@
+# German translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-10-23 01:12+0000\n"
+"PO-Revision-Date: 2012-11-10 11:08+0000\n"
+"Last-Translator: Martin Häckel <Unknown>\n"
+"Language-Team: German <de@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-11-11 05:09+0000\n"
+"X-Generator: Launchpad (build 16251)\n"
+
+#: ../../../plugins/control/src/quickanswerbuttonaction.cpp:42
+msgctxt "Control|"
+msgid "Answer"
+msgstr "Antwort"
+
+#: ../../../plugins/control/src/settingswidget.cpp:43
+msgctxt "Control::AnswerLine|"
+msgid "Remove"
+msgstr "Löschen"
+
+#: ../../../plugins/control/src/autoreplybuttonaction.cpp:95
+msgctxt "Control::AutoReplyButton|"
+msgid "Bin lookup"
+msgstr "Bin lookup"
+
+#: ../../../plugins/control/src/networkmanager.cpp:196
+#, qt-format
+msgctxt "Control::NetworkManager|"
+msgid "Put local certificate at \"%1\""
+msgstr "Lege lokales Zertifikat in \"%1\""
+
+#: ../../../plugins/control/src/networkmanager.cpp:197
+#, qt-format
+msgctxt "Control::NetworkManager|"
+msgid "Put server's certificate at \"%1\""
+msgstr "Lege Server-Zertifikat in \"%1\""
+
+#: ../../../plugins/control/src/networkmanager.cpp:214
+#: ../../../plugins/control/src/networkmanager.cpp:382
+#: ../../../plugins/control/src/networkmanager.cpp:412
+#: ../../../plugins/control/src/networkmanager.cpp:426
+msgctxt "Control::NetworkManager|"
+msgid "Control plugin"
+msgstr "Control plugin"
+
+#: ../../../plugins/control/src/networkmanager.cpp:383
+#, qt-format
+msgctxt "Control::NetworkManager|"
+msgid ""
+"Error connecting to %1:\n"
+"%2"
+msgstr ""
+"Fehler beim Verbinden mit %1:\n"
+"%2"
+
+#: ../../../plugins/control/src/networkmanager.cpp:413
+#, qt-format
+msgctxt "Control::NetworkManager|"
+msgid ""
+"Received reply from server:\n"
+"%1"
+msgstr ""
+"Antwort vom Server:\n"
+"%1"
+
+#: ../../../plugins/control/src/networkmanager.cpp:427
+msgctxt "Control::NetworkManager|"
+msgid "Invalid login or/and password. Please set right one in settings"
+msgstr ""
+"Ungültiger Benutzername oder Passwort. Bitte die richtigen Zugangsdaten in "
+"den Einstellungen angeben"
+
+#: ../../../plugins/control/src/quickanswerbuttonaction.cpp:60
+msgctxt "Control::QuickAnswerButtonAction|"
+msgid "Answers"
+msgstr "Antworten"
+
+#: ../../../plugins/control/src/quickanswerbuttonaction.cpp:68
+msgctxt "Control::QuickAnswerButtonAction|"
+msgid "Update answers"
+msgstr "Antworten aktualisieren"
+
+#: ../../../plugins/control/src/rostermanager.cpp:275
+msgctxt "Control::RosterManager|"
+msgid "Control plugin"
+msgstr "Control plugin"
+
+#: ../../../plugins/control/src/rostermanager.cpp:276
+#, qt-format
+msgctxt "Control::RosterManager|"
+msgid ""
+"qutIM sends request to server:\n"
+"%1"
+msgstr ""
+"qutIM sendet eine Anfrage an den Server:\n"
+"%1"
+
+#: ../../../plugins/control/src/settingswidget.ui:31
+msgctxt "Control::SettingsWidget|"
+msgid "Username:"
+msgstr "Benutzername"
+
+#: ../../../plugins/control/src/settingswidget.ui:38
+msgctxt "Control::SettingsWidget|"
+msgid "Enter your username"
+msgstr "Benutzernamen eingeben"
+
+#: ../../../plugins/control/src/settingswidget.ui:45
+msgctxt "Control::SettingsWidget|"
+msgid "Password:"
+msgstr "Passwort:"
+
+#: ../../../plugins/control/src/settingswidget.ui:55
+msgctxt "Control::SettingsWidget|"
+msgid "Enter your password"
+msgstr "Passwort eingeben:"
+
+#: ../../../plugins/control/src/settingswidget.ui:62
+msgctxt "Control::SettingsWidget|"
+msgid "Url:"
+msgstr "Url:"
+
+#: ../../../plugins/control/src/settingswidget.ui:72
+msgctxt "Control::SettingsWidget|"
+msgid "Enter server's url (http://example.com/)"
+msgstr "Server-Url eingeben (http://beispiel-URL.de/)"
+
+#: ../../../plugins/control/src/settingswidget.ui:79
+msgctxt "Control::SettingsWidget|"
+msgid "Requests url:"
+msgstr "Url für Anfragen:"
+
+#: ../../../plugins/control/src/settingswidget.ui:89
+msgctxt "Control::SettingsWidget|"
+msgid "Enter url for messages requests (http://example.com/)"
+msgstr "Url für Nachrichtenanfragen eingeben (http://beispiel-URL.de/)"
+
+#: ../../../plugins/control/src/settingswidget.ui:120
+msgctxt "Control::SettingsWidget|"
+msgid "Add answer"
+msgstr "Antwort hinzufügen"
+
+#: ../../../plugins/control/src/controlplugin.cpp:40
+#: ../../../plugins/control/src/rostermanager.cpp:91
+msgctxt "Plugin|"
+msgid "Control"
+msgstr "Control"
+
+#: ../../../plugins/control/src/controlplugin.cpp:41
+msgctxt "Plugin|"
+msgid "Controls user by sending messages and roster to remote server"
+msgstr ""
+"Steuert den Benutzer, indem Nachrichten und die Kontaktliste an einen Server "
+"gesendet werden"
