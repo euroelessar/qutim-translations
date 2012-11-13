@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-23 17:52+0000\n"
-"PO-Revision-Date: 2012-11-05 21:22+0000\n"
-"Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
+"PO-Revision-Date: 2012-11-12 17:33+0000\n"
+"Last-Translator: Eduardo Alberto Calvo <Unknown>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-11-06 05:19+0000\n"
-"X-Generator: Launchpad (build 16232)\n"
+"X-Launchpad-Export-Date: 2012-11-13 05:50+0000\n"
+"X-Generator: Launchpad (build 16251)\n"
 
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:58
 msgctxt "Author|"
@@ -43,7 +43,7 @@ msgstr "Yandex.Narod"
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:59
 msgctxt "Task|"
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:73
 msgctxt "Yandex|"
@@ -53,17 +53,17 @@ msgstr "Yandex Narod"
 #: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:99
 msgctxt "YandexNarodAuthorizator|"
 msgid "Has no login or password"
-msgstr ""
+msgstr "Falta usuario o contraseña"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:108
 msgctxt "YandexNarodAuthorizator|"
 msgid "Authorization succeed"
-msgstr ""
+msgstr "Autorización exitosa"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:112
 msgctxt "YandexNarodAuthorizator|"
 msgid "Authorization failured"
-msgstr ""
+msgstr "Error en autorización"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:177
 msgctxt "YandexNarodAuthorizator|"
@@ -78,12 +78,12 @@ msgstr ""
 #: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:181
 msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid login or/and password"
-msgstr ""
+msgstr "Usuario y/o contraseña invalido"
 
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:196
 msgctxt "YandexNarodFactory|"
 msgid "Yandex.Narod"
-msgstr ""
+msgstr "Yandex.Narod"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodmanage.cpp:35
 msgctxt "YandexNarodManager|"
@@ -93,33 +93,33 @@ msgstr ""
 #: ../../../plugins/yandexnarod/src/yandexnarodnetman.cpp:150
 msgctxt "YandexNarodNetMan|"
 msgid "Authorizing..."
-msgstr ""
+msgstr "Autorizando..."
 
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:14
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:30
 msgctxt "YandexNarodSettingsClass|"
 msgid "Settings"
-msgstr ""
+msgstr "Configuración"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:54
 msgctxt "YandexNarodSettingsClass|"
 msgid "Password"
-msgstr ""
+msgstr "Contraseña"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:74
 msgctxt "YandexNarodSettingsClass|"
 msgid "Login"
-msgstr ""
+msgstr "Iniciar sesión"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:81
 msgctxt "YandexNarodSettingsClass|"
 msgid "Test Authorization"
-msgstr ""
+msgstr "Test de autorización"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:88
 msgctxt "YandexNarodSettingsClass|"
 msgid "status"
-msgstr ""
+msgstr "estado"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:111
 msgctxt "YandexNarodSettingsClass|"
@@ -135,26 +135,36 @@ msgid ""
 "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
 "family:'Verdana'; font-size:8pt;\"></p></body></html>"
 msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Liberation Sans'; font-size:10pt; "
+"font-weight:400; font-style:normal;\">\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
+"family:'Verdana'; font-size:8pt;\"></p></body></html>"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:122
 msgctxt "YandexNarodSettingsClass|"
 msgid "Send file template"
-msgstr ""
+msgstr "Plantilla de envío de archivos"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:135
 msgctxt "YandexNarodSettingsClass|"
 msgid "%N - file name; %U - file URL; %S - file size"
-msgstr ""
+msgstr "%N - nombre archivo; %U - URL archivo; %S - tamaño archivo"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodsettings.ui:145
 msgctxt "YandexNarodSettingsClass|"
 msgid "Manage files"
-msgstr ""
+msgstr "Administrar archivos"
 
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:136
 msgctxt "YandexNarodUploadJob|"
 msgid "Authorizing..."
-msgstr ""
+msgstr "Autorizando..."
 
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:159
 msgctxt "YandexNarodUploadJob|"
@@ -165,7 +175,7 @@ msgstr ""
 #, qt-format
 msgctxt "YandexNarodUploadJob|"
 msgid "Could not open file %1"
-msgstr ""
+msgstr "No se pudo abrir el archivo %1"
 
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:347
 msgctxt "YandexNarodUploadJob|Don't remove format arguments"
@@ -173,73 +183,75 @@ msgid ""
 "File sent: %N (%S bytes)\n"
 "%U"
 msgstr ""
+"Archivo enviado: %N (%S bytes)\n"
+"%U"
 
 #: ../../../plugins/yandexnarod/src/requestauthdialog.ui:26
 msgctxt "requestAuthDialogClass|"
 msgid "Authorization"
-msgstr ""
+msgstr "Autorización"
 
 #: ../../../plugins/yandexnarod/src/requestauthdialog.ui:36
 msgctxt "requestAuthDialogClass|"
 msgid "Login:"
-msgstr ""
+msgstr "Usuario:"
 
 #: ../../../plugins/yandexnarod/src/requestauthdialog.ui:53
 msgctxt "requestAuthDialogClass|"
 msgid "Password:"
-msgstr ""
+msgstr "Contraseña:"
 
 #: ../../../plugins/yandexnarod/src/requestauthdialog.ui:73
 msgctxt "requestAuthDialogClass|"
 msgid "Remember"
-msgstr ""
+msgstr "Recordar contraseña"
 
 #: ../../../plugins/yandexnarod/src/requestauthdialog.ui:92
 msgctxt "requestAuthDialogClass|"
 msgid "Captcha:"
-msgstr ""
+msgstr "Captcha:"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:20
 msgctxt "yandexnarodManageClass|"
 msgid "Form"
-msgstr ""
+msgstr "Forma"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:71
 msgctxt "yandexnarodManageClass|"
 msgid "Get Filelist"
-msgstr ""
+msgstr "Obtenet lista de archivo"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:82
 msgctxt "yandexnarodManageClass|"
 msgid "Upload File"
-msgstr ""
+msgstr "Subir Archivo"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:126
 msgctxt "yandexnarodManageClass|"
 msgid "Actions:"
-msgstr ""
+msgstr "Acciones:"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:139
 msgctxt "yandexnarodManageClass|"
 msgid "Clipboard"
-msgstr ""
+msgstr "Portapapeles"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:159
 msgctxt "yandexnarodManageClass|"
 msgid "Delete File"
-msgstr ""
+msgstr "Eliminar archivo"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:252
 msgctxt "yandexnarodManageClass|"
 msgid "Close"
-msgstr ""
+msgstr "Cerrar"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:287
 msgctxt "yandexnarodManageClass|"
 msgid "Files list:"
-msgstr ""
+msgstr "Lista de archivos:"
 
 #: ../../../plugins/yandexnarod/src/yandexnarodmanage.ui:304
 msgctxt "yandexnarodManageClass|"
 msgid "New Item"
-msgstr ""
+msgstr "Nuevo Elemento"
