@@ -8,16 +8,17 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-30 18:43+0000\n"
-"PO-Revision-Date: 2012-04-02 20:05+0000\n"
-"Last-Translator: Aliaksandr Trush <Unknown>\n"
+"PO-Revision-Date: 2012-12-17 03:19+0000\n"
+"Last-Translator: Yauhen Bugamol <haxycgm@gmail.com>\n"
 "Language-Team: Belarusian <be@li.org>\n"
 "Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-28 12:53+0000\n"
-"X-Generator: Launchpad (build 15505)\n"
+"X-Launchpad-Export-Date: 2012-12-17 05:05+0000\n"
+"X-Generator: Launchpad (build 16372)\n"
 "X-Qt-Contexts: true\n"
+"Language: be\n"
 
 #: ../../../plugins/blogimprover/src/blogimproversettings.ui:14
 msgctxt "BlogImproverSettingsForm|"
@@ -27,31 +28,31 @@ msgstr "Форма"
 #: ../../../plugins/blogimprover/src/blogimproversettings.ui:23
 msgctxt "BlogImproverSettingsForm|"
 msgid "Enable Psto integration"
-msgstr ""
+msgstr "Уключыць інтэграцыю з  Pstо"
 
 #: ../../../plugins/blogimprover/src/blogimproversettings.ui:33
 msgctxt "BlogImproverSettingsForm|"
 msgid "Enable Juick integration"
-msgstr ""
+msgstr "Уключыць інтэграцыю з Juick"
 
 #: ../../../plugins/blogimprover/src/blogimproversettings.ui:43
 msgctxt "BlogImproverSettingsForm|"
 msgid "Enable Bnw integration"
-msgstr ""
+msgstr "Уключыць інтэграцыю з Bnw"
 
 #: ../../../plugins/blogimprover/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
 msgid "BlogImprover plugin"
-msgstr ""
+msgstr "Пашырэнне інтэграцыі з  блогамі"
 
 #: ../../../plugins/blogimprover/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/blogimprover/src/blogimproverplugin.cpp:37
 msgctxt "Plugin|"
 msgid "Integration with different services of microblogging"
-msgstr ""
+msgstr "Інтэграцыя са службамі  мікраблогаў"
 
 #: ../../../plugins/blogimprover/src/blogimproverplugin.cpp:36
 #: ../../../plugins/blogimprover/src/blogimproverplugin.cpp:48
 msgctxt "Plugin|"
 msgid "BlogImprover"
-msgstr ""
+msgstr "Інтэграцыя з блогамі"

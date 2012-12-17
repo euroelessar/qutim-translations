@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-02-19 16:53+0000\n"
-"PO-Revision-Date: 2012-04-02 20:04+0000\n"
-"Last-Translator: Aliaksandr Trush <Unknown>\n"
+"PO-Revision-Date: 2012-12-17 03:05+0000\n"
+"Last-Translator: Yauhen Bugamol <haxycgm@gmail.com>\n"
 "Language-Team: Belarusian <be@li.org>\n"
 "Language: be\n"
 "MIME-Version: 1.0\n"
@@ -17,66 +17,68 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Launchpad-Export-Date: 2012-06-28 12:52+0000\n"
-"X-Generator: Launchpad (build 15505)\n"
+"X-Launchpad-Export-Date: 2012-12-17 05:05+0000\n"
+"X-Generator: Launchpad (build 16372)\n"
 "X-Qt-Contexts: true\n"
+"Language: be\n"
 
 #: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:269
 #, qt-format
 msgctxt "BirthdayReminder|"
 msgid "It's %1's birthday today! Hooray!"
-msgstr ""
+msgstr "Сёння народзіны %1 Ура!"
 
 #: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:272
 #, qt-format
 msgctxt "BirthdayReminder|"
 msgid "%1's birthday will be tomorrow! Hooray!"
-msgstr ""
+msgstr "Заўтра народзіны %1 Ура!"
 
 #: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:275
 #, qt-format
 msgctxt "BirthdayReminder|"
 msgid "%2's birthday is in %1 days"
 msgid_plural "%2's birthday is in %1 days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Народзіны %2's праз %1 дзён."
+msgstr[1] "Народзіны %2's праз %1 дзён."
+msgstr[2] "Народзіны %2's праз %1 дзён."
 
 #: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:281
 #, qt-format
 msgctxt "BirthdayReminder|"
 msgid "%1's birhday"
-msgstr ""
+msgstr "Народзіны %1'"
 
 #: ../../../plugins/birthdayreminder/src/birthdayremindersettings.ui:14
 msgctxt "BirthdayReminderSettings|"
 msgid "Birthday reminder settings"
-msgstr ""
+msgstr "Народзіны: налады нагадвання"
 
 #: ../../../plugins/birthdayreminder/src/birthdayremindersettings.ui:22
 msgctxt "BirthdayReminderSettings|"
 msgid "Show notifications every"
-msgstr ""
+msgstr "Паказваць нагадванні кожныя"
 
 #: ../../../plugins/birthdayreminder/src/birthdayremindersettings.ui:39
 msgctxt "BirthdayReminderSettings|"
 msgid "hours"
-msgstr ""
+msgstr "гадзін"
 
 #: ../../../plugins/birthdayreminder/src/birthdayremindersettings.ui:50
 msgctxt "BirthdayReminderSettings|"
 msgid "starting from"
-msgstr ""
+msgstr "пачыная з"
 
 #: ../../../plugins/birthdayreminder/src/birthdayremindersettings.ui:63
 msgctxt "BirthdayReminderSettings|"
 msgid "days before birthday"
-msgstr ""
+msgstr "дзён да народзін"
 
 #: ../../../plugins/birthdayreminder/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:138
 msgctxt "Plugin|"
 msgid "BirthdayReminder"
-msgstr "BirthdayReminder"
+msgstr "Нагадванні пра народзіны"
 
 #: ../../../plugins/birthdayreminder/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:139
@@ -85,8 +87,9 @@ msgid ""
 "This plugin shows notifications when someone from your contact list has a "
 "birthday"
 msgstr ""
+"Гатае пашырэнне нагадвае вам, калі ў знаёмцаў са спісу кантактаў народзіны."
 
 #: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:160
 msgctxt "Settings|"
 msgid "Birthday reminder"
-msgstr ""
+msgstr "Нагадванні пра народзіны"
