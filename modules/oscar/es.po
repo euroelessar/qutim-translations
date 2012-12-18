@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-07-01 19:31+0000\n"
-"PO-Revision-Date: 2012-08-07 00:22+0000\n"
-"Last-Translator: Carlos Vives <mail@carlosvives.es>\n"
+"PO-Revision-Date: 2012-12-17 12:42+0000\n"
+"Last-Translator: Christopher <Unknown>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
-"X-Generator: Launchpad (build 15745)\n"
+"X-Launchpad-Export-Date: 2012-12-18 05:15+0000\n"
+"X-Generator: Launchpad (build 16372)\n"
 "X-Qt-Contexts: true\n"
 "Language: es\n"
 
@@ -47,7 +47,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:564
 msgctxt "Affiliation|"
 msgid "Charity Org."
-msgstr ""
+msgstr "Organización de caridad"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:565
 msgctxt "Affiliation|"
@@ -57,17 +57,17 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:566
 msgctxt "Affiliation|"
 msgid "Community Org."
-msgstr ""
+msgstr "Organización comunitaria"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:567
 msgctxt "Affiliation|"
 msgid "Cultural Org."
-msgstr ""
+msgstr "Organización cultural"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:568
 msgctxt "Affiliation|"
 msgid "Fan Clubs"
-msgstr "Clubs de fans"
+msgstr "Club de admiradores"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:569
 msgctxt "Affiliation|"
@@ -77,27 +77,27 @@ msgstr "Fraternidad/hermandad"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:570
 msgctxt "Affiliation|"
 msgid "Hobbyists Org."
-msgstr ""
+msgstr "Organización de aficionados a un hobby"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:571
 msgctxt "Affiliation|"
 msgid "International Org."
-msgstr ""
+msgstr "Organización internacional"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:572
 msgctxt "Affiliation|"
 msgid "Nature and Environment Org."
-msgstr ""
+msgstr "Organización del medio ambiente y naturaleza"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:573
 msgctxt "Affiliation|"
 msgid "Professional Org."
-msgstr ""
+msgstr "Organización profesional"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:574
 msgctxt "Affiliation|"
 msgid "Scientific/Technical Org."
-msgstr ""
+msgstr "Organización científico/técnica"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:575
 msgctxt "Affiliation|"
@@ -107,27 +107,27 @@ msgstr "Grupo de auto ayuda"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:576
 msgctxt "Affiliation|"
 msgid "Spiritual/Religious Org."
-msgstr ""
+msgstr "Organización espiritual/religiosa"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:577
 msgctxt "Affiliation|"
 msgid "Sports Org."
-msgstr ""
+msgstr "Organización deportiva"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:578
 msgctxt "Affiliation|"
 msgid "Support Org."
-msgstr ""
+msgstr "Organización de apoyo."
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:579
 msgctxt "Affiliation|"
 msgid "Trade and Business Org."
-msgstr ""
+msgstr "Organización de comerio y negocios"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:580
 msgctxt "Affiliation|"
 msgid "Union"
-msgstr ""
+msgstr "Sindicato"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:581
 msgctxt "Affiliation|"
@@ -3851,14 +3851,3 @@ msgstr "Estado personalizado"
 msgctxt "statusDialogClass|"
 msgid "Set birthday/happy flag"
 msgstr "Establecer marca de cumpleaños/feliz"
-
-#~ msgctxt "ConnectionError|"
-#~ msgid ""
-#~ "The users num connected from this IP has reached the maximum (reservation)"
-#~ msgstr ""
-#~ "Se ha superado el máximo de usuarios conectados desde esta dirección IP (con "
-#~ "reservas)"
-
-#~ msgctxt "Language|"
-#~ msgid "Español: "
-#~ msgstr "Español: "
