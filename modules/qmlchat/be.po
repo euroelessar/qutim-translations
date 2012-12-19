@@ -1,0 +1,114 @@
+# Belarusian translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-07-01 19:31+0000\n"
+"PO-Revision-Date: 2012-12-18 12:44+0000\n"
+"Last-Translator: Yauhen Bugamol <haxycgm@gmail.com>\n"
+"Language-Team: Belarusian <be@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-12-19 05:35+0000\n"
+"X-Generator: Launchpad (build 16378)\n"
+
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:54
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Vasya Pupkin"
+msgstr "Вася Пупкін"
+
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:65
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Noname"
+msgstr "Невядомы"
+
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:134
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:190
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Unable to create chat session"
+msgstr "На атрымалася стрварыць сесію чата"
+
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:194
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Preview message"
+msgstr "Прадпаказ паведамленняў"
+
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:201
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Hello!"
+msgstr "Вітаем!"
+
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:204
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "How are you?"
+msgstr "Як жыццё?"
+
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:207
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "I am fine!"
+msgstr "Усё добра!"
+
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:210
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "/me is thinking!"
+msgstr "/me разважае"
+
+#: ../../../plugins/qmlchat/settings/chatappearance.cpp:213
+msgctxt "Core::AdiumChat::ChatAppearance|"
+msgid "Vasya Pupkin is reading you mind"
+msgstr "Вася Пупкін чытае твае думкі"
+
+#: ../../../plugins/qmlchat/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Qt Quick view (experimental)"
+msgstr "Чат заснавы на Qt Quick (эксперыментальнае)"
+
+#: ../../../plugins/qmlchat/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Modern chat view based on power of QtQuick"
+msgstr "Новая рэлізацыя малявання акна чата праз QtQuick"
+
+#: ../../../plugins/qmlchat/quickchatviewfactory.cpp:40
+msgctxt "Settings|"
+msgid "Chat"
+msgstr "Чат"
+
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:177
+msgctxt "main|"
+msgid "is active"
+msgstr "актыўны"
+
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:179
+msgctxt "main|"
+msgid "is inactive"
+msgstr "неактыўны"
+
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:181
+msgctxt "main|"
+msgid "is gone"
+msgstr "адышоў"
+
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:183
+msgctxt "main|"
+msgid "is composing"
+msgstr "друкуе"
+
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:185
+msgctxt "main|"
+msgid "is paused"
+msgstr "прыпыніўся"
+
+#: ../../../plugins/qmlchat/settings/chatappearance.ui:14
+msgctxt "quickChatAppearance|"
+msgid "Form"
+msgstr "Form"
+
+#: ../../../plugins/qmlchat/settings/chatappearance.ui:20
+msgctxt "quickChatAppearance|"
+msgid "Enable openGL acceleration"
+msgstr "Уключэць OpenGL паскарэнне"
