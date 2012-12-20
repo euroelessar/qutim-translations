@@ -8,21 +8,21 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-07-01 19:31+0000\n"
-"PO-Revision-Date: 2012-04-02 19:24+0000\n"
-"Last-Translator: Aliaksandr Trush <Unknown>\n"
+"PO-Revision-Date: 2012-12-20 04:17+0000\n"
+"Last-Translator: Yauhen Bugamol <haxycgm@gmail.com>\n"
 "Language-Team: Belarusian <be@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-07-02 05:00+0000\n"
-"X-Generator: Launchpad (build 15520)\n"
+"X-Launchpad-Export-Date: 2012-12-20 05:07+0000\n"
+"X-Generator: Launchpad (build 16378)\n"
 "X-Qt-Contexts: true\n"
 "Language: be\n"
 
 #: ../../../protocols/vkontakte/src/vcontact.cpp:210
 msgctxt "ContactInfo|"
 msgid "Activity"
-msgstr "Дзейнасьць"
+msgstr "Дзейнасць"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:63
 msgctxt "ContactInfo|"
@@ -37,7 +37,7 @@ msgstr "Імя"
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:65
 msgctxt "ContactInfo|"
 msgid "Last name"
-msgstr "Прозьвішча"
+msgstr "Прозвішча"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:66
 msgctxt "ContactInfo|"
@@ -47,7 +47,7 @@ msgstr "Пол"
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:67
 msgctxt "ContactInfo|"
 msgid "Birthday"
-msgstr "Дзень нараджэння"
+msgstr "Народзіны"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:68
 msgctxt "ContactInfo|"
@@ -67,7 +67,7 @@ msgstr "Здымак"
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:71
 msgctxt "ContactInfo|"
 msgid "Home phone"
-msgstr ""
+msgstr "Хатні тэлефон"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:72
 msgctxt "ContactInfo|"
@@ -77,17 +77,17 @@ msgstr "Мабільны тэлефон"
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:73
 msgctxt "ContactInfo|"
 msgid "University"
-msgstr ""
+msgstr "Універсітэт"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:74
 msgctxt "ContactInfo|"
 msgid "Faculty"
-msgstr ""
+msgstr "Факультэт"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:75
 msgctxt "ContactInfo|"
 msgid "Graduation year"
-msgstr ""
+msgstr "Год выпуску"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:82
 msgctxt "ContactInfo|"
@@ -107,17 +107,17 @@ msgstr "Мужчынскі"
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:195
 msgctxt "ContactInfo|"
 msgid "General"
-msgstr "Асноўныя"
+msgstr "Агульныя"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:197
 msgctxt "ContactInfo|"
 msgid "Person"
-msgstr ""
+msgstr "Асоба"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:212
 msgctxt "ContactInfo|"
 msgid "Home address"
-msgstr ""
+msgstr "Хатні адрас"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:220
 msgctxt "ContactInfo|"
@@ -128,52 +128,52 @@ msgstr "Адукацыя"
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:49
 msgctxt "Plugin|"
 msgid "vkontakte"
-msgstr ""
+msgstr "Укантакце"
 
 #: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
 msgid "New implementation of vk.com protocol"
-msgstr ""
+msgstr "Новая рэалізацыя пратаколу  vk.com"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:42
 msgctxt "Plugin|"
 msgid "Vkontakte"
-msgstr ""
+msgstr "Укантакце"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:43
 msgctxt "Plugin|"
 msgid "Simple implementation of vkontakte, based on vk.com/developers api"
-msgstr ""
+msgstr "Рэалізацыя пратаколу Укантакце, заснаваная на  vk.com/developers api"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:50
 msgctxt "Plugin|"
 msgid "Simple implementation of vkontakte, based on desktop.api"
-msgstr ""
+msgstr "Рэалізацыя пратаколу Укантакце заснаваная на desktop.api"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:54
 msgctxt "Plugin|"
 msgid "Vkontakte account creator"
-msgstr ""
+msgstr "Стварыць рахунак Укантакце"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:55
 msgctxt "Plugin|"
 msgid "Account creator for Vkontakte"
-msgstr ""
+msgstr "Майстра стварэння рахунку Укантакце"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:58
 msgctxt "Plugin|"
 msgid "Proxy support"
-msgstr ""
+msgstr "Падтрымка проксі"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:59
 msgctxt "Plugin|"
 msgid "Proxy support for Vkontakte"
-msgstr ""
+msgstr "Падтрымка проксі  для Укантакце"
 
 #: ../../../protocols/vkontakte/src/ui/vaccountsettings.ui:14
 msgctxt "VAccountSettings|"
 msgid "Account settings"
-msgstr ""
+msgstr "Наладкі рахунку"
 
 #: ../../../protocols/vkontakte/src/ui/vaccountsettings.ui:49
 msgctxt "VAccountSettings|"
@@ -184,12 +184,12 @@ msgstr "Пароль:"
 #, qt-format
 msgctxt "VAccountSettings|"
 msgid "%1 settings"
-msgstr ""
+msgstr "%1 налады"
 
 #: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:14
 msgctxt "VAccountWizardPage|"
 msgid "WizardPage"
-msgstr ""
+msgstr "Майстра"
 
 #: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:26
 msgctxt "VAccountWizardPage|"
@@ -209,32 +209,32 @@ msgstr "Захаваць пароль"
 #: ../../../protocols/vkontakte/src/vprotocol.cpp:78
 msgctxt "VProtocol|"
 msgid "id"
-msgstr ""
+msgstr "id"
 
 #: ../../../protocols/vkontakte/src/vprotocol.cpp:45
 msgctxt "Vkontakte|"
 msgid "Open homepage"
-msgstr ""
+msgstr "Адкрыць хатнюю старонку"
 
 #: ../../../protocols/vkontakte/src/vprotocol.cpp:62
 msgctxt "Vkontakte|"
 msgid "Account settings"
-msgstr ""
+msgstr "Налады рахунку"
 
 #: ../../../protocols/vkontakte/lib/src/api/contact.cpp:129
 #, qt-format
 msgctxt "vk::Buddy|"
 msgid "id%1"
-msgstr ""
+msgstr "id%1"
 
 #: ../../../protocols/vkontakte/lib/src/api/contact.cpp:143
 #, qt-format
 msgctxt "vk::Buddy|"
 msgid "Unknown tag id %1"
-msgstr ""
+msgstr "Невядомая метка  id %1"
 
 #: ../../../protocols/vkontakte/lib/src/api/contact.cpp:206
 #, qt-format
 msgctxt "vk::Group|"
 msgid "group-%1"
-msgstr ""
+msgstr "Групоўка-%1"

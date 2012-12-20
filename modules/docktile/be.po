@@ -1,0 +1,134 @@
+# Belarusian translation for qutim
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-10-23 01:12+0000\n"
+"PO-Revision-Date: 2012-12-19 23:54+0000\n"
+"Last-Translator: Yauhen Bugamol <haxycgm@gmail.com>\n"
+"Language-Team: Belarusian <be@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-12-20 05:07+0000\n"
+"X-Generator: Launchpad (build 16378)\n"
+
+#: ../../../plugins/docktile/src/dockplugin.cpp:6
+msgctxt "Author|"
+msgid "Aleksey Sidorov"
+msgstr "Сідараў Аляксей"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:14
+msgctxt "MainWindow|"
+msgid "Dock Tile example"
+msgstr "Прыклад Dock Tile"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:24
+msgctxt "MainWindow|"
+msgid "Badge text:"
+msgstr "Тэкст бэйджа"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:34
+msgctxt "MainWindow|"
+msgid "Progress indicator:"
+msgstr "Індыкатар выканання"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:54
+msgctxt "MainWindow|"
+msgid "Alert"
+msgstr "Папярэджанне"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:71
+msgctxt "MainWindow|"
+msgid "Menu"
+msgstr "Меню"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:75
+msgctxt "MainWindow|"
+msgid "Subelement"
+msgstr "Падэлемент"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:96
+msgctxt "MainWindow|"
+msgid "Element"
+msgstr "Элемент"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:99
+msgctxt "MainWindow|"
+msgid "A very simple element, as you see."
+msgstr "Як бачыце, вельмі просты элемент"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:104
+msgctxt "MainWindow|"
+msgid "Element 1"
+msgstr "Першы элемент"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:107
+msgctxt "MainWindow|"
+msgid "First element? Hm…"
+msgstr "Першы элемнты? Гм..."
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:112
+msgctxt "MainWindow|"
+msgid "Element 2"
+msgstr "Другі элемент"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:115
+msgctxt "MainWindow|"
+msgid "Oh my god! Here's the second one!"
+msgstr "Божачкі, да гэта ж другі элемент! Няўжо?"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:120
+msgctxt "MainWindow|"
+msgid "Element with icon"
+msgstr "Элемент са значком."
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:123
+msgctxt "MainWindow|"
+msgid "Wow! An icon? So cool."
+msgstr "Ого, значок! Выдатна."
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:131
+msgctxt "MainWindow|"
+msgid "Disabled element"
+msgstr "Неактыўны элемент"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:134
+msgctxt "MainWindow|"
+msgid "What happened? Wha…"
+msgstr "Шта такое? Шт..."
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:145
+msgctxt "MainWindow|"
+msgid "Checkable element"
+msgstr "Правераемы элемент."
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:148
+msgctxt "MainWindow|"
+msgid "Let's check it."
+msgstr "Давайце праверым яго."
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.cpp:58
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Action %1 triggered"
+msgstr "Дззеянне %1 зроблена"
+
+#: ../../../plugins/docktile/src/dockplugin.cpp:10
+msgctxt "Plugin|"
+msgid "DockTile"
+msgstr "DockTile"
+
+#: ../../../plugins/docktile/src/dockplugin.cpp:11
+msgctxt "Plugin|"
+msgid "Dock tile integration"
+msgstr "Інтэграцыя DockTile"
+
+#: ../../../plugins/docktile/src/dockplugin.cpp:7
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Распрацоўшчык"

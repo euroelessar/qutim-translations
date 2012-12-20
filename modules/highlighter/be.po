@@ -8,14 +8,16 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-23 17:51+0000\n"
-"PO-Revision-Date: 2012-04-02 20:09+0000\n"
-"Last-Translator: Aliaksandr Trush <Unknown>\n"
+"PO-Revision-Date: 2012-12-20 00:23+0000\n"
+"Last-Translator: Yauhen Bugamol <haxycgm@gmail.com>\n"
 "Language-Team: Belarusian <be@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-03 05:36+0000\n"
-"X-Generator: Launchpad (build 15052)\n"
+"X-Launchpad-Export-Date: 2012-12-20 05:07+0000\n"
+"X-Generator: Launchpad (build 16378)\n"
+"X-Qt-Contexts: true\n"
+"Language: be\n"
 
 #: ../../../plugins/highlighter/src/highlighteritemlist.cpp:44
 #: ../../../plugins/highlighter/src/highlighteritemlist.cpp:105
@@ -27,32 +29,32 @@ msgstr "Выдаліць"
 #: ../../../plugins/highlighter/src/highlighteritemlist.cpp:94
 msgctxt "HighlighterItemList|"
 msgid "Perl-like"
-msgstr ""
+msgstr "Perl-падобныя"
 
 #: ../../../plugins/highlighter/src/highlighteritemlist.cpp:84
 msgctxt "HighlighterItemList|"
 msgid "Improved perl-like"
-msgstr ""
+msgstr "Палепшаныя Perl-падобныя"
 
 #: ../../../plugins/highlighter/src/highlighteritemlist.cpp:86
 msgctxt "HighlighterItemList|"
 msgid "Shell-like"
-msgstr ""
+msgstr "Shell-падобныя"
 
 #: ../../../plugins/highlighter/src/highlighteritemlist.cpp:88
 msgctxt "HighlighterItemList|"
 msgid "Shell-like Unix"
-msgstr ""
+msgstr "Shell-падобныя Unix"
 
 #: ../../../plugins/highlighter/src/highlighteritemlist.cpp:90
 msgctxt "HighlighterItemList|"
 msgid "Fixed string"
-msgstr ""
+msgstr "Фіксаваны радок"
 
 #: ../../../plugins/highlighter/src/highlighteritemlist.cpp:92
 msgctxt "HighlighterItemList|"
 msgid "W3C XML Schema"
-msgstr ""
+msgstr "Схема W3C XML"
 
 #: ../../../plugins/highlighter/src/highlightersettings.ui:14
 msgctxt "HighlighterSettingsForm|"
@@ -62,7 +64,7 @@ msgstr "Форма"
 #: ../../../plugins/highlighter/src/highlightersettings.ui:20
 msgctxt "HighlighterSettingsForm|"
 msgid "Regexp"
-msgstr ""
+msgstr "Рэгэксы/ Regexp/Маска"
 
 #: ../../../plugins/highlighter/src/highlightersettings.ui:40
 msgctxt "HighlighterSettingsForm|"
@@ -72,14 +74,14 @@ msgstr "Дадаць"
 #: ../../../plugins/highlighter/src/highlightersettings.ui:53
 msgctxt "HighlighterSettingsForm|"
 msgid "Enable auto highlights wher your nick was mentioned."
-msgstr ""
+msgstr "Падсветляць ваша імя у чаце"
 
 #: ../../../plugins/highlighter/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/highlighter/src/highlighter.cpp:41
 #: ../../../plugins/highlighter/src/highlighter.cpp:52
 msgctxt "Plugin|"
 msgid "Highlighter"
-msgstr ""
+msgstr "Падсветліванне імі"
 
 #: ../../../plugins/highlighter/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/highlighter/src/highlighter.cpp:42
@@ -87,3 +89,4 @@ msgctxt "Plugin|"
 msgid ""
 "Plugin that add support of highlighting, when your nick has been mentioned."
 msgstr ""
+"Пашырэнне, што шле апавяшчэнні, калі ў канферэнціі згадваецца ваша імя."

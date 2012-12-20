@@ -8,64 +8,66 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-23 17:51+0000\n"
-"PO-Revision-Date: 2012-04-10 11:04+0000\n"
-"Last-Translator: nikabh <Unknown>\n"
+"PO-Revision-Date: 2012-12-20 02:50+0000\n"
+"Last-Translator: Yauhen Bugamol <haxycgm@gmail.com>\n"
 "Language-Team: Belarusian <be@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-11 04:58+0000\n"
-"X-Generator: Launchpad (build 15070)\n"
+"X-Launchpad-Export-Date: 2012-12-20 05:07+0000\n"
+"X-Generator: Launchpad (build 16378)\n"
+"X-Qt-Contexts: true\n"
+"Language: be\n"
 
 #: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:41
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:54
 msgctxt "Plugin|"
 msgid "UrlPreview"
-msgstr ""
+msgstr "Прадпрагляд спасылак"
 
 #: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:42
 msgctxt "Plugin|"
 msgid "Preview images directly in the chat window"
-msgstr ""
+msgstr "Прагляд малюнкаў у акне чату"
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:65
 msgctxt "UrlPreview::UrlHandler|"
 msgid "URL Preview"
-msgstr ""
+msgstr "Прадпрагляд спасылак"
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:65
 msgctxt "UrlPreview::UrlHandler|"
 msgid "bytes"
-msgstr "байтаў"
+msgstr "байт(аў)"
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:74
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:76
 msgctxt "UrlPreview::UrlHandler|"
 msgid "Something went wrong."
-msgstr ""
+msgstr "Штосьці пашло не так."
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:241
 msgctxt "UrlPreview::UrlHandler|"
 msgid "YouTube video"
-msgstr ""
+msgstr "Відеа з  YouTube"
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:244
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:277
 msgctxt "UrlPreview::UrlHandler|"
 msgid "Unknown"
-msgstr "Невядомы"
+msgstr "Невядома"
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:254
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Audio"
-msgstr ""
+msgstr "Аўдыё HTML5"
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:268
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Video"
-msgstr ""
+msgstr "Відеа HTML5"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:14
 msgctxt "UrlPreviewSettingsForm|"
@@ -75,12 +77,12 @@ msgstr "Форма"
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:26
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Max filesize"
-msgstr ""
+msgstr "Максiмальны памер файла"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:33
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Max picture size to preview "
-msgstr ""
+msgstr "Максiмальны памер выявы "
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:36
 msgctxt "UrlPreviewSettingsForm|"
@@ -95,13 +97,13 @@ msgstr "Вышыня"
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:56
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Max height of images preview."
-msgstr ""
+msgstr "Максiмальная вышыня выявы для прадпрагляду"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:59
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:88
 msgctxt "UrlPreviewSettingsForm|"
 msgid "px"
-msgstr ""
+msgstr "пкс"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:78
 msgctxt "UrlPreviewSettingsForm|"
@@ -111,24 +113,24 @@ msgstr "Шырыня"
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:85
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Max width of images preview."
-msgstr ""
+msgstr "Максiмальная шырыня выявы для прадпрагляду"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:107
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Images preview"
-msgstr ""
+msgstr "Прадпрагляд выявы"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:117
 msgctxt "UrlPreviewSettingsForm|"
 msgid "YouTube preview"
-msgstr ""
+msgstr "Прадпрагляд з YouTube"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:127
 msgctxt "UrlPreviewSettingsForm|"
 msgid "HTML5 Audio"
-msgstr ""
+msgstr "Аўдыё HTML5"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:137
 msgctxt "UrlPreviewSettingsForm|"
 msgid "HTML5 Video"
-msgstr ""
+msgstr "Відеа HTML5"
