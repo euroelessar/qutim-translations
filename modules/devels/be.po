@@ -8,51 +8,51 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-06-28 15:51+0000\n"
-"PO-Revision-Date: 2012-04-02 20:08+0000\n"
-"Last-Translator: Aliaksandr Trush <Unknown>\n"
+"PO-Revision-Date: 2012-12-19 23:40+0000\n"
+"Last-Translator: Yauhen Bugamol <haxycgm@gmail.com>\n"
 "Language-Team: Belarusian <be@li.org>\n"
 "Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-29 05:07+0000\n"
-"X-Generator: Launchpad (build 15505)\n"
+"X-Launchpad-Export-Date: 2012-12-20 05:07+0000\n"
+"X-Generator: Launchpad (build 16378)\n"
 "X-Qt-Contexts: true\n"
 
 #: __from_devels_json.cpp:1
 msgctxt "Author|"
 msgid "Alexander Kazarin"
-msgstr ""
+msgstr "Казарын Аляксандр"
 
 #: __from_devels_json.cpp:3
 msgctxt "Author|"
 msgid "Eugene Degtyarev"
-msgstr ""
+msgstr "Дзегцяроў Яўген"
 
 #: __from_devels_json.cpp:5
 msgctxt "Author|"
 msgid "Ruslan Nigmatullin"
-msgstr ""
+msgstr "Нігматулін Руслан"
 
 #: __from_devels_json.cpp:7
 msgctxt "Author|"
 msgid "Nicolay Izoderov"
-msgstr ""
+msgstr "Ізадзераў Мікалай"
 
 #: __from_devels_json.cpp:9
 msgctxt "Author|"
 msgid "Denis Daschenko"
-msgstr ""
+msgstr "Дашчэнка Дзяніс"
 
 #: __from_devels_json.cpp:11
 msgctxt "Author|"
 msgid "Aleksey Sidorov"
-msgstr ""
+msgstr "Сідараў Аляксей"
 
 #: __from_devels_json.cpp:13
 msgctxt "Author|"
 msgid "Ivan Vizir"
-msgstr ""
+msgstr "Візір Іван"
 
 #: __from_devels_json.cpp:15
 msgctxt "Author|"
@@ -62,12 +62,12 @@ msgstr "Рэдэрык Ашэр"
 #: __from_devels_json.cpp:17
 msgctxt "Author|"
 msgid "Semen Vozhov"
-msgstr ""
+msgstr "Вожаў Сямён"
 
 #: __from_devels_json.cpp:19
 msgctxt "Author|"
 msgid "Perova Gala"
-msgstr ""
+msgstr "Пярова Галя"
 
 #: __from_devels_json.cpp:2 __from_devels_json.cpp:4 __from_devels_json.cpp:6
 #: __from_devels_json.cpp:8 __from_devels_json.cpp:10
@@ -80,4 +80,4 @@ msgstr "Распрацоўшчык"
 #: __from_devels_json.cpp:20
 msgctxt "Task|"
 msgid "Artist"
-msgstr "Выканаўца"
+msgstr "Мастак"

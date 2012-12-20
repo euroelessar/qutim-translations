@@ -8,21 +8,21 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-02-19 16:52+0000\n"
-"PO-Revision-Date: 2012-04-12 08:15+0000\n"
-"Last-Translator: Maksim Tamkovič <quendimax@gmail.com>\n"
+"PO-Revision-Date: 2012-12-20 01:25+0000\n"
+"Last-Translator: Aliaksandr Trush <Unknown>\n"
 "Language-Team: Belarusian <be@li.org>\n"
 "Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-28 12:52+0000\n"
-"X-Generator: Launchpad (build 15505)\n"
+"X-Launchpad-Export-Date: 2012-12-20 05:07+0000\n"
+"X-Generator: Launchpad (build 16378)\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../../plugins/indicator/src/indicator.cpp:37
 msgctxt "Author|"
 msgid "Vsevolod Velichko"
-msgstr "Усевалад Велічка"
+msgstr "Велічка Усевалад"
 
 #: ../../../plugins/indicator/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/indicator/src/indicator.cpp:41
@@ -34,7 +34,7 @@ msgstr "Індыкатар"
 #: ../../../plugins/indicator/src/indicator.cpp:42
 msgctxt "Plugin|"
 msgid "Ubuntu Indicator applet integration"
-msgstr "Інтэграцыя аплета Ubuntu"
+msgstr "Інтэграцыя ў панэль Gnome Ubuntu"
 
 #: ../../../plugins/indicator/src/indicatorservice.cpp:50
 msgctxt "Plugin|"
@@ -44,4 +44,4 @@ msgstr "Зачыніць qutIM"
 #: ../../../plugins/indicator/src/indicator.cpp:38
 msgctxt "Task|"
 msgid "Developer"
-msgstr "Распрацоўнік"
+msgstr "Распрацоўшчык"
