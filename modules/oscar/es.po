@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-07-01 19:31+0000\n"
-"PO-Revision-Date: 2012-12-17 12:42+0000\n"
+"PO-Revision-Date: 2012-12-20 12:55+0000\n"
 "Last-Translator: Christopher <Unknown>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-12-18 05:15+0000\n"
-"X-Generator: Launchpad (build 16372)\n"
+"X-Launchpad-Export-Date: 2012-12-21 05:15+0000\n"
+"X-Generator: Launchpad (build 16378)\n"
 "X-Qt-Contexts: true\n"
 "Language: es\n"
 
@@ -42,7 +42,7 @@ msgstr "Guardar contraseña"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:563
 msgctxt "Affiliation|"
 msgid "Alumni Org."
-msgstr ""
+msgstr "Organización de alumnos antiguos"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:564
 msgctxt "Affiliation|"
@@ -52,7 +52,7 @@ msgstr "Organización de caridad"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:565
 msgctxt "Affiliation|"
 msgid "Club/Social Org."
-msgstr ""
+msgstr "Club/organización social"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:566
 msgctxt "Affiliation|"
@@ -337,7 +337,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/connection.cpp:362
 msgctxt "ConnectionError|"
 msgid "Rate limit exceeded. Please try to reconnect in a few minutes"
-msgstr ""
+msgstr "Tasa limite superada. Por favor intente re-conectarse en unos minutos"
 
 #: ../../../protocols/oscar/src/connection.cpp:364
 msgctxt "ConnectionError|"
@@ -566,22 +566,22 @@ msgstr "Fecha de registro"
 #: ../../../protocols/oscar/src/privacylists.cpp:181
 msgctxt "ContactList|"
 msgid "Add to visible list"
-msgstr ""
+msgstr "Agregar a la lista visible"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:182
 msgctxt "ContactList|"
 msgid "Remove from visible list"
-msgstr ""
+msgstr "Eliminar de la lista visible"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:184
 msgctxt "ContactList|"
 msgid "Add to invisible list"
-msgstr ""
+msgstr "Agregar a la lista invisible"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:185
 msgctxt "ContactList|"
 msgid "Remove from invisible list"
-msgstr ""
+msgstr "Eliminar de la lista invisible"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:187
 msgctxt "ContactList|"
@@ -691,7 +691,7 @@ msgstr "Aruba"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:47
 msgctxt "Country|"
 msgid "Ascension Island"
-msgstr ""
+msgstr "Isla Ascensión"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:48
 msgctxt "Country|"
@@ -761,7 +761,7 @@ msgstr "Bermudas"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:61
 msgctxt "Country|"
 msgid "Bhutan"
-msgstr ""
+msgstr "Bután"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:62
 msgctxt "Country|"
@@ -786,12 +786,12 @@ msgstr "Brasil"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:66
 msgctxt "Country|"
 msgid "British Virgin Islands"
-msgstr ""
+msgstr "Islas Vírgenes Británicas"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:67
 msgctxt "Country|"
 msgid "Brunei"
-msgstr ""
+msgstr "Brunei"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:68
 msgctxt "Country|"
@@ -831,7 +831,7 @@ msgstr "Islas Canarias"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:75
 msgctxt "Country|"
 msgid "Cape Verde Islands"
-msgstr ""
+msgstr "Islas Cabo Verde"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:76
 msgctxt "Country|"
@@ -841,7 +841,7 @@ msgstr "Islas Caimán"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:77
 msgctxt "Country|"
 msgid "Central African Republic"
-msgstr ""
+msgstr "República Centroafricana"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:78
 msgctxt "Country|"
@@ -861,12 +861,12 @@ msgstr "China"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:81
 msgctxt "Country|"
 msgid "Christmas Island"
-msgstr ""
+msgstr "Isla Natividad"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:82
 msgctxt "Country|"
 msgid "Cocos (Keeling) Islands"
-msgstr ""
+msgstr "Islas Cocos (Keeling)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:83
 msgctxt "Country|"
@@ -876,7 +876,7 @@ msgstr "Colombia"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:84
 msgctxt "Country|"
 msgid "Comoros"
-msgstr ""
+msgstr "Comoras"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:85
 msgctxt "Country|"
@@ -891,7 +891,7 @@ msgstr "Congo, República del (Zaire)"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:87
 msgctxt "Country|"
 msgid "Cook Islands"
-msgstr ""
+msgstr "Islas Cook"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:88
 msgctxt "Country|"
@@ -986,12 +986,12 @@ msgstr "Etiopía"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:106
 msgctxt "Country|"
 msgid "Faeroe Islands"
-msgstr ""
+msgstr "Islas Feroe"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:107
 msgctxt "Country|"
 msgid "Falkland Islands"
-msgstr ""
+msgstr "Islas Malvinas"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:108
 msgctxt "Country|"
@@ -1011,32 +1011,32 @@ msgstr "Francia"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:111
 msgctxt "Country|"
 msgid "French Antilles"
-msgstr ""
+msgstr "Antillas Francesas"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:112
 msgctxt "Country|"
 msgid "French Guiana"
-msgstr ""
+msgstr "Guayana Francesa"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:113
 msgctxt "Country|"
 msgid "French Polynesia"
-msgstr ""
+msgstr "Polinesia Francesa"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:114
 msgctxt "Country|"
 msgid "Gabon"
-msgstr ""
+msgstr "Gabón"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:115
 msgctxt "Country|"
 msgid "Gambia"
-msgstr ""
+msgstr "Gambia"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:116
 msgctxt "Country|"
 msgid "Georgia"
-msgstr ""
+msgstr "Georgia"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:117
 msgctxt "Country|"
@@ -1061,17 +1061,17 @@ msgstr "Grecia"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:121
 msgctxt "Country|"
 msgid "Greenland"
-msgstr ""
+msgstr "Groenlandia"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:122
 msgctxt "Country|"
 msgid "Grenada"
-msgstr ""
+msgstr "Granada"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:123
 msgctxt "Country|"
 msgid "Guadeloupe"
-msgstr ""
+msgstr "Guadalupe"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:124
 msgctxt "Country|"
@@ -1091,12 +1091,12 @@ msgstr "Guinea"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:127
 msgctxt "Country|"
 msgid "Guinea-Bissau"
-msgstr ""
+msgstr "Guinea-Bissau"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:128
 msgctxt "Country|"
 msgid "Guyana"
-msgstr ""
+msgstr "Guyana"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:129
 msgctxt "Country|"
@@ -1176,7 +1176,7 @@ msgstr "Jordania"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:144
 msgctxt "Country|"
 msgid "Kazakhstan"
-msgstr ""
+msgstr "Kazajstán"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:145
 msgctxt "Country|"
@@ -1186,7 +1186,7 @@ msgstr "Kenia"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:146
 msgctxt "Country|"
 msgid "Kiribati"
-msgstr ""
+msgstr "Kiribati"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:147
 msgctxt "Country|"
@@ -1201,22 +1201,22 @@ msgstr "Corea del Sur"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:149
 msgctxt "Country|"
 msgid "Kuwait"
-msgstr ""
+msgstr "Kuwait"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:150
 msgctxt "Country|"
 msgid "Kyrgyzstan"
-msgstr ""
+msgstr "Kirguistán"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:151
 msgctxt "Country|"
 msgid "Lao People's Democratic Republic"
-msgstr ""
+msgstr "República Democrática Popular de Laos"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:152
 msgctxt "Country|"
 msgid "Latvia"
-msgstr ""
+msgstr "Letonia"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:153
 msgctxt "Country|"
@@ -1226,12 +1226,12 @@ msgstr "Líbano"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:154
 msgctxt "Country|"
 msgid "Lesotho"
-msgstr ""
+msgstr "Lesoto"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:155
 msgctxt "Country|"
 msgid "Liberia"
-msgstr ""
+msgstr "Liberia"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:156
 msgctxt "Country|"
@@ -1241,7 +1241,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:157
 msgctxt "Country|"
 msgid "Liechtenstein"
-msgstr ""
+msgstr "Liechtenstein"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:158
 msgctxt "Country|"
@@ -1271,7 +1271,7 @@ msgstr "Madagascar"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:163
 msgctxt "Country|"
 msgid "Malawi"
-msgstr ""
+msgstr "Malawi"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:164
 msgctxt "Country|"
@@ -1296,12 +1296,12 @@ msgstr "Malta"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:168
 msgctxt "Country|"
 msgid "Marshall Islands"
-msgstr ""
+msgstr "Islas Marshall"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:169
 msgctxt "Country|"
 msgid "Martinique"
-msgstr ""
+msgstr "Martinica"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:170
 msgctxt "Country|"
@@ -1316,7 +1316,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:172
 msgctxt "Country|"
 msgid "Mayotte Island"
-msgstr ""
+msgstr "Isla Mayotte"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:173
 msgctxt "Country|"
@@ -1326,7 +1326,7 @@ msgstr "México"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:174
 msgctxt "Country|"
 msgid "Micronesia, Federated States of"
-msgstr ""
+msgstr "Micronesia, Estados Federados de"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:175
 msgctxt "Country|"
@@ -1346,7 +1346,7 @@ msgstr "Mongolia"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:178
 msgctxt "Country|"
 msgid "Montserrat"
-msgstr ""
+msgstr "Montserrat"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:179
 msgctxt "Country|"
@@ -1386,17 +1386,17 @@ msgstr "Países Bajos"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:186
 msgctxt "Country|"
 msgid "Netherlands Antilles"
-msgstr ""
+msgstr "Antillas Holandesas"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:187
 msgctxt "Country|"
 msgid "Nevis"
-msgstr ""
+msgstr "Nevis"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:188
 msgctxt "Country|"
 msgid "New Caledonia"
-msgstr ""
+msgstr "Nueva Caledonia"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:189
 msgctxt "Country|"
@@ -1426,7 +1426,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:194
 msgctxt "Country|"
 msgid "Norfolk Island"
-msgstr ""
+msgstr "Isla Norfolk"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:195
 msgctxt "Country|"
@@ -1436,7 +1436,7 @@ msgstr "Noruega"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:196
 msgctxt "Country|"
 msgid "Oman"
-msgstr ""
+msgstr "Omán"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:197
 msgctxt "Country|"
@@ -1491,12 +1491,12 @@ msgstr "Puerto Rico"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:207
 msgctxt "Country|"
 msgid "Qatar"
-msgstr ""
+msgstr "Katar"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:208
 msgctxt "Country|"
 msgid "Reunion Island"
-msgstr ""
+msgstr "Isla Reunión"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:209
 msgctxt "Country|"
@@ -1506,7 +1506,7 @@ msgstr "Rumanía"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:210
 msgctxt "Country|"
 msgid "Rota Island"
-msgstr ""
+msgstr "Isla de Rota"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:211
 msgctxt "Country|"
