@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-10-23 01:12+0000\n"
-"PO-Revision-Date: 2012-12-19 23:54+0000\n"
+"PO-Revision-Date: 2012-12-20 06:37+0000\n"
 "Last-Translator: Yauhen Bugamol <haxycgm@gmail.com>\n"
 "Language-Team: Belarusian <be@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-12-20 05:07+0000\n"
+"X-Launchpad-Export-Date: 2012-12-21 05:15+0000\n"
 "X-Generator: Launchpad (build 16378)\n"
 
 #: ../../../plugins/docktile/src/dockplugin.cpp:6
@@ -70,7 +70,7 @@ msgstr "Першы элемент"
 #: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:107
 msgctxt "MainWindow|"
 msgid "First element? Hm…"
-msgstr "Першы элемнты? Гм..."
+msgstr "Першы элемент? Гм..."
 
 #: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:112
 msgctxt "MainWindow|"
@@ -116,7 +116,7 @@ msgstr "Давайце праверым яго."
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Action %1 triggered"
-msgstr "Дззеянне %1 зроблена"
+msgstr "Дзеянне %1 зроблена"
 
 #: ../../../plugins/docktile/src/dockplugin.cpp:10
 msgctxt "Plugin|"
