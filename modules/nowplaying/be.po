@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-30 18:37+0000\n"
-"PO-Revision-Date: 2012-11-21 23:11+0000\n"
-"Last-Translator: Aliaksandr Trush <Unknown>\n"
+"PO-Revision-Date: 2012-12-22 00:58+0000\n"
+"Last-Translator: Yauhen Bugamol <haxycgm@gmail.com>\n"
 "Language-Team: Belarusian <be@li.org>\n"
 "Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-11-22 05:25+0000\n"
-"X-Generator: Launchpad (build 16293)\n"
+"X-Launchpad-Export-Date: 2012-12-22 06:33+0000\n"
+"X-Generator: Launchpad (build 16378)\n"
 "X-Qt-Contexts: true\n"
 "Language: be\n"
 
@@ -28,7 +28,7 @@ msgstr "Kazlauskas Ian"
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:60
 msgctxt "Author|"
 msgid "Alexey Prokhin"
-msgstr "Аляксей Прохін"
+msgstr "Прохін Аляксей"
 
 #: ../../../plugins/nowplaying/src/icqsettings.ui:14
 msgctxt "IcqSettings|"
@@ -92,7 +92,7 @@ msgstr ""
 #: ../../../plugins/nowplaying/src/icqsettings.ui:62
 msgctxt "IcqSettings|"
 msgid "Now playing: %artist - %title"
-msgstr ""
+msgstr "Зараз грае: %artist - %title"
 
 #: ../../../plugins/nowplaying/src/icqsettings.ui:69
 msgctxt "IcqSettings|"
