@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-07-01 19:32+0000\n"
-"PO-Revision-Date: 2012-12-22 00:02+0000\n"
+"PO-Revision-Date: 2012-12-24 22:28+0000\n"
 "Last-Translator: Yauhen Bugamol <haxycgm@gmail.com>\n"
 "Language-Team: Belarusian <be@li.org>\n"
 "Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-12-22 06:33+0000\n"
+"X-Launchpad-Export-Date: 2012-12-25 05:03+0000\n"
 "X-Generator: Launchpad (build 16378)\n"
 "X-Qt-Contexts: true\n"
 
@@ -1222,7 +1222,7 @@ msgstr "Жадаеце аб'яднаць кантакты \"%1\" <%2> И \"%3\" 
 #, qt-format
 msgctxt "Core::SimpleContactList::AbstractContactModel|"
 msgid "Would you like to merge metacontacts \"%1\" and \"%2\"?"
-msgstr "Жадаеце аб'яднаць метакантакты \"%1\" и \"%2\"?"
+msgstr "Жадаеце аб'яднаць метакантакты \"%1\" і \"%2\"?"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/abstractcontactmodel_p.h:506
 #, qt-format
@@ -3265,7 +3265,7 @@ msgstr "Апрацоўшчык крушэнняў"
 #: ../../../core/__generated_from_service_names.cpp:21
 msgctxt "Service|"
 msgid "DataFormsBackend"
-msgstr "Формы и кнопкі"
+msgstr "Формы і кнопкі"
 
 #: ../../../core/__generated_from_service_names.cpp:22
 msgctxt "Service|"
