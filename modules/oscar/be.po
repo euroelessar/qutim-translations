@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-07-01 19:31+0000\n"
-"PO-Revision-Date: 2012-12-27 00:37+0000\n"
+"PO-Revision-Date: 2013-01-09 04:59+0000\n"
 "Last-Translator: Yauhen Bugamol <haxycgm@gmail.com>\n"
 "Language-Team: Belarusian <be@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-12-28 05:23+0000\n"
-"X-Generator: Launchpad (build 16378)\n"
+"X-Launchpad-Export-Date: 2013-01-09 05:22+0000\n"
+"X-Generator: Launchpad (build 16412)\n"
 "X-Qt-Contexts: true\n"
 "Language: be\n"
 
@@ -1610,7 +1610,7 @@ msgstr "Славенія"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:231
 msgctxt "Country|"
 msgid "Solomon Islands"
-msgstr ""
+msgstr "Саламонавы Астравы"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:232
 msgctxt "Country|"
@@ -1620,7 +1620,7 @@ msgstr "Самалі"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:233
 msgctxt "Country|"
 msgid "South Africa"
-msgstr ""
+msgstr "Паўднёва-Афрыканская Рэспубліка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:234
 msgctxt "Country|"
@@ -1640,7 +1640,7 @@ msgstr "Судан"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:237
 msgctxt "Country|"
 msgid "Suriname"
-msgstr ""
+msgstr "Сурынам"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:238
 msgctxt "Country|"
@@ -1820,12 +1820,12 @@ msgstr "Югаславія"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:273
 msgctxt "Country|"
 msgid "Yugoslavia - Montenegro"
-msgstr ""
+msgstr "Югаславія - Чарнагорыя"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:274
 msgctxt "Country|"
 msgid "Yugoslavia - Serbia"
-msgstr ""
+msgstr "Югаславія - Сербія"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:275
 msgctxt "Country|"
@@ -1881,7 +1881,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:455
 msgctxt "Gender|"
 msgid "Male"
-msgstr ""
+msgstr "Мужчынскі"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:456
 msgctxt "Gender|"
@@ -1926,17 +1926,17 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:493
 msgctxt "Industry|"
 msgid "Agriculture"
-msgstr ""
+msgstr "Сельская гаспадарка"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:494
 msgctxt "Industry|"
 msgid "Arts"
-msgstr ""
+msgstr "Мастацтва"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:495
 msgctxt "Industry|"
 msgid "Construction"
-msgstr ""
+msgstr "Будаўніцтва"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:496
 msgctxt "Industry|"
@@ -1956,12 +1956,12 @@ msgstr "Адукацыя"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:499
 msgctxt "Industry|"
 msgid "Finance"
-msgstr ""
+msgstr "Фінансы"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:500
 msgctxt "Industry|"
 msgid "Government"
-msgstr ""
+msgstr "Урад"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:501
 msgctxt "Industry|"
@@ -1971,22 +1971,22 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:502
 msgctxt "Industry|"
 msgid "Legal"
-msgstr ""
+msgstr "Прававыя ўмовы"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:503
 msgctxt "Industry|"
 msgid "Manufacturing"
-msgstr ""
+msgstr "Вытворчасць"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:504
 msgctxt "Industry|"
 msgid "Media"
-msgstr ""
+msgstr "СМІ"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:505
 msgctxt "Industry|"
 msgid "Medical & Health Care"
-msgstr ""
+msgstr "Медыцына і ахова здароўя"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:506
 msgctxt "Industry|"
@@ -1996,12 +1996,12 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:507
 msgctxt "Industry|"
 msgid "Other"
-msgstr ""
+msgstr "Іншае"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:508
 msgctxt "Industry|"
 msgid "Recreation, Travel & Entertainment"
-msgstr ""
+msgstr "Адпачынак, вандроўкі ды забавы"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:509
 msgctxt "Industry|"
@@ -2011,27 +2011,27 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:510
 msgctxt "Industry|"
 msgid "Transportation"
-msgstr ""
+msgstr "Транспарт"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:289
 msgctxt "Interest|"
 msgid "50's"
-msgstr ""
+msgstr "50-ыя"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:290
 msgctxt "Interest|"
 msgid "60's"
-msgstr ""
+msgstr "60-ыя"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:291
 msgctxt "Interest|"
 msgid "70's"
-msgstr ""
+msgstr "70-ыя"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:292
 msgctxt "Interest|"
 msgid "80's"
-msgstr ""
+msgstr "80-ыя"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:293
 msgctxt "Interest|"
@@ -2061,12 +2061,12 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:298
 msgctxt "Interest|"
 msgid "Cars"
-msgstr ""
+msgstr "Машыны"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:299
 msgctxt "Interest|"
 msgid "Celebrity Fans"
-msgstr ""
+msgstr "Аматары"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:300
 msgctxt "Interest|"
@@ -2076,12 +2076,12 @@ msgstr "Вопратка"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:301
 msgctxt "Interest|"
 msgid "Collections"
-msgstr ""
+msgstr "Калекцыяніраванне"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:302
 msgctxt "Interest|"
 msgid "Computers"
-msgstr ""
+msgstr "Кампутары"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:303
 msgctxt "Interest|"
@@ -2096,7 +2096,7 @@ msgstr "Экалогія"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:305
 msgctxt "Interest|"
 msgid "Entertainment"
-msgstr ""
+msgstr "Забавы"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:306
 msgctxt "Interest|"
@@ -2111,7 +2111,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:308
 msgctxt "Interest|"
 msgid "Health and Beauty"
-msgstr ""
+msgstr "Прыгажосць і здароўе"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:309
 msgctxt "Interest|"
@@ -2136,7 +2136,7 @@ msgstr "Гульні"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:313
 msgctxt "Interest|"
 msgid "Government"
-msgstr ""
+msgstr "Урад"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:314
 msgctxt "Interest|"
@@ -2151,7 +2151,7 @@ msgstr "Сеціва"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:316
 msgctxt "Interest|"
 msgid "Lifestyle"
-msgstr ""
+msgstr "Стыль жыцця"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:317
 msgctxt "Interest|"
@@ -2161,7 +2161,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:318
 msgctxt "Interest|"
 msgid "Media"
-msgstr ""
+msgstr "СМІ"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:319
 msgctxt "Interest|"
@@ -2181,7 +2181,7 @@ msgstr "Містыка"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:322
 msgctxt "Interest|"
 msgid "News and Media"
-msgstr ""
+msgstr "Навіны й СМІ"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:323
 msgctxt "Interest|"
@@ -2191,22 +2191,22 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:324
 msgctxt "Interest|"
 msgid "Parenting"
-msgstr ""
+msgstr "Клопат аб дзецях"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:325
 msgctxt "Interest|"
 msgid "Parties"
-msgstr ""
+msgstr "Вечарыны"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:326
 msgctxt "Interest|"
 msgid "Pets and Animals"
-msgstr ""
+msgstr "Хатнія жывёлы"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:327
 msgctxt "Interest|"
 msgid "Publishing"
-msgstr ""
+msgstr "Выдавецтва"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:328
 msgctxt "Interest|"
@@ -2246,7 +2246,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:335
 msgctxt "Interest|"
 msgid "Sports"
-msgstr ""
+msgstr "Спорт"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:336
 msgctxt "Interest|"
@@ -2266,7 +2266,7 @@ msgstr "Жанчыны"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:351
 msgctxt "Language|"
 msgid "Afrikaans"
-msgstr ""
+msgstr "Афрыкаанас"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:352
 msgctxt "Language|"
@@ -2281,7 +2281,7 @@ msgstr "Арабская"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:354
 msgctxt "Language|"
 msgid "Armenian"
-msgstr ""
+msgstr "Армянская"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:355
 msgctxt "Language|"
@@ -2316,7 +2316,7 @@ msgstr "Бірманская"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:361
 msgctxt "Language|"
 msgid "Cantonese"
-msgstr ""
+msgstr "Кантонская"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:362
 msgctxt "Language|"
@@ -2326,7 +2326,7 @@ msgstr "Каталонская"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:363
 msgctxt "Language|"
 msgid "Chamorro"
-msgstr ""
+msgstr "Чаморро"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:364
 msgctxt "Language|"
@@ -2336,52 +2336,52 @@ msgstr "Кітайская"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:365
 msgctxt "Language|"
 msgid "Croatian"
-msgstr ""
+msgstr "Харвацкая"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:366
 msgctxt "Language|"
 msgid "Czech"
-msgstr ""
+msgstr "Чэшская"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:367
 msgctxt "Language|"
 msgid "Danish"
-msgstr ""
+msgstr "Дацкая"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:368
 msgctxt "Language|"
 msgid "Dutch"
-msgstr ""
+msgstr "Нямецкая"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:369
 msgctxt "Language|"
 msgid "English"
-msgstr ""
+msgstr "Ангельская"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:370
 msgctxt "Language|"
 msgid "Esperanto"
-msgstr ""
+msgstr "Эсперанта"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:371
 msgctxt "Language|"
 msgid "Estonian"
-msgstr ""
+msgstr "Эстонская"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:372
 msgctxt "Language|"
 msgid "Farsi"
-msgstr ""
+msgstr "Фарсі"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:373
 msgctxt "Language|"
 msgid "Finnish"
-msgstr ""
+msgstr "Фінская"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:374
 msgctxt "Language|"
 msgid "French"
-msgstr ""
+msgstr "Французская"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:375
 msgctxt "Language|"
@@ -2391,7 +2391,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:376
 msgctxt "Language|"
 msgid "German"
-msgstr ""
+msgstr "Нямецкая"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:377
 msgctxt "Language|"
@@ -2406,7 +2406,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:379
 msgctxt "Language|"
 msgid "Hebrew"
-msgstr ""
+msgstr "Іўрыт"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:380
 msgctxt "Language|"
