@@ -13,9 +13,7 @@ Product {
 
     Group {
         fileTags: [ "po" ]
-        prefix: "modules/"
-        files: "*.po"
-        recursive: true
+        files: "modules/**/*.po"
     }
 
     Rule {
