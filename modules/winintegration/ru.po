@@ -17,58 +17,32 @@ msgstr ""
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
-#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:113
-msgctxt "Core::SimpleContactList::SevenWidget|"
-msgid "Status"
-msgstr "Статус"
-
-#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:121
-msgctxt "Core::SimpleContactList::SevenWidget|"
-msgid "Search contact"
-msgstr "Поиск контакта"
-
-#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:149
-#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:327
-msgctxt "Core::SimpleContactList::SevenWidget|"
-msgid "Set Status Text"
-msgstr "Установить текст статуса"
-
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:1
-#: ../../../plugins/winintegration/src/winint.cpp:64
-#: ../../../plugins/winintegration/src/winint.cpp:77
-msgctxt "Plugin|"
-msgid "Windows Integration"
-msgstr "Интеграция с Windows"
-
-#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:2
-msgctxt "Plugin|"
-msgid ""
-"Adds count of unread messages as an icon to taskbar button of qutim, along "
-"with some commands list."
-msgstr ""
-"Добавляет количество непрочитанных сообщений на пиктограмму в таскбаре."
-
-#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:3
 msgctxt "Plugin|"
 msgid "Windows Integration: Taskbar"
 msgstr "Интеграция с Windows:  Панель задач"
 
-#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:4
+#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
 msgid "Adds count of unread messages as an icon to taskbar button of qutIM."
 msgstr ""
 "Добавляет счётчик непрочитанных сообщений на пиктограмму qutIM в панели "
 "задач."
 
-#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:5
+#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:3
+#: ../../../plugins/winintegration/src/winint.cpp:64
+#: ../../../plugins/winintegration/src/winint.cpp:77
 msgctxt "Plugin|"
-msgid "Seven"
-msgstr "7"
+msgid "Windows Integration"
+msgstr "Интеграция с Windows"
 
-#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:6
+#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
-msgid "Windows seven specific implementation with button's in caption"
-msgstr "Специфичная реализация кнопки в заголовки для Windows."
+msgid ""
+"Adds count of unread messages as an icon to taskbar button of qutim, along "
+"with some commands list."
+msgstr ""
+"Добавляет количество непрочитанных сообщений на пиктограмму в таскбаре."
 
 #: ../../../plugins/winintegration/src/winint.cpp:65
 msgctxt "Plugin|"
@@ -172,3 +146,23 @@ msgstr "Последний принят от:"
 msgctxt "WThumbnailsProvider|"
 msgid "You have no new messages."
 msgstr "Нет новых сообщений."
+
+#~ msgctxt "Core::SimpleContactList::SevenWidget|"
+#~ msgid "Status"
+#~ msgstr "Статус"
+
+#~ msgctxt "Core::SimpleContactList::SevenWidget|"
+#~ msgid "Search contact"
+#~ msgstr "Поиск контакта"
+
+#~ msgctxt "Core::SimpleContactList::SevenWidget|"
+#~ msgid "Set Status Text"
+#~ msgstr "Установить текст статуса"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Seven"
+#~ msgstr "7"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Windows seven specific implementation with button's in caption"
+#~ msgstr "Специфичная реализация кнопки в заголовки для Windows."

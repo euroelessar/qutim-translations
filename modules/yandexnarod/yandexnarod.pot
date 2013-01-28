@@ -38,32 +38,32 @@ msgctxt "Yandex|"
 msgid "Yandex Narod"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:99
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:100
 msgctxt "YandexNarodAuthorizator|"
 msgid "Has no login or password"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:108
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:109
 msgctxt "YandexNarodAuthorizator|"
 msgid "Authorization succeed"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:112
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:113
 msgctxt "YandexNarodAuthorizator|"
 msgid "Authorization failured"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:177
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:179
 msgctxt "YandexNarodAuthorizator|"
 msgid "Unsupported grant type. Inform developers."
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:179
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:181
 msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid request. Inform developers."
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:181
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:183
 msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid login or/and password"
 msgstr ""
@@ -139,23 +139,23 @@ msgctxt "YandexNarodSettingsClass|"
 msgid "Manage files"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:136
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:137
 msgctxt "YandexNarodUploadJob|"
 msgid "Authorizing..."
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:159
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:160
 msgctxt "YandexNarodUploadJob|"
 msgid "Getting storage..."
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:223
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:236
 #, qt-format
 msgctxt "YandexNarodUploadJob|"
 msgid "Could not open file %1"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:347
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:360
 msgctxt "YandexNarodUploadJob|Don't remove format arguments"
 msgid ""
 "File sent: %N (%S bytes)\n"

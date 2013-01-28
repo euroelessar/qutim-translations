@@ -59,7 +59,7 @@ msgctxt "KineticPopups::PopupAppearance|"
 msgid "Test again"
 msgstr "Повторити тест"
 
-#: ../../../plugins/kineticpopups/src/popupwidgets/quickpopupwidget.cpp:76
+#: ../../../plugins/kineticpopups/src/popupwidgets/quickpopupwidget.cpp:77
 msgctxt "KineticPopups::QuickNotify|"
 msgid "Notification from qutIM"
 msgstr "Сповіщення qutIM"

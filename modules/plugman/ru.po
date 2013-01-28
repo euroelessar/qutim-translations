@@ -174,40 +174,40 @@ msgctxt "ConfigPackagePage|"
 msgid "Package name:"
 msgstr "Имя пакета:"
 
-#: ../../../plugins/plugman/src/packagedownloaddialog.ui:14
-msgctxt "PackageDownloadDialog|"
-msgid "Form"
-msgstr "Настройки"
+#: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:20
+#, fuzzy
+msgctxt "InstallButton|"
+msgid "Install"
+msgstr "Установить"
 
-#: ../../../plugins/plugman/src/packagedownloaddialog.ui:26
-msgctxt "PackageDownloadDialog|"
-msgid "Order by:"
-msgstr "Сортировать по:"
+#: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:24
+#, fuzzy
+msgctxt "InstallButton|"
+msgid "Update"
+msgstr "Обновить"
 
-#: ../../../plugins/plugman/src/packagedownloaddialog.ui:33
-msgctxt "PackageDownloadDialog|"
-msgid "Newest"
-msgstr "Дате выпуска"
+#: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:28
+#, fuzzy
+msgctxt "InstallButton|"
+msgid "Installing"
+msgstr "Установка"
 
-#: ../../../plugins/plugman/src/packagedownloaddialog.ui:43
-msgctxt "PackageDownloadDialog|"
-msgid "Rating"
-msgstr "Рейтингу"
+#: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:32
+#, fuzzy
+msgctxt "InstallButton|"
+msgid "Updating"
+msgstr "Обновление"
 
-#: ../../../plugins/plugman/src/packagedownloaddialog.ui:50
-msgctxt "PackageDownloadDialog|"
-msgid "Most downloads"
-msgstr "Загрузкам"
+#: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:36
+#, fuzzy
+msgctxt "InstallButton|"
+msgid "Uninstall"
+msgstr "Удалить"
 
-#: ../../../plugins/plugman/src/packagedownloaddialog.ui:57
+#: ../../../plugins/plugman/src/packagedownloaddialog.cpp:52
 msgctxt "PackageDownloadDialog|"
-msgid "Installed"
-msgstr "Кол-ву установок"
-
-#: ../../../plugins/plugman/src/packagedownloaddialog.ui:64
-msgctxt "PackageDownloadDialog|"
-msgid "Search:"
-msgstr "Поиск:"
+msgid "Get Hot New Stuff"
+msgstr ""
 
 #: ../../../plugins/plugman/src/packageentrywidget.cpp:99
 #: ../../../plugins/plugman/src/packageentrywidget.cpp:102
@@ -242,7 +242,7 @@ msgctxt "PackageEntryWidget|"
 msgid "Uninstall"
 msgstr "Удалить"
 
-#: ../../../plugins/plugman/src/plugman.cpp:64
+#: ../../../plugins/plugman/src/plugman.cpp:65
 msgctxt "PackageManager|"
 msgid "Manage packages"
 msgstr "Управление пакетами"
@@ -265,397 +265,365 @@ msgctxt "Plugin|"
 msgid "Package manager"
 msgstr "Управление пакетами"
 
-#: ../../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp:86
-msgctxt "QObject|"
-msgid "No target filename has been given."
-msgstr "Не указан целевой файл."
+#: ../../../plugins/plugman/qml/plugman/default/main.qml:24
+#, fuzzy
+msgctxt "main|"
+msgid "Search"
+msgstr "Поиск:"
 
-#: ../../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp:93
-msgctxt "QObject|"
-msgid "Already opened."
-msgstr "Файл уже открыт."
+#: ../../../plugins/plugman/qml/plugman/default/main.qml:36
+#, fuzzy
+msgctxt "main|"
+msgid "Order By"
+msgstr "Сортировать по:"
 
-#: ../../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp:103
-msgctxt "QObject|"
-msgid "Insufficient permissions in target directory."
-msgstr "Нет прав доступа в целевой каталог."
+#: ../../../plugins/plugman/qml/plugman/default/main.qml:59
+#, fuzzy
+msgctxt "main|"
+msgid "Order by: "
+msgstr "Сортировать по:"
 
-#: ../../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp:113
-msgctxt "QObject|"
-msgid "Unable to open temporary file."
-msgstr "Не получилось открыть временный файл."
-
-#: ../../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp:218
-msgctxt "QObject|"
-msgid "Synchronization to disk failed"
-msgstr "Ошибка синхронизации с винтом"
-
-#: ../../../plugins/plugman/3rdparty/quasar/lib/savefile.cpp:242
-msgctxt "QObject|"
-msgid "Error during rename."
-msgstr "Ошибка переименования."
-
-#: ../../../plugins/plugman/oldsrc/plugpackage.cpp:59
-msgctxt "QObject|"
-msgid "Package name is empty"
-msgstr "Пустое имя пакета"
-
-#: ../../../plugins/plugman/oldsrc/plugpackage.cpp:63
-msgctxt "QObject|"
-msgid "Package type is empty"
-msgstr "Тип пакета не указан"
-
-#: ../../../plugins/plugman/oldsrc/plugpackage.cpp:67
-msgctxt "QObject|"
-msgid "Invalid package version"
-msgstr "Неправильная версия пакета"
-
-#: ../../../plugins/plugman/oldsrc/plugpackage.cpp:74
-msgctxt "QObject|"
-msgid "Wrong platform"
-msgstr "Неправильная платформа"
-
-#: ../../../plugins/plugman/ui/manager.ui:20
-msgctxt "manager|"
-msgid "Plugman"
-msgstr "Plugman"
-
-#: ../../../plugins/plugman/ui/manager.ui:51
-msgctxt "manager|"
-msgid "Not yet implemented"
-msgstr "Пока еще не написано"
-
-#: ../../../plugins/plugman/ui/manager.ui:61
-msgctxt "manager|"
-msgid "Apply"
-msgstr "Применить"
-
-#: ../../../plugins/plugman/ui/manager.ui:93
-msgctxt "manager|"
-msgid "Actions"
-msgstr "Действия"
-
-#: ../../../plugins/plugman/ui/manager.ui:115
-msgctxt "manager|"
-msgid "find"
-msgstr "Поиск"
-
-#: ../../../plugins/plugman/oldsrc/plugdownloader.cpp:101
-msgctxt "plugDownloader|"
-msgid "bytes/sec"
-msgstr "бит/с"
-
-#: ../../../plugins/plugman/oldsrc/plugdownloader.cpp:104
-msgctxt "plugDownloader|"
-msgid "kB/s"
-msgstr "кБ/с"
-
-#: ../../../plugins/plugman/oldsrc/plugdownloader.cpp:107
-msgctxt "plugDownloader|"
-msgid "MB/s"
-msgstr "МБ/с"
-
-#: ../../../plugins/plugman/oldsrc/plugdownloader.cpp:112
-#, qt-format
-msgctxt "plugDownloader|"
-msgid "Downloading: %1%, speed: %2 %3"
-msgstr "Загрузка: %1%, со скоростью: %2 %3"
-
-#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:69
-msgctxt "plugInstaller|"
-msgid "Need restart!"
-msgstr "Необходим перезапуск!"
-
-#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:81
-#, qt-format
-msgctxt "plugInstaller|"
-msgid "Unable to open archive: %1"
-msgstr "Не могу открыть архив: %1"
-
-#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:103
-#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:238
-msgctxt "plugInstaller|"
-msgid "warning: trying to overwrite existing files!"
-msgstr "Предупреджение: попытка перезаписи существующих файлов!"
-
-#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:109
-#, qt-format
-msgctxt "plugInstaller|"
-msgid "Unable to extract archive: %1 to %2"
-msgstr "Не могу распаковать архив %1 в %2"
-
-#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:116
-#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:250
-#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:260
-msgctxt "plugInstaller|"
-msgid "Installing:"
-msgstr "Установка:"
-
-#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:146
-#, qt-format
-msgctxt "plugInstaller|"
-msgid "Invalid package: %1"
-msgstr "Некорректный пакет: %1"
-
-#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:184
-#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:193
-msgctxt "plugInstaller|"
-msgid "Removing:"
-msgstr "Удалиние:"
-
-#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:246
-#, qt-format
-msgctxt "plugInstaller|"
-msgid "Unable to update package %1: installed version is later"
-msgstr "Невозможно обновить пакет %1: установленная версия новее"
-
-#: ../../../plugins/plugman/oldsrc/pluginstaller.cpp:256
-#, qt-format
-msgctxt "plugInstaller|"
-msgid "Unable to install package: %1"
-msgstr "Установка пакета %1 не возможна"
-
-#: ../../../plugins/plugman/oldsrc/plugitemdelegate.cpp:77
-msgctxt "plugItemDelegate|"
-msgid "isUpgradable"
-msgstr "Обновление"
-
-#: ../../../plugins/plugman/oldsrc/plugitemdelegate.cpp:81
-msgctxt "plugItemDelegate|"
-msgid "isInstallable"
-msgstr "Установка"
-
-#: ../../../plugins/plugman/oldsrc/plugitemdelegate.cpp:85
-msgctxt "plugItemDelegate|"
-msgid "isDowngradable"
-msgstr "Понижение версии"
-
-#: ../../../plugins/plugman/oldsrc/plugitemdelegate.cpp:89
-msgctxt "plugItemDelegate|"
-msgid "installed"
-msgstr "Установлен"
-
-#: ../../../plugins/plugman/oldsrc/plugitemdelegate.cpp:93
-msgctxt "plugItemDelegate|"
-msgid "Unknown"
-msgstr "Неизвестно"
-
-#: ../../../plugins/plugman/oldsrc/plugitemdelegate.cpp:99
-msgctxt "plugItemDelegate|"
-msgid "Install"
-msgstr "Установить"
-
-#: ../../../plugins/plugman/oldsrc/plugitemdelegate.cpp:104
-msgctxt "plugItemDelegate|"
-msgid "Remove"
-msgstr "Удалить"
-
-#: ../../../plugins/plugman/oldsrc/plugitemdelegate.cpp:109
-msgctxt "plugItemDelegate|"
-msgid "Upgrade"
-msgstr "Обновить"
-
-#: ../../../plugins/plugman/oldsrc/plugmanager.cpp:54
-msgctxt "plugManager|"
-msgid "Actions"
-msgstr "Действия"
-
-#: ../../../plugins/plugman/oldsrc/plugmanager.cpp:55
-msgctxt "plugManager|"
-msgid "Update packages list"
-msgstr "Обновление списка пакетов"
-
-#: ../../../plugins/plugman/oldsrc/plugmanager.cpp:57
-msgctxt "plugManager|"
-msgid "Upgrade all"
-msgstr "Обновить все пакеты"
-
-#: ../../../plugins/plugman/oldsrc/plugmanager.cpp:61
-msgctxt "plugManager|"
-msgid "Revert changes"
-msgstr "Отменить изменения"
-
-#: ../../../plugins/plugman/oldsrc/plugpackagemodel.cpp:122
-msgctxt "plugPackageModel|"
-msgid "Packages"
-msgstr "Пакеты"
-
-#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:127
-#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:233
-#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:248
-msgctxt "plugXMLHandler|"
-msgid "Unable to open file"
-msgstr "Не удалось открыть файл"
-
-#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:131
-#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:237
-msgctxt "plugXMLHandler|"
-msgid "Unable to set content"
-msgstr "Невозможно установить содержимое"
-
-#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:145
-#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:184
-msgctxt "plugXMLHandler|"
-msgid "Unable to write file"
-msgstr "Не удалось записать файл"
-
-#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:162
-#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:297
-msgctxt "plugXMLHandler|"
-msgid "Can't read database. Check your pesmissions."
-msgstr "Не могу прочитать базу данных. Проверьте права доступа."
-
-#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:167
-#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:303
-msgctxt "plugXMLHandler|"
-msgid "Broken package database"
-msgstr "Сбой базы пакетов"
-
-#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:205
-msgctxt "plugXMLHandler|"
-msgid "unable to open file"
-msgstr "не удалось открыть файл"
-
-#: ../../../plugins/plugman/oldsrc/plugxmlhandler.cpp:208
-msgctxt "plugXMLHandler|"
-msgid "unable to set content"
-msgstr "невозможно установить содержимое"
-
-#: ../../../plugins/plugman/ui/settings.ui:20
-msgctxt "plugmanSettings|"
-msgid "Form"
-msgstr "Настройки"
-
-#: ../../../plugins/plugman/ui/settings.ui:39
-msgctxt "plugmanSettings|"
-msgid "Settings"
-msgstr "Настройки"
-
-#: ../../../plugins/plugman/ui/settings.ui:48
-msgctxt "plugmanSettings|"
-msgid "group packages"
-msgstr "Группы пакетов"
-
-#: ../../../plugins/plugman/ui/settings.ui:58
-msgctxt "plugmanSettings|"
-msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Droid Sans'; font-size:9pt; font-"
-"weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"weight:600;\">Mirror list</span></p></body></html>"
+#: ../../../plugins/plugman/qml/plugman/default/main.qml:69
+msgctxt "main|"
+msgid "Get emoticons"
 msgstr ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Droid Sans'; font-size:9pt; font-"
-"weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"weight:600;\">Список зеркал</span></p></body></html>"
 
-#: ../../../plugins/plugman/ui/settings.ui:81
-msgctxt "plugmanSettings|"
-msgid "Add"
-msgstr "Добавить"
+#~ msgctxt "PackageDownloadDialog|"
+#~ msgid "Form"
+#~ msgstr "Настройки"
 
-#: ../../../plugins/plugman/ui/settings.ui:97
-msgctxt "plugmanSettings|"
-msgid "Not yet implemented"
-msgstr "Пока еще не написано"
+#~ msgctxt "PackageDownloadDialog|"
+#~ msgid "Newest"
+#~ msgstr "Дате выпуска"
 
-#: ../../../plugins/plugman/ui/settings.ui:111
-msgctxt "plugmanSettings|"
-msgid "About"
-msgstr "О плагине"
+#~ msgctxt "PackageDownloadDialog|"
+#~ msgid "Rating"
+#~ msgstr "Рейтингу"
 
-#: ../../../plugins/plugman/ui/settings.ui:126
-msgctxt "plugmanSettings|"
-msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Verdana'; font-size:8pt; font-"
-"weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'Bitstream Vera Sans'; font-size:10pt;\">simple qutIM extentions "
-"manager.</span></p>\n"
-"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
-"family:'Bitstream Vera Sans'; font-size:10pt;\"></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'Bitstream Vera Sans'; font-size:10pt; font-weight:600;\">Author: </"
-"span><span style=\" font-family:'Bitstream Vera Sans'; font-size:10pt;"
-"\">Sidorov Aleksey</span></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'Bitstream Vera Sans'; font-size:10pt; font-weight:600;\">Contacts: </"
-"span><a href=\"mailto::sauron@citadelspb.com\"><span style=\" font-"
-"family:'Bitstream Vera Sans'; font-size:10pt; text-decoration: underline; "
-"color:#0000ff;\">sauron@citadeslpb.com</span></a></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'Droid Serif'; font-size:10pt;\"><br /></span></p>\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-family:'Droid Serif'; font-size:10pt;\">2008-2009</span></p></"
-"body></html>"
-msgstr ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Verdana'; font-size:8pt; font-"
-"weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'Bitstream Vera Sans'; font-size:10pt;\">простой менеджер  расширений "
-"qutIM.</span></p>\n"
-"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
-"family:'Bitstream Vera Sans'; font-size:10pt;\"></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'Bitstream Vera Sans'; font-size:10pt; font-weight:600;\">Автор: </"
-"span><span style=\" font-family:'Bitstream Vera Sans'; font-size:10pt;"
-"\">Сидоров Алексей</span></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'Bitstream Vera Sans'; font-size:10pt; font-weight:600;\">Контакты: </"
-"span><a href=\"mailto::sauron@citadelspb.com\"><span style=\" font-"
-"family:'Bitstream Vera Sans'; font-size:10pt; text-decoration: underline; "
-"color:#0000ff;\">sauron@citadeslpb.com</span></a></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'Droid Serif'; font-size:10pt;\"><br /></span></p>\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-family:'Droid Serif'; font-size:10pt;\">2008-2011</span></p></"
-"body></html>"
+#~ msgctxt "PackageDownloadDialog|"
+#~ msgid "Most downloads"
+#~ msgstr "Загрузкам"
 
-#: ../../../plugins/plugman/oldsrc/plugmansettings.cpp:42
-msgctxt "plugmanSettings|"
-msgid "Name"
-msgstr "Имя"
+#~ msgctxt "PackageDownloadDialog|"
+#~ msgid "Installed"
+#~ msgstr "Кол-ву установок"
 
-#: ../../../plugins/plugman/oldsrc/plugmansettings.cpp:42
-msgctxt "plugmanSettings|"
-msgid "Description"
-msgstr "Описание"
+#~ msgctxt "QObject|"
+#~ msgid "No target filename has been given."
+#~ msgstr "Не указан целевой файл."
 
-#: ../../../plugins/plugman/oldsrc/plugmansettings.cpp:42
-msgctxt "plugmanSettings|"
-msgid "Url"
-msgstr "Url"
+#~ msgctxt "QObject|"
+#~ msgid "Already opened."
+#~ msgstr "Файл уже открыт."
+
+#~ msgctxt "QObject|"
+#~ msgid "Insufficient permissions in target directory."
+#~ msgstr "Нет прав доступа в целевой каталог."
+
+#~ msgctxt "QObject|"
+#~ msgid "Unable to open temporary file."
+#~ msgstr "Не получилось открыть временный файл."
+
+#~ msgctxt "QObject|"
+#~ msgid "Synchronization to disk failed"
+#~ msgstr "Ошибка синхронизации с винтом"
+
+#~ msgctxt "QObject|"
+#~ msgid "Error during rename."
+#~ msgstr "Ошибка переименования."
+
+#~ msgctxt "QObject|"
+#~ msgid "Package name is empty"
+#~ msgstr "Пустое имя пакета"
+
+#~ msgctxt "QObject|"
+#~ msgid "Package type is empty"
+#~ msgstr "Тип пакета не указан"
+
+#~ msgctxt "QObject|"
+#~ msgid "Invalid package version"
+#~ msgstr "Неправильная версия пакета"
+
+#~ msgctxt "QObject|"
+#~ msgid "Wrong platform"
+#~ msgstr "Неправильная платформа"
+
+#~ msgctxt "manager|"
+#~ msgid "Plugman"
+#~ msgstr "Plugman"
+
+#~ msgctxt "manager|"
+#~ msgid "Not yet implemented"
+#~ msgstr "Пока еще не написано"
+
+#~ msgctxt "manager|"
+#~ msgid "Apply"
+#~ msgstr "Применить"
+
+#~ msgctxt "manager|"
+#~ msgid "Actions"
+#~ msgstr "Действия"
+
+#~ msgctxt "manager|"
+#~ msgid "find"
+#~ msgstr "Поиск"
+
+#~ msgctxt "plugDownloader|"
+#~ msgid "bytes/sec"
+#~ msgstr "бит/с"
+
+#~ msgctxt "plugDownloader|"
+#~ msgid "kB/s"
+#~ msgstr "кБ/с"
+
+#~ msgctxt "plugDownloader|"
+#~ msgid "MB/s"
+#~ msgstr "МБ/с"
+
+#~ msgctxt "plugDownloader|"
+#~ msgid "Downloading: %1%, speed: %2 %3"
+#~ msgstr "Загрузка: %1%, со скоростью: %2 %3"
+
+#~ msgctxt "plugInstaller|"
+#~ msgid "Need restart!"
+#~ msgstr "Необходим перезапуск!"
+
+#~ msgctxt "plugInstaller|"
+#~ msgid "Unable to open archive: %1"
+#~ msgstr "Не могу открыть архив: %1"
+
+#~ msgctxt "plugInstaller|"
+#~ msgid "warning: trying to overwrite existing files!"
+#~ msgstr "Предупреджение: попытка перезаписи существующих файлов!"
+
+#~ msgctxt "plugInstaller|"
+#~ msgid "Unable to extract archive: %1 to %2"
+#~ msgstr "Не могу распаковать архив %1 в %2"
+
+#~ msgctxt "plugInstaller|"
+#~ msgid "Installing:"
+#~ msgstr "Установка:"
+
+#~ msgctxt "plugInstaller|"
+#~ msgid "Invalid package: %1"
+#~ msgstr "Некорректный пакет: %1"
+
+#~ msgctxt "plugInstaller|"
+#~ msgid "Removing:"
+#~ msgstr "Удалиние:"
+
+#~ msgctxt "plugInstaller|"
+#~ msgid "Unable to update package %1: installed version is later"
+#~ msgstr "Невозможно обновить пакет %1: установленная версия новее"
+
+#~ msgctxt "plugInstaller|"
+#~ msgid "Unable to install package: %1"
+#~ msgstr "Установка пакета %1 не возможна"
+
+#~ msgctxt "plugItemDelegate|"
+#~ msgid "isUpgradable"
+#~ msgstr "Обновление"
+
+#~ msgctxt "plugItemDelegate|"
+#~ msgid "isInstallable"
+#~ msgstr "Установка"
+
+#~ msgctxt "plugItemDelegate|"
+#~ msgid "isDowngradable"
+#~ msgstr "Понижение версии"
+
+#~ msgctxt "plugItemDelegate|"
+#~ msgid "installed"
+#~ msgstr "Установлен"
+
+#~ msgctxt "plugItemDelegate|"
+#~ msgid "Unknown"
+#~ msgstr "Неизвестно"
+
+#~ msgctxt "plugItemDelegate|"
+#~ msgid "Install"
+#~ msgstr "Установить"
+
+#~ msgctxt "plugItemDelegate|"
+#~ msgid "Remove"
+#~ msgstr "Удалить"
+
+#~ msgctxt "plugItemDelegate|"
+#~ msgid "Upgrade"
+#~ msgstr "Обновить"
+
+#~ msgctxt "plugManager|"
+#~ msgid "Actions"
+#~ msgstr "Действия"
+
+#~ msgctxt "plugManager|"
+#~ msgid "Update packages list"
+#~ msgstr "Обновление списка пакетов"
+
+#~ msgctxt "plugManager|"
+#~ msgid "Upgrade all"
+#~ msgstr "Обновить все пакеты"
+
+#~ msgctxt "plugManager|"
+#~ msgid "Revert changes"
+#~ msgstr "Отменить изменения"
+
+#~ msgctxt "plugPackageModel|"
+#~ msgid "Packages"
+#~ msgstr "Пакеты"
+
+#~ msgctxt "plugXMLHandler|"
+#~ msgid "Unable to open file"
+#~ msgstr "Не удалось открыть файл"
+
+#~ msgctxt "plugXMLHandler|"
+#~ msgid "Unable to set content"
+#~ msgstr "Невозможно установить содержимое"
+
+#~ msgctxt "plugXMLHandler|"
+#~ msgid "Unable to write file"
+#~ msgstr "Не удалось записать файл"
+
+#~ msgctxt "plugXMLHandler|"
+#~ msgid "Can't read database. Check your pesmissions."
+#~ msgstr "Не могу прочитать базу данных. Проверьте права доступа."
+
+#~ msgctxt "plugXMLHandler|"
+#~ msgid "Broken package database"
+#~ msgstr "Сбой базы пакетов"
+
+#~ msgctxt "plugXMLHandler|"
+#~ msgid "unable to open file"
+#~ msgstr "не удалось открыть файл"
+
+#~ msgctxt "plugXMLHandler|"
+#~ msgid "unable to set content"
+#~ msgstr "невозможно установить содержимое"
+
+#~ msgctxt "plugmanSettings|"
+#~ msgid "Form"
+#~ msgstr "Настройки"
+
+#~ msgctxt "plugmanSettings|"
+#~ msgid "Settings"
+#~ msgstr "Настройки"
+
+#~ msgctxt "plugmanSettings|"
+#~ msgid "group packages"
+#~ msgstr "Группы пакетов"
+
+#~ msgctxt "plugmanSettings|"
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Droid Sans'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "weight:600;\">Mirror list</span></p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Droid Sans'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "weight:600;\">Список зеркал</span></p></body></html>"
+
+#~ msgctxt "plugmanSettings|"
+#~ msgid "Add"
+#~ msgstr "Добавить"
+
+#~ msgctxt "plugmanSettings|"
+#~ msgid "Not yet implemented"
+#~ msgstr "Пока еще не написано"
+
+#~ msgctxt "plugmanSettings|"
+#~ msgid "About"
+#~ msgstr "О плагине"
+
+#~ msgctxt "plugmanSettings|"
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Verdana'; font-size:8pt; font-"
+#~ "weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Bitstream Vera Sans'; font-size:10pt;\">simple qutIM extentions "
+#~ "manager.</span></p>\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+#~ "font-family:'Bitstream Vera Sans'; font-size:10pt;\"></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Bitstream Vera Sans'; font-size:10pt; font-weight:600;\">Author: "
+#~ "</span><span style=\" font-family:'Bitstream Vera Sans'; font-size:10pt;"
+#~ "\">Sidorov Aleksey</span></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Bitstream Vera Sans'; font-size:10pt; font-weight:600;"
+#~ "\">Contacts: </span><a href=\"mailto::sauron@citadelspb.com\"><span style="
+#~ "\" font-family:'Bitstream Vera Sans'; font-size:10pt; text-decoration: "
+#~ "underline; color:#0000ff;\">sauron@citadeslpb.com</span></a></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Droid Serif'; font-size:10pt;\"><br /></span></p>\n"
+#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+#~ "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+#~ "style=\" font-family:'Droid Serif'; font-size:10pt;\">2008-2009</span></"
+#~ "p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Verdana'; font-size:8pt; font-"
+#~ "weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Bitstream Vera Sans'; font-size:10pt;\">простой менеджер  "
+#~ "расширений qutIM.</span></p>\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+#~ "font-family:'Bitstream Vera Sans'; font-size:10pt;\"></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Bitstream Vera Sans'; font-size:10pt; font-weight:600;\">Автор: </"
+#~ "span><span style=\" font-family:'Bitstream Vera Sans'; font-size:10pt;"
+#~ "\">Сидоров Алексей</span></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Bitstream Vera Sans'; font-size:10pt; font-weight:600;"
+#~ "\">Контакты: </span><a href=\"mailto::sauron@citadelspb.com\"><span style="
+#~ "\" font-family:'Bitstream Vera Sans'; font-size:10pt; text-decoration: "
+#~ "underline; color:#0000ff;\">sauron@citadeslpb.com</span></a></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Droid Serif'; font-size:10pt;\"><br /></span></p>\n"
+#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+#~ "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+#~ "style=\" font-family:'Droid Serif'; font-size:10pt;\">2008-2011</span></"
+#~ "p></body></html>"
+
+#~ msgctxt "plugmanSettings|"
+#~ msgid "Name"
+#~ msgstr "Имя"
+
+#~ msgctxt "plugmanSettings|"
+#~ msgid "Description"
+#~ msgstr "Описание"
+
+#~ msgctxt "plugmanSettings|"
+#~ msgid "Url"
+#~ msgstr "Url"

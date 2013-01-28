@@ -11,11 +11,13 @@ msgstr ""
 "PO-Revision-Date: 2012-12-10 00:02+0000\n"
 "Last-Translator: Victor Roman <eInvrom@Gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-12-11 05:16+0000\n"
 "X-Generator: Launchpad (build 16356)\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/yandexnarod/src/yandexnarod.cpp:58
 msgctxt "Author|"
@@ -50,32 +52,32 @@ msgctxt "Yandex|"
 msgid "Yandex Narod"
 msgstr "Yandex Narod"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:99
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:100
 msgctxt "YandexNarodAuthorizator|"
 msgid "Has no login or password"
 msgstr "Falta usuario o contraseña"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:108
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:109
 msgctxt "YandexNarodAuthorizator|"
 msgid "Authorization succeed"
 msgstr "Autorización exitosa"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:112
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:113
 msgctxt "YandexNarodAuthorizator|"
 msgid "Authorization failured"
 msgstr "Error en autorización"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:177
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:179
 msgctxt "YandexNarodAuthorizator|"
 msgid "Unsupported grant type. Inform developers."
 msgstr "Tipo de beca no compatible. Informar a los desarrolladores."
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:179
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:181
 msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid request. Inform developers."
 msgstr "Solicitud no válida. Informe a los desarrolladores."
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:181
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:183
 msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid login or/and password"
 msgstr "Usuario y/o contraseña invalido"
@@ -161,23 +163,23 @@ msgctxt "YandexNarodSettingsClass|"
 msgid "Manage files"
 msgstr "Administrar archivos"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:136
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:137
 msgctxt "YandexNarodUploadJob|"
 msgid "Authorizing..."
 msgstr "Autorizando..."
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:159
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:160
 msgctxt "YandexNarodUploadJob|"
 msgid "Getting storage..."
 msgstr "Obteniendo almacenaje..."
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:223
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:236
 #, qt-format
 msgctxt "YandexNarodUploadJob|"
 msgid "Could not open file %1"
 msgstr "No se pudo abrir el archivo %1"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:347
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:360
 msgctxt "YandexNarodUploadJob|Don't remove format arguments"
 msgid ""
 "File sent: %N (%S bytes)\n"

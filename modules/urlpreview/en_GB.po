@@ -48,23 +48,23 @@ msgctxt "UrlPreview::UrlHandler|"
 msgid "Something went wrong."
 msgstr "Something went wrong."
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:241
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:240
 msgctxt "UrlPreview::UrlHandler|"
 msgid "YouTube video"
 msgstr "YouTube video"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:244
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:277
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:243
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:273
 msgctxt "UrlPreview::UrlHandler|"
 msgid "Unknown"
 msgstr "Unknown"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:254
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:250
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Audio"
 msgstr "HTML5 Audio"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:268
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:264
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Video"
 msgstr "HTML5 Video"

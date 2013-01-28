@@ -20,27 +20,27 @@ msgctxt "Control::AutoReplyButton|"
 msgid "Bin lookup"
 msgstr ""
 
-#: ../../../plugins/control/src/networkmanager.cpp:196
+#: ../../../plugins/control/src/networkmanager.cpp:198
 #, qt-format
 msgctxt "Control::NetworkManager|"
 msgid "Put local certificate at \"%1\""
 msgstr ""
 
-#: ../../../plugins/control/src/networkmanager.cpp:197
+#: ../../../plugins/control/src/networkmanager.cpp:199
 #, qt-format
 msgctxt "Control::NetworkManager|"
 msgid "Put server's certificate at \"%1\""
 msgstr ""
 
-#: ../../../plugins/control/src/networkmanager.cpp:214
-#: ../../../plugins/control/src/networkmanager.cpp:382
-#: ../../../plugins/control/src/networkmanager.cpp:412
-#: ../../../plugins/control/src/networkmanager.cpp:426
+#: ../../../plugins/control/src/networkmanager.cpp:216
+#: ../../../plugins/control/src/networkmanager.cpp:394
+#: ../../../plugins/control/src/networkmanager.cpp:424
+#: ../../../plugins/control/src/networkmanager.cpp:438
 msgctxt "Control::NetworkManager|"
 msgid "Control plugin"
 msgstr ""
 
-#: ../../../plugins/control/src/networkmanager.cpp:383
+#: ../../../plugins/control/src/networkmanager.cpp:395
 #, qt-format
 msgctxt "Control::NetworkManager|"
 msgid ""
@@ -48,7 +48,7 @@ msgid ""
 "%2"
 msgstr ""
 
-#: ../../../plugins/control/src/networkmanager.cpp:413
+#: ../../../plugins/control/src/networkmanager.cpp:425
 #, qt-format
 msgctxt "Control::NetworkManager|"
 msgid ""
@@ -56,7 +56,7 @@ msgid ""
 "%1"
 msgstr ""
 
-#: ../../../plugins/control/src/networkmanager.cpp:427
+#: ../../../plugins/control/src/networkmanager.cpp:439
 msgctxt "Control::NetworkManager|"
 msgid "Invalid login or/and password. Please set right one in settings"
 msgstr ""
@@ -129,12 +129,14 @@ msgctxt "Control::SettingsWidget|"
 msgid "Add answer"
 msgstr ""
 
+#: ../../../plugins/control/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/control/src/controlplugin.cpp:40
 #: ../../../plugins/control/src/rostermanager.cpp:91
 msgctxt "Plugin|"
 msgid "Control"
 msgstr ""
 
+#: ../../../plugins/control/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/control/src/controlplugin.cpp:41
 msgctxt "Plugin|"
 msgid "Controls user by sending messages and roster to remote server"

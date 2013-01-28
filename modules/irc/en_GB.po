@@ -67,6 +67,11 @@ msgstr "Protected by password"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:154
 msgctxt "AddAccountForm|"
+msgid "Accept invalid ssl certificate"
+msgstr ""
+
+#: ../../../protocols/irc/src/ui/addaccountform.ui:161
+msgctxt "AddAccountForm|"
 msgid "Secure Connection (SSL)"
 msgstr "Secure Connection (SSL)"
 
@@ -826,35 +831,35 @@ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "You have been marked as being away"
 msgstr "You have been marked as being away"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:434
+#: ../../../protocols/irc/src/ircconnection.cpp:435
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Add at least one server before connecting"
 msgstr "Add at least one server before connecting"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:436
+#: ../../../protocols/irc/src/ircconnection.cpp:437
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Set at least one nick before connecting"
 msgstr "Set at least one nick before connecting"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:438
+#: ../../../protocols/irc/src/ircconnection.cpp:439
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Cannot connect to %1 network"
 msgstr "Cannot connect to %1 network"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:630
+#: ../../../protocols/irc/src/ircconnection.cpp:636
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Network error: %1"
 msgstr "Network error: %1"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:646
+#: ../../../protocols/irc/src/ircconnection.cpp:652
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "SSL error: %1"
 msgstr "SSL error: %1"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:652
+#: ../../../protocols/irc/src/ircconnection.cpp:658
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "SSL handshake completed"
 msgstr "SSL handshake completed"

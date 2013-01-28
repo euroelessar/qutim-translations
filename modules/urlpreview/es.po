@@ -11,13 +11,13 @@ msgstr ""
 "PO-Revision-Date: 2012-08-07 00:23+0000\n"
 "Last-Translator: Carlos Vives <mail@carlosvives.es>\n"
 "Language-Team: \n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
 "X-Generator: Launchpad (build 15745)\n"
 "X-Qt-Contexts: true\n"
-"Language: es\n"
 
 #: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:41
@@ -50,23 +50,23 @@ msgctxt "UrlPreview::UrlHandler|"
 msgid "Something went wrong."
 msgstr "Algo malo ha ocurrido."
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:241
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:240
 msgctxt "UrlPreview::UrlHandler|"
 msgid "YouTube video"
 msgstr "Vídeo de YouTube"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:244
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:277
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:243
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:273
 msgctxt "UrlPreview::UrlHandler|"
 msgid "Unknown"
 msgstr "Desconocido"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:254
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:250
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Audio"
 msgstr "Audio HTML5"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:268
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:264
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Video"
 msgstr "Vídeo HTML5"

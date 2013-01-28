@@ -153,8 +153,8 @@ msgid "Unknown OTR Message Type"
 msgstr ""
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:159
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:675
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:709
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:676
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:710
 msgctxt "OtrInternal|"
 msgid "qutim-otr"
 msgstr "OTR в qutIM"
@@ -176,12 +176,12 @@ msgctxt "OtrInternal|"
 msgid "%1 has ended the OTR session. You should do the same."
 msgstr "%1 прекрати OTR сесията. И вие трябва да го направите."
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:226
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:227
 msgctxt "OtrInternal|"
 msgid "Auth"
 msgstr "Удостоверяване"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:226
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:227
 #, qt-format
 msgctxt "OtrInternal|"
 msgid ""
@@ -190,18 +190,18 @@ msgstr ""
 "Моля, отговорете на следния въпрос за да получите удостоверение от %1."
 "<br>Въпрос: <b>%2</b>"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:241
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:242
 msgctxt "OtrInternal|"
 msgid "Authorysing"
 msgstr "Удостоверяване"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:241
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:242
 #, qt-format
 msgctxt "OtrInternal|"
 msgid "Please, enter passphrase to authorise %1"
 msgstr "Моля, въведете фраза, за да дадете удостоверение на %1"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:264
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:265
 msgctxt "OtrInternal|"
 msgid ""
 "Your buddy has successfully authenticated you. The conversation is now "
@@ -209,7 +209,7 @@ msgid ""
 msgstr ""
 "Вашият приятел успешно ви даде удостоверение. Сега разговорът е защитен!"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:268
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:269
 msgctxt "OtrInternal|"
 msgid ""
 "Your buddy has successfully authenticated you. You may want to authenticate "
@@ -218,22 +218,22 @@ msgstr ""
 "Вашият приятел успешно ви даде удостоверение.  Вероятно бихте искали и вие "
 "да го/я удостоверите чрез задаване на ваш собствен въпрос."
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:282
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:283
 msgctxt "OtrInternal|"
 msgid "Authentication successful. The conversation is now secure!"
 msgstr "Успешно удостоверение. Сега разговорът е защитен!"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:285
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:286
 msgctxt "OtrInternal|"
 msgid "Authentication failed. The conversation is now insecure!"
 msgstr "Неуспешно удостоверение. Разговорът не е защитен!"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:294
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:295
 msgctxt "OtrInternal|"
 msgid "Authentication error!"
 msgstr "Грешка при удостоверяване!"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:309
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:310
 #, qt-format
 msgctxt "OtrInternal|"
 msgid ""
@@ -243,7 +243,7 @@ msgstr ""
 "получи %1 \n"
 "състоянието на OTR сега е [%2]"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:313
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:314
 msgctxt "OtrInternal|"
 msgid ""
 "\n"
@@ -252,32 +252,32 @@ msgstr ""
 "\n"
 "id на сесията: "
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:581
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:582
 msgctxt "OtrInternal|"
 msgid "not private"
 msgstr "не е частен"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:591
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:592
 msgctxt "OtrInternal|"
 msgid "private"
 msgstr "частен"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:593
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:594
 msgctxt "OtrInternal|"
 msgid "unverifed"
 msgstr "непроверен"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:597
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:598
 msgctxt "OtrInternal|"
 msgid "finished"
 msgstr "приключил"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:600
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:601
 msgctxt "OtrInternal|"
 msgid "unknown"
 msgstr "неизвестен"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:676
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:677
 #, qt-format
 msgctxt "OtrInternal|"
 msgid ""
@@ -290,12 +290,12 @@ msgstr ""
 "Моля, движете мишката и ползвайте клавиатурата, за да намалите времето за "
 "генериране."
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:680
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:681
 msgctxt "OtrInternal|"
 msgid "please wait..."
 msgstr "моля изчакайте…"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:710
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:711
 #, qt-format
 msgctxt "OtrInternal|"
 msgid ""
@@ -305,13 +305,13 @@ msgstr ""
 "Неуспех при генерирането на ключове за сметка %1\n"
 "OTR добавката няма да работи."
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:717
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:718
 #, qt-format
 msgctxt "OtrInternal|"
 msgid "The fingerprint for account %1 is\n"
 msgstr "Отпечатъка за сметка %1 е\n"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:841
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:843
 #, qt-format
 msgctxt "OtrInternal|"
 msgid ""
@@ -321,12 +321,12 @@ msgstr ""
 "Сметката %1 получи нов отпечатък от %2 :\n"
 " %3"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:855
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:860
 msgctxt "OtrInternal|"
 msgid "Authentication aborded. The conversation is now insecure!"
 msgstr "Удостоверяването прекратено. Разговорът не е защитен!"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:868
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:873
 msgctxt "OtrInternal|"
 msgid "Authenticating contact..."
 msgstr "Удостоверяване на контакта..."

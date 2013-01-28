@@ -18,7 +18,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-12-19 05:35+0000\n"
 "X-Generator: Launchpad (build 16378)\n"
 "X-Qt-Contexts: true\n"
-"Language: be\n"
 
 #: ../../../plugins/awn/src/awnservice.cpp:282
 msgctxt "AWNService|"

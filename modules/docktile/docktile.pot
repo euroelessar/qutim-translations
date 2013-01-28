@@ -100,15 +100,21 @@ msgctxt "MainWindow|"
 msgid "Let's check it."
 msgstr ""
 
-#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.cpp:58
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.cpp:60
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Action %1 triggered"
 msgstr ""
 
+#: ../../../plugins/docktile/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/docktile/src/dockplugin.cpp:10
 msgctxt "Plugin|"
 msgid "DockTile"
+msgstr ""
+
+#: ../../../plugins/docktile/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Dock integration"
 msgstr ""
 
 #: ../../../plugins/docktile/src/dockplugin.cpp:11

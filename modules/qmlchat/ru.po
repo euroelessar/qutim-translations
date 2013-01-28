@@ -76,27 +76,27 @@ msgctxt "Settings|"
 msgid "Chat"
 msgstr "Чат"
 
-#: ../../../plugins/qmlchat/qmlchat/default/main.qml:177
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:180
 msgctxt "main|"
 msgid "is active"
 msgstr "тут"
 
-#: ../../../plugins/qmlchat/qmlchat/default/main.qml:179
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:182
 msgctxt "main|"
 msgid "is inactive"
 msgstr "неактивен"
 
-#: ../../../plugins/qmlchat/qmlchat/default/main.qml:181
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:184
 msgctxt "main|"
 msgid "is gone"
 msgstr "отошёл"
 
-#: ../../../plugins/qmlchat/qmlchat/default/main.qml:183
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:186
 msgctxt "main|"
 msgid "is composing"
 msgstr "печатает"
 
-#: ../../../plugins/qmlchat/qmlchat/default/main.qml:185
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:188
 msgctxt "main|"
 msgid "is paused"
 msgstr "прекратил печатать"

@@ -11,13 +11,13 @@ msgstr ""
 "PO-Revision-Date: 2012-12-20 12:55+0000\n"
 "Last-Translator: Christopher <Unknown>\n"
 "Language-Team: \n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-12-21 05:15+0000\n"
 "X-Generator: Launchpad (build 16378)\n"
 "X-Qt-Contexts: true\n"
-"Language: es\n"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -543,22 +543,22 @@ msgctxt "ContactList|"
 msgid "Please, authorize me"
 msgstr "Por favor, autorízame"
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:378
+#: ../../../protocols/oscar/src/icqcontact.cpp:379
 msgctxt "ContactList|"
 msgid "Online time"
 msgstr "Conectado hace"
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:385
+#: ../../../protocols/oscar/src/icqcontact.cpp:386
 msgctxt "ContactList|"
 msgid "Signed on"
 msgstr "Se ha conectado"
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:390
+#: ../../../protocols/oscar/src/icqcontact.cpp:391
 msgctxt "ContactList|"
 msgid "Away since"
 msgstr "Ausente hace"
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:395
+#: ../../../protocols/oscar/src/icqcontact.cpp:396
 msgctxt "ContactList|"
 msgid "Reg. date"
 msgstr "Fecha de registro"
@@ -1838,45 +1838,45 @@ msgctxt "Country|"
 msgid "Zimbabwe"
 msgstr "Zimbabue"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:175
+#: ../../../protocols/oscar/src/feedbag.cpp:178
 msgctxt "FeedbagError|"
 msgid "No error"
 msgstr "Sin errores"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:177
+#: ../../../protocols/oscar/src/feedbag.cpp:180
 msgctxt "FeedbagError|"
 msgid "Item you want to modify not found in list"
 msgstr "El ítem que intentas modificar no se ha encontrado en la lista"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:179
+#: ../../../protocols/oscar/src/feedbag.cpp:182
 msgctxt "FeedbagError|"
 msgid "Item you want to add allready exists"
 msgstr "El ítem que intentas añadir ya existe"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:181
+#: ../../../protocols/oscar/src/feedbag.cpp:184
 msgctxt "FeedbagError|"
 msgid "Error adding item (invalid id, allready in list, invalid data)"
 msgstr ""
 "Error al añadir el ítem. Puede que ya exista o que los datos sean erróneos."
 
-#: ../../../protocols/oscar/src/feedbag.cpp:183
+#: ../../../protocols/oscar/src/feedbag.cpp:186
 msgctxt "FeedbagError|"
 msgid "Can't add item. Limit for this type of items exceeded"
 msgstr ""
 "No se pudo añadir el ítem: se ha superado el número de ítems de este tipo "
 "permitidos"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:185
+#: ../../../protocols/oscar/src/feedbag.cpp:188
 msgctxt "FeedbagError|"
 msgid "Trying to add ICQ contact to an AIM list"
 msgstr ""
 
-#: ../../../protocols/oscar/src/feedbag.cpp:187
+#: ../../../protocols/oscar/src/feedbag.cpp:190
 msgctxt "FeedbagError|"
 msgid "Can't add this contact because it requires authorization"
 msgstr "No se pudo añadir este contacto: se necesita autorización"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:189
+#: ../../../protocols/oscar/src/feedbag.cpp:192
 #, qt-format
 msgctxt "FeedbagError|"
 msgid "Unknown error (Code: %1)"
@@ -3100,33 +3100,33 @@ msgid "Other"
 msgstr "Otros"
 
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:1
-msgctxt "Plugin|"
-msgid "Oscar protocol"
-msgstr "Protocolo Oscar"
-
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:2
-#: ../../../protocols/oscar/src/oscarplugin.cpp:54
-msgctxt "Plugin|"
-msgid "Module-based implementation of Oscar protocol"
-msgstr "Implementación modular del protocolo Oscar"
-
-#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:3
-#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
 msgid "Client identification of oscar contacts"
 msgstr "Identificación de cliente de los contactos Oscar"
 
-#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:5
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:3
 msgctxt "Plugin|"
 msgid "Oscar additional statuses"
 msgstr "Estados adicionales de Oscar"
 
-#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:6
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:4
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:213
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:222
 msgctxt "Plugin|"
 msgid "Additional statuses for oscar protocol"
 msgstr "Estados adicionales del protocolo Oscar"
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:5
+msgctxt "Plugin|"
+msgid "Oscar protocol"
+msgstr "Protocolo Oscar"
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:6
+#: ../../../protocols/oscar/src/oscarplugin.cpp:54
+msgctxt "Plugin|"
+msgid "Module-based implementation of Oscar protocol"
+msgstr "Implementación modular del protocolo Oscar"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:48
 msgctxt "Plugin|"

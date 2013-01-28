@@ -11,11 +11,19 @@ msgstr ""
 "PO-Revision-Date: 2012-10-25 22:00+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-10-26 05:25+0000\n"
 "X-Generator: Launchpad (build 16194)\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../../plugins/autoreply/src/autoreplyplugin.cpp:36
+#, fuzzy
+msgctxt "AutoReply|"
+msgid "Auto reply"
+msgstr "Автовідповідь"
 
 #: ../../../plugins/autoreply/src/autoreplydialog.ui:14
 msgctxt "AutoReplyDialog|"
@@ -32,27 +40,40 @@ msgctxt "AutoReplySettingsWidget|"
 msgid "Enable autoreply by idle"
 msgstr "Включити автовідповідач при простої"
 
-#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:35
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:38
 msgctxt "AutoReplySettingsWidget|"
 msgid "Idle timeout:"
 msgstr "Час очікування:"
 
-#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:87
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:48
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:62
+msgctxt "AutoReplySettingsWidget|"
+msgid "hh:mm:ss"
+msgstr ""
+
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:55
+msgctxt "AutoReplySettingsWidget|"
+msgid "Delta time between messages:"
+msgstr ""
+
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:107
 msgctxt "AutoReplySettingsWidget|"
 msgid "Add answer"
 msgstr "Додати відповідь"
 
-#: ../../../plugins/autoreply/src/autoreplysettingswidget.cpp:18
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.cpp:19
 msgctxt "AutoReplyTextLine|"
 msgid "Remove"
 msgstr "Вилучити"
 
-#: ../../../plugins/autoreply/src/autoreplyplugin.cpp:18
+#: ../../../plugins/autoreply/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/autoreply/src/autoreplyplugin.cpp:19
 msgctxt "Plugin|"
 msgid "Autoreply"
 msgstr "Автовідповідь"
 
-#: ../../../plugins/autoreply/src/autoreplyplugin.cpp:19
+#: ../../../plugins/autoreply/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/autoreply/src/autoreplyplugin.cpp:20
 msgctxt "Plugin|"
 msgid "Plugin allows autoreplying messages during idle state"
 msgstr "Плагін дозволяє надсилати автовідповідідь коли ви відійшли"

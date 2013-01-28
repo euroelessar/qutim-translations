@@ -70,13 +70,13 @@ msgstr "Symbian"
 
 #: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
-msgid "Symbian specific qutIM contactlist widget implementation"
-msgstr "Реалізація списку контактів специфічна для сімбіан"
+msgid "Stacked chatform for S60 devices"
+msgstr "Мобільний вигляд чату для пристроїв під S60"
 
 #: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
-msgid "Stacked chatform for S60 devices"
-msgstr "Мобільний вигляд чату для пристроїв під S60"
+msgid "Symbian specific qutIM contactlist widget implementation"
+msgstr "Реалізація списку контактів специфічна для сімбіан"
 
 #: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"

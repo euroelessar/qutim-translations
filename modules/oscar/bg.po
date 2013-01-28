@@ -537,22 +537,22 @@ msgctxt "ContactList|"
 msgid "Please, authorize me"
 msgstr "Моля за удостоверение"
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:378
+#: ../../../protocols/oscar/src/icqcontact.cpp:379
 msgctxt "ContactList|"
 msgid "Online time"
 msgstr "Време на линия"
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:385
+#: ../../../protocols/oscar/src/icqcontact.cpp:386
 msgctxt "ContactList|"
 msgid "Signed on"
 msgstr "Влизане в"
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:390
+#: ../../../protocols/oscar/src/icqcontact.cpp:391
 msgctxt "ContactList|"
 msgid "Away since"
 msgstr "Отсъства от"
 
-#: ../../../protocols/oscar/src/icqcontact.cpp:395
+#: ../../../protocols/oscar/src/icqcontact.cpp:396
 msgctxt "ContactList|"
 msgid "Reg. date"
 msgstr "Регистрация от"
@@ -1832,46 +1832,46 @@ msgctxt "Country|"
 msgid "Zimbabwe"
 msgstr "Зимбабве"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:175
+#: ../../../protocols/oscar/src/feedbag.cpp:178
 msgctxt "FeedbagError|"
 msgid "No error"
 msgstr "Без грешка"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:177
+#: ../../../protocols/oscar/src/feedbag.cpp:180
 msgctxt "FeedbagError|"
 msgid "Item you want to modify not found in list"
 msgstr "Записът, който се опитвате да редактирате не е открит в списъка"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:179
+#: ../../../protocols/oscar/src/feedbag.cpp:182
 msgctxt "FeedbagError|"
 msgid "Item you want to add allready exists"
 msgstr "Записът, който се опитвате да добавите вече съществува"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:181
+#: ../../../protocols/oscar/src/feedbag.cpp:184
 msgctxt "FeedbagError|"
 msgid "Error adding item (invalid id, allready in list, invalid data)"
 msgstr ""
 "Грешка при добавяне на записа (невалиден идентификатор, вече съществува в "
 "списъка, невалидни данни)"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:183
+#: ../../../protocols/oscar/src/feedbag.cpp:186
 msgctxt "FeedbagError|"
 msgid "Can't add item. Limit for this type of items exceeded"
 msgstr ""
 "Записът не може да бъде добавен. Надхвърлено е ограничението за този тип "
 "записи"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:185
+#: ../../../protocols/oscar/src/feedbag.cpp:188
 msgctxt "FeedbagError|"
 msgid "Trying to add ICQ contact to an AIM list"
 msgstr "Опит за добавяне на ICQ контакт към AIM списък"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:187
+#: ../../../protocols/oscar/src/feedbag.cpp:190
 msgctxt "FeedbagError|"
 msgid "Can't add this contact because it requires authorization"
 msgstr "Контактът не може да бъде добавен, тъй като изисква удостоверение"
 
-#: ../../../protocols/oscar/src/feedbag.cpp:189
+#: ../../../protocols/oscar/src/feedbag.cpp:192
 #, qt-format
 msgctxt "FeedbagError|"
 msgid "Unknown error (Code: %1)"
@@ -3095,33 +3095,33 @@ msgid "Other"
 msgstr "Други"
 
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:1
-msgctxt "Plugin|"
-msgid "Oscar protocol"
-msgstr "Oscar протокол"
-
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:2
-#: ../../../protocols/oscar/src/oscarplugin.cpp:54
-msgctxt "Plugin|"
-msgid "Module-based implementation of Oscar protocol"
-msgstr "Модулна реализация на Oscar протокола"
-
-#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:3
-#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
 msgid "Client identification of oscar contacts"
 msgstr "Установяване на клиентите в Oscar протокола"
 
-#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:5
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:3
 msgctxt "Plugin|"
 msgid "Oscar additional statuses"
 msgstr "Допълнителни статуси в Oscar"
 
-#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:6
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:4
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:213
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:222
 msgctxt "Plugin|"
 msgid "Additional statuses for oscar protocol"
 msgstr "Допълнителни статуси за Oscar протокола"
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:5
+msgctxt "Plugin|"
+msgid "Oscar protocol"
+msgstr "Oscar протокол"
+
+#: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:6
+#: ../../../protocols/oscar/src/oscarplugin.cpp:54
+msgctxt "Plugin|"
+msgid "Module-based implementation of Oscar protocol"
+msgstr "Модулна реализация на Oscar протокола"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:48
 msgctxt "Plugin|"

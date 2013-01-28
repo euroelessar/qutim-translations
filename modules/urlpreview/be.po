@@ -18,7 +18,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-12-21 05:15+0000\n"
 "X-Generator: Launchpad (build 16378)\n"
 "X-Qt-Contexts: true\n"
-"Language: be\n"
 
 #: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:41
@@ -49,23 +48,23 @@ msgctxt "UrlPreview::UrlHandler|"
 msgid "Something went wrong."
 msgstr "Штосьці пашло не так."
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:241
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:240
 msgctxt "UrlPreview::UrlHandler|"
 msgid "YouTube video"
 msgstr "Відеа з  YouTube"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:244
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:277
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:243
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:273
 msgctxt "UrlPreview::UrlHandler|"
 msgid "Unknown"
 msgstr "Невядома"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:254
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:250
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Audio"
 msgstr "Аўдыё HTML5"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:268
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:264
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Video"
 msgstr "Відеа HTML5"

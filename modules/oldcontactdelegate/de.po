@@ -26,32 +26,32 @@ msgctxt "ContactList|"
 msgid "qutIM 0.2 style"
 msgstr "qutIM 0.2"
 
-#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:40
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:41
 msgctxt "ContactList|"
 msgid "Default (depends on platform)"
 msgstr "Standard (Systemeinstellungen)"
 
-#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:41
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:42
 msgctxt "ContactList|"
 msgid "Small (16x16)"
 msgstr "Klein (16x16)"
 
-#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:42
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:43
 msgctxt "ContactList|"
 msgid "Medium (22x22)"
 msgstr "Normal (22x22)"
 
-#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:43
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:44
 msgctxt "ContactList|"
 msgid "Large (32x32)"
 msgstr "Groß (32x32)"
 
-#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:44
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:45
 msgctxt "ContactList|"
 msgid "Very large (48x48)"
 msgstr "Sehr groß (48x48)"
 
-#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:45
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:46
 msgctxt "ContactList|"
 msgid "Huge (64x64)"
 msgstr "Riesig (64x64)"

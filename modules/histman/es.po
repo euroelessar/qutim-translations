@@ -11,6 +11,7 @@ msgstr ""
 "PO-Revision-Date: 2012-08-07 00:22+0000\n"
 "Last-Translator: Carlos Vives <mail@carlosvives.es>\n"
 "Language-Team: \n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,7 +19,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
 "X-Generator: Launchpad (build 15745)\n"
 "X-Qt-Contexts: true\n"
-"Language: es\n"
 
 #: ../../../plugins/histman/src/chooseclientpage.ui:14
 msgctxt "ChooseClientPage|"
@@ -101,12 +101,12 @@ msgctxt "DumpHistoryPage|"
 msgid "Dumping history state:"
 msgstr "Volcando estado del historial:"
 
-#: ../../../plugins/histman/src/chooseclientpage.cpp:55
+#: ../../../plugins/histman/src/chooseclientpage.cpp:56
 msgctxt "HistoryManager::ChooseClientPage|"
 msgid "Client"
 msgstr "Cliente"
 
-#: ../../../plugins/histman/src/chooseclientpage.cpp:56
+#: ../../../plugins/histman/src/chooseclientpage.cpp:57
 msgctxt "HistoryManager::ChooseClientPage|"
 msgid "Choose client which history you want to import to qutIM."
 msgstr "Elige el cliente desde el que deseas importar el historial."
@@ -165,8 +165,7 @@ msgstr "Volcando"
 #: ../../../plugins/histman/src/dumphistorypage.cpp:102
 msgctxt "HistoryManager::DumpHistoryPage|"
 msgid "Last step. Click 'Dump' to start dumping process."
-msgstr ""
-"Último paso. Haz clic en 'Volcar' para empezar el proceso de volcado."
+msgstr "Último paso. Haz clic en 'Volcar' para empezar el proceso de volcado."
 
 #: ../../../plugins/histman/src/dumphistorypage.cpp:118
 msgctxt "HistoryManager::DumpHistoryPage|"

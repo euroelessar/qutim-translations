@@ -17,54 +17,28 @@ msgstr ""
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
 
-#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:113
-msgctxt "Core::SimpleContactList::SevenWidget|"
-msgid "Status"
-msgstr "Stav"
-
-#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:121
-msgctxt "Core::SimpleContactList::SevenWidget|"
-msgid "Search contact"
-msgstr "Hledat kontakt"
-
-#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:149
-#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:327
-msgctxt "Core::SimpleContactList::SevenWidget|"
-msgid "Set Status Text"
-msgstr "Nastavit text stavu"
-
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Windows Integration: Taskbar"
+msgstr ""
+
+#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Adds count of unread messages as an icon to taskbar button of qutIM."
+msgstr ""
+
+#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:3
 #: ../../../plugins/winintegration/src/winint.cpp:64
 #: ../../../plugins/winintegration/src/winint.cpp:77
 msgctxt "Plugin|"
 msgid "Windows Integration"
 msgstr ""
 
-#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
 msgid ""
 "Adds count of unread messages as an icon to taskbar button of qutim, along "
 "with some commands list."
-msgstr ""
-
-#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:3
-msgctxt "Plugin|"
-msgid "Windows Integration: Taskbar"
-msgstr ""
-
-#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:4
-msgctxt "Plugin|"
-msgid "Adds count of unread messages as an icon to taskbar button of qutIM."
-msgstr ""
-
-#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:5
-msgctxt "Plugin|"
-msgid "Seven"
-msgstr ""
-
-#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:6
-msgctxt "Plugin|"
-msgid "Windows seven specific implementation with button's in caption"
 msgstr ""
 
 #: ../../../plugins/winintegration/src/winint.cpp:65
@@ -161,3 +135,15 @@ msgstr "Poslední od:"
 msgctxt "WThumbnailsProvider|"
 msgid "You have no new messages."
 msgstr "Nemáte nové zprávy."
+
+#~ msgctxt "Core::SimpleContactList::SevenWidget|"
+#~ msgid "Status"
+#~ msgstr "Stav"
+
+#~ msgctxt "Core::SimpleContactList::SevenWidget|"
+#~ msgid "Search contact"
+#~ msgstr "Hledat kontakt"
+
+#~ msgctxt "Core::SimpleContactList::SevenWidget|"
+#~ msgid "Set Status Text"
+#~ msgstr "Nastavit text stavu"

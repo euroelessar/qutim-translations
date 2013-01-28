@@ -5,6 +5,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 
+#: ../../../plugins/autoreply/src/autoreplyplugin.cpp:36
+msgctxt "AutoReply|"
+msgid "Auto reply"
+msgstr ""
+
 #: ../../../plugins/autoreply/src/autoreplydialog.ui:14
 msgctxt "AutoReplyDialog|"
 msgid "Dialog"
@@ -20,27 +25,40 @@ msgctxt "AutoReplySettingsWidget|"
 msgid "Enable autoreply by idle"
 msgstr ""
 
-#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:35
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:38
 msgctxt "AutoReplySettingsWidget|"
 msgid "Idle timeout:"
 msgstr ""
 
-#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:87
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:48
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:62
+msgctxt "AutoReplySettingsWidget|"
+msgid "hh:mm:ss"
+msgstr ""
+
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:55
+msgctxt "AutoReplySettingsWidget|"
+msgid "Delta time between messages:"
+msgstr ""
+
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:107
 msgctxt "AutoReplySettingsWidget|"
 msgid "Add answer"
 msgstr ""
 
-#: ../../../plugins/autoreply/src/autoreplysettingswidget.cpp:18
+#: ../../../plugins/autoreply/src/autoreplysettingswidget.cpp:19
 msgctxt "AutoReplyTextLine|"
 msgid "Remove"
 msgstr ""
 
-#: ../../../plugins/autoreply/src/autoreplyplugin.cpp:18
+#: ../../../plugins/autoreply/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/autoreply/src/autoreplyplugin.cpp:19
 msgctxt "Plugin|"
 msgid "Autoreply"
 msgstr ""
 
-#: ../../../plugins/autoreply/src/autoreplyplugin.cpp:19
+#: ../../../plugins/autoreply/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/autoreply/src/autoreplyplugin.cpp:20
 msgctxt "Plugin|"
 msgid "Plugin allows autoreplying messages during idle state"
 msgstr ""

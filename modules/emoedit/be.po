@@ -18,7 +18,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-12-18 05:15+0000\n"
 "X-Generator: Launchpad (build 16372)\n"
 "X-Qt-Contexts: true\n"
-"Language: be\n"
 
 #: ../../../plugins/emoedit/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"

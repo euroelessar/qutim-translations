@@ -86,12 +86,12 @@ msgctxt "DumpHistoryPage|"
 msgid "Dumping history state:"
 msgstr ""
 
-#: ../../../plugins/histman/src/chooseclientpage.cpp:55
+#: ../../../plugins/histman/src/chooseclientpage.cpp:56
 msgctxt "HistoryManager::ChooseClientPage|"
 msgid "Client"
 msgstr ""
 
-#: ../../../plugins/histman/src/chooseclientpage.cpp:56
+#: ../../../plugins/histman/src/chooseclientpage.cpp:57
 msgctxt "HistoryManager::ChooseClientPage|"
 msgid "Choose client which history you want to import to qutIM."
 msgstr ""

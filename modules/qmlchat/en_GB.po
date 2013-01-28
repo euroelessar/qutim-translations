@@ -18,7 +18,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2012-09-20 04:58+0000\n"
 "X-Generator: Launchpad (build 15985)\n"
 "X-Qt-Contexts: true\n"
-"Language: en_GB\n"
 
 #: ../../../plugins/qmlchat/settings/chatappearance.cpp:54
 msgctxt "Core::AdiumChat::ChatAppearance|"
@@ -81,27 +80,27 @@ msgctxt "Settings|"
 msgid "Chat"
 msgstr "Chat"
 
-#: ../../../plugins/qmlchat/qmlchat/default/main.qml:177
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:180
 msgctxt "main|"
 msgid "is active"
 msgstr "is active"
 
-#: ../../../plugins/qmlchat/qmlchat/default/main.qml:179
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:182
 msgctxt "main|"
 msgid "is inactive"
 msgstr "is inactive"
 
-#: ../../../plugins/qmlchat/qmlchat/default/main.qml:181
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:184
 msgctxt "main|"
 msgid "is gone"
 msgstr "is gone"
 
-#: ../../../plugins/qmlchat/qmlchat/default/main.qml:183
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:186
 msgctxt "main|"
 msgid "is composing"
 msgstr "is composing"
 
-#: ../../../plugins/qmlchat/qmlchat/default/main.qml:185
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:188
 msgctxt "main|"
 msgid "is paused"
 msgstr "is paused"

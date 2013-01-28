@@ -56,7 +56,7 @@ msgctxt "KineticPopups::PopupAppearance|"
 msgid "Test again"
 msgstr "Otestovat znovu"
 
-#: ../../../plugins/kineticpopups/src/popupwidgets/quickpopupwidget.cpp:76
+#: ../../../plugins/kineticpopups/src/popupwidgets/quickpopupwidget.cpp:77
 msgctxt "KineticPopups::QuickNotify|"
 msgid "Notification from qutIM"
 msgstr "Oznámení z qutIMu"

@@ -63,6 +63,11 @@ msgstr "Защитен с парола"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:154
 msgctxt "AddAccountForm|"
+msgid "Accept invalid ssl certificate"
+msgstr ""
+
+#: ../../../protocols/irc/src/ui/addaccountform.ui:161
+msgctxt "AddAccountForm|"
 msgid "Secure Connection (SSL)"
 msgstr "Защитена връзка (SSL)"
 
@@ -822,35 +827,35 @@ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "You have been marked as being away"
 msgstr "Отбелязан(а) сте като отсъстващ(а)"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:434
+#: ../../../protocols/irc/src/ircconnection.cpp:435
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Add at least one server before connecting"
 msgstr "Добавeте поне един сървър преди да се свържете"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:436
+#: ../../../protocols/irc/src/ircconnection.cpp:437
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Set at least one nick before connecting"
 msgstr "Задайте поне един псевдоним преди да се свържете"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:438
+#: ../../../protocols/irc/src/ircconnection.cpp:439
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Cannot connect to %1 network"
 msgstr "Невъзможно е свързването към мрежата %1"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:630
+#: ../../../protocols/irc/src/ircconnection.cpp:636
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Network error: %1"
 msgstr "Мрежова грешка: %1"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:646
+#: ../../../protocols/irc/src/ircconnection.cpp:652
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "SSL error: %1"
 msgstr "SSL грешка: %1"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:652
+#: ../../../protocols/irc/src/ircconnection.cpp:658
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "SSL handshake completed"
 msgstr "SSL handshake приключи"

@@ -5,22 +5,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:69
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:71
 msgctxt "BearerManager|"
 msgid ""
 "Unable to find any network configuration. Perhaps Qt or QtMobility network "
 "bearer configured incorrectly. Bearer manager will not work properly, refer "
 "to your distribution maintainer."
-msgstr ""
-
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:93
-msgctxt "BearerManager|"
-msgid "Network is available!"
-msgstr ""
-
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:94
-msgctxt "BearerManager|"
-msgid "Network is unreachable!"
 msgstr ""
 
 #: ../../../plugins/mobility/src/vibrobackend/vibrobackend.cpp:53
@@ -40,32 +30,32 @@ msgstr ""
 
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
-msgid "Network bearer Manager"
+msgid "Multimedia engine"
 msgstr ""
 
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
-msgid "Used to monitor the availability of network."
+msgid "Sound engine based on QtMultimedia"
 msgstr ""
 
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:3
 msgctxt "Plugin|"
-msgid "Multimedia engine"
+msgid "Vibro engine"
 msgstr ""
 
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
-msgid "Sound engine based on QtMultimedia"
+msgid "Vibro engine based on QtFeedback"
 msgstr ""
 
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"
-msgid "Vibro engine"
+msgid "Network bearer Manager"
 msgstr ""
 
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:6
 msgctxt "Plugin|"
-msgid "Vibro engine based on QtFeedback"
+msgid "Used to monitor the availability of network."
 msgstr ""
 
 #: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:48
@@ -73,7 +63,7 @@ msgctxt "Service|"
 msgid "BearerManager"
 msgstr ""
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:62
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:64
 msgctxt "Settings|"
 msgid "Connection manager"
 msgstr ""

@@ -11,13 +11,13 @@ msgstr ""
 "PO-Revision-Date: 2012-08-07 00:23+0000\n"
 "Last-Translator: Carlos Vives <mail@carlosvives.es>\n"
 "Language-Team: \n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
 "X-Generator: Launchpad (build 15745)\n"
 "X-Qt-Contexts: true\n"
-"Language: es\n"
 
 #: ../../../plugins/symbianintegration/symbianchatform/stackedchatwidget.cpp:83
 msgctxt "ChatWidget|"
@@ -70,14 +70,14 @@ msgstr "Symbian"
 
 #: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
-msgid "Symbian specific qutIM contactlist widget implementation"
-msgstr ""
-"Implementación de la lista de contactos especialmente adaptada para Symbian"
+msgid "Stacked chatform for S60 devices"
+msgstr "Diálogo de conversación apilada para dispositivos S60"
 
 #: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
-msgid "Stacked chatform for S60 devices"
-msgstr "Diálogo de conversación apilada para dispositivos S60"
+msgid "Symbian specific qutIM contactlist widget implementation"
+msgstr ""
+"Implementación de la lista de contactos especialmente adaptada para Symbian"
 
 #: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"
@@ -87,8 +87,7 @@ msgstr "Soporte para vibración para Symbian"
 #: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:6
 msgctxt "Plugin|"
 msgid "Notifies about different events by vibration of your mobile device"
-msgstr ""
-"Te notifica de distintos eventos haciendo vibrar tu dispositivo móvil"
+msgstr "Te notifica de distintos eventos haciendo vibrar tu dispositivo móvil"
 
 #: ../../../plugins/symbianintegration/symbianchatform/stackedchatform.cpp:47
 msgctxt "Settings|"

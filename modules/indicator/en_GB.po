@@ -36,7 +36,9 @@ msgctxt "Plugin|"
 msgid "Ubuntu Indicator applet integration"
 msgstr "Ubuntu Indicator applet integration"
 
-#: ../../../plugins/indicator/src/indicatorservice.cpp:50
+#: ../../../plugins/indicator/src/indicatorservice.cpp:37
+#: ../../../plugins/indicator/src/indicatorservice.cpp:62
+#: ../../../plugins/indicator/src/indicatorservice.cpp:220
 msgctxt "Plugin|"
 msgid "Close qutIM"
 msgstr "Close qutIM"

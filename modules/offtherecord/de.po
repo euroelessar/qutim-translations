@@ -151,8 +151,8 @@ msgid "Unknown OTR Message Type"
 msgstr "Unbekannter OTR-Nachrichtentyp"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:159
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:675
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:709
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:676
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:710
 msgctxt "OtrInternal|"
 msgid "qutim-otr"
 msgstr "qutim-otr"
@@ -174,12 +174,12 @@ msgctxt "OtrInternal|"
 msgid "%1 has ended the OTR session. You should do the same."
 msgstr "%1 hat die OTR-Unterhaltung beendet. Du solltest das gleiche tun."
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:226
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:227
 msgctxt "OtrInternal|"
 msgid "Auth"
 msgstr "Auth"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:226
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:227
 #, qt-format
 msgctxt "OtrInternal|"
 msgid ""
@@ -188,18 +188,18 @@ msgstr ""
 "Bitte die Frage beantworten, um von %1 autorisiert zu werden. .<br>Frage: <b>"
 "%2</b>"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:241
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:242
 msgctxt "OtrInternal|"
 msgid "Authorysing"
 msgstr "Autorisieren"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:241
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:242
 #, qt-format
 msgctxt "OtrInternal|"
 msgid "Please, enter passphrase to authorise %1"
 msgstr "Bitte Passphrase eingeben, um %1 zu autorisieren"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:264
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:265
 msgctxt "OtrInternal|"
 msgid ""
 "Your buddy has successfully authenticated you. The conversation is now "
@@ -208,7 +208,7 @@ msgstr ""
 "Der Kontakt hat dich erfolgreich authentifiziert. Die Unterhaltung ist jetzt "
 "vertraulich!"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:268
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:269
 msgctxt "OtrInternal|"
 msgid ""
 "Your buddy has successfully authenticated you. You may want to authenticate "
@@ -217,22 +217,22 @@ msgstr ""
 "Der Kontakt hat dich erfolgreich authentifiziert. Du kannst ihn auch "
 "authentifizieren, indem Du ihm eine eigene Frage stellst."
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:282
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:283
 msgctxt "OtrInternal|"
 msgid "Authentication successful. The conversation is now secure!"
 msgstr "Authentifizierung erfolgreich. Die Unterhaltung ist jetzt vertraulich!"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:285
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:286
 msgctxt "OtrInternal|"
 msgid "Authentication failed. The conversation is now insecure!"
 msgstr "Authentifizierung fehlgeschlagen. Die Unterhaltung ist nicht sicher!"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:294
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:295
 msgctxt "OtrInternal|"
 msgid "Authentication error!"
 msgstr "Authentifizierungsfehler"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:309
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:310
 #, qt-format
 msgctxt "OtrInternal|"
 msgid ""
@@ -242,7 +242,7 @@ msgstr ""
 "%1 empfangen\n"
 "OTR Status ist jetzt [%2]"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:313
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:314
 msgctxt "OtrInternal|"
 msgid ""
 "\n"
@@ -251,32 +251,32 @@ msgstr ""
 "\n"
 "session Id: "
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:581
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:582
 msgctxt "OtrInternal|"
 msgid "not private"
 msgstr "nicht vertraulich"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:591
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:592
 msgctxt "OtrInternal|"
 msgid "private"
 msgstr "vertraulich"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:593
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:594
 msgctxt "OtrInternal|"
 msgid "unverifed"
 msgstr "unbestätigt"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:597
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:598
 msgctxt "OtrInternal|"
 msgid "finished"
 msgstr "abgeschlossen"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:600
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:601
 msgctxt "OtrInternal|"
 msgid "unknown"
 msgstr "unbekannt"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:676
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:677
 #, qt-format
 msgctxt "OtrInternal|"
 msgid ""
@@ -288,12 +288,12 @@ msgstr ""
 "Das kann etwas dauern.\n"
 "Bitte die Maus bewegen und die Tastatur betätigen, um die Zeit zu verkürzen."
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:680
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:681
 msgctxt "OtrInternal|"
 msgid "please wait..."
 msgstr "bitte warten..."
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:710
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:711
 #, qt-format
 msgctxt "OtrInternal|"
 msgid ""
@@ -303,13 +303,13 @@ msgstr ""
 "Berechnen des Schlüssels für das Konto %1 fehlgeschlagen\n"
 "Das OTR-Plugin wird nicht funktionieren."
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:717
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:718
 #, qt-format
 msgctxt "OtrInternal|"
 msgid "The fingerprint for account %1 is\n"
 msgstr "Der Fingerabdruck für das Konto %1 lautet\n"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:841
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:843
 #, qt-format
 msgctxt "OtrInternal|"
 msgid ""
@@ -319,12 +319,12 @@ msgstr ""
 "Das Konto %1 hat einen neuen Fingerabdruck von %2 empfangen:\n"
 " %3"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:855
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:860
 msgctxt "OtrInternal|"
 msgid "Authentication aborded. The conversation is now insecure!"
 msgstr "Authentifizierung abgebrochen. Die Unterhaltung ist nicht sicher!"
 
-#: ../../../plugins/offtherecord/src/otrinternal.cpp:868
+#: ../../../plugins/offtherecord/src/otrinternal.cpp:873
 msgctxt "OtrInternal|"
 msgid "Authenticating contact..."
 msgstr "Authentifizieren des Kontakts..."
