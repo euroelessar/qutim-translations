@@ -49,39 +49,39 @@ msgctxt "Yandex|"
 msgid "Yandex Narod"
 msgstr "Yandex Narod"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:100
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:90
 msgctxt "YandexNarodAuthorizator|"
 msgid "Has no login or password"
 msgstr "Hat keinen Login oder Passwort"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:109
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:99
 msgctxt "YandexNarodAuthorizator|"
 msgid "Authorization succeed"
 msgstr "Autorisierung erfolgreich"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:113
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:103
 msgctxt "YandexNarodAuthorizator|"
 msgid "Authorization failured"
 msgstr "Autorisierung fehlgeschlagen"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:179
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:135
 msgctxt "YandexNarodAuthorizator|"
 msgid "Unsupported grant type. Inform developers."
 msgstr ""
 "Die Art der Autorisierung wird nicht unterstützt. Bitte die Entwickler "
 "informieren."
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:181
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:137
 msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid request. Inform developers."
 msgstr "Ungültige Anfrage. Bitte die Entwickler informieren."
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:183
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:139
 msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid login or/and password"
 msgstr "Falscher Login oder/und Passwort"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:196
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:111
 msgctxt "YandexNarodFactory|"
 msgid "Yandex.Narod"
 msgstr "Yandex.Narod"
@@ -162,23 +162,39 @@ msgctxt "YandexNarodSettingsClass|"
 msgid "Manage files"
 msgstr "Dateien verwalten"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:137
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:55
 msgctxt "YandexNarodUploadJob|"
 msgid "Authorizing..."
 msgstr "Einloggen..."
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:160
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:76
+#, fuzzy
 msgctxt "YandexNarodUploadJob|"
-msgid "Getting storage..."
-msgstr "Hole Speicher..."
+msgid "Uploading file..."
+msgstr "Datei hochladen"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:236
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:82
 #, qt-format
 msgctxt "YandexNarodUploadJob|"
 msgid "Could not open file %1"
 msgstr "Konnte Datei %1 nicht öffnen"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:360
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:153
+msgctxt "YandexNarodUploadJob|"
+msgid "Not anough space on storage"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:158
+msgctxt "YandexNarodUploadJob|"
+msgid "File too large"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:172
+msgctxt "YandexNarodUploadJob|"
+msgid "Publishing file..."
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:187
 msgctxt "YandexNarodUploadJob|Don't remove format arguments"
 msgid ""
 "File sent: %N (%S bytes)\n"
@@ -256,3 +272,7 @@ msgstr "Dateiliste:"
 msgctxt "yandexnarodManageClass|"
 msgid "New Item"
 msgstr "Neues Objekt"
+
+#~ msgctxt "YandexNarodUploadJob|"
+#~ msgid "Getting storage..."
+#~ msgstr "Hole Speicher..."

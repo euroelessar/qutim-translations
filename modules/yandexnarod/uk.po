@@ -52,37 +52,37 @@ msgctxt "Yandex|"
 msgid "Yandex Narod"
 msgstr "Яндекс.Народ"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:100
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:90
 msgctxt "YandexNarodAuthorizator|"
 msgid "Has no login or password"
 msgstr "Відсутній логін або пароль"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:109
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:99
 msgctxt "YandexNarodAuthorizator|"
 msgid "Authorization succeed"
 msgstr "Успішна авторизація"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:113
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:103
 msgctxt "YandexNarodAuthorizator|"
 msgid "Authorization failured"
 msgstr "Помилка авторизації"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:179
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:135
 msgctxt "YandexNarodAuthorizator|"
 msgid "Unsupported grant type. Inform developers."
 msgstr "Тип авторизації не підтримується. Сповістіть про це розробників."
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:181
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:137
 msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid request. Inform developers."
 msgstr "Невірний запит. Повідомте про це розробників."
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:183
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:139
 msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid login or/and password"
 msgstr "Невірний логін або/і пароль"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:196
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:111
 msgctxt "YandexNarodFactory|"
 msgid "Yandex.Narod"
 msgstr "Яндекс.Народ"
@@ -163,23 +163,39 @@ msgctxt "YandexNarodSettingsClass|"
 msgid "Manage files"
 msgstr "Керування файлами"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:137
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:55
 msgctxt "YandexNarodUploadJob|"
 msgid "Authorizing..."
 msgstr "Авторизація..."
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:160
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:76
+#, fuzzy
 msgctxt "YandexNarodUploadJob|"
-msgid "Getting storage..."
-msgstr "Отримання даних файлосховища..."
+msgid "Uploading file..."
+msgstr "Завантажити файл"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:236
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:82
 #, qt-format
 msgctxt "YandexNarodUploadJob|"
 msgid "Could not open file %1"
 msgstr "Не вдалося відкрити файл %1"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:360
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:153
+msgctxt "YandexNarodUploadJob|"
+msgid "Not anough space on storage"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:158
+msgctxt "YandexNarodUploadJob|"
+msgid "File too large"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:172
+msgctxt "YandexNarodUploadJob|"
+msgid "Publishing file..."
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:187
 msgctxt "YandexNarodUploadJob|Don't remove format arguments"
 msgid ""
 "File sent: %N (%S bytes)\n"
@@ -255,3 +271,7 @@ msgstr "Список файлів:"
 msgctxt "yandexnarodManageClass|"
 msgid "New Item"
 msgstr "Новий елемент"
+
+#~ msgctxt "YandexNarodUploadJob|"
+#~ msgid "Getting storage..."
+#~ msgstr "Отримання даних файлосховища..."

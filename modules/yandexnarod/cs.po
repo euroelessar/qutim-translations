@@ -49,37 +49,37 @@ msgctxt "Yandex|"
 msgid "Yandex Narod"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:100
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:90
 msgctxt "YandexNarodAuthorizator|"
 msgid "Has no login or password"
 msgstr "Není zadáno přihlašovací jméno nebo heslo"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:109
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:99
 msgctxt "YandexNarodAuthorizator|"
 msgid "Authorization succeed"
 msgstr "Autorizace uspěla"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:113
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:103
 msgctxt "YandexNarodAuthorizator|"
 msgid "Authorization failured"
 msgstr "Autorizace selhala"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:179
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:135
 msgctxt "YandexNarodAuthorizator|"
 msgid "Unsupported grant type. Inform developers."
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:181
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:137
 msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid request. Inform developers."
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:183
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:139
 msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid login or/and password"
 msgstr "Neplatné příhlašovací jméno nebo heslo"
 
-#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:196
+#: ../../../plugins/yandexnarod/src/yandexnarod.cpp:111
 msgctxt "YandexNarodFactory|"
 msgid "Yandex.Narod"
 msgstr ""
@@ -150,23 +150,39 @@ msgctxt "YandexNarodSettingsClass|"
 msgid "Manage files"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:137
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:55
 msgctxt "YandexNarodUploadJob|"
 msgid "Authorizing..."
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:160
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:76
+#, fuzzy
 msgctxt "YandexNarodUploadJob|"
-msgid "Getting storage..."
-msgstr ""
+msgid "Uploading file..."
+msgstr "Nahrát soubor"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:236
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:82
 #, qt-format
 msgctxt "YandexNarodUploadJob|"
 msgid "Could not open file %1"
 msgstr "Nelze otevřít soubor %1"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:360
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:153
+msgctxt "YandexNarodUploadJob|"
+msgid "Not anough space on storage"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:158
+msgctxt "YandexNarodUploadJob|"
+msgid "File too large"
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:172
+msgctxt "YandexNarodUploadJob|"
+msgid "Publishing file..."
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:187
 msgctxt "YandexNarodUploadJob|Don't remove format arguments"
 msgid ""
 "File sent: %N (%S bytes)\n"

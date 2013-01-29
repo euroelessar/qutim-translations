@@ -2530,9 +2530,7 @@ msgctxt "Plugin|"
 msgid "Proxy settings"
 msgstr "Configuración del proxy"
 
-#: ../../../core/__data_from_cmakelists_txt.cpp:104
-#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:36
-#: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:43
+#: ../../../core/__data_from_cmakelists_txt.cpp:102
 msgctxt "Plugin|"
 msgid "Default implementation of proxy settings widget"
 msgstr "Implementación predeterminada de la configuración del proxy"

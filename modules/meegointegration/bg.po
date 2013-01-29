@@ -17,11 +17,6 @@ msgstr ""
 "X-Language: bg\n"
 "X-Source-Language: C\n"
 
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:66
-msgctxt "Account|"
-msgid "Just add or create new account"
-msgstr "Добавяне или създаване на нова сметка"
-
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:31
 msgctxt "AboutDialog|"
 msgid "Close"
@@ -61,6 +56,11 @@ msgstr "Лиценз"
 msgctxt "Account|"
 msgid "Add new account"
 msgstr "Добавяне на нова сметка"
+
+#: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:66
+msgctxt "Account|"
+msgid "Just add or create new account"
+msgstr "Добавяне или създаване на нова сметка"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:71
 msgctxt "Account|"

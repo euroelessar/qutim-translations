@@ -29,39 +29,39 @@ msgctxt "Plugin|"
 msgid "Preview images directly in the chat window"
 msgstr "Предварителен преглед на адреси директно в прозореца със съобщения"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:65
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:66
 msgctxt "UrlPreview::UrlHandler|"
 msgid "URL Preview"
 msgstr "Предварителен преглед на адреси"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:65
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:66
 msgctxt "UrlPreview::UrlHandler|"
 msgid "bytes"
 msgstr "Байта"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:74
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:76
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:75
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:77
 msgctxt "UrlPreview::UrlHandler|"
 msgid "Something went wrong."
 msgstr "Нещо се обърка."
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:240
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:136
 msgctxt "UrlPreview::UrlHandler|"
 msgid "YouTube video"
 msgstr "YouTube видео"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:243
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:273
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:139
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:240
 msgctxt "UrlPreview::UrlHandler|"
 msgid "Unknown"
 msgstr "Неизвестен"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:250
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:215
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Audio"
 msgstr "HTML5 звук"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:264
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:232
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Video"
 msgstr "HTML5 видео"

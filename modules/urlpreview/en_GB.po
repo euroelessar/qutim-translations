@@ -32,39 +32,39 @@ msgctxt "Plugin|"
 msgid "Preview images directly in the chat window"
 msgstr "Preview images directly in the chat window"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:65
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:66
 msgctxt "UrlPreview::UrlHandler|"
 msgid "URL Preview"
 msgstr "URL Preview"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:65
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:66
 msgctxt "UrlPreview::UrlHandler|"
 msgid "bytes"
 msgstr "bytes"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:74
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:76
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:75
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:77
 msgctxt "UrlPreview::UrlHandler|"
 msgid "Something went wrong."
 msgstr "Something went wrong."
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:240
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:136
 msgctxt "UrlPreview::UrlHandler|"
 msgid "YouTube video"
 msgstr "YouTube video"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:243
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:273
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:139
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:240
 msgctxt "UrlPreview::UrlHandler|"
 msgid "Unknown"
 msgstr "Unknown"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:250
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:215
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Audio"
 msgstr "HTML5 Audio"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:264
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:232
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Video"
 msgstr "HTML5 Video"
