@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-06-28 09:42+0000\n"
+"POT-Creation-Date: 2013-01-28 19:34+0000\n"
 "PO-Revision-Date: 2012-08-07 00:22+0000\n"
 "Last-Translator: Carlos Vives <mail@carlosvives.es>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
-"X-Generator: Launchpad (build 15745)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 "X-Qt-Contexts: true\n"
 "Language: es\n"
 
@@ -24,27 +24,32 @@ msgctxt "AutoAway|"
 msgid "Auto-away"
 msgstr "Auto-ausencia"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:117
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:103
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Search"
+msgstr ""
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:128
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Accounts"
 msgstr "Cuentas"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:118
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:129
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Chats"
 msgstr "Conversaciones"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:120
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:131
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Set Status Text"
 msgstr "Establecer mensaje de estado"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:267
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:281
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "File"
 msgstr "Archivo"
 
-#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:268
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:282
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Roster"
 msgstr "Lista de contactos"
@@ -77,25 +82,30 @@ msgctxt "MacIntegration::MacSpellSettings|"
 msgid "Language"
 msgstr "Idioma"
 
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macsearchfield.mm:58
+msgctxt "MacWidget|"
+msgid "Filter"
+msgstr ""
+
 #: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Growl notifications"
+msgstr "Notificaciones emergentes"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Default Mac Os X Notifications"
+msgstr "Notificaciones por defecto de Mac OS X"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:3
 msgctxt "Plugin|"
 msgid "Dock integration"
 msgstr "Integración con la bandeja del sistema"
 
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
 msgid "Mac OS X dock integration"
 msgstr "Integración con la bandeja de Mac OS X"
-
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:3
-msgctxt "Plugin|"
-msgid "SpellChecker"
-msgstr "Corrector ortográfico"
-
-#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:4
-msgctxt "Plugin|"
-msgid "Mac OS X spell checker"
-msgstr "Corrector ortográfico de Mac OS X"
 
 #: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"
@@ -119,13 +129,13 @@ msgstr "Lista de contactos de Mac OS X"
 
 #: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:9
 msgctxt "Plugin|"
-msgid "Growl notifications"
-msgstr "Notificaciones emergentes"
+msgid "SpellChecker"
+msgstr "Corrector ortográfico"
 
 #: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:10
 msgctxt "Plugin|"
-msgid "Default Mac Os X Notifications"
-msgstr "Notificaciones por defecto de Mac OS X"
+msgid "Mac OS X spell checker"
+msgstr "Corrector ortográfico de Mac OS X"
 
 #: ../../../plugins/macintegration/src/macspellchecker/macspellchecker.mm:21
 msgctxt "Settings|"

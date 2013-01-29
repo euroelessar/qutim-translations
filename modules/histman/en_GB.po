@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-06-28 09:42+0000\n"
+"POT-Creation-Date: 2013-01-28 19:33+0000\n"
 "PO-Revision-Date: 2012-07-25 08:41+0000\n"
 "Last-Translator: Vsevolod Velichko <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2012-07-26 05:20+0000\n"
-"X-Generator: Launchpad (build 15679)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:42+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 "X-Qt-Contexts: true\n"
 "Language: en_GB\n"
 
@@ -101,12 +101,12 @@ msgctxt "DumpHistoryPage|"
 msgid "Dumping history state:"
 msgstr "Dumping history state:"
 
-#: ../../../plugins/histman/src/chooseclientpage.cpp:55
+#: ../../../plugins/histman/src/chooseclientpage.cpp:56
 msgctxt "HistoryManager::ChooseClientPage|"
 msgid "Client"
 msgstr "Client"
 
-#: ../../../plugins/histman/src/chooseclientpage.cpp:56
+#: ../../../plugins/histman/src/chooseclientpage.cpp:57
 msgctxt "HistoryManager::ChooseClientPage|"
 msgid "Choose client which history you want to import to qutIM."
 msgstr "Choose client which history you want to import to qutIM."
@@ -242,13 +242,3 @@ msgstr ""
 msgctxt "Plugin|"
 msgid "Import history"
 msgstr "Import history"
-
-#~ msgctxt "HistoryManager::DumpHistoryPage|"
-#~ msgid "History has been succesfully imported."
-#~ msgstr "History has been succesfully imported."
-
-#~ msgctxt "HistoryManager::ImportHistoryPage|"
-#~ msgid "%n message(s) have been succesfully loaded to memory."
-#~ msgid_plural "%n message(s) have been succesfully loaded to memory."
-#~ msgstr[0] "%n message(s) have been succesfully loaded to memory."
-#~ msgstr[1] "%n message(s) have been succesfully loaded to memory."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-23 17:51+0000\n"
+"POT-Creation-Date: 2013-01-28 19:33+0000\n"
 "PO-Revision-Date: 2012-04-18 17:43+0000\n"
 "Last-Translator: DAG Software <Unknown>\n"
 "Language-Team: Slovak <sk@li.org>\n"
@@ -15,57 +15,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 1 : (n>=2 && n<=4) ? 2 : 0;\n"
-"X-Launchpad-Export-Date: 2012-04-19 05:01+0000\n"
-"X-Generator: Launchpad (build 15108)\n"
-
-#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:113
-msgctxt "Core::SimpleContactList::SevenWidget|"
-msgid "Status"
-msgstr "Status"
-
-#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:121
-msgctxt "Core::SimpleContactList::SevenWidget|"
-msgid "Search contact"
-msgstr "Hľadať kontakt"
-
-#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:149
-#: ../../../plugins/winintegration/subplugins/sevenlist/sevenwidget.cpp:327
-msgctxt "Core::SimpleContactList::SevenWidget|"
-msgid "Set Status Text"
-msgstr "Nastaviť text statusu"
+"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
+"X-Qt-Contexts: true\n"
+"Language: sk\n"
 
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Windows Integration: Taskbar"
+msgstr ""
+
+#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Adds count of unread messages as an icon to taskbar button of qutIM."
+msgstr ""
+
+#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:3
 #: ../../../plugins/winintegration/src/winint.cpp:64
 #: ../../../plugins/winintegration/src/winint.cpp:77
 msgctxt "Plugin|"
 msgid "Windows Integration"
 msgstr "Windows integrácia"
 
-#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
 msgid ""
 "Adds count of unread messages as an icon to taskbar button of qutim, along "
 "with some commands list."
-msgstr ""
-
-#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:3
-msgctxt "Plugin|"
-msgid "Windows Integration: Taskbar"
-msgstr ""
-
-#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:4
-msgctxt "Plugin|"
-msgid "Adds count of unread messages as an icon to taskbar button of qutIM."
-msgstr ""
-
-#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:5
-msgctxt "Plugin|"
-msgid "Seven"
-msgstr "Sedem"
-
-#: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:6
-msgctxt "Plugin|"
-msgid "Windows seven specific implementation with button's in caption"
 msgstr ""
 
 #: ../../../plugins/winintegration/src/winint.cpp:65
@@ -166,3 +142,19 @@ msgstr "Posledná od:"
 msgctxt "WThumbnailsProvider|"
 msgid "You have no new messages."
 msgstr "Nemáte nové správy."
+
+#~ msgctxt "Core::SimpleContactList::SevenWidget|"
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Seven"
+#~ msgstr "Sedem"
+
+#~ msgctxt "Core::SimpleContactList::SevenWidget|"
+#~ msgid "Search contact"
+#~ msgstr "Hľadať kontakt"
+
+#~ msgctxt "Core::SimpleContactList::SevenWidget|"
+#~ msgid "Set Status Text"
+#~ msgstr "Nastaviť text statusu"

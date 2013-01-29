@@ -2,21 +2,41 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-01 19:31+0000\n"
+"POT-Creation-Date: 2013-01-28 19:33+0000\n"
 "PO-Revision-Date: 2012-07-02 17:43+0000\n"
 "Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-07-03 06:26+0000\n"
-"X-Generator: Launchpad (build 15531)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 "X-Qt-Contexts: true\n"
 "Language: de\n"
 "X-Language: de\n"
 "X-Source-Language: en_US\n"
 
-#: ../../../protocols/vkontakte/src/vcontact.cpp:210
+#: ../../../protocols/vkontakte/vreen/src/qml/src/buddymodel.cpp:83
+msgctxt "BuddyModel|"
+msgid "Online"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/buddymodel.cpp:85
+msgctxt "BuddyModel|"
+msgid "Offline"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/buddymodel.cpp:87
+msgctxt "BuddyModel|"
+msgid "Away"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/chatmodel.cpp:67
+msgctxt "ChatModel|"
+msgid "unknown"
+msgstr ""
+
+#: ../../../protocols/vkontakte/src/vcontact.cpp:250
 msgctxt "ContactInfo|"
 msgid "Activity"
 msgstr "Tätigkeit"
@@ -121,8 +141,31 @@ msgctxt "ContactInfo|"
 msgid "Education"
 msgstr "Ausbildung"
 
+#: ../../../protocols/vkontakte/share/vphotoalbum/default/PageHeader.qml:16
+msgctxt "PageHeader|"
+msgid "Header"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/cpp/phonefetcher/phonefetcher.cpp:59
+#, qt-format
+msgctxt "PhoneFetcher|"
+msgid "-- %1 contacts recieved"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/cpp/phonefetcher/phonefetcher.cpp:63
+#, qt-format
+msgctxt "PhoneFetcher|"
+msgid "name: %1, home: %2, mobile: %3"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/cpp/phonefetcher/phonefetcher.cpp:64
+#: ../../../protocols/vkontakte/vreen/examples/cpp/phonefetcher/phonefetcher.cpp:65
+msgctxt "PhoneFetcher|"
+msgid "unknown"
+msgstr ""
+
 #: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:1
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:49
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:50
 msgctxt "Plugin|"
 msgid "vkontakte"
 msgstr "vkontakte"
@@ -132,107 +175,275 @@ msgctxt "Plugin|"
 msgid "New implementation of vk.com protocol"
 msgstr "Neues Modul für das vk.com-Protokoll"
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:42
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:43
 msgctxt "Plugin|"
 msgid "Vkontakte"
 msgstr "Vkontakte"
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:43
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:44
 msgctxt "Plugin|"
 msgid "Simple implementation of vkontakte, based on vk.com/developers api"
 msgstr ""
 "Einfache Integration von vkontakte, basierend auf vk.com/developers.api"
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:50
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:51
 msgctxt "Plugin|"
 msgid "Simple implementation of vkontakte, based on desktop.api"
 msgstr "Einfache Umsetzung von vkontakte, basierend auf desktop.api"
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:54
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:55
 msgctxt "Plugin|"
 msgid "Vkontakte account creator"
 msgstr "Vkontakte account creator"
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:55
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:56
 msgctxt "Plugin|"
 msgid "Account creator for Vkontakte"
 msgstr "Konten für Vkontakte erstellen"
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:58
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:59
 msgctxt "Plugin|"
 msgid "Proxy support"
 msgstr "Proxy support"
 
-#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:59
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:60
 msgctxt "Plugin|"
 msgid "Proxy support for Vkontakte"
 msgstr "Proxy-Server Unterstützung für Vkontakte"
 
-#: ../../../protocols/vkontakte/src/ui/vaccountsettings.ui:14
-msgctxt "VAccountSettings|"
-msgid "Account settings"
-msgstr "Konteneinstellungen"
+#: ../../../protocols/vkontakte/src/ui/vaccountcreator.cpp:68
+msgctxt "Protocol|"
+msgid "vk.com"
+msgstr ""
 
-#: ../../../protocols/vkontakte/src/ui/vaccountsettings.ui:49
-msgctxt "VAccountSettings|"
-msgid "Password:"
-msgstr "Passwort:"
+#: ../../../protocols/vkontakte/src/ui/vaccountcreator.cpp:69
+msgctxt "Protocol|"
+msgid "Add vk.com account"
+msgstr ""
 
-#: ../../../protocols/vkontakte/src/ui/vaccountsettings.cpp:66
-#, qt-format
-msgctxt "VAccountSettings|"
-msgid "%1 settings"
-msgstr "%1 Einstellungen"
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:72
+msgctxt "QObject|"
+msgid "Use SimpleClient instead"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:73
+msgctxt "QObject|"
+msgid "Use client.roster instead"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:74
+msgctxt "QObject|"
+msgid "Use client.connection instead"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:75
+msgctxt "QObject|"
+msgid "Use client.contact(id)"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:76
+msgctxt "QObject|"
+msgid "User roster.buddy(id)"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:77
+msgctxt "QObject|"
+msgid "Only flags"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:78
+msgctxt "QObject|"
+msgid "Use client.longPoll instead"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:79
+msgctxt "QObject|"
+msgid "Attachment enums"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:80
+msgctxt "QObject|"
+msgid "NewsItem enums"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:81
+msgctxt "QObject|"
+msgid "NewsFeed enums"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:82
+msgctxt "QObject|"
+msgid "Cannot use this class directly"
+msgstr ""
 
 #: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:14
 msgctxt "VAccountWizardPage|"
 msgid "WizardPage"
 msgstr "WizardPage"
 
-#: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:26
+#: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:29
 msgctxt "VAccountWizardPage|"
 msgid "Email:"
 msgstr "E-Mail:"
 
-#: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:36
-msgctxt "VAccountWizardPage|"
-msgid "Password:"
-msgstr "Passwort:"
+#: ../../../protocols/vkontakte/src/vgroupchat.cpp:145
+#, qt-format
+msgctxt "VGroupChat|"
+msgid "%1 has joined the room"
+msgstr ""
 
-#: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:63
-msgctxt "VAccountWizardPage|"
-msgid "Save password"
-msgstr "Passwort speichern"
+#: ../../../protocols/vkontakte/src/vgroupchat.cpp:163
+#, qt-format
+msgctxt "VGroupChat|"
+msgid "%1 has left the room"
+msgstr ""
 
-#: ../../../protocols/vkontakte/src/vprotocol.cpp:78
+#: ../../../protocols/vkontakte/src/vprotocol.cpp:94
 msgctxt "VProtocol|"
 msgid "id"
 msgstr "id"
 
-#: ../../../protocols/vkontakte/src/vprotocol.cpp:45
+#: ../../../protocols/vkontakte/src/experimental/vphotoviewer.cpp:47
+msgctxt "Vkontakte|"
+msgid "View photoalbum"
+msgstr ""
+
+#: ../../../protocols/vkontakte/src/vprotocol.cpp:69
 msgctxt "Vkontakte|"
 msgid "Open homepage"
 msgstr "Homepage besuchen"
 
-#: ../../../protocols/vkontakte/src/vprotocol.cpp:62
-msgctxt "Vkontakte|"
-msgid "Account settings"
-msgstr "Kontoeinstellungen"
-
-#: ../../../protocols/vkontakte/lib/src/api/contact.cpp:129
+#: ../../../protocols/vkontakte/vreen/src/api/contact.cpp:133
 #, qt-format
-msgctxt "vk::Buddy|"
+msgctxt "Vreen::Buddy|"
 msgid "id%1"
-msgstr "id%1"
+msgstr ""
 
-#: ../../../protocols/vkontakte/lib/src/api/contact.cpp:143
+#: ../../../protocols/vkontakte/vreen/src/api/contact.cpp:149
 #, qt-format
-msgctxt "vk::Buddy|"
+msgctxt "Vreen::Buddy|"
 msgid "Unknown tag id %1"
-msgstr "Unknown tag id %1"
+msgstr ""
 
-#: ../../../protocols/vkontakte/lib/src/api/contact.cpp:206
+#: ../../../protocols/vkontakte/vreen/src/api/contact.cpp:246
 #, qt-format
-msgctxt "vk::Group|"
+msgctxt "Vreen::Group|"
 msgid "group-%1"
-msgstr "group-%1"
+msgstr ""
+
+#: ../../../protocols/vkontakte/share/vphotoalbum/default/main.qml:13
+#, qt-format
+msgctxt "main|"
+msgid "%1's photoalbum"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/audio/qml/main.qml:17
+#: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:17
+#: ../../../protocols/vkontakte/vreen/examples/declarative/photoalbum/qml/main.qml:17
+#: ../../../protocols/vkontakte/vreen/examples/quick/audio/qml/main.qml:18
+#: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:17
+msgctxt "main|"
+msgid "<a href=\"http://vk.com\">Click to login</a>"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/audio/qml/main.qml:59
+#: ../../../protocols/vkontakte/vreen/examples/quick/audio/qml/main.qml:95
+#, qt-format
+msgctxt "main|"
+msgid "%1 latest audio"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/audio/qml/main.qml:59
+#: ../../../protocols/vkontakte/vreen/examples/quick/audio/qml/main.qml:95
+msgctxt "main|"
+msgid "Unknown"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/audio/qml/main.qml:142
+#, qt-format
+msgctxt "main|"
+msgid "duration %2"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:53
+#: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:53
+msgctxt "main|"
+msgid "Last dialogs"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:111
+#: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:111
+#, qt-format
+msgctxt "main|"
+msgid "%1 ➜ %2 %3"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:111
+#: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:111
+msgctxt "main|"
+msgid "(from chat)"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:138
+#: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:138
+msgctxt "main|"
+msgid "dddd in hh:mm"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:140
+#: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:140
+msgctxt "main|"
+msgid ", unread"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:142
+#: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:142
+msgctxt "main|"
+msgid ", has attachments"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/quick/audio/qml/main.qml:172
+#, qt-format
+msgctxt "main|"
+msgid "Duration %2"
+msgstr ""
+
+#~ msgctxt "VAccountSettings|"
+#~ msgid "Account settings"
+#~ msgstr "Konteneinstellungen"
+
+#~ msgctxt "VAccountSettings|"
+#~ msgid "Password:"
+#~ msgstr "Passwort:"
+
+#, qt-format
+#~ msgctxt "VAccountSettings|"
+#~ msgid "%1 settings"
+#~ msgstr "%1 Einstellungen"
+
+#~ msgctxt "VAccountWizardPage|"
+#~ msgid "Password:"
+#~ msgstr "Passwort:"
+
+#~ msgctxt "VAccountWizardPage|"
+#~ msgid "Save password"
+#~ msgstr "Passwort speichern"
+
+#~ msgctxt "Vkontakte|"
+#~ msgid "Account settings"
+#~ msgstr "Kontoeinstellungen"
+
+#, qt-format
+#~ msgctxt "vk::Buddy|"
+#~ msgid "id%1"
+#~ msgstr "id%1"
+
+#, qt-format
+#~ msgctxt "vk::Buddy|"
+#~ msgid "Unknown tag id %1"
+#~ msgstr "Unknown tag id %1"
+
+#, qt-format
+#~ msgctxt "vk::Group|"
+#~ msgid "group-%1"
+#~ msgstr "group-%1"

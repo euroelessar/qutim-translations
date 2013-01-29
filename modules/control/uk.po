@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-23 01:12+0000\n"
+"POT-Creation-Date: 2013-01-28 19:34+0000\n"
 "PO-Revision-Date: 2012-11-29 21:44+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-11-30 05:30+0000\n"
-"X-Generator: Launchpad (build 16319)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 
 #: ../../../plugins/control/src/quickanswerbuttonaction.cpp:42
 msgctxt "Control|"
@@ -32,27 +32,27 @@ msgctxt "Control::AutoReplyButton|"
 msgid "Bin lookup"
 msgstr "Bin lookup"
 
-#: ../../../plugins/control/src/networkmanager.cpp:196
+#: ../../../plugins/control/src/networkmanager.cpp:198
 #, qt-format
 msgctxt "Control::NetworkManager|"
 msgid "Put local certificate at \"%1\""
 msgstr "Помістіть локальний сертифікат до \"%1\""
 
-#: ../../../plugins/control/src/networkmanager.cpp:197
+#: ../../../plugins/control/src/networkmanager.cpp:199
 #, qt-format
 msgctxt "Control::NetworkManager|"
 msgid "Put server's certificate at \"%1\""
 msgstr "Помістіть сертифікат сервера до\"%1\""
 
-#: ../../../plugins/control/src/networkmanager.cpp:214
-#: ../../../plugins/control/src/networkmanager.cpp:382
-#: ../../../plugins/control/src/networkmanager.cpp:412
-#: ../../../plugins/control/src/networkmanager.cpp:426
+#: ../../../plugins/control/src/networkmanager.cpp:216
+#: ../../../plugins/control/src/networkmanager.cpp:394
+#: ../../../plugins/control/src/networkmanager.cpp:424
+#: ../../../plugins/control/src/networkmanager.cpp:438
 msgctxt "Control::NetworkManager|"
 msgid "Control plugin"
 msgstr "Плагін керування"
 
-#: ../../../plugins/control/src/networkmanager.cpp:383
+#: ../../../plugins/control/src/networkmanager.cpp:395
 #, qt-format
 msgctxt "Control::NetworkManager|"
 msgid ""
@@ -62,7 +62,7 @@ msgstr ""
 "Помилка підключення до %1:\n"
 "%2"
 
-#: ../../../plugins/control/src/networkmanager.cpp:413
+#: ../../../plugins/control/src/networkmanager.cpp:425
 #, qt-format
 msgctxt "Control::NetworkManager|"
 msgid ""
@@ -72,7 +72,7 @@ msgstr ""
 "Отримано відповідь від сервера:\n"
 "%1"
 
-#: ../../../plugins/control/src/networkmanager.cpp:427
+#: ../../../plugins/control/src/networkmanager.cpp:439
 msgctxt "Control::NetworkManager|"
 msgid "Invalid login or/and password. Please set right one in settings"
 msgstr ""
@@ -149,12 +149,14 @@ msgctxt "Control::SettingsWidget|"
 msgid "Add answer"
 msgstr "Додати відповідь"
 
+#: ../../../plugins/control/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/control/src/controlplugin.cpp:40
 #: ../../../plugins/control/src/rostermanager.cpp:91
 msgctxt "Plugin|"
 msgid "Control"
 msgstr "Керування"
 
+#: ../../../plugins/control/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/control/src/controlplugin.cpp:41
 msgctxt "Plugin|"
 msgid "Controls user by sending messages and roster to remote server"

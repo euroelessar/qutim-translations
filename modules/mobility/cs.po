@@ -2,36 +2,26 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-28 09:42+0000\n"
+"POT-Creation-Date: 2013-01-28 19:33+0000\n"
 "PO-Revision-Date: 2011-11-15 16:30+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-29 05:07+0000\n"
-"X-Generator: Launchpad (build 15505)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 "X-Qt-Contexts: true\n"
 "Language: cs\n"
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:69
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:71
 msgctxt "BearerManager|"
 msgid ""
 "Unable to find any network configuration. Perhaps Qt or QtMobility network "
 "bearer configured incorrectly. Bearer manager will not work properly, refer "
 "to your distribution maintainer."
-msgstr ""
-
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:93
-msgctxt "BearerManager|"
-msgid "Network is available!"
-msgstr ""
-
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:94
-msgctxt "BearerManager|"
-msgid "Network is unreachable!"
 msgstr ""
 
 #: ../../../plugins/mobility/src/vibrobackend/vibrobackend.cpp:53
@@ -51,32 +41,32 @@ msgstr ""
 
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
-msgid "Network bearer Manager"
+msgid "Multimedia engine"
 msgstr ""
 
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
-msgid "Used to monitor the availability of network."
+msgid "Sound engine based on QtMultimedia"
 msgstr ""
 
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:3
 msgctxt "Plugin|"
-msgid "Multimedia engine"
+msgid "Vibro engine"
 msgstr ""
 
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
-msgid "Sound engine based on QtMultimedia"
+msgid "Vibro engine based on QtFeedback"
 msgstr ""
 
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"
-msgid "Vibro engine"
+msgid "Network bearer Manager"
 msgstr ""
 
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:6
 msgctxt "Plugin|"
-msgid "Vibro engine based on QtFeedback"
+msgid "Used to monitor the availability of network."
 msgstr ""
 
 #: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:48
@@ -84,7 +74,7 @@ msgctxt "Service|"
 msgid "BearerManager"
 msgstr ""
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:62
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:64
 msgctxt "Settings|"
 msgid "Connection manager"
 msgstr ""

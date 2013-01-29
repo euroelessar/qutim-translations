@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-05-04 19:01+0000\n"
+"POT-Creation-Date: 2013-01-28 19:33+0000\n"
 "PO-Revision-Date: 2012-01-21 18:43+0000\n"
 "Last-Translator: mrx5682 <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-05 05:47+0000\n"
-"X-Generator: Launchpad (build 15195)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 "X-Qt-Contexts: true\n"
 "Language: en_GB\n"
 
@@ -24,32 +24,32 @@ msgctxt "ContactList|"
 msgid "qutIM 0.2 style"
 msgstr "qutIM 0.2 style"
 
-#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:40
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:41
 msgctxt "ContactList|"
 msgid "Default (depends on platform)"
 msgstr "Default (depends on platform)"
 
-#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:41
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:42
 msgctxt "ContactList|"
 msgid "Small (16x16)"
 msgstr "Small (16x16)"
 
-#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:42
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:43
 msgctxt "ContactList|"
 msgid "Medium (22x22)"
 msgstr "Medium (22x22)"
 
-#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:43
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:44
 msgctxt "ContactList|"
 msgid "Large (32x32)"
 msgstr "Large (32x32)"
 
-#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:44
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:45
 msgctxt "ContactList|"
 msgid "Very large (48x48)"
 msgstr "Very large (48x48)"
 
-#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:45
+#: ../../../plugins/oldcontactdelegate/settings/olddelegatesettings.cpp:46
 msgctxt "ContactList|"
 msgid "Huge (64x64)"
 msgstr "Huge (64x64)"

@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-23 17:52+0000\n"
+"POT-Creation-Date: 2013-01-28 19:34+0000\n"
 "PO-Revision-Date: 2012-04-07 14:50+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-08 05:18+0000\n"
-"X-Generator: Launchpad (build 15060)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 "X-Qt-Contexts: true\n"
 "Language: cs\n"
 "X-Language: cs\n"
@@ -49,32 +49,32 @@ msgctxt "Yandex|"
 msgid "Yandex Narod"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:99
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:100
 msgctxt "YandexNarodAuthorizator|"
 msgid "Has no login or password"
 msgstr "Není zadáno přihlašovací jméno nebo heslo"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:108
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:109
 msgctxt "YandexNarodAuthorizator|"
 msgid "Authorization succeed"
 msgstr "Autorizace uspěla"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:112
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:113
 msgctxt "YandexNarodAuthorizator|"
 msgid "Authorization failured"
 msgstr "Autorizace selhala"
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:177
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:179
 msgctxt "YandexNarodAuthorizator|"
 msgid "Unsupported grant type. Inform developers."
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:179
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:181
 msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid request. Inform developers."
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:181
+#: ../../../plugins/yandexnarod/src/yandexnarodauthorizator.cpp:183
 msgctxt "YandexNarodAuthorizator|"
 msgid "Invalid login or/and password"
 msgstr "Neplatné příhlašovací jméno nebo heslo"
@@ -150,23 +150,23 @@ msgctxt "YandexNarodSettingsClass|"
 msgid "Manage files"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:136
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:137
 msgctxt "YandexNarodUploadJob|"
 msgid "Authorizing..."
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:159
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:160
 msgctxt "YandexNarodUploadJob|"
 msgid "Getting storage..."
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:223
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:236
 #, qt-format
 msgctxt "YandexNarodUploadJob|"
 msgid "Could not open file %1"
 msgstr "Nelze otevřít soubor %1"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:347
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:360
 msgctxt "YandexNarodUploadJob|Don't remove format arguments"
 msgid ""
 "File sent: %N (%S bytes)\n"
@@ -242,7 +242,3 @@ msgstr "Seznam souborů:"
 msgctxt "yandexnarodManageClass|"
 msgid "New Item"
 msgstr "Nová položka"
-
-#~ msgctxt "Task|"
-#~ msgid "Developer"
-#~ msgstr "Vývojář"

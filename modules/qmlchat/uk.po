@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-07-01 19:31+0000\n"
+"POT-Creation-Date: 2013-01-28 19:33+0000\n"
 "PO-Revision-Date: 2012-05-21 14:10+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-07-02 05:00+0000\n"
-"X-Generator: Launchpad (build 15520)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
 
@@ -80,27 +80,27 @@ msgctxt "Settings|"
 msgid "Chat"
 msgstr "Чат"
 
-#: ../../../plugins/qmlchat/qmlchat/default/main.qml:177
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:180
 msgctxt "main|"
 msgid "is active"
 msgstr "активний"
 
-#: ../../../plugins/qmlchat/qmlchat/default/main.qml:179
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:182
 msgctxt "main|"
 msgid "is inactive"
 msgstr "неактивний"
 
-#: ../../../plugins/qmlchat/qmlchat/default/main.qml:181
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:184
 msgctxt "main|"
 msgid "is gone"
 msgstr "відійшов"
 
-#: ../../../plugins/qmlchat/qmlchat/default/main.qml:183
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:186
 msgctxt "main|"
 msgid "is composing"
 msgstr "щось друкує"
 
-#: ../../../plugins/qmlchat/qmlchat/default/main.qml:185
+#: ../../../plugins/qmlchat/qmlchat/default/main.qml:188
 msgctxt "main|"
 msgid "is paused"
 msgstr "задумався"

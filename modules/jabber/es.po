@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-07-01 19:31+0000\n"
+"POT-Creation-Date: 2013-01-28 19:33+0000\n"
 "PO-Revision-Date: 2012-08-06 04:57+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
-"X-Generator: Launchpad (build 15745)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:42+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:35
 msgctxt "Activity|"
@@ -947,32 +947,32 @@ msgctxt "Jabber|"
 msgid "Please select another nickname"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:215
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:216
 msgctxt "Jabber|"
 msgid "None"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:218
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:219
 msgctxt "Jabber|"
 msgid "From"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:221
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:222
 msgctxt "Jabber|"
 msgid "To"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:224
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:225
 msgctxt "Jabber|"
 msgid "Both"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:227
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:228
 msgctxt "Jabber|"
 msgid "Remove"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:232
+#: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:233
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:234
 msgctxt "Jabber|"
 msgid "Subscription"
@@ -1019,12 +1019,12 @@ msgctxt "Jabber|"
 msgid "Xml console"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:242
+#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:243
 msgctxt "Jabber::JAccount|Local qutIM's name"
 msgid "qutIM"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:243
+#: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:244
 msgctxt "Jabber::JAccount|Default language"
 msgid "en"
 msgstr ""
@@ -1480,29 +1480,29 @@ msgctxt "Jabber::JProtocol|"
 msgid "Show client icon"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:171
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:172
 #, qt-format
 msgctxt "Jabber::JRoster|"
 msgid "Contact %1 has been added to roster"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:200
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:201
 #, qt-format
 msgctxt "Jabber::JRoster|"
 msgid "Contact %1 has been removed from roster"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:447
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:450
 msgctxt "Jabber::JRoster|"
 msgid "Received a request for removal from the subscribers"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:455
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:458
 msgctxt "Jabber::JRoster|"
 msgid "You have been removed from the list of subscribers"
 msgstr ""
 
-#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:463
+#: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:466
 msgctxt "Jabber::JRoster|"
 msgid "You have been added to the list of subscribers"
 msgstr ""

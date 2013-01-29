@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-06-28 09:42+0000\n"
+"POT-Creation-Date: 2013-01-28 19:34+0000\n"
 "PO-Revision-Date: 2012-08-06 04:01+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-08-07 06:29+0000\n"
-"X-Generator: Launchpad (build 15745)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:355
 msgctxt "Adium::WebViewAppearance|"
@@ -34,18 +34,18 @@ msgstr "Cambiar"
 
 #: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
-msgid "Adium-like WebView"
-msgstr ""
-
-#: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:2
-msgctxt "Plugin|"
-msgid "Well-look stylished view based on WebKit and Adium ideas"
-msgstr ""
+msgid "Chat settings"
+msgstr "Configuración de charla"
 
 #: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:3
 msgctxt "Plugin|"
-msgid "Chat settings"
-msgstr "Configuración de charla"
+msgid "Adium-like WebView"
+msgstr ""
+
+#: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:4
+msgctxt "Plugin|"
+msgid "Well-look stylished view based on WebKit and Adium ideas"
+msgstr ""
 
 #: ../../../plugins/adiumwebview/lib/old/webkitutils.cpp:121
 msgctxt "QObject|"

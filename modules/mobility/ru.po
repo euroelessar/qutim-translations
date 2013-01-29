@@ -2,20 +2,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-28 09:42+0000\n"
+"POT-Creation-Date: 2013-01-28 19:33+0000\n"
 "PO-Revision-Date: 2012-06-28 09:48+0000\n"
 "Last-Translator: Eugene Degtyarev <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-29 05:07+0000\n"
-"X-Generator: Launchpad (build 15505)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 "X-Qt-Contexts: true\n"
 "Language: ru\n"
 "X-Language: ru\n"
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:69
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:71
 msgctxt "BearerManager|"
 msgid ""
 "Unable to find any network configuration. Perhaps Qt or QtMobility network "
@@ -25,16 +25,6 @@ msgstr ""
 "Невозможно определить конфигурацию сети. Возможно сетевые настройки Qt или "
 "QtMobility заданы некорректно. Менеджер работает неправильно, обратитесь к "
 "производителю дистрибутива."
-
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:93
-msgctxt "BearerManager|"
-msgid "Network is available!"
-msgstr "Сеть доступна!"
-
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:94
-msgctxt "BearerManager|"
-msgid "Network is unreachable!"
-msgstr "Сеть недоступна!"
 
 #: ../../../plugins/mobility/src/vibrobackend/vibrobackend.cpp:53
 msgctxt "Core::VibroBackend|"
@@ -53,40 +43,48 @@ msgstr "Автоподключение при запуске"
 
 #: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
-msgid "Network bearer Manager"
-msgstr "Сетевой менеджер Bearer"
-
-#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:2
-msgctxt "Plugin|"
-msgid "Used to monitor the availability of network."
-msgstr "Используется для наблюдения за статусом сети."
-
-#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:3
-msgctxt "Plugin|"
 msgid "Multimedia engine"
 msgstr "Движок мультимедиа"
 
-#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:4
+#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
 msgid "Sound engine based on QtMultimedia"
 msgstr "Звуковой движок, использующий QtMultimedia"
 
-#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:5
+#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:3
 msgctxt "Plugin|"
 msgid "Vibro engine"
 msgstr "Движок вибрации"
 
-#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:6
+#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
 msgid "Vibro engine based on QtFeedback"
 msgstr "Движок вибрации. основанный на QtFeedback"
+
+#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:5
+msgctxt "Plugin|"
+msgid "Network bearer Manager"
+msgstr "Сетевой менеджер Bearer"
+
+#: ../../../plugins/mobility/__data_from_cmakelists_txt.cpp:6
+msgctxt "Plugin|"
+msgid "Used to monitor the availability of network."
+msgstr "Используется для наблюдения за статусом сети."
 
 #: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:48
 msgctxt "Service|"
 msgid "BearerManager"
 msgstr "BearerManager"
 
-#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:62
+#: ../../../plugins/mobility/src/bearermanager/bearermanager.cpp:64
 msgctxt "Settings|"
 msgid "Connection manager"
 msgstr "Менеджер подключений"
+
+#~ msgctxt "BearerManager|"
+#~ msgid "Network is available!"
+#~ msgstr "Сеть доступна!"
+
+#~ msgctxt "BearerManager|"
+#~ msgid "Network is unreachable!"
+#~ msgstr "Сеть недоступна!"

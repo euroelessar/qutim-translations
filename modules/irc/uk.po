@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-06-28 09:42+0000\n"
+"POT-Creation-Date: 2013-01-28 19:34+0000\n"
 "PO-Revision-Date: 2012-11-30 22:10+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
@@ -16,8 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2012-12-01 05:44+0000\n"
-"X-Generator: Launchpad (build 16319)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:42+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
 
@@ -67,6 +67,11 @@ msgid "Protected by password"
 msgstr "Захищений паролем"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:154
+msgctxt "AddAccountForm|"
+msgid "Accept invalid ssl certificate"
+msgstr ""
+
+#: ../../../protocols/irc/src/ui/addaccountform.ui:161
 msgctxt "AddAccountForm|"
 msgid "Secure Connection (SSL)"
 msgstr "Захищене з'єднання (SSL)"
@@ -827,35 +832,35 @@ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "You have been marked as being away"
 msgstr "Ви відійшли"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:434
+#: ../../../protocols/irc/src/ircconnection.cpp:435
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Add at least one server before connecting"
 msgstr "Перед підключенням необхідно додати принаймні один сервер"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:436
+#: ../../../protocols/irc/src/ircconnection.cpp:437
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Set at least one nick before connecting"
 msgstr "Вкажіть нік перед тим як підключитися"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:438
+#: ../../../protocols/irc/src/ircconnection.cpp:439
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Cannot connect to %1 network"
 msgstr "Не вдалося підключитися до мережі %1"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:630
+#: ../../../protocols/irc/src/ircconnection.cpp:636
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Network error: %1"
 msgstr "Помилка мережі: %1"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:646
+#: ../../../protocols/irc/src/ircconnection.cpp:652
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "SSL error: %1"
 msgstr "Помилка SSL: %1"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:652
+#: ../../../protocols/irc/src/ircconnection.cpp:658
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "SSL handshake completed"
 msgstr "Рукостискання SSL завершено"

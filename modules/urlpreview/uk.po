@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-23 17:51+0000\n"
+"POT-Creation-Date: 2013-01-28 19:33+0000\n"
 "PO-Revision-Date: 2012-05-19 11:21+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-20 05:10+0000\n"
-"X-Generator: Launchpad (build 15259)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
 
@@ -48,23 +48,23 @@ msgctxt "UrlPreview::UrlHandler|"
 msgid "Something went wrong."
 msgstr "Щось пішло не так."
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:241
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:240
 msgctxt "UrlPreview::UrlHandler|"
 msgid "YouTube video"
 msgstr "Відео з YouTube"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:244
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:277
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:243
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:273
 msgctxt "UrlPreview::UrlHandler|"
 msgid "Unknown"
 msgstr "Невідомо"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:254
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:250
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Audio"
 msgstr "HTML5 аудіо"
 
-#: ../../../plugins/urlpreview/src/messagehandler.cpp:268
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:264
 msgctxt "UrlPreview::UrlHandler|"
 msgid "HTML5 Video"
 msgstr "HTML5 відео"

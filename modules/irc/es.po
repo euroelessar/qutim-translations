@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-06-28 09:42+0000\n"
+"POT-Creation-Date: 2013-01-28 19:34+0000\n"
 "PO-Revision-Date: 2012-10-06 20:18+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2012-10-07 04:51+0000\n"
-"X-Generator: Launchpad (build 16061)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:42+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -64,6 +64,11 @@ msgid "Protected by password"
 msgstr "Protegido por contraseña"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:154
+msgctxt "AddAccountForm|"
+msgid "Accept invalid ssl certificate"
+msgstr ""
+
+#: ../../../protocols/irc/src/ui/addaccountform.ui:161
 msgctxt "AddAccountForm|"
 msgid "Secure Connection (SSL)"
 msgstr "Conexión segura (SSL)"
@@ -822,35 +827,35 @@ msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "You have been marked as being away"
 msgstr "Ha sido marcado como ausente"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:434
+#: ../../../protocols/irc/src/ircconnection.cpp:435
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Add at least one server before connecting"
 msgstr "Añada un servidor por lo menos antes de conectarse"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:436
+#: ../../../protocols/irc/src/ircconnection.cpp:437
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Set at least one nick before connecting"
 msgstr "Defina al menos un apodo antes de conectarse"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:438
+#: ../../../protocols/irc/src/ircconnection.cpp:439
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Cannot connect to %1 network"
 msgstr "No se puede conectar a la red %1"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:630
+#: ../../../protocols/irc/src/ircconnection.cpp:636
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Network error: %1"
 msgstr "Error de red: %1"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:646
+#: ../../../protocols/irc/src/ircconnection.cpp:652
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "SSL error: %1"
 msgstr "Error de SSL: %1"
 
-#: ../../../protocols/irc/src/ircconnection.cpp:652
+#: ../../../protocols/irc/src/ircconnection.cpp:658
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "SSL handshake completed"
 msgstr ""
