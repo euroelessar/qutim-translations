@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-07-01 19:32+0000\n"
+"POT-Creation-Date: 2013-01-28 19:34+0000\n"
 "PO-Revision-Date: 2012-07-25 08:39+0000\n"
-"Last-Translator: Anthony Harrington <untaintableangel@hotmail.co.uk>\n"
+"Last-Translator: Anthony Harrington <untaintableangel@ubuntu.com>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-07-26 05:20+0000\n"
-"X-Generator: Launchpad (build 15679)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:42+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: en_GB\n"
 "X-Source-Language: C\n"
@@ -259,10 +259,9 @@ msgid "Last active"
 msgstr "Last active"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbar.cpp:59
-#, fuzzy
 msgctxt "CloseButton|"
 msgid "Close Tab"
-msgstr "Close chat"
+msgstr ""
 
 #: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:71
 #, qt-format
@@ -338,16 +337,14 @@ msgid "Sort by contact's last activity"
 msgstr ""
 
 #: ../../../core/src/corelayers/comparators/statuscomparator.cpp:7
-#, fuzzy
 msgctxt "ContactList|"
 msgid "Sort by contact's status"
-msgstr "Show only contacts"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistaccountmodel.cpp:33
-#, fuzzy
 msgctxt "ContactList|"
 msgid "Show accounts and contacts"
-msgstr "Show accounts, tags and contacts"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistgroupmodel.cpp:33
 msgctxt "ContactList|"
@@ -467,16 +464,14 @@ msgid "qutIM 0.2 style"
 msgstr "qutIM 0.2 style"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistbasemodel.cpp:43
-#, fuzzy
 msgctxt "ContactListBaseModel|"
 msgid "Blink icon in the contact list"
-msgstr "Blink icon in the contact list"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistbasemodel.cpp:623
-#, fuzzy
 msgctxt "ContactListBaseModel|"
 msgid "Without tags"
-msgstr "Without tags"
+msgstr ""
 
 #: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:54
 #: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:78
@@ -717,10 +712,9 @@ msgid "&Chat"
 msgstr "&Chat"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:263
-#, fuzzy
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Contacts"
-msgstr "Contact"
+msgstr ""
 
 #: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:47
 msgctxt "Core::AuthDialogPrivate|"
@@ -990,46 +984,45 @@ msgid "Cannot write to file %1"
 msgstr "Cannot write to file %1"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:131
-#, fuzzy
 msgctxt "Core::PluginChoooserWidget|"
 msgid "To take effect you must restart qutIM"
-msgstr "To take effect you must restart qutIM"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:147
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Name: </b> %1 <br />"
-msgstr "<b>Name: </b> %1 <br />"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:148
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Description: </b> %1 <br />"
-msgstr "<b>Description: </b> %1 <br />"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Name:</b> %1<br/>"
-msgstr "<b>Name:</b> %1<br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:155
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Task:</b> %1<br/>"
-msgstr "<b>Task:</b> %1<br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:157
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
-msgstr "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:159
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
-msgstr "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
+msgstr ""
 
 #: ../../../core/src/widgets/profilecreationpage.cpp:158
 msgctxt "Core::ProfileCreationPage|"
@@ -1129,10 +1122,9 @@ msgid "Password can not be empty!"
 msgstr "Password can not be empty!"
 
 #: ../../../core/src/corelayers/servicechooser/protocolchooserwidget.cpp:119
-#, fuzzy
 msgctxt "Core::ProtocolChoooserWidget|"
 msgid "To take effect you must restart qutIM"
-msgstr "To take effect you must restart qutIM"
+msgstr ""
 
 #: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:45
 msgctxt "Core::ProxySettingsWidget|"
@@ -1156,46 +1148,45 @@ msgid "Type"
 msgstr "Type"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:54
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Name: </b> %1 <br />"
-msgstr "<b>Name: </b> %1 <br />"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:55
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Description: </b> %1 <br />"
-msgstr "<b>Description: </b> %1 <br />"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:60
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Name:</b> %1<br/>"
-msgstr "<b>Name:</b> %1<br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:62
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Task:</b> %1<br/>"
-msgstr "<b>Task:</b> %1<br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:64
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
-msgstr "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:66
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
-msgstr "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooserwidget.cpp:140
-#, fuzzy
 msgctxt "Core::ServiceChoooserWidget|"
 msgid "To take effect you must restart qutIM"
-msgstr "To take effect you must restart qutIM"
+msgstr ""
 
 #: ../../../core/src/corelayers/shortcutsettings/shortcutitemdelegate.cpp:85
 msgctxt "Core::ShortcutItemDelegate|"
@@ -2053,10 +2044,9 @@ msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:9
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:40
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Contact list model set"
-msgstr "Contact list"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:10
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:41
@@ -2481,17 +2471,15 @@ msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:95
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:10
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Contact comparators"
-msgstr "Contact changed status"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:96
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:11
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Default qutIM contacts comparators collection"
-msgstr "Default qutIM account creator"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:97
 msgctxt "Plugin|"
@@ -2659,10 +2647,9 @@ msgstr ""
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:47
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:49
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:51
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Contact list model"
-msgstr "Contact list"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:44
 msgctxt "Plugin|"
@@ -2670,28 +2657,24 @@ msgid "Full-featured contact list model"
 msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:46
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Show accounts and contacts"
-msgstr "Show accounts, tags and contacts"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:48
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Show tags and contacts"
-msgstr "Show tags and contacts"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:50
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Show only contacts"
-msgstr "Show only contacts"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:52
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Show accounts, tags and contacts"
-msgstr "Show accounts, tags and contacts"
+msgstr ""
 
 #: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:43
 msgctxt "Plugin|"
@@ -3255,10 +3238,9 @@ msgid "ConferenceManager"
 msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:13
-#, fuzzy
 msgctxt "Service|"
 msgid "ContactBackendModel"
-msgstr "ContactModel"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:14
 msgctxt "Service|"
@@ -3422,10 +3404,9 @@ msgid "Settings Window"
 msgstr "Settings Window"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooserwidget.ui:14
-#, fuzzy
 msgctxt "ServiceChoooser|"
 msgid "Form"
-msgstr "Form"
+msgstr ""
 
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelpersettings.ui:14
 msgctxt "SessionHelperSettings|"
@@ -4124,16 +4105,36 @@ msgstr "Close"
 #~ msgstr "Show/Hide offline"
 
 #~ msgctxt "Core::PluginChooserWidget|"
+#~ msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
+#~ msgstr "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
+
+#~ msgctxt "Core::PluginChooserWidget|"
+#~ msgid "<b>Name:</b> %1<br/>"
+#~ msgstr "<b>Name:</b> %1<br/>"
+
+#~ msgctxt "Core::PluginChooserWidget|"
+#~ msgid "<b>Name: </b> %1 <br />"
+#~ msgstr "<b>Name: </b> %1 <br />"
+
+#~ msgctxt "Core::PluginChooserWidget|"
+#~ msgid "<b>Description: </b> %1 <br />"
+#~ msgstr "<b>Description: </b> %1 <br />"
+
+#~ msgctxt "Core::PluginChooserWidget|"
 #~ msgid "To take effect you must restart qutIM"
 #~ msgstr "To take effect you must restart qutIM"
+
+#~ msgctxt "Core::PluginChooserWidget|"
+#~ msgid "<b>Task:</b> %1<br/>"
+#~ msgstr "<b>Task:</b> %1<br/>"
+
+#~ msgctxt "Core::PluginChooserWidget|"
+#~ msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
+#~ msgstr "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
 
 #~ msgctxt "Core::ProtocolChooserWidget|"
 #~ msgid "To take effect you must restart qutIM"
 #~ msgstr "To take effect you must restart qutIM"
-
-#~ msgctxt "Core::ServiceChooser|"
-#~ msgid "<b>Name: </b> %1 <br />"
-#~ msgstr "<b>Name:</b> %1 <br />"
 
 #~ msgctxt "Core::ServiceChooser|"
 #~ msgid "<b>Description: </b> %1 <br />"
@@ -4142,6 +4143,10 @@ msgstr "Close"
 #~ msgctxt "Core::ServiceChooser|"
 #~ msgid "<b>Name:</b> %1<br/>"
 #~ msgstr "<b>Name:</b> %1<br/>"
+
+#~ msgctxt "Core::ServiceChooser|"
+#~ msgid "<b>Name: </b> %1 <br />"
+#~ msgstr "<b>Name:</b> %1 <br />"
 
 #~ msgctxt "Core::ServiceChooser|"
 #~ msgid "<b>Task:</b> %1<br/>"
@@ -4155,21 +4160,21 @@ msgstr "Close"
 #~ msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
 #~ msgstr "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
 
-#~ msgctxt "Core::ServiceChooserWidget|"
-#~ msgid "To take effect you must restart qutIM"
-#~ msgstr "To take effect you must restart qutIM"
-
 #~ msgctxt "Core::SimpleContactList::AbstractContactModel|"
 #~ msgid "All tags"
 #~ msgstr "All tags"
 
 #~ msgctxt "Core::SimpleContactList::AbstractContactModel|"
-#~ msgid "Custom tags"
-#~ msgstr "Custom tags"
+#~ msgid "Blink icon in the contact list"
+#~ msgstr "Blink icon in the contact list"
 
-#~ msgctxt "Core::SimpleContactList::AbstractContactModel|"
-#~ msgid "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
-#~ msgstr "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
+#~ msgctxt "Core::ServiceChooserWidget|"
+#~ msgid "To take effect you must restart qutIM"
+#~ msgstr "To take effect you must restart qutIM"
+
+#~ msgctxt "Core::SimpleContactList::PlainModel|"
+#~ msgid "Without tags"
+#~ msgstr "Without tags"
 
 #~ msgctxt "Core::SimpleContactList::AbstractContactModel|"
 #~ msgid "Would you like to merge metacontacts \"%1\" and \"%2\"?"
@@ -4183,9 +4188,17 @@ msgstr "Close"
 #~ msgid "Contacts' merging"
 #~ msgstr "Contacts' merging"
 
-#~ msgctxt "Core::SimpleContactList::PlainModel|"
+#~ msgctxt "Core::SimpleContactList::AbstractContactModel|"
+#~ msgid "Custom tags"
+#~ msgstr "Custom tags"
+
+#~ msgctxt "Core::SimpleContactList::AbstractContactModel|"
 #~ msgid "Without tags"
 #~ msgstr "Without tags"
+
+#~ msgctxt "Core::SimpleContactList::AbstractContactModel|"
+#~ msgid "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
+#~ msgstr "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
 
 #~ msgctxt "Core::SimpleContactList::SeparatedModel|"
 #~ msgid "Without tags"
@@ -4198,11 +4211,3 @@ msgstr "Close"
 #~ msgctxt "ServiceChooser|"
 #~ msgid "Form"
 #~ msgstr "Form"
-
-#~ msgctxt "ContactInfo|"
-#~ msgid "Send authorizarion request to %1:"
-#~ msgstr "Send authorisation request to %1:"
-
-#~ msgctxt "ContactInfo|"
-#~ msgid "Recieved authorizarion request from %1:"
-#~ msgstr "Received authorisation request from %1:"

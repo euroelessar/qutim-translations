@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-02-19 16:52+0000\n"
+"POT-Creation-Date: 2013-01-28 19:33+0000\n"
 "PO-Revision-Date: 2012-04-25 16:49+0000\n"
 "Last-Translator: Sid Roberts <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-28 12:52+0000\n"
-"X-Generator: Launchpad (build 15505)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:14
@@ -179,34 +179,29 @@ msgid "Package name:"
 msgstr "Package name:"
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:20
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Install"
-msgstr "Install"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:24
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Update"
-msgstr "Update"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:28
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Installing"
-msgstr "Installing"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:32
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Updating"
-msgstr "Updating"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:36
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Uninstall"
-msgstr "Uninstall"
+msgstr ""
 
 #: ../../../plugins/plugman/src/packagedownloaddialog.cpp:52
 msgctxt "PackageDownloadDialog|"
@@ -268,27 +263,28 @@ msgid "Package manager"
 msgstr "Package manager"
 
 #: ../../../plugins/plugman/qml/plugman/default/main.qml:24
-#, fuzzy
 msgctxt "main|"
 msgid "Search"
-msgstr "Search:"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/main.qml:36
-#, fuzzy
 msgctxt "main|"
 msgid "Order By"
-msgstr "Order by:"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/main.qml:59
-#, fuzzy
 msgctxt "main|"
 msgid "Order by: "
-msgstr "Order by:"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/main.qml:69
 msgctxt "main|"
 msgid "Get emoticons"
 msgstr ""
+
+#~ msgctxt "PackageDownloadDialog|"
+#~ msgid "Order by:"
+#~ msgstr "Order by:"
 
 #~ msgctxt "PackageDownloadDialog|"
 #~ msgid "Form"
@@ -299,52 +295,64 @@ msgstr ""
 #~ msgstr "Newest"
 
 #~ msgctxt "PackageDownloadDialog|"
-#~ msgid "Rating"
-#~ msgstr "Rating"
-
-#~ msgctxt "PackageDownloadDialog|"
 #~ msgid "Most downloads"
 #~ msgstr "Most downloads"
+
+#~ msgctxt "PackageDownloadDialog|"
+#~ msgid "Rating"
+#~ msgstr "Rating"
 
 #~ msgctxt "PackageDownloadDialog|"
 #~ msgid "Installed"
 #~ msgstr "Installed"
 
-#~ msgctxt "QObject|"
-#~ msgid "No target filename has been given."
-#~ msgstr "No target filename has been given."
-
-#~ msgctxt "QObject|"
-#~ msgid "Already opened."
-#~ msgstr "Already opened."
+#~ msgctxt "PackageDownloadDialog|"
+#~ msgid "Search:"
+#~ msgstr "Search:"
 
 #~ msgctxt "QObject|"
 #~ msgid "Insufficient permissions in target directory."
 #~ msgstr "Insufficient permissions in target directory."
 
 #~ msgctxt "QObject|"
-#~ msgid "Unable to open temporary file."
-#~ msgstr "Unable to open temporary file."
+#~ msgid "Already opened."
+#~ msgstr "Already opened."
 
 #~ msgctxt "QObject|"
-#~ msgid "Synchronization to disk failed"
-#~ msgstr "Synchronization to disk failed"
-
-#~ msgctxt "QObject|"
-#~ msgid "Error during rename."
-#~ msgstr "Error during rename."
+#~ msgid "No target filename has been given."
+#~ msgstr "No target filename has been given."
 
 #~ msgctxt "QObject|"
 #~ msgid "Package name is empty"
 #~ msgstr "Package name is empty"
 
 #~ msgctxt "QObject|"
-#~ msgid "Package type is empty"
-#~ msgstr "Package type is empty"
+#~ msgid "Error during rename."
+#~ msgstr "Error during rename."
+
+#~ msgctxt "QObject|"
+#~ msgid "Synchronization to disk failed"
+#~ msgstr "Synchronization to disk failed"
+
+#~ msgctxt "QObject|"
+#~ msgid "Unable to open temporary file."
+#~ msgstr "Unable to open temporary file."
 
 #~ msgctxt "QObject|"
 #~ msgid "Invalid package version"
 #~ msgstr "Invalid package version"
+
+#~ msgctxt "QObject|"
+#~ msgid "Package type is empty"
+#~ msgstr "Package type is empty"
+
+#~ msgctxt "manager|"
+#~ msgid "Not yet implemented"
+#~ msgstr "Not yet implemented"
+
+#~ msgctxt "manager|"
+#~ msgid "Apply"
+#~ msgstr "Apply"
 
 #~ msgctxt "QObject|"
 #~ msgid "Wrong platform"
@@ -354,13 +362,29 @@ msgstr ""
 #~ msgid "Plugman"
 #~ msgstr "Plugman"
 
-#~ msgctxt "manager|"
-#~ msgid "Not yet implemented"
-#~ msgstr "Not yet implemented"
+#~ msgctxt "plugInstaller|"
+#~ msgid "Unable to open archive: %1"
+#~ msgstr "Unable to open archive: %1"
 
-#~ msgctxt "manager|"
-#~ msgid "Apply"
-#~ msgstr "Apply"
+#~ msgctxt "plugInstaller|"
+#~ msgid "Need restart!"
+#~ msgstr "Need restart!"
+
+#~ msgctxt "plugInstaller|"
+#~ msgid "Unable to extract archive: %1 to %2"
+#~ msgstr "Unable to extract archive: %1 to %2"
+
+#~ msgctxt "plugInstaller|"
+#~ msgid "warning: trying to overwrite existing files!"
+#~ msgstr "warning: trying to overwrite existing files!"
+
+#~ msgctxt "plugDownloader|"
+#~ msgid "bytes/sec"
+#~ msgstr "bytes/sec"
+
+#~ msgctxt "plugDownloader|"
+#~ msgid "kB/s"
+#~ msgstr "kB/s"
 
 #~ msgctxt "manager|"
 #~ msgid "Actions"
@@ -371,14 +395,6 @@ msgstr ""
 #~ msgstr "find"
 
 #~ msgctxt "plugDownloader|"
-#~ msgid "bytes/sec"
-#~ msgstr "bytes/sec"
-
-#~ msgctxt "plugDownloader|"
-#~ msgid "kB/s"
-#~ msgstr "kB/s"
-
-#~ msgctxt "plugDownloader|"
 #~ msgid "MB/s"
 #~ msgstr "MB/s"
 
@@ -387,44 +403,28 @@ msgstr ""
 #~ msgstr "Downloading: %1%, speed: %2 %3"
 
 #~ msgctxt "plugInstaller|"
-#~ msgid "Need restart!"
-#~ msgstr "Need restart!"
-
-#~ msgctxt "plugInstaller|"
-#~ msgid "Unable to open archive: %1"
-#~ msgstr "Unable to open archive: %1"
-
-#~ msgctxt "plugInstaller|"
-#~ msgid "warning: trying to overwrite existing files!"
-#~ msgstr "warning: trying to overwrite existing files!"
-
-#~ msgctxt "plugInstaller|"
-#~ msgid "Unable to extract archive: %1 to %2"
-#~ msgstr "Unable to extract archive: %1 to %2"
+#~ msgid "Invalid package: %1"
+#~ msgstr "Invalid package: %1"
 
 #~ msgctxt "plugInstaller|"
 #~ msgid "Installing:"
 #~ msgstr "Installing:"
 
 #~ msgctxt "plugInstaller|"
-#~ msgid "Invalid package: %1"
-#~ msgstr "Invalid package: %1"
+#~ msgid "Unable to update package %1: installed version is later"
+#~ msgstr "Unable to update package %1: installed version is later"
 
 #~ msgctxt "plugInstaller|"
 #~ msgid "Removing:"
 #~ msgstr "Removing:"
 
-#~ msgctxt "plugInstaller|"
-#~ msgid "Unable to update package %1: installed version is later"
-#~ msgstr "Unable to update package %1: installed version is later"
+#~ msgctxt "plugItemDelegate|"
+#~ msgid "isUpgradable"
+#~ msgstr "isUpgradable"
 
 #~ msgctxt "plugInstaller|"
 #~ msgid "Unable to install package: %1"
 #~ msgstr "Unable to install package: %1"
-
-#~ msgctxt "plugItemDelegate|"
-#~ msgid "isUpgradable"
-#~ msgstr "isUpgradable"
 
 #~ msgctxt "plugItemDelegate|"
 #~ msgid "isInstallable"
@@ -442,6 +442,30 @@ msgstr ""
 #~ msgid "Unknown"
 #~ msgstr "Unknown"
 
+#~ msgctxt "plugXMLHandler|"
+#~ msgid "Unable to set content"
+#~ msgstr "Unable to set content"
+
+#~ msgctxt "plugXMLHandler|"
+#~ msgid "Unable to open file"
+#~ msgstr "Unable to open file"
+
+#~ msgctxt "plugPackageModel|"
+#~ msgid "Packages"
+#~ msgstr "Packages"
+
+#~ msgctxt "plugManager|"
+#~ msgid "Revert changes"
+#~ msgstr "Revert changes"
+
+#~ msgctxt "plugManager|"
+#~ msgid "Update packages list"
+#~ msgstr "Update packages list"
+
+#~ msgctxt "plugManager|"
+#~ msgid "Upgrade all"
+#~ msgstr "Upgrade all"
+
 #~ msgctxt "plugItemDelegate|"
 #~ msgid "Install"
 #~ msgstr "Install"
@@ -458,61 +482,29 @@ msgstr ""
 #~ msgid "Actions"
 #~ msgstr "Actions"
 
-#~ msgctxt "plugManager|"
-#~ msgid "Update packages list"
-#~ msgstr "Update packages list"
-
-#~ msgctxt "plugManager|"
-#~ msgid "Upgrade all"
-#~ msgstr "Upgrade all"
-
-#~ msgctxt "plugManager|"
-#~ msgid "Revert changes"
-#~ msgstr "Revert changes"
-
-#~ msgctxt "plugPackageModel|"
-#~ msgid "Packages"
-#~ msgstr "Packages"
+#~ msgctxt "plugmanSettings|"
+#~ msgid "Form"
+#~ msgstr "Form"
 
 #~ msgctxt "plugXMLHandler|"
-#~ msgid "Unable to open file"
-#~ msgstr "Unable to open file"
-
-#~ msgctxt "plugXMLHandler|"
-#~ msgid "Unable to set content"
-#~ msgstr "Unable to set content"
-
-#~ msgctxt "plugXMLHandler|"
-#~ msgid "Unable to write file"
-#~ msgstr "Unable to write file"
-
-#~ msgctxt "plugXMLHandler|"
-#~ msgid "Can't read database. Check your pesmissions."
-#~ msgstr "Can't read database. Check your pesmissions."
-
-#~ msgctxt "plugXMLHandler|"
-#~ msgid "Broken package database"
-#~ msgstr "Broken package database"
+#~ msgid "unable to set content"
+#~ msgstr "unable to set content"
 
 #~ msgctxt "plugXMLHandler|"
 #~ msgid "unable to open file"
 #~ msgstr "unable to open file"
 
 #~ msgctxt "plugXMLHandler|"
-#~ msgid "unable to set content"
-#~ msgstr "unable to set content"
+#~ msgid "Broken package database"
+#~ msgstr "Broken package database"
 
-#~ msgctxt "plugmanSettings|"
-#~ msgid "Form"
-#~ msgstr "Form"
+#~ msgctxt "plugXMLHandler|"
+#~ msgid "Can't read database. Check your pesmissions."
+#~ msgstr "Can't read database. Check your pesmissions."
 
-#~ msgctxt "plugmanSettings|"
-#~ msgid "Settings"
-#~ msgstr "Settings"
-
-#~ msgctxt "plugmanSettings|"
-#~ msgid "group packages"
-#~ msgstr "group packages"
+#~ msgctxt "plugXMLHandler|"
+#~ msgid "Unable to write file"
+#~ msgstr "Unable to write file"
 
 #~ msgctxt "plugmanSettings|"
 #~ msgid ""
@@ -543,12 +535,12 @@ msgstr ""
 #~ msgstr "Add"
 
 #~ msgctxt "plugmanSettings|"
-#~ msgid "Not yet implemented"
-#~ msgstr "Not yet implemented"
+#~ msgid "Settings"
+#~ msgstr "Settings"
 
 #~ msgctxt "plugmanSettings|"
-#~ msgid "About"
-#~ msgstr "About"
+#~ msgid "group packages"
+#~ msgstr "group packages"
 
 #~ msgctxt "plugmanSettings|"
 #~ msgid ""
@@ -621,6 +613,14 @@ msgstr ""
 #~ msgctxt "plugmanSettings|"
 #~ msgid "Name"
 #~ msgstr "Name"
+
+#~ msgctxt "plugmanSettings|"
+#~ msgid "Not yet implemented"
+#~ msgstr "Not yet implemented"
+
+#~ msgctxt "plugmanSettings|"
+#~ msgid "About"
+#~ msgstr "About"
 
 #~ msgctxt "plugmanSettings|"
 #~ msgid "Description"

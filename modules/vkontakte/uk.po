@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-07-01 19:31+0000\n"
+"POT-Creation-Date: 2013-01-28 19:33+0000\n"
 "PO-Revision-Date: 2012-07-01 22:49+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-07-02 05:00+0000\n"
-"X-Generator: Launchpad (build 15520)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 "X-Qt-Contexts: true\n"
 
 #: ../../../protocols/vkontakte/vreen/src/qml/src/buddymodel.cpp:83
@@ -317,22 +317,22 @@ msgid "Open homepage"
 msgstr "Відкрити головну сторінку"
 
 #: ../../../protocols/vkontakte/vreen/src/api/contact.cpp:133
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Vreen::Buddy|"
 msgid "id%1"
-msgstr "id%1"
+msgstr ""
 
 #: ../../../protocols/vkontakte/vreen/src/api/contact.cpp:149
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Vreen::Buddy|"
 msgid "Unknown tag id %1"
-msgstr "Невідомий тег id %1"
+msgstr ""
 
 #: ../../../protocols/vkontakte/vreen/src/api/contact.cpp:246
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Vreen::Group|"
 msgid "group-%1"
-msgstr "група-%1"
+msgstr ""
 
 #: ../../../protocols/vkontakte/share/vphotoalbum/default/main.qml:13
 #, qt-format
@@ -363,10 +363,10 @@ msgid "Unknown"
 msgstr ""
 
 #: ../../../protocols/vkontakte/vreen/examples/declarative/audio/qml/main.qml:142
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "main|"
 msgid "duration %2"
-msgstr "Освіта"
+msgstr ""
 
 #: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:53
 #: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:53
@@ -412,18 +412,10 @@ msgid "Duration %2"
 msgstr ""
 
 #~ msgctxt "VAccountSettings|"
-#~ msgid "Account settings"
-#~ msgstr "Параметри облікового запису"
-
-#~ msgctxt "VAccountSettings|"
-#~ msgid "Password:"
-#~ msgstr "Пароль:"
-
-#~ msgctxt "VAccountSettings|"
 #~ msgid "%1 settings"
 #~ msgstr "Налаштування %1"
 
-#~ msgctxt "VAccountWizardPage|"
+#~ msgctxt "VAccountSettings|"
 #~ msgid "Password:"
 #~ msgstr "Пароль:"
 
@@ -431,6 +423,26 @@ msgstr ""
 #~ msgid "Save password"
 #~ msgstr "Зберегти пароль"
 
+#~ msgctxt "VAccountWizardPage|"
+#~ msgid "Password:"
+#~ msgstr "Пароль:"
+
+#~ msgctxt "VAccountSettings|"
+#~ msgid "Account settings"
+#~ msgstr "Параметри облікового запису"
+
 #~ msgctxt "Vkontakte|"
 #~ msgid "Account settings"
 #~ msgstr "Налаштування облікового записа"
+
+#~ msgctxt "vk::Buddy|"
+#~ msgid "id%1"
+#~ msgstr "id%1"
+
+#~ msgctxt "vk::Group|"
+#~ msgid "group-%1"
+#~ msgstr "група-%1"
+
+#~ msgctxt "vk::Buddy|"
+#~ msgid "Unknown tag id %1"
+#~ msgstr "Невідомий тег id %1"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-02-19 16:52+0000\n"
+"POT-Creation-Date: 2013-01-28 19:33+0000\n"
 "PO-Revision-Date: 2012-12-18 13:21+0000\n"
 "Last-Translator: Yauhen Bugamol <haxycgm@gmail.com>\n"
 "Language-Team: Belarusian <be@li.org>\n"
@@ -15,9 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-12-19 05:35+0000\n"
-"X-Generator: Launchpad (build 16378)\n"
-"X-Qt-Contexts: true\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 
 #: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:14
 msgctxt "ChooseCategoryPage|"
@@ -179,34 +178,29 @@ msgid "Package name:"
 msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:20
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Install"
-msgstr "Усталяваць"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:24
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Update"
-msgstr "Абнаўленне"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:28
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Installing"
-msgstr "Усталёўка"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:32
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Updating"
-msgstr "Абнаўленне"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:36
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Uninstall"
-msgstr "Выдаленне"
+msgstr ""
 
 #: ../../../plugins/plugman/src/packagedownloaddialog.cpp:52
 msgctxt "PackageDownloadDialog|"
@@ -292,16 +286,24 @@ msgstr ""
 #~ msgstr "Ужо адкрыты."
 
 #~ msgctxt "QObject|"
+#~ msgid "Error during rename."
+#~ msgstr "Памылка падчас пераназвання файла."
+
+#~ msgctxt "QObject|"
 #~ msgid "Insufficient permissions in target directory."
 #~ msgstr "Недастаткова правоў доступу ў тэчцы прызначэння."
 
-#~ msgctxt "QObject|"
-#~ msgid "Error during rename."
-#~ msgstr "Памылка падчас пераназвання файла."
+#~ msgctxt "plugInstaller|"
+#~ msgid "Need restart!"
+#~ msgstr "Патрэбен перазапуск"
 
 #~ msgctxt "manager|"
 #~ msgid "Apply"
 #~ msgstr "Ужыць"
+
+#~ msgctxt "plugDownloader|"
+#~ msgid "kB/s"
+#~ msgstr "кБ/с"
 
 #~ msgctxt "manager|"
 #~ msgid "Actions"
@@ -312,10 +314,6 @@ msgstr ""
 #~ msgstr "Знайсці"
 
 #~ msgctxt "plugDownloader|"
-#~ msgid "kB/s"
-#~ msgstr "кБ/с"
-
-#~ msgctxt "plugDownloader|"
 #~ msgid "MB/s"
 #~ msgstr "МБ/с"
 
@@ -323,13 +321,25 @@ msgstr ""
 #~ msgid "Downloading: %1%, speed: %2 %3"
 #~ msgstr "Запампоўка: %1%, хуткасць: %2 %3"
 
-#~ msgctxt "plugInstaller|"
-#~ msgid "Need restart!"
-#~ msgstr "Патрэбен перазапуск"
-
 #~ msgctxt "plugItemDelegate|"
 #~ msgid "installed"
 #~ msgstr "усталяваны"
+
+#~ msgctxt "plugManager|"
+#~ msgid "Update packages list"
+#~ msgstr "Абнавіць спіс пакункаў"
+
+#~ msgctxt "plugPackageModel|"
+#~ msgid "Packages"
+#~ msgstr "Пакункі"
+
+#~ msgctxt "plugManager|"
+#~ msgid "Upgrade all"
+#~ msgstr "Абнавіць усё"
+
+#~ msgctxt "plugItemDelegate|"
+#~ msgid "Install"
+#~ msgstr "Усталяваць"
 
 #~ msgctxt "plugItemDelegate|"
 #~ msgid "Unknown"
@@ -346,18 +356,6 @@ msgstr ""
 #~ msgctxt "plugManager|"
 #~ msgid "Actions"
 #~ msgstr "Дзеянні"
-
-#~ msgctxt "plugManager|"
-#~ msgid "Update packages list"
-#~ msgstr "Абнавіць спіс пакункаў"
-
-#~ msgctxt "plugManager|"
-#~ msgid "Upgrade all"
-#~ msgstr "Абнавіць усё"
-
-#~ msgctxt "plugPackageModel|"
-#~ msgid "Packages"
-#~ msgstr "Пакункі"
 
 #~ msgctxt "plugmanSettings|"
 #~ msgid "Settings"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-01 19:32+0000\n"
+"POT-Creation-Date: 2013-01-28 19:34+0000\n"
 "PO-Revision-Date: 2012-07-25 08:38+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,8 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-07-26 05:20+0000\n"
-"X-Generator: Launchpad (build 15679)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:42+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: bg\n"
 "X-Source-Language: C\n"
@@ -254,10 +254,9 @@ msgid "Last active"
 msgstr "Последният активен"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbar.cpp:59
-#, fuzzy
 msgctxt "CloseButton|"
 msgid "Close Tab"
-msgstr "Затваряне на разговора"
+msgstr ""
 
 #: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:71
 #, qt-format
@@ -333,16 +332,14 @@ msgid "Sort by contact's last activity"
 msgstr ""
 
 #: ../../../core/src/corelayers/comparators/statuscomparator.cpp:7
-#, fuzzy
 msgctxt "ContactList|"
 msgid "Sort by contact's status"
-msgstr "Да се показва списъка с контакти при стартиране"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistaccountmodel.cpp:33
-#, fuzzy
 msgctxt "ContactList|"
 msgid "Show accounts and contacts"
-msgstr "Да се показват сметките, етикетите и контактите"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistgroupmodel.cpp:33
 msgctxt "ContactList|"
@@ -462,16 +459,14 @@ msgid "qutIM 0.2 style"
 msgstr "qutIM 0.2 стил"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistbasemodel.cpp:43
-#, fuzzy
 msgctxt "ContactListBaseModel|"
 msgid "Blink icon in the contact list"
-msgstr "Мигаща икона в списъка с контакти"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistbasemodel.cpp:623
-#, fuzzy
 msgctxt "ContactListBaseModel|"
 msgid "Without tags"
-msgstr "Без етикети"
+msgstr ""
 
 #: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:54
 #: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:78
@@ -712,10 +707,9 @@ msgid "&Chat"
 msgstr "&Разговор"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:263
-#, fuzzy
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Contacts"
-msgstr "Контакт"
+msgstr ""
 
 #: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:47
 msgctxt "Core::AuthDialogPrivate|"
@@ -989,46 +983,45 @@ msgid "Cannot write to file %1"
 msgstr "Невъзможен е записът във файла %1"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:131
-#, fuzzy
 msgctxt "Core::PluginChoooserWidget|"
 msgid "To take effect you must restart qutIM"
-msgstr "За да влязат в сила промените, qutIM трябва да бъде рестартиран"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:147
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Name: </b> %1 <br />"
-msgstr "<b>Наименование: </b> %1 <br />"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:148
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Description: </b> %1 <br />"
-msgstr "<b>Описание: </b> %1 <br />"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Name:</b> %1<br/>"
-msgstr "<b>Име:</b> %1<br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:155
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Task:</b> %1<br/>"
-msgstr "<b>Задача:</b> %1<br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:157
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
-msgstr "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:159
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
-msgstr "<b>Страница:</b> <a href=\"%1\">%1</a><br/>"
+msgstr ""
 
 #: ../../../core/src/widgets/profilecreationpage.cpp:158
 msgctxt "Core::ProfileCreationPage|"
@@ -1128,10 +1121,9 @@ msgid "Password can not be empty!"
 msgstr "Паролата не може да е празна!"
 
 #: ../../../core/src/corelayers/servicechooser/protocolchooserwidget.cpp:119
-#, fuzzy
 msgctxt "Core::ProtocolChoooserWidget|"
 msgid "To take effect you must restart qutIM"
-msgstr "За да влязат в сила промените, qutIM трябва да бъде рестартиран"
+msgstr ""
 
 #: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:45
 msgctxt "Core::ProxySettingsWidget|"
@@ -1155,46 +1147,45 @@ msgid "Type"
 msgstr "Тип"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:54
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Name: </b> %1 <br />"
-msgstr "<b>Наименование: </b> %1 <br />"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:55
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Description: </b> %1 <br />"
-msgstr "<b>Описание: </b> %1 <br />"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:60
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Name:</b> %1<br/>"
-msgstr "<b>Име:</b> %1<br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:62
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Task:</b> %1<br/>"
-msgstr "<b>Задача:</b> %1<br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:64
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
-msgstr "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:66
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
-msgstr "<b>Страница:</b> <a href=\"%1\">%1</a><br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooserwidget.cpp:140
-#, fuzzy
 msgctxt "Core::ServiceChoooserWidget|"
 msgid "To take effect you must restart qutIM"
-msgstr "За да влязат в сила промените, qutIM трябва да бъде рестартиран"
+msgstr ""
 
 #: ../../../core/src/corelayers/shortcutsettings/shortcutitemdelegate.cpp:85
 msgctxt "Core::ShortcutItemDelegate|"
@@ -2057,17 +2048,15 @@ msgstr "Подразбираща се за qutIM реализация на ик�
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:9
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:40
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Contact list model set"
-msgstr "Списък с контакти"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:10
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:41
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Full-featured contact list model set"
-msgstr "Разделен модел на контакти"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:11
 msgctxt "Plugin|"
@@ -2507,17 +2496,15 @@ msgstr "Подразбираща се реализация на настройк
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:95
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:10
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Contact comparators"
-msgstr "Контакт променя статуса си"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:96
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:11
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Default qutIM contacts comparators collection"
-msgstr "Поразбираща се за qutIM реализация на мета-контакти"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:97
 msgctxt "Plugin|"
@@ -2689,40 +2676,34 @@ msgstr ""
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:47
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:49
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:51
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Contact list model"
-msgstr "Списък с контакти"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:44
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Full-featured contact list model"
-msgstr "Разделен модел на контакти"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:46
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Show accounts and contacts"
-msgstr "Да се показват сметките, етикетите и контактите"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:48
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Show tags and contacts"
-msgstr "Да се показват етикетите и контактите"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:50
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Show only contacts"
-msgstr "Да се показват само контактите"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:52
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Show accounts, tags and contacts"
-msgstr "Да се показват сметките, етикетите и контактите"
+msgstr ""
 
 #: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:43
 msgctxt "Plugin|"
@@ -3293,10 +3274,9 @@ msgid "ConferenceManager"
 msgstr "Управление на конференции"
 
 #: ../../../core/__generated_from_service_names.cpp:13
-#, fuzzy
 msgctxt "Service|"
 msgid "ContactBackendModel"
-msgstr "Модел на контакта"
+msgstr ""
 
 #: ../../../core/__generated_from_service_names.cpp:14
 msgctxt "Service|"
@@ -3460,10 +3440,9 @@ msgid "Settings Window"
 msgstr "Прозорец с настройки"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooserwidget.ui:14
-#, fuzzy
 msgctxt "ServiceChoooser|"
 msgid "Form"
-msgstr "Създаване на сметки"
+msgstr ""
 
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelpersettings.ui:14
 msgctxt "SessionHelperSettings|"
@@ -4006,10 +3985,9 @@ msgid "Autoresize the input field"
 msgstr "Автоматична промяна размера на полето за въвеждане"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:132
-#, fuzzy
 msgctxt "TabbedChatBehavior|"
 msgid "Show contact id in receiver menu"
-msgstr "Да се показва списъка с контакти при стартиране"
+msgstr ""
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/tagsfilterdialog.ui:14
 msgctxt "TagsFilterDialog|"
@@ -4168,6 +4146,30 @@ msgstr "Затваряне"
 #~ msgid "To take effect you must restart qutIM"
 #~ msgstr "За да влязат в сила промените, qutIM трябва да бъде рестартиран"
 
+#~ msgctxt "Core::PluginChooserWidget|"
+#~ msgid "<b>Name: </b> %1 <br />"
+#~ msgstr "<b>Наименование: </b> %1 <br />"
+
+#~ msgctxt "Core::PluginChooserWidget|"
+#~ msgid "<b>Description: </b> %1 <br />"
+#~ msgstr "<b>Описание: </b> %1 <br />"
+
+#~ msgctxt "Core::PluginChooserWidget|"
+#~ msgid "<b>Name:</b> %1<br/>"
+#~ msgstr "<b>Име:</b> %1<br/>"
+
+#~ msgctxt "Core::PluginChooserWidget|"
+#~ msgid "<b>Task:</b> %1<br/>"
+#~ msgstr "<b>Задача:</b> %1<br/>"
+
+#~ msgctxt "Core::PluginChooserWidget|"
+#~ msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
+#~ msgstr "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
+
+#~ msgctxt "Core::PluginChooserWidget|"
+#~ msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
+#~ msgstr "<b>Страница:</b> <a href=\"%1\">%1</a><br/>"
+
 #~ msgctxt "Core::ProtocolChooserWidget|"
 #~ msgid "To take effect you must restart qutIM"
 #~ msgstr "За да влязат в сила промените, qutIM трябва да бъде рестартиран"
@@ -4201,12 +4203,20 @@ msgstr "Затваряне"
 #~ msgstr "За да влязат в сила промените, qutIM трябва да бъде рестартиран"
 
 #~ msgctxt "Core::SimpleContactList::AbstractContactModel|"
+#~ msgid "Blink icon in the contact list"
+#~ msgstr "Мигаща икона в списъка с контакти"
+
+#~ msgctxt "Core::SimpleContactList::AbstractContactModel|"
 #~ msgid "All tags"
 #~ msgstr "Всички етикети"
 
 #~ msgctxt "Core::SimpleContactList::AbstractContactModel|"
 #~ msgid "Custom tags"
 #~ msgstr "Собствени етикети"
+
+#~ msgctxt "Core::SimpleContactList::AbstractContactModel|"
+#~ msgid "Without tags"
+#~ msgstr "Без етикети"
 
 #~ msgctxt "Core::SimpleContactList::AbstractContactModel|"
 #~ msgid "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
@@ -4236,6 +4246,19 @@ msgstr "Затваряне"
 #~ msgid "Without tags"
 #~ msgstr "Без етикети"
 
+#~ msgctxt "ServiceChooser|"
+#~ msgid "Form"
+#~ msgstr "Услуги"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Separated contacts model"
+#~ msgstr "Разделен модел на контакти"
+
+#~ msgctxt "Plugin|"
+#~ msgid "Contact list model, which show accounts, tags and contacts"
+#~ msgstr ""
+#~ "Модел на списъка с контакти, който показва сметки, етикети и контакти"
+
 #~ msgctxt "Plugin|"
 #~ msgid "Tree contacts model"
 #~ msgstr "Дървовиден модел на контакти"
@@ -4245,26 +4268,9 @@ msgstr "Затваряне"
 #~ msgstr "Модел на списъка с контакти, който показва етикети и контакти"
 
 #~ msgctxt "Plugin|"
-#~ msgid "Contact list model, which show accounts, tags and contacts"
-#~ msgstr ""
-#~ "Модел на списъка с контакти, който показва сметки, етикети и контакти"
-
-#~ msgctxt "Plugin|"
 #~ msgid "Plain list contacts model"
 #~ msgstr "Обикновен модел на списъка с контакти"
 
 #~ msgctxt "Plugin|"
 #~ msgid "Contact list model, which shows only contacts"
 #~ msgstr "Модел на списъка с контакти, който показва само контактите"
-
-#~ msgctxt "ServiceChooser|"
-#~ msgid "Form"
-#~ msgstr "Услуги"
-
-#~ msgctxt "ContactInfo|"
-#~ msgid "Recieved authorizarion request from %1:"
-#~ msgstr "Получена заявка за удостоверяване от %1:"
-
-#~ msgctxt "ContactInfo|"
-#~ msgid "Send authorizarion request to %1:"
-#~ msgstr "Заявка за удостоверяване от %1:"

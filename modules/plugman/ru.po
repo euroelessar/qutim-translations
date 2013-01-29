@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-19 16:52+0000\n"
+"POT-Creation-Date: 2013-01-28 19:33+0000\n"
 "PO-Revision-Date: 2012-02-21 19:25+0000\n"
 "Last-Translator: Nicolay <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,8 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-28 12:52+0000\n"
-"X-Generator: Launchpad (build 15505)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: ru\n"
 
@@ -175,34 +175,29 @@ msgid "Package name:"
 msgstr "Имя пакета:"
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:20
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Install"
-msgstr "Установить"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:24
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Update"
-msgstr "Обновить"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:28
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Installing"
-msgstr "Установка"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:32
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Updating"
-msgstr "Обновление"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:36
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Uninstall"
-msgstr "Удалить"
+msgstr ""
 
 #: ../../../plugins/plugman/src/packagedownloaddialog.cpp:52
 msgctxt "PackageDownloadDialog|"
@@ -266,22 +261,19 @@ msgid "Package manager"
 msgstr "Управление пакетами"
 
 #: ../../../plugins/plugman/qml/plugman/default/main.qml:24
-#, fuzzy
 msgctxt "main|"
 msgid "Search"
-msgstr "Поиск:"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/main.qml:36
-#, fuzzy
 msgctxt "main|"
 msgid "Order By"
-msgstr "Сортировать по:"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/main.qml:59
-#, fuzzy
 msgctxt "main|"
 msgid "Order by: "
-msgstr "Сортировать по:"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/main.qml:69
 msgctxt "main|"
@@ -291,6 +283,10 @@ msgstr ""
 #~ msgctxt "PackageDownloadDialog|"
 #~ msgid "Form"
 #~ msgstr "Настройки"
+
+#~ msgctxt "PackageDownloadDialog|"
+#~ msgid "Order by:"
+#~ msgstr "Сортировать по:"
 
 #~ msgctxt "PackageDownloadDialog|"
 #~ msgid "Newest"
@@ -308,29 +304,9 @@ msgstr ""
 #~ msgid "Installed"
 #~ msgstr "Кол-ву установок"
 
-#~ msgctxt "QObject|"
-#~ msgid "No target filename has been given."
-#~ msgstr "Не указан целевой файл."
-
-#~ msgctxt "QObject|"
-#~ msgid "Already opened."
-#~ msgstr "Файл уже открыт."
-
-#~ msgctxt "QObject|"
-#~ msgid "Insufficient permissions in target directory."
-#~ msgstr "Нет прав доступа в целевой каталог."
-
-#~ msgctxt "QObject|"
-#~ msgid "Unable to open temporary file."
-#~ msgstr "Не получилось открыть временный файл."
-
-#~ msgctxt "QObject|"
-#~ msgid "Synchronization to disk failed"
-#~ msgstr "Ошибка синхронизации с винтом"
-
-#~ msgctxt "QObject|"
-#~ msgid "Error during rename."
-#~ msgstr "Ошибка переименования."
+#~ msgctxt "PackageDownloadDialog|"
+#~ msgid "Search:"
+#~ msgstr "Поиск:"
 
 #~ msgctxt "QObject|"
 #~ msgid "Package name is empty"
@@ -348,9 +324,21 @@ msgstr ""
 #~ msgid "Wrong platform"
 #~ msgstr "Неправильная платформа"
 
-#~ msgctxt "manager|"
-#~ msgid "Plugman"
-#~ msgstr "Plugman"
+#~ msgctxt "QObject|"
+#~ msgid "Insufficient permissions in target directory."
+#~ msgstr "Нет прав доступа в целевой каталог."
+
+#~ msgctxt "QObject|"
+#~ msgid "Unable to open temporary file."
+#~ msgstr "Не получилось открыть временный файл."
+
+#~ msgctxt "QObject|"
+#~ msgid "Synchronization to disk failed"
+#~ msgstr "Ошибка синхронизации с винтом"
+
+#~ msgctxt "QObject|"
+#~ msgid "Error during rename."
+#~ msgstr "Ошибка переименования."
 
 #~ msgctxt "manager|"
 #~ msgid "Not yet implemented"
@@ -413,10 +401,6 @@ msgstr ""
 #~ msgstr "Удалиние:"
 
 #~ msgctxt "plugInstaller|"
-#~ msgid "Unable to update package %1: installed version is later"
-#~ msgstr "Невозможно обновить пакет %1: установленная версия новее"
-
-#~ msgctxt "plugInstaller|"
 #~ msgid "Unable to install package: %1"
 #~ msgstr "Установка пакета %1 не возможна"
 
@@ -477,10 +461,6 @@ msgstr ""
 #~ msgstr "Не удалось открыть файл"
 
 #~ msgctxt "plugXMLHandler|"
-#~ msgid "Unable to set content"
-#~ msgstr "Невозможно установить содержимое"
-
-#~ msgctxt "plugXMLHandler|"
 #~ msgid "Unable to write file"
 #~ msgstr "Не удалось записать файл"
 
@@ -495,10 +475,6 @@ msgstr ""
 #~ msgctxt "plugXMLHandler|"
 #~ msgid "unable to open file"
 #~ msgstr "не удалось открыть файл"
-
-#~ msgctxt "plugXMLHandler|"
-#~ msgid "unable to set content"
-#~ msgstr "невозможно установить содержимое"
 
 #~ msgctxt "plugmanSettings|"
 #~ msgid "Form"
@@ -624,6 +600,30 @@ msgstr ""
 #~ msgid "Description"
 #~ msgstr "Описание"
 
+#~ msgctxt "plugInstaller|"
+#~ msgid "Unable to update package %1: installed version is later"
+#~ msgstr "Невозможно обновить пакет %1: установленная версия новее"
+
+#~ msgctxt "plugXMLHandler|"
+#~ msgid "unable to set content"
+#~ msgstr "невозможно установить содержимое"
+
+#~ msgctxt "plugXMLHandler|"
+#~ msgid "Unable to set content"
+#~ msgstr "Невозможно установить содержимое"
+
+#~ msgctxt "QObject|"
+#~ msgid "Already opened."
+#~ msgstr "Файл уже открыт."
+
+#~ msgctxt "QObject|"
+#~ msgid "No target filename has been given."
+#~ msgstr "Не указан целевой файл."
+
 #~ msgctxt "plugmanSettings|"
 #~ msgid "Url"
 #~ msgstr "Url"
+
+#~ msgctxt "manager|"
+#~ msgid "Plugman"
+#~ msgstr "Plugman"

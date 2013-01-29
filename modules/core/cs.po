@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-01 19:32+0000\n"
+"POT-Creation-Date: 2013-01-28 19:34+0000\n"
 "PO-Revision-Date: 2012-07-25 08:43+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,8 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-07-26 05:20+0000\n"
-"X-Generator: Launchpad (build 15679)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:42+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 "X-Qt-Contexts: true\n"
 "X-Language: cs\n"
 "X-Source-Language: en_GB\n"
@@ -244,10 +244,9 @@ msgid "Last active"
 msgstr "Poslední aktivní"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbar.cpp:59
-#, fuzzy
 msgctxt "CloseButton|"
 msgid "Close Tab"
-msgstr "Zavřít konverzaci"
+msgstr ""
 
 #: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:71
 #, qt-format
@@ -323,16 +322,14 @@ msgid "Sort by contact's last activity"
 msgstr ""
 
 #: ../../../core/src/corelayers/comparators/statuscomparator.cpp:7
-#, fuzzy
 msgctxt "ContactList|"
 msgid "Sort by contact's status"
-msgstr "Zobrazit pouze kontakty"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistaccountmodel.cpp:33
-#, fuzzy
 msgctxt "ContactList|"
 msgid "Show accounts and contacts"
-msgstr "Zobrazit účty, štítky a kontakty"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistgroupmodel.cpp:33
 msgctxt "ContactList|"
@@ -452,16 +449,14 @@ msgid "qutIM 0.2 style"
 msgstr "qutIM 0.2 styl"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistbasemodel.cpp:43
-#, fuzzy
 msgctxt "ContactListBaseModel|"
 msgid "Blink icon in the contact list"
-msgstr "Blikající ikony v seznamu kontaktů"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistbasemodel.cpp:623
-#, fuzzy
 msgctxt "ContactListBaseModel|"
 msgid "Without tags"
-msgstr "Bez štítků"
+msgstr ""
 
 #: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:54
 #: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:78
@@ -702,10 +697,9 @@ msgid "&Chat"
 msgstr "Konverza&ce"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:263
-#, fuzzy
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Contacts"
-msgstr "Kontakt"
+msgstr ""
 
 #: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:47
 msgctxt "Core::AuthDialogPrivate|"
@@ -973,46 +967,45 @@ msgid "Cannot write to file %1"
 msgstr "Nelze zapsat do souboru %1"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:131
-#, fuzzy
 msgctxt "Core::PluginChoooserWidget|"
 msgid "To take effect you must restart qutIM"
-msgstr "Změny se projeví až po restartu qutIMu"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:147
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Name: </b> %1 <br />"
-msgstr "<b>Název: </b> %1 <br />"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:148
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Description: </b> %1 <br />"
-msgstr "<b>Popis: </b> %1 <br />"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Name:</b> %1<br/>"
-msgstr "<b>Název:</b> %1<br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:155
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Task:</b> %1<br/>"
-msgstr "<b>Úloha:</b> %1<br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:157
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
-msgstr "<b>E-mail:</b> <a href=\"mailto:%1\">%1</a><br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:159
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
-msgstr "<b>Webová stránka:</b> <a href=\"%1\">%1</a><br/>"
+msgstr ""
 
 #: ../../../core/src/widgets/profilecreationpage.cpp:158
 msgctxt "Core::ProfileCreationPage|"
@@ -1110,10 +1103,9 @@ msgid "Password can not be empty!"
 msgstr "Heslo nemůže být prázdné!"
 
 #: ../../../core/src/corelayers/servicechooser/protocolchooserwidget.cpp:119
-#, fuzzy
 msgctxt "Core::ProtocolChoooserWidget|"
 msgid "To take effect you must restart qutIM"
-msgstr "Změny se projeví až po restartu qutIMu"
+msgstr ""
 
 #: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:45
 msgctxt "Core::ProxySettingsWidget|"
@@ -1137,46 +1129,45 @@ msgid "Type"
 msgstr "Typ"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:54
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Name: </b> %1 <br />"
-msgstr "<b>Název: </b> %1 <br />"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:55
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Description: </b> %1 <br />"
-msgstr "<b>Popis: </b> %1 <br />"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:60
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Name:</b> %1<br/>"
-msgstr "<b>Název:</b> %1<br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:62
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Task:</b> %1<br/>"
-msgstr "<b>Úloha:</b> %1<br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:64
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
-msgstr "<b>E-mail:</b> <a href=\"mailto:%1\">%1</a><br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:66
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
-msgstr "<b>Webová stránka:</b> <a href=\"%1\">%1</a><br/>"
+msgstr ""
 
 #: ../../../core/src/corelayers/servicechooser/servicechooserwidget.cpp:140
-#, fuzzy
 msgctxt "Core::ServiceChoooserWidget|"
 msgid "To take effect you must restart qutIM"
-msgstr "Změny se projeví až po restartu qutIMu"
+msgstr ""
 
 #: ../../../core/src/corelayers/shortcutsettings/shortcutitemdelegate.cpp:85
 msgctxt "Core::ShortcutItemDelegate|"
@@ -2030,10 +2021,9 @@ msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:9
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:40
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Contact list model set"
-msgstr "Seznam kontaktů"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:10
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:41
@@ -2458,10 +2448,9 @@ msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:95
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:10
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Contact comparators"
-msgstr "Kontakt změnil stav"
+msgstr ""
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:96
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:11
@@ -2635,10 +2624,9 @@ msgstr ""
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:47
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:49
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:51
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Contact list model"
-msgstr "Seznam kontaktů"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:44
 msgctxt "Plugin|"
@@ -2646,28 +2634,24 @@ msgid "Full-featured contact list model"
 msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:46
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Show accounts and contacts"
-msgstr "Zobrazit účty, štítky a kontakty"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:48
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Show tags and contacts"
-msgstr "Zobrazit štítky a kontakty"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:50
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Show only contacts"
-msgstr "Zobrazit pouze kontakty"
+msgstr ""
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:52
-#, fuzzy
 msgctxt "Plugin|"
 msgid "Show accounts, tags and contacts"
-msgstr "Zobrazit účty, štítky a kontakty"
+msgstr ""
 
 #: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:43
 msgctxt "Plugin|"
@@ -4098,6 +4082,30 @@ msgstr "Zavřít"
 #~ msgid "To take effect you must restart qutIM"
 #~ msgstr "Změny se projeví až po restartu qutIMu"
 
+#~ msgctxt "Core::PluginChooserWidget|"
+#~ msgid "<b>Name: </b> %1 <br />"
+#~ msgstr "<b>Název: </b> %1 <br />"
+
+#~ msgctxt "Core::PluginChooserWidget|"
+#~ msgid "<b>Description: </b> %1 <br />"
+#~ msgstr "<b>Popis: </b> %1 <br />"
+
+#~ msgctxt "Core::PluginChooserWidget|"
+#~ msgid "<b>Name:</b> %1<br/>"
+#~ msgstr "<b>Název:</b> %1<br/>"
+
+#~ msgctxt "Core::PluginChooserWidget|"
+#~ msgid "<b>Task:</b> %1<br/>"
+#~ msgstr "<b>Úloha:</b> %1<br/>"
+
+#~ msgctxt "Core::PluginChooserWidget|"
+#~ msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
+#~ msgstr "<b>E-mail:</b> <a href=\"mailto:%1\">%1</a><br/>"
+
+#~ msgctxt "Core::PluginChooserWidget|"
+#~ msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
+#~ msgstr "<b>Webová stránka:</b> <a href=\"%1\">%1</a><br/>"
+
 #~ msgctxt "Core::ProtocolChooserWidget|"
 #~ msgid "To take effect you must restart qutIM"
 #~ msgstr "Změny se projeví až po restartu qutIMu"
@@ -4131,12 +4139,20 @@ msgstr "Zavřít"
 #~ msgstr "Změny se projeví až po restartu qutIMu"
 
 #~ msgctxt "Core::SimpleContactList::AbstractContactModel|"
+#~ msgid "Blink icon in the contact list"
+#~ msgstr "Blikající ikony v seznamu kontaktů"
+
+#~ msgctxt "Core::SimpleContactList::AbstractContactModel|"
 #~ msgid "All tags"
 #~ msgstr "Všechny štítky"
 
 #~ msgctxt "Core::SimpleContactList::AbstractContactModel|"
 #~ msgid "Custom tags"
 #~ msgstr "Vlastní štítky"
+
+#~ msgctxt "Core::SimpleContactList::AbstractContactModel|"
+#~ msgid "Without tags"
+#~ msgstr "Bez štítků"
 
 #~ msgctxt "Core::SimpleContactList::SeparatedModel|"
 #~ msgid "Without tags"
@@ -4145,11 +4161,3 @@ msgstr "Zavřít"
 #~ msgctxt "Core::SimpleContactList::TreeModel|"
 #~ msgid "Without tags"
 #~ msgstr "Bez štítků"
-
-#~ msgctxt "ContactInfo|"
-#~ msgid "Recieved authorizarion request from %1:"
-#~ msgstr "Požadována autorizace od %1:"
-
-#~ msgctxt "ContactInfo|"
-#~ msgid "Send authorizarion request to %1:"
-#~ msgstr "Odeslat požadavek na autorizaci pro %1:"

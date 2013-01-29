@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-02-19 16:52+0000\n"
+"POT-Creation-Date: 2013-01-28 19:33+0000\n"
 "PO-Revision-Date: 2012-05-23 21:08+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
@@ -15,9 +15,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-28 12:52+0000\n"
-"X-Generator: Launchpad (build 15505)\n"
+"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
+"X-Generator: Launchpad (build 16451)\n"
 "X-Qt-Contexts: true\n"
+"Language: uk\n"
 
 #: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:14
 msgctxt "ChooseCategoryPage|"
@@ -179,34 +180,29 @@ msgid "Package name:"
 msgstr "Назва пакунку:"
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:20
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Install"
-msgstr "Встановити"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:24
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Update"
-msgstr "Оновити"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:28
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Installing"
-msgstr "Встановлення"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:32
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Updating"
-msgstr "Оновлення"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:36
-#, fuzzy
 msgctxt "InstallButton|"
 msgid "Uninstall"
-msgstr "Видалити"
+msgstr ""
 
 #: ../../../plugins/plugman/src/packagedownloaddialog.cpp:52
 msgctxt "PackageDownloadDialog|"
@@ -269,27 +265,88 @@ msgid "Package manager"
 msgstr "Менеджер пакунків"
 
 #: ../../../plugins/plugman/qml/plugman/default/main.qml:24
-#, fuzzy
 msgctxt "main|"
 msgid "Search"
-msgstr "Пошук:"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/main.qml:36
-#, fuzzy
 msgctxt "main|"
 msgid "Order By"
-msgstr "Сортувати по:"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/main.qml:59
-#, fuzzy
 msgctxt "main|"
 msgid "Order by: "
-msgstr "Сортувати по:"
+msgstr ""
 
 #: ../../../plugins/plugman/qml/plugman/default/main.qml:69
 msgctxt "main|"
 msgid "Get emoticons"
 msgstr ""
+
+#~ msgctxt "QObject|"
+#~ msgid "Invalid package version"
+#~ msgstr "Невірна версія пакунку"
+
+#~ msgctxt "plugInstaller|"
+#~ msgid "Unable to open archive: %1"
+#~ msgstr "Не вдалось відкрити архів: %1"
+
+#~ msgctxt "plugInstaller|"
+#~ msgid "Need restart!"
+#~ msgstr "Потрібен перезапуск"
+
+#~ msgctxt "plugDownloader|"
+#~ msgid "Downloading: %1%, speed: %2 %3"
+#~ msgstr "Завантажено: %1%, Швидкість: %2 %3"
+
+#~ msgctxt "plugInstaller|"
+#~ msgid "Invalid package: %1"
+#~ msgstr "Недісний пакунок: %1"
+
+#~ msgctxt "plugInstaller|"
+#~ msgid "Installing:"
+#~ msgstr "Встановлення:"
+
+#~ msgctxt "plugInstaller|"
+#~ msgid "Removing:"
+#~ msgstr "Вилучення:"
+
+#~ msgctxt "plugInstaller|"
+#~ msgid "Unable to extract archive: %1 to %2"
+#~ msgstr "Неможливо розпакувати архів : %1 в %2"
+
+#~ msgctxt "plugInstaller|"
+#~ msgid "Unable to install package: %1"
+#~ msgstr "Неможливо встановити пакунок: %1"
+
+#~ msgctxt "plugManager|"
+#~ msgid "Update packages list"
+#~ msgstr "Оновлення списку пакунків"
+
+#~ msgctxt "plugManager|"
+#~ msgid "Upgrade all"
+#~ msgstr "Оновити всі пакунки"
+
+#~ msgctxt "plugXMLHandler|"
+#~ msgid "unable to open file"
+#~ msgstr "неможливо відкрити файл"
+
+#~ msgctxt "plugXMLHandler|"
+#~ msgid "Broken package database"
+#~ msgstr "Збій бази даних пакунків"
+
+#~ msgctxt "plugXMLHandler|"
+#~ msgid "Unable to write file"
+#~ msgstr "Неможливо записати файл"
+
+#~ msgctxt "plugXMLHandler|"
+#~ msgid "Can't read database. Check your pesmissions."
+#~ msgstr "Невдалось прочитати базу даних. Перевірте свої права доступу"
+
+#~ msgctxt "plugmanSettings|"
+#~ msgid "group packages"
+#~ msgstr "Групи пакунків"
 
 #~ msgctxt "PackageDownloadDialog|"
 #~ msgid "Form"
@@ -300,52 +357,60 @@ msgstr ""
 #~ msgstr "Даті створення"
 
 #~ msgctxt "PackageDownloadDialog|"
-#~ msgid "Rating"
-#~ msgstr "Рейтингу"
+#~ msgid "Order by:"
+#~ msgstr "Сортувати по:"
 
 #~ msgctxt "PackageDownloadDialog|"
 #~ msgid "Most downloads"
 #~ msgstr "Кількості завантажень"
 
 #~ msgctxt "PackageDownloadDialog|"
+#~ msgid "Rating"
+#~ msgstr "Рейтингу"
+
+#~ msgctxt "PackageDownloadDialog|"
 #~ msgid "Installed"
 #~ msgstr "Кількості встановлень"
 
-#~ msgctxt "QObject|"
-#~ msgid "No target filename has been given."
-#~ msgstr "Не вказано файл призначення."
+#~ msgctxt "PackageDownloadDialog|"
+#~ msgid "Search:"
+#~ msgstr "Пошук:"
 
 #~ msgctxt "QObject|"
 #~ msgid "Already opened."
 #~ msgstr "Вже відкрито."
 
 #~ msgctxt "QObject|"
-#~ msgid "Insufficient permissions in target directory."
-#~ msgstr "Недостатньо прав для доступу в цільовий каталог."
+#~ msgid "No target filename has been given."
+#~ msgstr "Не вказано файл призначення."
 
-#~ msgctxt "QObject|"
-#~ msgid "Unable to open temporary file."
-#~ msgstr "Неможливо відкрити тимчасовий файл."
-
-#~ msgctxt "QObject|"
-#~ msgid "Synchronization to disk failed"
-#~ msgstr "Спроба синхронізації з диском спіткала невдача"
-
-#~ msgctxt "QObject|"
-#~ msgid "Error during rename."
-#~ msgstr "Помилка при перейменуванні."
+#~ msgctxt "manager|"
+#~ msgid "Not yet implemented"
+#~ msgstr "Ще не реалізовано"
 
 #~ msgctxt "QObject|"
 #~ msgid "Package name is empty"
 #~ msgstr "Не вказано ім’я пакету"
 
 #~ msgctxt "QObject|"
-#~ msgid "Package type is empty"
-#~ msgstr "Не вказано тип пакету"
+#~ msgid "Error during rename."
+#~ msgstr "Помилка при перейменуванні."
 
 #~ msgctxt "QObject|"
-#~ msgid "Invalid package version"
-#~ msgstr "Невірна версія пакунку"
+#~ msgid "Synchronization to disk failed"
+#~ msgstr "Спроба синхронізації з диском спіткала невдача"
+
+#~ msgctxt "QObject|"
+#~ msgid "Unable to open temporary file."
+#~ msgstr "Неможливо відкрити тимчасовий файл."
+
+#~ msgctxt "QObject|"
+#~ msgid "Insufficient permissions in target directory."
+#~ msgstr "Недостатньо прав для доступу в цільовий каталог."
+
+#~ msgctxt "QObject|"
+#~ msgid "Package type is empty"
+#~ msgstr "Не вказано тип пакету"
 
 #~ msgctxt "QObject|"
 #~ msgid "Wrong platform"
@@ -355,21 +420,17 @@ msgstr ""
 #~ msgid "Plugman"
 #~ msgstr "ПлагМен"
 
-#~ msgctxt "manager|"
-#~ msgid "Not yet implemented"
-#~ msgstr "Ще не реалізовано"
+#~ msgctxt "plugInstaller|"
+#~ msgid "warning: trying to overwrite existing files!"
+#~ msgstr "Увага: ви намагаєтеся перезаписати існуючі файли"
+
+#~ msgctxt "plugDownloader|"
+#~ msgid "MB/s"
+#~ msgstr "МБ/с"
 
 #~ msgctxt "manager|"
 #~ msgid "Apply"
 #~ msgstr "Застосувати"
-
-#~ msgctxt "manager|"
-#~ msgid "Actions"
-#~ msgstr "Дії"
-
-#~ msgctxt "manager|"
-#~ msgid "find"
-#~ msgstr "Знайти"
 
 #~ msgctxt "plugDownloader|"
 #~ msgid "bytes/sec"
@@ -379,57 +440,21 @@ msgstr ""
 #~ msgid "kB/s"
 #~ msgstr "кБ/с"
 
-#~ msgctxt "plugDownloader|"
-#~ msgid "MB/s"
-#~ msgstr "МБ/с"
+#~ msgctxt "manager|"
+#~ msgid "Actions"
+#~ msgstr "Дії"
 
-#~ msgctxt "plugDownloader|"
-#~ msgid "Downloading: %1%, speed: %2 %3"
-#~ msgstr "Завантажено: %1%, Швидкість: %2 %3"
-
-#~ msgctxt "plugInstaller|"
-#~ msgid "Need restart!"
-#~ msgstr "Потрібен перезапуск"
-
-#~ msgctxt "plugInstaller|"
-#~ msgid "Unable to open archive: %1"
-#~ msgstr "Не вдалось відкрити архів: %1"
-
-#~ msgctxt "plugInstaller|"
-#~ msgid "warning: trying to overwrite existing files!"
-#~ msgstr "Увага: ви намагаєтеся перезаписати існуючі файли"
-
-#~ msgctxt "plugInstaller|"
-#~ msgid "Unable to extract archive: %1 to %2"
-#~ msgstr "Неможливо розпакувати архів : %1 в %2"
-
-#~ msgctxt "plugInstaller|"
-#~ msgid "Installing:"
-#~ msgstr "Встановлення:"
-
-#~ msgctxt "plugInstaller|"
-#~ msgid "Invalid package: %1"
-#~ msgstr "Недісний пакунок: %1"
-
-#~ msgctxt "plugInstaller|"
-#~ msgid "Removing:"
-#~ msgstr "Вилучення:"
+#~ msgctxt "manager|"
+#~ msgid "find"
+#~ msgstr "Знайти"
 
 #~ msgctxt "plugInstaller|"
 #~ msgid "Unable to update package %1: installed version is later"
 #~ msgstr "Неможливо оновити пакунок %1: встановлена новіша версія"
 
-#~ msgctxt "plugInstaller|"
-#~ msgid "Unable to install package: %1"
-#~ msgstr "Неможливо встановити пакунок: %1"
-
 #~ msgctxt "plugItemDelegate|"
 #~ msgid "isUpgradable"
 #~ msgstr "Оновлення"
-
-#~ msgctxt "plugItemDelegate|"
-#~ msgid "isInstallable"
-#~ msgstr "Установка"
 
 #~ msgctxt "plugItemDelegate|"
 #~ msgid "isDowngradable"
@@ -438,6 +463,22 @@ msgstr ""
 #~ msgctxt "plugItemDelegate|"
 #~ msgid "installed"
 #~ msgstr "Встановлений"
+
+#~ msgctxt "plugItemDelegate|"
+#~ msgid "isInstallable"
+#~ msgstr "Установка"
+
+#~ msgctxt "plugXMLHandler|"
+#~ msgid "Unable to open file"
+#~ msgstr "Не вдалося відкрити файл"
+
+#~ msgctxt "plugPackageModel|"
+#~ msgid "Packages"
+#~ msgstr "Пакунки"
+
+#~ msgctxt "plugManager|"
+#~ msgid "Revert changes"
+#~ msgstr "Скасувати зміни"
 
 #~ msgctxt "plugItemDelegate|"
 #~ msgid "Unknown"
@@ -459,61 +500,17 @@ msgstr ""
 #~ msgid "Actions"
 #~ msgstr "Дії"
 
-#~ msgctxt "plugManager|"
-#~ msgid "Update packages list"
-#~ msgstr "Оновлення списку пакунків"
-
-#~ msgctxt "plugManager|"
-#~ msgid "Upgrade all"
-#~ msgstr "Оновити всі пакунки"
-
-#~ msgctxt "plugManager|"
-#~ msgid "Revert changes"
-#~ msgstr "Скасувати зміни"
-
-#~ msgctxt "plugPackageModel|"
-#~ msgid "Packages"
-#~ msgstr "Пакунки"
-
-#~ msgctxt "plugXMLHandler|"
-#~ msgid "Unable to open file"
-#~ msgstr "Не вдалося відкрити файл"
-
-#~ msgctxt "plugXMLHandler|"
-#~ msgid "Unable to set content"
-#~ msgstr "Неможливо встановити вміст"
-
-#~ msgctxt "plugXMLHandler|"
-#~ msgid "Unable to write file"
-#~ msgstr "Неможливо записати файл"
-
-#~ msgctxt "plugXMLHandler|"
-#~ msgid "Can't read database. Check your pesmissions."
-#~ msgstr "Невдалось прочитати базу даних. Перевірте свої права доступу"
-
-#~ msgctxt "plugXMLHandler|"
-#~ msgid "Broken package database"
-#~ msgstr "Збій бази даних пакунків"
-
-#~ msgctxt "plugXMLHandler|"
-#~ msgid "unable to open file"
-#~ msgstr "неможливо відкрити файл"
+#~ msgctxt "plugmanSettings|"
+#~ msgid "Form"
+#~ msgstr "Стиль"
 
 #~ msgctxt "plugXMLHandler|"
 #~ msgid "unable to set content"
 #~ msgstr "неможливо встановити зміст"
 
-#~ msgctxt "plugmanSettings|"
-#~ msgid "Form"
-#~ msgstr "Стиль"
-
-#~ msgctxt "plugmanSettings|"
-#~ msgid "Settings"
-#~ msgstr "Налаштування"
-
-#~ msgctxt "plugmanSettings|"
-#~ msgid "group packages"
-#~ msgstr "Групи пакунків"
+#~ msgctxt "plugXMLHandler|"
+#~ msgid "Unable to set content"
+#~ msgstr "Неможливо встановити вміст"
 
 #~ msgctxt "plugmanSettings|"
 #~ msgid ""
@@ -540,16 +537,8 @@ msgstr ""
 #~ "weight:600;\">Дзеркала</span></p></body></html>"
 
 #~ msgctxt "plugmanSettings|"
-#~ msgid "Add"
-#~ msgstr "Додати"
-
-#~ msgctxt "plugmanSettings|"
-#~ msgid "Not yet implemented"
-#~ msgstr "Ще не реалізовано"
-
-#~ msgctxt "plugmanSettings|"
-#~ msgid "About"
-#~ msgstr "Про програму"
+#~ msgid "Settings"
+#~ msgstr "Налаштування"
 
 #~ msgctxt "plugmanSettings|"
 #~ msgid ""
@@ -622,6 +611,18 @@ msgstr ""
 #~ msgctxt "plugmanSettings|"
 #~ msgid "Name"
 #~ msgstr "Ім'я"
+
+#~ msgctxt "plugmanSettings|"
+#~ msgid "Not yet implemented"
+#~ msgstr "Ще не реалізовано"
+
+#~ msgctxt "plugmanSettings|"
+#~ msgid "About"
+#~ msgstr "Про програму"
+
+#~ msgctxt "plugmanSettings|"
+#~ msgid "Add"
+#~ msgstr "Додати"
 
 #~ msgctxt "plugmanSettings|"
 #~ msgid "Description"
