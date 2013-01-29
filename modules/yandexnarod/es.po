@@ -163,39 +163,50 @@ msgctxt "YandexNarodSettingsClass|"
 msgid "Manage files"
 msgstr "Administrar archivos"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:55
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:59
 msgctxt "YandexNarodUploadJob|"
 msgid "Authorizing..."
 msgstr "Autorizando..."
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:76
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:81
+#, fuzzy
+msgctxt "YandexNarodUploadJob|"
+msgid "Creating directory..."
+msgstr "Obteniendo almacenaje..."
+
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:110
 #, fuzzy
 msgctxt "YandexNarodUploadJob|"
 msgid "Uploading file..."
 msgstr "Subir Archivo"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:82
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:114
 #, qt-format
 msgctxt "YandexNarodUploadJob|"
 msgid "Could not open file %1"
 msgstr "No se pudo abrir el archivo %1"
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:153
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:136
 msgctxt "YandexNarodUploadJob|"
 msgid "Not anough space on storage"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:158
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:141
 msgctxt "YandexNarodUploadJob|"
 msgid "File too large"
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:172
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:192
+msgctxt "YandexNarodUploadJob|"
+msgid "Can't create directory \"/qutim-filetransfer/\""
+msgstr ""
+
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:250
 msgctxt "YandexNarodUploadJob|"
 msgid "Publishing file..."
 msgstr ""
 
-#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:187
+#: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:265
 msgctxt "YandexNarodUploadJob|Don't remove format arguments"
 msgid ""
 "File sent: %N (%S bytes)\n"
@@ -273,7 +284,3 @@ msgstr "Lista de archivos:"
 msgctxt "yandexnarodManageClass|"
 msgid "New Item"
 msgstr "Nuevo Elemento"
-
-#~ msgctxt "YandexNarodUploadJob|"
-#~ msgid "Getting storage..."
-#~ msgstr "Obteniendo almacenaje..."
