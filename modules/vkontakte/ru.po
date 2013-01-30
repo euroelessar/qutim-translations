@@ -3,37 +3,37 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2012-07-04 11:12+0000\n"
+"PO-Revision-Date: 2013-01-29 23:26+0000\n"
 "Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
-"X-Generator: Launchpad (build 16451)\n"
+"X-Launchpad-Export-Date: 2013-01-30 04:52+0000\n"
+"X-Generator: Launchpad (build 16455)\n"
 "X-Qt-Contexts: true\n"
+"Language: ru\n"
 "X-Language: ru\n"
 
 #: ../../../protocols/vkontakte/vreen/src/qml/src/buddymodel.cpp:83
 msgctxt "BuddyModel|"
 msgid "Online"
-msgstr ""
+msgstr "В сети"
 
 #: ../../../protocols/vkontakte/vreen/src/qml/src/buddymodel.cpp:85
 msgctxt "BuddyModel|"
 msgid "Offline"
-msgstr ""
+msgstr "Не в сети"
 
 #: ../../../protocols/vkontakte/vreen/src/qml/src/buddymodel.cpp:87
 msgctxt "BuddyModel|"
 msgid "Away"
-msgstr ""
+msgstr "Отошёл"
 
 #: ../../../protocols/vkontakte/vreen/src/qml/src/chatmodel.cpp:67
 msgctxt "ChatModel|"
 msgid "unknown"
-msgstr ""
+msgstr "Неизвестный"
 
 #: ../../../protocols/vkontakte/src/vcontact.cpp:250
 msgctxt "ContactInfo|"
@@ -143,25 +143,25 @@ msgstr "Образование"
 #: ../../../protocols/vkontakte/share/vphotoalbum/default/PageHeader.qml:16
 msgctxt "PageHeader|"
 msgid "Header"
-msgstr ""
+msgstr "Заголовок"
 
 #: ../../../protocols/vkontakte/vreen/examples/cpp/phonefetcher/phonefetcher.cpp:59
 #, qt-format
 msgctxt "PhoneFetcher|"
 msgid "-- %1 contacts recieved"
-msgstr ""
+msgstr "-- %1 контакт(ов) принято"
 
 #: ../../../protocols/vkontakte/vreen/examples/cpp/phonefetcher/phonefetcher.cpp:63
 #, qt-format
 msgctxt "PhoneFetcher|"
 msgid "name: %1, home: %2, mobile: %3"
-msgstr ""
+msgstr "имя: %1, дом: %2, мобильный: %3"
 
 #: ../../../protocols/vkontakte/vreen/examples/cpp/phonefetcher/phonefetcher.cpp:64
 #: ../../../protocols/vkontakte/vreen/examples/cpp/phonefetcher/phonefetcher.cpp:65
 msgctxt "PhoneFetcher|"
 msgid "unknown"
-msgstr ""
+msgstr "нет информации"
 
 #: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:1
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:50
@@ -212,12 +212,12 @@ msgstr "Поддержка прокси для протокола ВКонтак
 #: ../../../protocols/vkontakte/src/ui/vaccountcreator.cpp:68
 msgctxt "Protocol|"
 msgid "vk.com"
-msgstr ""
+msgstr "vk.com"
 
 #: ../../../protocols/vkontakte/src/ui/vaccountcreator.cpp:69
 msgctxt "Protocol|"
 msgid "Add vk.com account"
-msgstr ""
+msgstr "Добавить учётную запись vk.com"
 
 #: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:72
 msgctxt "QObject|"
@@ -288,13 +288,13 @@ msgstr "Электронная почта:"
 #, qt-format
 msgctxt "VGroupChat|"
 msgid "%1 has joined the room"
-msgstr ""
+msgstr "%1 вошел в комнату"
 
 #: ../../../protocols/vkontakte/src/vgroupchat.cpp:163
 #, qt-format
 msgctxt "VGroupChat|"
 msgid "%1 has left the room"
-msgstr ""
+msgstr "%1 покинул комнату"
 
 #: ../../../protocols/vkontakte/src/vprotocol.cpp:94
 msgctxt "VProtocol|"
@@ -304,7 +304,7 @@ msgstr "id"
 #: ../../../protocols/vkontakte/src/experimental/vphotoviewer.cpp:47
 msgctxt "Vkontakte|"
 msgid "View photoalbum"
-msgstr ""
+msgstr "Просмотреть фотоальбом"
 
 # Открыть хомяка - так значительно короче, но хомячки (сорь за тафтологию) не поймут^_^'
 #: ../../../protocols/vkontakte/src/vprotocol.cpp:69
@@ -316,25 +316,25 @@ msgstr "Открыть домашнюю страничку"
 #, qt-format
 msgctxt "Vreen::Buddy|"
 msgid "id%1"
-msgstr ""
+msgstr "id%1"
 
 #: ../../../protocols/vkontakte/vreen/src/api/contact.cpp:149
 #, qt-format
 msgctxt "Vreen::Buddy|"
 msgid "Unknown tag id %1"
-msgstr ""
+msgstr "Неизвестная метка  id %1"
 
 #: ../../../protocols/vkontakte/vreen/src/api/contact.cpp:246
 #, qt-format
 msgctxt "Vreen::Group|"
 msgid "group-%1"
-msgstr ""
+msgstr "Группа-%1"
 
 #: ../../../protocols/vkontakte/share/vphotoalbum/default/main.qml:13
 #, qt-format
 msgctxt "main|"
 msgid "%1's photoalbum"
-msgstr ""
+msgstr "Фотоальбом %1"
 
 #: ../../../protocols/vkontakte/vreen/examples/declarative/audio/qml/main.qml:17
 #: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:17
@@ -344,6 +344,7 @@ msgstr ""
 msgctxt "main|"
 msgid "<a href=\"http://vk.com\">Click to login</a>"
 msgstr ""
+"<a href=\"http://vk.com\" title=\"Переход на vk.com\">Нажмите для входа</a>"
 
 #: ../../../protocols/vkontakte/vreen/examples/declarative/audio/qml/main.qml:59
 #: ../../../protocols/vkontakte/vreen/examples/quick/audio/qml/main.qml:95
@@ -356,7 +357,7 @@ msgstr ""
 #: ../../../protocols/vkontakte/vreen/examples/quick/audio/qml/main.qml:95
 msgctxt "main|"
 msgid "Unknown"
-msgstr ""
+msgstr "Неизвестный"
 
 #: ../../../protocols/vkontakte/vreen/examples/declarative/audio/qml/main.qml:142
 #, qt-format
@@ -415,6 +416,7 @@ msgstr ""
 #~ msgid "Password:"
 #~ msgstr "Пароль:"
 
+#, qt-format
 #~ msgctxt "VAccountSettings|"
 #~ msgid "%1 settings"
 #~ msgstr "%1 настройки"
@@ -431,14 +433,17 @@ msgstr ""
 #~ msgid "Account settings"
 #~ msgstr "Настройки учетной записи"
 
+#, qt-format
 #~ msgctxt "vk::Buddy|"
 #~ msgid "id%1"
 #~ msgstr "id%1"
 
+#, qt-format
 #~ msgctxt "vk::Buddy|"
 #~ msgid "Unknown tag id %1"
 #~ msgstr "Неизвестная метка  id %1"
 
+#, qt-format
 #~ msgctxt "vk::Group|"
 #~ msgid "group-%1"
 #~ msgstr "Группа-%1"

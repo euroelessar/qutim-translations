@@ -1,0 +1,161 @@
+# Hebrew translation for qutim
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-01-28 19:34+0000\n"
+"PO-Revision-Date: 2013-01-29 15:14+0000\n"
+"Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
+"Language-Team: Hebrew <he@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-01-30 04:52+0000\n"
+"X-Generator: Launchpad (build 16455)\n"
+
+#: ../../../plugins/control/src/quickanswerbuttonaction.cpp:42
+msgctxt "Control|"
+msgid "Answer"
+msgstr "מענה"
+
+#: ../../../plugins/control/src/settingswidget.cpp:43
+msgctxt "Control::AnswerLine|"
+msgid "Remove"
+msgstr "הסר"
+
+#: ../../../plugins/control/src/autoreplybuttonaction.cpp:95
+msgctxt "Control::AutoReplyButton|"
+msgid "Bin lookup"
+msgstr ""
+
+#: ../../../plugins/control/src/networkmanager.cpp:198
+#, qt-format
+msgctxt "Control::NetworkManager|"
+msgid "Put local certificate at \"%1\""
+msgstr "השם תעודה מקומית בתוך \"%1\""
+
+#: ../../../plugins/control/src/networkmanager.cpp:199
+#, qt-format
+msgctxt "Control::NetworkManager|"
+msgid "Put server's certificate at \"%1\""
+msgstr "השם תעודת שרת בתוך \"%1\""
+
+#: ../../../plugins/control/src/networkmanager.cpp:216
+#: ../../../plugins/control/src/networkmanager.cpp:394
+#: ../../../plugins/control/src/networkmanager.cpp:424
+#: ../../../plugins/control/src/networkmanager.cpp:438
+msgctxt "Control::NetworkManager|"
+msgid "Control plugin"
+msgstr "תוספת בקרה"
+
+#: ../../../plugins/control/src/networkmanager.cpp:395
+#, qt-format
+msgctxt "Control::NetworkManager|"
+msgid ""
+"Error connecting to %1:\n"
+"%2"
+msgstr ""
+"שגיאה בהתחברות אל %1:‏\n"
+"%2"
+
+#: ../../../plugins/control/src/networkmanager.cpp:425
+#, qt-format
+msgctxt "Control::NetworkManager|"
+msgid ""
+"Received reply from server:\n"
+"%1"
+msgstr ""
+"התקבלה תשובה מן שרת:\n"
+"%1"
+
+#: ../../../plugins/control/src/networkmanager.cpp:439
+msgctxt "Control::NetworkManager|"
+msgid "Invalid login or/and password. Please set right one in settings"
+msgstr ""
+
+#: ../../../plugins/control/src/quickanswerbuttonaction.cpp:60
+msgctxt "Control::QuickAnswerButtonAction|"
+msgid "Answers"
+msgstr "תשובות"
+
+#: ../../../plugins/control/src/quickanswerbuttonaction.cpp:68
+msgctxt "Control::QuickAnswerButtonAction|"
+msgid "Update answers"
+msgstr "עדכן מענה"
+
+#: ../../../plugins/control/src/rostermanager.cpp:275
+msgctxt "Control::RosterManager|"
+msgid "Control plugin"
+msgstr "תוספת בקרה"
+
+#: ../../../plugins/control/src/rostermanager.cpp:276
+#, qt-format
+msgctxt "Control::RosterManager|"
+msgid ""
+"qutIM sends request to server:\n"
+"%1"
+msgstr ""
+"qutIM שולח בקשה אל שרת:\n"
+"%1"
+
+#: ../../../plugins/control/src/settingswidget.ui:31
+msgctxt "Control::SettingsWidget|"
+msgid "Username:"
+msgstr "שם משתמש:"
+
+#: ../../../plugins/control/src/settingswidget.ui:38
+msgctxt "Control::SettingsWidget|"
+msgid "Enter your username"
+msgstr "הזן שם משתמש"
+
+#: ../../../plugins/control/src/settingswidget.ui:45
+msgctxt "Control::SettingsWidget|"
+msgid "Password:"
+msgstr "סיסמה:"
+
+#: ../../../plugins/control/src/settingswidget.ui:55
+msgctxt "Control::SettingsWidget|"
+msgid "Enter your password"
+msgstr "הזן סיסמה"
+
+#: ../../../plugins/control/src/settingswidget.ui:62
+msgctxt "Control::SettingsWidget|"
+msgid "Url:"
+msgstr "‏Url:"
+
+#: ../../../plugins/control/src/settingswidget.ui:72
+msgctxt "Control::SettingsWidget|"
+msgid "Enter server's url (http://example.com/)"
+msgstr ""
+
+#: ../../../plugins/control/src/settingswidget.ui:79
+msgctxt "Control::SettingsWidget|"
+msgid "Requests url:"
+msgstr ""
+
+#: ../../../plugins/control/src/settingswidget.ui:89
+msgctxt "Control::SettingsWidget|"
+msgid "Enter url for messages requests (http://example.com/)"
+msgstr "הזן url עבור הודעות בקשה (‪http://example.com/‬)"
+
+#: ../../../plugins/control/src/settingswidget.ui:120
+msgctxt "Control::SettingsWidget|"
+msgid "Add answer"
+msgstr ""
+
+#: ../../../plugins/control/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/control/src/controlplugin.cpp:40
+#: ../../../plugins/control/src/rostermanager.cpp:91
+msgctxt "Plugin|"
+msgid "Control"
+msgstr "בקרה"
+
+#: ../../../plugins/control/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/control/src/controlplugin.cpp:41
+msgctxt "Plugin|"
+msgid "Controls user by sending messages and roster to remote server"
+msgstr ""

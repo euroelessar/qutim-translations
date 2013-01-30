@@ -7,17 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-01-28 19:33+0000\n"
+"POT-Creation-Date: 2013-01-29 12:42+0000\n"
 "PO-Revision-Date: 2012-05-19 11:21+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
-"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
-"X-Generator: Launchpad (build 16451)\n"
+"X-Launchpad-Export-Date: 2013-01-30 04:52+0000\n"
+"X-Generator: Launchpad (build 16455)\n"
 "X-Qt-Contexts: true\n"
+"Language: uk\n"
 
 #: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:41
@@ -97,7 +97,8 @@ msgstr "Висота"
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:56
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Max height of images preview."
-msgstr "Максимальний розмір зображення по вертикалі для попереднього перегляду"
+msgstr ""
+"Максимальний розмір зображення по вертикалі для попереднього перегляду"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:59
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:88
