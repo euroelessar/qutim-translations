@@ -3,18 +3,18 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2012-07-07 22:38+0000\n"
-"Last-Translator: Constantine E. Kozlov <tempor.demonius@gmail.com>\n"
+"PO-Revision-Date: 2013-01-29 23:17+0000\n"
+"Last-Translator: MrFree <f1.mrfree@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
-"X-Generator: Launchpad (build 16451)\n"
+"X-Launchpad-Export-Date: 2013-01-30 04:52+0000\n"
+"X-Generator: Launchpad (build 16455)\n"
 "X-Qt-Contexts: true\n"
+"Language: ru\n"
 "X-Language: ru\n"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:31
@@ -248,7 +248,7 @@ msgstr "Размер шрифта"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/ChatUnitsList.qml:39
 msgctxt "ChatUnitsList|"
 msgid "Participants"
-msgstr ""
+msgstr "Участники"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/authdialogwrapper.cpp:112
 #, qt-format
@@ -417,7 +417,7 @@ msgstr "Сохранить"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/EmoticonsPage.qml:45
 msgctxt "EmoticonsPage|"
 msgid "Selected theme"
-msgstr ""
+msgstr "Выбранная тема"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/HighlighterPage.qml:45
 msgctxt "HighlighterPage|"
@@ -700,7 +700,7 @@ msgstr "Вы действительно хотите удалить %1"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/emoticonswrapper.cpp:68
 msgctxt "MeegoIntegration::EmoticonsWrapper|"
 msgid "No emoticons"
-msgstr ""
+msgstr "Без смайлов"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/passworddialogwrapper.cpp:38
 msgctxt "MeegoIntegration::PasswordDialogWrapper|"
@@ -760,7 +760,7 @@ msgstr "Пароль:"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/components/PageHeader.qml:67
 msgctxt "PageHeader|"
 msgid "Header"
-msgstr ""
+msgstr "Заголовок"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/PasswordDialog.qml:56
 msgctxt "PasswordDialog|"
@@ -983,12 +983,12 @@ msgstr "Тип прокси"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/components/SearchBar.qml:26
 msgctxt "SearchBar|"
 msgid "Search"
-msgstr ""
+msgstr "Поиск"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/components/SearchBar.qml:45
 msgctxt "SearchBar|"
 msgid "Cancel"
-msgstr ""
+msgstr "Отмена"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/quickaddaccountdialog.cpp:46
 msgctxt "Settings|"

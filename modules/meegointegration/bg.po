@@ -3,19 +3,24 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2012-07-03 13:21+0000\n"
+"PO-Revision-Date: 2013-01-29 19:17+0000\n"
 "Last-Translator: Boyan Kiroff <boyan.kiroff@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
-"X-Generator: Launchpad (build 16451)\n"
+"X-Launchpad-Export-Date: 2013-01-30 04:51+0000\n"
+"X-Generator: Launchpad (build 16455)\n"
 "X-Qt-Contexts: true\n"
+"Language: bg\n"
 "X-Language: bg\n"
 "X-Source-Language: C\n"
+
+#: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:66
+msgctxt "Account|"
+msgid "Just add or create new account"
+msgstr "Добавяне или създаване на нова сметка"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:31
 msgctxt "AboutDialog|"
@@ -56,11 +61,6 @@ msgstr "Лиценз"
 msgctxt "Account|"
 msgid "Add new account"
 msgstr "Добавяне на нова сметка"
-
-#: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:66
-msgctxt "Account|"
-msgid "Just add or create new account"
-msgstr "Добавяне или създаване на нова сметка"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/accountcreatorlist.cpp:71
 msgctxt "Account|"
@@ -211,7 +211,7 @@ msgstr "Напишете нещо"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/ChatChannelList.qml:38
 msgctxt "ChatChannelList|"
 msgid "Open chats"
-msgstr ""
+msgstr "Отворени разговори"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/ChatPage.qml:81
 msgctxt "ChatPage|"
@@ -246,7 +246,7 @@ msgstr "Размер на шрифта"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/ChatUnitsList.qml:39
 msgctxt "ChatUnitsList|"
 msgid "Participants"
-msgstr ""
+msgstr "Участници"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/authdialogwrapper.cpp:112
 #, qt-format
@@ -415,7 +415,7 @@ msgstr "Запис"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/EmoticonsPage.qml:45
 msgctxt "EmoticonsPage|"
 msgid "Selected theme"
-msgstr ""
+msgstr "Избрана тема"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/HighlighterPage.qml:45
 msgctxt "HighlighterPage|"
@@ -699,7 +699,7 @@ msgstr "Сигурни ли сте, че желаете да премахнет�
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/emoticonswrapper.cpp:68
 msgctxt "MeegoIntegration::EmoticonsWrapper|"
 msgid "No emoticons"
-msgstr ""
+msgstr "Без емотикони"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/passworddialogwrapper.cpp:38
 msgctxt "MeegoIntegration::PasswordDialogWrapper|"
@@ -758,7 +758,7 @@ msgstr "Парола:"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/components/PageHeader.qml:67
 msgctxt "PageHeader|"
 msgid "Header"
-msgstr ""
+msgstr "Заглавна част"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/PasswordDialog.qml:56
 msgctxt "PasswordDialog|"
@@ -982,12 +982,12 @@ msgstr "Тип на проксито"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/components/SearchBar.qml:26
 msgctxt "SearchBar|"
 msgid "Search"
-msgstr ""
+msgstr "Търсене"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/components/SearchBar.qml:45
 msgctxt "SearchBar|"
 msgid "Cancel"
-msgstr ""
+msgstr "Отказ"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/quickaddaccountdialog.cpp:46
 msgctxt "Settings|"
