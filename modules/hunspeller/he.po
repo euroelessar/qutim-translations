@@ -1,0 +1,52 @@
+# Hebrew translation for qutim
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-02-19 16:51+0000\n"
+"PO-Revision-Date: 2013-01-30 05:31+0000\n"
+"Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
+"Language-Team: Hebrew <he@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-01-31 04:53+0000\n"
+"X-Generator: Launchpad (build 16455)\n"
+
+#: ../../../plugins/hunspeller/src/hunspellplugin.cpp:36
+msgctxt "Author|"
+msgid "Alexey Prokhin"
+msgstr "אלקסיי פרוקהין (Alexey Prokhin)"
+
+#: ../../../plugins/hunspeller/src/hunspellsettings.cpp:35
+msgctxt "HunSpellSettings|"
+msgid "Language"
+msgstr "שפה"
+
+#: ../../../plugins/hunspeller/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/hunspeller/src/hunspellplugin.cpp:39
+#: ../../../plugins/hunspeller/src/hunspellplugin.cpp:42
+msgctxt "Plugin|"
+msgid "HunSpell checker"
+msgstr ""
+
+#: ../../../plugins/hunspeller/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/hunspeller/src/hunspellplugin.cpp:40
+#: ../../../plugins/hunspeller/src/hunspellplugin.cpp:43
+msgctxt "Plugin|"
+msgid "Check spelling by HunSpell library"
+msgstr "בדוק איות בעזרת ספריית HunSpell"
+
+#: ../../../plugins/hunspeller/src/hunspellchecker.cpp:54
+msgctxt "Settings|"
+msgid "Spell checker"
+msgstr "בודק איות"
+
+#: ../../../plugins/hunspeller/src/hunspellplugin.cpp:37
+msgctxt "Task|"
+msgid "Author"
+msgstr "מחבר"
