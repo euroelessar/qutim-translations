@@ -8,21 +8,21 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2012-10-25 22:00+0000\n"
+"PO-Revision-Date: 2013-02-04 23:28+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
-"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
-"X-Generator: Launchpad (build 16451)\n"
+"X-Launchpad-Export-Date: 2013-02-05 04:56+0000\n"
+"X-Generator: Launchpad (build 16468)\n"
 "X-Qt-Contexts: true\n"
+"Language: uk\n"
 
 #: ../../../plugins/autoreply/src/autoreplyplugin.cpp:36
 msgctxt "AutoReply|"
 msgid "Auto reply"
-msgstr ""
+msgstr "Автовідповідь"
 
 #: ../../../plugins/autoreply/src/autoreplydialog.ui:14
 msgctxt "AutoReplyDialog|"
@@ -48,12 +48,12 @@ msgstr "Час очікування:"
 #: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:62
 msgctxt "AutoReplySettingsWidget|"
 msgid "hh:mm:ss"
-msgstr ""
+msgstr "гг:хх:сс"
 
 #: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:55
 msgctxt "AutoReplySettingsWidget|"
 msgid "Delta time between messages:"
-msgstr ""
+msgstr "Проміжок часу між повідомленнями:"
 
 #: ../../../plugins/autoreply/src/autoreplysettingswidget.ui:107
 msgctxt "AutoReplySettingsWidget|"

@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-29 20:12+0000\n"
-"PO-Revision-Date: 2012-10-27 14:36+0000\n"
-"Last-Translator: fishi <fishi@i.ua>\n"
+"PO-Revision-Date: 2013-02-04 23:14+0000\n"
+"Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-30 04:52+0000\n"
-"X-Generator: Launchpad (build 16455)\n"
+"X-Launchpad-Export-Date: 2013-02-05 04:56+0000\n"
+"X-Generator: Launchpad (build 16468)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
 
@@ -171,12 +171,12 @@ msgstr "Авторизація..."
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:81
 msgctxt "YandexNarodUploadJob|"
 msgid "Creating directory..."
-msgstr ""
+msgstr "Створення теки..."
 
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:110
 msgctxt "YandexNarodUploadJob|"
 msgid "Uploading file..."
-msgstr ""
+msgstr "Відвантаження файлу..."
 
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:114
 #, qt-format
@@ -187,22 +187,22 @@ msgstr "Не вдалося відкрити файл %1"
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:136
 msgctxt "YandexNarodUploadJob|"
 msgid "Not anough space on storage"
-msgstr ""
+msgstr "Не вистачає вільного місця"
 
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:141
 msgctxt "YandexNarodUploadJob|"
 msgid "File too large"
-msgstr ""
+msgstr "Файл надто великий"
 
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:192
 msgctxt "YandexNarodUploadJob|"
 msgid "Can't create directory \"/qutim-filetransfer/\""
-msgstr ""
+msgstr "Неможливо створити теку \"/qutim-filetransfer/\""
 
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:250
 msgctxt "YandexNarodUploadJob|"
 msgid "Publishing file..."
-msgstr ""
+msgstr "Публікація файлу"
 
 #: ../../../plugins/yandexnarod/src/yandexnaroduploadjob.cpp:265
 msgctxt "YandexNarodUploadJob|Don't remove format arguments"

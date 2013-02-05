@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2012-10-25 22:49+0000\n"
+"PO-Revision-Date: 2013-02-04 23:22+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
-"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-29 05:42+0000\n"
-"X-Generator: Launchpad (build 16451)\n"
+"X-Launchpad-Export-Date: 2013-02-05 04:56+0000\n"
+"X-Generator: Launchpad (build 16468)\n"
 "X-Qt-Contexts: true\n"
+"Language: uk\n"
 
 #: ../../../core/libqutim/account.cpp:144
 msgctxt "Account|"
@@ -259,7 +259,7 @@ msgstr "Остання активність"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbar.cpp:59
 msgctxt "CloseButton|"
 msgid "Close Tab"
-msgstr ""
+msgstr "Закрити вкладку"
 
 #: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:71
 #, qt-format
@@ -332,12 +332,12 @@ msgstr "Редагувати інформацію"
 #: ../../../core/src/corelayers/comparators/lastactivitycomparator.cpp:7
 msgctxt "ContactList|"
 msgid "Sort by contact's last activity"
-msgstr ""
+msgstr "Сортувати контакти за активністю"
 
 #: ../../../core/src/corelayers/comparators/statuscomparator.cpp:7
 msgctxt "ContactList|"
 msgid "Sort by contact's status"
-msgstr ""
+msgstr "Сортувати контакти за статусом"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistaccountmodel.cpp:33
 msgctxt "ContactList|"
@@ -464,7 +464,7 @@ msgstr "Стиль qutIM 0.2"
 #: ../../../core/src/corelayers/contactmodel/src/contactlistbasemodel.cpp:43
 msgctxt "ContactListBaseModel|"
 msgid "Blink icon in the contact list"
-msgstr ""
+msgstr "Блимати іконкою в списку контактів"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistbasemodel.cpp:623
 msgctxt "ContactListBaseModel|"
@@ -712,7 +712,7 @@ msgstr "&Розмова"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:263
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Contacts"
-msgstr ""
+msgstr "Контакти"
 
 #: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:47
 msgctxt "Core::AuthDialogPrivate|"
@@ -732,7 +732,7 @@ msgstr "Додати до словника"
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:41
 msgctxt "Core::ContactListSettings|"
 msgid "Sorting"
-msgstr ""
+msgstr "Сортування"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:42
 msgctxt "Core::ContactListSettings|"
@@ -984,7 +984,7 @@ msgstr "Неможливо записати у файл %1"
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:131
 msgctxt "Core::PluginChoooserWidget|"
 msgid "To take effect you must restart qutIM"
-msgstr ""
+msgstr "Щоб зміни набули чинності, перезапустіть qutIM"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:147
 #, qt-format
@@ -3824,10 +3824,9 @@ msgid "Don't group messages after (sec):"
 msgstr "Не групувати повідомлення після (секунд)"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:104
-#, fuzzy
 msgctxt "StackedChatBehavior|"
 msgid "Show contact id in receiver menu"
-msgstr "Показувати список контактів при запуску"
+msgstr ""
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:111
 msgctxt "StackedChatBehavior|"
