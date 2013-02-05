@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2012-05-22 21:08+0000\n"
+"PO-Revision-Date: 2013-02-04 23:25+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
-"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
-"X-Generator: Launchpad (build 16451)\n"
+"X-Launchpad-Export-Date: 2013-02-05 04:56+0000\n"
+"X-Generator: Launchpad (build 16468)\n"
 "X-Qt-Contexts: true\n"
+"Language: uk\n"
 
 #: ../../../plugins/macintegration/src/macidle/macidle.mm:79
 msgctxt "AutoAway|"
@@ -27,7 +27,7 @@ msgstr "Авто-\"Відійшов\""
 #: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:103
 msgctxt "Core::SimpleContactList::MacWidget|"
 msgid "Search"
-msgstr ""
+msgstr "Пошук"
 
 #: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:128
 msgctxt "Core::SimpleContactList::MacWidget|"
@@ -85,7 +85,7 @@ msgstr "Мова"
 #: ../../../plugins/macintegration/src/maccontactlistwidget/macsearchfield.mm:58
 msgctxt "MacWidget|"
 msgid "Filter"
-msgstr ""
+msgstr "Фільтр"
 
 #: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"

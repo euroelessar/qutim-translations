@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2012-10-25 22:49+0000\n"
+"PO-Revision-Date: 2013-02-04 23:22+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
-"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-29 05:42+0000\n"
-"X-Generator: Launchpad (build 16451)\n"
+"X-Launchpad-Export-Date: 2013-02-05 04:56+0000\n"
+"X-Generator: Launchpad (build 16468)\n"
 "X-Qt-Contexts: true\n"
+"Language: uk\n"
 
 #: ../../../core/libqutim/account.cpp:144
 msgctxt "Account|"
@@ -144,10 +144,10 @@ msgstr "Текстова мітка"
 #: ../../../core/src/corelayers/authdialog/authdialog.ui:33
 msgctxt "AuthDialog|"
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
 "weight:400; font-style:normal;\">\n"
@@ -155,10 +155,10 @@ msgid ""
 "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
 "family:'Droid Sans';\"></p></body></html>"
 msgstr ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-" <html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+" <html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
 " p, li { white-space: pre-wrap; }\n"
 " </style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
 "weight:400; font-style:normal;\">\n"
@@ -259,7 +259,7 @@ msgstr "Остання активність"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbar.cpp:59
 msgctxt "CloseButton|"
 msgid "Close Tab"
-msgstr ""
+msgstr "Закрити вкладку"
 
 #: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:71
 #, qt-format
@@ -332,12 +332,12 @@ msgstr "Редагувати інформацію"
 #: ../../../core/src/corelayers/comparators/lastactivitycomparator.cpp:7
 msgctxt "ContactList|"
 msgid "Sort by contact's last activity"
-msgstr ""
+msgstr "Сортувати контакти за активністю"
 
 #: ../../../core/src/corelayers/comparators/statuscomparator.cpp:7
 msgctxt "ContactList|"
 msgid "Sort by contact's status"
-msgstr ""
+msgstr "Сортувати контакти за статусом"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistaccountmodel.cpp:33
 msgctxt "ContactList|"
@@ -464,7 +464,7 @@ msgstr "Стиль qutIM 0.2"
 #: ../../../core/src/corelayers/contactmodel/src/contactlistbasemodel.cpp:43
 msgctxt "ContactListBaseModel|"
 msgid "Blink icon in the contact list"
-msgstr ""
+msgstr "Блимати іконкою в списку контактів"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistbasemodel.cpp:623
 msgctxt "ContactListBaseModel|"
@@ -712,7 +712,7 @@ msgstr "&Розмова"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:263
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Contacts"
-msgstr ""
+msgstr "Контакти"
 
 #: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:47
 msgctxt "Core::AuthDialogPrivate|"
@@ -732,7 +732,7 @@ msgstr "Додати до словника"
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:41
 msgctxt "Core::ContactListSettings|"
 msgid "Sorting"
-msgstr ""
+msgstr "Сортування"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:42
 msgctxt "Core::ContactListSettings|"
@@ -984,7 +984,7 @@ msgstr "Неможливо записати у файл %1"
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:131
 msgctxt "Core::PluginChoooserWidget|"
 msgid "To take effect you must restart qutIM"
-msgstr ""
+msgstr "Щоб зміни набули чинності, перезапустіть qutIM"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:147
 #, qt-format
@@ -1209,13 +1209,13 @@ msgctxt "Core::SimpleAboutDialog|"
 msgid ""
 "<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 3 "
 "or (at your option) any later version.</div><div>qutIM resources such as "
-"themes, icons, sounds may come along with a different license.</"
-"div><br><hr><br>"
+"themes, icons, sounds may come along with a different "
+"license.</div><br><hr><br>"
 msgstr ""
 "<div><b>qutIM</b> %1 під ліцензією GNU General Public License, версії 3 або "
 "(за бажанням) будь-якої пізнішої версії.</div><div>Ресурси qutIM такі як "
-"теми, іконки, звуки можуть поставлятися під іншою ліцензією.</"
-"div><br><hr><br>"
+"теми, іконки, звуки можуть поставлятися під іншою "
+"ліцензією.</div><br><hr><br>"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:193
 #, qt-format
@@ -2558,7 +2558,8 @@ msgstr "Модуль чата WebKit"
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:86
 msgctxt "Plugin|"
 msgid "Default qutIM chat implementation, based on Adium chat styles"
-msgstr "Типовий модуль чата qutIM, заснований на WebKit і темах чату для adium"
+msgstr ""
+"Типовий модуль чата qutIM, заснований на WebKit і темах чату для adium"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:109
 msgctxt "Plugin|"
@@ -3824,10 +3825,9 @@ msgid "Don't group messages after (sec):"
 msgstr "Не групувати повідомлення після (секунд)"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:104
-#, fuzzy
 msgctxt "StackedChatBehavior|"
 msgid "Show contact id in receiver menu"
-msgstr "Показувати список контактів при запуску"
+msgstr ""
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:111
 msgctxt "StackedChatBehavior|"
@@ -4084,13 +4084,13 @@ msgstr "Відтворити звук"
 #, qt-format
 msgctxt "qutim_sdk_0_3::StatisticsHelper|"
 msgid ""
-"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br /"
-"><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br /"
-"><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
+"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br "
+"/><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br "
+"/><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
 msgstr ""
-"<b>Коротко:</b> %1 <br /><b>Версія:</b> %2 <br /><b>Повністю:</b> %3 <br /"
-"><b>qutIM Версія:</b> %4 <br /><b>Qt Версія:</b> %5 (%6 bit) <br /"
-"><b>Роздільна здатність:</b> %7 x %8 <br /><b>Системна локалізація:</b> "
+"<b>Коротко:</b> %1 <br /><b>Версія:</b> %2 <br /><b>Повністю:</b> %3 <br "
+"/><b>qutIM Версія:</b> %4 <br /><b>Qt Версія:</b> %5 (%6 bit) <br "
+"/><b>Роздільна здатність:</b> %7 x %8 <br /><b>Системна локалізація:</b> "
 "%9<br />"
 
 #: ../../../core/src/corelayers/contactinfo/userinformation.ui:14
@@ -4113,22 +4113,27 @@ msgctxt "userInformationClass|"
 msgid "Close"
 msgstr "Закрити"
 
+#, qt-format
 #~ msgctxt "Core::PluginChooserWidget|"
 #~ msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
 #~ msgstr "<b>Електронна пошта:</b> <a href=\"mailto:%1\">%1</a><br/>"
 
+#, qt-format
 #~ msgctxt "Core::PluginChooserWidget|"
 #~ msgid "<b>Name:</b> %1<br/>"
 #~ msgstr "<b>Ім'я</b> %1 <br />"
 
+#, qt-format
 #~ msgctxt "Core::PluginChooserWidget|"
 #~ msgid "<b>Task:</b> %1<br/>"
 #~ msgstr "<b>Завдання</b> %1 <br />"
 
+#, qt-format
 #~ msgctxt "Core::PluginChooserWidget|"
 #~ msgid "<b>Name: </b> %1 <br />"
 #~ msgstr "<b>Ім'я:</b>%1 <br />"
 
+#, qt-format
 #~ msgctxt "Core::PluginChooserWidget|"
 #~ msgid "<b>Description: </b> %1 <br />"
 #~ msgstr "<b>Опис:</b> %1 <br />"
@@ -4137,6 +4142,7 @@ msgstr "Закрити"
 #~ msgid "To take effect you must restart qutIM"
 #~ msgstr "Щоб зміни набули чинності, перезапустіть qutIM"
 
+#, qt-format
 #~ msgctxt "Core::PluginChooserWidget|"
 #~ msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
 #~ msgstr "<b>Веб-сторінка:</b> <a href=\"%1\">%1</a><br/>"
@@ -4145,26 +4151,32 @@ msgstr "Закрити"
 #~ msgid "To take effect you must restart qutIM"
 #~ msgstr "Щоб зміни набули чинності, перезапустіть qutIM"
 
+#, qt-format
 #~ msgctxt "Core::ServiceChooser|"
 #~ msgid "<b>Description: </b> %1 <br />"
 #~ msgstr "<b>Опис:</b> %1 <br />"
 
+#, qt-format
 #~ msgctxt "Core::ServiceChooser|"
 #~ msgid "<b>Name:</b> %1<br/>"
 #~ msgstr "<b>Ім'я</b> %1 <br />"
 
+#, qt-format
 #~ msgctxt "Core::ServiceChooser|"
 #~ msgid "<b>Name: </b> %1 <br />"
 #~ msgstr "<b>Ім'я:</b>%1 <br />"
 
+#, qt-format
 #~ msgctxt "Core::ServiceChooser|"
 #~ msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
 #~ msgstr "<b>Електронна пошта:</b> <a href=\"mailto:%1\">%1</a><br/>"
 
+#, qt-format
 #~ msgctxt "Core::ServiceChooser|"
 #~ msgid "<b>Task:</b> %1<br/>"
 #~ msgstr "<b>Завдання</b> %1 <br />"
 
+#, qt-format
 #~ msgctxt "Core::ServiceChooser|"
 #~ msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
 #~ msgstr "<b>Веб-сторінка:</b> <a href=\"%1\">%1</a><br/>"
@@ -4181,6 +4193,7 @@ msgstr "Закрити"
 #~ msgid "Without tags"
 #~ msgstr "Без міток"
 
+#, qt-format
 #~ msgctxt "Core::SimpleContactList::AbstractContactModel|"
 #~ msgid "Would you like to add \"%1\" <%2> to metacontact \"%3\"?"
 #~ msgstr "Ви бажаєте додати \"%1\" <%2> до мета-контакту \"%3\"?"
@@ -4205,10 +4218,12 @@ msgstr "Закрити"
 #~ msgid "Custom tags"
 #~ msgstr "Мітки користувача"
 
+#, qt-format
 #~ msgctxt "Core::SimpleContactList::AbstractContactModel|"
 #~ msgid "Would you like to merge metacontacts \"%1\" and \"%2\"?"
 #~ msgstr "Ви бажаєте об’єднати мета-контакти \"%1\" і \"%2\"?"
 
+#, qt-format
 #~ msgctxt "Core::SimpleContactList::AbstractContactModel|"
 #~ msgid "Would you like to merge contacts \"%1\" <%2> and \"%3\" <%4>?"
 #~ msgstr "Ви бажаєте об’єднати контакти \"%1\" <%2> і \"%3\" <%4>?"

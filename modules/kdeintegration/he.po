@@ -1,0 +1,130 @@
+# Hebrew translation for qutim
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-03-30 18:45+0000\n"
+"PO-Revision-Date: 2013-02-04 15:21+0000\n"
+"Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
+"Language-Team: Hebrew <he@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-02-05 04:56+0000\n"
+"X-Generator: Launchpad (build 16468)\n"
+
+#: ../../../plugins/kdeintegration/src/aboutapp/kdeaboutappdialog.cpp:45
+msgctxt "Core|"
+msgid "About qutIM"
+msgstr "אודות qutIM"
+
+#: ../../../plugins/kdeintegration/src/speller/kdespellersettings.ui:14
+msgctxt "KdeSpellerSettings|"
+msgid "Form"
+msgstr ""
+
+#: ../../../plugins/kdeintegration/src/speller/kdespellersettings.ui:29
+msgctxt "KdeSpellerSettings|"
+msgid "Select dictionary:"
+msgstr "בחר מילון:"
+
+#: ../../../plugins/kdeintegration/src/speller/kdespellersettings.ui:39
+msgctxt "KdeSpellerSettings|"
+msgid "Autodetect of language"
+msgstr "איתור אוטומטי של שפה"
+
+#: ../../../plugins/kdeintegration/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:98
+msgctxt "Plugin|"
+msgid "KDE integration"
+msgstr "אינטגרציית KDE"
+
+#: ../../../plugins/kdeintegration/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:99
+msgctxt "Plugin|"
+msgid "Integration with K Desktop Environment"
+msgstr "שילוב עם K Desktop Environment"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:101
+msgctxt "Plugin|"
+msgid "KDE Integration"
+msgstr "אינטגרציית KDE"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:102
+msgctxt "Plugin|"
+msgid "Full-featured integration with KDE"
+msgstr "שילוב רב תכליתי עם KDE"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:104
+msgctxt "Plugin|"
+msgid "KDE Emoticons"
+msgstr "רגשוני KDE"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:105
+msgctxt "Plugin|"
+msgid "Using KDE emoticons packs"
+msgstr ""
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:107
+msgctxt "Plugin|"
+msgid "KDE Crash handler"
+msgstr "מטפל קריסה KDE"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:108
+msgctxt "Plugin|"
+msgid "Handles qutIM's craches by KCrash"
+msgstr "מטפלת בקריסות של qutIM בעזרת KCrash"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:110
+msgctxt "Plugin|"
+msgid "KDE Spell checker"
+msgstr "בודק איות KDE"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:113
+msgctxt "Plugin|"
+msgid "KDE Icon engine"
+msgstr "מנוע צלמית KDE"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:114
+msgctxt "Plugin|"
+msgid "Uses KDE Icon engine for providing icons"
+msgstr "משתמשת במנוע צלמית של KDE למען קביעת צלמיות"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:120
+msgctxt "Plugin|"
+msgid "KDE Status Notifier"
+msgstr ""
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:121
+msgctxt "Plugin|"
+msgid "Using new KDE DBus tray specification"
+msgstr ""
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:123
+msgctxt "Plugin|"
+msgid "About KDE dialog"
+msgstr "אודות דו שיח KDE"
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:124
+msgctxt "Plugin|"
+msgid "Show \"About KDE\" menu option"
+msgstr "הצג אפשרות תפריט \"אודות KDE\""
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:126
+msgctxt "Plugin|"
+msgid "KDE About application dialog"
+msgstr ""
+
+#: ../../../plugins/kdeintegration/src/kdeintegration.cpp:127
+msgctxt "Plugin|"
+msgid "Use kde-specific application about dialog"
+msgstr ""
+
+#: ../../../plugins/kdeintegration/src/speller/kdespellerlayer.cpp:39
+msgctxt "Settings|"
+msgid "Spell checker"
+msgstr "בודק איות"

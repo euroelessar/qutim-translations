@@ -8,24 +8,24 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-01-29 12:18+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2013-02-04 14:42+0000\n"
+"Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-30 04:51+0000\n"
-"X-Generator: Launchpad (build 16455)\n"
+"X-Launchpad-Export-Date: 2013-02-05 04:56+0000\n"
+"X-Generator: Launchpad (build 16468)\n"
 
 #: ../../../core/libqutim/account.cpp:144
 msgctxt "Account|"
 msgid "Authorization failed"
-msgstr ""
+msgstr "אימות נכשל"
 
 #: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:70
 msgctxt "Account|"
 msgid "Add new account"
-msgstr ""
+msgstr "הוסף חשבון חדש"
 
 #: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:71
 msgctxt "Account|"
@@ -35,12 +35,12 @@ msgstr ""
 #: ../../../core/src/corelayers/accountcreator/accountcreatorlist.cpp:76
 msgctxt "Account|"
 msgid "Accounts"
-msgstr ""
+msgstr "חשבונות"
 
 #: ../../../core/src/corelayers/accountcreator/accountcreatorlist.ui:14
 msgctxt "AccountCreatorList|"
 msgid "Form"
-msgstr ""
+msgstr "תבנית"
 
 #: ../../../core/src/corelayers/accountcreator/accountcreatorprotocols.ui:14
 msgctxt "AccountCreatorProtocols|"
@@ -50,23 +50,23 @@ msgstr ""
 #: ../../../core/libqutim/actiontoolbar.cpp:60
 msgctxt "ActionToolBar|"
 msgid "Small"
-msgstr ""
+msgstr "קטן"
 
 #: ../../../core/libqutim/actiontoolbar.cpp:65
 #: ../../../core/libqutim/actiontoolbar.cpp:69
 msgctxt "ActionToolBar|"
 msgid "Default"
-msgstr ""
+msgstr "ברירת מחדל"
 
 #: ../../../core/libqutim/actiontoolbar.cpp:73
 msgctxt "ActionToolBar|"
 msgid "Big"
-msgstr ""
+msgstr "גדול"
 
 #: ../../../core/libqutim/actiontoolbar.cpp:76
 msgctxt "ActionToolBar|"
 msgid "Huge"
-msgstr ""
+msgstr "ענק"
 
 #: ../../../core/libqutim/actiontoolbar.cpp:85
 msgctxt "ActionToolBar|"
