@@ -1,21 +1,21 @@
 # Hebrew translation for qutim
 # Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
 # This file is distributed under the same license as the qutim package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+# Isratine Citizen <genghiskhan@gmx.ca>, 2013.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-02-04 15:14+0000\n"
+"PO-Revision-Date: 2013-02-05 09:27+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-02-05 04:56+0000\n"
+"X-Launchpad-Export-Date: 2013-02-06 05:32+0000\n"
 "X-Generator: Launchpad (build 16468)\n"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:14
@@ -26,7 +26,7 @@ msgstr ""
 #: ../../../protocols/irc/src/ui/addaccountform.ui:44
 msgctxt "AddAccountForm|"
 msgid "Network name:"
-msgstr ""
+msgstr "שם רשת עבודה:"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:54
 msgctxt "AddAccountForm|"
@@ -61,12 +61,12 @@ msgstr "שרת:"
 #: ../../../protocols/irc/src/ui/addaccountform.ui:147
 msgctxt "AddAccountForm|"
 msgid "Protected by password"
-msgstr ""
+msgstr "מוגן באמצעות סיסמה"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:154
 msgctxt "AddAccountForm|"
 msgid "Accept invalid ssl certificate"
-msgstr ""
+msgstr "התר תעודת ssl חסרת תוקף"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:161
 msgctxt "AddAccountForm|"
@@ -101,7 +101,7 @@ msgstr "שם מלא:"
 #: ../../../protocols/irc/src/ui/editnickform.ui:87
 msgctxt "EditNickForm|"
 msgid "Alternative nick:"
-msgstr ""
+msgstr "כינוי חלופי:"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:133
 msgctxt "EditNickForm|"
@@ -391,22 +391,22 @@ msgstr ""
 #: ../../../protocols/irc/src/ui/editnickform.ui:430
 msgctxt "EditNickForm|"
 msgid "Password:"
-msgstr ""
+msgstr "סיסמה:"
 
 #: ../../../protocols/irc/src/ircgroupchatmanager.cpp:67
 msgctxt "IRC|"
 msgid "Name"
-msgstr ""
+msgstr "שם"
 
 #: ../../../protocols/irc/src/ircgroupchatmanager.cpp:73
 msgctxt "IRC|"
 msgid "Channel"
-msgstr ""
+msgstr "ערוץ"
 
 #: ../../../protocols/irc/src/ircgroupchatmanager.cpp:80
 msgctxt "IRC|"
 msgid "Password"
-msgstr ""
+msgstr "סיסמה"
 
 #: ../../../protocols/irc/src/ircgroupchatmanager.cpp:86
 msgctxt "IRC|"
@@ -416,12 +416,12 @@ msgstr ""
 #: ../../../protocols/irc/src/ircprotocol.cpp:97
 msgctxt "IRC|"
 msgid "Show console..."
-msgstr ""
+msgstr "הצג קונסולה..."
 
 #: ../../../protocols/irc/src/ircprotocol.cpp:103
 msgctxt "IRC|"
 msgid "Search channel..."
-msgstr ""
+msgstr "חפש ערוץ..."
 
 #: ../../../protocols/irc/src/ircchannel.cpp:376
 #, qt-format
@@ -467,19 +467,19 @@ msgstr ""
 #: ../../../protocols/irc/src/ui/console.ui:14
 msgctxt "IrcConsoleForm|"
 msgid "IRC Server Console"
-msgstr ""
+msgstr "קונסולת שרת IRC"
 
 #: ../../../protocols/irc/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
 msgid "IRC protocol"
-msgstr ""
+msgstr "פרוטוקול IRC"
 
 #: ../../../protocols/irc/__data_from_cmakelists_txt.cpp:2
 #: ../../../protocols/irc/src/ircplugin.cpp:42
 #: ../../../protocols/irc/src/ircplugin.cpp:48
 msgctxt "Plugin|"
 msgid "Implementation of IRC protocol"
-msgstr ""
+msgstr "מימוש של פרוטוקול IRC"
 
 #: ../../../protocols/irc/src/ircplugin.cpp:41
 #: ../../../protocols/irc/src/ircplugin.cpp:47
@@ -490,22 +490,22 @@ msgstr ""
 #: ../../../protocols/irc/src/ircplugin.cpp:51
 msgctxt "Plugin|"
 msgid "IRC account creator"
-msgstr ""
+msgstr "מחולל חשבון IRC"
 
 #: ../../../protocols/irc/src/ircplugin.cpp:52
 msgctxt "Plugin|"
 msgid "Account creator for IRC protocol"
-msgstr ""
+msgstr "מחולל חשבון עבור פרוטוקול IRC"
 
 #: ../../../protocols/irc/src/ircplugin.cpp:55
 msgctxt "Plugin|"
 msgid "Proxy support"
-msgstr ""
+msgstr "תמיכת פרוקסי"
 
 #: ../../../protocols/irc/src/ircplugin.cpp:56
 msgctxt "Plugin|"
 msgid "Proxy support for IRC protocol"
-msgstr ""
+msgstr "תמיכת פרוקסי לפרוטוקול IRC"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:121
 #, qt-format
@@ -516,37 +516,37 @@ msgstr ""
 #: ../../../protocols/irc/src/ircprotocol.cpp:72
 msgctxt "Settings|"
 msgid "User information"
-msgstr ""
+msgstr "מידע משתמש"
 
 #: ../../../protocols/irc/src/ircprotocol.cpp:77
 msgctxt "Settings|"
 msgid "Servers"
-msgstr ""
+msgstr "שרתים"
 
 #: ../../../protocols/irc/src/ircplugin.cpp:45
 msgctxt "Task|"
 msgid "Author"
-msgstr ""
+msgstr "מחבר"
 
 #: ../../../protocols/irc/src/ui/ircchannellist.cpp:91
 msgctxt "qutim_sdk_0_3::irc::ChannelsModel|"
 msgid "Channel"
-msgstr ""
+msgstr "ערוץ"
 
 #: ../../../protocols/irc/src/ui/ircchannellist.cpp:93
 msgctxt "qutim_sdk_0_3::irc::ChannelsModel|"
 msgid "Users"
-msgstr ""
+msgstr "משתמשים"
 
 #: ../../../protocols/irc/src/ui/ircchannellist.cpp:95
 msgctxt "qutim_sdk_0_3::irc::ChannelsModel|"
 msgid "Topic"
-msgstr ""
+msgstr "נושא"
 
 #: ../../../protocols/irc/src/ircaccount.cpp:87
 msgctxt "qutim_sdk_0_3::irc::IrcAccount|"
 msgid "Away"
-msgstr ""
+msgstr "נעדר"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:199
 #, qt-format
@@ -705,7 +705,7 @@ msgstr ""
 #: ../../../protocols/irc/src/irccommandalias.cpp:238
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Ping"
-msgstr ""
+msgstr "פינג"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:239
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
@@ -725,7 +725,7 @@ msgstr ""
 #: ../../../protocols/irc/src/irccommandalias.cpp:242
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Avatar"
-msgstr ""
+msgstr "אווטאר"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:245
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
@@ -745,12 +745,12 @@ msgstr ""
 #: ../../../protocols/irc/src/irccommandalias.cpp:248
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Give HalfOp"
-msgstr "הענק אופ למחצה"
+msgstr "הענק אופ-למחצה"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:249
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Take HalfOp"
-msgstr "שלול אופ למחצה"
+msgstr "שלול אופ-למחצה"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:250
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
@@ -765,7 +765,7 @@ msgstr "שלול ביטוי"
 #: ../../../protocols/irc/src/irccommandalias.cpp:255
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Send WHOIS request"
-msgstr ""
+msgstr "שלח בקשת WHOIS"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:159
 #, qt-format
@@ -776,22 +776,22 @@ msgstr ""
 #: ../../../protocols/irc/src/ircconnection.cpp:278
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Message of the day:"
-msgstr ""
+msgstr "הודעת היום:"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:280
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "End of message of the day"
-msgstr ""
+msgstr "סוף של הודעת היום"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:288
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Start of /LIST"
-msgstr ""
+msgstr "תחילה של ‪/LIST‬"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:306
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "End of /LIST"
-msgstr ""
+msgstr "סוף של ‪/LIST‬"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:308
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
@@ -847,18 +847,18 @@ msgstr ""
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Network error: %1"
-msgstr "שגיאת רשת: %1"
+msgstr "שגיאת רשת עבודה: %1"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:652
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "SSL error: %1"
-msgstr ""
+msgstr "שגיאת SSL: ‫%1"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:658
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "SSL handshake completed"
-msgstr ""
+msgstr "לחיצת יד SSL הושלמה"
 
 #: ../../../protocols/irc/src/ircprotocol.cpp:79
 msgctxt "qutim_sdk_0_3::irc::IrcProtocol|"

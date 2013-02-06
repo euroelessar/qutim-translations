@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-02-04 23:22+0000\n"
+"PO-Revision-Date: 2013-02-05 22:14+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-05 04:56+0000\n"
+"X-Launchpad-Export-Date: 2013-02-06 05:32+0000\n"
 "X-Generator: Launchpad (build 16468)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
@@ -342,7 +342,7 @@ msgstr "Сортувати контакти за статусом"
 #: ../../../core/src/corelayers/contactmodel/src/contactlistaccountmodel.cpp:33
 msgctxt "ContactList|"
 msgid "Show accounts and contacts"
-msgstr ""
+msgstr "Показати облікові записи і контакти"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistgroupmodel.cpp:33
 msgctxt "ContactList|"
@@ -469,7 +469,7 @@ msgstr "Блимати іконкою в списку контактів"
 #: ../../../core/src/corelayers/contactmodel/src/contactlistbasemodel.cpp:623
 msgctxt "ContactListBaseModel|"
 msgid "Without tags"
-msgstr ""
+msgstr "Без міток"
 
 #: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:54
 #: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:78
@@ -990,37 +990,37 @@ msgstr "Щоб зміни набули чинності, перезапусті�
 #, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Name: </b> %1 <br />"
-msgstr ""
+msgstr "<b>Ім'я:</b>%1 <br />"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:148
 #, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Description: </b> %1 <br />"
-msgstr ""
+msgstr "<b>Опис:</b> %1 <br />"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
 #, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Name:</b> %1<br/>"
-msgstr ""
+msgstr "<b>Ім'я</b> %1 <br />"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:155
 #, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Task:</b> %1<br/>"
-msgstr ""
+msgstr "<b>Завдання</b> %1 <br />"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:157
 #, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
-msgstr ""
+msgstr "<b>Ел. пошта:</b> <a href=\"mailto:%1\">%1</a><br/>"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:159
 #, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
-msgstr ""
+msgstr "<b>Веб-сторінка:</b> <a href=\"%1\">%1</a><br/>"
 
 #: ../../../core/src/widgets/profilecreationpage.cpp:158
 msgctxt "Core::ProfileCreationPage|"
@@ -1122,7 +1122,7 @@ msgstr "Пароль не може бути пустим!"
 #: ../../../core/src/corelayers/servicechooser/protocolchooserwidget.cpp:119
 msgctxt "Core::ProtocolChoooserWidget|"
 msgid "To take effect you must restart qutIM"
-msgstr ""
+msgstr "Щоб зміни набули чинності, перезапустіть qutIM"
 
 #: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:45
 msgctxt "Core::ProxySettingsWidget|"
@@ -1149,42 +1149,42 @@ msgstr "Тип"
 #, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Name: </b> %1 <br />"
-msgstr ""
+msgstr "<b>Ім'я:</b>%1 <br />"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:55
 #, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Description: </b> %1 <br />"
-msgstr ""
+msgstr "<b>Опис:</b> %1 <br />"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:60
 #, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Name:</b> %1<br/>"
-msgstr ""
+msgstr "<b>Ім'я</b> %1 <br />"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:62
 #, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Task:</b> %1<br/>"
-msgstr ""
+msgstr "<b>Завдання</b> %1 <br />"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:64
 #, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
-msgstr ""
+msgstr "<b>Ел. пошта:</b> <a href=\"mailto:%1\">%1</a><br/>"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:66
 #, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
-msgstr ""
+msgstr "<b>Веб-сторінка:</b> <a href=\"%1\">%1</a><br/>"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooserwidget.cpp:140
 msgctxt "Core::ServiceChoooserWidget|"
 msgid "To take effect you must restart qutIM"
-msgstr ""
+msgstr "Щоб зміни набули чинності, перезапустіть qutIM"
 
 #: ../../../core/src/corelayers/shortcutsettings/shortcutitemdelegate.cpp:85
 msgctxt "Core::ShortcutItemDelegate|"
@@ -2670,22 +2670,22 @@ msgstr ""
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:46
 msgctxt "Plugin|"
 msgid "Show accounts and contacts"
-msgstr ""
+msgstr "Показати облікові записи і контакти"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:48
 msgctxt "Plugin|"
 msgid "Show tags and contacts"
-msgstr ""
+msgstr "Показати мітки і контакти"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:50
 msgctxt "Plugin|"
 msgid "Show only contacts"
-msgstr ""
+msgstr "Показати тільки контакти"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:52
 msgctxt "Plugin|"
 msgid "Show accounts, tags and contacts"
-msgstr ""
+msgstr "Показати облікові записи, мітки і контакти"
 
 #: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:43
 msgctxt "Plugin|"
@@ -3675,17 +3675,17 @@ msgstr "Розмір іконок статуса"
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:30
 msgctxt "SimpleContactlistSettings|"
 msgid "Show avatars"
-msgstr "Показувати аватари"
+msgstr "Показати аватари"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:37
 msgctxt "SimpleContactlistSettings|"
 msgid "Show status text"
-msgstr "Показувати текст статуса"
+msgstr "Показати текст статуса"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:44
 msgctxt "SimpleContactlistSettings|"
 msgid "Show extended icons"
-msgstr "Показувати додаткові піктограми"
+msgstr "Показати додаткові піктограми"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:51
 msgctxt "SimpleContactlistSettings|"
@@ -3695,7 +3695,7 @@ msgstr "Легкі заголовки груп"
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:58
 msgctxt "SimpleContactlistSettings|"
 msgid "Show contact list on startup"
-msgstr "Показувати список контактів при запуску"
+msgstr "Показати список контактів при запуску"
 
 #: ../../../core/src/corelayers/password/simplepasswordwidget.ui:14
 msgctxt "SimplePasswordWidget|"
@@ -3751,7 +3751,7 @@ msgstr "Показати кількість чатів з новими пові�
 #: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:52
 msgctxt "SimpletraySettings|"
 msgid "Show only icon"
-msgstr "Показувати тільки іконку"
+msgstr "Показати тільки іконку"
 
 #: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:62
 msgctxt "SimpletraySettings|"
@@ -3761,7 +3761,7 @@ msgstr "Інше"
 #: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:68
 msgctxt "SimpletraySettings|"
 msgid "Show mail icon if there are new messages"
-msgstr "Показувати іконку пошти, якщо є нові повідомлення"
+msgstr "Показати іконку пошти, якщо є нові повідомлення"
 
 #: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:75
 msgctxt "SimpletraySettings|"
@@ -3816,7 +3816,7 @@ msgstr "Кількість попередніх повідомлень, що в�
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:80
 msgctxt "StackedChatBehavior|"
 msgid "Number of shown previous messages:"
-msgstr "Кількість попередніх повідомлень"
+msgstr "Кількість попередніх повідомлень:"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:90
 msgctxt "StackedChatBehavior|"
@@ -3826,7 +3826,7 @@ msgstr "Не групувати повідомлення після (секун�
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:104
 msgctxt "StackedChatBehavior|"
 msgid "Show contact id in receiver menu"
-msgstr ""
+msgstr "Показувати ід контакту в меню отримувача"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:111
 msgctxt "StackedChatBehavior|"
@@ -3951,7 +3951,7 @@ msgstr "Автоматично змінювати розмір поля ввод
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:118
 msgctxt "TabbedChatBehavior|"
 msgid "Show roster in chatWindow"
-msgstr ""
+msgstr "Показати список контактів у вікні чату"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:125
 msgctxt "TabbedChatBehavior|"
@@ -3961,7 +3961,7 @@ msgstr "Автоматично змінювати розмір поля ввод
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:132
 msgctxt "TabbedChatBehavior|"
 msgid "Show contact id in receiver menu"
-msgstr ""
+msgstr "Показувати ід контакту в меню отримувача"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/tagsfilterdialog.ui:14
 msgctxt "TagsFilterDialog|"
