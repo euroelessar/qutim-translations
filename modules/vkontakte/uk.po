@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-02-04 23:19+0000\n"
+"PO-Revision-Date: 2013-02-05 22:26+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-05 04:56+0000\n"
+"X-Launchpad-Export-Date: 2013-02-06 05:32+0000\n"
 "X-Generator: Launchpad (build 16468)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
@@ -251,7 +251,7 @@ msgstr ""
 #: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:77
 msgctxt "QObject|"
 msgid "Only flags"
-msgstr ""
+msgstr "Тільки прапорці"
 
 #: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:78
 msgctxt "QObject|"
@@ -261,7 +261,7 @@ msgstr ""
 #: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:79
 msgctxt "QObject|"
 msgid "Attachment enums"
-msgstr ""
+msgstr "Вкладені перерахування"
 
 #: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:80
 msgctxt "QObject|"
@@ -319,19 +319,19 @@ msgstr "Відкрити головну сторінку"
 #, qt-format
 msgctxt "Vreen::Buddy|"
 msgid "id%1"
-msgstr ""
+msgstr "id%1"
 
 #: ../../../protocols/vkontakte/vreen/src/api/contact.cpp:149
 #, qt-format
 msgctxt "Vreen::Buddy|"
 msgid "Unknown tag id %1"
-msgstr ""
+msgstr "Невідомий тег id %1"
 
 #: ../../../protocols/vkontakte/vreen/src/api/contact.cpp:246
 #, qt-format
 msgctxt "Vreen::Group|"
 msgid "group-%1"
-msgstr ""
+msgstr "група-%1"
 
 #: ../../../protocols/vkontakte/share/vphotoalbum/default/main.qml:13
 #, qt-format

@@ -1,31 +1,31 @@
 # Hebrew translation for qutim
 # Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
 # This file is distributed under the same license as the qutim package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+# Isratine Citizen <genghiskhan@gmx.ca>, 2013.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-27 13:46+0000\n"
-"PO-Revision-Date: 2013-01-29 12:22+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2013-02-05 09:27+0000\n"
+"Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-30 04:52+0000\n"
-"X-Generator: Launchpad (build 16455)\n"
+"X-Launchpad-Export-Date: 2013-02-06 05:32+0000\n"
+"X-Generator: Launchpad (build 16468)\n"
 
 #: ../../../protocols/mrim/src/ui/wizards/accountwizardmain.ui:14
 msgctxt "AccountWizardMain|"
 msgid "WizardPage"
-msgstr ""
+msgstr "עמוד אשף"
 
 #: ../../../protocols/mrim/src/ui/wizards/accountwizardmain.ui:20
 msgctxt "AccountWizardMain|"
 msgid "Email:"
-msgstr ""
+msgstr "דוא״ל:"
 
 #: ../../../protocols/mrim/src/ui/wizards/accountwizardmain.ui:33
 msgctxt "AccountWizardMain|"
@@ -55,7 +55,7 @@ msgstr ""
 #: ../../../protocols/mrim/src/ui/wizards/accountwizardmain.ui:63
 msgctxt "AccountWizardMain|"
 msgid "Password:"
-msgstr ""
+msgstr "סיסמה:"
 
 #: ../../../protocols/mrim/src/base/mrimplugin.cpp:49
 msgctxt "Author|"
@@ -69,11 +69,14 @@ msgid ""
 "Messages in mailbox: %1\n"
 "Unread messages: %2"
 msgstr ""
+"הודעות בתיבת דואר: %1\n"
+"הודעות שלא נקראו: %2"
 
+# נתוני התחברות
 #: ../../../protocols/mrim/src/base/mrimconnection.cpp:258
 msgctxt "MrimConnection|"
 msgid "Another client with same login connected!"
-msgstr ""
+msgstr "לקוח אחר עם אותה כניסה מחובר כעת!"
 
 #: ../../../protocols/mrim/src/base/mrimconnection.cpp:479
 #, qt-format
@@ -82,21 +85,23 @@ msgid ""
 "Authentication failed!\n"
 "Reason: %1"
 msgstr ""
+"אימות נכשל!\n"
+"סיבה: %1"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:155
 msgctxt "MrimMessages|"
 msgid "No such user"
-msgstr ""
+msgstr "אין משתמש כזה"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:158
 msgctxt "MrimMessages|"
 msgid "Message too large"
-msgstr ""
+msgstr "הודעה גדולה מדי"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:161
 msgctxt "MrimMessages|"
 msgid "Limit exceeded"
-msgstr ""
+msgstr "הגבלה מוצתה"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:164
 msgctxt "MrimMessages|"
@@ -111,52 +116,54 @@ msgstr ""
 #: ../../../protocols/mrim/src/base/messages.cpp:170
 msgctxt "MrimMessages|"
 msgid "Internal error"
-msgstr ""
+msgstr "שגיאה פנימית"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:179
 msgctxt "MrimMessages|"
 msgid "Message was not delivered!"
-msgstr ""
+msgstr "הודעה לא נמסרה!"
 
 #: ../../../protocols/mrim/src/base/mrimpacket.cpp:188
 msgctxt "MrimPacket|"
 msgid "No error"
-msgstr ""
+msgstr "אין שגיאה"
 
 #: ../../../protocols/mrim/src/base/mrimpacket.cpp:190
 msgctxt "MrimPacket|"
 msgid "Cannot read from socket"
-msgstr ""
+msgstr "לא ניתן לקרוא מן socket"
 
+# התקורה הינה מושחתת
 #: ../../../protocols/mrim/src/base/mrimpacket.cpp:192
 msgctxt "MrimPacket|"
 msgid "Header is corrupted"
-msgstr ""
+msgstr "תקורה מושחתת"
 
 #: ../../../protocols/mrim/src/base/mrimpacket.cpp:194
 msgctxt "MrimPacket|"
 msgid "Unknown error"
-msgstr ""
+msgstr "שגיאה לא ידועה"
 
 #: ../../../protocols/mrim/src/base/roster.cpp:256
 msgctxt "MrimRoster|"
 msgid "Phone contacts"
-msgstr ""
+msgstr "אנשי קשר טלפוניים"
 
 #: ../../../protocols/mrim/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
 msgid "MRIM protocol"
-msgstr ""
+msgstr "פרוטוקול MRIM"
 
+# המחשה מבוססת-מודול של
 #: ../../../protocols/mrim/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
 msgid "Implementation of MRIM protocol"
-msgstr ""
+msgstr "המחשת פרוטוקול Mail.Ru IM"
 
 #: ../../../protocols/mrim/src/base/mrimplugin.cpp:43
 msgctxt "Plugin|"
 msgid "Module-based realization of Mail.Ru IM protocol"
-msgstr ""
+msgstr "המחשה מבוססת-מודול של פרוטוקול Mail.Ru IM"
 
 #: ../../../protocols/mrim/src/base/mrimplugin.cpp:44
 msgctxt "Plugin|"
@@ -166,77 +173,78 @@ msgstr ""
 #: ../../../protocols/mrim/src/base/mrimplugin.cpp:57
 msgctxt "Plugin|"
 msgid "MRIM account creator"
-msgstr ""
+msgstr "מחולל חשבון MRIM"
 
 #: ../../../protocols/mrim/src/base/mrimplugin.cpp:58
 msgctxt "Plugin|"
 msgid "Account creator for module-based realization of Mail.Ru IM protocol"
-msgstr ""
+msgstr "מחולל חשבון עבור המחשה מבוססת-מודול של פרוטוקול Mail.Ru IM"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:85
 msgctxt "QObject|"
 msgid "Possible client"
-msgstr ""
+msgstr "לקוח אפשרי"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:100
 msgctxt "QObject|"
 msgid "Not authorized"
-msgstr ""
+msgstr "לא מורשה"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:190
 msgctxt "Status|"
 msgid "Sick"
-msgstr ""
+msgstr "חולה"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:192
 msgctxt "Status|"
 msgid "At home"
-msgstr ""
+msgstr "בבית"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:194
 msgctxt "Status|"
 msgid "Lunch"
-msgstr ""
+msgstr "ארוחת צהריים"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:196
 msgctxt "Status|"
 msgid "Where am I?"
-msgstr ""
+msgstr "היכן אני?"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:198
 msgctxt "Status|"
 msgid "WC"
-msgstr ""
+msgstr "שירותים"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:200
 msgctxt "Status|"
 msgid "Cooking"
-msgstr ""
+msgstr "מבשל"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:202
 msgctxt "Status|"
 msgid "Walking"
-msgstr ""
+msgstr "הולך"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:204
 msgctxt "Status|"
 msgid "I'm an alien!"
-msgstr ""
+msgstr "אני חיזר!"
 
+# חסילון
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:206
 msgctxt "Status|"
 msgid "I'm a shrimp!"
-msgstr ""
+msgstr "אני שרימפ!"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:208
 msgctxt "Status|"
 msgid "I'm lost :("
-msgstr ""
+msgstr "אבדתי :("
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:210
 msgctxt "Status|"
 msgid "Crazy %)"
-msgstr ""
+msgstr "מטורף %)"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:212
 msgctxt "Status|"
@@ -246,7 +254,7 @@ msgstr ""
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:214
 msgctxt "Status|"
 msgid "Playing"
-msgstr ""
+msgstr "מנגן"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:216
 msgctxt "Status|"
@@ -256,22 +264,22 @@ msgstr ""
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:218
 msgctxt "Status|"
 msgid "At work"
-msgstr ""
+msgstr "בעבודה"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:220
 msgctxt "Status|"
 msgid "Meeting"
-msgstr ""
+msgstr "בפגישה"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:222
 msgctxt "Status|"
 msgid "Beer"
-msgstr ""
+msgstr "בירה"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:224
 msgctxt "Status|"
 msgid "Coffee"
-msgstr ""
+msgstr "קפה"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:226
 msgctxt "Status|"
@@ -281,27 +289,28 @@ msgstr ""
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:228
 msgctxt "Status|"
 msgid "Sleeping"
-msgstr ""
+msgstr "יושן"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:230
 msgctxt "Status|"
 msgid "On the phone"
-msgstr ""
+msgstr "בטלפון"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:232
 msgctxt "Status|"
 msgid "University"
-msgstr ""
+msgstr "אוניברסיטה"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:234
 msgctxt "Status|"
 msgid "School"
-msgstr ""
+msgstr "בית ספר"
 
+# מספר שגוי
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:236
 msgctxt "Status|"
 msgid "Wrong number!"
-msgstr ""
+msgstr "טעות במספר!"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:238
 msgctxt "Status|"
@@ -311,12 +320,12 @@ msgstr ""
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:240
 msgctxt "Status|"
 msgid "Tongue"
-msgstr ""
+msgstr "לשון"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:242
 msgctxt "Status|"
 msgid "Smiley"
-msgstr ""
+msgstr "סמיילי"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:244
 msgctxt "Status|"
@@ -326,37 +335,37 @@ msgstr ""
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:246
 msgctxt "Status|"
 msgid "Depression"
-msgstr ""
+msgstr "דיכאון"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:248
 msgctxt "Status|"
 msgid "Crying"
-msgstr ""
+msgstr "בוכה"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:250
 msgctxt "Status|"
 msgid "Surprised"
-msgstr ""
+msgstr "מופתע"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:252
 msgctxt "Status|"
 msgid "Angry"
-msgstr ""
+msgstr "קודר"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:254
 msgctxt "Status|"
 msgid "Evil"
-msgstr ""
+msgstr "רוע"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:256
 msgctxt "Status|"
 msgid "Ass"
-msgstr ""
+msgstr "טוסיק"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:258
 msgctxt "Status|"
 msgid "Heart"
-msgstr ""
+msgstr "לב"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:260
 msgctxt "Status|"
@@ -366,7 +375,7 @@ msgstr ""
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:262
 msgctxt "Status|"
 msgid "Coool!"
-msgstr ""
+msgstr "מגניייב!"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:264
 msgctxt "Status|"
@@ -381,17 +390,17 @@ msgstr ""
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:268
 msgctxt "Status|"
 msgid "F*ck you!"
-msgstr ""
+msgstr "לך ת*דיין!"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:270
 msgctxt "Status|"
 msgid "Skull"
-msgstr ""
+msgstr "גולגולת"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:272
 msgctxt "Status|"
 msgid "Rocket"
-msgstr ""
+msgstr "טיל"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:274
 msgctxt "Status|"
@@ -401,7 +410,7 @@ msgstr ""
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:276
 msgctxt "Status|"
 msgid "Goat"
-msgstr ""
+msgstr "תייש"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:278
 msgctxt "Status|"
@@ -411,17 +420,17 @@ msgstr ""
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:280
 msgctxt "Status|"
 msgid "Squirrel"
-msgstr ""
+msgstr "סנאי"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:282
 msgctxt "Status|"
 msgid "Party!"
-msgstr ""
+msgstr "מסיבה!"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:284
 msgctxt "Status|"
 msgid "Music"
-msgstr ""
+msgstr "מוזיקה"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:286
 msgctxt "Status|"
@@ -431,4 +440,4 @@ msgstr ""
 #: ../../../protocols/mrim/src/base/mrimplugin.cpp:50
 msgctxt "Task|"
 msgid "Author"
-msgstr ""
+msgstr "מחבר"

@@ -1,628 +1,628 @@
 # Hebrew translation for qutim
 # Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
 # This file is distributed under the same license as the qutim package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+# Isratine Citizen <genghiskhan@gmx.ca>, 2013.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-01-29 12:15+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2013-02-06 01:54+0000\n"
+"Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-30 04:51+0000\n"
-"X-Generator: Launchpad (build 16455)\n"
+"X-Launchpad-Export-Date: 2013-02-06 05:32+0000\n"
+"X-Generator: Launchpad (build 16468)\n"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:35
 msgctxt "Activity|"
 msgid "Doing chores"
-msgstr ""
+msgstr "מבצע מטלות"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:36
 msgctxt "Activity|"
 msgid "Drinking"
-msgstr ""
+msgstr "שותה"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:37
 msgctxt "Activity|"
 msgid "Eating"
-msgstr ""
+msgstr "אוכל"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:38
 msgctxt "Activity|"
 msgid "Exercising"
-msgstr ""
+msgstr "מתאמן"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:39
 msgctxt "Activity|"
 msgid "Grooming"
-msgstr ""
+msgstr "טיפוח"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:40
 msgctxt "Activity|"
 msgid "Having appointment"
-msgstr ""
+msgstr "יש לי פגישה"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:41
 msgctxt "Activity|"
 msgid "Inactive"
-msgstr ""
+msgstr "לא פעיל"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:42
 msgctxt "Activity|"
 msgid "Relaxing"
-msgstr ""
+msgstr "נרגע"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:43
 msgctxt "Activity|"
 msgid "Talking"
-msgstr ""
+msgstr "משוחח"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:44
 msgctxt "Activity|"
 msgid "Traveling"
-msgstr ""
+msgstr "במסע"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:45
 msgctxt "Activity|"
 msgid "Undefined"
-msgstr ""
+msgstr "מעורפל"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:46
 msgctxt "Activity|"
 msgid "Working"
-msgstr ""
+msgstr "עובד"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:51
 msgctxt "Activity|"
 msgid "At the spa"
-msgstr ""
+msgstr "בספא"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:52
 msgctxt "Activity|"
 msgid "Brushing teeth"
-msgstr ""
+msgstr "מצחצח שיניים"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:53
 msgctxt "Activity|"
 msgid "Buying groceries"
-msgstr ""
+msgstr "קונה מצרכים"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:54
 msgctxt "Activity|"
 msgid "Cleaning"
-msgstr ""
+msgstr "מנקה"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:55
 msgctxt "Activity|"
 msgid "Coding"
-msgstr ""
+msgstr "מקודד"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:56
 msgctxt "Activity|"
 msgid "Commuting"
-msgstr ""
+msgstr "ביוממות"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:57
 msgctxt "Activity|"
 msgid "Cooking"
-msgstr ""
+msgstr "מבשל"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:58
 msgctxt "Activity|"
 msgid "Cycling"
-msgstr ""
+msgstr "ברכיבה על אופניים"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:59
 msgctxt "Activity|"
 msgid "Dancing"
-msgstr ""
+msgstr "רוקד"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:60
 msgctxt "Activity|"
 msgid "Day off"
-msgstr ""
+msgstr "יום חופשה"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:61
 msgctxt "Activity|"
 msgid "Doing maintenance"
-msgstr ""
+msgstr "עושה תחזוקה"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:62
 msgctxt "Activity|"
 msgid "Doing the dishes"
-msgstr ""
+msgstr "עושה כלים"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:63
 msgctxt "Activity|"
 msgid "Doing the laundry"
-msgstr ""
+msgstr "עושה כביסה"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:64
 msgctxt "Activity|"
 msgid "Driving"
-msgstr ""
+msgstr "בנהיגה"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:65
 msgctxt "Activity|"
 msgid "Fishing"
-msgstr ""
+msgstr "דייג"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:66
 msgctxt "Activity|"
 msgid "Gaming"
-msgstr ""
+msgstr "משחק"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:67
 msgctxt "Activity|"
 msgid "Gardening"
-msgstr ""
+msgstr "מגנן"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:68
 msgctxt "Activity|"
 msgid "Getting a haircut"
-msgstr ""
+msgstr "עושה תספורת"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:69
 msgctxt "Activity|"
 msgid "Going out"
-msgstr ""
+msgstr "מסתובב בחוץ"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:70
 msgctxt "Activity|"
 msgid "Hanging out"
-msgstr ""
+msgstr "מבלה"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:71
 msgctxt "Activity|"
 msgid "Having a beer"
-msgstr ""
+msgstr "שותה בירה"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:72
 msgctxt "Activity|"
 msgid "Having a snack"
-msgstr ""
+msgstr "אוכל חטיף"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:73
 msgctxt "Activity|"
 msgid "Having breakfast"
-msgstr ""
+msgstr "אוכל ארוחת בוקר"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:74
 msgctxt "Activity|"
 msgid "Having coffee"
-msgstr ""
+msgstr "שותה קפה"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:75
 msgctxt "Activity|"
 msgid "Having dinner"
-msgstr ""
+msgstr "אוכל ארוחת ערב"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:76
 msgctxt "Activity|"
 msgid "Having lunch"
-msgstr ""
+msgstr "אוכל ארוחת צהריים"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:77
 msgctxt "Activity|"
 msgid "Having tea"
-msgstr ""
+msgstr "שותה תה"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:78
 msgctxt "Activity|"
 msgid "Hiding"
-msgstr ""
+msgstr "מסתתר"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:79
 msgctxt "Activity|"
 msgid "Hiking"
-msgstr ""
+msgstr "הייקינג"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:80
 msgctxt "Activity|"
 msgid "In a car"
-msgstr ""
+msgstr "במכונית"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:81
 msgctxt "Activity|"
 msgid "In a meeting"
-msgstr ""
+msgstr "בפגישה"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:82
 msgctxt "Activity|"
 msgid "In real life"
-msgstr ""
+msgstr "בחיים האמיתיים"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:83
 msgctxt "Activity|"
 msgid "Jogging"
-msgstr ""
+msgstr "ג׳וגינג"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:84
 msgctxt "Activity|"
 msgid "On a bus"
-msgstr ""
+msgstr "באוטובוס"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:85
 msgctxt "Activity|"
 msgid "On a plane"
-msgstr ""
+msgstr "במטוס"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:86
 msgctxt "Activity|"
 msgid "On a train"
-msgstr ""
+msgstr "ברכבת"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:87
 msgctxt "Activity|"
 msgid "On a trip"
-msgstr ""
+msgstr "בטיול"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:88
 msgctxt "Activity|"
 msgid "On the phone"
-msgstr ""
+msgstr "בטלפון"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:89
 msgctxt "Activity|"
 msgid "On vacation"
-msgstr ""
+msgstr "בחופשה"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:90
 msgctxt "Activity|"
 msgid "On video phone"
-msgstr ""
+msgstr "בוידאו־פון"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:91
 msgctxt "Activity|"
 msgid "Other"
-msgstr ""
+msgstr "אחר"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:92
 msgctxt "Activity|"
 msgid "Partying"
-msgstr ""
+msgstr "חוגג"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:93
 msgctxt "Activity|"
 msgid "Playing sports"
-msgstr ""
+msgstr "משחק בספורט"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:94
 msgctxt "Activity|"
 msgid "Praying"
-msgstr ""
+msgstr "מתפלל"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:95
 msgctxt "Activity|"
 msgid "Reading"
-msgstr ""
+msgstr "קורא"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:96
 msgctxt "Activity|"
 msgid "Rehearsing"
-msgstr ""
+msgstr "מתרגל"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:97
 msgctxt "Activity|"
 msgid "Running"
-msgstr ""
+msgstr "ריצה"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:98
 msgctxt "Activity|"
 msgid "Running an errand"
-msgstr ""
+msgstr "עושה שליחות קצרה"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:99
 msgctxt "Activity|"
 msgid "Scheduled holiday"
-msgstr ""
+msgstr "בפגרה מתוכננת"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:100
 msgctxt "Activity|"
 msgid "Shaving"
-msgstr ""
+msgstr "מתגלח"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:101
 msgctxt "Activity|"
 msgid "Shopping"
-msgstr ""
+msgstr "בקניות"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:102
 msgctxt "Activity|"
 msgid "Skiing"
-msgstr ""
+msgstr "סקי"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:103
 msgctxt "Activity|"
 msgid "Sleeping"
-msgstr ""
+msgstr "יושן"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:104
 msgctxt "Activity|"
 msgid "Smoking"
-msgstr ""
+msgstr "מעשן"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:105
 msgctxt "Activity|"
 msgid "Socializing"
-msgstr ""
+msgstr "מתחבר"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:106
 msgctxt "Activity|"
 msgid "Studying"
-msgstr ""
+msgstr "לומד"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:107
 msgctxt "Activity|"
 msgid "Sunbathing"
-msgstr ""
+msgstr "משתזף"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:108
 msgctxt "Activity|"
 msgid "Swimming"
-msgstr ""
+msgstr "שחייה"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:109
 msgctxt "Activity|"
 msgid "Taking a bath"
-msgstr ""
+msgstr "מתרחץ"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:110
 msgctxt "Activity|"
 msgid "Taking a shower"
-msgstr ""
+msgstr "מתקלח"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:111
 msgctxt "Activity|"
 msgid "Thinking"
-msgstr ""
+msgstr "חושב"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:112
 msgctxt "Activity|"
 msgid "Walking"
-msgstr ""
+msgstr "הולך"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:113
 msgctxt "Activity|"
 msgid "Walking the dog"
-msgstr ""
+msgstr "מוליך את הכלב"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:114
 msgctxt "Activity|"
 msgid "Watching a movie"
-msgstr ""
+msgstr "צופה בסרט"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:115
 msgctxt "Activity|"
 msgid "Watching TV"
-msgstr ""
+msgstr "צופה בטלוויזיה"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:116
 msgctxt "Activity|"
 msgid "Working out"
-msgstr ""
+msgstr "מתעמל"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:117
 msgctxt "Activity|"
 msgid "Writing"
-msgstr ""
+msgstr "כותב"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:201
 msgctxt "Activity|"
 msgid "Activity"
-msgstr ""
+msgstr "פעילות"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:203
 msgctxt "Activity|"
 msgid "Show contact activity icon"
-msgstr ""
+msgstr "הצג צלמית פעילות איש קשר"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:59
 msgctxt "Author|"
 msgid "Nikita Belov"
-msgstr ""
+msgstr "ניקיטה בלוב (Nikita Belov)"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:152
 msgctxt "Conference|"
 msgid "Real JID"
-msgstr ""
+msgstr "‫JID ממשית"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:169
 msgctxt "Conference|"
 msgid "Affiliation"
-msgstr ""
+msgstr "סינוף"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:185
 msgctxt "Conference|"
 msgid "Role"
-msgstr ""
+msgstr "תפקיד"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:187
 msgctxt "Conference|"
 msgid "Possible client"
-msgstr ""
+msgstr "לקוח אפשרי"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:194
 msgctxt "Conference|"
 msgid "OS"
-msgstr ""
+msgstr "מערכת קבצים"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:205
 msgctxt "Conference|"
 msgid "Kick"
-msgstr ""
+msgstr "בעט"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:211
 msgctxt "Conference|"
 msgid "Ban"
-msgstr ""
+msgstr "אסור"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:79
 msgctxt "ContactInfo|"
 msgid "Nickname"
-msgstr ""
+msgstr "שם כינוי"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:80
 msgctxt "ContactInfo|"
 msgid "First name"
-msgstr ""
+msgstr "שם פרטי"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:81
 msgctxt "ContactInfo|"
 msgid "Middle name"
-msgstr ""
+msgstr "שם אמצעי"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:82
 msgctxt "ContactInfo|"
 msgid "Last name"
-msgstr ""
+msgstr "שם משפחה"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:83
 msgctxt "ContactInfo|"
 msgid "Birthday"
-msgstr ""
+msgstr "יום הולדת"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:84
 msgctxt "ContactInfo|"
 msgid "Homepage"
-msgstr ""
+msgstr "עמוד בית"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:85
 msgctxt "ContactInfo|"
 msgid "Home phone"
-msgstr ""
+msgstr "טלפון ביתי"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:86
 msgctxt "ContactInfo|"
 msgid "Work phone"
-msgstr ""
+msgstr "טלפון משרדי"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:87
 msgctxt "ContactInfo|"
 msgid "Mobile phone"
-msgstr ""
+msgstr "טלפון נייד"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:88
 msgctxt "ContactInfo|"
 msgid "Phone"
-msgstr ""
+msgstr "טלפון"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:89
 msgctxt "ContactInfo|"
 msgid "Personal email"
-msgstr ""
+msgstr "דוא״ל אישי"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:90
 msgctxt "ContactInfo|"
 msgid "Work email"
-msgstr ""
+msgstr "דוא״ל עבודה"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:91
 msgctxt "ContactInfo|"
 msgid "Email"
-msgstr ""
+msgstr "דוא״ל"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:92
 msgctxt "ContactInfo|"
 msgid "Home address"
-msgstr ""
+msgstr "כתובת מגורים"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:93
 msgctxt "ContactInfo|"
 msgid "Work address"
-msgstr ""
+msgstr "כתובת עבודה"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:94
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:100
 msgctxt "ContactInfo|"
 msgid "Address"
-msgstr ""
+msgstr "כתובת"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:95
 msgctxt "ContactInfo|"
 msgid "Country"
-msgstr ""
+msgstr "ארץ"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:96
 msgctxt "ContactInfo|"
 msgid "Region"
-msgstr ""
+msgstr "תחום"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:97
 msgctxt "ContactInfo|"
 msgid "City"
-msgstr ""
+msgstr "עיר"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:98
 msgctxt "ContactInfo|"
 msgid "Postcode"
-msgstr ""
+msgstr "מיקוד"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:99
 msgctxt "ContactInfo|"
 msgid "Street"
-msgstr ""
+msgstr "רחוב"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:101
 msgctxt "ContactInfo|"
 msgid "Postbox"
-msgstr ""
+msgstr "תיבת דואר"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:102
 msgctxt "ContactInfo|"
 msgid "Company"
-msgstr ""
+msgstr "תאגיד"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:103
 msgctxt "ContactInfo|"
 msgid "Department"
-msgstr ""
+msgstr "מחלקה"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:104
 msgctxt "ContactInfo|"
 msgid "Position"
-msgstr ""
+msgstr "מיקום"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:105
 msgctxt "ContactInfo|"
 msgid "Role"
-msgstr ""
+msgstr "תפקיד"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:106
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:260
 msgctxt "ContactInfo|"
 msgid "About"
-msgstr ""
+msgstr "אודות"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:170
 msgctxt "ContactInfo|"
 msgid "General"
-msgstr ""
+msgstr "כללי"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:178
 msgctxt "ContactInfo|"
 msgid "Avatar"
-msgstr ""
+msgstr "אווטאר"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:218
 msgctxt "ContactInfo|"
 msgid "Phones"
-msgstr ""
+msgstr "טלפונים"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:227
 msgctxt "ContactInfo|"
 msgid "E-mails"
-msgstr ""
+msgstr "דוא״ל־ים"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:237
 msgctxt "ContactInfo|"
 msgid "Addresses"
-msgstr ""
+msgstr "כתובות"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:251
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:407
@@ -630,49 +630,49 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:447
 msgctxt "ContactInfo|"
 msgid "Work"
-msgstr ""
+msgstr "עבודה"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:395
 msgctxt "ContactInfo|"
 msgid "Type"
-msgstr ""
+msgstr "טיפוס"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:406
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:427
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:446
 msgctxt "ContactInfo|"
 msgid "Home"
-msgstr ""
+msgstr "בית"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:408
 msgctxt "ContactInfo|"
 msgid "Cell"
-msgstr ""
+msgstr "נייד"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:418
 msgctxt "ContactInfo|"
 msgid "Number"
-msgstr ""
+msgstr "מספר"
 
 #: ../../../protocols/jabber/src/protocol/modules/vcard/jinforequest.cpp:437
 msgctxt "ContactInfo|"
 msgid "E-mail"
-msgstr ""
+msgstr "דוא״ל"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:184
 msgctxt "ContactResource|"
 msgid "Resource"
-msgstr ""
+msgstr "משאב"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:191
 msgctxt "ContactResource|"
 msgid "Possible client"
-msgstr ""
+msgstr "לקוח אפשרי"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jcontactresource.cpp:198
 msgctxt "ContactResource|"
 msgid "OS"
-msgstr ""
+msgstr "מערכת קבצים"
 
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:320
 msgctxt "HttpConnect|"
@@ -682,7 +682,7 @@ msgstr ""
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:324
 msgctxt "HttpConnect|"
 msgid "Host not found"
-msgstr ""
+msgstr "מארח לא נמצא"
 
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:328
 msgctxt "HttpConnect|"
@@ -692,7 +692,7 @@ msgstr ""
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:332
 msgctxt "HttpConnect|"
 msgid "Connection refused"
-msgstr ""
+msgstr "חיבור סורב"
 
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:336
 msgctxt "HttpConnect|"
@@ -702,22 +702,22 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.ui:14
 msgctxt "JAccountRegistrationPage|"
 msgid "WizardPage"
-msgstr ""
+msgstr "עמוד אשף"
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:14
 msgctxt "JAccountWizardPage|"
 msgid "WizardPage"
-msgstr ""
+msgstr "עמוד אשף"
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:41
 msgctxt "JAccountWizardPage|"
 msgid "I already have account"
-msgstr ""
+msgstr "כבר יש ברשותי חשבון"
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:63
 msgctxt "JAccountWizardPage|"
 msgid "Login:"
-msgstr ""
+msgstr "כניסה:"
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:81
 msgctxt "JAccountWizardPage|"
@@ -727,22 +727,22 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:90
 msgctxt "JAccountWizardPage|"
 msgid "Password:"
-msgstr ""
+msgstr "סיסמה:"
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:107
 msgctxt "JAccountWizardPage|"
 msgid "Save password"
-msgstr ""
+msgstr "שמור סיסמה"
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:117
 msgctxt "JAccountWizardPage|"
 msgid "I want to create new account"
-msgstr ""
+msgstr "ברצוני ליצור חשבון"
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.ui:133
 msgctxt "JAccountWizardPage|"
 msgid "Server:"
-msgstr ""
+msgstr "שרת:"
 
 #: ../../../protocols/jabber/src/protocol/modules/adhoc/jadhocwidget.ui:14
 msgctxt "JAdHocWidget|"
@@ -752,47 +752,47 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:14
 msgctxt "JCertInfo|"
 msgid "Cert Info"
-msgstr ""
+msgstr "מידע תעודה"
 
 #: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:22
 msgctxt "JCertInfo|"
 msgid "Cipher:"
-msgstr ""
+msgstr "צופן:"
 
 #: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:29
 msgctxt "JCertInfo|"
 msgid "Compression:"
-msgstr ""
+msgstr "דחיסה:"
 
 #: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:36
 msgctxt "JCertInfo|"
 msgid "Server:"
-msgstr ""
+msgstr "שרת:"
 
 #: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:43
 msgctxt "JCertInfo|"
 msgid "From:"
-msgstr ""
+msgstr "מאת:"
 
 #: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:50
 msgctxt "JCertInfo|"
 msgid "To:"
-msgstr ""
+msgstr "אל:"
 
 #: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:107
 msgctxt "JCertInfo|"
 msgid "Accept"
-msgstr ""
+msgstr "הסכם"
 
 #: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:114
 msgctxt "JCertInfo|"
 msgid "Reject"
-msgstr ""
+msgstr "דחה"
 
 #: ../../../protocols/jabber/src/protocol/account/connection/jcertinfo.ui:123
 msgctxt "JCertInfo|"
 msgid "Remember choice for this server"
-msgstr ""
+msgstr "זכור בחירה עבור שרת זה"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:14
 msgctxt "JMainSettings|"
@@ -802,17 +802,17 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:26
 msgctxt "JMainSettings|"
 msgid "Default resource:"
-msgstr ""
+msgstr "משאב משתמט:"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:36
 msgctxt "JMainSettings|"
 msgid "Password:"
-msgstr ""
+msgstr "סיסמה:"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:43
 msgctxt "JMainSettings|"
 msgid "Don't send request for avatars"
-msgstr ""
+msgstr "אל תשלח בקשה עבור אווטארים"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:59
 msgctxt "JMainSettings|"
@@ -827,27 +827,27 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:91
 msgctxt "JMainSettings|"
 msgid "Online:"
-msgstr ""
+msgstr "מקוון:"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:108
 msgctxt "JMainSettings|"
 msgid "Free for chat:"
-msgstr ""
+msgstr "חופשי לשיחה:"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:125
 msgctxt "JMainSettings|"
 msgid "Away:"
-msgstr ""
+msgstr "נעדר:"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:142
 msgctxt "JMainSettings|"
 msgid "NA:"
-msgstr ""
+msgstr "לא זמין:"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:159
 msgctxt "JMainSettings|"
 msgid "DND:"
-msgstr ""
+msgstr "נא לא להפריע:"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:179
 msgctxt "JMainSettings|"
@@ -857,7 +857,7 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:198
 msgctxt "JMainSettings|"
 msgid "Select Key"
-msgstr ""
+msgstr "בחר מפתח"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:205
 msgctxt "JMainSettings|"
@@ -867,7 +867,7 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:222
 msgctxt "JMainSettings|"
 msgid "Connection settings"
-msgstr ""
+msgstr "הגדרות חיבור"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:228
 msgctxt "JMainSettings|"
@@ -877,22 +877,22 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:238
 msgctxt "JMainSettings|"
 msgid "Server:"
-msgstr ""
+msgstr "שרת:"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:252
 msgctxt "JMainSettings|"
 msgid "Port:"
-msgstr ""
+msgstr "פורט:"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:269
 msgctxt "JMainSettings|"
 msgid "Use encryption"
-msgstr ""
+msgstr "השתמש בהצפנה"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:276
 msgctxt "JMainSettings|"
 msgid "Use compression"
-msgstr ""
+msgstr "השתמש בדחיסה"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:284
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:303
@@ -915,22 +915,22 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:197
 msgctxt "Jabber|"
 msgid "Name"
-msgstr ""
+msgstr "שם"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:203
 msgctxt "Jabber|"
 msgid "Conference"
-msgstr ""
+msgstr "ועידה"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:213
 msgctxt "Jabber|"
 msgid "Nick"
-msgstr ""
+msgstr "כינוי"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:218
 msgctxt "Jabber|"
 msgid "Password"
-msgstr ""
+msgstr "סיסמה"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:224
 msgctxt "Jabber|"
@@ -945,79 +945,79 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:829
 msgctxt "Jabber|"
 msgid "Please select another nickname"
-msgstr ""
+msgstr "אנא בחר שם כינוי אחר"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:216
 msgctxt "Jabber|"
 msgid "None"
-msgstr ""
+msgstr "אין"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:219
 msgctxt "Jabber|"
 msgid "From"
-msgstr ""
+msgstr "מן"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:222
 msgctxt "Jabber|"
 msgid "To"
-msgstr ""
+msgstr "אל"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:225
 msgctxt "Jabber|"
 msgid "Both"
-msgstr ""
+msgstr "הדדית"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:228
 msgctxt "Jabber|"
 msgid "Remove"
-msgstr ""
+msgstr "הסר"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jcontact.cpp:233
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:234
 msgctxt "Jabber|"
 msgid "Subscription"
-msgstr ""
+msgstr "הרשמה"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:97
 msgctxt "Jabber|"
 msgid "Remove subscription"
-msgstr ""
+msgstr "הסרת הרשמה"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:102
 msgctxt "Jabber|"
 msgid "Request subscription"
-msgstr ""
+msgstr "בקשת הרשמה"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:116
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:227
 msgctxt "Jabber|"
 msgid "Save to bookmarks"
-msgstr ""
+msgstr "שמור אל סימניות"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:117
 msgctxt "Jabber|"
 msgid "Remove from bookmarks"
-msgstr ""
+msgstr "הסר מן סימניות"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:221
 msgctxt "Jabber|"
 msgid "Room's configuration"
-msgstr ""
+msgstr "תצורת חדר"
 
 #: ../../../protocols/jabber/src/protocol/modules/jinglesupport/jinglesupport.cpp:72
 msgctxt "Jabber|"
 msgid "Voice call"
-msgstr ""
+msgstr "שיחה קולית"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:59
 msgctxt "Jabber|"
 msgid "Service discovery"
-msgstr ""
+msgstr "מציאת שירות"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:134
 msgctxt "Jabber|"
 msgid "Xml console"
-msgstr ""
+msgstr "מסוף Xml"
 
 #: ../../../protocols/jabber/src/protocol/account/jaccount.cpp:243
 msgctxt "Jabber::JAccount|Local qutIM's name"
@@ -1032,19 +1032,19 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/jaccountfinishpage.ui:13
 msgctxt "Jabber::JAccountFinishPage|"
 msgid "WizardPage"
-msgstr ""
+msgstr "עמוד אשף"
 
 #: ../../../protocols/jabber/src/protocol/jaccountfinishpage.cpp:52
 #, qt-format
 msgctxt "Jabber::JAccountFinishPage|"
 msgid ""
 "Congratulations! Account creation is finished, your Jabber ID is \"%1\""
-msgstr ""
+msgstr "ברכותיי! יצירת חשבון הסתיימה, מזהה פרוטוקול Jabber הוא \"%1\""
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:235
 msgctxt "Jabber::JAccountRegistrationPage|"
 msgid "Unknown error"
-msgstr ""
+msgstr "שגיאה לא מוכרת"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:239
 msgctxt "Jabber::JAccountRegistrationPage|"
@@ -1067,12 +1067,12 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.cpp:73
 msgctxt "Jabber::JAccountWizardPage|"
 msgid "Register"
-msgstr ""
+msgstr "הירשם"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:252
 msgctxt "Jabber::JActivityChooser|"
 msgid "Set activity"
-msgstr ""
+msgstr "הגדר פעילות"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.ui:20
 msgctxt "Jabber::JActivityChooserWindow|"
@@ -1082,7 +1082,7 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:175
 msgctxt "Jabber::JActivityChooserWindow|"
 msgid "Choose your activity"
-msgstr ""
+msgstr "בחר את פעילותך"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:176
 msgctxt "Jabber::JActivityChooserWindow|"
@@ -1092,7 +1092,7 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:214
 msgctxt "Jabber::JActivityChooserWindow|"
 msgid "No activity"
-msgstr ""
+msgstr "אין פעילות"
 
 #: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:124
 #, qt-format
@@ -1119,22 +1119,22 @@ msgstr ""
 #, qt-format
 msgctxt "Jabber::JMUCManager|"
 msgid "Join groupchat on %1"
-msgstr ""
+msgstr "הצטרף אל שיחת קבוצה אצל %1"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp:199
 msgctxt "Jabber::JMUCManager|"
 msgid "You already in conference with another nick"
-msgstr ""
+msgstr "אתה כבר בתוך ועידה עם כינוי אחר"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:348
 msgctxt "Jabber::JMUCSession|"
 msgid " has been banned"
-msgstr ""
+msgstr " נאסר/ה"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:348
 msgctxt "Jabber::JMUCSession|"
 msgid " has been kicked"
-msgstr ""
+msgstr " נבעט/ה"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:352
 msgctxt "Jabber::JMUCSession|"
@@ -1149,32 +1149,32 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:354
 msgctxt "Jabber::JMUCSession|"
 msgid "with reason: "
-msgstr ""
+msgstr "עם סיבה: "
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:356
 msgctxt "Jabber::JMUCSession|"
 msgid "Do you want to rejoin?"
-msgstr ""
+msgstr "האם ברצונך להצטרף בחזרה?"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:358
 msgctxt "Jabber::JMUCSession|"
 msgid "You have been kicked"
-msgstr ""
+msgstr "נבעטת"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:366
 msgctxt "Jabber::JMUCSession|"
 msgid "You have been banned"
-msgstr ""
+msgstr "נאסרת"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:382
 msgctxt "Jabber::JMUCSession|"
 msgid " is now known as "
-msgstr ""
+msgstr " מוכרת כעת בשם "
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:407
 msgctxt "Jabber::JMUCSession|"
 msgid " has joined the room"
-msgstr ""
+msgstr " נכנס/ה אל החדר"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:409
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:411
@@ -1183,32 +1183,32 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:417
 msgctxt "Jabber::JMUCSession|"
 msgid " as"
-msgstr ""
+msgstr " בשם"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:409
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:437
 msgctxt "Jabber::JMUCSession|"
 msgid " owner"
-msgstr ""
+msgstr " בעלים"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:411
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:439
 msgctxt "Jabber::JMUCSession|"
 msgid " administrator"
-msgstr ""
+msgstr " מנהל"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:413
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:445
 msgctxt "Jabber::JMUCSession|"
 msgid " registered member"
-msgstr ""
+msgstr " חבר רשום"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:415
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:441
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:453
 msgctxt "Jabber::JMUCSession|"
 msgid " participant"
-msgstr ""
+msgstr " משתתף"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:417
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:443
@@ -1216,17 +1216,17 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:455
 msgctxt "Jabber::JMUCSession|"
 msgid " visitor"
-msgstr ""
+msgstr " מבקר"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:427
 msgctxt "Jabber::JMUCSession|"
 msgid " has left the room"
-msgstr ""
+msgstr " עזב/ה את החדר"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:435
 msgctxt "Jabber::JMUCSession|"
 msgid " now is"
-msgstr ""
+msgstr " וכעת"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:441
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:443
@@ -1234,13 +1234,13 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:449
 msgctxt "Jabber::JMUCSession|"
 msgid " and"
-msgstr ""
+msgstr " וגם"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:447
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:451
 msgctxt "Jabber::JMUCSession|"
 msgid " moderator"
-msgstr ""
+msgstr " אחראי"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:542
 #, qt-format
@@ -1251,37 +1251,37 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:590
 msgctxt "Jabber::JMUCSession|"
 msgid "Subject:"
-msgstr ""
+msgstr "נושא:"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:157
 msgctxt "Jabber::JMUCUser|"
 msgid "Owner"
-msgstr ""
+msgstr "בעלים"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:160
 msgctxt "Jabber::JMUCUser|"
 msgid "Administrator"
-msgstr ""
+msgstr "מנהל"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:163
 msgctxt "Jabber::JMUCUser|"
 msgid "Registered member"
-msgstr ""
+msgstr "חבר רשום"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:173
 msgctxt "Jabber::JMUCUser|"
 msgid "Moderator"
-msgstr ""
+msgstr "אחראי"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:176
 msgctxt "Jabber::JMUCUser|"
 msgid "Participant"
-msgstr ""
+msgstr "משתתף"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucuser.cpp:179
 msgctxt "Jabber::JMUCUser|"
 msgid "Visitor"
-msgstr ""
+msgstr "מבקר"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.cpp:53
 msgctxt "Jabber::JMainSettings|"
@@ -1291,7 +1291,7 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:101
 msgctxt "Jabber::JMoodChooser|"
 msgid "Set mood"
-msgstr ""
+msgstr "הגדר מצב רוח"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.ui:14
 msgctxt "Jabber::JMoodChooserWindow|"
@@ -1301,7 +1301,7 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:44
 msgctxt "Jabber::JMoodChooserWindow|"
 msgid "Choose your mood"
-msgstr ""
+msgstr "בחר את מצב רוחך"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:45
 msgctxt "Jabber::JMoodChooserWindow|"
@@ -1311,7 +1311,7 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:65
 msgctxt "Jabber::JMoodChooserWindow|"
 msgid "No mood"
-msgstr ""
+msgstr "אין מצב רוח"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.ui:14
 msgctxt "Jabber::JPGPKeyDialog|"
@@ -1321,7 +1321,7 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.ui:27
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "Filter:"
-msgstr ""
+msgstr "סינון:"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.ui:57
 msgctxt "Jabber::JPGPKeyDialog|"
@@ -1331,17 +1331,17 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:66
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "Add key"
-msgstr ""
+msgstr "הוסף מפתח"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:70
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "Key ID"
-msgstr ""
+msgstr "מזהה מפתח"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:70
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "User ID"
-msgstr ""
+msgstr "מזהה משתמש"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:138
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:141
@@ -1362,22 +1362,22 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:69
 msgctxt "Jabber::JPGPSupport|"
 msgid "Assign PGP key"
-msgstr ""
+msgstr "הקצה מפתח PGP"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:71
 msgctxt "Jabber::JPGPSupport|"
 msgid "Remove PGP key"
-msgstr ""
+msgstr "הסר מפתח PGP"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:96
 msgctxt "Jabber::JPGPSupport|"
 msgid "Disable PGP encryption"
-msgstr ""
+msgstr "נטרל הצפנת PGP"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:99
 msgctxt "Jabber::JPGPSupport|"
 msgid "Enable PGP encryption"
-msgstr ""
+msgstr "אפשר הצפנת PGP"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:377
 #, qt-format
@@ -1396,17 +1396,17 @@ msgstr ""
 #, qt-format
 msgctxt "Jabber::JPGPSupport|"
 msgid "%1 : OpenPGP Passphrase"
-msgstr ""
+msgstr "‏%1 : מימרת סיסמה OpenPGP"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:559
 msgctxt "Jabber::JPGPSupport|"
 msgid "Your passphrase is needed to use OpenPGP security."
-msgstr ""
+msgstr "מימרת הסיסמה שלך דרושה כדי להשתמש באבטחת OpenPGP."
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:691
 msgctxt "Jabber::JPGPSupport|"
 msgid "Invalid passphrase"
-msgstr ""
+msgstr "מימרת סיסמה שגויה"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:694
 msgctxt "Jabber::JPGPSupport|"
@@ -1451,46 +1451,46 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:266
 msgctxt "Jabber::JProtocol|"
 msgid "Kick"
-msgstr ""
+msgstr "בעט"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:267
 #, qt-format
 msgctxt "Jabber::JProtocol|"
 msgid "Enter kick reason for %1"
-msgstr ""
+msgstr "הזן עילה לבעיטה למען %1"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:289
 msgctxt "Jabber::JProtocol|"
 msgid "Ban"
-msgstr ""
+msgstr "אסור"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:290
 #, qt-format
 msgctxt "Jabber::JProtocol|"
 msgid "Enter ban reason for %1"
-msgstr ""
+msgstr "הזן עילה לאסירה למען %1"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:544
 msgctxt "Jabber::JProtocol|"
 msgid "Possible client"
-msgstr ""
+msgstr "לקוח אפשרי"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:545
 msgctxt "Jabber::JProtocol|"
 msgid "Show client icon"
-msgstr ""
+msgstr "הצגת צלמית לקוח"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:172
 #, qt-format
 msgctxt "Jabber::JRoster|"
 msgid "Contact %1 has been added to roster"
-msgstr ""
+msgstr "איש קשר %1 התווסף לרשימה"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:201
 #, qt-format
 msgctxt "Jabber::JRoster|"
 msgid "Contact %1 has been removed from roster"
-msgstr ""
+msgstr "איש קשר %1 הוסר מרשימה"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:450
 msgctxt "Jabber::JRoster|"
@@ -1510,97 +1510,97 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:94
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Search service"
-msgstr ""
+msgstr "חפש שירות"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:132
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Close"
-msgstr ""
+msgstr "סגור"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:193
 msgctxt "Jabber::JServiceBrowser|"
 msgid "type: "
-msgstr ""
+msgstr "טיפוס: "
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:194
 msgctxt "Jabber::JServiceBrowser|"
 msgid "category: "
-msgstr ""
+msgstr "קטגוריה: "
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:196
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Identities:"
-msgstr ""
+msgstr "זהויות:"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:346
 msgctxt "Jabber::JServiceBrowser|"
 msgid "Features:"
-msgstr ""
+msgstr "תכונות:"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jsoftwaredetection.cpp:314
 msgctxt "Jabber::JSoftwareDetection|"
 msgid "Possible client"
-msgstr ""
+msgstr "לקוח אפשרי"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:69
 msgctxt "Jabber::XmlConsole|"
 msgid "Filter"
-msgstr ""
+msgstr "סינון"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:71
 msgctxt "Jabber::XmlConsole|"
 msgid "Disabled"
-msgstr ""
+msgstr "מנוטרל"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:74
 msgctxt "Jabber::XmlConsole|"
 msgid "By JID"
-msgstr ""
+msgstr "לפי JID"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:77
 msgctxt "Jabber::XmlConsole|"
 msgid "By namespace uri"
-msgstr ""
+msgstr "לפי namespace uri"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:80
 msgctxt "Jabber::XmlConsole|"
 msgid "By all attributes"
-msgstr ""
+msgstr "לפי כל האפיונים"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:85
 msgctxt "Jabber::XmlConsole|"
 msgid "Visible stanzas"
-msgstr ""
+msgstr "סטנזות נראות"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:88
 msgctxt "Jabber::XmlConsole|"
 msgid "Information query"
-msgstr ""
+msgstr "שאילתת מידע"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:92
 msgctxt "Jabber::XmlConsole|"
 msgid "Message"
-msgstr ""
+msgstr "הודעה"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:96
 msgctxt "Jabber::XmlConsole|"
 msgid "Presence"
-msgstr ""
+msgstr "נוכחות"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:100
 msgctxt "Jabber::XmlConsole|"
 msgid "Custom"
-msgstr ""
+msgstr "מותאם"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:118
 msgctxt "Jabber::XmlConsole|"
 msgid "Close"
-msgstr ""
+msgstr "סגור"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:403
 msgctxt "Jabber::XmlConsole|"
 msgid "Save XMPP log to file"
-msgstr ""
+msgstr "שמור יומן XMPP אל קובץ"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.cpp:404
 msgctxt "Jabber::XmlConsole|"
@@ -1610,7 +1610,7 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:133
 msgctxt "Jreen|"
 msgid "Username"
-msgstr ""
+msgstr "שם משתמש"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:135
 msgctxt "Jreen|"
@@ -1620,62 +1620,62 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:137
 msgctxt "Jreen|"
 msgid "Password"
-msgstr ""
+msgstr "סיסמה"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:139
 msgctxt "Jreen|"
 msgid "Full name"
-msgstr ""
+msgstr "שם מלא"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:141
 msgctxt "Jreen|"
 msgid "Given name"
-msgstr ""
+msgstr "שם פרטי"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:143
 msgctxt "Jreen|"
 msgid "Family name"
-msgstr ""
+msgstr "שם משפחה"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:145
 msgctxt "Jreen|"
 msgid "Email"
-msgstr ""
+msgstr "דוא״ל"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:147
 msgctxt "Jreen|"
 msgid "Street"
-msgstr ""
+msgstr "רחוב"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:149
 msgctxt "Jreen|"
 msgid "City"
-msgstr ""
+msgstr "עיר"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:151
 msgctxt "Jreen|"
 msgid "Region"
-msgstr ""
+msgstr "תחום"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:153
 msgctxt "Jreen|"
 msgid "Postal code"
-msgstr ""
+msgstr "מיקוד דואר"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:155
 msgctxt "Jreen|"
 msgid "Phone number"
-msgstr ""
+msgstr "מספר טלפון"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:157
 msgctxt "Jreen|"
 msgid "Web page url"
-msgstr ""
+msgstr "כתובת עמוד רשת"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:159
 msgctxt "Jreen|"
 msgid "Birth date"
-msgstr ""
+msgstr "יום הולדת"
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:77
 msgctxt "Jreen::Error|"
@@ -1845,439 +1845,439 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:38
 msgctxt "Mood|"
 msgid "Afraid"
-msgstr ""
+msgstr "מפחד"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:39
 msgctxt "Mood|"
 msgid "Amazed"
-msgstr ""
+msgstr "נדהם"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:40
 msgctxt "Mood|"
 msgid "Amorous"
-msgstr ""
+msgstr "חושק"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:41
 msgctxt "Mood|"
 msgid "Angry"
-msgstr ""
+msgstr "כועס"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:42
 msgctxt "Mood|"
 msgid "Annoyed"
-msgstr ""
+msgstr "נרגז"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:43
 msgctxt "Mood|"
 msgid "Anxious"
-msgstr ""
+msgstr "חרד"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:44
 msgctxt "Mood|"
 msgid "Aroused"
-msgstr ""
+msgstr "מרוגש"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:45
 msgctxt "Mood|"
 msgid "Ashamed"
-msgstr ""
+msgstr "מתבייש"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:46
 msgctxt "Mood|"
 msgid "Bored"
-msgstr ""
+msgstr "משועמם"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:47
 msgctxt "Mood|"
 msgid "Brave"
-msgstr ""
+msgstr "אמיץ"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:48
 msgctxt "Mood|"
 msgid "Calm"
-msgstr ""
+msgstr "רגוע"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:49
 msgctxt "Mood|"
 msgid "Cautious"
-msgstr ""
+msgstr "זהיר"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:50
 msgctxt "Mood|"
 msgid "Cold"
-msgstr ""
+msgstr "קר"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:51
 msgctxt "Mood|"
 msgid "Confident"
-msgstr ""
+msgstr "סמוך"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:52
 msgctxt "Mood|"
 msgid "Confused"
-msgstr ""
+msgstr "מבולבל"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:53
 msgctxt "Mood|"
 msgid "Contemplative"
-msgstr ""
+msgstr "ספקולטיבי"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:54
 msgctxt "Mood|"
 msgid "Contented"
-msgstr ""
+msgstr "מסופק"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:55
 msgctxt "Mood|"
 msgid "Cranky"
-msgstr ""
+msgstr "נרגז"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:56
 msgctxt "Mood|"
 msgid "Crazy"
-msgstr ""
+msgstr "מטורף"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:57
 msgctxt "Mood|"
 msgid "Creative"
-msgstr ""
+msgstr "יצירתי"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:58
 msgctxt "Mood|"
 msgid "Curious"
-msgstr ""
+msgstr "סקרן"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:59
 msgctxt "Mood|"
 msgid "Dejected"
-msgstr ""
+msgstr "מיואש"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:60
 msgctxt "Mood|"
 msgid "Depressed"
-msgstr ""
+msgstr "מדוכא"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:61
 msgctxt "Mood|"
 msgid "Disappointed"
-msgstr ""
+msgstr "מאוכזב"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:62
 msgctxt "Mood|"
 msgid "Disgusted"
-msgstr ""
+msgstr "נגעל"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:63
 msgctxt "Mood|"
 msgid "Dismayed"
-msgstr ""
+msgstr "נחרד"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:64
 msgctxt "Mood|"
 msgid "Distracted"
-msgstr ""
+msgstr "מוטרד"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:65
 msgctxt "Mood|"
 msgid "Embarrassed"
-msgstr ""
+msgstr "נבוך"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:66
 msgctxt "Mood|"
 msgid "Envious"
-msgstr ""
+msgstr "מקנא"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:67
 msgctxt "Mood|"
 msgid "Excited"
-msgstr ""
+msgstr "נרגש"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:68
 msgctxt "Mood|"
 msgid "Flirtatious"
-msgstr ""
+msgstr "פלרטטני"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:69
 msgctxt "Mood|"
 msgid "Frustrated"
-msgstr ""
+msgstr "מתוסכל"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:70
 msgctxt "Mood|"
 msgid "Grateful"
-msgstr ""
+msgstr "נעים"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:71
 msgctxt "Mood|"
 msgid "Grieving"
-msgstr ""
+msgstr "מתאבל"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:72
 msgctxt "Mood|"
 msgid "Grumpy"
-msgstr ""
+msgstr "זועף"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:73
 msgctxt "Mood|"
 msgid "Guilty"
-msgstr ""
+msgstr "אשם"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:74
 msgctxt "Mood|"
 msgid "Happy"
-msgstr ""
+msgstr "שמח"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:75
 msgctxt "Mood|"
 msgid "Hopeful"
-msgstr ""
+msgstr "אופטימי"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:76
 msgctxt "Mood|"
 msgid "Hot"
-msgstr ""
+msgstr "לוהט"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:77
 msgctxt "Mood|"
 msgid "Humbled"
-msgstr ""
+msgstr "מוכנע"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:78
 msgctxt "Mood|"
 msgid "Humiliated"
-msgstr ""
+msgstr "מושפל"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:79
 msgctxt "Mood|"
 msgid "Hungry"
-msgstr ""
+msgstr "רעב"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:80
 msgctxt "Mood|"
 msgid "Hurt"
-msgstr ""
+msgstr "פגוע"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:81
 msgctxt "Mood|"
 msgid "Impressed"
-msgstr ""
+msgstr "מתפעל"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:82
 msgctxt "Mood|"
 msgid "In awe"
-msgstr ""
+msgstr "מפוחד"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:83
 msgctxt "Mood|"
 msgid "In love"
-msgstr ""
+msgstr "מאוהב"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:84
 msgctxt "Mood|"
 msgid "Indignant"
-msgstr ""
+msgstr "ממורמר"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:85
 msgctxt "Mood|"
 msgid "Interested"
-msgstr ""
+msgstr "מגלה עניין"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:86
 msgctxt "Mood|"
 msgid "Intoxicated"
-msgstr ""
+msgstr "שיכור"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:87
 msgctxt "Mood|"
 msgid "Invincible"
-msgstr ""
+msgstr "בלתי מנוצח"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:88
 msgctxt "Mood|"
 msgid "Jealous"
-msgstr ""
+msgstr "מקנא"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:89
 msgctxt "Mood|"
 msgid "Lonely"
-msgstr ""
+msgstr "בודד"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:90
 msgctxt "Mood|"
 msgid "Lost"
-msgstr ""
+msgstr "אבוד"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:91
 msgctxt "Mood|"
 msgid "Lucky"
-msgstr ""
+msgstr "בר מזל"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:92
 msgctxt "Mood|"
 msgid "Mean"
-msgstr ""
+msgstr "דל"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:93
 msgctxt "Mood|"
 msgid "Moody"
-msgstr ""
+msgstr "מדוכדך"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:94
 msgctxt "Mood|"
 msgid "Nervous"
-msgstr ""
+msgstr "עצבני"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:95
 msgctxt "Mood|"
 msgid "Neutral"
-msgstr ""
+msgstr "אדיש"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:96
 msgctxt "Mood|"
 msgid "Offended"
-msgstr ""
+msgstr "נעלב"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:97
 msgctxt "Mood|"
 msgid "Outraged"
-msgstr ""
+msgstr "מזועזע"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:98
 msgctxt "Mood|"
 msgid "Playful"
-msgstr ""
+msgstr "שובב"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:99
 msgctxt "Mood|"
 msgid "Proud"
-msgstr ""
+msgstr "יהיר"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:100
 msgctxt "Mood|"
 msgid "Relaxed"
-msgstr ""
+msgstr "רגוע"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:101
 msgctxt "Mood|"
 msgid "Relieved"
-msgstr ""
+msgstr "משוחרר"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:102
 msgctxt "Mood|"
 msgid "Remorseful"
-msgstr ""
+msgstr "מתייסר"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:103
 msgctxt "Mood|"
 msgid "Restless"
-msgstr ""
+msgstr "חסר מנוחה"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:104
 msgctxt "Mood|"
 msgid "Sad"
-msgstr ""
+msgstr "עצוב"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:105
 msgctxt "Mood|"
 msgid "Sarcastic"
-msgstr ""
+msgstr "עוקצני"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:106
 msgctxt "Mood|"
 msgid "Satisfied"
-msgstr ""
+msgstr "מרוצה"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:107
 msgctxt "Mood|"
 msgid "Serious"
-msgstr ""
+msgstr "רציני"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:108
 msgctxt "Mood|"
 msgid "Shocked"
-msgstr ""
+msgstr "הלום"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:109
 msgctxt "Mood|"
 msgid "Shy"
-msgstr ""
+msgstr "ביישן"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:110
 msgctxt "Mood|"
 msgid "Sick"
-msgstr ""
+msgstr "חולה"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:111
 msgctxt "Mood|"
 msgid "Sleepy"
-msgstr ""
+msgstr "ישנוני"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:112
 msgctxt "Mood|"
 msgid "Spontaneous"
-msgstr ""
+msgstr "ספונטני"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:113
 msgctxt "Mood|"
 msgid "Stressed"
-msgstr ""
+msgstr "לחוץ"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:114
 msgctxt "Mood|"
 msgid "Strong"
-msgstr ""
+msgstr "חזק"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:115
 msgctxt "Mood|"
 msgid "Surprised"
-msgstr ""
+msgstr "מופתע"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:116
 msgctxt "Mood|"
 msgid "Thankful"
-msgstr ""
+msgstr "אסיר תודה"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:117
 msgctxt "Mood|"
 msgid "Thirsty"
-msgstr ""
+msgstr "צמא"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:118
 msgctxt "Mood|"
 msgid "Tired"
-msgstr ""
+msgstr "עייף"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:119
 msgctxt "Mood|"
 msgid "Undefined"
-msgstr ""
+msgstr "מעורפל"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:120
 msgctxt "Mood|"
 msgid "Weak"
-msgstr ""
+msgstr "חלש"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:121
 msgctxt "Mood|"
 msgid "Worried"
-msgstr ""
+msgstr "מודאג"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:187
 msgctxt "Mood|"
 msgid "Mood"
-msgstr ""
+msgstr "מצב רוח"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jpersonmoodconverter.cpp:189
 msgctxt "Mood|"
 msgid "Show contact mood icon"
-msgstr ""
+msgstr "הצגת צלמית מצב רוח של איש קשר"
 
 #: ../../../protocols/jabber/__data_from_cmakelists_txt.cpp:1
 #: ../../../protocols/jabber/src/jplugin.cpp:55
 #: ../../../protocols/jabber/src/jplugin.cpp:65
 msgctxt "Plugin|"
 msgid "Jabber protocol"
-msgstr ""
+msgstr "פרוטוקול Jabber"
 
 #: ../../../protocols/jabber/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
@@ -2293,97 +2293,98 @@ msgstr ""
 #: ../../../protocols/jabber/src/jplugin.cpp:68
 msgctxt "Plugin|"
 msgid "Jabber account creator"
-msgstr ""
+msgstr "מחולל חשבון Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:69
 msgctxt "Plugin|"
 msgid "Account creator for Jabber protocol"
-msgstr ""
+msgstr "מחולל חשבון עבור פרוטוקול Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:72
 msgctxt "Plugin|"
 msgid "LiveJournal account creator"
-msgstr ""
+msgstr "מחולל חשבון LiveJournal"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:73
 msgctxt "Plugin|"
 msgid "Account creator for LiveJournal"
-msgstr ""
+msgstr "מחולל חשבון עבור LiveJournal"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:76
 msgctxt "Plugin|"
 msgid "Google Talk account creator"
-msgstr ""
+msgstr "מחולל חשבון Google Talk"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:77
 msgctxt "Plugin|"
 msgid "Account creator for Google Talk"
-msgstr ""
+msgstr "מחולל חשבון עבור Google Talk"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:80
 msgctxt "Plugin|"
 msgid "Yandex.Online account creator"
-msgstr ""
+msgstr "מחולל חשבון Yandex.Online"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:81
 msgctxt "Plugin|"
 msgid "Account creator for Yandex.Online"
-msgstr ""
+msgstr "מחולל חשבון עבור Yandex.Online"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:84
 msgctxt "Plugin|"
 msgid "QIP account creator"
-msgstr ""
+msgstr "מחולל חשבון QIP"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:85
 msgctxt "Plugin|"
 msgid "Account creator for QIP"
-msgstr ""
+msgstr "מחולל חשבון עבור QIP"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:89
 msgctxt "Plugin|"
 msgid "Jabber XML console"
-msgstr ""
+msgstr "מסוף XML ‫Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:90
 msgctxt "Plugin|"
 msgid "XML console for low-level protocol debugging"
 msgstr ""
 
+# מעיין
 #: ../../../protocols/jabber/src/jplugin.cpp:102
 msgctxt "Plugin|"
 msgid "Jabber Service Browser"
-msgstr ""
+msgstr "חוקר שירות Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:103
 msgctxt "Plugin|"
 msgid "Implementation of service browser"
-msgstr ""
+msgstr "יישום של חוקר שירות"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:110
 msgctxt "Plugin|"
 msgid "Jabber Personal Events support"
-msgstr ""
+msgstr "תמיכת אירועים אישיים Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:111
 msgctxt "Plugin|"
 msgid "Implementation of personal events protocol"
-msgstr ""
+msgstr "יישום של פרוטוקול אירועים אישיים"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:114
 msgctxt "Plugin|"
 msgid "Jabber VCard support"
-msgstr ""
+msgstr "תמיכת VCard ‫Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:115
 msgctxt "Plugin|"
 msgid "Implementation of VCard info requests"
-msgstr ""
+msgstr "יישום של בקשות מידע VCard"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:118
 msgctxt "Plugin|"
 msgid "Jabber User Mood support"
-msgstr ""
+msgstr "תמיכת מצב רוח משתמש Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:119
 msgctxt "Plugin|"
@@ -2393,7 +2394,7 @@ msgstr ""
 #: ../../../protocols/jabber/src/jplugin.cpp:122
 msgctxt "Plugin|"
 msgid "Jabber Mood Chooser"
-msgstr ""
+msgstr "בוחר מצב רוח Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:123
 msgctxt "Plugin|"
@@ -2413,7 +2414,7 @@ msgstr ""
 #: ../../../protocols/jabber/src/jplugin.cpp:130
 msgctxt "Plugin|"
 msgid "Jabber User Activity support"
-msgstr ""
+msgstr "תמיכת פעילות משתמש Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:131
 msgctxt "Plugin|"
@@ -2423,7 +2424,7 @@ msgstr ""
 #: ../../../protocols/jabber/src/jplugin.cpp:134
 msgctxt "Plugin|"
 msgid "Jabber Activity Chooser"
-msgstr ""
+msgstr "בוחר פעילות Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:135
 msgctxt "Plugin|"
@@ -2434,22 +2435,22 @@ msgstr ""
 #: ../../../protocols/jabber/src/jplugin.cpp:139
 msgctxt "Plugin|"
 msgid "Jabber proxy support"
-msgstr ""
+msgstr "תמיכת פרוקסי ‫Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:142
 msgctxt "Plugin|"
 msgid "Jabber Attention support"
-msgstr ""
+msgstr "תמיכת הקשב Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:143
 msgctxt "Plugin|"
 msgid "Jabber Attention support (XEP-0224)"
-msgstr ""
+msgstr "תמיכת הקשב Jabber ‏(XEP-0224)"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:148
 msgctxt "Plugin|"
 msgid "Jabber VoIP support"
-msgstr ""
+msgstr "תמיכת VoIP ‫Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:149
 msgctxt "Plugin|"
@@ -2459,7 +2460,7 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:89
 msgctxt "QObject|"
 msgid "Send Attention"
-msgstr ""
+msgstr "שלח הקשב"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:14
 msgctxt "RoomConfig|"
@@ -2469,17 +2470,17 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:58
 msgctxt "RoomConfig|"
 msgid "Apply"
-msgstr ""
+msgstr "החל"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:65
 msgctxt "RoomConfig|"
 msgid "Ok"
-msgstr ""
+msgstr "אישור"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jconferenceconfig.ui:72
 msgctxt "RoomConfig|"
 msgid "Cancel"
-msgstr ""
+msgstr "ביטול"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:14
 msgctxt "ServiceBrowser|"
@@ -2489,104 +2490,104 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:31
 msgctxt "ServiceBrowser|"
 msgid "Server:"
-msgstr ""
+msgstr "שרת:"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:77
 msgctxt "ServiceBrowser|"
 msgid "Filter:"
-msgstr ""
+msgstr "סינון:"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:150
 msgctxt "ServiceBrowser|"
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:168
 msgctxt "ServiceBrowser|"
 msgid "Searching..."
-msgstr ""
+msgstr "מחפש כעת..."
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:190
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:193
 msgctxt "ServiceBrowser|"
 msgid "Join conference"
-msgstr ""
+msgstr "הצטרף אל ועידה"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:198
 msgctxt "ServiceBrowser|"
 msgid "Register"
-msgstr ""
+msgstr "הירשם"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:201
 msgctxt "ServiceBrowser|"
 msgid "Register on the service"
-msgstr ""
+msgstr "הירשם בשירות"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:206
 msgctxt "ServiceBrowser|"
 msgid "Search"
-msgstr ""
+msgstr "חיפוש"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:209
 msgctxt "ServiceBrowser|"
 msgid "Search on the service"
-msgstr ""
+msgstr "חפש בשירות"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:214
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:217
 msgctxt "ServiceBrowser|"
 msgid "Execute command"
-msgstr ""
+msgstr "הוצא לפועל פקודה"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:222
 msgctxt "ServiceBrowser|"
 msgid "Show vCard"
-msgstr ""
+msgstr "הצג vCard"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:225
 msgctxt "ServiceBrowser|"
 msgid "Show information about service"
-msgstr ""
+msgstr "הצג מידע אודות שירות"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:230
 msgctxt "ServiceBrowser|"
 msgid "Add to roster"
-msgstr ""
+msgstr "הוסף אל רשימה"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.ui:233
 msgctxt "ServiceBrowser|"
 msgid "Add service to roster"
-msgstr ""
+msgstr "הוסף שירות לרשימה"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:195
 msgctxt "Settings|"
 msgid "Main settings"
-msgstr ""
+msgstr "הגדרות עיקריות"
 
 #: ../../../protocols/jabber/src/protocol/jprotocol.cpp:202
 msgctxt "Settings|"
 msgid "Room configuration"
-msgstr ""
+msgstr "תצורת חדר"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:60
 msgctxt "Task|"
 msgid "Author"
-msgstr ""
+msgstr "מחבר"
 
 #: ../../../protocols/jabber/src/protocol/modules/tunepep/jpersontuneconverter.cpp:101
 msgctxt "Tune|"
 msgid "Now listening"
-msgstr ""
+msgstr "מאזין כעת"
 
 #: ../../../protocols/jabber/src/protocol/modules/tunepep/jpersontuneconverter.cpp:123
 msgctxt "Tune|"
 msgid "Tune"
-msgstr ""
+msgstr "לחן"
 
 #: ../../../protocols/jabber/src/protocol/modules/tunepep/jpersontuneconverter.cpp:125
 msgctxt "Tune|"
 msgid "Show tune icon"
-msgstr ""
+msgstr "הצג צלמית לחן"
 
 #: ../../../protocols/jabber/jreen/deffered/gui/xmlconsole.ui:14
 msgctxt "XmlConsole|"
@@ -2596,14 +2597,14 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui:14
 msgctxt "XmlConsole|"
 msgid "Xml stream console"
-msgstr ""
+msgstr "מסוף זרם Xml"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui:33
 msgctxt "XmlConsole|"
 msgid "Filter"
-msgstr ""
+msgstr "סינון"
 
 #: ../../../protocols/jabber/src/protocol/modules/xmlconsole/xmlconsole.ui:40
 msgctxt "XmlConsole|"
 msgid "Save log"
-msgstr ""
+msgstr "שמור יומן"
