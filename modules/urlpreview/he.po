@@ -1,0 +1,134 @@
+# Hebrew translation for qutim
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-01-29 12:42+0000\n"
+"PO-Revision-Date: 2013-02-06 16:54+0000\n"
+"Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
+"Language-Team: Hebrew <he@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-02-07 05:16+0000\n"
+"X-Generator: Launchpad (build 16477)\n"
+
+#: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:41
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:54
+msgctxt "Plugin|"
+msgid "UrlPreview"
+msgstr ""
+
+#: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/urlpreview/src/urlpreview.cpp:42
+msgctxt "Plugin|"
+msgid "Preview images directly in the chat window"
+msgstr "הצגה מקדימה של תמונות ישירות מתוך חלון שיחה"
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:66
+msgctxt "UrlPreview::UrlHandler|"
+msgid "URL Preview"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:66
+msgctxt "UrlPreview::UrlHandler|"
+msgid "bytes"
+msgstr "בייטים"
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:75
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:77
+msgctxt "UrlPreview::UrlHandler|"
+msgid "Something went wrong."
+msgstr "משהו השתבש."
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:136
+msgctxt "UrlPreview::UrlHandler|"
+msgid "YouTube video"
+msgstr "סרטון YouTube"
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:139
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:240
+msgctxt "UrlPreview::UrlHandler|"
+msgid "Unknown"
+msgstr "לא ידוע"
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:215
+msgctxt "UrlPreview::UrlHandler|"
+msgid "HTML5 Audio"
+msgstr "אודיו HTML5"
+
+#: ../../../plugins/urlpreview/src/messagehandler.cpp:232
+msgctxt "UrlPreview::UrlHandler|"
+msgid "HTML5 Video"
+msgstr "וידאו HTML5"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:14
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Form"
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:26
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Max filesize"
+msgstr "גודל קובץ מרבי"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:33
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Max picture size to preview "
+msgstr ""
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:36
+msgctxt "UrlPreviewSettingsForm|"
+msgid " bytes"
+msgstr " בתים"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:49
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Height"
+msgstr "גובה"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:56
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Max height of images preview."
+msgstr "גובה מרבי של תמונה."
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:59
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:88
+msgctxt "UrlPreviewSettingsForm|"
+msgid "px"
+msgstr "פק׳"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:78
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Width"
+msgstr "רוחב"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:85
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Max width of images preview."
+msgstr "רוחב מרבי של תמונה."
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:107
+msgctxt "UrlPreviewSettingsForm|"
+msgid "Images preview"
+msgstr "תצוגה מקדימה של תמונות"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:117
+msgctxt "UrlPreviewSettingsForm|"
+msgid "YouTube preview"
+msgstr "תצוגה מקדימה של YouTube"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:127
+msgctxt "UrlPreviewSettingsForm|"
+msgid "HTML5 Audio"
+msgstr "אודיו HTML5"
+
+#: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:137
+msgctxt "UrlPreviewSettingsForm|"
+msgid "HTML5 Video"
+msgstr "וידאו HTML5"

@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-27 13:46+0000\n"
-"PO-Revision-Date: 2013-02-05 09:27+0000\n"
+"PO-Revision-Date: 2013-02-06 15:15+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-06 05:32+0000\n"
-"X-Generator: Launchpad (build 16468)\n"
+"X-Launchpad-Export-Date: 2013-02-07 05:16+0000\n"
+"X-Generator: Launchpad (build 16477)\n"
 
 #: ../../../protocols/mrim/src/ui/wizards/accountwizardmain.ui:14
 msgctxt "AccountWizardMain|"
@@ -60,7 +60,7 @@ msgstr "סיסמה:"
 #: ../../../protocols/mrim/src/base/mrimplugin.cpp:49
 msgctxt "Author|"
 msgid "Peter Rusanov"
-msgstr ""
+msgstr "פיטר רוסאנוב (Peter Rusanov)"
 
 #: ../../../protocols/mrim/src/base/mrimaccount.cpp:90
 #, qt-format

@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-02-05 16:31+0000\n"
+"PO-Revision-Date: 2013-02-07 00:52+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Rahut\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-06 05:32+0000\n"
-"X-Generator: Launchpad (build 16468)\n"
+"X-Launchpad-Export-Date: 2013-02-07 05:16+0000\n"
+"X-Generator: Launchpad (build 16477)\n"
 
 #: ../../../core/libqutim/account.cpp:144
 msgctxt "Account|"
@@ -335,7 +335,7 @@ msgstr "הצג חשבונות ואנשי קשר"
 #: ../../../core/src/corelayers/contactmodel/src/contactlistgroupmodel.cpp:33
 msgctxt "ContactList|"
 msgid "Show tags and contacts"
-msgstr ""
+msgstr "הצג תגיות ואנשי קשר"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistplainmodel.cpp:33
 msgctxt "ContactList|"
@@ -552,14 +552,14 @@ msgstr ""
 #, qt-format
 msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "Chat with %1"
-msgstr ""
+msgstr "שוחח עם %1"
 
 #: ../../../core/src/corelayers/adiumchat/lib/abstractchatwidget.cpp:73
 #: ../../../core/src/corelayers/adiumchat/lib/abstractchatwidget.cpp:99
 #, qt-format
 msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "Conference %1 (%2)"
-msgstr ""
+msgstr "ועידה %1 (%2)"
 
 #: ../../../core/src/corelayers/adiumchat/lib/abstractchatwidget.cpp:85
 #, qt-format
@@ -580,7 +580,7 @@ msgstr "שבץ כינוי"
 #: ../../../core/src/corelayers/adiumchat/lib/conferencecontactsview.cpp:116
 msgctxt "Core::AdiumChat::ConferenceContactsView|"
 msgid "Conference participants"
-msgstr ""
+msgstr "משתתפתי ועידה"
 
 #: ../../../core/src/corelayers/adiumchat/lib/conferencecontactsview.cpp:188
 msgctxt "Core::AdiumChat::ConferenceContactsView|"
@@ -646,17 +646,17 @@ msgstr ""
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:52
 msgctxt "Core::AdiumChat::TabbedChatBehavior|"
 msgid "North"
-msgstr ""
+msgstr "צפון"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:53
 msgctxt "Core::AdiumChat::TabbedChatBehavior|"
 msgid "South"
-msgstr ""
+msgstr "דרום"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:54
 msgctxt "Core::AdiumChat::TabbedChatBehavior|"
 msgid "Classic"
-msgstr ""
+msgstr "קלאסי"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:55
 msgctxt "Core::AdiumChat::TabbedChatBehavior|"
@@ -721,12 +721,12 @@ msgstr "הוסף למילון"
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:41
 msgctxt "Core::ContactListSettings|"
 msgid "Sorting"
-msgstr ""
+msgstr "מיון"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:42
 msgctxt "Core::ContactListSettings|"
 msgid "Model"
-msgstr ""
+msgstr "מודל"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:43
 msgctxt "Core::ContactListSettings|"
@@ -777,7 +777,7 @@ msgstr "אל"
 #: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:125
 msgctxt "Core::HistoryWindow|"
 msgid "No History"
-msgstr ""
+msgstr "אין היסטוריה"
 
 #: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:54
 #: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:498
@@ -815,7 +815,7 @@ msgstr "מוטיב"
 #: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:49
 msgctxt "Core::KineticScroller|"
 msgid "Touch"
-msgstr ""
+msgstr "גע"
 
 #: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:50
 msgctxt "Core::KineticScroller|"
@@ -1029,7 +1029,7 @@ msgstr "אזהרה"
 #: ../../../core/src/widgets/profilecreationpage.cpp:173
 msgctxt "Core::ProfileCreationPage|"
 msgid "Profile already exists, overwrite?"
-msgstr ""
+msgstr "דיוקן כבר קיים, להחליף?"
 
 #: ../../../core/src/widgets/profilecreationpage.cpp:180
 msgctxt "Core::ProfileCreationPage|"
@@ -1039,7 +1039,7 @@ msgstr ""
 #: ../../../core/src/widgets/profilecreationpage.cpp:305
 msgctxt "Core::ProfileCreationPage|"
 msgid "Select path"
-msgstr ""
+msgstr "בחר נתיב"
 
 #: ../../../core/src/widgets/profiledialog.cpp:111
 msgctxt "Core::ProfileDialog|"
@@ -1064,7 +1064,7 @@ msgstr "שם לא תקין"
 #: ../../../core/src/widgets/profiledialog.cpp:136
 msgctxt "Core::ProfileDialog|"
 msgid "Name can not be empty!"
-msgstr ""
+msgstr "שם לא יכול להיות ריק!"
 
 #: ../../../core/src/widgets/profiledialog.cpp:140
 msgctxt "Core::ProfileDialog|"
@@ -1079,18 +1079,18 @@ msgstr "סיסמה:"
 #: ../../../core/src/widgets/profiledialog.cpp:141
 msgctxt "Core::ProfileDialog|"
 msgid "Repeat password"
-msgstr ""
+msgstr "חזור על סיסמה"
 
 #: ../../../core/src/widgets/profiledialog.cpp:141
 msgctxt "Core::ProfileDialog|"
 msgid "Repeat password:"
-msgstr ""
+msgstr "חזור על סיסמה:"
 
 #: ../../../core/src/widgets/profiledialog.cpp:144
 #: ../../../core/src/widgets/profiledialog.cpp:149
 msgctxt "Core::ProfileDialog|"
 msgid "Incorrect password"
-msgstr ""
+msgstr "סיסמה שגויה"
 
 #: ../../../core/src/widgets/profiledialog.cpp:144
 msgctxt "Core::ProfileDialog|"
@@ -1100,7 +1100,7 @@ msgstr ""
 #: ../../../core/src/widgets/profiledialog.cpp:149
 msgctxt "Core::ProfileDialog|"
 msgid "Password can not be empty!"
-msgstr ""
+msgstr "סיסמה לא יכולה להיות ריקה!"
 
 #: ../../../core/src/corelayers/servicechooser/protocolchooserwidget.cpp:119
 msgctxt "Core::ProtocolChoooserWidget|"
@@ -1115,12 +1115,12 @@ msgstr "טיפוס:"
 #: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:74
 msgctxt "Core::ProxySettingsWidget|"
 msgid "Do not use proxy"
-msgstr ""
+msgstr "אל תשתמש בפרוקסי"
 
 #: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:77
 msgctxt "Core::ProxySettingsWidget|"
 msgid "Use global proxy"
-msgstr ""
+msgstr "השתמש בפרוקסי גלובלי"
 
 #: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:119
 #: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:142
@@ -1195,6 +1195,9 @@ msgid ""
 "themes, icons, sounds may come along with a different "
 "license.</div><br><hr><br>"
 msgstr ""
+"<div><b>qutIM</b> %1 רשוי תחת הרשיון GNU General Public License, גרסא 3 או "
+"(כאופציה השמורה לכם) בכל גרסא מאוחרת יותר.</div><div>מקורות qutIM כגון "
+"מוטיבים, צלמיות, צלילים כשוים לבוא עם רשיון אחר.</div><br><hr><br>"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:193
 #, qt-format
@@ -1264,7 +1267,7 @@ msgstr "חפש איש קשר"
 #: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:188
 msgctxt "Core::SimpleFileTransfer|"
 msgid "Incoming file"
-msgstr ""
+msgstr "קובץ נכנס"
 
 #: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:189
 #, qt-format
@@ -1275,7 +1278,7 @@ msgstr ""
 #: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:193
 msgctxt "Core::SimpleFileTransfer|"
 msgid "Accept"
-msgstr ""
+msgstr "קבל"
 
 #: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:194
 msgctxt "Core::SimpleFileTransfer|"
@@ -1469,7 +1472,7 @@ msgstr "חשבון:"
 #: ../../../core/src/corelayers/jsonhistory/historywindow.ui:34
 msgctxt "HistoryWindowClass|"
 msgid "From:"
-msgstr ""
+msgstr "מאת:"
 
 #: ../../../core/src/corelayers/jsonhistory/historywindow.ui:60
 msgctxt "HistoryWindowClass|"
@@ -1517,7 +1520,7 @@ msgstr ""
 #: ../../../core/src/corelayers/idlestatuschanger/idlestatuswidget.ui:63
 msgctxt "IdleStatusWidget|seconds"
 msgid " min"
-msgstr ""
+msgstr " דקה;דקות"
 
 #: ../../../core/libqutim/inforequest.cpp:142
 msgctxt "InformationRequest|"
@@ -1528,17 +1531,17 @@ msgstr "שגיאה לא ידועה"
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:153
 msgctxt "Jabber|"
 msgid "Join conference"
-msgstr ""
+msgstr "הצטרף אל ועידה"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:76
 msgctxt "Jabber|"
 msgid "Leave conference"
-msgstr ""
+msgstr "עזוב ועידה"
 
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:17
 msgctxt "JoinChat|"
 msgid "Join groupchat"
-msgstr ""
+msgstr "הצטרף אל שיחת קבוצה"
 
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:23
 msgctxt "JoinChat|"
@@ -1578,19 +1581,19 @@ msgstr ""
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.cpp:43
 msgctxt "JoinChatDialog|"
 msgid "Join"
-msgstr ""
+msgstr "הצטרף"
 
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.cpp:224
 msgctxt "JoinChatDialog|"
 msgid "New chat"
-msgstr ""
+msgstr "שיחה חדשה"
 
 #: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.ui:14
 #: ../../../core/src/corelayers/joinchatdialog/joinchatmodule.cpp:71
 #: ../../../core/src/corelayers/joingroupchatdlg/joingroupchatmodule.cpp:78
 msgctxt "JoinGroupChat|"
 msgid "Join groupchat"
-msgstr ""
+msgstr "הצטרף אל שיחת קבוצה"
 
 #: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.ui:30
 msgctxt "JoinGroupChat|"
@@ -1625,7 +1628,7 @@ msgstr "חזרה"
 #: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:154
 msgctxt "JoinGroupChat|"
 msgid "Recent"
-msgstr ""
+msgstr "אחרונות"
 
 #: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:155
 msgctxt "JoinGroupChat|"
@@ -1635,23 +1638,23 @@ msgstr "סימניות"
 #: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:185
 msgctxt "JoinGroupChat|"
 msgid "Join an existing or create a new groupchat"
-msgstr ""
+msgstr "הצטרף אל שיחת קבוצה קיימת או צור אחת חדשה"
 
 #: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:187
 #: ../../../core/src/corelayers/joingroupchatdlg/joinpage.cpp:48
 msgctxt "JoinGroupChat|"
 msgid "Join"
-msgstr ""
+msgstr "הצטרף"
 
 #: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:189
 msgctxt "JoinGroupChat|"
 msgid "Create, edit, or delete saved bookmarks"
-msgstr ""
+msgstr "צור, ערוך, או מחק סימניות שמורות"
 
 #: ../../../core/src/corelayers/joingroupchatdlg/joingroupchat.cpp:191
 msgctxt "JoinGroupChat|"
 msgid "Manage bookmarks"
-msgstr "ניהול סימניות"
+msgstr "נהל סימניות"
 
 #: ../../../core/src/corelayers/joingroupchatdlg/joinpage.cpp:44
 msgctxt "JoinGroupChat|"
@@ -1666,7 +1669,7 @@ msgstr ""
 #: ../../../core/src/corelayers/shortcutsettings/keysequencewidget.cpp:272
 msgctxt "KeySequenceWidget|"
 msgid "No shortcut defined"
-msgstr ""
+msgstr "לא הוגדר קיצור דרך"
 
 #: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:14
 msgctxt "KineticScrollerSettings|"
@@ -1686,7 +1689,7 @@ msgstr ""
 #: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:33
 msgctxt "KineticScrollerSettings|"
 msgid "Touch"
-msgstr ""
+msgstr "גע"
 
 #: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:38
 msgctxt "KineticScrollerSettings|"
@@ -1768,7 +1771,7 @@ msgstr "אני"
 #: ../../../core/src/corelayers/migration02x03/migrationstartpage.ui:14
 msgctxt "MigrationStartPage|"
 msgid "WizardPage"
-msgstr ""
+msgstr "עמוד אשף"
 
 #: ../../../core/src/corelayers/migration02x03/migrationstartpage.ui:20
 msgctxt "MigrationStartPage|"
@@ -1813,22 +1816,22 @@ msgstr "טיפוס"
 #: ../../../core/libqutim/notification.cpp:192
 msgctxt "Notification|"
 msgid "Incoming Message"
-msgstr ""
+msgstr "הודעה נכנסת"
 
 #: ../../../core/libqutim/notification.cpp:193
 msgctxt "Notification|"
 msgid "Outgoing Message"
-msgstr ""
+msgstr "הודעה יוצאת"
 
 #: ../../../core/libqutim/notification.cpp:194
 msgctxt "Notification|"
 msgid "qutIM Startup"
-msgstr ""
+msgstr "הפעלת qutIM"
 
 #: ../../../core/libqutim/notification.cpp:195
 msgctxt "Notification|"
 msgid "Blocked Message"
-msgstr ""
+msgstr "הודעה חסומה"
 
 #: ../../../core/libqutim/notification.cpp:196
 msgctxt "Notification|"
@@ -1853,22 +1856,22 @@ msgstr ""
 #: ../../../core/libqutim/notification.cpp:200
 msgctxt "Notification|"
 msgid "File transfer completed"
-msgstr ""
+msgstr "העברת קובץ הושלמה"
 
 #: ../../../core/libqutim/notification.cpp:201
 msgctxt "Notification|"
 msgid "Contact online"
-msgstr ""
+msgstr "איש קשר מקוון"
 
 #: ../../../core/libqutim/notification.cpp:202
 msgctxt "Notification|"
 msgid "Contact offline"
-msgstr ""
+msgstr "איש קשר לא מקוון"
 
 #: ../../../core/libqutim/notification.cpp:203
 msgctxt "Notification|"
 msgid "Contact changed status"
-msgstr ""
+msgstr "איש קשר שינה מצב"
 
 #: ../../../core/libqutim/notification.cpp:204
 msgctxt "Notification|"
@@ -1878,7 +1881,7 @@ msgstr ""
 #: ../../../core/libqutim/notification.cpp:205
 msgctxt "Notification|"
 msgid "Contact typing"
-msgstr ""
+msgstr "איש קשר מקליד"
 
 #: ../../../core/libqutim/notification.cpp:206
 msgctxt "Notification|"
@@ -1893,82 +1896,82 @@ msgstr "התראת הקשב"
 #: ../../../core/libqutim/notification.cpp:221
 msgctxt "Notification|"
 msgid "A new message has been received"
-msgstr ""
+msgstr "הודעה חדשה התקבלה"
 
 #: ../../../core/libqutim/notification.cpp:222
 msgctxt "Notification|"
 msgid "A message has been sent"
-msgstr ""
+msgstr "הודעה נשלחה"
 
 #: ../../../core/libqutim/notification.cpp:223
 msgctxt "Notification|"
 msgid "qutIM has started"
-msgstr ""
+msgstr "qutIM התחיל"
 
 #: ../../../core/libqutim/notification.cpp:224
 msgctxt "Notification|"
 msgid "A message has been blocked"
-msgstr ""
+msgstr "הודעה נחסמה"
 
 #: ../../../core/libqutim/notification.cpp:225
 msgctxt "Notification|"
 msgid "A user has joined a conference"
-msgstr ""
+msgstr "משתמש הצטרף אל ועידה"
 
 #: ../../../core/libqutim/notification.cpp:226
 msgctxt "Notification|"
 msgid "A user has left a conference"
-msgstr ""
+msgstr "משתמש עזב ועידה"
 
 #: ../../../core/libqutim/notification.cpp:227
 msgctxt "Notification|"
 msgid "A new conference message has been received"
-msgstr ""
+msgstr "הודעת ועידה התקבלה"
 
 #: ../../../core/libqutim/notification.cpp:228
 msgctxt "Notification|"
 msgid "A conference message has been sent"
-msgstr ""
+msgstr "הודעת ועידה נשלחה"
 
 #: ../../../core/libqutim/notification.cpp:229
 msgctxt "Notification|"
 msgid "A file transfer has been completed"
-msgstr ""
+msgstr "העברת קובץ הושלמה"
 
 #: ../../../core/libqutim/notification.cpp:230
 msgctxt "Notification|"
 msgid "A contact has gone online"
-msgstr ""
+msgstr "איש קשר התחבר"
 
 #: ../../../core/libqutim/notification.cpp:231
 msgctxt "Notification|"
 msgid "A contact has gone offline"
-msgstr ""
+msgstr "איש קשר התנתק"
 
 #: ../../../core/libqutim/notification.cpp:232
 msgctxt "Notification|"
 msgid "A contact has changed status"
-msgstr ""
+msgstr "איש קשר שינה מצב"
 
 #: ../../../core/libqutim/notification.cpp:233
 msgctxt "Notification|"
 msgid "A contact has birthday!"
-msgstr ""
+msgstr "לאיש קשר יש יום הולדת!"
 
 #: ../../../core/libqutim/notification.cpp:234
 msgctxt "Notification|"
 msgid "A contact is typing"
-msgstr ""
+msgstr "איש קשר מקליד"
 
 #: ../../../core/libqutim/notification.cpp:235
 msgctxt "Notification|"
 msgid "A system notification"
-msgstr ""
+msgstr "הודעת מערכת"
 
 #: ../../../core/libqutim/notification.cpp:236
 msgctxt "Notification|"
 msgid "Contact is asking for your attention"
-msgstr ""
+msgstr "איש קשר מבקש את צומת לבך"
 
 #: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp:98
 msgctxt "Notifications|"
@@ -2012,7 +2015,7 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:7
 msgctxt "Plugin|"
 msgid "Simple tray"
-msgstr ""
+msgstr "מגש פשוט"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:8
 msgctxt "Plugin|"
@@ -2138,7 +2141,7 @@ msgstr ""
 #: ../../../core/src/corelayers/localization/localizationplugin.cpp:39
 msgctxt "Plugin|"
 msgid "Localization"
-msgstr ""
+msgstr "התאמת שפה"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:32
 #: ../../../core/src/corelayers/localization/localizationplugin.cpp:40
@@ -2328,7 +2331,7 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:71
 msgctxt "Plugin|"
 msgid "Chat spell checker"
-msgstr ""
+msgstr "בודק איות שיחה"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:72
 msgctxt "Plugin|"
@@ -2360,7 +2363,7 @@ msgstr "מנהל העברת קובץ ברירת מחדל qutIM"
 #: ../../../core/__data_from_cmakelists_txt.cpp:77
 msgctxt "Plugin|"
 msgid "Simple password dialog"
-msgstr ""
+msgstr "דו שיח סיסמה פשוט"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:78
 msgctxt "Plugin|"
@@ -2381,7 +2384,7 @@ msgstr ""
 #: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:40
 msgctxt "Plugin|"
 msgid "Simple Actions"
-msgstr ""
+msgstr "פעולות פשוטות"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:82
 #: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:41
@@ -2505,12 +2508,12 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:105
 msgctxt "Plugin|"
 msgid "Add contact dialog"
-msgstr ""
+msgstr "דו שיח הוסף איש קשר"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:106
 msgctxt "Plugin|"
 msgid "Simple add contact dialog"
-msgstr ""
+msgstr "דו שיח הוסף איש קשר פשוט"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:107
 #: ../../../core/__data_from_cmakelists_txt.cpp:115
@@ -2539,7 +2542,7 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:111
 msgctxt "Plugin|"
 msgid "Mobile"
-msgstr ""
+msgstr "נייד"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:112
 msgctxt "Plugin|"
@@ -2592,7 +2595,7 @@ msgstr ""
 #: ../../../core/examples/simplesettingsdialog/settingslayerimpl.cpp:31
 msgctxt "Plugin|"
 msgid "Simple Settings dialog"
-msgstr ""
+msgstr "דו שיח הגדרות פשוט"
 
 #: ../../../core/examples/simplesettingsdialog/settingslayerimpl.cpp:32
 msgctxt "Plugin|"
@@ -2691,12 +2694,12 @@ msgstr ""
 #: ../../../core/src/corelayers/trayicon/simpletray.cpp:143
 msgctxt "Plugin|"
 msgid "Notification Area Icon"
-msgstr ""
+msgstr "סמל אזור דיווח"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:14
 msgctxt "ProfileCreationPage|"
 msgid "WizardPage"
-msgstr ""
+msgstr "עמוד אשף"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:41
 msgctxt "ProfileCreationPage|"
@@ -2711,7 +2714,7 @@ msgstr ""
 #: ../../../core/src/widgets/profilecreationpage.ui:55
 msgctxt "ProfileCreationPage|"
 msgid "Profile id:"
-msgstr ""
+msgstr "מזהה דיוקן:"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:62
 msgctxt "ProfileCreationPage|"
@@ -2721,7 +2724,7 @@ msgstr ""
 #: ../../../core/src/widgets/profilecreationpage.ui:69
 msgctxt "ProfileCreationPage|"
 msgid "Show advanced settings"
-msgstr ""
+msgstr "הצג הגדרות מתקדמות"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:76
 msgctxt "ProfileCreationPage|"
@@ -2741,7 +2744,7 @@ msgstr ""
 #: ../../../core/src/widgets/profilecreationpage.ui:99
 msgctxt "ProfileCreationPage|"
 msgid "Config dir:"
-msgstr ""
+msgstr "מדור תצורה:"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:111
 #: ../../../core/src/widgets/profilecreationpage.ui:132
@@ -2753,12 +2756,12 @@ msgstr ""
 #: ../../../core/src/widgets/profilecreationpage.ui:120
 msgctxt "ProfileCreationPage|"
 msgid "History dir:"
-msgstr ""
+msgstr "מדור היסטוריה:"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:141
 msgctxt "ProfileCreationPage|"
 msgid "Data dir:"
-msgstr ""
+msgstr "מדור נתונים:"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:162
 msgctxt "ProfileCreationPage|"
@@ -2768,7 +2771,7 @@ msgstr ""
 #: ../../../core/src/widgets/profilecreationpage.ui:182
 msgctxt "ProfileCreationPage|"
 msgid "Choose config backend:"
-msgstr ""
+msgstr "בחר תצורת מגשר עורפי:"
 
 #: ../../../core/src/widgets/profiledialog.ui:53
 msgctxt "ProfileDialog|"
@@ -2809,7 +2812,7 @@ msgstr ""
 #, qt-format
 msgctxt "QCoreApplication|"
 msgid "Are you sure you want to delete a contact %1 from the roster?"
-msgstr ""
+msgstr "האם אתה בטוח שברצונך למחוק את איש קשר %1 מהרשימה?"
 
 #: ../../../core/libqutim/actiontoolbar.cpp:124
 msgctxt "QObject|"
@@ -2829,27 +2832,27 @@ msgstr "סגנון לחצן כלים"
 #: ../../../core/libqutim/utils.cpp:126
 msgctxt "QObject|"
 msgid "1st quarter"
-msgstr ""
+msgstr "רבעון ראשון"
 
 #: ../../../core/libqutim/utils.cpp:129
 msgctxt "QObject|"
 msgid "2nd quarter"
-msgstr ""
+msgstr "רבעון שני"
 
 #: ../../../core/libqutim/utils.cpp:132
 msgctxt "QObject|"
 msgid "3rd quarter"
-msgstr ""
+msgstr "רבעון שלישי"
 
 #: ../../../core/libqutim/utils.cpp:135
 msgctxt "QObject|"
 msgid "4th quarter"
-msgstr ""
+msgstr "רבעון רביעי"
 
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:92
 msgctxt "QObject|"
 msgid "Remove finished tasks"
-msgstr ""
+msgstr "הסר משימות מוגמרות"
 
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:100
 msgctxt "QObject|"
@@ -2954,7 +2957,7 @@ msgstr ""
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 is asking for your attention"
-msgstr ""
+msgstr "%1 מבקש/ת את צומת לבך"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:87
 msgctxt "QObject|"
@@ -2980,12 +2983,12 @@ msgstr "העתק %1 אל לוח גזירה"
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:101
 msgctxt "QxtCommandOptions|"
 msgid "sets the application GUI style"
-msgstr ""
+msgstr "מגדירה את סגנון ממשק המשתמש הגרפי של היישום"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:102
 msgctxt "QxtCommandOptions|"
 msgid "sets the application stylesheet"
-msgstr ""
+msgstr "מגדירה את גיליון הסגנון של היישום"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:103
 msgctxt "QxtCommandOptions|"
@@ -3035,32 +3038,32 @@ msgstr ""
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:120
 msgctxt "QxtCommandOptions|"
 msgid "sets the default font"
-msgstr ""
+msgstr "מגדירה את ברירת המחדל של הגופן"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:122
 msgctxt "QxtCommandOptions|"
 msgid "sets the default background color"
-msgstr ""
+msgstr "מגדירה את ברירת המחדל של צבע הרקע"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:124
 msgctxt "QxtCommandOptions|"
 msgid "sets the default foreground color"
-msgstr ""
+msgstr "מגדירה את ברירת המחדל של צבע הטקסט"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:126
 msgctxt "QxtCommandOptions|"
 msgid "sets the default button color"
-msgstr ""
+msgstr "מגדירה את ברירת המחדל של צבע הכפתורים"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:127
 msgctxt "QxtCommandOptions|"
 msgid "sets the application name"
-msgstr ""
+msgstr "מגדירה את שם היישום"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:128
 msgctxt "QxtCommandOptions|"
 msgid "sets the application title"
-msgstr ""
+msgstr "מגדירה את כותרת היישום"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:129
 msgctxt "QxtCommandOptions|"
@@ -3276,7 +3279,7 @@ msgstr ""
 #: ../../../core/__generated_from_service_names.cpp:24
 msgctxt "Service|"
 msgid "Dock"
-msgstr ""
+msgstr "מעגן"
 
 #: ../../../core/__generated_from_service_names.cpp:25
 msgctxt "Service|"
@@ -3291,7 +3294,7 @@ msgstr ""
 #: ../../../core/__generated_from_service_names.cpp:27
 msgctxt "Service|"
 msgid "Idle"
-msgstr ""
+msgstr "עצל"
 
 #: ../../../core/__generated_from_service_names.cpp:28
 msgctxt "Service|"
@@ -3301,7 +3304,7 @@ msgstr ""
 #: ../../../core/__generated_from_service_names.cpp:29
 msgctxt "Service|"
 msgid "Led"
-msgstr ""
+msgstr "מכסה"
 
 #: ../../../core/__generated_from_service_names.cpp:30
 msgctxt "Service|"
@@ -3316,13 +3319,13 @@ msgstr "הגדרות התראה"
 #: ../../../core/__generated_from_service_names.cpp:32
 msgctxt "Service|"
 msgid "NowPlaying"
-msgstr ""
+msgstr "מנגן עכשיו"
 
 #: ../../../core/__generated_from_service_names.cpp:33
 #: ../../../core/libqutim/sound.cpp:40
 msgctxt "Service|"
 msgid "Popup"
-msgstr ""
+msgstr "חלונית קופצת"
 
 #: ../../../core/__generated_from_service_names.cpp:34
 msgctxt "Service|"
@@ -3332,7 +3335,7 @@ msgstr ""
 #: ../../../core/__generated_from_service_names.cpp:35
 msgctxt "Service|"
 msgid "Scroller"
-msgstr ""
+msgstr "גולל"
 
 #: ../../../core/__generated_from_service_names.cpp:36
 msgctxt "Service|"
@@ -3358,7 +3361,7 @@ msgstr "צליל"
 #: ../../../core/__generated_from_service_names.cpp:40
 msgctxt "Service|"
 msgid "SpellChecker"
-msgstr ""
+msgstr "בודק איות"
 
 #: ../../../core/__generated_from_service_names.cpp:41
 msgctxt "Service|"
@@ -3368,7 +3371,7 @@ msgstr "סמל מגש"
 #: ../../../core/__generated_from_service_names.cpp:42
 msgctxt "Service|"
 msgid "Vibration"
-msgstr ""
+msgstr "רטט"
 
 #: ../../../core/__generated_from_service_names.cpp:43
 msgctxt "Service|"
@@ -3596,7 +3599,7 @@ msgstr "אודות qutIM"
 #: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:110
 msgctxt "SimpleAboutDialog|"
 msgid "Module based instant messenger."
-msgstr ""
+msgstr "שליח הודעות מיידיות מבוסס מודול."
 
 #: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:143
 msgctxt "SimpleAboutDialog|"
@@ -3626,7 +3629,7 @@ msgstr "מתרגמים"
 #: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:240
 msgctxt "SimpleAboutDialog|"
 msgid "License"
-msgstr "רישיון"
+msgstr "רשיון"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:14
 msgctxt "SimpleContactlistSettings|"
@@ -3661,7 +3664,7 @@ msgstr ""
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:58
 msgctxt "SimpleContactlistSettings|"
 msgid "Show contact list on startup"
-msgstr ""
+msgstr "הצג רשימת קשר בעת הפעלה"
 
 #: ../../../core/src/corelayers/password/simplepasswordwidget.ui:14
 msgctxt "SimplePasswordWidget|"
@@ -3773,7 +3776,7 @@ msgstr ""
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:70
 msgctxt "StackedChatBehavior|"
 msgid "Store service messages in history"
-msgstr ""
+msgstr "אחסן הודעות שירות בהיסטוריה"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:77
 msgctxt "StackedChatBehavior|"
@@ -3788,12 +3791,12 @@ msgstr ""
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:90
 msgctxt "StackedChatBehavior|"
 msgid "Don't group messages after (sec):"
-msgstr ""
+msgstr "אל תקבץ הודעות כעבור (שניות):"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:104
 msgctxt "StackedChatBehavior|"
 msgid "Show contact id in receiver menu"
-msgstr ""
+msgstr "הצג מזהה איש קשר בתפריט מקבל"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:111
 msgctxt "StackedChatBehavior|"
@@ -3848,17 +3851,17 @@ msgstr "לא ידוע"
 #: ../../../core/libqutim/personinfo.cpp:208
 msgctxt "TRANSLATORS|"
 msgid "Your names"
-msgstr ""
+msgstr "נבחרת Rahut"
 
 #: ../../../core/libqutim/personinfo.cpp:209
 msgctxt "TRANSLATORS|"
 msgid "Your emails"
-msgstr ""
+msgstr "rahut@lists.sourceforge.net"
 
 #: ../../../core/libqutim/personinfo.cpp:210
 msgctxt "TRANSLATORS|"
 msgid "Your web addresses"
-msgstr ""
+msgstr "https://sourceforge.net/p/rahut"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:14
 msgctxt "TabbedChatBehavior|"
@@ -3928,7 +3931,7 @@ msgstr ""
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:132
 msgctxt "TabbedChatBehavior|"
 msgid "Show contact id in receiver menu"
-msgstr ""
+msgstr "הצג מזהה איש קשר בתפריט מקבל"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/tagsfilterdialog.ui:14
 msgctxt "TagsFilterDialog|"
@@ -3968,17 +3971,17 @@ msgstr "הוסף איש קשר"
 #: ../../../core/libqutim/filetransfer.cpp:333
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Initiation"
-msgstr ""
+msgstr "התחלה"
 
 #: ../../../core/libqutim/filetransfer.cpp:335
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Started"
-msgstr ""
+msgstr "התחיל"
 
 #: ../../../core/libqutim/filetransfer.cpp:337
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Finished"
-msgstr ""
+msgstr "הסתיים"
 
 #: ../../../core/libqutim/filetransfer.cpp:339
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
@@ -3999,7 +4002,7 @@ msgstr "שגיאת רשת עבודה"
 #: ../../../core/libqutim/filetransfer.cpp:361
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Canceled"
-msgstr ""
+msgstr "בוטל"
 
 #: ../../../core/libqutim/filetransfer.cpp:363
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
