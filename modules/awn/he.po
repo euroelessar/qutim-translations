@@ -1,0 +1,65 @@
+# Hebrew translation for qutim
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-02-19 16:53+0000\n"
+"PO-Revision-Date: 2013-02-06 13:35+0000\n"
+"Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
+"Language-Team: Hebrew <he@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-02-07 05:16+0000\n"
+"X-Generator: Launchpad (build 16477)\n"
+
+#: ../../../plugins/awn/src/awnservice.cpp:282
+msgctxt "AWNService|"
+msgid "Show/Hide"
+msgstr "הצג/הסתר"
+
+#: ../../../plugins/awn/src/awnservice.cpp:283
+msgctxt "AWNService|"
+msgid "Read all messages"
+msgstr "קרא את כל ההודעות"
+
+#: ../../../plugins/awn/src/awnservice.cpp:284
+msgctxt "AWNService|"
+msgid "Go online"
+msgstr "עבוד מקוון"
+
+#: ../../../plugins/awn/src/awnservice.cpp:285
+msgctxt "AWNService|"
+msgid "Go offline"
+msgstr "עבוד לא מקוון"
+
+#: ../../../plugins/awn/src/awnservice.cpp:286
+msgctxt "AWNService|"
+msgid "Exit QutIM"
+msgstr "צא מן QutIM"
+
+#: ../../../plugins/awn/src/awn.cpp:38
+msgctxt "Author|"
+msgid "Stanislav (proDOOMman) Kosolapov"
+msgstr "סטאניסלב (proDOOMman) קוסולאפוב"
+
+#: ../../../plugins/awn/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/awn/src/awn.cpp:42 ../../../plugins/awn/src/awn.cpp:47
+msgctxt "Plugin|"
+msgid "AWN"
+msgstr ""
+
+#: ../../../plugins/awn/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/awn/src/awn.cpp:43 ../../../plugins/awn/src/awn.cpp:48
+msgctxt "Plugin|"
+msgid "Avant window navigator dock integration"
+msgstr "אינטגרציית Avant window navigator dock"
+
+#: ../../../plugins/awn/src/awn.cpp:39
+msgctxt "Task|"
+msgid "Developer"
+msgstr "מפתח"

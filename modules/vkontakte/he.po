@@ -1,0 +1,409 @@
+# Hebrew translation for qutim
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-01-28 19:33+0000\n"
+"PO-Revision-Date: 2013-02-06 16:42+0000\n"
+"Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
+"Language-Team: Hebrew <he@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-02-07 05:16+0000\n"
+"X-Generator: Launchpad (build 16477)\n"
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/buddymodel.cpp:83
+msgctxt "BuddyModel|"
+msgid "Online"
+msgstr "מקוון"
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/buddymodel.cpp:85
+msgctxt "BuddyModel|"
+msgid "Offline"
+msgstr "לא מקוון"
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/buddymodel.cpp:87
+msgctxt "BuddyModel|"
+msgid "Away"
+msgstr "נעדר"
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/chatmodel.cpp:67
+msgctxt "ChatModel|"
+msgid "unknown"
+msgstr ""
+
+#: ../../../protocols/vkontakte/src/vcontact.cpp:250
+msgctxt "ContactInfo|"
+msgid "Activity"
+msgstr "פעילות"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:63
+msgctxt "ContactInfo|"
+msgid "Nickname"
+msgstr "שם כינוי"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:64
+msgctxt "ContactInfo|"
+msgid "First name"
+msgstr "שם פרטי"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:65
+msgctxt "ContactInfo|"
+msgid "Last name"
+msgstr "שם משפחה"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:66
+msgctxt "ContactInfo|"
+msgid "Gender"
+msgstr "מין"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:67
+msgctxt "ContactInfo|"
+msgid "Birthday"
+msgstr "יום הולדת"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:68
+msgctxt "ContactInfo|"
+msgid "City"
+msgstr "עיר"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:69
+msgctxt "ContactInfo|"
+msgid "Country"
+msgstr "ארץ"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:70
+msgctxt "ContactInfo|"
+msgid "Photo"
+msgstr "תצלום"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:71
+msgctxt "ContactInfo|"
+msgid "Home phone"
+msgstr "טלפון ביתי"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:72
+msgctxt "ContactInfo|"
+msgid "Mobile phone"
+msgstr "טלפון נייד"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:73
+msgctxt "ContactInfo|"
+msgid "University"
+msgstr "אוניברסיטה"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:74
+msgctxt "ContactInfo|"
+msgid "Faculty"
+msgstr "פקולטה"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:75
+msgctxt "ContactInfo|"
+msgid "Graduation year"
+msgstr "שנת סיום"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:82
+msgctxt "ContactInfo|"
+msgid "Undefined"
+msgstr "לא מוגדר"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:83
+msgctxt "ContactInfo|"
+msgid "Female"
+msgstr "נקבה"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:84
+msgctxt "ContactInfo|"
+msgid "Male"
+msgstr "זכר"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:195
+msgctxt "ContactInfo|"
+msgid "General"
+msgstr "כללי"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:197
+msgctxt "ContactInfo|"
+msgid "Person"
+msgstr "אישיות"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:212
+msgctxt "ContactInfo|"
+msgid "Home address"
+msgstr "כתובת מגורים"
+
+#: ../../../protocols/vkontakte/src/vinforequest.cpp:220
+msgctxt "ContactInfo|"
+msgid "Education"
+msgstr "השכלה"
+
+#: ../../../protocols/vkontakte/share/vphotoalbum/default/PageHeader.qml:16
+msgctxt "PageHeader|"
+msgid "Header"
+msgstr "תקורה"
+
+#: ../../../protocols/vkontakte/vreen/examples/cpp/phonefetcher/phonefetcher.cpp:59
+#, qt-format
+msgctxt "PhoneFetcher|"
+msgid "-- %1 contacts recieved"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/cpp/phonefetcher/phonefetcher.cpp:63
+#, qt-format
+msgctxt "PhoneFetcher|"
+msgid "name: %1, home: %2, mobile: %3"
+msgstr "שם: %1, בית: %2, נייד: %3"
+
+#: ../../../protocols/vkontakte/vreen/examples/cpp/phonefetcher/phonefetcher.cpp:64
+#: ../../../protocols/vkontakte/vreen/examples/cpp/phonefetcher/phonefetcher.cpp:65
+msgctxt "PhoneFetcher|"
+msgid "unknown"
+msgstr "לא ידוע"
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:1
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:50
+msgctxt "Plugin|"
+msgid "vkontakte"
+msgstr ""
+
+#: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "New implementation of vk.com protocol"
+msgstr "מימוש חדש של פרוטוקול vk.com"
+
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:43
+msgctxt "Plugin|"
+msgid "Vkontakte"
+msgstr ""
+
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:44
+msgctxt "Plugin|"
+msgid "Simple implementation of vkontakte, based on vk.com/developers api"
+msgstr ""
+
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:51
+msgctxt "Plugin|"
+msgid "Simple implementation of vkontakte, based on desktop.api"
+msgstr ""
+
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:55
+msgctxt "Plugin|"
+msgid "Vkontakte account creator"
+msgstr "מחולל חשבון Vkontakte"
+
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:56
+msgctxt "Plugin|"
+msgid "Account creator for Vkontakte"
+msgstr "מחולל חשבון עבור Vkontakte"
+
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:59
+msgctxt "Plugin|"
+msgid "Proxy support"
+msgstr "תמיכת פרוקסי"
+
+#: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:60
+msgctxt "Plugin|"
+msgid "Proxy support for Vkontakte"
+msgstr "תמיכת פרוקסי עבור Vkontakte"
+
+#: ../../../protocols/vkontakte/src/ui/vaccountcreator.cpp:68
+msgctxt "Protocol|"
+msgid "vk.com"
+msgstr ""
+
+#: ../../../protocols/vkontakte/src/ui/vaccountcreator.cpp:69
+msgctxt "Protocol|"
+msgid "Add vk.com account"
+msgstr "הוסף חשבון vk.com"
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:72
+msgctxt "QObject|"
+msgid "Use SimpleClient instead"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:73
+msgctxt "QObject|"
+msgid "Use client.roster instead"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:74
+msgctxt "QObject|"
+msgid "Use client.connection instead"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:75
+msgctxt "QObject|"
+msgid "Use client.contact(id)"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:76
+msgctxt "QObject|"
+msgid "User roster.buddy(id)"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:77
+msgctxt "QObject|"
+msgid "Only flags"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:78
+msgctxt "QObject|"
+msgid "Use client.longPoll instead"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:79
+msgctxt "QObject|"
+msgid "Attachment enums"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:80
+msgctxt "QObject|"
+msgid "NewsItem enums"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:81
+msgctxt "QObject|"
+msgid "NewsFeed enums"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:82
+msgctxt "QObject|"
+msgid "Cannot use this class directly"
+msgstr ""
+
+#: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:14
+msgctxt "VAccountWizardPage|"
+msgid "WizardPage"
+msgstr "עמוד אשף"
+
+#: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:29
+msgctxt "VAccountWizardPage|"
+msgid "Email:"
+msgstr "דוא״ל:"
+
+#: ../../../protocols/vkontakte/src/vgroupchat.cpp:145
+#, qt-format
+msgctxt "VGroupChat|"
+msgid "%1 has joined the room"
+msgstr "%1 הצטרף/ה אל החדר"
+
+#: ../../../protocols/vkontakte/src/vgroupchat.cpp:163
+#, qt-format
+msgctxt "VGroupChat|"
+msgid "%1 has left the room"
+msgstr "%1 עזב/ה אל החדר"
+
+#: ../../../protocols/vkontakte/src/vprotocol.cpp:94
+msgctxt "VProtocol|"
+msgid "id"
+msgstr "מזהה"
+
+#: ../../../protocols/vkontakte/src/experimental/vphotoviewer.cpp:47
+msgctxt "Vkontakte|"
+msgid "View photoalbum"
+msgstr "צפה באלבום תצלומים"
+
+#: ../../../protocols/vkontakte/src/vprotocol.cpp:69
+msgctxt "Vkontakte|"
+msgid "Open homepage"
+msgstr "פתח עמוד בית"
+
+#: ../../../protocols/vkontakte/vreen/src/api/contact.cpp:133
+#, qt-format
+msgctxt "Vreen::Buddy|"
+msgid "id%1"
+msgstr "מזהה%1"
+
+#: ../../../protocols/vkontakte/vreen/src/api/contact.cpp:149
+#, qt-format
+msgctxt "Vreen::Buddy|"
+msgid "Unknown tag id %1"
+msgstr "מזהה תגית לא ידוע %1"
+
+#: ../../../protocols/vkontakte/vreen/src/api/contact.cpp:246
+#, qt-format
+msgctxt "Vreen::Group|"
+msgid "group-%1"
+msgstr "קבוצה-%1"
+
+#: ../../../protocols/vkontakte/share/vphotoalbum/default/main.qml:13
+#, qt-format
+msgctxt "main|"
+msgid "%1's photoalbum"
+msgstr "אלבום תצלומים של %1"
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/audio/qml/main.qml:17
+#: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:17
+#: ../../../protocols/vkontakte/vreen/examples/declarative/photoalbum/qml/main.qml:17
+#: ../../../protocols/vkontakte/vreen/examples/quick/audio/qml/main.qml:18
+#: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:17
+msgctxt "main|"
+msgid "<a href=\"http://vk.com\">Click to login</a>"
+msgstr "<a href=\"http://vk.com\">לחץ לכניסה</a>"
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/audio/qml/main.qml:59
+#: ../../../protocols/vkontakte/vreen/examples/quick/audio/qml/main.qml:95
+#, qt-format
+msgctxt "main|"
+msgid "%1 latest audio"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/audio/qml/main.qml:59
+#: ../../../protocols/vkontakte/vreen/examples/quick/audio/qml/main.qml:95
+msgctxt "main|"
+msgid "Unknown"
+msgstr "לא ידוע"
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/audio/qml/main.qml:142
+#, qt-format
+msgctxt "main|"
+msgid "duration %2"
+msgstr "משך %2"
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:53
+#: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:53
+msgctxt "main|"
+msgid "Last dialogs"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:111
+#: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:111
+#, qt-format
+msgctxt "main|"
+msgid "%1 ➜ %2 %3"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:111
+#: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:111
+msgctxt "main|"
+msgid "(from chat)"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:138
+#: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:138
+msgctxt "main|"
+msgid "dddd in hh:mm"
+msgstr ""
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:140
+#: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:140
+msgctxt "main|"
+msgid ", unread"
+msgstr ", לא נקראו"
+
+#: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:142
+#: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:142
+msgctxt "main|"
+msgid ", has attachments"
+msgstr ", יש תצריפים"
+
+#: ../../../protocols/vkontakte/vreen/examples/quick/audio/qml/main.qml:172
+#, qt-format
+msgctxt "main|"
+msgid "Duration %2"
+msgstr "משך %2"

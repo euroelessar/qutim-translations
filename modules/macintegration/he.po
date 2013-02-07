@@ -1,0 +1,141 @@
+# Hebrew translation for qutim
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-01-28 19:34+0000\n"
+"PO-Revision-Date: 2013-02-06 14:02+0000\n"
+"Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
+"Language-Team: Hebrew <he@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-02-07 05:16+0000\n"
+"X-Generator: Launchpad (build 16477)\n"
+
+#: ../../../plugins/macintegration/src/macidle/macidle.mm:79
+msgctxt "AutoAway|"
+msgid "Auto-away"
+msgstr ""
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:103
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Search"
+msgstr "חפש"
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:128
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Accounts"
+msgstr "חשבונות"
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:129
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Chats"
+msgstr "שיחות"
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:131
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Set Status Text"
+msgstr "קבע טקסט מצב"
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:281
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "File"
+msgstr "קובץ"
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macwidget.cpp:282
+msgctxt "Core::SimpleContactList::MacWidget|"
+msgid "Roster"
+msgstr "רשימה"
+
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:14
+msgctxt "MacIdleWidget|"
+msgid "Form"
+msgstr ""
+
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:32
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:56
+#, qt-format
+msgctxt "MacIdleWidget|"
+msgid "Set status «%1» after:"
+msgstr "קבע מצב «%1» כעבור:"
+
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:39
+#: ../../../plugins/macintegration/src/macidle/macidlewidget.ui:99
+msgctxt "MacIdleWidget|seconds"
+msgid " min"
+msgstr " דקה;דקות"
+
+#: ../../../plugins/macintegration/src/macdock/macdock.mm:111
+msgctxt "MacIntegration::MacDock|"
+msgid "Opened chats"
+msgstr ""
+
+#: ../../../plugins/macintegration/src/macspellchecker/macspellsettings.cpp:38
+msgctxt "MacIntegration::MacSpellSettings|"
+msgid "Language"
+msgstr "שפה"
+
+#: ../../../plugins/macintegration/src/maccontactlistwidget/macsearchfield.mm:58
+msgctxt "MacWidget|"
+msgid "Filter"
+msgstr "סינון"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Growl notifications"
+msgstr ""
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Default Mac Os X Notifications"
+msgstr ""
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:3
+msgctxt "Plugin|"
+msgid "Dock integration"
+msgstr ""
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:4
+msgctxt "Plugin|"
+msgid "Mac OS X dock integration"
+msgstr ""
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:5
+msgctxt "Plugin|"
+msgid "IdleManager"
+msgstr ""
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:6
+msgctxt "Plugin|"
+msgid "Mac OS X idle manager"
+msgstr ""
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:7
+msgctxt "Plugin|"
+msgid "Mac Contactlist"
+msgstr ""
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:8
+msgctxt "Plugin|"
+msgid "Mac OS X contactlist"
+msgstr "רשימת קשר Mac OS X"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:9
+msgctxt "Plugin|"
+msgid "SpellChecker"
+msgstr "בודק איות"
+
+#: ../../../plugins/macintegration/__data_from_cmakelists_txt.cpp:10
+msgctxt "Plugin|"
+msgid "Mac OS X spell checker"
+msgstr "בודק איות Mac OS X"
+
+#: ../../../plugins/macintegration/src/macspellchecker/macspellchecker.mm:21
+msgctxt "Settings|"
+msgid "Spell checker"
+msgstr "בודק איות"

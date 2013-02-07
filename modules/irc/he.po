@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-02-05 09:27+0000\n"
+"PO-Revision-Date: 2013-02-07 01:25+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-02-06 05:32+0000\n"
-"X-Generator: Launchpad (build 16468)\n"
+"X-Launchpad-Export-Date: 2013-02-07 05:16+0000\n"
+"X-Generator: Launchpad (build 16477)\n"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -617,90 +617,90 @@ msgstr ""
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "The channel topic is \"%1\""
-msgstr ""
+msgstr "נושא הערוץ הוא \"%1\""
 
 #: ../../../protocols/irc/src/ircchannel.cpp:349
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "The topic was set by %1 on %2."
-msgstr ""
+msgstr "הנושא נקבע על ידי %1‎ בתאריך %2."
 
 #: ../../../protocols/irc/src/ui/ircchannellist.cpp:188
 msgctxt "qutim_sdk_0_3::irc::IrcChannelListForm|"
 msgid "Fetching channels list..."
-msgstr ""
+msgstr "מושך כעת רשימת ערוצים..."
 
 #: ../../../protocols/irc/src/ui/ircchannellist.cpp:195
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannelListForm|"
 msgid "Channels list loaded. (%1)"
-msgstr ""
+msgstr "רשימת ערוצים נטענת כעת. (%1)"
 
 #: ../../../protocols/irc/src/ui/ircchannellist.cpp:200
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannelListForm|"
 msgid "Fetching channels list... (%1)"
-msgstr ""
+msgstr "מושך כעת רשימת ערוצים... (%1)"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:210
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Kick / Ban"
-msgstr ""
+msgstr "בעט / אסור"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:213
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Kick"
-msgstr ""
+msgstr "בעט"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:218
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Kickban"
-msgstr ""
+msgstr "בעט ואסור"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:221
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Ban"
-msgstr ""
+msgstr "אסור"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:225
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Ban *!*@*.host"
-msgstr ""
+msgstr "אסור את ‪*!*@*.host"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:226
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Ban *!*@domain"
-msgstr ""
+msgstr "אסור את ‪*!*@domain"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:227
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Ban *!user@*.host"
-msgstr ""
+msgstr "אסור את ‪*!user@*.host"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:228
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Ban *!user@domain"
-msgstr ""
+msgstr "אסור את ‪*!user@domain"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:231
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Kickban *!*@*.host"
-msgstr ""
+msgstr "בעט ואסור את ‪*!*@*.host"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:232
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Kickban *!*@domain"
-msgstr ""
+msgstr "בעט ואסור את ‪*!*@domain"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:233
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Kickban *!user@*.host"
-msgstr ""
+msgstr "בעט ואסור את ‪*!user@*.host"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:234
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Kickban *!user@domain"
-msgstr ""
+msgstr "בעט ואסור את ‪*!user@domain"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:238
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
@@ -710,17 +710,17 @@ msgstr "פינג"
 #: ../../../protocols/irc/src/irccommandalias.cpp:239
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Request client information"
-msgstr ""
+msgstr "בקש מידע לקוח"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:240
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Request version"
-msgstr ""
+msgstr "בקש גרסא"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:241
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Request time"
-msgstr ""
+msgstr "זמן בקשה"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:242
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
@@ -730,17 +730,17 @@ msgstr "אווטאר"
 #: ../../../protocols/irc/src/irccommandalias.cpp:245
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Modes"
-msgstr ""
+msgstr "מצבים"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:246
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Give Op"
-msgstr ""
+msgstr "הענק אופ"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:247
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Take Op"
-msgstr ""
+msgstr "שלול אופ"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:248
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
@@ -771,7 +771,7 @@ msgstr "שלח בקשת WHOIS"
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Server %1 (Version %2), User modes: %3, Channel modes: %4"
-msgstr ""
+msgstr "שרת %1 (גרסא %2), מצבי משתמש: %3, מצבי חדרים: %4"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:278
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
@@ -841,7 +841,7 @@ msgstr ""
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Cannot connect to %1 network"
-msgstr ""
+msgstr "אי אפשר להתחבר לרשת %1"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:636
 #, qt-format
