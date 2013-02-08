@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2012-07-25 08:39+0000\n"
-"Last-Translator: Anthony Harrington <untaintableangel@ubuntu.com>\n"
+"PO-Revision-Date: 2013-02-07 18:15+0000\n"
+"Last-Translator: mrx5682 <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
-"Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-29 05:42+0000\n"
-"X-Generator: Launchpad (build 16451)\n"
+"X-Launchpad-Export-Date: 2013-02-08 04:48+0000\n"
+"X-Generator: Launchpad (build 16482)\n"
 "X-Qt-Contexts: true\n"
+"Language: en_GB\n"
 "X-Language: en_GB\n"
 "X-Source-Language: C\n"
 
@@ -261,19 +261,19 @@ msgstr "Last active"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbar.cpp:59
 msgctxt "CloseButton|"
 msgid "Close Tab"
-msgstr ""
+msgstr "Close Tab"
 
 #: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:71
 #, qt-format
 msgctxt "ContactInfo|"
 msgid "Received authorization request from %1:"
-msgstr ""
+msgstr "Received authorization request from %1:"
 
 #: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:75
 #, qt-format
 msgctxt "ContactInfo|"
 msgid "Send authorization request to %1:"
-msgstr ""
+msgstr "Send authorization request to %1:"
 
 #: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:63
 #: ../../../core/src/corelayers/mobilecontactinfo/mobilecontactinfo.cpp:93
@@ -334,17 +334,17 @@ msgstr "Edit information"
 #: ../../../core/src/corelayers/comparators/lastactivitycomparator.cpp:7
 msgctxt "ContactList|"
 msgid "Sort by contact's last activity"
-msgstr ""
+msgstr "Sort by contact's last activity"
 
 #: ../../../core/src/corelayers/comparators/statuscomparator.cpp:7
 msgctxt "ContactList|"
 msgid "Sort by contact's status"
-msgstr ""
+msgstr "Sort by contact's status"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistaccountmodel.cpp:33
 msgctxt "ContactList|"
 msgid "Show accounts and contacts"
-msgstr ""
+msgstr "Show accounts and contacts"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistgroupmodel.cpp:33
 msgctxt "ContactList|"
@@ -466,12 +466,12 @@ msgstr "qutIM 0.2 style"
 #: ../../../core/src/corelayers/contactmodel/src/contactlistbasemodel.cpp:43
 msgctxt "ContactListBaseModel|"
 msgid "Blink icon in the contact list"
-msgstr ""
+msgstr "Blink icon in the contact list"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistbasemodel.cpp:623
 msgctxt "ContactListBaseModel|"
 msgid "Without tags"
-msgstr ""
+msgstr "Without tags"
 
 #: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:54
 #: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:78
@@ -714,7 +714,7 @@ msgstr "&Chat"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:263
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Contacts"
-msgstr ""
+msgstr "Contacts"
 
 #: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:47
 msgctxt "Core::AuthDialogPrivate|"
@@ -734,7 +734,7 @@ msgstr "Add to dictionary"
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:41
 msgctxt "Core::ContactListSettings|"
 msgid "Sorting"
-msgstr ""
+msgstr "Sorting"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:42
 msgctxt "Core::ContactListSettings|"
@@ -986,43 +986,43 @@ msgstr "Cannot write to file %1"
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:131
 msgctxt "Core::PluginChoooserWidget|"
 msgid "To take effect you must restart qutIM"
-msgstr ""
+msgstr "To take effect you must restart qutIM"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:147
 #, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Name: </b> %1 <br />"
-msgstr ""
+msgstr "<b>Name: </b> %1 <br />"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:148
 #, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Description: </b> %1 <br />"
-msgstr ""
+msgstr "<b>Description: </b> %1 <br />"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
 #, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Name:</b> %1<br/>"
-msgstr ""
+msgstr "<b>Name:</b> %1<br/>"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:155
 #, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Task:</b> %1<br/>"
-msgstr ""
+msgstr "<b>Task:</b> %1<br/>"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:157
 #, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
-msgstr ""
+msgstr "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:159
 #, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
-msgstr ""
+msgstr "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
 
 #: ../../../core/src/widgets/profilecreationpage.cpp:158
 msgctxt "Core::ProfileCreationPage|"
@@ -1124,7 +1124,7 @@ msgstr "Password can not be empty!"
 #: ../../../core/src/corelayers/servicechooser/protocolchooserwidget.cpp:119
 msgctxt "Core::ProtocolChoooserWidget|"
 msgid "To take effect you must restart qutIM"
-msgstr ""
+msgstr "To take effect you must restart qutIM"
 
 #: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:45
 msgctxt "Core::ProxySettingsWidget|"
@@ -1151,42 +1151,42 @@ msgstr "Type"
 #, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Name: </b> %1 <br />"
-msgstr ""
+msgstr "<b>Name: </b> %1 <br />"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:55
 #, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Description: </b> %1 <br />"
-msgstr ""
+msgstr "<b>Description: </b> %1 <br />"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:60
 #, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Name:</b> %1<br/>"
-msgstr ""
+msgstr "<b>Name:</b> %1<br/>"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:62
 #, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Task:</b> %1<br/>"
-msgstr ""
+msgstr "<b>Task:</b> %1<br/>"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:64
 #, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
-msgstr ""
+msgstr "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:66
 #, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
-msgstr ""
+msgstr "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooserwidget.cpp:140
 msgctxt "Core::ServiceChoooserWidget|"
 msgid "To take effect you must restart qutIM"
-msgstr ""
+msgstr "To take effect you must restart qutIM"
 
 #: ../../../core/src/corelayers/shortcutsettings/shortcutitemdelegate.cpp:85
 msgctxt "Core::ShortcutItemDelegate|"
@@ -1214,6 +1214,10 @@ msgid ""
 "themes, icons, sounds may come along with a different license.</"
 "div><br><hr><br>"
 msgstr ""
+"<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 3 "
+"or (at your option) any later version.</div><div>qutIM resources such as "
+"themes, icons, sounds may come along with a different license.</"
+"div><br><hr><br>"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:193
 #, qt-format
@@ -1312,7 +1316,7 @@ msgstr "Choose file for %1"
 #, qt-format
 msgctxt "Core::SimplePasswordWidget|"
 msgid "Enter password for account %1 (%2):"
-msgstr ""
+msgstr "Enter password for account %1 (%2):"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp:43
 #, qt-format
@@ -1534,7 +1538,7 @@ msgstr "Form"
 #, qt-format
 msgctxt "IdleStatusWidget|"
 msgid "Set status \"%1\" after:"
-msgstr ""
+msgstr "Set status \"%1\" after:"
 
 #: ../../../core/src/corelayers/idlestatuschanger/idlestatuswidget.ui:39
 #: ../../../core/src/corelayers/idlestatuschanger/idlestatuswidget.ui:63
@@ -1911,7 +1915,7 @@ msgstr "System"
 #: ../../../core/libqutim/notification.cpp:207
 msgctxt "Notification|"
 msgid "Attention notification"
-msgstr ""
+msgstr "Attention notification"
 
 #: ../../../core/libqutim/notification.cpp:221
 msgctxt "Notification|"
@@ -1991,7 +1995,7 @@ msgstr "A system notification"
 #: ../../../core/libqutim/notification.cpp:236
 msgctxt "Notification|"
 msgid "Contact is asking for your attention"
-msgstr ""
+msgstr "Contact is asking for your attention"
 
 #: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp:98
 msgctxt "Notifications|"
@@ -2001,14 +2005,14 @@ msgstr "Type"
 #: ../../../core/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
 msgid "Service chooser"
-msgstr ""
+msgstr "Service chooser"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:2
 #: ../../../core/__data_from_cmakelists_txt.cpp:118
 #: ../../../core/__data_from_cmakelists_txt.cpp:122
 msgctxt "Plugin|"
 msgid "TODO"
-msgstr ""
+msgstr "TODO"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:3
 #: ../../../core/src/corelayers/accountcreator/accountcreator.cpp:38
@@ -2025,44 +2029,44 @@ msgstr "Default qutIM account creator"
 #: ../../../core/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"
 msgid "qutIM and Kopete emoticons"
-msgstr ""
+msgstr "qutIM and Kopete emoticons"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:6
 msgctxt "Plugin|"
 msgid "Default qutIM emoticons backend"
-msgstr ""
+msgstr "Default qutIM emoticons backend"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:7
 msgctxt "Plugin|"
 msgid "Simple tray"
-msgstr ""
+msgstr "Simple tray"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:8
 msgctxt "Plugin|"
 msgid "Default qutIM system tray icon implementation"
-msgstr ""
+msgstr "Default qutIM system tray icon implementation"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:9
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:40
 msgctxt "Plugin|"
 msgid "Contact list model set"
-msgstr ""
+msgstr "Contact list model set"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:10
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:41
 msgctxt "Plugin|"
 msgid "Full-featured contact list model set"
-msgstr ""
+msgstr "Full-featured contact list model set"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:11
 msgctxt "Plugin|"
 msgid "Idle detector"
-msgstr ""
+msgstr "Idle detector"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:12
 msgctxt "Plugin|"
 msgid "Native idle detector, based on system api"
-msgstr ""
+msgstr "Native idle detector, based on system api"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:13
 #: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:36
@@ -2079,12 +2083,12 @@ msgstr "Simple authorisation dialogue"
 #: ../../../core/__data_from_cmakelists_txt.cpp:15
 msgctxt "Plugin|"
 msgid "Simple information window about a contact"
-msgstr ""
+msgstr "Simple information window about a contact"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:16
 msgctxt "Plugin|"
 msgid "Default qutIM implementation of the information window"
-msgstr ""
+msgstr "Default qutIM implementation of the information window"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:17
 msgctxt "Plugin|"
@@ -2109,53 +2113,54 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:21
 msgctxt "Plugin|"
 msgid "Mobile information window about a contact"
-msgstr ""
+msgstr "Mobile information window about a contact"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:22
 msgctxt "Plugin|"
 msgid "qutIM implementation of the information window for mobiles"
-msgstr ""
+msgstr "qutIM implementation of the information window for mobiles"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:23
 msgctxt "Plugin|"
 msgid "Json History"
-msgstr ""
+msgstr "Json History"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:24
 msgctxt "Plugin|"
 msgid ""
 "Default qutIM history implementation, based on JavaScript Object Notation"
 msgstr ""
+"Default qutIM history implementation, based on JavaScript Object Notation"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:25
 msgctxt "Plugin|"
 msgid "PList config"
-msgstr ""
+msgstr "PList config"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:26
 msgctxt "Plugin|"
 msgid "Additional qutIM config implementation for Apple plists"
-msgstr ""
+msgstr "Additional qutIM config implementation for Apple plists"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:27
 msgctxt "Plugin|"
 msgid "Mobile notifications settings"
-msgstr ""
+msgstr "Mobile notifications settings"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:28
 msgctxt "Plugin|"
 msgid "Mobile settings widget set for notifications"
-msgstr ""
+msgstr "Mobile settings widget set for notifications"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:29
 msgctxt "Plugin|"
 msgid "Simple about dialog"
-msgstr ""
+msgstr "Simple about dialog"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:30
 msgctxt "Plugin|"
 msgid "Simple dialog about qutIM and it's authors"
-msgstr ""
+msgstr "Simple dialog about qutIM and it's authors"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:31
 #: ../../../core/src/corelayers/localization/localizationplugin.cpp:39
@@ -2172,12 +2177,12 @@ msgstr "Default qutIM localisation engine"
 #: ../../../core/__data_from_cmakelists_txt.cpp:33
 msgctxt "Plugin|"
 msgid "Emoticons settings"
-msgstr ""
+msgstr "Emoticons settings"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:34
 msgctxt "Plugin|"
 msgid "Default settings widget set for emoticons"
-msgstr ""
+msgstr "Default settings widget set for emoticons"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:35
 msgctxt "Plugin|"
@@ -2192,166 +2197,167 @@ msgstr "Default qutIM implementation search window"
 #: ../../../core/__data_from_cmakelists_txt.cpp:37
 msgctxt "Plugin|"
 msgid "SimpleActionBox"
-msgstr ""
+msgstr "SimpleActionBox"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:38
 msgctxt "Plugin|"
 msgid "Simple actionbox module"
-msgstr ""
+msgstr "Simple actionbox module"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:39
 #: ../../../core/__data_from_cmakelists_txt.cpp:41
 msgctxt "Plugin|"
 msgid "Qt Kinetic scroller"
-msgstr ""
+msgstr "Qt Kinetic scroller"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:40
 #: ../../../core/__data_from_cmakelists_txt.cpp:42
 msgctxt "Plugin|"
 msgid "Kinetic scroller from upcoming Qt release"
-msgstr ""
+msgstr "Kinetic scroller from upcoming Qt release"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:43
 msgctxt "Plugin|"
 msgid "AutoAway"
-msgstr ""
+msgstr "AutoAway"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:44
 msgctxt "Plugin|"
 msgid "Automatically changes status of accounts on inactivity"
-msgstr ""
+msgstr "Automatically changes status of accounts on inactivity"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:45
 msgctxt "Plugin|"
 msgid "Data forms backend"
-msgstr ""
+msgstr "Data forms backend"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:46
 msgctxt "Plugin|"
 msgid "Default qutIM implementation of the data forms"
-msgstr ""
+msgstr "Default qutIM implementation of the data forms"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:47
 msgctxt "Plugin|"
 msgid "Simple MetaContacts"
-msgstr ""
+msgstr "Simple MetaContacts"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:48
 msgctxt "Plugin|"
 msgid "Default qutIM MetaContacts implementation"
-msgstr ""
+msgstr "Default qutIM MetaContacts implementation"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:49
 msgctxt "Plugin|"
 msgid "Mirgation 0.2 to 0.3"
-msgstr ""
+msgstr "Migration 0.2 to 0.3"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:50
 msgctxt "Plugin|"
 msgid "Module for migration from 0.2 to 0.3"
-msgstr ""
+msgstr "Module for migration from 0.2 to 0.3"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:51
 msgctxt "Plugin|"
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:52
 msgctxt "Plugin|"
 msgid ""
 "Default qutIM contactlist widget implementation with global status button"
 msgstr ""
+"Default qutIM contactlist widget implementation with global status button"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:53
 msgctxt "Plugin|"
 msgid "Tory Contactlist"
-msgstr ""
+msgstr "Tory Contactlist"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:54
 msgctxt "Plugin|"
 msgid "Tory contactlist"
-msgstr ""
+msgstr "Tory contactlist"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:55
 msgctxt "Plugin|"
 msgid "Simple contact list"
-msgstr ""
+msgstr "Simple contact list"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:56
 msgctxt "Plugin|"
 msgid "Default qutIM contact list implementation. Just simple"
-msgstr ""
+msgstr "Default qutIM contact list implementation. Just simple"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:57
 msgctxt "Plugin|"
 msgid "Contact delegate"
-msgstr ""
+msgstr "Contact delegate"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:58
 msgctxt "Plugin|"
 msgid "Default contact delegate. Just simple"
-msgstr ""
+msgstr "Default contact delegate. Just simple"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:59
 msgctxt "Plugin|"
 msgid "Adium service icons"
-msgstr ""
+msgstr "Adium service icons"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:60
 msgctxt "Plugin|"
 msgid "Protocol icons powered by Adium ServiceIcons packs"
-msgstr ""
+msgstr "Protocol icons powered by Adium ServiceIcons packs"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:61
 msgctxt "Plugin|"
 msgid "No crypto"
-msgstr ""
+msgstr "No crypto"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:62
 msgctxt "Plugin|"
 msgid "Store passwords in plaintext. Easy to read. Easy to recover."
-msgstr ""
+msgstr "Store passwords in plaintext. Easy to read. Easy to recover."
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:63
 #: ../../../core/__data_from_cmakelists_txt.cpp:64
 msgctxt "Plugin|"
 msgid "Notification filter"
-msgstr ""
+msgstr "Notification filter"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:65
 msgctxt "Plugin|"
 msgid "Sound theme selector"
-msgstr ""
+msgstr "Sound theme selector"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:66
 msgctxt "Plugin|"
 msgid "Simple sound theme selector"
-msgstr ""
+msgstr "Simple sound theme selector"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:67
 msgctxt "Plugin|"
 msgid "SoftkeysActionBox"
-msgstr ""
+msgstr "SoftkeysActionBox"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:68
 msgctxt "Plugin|"
 msgid "Actionbox module for mobile devices with softkeys support"
-msgstr ""
+msgstr "Actionbox module for mobile devices with softkeys support"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:69
 msgctxt "Plugin|"
 msgid "Chat notifications backend"
-msgstr ""
+msgstr "Chat notifications backend"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:70
 msgctxt "Plugin|"
 msgid "Prints information about events into chats"
-msgstr ""
+msgstr "Prints information about events into chats"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:71
 msgctxt "Plugin|"
 msgid "Chat spell checker"
-msgstr ""
+msgstr "Chat spell checker"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:72
 msgctxt "Plugin|"
@@ -2359,6 +2365,8 @@ msgid ""
 "Highlights grammar errors and provides spelling suggestions for misspelled "
 "words in chats"
 msgstr ""
+"Highlights grammar errors and provides spelling suggestions for misspelled "
+"words in chats"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:73
 msgctxt "Plugin|"
@@ -2373,12 +2381,12 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:75
 msgctxt "Plugin|"
 msgid "File transfer manager"
-msgstr ""
+msgstr "File transfer manager"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:76
 msgctxt "Plugin|"
 msgid "Default qutIM file transfer manager"
-msgstr ""
+msgstr "Default qutIM file transfer manager"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:77
 msgctxt "Plugin|"
@@ -2415,27 +2423,27 @@ msgstr "Default actionset for contacts"
 #: ../../../core/__data_from_cmakelists_txt.cpp:83
 msgctxt "Plugin|"
 msgid "Shortcut settings"
-msgstr ""
+msgstr "Shortcut settings"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:85
 msgctxt "Plugin|"
 msgid "Xdg Icon Loader"
-msgstr ""
+msgstr "Xdg Icon Loader"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:86
 msgctxt "Plugin|"
 msgid "Default qutIM icon loader implementation. Based on Q-XDG library"
-msgstr ""
+msgstr "Default qutIM icon loader implementation. Based on Q-XDG library"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:87
 msgctxt "Plugin|"
 msgid "Simple roster storage"
-msgstr ""
+msgstr "Simple roster storage"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:88
 msgctxt "Plugin|"
 msgid "Stores roster during offline at local storage"
-msgstr ""
+msgstr "Stores roster during offline at local storage"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:89
 msgctxt "Plugin|"
@@ -2445,7 +2453,7 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:90
 msgctxt "Plugin|"
 msgid "Conference join dialog adopted for Desktop systems"
-msgstr ""
+msgstr "Conference join dialogue adopted for Desktop systems"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:91
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelper.cpp:41
@@ -2462,54 +2470,54 @@ msgstr "Activates the session when certain events"
 #: ../../../core/__data_from_cmakelists_txt.cpp:93
 msgctxt "Plugin|"
 msgid "Notifications settings"
-msgstr ""
+msgstr "Notifications settings"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:94
 msgctxt "Plugin|"
 msgid "Default settings widget set for notifications"
-msgstr ""
+msgstr "Default settings widget set for notifications"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:95
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:10
 msgctxt "Plugin|"
 msgid "Contact comparators"
-msgstr ""
+msgstr "Contact comparators"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:96
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:11
 msgctxt "Plugin|"
 msgid "Default qutIM contacts comparators collection"
-msgstr ""
+msgstr "Default qutIM contacts comparators collection"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:97
 msgctxt "Plugin|"
 msgid "qutIM sound themes"
-msgstr ""
+msgstr "qutIM sound themes"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:98
 msgctxt "Plugin|"
 msgid "Default qutIM sound theme engine"
-msgstr ""
+msgstr "Default qutIM sound theme engine"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:99
 msgctxt "Plugin|"
 msgid "JSON config"
-msgstr ""
+msgstr "JSON config"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:100
 msgctxt "Plugin|"
 msgid "Default qutIM config implementation. Based on JSON."
-msgstr ""
+msgstr "Default qutIM config implementation. Based on JSON."
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:101
 msgctxt "Plugin|"
 msgid "Proxy settings"
-msgstr ""
+msgstr "Proxy settings"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:102
 msgctxt "Plugin|"
 msgid "Default implementation of proxy settings widget"
-msgstr ""
+msgstr "Default implementation of proxy settings widget"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:103
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:35
@@ -2552,55 +2560,55 @@ msgstr "Default qutIM chat implementation, based on Adium chat styles"
 #: ../../../core/__data_from_cmakelists_txt.cpp:109
 msgctxt "Plugin|"
 msgid "Classic"
-msgstr ""
+msgstr "Classic"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:110
 msgctxt "Plugin|"
 msgid "Default qutIM chatform implementation for adiumchat"
-msgstr ""
+msgstr "Default qutIM chatform implementation for adiumchat"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:111
 msgctxt "Plugin|"
 msgid "Mobile"
-msgstr ""
+msgstr "Mobile"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:112
 msgctxt "Plugin|"
 msgid "Stacked chatform for mobile devices"
-msgstr ""
+msgstr "Stacked chatform for mobile devices"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:113
 msgctxt "Plugin|"
 msgid "Text view"
-msgstr ""
+msgstr "Text view"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:114
 msgctxt "Plugin|"
 msgid "Fast and light chat view"
-msgstr ""
+msgstr "Fast and light chat view"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:117
 #: ../../../core/__data_from_cmakelists_txt.cpp:121
 msgctxt "Plugin|"
 msgid "Core"
-msgstr ""
+msgstr "Core"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:119
 #: ../../../core/__data_from_cmakelists_txt.cpp:123
 msgctxt "Plugin|"
 msgid "Core Devel"
-msgstr ""
+msgstr "Core Devel"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:120
 #: ../../../core/__data_from_cmakelists_txt.cpp:124
 msgctxt "Plugin|"
 msgid "Common devel files"
-msgstr ""
+msgstr "Common devel files"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:125
 msgctxt "Plugin|"
 msgid "Qt Libraries"
-msgstr ""
+msgstr "Qt Libraries"
 
 #: ../../../core/examples/autosettingsitem/autosettings.cpp:33
 msgctxt "Plugin|"
@@ -2625,22 +2633,22 @@ msgstr "SDK03 example"
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:14
 msgctxt "Plugin|"
 msgid "Status comparator"
-msgstr ""
+msgstr "Status comparator"
 
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:15
 msgctxt "Plugin|"
 msgid "Default contacts comparator, which sort by status"
-msgstr ""
+msgstr "Default contacts comparator, which sort by status"
 
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:16
 msgctxt "Plugin|"
 msgid "Last activity comparator"
-msgstr ""
+msgstr "Last activity comparator"
 
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:17
 msgctxt "Plugin|"
 msgid "Contacts comparator, which sort by last last activity"
-msgstr ""
+msgstr "Contacts comparator, which sort by last last activity"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:43
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:45
@@ -2649,32 +2657,32 @@ msgstr ""
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:51
 msgctxt "Plugin|"
 msgid "Contact list model"
-msgstr ""
+msgstr "Contact list model"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:44
 msgctxt "Plugin|"
 msgid "Full-featured contact list model"
-msgstr ""
+msgstr "Full-featured contact list model"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:46
 msgctxt "Plugin|"
 msgid "Show accounts and contacts"
-msgstr ""
+msgstr "Show accounts and contacts"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:48
 msgctxt "Plugin|"
 msgid "Show tags and contacts"
-msgstr ""
+msgstr "Show tags and contacts"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:50
 msgctxt "Plugin|"
 msgid "Show only contacts"
-msgstr ""
+msgstr "Show only contacts"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:52
 msgctxt "Plugin|"
 msgid "Show accounts, tags and contacts"
-msgstr ""
+msgstr "Show accounts, tags and contacts"
 
 #: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:43
 msgctxt "Plugin|"
@@ -2744,17 +2752,17 @@ msgstr "Used for profile identification"
 #: ../../../core/src/widgets/profilecreationpage.ui:69
 msgctxt "ProfileCreationPage|"
 msgid "Show advanced settings"
-msgstr ""
+msgstr "Show advanced settings"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:76
 msgctxt "ProfileCreationPage|"
 msgid "Advanced settings"
-msgstr ""
+msgstr "Advanced settings"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:82
 msgctxt "ProfileCreationPage|"
 msgid "Download clients icons from qutim.org server"
-msgstr ""
+msgstr "Download clients icons from qutim.org server"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:92
 msgctxt "ProfileCreationPage|"
@@ -2832,7 +2840,7 @@ msgstr "HTTP"
 #, qt-format
 msgctxt "QCoreApplication|"
 msgid "Are you sure you want to delete a contact %1 from the roster?"
-msgstr ""
+msgstr "Are you sure you want to delete a contact %1 from the roster?"
 
 #: ../../../core/libqutim/actiontoolbar.cpp:124
 msgctxt "QObject|"
@@ -2977,7 +2985,7 @@ msgstr "%1 is typing"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 is asking for your attention"
-msgstr ""
+msgstr "%1 is asking for your attention"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:87
 msgctxt "QObject|"
@@ -3003,165 +3011,165 @@ msgstr "Copy %1 to clipboard"
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:101
 msgctxt "QxtCommandOptions|"
 msgid "sets the application GUI style"
-msgstr ""
+msgstr "sets the application GUI style"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:102
 msgctxt "QxtCommandOptions|"
 msgid "sets the application stylesheet"
-msgstr ""
+msgstr "sets the application stylesheet"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:103
 msgctxt "QxtCommandOptions|"
 msgid "restores the application from an earlier session"
-msgstr ""
+msgstr "restores the application from an earlier session"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:104
 msgctxt "QxtCommandOptions|"
 msgid "displays debugging information about widgets"
-msgstr ""
+msgstr "displays debugging information about widgets"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:105
 msgctxt "QxtCommandOptions|"
 msgid "use right-to-left layout"
-msgstr ""
+msgstr "use right-to-left layout"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:107
 msgctxt "QxtCommandOptions|"
 msgid "never grab the mouse or keyboard"
-msgstr ""
+msgstr "never grab the mouse or keyboard"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:110
 msgctxt "QxtCommandOptions|"
 msgid "grab the mouse/keyboard even in a debugger"
-msgstr ""
+msgstr "grab the mouse/keyboard even in a debugger"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:111
 msgctxt "QxtCommandOptions|"
 msgid "run in synchronous mode for debugging"
-msgstr ""
+msgstr "run in synchronous mode for debugging"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:114
 msgctxt "QxtCommandOptions|"
 msgid "use Direct3D by default"
-msgstr ""
+msgstr "use Direct3D by default"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:117
 msgctxt "QxtCommandOptions|"
 msgid "sets the X11 display"
-msgstr ""
+msgstr "sets the X11 display"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:118
 msgctxt "QxtCommandOptions|"
 msgid "sets the geometry of the first window"
-msgstr ""
+msgstr "sets the geometry of the first window"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:120
 msgctxt "QxtCommandOptions|"
 msgid "sets the default font"
-msgstr ""
+msgstr "sets the default font"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:122
 msgctxt "QxtCommandOptions|"
 msgid "sets the default background color"
-msgstr ""
+msgstr "sets the default background colour"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:124
 msgctxt "QxtCommandOptions|"
 msgid "sets the default foreground color"
-msgstr ""
+msgstr "sets the default foreground colour"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:126
 msgctxt "QxtCommandOptions|"
 msgid "sets the default button color"
-msgstr ""
+msgstr "sets the default button colour"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:127
 msgctxt "QxtCommandOptions|"
 msgid "sets the application name"
-msgstr ""
+msgstr "sets the application name"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:128
 msgctxt "QxtCommandOptions|"
 msgid "sets the application title"
-msgstr ""
+msgstr "sets the application title"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:129
 msgctxt "QxtCommandOptions|"
 msgid "sets the X11 visual type"
-msgstr ""
+msgstr "sets the X11 visual type"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:130
 msgctxt "QxtCommandOptions|"
 msgid "limit the number of colors on an 8-bit display"
-msgstr ""
+msgstr "limit the number of colours on an 8-bit display"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:131
 msgctxt "QxtCommandOptions|"
 msgid "use a private color map"
-msgstr ""
+msgstr "use a private colour map"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:132
 msgctxt "QxtCommandOptions|"
 msgid "sets the input method server"
-msgstr ""
+msgstr "sets the input method server"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:133
 msgctxt "QxtCommandOptions|"
 msgid "disable the X Input Method"
-msgstr ""
+msgstr "disable the X Input Method"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:134
 msgctxt "QxtCommandOptions|"
 msgid "sets the style used by the input method"
-msgstr ""
+msgstr "sets the style used by the input method"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:235
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:249
 #, qt-format
 msgctxt "QxtCommandOptions|"
 msgid "option \"%1\" not found"
-msgstr ""
+msgstr "option \"%1\" not found"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:384
 msgctxt "QxtCommandOptions|"
 msgid "Short options cannot have optional parameters"
-msgstr ""
+msgstr "Short options cannot have optional parameters"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:396
 msgctxt "QxtCommandOptions|"
 msgid "positional() called before parse()"
-msgstr ""
+msgstr "positional() called before parse()"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:410
 msgctxt "QxtCommandOptions|"
 msgid "unrecognized() called before parse()"
-msgstr ""
+msgstr "unrecognized() called before parse()"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:423
 msgctxt "QxtCommandOptions|"
 msgid "count() called before parse()"
-msgstr ""
+msgstr "count() called before parse()"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:443
 msgctxt "QxtCommandOptions|"
 msgid "value() called before parse()"
-msgstr ""
+msgstr "value() called before parse()"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:458
 msgctxt "QxtCommandOptions|"
 msgid "parameters() called before parse()"
-msgstr ""
+msgstr "parameters() called before parse()"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:748
 msgctxt "QxtCommandOptions|"
 msgid "unrecognized parameters: "
-msgstr ""
+msgstr "unrecognized parameters: "
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:751
 #, qt-format
 msgctxt "QxtCommandOptions|"
 msgid "%1 requires a parameter"
-msgstr ""
+msgstr "%1 requires a parameter"
 
 #: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:52
 #: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:148
@@ -3182,7 +3190,7 @@ msgstr ""
 #: ../../../core/__generated_from_service_names.cpp:2
 msgctxt "Service|"
 msgid "AccountCreator"
-msgstr ""
+msgstr "AccountCreator"
 
 #: ../../../core/__generated_from_service_names.cpp:3
 #: ../../../core/libqutim/actionbox.cpp:41
@@ -3193,27 +3201,27 @@ msgstr "ActionBoxModule"
 #: ../../../core/__generated_from_service_names.cpp:4
 msgctxt "Service|"
 msgid "AddContact"
-msgstr ""
+msgstr "AddContact"
 
 #: ../../../core/__generated_from_service_names.cpp:5
 msgctxt "Service|"
 msgid "ApplicationWindow"
-msgstr ""
+msgstr "ApplicationWindow"
 
 #: ../../../core/__generated_from_service_names.cpp:6
 msgctxt "Service|"
 msgid "AuthorizationService"
-msgstr ""
+msgstr "AuthorizationService"
 
 #: ../../../core/__generated_from_service_names.cpp:7
 msgctxt "Service|"
 msgid "AutoAway"
-msgstr ""
+msgstr "AutoAway"
 
 #: ../../../core/__generated_from_service_names.cpp:8
 msgctxt "Service|"
 msgid "Bearer"
-msgstr ""
+msgstr "Bearer"
 
 #: ../../../core/__generated_from_service_names.cpp:9
 #: ../../../core/src/corelayers/adiumchat/lib/chatlayerimpl.cpp:48
@@ -3224,7 +3232,7 @@ msgstr "ChatForm"
 #: ../../../core/__generated_from_service_names.cpp:10
 msgctxt "Service|"
 msgid "ChatLayer"
-msgstr ""
+msgstr "ChatLayer"
 
 #: ../../../core/__generated_from_service_names.cpp:11
 #: ../../../core/src/corelayers/adiumchat/lib/chatlayerimpl.cpp:49
@@ -3235,17 +3243,17 @@ msgstr "ChatViewFactory"
 #: ../../../core/__generated_from_service_names.cpp:12
 msgctxt "Service|"
 msgid "ConferenceManager"
-msgstr ""
+msgstr "ConferenceManager"
 
 #: ../../../core/__generated_from_service_names.cpp:13
 msgctxt "Service|"
 msgid "ContactBackendModel"
-msgstr ""
+msgstr "ContactBackendModel"
 
 #: ../../../core/__generated_from_service_names.cpp:14
 msgctxt "Service|"
 msgid "ContactComparator"
-msgstr ""
+msgstr "ContactComparator"
 
 #: ../../../core/__generated_from_service_names.cpp:15
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:83
@@ -3256,7 +3264,7 @@ msgstr "ContactDelegate"
 #: ../../../core/__generated_from_service_names.cpp:16
 msgctxt "Service|"
 msgid "ContactInfo"
-msgstr ""
+msgstr "ContactInfo"
 
 #: ../../../core/__generated_from_service_names.cpp:17
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:80
@@ -3267,7 +3275,7 @@ msgstr "ContactList"
 #: ../../../core/__generated_from_service_names.cpp:18
 msgctxt "Service|"
 msgid "ContactListItemDelegate"
-msgstr ""
+msgstr "ContactListItemDelegate"
 
 #: ../../../core/__generated_from_service_names.cpp:19
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:81
@@ -3284,62 +3292,62 @@ msgstr "ContactModel"
 #: ../../../core/__generated_from_service_names.cpp:21
 msgctxt "Service|"
 msgid "Core::ContactDelegate"
-msgstr ""
+msgstr "Core::ContactDelegate"
 
 #: ../../../core/__generated_from_service_names.cpp:22
 msgctxt "Service|"
 msgid "CrashHandler"
-msgstr ""
+msgstr "CrashHandler"
 
 #: ../../../core/__generated_from_service_names.cpp:23
 msgctxt "Service|"
 msgid "DataFormsBackend"
-msgstr ""
+msgstr "DataFormsBackend"
 
 #: ../../../core/__generated_from_service_names.cpp:24
 msgctxt "Service|"
 msgid "Dock"
-msgstr ""
+msgstr "Dock"
 
 #: ../../../core/__generated_from_service_names.cpp:25
 msgctxt "Service|"
 msgid "FileTransferManager"
-msgstr ""
+msgstr "FileTransferManager"
 
 #: ../../../core/__generated_from_service_names.cpp:26
 msgctxt "Service|"
 msgid "IconLoader"
-msgstr ""
+msgstr "IconLoader"
 
 #: ../../../core/__generated_from_service_names.cpp:27
 msgctxt "Service|"
 msgid "Idle"
-msgstr ""
+msgstr "Idle"
 
 #: ../../../core/__generated_from_service_names.cpp:28
 msgctxt "Service|"
 msgid "JoinGroupChat"
-msgstr ""
+msgstr "JoinGroupChat"
 
 #: ../../../core/__generated_from_service_names.cpp:29
 msgctxt "Service|"
 msgid "Led"
-msgstr ""
+msgstr "Led"
 
 #: ../../../core/__generated_from_service_names.cpp:30
 msgctxt "Service|"
 msgid "MetaContactManager"
-msgstr ""
+msgstr "MetaContactManager"
 
 #: ../../../core/__generated_from_service_names.cpp:31
 msgctxt "Service|"
 msgid "NotificationSettings"
-msgstr ""
+msgstr "NotificationSettings"
 
 #: ../../../core/__generated_from_service_names.cpp:32
 msgctxt "Service|"
 msgid "NowPlaying"
-msgstr ""
+msgstr "NowPlaying"
 
 #: ../../../core/__generated_from_service_names.cpp:33
 #: ../../../core/libqutim/sound.cpp:40
@@ -3350,27 +3358,27 @@ msgstr "Popup"
 #: ../../../core/__generated_from_service_names.cpp:34
 msgctxt "Service|"
 msgid "RosterStorage"
-msgstr ""
+msgstr "RosterStorage"
 
 #: ../../../core/__generated_from_service_names.cpp:35
 msgctxt "Service|"
 msgid "Scroller"
-msgstr ""
+msgstr "Scroller"
 
 #: ../../../core/__generated_from_service_names.cpp:36
 msgctxt "Service|"
 msgid "SearchForm"
-msgstr ""
+msgstr "SearchForm"
 
 #: ../../../core/__generated_from_service_names.cpp:37
 msgctxt "Service|"
 msgid "SearchLayer"
-msgstr ""
+msgstr "SearchLayer"
 
 #: ../../../core/__generated_from_service_names.cpp:38
 msgctxt "Service|"
 msgid "SettingsLayer"
-msgstr ""
+msgstr "SettingsLayer"
 
 #: ../../../core/__generated_from_service_names.cpp:39
 #: ../../../core/libqutim/sound.cpp:41
@@ -3381,22 +3389,22 @@ msgstr "Sound"
 #: ../../../core/__generated_from_service_names.cpp:40
 msgctxt "Service|"
 msgid "SpellChecker"
-msgstr ""
+msgstr "SpellChecker"
 
 #: ../../../core/__generated_from_service_names.cpp:41
 msgctxt "Service|"
 msgid "TrayIcon"
-msgstr ""
+msgstr "TrayIcon"
 
 #: ../../../core/__generated_from_service_names.cpp:42
 msgctxt "Service|"
 msgid "Vibration"
-msgstr ""
+msgstr "Vibration"
 
 #: ../../../core/__generated_from_service_names.cpp:43
 msgctxt "Service|"
 msgid "VibrationAlert"
-msgstr ""
+msgstr "VibrationAlert"
 
 #: ../../../core/libqutim/settingslayer.cpp:353
 msgctxt "Service|"
@@ -3406,7 +3414,7 @@ msgstr "Settings Window"
 #: ../../../core/src/corelayers/servicechooser/servicechooserwidget.ui:14
 msgctxt "ServiceChoooser|"
 msgid "Form"
-msgstr ""
+msgstr "Form"
 
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelpersettings.ui:14
 msgctxt "SessionHelperSettings|"
