@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-02-05 22:23+0000\n"
+"PO-Revision-Date: 2013-02-09 08:21+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-06 05:32+0000\n"
-"X-Generator: Launchpad (build 16468)\n"
+"X-Launchpad-Export-Date: 2013-02-10 05:11+0000\n"
+"X-Generator: Launchpad (build 16482)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
 
@@ -206,7 +206,7 @@ msgstr "Вилучити"
 #: ../../../plugins/plugman/src/packagedownloaddialog.cpp:52
 msgctxt "PackageDownloadDialog|"
 msgid "Get Hot New Stuff"
-msgstr ""
+msgstr "Отримати свіжі матеріали"
 
 #: ../../../plugins/plugman/src/packageentrywidget.cpp:99
 #: ../../../plugins/plugman/src/packageentrywidget.cpp:102
@@ -271,17 +271,17 @@ msgstr "Пошук"
 #: ../../../plugins/plugman/qml/plugman/default/main.qml:36
 msgctxt "main|"
 msgid "Order By"
-msgstr ""
+msgstr "Сортування"
 
 #: ../../../plugins/plugman/qml/plugman/default/main.qml:59
 msgctxt "main|"
 msgid "Order by: "
-msgstr ""
+msgstr "Сортувати по: "
 
 #: ../../../plugins/plugman/qml/plugman/default/main.qml:69
 msgctxt "main|"
 msgid "Get emoticons"
-msgstr ""
+msgstr "Отримати смайлики"
 
 #~ msgctxt "QObject|"
 #~ msgid "Invalid package version"
