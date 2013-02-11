@@ -8,21 +8,21 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2012-09-06 13:05+0000\n"
+"PO-Revision-Date: 2013-02-10 21:25+0000\n"
 "Last-Translator: DAG Software <Unknown>\n"
 "Language-Team: Slovak <sk@li.org>\n"
-"Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
-"X-Generator: Launchpad (build 16451)\n"
+"X-Launchpad-Export-Date: 2013-02-11 05:22+0000\n"
+"X-Generator: Launchpad (build 16482)\n"
 "X-Qt-Contexts: true\n"
+"Language: sk\n"
 
 #: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:14
 msgctxt "ChooseCategoryPage|"
 msgid "WizardPage"
-msgstr ""
+msgstr "Stránka sprievodcu"
 
 #: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:23
 msgctxt "ChooseCategoryPage|"
@@ -32,27 +32,27 @@ msgstr ""
 #: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:31
 msgctxt "ChooseCategoryPage|"
 msgid "Art"
-msgstr ""
+msgstr "Grafické spracovanie"
 
 #: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:36
 msgctxt "ChooseCategoryPage|"
 msgid "Core"
-msgstr ""
+msgstr "Jadro"
 
 #: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:41
 msgctxt "ChooseCategoryPage|"
 msgid "Lib"
-msgstr ""
+msgstr "Lib"
 
 #: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:46
 msgctxt "ChooseCategoryPage|"
 msgid "Plugin"
-msgstr ""
+msgstr "Plugin"
 
 #: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:66
 msgctxt "ChooseCategoryPage|"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: ../../../plugins/plugman/tools/packgen/choosecategorypage.cpp:66
 msgctxt "ChooseCategoryPage|"
@@ -87,22 +87,22 @@ msgstr ""
 #: ../../../plugins/plugman/tools/packgen/choosepathpage.ui:14
 msgctxt "ChoosePathPage|"
 msgid "WizardPage"
-msgstr ""
+msgstr "Stránka sprievodcu"
 
 #: ../../../plugins/plugman/tools/packgen/choosepathpage.ui:35
 msgctxt "ChoosePathPage|"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:14
 msgctxt "ConfigPackagePage|"
 msgid "WizardPage"
-msgstr ""
+msgstr "Stránka sprievodcu"
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:29
 msgctxt "ConfigPackagePage|"
 msgid "Name:"
-msgstr ""
+msgstr "Názov:"
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:41
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:62
@@ -111,102 +111,102 @@ msgstr ""
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:165
 msgctxt "ConfigPackagePage|"
 msgid "*"
-msgstr ""
+msgstr "*"
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:50
 msgctxt "ConfigPackagePage|"
 msgid "Version:"
-msgstr ""
+msgstr "Verzia:"
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:71
 msgctxt "ConfigPackagePage|"
 msgid "Category:"
-msgstr ""
+msgstr "Kategória:"
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:90
 msgctxt "ConfigPackagePage|"
 msgid "Art"
-msgstr ""
+msgstr "Grafické spracovanie"
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:95
 msgctxt "ConfigPackagePage|"
 msgid "Core"
-msgstr ""
+msgstr "Jadro"
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:100
 msgctxt "ConfigPackagePage|"
 msgid "Lib"
-msgstr ""
+msgstr "Lib"
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:105
 msgctxt "ConfigPackagePage|"
 msgid "Plugin"
-msgstr ""
+msgstr "Plugin"
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:122
 msgctxt "ConfigPackagePage|"
 msgid "Type:"
-msgstr ""
+msgstr "Typ:"
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:143
 msgctxt "ConfigPackagePage|"
 msgid "Short description:"
-msgstr ""
+msgstr "Krátky popis:"
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:153
 msgctxt "ConfigPackagePage|"
 msgid "Url:"
-msgstr ""
+msgstr "Url:"
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:174
 msgctxt "ConfigPackagePage|"
 msgid "Author:"
-msgstr ""
+msgstr "Autor:"
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:184
 msgctxt "ConfigPackagePage|"
 msgid "License:"
-msgstr ""
+msgstr "Licencia:"
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:194
 msgctxt "ConfigPackagePage|"
 msgid "Platform:"
-msgstr ""
+msgstr "Platforma:"
 
 #: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:211
 msgctxt "ConfigPackagePage|"
 msgid "Package name:"
-msgstr ""
+msgstr "Název balíčka:"
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:20
 msgctxt "InstallButton|"
 msgid "Install"
-msgstr ""
+msgstr "Inštalovať"
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:24
 msgctxt "InstallButton|"
 msgid "Update"
-msgstr ""
+msgstr "Aktualizovať"
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:28
 msgctxt "InstallButton|"
 msgid "Installing"
-msgstr ""
+msgstr "Inštaluje sa"
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:32
 msgctxt "InstallButton|"
 msgid "Updating"
-msgstr ""
+msgstr "Aktualizuje sa"
 
 #: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:36
 msgctxt "InstallButton|"
 msgid "Uninstall"
-msgstr ""
+msgstr "Odinštalovať"
 
 #: ../../../plugins/plugman/src/packagedownloaddialog.cpp:52
 msgctxt "PackageDownloadDialog|"
 msgid "Get Hot New Stuff"
-msgstr ""
+msgstr "Získať príťažlivé novinky"
 
 #: ../../../plugins/plugman/src/packageentrywidget.cpp:99
 #: ../../../plugins/plugman/src/packageentrywidget.cpp:102
@@ -214,32 +214,32 @@ msgstr ""
 #, qt-format
 msgctxt "PackageEntryWidget|"
 msgid "By <i>%1</i>"
-msgstr ""
+msgstr "Od <i>%1</i>"
 
 #: ../../../plugins/plugman/src/packageentrywidget.cpp:121
 msgctxt "PackageEntryWidget|"
 msgid "Install"
-msgstr ""
+msgstr "Inštalovať"
 
 #: ../../../plugins/plugman/src/packageentrywidget.cpp:125
 msgctxt "PackageEntryWidget|"
 msgid "Update"
-msgstr ""
+msgstr "Aktualizovať"
 
 #: ../../../plugins/plugman/src/packageentrywidget.cpp:129
 msgctxt "PackageEntryWidget|"
 msgid "Installing"
-msgstr ""
+msgstr "Inštaluje sa"
 
 #: ../../../plugins/plugman/src/packageentrywidget.cpp:134
 msgctxt "PackageEntryWidget|"
 msgid "Updating"
-msgstr ""
+msgstr "Aktualizuje sa"
 
 #: ../../../plugins/plugman/src/packageentrywidget.cpp:139
 msgctxt "PackageEntryWidget|"
 msgid "Uninstall"
-msgstr ""
+msgstr "Odinštalovať"
 
 #: ../../../plugins/plugman/src/plugman.cpp:65
 msgctxt "PackageManager|"
@@ -265,19 +265,19 @@ msgstr "Správca balíčkov"
 #: ../../../plugins/plugman/qml/plugman/default/main.qml:24
 msgctxt "main|"
 msgid "Search"
-msgstr ""
+msgstr "Hľadať"
 
 #: ../../../plugins/plugman/qml/plugman/default/main.qml:36
 msgctxt "main|"
 msgid "Order By"
-msgstr ""
+msgstr "Usporiadať podľa"
 
 #: ../../../plugins/plugman/qml/plugman/default/main.qml:59
 msgctxt "main|"
 msgid "Order by: "
-msgstr ""
+msgstr "Usporiadať podľa "
 
 #: ../../../plugins/plugman/qml/plugman/default/main.qml:69
 msgctxt "main|"
 msgid "Get emoticons"
-msgstr ""
+msgstr "Získať smajlíky"

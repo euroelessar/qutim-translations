@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2012-09-20 11:41+0000\n"
+"PO-Revision-Date: 2013-02-10 21:19+0000\n"
 "Last-Translator: DAG Software <Unknown>\n"
 "Language-Team: Slovak <sk@li.org>\n"
-"Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-29 05:42+0000\n"
-"X-Generator: Launchpad (build 16451)\n"
+"X-Launchpad-Export-Date: 2013-02-11 05:22+0000\n"
+"X-Generator: Launchpad (build 16482)\n"
 "X-Qt-Contexts: true\n"
+"Language: sk\n"
 
 #: ../../../core/libqutim/account.cpp:144
 msgctxt "Account|"
@@ -144,10 +144,10 @@ msgstr "Textový štítok"
 #: ../../../core/src/corelayers/authdialog/authdialog.ui:33
 msgctxt "AuthDialog|"
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
 "weight:400; font-style:normal;\">\n"
@@ -249,7 +249,7 @@ msgstr "Naposledy aktívny"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbar.cpp:59
 msgctxt "CloseButton|"
 msgid "Close Tab"
-msgstr ""
+msgstr "Zatvoriť kartu"
 
 #: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:71
 #, qt-format
@@ -454,12 +454,12 @@ msgstr "qutIM 0.2 štýl"
 #: ../../../core/src/corelayers/contactmodel/src/contactlistbasemodel.cpp:43
 msgctxt "ContactListBaseModel|"
 msgid "Blink icon in the contact list"
-msgstr ""
+msgstr "Blikajúce ikony v zozname kontaktov"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistbasemodel.cpp:623
 msgctxt "ContactListBaseModel|"
 msgid "Without tags"
-msgstr ""
+msgstr "Bez štítkov"
 
 #: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:54
 #: ../../../core/src/corelayers/searchdialog/searchdialoglayer.cpp:78
@@ -702,7 +702,7 @@ msgstr "&Chat"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:263
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "Contacts"
-msgstr ""
+msgstr "Kontakty"
 
 #: ../../../core/src/corelayers/authdialog/authdialogimpl_p.h:47
 msgctxt "Core::AuthDialogPrivate|"
@@ -722,7 +722,7 @@ msgstr "Pridať do slovníka"
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:41
 msgctxt "Core::ContactListSettings|"
 msgid "Sorting"
-msgstr ""
+msgstr "Zoraďovanie"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:42
 msgctxt "Core::ContactListSettings|"
@@ -972,43 +972,43 @@ msgstr "Nedá sa zapisovať do súboru %1"
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:131
 msgctxt "Core::PluginChoooserWidget|"
 msgid "To take effect you must restart qutIM"
-msgstr ""
+msgstr "Aby sa zmeny prejavili, musíte reštartovať qutIM"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:147
 #, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Name: </b> %1 <br />"
-msgstr ""
+msgstr "<b>Názov: </b> %1 <br />"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:148
 #, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Description: </b> %1 <br />"
-msgstr ""
+msgstr "<b>Popis: </b> %1 <br />"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:153
 #, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Name:</b> %1<br/>"
-msgstr ""
+msgstr "<b>Názov:</b> %1<br/>"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:155
 #, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Task:</b> %1<br/>"
-msgstr ""
+msgstr "<b>Úloha:</b> %1<br/>"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:157
 #, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
-msgstr ""
+msgstr "<b>E-mail:</b> <a href=\"mailto:%1\">%1</a><br/>"
 
 #: ../../../core/src/corelayers/servicechooser/pluginchooserwidget.cpp:159
 #, qt-format
 msgctxt "Core::PluginChoooserWidget|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
-msgstr ""
+msgstr "<b>Webstránka:</b> <a href=\"%1\">%1</a><br/>"
 
 #: ../../../core/src/widgets/profilecreationpage.cpp:158
 msgctxt "Core::ProfileCreationPage|"
@@ -1108,7 +1108,7 @@ msgstr "Heslo nemôže byť prázdne!"
 #: ../../../core/src/corelayers/servicechooser/protocolchooserwidget.cpp:119
 msgctxt "Core::ProtocolChoooserWidget|"
 msgid "To take effect you must restart qutIM"
-msgstr ""
+msgstr "Aby sa zmeny prejavili, musíte reštartovať qutIM"
 
 #: ../../../core/src/corelayers/proxysettings/proxysettings.cpp:45
 msgctxt "Core::ProxySettingsWidget|"
@@ -1135,42 +1135,42 @@ msgstr "Typ"
 #, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Name: </b> %1 <br />"
-msgstr ""
+msgstr "<b>Názov: </b> %1 <br />"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:55
 #, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Description: </b> %1 <br />"
-msgstr ""
+msgstr "<b>Popis: </b> %1 <br />"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:60
 #, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Name:</b> %1<br/>"
-msgstr ""
+msgstr "<b>Názov:</b> %1<br/>"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:62
 #, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Task:</b> %1<br/>"
-msgstr ""
+msgstr "<b>Úloha:</b> %1<br/>"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:64
 #, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
-msgstr ""
+msgstr "<b>E-mail:</b> <a href=\"mailto:%1\">%1</a><br/>"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooser.cpp:66
 #, qt-format
 msgctxt "Core::ServiceChoooser|"
 msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
-msgstr ""
+msgstr "<b>Webstránka:</b> <a href=\"%1\">%1</a><br/>"
 
 #: ../../../core/src/corelayers/servicechooser/servicechooserwidget.cpp:140
 msgctxt "Core::ServiceChoooserWidget|"
 msgid "To take effect you must restart qutIM"
-msgstr ""
+msgstr "Aby sa zmeny prejavili, musíte reštartovať qutIM"
 
 #: ../../../core/src/corelayers/shortcutsettings/shortcutitemdelegate.cpp:85
 msgctxt "Core::ShortcutItemDelegate|"
@@ -1195,8 +1195,8 @@ msgctxt "Core::SimpleAboutDialog|"
 msgid ""
 "<div><b>qutIM</b> %1 is licensed under GNU General Public License, version 3 "
 "or (at your option) any later version.</div><div>qutIM resources such as "
-"themes, icons, sounds may come along with a different license.</"
-"div><br><hr><br>"
+"themes, icons, sounds may come along with a different "
+"license.</div><br><hr><br>"
 msgstr ""
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:193
@@ -2644,17 +2644,17 @@ msgstr ""
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:48
 msgctxt "Plugin|"
 msgid "Show tags and contacts"
-msgstr ""
+msgstr "Zobraziť skupiny a kontakty"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:50
 msgctxt "Plugin|"
 msgid "Show only contacts"
-msgstr ""
+msgstr "Zobraziť iba kontakty"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:52
 msgctxt "Plugin|"
 msgid "Show accounts, tags and contacts"
-msgstr ""
+msgstr "Zobraziť účty, skupiny a kontakty"
 
 #: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:43
 msgctxt "Plugin|"
@@ -4020,6 +4020,8 @@ msgid ""
 "Could not init plugin: \n"
 " %1"
 msgstr ""
+"Nedá sa inicializovať plugin:\n"
+" %1"
 
 #: ../../../core/libqutim/profile.cpp:247
 msgctxt "qutim_sdk_0_3::Profile|"
@@ -4050,9 +4052,9 @@ msgstr "Prehrať zvuk"
 #, qt-format
 msgctxt "qutim_sdk_0_3::StatisticsHelper|"
 msgid ""
-"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br /"
-"><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br /"
-"><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
+"<b>Short:</b> %1 <br /><b>Version:</b> %2 <br /><b>Full:</b> %3 <br "
+"/><b>qutIM Version:</b> %4 <br /><b>Qt Version:</b> %5 (%6 bit) <br "
+"/><b>Screen resolution:</b> %7 x %8 <br /><b>System locale:</b> %9<br />"
 msgstr ""
 
 #: ../../../core/src/corelayers/contactinfo/userinformation.ui:14
@@ -4087,34 +4089,42 @@ msgstr "Zatvoriť"
 #~ msgid "Form"
 #~ msgstr "Formulár"
 
+#, qt-format
 #~ msgctxt "Core::PluginChooserWidget|"
 #~ msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
 #~ msgstr "<b>E-mail:</b> <a href=\"mailto:%1\">%1</a><br/>"
 
+#, qt-format
 #~ msgctxt "Core::PluginChooserWidget|"
 #~ msgid "<b>Task:</b> %1<br/>"
 #~ msgstr "<b>Úloha:</b> %1<br/>"
 
+#, qt-format
 #~ msgctxt "Core::PluginChooserWidget|"
 #~ msgid "<b>Description: </b> %1 <br />"
 #~ msgstr "<b>Popis: </b> %1 <br />"
 
+#, qt-format
 #~ msgctxt "Core::PluginChooserWidget|"
 #~ msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
 #~ msgstr "<b>Webstránka:</b> <a href=\"%1\">%1</a><br/>"
 
+#, qt-format
 #~ msgctxt "Core::ServiceChooser|"
 #~ msgid "<b>Task:</b> %1<br/>"
 #~ msgstr "<b>Úloha:</b> %1<br/>"
 
+#, qt-format
 #~ msgctxt "Core::ServiceChooser|"
 #~ msgid "<b>Email:</b> <a href=\"mailto:%1\">%1</a><br/>"
 #~ msgstr "<b>E-mail:</b> <a href=\"mailto:%1\">%1</a><br/>"
 
+#, qt-format
 #~ msgctxt "Core::ServiceChooser|"
 #~ msgid "<b>Description: </b> %1 <br />"
 #~ msgstr "<b>Popis: </b> %1 <br />"
 
+#, qt-format
 #~ msgctxt "Core::ServiceChooser|"
 #~ msgid "<b>Webpage:</b> <a href=\"%1\">%1</a><br/>"
 #~ msgstr "<b>Webstránka:</b> <a href=\"%1\">%1</a><br/>"
@@ -4123,10 +4133,12 @@ msgstr "Zatvoriť"
 #~ msgid "Show/Hide offline"
 #~ msgstr "Zobraziť/skryť offline kontakty"
 
+#, qt-format
 #~ msgctxt "Core::PluginChooserWidget|"
 #~ msgid "<b>Name: </b> %1 <br />"
 #~ msgstr "<b>Názov: </b> %1 <br />"
 
+#, qt-format
 #~ msgctxt "Core::PluginChooserWidget|"
 #~ msgid "<b>Name:</b> %1<br/>"
 #~ msgstr "<b>Názov:</b> %1<br/>"
@@ -4135,10 +4147,12 @@ msgstr "Zatvoriť"
 #~ msgid "To take effect you must restart qutIM"
 #~ msgstr "Aby sa zmeny prejavili, musíte reštartovať qutIM"
 
+#, qt-format
 #~ msgctxt "Core::ServiceChooser|"
 #~ msgid "<b>Name:</b> %1<br/>"
 #~ msgstr "<b>Názov:</b> %1<br/>"
 
+#, qt-format
 #~ msgctxt "Core::ServiceChooser|"
 #~ msgid "<b>Name: </b> %1 <br />"
 #~ msgstr "<b>Názov: </b> %1 <br />"
