@@ -1,0 +1,434 @@
+# Slovak translation for qutim
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-03-27 13:46+0000\n"
+"PO-Revision-Date: 2013-02-10 21:14+0000\n"
+"Last-Translator: DAG Software <Unknown>\n"
+"Language-Team: Slovak <sk@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-02-11 05:22+0000\n"
+"X-Generator: Launchpad (build 16482)\n"
+
+#: ../../../protocols/mrim/src/ui/wizards/accountwizardmain.ui:14
+msgctxt "AccountWizardMain|"
+msgid "WizardPage"
+msgstr "Stránka sprievodcu"
+
+#: ../../../protocols/mrim/src/ui/wizards/accountwizardmain.ui:20
+msgctxt "AccountWizardMain|"
+msgid "Email:"
+msgstr "E-mail:"
+
+#: ../../../protocols/mrim/src/ui/wizards/accountwizardmain.ui:33
+msgctxt "AccountWizardMain|"
+msgid "@mail.ru"
+msgstr "@mail.ru"
+
+#: ../../../protocols/mrim/src/ui/wizards/accountwizardmain.ui:38
+msgctxt "AccountWizardMain|"
+msgid "@inbox.ru"
+msgstr "@inbox.ru"
+
+#: ../../../protocols/mrim/src/ui/wizards/accountwizardmain.ui:43
+msgctxt "AccountWizardMain|"
+msgid "@bk.ru"
+msgstr "@bk.ru"
+
+#: ../../../protocols/mrim/src/ui/wizards/accountwizardmain.ui:48
+msgctxt "AccountWizardMain|"
+msgid "@list.ru"
+msgstr "@list.ru"
+
+#: ../../../protocols/mrim/src/ui/wizards/accountwizardmain.ui:53
+msgctxt "AccountWizardMain|"
+msgid "@corp.mail.ru"
+msgstr "@corp.mail.ru"
+
+#: ../../../protocols/mrim/src/ui/wizards/accountwizardmain.ui:63
+msgctxt "AccountWizardMain|"
+msgid "Password:"
+msgstr "Heslo:"
+
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:49
+msgctxt "Author|"
+msgid "Peter Rusanov"
+msgstr "Peter Rusanov"
+
+#: ../../../protocols/mrim/src/base/mrimaccount.cpp:90
+#, qt-format
+msgctxt "MrimAccount|"
+msgid ""
+"Messages in mailbox: %1\n"
+"Unread messages: %2"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/mrimconnection.cpp:258
+msgctxt "MrimConnection|"
+msgid "Another client with same login connected!"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/mrimconnection.cpp:479
+#, qt-format
+msgctxt "MrimConnection|"
+msgid ""
+"Authentication failed!\n"
+"Reason: %1"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/messages.cpp:155
+msgctxt "MrimMessages|"
+msgid "No such user"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/messages.cpp:158
+msgctxt "MrimMessages|"
+msgid "Message too large"
+msgstr "Správa je príliš dlhá"
+
+#: ../../../protocols/mrim/src/base/messages.cpp:161
+msgctxt "MrimMessages|"
+msgid "Limit exceeded"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/messages.cpp:164
+msgctxt "MrimMessages|"
+msgid "User denied receiving offline messages"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/messages.cpp:167
+msgctxt "MrimMessages|"
+msgid "User denied receiving offline flash movies"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/messages.cpp:170
+msgctxt "MrimMessages|"
+msgid "Internal error"
+msgstr "Vnútorná chyba"
+
+#: ../../../protocols/mrim/src/base/messages.cpp:179
+msgctxt "MrimMessages|"
+msgid "Message was not delivered!"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/mrimpacket.cpp:188
+msgctxt "MrimPacket|"
+msgid "No error"
+msgstr "Žiadna chyba"
+
+#: ../../../protocols/mrim/src/base/mrimpacket.cpp:190
+msgctxt "MrimPacket|"
+msgid "Cannot read from socket"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/mrimpacket.cpp:192
+msgctxt "MrimPacket|"
+msgid "Header is corrupted"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/mrimpacket.cpp:194
+msgctxt "MrimPacket|"
+msgid "Unknown error"
+msgstr "Neznáma chyba"
+
+#: ../../../protocols/mrim/src/base/roster.cpp:256
+msgctxt "MrimRoster|"
+msgid "Phone contacts"
+msgstr "Telefónne kontakty"
+
+#: ../../../protocols/mrim/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "MRIM protocol"
+msgstr ""
+
+#: ../../../protocols/mrim/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Implementation of MRIM protocol"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:43
+msgctxt "Plugin|"
+msgid "Module-based realization of Mail.Ru IM protocol"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:44
+msgctxt "Plugin|"
+msgid "MRIM"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:57
+msgctxt "Plugin|"
+msgid "MRIM account creator"
+msgstr "Vytvoriť MRIM účet"
+
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:58
+msgctxt "Plugin|"
+msgid "Account creator for module-based realization of Mail.Ru IM protocol"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:85
+msgctxt "QObject|"
+msgid "Possible client"
+msgstr "Pravdepodobný klient"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:100
+msgctxt "QObject|"
+msgid "Not authorized"
+msgstr "Neautorizovaný"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:190
+msgctxt "Status|"
+msgid "Sick"
+msgstr "Chorý"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:192
+msgctxt "Status|"
+msgid "At home"
+msgstr "Doma"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:194
+msgctxt "Status|"
+msgid "Lunch"
+msgstr "Obed"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:196
+msgctxt "Status|"
+msgid "Where am I?"
+msgstr "Kde to som?"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:198
+msgctxt "Status|"
+msgid "WC"
+msgstr "WC"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:200
+msgctxt "Status|"
+msgid "Cooking"
+msgstr "Varím"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:202
+msgctxt "Status|"
+msgid "Walking"
+msgstr "Prechádzam sa"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:204
+msgctxt "Status|"
+msgid "I'm an alien!"
+msgstr "Som mimozemšťan!"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:206
+msgctxt "Status|"
+msgid "I'm a shrimp!"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:208
+msgctxt "Status|"
+msgid "I'm lost :("
+msgstr "Som stratený :("
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:210
+msgctxt "Status|"
+msgid "Crazy %)"
+msgstr "Šialený %)"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:212
+msgctxt "Status|"
+msgid "Duck"
+msgstr "Kačka"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:214
+msgctxt "Status|"
+msgid "Playing"
+msgstr "Hrá"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:216
+msgctxt "Status|"
+msgid "Smoke"
+msgstr "Fajčím"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:218
+msgctxt "Status|"
+msgid "At work"
+msgstr "V práci"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:220
+msgctxt "Status|"
+msgid "Meeting"
+msgstr "Stretnutie"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:222
+msgctxt "Status|"
+msgid "Beer"
+msgstr "Pivo"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:224
+msgctxt "Status|"
+msgid "Coffee"
+msgstr "Káva"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:226
+msgctxt "Status|"
+msgid "Shovel"
+msgstr "Lopata"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:228
+msgctxt "Status|"
+msgid "Sleeping"
+msgstr "Spím"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:230
+msgctxt "Status|"
+msgid "On the phone"
+msgstr "Na telefóne"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:232
+msgctxt "Status|"
+msgid "University"
+msgstr "Vysoká škola"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:234
+msgctxt "Status|"
+msgid "School"
+msgstr "Škola"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:236
+msgctxt "Status|"
+msgid "Wrong number!"
+msgstr "Zlé číslo!"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:238
+msgctxt "Status|"
+msgid "LOL"
+msgstr "VS"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:240
+msgctxt "Status|"
+msgid "Tongue"
+msgstr "Jazyk"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:242
+msgctxt "Status|"
+msgid "Smiley"
+msgstr "Smajlík"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:244
+msgctxt "Status|"
+msgid "Hippy"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:246
+msgctxt "Status|"
+msgid "Depression"
+msgstr "Depresia"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:248
+msgctxt "Status|"
+msgid "Crying"
+msgstr "Plačem"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:250
+msgctxt "Status|"
+msgid "Surprised"
+msgstr "Prekvapený"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:252
+msgctxt "Status|"
+msgid "Angry"
+msgstr "Nahnevaný"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:254
+msgctxt "Status|"
+msgid "Evil"
+msgstr "Zákerný"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:256
+msgctxt "Status|"
+msgid "Ass"
+msgstr "Vôl"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:258
+msgctxt "Status|"
+msgid "Heart"
+msgstr "Srdce"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:260
+msgctxt "Status|"
+msgid "Crescent"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:262
+msgctxt "Status|"
+msgid "Coool!"
+msgstr "Kúl!"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:264
+msgctxt "Status|"
+msgid "Horns"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:266
+msgctxt "Status|"
+msgid "Figa"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:268
+msgctxt "Status|"
+msgid "F*ck you!"
+msgstr "Po* sa!"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:270
+msgctxt "Status|"
+msgid "Skull"
+msgstr "Lebka"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:272
+msgctxt "Status|"
+msgid "Rocket"
+msgstr "Raketa"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:274
+msgctxt "Status|"
+msgid "Ktulhu"
+msgstr ""
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:276
+msgctxt "Status|"
+msgid "Goat"
+msgstr "Koza"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:278
+msgctxt "Status|"
+msgid "Must die!"
+msgstr "Musí zomrieť!"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:280
+msgctxt "Status|"
+msgid "Squirrel"
+msgstr "Veverička"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:282
+msgctxt "Status|"
+msgid "Party!"
+msgstr "Párty!"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:284
+msgctxt "Status|"
+msgid "Music"
+msgstr "Hudba"
+
+#: ../../../protocols/mrim/src/base/mrimstatus.cpp:286
+msgctxt "Status|"
+msgid "?"
+msgstr "?"
+
+#: ../../../protocols/mrim/src/base/mrimplugin.cpp:50
+msgctxt "Task|"
+msgid "Author"
+msgstr "Autor"
