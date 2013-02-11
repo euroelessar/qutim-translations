@@ -67,7 +67,7 @@ if( BUILD_TRANSLATIONS )
 		add_custom_command(
 			TARGET    translations
 			DEPENDS   ${poFile}
-	                COMMAND   "${QT_LCONVERT_EXECUTABLE}" "${poFile}" -o "${tsFile}"
+	                COMMAND   "${QT_LCONVERT_EXECUTABLE}" --target-language "${language}" "${poFile}" -o "${tsFile}"
 	                COMMAND   ${SED_STAGE} "${tsFile}"
 	                COMMAND   "${QT_LRELEASE_EXECUTABLE}" -silent "${tsFile}" -qm "${qmFile}"
 		)
