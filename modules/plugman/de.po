@@ -375,7 +375,6 @@ msgstr "Hole Emoticons"
 #~ msgid "MB/s"
 #~ msgstr "MB/s"
 
-#~| msgid "Failed to download: %1"
 #~ msgctxt "plugDownloader|"
 #~ msgid "Downloading: %1%, speed: %2 %3"
 #~ msgstr "Downloaden: %1%, Geschwindigkeit: %2 %3"
