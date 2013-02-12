@@ -1,0 +1,157 @@
+# Hebrew translation for qutim
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-03-23 17:51+0000\n"
+"PO-Revision-Date: 2013-02-11 21:09+0000\n"
+"Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
+"Language-Team: Hebrew <he@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-02-12 04:59+0000\n"
+"X-Generator: Launchpad (build 16491)\n"
+
+#: ../../../plugins/aspeller/src/aspellsettings.cpp:35
+msgctxt "AspellSettings|"
+msgid "Language"
+msgstr "שפה"
+
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:37
+msgctxt "Author|"
+msgid "Alexey Prokhin"
+msgstr "אלקסיי פרוקהין (Alexey Prokhin)"
+
+#: ../../../plugins/aspeller/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:40
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:43
+msgctxt "Plugin|"
+msgid "ASpell checker"
+msgstr "בוחן ASpell"
+
+#: ../../../plugins/aspeller/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:41
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:44
+msgctxt "Plugin|"
+msgid "Check spelling by ASpell library"
+msgstr "בדוק איות על ידי ספריית ASpell"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:88
+msgctxt "Settings|"
+msgid "Spell checker"
+msgstr "בודק איות"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:43
+msgctxt "SpellChecker|"
+msgid "40"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:44
+msgctxt "SpellChecker|"
+msgid "60"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:45
+msgctxt "SpellChecker|"
+msgid "80"
+msgstr ""
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:46
+msgctxt "SpellChecker|"
+msgid "-ise suffixes"
+msgstr "סיומות ‎-ise"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:47
+msgctxt "SpellChecker|"
+msgid "-ize suffixes"
+msgstr "סיומות ‎-ize"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:48
+msgctxt "SpellChecker|"
+msgid "-ise suffixes and with accents"
+msgstr "סיומות ‎-ise עם מבטאים"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:49
+msgctxt "SpellChecker|"
+msgid "-ise suffixes and without accents"
+msgstr "סיומות ‎-ise בלי מבטאים"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:50
+msgctxt "SpellChecker|"
+msgid "-ize suffixes and with accents"
+msgstr "סיומות ‎-ize עם מבטאים"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:51
+msgctxt "SpellChecker|"
+msgid "-ize suffixes and without accents"
+msgstr "סיומות ‎-ize בלי מבטאים"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:52
+msgctxt "SpellChecker|"
+msgid "large"
+msgstr "גדול"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:53
+msgctxt "SpellChecker|"
+msgid "medium"
+msgstr "רגיל"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:54
+msgctxt "SpellChecker|"
+msgid "small"
+msgstr "קטן"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:55
+msgctxt "SpellChecker|"
+msgid "variant 0"
+msgstr "חלופה 0"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:56
+msgctxt "SpellChecker|"
+msgid "variant 1"
+msgstr "חלופה 1"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:57
+msgctxt "SpellChecker|"
+msgid "variant 2"
+msgstr "חלופה 2"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:58
+msgctxt "SpellChecker|"
+msgid "without accents"
+msgstr "בלי מבטאים"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:59
+msgctxt "SpellChecker|"
+msgid "with accents"
+msgstr "עם מבטאים"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:60
+msgctxt "SpellChecker|"
+msgid "with ye"
+msgstr "עם ye"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:61
+msgctxt "SpellChecker|"
+msgid "with yeyo"
+msgstr "עם yeyo"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:62
+msgctxt "SpellChecker|"
+msgid "with yo"
+msgstr "עם yo"
+
+#: ../../../plugins/aspeller/src/aspellchecker.cpp:63
+msgctxt "SpellChecker|"
+msgid "extended"
+msgstr "מורחב"
+
+#: ../../../plugins/aspeller/src/aspellplugin.cpp:38
+msgctxt "Task|"
+msgid "Author"
+msgstr "מחבר"
