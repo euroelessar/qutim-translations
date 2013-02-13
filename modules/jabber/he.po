@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-02-11 21:48+0000\n"
+"PO-Revision-Date: 2013-02-12 07:20+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-12 04:59+0000\n"
+"X-Launchpad-Export-Date: 2013-02-13 04:59+0000\n"
 "X-Generator: Launchpad (build 16491)\n"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:35
@@ -677,7 +677,7 @@ msgstr "מערכת קבצים"
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:320
 msgctxt "HttpConnect|"
 msgid "Authentication failed"
-msgstr ""
+msgstr "אימות נכשל"
 
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:324
 msgctxt "HttpConnect|"
@@ -687,7 +687,7 @@ msgstr "מארח לא נמצא"
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:328
 msgctxt "HttpConnect|"
 msgid "Access denied"
-msgstr ""
+msgstr "גישה נדחתה"
 
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:332
 msgctxt "HttpConnect|"
@@ -898,7 +898,7 @@ msgstr "השתמש בדחיסה"
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:303
 msgctxt "JMainSettings|"
 msgid "Always"
-msgstr ""
+msgstr "תמיד"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:289
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:308
@@ -1739,7 +1739,7 @@ msgstr ""
 msgctxt "Jreen::Error|"
 msgid ""
 "The recipient or server does not allow any entity to perform the action."
-msgstr ""
+msgstr "המקבל או השרת לא מתירים לכל אישות להוציא לפועל את הפעולה."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:107
 msgctxt "Jreen::Error|"
@@ -2282,7 +2282,7 @@ msgstr "פרוטוקול Jabber"
 #: ../../../protocols/jabber/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
 msgid "Implementation of jabber protocol based on jreen library"
-msgstr ""
+msgstr "המחשת פרוטוקול jabber מבוססת על ספריית jreen"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:54
 #: ../../../protocols/jabber/src/jplugin.cpp:64
@@ -2389,7 +2389,7 @@ msgstr "תמיכת מצב רוח משתמש Jabber"
 #: ../../../protocols/jabber/src/jplugin.cpp:119
 msgctxt "Plugin|"
 msgid "Convertes internal XMPP data of mood to Qt data types"
-msgstr ""
+msgstr "ממירה נתוני XMPP פנימים של מצב רוח אל טיפוסי נתונים Qt"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:122
 msgctxt "Plugin|"
@@ -2399,17 +2399,17 @@ msgstr "בוחר מצב רוח Jabber"
 #: ../../../protocols/jabber/src/jplugin.cpp:123
 msgctxt "Plugin|"
 msgid "Provides the dialog to set your mood"
-msgstr ""
+msgstr "מספקת דו שיח לקביעת מצב רוח"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:126
 msgctxt "Plugin|"
 msgid "Jabber User Tune support"
-msgstr ""
+msgstr "תמיכת לחן משתמש Jabber"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:127
 msgctxt "Plugin|"
 msgid "Convertes internal XMPP data of tune to Qt data types"
-msgstr ""
+msgstr "ממירה נתוני XMPP פנימים של לחן אל טיפוסי נתונים Qt"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:130
 msgctxt "Plugin|"
@@ -2419,7 +2419,7 @@ msgstr "תמיכת פעילות משתמש Jabber"
 #: ../../../protocols/jabber/src/jplugin.cpp:131
 msgctxt "Plugin|"
 msgid "Convertes internal XMPP data of activity to Qt data types"
-msgstr ""
+msgstr "ממירה נתוני XMPP פנימים של פעילות אל טיפוסי נתונים Qt"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:134
 msgctxt "Plugin|"
@@ -2429,7 +2429,7 @@ msgstr "בוחר פעילות Jabber"
 #: ../../../protocols/jabber/src/jplugin.cpp:135
 msgctxt "Plugin|"
 msgid "Provides the dialog to set your activity"
-msgstr ""
+msgstr "מספקת דו שיח לקביעת פעילות"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:138
 #: ../../../protocols/jabber/src/jplugin.cpp:139
@@ -2455,7 +2455,7 @@ msgstr "תמיכת VoIP ‫Jabber"
 #: ../../../protocols/jabber/src/jplugin.cpp:149
 msgctxt "Plugin|"
 msgid "Allows to talk by voice and video"
-msgstr ""
+msgstr "מתירה לשוחח באופן קולי וחזותי"
 
 #: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:89
 msgctxt "QObject|"
