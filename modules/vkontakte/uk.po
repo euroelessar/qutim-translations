@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-02-05 22:26+0000\n"
+"PO-Revision-Date: 2013-02-13 23:14+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-06 05:32+0000\n"
-"X-Generator: Launchpad (build 16468)\n"
+"X-Launchpad-Export-Date: 2013-02-14 05:08+0000\n"
+"X-Generator: Launchpad (build 16491)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
 
@@ -371,7 +371,7 @@ msgstr ""
 #: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:53
 msgctxt "main|"
 msgid "Last dialogs"
-msgstr ""
+msgstr "Останні розмови"
 
 #: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:111
 #: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:111
@@ -384,7 +384,7 @@ msgstr ""
 #: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:111
 msgctxt "main|"
 msgid "(from chat)"
-msgstr ""
+msgstr "(з чату)"
 
 #: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:138
 #: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:138
