@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-02-04 23:30+0000\n"
+"PO-Revision-Date: 2013-02-13 22:40+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,8 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2013-02-06 05:32+0000\n"
-"X-Generator: Launchpad (build 16468)\n"
+"X-Launchpad-Export-Date: 2013-02-14 05:08+0000\n"
+"X-Generator: Launchpad (build 16491)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
 
@@ -217,7 +217,7 @@ msgstr "Написати повідомлення"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/ChatChannelList.qml:38
 msgctxt "ChatChannelList|"
 msgid "Open chats"
-msgstr ""
+msgstr "Відкриті чати"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/ChatPage.qml:81
 msgctxt "ChatPage|"
@@ -252,7 +252,7 @@ msgstr "Розмір шрифта"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/ChatUnitsList.qml:39
 msgctxt "ChatUnitsList|"
 msgid "Participants"
-msgstr ""
+msgstr "Учасники"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/src/authdialogwrapper.cpp:112
 #, qt-format
@@ -421,7 +421,7 @@ msgstr "Зберегти"
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/EmoticonsPage.qml:45
 msgctxt "EmoticonsPage|"
 msgid "Selected theme"
-msgstr ""
+msgstr "Обрана тема"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/settings/HighlighterPage.qml:45
 msgctxt "HighlighterPage|"
