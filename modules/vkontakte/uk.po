@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-02-13 23:14+0000\n"
+"PO-Revision-Date: 2013-02-15 21:28+0000\n"
 "Last-Translator: ma$terok <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-15 04:56+0000\n"
+"X-Launchpad-Export-Date: 2013-02-16 05:15+0000\n"
 "X-Generator: Launchpad (build 16491)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
@@ -266,17 +266,17 @@ msgstr "Вкладені перерахування"
 #: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:80
 msgctxt "QObject|"
 msgid "NewsItem enums"
-msgstr ""
+msgstr "Перелік NewsItem"
 
 #: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:81
 msgctxt "QObject|"
 msgid "NewsFeed enums"
-msgstr ""
+msgstr "Перелік NewsFeed"
 
 #: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:82
 msgctxt "QObject|"
 msgid "Cannot use this class directly"
-msgstr ""
+msgstr "Не можливо безпосередньо використовувати цей клас"
 
 #: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:14
 msgctxt "VAccountWizardPage|"
@@ -292,13 +292,13 @@ msgstr "Електронна пошта:"
 #, qt-format
 msgctxt "VGroupChat|"
 msgid "%1 has joined the room"
-msgstr ""
+msgstr "%1 увійшов до кімнати"
 
 #: ../../../protocols/vkontakte/src/vgroupchat.cpp:163
 #, qt-format
 msgctxt "VGroupChat|"
 msgid "%1 has left the room"
-msgstr ""
+msgstr "%1 покинув кімнату"
 
 #: ../../../protocols/vkontakte/src/vprotocol.cpp:94
 msgctxt "VProtocol|"
@@ -337,7 +337,7 @@ msgstr "група-%1"
 #, qt-format
 msgctxt "main|"
 msgid "%1's photoalbum"
-msgstr ""
+msgstr "%1 Фото"
 
 #: ../../../protocols/vkontakte/vreen/examples/declarative/audio/qml/main.qml:17
 #: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:17
@@ -346,7 +346,7 @@ msgstr ""
 #: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:17
 msgctxt "main|"
 msgid "<a href=\"http://vk.com\">Click to login</a>"
-msgstr ""
+msgstr "<a href=\"http://vk.com\">Клацніть, щоб увійти</a>"
 
 #: ../../../protocols/vkontakte/vreen/examples/declarative/audio/qml/main.qml:59
 #: ../../../protocols/vkontakte/vreen/examples/quick/audio/qml/main.qml:95
@@ -365,7 +365,7 @@ msgstr "Невідомо"
 #, qt-format
 msgctxt "main|"
 msgid "duration %2"
-msgstr ""
+msgstr "тривалість %2"
 
 #: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:53
 #: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:53
@@ -378,7 +378,7 @@ msgstr "Останні розмови"
 #, qt-format
 msgctxt "main|"
 msgid "%1 ➜ %2 %3"
-msgstr ""
+msgstr "%1 ➜ %2 %3"
 
 #: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:111
 #: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:111
@@ -390,25 +390,25 @@ msgstr "(з чату)"
 #: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:138
 msgctxt "main|"
 msgid "dddd in hh:mm"
-msgstr ""
+msgstr "dddd в hh:mm"
 
 #: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:140
 #: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:140
 msgctxt "main|"
 msgid ", unread"
-msgstr ""
+msgstr ", непрочитано"
 
 #: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:142
 #: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:142
 msgctxt "main|"
 msgid ", has attachments"
-msgstr ""
+msgstr ", має долучення"
 
 #: ../../../protocols/vkontakte/vreen/examples/quick/audio/qml/main.qml:172
 #, qt-format
 msgctxt "main|"
 msgid "Duration %2"
-msgstr ""
+msgstr "Тривалість %2"
 
 #~ msgctxt "VAccountSettings|"
 #~ msgid "%1 settings"
