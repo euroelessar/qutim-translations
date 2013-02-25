@@ -8,16 +8,18 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-02-07 18:23+0000\n"
-"Last-Translator: mrx5682 <Unknown>\n"
+"PO-Revision-Date: 2013-02-25 00:39+0000\n"
+"Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-08 04:48+0000\n"
-"X-Generator: Launchpad (build 16482)\n"
+"X-Launchpad-Export-Date: 2013-02-25 05:20+0000\n"
+"X-Generator: Launchpad (build 16506)\n"
 "X-Qt-Contexts: true\n"
 "Language: de\n"
+"X-Language: de_DE\n"
+"X-Source-Language: C\n"
 
 #: ../../../plugins/docktile/src/dockplugin.cpp:6
 msgctxt "Author|"
@@ -72,7 +74,7 @@ msgstr "Element 1"
 #: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:107
 msgctxt "MainWindow|"
 msgid "First element? Hm…"
-msgstr "Erstes element? Hm..."
+msgstr "Erstes Element? Hm..."
 
 #: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:112
 msgctxt "MainWindow|"
@@ -129,7 +131,7 @@ msgstr "DockTile"
 #: ../../../plugins/docktile/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
 msgid "Dock integration"
-msgstr "Dock-Integration"
+msgstr "Dock integration"
 
 #: ../../../plugins/docktile/src/dockplugin.cpp:11
 msgctxt "Plugin|"
