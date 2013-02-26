@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-03-23 17:51+0000\n"
-"PO-Revision-Date: 2012-02-06 13:45+0000\n"
-"Last-Translator: mrx5682 <Unknown>\n"
+"PO-Revision-Date: 2013-02-25 14:48+0000\n"
+"Last-Translator: Martin Häckel <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-28 12:52+0000\n"
-"X-Generator: Launchpad (build 15505)\n"
+"X-Launchpad-Export-Date: 2013-02-26 05:20+0000\n"
+"X-Generator: Launchpad (build 16506)\n"
 "X-Qt-Contexts: true\n"
+"Language: de\n"
 "X-Language: de\n"
 "X-Source-Language: en\n"
 
@@ -47,7 +47,7 @@ msgstr "Hallo, ich bin kein Bot!;hallo, ich bin kein bot!"
 #, qt-format
 msgctxt "Antispam::Handler|"
 msgid "Message from %1 blocked on suspicion of spam."
-msgstr "Nachricht von %1 wegen Verdacht auf Spam geblockt."
+msgstr "Nachricht von %1 wurde wegen Spamverdacht blockiert."
 
 #: ../../../plugins/antispam/src/settingswidget.ui:14
 msgctxt "Antispam::SettingsWidget|"
@@ -105,7 +105,7 @@ msgstr "Hallo, ich bin kein Bot!;hallo, ich bin kein bot!"
 #: ../../../plugins/antispam/src/antispamplugin.cpp:52
 msgctxt "Plugin|"
 msgid "Antispam"
-msgstr "Anti-Spam"
+msgstr "Antispam"
 
 #: ../../../plugins/antispam/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/antispam/src/antispamplugin.cpp:53
