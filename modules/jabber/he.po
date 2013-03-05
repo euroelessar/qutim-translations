@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-02-12 07:20+0000\n"
+"PO-Revision-Date: 2013-03-05 01:59+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-13 04:59+0000\n"
-"X-Generator: Launchpad (build 16491)\n"
+"X-Launchpad-Export-Date: 2013-03-05 05:25+0000\n"
+"X-Generator: Launchpad (build 16514)\n"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:35
 msgctxt "Activity|"
@@ -1077,7 +1077,7 @@ msgstr "הגדר פעילות"
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.ui:20
 msgctxt "Jabber::JActivityChooserWindow|"
 msgid "Form"
-msgstr ""
+msgstr "תבנית"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:175
 msgctxt "Jabber::JActivityChooserWindow|"
@@ -1087,7 +1087,7 @@ msgstr "בחר את פעילותך"
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:176
 msgctxt "Jabber::JActivityChooserWindow|"
 msgid "Choose"
-msgstr ""
+msgstr "בחר"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jactivitychooser.cpp:214
 msgctxt "Jabber::JActivityChooserWindow|"
@@ -1098,17 +1098,17 @@ msgstr "אין פעילות"
 #, qt-format
 msgctxt "Jabber::JAttention|"
 msgid "%1 trying to attract your attention!"
-msgstr ""
+msgstr "%1 מנסה למשוך את צומת לבך!"
 
 #: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:134
 msgctxt "Jabber::JAttention|"
 msgid "Contact's client does not suppoort attentions"
-msgstr ""
+msgstr "לקוח איש קשר לא תומך בבקשות הקשב"
 
 #: ../../../protocols/jabber/src/protocol/modules/attention/jattention.cpp:136
 msgctxt "Jabber::JAttention|"
 msgid "Trying to attract attention."
-msgstr ""
+msgstr "מנסה למשוך תשומת לב."
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:241
 msgctxt "Jabber::JBookmarkManager|"
@@ -1246,7 +1246,7 @@ msgstr " אחראי"
 #, qt-format
 msgctxt "Jabber::JMUCSession|"
 msgid "Conference \"%1\" requires you to fill the captcha to enter the room"
-msgstr ""
+msgstr "ועידה \"%1\" מצריכה אותך למלא captcha בכדי לגשת אל החדר"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:590
 msgctxt "Jabber::JMUCSession|"
@@ -1286,7 +1286,7 @@ msgstr "מבקר"
 #: ../../../protocols/jabber/src/protocol/jmainsettings.cpp:53
 msgctxt "Jabber::JMainSettings|"
 msgid "No key selected"
-msgstr ""
+msgstr "לא נבחר מפתח"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:101
 msgctxt "Jabber::JMoodChooser|"
@@ -1296,7 +1296,7 @@ msgstr "הגדר מצב רוח"
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.ui:14
 msgctxt "Jabber::JMoodChooserWindow|"
 msgid "Form"
-msgstr ""
+msgstr "תבנית"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:44
 msgctxt "Jabber::JMoodChooserWindow|"
@@ -1306,7 +1306,7 @@ msgstr "בחר את מצב רוחך"
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:45
 msgctxt "Jabber::JMoodChooserWindow|"
 msgid "Choose"
-msgstr ""
+msgstr "בחר"
 
 #: ../../../protocols/jabber/src/protocol/modules/moodpep/jmoodchooser.cpp:65
 msgctxt "Jabber::JMoodChooserWindow|"
@@ -1347,17 +1347,17 @@ msgstr "מזהה משתמש"
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:141
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "PGP key importing error"
-msgstr ""
+msgstr "שגיאת ייבוא מפתח PGP"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:138
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "Entered invalid passphrase"
-msgstr ""
+msgstr "הוזנה מימרת סיסמה שגויה"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpkeydialog.cpp:141
 msgctxt "Jabber::JPGPKeyDialog|"
 msgid "Provided key is invalid"
-msgstr ""
+msgstr "מפתח מסופק הינו שגוי"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:69
 msgctxt "Jabber::JPGPSupport|"
@@ -2282,7 +2282,7 @@ msgstr "פרוטוקול Jabber"
 #: ../../../protocols/jabber/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
 msgid "Implementation of jabber protocol based on jreen library"
-msgstr "המחשת פרוטוקול jabber מבוססת על ספריית jreen"
+msgstr "המחשה של פרוטוקול jabber מבוססת על ספריית jreen"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:54
 #: ../../../protocols/jabber/src/jplugin.cpp:64
@@ -2359,7 +2359,7 @@ msgstr "חוקר שירות Jabber"
 #: ../../../protocols/jabber/src/jplugin.cpp:103
 msgctxt "Plugin|"
 msgid "Implementation of service browser"
-msgstr "יישום של חוקר שירות"
+msgstr "המחשה של חוקר שירות"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:110
 msgctxt "Plugin|"
@@ -2369,7 +2369,7 @@ msgstr "תמיכת אירועים אישיים Jabber"
 #: ../../../protocols/jabber/src/jplugin.cpp:111
 msgctxt "Plugin|"
 msgid "Implementation of personal events protocol"
-msgstr "יישום של פרוטוקול אירועים אישיים"
+msgstr "המחשה של פרוטוקול אירועים אישיים"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:114
 msgctxt "Plugin|"
@@ -2379,7 +2379,7 @@ msgstr "תמיכת VCard ‫Jabber"
 #: ../../../protocols/jabber/src/jplugin.cpp:115
 msgctxt "Plugin|"
 msgid "Implementation of VCard info requests"
-msgstr "יישום של בקשות מידע VCard"
+msgstr "המחשה של בקשות מידע VCard"
 
 #: ../../../protocols/jabber/src/jplugin.cpp:118
 msgctxt "Plugin|"
