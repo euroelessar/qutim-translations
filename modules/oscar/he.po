@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-02-11 20:24+0000\n"
+"PO-Revision-Date: 2013-03-05 01:53+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-12 04:59+0000\n"
-"X-Generator: Launchpad (build 16491)\n"
+"X-Launchpad-Export-Date: 2013-03-05 05:25+0000\n"
+"X-Generator: Launchpad (build 16514)\n"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -25,7 +25,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:25
 msgctxt "AddAccountForm|"
 msgid "UIN:"
-msgstr ""
+msgstr "‏UIN‏:"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:35
 msgctxt "AddAccountForm|"
@@ -40,27 +40,27 @@ msgstr "שמור סיסמה"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:563
 msgctxt "Affiliation|"
 msgid "Alumni Org."
-msgstr ""
+msgstr "ארגון חינוך"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:564
 msgctxt "Affiliation|"
 msgid "Charity Org."
-msgstr ""
+msgstr "ארגון צדקה"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:565
 msgctxt "Affiliation|"
 msgid "Club/Social Org."
-msgstr ""
+msgstr "ארגון מועדון/חברתי"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:566
 msgctxt "Affiliation|"
 msgid "Community Org."
-msgstr ""
+msgstr "ארגון קהילתי"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:567
 msgctxt "Affiliation|"
 msgid "Cultural Org."
-msgstr ""
+msgstr "ארגון תרבותי"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:568
 msgctxt "Affiliation|"
@@ -75,62 +75,62 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:570
 msgctxt "Affiliation|"
 msgid "Hobbyists Org."
-msgstr ""
+msgstr "ארגון תחביבנים"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:571
 msgctxt "Affiliation|"
 msgid "International Org."
-msgstr ""
+msgstr "ארגון בינלאומי"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:572
 msgctxt "Affiliation|"
 msgid "Nature and Environment Org."
-msgstr ""
+msgstr "ארגון טבע וסביבה"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:573
 msgctxt "Affiliation|"
 msgid "Professional Org."
-msgstr ""
+msgstr "ארגון מקצועי"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:574
 msgctxt "Affiliation|"
 msgid "Scientific/Technical Org."
-msgstr ""
+msgstr "ארגון מדעי/טכני"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:575
 msgctxt "Affiliation|"
 msgid "Self Improvement Group"
-msgstr ""
+msgstr "קבוצת שיפור עצמי"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:576
 msgctxt "Affiliation|"
 msgid "Spiritual/Religious Org."
-msgstr ""
+msgstr "ארגון רוחני/דתי"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:577
 msgctxt "Affiliation|"
 msgid "Sports Org."
-msgstr ""
+msgstr "ארגון ספורט"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:578
 msgctxt "Affiliation|"
 msgid "Support Org."
-msgstr ""
+msgstr "ארגון תמיכה"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:579
 msgctxt "Affiliation|"
 msgid "Trade and Business Org."
-msgstr ""
+msgstr "ארגון מסחר ועסקים"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:580
 msgctxt "Affiliation|"
 msgid "Union"
-msgstr ""
+msgstr "איחוד"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:581
 msgctxt "Affiliation|"
 msgid "Volunteer Org."
-msgstr ""
+msgstr "ארגון התנדבותי"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:582
 msgctxt "Affiliation|"
@@ -140,37 +140,37 @@ msgstr "אחר"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:595
 msgctxt "Age|"
 msgid "13-17"
-msgstr ""
+msgstr "17-13"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:596
 msgctxt "Age|"
 msgid "18-22"
-msgstr ""
+msgstr "22-18"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:597
 msgctxt "Age|"
 msgid "23-29"
-msgstr ""
+msgstr "29-23"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:598
 msgctxt "Age|"
 msgid "30-39"
-msgstr ""
+msgstr "39-30"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:599
 msgctxt "Age|"
 msgid "40-49"
-msgstr ""
+msgstr "49-40"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:600
 msgctxt "Age|"
 msgid "50-59"
-msgstr ""
+msgstr "59-50"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:601
 msgctxt "Age|"
 msgid "60-above"
-msgstr ""
+msgstr "60-צפונה"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:52
 msgctxt "Author|"
@@ -222,12 +222,12 @@ msgstr "חשבון לא תקף"
 #: ../../../protocols/oscar/src/connection.cpp:320
 msgctxt "ConnectionError|"
 msgid "Deleted account"
-msgstr ""
+msgstr "חשבון מחוק"
 
 #: ../../../protocols/oscar/src/connection.cpp:322
 msgctxt "ConnectionError|"
 msgid "Expired account"
-msgstr ""
+msgstr "חשבון פקוע"
 
 #: ../../../protocols/oscar/src/connection.cpp:324
 msgctxt "ConnectionError|"
@@ -320,12 +320,12 @@ msgstr ""
 #: ../../../protocols/oscar/src/connection.cpp:358
 msgctxt "ConnectionError|"
 msgid "You are using an older version of ICQ. Upgrade required"
-msgstr ""
+msgstr "אתה משתמש בגרסא ישנה יותר של ICQ. שדרוג נדרש"
 
 #: ../../../protocols/oscar/src/connection.cpp:360
 msgctxt "ConnectionError|"
 msgid "You are using an older version of ICQ. Upgrade recommended"
-msgstr ""
+msgstr "אתה משתמש בגרסא ישנה יותר של ICQ. שדרוג מומלץ"
 
 #: ../../../protocols/oscar/src/connection.cpp:362
 msgctxt "ConnectionError|"

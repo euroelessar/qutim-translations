@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-02-07 01:25+0000\n"
+"PO-Revision-Date: 2013-03-04 19:44+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-02-08 04:48+0000\n"
-"X-Generator: Launchpad (build 16482)\n"
+"X-Launchpad-Export-Date: 2013-03-05 05:25+0000\n"
+"X-Generator: Launchpad (build 16514)\n"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -81,7 +81,7 @@ msgstr "אלקסיי פרוקהין (Alexey Prokhin)"
 #: ../../../protocols/irc/src/ui/editnickform.ui:14
 msgctxt "EditNickForm|"
 msgid "Form"
-msgstr ""
+msgstr "תבנית"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:44
 msgctxt "EditNickForm|"
