@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-03-05 01:59+0000\n"
+"PO-Revision-Date: 2013-03-05 08:58+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-03-05 05:25+0000\n"
+"X-Launchpad-Export-Date: 2013-03-06 06:07+0000\n"
 "X-Generator: Launchpad (build 16514)\n"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:35
@@ -697,7 +697,7 @@ msgstr "חיבור סורב"
 #: ../../../protocols/jabber/jreen/3rdparty/icesupport/httpconnect.cpp:336
 msgctxt "HttpConnect|"
 msgid "Invalid reply"
-msgstr ""
+msgstr "מענה שגוי"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.ui:14
 msgctxt "JAccountRegistrationPage|"
@@ -935,7 +935,7 @@ msgstr "סיסמה"
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:224
 msgctxt "Jabber|"
 msgid "Auto-join"
-msgstr ""
+msgstr "הצטרף אוטומטית"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:813
 msgctxt "Jabber|"
@@ -1386,11 +1386,13 @@ msgid ""
 "There was an error trying to sign your status.\n"
 "Reason: %1"
 msgstr ""
+"אירעה שגיאה בניסיון לחתום את מצבך.\n"
+"סיבה: %1"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:439
 msgctxt "Jabber::JPGPSupport|"
 msgid "[ERROR: This message is encrypted, and you are unable to decrypt it.]"
-msgstr ""
+msgstr "[שגיאה: הודעה זו הינה מוצפנת, ואין ביכולתך לפענחה.]"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:558
 #, qt-format
@@ -1411,7 +1413,7 @@ msgstr "מימרת סיסמה שגויה"
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:694
 msgctxt "Jabber::JPGPSupport|"
 msgid "Invalid input format"
-msgstr ""
+msgstr "פורמט קלט שגוי"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:697
 msgctxt "Jabber::JPGPSupport|"
@@ -1421,27 +1423,27 @@ msgstr ""
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:700
 msgctxt "Jabber::JPGPSupport|"
 msgid "Invalid key"
-msgstr ""
+msgstr "מפתח חסר תוקף"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:703
 msgctxt "Jabber::JPGPSupport|"
 msgid "Encrypting key expired"
-msgstr ""
+msgstr "מפתח הצפנה פקע"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:706
 msgctxt "Jabber::JPGPSupport|"
 msgid "Encrypting key is untrusted"
-msgstr ""
+msgstr "מפתח הצפנה אינו מהימן"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:709
 msgctxt "Jabber::JPGPSupport|"
 msgid "Encrypting key is invalid"
-msgstr ""
+msgstr "מפתח הצפנה הינו חסר תוקף"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:712
 msgctxt "Jabber::JPGPSupport|"
 msgid "PGP card is missing"
-msgstr ""
+msgstr "כרטיס PGP הינו חסר"
 
 #: ../../../protocols/jabber/src/protocol/account/jpgpsupport.cpp:715
 msgctxt "Jabber::JPGPSupport|"
@@ -1681,33 +1683,33 @@ msgstr "יום הולדת"
 msgctxt "Jreen::Error|"
 msgid ""
 "The sender has sent XML that is malformed or that cannot be processed."
-msgstr ""
+msgstr "הממען שלח XML שהינו פגום או שאינו יכול להתעבד."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:80
 msgctxt "Jreen::Error|"
 msgid ""
 "Access cannot be granted because an existing resource or session exists with "
 "the same name or address."
-msgstr ""
+msgstr "לא ניתן להעניק גישה משום שקיים משאב או סשן עם אותו השם או כתובת."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:83
 msgctxt "Jreen::Error|"
 msgid ""
 "The feature requested is not implemented by the recipient or server and "
 "therefore cannot be processed."
-msgstr ""
+msgstr "התכונה המבוקשת אינה מיושמת על ידי המקבל או השרת ולכן לא ניתן לעבדה."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:86
 msgctxt "Jreen::Error|"
 msgid ""
 "The requesting entity does not possess the required permissions to perform "
 "the action."
-msgstr ""
+msgstr "הישות המבקשת לא מחזיקה בהרשאות הדרושות להוציא את הפעולה אל הפועל."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:89
 msgctxt "Jreen::Error|"
 msgid "The recipient or server can no longer be contacted at this address."
-msgstr ""
+msgstr "המקבל או השרת לא יכול להיות מתוקשר עוד בכתובת זו."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:92
 msgctxt "Jreen::Error|"
@@ -1715,11 +1717,13 @@ msgid ""
 "The server could not process the stanza because of a misconfiguration or an "
 "otherwise-undefined internal server error."
 msgstr ""
+"השרת לא יכול היה לעבד את הסטנזה משום תצורה מוטעית או שגיאת שרת פנימית "
+"מעורפלת אחרת."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:95
 msgctxt "Jreen::Error|"
 msgid "The addressed JID or item requested cannot be found."
-msgstr ""
+msgstr "כתובת JID ממוענת או פריט נדרש לא ניתנים להימצא."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:98
 msgctxt "Jreen::Error|"
@@ -1727,6 +1731,8 @@ msgid ""
 "The sending entity has provided or communicated an XMPP address or aspect "
 "thereof that does not adhere to the syntax defined in Addressing Scheme."
 msgstr ""
+"הישות הממענת סיפקה או תקשרה כתובת XMPP או היבט מזו שלא נסרך אל התחביר המוגדר "
+"בסכימת מיעון."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:101
 msgctxt "Jreen::Error|"
@@ -1734,6 +1740,8 @@ msgid ""
 "The recipient or server understands the request but is refusing to process "
 "it because it does not meet criteria defined by the recipient or server."
 msgstr ""
+"המקבל או השרת מבין את הבקשה אך זה מסרב לעבדה משום שזו לא תואמת קריטריון "
+"מוגדר על ידי המקבל או השרת."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:104
 msgctxt "Jreen::Error|"
@@ -1747,6 +1755,8 @@ msgid ""
 "The sender must provide proper credentials before being allowed to perform "
 "the action, or has provided impreoper credentials."
 msgstr ""
+"על הממען לספק נתוני התחברות מתאימים לפני שזה יותר להוציא את הפעולה אל הפועל, "
+"או שזה סיפק נתוני התחברות שאינם מתאימים."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:110
 msgctxt "Jreen::Error|"
@@ -1758,12 +1768,12 @@ msgctxt "Jreen::Error|"
 msgid ""
 "The requesting entity is not authorized to access the requested service "
 "because payment is required."
-msgstr ""
+msgstr "הישות המבקשת אינה מורשית לגשת לשירות המבוקש מכיוון שתשלום הינו נדרש."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:116
 msgctxt "Jreen::Error|"
 msgid "The intended recipient is temporarily unavailable."
-msgstr ""
+msgstr "המקבל המיועד אינו זמין זמנית."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:119
 msgctxt "Jreen::Error|"
@@ -1771,13 +1781,14 @@ msgid ""
 "The recipient or server is redirecting requests for this information to "
 "another entity, usually temporarily."
 msgstr ""
+"המקבל או השרת מכוון מחדש בקשות עבור מידע זה אל ישות אחרת, זמנית לרוב."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:122
 msgctxt "Jreen::Error|"
 msgid ""
 "The requesting entity is not authorized to access the requested service "
 "because registration is required."
-msgstr ""
+msgstr "הישות המבקשת אינה מורשית לגשת לשירות המבוקש מכיוון שרישום הינו נדרש."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:125
 msgctxt "Jreen::Error|"
@@ -1785,6 +1796,7 @@ msgid ""
 "A remote server or service specified as part or all of the JID of the "
 "intended recipient does not exist."
 msgstr ""
+"שרת מרוחק או שירות שצוין כחלק או מכל כתובת JID של המקבל המיועד לא קיים."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:128
 msgctxt "Jreen::Error|"
@@ -1798,13 +1810,13 @@ msgctxt "Jreen::Error|"
 msgid ""
 "The server or recipient lacks the system resources necessary to service the "
 "request."
-msgstr ""
+msgstr "לשרת או למקבל חסרים משאבי המערכת הנחוצים לשרת את הבקשה."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:134
 msgctxt "Jreen::Error|"
 msgid ""
 "The server or recipient does not currently provide the requested service."
-msgstr ""
+msgstr "השרת או המקבל לא מספק כעת את השירות המבוקש."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:137
 msgctxt "Jreen::Error|"
@@ -1812,6 +1824,7 @@ msgid ""
 "The requesting entity is not authorized to access the requested service "
 "because a subscription is required."
 msgstr ""
+"הישות המבקשת אינה מורשית לגשת לשירות המבוקש מכיוון שהרשמה הינה נדרשת."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:140
 msgctxt "Jreen::Error|"
@@ -1835,7 +1848,7 @@ msgstr ""
 #: ../../../protocols/jabber/jreen/src/error.cpp:149
 msgctxt "Jreen::Error|"
 msgid "No stanza error occured. You're just sleeping."
-msgstr ""
+msgstr "לא התרחשה שום שגיאת סטנזה. אתה פשוט יושן."
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:50
 msgctxt "Menu|"

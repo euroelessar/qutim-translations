@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-03-05 01:53+0000\n"
+"PO-Revision-Date: 2013-03-05 20:29+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-03-05 05:25+0000\n"
+"X-Launchpad-Export-Date: 2013-03-06 06:08+0000\n"
 "X-Generator: Launchpad (build 16514)\n"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
@@ -340,17 +340,17 @@ msgstr ""
 #: ../../../protocols/oscar/src/connection.cpp:366
 msgctxt "ConnectionError|"
 msgid "Invalid SecurID"
-msgstr ""
+msgstr "SecurID שגוי"
 
 #: ../../../protocols/oscar/src/connection.cpp:368
 msgctxt "ConnectionError|"
 msgid "Account suspended because of your age (age < 13)"
-msgstr ""
+msgstr "החשבון מושהה משום גילך (גיל < 13)"
 
 #: ../../../protocols/oscar/src/connection.cpp:370
 msgctxt "ConnectionError|"
 msgid "Another client is logging with this UIN"
-msgstr ""
+msgstr "לקוח אחר מחובר עם UIN זה"
 
 #: ../../../protocols/oscar/src/connection.cpp:372
 msgctxt "ConnectionError|"
@@ -390,7 +390,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/inforequest.cpp:167
 msgctxt "ContactInfo|"
 msgid "Registration"
-msgstr ""
+msgstr "רישום"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:171
 msgctxt "ContactInfo|"
@@ -472,7 +472,7 @@ msgstr "פורט"
 #: ../../../protocols/oscar/src/inforequest.cpp:266
 msgctxt "ContactInfo|"
 msgid "Protocol version"
-msgstr ""
+msgstr "גרסת פרוטוקול"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:271
 msgctxt "ContactInfo|"
