@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-02-06 19:42+0000\n"
+"PO-Revision-Date: 2013-03-07 10:35+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-07 05:16+0000\n"
-"X-Generator: Launchpad (build 16477)\n"
+"X-Launchpad-Export-Date: 2013-03-08 05:11+0000\n"
+"X-Generator: Launchpad (build 16523)\n"
 
 #: ../../../plugins/offtherecord/src/otrcrypt.cpp:55
 msgctxt "OTRCrypt|"
@@ -91,7 +91,7 @@ msgstr ""
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:47
 msgctxt "OtrInternal|"
 msgid "no OTR Message"
-msgstr ""
+msgstr "אין הודעת OTR"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:51
 msgctxt "OtrInternal|"
@@ -175,7 +175,7 @@ msgstr ""
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:227
 msgctxt "OtrInternal|"
 msgid "Auth"
-msgstr ""
+msgstr "אימות"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:227
 #, qt-format
@@ -193,7 +193,7 @@ msgstr ""
 #, qt-format
 msgctxt "OtrInternal|"
 msgid "Please, enter passphrase to authorise %1"
-msgstr ""
+msgstr "אנא, הזן מימרת סיסמה כדי לאשר %1"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:265
 msgctxt "OtrInternal|"
@@ -212,12 +212,12 @@ msgstr ""
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:283
 msgctxt "OtrInternal|"
 msgid "Authentication successful. The conversation is now secure!"
-msgstr ""
+msgstr "אימות צלח. הדיון הינו מאובטח כעת!"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:286
 msgctxt "OtrInternal|"
 msgid "Authentication failed. The conversation is now insecure!"
-msgstr ""
+msgstr "אימות כשל. הדיון אינו מאובטח כעת!"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:295
 msgctxt "OtrInternal|"
@@ -242,7 +242,7 @@ msgstr ""
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:582
 msgctxt "OtrInternal|"
 msgid "not private"
-msgstr ""
+msgstr "לא פרטי"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:592
 msgctxt "OtrInternal|"
@@ -290,7 +290,7 @@ msgstr ""
 #, qt-format
 msgctxt "OtrInternal|"
 msgid "The fingerprint for account %1 is\n"
-msgstr ""
+msgstr "טביעת האצבע עבור חשבון %1 היא\n"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:843
 #, qt-format
@@ -303,17 +303,17 @@ msgstr ""
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:860
 msgctxt "OtrInternal|"
 msgid "Authentication aborded. The conversation is now insecure!"
-msgstr ""
+msgstr "אימות בוטל. הדיון אינו מאובטח כעת!"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:873
 msgctxt "OtrInternal|"
 msgid "Authenticating contact..."
-msgstr ""
+msgstr "מאמת כעת איש קשר..."
 
 #: ../../../plugins/offtherecord/src/otrsettingswidget.ui:14
 msgctxt "OtrSettingsWidget|"
 msgid "Form"
-msgstr ""
+msgstr "תבנית"
 
 #: ../../../plugins/offtherecord/src/otrsettingswidget.ui:24
 msgctxt "OtrSettingsWidget|"
@@ -426,7 +426,7 @@ msgstr ""
 #: ../../../plugins/offtherecord/src/qutimotrclosure.cpp:103
 msgctxt "OtrSupport::OtrClosure|"
 msgid "no active encrypted session"
-msgstr ""
+msgstr "אין סשן מוצפן פעיל"
 
 #: ../../../plugins/offtherecord/src/qutimotrclosure.cpp:107
 #, qt-format
@@ -443,7 +443,7 @@ msgstr ""
 #, qt-format
 msgctxt "OtrSupport::OtrClosure|"
 msgid "Fingerprint for account %1 is:"
-msgstr ""
+msgstr "טביעת אצבע עבור חשבון %1 הינה:"
 
 #: ../../../plugins/offtherecord/src/qutimotrclosure.cpp:180
 #, qt-format
@@ -466,12 +466,12 @@ msgstr ""
 #: ../../../plugins/offtherecord/src/smpdialog.ui:14
 msgctxt "SMPdialog|"
 msgid "Authorisation"
-msgstr ""
+msgstr "הרשאה"
 
 #: ../../../plugins/offtherecord/src/smpdialog.ui:28
 msgctxt "SMPdialog|"
 msgid "Choose auth type"
-msgstr ""
+msgstr "בחר טיפוס הרשאה"
 
 #: ../../../plugins/offtherecord/src/smpdialog.ui:42
 msgctxt "SMPdialog|"
@@ -482,7 +482,7 @@ msgstr "שאלה/תשובה"
 #: ../../../plugins/offtherecord/src/smpdialog.ui:146
 msgctxt "SMPdialog|"
 msgid "Secret phrase"
-msgstr ""
+msgstr "ניב סודי"
 
 #: ../../../plugins/offtherecord/src/smpdialog.ui:52
 msgctxt "SMPdialog|"

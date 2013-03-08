@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-01-30 06:02+0000\n"
+"PO-Revision-Date: 2013-03-07 10:20+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-31 04:54+0000\n"
-"X-Generator: Launchpad (build 16455)\n"
+"X-Launchpad-Export-Date: 2013-03-08 05:11+0000\n"
+"X-Generator: Launchpad (build 16523)\n"
 
 #: ../../../plugins/docktile/src/dockplugin.cpp:6
 msgctxt "Author|"
@@ -90,7 +90,7 @@ msgstr "אלמנט עם צלמית"
 #: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:123
 msgctxt "MainWindow|"
 msgid "Wow! An icon? So cool."
-msgstr ""
+msgstr "וואו! צלמית? כל כך מגניב."
 
 #: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:131
 msgctxt "MainWindow|"
@@ -100,7 +100,7 @@ msgstr "נטרל אלמנט"
 #: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:134
 msgctxt "MainWindow|"
 msgid "What happened? Wha…"
-msgstr ""
+msgstr "מה קרה? מה…"
 
 #: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:145
 msgctxt "MainWindow|"
@@ -116,7 +116,7 @@ msgstr ""
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Action %1 triggered"
-msgstr ""
+msgstr "פעולה %1 הופעלה"
 
 #: ../../../plugins/docktile/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/docktile/src/dockplugin.cpp:10
