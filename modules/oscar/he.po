@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-03-05 20:29+0000\n"
+"PO-Revision-Date: 2013-03-07 10:05+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-03-06 06:08+0000\n"
-"X-Generator: Launchpad (build 16514)\n"
+"X-Launchpad-Export-Date: 2013-03-08 05:11+0000\n"
+"X-Generator: Launchpad (build 16523)\n"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -537,7 +537,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/icqcontact.cpp:379
 msgctxt "ContactList|"
 msgid "Online time"
-msgstr ""
+msgstr "זמן מקוון"
 
 #: ../../../protocols/oscar/src/icqcontact.cpp:386
 msgctxt "ContactList|"
@@ -547,7 +547,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/icqcontact.cpp:391
 msgctxt "ContactList|"
 msgid "Away since"
-msgstr ""
+msgstr "נעדר מאז"
 
 #: ../../../protocols/oscar/src/icqcontact.cpp:396
 msgctxt "ContactList|"
@@ -557,32 +557,32 @@ msgstr ""
 #: ../../../protocols/oscar/src/privacylists.cpp:181
 msgctxt "ContactList|"
 msgid "Add to visible list"
-msgstr ""
+msgstr "הוסף לרשימה נראית"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:182
 msgctxt "ContactList|"
 msgid "Remove from visible list"
-msgstr ""
+msgstr "הסר מרשימה נראית"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:184
 msgctxt "ContactList|"
 msgid "Add to invisible list"
-msgstr ""
+msgstr "הוסף לרשימה בלתי נראית"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:185
 msgctxt "ContactList|"
 msgid "Remove from invisible list"
-msgstr ""
+msgstr "הסר מרשימה בלתי נראית"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:187
 msgctxt "ContactList|"
 msgid "Add to ignore list"
-msgstr ""
+msgstr "הוסף לרשימה מנוכרת"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:188
 msgctxt "ContactList|"
 msgid "Remove from ignore list"
-msgstr ""
+msgstr "הסר מרשימה מנוכרת"
 
 #: ../../../protocols/oscar/src/contactsearch.cpp:96
 msgctxt "ContactSearch|"
@@ -682,7 +682,7 @@ msgstr "ארובה"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:47
 msgctxt "Country|"
 msgid "Ascension Island"
-msgstr ""
+msgstr "אי התרוממות"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:48
 msgctxt "Country|"
@@ -1497,7 +1497,7 @@ msgstr "רומניה"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:210
 msgctxt "Country|"
 msgid "Rota Island"
-msgstr ""
+msgstr "אי רוטה"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:211
 msgctxt "Country|"
@@ -1677,7 +1677,7 @@ msgstr "תאילנד"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:246
 msgctxt "Country|"
 msgid "Tinian Island"
-msgstr ""
+msgstr "אי טיניאן"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:247
 msgctxt "Country|"
@@ -1837,32 +1837,32 @@ msgstr "אין שגיאה"
 #: ../../../protocols/oscar/src/feedbag.cpp:180
 msgctxt "FeedbagError|"
 msgid "Item you want to modify not found in list"
-msgstr ""
+msgstr "פריט שברצונך לשנות לא נמצא ברשימה"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:182
 msgctxt "FeedbagError|"
 msgid "Item you want to add allready exists"
-msgstr ""
+msgstr "פריט שברצונך להוסיף כבר קיים"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:184
 msgctxt "FeedbagError|"
 msgid "Error adding item (invalid id, allready in list, invalid data)"
-msgstr ""
+msgstr "שגיאה בהוספת פריט (מזהה לא תקף, כבר ברשימה, נתונים לא תקפים)"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:186
 msgctxt "FeedbagError|"
 msgid "Can't add item. Limit for this type of items exceeded"
-msgstr ""
+msgstr "לא ניתן להוסיף פריט. גבול עבור טיפוס של פריטים מוצה"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:188
 msgctxt "FeedbagError|"
 msgid "Trying to add ICQ contact to an AIM list"
-msgstr ""
+msgstr "מנסה כעת להוסיף איש קשר ICQ לרשימת AIM"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:190
 msgctxt "FeedbagError|"
 msgid "Can't add this contact because it requires authorization"
-msgstr ""
+msgstr "לא ניתן להוסיף איש קשר משום שזה מצריך הרשאה"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:192
 #, qt-format
@@ -1883,12 +1883,12 @@ msgstr "נקבה"
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:14
 msgctxt "IcqAccountMainSettings|"
 msgid "Form"
-msgstr ""
+msgstr "תבנית"
 
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:23
 msgctxt "IcqAccountMainSettings|"
 msgid "UIN:"
-msgstr ""
+msgstr "‏UIN‏:"
 
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:33
 msgctxt "IcqAccountMainSettings|"
@@ -1983,7 +1983,7 @@ msgstr "רפואה ושירותי בריאות"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:506
 msgctxt "Industry|"
 msgid "Non-Profit Organization Management"
-msgstr ""
+msgstr "ניהול מלכ״ר"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:507
 msgctxt "Industry|"
@@ -1993,7 +1993,7 @@ msgstr "אחר"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:508
 msgctxt "Industry|"
 msgid "Recreation, Travel & Entertainment"
-msgstr ""
+msgstr "שעשועים, נסיעות ובידור"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:509
 msgctxt "Industry|"
@@ -2663,7 +2663,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/privacylists.cpp:207
 msgctxt "Menu|"
 msgid "Privacy status"
-msgstr ""
+msgstr "מצב פרטיות"
 
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:33
 msgctxt "MetaInfo|"
@@ -2678,18 +2678,18 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:110
 msgctxt "MetaInfo|"
 msgid "More"
-msgstr ""
+msgstr "עוד"
 
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:112
 msgctxt "MetaInfo|"
 msgid "Work"
-msgstr ""
+msgstr "עבודה"
 
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:114
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:676
 msgctxt "MetaInfo|"
 msgid "Affilations"
-msgstr ""
+msgstr "סינופים"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:635
 msgctxt "MetaInfo|"
@@ -2714,7 +2714,7 @@ msgstr "דוא״ל"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:644
 msgctxt "MetaInfo|"
 msgid "Cell phone"
-msgstr ""
+msgstr "טלפון סלולרי"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:647
 msgctxt "MetaInfo|"
@@ -2724,7 +2724,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:648
 msgctxt "MetaInfo|"
 msgid "Authorization"
-msgstr ""
+msgstr "הרשאה"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:649
 msgctxt "MetaInfo|"
@@ -2734,12 +2734,12 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:650
 msgctxt "MetaInfo|"
 msgid "Direct connection"
-msgstr ""
+msgstr "חיבור ישיר"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:651
 msgctxt "MetaInfo|"
 msgid "Public primary email"
-msgstr ""
+msgstr "דוא״ל פומבי עיקרי"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:652
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:678
@@ -2770,7 +2770,7 @@ msgstr "שפות"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:672
 msgctxt "MetaInfo|"
 msgid "Emails"
-msgstr ""
+msgstr "דוא״ל"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:673
 msgctxt "MetaInfo|"
@@ -2780,7 +2780,7 @@ msgstr "הערות"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:674
 msgctxt "MetaInfo|"
 msgid "Interests"
-msgstr ""
+msgstr "תחומיי עניין"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:675
 msgctxt "MetaInfo|"
@@ -2795,7 +2795,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:679
 msgctxt "MetaInfo|"
 msgid "online only"
-msgstr ""
+msgstr "מקוון בלבד"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:639
 msgctxt "MetaInfoHome|"
@@ -2900,32 +2900,32 @@ msgstr "מיקום"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:670
 msgctxt "MetaInfoWork|"
 msgid "Occupation"
-msgstr ""
+msgstr "עיסוק"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:671
 msgctxt "MetaInfoWork|"
 msgid "Webpage"
-msgstr ""
+msgstr "עמוד רשת"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:523
 msgctxt "Occupation|"
 msgid "Academic"
-msgstr ""
+msgstr "אקדמי"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:524
 msgctxt "Occupation|"
 msgid "Administrative"
-msgstr ""
+msgstr "אדמיניסטרטיבי"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:525
 msgctxt "Occupation|"
 msgid "Art/Entertainment"
-msgstr ""
+msgstr "אמנות/בידור"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:526
 msgctxt "Occupation|"
 msgid "College Student"
-msgstr ""
+msgstr "סטודנט מכללה"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:527
 msgctxt "Occupation|"
@@ -2935,7 +2935,7 @@ msgstr "מיחשוב"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:528
 msgctxt "Occupation|"
 msgid "Community & Social"
-msgstr ""
+msgstr "קהילה וחברה"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:529
 msgctxt "Occupation|"
@@ -2945,7 +2945,7 @@ msgstr "חינוך"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:530
 msgctxt "Occupation|"
 msgid "Engineering"
-msgstr ""
+msgstr "הנדסה"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:531
 msgctxt "Occupation|"
@@ -2960,7 +2960,7 @@ msgstr "ממשל"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:533
 msgctxt "Occupation|"
 msgid "High School Student"
-msgstr ""
+msgstr "תלמיד בי״ס תיכון"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:534
 msgctxt "Occupation|"
@@ -2975,12 +2975,12 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:536
 msgctxt "Occupation|"
 msgid "Law"
-msgstr ""
+msgstr "משפטים"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:537
 msgctxt "Occupation|"
 msgid "Managerial"
-msgstr ""
+msgstr "ניהולי"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:538
 msgctxt "Occupation|"
@@ -2990,37 +2990,37 @@ msgstr "ייצור"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:539
 msgctxt "Occupation|"
 msgid "Medical/Health"
-msgstr ""
+msgstr "רפואי/בריאות"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:540
 msgctxt "Occupation|"
 msgid "Military"
-msgstr ""
+msgstr "צבא"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:541
 msgctxt "Occupation|"
 msgid "Non-Government Organization"
-msgstr ""
+msgstr "ארגון חוץ-ממשלתי"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:542
 msgctxt "Occupation|"
 msgid "Professional"
-msgstr ""
+msgstr "מקצועי"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:543
 msgctxt "Occupation|"
 msgid "Retail"
-msgstr ""
+msgstr "קמעוני"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:544
 msgctxt "Occupation|"
 msgid "Retired"
-msgstr ""
+msgstr "בדימוס"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:545
 msgctxt "Occupation|"
 msgid "Science & Research"
-msgstr ""
+msgstr "מדע ופיתוח"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:546
 msgctxt "Occupation|"
@@ -3035,7 +3035,7 @@ msgstr "טכני"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:548
 msgctxt "Occupation|"
 msgid "University Student"
-msgstr ""
+msgstr "סטודנט אוניברסיטה"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:549
 msgctxt "Occupation|"
@@ -3181,13 +3181,13 @@ msgstr "הודעות Oscar"
 #: ../../../protocols/oscar/src/oscarplugin.cpp:77
 msgctxt "Plugin|"
 msgid "Oscar file transfer protocol"
-msgstr ""
+msgstr "פרוטוקול העברת קובץ Oscar"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:80
 #: ../../../protocols/oscar/src/oscarplugin.cpp:81
 msgctxt "Plugin|"
 msgid "Oscar file transfer settings"
-msgstr ""
+msgstr "הגדרות העברת קובץ Oscar"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:84
 #: ../../../protocols/oscar/src/oscarplugin.cpp:85
@@ -3221,82 +3221,82 @@ msgstr ""
 #: ../../../protocols/oscar/src/oscarplugin.cpp:101
 msgctxt "Plugin|"
 msgid "Oscar proxy support"
-msgstr ""
+msgstr "תמיכת פרוקסי Oscar"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:90
 msgctxt "Privacy|"
 msgid "Visible for all"
-msgstr ""
+msgstr "נראה לכולי עלמא"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:92
 msgctxt "Privacy|"
 msgid "Invisible for all"
-msgstr ""
+msgstr "בלתי נראה לכולי עלמא"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:94
 msgctxt "Privacy|"
 msgid "Visible only for visible list"
-msgstr ""
+msgstr "נראה רק לרשימה נראית"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:96
 msgctxt "Privacy|"
 msgid "Invisible only for invisible list"
-msgstr ""
+msgstr "בלתי נראה רק לרשימה בלתי נראית"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:98
 msgctxt "Privacy|"
 msgid "Visible only for contact list"
-msgstr ""
+msgstr "נראה רק לרשימת קשר"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:100
 msgctxt "Privacy|"
 msgid "Unknown privacy"
-msgstr ""
+msgstr "פרטיות לא ידועה"
 
 #: ../../../protocols/oscar/src/connection.cpp:53
 msgctxt "ProtocolError|"
 msgid "Invalid SNAC header"
-msgstr ""
+msgstr "תקורת SNAC שגויה"
 
 #: ../../../protocols/oscar/src/connection.cpp:55
 msgctxt "ProtocolError|"
 msgid "Server rate limit exceeded"
-msgstr ""
+msgstr "גבול שיעור שרת מוצה"
 
 #: ../../../protocols/oscar/src/connection.cpp:57
 msgctxt "ProtocolError|"
 msgid "Client rate limit exceeded"
-msgstr ""
+msgstr "גבול שיעור לקוח מוצה"
 
 #: ../../../protocols/oscar/src/connection.cpp:59
 msgctxt "ProtocolError|"
 msgid "Recipient is not logged in"
-msgstr ""
+msgstr "מקבל אינו מחובר"
 
 #: ../../../protocols/oscar/src/connection.cpp:61
 msgctxt "ProtocolError|"
 msgid "Requested service unavailable"
-msgstr ""
+msgstr "שירות מבוקש לא זמין"
 
 #: ../../../protocols/oscar/src/connection.cpp:63
 msgctxt "ProtocolError|"
 msgid "Requested service not defined"
-msgstr ""
+msgstr "שירות מבוקש לא הוגדר"
 
 #: ../../../protocols/oscar/src/connection.cpp:65
 msgctxt "ProtocolError|"
 msgid "You sent obsolete SNAC"
-msgstr ""
+msgstr "שלחת SNAC נפסד"
 
 #: ../../../protocols/oscar/src/connection.cpp:67
 msgctxt "ProtocolError|"
 msgid "Not supported by server"
-msgstr ""
+msgstr "לא נתמך על ידי שרת"
 
 #: ../../../protocols/oscar/src/connection.cpp:69
 msgctxt "ProtocolError|"
 msgid "Not supported by client"
-msgstr ""
+msgstr "לא נתמך על ידי לקוח"
 
 #: ../../../protocols/oscar/src/connection.cpp:71
 msgctxt "ProtocolError|"
@@ -3346,32 +3346,32 @@ msgstr ""
 #: ../../../protocols/oscar/src/connection.cpp:89
 msgctxt "ProtocolError|"
 msgid "User temporarily unavailable"
-msgstr ""
+msgstr "משתמש לא זמין באופן זמני"
 
 #: ../../../protocols/oscar/src/connection.cpp:91
 msgctxt "ProtocolError|"
 msgid "No match"
-msgstr ""
+msgstr "אין התאמה"
 
 #: ../../../protocols/oscar/src/connection.cpp:93
 msgctxt "ProtocolError|"
 msgid "List overflow"
-msgstr ""
+msgstr "גלישת רשימה"
 
 #: ../../../protocols/oscar/src/connection.cpp:95
 msgctxt "ProtocolError|"
 msgid "Request ambiguous"
-msgstr ""
+msgstr "בקשה מעורפלת"
 
 #: ../../../protocols/oscar/src/connection.cpp:97
 msgctxt "ProtocolError|"
 msgid "Server queue full"
-msgstr ""
+msgstr "תור שרת מלא"
 
 #: ../../../protocols/oscar/src/connection.cpp:99
 msgctxt "ProtocolError|"
 msgid "Not while on AOL"
-msgstr ""
+msgstr "לא בזמן שהות אצל AOL"
 
 #: ../../../protocols/oscar/src/connection.cpp:101
 msgctxt "ProtocolError|"
@@ -3426,37 +3426,37 @@ msgstr "עסוק"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:473
 msgctxt "StudyLevel|"
 msgid "Associated degree"
-msgstr ""
+msgstr "לימודי תעודה (תואר נספח)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:474
 msgctxt "StudyLevel|"
 msgid "Bachelor's degree"
-msgstr ""
+msgstr "תואר ראשון"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:475
 msgctxt "StudyLevel|"
 msgid "Elementary"
-msgstr ""
+msgstr "יסודי"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:476
 msgctxt "StudyLevel|"
 msgid "High-school"
-msgstr ""
+msgstr "בית ספר תיכון"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:477
 msgctxt "StudyLevel|"
 msgid "Master's degree"
-msgstr ""
+msgstr "תואר שני (תואר מוסמך)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:478
 msgctxt "StudyLevel|"
 msgid "PhD"
-msgstr ""
+msgstr "דוקטור לפילוסופיה"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:479
 msgctxt "StudyLevel|"
 msgid "Postdoctoral"
-msgstr ""
+msgstr "פוסט-דוקטורט"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:480
 msgctxt "StudyLevel|"
@@ -3524,12 +3524,12 @@ msgstr "קפה"
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:84
 msgctxt "XStatus|"
 msgid "Listening to music"
-msgstr ""
+msgstr "מאזין למוזיקה"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:87
 msgctxt "XStatus|"
 msgid "Business"
-msgstr ""
+msgstr "עסקים"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:90
 msgctxt "XStatus|"
@@ -3720,7 +3720,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.cpp:54
 msgctxt "qutim_sdk_0_3::oscar::IcqAccountMainSettings|"
 msgid "Use SSL (experimental)"
-msgstr ""
+msgstr "נצל SSL (ניסיוני)"
 
 #: ../../../protocols/oscar/src/ui/icqmainsettings.cpp:156
 msgctxt "qutim_sdk_0_3::oscar::IcqMainSettings|"
@@ -3746,7 +3746,7 @@ msgstr ""
 #, qt-format
 msgctxt "qutim_sdk_0_3::oscar::Md5Login|"
 msgid "No IP addresses were found for the host '%1'"
-msgstr ""
+msgstr "לא נמצאו כתובות IP עבור המארח '%1'"
 
 #: ../../../protocols/oscar/src/metainfo/metainfo.cpp:78
 msgctxt "qutim_sdk_0_3::oscar::MetaInfo|"
@@ -3792,17 +3792,17 @@ msgstr ""
 #: ../../../protocols/oscar/src/privacylists.cpp:352
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"visible\" icon if contact in visible list"
-msgstr ""
+msgstr "הצג צלמית \"נראה\" אם איש קשר מצוי ברשימה נראית"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:356
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"invisible\" icon if contact in invisible list"
-msgstr ""
+msgstr "הצג צלמית \"בלתי נראה\" אם איש קשר מצוי ברשימה בלתי נראית"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:360
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
 msgid "Show \"ignore\" icon if contact in ignore list"
-msgstr ""
+msgstr "הצג צלמית \"מנוכר\" אם איש קשר מצוי ברשימה מנוכרת"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:437
 msgctxt "qutim_sdk_0_3::oscar::XStatusHandler|"
