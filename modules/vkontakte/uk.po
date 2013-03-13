@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-02-15 21:28+0000\n"
-"Last-Translator: ma$terok <Unknown>\n"
+"PO-Revision-Date: 2013-03-12 09:53+0000\n"
+"Last-Translator: fishi <fishi@i.ua>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-16 05:15+0000\n"
-"X-Generator: Launchpad (build 16491)\n"
+"X-Launchpad-Export-Date: 2013-03-13 04:50+0000\n"
+"X-Generator: Launchpad (build 16532)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
 
@@ -27,7 +27,7 @@ msgstr "В мережі"
 #: ../../../protocols/vkontakte/vreen/src/qml/src/buddymodel.cpp:85
 msgctxt "BuddyModel|"
 msgid "Offline"
-msgstr "Не в мережі"
+msgstr "Поза мережею"
 
 #: ../../../protocols/vkontakte/vreen/src/qml/src/buddymodel.cpp:87
 msgctxt "BuddyModel|"
@@ -42,12 +42,12 @@ msgstr "невідомо"
 #: ../../../protocols/vkontakte/src/vcontact.cpp:250
 msgctxt "ContactInfo|"
 msgid "Activity"
-msgstr "Активність"
+msgstr "Діяльність"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:63
 msgctxt "ContactInfo|"
 msgid "Nickname"
-msgstr "Нік"
+msgstr "Псевдонім"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:64
 msgctxt "ContactInfo|"
