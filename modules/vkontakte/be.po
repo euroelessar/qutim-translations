@@ -8,36 +8,36 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2012-12-27 00:51+0000\n"
-"Last-Translator: Aliaksandr Trush <Unknown>\n"
+"PO-Revision-Date: 2013-03-26 16:39+0000\n"
+"Last-Translator: Yauhen Bugamol <haxycgm@gmail.com>\n"
 "Language-Team: Belarusian <be@li.org>\n"
-"Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
-"X-Generator: Launchpad (build 16451)\n"
+"X-Launchpad-Export-Date: 2013-03-27 05:23+0000\n"
+"X-Generator: Launchpad (build 16540)\n"
 "X-Qt-Contexts: true\n"
+"Language: be\n"
 
 #: ../../../protocols/vkontakte/vreen/src/qml/src/buddymodel.cpp:83
 msgctxt "BuddyModel|"
 msgid "Online"
-msgstr ""
+msgstr "У сеціве"
 
 #: ../../../protocols/vkontakte/vreen/src/qml/src/buddymodel.cpp:85
 msgctxt "BuddyModel|"
 msgid "Offline"
-msgstr ""
+msgstr "Па-за сецівам"
 
 #: ../../../protocols/vkontakte/vreen/src/qml/src/buddymodel.cpp:87
 msgctxt "BuddyModel|"
 msgid "Away"
-msgstr ""
+msgstr "Адышоў"
 
 #: ../../../protocols/vkontakte/vreen/src/qml/src/chatmodel.cpp:67
 msgctxt "ChatModel|"
 msgid "unknown"
-msgstr ""
+msgstr "невядомы"
 
 #: ../../../protocols/vkontakte/src/vcontact.cpp:250
 msgctxt "ContactInfo|"
@@ -159,13 +159,13 @@ msgstr ""
 #, qt-format
 msgctxt "PhoneFetcher|"
 msgid "name: %1, home: %2, mobile: %3"
-msgstr ""
+msgstr "імя: %1, дом: %2, мабільны: %3"
 
 #: ../../../protocols/vkontakte/vreen/examples/cpp/phonefetcher/phonefetcher.cpp:64
 #: ../../../protocols/vkontakte/vreen/examples/cpp/phonefetcher/phonefetcher.cpp:65
 msgctxt "PhoneFetcher|"
 msgid "unknown"
-msgstr ""
+msgstr "невядомы"
 
 #: ../../../protocols/vkontakte/__data_from_cmakelists_txt.cpp:1
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:50
@@ -216,12 +216,12 @@ msgstr "Падтрымка проксі  для Укантакце"
 #: ../../../protocols/vkontakte/src/ui/vaccountcreator.cpp:68
 msgctxt "Protocol|"
 msgid "vk.com"
-msgstr ""
+msgstr "vk.com"
 
 #: ../../../protocols/vkontakte/src/ui/vaccountcreator.cpp:69
 msgctxt "Protocol|"
 msgid "Add vk.com account"
-msgstr ""
+msgstr "Дадаць конт vk.com"
 
 #: ../../../protocols/vkontakte/vreen/src/qml/src/vkitqmlplugin.h:72
 msgctxt "QObject|"
@@ -331,13 +331,13 @@ msgstr ""
 #, qt-format
 msgctxt "Vreen::Group|"
 msgid "group-%1"
-msgstr ""
+msgstr "суполка-%1"
 
 #: ../../../protocols/vkontakte/share/vphotoalbum/default/main.qml:13
 #, qt-format
 msgctxt "main|"
 msgid "%1's photoalbum"
-msgstr ""
+msgstr "Альбом карыстача %1"
 
 #: ../../../protocols/vkontakte/vreen/examples/declarative/audio/qml/main.qml:17
 #: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:17
@@ -430,18 +430,22 @@ msgstr ""
 #~ msgid "Account settings"
 #~ msgstr "Наладкі рахунку"
 
+#, qt-format
 #~ msgctxt "VAccountSettings|"
 #~ msgid "%1 settings"
 #~ msgstr "%1 налады"
 
+#, qt-format
 #~ msgctxt "vk::Buddy|"
 #~ msgid "id%1"
 #~ msgstr "id%1"
 
+#, qt-format
 #~ msgctxt "vk::Buddy|"
 #~ msgid "Unknown tag id %1"
 #~ msgstr "Невядомая метка  id %1"
 
+#, qt-format
 #~ msgctxt "vk::Group|"
 #~ msgid "group-%1"
 #~ msgstr "Групоўка-%1"
