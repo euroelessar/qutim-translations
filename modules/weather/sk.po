@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 19:01+0000\n"
-"PO-Revision-Date: 2013-02-10 21:22+0000\n"
+"PO-Revision-Date: 2013-05-14 15:58+0000\n"
 "Last-Translator: DAG Software <Unknown>\n"
 "Language-Team: Slovak <sk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-11 05:22+0000\n"
-"X-Generator: Launchpad (build 16482)\n"
+"X-Launchpad-Export-Date: 2013-05-15 05:43+0000\n"
+"X-Generator: Launchpad (build 16617)\n"
 "X-Qt-Contexts: true\n"
 "Language: sk\n"
 
@@ -91,7 +91,7 @@ msgstr "Názov témy:"
 #: ../../../plugins/weather/src/wsettings.ui:81
 msgctxt "WSettingsClass|"
 msgid "min."
-msgstr ""
+msgstr "min."
 
 #: ../../../plugins/weather/src/wsettings.ui:94
 msgctxt "WSettingsClass|"
@@ -172,7 +172,7 @@ msgstr "Rosný bod"
 #: ../../../plugins/weather/__template_from_weather.cpp:3
 msgctxt "Weather|"
 msgid "Feels Like"
-msgstr ""
+msgstr "Pocitovo"
 
 #: ../../../plugins/weather/__template_from_weather.cpp:4
 msgctxt "Weather|"
