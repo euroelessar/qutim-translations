@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-02-10 19:02+0000\n"
+"PO-Revision-Date: 2013-05-14 15:58+0000\n"
 "Last-Translator: DAG Software <Unknown>\n"
 "Language-Team: Slovak <sk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-11 05:22+0000\n"
-"X-Generator: Launchpad (build 16482)\n"
+"X-Launchpad-Export-Date: 2013-05-15 05:43+0000\n"
+"X-Generator: Launchpad (build 16617)\n"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:355
 msgctxt "Adium::WebViewAppearance|"
@@ -135,7 +135,7 @@ msgstr ""
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:14
 msgctxt "chatAppearance|"
 msgid "Form"
-msgstr ""
+msgstr "Formulár"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:44
 msgctxt "chatAppearance|"

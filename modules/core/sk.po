@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-02-10 21:19+0000\n"
+"PO-Revision-Date: 2013-05-14 15:49+0000\n"
 "Last-Translator: DAG Software <Unknown>\n"
 "Language-Team: Slovak <sk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-11 05:22+0000\n"
-"X-Generator: Launchpad (build 16482)\n"
+"X-Launchpad-Export-Date: 2013-05-15 05:43+0000\n"
+"X-Generator: Launchpad (build 16617)\n"
 "X-Qt-Contexts: true\n"
 "Language: sk\n"
 
@@ -332,7 +332,7 @@ msgstr ""
 #: ../../../core/src/corelayers/contactmodel/src/contactlistaccountmodel.cpp:33
 msgctxt "ContactList|"
 msgid "Show accounts and contacts"
-msgstr ""
+msgstr "Zobraziť účty a kontakty"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistgroupmodel.cpp:33
 msgctxt "ContactList|"
@@ -907,7 +907,7 @@ msgstr "Zatvoriť"
 #: ../../../core/src/corelayers/mobilenotificationssettings/mobilenotificationsettings.cpp:144
 msgctxt "Core::MobileNotificationSettings|"
 msgid "Disable notifications when chat is active"
-msgstr "Zakázať notifikácie keď je konverzácia aktívna"
+msgstr "Zakázať upozornenia keď je konverzácia aktívna"
 
 #: ../../../core/src/corelayers/mobilenotificationssettings/mobilenotificationsettings.cpp:148
 msgctxt "Core::MobileNotificationSettings|"
@@ -956,7 +956,7 @@ msgstr "<b>Prídavné nastavenia:</b>"
 #: ../../../core/src/corelayers/notificationssettings/notificationsettings.cpp:98
 msgctxt "Core::NotificationSettings|"
 msgid "Disable notifications when chat is active"
-msgstr "Zakázať notifikácie keď je konverzácia aktívna"
+msgstr "Zakázať upozornenia keď je konverzácia aktívna"
 
 #: ../../../core/src/corelayers/notificationssettings/notificationsettings.cpp:102
 msgctxt "Core::NotificationSettings|"
@@ -2296,7 +2296,7 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:64
 msgctxt "Plugin|"
 msgid "Notification filter"
-msgstr ""
+msgstr "Filter upozornení"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:65
 msgctxt "Plugin|"
@@ -2442,7 +2442,7 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:93
 msgctxt "Plugin|"
 msgid "Notifications settings"
-msgstr ""
+msgstr "Nastavenia upozornení"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:94
 msgctxt "Plugin|"
@@ -2639,7 +2639,7 @@ msgstr ""
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:46
 msgctxt "Plugin|"
 msgid "Show accounts and contacts"
-msgstr ""
+msgstr "Zobraziť účty a kontakty"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:48
 msgctxt "Plugin|"
@@ -2962,7 +2962,7 @@ msgstr ""
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:87
 msgctxt "QObject|"
 msgid "System notify"
-msgstr ""
+msgstr "Systémové upozornenie"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:183
 msgctxt "QObject|"
@@ -3599,7 +3599,7 @@ msgstr "O qutIM"
 #: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:110
 msgctxt "SimpleAboutDialog|"
 msgid "Module based instant messenger."
-msgstr "Instant messenger založený na moduloch"
+msgstr "Modulárny Instant messenger"
 
 #: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:143
 msgctxt "SimpleAboutDialog|"
@@ -3644,7 +3644,7 @@ msgstr "Veľkosť ikony statusu:"
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:30
 msgctxt "SimpleContactlistSettings|"
 msgid "Show avatars"
-msgstr "Zobraziť podobizne"
+msgstr "Zobraziť obrázky"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:37
 msgctxt "SimpleContactlistSettings|"
@@ -3659,12 +3659,12 @@ msgstr "Zobrazovať rozšírené ikony"
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:51
 msgctxt "SimpleContactlistSettings|"
 msgid "Lite group headers"
-msgstr ""
+msgstr "Tenké záhlavia skupín"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:58
 msgctxt "SimpleContactlistSettings|"
 msgid "Show contact list on startup"
-msgstr ""
+msgstr "Zobraziť zoznam kontaktov pri spustení"
 
 #: ../../../core/src/corelayers/password/simplepasswordwidget.ui:14
 msgctxt "SimplePasswordWidget|"
@@ -3910,7 +3910,7 @@ msgstr "Ikony stavu na kartách"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:104
 msgctxt "TabbedChatBehavior|"
 msgid "Show menubar"
-msgstr "Zobraziť menu"
+msgstr "Zobraziť panel menu"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:111
 msgctxt "TabbedChatBehavior|"
@@ -3920,7 +3920,7 @@ msgstr "Zobraziť ikonu okna závislú na kontexte"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:118
 msgctxt "TabbedChatBehavior|"
 msgid "Show roster in chatWindow"
-msgstr ""
+msgstr "Zobraziť zoznam kontaktov v okne chatu"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:125
 msgctxt "TabbedChatBehavior|"

@@ -1,0 +1,40 @@
+# Slovak translation for qutim
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-02-19 16:52+0000\n"
+"PO-Revision-Date: 2013-05-14 10:09+0000\n"
+"Last-Translator: DAG Software <Unknown>\n"
+"Language-Team: Slovak <sk@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-05-15 05:43+0000\n"
+"X-Generator: Launchpad (build 16617)\n"
+
+#: ../../../plugins/unitylauncher/src/ulplugin.cpp:37
+msgctxt "Author|"
+msgid "Vsevolod Velichko"
+msgstr "Vševolod Veličko"
+
+#: ../../../plugins/unitylauncher/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/unitylauncher/src/ulplugin.cpp:41
+msgctxt "Plugin|"
+msgid "UnityLauncher"
+msgstr ""
+
+#: ../../../plugins/unitylauncher/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/unitylauncher/src/ulplugin.cpp:42
+msgctxt "Plugin|"
+msgid "Ubuntu Unity panel integration"
+msgstr "Integrácia s panelom Unity z Ubuntu"
+
+#: ../../../plugins/unitylauncher/src/ulplugin.cpp:38
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Vývojár"
