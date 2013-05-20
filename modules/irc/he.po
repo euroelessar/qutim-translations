@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-03-04 19:44+0000\n"
+"PO-Revision-Date: 2013-05-19 17:32+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-03-05 05:25+0000\n"
-"X-Generator: Launchpad (build 16514)\n"
+"X-Launchpad-Export-Date: 2013-05-20 05:46+0000\n"
+"X-Generator: Launchpad (build 16626)\n"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -26,7 +26,7 @@ msgstr ""
 #: ../../../protocols/irc/src/ui/addaccountform.ui:44
 msgctxt "AddAccountForm|"
 msgid "Network name:"
-msgstr "שם רשת עבודה:"
+msgstr "שם רשת תקשורת:"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:54
 msgctxt "AddAccountForm|"
@@ -411,7 +411,7 @@ msgstr "סיסמה"
 #: ../../../protocols/irc/src/ircgroupchatmanager.cpp:86
 msgctxt "IRC|"
 msgid "Auto-join"
-msgstr ""
+msgstr "הצטרף אוטומטית"
 
 #: ../../../protocols/irc/src/ircprotocol.cpp:97
 msgctxt "IRC|"
@@ -427,42 +427,42 @@ msgstr "חפש ערוץ..."
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 gives channel operator privileges to %2."
-msgstr ""
+msgstr "המשתמש %1 מעניק הרשאות אופ למשתמש %2."
 
 #: ../../../protocols/irc/src/ircchannel.cpp:378
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 gives channel halfop privileges to %2."
-msgstr ""
+msgstr "המשתמש %1 מעניק הרשאות אופ חלקיות למשתמש %2."
 
 #: ../../../protocols/irc/src/ircchannel.cpp:380
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 gives %2 the permission to talk."
-msgstr ""
+msgstr "המשתמש %1 מעניק למשתמש %2 רשות לשוחח."
 
 #: ../../../protocols/irc/src/ircchannel.cpp:400
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 takes channel operator privileges from %2."
-msgstr ""
+msgstr "המשתמש %1 נטל מהמשתמש %2 הרשאות אופ."
 
 #: ../../../protocols/irc/src/ircchannel.cpp:402
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 takes channel halfop privileges from %2."
-msgstr ""
+msgstr "המשתמש %1 נטל מהמשתמש %2 הרשאות אופ חלקיות."
 
 #: ../../../protocols/irc/src/ircchannel.cpp:404
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 takes the permission to talk from %2."
-msgstr ""
+msgstr "המשתמש %1 נטל מהמשתמש %2 רשות לשוחח."
 
 #: ../../../protocols/irc/src/ui/ircchannellist.ui:14
 msgctxt "IrcChannelListForm|"
 msgid "Form"
-msgstr ""
+msgstr "תבנית"
 
 #: ../../../protocols/irc/src/ui/console.ui:14
 msgctxt "IrcConsoleForm|"
@@ -552,66 +552,66 @@ msgstr "נעדר"
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "You are now known as %1"
-msgstr ""
+msgstr "הכינוי החדש שלך הוא %1"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:210
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 are now known as %2"
-msgstr ""
+msgstr "%1 ידוע/ה כעת בכינוי %2"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:271
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 (%2) has joined the channel"
-msgstr ""
+msgstr "%1 ‏(%2) נכנס/ה אל הערוץ"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:282
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "You left this channel (%1)"
-msgstr ""
+msgstr "עזבת את ערוץ זה (%1)"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:284
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "You left this channel"
-msgstr ""
+msgstr "עזבת את ערוץ זה"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:291
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has left this channel (%2)"
-msgstr ""
+msgstr "%1 עזב/ה את ערוץ זה (%2)"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:293
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has left this channel"
-msgstr ""
+msgstr "%1 עזב/ה את ערוץ זה"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:305
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has kicked you from the channel (%2)"
-msgstr ""
+msgstr "%1 בעט/ה אותך מן הערוץ (%2)"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:310
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has kicked you from the channel"
-msgstr ""
+msgstr "%1 בעט/ה אותך מן הערוץ"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:318
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has kicked %2 (%3)"
-msgstr ""
+msgstr "%1 בעט/ה את %2 (%3)"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:323
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcChannel|"
 msgid "%1 has kicked %2"
-msgstr ""
+msgstr "%1 בעט/ה את %2"
 
 #: ../../../protocols/irc/src/ircchannel.cpp:340
 #, qt-format
@@ -796,7 +796,7 @@ msgstr "סוף של ‪/LIST‬"
 #: ../../../protocols/irc/src/ircconnection.cpp:308
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Bad list syntax, type /QUOTE HELP LIST"
-msgstr ""
+msgstr "תחביר רשימה רע, הקלד ‎/QUOTE HELP LIST"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:313
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
@@ -804,38 +804,40 @@ msgid ""
 "Server load is temporarily too heavy.\n"
 "Please wait a while and try again."
 msgstr ""
+"נטל שרת הינו כבד מדי זמנית.\n"
+"אנא המתן למשך זמן קצר ונסה שוב."
 
 #: ../../../protocols/irc/src/ircconnection.cpp:324
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "%1 set away message \"%2\""
-msgstr ""
+msgstr "%1 קבע/ה הודעת הרחק \"%2\""
 
 #: ../../../protocols/irc/src/ircconnection.cpp:328
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "%1 removed away message"
-msgstr ""
+msgstr "%1 הסיר/ה הודעת הרחק"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:333
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "You are no longer marked as being away"
-msgstr ""
+msgstr "אינך כבר מסומן/ת כנעדר/ת"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:335
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "You have been marked as being away"
-msgstr ""
+msgstr "סומנת כנעדר/ת"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:435
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Add at least one server before connecting"
-msgstr ""
+msgstr "הוסף שרת אחד לפחות טרם התחברות"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:437
 msgctxt "qutim_sdk_0_3::irc::IrcConnection|"
 msgid "Set at least one nick before connecting"
-msgstr ""
+msgstr "הוסף כינוי אחד לפחות טרם התחברות"
 
 #: ../../../protocols/irc/src/ircconnection.cpp:439
 #, qt-format
@@ -863,7 +865,7 @@ msgstr "לחיצת יד SSL הושלמה"
 #: ../../../protocols/irc/src/ircprotocol.cpp:79
 msgctxt "qutim_sdk_0_3::irc::IrcProtocol|"
 msgid "Auto-join"
-msgstr ""
+msgstr "הצטרף אוטומטית"
 
 #: ../../../protocols/irc/src/ircstandartctcphandler.cpp:81
 #, qt-format
