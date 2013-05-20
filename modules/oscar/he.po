@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-03-07 10:05+0000\n"
+"PO-Revision-Date: 2013-05-19 17:29+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-03-08 05:11+0000\n"
-"X-Generator: Launchpad (build 16523)\n"
+"X-Launchpad-Export-Date: 2013-05-20 05:46+0000\n"
+"X-Generator: Launchpad (build 16626)\n"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -70,7 +70,7 @@ msgstr "מועדון מעריצים"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:569
 msgctxt "Affiliation|"
 msgid "Fraternity/Sorority"
-msgstr ""
+msgstr "אחוות סטודנטים/סטודנטיות"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:570
 msgctxt "Affiliation|"
@@ -175,7 +175,7 @@ msgstr "60-צפונה"
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:52
 msgctxt "Author|"
 msgid "Alexey Ignatiev"
-msgstr ""
+msgstr "אלכסיי איגנטיב"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:55
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:217
@@ -197,7 +197,7 @@ msgstr "כינוי או סיסמה לא תקינים"
 #: ../../../protocols/oscar/src/connection.cpp:310
 msgctxt "ConnectionError|"
 msgid "Service temporarily unavailable"
-msgstr ""
+msgstr "שירות לא זמין זמנית"
 
 #: ../../../protocols/oscar/src/connection.cpp:312
 msgctxt "ConnectionError|"
@@ -232,27 +232,27 @@ msgstr "חשבון פקוע"
 #: ../../../protocols/oscar/src/connection.cpp:324
 msgctxt "ConnectionError|"
 msgid "No access to database"
-msgstr ""
+msgstr "אין גישה אל מסד נתונים"
 
 #: ../../../protocols/oscar/src/connection.cpp:326
 msgctxt "ConnectionError|"
 msgid "No access to resolver"
-msgstr ""
+msgstr "אין גישה אל פותר"
 
 #: ../../../protocols/oscar/src/connection.cpp:328
 msgctxt "ConnectionError|"
 msgid "Invalid database fields"
-msgstr ""
+msgstr "שדות מסד נתונים שגויות"
 
 #: ../../../protocols/oscar/src/connection.cpp:330
 msgctxt "ConnectionError|"
 msgid "Bad database status"
-msgstr ""
+msgstr "מצב רע של מסד נתונים"
 
 #: ../../../protocols/oscar/src/connection.cpp:332
 msgctxt "ConnectionError|"
 msgid "Bad resolver status"
-msgstr ""
+msgstr "מצב רע של פותר"
 
 #: ../../../protocols/oscar/src/connection.cpp:334
 msgctxt "ConnectionError|"
@@ -262,50 +262,50 @@ msgstr "שגיאה פנימית"
 #: ../../../protocols/oscar/src/connection.cpp:336
 msgctxt "ConnectionError|"
 msgid "Service temporarily offline"
-msgstr ""
+msgstr "שירות לא מקוון זמנית"
 
 #: ../../../protocols/oscar/src/connection.cpp:338
 msgctxt "ConnectionError|"
 msgid "Suspended account"
-msgstr ""
+msgstr "חשבון מושעה"
 
 #: ../../../protocols/oscar/src/connection.cpp:340
 msgctxt "ConnectionError|"
 msgid "DB send error"
-msgstr ""
+msgstr "מסד נתונים שלח שגיאה"
 
 #: ../../../protocols/oscar/src/connection.cpp:342
 msgctxt "ConnectionError|"
 msgid "DB link error"
-msgstr ""
+msgstr "שגיאת קישור מסד נתונים"
 
 #: ../../../protocols/oscar/src/connection.cpp:344
 msgctxt "ConnectionError|"
 msgid "Reservation map error"
-msgstr ""
+msgstr "שגיאת מפה שמורה"
 
 #: ../../../protocols/oscar/src/connection.cpp:346
 msgctxt "ConnectionError|"
 msgid "Reservation link error"
-msgstr ""
+msgstr "שגיאת קישור שמור"
 
 #: ../../../protocols/oscar/src/connection.cpp:348
 msgctxt "ConnectionError|"
 msgid "The users num connected from this IP has reached the maximum"
-msgstr ""
+msgstr "מספר המשתמשים המחוברים מן IP זה הגיע למקסימום"
 
 #: ../../../protocols/oscar/src/connection.cpp:350
 msgctxt "ConnectionError|"
 msgid ""
 "The number of users connected from this IP has reached the maximum "
 "(reservation)"
-msgstr ""
+msgstr "מספר המשתמשים המחוברים מן IP זה הגיע למקסימום (שמור)"
 
 #: ../../../protocols/oscar/src/connection.cpp:352
 msgctxt "ConnectionError|"
 msgid ""
 "Rate limit exceeded (reservation). Please try to reconnect in a few minutes"
-msgstr ""
+msgstr "מגבלת שיעור נחצתה (שמור). אנא נסה להתחבר שוב בעוד דקות אחדות"
 
 #: ../../../protocols/oscar/src/connection.cpp:354
 msgctxt "ConnectionError|"
@@ -330,12 +330,12 @@ msgstr "אתה משתמש בגרסא ישנה יותר של ICQ. שדרוג מו
 #: ../../../protocols/oscar/src/connection.cpp:362
 msgctxt "ConnectionError|"
 msgid "Rate limit exceeded. Please try to reconnect in a few minutes"
-msgstr ""
+msgstr "מגבלת שיעור נחצתה. אנא נסה להתחבר שוב בעוד דקות אחדות"
 
 #: ../../../protocols/oscar/src/connection.cpp:364
 msgctxt "ConnectionError|"
 msgid "Can't register on the ICQ network. Reconnect in a few minutes"
-msgstr ""
+msgstr "אין אפשרות להירשם ברשת התקשורת ICQ. התחבר שוב בעוד דקות אחדות"
 
 #: ../../../protocols/oscar/src/connection.cpp:366
 msgctxt "ConnectionError|"
@@ -355,7 +355,7 @@ msgstr "לקוח אחר מחובר עם UIN זה"
 #: ../../../protocols/oscar/src/connection.cpp:372
 msgctxt "ConnectionError|"
 msgid "No IP addresses were found for the host"
-msgstr ""
+msgstr "לא נמצאו כתובות IP עבור המארח"
 
 #: ../../../protocols/oscar/src/connection.cpp:376
 msgctxt "ConnectionError|"
@@ -477,62 +477,62 @@ msgstr "גרסת פרוטוקול"
 #: ../../../protocols/oscar/src/inforequest.cpp:271
 msgctxt "ContactInfo|"
 msgid "Capabilities"
-msgstr ""
+msgstr "יכולות"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:274
 msgctxt "ContactInfo|"
 msgid "Direct connection extra info"
-msgstr ""
+msgstr "מידע נוסף חיבור ישיר"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:275
 msgctxt "ContactInfo|"
 msgid "Last info update"
-msgstr ""
+msgstr "עדכון מידע אחרון"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:277
 msgctxt "ContactInfo|"
 msgid "Last ext info update"
-msgstr ""
+msgstr "עדכון אחרון של מידע נוסף"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:279
 msgctxt "ContactInfo|"
 msgid "Last ext status update"
-msgstr ""
+msgstr "עדכון מצב של מידע נוסף"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:281
 msgctxt "ContactInfo|"
 msgid "Client features"
-msgstr ""
+msgstr "תכונות לקוח"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:283
 msgctxt "ContactInfo|"
 msgid "Cookie"
-msgstr ""
+msgstr "עוגייה"
 
 #: ../../../protocols/oscar/src/authorization.cpp:45
 msgctxt "ContactList|"
 msgid "Reask authorization"
-msgstr ""
+msgstr "בקש שוב הרשאה"
 
 #: ../../../protocols/oscar/src/authorization.cpp:46
 msgctxt "ContactList|"
 msgid "Ask authorization"
-msgstr ""
+msgstr "בקש הרשאה"
 
 #: ../../../protocols/oscar/src/authorization.cpp:105
 msgctxt "ContactList|"
 msgid "Authorization request accepted"
-msgstr ""
+msgstr "בקשת הרשאה התקבלה"
 
 #: ../../../protocols/oscar/src/authorization.cpp:106
 msgctxt "ContactList|"
 msgid "Authorization request declined"
-msgstr ""
+msgstr "בקשת הרשאה נדחתה"
 
 #: ../../../protocols/oscar/src/authorization.cpp:144
 msgctxt "ContactList|"
 msgid "Please, authorize me"
-msgstr ""
+msgstr "בבקשה, אשר אותי"
 
 #: ../../../protocols/oscar/src/icqcontact.cpp:379
 msgctxt "ContactList|"
@@ -1852,7 +1852,7 @@ msgstr "שגיאה בהוספת פריט (מזהה לא תקף, כבר ברשי�
 #: ../../../protocols/oscar/src/feedbag.cpp:186
 msgctxt "FeedbagError|"
 msgid "Can't add item. Limit for this type of items exceeded"
-msgstr "לא ניתן להוסיף פריט. גבול עבור טיפוס של פריטים מוצה"
+msgstr "אן אפשרות להוסיף פריט. גבול עבור טיפוס של פריטים מוצה"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:188
 msgctxt "FeedbagError|"
@@ -1862,7 +1862,7 @@ msgstr "מנסה כעת להוסיף איש קשר ICQ לרשימת AIM"
 #: ../../../protocols/oscar/src/feedbag.cpp:190
 msgctxt "FeedbagError|"
 msgid "Can't add this contact because it requires authorization"
-msgstr "לא ניתן להוסיף איש קשר משום שזה מצריך הרשאה"
+msgstr "אן אפשרות להוסיף איש קשר משום שזה מצריך הרשאה"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:192
 #, qt-format
@@ -2008,22 +2008,22 @@ msgstr "תחבורה"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:289
 msgctxt "Interest|"
 msgid "50's"
-msgstr ""
+msgstr "שנות החמישים"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:290
 msgctxt "Interest|"
 msgid "60's"
-msgstr ""
+msgstr "שנות השישים"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:291
 msgctxt "Interest|"
 msgid "70's"
-msgstr ""
+msgstr "שנות השבעים"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:292
 msgctxt "Interest|"
 msgid "80's"
-msgstr ""
+msgstr "שנות השמונים"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:293
 msgctxt "Interest|"
@@ -2658,7 +2658,7 @@ msgstr "יחסים פתוחים"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:622
 msgctxt "Marital|"
 msgid "Other"
-msgstr ""
+msgstr "אחר"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:207
 msgctxt "Menu|"
@@ -2825,7 +2825,7 @@ msgstr "כתובת"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:645
 msgctxt "MetaInfoHome|"
 msgid "Zip code"
-msgstr ""
+msgstr "מיקוד"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:646
 msgctxt "MetaInfoHome|"
@@ -3040,7 +3040,7 @@ msgstr "סטודנט אוניברסיטה"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:549
 msgctxt "Occupation|"
 msgid "Web Building"
-msgstr ""
+msgstr "בניית אתרים"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:550
 msgctxt "Occupation|"
@@ -3075,12 +3075,12 @@ msgstr "צבא"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:440
 msgctxt "Past|"
 msgid "Past Work Place"
-msgstr ""
+msgstr "מקום עבודה קודם"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:441
 msgctxt "Past|"
 msgid "Past Organization"
-msgstr ""
+msgstr "ארגון קודם"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:442
 msgctxt "Past|"
@@ -3091,19 +3091,19 @@ msgstr "אחר"
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
 msgid "Client identification of oscar contacts"
-msgstr ""
+msgstr "זיהוי לקוח של אנשי קשר oscar"
 
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:3
 msgctxt "Plugin|"
 msgid "Oscar additional statuses"
-msgstr ""
+msgstr "מצבי Oscar נוספים"
 
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:4
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:213
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:222
 msgctxt "Plugin|"
 msgid "Additional statuses for oscar protocol"
-msgstr ""
+msgstr "מצבים נוספים עבור פרוטוקול oscar"
 
 #: ../../../protocols/oscar/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"
@@ -3125,7 +3125,7 @@ msgstr ""
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:59
 msgctxt "Plugin|"
 msgid "Client identificaton for oscar contacts"
-msgstr ""
+msgstr "זיהוי לקוח עבור אנשי קשר oscar"
 
 #: ../../../protocols/oscar/plugins/identify/clientidentify.cpp:58
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:221
@@ -3143,7 +3143,7 @@ msgstr ""
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:227
 msgctxt "Plugin|"
 msgid "XStatus settings"
-msgstr ""
+msgstr "הגדרות XStatus"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:53
 msgctxt "Plugin|"
@@ -3199,18 +3199,18 @@ msgstr ""
 #: ../../../protocols/oscar/src/oscarplugin.cpp:89
 msgctxt "Plugin|"
 msgid "Oscar authorization support"
-msgstr ""
+msgstr "תמיכת הרשאה Oscar"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:92
 #: ../../../protocols/oscar/src/oscarplugin.cpp:93
 msgctxt "Plugin|"
 msgid "Oscar privacy lists"
-msgstr ""
+msgstr "רשימות פרטיות Oscar"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:96
 msgctxt "Plugin|"
 msgid "Oscar contact search"
-msgstr ""
+msgstr "חיפוש איש קשר Oscar"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:97
 msgctxt "Plugin|"
@@ -3301,12 +3301,12 @@ msgstr "לא נתמך על ידי לקוח"
 #: ../../../protocols/oscar/src/connection.cpp:71
 msgctxt "ProtocolError|"
 msgid "Refused by client"
-msgstr ""
+msgstr "סורב על ידי לקוח"
 
 #: ../../../protocols/oscar/src/connection.cpp:73
 msgctxt "ProtocolError|"
 msgid "Reply too big"
-msgstr ""
+msgstr "מענה גדול מדי"
 
 #: ../../../protocols/oscar/src/connection.cpp:75
 msgctxt "ProtocolError|"
@@ -3326,7 +3326,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/connection.cpp:81
 msgctxt "ProtocolError|"
 msgid "Insufficient rights"
-msgstr ""
+msgstr "הרשאות לא מספיקות"
 
 #: ../../../protocols/oscar/src/connection.cpp:83
 msgctxt "ProtocolError|"
@@ -3336,12 +3336,12 @@ msgstr ""
 #: ../../../protocols/oscar/src/connection.cpp:85
 msgctxt "ProtocolError|"
 msgid "Sender too evil"
-msgstr ""
+msgstr "ממען רשע מדי"
 
 #: ../../../protocols/oscar/src/connection.cpp:87
 msgctxt "ProtocolError|"
 msgid "Receiver too evil"
-msgstr ""
+msgstr "נמען רשע מדי"
 
 #: ../../../protocols/oscar/src/connection.cpp:89
 msgctxt "ProtocolError|"
@@ -3489,7 +3489,7 @@ msgstr "עייף"
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:63
 msgctxt "XStatus|"
 msgid "Party"
-msgstr ""
+msgstr "מסיבה"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:66
 msgctxt "XStatus|"
@@ -3534,12 +3534,12 @@ msgstr "עסקים"
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:90
 msgctxt "XStatus|"
 msgid "Shooting"
-msgstr ""
+msgstr "יורה"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:93
 msgctxt "XStatus|"
 msgid "Having fun"
-msgstr ""
+msgstr "מכייף"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:96
 msgctxt "XStatus|"
@@ -3564,7 +3564,7 @@ msgstr "בקניות"
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:108
 msgctxt "XStatus|"
 msgid "Feeling sick"
-msgstr ""
+msgstr "חש בחילה"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:111
 msgctxt "XStatus|"
@@ -3574,12 +3574,12 @@ msgstr "יושן"
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:114
 msgctxt "XStatus|"
 msgid "Surfing"
-msgstr ""
+msgstr "גולש"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:117
 msgctxt "XStatus|"
 msgid "Browsing"
-msgstr ""
+msgstr "מעלעל"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:120
 msgctxt "XStatus|"
@@ -3589,12 +3589,12 @@ msgstr "עובד"
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:123
 msgctxt "XStatus|"
 msgid "Typing"
-msgstr ""
+msgstr "מקליד"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:126
 msgctxt "XStatus|"
 msgid "Picnic"
-msgstr ""
+msgstr "פיקניק"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:129
 msgctxt "XStatus|"
@@ -3609,7 +3609,7 @@ msgstr "נייד"
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:135
 msgctxt "XStatus|"
 msgid "I'm high"
-msgstr ""
+msgstr "אני במרומים"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:138
 msgctxt "XStatus|"
@@ -3629,12 +3629,12 @@ msgstr "צופה בסרט"
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:147
 msgctxt "XStatus|"
 msgid "Love"
-msgstr ""
+msgstr "מאוהב"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:150
 msgctxt "XStatus|"
 msgid "Searching"
-msgstr ""
+msgstr "מחפש"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:153
 msgctxt "XStatus|"
@@ -3664,7 +3664,7 @@ msgstr "בוכה"
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:165
 msgctxt "XStatus|"
 msgid "Fear"
-msgstr ""
+msgstr "מפוחד"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:166
 msgctxt "XStatus|"
@@ -3674,7 +3674,7 @@ msgstr "קורא"
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:167
 msgctxt "XStatus|"
 msgid "Sport"
-msgstr ""
+msgstr "ספורט"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:168
 msgctxt "XStatus|"
@@ -3735,7 +3735,7 @@ msgstr "מקודד"
 #: ../../../protocols/oscar/src/ui/icqmainsettings.cpp:158
 msgctxt "qutim_sdk_0_3::oscar::IcqMainSettings|"
 msgid "Don't send requests for avatarts"
-msgstr ""
+msgstr "אל תשלח בקשות עבור אווטארים"
 
 #: ../../../protocols/oscar/src/ui/icqmainsettings.cpp:160
 msgctxt "qutim_sdk_0_3::oscar::IcqMainSettings|"
@@ -3757,7 +3757,7 @@ msgstr ""
 #, qt-format
 msgctxt "qutim_sdk_0_3::oscar::OftConnection|"
 msgid "Could not open %1"
-msgstr ""
+msgstr "לא היתה אפשרות לפתוח את %1"
 
 #: ../../../protocols/oscar/src/oscarfiletransfer.cpp:1044
 msgctxt "qutim_sdk_0_3::oscar::OftFileTransferFactory|"
@@ -3767,7 +3767,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/oscarfiletransfer.cpp:243
 msgctxt "qutim_sdk_0_3::oscar::OftSocket|"
 msgid "The file transfer proxy server is not available"
-msgstr ""
+msgstr "שרת מתווך (proxy) העברת קובץ אינו זמין"
 
 #: ../../../protocols/oscar/src/oscarfiletransfer.cpp:1232
 msgctxt "qutim_sdk_0_3::oscar::OscarFileTransferSettings|"
@@ -3777,17 +3777,17 @@ msgstr "העברת קובץ"
 #: ../../../protocols/oscar/src/oscarfiletransfer.cpp:1235
 msgctxt "qutim_sdk_0_3::oscar::OscarFileTransferSettings|"
 msgid "Always use file transfer proxy"
-msgstr ""
+msgstr "תמיד תשתמש במתווך (proxy) העברת קובץ"
 
 #: ../../../protocols/oscar/src/oscarfiletransfer.cpp:1241
 msgctxt "qutim_sdk_0_3::oscar::OscarFileTransferSettings|"
 msgid "Accept incoming connections on any port"
-msgstr ""
+msgstr "הסכם לחיבורים נכנסים בכל פורט"
 
 #: ../../../protocols/oscar/src/oscarfiletransfer.cpp:1253
 msgctxt "qutim_sdk_0_3::oscar::OscarFileTransferSettings|"
 msgid "Local ports"
-msgstr ""
+msgstr "פורטים מקומיים"
 
 #: ../../../protocols/oscar/src/privacylists.cpp:352
 msgctxt "qutim_sdk_0_3::oscar::PrivacyLists|"
@@ -3817,12 +3817,12 @@ msgstr ""
 #: ../../../protocols/oscar/plugins/xstatus/xstatussettings.cpp:39
 msgctxt "qutim_sdk_0_3::oscar::XStatusSettings|"
 msgid "Extended status"
-msgstr ""
+msgstr "מצב מורחב"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatussettings.cpp:42
 msgctxt "qutim_sdk_0_3::oscar::XStatusSettings|"
 msgid "Ask for XStatuses automatically"
-msgstr ""
+msgstr "בקש אוטומטית עבור XStatus"
 
 #: ../../../protocols/oscar/plugins/xstatus/statusdialog.ui:14
 msgctxt "statusDialogClass|"
