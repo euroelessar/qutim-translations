@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-05-19 17:29+0000\n"
+"PO-Revision-Date: 2013-05-20 07:15+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-20 05:46+0000\n"
+"X-Launchpad-Export-Date: 2013-05-21 05:03+0000\n"
 "X-Generator: Launchpad (build 16626)\n"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
@@ -1883,7 +1883,7 @@ msgstr "נקבה"
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:14
 msgctxt "IcqAccountMainSettings|"
 msgid "Form"
-msgstr "תבנית"
+msgstr "טופס"
 
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:23
 msgctxt "IcqAccountMainSettings|"

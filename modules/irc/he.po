@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-05-19 17:32+0000\n"
+"PO-Revision-Date: 2013-05-20 07:20+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-05-20 05:46+0000\n"
+"X-Launchpad-Export-Date: 2013-05-21 05:03+0000\n"
 "X-Generator: Launchpad (build 16626)\n"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:14
@@ -81,7 +81,7 @@ msgstr "אלקסיי פרוקהין (Alexey Prokhin)"
 #: ../../../protocols/irc/src/ui/editnickform.ui:14
 msgctxt "EditNickForm|"
 msgid "Form"
-msgstr "תבנית"
+msgstr "טופס"
 
 #: ../../../protocols/irc/src/ui/editnickform.ui:44
 msgctxt "EditNickForm|"
@@ -427,13 +427,13 @@ msgstr "חפש ערוץ..."
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 gives channel operator privileges to %2."
-msgstr "המשתמש %1 מעניק הרשאות אופ למשתמש %2."
+msgstr "המשתמש %1 מעניק הרשאות אופרטור למשתמש %2."
 
 #: ../../../protocols/irc/src/ircchannel.cpp:378
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 gives channel halfop privileges to %2."
-msgstr "המשתמש %1 מעניק הרשאות אופ חלקיות למשתמש %2."
+msgstr "המשתמש %1 מעניק הרשאות אופרטור חלקיות למשתמש %2."
 
 #: ../../../protocols/irc/src/ircchannel.cpp:380
 #, qt-format
@@ -445,13 +445,13 @@ msgstr "המשתמש %1 מעניק למשתמש %2 רשות לשוחח."
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 takes channel operator privileges from %2."
-msgstr "המשתמש %1 נטל מהמשתמש %2 הרשאות אופ."
+msgstr "המשתמש %1 נטל מהמשתמש %2 הרשאות אופרטור."
 
 #: ../../../protocols/irc/src/ircchannel.cpp:402
 #, qt-format
 msgctxt "IrcChannel|"
 msgid "%1 takes channel halfop privileges from %2."
-msgstr "המשתמש %1 נטל מהמשתמש %2 הרשאות אופ חלקיות."
+msgstr "המשתמש %1 נטל מהמשתמש %2 הרשאות אופרטור חלקיות."
 
 #: ../../../protocols/irc/src/ircchannel.cpp:404
 #, qt-format
@@ -462,7 +462,7 @@ msgstr "המשתמש %1 נטל מהמשתמש %2 רשות לשוחח."
 #: ../../../protocols/irc/src/ui/ircchannellist.ui:14
 msgctxt "IrcChannelListForm|"
 msgid "Form"
-msgstr "תבנית"
+msgstr "טופס"
 
 #: ../../../protocols/irc/src/ui/console.ui:14
 msgctxt "IrcConsoleForm|"
@@ -735,22 +735,22 @@ msgstr "מצבים"
 #: ../../../protocols/irc/src/irccommandalias.cpp:246
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Give Op"
-msgstr "הענק אופ"
+msgstr "הענק אופרטור"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:247
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Take Op"
-msgstr "שלול אופ"
+msgstr "שלול אופרטור"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:248
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Give HalfOp"
-msgstr "הענק אופ-למחצה"
+msgstr "הענק אופרטור חלקי"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:249
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"
 msgid "Take HalfOp"
-msgstr "שלול אופ-למחצה"
+msgstr "שלול אופרטור חלקי"
 
 #: ../../../protocols/irc/src/irccommandalias.cpp:250
 msgctxt "qutim_sdk_0_3::irc::IrcCommandAlias|"

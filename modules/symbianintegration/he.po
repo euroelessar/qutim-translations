@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-01-30 05:37+0000\n"
+"PO-Revision-Date: 2013-05-20 07:15+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-31 04:53+0000\n"
-"X-Generator: Launchpad (build 16455)\n"
+"X-Launchpad-Export-Date: 2013-05-21 05:03+0000\n"
+"X-Generator: Launchpad (build 16626)\n"
 
 #: ../../../plugins/symbianintegration/symbianchatform/stackedchatwidget.cpp:83
 msgctxt "ChatWidget|"
@@ -94,12 +94,12 @@ msgstr "שיחה"
 #: ../../../plugins/symbianintegration/symbianchatform/settings/stackedchatbehavior.ui:14
 msgctxt "StackedChatBehavior|"
 msgid "Form"
-msgstr ""
+msgstr "טופס"
 
 #: ../../../plugins/symbianintegration/symbianchatform/settings/stackedchatbehavior.ui:56
 msgctxt "StackedChatBehavior|"
 msgid "Store service messages in history"
-msgstr ""
+msgstr "אחסן הודעות שירות בהיסטוריה"
 
 #: ../../../plugins/symbianintegration/symbianchatform/settings/stackedchatbehavior.ui:63
 msgctxt "StackedChatBehavior|"
@@ -114,7 +114,7 @@ msgstr ""
 #: ../../../plugins/symbianintegration/symbianchatform/settings/stackedchatbehavior.ui:76
 msgctxt "StackedChatBehavior|"
 msgid "Don't group messages after (sec):"
-msgstr ""
+msgstr "אל תקבץ הודעות כעבור (שניות):"
 
 #: ../../../plugins/symbianintegration/symbianchatform/settings/stackedchatbehavior.ui:90
 msgctxt "StackedChatBehavior|"
@@ -124,4 +124,4 @@ msgstr ""
 #: ../../../plugins/symbianintegration/symbianvibra/symbianvibration.cpp:36
 msgctxt "Symbian::Vibration|"
 msgid "Vibration"
-msgstr ""
+msgstr "רטט"
