@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-05-19 14:42+0000\n"
+"PO-Revision-Date: 2013-05-20 07:23+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Rahut\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-20 05:46+0000\n"
+"X-Launchpad-Export-Date: 2013-05-21 05:03+0000\n"
 "X-Generator: Launchpad (build 16626)\n"
 
 #: ../../../core/libqutim/account.cpp:144
@@ -40,7 +40,7 @@ msgstr "חשבונות"
 #: ../../../core/src/corelayers/accountcreator/accountcreatorlist.ui:14
 msgctxt "AccountCreatorList|"
 msgid "Form"
-msgstr "תבנית"
+msgstr "טופס"
 
 #: ../../../core/src/corelayers/accountcreator/accountcreatorprotocols.ui:14
 msgctxt "AccountCreatorProtocols|"
@@ -1511,7 +1511,7 @@ msgstr ""
 #: ../../../core/src/corelayers/idlestatuschanger/idlestatuswidget.ui:14
 msgctxt "IdleStatusWidget|"
 msgid "Form"
-msgstr "תבנית"
+msgstr "טופס"
 
 #: ../../../core/src/corelayers/idlestatuschanger/idlestatuswidget.ui:32
 #: ../../../core/src/corelayers/idlestatuschanger/idlestatuswidget.ui:56
@@ -1678,7 +1678,7 @@ msgstr "לא הוגדר קיצור דרך"
 #: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:14
 msgctxt "KineticScrollerSettings|"
 msgid "Form"
-msgstr "תבנית"
+msgstr "טופס"
 
 #: ../../../core/src/corelayers/kineticscroller/kineticscrollersettings.ui:20
 msgctxt "KineticScrollerSettings|"
@@ -1745,7 +1745,7 @@ msgstr "<ארץ>"
 #: ../../../core/src/corelayers/localization/localizationsettings.ui:14
 msgctxt "LocalizationSettings|"
 msgid "Form"
-msgstr "תבנית"
+msgstr "טופס"
 
 #: ../../../core/src/corelayers/metacontacts/manager.cpp:121
 msgctxt "MetaContact|"
@@ -3390,12 +3390,12 @@ msgstr "חלון הגדרות"
 #: ../../../core/src/corelayers/servicechooser/servicechooserwidget.ui:14
 msgctxt "ServiceChoooser|"
 msgid "Form"
-msgstr "תבנית"
+msgstr "טופס"
 
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelpersettings.ui:14
 msgctxt "SessionHelperSettings|"
 msgid "Form"
-msgstr "תבנית"
+msgstr "טופס"
 
 #: ../../../core/src/corelayers/sessionhelper/src/sessionhelpersettings.ui:32
 msgctxt "SessionHelperSettings|"
@@ -3543,7 +3543,7 @@ msgstr "צלילים"
 #: ../../../core/examples/simplesettingsdialog/settingsdialog.ui:14
 msgctxt "SettingsDialog|"
 msgid "Form"
-msgstr "תבנית"
+msgstr "טופס"
 
 #: ../../../core/libqutim/shortcut.cpp:112
 msgctxt "Shortcut|"
@@ -3593,7 +3593,7 @@ msgstr "מערכת"
 #: ../../../core/src/corelayers/shortcutsettings/shortcutsettingswidget.ui:14
 msgctxt "ShortcutSettingsWidget|"
 msgid "Form"
-msgstr "תבנית"
+msgstr "טופס"
 
 #: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.ui:14
 msgctxt "SimpleAboutDialog|"
@@ -3638,7 +3638,7 @@ msgstr "רשיון"
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:14
 msgctxt "SimpleContactlistSettings|"
 msgid "Form"
-msgstr "תבנית"
+msgstr "טופס"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:23
 msgctxt "SimpleContactlistSettings|"
@@ -3704,7 +3704,7 @@ msgstr "הוסף"
 #: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:14
 msgctxt "SimpletraySettings|"
 msgid "Form"
-msgstr "תבנית"
+msgstr "טופס"
 
 #: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:32
 msgctxt "SimpletraySettings|"
@@ -3765,12 +3765,12 @@ msgstr "נגן"
 #: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.ui:14
 msgctxt "SoundThemeSelector|"
 msgid "Form"
-msgstr "תבנית"
+msgstr "טופס"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:14
 msgctxt "StackedChatBehavior|"
 msgid "Form"
-msgstr "תבנית"
+msgstr "טופס"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:62
 msgctxt "StackedChatBehavior|"
@@ -3870,7 +3870,7 @@ msgstr "https://sourceforge.net/p/rahut"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:14
 msgctxt "TabbedChatBehavior|"
 msgid "Form"
-msgstr "תבנית"
+msgstr "טופס"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:35
 msgctxt "TabbedChatBehavior|"
@@ -3905,7 +3905,7 @@ msgstr "מיקום כרטיסייה:"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:87
 msgctxt "TabbedChatBehavior|"
 msgid "Form layout:"
-msgstr ""
+msgstr "מערך טופס:"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:97
 msgctxt "TabbedChatBehavior|"
@@ -3960,7 +3960,7 @@ msgstr "חשבון"
 #: ../../../core/src/corelayers/emoticonssettings/emoticonsselector.ui:14
 msgctxt "emoticonsSelector|"
 msgid "Form"
-msgstr "תבנית"
+msgstr "טופס"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/kb_qwerty.ui:142
 msgctxt "kb_Qwerty|"
