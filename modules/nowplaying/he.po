@@ -8,19 +8,19 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-30 18:37+0000\n"
-"PO-Revision-Date: 2013-05-20 07:30+0000\n"
+"PO-Revision-Date: 2013-05-21 14:31+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-21 05:03+0000\n"
+"X-Launchpad-Export-Date: 2013-05-22 04:54+0000\n"
 "X-Generator: Launchpad (build 16626)\n"
 
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:57
 msgctxt "Author|"
 msgid "Kazlauskas Ian"
-msgstr ""
+msgstr "קזלוסקס איאן"
 
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:60
 msgctxt "Author|"
@@ -45,7 +45,7 @@ msgstr ""
 #: ../../../plugins/nowplaying/src/icqsettings.ui:36
 msgctxt "IcqSettings|"
 msgid "Changes current X-status message"
-msgstr ""
+msgstr "משנה הודעת X-status נוכחית"
 
 #: ../../../plugins/nowplaying/src/icqsettings.ui:46
 #: ../../../plugins/nowplaying/src/icqsettings.ui:79
@@ -94,7 +94,7 @@ msgstr "מנגן עגשיו: %artist - %title"
 #: ../../../plugins/nowplaying/src/icqsettings.ui:69
 msgctxt "IcqSettings|"
 msgid "Changes message of \"Listening to music\" status"
-msgstr ""
+msgstr "משנה הודעה של מצב \"מאזין כעת למוזיקה\""
 
 #: ../../../plugins/nowplaying/src/icqsettings.ui:95
 msgctxt "IcqSettings|"
@@ -124,7 +124,7 @@ msgstr ""
 #: ../../../plugins/nowplaying/src/jabbersettings.ui:46
 msgctxt "JabberSettings|"
 msgid "Info to be presented"
-msgstr ""
+msgstr "מידע להצגה"
 
 #: ../../../plugins/nowplaying/src/jabbersettings.ui:52
 msgctxt "JabberSettings|"
@@ -164,12 +164,12 @@ msgstr "מנגן עכשיו"
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:292
 msgctxt "NowPlaying|"
 msgid "Stop now playing"
-msgstr ""
+msgstr "הפסק מנגן עכשיו"
 
 #: ../../../plugins/nowplaying/src/nowplaying.cpp:293
 msgctxt "NowPlaying|"
 msgid "Start now playing"
-msgstr ""
+msgstr "התחל מנגן עכשיו"
 
 #: ../../../plugins/nowplaying/src/nowplayingsettings.ui:17
 msgctxt "NowPlayingSettings|"
@@ -179,17 +179,17 @@ msgstr "טופס"
 #: ../../../plugins/nowplaying/src/nowplayingsettings.ui:36
 msgctxt "NowPlayingSettings|"
 msgid "Mode"
-msgstr ""
+msgstr "מצב"
 
 #: ../../../plugins/nowplaying/src/nowplayingsettings.ui:42
 msgctxt "NowPlayingSettings|"
 msgid "Current plugin status:"
-msgstr ""
+msgstr "מצב תוספת נוכחי:"
 
 #: ../../../plugins/nowplaying/src/nowplayingsettings.ui:49
 msgctxt "NowPlayingSettings|"
 msgid "Is working"
-msgstr ""
+msgstr "עובד"
 
 #: ../../../plugins/nowplaying/src/nowplayingsettings.ui:56
 msgctxt "NowPlayingSettings|"
@@ -199,7 +199,7 @@ msgstr "הפסק"
 #: ../../../plugins/nowplaying/src/nowplayingsettings.ui:83
 msgctxt "NowPlayingSettings|"
 msgid "Set mode for all accounts"
-msgstr ""
+msgstr "קבע מצב עבור כל החשבונות"
 
 #: ../../../plugins/nowplaying/src/nowplayingsettings.ui:103
 msgctxt "NowPlayingSettings|"
@@ -256,7 +256,7 @@ msgstr "אין נגן"
 #: ../../../plugins/nowplaying/src/settingsui.cpp:184
 msgctxt "qutim_sdk_0_3::nowplaying::SettingsUI|"
 msgid "working"
-msgstr ""
+msgstr "עובד כעת"
 
 #: ../../../plugins/nowplaying/src/settingsui.cpp:185
 msgctxt "qutim_sdk_0_3::nowplaying::SettingsUI|"
@@ -266,9 +266,9 @@ msgstr "הפסק"
 #: ../../../plugins/nowplaying/src/settingsui.cpp:187
 msgctxt "qutim_sdk_0_3::nowplaying::SettingsUI|"
 msgid "not working"
-msgstr ""
+msgstr "לא עובד"
 
 #: ../../../plugins/nowplaying/src/settingsui.cpp:188
 msgctxt "qutim_sdk_0_3::nowplaying::SettingsUI|"
 msgid "Start"
-msgstr ""
+msgstr "התחל"
