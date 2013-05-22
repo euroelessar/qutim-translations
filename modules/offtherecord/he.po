@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-05-20 07:16+0000\n"
+"PO-Revision-Date: 2013-05-21 16:27+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-21 05:03+0000\n"
+"X-Launchpad-Export-Date: 2013-05-22 04:54+0000\n"
 "X-Generator: Launchpad (build 16626)\n"
 
 #: ../../../plugins/offtherecord/src/otrcrypt.cpp:55
@@ -170,7 +170,7 @@ msgstr "ההודעה לא נשלחה."
 #, qt-format
 msgctxt "OtrInternal|"
 msgid "%1 has ended the OTR session. You should do the same."
-msgstr ""
+msgstr "%1 סיים סשן OTR. עליך לעשות את אותו הדבר."
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:227
 msgctxt "OtrInternal|"
@@ -200,7 +200,7 @@ msgctxt "OtrInternal|"
 msgid ""
 "Your buddy has successfully authenticated you. The conversation is now "
 "secure!"
-msgstr ""
+msgstr "חברך אימת אותך בהצלחה. הדיון כעת מאובטח!"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:269
 msgctxt "OtrInternal|"
@@ -208,6 +208,8 @@ msgid ""
 "Your buddy has successfully authenticated you. You may want to authenticate "
 "your buddy as well by asking your own question."
 msgstr ""
+"חברך אימת אותך בהצלחה. ייתכן וברצונך לאמת את חברך גם כן על ידי שאילת שאלה "
+"משלך."
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:283
 msgctxt "OtrInternal|"
@@ -247,7 +249,7 @@ msgstr "לא פרטי"
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:592
 msgctxt "OtrInternal|"
 msgid "private"
-msgstr ""
+msgstr "פרטי"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:594
 msgctxt "OtrInternal|"
@@ -257,7 +259,7 @@ msgstr ""
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:598
 msgctxt "OtrInternal|"
 msgid "finished"
-msgstr ""
+msgstr "הסתיים"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:601
 msgctxt "OtrInternal|"
