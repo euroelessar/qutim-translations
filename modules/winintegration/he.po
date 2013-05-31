@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-02-04 15:33+0000\n"
+"PO-Revision-Date: 2013-05-30 15:07+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-02-05 04:56+0000\n"
-"X-Generator: Launchpad (build 16468)\n"
+"X-Launchpad-Export-Date: 2013-05-31 06:13+0000\n"
+"X-Generator: Launchpad (build 16660)\n"
 
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
@@ -26,7 +26,7 @@ msgstr "אינטגרציית Windows: סרגל משימות"
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
 msgid "Adds count of unread messages as an icon to taskbar button of qutIM."
-msgstr ""
+msgstr "מוסיפה ספירה של הודעות שלא נקראו כצלמית ללחצן שורת משימות של qutIM."
 
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:3
 #: ../../../plugins/winintegration/src/winint.cpp:64
@@ -41,6 +41,8 @@ msgid ""
 "Adds count of unread messages as an icon to taskbar button of qutim, along "
 "with some commands list."
 msgstr ""
+"מוסיפה ספירה של הודעות שלא נקראו כצלמית ללחצן שורת משימות של qutim, ביחד עם "
+"רשימת פקודות."
 
 #: ../../../plugins/winintegration/src/winint.cpp:65
 msgctxt "Plugin|"
@@ -49,11 +51,13 @@ msgid ""
 "with some commands list and provides a bit more usable notification area "
 "icon than default plugin."
 msgstr ""
+"מוסיפה ספירה של הודעות שלא נקראו כצלמית ללחצן שורת משימות של qutim, ביחד עם "
+"רשימת פקודות וכן מוסיפה צלמית אזור התראה מעט יותר שימושית מהתוספת המשתמטת."
 
 #: ../../../plugins/winintegration/src/wsettings.ui:14
 msgctxt "WSettingsForm|"
 msgid "Form"
-msgstr ""
+msgstr "טופס"
 
 #: ../../../plugins/winintegration/src/wsettings.ui:33
 msgctxt "WSettingsForm|"
@@ -63,18 +67,18 @@ msgstr "כלליות"
 #: ../../../plugins/winintegration/src/wsettings.ui:39
 msgctxt "WSettingsForm|"
 msgid "Links association"
-msgstr ""
+msgstr "שיוך קישורים"
 
 #: ../../../plugins/winintegration/src/wsettings.ui:45
 msgctxt "WSettingsForm|"
 msgid ""
 "Open Jabber links with qutIM. This may require administrative privelegies."
-msgstr ""
+msgstr "פתח קישורי Jabber בעזרת qutIM. זו עשויה להצריך הרשאות מנהל."
 
 #: ../../../plugins/winintegration/src/wsettings.ui:65
 msgctxt "WSettingsForm|"
 msgid "Update associations"
-msgstr ""
+msgstr "עדכן שיוכים"
 
 #: ../../../plugins/winintegration/src/wsettings.ui:104
 msgctxt "WSettingsForm|"
@@ -132,7 +136,7 @@ msgstr[1] ""
 #: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:138
 msgctxt "WThumbnailsProvider|"
 msgid "Last received from:"
-msgstr ""
+msgstr "התקבלה באחרונה מאת:"
 
 #: ../../../plugins/winintegration/subplugins/win7taskbar/thumbnails-renderer.cpp:142
 msgctxt "WThumbnailsProvider|"

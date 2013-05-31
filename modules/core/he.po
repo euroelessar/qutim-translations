@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-05-20 07:23+0000\n"
+"PO-Revision-Date: 2013-05-30 18:33+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Rahut\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-21 05:03+0000\n"
-"X-Generator: Launchpad (build 16626)\n"
+"X-Launchpad-Export-Date: 2013-05-31 06:13+0000\n"
+"X-Generator: Launchpad (build 16660)\n"
 
 #: ../../../core/libqutim/account.cpp:144
 msgctxt "Account|"
@@ -242,7 +242,7 @@ msgstr "אוטומטי"
 #: ../../../core/src/corelayers/adiumchat/lib/chatsessionimpl.cpp:443
 msgctxt "ChatSession|"
 msgid "Last active"
-msgstr ""
+msgstr "פעיל באחרונה"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbar.cpp:59
 msgctxt "CloseButton|"
@@ -731,12 +731,12 @@ msgstr "מודל"
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:43
 msgctxt "Core::ContactListSettings|"
 msgid "Widget style"
-msgstr ""
+msgstr "סגנון וידג׳ט"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:44
 msgctxt "Core::ContactListSettings|"
 msgid "Contacts style"
-msgstr ""
+msgstr "סגנון אנשי קשר"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlistsettings.cpp:136
 msgctxt "Core::ContactListSettings|"
@@ -783,19 +783,19 @@ msgstr "אין היסטוריה"
 #: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:498
 msgctxt "Core::HistoryWindow|"
 msgid "In: %L1"
-msgstr ""
+msgstr "פנים: %L1"
 
 #: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:55
 #: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:499
 msgctxt "Core::HistoryWindow|"
 msgid "Out: %L1"
-msgstr ""
+msgstr "חוץ: %L1"
 
 #: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:56
 #: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:500
 msgctxt "Core::HistoryWindow|"
 msgid "All: %L1"
-msgstr ""
+msgstr "הכל: %L1"
 
 #: ../../../core/src/corelayers/jsonhistory/historywindow.cpp:100
 msgctxt "Core::HistoryWindow|"
@@ -835,12 +835,12 @@ msgstr "לחצן עכבר ימני"
 #: ../../../core/src/corelayers/metacontacts/mergedialog.ui:14
 msgctxt "Core::MetaContacts::MergeDialog|"
 msgid "Manage metacontact"
-msgstr ""
+msgstr "נהל איש־קשר-מוצמד"
 
 #: ../../../core/src/corelayers/metacontacts/mergedialog.ui:20
 msgctxt "Core::MetaContacts::MergeDialog|"
 msgid "MetaContact name:"
-msgstr ""
+msgstr "שם איש־קשר-מוצמד:"
 
 #: ../../../core/src/corelayers/metacontacts/mergedialog.ui:30
 msgctxt "Core::MetaContacts::MergeDialog|"
@@ -1021,6 +1021,7 @@ msgid ""
 "Unable to create directory %1. Maybe you are trying to create a directory in "
 "a protected system directory"
 msgstr ""
+"אין אפשרות ליצור מדור %1. יתכן שאתה מנסה ליצור מדור בתוך מדור מערכת מוגן"
 
 #: ../../../core/src/widgets/profilecreationpage.cpp:172
 #: ../../../core/src/widgets/profilecreationpage.cpp:180
@@ -1180,13 +1181,13 @@ msgstr " (גלובלי)"
 #, qt-format
 msgctxt "Core::ShortcutItemDelegate|"
 msgid "%1 : input"
-msgstr ""
+msgstr "%1 : קלט"
 
 #: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.cpp:51
 #, qt-format
 msgctxt "Core::SimpleAboutDialog|"
 msgid "Based on Qt %1 (%2 bit)."
-msgstr ""
+msgstr "מבוסס על Qt %1 (%2 ביט)."
 
 #: ../../../core/src/corelayers/simpleabout/simpleaboutdialog.cpp:54
 #, qt-format
@@ -1275,7 +1276,7 @@ msgstr "קובץ נכנס"
 #, qt-format
 msgctxt "Core::SimpleFileTransfer|"
 msgid "%1 wants to send you %2 (%3)"
-msgstr ""
+msgstr "%1 רוצה לשלוח לך %2 (%3)"
 
 #: ../../../core/src/corelayers/filetransfer/simplefiletransfer.cpp:193
 msgctxt "Core::SimpleFileTransfer|"
@@ -1291,20 +1292,20 @@ msgstr "התעלם"
 #, qt-format
 msgctxt "Core::SimpleFileTransfer|"
 msgid "Choose file for %1"
-msgstr ""
+msgstr "בחר קובץ עבור %1"
 
 #: ../../../core/src/corelayers/password/simplepasswordwidget.cpp:36
 #: ../../../core/src/corelayers/password/simplepasswordwidget.cpp:73
 #, qt-format
 msgctxt "Core::SimplePasswordWidget|"
 msgid "Enter password for account %1 (%2):"
-msgstr ""
+msgstr "הזן סיסמה עבור חשבון %1 (%2):"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpletagseditor/simpletagseditor.cpp:43
 #, qt-format
 msgctxt "Core::SimpleTagsEditor|"
 msgid "Edit tags for %1"
-msgstr ""
+msgstr "ערוך תגיות עבור %1"
 
 #: ../../../core/src/corelayers/trayicon/simpletray.cpp:87
 msgctxt "Core::SimpleTray|"
@@ -1482,17 +1483,17 @@ msgstr "מאת:"
 #: ../../../core/src/corelayers/jsonhistory/historywindow.ui:60
 msgctxt "HistoryWindowClass|"
 msgid "In: %L1"
-msgstr ""
+msgstr "פנים: %L1"
 
 #: ../../../core/src/corelayers/jsonhistory/historywindow.ui:67
 msgctxt "HistoryWindowClass|"
 msgid "Out: %L1"
-msgstr ""
+msgstr "חוץ: %L1"
 
 #: ../../../core/src/corelayers/jsonhistory/historywindow.ui:74
 msgctxt "HistoryWindowClass|"
 msgid "All: %L1"
-msgstr ""
+msgstr "הכל: %L1"
 
 #: ../../../core/src/corelayers/jsonhistory/historywindow.ui:94
 msgctxt "HistoryWindowClass|"
@@ -1751,17 +1752,17 @@ msgstr "טופס"
 #: ../../../core/src/corelayers/metacontacts/manager.cpp:121
 msgctxt "MetaContact|"
 msgid "Split Metacontact"
-msgstr ""
+msgstr "פצל איש־קשר-מוצמד"
 
 #: ../../../core/src/corelayers/metacontacts/manager.cpp:127
 msgctxt "MetaContact|"
 msgid "Manage metacontacts"
-msgstr ""
+msgstr "נהל אנשי־קשר-מוצמדים"
 
 #: ../../../core/src/corelayers/metacontacts/model.cpp:44
 msgctxt "MetaContacts|"
 msgid "Contacts in metacontact"
-msgstr ""
+msgstr "אנשי קשר בתוך איש־קשר-מוצמד"
 
 #: ../../../core/src/corelayers/metacontacts/model.cpp:48
 msgctxt "MetaContacts|"
@@ -1841,22 +1842,22 @@ msgstr "הודעה חסומה"
 #: ../../../core/libqutim/notification.cpp:196
 msgctxt "Notification|"
 msgid "Contact joined conference"
-msgstr ""
+msgstr "איש קשר הצטרף לוועידה"
 
 #: ../../../core/libqutim/notification.cpp:197
 msgctxt "Notification|"
 msgid "Contact left conference"
-msgstr ""
+msgstr "איש קשר עזב ועידה"
 
 #: ../../../core/libqutim/notification.cpp:198
 msgctxt "Notification|"
 msgid "Incoming conference message"
-msgstr ""
+msgstr "הודעת ועידה נכנסת"
 
 #: ../../../core/libqutim/notification.cpp:199
 msgctxt "Notification|"
 msgid "Outgoing conference message"
-msgstr ""
+msgstr "הודעת ועידה יוצאת"
 
 #: ../../../core/libqutim/notification.cpp:200
 msgctxt "Notification|"
@@ -1881,7 +1882,7 @@ msgstr "איש קשר שינה מצב"
 #: ../../../core/libqutim/notification.cpp:204
 msgctxt "Notification|"
 msgid "Contact birthday"
-msgstr ""
+msgstr "יום הולדת איש קשר"
 
 #: ../../../core/libqutim/notification.cpp:205
 msgctxt "Notification|"
@@ -2140,7 +2141,7 @@ msgstr "דו שיח אודות פשוט"
 #: ../../../core/__data_from_cmakelists_txt.cpp:30
 msgctxt "Plugin|"
 msgid "Simple dialog about qutIM and it's authors"
-msgstr ""
+msgstr "דו שיח פשוט אודות qutIM ומחבריו"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:31
 #: ../../../core/src/corelayers/localization/localizationplugin.cpp:39
