@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-27 13:46+0000\n"
-"PO-Revision-Date: 2013-02-06 15:15+0000\n"
+"PO-Revision-Date: 2013-05-30 18:12+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-07 05:16+0000\n"
-"X-Generator: Launchpad (build 16477)\n"
+"X-Launchpad-Export-Date: 2013-05-31 06:13+0000\n"
+"X-Generator: Launchpad (build 16660)\n"
 
 #: ../../../protocols/mrim/src/ui/wizards/accountwizardmain.ui:14
 msgctxt "AccountWizardMain|"
@@ -106,12 +106,12 @@ msgstr "הגבלה מוצתה"
 #: ../../../protocols/mrim/src/base/messages.cpp:164
 msgctxt "MrimMessages|"
 msgid "User denied receiving offline messages"
-msgstr ""
+msgstr "משתמש אסר לקבל הודעות לא מקוונות"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:167
 msgctxt "MrimMessages|"
 msgid "User denied receiving offline flash movies"
-msgstr ""
+msgstr "משתמש אסר לקבל סרטי flash לא מקוונים"
 
 #: ../../../protocols/mrim/src/base/messages.cpp:170
 msgctxt "MrimMessages|"
@@ -284,7 +284,7 @@ msgstr "קפה"
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:226
 msgctxt "Status|"
 msgid "Shovel"
-msgstr ""
+msgstr "יעה"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:228
 msgctxt "Status|"
@@ -330,7 +330,7 @@ msgstr "סמיילי"
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:244
 msgctxt "Status|"
 msgid "Hippy"
-msgstr ""
+msgstr "היפי"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:246
 msgctxt "Status|"
@@ -370,7 +370,7 @@ msgstr "לב"
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:260
 msgctxt "Status|"
 msgid "Crescent"
-msgstr ""
+msgstr "הולך וגובר"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:262
 msgctxt "Status|"
@@ -380,7 +380,7 @@ msgstr "מגניייב!"
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:264
 msgctxt "Status|"
 msgid "Horns"
-msgstr ""
+msgstr "קרניים"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:266
 msgctxt "Status|"
@@ -415,7 +415,7 @@ msgstr "תייש"
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:278
 msgctxt "Status|"
 msgid "Must die!"
-msgstr ""
+msgstr "חייב למות!"
 
 #: ../../../protocols/mrim/src/base/mrimstatus.cpp:280
 msgctxt "Status|"

@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-23 17:51+0000\n"
-"PO-Revision-Date: 2013-02-07 00:56+0000\n"
+"PO-Revision-Date: 2013-05-30 16:45+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-08 04:48+0000\n"
-"X-Generator: Launchpad (build 16482)\n"
+"X-Launchpad-Export-Date: 2013-05-31 06:13+0000\n"
+"X-Generator: Launchpad (build 16660)\n"
 
 #: ../../../plugins/highlighter/src/highlighteritemlist.cpp:44
 #: ../../../plugins/highlighter/src/highlighteritemlist.cpp:105
@@ -57,7 +57,7 @@ msgstr "תרשים W3C XML"
 #: ../../../plugins/highlighter/src/highlightersettings.ui:14
 msgctxt "HighlighterSettingsForm|"
 msgid "Form"
-msgstr "תבנית"
+msgstr "טופס"
 
 #: ../../../plugins/highlighter/src/highlightersettings.ui:20
 msgctxt "HighlighterSettingsForm|"

@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-02-11 21:38+0000\n"
+"PO-Revision-Date: 2013-05-30 14:53+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-12 04:59+0000\n"
-"X-Generator: Launchpad (build 16491)\n"
+"X-Launchpad-Export-Date: 2013-05-31 06:13+0000\n"
+"X-Generator: Launchpad (build 16660)\n"
 
 #: ../../../plugins/qmlchat/settings/chatappearance.cpp:54
 msgctxt "Core::AdiumChat::ChatAppearance|"
@@ -36,7 +36,7 @@ msgstr "לא מסוגל ליצור סשן שיחה"
 #: ../../../plugins/qmlchat/settings/chatappearance.cpp:194
 msgctxt "Core::AdiumChat::ChatAppearance|"
 msgid "Preview message"
-msgstr ""
+msgstr "הצג הודעה"
 
 #: ../../../plugins/qmlchat/settings/chatappearance.cpp:201
 msgctxt "Core::AdiumChat::ChatAppearance|"
@@ -66,12 +66,12 @@ msgstr ""
 #: ../../../plugins/qmlchat/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
 msgid "Qt Quick view (experimental)"
-msgstr ""
+msgstr "תצוגת Qt Quick (ניסיוני)"
 
 #: ../../../plugins/qmlchat/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
 msgid "Modern chat view based on power of QtQuick"
-msgstr ""
+msgstr "תצוגת שיחה מודרנית המבוססת על QtQuick"
 
 #: ../../../plugins/qmlchat/quickchatviewfactory.cpp:40
 msgctxt "Settings|"
@@ -81,32 +81,32 @@ msgstr "שיחה"
 #: ../../../plugins/qmlchat/qmlchat/default/main.qml:180
 msgctxt "main|"
 msgid "is active"
-msgstr ""
+msgstr "פעיל כעת"
 
 #: ../../../plugins/qmlchat/qmlchat/default/main.qml:182
 msgctxt "main|"
 msgid "is inactive"
-msgstr ""
+msgstr "לא פעיל כעת"
 
 #: ../../../plugins/qmlchat/qmlchat/default/main.qml:184
 msgctxt "main|"
 msgid "is gone"
-msgstr ""
+msgstr "לא נמצא"
 
 #: ../../../plugins/qmlchat/qmlchat/default/main.qml:186
 msgctxt "main|"
 msgid "is composing"
-msgstr ""
+msgstr "מלחין כעת"
 
 #: ../../../plugins/qmlchat/qmlchat/default/main.qml:188
 msgctxt "main|"
 msgid "is paused"
-msgstr ""
+msgstr "פסק כעת"
 
 #: ../../../plugins/qmlchat/settings/chatappearance.ui:14
 msgctxt "quickChatAppearance|"
 msgid "Form"
-msgstr ""
+msgstr "טופס"
 
 #: ../../../plugins/qmlchat/settings/chatappearance.ui:20
 msgctxt "quickChatAppearance|"
