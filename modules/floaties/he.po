@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-23 17:51+0000\n"
-"PO-Revision-Date: 2013-05-31 13:29+0000\n"
+"PO-Revision-Date: 2013-05-31 13:04+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,18 +17,14 @@ msgstr ""
 "X-Launchpad-Export-Date: 2013-06-01 05:37+0000\n"
 "X-Generator: Launchpad (build 16660)\n"
 
-#: ../../../protocols/astral/__data_from_cmakelists_txt.cpp:1
-#: ../../../protocols/astral/src/astralplugin.cpp:54
+#: ../../../plugins/floaties/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/floaties/src/floaties.cpp:39
 msgctxt "Plugin|"
-msgid "Astral"
-msgstr "כוכבי"
+msgid "Floaties"
+msgstr "צפים"
 
-#: ../../../protocols/astral/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/floaties/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/floaties/src/floaties.cpp:40
 msgctxt "Plugin|"
-msgid "Communication by Telepathy"
-msgstr "תקשורת בעזרת Telepathy"
-
-#: ../../../protocols/astral/src/astralplugin.cpp:55
-msgctxt "Plugin|"
-msgid "Protocol support by Telepathy"
-msgstr "פרוטוקול נתמך על ידי Telepathy"
+msgid "Implementation of floaty contacts"
+msgstr "מחשה של אנשי קשר צפים"
