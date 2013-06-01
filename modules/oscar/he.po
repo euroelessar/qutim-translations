@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-05-20 07:15+0000\n"
+"PO-Revision-Date: 2013-05-31 15:03+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-21 05:03+0000\n"
-"X-Generator: Launchpad (build 16626)\n"
+"X-Launchpad-Export-Date: 2013-06-01 05:37+0000\n"
+"X-Generator: Launchpad (build 16660)\n"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -2058,7 +2058,7 @@ msgstr "מכוניות"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:299
 msgctxt "Interest|"
 msgid "Celebrity Fans"
-msgstr ""
+msgstr "מעריצי סלבריטי"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:300
 msgctxt "Interest|"
@@ -2673,7 +2673,7 @@ msgstr "לא צוין"
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:108
 msgctxt "MetaInfo|"
 msgid "Basic"
-msgstr ""
+msgstr "בסיסי"
 
 #: ../../../protocols/oscar/src/metainfo/metafield.cpp:110
 msgctxt "MetaInfo|"
@@ -2785,7 +2785,7 @@ msgstr "תחומיי עניין"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:675
 msgctxt "MetaInfo|"
 msgid "Pasts"
-msgstr ""
+msgstr "היסטוריה"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:677
 msgctxt "MetaInfo|"
@@ -2875,7 +2875,7 @@ msgstr "כתובת"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:665
 msgctxt "MetaInfoWork|"
 msgid "Zip"
-msgstr ""
+msgstr "מיקוד"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:666
 msgctxt "MetaInfoWork|"
@@ -3215,7 +3215,7 @@ msgstr "חיפוש איש קשר Oscar"
 #: ../../../protocols/oscar/src/oscarplugin.cpp:97
 msgctxt "Plugin|"
 msgid "Oscar contact search implementation"
-msgstr ""
+msgstr "המחשה של חיפוש איש קשר Oscar"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:100
 #: ../../../protocols/oscar/src/oscarplugin.cpp:101
@@ -3311,17 +3311,17 @@ msgstr "מענה גדול מדי"
 #: ../../../protocols/oscar/src/connection.cpp:75
 msgctxt "ProtocolError|"
 msgid "Responses lost"
-msgstr ""
+msgstr "משובים אבדו"
 
 #: ../../../protocols/oscar/src/connection.cpp:77
 msgctxt "ProtocolError|"
 msgid "Request denied"
-msgstr ""
+msgstr "בקשה נדחתה"
 
 #: ../../../protocols/oscar/src/connection.cpp:79
 msgctxt "ProtocolError|"
 msgid "Incorrect SNAC format"
-msgstr ""
+msgstr "פורמט SNAC שגוי"
 
 #: ../../../protocols/oscar/src/connection.cpp:81
 msgctxt "ProtocolError|"
@@ -3832,4 +3832,4 @@ msgstr "מצב מותאם"
 #: ../../../protocols/oscar/plugins/xstatus/statusdialog.ui:99
 msgctxt "statusDialogClass|"
 msgid "Set birthday/happy flag"
-msgstr ""
+msgstr "קבע דגל שמחה/יום הולדת"

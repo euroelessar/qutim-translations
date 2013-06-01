@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-02-06 16:42+0000\n"
+"PO-Revision-Date: 2013-05-31 12:44+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-07 05:16+0000\n"
-"X-Generator: Launchpad (build 16477)\n"
+"X-Launchpad-Export-Date: 2013-06-01 05:37+0000\n"
+"X-Generator: Launchpad (build 16660)\n"
 
 #: ../../../protocols/vkontakte/vreen/src/qml/src/buddymodel.cpp:83
 msgctxt "BuddyModel|"
@@ -35,7 +35,7 @@ msgstr "נעדר"
 #: ../../../protocols/vkontakte/vreen/src/qml/src/chatmodel.cpp:67
 msgctxt "ChatModel|"
 msgid "unknown"
-msgstr ""
+msgstr "לא מוכר"
 
 #: ../../../protocols/vkontakte/src/vcontact.cpp:250
 msgctxt "ContactInfo|"
@@ -151,7 +151,7 @@ msgstr "תקורה"
 #, qt-format
 msgctxt "PhoneFetcher|"
 msgid "-- %1 contacts recieved"
-msgstr ""
+msgstr "-- %1 אנשי קשר התקבלו"
 
 #: ../../../protocols/vkontakte/vreen/examples/cpp/phonefetcher/phonefetcher.cpp:63
 #, qt-format
@@ -184,12 +184,12 @@ msgstr ""
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:44
 msgctxt "Plugin|"
 msgid "Simple implementation of vkontakte, based on vk.com/developers api"
-msgstr ""
+msgstr "המחשה פשוטה של vkontakte, מבוססת על api מן vk.com/developers"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:51
 msgctxt "Plugin|"
 msgid "Simple implementation of vkontakte, based on desktop.api"
-msgstr ""
+msgstr "המחשה פשוטה של vkontakte, מבוססת על desktop.api"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:55
 msgctxt "Plugin|"
@@ -382,7 +382,7 @@ msgstr ""
 #: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:111
 msgctxt "main|"
 msgid "(from chat)"
-msgstr ""
+msgstr "(מן שיחה)"
 
 #: ../../../protocols/vkontakte/vreen/examples/declarative/dialogs/qml/main.qml:138
 #: ../../../protocols/vkontakte/vreen/examples/quick/dialogs/qml/main.qml:138

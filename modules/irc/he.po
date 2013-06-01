@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-05-20 07:20+0000\n"
+"PO-Revision-Date: 2013-05-31 14:08+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-05-21 05:03+0000\n"
-"X-Generator: Launchpad (build 16626)\n"
+"X-Launchpad-Export-Date: 2013-06-01 05:37+0000\n"
+"X-Generator: Launchpad (build 16660)\n"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -511,7 +511,7 @@ msgstr "תמיכת פרוקסי לפרוטוקול IRC"
 #, qt-format
 msgctxt "QObject|"
 msgid "Not enough parameters for command %1"
-msgstr ""
+msgstr "אין מספיק פרמטרים עבור פקודה %1"
 
 #: ../../../protocols/irc/src/ircprotocol.cpp:72
 msgctxt "Settings|"
@@ -891,40 +891,40 @@ msgstr "המשתמש %1 כעת %2@%3 (%4)"
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 is online via %2 (%3)"
-msgstr ""
+msgstr "%1 מקוון דרך %2 (%3)"
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:83
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 is an IRC operator"
-msgstr ""
+msgstr "%1 הינו אופרטור IRC"
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:93
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 has been idle since"
-msgstr ""
+msgstr "%1 עצל מאז"
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:99
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 has been online since"
-msgstr ""
+msgstr "%1 מקוון מאז"
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:107
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 is a user on channels: "
-msgstr ""
+msgstr "%1 משתמש בערוצים: "
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:114
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 is logged in as %2"
-msgstr ""
+msgstr "%1 מחובר בתוך %2"
 
 #: ../../../protocols/irc/src/ircwhoisreplieshandler.cpp:119
 #, qt-format
 msgctxt "qutim_sdk_0_3::irc::IrcWhoisRepliesHandler|"
 msgid "%1 is using a secure connection"
-msgstr ""
+msgstr "%1 משתמש/ת בחיבור מוצפן"

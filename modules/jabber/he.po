@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-05-20 07:17+0000\n"
+"PO-Revision-Date: 2013-05-31 15:27+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-21 05:03+0000\n"
-"X-Generator: Launchpad (build 16626)\n"
+"X-Launchpad-Export-Date: 2013-06-01 05:37+0000\n"
+"X-Generator: Launchpad (build 16660)\n"
 
 #: ../../../protocols/jabber/src/protocol/modules/activitypep/jpersonactivityconverter.cpp:35
 msgctxt "Activity|"
@@ -817,12 +817,12 @@ msgstr "אל תשלח בקשה עבור אווטארים"
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:59
 msgctxt "JMainSettings|"
 msgid "Listen port for filetransfer:"
-msgstr ""
+msgstr "פורט האזנה להעברת קובץ:"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:85
 msgctxt "JMainSettings|"
 msgid "Priority depends on status"
-msgstr ""
+msgstr "עדיפות תלוית מצב"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:91
 msgctxt "JMainSettings|"
@@ -872,7 +872,7 @@ msgstr "הגדרות חיבור"
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:228
 msgctxt "JMainSettings|"
 msgid "Autodetect connection settings"
-msgstr ""
+msgstr "אתר אוטומטית הגדרות חיבור"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:238
 msgctxt "JMainSettings|"
@@ -904,13 +904,13 @@ msgstr "תמיד"
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:308
 msgctxt "JMainSettings|"
 msgid "Never"
-msgstr ""
+msgstr "אף פעם"
 
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:294
 #: ../../../protocols/jabber/src/protocol/jmainsettings.ui:313
 msgctxt "JMainSettings|"
 msgid "If server has support"
-msgstr ""
+msgstr "במידה ולשרת יש תמיכה"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:197
 msgctxt "Jabber|"
@@ -940,7 +940,7 @@ msgstr "הצטרף אוטומטית"
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:813
 msgctxt "Jabber|"
 msgid "You are already in conference with another nick"
-msgstr ""
+msgstr "הינך כבר בשיחה עם כינוי אחר"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:829
 msgctxt "Jabber|"
@@ -1049,13 +1049,13 @@ msgstr "שגיאה לא מוכרת"
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:239
 msgctxt "Jabber::JAccountRegistrationPage|"
 msgid "The desired username is already in use by another user"
-msgstr ""
+msgstr "שם המשתמש המבוקש כבר מצוי בשימוש"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:282
 #, qt-format
 msgctxt "Jabber::JAccountRegistrationPage|"
 msgid "Sorry, but server \"%1\" does not support in-band registration"
-msgstr ""
+msgstr "צר לי, אך שרת \"%1\" לא תומך ברישום תוך-פס"
 
 #: ../../../protocols/jabber/src/protocol/jaccountwizardpage.cpp:41
 msgctxt "Jabber::JAccountWizardPage|"
@@ -1115,7 +1115,7 @@ msgstr "מנסה למשוך תשומת לב."
 #: ../../../protocols/jabber/src/protocol/account/muc/jbookmarkmanager.cpp:241
 msgctxt "Jabber::JBookmarkManager|"
 msgid "Unable to join groupchat"
-msgstr ""
+msgstr "אין אפשרות להצטרף אל קבוצת שיחה"
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucmanager.cpp:198
 #, qt-format
@@ -1141,12 +1141,12 @@ msgstr " נבעט/ה"
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:352
 msgctxt "Jabber::JMUCSession|"
 msgid "You has been banned at "
-msgstr ""
+msgstr "נאסרת אצל "
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:352
 msgctxt "Jabber::JMUCSession|"
 msgid "You has been kicked from "
-msgstr ""
+msgstr "נבעטת מן "
 
 #: ../../../protocols/jabber/src/protocol/account/muc/jmucsession.cpp:354
 msgctxt "Jabber::JMUCSession|"
@@ -1499,17 +1499,17 @@ msgstr "איש קשר %1 הוסר מרשימה"
 #: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:450
 msgctxt "Jabber::JRoster|"
 msgid "Received a request for removal from the subscribers"
-msgstr ""
+msgstr "התקבלה בקשת למען הסרה מהרשומים"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:458
 msgctxt "Jabber::JRoster|"
 msgid "You have been removed from the list of subscribers"
-msgstr ""
+msgstr "הוסרת מן הרשימה של רשומים"
 
 #: ../../../protocols/jabber/src/protocol/account/roster/jroster.cpp:466
 msgctxt "Jabber::JRoster|"
 msgid "You have been added to the list of subscribers"
-msgstr ""
+msgstr "הוספת אל הרשימה של רשומים"
 
 #: ../../../protocols/jabber/src/protocol/modules/servicediscovery/jservicebrowser.cpp:94
 msgctxt "Jabber::JServiceBrowser|"
@@ -1619,7 +1619,7 @@ msgstr "שם משתמש"
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:135
 msgctxt "Jreen|"
 msgid "Familiar name"
-msgstr ""
+msgstr "שם מוכר"
 
 #: ../../../protocols/jabber/src/protocol/jaccountregistrationpage.cpp:137
 msgctxt "Jreen|"
@@ -1712,7 +1712,7 @@ msgstr "הישות המבקשת לא מחזיקה בהרשאות הדרושות 
 #: ../../../protocols/jabber/jreen/src/error.cpp:89
 msgctxt "Jreen::Error|"
 msgid "The recipient or server can no longer be contacted at this address."
-msgstr "המקבל או השרת לא יכול להיות מתוקשר עוד בכתובת זו."
+msgstr "המקבל או השרת לא יכולים להיות מתוקשרים עוד בכתובת זו."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:92
 msgctxt "Jreen::Error|"
@@ -1743,7 +1743,7 @@ msgid ""
 "The recipient or server understands the request but is refusing to process "
 "it because it does not meet criteria defined by the recipient or server."
 msgstr ""
-"המקבל או השרת מבין את הבקשה אך זה מסרב לעבדה משום שזו לא תואמת קריטריון "
+"המקבל או השרת מבינים את הבקשה אך מסרבים לעבדה משום שזו לא תואמת קריטריון "
 "מוגדר על ידי המקבל או השרת."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:104
@@ -1764,7 +1764,7 @@ msgstr ""
 #: ../../../protocols/jabber/jreen/src/error.cpp:110
 msgctxt "Jreen::Error|"
 msgid "The item requested has not changed since it was last requested."
-msgstr ""
+msgstr "הפריט שהתבקש לא השתנה מאז שנתבקש באחרונה."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:113
 msgctxt "Jreen::Error|"
@@ -1784,7 +1784,7 @@ msgid ""
 "The recipient or server is redirecting requests for this information to "
 "another entity, usually temporarily."
 msgstr ""
-"המקבל או השרת מכוון מחדש בקשות עבור מידע זה אל ישות אחרת, זמנית לרוב."
+"המקבל או השרת מכוונים מחדש בקשות עבור מידע זה אל ישות אחרת, זמנית לרוב."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:122
 msgctxt "Jreen::Error|"
@@ -1839,7 +1839,7 @@ msgctxt "Jreen::Error|"
 msgid ""
 "The recipient or server understood the request but was not expecting it at "
 "this time."
-msgstr ""
+msgstr "המקבל או השרת הבינו את הבקשה אך לא ציפו לה בזמן זה."
 
 #: ../../../protocols/jabber/jreen/src/error.cpp:146
 msgctxt "Jreen::Error|"

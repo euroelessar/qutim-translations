@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-05-30 18:33+0000\n"
+"PO-Revision-Date: 2013-05-31 14:33+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Rahut\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-31 06:13+0000\n"
+"X-Launchpad-Export-Date: 2013-06-01 05:37+0000\n"
 "X-Generator: Launchpad (build 16660)\n"
 
 #: ../../../core/libqutim/account.cpp:144
@@ -2205,7 +2205,7 @@ msgstr "היעדרות אוטומטית"
 #: ../../../core/__data_from_cmakelists_txt.cpp:44
 msgctxt "Plugin|"
 msgid "Automatically changes status of accounts on inactivity"
-msgstr ""
+msgstr "משנה אוטומטית מצב של חשבונות בעת אי פעילות"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:45
 msgctxt "Plugin|"
@@ -2220,7 +2220,7 @@ msgstr "המחשה משתמטת של תבניות נתונים qutIM"
 #: ../../../core/__data_from_cmakelists_txt.cpp:47
 msgctxt "Plugin|"
 msgid "Simple MetaContacts"
-msgstr ""
+msgstr "אנשי־קשר-מוצמדים פשוטים"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:48
 msgctxt "Plugin|"
@@ -2235,12 +2235,12 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:50
 msgctxt "Plugin|"
 msgid "Module for migration from 0.2 to 0.3"
-msgstr ""
+msgstr "מודול להגירה מן 0.2 אל 0.3"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:51
 msgctxt "Plugin|"
 msgid "Simple"
-msgstr ""
+msgstr "פשוט"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:52
 msgctxt "Plugin|"
@@ -2261,7 +2261,7 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:55
 msgctxt "Plugin|"
 msgid "Simple contact list"
-msgstr ""
+msgstr "רשימת קשר פשוטה"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:56
 msgctxt "Plugin|"
@@ -2271,17 +2271,17 @@ msgstr "המחשה משתמטת של רשימת קשר qutIM. פשוט כך"
 #: ../../../core/__data_from_cmakelists_txt.cpp:57
 msgctxt "Plugin|"
 msgid "Contact delegate"
-msgstr ""
+msgstr "נציג איש קשר"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:58
 msgctxt "Plugin|"
 msgid "Default contact delegate. Just simple"
-msgstr ""
+msgstr "נציג איש קשר ברירת מחדל. פשוט כך"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:59
 msgctxt "Plugin|"
 msgid "Adium service icons"
-msgstr ""
+msgstr "צלמיות שירות Adium"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:60
 msgctxt "Plugin|"
@@ -2296,13 +2296,13 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:62
 msgctxt "Plugin|"
 msgid "Store passwords in plaintext. Easy to read. Easy to recover."
-msgstr ""
+msgstr "אחסן סיסמאות בטקסט גלוי. קל לקריאה. קל להחזרה."
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:63
 #: ../../../core/__data_from_cmakelists_txt.cpp:64
 msgctxt "Plugin|"
 msgid "Notification filter"
-msgstr ""
+msgstr "מסנן התראה"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:65
 msgctxt "Plugin|"
@@ -2374,7 +2374,7 @@ msgstr "דו שיח סיסמה פשוט"
 #: ../../../core/__data_from_cmakelists_txt.cpp:78
 msgctxt "Plugin|"
 msgid "Default qutIM password dialog"
-msgstr ""
+msgstr "דו שיח סיסמה qutIM ברירת מחדל"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:79
 msgctxt "Plugin|"
@@ -2416,7 +2416,7 @@ msgstr "המחשה משתמטת של טוען צלמית qutIM. מבוססת ע�
 #: ../../../core/__data_from_cmakelists_txt.cpp:87
 msgctxt "Plugin|"
 msgid "Simple roster storage"
-msgstr ""
+msgstr "אחסון רשימה פשוט"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:88
 msgctxt "Plugin|"
@@ -2526,7 +2526,7 @@ msgstr "דו שיח הוסף איש קשר פשוט"
 #: ../../../core/src/corelayers/adiumchat/chatlayer/chatlayerplugin.cpp:85
 msgctxt "Plugin|"
 msgid "Webkit chat layer"
-msgstr ""
+msgstr "שכבת שיחה Webkit"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:108
 #: ../../../core/__data_from_cmakelists_txt.cpp:116
@@ -2558,24 +2558,24 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:113
 msgctxt "Plugin|"
 msgid "Text view"
-msgstr ""
+msgstr "תצוגת טקסט"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:114
 msgctxt "Plugin|"
 msgid "Fast and light chat view"
-msgstr ""
+msgstr "תצוגת טקסט מהירה וקלילה"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:117
 #: ../../../core/__data_from_cmakelists_txt.cpp:121
 msgctxt "Plugin|"
 msgid "Core"
-msgstr ""
+msgstr "ליבה"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:119
 #: ../../../core/__data_from_cmakelists_txt.cpp:123
 msgctxt "Plugin|"
 msgid "Core Devel"
-msgstr ""
+msgstr "מפתח ליבה"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:120
 #: ../../../core/__data_from_cmakelists_txt.cpp:124
@@ -2606,7 +2606,7 @@ msgstr "דו שיח הגדרות פשוט"
 #: ../../../core/examples/simplesettingsdialog/settingslayerimpl.cpp:32
 msgctxt "Plugin|"
 msgid "SDK03 example"
-msgstr ""
+msgstr "דוגמת SDK03"
 
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:14
 msgctxt "Plugin|"
@@ -2635,12 +2635,12 @@ msgstr ""
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:51
 msgctxt "Plugin|"
 msgid "Contact list model"
-msgstr ""
+msgstr "מודל רשימת קשר"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:44
 msgctxt "Plugin|"
 msgid "Full-featured contact list model"
-msgstr ""
+msgstr "מודל רשימת קשר רב תכליתי"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:46
 msgctxt "Plugin|"
@@ -2772,7 +2772,7 @@ msgstr "מדור נתונים:"
 #: ../../../core/src/widgets/profilecreationpage.ui:162
 msgctxt "ProfileCreationPage|"
 msgid "Choose cryptograhic module:"
-msgstr ""
+msgstr "בחר מודול כתב סתרים:"
 
 #: ../../../core/src/widgets/profilecreationpage.ui:182
 msgctxt "ProfileCreationPage|"
@@ -2915,49 +2915,49 @@ msgstr "qutIM שוגר"
 #, qt-format
 msgctxt "QObject|"
 msgid "Blocked message from %1"
-msgstr ""
+msgstr "הודעה חסומה מן %1"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:61
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 has joined"
-msgstr ""
+msgstr "%1 נכנס/ה"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:64
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 is online"
-msgstr ""
+msgstr "%1 מחובר/ת"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:67
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 has left"
-msgstr ""
+msgstr "%1 עזב/ה"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:70
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 is offline"
-msgstr ""
+msgstr "%1 מנותק/ת"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:73
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 has changed status to %2"
-msgstr ""
+msgstr "המצב של %1 שונה אל %2"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:76
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 has birthday today!!"
-msgstr ""
+msgstr "ל%1 יש יום הולדת היום!!"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:79
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 is typing"
-msgstr ""
+msgstr "%1 מלחין כעת"
 
 #: ../../../core/src/corelayers/notificationfilter/notificationfilter.cpp:82
 #, qt-format
@@ -3009,7 +3009,7 @@ msgstr ""
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:105
 msgctxt "QxtCommandOptions|"
 msgid "use right-to-left layout"
-msgstr ""
+msgstr "השתמש במערך ימין-אל-שמאל"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:107
 msgctxt "QxtCommandOptions|"
@@ -3147,7 +3147,7 @@ msgstr "פרמטרים לא מוכרים: "
 #, qt-format
 msgctxt "QxtCommandOptions|"
 msgid "%1 requires a parameter"
-msgstr ""
+msgstr "%1 מצריך פרמטר"
 
 #: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:52
 #: ../../../core/src/corelayers/searchdialog/mobileform/mobilesearchform.cpp:148
@@ -3422,7 +3422,7 @@ msgstr ""
 #: ../../../core/examples/autosettingsitem/autosettings.cpp:43
 msgctxt "Settings|"
 msgid "Check"
-msgstr ""
+msgstr "בדוק"
 
 #: ../../../core/libqutim/settingslayer.cpp:346
 msgctxt "Settings|"
@@ -3665,7 +3665,7 @@ msgstr ""
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:51
 msgctxt "SimpleContactlistSettings|"
 msgid "Lite group headers"
-msgstr ""
+msgstr "תקורות קבוצה רזות"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/settings/simplecontactlistsettings.ui:58
 msgctxt "SimpleContactlistSettings|"
@@ -3681,7 +3681,7 @@ msgstr "בקשת סיסמה"
 #, qt-format
 msgctxt "SimplePasswordWidget|"
 msgid "Enter password for account %1 (%2):"
-msgstr ""
+msgstr "הזן סיסמה עבור חשבון %1 (%2):"
 
 #: ../../../core/src/corelayers/password/simplepasswordwidget.ui:27
 msgctxt "SimplePasswordWidget|"
@@ -3897,7 +3897,7 @@ msgstr ""
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:63
 msgctxt "TabbedChatBehavior|"
 msgid "Don't group messages after (sec):"
-msgstr ""
+msgstr "אל תקבץ הודעות כעבור (שניות):"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:77
 msgctxt "TabbedChatBehavior|"
@@ -4013,7 +4013,7 @@ msgstr "בוטל"
 #: ../../../core/libqutim/filetransfer.cpp:363
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
 msgid "Not supported"
-msgstr ""
+msgstr "לא נתמכת"
 
 #: ../../../core/libqutim/filetransfer.cpp:365
 msgctxt "qutim_sdk_0_3::FileTransferJob|"
@@ -4027,6 +4027,8 @@ msgid ""
 "Could not init plugin: \n"
 " %1"
 msgstr ""
+"אין אפשרות לאתחל תוספת: \n"
+" %1"
 
 #: ../../../core/libqutim/profile.cpp:247
 msgctxt "qutim_sdk_0_3::Profile|"
@@ -4036,7 +4038,7 @@ msgstr "סיסמה אינה תואמת."
 #: ../../../core/libqutim/profile.cpp:249
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Crypto service is unknown."
-msgstr ""
+msgstr "שירות כתב סתרים אינו מוכר."
 
 #: ../../../core/libqutim/profile.cpp:251
 msgctxt "qutim_sdk_0_3::Profile|"

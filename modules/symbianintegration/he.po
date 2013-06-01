@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-05-20 07:15+0000\n"
+"PO-Revision-Date: 2013-05-31 12:57+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-21 05:03+0000\n"
-"X-Generator: Launchpad (build 16626)\n"
+"X-Launchpad-Export-Date: 2013-06-01 05:37+0000\n"
+"X-Generator: Launchpad (build 16660)\n"
 
 #: ../../../plugins/symbianintegration/symbianchatform/stackedchatwidget.cpp:83
 msgctxt "ChatWidget|"
@@ -74,17 +74,17 @@ msgstr ""
 #: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:4
 msgctxt "Plugin|"
 msgid "Symbian specific qutIM contactlist widget implementation"
-msgstr ""
+msgstr "המחשה של וידג׳ט רשימת קשר qutIM סגולית עבור Symbian"
 
 #: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:5
 msgctxt "Plugin|"
 msgid "Symbian Vibration Support"
-msgstr ""
+msgstr "תמיכת רטט Symbian"
 
 #: ../../../plugins/symbianintegration/__data_from_cmakelists_txt.cpp:6
 msgctxt "Plugin|"
 msgid "Notifies about different events by vibration of your mobile device"
-msgstr ""
+msgstr "מתריעה אודות אירועים שונים על ידי ריטוט של מכשירך הנייד"
 
 #: ../../../plugins/symbianintegration/symbianchatform/stackedchatform.cpp:47
 msgctxt "Settings|"
@@ -119,7 +119,7 @@ msgstr "אל תקבץ הודעות כעבור (שניות):"
 #: ../../../plugins/symbianintegration/symbianchatform/settings/stackedchatbehavior.ui:90
 msgctxt "StackedChatBehavior|"
 msgid "Notifications in active chat"
-msgstr ""
+msgstr "התראות בשיחות פעילות"
 
 #: ../../../plugins/symbianintegration/symbianvibra/symbianvibration.cpp:36
 msgctxt "Symbian::Vibration|"
