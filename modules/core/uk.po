@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-02-15 20:51+0000\n"
-"Last-Translator: ma$terok <Unknown>\n"
+"PO-Revision-Date: 2013-07-11 20:12+0000\n"
+"Last-Translator: Max_ym <kontact.cat@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-16 05:15+0000\n"
-"X-Generator: Launchpad (build 16491)\n"
+"X-Launchpad-Export-Date: 2013-07-12 06:21+0000\n"
+"X-Generator: Launchpad (build 16696)\n"
 "X-Qt-Contexts: true\n"
 "Language: uk\n"
 
@@ -83,12 +83,12 @@ msgstr "Тільки текст"
 #: ../../../core/libqutim/actiontoolbar.cpp:89
 msgctxt "ActionToolBar|"
 msgid "The text appears beside the icon"
-msgstr "Текст поруч іконки"
+msgstr "Текст з’являється поруч з іконкою"
 
 #: ../../../core/libqutim/actiontoolbar.cpp:91
 msgctxt "ActionToolBar|"
 msgid "The text appears under the icon"
-msgstr "Текст під іконкою"
+msgstr "Текст з’являється під іконкою"
 
 #: ../../../core/libqutim/actiontoolbar.cpp:93
 msgctxt "ActionToolBar|"
@@ -228,17 +228,17 @@ msgstr "Закрити чат"
 #: ../../../core/src/corelayers/adiumchat/lib/chatlayerimpl.cpp:62
 msgctxt "ChatLayer|"
 msgid "ChatWidget"
-msgstr "Вікно чату"
+msgstr "Віджет чату"
 
 #: ../../../core/src/corelayers/adiumchat/lib/chatlayerimpl.cpp:56
 msgctxt "ChatLayer|"
 msgid "Next chat"
-msgstr "Наступне"
+msgstr "Наступний чат"
 
 #: ../../../core/src/corelayers/adiumchat/lib/chatlayerimpl.cpp:61
 msgctxt "ChatLayer|"
 msgid "Previous chat"
-msgstr "Попередне"
+msgstr "Попередній чат"
 
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:88
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:93
@@ -297,12 +297,12 @@ msgstr "Про %1 <%2>"
 #: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:159
 msgctxt "ContactInfo|"
 msgid "Summary"
-msgstr "Зведена інформація"
+msgstr "Підсумок"
 
 #: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:174
 msgctxt "ContactInfo|"
 msgid "General"
-msgstr "Загальні"
+msgstr "Головне"
 
 #: ../../../core/src/corelayers/contactinfo/contactinfo.cpp:222
 msgctxt "ContactInfo|"
@@ -317,7 +317,7 @@ msgstr "Ні"
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:111
 msgctxt "ContactInfo|"
 msgid "Information unavailable"
-msgstr "Інформація не доступна"
+msgstr "Інформація недоступна"
 
 #: ../../../core/src/corelayers/simpleactions/src/simpleactions.cpp:219
 msgctxt "ContactInfo|"
@@ -534,12 +534,12 @@ msgstr "Видалити"
 #: ../../../core/src/corelayers/filetransfer/filetransferdialog.cpp:62
 msgctxt "Core::ActionWidget|"
 msgid "Remove the task"
-msgstr "Вилучити завдання"
+msgstr "Видалити завдання"
 
 #: ../../../core/src/corelayers/addcontactdlg/addcontact.cpp:134
 msgctxt "Core::AddContact|"
 msgid "Start chat"
-msgstr "Розпочати чат"
+msgstr "Розпочати співбесіду"
 
 #: ../../../core/src/corelayers/addcontactdlg/addcontact.cpp:138
 msgctxt "Core::AddContact|"
@@ -556,14 +556,14 @@ msgstr "Обліковий запис має бути в мережі"
 #, qt-format
 msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "Chat with %1 (have %2 unread messages)"
-msgstr "Розмова %1 (%2 не прочитаних повідомлень)"
+msgstr "Розмова %1 (%2 непрочитаних повідомлень)"
 
 #: ../../../core/src/corelayers/adiumchat/lib/abstractchatwidget.cpp:69
 #: ../../../core/src/corelayers/adiumchat/lib/abstractchatwidget.cpp:96
 #, qt-format
 msgctxt "Core::AdiumChat::AbstractChatWidget|"
 msgid "Chat with %1"
-msgstr "Розмовляти з %1"
+msgstr "Співбесіда з %1"
 
 #: ../../../core/src/corelayers/adiumchat/lib/abstractchatwidget.cpp:73
 #: ../../../core/src/corelayers/adiumchat/lib/abstractchatwidget.cpp:99
@@ -707,7 +707,7 @@ msgstr "Облікові запи&си"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:255
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
 msgid "&Chat"
-msgstr "&Розмова"
+msgstr "Співбесіда"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:263
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
@@ -2483,13 +2483,13 @@ msgstr "Типове налаштування сповіщень"
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:10
 msgctxt "Plugin|"
 msgid "Contact comparators"
-msgstr ""
+msgstr "Аналізатори контактів"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:96
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:11
 msgctxt "Plugin|"
 msgid "Default qutIM contacts comparators collection"
-msgstr ""
+msgstr "Стандарта колекція аналізаторів контактів qutIM"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:97
 msgctxt "Plugin|"
@@ -2637,22 +2637,22 @@ msgstr "Приклад SDK03"
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:14
 msgctxt "Plugin|"
 msgid "Status comparator"
-msgstr ""
+msgstr "Аналізатор статусу"
 
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:15
 msgctxt "Plugin|"
 msgid "Default contacts comparator, which sort by status"
-msgstr ""
+msgstr "Стандартний аналізатор контактів, який сортирує за статусом"
 
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:16
 msgctxt "Plugin|"
 msgid "Last activity comparator"
-msgstr ""
+msgstr "Аналізатор останньої активності"
 
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:17
 msgctxt "Plugin|"
 msgid "Contacts comparator, which sort by last last activity"
-msgstr ""
+msgstr "Аналізатор контактів, який сортирує за останньою активністю"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:43
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:45
@@ -2666,7 +2666,7 @@ msgstr "Стиль списку контактів"
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:44
 msgctxt "Plugin|"
 msgid "Full-featured contact list model"
-msgstr ""
+msgstr "Повнофункциональна модель списку контактів"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:46
 msgctxt "Plugin|"
@@ -3257,7 +3257,7 @@ msgstr ""
 #: ../../../core/__generated_from_service_names.cpp:14
 msgctxt "Service|"
 msgid "ContactComparator"
-msgstr ""
+msgstr "Аналізатор контактів"
 
 #: ../../../core/__generated_from_service_names.cpp:15
 #: ../../../core/src/corelayers/simplecontactlist/contactlist/simplecontactlist.cpp:83
@@ -4052,13 +4052,13 @@ msgid ""
 "Could not init plugin: \n"
 " %1"
 msgstr ""
-"Не можу запустити плагін: \n"
-" %1"
+"Неможливо запустити плагін:\n"
+"%1"
 
 #: ../../../core/libqutim/profile.cpp:247
 msgctxt "qutim_sdk_0_3::Profile|"
 msgid "Password is mismatched."
-msgstr "Невірний пароль."
+msgstr "Пароль не співпадає"
 
 #: ../../../core/libqutim/profile.cpp:249
 msgctxt "qutim_sdk_0_3::Profile|"

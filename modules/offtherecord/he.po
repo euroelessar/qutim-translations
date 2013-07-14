@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-05-31 14:40+0000\n"
+"PO-Revision-Date: 2013-07-11 14:03+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-06-01 05:37+0000\n"
-"X-Generator: Launchpad (build 16660)\n"
+"X-Launchpad-Export-Date: 2013-07-12 06:22+0000\n"
+"X-Generator: Launchpad (build 16696)\n"
 
 #: ../../../plugins/offtherecord/src/otrcrypt.cpp:55
 msgctxt "OTRCrypt|"
@@ -106,17 +106,17 @@ msgstr "הודעת שאילתא OTR"
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:59
 msgctxt "OtrInternal|"
 msgid "OTR DH-Commit Message"
-msgstr ""
+msgstr "OTR הודעת DH-Commit"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:63
 msgctxt "OtrInternal|"
 msgid "OTR DH-Key Message"
-msgstr ""
+msgstr "OTR הודעת DH-Key"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:67
 msgctxt "OtrInternal|"
 msgid "OTR Reveal Signature Message"
-msgstr ""
+msgstr "OTR הודעת חשיפת חתימה"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:71
 msgctxt "OtrInternal|"
@@ -131,7 +131,7 @@ msgstr ""
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:79
 msgctxt "OtrInternal|"
 msgid "OTR Data Message"
-msgstr ""
+msgstr "OTR הודעת נתונים"
 
 #: ../../../plugins/offtherecord/src/otrinternal.cpp:83
 msgctxt "OtrInternal|"
@@ -474,7 +474,7 @@ msgstr "מצב OTR שונה. מצב חדש הינו [%1]"
 #: ../../../plugins/offtherecord/src/otrcrypt.cpp:179
 msgctxt "Plugin|"
 msgid "Off-the-Record Messaging"
-msgstr ""
+msgstr "מסרים Off-the-Record"
 
 #: ../../../plugins/offtherecord/__data_from_cmakelists_txt.cpp:2
 #: ../../../plugins/offtherecord/src/otrcrypt.cpp:180

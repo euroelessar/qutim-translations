@@ -8,19 +8,19 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-05-31 15:03+0000\n"
+"PO-Revision-Date: 2013-07-11 07:14+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-06-01 05:37+0000\n"
-"X-Generator: Launchpad (build 16660)\n"
+"X-Launchpad-Export-Date: 2013-07-12 06:22+0000\n"
+"X-Generator: Launchpad (build 16696)\n"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
 msgid "AddAccountForm"
-msgstr ""
+msgstr "טופסהוספתחשבון"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:25
 msgctxt "AddAccountForm|"
@@ -315,7 +315,7 @@ msgstr ""
 #: ../../../protocols/oscar/src/connection.cpp:356
 msgctxt "ConnectionError|"
 msgid "Reservation timeout"
-msgstr ""
+msgstr "אגירת זמן תפוגה"
 
 #: ../../../protocols/oscar/src/connection.cpp:358
 msgctxt "ConnectionError|"
@@ -892,7 +892,7 @@ msgstr "קוסטה ריקה"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:89
 msgctxt "Country|"
 msgid "Cote d'Ivoire (Ivory Coast)"
-msgstr ""
+msgstr "חוף השנהב"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:90
 msgctxt "Country|"
@@ -3684,12 +3684,12 @@ msgstr ""
 #: ../../../protocols/oscar/src/metainfo/abstractmetarequest.cpp:77
 msgctxt "qutim_sdk_0_3::oscar::AbstractMetaRequest|"
 msgid "The metarequest cancelled by user"
-msgstr ""
+msgstr "הבקשה המוצמדת (metarequest) בוטלה על ידי משתמש"
 
 #: ../../../protocols/oscar/src/metainfo/abstractmetarequest.cpp:82
 msgctxt "qutim_sdk_0_3::oscar::AbstractMetaRequest|"
 msgid "The server did not answer on the metarequest"
-msgstr ""
+msgstr "השרת לא ענה על הבקשה המוצמדת (metarequest)"
 
 #: ../../../protocols/oscar/src/authorization.cpp:74
 msgctxt "qutim_sdk_0_3::oscar::Authorization|"
@@ -3715,7 +3715,7 @@ msgstr "הצג צלמית לקוח"
 #: ../../../protocols/oscar/src/metainfo/infometarequest.cpp:292
 msgctxt "qutim_sdk_0_3::oscar::FullInfoMetaRequest|"
 msgid "Incorrect format of the metarequest"
-msgstr ""
+msgstr "פורמט לא מדויק של הבקשה המוצמדת (metarequest)"
 
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.cpp:54
 msgctxt "qutim_sdk_0_3::oscar::IcqAccountMainSettings|"
@@ -3751,7 +3751,7 @@ msgstr "לא נמצאו כתובות IP עבור המארח '%1'"
 #: ../../../protocols/oscar/src/metainfo/metainfo.cpp:78
 msgctxt "qutim_sdk_0_3::oscar::MetaInfo|"
 msgid "Incorrect format of the metarequest"
-msgstr ""
+msgstr "פורמט לא מדויק של הבקשה המוצמדת (metarequest)"
 
 #: ../../../protocols/oscar/src/oscarfiletransfer.cpp:871
 #, qt-format
@@ -3812,7 +3812,7 @@ msgstr ""
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:438
 msgctxt "qutim_sdk_0_3::oscar::XStatusHandler|"
 msgid "Show contact X-Status icon"
-msgstr ""
+msgstr "הצג צלמית X-Status של איש קשר"
 
 #: ../../../protocols/oscar/plugins/xstatus/xstatussettings.cpp:39
 msgctxt "qutim_sdk_0_3::oscar::XStatusSettings|"
