@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-05-31 14:33+0000\n"
+"PO-Revision-Date: 2013-07-12 16:13+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Rahut\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-06-01 05:37+0000\n"
-"X-Generator: Launchpad (build 16660)\n"
+"X-Launchpad-Export-Date: 2013-07-13 06:27+0000\n"
+"X-Generator: Launchpad (build 16696)\n"
 
 #: ../../../core/libqutim/account.cpp:144
 msgctxt "Account|"
@@ -453,7 +453,7 @@ msgstr "סגנון qutIM 0.2"
 #: ../../../core/src/corelayers/contactmodel/src/contactlistbasemodel.cpp:43
 msgctxt "ContactListBaseModel|"
 msgid "Blink icon in the contact list"
-msgstr "הבהב צלמית ברשימת קשר"
+msgstr "הבהב צלמית בתוך רשימת הקשר"
 
 #: ../../../core/src/corelayers/contactmodel/src/contactlistbasemodel.cpp:623
 msgctxt "ContactListBaseModel|"
@@ -661,7 +661,7 @@ msgstr "קלאסי"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.cpp:55
 msgctxt "Core::AdiumChat::TabbedChatBehavior|"
 msgid "Adium-like"
-msgstr ""
+msgstr "דמוי-Adium"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/tabbedchatwidget.cpp:72
 msgctxt "Core::AdiumChat::TabbedChatWidget|"
@@ -1310,7 +1310,7 @@ msgstr "ערוך תגיות עבור %1"
 #: ../../../core/src/corelayers/trayicon/simpletray.cpp:87
 msgctxt "Core::SimpleTray|"
 msgid "Blink icon in the tray"
-msgstr ""
+msgstr "הבהב צלמית בתוך המגש"
 
 #: ../../../core/src/widgets/submitpage.cpp:50
 msgctxt "Core::SubmitPage|"
@@ -1561,7 +1561,7 @@ msgstr "סימניות"
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:131
 msgctxt "JoinChat|"
 msgid "Request last "
-msgstr ""
+msgstr "בקש אחרונה "
 
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:151
 msgctxt "JoinChat|"
@@ -1571,7 +1571,7 @@ msgstr "הודעות"
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:181
 msgctxt "JoinChat|"
 msgid "Request messages since the datetime"
-msgstr ""
+msgstr "בקש הודעות מאז תאריך זמן"
 
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:188
 msgctxt "JoinChat|"
@@ -1581,7 +1581,7 @@ msgstr ""
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.ui:218
 msgctxt "JoinChat|"
 msgid "Request messages since"
-msgstr ""
+msgstr "בקש הודעות מאז"
 
 #: ../../../core/src/corelayers/joinchatdialog/joinchatdialog.cpp:43
 msgctxt "JoinChatDialog|"
@@ -2031,29 +2031,29 @@ msgstr "המחשה משתמטת של סמל מגש מערכת qutIM"
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:40
 msgctxt "Plugin|"
 msgid "Contact list model set"
-msgstr ""
+msgstr "מערך מודל רשימת קשר"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:10
 #: ../../../core/src/corelayers/contactmodel/src/contactmodelplugin.cpp:41
 msgctxt "Plugin|"
 msgid "Full-featured contact list model set"
-msgstr ""
+msgstr "מערך מודל רשימת קשר רב-תכליתי"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:11
 msgctxt "Plugin|"
 msgid "Idle detector"
-msgstr ""
+msgstr "גלאי עצלות"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:12
 msgctxt "Plugin|"
 msgid "Native idle detector, based on system api"
-msgstr ""
+msgstr "גלאי עצלות טבעי, מבוסס על api מערכת"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:13
 #: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:36
 msgctxt "Plugin|"
 msgid "Authorization dialog"
-msgstr ""
+msgstr "דו שיח הרשאה"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:14
 #: ../../../core/src/corelayers/authdialog/authdialogplugin.cpp:37
@@ -2074,17 +2074,17 @@ msgstr "המחשה משתמטת של חלון המידע qutIM"
 #: ../../../core/__data_from_cmakelists_txt.cpp:17
 msgctxt "Plugin|"
 msgid "Mobile conference join dialog"
-msgstr ""
+msgstr "נייד דו שיח הצטרפות אל ועידה"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:18
 msgctxt "Plugin|"
 msgid "Conference join dialog adopted for touch devices with small screen"
-msgstr ""
+msgstr "דו שיח הצטרפות אל ועידה מסוגל עבור מכשירי touch עם מסך קטן"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:19
 msgctxt "Plugin|"
 msgid "Mobile Settings dialog"
-msgstr ""
+msgstr "נייד דו שיח הגדרות"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:20
 msgctxt "Plugin|"
@@ -2094,7 +2094,7 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:21
 msgctxt "Plugin|"
 msgid "Mobile information window about a contact"
-msgstr ""
+msgstr "נייד חלון מידע אודות איש קשר"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:22
 msgctxt "Plugin|"
@@ -2110,7 +2110,7 @@ msgstr "היסטוריית Json"
 msgctxt "Plugin|"
 msgid ""
 "Default qutIM history implementation, based on JavaScript Object Notation"
-msgstr ""
+msgstr "המחשה משתמטת של היסטוריית qutIM, מבוססת על JavaScript Object Notation"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:25
 msgctxt "Plugin|"
@@ -2125,12 +2125,12 @@ msgstr "המחשה של תצורת qutIM עבור plists של Apple"
 #: ../../../core/__data_from_cmakelists_txt.cpp:27
 msgctxt "Plugin|"
 msgid "Mobile notifications settings"
-msgstr ""
+msgstr "נייד הגדרות התראות"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:28
 msgctxt "Plugin|"
 msgid "Mobile settings widget set for notifications"
-msgstr ""
+msgstr "נייד מערך הגדרות וידג׳ט עבור התראות"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:29
 msgctxt "Plugin|"
@@ -2152,7 +2152,7 @@ msgstr "התאמת שפה"
 #: ../../../core/src/corelayers/localization/localizationplugin.cpp:40
 msgctxt "Plugin|"
 msgid "Default qutIM localization engine"
-msgstr ""
+msgstr "מנוע מקומיות משתמט qutIM"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:33
 msgctxt "Plugin|"
@@ -2162,7 +2162,7 @@ msgstr "הגדרות רגשונים"
 #: ../../../core/__data_from_cmakelists_txt.cpp:34
 msgctxt "Plugin|"
 msgid "Default settings widget set for emoticons"
-msgstr ""
+msgstr "מערך הגדרות וידג׳ט משתמטות עבור רגשונים"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:35
 msgctxt "Plugin|"
@@ -2172,7 +2172,7 @@ msgstr "הגדרות העברת קובץ"
 #: ../../../core/__data_from_cmakelists_txt.cpp:36
 msgctxt "Plugin|"
 msgid "Default implementation of the file transfer settings widget"
-msgstr ""
+msgstr "המחשה משתמטת של וידג׳ט הגדרות העברת קובץ"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:37
 msgctxt "Plugin|"
@@ -2182,19 +2182,19 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:38
 msgctxt "Plugin|"
 msgid "Simple actionbox module"
-msgstr ""
+msgstr "מודול תיבת פעולה פשוט"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:39
 #: ../../../core/__data_from_cmakelists_txt.cpp:41
 msgctxt "Plugin|"
 msgid "Qt Kinetic scroller"
-msgstr ""
+msgstr "גולל Qt Kinetic"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:40
 #: ../../../core/__data_from_cmakelists_txt.cpp:42
 msgctxt "Plugin|"
 msgid "Kinetic scroller from upcoming Qt release"
-msgstr ""
+msgstr "גולל קינטי משחרור Qt הקרוב"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:43
 msgctxt "Plugin|"
@@ -2224,12 +2224,12 @@ msgstr "אנשי־קשר-מוצמדים פשוטים"
 #: ../../../core/__data_from_cmakelists_txt.cpp:48
 msgctxt "Plugin|"
 msgid "Default qutIM MetaContacts implementation"
-msgstr ""
+msgstr "המחשה משתמטת של אנשי קשר מוצמדים qutIM"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:49
 msgctxt "Plugin|"
 msgid "Mirgation 0.2 to 0.3"
-msgstr ""
+msgstr "הגירה 0.2 אל 0.3"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:50
 msgctxt "Plugin|"
@@ -2245,17 +2245,17 @@ msgstr "פשוט"
 msgctxt "Plugin|"
 msgid ""
 "Default qutIM contactlist widget implementation with global status button"
-msgstr ""
+msgstr "המחשה משתמטת של וידג׳ט אנשי קשר qutIM עם לחצן מצב גלובלי"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:53
 msgctxt "Plugin|"
 msgid "Tory Contactlist"
-msgstr ""
+msgstr "רשימת קשר Tory"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:54
 msgctxt "Plugin|"
 msgid "Tory contactlist"
-msgstr ""
+msgstr "רשימת קשר Tory"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:55
 msgctxt "Plugin|"
@@ -2331,7 +2331,7 @@ msgstr "מגשר עורפי התראות שיחה"
 #: ../../../core/__data_from_cmakelists_txt.cpp:70
 msgctxt "Plugin|"
 msgid "Prints information about events into chats"
-msgstr ""
+msgstr "מדפיסה מידע אודות אירועים אל תוך שיחות"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:71
 msgctxt "Plugin|"
@@ -2348,12 +2348,12 @@ msgstr ""
 #: ../../../core/__data_from_cmakelists_txt.cpp:73
 msgctxt "Plugin|"
 msgid "Mobile about dialog"
-msgstr ""
+msgstr "נייד דו שיח אודות"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:74
 msgctxt "Plugin|"
 msgid "Mobile dialog about qutIM and it's authors"
-msgstr ""
+msgstr "דו שיח נייד אודות qutIM ומחבריו"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:75
 msgctxt "Plugin|"
@@ -2395,7 +2395,7 @@ msgstr "פעולות פשוטות"
 #: ../../../core/src/corelayers/simpleactions/src/simpleactionsplugin.cpp:41
 msgctxt "Plugin|"
 msgid "Default actionset for contacts"
-msgstr ""
+msgstr "מערך פעולה משתמט עבור אנשי קשר"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:83
 msgctxt "Plugin|"
@@ -2405,7 +2405,7 @@ msgstr "הגדרות קיצור דרך"
 #: ../../../core/__data_from_cmakelists_txt.cpp:85
 msgctxt "Plugin|"
 msgid "Xdg Icon Loader"
-msgstr ""
+msgstr "טוען צלמית Xdg"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:86
 msgctxt "Plugin|"
@@ -2452,7 +2452,7 @@ msgstr "הגדרות התראות"
 #: ../../../core/__data_from_cmakelists_txt.cpp:94
 msgctxt "Plugin|"
 msgid "Default settings widget set for notifications"
-msgstr ""
+msgstr "וידג׳ט מערך הגדרות משתמטות עבור התראות"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:95
 #: ../../../core/src/corelayers/comparators/contactcomparators.cpp:10
@@ -2474,7 +2474,7 @@ msgstr "מוטיב צליל qutIM"
 #: ../../../core/__data_from_cmakelists_txt.cpp:98
 msgctxt "Plugin|"
 msgid "Default qutIM sound theme engine"
-msgstr ""
+msgstr "מנוע מוטיב צליל qutIM משתמט"
 
 #: ../../../core/__data_from_cmakelists_txt.cpp:99
 msgctxt "Plugin|"
@@ -2664,32 +2664,32 @@ msgstr "הצג חשבונות, תגיות ואנשי קשר"
 #: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:43
 msgctxt "Plugin|"
 msgid "Kinetic scrolling"
-msgstr ""
+msgstr "גלילה קינטית"
 
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:45
 msgctxt "Plugin|"
 msgid "Desktop Search Form"
-msgstr ""
+msgstr "טופס חיפוש שולחן עבודה"
 
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:46
 msgctxt "Plugin|"
 msgid "Default search form optimized for Desktop systems"
-msgstr ""
+msgstr "טופס חיפוש משתמט המיועל עבור שולחן עבודה"
 
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:48
 msgctxt "Plugin|"
 msgid "Mobile Search Form"
-msgstr ""
+msgstr "נייד טופס חיפוש"
 
 #: ../../../core/src/corelayers/searchdialog/searchdialogplugin.cpp:49
 msgctxt "Plugin|"
 msgid "Search form optimized for Mobile systems"
-msgstr ""
+msgstr "טופס חיפוש מיועל עבור מערכות ניידות"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:91
 msgctxt "Plugin|"
 msgid "ContactDelegate"
-msgstr ""
+msgstr "ציר איש קשר"
 
 #: ../../../core/src/corelayers/simplecontactlist/simplecontactdelegate/contactdelegate.cpp:92
 msgctxt "Plugin|"
@@ -3003,7 +3003,7 @@ msgstr ""
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:104
 msgctxt "QxtCommandOptions|"
 msgid "displays debugging information about widgets"
-msgstr ""
+msgstr "הצגת מידע debugging אודות וידג׳טים"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:105
 msgctxt "QxtCommandOptions|"
@@ -3013,17 +3013,17 @@ msgstr "השתמש במערך ימין-אל-שמאל"
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:107
 msgctxt "QxtCommandOptions|"
 msgid "never grab the mouse or keyboard"
-msgstr ""
+msgstr "אל תתפוס עכבר או מקלדת"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:110
 msgctxt "QxtCommandOptions|"
 msgid "grab the mouse/keyboard even in a debugger"
-msgstr ""
+msgstr "תפוס עכבר/מקלדת אפילו בעת debugger"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:111
 msgctxt "QxtCommandOptions|"
 msgid "run in synchronous mode for debugging"
-msgstr ""
+msgstr "הרץ באופן סינכרוני עבור debugging"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:114
 msgctxt "QxtCommandOptions|"
@@ -3033,12 +3033,12 @@ msgstr ""
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:117
 msgctxt "QxtCommandOptions|"
 msgid "sets the X11 display"
-msgstr ""
+msgstr "מגדירה את תצוגת X11"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:118
 msgctxt "QxtCommandOptions|"
 msgid "sets the geometry of the first window"
-msgstr ""
+msgstr "מגדירה את הגאומטריה של החלון הראשון"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:120
 msgctxt "QxtCommandOptions|"
@@ -3073,17 +3073,17 @@ msgstr "מגדירה את כותרת היישום"
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:129
 msgctxt "QxtCommandOptions|"
 msgid "sets the X11 visual type"
-msgstr ""
+msgstr "מגדירה את הטיפוס החזותי של X11"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:130
 msgctxt "QxtCommandOptions|"
 msgid "limit the number of colors on an 8-bit display"
-msgstr ""
+msgstr "הגבל את מספר הצבעים על תצוגה של 8-bit"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:131
 msgctxt "QxtCommandOptions|"
 msgid "use a private color map"
-msgstr ""
+msgstr "השתמש במפת צבעים פרטית"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:132
 msgctxt "QxtCommandOptions|"
@@ -3105,7 +3105,7 @@ msgstr ""
 #, qt-format
 msgctxt "QxtCommandOptions|"
 msgid "option \"%1\" not found"
-msgstr ""
+msgstr "אפשרות \"%1\" לא נמצאה"
 
 #: ../../../core/3rdparty/qxt/qxtcommandoptions.cpp:384
 msgctxt "QxtCommandOptions|"
@@ -3488,7 +3488,7 @@ msgstr "העברת קובץ"
 #: ../../../core/src/corelayers/kineticscroller/kineticscroller.cpp:53
 msgctxt "Settings|"
 msgid "Scrolling type"
-msgstr ""
+msgstr "טיפוס גלילה"
 
 #: ../../../core/src/corelayers/localization/localizationmodule.cpp:47
 msgctxt "Settings|"
@@ -3740,7 +3740,7 @@ msgstr "הצג צלמית דואר במידה וישנן הודעות חדשות
 #: ../../../core/src/corelayers/trayicon/simpletraysettings.ui:75
 msgctxt "SimpletraySettings|"
 msgid "Blink icon"
-msgstr ""
+msgstr "הבהב צלמית"
 
 #: ../../../core/src/corelayers/soundthemeselector/soundthemeselector.cpp:68
 msgctxt "Sound|"
@@ -3786,12 +3786,12 @@ msgstr "אחסן הודעות שירות בהיסטוריה"
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:77
 msgctxt "StackedChatBehavior|"
 msgid "Number of previous messages shown in new chats"
-msgstr ""
+msgstr "מספר של הודעות קודמות המוצגות בשיחות חדשות"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:80
 msgctxt "StackedChatBehavior|"
 msgid "Number of shown previous messages:"
-msgstr ""
+msgstr "מספר של הודעות קודמות:"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/stackedchatform/settings/stackedchatbehavior.ui:90
 msgctxt "StackedChatBehavior|"
@@ -3886,12 +3886,12 @@ msgstr "אחסן הודעות שירות בהיסטוריה"
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:50
 msgctxt "TabbedChatBehavior|"
 msgid "Number of previous messages shown in new chats"
-msgstr ""
+msgstr "מספר של הודעות קודמות המוצגות בשיחות חדשות"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:53
 msgctxt "TabbedChatBehavior|"
 msgid "Number of shown previous messages:"
-msgstr ""
+msgstr "מספר של הודעות קודמות:"
 
 #: ../../../core/src/corelayers/adiumchat/chatforms/tabbedchatform/settings/tabbedchatbehavior.ui:63
 msgctxt "TabbedChatBehavior|"

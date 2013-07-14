@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2012-07-25 08:42+0000\n"
-"Last-Translator: Leonardo Corato <leocor@gmail.com>\n"
+"PO-Revision-Date: 2013-07-07 22:19+0000\n"
+"Last-Translator: Anthony Harrington <untaintableangel@ubuntu.com>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
-"Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-01-29 05:43+0000\n"
-"X-Generator: Launchpad (build 16451)\n"
+"X-Launchpad-Export-Date: 2013-07-08 05:42+0000\n"
+"X-Generator: Launchpad (build 16696)\n"
 "X-Qt-Contexts: true\n"
+"Language: en_GB\n"
 
 #: ../../../protocols/oscar/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
@@ -214,7 +214,7 @@ msgstr "Mismatch nick or password"
 #: ../../../protocols/oscar/src/connection.cpp:316
 msgctxt "ConnectionError|"
 msgid "Internal client error (bad input to authorizer)"
-msgstr "Internal client error (bad input to authorizer)"
+msgstr "Internal client error (bad input to authoriser)"
 
 #: ../../../protocols/oscar/src/connection.cpp:318
 msgctxt "ConnectionError|"
@@ -406,7 +406,7 @@ msgstr " (private)"
 #: ../../../protocols/oscar/src/inforequest.cpp:174
 msgctxt "ContactInfo|"
 msgid "Email"
-msgstr "Email"
+msgstr "E-mail"
 
 #: ../../../protocols/oscar/src/inforequest.cpp:184
 msgctxt "ContactInfo|"
@@ -517,27 +517,27 @@ msgstr "Cookie"
 #: ../../../protocols/oscar/src/authorization.cpp:45
 msgctxt "ContactList|"
 msgid "Reask authorization"
-msgstr "Reask authorization"
+msgstr "Re-ask for authorisation"
 
 #: ../../../protocols/oscar/src/authorization.cpp:46
 msgctxt "ContactList|"
 msgid "Ask authorization"
-msgstr "Ask authorization"
+msgstr "Ask for authorisation"
 
 #: ../../../protocols/oscar/src/authorization.cpp:105
 msgctxt "ContactList|"
 msgid "Authorization request accepted"
-msgstr "Authorization request accepted"
+msgstr "Authorisation request accepted"
 
 #: ../../../protocols/oscar/src/authorization.cpp:106
 msgctxt "ContactList|"
 msgid "Authorization request declined"
-msgstr "Authorization request declined"
+msgstr "Authorisation request declined"
 
 #: ../../../protocols/oscar/src/authorization.cpp:144
 msgctxt "ContactList|"
 msgid "Please, authorize me"
-msgstr "Please, authorize me"
+msgstr "Please, authorise me"
 
 #: ../../../protocols/oscar/src/icqcontact.cpp:379
 msgctxt "ContactList|"
@@ -612,7 +612,7 @@ msgstr "Last name"
 #: ../../../protocols/oscar/src/contactsearch.cpp:104
 msgctxt "ContactSearch|"
 msgid "Email"
-msgstr "Email"
+msgstr "E-mail"
 
 #: ../../../protocols/oscar/src/contactsearch.cpp:106
 msgctxt "ContactSearch|"
@@ -1847,7 +1847,7 @@ msgstr "Item you want to modify not found in list"
 #: ../../../protocols/oscar/src/feedbag.cpp:182
 msgctxt "FeedbagError|"
 msgid "Item you want to add allready exists"
-msgstr "Item you want to add allready exists"
+msgstr "Item you want to add already exists"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:184
 msgctxt "FeedbagError|"
@@ -1867,7 +1867,7 @@ msgstr "Trying to add ICQ contact to an AIM list"
 #: ../../../protocols/oscar/src/feedbag.cpp:190
 msgctxt "FeedbagError|"
 msgid "Can't add this contact because it requires authorization"
-msgstr "Can't add this contact because it requires authorization"
+msgstr "Can't add this contact because it requires authorisation"
 
 #: ../../../protocols/oscar/src/feedbag.cpp:192
 #, qt-format
@@ -1918,7 +1918,7 @@ msgstr "Port:"
 #: ../../../protocols/oscar/src/ui/icqaccountmainsettings.ui:106
 msgctxt "IcqAccountMainSettings|"
 msgid "Use SSL authorization (experimental)"
-msgstr "Use SSL authorization (experimental)"
+msgstr "Use SSL authorisation (experimental)"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:493
 msgctxt "Industry|"
@@ -1988,7 +1988,7 @@ msgstr "Medical & Health Care"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:506
 msgctxt "Industry|"
 msgid "Non-Profit Organization Management"
-msgstr "Non-Profit Organization Management"
+msgstr "Non-Profit Organisation Management"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:507
 msgctxt "Industry|"
@@ -2714,7 +2714,7 @@ msgstr "Last name"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:638
 msgctxt "MetaInfo|"
 msgid "Email"
-msgstr "Email"
+msgstr "E-mail"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:644
 msgctxt "MetaInfo|"
@@ -2729,7 +2729,7 @@ msgstr "GMT"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:648
 msgctxt "MetaInfo|"
 msgid "Authorization"
-msgstr "Authorization"
+msgstr "Authorisation"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:649
 msgctxt "MetaInfo|"
@@ -2744,7 +2744,7 @@ msgstr "Direct connection"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:651
 msgctxt "MetaInfo|"
 msgid "Public primary email"
-msgstr "Public primary email"
+msgstr "Public primary e-mail"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:652
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:678
@@ -2775,7 +2775,7 @@ msgstr "Languages"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:672
 msgctxt "MetaInfo|"
 msgid "Emails"
-msgstr "Emails"
+msgstr "E-mails"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:673
 msgctxt "MetaInfo|"
@@ -2830,7 +2830,7 @@ msgstr "Address"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:645
 msgctxt "MetaInfoHome|"
 msgid "Zip code"
-msgstr "Zip code"
+msgstr "Post Code"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:646
 msgctxt "MetaInfoHome|"
@@ -3005,7 +3005,7 @@ msgstr "Military"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:541
 msgctxt "Occupation|"
 msgid "Non-Government Organization"
-msgstr "Non-Government Organization"
+msgstr "Non-Government Organisation"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:542
 msgctxt "Occupation|"
@@ -3085,7 +3085,7 @@ msgstr "Past Work Place"
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:441
 msgctxt "Past|"
 msgid "Past Organization"
-msgstr "Past Organization"
+msgstr "Past Organisation"
 
 #: ../../../protocols/oscar/src/metainfo/metafields.cpp:442
 msgctxt "Past|"
@@ -3204,7 +3204,7 @@ msgstr "MetaInfo icq service"
 #: ../../../protocols/oscar/src/oscarplugin.cpp:89
 msgctxt "Plugin|"
 msgid "Oscar authorization support"
-msgstr "Oscar authorization support"
+msgstr "Oscar authorisation support"
 
 #: ../../../protocols/oscar/src/oscarplugin.cpp:92
 #: ../../../protocols/oscar/src/oscarplugin.cpp:93
@@ -3684,22 +3684,22 @@ msgstr "Sport"
 #: ../../../protocols/oscar/plugins/xstatus/xstatus.cpp:168
 msgctxt "XStatus|"
 msgid "In tansport"
-msgstr "In tansport"
+msgstr "In transport"
 
 #: ../../../protocols/oscar/src/metainfo/abstractmetarequest.cpp:77
 msgctxt "qutim_sdk_0_3::oscar::AbstractMetaRequest|"
 msgid "The metarequest cancelled by user"
-msgstr "The metarequest cancelled by user"
+msgstr "Meta-request was cancelled by user"
 
 #: ../../../protocols/oscar/src/metainfo/abstractmetarequest.cpp:82
 msgctxt "qutim_sdk_0_3::oscar::AbstractMetaRequest|"
 msgid "The server did not answer on the metarequest"
-msgstr "The server did not answer on the metarequest"
+msgstr "The server did not answer on the meta-request"
 
 #: ../../../protocols/oscar/src/authorization.cpp:74
 msgctxt "qutim_sdk_0_3::oscar::Authorization|"
 msgid "Grant authorization"
-msgstr "Grant authorization"
+msgstr "Grant authorisation"
 
 #: ../../../protocols/oscar/src/authorization.cpp:170
 msgctxt "qutim_sdk_0_3::oscar::Authorization|"

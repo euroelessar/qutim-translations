@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:34+0000\n"
-"PO-Revision-Date: 2013-02-05 08:11+0000\n"
+"PO-Revision-Date: 2013-07-11 14:18+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-06 05:32+0000\n"
-"X-Generator: Launchpad (build 16468)\n"
+"X-Launchpad-Export-Date: 2013-07-12 06:22+0000\n"
+"X-Generator: Launchpad (build 16696)\n"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.cpp:355
 msgctxt "Adium::WebViewAppearance|"
@@ -40,12 +40,12 @@ msgstr "הגדרות שיחה"
 #: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"
 msgid "Adium-like WebView"
-msgstr ""
+msgstr "תצוגת רשת דמוי-Adium"
 
 #: ../../../plugins/adiumwebview/__data_from_cmakelists_txt.cpp:2
 msgctxt "Plugin|"
 msgid "Well-look stylished view based on WebKit and Adium ideas"
-msgstr ""
+msgstr "תצוגה מהודרת עם מרה מיטבי המבוססת על האידיאה של WebKit וכן גם של Adium"
 
 #: ../../../plugins/adiumwebview/lib/old/webkitutils.cpp:121
 msgctxt "QObject|"
@@ -70,7 +70,7 @@ msgstr "רבעון רביעי"
 #: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:181
 msgctxt "QObject|"
 msgid "Normal"
-msgstr ""
+msgstr "רגיל"
 
 #: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:802
 msgctxt "QObject|"
@@ -80,7 +80,7 @@ msgstr ""
 #: ../../../plugins/adiumwebview/lib/webkitmessageviewstyle.cpp:1006
 msgctxt "QObject|"
 msgid "(Autoreply)"
-msgstr ""
+msgstr "(משוב אוטומטי)"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewfactory.cpp:40
 msgctxt "Settings|"
@@ -105,7 +105,7 @@ msgstr "צבע כינוי איש קשר"
 #: ../../../plugins/adiumwebview/__custom_json_from_styles.cpp:4
 msgctxt "Style|"
 msgid "My nick color"
-msgstr ""
+msgstr "צבע הכינוי שלי"
 
 #: ../../../plugins/adiumwebview/__custom_json_from_styles.cpp:5
 msgctxt "Style|"
@@ -115,7 +115,7 @@ msgstr "הצג אווטארים"
 #: ../../../plugins/adiumwebview/lib/old/widget.ui:14
 msgctxt "Widget|"
 msgid "Widget"
-msgstr ""
+msgstr "וידג׳ט"
 
 #: ../../../plugins/adiumwebview/lib/old/widget.ui:30
 msgctxt "Widget|"
@@ -135,7 +135,7 @@ msgstr ""
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:14
 msgctxt "chatAppearance|"
 msgid "Form"
-msgstr ""
+msgstr "טופס"
 
 #: ../../../plugins/adiumwebview/src/adiumwebviewappearance.ui:44
 msgctxt "chatAppearance|"
