@@ -16,6 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2013-02-13 04:59+0000\n"
 "X-Generator: Launchpad (build 16491)\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/massmessaging/src/messagingdialog.ui:14
 msgctxt "Dialog|"

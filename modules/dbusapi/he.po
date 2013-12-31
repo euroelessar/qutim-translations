@@ -16,6 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2013-01-30 04:51+0000\n"
 "X-Generator: Launchpad (build 16455)\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/dbusapi/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/dbusapi/src/dbusplugin.cpp:151

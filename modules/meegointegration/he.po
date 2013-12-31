@@ -17,6 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Launchpad-Export-Date: 2013-07-12 06:21+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/meegointegration/meegoapplicationwindow/declarative/meego/AboutDialog.qml:31
 msgctxt "AboutDialog|"

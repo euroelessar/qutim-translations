@@ -16,6 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2013-07-11 05:30+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/control/src/quickanswerbuttonaction.cpp:42
 msgctxt "Control|"

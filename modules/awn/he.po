@@ -16,6 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2013-02-07 05:16+0000\n"
 "X-Generator: Launchpad (build 16477)\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/awn/src/awnservice.cpp:282
 msgctxt "AWNService|"

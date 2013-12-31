@@ -17,6 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Launchpad-Export-Date: 2013-02-07 05:16+0000\n"
 "X-Generator: Launchpad (build 16477)\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/birthdayreminder/src/birthdayreminder.cpp:269
 #, qt-format

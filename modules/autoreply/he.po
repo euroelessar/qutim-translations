@@ -16,6 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2013-01-30 04:52+0000\n"
 "X-Generator: Launchpad (build 16455)\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/autoreply/src/autoreplyplugin.cpp:36
 msgctxt "AutoReply|"

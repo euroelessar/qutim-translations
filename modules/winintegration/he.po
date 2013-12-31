@@ -17,6 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Launchpad-Export-Date: 2013-05-31 06:13+0000\n"
 "X-Generator: Launchpad (build 16660)\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/winintegration/__data_from_cmakelists_txt.cpp:1
 msgctxt "Plugin|"

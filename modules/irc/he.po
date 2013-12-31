@@ -17,6 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Launchpad-Export-Date: 2013-07-11 05:30+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../protocols/irc/src/ui/addaccountform.ui:14
 msgctxt "AddAccountForm|"
