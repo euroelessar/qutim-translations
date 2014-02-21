@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-28 19:33+0000\n"
-"PO-Revision-Date: 2013-03-26 16:39+0000\n"
+"PO-Revision-Date: 2014-02-20 15:30+0000\n"
 "Last-Translator: Yauhen Bugamol <haxycgm@gmail.com>\n"
 "Language-Team: Belarusian <be@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-03-27 05:23+0000\n"
-"X-Generator: Launchpad (build 16540)\n"
+"X-Launchpad-Export-Date: 2014-02-21 06:30+0000\n"
+"X-Generator: Launchpad (build 16916)\n"
 "X-Qt-Contexts: true\n"
 "Language: be\n"
 
@@ -147,7 +147,7 @@ msgstr "Адукацыя"
 #: ../../../protocols/vkontakte/share/vphotoalbum/default/PageHeader.qml:16
 msgctxt "PageHeader|"
 msgid "Header"
-msgstr ""
+msgstr "Загаловак"
 
 #: ../../../protocols/vkontakte/vreen/examples/cpp/phonefetcher/phonefetcher.cpp:59
 #, qt-format
@@ -408,7 +408,7 @@ msgstr ""
 #, qt-format
 msgctxt "main|"
 msgid "Duration %2"
-msgstr ""
+msgstr "Працягласць %2"
 
 #~ msgctxt "VAccountSettings|"
 #~ msgid "Password:"
