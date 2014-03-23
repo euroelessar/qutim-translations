@@ -8,14 +8,15 @@ msgstr ""
 "Project-Id-Version: qutim\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-01-29 12:42+0000\n"
-"PO-Revision-Date: 2013-02-06 16:54+0000\n"
+"PO-Revision-Date: 2014-03-22 08:21+0000\n"
 "Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-02-07 05:16+0000\n"
-"X-Generator: Launchpad (build 16477)\n"
+"X-Launchpad-Export-Date: 2014-03-23 06:36+0000\n"
+"X-Generator: Launchpad (build 16967)\n"
+"X-Qt-Contexts: true\n"
 
 #: ../../../plugins/urlpreview/__data_from_cmakelists_txt.cpp:1
 #: ../../../plugins/urlpreview/src/urlpreview.cpp:41
@@ -33,7 +34,7 @@ msgstr "הצגה מקדימה של תמונות ישירות מתוך חלון �
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:66
 msgctxt "UrlPreview::UrlHandler|"
 msgid "URL Preview"
-msgstr ""
+msgstr "הצגה מקדימה של URL"
 
 #: ../../../plugins/urlpreview/src/messagehandler.cpp:66
 msgctxt "UrlPreview::UrlHandler|"
@@ -70,7 +71,7 @@ msgstr "וידאו HTML5"
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:14
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Form"
-msgstr ""
+msgstr "טופס"
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:26
 msgctxt "UrlPreviewSettingsForm|"
@@ -80,7 +81,7 @@ msgstr "גודל קובץ מרבי"
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:33
 msgctxt "UrlPreviewSettingsForm|"
 msgid "Max picture size to preview "
-msgstr ""
+msgstr "גודל תמונה מרבי לשם הצגה מקדימה "
 
 #: ../../../plugins/urlpreview/src/urlpreviewsettings.ui:36
 msgctxt "UrlPreviewSettingsForm|"
