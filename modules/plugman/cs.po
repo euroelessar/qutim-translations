@@ -1,0 +1,281 @@
+# Czech translation for qutim
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-01-28 19:33+0000\n"
+"PO-Revision-Date: 2014-06-29 14:24+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Czech <cs@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-06-30 05:59+0000\n"
+"X-Generator: Launchpad (build 17077)\n"
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:14
+msgctxt "ChooseCategoryPage|"
+msgid "WizardPage"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:23
+msgctxt "ChooseCategoryPage|"
+msgid "Package category:"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:31
+msgctxt "ChooseCategoryPage|"
+msgid "Art"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:36
+msgctxt "ChooseCategoryPage|"
+msgid "Core"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:41
+msgctxt "ChooseCategoryPage|"
+msgid "Lib"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:46
+msgctxt "ChooseCategoryPage|"
+msgid "Plugin"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.ui:66
+msgctxt "ChooseCategoryPage|"
+msgid "..."
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.cpp:66
+msgctxt "ChooseCategoryPage|"
+msgid "Select art"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.cpp:75
+msgctxt "ChooseCategoryPage|"
+msgid "Select core"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.cpp:80
+msgctxt "ChooseCategoryPage|"
+msgid "Library (*.dll)"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.cpp:82
+msgctxt "ChooseCategoryPage|"
+msgid "Library (*.dylib *.bundle *.so)"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.cpp:84
+msgctxt "ChooseCategoryPage|"
+msgid "Library (*.so)"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/choosecategorypage.cpp:86
+msgctxt "ChooseCategoryPage|"
+msgid "Select library"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/choosepathpage.ui:14
+msgctxt "ChoosePathPage|"
+msgid "WizardPage"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/choosepathpage.ui:35
+msgctxt "ChoosePathPage|"
+msgid "..."
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:14
+msgctxt "ConfigPackagePage|"
+msgid "WizardPage"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:29
+msgctxt "ConfigPackagePage|"
+msgid "Name:"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:41
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:62
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:113
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:134
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:165
+msgctxt "ConfigPackagePage|"
+msgid "*"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:50
+msgctxt "ConfigPackagePage|"
+msgid "Version:"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:71
+msgctxt "ConfigPackagePage|"
+msgid "Category:"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:90
+msgctxt "ConfigPackagePage|"
+msgid "Art"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:95
+msgctxt "ConfigPackagePage|"
+msgid "Core"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:100
+msgctxt "ConfigPackagePage|"
+msgid "Lib"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:105
+msgctxt "ConfigPackagePage|"
+msgid "Plugin"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:122
+msgctxt "ConfigPackagePage|"
+msgid "Type:"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:143
+msgctxt "ConfigPackagePage|"
+msgid "Short description:"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:153
+msgctxt "ConfigPackagePage|"
+msgid "Url:"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:174
+msgctxt "ConfigPackagePage|"
+msgid "Author:"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:184
+msgctxt "ConfigPackagePage|"
+msgid "License:"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:194
+msgctxt "ConfigPackagePage|"
+msgid "Platform:"
+msgstr ""
+
+#: ../../../plugins/plugman/tools/packgen/configpackagepage.ui:211
+msgctxt "ConfigPackagePage|"
+msgid "Package name:"
+msgstr ""
+
+#: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:20
+msgctxt "InstallButton|"
+msgid "Install"
+msgstr ""
+
+#: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:24
+msgctxt "InstallButton|"
+msgid "Update"
+msgstr ""
+
+#: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:28
+msgctxt "InstallButton|"
+msgid "Installing"
+msgstr ""
+
+#: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:32
+msgctxt "InstallButton|"
+msgid "Updating"
+msgstr ""
+
+#: ../../../plugins/plugman/qml/plugman/default/InstallButton.qml:36
+msgctxt "InstallButton|"
+msgid "Uninstall"
+msgstr ""
+
+#: ../../../plugins/plugman/src/packagedownloaddialog.cpp:52
+msgctxt "PackageDownloadDialog|"
+msgid "Get Hot New Stuff"
+msgstr ""
+
+#: ../../../plugins/plugman/src/packageentrywidget.cpp:99
+#: ../../../plugins/plugman/src/packageentrywidget.cpp:102
+#: ../../../plugins/plugman/src/packageentrywidget.cpp:105
+#, qt-format
+msgctxt "PackageEntryWidget|"
+msgid "By <i>%1</i>"
+msgstr ""
+
+#: ../../../plugins/plugman/src/packageentrywidget.cpp:121
+msgctxt "PackageEntryWidget|"
+msgid "Install"
+msgstr ""
+
+#: ../../../plugins/plugman/src/packageentrywidget.cpp:125
+msgctxt "PackageEntryWidget|"
+msgid "Update"
+msgstr ""
+
+#: ../../../plugins/plugman/src/packageentrywidget.cpp:129
+msgctxt "PackageEntryWidget|"
+msgid "Installing"
+msgstr ""
+
+#: ../../../plugins/plugman/src/packageentrywidget.cpp:134
+msgctxt "PackageEntryWidget|"
+msgid "Updating"
+msgstr ""
+
+#: ../../../plugins/plugman/src/packageentrywidget.cpp:139
+msgctxt "PackageEntryWidget|"
+msgid "Uninstall"
+msgstr ""
+
+#: ../../../plugins/plugman/src/plugman.cpp:65
+msgctxt "PackageManager|"
+msgid "Manage packages"
+msgstr ""
+
+#: ../../../plugins/plugman/__data_from_cmakelists_txt.cpp:1
+msgctxt "Plugin|"
+msgid "Package Manager"
+msgstr ""
+
+#: ../../../plugins/plugman/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/plugman/src/plugman.cpp:53
+msgctxt "Plugin|"
+msgid "Provides possibility to Get Hot New Stuff from open community"
+msgstr ""
+
+#: ../../../plugins/plugman/src/plugman.cpp:52
+msgctxt "Plugin|"
+msgid "Package manager"
+msgstr ""
+
+#: ../../../plugins/plugman/qml/plugman/default/main.qml:24
+msgctxt "main|"
+msgid "Search"
+msgstr ""
+
+#: ../../../plugins/plugman/qml/plugman/default/main.qml:36
+msgctxt "main|"
+msgid "Order By"
+msgstr ""
+
+#: ../../../plugins/plugman/qml/plugman/default/main.qml:59
+msgctxt "main|"
+msgid "Order by: "
+msgstr ""
+
+#: ../../../plugins/plugman/qml/plugman/default/main.qml:69
+msgctxt "main|"
+msgid "Get emoticons"
+msgstr ""
