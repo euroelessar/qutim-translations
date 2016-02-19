@@ -1,0 +1,140 @@
+# English (United Kingdom) translation for qutim
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-01-28 19:34+0000\n"
+"PO-Revision-Date: 2016-02-18 06:14+0000\n"
+"Last-Translator: Andi Chandler <Unknown>\n"
+"Language-Team: English (United Kingdom) <en_GB@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2016-02-19 05:30+0000\n"
+"X-Generator: Launchpad (build 17925)\n"
+
+#: ../../../plugins/docktile/src/dockplugin.cpp:6
+msgctxt "Author|"
+msgid "Aleksey Sidorov"
+msgstr "Aleksey Sidorov"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:14
+msgctxt "MainWindow|"
+msgid "Dock Tile example"
+msgstr "Dock Tile example"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:24
+msgctxt "MainWindow|"
+msgid "Badge text:"
+msgstr "Badge text:"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:34
+msgctxt "MainWindow|"
+msgid "Progress indicator:"
+msgstr "Progress indicator:"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:54
+msgctxt "MainWindow|"
+msgid "Alert"
+msgstr "Alert"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:71
+msgctxt "MainWindow|"
+msgid "Menu"
+msgstr "Menu"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:75
+msgctxt "MainWindow|"
+msgid "Subelement"
+msgstr "Subelement"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:96
+msgctxt "MainWindow|"
+msgid "Element"
+msgstr "Element"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:99
+msgctxt "MainWindow|"
+msgid "A very simple element, as you see."
+msgstr "A very simple element, as you see."
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:104
+msgctxt "MainWindow|"
+msgid "Element 1"
+msgstr "Element 1"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:107
+msgctxt "MainWindow|"
+msgid "First element? Hm…"
+msgstr "First element? Hm…"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:112
+msgctxt "MainWindow|"
+msgid "Element 2"
+msgstr "Element 2"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:115
+msgctxt "MainWindow|"
+msgid "Oh my god! Here's the second one!"
+msgstr "Oh my god! Here's the second one!"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:120
+msgctxt "MainWindow|"
+msgid "Element with icon"
+msgstr "Element with icon"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:123
+msgctxt "MainWindow|"
+msgid "Wow! An icon? So cool."
+msgstr "Wow! An icon? So cool."
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:131
+msgctxt "MainWindow|"
+msgid "Disabled element"
+msgstr "Disabled element"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:134
+msgctxt "MainWindow|"
+msgid "What happened? Wha…"
+msgstr "What happened? Wha…"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:145
+msgctxt "MainWindow|"
+msgid "Checkable element"
+msgstr "Checkable element"
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.ui:148
+msgctxt "MainWindow|"
+msgid "Let's check it."
+msgstr "Let's check it."
+
+#: ../../../plugins/docktile/qtdocktile/examples/simpledock/mainwindow.cpp:60
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Action %1 triggered"
+msgstr "Action %1 triggered"
+
+#: ../../../plugins/docktile/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/docktile/src/dockplugin.cpp:10
+msgctxt "Plugin|"
+msgid "DockTile"
+msgstr "DockTile"
+
+#: ../../../plugins/docktile/__data_from_cmakelists_txt.cpp:2
+msgctxt "Plugin|"
+msgid "Dock integration"
+msgstr "Dock integration"
+
+#: ../../../plugins/docktile/src/dockplugin.cpp:11
+msgctxt "Plugin|"
+msgid "Dock tile integration"
+msgstr "Dock tile integration"
+
+#: ../../../plugins/docktile/src/dockplugin.cpp:7
+msgctxt "Task|"
+msgid "Developer"
+msgstr "Developer"
