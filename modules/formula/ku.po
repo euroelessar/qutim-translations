@@ -1,0 +1,30 @@
+# Kurdish translation for qutim
+# Copyright (c) 2017 Rosetta Contributors and Canonical Ltd 2017
+# This file is distributed under the same license as the qutim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: qutim\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-05-04 19:01+0000\n"
+"PO-Revision-Date: 2017-02-03 22:08+0000\n"
+"Last-Translator: Rokar <Unknown>\n"
+"Language-Team: Kurdish <ku@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-02-04 05:45+0000\n"
+"X-Generator: Launchpad (build 18322)\n"
+
+#: ../../../plugins/formula/__data_from_cmakelists_txt.cpp:1
+#: ../../../plugins/formula/src/formulaplugin.cpp:32
+msgctxt "Plugin|"
+msgid "Formula"
+msgstr "formyûle"
+
+#: ../../../plugins/formula/__data_from_cmakelists_txt.cpp:2
+#: ../../../plugins/formula/src/formulaplugin.cpp:33
+msgctxt "Plugin|"
+msgid "Plugin replaces equations surrounded by $$ by tex images"
+msgstr ""
